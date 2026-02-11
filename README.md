@@ -23,8 +23,6 @@ https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker*
 <br/>
 <br/>
 <br/>
-The text of Ars Magica 5th Edition and its sourcebooks (53 books total) has been released under an open license:
-Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
+**License:** All text of Ars Magica 5th Edition and its sourcebooks (53 books total) has been released under an open license:
+*Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")*
 https://www.atlas-games.com/arsmagica/openars
-
-
