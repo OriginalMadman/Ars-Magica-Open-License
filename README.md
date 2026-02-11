@@ -1,4 +1,5 @@
-# The Ars Magica Open License - Complete Corpus in Markdown
+# Ars Magica RPG Open License
+### The Complete Corpus in Friendly Markdown Format
 
 This is a work-in-progress repository for machine-extracted, manually fixed markdowns of a complete set of the official Ars Magica Open Licensed material. These files should all be of a significantly better quality than most what has been released openly so far.
 
