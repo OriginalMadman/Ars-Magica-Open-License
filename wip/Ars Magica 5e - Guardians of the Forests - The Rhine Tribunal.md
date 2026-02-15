@@ -1,3 +1,4 @@
+# Guardians of the Forest: The Rhine Tribunal
 
 
 **AUTHORS:** Mark Shirley and Andrew Smith **EDITING AND DEVELOPMENT:** David Chart **COVER ILLUSTRATION:** Grey Thornberry
@@ -36,7 +37,7 @@ Copyright 2005 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 # *Table of Contents*
 
-| **Chapter I: Introduction**<br>
+**Chapter I: Introduction**<br>
 Germany<br>The Rhine Tribunal<br>History and Myth<br>How to Use This Book<br>
 **Chapter II: History of Mythic Germany**<br>
 Germania Magna<br>The Great Migration<br>The Merovingians<br>The Frankish Empire<br>The Rise of the New Empire<br>Frederick Barbarossa1
@@ -5010,4 +5011,5 @@ Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany
 - gabriel.org/names/german.shtml Mulford, M. *The Forest in German Consciousness*: http://www.frontiernet.net/ ~mmulford/FOREST.HTM
 - Lerman, K. *The Life and Works of Hildegard of Bingen*: http://www.fordham.edu /halsall/med/hildegarde.html
 - Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/~workshop/papers/gardner\_102802.pdf
+
 - *LEO English-German Dictionary*: http://dict.leo.org/
