@@ -53,9 +53,9 @@ Thuringia<br>
 Franconia<br>
 Bavaria<br>
 **Chapter IX: The Eastern Marches**<br>
-The Baltic Sea<br>Rügen<br>Crintera<br>Pomerania<br>The Margravate of Brandenburg <br>The Margravate of Meissen<br>The Margravate of Lusatia <br>**Chapter X: Bohemia**<br>Bohemia<br>Irencillia<br>The Margravate of Moravia<br>Roznov       
-**Chapter XI: Rhine Sagas**<br>Establishing Your Covenant <br>
-The Crintera Schism<br>Wind, Wave, and Ice<br>Between the Devil and the Deep<br>Blue Sea<br>The Hidden Covenant
+The Baltic Sea<br>Rügen<br>Crintera<br>Pomerania<br>The Margravate of Brandenburg <br>The Margravate of Meissen<br>The Margravate of Lusatia <br>
+**Chapter X: Bohemia**<br>Bohemia<br>Irencillia<br>The Margravate of Moravia<br>Roznov       
+**Chapter XI: Rhine Sagas**<br>Establishing Your Covenant<br>The Crintera Schism<br>Wind, Wave, and Ice<br>Between the Devil and the Deep<br>Blue Sea<br>The Hidden Covenant<br>
 **Chapter XII: Curse of the Rhine Gorge**<br> Local Hermetic History<br>The Saga Begins<br>The Rhine Gorge<br>The Westerwald<br>The Mosel Valley<br>Establishing a Covenant<br>The Curse
 **Appendices**<br>
 Appendix A: Languages and Names<br>
@@ -5013,4 +5013,5 @@ Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany
 - Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/~workshop/papers/gardner\_102802.pdf
 
 - *LEO English-German Dictionary*: http://dict.leo.org/
+
 
