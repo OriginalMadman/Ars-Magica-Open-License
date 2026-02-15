@@ -5013,3 +5013,4 @@ Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany
 - Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/~workshop/papers/gardner\_102802.pdf
 
 - *LEO English-German Dictionary*: http://dict.leo.org/
+
