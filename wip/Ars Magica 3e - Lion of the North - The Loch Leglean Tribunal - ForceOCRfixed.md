@@ -2,7 +2,7 @@
 
 A Sourcebook to Mythic Scotland for Ars Mágica™ 3rd Edition
 
-
+x
 
 Come to a land of hills and shadow, where faeries evil and benign daily touch the lives of the inhabitants. Here, near-immortal magicians change throughout the centuries into hideous monsters, and monoliths tell of ancient battles in tongues spoken only by a few shadowy magi.
 
@@ -1252,8 +1252,9 @@ The stoorworm is as long as a ship and as thick around asa tree trunk. It has ne
 
 a Stoorworms prefer not to face multiple opponents, but often do not recognize ships as constructs filled with multiple foes, seeing them rather as individ. ual intruders in their domain. When the stoorworm comes ashore (which is extremely rare), reduce the First Strike and Attack scores of both the Bite and Entwine attacks by half, though Damage remains the same.
 
-- \* Powers: The poison of the stoorworm coats its teeth and will stick to armor or shields after a bite attack. Characters handling anything bitten by a stoorworm must take great care that no poison enters the mouth, nose, eyes, or open wounds. A Dexterity roll of 8+ will ensure that the character has avoided the poison. If the roll fails, the character must make a Stamina roll of 9+. On a successful roll, the character loses one body level; on a failure, two.
-- \*\* Entwines on the first round; every round thereafterhas a cumulative +8 damage (2nd round +8 damage, 3rd round +16, etc.). The stoorworm can automatically bite anyone caught in its coils. Each human-sized object held by the stoorworm reduces its Entwine First Strike attack by 6. Damage is reduced by 6 for each object after the first.
+\* Powers: The poison of the stoorworm coats its teeth and will stick to armor or shields after a bite attack. Characters handling anything bitten by a stoorworm must take great care that no poison enters the mouth, nose, eyes, or open wounds. A Dexterity roll of 8+ will ensure that the character has avoided the poison. If the roll fails, the character must make a Stamina roll of 9+. On a successful roll, the character loses one body level; on a failure, two.
+
+\*\* Entwines on the first round; every round thereafterhas a cumulative +8 damage (2nd round +8 damage, 3rd round +16, etc.). The stoorworm can automatically bite anyone caught in its coils. Each human-sized object held by the stoorworm reduces its Entwine First Strike attack by 6. Damage is reduced by 6 for each object after the first.
 
 \*\*\* The stoorworm may use 2 Magic Might points to breathe a cloud of poison gas. Every creature (except the worm!) within a cone ten feet wide by twenty feet long must make a Stamina roll of 9+ or lose two body levels. A successful roll still results in the loss of one body level
 
