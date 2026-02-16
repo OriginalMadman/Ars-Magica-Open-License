@@ -431,26 +431,24 @@ In a city, most of the dwellings would be under a Dominion rating of 3, with are
 
 As another guide, the Dominion is typically strongest where people gather to worship in a consecrated place (aura 4), with the dwellings of the faithful protected by the next-strongest aura (aura 3), and the workplaces of the faithful gaining the final level of Dominion (aura 1 or 2).
 
-## Dominion Power Examples
-
-A quick guide to determine the strength of the Dominion in a given area is provided below. At night, subtract one from the rating, and add one on holy days (Sundays for example). Mosques and synagogues of equal significance to a church have the equivalent Dominion rating.
-
-| AREA                                | AURA RATING |
-|-------------------------------------|-------------|
-| Rural area1                         |     1       |
-| Town or fortification               |     2       |
-| City                                |      3      |
-| Consecrated ground                  |     3-5     |
-| Small Church                        |      4      |
-| Large Church or Cathedral           |      5      |
-| Site of pilgrimage or veneration    |      4-8    |
-| St Peter's Basilica, Church of Holy Wisdom, the Dome of the Rock, Mt. Sinai     |        5-10     |
+>#### Dominion Power Examples
+>
+>A quick guide to determine the strength of the Dominion in a given area is provided below. At night, subtract one from the rating, and add one on holy days (Sundays for example). Mosques and synagogues of equal significance to a church have the equivalent Dominion rating.
+>
+>| AREA                                | AURA RATING |
+>|-------------------------------------|-------------|
+>| Rural area1                         |     1       |
+>| Town or fortification               |     2       |
+>| City                                |      3      |
+>| Consecrated ground                  |     3-5     |
+>| Small Church                        |      4      |
+>| Large Church or Cathedral           |      5      |
+>| Site of pilgrimage or veneration    |      4-8    |
+>| St Peter's Basilica, Church of Holy Wisdom, the Dome of the Rock, Mt. Sinai     |        5-10     |
 
 #### **CONFLICTING AURAS**
 
-More so than other auras, the Dominion regularly conflicts and challenges the auras from other realms. During the expansion of Christianity, Islam, and the kingdom of Israel, the Dominion abutted and pressed against Magic and Faerie auras. Due to the purpose and nature of the Dominion, when it comes to influence in an area with another realm's aura of equal strength, the
-
-[TODO Missing parapgraph ?]
+More so than other auras, the Dominion regularly conflicts and challenges the auras from other realms. During the expansion of Christianity, Islam, and the kingdom of Israel, the Dominion abutted and pressed against Magic and Faerie auras. Due to the purpose and nature of the Dominion, when it comes to influence in an area with another realm's aura of equal strength, the Dominion will trump the opposing aura; a more-powerful aura will still overwhelm the Dominion, however.
 
 ## Holy of Holies
 
@@ -462,7 +460,7 @@ In Mythic Europe, the communion wafer and wine are among the holiest of objects,
 
 In Christian churches, the Host is a focus of worship, being the manifestation of God the Son. The Eucharist radiates a Dominion (not Empyreal aura) of five until the next Good Friday; this aura decreases by one every five paces, and completely vanishes if profaned in any way (such as if it is used for any superstitious purpose).
 
-Dominion will trump the opposing aura; a more-powerful aura will still overwhelm the Dominion, however.
+
 
 ## Sample Dominion Aura: Athlit, the Pilgrim's Castle
 
@@ -8075,6 +8073,7 @@ Various Leading Orientalists. The Encyclopaedia of Islam. 1st Edition, 4 vols. a
 Various Leading Orientalists. The Encyclopaedia of Islam. New Edition, 9 vols. and Supplements. Leiden: E. I Brill 1979-98
 
 Volz, Carl A. The Church of the Middle Ages. St. Louis: Concordia Publishing House, 1970
+
 
 
 
