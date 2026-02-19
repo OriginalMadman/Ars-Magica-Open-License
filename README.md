@@ -14,6 +14,16 @@ This is a work-in-progress repository for machine-extracted, manually fixed mark
 The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
 <br/>
 <br/>
+#### Why Markdown?
+There are several good reasons why Markdown may be the best “forever” format for the Ars Magica Open License text content:
+
+Markdown's greatest practical strength for open-license content is that it is a universal source format. It is plain text, even human-readable without a renderer - and readily convert to any format (HTML, PDF, EPUB, DOCX, Google DOCS, MediaWIKI etc), natively version-controlled with Git, and readable by both humans and machines without ANY proprietary software. It carries no vendor lock-in and is durable across decades.
+
+This write-once, publish-anywhere model means the canonical open-license text can stay clean and unencumbered, while feeding any wanted derivatives in the easiest possible manner (compare this with copy/pasting from PDF (everyone’s favorite…?), trying to convert .docx formats or manually reformatting plain text headings and tables).
+
+You can straight open a markdown in google docs, word, (modern) notepad - or use Visual Code, Typora, Notepad++ (with plugin) etc or copy paste as-is to Websites (like GitHub), Blogs (WordPress, Medium), Notes (Notion, Obsidian), Chats (Slack, Discord), and Forums (this one!) as they all support Markdown natively.
+<br/>
+<br/>
 <br/>
 **Note:** *The excellent folks at redcap.org also have a project to provide these materials to the public on their wiki. However the project seems to have slow progress as of late, and at a less complete stage than this (redcap team is welcome to grab anything here to help of course).
 https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker*
