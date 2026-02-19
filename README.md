@@ -4,7 +4,7 @@
 # The Complete Corpus in Friendly Markdown Format
 ### All 53 official books of the Ars Magica RPG Open License
 <br/>
-This is a work-in-progress repository for machine-extracted, manually fixed markdowns of a complete set of the official Ars Magica Open Licensed material. These files should all be of a significantly better quality than most what has been released openly so far.
+This is a work-in-progress repository for machine-extracted, manually fixed markdowns of a complete set of the official Ars Magica Open Licensed material. These files should all be of a significantly better quality than what has been released openly so far.
 
 * In the **raw-md** folder, you'll find raw output dumps (from a longer workflow of re-OCR and AI-enhanced extraction and conversion) that are mostly in pretty good shape (3rd edition books excluded). However, expect that tables, index and anything obscured by graphics may be broken. Headings are often a bit garbled, and text may be out of sequence or missing due to borked pdf layouts. NOT RECOMMENDED FOR USE!
 * In the **wip** folder, is manual fixing work-in-progress. Whatever is here can be expected to be in much better shape than the raw markdowns. All extraneous image links and html is gone from all files (the br's are required for multiline tables), and so's plenty of junk. Use these files until **done** is populated. If you want to help fix something, checkout these.
