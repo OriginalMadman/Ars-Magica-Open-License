@@ -12,7 +12,7 @@ The heart of an Empire. The birth place of Christianity. The nexus of the Order 
 
 The Tribunals of Hermes: Rome™ is the second in a series of Ars Magica™ 3rd edition setting supplements. This book provides extensive detail on the magical and mundane realms of Mythic Europe's Italian peninsula. Here players and Storyguides will find everything needed to tell a horrific Saga or startling tale in a land remembered for its glory, now renowned for its corruption.
 
-### **CREDITS**
+### CREDITS
 
 Writing: Shannon Appel and Chris Frerking
 
@@ -52,7 +52,7 @@ Tribunals of Hermes: Rome
 
 Digital Edition Version 1.0 Copyright © 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved.
 
-### **AUTHORS' DEDICATION**
+### AUTHORS' DEDICATION
 
 This book is dedicated to the members of Berkeley's Roman Tribunal Saga. Many of the ideas in this book were originally presented in those stories. Thanks to Philip Brown, Billy Filios, Scott Gier, Philip Gross, Donald Kubasak, Doug Lampert, Dave Martin, Doug Orleans, Don Petrovich, Dave Pickering, Eric Rowe, Matt Seidl, John Tomasetti, Chris Van Horn, Dave Woo, Kevin Wong and everyone else who played.
 
@@ -921,7 +921,7 @@ In many cities, the *popolo* gains political control and immediately sets to the
 
 The influence of city-republics in northern and central Italy extends beyond city walls. Each commune includs an area of countryside (or *contado*) surrounding the city, as well as numerous villages and even lesser cities subject to the rule of the city-republic. The treatment of people in the countryside and subject towns is not at all like that afforded commune residents.
 
-#### **Nobility and Peasants**
+#### Nobility and Peasants
 
 Originally, communes simply replaced overlords, with rural lords swearing allegiance to an entire city instead of a single, higher lord. With time, however, communes took direct control of the *contados*, specifying what could be grown there and how the land would be used. Communes had very specific needs and used the surrounding land to fulfill them. So tight was control exerted on the countryside that in times of famine, food was more plentiful in the city than in the countryside.
 
@@ -929,7 +929,7 @@ Covenants located in the countryside, near communes, might be in for a surprise 
 
 attitudes. If the commune discovers the true nature of the "astrologers," characters might find themselves at the commune's beck and call. Do the characters take drastic action or pick up and leave?
 
-#### **Subject Communes**
+#### Subject Communes
 
 All the powerful communes have smaller communes subject to their control. Subject cities are usually required to accept a Podesta chosen by the controlling city (spreading that city's Infernal corruption), to accept the jurisdiction of the controlling city, to pay a large portion of their income to the ruling city and to serve in the ruling city's military. This agreement, however, is not as one-sided as it appears. In return, the subject commune receives the protection of the controlling city, and its subjects gain the rights enjoyed by residents of the controlling city.
 
@@ -1307,7 +1307,7 @@ Insatella only finds true enjoyment in the mercantile world. She loves bargainin
 >
 >Other Combat Totals: Dodge Defense +4 (10 Action), Soak -2 (4 Action), Fatigue -2
 
-#### **Antho**
+#### Antho
 
 Follower of Mercere, Redcap for the Roman Tribunal
 
@@ -1483,7 +1483,7 @@ Literatus keeps 30 Grogs, divided between its holdings, most of whom are used to
 
 The Covenant also allows a few trusted mortal scholars to use its mundane library. There are almost always two or three of these at the Covenant, availing themselves of one of the greatest libraries in Mythic Europe. The scholars pay for library access, adding some of their own works to the collection, or granting fees to the Magi.
 
-#### **Amberitus**
+#### Amberitus
 
 Arch-Mage of Jerbiton, Leader of Literatus
 
@@ -1653,7 +1653,7 @@ In addition to offering associate member status to Quaesitoris, Magvillus offers
 
 Aside from its Magi, the Covenant has 40 Grogs, 14 of whom are assigned to guard the seven full Quaesitoris (each has two personal guards). Numerous other servants, including two scribes, are also employed.
 
-#### **Arliandus**
+#### Arliandus
 
 Primus of Quaesitor, Leader of Magvillus
 
@@ -1863,7 +1863,7 @@ The Covenant has a small cadre of 20 warriors (split between Asinaran and Veneti
 
 Rellantali has three Companions in charge of covenfolk. These are the Grog Captain, the Steward, and the "Merchant's Associate" (Master Thief). The first resides at the Asinaran fortress, the other two in Venice. The Merchant's Associate is clearly the most important of the three.
 
-#### **Mercatora**
+#### Mercatora
 
 Follower of Tytalus, Leader of Rellantali
 
@@ -2051,7 +2051,7 @@ Besides the Covenant's Magi, 15 warriors and a number of covenfolk live at Verdi
 
 Many of Verdi's covenfolk are of Arabic descent. The Saracens invaded Sardinia in the 9th century. Although Verdi managed to stay distant from invading forces, the Covenant later accepted these people as covenfolk, before Pisa and Genoa fought to reclaim the island.
 
-#### **Imanitosi**
+#### Imanitosi
 
 Primus of Verditius, Leader of Verdi
 
@@ -2093,7 +2093,7 @@ During her life Imanitosi has enchanted some two score magic items. Below are so
 >
 >Other Combat Totals: Dodge Defense -1 (5 Action), Soak +0 (6 Action), Fatigue +0 
 
-#### **Steris**
+#### Steris
 
 Follower of Verditius, Spokesman of Verdi
 
