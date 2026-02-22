@@ -1,8 +1,11 @@
 # Tribunals of Hermes: Rome
-
 A guide to the Corrupted Lands of Italy for Ars Magica™ 3rd Edition
 
-
+> *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+>
+> *[Completion state: Whole book manually fixed. Remaining: Another pass + Review]*
+>
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
 ### Dream of Virtue
 
@@ -16,7 +19,7 @@ The Tribunals of Hermes: Rome™ is the second in a series of Ars Magica™ 3rd 
 
 Writing: Shannon Appel and Chris Frerking
 
-**Development:** Ken Cliffe 
+**Development:** Ken Cliffe
 
 **Editing:** Alara Rogers
 
@@ -30,7 +33,7 @@ Cover: Michael Weaver Logo: Richard Thomas
 
 Interior Art: Eric Hotz, William O'Connor, Joshua Gabriel
 
-**Timbrook** 
+**Timbrook**
 
 Cartography: Brian Blume Back Cover: Michelle Prahler
 
@@ -66,7 +69,7 @@ Chapter Five: Covenants<br>
 Chapter Six: Mythic Places<br>
 Appendix: Roman Vocations
 
-## From the journal of Tamgor of Quaesitor
+## From the Journal of Tamgor of Quaesitor
 
 "In recent years, stories finding their way out of the Roman Tribunal have grown more and more bleak. Even messages from the great Magvillus itself, once beyond reproach, seem to suggest new factionalism within what I once considered the Order of Hermes' very Heart of Law. For decades, those of us beyond Italy have looked solemnly upon its degradation, and many of us had given up hope. Recently, however, there seems to shine a new light. Jarane of Quaesitor, the most respected of our House, save perhaps for Arliandus of Magvillus himself, has announced that he will gather a triad of Quaesitoris, and they will go to Italy to fix the ancient problems of the peninsula. It seems one of the oldest Tribunals of the Order may be saved.
 
@@ -246,11 +249,11 @@ Although many stories tell of the city of Rome's foundation, only one holds the 
 
 The foundation of Rome was the first step in Italy's great rise to power. The city gained independence slowly, finally throwing off the yoke of Etruscan rule just five centuries before the birth of Christ. The Republic of Rome was then founded, and began to conquer surrounding lands. Indeed, for 250 years Roman expansion was hindered little. Then the Republic of Rome met the Empire of Carthage.
 
->#### Folklore of the Roman Tribunal: Romulus and Remus
+> #### Folklore of the Roman Tribunal: Romulus and Remus
 >
->"The Vestal Virgin was raped and gave birth to twin boys. Mars, she declared, was their father... Neither gods nor men could save her or her babes from the savage hands of the King. The mother was bound and flung into prison; the boys, by the King's order, were condemned to be drowned in the river. Destiny, however, intervened... When the basket in which the infants had been exposed was left high and dry by the receding water, a she-wolf, coming down from the neighboring hills to quench her thirst, heard the children crying and made her way to where they were. She offered them her teats to suck and treated them with such gentleness that Faustulus, the King's herdsman, found her licking them with her tongue."
+> "The Vestal Virgin was raped and gave birth to twin boys. Mars, she declared, was their father... Neither gods nor men could save her or her babes from the savage hands of the King. The mother was bound and flung into prison; the boys, by the King's order, were condemned to be drowned in the river. Destiny, however, intervened... When the basket in which the infants had been exposed was left high and dry by the receding water, a she-wolf, coming down from the neighboring hills to quench her thirst, heard the children crying and made her way to where they were. She offered them her teats to suck and treated them with such gentleness that Faustulus, the King's herdsman, found her licking them with her tongue."
 >
->— Livy, The Early History of Rome
+> — Livy, The Early History of Rome
 
 Carthage had once been a Phoenician trading post, but through the ages built up a sizable empire. When the young Republic first challenged it, in the third century B.C., Carthage controlled much of the Mediterranean, including Corsica, Sardinia, and Sicily. Yet, somehow, the Republic of Rome beat its adversary in the three Punic Wars. When the third war ended, 100 years after the first had begun, the Empire of Carthage was obliterated. Over 50,000 had been killed in the final siege of Carthage, and the survivors were enslaved. It was a brutal act of conflict which set Italy's tone of violence for centuries to come.
 
@@ -434,11 +437,11 @@ The pontificate of Innocent III represents the height of Papal power. The Church
 
 With wars between northern Italian cities and the Empire quelled for a time, cities once again concentrate on fighting each other. They polarize around Imperialist (Ghibelline) and Papalist (Guelph) parties. Indeed, fighting in piazzas and streets becomes common. Towers and fortresses are built by wealthy families, and battles are fought between them. When one side gains the upper hand in a city (through a majority of the consuls, or by the support of the Podesta, or by military means) it banishes all powerful members of the other, tearing down the families' towers. In cities where feuding is protracted, families become so insular that some inbreeding occurs, making warring family members misshapen and twisted, an outer reflection of their inner corruption.
 
->#### Wisdom of the Mundanes
+> #### Wisdom of the Mundanes
 >
->"The Roman Church is like a leech; she calls herself my mother and nurse; but she is a stepmother, and the root of all evils. Her legates go through all lands binding, loosing, punishing; not to sow the seed of the Word, but to subdue all men and wring from them their money."
+> "The Roman Church is like a leech; she calls herself my mother and nurse; but she is a stepmother, and the root of all evils. Her legates go through all lands binding, loosing, punishing; not to sow the seed of the Word, but to subdue all men and wring from them their money."
 >
->- Frederick II, Manifesto Upon His Excommunication
+> - Frederick II, Manifesto Upon His Excommunication
 
 Despite the Code of Hermes, Magi involve themselves in family feuds. Some ally themselves with families and live within towers, becoming as insular and twisted as the families themselves. Even if the Quaesitor Jarane, who seeks to turn the Roman Tribunal around, succeeds at his task, new Hermetic problems based on family feuds will probably develop. Many new issues, concerning the protection of independent Magi and interaction with mundanes, may arise at Tribunal meetings. Some vulnerable Covenants, such as Luctatio or Harco, might be jeopardized if they are not able to deal with factional mundanes. They must either sever ties with mundanes to avoid Quaesitor punishment, or secure power with mundanes to have political leverage.
 
@@ -484,11 +487,11 @@ The battles of Frederick's reign leave northern Italy in ruins, and under the ru
 
 It is unlikely that Covenants of Italy escape unscathed from the battles of Frederick's reign. Besides Literatus, Harco and Luctatio both face great troubles. If they are not destroyed by mundane wars and the Inquisition, they may relocate, probably inspiring great conflict at Tribunal meetings as new boundaries of control are established.
 
->#### Wisdom of the Mundanes: Church and State
+> #### Wisdom of the Mundanes: Church and State
 >
->"If earthly power errs, it shall be judged by the spiritual power; if a lesser spiritual power errs it shall be judged by its superior, but if the supreme spiritual power [the Pope] errs it can be judged only by God, not by man, as the apostle witnesses, 'The spiritual man judgeth all things and he himself is judged of no man' (1 Corinthians 2:15)... The spiritual power exceeds any earthly one in dignity and nobility... We declare, state, define and pronounce that it is altogether necessary to salvation for every human creature to be subject to the Roman Pontiff."
+> "If earthly power errs, it shall be judged by the spiritual power; if a lesser spiritual power errs it shall be judged by its superior, but if the supreme spiritual power [the Pope] errs it can be judged only by God, not by man, as the apostle witnesses, 'The spiritual man judgeth all things and he himself is judged of no man' (1 Corinthians 2:15)... The spiritual power exceeds any earthly one in dignity and nobility... We declare, state, define and pronounce that it is altogether necessary to salvation for every human creature to be subject to the Roman Pontiff."
 >
->- Boniface VIII, Unam Sactam
+> - Boniface VIII, Unam Sactam
 
 ## Rise of the Tyrants
 
@@ -538,61 +541,63 @@ Perhaps out of Divine justice, Boniface's crimes are his undoing. To remove Boni
 
 Having eliminated a Pope, the French eventually take command of the Papacy itself, moving it to Avignon, France. In moving the power of the Church from Italy to France, the Church is to some small degree freed from the Infernal manipulations of the Roman Tribunal. Maybe, with this move, Italy shall become less of a battle ground for Infernal agents, resulting in a rebirth of Italian culture. However, the fate of France might be sealed, for Italy's demons are not happy with the loss.
 
-## Timeline of Mundane History 
-| Year         | Event                                          |
-|--------------|------------------------------------------------|
-|753 B.C.      | Foundation of Rome                             |
-| 509          | Foundation of the Roman Republic               |
-| 264 to 241   | The First Punic War                            |
-| 218 to 202   | The Second Punic War                           | 
-| 149 to 146   | The Third Punic War                            | 
-| 27           | Octavian becomes Augustus<br>The Roman Empire is begun  |
-| A.D. 284     | Administration of the Empire first split       |
-| 313          | Christianity recognized as a legitimate religion |
-| 330          | Seat of Empire moved to Constantinople         |
-| 395          | Final splitting of the Roman Empire            | 
-| 401          | The Visigoths invade Italy                     | 
-| 410          | The Visigoths sack Rome                        |    
-| 429          | The Vandals invade Roman African holdings      | 
-| 452          | The Huns invade Italy                          |
-| 455          | The Vandals sack Rome                          |
+## Timeline of Mundane History
+
+
+| Year         | Event                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| 753 B.C.     | Foundation of Rome                                                                           |
+| 509          | Foundation of the Roman Republic                                                             |
+| 264 to 241   | The First Punic War                                                                          |
+| 218 to 202   | The Second Punic War                                                                         |
+| 149 to 146   | The Third Punic War                                                                          |
+| 27           | Octavian becomes Augustus<br>The Roman Empire is begun                                       |
+| A.D. 284     | Administration of the Empire first split                                                     |
+| 313          | Christianity recognized as a legitimate religion                                             |
+| 330          | Seat of Empire moved to Constantinople                                                       |
+| 395          | Final splitting of the Roman Empire                                                          |
+| 401          | The Visigoths invade Italy                                                                   |
+| 410          | The Visigoths sack Rome                                                                      |
+| 429          | The Vandals invade Roman African holdings                                                    |
+| 452          | The Huns invade Italy                                                                        |
+| 455          | The Vandals sack Rome                                                                        |
 | 476          | Gothic conquest of Italy<br>Fall of the Western Roman Empire<br>Beginning of the Middle Ages |
-| 540          | Byzantine conquest of Italy                    |
-| 568          | Lombard conquest of Italy                      |             
-| 754          | Frankish conquest of Italy                     |
-| 774          | Charlemagne becomes King of the Franks and Lombards |
-| 800          | Charlemagne becomes Emperor of<br>the Romans   |
-| 831          | The Saracens invade Italy<br>Saracen conquest of Sicily   |   
-| 843          | Charlemagne's empire is divided                |
-| 847          | The Saracens nearly sack Rome                  |
-| 875          | End of Frankish rule of Italic Kingdoms        |
-| 875 to 962   | Chaotic Italic Independence                    |
-| 962 to 1002  | Germanic Rule of Italy                         |
-| 999 to 1003  | Pontificate of Sylvester II                    | 
-| 1059         | Robert Guiscard becomes Duke of Apulia and Calabria   |
-| 1060         | Norman conquest of Sicily                      |
-| 1084         | The Normans sack Rome                          |
-| 1096 to 1099 | The First Crusade                              |
-| 1100 to 1150 | Constant wars between the cities of northern Italy  |
-| 1122         | Concordant of Worms ends Investiture Contest   |
-| 1125         | Cities ofNorthern Italy begin to seize power   |
-| 1130         | Roger the Great becomes King of Sicily         |
-| 1147 to 1148 | The Second Crusade                             |
-| 1155 to 1190 | The wars of Frederick Barbarossa               |
-| 1189 to 1193 | The Third Crusade                              |
-| 1190         | The cities of northern Italy resume warring    |
-| 1194         | Germanic conquest of Sicily                    |
-| 1197         | Frederick II becomes King of Sicily            |
-| 1198 to 1218 | Pontificate of Innocent III                    |
-| 1201 to 1204 | The Fourth Crusade                             |
-| 1212         | The Children's Crusade                         |
-| 1217 to 1221 | The Fifth Crusade                              |
-| 1236 to 1255 | The wars of Eccelino da Romana                 |
-| 1248         | The Sixth Crusade                              |
-| 1250         | Death of Frederick II                          |
-| 1266         | Charles of Anjou's French crusade against Sicily |
-| 1270         | The Seventh Crusade                            |
-| 1282         | The Sicilian Vespers                           |
+| 540          | Byzantine conquest of Italy                                                                  |
+| 568          | Lombard conquest of Italy                                                                    |
+| 754          | Frankish conquest of Italy                                                                   |
+| 774          | Charlemagne becomes King of the Franks and Lombards                                          |
+| 800          | Charlemagne becomes Emperor of<br>the Romans                                                 |
+| 831          | The Saracens invade Italy<br>Saracen conquest of Sicily                                      |
+| 843          | Charlemagne's empire is divided                                                              |
+| 847          | The Saracens nearly sack Rome                                                                |
+| 875          | End of Frankish rule of Italic Kingdoms                                                      |
+| 875 to 962   | Chaotic Italic Independence                                                                  |
+| 962 to 1002  | Germanic Rule of Italy                                                                       |
+| 999 to 1003  | Pontificate of Sylvester II                                                                  |
+| 1059         | Robert Guiscard becomes Duke of Apulia and Calabria                                          |
+| 1060         | Norman conquest of Sicily                                                                    |
+| 1084         | The Normans sack Rome                                                                        |
+| 1096 to 1099 | The First Crusade                                                                            |
+| 1100 to 1150 | Constant wars between the cities of northern Italy                                           |
+| 1122         | Concordant of Worms ends Investiture Contest                                                 |
+| 1125         | Cities ofNorthern Italy begin to seize power                                                 |
+| 1130         | Roger the Great becomes King of Sicily                                                       |
+| 1147 to 1148 | The Second Crusade                                                                           |
+| 1155 to 1190 | The wars of Frederick Barbarossa                                                             |
+| 1189 to 1193 | The Third Crusade                                                                            |
+| 1190         | The cities of northern Italy resume warring                                                  |
+| 1194         | Germanic conquest of Sicily                                                                  |
+| 1197         | Frederick II becomes King of Sicily                                                          |
+| 1198 to 1218 | Pontificate of Innocent III                                                                  |
+| 1201 to 1204 | The Fourth Crusade                                                                           |
+| 1212         | The Children's Crusade                                                                       |
+| 1217 to 1221 | The Fifth Crusade                                                                            |
+| 1236 to 1255 | The wars of Eccelino da Romana                                                               |
+| 1248         | The Sixth Crusade                                                                            |
+| 1250         | Death of Frederick II                                                                        |
+| 1266         | Charles of Anjou's French crusade against Sicily                                             |
+| 1270         | The Seventh Crusade                                                                          |
+| 1282         | The Sicilian Vespers                                                                         |
 
 # Chapter Three: Hermetic History
 
@@ -712,9 +717,9 @@ There were only a few provisions of the treaty which were of lasting importance.
 - "No Magus may become involved as a mercenary in a battle of more than five men, nor more than three knights." (This provision keeps Magi from becoming a threat to the political powers that be. It does not prevent political advancement through intrigue. The term mercenary is also questionable, for the Magus might not be paid.)
 - "Each seven years, a meeting of the Roman Tribunal's Magi shall be held within the city of Venice, to ensure that this treaty's rules are respected and regulated."
 
->#### On Making Magic Items
+> #### On Making Magic Items
 >
->When creating invested devices, a good deal of effort is devoted to assuring the permanence of the enchantment. Thus, it is somewhat easier to make items that eventually fade, as is required by the Treaty of the Roman Tribunal for items provided to mundanes. When making items of limited use, the Level of all effects is divided in half, just as it is when an effect is made to work only on the item itself. When an item of limited application is complete, a stress die is rolled, the resulting number being the years that it lasts. On a Botch the item discharges almost immediately, wasting the Seasons of work devoted to it.
+> When creating invested devices, a good deal of effort is devoted to assuring the permanence of the enchantment. Thus, it is somewhat easier to make items that eventually fade, as is required by the Treaty of the Roman Tribunal for items provided to mundanes. When making items of limited use, the Level of all effects is divided in half, just as it is when an effect is made to work only on the item itself. When an item of limited application is complete, a stress die is rolled, the resulting number being the years that it lasts. On a Botch the item discharges almost immediately, wasting the Seasons of work devoted to it.
 
 The Treaty of the Roman Tribunal is part of the Peripheral Code and can be used to provide precedents in other Tribunals, but it has no legal power outside the Roman Tribunal.
 
@@ -732,30 +737,31 @@ Even in the 13th century there are many independent Magi in Italy, plying their 
 
 #### Timeline of Roman Tribunal History
 
-| Year        | Event                                                              |
-|-------------|--------------------------------------------------------------------|
-| c. 700 B.C. | Greek Cult of Hermes comes to Italy                                |
-| c. 600      | Foundation of the Roman Cult of Mercury                            |
-| c. 150      | Roman Cult of Mercury at its height                                |
-| A.D. 412    | Cult of Mercury officially disbanded                               |
-| 412 to 767  | Age of Chaos                                                       |
-| 767         | Order of Hermes is founded                                         |
-| 775         | Verdi is founded                                                   |
-| 776         | Harco is founded                                                   |
-| 793         | Auctus is founded                                                  |
-| 830         | Magvillus is founded                                               |
-| 838         | Rellantali is founded                                              |
-| 841         | Calabria is founded                                                |
-| 870         | Postestas is founded                                               |
-| 888         | Auctus is destroyed                                                |
-| 907         | Calabria disbands                                                  |
-| 951         | Sansaron is founded                                                |
-| 1001        | Literatus is founded                                               |
-| 1014        | Vardian's Tomb is founded                                          |
-| 1061        | Iernilus of Quaesitor comes to the<br>Roman Tribunal               |
-| 1068        | The Treaty of the Roman Tribunal is signed                         |
-| 1095        | Independent Magi estimated to out-number Covenant members      |
-| 1172        | Luctatio is founded                                                |
+
+| Year        | Event                                                                             |
+| ------------- | ----------------------------------------------------------------------------------- |
+| c. 700 B.C. | Greek Cult of Hermes comes to Italy                                               |
+| c. 600      | Foundation of the Roman Cult of Mercury                                           |
+| c. 150      | Roman Cult of Mercury at its height                                               |
+| A.D. 412    | Cult of Mercury officially disbanded                                              |
+| 412 to 767  | Age of Chaos                                                                      |
+| 767         | Order of Hermes is founded                                                        |
+| 775         | Verdi is founded                                                                  |
+| 776         | Harco is founded                                                                  |
+| 793         | Auctus is founded                                                                 |
+| 830         | Magvillus is founded                                                              |
+| 838         | Rellantali is founded                                                             |
+| 841         | Calabria is founded                                                               |
+| 870         | Postestas is founded                                                              |
+| 888         | Auctus is destroyed                                                               |
+| 907         | Calabria disbands                                                                 |
+| 951         | Sansaron is founded                                                               |
+| 1001        | Literatus is founded                                                              |
+| 1014        | Vardian's Tomb is founded                                                         |
+| 1061        | Iernilus of Quaesitor comes to the<br>Roman Tribunal                              |
+| 1068        | The Treaty of the Roman Tribunal is signed                                        |
+| 1095        | Independent Magi estimated to out-number Covenant members                         |
+| 1172        | Luctatio is founded                                                               |
 | 1196        | Tamgor of Quaesitor tours the Roman Tribunal, to bring information back to Jarane |
 
 ## The Crusades
@@ -784,31 +790,32 @@ At the start of your Ars Magica Saga, the Roman Tribunal is probably as strife-t
 
 Three prominent Quaesitoris from other Tribunals, led by the Quaesitor Jarane, are currently on their way to Venice with the intent of setting things straight in the Roman Tribunal. Many Magi, however, fearing that the conflict has already progressed too far, doubt that their efforts will have any effect.
 
-## Future of the Roman Tribunal   
-Although future events in the Roman Tribunal are left open for every Saga to decide, the mundane history of the next hundred years suggests many possibilities. These possibilities are described in Chapter Two and are summarized here, but in magical terms. Use these events as you see fit. They can be ignored, or Saga development can prevent several of them from occurring. Hopefully, though, these events help enrich your Saga, combining the Hermetic and 
-mundane events of the time. 
+## Future of the Roman Tribunal
+
+Although future events in the Roman Tribunal are left open for every Saga to decide, the mundane history of the next hundred years suggests many possibilities. These possibilities are described in Chapter Two and are summarized here, but in magical terms. Use these events as you see fit. They can be ignored, or Saga development can prevent several of them from occurring. Hopefully, though, these events help enrich your Saga, combining the Hermetic and
+mundane events of the time.
 
 c. 1200 Rebelling cities ask Hermetic Magi for aid, offering great rewards.
 
-1220 to 1250 Conflicts in northern Italy increase, putting both Luctatio and Harco in 
+1220 to 1250 Conflicts in northern Italy increase, putting both Luctatio and Harco in
 great danger. During this time, they may be moved, hidden or destroyed. Literatus allies itself with Frederick 11. A Covenant is founded in Naples by apprentices of Literatus
 
-1226 Another Covenant in Rome begins to move against Frederick 11, hoping to diminish the power of Literatus. 
+1226 Another Covenant in Rome begins to move against Frederick 11, hoping to diminish the power of Literatus.
 
-1237 Magi of Literatus take an active role in destroying Milanese diabolists for Frederick 11. As a result, the demon Peris takes flesh in Eccelino, ready to conquer Italy once and for all. 
+1237 Magi of Literatus take an active role in destroying Milanese diabolists for Frederick 11. As a result, the demon Peris takes flesh in Eccelino, ready to conquer Italy once and for all.
 
-1240 Literatus helps Frederick I1 capture hundreds of clergy. The Tribunal later disbands Literatus. The Cov- enant in Naples picks up where Literatus left off, before Frederick I1 
-corrupted Literatus. 
+1240 Literatus helps Frederick I1 capture hundreds of clergy. The Tribunal later disbands Literatus. The Cov- enant in Naples picks up where Literatus left off, before Frederick I1
+corrupted Literatus.
 
-1247 Magi of the Roman Tribunal move against Frederick 11. 
+1247 Magi of the Roman Tribunal move against Frederick 11.
 
 1259 Magi of the Roman Tribunal move against Eccelino-Peris.
 
-1266 Windgraven Magi enter the Roman Tribunal. Conflict between the Roman Tribunal and Provencal begins. 
+1266 Windgraven Magi enter the Roman Tribunal. Conflict between the Roman Tribunal and Provencal begins.
 
 1282 Conflict increases when Mistridge Magi begin to move against Windgraven in Italy
 
-1294 Grand Tribunal where the Provencal-Roman conflict comes to a head. 
+1294 Grand Tribunal where the Provencal-Roman conflict comes to a head.
 
 # Chapter Four: Roman Landscape
 
@@ -866,9 +873,9 @@ Typical councils usually have between 100 and 400 members. Due to the difficulty
 
 Council members are selected by a variety of methods. They might be chosen by direct citizen election, each region of a city might choose members of the council, electors or councils themselves might be chosen by lot from among the citizens, or out-going councilors might choose their replacements. All manners of councilor selection are subject to corruption; it's rare for someone to be chosen fairly.
 
->#### Offices of Sienna
+> #### Offices of Sienna
 >
->Examples of offices occupied by the people of Sienna in 1257: 171 night watchmen; 114 toll and customs officials; 90 tax assessors, hangmen, supervisors of grain and salt sales, officials to see to the upkeep of streets and houses, moneyers, supervisors of weights and measures, and trumpeters; six "good men" to oversee taverns and prevent swearing; six men to keep out wild donkeys, swine, lepers and to prevent people from spinning wool in the streets; and many others — 860 in all, not counting councilors.
+> Examples of offices occupied by the people of Sienna in 1257: 171 night watchmen; 114 toll and customs officials; 90 tax assessors, hangmen, supervisors of grain and salt sales, officials to see to the upkeep of streets and houses, moneyers, supervisors of weights and measures, and trumpeters; six "good men" to oversee taverns and prevent swearing; six men to keep out wild donkeys, swine, lepers and to prevent people from spinning wool in the streets; and many others — 860 in all, not counting councilors.
 
 An entire Covenant can become involved in a commune's council, assuming a character is a councilor. Most Roman Covenants would kill to have such a representative, to seize power within a city. The councilor might push for votes that support the Covenant, and magic might be used to sway council decisions. If the representing character is ever charged with crimes or corruption, covenfolk may search for the crime's true culprit (or a patsy), to preserve power in the city.
 
@@ -889,6 +896,7 @@ A commune's call to arms could be a problem for any Covenant in northern Italy, 
 On the field, commune armies are typically poorly organized. Soldiers usually lack discipline and training, and are often allowed to follow their own initiative in battle, as long as their company or standard is in sight.
 
 ### Other Officials
+
 Numerous other officials are needed to administer the communes. Notaries (by the hundreds), officers to see that walls, roads and wells are in good repair, and people to keep track of finances are but a few of the many needed commune officials.
 
 These officials, along with lower servants, such as night watchmen, are all drawn from the commune population. Given the scale of commune administration, it should be evident that most civil servants have other professions; there are very few professional civil servants. At any given time, as much as a third of a city's citizens might be involved in the administration of the city.
@@ -1203,7 +1211,7 @@ Symbol: A pointed red cap with a band around the base anda triangle on the band
 
 Season: Autumn
 
-Year Founded: A.D. 778 House 
+Year Founded: A.D. 778 House
 
 Affiliation: Mercere
 
@@ -1271,41 +1279,41 @@ Insatella is an old woman who has been Prima of Mercere for many years. She is a
 
 Insatella only finds true enjoyment in the mercantile world. She loves bargaining with others, revelling in victory when she gains some concession. Her love for trade is so great that she sometimes puts it ahead of Hermetic matters. When faced with important issues, Insatella usually tries to do what is right for the Order. Sometimes, however, the good of her House and her own mercantile enterprises cloud her judgement.
 
->#### Insatella
+> #### Insatella
 >
->Characteristics: Intelligence (crafty) +2, Perception (discerning) +2, Strength (fragile) -1, Stamina (infirm) -2, Presence (small) -1, Communication (forceful) +2, Dexterity 0, Quickness (rickety) -1
+> Characteristics: Intelligence (crafty) +2, Perception (discerning) +2, Strength (fragile) -1, Stamina (infirm) -2, Presence (small) -1, Communication (forceful) +2, Dexterity 0, Quickness (rickety) -1
 >
->Age: 147 (Longevity potion, Level 85, -17 on Aging rolls)
+> Age: 147 (Longevity potion, Level 85, -17 on Aging rolls)
 >
->Size: 0
+> Size: 0
 >
->Virtues & Flaws: Redcap +3, The Gentle Gift (no -3 penalty on social rolls) +1, Arthritis (Botch in a physical action results in seized joints; -5 to succeeding rolls) -3, Painful Magic (Ars Magica, p.72) -3, Temporal Influence (mundane influence) +2, Greater Leadership +6, Well-Traveled +1, Wealth +4
+> Virtues & Flaws: Redcap +3, The Gentle Gift (no -3 penalty on social rolls) +1, Arthritis (Botch in a physical action results in seized joints; -5 to succeeding rolls) -3, Painful Magic (Ars Magica, p.72) -3, Temporal Influence (mundane influence) +2, Greater Leadership +6, Well-Traveled +1, Wealth +4
 >
->Abilities: Speak Arabic (trading) 3, Speak French (messages) 5, Speak Italian (orders) 5, Speak Latin (magic) 6, Scribe Latin (magic) 5, Magic Theory (longevity potions) 9, Certámen (challenged by Tremere) 3, Concentration (loud noises) 5, Finesse (beauty) 4, Hermes Law (mundanes) 5, Hermes Lore (Mercere) 10, Hermes History (Mercere) 6, Meditation (resting body) 6, Parma Magica (Mentem) 8, Penetration (Mentem) 4, Athletics (running long distances) 5, Dodge (fleeing) 5, Chirurgy (binding wounds) 6, Evaluate Luxury Goods (from Levant) 8, Bargain (luxuries) 11, Diplomacy (poise) 9, Folk Ken (merchants) 8, Intrigue (rumors) 6, Leadership (Mercere) 12, Church Lore (corrupt priests) 5, French Lore (dangers) 4, Humanities (arts) 5, Levant Lore (luxury goods) 3, Lombardy Lore (merchants) 4
+> Abilities: Speak Arabic (trading) 3, Speak French (messages) 5, Speak Italian (orders) 5, Speak Latin (magic) 6, Scribe Latin (magic) 5, Magic Theory (longevity potions) 9, Certámen (challenged by Tremere) 3, Concentration (loud noises) 5, Finesse (beauty) 4, Hermes Law (mundanes) 5, Hermes Lore (Mercere) 10, Hermes History (Mercere) 6, Meditation (resting body) 6, Parma Magica (Mentem) 8, Penetration (Mentem) 4, Athletics (running long distances) 5, Dodge (fleeing) 5, Chirurgy (binding wounds) 6, Evaluate Luxury Goods (from Levant) 8, Bargain (luxuries) 11, Diplomacy (poise) 9, Folk Ken (merchants) 8, Intrigue (rumors) 6, Leadership (Mercere) 12, Church Lore (corrupt priests) 5, French Lore (dangers) 4, Humanities (arts) 5, Levant Lore (luxury goods) 3, Lombardy Lore (merchants) 4
 >
->Confidence: 6
+> Confidence: 6
 >
->Reputation: Hard Bargainer (merchants) 6, Greedy (Roman Magi) 3
+> Reputation: Hard Bargainer (merchants) 6, Greedy (Roman Magi) 3
 >
->Personality Traits: Enjoys Luxuries +3, Fair +2, Greedy +1, Sad +1
+> Personality Traits: Enjoys Luxuries +3, Fair +2, Greedy +1, Sad +1
 >
->Techniques and Forms: Creo 19, Intéllego 12, Muto 11, Perdo 10, Rego 20, Animál 10, Aquam 10, Auram 11, Córporem 17, Herbam 7, Ignem 10, Imágonem 11, Mentem 24, Terram 10, Vim 9
+> Techniques and Forms: Creo 19, Intéllego 12, Muto 11, Perdo 10, Rego 20, Animál 10, Aquam 10, Auram 11, Córporem 17, Herbam 7, Ignem 10, Imágonem 11, Mentem 24, Terram 10, Vim 9
 >
->Spell Casting Speed: 3
+> Spell Casting Speed: 3
 >
->**Twilight Points: 12** 
+> **Twilight Points: 12**
 >
->Effects of Twilight: Painful Magic and Arthritis are both due to Twilights
+> Effects of Twilight: Painful Magic and Arthritis are both due to Twilights
 >
->Spells Known: The Chirurgeon's Healing Touch (CrCo 20) +34, Incantation of the Body Made Whole (CrCo 45) +34, Lifting the Dangling Puppet (ReCo 20) +35, The Leap of Homecoming (ReCo 35) +35, The Seven League Stride (ReCo 35) +35, Repel the Wooden Shafts (ReHe 10) +25, Panic of the Trembling Heart (CrMe 15) +41, The Gift of Reason (CrMe 30) +41, Thoughts Within Babble (InMe 25) +34, Peering into the Mortal Mind (CrCo 30) +34, Enchantment of Detachment (MuMe 15) +33, Recollection of Memories Never Quite Lived (MuMe 20) +33, Trust of Childlike Faith (PeMe 10) +32, Aura of Rightful Authority (ReMe 20) +42, Scent of Peaceful Slumber (ReMe 20) +42
+> Spells Known: The Chirurgeon's Healing Touch (CrCo 20) +34, Incantation of the Body Made Whole (CrCo 45) +34, Lifting the Dangling Puppet (ReCo 20) +35, The Leap of Homecoming (ReCo 35) +35, The Seven League Stride (ReCo 35) +35, Repel the Wooden Shafts (ReHe 10) +25, Panic of the Trembling Heart (CrMe 15) +41, The Gift of Reason (CrMe 30) +41, Thoughts Within Babble (InMe 25) +34, Peering into the Mortal Mind (CrCo 30) +34, Enchantment of Detachment (MuMe 15) +33, Recollection of Memories Never Quite Lived (MuMe 20) +33, Trust of Childlike Faith (PeMe 10) +32, Aura of Rightful Authority (ReMe 20) +42, Scent of Peaceful Slumber (ReMe 20) +42
 >
->Wizard's Sigil: The target of Insatella's spells often feels or looks sad
+> Wizard's Sigil: The target of Insatella's spells often feels or looks sad
 >
->Weapons & Armor: None
+> Weapons & Armor: None
 >
->Encumbrance: 0
+> Encumbrance: 0
 >
->Other Combat Totals: Dodge Defense +4 (10 Action), Soak -2 (4 Action), Fatigue -2
+> Other Combat Totals: Dodge Defense +4 (10 Action), Soak -2 (4 Action), Fatigue -2
 
 #### Antho
 
@@ -1313,29 +1321,29 @@ Follower of Mercere, Redcap for the Roman Tribunal
 
 The youngest of the Redcaps of Mercere, and lacking magical skills, Antho carries the most messages to Covenants of the Roman Tribunal. It is a task that he begrudgingly accepts, for he believes he is fit for better things. Traveling to different Covenants, he has seen the wealth that many Magi have amassed and has seen the power they wield. He wants the same for himself, and realizes that the corrupt Roman Tribunal is the only place he's going to win those prizes, aside from performing exemplary, legitimate deeds in other Tribunals (which does not appeal to him). To gain power, Antho has become involved in Tribunal politics. Not only has he stooped to misplacing messages, but he has sold copies of letters and has been bribed into circulating false ones. Should Insatella learn of Antho's crimes, she would probably oust him from the Order, but might simply ensure that his indiscretions do good for Harco and might collect a share of the rewards.
 
->#### Antho
+> #### Antho
 >
->Characteristics: Intelligence (inquisitive) +2, Perception (watching for dangers) +1, Strength 0, Stamina (long journeys) +2, Presence (arrogant) +2, Communication (long-winded) +1, Dexterity 0, Quickness (fleeing) +1
+> Characteristics: Intelligence (inquisitive) +2, Perception (watching for dangers) +1, Strength 0, Stamina (long journeys) +2, Presence (arrogant) +2, Communication (long-winded) +1, Dexterity 0, Quickness (fleeing) +1
 >
->Age: 37 (Longevity potion, Level 60, -6 on Aging rolls)
+> Age: 37 (Longevity potion, Level 60, -6 on Aging rolls)
 >
->Virtues & Flaws: Redcap +4, Long-Winded (+3 to Fatigue rolls) +1, Strong-Willed (+3 on willpower rolls) +1, Versatile Sleeper +1, Over-Confident -1, Well-Traveled +1
+> Virtues & Flaws: Redcap +4, Long-Winded (+3 to Fatigue rolls) +1, Strong-Willed (+3 on willpower rolls) +1, Versatile Sleeper +1, Over-Confident -1, Well-Traveled +1
 >
->Abilities: Speak French (messages) 2, Speak Italian (messages) 5, Speak Latin (messages) 5, Athletics (running long distances) 5, Bargain (cheating) 3, Charm (being witty) 4, Guile (elaborate lies) 3, Intimidation (peasants) 2, Intrigue (plotting) 3, Subterfuge (con) 2, Bologna Lore (Literatus) 1, Hermes Law (Tribunals) 2, Hermes Lore (Tribunals) 3, Lombardy Lore (Luctatio) 1, Sardinia Lore (Verdi) 1, Venice Lore (townhouses) 3, Broadsword Attack (disguised opponents) 4, Dodge (missiles) 3
+> Abilities: Speak French (messages) 2, Speak Italian (messages) 5, Speak Latin (messages) 5, Athletics (running long distances) 5, Bargain (cheating) 3, Charm (being witty) 4, Guile (elaborate lies) 3, Intimidation (peasants) 2, Intrigue (plotting) 3, Subterfuge (con) 2, Bologna Lore (Literatus) 1, Hermes Law (Tribunals) 2, Hermes Lore (Tribunals) 3, Lombardy Lore (Luctatio) 1, Sardinia Lore (Verdi) 1, Venice Lore (townhouses) 3, Broadsword Attack (disguised opponents) 4, Dodge (missiles) 3
 >
->Confidence: 4
+> Confidence: 4
 >
->Reputation: Arrogant (Roman Magi) 3 Personality Traits: Haughty +3, Political +2
+> Reputation: Arrogant (Roman Magi) 3 Personality Traits: Haughty +3, Political +2
 >
->Weapons and Armor: 
+> Weapons and Armor:
 >
->Leather Cuirass
+> Leather Cuirass
 >
->Broadsword: First Strike +10, Attack +10, Damage +10
+> Broadsword: First Strike +10, Attack +10, Damage +10
 >
->Encumbrance: 1
+> Encumbrance: 1
 >
->Other Combat Totals: Dodge Defense +0 (6 Action), Soak +3 (9 Action), Fatigue +1
+> Other Combat Totals: Dodge Defense +0 (6 Action), Soak +3 (9 Action), Fatigue +1
 
 ### OUTSIDE RELATIONS
 
@@ -1491,39 +1499,39 @@ Amberitus is the oldest and most respected Magus at Literatus. He holds status a
 
 Should Amberitus ever be challenged for the title of Arch-Mage, he gives his opponent a difficult test. He has one of the Magi of Literatus choose a difficult question, about some obscure mundane topic, and challenges his rival to discover the answer before he does. (Although regular Arch-Mage contests must involve a magical test, the rules don't apply here, as rules rarely do in the Roman Tribunal.) The challenger is not allowed access to the libraries of Literatus, but Amberitus makes the contest even by allowing the challenger a full Season's head start. So far, Amberitus has been challenged twice and both challengers have failed. One apparently opened a book that, according to witnesses, literally engulfed him. The book was never found afterward. The other suddenly went into Twilight and was left a mental vegetable.
 
->#### Amberitus
+> #### Amberitus
 >
->Characteristics: Intelligence (logical) +4, Perception 0, Strength (out of shape) -1, Stamina 0, Presence (commanding)+1, Communication (wordy)+3, Dexterity (careless) -2, Quickness 0
+> Characteristics: Intelligence (logical) +4, Perception 0, Strength (out of shape) -1, Stamina 0, Presence (commanding)+1, Communication (wordy)+3, Dexterity (careless) -2, Quickness 0
 >
->Age: 101 (Longevity potion, Level 70, -14 on Aging rolls).
+> Age: 101 (Longevity potion, Level 70, -14 on Aging rolls).
 >
->Size: 0
+> Size: 0
 >
->Virtues and Flaws: The Gentle Gift (no -3 penalty to social rolls) +1, Magical Affinity (Intéllego) +4, Strong Writer +1, Temporal Influence (scholars) +2, Major Magic Deficiency (scores involving Vim are halved) -5, Greater Leadership +6
+> Virtues and Flaws: The Gentle Gift (no -3 penalty to social rolls) +1, Magical Affinity (Intéllego) +4, Strong Writer +1, Temporal Influence (scholars) +2, Major Magic Deficiency (scores involving Vim are halved) -5, Greater Leadership +6
 >
->Abilities: Speak Italian (simple words) 5, Speak Latin (teaching) 6, Scribe Greek (law books) 4, Scribe Latin (law books) 6, Magic Theory (Intéllego) 8, Certámen (forced peace) 6, Concentration (law) 5, Finesse (Intéllego) 4, Hermes History (11th century) 3, Hermes Law (mundanes) 9, Hermes Lore (Jerbiton) 4, Magic Affinity (Intéllego) 8, Parma Magica (Ignem) 3, Charisma (inspirational) 6, Debate (law) 7, Diplomacy (tact) 5, Leadership (Jerbiton) 8, Storytelling (morality plays) 5, Teaching (law) 5, Bologna Lore (students) 5, Church Knowledge (canon law) 10, Humanities (philosophy) 5, Legend Lore (Cult of Mercury) 4, Medicine (anatomy) 4, Roman Law (nobles) 10
+> Abilities: Speak Italian (simple words) 5, Speak Latin (teaching) 6, Scribe Greek (law books) 4, Scribe Latin (law books) 6, Magic Theory (Intéllego) 8, Certámen (forced peace) 6, Concentration (law) 5, Finesse (Intéllego) 4, Hermes History (11th century) 3, Hermes Law (mundanes) 9, Hermes Lore (Jerbiton) 4, Magic Affinity (Intéllego) 8, Parma Magica (Ignem) 3, Charisma (inspirational) 6, Debate (law) 7, Diplomacy (tact) 5, Leadership (Jerbiton) 8, Storytelling (morality plays) 5, Teaching (law) 5, Bologna Lore (students) 5, Church Knowledge (canon law) 10, Humanities (philosophy) 5, Legend Lore (Cult of Mercury) 4, Medicine (anatomy) 4, Roman Law (nobles) 10
 >
->Confidence: 5
+> Confidence: 5
 >
->Reputation: Stubborn (The Roman Tribunal) 2, Good Teacher (scholars) 6
+> Reputation: Stubborn (The Roman Tribunal) 2, Good Teacher (scholars) 6
 >
->Techniques and Forms: Creo 10, Intéllego 23, Muto 9, Perdo 8, Rego 12, Animál 11, Aquam 10, Auram 8, Córporem 20, Herbam 11, Ignem 5, Imágonem 15, Mentem 19, Terram 5, Vim 10
+> Techniques and Forms: Creo 10, Intéllego 23, Muto 9, Perdo 8, Rego 12, Animál 11, Aquam 10, Auram 8, Córporem 20, Herbam 11, Ignem 5, Imágonem 15, Mentem 19, Terram 5, Vim 10
 >
->**Spell Casting Speed: 4** 
+> **Spell Casting Speed: 4**
 >
->**Twilight Points: 6** 
+> **Twilight Points: 6**
 >
->Effects of Twilight: None
+> Effects of Twilight: None
 >
->Spells Known: Tongue of the Beasts (InAn 20) +42, Tongue of the Birds (InAn 20) +42, Peering into the Beastly Mind (InAn 30) +42, Revealed Flaws of Mortal Flesh (InCo 10) +51, The Inexorable Search (InCo 20) +51, Converse with Plants and Trees (InHe 25) +42, Vision of Heat's Light (InIg 20) +36, Eyes of the Past (InIm 20) +46, Summoning the Distant Images (InIm 35) +38, Perception of the Conflicting Motives (InMe 15) +50, Posing the Silent Question (InMe 25) +50, Thoughts Within Babble (InMe 25) +50, Peering into the Mortal Mind (InMe 30) +50, Stone Tell of the Mind that Sits (InTe 30) +36, Greeting the Maker (InTe 30) +36
+> Spells Known: Tongue of the Beasts (InAn 20) +42, Tongue of the Birds (InAn 20) +42, Peering into the Beastly Mind (InAn 30) +42, Revealed Flaws of Mortal Flesh (InCo 10) +51, The Inexorable Search (InCo 20) +51, Converse with Plants and Trees (InHe 25) +42, Vision of Heat's Light (InIg 20) +36, Eyes of the Past (InIm 20) +46, Summoning the Distant Images (InIm 35) +38, Perception of the Conflicting Motives (InMe 15) +50, Posing the Silent Question (InMe 25) +50, Thoughts Within Babble (InMe 25) +50, Peering into the Mortal Mind (InMe 30) +50, Stone Tell of the Mind that Sits (InTe 30) +36, Greeting the Maker (InTe 30) +36
 >
->Wizard's Sigil: An extreme clarity and conciseness of information
+> Wizard's Sigil: An extreme clarity and conciseness of information
 >
->Weapons and Armor: None
+> Weapons and Armor: None
 >
->Encumbrance: 0
+> Encumbrance: 0
 >
->Other Combat Totals: Dodge Defense +0 (6 Action), Soak +0 (6 Action), Fatigue +0
+> Other Combat Totals: Dodge Defense +0 (6 Action), Soak +0 (6 Action), Fatigue +0
 
 ### OUTSIDE RELATIONS
 
@@ -1597,13 +1605,13 @@ Library Art Scores: Creo 5, Intéllego 15, Muto 5, Perdo 4, Rego 7, Animál 7, A
 
 Library Ability Scores: Hermetic Law 12, Hermetic Lore 8, Hermes History 10, Magic Theory 5, Occult Lore 8, Fantastic Beast Lore 3, Legend Lore 4, Faerie Lore 3, Jewish Instruction 3, Arabic Instruction 3
 
->#### Lore of the Order: Transitionalism
+> #### Lore of the Order: Transitionalism
 >
->"As Quaesitoris of the Order, we carry a heavy burden. It is our duty to judge our brethren, always trying our best to be fair and impartial in all we decide. Fortunately, we have a great tool to aid us in this task — the Code of Hermes — carefully handed down to us from the original rulings to the most recent decisions of the Grand Tribunal. For ages we have made our decisions based upon strict interpretations of these laws, and it has always seemed enough.
+> "As Quaesitoris of the Order, we carry a heavy burden. It is our duty to judge our brethren, always trying our best to be fair and impartial in all we decide. Fortunately, we have a great tool to aid us in this task — the Code of Hermes — carefully handed down to us from the original rulings to the most recent decisions of the Grand Tribunal. For ages we have made our decisions based upon strict interpretations of these laws, and it has always seemed enough.
 >
->"Now I must most humbly suggest this is no longer the case. The world has changed dramatically in the past centuries. Many of our laws have become outdated. It has become clear to many of us within Quaesitor that any law or tradition incapable of changing is a burden rather than a blessing. The time has come to accept new ideas, to again use the Code as a tool to help Magi, not bind them. In the coming years, we must make a transition to a new way of thinking and must begin to interpret laws in ways appropriate to changing times. If we do not, I fear we shall slowly die, a victim of stagnant decline, much like the empire that ruled this peninsula a millennium ago."
+> "Now I must most humbly suggest this is no longer the case. The world has changed dramatically in the past centuries. Many of our laws have become outdated. It has become clear to many of us within Quaesitor that any law or tradition incapable of changing is a burden rather than a blessing. The time has come to accept new ideas, to again use the Code as a tool to help Magi, not bind them. In the coming years, we must make a transition to a new way of thinking and must begin to interpret laws in ways appropriate to changing times. If we do not, I fear we shall slowly die, a victim of stagnant decline, much like the empire that ruled this peninsula a millennium ago."
 >
->— Simprim of Quaesitor, speech to the Seven of Magvillus
+> — Simprim of Quaesitor, speech to the Seven of Magvillus
 
 ### HISTORY
 
@@ -1661,43 +1669,43 @@ In his youth, Arliandus was an extremely active practitioner of justice. He judg
 
 As for the Roman Tribunal, Arliandus feels Magvillus should take control, maintaining order and ensuring that all Magi follow the exact letter of Hermetic Law. Whenever Arliandus sits in judgement, he weighs two great principles: strict adherence to the code and justice.
 
->#### Arliandus
+> #### Arliandus
 >
->Characteristics: Intelligence (logical) +4, Perception (wary) +1, Strength 0, Stamina 0, Presence (powerful) +1, Communication 0, Dexterity (shaky hands) -1, Quickness (slow walk) -2
+> Characteristics: Intelligence (logical) +4, Perception (wary) +1, Strength 0, Stamina 0, Presence (powerful) +1, Communication 0, Dexterity (shaky hands) -1, Quickness (slow walk) -2
 >
->Age: 139 (Longevity potion, Level 90, -18 on Aging rolls)
+> Age: 139 (Longevity potion, Level 90, -18 on Aging rolls)
 >
->Size: 0
+> Size: 0
 >
->Virtues and Flaws: Quaesitor +1, Greater Leadership +6, Magical Affinity (magic that involves truth) +1, Flawless Magic (all Formulaic spells Mastered) +5, Fragile Constitution (-2 to wound recovery rolls) -1
+> Virtues and Flaws: Quaesitor +1, Greater Leadership +6, Magical Affinity (magic that involves truth) +1, Flawless Magic (all Formulaic spells Mastered) +5, Fragile Constitution (-2 to wound recovery rolls) -1
 >
->Abilities: Speak Italian (Grogs) 4, Speak Latin (decisions) 7, Scribe Latin (decisions) 6, Magic Theory (Intéllego) 9, Magic Affinity — Truth 5, Certámen (facing liars) 6, Concentration (talking) 11, Finesse (information) 8, Hermes History (justice) 7, Hermes Law (punishments) 12, Hermes Lore (The Roman Tribunal) 7, Parma Magica (Mentem) 9, Penetration (Intéllego) 7, Quarterstaff Attack (liars) 6, Quarterstaff Parry (liars) 5, Debate (laws) 5, Folk Ken (truth) 4, Leadership (Quaesitoris) 7, Occult Lore (diabolists) 4
+> Abilities: Speak Italian (Grogs) 4, Speak Latin (decisions) 7, Scribe Latin (decisions) 6, Magic Theory (Intéllego) 9, Magic Affinity — Truth 5, Certámen (facing liars) 6, Concentration (talking) 11, Finesse (information) 8, Hermes History (justice) 7, Hermes Law (punishments) 12, Hermes Lore (The Roman Tribunal) 7, Parma Magica (Mentem) 9, Penetration (Intéllego) 7, Quarterstaff Attack (liars) 6, Quarterstaff Parry (liars) 5, Debate (laws) 5, Folk Ken (truth) 4, Leadership (Quaesitoris) 7, Occult Lore (diabolists) 4
 >
->Confidence: 5
+> Confidence: 5
 >
->Reputation: Just (The Roman Tribunal) 3, Respected (Quaesitoris) 4
+> Reputation: Just (The Roman Tribunal) 3, Respected (Quaesitoris) 4
 >
->Personality Traits: Just +2, Stubborn +1
+> Personality Traits: Just +2, Stubborn +1
 >
->Techniques & Forms: Creo 15, Intéllego 20, Muto 13, Perdo 14, Rego 14, Animál 11, Aquam 8, Córporem 21, Herbam 10, Ignem 13, Imágonem 19, Mentem 23, Terram 10, Vim 14
+> Techniques & Forms: Creo 15, Intéllego 20, Muto 13, Perdo 14, Rego 14, Animál 11, Aquam 8, Córporem 21, Herbam 10, Ignem 13, Imágonem 19, Mentem 23, Terram 10, Vim 14
 >
->Spell Casting Speed: 6
+> Spell Casting Speed: 6
 >
->**Twilight Points: 7** 
+> **Twilight Points: 7**
 >
->Effects of Twilight: None
+> Effects of Twilight: None
 >
->Spells Known: Voice of the Lake (InAq 25) +28, Enchantment of the Scrying Pool (InAq 30) +28, Clenching Grasp of the Crushed Heart (PeCo 40) +35, Pilum of Fire (CrIg 20) +28, Ball of Abysmal Flame (CrIg 30) +28, The Ear for Distant Voice (InIm 20) +39, Eyes of the Past (InIm 20) +39, Visions of the Wandering Eye (InIm 45) +39, Frosty Breath of the Spoken Lie (InMe 20) +49, Posing the Silent Question (InMe 25) +49, Peering into the Mortal Mind (InMe 30) +43, Passion's Lost Feeling (PeMe 20) +37, Stone Tell of the Mind that Sits (InTe 30) +30, Opening the Intangible Tunnel (ReVi 35) +28
+> Spells Known: Voice of the Lake (InAq 25) +28, Enchantment of the Scrying Pool (InAq 30) +28, Clenching Grasp of the Crushed Heart (PeCo 40) +35, Pilum of Fire (CrIg 20) +28, Ball of Abysmal Flame (CrIg 30) +28, The Ear for Distant Voice (InIm 20) +39, Eyes of the Past (InIm 20) +39, Visions of the Wandering Eye (InIm 45) +39, Frosty Breath of the Spoken Lie (InMe 20) +49, Posing the Silent Question (InMe 25) +49, Peering into the Mortal Mind (InMe 30) +43, Passion's Lost Feeling (PeMe 20) +37, Stone Tell of the Mind that Sits (InTe 30) +30, Opening the Intangible Tunnel (ReVi 35) +28
 >
->Wizard's Sigil: Each spell usually leaves a minor aftereffect that persists for hours
+> Wizard's Sigil: Each spell usually leaves a minor aftereffect that persists for hours
 >
->Weapons & Armor: Quarterstaff
+> Weapons & Armor: Quarterstaff
 >
->Quarterstaff Totals: First Strike +9, Attack +7, Damage +10, Parry Bonus +11 (17 Action)
+> Quarterstaff Totals: First Strike +9, Attack +7, Damage +10, Parry Bonus +11 (17 Action)
 >
->Encumbrance: 0
+> Encumbrance: 0
 >
->Other Combat Totals: Dodge Defense -2 (4 Action), Soak +0 (6 Action), Fatigue +0
+> Other Combat Totals: Dodge Defense -2 (4 Action), Soak +0 (6 Action), Fatigue +0
 
 #### Verox of Flambeau
 
@@ -1707,39 +1715,39 @@ When Verox is not at Magvillus, protecting the Covenant and enforcing decrees ma
 
 If met on the road, Verox is very sure of himself, explaining that he is a member of Magvillus. He expects all Magi to make way for him. If Magi are to oppose or annoy Verox, *Certámen* or Wizard's War might follow in short order.
 
->#### Verox
+> #### Verox
 >
->Characteristics: Intelligence (plotting) +3, Perception (dangers) +3, Strength (big) +3, Stamina (stubborn) +3, Presence 0, Communication 0, Dexterity 0, Quickness 0
+> Characteristics: Intelligence (plotting) +3, Perception (dangers) +3, Strength (big) +3, Stamina (stubborn) +3, Presence 0, Communication 0, Dexterity 0, Quickness 0
 >
->Age: 45 (Longevity potion, Level 50, -10 on Aging rolls)
+> Age: 45 (Longevity potion, Level 50, -10 on Aging rolls)
 >
->Size: 0
+> Size: 0
 >
->Virtues and Flaws: Magical Affinity (Creo) +4, Magical Affinity (Ignem) +3, Blatant Gift (-6 to social rolls) -1, Warped Magic (smoke & heat) -1, Major Magic Deficiency (any Intéllego total is halved) -5
+> Virtues and Flaws: Magical Affinity (Creo) +4, Magical Affinity (Ignem) +3, Blatant Gift (-6 to social rolls) -1, Warped Magic (smoke & heat) -1, Major Magic Deficiency (any Intéllego total is halved) -5
 >
->Abilities: Speak Italian (curses) 4, Speak Latin (curses) 5, Scribe Latin (curses) 3, Magic Theory (Vim) 5, Certámen (Ignem) 6, Concentration (Ignem) 1, Magical Affinity — Creo 6, Magical Affinity — Ignem 6, Finesse (Ignem) 3, Hermes History (crimes) 2, Hermes Law (criminals) 3, Hermes Lore (crimes) 2, Parma Magica (Perdo) 5, Penetration (Ignem) 2, Alertness (ambush) 1, Morning Star Attack (criminals) 3, Morning Star Parry (criminals) 3, Fantastic Beast Lore (mountains) 4
+> Abilities: Speak Italian (curses) 4, Speak Latin (curses) 5, Scribe Latin (curses) 3, Magic Theory (Vim) 5, Certámen (Ignem) 6, Concentration (Ignem) 1, Magical Affinity — Creo 6, Magical Affinity — Ignem 6, Finesse (Ignem) 3, Hermes History (crimes) 2, Hermes Law (criminals) 3, Hermes Lore (crimes) 2, Parma Magica (Perdo) 5, Penetration (Ignem) 2, Alertness (ambush) 1, Morning Star Attack (criminals) 3, Morning Star Parry (criminals) 3, Fantastic Beast Lore (mountains) 4
 >
->Confidence: 4
+> Confidence: 4
 >
->Reputation: Executioner (Magi) 3
+> Reputation: Executioner (Magi) 3
 >
->Personality Traits: Brave +3, Hot-Headed +2, Cruel to Inferiors +1
+> Personality Traits: Brave +3, Hot-Headed +2, Cruel to Inferiors +1
 >
->Techniques and Forms: Creo 16, Intéllego 8, Muto 5, Perdo 6, Rego 11, Animál 5, Aquam 7, Auram 5, Córporem 10, Herbam 7, Ignem 12, Imágonem 6, Mentem 8, Terram 5, Vim 12
+> Techniques and Forms: Creo 16, Intéllego 8, Muto 5, Perdo 6, Rego 11, Animál 5, Aquam 7, Auram 5, Córporem 10, Herbam 7, Ignem 12, Imágonem 6, Mentem 8, Terram 5, Vim 12
 >
->**Twilight Points: 5** 
+> **Twilight Points: 5**
 >
->Effects of Twilight: Attracts fire. Hit by all of his own Targeted Ignem spells if he Botches.
+> Effects of Twilight: Attracts fire. Hit by all of his own Targeted Ignem spells if he Botches.
 >
->Spells Known: Arc of Fiery Ribbons (CrIg 25) +43, Ball of Abysmal Flame (CrIg 30) +43, Morningstar of the Virulent Flame (CrIg 30) +43, Visions of Heat's Light (InIg 20) +15, Well Without Light (PeIg 25) +27, Ward Against Heat and Flames (ReIg 25) +32, Gather the Essence of the Beast (MuVi 15) +20
+> Spells Known: Arc of Fiery Ribbons (CrIg 25) +43, Ball of Abysmal Flame (CrIg 30) +43, Morningstar of the Virulent Flame (CrIg 30) +43, Visions of Heat's Light (InIg 20) +15, Well Without Light (PeIg 25) +27, Ward Against Heat and Flames (ReIg 25) +32, Gather the Essence of the Beast (MuVi 15) +20
 >
->Wizard's Sigil: Smoke
+> Wizard's Sigil: Smoke
 >
->Weapons & Armor: Ring Mail Hauberk, Morning Star Morning Star Totals (1h): First Strike +6, Attack +5, Damage +14, Parry Defense +4 (10 Action)
+> Weapons & Armor: Ring Mail Hauberk, Morning Star Morning Star Totals (1h): First Strike +6, Attack +5, Damage +14, Parry Defense +4 (10 Action)
 >
->Encumbrance: 0
+> Encumbrance: 0
 >
->Other Combat Totals: Dodge Defense +0 (6 Action), Soak +10 (16 Action), Fatigue +3
+> Other Combat Totals: Dodge Defense +0 (6 Action), Soak +10 (16 Action), Fatigue +3
 
 ### OUTSIDE RELATIONS
 
@@ -1795,25 +1803,25 @@ Keeping up mundane and magical defenses is also a great burden on the Covenant. 
 
 At a first glance, Rellantali seems composed of a group of violent isolationists, as unfriendly as Sansaron in far away North Africa. However, Rellantali's seclusion is simply a necessity. In truth, the Magi of Rellantali have largely moved from their home on the island of Asinara to various townhouses in Venice. There, they bring in the income necessary to keep their Covenant afloat, overseeing a well-organized group of thieves. Their activities dance around the fringes of the Code of Hermes. If other Covenants of Rome were to discover the truth behind Rellantali's activities, political battles would begin and what exists of Rellantali might be destroyed.
 
->Symbol: A square with a lightning bolt striking the center
+> Symbol: A square with a lightning bolt striking the center
 >
->Season: Autumn
+> Season: Autumn
 >
->Year Founded: A.D. 838
+> Year Founded: A.D. 838
 >
->House Affiliation: None
+> House Affiliation: None
 >
->Aura: Magic 2 (fortress), Dominion 3 (townhouses)
+> Aura: Magic 2 (fortress), Dominion 3 (townhouses)
 >
->Members: six; Mercatora of House Tytalus, Artur of House Jerbiton, Dareth of House Tytalus, Evoco of House Tremere, Idus of House Flambeau and Marius of House Tremere
+> Members: six; Mercatora of House Tytalus, Artur of House Jerbiton, Dareth of House Tytalus, Evoco of House Tremere, Idus of House Flambeau and Marius of House Tremere
 >
->Number of Grogs: 20, plus many associates
+> Number of Grogs: 20, plus many associates
 >
->Armaments: Poor (Asinaran fortress), Standard (Venice)
+> Armaments: Poor (Asinaran fortress), Standard (Venice)
 >
->Library Art Scores: Creo 8, Intéllego 10, Muto 9, Perdo 12, Rego 11, Animál 6, Aquam 9, Auram 10, Córporem 12, Herbam 6, Ignem 9, Imágonem 8, Mentem 10, Terram 6, Vim 12
+> Library Art Scores: Creo 8, Intéllego 10, Muto 9, Perdo 12, Rego 11, Animál 6, Aquam 9, Auram 10, Córporem 12, Herbam 6, Ignem 9, Imágonem 8, Mentem 10, Terram 6, Vim 12
 >
->Library Ability Scores: Venetian Geography 9, Hermes Lore 2, Hermes History 3, Venice Lore 7, Church Lore 4, Church Knowledge 6, Humanities 3, Arabic Instruction 3, Mercantile Instruction 3
+> Library Ability Scores: Venetian Geography 9, Hermes Lore 2, Hermes History 3, Venice Lore 7, Church Lore 4, Church Knowledge 6, Humanities 3, Arabic Instruction 3, Mercantile Instruction 3
 
 ### HISTORY
 
@@ -1871,43 +1879,43 @@ Mercatora puts on a mask of friendliness and helpfulness. In truth she is both g
 
 Ultimately, Mercatora puts her own good before her Covenant's. She saw how short-lived her two predecessors were and has no desire to follow them into the grave. She will therefore sell out her Covenant if doing so would ensure her safety.
 
->#### Mercatora
+> #### Mercatora
 >
->Characteristics: Intelligence (scheming) +3, Perception (watching for ambushes) +3, Strength 0, Stamina 0, Presence (apparently courteous) +2, Communication (deceptive) +1, Dexterity 0, Quickness 0
+> Characteristics: Intelligence (scheming) +3, Perception (watching for ambushes) +3, Strength 0, Stamina 0, Presence (apparently courteous) +2, Communication (deceptive) +1, Dexterity 0, Quickness 0
 >
->Age: 71 (currently no Longevity potions)
+> Age: 71 (currently no Longevity potions)
 >
->Size: 0
+> Size: 0
 >
->Virtues & Flaws: Light Sleeper +1, Social Contacts (noble) +1, Social Contacts (merchants) +1, Fury (when balked; see Ars Magica, p. 80) -3, Leadership +3
+> Virtues & Flaws: Light Sleeper +1, Social Contacts (noble) +1, Social Contacts (merchants) +1, Fury (when balked; see Ars Magica, p. 80) -3, Leadership +3
 >
->Abilities: Speak Italian (orders) 4, Speak Latin (orders) 5, Scribe Latin (orders) 3, Magic Theory (longevity potion) 6, Certámen (Rego) 7, Concentration (fighting) 4, Finesse (targeting) 3, Hermes Law (mundane interference) 2,Hermes Lore (thieves) 2,HermesHistory (Tytalus) 2, Parma Magica (Ignem) 7, Penetration (Mentem) 5, Charm (lies) 2, Diplomacy (negotiations) 1, Folk Ken (townsfolk) 3, Guile (elaborate lies) 4, Subterfuge (arguments) 2, Two-Handed Mace Attack (at the negotiation table) 6, Two-HandedMace Parry (wild attacks) 4, Venice Lore (illegal activities) 4
+> Abilities: Speak Italian (orders) 4, Speak Latin (orders) 5, Scribe Latin (orders) 3, Magic Theory (longevity potion) 6, Certámen (Rego) 7, Concentration (fighting) 4, Finesse (targeting) 3, Hermes Law (mundane interference) 2,Hermes Lore (thieves) 2,HermesHistory (Tytalus) 2, Parma Magica (Ignem) 7, Penetration (Mentem) 5, Charm (lies) 2, Diplomacy (negotiations) 1, Folk Ken (townsfolk) 3, Guile (elaborate lies) 4, Subterfuge (arguments) 2, Two-Handed Mace Attack (at the negotiation table) 6, Two-HandedMace Parry (wild attacks) 4, Venice Lore (illegal activities) 4
 >
->Confidence: 5
+> Confidence: 5
 >
->Reputation: Liar (Roman Magi) 1
+> Reputation: Liar (Roman Magi) 1
 >
->Personality Traits:Brave -1, Greedy +3, Manipulative +1, Paranoid +3
+> Personality Traits:Brave -1, Greedy +3, Manipulative +1, Paranoid +3
 >
->Techniques and Forms: Creo 11, Intéllego 10, Muto 11, Perdo 10, Rego 19, Animal 8, Aquam 10, Auram 10, Corporem 10,Herbam8, Ignem 13, Imágonem 10, Mentem 17, Terram 8, Vim 10
+> Techniques and Forms: Creo 11, Intéllego 10, Muto 11, Perdo 10, Rego 19, Animal 8, Aquam 10, Auram 10, Corporem 10,Herbam8, Ignem 13, Imágonem 10, Mentem 17, Terram 8, Vim 10
 >
->Spell Casting Speed: -3
+> Spell Casting Speed: -3
 >
->Twilight Points: 8
+> Twilight Points: 8
 >
->Effects of Twilight: Increased understanding of Rego 
+> Effects of Twilight: Increased understanding of Rego
 >
->Spells Known: Waves of Drowning and Smashing (ReAq 20) +29, The Treacherous Spear (ReHe 20) +27, Wizard's Sidestep (Relm 20) +29, Pilum ofFire (Crlg 20) +24, Posing the Silent Question (InMe 25) +27, Thoughts Within Babble (InMe 25) +27, Loss ofBut a Moment's Memory (PeMe 20) +27,Black Whisper (PeMe 30) +27, Confusion of the Numbed Will (ReMe 20) +36, Aura of Rightful Authority (ReMe 20) +36, Scent of Peaceful Slumber (ReMe 20) +36
+> Spells Known: Waves of Drowning and Smashing (ReAq 20) +29, The Treacherous Spear (ReHe 20) +27, Wizard's Sidestep (Relm 20) +29, Pilum ofFire (Crlg 20) +24, Posing the Silent Question (InMe 25) +27, Thoughts Within Babble (InMe 25) +27, Loss ofBut a Moment's Memory (PeMe 20) +27,Black Whisper (PeMe 30) +27, Confusion of the Numbed Will (ReMe 20) +36, Aura of Rightful Authority (ReMe 20) +36, Scent of Peaceful Slumber (ReMe 20) +36
 >
->Wizard's Sigil: Mercatora's spells are always abrupt (although Casting Speed is not affected)
+> Wizard's Sigil: Mercatora's spells are always abrupt (although Casting Speed is not affected)
 >
->Weapons and Armor: Full Ring Mail, Two-Handed Mace
+> Weapons and Armor: Full Ring Mail, Two-Handed Mace
 >
->Mace Totals (2h): First Strike +2, Attack +9, Damage +13, Parry Defense +6 (Action 12)
+> Mace Totals (2h): First Strike +2, Attack +9, Damage +13, Parry Defense +6 (Action 12)
 >
->Encumbrance: 6
+> Encumbrance: 6
 >
->Other Combat Totals: Dodge Defense -6 (0 Action), Soak +8 (14 Action), Fatigue -6
+> Other Combat Totals: Dodge Defense -6 (0 Action), Soak +8 (14 Action), Fatigue -6
 
 ### OUTSIDE RELATIONS
 
@@ -1981,21 +1989,22 @@ Library Art Scores: Creo 17, Intéllego 18, Muto 11, Perdo 7, Rego 10, Animal 7,
 
 Library Ability Scores: Legend Lore 4, Fantastic Beast Lore 3, Hermes Lore 5, Hermes History 5, Magic Theory 8, Verditius Magic 10, Faerie Lore 3, Occult Lore 3
 
->##### Verdi's Form and Effect Bonuses
+> ##### Verdi's Form and Effect Bonuses
 >
->Long ago, the Magi of Verdi carefully studied the nature of the island around them. Through their study, they have learned the benefits of using elements of their environment in magical enchantments. Below are the Form and Effect Bonuses of some of the Sardinian wildlife:
+> Long ago, the Magi of Verdi carefully studied the nature of the island around them. Through their study, they have learned the benefits of using elements of their environment in magical enchantments. Below are the Form and Effect Bonuses of some of the Sardinian wildlife:
 >
->| Element          | Bonus |
->|--------------------------------------|--------------------------|
->|   All Dead Wood                      | +3 to affect living wood |
->|                                      | +4 to affect dead wood   |
->| Cork Oak Wood                        | +3 trapping and binding  |
->| Maritime Pine Wood                   | +2 to affect the sea     |
->| Olive Wood                           | +3 to bring about peace  |
->| Pomegranate Wood                     | +3 when speaking with the dead   |
->|                                      | +2 to controlling the dead       |
->| Strawberry Tree Wood                 | +2 to bring about contentment    |
->| Wild Grape Vines                     | +7 to bring about charity        |
+>
+> | Element              | Bonus                          |
+> | ---------------------- | -------------------------------- |
+> | All Dead Wood        | +3 to affect living wood       |
+> |                      | +4 to affect dead wood         |
+> | Cork Oak Wood        | +3 trapping and binding        |
+> | Maritime Pine Wood   | +2 to affect the sea           |
+> | Olive Wood           | +3 to bring about peace        |
+> | Pomegranate Wood     | +3 when speaking with the dead |
+> |                      | +2 to controlling the dead     |
+> | Strawberry Tree Wood | +2 to bring about contentment  |
+> | Wild Grape Vines     | +7 to bring about charity      |
 
 ### HISTORY
 
@@ -2059,39 +2068,39 @@ Imanitosi is a relatively good-hearted person who tries to be helpful when able.
 
 During her life Imanitosi has enchanted some two score magic items. Below are some of the most useful ones that she still keeps with her: a silver amulet (Charm Against Magic, Rego Vim 45), a golden ring with an inset agate (Rise of the Feathery Body, Rego Corporem 10, unlimited uses, item maintains Concentration), a golden ring with an inset ruby (Ward Against Heat and Flames, Rego Ignem 25, constant application), a golden ring with an inset sapphire (Thoughts Within Babble, Intéllego Mentem 25, unlimited uses), a bracelet woven from a lion's mane (Gift of the Bear's Fortitude, Muto Córporem 30, 24 uses per day), leather boots (The Seven League Stride, Rego Córporem 35, unlimited uses), and a wooden, wand (Scent of Peaceful Slumber, Rego Mentem 20, unlimited uses).
 
->### Imaniiosi
+> ### Imaniiosi
 >
->Characteristics: Intelligence (inventive) +4, Perception 0, Strength (thin) -1, Stamina 0, Presence (powerful) +1, Communication 0, Dexterity (clumsy) -2, Quickness (dignified) -1
+> Characteristics: Intelligence (inventive) +4, Perception 0, Strength (thin) -1, Stamina 0, Presence (powerful) +1, Communication 0, Dexterity (clumsy) -2, Quickness (dignified) -1
 >
->Age: 132 (Longevity potion, Level 110, -22 on Aging rolls)
+> Age: 132 (Longevity potion, Level 110, -22 on Aging rolls)
 >
->Size: 0
+> Size: 0
 >
->Virtues and Flaws: Clear Thinker (+3 to confusion rolls) +1, Inventive Genius (+3 to inventing, +6 experimenting) +1, Verditius Magic (must use Spell Foci to cast Formulaic spells) -1, Greater Leadership +6
+> Virtues and Flaws: Clear Thinker (+3 to confusion rolls) +1, Inventive Genius (+3 to inventing, +6 experimenting) +1, Verditius Magic (must use Spell Foci to cast Formulaic spells) -1, Greater Leadership +6
 >
->Abilities: Speak Italian (orders) 4, Speak Latin (magic) 5, Scribe Latin (magic) 6, Magic Theory (enchanting items) 14, Verditius Magic (Intéllego items) 12, Certâmen (fighting for Covenant) 11, Concentration (talking) 9, Finesse (small details) 5, Hermes History (magic items) 6, Hermes Law (Covenant interactions) 5, Hermes Lore (Verditius) 5, Parma Magica (Intéllego) 3, Penetration (Intéllego) 2, Quarterstaff Attack (panicked) 1, Quarterstaff Parry (fleeing) 2, Leadership (Magi) 5, Faerie Lore (tricks) 2, Legend Lore (magic items) 4, Sardinia Lore (magic items) 5
+> Abilities: Speak Italian (orders) 4, Speak Latin (magic) 5, Scribe Latin (magic) 6, Magic Theory (enchanting items) 14, Verditius Magic (Intéllego items) 12, Certâmen (fighting for Covenant) 11, Concentration (talking) 9, Finesse (small details) 5, Hermes History (magic items) 6, Hermes Law (Covenant interactions) 5, Hermes Lore (Verditius) 5, Parma Magica (Intéllego) 3, Penetration (Intéllego) 2, Quarterstaff Attack (panicked) 1, Quarterstaff Parry (fleeing) 2, Leadership (Magi) 5, Faerie Lore (tricks) 2, Legend Lore (magic items) 4, Sardinia Lore (magic items) 5
 >
->Confidence: 5
+> Confidence: 5
 >
->Reputation: Uncaring (Roman Magi) 5
+> Reputation: Uncaring (Roman Magi) 5
 >
->Personality Traits: Loyal to Covenant +6, Friendly +1, Ruthless +3, Curious +2
+> Personality Traits: Loyal to Covenant +6, Friendly +1, Ruthless +3, Curious +2
 >
->Techniques and Forms: Creo 21, Intéllego 23, Muto 13, Perdo 10, Rego 13, Animál 14, Aquam 10, Auram 10, Córporem 24, Herbam 12, Ignem 10, Imágonem 11, Mentem 24, Terram 11, Vim 30
+> Techniques and Forms: Creo 21, Intéllego 23, Muto 13, Perdo 10, Rego 13, Animál 14, Aquam 10, Auram 10, Córporem 24, Herbam 12, Ignem 10, Imágonem 11, Mentem 24, Terram 11, Vim 30
 >
->Spell Casting Speed: 4 Twilight Points: 11
+> Spell Casting Speed: 4 Twilight Points: 11
 >
->Effects of Twilight: None
+> Effects of Twilight: None
 >
->Spells Known: The Chirurgeon's Healing Touch (CrCo 20) +45, The Bountiful Feast (CrHe 30) +33, Calm the Motion of the Heart (PeMe 15) +34, Aura of Rightful Authority (ReMe 20) +37, Sense the Nature of Vis (InVi 10) +53, Scales of the Magical Weight (InVi 15) +53, Perceive the Magical Scent (InVi 20) +53, Wizard's Boost (MuVi 25) +43, Circular Ward Against Demons (ReVi 25) +43, Aegis of the Hearth (ReVi 30) +43
+> Spells Known: The Chirurgeon's Healing Touch (CrCo 20) +45, The Bountiful Feast (CrHe 30) +33, Calm the Motion of the Heart (PeMe 15) +34, Aura of Rightful Authority (ReMe 20) +37, Sense the Nature of Vis (InVi 10) +53, Scales of the Magical Weight (InVi 15) +53, Perceive the Magical Scent (InVi 20) +53, Wizard's Boost (MuVi 25) +43, Circular Ward Against Demons (ReVi 25) +43, Aegis of the Hearth (ReVi 30) +43
 >
->Wizard's Sigil: Most of Imanitosi's spells are quiet and dull. Normally bright lights are dim, bright colors are pastels and loud noises are quiet whispers
+> Wizard's Sigil: Most of Imanitosi's spells are quiet and dull. Normally bright lights are dim, bright colors are pastels and loud noises are quiet whispers
 >
->Weapons and Armor: Imanitosi no longer carries weaponry
+> Weapons and Armor: Imanitosi no longer carries weaponry
 >
->Encumbrance: 0
+> Encumbrance: 0
 >
->Other Combat Totals: Dodge Defense -1 (5 Action), Soak +0 (6 Action), Fatigue +0 
+> Other Combat Totals: Dodge Defense -1 (5 Action), Soak +0 (6 Action), Fatigue +0
 
 #### Steris
 
@@ -2101,31 +2110,31 @@ Steris' priorities in life are himself, his studies, his Covenant andhis House, 
 
 When he has been allowed Seasons of study and creation, Steris has invented the following magical devices: an amulet with a Verditius symbol (Charm AgainstMagic, Rego Vim 21), a stone ring with an inset sapphire (Perceive the Magical Scent, Intéllego Vim20, 24uses per day), and a stone ring with an inset green turquoise (Whispers Through the Black Gate, Intéllego Corporem 15, 24 uses per day)
 
->#### Steris
+> #### Steris
 >
->Characteristics: Intelligence (cunning) +4, Perception (watching for mistakes) +1, Strength 0, Stamina 0, Presence (always smiling) +3, Communication (fast talker) +3, Dexterity (clumsy) -2, Quickness (careful) -1
+> Characteristics: Intelligence (cunning) +4, Perception (watching for mistakes) +1, Strength 0, Stamina 0, Presence (always smiling) +3, Communication (fast talker) +3, Dexterity (clumsy) -2, Quickness (careful) -1
 >
->Age: 54 (Longevity potion, Level 65, -13 on Aging rolls)
+> Age: 54 (Longevity potion, Level 65, -13 on Aging rolls)
 >
->Size: 0
+> Size: 0
 >
->Virtues and Flaws: Inspirational (+3 to others' Brave rolls) +1, Verditius Magic (cannot cast Formulaic spells without Spell Foci) -1
+> Virtues and Flaws: Inspirational (+3 to others' Brave rolls) +1, Verditius Magic (cannot cast Formulaic spells without Spell Foci) -1
 >
->Abilities: SpeakGerman (makingdeals) 4, SpeakLatin (making deals) 5, Scribe Latin (lab notes) 4, Magic Theory (enchanting items) 9, Verditius Magic (longevity potions) 7, Certámen (when furious) 5, Concentration (when attacked) 2, Finesse (targeting) 2, Hermes History (Tremere) 2, Hermes Lore (Tremere) 3, Parma Magica (Ignem) 2, Penetration (Ignem) 2, Charisma (politics) 3, Folk Ken (nobles) 3, Guile (lying to authority) 2, Intrigue (plotting) 3, Leadership (Magi) 2, Sardinia Lore (leaders) 2
+> Abilities: SpeakGerman (makingdeals) 4, SpeakLatin (making deals) 5, Scribe Latin (lab notes) 4, Magic Theory (enchanting items) 9, Verditius Magic (longevity potions) 7, Certámen (when furious) 5, Concentration (when attacked) 2, Finesse (targeting) 2, Hermes History (Tremere) 2, Hermes Lore (Tremere) 3, Parma Magica (Ignem) 2, Penetration (Ignem) 2, Charisma (politics) 3, Folk Ken (nobles) 3, Guile (lying to authority) 2, Intrigue (plotting) 3, Leadership (Magi) 2, Sardinia Lore (leaders) 2
 >
->Confidence: 4
+> Confidence: 4
 >
->Reputation: Stubborn (Verditius) 3 Personality Traits: Stubborn +3
+> Reputation: Stubborn (Verditius) 3 Personality Traits: Stubborn +3
 >
->Techniques and Forms: Creo 17, Intéllego 8, Muto 5, Perdo 5, Rego 5, Animal 7, Aquam 12, Auram 9, Córporem 10, Herbam 8, Ignem 13, Imágonem 5, Mentem 6, Terram 5, Vim 13
+> Techniques and Forms: Creo 17, Intéllego 8, Muto 5, Perdo 5, Rego 5, Animal 7, Aquam 12, Auram 9, Córporem 10, Herbam 8, Ignem 13, Imágonem 5, Mentem 6, Terram 5, Vim 13
 >
->Spell Casting Speed: 1 Twilight Points: 3 Effects of Twilight: None
+> Spell Casting Speed: 1 Twilight Points: 3 Effects of Twilight: None
 >
->Spells Known: Wreaths ofFoul Smoke (CrAu 15) +26, The Chirurgeon's Healing Touch (CrCo 20) +27, Pilum of Fire (Crlg 20) +30, Arc of Fiery Ribbons (Crlg 25) +30, Vision ofHeat's Light (Inlg 20) +21, Weight of a Thousand Hells (CrMe 25) +23, Sense the Nature ofVis (InVi 10) +21, Gather the Essence of the Beast (MuVi 15) +18, Change the Nature of Vis (MuVi 5) +18, Wizard's Boost (MuVi 25) +18 Wizard's Sigil: Steris' spells are usually bright and flashy
+> Spells Known: Wreaths ofFoul Smoke (CrAu 15) +26, The Chirurgeon's Healing Touch (CrCo 20) +27, Pilum of Fire (Crlg 20) +30, Arc of Fiery Ribbons (Crlg 25) +30, Vision ofHeat's Light (Inlg 20) +21, Weight of a Thousand Hells (CrMe 25) +23, Sense the Nature ofVis (InVi 10) +21, Gather the Essence of the Beast (MuVi 15) +18, Change the Nature of Vis (MuVi 5) +18, Wizard's Boost (MuVi 25) +18 Wizard's Sigil: Steris' spells are usually bright and flashy
 >
->Weapons & Armor: None
+> Weapons & Armor: None
 >
->Other Combat Totals: Dodge Defense -1 (5 Action), Soak +0 (6 Action), Fatigue +0
+> Other Combat Totals: Dodge Defense -1 (5 Action), Soak +0 (6 Action), Fatigue +0
 
 ### OUTSIDE RELATIONS
 
@@ -2139,15 +2148,14 @@ Beyond the Roman Tribunal, Verdi is known far and wide, usually as a magical mec
 
 flow of magic items and silver goes out to the Levant, with raw vis shipped back in return.
 
->#### Magical Items of Verdi
+> #### Magical Items of Verdi
 >
->The following are just some of the magical inventions that can be found at or in the vicinity of Verdi.
+> The following are just some of the magical inventions that can be found at or in the vicinity of Verdi.
 >
->- The Potent Pot of Tasty Tea This unique magic item was created a few decades ago by an apprentice named Aratol. It is a brass tea pot, enchanted with a simple spell. When the tea pot is tipped up to pour, a cup of perfectly seasoned tea spills forth (Conjuration of the Tasty Tea, Creo Aquam 5, Herbam Requisite, unlimited uses). Unfortunately, the apprentice was experimenting when he created this item, so the enchantment has a slight side effect. The tea is intoxicating as if it were a light wine. Of course, since no vis is used, the tea is not filling and the intoxication disappears at the next sunrise or sunset, whichever comes first. For a time, Aratol's tea pot was quite popular among Verdi's Grogs.
->- Gabricon's Doormat of Welcoming This magic item takes the form of a simple woven door mat with the word, "Salve!," etched across it. Two spells have been enchanted into it. The first is an informational spell, which senses the name of one who steps upon the mat (Sense the Mortal's Name, Intéllego Mentem 10, unlimited uses), while the second loudly and clearly announces that name (Announce the Name of the Approaching Visitor, Creo Imágonem 10, unlimited uses). The first spell is triggered by a person stepping on the door mat, and the second spell is triggered by the first. Little do the Magi at Verditius realize that the device would also reveal the True Name of any demon that stepped on the mat.
->
->- Geran's Iron Pick Long ago, Verdi owned a small mine in the hills to the northwest. It has since been mined out, but when it was being used, several of the Covenant's Magi made magic items to help increase production. Geran's Iron Pick is a lesser enchanted item. When two lines of verse are sung, and the pick swung, about 20 pounds of rock is destroyed (Obliterate the Stone Walls, Perdo Terram 15, unlimited uses). Only plain stone is destroyed, so that valuable metals being mined for are not damaged, and enchanted walls cannot be scratched. Since the mines have closed, Geran's Pick has been stored away in the tower. The pick might be invaluable to a prison break, in which prison walls can be easily felled.
->- Verdi Light The rumored Pious Magus, Nerius, is said to have once visited Verdi Covenant and destroyed an Infernal talisman that even the greatest of Magi there could not undo. It is said that Verdi Light, the everburning torch that lights the main hall of the Covenant, was a result of Nerius' blessing, testament to the eternal power of the Lord. Whether the light source kept at the Covenant is actually Divine in nature has never been proven, and Covenant Magi are closed-mouthed on the subject.
+> - The Potent Pot of Tasty Tea This unique magic item was created a few decades ago by an apprentice named Aratol. It is a brass tea pot, enchanted with a simple spell. When the tea pot is tipped up to pour, a cup of perfectly seasoned tea spills forth (Conjuration of the Tasty Tea, Creo Aquam 5, Herbam Requisite, unlimited uses). Unfortunately, the apprentice was experimenting when he created this item, so the enchantment has a slight side effect. The tea is intoxicating as if it were a light wine. Of course, since no vis is used, the tea is not filling and the intoxication disappears at the next sunrise or sunset, whichever comes first. For a time, Aratol's tea pot was quite popular among Verdi's Grogs.
+> - Gabricon's Doormat of Welcoming This magic item takes the form of a simple woven door mat with the word, "Salve!," etched across it. Two spells have been enchanted into it. The first is an informational spell, which senses the name of one who steps upon the mat (Sense the Mortal's Name, Intéllego Mentem 10, unlimited uses), while the second loudly and clearly announces that name (Announce the Name of the Approaching Visitor, Creo Imágonem 10, unlimited uses). The first spell is triggered by a person stepping on the door mat, and the second spell is triggered by the first. Little do the Magi at Verditius realize that the device would also reveal the True Name of any demon that stepped on the mat.
+> - Geran's Iron Pick Long ago, Verdi owned a small mine in the hills to the northwest. It has since been mined out, but when it was being used, several of the Covenant's Magi made magic items to help increase production. Geran's Iron Pick is a lesser enchanted item. When two lines of verse are sung, and the pick swung, about 20 pounds of rock is destroyed (Obliterate the Stone Walls, Perdo Terram 15, unlimited uses). Only plain stone is destroyed, so that valuable metals being mined for are not damaged, and enchanted walls cannot be scratched. Since the mines have closed, Geran's Pick has been stored away in the tower. The pick might be invaluable to a prison break, in which prison walls can be easily felled.
+> - Verdi Light The rumored Pious Magus, Nerius, is said to have once visited Verdi Covenant and destroyed an Infernal talisman that even the greatest of Magi there could not undo. It is said that Verdi Light, the everburning torch that lights the main hall of the Covenant, was a result of Nerius' blessing, testament to the eternal power of the Lord. Whether the light source kept at the Covenant is actually Divine in nature has never been proven, and Covenant Magi are closed-mouthed on the subject.
 
 ### MAGICAL ATTRIBUTES
 
@@ -2302,15 +2310,15 @@ Since the time of the necromancers' arrival, Vardian's: Tomb has been a fracture
 
 Symbol: None Season: Spring
 
-Year Founded: A.D. 1117 
+Year Founded: A.D. 1117
 
-House Affiliation: None 
+House Affiliation: None
 
 Aura: Divine 2; Magic 1
 
 Members: three; Anson of Jerbiton, Herzak of Verditius and Ranitel of Jerbiton
 
-Number of Grogs: 10 
+Number of Grogs: 10
 
 Armaments: Standard
 
@@ -2350,53 +2358,53 @@ The Cyclops slew many of Ulysses' crew, but Ulysses was finally able to use his 
 
 In the 13th century, the inhabitants of Italy avoid the area to the southeast of Mount Etna, where the last of the Cyclopes is still said to dwell. Unseasonal fogs constantly shroud the area. The few foolish captains who have sailed into the region have never returned.
 
->#### The Legend of Polyphemus
+> #### The Legend of Polyphemus
 >
->"And we came to the land of the Cyclopes, a fierce, uncivilized people who never lift a hand to plant or plough but put their trust in Providence. All the crops they require spring up unsown and untilled, wheat and barley and the vines whose generous clusters give them wine when ripened for them by the timely rains. The Cyclopes have no assemblies for the making of laws, nor any settled customs, but live in hollow caverns in the mountain heights, where each man is lawgiver to his children and wives, and nobody cares a bit for his neighbors."
+> "And we came to the land of the Cyclopes, a fierce, uncivilized people who never lift a hand to plant or plough but put their trust in Providence. All the crops they require spring up unsown and untilled, wheat and barley and the vines whose generous clusters give them wine when ripened for them by the timely rains. The Cyclopes have no assemblies for the making of laws, nor any settled customs, but live in hollow caverns in the mountain heights, where each man is lawgiver to his children and wives, and nobody cares a bit for his neighbors."
 >
->— Homer, The Odyssey
+> — Homer, The Odyssey
 
->#### Polyphemus
+> #### Polyphemus
 >
->Polyphemus is a huge humanoid creature, nearly 50 feet tall. He is covered by dark hair, fleas and louses, and wears dirty, soiled clothes made of rough wool. In the middle of Polyphemus' face is the ruins of his single eye. Occasionally, tears drip from the sundered orb.
+> Polyphemus is a huge humanoid creature, nearly 50 feet tall. He is covered by dark hair, fleas and louses, and wears dirty, soiled clothes made of rough wool. In the middle of Polyphemus' face is the ruins of his single eye. Occasionally, tears drip from the sundered orb.
 >
->Since the other Cyclopes left, Polyphemus has grown quiet and introspective. Trapped in a world of darkness and left without companionship, he is now desperate for any fellowship. Still, old fears live, so the mundanes never come near Polyphemus' lands. If approached, Polyphemus tries to befriend travelers. All too often, however, warriors and knights come to Polyphemus, hoping to slay him. Polyphemus defends himself against these folk, unleashing the rage inspired by his tortures.
+> Since the other Cyclopes left, Polyphemus has grown quiet and introspective. Trapped in a world of darkness and left without companionship, he is now desperate for any fellowship. Still, old fears live, so the mundanes never come near Polyphemus' lands. If approached, Polyphemus tries to befriend travelers. All too often, however, warriors and knights come to Polyphemus, hoping to slay him. Polyphemus defends himself against these folk, unleashing the rage inspired by his tortures.
 >
->Magic Might: 40
+> Magic Might: 40
 >
->Vital Statistics: Size +5, Intelligence (oafish) -3, Perception (fumbling) -5, Strength (massive build) +12, Stamina (tremendous will) +10, Presence (foul) -3, Communication (bellowing) -2, Dexterity (clumsy) -2, Quickness (staggering) -3
+> Vital Statistics: Size +5, Intelligence (oafish) -3, Perception (fumbling) -5, Strength (massive build) +12, Stamina (tremendous will) +10, Presence (foul) -3, Communication (bellowing) -2, Dexterity (clumsy) -2, Quickness (staggering) -3
 >
->Virtues and Flaws: Blind (effects on combat calculated below) -5
+> Virtues and Flaws: Blind (effects on combat calculated below) -5
 >
->Personality Traits: Lonely +3, Regretful +4
+> Personality Traits: Lonely +3, Regretful +4
 >
->Reputation: Cruel (legends) 6
+> Reputation: Cruel (legends) 6
 >
->Confidence: 1
+> Confidence: 1
 >
->Combat Totals:
+> Combat Totals:
 >
->Pummel Attack: First Strike +16, Attack +0, Damage +30\*
+> Pummel Attack: First Strike +16, Attack +0, Damage +30\*
 >
->Thrown Rock Attack: Rate 1, Attack -7, Damage +50\*
+> Thrown Rock Attack: Rate 1, Attack -7, Damage +50\*
 >
->\* A parry is ineffective against these attacks
+> \* A parry is ineffective against these attacks
 >
->Body Levels: OK, 0/0/0, -1/-1, -3/-3, -5/-5, Incapacitated
+> Body Levels: OK, 0/0/0, -1/-1, -3/-3, -5/-5, Incapacitated
 >
->Fatigue Levels: OK, 0/0/0, -1/-1, -3/-3, -5/-5, Unconscious
+> Fatigue Levels: OK, 0/0/0, -1/-1, -3/-3, -5/-5, Unconscious
 >
->Dodge Defense -10 (-4 Action), Soak +30 (36 Action), Fatigue +15
+> Dodge Defense -10 (-4 Action), Soak +30 (36 Action), Fatigue +15
 >
->Encumbrance: 0
+> Encumbrance: 0
 >
->Abilities: Guile (state of hunger) 7, Legend Lore (Greek legend) 8, Pretend (helplessness) 5, Storytelling (Greek legends) 8, Sicily Lore (smells) 10
+> Abilities: Guile (state of hunger) 7, Legend Lore (Greek legend) 8, Pretend (helplessness) 5, Storytelling (Greek legends) 8, Sicily Lore (smells) 10
 >
->Powers:
+> Powers:
 >
->The Curse of Poseidon, ReAq 50, 0 Points — Like all of the Cyclopes of Sicily, it is said that Polyphemus is a son of Poseidon. Whether Poseidon was a true god, an Old One (as the Seekers preach) or just a legend no one may say. However, it is clear that some power watches over Polyphemus. When Polyphemus lays a curse, which he only does if greatly angered or hurt, the ocean becomes the victim's enemy. The victim is beset by storms, whirlpools and even intelligent denizens of the depths. The curse can only be dispelled if the victim may somehow appease either Polyphemus or Poseidon himself.
+> The Curse of Poseidon, ReAq 50, 0 Points — Like all of the Cyclopes of Sicily, it is said that Polyphemus is a son of Poseidon. Whether Poseidon was a true god, an Old One (as the Seekers preach) or just a legend no one may say. However, it is clear that some power watches over Polyphemus. When Polyphemus lays a curse, which he only does if greatly angered or hurt, the ocean becomes the victim's enemy. The victim is beset by storms, whirlpools and even intelligent denizens of the depths. The curse can only be dispelled if the victim may somehow appease either Polyphemus or Poseidon himself.
 >
->Vis: 20 Córporem, body
+> Vis: 20 Córporem, body
 
 #### POLYPHEMUS' HOME
 
@@ -2439,33 +2447,33 @@ The entire tomb is an area of Infernal power. It bears an Infernal Aura of two, 
 
 For the layout of the tomb, see the *Tomb of the Shadow* Senate map.
 
->#### The Revenants
+> #### The Revenants
 >
->Each of the six Senators has the same essential statistics. Thus, the following numbers may be used for all of them. This is not to say that all are the same. Agatuzzo, the leader, is proud and arrogant (Haughty +3), while Antonio has begun to worry about his final fate (Preoccupied +2). In life, Francisco jumped at the smallest shadows and still does (Cowardly +3), while Mario has always been the least intelligent of the six (Slow-Witted +5). Bernoni has begun to wonder if the Senate's leadership is the correct one (Loyal -2), and Giuseppe has ceased to care about Rome over the centuries (Bored +4).
+> Each of the six Senators has the same essential statistics. Thus, the following numbers may be used for all of them. This is not to say that all are the same. Agatuzzo, the leader, is proud and arrogant (Haughty +3), while Antonio has begun to worry about his final fate (Preoccupied +2). In life, Francisco jumped at the smallest shadows and still does (Cowardly +3), while Mario has always been the least intelligent of the six (Slow-Witted +5). Bernoni has begun to wonder if the Senate's leadership is the correct one (Loyal -2), and Giuseppe has ceased to care about Rome over the centuries (Bored +4).
 >
->Infernal Might: 20
+> Infernal Might: 20
 >
->Vital Statistics: Size 0, Intelligence (cunning) +1, Perception 0, Strength 0, Stamina (feel no pain) +5, Presence (decrepit) -4, Communication (gravelly voices) -1, Dexterity 0, Quickness 0
+> Vital Statistics: Size 0, Intelligence (cunning) +1, Perception 0, Strength 0, Stamina (feel no pain) +5, Presence (decrepit) -4, Communication (gravelly voices) -1, Dexterity 0, Quickness 0
 >
->Virtues and Flaws: None Reputation: None (yet)
+> Virtues and Flaws: None Reputation: None (yet)
 >
->Personality Traits: Cruel +1, Manipulative +3, Plotting +2
+> Personality Traits: Cruel +1, Manipulative +3, Plotting +2
 >
->Confidence: 5
+> Confidence: 5
 >
->Combat Totals:
+> Combat Totals:
 >
->Body Levels: OK, 0, -1, -3, -5, Destroyed
+> Body Levels: OK, 0, -1, -3, -5, Destroyed
 >
->Dodge Defense +0 (Action 6), Soak +5 (Action 11), Fatigue n/a
+> Dodge Defense +0 (Action 6), Soak +5 (Action 11), Fatigue n/a
 >
->Abilities: Rome Lore (authority figures) 8
+> Abilities: Rome Lore (authority figures) 8
 >
->Powers:
+> Powers:
 >
->Aura of Rightful Authority, ReMe 20, 0 Points — Dark magic has helped the Shadow Senators retain their former authority, despite the decay of their bodies. Whenever one gives an order, it is followed through unless an appropriate Personality Trait (like Stubborn) or Stamina stress roll of 6+ is made. A successful Magic Resistance roll also defies a command. If any resistance roll is Botched, the command is followed to the letter, without question, even if it means the enactor's death.
+> Aura of Rightful Authority, ReMe 20, 0 Points — Dark magic has helped the Shadow Senators retain their former authority, despite the decay of their bodies. Whenever one gives an order, it is followed through unless an appropriate Personality Trait (like Stubborn) or Stamina stress roll of 6+ is made. A successful Magic Resistance roll also defies a command. If any resistance roll is Botched, the command is followed to the letter, without question, even if it means the enactor's death.
 >
->Vis: 5 Mentem each, skulls
+> Vis: 5 Mentem each, skulls
 
 #### STORY IDEAS
 
@@ -2517,6 +2525,7 @@ In a fit of anger, Shen might exile characters into a dark place, or he might as
 ### STORY IDEAS
 
 Although the land of Sicily is officially owned by Magvillus, no concentrated effort has ever been made to collect all its vis. Thus, the island is the best place in the Roman Tribunal to found a new Covenant. Magvillus could be convinced to give up rights to land in the Faerie forest in return for promises of vis, or if the new Covenant swears allegiance to Magvillus.
+
 - A Grog could enter the outskirts of the Faerie forest and become lostin its changing landscape. ACovenant expedition might be formed to find the missing custos. What happens to the Grog while his friends are searching for him?
 - Magi could travel to the forest looking for some rare herb needed to heal a sick person, or to finish a longevity potion. If the characters do not try to harm the wood, they might be allowed to take the herb, but they have to endure the pranks of Shen's faeries all the same.
 - Some great force could threaten the Faerie forest. Perhaps a dragon has decided to make its center his home, or some enterprising peasants have begun to construct a Church, with painful bells, close to the forest. Silva Ambages could seek help from Magi of the Order to drive off the dragon or to "discourage" the mundanes.
@@ -2544,11 +2553,11 @@ If the targethas the Valor Passion, its score may be used in place of Brave, and
 
 To enter the graveyard, an Arch-Mage usually casts Suppressing the Wizard's Handiwork (Rego Vim, at Level 35), to temporarily suppress the fear spell. (As the Arch-Magi all worked together to create the ward, and newly recognized Arch-Magi are indoctrinated into the spell's casting, all of their casting of Suppressing has effect on the ward.)
 
->#### Lore of the Order
+> #### Lore of the Order
 >
->"Of all the Magi in the Order, I find Arch-Magi to be the most interesting group. They meet in secret places, discussing the future of the Order. But, at the same time, they claim that they are not political in the least. Among their number, we find many Tytalus and Flambeau, some of the least thoughtful Houses. Yet great knowledge has come from the body. Some day I hope to determine whether the Arch-Magi truly control the Order or not. I fear what control by such a small group could lead to, but at the same time, I understand the possibilities, if only the Order were controlled by the right people."
+> "Of all the Magi in the Order, I find Arch-Magi to be the most interesting group. They meet in secret places, discussing the future of the Order. But, at the same time, they claim that they are not political in the least. Among their number, we find many Tytalus and Flambeau, some of the least thoughtful Houses. Yet great knowledge has come from the body. Some day I hope to determine whether the Arch-Magi truly control the Order or not. I fear what control by such a small group could lead to, but at the same time, I understand the possibilities, if only the Order were controlled by the right people."
 >
->— Tarus of Bonisagus, Politics of the Order
+> — Tarus of Bonisagus, Politics of the Order
 
 ### Inside the Graveyard
 
@@ -2588,13 +2597,13 @@ As with any other supernatural regio, a person may enter into the "upper" levels
 
 One may also slip into the higher regio by sitting on the hill and meditating upon the art of war and death. Several locals may know this ritual, having heard old stories of the Resting Place of Mars. Perhaps they are able to provide characters with some mantra or chant used to enter and leave the regio level. To enter the upper regio level in this way, a simple roll of the character's highest "warlike" Personality Trait (or Passion) + Meditation of 9+ must be made. Mantras or chants provided may apply +1 or +2 to this roll, at the Storyguide's discretion.
 
->#### Lore from the Order
+> #### Lore from the Order
 >
->"The gods sleep on, and all who know the truth hope that they will sleep on until the end of time, for if they stirred from slumber and walked once more upon the earth, they could well destroy all of civilization, and likely the Order along with it. Always remember, despite how the Old Ones might appear, they are not human, but monstrous indeed.
+> "The gods sleep on, and all who know the truth hope that they will sleep on until the end of time, for if they stirred from slumber and walked once more upon the earth, they could well destroy all of civilization, and likely the Order along with it. Always remember, despite how the Old Ones might appear, they are not human, but monstrous indeed.
 >
->"Today, itis said, the Old Ones sleep upon Mount Olympus, in the forest of Tertius Quid, and some say at Stonehenge. The dwellings ofthe gods do not exist in time as most things do, but rather return to time periodically as they will. Only if you visit those places at the right moment will you be able to enter the gods' palaces and gardens, and maybe meet with them, if you are lucky or accursed enough."
+> "Today, itis said, the Old Ones sleep upon Mount Olympus, in the forest of Tertius Quid, and some say at Stonehenge. The dwellings ofthe gods do not exist in time as most things do, but rather return to time periodically as they will. Only if you visit those places at the right moment will you be able to enter the gods' palaces and gardens, and maybe meet with them, if you are lucky or accursed enough."
 >
->— Arch-Mage Infamitus, The True Origins of the Magical Traditions
+> — Arch-Mage Infamitus, The True Origins of the Magical Traditions
 
 ## THE MAGICAL REGIO (5)
 
@@ -2621,9 +2630,9 @@ There's no telling what secrets might lie behind the Resting Place of Mars. If i
 - The Resting Place place might be a trap set by the Dark, intended to bring even greater discontent and destruction to the north of Italy, so as to gather more souls.
 - The questions of the Resting Place of Mars might never be answered, leaving it a simple but useful enigma upon the plains of Lombardy.
 
->#### The Ghostly Swordsmen
+> #### The Ghostly Swordsmen
 >
->The ghostly swordsmen appear as insubstantial people wearing full chain and carrying great swords (in combat they may be treated as substantial foes). Any who took a weapon from the Resting Place of Mars, on the next new moon, wakes to find a swordsman above him. The swordsman motions toward the character's armor and weapons, and waits until the character is adequately armed and The swordsmen then initiates a fight, not stopping unless the stolen weapon is given to him, returned to the Resting Place of Mars, or until the victim is defeated (Incapacitated is sufficient). Unless the swordsman is defeated, or the weapon is returned, he appears again with every new moon. During any combat, no one else is able to see the swordsman or affect him in any way. If the swordsman is defeated, he slowly fades away into nothingness and never returns.
+> The ghostly swordsmen appear as insubstantial people wearing full chain and carrying great swords (in combat they may be treated as substantial foes). Any who took a weapon from the Resting Place of Mars, on the next new moon, wakes to find a swordsman above him. The swordsman motions toward the character's armor and weapons, and waits until the character is adequately armed and The swordsmen then initiates a fight, not stopping unless the stolen weapon is given to him, returned to the Resting Place of Mars, or until the victim is defeated (Incapacitated is sufficient). Unless the swordsman is defeated, or the weapon is returned, he appears again with every new moon. During any combat, no one else is able to see the swordsman or affect him in any way. If the swordsman is defeated, he slowly fades away into nothingness and never returns.
 
 ### STORY IDEAS
 
@@ -2638,7 +2647,6 @@ The Church of Saint Aquila is a small church in Rome noted for the piety of its 
 ### History
 
 In the 1st century, the Jewish tentmaker Aquila and his wife were forced to leave Rome when Emperor Claudius expelled all Jews from the city. The couple traveled to Corinth, where they were converted to Christianity by Saint Paul. They later returned to Rome, where their house was used as a church, and they where martyred.
-
 
 About 200 years ago, the Church of Saint Aquila was built, after a young priest received visions while lodging near the old house of Aquila. Currently, only Angelo, the current priest, knows of the foundations on which the Church of Saint Aquila is built, as he too has received visions. (See *The Roman Tribunal* map for the location of the church.)
 
@@ -2711,7 +2719,7 @@ Intelligence -1 Presence -2
 
 Perception +2 Communication -2
 
-Strength +4 Dexterity -1 
+Strength +4 Dexterity -1
 
 Stamina +2 Quickness -1
 
@@ -2771,7 +2779,7 @@ Intelligence 0 Presence -2
 
 Perception -2 Communication +3
 
-Strength -3 Dexterity +1 
+Strength -3 Dexterity +1
 
 Stamina 0 Quickness +3
 
@@ -2789,7 +2797,7 @@ PERSONALITY TRAITS: Brave +1, Loyal +2, Honest +2
 
 WEAPONS & ARMOR: Dagger
 
-**ENCUMBRANCE: 0** 
+**ENCUMBRANCE: 0**
 
 Like most Covenants in the Roman Tribunal, yours has interests spread across Italy. There's the Covenant itself, the townhouse in Venice and a huge number of other locations of interest. Messages are constantly delivered from one place to another, and that's where you come in. It isn't the most glamorous job but it's a safe and easy one. Perhaps one day the Covenant will recognize your loyalty and raise you to the status of *custos*.
 
@@ -2801,7 +2809,7 @@ Intelligence +2 Presence -2
 
 Perception 0 Communication -2
 
-Strength -2 Dexterity +3 
+Strength -2 Dexterity +3
 
 Stamina -1 Quickness +4
 
@@ -2831,7 +2839,7 @@ Intelligence +4 Presence 0
 
 Perception 0 Communication +3
 
-Strength -2 Dexterity -4 
+Strength -2 Dexterity -4
 
 Stamina -2 Quickness 0
 
@@ -2859,7 +2867,7 @@ Perception x2 Communication -4
 Strength +2 Dexterity +1 Stamina +3 Quickness 0
 
 AGE: 28
- 
+
 VIRTUES AND FLAWS: Common Sense +1, Exceptional Talent +1, Social Contacts (merchants) +1, Stocky +1, Tough +1, Reserves of Strength +2, Bad Reputation -1, Fury -3, Sense of Doom -3
 
 ABILITIES: Speak Italian 5, Battle Axe Attack 4, Battle Axe Parry 2, Brawl 2, Alertness 2, Athletics 1, Climb 1,Boating 2, Scan 3, Swim 2, Bargain 3, Drinking 2, Etiquette 1, Leadership 4, Direction Sense 2
@@ -2882,7 +2890,7 @@ Several Covenants in the Roman Tribunal have their own ships. They use them to t
 
 Intelligence +1 Presence -2
 
-Perception +3 Communication +2 
+Perception +3 Communication +2
 
 Strength -2 Dexterity +!
 
@@ -2898,7 +2906,7 @@ VIRTUES & FLAWS: Educated +1, Student +1, Free Expression +1, Social Contacts (c
 
 ABILITIES: Speak Italian 5, Scribe Arabic 3, Scribe Latin 4, Bargain 1, Concentration 3, Diplomacy 1, Etiquette 3, Folk Ken 2, Craft Illuminations 3, Church Knowledge 3, Area Lore — Rome 2
 
-CONFIDENCE: 3 
+CONFIDENCE: 3
 
 REPUTATION: None
 
@@ -2914,7 +2922,7 @@ Intelligence -1 Presence +1
 
 Perception -2 Communication +2
 
-Strength +2 Dexterity -2 
+Strength +2 Dexterity -2
 
 Stamina +2 Quickness -2
 
@@ -2944,11 +2952,11 @@ Intelligence 0 Presence 0
 
 Perception +3 Communication 0
 
-Strength -4 Dexterity +2 
+Strength -4 Dexterity +2
 
 Stamina -4 Quickness +2
 
-**AGE: 20** 
+**AGE: 20**
 
 VIRTUES & FLAWS: Light Touch +1, Greed Passion +1, Social Contacts (merchant) +1, Social Contacts (noble) +1, Strong-Willed +1, Lightning Reflexes +2, Bad Reputation -1, Favors -1, Small Frame -2, Noncombatant -3
 
@@ -2976,7 +2984,7 @@ Intelligence +2 Presence -2
 
 Perception +0 Communication -3
 
-Strength +2 Dexterity +1 
+Strength +2 Dexterity +1
 
 Stamina +2 Quickness -2
 
@@ -2994,7 +3002,7 @@ CONFIDENCE: 3
 
 WEAPONS & ARMOR: Morning Star, Knight's Shield, Ring Mail Hauberk
 
-**ENCUMBRANCE: 2** 
+**ENCUMBRANCE: 2**
 
 TECHNIQUES & FORMS: Creo 1, Intéllego 0, Muto 10, Rego 2, Perdo 0, Animál 3, Aquam 0, Auram 0, Córporem 10, Herbam 0, Ignem 0, Imágonem 0, Mentem 0, Terram 5, Vim 5
 
@@ -3010,7 +3018,7 @@ Intelligence +2 Presence +1
 
 Perception -1 Communication +2
 
-Strength -2 Dexterity -2 
+Strength -2 Dexterity -2
 
 Stamina +2 Ouickness -2
 
@@ -3044,7 +3052,7 @@ Intelligence +3 Presence +2
 
 Perception -2 Communication +2
 
-Strength -2 Dexterity -3 
+Strength -2 Dexterity -3
 
 Stamina 0 Quickness -1
 
@@ -3054,7 +3062,7 @@ VIRTUES FLAWS: Book-Learner + 1, Educated + 1, The Gentle Gift + 1, Very Knowled
 
 ABILITIES: Speak Italian 4, Speak Latin 5, Scribe Arabic 2, Scribe Greek 2, Scribe Latin 3, Magic Theory 5, Hermes Law 2, Hermes Lore 2, Hermes History 3, Magic Affinity — Intéllego 3, Parma Magica 2, Concentration 1, Finesse 1, Charisma 2, Charm 2, Debate 2, Diplomacy 2, Folk Ken 2, Teaching 1, Area Lore — Bologna 2, Church Knowledge 2, Humanities 2, Theology 2
 
-**CONFIDENCE: 3** 
+**CONFIDENCE: 3**
 
 REPUTATION: None
 
@@ -3108,17 +3116,17 @@ For 15 years you lived in the catacombs of Vardian's Tomb, where your master tau
 
 Intelligence +4 Presence -3
 
-Perception +2 Communication -2-
+Perception +2 Communication -2
 
-Strength -2 Dexterity 0 
+Strength -2 Dexterity 0
 
 Stamina +1 Quickness 0
 
 AGE: 27
 
-VIRTUES&FLAWS: Inventive Genius +1, Personal Vis Source +1, Social Contacts (nobles) +1, Magic Affinity (Imágonem) +3, Wealth +4, Bad Reputation -1, The Blatant Gift -1, Obligation (making magic items) -1, Reclusive -1, Verditius Magic -1, Vis Obligation -1, Clumsy Magic -2, Wild Magic -2
+VIRTUES & FLAWS: Inventive Genius +1, Personal Vis Source +1, Social Contacts (nobles) +1, Magic Affinity (Imágonem) +3, Wealth +4, Bad Reputation -1, The Blatant Gift -1, Obligation (making magic items) -1, Reclusive -1, Verditius Magic -1, Vis Obligation -1, Clumsy Magic -2, Wild Magic -2
 
-ABILITIES:Speak Italian 4, SpeakLatin 5, ScribeLatin 3, Magic Theory 5, Hermes Lore 2, Hermes History 2, Parma Magica 2, Verditius Magic 4, Magical Affinity — Imágonem 4, Quarterstaff Attack 1, Quarterstaff Parry 2, Legend Lore 2
+ABILITIES: Speak Italian 4, SpeakLatin 5, ScribeLatin 3, Magic Theory 5, Hermes Lore 2, Hermes History 2, Parma Magica 2, Verditius Magic 4, Magical Affinity — Imágonem 4, Quarterstaff Attack 1, Quarterstaff Parry 2, Legend Lore 2
 
 CONFIDENCE: 3
 
@@ -3126,11 +3134,11 @@ REPUTATION: Greedy 2
 
 PERSONALITY TRAITS: Arrogant +1, Greedy +1
 
-WEAPONS& ARMOR: Quarterstaff
+WEAPONS & ARMOR: Quarterstaff
 
 ENCUMBRANCE: 0
 
-TECHNIQUESESFORMS: Creo 10, Intéllego 4,Muto 5, Perdo 1, Rego 5, Animal 0, Aquam 0, Auram 0, Cérporem 2, Herbam 0, Ignem 0, Imágonem 8, Mentem 0, Terram 0, Vim 5
+TECHNIQUES & FORMS: Creo 10, Intéllego 4,Muto 5, Perdo 1, Rego 5, Animal 0, Aquam 0, Auram 0, Cérporem 2, Herbam 0, Ignem 0, Imágonem 8, Mentem 0, Terram 0, Vim 5
 
 SPELLS:Phantasmal Animal (Creo Imágonem 20),Phantasm of the Human Form (Creo Imágonem 25), Notes of a more expensive than that, good sir." Delightful Sound (Muto Imágonem 10), ImagePhantom (Muto Imágonem 20), Invisibility of the Standing Wizard (Perdo Imágonem 15), Sense the Nature of Vis (Intéllego Vim 10), Scales of the Magical Weight (Intéllego Vim 15), Perceive the Magical Scent (Intéllego Vim 20), Gather the Essence of the Beast (Muto Vim 15)
 

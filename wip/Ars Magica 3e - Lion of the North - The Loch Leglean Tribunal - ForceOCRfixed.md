@@ -1,6 +1,12 @@
 # Lion of the North: The Loch Leglean Tribunal
-
 A Sourcebook to Mythic Scotland for Ars Mágica™ 3rd Edition
+
+
+> *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+>
+> *[Completion state: All chapter text manually fixed and reviewed, headings fixed. Remaining: Stat blocks needs fixing, minor table errors in Appendix]*
+>
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
 
 
@@ -9,10 +15,6 @@ Come to a land of hills and shadow, where faeries evil and benign daily touch th
 Explore a covenant housed in a faerie mound with sentient walls, or one of Saxon renegades living in caves. Meet the strange, rough wizards known as gruagachan, and arrive at a showdown with the venerable and wicked Damhan-allaidh, instigator, and eldest survivor through long ages, of the war that spawned the House Ex Miscellanea.
 
 Lion of the North: The Loch Leglean Tribunal is the third tribunal background book for Ars Magica™. Here is everything you need to play individual stories or entire sagas set in Mythic Scotland. You'll find extensive historical background on the region, as well as new creatures, rules for new magi, and much more.
-
-
-
-
 
 ### CREDITS
 
@@ -35,10 +37,8 @@ Wizards of the Coast® Customer Service Wizards of the Coast is a company of ded
 ©1994 by Wizards of the Coast, Inc. All Rights Reserved. **Ars Mágica**™, *Lion of the North*™, and *Mythic Europe*™ are all trademarks of Wizards of the Coast, Inc.
 
 
-
-
 | Contents                                           |
-| -------------------------------------------------- |
+| ---------------------------------------------------- |
 | **Chapter 1: Introduction**                        |
 | Overview                                           |
 | Bibliography                                       |
@@ -71,7 +71,7 @@ Wizards of the Coast® Customer Service Wizards of the Coast is a company of ded
 | Lowland Characters                                 |
 | Highland Characters                                |
 | Geasa, Gifts, and Curses                           |
-| Gruagach—The Highland Magician                     |
+| Gruagach—The Highland Magician                    |
 | **Chapter 7: Scenario Ideas**                      |
 | Other Saga Dates                                   |
 | Meeting Brude Deathless                            |
@@ -87,8 +87,6 @@ Wizards of the Coast® Customer Service Wizards of the Coast is a company of ded
 | Pronunciation Notes                                |
 | Vocabulary                                         |
 | **Mythic Scotland at a Glance**                    |
-
-
 
 > *When he had eaten and drunk his fill,*
 > *She said, "Lay your head upon my knee,*
@@ -107,15 +105,10 @@ Wizards of the Coast® Customer Service Wizards of the Coast is a company of ded
 >
 > *But see you that bonny, bonny road*
 > *That winds about the ferny brae?*
-> *That is the road to fair Elfland,* 
+> *That is the road to fair Elfland,*
 > *Where you and I must go."*
 >
-> 
->
 > —The Ballad of Thomas the Rhymer
-
-
-
 
 # Chapter 1: Introduction
 
@@ -153,14 +146,9 @@ This book details the three dominant covenants of the tribunal, but the nature o
 
 Independence is a major part of Scottish life, whether mundane life or Hermetic. There are many secluded places where a covenant or clan may escape the notice of the outside world. The culture of much of the country emphasizes dependence and regulation at the family or clan level, with little respect for the functions of government. Players will find that new covenants are easy to start, but can fail just as easily. Magi will find that the rest of the Order of Hermes will pay little attention to the events in the tribunal. Like the rest of Mythic Europe, most members of the Order probably have no idea of where a covenant in Loch Leglean is, let alone what it is doing.
 
-
-
->### A Note on Pronunciation in Gaelic
+> ### A Note on Pronunciation in Gaelic
 >
->Sprinkled throughout the text are words and names in Gaelic. Pronunciation guides are provided for these words, but the reader should keep in mind that there is no one way to pronounce them. Dialects vary from region to region, and shift over time. I have used the MacLennon dictionary for a pronunciation guide. Also, I have used Scots Gaelic in this book, and there are numerous differences between Irish and Scots Gaelic, not only in pronunciation, but in spelling. One obvious example is the word "sith," which in other Ars Magica material has been written "sidhe," after the Irish fashion.
-
-
-
+> Sprinkled throughout the text are words and names in Gaelic. Pronunciation guides are provided for these words, but the reader should keep in mind that there is no one way to pronounce them. Dialects vary from region to region, and shift over time. I have used the MacLennon dictionary for a pronunciation guide. Also, I have used Scots Gaelic in this book, and there are numerous differences between Irish and Scots Gaelic, not only in pronunciation, but in spelling. One obvious example is the word "sith," which in other Ars Magica material has been written "sidhe," after the Irish fashion.
 
 ## Bibliography
 
@@ -240,16 +228,9 @@ Moore, Knott & Hulbert. The Elements of Old English. Ann Arbor: George Wahr Publ
 
 Lewis, C.T. Elementary Latin Dictionary. Oxford: Oxford University Press, 1979.
 
-
-
-
-
 > *"Marius son of Arvirarous succeeded him in the kingship. He was a man of great prudence and wisdom. A little later in his reign a certain king of the Picts called Sodric came from Scythia with a large fleet and landed in the northern part of Britain which is called Albany: He began to ravage Marius' lands. Marius thereupon collected his men together and marched to meet Sodric. He fought a number of battles against him and finally killed him and won a great victory. In token of his triumph Marius set up a stone in the district, which was afterwards called Westmorland after him. The inscription carved on it records his memory down to this very day. Once Sodric was killed and the people who had come with him were beaten, Marius gave them the part of Albany called Caithness to live in. The land had been desert and untilled for many a long day, for no one lived there. Since they had no wives, the Picts asked the Britons for their daughters and kinswomen; but the Britons refused to marry off their womenfolk to such manner of men. Having suffered this rebuff, the Picts crossed over to Ireland and married women from that country. Children were born to these women, and in this way the Picts increased their numbers. This is enough about them, for it is not my purpose to describe Pictish history, nor, indeed, that of the Scots, who trace their descent from them and from the Irish too.*
 >
 > -Geoffrey of Monmouth, Historia Regum Britanniae, 1136
-
-
-
 
 # Chapter 2: Mythic History
 
@@ -273,13 +254,9 @@ The Romans invaded Britain in the first century, sending their legions against t
 
 Within thirty years they abandoned this wall because of the ferocity of the Caledonians. One legion of over 6,000 men, the IX Hispana, marched north in 118 and disappeared into the hills, never to be seen again. (There are tales of ghosts sighted that match the description of the missing Romans, but the legion's final resting place has never been found.) The Romans then built great stone walls, fortified with towers, between the Solway and the Tyne in the 120s, and between the Forth and the Clyde in the 160s. They named the first wall in honor of the Emperor Hadrian, the second after the Emperor Antonius. Neither wall was successful in keeping the Caledonians from Roman Britain, and the Romans were kept busy in defense and retaliatory raids.
 
-
-
 > *"To us who dwell in the uttermost confines of the Earth and of freedom, this remote sanctuary of Britain's glory has up to this time been a defense. Now, however, the furthest limits of Britain are thrown open, and the unknown always passes for the marvelous. But there are no tribes beyond us, nothing indeed but waves and rocks and the yet more terrible Romans, from whose oppression escape is vainly sought through obedience and submission. Robbers of the world, having by their universal plunder exhausted the land, they rifle the deep. If the enemy be rich, they are rapacious; if he be poor, they lust for domination; neither the east nor the west has been able to satisfy them. Alone among men they covet both poverty and riches. To robbery, slaughter, and plunder they give the lying name of Empire; they make a solitude and call it Peace."*
 >
 > —Calgacus, King of the Caledonians, A.D. 84
-
-
 
 ### Magic Against Rome
 
@@ -315,12 +292,9 @@ There were superficial differences between the Roman and Celtic such as the diff
 
 In the late 8th century the northern parts of Pictland came under attack by Norsemen, who settled in Caithness and on the Orkney and Shetland Islands. Viking pirates looted Iona in 795, and the undefended monasteries up and down the coast quickly became targets of ship-borne raiders. The monks sent relics and priceless treasures inland or to Ireland for safekeeping. Nevertheless, the Viking raiders tore the fabric of the Celtic Church, ending an era of matchless scholasticism and artistic invention. The Vikings also forced the Picts and Scots closer, as the two tribes had to cooperate to ward against the raiders. Hidden hoards of religious art and jeweled items, buried during raids and long-since forgotten, dot the coast. While Church treasures are hardly likely to be guarded by vengeful spirits, the sacred power of the relics could reform the finder. Plunder buried by a raiding party, on the other hand, could well be guarded by a slain watrior, who watches over the treasure until his friends return. Such a guardian, or hagbui, is a formidable foe, able to track even one stolen cup or bauble.
 
-
-
 ## Hagbui (Barrow-dweller)
 
 > The hagbui and other creatures have powers expressed in terms of Hermetic arts and spell levels. These give you a guide as to their power when Hermetic magi try to counteract or resist them.
->
 
 #### Powers
 
@@ -358,23 +332,22 @@ Immunity to Edged Weapons (MuCo 35): Edged weapons (including spears and arrows)
 
 Stink: (CrAu 10): Like Stench of the Twenty Corpses.
 
-
-
 ### Hagbui (Barrow-Dweller)
 
-| Magic Might | Size |
-| --- | --- |
-| 10  | -2  |
 
+| Magic Might | Size |
+| ------------- | ------ |
+| 10          | -2   |
 
 #### Characteristics
-|||||
-| ----- | ------------------ | ---- | ------------- |
-| 0 | Cun                | n/a  | Pre           |
-| +1    | Per (tracker)      | n/a  | Com           |
-| +7    | Str (supernatural) | -3   | Dex (bloated) |
-| +10   | Sta (undead)       | -1   | Qik (massive) |
 
+
+|     |                    |     |               |
+| ----- | -------------------- | ----- | --------------- |
+| 0   | Cun                | n/a | Pre           |
+| +1  | Per (tracker)      | n/a | Com           |
+| +7  | Str (supernatural) | -3  | Dex (bloated) |
+| +10 | Sta (undead)       | -1  | Qik (massive) |
 
 #### Personality Traits
 
@@ -382,10 +355,11 @@ Stink: (CrAu 10): Like Stench of the Twenty Corpses.
 
 #### Combat Totals
 
-| Weapon       | 1st  | Atk  | Parry | Dam  |
-| ------------ | ---- | ---- | ----- | ---- |
-| Claw Totals: | +7   | +5   | -     | +17* |
-| Bite Totals: | +5   | +4   | -     | +17  |
+
+| Weapon       | 1st | Atk | Parry | Dam  |
+| -------------- | ----- | ----- | ------- | ------ |
+| Claw Totals: | +7  | +5  | -     | +17* |
+| Bite Totals: | +5  | +4  | -     | +17  |
 
 Dodge: -3 Fatigue: n/a Soak: +15 Encumbrance: 0
 
@@ -402,9 +376,6 @@ OK/OK/OK, 0, -1, -3, -5, Incapacitated
 #### Vis
 
 5 pawns of Córporem vis in one organ (for example, heart, liver, stomach).
-
-
-
 
 ## The Ascendance of the Scots
 
@@ -435,8 +406,6 @@ Malcolm took the field against William in his wife's name, invading northern Eng
 King William took Malcolm's son Duncan as a hostage, to raise in the Norman court. Malcolm continued to raid the northern English provinces until he died at Alnwick in Northumbria, thrust through the eye with the lance from whose tip he was accepting the keys to the city. His eldest son, Edward, died in the ensuing skirmish, and his son Edgar took the news north to Margaret, who died three days later. Her last prayer was thanks that such bad news allowed her to purify her soul before she died.
 
 Malcolm's brother Donald Ban had been raised in Scotland rather than England, and he rallied the Scottish people. Striving to enforce the slogan "No more English influence," he briefly resisted the foreign attempts to dominate Scotland. King William Rufus of England, son of the Conqueror, had no intention of allowing the Scots to rule themselves. William sent Duncan, son of Malcolm, to Scotland with a large retinue of knights. The Scots grudgingly accepted him as king, on the condition that he never again introduce English or French into the land. Duncan was unable to fulfill his pledge and was murdered. The Scots proclaimed Donald Ban king once again.
-
-
 
 ## The House of Canmore: Scotland in the 12th Century
 
@@ -482,13 +451,9 @@ Guthred's brother allied with a greatgrandson of Lulach; but in 1215 the abbat (
 
 As of A.D. 1220, King Alexander is only twenty-two years old and betrothed to Princess Joanna, daughter of the late King John of England. His three sisters were given to John for marriage to suitable princes and will be married to English earls. His coronation was in the traditional Scottish manner (ohn blocked his attempts to have a Papal Legate perform the coronation). King Henry IIl of England is ambivalent at best toward his northern neighbor, though he does approve of the match between Alexander and his sister.
 
-
-
 > ### A Brief Note to Storyguides
 >
 > This ends the established history of Mythic Scotland. What follows is a summary of events from 1220 to 1300, included as an aid to storyguides. These events will take place unless character action prevents them. The storyguide may also use this as a springboard for prophecy. Many people in Scottish history have had the gift of prophecy or, as it is sometimes called in the Highlands, the "second sight." Prophecies are often clouded in allegory and symbolism, with people described as animals, with the kind of animals based on coats of arms (for example, the lion often represents the king of Scotland) or on the people's role in the prophecy.
-
-
 
 ## Scotland After 1200
 
@@ -525,8 +490,6 @@ Alexander's children all die before their father, and in 1284 he remarries in an
 > le: law
 > sons: lots, much
 
-
-
 ### Rivals for the Throne
 
 Many claimants come forward, until the royal council requests that King Edward of England arbitrate between them. Thirteen men eventually put their claims before Edward, who starts the proceedings by requiring all of them to swear fealty to England for the throne of Scotland. There are two major claims: from Robert Bruce and John Balliol. Both men claim descent from daughters of David, Earl of Huntington, brother of William the Lion and Malcolm IV. Edward and his 104 auditors finally find for John Balliol in 1292. Robert Bruce protests, as Alexander II had recognized him as heir before the birth of Alexander III. Edward's main reason for choosing Balliol is his belief that John is easier to control.
@@ -539,14 +502,13 @@ With the king out of the way, major strongholds taken, and loyal English lords i
 
 Edward, angered by this display of Scottish insolence, marches north at the head of a great army. On the 22nd of July, 1298, the English and Scots clash on the field of Falkirk, but this time the English defeat Wallace's men. Wallace escapes from the slaughter and flees to France, disgraced in Scottish eyes. The country is still rebellious, and two men rise to lead armies. Robert the Bruce, grandson of the Robert Bruce who claimed the throne in 1190, and John Comyn, descended from David II, join to fight the English. However, in 1299 John Comyn attacks Bruce in Selkirk forest, and Bruce barely escapes with his life. As the century ends, the English are in possession of southeast Scotland. Pockets of insurrection and rebellion are flaring up everywhere, but the might of England and the rivalry between Bruce and Comyn make the future look bleak for the struggle to maintain Scottish independence.
 
-
-
 ## Kings of Scotland
 
-| Name                                       | Begin Reign | End Reign |
-| ------------------------------------------ | ----------- | --------- |
-| Duncan I                                   | 1034        | 1040      |
-| MacBeth                                    | 1040        | 1057      |
+
+| Name                                                  | Begin Reign | End Reign |
+| ------------------------------------------------------- | ------------- | ----------- |
+| Duncan I                                              | 1034        | 1040      |
+| MacBeth                                               | 1040        | 1057      |
 | Lulach                                                | 1057        | 1057      |
 | Malcolm III Canmore                                   | 1057        | 1093      |
 | Donald Ban                                            | 1093        | 1094      |
@@ -561,15 +523,16 @@ Edward, angered by this display of Scottish insolence, marches north at the head
 | Alexander III                                         | 1249        | 1286      |
 | Throne in dispute (Margaret, Maid of Denmark is heir) | 1286        | 1290      |
 | John Balliol                                          | 1292        | 1296      |
-| Edward I of England                                   | 1296–       |           |
+| Edward I of England                                   | 1296–      |           |
 
 ## Kings of Man and the Isles
 
-| Name                                       | Begin Reign | End Reign |
-| ------------------------------------------ | ----------- | --------- |
-| Godred Crovan                              | 1079        | 1095      |
-| Civil War                                  | 1095        | 1098      |
-| Magnus Barelegs—King of Norway             | 1098        | 1103      |
+
+| Name                                                       | Begin Reign | End Reign |
+| ------------------------------------------------------------ | ------------- | ----------- |
+| Godred Crovan                                              | 1079        | 1095      |
+| Civil War                                                  | 1095        | 1098      |
+| Magnus Barelegs—King of Norway                            | 1098        | 1103      |
 | Civil War                                                  | 1103        | 1113      |
 | Olaf I                                                     | 1113        | 1153      |
 | Godred II                                                  | 1153        | 1187      |
@@ -579,33 +542,34 @@ Edward, angered by this display of Scottish insolence, marches north at the head
 | Reginald II                                                | 1248        | 1248      |
 | Civil War                                                  | 1248        | 1252      |
 | Magnus (Battle of Largs 1263)                              | 1252        | 1265      |
-| Kings of Scotland (Man and Hebrides sold to Scotland 1266) | 1266–       |           |
+| Kings of Scotland (Man and Hebrides sold to Scotland 1266) | 1266–      |           |
 
 ## Earls of Orkney
 
-| Name                                       | Begin Reign | End Reign |
-| ------------------------------------------ | ----------- | --------- |
-| Sigurd Eysteinsson                                                                                   | 875         | 901       |
-| Turf-Einar Rognvaldsson                                                                              | 901         | 932       |
-| Thorfinn Skullsplitter                                                                               | 932         | 963       |
-| Several sons of Thorfinn                                                                             | 963         | 976       |
-| Hlodvir Thorfinnsson                                                                                 | 976         | 980       |
-| Sigurd the Stout (Died at Clontarf)                                                                  | 980         | 1014      |
+
+| Name                                                                                                  | Begin Reign | End Reign |
+| ------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
+| Sigurd Eysteinsson                                                                                    | 875         | 901       |
+| Turf-Einar Rognvaldsson                                                                               | 901         | 932       |
+| Thorfinn Skullsplitter                                                                                | 932         | 963       |
+| Several sons of Thorfinn                                                                              | 963         | 976       |
+| Hlodvir Thorfinnsson                                                                                  | 976         | 980       |
+| Sigurd the Stout (Died at Clontarf)                                                                   | 980         | 1014      |
 | Sumarlidi, Brusi, Einar Wrymouth—Sons of Sigurd (Olaf Haraldson, king of Norway, seizes the islands) | 1014        | 1017      |
-| Brusi, Thorfinn                                                                                      | 1017        | 1035      |
-| (Confirmed by Olaf) Thorfinn, Rognvald                                                               | 1035        | 1045      |
-| Thorfinn the Mighty                                                               | 1045        | 1065      |
-| Paul, Erland (Fought at Stamford Bridge. Magnus Barelegs seizes the Islands 1098) | 1065        | 1098      |
-| Sigurd—Son of Magnus                                                              | 1098        | 1103      |
-| Hakon, Magnus—Sons of Paul and Erland                                             | 1103        | 1117      |
-| Hakon                                                                             | 1117        | 1123      |
-| Paul (Magnus Canonized 1135)                                                      | 1123        | 1136      |
-| Rognvald Kolsson (Crusaded 1152)                                                  | 1136        | 1158      |
-| Harald Maddaderson (Shetland separated from Orkney 1194; Rognvald Canonized 1192) | 1158        | 1206      |
-| David, Jon—Sons of Harald                                                         | 1206        | 1214      |
-| Jon Haraldson                                                                     | 1214        | 1231      |
-| Six Earls of Angus (Battle of Largs 1263; Man and Hebrides sold to Scotland 1266) | 1231        | 1276      |
-| Magnus Manusson                                                                   | 1276–       |           |
+| Brusi, Thorfinn                                                                                       | 1017        | 1035      |
+| (Confirmed by Olaf) Thorfinn, Rognvald                                                                | 1035        | 1045      |
+| Thorfinn the Mighty                                                                                   | 1045        | 1065      |
+| Paul, Erland (Fought at Stamford Bridge. Magnus Barelegs seizes the Islands 1098)                     | 1065        | 1098      |
+| Sigurd—Son of Magnus                                                                                 | 1098        | 1103      |
+| Hakon, Magnus—Sons of Paul and Erland                                                                | 1103        | 1117      |
+| Hakon                                                                                                 | 1117        | 1123      |
+| Paul (Magnus Canonized 1135)                                                                          | 1123        | 1136      |
+| Rognvald Kolsson (Crusaded 1152)                                                                      | 1136        | 1158      |
+| Harald Maddaderson (Shetland separated from Orkney 1194; Rognvald Canonized 1192)                     | 1158        | 1206      |
+| David, Jon—Sons of Harald                                                                            | 1206        | 1214      |
+| Jon Haraldson                                                                                         | 1214        | 1231      |
+| Six Earls of Angus (Battle of Largs 1263; Man and Hebrides sold to Scotland 1266)                     | 1231        | 1276      |
+| Magnus Manusson                                                                                       | 1276–      |           |
 
 ## Timeline of Major Events
 
@@ -649,8 +613,6 @@ Edward, angered by this display of Scottish insolence, marches north at the head
 
 **1286** — Alexander III dies heirless
 
-
-
 ## Timeline of Mundane History
 
 **300 B.C.** — Picts invade Scotland
@@ -693,7 +655,7 @@ Edward, angered by this display of Scottish insolence, marches north at the head
 
 This is a two-column layout of the complete timeline. Here's the full OCR transcription in chronological order:
 
-------
+---
 
 ## Timeline of Mundane History
 
@@ -817,19 +779,11 @@ This is a two-column layout of the complete timeline. Here's the full OCR transc
 
 **1298** — Wallace defeated at Falkirk
 
-
-
-
-
->
 > *"... as for the wizards and witches of my army, I find them to be braver and truer than the magi of the Order, who, retreating from conflict with Damhan-allaidh and bleating their fear of his bloody rites, left the defense of Britain, Europe, and the*
 >
 > *Order to a hastily raised army of illtrained hedge wizards and others deemed unfit to join the exalted Order of Hermes. Thus do I declare my despite for the Order of Hermes and form the Ordo Miscellanea, which shall accept those magicians whom the Order of Hermes despises: the lowly, the oppressed."*
 >
 > —Pralix, filia of Tytalus, letter to the Order, 956, Age of Aries
-
-
-
 
 # Chapter 3: Hermetic History
 
@@ -847,15 +801,11 @@ In May of 814, the maga Pralix of House Tytalus landed in Northumbria, accompani
 
 Having only one other Hermetic magus, Pralix resorted to recruiting magi from among the Scots and Picts. Pralix found the native magicians to be generally weaker than any Hermetic magus, though there were a few stand-outs: notably, a magician named Brude Deathless, who was a member of a loose tradition of Pictish magicians called gruagachan. Brude had already started a movement among the gruagachan to rid the land of Damhan-allaidh. Pralix persuaded Brude to join her army, and he brought many gruagachan with him, including his own children and grandchildren. Other magicians trickled in, and she recruited warriors from among the clans. Finally, in the spring of 815, Pralix felt confident enough to try to bring Damhanallaidh to battle. She sent many shapeshifting witches to search out the wizard's location, and set the other magicians to making weapons, armor, or other magical items. In May she received word that he was hiding in the Highlands near Loch Ochy. Her forces moved north, with many magicians on the flanks and in the air to prevent a repeat of the ambush at Loch Oadh.
 
-
-
 > #### Gruagachan
 >
 > The gruagachan are a loose association of wizards who trace their lineage to the wizards of the Picts. They use the language of the Picts in their teaching and magic, much as the magi of the Order of Hermes use Latin. The magic of the gruagachan is focused on affecting the wizard and individual others. Magi of the Order of Hermes are typically powerful in a broad range of Talents but few could challenge the gruagachan in their area of specialty. Similarly, gruagachan magic has some limitations that are easily surpassed by Hermetic magic.
 
 > **Gruagach** (groo-uh-guk): A Pictish wizard. Plural is gruagachan (groo-uh-kahn). More about gruagachan is presented in Character Generation.
-
-
 
 A major setback occurred on the march: Ignes Festi and Brude Deathless quarreled, and Brude abandoned Pralix to her own devices, taking most of the gruagachan with him. With her forces depleted, Pralix had to decide whether to continue with her campaign or disengage. She decided to push on, putting her faith in the special measures developed for the giants. At Loch Ochy the two forces clashed, the battle opening with the giants hurling boulders among the magicians. This time, however, Pralix was waiting for them, and her magic, combined with that of several native magicians, destroyed or deflected the boulders harmlessly. Ignes Festi, with help from other fire-based magicians, built a wall of fire in front of the giants as they charged. The flames bumed a few giants and drove many away. However, the battle was not all one-sided; Damhan-allaidh had spent the winter preparing for this fight as well. His spells cut bloody swaths through the ranks of the magicians, some of whom had learned the parma magica, but had not had much time to practice it. Damhanallaidh also had human allies, who accounted for the cause of many casualties among the magicians and their followers.
 
@@ -873,8 +823,6 @@ With the war against Damhan-allaidh over, Pralix found herself the leader of a l
 
 > **Trianoma** is the maga of House Bonisagus whose political savvy helped form the Order of Hermes.
 
-
-
 ### Damhan-allaidh's Return
 
 While still the head of the Ordo Miscellanea, Pralix had created the *Praeses Septentrionalis*, or Northern Guard, to watch over Scotland. Several covenants formed the Praeses and they watched primarily for signs of Damhan-allaidh. It gradually lost its sense of urgency, and in the late 880s the Praeses paid for its laxness, Damhanallaidh and an army of supernatural allies destroyed the covenant of Heart's Delight in one night. They overran the covenant, slaying all the magi as they went. In the following year several other covenants in the Praeses were destroyed, and Pralix sent a message to the European magi for aid. Several Flambeau and Tytalus magi came to Scotland, seeing an opportunity for testing spells of combat and destruction. In a great battle in Caithness, the Hermetic magi managed to defeat Damhan-allaidh and his allies, but he was again able to escape. Frustrated, Flambeau magi declared that they would hunt down the sorcerer, but Pralix, fearing bellicose Flambeau ravaging the island and her House, ordered them from Scotland. Since that time bad blood between House Ex Miscellanea and House Flambeau has been a part of life in the tribunal.
@@ -891,12 +839,9 @@ Members of the Order of Hermes in the more settled areas of Europe fear the myst
 
 Magi in most areas where the Norse have settled (Ireland, Scotland, the Baltic Coast, Kiev, and the Russian principalities) may know the truth of this. However, the magi of these areas are rarely trusted by the rest of the Order of Hermes. Quaesitoris often use letters that declare the Order of Odin to be false against those who bring them forward, as evidence of complicity and collusion with the Order of Odin. The quaesitoris are more likely to bring the author or revealer of such a letter up on charges than first attempt to substantiate the claims made in it! Storyguides should be careful to note who spreads information about the Order of Odin and who might be listening. Players should be careful to distinguish between the knowledge that they themselves have and the knowledge their characters have.
 
-
-
 ## The Order and the Kings
 
 Despite the clause in the Code of Hermes about interfering with mundane society, the magi in Scotland have had a long history of aiding or interfering with the mundane rulers of the country. Kenneth MacAlpin, King of Scots, invaded the southern Pictish lands in the mid-9th century. Along with his Scottish warriors, he had magi, particularly members of House Diedne. The Druids had long lusted after the northern lands, but had been frustrated by the magic of the gruagachan. Together, the military might of the Scots and the magical might of House Diedne were able to conquer the inhospitable Highlands. The Druids destroyed one Pictish covenant, Peanhafel, in a year-long siege in 849. Spells crafted by the Diedne eradicated the Pictish tongue, so that since the year 900, Pictish has been a forgotten language.
-
 
 Besides House Díedne's helping Kenneth MacAlpin and his successors, there were the instances of magi intervention where Hermetic magi and gruagachan helped MacBeth fight Duncan and where others helped Malcolm Canmore fight MacBeth. Also, Scottish magi fought in King David's host at the Battle of the Standard. Only since the Pact of Crun Clach in 1189 has there been a peace between the magicians in Scotland. In the pact, the magi swore to refrain from aiding the king or invaders, and reaffirmed the injunction in the Code of Hermes. Additional clauses in the pact prohibit some acts of theft or assault, while specifically allowing others.
 
@@ -928,8 +873,6 @@ Meetings of the tribunal occur every seven years at Loch Leglean, Pralix's base 
 
 The aonaranan who show up for the tribunal are quite popular, and members of all three political groups woo them for their support. Each group tends to use different inducements based on its current needs and abilities. Horsingas' faction tends to offer military aid or threaten attacks; the Lowland covenants, led by Crun Clach, offer material aid or support; and the Highland covenants can offer any of the above.
 
-
-
 > *Venerable Gwynasere,*
 >
 > *We write to inform you of a problem in the North. The magi of the covenant of Horsingas in the Loch Leglean Tribunal have abused and broken the Code of Hermes on too many occasions to enumerate or describe. They blatantly attack English castles and travelers, justifying their actions as the arts of oppressed and desperate Saxons. In truth, these "Saxons" are not interested in driving the Normans out of Britain; rather, they are indulging their bloodlust and rapacity, using as a rallying point a cause long-since scorned here in the South.*
@@ -939,8 +882,6 @@ The aonaranan who show up for the tribunal are quite popular, and members of all
 > *With all due respect,*
 > *William Fireheart and Dan O'Thunder, House Flambeau*
 
-
-
 ### Links to Other Tribunals
 
 The tribunal has its neighbors in the Hibernian Tribunal and Stonehenge Tribunal, and the Norman Tribunal is becoming increasingly important with the mundane political ties between Scotland and France. Several covenants have personal ties to covenants in other tribunals, but there are no major links to other tribunals. There are occasional meetings with representatives from the Stonehenge and Hibernia Tribunals regarding the Isle of Man, which is vis-rich and claimed by all three tribunals.
@@ -948,8 +889,6 @@ The tribunal has its neighbors in the Hibernian Tribunal and Stonehenge Tribunal
 ### Other Magicians in Scotland
 
 There are Scandinavian magicians in the Orkney and Shetland Islands, as well as in the Hebrides and on Man. There is an unknown number of gruagachan in the Highlands (thought to be less than 100), and most clans can claim an old wise woman or two. Rumor claims that Lord Goulis, seneschal of the realm, is the king of the Scottish diabolists, but no one has found concrete evidence to implicate him.
-
-
 
 ## Scottish Timeline — Hermetic History
 
@@ -1023,10 +962,6 @@ There are Scandinavian magicians in the Orkney and Shetland Islands, as well as 
 
 **1189** — Pact of Crun Clach forbids magi from dabbling in politics
 
-
-
-
-
 > *Salve Sodale,*
 >
 > *Many of my colleagues have questioned me about my self-imposed migration to the Loch Leglean Cribunal, insisting that no sane man, or Redcap for that matter, can long endure the horrible conditions of such a fierce and unfriendly land. After years of hearing slander against one of the most beautiful areas and some of the most courteous and graceful people. I have written this letter to you, Mihalpi, my primus, in hopes that others of our House may gain an appreciation for this most unusual of tribunals.*
@@ -1038,11 +973,6 @@ There are Scandinavian magicians in the Orkney and Shetland Islands, as well as 
 > *It is in the Highlands and on the Islands that the true spirit of the country can be seen. The men living here owe allegiance to their clan lords, who act as fathers more than great lords. While the lands are held by great nobles, tew it any ever visit these hills, and the king's law is flouted at will. The clans of the Highlands are friendly on the whole, but you must take care not to insult, as fends are a way of life to them. The clans take the name of their founder or, sometimes, an occupation. Pride in the family is a prevailing trait is a clansman, and each man can recite the deeds of the clan and the names of the ancestors of the chief. Deep in the Highlands can be found families sporting pedigrees that date back to the coming of Christianity to the land.*
 >
 > Thomas Verus of Mercere, portion of a letter to the principle of House Mercere, 1355, Age of Aries
->
-
-
-
-
 
 # Chapter 4: Scottish Landscape
 
@@ -1066,8 +996,6 @@ The town of Melrose and Melrose Abbey reside at the base of the hill. However, n
 
 Until 1188 the Eildon Hills were a single hill, with the remnants of a Pictish or British hill fort on the north side. In that year the wizard Michael Scot, having subdued a demon of great strength and power, inquired of it how it could be banished. "Set me a task that I cannot perform, and I shall leave you forever," replied the demon. One of the tasks that Michael then set the demon was to sunder Eildon hill, which the demon easily accomplished in one night. The inhabitants of the surrounding lands reported a Colossal ripping sound, as if the world were being torn asunder. The monks of Melrose Abbey prayed the whole night long, but since that night there have been three hills at Eildon.
 
-
-
 > ***Arcadia**, the realm of the faeries, is divided into six known lands:*
 >
 > - ***Sorinbrus** — the land of dreams*
@@ -1077,14 +1005,11 @@ Until 1188 the Eildon Hills were a single hill, with the remnants of a Pictish o
 > - ***Barathrum** — the land of the dead*
 > - ***Tartarus** — the land of the beyond*
 
-
-
 ### Royal Burghs
 
 The family of Canmore, especially David I, struggled to bring Scotland into the 12th century. One of the ways of civilizing the country was to establish "royal burghs," towns and cities that had special privileges granted by the crown. These privileges include the right to hold their own markets, and exemption from certain fees and taxes. In addition, the garrison of the castle (which is property of the king or of a lord appointed to the post) protects the town against raiders and brigands. The burgh has to raise its own militia to police its streets, though, as the garrison of the castle is only to protect the burgh from outside violence. To maintain their status, royal burghs pay tolls (fees) on goods sold in the market and on stalls erected there. A burgh may elect its own magistrate, the "bailie," and is largely self-governing.
 
 The kings established royal burghs in many pre-existing towns, and most royal burghs have similar plans. The High Street (sometimes two streets in parallel) runs between the church and the castle. Along the High Street can be found the main buildings of the town. Narrow alleys called "closes" cross the High Street, leaving little room between the houses. High walls surround the burgh, and it is rare to find buildings outside the walls, because of the fear of marauders. Instead, the houses and shops, made all of wood, rise vertically up to seven or eight stories. The focal points of the burgh, besides the church and the castle, are the tollbooth and the market cross. The tollbooth is a combination of administrative offices and jail. Besides the castle, the tollbooth is the most heavily fortified building in the city. Criminals are kept in the tollbooth, as are any tolls collected. Thus, the tollbooth is made the center of the town—and the center of attention of would-be thieves, and of rebels wishing to free compatriots. The market cross is the symbol of the burgh's royal status, and acts as the main marketplace for the city.
-
 
 Royal burghs have small populations: most have only 500-700 inhabitants, while Berwick and Edinburgh have about 1,500 each. Many of the inhabitants of the burghs are foreigners; some were invited by the king, others came in the retinue of the lord who owns the town, and some simply immigrated from other countries. French, Flemish, and English burghers predominate, but the occasional Spaniard, German, or even Italian can be found. Jews are practically unknown in Scotland.
 
@@ -1100,27 +1025,23 @@ Burghs are centers of trade and are generally the only places in Scotland to fin
 > Dunkeld
 > Edinburgh
 
-
-
 ### The Church in the Lowlands
 
 The Roman Church in Scotland was poorly organized before King David revived some lapsed sees and created others. Between 1140 to 1190 there were ten sees in Scotland. William the Lion divided the See of Dunkeld in 1190 to create the See of Lismore, in Argyle. As a rule, cathedrals are located in royal burghs, though a few, like Glasgow, are not. Guillame de Bruyse, the Bishop of St. Andrews, is the primate of the Church in Scotland. He answers only to the pope—a decision handed down by Celestine IN in 1196, after the archbishops of York and Canterbury quarreled over whose administration the Scottish Church came under.
 
 > #### The Sees of Scotland
 >
-> Aberdeen 
-> Brechin 
-> Caithness 
-> Dunblane 
-> Dunkeld 
-> Galloway 
-> Glasgow 
-> Lismore (part of Dunkeld until 1190) 
-> Moray 
-> Ross 
+> Aberdeen
+> Brechin
+> Caithness
+> Dunblane
+> Dunkeld
+> Galloway
+> Glasgow
+> Lismore (part of Dunkeld until 1190)
+> Moray
+> Ross
 > St. Andrews
-
-
 
 ## The Highlands
 
@@ -1162,7 +1083,6 @@ From the earliest times of the Church in Scotland, local lords or chiefs gave mi
 
 The lands of the monastery are known as the comraich (comrich, sanctuary). The comraich may be relatively small, enclosing only a few acres, or it might stretch for several miles. Carved stone crosses, or stones on which crosses have been engraved, surround the comraich. The comraich provides sanctuary for anyone who can reach it: if a fugitive can enter the comraich, the monks wil! investigate the offenses and decide what to do with him or her. This allows time to let tempers die down and ensures the fugitive a trial. The comraich is also the area protected by the Dominion of the monastery.
 
-
 #### Ownership of the Monastery
 
 Monks of the Scottish Church may marry. The monks are often of the same family as the founder of their monastery and live with their wives and families in the monastery. Leadership of the community generally passes from brother to brother, or father to son.
@@ -1187,8 +1107,6 @@ The Scottish Dominion is also kind to magi who embrace its peacefulness and calm
 
 > After the death of the founding ab of a monastery, who was the owner and administrator of the monastery's land as well as the religious leader, his functions were sometimes split. If the functions were split, the secular owner of a monastery is the *abbat* and the religious leader is the *comarb*.
 
-
-
 #### The Kelledei
 
 A second order of the Scottish Church arose because of lay abbacy. Where the religious brothers find that they cannot live under the rule of a greedy or irreligious abbat, they may abandon the monastery. They then establish themselves on land given by the king or surrounding chiefs.
@@ -1201,8 +1119,6 @@ With the increased presence of the Roman-style orders, it became a common occurr
 
 Because of the special temper of the aura of the Scottish Church and the emphasis on the Love of God, a large blind spot exists in Highland life regarding Satan and demons. Satan is seen as a figure of ridicule, or as something feared only by Lowlanders and foreigners. However, the aura only protects the monasteries and a few rare people, leaving the great majority of the Highlands open to demonic influence. The lack of such influence can only be attributed to a lack of interest on the part of the minions of Hell. With the influx of the Normans, a few demons have migrated north, finding victims among the people of the Lowland cities.
 
-
-
 ## The Islands
 
 ### The Northern Islands
@@ -1213,19 +1129,13 @@ The Islands, especially the Orkneys, have many standing stones, stone circles, a
 
 The existence ofmany brochs in Orkney and Shetland indicates that the Brochbuilders had mastered the art of sailing, but sometime in the past the Picts also invaded and settled the Islands. The Picts ruled the Islands until the end of the 8th century, when the Vikings first raided and then settled. King Harald Fairhair of Norway created the earldom of the Orkneys in the late Ninth century, and the history of the earldom is a savage and bloody one. The Odal law of Norway grants the lands of the dead farl to his surviving sons, and several civil Wars between brothers mark transitions between earls. In theory the earl of the Orkneys holds his lands in fief from the king of Norway, but in reality the earls often rule their lands with little regard for the king.
 
-
-
 > *The Picts little exceed pygmies in stature; they did marvels in the morning and the evening, in building walled towns, but at midday they entirely lost their strength and lurked, through fear, in little underground houses.*
 >
 > —Historiae Norwergiae
 >
 > Editor's Note: The description fits the race of faerie known as the *trow*, rather than the Picts. —Peter Hentges
 
-
-
 Men from the earldom serve all over Mythic Europe. From Ireland to the Byzantine Empire, Orcadian mercenaries fight for silver. The Scots and Irish call these men *galloglaichs* (gaul-o-glachs, foreign warriors). They fight armored in chain mail and helmets, and with twohanded axes. They often go bare-legged, the better to charge their enemies.
-
-
 
 > *At nine skills I challenge,*
 > *a champion at chess;*
@@ -1238,11 +1148,7 @@ Men from the earldom serve all over Mythic Europe. From Ireland to the Byzantine
 >
 > —Rognvald, Earl of Orkney
 
-
-
 The faeries of the Islands are, if anything, more solitary than their cousins on the mainland of Scotland. The Islands are home to several otherwise-unknown species, notably the trow and the stoorworm. The trow may be relatives of the Norse trolls, though it is possible that the Vikings gave the name to the native creature in memory of the trolls back home. Trow can have one or two heads and are restricted in sunlight. If daybreak finds a trow above ground, it cannot return to its underground home until nightfall. The islanders count it lucky to hear a trow speak, but unlucky to see one. A trow sometimes takes whole communities under its care, but demands grain, animals, or a spouse in return. On the whole, the islanders see the trow as wicked, perhaps more than they are in truth.
-
-
 
 ## Stoorworm
 
@@ -1260,15 +1166,17 @@ a Stoorworms prefer not to face multiple opponents, but often do not recognize s
 
 ### Stoorworm
 
-| Magic Might | Size |  |  |
-|-------------|------|--|--|
-| 42          | +6   |  |  |
-|             |      |  |  |
+
+| Magic Might | Size |   |   |
+| ------------- | ------ | --- | --- |
+| 42          | +6   |   |   |
+|             |      |   |   |
 
 #### Characteristics
 
+
 | Cun (hunter)    | -5              | Pre (terrifying)    |
-|-----------------|-----------------|---------------------|
+| ----------------- | ----------------- | --------------------- |
 | Per (keen nose) | n/a             | Com                 |
 | Str (huge)      |                 | Dex (sinuous)       |
 |                 | +6              | Qik (fast-striking) |
@@ -1276,8 +1184,9 @@ a Stoorworms prefer not to face multiple opponents, but often do not recognize s
 
 #### Combat 'Totals
 
+
 | Weapon          | Ist | Atk | Dam<br>Parry   |
-|-----------------|-----|-----|----------------|
+| ----------------- | ----- | ----- | ---------------- |
 | Bite Totals:    | +16 | +14 | +25<br>Poison* |
 | Entwine Totals: | +10 | +11 | Special **     |
 | Breath Totals:  | +20 | +10 | Special ***    |
@@ -1301,22 +1210,18 @@ OK, 0/0/0/0, -1/-1/-1, -3/-3, -6, Incapacitated
 
 12 Animal in scales, 6 Perdo in poison glands
 
-
-
 ## Trow
 
 Powers: Trow caught above ground at sunrise are unable to retreat to their home below the earth, though sunlight does not otherwise affect them.
 
 Trow may cast spontaneous Terram magic spells. Roll +15 for the spell's level if the trow expends a fatigue level; divide the roll by 2 if the trow does not exert itself.
 
-
-
-
 ### Trow
 
-| Paerie Might | Size |  |
-|--------------|------|--|
-| 21           | 32   |  |
+
+| Paerie Might | Size |   |
+| -------------- | ------ | --- |
+| 21           | 32   |   |
 
 #### Characteristics
 
@@ -1331,9 +1236,10 @@ Trow may cast spontaneous Terram magic spells. Roll +15 for the spell's level if
 
 #### Combat Totals
 
-| Weapon       |    |    |  |
-|--------------|----|----|--|
-| Club Totals: | +4 | +5 |  |
+
+| Weapon       |    |    |   |
+| -------------- | ---- | ---- | --- |
+| Club Totals: | +4 | +5 |   |
 
 Soak:+9 Dodge Defense: -2 Fatigue: +4
 
@@ -1352,8 +1258,6 @@ OK, 0/0/0, -1, -3, -6, Unconscious
 - 2 Club Attack (smash) 4Play Musical
 - 3 Club Parry (clubs) Instrument (wild tunes)
 
-
-
 ## Kunal Trow
 
 Powers: Trow caught above ground at sunrise are unable to retreat to their home below the earth, though sunlight does not otherwise affect them.
@@ -1362,13 +1266,12 @@ Kunal trow may cast spontaneous Terram spells. Roll +25 for the spell's level if
 
 The kunal trow is sometimes called the "king" trow. These creatures are the trow that most often take villages under their care, but they often demand a bride or groom in return. Kunal trow may learn the entire gamut of gruagach powers, including Speak Pictish and Potency. (See Character Generation, Chapter 6, for more infor-Mation about gruagach powers.)
 
-
-
 ### Kunal Trow
 
-| Faerie Might |  |
-|--------------|--|
-| 29           |  |
+
+| Faerie Might |   |
+| -------------- | --- |
+| 29           |   |
 
 #### Personality Traits
 
@@ -1376,17 +1279,19 @@ The kunal trow is sometimes called the "king" trow. These creatures are the trow
 
 #### Characteristics
 
-| +3 | Int (sly) |  |  |  | Pre (regal) |  |
-|----|-----------|--|--|--|-------------|--|
-|    |           |  |  |  |             |  |
+
+| +3 | Int (sly) |   |   |   | Pre (regal) |   |
+| ---- | ----------- | --- | --- | --- | ------------- | --- |
+|    |           |   |   |   |             |   |
 
 - -2 Per (bad eyesight) Com (slow speaker) +3 Str (burly) Dex
 - +4 Sta (tireless) Qik
 
 #### Combat Totals
 
+
 | Weapon       |    | Atk | Parry | Dam |
-|--------------|----|-----|-------|-----|
+| -------------- | ---- | ----- | ------- | ----- |
 | Club Totals: | +4 | +5  | +3    | +8  |
 
 Soak: +9 Dodge Defense: -2
@@ -1403,11 +1308,9 @@ OK, 0/0/0, -1/-1, -3, -6, Unconscious
 
 #### Abilities
 
-- 2 Club Attack (smash) 
+- 2 Club Attack (smash)
 - 3 Club Parry (clubs)
 - 4 Play Musical Instrument (wild tunes)
-
-
 
 ### The Western Islands
 
@@ -1441,21 +1344,15 @@ The island is vis- and faerie-rich and has two known gateways to Arcadia. There 
 
 Missionary saints of the Scottish and Irish Churches sanctified several islands off the coast of Scotland. The first island so blessed was Hii, later renamed Iona. Here saint Columba landed after his exile from Ireland, and here he founded his first church. On a hill on the west coast of the island is the Arn cul-ri Eirin (arn cool-ree erin), a cairn that marks the spot where Columba looked back and found that he could not see his homeland.
 
-
-
 > *"Small and mean though this place is, yet it shall be held in great and unusual honor, not only by Scotic kings and people, but also by the rulers of foreign and barbarous nations and by their subjects; the saints, also, of other churches, shall regard it with no common reverence."*
 >
 > —St. Columba about Iona, at his death in 597
-
-
 
 Columba lived and died on the island, and after his death in 597, the abbey remained in his family through the comarb system. The Danes raided the island several times in the late 8th century. A raiding party killed the entire population of the island in 802. Monks then came and moved the remains of Saint Columba and any remaining treasures to Ireland for safekeeping. The relics were returned in 818. In 829 Danes killed Abbot Blathmac when he refused to reveal the resting place of Columba's bones. The bones were both feared and coveted by the Viking raiders, who had heard of the Christian custom of enshrining saints' bones in jeweled reliquaries. In Columba's case, however, this was a false rumor.
 
 An important site on the island is the relig oran (relig or-an, the burial place of kings). Here lie buried most of the kings of the Scots, from Aidan to MacBeth and Gruoch. Foreign kings are buried here as well, including Norse and Irish. Saint Oran (a member of Columba's original band of twelve monks) is also buried here. In a curious ceremony, Oran volunteered to be buried alive at the consecration of the first church on the island. On the third day after the interment, Columba had his tomb opened, and he proved to be still alive. He opened his eyes and said to Columba, "Death is no wonder, nor is Hell as it is said." Columba had the tomb quickly resealed, and these words of his have passed into folklore: "Earth, earth upon the mouth of Oran, lest he talk more." No prayer addressed to Columba will be heard unless it is addressed to Oran first.
 
 The entire island has a Dominion aura of level 8 and is of the Scottish temper (see "Aura of the Scottish Church").
-
-
 
 ## Stone Monuments
 
@@ -1479,8 +1376,6 @@ Legends say that some stones are able to move about, usually uprooting themselve
 
 Stone monuments often act as collectors for vis of various sorts. The vis might be related to the type of monument, or then again, it might not. Flowers or plants inside a stone circle, water from a spring, chips from the stones themselves—the vis might take any of these forms. It might be only available during the quarter days (special days near solstices and equinoxes), or it may lie around waiting for the first person who wanders by. Not all monuments that produce vis produce usable vis: one stone is said to contain several queens of vis, but it weighs several tons and has resisted all attempts to remove it from the ground.
 
-
-
 ## Things Scottish
 
 > Magi measure vis in three general units: pawns, rooks, and queens. A pawn is equal to 1 unit of vis, a rook 10, and a queen 100.
@@ -1498,8 +1393,6 @@ Pictish is a dead language. It has elements of an even older language—not rela
 Any coins at all are a rarity in Scotland, but the Church demands that its taxes be paid in coin. Except in the case of churchmen, nobles, and foreign traders, it is rare for anyone to carry coins. The major currency for the country is animals: cattle, sheep, and goats. Raids between families and clans are part of everyday life, and the Highlanders have become adept at these activities. The Highlanders say, "A man who steals one sheep is a petty thief, while one who steals a hundred cows is a great man."
 
 David I introduced the silver Scots penny, and it is equal in value to the English penny. Gold coinage is unknown in Scotland. What Scottish coinage there is follows the English pattern: 1 pound=20 shillings=240 pennies. A particular Scottish unit of value is the merk, or mercke, which is equal to 2/3 of a pound or 13 shillings 4 pennies; there is no coin for the mercke. All merchants have iron plates, onto which they place any coins that they receive, as cold iron will destroy any faerie glamour cast on the money.
-
-
 
 ### The Calendar
 
@@ -1561,8 +1454,6 @@ The Highlanders keep chickens, and their eggs and meat are welcome additions to 
 
 Domestic pigs are not common in the Highlands, as they are looked down upon. This prejudice, dating back to the Picts, is strongest in the central and eastern regions. In the West, in Argyle and the old kingdom of Dalriada, some people keep pigs for their meat. They rarely feed them grain but instead leave them to forage in the forests for roots and acorns. Domestic pigs are scarcely distinguishable from wild boar, which also roam the forest. Hunting wild boar is an activity of the brave and foolhardy (and Norman nobility). The boar can ignore most wounds and will try to disembowel its attacker even as the boar draws its last breath.
 
-
-
 ## Garron Highland Pony
 
 The garron is the small Highlands pony. It is not normally ridden, especially not to battle, but has a great capacity to haul heavy loads over great distances and is surefooted in the hills and moors of the Highlands. Garrons are known for their patience while hauling loads and even put up with the pain of having plows attached to their tails. The garron is not kept by most families, as its upkeep is a less efficient use of land than the upkeep of other stock.
@@ -1571,7 +1462,7 @@ Powers: None
 
 Vis: None
 
-### Garron - Highland Pony 
+### Garron - Highland Pony
 
 Magic Might Size Characteristics | Pre Cun n/a Per Com n/a +3 Str (haul burdens) +2 Dex (agile) +5 Sta (persevering) Qik Personality Traits +2 Patient Loyal Combat Totals Weapon 1st Atk Parry Dam Hoof Totals: +2 +5 Dodge Defense: 0 Soak: +7 Fatique: +5 Encumbrance: 0
 
@@ -1581,13 +1472,11 @@ Bodu Levels
 
 Patique Levels
 
-**Abilities** 
+**Abilities**
 
 OK, 0, -1/-1, -3, -6, Incapacitated
 
 OK, 0/0/0, -1/-1, -3, -6, Unconscious
-
-
 
 ## Cu Greyhound
 
@@ -1600,21 +1489,21 @@ Vis: None
 ### Cu - Greyhound
 
 
+| Magic Might | Size |
+| ------------- | ------ |
+| 0           | 0    |
 
-| Magic Might         | Size |
-| ------------------- | ---- |
-| 0                   | 0    |
 
-| Characteristics |      |
-| ----------------| ---- |
-| 0   | Cun |
-| n/a | Pre |
-| +3  | Per (keen eyes)   |
-| n/a | Com |
-| +2 | Str (mighty jaws) |
-| +1 | Dex (agile) |
-| +5 | Sta (runner) |
-| +5 | Qik (swift) |
+| Characteristics |                   |
+| ----------------- | ------------------- |
+| 0               | Cun               |
+| n/a             | Pre               |
+| +3              | Per (keen eyes)   |
+| n/a             | Com               |
+| +2              | Str (mighty jaws) |
+| +1              | Dex (agile)       |
+| +5              | Sta (runner)      |
+| +5              | Qik (swift)       |
 
 #### Personality Traits
 
@@ -1624,10 +1513,11 @@ Vis: None
 
 #### Combat Totals
 
-| Weapon        | 1st  | Atk  | Parry | Dam       |
-| ------------- | ---- | ---- | ----- | --------- |
-| Bite Totals:  | +11  | +8   | -     | +9        |
-| Tackle Total: | +14  | +10  | -     | Knockdown |
+
+| Weapon        | 1st | Atk | Parry | Dam       |
+| --------------- | ----- | ----- | ------- | ----------- |
+| Bite Totals:  | +11 | +8  | -     | +9        |
+| Tackle Total: | +14 | +10 | -     | Knockdown |
 
 Dodge Defense: +9
 Soak: +5
@@ -1649,8 +1539,6 @@ OK, 0, -1, -3, -6, Unconscious
 4 Ferocity (hunting)
 5 Scan (movement)
 
-
-
 # The Good Folk
 
 Scotland is a land inhabited by many kinds of faeries, from the helpful brownies and bocans (bo-kans) to the dreaded brollachan (bro-lachun, formless) and each uisge (ech oosh-koo, water horse). Three general types of faeries exist: household, or workplace, faeries; the seelie court; and the dark faeries of the unseelie court.
@@ -1661,13 +1549,9 @@ The seelie court is the nobility of the faerie race. Seelie faeries live in know
 
 There are few courts of unseelie fey in Scotland. The dark faeries tend to be solitary, lurking in streams and pools or inhabiting ruined towers and houses. An unseelie faerie is very likely to kill a mortal who crosses its path, and some hunt humans as their prey. Water faeries usually hunt during the day, attacking lone travelers who stop to get a drink of water or wash up after a long journey. Some faeries are shapeshifters, but have some distinguishing mark in human form that identifies them, such as the sand and seaweed in the hair of the each uisge. Some faeries are masters of glamour, casting illusions over treacherous terrain or over themselves, to conceal the danger.
 
-
-
 > *"The faeries of Scotland, both on the Borders and in the Highlands, are proud, but intensely dislike the name "faerie"—or the name "elf," a common name for the fey in the Borders. The people of Scotland, in an attempt to placate their powerful, unseen neighbors, resort to many euphemisms for them. The good folk, the people of peace, the gentry, the wee folk—all these and many more are names for the fey."*
 >
 > —Thomas Verus of Mercere, Guide for travelers in Scotland, 1355, Age of Aries
-
-
 
 ## The Sluagh
 
@@ -1680,8 +1564,6 @@ As a collective entity, the sluagh has the following powers:
 Mind Suggestion (ReMe 30): The sluagh may implant suggestions in the mind of the target. These suggestions are normally to kill or destroy what the target holds most dear.
 
 Frighten (PeMe 30): The sluagh drives the target insane with sheer terror. The target must make an Intelligence roll of 14+ or be driven insane. Usually the sluagh will force the target to run without stopping for terrain features or fatigue. If the spirits of the sluagh are feeling merciful, they abandon the target before he or she dies of exhaustion. If they do, the poor person's mind will be gone (reduce Intelligence to -3). He or she will flinch at loud noises, be afraid of the dark, etc.
-
-
 
 ## Each Uisge
 
@@ -1699,18 +1581,18 @@ Sticky Skin, ReCo 25, O points: The skin of each uisge is highly adhesive, and a
 
 Vis: 2 Perdo in teeth, 5 Aquam in hide
 
-
-
 ### Each Uisge
 
+
 | Faerie Might | Size |
-| ------------ | ---- |
+| -------------- | ------ |
 | 32           |      |
 
 #### Characteristics
 
+
 | +2 | Int (crafty)    | Pre (pretty)          |
-|----|-----------------|-----------------------|
+| ---- | ----------------- | ----------------------- |
 | +1 | Per (good ears) | Com (expressive face) |
 | +3 | Str (brawny)    | DeOnx                 |
 
@@ -1720,10 +1602,11 @@ Vis: 2 Perdo in teeth, 5 Aquam in hide
 
 #### Combat Totals
 
-| Weapon       |    |    |  |
-|--------------|----|----|--|
-| Bite Totals: | +4 | +4 |  |
-| Kick Total:  | +6 | +6 |  |
+
+| Weapon       |    |    |   |
+| -------------- | ---- | ---- | --- |
+| Bite Totals: | +4 | +4 |   |
+| Kick Total:  | +6 | +6 |   |
 
 Dodge Defense: +0 Fatigue: +6 Soak: +11 Encumbrance: 0
 
@@ -1740,8 +1623,6 @@ OK, 0/0, -1/-1, -3, -6, Unconscious
 - 5 3 Athletics (swim) 2 Ferocity (eating)
   - Guile (harmless)
 
-
-
 ## Cu Sith - Faerie Dogs
 
 Many types of cu sith (koo shee) exist. This example is relatively benign, merely warning of impending death. These dogs will attempt to disappear if attacked, but if the fey command it, they can grow to enormous size and devour a horse and rider.
@@ -1752,20 +1633,20 @@ Most cu sith are a dark green color, shading to a lighter green near the feet. T
 
 Bark of Doom (special): The green dogs of the faeries are beasts of illomen in the Highlands, and if one follows you long enough to bark three times, then you will die soon thereafter. A brave man can turn at the first bark, which will drive off the dog, but he will have bad luck for a period of time (up to a week) afterwards. The dogs do not cause the death or ill-luck, but rather they merely presage things to come.
 
-Vis: 4 Intellego in throat 
-
-
+Vis: 4 Intellego in throat
 
 ### Cu Sith · Faerie Dogs
 
+
 | Faerie Might | Size |
-|--------------|------|
+| -------------- | ------ |
 | 10           | 0    |
 
 #### Characteristics
 
+
 | -1        |                              |          |                                    |
-|-----------|------------------------------|----------|------------------------------------|
+| ----------- | ------------------------------ | ---------- | ------------------------------------ |
 | +2        | Cun                          | -2       | Pre (spectral)                     |
 | +1        | Per (keen sight)             | n/a      | Com                                |
 | +1<br>+10 | Str (wiry)<br>Sta (tireless) | +5<br>+4 | Dex (silent)<br>Qik (fleet-footed) |
@@ -1776,8 +1657,9 @@ Vis: 4 Intellego in throat
 
 #### Combat Totals
 
+
 | Weapon       | 1st | Atk        | Parry     | Dam |
-|--------------|-----|------------|-----------|-----|
+| -------------- | ----- | ------------ | ----------- | ----- |
 | Bite Totals: | +10 | +11        |           | +8  |
 | Bark Total:  | S   | Special (s | see Power | s)  |
 
@@ -1793,13 +1675,10 @@ OK, 0, -1, -3, -6, Unconscious
 
 #### Abilities
 
+
 | 4 | Ferocity (if attacked) | 5 | Stealth | (following) |
-|---|------------------------|---|---------|-------------|
+| --- | ------------------------ | --- | --------- | ------------- |
 | 9 | Invisiblity (followed) |   |         |             |
-
-
-
-
 
 ## Babhan Sith - Fairy Woman
 
@@ -1819,12 +1698,11 @@ Vampirism: The babhan sith feeds upon her partners, sucking their blood and disc
 
 Vulnerability to Iron: Blows delivered with cold iron hurt the babhan sith as if the iron were red-hot, causing half-again the normal damage. Note that while the babhan sith dislikes the touch of iron, she does not take damage from mere contact with it. She does, however, prefer that her partners take off any armor and weapons before she feeds!
 
-
-
 ### Babhan Sith - Fairy Woman
 
+
 |       | Facrie Might    |   | Size               |
-|-------|-----------------|---|--------------------|
+| ------- | ----------------- | --- | -------------------- |
 | 25    |                 | 0 |                    |
 |       | Characteristics |   |                    |
 | O     | Int             |   | Pre (ugly)         |
@@ -1834,8 +1712,9 @@ Vulnerability to Iron: Blows delivered with cold iron hurt the babhan sith as if
 |       | Faerie Powers   |   |                    |
 | Claws |                 |   | Infatuation        |
 
+
 | Claws            | Infatuation           |
-|------------------|-----------------------|
+| ------------------ | ----------------------- |
 | Enchanting Music | Vampirism             |
 | Glamour          | Vulnerability to iron |
 |                  |                       |
@@ -1846,8 +1725,9 @@ Vulnerability to Iron: Blows delivered with cold iron hurt the babhan sith as if
 
 #### Combat Totals
 
+
 | Weapon       | Ist | Atk | Parry | Dam        |
-|--------------|-----|-----|-------|------------|
+| -------------- | ----- | ----- | ------- | ------------ |
 | Bite Totals: | +11 | +12 | -     | +5 + drain |
 | Claw Total:  | +6  | -7  | -     | +10        |
 |              |     |     |       |            |
@@ -1868,11 +1748,10 @@ OK, O, 0, 0, -5, Unconscious
 
 #### Abilities
 
+
 | 6 | Athletics (dance) | 5 | Dodge (restricted spaces)    |
-|---|-------------------|---|------------------------------|
+| --- | ------------------- | --- | ------------------------------ |
 | 5 | Brawl (claws)     | 5 | Enchanting Music (seductive) |
-
-
 
 ## Brollachan
 
@@ -1886,18 +1765,18 @@ No fatigue: The brollachan does not suffer from fatigue.
 
 Vis: 2 Muto in body
 
-
-
 ### Brollachan
 
+
 | Paerie Might | Si |
-|--------------|----|
+| -------------- | ---- |
 | 24           | +4 |
 
 #### Characteristics
 
+
 | _  | Cun (hunter)     | n/a | Pre            |
-|----|------------------|-----|----------------|
+| ---- | ------------------ | ----- | ---------------- |
 |    | Per              | n/a | Com            |
 | +5 | Str (enveloping) | -4  | Dex (boneless) |
 | +5 | Sta (amebic)     | -3  | Qik (sloshing) |
@@ -1908,8 +1787,9 @@ Vis: 2 Muto in body
 
 #### Combat Totals
 
+
 | Weapon          | 1st | Atk | Parry | Dam   |
-|-----------------|-----|-----|-------|-------|
+| ----------------- | ----- | ----- | ------- | ------- |
 | Strike Totals:  | +4  | +6  | -     | +2    |
 | Grapple Totals: | n/a | +6  | -     | -     |
 | Smother Totals: | n/a | n/a | -     | +10 * |
@@ -1930,10 +1810,6 @@ n/a
 
 4 Stealth (hide)
 
-
-
-
-
 > *There are many covenants in the tribunal: the current number stands at this teen, though there have been as many as twenty or as few as seven at any time. These covenants tend to be small, and rarely does one mature from its Spring to Summer, and even more rarely to Autumn. At this time there are two covenants in the prime of their lives: Crun Clach and Clan Mac Schuagach. A third covenant, Horsingas, bids fair to join these two.*
 >
 > *Besides those magi living in the formal covenants, there are over a score of magi living scartered throughout the country in solitude. I fer to keep an accurate count of the independent magi, or apparaman, by trading information with those who saw them last, but sometimes many years go by before I hear of the more reclusive magi.*
@@ -1942,22 +1818,15 @@ n/a
 >
 > *One last thing that I must mention: please inform any followers of our House that the term "Redcap" and our distinctive headgear should not be used north of Hadrian's Utall. A solitary type of dark faerie lives here that goes by the name of redcap. Members of this species live in cliffs and abandoned towers and drop stones on the heads of those who pass beneath. After mully running down, the redcap dips his hat in the blood of the unfortunate traveler. Due to the reputation of these fey, the local populace is likely to attack anyone referring to him or herself as a Redcap! As an additional note the color red is fealously held by the fey as their particular color, and they have been known to pester and bother those wearing it.*
 >
-> *I remain, as always, your servant,* 
+> *I remain, as always, your servant,*
 >
 > *Thomas Verus of Mercere, 1355, Age of Aries*
 
-
-
-
 # Chapter 5: Covenants
-
-
 
 The covenants of the Loch Leglean Tribunal reflect the cultural mix of Scotland. In the South are covenants of the more "traditional" or "continental" pattern, while in the North covenants are sometimes clans of Highlanders. In this chapter we look carefully at three covenants, the political leaders of the tribunal. Player character covenants may fall under the political wing of one of the three "main" covenants, or they may attempt to form a fourth party. The characters can even strike off on their own, with no obligations—and no protectors.
 
 There are many other covenants in Loch Leglean as well, but they tend to be small and short-lived. These covenants are for you to develop as you see fit.
-
-
 
 ## Covenant of Horsingas
 
@@ -2045,16 +1914,15 @@ Trap the Treacherous Tongue (Rego Cérporem 15) Spell Focus: A muzzle (+2) R: Ne
 
 The target's mouth is held shut with a strength equal to the caster's Strength +1, so that no sound other than a whimper may escape his or her lips. A concerted effort (opposed Strength rolls) allows the target to open his or her mouth enough to take food or drink of water. One other person may add his or her Strength score to the target's to try to physically pry open his or her mouth.
 
-
-
 ### Edwin of Hexham, House Tytalus
 
 Age: 35 Size: 0
 
 #### Characteristics
 
+
 | +2 | Int (crafty) | -1 | Pre (scarred face)    |
-|----|--------------|----|-----------------------|
+| ---- | -------------- | ---- | ----------------------- |
 |    |              | +2 | Com (lifting spirits) |
 | _  | 0. 4.6.      | _  | The second second     |
 
@@ -2082,13 +1950,14 @@ Affinity with Córporem (Perdo Córporem) 4, Alertness (with helmet) 1, Concentr
 
 #### Spellcasting Information
 
-|      |      |      |      |      |      | Specification Enformation                                  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---------------------------------------------------------- |
-| 3    | Cr   | 2    | An   | 0    | Ig   | Spellcasting Speed: +1 (-3 in armor)                       |
-| 0    | In   | 2    | Aq   | 0    | Im   | Twilight Points: 8                                         |
-| 0    | Mu   | 0    | Au   | 5    | Me   | Effects of Twilight: None                                  |
-| 9    | Pe   | 9    | Co   | 0    | Te   | Wizard's Sigil: Colored strands of light pass from his     |
-| 8    | Re   | 0    | He   | 1    | Vi   | fingers to the target. The color depends on the arts used. |
+
+|   |    |   |    |   |    | Specification Enformation                                  |
+| --- | ---- | --- | ---- | --- | ---- | ------------------------------------------------------------ |
+| 3 | Cr | 2 | An | 0 | Ig | Spellcasting Speed: +1 (-3 in armor)                       |
+| 0 | In | 2 | Aq | 0 | Im | Twilight Points: 8                                         |
+| 0 | Mu | 0 | Au | 5 | Me | Effects of Twilight: None                                  |
+| 9 | Pe | 9 | Co | 0 | Te | Wizard's Sigil: Colored strands of light pass from his     |
+| 8 | Re | 0 | He | 1 | Vi | fingers to the target. The color depends on the arts used. |
 
 #### Spells Known
 
@@ -2096,21 +1965,18 @@ Rally the Defeated Troops (ReMe 20) +14. Sharp Shriek of Pain (PeCo 20) +23. Sur
 
 #### Combat Information
 
-|      |                |              |        |        |       |                            |
-| ---- | -------------- | ------------ | ------ | ------ | ----- | -------------------------- |
-| ı    | Weapon         | First Strike | Attack | Damage | Parry | Dodge Defense: +1/-2       |
-| ı    | Lance Totals:  | +8           | +5     | +13    | -5    | Soak: 0/+7                 |
-|      | Mace Totals:   | +2           | +6     | +9     | -5    | Fatigue: 0/-3              |
-|      | Shield Totals: | -3           | -2     | -1     | +7    | Encumbrance: 0/-3 in Armor |
-|      |                |              |        |        |       |                            |
+
+|    |                |              |        |        |       |                            |
+| ---- | ---------------- | -------------- | -------- | -------- | ------- | ---------------------------- |
+| ı | Weapon         | First Strike | Attack | Damage | Parry | Dodge Defense: +1/-2       |
+| ı | Lance Totals:  | +8           | +5     | +13    | -5    | Soak: 0/+7                 |
+|    | Mace Totals:   | +2           | +6     | +9     | -5    | Fatigue: 0/-3              |
+|    | Shield Totals: | -3           | -2     | -1     | +7    | Encumbrance: 0/-3 in Armor |
+|    |                |              |        |        |       |                            |
 
 #### Weapons, Armor, and Items
 
 Helmet, knight shield, lance, ring hauberk, sword, broad sword enchanted with Edge of the Razor (MuTe 5)
-
-
-
-
 
 ### Heard Healu - Edwin's Magical Horse Companion
 
@@ -2118,11 +1984,12 @@ Magical Might Size +2
 
 #### Characteristics
 
-| -4 | Cun (stubborn) | +2  | Pre (demonic) |  |
-|----|----------------|-----|---------------|--|
-| -1 | Per (stolid)   | n/a | Com           |  |
-| -5 | Str (muscular) | -4  | Dex (large)   |  |
-| +4 | Sta (enduring) | -4  | Qik (heavy)   |  |
+
+| -4 | Cun (stubborn) | +2  | Pre (demonic) |   |
+| ---- | ---------------- | ----- | --------------- | --- |
+| -1 | Per (stolid)   | n/a | Com           |   |
+| -5 | Str (muscular) | -4  | Dex (large)   |   |
+| +4 | Sta (enduring) | -4  | Qik (heavy)   |   |
 
 #### Virtues and IFlaws
 
@@ -2134,14 +2001,16 @@ Fiercer than Edwin (covenant, English soldiers) +4
 
 #### Personality Traits
 
+
 | -5 | Angry | +3 | Stubborn |
-|----|-------|----|----------|
+| ---- | ------- | ---- | ---------- |
 |    |       |    |          |
 
 #### Combat Totals
 
+
 | Weapon       | Ist | Atk | Parry | Dam |
-|--------------|-----|-----|-------|-----|
+| -------------- | ----- | ----- | ------- | ----- |
 | Kick Totals: | +4  | +9  | -     | +15 |
 | Bite Totals: | +3  | +4  | -     | +10 |
 
@@ -2163,16 +2032,11 @@ Ferocity (ridden in battle) 4, Track (men) 2
 
 Two pawns of Animal vis in teeth.
 
-
-
 > #### Ferocity
 >
->  'An animals "Ferocity" describes the circumstances during which the animal is especially ferocious (given in parentheses) and the degreeof its ferocity (from 1 to 10). Add this number to the creature's attack rolls when it's in the indicated circumstances.
+> 'An animals "Ferocity" describes the circumstances during which the animal is especially ferocious (given in parentheses) and the degreeof its ferocity (from 1 to 10). Add this number to the creature's attack rolls when it's in the indicated circumstances.
 >
 > For example, Heard Healu has "Ferocity (ridden in battle) 4". When ridden in battle it gets +4 on all attack rolls.
->
-
-
 
 #### Whitburh Frithowebba, Quaesitor
 
@@ -2214,14 +2078,13 @@ The Unhearing Ear (Perdo Córporem 20) Spell Focus: A bit of wax (+2) R: Near/Si
 
 The target's ears slowly fill with congealed wax (which replenishes if removed). The target feels no pain or other sensations, but goes deaf in the space of a half-minute and continues so until the spell ends or is dispelled.
 
-
-
 ### Whitburh Frithowebba, House Quaesitor
 
 Age: 64 Size: 0
 
+
 |     | Characteristics    |     |                 | Flaws<br>Virtues &                                |
-|-----|--------------------|-----|-----------------|---------------------------------------------------|
+| ----- | -------------------- | ----- | ----------------- | --------------------------------------------------- |
 | "+3 | Int<br>(intuitive) | O0  | Pre             | Aptitude (+1 with serfs) +2, Exceptional Talent   |
 | +1  | Per (detection)    | -2. | Com (curt)      | (Magical Sensitivity) +1, Knack (+4 with investi- |
 | -2  | Str (weak hands)   | -1  | Dex (stumbling) | gation) +2, Piercing Gaze +2, Quaesitor +1,       |
@@ -2240,8 +2103,9 @@ Hates Normans +2, Loyal to Horsingas +3
 
 Alertness (movement) 3, Area Knowledge—Borders (people) 3, Area Knowledge—Scotland (covenants) 2, Church Lore (local clergy) 3, Concentration (shared senses) 1, Dodge (spears) 4, Evaluate Horses (stamina) 2, Finesse (Intéllego) 2, Folk Ken (Borders) 3, Hermes Lore (British Isles) 4, Hermetic History (British Isles) 3, Hermetic Law (loopholes) 6, Magical Sensitivity 3, Magic Theory (Intéllego) 6, Norman (English) Law (jurisdiction) 2, Parma Magica (Ignem) 4, Ride (chase) 3, Scottish Law (foreigners) 3, Scribe Latin (analysis) 6, Search (writing) 2, Shield Parry (swords) 1, Speak Norman French (questions) 3, Speak Saxon (questions) 4, Sword Attack (retreating) 1
 
+
 | 7  | Cr | 14 | An |   | Spellcasting Speed: +4 |
-|----|----|----|----|---|------------------------|
+| ---- | ---- | ---- | ---- | --- | ------------------------ |
 | 25 | In | 6  | Aq |   | Twilight Points: 5     |
 |    |    |    |    |   |                        |
 |    |    |    |    |   |                        |
@@ -2250,8 +2114,9 @@ Alertness (movement) 3, Area Knowledge—Borders (people) 3, Area Knowledge—Sc
 
 #### Techniques and Forms . Spellcasting Information
 
+
 | 7  | Cr | 14 | An |   | Spellcasting Speed: +4                                  |
-|----|----|----|----|---|---------------------------------------------------------|
+| ---- | ---- | ---- | ---- | --- | --------------------------------------------------------- |
 | 25 | In | 6  | Aq |   | Twilight Points: 5                                      |
 | 6  | Mu | 7  | Au | : | Effects of Twilight: Minor deficiency in Herbam         |
 | 20 | Pe | 10 | Co |   | Wizard's Sigil: All persons in a three-foot radius feel |
@@ -2263,11 +2128,12 @@ Awaken the Leafy Warders (InHe 35) +36, Scrying Pond (InAq 35) +32, Summoning th
 
 #### Combat Information
 
-| Weapon         | First Strike | —— Attack | Damage | Parry  | Dodge: +6      |      |
-| -------------- | ------------ | --------- | ------ | ------ | -------------- | ---- |
-| Sword Totals;  | +5           | +4        | +6     | O (6)  | Soak: +9       |      |
-| Shield Totals: | 0            | 0.        | -7     | +3 (9) | Fatigue: +1    |      |
-|                |              |           |        |        | Encumbrance: 0 |      |
+
+| Weapon         | First Strike | —— Attack | Damage | Parry  | Dodge: +6      |   |
+| ---------------- | -------------- | ------------- | -------- | -------- | ---------------- | --- |
+| Sword Totals;  | +5           | +4          | +6     | O (6)  | Soak: +9       |   |
+| Shield Totals: | 0            | 0.          | -7     | +3 (9) | Fatigue: +1    |   |
+|                |              |             |        |        | Encumbrance: 0 |   |
 
 #### Weapons, Armor, and Items -
 
@@ -2275,14 +2141,15 @@ Robes enchanted with Strengthen the Shielding Sark (MuHe 20) to Protection 8, ro
 
 ### Racdbora - Whitburh's Raven Familiar
 
-|      | Magical Might   | Size |                 |      |
-| ---- | --------------- | ---- | --------------- | ---- |
-| 3    |                 | -3   |                 |      |
-|      | Characteristics |      |                 |      |
-| -2   | Cun (clever)    |      | Pre (obnoxious) |      |
-| +2   | Per (quick eye) |      | Com (squawks)   |      |
-| -3   | Str (small)     |      | Dex (acrobatic) |      |
-| +1   | Sta (tireless)  |      | Qik (impulsive) |      |
+
+|    | Magical Might   | Size |                 |   |
+| ---- | ----------------- | ------ | ----------------- | --- |
+| 3  |                 | -3   |                 |   |
+|    | Characteristics |      |                 |   |
+| -2 | Cun (clever)    |      | Pre (obnoxious) |   |
+| +2 | Per (quick eye) |      | Com (squawks)   |   |
+| -3 | Str (small)     |      | Dex (acrobatic) |   |
+| +1 | Sta (tireless)  |      | Qik (impulsive) |   |
 
 #### Virtues and Flaws
 
@@ -2294,8 +2161,9 @@ None
 
 #### Personality Traits
 
-| +4   | Mocking | +2   | Orderly |
-| ---- | ------- | ---- | ------- |
+
+| +4 | Mocking | +2 | Orderly |
+| ---- | --------- | ---- | --------- |
 
 #### Confidence
 
@@ -2303,9 +2171,10 @@ None
 
 #### Combat Totals
 
-| Weapon        | lst  | Atk  | Parry | Dam  |
-| ------------- | ---- | ---- | ----- | ---- |
-| Swoop Totals: | 48   | +6   | -     | +1   |
+
+| Weapon        | lst | Atk | Parry | Dam |
+| --------------- | ----- | ----- | ------- | ----- |
+| Swoop Totals: | 48  | +6  | -     | +1  |
 
 Soak:0 Dodge Defense: +10
 
@@ -2334,10 +2203,6 @@ Independence (Raedbora acts in her own best interests in most circumstances), Sh
 #### Vis
 
 Two pawns of Auram vis in feathers
-
-
-
-
 
 #### Giuseppe Del Mato, House Flambeau
 
@@ -2372,8 +2237,6 @@ An old man who has not joined in a raid for a long time, Aelfred was at one time
 Aelfred was apprenticed at Horsingas back when it actually looked like a Saxon pretender to the English throne had a chance.
 
 Over the years Aelfred has seen many causes come and go; the current goal to rid Scotland of the English is just one more in a long line of hopeless causes. He is saddened that not one of the noble goals he had as a youth ever came to fruition. Instead, the covenant is no better than a band of common brigands and murderers. They are outlaws in their home. land of England, reduced to raiding monasteries and caravans for supplies.
-
-
 
 #### Covenfolk
 
@@ -2414,8 +2277,6 @@ The complaints against the magi of Horsingas have finally made an impression on 
 The actions and even the nationalities of the quaesitor team may have a big impact on the investigation. Norman characters are made to feel distinctly unwelcome. Sir Edwin or Sir Jehan may challenge other knights among the characters to a joust, a l'outrance (to the death). Characters displaying anti-Norman sentiments may find themselves approached by the covenant, which is looking for allies. While not likely, it is possible that the covenant may decide that the quaesitoris are better off dead, and ambush them in the hills of the border.
 
 How will the characters deal with the problem of not just a rogue covenant, but a possibly rogue tribunal? There are magi in England eager to try the mettle of the Scots, and English nobles hungry for lands in the North. But whatif the Scots ally with the Order of Odin? Can the characters gather enough allies to face the Norsemen as well as the Scots? Will the Hibernian Tribunal stand by while the Order of Hermes lays waste to another Gaelic tribunal? Is the storyguide ready for another Schism War, or will the covenant back down at the threat of Wizards' War?
-
-
 
 ## The Covenant of Crun Clach
 
@@ -2459,19 +2320,13 @@ The second level of the regio can be entered by any of the sith. They appear to 
 
 The last level of the regio has a strength 6 Faerie aura and a strength 4 Magic aura. It is restricted to the magi, and here can be found their labs and living quarters. This level of the covenant is constructed of an intelligent, living stone that is named Am Balla (am ba-la, The Wall).
 
-
-
 > #### Am Balla
 >
 > Am Balla actually exists in the lower levels, but normally does not manifest there. There is no door to the top level of the regio; rather, you ask Am Balla if it would please make an opening so you can enter your lab. The rooms themselves have no fixed position: any room can be reached from any area, if you are polite. Am Balla can speak and will ask a magus permission to open a door into his or her area if someone else asks to enter it. If you annoy Am Balla, you can find yourself locked out of your apartments or be forced to take long detours to reach your lab. On the other hand, those that Balla likes can ask to have their rooms taken to the surface of the hill or even to another level of regio in the hill. The rooms are always part of Am Balla, however, and always have the strength 6 faerie aura. Explosions are not a way to make friends with Am Balla, nor are most Terram magics! Am Balla has a fondness for Volya, Radislov's familiar. He allows Volya to roam through any level he wants (Caitlin does not know this).
 
-
-
 > #### Regio
 >
 > A regio is an area where supernatural power of one of the four realms (magic, faerie, divine, infernal) allows access to multiple places that seem to occupy the same space and share some features. Regio are quite common in areas with faerie auras and give rise to stories of things like hermits' huts in deep woods that hold grand palaces, or stone monuments that allow people to disappear on certain nights.
-
-
 
 ### Origins of the Covenant
 
@@ -2501,8 +2356,6 @@ Caitlin is a half-faerie, half-human maga of unequaled power in Scotland, if not
 
 Caitlin's two great companions in life are her daughter, Aine, and her faerie dog, Gliocas (glicus, wisdom). Aine is her daughter by Oenghus; nine years old and a flirt, she has started Hermetic training under Alexander. Gliocas has been with Caitlin for two hundred years, but he is getting a little slower lately. Caitlin fears that he does not have too much more time in this world and is preparing for the shock oflosing him when he finally passes away.
 
-
-
 ### Caitlin Suil Uaine, House Merinita
 
 Age: 327 Size: 0
@@ -2529,7 +2382,7 @@ Not to be trifled with (Loch Leglean Tribunal) +5
 
 Acting (old) 3, Alertness (sounds) 3, Animal Handling (horses) 4, Animal Ken (dogs) 1, Area Knowledge—Argyle (faeries) 8, Area Knowledge—Britain (faeries) 3, Area Knowledge—Ireland (faeries) 3, Area Knowledge—Scotland (faeries) 5, Athletics (dance) 3, Bargain (tribunal politics) 6, Certamen (illusions) 4, Charisma (magi) 5, Charm (nobility) 2, Church Knowledge (Scottish Church) 1, Church Lore (Scottish saints) 3, Concentration (long periods) 7, Craft Calligraphy (interlaced animals) 5, Craft Cloth (patterns) 3, Craft Stone (bas-relief) 7, Craft Wood (chains) 3, Diplomacy (faeries) 5, Disguise (age) 3, Dodge (rocky ground) 6, Drinking (strong liquor) 2, Etiquette (faeries) 3, Evaluate (vis) 4, Faerie Lore (faerie lineage) 4, Faerie Magic 7 (illusions), Fantastic Beast Lore (faerie animals) 3, Finesse (illusions) 7, Folk Ken (nobility) 5, Forgery (Artwork) 3, Guile (faeries) 5, Hermes History (Scotland) 2, Hermes Lore (Scotland) 2, Humanities (arts) 2, Intimidation (Mortals) 5, Intrigue (tribunal) 5, Leadership (covenant) 7, Legend Lore (Scotland) 5, Legerdemain (stage tricks) 4, Magic Theory (faerie) 8, Parma Magica (Terram) 6, Penetration (Mentem) 6, Pick Locks (in darkness) 1, Play Harp (improvisation) 4, Play Shinty (stealing) 3, Pretend (anger) 4, Ride (darkness) 6, Scan (seacoast) 3, Scribe Latin (calligraphy) 1, Scribe Ogham (names) 1, Search (wilderness) 4, Sing (ballads) 4, Speak English (magic) 3, Speak Gaelic (rapidly) 5, Speak Latin (basic) 5, Speak Norse (lineage) 4, Speak Saxon (threats) 4,Stealth (wilderness) 3, Storytelling (sound effects) 3, Subterfuge (bluff) 4, Survival (seacoast) 6, Swim (ocean) 5, Track (faerie horses) 4
 
-#### Techniques and Forms Spellcasting Information 
+#### Techniques and Forms Spellcasting Information
 
 34 Cr 33 An 31 Ig Spellcasting Speed: +9
 
@@ -2545,11 +2398,12 @@ Most spells to level 60-70, all faerie spells known to House Merinita
 
 #### Combat Information
 
-| Weapon        | First Strike | Attack | —Damage | Parry   | Dodge: +8      |
-|---------------|--------------|--------|---------|---------|----------------|
-| Caman Totals: | +9           | +7     | +5      | +8 (14) | Soak: +15      |
-|               |              |        |         |         | Fatigue: O     |
-|               |              |        |         |         | Encumbrance: Ó |
+
+| Weapon        | First Strike | Attack | —Damage | Parry   | Dodge: +8       |
+| --------------- | -------------- | -------- | ---------- | --------- | ----------------- |
+| Caman Totals: | +9           | +7     | +5       | +8 (14) | Soak: +15       |
+|               |              |        |          |         | Fatigue: O      |
+|               |              |        |          |         | Encumbrance: Ó |
 
 #### Weapons, Armor, and Items
 
@@ -2577,11 +2431,9 @@ Speak with Animals: Caitlin may speak with all forms of animals, except for rept
 
 Very Tough: +7 to Soak
 
-
-
 ### Gliocas - Caitlin's Qu Sith Companion
 
-Faerie Might 10 
+Faerie Might 10
 Size 0
 
 Characteristics
@@ -2610,8 +2462,6 @@ Independence (Raedbora acts in her own best interests In most circumstances), Sh
 
 Three pawns of Imágonem vis in hide
 
-
-
 #### Alexander the Lame, House Merinita
 
 Alexander was known as "the lame" from his earliest childhood, as he was born with a twisted leg. Even though it has long since been healed, he is still known by this reference to his old ailment. Alexander has an obsession with his body, casting spells such as Disguise of the New Visage and Aura of the Ennobled Presence in an effort to retard aging. His age is seventy-six, but by his body and face he looks to be no more than a vigorous thirty. He researches constantly in hopes of finding magics related to retarding or even reversing aging. Alexander was unable to learn the basics of faerie magic, much to his chagrin. As a result, he strives to create Hermetic spells that mimic the abilities of faerie magic, especially healing and fatigue-removing spells.
@@ -2628,14 +2478,13 @@ lain has been left scarred for life by one unfortunate encounter. He threatened 
 
 Iain manages day-to-day concerns, as Caitlin does not trust a "mere mundane" to adequately control the basics of life for the covenant. Iain has studied some Latin treatises on agriculture and is trying to improve the yield of both crops and animals. lain feels proprietary about the flocks and herds of the covenant and takes it as a personal insult when one of the Prince's monsters is born (see below). Triath nan Leathad (treeu nan lyaiud, Lord of the Hillside) is Iain's billy goat familjar. He takes as much pride in the goat herd as Iain does, especially as many of the goats in it are descended from him. Triath is a lusty member of his species, and the mystical bond between him and Jain has made lain able to perform the same amorous functions, even at his advanced age. He may be unable to father any children due to his longevity potion, but that does not diminish his appetite!
 
-
-
 > **Iain's Curse**
 >
 > The faerie prince cursed Iain such that for every spell Iain casts that includes faerie magic, he will partially transform into a pig. Every time Iain casts a faerie-based spell, roll on the table, loving chart once for each 5 levels in the spell. Re-roll any duplicates. If Iain ever cast a level 50 faerie spell, he would automatically become a pig.
 >
+>
 > | Roll | Result              | Magical Effect |
-> | :--- | :------------------ | :------------- |
+> | :----- | :-------------------- | :--------------- |
 > | 1    | Head Mu             | Co 20          |
 > | 2    | Right Arm           | MuCo 20        |
 > | 3    | Left Arm            | MuCo 20        |
@@ -2648,8 +2497,6 @@ Iain manages day-to-day concerns, as Caitlin does not trust a "mere mundane" to 
 > | 10   | *Mind of the Beast* | MuMe 30        |
 >
 > The effects of the spell wear off over time; roll once per night to see what transformation is reversed. It would take a Muto Corporem spell of level 50 to restore Iain to human once again, or a dark faerie can reverse the curse if suitable recompense can be found.
-
-
 
 #### Radislav am Polanach, House Criamon
 
@@ -2683,8 +2530,9 @@ Age: 234 Size: 0
 
 #### Characteristics Virtues & Flaws
 
+
 | O  | Int              | Pre (arrogant) |
-|----|------------------|----------------|
+| ---- | ------------------ | ---------------- |
 | +4 | Per (eagle-eyed) | Com (spiteful) |
 | O  | Str              | Dex (graceful) |
 
@@ -2720,23 +2568,20 @@ Faerie Flight: The count may fly for 3 miles before having to touch the ground a
 
 #### Combat Information
 
+
 | Weapon        | First Strike | Attack | — Damage | Parry | Dodge: +8      |
-|---------------|--------------|--------|----------|-------|----------------|
-| Caman Totals: | +15          | +11    | +9       | +11   | Soak: +2       |
-|               |              |        |          |       | Fatigue: +1    |
-|               |              |        |          |       | Encumbrance: O |
+| --------------- | -------------- | -------- | ----------- | ------- | ---------------- |
+| Caman Totals: | +15          | +11    | +9        | +11   | Soak: +2       |
+|               |              |        |           |       | Fatigue: +1    |
+|               |              |        |           |       | Encumbrance: O |
 
 #### Weapons, Armor, and Items
 
 Enchanted caman, leather jerkin
 
-
-
 #### Oenghus Dubh
 
 A distinct contrast to Gwyridden, Oenghus is warm and friendly, often partying to all hours of the night with the other members of the court. Oenghus is the only mortal who lives in the second regio of the hill, but this bothers him not at all. He is popular with both the sith and the mortals of the covenant. While Gwyridden practices and never seems to improve, Oenghus never practices, yet he is still a better player than the count, which is galling to the proud sith. Oenghus played in the last game against the Prince, where he proved his championship mettle. He looks forward eagerly to the rematch, which he hopes will be soon, as he is not getting any younger. Caitlin has promised to create a longevity potion for him; but in any event the effects of the hill have retarded his aging, and he still has many years left—a fact of which he is not aware.
-
-
 
 ### Oenghus Dubh, Mortal Shinty Champion
 
@@ -2768,15 +2613,14 @@ Alertness (shinty ball) 3, Area Lore—Crun Clach (shinty field) 4, Athletics (r
 
 #### Combat Information
 
-| Parry<br>First Strike<br>Attack<br>Weapon<br>— Damage<br>Caman Totals:<br>+18<br>+15<br>+9<br>+12 | Dodge: +5<br>Soak: +0<br>Fatigue: -1<br>Encumbrance: 0 |
-|---------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-|---------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+
+| Parry<br>First Strike<br>Attack<br>Weapon<br>— Damage<br>Caman Totals:<br>+18<br>+15<br>+9<br>+12  | Dodge: +5<br>Soak: +0<br>Fatigue: -1<br>Encumbrance: 0   |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 
 #### Weapons, Armor, and Items
 
 Caman, wool jerkin
-
-
 
 ### Covenfolk and Freiceadanan
 
@@ -2796,21 +2640,19 @@ In truth, the only serious threat to the covenant is the Prince, who challenges 
 
 A typical monster created by the Prince of the Grey Jerkin to harass Crun Clach, an caora dubh was born normally put then killed and ate its mother and ran away into the hills surrounding the covenant. Here, an caora dubh hid and grew, until it attained full growth (as shown above). While it can and does kill and eat any animal, its favorite prey is man. Its preferred method of hunting is to sneak up on unsuspecting herdsmen and push them over a cliffs edge, then descend to eat the body, all except the heart. Like many faeries, an caora dubh takes two times damage from objects made of rowan and must flee from the sound of bells. Because of this, the flocks of Crun Clach wear silver bells, and the people of the covenant carry rowan staves and hooks when out herding in the hills.
 
-
-
-
-
 ### An Caora Dubh- The Black Ram
 
+
 | Faerie Might | Size |
-|--------------|------|
-| 24           | Ü    |
+| -------------- | ------ |
+| 24           | Ü   |
 
 #### Characteristics
 
+
 | -à | Cun (hurttul)<br>n/a          | Pre |
-|----|-------------------------------|-----|
-| +3 | Per (keen sense of smell) n/a | Com |
+| ----- | ------------------------------- | ----- |
+| +3  | Per (keen sense of smell) n/a | Com |
 
 +2 Str (supernatural) +1 Dex (sure-footed)
 
@@ -2822,13 +2664,15 @@ susceptible to Bells, Susceptible to Rowan
 
 #### Personality Traits
 
+
 | -3 | Bloodthirsty | +5 | Cautious |
-|----|--------------|----|----------|
+| ---- | -------------- | ---- | ---------- |
 
 #### Combat Totals
 
+
 | Weapon       | ist | Atk | Parry | Dam |
-|--------------|-----|-----|-------|-----|
+| -------------- | ----- | ----- | ------- | ----- |
 | Horn Totals: | +6  | +9  | -     | +11 |
 | Bite Totals: | +3  | +7  | -     | +8  |
 
@@ -2856,8 +2700,6 @@ Fleece is Protection 4, Invisibility
 
 Four pawns of Perdo vis in horns; five pawns of Animal vis in fleece
 
-
-
 ### Resources
 
 The covenant's main resources are the dozen faerie horses and the faerie servants that were won along with the hill. The covenant raises sheep and goats nourished by the grass growing on the outside of the hill, which results in some extra-ordinary animals. The Prince of the Grey Jerkin sometimes causes a monster to be born to the covenant's flocks, which then does the
@@ -2866,27 +2708,26 @@ the covenant. When the occurrences of monsters increase, Caitlin knows that the 
 
 Much of what the covenant needs can be produced or traded for locally, though glassware is rare. However, Am Balla will gladly make containers for potions, as long as the potions do not stain or corrode the rock. The faerie inhabitants of the hill feed on strange and varied foods, for which they trade with other faerie communities.
 
-With its stocks of vis, the covenant can usually trade for any mundane item needed, either with other covenants or by creating trade goods. The mundane animals raised on the sides of the hill are often driven to the fairs of the Lowlands, where they are traded for mortal goods. Magical animals are traded to other covenants or to the faeries. 
-
-
+With its stocks of vis, the covenant can usually trade for any mundane item needed, either with other covenants or by creating trade goods. The mundane animals raised on the sides of the hill are often driven to the fairs of the Lowlands, where they are traded for mortal goods. Magical animals are traded to other covenants or to the faeries.
 
 ## Each Sith (eck shee) - Faerie Horse
 
-The faerie horses are bred for the use of high faeries of the seelie court. The beasts are magnificent specimens, with regal bearing and spotless coats, and they standa bit larger than mortal horses. Faerie horses can walk or run over water as if it were land and at twice the speed of normal horses. When being ridden in a rade, they have bells entwined in their manes and tails as a protection against unseelie fairies. The only place a mortal is likely to see each sith is at the covenant of Crun Clach, where Caitlin Suil Uaine keeps a  stable of about a dozen of the creatures.  
+The faerie horses are bred for the use of high faeries of the seelie court. The beasts are magnificent specimens, with regal bearing and spotless coats, and they standa bit larger than mortal horses. Faerie horses can walk or run over water as if it were land and at twice the speed of normal horses. When being ridden in a rade, they have bells entwined in their manes and tails as a protection against unseelie fairies. The only place a mortal is likely to see each sith is at the covenant of Crun Clach, where Caitlin Suil Uaine keeps a  stable of about a dozen of the creatures.
 
 ### Each Sith (eck shee) - Faerie Horse
 
-**Faerie Might:** 12  
+**Faerie Might:** 12
 **Size:** +2
 
 #### Characteristics
 
-| Characteristic | Score | Characteristic | Score |
-|----------------|-------|----------------|-------|
-| Cun | +3 | Pre (perfect lines) | - |
-| Per (nervous) | +1 | Com | n/a |
-| Str (powerful legs) | +3 | Dex (graceful) | +2 |
-| Sta (long-winded) | +7 | Qik (fleet) | +3 |
+
+| Characteristic      | Score | Characteristic      | Score |
+| --------------------- | ------- | --------------------- | ------- |
+| Cun                 | +3    | Pre (perfect lines) | -     |
+| Per (nervous)       | +1    | Com                 | n/a   |
+| Str (powerful legs) | +3    | Dex (graceful)      | +2    |
+| Sta (long-winded)   | +7    | Qik (fleet)         | +3    |
 
 #### Virtues & Flaws
 
@@ -2899,13 +2740,14 @@ Faerie Eyes
 
 #### Combat Totals
 
-| Weapon | Ist | Atk | Parry | Dam |
-|--------|-----|-----|-------|-----|
-| Hoof Totals: | - | +9 | +8 | - | +9 |
 
-**Dodge Defense:** +3  
-**Soak:** +11  
-**Fatigue:** +7  
+| Weapon       | Ist | Atk | Parry | Dam |
+| -------------- | ----- | ----- | ------- | ----- |
+| Hoof Totals: | -   | +9  | +8    | -   |
+
+**Dodge Defense:** +3
+**Soak:** +11
+**Fatigue:** +7
 **Encumbrance:** 0
 
 #### Body Levels
@@ -2929,18 +2771,11 @@ OK, 0/0, -1/-1, -3, -6, Unconscious
 
 Three pawns of Rego vis per hoof
 
-
-
-
-
-
 ### Outside relations
 
-The covenant is located in Kintyre, a  long peninsula belonging to the kingdom of  Man and the Isles, ruled by the Norse king  of Man. Most of the surrounding people  know of the faerie mound and the rades of  the good folk. Any notice that a group of  magi would normally attract focuses  instead on the sith. 
+The covenant is located in Kintyre, a  long peninsula belonging to the kingdom of  Man and the Isles, ruled by the Norse king  of Man. Most of the surrounding people  know of the faerie mound and the rades of  the good folk. Any notice that a group of  magi would normally attract focuses  instead on the sith.
 
 Crun Clach is one of the many covenants  that visit the vis-rich Island of Man. Caitlin's  diplomacy has averted several conflicts with covenants from the Stonehenge, Hibernia, and Loch Leglean Tribunals.
-
-
 
 ### Storytelling
 
@@ -2972,12 +2807,11 @@ The games between Crun Clach and the Prince require a few extra rules. The ball 
 
 The field for the game is the broad meadows surrounding Crun Clach. Play is to the first goal, which is the blasted oak on the east side of the hill for the covenant and the standing stone on the west for the Prince. Each team numbers between one- and twodozen players; negotiation determines the number before the match.
 
-
-
 #### Shinty Activities
 
+
 | Activity       | Resolution                                 |
-|----------------|--------------------------------------------|
+| ---------------- | -------------------------------------------- |
 | First Strike   | Play Shinty + Qik - Enc + 4 + Stress die   |
 | Attack         | Play Shinty + Dex + 2 + Stress die         |
 | Parry          | Play Shinty - Siz + 3 + Stress die         |
@@ -2992,18 +2826,18 @@ The field for the game is the broad meadows surrounding Crun Clach. Play is to t
 | Balance Ball   | Play Shinty + Dex - 5; roll every 10 feet  |
 | Steal Ball     | First Strike vs. First Strike              |
 
-
-
 ### Prince of the Grey Jerkin
 
-| Faerie Might  | Size |
-|  ----- | ---- |
-| 35     | 0    |
+
+| Faerie Might | Size |
+| -------------- | ------ |
+| 35           | 0    |
 
 #### Characteristics
 
-| ٠        |                                    |          |                              |
-|----------|------------------------------------|----------|------------------------------|
+
+| ٠       |                                    |          |                              |
+| ---------- | ------------------------------------ | ---------- | ------------------------------ |
 | -2       | Int (stubborn)                     | +2       | Pre (lordly manner)          |
 | +1       | Per (keen)                         | 0        | Com                          |
 | +4<br>+1 | Str (persistent)<br>Sta (vigorous) | +6<br>+7 | Dex (nimble)<br>Qik (lively) |
@@ -3040,8 +2874,9 @@ Glamour (CrIm 25, can create images up to Size +2)
 
 #### Combat Information
 
+
 | Weapon          | First Strike | Attack | Damage | Parry | Dodge: +12     |
-|-----------------|--------------|--------|--------|-------|----------------|
+| ----------------- | -------------- | -------- | -------- | ------- | ---------------- |
 | Caman Totals:   | +17          | +14    | +8     | +9    | Soak: +19      |
 | Spear Totals:   | +14          | +10    | +6     | -2    | Fatigue: +4    |
 | Short Sword Tot | als: +11     | +11    | +6     | -1    | Encumbrance: 0 |
@@ -3051,8 +2886,6 @@ Glamour (CrIm 25, can create images up to Size +2)
 #### Weapons, Armor, and Items
 
 Dagger, helmet, round shield, short spear, short sword, gray leather jerkin (protection 15) repels attacks by wooden objects (ReHe 15). Can change wearer to mist up to three times a day as *Cloak of Mist* (MuCo 45). Magical caman can drive a ball twice as far as normal and cause it to make two 90° turns in flight (ReTe(An) 15).
-
-
 
 ## The Covenant of Mac Gruagach
 
@@ -3104,8 +2937,6 @@ Clan Mac Gruagach has a long history of magical association, as the name itself 
 
 To those not brought up in the Highlands, the idea of a covenant ruled by a non-magus might seem risky, if not downright dangerous. The covenant works, however, because of the temperament of the Highlanders who make up this extended family. There are no "magi," "grogs," and "consortes"; there are only members of the family, some of whom happen to have skills in the arcane arts. The work of the seasons of the non-magi is much the same as in the rest of the Highlands. The herds are driven to the hills in spring and back in the fall. Raids against neighbors and guarding against raids take place in the fall. The magi of the covenant aid in these tasks, though some are exempt because of their research.
 
-
-
 ### The Inhabitants
 
 #### Calum Mac Lachlan, Magus Ex Miscellanea
@@ -3113,8 +2944,6 @@ To those not brought up in the Highlands, the idea of a covenant ruled by a non-
 Calum is the effective head of the covenant (not the clan), though he has abdicated the Hermetic title to Domnhull Beg, who can better interact with the rest of the Order of Hermes. Calum is an old gruagach and has been injured several times; his body is gnarled and fur-covered. His left hand is a withered claw, and he smells of rotting vegetation, especially when wet. Like most gruagachan he is lonely; few of the clan will visit him because of the stench of his body, and he has become quite crotchety in his old age.
 
 He is known to be the true power in the covenant, at least in the Loch Leglean Tribunal. He has a deep and abiding love of his clan and will do much to preserve its members. He has given himself the obligations of aid, counsel, and magical gifts to the clan. In addition, it is he who started sending suitable clan members to other covenants on the continent for training. Only one or two are sent in each generation, but even this influx of other thought is enough to keep the covenant from getting stagnant.
-
-
 
 ### Calum Mac Lachlan, Ex Miscellanea Gruagach, Head of Covenant
 
@@ -3161,17 +2990,16 @@ Area Knowledge—Clan lands (neighbors) 6, Area Knowledge—Highlands (covenants
 
 #### Combat Information
 
+
 | Weapon         | First Strike | Attack | — Damage | Parry | Dodge Defense: -2 |
-| -------------- | ------------ | ------ | -------- | ----- | ----------------- |
-| Spear Totals:  | +8           | +5     | +8       | 0     | Soak:+7           |
-| Sling Totals:  | Rate 1/round | +5     | +4       | -     | Fatigue: -2       |
-| Shield Totals: | +8           | +5     | +8       | +7    | Encumbrance: 0    |
+| ---------------- | -------------- | -------- | ----------- | ------- | ------------------- |
+| Spear Totals:  | +8           | +5     | +8        | 0     | Soak:+7           |
+| Sling Totals:  | Rate 1/round | +5     | +4        | -     | Fatigue: -2       |
+| Shield Totals: | +8           | +5     | +8        | +7    | Encumbrance: 0    |
 
 #### Weapons, Armor, and Items
 
 Helmet, linen cotte (full armor), sling, shield, spear
-
-
 
 #### Domnhull Beg, House Bonisagus
 
@@ -3194,8 +3022,6 @@ This spell blocks all attacks that have substantial wooden components (arrows, s
 Shield ofMystic Might (Rego Terram 35) Spell Focus: Iron and wood ring (+4) R: Self/Touch, D: Sun/Moon, Requisite: Herbam
 
 A combination of the two Enchantment to Block spells, this spell blocks all metal or wooden attacks. Its effects and restrictions are the same as the two Enchantment to Block spells.
-
-
 
 ### Domnhull Beg, house Bonisagus
 
@@ -3237,13 +3063,14 @@ Area Knowledge—clan lands (magicians) 1, Bargain (services) 3, Church Lore (Ge
 
 #### Techniques and Forms
 
-| 12 | Cr | 11 | An | 8  | Ig |
-|----|----|----|----|----|----|
-| 26 | In | 10 | Αq | 5  | Im |
-| 15 | Mu | 8  | Au | 25 | Mε |
-| 12 | Pe | 15 | Co | 10 | Te |
-| 20 | Re | 10 | He | 24 | Vi |
-|    |    |    |    |    |    |
+
+| 12 | Cr | 11 | An  | 8  | Ig  |
+| ---- | ---- | ---- | ----- | ---- | ----- |
+| 26 | In | 10 | Αq | 5  | Im  |
+| 15 | Mu | 8  | Au  | 25 | Mε |
+| 12 | Pe | 15 | Co  | 10 | Te  |
+| 20 | Re | 10 | He  | 24 | Vi  |
+|    |    |    |     |    |     |
 
 #### Spellcasting Information
 
@@ -3259,8 +3086,9 @@ Domnhull has had the time to work on any spell he desires and can be considered 
 
 #### Combat Information
 
+
 | Weapon | First Strike | Attack | Damage | Parry | Dodge: 0       |
-|--------|--------------|--------|--------|-------|----------------|
+| -------- | -------------- | -------- | -------- | ------- | ---------------- |
 | None   | -            | -      | -      | -     | Soak: -1       |
 |        |              |        |        |       | Fatique: -1    |
 |        |              |        |        |       | Encumbrance: 0 |
@@ -3271,24 +3099,25 @@ Oak staff talisman, +4 Destroy at Distance, +4 Control at Distance, +3 Project B
 
 Iron and wood ring, focus for Shield of Mystical Might
 
-
-
 ### Cagair an t-Aile, Domnhull's Osprey Familiar
 
+
 | Magical Might | Size |
-| ------------- | ---- |
+| --------------- | ------ |
 | 6             | 3    |
 
 #### Characteristics
 
-| +2   | Int (inquisitive) |      | Pre          |
-| ---- | ----------------- | ---- | ------------ |
-| +4   | Per (strong eyes) | n/a  | Com          |
-| 2    | Str               | +2   | Dex (nimble) |
-| 0    | Sta               | +3   | Qik (swift)  |
+
+| +2 | Int (inquisitive) |     | Pre          |
+| ---- | ------------------- | ----- | -------------- |
+| +4 | Per (strong eyes) | n/a | Com          |
+| 2  | Str               | +2  | Dex (nimble) |
+| 0  | Sta               | +3  | Qik (swift)  |
+
 
 | Reputation | Confidence |
-| ---------- | ---------- |
+| ------------ | ------------ |
 |            |            |
 
 #### Personality Traits
@@ -3299,9 +3128,10 @@ None 3
 
 #### Combat Totals
 
-| Weapon       | lst  | Atk  | Parry | Dam  |
-| ------------ | ---- | ---- | ----- | ---- |
-| Claw Totals: | 47   | +6   | -     | +3   |
+
+| Weapon       | lst | Atk | Parry | Dam |
+| -------------- | ----- | ----- | ------- | ----- |
+| Claw Totals: | 47  | +6  | -     | +3  |
 
 Soak: -3 Dodge Defense: +8
 
@@ -3334,10 +3164,6 @@ Domnhull and Cagair always know where the other is up to 100 paces away. Domnhul
 #### Vis
 
 Three pawns of Aurum vis in feathers
-
-
-
-
 
 #### Mungan Moor, Magus Ex Miscellanea
 
@@ -3379,8 +3205,9 @@ Donncadh's wife, Mairi, fell in love with her husband when he was the dashing yo
 
 Age: 55 Size: 0
 
+
 | +1 | Int<br>(astute)  | 1  | Pre (craggy)    |
-|----|------------------|----|-----------------|
+| ---- | ------------------ | ---- | ----------------- |
 | -2 | Per (farsighted) | -1 | Com (irritable) |
 
 O Str -3 Dex (old injuries)
@@ -3397,8 +3224,9 @@ Good Arms +1, Knack (+4 with leading the clan) +2, Leadership +3, Strong-willed 
 
 Concerned with Clan 2, Short-tempered 2, Friendly 1. Shrewd Leader +4
 
+
 | Confidence | Decrepitude |
-|------------|-------------|
+| ------------ | ------------- |
 |            |             |
 
 3 4
@@ -3409,17 +3237,16 @@ Animal Handling (cattle) 2, Area Knowledge—clan lands & neighbors (people) 4, 
 
 #### Combat Information
 
+
 | Weapon                    | First Strike | Attack | — Damage |       |                                     |
-|---------------------------|--------------|--------|----------|-------|-------------------------------------|
-| Broad Sword Totals: +5/-1 |              | +4     | +9       | Party | Dodge: +1/+4<br>Soak:<br>-1/+11     |
-| Dirk Totals:              | +2/-4        | +3     | +5       | *     |                                     |
-| Shield Totals:            | +1/-5        | 0      | 0        | +5    | Fatigue: -1/-7<br>Encumbrance: 0/-6 |
+| --------------------------- | -------------- | -------- | ----------- | ------- | ------------------------------------- |
+| Broad Sword Totals: +5/-1 |              | +4     | +9        | Party | Dodge: +1/+4<br>Soak:<br>-1/+11     |
+| Dirk Totals:              | +2/-4        | +3     | +5        | *     |                                     |
+| Shield Totals:            | +1/-5        | 0      | 0         | +5    | Fatigue: -1/-7<br>Encumbrance: 0/-6 |
 
 #### Weapons, Armor, and Items
 
 Chain hauberk, helmet, broad sword, round shield, dirk
-
-
 
 #### Lachlan Mac Calum
 
@@ -3430,8 +3257,6 @@ Lachlan proceeds under the assumption that he will inherit the chieftainship on 
 #### Raibert Mac Donncadh
 
 Raibert is much as his father was in his early years: a hell-raiser, playboy, and fierce warrior. He has upset a number of fathers with his dalliances, and Donncadh has plans to marry him off before he is killed by a protective parent. Raibert has a reputation for his recklessness, and he deserves it. He has injured himself several times, such as when he broke his ankle while jumping up onto a rooftop. However, he has led a charmed life so far, perhaps because of the friendship he has with Aonghus larran Lamh. He tends to abuse his position and leads a group of five young men who terrorize the surrounding lands with their antics.
-
-
 
 #### Covenfolk and Freiceadanan
 
@@ -3477,18 +3302,9 @@ Unable to appease the high-strung magi, Calum appoints the characters to investi
 
 The way the characters go about their investigations may have long-running effects on their acceptance in the Highlands. If they do well, finding the murderer without hurting too many feelings, they are made welcome in most covenants. On the other hand, if they manage to insult everyone in sight and not find the murderer (or accuse the wrong magus), they would do best to leave the Highlands and never come back. Prepare multiple motives and suspects, as well as old grudges that can be paid off by pointing the investigators at the wrong suspect. This story could work just as well with competent companions, but they would have to have Magic Resistance of one form or another.
 
-
-
-
-
 > *I have found that the beliefs and magic of the natives of Scotland before the Scots have been lost to the world, but many tantalizing hints can be found among the inhabitants of the Highlands and Islands. Many families have members with exceptional talents, which are passed down from father to son or mother to daughter. The numbers three and seven seem to have mystical connotations, especially as in "the third child of a third child" or "seventh child of a seventh." A number of mystical abilities seem to be far more prevalent among these rude peasants than among similar folk in other countries that I have visited, and a number of these people have even joined House Ex Miscellanea solely on the strength of their ability to douse for water or on the basis of their frequent visions. However, no one whom I interviewed knew of anyone with more than one strange ability, with one exception. The local people told me of beings known as "gruagachan," which means either a monster or wizard or both. The number of gruggichan in Scotland is small, surely not more than two dozen in the entire country. I found one young gruagach in the covenant of Eilean Beg (he has since left that covenant) and had a chance to talk to him of his abilities. Much like any Hermetic magus, he had a difficult childhood, mostly because of being able to see through illusions and find lost objects with the method known as dousing. One day, while gathering seaweed for the evening meal he was abducted by a huge, smelly man, who turned out to be Brude Deathless. Like some of our own less-principled magi in the Order of Hermes, Brude stole the child away to his tower in the fastness of Strathnavar, where he raised him in the tradition of the gruagachan. After years of laborious study in the arts of the gruagachan, the boy was told to make his way in the world, and had several geasa (a form of delayed curse or retribution common to the gruagachan) laid on him, especially that he must train at least one gruagach before his forty-ninth year. Brude, it seems, worries that the traditional magic of the Highlands (or "Alban," as he named it) was being diluted and lost, never to be recovered. Each generation of gruagach teaches less and loses more of the magic. My informant, Chearlach Mac Caolin, was desperately looking for a student, as his fortieth year was approaching and he had not yet found a suitable candidate.*
 >
 > —Uierna of House Bonisagus
-
-
-
-
-
 
 # Chapter 6: Character Generation
 
@@ -3518,8 +3334,6 @@ English. However, Norse and Irish are readily accepted in the North and West. Fe
 
 Most Highland magi are of House Ex Miscellanea, and the Flaws "Hedge Wizard" and "Isolated from the Order" are quite common. For training in other Houses, the character can apply at a covenant, or travel abroad. Note that a magus of House Flambeau is unlikely to accept a Scot as an apprentice (a prejudice that dates back to Pralix and the war against Damhanallaidh). House Ex Miscellanea readily accepts gruagachan, but their Hermetic status can (and probably will) be in doubt if they leave the Highlands. The Highlands are famous for theirhermit magi, who have full voting rights in the tribunal. Most of the hermits tend to side with one of the main covenants, but trading for votes is one way these hermits make a living.
 
-
-
 > ### New Weapons
 >
 > **Caman:** The caman is both a walking stick and the club for playing shinty. It looks like a modern golf club, with a head about six to eight inches long.
@@ -3532,20 +3346,20 @@ Most Highland magi are of House Ex Miscellanea, and the Flaws "Hedge Wizard" and
 >
 > **Targe:** The typical shield of the Highlanders constructed of two layered planks—offset, so that they will not split easily. The shield is about two feet in diameter and covered in leather decorated with curving patterns of studs and nailheads. The central boss often includes a long, thin spike. This spike adds to the weapon damage of the shield when used offensively.
 >
-> | Name    | Expense | Speed | AtkB | WpnDam | ParB | Str  | Load | Space |
-> | ------- | ------- | ----- | ---- | ------ | ---- | ---- | ---- | ----- |
-> | Caman   | Inex    | +4    | +2   | +1     | +3   | n    | 0    | 1     |
-> | Dart    | Inex    | -1    | +1   | +3     | +1   | n    | 0    | n/a   |
-> | Dirk    | Inex    | +2    | +4   | +3     | +1   | n    | 0    | 0     |
-> | Long Ax | Inex    | +3    | +3   | +5     | +2   | n    | 0    | 1     |
-> | Targe   | Inex    | +2    | +2   | +1     | +3   | -2   | 0.5  | 1     |
-
-
+>
+> | Name    | Expense | Speed | AtkB | WpnDam | ParB | Str | Load | Space |
+> | --------- | --------- | ------- | ------ | -------- | ------ | ----- | ------ | ------- |
+> | Caman   | Inex    | +4    | +2   | +1     | +3   | n   | 0    | 1     |
+> | Dart    | Inex    | -1    | +1   | +3     | +1   | n   | 0    | n/a   |
+> | Dirk    | Inex    | +2    | +4   | +3     | +1   | n   | 0    | 0     |
+> | Long Ax | Inex    | +3    | +3   | +5     | +2   | n   | 0    | 1     |
+> | Targe   | Inex    | +2    | +2   | +1     | +3   | -2  | 0.5  | 1     |
 
 ### Male Names:
 
+
 | English          | Scottish Gaelic              |
-| ---------------- | ---------------------------- |
+| ------------------ | ------------------------------ |
 | Adam             | Adhamh                       |
 | Alexander        | Alasdair, Alai               |
 | Allan            | Ailean                       |
@@ -3616,8 +3430,9 @@ Most Highland magi are of House Ex Miscellanea, and the Flaws "Hedge Wizard" and
 
 ### Female Names:
 
+
 | English          | Scottish Gaelic      |
-| ---------------- | -------------------- |
+| ------------------ | ---------------------- |
 | Agnes            | Aigneis              |
 | Alice            | Ailis                |
 | Amelia           | Aimil                |
@@ -3669,19 +3484,11 @@ Most Highland magi are of House Ex Miscellanea, and the Flaws "Hedge Wizard" and
 | Sybil            | Sibeal               |
 | Winifred         | Una                  |
 
-
-
-
-
 > #### Geas
 >
 > Geas is a prohibition that, when the geas is broken, it invokes a Curse on the victim. Gift is a magical boon. Curse is a magical affliction.
 
-
-
 Gruagachan are generally the only characters from the Highlands with more than one Exceptional Talent. If the player wishes to create a non-gruagach character with more than one Exceptional Talent, then the Virtue "Latent Magical Ability" should be taken to represent the fact that the character is a potential gruagach. However, until the character is taken as a student by a gruagach and begins to learn of his or her abilities, that character's starting Exceptional Talents cost the normal amount.
-
-
 
 ### New Virtues
 
@@ -3694,7 +3501,6 @@ You have received the accolade of knighthood and are on the bottom rung of the l
 You have been blessed or cursed as to your fate. Someone (a magician, faerie, or other supernatural creature) has put a condition on your death, and until the condition is met, you will not die, though you can be seriously injured. You heal normally, but cannot die as a result of wounds or old age. Unfortunately for you, fate or bad planning can bring about the conditions in unexpected ways. If, for instance, your death condition is to fear only boars, you should be wary of men bearing boars on their coats of arms or of inns named after boars, in addition to the purely mundane creature.
 
 The storyguide must keep the prophecy in mind and give fair warning of items related to the prophecy. At the very least, the storyguide should provide the clues to the rest of the party after the event, if the character is killed. Players may only take this Virtue with the agreement of the storyguide.
-
 
 #### Exceptional Talents
 
@@ -3719,8 +3525,6 @@ This Virtue is available only to those who have the Virtue "Student of Brude" (o
 The gruagach's soul is extracted and placed in a safe place, hidden from mortal men. Unless the soul-object is destroyed, the gruagach is safe from mortal injury. The gruagach can be incapacitated, but never killed. The gruagach's body cannot be disjointed or burned, even by the strongest magics or natural forces, but will heal slowly. If incapacitated, gruagachan always use the rules for recovering in the field, even when recuperating in good condition. Recovery rolls of 1 through 8 indicate the loss of the next roll (half a day lost), while a botch loses the next two rolls (one full day lost to recovery). Every time a botch is rolled, the experience marks the gruagach in some way. Usually this is a physical sign: a foul odor like that of the grave, skin that dissolves cloth, extreme ugliness, or other characteristics that make the gruagach more horrendous. The storyguide should feel free to assign a minor (+1/-1) Virtue or Flaw to the botch to represent the change.
 
 The gruagach's soul can reside in any type of object, but any damage to the soulobject, even the merest scratch, will kill the gruagach. Age has no effect on the gruagach. The soul can be removed only once, and once removed may never return to the body. If not taken as a beginning Virtue, the method of removing the soul may be researched as if it were an Exceptional Talent valued at +4. (See "Learning New Exceptional Talents.") Characters starting the game with the External Soul are no older than twenty-eight years.
-
-
 
 ### New Flaws
 
@@ -3754,11 +3558,7 @@ Your family is involved in a feud. The opposing family or families are roughly o
 
 You are liable to be ambushed or attacked by opposing clansmen, and your family expects you to join raids against your enemies.
 
-
-
 ### New Abilities
-
-
 
 #### Gruagach Lore, Casual Knowledge
 
@@ -3784,15 +3584,11 @@ A gruagach ability that adds to the gruagach's casting totals. The gruagach's Po
 
 Knowledge of and insight into the mysteries of gruagach magic. Used much the same way that Hermetic magi use Magic Theory.
 
-
-
 ## Geasa, Gifts, and Curses
 
 The Exceptional Talents of Geas, Gift, and Curse are different aspects of one greater magic, which has long since disappeared save for these Talents. All three can add or remove Virtues, Flaws, and characteristics from a person. Curse and Gift are opposites: Curses add Flaws or remove Virtues; Gifts add Virtues or remove Flaws. Geasa are delayed Curses that take effect if the bearer meets certain conditions (specified by the caster).
 
 These three enchantments are capable of great harm or benefit to the recipient. Unfortunately, the caster must be careful when using any one of these three, as the benefits are counterbalanced by penalties if the casting does not succeed. Most characters will have a good idea of the effect they can normally expect, but the Resistance of the target can make a big impact on a failed casting.
-
-
 
 #### Casting a Geas, Gift, or Curse
 
@@ -3805,16 +3601,10 @@ Only those characters who know Speak Pictish may learn or use the Potency skill,
 Hermetic magi may add their Vim scores to the Magic Resistance value of their Parma Magica.
 
 - If the roll is greater than the target number of the Curse, Geas, or Gift (determined by the effect), then the target acquires the effect described by the caster.
-
 - If the roll fails by less than seven, then neither character is affected.
-
 - If the roll fails by seven or more, then the storyguide has the option of laying a minor Geas or Curse against the caster. For every 7 points that the roll fails by, the storyguide may assign a -1 Geas or Curse (as per the "Geas" or "Curse" Flaws).
-
 - If the roll is 0, then add the casting bonus only ifit is negative. If the casting bonus is positive, then the total roll is considered to be 0. If the casting bonus is negative (because, for example, the target has a high Magic Resistance), then apply it to 0. The caster suffers a Geas or Curse as above (with at least a -1 "Geas" or "Curse" Flaw, even if the Ease Factor is 6 or lower).
-
--  If the roll is a botch, the results can be even worse (at the storyguide's discretion).
-
-  
+- If the roll is a botch, the results can be even worse (at the storyguide's discretion).
 
 #### Effects
 
@@ -3845,31 +3635,24 @@ Common circumstances are like sweeping prohibitions, common events, or combinati
 Penalties for breaking a Geas can range from a one-time failure of the ability to always botching when using the ability. The magus may also specify that the ability or characteristic be reduced a number of points permanently. A Continuing Geas can be declared for one-time penalties or ability reduction, so that the character suffers the penalty each time he or she breaks the Geas. It should be noted that a character may be under conflicting Geasa and that obeying one will break the other.
 
 
-
-| Penalty | Effect |
-|----------|--------|
-| One-time zero | The next die roll for the ability in question is zero. Roll for a botch as normal. |
-| Ability reduced | The indicated ability is reduced by the stated amount for the next die roll. |
-| Characteristic reduced | One characteristic is reduced by the stated amount for the next die roll. |
-| One-time botch | The next affected die roll is automatically zero, and the character's first botch die is an automatic botch. (Roll for additional botch dice past the first, if any.) |
-| Zero until condition | The next series of die rolls for the character are zero (normal chance of botch), until the condition is met. (This penalty is common for Curses or Geasa about being wounded.) |
-| Continuing | The Geas remains in effect for the rest of the character's life or until lifted. This modifier is applicable with penalties that reduce a characteristic or ability. Each time the Geas is broken, the characteristic or ability is lowered. |
-| Ability cap | The ability cannot be raised until the Curse is lifted. |
-| Always zero | The character's rolls are always zero for the designated characteristic or ability. Roll normally for botches. |
-| Always botch | The character always botches the characteristic or ability roll. If the character is foolish enough to attempt the activity, roll for botch as normal, and the first botch die is automatically a botch. |
-| Gift lost forever | The Gift given to the character is lost. This condition eliminates points added to characteristics or abilities; remove Gifted Virtues or replace eliminated Flaws. An eliminated Gift may never be given again to this character. |
-
-
+| Penalty                | Effect                                                                                                                                                                                                                                       |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| One-time zero          | The next die roll for the ability in question is zero. Roll for a botch as normal.                                                                                                                                                           |
+| Ability reduced        | The indicated ability is reduced by the stated amount for the next die roll.                                                                                                                                                                 |
+| Characteristic reduced | One characteristic is reduced by the stated amount for the next die roll.                                                                                                                                                                    |
+| One-time botch         | The next affected die roll is automatically zero, and the character's first botch die is an automatic botch. (Roll for additional botch dice past the first, if any.)                                                                        |
+| Zero until condition   | The next series of die rolls for the character are zero (normal chance of botch), until the condition is met. (This penalty is common for Curses or Geasa about being wounded.)                                                              |
+| Continuing             | The Geas remains in effect for the rest of the character's life or until lifted. This modifier is applicable with penalties that reduce a characteristic or ability. Each time the Geas is broken, the characteristic or ability is lowered. |
+| Ability cap            | The ability cannot be raised until the Curse is lifted.                                                                                                                                                                                      |
+| Always zero            | The character's rolls are always zero for the designated characteristic or ability. Roll normally for botches.                                                                                                                               |
+| Always botch           | The character always botches the characteristic or ability roll. If the character is foolish enough to attempt the activity, roll for botch as normal, and the first botch die is automatically a botch.                                     |
+| Gift lost forever      | The Gift given to the character is lost. This condition eliminates points added to characteristics or abilities; remove Gifted Virtues or replace eliminated Flaws. An eliminated Gift may never be given again to this character.           |
 
 #### Poetic Justice
 
 The appropriateness of Gifts, Geasa, and Curses is an important part of the magic of the Highlands. Storyguides should feel free to add from 1 to 7 points to the difficulty of a Curse, Gift, or Geas that has no relation to what has gone on in the saga. If a character Curses a person for no reason, the storyguide should assign the maximum penalty. Likewise, if the Curse, Geas, or Gift particularly fits the storyline, up to 7 points can be subtracted from the difficulty, making it easier to cast. The storyguide (or the troupe) should resolve each use of this magic ona case-by-case basis.
 
-
-
 > Brude Deathless is the most powerful gruagach in Loch Leglean. He participated in the war against Damhan-allaidh.
-
-
 
 ### Geasa
 
@@ -3879,8 +3662,9 @@ Geasa cast by a player during play must be overseen by the storyguide. He or she
 
 #### Geas Gase Factor Modifiers
 
+
 | Prohibitions:          |                      |
-| ---------------------- | -------------------- |
+| ------------------------ | ---------------------- |
 | Specific prohibition   | +0                   |
 | General prohibition    | +3                   |
 | Sweeping prohibition   | +7                   |
@@ -3900,8 +3684,6 @@ Geasa cast by a player during play must be overseen by the storyguide. He or she
 | Inappropriate Geas     | +1 to +7             |
 | Inappropriate penalty  | +1 to +7             |
 
-
-
 > #### Exempli Gratia
 >
 > ##### Geas
@@ -3914,8 +3696,6 @@ Geasa cast by a player during play must be overseen by the storyguide. He or she
 >
 > Brude only needs to not botch; he rolls a 9, for a total of 44. Now each night that Duncan fails to invite a stranger to dinner, the die roll for soak on his next combat will be zero. The die will continue to be zero until Duncan loses at least one body level, then will revert to normal.
 
-
-
 ### Gifts
 
 A character with the "Gift" Talent can grant abilities, traits, or Virtues to him or herself or to others. However, he or she must specify conditions (as with a Geas), along with the Gift, under which the Gift will be lost. The Ease Factor depends on what effect the caster wishes to give the target, modified by the enhancement granted and the Geas attached. Note that the penalty on many Virtues must be the loss of the Gift, as other penalties make no sense.
@@ -3926,8 +3706,9 @@ A Gift must overcome Natural and Magic Resistance, even though the recipient wan
 
 #### Gift Gase Factor Modifiers
 
+
 | Gift:                   |                                   |
-| ----------------------- | --------------------------------- |
+| ------------------------- | ----------------------------------- |
 | Add to a characteristic | +7 per point added                |
 | Add to an ability       | +3 x Experience cost of new score |
 | Add a Virtue            | +7 x Virtue Score                 |
@@ -3948,8 +3729,6 @@ A Gift must overcome Natural and Magic Resistance, even though the recipient wan
 | Inappropriate Geas      | +1 to +7                          |
 | Inappropriate penalty   | +1 to +7                          |
 
-
-
 > #### Exempli Gratia
 >
 > ##### Gift
@@ -3962,16 +3741,15 @@ A Gift must overcome Natural and Magic Resistance, even though the recipient wan
 >
 > This is a bit of a stretch for the Old Woman, but she rolls a 7 and successfully Gifts Duncan. Now, until Duncan breaks one of his new Geasa, he will have +6 Magic Resistance. However, once he breaks either Geasa, he will lose the Resistance and will never be able to be Gifted with it again.
 
-
-
 ### Curses
 
 Curses reduce abilities, characteristics, and Virtues; or grant Flaws. Curses do not have attendant Geasa, but a Curse must have a condition that breaks it, much like a Geas. Most conditions describe something that the victim must do or have done to him or her such as obtain a kiss or perform a specific act. The victim or his or her friends may end the Curse, if they can find the releasing condition. An Intéllego Vim spell of level 35 can reveal the lifting conditions on the Curse.
 
 #### Curse Ease Factor Modifiers
 
+
 | Curse:                  |                      |
-| ----------------------- | -------------------- |
+| ------------------------- | ---------------------- |
 | Cap an ability          | +3                   |
 | Reduce a characteristic | +7 per point reduced |
 | Reduce an ability       | +7 per point reduced |
@@ -3987,8 +3765,6 @@ Curses reduce abilities, characteristics, and Virtues; or grant Flaws. Curses do
 | Inappropriate Curse     | +1 to +7             |
 | Inappropriate lifting   | +1 to +7             |
 
-
-
 > #### Exempli Gratia
 >
 > ##### Curse
@@ -4001,15 +3777,9 @@ Curses reduce abilities, characteristics, and Virtues; or grant Flaws. Curses do
 >
 > Brude's normal casting score would be 35, meaning that anything but a zero would invoke the Curse. He Curses Duncan and rolls a 3 for a total of 38. However, Duncan has not yet broken either Geas associated with his Gift of Withstand Magic, so his Resistance of 6 reduces the roll to 32, defeating the Curse. With a laugh and a wave (and a silent promise not to break his Geasa), Duncan leads his men away. Because the roll failed by less than 7, Brude takes no effect from the failed Curse.
 
-
-
 > A broch ("brok") is a large, thick-walled tower built by a forgotten race.
 
-
-
 > The "magnitude" of a magical effect is one-fifth of its level. Magnitude is a Hermetic way of describing the power of magical effects. While players might talk of "levels," "magnitude" is used when speaking in character.
-
-
 
 ### Lifting Geasa and Curses
 
@@ -4017,15 +3787,11 @@ Geasa, Gifts, and Curses may be lifted only in extraordinary circumstances or by
 
 Hermetic magi may use Perdo Vim spells to remove a Gift, Curse, or Geas, but there are risks inherent in doing so. First, the magus must cast an Intéllego Vim spell of at least level 20 to determine the likely magnitude of effect of the Curse. On a successful cast, the magus gets an idea of the level spell he or she would need to cast to dispel the Curse. On an unsuccessful cast, the storyguide should modify the suggested level up or down by as much as 25% of the real score. On a botch, the storyguide should modify the suggested level by up to 50%. The level of the Geas or Curse is the Ease Factor of Original Curse plus 1/10 the caster's Magic Resistance. Note that the Intéllego Vim spell will reveal the Ease Factor, not the Magic Resistance of the person who placed the Geas or Curse. A Curse cast by a hedge witch has the same "feel" as one cast by Brude Deathless, whose Magic Resistance is 60!
 
-
-
 > #### Exempli Gratia
 >
 > ##### Determining a Geas' Magnitude
 >
 > Duncan the Bold, tired of his Geas (and getting poor because of it), goes to the magi of Clan Mac Gruagach in hopes of having the Geas lifted. Domnhull Beg agrees to try to lift the Geas. Domnhull's Intellego + Vim + Affinity + Int score is 62, and he is easily able to produce a level 20 spontaneous spell. The storyguide indicates that the Geas on Duncan is about magnitude 4. (The Ease Factor was 18.)
-
-
 
 Once the magus determines the magnitude of the Geas, he or she must cast a spontaneous Perdo Vim spell of at least the true level of the Geas or Curse. This spell is always cast under stress. Note that the Intéllego Vim spell is necessary to understand the nature of the Curse. A Perdo Vim spell cast without the knowledge gained by the Intéllego spell has no beneficial effect. This is also why the Perdo Vim spell must be spontaneous: since Geasa are such specialized magical effects, a formulaic spell could not take all the variables into account.
 
@@ -4042,8 +3808,6 @@ Luckily, Domnhull asked Duncan, who had cast the Geas and so had a good idea tha
 12 (Perdo) + 24 (Vim) + 3 (Intelligence) + 3 (Vim affinity) + 10 (vis) = 52
 
 He rolls a 3, for a total of 55, giving him a successful spell of level 27. The Geas is lifted and Duncan is now able to eat alone once more. Now he must pay off the debt to the covenant, especially for those two pawns of vis!
-
-
 
 ## Gruagach — The Highland Magician
 
@@ -4063,19 +3827,15 @@ Virtues and Flaws describe a gruagach's magic powers; thus, many special rules a
 
 Gruagachan may take up to 10 points of Virtues and Flaws. A gruagach must choose the new +3 Virtue "Shapeshifter" (see "New Virtues") and at least two other Exceptional Talents. Exceptional Talents are less expensive for gruagachan than they are for other characters, as noted in the table "Gruagach Talent Cost." Other Virtues and Flaws are not available to gruagachan, as detailed in the unavailable Virtues and Flaws table. Finally, a few more Virtues are available only to gruagachan. (These Virtues cannot be given to other characters, even with the "Gift" Talent.)
 
-
-
 > Gruagachan can be recognized by House Ex Miscellanea if they request admission to the Order. However, magi of other Houses may or may not accept their Hermetic status (equivalent of "Hedge Wizard" Flaw).
->
-
-
 
 #### Gruagach Talent Cost
 
 Note: Talents marked "MR" represent magical powers and can contribute to Magic Resistance for the gruagach.
 
+
 | Talent            | **Value/Tag** |
-| ----------------- | ------------- |
+| ------------------- | --------------- |
 | Alchemy           | 3             |
 | Animal Ken        | 1             |
 | Contortions       | 1             |
@@ -4108,50 +3868,29 @@ Note: Talents marked "MR" represent magical powers and can contribute to Magic R
 
 \*\* This is a new Exceptional Talent. See "Shapeshift and Transform."
 
-
-
 > Highland characters who are not gruagachan but who have the Exceptional Talents of Gift, Curse, or Geas have an unconscious knowledge of Pictish, but cannot otherwise use the language unless taught. If such characters learn Pictish, then they may develop the Potency skill and add their knowledge of Pictish to their casting rolls.
->
-
-
 
 #### Virtues and Flaws Available to Gruagachan
 
 - Any Virtue or Flaw specifying Hermetic arts, parmae magicae, Hermetic spells, etc. Any Hermetic Virtue or Flaw regarding spellcasting (voice, gestures, foci, side effects, etc.).
-
 - Any Hermetic Virtue or Flaw about time limits, life-linked magic, etc., of spells.
-
 - Most Virtues and Flaws about the Order of Hermes. (Reputations are all right.)
-
 - Any Virtue or Flaw regarding literacy, books, etc.
-
 - Heart-Beast, Will Over Form, Hidden Shape
-
 - Magical Affinity
-
 - No Natural Resistance
-
 - Old (If character has External Soul)
-
 - Faerie Blood or related Virtues or Flaws
-
 - Faerie Magic
-
 - WithstandMagic, or Magical Resistance
-
 - Werewolf
-
 - Immortal
-
-  
-
 
 #### Abilities
 
 Abeginning gruagach has an array of basic abilities. Additional abilities, or higher scores in these abilities, are purchased from a number of points equal to the character's age. Gruagachan cannot begin the game with arcane abilities or formal knowledges. Three new knowledges available to gruagach (only) are described below. (Two Exceptional Talents, Shapeshift and Transform, are described in "Shapeshift and Transform.")
 
 Like other abilities, these abilities have specialties. Note that these specialties cannot combine if they are identical. For example, if your specialties with Curse and Potency are both "in revenge," then you get only the +1 bonus on a vengeful Curse, not +1 for each specialty.
-
 
 Speak Pictish: Lost to the rest of Scotland, Pictish is the sole province of gruagachan, to whom it is not only a semisacred language but a major part of their craft. The language has many magical overtones and is used by gruagachan when they attempt to use any Exceptional Talents that are marked MR on the "Gruagach Talent Cost." It is essential to have a knowledge of Pictish to use the Potency skill. Specialties: any Exceptional Talent. (Intelligence)
 
@@ -4163,8 +3902,9 @@ Gruagach Wisdom: This is the ability of the gruagach to research new Exceptional
 
 All gruagach characters start with these abilities at no cost.
 
-| Ability                  | Value  |
-| ------------------------ | ------ |
+
+| Ability                       | Value  |
+| ------------------------------- | -------- |
 | Speak Gaelic                  | 4      |
 | Speak Pictish                 | 3      |
 | Gruagach Knowledge            | 3      |
@@ -4176,8 +3916,6 @@ All gruagach characters start with these abilities at no cost.
 ### Gruagach Magic
 
 Gruagach magic is very different from Hermetic magic, as it revolves around the use of Exceptional Talents.
-
-
 
 #### Casting Gruagach Magic
 
@@ -4199,8 +3937,6 @@ Simple die + Int + Gruagach Wisdom
 
 Note that, unlike Hermetic magic, Magic auras do not add to the learning total. The character must have at least 3 points of Gruagach Wisdom for each point of the gruagach cost of the Talent. The Ease Factor to successfully learn the Exceptional Talent is 10 times the gruagach cost of the Exceptional Talent. Learning a new Exceptional Talent requires at least one full season. The gruagach may spend several seasons learning the Talent, adding a simple die roll to the lab total each season. Study must be continuous, as per Hermetic laboratory rules. Once the gruagach learns a Talent, his or her score in the Talent is 0. Further experience in the Talent proceeds as detailed in the Ars Magica rules.
 
-
-
 > #### Exempli Gratia
 >
 > ##### Learning a New Exceptional Talent
@@ -4209,13 +3945,9 @@ Note that, unlike Hermetic magic, Magic auras do not add to the learning total. 
 >
 > A few years later, Donald has raised his Gruagach Wisdom to 9, allowing him to learn Transform, a special gruagach Talent. Transform is a +3 Exceptional Talent for gruagachan, and therefore the target number is 30. Donald’s new learning total is 11 and his first season’s roll is 6, for a total of 17, not enough to learn the Talent in one season. Over the next three seasons his rolls are 2, 10, and 4, for a total of 33, giving him a score of 0 in Transform.
 
-
-
 #### Limits of Gruagach Magic
 
 While a gruagach can greatly affect other characters, there are a number of limitations on what the gruagach can influence, due to the fundamental nature of gruagach magic. First, gruagach magic is verbal and personal. The target of a gruagach's magic must be within earshot (about 100 paces in an open field, less in enclosed or muffling areas). The gruagach may only cast a spell on one person ata time, though each casting takes only as long as it takes for the gruagach to state the conditions (roughly 1 round). Note that a gruagach need not see his or her target to be able to affect it. The classic example would be Cursing someone listening at a door. If there are multiple possible targets, the gruagach must specify in some way who is the target: "You, in the blue shirt, may your hair fall out if you ever try to steal again." Names are not an integral part of gruagach magic.
-
-
 
 ##### Gruagach Magic May Not:
 
@@ -4224,8 +3956,6 @@ While a gruagach can greatly affect other characters, there are a number of limi
 - Affect someone out of earshot of the gruagach (though it may affect the deaf).
 - Affect a character retroactively (for example, grant a Background Virtue or Flaw).
 - Affect the dead or their spirits.
-
-
 
 #### Shapeshift and "Transform
 
@@ -4271,8 +4001,6 @@ Complex man-made form: +15
 
 +Might score
 
-
-
 #### Newid Gornest—Shapeshifting Duels
 
 Gruagachan have developed the newid gornest (new-ud gorn-est, change duel) as a method of settling arguments, much as certamen serves the Order of Hermes. Gruagachan normally fight to the collapse of one of the combatants. The winner may cast a Geas or Curse on the loser of the duel, rolling normally to cast the Geas, with a +7 bonus to the roll.
@@ -4305,23 +4033,19 @@ The training is intensive; the student spends two seasons of each year in traini
 
 During an average training, a student earns 3 experience points or learns one +1 Exceptional Talent per season of teaching. Exceptional Talents with a cost of +2 normally take two seasons, and +3 Talents, like Shapeshift, normally take three seasons. At the same time, the teacher earns two points of experience per season in the Exceptional Talent he or she teaches.
 
-
-
 > *He wha tills the fairies' green*
->  *nae luck again shall hae.*
+> *nae luck again shall hae.*
 >
 > *An' he wha spills the fairies' ring*
->  *betide him want and wae.*
+> *betide him want and wae.*
 >
 > *But wha gaes by the fairy ring*
->  *nae dule nor pine shall see;*
+> *nae dule nor pine shall see;*
 >
 > *an' he wha cleans the fairy ring*
->  *an easy death shall dee.*
+> *an easy death shall dee.*
 >
 > —Anonymous
->
-> 
 >
 > wha: who
 > nae: no
@@ -4331,12 +4055,6 @@ During an average training, a student earns 3 experience points or learns one +1
 > dule: sorrow
 > pine: pain
 > dee: die
-
-
-
-
-
-
 
 # Chapter 7: Scenario Ideas
 
@@ -4374,8 +4092,6 @@ Various pretenders to the Scottish throne lead rebellions against the House of C
 
 The death of Margaret, Maid of Norway, in 1290 leaves the throne of Scotland vacant. Many claimants to the throne come forward, and King Edward of England is asked to adjudicate the succession. His choice, John Balliol, proves to be an unpopular king, and rebellions flare up. The political fortunes of Horsingas may rise and fall with the fortunes of William Wallace, the most successful rebel. However, magical intervention on Wallace's side may provoke protests from covenants in the Stonehenge tribunal or retaliation against the Scottish magi.
 
-
-
 ## Meeting Brude Deathless
 
 Brude (as seen in the examples in Character Generation) is a crotchety old man, who tosses off Curses on those who disturb him. He lives in a broch in the far North, away from a world that considers him a monster. He lives in constant pain from his mutated body, which does nothing to improve his mood.
@@ -4384,17 +4100,16 @@ Brude Deathless is over 550 years old and the most powerful human or humancross 
 
 Brude's main focus is to keep the gruagach traditions alive. When he takes an apprentice, one of the first things he does is to cast a Geas on him or her. As a result, the apprentice must train at least one apprentice before his or her forty-ninth birthday or lose all gruagach powers.
 
-
-
 ### Brude Deathless
 
 Age: 550 Size:+2
 
 #### Characteristics
 
-| +6 Int (wise)       | +3         | Pre (forceful) |
-|---------------------|------------|----------------|
-| +2 Per (discerning) | +3         | Com (eloquent) |
+
+| +6 Int (wise)       | +3          | Pre (forceful) |
+| --------------------- | ------------- | ---------------- |
+| +2 Per (discerning) | +3          | Com (eloquent) |
 | +5 Str (anarled)    | <b>⊥</b> 3 | Dev (graceful) |
 
 +3 Qik (reflexive)
@@ -4433,17 +4148,16 @@ Magical Air; Blatant Gift; Offensive to Animals; extremely hairy (hair is white 
 
 #### Combat Information
 
-| Weapon       | First Strike | Attack | Damage | Parry | Dodge: +7      |  |
-|--------------|--------------|--------|--------|-------|----------------|--|
-| Dirk Totals: | +9           | +11    | +12    | +2    | Soak: +6       |  |
-|              |              |        |        |       | Fatigue: +1    |  |
-|              |              |        |        |       | Encumbrance: 0 |  |
+
+| Weapon       | First Strike | Attack | Damage | Parry | Dodge: +7      |   |
+| -------------- | -------------- | -------- | -------- | ------- | ---------------- | --- |
+| Dirk Totals: | +9           | +11    | +12    | +2    | Soak: +6       |   |
+|              |              |        |        |       | Fatigue: +1    |   |
+|              |              |        |        |       | Encumbrance: 0 |   |
 
 #### Weapons, Armor, and Items
 
 Dirk
-
-
 
 ### Story Idea
 
@@ -4454,8 +4168,6 @@ While studying old records in their covenant library, they come upon an account 
 They prepared well for the journey, attracting several other magi of a like bent. They sailed from the nearest harbor, but were never heard from again. The only clues to their intended destination can be found by a Scribe Latin roll of 6+. On the northwest coast of Scotland is a tower overlooking a long arm of the sea. To the north of this tower is a circle of standing stones. To the south and west is an island where vis can be gathered by the handful from seaweed, which drapes the rocks on the beach. In the tower lives the wizard, who the magi learned was called Brude. The notes state that the interior of the tower is a mine of relics and objects of power. They talk of a rock that makes the owner live forever and a powder that allows the user to change his or her shape without casting a spell.
 
 The storyguide should sprinkle more hooks specific to the characters. Perhaps one magus was the pater of a character, while another character is researching non-Hermetic magic theory. The hooks should match the tenor of the saga. Do you want the characters to interact peaceably with Brude, or do you want a story of revenge and murder?
-
-
 
 ## Cattle Raiding
 
@@ -4489,7 +4201,7 @@ Highland cattle are generally more intelligent than their tractable cousins. If 
 
 
 | - Cattle<br>Crodh<br>(kro)         |                |            |     |
-|------------------------------------|----------------|------------|-----|
+| ------------------------------------ | ---------------- | ------------ | ----- |
 | Magical Might                      |                | Size       |     |
 | 0                                  | +1             |            |     |
 | Characteristics                    |                |            |     |
@@ -4509,9 +4221,7 @@ Highland cattle are generally more intelligent than their tractable cousins. If 
 | Fatigue Levels                     |                |            |     |
 | OK, 0/0, -1, -3, -6, Incapacitated |                |            |     |
 | Abilities                          |                |            |     |
-| Dodge<br>1                         |                |            |     
-
-
+| Dodge<br>1                         |                |            |     |
 
 ## Blood Feud
 
@@ -4526,9 +4236,6 @@ This story idea works best with grogs or companions or a weak magus (one who can
 The character in question is acting as guard for the chief of the clan as he visits a number of neighboring clans. The chief is trying to raise support for his feud with the Mac Peadars, with whom his clan has had a long and deadly history. The characters are sitting with the hosting clan's men at dinner one night when one of the hosts makes disparaging remarks about his clan, chief, or some other controversial subject. Be sure to hit at least one of the character's personality traits in the insults. Let tempers flare, dirks be drawn, and blood be spilt. By the time others can break up the fight, the clansman has taken a serious wound, even if the character did not roll one. (Yes, this is not fair.) The chiefs approach, and the clansman dies in his chief's arms. There is nothing for the host to do but ban the characters and their chief from his lands, though by the laws of hospitality he cannot kill them until the morning. By then, they had best be back on their own lands.
 
 Soon after the incident, a shepherd up in one of the high pastures is found beaten nearly to death. When asked who did it, he names the other clan. That night, several hotheaded young men go out "hunting" and come back several days later, smug and full of themselves. Incidents of violence escalate, men are knifed in the back and ambushed, and finally it comes down to full-scale raids against the lands and houses of the two clans. Each clan starts to call on its own allies. Unless peace is made or one clan is eliminated, the feud will take ona life of its own, and even the best plans to end it will fail.
-
-
-
 
 ## Highland Giants
 
@@ -4556,23 +4263,23 @@ This story is meant to lure characters from outside the Loch Leglean Tribunal to
 
 One day, after casting some highly visible spell, the characters see a large golden eagle flying closer and closer. It lands on a branch or rock nearby (never on the ground: she hates to get her feathers dirty). Characters with a prophetic bent realize that something momentous is about to happen, and, after the bird settles herself, she begins to speak!
 
-
-
 ### Famhair a'falach - Magical Highland Giant
 
 Highland giants are solitary creatures, retreating before man into the wilds.
 
 Magical giants have the powers of the gruagach and more. The gruagachan claim that they first learned their powers from the giants and even claim descent from them.
 
+
 | Magical Might | Size |
-|---------------|------|
+| --------------- | ------ |
 | 62            | +6   |
 
 #### Characteristics
 
-| +4 | Int (wise) |  |  | -5 | Pre (awe-inspiring) |
-|----|------------|--|--|----|---------------------|
-|    |            |  |  |    |                     |
+
+| +4 | Int (wise) |   |   | -5 | Pre (awe-inspiring) |
+| ---- | ------------ | --- | --- | ---- | --------------------- |
+|    |            |   |   |    |                     |
 
 +4 Per (excellent hearing) 0 Com
 
@@ -4596,10 +4303,11 @@ Shapeshift (control) 15, Magic Sensitivity (distance) 13, Faerie Sensitivity (Un
 
 #### Combat Totals
 
-| Weapon          | Ist | Atk             |  |
-|-----------------|-----|-----------------|--|
-| Boulder Totals: |     | Rate 1/round +3 |  |
-| Club Totals:    | +5  | +9              |  |
+
+| Weapon          | Ist | Atk             |   |
+| ----------------- | ----- | ----------------- | --- |
+| Boulder Totals: |     | Rate 1/round +3 |   |
+| Club Totals:    | +5  | +9              |   |
 
 Dodge Defense: -3 Soak: +20 Fatigue: +20 Encumbrance: 0
 
@@ -4631,16 +4339,15 @@ External Soul: Most famhairan a'falach have separated their heart from their bod
 
 The famhairan a'falach use gruagach magic, adding their ability in Speak Giant instead of Speak Pictish when using their Talents.
 
-
-
 ### Famhair Laidir - Non-magical Highland Giant
 
 The non-magical cousins of the famhairan a'falach, the famhairan laidir generally are taller, but have much less intelligence and no magical abilities. Fast-talking humans can easily confuse a famhair laidir, but if one finds that it has been tricked, its vengeance can be terrible. Generally, humans have little to fear from a giant (except for being stepped on), as they only attack opponents of a similar size unless firmly directed to do otherwise. Many famhairan laidir aided Damhan-allaidh in his war against Pralix and against the Praeses Septentrionalis, and many could join him if he rose to lead them again.
 
 #### Characteristics
 
+
 | -3 | Int (dense)     | -6 | Pre (impressively huge) |
-|----|-----------------|----|-------------------------|
+| ---- | ----------------- | ---- | ------------------------- |
 | -6 | Per (keen nose) | O  | Com                     |
 
 +35 Str (huge) -1 Dex (ungainly) +40 Sta (supernatural) -1 Qik (slow reactions)
@@ -4665,8 +4372,9 @@ Shapeshift (control) 15, Magic Sensitivity (distance) 13, Faerie Sensitivity (Un
 
 #### Combat Totals
 
+
 | Weapon          | 1st             | Atk | Parry | Dam |
-|-----------------|-----------------|-----|-------|-----|
+| ----------------- | ----------------- | ----- | ------- | ----- |
 | Boulder Totals: | Rate 1/round +4 |     | -     | +70 |
 | Club Totals:    | +5              | +12 | -     | 450 |
 
@@ -4698,8 +4406,6 @@ The storyguide should take pains to conceal the fact that the queen is really a 
 
 gold nuggets the size of your head, magic rings crafted for a giant's finger, etc.).
 
-
-
 ## Lord Goulis and the Demons of Monksend Qastle
 
 King Alexander I appointed Henry de Goulis as his seneschal, and such was Alexander's dependence on Henry that he made the title hereditary in 1121. The seneschals served the kings of Scotland with dedication and intelligence, soon making themselves indispensable. David Goulis, Henry's greatgrandson, began construction of a castle named "Monksend" in 1187, having taken the lands of a Benedictine monastery for his own. Rumors immediately started to spread of David's atrocities: the Benedictines claimed that David had slaughtered the abbot of the monastery and laid him under the cornerstone of the castle. In 1189 David brought forward a monk to dispute these allegations, but still they persisted.
@@ -4710,16 +4416,15 @@ The characters can become involved with Lord Goulis in a number of ways. Perhaps
 
 Lord Goulis is a threat to covenants (and the population at large) located in the Borders. Rarely does his hunting take him north of the Teviot or west of the Annan. He spends about three months of the year attending court with the king, then returns to Monksend. At court he appears to be an elderly man, with many physical problems. He has the reputation of being a shrewd bargainer and has been the power behind the throne in many momentous decisions. When at home at Monksend, he normally dresses in his demonic armor, which imbues him with strength and grace and overcomes his physical defects. Robyn Redcap, his demonic familiar, watches over Monksend while his master is away. Robyn takes the form of the dark faerie known as a "redcap." He keeps his cap red by periodic applications of fresh blood, and is made stronger by it.
 
-
-
 ### David, Lord Goulis
 
 Age: 50 Size: 0
 
 #### Characteristics
 
+
 | +5<br>+1   | Int<br>(legalistic)<br>Per (observant)           | 0<br>+1        | Pre<br>Com (sly tongue)                              |
-|------------|--------------------------------------------------|----------------|------------------------------------------------------|
+| ------------ | -------------------------------------------------- | ---------------- | ------------------------------------------------------ |
 | 0/+4<br>+4 | Str (normal/unearthly)<br>Sta (boundless energy) | -3/+2<br>-2/+3 | Dex (palsied/poised)<br>Qik (halting steps/vigorous) |
 
 #### Virtues & Blas
@@ -4742,8 +4447,9 @@ Area Lore—England (northern) 2, Area Lore—lands around Hermitage (neighbors)
 
 #### Combat Information
 
+
 | Weapon         | First Strike | Attack | Damage | Parry | Unarmored<br>Armored       |
-|----------------|--------------|--------|--------|-------|----------------------------|
+| ---------------- | -------------- | -------- | -------- | ------- | ---------------------------- |
 | Dagger Totals: | +0           | +2     | +3     | +4    | Dodge:-2<br>Dodge: +3      |
 | Ax Totals:     | +9           | +8     | +16    | +2    | Soak: +4<br>Soak: +20      |
 | Lance Totals:  | +13          | +7     | +22    | -     | Fatigue: +4<br>Fatigue: +4 |
@@ -4759,12 +4465,11 @@ Lord Goulis's armor has many enchantments on it. It has no encumbrance and incre
 
 Lord Goulis's horse is a demon bound in horse form. Treat as a Size +3 horse with Steed of Vengeance cast upon it, able to use fiery breath (Crlg 25, +20 damage to one target within 10 feet). The horse-demon knows enough not to breathe fire when "friendly" witnesses are around.
 
-
-
 ### Robyn Redcap - Lord Goulis's Demonic Familiar
 
+
 | 'Demonic Might<br>35 |                                   |   | Size                                     |
-|----------------------|-----------------------------------|---|------------------------------------------|
+| ---------------------- | ----------------------------------- | --- | ------------------------------------------ |
 |                      |                                   | 0 |                                          |
 |                      | Characteristics                   |   |                                          |
 | +3<br>+1             | Int (twisted)<br>Per (acute nose) |   | Pre (smell of rotten blood)<br>Com (sly) |
@@ -4818,20 +4523,18 @@ None
 
 #### Spiritual Form Powers
 
-
-
-
 ### Lord Goulis's Demon Dogs
 
 Demonic Might 8
 
 #### Characteristics
 
-|          |                                         |          |                                   |      |      |      |
-| -------- | --------------------------------------- | -------- | --------------------------------- | ---- | ---- | ---- |
-| 0        | Cun                                     | +1       | Pre (horrifying)                  |      |      |      |
-| +2       | Per (soul-sight)                        | n/a      | Com                               |      |      |      |
-| +2<br>+1 | Str (un-natural)<br>Sta (always hungry) | +4<br>+5 | Dex (agile)<br>Qik (supernatural) |      |      |      |
+
+|          |                                         |          |                                   |   |   |   |
+| ---------- | ----------------------------------------- | ---------- | ----------------------------------- | --- | --- | --- |
+| 0        | Cun                                     | +1       | Pre (horrifying)                  |   |   |   |
+| +2       | Per (soul-sight)                        | n/a      | Com                               |   |   |   |
+| +2<br>+1 | Str (un-natural)<br>Sta (always hungry) | +4<br>+5 | Dex (agile)<br>Qik (supernatural) |   |   |   |
 
 #### Personality Traits
 
@@ -4841,8 +4544,9 @@ hungry
 
 #### Combat Totals
 
+
 | Weapon         | 1st | Atk | Parry | Dam |
-|----------------|-----|-----|-------|-----|
+| ---------------- | ----- | ----- | ------- | ----- |
 | Bite Totals:   | +12 | +11 | -     | +9  |
 | Tackle Totals: | +10 | +10 | -     | *   |
 
@@ -4867,8 +4571,6 @@ One pawn Perdo vis in tongue, two aesfotedia (see below) in body
 #### Powers
 
 Howls of Confusion (PeMe 15) 1 point: By howling, the hounds can cause a victim to become thoroughly confused. Some victims fall to the ground in terror; some run in a straight line; others run one way, then the other, etc. What the victims will not do is put up an effective struggle. The howls are resisted by a willpower roll of Intelligence at 9+. Some Virtues and Flaws will modify the roll (Strong-willed and Faith points will add to the roll; Weak Will and Terrors will subtract); the storyguide must determine the roll on a case-by-case basis.
-
-
 
 ## The Return of Damhan-allaidh
 
@@ -4914,7 +4616,6 @@ As any of the above scenarios, but the body of Damhan-allaidh has long since tur
 
 The players travel all over northern Scotland, with the fear that a major evil creature is waiting for them, only to find that the rumors of his rebirth have been greatly exaggerated. On the other hand, the characters will have plenty of opportunities to annoy or make enemies of the rest of the Order in Scotland. . . .
 
-
 ### Damhan-allaidh
 
 Age: 650? Size:+1
@@ -4951,9 +4652,10 @@ Magical Aura, Blatant Gift, Offensive to Animals, Bulging right eye (-1 Pre); cl
 
 #### Combat Enformation
 
+
 | Weapon            | First Strike | — Attack | Damage | Parry | Dodge: +13   | Soak: +31      |
-|-------------------|--------------|----------|--------|-------|--------------|----------------|
-| 2-h Spear Totals: | +21          | +18      | +21    | +14   | Fatigue: +10 | Encumbrance: 0 |
+| ------------------- | -------------- | ----------- | -------- | ------- | -------------- | ---------------- |
+| 2-h Spear Totals: | +21          | +18       | +21    | +14   | Fatigue: +10 | Encumbrance: 0 |
 | Dart Totals:      | Rate 2/round | — +5     | +8     | -     |              |                |
 
 #### Weapons, Armor, and Items
@@ -4980,15 +4682,9 @@ Sacrifice: Like Creo Vim. For each body level that Damhan-allaidh can drain from
 
 Shatter: Like Perdo Herbam and Terram. Characteristic is Strength.
 
-
-
 # Appendix 1: Character Templates
 
-
-
 ## Grog Templates
-
-
 
 ### Highland Sailor
 
@@ -5030,19 +4726,18 @@ You served as a member of the crew aboard a galley along the western coast, but 
 
 #### Combat Information
 
-| Weapon        | First Strike | Attack | Damage | Parry |  |
-|---------------|--------------|--------|--------|-------|--|
-| Bow Totals:   | l/round      | +8     | +8     | 0     |  |
-| Spear Totals: | +6           | +5     | +6     | 0     |  |
-| Knife Totals: | +0           | +4     | +3     | 0     |  |
+
+| Weapon        | First Strike | Attack | Damage | Parry |   |
+| --------------- | -------------- | -------- | -------- | ------- | --- |
+| Bow Totals:   | l/round      | +8     | +8     | 0     |   |
+| Spear Totals: | +6           | +5     | +6     | 0     |   |
+| Knife Totals: | +0           | +4     | +3     | 0     |   |
 
 Soak: +1 Encumbrance: 0 Dodge: -1 Fatigue: +1
 
 #### &([eapons, Armor, and Items
 
 Knife, round shield, self bow and 12 arrows, short spear
-
-
 
 ### Ghillie, (gilly, young man)
 
@@ -5083,12 +4778,13 @@ You are a young man of the clan, proud of your association with such a powerful 
 
 #### Combat Information
 
-| Weapon         | First Strike Attack |    | Damage | Parry |  |  |
-|----------------|---------------------|----|--------|-------|--|--|
-| Dirk Totals:   | +5                  | +7 | +2     | -2    |  |  |
-| Caman Totals:  | +7                  | H5 | -2     | +4    |  |  |
-| Dart Totals:   | +3                  | +5 | +]     | -     |  |  |
-| Shield Totals: | +0                  | +2 | -7     | 43    |  |  |
+
+| Weapon         | First Strike Attack |    | Damage | Parry |   |   |
+| ---------------- | --------------------- | ---- | -------- | ------- | --- | --- |
+| Dirk Totals:   | +5                  | +7 | +2     | -2    |   |   |
+| Caman Totals:  | +7                  | H5 | -2     | +4    |   |   |
+| Dart Totals:   | +3                  | +5 | +]     | -     |   |   |
+| Shield Totals: | +0                  | +2 | -7     | 43    |   |   |
 
 Soak:43 Encumbrance: O Dodge: +4 Fatigue: +2
 
@@ -5096,16 +4792,15 @@ Soak:43 Encumbrance: O Dodge: +4 Fatigue: +2
 
 Darts (three), dirk, leather jerkin, target shield
 
-
-
 ### Clansman
 
 Age: 30 Size: 0
 
 #### Characteristics
 
+
 | -2  | Int | (stubborn) | 0 | Pre |
-|-----|-----|------------|---|-----|
+| ----- | ----- | ------------ | --- | ----- |
 | . 2 | D   | (          | 2 | C   |
 
 +-3 Per (nearsighted) -2 Com (rustic)
@@ -5142,20 +4837,19 @@ You are the strength of the clan; without you the crops would not be grown, the 
 
 #### Combat Information
 
-| Contour Millorination |                     |     |        |       |  |  |  |
-|-----------------------|---------------------|-----|--------|-------|--|--|--|
-| Weapon                | First Strike Attack |     | Damage | Parry |  |  |  |
-| Ax Totals:            | +7                  | +7  | +11    | +5    |  |  |  |
-| Dirk Totals:          | +6                  | +7  | +8     | -2    |  |  |  |
-| Shield Totals         | -1                  | +2. | -2     | +5    |  |  |  |
+
+| Contour Millorination |                     |     |        |       |   |   |   |
+| ----------------------- | --------------------- | ----- | -------- | ------- | --- | --- | --- |
+| Weapon                | First Strike Attack |     | Damage | Parry |   |   |   |
+| Ax Totals:            | +7                  | +7  | +11    | +5    |   |   |   |
+| Dirk Totals:          | +6                  | +7  | +8     | -2    |   |   |   |
+| Shield Totals         | -1                  | +2. | -2     | +5    |   |   |   |
 
 Dodge: +3 Soak: +3 Fatique: +5 Encumbrance: 0
 
 Weapons, Armor, and Items
 
 Dirk, helmet, leather jerkin, long ax, target shield
-
-
 
 ### Gallowglaigh
 
@@ -5201,11 +4895,12 @@ You are a mercenary from the Hebrides, trained to attack at a run even when wear
 
 #### Combat Information
 
+
 | Weapon                 | First Strike | Attack | Damage | Parry |
-|------------------------|--------------|--------|--------|-------|
+| ------------------------ | -------------- | -------- | -------- | ------- |
 | Battle Ax Totals:      | -2           | +6     | +18    | +6    |
 | Broad Sword Totals: -3 |              | +5     | +8     | 0     |
-| Kite Shield Totals:    | — -3         | -2     | -l     | +7    |
+| Kite Shield Totals:    | — -3        | -2     | -l     | +7    |
 
 Dodge: ax -6, sword -7 Soak: +13
 
@@ -5217,14 +4912,13 @@ Encumbrance: -5 with ax or -6 with sword and shield
 
 Battle ax, broad sword, chain hauberk and helmet, kite shield
 
-
-
 ### Border Rider
 
 Age: 26 Size: 0
 
+
 | O  | Int              | Pre (unbecoming)       | Close Family Ties +1, Secret Hiding Place +1, |
-|----|------------------|------------------------|-----------------------------------------------|
+| ---- | ------------------ | ------------------------ | ----------------------------------------------- |
 | +1 | Per (sharp ears) | Com (heavily accented) | Versatile Sleeper +1; Enemies (English        |
 |    | O Str            | Dex                    | knight) -1, Hired Lance -1, Weak-willed -1    |
 | +1 | Sta (hardy)      | Qik                    | 'Reputation                                   |
@@ -5254,25 +4948,24 @@ You have been riding a horse since the time you could walk, and raiding cattle s
 
 #### Cjombat Information
 
+
 | Weapon        | First Strike | Attack | — Damage | Parry | Dodge: -3 (3) |
-|---------------|--------------|--------|----------|-------|---------------|
-| Lance Totals: | +7           | +5     | +11      | 0     | Soak: +3 (9)  |
-| Sword Totals: | +3           | +6     | +8       | 0     | Fatigue: -2   |
-|               |              |        |          |       |               |
+| --------------- | -------------- | -------- | ----------- | ------- | --------------- |
+| Lance Totals: | +7           | +5     | +11       | 0     | Soak: +3 (9)  |
+| Sword Totals: | +3           | +6     | +8        | 0     | Fatigue: -2   |
+|               |              |        |           |       |               |
 
 #### (Ceapons, Armor, and [tems
 
 Broad sword, hard leather cuirass armor, lance, round shield
 
-
-
-
 ### Lowland City Militiaman Age: 25 Size: 0
 
 #### Characteristics
 
+
 | +1 | Int                | 0 | Pre                      |
-|----|--------------------|---|--------------------------|
+| ---- | -------------------- | --- | -------------------------- |
 | 0  | Per                | 0 | Com                      |
 |    | Str<br>Sta (hardy) |   | Dex<br>Qik (flat footed) |
 
@@ -5298,8 +4991,9 @@ You lived in a city, a woodworker and carpenter by trade. Trained to wield the s
 
 #### Combat Information
 
+
 | Weapon         | First Strike | Attack | Damage | Parry | Dodge: -4      |
-|----------------|--------------|--------|--------|-------|----------------|
+| ---------------- | -------------- | -------- | -------- | ------- | ---------------- |
 | Spear Totals:  | +9           | +5     | +9     | +3    | Soak: +2       |
 | Dagger Totals: | -3           | +4     | +2     | -2    | Fatigue: -1    |
 | 2 0.99-1       | _            |        |        |       | Encumbrance: 0 |
@@ -5308,11 +5002,7 @@ You lived in a city, a woodworker and carpenter by trade. Trained to wield the s
 
 Long spear, dagger, leather jerkin
 
-
-
 ## Companion Templates
-
-
 
 ### Lowland Merchant
 
@@ -5361,8 +5051,6 @@ You are the chief of a sept of the larger clan, responsible for forty families. 
 
 None
 
-
-
 ### Bard/Olamh (Poet/"Teacher)
 
 Age: 27 Size: O
@@ -5402,18 +5090,17 @@ You are a traveling poet and musician, welcome in most communities for the news 
 
 #### Combat Information
 
-| Weapon       | First Strike Attack |    | Damage  | Parry |  |
-|--------------|---------------------|----|---------|-------|--|
-| Dirk Totals: | +1                  | +3 | +2      | +2    |  |
-| Dodge: -1    |                     |    | Soak:-1 |       |  |
+
+| Weapon       | First Strike Attack |    | Damage  | Parry |   |
+| -------------- | --------------------- | ---- | --------- | ------- | --- |
+| Dirk Totals: | +1                  | +3 | +2      | +2    |   |
+| Dodge: -1    |                     |    | Soak:-1 |       |   |
 
 Fatigue: O Encumbrance: 0
 
 #### Ceapons, Alrmor, and Items
 
 Harp, dirk
-
-
 
 ### Monk of the Scottish Church Age: 24 Size: 0
 
@@ -5459,8 +5146,6 @@ You were born into the monastery community and would most likely have died there
 
 "I hear the pain in your voice. Would you care to let me share your hurt with you? A sorrow shared is a sorrow halved."
 
-
-
 ### Highland Chieftan
 
 Age: 30 Size: 0
@@ -5502,13 +5187,14 @@ You are the chief of a sept of the larger clan, responsible for forty families. 
 
 #### Combat Information
 
-| Comode Milot   | Contour Milotinacion |        |        |         |  |  |  |  |
-|----------------|----------------------|--------|--------|---------|--|--|--|--|
-| Weapon         | First Strike         | Attack | Damage | Parry   |  |  |  |  |
-| Broad Sword To | otals:+1             | +5     | +9     | +0 (6)  |  |  |  |  |
-| Dirk Totals:   | -2                   | +3     | +4     | -2 (4)  |  |  |  |  |
-| Shield Totals: | -6                   | -2     | -5     | +5 (11) |  |  |  |  |
-| Bow Totals:    | 1/round              | +6     | +8     | _       |  |  |  |  |
+
+| Comode Milot   | Contour Milotinacion |        |        |         |   |   |   |   |
+| ---------------- | ---------------------- | -------- | -------- | --------- | --- | --- | --- | --- |
+| Weapon         | First Strike         | Attack | Damage | Parry   |   |   |   |   |
+| Broad Sword To | otals:+1             | +5     | +9     | +0 (6)  |   |   |   |   |
+| Dirk Totals:   | -2                   | +3     | +4     | -2 (4)  |   |   |   |   |
+| Shield Totals: | -6                   | -2     | -5     | +5 (11) |   |   |   |   |
+| Bow Totals:    | 1/round              | +6     | +8     | _       |   |   |   |   |
 
 Dodge: -1 Soak: +0
 
@@ -5518,16 +5204,15 @@ Fatigue: -3 Encumbrance: 2
 
 Bow and arrows, broad sword, dirk, leather helmet, linen cotte, shield
 
-
-
 ### Cailleach Glioc (Wise Woman)
 
 Age: 50 Size: 0
 
 #### Characteristics
 
+
 | +3  | Int (keen wit)   | <ul> <li>-1 Pre (stooped posture)</li> </ul> |
-|-----|------------------|----------------------------------------------|
+| ----- | ------------------ | ---------------------------------------------- |
 | +-4 | Per (insightful) | +2 Com (speak in                             |
 |     |                  | metaphors)                                   |
 
@@ -5570,8 +5255,6 @@ For long years you have lived here, at the top of this hill. When you were young
 
 #### Weapons, Armor, and Items
 
-
-
 ## Magi Templates
 
 ### Ex Miscellanea Storm Witch
@@ -5594,13 +5277,14 @@ Brave -2, Haggler +3 Reputation
 
 Bargain (services) 1, Concentration (storms) 3, Faerie Lore (air) 1, Finesse (Auram) 3, Folk Ken (needy) 2, Scribe Runes (records) 3, Speak Gaelic (bargaining) 4, Weather Affinity (storms) 4, Whistling (spell casting) 3
 
-|    | Cr | O  | An |  | Spellcasting Speed: +1 |
-|----|----|----|----|--|------------------------|
-|    | In | 1  | Aq |  | Twilight Points: 0     |
-|    | Mu | 11 | Au |  |                        |
-|    | Pe | O  | Co |  |                        |
-| 11 | Re | O  | He |  |                        |
-|    |    |    |    |  |                        |
+
+|    | Cr | O  | An |   | Spellcasting Speed: +1 |
+| ---- | ---- | ---- | ---- | --- | ------------------------ |
+|    | In | 1  | Aq |   | Twilight Points: 0     |
+|    | Mu | 11 | Au |   |                        |
+|    | Pe | O  | Co |   |                        |
+| 11 | Re | O  | He |   |                        |
+|    |    |    |    |   |                        |
 
 #### Techniques and Forms Spellcasting Ynformation
 
@@ -5627,8 +5311,6 @@ You were brought up in the traditions of the Highland weather witches, able to c
 "Of course I can get you a good breeze, but it will cost you."
 
 #### (Ceapons, firmor, and Items
-
-
 
 ### Quaesitor Investigator
 
@@ -5662,8 +5344,9 @@ Acting (authority) 2, Certámen (Ignem) 2, Church Lore (demons) 1, Concentration
 
 #### Techniques and Forms
 
+
 |   | <u> </u> |   |    |   |    |
-|---|----------|---|----|---|----|
+| --- | ---------- | --- | ---- | --- | ---- |
 | 3 | Cr       | 0 | An | 0 | Ig |
 | 7 | In       | 0 | Aq | 6 | Im |
 | 3 | Mu       | 0 | Au | 6 | Me |
@@ -5699,16 +5382,15 @@ Newly initiated as a member of House Quaesitor, you have taken it on yourself to
 
 #### Ceapons, Armor, and Items
 
-
-
 ### Ex Miscellanea Shapeshifter
 
 Age: 23 Size: 0
 
 #### Characteristics
 
+
 | +2 | Int (talented) | -2 | Pre (untamed)         |
-|----|----------------|----|-----------------------|
+| ---- | ---------------- | ---- | ----------------------- |
 | +3 | Per (alert)    | -3 | Com (snarls and       |
 |    |                |    | growls)               |
 | -1 | Str (scrawny)  | +1 | Dex (delicate step)   |
@@ -5732,8 +5414,9 @@ Alertness (prey) 2, Dodge (arrows) 2, Faerie Lore (shape shifters) 1, Fantastic 
 
 #### Techniques and Forms
 
+
 | 1  | Cr | 9  | An | 0 | Ig |
-|----|----|----|----|---|----|
+| ---- | ---- | ---- | ---- | --- | ---- |
 | 0  | In | 1  | Aq | 0 | Im |
 | 10 | Mu | 1  | Au | 0 | Me |
 | 0  | Pe | 10 | Co | 1 | Te |
@@ -5767,16 +5450,15 @@ You always felt more comfortable around animals, and one day you met an old man 
 
 #### Weapons, Armor, and Items
 
-
-
 ### Gearr (guar) - Hare
 
 Age: n/a Size:-3
 
 #### Characteristics
 
+
 | +1 | Int (cunning)    |   | Pre n/a |
-|----|------------------|---|---------|
+| ---- | ------------------ | --- | --------- |
 |    | Per (sharp ears) |   | Com n/a |
 |    | 0. ( 11)         | _ | _       |
 
@@ -5804,8 +5486,9 @@ The hare is a favorite form for Scottish shapechangers, as it is fast, perceptiv
 
 #### Combat Information
 
+
 | General Enfettioner |              |        |        |       |                |
-|---------------------|--------------|--------|--------|-------|----------------|
+| --------------------- | -------------- | -------- | -------- | ------- | ---------------- |
 | Weapon              | First Strike | Attack | Damage | Parry | Dodge: +4      |
 | Kick Totals:        | +2           | 0      | +1     |       | Soak: +3       |
 |                     |              |        |        |       | Fatigue: +2    |
@@ -5819,13 +5502,13 @@ OK, -3, Incapacitated
 
 OK, -3, Unconscious
 
-
 Gruagach
 
 Age: 29 Size: 0
 
+
 | _  | Int (shrewd)<br>Per |    | Pre (deformed)<br>Com (shy |
-|----|---------------------|----|----------------------------|
+| ---- | --------------------- | ---- | ---------------------------- |
 | +2 | Str (muscular)      | -2 | Dex (uncoordinated         |
 
 Personality Traits
@@ -5856,17 +5539,16 @@ You are a member of a magical tradition far older than the Hermetic Order. While
 
 #### Combat Information
 
+
 | Weapon         | First Strike | Attack | — Damage | Parry  | Dodge: +2      |
-|----------------|--------------|--------|----------|--------|----------------|
-| Cudgel Totals: | +8           | +6     | +4       | -2 (4) | Soak: +6       |
-|                |              |        |          |        | Fatigue: +1    |
-|                |              |        |          |        | Encumbrance: O |
+| ---------------- | -------------- | -------- | ----------- | -------- | ---------------- |
+| Cudgel Totals: | +8           | +6     | +4        | -2 (4) | Soak: +6       |
+|                |              |        |           |        | Fatigue: +1    |
+|                |              |        |           |        | Encumbrance: O |
 
 #### Weapons, Armor, and Items
 
 Iron-bound cudgel, leather jerkin
-
-
 
 # Appendix 2: Gaelic Glossary
 
@@ -5876,35 +5558,36 @@ The following pronunciation guide and vocabulary are not intended to be a course
 
 ## Pronunciation Notes:
 
-|  |  |
-|----|-------------------------------------|
-| b  | as b in English                     |
-| bh | as vin English, sometimes silent    |
-| c  | always hard as in "cot"             |
-| ch | can be hard, as in "character," or soft, as in "inch" |
-| chd | "chk" as in "Loch Katrine"          |
-| dh   | voiced ch, y as in "yet," or silent |
-| di   | "jee"                               |
-| -each   | "uch," "eck"                        |
-| f   | as f in English                      |
-| fh   | mainly silent, but sometimes like h       |
-| g   | Hard g, as in "Goth"                |
-| gh   | voiced ch (see dh above)            |
-| h   | as h, j, or kin English             |
-| l | ll as in "silly", "lli," as in "million," or "back I" as in wool |
-| m | as m in English                    |
-| mh | as v in English, or silent         |
-| n | as n in English                     |
-| ng | as "ng" in "finger," or "ni," as in "pinion" |
-| p | as in English                      |
-| ph | as f in English                     |
-| r | as in "peril"                      |
-| s | as in "set"                        |
-| se- | "sheh"                             |
-| si- | "shee"                             |
-| sh | as h in hat or "sh" as in "English" |
-| t | soft t                             |
-| th | usually silent, sometimes h or ch as in "Loch," sometimes y as in "yet" |
+
+|       |                                                                         |
+| ------- | ------------------------------------------------------------------------- |
+| b     | as b in English                                                         |
+| bh    | as vin English, sometimes silent                                        |
+| c     | always hard as in "cot"                                                 |
+| ch    | can be hard, as in "character," or soft, as in "inch"                   |
+| chd   | "chk" as in "Loch Katrine"                                              |
+| dh    | voiced ch, y as in "yet," or silent                                     |
+| di    | "jee"                                                                   |
+| -each | "uch," "eck"                                                            |
+| f     | as f in English                                                         |
+| fh    | mainly silent, but sometimes like h                                     |
+| g     | Hard g, as in "Goth"                                                    |
+| gh    | voiced ch (see dh above)                                                |
+| h     | as h, j, or kin English                                                 |
+| l     | ll as in "silly", "lli," as in "million," or "back I" as in wool        |
+| m     | as m in English                                                         |
+| mh    | as v in English, or silent                                              |
+| n     | as n in English                                                         |
+| ng    | as "ng" in "finger," or "ni," as in "pinion"                            |
+| p     | as in English                                                           |
+| ph    | as f in English                                                         |
+| r     | as in "peril"                                                           |
+| s     | as in "set"                                                             |
+| se-   | "sheh"                                                                  |
+| si-   | "shee"                                                                  |
+| sh    | as h in hat or "sh" as in "English"                                     |
+| t     | soft t                                                                  |
+| th    | usually silent, sometimes h or ch as in "Loch," sometimes y as in "yet" |
 
 Gaelic uses the vowels a, e, i, o, u, but with several different intonations: sharp, flat, long, short, and nasalized.
 
@@ -5912,81 +5595,81 @@ Most words in Gaelic are accented on the first syllable or the next to the last 
 
 ## Vocabulary
 
-
 ### And, In, Of, The
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| And    | agus          | a-gus        |
-| In     | anns, san, sa | ans, san, sa |
-| Of     | de            | de           |
-| Of the | nam           | nam          |
-| The    | an, na        | an, na       |
+
+| English Word | Gaelic        | Pronunciation |
+| -------------- | --------------- | --------------- |
+| And          | agus          | a-gus         |
+| In           | anns, san, sa | ans, san, sa  |
+| Of           | de            | de            |
+| Of the       | nam           | nam           |
+| The          | an, na        | an, na        |
 
 ### Geography
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Bare Spot      | Mal, Mel                   | mal       |
-| Battlefield    | Blair                      | blare     |
-| Bridge | Drochaid, Drochit | droch-aj, droch-et |
-| Broad Valley   | Strath                     | stra      |
-| Cape           | Mal, Mel                   | mal       |
-| Castle         | Caisteal                   | KASH-tyal |
-| Church         | Kil                        | kil       |
-| City           | Baile Mor                  | balu mor  |
-| Cliff          | Creag                      | creg      |
-| Enclosure      | Gart                       | gart      |
-| Field          | Auch, Ach, Dal             | ach, dahl |
-| Forest         | Coille                     | culu      |
-| Fort           | Rath, Dun                  | ray, dun  |
-| Grove          | Doire                      | duru      |
-| Headland       | Can                        | kan       |
-| Heap of stones | Cairn                      | kam       |
-| Height         | Ard                        | ard       |
-| Hill           | Cnoc                       | knoc      |
 
-Hollow House Island Lake, Fjord Meadow Monastic Cell Moor Mound Mountain Narrow Valley Narrows Pass Pile Plain Reef Ridge River River Mouth Rock Rough Rounded Hill sea Sea Port Skerry Sloping Plain Stone Strait Tide Town Tree Village Water Wave North, Left South, Right East, Front West, Back 
+| English Word   | Gaelic            | Pronunciation      |
+| ---------------- | ------------------- | -------------------- |
+| Bare Spot      | Mal, Mel          | mal                |
+| Battlefield    | Blair             | blare              |
+| Bridge         | Drochaid, Drochit | droch-aj, droch-et |
+| Broad Valley   | Strath            | stra               |
+| Cape           | Mal, Mel          | mal                |
+| Castle         | Caisteal          | KASH-tyal          |
+| Church         | Kil               | kil                |
+| City           | Baile Mor         | balu mor           |
+| Cliff          | Creag             | creg               |
+| Enclosure      | Gart              | gart               |
+| Field          | Auch, Ach, Dal    | ach, dahl          |
+| Forest         | Coille            | culu               |
+| Fort           | Rath, Dun         | ray, dun           |
+| Grove          | Doire             | duru               |
+| Headland       | Can               | kan                |
+| Heap of stones | Cairn             | kam                |
+| Height         | Ard               | ard                |
+| Hill           | Cnoc              | knoc               |
+
+Hollow House Island Lake, Fjord Meadow Monastic Cell Moor Mound Mountain Narrow Valley Narrows Pass Pile Plain Reef Ridge River River Mouth Rock Rough Rounded Hill sea Sea Port Skerry Sloping Plain Stone Strait Tide Town Tree Village Water Wave North, Left South, Right East, Front West, Back
 
 Corrie Tigh Eilan Loch Lon, Dal, Innis Kil Monadh Tom Beinn (ben) Glen Kyle Bealach Cruach Blair Sgeir Druim Abhainn Inbhir, Inver, Aber inver, aber Creag Garbh Mam Muir Baile Puert Sgeir Learg Clach (clack) Col, Kyle Sruth Baile Craobh Clachan Esk Tonn Tuath Deas Ear lar
 
 korry toy elan lock lon, dal, inis kill MON-u tom beyn glenn kile BYAL-uch kruach blar sker drum avin kreg garv mam moor balu pert sker lerg klach kol, kile SIOO balu kruv klachan esk toun too-u jes er ee-ur
 
-
-
-
 ### The Sky
 
+
 | English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
+| -------------- | -------- | --------------- |
 
 Moon Star Wind Cloud Rain Storm Sky
 Grian Gealach Reul Goath Neul Frasacd Doirionn Speur
 grean gyal-uch reel gu neel fras-achc durun speer
 
-
 ### The Calendar
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
 
-Year 
-Season Day Hour Monday Tuesday Wednesday 
-Trath Latha Uair Di-luain Di-miart Di-ciadoain 
+| English Word | Gaelic | Pronunciation |
+| -------------- | -------- | --------------- |
+
+Year
+Season Day Hour Monday Tuesday Wednesday
+Trath Latha Uair Di-luain Di-miart Di-ciadoain
 tray la-u na-ir ji-luan ji-mayrst ji-ciadin
 
 Thursday Friday Saturday Sunday January February March April May June July August September October November December Spring Summer Fall Winter
 
-Dior-daoin Di-h-aoine Di-sathuirne Di-domhnaich Am Faoilteach An Gearran Am Mart An Giblin An Ceitean An t-Og-mhios An t-Iuchar An Lunasdal An t-Sultuine An Damhar An t-Samhain An Dudlachd Earrach Samhradh Foghear Geamhradh 
+Dior-daoin Di-h-aoine Di-sathuirne Di-domhnaich Am Faoilteach An Gearran Am Mart An Giblin An Ceitean An t-Og-mhios An t-Iuchar An Lunasdal An t-Sultuine An Damhar An t-Samhain An Dudlachd Earrach Samhradh Foghear Geamhradh
 
-JEERR-din ji-hunu ji-sahurn ji-donach am fultach an gyarran amart an geeblen an keechen an tog veeus an tyoochir an LOON-usd-al an doodlachk er-ach sav-ra fu-ur gev-ra 
+JEERR-din ji-hunu ji-sahurn ji-donach am fultach an gyarran amart an geeblen an keechen an tog veeus an tyoochir an LOON-usd-al an doodlachk er-ach sav-ra fu-ur gev-ra
 
 ### People
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
 
-Man Wife, Woman Gentleman Old Man 
+| English Word | Gaelic | Pronunciation |
+| -------------- | -------- | --------------- |
+
+Man Wife, Woman Gentleman Old Man
 Fear Bean Duine Bodach
 fer ben doonu bo-doch
 
@@ -5997,127 +5680,128 @@ keluch ogunuch oyu klan gillu kal-ag nooyen mak nik pioo-UR bray-her
 ### Occupations
 
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-|High King |Ard Ri|ard ree|
-|King |Righ|ree|
-|Great Lord |Mor Maer|mor mer|
-|Lord |Morair|morer|
-|Chief of Clan |Ceann Cath|kyann ka|
-|Knight |Ridire|reediru|
-|Guard |Freiceadann|freicudan|
-|Blacksmith |Gobha|go-u|
-|Harper |Clarsair|klar-ser|
-|Horseman |Marcaiche|mark-ich-u|
-|Hunter |Sealgair|shalgir|
-|Magician (Druid) |Druidh|druy|
-|Magician (Caster) |Geasadair|ges-ader|
-|Messenger |Teachdaire|techk iru|
-|Monk |Manach|manuch|
-|Piper |Piobaire|peebiru|
-|Poet |Bard|bard|
-| Priest           | Sagart      | sagurt      |
-| Sailor           | Maraiche    | mar-ich     |
-| Scholar          | Sgoilear    | scoler      |
-| servant          | Serbhanta   | sharvant    |
-| Singer           | Seinneadair | sheyn-u-der |
-| Slave            | Traill      | trail       |
-| Stonemason       | Clachair    | klach-er    |
-| Storyteller      | Seanachie   | shenuchy    |
-| Teacher          | Olamh       | oll-uv      |
-| Warrior          | Laoch       | lach        |
-| God              | Dia         | jia         |
-| Satan, The Devil | Diabhol     | jia-vul     |
-| Saint            | Naomh       | noov        |
-| Angel            | Aingeal     | ENG-ul      |
-
+| English Word      | Gaelic      | Pronunciation |
+| ------------------- | ------------- | --------------- |
+| High King         | Ard Ri      | ard ree       |
+| King              | Righ        | ree           |
+| Great Lord        | Mor Maer    | mor mer       |
+| Lord              | Morair      | morer         |
+| Chief of Clan     | Ceann Cath  | kyann ka      |
+| Knight            | Ridire      | reediru       |
+| Guard             | Freiceadann | freicudan     |
+| Blacksmith        | Gobha       | go-u          |
+| Harper            | Clarsair    | klar-ser      |
+| Horseman          | Marcaiche   | mark-ich-u    |
+| Hunter            | Sealgair    | shalgir       |
+| Magician (Druid)  | Druidh      | druy          |
+| Magician (Caster) | Geasadair   | ges-ader      |
+| Messenger         | Teachdaire  | techk iru     |
+| Monk              | Manach      | manuch        |
+| Piper             | Piobaire    | peebiru       |
+| Poet              | Bard        | bard          |
+| Priest            | Sagart      | sagurt        |
+| Sailor            | Maraiche    | mar-ich       |
+| Scholar           | Sgoilear    | scoler        |
+| servant           | Serbhanta   | sharvant      |
+| Singer            | Seinneadair | sheyn-u-der   |
+| Slave             | Traill      | trail         |
+| Stonemason        | Clachair    | klach-er      |
+| Storyteller       | Seanachie   | shenuchy      |
+| Teacher           | Olamh       | oll-uv        |
+| Warrior           | Laoch       | lach          |
+| God               | Dia         | jia           |
+| Satan, The Devil  | Diabhol     | jia-vul       |
+| Saint             | Naomh       | noov          |
+| Angel             | Aingeal     | ENG-ul        |
 
 ### Adjectives
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Angry       | Fearg       | ferg         |
-| Big         | Mor         | mor          |
-| Brave       | Treun       | treen        |
-| Cold        | Fuar        | foo-ur       |
-| Handsome    | Pearsanta   | pers-annt-u  |
-| Happy       | Toilitchte  | to-licht-u   |
-| High        | Ard         | ard          |
-| Honest      | Firinneach  | fear-unn-uch |
-| Hot         | Teth        | te           |
-| Long        | Fada        | fada         |
-| Monster     | Uile-bheist | oolu-vest    |
-| Old         | Sean        | shen         |
-| Sad         | Bronach     | bronach      |
-| Savage      | Garg        | garg         |
-| Short       | Goirid      | gurij        |
-| Silent      | Samhach     | sav-uch      |
-| Slovenly    | Rapach      | rapuch       |
-| Slow        | Mall        | maul         |
-| Small       | Beg         | beg          |
-| Surly       | largalt     | iur-galt     |
-| Timid       | Meata       | metu         |
-| True        | Fior        | feer         |
-| Young       | Og          | og           |
-| Color       | Dath        | da           |
-| Black       | Dubh        | doo          |
-| Blue | Gorm | gorm |
-| Brown | Donne | doun |
-| Greeb | Uaine | ua-niu |
-| Grey | Glas | glas |
-| Red | Dearge, Ruadh | jarg, roo |
-| Speckled | Breac | breek |
-| White | Ban | ban |
-| Yellow | Buidhe | booyu |
 
+| English Word | Gaelic        | Pronunciation |
+| -------------- | --------------- | --------------- |
+| Angry        | Fearg         | ferg          |
+| Big          | Mor           | mor           |
+| Brave        | Treun         | treen         |
+| Cold         | Fuar          | foo-ur        |
+| Handsome     | Pearsanta     | pers-annt-u   |
+| Happy        | Toilitchte    | to-licht-u    |
+| High         | Ard           | ard           |
+| Honest       | Firinneach    | fear-unn-uch  |
+| Hot          | Teth          | te            |
+| Long         | Fada          | fada          |
+| Monster      | Uile-bheist   | oolu-vest     |
+| Old          | Sean          | shen          |
+| Sad          | Bronach       | bronach       |
+| Savage       | Garg          | garg          |
+| Short        | Goirid        | gurij         |
+| Silent       | Samhach       | sav-uch       |
+| Slovenly     | Rapach        | rapuch        |
+| Slow         | Mall          | maul          |
+| Small        | Beg           | beg           |
+| Surly        | largalt       | iur-galt      |
+| Timid        | Meata         | metu          |
+| True         | Fior          | feer          |
+| Young        | Og            | og            |
+| Color        | Dath          | da            |
+| Black        | Dubh          | doo           |
+| Blue         | Gorm          | gorm          |
+| Brown        | Donne         | doun          |
+| Greeb        | Uaine         | ua-niu        |
+| Grey         | Glas          | glas          |
+| Red          | Dearge, Ruadh | jarg, roo     |
+| Speckled     | Breac         | breek         |
+| White        | Ban           | ban           |
+| Yellow       | Buidhe        | booyu         |
 
 ### Parts of the Body
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Head | Ceann   | kyann  |
-| Hair | Falt    | falt   |
-| Ear  | Cluas   | klooas |
-| Eye  | Suil    | sool   |
-| Chin | Smigead | smiged |
-| Mouth |Beul|biall|
-| Nose |Sron|sron|
-| Arm |Gairdean|gayrjen|
-| Finger |Meur|meer|
-| Thumb |Ordag|ordeg|
-| Hand |Lamh|lav|
-| Claw |Spog|spog|
-| Chest |Broilleach|bro-ilach|
-| Heart |Cridhe|kree|
-| Stomach |Goile|GUL-a|
-| Leg |Lurga|loorgu|
-| Knee |Gluin|gloon|
-| Foot |Cas|kos|
-| Skin |Craicean|cracun|
-| Skeleton |Taisean|tashun|
-| Bone |Cnaimh|kreev|
-| Skull |Claigionn|klycun|
+
+| English Word | Gaelic     | Pronunciation |
+| -------------- | ------------ | --------------- |
+| Head         | Ceann      | kyann         |
+| Hair         | Falt       | falt          |
+| Ear          | Cluas      | klooas        |
+| Eye          | Suil       | sool          |
+| Chin         | Smigead    | smiged        |
+| Mouth        | Beul       | biall         |
+| Nose         | Sron       | sron          |
+| Arm          | Gairdean   | gayrjen       |
+| Finger       | Meur       | meer          |
+| Thumb        | Ordag      | ordeg         |
+| Hand         | Lamh       | lav           |
+| Claw         | Spog       | spog          |
+| Chest        | Broilleach | bro-ilach     |
+| Heart        | Cridhe     | kree          |
+| Stomach      | Goile      | GUL-a         |
+| Leg          | Lurga      | loorgu        |
+| Knee         | Gluin      | gloon         |
+| Foot         | Cas        | kos           |
+| Skin         | Craicean   | cracun        |
+| Skeleton     | Taisean    | tashun        |
+| Bone         | Cnaimh     | kreev         |
+| Skull        | Claigionn  | klycun        |
 
 ### Clothing
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Cloak                    | Cleoc    | kloac    |
-| Coat                     | Cota     | kota     |
-| Hose                     | Briogais | brigis   |
-| Mantle, Irish Cloak      | Brat     | brat     |
-| Shirt                    | Leine    | leenu    |
-| Shoe                     | Brog     | brog     |
-| Shoes                    | Brogan   | brogan   |
-| Purse                    | Sporan   | sporan   |
-| Belt                     | Crios    | kris     |
-| Hat                      | Biorraid | byurr-aj |
 
+| English Word        | Gaelic   | Pronunciation |
+| --------------------- | ---------- | --------------- |
+| Cloak               | Cleoc    | kloac         |
+| Coat                | Cota     | kota          |
+| Hose                | Briogais | brigis        |
+| Mantle, Irish Cloak | Brat     | brat          |
+| Shirt               | Leine    | leenu         |
+| Shoe                | Brog     | brog          |
+| Shoes               | Brogan   | brogan        |
+| Purse               | Sporan   | sporan        |
+| Belt                | Crios    | kris          |
+| Hat                 | Biorraid | byurr-aj      |
 
 ### Materials
 
+
 | Clay           | Criadh  | kri-u  |
-|----------------|---------|--------|
+| ---------------- | --------- | -------- |
 | Wood           | Fiodh   | fi-ugh |
 | Gold           | Or      | or     |
 | Silver         | Airgead | ER-gud |
@@ -6127,136 +5811,136 @@ keluch ogunuch oyu klan gillu kal-ag nooyen mak nik pioo-UR bray-her
 | Linen          | Anart   | anart  |
 | Leather        | Leathar | le-hur |
 
-
 ### Countries and Foreigners
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Gaelic Language         | Gaidhlig      | gaelic      |
-| English Language        | Beurla        | biar-la     |
-| Latin Language          | Laidionn      | lajun       |
-| French Language         | Fraingeis     | FRENC-ish   |
-| Scotland                | Alban         | alban       |
-| Scot                    | Albanach      | alban-uch   |
-| Lowlands                | Galldach      | gaul-dach   |
-| Highlands               | Gaidhealtachd | gayal-tachk |
-| Highlander              | Gaidheal      | gayal       |
-| England                 | Sasunn        | sas-unn     |
-| Englishman              | Sasunnach     | SAS-unn-uch |
-| Ireland                 | Eire          | eru         |
-| Irishman                | Eirenach      | eir-an-ach  |
-| Norse Hebredean         | Fionghall     | fiun-yal    |
-| Norseman        | Lochlannach | loch-llan-uch |
-| France          | Fraing      | frenc         |
-| Frenchman       | Frangach    | frene-ach     |
-| Rome            | Roimh       | roo-eev       |
-| Roman           | Romanach    | romanuch      |
-| Roman Churchmar | 1Papanach   | papanuch      |
-| Foreigner       | Gall        | gaul          |
 
-
+| English Word     | Gaelic        | Pronunciation |
+| ------------------ | --------------- | --------------- |
+| Gaelic Language  | Gaidhlig      | gaelic        |
+| English Language | Beurla        | biar-la       |
+| Latin Language   | Laidionn      | lajun         |
+| French Language  | Fraingeis     | FRENC-ish     |
+| Scotland         | Alban         | alban         |
+| Scot             | Albanach      | alban-uch     |
+| Lowlands         | Galldach      | gaul-dach     |
+| Highlands        | Gaidhealtachd | gayal-tachk   |
+| Highlander       | Gaidheal      | gayal         |
+| England          | Sasunn        | sas-unn       |
+| Englishman       | Sasunnach     | SAS-unn-uch   |
+| Ireland          | Eire          | eru           |
+| Irishman         | Eirenach      | eir-an-ach    |
+| Norse Hebredean  | Fionghall     | fiun-yal      |
+| Norseman         | Lochlannach   | loch-llan-uch |
+| France           | Fraing        | frenc         |
+| Frenchman        | Frangach      | frene-ach     |
+| Rome             | Roimh         | roo-eev       |
+| Roman            | Romanach      | romanuch      |
+| Roman Churchmar  | 1Papanach     | papanuch      |
+| Foreigner        | Gall          | gaul          |
 
 ### Animals
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Badger      | Broc             | brok       |
-| Bird        | Eun              | en         |
-| Bull        | Tarbh            | tarv       |
-| Cat         | Cat              | kat        |
-| Cattle      | Crodh            | kro        |
-| Chicken     | Eireag           | erag       |
-| Cormorant   | Sgarbh           | scarv      |
-| Cow         | Во               | bo         |
-| Crow        | Feannag          | FYANN-ag   |
-| Dog         | Cu, Madadh       | koo, mad-  |
-| Duck        | Lach             | lac        |
-| Eagle       | Iolair           | yulir      |
-| Fairies     | Sith             | shee       |
-| Fairy       | Sitheach         | shee-uch   |
-| Fiend       | Deamhom          | joun       |
-| Fish        | Iasg             | iusg       |
-| Fox         | Madadh-ruadh     | mad-u roo  |
-| Hare        | Maigheach        | my-uch     |
-| Hawk        | Seabhag          | she-vug    |
-| Hoodie Crow | Starrag          | starreg    |
-| Horse       | Each             | eck        |
-| Mare        | Lair             | lar        |
-| Pig         | Muc              | muc        |
-| Rat         | Radan            | raden      |
-| Raven       | Fitheach         | FEE-uch    |
-| Roe Deer    | Earb             | erb        |
-| Rook        | Rocaise          | ro-cisu    |
-| Salmon      | Bradan           | bradan     |
-| Seagull     | Faoileag         | fuleg      |
-| Seal        | Ron              | ron        |
-| Serpent     | Nathair          | na-hir     |
-| Sheep       | Caora            | kooru      |
-| Spider      | Damhan-allaidh   | davan-alli |
-| Trout       | Breac            | breck      |
-| Whale       | Muc-Mhara        | muc-vara   |
-| Wolf        | Madadh-aillaidh, | mad-u alli |
-|             | MacTir           | makcheer   |
 
+| English Word | Gaelic           | Pronunciation |
+| -------------- | ------------------ | --------------- |
+| Badger       | Broc             | brok          |
+| Bird         | Eun              | en            |
+| Bull         | Tarbh            | tarv          |
+| Cat          | Cat              | kat           |
+| Cattle       | Crodh            | kro           |
+| Chicken      | Eireag           | erag          |
+| Cormorant    | Sgarbh           | scarv         |
+| Cow          | Во             | bo            |
+| Crow         | Feannag          | FYANN-ag      |
+| Dog          | Cu, Madadh       | koo, mad-     |
+| Duck         | Lach             | lac           |
+| Eagle        | Iolair           | yulir         |
+| Fairies      | Sith             | shee          |
+| Fairy        | Sitheach         | shee-uch      |
+| Fiend        | Deamhom          | joun          |
+| Fish         | Iasg             | iusg          |
+| Fox          | Madadh-ruadh     | mad-u roo     |
+| Hare         | Maigheach        | my-uch        |
+| Hawk         | Seabhag          | she-vug       |
+| Hoodie Crow  | Starrag          | starreg       |
+| Horse        | Each             | eck           |
+| Mare         | Lair             | lar           |
+| Pig          | Muc              | muc           |
+| Rat          | Radan            | raden         |
+| Raven        | Fitheach         | FEE-uch       |
+| Roe Deer     | Earb             | erb           |
+| Rook         | Rocaise          | ro-cisu       |
+| Salmon       | Bradan           | bradan        |
+| Seagull      | Faoileag         | fuleg         |
+| Seal         | Ron              | ron           |
+| Serpent      | Nathair          | na-hir        |
+| Sheep        | Caora            | kooru         |
+| Spider       | Damhan-allaidh   | davan-alli    |
+| Trout        | Breac            | breck         |
+| Whale        | Muc-Mhara        | muc-vara      |
+| Wolf         | Madadh-aillaidh, | mad-u alli    |
+|              | MacTir           | makcheer      |
 
 ### Instruments and Tools
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| Music                | Ceol        | kyoll       |
-| Harp                 | Clarsarch   | klar-soc    |
-| Bagpipes             | Piob        | peeb        |
-| Tune                 | Fonn        | foun        |
-| Mouth Music          | Port-a-beul | port-a-bial |
-| Drum                 | Bodhrain    | bo-ron      |
-| Arrow, Dart          | Saighead    | syud        |
-| Axe                  | Tuagh       | too-u       |
-| Battle Axe   | Olltuagh     | oll-too-u |
-| Bow          | Bogha        | bo-ha     |
-| Helmet       | Clogad       | klogad    |
-| Knife        | Sgiane       | sciun     |
-| Shield       | Sgiath       | sgiu      |
-| Sword        | Claidheamh   | clyiv     |
-| Scabbard     | Truaill      | troo-ul   |
-| Shinty Stick | Caman        | cayman    |
-| Scythe       | Speal        | spel      |
-| Ship         | Long         | loong     |
-| Plow         | Crann-arrain | kran-aren |
-| Footplow     | Cas-Chrom    | kos-krom  |
-| The Bible    | Piobull      | peebul    |
 
+| English Word | Gaelic       | Pronunciation |
+| -------------- | -------------- | --------------- |
+| Music        | Ceol         | kyoll         |
+| Harp         | Clarsarch    | klar-soc      |
+| Bagpipes     | Piob         | peeb          |
+| Tune         | Fonn         | foun          |
+| Mouth Music  | Port-a-beul  | port-a-bial   |
+| Drum         | Bodhrain     | bo-ron        |
+| Arrow, Dart  | Saighead     | syud          |
+| Axe          | Tuagh        | too-u         |
+| Battle Axe   | Olltuagh     | oll-too-u     |
+| Bow          | Bogha        | bo-ha         |
+| Helmet       | Clogad       | klogad        |
+| Knife        | Sgiane       | sciun         |
+| Shield       | Sgiath       | sgiu          |
+| Sword        | Claidheamh   | clyiv         |
+| Scabbard     | Truaill      | troo-ul       |
+| Shinty Stick | Caman        | cayman        |
+| Scythe       | Speal        | spel          |
+| Ship         | Long         | loong         |
+| Plow         | Crann-arrain | kran-aren     |
+| Footplow     | Cas-Chrom    | kos-krom      |
+| The Bible    | Piobull      | peebul        |
 
 ### Numbers
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
-| One   | Aon     | oon    |
-| Two   | Da      | da     |
-| Three | Tri     | tree   |
-| Four  | Ceithir | ke-hir |
-| Five  | Coig    | СО     |
-| Six   | Sia     | sheea  |
-| Seven | Seachd  | shachk |
-| Eight | Ochd    | ochk   |
-| Nine  | Naoi    | nooy   |
-| Ten   | Deich   | jech   |
+
+| English Word | Gaelic  | Pronunciation |
+| -------------- | --------- | --------------- |
+| One          | Aon     | oon           |
+| Two          | Da      | da            |
+| Three        | Tri     | tree          |
+| Four         | Ceithir | ke-hir        |
+| Five         | Coig    | СО          |
+| Six          | Sia     | sheea         |
+| Seven        | Seachd  | shachk        |
+| Eight        | Ochd    | ochk          |
+| Nine         | Naoi    | nooy          |
+| Ten          | Deich   | jech          |
 
 ### Hermetic Terms
 
-| English Word | Gaelic | Pronunciation |
-| ---- | ---- | ---- |
+
+| English Word | Gaelic                | Pronunciation |
+| -------------- | ----------------------- | --------------- |
 | Creo         | Cruthaich             | kroo-huch     |
-| Intéllego    | Fios                  | fis           |
+| Intéllego   | Fios                  | fis           |
 | Muto         | Atharraich            | ahurich       |
 | Perdo        | Sgrios                | scris         |
 | Rego         | Ceannseach            | kyan-sich     |
-| Animál       | Beatach               | be-huch       |
+| Animál      | Beatach               | be-huch       |
 | Aquam        | Uisge                 | ooshkoo       |
 | Auram        | Aile                  | aela          |
-| Córporem     | Corp                  | corp          |
+| Córporem    | Corp                  | corp          |
 | Herbam       | Lus                   | loos          |
 | Ignem        | Teine                 | tenu          |
-| Imágonem     | Iomhaigh              | eevay         |
+| Imágonem    | Iomhaigh              | eevay         |
 | Mentem       | Inntinn               | eentin        |
 | Terram       | Tir                   | teer          |
 | Vim          | Cumhachd              | koo-achk      |
@@ -6270,8 +5954,6 @@ keluch ogunuch oyu klan gillu kal-ag nooyen mak nik pioo-UR bray-her
 | Turb         | Buidhean (company)    | booyen        |
 | Spell, Magic | Geasadaireachd        | ges-ederuc    |
 | Spell, Magic | Druidheachd           | druyachc      |
-
-
 
 ## Mythic Scotland at a Glance circa 1220
 
@@ -6292,4 +5974,3 @@ keluch ogunuch oyu klan gillu kal-ag nooyen mak nik pioo-UR bray-her
 Redcap, is the only member of House Mercere who makes Scotland part of his route.
 
 **Magical People and Creatures:** Faeries, or sith (shee), are common in Scotland. Highland faeries are usually solitary, strange, and dangerous. The more tolerant and humanlike faeries commonly live in knowes (hollow hills) and enjoy going on rades (rides or processions). Gruagachan (GROO-uh-guk-an; singular: GROO-uh-guk) are magicians who hail from an ancient, non-Hermetic tradition. Wizards from the Order of Odin are found here in the northern Islands. Demons have accompanied the Norman and English immigrants, but they are still less common here than elsewhere in Mythic Europe. The further reaches of the Highlands are home to giants, and a form of water wyrm known as the stoorworm lives in the seas off the north coast. Monsters hide in the depths of the lochs (lakes) and waterways.
-

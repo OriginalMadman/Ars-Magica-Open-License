@@ -1,10 +1,11 @@
 # Ars Magica Definitive Edition
+The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
+*[Completion state: Chapters 1-4 text manually fixed and reviewed, headings fixed. Remaining: Chapter 5+]*
+
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
-
-
 
 ## Step into a Medieval World of Magic & Myth
 
@@ -13,7 +14,6 @@ In Ars Magica, the superstitions of the common folk are all true. Faeries drink 
 Step into this magical medieval world as a powerful magus of the Order of Hermes, as their talented companion, or as a loyal grog who protects them.
 
 The Definitive Edition of the award-winning Ars Magica RPG is the ultimate roleplaying experience. It's a heavily expanded version of the Fifth Edition core rulebook.
-
 
 ## Credits
 
@@ -87,14 +87,11 @@ Ars Magica players participate in a vibrant fan community on discussion forums h
 
 ## ATLAS-GAMES.COM/ARSMAGICA
 
-
 ISBN: 978-1-58978-251-8
 
 Made of FSC®-certified paper that was responsibly sourced.
 
-
 ## Memorials
-
 
 Spanning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars
 
@@ -232,79 +229,75 @@ Jonathan Tweet
 Ars Magica Co-Creator
 December 2024
 
-
 ## Table of Illustrations
 
+
 | Dave Allsop       538         John Cobb       210, 415         Christian Bravery       52         Liz Danforth       31, 33, 115, 265         Thomas Denmark       153-154, 200, 222         Jaume Fabregat       445, 446, 447, 448, 449, 457, 458, 463, | DOMINIC REARDON       106, 237, 278, 410         J. SCOTT REEVES       79, 436, 491         ADAM REX       89, 246         JOHN SCOTELLO       114, 231, 517         PAM SHANTEAU       234         DOUG SHULER       1-2, 4, 26, 39, 59-60, 155-156, 201-202,                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 466, 473, 474, 480, 491  ERIC HOTZ                                                                                                                                                                                                                        | 247-248, 299-300, 312, 373-374, 380, 423-424, 513  MARK "JOCK" SIMPSON 286, 321, 330, 529  CHRISTIAN St. PIERRE 174, 204, 289, 302, 313, 328, 350, 358, 364, 396, 417, 516  GREY THORNBERRY 5, 10, 22, 37, 38, 39, 40, 41, 42, 43, 58, 88, 97, 108, 112, 127, 129, 133, 142, 144, 149, 160, 177, 216, 229, 250, 261, 269, 338, |
 | ENEKO MENICA 493-494  EMILIA NEPHEW 427, 429, 431, 433, 434, 435, 446, 457, 461, 464, 465, 467, 468, 469, 470, 471, 472, 485, 486, 487, 492  JOSEPHINE NEPHEW 92, 443, 452, 453, 455, 456                                                                 | 347, 348, 351, 362, 377, 403, 419, 489, 498, 507, 522, 525  BRYON WACKWITZ 62  MICHAEL WEAVER 158, 170, 180, 187  KATHERINE WYMAN 430, 432, 459  UNSIGNED 70, 295, 306, 329, 336, 340, 356                                                                                                                                     |
 
 ### Public Domain Artworks
 
-|                                                  |                                                              |
-| ------------------------------------------------ | ------------------------------------------------------------ |
-| ALBERTINA COLLECTIONS ONLINE                     | 74, 196, 224, 334, 499                                       |
-| Belles Heures, The Limbourg Brothers             | 9, 104, 203, 249, 281, 301, 327, 375                         |
-| BOOK OF HOURS, SIMON BENING                      | 182, 495                                                     |
-| CLOISTERS APOCALYPSE                             | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535 |
-| Dante's Commedia                                 | 535                                                          |
-| DER NATUREN BLOEME, JACOB VAN MAERLANT           | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568 |
-| Dover Celtic Design Archive                      | 34, 65, 66, 171, 173, 176, 184, 191, 208, 241, 257, 276, 345, 359, 389, 397, 441, 451, 484, 495, 511, 514 |
-| Jean Fouquet                                     | 409                                                          |
-| MASTER OF CATHERINE OF CLEVES, LIEVEN VAN LATHEM | 426                                                          |
-| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS       | 501                                                          |
-| More Beasts                                      | 256, 556, 557                                                |
-| New York Public Library Digital Collections      | 3, 25, 61, 534                                               |
-| THE UNICORN TAPESTRIES                           | 425, 526, 568                                                |
-| Wikimedia Commons                                | 96, 119, 252, 308, 392, 463, 505                             |
-| Various Sources                                  | 135, 159, 186, 257, 298, 316, 324, 361, 398                  |
 
+|                                                  |                                                                                                           |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| ALBERTINA COLLECTIONS ONLINE                     | 74, 196, 224, 334, 499                                                                                    |
+| Belles Heures, The Limbourg Brothers             | 9, 104, 203, 249, 281, 301, 327, 375                                                                      |
+| BOOK OF HOURS, SIMON BENING                      | 182, 495                                                                                                  |
+| CLOISTERS APOCALYPSE                             | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535                          |
+| Dante's Commedia                                 | 535                                                                                                       |
+| DER NATUREN BLOEME, JACOB VAN MAERLANT           | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568                                           |
+| Dover Celtic Design Archive                      | 34, 65, 66, 171, 173, 176, 184, 191, 208, 241, 257, 276, 345, 359, 389, 397, 441, 451, 484, 495, 511, 514 |
+| Jean Fouquet                                     | 409                                                                                                       |
+| MASTER OF CATHERINE OF CLEVES, LIEVEN VAN LATHEM | 426                                                                                                       |
+| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS       | 501                                                                                                       |
+| More Beasts                                      | 256, 556, 557                                                                                             |
+| New York Public Library Digital Collections      | 3, 25, 61, 534                                                                                            |
+| THE UNICORN TAPESTRIES                           | 425, 526, 568                                                                                             |
+| Wikimedia Commons                                | 96, 119, 252, 308, 392, 463, 505                                                                          |
+| Various Sources                                  | 135, 159, 186, 257, 298, 316, 324, 361, 398                                                               |
 
 ## Table of Contents
 
-| ii   | Credits                         | 423  | CHAPTER 13: Bestiary                        |
-| ---- | ------------------------------- | ---- | ------------------------------------------- |
-| iv   | Memorials                       | 493  |                                             |
-| V    | Preface                         |      | Mythic Europe                               |
-| vi   | Table of Illustrations          | 495  | Chapter 14: Mythic Europe                   |
-| 1    | Chapter 1: Introduction         | 515  | CHAPTER 15:  STORIES                        |
-| 9    | Chapter 2: Order of Hermes      | 523  | CHAPTER 16: SAGAS                           |
-| 25   | CHAPTER 3: CHARACTERS           | 535  | Appendix A: Editor's Note                   |
-| 59   | Chapter 4:<br>Virtues & Flaws   | 536  | APPENDIX B: ARS MAGICA                      |
-| 155  | CHAPTER 5:<br>ABILITIES         | 527  | OPEN LICENSE                                |
-| 173  | CHAPTER 6: COVENANTS            | 33/  | APPENDIX C:<br>FOURTH EDITION<br>CONVERSION |
-| 201  | Chapter 7: Hermetic Magic       | 539  | Appendix D: Reference Guide                 |
-| 247  | Chapter 8:<br>Laboratory        | 553  | APPENDIX E:<br>SPELL INDEX                  |
-| 299  | CHAPTER 9:<br>Spells            | 557  | Appendix F: Bestiary Index                  |
-| 373  | Chapter 10:<br>Long-Term Events | 558  | Appendix G:<br>Traditional Index            |
-| 393  | CHAPTER 11:                     | 569  | Appendix H:<br>Character Sheet              |
-| 409  | OBSTACLES CHAPTER 12: REALMS    | 573  | APPENDIX I: FIFTH EDITION LINE              |
 
+| ii  | Credits                         | 423 | CHAPTER 13: Bestiary                        |
+| ----- | --------------------------------- | ----- | --------------------------------------------- |
+| iv  | Memorials                       | 493 |                                             |
+| V   | Preface                         |     | Mythic Europe                               |
+| vi  | Table of Illustrations          | 495 | Chapter 14: Mythic Europe                   |
+| 1   | Chapter 1: Introduction         | 515 | CHAPTER 15:  STORIES                        |
+| 9   | Chapter 2: Order of Hermes      | 523 | CHAPTER 16: SAGAS                           |
+| 25  | CHAPTER 3: CHARACTERS           | 535 | Appendix A: Editor's Note                   |
+| 59  | Chapter 4:<br>Virtues & Flaws   | 536 | APPENDIX B: ARS MAGICA                      |
+| 155 | CHAPTER 5:<br>ABILITIES         | 527 | OPEN LICENSE                                |
+| 173 | CHAPTER 6: COVENANTS            | 33/ | APPENDIX C:<br>FOURTH EDITION<br>CONVERSION |
+| 201 | Chapter 7: Hermetic Magic       | 539 | Appendix D: Reference Guide                 |
+| 247 | Chapter 8:<br>Laboratory        | 553 | APPENDIX E:<br>SPELL INDEX                  |
+| 299 | CHAPTER 9:<br>Spells            | 557 | Appendix F: Bestiary Index                  |
+| 373 | Chapter 10:<br>Long-Term Events | 558 | Appendix G:<br>Traditional Index            |
+| 393 | CHAPTER 11:                     | 569 | Appendix H:<br>Character Sheet              |
+| 409 | OBSTACLES CHAPTER 12: REALMS    | 573 | APPENDIX I: FIFTH EDITION LINE              |
 
-
-> *A flash of bronze scales against a* 
-> *cerulean sky! Its shadow has been* 
-> *our fleeting companion for days,* 
-> *but now the monstrous creature* 
-> *descends upon our small band.* 
-> *Our magus’s eyes blaze with arcane power,* 
-> *our sturdy grog grips his sword, and I keep* 
-> *my arrow nocked and at the ready. The* 
-> *distant covenant, perched high in the soaring* 
-> *heights of the far mountainside, watches* 
-> *over our perilous journey, as church bells* 
-> *call out a warning from below. A desperate* 
-> *message secreted in my bag must reach its* 
-> *destination before nightfall! Our journey has* 
-> *only just begun, through this land of myth* 
-> *and magic, where the mundane world fades* 
+> *A flash of bronze scales against a*
+> *cerulean sky! Its shadow has been*
+> *our fleeting companion for days,*
+> *but now the monstrous creature*
+> *descends upon our small band.*
+> *Our magus’s eyes blaze with arcane power,*
+> *our sturdy grog grips his sword, and I keep*
+> *my arrow nocked and at the ready. The*
+> *distant covenant, perched high in the soaring*
+> *heights of the far mountainside, watches*
+> *over our perilous journey, as church bells*
+> *call out a warning from below. A desperate*
+> *message secreted in my bag must reach its*
+> *destination before nightfall! Our journey has*
+> *only just begun, through this land of myth*
+> *and magic, where the mundane world fades*
 > *into the embrace of legend.*
 
-
-
 # I. Introduction
-
 
 On the day the faeries came to burn the village, Walter was repairing the thatch on his roof. As he worked, he kept half an eye on the strangers who had
 
@@ -330,7 +323,6 @@ Walter did not feel like arguing, and ran to the church, shouting that the faeri
 
 ## Welcome to Ars Magica
 
-
 Dragons lair in the mountains, angels watch over the Church, faeries dance in the forests, and demons tempt men and women to their ultimate downfall. The magi of the Order of Hermes live in a world of mythic power, the world of Mythic Europe. Welcome to that world.
 
 Ars Magica is a roleplaying game, wherein you and your friends tell the stories of a group of powerful wizards, magi of the Order of Hermes, and their allies in the world of Mythic Europe. Mythic Europe is much like the Europe of 1220, the middle ages, but dragons, demons, angels, and faeries are all unquestionably real, and no aspect of society is untouched by myth.
@@ -340,7 +332,6 @@ Ars Magica is a game about magic, and its rules for magic are widely regarded as
 This book is the core rulebook for the Fifth Edition of Ars Magica. Some of you will have played previous editions of the game, and will find much here that is familiar, although improved. For others, this is your first encounter with Ars Magica, so everything will be new and wonderful.
 
 ## Basic Ideas
-
 
 In many ways, Ars Magica is very similar to most other tabletop, or pen-and-paper, roleplaying games. Players have characters, who are
 
@@ -407,7 +398,6 @@ maga/magus: A member of the Order of Hermes who can use Hermetic magic. Used by 
 > #### Rounding
 >
 > The rules for Ars Magica sometimes involve division. In most cases, a rule specifies whether you should round up or down, but if it does not, round down.
->
 
 Magic: One of the four supernatural realms. Magical creatures often do not care one way or the other about humans.
 
@@ -436,15 +426,11 @@ Spontaneous magic: Magic created by a magus on the spur of the moment, to meet a
 Trianoma: The maga who met Bonisagus soon after he invented the Parma Magica. She took on the political mission of bringing Europe's wizards together in a single Order.
 
 1) One of the thirteen areas into which the Order of Hermes divides Mythic Europe.
-
 2) The meetings of the magi in one of those areas, normally held once every seven years.
 
 Vis: Raw magic. The most valuable thing to most magi.
 
-
-
 ## Die Rolls
-
 
 The success or failure of most actions in an **Ars Magica** story is determined by rolling dice. For non-magical actions, the roll is normally Characteristic + Ability
 
@@ -470,11 +456,12 @@ For example, consider a character with a Characteristic + Ability total of 9 mak
 
 ## Stress Die
 
-| Initial Roll | Result                                                       |
-| ------------ | ------------------------------------------------------------ |
+
+| Initial Roll | Result                                                                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0            | Check for a botch. No zeros on botch dice: No botch, die roll is 0. One or more zeros on botch dice: Botch. Total is no higher than 0, and something bad happens. |
-| 1            | Re-roll, doubling the result. Zeros count as ten. If more ones are rolled, continue re-rolling and doubling. |
-| 2-9          | Die roll result is the number showing on the die.            |
+| 1            | Re-roll, doubling the result. Zeros count as ten. If more ones are rolled, continue re-rolling and doubling.                                                      |
+| 2-9          | Die roll result is the number showing on the die.                                                                                                                 |
 
 If the roll comes up 6, he has a total of 15, 9 from the Characteristic + Ability total, plus 6 from the die roll.
 
@@ -498,8 +485,9 @@ For example, consider the character climbing a crumbling cliff in a high wind. I
 
 ## Botch Dice
 
+
 | Number<br>of Botch<br>Dice | CHANCE<br>OF BOTCH | Example Situation                                                                                                                                         |
-|----------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                          | 1%                 | Good conditions; the default number of botch dice.                                                                                                        |
 | 2                          | 1.9%               | Running through undergrowth.                                                                                                                              |
 | 3                          | 2.7%               | Climbing a crumbling cliff in a high wind.                                                                                                                |
@@ -513,24 +501,22 @@ For example, consider the character climbing a crumbling cliff in a high wind. I
 
 ## Ease Factor
 
-| Ease Factor | Difficulty                                                   |
-| ----------- | ------------------------------------------------------------ |
-| 0           | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for. |
-| 3           | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success. |
-| 6           | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail. |
-| 9           | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success. |
-| 12          | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time. |
+
+| Ease Factor | Difficulty                                                                                                                                                                                              |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0           | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for.                                                                                       |
+| 3           | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success.                                                       |
+| 6           | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail.                                                                        |
+| 9           | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success.        |
+| 12          | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time.                                      |
 | 15          | Very Hard. Even moderate skill gives almost no chance of success. Skilled and talented characters fail about half the time, but very skilled, highly talented characters succeed about 70% of the time. |
-| 18          | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance. |
-| 21          | Remarkable. Very skilled, highly talented characters only succeed occasionally. |
-| 24+         | Almost impossible. The greatest masters of a skill succeed when they get lucky. |
+| 18          | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance.                                                                               |
+| 21          | Remarkable. Very skilled, highly talented characters only succeed occasionally.                                                                                                                         |
+| 24+         | Almost impossible. The greatest masters of a skill succeed when they get lucky.                                                                                                                         |
 
 Notes: An average character has a score of 0 in the relevant Characteristic, while a highly talented character has a score of +3. Moderate skill is a score of 3 in an Ability, 'Skilled' means a score of 6, and 'Very Skilled' means 9.
 
-
-
 # II. The Order of Hermes
-
 
 The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200
 
@@ -571,7 +557,6 @@ The result of these studies was Bonisagus's second great discovery, the theory o
 ## The Houses of Hermes
 
 The first magi of the Order are always referred to as the Twelve Founders, for all that there were thirteen magi at the first Tribunal. Trianoma refused to put herself on an equal footing with Bonisagus, or the other magi she had brought to him, an astute political move that left her free to mediate power struggles rather than being drawn into them. Each of the Twelve Founders established a House. The current House Ex Miscellanea was founded later in the Order's history, and in the beginning House Diedne made up the complement. House Diedne were bound together by their adherence to an
-
 
 ancient pagan religion, which they soon came to dominate completely.
 
@@ -625,17 +610,13 @@ Since the Schism War, the Order has existed in a state of relative peace and co-
 
 # The Houses of Hermes
 
-
 The Order of Hermes is divided into twelve Houses, all but Ex Miscellanea descended in some way from one of the Twelve Founders. This section provides a brief overview of the Houses, but it is important to remember that individuals within a House can vary widely.
 
 The twelve Houses fall into three groups. Four (Bonisagus, Guernicus, Mercere, and Tremere) are true lineages, made up of those trained by someone trained by someone (etc) trained by the founder of the House. It is not possible to join those Houses later. These Houses are described in the supplement Houses of Hermes: True Lineages. Four (Biornaer, Criamon, Merinita, and Verditius) are Mystery Cults, and magi can join those Houses by being initiated into the cult. Such initiations teach the Outer Mystery of the cult, the only cult ability that is not kept largely secret. Their secret Mysteries, and much more detail of the Houses, are detailed in Houses of Hermes: Mystery Cults. The last four (Ex Miscellanea, Flambeau, Jerbiton, and Tytalus) are gatherings of magi with common interests. It is relatively easy to join these Houses after training, and magi who feel that they do not fit in to their old Houses often do. Ex Miscellanea, in particular, will take anyone with The Gift, a smattering of Latin and Magic Theory, and the ability to raise a Parma Magica — and many members will teach the last three to potential recruits. The interests and activities of these Houses are discussed in Houses of Hermes: Societates.
 
 It is only possible to be a member of one House at a time.
 
-
-
 ## House Bjornaer
-
 
 Magi of Bjornaer (BYORE-nayr) concern themselves primarily with beasts and the animalistic side of human nature. Because of this emphasis in their training, each Bjornaer magus can take the form of an animal, known as his "heartbeast." Understanding the heartbeast in particular and animals in general is considered more important than Hermetic magic by many in this House. Despite this close association with shapeshifting, Bjornaer magi avoid any kind of shapeshifting other than their heartbeast, and have hostile relations with some other shapeshifters, for reasons that other magi do not fully understand.
 
@@ -649,13 +630,11 @@ This House is a Mystery Cult, and the ability to take the form of the heartbeast
 
 ## House Bonisagus
 
-
 House Bonisagus is split into two strands, the political and the theoretical. Theoretical Bonisagus magi concentrate on pushing back the boundaries of Hermetic magic, and are the undisputed masters of Magic Theory. Political Bonisagus magi, often called 'magi Trianomae', concentrate on keeping the Order together, and excel at politics.
 
 The current Prima is Archmaga Murion, a consummate politician, who resides at Durenmar in the Rhine Tribunal (see Guardians of the Forests, page 51). The House typically remembers its researchers better than its politicians: figures such as Notatus, the first Primus, who created the Aegis of the Hearth, and Conciatta, who extended Hermetic magic to directly affect the other supernatural powers (Divine, Faerie, and Infernal) (see Legends of Hermes, Chapter Two). Among contemporary members, Archmagus Relisius is well-known for his Christian faith and advocacy of harmony between Magic and the Divine (see Tales of Power, Chapter Four: Encroaching Dominion).
 
 ## House Criamon
-
 
 This very secretive House is known for its obscure philosophy, its disdain for simple power, and its members' habit of marking their faces and bodies with arcane symbols. Followers of Criamon (KREE-ah-mone) are an enigmatic and otherworldly group of magi, generally having little interest in the politics of the Order.
 
@@ -669,7 +648,6 @@ This House is a Mystery Cult, and the Mystery at the heart of the cult is the En
 
 ## House Ex Miscellanea
 
-
 This is a large, diverse, and highly disorganized collection of magi. Though originally founded by Pralix as a rival to the Order of Hermes, this association was accepted as a House of its own. It accepts wizards of all kinds, some only nominally Hermetic, whose magic comes from many disparate traditions. Magi Ex Miscellanea (EKS mis-kel-LAH-nav-ah) are often called hedge wizards by their many detractors within the Order, although most can use Hermetic magic just as well as any other magus.
 
 Magi of Ex Miscellanea have very little in common, belonging to many different traditions within the House. each tradition having its own strengths and weaknesses. Many of these traditions are described in more detail in Houses of Hermes: Societates.
@@ -682,7 +660,6 @@ Most magi would be hard-pressed to name any magus Ex Miscellanea they did not kn
 
 ## House Flambeau
 
-
 While most followers of Flambeau (flahm-BOH) specialize in fire magic, some study spells of simple annihilation as a more subtle alternative. Flambeau the Founder was known for his mastery of fire. while his apprentice, and the first Primus, Apromor, favored Perdo. Thus, both of these traditions are respected within the House. These aggressive and ferocious magi often cause trouble within the Order and frequently anger mundanes. However, their fearlessness and love of destruction make them invaluable when the Order requires the application of martial force.
 
 House Flambeau is a gathering of kindred spirits. While most followers of Flambeau believe in direct action and combat, there is also a strong tradition of honor and chivalry in the House, making them in many ways the Order's knights. This is particularly true under the current Primus, Garus, who leads the House from its domus magna of Castra Solis in the Provençal Tribunal (see Faith & Flame, page 67). The House's original domus magna was Val Negra, also in the Provençal Tribunal, but it has been lost in a regio for decades, if not centuries. Flambeau's second apprentice, Elaine, carried on his tradition of fire magic, and served as a Hoplite (see House Guernicus, next). She was also an important scholar and author, and wrote several texts that are still important today, including Ars Flambonis, a summa on Ignem (level 14, quality 12) that is peppered with anecdotes of the Founder and particularly popular within the House.
@@ -690,7 +667,6 @@ House Flambeau is a gathering of kindred spirits. While most followers of Flambe
 Among its contemporary members, the Archmaga Geirlaug of Montverte covenant in the Normandy Tribunal is particularly notable, as much for her great age as her great power. She is rarely seen outside her tower these days, but is a master of Ignem and still has a firm grip on the direction of her covenant (see The Lion and The Lily, page 58).
 
 ## House Guernicus
-
 
 House Guernicus (GWAIR-neekuss) is a true lineage, all its members descended from Guernicus the Founder, who believed that the Order needed strictly enforced rules if it was to survive. Members of this House are the judges of the Order, investigating wrongdoing and bringing cases against those who transgress the Code of Hermes and the Peripheral Code. They believe the Order will collapse through internal conflict without their fierce stewardship. The House is sometimes known informally as House Quaesitor (KWAEsee-tor), as 'Quaesitor' is the title of those magi empowered by the Order to investigate crimes.
 
@@ -746,7 +722,6 @@ House Merinita is a Mystery Cult, and magi of Merinita are all initiated into th
 
 ## House Tremere
 
-
 Members of House Tremere (trav-MARE-av or trav-MARE) emphasize the importance of judgment, strategy, and detailed planning. They believe in respect for superiors and in asserting authority over minions. Dignity is of the utmost concern.
 
 House Tremere is considered one of the more sensible and stable Houses, providing strength and courage when needed and refraining from action when peace better serves the Order.
@@ -759,10 +734,7 @@ hold his own sigil. As a result of this custom, House Tremere's votes are concen
 
 The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see Against the Dark, page 21). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see Against the Dark, page 30). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see Guardians of the Forests, page 84).
 
-
-
 ## House Tytalus
-
 
 The philosophy of Tytalus (TIE-tah-loos) magi is to master all forms of conflict. To this end, they promote innovation in all sorts of contests. They do not feel alive unless they are in a constant state of struggle, perpetually testing the strengths and weaknesses of others.
 
@@ -771,7 +743,6 @@ House Tytalus is almost the opposite of House Tremere. Where the Tremere believe
 In their never-ending search for conflict, the leaders of House Tytalus went too far in the 10th century, falling prey to demonic machinations. Those masters of intrigue arrogantly believed they could master the dark forces, but despite their skill, were unable to outwit Hell. The leaders were executed for their crime of diabolism, and House Tytalus has been distrusted ever since. This has not been helped by the fact that two magi, Buliste and Harpax, both claim to be Primus (or Prima, in Buliste's case). Buliste was the ninth Prima, but passed into Twilight. Harpax then claimed the right to be tenth Primus. However, Buliste emerged from Twilight, and refused to acknowledge his position; he, of course, refused to yield. The two are still fighting for control of the House, and of its domus magna, Fudarus, in the Normandy Tribunal (see The Lion and the Lily, page 41). The magi of House Tytalus choose sides, but most of them seem to do so simply for the sake of the challenge, and not because they have any real loyalty to one or the other.
 
 ## House Verditius
-
 
 Magi of House Verditius (ware-DEE-tee-oos) have unsurpassed skill at creating enchanted items, making them invaluable to other magi and non-Gifted persons.
 
@@ -789,7 +760,6 @@ House Verditius is a Mystery Cult, and all members are initiated into the Outer 
 
 # Covenants
 
-
 Covenants are as important to the Order of Hermes as Houses, and magi can, and do, spend hours debating which is more important in the end.
 
 Strictly speaking, a covenant is any group of magi who agree to a set of rules that go beyond the Code of Hermes, and that allow them to share resources and co-operate more easily. In the overwhelming majority of cases, covenants are formed by magi who want to live in the same place, sharing access to a Magic aura, buildings, and servants. Thus, the term 'covenant' has come to refer to a place where a number of magi live together, as well as to the group of magi making the agreement.
@@ -799,7 +769,6 @@ A typical covenant has about half a dozen magi as members, but they range from t
 The physical form of covenants varies, but towers and castles are common. In addition, covenants are normally located some distance from major mundane settlements, in large part because that is where most Magic auras are found.
 
 # The Code of Hermes
-
 
 The foundation of the Order of Hermes as an organization is the Code of Hermes. This short text, also called the Hermetic Oath because all members of the Order
 
@@ -811,7 +780,6 @@ The Code of Hermes, first sworn by Bonisagus, can be found on the next page. Sin
 
 ## The Peripheral Code
 
-
 The Peripheral Code consists of all decisions made in Tribunal since the foundation of the Order. Its formal authority derives from the clause in the Code requiring magi
 
 to abide by the decisions made at Tribunal, but as every case is different later Tribunals are not bound by the decisions of earlier Tribunals. Indeed, there are contradictory precedents throughout the Peripheral Code, and few magi outside the Quaesitores are familiar with all of its details. Some points are widely known, however, and worth discussing in this section.
@@ -819,8 +787,6 @@ to abide by the decisions made at Tribunal, but as every case is different later
 In theory, the only penalty for breaking the Code is death. In practice, Tribunals only rarely impose that, instead settling for vis fines, time spent in service, or other lesser punishments. These punishments are backed up by the ultimate sanction, however, and refusing to submit to the punishment imposed by a Tribunal is always taken as reason for the death penalty. This is enforced by declaring a Wizard's March, which casts the offender from the Order and thus deprives him of the Code's protection. This is called 'Renouncing', and magi subject to a Wizard's March are known as 'renounced magi'. Since the criminal's possessions are, by tradition, granted to those who kill him, powerful magi are often interested in helping to hunt down the offenders.
 
 Much more information about the Peripheral Code and its enforcement can be found in *Houses of Hermes: True Lineages*, starting from page 45.
-
-
 
 # The Code of Hermes
 
@@ -834,7 +800,7 @@ Much more information about the Peripheral Code and its enforcement can be found
 
 *"I will not use magic to scry upon members of the Order of Hermes, nor shall I use it to peer into their affairs.*
 
-*"I will train apprentices who will swear to this Code, and should any of them turn against the Order and my sodales, I shall be the first to strike them down and bring them to justice. No apprentice of mine shall be called a magus until he first swears to uphold this Code.* 
+*"I will train apprentices who will swear to this Code, and should any of them turn against the Order and my sodales, I shall be the first to strike them down and bring them to justice. No apprentice of mine shall be called a magus until he first swears to uphold this Code.*
 
 *Followers of Bonisagus: "I shall further the knowledge of the Order and share with its members all that I find in my search for wisdom and power."*
 
@@ -848,12 +814,9 @@ Much more information about the Peripheral Code and its enforcement can be found
 
 *"This oath I hereby swear on the third day of Pisces, in the nine hundred and fifth year of Aries. Woe to they who try to tempt me to break this oath, and woe to me if I succumb to the temptation."*
 
-*In witness here of:* 
-
-
+*In witness here of:*
 
 # Lex Hermae
-
 
 *"Ego, Bonisagus, me ordinem sodalesque fideliter adiuvare me vivo hac re iuro.*
 
@@ -874,9 +837,6 @@ Much more information about the Peripheral Code and its enforcement can be found
 *"Hostes ordinis hostes mei sunt. amici ordinis amici mei sunt. socii ordinis socii mei sunt. tamquam unus laboremus firmemurque.*
 
 *"Id hac re iuro in die tertia Piscium Geminorum in anno nonacentensimo quinto Arietis. dolor illis qui ut hanc fidem fallam inlicere conabuntur sit, et dolor mihi si inlecebra cecidero sit.*
-
-
-
 
 ## Depriving of Magical Power
 
@@ -934,8 +894,6 @@ The most important Tribunal of the Order is the Grand Tribunal, held every 33 ye
 
 The Grand Tribunal discusses matters affecting the whole Order, and its decisions are generally given far more weight than the decisions of lesser Tribunals. In addition, it is the only Tribunal with authority over the whole Order, and thus
 
-
-
 ## Regional Tribunals
 
 Each regional Tribunal is composed, in theory, of all the magi living in a certain area of Europe. These areas are roughly fixed by Grand Tribunal decisions, but the magi in them can change the name of the Tribunal at will, and set the membership requirements freely. In general, you don't change Tribunals if you visit a covenant in a different Tribunal, and different Tribunals might have different rules on just how long a visit can be. Regional Tribunals meet once every seven years, and the Redcaps are required to ensure that every magus in the Tribunal has received an invitation. Otherwise, they follow the normal rules for Tribunals.
@@ -943,7 +901,6 @@ Each regional Tribunal is composed, in theory, of all the magi living in a certa
 For the borders and names of the Regional Tribunals, see the map on page 494. Note that the borders are only approximate, as no disputes have yet arisen requiring them to be precisely fixed. Six of the Tribunals have been described in detail in supplements for Ars Magica 5th Edition: Guardians of the Forests (the Rhine Tribunal), The Lion and the Lily (the Normandy Tribunal), The Sundered Eagle (the Theban Tribunal), Against the Dark (the Transylvanian Tribunal), The Contested Isle (the Hibernian Tribunal), and Faith & Flame (the Provençal Tribunal).
 
 # The Order and Society
-
 
 Most Hermetic magi want society to leave them alone to get on with their research, and in return they are perfectly happy to leave society alone. Life is, of course, not that simple, and magi are often forced to interact with many parts of society. Some even want to do so.
 
@@ -999,12 +956,9 @@ There is one case in which the 'Join or Die' policy is rigorously enforced. Any 
 
 More information about non-Hermetic wizards can be found in *Hedge Magic Revised Edition* and *Rival Magic*, and in the regional sourcebooks for areas outside Mythic Europe: *The Cradle and the Crescent*, *Between Sand and Sea*, and *Lands of the Nile*.
 
-
-
 # III. Characters
 
 ## Character Types
-
 
 Player characters in Ars Magica fall into three categories, depending on their role in the story. Magi are members of the Order of Hermes, the powerful wizards around whom
 
@@ -1126,8 +1080,9 @@ Reputations determine whether people are likely to have heard of the character, 
 
 ## Personality Rolls
 
+
 | Ease<br>Factor | Brave                                                                                            | LOYAL                                                                                                                    | GENERAL                                                                                          |
-|----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 0              | Not really scary.<br>Facing down a<br>barking dog.                                               | Loyalty and self-<br>interest coincide.<br>Warning the magi<br>that your enemy is<br>planning to attack<br>the covenant. | Average people would always do this.                                                             |
 | 3              | Hardly scary.<br>Facing down an<br>angry, but<br>unarmed, peasant<br>while armed and<br>armored. | Little loyalty required. Not denouncing the magi to the bishop passing through the local village.                        | Average people would usually do this. People noted for a Personality Trait would always do this. |
 | 6              | Scary.<br>Facing down<br>an apparently<br>equal enemy.                                           | Average loyalty.<br>Standing by the<br>covenant when it<br>is threatened.                                                | Average people do this about half the time.                                                      |
@@ -1144,12 +1099,13 @@ Reputations can change over time. See the Long-Term Events chapter, page 386, fo
 
 ## Reputation Case Factors
 
-| Ease Factor | Local           | Ecclesiastical            | Негметіс      | Comments                                                                                                                 |
-|-------------|-----------------|---------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------|
-| 0           | Same village    | Same parish/<br>monastery | Same covenant | Everyone in these groups has heard of everyone else in them.                                                             |
-| 6           | Same town       | Same diocese              | Same Tribunal | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
-| 9           | Same county     | Same province             | Entire Order  | In general, only people with a reputation are known in this group, but everyone knows a few other people.                |
-| 12          | Same<br>country | Whole Church              | N/A           | Most people in this wider world are unknown, but those with outstanding reputations may be.                              |
+
+| Ease Factor | Local           | Ecclesiastical            | Негметіс | Comments                                                                                                                 |
+| ------------- | ----------------- | --------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 0           | Same village    | Same parish/<br>monastery | Same covenant    | Everyone in these groups has heard of everyone else in them.                                                             |
+| 6           | Same town       | Same diocese              | Same Tribunal    | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
+| 9           | Same county     | Same province             | Entire Order     | In general, only people with a reputation are known in this group, but everyone knows a few other people.                |
+| 12          | Same<br>country | Whole Church              | N/A              | Most people in this wider world are unknown, but those with outstanding reputations may be.                              |
 
 ## Confidence
 
@@ -1184,7 +1140,6 @@ Typical characters should gain two or three Confidence Points per session.
 A character's Confidence Score can only be increased by long-term story events which greatly increase the character's self-confidence and self-reliance. As a baseline, the fifteen grueling years of a Tytalus apprenticeship are enough to raise a character's Confidence Score by one point. Raises in play should follow on events of a similar magnitude and duration.
 
 # Character Templates
-
 
 The quickest way to get started playing **Ars Magica** is to choose one of the characters presented in this section. All are fully generated, and just need a name and a bit of background to fit them into your saga. The second quickest way is to customize one of these characters. Finally, you can use the Detailed Character Creation rules, starting on page 43, to build your own character from scratch.
 
@@ -1230,7 +1185,6 @@ Spells Known: A list of all the Hermetic spells the character knows. Obviously, 
 
 **Customization Notes:** Some notes on the character, and what can easily be changed if you want to customize it.
 
-
 ## Grog Templates
 
 These templates are intended for use as grogs. You could expand one into a companion fairly easily, though.
@@ -1258,7 +1212,6 @@ Kick: Init +0, Attack +6, Defense +4, Damage +6 Soak: +9 (Stamina, full metal sc
 Wound Penalties: -1 (1-6), -3 (7-12), -5 (13-18),
 
 Incapacitated (19–24)
-
 
 Abilities: Area Lore 1 (streams), Athletics 2 (running), Awareness 3 (attackers), Brawl 3 (kicking), Guile 1 (apologizing), Great Weapons 5 (pole axe), Native Language 5 (insults), Single Weapon 1 (heater shield), Survival 3 (hills)
 
@@ -1385,7 +1338,6 @@ Encumbrance: 3 (4)
 
 Customization Notes: The standard soldier's Weakness can be chosen freely, and he makes a good base for creating a slightly non-standard grog, by adding Virtues and Flaws and rearranging his Abilities.
 
-
 ### The Tough Guy
 
 Characteristics: Int -1, Per 0, Pre +1, Com -1, Str +1, Sta +3, Dex 0, Qik +1
@@ -1413,7 +1365,6 @@ Incapacitated (19-24)
 Abilities: Area Lore 2 (brewers), Athletics 1 (running), Awareness 3 (in combat), Bows 1 (shortbow), Brawl 3 (grappling), Carouse 4 (drinking), Charm 3 (when drunk), Folk Ken 1 (magi), Great Weapon 3 (pole axe), Guile 1 (lying to magi), Living Language 5 (talking about fighting), Music 1 (drinking songs), Single Weapon 5 (heater shield), Survival 1 (on rivers), Thrown Weapon 2 (axe)
 
 Equipment: Axe, Heater Shield, Full metal scale armor, pack containing gear to care for weapons and armor and establish camps when traveling.
-
 
 Encumbrance: 3 (4)
 
@@ -1525,8 +1476,6 @@ Encumbrance: 0 (0)
 
 Customization Notes: The Priest could take another two Minor Flaws and corresponding Virtues, if desired. He may be unaware of his immunity, or being struck by lightning and remaining completely unharmed may have been a central event in his past. If it happened, it should be. The nature of his Lesser Immunity can easily be changed, and even boosted to a Greater Immunity if you take two more Minor Flaws.
 
-
-
 ### The Rogue
 
 Characteristics: Int 0, Per +1, Pre 0, Com +1, Str -1, Sta 0, Dex +4, Qik +4
@@ -1595,8 +1544,6 @@ Equipment: Old but sturdy clothes.
 Encumbrance: 0 (0)
 
 Customization Notes: The Witch's magical powers are far, far weaker than a Hermetic magus's, but she doesn't have The Gift. She's an excellent healer, and people might not believe that her healing abilities are purely mundane. Intolerant clergy make good enemies, as do magical or faerie beings she has annoyed, although in that case you might want to change the Flaw to Plagued by Supernatural Entity or Supernatural Nuisance. She can take another Major Flaw, or three more Minor ones, along with corresponding Virtues.
-
-
 
 ## Magus Templates
 
@@ -1785,8 +1732,6 @@ Encumbrance: 0 (0) Spells Known:
 
 Wall of Protecting Stone (CrTe 25/+35) The Crystal Dart (Mu(Re)Te 10/+27) Rock of Viscid Clay (MuTe 15/+27) Earth that Breaks No More (MuTe 20/+27) Obliteration of the Metallic Barrier (Pe(Re)Te 20/+22) The Earth's Carbuncle (Re(Mu)Te 15/+27) Hands of the Grasping Earth (Re(Mu)Te 15/+23)
 
-
-
 ### Guernicus
 
 Characteristics: Int +3, Per + Pre +1, Com 0, Str 0, Sta 0, Dex –2, Qik 0
@@ -1870,7 +1815,6 @@ Phantasm of the Talking Head (CrIm 10/+16) Phantasm of the Human Form (Crlm 25/+
 Illusion of the Shifted Image (ReIm 10/+16) Wizard's Sidestep (ReIm 10/+16)
 
 Customization Notes: The Jerbiton took Puissant Music as his free House-related Virtue. He is designed as a social creature who sees himself as an artist in music and magic. He can take up to three points more of Flaws, with the corresponding Virtues. Note that he has the Gentle Gift, and thus can interact with mundanes without any penalty.
-
 
 ### Mercere
 
@@ -2093,7 +2037,6 @@ Aura of Rightful Authority (ReMe 20+16) Scent of Peaceful Slumber (ReMe 20/+16)
 
 Customization Notes: The Tytalus can take up to three more points of Flaws, and a similar number of Virtues.
 
-
 ### Verditius
 
 Characteristics: Int +3, Per 0, Pre 0, Com 0, Str -3, Sta + 1, Dex + 1, Qik 0
@@ -2196,8 +2139,9 @@ Creating children using these rules requires the application of a bit of common 
 
 To generate a child, use the normal rules, and then modify all Characteristics as follows:
 
+
 | Age   | Modifier | Size<br>Modifier |
-|-------|----------|------------------|
+| ------- | ---------- | ------------------ |
 | 6 - 7 | -4       | -2               |
 | 8-9   | -3       | -2               |
 | 10-11 | -2       | -2               |
@@ -2220,17 +2164,16 @@ Companions and Magi: Up to ten points of Flaws, and the same number of points of
 - 5. Early Childhood. Seventy five experience points in Native Language (normally granting a score of 5), and 45 experience points spread between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim.
 - 6. Later Life. 15 experience points per year (until apprenticeship for magi), spread between any Abilities the character can learn, based on the Virtues and Flaws he has. Characters with the Wealthy Major Virtue get 20 experience points per year, those with the Poor Major Flaw get 10.
 - 7. Hermetic Magi Only:
-  Apprenticeship. Divide 240 experience points between
-  Hermetic Arts and any nonSupernatural Abilities (or
-  Supernatural Abilities, if the
-  magus has the relevant Virtue).
-  Take 120 levels of spells, of no
-  higher level than Technique +
-  Form + Intelligence + Magic
-  Theory +3. Apply any relevant
-  Virtues and Flaws when
-  calculating this total.
-
+     Apprenticeship. Divide 240 experience points between
+     Hermetic Arts and any nonSupernatural Abilities (or
+     Supernatural Abilities, if the
+     magus has the relevant Virtue).
+     Take 120 levels of spells, of no
+     higher level than Technique +
+     Form + Intelligence + Magic
+     Theory +3. Apply any relevant
+     Virtues and Flaws when
+     calculating this total.
 - 8. Hermetic Magi Only (Optional): Years after apprenticeship. Divide 30 points per year between experience points in Arts, experience points in Abilities, and levels of spells.
 - 8. Personality. Pick a few words to describe your character, and assign a number between +3 and -3 to each.
 
@@ -2246,7 +2189,6 @@ Once you have a concept, decide whether the character is a magus, companion, or 
 
 If the character is not a magus, but is intended to be a central character in the saga, he is a companion. If he is intended to be a bit part, he is a grog. A stablehand intended to be a central character is a companion, and a woodsman with one or two minor magical powers might well be a grog. The rules for character creation differ slightly between the three character types, but they are basically the same. However, there are enough separate steps for magi to make it worth treating them separately.
 
-
 ## Magi Only: Hermetic House
 
 The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on page 13, and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
@@ -2254,10 +2196,8 @@ The next step in creating a Hermetic magus is choosing his House. The twelve Hou
 > ### Example: Darius of Flambeau
 >
 > Niall is creating an experienced magus for use in a new saga. He decides on the name 'Darius', and his concept is a scary-looking magus who specializes in Perdo magic and in hunting down the enemies of the Order. Looking at the Houses, Flambeau and Tytalus both look appropriate, but Puissant Art (Perdo) fits the concept better than Self-Confident, so he goes with House Flambeau. Darius is now Darius of Flambeau.
->
 
 # Virtues and Flaws
-
 
 As many Virtues and Flaws deal with the character's place in the story, the rules for them differ the most between the character types.
 
@@ -2293,27 +2233,28 @@ Finally, a lot of the Virtues and Flaws are very specialized, to support particu
 
 The Hermetic Houses are described in more detail starting on page 12. Members of each House get a particular benefit at character creation, listed in the following table.
 
-| House          | Түре         | DESCRIPTION                                                 | Benefit                                                      |
-| -------------- | ------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability. |
-| Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians). |
-| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom. |
-| Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance. |
-| Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.                            |
-| Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.                                           |
-| Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship arts, or mundane interaction. |
+
+| House          | Түре     | DESCRIPTION                                                 | Benefit                                                                                                                                                                                                                                 |
+| ---------------- | -------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability.                                                                                                                                                                       |
+| Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians).                                                                                                                                                                 |
+| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom.                                                                                                                                                                         |
+| Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance.         |
+| Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.                                                                                                                                                                                                       |
+| Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.                                                                                                                                                                                                                      |
+| Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship arts, or mundane interaction.                                                                                                                                                                    |
 | Mercere        | True Lineage | Messengers of the Order                                     | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are created as companions, and take the Redcap Major Status Virtue. Gifted Redcaps take the Hermetic Magus Status Virtue, and do not take the Redcap Major Status Virtue. |
-| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery. |
-| Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen).                              |
-| Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.                                              |
-| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic (page 114).                                  |
+| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.                                      |
+| Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen).                                                                                                                                                                                                         |
+| Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.                                                                                                                                                                                                                         |
+| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic (page 114).                                                                                                                                                                                                             |
 
 ## Quick and Easy Virtues and Flaws
 
 If you want to get started really quickly, use the following highly simplified guidelines.
 
 - Grogs: Take a Minor Personality Flaw that reflects how you want to play the character. Social Status is Covenfolk.
-   Take Warrior for a grog who fights, Educated for a grog who is educated, Arcane Lore for a grog who knows about the supernatural, and Puissant Ability in the character's specialty for any other type of character.
+  Take Warrior for a grog who fights, Educated for a grog who is educated, Arcane Lore for a grog who knows about the supernatural, and Puissant Ability in the character's specialty for any other type of character.
 - All Companions: Take a Major Personality or Story Flaw that reflects the types of stories you want your character to be involved in. Social Status is Covenfolk.
 - Martial Companions: Take Warrior, and Puissant and Affinity with the same Martial Ability.
 - Learned Companions: Take Educated, and either Puissant with two Academic Abilities, or Puissant and Affinity with the same Academic Ability.
@@ -2321,24 +2262,21 @@ If you want to get started really quickly, use the following highly simplified g
 - Magical Companion: Take one Minor Supernatural Virtue that grants a Supernatural Ability, and Puissant and Affinity with that Ability.
 - Magus: Take a Major Personality or Story Flaw that reflects the types of stories you want your character to be involved in, and Deficient Form in a Form that you are not interested in. Social Status is Hermetic Magus. Choose a Minor Magical Focus that does not rely on your Deficient Form. Choose one Technique that overlaps with your Minor Magical Focus, and take Puissant and Affinity in it. Choose one Form that overlaps with your Minor Magical Focus, and take Puissant in it.
 
-
-
 > ### Example: Darius of Flambeau
 >
 > Niall starts by looking for appropriate Flaws to fit his concept. Driven seems like a good Personality Flaw, Darius cannot help hunting down enemies of the Order at all times. Similarly, those activities are likely to produce Enemies, and Niall picks a Renounced magus and his cronies to be the enemies in question. Blatant Gift fits well with the scary image Niall wants, and he didn't imagine the character being able to interact much with mundanes anyway. That's three Major Flaws, so nine points already. Blatant Gift is a Hermetic Flaw, so that requirement is met. Finally, Niall takes Disfigured (facial burns) as a Minor Flaw, reinforcing the image and giving him ten points of Flaws.
 >
 > Then it's time to buy good stuff. As a magus, Darius already has The Gift and Hermetic Magus, and Puissant Art (Perdo) came free as a Flambeau. Niall takes Affinity with Perdo to back up Darius's specialty. He decides that Darius has done his job well, so he takes Hermetic Prestige to reflect his reputation in the Order. Hunting magi is a very dangerous game, so he also takes Premonitions and Second Sight, making it hard to take Darius by surprise. Similarly, shooting first is an advantage, so he takes Fast Caster. That's five Minor Virtues, leaving Darius with five points to spend. Niall has a look at Major Virtues, and decides that Flawless Magic will be extremely useful. It will let him cast spells more quickly, and with higher Penetration, which is a very good thing when facing other magi. That uses another three points, but he still has two Minor Virtues to buy. He chooses Strong-Willed and Enduring Constitution, which fit the image and provide a bit more breadth.
->
 
 # Characteristics
-
 
 Characteristics are bought on the following table. You start with seven points to spend. All characters buy Characteristics in the same way.
 
 For Hermetic magi, you should note that Intelligence is central to Hermetic laboratory work, and thus magi should seriously consider taking a positive score in it. Similarly, Stamina is very important for spellcasting, and so a negative score there is best avoided. Communication is vital if you want your character to write good books.
 
+
 | Score | Cost   |
-|-------|--------|
+| ------- | -------- |
 | +3    | 6      |
 | +2    | 3      |
 | + 1   | 1      |
@@ -2352,10 +2290,8 @@ For Hermetic magi, you should note that Intelligence is central to Hermetic labo
 > Niall starts by giving Darius an Intelligence of +3, spending six of his points right away. Following on with the idea that Darius is hard to surprise and good at hunting, he spends the seventh point on a Perception of +1. However, he doesn't want everything else to be zero. Fortunately, the concept practically demands a negative score in Presence, so Niall drops that to -3, and Communication to -1, giving him seven more points to play with.
 >
 > Stamina is the other score most useful for magi, so Niall makes a deliberate decision to leave it at zero. The character will be more interesting if he has strengths in other areas, he thinks. Instead, he buys Quickness +2 (good for dodging), Strength +2 (he can hit hard), and Dexterity +1 (making him better than average in combat). It looks like Darius will occasionally use physical combat, which makes sense; steel can get through Magic Resistance without any trouble.
->
 
 # Abilities
-
 
 Abilities represent a character's learned abilities. For grogs and companions they are acquired in two blocks: early childhood, and later life. For magi, there are two
 
@@ -2363,8 +2299,9 @@ more periods to consider: apprenticeship, and life as a magus after that.
 
 Your character's age determines the maximum score she can have in any Ability at character creation, although some Virtues raise this limit. These limits do not apply to characters in play, and there is no cap on Abilities during play. In practice, most Abilities will not rise above 10, but there may be exceptions.
 
+
 | AGE      | MAXIMUM ABILITY |
-|----------|-----------------|
+| ---------- | ----------------- |
 | under 30 | 5               |
 | 30-35    | 6               |
 | 36-40    | 7               |
@@ -2385,7 +2322,6 @@ The following Ability packages can be taken to speed up character generation. Ea
 - Social Childhood: Charm 2, Folk Ken 2, Guile 2, Native Language 5
 - Traveling Childhood: Area A Lore 1, Area B Lore 1, Folk Ken 2, Living Language 1, Native Language 5, Survival 2
 
-
 ## Later Life
 
 After early childhood, the character gains 15 experience points per year, which may be placed in any Abilities, as long as the character has a Virtue that permits her to learn those Abilities. Academic, Arcane, and Martial Abilities require a Virtue, as do Supernatural Abilities.
@@ -2399,33 +2335,33 @@ Characters with the Wealthy Virtue get 20 experience points per year, while char
 > The next issue is his early childhood. Niall chooses German as Darius's native language, and, at this point, Uwe as his original name, so that gives him German 5. He then spends 15 exp on Bavaria Lore 2, 15 exp on Awareness 2, and 15 exp on Folk Ken 2, bringing Uwe/Darius to the age of 5.
 >
 > Now he needs to decide when the boy became an apprentice, and he picks 10 as a nice, round number. He has 75 experience points to spend from those five years, and he spends 15 exp on Brawl 2, 15 exp on Guile 2, 5 exp on Athletics 1, 5 exp on Concentration 1, 5 exp on Etiquette 1, 5 exp on Intrigue 1, 5 exp on Leadership 1, 5 exp on Stealth 1, 5 exp on Survival 1, and 5 exp on Swim 1. That leaves him with 5 experience points, which he decides to spend on Order of Hermes Lore 1. It's a general Ability, so he can, and he rationalizes the decision by assuming that his future master took him to the covenant some time before his apprenticeship actually began.
->
 
 ## Advancement Table
 
-|       | Art    |          | Ability |          |
-| ----- | ------ | -------- | ------- | -------- |
-| Score | To Buy | To Raise | То Buy  | To Raise |
-| 1     | 1      | 1        | 5       | 5        |
-| 2     | 3      | 2        | 15      | 10       |
-| 3     | 6      | 3        | 30      | 15       |
-| 4     | 10     | 4        | 50      | 20       |
-| 5     | 15     | 5        | 75      | 25       |
-| 6     | 21     | 6        | 105     | 30       |
-| 7     | 28     | 7        | 140     | 35       |
-| 8     | 36     | 8        | 180     | 40       |
-| 9     | 45     | 9        | 225     | 45       |
-| 10    | 55     | 10       | 275     | 50       |
-| 11    | 66     | 11       | 330     | 55       |
-| 12    | 78     | 12       | 390     | 60       |
-| 13    | 91     | 13       | 455     | 65       |
-| 14    | 105    | 14       | 525     | 70       |
-| 15    | 120    | 15       | 600     | 75       |
-| 16    | 136    | 16       | 680     | 80       |
-| 17    | 153    | 17       | 765     | 85       |
-| 18    | 171    | 18       | 855     | 90       |
-| 19    | 190    | 19       | 950     | 95       |
-| 20    | 210    | 20       | 1050    | 100      |
+
+|       | Art    |          | Ability  |          |
+| ------- | -------- | ---------- | ---------- | ---------- |
+| Score | To Buy | To Raise | То Buy | To Raise |
+| 1     | 1      | 1        | 5        | 5        |
+| 2     | 3      | 2        | 15       | 10       |
+| 3     | 6      | 3        | 30       | 15       |
+| 4     | 10     | 4        | 50       | 20       |
+| 5     | 15     | 5        | 75       | 25       |
+| 6     | 21     | 6        | 105      | 30       |
+| 7     | 28     | 7        | 140      | 35       |
+| 8     | 36     | 8        | 180      | 40       |
+| 9     | 45     | 9        | 225      | 45       |
+| 10    | 55     | 10       | 275      | 50       |
+| 11    | 66     | 11       | 330      | 55       |
+| 12    | 78     | 12       | 390      | 60       |
+| 13    | 91     | 13       | 455      | 65       |
+| 14    | 105    | 14       | 525      | 70       |
+| 15    | 120    | 15       | 600      | 75       |
+| 16    | 136    | 16       | 680      | 80       |
+| 17    | 153    | 17       | 765      | 85       |
+| 18    | 171    | 18       | 855      | 90       |
+| 19    | 190    | 19       | 950      | 95       |
+| 20    | 210    | 20       | 1050     | 100      |
 
 *To Buy:* The number of experience points required to raise a score from zero to that number.
 
@@ -2450,7 +2386,6 @@ Magi must have the following minimum Abilities: Parma Magica 1, Magic Theory 1, 
 > Finally, just before Gauntlet, he spends his last 5 exp on Parma Magica 1.
 >
 > magi, and you should be aware of this before designing such a character. A character with a Latin score of less than 5 cannot write books, which may also be important. A Magic Theory score of below 3 is weak, and, in particular, means that the magus cannot set up his own laboratory. Very few magi have a score in Parma Magica over 1 immediately after apprenticeship, as this Ability is normally the last thing taught. Indeed, the magus is not taught the final secret to raising a Parma until after he has sworn the Oath. Magi should also seriously consider putting points into Code of Hermes, Concentration, Finesse, Order of Hermes Lore, Penetration, and Profession (Scribe).
->
 
 ## Hermetic Magi Recommended Minimum Abilities
 
@@ -2494,7 +2429,6 @@ For each season that your magus spends working on a lab project, the character l
 > From this point, Niall advances Darius a year at a time, because aging results might have an impact on his study and development. In Darius's 35th year he spends 15 exp on Hunt 2, 5 exp on Civil and Canon Law 1, and 10 exp on raising Animal to 4. At this point, Niall decides that Darius would have risked suffering a Twilight, as he is the sort of magus who is likely to botch from time to time. Darius has a Warping Score of 2, with five Warping Points left over, because he is ten years out of apprenticeship. He makes the roll to control the magic, and succeeds, so that Darius does not actually go into Twilight at this point.
 >
 > Niall then continues aging Darius to the age of 87, but that's enough example.
->
 
 Older magi can learn spells more quickly than these guidelines suggest. You may therefore want to use these rules to have a magus learn spells as a lab project if you are advancing him more than forty years or so beyond apprenticeship.
 
@@ -2513,12 +2447,10 @@ For companions and magi, they are normally nothing more than a guide to roleplay
 > ### Example: Darius of Flambeau
 >
 > Niall picks Brave, Dedicated to Cause, and Efficient as Darius's Personality Traits, and gives him scores of +3 in each. Darius is quite an extreme individual, but the numbers are unlikely to have much impact on play.
->
 
 > ### Example: Darius of Flambeau
 >
 > Darius does have a Reputation, thanks to his Hermetic Prestige Virtue. It's a reputation with Hermetic magi, and it has a level of 3. Niall picks 'Dedicated Hoplite' as the content. (The Hoplites are the enforcers of the Order of Hermes. It's an informal grouping, but its members are respected.)
->
 
 ## Reputations
 
@@ -2536,7 +2468,6 @@ Confidence Points can be spent to gain a one-off +3 bonus to any die roll, and a
 
 Your character may start with any equipment or possessions she might reasonably have acquired and retained over her career. You need not list all her possessions.
 
->
 > ### Example: Darius of Flambeau
 >
 > Darius starts with the normal Confidence Score of 1 and 3 Confidence Points. His only noteworthy piece of equipment is his talisman-spear; Niall can assume that Darius has any mundane material he needs.
@@ -2689,7 +2620,6 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > <sup>\*</sup> If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
 >
->
 > Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eves.
 >
 > Darius is content to cultivate his sinister image; he is a hoplite and an expert with Perdo magic, dedicated to the discovery and execution of traitors within the Order. However, it was not always thus; Uwe, the boy who would eventually become Darius, was born into a merchant family living in Bavaria. He enjoyed a comfortable life in a moderately prosperous household. However, shortly after Uwe reached puberty strange things began to happen. His books would fall apart, furniture he sat on would break, and the family cat died in his arms. His family became aware that there was something unsettling about the boy and were only too happy to see him taken away as an apprentice by the mysterious scholar who visited them soon after.
@@ -2697,9 +2627,6 @@ Your character may start with any equipment or possessions she might reasonably 
 > Thus Uwe became the apprentice of the hoplite Xerxes, who indoctrinated his filius to become a hunter of evils within the Order of Hermes. A lab accident early during apprenticeship burned away Uwe's eyes and the flesh on his head, but Xerxes restored Uwe's sight, although he refused to do anything about his filius' appearance. Fifteen years later Uwe became a magus of the Order of Hermes named Darius and joined the ranks of the hoplites, its guardians. He has continued to maintain contact with his (aging) pater, but they only see each other on rare occasions when they can share information; Xerxes is now too frail to take part in combat.
 >
 > Darius travelled to the covenant to establish a base from which he could seek out and destroy its enemies. He pursued this vocation with an enthusiasm that impressed his colleagues, and when the previous leader of the covenant recently passed into Final Twilight he accepted the position of head, seeing in this an opportunity to instill his values into the new, younger members swelling its ranks. Darius has been too busy to train an apprentice, but now he feels the need to pass on his legacy soon, as he suspects that he may have encountered his bane; he recently fought a powerful Renounced magus and his followers and was nearly killed, only "escaping" when a magical maelstrom sent him physically into Twilight. The traitor is still at large; Darius intends to kill him in the next confrontation and is even prepared to sacrifice himself to achieve this aim.
->
-
-
 
 ## Option: Extremely Complex Character Generation
 
@@ -2716,9 +2643,6 @@ If a character receives Magic Resistance from more than one source, these totals
 Characters with a Might Score are immune to all Warping (see Warping and Non-Humans, page 389). They may, however, spend a point of their Might Pool to use any Ability or power which normally incurs Warping.
 
 Those with a Might Score are immune to supernatural backlashes of their realm — Twilight, Hubris, Vituperation, and so forth — but still suffer any other consequences of a failed or botched roll when using their powers.
-
-
-
 
 # Mythic Companions
 
@@ -2759,13 +2683,11 @@ Devil Children do not have any common required Abilities, because their involvem
 
 If humans are to dwell in regions haunted by the fae — such as the rural areas which provide the food of nations — then they must learn to come to an amicable relationship with their good neighbors. In lands historically connected to Saxon cultures (principally England, Frisia, and Saxony) a faerie doctor may act as an intermediary between the
 
-
 humans and the fae, leaving the region blessed indeed. Also called a lybman (who practices lybcraeft, magical healing and surgery), the faerie doctor is a human who speaks to the faeries on behalf of the peasants, explaining their concerns and wishes. Likewise, the local faeries know that the faerie doctor supports their flow of vitality by reinforcing the tales and lore of their kind within his region of influence. The faerie doctor takes it upon himself to keep the memory of the local fae alive through stories, and to ensure that their homes are not violated. Should a dispute between humans and faeries arise, the faerie doctor attempts to mediate. ensuring that there are no misunderstandings on either side; but he must attempt to remain a neutral party. In addition to his job as mediator and storyteller, the faerie doctor also administers directly to his human charges through use of faeriegranted supernatural powers, such as the removal of blights, banes, and diseases through his Curse-Throwing power. Faerie doctors are also adept at locating water and lost things through dowsing.
 
 The faerie doctor is trained from birth by a relative, often an uncle, for the calling tends to run in families. Faerie doctors are almost exclusively male, although women can be taught the art if no other relative can be found. The apprentice is taught the lore of the faeries, and has direct and personal contact with all the Good Folk in the local region. As the boy enters puberty, he acquires a companion from amongst the fae, a friend who provides him with unique insights into faerie-kind and warns him if he is about to make a social faux pas. These faeries usually have a high Cognizance, and this proves useful in explaining the actions of other fae. Apart from this, the faerie friend can take any form — it may be a willowy nymph, a talking animal, a wizened dwarf, or any number of other types of faerie. Upon acquiring his companion, the faerie doctor's apprenticeship is complete. He either takes over his mentor's practice, goes into partnership with him, or moves to a new area to strike out on his own.
 
 Faerie doctors often accompany their oath to not take sides in conflicts between humans and faeries with other oaths that reflect their status as having a foot in both realms. The most common oaths are to never cut one's hair, to never grow a beard, to wear women's clothes, and to remain celibate. Such oaths represent the distance the faerie doctor must keep from the rest of humanity to maintain his close connection with the fae. Unsurprisingly, a faerie doctor may clash with the priesthood who see his 'clients' as demons or evil spirits, however, the faerie doctor is rarely pagan himself. He simply realizes the true place of the fae in the daily lives of those under his care.
-
 
 ## Faerie Doctors as Mythic Companions
 
@@ -2800,8 +2722,6 @@ The Student of Faerie Virtue and the Faerie Upbringing Flaw are very common amon
 
 A character can be a faerie doctor without being a Mythic Companion, but they are understandably less powerful. They still take the compulsory Virtues and Flaws listed above, but must balance Virtues and Flaws in the normal manner.
 
-
-
 > ## Sin-Eating
 >
 > In some cultures, the supernatural power of Curse-Throwing is called Sin-Eating. A sin-eater uses this power to take on the sins of the dying or recently dead, often acquired by eating a ritual meal of bread, salt, and ale over the body of the sinner. It is believed that the Sin-Eater not only saves the deceased from Hell, but also prevents their spirit from wandering the world as a ghost. The magnitude of the unforgiven sin should be considered to be a Minor, Serious, or Major Affliction as appropriate. The effect of Sin-Eating on the soul of the practitioner or the fate of the mortal soul remains unknowable, but Sin-Eating does prevent the spirit of the deceased from becoming a ghost due to unrepented sins. A sin-eater can still use his Supernatural Ability in the standard fashion, and most commonly takes the curse onto himself. Sin-eaters are often outcast from society, shunned because of the sins they accumulate through their career. The Church regularly excommunicates sin-eaters, not only because of the burden of sin which they carry but also because they encroach on the territory of the clergy to administer to the dead. A particularly evil sin-eater might transfer the sins of the dying onto an otherwise innocent child in return for pecuniary gain.
@@ -2809,9 +2729,6 @@ A character can be a faerie doctor without being a Mythic Companion, but they ar
 > Sin-Eating stems from a similar tradition to Curse-Throwing, and thus is most common in cultures descended from Saxon people — in England, Flanders, Frisia and Saxony. Analogous traditions exist in other cultures, such as the Bavarians and the people of the Balkan Peninsula. An intriguing variant of sin-eating is part of the Jewish atonement rituals. Jewish practitioners of a version of Curse-Throwing aligned to the Divine Realm still conduct the rite of the scapegoat. A goat is loaded with the sins of a community on Yom Kippur, and driven into a place of desolation. Incorrectly identified as a propitiatory sacrifice to Satan, the scapegoat (and this is the origin of that phrase) is an act of obedience to God as detailed in Chapter 16 of Leviticus.
 >
 > Story Seed: A Bjornaer magus comes to the characters for help. He was unwittingly part of the scapegoat rite when observing Jewish practices in his goat heartbeast, and now seeks a way to unburden himself from the community's sins.
->
-
-
 
 ## Nephilim
 
@@ -2831,7 +2748,7 @@ All Nephilim must take the following Virtues:
 - Improved Characteristics (Minor, General)
 - Sense Holiness and Unholiness (Minor, Supernatural)
 - Strong Angelic Heritage (Minor, Supernatural
-   — free with Nephilim)
+  — free with Nephilim)
 - Nephilim must take five points of Flaws to pay for these virtues and may take an additional five points of Flaws, which grants a further ten points of Virtues.
 
 #### Minimum Ability Scores:
@@ -2870,14 +2787,9 @@ Spirit Votaries should begin play with the following minimum Ability scores:
 - Penetration 1
 - Second Sight 3
 
-
-
 > The worn cobblestones lead our party past the keep and through a bustling town market. A vibrant hub of trade and exchange, here the merchants of distant lands hawk their wares and diverse folk crowd the stalls. The air buzzes with the sound of haggling and the aroma of exotic spices, while two sages passionately debate philosophy. Our magus rolls his eyes at their hubris, then with a flick of his wrist conjures a shimmering illusion to delight a small child, just out of mundane sight. But infernal eyes watch us from the shadows of a nearby alley, their intent veiled and unsettling.
 
-
-
 # IV. Virtues and Flaws
-
 
 AImost all characters have some particular talents and some particular problems, represented in the game by Virtues and Flaws.
 
@@ -2898,7 +2810,6 @@ Some Flaws, such as Blind or Mute, could be fixed using Hermetic magic. A charac
 > For example, suppose that you came across the story of Saint Marina the Monk, and were inspired by it. A very brief summary of the story is as follows.
 >
 > A monk at a certain monastery was accused by the daughter of an innkeeper of getting her pregnant. He refused to defend himself by accusing her of lying, and confessed that he had sinned, and so the abbot assigned strict penances, which he performed without complaining for several years, until he died. After his death, the brothers laying him out discovered that the monk was a woman. Everyone marveled at her humility and obedience. Miracles were performed at her tomb, and she was venerated as a saint. (This is a genuine medieval story, and a web search will provide more detail.)
->
 
 ## Social Status Virtues and Flaws
 
@@ -2919,7 +2830,6 @@ This only applies to Social Statuses. All other Virtues and Flaws are available 
 > Another option is to take Enemies as the Major Story Flaw, and Optimistic as the Major Personality Flaw. She became a monk to get away from a match chosen by her father, whom she does not like at all. The abbot, and select other monks, are perfectly aware that she is a woman, and approve of her decision to run away. They aren't quite as sure as she is that everything will work out. In this case, you might not take Gender Nonconforming at all, because the character just thinks she is in disguise. The stories in this case are likely to tend towards farce.
 >
 > There are many other options, and the same is true in general. These Flaws should serve as inspiration, but you should not feel forced, by a character concept, to take any particular Flaw — not even the Flaw that originally inspired the concept.
->
 
 ## Virtues and Flaws Rules and Guidelines
 
@@ -2949,7 +2859,7 @@ A character may not have more than one Major Personality Flaw. A character shoul
 - You should not take more than one Story Flaw
 - You should not take more than two Personality Flaws, and may not take more than one Major Personality Flaw
 
- You may not take Hermetic Virtues and Flaws, unless you have The Gift (this would be highly unusual)
+You may not take Hermetic Virtues and Flaws, unless you have The Gift (this would be highly unusual)
 
 #### MYTHIC COMPANIONS
 
@@ -3005,87 +2915,78 @@ Because Social Status Virtues and Flaws refer to a character's place in society,
 
 #### All Cultures
 
-| Category          | Virtues / Flaws                                              |
-| ----------------- | ------------------------------------------------------------ |
-| **Free Virtues**  | Apprentice, Covenfolk, Craftsman, Domestic Animal, Hermetic Magus, Laborer, Merchant, Paid Rights, Peasant, Wanderer |
+
+| Category          | Virtues / Flaws                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Free Virtues**  | Apprentice, Covenfolk, Craftsman, Domestic Animal, Hermetic Magus, Laborer, Merchant, Paid Rights, Peasant, Wanderer                |
 | **Minor Virtues** | Custos, Factor, Failed Apprentice, Forge-Companion, Gentleman/woman, Lone  Redcap, Mercenary Captain, Merchant Adventurer, Wise One |
-| **Major Virtues** | Capo, Partner, Redcap, Venditor                              |
-| **Minor Flaws**   | Branded Criminal, Companion Animal, Outcast, Outlaw Leader, Outsider, Usurer |
-| **Major Flaws**   | Outlaw, Outsider                                             |
-
-
+| **Major Virtues** | Capo, Partner, Redcap, Venditor                                                                                                     |
+| **Minor Flaws**   | Branded Criminal, Companion Animal, Outcast, Outlaw Leader, Outsider, Usurer                                                        |
+| **Major Flaws**   | Outlaw, Outsider                                                                                                                    |
 
 #### Western Christendom
 
-| Category          | Virtues / Flaws                                              |
-| ----------------- | ------------------------------------------------------------ |
+
+| Category          | Virtues / Flaws                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Minor Virtues** | Baccalaureus, Beadle, Brother Chaplain, Brother Knight, Brother Sergeant, Clerk,  Falconer, Guild Apprentice, Guild Master, Journeyman, Jurist, Knight,  Marshal, Master of Kennels, Mendicant Friar, Notary, Priest, Religious,  Simple Student, Templar Administrator, Templar Office Holder, Templar  Specialist, Town Magistrate, University Grammar Teacher |
-| **Free Virtues**  | Male Guild Sponsor, Nuntius, Templar Confrere/Consoeur, Templar Servant |
-| **Major Virtues** | Cathedral School Master, Doctor in (Faculty), Guild Dean, Landed Noble, Magister  in Artibus, Magister in Medicina, Senior Clergy, Senior Master, Templar  Commander |
-| **Minor Flaws**   | Failed Journeyman, Failed Master, Failed Monk/Nun, Surgical Empiricus |
-
-
+| **Free Virtues**  | Male Guild Sponsor, Nuntius, Templar Confrere/Consoeur, Templar Servant                                                                                                                                                                                                                                                                                          |
+| **Major Virtues** | Cathedral School Master, Doctor in (Faculty), Guild Dean, Landed Noble, Magister  in Artibus, Magister in Medicina, Senior Clergy, Senior Master, Templar  Commander                                                                                                                                                                                             |
+| **Minor Flaws**   | Failed Journeyman, Failed Master, Failed Monk/Nun, Surgical Empiricus                                                                                                                                                                                                                                                                                            |
 
 #### Eastern Christendom
 
-| Category          | Virtues / Flaws                                              |
-| ----------------- | ------------------------------------------------------------ |
+
+| Category          | Virtues / Flaws                                                                                                 |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Minor Virtues** | Clerk, Eunuch, Falconer, Jurist, Knight, Marshal, Master of Kennels, Mendicant Friar, Notary, Priest, Religious |
-| **Major Virtues** | Archieunuch, Landed Noble, Senior Clergy                     |
-
-
+| **Major Virtues** | Archieunuch, Landed Noble, Senior Clergy                                                                        |
 
 #### Islamic
 
-| Category          | Virtues / Flaws                               |
-| ----------------- | --------------------------------------------- |
+
+| Category          | Virtues / Flaws                                 |
+| ------------------- | ------------------------------------------------- |
 | **Minor Virtues** | ʿAlim, Bureaucrat, Emir, Fidaʾi, Mamluk, Sufi |
-| **Major Virtues** | Lasiq, Muqtaʿ                                 |
-
-
+| **Major Virtues** | Lasiq, Muqtaʿ                                  |
 
 #### Hibernia
 
+
 | Category         | Virtues / Flaws |
-| ---------------- | --------------- |
+| ------------------ | ----------------- |
 | **Free Virtue**  | Bard            |
 | **Minor Virtue** | Senior Bard     |
 | **Major Virtue** | Master Bard     |
 
-
-
 #### Iberia
 
+
 | Category          | Virtues / Flaws      |
-| ----------------- | -------------------- |
+| ------------------- | ---------------------- |
 | **Minor Virtues** | Almogaten, Almogavar |
-
-
 
 #### North Africa
 
+
 | Category         | Virtues / Flaws |
-| ---------------- | --------------- |
+| ------------------ | ----------------- |
 | **Minor Virtue** | Mazdean Priest  |
-
-
 
 #### Provençal
 
+
 | Category          | Virtues / Flaws                  |
-| ----------------- | -------------------------------- |
+| ------------------- | ---------------------------------- |
 | **Minor Virtues** | Perfectus, Troubadour/Trobairitz |
-
-
 
 #### Jewish
 
+
 | Category          | Virtues / Flaws |
-| ----------------- | --------------- |
+| ------------------- | ----------------- |
 | **Free Virtues**  | Shamash, Sofer  |
 | **Minor Virtues** | Rabbi, Shadchan |
-
-
 
 ## Supernatural
 
@@ -3108,7 +3009,6 @@ Minor Personality Flaws are aspects of a character's personality that strongly c
 Most characters should not have more than two Personality Flaws, Major or Minor, lest they move from entertaining to profoundly irritating.
 
 A Major Personality Flaw drives your character to act and get involved in stories, while a Minor Flaw merely provides color.
-
 
 ## Story
 
@@ -3135,8 +3035,6 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 > Tainted Virtues and Flaws are associated with the Infernal realm, and can be granted through corruption by demons (see *Realms of Power: The Infernal*, chapter 9). They can also be taken at character generation, although no more than half a character's Virtues should be tainted, and similarly for Flaws. (That is, no more than five points of Tainted Virtues, or ten for a Mythic Companion, and no more than five points of Tainted Flaws.) Supernatural abilities granted by Tainted Virtues or Flaws are always Infernal powers.
 >
 > At the troupe's discretion, non-tainted versions of some of these powers may also be available, and associated with the Magic or Faerie realm.
->
-
 
 ## List of Virtues
 
@@ -3493,7 +3391,6 @@ Wanderer
 
 Commanding Aura
 
-
 ## Virtues
 
 #### Academic Concentration (Subject)
@@ -3564,37 +3461,37 @@ These characters are from the Iberian Peninsula, and if they are particularly fa
 
 #### Amorphous
 
-Major or Minor, Supernatural, Tainted 
+Major or Minor, Supernatural, Tainted
 
 The character is able to take on any human form, so long as it does not identifiably belong to a particular human being. The character develops this ability because his body has adopted the almost-gaseous property of demonic flesh, so any apparent changes in size or fitness are cosmetic, and do not affect the character's statistics. Some amorphous people can select a single shape at midnight, which is the Major form of the Virtue. Its Minor form allows the character to change shape only after having performed a significant act linked to the Obsession of the sponsoring demon. The character may only change to his birth form by selecting it once the conditions of transformation have been met, or involuntarily changing shape when dying or entering holy ground.
 
 #### Animal Ken
 
-Minor, Supernatural 
+Minor, Supernatural
 
 You can communicate with animals as if they were human beings. Choosing this Virtue confers the Ability Animal Ken 1 (page 159).
 
 #### Apprentice
 
-Free. Social Status 
+Free. Social Status
 
 This Virtue may be taken by a child character who has the Gift and who has been accepted by an experienced Hermetic magus, with the troupe's approval. You are a discipulus and will receive extensive magical training. having the potential to become a Hermetic magus in your own right. However vou must obev the dictates and fulfill the errands of your master and endure his or her rigorous training, and may be treated no better than a slave.
 
 #### Apt Student
 
-Minor, General 
+Minor, General
 
 You are particularly good at learning from others. When being taught or trained by someone else, add five to the Source Quality.
 
 #### Aptitude for (Sin)
 
-Minor, General, Tainted 
+Minor, General, Tainted
 
 This catch-all Virtue is for those minor effects which demons grant to their victims to allow them to sin more effectively, and so more often. Each Aptitude for a particular sin adds +3 to all rolls in a very limited circumstance linked to a demon's Obsession. As examples, characters may have aptitudes for picking pockets, for committing adultery skillfully, or for poisoning people.
 
 #### Arcane Lore
 
-Minor, General 
+Minor, General
 
 You may take Arcane Abilities during character generation. Unless you have The Gift, you cannot learn Parma Magica. You get an additional 50 experience points, which must be spent on Arcane Abilities.
 
@@ -3602,7 +3499,7 @@ A Gifted character who is not a Hermetic magus and knows Parma Magica must take 
 
 #### Archieunuch
 
-Major, Social Status 
+Major, Social Status
 
 You have risen to enjoy the status and privilege associated with the most important and talented eunuchs, the archieunuchs. Although you are not a ruler in your own right, a ruler likely depends on you to govern effectively and has thus granted you considerable authority to act in his stead. Due to this status and importance, you wield significant influence among the lesser nobility. You might serve either as a regional administrator, an important courtier, or a general, and there are numerous servants and possibly other subordinate eunuchs under your command. You have been granted a residence, either within a castle or palace, or elsewhere. Due to your education, you may take Academic Abilities during
 
@@ -3638,13 +3535,11 @@ For determining the spell level, Body-of-water is the same level of Target as
 
 Structure (remember to increase the spell magnitude to affect a very large body-of-water, like a sea or the ocean).
 
->
 > ### Possible Abuses of Storms
 >
 > A ReAu spell with Storm duration intended to "keep a storm raging" will not result in a storm that lasts indefinitely. It will keep the storm raging for whatever its original lifetime was. A ReAu spell with a duration of Sun can be used to keep to a storm raging for a day, of course, and repeated castings of such a spell will keep the storm present until the caster gives up.
 >
 > Similarly, a CrAu spell with Storm duration will not create a storm that lasts indefinitely. It merely creates a storm that lasts for the duration of whatever storm existed prior to the casting of the spell. That is, if no storm previously existed this spell will have no effect. A CrAu spell with a duration of Storm cast on an existing storm will, however, help to prevent the storm from being dissipated by PeAu effects before it should naturally expire. A CrAu spell with a duration of Sun can be used to create a storm with a duration of a day, of course.
->
 
 #### Baccalaureus
 
@@ -3731,7 +3626,7 @@ You are a priest of a crusading order, which is like other priests except that y
 
 #### Brother Knight
 
-Minor, Social Status 
+Minor, Social Status
 
 You are a knight in a holy crusading order, and it is your duty to be ready to fight the infidel at any time. You have sworn a lifelong vow of obedience, poverty, and chastity, and are answerable only to your superiors and the pope. Unless you are Poor, you may have highquality weapons and armor, and two horses. You may take Academic and Martial Abilities during character generation. You wear the symbol of your order on your distinctive surcoat, which is usually pure white (Templars, Hospitallers) or golden (Teutonic knights). This Virtue is only available to male characters.
 
@@ -3756,7 +3651,7 @@ City and Guild, Chapter 7 gives more details of what this involves. A capo who i
 
 #### Cathedral School Master
 
-Major, Social Status 
+Major, Social Status
 
 The character teaches at a cathedral school, one of the many that dot Mythic Europe. He is at least (30 – Intelligence) vears old and must have scores of 5 in Latin and Artes Liberales, and a Teaching score of at least 3. He may learn any Academic Ability, and may teach it to his students. He is typically not a university man, but was instructed at a cathedral school. He receives 240 additional experience points, which may be spent on Academic Abilities and Teaching. The character has an Academic Reputation of 2.
 
@@ -3782,13 +3677,13 @@ The character is a member of Clan Ilfetu within House Bjornaer, and has received
 
 #### Clear Thinker
 
-Minor, General 
+Minor, General
 
 You think logically and rationally. You get a +3 bonus on all rolls to resist lies, confusion, befuddlement, and subterfuge — whether magical or mundane.
 
 #### Clerk
 
-Minor, Social Status 
+Minor, Social Status
 
 You are a member of the literate class and are either a professional scribe, accountant, lawyer, student, or functionary. Due to your training, you may take Academic Abilities during character generation. If you are male, you may be in minor orders (acolyte, exorcist, lector, or doorkeeper), in which case you may marry and still benefit from being a member of the clergy and as such subject to canon rather than secular law. Male characters may also be sub-deacons or deacons, the lesser two holy orders, in which case they would normally be expected to be unmarried. However, if they were already married, and promise complete sexual abstinence, they may still be ordained to these orders. A man may not marry after ordination to holy orders. Those in holy orders are also subject to canon, rather than secular, law. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is available to male and female characters, but female characters may not be in minor or holy orders.
 
@@ -3821,7 +3716,7 @@ Some lay rulers ordained by the pope (mostly kings and emperors) also have a Com
 
 #### Common Sense
 
-Minor, General 
+Minor, General
 
 Whenever you are about to do something contrary to what is sensible in the game setting, common sense (the storyguide) alerts you to the error. This is an excellent Virtue for a beginning player, as it legitimizes any help the storyguide may give.
 
@@ -3842,7 +3737,6 @@ This Virtue gives the character the Supernatural Ability of Corpse Magic, at a s
 Free, Social Status
 
 You are a member of the covenant staff, and may have lived there all your life. You are supported by the covenant, and so your standard of living is determined by the covenant's resources rather than your own. You may not take the Wealthy Major Virtue or the Poor Major Flaw.
-
 
 #### Craft Guild Training
 
@@ -3900,7 +3794,7 @@ You are particularly skilled with one Form. You suffer no penalty to the Casting
 
 #### Demonic Blood
 
-Major, Supernatural, Tainted 
+Major, Supernatural, Tainted
 
 The character has a demon as a parent, and was conceived for a specific task by her Infernal mother or father. Because of this, she is an Infernal being and possesses an Infernal Might (Corpus) score of 5. This grants her Magic Resistance. Her body also contains one pawn of Corpus vis, which can only be extracted once she is dead. She is immune to Warping of any kind, need not eat or drink, and cannot produce a child; however, she suffers the natural urges associated with these activities, and may be required to make Personality rolls to overcome her desires.
 
@@ -3918,25 +3812,25 @@ You cannot take the Infernal Blessings Virtue described in Realms of Power: The 
 
 #### Demonic Might
 
-Minor, Supernatural 
+Minor, Supernatural
 
 You may only take this Virtue if your character has the Demonic Blood Virtue. Her Infernal Might increases by 2 points. Upon her death, her body contains a number of pawns of Corpus vis equal to her (Infernal Might / 5), rounding up. You may take this Virtue more than once, though it can account for no more than half of the character's total Virtues.
 
 #### Demonic Powers
 
-Minor, Supernatural 
+Minor, Supernatural
 
 Only a character with the Demonic Blood Virtue may have extra 20 levels of Infernal Powers in addition to the levels granted by Demonic Blood. You may also take this Virtue more than once, though it can account for no more than half of the character's total Virtues.
 
 #### Devil Child
 
-Free, Mythic Companion 
+Free, Mythic Companion
 
 This Virtue has no cost, and can only be taken for a Mythic Companion who has been born with demonic parents. The character gets the Demonic Might or Demonic Powers (player's choice) Minor Virtue free.
 
 #### Diedne Magic
 
-Major, Hermetic 
+Major, Hermetic
 
 Your magic lineage and traditions are from the druids and the vanquished former house of Diedne, making you especially skilled with Spontaneous magic. When you cast a Spontaneous spell without expending Fatigue. you may choose to divide by 5 or by 2. If you choose to divide by 5, you need not roll a stress die, and cannot botch, just as normal. If you choose to divide by 2, you must roll a stress die, and may botch.
 
@@ -3956,13 +3850,11 @@ Like other working characters, he must spend two seasons a year practicing his p
 
 This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues. It is only available to male characters, with the exception of Doctors in Medicine who graduated from Salerno. That university does train female physicians.
 
->
 > ### Animal Characters
 >
 > An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in *Grogs*, page 136,
 >
 > but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly Realms of Power: Faerie (page 50) and Realms of Power: Magic (Chapter 5).
->
 
 #### Domestic Animal
 
@@ -3972,7 +3864,7 @@ The character is an animal who is the property of a covenant or character, and i
 
 #### Dowsing
 
-Minor, Supernatural 
+Minor, Supernatural
 
 You have the ability to find things nearby through the use of a dowsing rod (usually a forked stick) and your own intuitive sense. Choosing this Virtue confers the Ability Dowsing 1 (page 164).
 
@@ -3991,7 +3883,7 @@ during character generation. During character generation you get an additional 5
 
 #### Educated (Bardic)
 
-Minor, General 
+Minor, General
 
 The character has attended one of the great bardic schools in Hibernia, either to receive an education (in which case he need not have attempted the punishing examination) or to commence training as a bard (in which case you should also take an appropriate bardic Social Status Virtue). For Senior or Master Bards this Virtue represents additional years of study. You receive 50 extra experience points to spend on Art of Memory, Profession: Storyteller, Profession: Poet, any Area Lore, or any Organization Lore.
 
@@ -4011,7 +3903,7 @@ the East may also spend some of these points on Arabic.
 
 #### Educated (Vernacular)
 
-Minor, General 
+Minor, General
 
 This form of secular instruction, given by tutors to the scions of merchant houses, emphasizes practical skills likely to make the student suited to a leadership role in the family business. The character may purchase Academic Abilities during character creation. She also gains 50 additional experience points, which must be spent on Academic Abilities, Bargain, the Organization Lore of the character's company, Profession Merchant, or the language of trade in the company's region (usually Latin, Greek, or Arabic).
 
@@ -4027,7 +3919,7 @@ In addition, if a spell with one of these Forms as its primary Form has another 
 
 #### Embitterment
 
-Major, Supernatural 
+Major, Supernatural
 
 You may make someone hostile to a target of your choice. Choosing this Virtue confers the Ability Embitterment 1.
 
@@ -4040,7 +3932,7 @@ teachings, and culture as you are with martial pursuits.
 
 #### Enchanting (Ability)
 
-Minor, Supernatural 
+Minor, Supernatural
 
 When you set your mind to it, you can magically induce emotions and beliefs in others with a particular kind of artistic expression: music, dance, drawing, storytelling, even craftwork. Choosing this Virtue confers the Ability Enchanting (Ability) 1 (page 164).
 
@@ -4215,11 +4107,11 @@ Your magic takes less time to perform than that of other magi. You gain +3 to In
 
 Minor, Supernatural
 
-This Virtue is only available to a character who can take the form of a bird (which may be her natural form). She can painlessly separate a feather from her body, and use it to write as a quill, controlling its movements telepathically while it remains within sight. The quill doesn't need ink; it provides it magically. After she finishes writing, the character can reattach the feather if in bird form. The quality of the character as a scribe does not differ between human and bird forms. The character can also pull off feathers in bird form, turn into a human, and still mentally control the dropped feathers. This Virtue is particularly associated with a north African magical tradition called the Daughters of Four Fathers (see Between Sand & Sea, page 107). 
+This Virtue is only available to a character who can take the form of a bird (which may be her natural form). She can painlessly separate a feather from her body, and use it to write as a quill, controlling its movements telepathically while it remains within sight. The quill doesn't need ink; it provides it magically. After she finishes writing, the character can reattach the feather if in bird form. The quality of the character as a scribe does not differ between human and bird forms. The character can also pull off feathers in bird form, turn into a human, and still mentally control the dropped feathers. This Virtue is particularly associated with a north African magical tradition called the Daughters of Four Fathers (see Between Sand & Sea, page 107).
 
 #### Ferocity
 
-Minor, General, animals only 
+Minor, General, animals only
 
 Like companion and magus characters, this character has Confidence points. However, these Confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. Describe a situation which activates the Confidence for its species, and take 3 Confidence points and a Confidence Score of 1 to use when those circumstances are met.
 
@@ -4265,7 +4157,7 @@ This Virtue may be associated with any supernatural realm. If you have access to
 
 #### Folk Magic
 
-Minor, Supernatural 
+Minor, Supernatural
 
 The character is capable of performing very minor acts of magic through his knowledge of scraps of occult lore. Choose one (Realm) Lore that is the key Ability for this magic, he may learn this Ability at Character Creation even if he is normally unable to take Arcane Abilities. The choice of (Realm) Lore also determines which supernatural realm his magic is aligned to for the purposes of aura modifiers. He can only create spells in one narrow area, which must be one of the following four options:
 
@@ -4343,13 +4235,13 @@ You are a minor member (possibly illegitimate) of a noble family. You do not sta
 
 #### Ghostly Warder
 
-Major, General 
+Major, General
 
 A ghost watches over you. It might be a grandparent, a childhood friend, or anyone else who cares for you enough to stay around after death. The ghost is invisible and silent to all but you and those with Second Sight (see page 170). It can see and hear what is going on around you and makes an excellent spy, since it can leave your presence once per day for up to half an hour. However, death does not leave people in their normal state of mind, so the ghost probably has some quirks that make it less than dependable — it might even encourage you to join it on the other side. The ghost has 300 experience points in various Abilities that it can use to advise you, and ghosts may take any Abilities. See page 457 for an example of a ghostly warder. This is a more specific version of Magical Warder (see later), and is an example of that Virtue.
 
 #### The Gift
 
-Free, Special 
+Free, Special
 
 You have the ability to work magic. See earlier, page 63, for full details.
 
@@ -4361,7 +4253,7 @@ You can explain new concepts and skills with great facility. Add three to the Qu
 
 #### Giant Blood
 
-Major, General 
+Major, General
 
 The blood of the ancient race of giants flows in your veins. Though you are not as large as your ancestors, you are up to eight feet tall and can weigh as much as 500 pounds. Your Size is +2, so you take wounds in 7point increments, rather than the normal 5 (see page 404). You also gain +1 to both Strength and Stamina. This bonus may raise your scores in those Characteristics as high as +6. You cannot take this Virtue and Large (page 89), Small Frame (page 145), or Dwarf (page 126).
 
@@ -4385,7 +4277,7 @@ You may raise any Characteristic that already has a score of at least +3 by one 
 
 #### Greater Benediction
 
-Major, Supernatural 
+Major, Supernatural
 
 You have been blessed by some supernatural power. The effects of the benediction should be comparable to other Major Virtues. (See insert for examples.)
 
@@ -4425,7 +4317,7 @@ The power has an Initiative equal to the character's Quickness - (power magnitud
 
 This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine, Revised Edition Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
-#### Greater Purifying Touch 
+#### Greater Purifying Touch
 
 Major, Supernatural
 
@@ -4544,7 +4436,7 @@ You have an additional three points to spend on buying Characteristics, but you 
 
 #### Indescribable Face
 
-Minor, General 
+Minor, General
 
 After meeting this character, other characters usually find it hard to describe him sufficiently well to separate him from others. Some forgettable characters are just average height and weight, with unremarkable features. Others have a particular feature which is so striking it crowds out other memories. He has an ostentatious hat. She was carrying a little dog. The characters can recall the striking feature, but little else. A player who selects this Virtue for his character needs to select which form of the Virtue his character has.
 
@@ -4660,7 +4552,6 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 > a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society.
 >
 > More details on the Kassalan Mortuary Society can be found in Lands of the Nile, from page 88.
->
 
 #### Keen Vision
 
@@ -4774,7 +4665,7 @@ You have been blessed by some supernatural power. The effects of the benediction
 >
 > If you are in the presence of someone who bears you ill will, you feel a pricking sensation in your thumbs. You cannot distinguish one enemy from a crowd with this ability.
 >
-> ##### Unusually Fecund 
+> ##### Unusually Fecund
 >
 > Every sexual encounter with a partner of the opposite sex results in conception.
 >
@@ -4898,7 +4789,6 @@ Minor, Hermetic
 
 Your memory has been developed to remember magical rather than mundane things. You need not keep laboratory texts (see page 262) of your creations to get the benefit of a Lab Text when reproducing them. If you have created an effect by following another magus's Lab Text once, you may get the same benefit in future without needing to have the text available.
 
-
 #### Magical Blood
 
 Minor, Supernatural
@@ -4976,7 +4866,6 @@ A character can have only one Magical Focus, either major or minor, regardless o
 > - Necromancy: Corpus and Mentem as applied to the bodies and spirits of dead people.
 > - Damage: Any Art, as long as the effect does damage directly, either by inflicting a wound or doing a certain amount of damage which can be soaked.
 > - Disguise: Changing the appearance of something, by any means.
->
 
 #### Maker of Textured Vessels
 
@@ -5019,7 +4908,6 @@ Minor, Social Status
 A noble's stables require a specialist to coordinate the care. feeding, and welfare of the animals. This person is called a marshal, and the title holds considerable honor. The Marshal of England is the king's official in charge of his cavalry, but even the marshal of a baron is an important personage, given the vital roles played by horses in warfare and hunting, as well as routine travel.
 
 A marshal should take the Ability Profession: Marshal, which deals with understanding, purchasing, and caring for horses. It functions as the Ability Medicine for the purpose of treating veterinary diseases, and for surgery involving these animals. A marshal receives 50 extra experience points at character generation to spend on the abilities Animal Handling, Etiquette, Hunt, Latin, Profession: Marshal and Ride, and may take Martial Abilities freely.
-
 
 A marshal may overseen other specialists, including farriers who make horseshoes; leatherworkers who produce tack, harness, and saddles; and the trained staff who administer day-to-day grooming and mucking out of the stables.
 
@@ -5156,7 +5044,6 @@ A magus may only have one Magical Focus, whether major or minor, regardless of t
 > - Terram: Creating metals, destroying stone.
 > - Healing: Applies to people, animals, and plants.
 > - Self-transformation: Applies to both Corpus and Mentem.
->
 
 #### Mugta' (Mug-Ta')
 
@@ -5188,8 +5075,9 @@ Your potent Gift means that you do not lose Fatigue levels if your Casting Total
 
 Additionally, you may choose one special magic feat which you can invoke at will and cancel at will, as often as you like. Invoking this feat takes as long as fast-casting a Mastered Formulaic spell (see page 213), and requires the same level of concentration. The effect should be designed as a non-Ritual Hermetic effect, with a level + Penetration limited as below. The Penetration of the effect is not modified by the magus's Penetration Ability score, and cannot be negative, so that the highest possible level of the effect is 30.
 
+
 | Invocation                | Level + Penetration |
-| ------------------------- | ------------------- |
+| --------------------------- | --------------------- |
 | Neither speak nor gesture | 15                  |
 | Gesture                   | 20                  |
 | Speak                     | 25                  |
@@ -5314,7 +5202,6 @@ Formulaic spells must be devised with the new Duration to use this Ability, if s
 > **Variable:** Craft (Type), Profession (Type)
 >
 > While Brawl and Martial Abilities may be used in Performance Magic, the magus needs to perform semi-ritualistic movements to cast spells, responding to the needs of the spell, not to the actions of an opponent. If the magus is in combat, then he may only use Performance Magic (Brawl or Martial Abilities) if the player rolls a stress die with three extra botch dice, and treats all nonbotches as die rolls of zero. (This represents ignoring the opponent and casting the spell.)
->
 
 > ### Sorcerous Music (Performance Magic)
 >
@@ -5325,7 +5212,6 @@ Formulaic spells must be devised with the new Duration to use this Ability, if s
 > Sorcerous Music can be performed as singing-only and not replace gestures (with normal spellcasting penalties or the benefits of Subtle Magic), or can be performed without singing (if the magus plays an instrumental tune), but cannot be performed silently.
 >
 > When using Voice Range with Sorcerous Music, the spell carries as far as the music (song or instrument) could be heard. For some loud instruments, this may be a long way.
->
 
 > ### Recognizing Performance Magic
 >
@@ -5816,17 +5702,17 @@ When given the opportunity to study an Art from books or raw vis in the presence
 
 > ### Study Bonus Examples
 >
-> | Art Score | Minimum Presence of Art                                      |
-> | --------- | ------------------------------------------------------------ |
-> | 0         | A candle flame (Ignem), a magic aura (Vim), a dying insect (Perdo) |
-> | 5         | A pond (Aquam), a painting (Imaginem), a caterpillar and butterfly (Muto) |
-> | 10        | A breezy place in the open air (Auram), a live animal at least the size of a cat (Animal), half a dozen plants at different stages of growth (Creo) |
-> | 15        | An area of bare natural rock, such as a mountainside (Terram), a human corpse to dissect (Corpus), at least one book on each of a dozen mundane subjects (Intellego) |
-> | 20        | In a forest (Herbam), at a gathering of scholars (Mentem), at a law court (Rego) |
-> | 25        | In a boat on a large body of water (Aquam), in a strong (6+) magic aura (Vim), in a hospital full of people dying of pestilence (Perdo) |
-> | 30        | In the middle of a large fire (Ignem), in a building covered with elaborate figured decoration in many media, where music is constantly played (Imaginem), in the presence of a magical shapeshifter whose transformations you can control (Muto). |
-> | 35        | Flying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego) |
 >
+> | Art Score | Minimum Presence of Art                                                                                                                                                                                                                            |
+> | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | 0         | A candle flame (Ignem), a magic aura (Vim), a dying insect (Perdo)                                                                                                                                                                                 |
+> | 5         | A pond (Aquam), a painting (Imaginem), a caterpillar and butterfly (Muto)                                                                                                                                                                          |
+> | 10        | A breezy place in the open air (Auram), a live animal at least the size of a cat (Animal), half a dozen plants at different stages of growth (Creo)                                                                                                |
+> | 15        | An area of bare natural rock, such as a mountainside (Terram), a human corpse to dissect (Corpus), at least one book on each of a dozen mundane subjects (Intellego)                                                                               |
+> | 20        | In a forest (Herbam), at a gathering of scholars (Mentem), at a law court (Rego)                                                                                                                                                                   |
+> | 25        | In a boat on a large body of water (Aquam), in a strong (6+) magic aura (Vim), in a hospital full of people dying of pestilence (Perdo)                                                                                                            |
+> | 30        | In the middle of a large fire (Ignem), in a building covered with elaborate figured decoration in many media, where music is constantly played (Imaginem), in the presence of a magical shapeshifter whose transformations you can control (Muto). |
+> | 35        | Flying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego)                                               |
 
 #### Subtle Magic
 
@@ -5873,7 +5759,6 @@ The wealth may be used to purchase the services of people, who, because they hav
 > ### The Knights Templar
 >
 > The Poor Knights of the Temple of Solomon, the Knights Templar, are an extremely important and influential order in Mythic Europe. Women cannot pay a fine, with the Paid Rights Virtue, to take a role in the order that is restricted to men. For full details, see Chapter 7 of The Church.
->
 
 #### Templar Administrator
 
@@ -5903,7 +5788,7 @@ The character holds a position within the local hierarchy of the Poor Knights of
 
 Minor, General
 
-A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level 
+A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level
 4 within the Templars.
 
 #### Templar Servant
@@ -6034,11 +5919,11 @@ People are often attracted to you. You get +3 on Communication and Presence roll
 
 Minor, Hermetic
 
-You have been initiated into the Outer Mystery of Verditius Magic (see page 240), and thus are a member of House Verditius. Note that all Verditius magi gain this Virtue for free at character creation. 
+You have been initiated into the Outer Mystery of Verditius Magic (see page 240), and thus are a member of House Verditius. Note that all Verditius magi gain this Virtue for free at character creation.
 
-#### Voice of the (Land) 
+#### Voice of the (Land)
 
-Minor, Supernatural 
+Minor, Supernatural
 
 The character can speak with any creature whose natural habitat is a particular environment associated with this Virtue (including animals and magic beings), and the character is not normally perceived as either a threat or a prey object by these creatures.
 
@@ -6122,7 +6007,6 @@ Some Virtues, such as Life Boost and Life-Linked Spontaneous Magic, actually use
 It is, however, useful to have the Withstand Casting Virtue even with Life- Linked Spontaneous Magic, in case that shortfall is extreme; for example, if the magus botches and the Casting Total is reduced to zero.
 
 *Example: Some time later, Vita tries again, hoping to cast another level 20 spell. However, she botches, and her Casting Total is zero. She would normally lose 6 Fatigue levels (1 for spontaneous casting, plus 1 for Vulnerable Casting, plus 4 for the shortfall in Casting Total), but she can withstand 3 Fatigue levels lost, and only suffers a net loss of 3 Fatigue levels. The spell fails, but she is still conscious.*
-
 
 ## List of Flaws
 
@@ -6480,8 +6364,6 @@ Warped Senses
 Weak Characteristics
 Witch Marks
 
-
-
 ## Flaws
 
 #### Abandoned Apprentice
@@ -6602,7 +6484,7 @@ The character is especially disturbing to others, so much that they can barely t
 
 #### Blind
 
-Major, General 
+Major, General
 
 You have little or no sight. Using missile weapons is futile, reading is impossible, and navigation in unknown territory is difficult to say the least. Blind magi can detect targets by other senses, and thus are less limited than people trying to use missile weapons. However, blind magi cannot aim spells without magical aid.
 
@@ -6871,7 +6753,7 @@ Major, General
 
 You cannot hear at all. You may be able to speak, but you cannot understand spoken language, which makes communication difficult. Magi with this Flaw must roll an extra two botch dice when casting spells with a spoken component, as they cannot hear what they are saying.
 
-#### A Deal with the Devil 
+#### A Deal with the Devil
 
 Major, Story
 
@@ -7136,9 +7018,9 @@ The character occasionally suffers convulsions and blackouts. Convulsions occur 
 
 Major, Supernatural, Tainted
 
-One of the character's Supernatural Virtues is associated with the Infernal realm, in addition to the realm with which it would normally be associated, which causes it to appear unholy when subjected to Divine or Infernal investigation. This quality could be because of something inherent to the Power, or perhaps because of the interference of Infernal agents. This Flaw can apply to Supernatural Virtues that define the character's background, like Faerie Blood, Diedne Magic, or even The Gift. In these cases, falsehood permeates the whole of the character's being, causing everything she does to seem unholy to those with the ability to sense it The False Power is often subtly changed by its Infernal aspect, making it more sinister or negative. Here are some examples: 
+One of the character's Supernatural Virtues is associated with the Infernal realm, in addition to the realm with which it would normally be associated, which causes it to appear unholy when subjected to Divine or Infernal investigation. This quality could be because of something inherent to the Power, or perhaps because of the interference of Infernal agents. This Flaw can apply to Supernatural Virtues that define the character's background, like Faerie Blood, Diedne Magic, or even The Gift. In these cases, falsehood permeates the whole of the character's being, causing everything she does to seem unholy to those with the ability to sense it The False Power is often subtly changed by its Infernal aspect, making it more sinister or negative. Here are some examples:
 
-*(False) Premonitions:* The taint of the character's Premonitions Power leaves it vulnerable to Infernal manipulation, even if the character has Magic Resistance. Many of the character's premonitions are accurate, and pursuit of the stories they evoke is usually worthwhile. These valuable insights often lead characters to trust lies that a demon offers through the Power in order to manipulate their response to pivotal events. 
+*(False) Premonitions:* The taint of the character's Premonitions Power leaves it vulnerable to Infernal manipulation, even if the character has Magic Resistance. Many of the character's premonitions are accurate, and pursuit of the stories they evoke is usually worthwhile. These valuable insights often lead characters to trust lies that a demon offers through the Power in order to manipulate their response to pivotal events.
 
 *(False) Second Sight:* The character is particularly likely to see through an illusion or deception when what he sees would lead him to sin. Sometimes he may see through mundane obstacles, if the information gained would tempt him to sinful acts.
 
@@ -7257,19 +7139,19 @@ Some examples of possible monstrosities are listed nearby, but the troupe may de
 
 > ### Monstrosity Examples
 >
-> | Form     | Monstrosity                                                  |      |      |
-> | -------- | ------------------------------------------------------------ | ---- | ---- |
-> | Animal   | an additional head                                           |      |      |
-> | Aquam    | gills, or webbing on land animals                            |      |      |
-> | Auram    | wings on a land or sea animal                                |      |      |
-> | Corpus   | human-like limbs or eyes                                     |      |      |
-> | Herbam   | a branch for a tail                                          |      |      |
-> | Ignem    | fiery breath, or an extremely elevated body                  |      |      |
-> | Imaginem | unnatural hide (tiger fur on a horse, for example)           |      |      |
-> | Mentem   | sensitivity to spirits (animal can both sense and is afraid of spirits) |      |      |
-> | Terram   | teeth or claws of stone                                      |      |      |
-> | Vim      | sensitive to magic (animal feels pain when in a magical aura) |      |      |
 >
+> | Form     | Monstrosity                                                             |   |   |
+> | ---------- | ------------------------------------------------------------------------- | --- | --- |
+> | Animal   | an additional head                                                      |   |   |
+> | Aquam    | gills, or webbing on land animals                                       |   |   |
+> | Auram    | wings on a land or sea animal                                           |   |   |
+> | Corpus   | human-like limbs or eyes                                                |   |   |
+> | Herbam   | a branch for a tail                                                     |   |   |
+> | Ignem    | fiery breath, or an extremely elevated body                             |   |   |
+> | Imaginem | unnatural hide (tiger fur on a horse, for example)                      |   |   |
+> | Mentem   | sensitivity to spirits (animal can both sense and is afraid of spirits) |   |   |
+> | Terram   | teeth or claws of stone                                                 |   |   |
+> | Vim      | sensitive to magic (animal feels pain when in a magical aura)           |   |   |
 
 #### Fragile Constitution
 
@@ -7654,7 +7536,6 @@ Major, Story
 
 Someone, who looks exactly like you and whom you and your companions will most likely never meet, lives near you, and is responsible for an ongoing variety of violent, illegal, obscene, or embarrassing acts. You often have to explain who you are, and sometimes have to deal with the consequences of the other person's acts.
 
-
 #### Monastic Vows
 
 Major, Story
@@ -7855,7 +7736,6 @@ Major or Minor, Personality
 
 You are a fervent follower of your religion. You avoid the things it prohibits, and enthusiastically do the things it commands.
 
-
 #### Plagued by Supernatural Entity
 
 Major, Story
@@ -7914,7 +7794,7 @@ You have a very hard time recalling one type of thing, such as names, faces, or 
 
 #### Poor Student
 
-Minor, General 
+Minor, General
 
 You are bad at learning new things. Subtract 3 from all Advancement Totals derived from teaching and books (that is, you have no penalty to adventure experience, exposure, practice, studying from vis, or training), but do not reduce a total below one. If you could learn something without this Flaw, you still learn a bit.
 
@@ -8096,7 +7976,6 @@ Minor, General
 More often than not, this character is unable to sleep soundly during the night. The resulting deprivation means that he is likely to nod off in periods of quiet and boredom. When the character is alone, comfortable, bored, or otherwise at risk of falling asleep, he needs to make a suitable Personality roll to avoid nodding off. Loyal, Reliable, and Lazy (for a penalty in the last case) are all appropriate. The character's current Fatigue penalty applies to the roll.
 
 Regardless of whether he manages to stay awake, the following night you must make a stress roll (no botch) against an Ease Factor of 6 to see if the character sleeps well. Every night he has slept poorly, he loses a Long Term Fatigue Level. Continue this until he sleeps soundly for a whole night. Once he has lost 3 Long Term Fatigue Levels, he automatically sleeps through the night, due to sheer exhaustion. This Flaw is not compatible with the Night Terrors Flaw.
-
 
 #### Slothful
 
@@ -8283,7 +8162,6 @@ This Story Hook may be renamed 'True Friend' to cover characters with whom you a
 
 If the True Love is significantly weaker than the player character, and not able to provide useful assistance in most cases, this is a Major Flaw. If the True Love is competent, equal to or better than the player character, then this is only a Minor Flaw. The True Love may need rescuing occasionally, but more often she will involve the player character in her plans.
 
-
 #### Twilight Prone
 
 Major, Hermetic
@@ -8375,7 +8253,6 @@ You always roll a stress die when using magic, even if completely relaxed. If yo
 Minor, Supernatural
 
 The character has a penchant for stirring up situations, making pleasant events better and unpleasant ones worse. Whenever the character is in a social situation with multiple people, his slightest behavior will subtly push others to extreme behavior. He is either the life of the party, or its death, depending on the prevailing mood of the crowd. His influence is linked to his magical nature, so that others with Magic Resistance are not influenced by him.
-
 
 #### Unspecialized
 
@@ -8549,14 +8426,12 @@ Any form of Magic Resistance you generate is much weaker under relatively common
 > - As cold as a chilly winter's day in Western Europe
 > - Arctic winter
 > - Unnaturally cold
->
 
 #### Weak Parens
 
 Minor, Hermetic
 
 Your parens was less powerful or a worse teacher than normal. You gain 60 fewer experience points and 30 fewer spell levels from apprenticeship, for a total of 180 experience points and 90 levels of spells.
-
 
 #### Weak Personality
 
@@ -8577,7 +8452,6 @@ Major, Hermetic
 You may not exert yourself when casting spontaneous magic, so you always divide your Casting Score by five. In stressful conditions you must still roll a stress die to see if you botch, but the die roll does not add to your casting total. You may still use ceremonial casting.
 
 This Flaw may be combined with Difficult Spontaneous Magic (page 126) to create a magus who cannot cast spontaneous magic at all.
-
 
 #### Weakness
 
@@ -8609,15 +8483,9 @@ Major or Minor, Personality
 
 You are prone to anger over the smallest issues, and your rage when you are thwarted in something major is terrible to behold.
 
-
-
 > Torches flicker under a bright flare of magelight! Our wizard illuminates our hurried journey with his glowing staff, while our grim-faced guards flank our footsteps. Our covenant welcomes us home from the craggy cliffs, battlements etched against the sky, overlooking the vast darkening ocean as the sun dips low. It guards tales of valiant knights, cunning sorcerers, and their faithful companions. Our wagon rattles down the winding path, pressing onward toward safety with haste as the wind whips dark threats past our ears. For we all know unseen danger lurks in the deepening shadows, tracking our every move from the treeline, testing our courage at each step.
 
-
-
-
 # V. Abilities
-
 
 Abilities represent the things that a character has learned over the course of her life. They increase over the course of a saga, as people continue learning all the time.
 
@@ -8631,7 +8499,6 @@ Suggested specializations for each Ability are listed at the end of each descrip
 
 ## Abilities With No Score
 
-
 If a character has no score in an Ability, she may or may not be able to use it. If the Ability is not asterisked in the list from page 159, she may use it as if it had a score of zero, but rolling three extra botch dice. If it is asterisked, she cannot use it at all.
 
 A character who has placed a single experience point into an Ability may use it with a score of zero, with no extra botch dice, regardless of whether or not it is asterisked. Experience points represent a noticeable amount of training, and thus make the Ability available to the character.
@@ -8639,7 +8506,6 @@ A character who has placed a single experience point into an Ability may use it 
 Characters cannot use Supernatural Abilities unless they have at least one experience point in the Ability. Most characters cannot put experience points into any Supernatural Abilities. In most cases, a character needs a particular Virtue in order to put experience points into a particular Supernatural Ability, but there are exceptions. The most important exception is The Gift, which is covered later, and other exceptions are described in supplements.
 
 ## Ability Types
-
 
 There are six types of Ability: General Abilities, Academic Abilities, Arcane Abilities, Martial Abilities, Spell Mastery Abilities, and Supernatural
 
@@ -8650,7 +8516,6 @@ Abilities. Most of these are used in the same way; the difference lies in who ca
 > Characteristic + Ability + die roll,meet or exceed the Ease Factor to succeed
 >
 > Ability of 0 can be used if not asterisked, adding 3 botch dice. Add +1 when using an Ability's specialization.
->
 
 ### General Abilities
 
@@ -8718,7 +8583,6 @@ Bows Great Weapon Single Weapon Thrown Weapon
 
 Animal Ken\* Corpse Magic\* Crafter's Healing\* Curse-Throwing\* Dowsing\* Embitterment\* Enchanting (Ability)\* Entrancement\* Font of Knowledge\* Hex\* Induction\* Magic Sensitivity\* Persona\* Premonitions\* Second Sight\* Sense Holiness and Unholiness\* Sense Passions\* Shapeshifter\* Summon Animals\* Whistle Up The Wind\* Wilderness Sense\*
 
-
 Characters may only gain Supernatural Abilities during character creation if they have the Virtue granting the Ability. Characters with The Gift who are not magi may learn a single Supernatural Ability during character creation.
 
 Most of these Supernatural Abilities are granted by the Magic or Faerie realms, and use the relevant column on the realm interaction table (page 410). Most can also be granted by the Infernal realm, but taking such an Ability suggests some sort of deal with Infernal powers. Sense Holiness and Unholiness is the main exception, as a Divine power. If you have no reason to choose otherwise, your Ability is granted by the Magic realm, which makes you immune to warping from powerful Magic auras (see page 389). An Ability granted by another realm makes you immune to warping from powerful auras associated with that realm, instead.
@@ -8743,13 +8607,13 @@ Specialties: geography, history, legends, politics, personalities. (General)
 
 Art of Memory\*: The Art of Memory deals with the creation of memory palaces, a form of mnemonic, in which one visualizes a number of loci (singular
 
-
 locus), where the scholar commits to memory a symbolic representation of a fact to be remembered. The character has a number of loci equal to five times their score in Art of Memory.
 
 To memorize a complex scene, image, or piece of writing (such as a long letter, but not as long as an entire text), the character must succeed in a roll of:
 
 Complex Memorization Roll
 Stress Die + Intelligence
+
 + Art of Memory vs. Ease Factor of 9 (or higher)
 
 The Ease Factor may be higher depending on the length or complexity of the item to be memorized. If the character succeeds, they remember the item in exact detail, and may recall it at will although it may take time to explore a locus.
@@ -8766,7 +8630,6 @@ Grammar concerns theoretical questions of the structure of languages, rather tha
 
 Arithmetic is the ability to add and subtract, multiply and divide. The auctor is Boethius, *De arithmetica*. Geometry is concerned with study of plane and solid figures, and the auctor is Euclid, in his *Elementa*. It also deals with the study of light, and Euclid's *Optica* is the authority here. Astronomy is concerned with predicting the positions of the stars and planets, and the auctor is Ptolemy, in the *Libri Almagesti*. Music is purely
 
-
 theoretical, the study of proportions and musical theory, not the ability to sing or play an instrument. The authority is Boethius, in *De Musica*.
 
 Artes Liberales also covers the ability to read and write. For every point in the Ability, the character can read and write one writing system, providing that he knows a language which normally uses that system: the Latin alphabet, the Greek alphabet, the Arabic alphabet, and so on.
@@ -8782,7 +8645,6 @@ Athletics: General physical prowess. It includes moving smoothly, confidently, a
 Awareness: Noticing things, be they things you are looking for or things that you are not expecting. It is also used to see how alert you are in circumstances that require watchfulness.
 
 *Specialties:* bodyguarding, keeping watch, alertness, searching. (General)
-
 
 Bargain: The know-how to get the greatest return for a service or product, while paying the least. It involves reading the person with whom you haggle, a general knowledge of the value of goods, and presenting yourself in certain ways. A good haggler can easily overcome resistance in an inexperienced customer and see through attempts to over-value most merchandise.
 
@@ -8862,7 +8724,6 @@ Curse-Throwing\*: This Supernatural Ability is usually aligned to the Faerie Rea
 
 To throw a curse, the afflicted person must be physically present, and the recipient of the curse must be represented either in person or by an Arcane Connection. Afflictions can be passed from humans to animals or vice versa, but this is harder than transferring within the same species. Curse-Throwers sometimes transfer the curse to themselves, but such altruism is rare. To throw a curse, the character must perform an elaborate ritual which involves the crafting of a charm which transfers the curse. This charm is a combination of a physical object and a chant. The object is repeatedly touched to the target and the recipient (or the
 
-
 Arcane Connection), whilst the chant is repeated over and over. The ritual typically takes an hour for every 5 points (or fraction) of the Ease Factor (see below). At the end of this time, the character generates a Casting Total, which must equal or exceed the Ease Factor listed below. If either the sufferer or the intended recipient of the curse has Magic Resistance, the Penetration Total must exceed it, else the curse stays where it is. A botched Curse-Throwing roll swaps the recipient of the curse to the caster.
 
 Curse-Throwing Casting Total:
@@ -8873,20 +8734,22 @@ Penetration Total:
 
 Casting Total – Ease Factor + Penetration Bonus
 
-| Curse                           | Ease Factor             |  |
-|---------------------------------|-------------------------|--|
-| Minor Disease<br>or Affliction* | 9                       |  |
-| Serious Disease or Affliction*  | 12                      |  |
-| Major Disease or Affliction*    | 15                      |  |
-| Critical Disease *              | 18                      |  |
-| Spell                           | 12 + magnitude of spell |  |
-| Supernatural Ability            | 12 + Ability score      |  |
-| Power                           | 12 + Might points spent |  |
+
+| Curse                           | Ease Factor             |   |
+| --------------------------------- | ------------------------- | --- |
+| Minor Disease<br>or Affliction* | 9                       |   |
+| Serious Disease or Affliction*  | 12                      |   |
+| Major Disease or Affliction*    | 15                      |   |
+| Critical Disease *              | 18                      |   |
+| Spell                           | 12 + magnitude of spell |   |
+| Supernatural Ability            | 12 + Ability score      |   |
+| Power                           | 12 + Might points spent |   |
 
 \*A Minor disease inflicts a Light wound, a Serious disease inflicts a Medium wound, a Major disease inflicts a Heavy wound, and a Critical disease inflicts an Incapacitating wound. See *Art & Academe*, Chapter 4:Medicine for more details. Minor Afflictions include boils and warts. Serious Afflictions are equivalent to a Minor Flaw in magnitude, whereas Major Afflictions are as severe as a Major Flaw.
 
+
 | Situation                                                                | Modifier to<br>Casting Total |
-|--------------------------------------------------------------------------|------------------------------|
+| -------------------------------------------------------------------------- | ------------------------------ |
 | Recipient present in person                                              | 0                            |
 | Recipient represented by<br>Arcane Connection lasting<br>decades or more | -1                           |
 | Recipient represented by<br>Arcane Connection lasting<br>months or years | -3                           |
@@ -8930,8 +8793,9 @@ Entrancement\*: You have the power to control another's will. By staring deeply 
 
 victim's bonus. The blind, and people with their eyes closed, are immune; see page 303 for more guidelines on making eye contact. However, it is not possible to look away while being Entranced unless you win the opposed roll.
 
+
 | COMMAND      | Example                | Victim's<br>Bonus |
-|--------------|------------------------|-------------------|
+| -------------- | ------------------------ | ------------------- |
 | Innocuous    | Talk to me             | +3                |
 | Questionable | Meet me alone at night | +6                |
 | Dangerous    | Put your weapons away  | +9                |
@@ -8976,8 +8840,9 @@ You must also state a time frame for the hex, anywhere from an effect that occur
 
 ## hex Delay Modifiers
 
+
 | DELAY      | Modifier |
-|------------|----------|
+| ------------ | ---------- |
 | moment     | -12      |
 | hour       | _9       |
 | day        | -6       |
@@ -8998,8 +8863,9 @@ Hex is often a false power (as the False Power Flaw) associated with the Magical
 
 ## hex Offects
 
+
 | Ease<br>Factor | Severity             | Example                                |
-|----------------|----------------------|----------------------------------------|
+| ---------------- | ---------------------- | ---------------------------------------- |
 | 6+             | Minor (1 botch)      | Automatic failure at an important task |
 | 12+            | Serious (2 botches)  | Struck blind                           |
 | 18+            | Major (3 botches)    | Debilitating illness                   |
@@ -9016,8 +8882,9 @@ Attempts at induction require a die roll of Communication + Induction. Induction
 
 The Ease Factors for Induction are:
 
+
 | Innocuous                       | 3  |
-|---------------------------------|----|
+| --------------------------------- | ---- |
 | Potentially Shaming             | 6  |
 | Potentially Dangerous to Others | 9  |
 | Potentially Dangerous to Self   | 12 |
@@ -9040,7 +8907,7 @@ This value can be reduced by 1 by each of the following factors: choose no more 
 
 • No lost time (character in illusion explains it is all happening in one night, no servants notice the character gone)
 
- Real world effects (character's actions in illusion seem to have altered the real world in verifiable ways)
+Real world effects (character's actions in illusion seem to have altered the real world in verifiable ways)
 
 • Follow up (the character has been convinced previous illusions were real, and this one is part of that larger story).
 
@@ -9187,11 +9054,11 @@ Specialties: good or evil. (Supernatural)
 
 Sense Passions\*: The character can sense the personality and desires of an intelligent being by recognizing and identifying the different shades of tarnish on its soul. A Perception + Sense Passions roll against an Ease Factor of 9 lets her sense the most powerful emotion currently being
 
-
 experienced by the person, and a roll against an Ease Factor of 15 allows her to identify the character's most dominant Personality Trait. The effect must penetrate the target's Magic Resistance if it has any kind of supernatural protection, and since this is a Supernatural Ability, it is affected by auras.
 
 Sense Passions:
 Stress Die + Perception
+
 + Sense Passions + Aura
 
 Through careful examination, the character can also recognize passions in people within the general area, allowing her to hone in on the most powerful source of emotion within sight, usually the character with the highest (or lowest) Personality Trait. This requires a 12 or better on the Sense Passions roll.
@@ -9203,7 +9070,6 @@ By sensing passions, the character can often recognize incorporeal spirits. You 
 In addition, this Ability allows the character to Sense Holiness and Unholiness in a limited fashion, much like the Sense Holiness and Unholiness Ability. She can tell that something is either holy or unholy, but she cannot distinguish between the two. She feels the emotional presence associated with the Divine or the Infernal, but cannot pinpoint its supernatural origin. Thus, she might mistake a demon with a fair shape for an angel, or a fearsome-looking angel for a demon. By identifying the target's primary emotions or desires, however, you can usually get a good idea of which realm the target is associated with, assuming the character can penetrate its Magic Resistance.
 
 Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and
-
 
 Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness. *Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
 
@@ -9259,18 +9125,13 @@ Wilderness Sense\*: You are mystically attuned to the ways of the wilderness. A 
 
 Specialties: direction, weather, hazards, resources. (Supernatural)
 
-
-
-
 # VI. Covenants
-
 
 he covenant is the single most important character in most ARS MAGICA sagas, because it is the character that all the players contribute to. It is their home, a
 
 secure base, and the place where they study, improve, and create magical wonders. Thus, coming up with a concept for the covenant is very important, as it will have a strong influence on the feel of the saga. A saga based on a covenant located in a hidden regio in the heart of Constantinople will be very different from one based in a covenant occupying a large castle on an island off the coast of Scotland, and different again from one based in a covenant in a magical glade in the heart of a haunted forest in Brittany.
 
 Although the covenant concept has an influence, it isn't all-defining. Many stories will, after all, take the magi away from their covenant, and if the troupe decides that it likes a particular sort of story, most of the stories may take place away from home. Covenants can even be moved, a proposition that will create a lot of stories in itself. This means that you should choose a concept you like when you start out, without worrying that you will be stuck with it forever.
-
 
 ## Through the Aegis
 
@@ -9281,7 +9142,6 @@ Through the Aegis contains five fully developed covenants, one for each of the s
 The spell Aegis of the Hearth (page 370) is one of the most important spells in the Order of Hermes. While Parma Magica gives individuals magic resistance, Aegis of the Hearth (often just 'the Aegis') gives it to a whole covenant. The number of Hermetic covenants with no Aegis at all can most likely be counted on the fingers of one hand, and most covenants want to have the strongest Aegis that they can manage. Thus, if none of the player characters start knowing the spell, you should include it in the covenant library, probably as both a Lab Text and a casting tablet (see later), and make learning it a high priority for someone. Casting the Aegis from a casting tablet is possible, but it is risky in the long term. Note that if the covenant includes magi who are older than the player characters, the player characters need not be able to cast it.
 
 ## Covenant Seasons
-
 
 he Order of Hermes traditionally classifies covenants into four seasons: Spring, Summer, Autumn, and Winter. These informal labels refer to the different stages of a
 
@@ -9300,8 +9160,6 @@ However, it is perfectly possible to start with nothing but a Magic aura, and ro
 A Spring covenant could also be founded in the ruins of an older, failed covenant. This provides a good source of stories right on the covenant's doorstep, along with the chance of finding Hermetic resources as treasure (something that otherwise tends to be implausible).
 
 Finally, a Spring covenant could refer to the state of mind of new, young members of a Winter covenant. The covenant has decayed so far that it isn't really a matter of reinvigorating it — the characters are effectively starting again. Much like the ruin, this provides the opportunity to find Hermetic resources lost within the covenant
-
-
 
 #### Vernus
 
@@ -9371,9 +9229,7 @@ Hiems, in its prime, had many vis sources, but now it hardly has the resources t
 
 Still, the covenant had more resources once, and many of them are likely to still be somewhere in the ruins. New magi could turn it back into the power it once was, or simply provide food for the dragon.
 
-
 ## Covenant Situations
-
 
 he situation of a covenant is largely independent of its season and power. A more powerful covenant simply has more resources available to deal with
 
@@ -9429,9 +9285,7 @@ Boons: Aura (Minor) x2, Edifice (Minor) x2,
 
 Hidden Resources (Minor) x3
 
-
 # Customized Covenant Creation
-
 
 he covenant should be created by the whole troupe, working together. The first step is to create a solid covenant concept, before picking the
 
@@ -9465,7 +9319,7 @@ Vis: At least three sources, each providing a different Art, yielding a total of
 
 Enchanted Items: 200 levels of enchanted items, with a highest level effect of 40. At least 100 levels should be spent on lesser enchanted devices with an effect level of 20 or lower.
 
-**Build Points Spent: 800** 
+**Build Points Spent: 800**
 
 This is suitable for a covenant in early Summer, or for the resources immediately available to young magi in an Autumn covenant.
 
@@ -9483,7 +9337,6 @@ Build Points spent: 2000
 
 This is suitable for a covenant in high Summer, the total resources of a relatively weak Autumn covenant, or the resources available to young magi in a very powerful Autumn covenant.
 
-
 ## Baseline
 
 The base for covenant creation is a stone building with enough room to accommodate the magi and other covenfolk, located in a level 3 Magic aura. The covenant has no magical resources, but has sufficient mundane resources to ensure that the magi do not have to worry about day-to-day upkeep. There is about one grog (fighter) per magus, and there are about two other covenfolk, such as servants and craftsmen, per magus. The available craftsmen include a blacksmith, carpenter, and maybe a bookbinder, but more exotic specialists are not present. While the covenant is hard to get into, it could not withstand a serious military assault without the use of magic. The Aging Modifier for a basic covenant is 0.
@@ -9494,11 +9347,12 @@ The covenant could be an isolated tower on a hill, a group of buildings in a cle
 
 The first choice is the level of power within the covenant that is accessible to the player character magi. This is a simple choice, depending on the sort of saga the players want. Novice players should start with a medium or low power level.
 
+
 | Power<br>Level | Build<br>Points | Maximum<br>Level | MINIMUM<br>AGE |
-|----------------|-----------------|------------------|----------------|
-| Low            | 0–300           | 25               | None           |
-| Medium         | 300–1250        | 40               | 10 years       |
-| High           | 1250–2500       | No limit         | 50 years       |
+| ---------------- | ----------------- | ------------------ | ---------------- |
+| Low            | 0–300          | 25               | None           |
+| Medium         | 300–1250       | 40               | 10 years       |
+| High           | 1250–2500      | No limit         | 50 years       |
 | Legendary      | 2500+           | No limit         | 100 years      |
 
 Maximum Level: The highest level of a single Lab Text or a single effect in an enchanted device. In the case of a device, the level includes all modifications (see Magical Enchantments on page 252 for more details).
@@ -9579,10 +9433,9 @@ Specialists are non-magus NPC members of the covenant with useful skills. They a
 
 Teachers: A teacher bought with Build Points is employed by the covenant, and available to teach as directed by the magi two seasons per year. The cost is the sum of his Communication and Teaching total and his highest score in the Abilities he will teach. Teachers cannot have The Gift, and thus cannot teach the Hermetic Arts. They may have other Supernatural Abilities, however. Their Abilities are limited by their age, as for newly created characters
 
-
-
 Teacher Cost:
 Communication + Teaching
+
 + Highest Ability Score
 
 Score Limits: By age (see page 48)
@@ -9657,8 +9510,6 @@ The player who will storyguide the Hook chooses a Minor Hook to be the unknown H
 
 **Urban:** The covenant is in a city. The vast majority of the inhabitants are not part of the covenant, and the covenant does not rule the city.
 
-
-
 ## Boons
 
 Boons are things that make the covenant better. Each Minor Boon costs one point, while a Major Boon costs three points, and they must be paid for with Hooks. They cannot be bought with Build Points.
@@ -9731,12 +9582,11 @@ Regio: The covenant is located in a Magical regio which can only be entered if p
 
 Wealth: The covenant is fabulously wealthy. One existing Typical source of income is upgraded to Legendary, providing enough money for the most sumptuous of quarters and the purchase of the most expensive materials and equipment. Such fortunate magi can live in kingly luxury, as can the covenfolk.
 
-
-
 # Sample Prevailing Loyalty Scores
 
+
 |                       | Edgard Cotto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Prevailing<br>Loyalty | ATTITUDE OF COVENFOLK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -6                    | The Covenfolk are deeply unhappy, and only remain with the covenant out of fear of retribution. They are on the verge of revolt, and are likely to complain to the nobility or the clergy over the treatment they have received at the hands of the magi. If they do so, they will mention the involvement of dark magic. The average servant or grog is surly and uncommunicative, and obeys a magus only under threat of violence. Productivity (in terms of cost-saving measures and income which relies upon covenfolk) of the covenant is halved due to desertion and rebellion. |
 | -4                    | The Covenfolk as a whole are not happy working for the magi, but it is a steady form of employment, and their immediate needs are cared for; so self-interest keeps them in place. They do not believe that their masters will help them if they get into trouble, and have no illusions over their own position in the covenant.                                                                                                                                                                                                                                                     |
@@ -9747,7 +9597,6 @@ Wealth: The covenant is fabulously wealthy. One existing Typical source of incom
 | 6                     | The Covenfolk go to extraordinary lengths in the service of their masters; it is not unknown for a grog to lay down his life for one. Covenant productivity is increased as the covenfolk go about their daily tasks with zeal. At this level of loyalty, the magi of the covenant are treated as near gods, and there is probably a great deal of superstition and ritual associated with daily life.                                                                                                                                                                                |
 
 ## Covenant Loyalty
-
 
 he mundane members of a covenant do not necessarily feel any strong loyalty towards it.
 They live and work there, and so they have a vested interest in its
@@ -9768,8 +9617,9 @@ calculated by applying modifiers to the Base Loyalty according to the environmen
 
 ## Gift Modifiers to Base Loyalty
 
+
 | The Gentle Gift or No Gift | 0    |
-|----------------------------|------|
+| ---------------------------- | ------ |
 | The Gift                   | -30  |
 | The Blatant Gift           | -105 |
 
@@ -9783,10 +9633,11 @@ both roles.
 
 LIVING CONDITIONS
 
+
 |                                                                             | 200000000000000000000000000000000000000                              |     |
-|-----------------------------------------------------------------------------|----------------------------------------------------------------------|-----|
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- |
 |                                                                             | Covenfolk have a -2 Aging modifier for living conditions             | -20 |
-|                                                                             | Covenfolk have a –1 Aging modifier for living conditions             | -10 |
+|                                                                             | Covenfolk have a –1 Aging modifier for living conditions            | -10 |
 |                                                                             | Covenfolk have no Aging modifier for living conditions               | 0   |
 |                                                                             | Covenfolk have a +1 Aging modifier for living conditions             | +10 |
 |                                                                             | Covenfolk have a +2 Aging modifier for living conditions             | +20 |
@@ -9799,7 +9650,7 @@ LIVING CONDITIONS
 |                                                                             | Covenant grants no salary                                            | -20 |
 |                                                                             | Covenant grants a miserly salary (half standard Wages)               | -10 |
 |                                                                             | Covenant grants a standard salary (standard Wages)                   | 0   |
-|                                                                             | Covenant grants a generous salary (1 ½ standard Wages)               | +10 |
+|                                                                             | Covenant grants a generous salary (1 ½ standard Wages)              | +10 |
 |                                                                             | Covenant grants a lavish salary (twice standard Wages)               | +20 |
 |                                                                             | Covenant provides a pension upon retirement (half Wages until death) | +10 |
 
@@ -9814,7 +9665,6 @@ Chamberlain + Prs + Profession: Chamberlain
 ## Familiarity
 
 Covenfolk gradually grow used to the magi with whom they live; more specifically, they grow to ignore the social penalty of The Gift. This only applies to the magi of the home covenant; 'foreign' Gifted individuals suffer the usual suspicion and distrust. Over longer periods of time, covenfolk are born into the covenant, and thus grow up familiar with their magi. For every year that a covenant exists it gains two loyalty points. The maximum number of points that can be gained through Familiarity is equal to the base loyalty points of the covenant (that is, those imposed by The Gift of the magi).
-
 
 ## Changing Loyalty Due to Actions & Svents
 
@@ -9834,8 +9684,9 @@ One Mythic Pound is equivalent to a pound of silver, the annual income of a typi
 
 ## Example Loyalty Point Penalties
 
-| Points | Аттітире            | Punishment                                 | Wound              | Local Event         |
-|--------|---------------------|--------------------------------------------|--------------------|---------------------|
+
+| Points | Аттітире    | Punishment                                 | Wound              | Local Event         |
+| -------- | --------------------- | -------------------------------------------- | -------------------- | --------------------- |
 | 1      | Rudeness            | Minor Humiliation                          | Superficial injury | Minor hardship      |
 | 3      | Oblivious           | Public Humiliation                         | Light              | Severe hardship     |
 | - 6    | Malicious           | Restraint                                  | Medium             | Tragic event        |
@@ -9843,9 +9694,7 @@ One Mythic Pound is equivalent to a pound of silver, the annual income of a typi
 | 12     | Deliberate Cruelty  | Brutal Punishment                          | Incapacitating     | Widespread hardship |
 | 15     | Heinous Malfeasance | Brutal Punishment clearly enjoyed by magus | Death              | Devastating event   |
 
-
 ## Covenant Finances
-
 
 Covenants almost always need some source of mundane wealth to obtain things like food and clothing. Even those that are entirely self-sufficient have a
 
@@ -9859,8 +9708,9 @@ worth accounting for any trivial sources of income (for example, selling surplus
 
 ## Source of Income Categories
 
+
 | Source of Income: | RELEVANT HOOK OR BOON:  | Typical Annual Income (pounds) |
-|-------------------|-------------------------|--------------------------------|
+| ------------------- | ------------------------- | -------------------------------- |
 | (none)            | Poverty Hook<br>(Major) | 0                              |
 | Lesser            | Poverty Hook<br>(Minor) | 40                             |
 | Typical           | (none)                  | 100                            |
@@ -9870,7 +9720,6 @@ worth accounting for any trivial sources of income (for example, selling surplus
 ## Baseline
 
 The base for covenant creation (a standard covenant with no Hooks or Boons relating to income) is a single Typical source of income. An alternative base option is to take two Lesser
-
 
 sources of income instead of one Typical source. (Although this provides a lower total income, there are benefits to such diversity. Should one source of income fail, the covenant has a backup, plus there are double the opportunities for income growth and for stories.)
 
@@ -9944,8 +9793,9 @@ SPRING OR WINTER
 
 SUMMER OR AUTUMN
 
+
 | Inhabitant               | Points | LIVING CONDITIONS MOD | Points | LIVING CONDITIONS MOD |
-|--------------------------|--------|-----------------------|--------|-----------------------|
+| -------------------------- | -------- | ----------------------- | -------- | ----------------------- |
 | Magus, Noble             | 5      | +1                    | 10     | +2                    |
 | Companion                | 3      | 0                     | 5      | +1                    |
 | Specialist,<br>Craftsman | 2      | 0                     | 3      | +1                    |
@@ -9953,7 +9803,6 @@ SUMMER OR AUTUMN
 | Horse                    | 1      | N/A                   | 1      | N/A                   |
 
 Do not include characters of independent means who pay for their own upkeep, nor any characters who work for one of the covenant's sources of income. By sacrificing their privileged lifestyle (and the better Living Conditions Modifier), impoverished magi may reduce their point cost to 3. By adopting the same privileges as standard covenfolk (the same food, wages, and living quarters), magi and companions may even reduce their point cost to 2. However a covenant with such pauper magi will likely develop a negative Reputation, as the Redcaps quickly spread word of their lamentable standard of living!
-
 
 number of laborers. For every 10 points of this total, you need 1 teamster. Finally, recompute the total points of inhabitants, including all laborers, servants, and teamsters.
 
@@ -9966,8 +9815,9 @@ Number of Teamsters required:
 
 # Points of Laboratories
 
+
 | Laboratory's<br>Upkeep score | Points |
-|------------------------------|--------|
+| ------------------------------ | -------- |
 | -5                           | 1      |
 | -4                           | 2      |
 | -3                           | 3      |
@@ -9982,8 +9832,9 @@ Number of Teamsters required:
 
 Multipliers (apply only to maintenance costs, not construction costs)
 
+
 | Light use (average of 1 season or less per year)   | x0.5 |
-|----------------------------------------------------|------|
+| ---------------------------------------------------- | ------ |
 | Typical use (average of about 2 seasons per year)  | x1   |
 | Heavy use (average of 3 seasons or more per year ) | x1.5 |
 
@@ -9993,8 +9844,9 @@ value as the Upkeep, as specified in the Advancement Table, page 375. For exampl
 
 # Points of Ceapons and Armor
 
+
 |                                   | Inexpensive | Standard | EXPENSIVE |
-|-----------------------------------|-------------|----------|-----------|
+| ----------------------------------- | ------------- | ---------- | ----------- |
 | Weapon or shield                  | 1           | 4        | 16        |
 | Partial<br>armor                  | 2           | 8        | 32        |
 | Full armor                        | 4           | 16       | 64        |
@@ -10006,9 +9858,6 @@ Add up the points of the weapons and armor possessed by all the characters at th
 ## Yearly Expenditure Categories
 
 The regular expenditure of the covenant can be divided into the following categories. It is worth noting that the Buildings, Consumables, Provisions, and Wages totals usually sum to exactly one pound per point of inhabitants, and form the bulk of the expenditure. Thus, a very rough rule of thumb is that a covenant can afford a number of points of inhabitants equal to its income in pounds, provided it has a moderate amount of cost saving.
-
-
-
 
 ## Buildings
 
@@ -10093,7 +9942,6 @@ There are three main ways in which a covenant may be able to reduce its expendit
 Each laborer working for the covenant reduces expenditure on Provisions by one pound. (As detailed above, every five laborers also makes one teamster redundant, indirectly saving one pound.) The maximum amount of money which can be saved by laborers is half of the Provisions total. A covenant with craftsmen producing foodstuffs can save more money on Provisions, as described below, possibly all of it if there are enough different types of sufficiently skilled craftsmen.
 
 #### Cost Saving Limits by Craft CATEGORY OF EXPENDITURE EXAMPLE CRAFTSMEN COST SAVING LIMIT (PER CRAFT) stonemason, carpenter, furniture Buildings 50% maker, thatcher blacksmith, carpenter, candlemaker, Consumables tinker, weaver, leatherworker, 20% cooper, cobbler glassblower, goldsmith, silversmith, Laboratories 20% lapidary, mechanic, toolmaker Provisions 20% brewer, vintner Weapons and Armor swordsmith, armorer, bowyer 50% Writing Materials 50% percamenarius, ink-maker
-
 
 ## Craftsmen
 
@@ -10190,11 +10038,7 @@ Weapons and Armor: 2 pounds Writing Materials: 8 pounds Its Cost Savings arde as
 
 Laborers: -20 pounds Craftsmen: -16 pounds Total: 125 pounds
 
-
-
-
 # The Organization of Qovenfolk
-
 
 he organization of grogs in a covenant may have been arranged when the covenant was founded and reorganized deliberately as the covenant
 
@@ -10258,7 +10102,6 @@ At the head of a guild is the **dean**, elected by the guild members from among 
 
 The difference between a professional guild and other forms of governance is that the guild exists because its members want it. They have an expectation of advancement through the guild's ranks, and to one day have a say in how it is run. A guild might be a more familiar system for players who are used to concepts of social mobility and providing benefits for the hard workers, although this is an anachronism for much of Mythic Europe outside of the professional guilds.
 
-
 ## Monastery
 
 A monastery is designed along a guild structure. Unlike the clear hierarchy of the noble household, the abbot of a monastery designates officials to manage each aspect of the daily life of the monastery. These officials are then responsible for meeting the monastery's needs in their department, and can requisition manpower and finances as needed. This is a good model for a small covenant, where staff need not be permanently designated as a cook or a chambermaid, but instead take on such roles as requested.
@@ -10281,7 +10124,6 @@ If the covenfolk form a strong cohesive group, they can all work together toward
 
 # The Covenant in Play
 
-
 ovenants do not gain Build Points while they are being played. Instead, the characters create enchanted devices, write books, and trade for further resources.
 
 Events in play may lead to the covenant gaining or losing Boons or Hooks.
@@ -10296,12 +10138,6 @@ If a Hook is gained, again, that is fine.
 
 Not all Hooks can be removed, but if a particular Hook can be overcome it should take at least half a dozen stories for a minor Hook, and around twenty for a major Hook. The Hooks are supposed to drive a significant portion of the saga, so they should not be resolved until they have done so.
 
-
-
-
-
-
-
 # VII. Hermetic Magic
 
 n the eighth century the wizard Bonisagus developed a universal theory of magic and the Order of Hermes was born. The most immediate advantage
@@ -10313,7 +10149,6 @@ The Order of Hermes is only a part of the greater magical world. There exist non
 Hermetic magic is a highly useful but not entirely perfect theory. These rules reflect the things that magi expect to happen when they work with magic. While the expected usually occurs, the exact effects of magic can be influenced by countless factors, including such vagaries as the phase of the moon, the spiritual nature of the target, and the mental state of the caster. This allows storyguides to occasionally bend the rules and interpret magical effects imaginatively.
 
 ## The Gift
-
 
 he capacity to work magic is known as The Gift among Hermetic magi. Only people with The Gift can be taught Hermetic magic, but not all of
 
@@ -10334,8 +10169,6 @@ Note that those interacting with Gifted people do not actually think that they h
 The Gift only has its effects if the maga comes to the attention of someone, just like a reputation. If a Gifted maga dresses unostentatiously, keeps to the middle of the group, does not appear to be the leader, and doesn't talk to anyone, then the group should be able to travel without suffering from people's reactions to The Gift, as long as the maga behaves herself. The Blatant Gift makes this a lot harder; these precautions reduce people's reactions to those inspired by the normal Gift.
 
 People do not get used to The Gift, even if they have lived with magi all their lives. They can, however, get used to
-
-
 
 overrides the effects of reputation. The mundane members of a covenant can be assumed to be used to the resident magi, and to react to them as appropriate to their actual behavior (see page 186, in the Covenant chapter, for rules for this).
 
@@ -10413,7 +10246,6 @@ Blatant Gift: The characters are kept waiting at the gate while a senior monk is
 
 ## The Hermetic Arts
 
-
 he term "Arts" refers collectively to Techniques and Forms — two classes of magical disciplines that work together in spellcasting.
 
 Techniques govern the essential
@@ -10423,8 +10255,6 @@ manipulations that magic can perform; Forms, the essential natural phenomena tha
 Hermetic magi have a score in each Art. Your scores in the Arts represent your aptitude for working with the various types of magic. Arts are not merely knowledges; your Arts are ultimately ways your very being expresses magical energy. In reflection of this, your score in a Form (in addition to allowing you to cast spells incorporating that Form) helps you resist spells of that type and avoid harm from mundane sources related to that Form. For instance, your Ignem (fire) score gives you a bonus to resist damage from fire and cold. This bonus is equal to one fifth of your score in the Form, rounded up, and adds to your ability to resist any damage deriving from that Form. The most important examples of each Form bonus's applicability are listed under the Form, but these are not exhaustive lists.
 
 Form Bonus: Form score/5 (rounded up)
-
-
 
 These bonuses do not stack. If it seems like two would apply to a given hazard, use only the higher bonus.
 
@@ -10507,9 +10337,6 @@ Aquam concerns water and all manner of liquids, as well as properties of liquidi
 Form Bonus: Rolls to resist drowning and thirst, soak against water jets and the like.
 
 Pronounced 'AH-kwahm.'
-
-
-
 
 ## Auram (Au) "air"
 
@@ -10607,9 +10434,6 @@ Any magic which violates a thing's essential nature must be maintained, and when
 
 A thing's essential nature varies depending on what it is. All human beings are essentially human,
 
-
-
-
 mortal creatures with reason, senses, and the ability to move and reproduce. The basic shape of the human body is also part of the essential nature, although bits can be cut off. The game works on the assumption that every feature of someone's physical appearance is either an injury (which can be fixed with Creo magic), or part of their essential nature. This is necessary to avoid the ability to permanently change appearance with a single Momentary Duration Rego spell. A single characteristic may be an injury for one person, and part of the essential nature of another. For example, some people are essentially blind, whereas others are blind merely as a result of chance. As a rule, any disability purchased as a Flaw at character creation is part of the character's essential nature, while disabilities acquired later are not.
 
 ## The Lesser Limits
@@ -10680,7 +10504,6 @@ Most magi would like to believe that this derives from the Limit of the Divine, 
 
 ## Raw Vis
 
-
 aw magic power, known as vis (pronounced 'WEES'), is sometimes found stored in and partially constituting some physical substance. This can
 
 occur either because a magus has trapped it there or because it was deposited there by natural magical processes. Vis trapped in some substance is called raw vis, and magi have many uses for it.
@@ -10690,8 +10513,6 @@ Raw vis is always associated with a particular Technique or Form. Thus, there is
 Raw vis can be used in many applications. Examples include strengthening a spell, performing a ritual, creating a magical enchantment, or aiding in the study of the magical Art to which it corresponds. Because of its utility, vis is greatly prized by magi. They often use it as a form of currency, measuring it in units called pawns. Ten pawns are said to make a rook, while ten rooks make a queen. A queen of vis is a legendary quantity, and it would be highly unlikely for a given magus to possess even a sizable fraction of such an amount.
 
 Magi often wear sources of vis in necklaces or rings so that other wizards or magical beings can readily perceive that they have vis to use in response to a threat.
-
-
 
 ## Casting Spells
 
@@ -10719,10 +10540,11 @@ The type of die rolled depends on the situation. If the maga is not under any pr
 
 If the casting total equals or exceeds the level of the spell, the spell is cast and the maga suffers no illeffects. If the casting total falls short of the spell level by ten or less, the spell takes effect and the maga loses a Fatigue level. If the casting total falls short of the spell level by more than ten the spell fails to take effect, but the maga still loses a Fatigue level.
 
+
 | Casting Total  — Spell Level | SPELL CAST? | Fatigue Levels Lost |
-|------------------------------|-------------|---------------------|
-| 0 or higher                  | Yes         | 0                   |
-| −1 to −10                    | Yes         | 1                   |
+| ------------------------------- | ------------- | --------------------- |
+| 0 or higher                   | Yes         | 0                   |
+| −1 to −10                   | Yes         | 1                   |
 | –11 or lower                 | No          | 1                   |
 
 It takes only a few seconds to cast a Formulaic spell.
@@ -10733,6 +10555,7 @@ Ritual spells are like Formulaic spells, but they take longer to cast, and invol
 
 RITUAL CASTING TOTAL:
 Casting Score + Artes Liberales
+
 + Philosophiae + Stress Die
 
 The more elaborate process of casting a Ritual spell allows the maga to incorporate astrological calculations and to draw on the powers of natural magic. This is reflected in the addition of the maga's Artes Liberales and Philosophiae scores to the casting total. However, a maga with no experience points in either Ability may still cast Ritual Magic.
@@ -10743,13 +10566,14 @@ The magnitude of Ritual spells, and the need to incorporate many elements, means
 
 See the table to determine whether the spell succeeds or not, and how many Fatigue levels are lost. Fatigue levels lost to Ritual Magic are longterm Fatigue levels, which can only be regained by a good night's sleep (see page 404). If the maga does not have enough Fatigue levels remaining, she takes wounds as well. If she would have taken one more Fatigue level, the wound is minor, if two more, medium, if three more, heavy, and if four more, incapacitating. For example, consider a maga with two remaining Fatigue levels who is casting a level 30 Ritual spell. She generates a casting total of 22, 8 less than the spell level. The spell is cast, but the maga loses her remaining two Fatigue levels, falling unconscious, and then takes a Light wound.
 
+
 | CASTING TOTAL-<br>SPELL LEVEL | SPELL CAST? | Fatigue Levels<br>Lost |
-|-------------------------------|-------------|------------------------|
+| ------------------------------- | ------------- | ------------------------ |
 | 0 or higher                   | Yes         | One                    |
-| −1 to −5                      | Yes         | Two                    |
-| −6 to −10                     | Yes         | Three                  |
-| −11 to −15                    | No          | Four                   |
-| –16 or more                   | No          | Five                   |
+| −1 to −5                    | Yes         | Two                    |
+| −6 to −10                   | Yes         | Three                  |
+| −11 to −15                  | No          | Four                   |
+| –16 or more                  | No          | Five                   |
 
 ## Spontaneous Magic
 
@@ -10764,8 +10588,6 @@ Before casting the spell, the maga must decide on the effect she is trying to cr
 If the maga rolls well, she may choose to increase any or all of the Range, Duration, or Target of the spell, but may not change the basic effect. If the effect was open ended, the maga may choose how much of the casting total to devote to the power of the effect, and how much to devote to Range, Duration, and Target. She may also choose to cast the spell at a lower level than her casting total, to increase its Penetration.
 
 Modifiers from circumstances that affect the casting score are divided just like the basic casting score. Modifiers that affect the casting total are not divided.
-
-
 
 ## Penetration Total
 
@@ -10791,8 +10613,9 @@ A maga must concentrate in order to cast a spell. If she is distracted, she must
 
 If the concentration roll fails, the spell fails. If the spell casting roll involved a stress die, you must still roll to see whether the maga botches, and you get one extra botch die. The Ease Factor for the concentration roll depends on the distraction.
 
+
 | Situation                         | Ease Factor    |
-|-----------------------------------|----------------|
+| ----------------------------------- | ---------------- |
 | Still Still                       | Trivial (0)    |
 | Walking                           | Simple (3)     |
 | Running                           | Average (9)    |
@@ -10806,13 +10629,14 @@ Some spells are also maintained for as long as the maga concentrates. In that ca
 
 There are some things it is possible to do while maintaining a spell, but impossible to do while casting. These still distract magi who are concentrating on maintaining a spell, and so concentration rolls are necessary, but the Ease Factors on the following table are already correct, and should not be reduced by three points.
 
-| SITUATION                               | Ease Factor                                                                                   |  |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------|--|
-| Answering a single easy yes/no question | Hard (12)                                                                                     |  |
-| Conversation                            | Very Hard (15)                                                                                |  |
-| Casting another spell                   | Very Hard (15)                                                                                |  |
-| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |  |
-| Injured                                 | 3 times wound penalty<br>to Concentration rolls<br>(this is instead of the<br>normal penalty) |  |
+
+| SITUATION                               | Ease Factor                                                                                   |   |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------- | --- |
+| Answering a single easy yes/no question | Hard (12)                                                                                     |   |
+| Conversation                            | Very Hard (15)                                                                                |   |
+| Casting another spell                   | Very Hard (15)                                                                                |   |
+| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |   |
+| Injured                                 | 3 times wound penalty<br>to Concentration rolls<br>(this is instead of the<br>normal penalty) |   |
 
 For a continuing situation, such as injury or maintaining another spell, you must make a concentration roll every two minutes (Diameter duration). If you are undistracted, you can maintain concentration for fifteen minutes for every point you have in the Concentration Ability.
 
@@ -10852,12 +10676,11 @@ The following option can be used when casting Formulaic or most Spontaneous spel
 
 ## Cords and Gestures
 
-
-
 The total modifier is determined by adding the Words and Gestures modifiers together. Thus,
 
+
 | Words | Modifier | Gestures    | Modifier   | VOICE<br>RANGE              |
-|-------|----------|-------------|------------|-----------------------------|
+| ------- | ---------- | ------------- | ------------ | ----------------------------- |
 | Loud  | + 1      | Exaggerated | +1         | 50<br>paces                 |
 | Firm  | 0        | Bold        | 0          | 15<br>paces                 |
 | Quiet | -5       | Subtle      | -2         | 5 paces                     |
@@ -10938,11 +10761,7 @@ Casting time when using ceremonial spaces, in minutes per magnitude:
 - Three minutes per magnitude: The magus's laboratory, or other place of magical contemplation.
 - One minute per magnitude: A room designed solely for ceremonial casting, which contains props of the largest variety, and mystical choreographies permanently inscribed on the floor. Characters with the Mystical Choreography Virtue cast ceremonial magic at this speed regardless of how temporary their prepared space.
 
-
-
-
 ## Arcane Connections
-
 
 rcane Connections allow a maga to cast a spell on something she is not currently sensing, as long as she is currently aware of the Arcane Connection. Mystically,
 
@@ -10952,8 +10771,9 @@ One thing— the connection — is an Arcane Connection to something else — th
 
 Arcane Connections must be stored carefully, or else they become links to different people or places.
 
+
 | Duration         | Example Connections                                                                                                                                                                                                                                |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hours            | Air from a specific place, shed skin from a human being, water from a moving body of water.                                                                                                                                                        |
 | Days             | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement.                                                                                                                     |
 | Weeks            | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |
@@ -10963,15 +10783,15 @@ Arcane Connections must be stored carefully, or else they become links to differ
 
 ## Penetration
 
-
 enetration is the ability of a spell or other magical ability to affect something that has Magic Resistance. If something has no Magic Resistance,
 
 Penetration is irrelevant. A single spell may have several targets, for example all the members of a Group. In that case, any targets without Magic Resistance are affected no matter what the Penetration of the spell, but any targets with Magic Resistance are only affected if the spell Penetrates that target's Magic Resistance.
 
 Any character with the Penetration Ability can use sympathetic magic to increase the Penetration of her magic. The Penetration Bonus starts at one times the character's Penetration Ability, and the multiplier can be increased. This requires that the character have an Arcane Connection to the target of the magic.
 
+
 | Arcane Connection        | Bonus to Multiplier |
-|--------------------------|---------------------|
+| -------------------------- | --------------------- |
 | Lasts hours or days      | +1                  |
 | Lasts weeks or<br>months | +2                  |
 | Lasts years or decades   | +3                  |
@@ -10989,8 +10809,9 @@ Forceless casting requires no particular skill or effort. It is useful in magica
 
 ## Sympathetic Connections
 
+
 | Sympathetic Connection                   | Bonus to<br>Multiplier |
-|------------------------------------------|------------------------|
+| ------------------------------------------ | ------------------------ |
 | Caster is blood relative of target       | +1                     |
 | Signature of target                      | +1                     |
 | Target's nickname or<br>birth name*      | +1                     |
@@ -11017,10 +10838,7 @@ Mari's player argues that dragons have horoscopes just like anyone else, and the
 
 Mari has also Mastered the spell (see page 225) and taken the Penetration Mastery special ability. She has a score of 1 in the Mastery Ability for the spell, and this adds to her Penetration score, so that instead of multiplying 4 by 6, she multiplies 5 (4 for Penetration, 1 for the Mastery Ability) by 6. This raises her typical penetration total to 46, which she thinks will be enough to get the dragon's attention. Arcane Connection and horoscope in hand, she sets off.
 
-
-
 ## Magic Resistance
-
 
 ost human beings have no Magic Resistance. If the target of a spell has no Magic Resistance, then he suffers its effects no matter how low the Penetration total, even if
 
@@ -11065,8 +10883,6 @@ A mind control spell targeted at the maga alone fails.
 A mind control spell targeted at a group including the maga fails to affect the maga, but may affect other members of the group.
 
 A jet of magical water parts around the maga, and she does not even get wet.
-
-
 
 A jet of normal water driven by magic reaches the maga and makes her wet, but has no force of impact, as the magical power cannot pass her resistance.
 
@@ -11138,7 +10954,6 @@ The third way is to use a brief jolt of magical force to hurl a projectile as an
 
 ## Sigils
 
-
 very Hermetic maga has a 'wizard's sigil'. All the spells that she casts have something in common, which makes it clear to those who know her
 
 that she was the caster. The sigil also appears in the effects of enchanted devices created by the maga.
@@ -11155,11 +10970,7 @@ All kinds of sigil leave some traces behind in the magic, and skilled Hermetic i
 
 Hermetic magi also have a voting sigil, a small physical object which identifies them and is used to vote at Tribunal. This often resembles the casting sigil in some way, but need not.
 
-
-
-
 ## Spell Mastery
-
 
 ermetic magi can study
 Formulaic and Ritual spells that
@@ -11256,10 +11067,7 @@ A book on spell Mastery can be studied by anyone who knows the spell that the bo
 
 Because magi reinvent spells for themselves, rather than actually learning another magus's version, a magus studying spell Mastery from a book may learn any special ability, not just the abilities known by the original author. The book provides insight into the structure of the spell, but that insight may differ slightly between the author's and reader's versions of the spells.
 
-
-
 ## Dangers
-
 
 espite the Order's attempts to regulate it and make it a science, magic remains an art. No matter how skilled a practitioner you are, and no
 
@@ -11345,7 +11153,7 @@ A maga may choose not to resist Twilight, in which case she makes no roll and au
 
 A maga within Twilight must comprehend her surroundings in order to get out.
 
- $T_{\text{WILIGHT Comprehension:}}$  Intelligence + Enigmatic Wisdom + stress die vs.  $Warping\ Score\ +\ stress\ die$ 
+$T_{\text{WILIGHT Comprehension:}}$  Intelligence + Enigmatic Wisdom + stress die vs.  $Warping\ Score\ +\ stress\ die$
 
 BOTCH DICE: 1 + 1 per Warping Point gained to trigger the Twilight
 
@@ -11353,8 +11161,9 @@ The time that a maga feels that she spends in Twilight is completely independent
 
 passing in the real world. The time that passes in the real world depends on the maga's Warping Score, and the success of her Twilight Comprehension roll.
 
+
 | Warping<br>Score | Base Time in Twilicht                    |
-|------------------|------------------------------------------|
+| ------------------ | ------------------------------------------ |
 | 1                | Diameter (2 minutes)                     |
 | 2                | Two Hours                                |
 | 3                | Sun                                      |
@@ -11376,13 +11185,12 @@ If the comprehension roll succeeds, subtract the maga's Enigmatic Wisdom score f
 
 TWILIGHT TIME:
 Intelligence + stress die vs. Warping Score
+
 + stress die
 
 Note: The die rolls are the rolls already made to comprehend the Twilight
 
 If the two match exactly, or the maga's score is lower, the maga spends the base time in Twilight. For every additional point by which the maga's score exceeds the Twilight result, move one step shorter on the duration table. For example, if a maga with a Warping score of 7 makes her comprehension roll by three points, the Twilight lasts a day. If this lowers the duration below Diameter, the whole Twilight lasts a mere moment in the real world.
-
-
 
 ## During Twilight
 
@@ -11407,7 +11215,6 @@ Twilight Scar: Something minor and magical, and also neutral or beneficial. For 
 In addition, the storyguide should pick one of the following effects:
 
 Increased Knowledge: A number of experience points in an Art, Magic Theory, or Enigmatic Wisdom, equal to twice the number of Warping Points gained.
-
 
 New Hermetic or Supernatural Virtue: Minor (if between 7 and 10 Warping Points, inclusive), or major (if more than ten Warping Points). Virtues cannot be gained if the maga gains fewer than seven Warping Points.
 
@@ -11453,7 +11260,6 @@ The storyguide rules that Darius feels his magic destroying his body and mind fr
 
 The simple die for additional Warping Points is a one, so Darius gains three Warping Points in total. He loses six experience points in Corpus, two for each of the three Warping Points he gained. He didn't gain enough Warping Points to gain a Flaw. He also gains a Twilight Scar, and the storyguide rules that any dead meat Darius is touching looks, tastes, and smells rotten, although the effect passes when he releases it, and the meat is actually perfectly good. It looks like Darius will be becoming a vegetarian.
 
-
 another issue comes up, you may challenge him again. Bullying magi with certamen is a Low Crime in almost all Tribunals. Certamen is solely an institution of the Order of Hermes; non-Hermetic wizards do not have the ability to participate in the ceremony, as it relies heavily on the Hermetic Arts.
 
 Both participants specify in advance what the other magus will do, or refrain from doing, if he loses. The two requirements are expected to be symmetrical, and Tribunals do over-ride the results on asymmetric certamens. This gives magi some motivation not to bully with certamen; even the greatest archmage can botch.
@@ -11496,17 +11302,17 @@ Each magus must use both the Technique and the Form in each round of certamen, u
 
 Subtract the defender's Resistance Total from the Weakening Total. For every five points or fraction left over, the defender loses a Fatigue level. Note that the magus's Parma Magica score is added to the Resistance Total; it is not multiplied by five as it is for Magic Resistance.
 
-| Weakening Total -<br>Resistance Total | Fatigue Levels Lost |
-|---------------------------------------|---------------------|
-| 0                                     | None                |
-| 1–5                                   | 1                   |
-| 6–10                                  | 2                   |
-| 11–15                                 | 3                   |
-| 16–20                                 | 4                   |
-| 21–25                                 | 5                   |
-| 26–30                                 | 6                   |
-| etc.                                  | etc.                |
 
+| Weakening Total -<br>Resistance Total | Fatigue Levels Lost |
+| --------------------------------------- | --------------------- |
+| 0                                     | None                |
+| 1–5                                  | 1                   |
+| 6–10                                 | 2                   |
+| 11–15                                | 3                   |
+| 16–20                                | 4                   |
+| 21–25                                | 5                   |
+| 26–30                                | 6                   |
+| etc.                                  | etc.                |
 
 ## Gertamen Example
 
@@ -11566,8 +11372,6 @@ The next round remains evenly balanced, neither magus managing to weaken the oth
 
 In the next round, Carolus rolls a 10, for a total of 16, while Moratamis rolls a 0, but doesn't botch, for a Defense Total of 8. This gives Carolus a final advantage of 2 points, enough to clip a further Fatigue level from Moratamis. Now that she has a penalty of –5 to Attack and Defense, she decides that she cannot win, and concedes the contest so that Carolus cannot cast a spell on her. Carolus goes off feeling that he wriggled out of that one quite nicely, and Moratamis turns her attention to other matters.
 
-
-
 Certamen itself never causes wounds, merely exhaustion. If you lose more Fatigue levels than you have, you spend one more hour unconscious for every additional level lost.
 
 You can use raw vis at any time during certamen, even if your opponent doesn't use it or doesn't expect its use. For every pawn you expend, add 2 to your Attack Total or Defense Total for one round only. Raw vis used must be attuned to the Art used for Attack or Defense in the duel. The number of pawns you can use in one round is limited to your score in the Form or Technique the vis is attuned to.
@@ -11583,7 +11387,6 @@ The third way to win certamen is to maintain concentration in the face of distra
 Loss of concentration, however, does not necessarily mean that certamen is over and that a victor is decided. If the victor under these circumstances refuses the honor, and the combatant who lost concentration agrees, the battle may resume until a clear victor emerges. A magus might refuse a victory by loss of concentration for reasons of honor, or because he intends to do more harm.
 
 ## Mysteries
-
 
 ysteries are paths to greater magical power requiring sacrifices beyond the time for study. Many magi within the Order of Hermes pursue
 
@@ -11606,7 +11409,6 @@ assume her normal form or her heartbeast form. She must roll Stamina + Heartbeas
 Bjornaer magi do not treat physical transformations as major magical effects for the purposes of gaining Warping Points. However, a magical transformation which is maintained over time will grant one Warping Point per year, as it is still a continuing mystical effect.
 
 Finally, Bjornaer magi cannot bind familiars. The reasons for this are debated, but the fact is uncontroversial.
-
 
 INITIATION OF SECRET NAME
 
@@ -11682,7 +11484,6 @@ Characters initiated into Faerie Magic are attuned to both Magical and Faerie au
 
 Initiates of the Outer Mystery gain access to special Ranges, Durations, and Targets. They may use these with Spontaneous, Ritual, and Formulaic magic, although some of them require Ritual magic. Spells created using these parameters can only be learned by characters with Faerie Magic.
 
-
 Road (Range): The maga may target anyone or anything on the same road or path as her. The identity of roads and paths is not always clear, and the troupe must decide if things are difficult. Two paths may cross each other, but two paths may not become one. In that case, either one path joins the second, or the junction is actually the joining of three paths. The maga need not be able to see her target, but she must be able to sense it somehow, unless the spell is an Intellego effect intended to find out if something is there.
 
 People are only on a road if they are actually between the edges of the path, at least partially. Buildings are on a road if the primary access to the building is from that road. Plants and small objects must be between the edges of the path.
@@ -11698,7 +11499,6 @@ Fire (Duration): Spells with this duration can only be cast on fires, and they l
 Until (Condition) (Duration): The spell lasts until some condition is met, such as speaking the name of God, or some item is touched with iron, or until a word in a list is said out of place (the days of the week are spoken out of order, for example). Until (Condition) is the same level of duration as Year, and also requires a Ritual spell. Until (Condition) spells cannot normally be dispelled by magic unless that is part of the condition. The ending condition must be specified when the spell is cast. Spells with this duration expire if the caster passes into Twilight, even temporarily, and also expire when the caster or primary target dies.
 
 Year + 1 (Duration): The spell lasts for a year and a day. This is the same level of duration as Year, and also requires a ritual, but the duration is determined by the actual time that passes, rather than by the turning of the seasons; the spell ends at the same time of day as when it was cast, a year
-
 
 and a day later. Year + 1 spells can be dispelled according to the normal rules.
 
@@ -11731,7 +11531,6 @@ A temporary charm takes about ten minutes to design, and must be used right away
 A maga who has a score in Faerie Magic and an Arcane Connection to her target may use a charm as a sympathetic representation, increasing her Penetration Multiplier by two. This requires a roll when the charm is made: composing a song might use Communication + Music, while a drawing might be Dexterity + Craft. The maga produces an effective charm on a roll of 6+, or 9+ for a permanent charm. Other magi can do this without Faerie Magic, but it takes them longer and they need a higher total on the roll (see Sympathetic Connections, page 220).
 
 Temporary charms may only be used once, as they always include unique properties associated with the effect, though a permanent charm associated with a special object may be used whenever it is applicable. A maga may prepare any number of charms in advance, but may only incorporate one charm into a given spell in this way.
-
 
 ## Illusion Mysteries
 
@@ -11785,13 +11584,13 @@ In addition, this Mystery allows the Merinita's spells to have recurring effects
 
 Recurring spells may be given triggers, using the special (Condition) durations above. The cost for making them recur is based on how often they
 
-
 ## Recurring Spells
 
 Use the frequency that most closely matches how often the spell recurs, rounding up to the next greater magnitude. For example, a spell that recurs every ten minutes adds five magnitudes. Spells cannot recur more often than once per minute.
 
+
 | Frequency | Magnitudes |
-|-----------|------------|
+| ----------- | ------------ |
 | minute    | +5         |
 | day       | +4         |
 | month     | +3         |
@@ -11805,9 +11604,6 @@ can be activated; if a daily-recurring effect is activated twice in one day, the
 Verditius magi are initiated into the Outer Mystery of Verditius Magic, which allows them to incorporate craft Abilities into their magic. To do this, the magus crafts the item from raw materials as part of the first season of enchanting it. For a talisman or standard invested device, this is the season in which it is opened for enchantment. For lesser enchanted items and charged items, this is the whole process. If crafting the item would normally take the magus a season or less, this does not increase the time required for the enchantment. If crafting the item would normally take more than a season, the process takes a whole number of seasons that is at least as long as the time it would normally take the magus to craft the item. For example, if it would normally take the magus four months to craft the item, then it takes him two seasons to craft and enchant it. No matter how long this takes, it only includes the first season of enchantment.
 
 As part of this process, the magus may add details that enhance the Shape and Material bonus of the item. These details give an additional bonus to all the item's existing Shape and Material bonuses equal to the creating magus's Philosophiae score, for the purposes of enchantment. These bonuses apply in the season that the details are added, as well as in the future. Other uses of Shape and Material bonuses, such as the casting bonuses from a talisman, use the standard bonus. Other magi refer to these
-
-
-
 
 details as Verditius Runes, but they are far more complex than that suggests, and do not normally look like actual runes. Other magi get this bonus if they instill appropriate powers into an item created by a Verditius. The total bonus from Shape and Material and Verditius Runes is still limited by the magus's Magic Theory score.
 
@@ -11833,7 +11629,7 @@ Hubris increases over time, building like an Ability. Hubris cannot be deliberat
 
 
 | Experience<br>Points    | Behavior                                                                                                                                                |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                       | Selling a charged item or an item of quality. Manufacturing a similar item for another person and receiving pay for your efforts (either money or vis). |
 | 1                       | Repairing or reforging an item for another for pay.                                                                                                     |
 | 1                       | Selling or manufacturing for another a lesser enchanted device.                                                                                         |
@@ -11864,18 +11660,18 @@ The magus may enchant his casting tools to mirror certain effects of mastered sp
 
 To enchant a casting tool compare the magus's Technique and Form Lab Total to the level of the spell that the casting tool is associated with. A casting tool is closely linked to the spell through the Verditius Mysteries, and so the magus may carve Verditius runes into the casting tool, adding his Philosophiae score to the Lab Total, even if the tool would not normally have a Shape or Material bonus for that spell. If the magus has a Craft Ability that could include making the tools, you may also add his Craft score. Because enchanted casting tools become permanent Arcane Connections to the magus, add his Hubris Personality score to the Lab Total. The magus also receives a bonus for knowing the spell in the first place, adding the magnitude of the spell to the Lab Total, much like the bonus received from knowing a similar spell (page 260). The Lab Total must double the level of the spell plus any additional powers the magus wishes to instill.
 
-
-
 Enchant Casting Tools Lab Total:
 Technique + Form + Intelligence
+
 + Magic Theory + Aura Modifier + Philosophiae
 + Hubris + Magnitude of Known Spell
 + Craft (if applicable)
 
 The base effect level of the casting tool equals the level of the spell it is used for. The effect level increases based upon the additional effects the magus wishes to enchant it with. There is no limit to the number of effects he can add, as long as his Lab Total plus bonuses is double the final effect level.
 
+
 | Effect level<br>Increase | Casting Tool Effect                                                                                                                                                                                                                                     |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                        | Fast Casting (as a mastered spell).                                                                                                                                                                                                                     |
 | 2                        | Multiple Casting (as a mastered spell).<br>This allows one additional spell.<br>additional spells may be added for a +2<br>effect level increase each.                                                                                                  |
 | 2                        | Quiet Casting (as a mastered spell).<br>This can be taken twice to cast the<br>spell silently.                                                                                                                                                          |
@@ -11894,7 +11690,6 @@ Script Bonus: +9
 Script Details: The Mystagogue spends a season with the Initiate, creating casting tools one after another (+3). The Initiate must know the exact time and date that she was Initiated into the House's Outer Mystery. On an anniversary of that date, she ritualistically buries all her casting tools in a Magic regio (+3). If the Initiation is successful, the Initiate learns the Inner House Minor Mystery: Enchant Casting Tools. The buried casting tools are destroyed and the Initiate receives the Minor Flaw Hubris if this her first Initiation into an Inner Mystery, or Limited Magic Resistance with Vim if it is not (Ordeal +3).
 
 # Ex Miscellanea Traditions
-
 
 ouse Ex Miscellanea is not at all unified, consisting of many different magical traditions. A large number are described in Houses of Hermes: Societates,
 
@@ -11920,20 +11715,20 @@ The character cannot directly communicate with the animals unless he has another
 
 *Specialties*: a particular type of animal (Supernatural)
 
+
 | Ability<br>Score | Number of Animals Arriving                                                                                     |
-|------------------|----------------------------------------------------------------------------------------------------------------|
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | 1                | 1 animal of Size -2, or equivalent mass (2 of Size -3, 5 of Size -4, 10 of Size -5, 20 of Size -6, etc.)       |
 | 2                | 2 animals of Size -2, or equivalent mass (1 of Size -1, 5 of Size -3, 10 of Size -4, 20 of Size -5, etc.)      |
 | 3                | 5 animals of Size -2, or equivalent mass<br>(1 of Size 0, 2 of Size -1, 10 of Size -3,<br>20 of Size -4, etc.) |
 | 4                | 10 animals of Size -2, or equivalent mass (1 of Size +1, 2 of Size 0, 5 of Size -1, 20 of Size -3, etc.)       |
-| 5                | 20 animals of Size –2, or equivalent mass (1 of Size +2, 2 of Size +1, 5 of Size 0, 10 of Size –1, etc.)       |
+| 5                | 20 animals of Size –2, or equivalent mass (1 of Size +2, 2 of Size +1, 5 of Size 0, 10 of Size –1, etc.)     |
 
 ## The Nemthengacha
 
 The Nemthengacha (singular: Nemthenga) are a sect of Ex Miscellanea magi who have the ability to create animosity and dissent in their listeners. Their origins are clouded. Some claim the Irish poet/demigod Bricriu mac Carbada is the progenitor of the line, while others say that the Welsh hero Efnisien is the first of the breed. Asserting an even more grandiose foundation, some Ex Miscellanea say that their tradition descends from Loki, the multi-faceted and often malevolent Norse god. It is true that this tradition is only found in Celtic and Scandinavian sorcerers.
 
 Nemthengacha, also known as "poisontongues", "bitter-tongues", or "deceivers", were more frequent before the advent of Christianity. In pre-Christian society, Nemthengacha held a devastating reputation. In a society where loyalty and family bonds are everything, a Nemthenga's ability to turn one man against his allies was devastating. People avoided Nemthengacha, but since many lived among the tribe, they could not be entirely ignored
-
 
 and were placated as best as the tribe could manage. While no more anticlerical than any other Ex Miscellanea tradition, they suffered severely from interactions with Christian missionaries. Perhaps it was due to their overt presence. The unGifted Nemthengacha did not need to hide from their tribesmen, and several held prominent social positions as shamans, wise men, and king's champions. Their tradition ebbed, and practitioners retreated to remote parts of their lands.
 
@@ -11945,9 +11740,6 @@ Like every Ex Miscellanea character, a magus of the Nemthengacha tradition recei
 
 Major Non-Hermetic Virtue: Embitterment Minor Hermetic Virtue: Subtle Magic Major Hermetic Flaw: Deficient Technique (Rego)
 
-
-
-
 ## Embitterment
 
 Embitterment is a Major Supernatural Ability that allows the speaker to make a listener hostile to a target of the speaker's choice. This hostility can range from simple antagonism to murder. Through simple conversation, the speaker makes the listener dislike, resent, or hate a person formerly considered a friend. The conversation does not have to be long; a round is time enough for this effect to take place.
@@ -11958,8 +11750,9 @@ To embitter a target, the player states the exact specifications of how the targ
 
 Consult the following chart to determine the Ease Factor.
 
+
 | Ease<br>Factor | Desired Effect                                                     |
-|----------------|--------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------------------- |
 | 6              | Turn a man against his neighbor,<br>business partner, or co-worker |
 | 9              | Turn a man against his wife, friend, or cousin (distant kin)       |
 | 12             | Turn a man against his kin (father, brother, and nuclear family)   |
@@ -11978,7 +11771,7 @@ A character so embittered cannot disobey the command. He is not allowed a Loyalt
 
 This tradition figures prominently in lands occupied by the Saxons, including their homeland in northern Germany as well as in England and Denmark. Weather magic is well-integrated into Hermetic Magic, and the art of Auram is populated with highly useful spells. The hedge witches known as Tempestariae are experts in these very magics. There are weather-witches who can summon rain which can last for days, or who cause no rain to fall at all for an entire season. The fogs summoned by a tempestaria from the sea have bound ships into the harbors all along an entire coastline. The most common type of tempestaria, however, is one who can bind the wind to her service. They require simple improvised tools which have sympathetic relationships to their spells – feathers for snow magic, drums for thunder magic, scattered sand for rain magic, and so forth.
 
- $Major\ Non-Hermetic\ Virtue:\ Whistle\ Up\ The\ Wind\ (or\ similar\ Ability)$ 
+$Major\ Non-Hermetic\ Virtue:\ Whistle\ Up\ The\ Wind\ (or\ similar\ Ability)$
 
 Minor Hermetic Virtue: Affinity with Auram Major Hermetic Flaw: Necessary Condition (tools for their magic to work)
 
@@ -11986,8 +11779,9 @@ Minor Hermetic Virtue: Affinity with Auram Major Hermetic Flaw: Necessary Condit
 
 A character with this Ability is able to create a wind, duplicating the effects of any wind-based Creo Auram spell at Range Voice, Target Individual; similar Supernatural Abilities exist for other weather phenomena. To invoke the wind, the character literally has to whistle, and makes a Stamina + Whistle Up The Wind roll, against the Ease Factor listed in the table below. If successful, the wind immediately starts to blow as commanded by the character. It will continue to blow in the same manner even if the character stops whistling. A character who summons a wind at a particular strength can change that wind to another type with a similar strength (such as from Circling Winds of Protection to Broom of the Winds), diminish it to a weaker effect (such as Chamber of Spring Breezes), or end it entirely. Each of these changes requires a Communication + Music roll, using the Ease Factors for Maintaining Concentration on a spell (page 215). Whistling a new tune in this manner cannot increase the strength of a wind, or return a diminished wind to its former intensity; instead the character must make a new Whistle Up The Wind roll. All effects of this Ability diminish to the next lowest level of strength once every 24 hours, when the sun sets, until they dwindle to nothing.
 
+
 | Easer<br>Factor | Strength of Wind                                              |
-|-----------------|---------------------------------------------------------------|
+| ----------------- | --------------------------------------------------------------- |
 | 6               | Light breeze, strong enough to clear a stench from a room     |
 | 9               | Moderate wind, strong enough to affect the accuracy of arrows |
 | 12              | Strong wind, powerful enough to propel a sailing ship         |
@@ -11995,11 +11789,6 @@ A character with this Ability is able to create a wind, duplicating the effects 
 | 18              | Hurricane force wind, strong enough to uproot trees           |
 
 Specialties: at sea, in mountains, during the winter (Supernatural)
-
-
-
-
-
 
 # VIII. Laboratory
 
@@ -12009,7 +11798,6 @@ study, books to write, spells to invent, and items to enchant. Time between stor
 
 # The Laboratory in Play
 
-
 aboratory activities take up most of your life as a magus, so you should take some care in deciding both your individual laboratory activities and your
 
 attitude towards your laboratory and your creations. Your laboratory itself is an important reflection of your personality, as it is where you spend much of your time. Take the time to think about what your sanctum looks like and what's in it. Does it bear protective spells? Where do you sleep? What do you have in your lab, and where do you keep it? Do you hide your most prized possessions? Is your laboratory clean and well kept, or a disorganized mess where no one but you can find anything?
@@ -12017,7 +11805,6 @@ attitude towards your laboratory and your creations. Your laboratory itself is a
 Answering such questions helps you define your magus, and is usually fun to boot. The rules for Laboratory personalization on page 286 explain the ways in which such descriptions can have an impact on the mechanics of laboratory activities.
 
 ## Basic Laboratory Activities
-
 
 ou use one sum, called the Lab Total, frequently in calculating your ability to accomplish various laboratory tasks. This total varies from task to task
 
@@ -12073,10 +11860,7 @@ The amount of raw vis that a magus may use in a single season is limited to twic
 VIS LIMIT:
 Magic Theory x 2 pawns per season
 
-
-
 ## Spells
-
 
 ormulaic spells are a major measure of your power because they determine those things you can do easily and predictably. As a magus, you
 
@@ -12092,11 +11876,11 @@ The highest individual spell level you may learn is equal to your Lab Total in t
 
 Even when you learn a spell from a teacher, it is your Wizard's Sigil that manifests in your version; you actually invent the spell yourself, but with constant guidance from the teacher.
 
- $\begin{tabular}{ll} Maximum Total Levels: \\ Teacher's highest applicable Lab Total \\ \end{tabular}$ 
+$\begin{tabular}{ll} Maximum Total Levels: \\ Teacher's highest applicable Lab Total \\ \end{tabular}$
 
- $\begin{tabular}{lllllllllllllllllllllllllllllllllll$ 
+$\begin{tabular}{lllllllllllllllllllllllllllllllllll$
 
- $\begin{array}{c} \hbox{Highest Level of an Individual Spell:} \\ \hbox{Student's Lab Total in the Technique and Form} \\ \hbox{of the Spell} \end{array}$ 
+$\begin{array}{c} \hbox{Highest Level of an Individual Spell:} \\ \hbox{Student's Lab Total in the Technique and Form} \\ \hbox{of the Spell} \end{array}$
 
 ## Inventing Spells
 
@@ -12122,9 +11906,7 @@ Tillitus's Lab Total of 25 exceeds the spell level, 20, by 5, so every season Ti
 
 If Tillitus tries to invent a level 12 spell, he gets 13 points towards it every season, and thus can invent it in a single season. If he tries to invent a level 13 spell, he gets 12 points per season, so it would take him two seasons. Matt thus decides that Tillitus will invent a level 12 ward against magical creatures.
 
-
 ## Enchantments
-
 
 hysical creations, as surely as magical knowledge, can increase your power as a magus. In addition to talismans, which you can use to
 
@@ -12135,7 +11917,6 @@ Magical enchantments are created through a type of ritual magic, and therefore r
 Raw vis is often required to create magical enchantments. The process of enchanting an item transforms the vis, linking the magic power inexorably to the item in which it is instilled. Vis used for enchantments is thus transformed so that it is no longer usable for any other purposes, and it can never be extracted from the enchantment it is used to create. Magi sometimes refer to the magic of enchantments as "spun," rather than "raw," vis.
 
 Effects matching those of Ritual spells may not be placed in any enchantment. The elaborate rituals needed to control that much magical power simply cannot be contained in an unthinking physical item. The exception is that spells that are Rituals only because the spell level is over 50, not because of Duration, Target, or major effect, may be placed in items.
-
 
 ## Enchantment Summary
 
@@ -12148,8 +11929,7 @@ Lesser Enchantments: Need not be opened, cheap. Can only contain one effect, and
 Charged Items: No vis cost, can always be created in a single season. Run out.
 
 2. Open Item For Enchantment (Invested Items Only).
-Uses a number of pawns of Vim vis equal to the product of the material base and the size multiplier, from the Size and Material table. A magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
-
+   Uses a number of pawns of Vim vis equal to the product of the material base and the size multiplier, from the Size and Material table. A magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
 3. INVEST EFFECT.
 
 Invested Items and Lesser Enchantments: For every point by which your Lab Total exceeds the level of the effect, you gain one point towards the effect per season. Once your points equal the level of the effect, it is invested. You must invest a Lesser Enchantment in one season. Uses a number of pawns of vis matching the Technique or Form of the effect equal to the level divided by ten (rounded up). Again, a magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
@@ -12227,8 +12007,6 @@ Once you have the physical item to enchant, you must spend a season preparing it
 
 It is possible to enchant only part of an item. For example, you can enchant a ruby on the end of a staff. Because it is on a staff, the gem gains bonuses appropriate to the shape (but not the material) of the staff (see the Shape and Material Bonuses Table), and you don't have to enchant the whole staff. However, any effect that relies on the attachment of gem and staff for a bonus (for example, any spell in the gem that uses a Shape bonus for the staff) is permanently lost if
 
-
-
 the two are separated. When you enchant a part of an item, you must use the number of pawns of vis that would be required to enchant that part if it were a separate item.
 
 It is also possible to prepare a compound item for enchantment, so that you get the shape and material bonuses from all the components for all effects. For example, you might want to enchant a wooden staff, shod in iron, with a quartz crystal bound on the top. There are two ways to do this, but you must select one when the item is first prepared, and the choice cannot be changed later. Work out how many pawns of vis it would take to prepare each component for enchantment. You may then either prepare it with a number of pawns equal to the sum of the pawns for each component, or with a number of pawns equal to the highest required by a single component. The example staff would take eight pawns to prepare the staff alone (a large wooden item), five pawns for the iron shoeing (tiny base metal item), and twelve pawns for the quartz (tiny semi-precious gem). Thus, the whole complex can be prepared at a cost of twelve pawns or twenty five pawns. A compound item of this sort may not contain more components than your Magic Theory score, as binding disparate things together magically takes some skill.
@@ -12257,9 +12035,7 @@ In general, enchanted devices may not mimic the effects of Ritual spells. There 
 
 After laying out the parameters of the effect, you must decide how frequently you use the effect. Consult the "Effect Frequency Table." The number you choose corresponds to a modifier, which is added to the level of the effect.
 
-
 Next you must specify the conditions under which the effect is triggered. A trigger can involve a command word or phrase, moving the item in a specific way (for example, waving or pointing a wand), a stance to be adopted, or anything physical that you can imagine. Most enchanted items cannot read thoughts, so the trigger action must be physical, not mental. By default, the trigger action must be performed by someone holding the item, although intention does not matter. Wands with offensive powers usually have very specific triggers, to make sure that they do
-
 
 not go off by accident; some other items trigger whenever they are put on.
 
@@ -12275,7 +12051,6 @@ Penetration: You may elect to give the effect non-zero Penetration. For every le
 
 Concentration: When investing an effect, you can arrange to have the device maintain concentration on the effect for the wielder. This option adds +5 to the effect's level. Note that the wielder still needs to concentrate to change how the effect is used. For instance, a levitation belt that does not require concentration can hold someone in the air, but to move up or down the wielder must concentrate. Effects left to their own concentration start to wear off at sunset and sunrise. At these times the wielder must concentrate on the effect for a few moments to perpetuate it until the next sunrise or sunset, whichever comes first. This effect is useful for things like invisibility rings, which have their effect when put on, and then maintain concentration and invisibility until removed. This
 
-
 allows the wearer to end the effect at will, and start it again if the device still has uses left.
 
 The item can only maintain one instance of the effect at a time, unless the same effect is invested in the same item multiple times. For example, a wand of invisibility that can make a person invisible six times per day and maintain concentration can only make one person invisible at a time. However, if the wand were instead invested with six effects each of which could be used once per day, and maintained concentration, then it could make six people invisible at once. This would require more vis, more seasons, and a different trigger for each effect.
@@ -12288,8 +12063,9 @@ Otherwise, invested devices can be activated by anyone who knows their trigger a
 
 Effect Expiry: It is possible to instill an effect which will only work for a limited period. This period is counted from the first use of the effect, not from its creation. A single item may mix temporary and permanent effects. Limiting an effect in this way multiplies the amount by which the magus's Lab Total exceeds the modified level of the effect, allowing him to instill effects more quickly. It does not allow him to instill effects he could not otherwise manage. Effect Expiry cannot be applied to Lesser Enchanted Items or Charged Items.
 
+
 | ITEM LASTS | Excess Modifier |
-|------------|-----------------|
+| ------------ | ----------------- |
 | 1 year     | x10             |
 | 7 years    | x5              |
 | 70 years   | x2              |
@@ -12316,7 +12092,7 @@ Mari doesn't want any Penetration, and just wants the basic Agony of the Beast e
 
 Once you have designed the effect that you want to invest in your device, you have to perform the ritual of joining. Your Lab Total (based on the Form and Technique scores appropriate to the effect) is compared to the total modified effect level. Several other modifiers apply to your Lab Total:
 
- If the effect you are investing mimics a spell with casting requisites, those requisites apply
+If the effect you are investing mimics a spell with casting requisites, those requisites apply
 
 to your Lab Total.
 
@@ -12327,7 +12103,6 @@ to your Lab Total.
 You can only invest an effect if this modified Lab Total exceeds the modified level of the effect. For each point by which your total exceeds the level, you accumulate 1 point per season. When you accumulate points equal to the effect's modified level, you invest the power. Thus, if your Lab Total is double the modified level of the effect, you can invest it in one season. For lesser enchantments, your Lab Total must be at least double the modified level of the effect.
 
 For every 10 points, or fraction thereof, of the modified level of the effect, you must also expend one pawn of raw vis of an Art matching either the Technique or Form of the effect being invested. This vis is expended in the first season you begin investing the effect. But remember, a given item can only hold a limited number of effects. If the amount of raw vis required to instill an effect brings the total amount of raw vis used above the total used to prepare the item for enchantment in the first place, the effect cannot be invested. So if you are enchanting a silver dagger (which takes 12 pawns of vis to prepare for enchantment), you can only put 12 pawns worth of effects in it. If the dagger already has 10 pawns worth of effects, an effect that requires 3 pawns of vis (that is, an effect of level 21 to 30) does not fit; you cannot put it in the dagger.
-
 
 ## Enchanted Item Example
 
@@ -12390,12 +12165,11 @@ Magi sometimes use the Waiting Spell (see page 372) to guard their enchanted dev
 
 ## Similar Spells
 
-
 magus gets some benefit from knowing a spell similar to the effect he is creating. He gets a bonus to his Lab Total equal to the magnitude of the highest-
 
 level similar spell that he knows. Only a single spell grants a bonus; there is no laboratory advantage to knowing dozens of similar spells.
 
- $S_{\text{IMILAR}} \; S_{\text{PELL}} \; Bonus: \\ Magnitude \; of \; highest-level \; similar \; spell \; known \\$ 
+$S_{\text{IMILAR}} \; S_{\text{PELL}} \; Bonus: \\ Magnitude \; of \; highest-level \; similar \; spell \; known \\$
 
 A spell is similar if it meets one of the following requirements:
 
@@ -12446,7 +12220,6 @@ Corpus Lab Total of at least 30. A Longevity Ritual made for another magus or a 
 
 ## Laboratory Texts
 
-
 hen a magus creates something in the laboratory, he keeps a set of notes recording what he has done, what worked, and what didn't. With the aid of these
 
 notes he, or another magus, can reproduce the effect much more quickly, as he knows exactly what he should be doing.
@@ -12472,7 +12245,6 @@ It is not possible to experiment (see page 274) while working from a Laboratory 
 Carolus decides that he needs at least one combat spell, or he risks being in serious trouble if he gets caught stealing. Given his magical strengths, he decides to look at Perdo Corpus. His Perdo Corpus Lab Total is 10 (Perdo) + 5 (Corpus) + 2 (Intelligence) + 4 (Magic Theory) + 1 (Magic Theory is specialized in inventing spells) + 5 (Aura of Semita Errabunda), for a total of 27. He could invent a level 13 spell by himself in a season, but that wouldn't be much use.
 
 Fortunately, the covenant library has a Lab Text for *Grip of the Choking Hand*. This spell is level 25, which would take him 13 seasons to invent by himself. His Lab Total is 2 higher than the level, so after thirteen seasons he would have accumulated 26 points, and thus invented the spell. Working from the Lab Text, however, he can invent the spell in a single season.
-
 
 Laboratory Texts are not immediately useful to others, however, as they include all sorts of personal abbreviations and shortcuts that others cannot understand. (Remember that everything is written by hand in the Middle Ages.)
 
@@ -12521,7 +12293,6 @@ As noted above, laboratory assistants automatically understand the Laboratory Te
 
 ## Multiple Laboratory Activities
 
-
 ometimes you may wish to perform laboratory activities that, though rewarding, are well within your capabilities. In this case, you may choose to
 
 perform multiple activities within a single season, splitting your time among them all. All the activities you perform in a season must be of the same type (for example, learning spells, instilling powers in an invested device, creating potions) and must use the same Technique and Form. Some or all of the activities may be based on Laboratory Texts. To perform multiple activities, simply add up the levels of all activities performed and apply your Lab Total to the total of the levels.
@@ -12531,7 +12302,6 @@ If the Lab Totals for the different activities are different, due to requisites,
 If you perform arcane experimentation (page 274), you add a single simple die + risk modifier to your Lab Total, but any results rolled on the "Extraordinary Results Chart" apply to all activities performed in the season.
 
 # help in the Laboratory
-
 
 hough the Code of Hermes provides protection for magi who meet on neutral grounds, the sanctum of a magus (laboratory and living quarters)
 
@@ -12546,7 +12316,6 @@ You may not normally have more than one helper in the lab, as it is difficult to
 Leadership score (though he can always have at least one). The exception is that a magus with a familiar may always have at least one assistant in addition to his familiar; this does not increase the maximum if he has a Leadership score of 2 or more. Lab assistants gain exposure experience, typically in Magic Theory, but do not gain anything else from the experience. Distractions from Lab Work he rules for what a magus can do in a season assume that the season is uninterrupted. Sometimes, however, magi take time away from their labs to travel and explore, and this lost time makes itself felt in their lab performance. You may miss up to ten days from any laboratory activity, and make up the time by working harder during the remainder of the season. There is no penalty for this. However, if you miss eleven days or more, your Lab Total is penalized by 10 points, plus two points for every day over ten that you miss, up to a maximum penalty of 30 when you miss twenty days. If you miss more than twenty days, you cannot perform a laboratory activity at all, as you lose your synchronization with the cycles of the heavens.
 
 ## Pamiliars
-
 
 rotective of their secrets and suspicious of any who might hold power over them, magi are notoriously distant from other people. They can find
 
@@ -12607,8 +12376,6 @@ Mentem: ape, cat (black or tortoiseshell), fox, owl, wolf, any animal with an In
 Terram: badger, hedgehog, ferret, frog, fox, mole, mouse
 
 Vim: hoopoe, any magical animal
-
-
 
 the Technique or the Form used in calculating the Lab Total, and the magus may use both kinds.
 
@@ -12714,7 +12481,6 @@ very well.
 
 ## Apprentices
 
-
 teaching your apprentice rather than doing research, the apprentice in turn is required to help you do your lab work. In addition, an apprentice provides you close human companionship and the chance to leave a living legacy when you die. Your apprentice will likely be the closest thing to a son or daughter that you, as a magus, will ever have.
 
 ## Finding Your Apprentice
@@ -12773,7 +12539,7 @@ Once the Arts are Opened, the apprentice character has a 0 in each of the five T
 
 Teaching a Hermetic Virtue combines aspects of learning a Supernatural Ability (page 159) with learning a Mystery Cult Virtue (page 387). The instructor, typically an apprentice's parens, generates a Teaching Source Quality total that is compared to a required target level. Both teacher and student must be Gifted individuals trained in Hermetic Magic Theory. A magus cannot teach a Gifted hedge wizard a Hermetic Virtue because the two men do not understand magic in the same way. At the end of a season's instruction, the parens generates a Teaching Source Quality just as if he were teaching an Ability or an Art.
 
- $T_{\text{EACHING}} \ Source \ Quality: \\ Communication + Teaching + 3 + bonus$ 
+$T_{\text{EACHING}} \ Source \ Quality: \\ Communication + Teaching + 3 + bonus$
 
 The bonuses for the Instruction Total are the same bonuses that apply for every teacher (page 378). Like Arts, Hermetic Virtues can only be taught one-on-one, so every parens' Teaching Source Quality receives a +6 bonus. Virtues that affect teaching also apply.
 
@@ -12815,7 +12581,6 @@ Few apprentices purposefully gain Hermetic Flaws. A player can always select a H
 
 The two most common ways characters gain Hermetic Flaws are through learning Hermetic Virtues, and as a consequence of game play. As mentioned previously, it is easier to learn a Hermetic Virtue from a teacher if that teacher includes a Hermetic Flaw in the process. Hermetic magi do not fully understand why this is so, but like Mystery Cult Initiations, tainting the learning process with an incurred liability makes instruction easier. The second way characters gain Hermetic Flaws is through play. Uncontrolled Temporary Twilight episodes are a frequent cause, bestowing Hermetic Flaws on an apprentice in the same way they grant Hermetic Flaws to a magus (page 230). Gaining a Hermetic Deficiency Flaw during the opening of the Arts is another path to receiving a new Flaw during play. Some Supernatural creatures have the power to grant Minor and Major Flaws, and while these aren't always Hermetic, they can be. These Flaws are not necessarily permanent and many are temporary inconveniences. Realms of Power: Madic and Realms of Power: Faerie have details and example creatures.
 
-
 # Fleshing Out Your Apprentice
 
 The basic benefit that an apprentice provides you is the addition of his Intelligence and Magic Theory scores to your Lab Totals (see page 264). If all you want is a lab assistant, you only need to keep track of your apprentice's Intelligence and Magic Theory scores, and after fifteen years, your apprentice becomes a full magus and leaves your service.
@@ -12828,7 +12593,6 @@ A fully developed apprentice makes a playable character. If you want to play an 
 
 When you are a magus and teacher, some of the best roleplaying opportunities for your apprentice arise when he is interacting with you. To encourage this, you may want to let another player roleplay your apprentice, or you may consider your apprentice a troupe character to be played by different members of the troupe at different times, much as a grog is (see Troupe Style Play on page 528).
 
-
 ## The End of Apprenticeship
 
 Apprenticeship ends with the 'apprentice's gauntlet', which is normally administered after fifteen years. This is set by the parens, and is intended to demonstrate that the apprentice is worthy to become a full magus. If the apprentice fails the gauntlet, he remains an apprentice, traditionally for another year.
@@ -12836,7 +12600,6 @@ Apprenticeship ends with the 'apprentice's gauntlet', which is normally administ
 If an apprentice fails three gauntlets, the Quaesitores set the fourth and subsequent gauntlets, to ensure that the parens is not setting impossible gauntlets simply to retain the apprentice's services. An apprentice who fails Quaesitorial gauntlets repeatedly will carry a reputation for incompetence with him if he ever does pass, but there is no other consequence. The Quaesitores do tend to set easier gauntlets than most parentes, testing basic competence only, so even those apprentices trained by Incomprehensible masters can normally pass.
 
 ## Arcane Experimentation
-
 
 he preceding rules assume that you are being careful with your alaboratory work and staying safely within the bounds of what you know how to do. If you
 
@@ -12868,8 +12631,6 @@ Even with the added bonus of a simple die, vour Lab Total may not meet the level
 
 If your Lab Total is high enough to invest an effect, but the effect turns out to be flawed (as determined by a roll on the chart), it still "takes
 
-
-
 up space" in your device, just like a normal effect. Thus, if you risk experimentation and make a mistake, you can permanently limit the effectiveness of your magical item.
 
 # Anchanting a Familiar by Axperimentation
@@ -12890,8 +12651,9 @@ When investigating an enchanted item by experimenting on it, you take risks not 
 
 Disaster: You fail miserably. Consult the following table for the result, depending on the number of zeroes rolled on the botch dice. Suffer the effect for the number you roll and for all lower numbers, unless explicitly told otherwise. For example, an explosion (3) also destroys the creation and inflicts Warping Points on the magus.
 
+
 | Zeroes | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | Everyone in the lab gains Warping Points equal to the number of zeroes on the botch roll. Hermetic magi (and anyone else opened to the Hermetic Arts) must roll for Twilight if they gain two or more; members of other traditions may also suffer serious effects, as determined by their tradition. The season is completely wasted; see Complete Failure. If there are other results and magi choose not to resist Twilight, they enter Twilight before the effects occur, and thus avoid any personal damage. |
 | 2      | Your creation is destroyed. If it is a single-<br>season project, this is the same as a<br>Complete Failure.                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 3      | Your laboratory gains the Damaged Flaw.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -12931,24 +12693,25 @@ A story event happens. This can be anything, it could be used as an opportunity 
 
 Discovery: Roll a simple die and add your risk modifier. If you are engaged in Arcane Discovery (see page 277), you make a discovery that advances your project, and ignore this table.
 
+
 | Roll | Result                                                                                                                                                  |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1–4  | You gain 15 experience points in Magic Theory.                                                                                                          |
-| 5–6  | You gain 15 experience points in some<br>Ability related to the experiment                                                                              |
-| 7–8  | You gain three experience points in one of the Arts used in the experiment.                                                                             |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1–4 | You gain 15 experience points in Magic Theory.                                                                                                          |
+| 5–6 | You gain 15 experience points in some<br>Ability related to the experiment                                                                              |
+| 7–8 | You gain three experience points in one of the Arts used in the experiment.                                                                             |
 | 9    | You gain enough experience points to bring one of the Arts used in the experiment to the next level (or three experience points, whichever is greater). |
 | 10+  | Roll twice, and reroll this result if it is generated again.                                                                                            |
 
-
 Modified Effect: Roll a simple die and add your risk modifier. If you were investigating a magic item, you have changed one or more of its powers.
 
-| Roll | Result                                                                                                                                                 |
-|------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Roll  | Result                                                                                                                                                 |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1–3  | The spell or effect is reduced in range, duration, target, or potency.                                                                                 |
 | 4–6  | The spell or effect's range, duration, target, or potency is increased.                                                                                |
 | 7–8  | The use of the spell or effect is restricted. For example, it fails to work in certain circumstances, like when it is raining.                         |
 | 9–10 | The actual effect of your experiment is modified. For example, a spell like Curse of Circe (page 334) turns the target into a goat instead of a pig.   |
-| 11+  | The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar. |
+| 11+   | The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar. |
 
 ## Arcane Discovery
 
@@ -12993,8 +12756,6 @@ Roll Discovery on the Extraordinary Results Chart during a season of Arcane Expe
 #### RISK MODIFIER:
 
 Do not add risk modifier into Lab Total. Add or Subtract up to risk modifier again from the stress die rolled on the Extraordinary Results Chart
-
-
 
 You are hoping for a Discovery. If you do not roll a Discovery, your spell or item is still affected by the Extraordinary Results Chart. Most likely you will end up with a slightly odd Hermetic effect. If your original research involved a spell and that spell is flawed or difficult to cast, you may reinvent the spell using the rules found in the Arcane Experimentation section. If your research involved an item and that item is flawed, you may attempt to reinvent that item, but all vis used in the initial experiment is lost.
 
@@ -13060,9 +12821,6 @@ If the effect is successfully created, the magus gains a number of breakthrough 
 
 The effect produced in this way can be reproduced by other Hermetic magi. However, they can only do so if they have access to a Laboratory Text describing it, and it is not possible to vary the effect in any way, it must be reproduced exactly as it was initially created.
 
-
-
-
 Reproducing the effect in this way does not grant breakthrough points unless the reproducing magus also gains the relevant insight, whether from investigating the same item or from reading the original investigator's Laboratory Texts. It is possible to reproduce the effect first, and study the insight Laboratory Texts later.
 
 ## After the Breakthrough
@@ -13077,8 +12835,9 @@ A second Major Breakthrough integrates a Major or Hermetic Breakthrough complete
 
 ## Shape and Material Bonuses Table
 
+
 |                        | Shape and Material Bonuses Table       |                         |                                                    |
-|------------------------|----------------------------------------|-------------------------|----------------------------------------------------|
+| ------------------------ | ---------------------------------------- | ------------------------- | ---------------------------------------------------- |
 | Adze                   | +2 beautify wood structures            | Basket                  | +2 collect items                                   |
 | Agate                  | +3 air                                 |                         | +3 create things within                            |
 |                        | +5 protection from storms              |                         | +4 preserve contents                               |
@@ -13133,8 +12892,9 @@ A second Major Breakthrough integrates a Major or Hermetic Breakthrough complete
 
 *VIII*
 
+
 |      | Cinquefoil           | +2 making amends                             | Elm Wood                      | +2 death and decay                                         |
-|------|----------------------|----------------------------------------------|-------------------------------|------------------------------------------------------------|
+| ------ | ---------------------- | ---------------------------------------------- | ------------------------------- | ------------------------------------------------------------ |
 |      |                      | +3 drive away demons                         | Emerald                       | +4 incite love or passion                                  |
 |      |                      | +4 resist poison                             |                               | +7 snakes and dragonkind                                   |
 |      | Clam Shell           | +2 protection                                |                               | +2 calm                                                    |
@@ -13197,8 +12957,9 @@ A second Major Breakthrough integrates a Major or Hermetic Breakthrough complete
 
 **283**
 
+
 | Hyacinth                              | +2 healing                                                            |                          | Myrmecoleon Exoskeleton +6 deprivation and starvation |
-|---------------------------------------|-----------------------------------------------------------------------|--------------------------|-------------------------------------------------------|
+| --------------------------------------- | ----------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------- |
 | Hydra Teeth                           | +6 Creo                                                               | Myrrh                    | +3 spirits                                            |
 |                                       | +8 regeneration                                                       | Necklace                 | +4 affect breathing and speaking                      |
 | Ink of Hermes                         | +3 Vim                                                                | Net                      | +5 immobilization                                     |
@@ -13261,8 +13022,9 @@ A second Major Breakthrough integrates a Major or Hermetic Breakthrough complete
 |                                       | +5 see the truth                                                      | Rowan Wood               | +1 Vim                                                |
 |                                       | +6 display images<br>284<br>+7 illusions                              |                          | +4 protection against malicious magic                 |
 
+
 |      | Ruby                                 | +2 courage                                     | Sulfur                                 | +2 sowing discord                                                   |
-|------|--------------------------------------|------------------------------------------------|----------------------------------------|---------------------------------------------------------------------|
+| ------ | -------------------------------------- | ------------------------------------------------ | ---------------------------------------- | --------------------------------------------------------------------- |
 |      |                                      | +3 battle wounds                               |                                        | +2 preserving or decaying                                           |
 |      |                                      | +3 affect blood                                |                                        | +3 binding tongues                                                  |
 |      |                                      | +4 leadership in war<br>+6 fire-related effect |                                        | +4 demons                                                           |
@@ -13311,7 +13073,6 @@ A second Major Breakthrough integrates a Major or Hermetic Breakthrough complete
 
 ## Laboratory Personalization Rules
 
-
 fter settling in to her standard and average laboratory, a young maga will sooner or later start to consider the possibilities of adding a little personal touch and flavor to her
 
 workspace. This will help her to feel a greater sense of identity and comfort with her own lab, but perhaps more importantly, the lab will also become more effective in her preferred areas of research. Needless to say, labs usually grow to become colored according to the personal habits and magical specialties of a magus. A long-established laboratory tells a great deal about its owner, in its features and outfittings, as well as in its cleanliness and orderliness.
@@ -13327,7 +13088,6 @@ The eight Laboratory Characteristics are as follows:
 Size, Refinement, General Quality, Upkeep, Safety, Warping, Health, Aesthetics
 
 Apart from Warping, which cannot be negative, each Characteristic may be positive, negative, or zero. A standard lab starts with all Characteristics at zero.
-
 
 To determine the Characteristics of a non-standard laboratory, proceed as follows:
 
@@ -13357,6 +13117,7 @@ Size + Refinement
 
 Occupied Size:
 current Virtue points
+
 - Flaw points - Refinement
 
 Base Safety of Lab:
@@ -13365,8 +13126,9 @@ Refinement - occupied Size
 
 the Empty Flaw. For example, a lab with Size +5 (0) should take the Empty Flaw twice.
 
+
 | Size | Square Feet |
-|------|-------------|
+| ------ | ------------- |
 | -3   | 100         |
 | -2   | 200         |
 | -1   | 350         |
@@ -13414,7 +13176,6 @@ The higher the Safety, the lower the risk of any lab accidents, and vice versa. 
 For each season of work in an unsafe lab, roll a simple die. (This extra roll is in addition to any others which may be made, such as for experimentation or study from vis.) If the result is less than or equal to the absolute value of the Safety (in other words, ignore the minus sign), there is a chance of suffering a lab botch, in which case make a roll the usual number of botch dice (including the extra dice for having a negative Safety). For this roll, you cannot have no botch dice; there is always a minimum of at least one. In the event of a botch, a lab accident is suffered — consult the Disaster sub-chart of the Experimentation: Extraordinary Results chart (see page 275).
 
 For example, Helvius spends a season to invent a spell (something that would normally be safe, and not require a roll) in his laboratory,
-
 
 which has a Safety of –2. Helvius's player rolls a simple die, getting a 1, which is less than or equal to 2, so there is a chance of suffering a lab botch. He then rolls for botch with two botch dice (the base number of none for this activity, plus two for the Safety score). One of the dice comes up as 0, for a lab accident. On a single botch, Helvius suffers a single Warping Point. He got off quite lightly.
 
@@ -13540,7 +13301,6 @@ A laboratory has free space for one or more new Virtues if its current points of
 
 Virtues are not simply chosen and gained automatically — there may be a cost in time, money, or vis, and there may be additional specific requirements (see the list below). As a general rule, it takes one season of work to gain a
 
-
 Minor Virtue, and two seasons to gain a Major Virtue. This time is occupied with construction or installing the improvement. The person doing this work needs to have a Magic Theory score at least three points higher than the lab's Refinement. Free Virtues have no space and (usually) no seasonal construction requirement. They may be gained in a day or so, if the relevant materials are procured, or if the relevant circumstances are satisfied.
 
 Sometimes, the magus might wish to lose Virtues. This is not always possible, since some Virtues are due to fundamental properties of the lab (such as its physical location) which cannot readily be changed. Where it is possible, a Minor or Major Virtue can only be removed during a season or more of work to improve the laboratory (either by increasing the Refinement, or installing a different Virtue). For example, the magus can remove an existing Lesser Feature and replace it with a new one, in one season. Where it is possible to remove a Free Virtue, it can usually be done in a day or so.
@@ -13550,7 +13310,6 @@ Sometimes, the magus might wish to lose Virtues. This is not always possible, si
 Flaws may be chosen either due to choice or to general neglect, or because you need to free up points of space to balance a new Virtue. There is no limit on their number and they take effect immediately. In the event of a lack of funds, you may also be forced to take a Flaw resulting in a lower Upkeep (see the Upkeep section, above).
 
 Just as for Virtues, some Flaws can later be removed, whereas others are due to fundamental properties of the lab, and cannot be altered. If removing a Minor or Major Flaw, the magus needs to have sufficient free points of space, since the occupied Size will increase. Where it is possible, removing a Free Flaw usually takes one season (unless otherwise stated), removing a Minor Flaw also takes one season, and removing a Major Flaw takes two seasons. This time is occupied with repairing or restoring the faulty component, but it can be combined with a season spent improving
-
 
 the Refinement. For example, a lab might start out with Size -1, Refinement 0, and the Cramped Flaw. With a Magic Theory of 4, one season of work will suffice both to increase the Refinement to +1 and to lose the Cramped Flaw.
 
@@ -13656,8 +13415,6 @@ Hidden Defect\*: A subtle and potentially dangerous error exists in the lab's co
 
 Missing Ingredients\*: Due to a lack of certain ingredients, lab work involving either one specific Technique or two specific Forms is severely hampered — relevant Lab Totals are halved. For example, the lab might contain no silver, in which case Terram and Vim Lab Totals
 
-
-
 are halved. It does not take a season to remove this Flaw, if sufficient funds are available to increase the Upkeep. –1 Upkeep.
 
 Missing Sanctum Marker: The sanctum marker is not prominently displayed, and is thus easy to miss, or it is missing altogether. Hermetic magi might (unwittingly or knowingly) intrude. It does not take a season to remove this Flaw. –1 Aesthetics.
@@ -13736,7 +13493,7 @@ Specialized labs often have certain noteworthy or unique structural features (on
 
 Below are listed some example Features, together with the possible Specializations for each. Many labs have a number of these things, but they do not necessarily count as a Feature, unless purchased with either the Greater Feature or Lesser Feature Virtue. The former provides three points on Specialization(s), the latter one point. You may choose to distribute these points amongst the listed Specializations as you wish. You should feel free to come up with your own ideas for Features, since just about anything that may be found in a Hermetic laboratory may be made into a Feature.
 
- $\begin{array}{l} \textbf{Altar:} \ An \ or namental \ place \ of \ ritual \ worship, \ such \\ as \ a \ raised \ dais. \ Specializations: \ any \ Technique, \ Vi. \end{array}$ 
+$\begin{array}{l} \textbf{Altar:} \ An \ or namental \ place \ of \ ritual \ worship, \ such \\ as \ a \ raised \ dais. \ Specializations: \ any \ Technique, \ Vi. \end{array}$
 
 Animal Pen: An enclosure for one or more animals, often a familiar, to dwell. Specializations: Familiar, An.
 
@@ -13745,7 +13502,6 @@ Antechamber: A separate enclosure or compartment. Spells may be cast here in a m
 Astronomical Device: A sophisticated tool for measuring the movements of the heavens, often placed near a window or skylight. The most common such item is an astrolabe, and example of a more advanced device is the armillary sphere. Specializations: In, Vi.
 
 **Balance**: An exact weighing device, such as a pair of scales. Specializations: Vis Extraction, In, Re.
-
 
 **Balcony**: An outdoors balcony, where the magus may cast spells into the open air. Specializations: Spells, Au.
 
@@ -13824,13 +13580,7 @@ Specific effects for each item should be created as normal. If an effect cannot 
 - If the effect duplicates an existing Laboratory Virtue or Flaw, then the item simply grants that Virtue or Flaw to the lab. It is gained immediately and has no space cost, apply its stated modifications to Characteristics or Specializations, as usual.
 - If the effect does not resemble a Laboratory Virtue or Flaw, then the final level of the effect determines how many points of Characteristics or Specializations may be gained. Every ten levels may grant one point in a Specialization, or every 20 levels may improve a Characteristic by one point. For example, an effect with a final level of 50 might improve one Characteristic by one point (20 levels), and one Specialization by three points (30 levels). Also, items or enchantments with powerful effects, influencing the whole of the lab, may (unintentionally) increase the Warping Characteristic, at the discretion of the storyguide.
 
-
-
-
-
-
 # IX. Spells
-
 
 he Order of Hermes has collected and created hundreds of spells that have been passed down to apprentices and traded among magi for centuries. Those listed here are representative of
 
@@ -13851,7 +13601,6 @@ Spell Magnitude: Level/5 (rounded up)
 ## Spell Design
 
 ## The Central Rule
-
 
 he troupe may always intervene and declare that a certain combination of Range, Duration, Target, and effect warrants a higher or lower level than that described by the guidelines and
 
@@ -13880,16 +13629,15 @@ To calculate the level for a spell that does not use the base Range, Duration, a
 Below level 5, adding a magnitude only adds
 
 
-
-| bel                      | ~~~                  | man Dansti                 | and FIN    |           | La      |
-|--------------------------|----------------------|----------------------------|------------|-----------|---------|
-|                          | K                    | inges, Duratio             | ons, and T | argets    |         |
-| Additional<br>Magnitudes | Range                | Duration                   | Овјест     | Container | Sense   |
-| 0                        | Personal             | Momentary                  | Individual | Circle    | Taste   |
-| 1                        | Touch/Eye            | Concentration/<br>Diameter | Part       | _         | Touch   |
-| 2                        | Voice                | Sun/Ring                   | Group      | Room      | Smell   |
-| 3                        | Sight                | Moon                       | -          | Structure | Hearing |
-| 4                        | Arcane<br>Connection | Year                       | -          | Boundary  | Vision  |
+| bel                      | ~~~                  | man Dansti                 | and FIN      |           | La      |
+| -------------------------- | ---------------------- | ---------------------------- | -------------- | ----------- | --------- |
+|                          | K                    | inges, Duratio             | ons, and T   | argets    |         |
+| Additional<br>Magnitudes | Range                | Duration                   | Овјест | Container | Sense   |
+| 0                        | Personal             | Momentary                  | Individual   | Circle    | Taste   |
+| 1                        | Touch/Eye            | Concentration/<br>Diameter | Part         | _         | Touch   |
+| 2                        | Voice                | Sun/Ring                   | Group        | Room      | Smell   |
+| 3                        | Sight                | Moon                       | -            | Structure | Hearing |
+| 4                        | Arcane<br>Connection | Year                       | -            | Boundary  | Vision  |
 
 because they are at the same level). A different variant with Range Personal, Duration Concentration, and Target Individual would be level 2 (-2 magnitudes to decrease Range Voice to Personal, -1 magnitude to decrease Duration Sun to Concentration, and -2 magnitudes to decrease Target Group to Individual). Note that since -2 magnitudes takes the level from 15 to 5, the additional magnitudes of reduction only lower the level by -1 per magnitude.
 
@@ -13940,7 +13688,6 @@ The ring may already exist, for example as a band laid into the ground. In this 
 Moon: The spell lasts until both the new and full moon have set. This adds 3 magnitudes to the guideline.
 
 Year: The spell lasts until sunrise on the fourth equinox or solstice after its casting. A spell with this duration must be ritual. This adds 4 magnitudes to the guideline.
-
 
 ## Target
 
@@ -13998,13 +13745,11 @@ The spell guidelines for wards against magical things are listed with a base ran
 
 Like any Hermetic spell, wards must Penetrate Magic Resistance to have their effect. A spell like Circular Ward Against Demons is much harder to cast
 
-
 at high levels, since the spell level must equal or exceed any affected demon's Might Score, and the Penetration Total must exceed it. For this reason, magi rarely learn or cast versions of these spells more powerful than about Level 30, instead favoring Rego spells of lower levels that hinder the target's movements more directly. Since in most cases Hermetic wards do not actually target the creatures affected by them, most magi cannot boost their Penetration Total with an Arcane Connection to a supernatural being, unless that being is inside the circle when the ward is cast.
 
 ## Magical Craft
 
 Hermetic magic can create a wide range of things. Natural objects, such as boulders, plants, or animals, can be created with Creo magic. Unless the caster botches the spell, the result is always a good example of that sort of thing. The caster may make an Intelligence + Finesse roll to add or control details, such as the shape of a tree's branches or the color of an animal's fur, within the normal range for such things. A failure on the Finesse roll just means that the caster does not get the desired details; the created thing is still a good example of the sort of thing it is. Even a botch on the Finesse roll does not make the creation a bad example of what it is, but it does create something as far from the caster's desire as possible. If she was trying to create a tree to block a hole in a wall, for example, a botched Finesse roll might mean that the tree makes more of the wall collapse, making the hole even larger and easier to get through. The tree, however, is still a perfectly good tree.
-
 
 Artificial items, such as tables, robes, and buildings, are a bit more complex. They can be created from nothing, using Creo magic, or from raw materials, using Rego magic. The advantage of working with natural raw materials is that a Momentary spell creates a lasting item: the changes are made in a moment, but the raw materials do not change back when the spell expires. An item made with Creo only lasts for the duration of the spell, unless the spell was a Momentary Ritual.
 
@@ -14055,13 +13800,13 @@ Hermetic magic is capable of summoning spirits. Such magic brings the spirit ins
 
 If the target spirit is in Mythic Europe, a Formulaic (or Spontaneous) spell is sufficient. If the spirit is in another realm, such as the Magic Realm, Arcadia, Purgatory, or Hell, the spell must be a Ritual. (The Limit of the Divine, and possibly the Limit of the Lunar Sphere, puts Heaven out of reach.) Regiones count as part of Mythic Europe for these purposes, and it is important to note that a lot of spirits, including demons, spend most of their time in Mythic Europe.
 
-
 # Ease Factors for Creating and Crafting Objects
 
 The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day. City and Guild contains more extensive rules for mundane craft (Chapter 4), and Art and Academe contains more rules for art (Chapter 8), which can be used to set more precise Ease Factors if the troupe desires. If you are using Workshop Totals from City and Guild, generate the equivalent Finesse Ease Factor by adding 3 to the Workshop Total, and then any modifiers for extra time required.
 
+
 | Crafting<br>Task     | Ease<br>Factor | Example                                                                                           |
-|----------------------|----------------|---------------------------------------------------------------------------------------------------|
+| ---------------------- | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Trivial              | 3              | Almost never worth rolling for                                                                    |
 | Simple               | 6              | Work regularly done by<br>untrained people, like<br>whitewashing a house                          |
 | Easy                 | 9              | The daily work of semiskilled craftsmen                                                           |
@@ -14074,7 +13819,6 @@ The Ease Factors in the table below include the +3 adjustment for magic use, and
 |                      |                |                                                                                                   |
 
 ## Container Targets
-
 
 pells with container Targets, including Circle, Room, Structure, and Boundary, raise
 
@@ -14228,8 +13972,6 @@ Some requisites are not listed along with a spell's statistics because they only
 
 Requisites work the same way for spontaneous spells. When the Arts to be used are determined, determine whether requisites are involved. If so, they limit your Arts just as they do for Formulaic spells.
 
-
-
 ## Spell Format
 
 Each spell has several factors that describe it for game use. They are discussed below.
@@ -14257,7 +13999,6 @@ Some spells are General spells (abbreviated to Gen), which means that they may b
 The level at which you know a General level Formulaic or Ritual spell depends on where you obtained it. If you learned a General level spell that was designed for effectiveness at level 15, then that is the level at which you know it. You cannot produce effects
 
 that exceed level 15 effects with that spell unless you invent a version with a higher level or learn such a version
-
 
 General level spells are open-ended only in the sense that they may be learned at any level. They may not be used at a level higher (or lower) than that which is known, and different levels of a General level spell are still different spells.
 
@@ -14339,15 +14080,18 @@ In order to influence the behavior of created animals, a Rego requisite is requi
 Creo Animal botches often produce the wrong sort of animal, or produce an animal enraged with the caster.
 
 - Level 30: Heal an Incapacitating Wound.
+
   - Increase one of an animal's Characteristics by one point, to no more than the average score for that kind of animal.
   - Cause an animal to reach full maturity over the course of a single Diameter.
 - Level 35: Heal all wounds.
+
   - Increase one of an animal's Characteristics by one point, to no more than one higher than the average score for that kind of animal.
 - Level 40: Increase one of an animal's
 
   Characteristics by one point, to no more
   than two higher than the average score
   for that kind of animal.
+
   - Cause an animal to reach full maturity in a moment.
 - Level 45: Increase one of an animal's
 
@@ -14355,6 +14099,7 @@ Creo Animal botches often produce the wrong sort of animal, or produce an animal
   than three higher than the average score
   for that kind of animal.
 - Level 50: Create a magical beast. When creating a magical creature, the Magic Might of the creature cannot exceed the level of the spell, and requisites must be included for any special powers (for example, Ignem if it can breathe fire, Rego and Mentem if it can control people's minds). A Vim requisite, for the magical nature, is always required.
+
   - Increase one of an animal's Characteristics by one point, to no more than four higher than the average score for that kind of animal
 - Level 55: Increase one of an animal's
   Characteristics by one point, to no more
@@ -14362,7 +14107,6 @@ Creo Animal botches often produce the wrong sort of animal, or produce an animal
   for that kind of animal. A greater increase is not within the natural range
   for the animal, and thus cannot be effected by Creo magic.
 - Level 75: Raise an animal from the dead.
-
 
 ## Creo Animal Spells
 
@@ -14416,7 +14160,6 @@ Calls a swarm of locusts or other destructive insects upon an area, which destro
 
 (Base 5, +1 Touch, +3 Moon, +2 Group, +2 size, for a swarm weighing as much as one thousand pigs, +1 extra effect from requisite, ritual because it has a really major effect)
 
-
 ## Intellego Animal Spells
 
 LEVEL 5
@@ -14451,19 +14194,17 @@ Level 3: • Sense the state of consciousness of a beast.
 
 Level 4: • Sense the dominant drive of a beast.
 
- Learn a specific fact about an animal's body.
+Learn a specific fact about an animal's body.
 
 Level 5: • Learn the origin, age, and history of something made of animal products
 
 Level 10: • Speak with an animal.
 
- Read an animal's surface thoughts.
+Read an animal's surface thoughts.
 
 Level 15: • Read the recent memories of a beast.
 
 Level 20: • Thoroughly probe the mind of a beast.
-
-
 
 ## Muto Animal Guidelines
 
@@ -14518,7 +14259,6 @@ R: Per, D: Sun, T: Hearing
 You sense the shapes and primary motivations of all animals above a certain size that you can hear, or could hear if they were making a noise. You decide the size threshold when you cast the spell, such as "all animals larger than a fox." The 'noise' of an animal's shape is louder the larger it is, while the 'noise' of its motivations increases depending on how intense the motivation is. A rabbit fleeing from a fox would sound fearful, very loudly. The fox's motivation might be fairly quiet, especially if recent hunting had been good.
 
 (Base 4, +2 Sun, +3 Hearing, +1 for shape and primary motivation)
-
 
 ## Muto Animal Spells
 
@@ -14587,7 +14327,6 @@ R: Touch, D: Sun, T: Ind.
 Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eves a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.
 
 (Base 15, +1 Touch, +2 Sun, +1 size)
-
 
 ## Perdo Animal Spells
 
@@ -14718,10 +14457,9 @@ When casting this spell, you commonly make an abrupt snapping motion with your h
 
 (Base 15, +2 Voice)
 
-
 ## Rego Animal Spells
 
-**GENERAL** 
+**GENERAL**
 
 WARD AGAINST THE BEASTS OF LEGEND R: Touch, D: Ring, T: Circle
 
@@ -14823,8 +14561,6 @@ Room, Structure and Boundary: work as for other Forms; the spell affects all the
 
 A base Individual for Aguam is a pool of water about five paces (fifteen feet) across, and two paces deep at the center. Naturally-occurring liquids, such as fruit juice or olive oil, have a base Individual one-tenth the size. about two paces across and about one deep. Processed liquids, such as wine or beer, have a base Individual one hundredth the size, a pool about one pace across and half a pace deep. Corrosive and otherwise dangerous liquids have a base Individual ten times smaller again, a puddle about half a pace across and about a fifth of a pace deep. Poisons have a base Individual of a single dose.
 
-
-
 ## Creo Aquam Spells
 
 #### LEVEL 5
@@ -14861,7 +14597,6 @@ Poisons created at the guideline level have an Ease Factor of 3. Each magnitude 
 - Level 25: Create a poison that causes a Fatal Wound.
   - Create a water elemental from a base amount of elemental material. (Ritual)
 
-
 ## Intellego Aquam Guidelines
 
 Note that Intellego Aquam spells do not normally require requisites depending on the type of liquid targeted.
@@ -14879,7 +14614,6 @@ Botched InAq spells generally provide false information.
 - Level 10: Learn the magical properties of a mixture of liquids.
 - Level 15. Speak with a natural body of water
 - Level 20: Speak with an artificial body of water (like a fountain).
-
 
 challenging than walking. A roll against an Ease Factor of 6 is needed for the average maneuver, with Ease Factors of up to 15 needed to (for example) make a right turn at full speed on a smooth, greased surface. The duration is the length of time that the oil lasts.
 
@@ -14920,8 +14654,6 @@ Causes a stream to flood, starting at the stream's nearest point to you and cont
 As long as you concentrate, the stream remains at flood levels. Anyone caught near the stream when it floods is struck by the rush of water (+10 damage), caught up in the flood, and dragged along. Every round, a victim makes a Strength + Swim stress roll against an Ease Factor of 9. Success means the character escapes the flood. Otherwise, the character loses one Fatigue level and takes +5 damage. Any who fall unconscious drown. This roll is repeated until the character either escapes the flood or dies.
 
 (Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)
-
-
 
 ## Intellego Aquam Spells
 
@@ -14981,7 +14713,6 @@ Turns a body of water into a scrying pool. Innately magical people (including mo
 
 (Special spell)
 
-
 ## Muto Aquam Spells
 
 #### LEVEL 15
@@ -15010,15 +14741,15 @@ General: • Change a liquid into a liquid that does +(Level) points of damage o
 
 Level 3: • Change a liquid into a poison causing a Medium Wound.
 
- Change a natural liquid into a slightly unnatural liquid (for example, make blue water or strawberry flavored castor oil), or vice versa.
+Change a natural liquid into a slightly unnatural liquid (for example, make blue water or strawberry flavored castor oil), or vice versa.
 
 Level 4: • Change a liquid into an unrelated solid or gas (with requisites; Terram for solids and Auram for gases).
 
- Change a natural liquid into two or more different natural liquids, with the two types separate (although they will mix again normally).
+Change a natural liquid into two or more different natural liquids, with the two types separate (although they will mix again normally).
 
 • Change a liquid into a poison causing a Heavy Wound.
 
- Change a liquid into a very unnatural liquid (for example, a shocking pink liquid that causes bizarre hallucinations) — requisites will often be required.
+Change a liquid into a very unnatural liquid (for example, a shocking pink liquid that causes bizarre hallucinations) — requisites will often be required.
 
 Level 5: • Change a liquid into a mixture of any liquid, solid (with Terram requisite), or gas (with Auram requisite).
 
@@ -15048,7 +14779,6 @@ Level 15: • Destroy one property of a liquid (like alcohol's ability to intoxi
 
 Level 20: • Destroy a small spring, so that it never flows again.
 
-
 LUNGS OF THE FISH
 
 R: Touch, D: Sun, T: Part
@@ -15072,7 +14802,6 @@ T: Group, Ritual
 Ruins a body of water up to the size of a small lake, making it unfit for natural habitation and consumption. The water becomes dark and murky, and noxious fumes emanate from it. Vegetation on the banks either dies or becomes corrupt. Nearby trees become gnarled and blackened, and land animals flee the area.
 
 (Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)
-
 
 ## Perdo Aquam Spells
 
@@ -15126,7 +14855,6 @@ Causes a drought over the surrounding area. Only one-tenth the normal rain falls
 
 (Base 5, +1 Touch, +4 Year, +4 Boundary, no increase for requisite)
 
-
 ## Rego Aquam Spells
 
 #### GENERAL.
@@ -15150,7 +14878,6 @@ R: Touch, D: Sun, T: Ind
 Makes water run off one object or creature, protecting the target and the target's apparel from dampness. The spell is broken if the target is submerged in water.
 
 (Base 1, +1 Touch, +2 Sun, +1 for slightly unnatural control)
-
 
 Turns water into air as it enters
 
@@ -15264,7 +14991,6 @@ Level 15: • Summon a disembodied spirit associated with Aquam.
 
 Level 20: • Ward against liquids. (Touch, Ring, Circle)
 
-
 ## Creo Auram Guidelines
 
 Weather phenomena are normally created at Sight range. This is because most weather phenomena (clouds, rain, storms, and so on) naturally begin in the upper air, and so spells to create weather must have enough Range to reach this area. It is possible to create weather phenomena that start at ground level, but they are often very unnatural, and the increase in level for that precisely offsets the decrease from reducing Range to Touch. A flying wizard could, of course, use Touch range to create natural weather phenomena, but such spells are not very popular in the Order.
@@ -15282,7 +15008,7 @@ Creo Auram botches may create the wrong sort of weather, or create it targeted a
   - Create a phenomenon in a slightly unnatural fashion: +1 magnitude (for example, indoors)
   - Create a phenomenon in a very unnatural fashion: +2 magnitudes
   - Create a phenomenon wholly divorced from its normal context (for example, a lightning bolt springing from the caster's hands):
-     +4 magnitudes
+    +4 magnitudes
 
 Pull of the Watery Grave
 
@@ -15321,7 +15047,6 @@ Some target categories for Auram require some clarification. If the normal descr
 *Group:* Several related phenomena, such as the clouds, wind, and rain in a storm.
 
 A base Individual for Auram is a weather phenomenon that affects the area within a standard Boundary — an area one hundred paces across.
-
 
 ## Creo Auram Spells
 
@@ -15393,7 +15118,7 @@ A wall of wind roars away from you, starting up to 10 paces away and continuing 
 
 CIRCLING WINDS OF PROTECTION
 
- $R: \mathsf{Touch}, \, D: \mathsf{Conc}, \, T: \mathsf{Ind}$ 
+$R: \mathsf{Touch}, \, D: \mathsf{Conc}, \, T: \mathsf{Ind}$
 
 Req: Rego
 
@@ -15445,11 +15170,11 @@ Intellego Auram botches normally reveal false information.
 
 Level 1:
 
- Make your senses unhindered by the air (for example, you can hear over a howling wind).
+Make your senses unhindered by the air (for example, you can hear over a howling wind).
 
 Level 2:
 
- Sense one property of air (for example, determine if it is safe to breathe).
+Sense one property of air (for example, determine if it is safe to breathe).
 
 Level 4:
 
@@ -15457,7 +15182,6 @@ Level 4:
 - Have an intuition about some fact regarding the air.
 
 Level 15: • Speak with air.
-
 
 LEVEL 35
 
@@ -15488,8 +15212,6 @@ This spell creates an immense storm. 40 or more miles wide, of hurricane intensi
 The storm is not under the caster's control, and moves normally.
 
 (Base 5, +3 Sight, +2 Sun, +2 Group, +5 size)
-
-
 
 ## Intellego Auram Spells
 
@@ -15526,7 +15248,6 @@ R: Per, D: Sun, T: Hearing
 You can move about confidently in complete darkness by sensing air and its boundaries (for example, where solid objects are). You 'hear' the boundaries of the air, so it does not permit fine discriminations. On the other hand, you can 'hear' boundaries behind you.
 
 (Base 4, +2 Sun, +3 Hearing)
-
 
 LEVEL 20
 
@@ -15595,7 +15316,6 @@ Muto Auram botches could change the caster temporarily into air, or change the a
 
 Level 10: • Transform an amount of air into something wholly unnatural.
 
-
 ## Perdo Auram Guidelines
 
 Causing the destruction of air with great precision raises the magnitude by at least one level.
@@ -15618,7 +15338,6 @@ Level 10: • Destroy a severe weather phenomenon: deafening thunder, monsoon ra
 
 Level 15: • Destroy a very severe weather phenomenon: hurricane force winds, lightning strike, tornado.
 
-
 LEVEL 50
 
 RAIN OF OIL
@@ -15630,8 +15349,6 @@ Req: Aquam
 Turns rain into droplets of oil. Within the spell's duration, the rain of oil continues as long as the storm does, drenching the landscape with flammable liquid. The oil will evaporate at a natural rate after the rain ceases. A Creo Ignem spell can ignite the storm so that the oil burns as it falls, but this requires a Group target large enough to catch all the raindrops. Lighting the oil after it has landed is much easier.
 
 (Base 4, +3 Sight, +2 Sun, +5 size)
-
-
 
 ## Perdo Auram Spells
 
@@ -15667,12 +15384,11 @@ In Ferramentum's version of this spell, the clouds clear from the sky in an orde
 
 (Base 10, +3 Sight, +2 Group, +2 size)
 
-
 ## Rego Auram Spells
 
-**GENERAL** 
+**GENERAL**
 
-Ward Against Faeries of the  $A{\mbox{\scriptsize IR}}$ 
+Ward Against Faeries of the  $A{\mbox{\scriptsize IR}}$
 
 R: Touch, D: Ring, T: Circle
 
@@ -15690,7 +15406,6 @@ An existing breeze follows you until you stop traveling for more than ten minute
 
 (Base 2, +1 Touch, +2 Special (based on Concentration))
 
-
 #### LEVEL 10
 
 WARD AGAINST RAIN
@@ -15705,7 +15420,7 @@ No rain falls on the caster, no matter how bad the weather.
 
 CLOUDS OF THUNDEROUS MIGHT
 
- $R{:}\;\mathsf{Sight},\,D{:}\;\mathsf{Conc},\,T{:}\;\mathsf{Group}$ 
+$R{:}\;\mathsf{Sight},\,D{:}\;\mathsf{Conc},\,T{:}\;\mathsf{Group}$
 
 Gathers pre-existing clouds and winds into a small storm. The storm gathers at a normal speed, but is under the caster's control as long as he can see it. The caster may use the control granted by
 
@@ -15753,7 +15468,6 @@ Level 10: • Ward someone against a type of very severe weather phenomenon.
 
 Level 15: • Summon a disembodied spirit associated with Auram.
 
-
 ## Creo Corpus Guidelines
 
 Many Creo Corpus spells are most useful as Ritual spells. Unless otherwise noted, a healing spell cast other than as a Momentary Duration Ritual actually suspends the healing process so that, upon the spell's expiration, wounds are as fresh as they were when the spell was cast. No Hermetic spell can restore Fatigue levels.
@@ -15762,7 +15476,7 @@ A spell that can heal something can also heal less serious versions of the same 
 
 Level 1: • Give a character a +1 bonus to Recovery rolls.
 
- The target's wounds are treated as one category less serious for the purposes of activities while injured.
+The target's wounds are treated as one category less serious for the purposes of activities while injured.
 
 Level 2: • Give a character a +3 bonus to Recovery rolls.
 
@@ -15770,7 +15484,7 @@ Level 2: • Give a character a +3 bonus to Recovery rolls.
 
 Level 3: • Give a character a +6 bonus to Recovery rolls.
 
- Prevent all of a target's wounds from getting any worse.
+Prevent all of a target's wounds from getting any worse.
 
 Level 4: • Give a character a +9 bonus to Recovery rolls.
 
@@ -15794,7 +15508,7 @@ Resolve a minor aging crisis.
 
 Level • Heal a Medium Wound.
 
- Heal the debilitating after-effects of a disease, poison, or injury.
+Heal the debilitating after-effects of a disease, poison, or injury.
 
 • Resolve a serious aging crisis.
 
@@ -15816,9 +15530,9 @@ Creo Animal spells may be used as guidelines and examples for Creo Corpus spells
 
 Level • Heal an Incapacitating Wound 30:
 
- Increase one of a person's physical Characteristics by one point, to no more than 0.
+Increase one of a person's physical Characteristics by one point, to no more than 0.
 
- Cause a person to reach full physical maturity over the course of a single day or night. This accelerated maturation only applies during the spell's Duration, and thus full effect requires a Sun Duration spell cast early in the day or night. People do not learn under the influence of this spell, and for these purposes full maturity is reached around the age of twenty.
+Cause a person to reach full physical maturity over the course of a single day or night. This accelerated maturation only applies during the spell's Duration, and thus full effect requires a Sun Duration spell cast early in the day or night. People do not learn under the influence of this spell, and for these purposes full maturity is reached around the age of twenty.
 
 • Resolve a critical aging crisis
 
@@ -15826,7 +15540,7 @@ Level • Heal all wounds. 35:
 
 Resolve a terminal aging crisis.
 
- Increase one of a person's physical Characteristics by one point, to no more than +1.
+Increase one of a person's physical Characteristics by one point, to no more than +1.
 
 Level • Increase one of a person's physical Characteristics by one point, to no more than +2.
 
@@ -15850,8 +15564,6 @@ Raise the dead, to a point.(See The Shadow of Life Renewed.)
 Corpus spells deal with human or humanlike bodies and anything that involves those bodies. Many faeries have enough in common with humans to be affected by Corpus spells.
 
 A base Individual for Corpus is an adult human being, up to Size +1.
-
-
 
 ## Creo Corpus Spells
 
@@ -15973,7 +15685,6 @@ Brings the semblance of life to a corpse. During the ritual, healing spells work
 
 (Base 70,  $\pm$ 1 Touch, no addition for requisite)
 
-
 ## Intellego Corpus Guidelines
 
 Common sigils seen in Intellego Corpus spells usually report information in some strange or quirky way.
@@ -15989,8 +15700,6 @@ Level 5: • Sense a specific piece of information about a body.
 • Speak with a dead body.
 
 Level 10: • Sense all useful information about a body.
-
-
 
 ## Intellego Corpus Spells
 
@@ -16054,8 +15763,6 @@ Req: Imaginem
 Lets you see a specific person and what is within one pace of that person. The image is clear enough to allow reading.
 
 (Base 4, +4 Arc, +1 Conc, +1 requisite)
-
-
 
 ## Muto Corpus Spells
 
@@ -16132,7 +15839,6 @@ Req: Animal
 You hang a small cape of raven feathers on your back and transform into a raven. You can resume human form at will, but doing so ends the spell.
 
 (Base 20. +2 Sun)
-
 
 ## Muto Corpus Guidelines
 
@@ -16249,7 +15955,6 @@ People transformed retain their human minds, but inherit all the passions and in
 The mist covers the target area, which must be in sight when you cast the spell. The mists affect the area until sunrise or sunset, and transform anyone who remains in the area during that time. For important characters, roll a simple die when the spell is cast and every half hour afterwards, and on a roll lower than the number of rolls made so far the mists envelope and transform them at some point in the next half hour. The transformations last for a Year.
 
 (Base 10, +2 Voice, +4 Year, +4 Bound, slightly nonstandard effect, mist and wind are cosmetic only)
-
 
 ## Perdo Corpus Spells
 
@@ -16396,7 +16101,6 @@ Level 30: • Kill a person.
 
 Level 40: • Destroy one property of a person, such as their weight or solidity.
 
-
 ## Rego Corpus Guidelines
 
 Rego Corpus botches often take control of the caster's body, and move it in ways he would not want.
@@ -16421,11 +16125,11 @@ Level 4: • Control the large-scale physical movements of a target.
 
 Level 5: • Hold a target's body motionless.
 
- Invoke a major symptom of a disease without creating any underlying malaise (e.g. vomiting, boils, paralysis)
+Invoke a major symptom of a disease without creating any underlying malaise (e.g. vomiting, boils, paralysis)
 
 • Move a target slowly in any direction you please, even if the target is unsupported.
 
- Perform a trivial surgical procedure (inflicting a Fatigue level).
+Perform a trivial surgical procedure (inflicting a Fatigue level).
 
 • Control a disembodied spirit associated with Corpus.
 
@@ -16474,7 +16178,6 @@ R: Sight, D: Mom, T: Bound, Ritual
 Starts a plague in a city or other Boundary. Everyone within the boundary is afflicted with the disease when the ritual is complete, and suffers as described under Curse of the Leprous Flesh, on the previous page. The conditions causing the disease last but a moment, so people entering the area after the spell is cast are safe. Using, or even transcribing, this spell is rigorously discouraged by most of the Order of Hermes. (Note: the disease caused by this spell is not the later Bubonic Plague, which is unknown in Europe in 1220.)
 
 (Base 20, +3 Sight, +4 Bound)
-
 
 ## Rego Corpus Svells
 
@@ -16584,7 +16287,6 @@ vou fail an Intelligence + Finesse stress roll against an Ease Factor of 9, your
 
 Praefactus of Bonisagus's version of this spell always allows him to appear in a safe, unembarrassing place (assuming Praefactus's spells make him seem as dignified as possible -
 
-
 ## Creo Herbam Guidelines
 
 These spells create and heal plants. Any food created is nutritious only if the creation is a Ritual. The guideline levels given below are generally for conjuring the leafy parts of plants.
@@ -16630,8 +16332,6 @@ Turns a corpse into a nearly mindless servant that can follow your simple verbal
 Herbam spells work on plants and plant matter, both living and dead. Since wood is a common material in weapons, vehicles, and buildings, Herbam spells can be useful in improving or destroying physical things. They can also be used to bring the plant world to your aid.
 
 A base Individual for Herbam is a plant roughly one pace in each direction.
-
-
 
 ## Creo Herbam Spells
 
@@ -16693,7 +16393,6 @@ cast within the region affected by the spell, although that region need not be c
 
 (Base 1, +1 Touch, +4 Year, +4 Special (equivalent to Boundary), +1 Size (for a total of +4 Size, including the +3 from the guideline, so that the area affected is up to about 6 miles across)
 
-
 ## Intellego Herbam Spells
 
 #### LEVEL 4
@@ -16748,7 +16447,6 @@ You can speak with a plant for one conversation. The level of conversation depen
 
 (Base 15, +1 Touch, +1 Conc)
 
-
 ## Muto Herbam Spells
 
 #### LEVEL 5
@@ -16775,7 +16473,6 @@ Level 4: • Learn all mundane properties of a plant or an item made from plant 
 
 Level 15: • Speak with a plant.
 
-
 ## Muto Herbam Guidelines
 
 These guidelines assume that when you change a plant, it's still a plant in some way. Changing a plant into something else usually involves a spell one level of magnitude higher than the guideline most appropriate to the action. To change plants into treated or finished material (for example, wooden furniture, a vegetarian meal, linen or cotton cloth) add one magnitude to the level necessary to change plants into natural, unworked plants.
@@ -16790,7 +16487,6 @@ Level 4: • Change a plant or item made from plant products into metal or stone
 
 Level 5: • Cause a plant to bend or twist rapidly in place.
 
-
 ## Perdo Herbam Guidelines
 
 These spells destroy plants and plant material. Since many items are made of wood, these spells can be quite destructive. The guidelines given are for destroying dead wood. Destroying live wood is usually a bit harder — add one magnitude.
@@ -16804,7 +16500,6 @@ Level 3: • Spoil an amount of food.
 Level 4: • Destroy an amount of dead wood.
 
 Level 5: • Destroy a plant.
-
 
 Transformation of the Thorny Staff
 
@@ -16872,7 +16567,6 @@ Turns a previously normal small forest into a haunted and dangerous place. The t
 
 (Base 4, +1 Touch, +4 Year, +2 Group, +5 size)
 
-
 #### LEVEL 5
 
 Curse of the Rotted Wood
@@ -16915,7 +16609,6 @@ Rots and destroys a large amount of dead wood, up to the amount found in a woode
 
 (Base 4, +2 Voice, +2 Group, +1 size)
 
-
 #### LEVEL 30
 
 TREADING THE ASHEN PATH
@@ -16925,7 +16618,6 @@ R: Touch, D: Mom, T: Group
 As you walk through a forest after casting this spell, all the plant material 10 paces in front of you and 5 paces to either side withers and dies. Trees are reduced to bare trunks, while their leaves and all smaller plants turn to ash. You can walk for 7 miles with each casting of this spell. Use of this spell in faerie woods is not recommended. This spell was originally invented by a magus of House Flambeau, and he was awarded a prize for it by his primus.
 
 (Base 3, +1 Touch, +2 Group, +3 size, +1 fancy effect (the spell effectively keeps being cast while the caster walks seven miles))
-
 
 #### GENERAL
 
@@ -16995,11 +16687,11 @@ General: • Ward against beings associated with Herbam from one supernatural re
 
 Level 3: • Control an amount of wood.
 
- Manipulate items made of plant products.
+Manipulate items made of plant products.
 
 Level 4: • Deflect a single attack by a wooden weapon.
 
- Control an entire plant, moving it around as you direct, although it remains rooted if it is a rooted plant.
+Control an entire plant, moving it around as you direct, although it remains rooted if it is a rooted plant.
 
 • Treat items made of plant products.
 
@@ -17011,7 +16703,7 @@ Level 5: • Control an entire plant, moving it around as you direct, and it nee
 
 • Treat and process items made of plant products.
 
- Ward a plant against mundane plant diseases.
+Ward a plant against mundane plant diseases.
 
 Level 10: • Make a plant or thing made of plant products move with purpose and intelligence, without requiring your constant control.
 
@@ -17023,7 +16715,7 @@ Level 15: • Ward someone against mundane plant products.
 
 • Weave thread into a tunic.
 
- Summon a disembodied spirit associated with Herbam.
+Summon a disembodied spirit associated with Herbam.
 
 #### LEVEL 25
 
@@ -17094,7 +16786,6 @@ As fire is volatile and dangerous, so are these spells. Magi who pursue the Art 
 Light and heat also fall within the domain of this Form. It's important to remember that heat also includes relative absence of heat, so spells that result in cold temperatures are possible through Ignem.
 
 The base Individual for Ignem is a large campfire or the fire in the hearth of a great hall. Fire damage is explained on page 407.
-
 
 ## Creo Ignem Spells
 
@@ -17299,8 +16990,6 @@ Level 5: • Change a fire into a natural example of another element, with an ap
 
 Level 10: • Change a fire into an unnatural example of another element, with an appropriate requisite.
 
-
-
 ## Intellego Ignem Spells
 
 #### LEVEL 5
@@ -17350,7 +17039,6 @@ R: Voice, D: Conc, T: Ind
 Allows you to converse with a fire, commonly very chaotic and distractible. Promising a fire more fuel might keep its interest. Fires are mostly aware of what they've burned, but they have a limited awareness of what goes on around them as well.
 
 (Base 20, +2 Voice, +1 Conc)
-
 
 ## Muto Ignem Spells
 
@@ -17415,7 +17103,6 @@ Req: Aquam
 Turns a fire up to the size of a small house into ice. The ice forms beautiful sculptures of leaping flame, until it begins to melt. When the ice has melted halfway, the flames start again, but probably won't spread, because of wet surroundings.
 
 (Base 5, +2 Voice, +2 Sun, +2 size)
-
 
 ## Perdo Ignem Spells
 
@@ -17517,9 +17204,6 @@ Level 10: • Destroy one aspect of a fire (for example, heat or light).
 
 • Chill a person so strongly that they take +10 damage.
 
-
-
-
 The intensity of a fire also affects the difficulty of controlling it. For every five points by which the fire's damage exceeds +5, add one magnitude to the level of the spell.
 
 Rego Ignem spells can control heat or light as well as fire.
@@ -17606,7 +17290,6 @@ It is more difficult to mimic a specific object or person using an Imaginem spel
 
 A base Individual for Imaginem is the equivalent of an adult human being, whether a visual image of about that size, an auditory illusion making that much noise, or whatever.
 
-
 #### LEVEL 10
 
 PHANTASM OF THE TALKING HEAD
@@ -17679,8 +17362,6 @@ Level 4: • Create an image that affects four senses.
 
 Level 5: • Create an image that affects five senses.
 
-
-
 ## Intellego Imaginem Guidelines
 
 Generally, these spells have the least to do with illusions of all the Imaginem spells, because one detects an image without altering or controlling it. These spells improve upon your senses by bringing in images (usually sounds and sights) not normally available.
@@ -17714,8 +17395,6 @@ THE SHADOW OF HUMAN LIFE R: Touch, D: Sun, T: Ind Req: Mentem
 The human image created (as in Phantasm of the Human Form) has limited freedom and simulated intellect. It functions as an independent human, albeit a stupid one, capable of interpreting general orders in new situations.
 
 (Base 2, +1 Touch, +2 Sun, +1 intricacy, +6 Mentem requisite, for a very elaborate effect)
-
-
 
 ## Intellego Imaginem Spells
 
@@ -17777,7 +17456,6 @@ You can see and hear what is happening in a distant place if you have some sort 
 
 (Base 2, +4 Arc, +1 Conc, +2 Room)
 
-
 ## Muto Imaginem Spells
 
 #### LEVEL 5
@@ -17828,7 +17506,6 @@ Any one thing, including a living thing, can be made to appear as if it were som
 
 (Base 5, +1 Touch, +2 Sun)
 
-
 ## Muto Imaginem Guidelines
 
 These are useful and powerful illusion spells, altering the visual image, noises, smell, or taste of some object or being. The image remains altered without your concentration and adapts itself appropriately to the medium. The accuracy of duplication depends on your knowledge of the subject. For instance, if you want to make a voice like that of a specific person, you must be familiar with the voice that you want to mimic. Those more familiar with the face, voice, body, or other aspect being mimicked might see through an illusion by mundane means ("Duke Tybol, isn't your scar on your left cheek?").
@@ -17839,13 +17516,13 @@ Muto Imaginem botches often change the caster's appearance in dangerous or embar
 
 Level 1:
 
- Change one sensation of an object (for example, make a leaf look like a coin), but not its type (i.e. not from sight to sound).
+Change one sensation of an object (for example, make a leaf look like a coin), but not its type (i.e. not from sight to sound).
 
 Level 2:
 
 Change two sensations of an object.
 
- Transform species that affect one sense into those that affect another. (For example, transform audible species into visual species, so that sounds can be seen.)
+Transform species that affect one sense into those that affect another. (For example, transform audible species into visual species, so that sounds can be seen.)
 
 Level 3:
 
@@ -17857,8 +17534,7 @@ Level 4:
 
 Level 5:
 
- Change the appearance of an object completely, in all things except solidity.
-
+Change the appearance of an object completely, in all things except solidity.
 
 ## Perdo Imaginem Guidelines
 
@@ -17874,16 +17550,15 @@ Level 2: • Destroy an object's ability to affect taste or touch.
 
 Level 3: • Destroy an object's ability to affect smell or hearing.
 
- Destroy an object's ability to affect taste and touch.
+Destroy an object's ability to affect taste and touch.
 
 Level 4: • Destroy an object's ability to affect sight.
 
- Destroy an object's ability to affect any three of taste, touch, smell, or hearing.
+Destroy an object's ability to affect any three of taste, touch, smell, or hearing.
 
 Level 5: • Destroy an object's ability to affect any four senses.
 
 Level 10: • Destroy an object's ability to affect all five senses.
-
 
 ## Perdo Imaginem Spells
 
@@ -17965,8 +17640,6 @@ Causes a Group of creatures to become invisible. Any affected character who move
 
 (Base 4, +1 Touch, +2 Sun, +2 Group)
 
-
-
 ## Rego Imaginem Spells
 
 #### GENERAL
@@ -18035,7 +17708,7 @@ As your image is away from your body, you are invisible and silent at your actua
 
 ILLUSION OF THE MISPLACED CASTLE
 
- $R{:}\ Voice,\ D{:}\ Sun,\ T{:}\ Bound,\ Ritual$ 
+$R{:}\ Voice,\ D{:}\ Sun,\ T{:}\ Bound,\ Ritual$
 
 Moves the image of any bounded structure or set of structures the size of a castle or less up to one mile from its actual position.
 
@@ -18052,13 +17725,17 @@ Rego Imaginem botches might control the wrong image, or do something completely 
   (Touch, Ring, Circle)
 - Level 2: Make an object appear (to one sense) to be up to one pace away from its actual position.
 - Level 3: Make an object appear (to one sense) to be up to five paces away from its actual position.
+
   - Make objects appear to move rapidly in a disorientating way.
 - Level 4: Make an object appear (to one sense) to be up to fifteen paces from its actual position.
+
   - Make an object appear (to one sense) to be contained in or attached to another object defined at the time of casting (for example, make someone's voice appear to come from within a bag).
 - Level 5: Make an object appear (to one sense) to be up to one hundred paces from its actual position.
+
   - Control a disembodied spirit associated with Imaginem.
 - Level 10: Make an object appear (to one sense) to be in Sight of its actual position.
 - Level 15: Make an object appear (to one sense) to be in a location that the caster has an Arcane Connection to.
+
   - Summon a disembodied spirit associated with Imaginem.
 
 # Mentem Spells
@@ -18090,9 +17767,6 @@ Creo Mentem botches might create inappropriate emotions in the caster's mind.
 - Level 45: Increase one of a person's mental Characteristics by one point, to no more than +3.
 - Level 50: Increase one of a person's mental Characteristics by one point, to no more than +4.
 - Level 55: Increase one of a person's mental Characteristics by one point, to no more than +5.
-
-
-
 
 ## Creo Mentem Spells
 
@@ -18159,7 +17833,6 @@ Causes the victim to feel the despair, anguish, pain, and sorrow of a thousand s
 R: Touch, D: Mom, T: Ind, Ritual Permanently increases the target's Intelligence by 1 point, to no higher than 0.
 
 (Base 30, +1 Touch)
-
 
 ## Intellego Mentem Spells
 
@@ -18241,7 +17914,7 @@ Level 4: • Sense the state of consciousness of one intelligent being (for exam
 
 Level 5: • Sense a single emotion in a being.
 
- Understand the meaning behind spoken sounds.
+Understand the meaning behind spoken sounds.
 
 Level 10: • Sense all of the emotions in a being.
 
@@ -18256,7 +17929,6 @@ Level 15: • Speak with any one human.
 Level 20: • Read the last day's memories from one person.
 
 Level 25: • Learn all the information you wish from a person's mind.
-
 
 ## Muto Mentem Guidelines
 
@@ -18281,7 +17953,6 @@ While Intellego spells can grant magical senses to a single person, granting a m
 - Level 15: Make a mind or spirit visible. (Imaginem requisite)
   - Utterly change a person's mind.
 - Level 25: Make a mind or spirit solid. (Requisite of the Form of the shape.)
-
 
 ## Muto Mentem Spells
 
@@ -18342,10 +18013,9 @@ All spirits within the target area become visible, although they might remain un
 
 (Base 15, +1 Touch, +2 Sun, +2 Room)
 
-
 ## Perdo Mentem Spells
 
-**GENERAL** 
+**GENERAL**
 
 LAY TO REST THE HAUNTING SPIRIT
 
@@ -18461,7 +18131,7 @@ Level 5: • Quell an emotion in a person.
 
 Level 10: • Remove a minor or short memory from a person's mind.
 
- Reduce all of a person's mental capabilities.
+Reduce all of a person's mental capabilities.
 
 Level 15: • Remove a major or long memory from a person's mind.
 
@@ -18471,7 +18141,6 @@ Drive a person insane.
 
 Level 25: • Leave a person a mindless husk.
 
-
 ## Rego Mentem Guidelines
 
 The Rego Animal spells that deal with the mind may also be used as good guidelines for levels of Rego Mentem spells. Many changes to the mind are Rego effects, because the mind could naturally assume that state.
@@ -18479,22 +18148,22 @@ The Rego Animal spells that deal with the mind may also be used as good guidelin
 Rego Mentem botches can change the target's mental state in the wrong way, or change the state of mind of the caster.
 
 - General: Ward against beings associated with Mentem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
+
   - Ward against spirits belonging to one realm (Divine, Faerie, Infernal, or Magic) with a Might less than or equal to the level of the spell. (Touch, Ring, Circle)
 - Level 3: Make a subtle difference to the target's mental state.
 - Control a target's mental state (for Level 4 example, awake, asleep, or confused)
 - Level 5: • Control a natural emotion (for example, calm, fear). The target must feel the emotion before you can control it.
+
   - Control a disembodied spirit associated with Mentem, such as most ghosts.
   - Incline a person to a particular sort of response.
-
 - Level 10: Control an unnatural emotion (for example, cultivate a person's feelings of bravery where he is usually cowardly).
+
   - Imbue all of a person's responses with a particular emotion.
-
 - Level 15: Control a person as long as you can see them.
-  - Summon a disembodied spirit associated with Mentem, such as a ghost.
 
+  - Summon a disembodied spirit associated with Mentem, such as a ghost.
 - Level 20: Give a person one complex command, which he tries to carry out to the best of his ability.
 - Level 25: Completely control a person's mind and emotions.
-
 
 ## Rego Mentem Spells
 
@@ -18570,18 +18239,17 @@ R: Voice, D: Sun, T: Ind
 
 Causes everything the target sees to look and sound terrifying. The world looks basically the same, save that everything is hideously transformed somehow. The target must roll a stress die, adding his Stamina and adding or subtracting an appropriate Personality Trait to see what the effects are. The nature of the Personality Trait used determines how it affects the Stamina roll. A Trait like Brave makes you resistant to fear, while one like Cowardly reduces the result of your roll.
 
-| Roll      | Result                                                                         |
-|-----------|--------------------------------------------------------------------------------|
-| 0 or less | Scared to death (literally)                                                    |
-| 1–5       | Incapacitated with fear,<br>permanent –1 to Stamina<br>Incapacitated with fear |
-| 6–9       | incapacitated with fear                                                        |
-| 10–15     | Flee, fight at –6 if cornered or obstructed                                    |
-| 16+       | Carry on, -3 on all rolls                                                      |
-| (D        | 2 2 V . 2 C .                                                                  |
+
+| Roll      | Result                                                                          |
+| ----------- | --------------------------------------------------------------------------------- |
+| 0 or less | Scared to death (literally)                                                     |
+| 1–5      | Incapacitated with fear,<br>permanent –1 to Stamina<br>Incapacitated with fear |
+| 6–9      | incapacitated with fear                                                         |
+| 10–15    | Flee, fight at –6 if cornered or obstructed                                    |
+| 16+       | Carry on, -3 on all rolls                                                       |
+| (D        | 2 2 V . 2 C .                                                                   |
 
 (Base 10, +2 Voice, +2 Sun)
-
-
 
 #### LEVEL 40
 
@@ -18615,8 +18283,6 @@ This spell switches the minds (but not the souls) of two creatures. A new body g
 
 (Base 20, +1 Touch, +4 Year, +2 Group)
 
-
-
 ## Creo Terram Guidelines
 
 Creating earth in an elaborate shape or, with a Muto requisite, with some unnatural property is one level of magnitude higher than the listed guidelines.
@@ -18637,8 +18303,7 @@ Level 15: • Create precious metal.
 
 Level 25: • Create gemstone.
 
- Create an earth elemental from a base amount of elemental matter. (Ritual)
-
+Create an earth elemental from a base amount of elemental matter. (Ritual)
 
 ## Intellego Terram Guidelines
 
@@ -18650,7 +18315,7 @@ Level 2: • Learn one visible property of an object (a property that someone wi
 
 Level 4: • Learn one mundane property of an object.
 
- See an object and its surroundings.
+See an object and its surroundings.
 
 Level 5: • Learn all components of a mixture or alloy.
 
@@ -18660,7 +18325,7 @@ Level 15: • Sense all the mundane properties of a composite object.
 
 Level 20: • Learn the magical properties of an object.
 
- Make your senses unhindered by earth (for example, see right through a rock).
+Make your senses unhindered by earth (for example, see right through a rock).
 
 • Speak with a natural rock (for example, a boulder)
 
@@ -18679,7 +18344,6 @@ Terram spells, in addition to covering earth, stone, clay, metal, and glass, can
 Though Terram spells affect all manner of solid objects, it is harder to affect certain materials: Here, in increasing order of difficulty, are the materials Terram spells affect: earth (sand, dirt, mud), clay, stone, glass, metal, gemstones. Each level of difficulty does not necessarily represent an increase in one level of magnitude.
 
 The base Individual for Terram depends on the material involved. For sand, dirt, mud, clay, or similar substances, it is about ten cubic paces of stuff. For stone, it is a single cubic pace. For base metals, it is a cubic foot, while for precious metals it is a tenth of that. For gemstones, the base individual is one cubic inch in size.
-
 
 #### LEVEL 15
 
@@ -18717,7 +18381,6 @@ An elaborately carved tower, formed from a single block of stone, rises out of t
 
 (Base 3, +1 Touch, +4 size, +3 elaborate design)
 
-
 ## Intellego Terram Spells
 
 #### LEVEL 4
@@ -18732,7 +18395,7 @@ R: Per, D: Mom, T: Smell You can smell silver, and follow the scent.
 
 Eyes of the Eons
 
- $R{:}\ Voice,\ D{:}\ Mom,\ T{:}\ Ind$ 
+$R{:}\ Voice,\ D{:}\ Mom,\ T{:}\ Ind$
 
 Determines the age of any nonliving target to within 10% of its actual age.
 
@@ -18778,7 +18441,7 @@ Allows you to talk with natural stone. A stone's answers feel slow and ponderous
 
 #### LEVEL 30
 
-Sense the Feet that  $T_{\text{READ}}$  the  $E_{\text{ARTH}}$ 
+Sense the Feet that  $T_{\text{READ}}$  the  $E_{\text{ARTH}}$
 
 R: Touch, D: Conc, T: Part
 
@@ -18797,7 +18460,6 @@ Req: Creo
 Allows you to probe the memories of a spirit within a natural stone object. The spell also perfects those memories. Probing the memories of such a spirit is extremely slow. A typical session lasts between six and twelve hours, during which the caster is oblivious to the outside world. The spell allows the caster to perceive the memories of the spirit. The spirit's senses are limited and slow, but its memory of them is very long. Using this spell the caster can relive events witnessed by the spirit, as it recalls them. Larger stone objects have more powerful spirits and so have better perceptions. Precisely what level of detail an individual spirit can perceive is up to the storyguide.
 
 (Base 30, +1 Touch, +2 Sun, +1 Creo effect)
-
 
 ## Muto Terram Spells
 
@@ -18838,7 +18500,7 @@ Level 4: • Change dirt so that it is highly unnatural (requisites will often b
 
 • Change dirt into a plant (with requisites).
 
- Make something grow to ten times its previous volume.
+Make something grow to ten times its previous volume.
 
 Level 5: • Change dirt into a slightly unnatural liquid or gas (with requisites).
 
@@ -18859,7 +18521,6 @@ Level 2: • Weaken dirt.
 Level 3: • Destroy dirt.
 
 Level 5: • Destroy one aspect of dirt, such as its weight or its cohesiveness.
-
 
 #### SUPPLE IRON AND RIGID ROPE
 
@@ -18916,7 +18577,6 @@ You cause twenty pointed pillars of white marble to spring up from the ground to
 the victim to fall. Skewering a target does +25 damage, possibly more on following rounds if the victim struggles or is exceptionally heavy. When the spell ends, the pillars crumble to dust.
 
 (Base 3, +2 Voice, +2 Sun, +2 Group, +2 fancy effect)
-
 
 ## Perdo Terram Spells
 
@@ -18988,7 +18648,6 @@ Makes a cliff collapse, causing an avalanche. The effects depend on the size of 
 
 (Base 3, +1 stone, +3 Sight, +1 Part, +4 size)
 
-
 #### GENERAL.
 
 WARD AGAINST FAERIES OF THE MOUNTAIN
@@ -19042,9 +18701,6 @@ Control a disembodied spirit associated with Terram.
 Level 15: • Summon a disembodied spirit associated with Terram.
 
 > • Hurl a hard projectile with enough force to do +15 damage (range increment of 20 paces) This applies magical force to the projectile at the moment of casting, and the projectile then moves naturally.
-
-
-
 
 #### LEVEL 10
 
@@ -19112,7 +18768,7 @@ Causes a 1-pace circle of ground to become jagged stone, just under the surface,
 
 #### HANDS OF THE GRASPING EARTH
 
- $R{:}\ Voice,\ D{:}\ D{iam},\ T{:}\ Part$ 
+$R{:}\ Voice,\ D{:}\ D{iam},\ T{:}\ Part$
 
 Reg: Muto
 
@@ -19182,7 +18838,6 @@ As usual, these guidelines refer to a spell with the basic Range, Duration and T
 
 The Individual target for a Vim spell can refer to either an individual spell, or an individual object or person, and similarly for Group. If the target is an object or person, the Vim spell will affect any suitable magic
 
-
 ## Creo Vim Guidelines
 
 There are few Creo Vim spells known throughout the Order.
@@ -19206,11 +18861,11 @@ Creo Vim botches often give the caster additional Warping Points, as the raw mag
 
 - Create a burst of magic that gives the target one Warping Point. Spells that grant Warping cannot have a duration of greater than Momentary. Note that doing this to a magus is an attack, and clearly against the Code.
 - Decrease the rate of decay of an Arcane Connection as if the connection were one step higher on the table on page 220. If this increases the Duration to Years or greater, the duration of the connection continues to be measured in a period of years. Hermetic magic can not make an Arcane Connection last indefinitely without fixing the connection as described in the Laboratory chapter (page 250). Note that the range is the range to the Arcane Connection, and you must know what you are targeting just like any other spell.
-
 - Level 10: Give the target two Warping Points.
-  - Decrease the rate of decay of an Arcane Connection as if the connection were two steps higher on the table on page 220, subject to the same limits as above.
 
+  - Decrease the rate of decay of an Arcane Connection as if the connection were two steps higher on the table on page 220, subject to the same limits as above.
 - Level 15: Give the target three Warping Points.
+
   - Decrease the rate of decay of an Arcane Connection as if the connection were three steps higher on the table on page 220, subject to the same limits as above.
 
 person, not just one spell. Most such spells can only be cast on either other spells or individuals, but, if the description suggests that they could be cast on either, then they can. For example, Mirror of Opposition can only be cast on other spells, while The Phantom Gift can only be cast on people.
@@ -19220,8 +18875,6 @@ Spells and magical effects do not have sizes, so size modifications do not apply
 The guidelines below refer mainly to spells. This is for the sake of brevity, as Vim spells can affect magical effects proceeding from magical items, magical creatures, or demons. However, unless specifically stated otherwise, the spells do not affect magical items, only the effects that they produce. Thus, Wind of Mundane Silence could dispel a stone wall produced by a magical item, but Disenchant is needed to dispel the magic of the item itself.
 
 It should be noted that Hermetic magi, and most non-Hermetic wizards, do not have Might scores, and thus are not affected by wards or other spells that act against Might scores.
-
-
 
 ## Creo Vim Spells
 
@@ -19272,7 +18925,6 @@ R: Voice, D: Mom, T: Ind
 The target of the spell gains four Warping Points (plus the normal one for being affected by a powerful supernatural effect, in most cases) and, if a Hermetic magus, must check to see whether he enters Twilight in the normal way. Although the burst of magic that causes the Warping lasts but a moment, the resulting Warping is permanent.
 
 (Base 20, +2 Voice)
-
 
 ## Intellego Vim Spells
 
@@ -19341,7 +18993,6 @@ Intellego Vim botches generally give false information.
   - Discern the Art of vis.
 - Level 5: Detect any active magic.
 
-
 Muto Vim spells affect other spells, and can also affect spell-like effects instilled in enchanted devices, as long as certain conditions are met.
 
 A Muto Vim effect can be put into a magical item, as long as it affects another power instilled in the item. If spell-like powers in a magical item can be manipulated by Muto Vim effects, then spell-like powers can also be manipulated by Muto Vim spells. The reverse is not true; a general purpose Muto Vim spell-like effect cannot be instilled in a magical item with the intent to affect spells that the wielder desires to target. Muto Vim spell-like effects can only affect other spell-like effects in the same magical item.
@@ -19391,7 +19042,6 @@ R: Per, D: Conc, T: Vision
 You can see spells as "auras" around things and people. The color of the aura indicates the Form of the spell working on a subject, the color matching the appropriate one described in Sense the Nature of Vis (page 367). The Technique of a spell working on the subject is recognized by the aura's shape, not color. Creo and Rego are both very orderly auras. Muto is constantly shifting, and Intellego usually is as well, but more slowly. A Perdo aura is usually in fragments. Thus, a magus with both Endurance of the Berserkers and The Invisible Eye Revealed upon him has a very controlled, orderly aura of deep red around his or her entire body, and the magus's eyes are surrounded with slowly shifting auras of a silvery hue. You should be warned: Imaginem or Vim spells may be used to disguise auras. Also note that this spell will detect the residues of some spells.
 
 (Base 5, +1 Conc, +4 Vision, +2 Techniques and Forms)
-
 
 ## Muto Vim Spells
 
@@ -19467,7 +19117,6 @@ target spell above the level of the Muto Vim spell.
 - Significantly change a spell of less than or equal to the level + 1 magnitude of the Vim spell. This may not change either the Technique or Form of the target spell. A change in power of plus or minus one magnitude is a significant change, as is a change of target, if the target was possible for the original spell.
 - Totally change a spell of less than or equal to half the (level + 1 magnitude) of the Vim spell. This may change the Technique, Form, or both of the target spell, and needs no requisites for those Arts. The Vim spell affects the structure of the spell, not the things that the spell targets. A change in power of up to two magnitudes is a total change. Any greater change requires either Creo or Perdo to create more magical energy or destroy some.
 
-
 ## Perdo Vim Guidelines
 
 Most Perdo Vim spells are specific to one of the four Supernatural Realms. If you want to cast a Perdo Vim spell on a character who has Magic Resistance, you must overcome the Magic Resistance.
@@ -19502,7 +19151,7 @@ Level 15:
 
 Level 20:
 
- Reduce the duration of an Arcane Connection by four steps on the table on page 220, subject to the same limits as above.
+Reduce the duration of an Arcane Connection by four steps on the table on page 220, subject to the same limits as above.
 
 Level 25:
 
@@ -19539,7 +19188,6 @@ WIZARD'S VIGIL
 R: Voice, D: Sun, T: Group
 
 This spell functions as *Wizard's Communion*, except that the longer duration allows it to be used with Ritual spells. For the purposes of its effect, treat it as a *Wizard's Communion* of two magnitudes lower.
-
 
 #### GENERAL
 
@@ -19586,7 +19234,6 @@ R: Voice, D: Mom, T: Room
 You raise a metaphorical "breeze" that blows the magic away from an area, canceling the effects of any spell there. You can cancel the effects of any spell if, with this spell, you can double the level of the spell on a stress die + the level of vour spell. The spell must Penetrate to affect effects on a creature with Magic Resistance, including Parma Magica. If the spell penetrates, and its level + the stress die is double Parma Magica x 5, then this spell dispels the Parma Magica. Wind of Mundane Silence does not affect spells of Momentary duration. Magical things near the area of the Wind wave slightly from the "breeze."
 
 (Base effect, +2 Voice, +2 Room)
-
 
 #### GENERAL
 
@@ -19710,14 +19357,9 @@ to relocate that vis if you wish.
 
 (Base 10, +1 Touch)
 
-
-
-
-
 # X. Long Term Events
 
 ## Experience and Advancement
-
 
 As time progresses, characters get better. In Ars Magica, experience points are awarded every season (three months), based on the character's activities during that season.
 
@@ -19736,8 +19378,9 @@ Whenever a character spends a season in study, she gains a number of experience 
 
 ## Advancement Tables
 
+
 | SCORE | ART TO BUY | To raise to | ABILITY | To raise to |
-|-------|------------|-------------|---------|-------------|
+| ------- | ------------ | ------------- | --------- | ------------- |
 | 1     | 1          | 1           | 5       | 5           |
 | 2     | 3          | 2           | 15      | 10          |
 | 3     | 6          | 3           | 30      | 15          |
@@ -19799,8 +19442,9 @@ Exposure Source Quality: Two
 
 These experience points may be split between any two Abilities or Arts which were being used consistently during the season. If you split the experience points, calculate an Advancement Total for each Ability or Art separately based on a Source Quality of one. Exposure includes both doing something yourself (the normal way), or helping someone else to do it, without any feedback. In particular, Hermetic laboratory activities grant Exposure experience both to the lead magus and to any assistants.
 
+
 | ACTIVITY        | Possible Exposure                                     |
-|-----------------|-------------------------------------------------------|
+| ----------------- | ------------------------------------------------------- |
 | Laboratory Work | Magic Theory, Supernatural Abilities used, Arts used. |
 | Craft Work      | Craft Ability, Area Lore for the area where you live. |
 
@@ -19869,6 +19513,7 @@ Characters can be taught by other characters.
 
 Teaching Source Quality:
 Teacher's Communication + Teaching
+
 + 3 + bonus
 
 Teaching Gain Limit:
@@ -19910,23 +19555,21 @@ If the stress die double botches, the maga may enter Wizard's Twilight (see page
 
 Studying from raw vis does not require a Hermetic laboratory, it can, in principle, be done anywhere. Most magi do study raw vis in their laboratory, though.
 
-
-
 #### Distractions
 
 Sometimes characters are distracted from study by outside events, like a dragon attacking the covenant. In most cases, a distraction has no game impact, unless the distraction is an adventure and the character chooses to take Adventure experience.
 
 Long distractions, of more than a month, reduce Advancement or writing totals. For every full month lost, reduce the total by one third of its original amount. Round any fractions up.
 
+
 | Months Lost | Total | Example |
-|-------------|-------|---------|
+| ------------- | ------- | --------- |
 | None        | Full  | 15      |
 | One         | 2/3   | 10      |
 | Two         | 1/3   | 5       |
 | Three       | None  | 0       |
 
 ## Books
-
 
 ooks are of great importance to the Order of Hermes, as they are almost always the best and fastest way for a magus to increase his power and improve
 
@@ -19994,8 +19637,6 @@ Three times as fast as careful copying, copy Source Quality is 1 lower than copi
 ## Corrupted Copies
 
 Books copied by people lacking particular skills become corrupted. In the simplest case, the scribe omits small marks that are a vital part of the meaning because he thinks they are merely ink blots. In more
-
-
 
 # Definition of Categories of Value
 
@@ -20069,14 +19710,11 @@ House Bonisagus does allow magi to copy books of exceptional Quality, as part of
 
 House Tremere is eager to sell, or buy, copies of excellent books. A difficulty is that Coeris is an extraordinarily rich covenant, so simple offers of vis do not interest the Prima. In the past, she has accepted transfer of ownership over valuable vis sources in exchange for books. House Tremere takes the Cow and Calf Oath very seriously and sometimes champions it at the request of others
 
-
 example, a pawn of vis per subscriber. Other magi, performing more difficult and expensive research, sometimes encourage the formation of purchasing consortia by offering proportional payments. For example, a magus might agree to release his new Ritual in exchange for twenty-five pawns of vis. Covenants spread across Europe may form a buying cartel, splitting the costs in various ways. These consortia are maintained by side agreements. For example a vis rich covenant may pay a large proportion of the price, in exchange for a series of political concessions, acts of assistance with vexing problems, and payments in kind. This allows poor, Spring covenants to join purchasing consortia.
 
 Books are often sold at Tribunal. Many of these sales are pre-arranged, by the methods that are described earlier, and completed at the Tribunal meeting, when each party has the opportunity to inspect the goods of their correspondent. Other covenants bring surplus copies to sell to whoever desires to buy. Many covenants, not wanting the possible expense of unsold stock, create exemplars and take orders during Tribunal for later delivery. These books are prepared to a series of informal standards, with the finer books, intended to be used for study, commanding higher prices than those intended as originals, from which working copies are to be made.
 
-
 # Learning Supernatural Abilities
-
 
 Only characters with The Gift (see page 63) can learn Supernatural Abilities associated with the Magic realm using these rules, but the teacher need not have The Gift (although, obviously, he must have the Supernatural Ability). Other realms have different conditions, described in the appropriate Realms of Power sourcebook.
 
@@ -20096,7 +19734,6 @@ For example, a character bas Shapeshifter 3, Dowsing 4, and The Gift. He wants t
 Mystery Cults can often avoid the penalty due to prior mystical abilities through their Initiation rituals.
 
 ## Training Creatures
-
 
 ith the approval of the storyguide, any magical beast with an animal intellect — that is, those that have a Cunning (Cun) characteristic
 
@@ -20135,8 +19772,6 @@ The following bonuses apply to the Rego (Form) Taming Lab Total for a Hermetic m
 - Experimentation Bonus (i.e. a magus can use the Experimentation rules when taming an animal).
 - +1 for every 5 levels of the highest level similar Lab Text the magus can consult as a guide. A similar Lab Text is an animal taming Lab Text that uses the same Hermetic Form.
 
-
-
 ## A Magical Trainer
 
 A character with the Minor Supernatural Virtue Master of (Form) Creatures may tame creatures of that Form that have Cunning statistics. For each consecutive season spent, the character accumulates a number of points equal to:
@@ -20154,6 +19789,7 @@ A mundane trainer can also attempt to tame a beast. He generates a number of poi
 TAMING POINTS ACCUMULATED EACH SEASON
 BY A MUNDANE TRAINER:
 Int + Animal Handling
+
 + Animal Ken – Creature's Might
 
 Generally, a mundane trainer will only be able to successfully tame beasts with a small Magic Might.
@@ -20168,6 +19804,7 @@ Once a creature is tamed he acquires the Personality Trait (Loyal +0), directed 
 
 LOYALTY TEST:
 Loyal Personality Trait
+
 + stress die vs Ease Factor
 
 If he wishes, any character with the Animal Handling Ability may spend additional seasons with an already-tamed creature to improve or transfer the loyalty of that creature. Each additional season of training increases the Loyal trait by +1, to a maximum of +3. A character can only improve the loyalty of an animal that is loyal to himself, but instead of increasing the Loyal trait, with this season of extra training the trainer can choose to transfer the animal's loyalty to another character (who must also be present for the season). The trainer may even transfer the loyalty of the animal to himself if he was not the character who originally tamed the animal. A magus who has the Lab Text for a tamed animal (see earlier) may also transfer or improve the Loyal trait of the animal by spending a season, as long as his Re(Fo) Lab Total is at least equal to level of the Lab Text.
@@ -20192,12 +19829,13 @@ COMMAND BEAST:
 Presence + Animal Handling (or Ride or Magic
 Lore) + stress die vs Ease Factor
 
-| Ease Factor          | Task                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Automatic<br>Success | The task uses an Ability that the creature has, and the creature has done this many times before.                                                                                                                                                                                                                                                                                                                           |
-| 6                    | The animal does not often do this task, and/or the situation is stressful for the animal.                                                                                                                                                                                                                                                                                                                                   |
-| 9                    | The task is a complex series of sub-tasks, that requires the animal to concentrate for a long period of time — at least several rounds; or it is a new task that the creature has never performed before.                                                                                                                                                                                                                   |
-| 12                   | The creature fears some portion of the task. Note that it is the animal's perception of fear that is important here. Most animals would fear a battle, or fire, for example. If the creature does not have a Confidence Score, a Loyalty test against an Ease Factor of 6 must also be made to follow through on this task.                                                                                                 |
+
+| Ease Factor          | Task                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Automatic<br>Success | The task uses an Ability that the creature has, and the creature has done this many times before.                                                                                                                                                                                                                                                                                                                             |
+| 6                    | The animal does not often do this task, and/or the situation is stressful for the animal.                                                                                                                                                                                                                                                                                                                                     |
+| 9                    | The task is a complex series of sub-tasks, that requires the animal to concentrate for a long period of time — at least several rounds; or it is a new task that the creature has never performed before.                                                                                                                                                                                                                    |
+| 12                   | The creature fears some portion of the task. Note that it is the animal's perception of fear that is important here. Most animals would fear a battle, or fire, for example. If the creature does not have a Confidence Score, a Loyalty test against an Ease Factor of 6 must also be made to follow through on this task.                                                                                                   |
 | 15                   | The task is clearly suicidal, or at least extremely dangerous; a Loyalty test against an Ease Factor of 9 must also be made for the creature. Again, it is the animal's perception of whether a task is suicidal that is important. Some tasks that are suicidal — for example, eating poisoned food — will only concern the animal if he can actually identify the risk; that is, he perceives that the food is poisonous. |
 
 ## Animal Ken
@@ -20206,13 +19844,11 @@ A character with Animal Ken (page 159) can speak to animals, including some magi
 
 # Changing Reputations
 
-
 character gains a Reputation, with a score of 1, by doing something noteworthy in front of witnesses who will talk. A grog might fight a dragon and
 
 survive, or kill a demon with two blows of his dagger. A priest might preach a heretical sermon to a monastery. A magus might give the covenant's vis sources away at Tribunal. All of these generate a Reputation. Once a character has a Reputation, anything he does that draws attention to himself strengthens that Reputation, as long as it is not in direct contradiction. Treat the Reputation as an Ability, and give the character one 'experience point' in it for every noteworthy action he performs. Thus, performing ten noteworthy actions raises a Reputation from one to two.
 
 A character may wish to get rid of a bad Reputation. This is not easy. First, he must do something spectacular enough to start a Reputation, and gain a score of 1 in the new Reputation. Then he may count noteworthy actions that specifically support the new Reputation towards increasing it, rather than the bad Reputation. General noteworthy actions still
-
 
 increase the original Reputation. Once the new Reputation exceeds the old, general actions grant experience to the new Reputation instead. At this point, the character may choose to reduce the old Reputation by one point instead of raising the new Reputation when he gains enough experience points to raise it.
 
@@ -20220,12 +19856,11 @@ If a character has two Reputations, the storyguide should roll both to see wheth
 
 ## Mystery Initiation
 
-
 he process of Initiation into a Mystery is given a full treatment in *The Mysteries Revised Edition*, but a summary of the mechanics is provided here.
 
 All of the Exoteric (that is, House) Mysteries are governed by a separate (House) Lore, thus there is a House Bjornaer Lore, a House Criamon Lore, a House Merinita Lore and a House Verditius Lore. Initiates who have not been apprenticed to a member of the House need at least (House) Lore 1; the Mystagogue for any Initiate must also know the same Lore, but generally needs a high level if the Initiation is to succeed. To grant the Initiate a new mystery Virtue, the Mystagogue generates an Initiation Total, which determines the success or failure of the Initiation.
 
- $\label{eq:loss_total} I_{\text{NITIATION}} \ T_{\text{OTAL}} .$  Presence + (House) Lore + Script bonus
+$\label{eq:loss_total} I_{\text{NITIATION}} \ T_{\text{OTAL}} .$  Presence + (House) Lore + Script bonus
 
 Note that the Initiation Total is based on the scores of the Mystagogue. There is no die roll; if the total is higher than the required target level the Initiation succeeds. Initiation Scripts and their bonuses are described below, and examples are given in the Hermetic Magic chapter. The target for this total is the Initiation Target Level, which depends on the kind of Virtue to be initiated, Major or Minor:
 
@@ -20263,11 +19898,12 @@ This is a written text (similar to a Lab Text) which describes a successful Init
 
 The Mysteries Revised Edition has many examples of different Script Bonuses, but the ones below are most commonly employed.
 
+
 | ones below | are most commonly employed.                                                                                   |
-|------------|---------------------------------------------------------------------------------------------------------------|
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
 | +3         | Initiate has to be at a special place at a special time for the Initiation                                    |
 | +3         | Initiate has to complete a specific Quest                                                                     |
-| +1         | Initiate sacrifices time — serving another in the cult (one bonus only)                                       |
+| +1         | Initiate sacrifices time — serving another in the cult (one bonus only)                                      |
 | +1         | Initiate sacrifices material goods or wealth (this must entail real personal loss)                            |
 | +3 to +6   | Initiate sacrifices something of great<br>nd symbolic value (familiar, talisman,<br>powerful invested device) |
 | +3         | the Initiate suffers an Ordeal<br>inflicting a Minor Flaw<br>or removing a Minor Virtue                       |
@@ -20288,13 +19924,11 @@ The Ease Factor is 12 to make a change to a component, such as varying the place
 
 The Mystagogue may only attempt one change in a given Initiation. If the test fails, the Initiation would fail (and the Mystagogue will
 
-
 know this), but the original Script (or a different variation) may be attempted in another Season. If the variation test roll succeeds, the modified Script is used as above to generate the Initiation Total, and if this equals or exceeds the Initiation Target level, the Initiation succeeds with no further rolls.
 
 If a single change is not enough to make this Script work, then either a different Script is needed, or the Mystagogue must study more Cult Lore, or experiment.
 
 ## Warping
-
 
 Warping is the side effect of living in a strong supernatural aura, or being subject to supernatural effects over a long period of time. Every
 
@@ -20302,8 +19936,9 @@ character has a Warping Score, which is increased like an Ability, but by Warpin
 
 Warping Points can be gained from exposure to any of the supernatural realms, Divine, Faerie, Infernal, or Magic. The points are not distinguished based on their source.
 
+
 | Marpi            | ng Points ar            | nd Score                         |
-|------------------|-------------------------|----------------------------------|
+| ------------------ | ------------------------- | ---------------------------------- |
 | Warping<br>Score | WARPING POINTS TO REACH | Warping Points<br>to increase to |
 | 1                | 5                       | 5                                |
 | 2                | 15                      | 10                               |
@@ -20319,8 +19954,6 @@ However, keeping track of the Warping Scores of every table in the covenant is u
 
 Creatures with a Might score are absolutely immune to warping. They are already fully part of one of the supernatural realms.
 
-
-
 ## Gaining Warping Points
 
 There are four main sources of Warping Points:
@@ -20334,7 +19967,6 @@ Note that these are separate sources of Warping Points. Thus, if a magus designs
 
 All sources of Warping Points stack. A character continuously affected by a strong supernatural effect that wasn't designed for him and that he didn't cast gains Warping Points both from being affected by a strong supernatural effect, and for being continuously under the influence of a supernatural effect.
 
-
 ## Living in Strong Auras
 
 Auras of over five points have an effect on anyone living within them, reflected in gaining Warping Points. The number of points gained depends on the strength of the aura and the length of time spent there.
@@ -20343,8 +19975,9 @@ A character is 'always within' an aura if she lives, works, and sleeps there. Oc
 
 This time refers to the total length of time spent in an aura, even if there are several different auras involved. Time spent in higher auras may be treated as time in a lower aura if this increases the number of Warping Points gained. For example, a character who spends half her time in a level 6 aura, with frequent visits to level 7 and 8 auras, should gain one Warping Point per year, because she is always in an aura of at least level 6.
 
+
 | Aura<br>Strength | ALWAYS<br>WITHIN | Half time<br>Within | Frequent<br>visits |
-|------------------|------------------|---------------------|--------------------|
+| ------------------ | ------------------ | --------------------- | -------------------- |
 | 6                | 1/year           | None                | None               |
 | 7                | 1/year           | 1/2 years           | None               |
 | 8                | 2/year           | 1/year              | None               |
@@ -20378,8 +20011,6 @@ A powerful, continuous effect that is not specifically designed for an individua
 ## Supernatural Botches
 
 When a character botches the roll to invoke a supernatural effect (for example, a Hermetic spell or a Supernatural Ability), she gains one Warping Point for every zero on the botch dice.
-
-
 
 Warping Points and Constant Effects DESIGNED FOR/CAST NOT DESIGNED BY SUBJECT FOR OR CAST BY SUBJECT BRIEF EFFECT. 0 0 Low Power BRIEF EFFECT. 0 HIGH POWER CONSTANT Effect. 1/vear 1/vear Low Power CONSTANT 1 when cast, EFFECT, + 1/year 1/vear HIGH POWER + 1/season
 
@@ -20420,8 +20051,9 @@ Apparent age increases: Particularly low rolls on the table mean that the charac
 
 Aging points: Aging points are accumulated in each Characteristic. Once a character has a number of Aging Points greater than the absolute value of the Characteristic, the Characteristic drops by one point and all Aging Points are lost.
 
+
 | LIVING CONDITIONS                              | Modifier |
-|------------------------------------------------|----------|
+| ------------------------------------------------ | ---------- |
 | Wealthy, or healthy location                   | +2       |
 | Typical Summer or Autumn covenant (magus)      | +2       |
 | Typical Summer or<br>Autumn covenant (mundane) | +1       |
@@ -20435,11 +20067,12 @@ Aging points: Aging points are accumulated in each Characteristic. Once a charac
 
 <sup>\*</sup> Modifiers marked with an asterisk are cumulative with each other.
 
+
 | AGING ROLL | RESULT                                                                                                         |
-|------------|----------------------------------------------------------------------------------------------------------------|
+| ------------ | ---------------------------------------------------------------------------------------------------------------- |
 | 2 or less  | No apparent aging                                                                                              |
 | 3 or more  | Apparent age increases by one year                                                                             |
-| 10–12      | 1 Aging Point in any Characteristic                                                                            |
+| 10–12     | 1 Aging Point in any Characteristic                                                                            |
 | 13         | Gain sufficient Aging Points (in any<br>Characteristics) to reach the next<br>level in Decrepitude, and Crisis |
 | 14         | 1 Aging Point in Qik                                                                                           |
 | 15         | 1 Aging Point in Sta                                                                                           |
@@ -20461,10 +20094,11 @@ Crisis: Increase the character's Decrepitude first, and then roll on the Crisis 
 
 Crisis Total: Simple die + age/10 (round up) + Decrepitude Score
 
+
 | Crisis Roll | Result                                                                                         |
-|-------------|------------------------------------------------------------------------------------------------|
+| ------------- | ------------------------------------------------------------------------------------------------ |
 | 8 or less   | Bedridden for a week                                                                           |
-| 9–14        | Bedridden for a month.                                                                         |
+| 9–14       | Bedridden for a month.                                                                         |
 | 15          | Minor illness. Stamina stress roll against an Ease Factor of 3 or CrCo20 to survive.           |
 | 16          | <b>Serious illness</b> . Stamina stress roll against an Ease Factor of 6 or CrCo25 to survive. |
 | 17          | Major illness. Stamina stress roll against an Ease Factor of 9 or CrCo30 to survive.           |
@@ -20479,18 +20113,13 @@ Creo Corpus magic can postpone a crisis, or resolve it if cast as a Momentary Ri
 
 A character who survives a crisis, even through magic, needs the rest of the season to recover fully, and thus cannot undertake any other activities.
 
-
-
-
 # XI. Obstacles
-
 
 he characters have goals that they want to achieve, but Mythic Europe does not always cooperate.
 
 This chapter covers the rules for some of the most important ways that other parts of the world might get in the characters' way.
 
 ## Combat
-
 
 ombat is generally not the most important part of **Ars Magica** stories, but when it occurs it is both dramatic and deadly.
 
@@ -20552,23 +20181,23 @@ Spells list their damage as "+X". This means roll a stress die and add X to calc
 
 ## Damage Table
 
-| Size          | Light | Меріим | HEAVY | INCAPACITATING | DEAD |
-|---------------|-------|--------|-------|----------------|------|
-| -4<br>or less | 1     | 2      | 3     | 4              | 5+   |
-| -3            | 1–2   | 3–4    | 5–6   | 7–8            | 9+   |
-| -2            | 1-3   | 4–6    | 7–9   | 10–12          | 13+  |
-| -1            | 1-4   | 5–8    | 9-12  | 13–16          | 17+  |
-| 0             | 1–5   | 6–10   | 11–15 | 16–20          | 21+  |
-| + 1           | 1–6   | 7–12   | 13-18 | 19–24          | 25+  |
-| +2            | 1–7   | 8-14   | 15-21 | 22–28          | 29+  |
-| +3            | 1-8   | 9–16   | 17–24 | 25–32          | 33+  |
+
+| Size          | Light | Меріим | HEAVY  | INCAPACITATING | DEAD |
+| --------------- | ------- | -------------- | -------- | ---------------- | ------ |
+| -4<br>or less | 1     | 2            | 3      | 4              | 5+   |
+| -3            | 1–2  | 3–4         | 5–6   | 7–8           | 9+   |
+| -2            | 1-3   | 4–6         | 7–9   | 10–12         | 13+  |
+| -1            | 1-4   | 5–8         | 9-12   | 13–16         | 17+  |
+| 0             | 1–5  | 6–10        | 11–15 | 16–20         | 21+  |
+| + 1           | 1–6  | 7–12        | 13-18  | 19–24         | 25+  |
+| +2            | 1–7  | 8-14         | 15-21  | 22–28         | 29+  |
+| +3            | 1-8   | 9–16        | 17–24 | 25–32         | 33+  |
 
 Each further +1 size adds +1 to each wound range. For every 5 + size points by which the Damage Total exceeds the Soak Total, the wound level increases by one.
 
 ## Initiative Ties
 
 On the first initiative roll A gets a total of 10, B gets 6, C, D, and E all get 4, and F gets 2. On the reroll, C gets 12, D gets 4, and E gets 1. The final order of actions is A B C D E F. The reroll only determines the relative ordering of C, D, and E; it does not over-ride the initial initiative result.
-
 
 ## Combat: Simple Example
 
@@ -20660,7 +20289,6 @@ The maximum number of fighters that can be coordinated is equal to the leader's 
 
 The group's combat statistics are equal to the vanguard's statistics.
 
-
 The other members of the group generate a bonus. The bonus is equal to the sum of the combat abilities of the other members of the group, but limited by three times the group leader's Leadership score. Thus, if the group leader has a Leadership score of 3, the bonus cannot exceed 9. This bonus can exceed 18 if the leader has a Leadership score of 7 or higher. This bonus can be applied to either Attack or Defense, but only to one of the two. The group can switch its application from round to round.
 
 ## Defender
@@ -20680,7 +20308,6 @@ A party that wants to disengage from combat generates a Defense Total instead of
 Note that a party that has not been attacked since its last turn may disengage automatically.
 
 A party that tries to disengage repeatedly gets a +3 cumulative bonus for every attempt after the first: +3 on the second attempt, +6 on the third, and so on. If the party attacks before it disengages, the bonus resets to zero.
-
 
 ## Defenders Without Groups
 
@@ -20732,15 +20359,14 @@ As a general rule, the group should be divided evenly when split. If two groups 
 
 Groups may only try to split their opponents' groups in melee combat.
 
-| Sample Advantages                      |                    |  |
-|----------------------------------------|--------------------|--|
-| Task                                   | REQUIRED ADVANTAGE |  |
-| Disarm                                 | 9                  |  |
-| Trip                                   | 3                  |  |
-| Grab worn item                         | 6                  |  |
-| Take the weapon your opponent is using | 12                 |  |
 
-
+| Sample Advantages                      |                    |   |
+| ---------------------------------------- | -------------------- | --- |
+| Task                                   | REQUIRED ADVANTAGE |   |
+| Disarm                                 | 9                  |   |
+| Trip                                   | 3                  |   |
+| Grab worn item                         | 6                  |   |
+| Take the weapon your opponent is using | 12                 |   |
 
 ## Combat: Complex Example
 
@@ -20794,8 +20420,9 @@ Partial armor covers the vital areas only, and generally consists of a hauberk (
 
 ## Armor Table
 
+
 |                     | PART | TAL  | FUI  | L    | COST   |
-|---------------------|------|------|------|------|--------|
+| --------------------- | ------ | ------ | ------ | ------ | -------- |
 | Material            | PROT | LOAD | PROT | Load |        |
 | Quilted/Fur         | 1    | 2    | n/a  | n/a  | Inexp. |
 | Heavy Leather       | 2    | 3    | n/a  | n/a  | Inexp. |
@@ -20812,36 +20439,37 @@ Cost: A general indication of the expense of the armor. More expensive armor is 
 
 ## Melee Weapon Statistics
 
+
 |                 | ABILITY | Init | Атк | DfN | Dam | STR | LOAD | Cost   |
-|-----------------|---------|------|-----|-----|-----|-----|------|--------|
-| Dodge           | Brawl   | 0    | n/a | 0   | n/a | n/a | 0    | n/a    |
-| Fist            | Brawl   | 0    | 0   | 0   | 0   | n/a | 0    | n/a    |
-| Kick            | Brawl   | -1   | 0   | -1  | +3  | n/a | 0    | n/a    |
-| Gauntlet        | Brawl   | 0    | 0   | +1  | +2  | -3  | 0    | Inexp. |
-| Bludgeon*       | Brawl   | 0    | +2  | 0   | +2  | -2  | 1    | Inexp. |
-| Dagger          | Brawl   | 0    | +2  | 0   | +3  | -3  | 0    | Inexp. |
-| Knife           | Braw1   | 0    | +1  | 0   | +2  | -6  | 0    | Inexp. |
-| Axe             | Single  | +1   | +4  | 0   | +6  | 0   | 1    | Std.   |
-| Club            | Single  | +1   | +2  | +1  | +3  | -2  | 1    | Inexp. |
-| Hatchet         | Single  | 0    | +3  | 0   | +4  | -2  | 1    | Inexp. |
-| Lance           | Single  | +2   | +4  | 0   | +5  | 0   | 2    | Std.   |
-| Mace**          | Single  | + 1  | +3  | 0   | +8  | 0   | 2    | Std.   |
-| Mace and Chain  | Single  | +2   | +3  | 0   | +7  | 0   | 2    | Std.   |
-| Spear, Short    | Single  | +2   | +2  | 0   | +5  | -1  | 1    | Inexp. |
-| Sword, Short    | Single  | +1   | +3  | +1  | +5  | -1  | 1    | Std.   |
-| Sword, Long     | Single  | +2   | +4  | +1  | +6  | 0   | 1    | Exp.   |
-| Shield, Buckler | Single  | 0    | 0   | +1  | 0   | -2  | 1    | Std.   |
-| Shield, Round   | Single  | 0    | 0   | +2  | 0   | -1  | 2    | Inexp. |
-| Shield, Heater  | Single  | 0    | 0   | +3  | 0   | 0   | 2    | Std.   |
-| Cudgel          | Great   | +1   | +4  | +1  | +7  | +1  | 2    | Inexp. |
-| Farm Implement  | Great   | +1   | +3  | +1  | +5  | 0   | 2    | Inexp. |
-| Flail           | Great   | +1   | +3  | +1  | +8  | 0   | 2    | Inexp. |
-| Pole Arm        | Great   | +3   | +4  | +1  | +8  | 0   | 2    | Std.   |
-| Pole Axe        | Great   | +1   | +5  | 0   | +11 | +1  | 2    | Std.   |
-| Spear, Long***  | Great   | +3   | +3  | +1  | +7  | 0   | 3    | Inexp. |
-| Sword, Great    | Great   | +2   | +5  | +2  | +9  | +1  | 2    | Exp.   |
-| Staff           | Great   | +2   | +3  | +3  | +2  | -1  | 2    | Inexp. |
-| Warhammer       | Great   | 0    | +6  | 0   | +12 | +2  | 3    | Std.   |
+| ----------------- | --------- | ------ | -------- | ----- | ----- | ----- | ------ | -------- |
+| Dodge           | Brawl   | 0    | n/a    | 0   | n/a | n/a | 0    | n/a    |
+| Fist            | Brawl   | 0    | 0      | 0   | 0   | n/a | 0    | n/a    |
+| Kick            | Brawl   | -1   | 0      | -1  | +3  | n/a | 0    | n/a    |
+| Gauntlet        | Brawl   | 0    | 0      | +1  | +2  | -3  | 0    | Inexp. |
+| Bludgeon*       | Brawl   | 0    | +2     | 0   | +2  | -2  | 1    | Inexp. |
+| Dagger          | Brawl   | 0    | +2     | 0   | +3  | -3  | 0    | Inexp. |
+| Knife           | Braw1   | 0    | +1     | 0   | +2  | -6  | 0    | Inexp. |
+| Axe             | Single  | +1   | +4     | 0   | +6  | 0   | 1    | Std.   |
+| Club            | Single  | +1   | +2     | +1  | +3  | -2  | 1    | Inexp. |
+| Hatchet         | Single  | 0    | +3     | 0   | +4  | -2  | 1    | Inexp. |
+| Lance           | Single  | +2   | +4     | 0   | +5  | 0   | 2    | Std.   |
+| Mace**          | Single  | + 1  | +3     | 0   | +8  | 0   | 2    | Std.   |
+| Mace and Chain  | Single  | +2   | +3     | 0   | +7  | 0   | 2    | Std.   |
+| Spear, Short    | Single  | +2   | +2     | 0   | +5  | -1  | 1    | Inexp. |
+| Sword, Short    | Single  | +1   | +3     | +1  | +5  | -1  | 1    | Std.   |
+| Sword, Long     | Single  | +2   | +4     | +1  | +6  | 0   | 1    | Exp.   |
+| Shield, Buckler | Single  | 0    | 0      | +1  | 0   | -2  | 1    | Std.   |
+| Shield, Round   | Single  | 0    | 0      | +2  | 0   | -1  | 2    | Inexp. |
+| Shield, Heater  | Single  | 0    | 0      | +3  | 0   | 0   | 2    | Std.   |
+| Cudgel          | Great   | +1   | +4     | +1  | +7  | +1  | 2    | Inexp. |
+| Farm Implement  | Great   | +1   | +3     | +1  | +5  | 0   | 2    | Inexp. |
+| Flail           | Great   | +1   | +3     | +1  | +8  | 0   | 2    | Inexp. |
+| Pole Arm        | Great   | +3   | +4     | +1  | +8  | 0   | 2    | Std.   |
+| Pole Axe        | Great   | +1   | +5     | 0   | +11 | +1  | 2    | Std.   |
+| Spear, Long***  | Great   | +3   | +3     | +1  | +7  | 0   | 3    | Inexp. |
+| Sword, Great    | Great   | +2   | +5     | +2  | +9  | +1  | 2    | Exp.   |
+| Staff           | Great   | +2   | +3     | +3  | +2  | -1  | 2    | Inexp. |
+| Warhammer       | Great   | 0    | +6     | 0   | +12 | +2  | 3    | Std.   |
 
 <sup>\*</sup> Any improvised bashing weapon such as a rock or hand tool
 
@@ -20859,18 +20487,18 @@ Cost: A general indication of the cost of the weapon. More expensive weapons are
 
 <sup>\*\*\*</sup> Includes the lance, if used dismounted.
 
-
 ## Missile Weapon Statistics
 
+
 | WEAPON        | ABILITY | INIT | Атк | DEF | Dam | RANGE | STR | Load | Cost   |
-|---------------|---------|------|-----|-----|-----|-------|-----|------|--------|
-| Axe, Throwing | Thrown  | 0    | +2  | 0   | +6  | 5     | 0   | 1    | Std.   |
-| Javelin       | Thrown  | 0    | +2  | 0   | +5  | 10    | 0   | 1    | Std.   |
-| Knife         | Thrown  | 0    | +1  | 0   | +2  | 5     | -2  | 0    | Inexp. |
-| Sling*        | Thrown  | -3   | +1  | 0   | +4  | 20    | -3  | 0    | Inexp. |
-| Stone         | Thrown  | 0    | +1  | 0   | +2  | 5     | -1  | 1    | Inexp. |
-| Bow, Long*    | Bow     | -2   | +4  | 0   | +8  | 30    | +2  | 2    | Exp.   |
-| Bow, Short*   | Bow     | -1   | +3  | 0   | +6  | 15    | -1  | 2    | Std.   |
+| --------------- | --------- | ------ | -------- | ----- | ----- | ------- | ----- | ------ | -------- |
+| Axe, Throwing | Thrown  | 0    | +2     | 0   | +6  | 5     | 0   | 1    | Std.   |
+| Javelin       | Thrown  | 0    | +2     | 0   | +5  | 10    | 0   | 1    | Std.   |
+| Knife         | Thrown  | 0    | +1     | 0   | +2  | 5     | -2  | 0    | Inexp. |
+| Sling*        | Thrown  | -3   | +1     | 0   | +4  | 20    | -3  | 0    | Inexp. |
+| Stone         | Thrown  | 0    | +1     | 0   | +2  | 5     | -1  | 1    | Inexp. |
+| Bow, Long*    | Bow     | -2   | +4     | 0   | +8  | 30    | +2  | 2    | Exp.   |
+| Bow, Short*   | Bow     | -1   | +3     | 0   | +6  | 15    | -1  | 2    | Std.   |
 
 <sup>\*</sup> Requires two free hands to load and fire.
 
@@ -20974,10 +20602,7 @@ Bow, Long: The famous English longbow, which equally famously required years of 
 
 Bow, Short: The name makes it sound weak compared to the long bow, but the short bow is still powerful enough to use on the battlefield or to hunt large game.
 
-
-
 # Antamorant
-
 
 haracters who are carrying a great deal of equipment are hindered in many of their actions. This is represented by subtracting the character's Encumbrance score
 
@@ -20985,8 +20610,9 @@ from the relevant rolls. Most athletic activities are penalized, as is spell cas
 
 Encumbrance is calculated in two stages. Heavy or bulky items have a Load value (listed in the Armor and Weapons tables on pages 400 and 401). Add up the total Load that a character is carrying, and use it to calculate the character's Burden. Burden increases when Load reaches the level for that Burden, so that a character with a Load of 9 has a Burden of 3.
 
+
 | TOTAL LOAD | BURDEN |
-|------------|--------|
+| ------------ | -------- |
 | 0          | 0      |
 | 1          | 1      |
 | 3          | 2      |
@@ -21003,7 +20629,6 @@ Encumbrance is calculated in two stages. Heavy or bulky items have a Load value 
 If the character's Strength is zero or negative, his Encumbrance is the same as his Burden. If the character has positive Strength, his Encumbrance is the amount by which his Burden exceeds his Strength. Thus, if a character has a Burden of 2 and a Strength of 0 or less, he has an Encumbrance of 2. If a character has a Burden of 2 and a Strength of +1, he has an Encumbrance of 1. A Burden of 2 and a Strength of +3 gives Encumbrance 0, the character does not get bonuses.
 
 ## Fatigue
-
 
 haracters who exert themselves in combat and other strenuous activities can become tired and even exhausted. This is measured using Fatigue levels. Most
 
@@ -21029,8 +20654,9 @@ If a character has lost both Long- and Short-Term Fatigue levels, the more serio
 
 ## Fatigue Recovery Chart
 
+
 | FATIGUE LEVEL | Time to Recover<br>to Next Lower Level                     |
-|---------------|------------------------------------------------------------|
+| --------------- | ------------------------------------------------------------ |
 | Winded        | 2 minutes                                                  |
 | Weary         | 10 minutes                                                 |
 | Tired         | 30 minutes                                                 |
@@ -21039,15 +20665,15 @@ If a character has lost both Long- and Short-Term Fatigue levels, the more serio
 
 ## Counds
 
-
 hen characters take damage from any source, they suffer wounds. The severity of the wound depends on the amount by which the Damage Total
 
 exceeds the character's Soak Total. (See page 394 for how to calculate these totals in combat, and page 407 for how to calculate them in other situations.)
 
 ## Cound Table
 
+
 | Wound Taken   | PENALTY PER WOUND |
-|---------------|-------------------|
+| --------------- | ------------------- |
 | Light         | -1                |
 | Medium        | -3                |
 | Heavy         | -5                |
@@ -21061,19 +20687,19 @@ For example, a grog has taken one Heavy Wound. He has a total Wound Penalty of �
 
 ## Damage Table
 
-| Size       | LIGHT | Медіим | HEAVY | Incapacitating | DEAD |
-|------------|-------|--------|-------|----------------|------|
-| -4 or less | 1     | 2      | 3     | 4              | 5+   |
-| -3         | 1-2   | 3–4    | 5–6   | 7–8            | 9+   |
-| -2         | 1-3   | 4–6    | 7–9   | 10–12          | 13+  |
-| -1         | 1-4   | 5-8    | 9-12  | 13–16          | 17+  |
-| 0          | 1-5   | 6–10   | 11–15 | 16–20          | 21+  |
-| +1         | 1–6   | 7–12   | 13-18 | 19–24          | 25+  |
-| +2         | 1–7   | 8-14   | 15-21 | 22–28          | 29+  |
-| +3         | 1-8   | 9–16   | 17–24 | 25–32          | 33+  |
+
+| Size       | LIGHT | Медіим | HEAVY  | Incapacitating | DEAD |
+| ------------ | ------- | -------------- | -------- | ---------------- | ------ |
+| -4 or less | 1     | 2            | 3      | 4              | 5+   |
+| -3         | 1-2   | 3–4         | 5–6   | 7–8           | 9+   |
+| -2         | 1-3   | 4–6         | 7–9   | 10–12         | 13+  |
+| -1         | 1-4   | 5-8          | 9-12   | 13–16         | 17+  |
+| 0          | 1-5   | 6–10        | 11–15 | 16–20         | 21+  |
+| +1         | 1–6  | 7–12        | 13-18  | 19–24         | 25+  |
+| +2         | 1–7  | 8-14         | 15-21  | 22–28         | 29+  |
+| +3         | 1-8   | 9–16        | 17–24 | 25–32         | 33+  |
 
 Each further +1 size adds +1 to each wound range. For every 5 + size points by which the Damage Total exceeds the Soak Total, the wound level increases by one.
-
 
 There is no maximum limit to a character's Wound Penalty, and characters cannot die immediately from non-fatal wounds, no matter how many there are. However, less serious wounds can worsen and become Incapacitating, and an Incapacitated character can still die (see below).
 
@@ -21096,6 +20722,7 @@ Players must make Recovery rolls for each wound that a character has. This roll 
 RECOVERY TOTAL:
 
 Stamina + Medic's Chirurgy or Medicine score
+
 + Magical Aid + Stress Die
 
 Recovery rolls are made at intervals determined by the severity of the wound, and there are two Ease Factors. If the Recovery Total equals or exceeds the Improvement Ease Factor, the wound improves by one level, for example from Medium to Light. If it equals or exceeds the Stable Ease Factor, the character remains at the same level of wounds, and gains a +3 bonus to future rolls. These bonuses are cumulative until
@@ -21104,8 +20731,9 @@ the wound improves or gets worse. If the Recovery Total is less than the Stable 
 
 Recovery rolls do not suffer from the Wound Penalty.
 
+
 | Wound Level   | Interval     |   | IMPROVEMENT<br>EASE FACTOR |
-|---------------|--------------|---|----------------------------|
+| --------------- | -------------- | --- | ---------------------------- |
 | Light         | One week     | 4 | 10                         |
 | Medium        | One<br>month | 6 | 12                         |
 | Heavy         | One season   | 9 | 15                         |
@@ -21153,8 +20781,9 @@ Note that a type of disease can have any Ease Factor and Wound type, as they com
 
 More detailed rules for diseases are provided in *Art and Academe*, pages 45–51.
 
+
 | D               | isease Tab   | le                                                                          |
-|-----------------|--------------|-----------------------------------------------------------------------------|
+| ----------------- | -------------- | ----------------------------------------------------------------------------- |
 | DISEASE         | Excess Humor | Symptoms                                                                    |
 | Quotidian Fever | Blood        | High<br>temperature, red<br>color, fever<br>constant.                       |
 | Flux            | Phlegm       | Chill, diarrhea,<br>running nose,<br>wet cough.                             |
@@ -21165,14 +20794,14 @@ More detailed rules for diseases are provided in *Art and Academe*, pages 45–5
 
 Poisons come in many forms, derived from plants, animals, and minerals. The Ease Factor for the initial Stamina check is at least 3, as nothing weaker counts as a poison, and can range as high as 15. Poisons can inflict fatal wounds from the beginning. Poisons are treated as injuries for recovery purposes and the details of Recovery rolls. More information on poisons can also be found in *Art and Academe*, particularly pages 64–65.
 
-| Poison Table |             |                |  |  |  |
-|--------------|-------------|----------------|--|--|--|
-| Poison       | Ease Factor | Wound          |  |  |  |
-| Adder Bite   | 6           | Light          |  |  |  |
-| Asp Bite     | 9           | Incapacitating |  |  |  |
-| Monkshood    | 9           | Heavy          |  |  |  |
-| Arsenic      | 9           | Medium         |  |  |  |
 
+| Poison Table |             |                |   |   |   |
+| -------------- | ------------- | ---------------- | --- | --- | --- |
+| Poison       | Ease Factor | Wound          |   |   |   |
+| Adder Bite   | 6           | Light          |   |   |   |
+| Asp Bite     | 9           | Incapacitating |   |   |   |
+| Monkshood    | 9           | Heavy          |   |   |   |
+| Arsenic      | 9           | Medium         |   |   |   |
 
 ## Deprivation
 
@@ -21180,12 +20809,13 @@ Characters deprived of food, water, or air suffer quite seriously. Each kind of 
 
 Fatigue levels lost due to food or water deprivation are Long-Term Fatigue levels, and can only be regained once the character has eaten or drunk. Fatigue levels lost due to air deprivation are Short-Term.
 
-| Deprivation Table   |            |  |  |  |
-|---------------------|------------|--|--|--|
-| Type of Deprivation | Тіме       |  |  |  |
-| Air                 | 30 seconds |  |  |  |
-| Water               | 1 day      |  |  |  |
-| Food                | 3 days     |  |  |  |
+
+| Deprivation Table   |            |   |   |   |
+| --------------------- | ------------ | --- | --- | --- |
+| Type of Deprivation | Тіме   |   |   |   |
+| Air                 | 30 seconds |   |   |   |
+| Water               | 1 day      |   |   |   |
+| Food                | 3 days     |   |   |   |
 
 ## Injuries
 
@@ -21206,8 +20836,9 @@ The damage modifiers for heat and corrosion depend on how much of the character 
 
 The damage is inflicted once every six seconds (once per combat round), and the wounds caused are independent, as for combat wounds (see page 404 for details). These sources of damage tend to ruin items as well, at the storyguide's discretion.
 
+
 | heat and Cor  | rosion Table |
-|---------------|--------------|
+| --------------- | -------------- |
 | Source        | Intensity    |
 | Wood Fire     | +5           |
 | Boiling Water | +3           |
@@ -21223,8 +20854,9 @@ The damage is inflicted once every six seconds (once per combat round), and the 
 
 Characters may also take damage from falling, or having things fall on them. This damage is taken once.
 
+
 | Impact                            | Table                                                                 |
-|-----------------------------------|-----------------------------------------------------------------------|
+| ----------------------------------- | ----------------------------------------------------------------------- |
 | Type of Impact                    | Damage                                                                |
 | Falling                           | +1 per two feet,<br>doubled for hard<br>surfaces, halved<br>for soft. |
 | Jug dropped from second floor     | +6                                                                    |
@@ -21232,11 +20864,7 @@ Characters may also take damage from falling, or having things fall on them. Thi
 | Mature tree felled onto character | +18                                                                   |
 | Inside collapsing stone building  | +21                                                                   |
 
-
-
-
 # XII. Realms
-
 
 agic is the supernatural basis of Ars Magica, but it is not the only power in Mythic Europe. Four realms of power exist: Magic, Divine, Faerie, and Infernal.
 
@@ -21249,7 +20877,6 @@ Creatures can be linked to a realm in one of two ways. The closer link is referr
 No human being belongs to a realm. It is possible for a human affiliated to a realm to transform and become part of that realm, but the person apparently loses their humanity in the process. There are faeries, demons, and spirits that were once human, but the Divine realm never transforms human beings in this world. Perhaps the saints after death become part of the Divine realm, but there is no way to know.
 
 # The Nature of the Realms
-
 
 Il four realms are inter-related, and Hermetic theorists have debated the nature of these relations for centuries. It is generally agreed that the Divine
 
@@ -21267,7 +20894,6 @@ Those theologians who give serious thought to the issue tend to have a slightly 
 
 ## Realm Auras
 
-
 he realms exist and interact in various ways. Each has some parts of the world where its powers are strongest. Such areas are said to have an aura, which can be rated
 
 in power on a scale from 1 to 10. Most auras rate between 1 and 5, while very intense auras may have a strength of 6 to 10. An aura rating of 10 often designates a gateway to the realm of its affiliation. The aura rating of a given area usually acts as a modifier on supernatural activities that take place there. Many areas of the world have no realm affiliation, and therefore no aura. These places are mundane.
@@ -21280,7 +20906,6 @@ Two realms may have influence over the same place. When this is the case, only t
 
 The aura of a given place affects all supernatural activities that go on in that place. The list below defines how aura ratings affect various activities. The Realm Interaction chart that follows indicates
 
-
 Sport Sport
 
 the degree to which realms influence powers of other realms. The modifiers shown apply to the effect an aura has on any supernatural act performed within it.
@@ -21291,12 +20916,13 @@ Auras also affect the number of botch rolls for an attempted supernatural act in
 
 #### POWER
 
-|      |          | Magic           | DIVINE    | Faerie          | Infernal        |
-|------|----------|-----------------|-----------|-----------------|-----------------|
-| Aura | Magic    | + aura          | no effect | + (1/2<br>aura) | – aura          |
+
+|      |          | Magic            | DIVINE    | Faerie           | Infernal         |
+| ------ | ---------- | ------------------ | ----------- | ------------------ | ------------------ |
+| Aura | Magic    | + aura           | no effect | + (1/2<br>aura)  | – aura          |
 |      | Divine   | – (3 x<br>aura) | + aura    | – (4 x<br>aura) | – (5 x<br>aura) |
-|      | Faerie   | + (1/2<br>aura) | no effect | + aura          | – aura          |
-|      | Infernal | – aura          | no effect | – (2 x<br>aura) | + aura          |
+|      | Faerie   | + (1/2<br>aura)  | no effect | + aura           | – aura          |
+|      | Infernal | – aura          | no effect | – (2 x<br>aura) | + aura           |
 
 For example, consider a magus who also has a Faerie-based power to create illusions and a demonic gift causing sickness. His Hermetic spells are based on Magic, his illusions on Faerie, and his sickness power on the Infernal. In a town with a Dominion aura of 3, he must subtract nine from his Hermetic totals, and roll three additional botch dice, twelve from his Faerie illusion totals, with three additional botch dice, and fifteen from his Infernal sickening totals, again with
 
@@ -21317,7 +20943,6 @@ three additional botch dice. If he moves to a forest with a Faerie aura of 4, he
 The Divine is not hampered by auras of other kinds. Divine powers have no penalty and no additional botch dice in auras of the other realms.
 
 ## Creatures of a Realm
-
 
 he appearance of a creature is influenced, but not determined, by the realm to which it belongs. The details on each of the realms, below, provide
 
@@ -21341,14 +20966,12 @@ Characters with supernatural abilities other than Hermetic magic also have Penet
 
 Character Penetration:
 Effect Roll – Ease Factor + Penetration Bonus
+
 + Aura Modifier
 
 The Penetration bonus is calculated in the same way as for Hermetic magi (see Penetration, page 215). Thus, creatures and characters without the Penetration Ability have a Penetration bonus of zero.
 
-
-
 ## The Magic Realm
-
 
 he Magic realm is often characterized as 'the way the world could be'. Magical things are simply better than the mundane versions, but they are
 
@@ -21400,7 +21023,6 @@ As described in chapter 3 of *Realms of Power: Magic*, there is a Magic world, a
 
 ## The Infernal Realm
 
-
 he Infernal realm is the embodiment of evil and decay — of physical destruction and moral corruption. Even as the Church works its divine power to protect
 
 the soul and buoy it up to Heaven after the body's death, the forces of the Devil work to steal it away and drag it to the depths of Hell.
@@ -21422,7 +21044,6 @@ More details on the Infernal and all its works can be found in *Realms of Power:
 ## Infernal Oreatures
 
 The natural forms of infernal creatures are almost always twisted, vile, and terrifying, the better to inspire fear and loathing in human beings. However, many demons can also take on attractive forms. Different sorts of attraction are better for different temptations, a beautiful young
-
 
 woman is good for luring a man into lust, but an apparently wise old man might be better to lure someone into heresy.
 
@@ -21447,7 +21068,6 @@ church, including the ritual murder of the priest on the altar, might replace th
 Infernal auras also arise from the presence of infernal creatures or the use of infernal powers, in much the same way as for Magical auras. Combining repeated sin with the use of infernal powers can create the highest Infernal auras of all.
 
 ## The Faerie Realm
-
 
 aeries are creatures drawn in some way from the stories of the human race. They are thus as varied and diverse as stories, and can be found anywhere from the depths
 
@@ -21533,7 +21153,6 @@ Divine auras can arise from the activities or presence of holy creatures, in a m
 
 Higher Divine auras are very limited in extent. The chapel holding the relics of a very important saint might have an aura of 6, or 7 for relics of
 
-
 seems, need not be wholly orthodox.
 
 True Faith, like Confidence, has a Score and
@@ -21596,7 +21215,6 @@ Flabbergast the Impertinent, 2 points, Init +3, Mentem. This curse causes the ta
 
 ## The Mundane
 
-
 he mundane is the embodiment of all that is normal and mortal. Generally speaking, areas not occupied by another realm are considered mundane and
 
 consist of ordinary people and places. The mundane has no aura rating — in fact, it is the absence of aura, so powers used there function without hindrance.
@@ -21605,13 +21223,11 @@ There is a difference between "mundane society" and mundane areas. Mundane socie
 
 ## Regiones
 
-
 ccasionally, within very special supernatural areas, special types of auras arise. These may exist within larger domains or by themselves, and may be of any type of aura.
 
 They are called regiones (singular regio, "realm", pronounced 'REH-ghee-oh' and 'rehghee-OH-nays', with a hard 'g' in both cases).
 
 Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon,
-
 
 imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
 
@@ -21629,7 +21245,7 @@ There are two ways to enter a regio voluntarily, and either or both may apply to
 
 To see into a regio level, roll:
 
- $\begin{array}{c} R_{EGIO} \; S_{IGHT} \; Roll. \\ Perception \; + \; Appropriate \; Ability \; + \; Stress \; Die \end{array}$ 
+$\begin{array}{c} R_{EGIO} \; S_{IGHT} \; Roll. \\ Perception \; + \; Appropriate \; Ability \; + \; Stress \; Die \end{array}$
 
 EASE FACTOR:
 
@@ -21649,7 +21265,6 @@ At least one of these methods of entry must apply to any regio, at least if it i
 
 Supernatural powers or spells used in a regio level are affected just as in any other aura, determined by the Realm Interaction Table. Use the aura rating of the level occupied to modify spell
 
-
 and other supernatural rolls. However, any power used within a regio of a realm different from that of the power attracts twice the normal number of botch dice.
 
 ## The Origins of Regiones
@@ -21661,7 +21276,6 @@ The other common route is through a spectacular and powerful event. Sometimes, i
 Hermetic magi would love to be able to create regiones at will, but they have yet to learn how. Attempts to create regiones through spectacular magical events have not succeeded reliably, and have often had very bad consequences.
 
 ## Vis Sources
-
 
 aw vis (see page 212) can often be found in supernatural auras. Sometimes it is found in the bodies of creatures with Might, sometimes it is found in plants,
 
@@ -21677,7 +21291,7 @@ might be in the three golden acorns that appear on a tree, and all that is requi
 
 - Golden acorns on a tree (Creo, Herbam, Terram)
 - The bones of people buried in an old pagan graveyard, as long as they were buried within the last year.
-   (Perdo, Corpus, Mentem)
+  (Perdo, Corpus, Mentem)
 - The first ice to form on a pond in winter. (Rego, Aquam)
 - The chrysalis cases of butterflies in a magical forest. (Muto, Animal, Imaginem)
 - The echoes of a shout in a particular valley at a particular time. (Intellego, Imaginem)
@@ -21695,12 +21309,7 @@ Divine vis makes most magi nervous. First, gathering it often has the potential 
 
 Infernal vis is avoided by all sensible magi. It tends to twist any project to evil ends, and slowly corrupt a magus's personality as he works with it. At the very least, using Infernally tainted vis adds twice as many botch dice as usual to spellcasting, and requires a roll on the experimental results chart for an enchanted item. Magi should be very wary of discoveries made while working with Infernal vis. For information on just how bad it can get, see *Realms of Power: The Infernal*, pages 18–19.
 
-
-
-
-
 # XIII. Bestiary
-
 
 reatures in an **Ars Magica** game serve a variety of purposes. The simplest is something to fight, but this may not be the most
 
@@ -21711,7 +21320,6 @@ In most cases, the storyguide will want to create creatures that fit a particula
 Creature statistics are very similar to human statistics. The main differences are the Might Score, which determines the overall power of the creature and indicates the realm to which it is affiliated, and creature Powers, which work differently from supernatural abilities possessed by humans. Both of these differences are described below.
 
 ## Creature Might
-
 
 upernatural creatures have one of Divine Might, Infernal Might, Magic Might, and Faerie Might, depending on the realm to which they
 
@@ -21726,7 +21334,6 @@ Creature Magic Resistance works against all forms of mystical power, just like H
 Creature Magic Resistance: Might Score + Aura Modifier
 
 ## Creature Powers
-
 
 reature powers are not Hermetic spells, and thus are not bound by the restrictions of Hermetic magic. For a start, they do not have levels.
 
@@ -21748,10 +21355,7 @@ The Penetration Bonus is calculated in exactly the same way as for Hermetic magi
 
 Some creature powers can be dispelled, if they have continuing effects. Their effective level is equal to the Might Score of the creature.
 
-
-
 ## Creature Format
-
 
 he format for a creature is very similar to the format for a character, and uses a lot of the same rules and values. In most cases, if a line does not apply,
 
@@ -21777,7 +21381,6 @@ Personality Traits: The creature's personality traits, and scores.
 
 **Reputations**: Details of the creature's reputations, if any.
 
-
 ## Size Examples
 
 Each Size category is approximately twice as heavy as the previous size category. A 1-point difference in Size doubles the weight, 2 points multiplies it by five, and a 3-point increase in Size entails a ten-fold increase in mass. Thus a pig weighs approximately the same as 50 hedgehogs, 200 rats or 2000 mice. Birds are two Size points bigger than their weight would suggest, accounting for their larger overall dimension; if you need to know the weight of a bird, subtract two from the Size before calculation. All heights and weights are approximate.
@@ -21786,31 +21389,32 @@ Each Size category is approximately twice as heavy as the previous size category
 
 でしているという
 
-| weights are approximate. |                    |                                   |                                                                                        |  |  |  |
-|--------------------------|--------------------|-----------------------------------|----------------------------------------------------------------------------------------|--|--|--|
-| Size                     | Неіднт             | WEIGHT                            | Examples                                                                               |  |  |  |
-| -15                      | an inch<br>or less | less than<br>1 oz.                | insect                                                                                 |  |  |  |
-| -10                      | 4 - 5''            | 1 oz.                             | minnow, mouse                                                                          |  |  |  |
-| <b>-9</b>                | 6-7"               | 1.5 oz.                           | bat, frog                                                                              |  |  |  |
-| -8                       | 8 – 9 "            | 0.25 –<br>0.5 lbs                 | mole, salamander, toad                                                                 |  |  |  |
-| -7                       | 10 – 11 "          | 0.5 – 1 lb                        | rat, weasel                                                                            |  |  |  |
-| -6                       | 12 – 13 "          | 1 – 2 lbs                         | lizard, stoat, thrush                                                                  |  |  |  |
-| -5                       | 14 – 15 "          | 2 – 5 lbs                         | cuckoo, dove, eel, polecat, grass<br>snake, hedgehog, partridge, rabbit                |  |  |  |
-| -4                       | 16 – 20 "          | 5 – 10 lbs                        | adder, cockerel, crow, magpie,<br>octopus, owl, raven                                  |  |  |  |
-| -3                       | 21 – 32 "          | 10 – 22 lbs                       | badger, carp, cat, duck, falcon, gull,<br>hare, human baby, osprey, otter, pike        |  |  |  |
-| -2                       | 2'9" – 3'9"        | 22 – 46 lbs                       | beaver, dog, eagle, fox, goose,<br>grouse, heron, human child, roe deer,<br>salmon     |  |  |  |
-| -1                       | 3'9" – 4'9"        | 47 – 100 lbs                      | adolescent human, ape,<br>crane, gazelle, lynx, sheep,<br>stork, swan, wild goat, wolf |  |  |  |
-| 0                        | 4'9" – 6'2"        | 100 – 215 lbs                     | adult human, antelope, boar,<br>deer, dolphin, pig                                     |  |  |  |
-| + 1                      | 6'2" – 8'          | 215 – 465 lbs                     | buck (male fallow deer), ibex,<br>pony, seal                                           |  |  |  |
-| +2                       | 8' - 10'           | 465 – 1000 lbs                    | bear, horse, lion, stag (male red deer)                                                |  |  |  |
-| +3                       | 10' – 13'          | 1000 – 2150 lbs                   | aurochs, moose, shark,<br>walrus, war horse                                            |  |  |  |
-| +4                       | 13' – 17'          | 2150 – 4600 lbs                   | elephant                                                                               |  |  |  |
-| +5                       | 17' – 22'          | $2\frac{1}{2} - 5 \text{ tons}$   | killer whale                                                                           |  |  |  |
-| +6                       | 22' – 28'          | 5 − 10 ½ tons                     | -                                                                                      |  |  |  |
-| +7                       | 28' – 37'          | $10\frac{1}{2} - 23 \text{ tons}$ | small dragon                                                                           |  |  |  |
-| +8                       | 37' – 47'          | 23 - 50  ton                      | -                                                                                      |  |  |  |
-| +9                       | 47' – 61'          | 50 – 107 tons                     | humpbacked whale                                                                       |  |  |  |
-| +10                      | 61' – 79'          | 107 – 230 tons                    | -                                                                                      |  |  |  |
+
+| weights are approximate. |                    |                                   |                                                                                        |   |   |   |
+| -------------------------- | -------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------- | --- | --- | --- |
+| Size                     | Неіднт       | WEIGHT                            | Examples                                                                               |   |   |   |
+| -15                      | an inch<br>or less | less than<br>1 oz.                | insect                                                                                 |   |   |   |
+| -10                      | 4 - 5''            | 1 oz.                             | minnow, mouse                                                                          |   |   |   |
+| <b>-9</b>                | 6-7"               | 1.5 oz.                           | bat, frog                                                                              |   |   |   |
+| -8                       | 8 – 9 "           | 0.25 –<br>0.5 lbs                | mole, salamander, toad                                                                 |   |   |   |
+| -7                       | 10 – 11 "         | 0.5 – 1 lb                       | rat, weasel                                                                            |   |   |   |
+| -6                       | 12 – 13 "         | 1 – 2 lbs                        | lizard, stoat, thrush                                                                  |   |   |   |
+| -5                       | 14 – 15 "         | 2 – 5 lbs                        | cuckoo, dove, eel, polecat, grass<br>snake, hedgehog, partridge, rabbit                |   |   |   |
+| -4                       | 16 – 20 "         | 5 – 10 lbs                       | adder, cockerel, crow, magpie,<br>octopus, owl, raven                                  |   |   |   |
+| -3                       | 21 – 32 "         | 10 – 22 lbs                      | badger, carp, cat, duck, falcon, gull,<br>hare, human baby, osprey, otter, pike        |   |   |   |
+| -2                       | 2'9" – 3'9"       | 22 – 46 lbs                      | beaver, dog, eagle, fox, goose,<br>grouse, heron, human child, roe deer,<br>salmon     |   |   |   |
+| -1                       | 3'9" – 4'9"       | 47 – 100 lbs                     | adolescent human, ape,<br>crane, gazelle, lynx, sheep,<br>stork, swan, wild goat, wolf |   |   |   |
+| 0                        | 4'9" – 6'2"       | 100 – 215 lbs                    | adult human, antelope, boar,<br>deer, dolphin, pig                                     |   |   |   |
+| + 1                      | 6'2" – 8'         | 215 – 465 lbs                    | buck (male fallow deer), ibex,<br>pony, seal                                           |   |   |   |
+| +2                       | 8' - 10'           | 465 – 1000 lbs                   | bear, horse, lion, stag (male red deer)                                                |   |   |   |
+| +3                       | 10' – 13'         | 1000 – 2150 lbs                  | aurochs, moose, shark,<br>walrus, war horse                                            |   |   |   |
+| +4                       | 13' – 17'         | 2150 – 4600 lbs                  | elephant                                                                               |   |   |   |
+| +5                       | 17' – 22'         | $2\frac{1}{2} - 5 \text{ tons}$   | killer whale                                                                           |   |   |   |
+| +6                       | 22' – 28'         | 5 − 10 ½ tons                   | -                                                                                      |   |   |   |
+| +7                       | 28' – 37'         | $10\frac{1}{2} - 23 \text{ tons}$ | small dragon                                                                           |   |   |   |
+| +8                       | 37' – 47'         | 23 - 50  ton                      | -                                                                                      |   |   |   |
+| +9                       | 47' – 61'         | 50 – 107 tons                    | humpbacked whale                                                                       |   |   |   |
+| +10                      | 61' – 79'         | 107 – 230 tons                   | -                                                                                      |   |   |   |
 
 Combat: The combat statistics for modes of attack and weapons that the creature uses often.
 
@@ -21830,9 +21434,7 @@ Powers: The creature's powers, in the format Power Name, X points, Init Y, Form:
 
 Vis: The type, amount, and location of any vis in the creature. This is normally found in the corpse, rather than the living being.
 
-
 ## Creating Creatures
-
 
 hen creating creatures for use in your own saga, you have a great deal of freedom. The first thing to remember is that, if during play you
 
@@ -21855,7 +21457,6 @@ Combat Statistics: If you do not intend the creature to get into a fight, you do
 Powers: The Might cost of a power is not determined primarily by how powerful the power is. Instead, it determines how good the power's Penetration is, and how often it can be used. As a rule, you will want greater powers to have lower Penetration and be usable less often, but that need not always be the case. A dragon that can breathe devastating fire as often as it likes (Might cost 0), but can only heal once or twice per day (Might cost 25), is a perfectly reasonable creature.
 
 ## Mundane Beasts
-
 
 he beasts of Mythic Europe are not quite the same as normal animals in the real world. The ferocity of wild animals, in particular, is
 
@@ -21904,7 +21505,6 @@ Appearance: The common adder is a small snake, usually about a foot and a half i
 The adder is a venomous snake commonly found throughout Mythic Europe (except in Ireland). It is hardy enough to hibernate through the winter. It hunts rodents, lizards, and frogs by hiding and waiting for prey to pass nearby. Its venom is weak and can sicken, but not usually kill, a man.
 
 The adder is prone to attack reflexively when anything stumbles across its hiding-place (see the Lightning Reflexes Virtue). Because it's so thin and flexible, it gains a +6 bonus to Defense against grapple attacks.
-
 
 ## Bear (Crsus)
 
@@ -21960,8 +21560,6 @@ Tough Hide
 
 Personality Traits: Brave +4, Angry +3 Reputations: Ill-tempered (local) 2
 
-
-
 #### Combat:
 
 Tusks: Init +1, Attack +10, Defense +9, Damage +7
@@ -21985,8 +21583,6 @@ The wild boar lives in forests throughout Mythic Europe, where it forages by nig
 In France and England the boar is called la bête noire, "the black beast," for its evil temper. It is a favorite sport of noblemen, who hunt it from horseback using hounds, lances, and swords. According to Pliny the Elder, the wild boar toughens its hide by rubbing against trees.
 
 Boars vary greatly in size, from eight stone (112 pounds) to more than thirty stone (420 pounds). The largest boars are Size +1.
-
-
 
 ## Bull (Taurus)
 
@@ -22024,7 +21620,7 @@ In Spain, the Moorish nobles make a spectacle of fighting bulls from horseback o
 
 ## Oat (Pelis)
 
- $\begin{array}{c} \textbf{Characteristics: Cun 0, Per +1, Pre -2, Com -4, Str -7,} \\ \textbf{Sta 0, Dex +3, Qik +4} \end{array}$ 
+$\begin{array}{c} \textbf{Characteristics: Cun 0, Per +1, Pre -2, Com -4, Str -7,} \\ \textbf{Sta 0, Dex +3, Qik +4} \end{array}$
 
 Size: -3
 
@@ -22061,8 +21657,6 @@ Appearance: In Mythic Europe, domestic cats are shorthaired and tend to have gre
 The European wildcat looks much like a large domestic cat with a thicker, shaggier coat and bushy tail. Its coat is grey-brown with black stripes and a white underbelly.
 
 The cat has a reputation for evil among the common folk. They accuse it of stealing the breath of babies, though only supernatural cats can do such a thing. Cats are sometimes tolerated because they keep down the population of rats, but they are not commonly kept as pets and they are often killed by peasants out of superstition or cruelty. For some reason, the cat's bad reputation is unknown in England and it is looked upon more favorably in that land. Pliny the Elder says nothing about the cat's reputation, noting only that the cat is the natural enemy of mice and that its eyes are so keen it can see in the dark.
-
-
 
 ## Falcon (Falco)
 
@@ -22142,9 +21736,6 @@ A light horse trained for battle is called a charger. To create a charger, repla
 
 Any light horse — courser, charger, or palfrey — gets a +3 to rolls involving running or jumping.
 
-
-
-
 ## horse, Destrier (Equus)
 
 Characteristics: Cun –2, Per 0, Pre 0, Com –4, Str +6, Sta +3, Dex +1, Qik –1
@@ -22199,7 +21790,7 @@ Personality Traits: Loyal +3, Reckless +3, Brave +2 Reputations: Loyal 2 (local)
 
 Combat:
 
- $\it Bite: Init +2$ ,  $\it Attack +8$ ,  $\it Defense +7$ ,  $\it Damage +1$ 
+$\it Bite: Init +2$ ,  $\it Attack +8$ ,  $\it Defense +7$ ,  $\it Damage +1$
 
 Soak: +2
 
@@ -22210,7 +21801,6 @@ Abilities: Athletics 3 (distance running), Awareness 3 (keeping watch), Brawl 3 
 Natural Weapons: The weapon statistics for a dog's bite are Init 0, Atk +3, Def +1, Dam +1.
 
 Appearance: These statistics are for a large hound such as the bloodhound. The bloodhound stands a little over two feet at the shoulder and weighs up to nine stone (126 pounds). It has large jowls, dangling ears, and a heavy tail. Its coat is short and may be tan, red, or liver in color.
-
 
 There are many breeds of dogs in Mythic Europe, many of them similar to breeds that exist in our world (though they may be called by different names). The largest dogs are used for guarding livestock or hunting dangerous beasts like wolves, bears, and wild boars. They include the breeds like the bloodhound, elkhound, Rottweiler, mastiff, and great Dane. Smaller hounds, such as the greyhound, Basset hound, and Dalmatian, are Size -1 and are often used to hunt deer, fox, and small game. Medium-sized dogs (Size -2) include spaniels, used to chase small game and to flush game birds for falconers; terriers, which hunt badgers, stoats, and rats, and the Welsh corgi, a small cattle-herding dog. The smallest dogs (Size –3) include lap-dogs, small terriers bred for vermin control, and the tiny Italian greyhound. Several breeds that are popular in the real world, such as the German shepherd and most retrievers, did not exist in the Middle Ages. These statistics are for the bloodhound, and the Characteristics of other breeds may be different.
 
@@ -22268,7 +21858,6 @@ Pliny the Elder writes that, during his time, lions were found in Europe only be
 
 The lion can make impressive leaps and gets +3 to jump-related rolls. It can easily leap high enough to attack a man on horseback.
 
-
 ## Stag (Cervus)
 
 Characteristics: Cun - 2, Per + 2, Pre 0, Com - 5, Str + 2, Sta + 2, Dex 0, Qik + 2
@@ -22297,7 +21886,6 @@ Abilities: Athletics 4 (sprinting), Awareness 3 (predators), Brawl 4 (dodge),
 Survival 3 (woodlands)
 
 Natural Weapons: During the autumn and winter, a stag has antlers with the following weapon statistics: Init +2, Atk +3, Def +2, Dam +3. In spring, it sheds its antlers and must fight with its hooves until the following autumn: Init +2, Atk +2, Def +2, Dam +1.
-
 
 Appearance: These statistics are for the red deer, one of the largest deer in Mythic Europe. Adult males average 40 to 50 stone in weight (560 to 700 pounds) depending on the richness of the available food supply, and may be up to 15 hands high—as tall as some horses, but more lightly built. The red deer's coat is reddish-brown in winter and tan in summer, with a lighter rump and underbelly. Stags have a shaggy mane of dark fur and an impressive rack of antlers over four feet across from tip to tip. They make a deep, bellowing roar during the autumn mating season.
 
@@ -22353,11 +21941,11 @@ There are four categories of beasts: Birds, Fish, Hoofed Beasts and Clawed Beast
 
 As noted earlier, mundane beasts have a Characteristic called Cunning in place of an Intelligence score. Use Cunning for rolls that would otherwise call for Intelligence, such as finding a way out of a closed barn. Beasts have a limited capacity for problem-solving but they lack imagination, reason, and intelligence as such. Communication and Presence have slightly different meanings for animals. Presence represents how much impact that the creature has on its human viewers. Creatures with a low Presence are barely noticed, those with a high Presence instill awe, fear or wonder. Communication, as for humans, represents the ability of the animal to impart information; few animals (to the medieval mind) are capable of the transmission of complex thoughts to others. For beasts, the Quickness Characteristic has mainly to do with reflexes and agility, and little to do with movement rate. Many animals can run faster than a human, but that does not necessarily mean they should have better Initiative and Defense scores. Animals that run fast, but do not have especially good reflexes, have a Quality (see below) which reflects this.
 
-
 # Mental Characteristics of Oreatures
 
+
 | Type            | Cun | Per | Pre | Com        |
-|-----------------|-----|-----|-----|------------|
+| ----------------- | ----- | ----- | ----- | ------------ |
 | Clawed<br>Beast | 0   | 0   | -2  | -5         |
 | Hoofed<br>Beast | -2  | 0   | -4  | <b>-</b> 5 |
 | Bird            | -1  | +2  | -1  | -2         |
@@ -22365,8 +21953,9 @@ As noted earlier, mundane beasts have a Characteristic called Cunning in place o
 
 ## Example Physical Characteristics of Oreatures
 
+
 | Type of creature | Size | STR | STA | DEX | $\mathbf{Q}_{IK}$ | Example |
-|------------------|------|-----|-----|-----|-------------------|---------|
+| ------------------ | ------ | ----- | ----- | ----- | ------------------- | --------- |
 | Small predator   | -5   | -7  | +0  | +1  | +5                | Polecat |
 | Large predator   | -1   | +0  | +3  | -1  | +1                | Lynx    |
 | Rodent           | -7   | -12 | +1  | +3  | +5                | Rat     |
@@ -22412,8 +22001,9 @@ Virtues: Berserk, Enduring Constitution, Ferocity, Improved Characteristics\*, L
 
 All creatures have the following Abilities:
 
-| Түре         | Abilities                                                                                             |
-|--------------|-------------------------------------------------------------------------------------------------------|
+
+| Түре     | Abilities                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------- |
 | Clawed Beast | Awareness 3 (food), Athletics 3 (running), Brawl 3 (bite or claw), Survival 3 (home terrain)          |
 | Hoofed Beast | Awareness 3 (predators),<br>Athletics 4 (running), Brawl 2<br>(dodging), Survival 3 (home<br>terrain) |
 | Bird         | Awareness 4 (food), Athletics 3 (flying), Brawl 2 (dodging),<br>Survival 3 (home terrain)             |
@@ -22454,7 +22044,6 @@ Crushing Jaws: although the creature is not particularly strong compared to huma
 Extra Natural Weapons: gain an extra set of Natural Weapons, such as Horns/Antlers, Teeth/Tusks, Claws, or Hooves. Only one set of weapons may be used in each round of combat. This quality may be taken more than once.
 
 Eyes of the Bat: the creature sees in much the same way as magi using the spell Eyes of the Bat.
-
 
 Fast Runner: +3 to all rolls involving running.
 
@@ -22530,18 +22119,19 @@ Vocal: the creature can produce impressive vocalizations, such as a powerful roa
 
 ## Natural Weapons Table
 
-| ATTACK                  | Init | Атк | $\mathbf{D}_{\text{FN}}$ | D <sub>AM</sub> |
-|-------------------------|------|-----|--------------------------|-----------------|
-| Grapple                 | 0    | 0   | 0                        | n/a             |
-| Dodge                   | 0    | n/a | 0                        | n/a             |
-| Teeth                   | 0    | +3  | +1                       | +1              |
-| Large Teeth             | +0   | +4  | +1                       | +3              |
-| Tusks                   | +0   | +4  | +2                       | +5              |
-| Claw                    | -1   | +2  | +3                       | +2              |
-| Large Claws             | 0    | +5  | +3                       | +4              |
-| Horns                   | + 1  | +3  | -1                       | +2              |
-| Large Horns/<br>Antlers | +2   | +3  | +2                       | +3              |
-| Hooves                  | +2   | +2  | +2                       | + 1             |
+
+| ATTACK                  | Init | Атк | $\mathbf{D}_{\text{FN}}$ | D<sub>AM</sub> |
+| ------------------------- | ------ | -------- | -------------------------- | ---------------- |
+| Grapple                 | 0    | 0      | 0                        | n/a            |
+| Dodge                   | 0    | n/a    | 0                        | n/a            |
+| Teeth                   | 0    | +3     | +1                       | +1             |
+| Large Teeth             | +0   | +4     | +1                       | +3             |
+| Tusks                   | +0   | +4     | +2                       | +5             |
+| Claw                    | -1   | +2     | +3                       | +2             |
+| Large Claws             | 0    | +5     | +3                       | +4             |
+| Horns                   | + 1  | +3     | -1                       | +2             |
+| Large Horns/<br>Antlers | +2   | +3     | +2                       | +3             |
+| Hooves                  | +2   | +2     | +2                       | + 1            |
 
 All natural weapons use the Brawl Ability. Strength, Load and Cost are not applicable.
 
@@ -22614,7 +22204,6 @@ Any wounds taken in the human form are reflected in the animal form, and vice ve
 
 A character who spends a substantial amount of time in animal form may apply any experience gained for that period (either through adventuring, exposure, or practice) to the Abilities of her animal form.
 
-
 ## 6. Combat Statistics
 
 Combat Statistics are calculated as normal (page 393), using the Natural Weapons Table. Because combat totals are affected by Characteristics, these weapons may be used for creatures of all sizes; a mouse and a cat have the same basic statistics for their bite attack, but the combat totals are very different.
@@ -22667,8 +22256,6 @@ Vis: 1 pawn of Terram vis can be collected every year from his haunt, in the for
 
 Appearance: Baghl is the jinni of a dark cave found in the Elbruz mountains that was once used as a quarry until he drove off the miners. He may be appeased mainly by being left alone to enjoy his beautiful cave formations, although he sometimes agrees to converse with theological scholars. He appears as an obese man with a mule's head, pupilless eyes of jetblack stone, and quartz-veined limbs that heft an oversized maul. In physical form he can also assume the shape of a large black mule.
 
-
-
 ## Caladrius
 
 Magic Might: 14 (Animal)
@@ -22716,7 +22303,6 @@ Both kings and magi greatly prize the caladrius for its healing powers. Such a p
 ## Essential Traits
 
 Essential traits are possessed by some creatures affected by the Magic Realm, and indicate features of their being that are part of their essential nature. Magic cannot, therefore, make them act against those traits. They are indicated with an asterisk in the character statistics; for more details, see Realms of Power: Magic, page 54.
-
 
 ## Daimons
 
@@ -22783,7 +22369,6 @@ against them,
 but he is most
 powerful within
 his own tomb.
-
 
 ## Chnoubis the Serpent
 
@@ -22853,9 +22438,6 @@ adventures and became one of the greatest warriors in history. He returned after
 
 When anyone enters the tomb, however, the Daimon of Dietrich animates his hulking corpse. If you come seeking wisdom and prove yourself worthy, he will dispense kingly advice. If you come seeking power, you will face one of the greatest warriors on Earth, even in death. Another legend propagated by the Church says Dietrich, a heretic suspected of Arianism, was thrown into the volcanic Mount Etna. The legend of Dietrich appears in Das Heldenbuch ("The Book of Heroes") a collection of German romances published in the early 13th century, organizing the tales of the Ostrogoths and Franconians into two epic cycles.
 
-
-
-
 ## Gudruty-kom the Giant
 
 Magic Might: 40 (Auram)
@@ -22907,8 +22489,6 @@ Dispel, varies, Init +5, Vim: May perform any Perdo Vim spell at will, for the c
 Vis: Leaves 3 pawns of Animal Vis in the form of a white feather when banished.
 
 The nurse of Dionysus, Hipta is a powerful shapechanger but favors the form of a lovely dove. Her name and spells to summon her can be found in several ancient texts. She is invoked for forgiveness from curses and magical harm.
-
-
 
 ## Donos
 
@@ -22967,8 +22547,6 @@ Vis: None.
 
 A Spirit charged with ports and harbors, the Greeks called him Palaemon and Melicertes. His purview also covers keys, locks, and domestic animals. In Rome he was worshipped as a god, with a temple located near the Forum Boarium. His feast, the Portunalia, is observed on August 17th. The rite to summon him involves throwing keys into a fire. When summoned, he appears either as a ghostly serpent or the shadowy visage of a bearded man in a leather apron, but he never takes on a solid physical form.
 
-
-
 ## Pukis, Dragon of the hearth
 
 Magic Might: 10 (Ignem)
@@ -23012,7 +22590,6 @@ Vis: 2 Ignem, 1 Rego
 
 First summoned by Baltic wizards, this Daimon takes the form of a small dragon of fire that dwells
 
-
 hearth or a fireplace. It enjoys napping amongst burning logs and coals, coiling its long-snake like body beneath the flames to conceal its presence. It will leave gifts for the master of the household, possibly stolen from somewhere else, and will attack strangers if they act destructively. If it is treated poorly, it will cause mischief before departing. The magus Andrilikes, a theurgist of the Novgorod tribunal, wrote a Hermetic ritual for summoning this lesser Daimon to his sanctum, and has given copies to several of his friends.
 
 ## Clementals
@@ -23031,19 +22608,20 @@ An elemental does not replenish its Might Pool every day, but instead only recov
 
 The Size of an elemental is dependent on the Might chosen for it, and the Might of an elemental also determines its typical Characteristics. The table below indicates values for the eight Characteristics at different Might scores.
 
-| $M_{\rm IGHT}$ | Size | Characteristics                                   |
-|----------------|------|---------------------------------------------------|
-| 1              | -18  | +2, $+2$ , $+1$ , $+1$ , $+1$ , $0$ , $-1$ , $-1$ |
-| 5              | -6   | +3, $+2$ , $+1$ , $+1$ , $0$ , $0$ , $-1$ , $-2$  |
-| 10             | -3   | +3, $+3$ , $+1$ , $+1$ , $0$ , $0$ , $-1$ , $-3$  |
-| 15             | 0    | +4, $+3$ , $+2$ , $+1$ , $0$ , $0$ , $-2$ , $-4$  |
-| 20             | +3   | +6, $+5$ , $+2$ , $+2$ , $+1$ , $0$ , $-5$ , $-6$ |
-| 25             | +6   | +7, +6, +2, +2, +1, 0, -6, -7                     |
-| 30             | +9   | +8, $+6$ , $+2$ , $+2$ , $+1$ , $0$ , $-6$ , $-8$ |
-| 35             | +12  | +9, +7, +2, +2, +1, 0, -7, -9                     |
-| 40             | +15  | +10, +8, +2, +2, +1, 0, -8, -10                   |
-| 45             | +18  | +11, +9, +2, +2, +1, 0, -9, -11                   |
-| 50             | +21  | +12, +9, +2, +2, +1, 0, -9, -12                   |
+
+| $M_{\rm IGHT}$ | Size | Characteristics                                  |
+| ---------------- | ------ | -------------------------------------------------- |
+| 1              | -18  | +2,$+2$ , $+1$ , $+1$ , $+1$ , $0$ , $-1$ , $-1$ |
+| 5              | -6   | +3,$+2$ , $+1$ , $+1$ , $0$ , $0$ , $-1$ , $-2$  |
+| 10             | -3   | +3,$+3$ , $+1$ , $+1$ , $0$ , $0$ , $-1$ , $-3$  |
+| 15             | 0    | +4,$+3$ , $+2$ , $+1$ , $0$ , $0$ , $-2$ , $-4$  |
+| 20             | +3   | +6,$+5$ , $+2$ , $+2$ , $+1$ , $0$ , $-5$ , $-6$ |
+| 25             | +6   | +7, +6, +2, +2, +1, 0, -6, -7                    |
+| 30             | +9   | +8,$+6$ , $+2$ , $+2$ , $+1$ , $0$ , $-6$ , $-8$ |
+| 35             | +12  | +9, +7, +2, +2, +1, 0, -7, -9                    |
+| 40             | +15  | +10, +8, +2, +2, +1, 0, -8, -10                  |
+| 45             | +18  | +11, +9, +2, +2, +1, 0, -9, -11                  |
+| 50             | +21  | +12, +9, +2, +2, +1, 0, -9, -12                  |
 
 ## Magic and Clementals
 
@@ -23060,9 +22638,6 @@ Elementals are not living, thus they cannot suffer wounds; instead, each blow se
 The universe is made up of building blocks called atoms (from atomas, meaning "uncuttable"). There are four varieties of atoms, and each atom possesses two qualities that govern its nature: earth is cold and dry; water is cold and moist; air is hot and moist; and fire is hot and dry. The corpuscles of atoms are the basic building blocks of all matter, and have size, shape, and color. Corpuscles of earth are cubes, those of water are icosahedrons (shaped like a 20-sided die), air corpuscles are octahedrons (an eight-sided die), and fire corpuscles are tetrahedrons (a four-sided die or pyramid). The size of the corpuscles determine the type of matter that it forms. Small tetrahedral corpuscles make up the fine blue fire that gives the sky its color, whereas large smoky flames are made from the largest corpuscles of fire. Air that is thin and pure is formed from small octahedra; whereas mist is made from large, dense octahedra. Oil receives its thickness from its large corpuscles of water; but very fine atoms make up volatile liquids like spirit of wine. Rock is made of large and heavy corpuscles; whereas sand is made of much finer cubes.
 
 The moist quality causes a thing to adapt to its external conditions, whereas dryness causes a thing to define its own shape and bounds. As a consequence, moist things tend to be volatile and expansive, since they can fill spaces in their surroundings, whereas dry things are fixed and structured. Hotness causes matter to separate and seek those of its own kind, but coldness promotes mixing of matter and coagulation. The world is formed of four regions of elemental matter, with the self-defining dry elements forming the innermost layer of earth and the outermost layer of fire. The two cold elements sink to the center of the earth whereas the two hot ones seek to separate and rise, leaving the final order, from the center, as earth, water, air, and fire. Beyond the region of fire is the Lunar Sphere, which separates the material and the celestial realms. More details on this issue can be found in Art & Academe.
-
-
-
 
 ## Story Seeds: The Forgotten Child
 
@@ -23168,9 +22743,6 @@ Earth elementals are always thirsty, and direct contact with the elemental remov
 
 PeAq 15 (Base 5, +1 Touch, +1 Part)
 
-
-
-
 ## Water Clementals
 
 The lymphae ("pure waters") are also called undines, undena, or ondines (all from Latin unda, meaning "fluid, wave"), as well as aquacolae ("water dwellers"), nymphs (a term also applied to certain faeries), and alcyones. Only naturally occurring liquids can produce elementals, typically of salt or fresh water. Water that has been separated from its source cannot be rarefied into a lympha, nor can liquid extracted from its source by human effort. Lymphae in a relaxed state sink into a thin film or puddle, perhaps even soaking into the ground. They can pull themselves up into symmetrical humps faceted with triangular units — their corpuscles are naturally icosahedral. The fluid that makes them is always of the utmost purity, often crystal clear and sparkling.
@@ -23271,8 +22843,6 @@ The touch of the elemental causes a flash of coruscating lightning, inflicting +
 This power is suitable for a lightning or storm elemental.
 CrAu 30 (Base 5, +1 Touch, +4 unnatural)
 
-
-
 ## An Air Clemental
 
 Magic Might: 15 (Auram)
@@ -23345,7 +22915,6 @@ Powers
 
 Burn, 0 points, Init +0, Ignem: see insert for details Fascination, 3 points, Init +6, Mentem: see insert for details
 
-
 Enliven the Gross Fire, 6 points, Init –10, Ignem: This ritual-like power rarefies (creates) a fire elemental from a sufficient amount of raw elemental matter. The elemental can have any Might less than that of the creature using this power. The elemental is automatically under the control of the creature; this power can also be used to control elementals which are not of the creature's own making, but in this case must Penetrate the elemental's Might. When the creature has no further use for the elemental, its control lapses but the elemental remains.
 
 Vis: 3 pawns of Ignem, in body.
@@ -23373,7 +22942,6 @@ Heat of the Searing Forge, 1 point, Init equal to (Qik + 6), Ignem
 
 R: Voice, D: Mom, T: Ind Like the Creo Ignem spell of the same name. Note that this power works at a distance, whereas the Burn power affects only items that touch the elemental. Crlg 10 (Base 4, +2 Voice)
 
-
 ## Ghostly Warder
 
 Characteristics: Int +1, Per +1, Pre +1, Com +1,
@@ -23396,10 +22964,12 @@ Appearance: An older peasant woman, rather gaunt, dressed in simple but well-rep
 
 > daily life. This may be a distaff and spindle, or a pot, or a broom; it changes from time to time. Note that she is invisible to characters without an appropriate Virtue.
 
-> > This Ghostly Warder (see the Magical Warder Virtue, page 93) was the character's mother, aunt, or possibly grandmother. She
+>> This Ghostly Warder (see the Magical Warder Virtue, page 93) was the character's mother, aunt, or possibly grandmother. She
+>>
 
-> > > still gives him all the advice he received as a child, such as to wear warm clothes and stay away from the river, but she is also quite perceptive, both about people and about mundane events
-
+>>> still gives him all the advice he received as a child, such as to wear warm clothes and stay away from the river, but she is also quite perceptive, both about people and about mundane events
+>>>
+>>
 
 ## A Typical Giant
 
@@ -23493,7 +23063,6 @@ Abilities: (Area) Lore 3 (nobles), Animal Handling 3 (horses), Athletics 2 (runn
 
 The spirit of a local knight who died in battle some years ago still haunts his former lands, terrorizing the countryside in an attempt to force the living to lay him to rest and end what he thinks are the torments of Purgatory. Sir Giles believes his great sin was that he killed another knight in tournament. His eagerness to win glory was so great that he killed his opponent through excessive force. He thinks that if he can ensure his victim's widow is well cared for, he'll be able to go to Heaven. In fact, he is guite mistaken. His real sin is the pride that drove him to kill his opponent and even now prevents him from true repentance. Only when he comes to terms with how his pride stands in the way of his redemption, and how it caused suffering to others, will he truly pass on.
 
-
 Donning the Corporeal Veil, 5 points, Init -1. Corpus: Sir Giles can assume material form
 
 Riding the Phantom Steed, 2 points, Init 0, Animal R: Touch, D: Sun, T: Ind
@@ -23515,7 +23084,6 @@ Encumbrance: 2 (4) Vis: 4 Mentem in lance
 Appearance: Sir Giles is a Magical apparition — a ghostly knight in black mail, riding a fearsome black destrier. His shield and surcoat are solid black without any heraldic device, and atop his helm is a crest shaped like a cockerel. If he removes his helm, he appears to be a rather handsome, well-groomed knight whose face shows an expression of fierce pride.
 
 Not all ghosts belong to the Magic realm; there are Infernal and Faerie ghosts as well. Magical ghosts remain tied to the world through some overwhelming emotion or personal need. If its connection is somehow
-
 
 ## A Magical Wolf
 
@@ -23723,7 +23291,6 @@ Vis: 2 Corpus in eyes (1 per eye)
 
 **Appearance**: A shriveled, leathery corpse; its eyes blaze with unnatural fury.
 
-
 ## Revenant, Skeletal Form
 
 Magic Might:
@@ -23801,7 +23368,6 @@ Wound Penalties: -1 (1-3),
 -3 (4-6), -5 (7-9), Incapacitated
 
 (10-12), Dead (13+)
-
 
 Abilities: Brawl 3 (fangs), Ignem Resistance 3 (cold), Survival 2 (winter)
 
@@ -23889,7 +23455,6 @@ A Stag of Virtue enjoys vigorous health and can live a very long time (in fact, 
 
 The right antler of a Stag of Virtue has healing powers and is greatly sought by hedge wizards and magi alike. The stag always buries its antlers after shedding them. Anyone who consumes the flesh of a Stag of Virtue gains a Lesser Immunity to fevers for Moon duration. The stag itself is immune to fevers and the venison transfers this immunity through the Law of Contagion.
 
-
 ## Stellatus, the Dragon
 
 Magic Might: 50 (Ignem)
@@ -23922,7 +23487,6 @@ Abilities: [Area] Lore 5 (history), Awareness 8 (human beings), Brawl 7 (claws),
 
 Human Form: 1 point, Init 0, Corpus: The dragon can assume the form of a human being. This is always the same form, a man with dark hair and eves, in the prime of life. The transformation lasts until
 
-
 he eats or drinks, or until Stellatus uses the same power again to change back. The dragon has all his powers in human form, and the same Characteristics, but he is much weaker in combat and thus changes back if he needs to fight.
 
 Instill Loyalty, 5 points, Init 0, Mentem: Stellatus can make any individual whom he can see totally loyal. This does not remove free will, but the victim is completely loval to the dragon, and this loyalty lasts as long as Stellatus is alive.
@@ -23942,7 +23506,6 @@ Appearance: An enormous lizard with great wings, covered in scales of red so dar
 Stellatus is an ancient dragon who has laired under the same mountain range for centuries. Most of the time he lies quietly in his lair, contemplating his treasure, or travels the area around in human form (he can go for weeks without eating or drinking). Every couple of centuries, he erupts in draconic form to carry out some plan or seize some item, and every decade or so some would-be hero disturbs him.
 
 The dragon is aware of The Gift, but it inspires him with curiosity, making him less likely to simply kill magi who enter his lair. A Tytalus maga did spend some time challenging the dragon in various ways, and although Stellatus eventually killed her by rigging an entirely mundane rock-fall trap, he quite enjoyed the experience. He regards himself as superior to all Hermetic magi, and is firmly convinced that he is immune to their magic. With a Magic Resistance of 50, this is almost, but not quite, true.
-
 
 Virtues and Flaws: Great Communication, Improved Characteristics, Sharp Ears
 
@@ -23972,7 +23535,6 @@ This spirit of an echo lurks in caves or ravines. Its name literally means "dwar
 
 ## Creatures of Faerie
 
-
 aeries are essentially bound to stories, and their roles in those stories. They are made up of stray matter held together with mystical rules.
 
 Despite this, their physical attacks are not blocked by Magic Resistance, including the Parma Magica.
@@ -24000,7 +23562,6 @@ A Traditional Ward is a taboo: the faerie may not touch a thing protected by the
 A Sovereign Ward is a powerful taboo. A faerie cannot hurt someone carrying that faerie's sovereign ward. This includes indirect harm like burning down the building the warded person is in, or poisoning the well at which they are likely to drink. Direct contact with a sovereign ward destroys the body of a faerie, removing it from the scenario.
 
 Realms of Power: Faerie contains much more detail on faeries and their realms, along with many more examples of faerie creatures.
-
 
 ## Faerie Lounds
 
@@ -24104,8 +23665,6 @@ Appearance: A knight clad in silver leaves of metal, astride a fine horse. These
 
 These faeries are often encountered outside courts, on lonely roads, and guarding bridges. They seek out defeat by humans as a way of gaining additional combat Pretenses. They are never seen with their armor off, so they may be a role that other faeries take on when they wish to enjoy some blood sport. Faerie Knights are more bound to the rules of chivalry than real knights, and so they do not use the Damaging Effect Power on their weapons against worthy foes.
 
-
-
 ## Południca
 
 Faerie Might: 10 (Auram)
@@ -24137,7 +23696,6 @@ Shift Human Shapes: 1 point, Init –1, Corpus: (beautiful to hideous within a r
 Transform Into Whirlwind: 3 points, +2 Init, Auram Vis: 2 pawns (scythe, Ignem)
 
 Appearance: This faerie may appear as a beautiful maiden, a crone or an adolescent girl. She wears a white dress and carries a scythe or shears. She may travel as a dust devil, and is used as a nursery terror, to frighten children so that they do not harm crops.
-
 
 ## Story Seed: Południca
 
@@ -24172,8 +23730,6 @@ Wound Penalties: -1 (1-3), -3 (4-6), -5 (7-9),
 Incapacitated (10–12)
 
 Pretenses: Carouse 9 (drinking), Charm 4 (drunk people), Etiquette 2 (parties), Faerie Lore 3 (drinks), Folk Ken 3 (drunk people), Guile 9 (convincing people to drink more), Living Language 5
-
-
 
 (metaphors for drinking and getting drunk), Music 1 (drinking songs), Single Weapon (club) 1 Powers:
 
@@ -24223,7 +23779,6 @@ Blinding Light of the Pious, 1 point, Init +3, Ignem: as Flash of the Scarlet Fl
 
 Tay al-Ard (Travel), 4 points, Init +1, Corpus: this power instantly transports Jumayl and 2 individuals he holds hands with from one location to another that he has visited before or has an Arcane Connection to, regardless of distance. As Leap of Homecoming, with R: Touch, T: Group
 
-
 Equipment: a fine damascene steel long sword, leather scale caravan guard armor, flashy jewelry Vis: 3 pawns of Vim vis, camel's tooth
 
 Appearance: Jumayl ("little camel") is a comely, lithe man of uncertain oriental appearance, alabaster skin and white hair. One eye is iridescent green, the other ocean blue. He favors swirling robes dyed a deep blue color over light leather armor, highlighted by gold jewelry.
@@ -24231,7 +23786,6 @@ Appearance: Jumayl ("little camel") is a comely, lithe man of uncertain oriental
 This jinni, one of the jann, is a mercenary guide, forced to wander from caravanserai to caravanserai along the trade routes of the Levant, Arabia, Persia, Transoxiana, and beyond for a crime his brother committed. An excellent swordsman and skilled outdoorsman, he is well known among the Muslim merchants and even Levantine Redcaps for his easy-going nature and bravado in defending caravans from raiders and brigands. Like most Faerie jinn, he can change into an animal form — in his case, a white wild Bactrian camel using his Skinchanger Virtue.
 
 Although immune to Fatigue like other faeries, Jumayl is unusually susceptible to the effects of mundane alcohol — a weakness that helps him to play his role within stories along the caravan routes. Unlike most faeries, his Might points, once spent, can only recover if he gets a full night's rest and eats a meal in the company of fellow travelers. This must be done within a human community, eating travel rations or caravanserai meals, drinking beverages fermented by humans and listening to humans sing or tell tales about their travels. For every eight hours the character rests, he recovers a number of Might Points equal to the prevailing Aura as modified by the Realm Interaction Table, or 1, whichever is greater. He does not actually need to eat or drink however. Jumayl knows enough about wizards to avoid leaving Arcane Connections carelessly and keeps his True Name a close secret.
-
 
 ## Tarlan the Wolf
 
@@ -24352,7 +23906,6 @@ Vis: None: the wolf is an extension of the valkyrie. Appearance: A wolf the size
 
 These minor goddesses of the Norse pantheon are no longer worshiped in Mythic Europe, but have been encountered by magi in Elysium, and in their ancient places of power in Scandinavia. Their name means "Chooser of the Slain", because they are believed to choose who lives and dies during battle, and which spirits are worthy of transformation into einherjar, spiritual warriors awaiting Ragnarok. They also act as serving maids in Valhalla. Many have names that evoke the tumult of battle. They ride through the sky, invisibly, on wolves.
 
-
 if it wishes.
 
 ## Great Lezi Variants
@@ -24363,7 +23916,7 @@ Gigantic fauns are found in the Basque country in Iberia. Once they were much li
 
 Faerie Might: 40 (Herbam)
 
-Characteristics: For Size 0\*: Int +3, Per +3, Pre -2, Com 0, Str  $+6^*$ , Sta +3, Dex 0, Qik  $0^*$ 
+Characteristics: For Size 0\*: Int +3, Per +3, Pre -2, Com 0, Str  $+6^*$ , Sta +3, Dex 0, Qik  $0^*$
 
 For every +1 Size, add +2 Strength and subtract 1 Quickness. For every -1 in Size, subtract 2 Strength and add +1 Quickness.
 
@@ -24377,11 +23930,12 @@ harm humans who have turned all of their clothes backwards.
 
 Personality Traits: Loves Forest +5 Combat:
 
-2 x Brawl (club)\* Init:1-Size, Attack 8, Defense 7–Size, Damage  $+9+(Size \times 2)$ 
+2 x Brawl (club)\* Init:1-Size, Attack 8, Defense 7–Size, Damage  $+9+(Size \times 2)$
 
 > \* The lezi's arms are made of solid wood, and do damage like a
 
-> > club. They are wielded with the Brawl Pretense, even if the lezi generates clubs to use in battle.
+>> club. They are wielded with the Brawl Pretense, even if the lezi generates clubs to use in battle.
+>>
 
 Soak: +15 Wound Penalties: See chart.
 
@@ -24417,13 +23971,14 @@ The Forest Lord is found in Slavic lands. He usually appears as a tall, pale, be
 
 ## Great Lezi Cound Penalties
 
-| Size        | -1   | -3    | -5    | INCAPACITATED | DEAD |
-|-------------|------|-------|-------|---------------|------|
-| –3 or lower | 1-2  | 3–4   | 5–6   | 7–8           | 9+   |
-| -1          | 1-4  | 5-8   | 9–12  | 13–16         | 17+  |
-| + 1         | 1–6  | 7–12  | 13–18 | 19–25         | 26+  |
-| +3          | 1-8  | 9–16  | 17–24 | 25–32         | 33+  |
-| +7          | 1-12 | 13-24 | 25–36 | 37–48         | 49+  |
+
+| Size         | -1   | -3    | -5     | INCAPACITATED | DEAD |
+| -------------- | ------ | ------- | -------- | --------------- | ------ |
+| –3 or lower | 1-2  | 3–4  | 5–6   | 7–8          | 9+   |
+| -1           | 1-4  | 5-8   | 9–12  | 13–16        | 17+  |
+| + 1          | 1–6 | 7–12 | 13–18 | 19–25        | 26+  |
+| +3           | 1-8  | 9–16 | 17–24 | 25–32        | 33+  |
+| +7           | 1-12 | 13-24 | 25–36 | 37–48        | 49+  |
 
 ## Lord Marsyne
 
@@ -24475,7 +24030,6 @@ in the far north or in a range of high mountains. His home is a castle of fantas
 
 Most of the time. the court has little direct contact with humans. However, Lord Marsyne always has a human wife, and every so often he needs to find a new one. He always chooses a beautiful. young woman, and looks for some spark of creativity, independence, and spirit. He is quite
 
-
 taken by The Gift, and any beautiful, young Gifted woman in the area he is searching is very likely to be wooed. The wooing is utterly sincere, as the wife must return of her own free will.
 
 Marsyne's wife plays an important role in the politics of the court, having her own set of faerie ladies-in-waiting and servants, and presiding over many of the tournaments. She also plays an important mystical role, as her presence and creativity allow the faeries to do new things. One thing she is not, is a physical wife to Lord Marsyne.
@@ -24484,9 +24038,7 @@ As long as the wife follows the rules of the court, everything is fine. Marsyne 
 
 It is also possible for a wife to win her freedom, either through a successful challenge by an external champion, or through her own wits. Lord Marsyne remains fond of any wife who wins her freedom fairly, because that is part of the rules, but any who simply flee are brought back and entombed in the ice.
 
-
 ## Infernal Creatures
-
 
 nfernal creatures are sometimes called demons or devils. These terms refer to the same group of creatures, and the choice of which to use is purely a matter
 
@@ -24525,7 +24077,6 @@ Possession, variable points, Init +2, Mentem: To possess a human, the demon may 
 The demon may use any of its powers that it has sufficient Possession Might Pool to use, but these points do not regenerate until the possession ends. The demon may choose to extend its power over its host to give it Magic Resistance equal to the Possession Might, if it does so, then the host is excluded from wards against supernatural beings just as if it were the demon itself. The same is true if the host is currently under the effects of one of the demon's powers. In all other situations, the demon can 'hide' within the host, and walk through such wards with impunity.
 
 If the demon attempts to force the victim to act contrary to his nature, or to use any of the energumen's own magical powers, the demon
-
 
 must spend points from its Possession Might Pool. A supernatural power (including spell-casting) requires 1 Might point per magnitude (for a spell or similar effect); 1 Might point per point of a Supernatural Ability (such as Entrancement); or Might points equal to the Might points expended by the energumen. A questionable action which is contrary to the nature of the host requires the demon to exceed the possessed being's Personality Trait roll on a stress die + Might points spent. The storyguide may give a modifier to the Personality Trait roll based on the nature of the command. Over time, exercise of the demon's Obsession power on the host may result in a reduced resistance to such questionable actions. Note that use of a supernatural power might also be contrary to the victim's nature, in which case both costs must be met.
 
@@ -24660,7 +24211,6 @@ Baal-Peor (or Belphegor) is a demon of wealth. He creates discord by moving mort
 
 Baal-Peor was worshipped, in ancient times, less as a wealth-god than as an embodiment of the desire to consume everything and transform it into vileness. His title, "Lord of the Openings" describes him: an unfillable mouth leading to a ceaseless defecation. Priests and pilgrims used the space before his statue as a latrine, as a form of worship. Baal-Peor, it is said, was sent by his masters to seek the truth of rumors that humans lived in marital bliss. He tried to live as a woman, but was so disgusted by marital relations that he fled back to Hell.
 
-
 ## Bartholomew
 
 Infernal Might: 50 (Mentem)
@@ -24725,7 +24275,8 @@ The advice he gives is good business advice in itself, but he normally backs it 
 
 > charity, suggesting that the merchant give money away to reinforce his social standing. He also gives extensive advice on how to calculate how much to give, so that it doesn't cause the merchant financial problems.
 
-> > This has the effect of making the merchant feel that he is doing a lot of good by giving alms, while removing any actual virtue it has. Anyone following Bartholomew's advice gives only for their own glory, and thus earns no merit. They are sinners, but they don't realize that they are, and thus they do not see the need to repent and reform. Bartholomew's strategy is subtle, but it wins many souls for Hell.
+>> This has the effect of making the merchant feel that he is doing a lot of good by giving alms, while removing any actual virtue it has. Anyone following Bartholomew's advice gives only for their own glory, and thus earns no merit. They are sinners, but they don't realize that they are, and thus they do not see the need to repent and reform. Bartholomew's strategy is subtle, but it wins many souls for Hell.
+>>
 
 ## Bomburkhan
 
@@ -24764,7 +24315,6 @@ Weakness: Vulnerability (salt) Vis: 1 pawn of Vim, in wings
 Appearance: Bomburkhan appears as a jet-black bat, no bigger than a person's hand, but with a pinched and twisted human face protruding from the black fur.
 
 Bomburkhan was released from Hell after the false bravado of a Crusader led to the capture of Jerusalem. Since then he has taken great delight in puncturing the over-inflated egos of the prideful. This demon has an ability that could be exceedingly powerful, depending upon the magnitude of a speaker's self-importance. For example, should a magus declaim "no-one can breach my Parma Magica!", a nearby grog might suddenly hurl a Pilum of Fire which slices straight through it! Fortunately for all concerned, this power uses all of Bomburkhan's Might pool, and he grows bored very easily, wandering off once his mischief is done.
-
 
 # Bordelon, a Personal Tormentor
 
@@ -24833,8 +24383,6 @@ committing the very sin of Satan himself. Bordelon chooses a child early on in h
 
 the presumption.
 
-
-
 ## The Buran of Yenghissar
 
 Infernal Might: 25 (Auram)
@@ -24876,7 +24424,6 @@ costs one point, a larger illusion which fills a
 room costs five points. These visions always have
 a flaw, however (they smell wrong, can only be
 seen by one target, etc.).
-
 
 Elemental Control of Wind, variable points; Init +1;
 Auram: The buran has control over the winds of nature, which it uses to wreak destruction on the desert fringes. It may create any Creo, Muto, or Rego effect appropriate to Auram, at a cost of 1 Might Point per magnitude of effect. The demon cannot create any effect with a level greater than its Infernal Might, nor duplicate Ritual effects.
@@ -24946,7 +24493,6 @@ Appearance: Fimus appears as an immense man apparently put together out of bould
 
 Fimus is but one of many brother-demons (all with the same name); their mother produces more every time she evacuates her bowels. He and his brothers are popular foot-soldiers and shocktroops used by other demons, because they are effective warriors, and too stupid to effectively entertain rebellious thoughts. Each of the brothers has a different Abhorrent Material, depending upon what their mother had been eating prior to their birth.
 
-
 ## Michael
 
 Infernal Might: 10 (Corpus)
@@ -24972,7 +24518,6 @@ Fatigue levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-
 Abilities: Athletics 5 (running away), Awareness 4 (victims), Craft (practical jokes) 8 (painful and humiliating ones), Folk Ken 5 (figuring out what will make someone most angry), Guile 10 (pretending to be someone else), Intrigue 3 (maneuvering people into his plots)
 
 Change Form, 0 points, Init +0, Corpus: Michael can change his appearance to match that of any human being. The change includes clothes and other equipment, as necessary.
-
 
 Coagulation, 3 points, Init -1, Corpus
 
@@ -25062,7 +24607,6 @@ Minor Supernatural Flaw, animals only
 
 The creature has been corrupted by Infernal power, and has acquired an Infernal Might of 5. The negative side of its character is brought to the fore, and it acquires one sinful Personality Trait at +6, such as Violent, Gluttonous or Lustful. As part of the corruption, the beast acquires some sort of disgusting or repellent appearance, decreasing its Presence to -6. However, should the animal make any attempt to scare or intimidate an opponent, this should be treated as a Presence of +6. Despite
 
-
 this deformity, it is possible (although difficult) to pass the animal off as a natural member of its species. Finally, the creature acquires the Tainted with Evil Flaw which affects the reactions of both humans and other animals towards it. Corrupted Beasts do not react negatively to The Gift.
 
 #### DEMONIC WEAKNESS
@@ -25090,7 +24634,6 @@ of the Corrupt Beast. The creature has an Infernal
 Power which it may activate by spending points from its Might Pool. Design the effect as if it were a
 Hermetic spell, or an Infernal Power, if you have
 Realms of Power: The Infernal. The level of effect cannot exceed the Corrupted Beast's (Infernal Might + 10).
-
 
 # Example Porrifying Appearances
 
@@ -25180,7 +24723,6 @@ Abilities: Athletics 4 (pursuit), Awareness 4 (keeping watch), Brawl 6 (bite), H
 
 Spit Fire, 4 points, Init +6, Ignem: The hound may spit a bolt of fire at its opponents; which does +15 damage to the individual it hits. The
 
-
 creature may bite one opponent and spit fire at another in the same round.
 
 Vis: 2 pawns of Vim, one in each head.
@@ -25190,7 +24732,6 @@ Appearance: This huge dog has two slavering heads protruding from its massive sh
 This corrupted beast was created by a diabolist to be a guard for his sanctum. He controls it with an Infernal charm, but is fearful of the day that this charm fails, for he knows that the dog hates him.
 
 # Creatures of the Divine
-
 
 reatures with Divine Might use the normal rules for determining Magic Resistance, Penetration, and whether their powers can be dispelled.
 
@@ -25207,7 +24748,6 @@ actions and hearts, not on the powers that they might have. If you decide that m
 All angels possess the following powers:
 
 Angelic Mantle, 2 points, +12, Corpus: Angels use this power to manifest in the mundane world and appear to take on mortal flesh. In reality, this form is entirely formed from their intellect, but appears and acts exactly like real flesh. While in this "material" form, they must follow the mundane world's natural laws, and so are limited, with Characteristic and Soak scores, and Fatigue and Wound levels. Although angels are genderless, their Mantles normally do have a gender; while in their Mantle, angels may breed, and sire or bear children (although no angel has done so since the flood), although they do not
-
 
 age. If they are "killed" while in their Mantle, they return to their spiritual form, but may if they choose (and have the necessary Might Points) immediately use this power again. An angel's Mantle may appear as anything.
 
@@ -25307,8 +24847,6 @@ Kolazonta is one of the angels tasked by the lord to chastise His faithful for t
 
 — 4 Maccabees 7:11
 
-
-
 ## Lupersus
 
 Divine Might: 20 (Animal)
@@ -25358,8 +24896,6 @@ bearing. No matter what terrain he runs through,
 Lupersus never gets dirty.
 
 Lupersus has been sent by God to guard a holy hermit, provide him with food, and, occasionally, lead those in need of advice to the hermit who can provide it. He cannot speak, and has no wish to do so. While his main focus is on the hermit, Lupersus is generally compassionate, and helps those in trouble whom he finds within his range. Sometimes he leads them to safety, but most people do not trust a wolf. In those cases, he chases them to safety. Lupersus is not an angel, but rather a divine creature, and does not have the powers shared by all angels.
-
-
 
 ## Dasir, the Delper
 
@@ -25469,13 +25005,7 @@ slightly on whether magic is inherently sinful in your saga, his suggested cours
 
 Seferiel sometimes takes an interest in a particular magus, one whom he sees has great potential, and is a suitable antagonist for the Plagued by Angel Story Flaw. His divinely-appointed mission is, however, to the Order as a whole, and he travels across Europe to bring God's message to as many magi as possible.
 
-
-
-
-
-
 # XIV. Mythic Europe
-
 
 The official setting for Ars
 Magica is Mythic Europe, a
@@ -25489,9 +25019,7 @@ However, some players and storyguides can find this a little intimidating. There
 
 The reason for the historical setting is that it is fun to pretend that you are involved in history. If that isn't fun for your troupe, you should consider playing in a non-historical setting (see page 531).
 
-
 ## Making it Historical
-
 
 If you are playing a historical roleplaying game, you want the stories to feel historical. You should not attempt to do this by avoiding errors, because
 
@@ -25529,7 +25057,6 @@ A final option is to spend some time reading medieval legends and stories, and t
 
 The main body of this chapter, and other Ars Magica products, contain a large number of such aspects of medieval history, along with explicit suggestions for how to turn them into stories. It is entirely possible to create a saga with a very
 
-
 ## Medieval Physics
 
 Modern science is not true of Mythic Europe. The world is a sphere, but it is stationary at the center of the universe, and the stars and planets, including the Sun, are carried around it on great spheres. The lowest of these, the Lunar Sphere, is also the limit of the power of Hermetic magic. There are differences at a more immediate level, as well. Diseases are caused by imbalances in the four humors, not by infectious micro-organisms. An object in motion tends to come to a halt unless a force makes it continue moving. Worms and flies arise spontaneously from nonliving matter. These questions are discussed in detail in Art & Academe, which also provides rules for medicine and the feats of experimental philosophers.
@@ -25551,7 +25078,6 @@ suspension of disbelief on this point, and it is reasonable for players to simpl
 Of course, there is nothing to stop you from allowing the player magi in your saga to make major changes, and indeed there is a whole supplement, *Transforming Mythic Europe*, devoted to ways in which they can do exactly that.
 
 ## Pieces of History
-
 
 The following sections cover the Mythic European setting, concentrating on the more historical, or historically legendary, aspects. The Realms and Bestiary chapters provide some more ideas on the purely fantastic aspects of the setting. This is not a history text. It is generalized to the point that nothing in this section was exactly true of any part of medieval Europe, and there are some places where the generalizations didn't apply at all. If you want more specific and accurate history for a particular area, there are several Tribunal books available for **Ars Magica** 5th Edition.
 
@@ -25575,7 +25101,7 @@ Much more information about the Church is available in *The Church*.
 
 There is one God, eternal and unchanging, who created the world from nothing and sustains it from moment to moment. This God is three persons, the Father, Son, and Holy Spirit. The Son became a human being as Jesus Christ, an event called the Incarnation, which is considered the most important event in history. Jesus Christ died on the cross, the Crucifixion, and by his death paid the penalty for all the sins committed by human beings. On the third day, he rose from the dead, in the Resurrection, and forty days later he ascended to heaven.
 
-In the beginning, God created two humans, Adam and Eve, and placed them in the Garden of Eden. There, they were tempted by Satan and sinned, and this Original Sin tainted all of their descendants. Where once all of nature had served humankind, now it turned against them. Human beings in Original Sin can do nothing truly good, because their motives are always 
+In the beginning, God created two humans, Adam and Eve, and placed them in the Garden of Eden. There, they were tempted by Satan and sinned, and this Original Sin tainted all of their descendants. Where once all of nature had served humankind, now it turned against them. Human beings in Original Sin can do nothing truly good, because their motives are always
 tainted. Baptism washes away that stain, and fits a person to receive God's grace, which grants the ability to do good.
 
 Good acts are those which accord with God's will, and tend to His glory, while evil acts are those which do not. The seven deadly sins are the basic roots of almost all sins committed by human beings, and the Church warns against them in particular. They are Avarice, Envy, Greed, Lust, Pride, Sloth, and Wrath. On the other side, there are the three theological virtues: Faith, Hope, and Love, and the greatest of these is Love.
@@ -25634,7 +25160,6 @@ Actually receiving the bread is known as taking communion, and a person must con
 
 Because the consecrated bread and wine are extremely holy, they must be consumed completely during the service, with great care taken not to spill or drop any.
 
-
 ## Game Use: Sacraments
 
 The sacraments are as central a part of modern Catholicism, and many other contemporary varieties of Christianity, as they were of the medieval Church. Thus, a certain degree of care should be taken to avoid offending people. That said, they are a central part of medieval life, and thus make good stories.
@@ -25654,7 +25179,6 @@ The unbaptized pious character dies without working out the problem. After his d
 Saints are people who served God faithfully when alive, and have now died and joined the Church Triumphant in heaven. (Living Christians are often called the Church Militant, as they must still fight temptation and the wiles of the devil.) Strictly speaking, angels are not saints, as they are not and never were human, but the archangels Michael and Gabriel are often treated as saints.
 
 The importance of saints for living Christians is that they are willing to intercede with God on behalf of the living, and while they have no power of their own, God is willing to listen to them. The most important saint, by far, is the Virgin Mary, the mother of God, who is believed to have particularly strong influence. After her come the twelve Apostles, Christ's closest followers during His ministry on Earth, and particularly St Peter, the first Bishop of Rome and the rock on which the Church was built. St Paul, called the Apostle to the Gentiles, is of almost equal importance. There are many other saints, including the saints of the Old Testament, such as Abraham, Moses, and David, martyrs, who were killed for their faith, and witnesses, who bore witness to God's message in particularly impressive ways.
-
 
 The Church is, in 1220, moving towards an official list of recognized saints, although the process is not yet complete. Further, the Church recognizes that there are many saints in heaven who are not on the Church's list. The list includes only those saints that the Church is sure about, which means that they lived a clearly holy life, and that miracles have been attributed to their intercession after death.
 
@@ -25681,8 +25205,6 @@ The covenant comes into conflict, over land or some other resource, with a monas
 Members of the covenant become particularly devoted to a saint with a shrine some distance away, and pilgrimages become a feature of normal life. Even the magi might choose to venerate this saint.
 
 The covenant discovers an important relic in the course of an adventure. Keeping it at the covenant would guarantee a stream of pilgrims and an eventual Dominion aura, but giving it away would make a firm ally of the recipient — and possibly enemies of the other groups who wanted it.
-
-
 
 spiritual well-being of every human being in the area. In particular, bishops often find themselves protecting the Jews of a town from angry, and antisemitic, mobs.
 
@@ -25723,9 +25245,6 @@ In theory, one third of the tithe is supposed to be used to support the poor. In
 Magi still have to pay the tithe. God gives the increase on vis sources. Most priests won't care, but what if the local priest does?
 
 A covenant might be located so that the nearest major lord is a bishop or monastery, rather than a mundane noble. Alternatively, the mundane noble the covenant had good relations with might die without an heir, leave his lands to the Church, and give the covenant a new, powerful neighbor to handle.
-
-
-
 
 ## Monasteries
 
@@ -25795,8 +25314,6 @@ Within his fief, a lord is responsible for some aspects of law and order. The ex
 
 All the land in the fief is under the control of the lord. Some of it he farms himself (the demesne), the
 
-
-
 ## Game Use: Feudalism
 
 Because magi are required by the Code to avoid swearing fealty to any mundane lord, feudalism is more likely to be a part of the background of the saga, rather than an immediate source of story seeds. Still, the complex webs of loyalty it creates are ideal breeding grounds for stories.
@@ -25814,7 +25331,6 @@ Lords with scattered fiefs normally travel between those fiefs over the course o
 Lords also visit their vassals. In part this is to reinforce the bonds of loyalty, and to make sure that the vassal is treating the land well. It also serves as a way to weaken vassals who are becoming threatening, because they are required to support their lord and his entourage, an expensive undertaking.
 
 Finally, nobles simply enjoy visiting one another. Personal visits are the best way to stay in touch with friends and relatives, and the chance to visit new people helps to make life more interesting.
-
 
 ## Game Use: Travel
 
@@ -25857,8 +25373,6 @@ A magus was the fifth son of a powerful noble. Now his four older brothers have 
 A lord with no heirs comes to the magi for help in siring a son. This isn't very difficult for magi with the appropriate Arts, but the consequences may be profound.
 
 A lord with no male heirs raised his youngest daughter as a boy, to provide an heir within his family. He died when she was very young, but the family servants kept up the pretense, so that the girl is now the lord of the honor. She is, however, expected to marry a woman. She seeks help from the magi.
-
-
 
 getting at least one male heir. Daughters can be married to other nobles, thus building alliances, but younger sons must be found a place in the world. The Church is one obvious destination for them, as is service to a more powerful lord. The most powerful lords, such as kings, often create honors for their younger sons from holdings that have reverted to the king after treason, or when a line fails to produce heirs.
 
@@ -25930,8 +25444,6 @@ Most of the story ideas for markets and fairs also apply to towns.
 
 In some countries, towns have a great deal of discretion to run their own affairs, as long as they pay a certain amount of tax. Thus, a covenant might try to be legally recognized as a town. Many covenants are certainly large enough.
 
-
-
 domestic servants. Similarly, peasants with no land might head to the towns to work as laborers, or even find a trade.
 
 People visit the town even more often, because the larger towns are becoming, in effect, permanent fairs where the wealthy can buy almost anything they want. In most areas of Mythic Europe there are few adult peasants who haven't visited a town at least once.
@@ -25954,13 +25466,11 @@ Peasants make their living from the land or the sea, whether from arable crops, 
 
 Most peasant families are very nearly selfsufficient, growing their own food, maintaining
 
-
 their own homes, and mending their own clothes and furniture. However, they are as prone to curiosity as any other human being, and all have been to market, the overwhelming majority to town, and most on a pilgrimage to a local shrine at least. While they are all illiterate and without formal education, they are neither stupid nor completely uninformed, on the whole.
 
 In Mythic Europe, the supernatural is a part of the lives of most peasants. Minor magical creatures and faeries visit villages, or live in the crop fields, or watch over the pigs foraging in the local woods. A magical pool might make a virgin beautiful and irresistible if he or she bathes in it (local stories say it might work twice, but no-one has ever been able to try), a tree might grow enchanted apples that taste, and intoxicate, like the finest cider, or the leader of the local wolves might negotiate an agreement with the villagers every year, specifying how many sheep the pack will take. Very few villages are without any touch of the supernatural in the surrounding area, but most such touches have little effect on daily life.
 
 # Public Power for Women
-
 
 elatively few women hold public power in Mythic Europe. The elaboration of their roles below should not discourage players from selecting exceptional
 
@@ -26004,8 +25514,6 @@ It is rare for anyone, male or female, to be granted land for purely political f
 
 Some women claim land through invasion, allowing their retinue of knights to settle conquered areas as vassals. This requires loyal retainers and either a friendly monarch or a formidable reputation, as a mercenary captain or disloyal male vassal might try to swear fealty for the land himself. Such women rarely enter combat themselves, but since they are the leaders of their armies, it would be insubordinate to gainsay them if they wished it.
 
-
-
 ## Widow's Portion and Stewardship
 
 In most areas a widow is permitted to retain the use of a portion of her husband's lands for her own use after his death. As a rule of thumb, assume a widow can keep the profit, not income, of a third of her husband's land until she remarries. If the woman was already landed at marriage, and has no adult sons, then she is likely to have complete ownership of her lands returned to her. Widows are extremely common in Mythic Europe.
@@ -26015,7 +25523,6 @@ In some areas, like France, Castile and parts of the Holy Roman Empire, a widow 
 ## Nuns
 
 A third avenue for power, and one much enjoyed by the younger daughters of some lords, is the church. The role of nunneries is discussed in greater detail in the supplements *Realms of Power: The Divine Revised Edition* and *The Church*. Nuns are considered wards of the bishop, and brides of Christ. They cannot usually be forced to marry and are not answerable to their fathers or other local lords. Nuns hold a great deal of land in Mythic Europe, and their estates are not divided by inheritance.
-
 
 Young women may take temporary vows which allow them to retreat into the life of a nun while events unfold in the secular world. It is possible for a sufficiently influential nobleman to force a woman to leave the nunnery and marry, but this is rare. It is common for the female relatives of a man who has lost a war to retreat into the nunneries, so that they are not at the mercy of the victors.
 
@@ -26035,7 +25542,6 @@ After peace was concluded she sailed for England with the English army, departin
 
 Eleanor attended the Second Crusade with her husband, and was attended by a guard of female knights dressed as Amazons and mounted on white
 
-
 horses. Eleanor's right to lead her troops, as overlord of Aquitaine, was incontestable. The queens of several of the other leaders followed her example. Her behavior was considered scandalous, and led to a Papal Bull forbidding women from taking the cross in the Third Crusade.
 
 ## Conquest: Sikelgaita of Sicily
@@ -26054,7 +25560,6 @@ She was the primary proponent of the Pope's cause during the Investiture Controv
 
 # Errors and Anachronisms
 
-
 istorical errors are inevitable in any historical game. After all, even professional historians make historical errors in their books, which other professional
 
 historians then correct. In the game, an anachronism is only a problem if it spoils the illusion that the game takes place in a particular historical period. Thus, introducing guns and wristwatches is bound to be a problem, while getting the cut of men's tunics wrong is only a problem if one of your players is a specialist in medieval costume.
@@ -26065,13 +25570,9 @@ As you play the game, you might well want to read more about medieval history. T
 
 For things which have played an important role in the saga, that is unlikely to be an option. If the magi have been interacting extensively with the Parliament of England, you can't make it go away when you discover that, historically, it was first called ten years into your saga's future. The best option here, if something bothers you and is too important to change, is to explicitly move your saga to an alternate history. Work out some story as to why Parliament started thirty years earlier, or whatever. Since the player characters have been interacting with the feature extensively it is extremely unlikely that its current state would be historical anyway. It is worth remembering that, historically, there were no magi and no Order of Hermes, so the game is set in an alternate history in the first place.
 
-
-
-
 # XV. Stories
 
 # General Considerations
-
 
 here are a number of general points that you should bear in mind when writing stories or adventures for any roleplaying game, including Ars Magica.
 
@@ -26109,8 +25610,6 @@ Possibly the hardest part of an adventure is the beginning. It can be extremely 
 
 If possible, parts of the adventure should naturally flow into one another. The characters should not simply work out that they need to go to some place, they should work out that they need to go to that place and do something, and then when they do something it becomes clear what their following options are. If you don't do that, the
 
-
-
 ## Climaxes
 
 It is good for a story to reach a climax and finish there, rather than petering out. This is, however, very difficult to reconcile with the importance of not having a plot. The best way round it is to work out two or three possible ways to resolve the situation set up in the story, and to make sure that each is a climactic event in which the player characters play a central role.
@@ -26119,9 +25618,7 @@ Sometimes this is simply impossible, as only one climax can resolve everything, 
 
 This is probably the most flexible rule. If the players want to play through the aftermath in detail, because they enjoy that sort of roleplaying, you should certainly allow them to do so.
 
-
 ## Story Types
-
 
 he power level of a saga makes a large difference to the sorts of stories you can easily run.
 
@@ -26171,9 +25668,6 @@ Almost any long-running saga develops elements of soap opera, as the characters 
 - A lake which covers both a magical regio and a faerie regio. If characters enter the magical regio, they find many talking fish, which live in an elaborate society. In the faerie regio they find beautiful people living underwater, in a castle built of shells.
 - A covenant that fell under mysterious circumstances, and has lain undisturbed since. (See *Calebais: The Broken Covenant.*)
 
-
-
-
 the consequences of their actions simply give rise to more soap operatic complications.
 
 'Soap opera' does not mean that the stories are all about the adulteries of covenfolk, although some may be. It can include the ongoing relationship with a whimsical faerie queen, delicate negotiations with a dragon, and repeated battles with a demon who has injured the covenant in the past. Essentially, a soap opera story is one where the characters are constrained by the results of the past and their plans for the future.
@@ -26181,7 +25675,6 @@ the consequences of their actions simply give rise to more soap operatic complic
 Antagonists details a number of characters who would have ambiguous and difficult relations with player characters, and who could play an important part in soap-opera stories.
 
 # Story Ideas
-
 
 he first question faced by a new Ars Magica storyguide is 'What do magi do?'. What sort of adventures can you send them on? On the whole, they do not
 
@@ -26212,9 +25705,6 @@ Magi are not immune to the lure of treasure hunting, particularly the lure of ra
 You should be careful about handing out vis sources in the early sessions of the saga, as a generous supply of vis can lead to fast advancement on the part of the magi. If an isolated vis treasure is too large, you can just refrain from giving any more for a while, but taking a vis source away is more likely to annoy the players.
 
 Ancient Magic is, in an important way, a whole book of treasures for characters to hunt, although the reward is more likely to be knowledge than a physical item. Legends of Hermes describes important
-
-
-
 
 magi from the history of the Order, but involves the player characters by having them hunt the treasures that those magi left behind them.
 
@@ -26263,7 +25753,6 @@ The Order of Hermes has extensive politics, and the mundane elites of particular
 
 Quests shape a series of stories, rather than a single story. They differ from treasure hunting in that the object of the quest is more elevated, and the process of getting there is as important, and significant for the characters, as the discovery itself. In troupe-style play, a quest is best designed to be split up by stories involving other characters, so that people do not feel that one
 
-
 - The Holy Grail.
 - The cave where Bonisagus devised the Parma Magica.
 - The lost rituals of the Cult of Mercury.
@@ -26273,18 +25762,13 @@ Quests shape a series of stories, rather than a single story. They differ from t
 - The character's father.
 - True faith in God.
 
-
-
 # XVI. Sagas
-
 
 saga is a series of connected stories, centered around a single covenant. In some cases the only connection between two stories is that both happen
 
 to people who live at the covenant, and not even the same people. Other stories are linked into a longer narrative, with a major climax. This chapter provides guidance on how to run a good saga.
 
-
 # Background Questions
-
 
 hile products from Atlas Games provide a wealth of detail about the background of **Ars Magica**, there are always areas which are open
 
@@ -26332,8 +25816,6 @@ At the other extreme, you might find that worrying about game statistics interfe
 
 The rules and background for **Ars Magica** as written do favor a particular style of play, but if that doesn't match your style, you should change the rules and background so that it does.
 
-
-
 Both versions of the Order are fun to play, but they produce very different sagas. The more intrusive and organized the Order is, the larger the role that politics plays in the saga. An Order that does not bother to enforce its rules allows the player characters to essentially ignore it and concentrate on adventures. It also allows the player characters to become overtly involved in mundane politics.
 
 ## The Church
@@ -26368,7 +25850,6 @@ A third option is to have magic on the rise, again either in opposition to the o
 
 want to start with a saga that is closely tied to mundane historical facts, and increase the level of fantasy later. If only magic increases in power, the player characters might become more powerful than any opposition, but if all the realms increase together the newly-powerful magi will face newly-powerful priests, faeries, and demons, so the challenge remains, just at a greater scale.
 
-
 ## Resources
 
 The resources to which the player characters have access also influence the speed of advancement, although that influence is much lower than the speed of the saga. It doesn't matter how many books or how much vis the characters in a slow saga have; they never have time to study them.
@@ -26390,7 +25871,6 @@ Books also come in two sorts, summae and tractatus, and the analogy goes further
 Don't forget that magi in a covenant can write books for each other. You shouldn't interfere with such activities, but should take them into account.
 
 ## Saga Speed
-
 
 dvancement in **Ars Magica** happens by seasons of game time (see Advancement, page 375), and so the number of seasons of game time that pass
 
@@ -26450,7 +25930,6 @@ If you play this way, it is essential that a player's characters have good reaso
 
 This style of play is quite close to conventional roleplaying, in that everyone has their own characters, and no-one is handling more than one character at once. As an extra bonus, it makes it easy for players to introduce new characters if they become tired of an old character or don't like the way he is developing in the saga. This style avoids many of the serious problems that the conventional style raises in **Ars Magica**, but it can still lead to rather more magi going on an adventure than is ideal.
 
-
 ## Pooled Characters
 
 Playing with pooled characters means that, in addition to a player's magi and companions, there is also a 'pool' of grogs and bit-parts, who can be played by anyone. Thus, on a typical adventure, one player might play his magus, a second her companion, while the other two take grogs from the common pool.
@@ -26503,7 +25982,6 @@ Pure troupe style does, however, require a group of players all of whom are comf
 
 # Researching a Setting
 
-
 o, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the
 
 players (see page 178), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
@@ -26513,7 +25991,6 @@ players (see page 178), and then you need to put it somewhere. There are a numbe
 Research needn't involve books and libraries. You can search on the internet, ask questions on discussion forums, or watch historical documentaries on television. This is, after all, a game, so you should research the things you find interesting, in a way you find enjoyable.
 
 You can set your saga in a pure fantasy world. You might adapt a published one to include the Order of Hermes, or create your own. The advantage is that you don't have to worry about historical facts at all, and can have exactly the setting you want. The disadvantage is that the
-
 
 setting of **Ars Magica** has even influenced the mechanics, so you will find that you have to adapt or ignore a lot of the game material.
 
@@ -26547,7 +26024,6 @@ Somewhere before the 'learn Latin' stage is the amount of research that most aut
 
 ## Saga Styles
 
-
 here are a number of different ways of playing **Ars Magica**, all valid, and many compatible with each other. Indeed, almost any combination is
 
 possible over the course of a saga, particularly as there is nothing wrong with the style of a saga changing over time. The descriptions here are merely intended to give you some ideas, and help you work out what sort of saga you want to play.
@@ -26559,8 +26035,6 @@ The characters spend much of their time dealing with demons, faeries, giants, dr
 ## Mundane Interactions
 
 The characters spend a lot of time dealing with local nobles, churchmen, bandits, and traders. They might worry about whether the covenant has enough cattle to provide the vellum for its library, or be concerned with the trend towards violent antisemitism sweeping the country. Magic might be used a lot, but it tends to be low-key and subtle, even if it is powerful.
-
-
 
 ## Hermetic Life
 
@@ -26584,7 +26058,6 @@ The characters are trying to build something, whether abstract or concrete. They
 
 ## Saga Priorities
 
-
 he highest priority for any saga is to ensure that all the players are having fun. This is much easier if you have good communication between the players, and people
 
 are not afraid to talk about what they do and don't enjoy in the game.
@@ -26599,14 +26072,9 @@ Roleplaying games are a way to explore other worlds, other perspectives, and oth
 
 Enjoy yourselves.
 
-
 uid rides? Mutato nomine, de te fabula narrant. –Horace, Satires
 
-
-
-
 # Editor's Note
-
 
 Imost ten years ago I wrote an afterword for *Dies Irae* in which I said it was "the last book in the **Ars Magica** Fifth Edition line that I will produce as Line Editor".
 
@@ -26658,13 +26126,9 @@ All the open license details, and the complete list of released **Ars Magica** O
 
 We hope you'll join us in creating this vibrant new chapter in **Ars Magica**'s long history of myth and magic!
 
-
 ## ATLAS-GAMES.COM/OPENARS
 
-
-
 # Fourth Edition Conversion
-
 
 onverting from Ars Magica 4<sup>th</sup> Edition to 5<sup>th</sup> Edition is a good idea, because a
 
@@ -26756,8 +26220,6 @@ Spells: Note new levels. Spells a character can no longer cast (some have change
 
 Twilight: Divide the number of Twilight Points by three, and use this as the Warping Score.
 
-
-
 ## General Rules
 
 Case Factors
@@ -26765,8 +26227,9 @@ Case Factors
 Fifth Edition p.
 Definitive Edition p.
 
+
 | Hase.          | Hactors Definitive Edition ps                                                                                                                                                                           |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ease<br>Factor | Difficulty                                                                                                                                                                                              |
 | 0              | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for.                                                                                       |
 | 3              | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success.                                                       |
@@ -26783,8 +26246,9 @@ City and Guild p80 Definitive Edition p408
 
 24+
 
+
 |                                | era erektoria kalkania aktion |
-|--------------------------------|-------------------------------|
+| -------------------------------- | ------------------------------- |
 | On foot*                       | 20 miles/day                  |
 | Mounted courier*               | 30 miles/day                  |
 | Mounted courier, urgent*       | 50 miles/day                  |
@@ -26808,8 +26272,9 @@ Add +1 when using an Ability's specialization.
 
 ## General Botch Dice
 
+
 | Number<br>of Botch<br>Dice | CHANCE<br>OF<br>BOTCH | Example Situation                                                                                                                                                  |
-|----------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                          | 1%                    | Good conditions; the default number of botch dice.                                                                                                                 |
 | 2                          | 1.9%                  | Running through undergrowth.                                                                                                                                       |
 | 3                          | 2.7%                  | Climbing a crumbling cliff in a high wind.                                                                                                                         |
@@ -26823,15 +26288,16 @@ Add +1 when using an Ability's specialization.
 
 ## Encumbrance
 
+
 | \$105                              |            |        |
-|------------------------------------|------------|--------|
+| ------------------------------------ | ------------ | -------- |
 | Encumbrance for                    | Total Load | Burden |
 | Character Strength 0 OR Negative = | 0          | 0      |
 | Burden                             | 1          | 1      |
 | ENCUMBRANCE FOR                    | 3          | 2      |
 | CHARACTER STRENGTH +1              | 6          | 3      |
 | OR HIGHER =                        | 10         | 4      |
-| Burden – Strength,<br>minimum 0    | 15         | 5      |
+| Burden – Strength,<br>minimum 0   | 15         | 5      |
 | *Subtract from athletic            | 21         | 6      |
 | activities and spell casting.      | 28         | 7      |
 | *Do not subtract from              | 36         | 8      |
@@ -26870,19 +26336,21 @@ Award one point at the end of a session for each of the following that a charact
 
 ## Magic Sensitivity
 
-| ~                                         |
-|-------------------------------------------|
-| Ease Factor                               |
+
+| ~                                          |
+| -------------------------------------------- |
+| Ease Factor                                |
 | 12 – aura level                           |
 | 21 – magnitude of effect                  |
 | 21 – magnitude of most<br>powerful effect |
 | 15 – one fifth of<br>Magic Might          |
-|                                           |
+|                                            |
 
 ## Second Sight
 
 REGIO SIGHT ROLL:
 Perception
+
 + Appropriate Ability
 + Stress Die
 
@@ -26893,45 +26361,49 @@ EASE FACTOR:
 
 Does not need to Penetrate Magic Resistance.
 
-| Sensing              | Ease Factor                                                                        |  |
-|----------------------|------------------------------------------------------------------------------------|--|
-| Illusion             | 6 + magnitude of illusion                                                          |  |
-| Natural invisibility | 9                                                                                  |  |
-| Regio boundary       | 5 + (2 × difference<br>between current level's<br>aura and sought level's<br>aura) |  |
+
+| Sensing              | Ease Factor                                                                         |   |
+| ---------------------- | ------------------------------------------------------------------------------------- | --- |
+| Illusion             | 6 + magnitude of illusion                                                           |   |
+| Natural invisibility | 9                                                                                   |   |
+| Regio boundary       | 5 + (2 × difference<br>between current level's<br>aura and sought level's<br>aura) |   |
 
 Must Penetrate Magic Resistance. Granted by Divine realm.
 
-| Ease Factor                                       |  |
-|---------------------------------------------------|--|
-| 9                                                 |  |
-| 15                                                |  |
-| 0                                                 |  |
-| 15 if hiding nature, automatic success otherwise. |  |
-|                                                   |  |
+
+| Ease Factor                                       |   |
+| --------------------------------------------------- | --- |
+| 9                                                 |   |
+| 15                                                |   |
+| 0                                                 |   |
+| 15 if hiding nature, automatic success otherwise. |   |
+|                                                   |   |
 
 ## Reputation Ease Factors
 
+
 | Ease Factor | Local        | Ecclesiastical        | Hermetic      | Comments                                                                                                                 |
-|-------------|--------------|-----------------------|---------------|--------------------------------------------------------------------------------------------------------------------------|
+| ------------- | -------------- | ----------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 0           | Same village | Same parish/monastery | Same covenant | Everyone in these groups has heard of everyone else in them.                                                             |
 | 6           | Same town    | Same diocese          | Same Tribunal | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
 | 9           | Same county  | Same province         | Entire Order  | In general, only people with a reputation are known in this group, but everyone knows a few other people.                |
 | 12          | Same country | Whole Church          | N/A           | Most people in this wider world are unknown, but those with outstanding reputations may be.                              |
 
-
 ## Non-Combat Damage
 
 ## Heat and Corrosion
 
+
 | COVERED AREA           | DAMAGE BONUS |
-|------------------------|--------------|
-| Small part (hand/foot) | ×1           |
-| Entire limb            | ×2           |
-| Half of body           | ×3           |
-| Full immersion         | ×4           |
+| ------------------------ | -------------- |
+| Small part (hand/foot) | ×1          |
+| Entire limb            | ×2          |
+| Half of body           | ×3          |
+| Full immersion         | ×4          |
+
 
 | Source        | Intensity |
-|---------------|-----------|
+| --------------- | ----------- |
 | Wood Fire     | +5        |
 | Boiling Water | +3        |
 | Boiling Oil   | +6        |
@@ -26946,8 +26418,9 @@ Must Penetrate Magic Resistance. Granted by Divine realm.
 
 Stamina check against Ease Factor, take indicated wound on a failure
 
+
 | Poison     | Ease Factor | Wound          |
-|------------|-------------|----------------|
+| ------------ | ------------- | ---------------- |
 | Adder Bite | 6           | Light          |
 | Asp Bite   | 9           | Incapacitating |
 | Monkshood  | 9           | Heavy          |
@@ -26955,8 +26428,9 @@ Stamina check against Ease Factor, take indicated wound on a failure
 
 ## Impact
 
+
 | TYPE OF IMPACT                    | DAMAGE                                                                |
-|-----------------------------------|-----------------------------------------------------------------------|
+| ----------------------------------- | ----------------------------------------------------------------------- |
 | Falling                           | +1 per two feet,<br>doubled for<br>hard surfaces,<br>halved for soft. |
 | Jug dropped from second floor     | +6                                                                    |
 | Inside collapsing wooden house    | +15                                                                   |
@@ -26969,16 +26443,17 @@ Non-combat Damage Total: Damage Bonus + Stress Die Non-combat Soak Total: Soak T
 
 ## Damage Table
 
-| Size          | Light | Меріим | HEAVY | Incapacitating | DEAD |
-|---------------|-------|--------|-------|----------------|------|
-| -4<br>or less | 1     | 2      | 3     | 4              | 5+   |
-| -3            | 1-2   | 3–4    | 5–6   | 7–8            | 9+   |
-| -2            | 1-3   | 4–6    | 7–9   | 10-12          | 13+  |
-| -1            | 1-4   | 5-8    | 9-12  | 13–16          | 17+  |
-| 0             | 1-5   | 6–10   | 11-15 | 16–20          | 21+  |
-| +1            | 1–6   | 7–12   | 13-18 | 19–24          | 25+  |
-| +2            | 1–7   | 8-14   | 15-21 | 22–28          | 29+  |
-| +3            | 1-8   | 9–16   | 17–24 | 25-32          | 33+  |
+
+| Size          | Light | Меріим | HEAVY  | Incapacitating | DEAD |
+| --------------- | ------- | -------------- | -------- | ---------------- | ------ |
+| -4<br>or less | 1     | 2            | 3      | 4              | 5+   |
+| -3            | 1-2   | 3–4         | 5–6   | 7–8           | 9+   |
+| -2            | 1-3   | 4–6         | 7–9   | 10-12          | 13+  |
+| -1            | 1-4   | 5-8          | 9-12   | 13–16         | 17+  |
+| 0             | 1-5   | 6–10        | 11-15  | 16–20         | 21+  |
+| +1            | 1–6  | 7–12        | 13-18  | 19–24         | 25+  |
+| +2            | 1–7  | 8-14         | 15-21  | 22–28         | 29+  |
+| +3            | 1-8   | 9–16        | 17–24 | 25-32          | 33+  |
 
 Each further +1 size adds +1 to each wound range.
 
@@ -26991,15 +26466,16 @@ For every 5 + size points by which the Damage Total exceeds the Soak Total, the 
 - 3. Lose a Fatigue level on a failed check.
 - 4. Once unconscious, suffer a Light Wound on first failed check, Medium Wound on second failure, and so on.
 
-| Type of Deprivation            | Тіме       |  |
-|--------------------------------|------------|--|
-| Air                            | 30 seconds |  |
-| Water                          | 1 day      |  |
-| Food                           | 3 days     |  |
-| Minor Cold<br>(40°F/4°C)       | 3 hours    |  |
-| Serious Cold<br>(0°F/–18°C)    | 1 hour     |  |
-| Major Cold<br>(-20°F/-29°C)    | 30 minutes |  |
-| Critical Cold<br>(-40°F/-40°C) | 15 minutes |  |
+
+| Type of Deprivation              | Тіме   |   |
+| ---------------------------------- | ------------ | --- |
+| Air                              | 30 seconds |   |
+| Water                            | 1 day      |   |
+| Food                             | 3 days     |   |
+| Minor Cold<br>(40°F/4°C)       | 3 hours    |   |
+| Serious Cold<br>(0°F/–18°C)   | 1 hour     |   |
+| Major Cold<br>(-20°F/-29°C)    | 30 minutes |   |
+| Critical Cold<br>(-40°F/-40°C) | 15 minutes |   |
 
 <sup>\*</sup> Cold is in Rival Magic, page 105.
 
@@ -27011,6 +26487,7 @@ All combat rolls use stress dice.
 
 - 1. Everyone roll and calculate Initiative Totals. Compare them to find turn order, highest first.
 - 2. When an attack is declared ...
+
   - a. Attacker rolls and generates an Attack Total.
   - b. Defender rolls and generates a Defense Total.
   - c. Subtract them to find Attack Advantage. If it's...
@@ -27020,7 +26497,7 @@ All combat rolls use stress dice.
 - 3. Repeat step 2 for the next highest initiative if they attack.
 - 4. Once all parties have acted once, return to step 2 for the first party again. Initiative is not re-rolled.
 
-## Combat & Damage Totals 
+## Combat & Damage Totals
 
 INITIATIVE TOTAL: Quickness + Weapon Initiative Modifier - Encumbrance + Stress Die
 
@@ -27048,8 +26525,9 @@ BELOW STABLE EASE FACTOR:
 
 Wound becomes one level worse
 
+
 | Wound Level   | Interval   | STABLE EASE<br>FACTOR | IMPROVEMENT EASE FACTOR |
-|---------------|------------|-----------------------|-------------------------|
+| --------------- | ------------ | ----------------------- | ------------------------- |
 | Light         | One week   | 4                     | 10                      |
 | Medium        | One month  | 6                     | 12                      |
 | Heavy         | One season | 9                     | 15                      |
@@ -27069,16 +26547,17 @@ SOAK TOTAL:
 
 Stamina + Armor Protection (+ Form Bonus, for magi)
 
+
 |               |         | Mis | sile ( | capon | Statis | stics | Þ177<br>Þ101 |      |       |
-|---------------|---------|-----|--------|-------|--------|-------|--------------|------|-------|
-| WEAPON        | ABILITY | INT | Атк    | Der   | Dan    | RANGE | STR          | LOND | Cost  |
-| Axe, Throwing | Thrown  | 0   | +2     | 0     | +6     | 5     | 0            | 1    | Std.  |
-| Javelin       | Thrown  | 0   | +2     | 0     | +5     | 10    | 0            | 1    | Std.  |
-| Knife         | Thrown  | 0   | +1     | 0     | +2     | 5     | -2           | 0    | Inexp |
-| Sling*        | Thrown  | -3  | +1     | 0     | +4     | 20    | -3           | 0    | Inexp |
-| Stone         | Thrown  | 0   | +1     | 0     | +2     | 5     | -1           | 1    | Inexp |
-| Bow, Long*    | Bow     | -2  | +4     | 0     | +8     | 30    | +2           | 2    | Exp.  |
-| Bow, short*   | Bow     | -1  | +3     | 0     | +6     | 15    | -1           | 2    | Std.  |
+| --------------- | --------- | ----- | -------- | ------- | -------- | ------- | ---------------- | ------ | ------- |
+| WEAPON        | ABILITY | INT | Атк | Der   | Dan    | RANGE | STR            | LOND | Cost  |
+| Axe, Throwing | Thrown  | 0   | +2     | 0     | +6     | 5     | 0              | 1    | Std.  |
+| Javelin       | Thrown  | 0   | +2     | 0     | +5     | 10    | 0              | 1    | Std.  |
+| Knife         | Thrown  | 0   | +1     | 0     | +2     | 5     | -2             | 0    | Inexp |
+| Sling*        | Thrown  | -3  | +1     | 0     | +4     | 20    | -3             | 0    | Inexp |
+| Stone         | Thrown  | 0   | +1     | 0     | +2     | 5     | -1             | 1    | Inexp |
+| Bow, Long*    | Bow     | -2  | +4     | 0     | +8     | 30    | +2             | 2    | Exp.  |
+| Bow, short*   | Bow     | -1  | +3     | 0     | +6     | 15    | -1             | 2    | Std.  |
 
 Requires two free bands to load and fire.
 
@@ -27100,18 +26579,18 @@ Load: The contribution that the weapon makes to Encumbrance (p20/p403). For bows
 
 Cost: A general indication of the cost of the weapon. More expensive weapons are better.
 
-
 ## Armor Table
 
-|                     | PART | TAL  | FUI  | LL   | COST   |
-|---------------------|------|------|------|------|--------|
+
+|                     | PART     | TAL  | FUI  | LL   | COST   |
+| --------------------- | ---------- | ------ | ------ | ------ | -------- |
 | MATERIAL            | Рвот | LOAD | PROT | LOAD |        |
-| Quilted/Fur         | 1    | 2    | n/a  | n/a  | lnexp. |
-| Heavy Leather       | 2    | 3    | n/a  | n/a  | Inexp. |
-| Metal Reinf Leather | 2    | 2    | 4    | 4    | Std.   |
-| Leather Scale       | 3    | 3    | 5    | 5    | Std.   |
-| Metal Scale         | 4    | 4    | 7    | 7    | Std    |
-| Chain Mail          | 6    | 4    | 9    | 6    | Exp.   |
+| Quilted/Fur         | 1        | 2    | n/a  | n/a  | lnexp. |
+| Heavy Leather       | 2        | 3    | n/a  | n/a  | Inexp. |
+| Metal Reinf Leather | 2        | 2    | 4    | 4    | Std.   |
+| Leather Scale       | 3        | 3    | 5    | 5    | Std.   |
+| Metal Scale         | 4        | 4    | 7    | 7    | Std    |
+| Chain Mail          | 6        | 4    | 9    | 6    | Exp.   |
 
 Prot: Protection is the bonus the armor grants to the character's Soak score.
 
@@ -27121,36 +26600,37 @@ Cost: A general indication of the expense of the armor. More expensive armor is 
 
 ## Melee Weapon Statistics
 
+
 |                 | ABILITY | Isir | Атк | DIN | DAM | STR | LOAD | Cost  |
-|-----------------|---------|------|-----|-----|-----|-----|------|-------|
-| Dodge           | Brawl   | 0    | n/a | 0   | n/a | n/a | 0    | n/a   |
-| Fist            | Brawl   | 0    | 0   | 0   | 0   | n/a | 0    | n/a   |
-| Kick            | Brawl   | -1   | 0   | -1  | +3  | n/a | 0    | n/a   |
-| Gauntlet        | Brawl   | 0    | 0   | +1  | +2  | -3  | 0    | Inexp |
-| Bludgeon*       | Brawl   | 0    | +2  | 0   | +2  | -2  | 1    | Inexp |
-| Dagger          | Brawl   | 0    | +2  | 0   | +3  | -3  | 0    | Inexp |
-| Knife           | Brawl   | 0    | +1  | 0   | +2  | -6  | 0    | Inexp |
-| Axe             | Single  | +1   | +4  | 0   | +6  | 0   | 1    | Std.  |
-| Club            | Single  | +1   | +2  | +1  | +3  | -2  | 1    | Inexp |
-| Hatchet         | Single  | 0    | +3  | 0   | +4  | -2  | 1    | Inexp |
-| Lance           | Single  | +2   | +4  | 0   | +5  | 0   | 2    | Std.  |
-| Mace**          | Single  | +1   | +3  | 0   | +8  | 0   | 2    | Std   |
-| Mace and Chain  | Single  | +2   | +3  | 0   | +7  | 0   | 2    | Std.  |
-| Spear, Short    | Single  | +2   | +2  | 0   | +5  | -1  | 1    | Inexp |
-| Sword, Short    | Single  | +1   | +3  | +1  | +5  | -1  | 1    | Std.  |
-| Sword, Long     | Single  | +2   | +4  | +1  | +6  | 0   | 1    | Exp.  |
-| Shield, Buckler | Single  | 0    | 0   | +1  | 0   | -2  | 1    | Std.  |
-| Shield, Round   | Single  | 0    | 0   | +2  | 0   | -1  | 2    | Inexp |
-| Shield, Heater  | Single  | 0    | 0   | +3  | 0   | 0   | 2    | Std.  |
-| Cudgel          | Great   | +1   | +4  | +1  | +7  | +1  | 2    | Inexp |
-| Farm Implement  | Great   | +1   | +3  | +1  | +5  | 0   | 2    | Inexp |
-| Flail           | Great   | +1   | +3  | +1  | +8  | 0   | 2    | Inexp |
-| Pole Arm        | Great   | +3   | +4  | +1  | +8  | 0   | 2    | Std.  |
-| Pole Axe        | Great   | +1   | +5  | 0   | +11 | +1  | 2    | Std.  |
-| Spear, Long***  | Great   | +3   | +3  | +1  | +7  | 0   | 3    | Inexp |
-| Sword, Great    | Great   | +2   | +5  | +2  | +9  | +1  | 2    | Exp.  |
-| Staff .         | Great   | +2   | +3  | +3  | +2  | -1  | 2    | Inexp |
-| Warhammer       | Great   | 0    | +6  | 0   | +12 | +2  | 3    | Std.  |
+| ----------------- | --------- | ------ | -------- | ----- | ----- | ----- | ------ | ------- |
+| Dodge           | Brawl   | 0    | n/a    | 0   | n/a | n/a | 0    | n/a   |
+| Fist            | Brawl   | 0    | 0      | 0   | 0   | n/a | 0    | n/a   |
+| Kick            | Brawl   | -1   | 0      | -1  | +3  | n/a | 0    | n/a   |
+| Gauntlet        | Brawl   | 0    | 0      | +1  | +2  | -3  | 0    | Inexp |
+| Bludgeon*       | Brawl   | 0    | +2     | 0   | +2  | -2  | 1    | Inexp |
+| Dagger          | Brawl   | 0    | +2     | 0   | +3  | -3  | 0    | Inexp |
+| Knife           | Brawl   | 0    | +1     | 0   | +2  | -6  | 0    | Inexp |
+| Axe             | Single  | +1   | +4     | 0   | +6  | 0   | 1    | Std.  |
+| Club            | Single  | +1   | +2     | +1  | +3  | -2  | 1    | Inexp |
+| Hatchet         | Single  | 0    | +3     | 0   | +4  | -2  | 1    | Inexp |
+| Lance           | Single  | +2   | +4     | 0   | +5  | 0   | 2    | Std.  |
+| Mace**          | Single  | +1   | +3     | 0   | +8  | 0   | 2    | Std   |
+| Mace and Chain  | Single  | +2   | +3     | 0   | +7  | 0   | 2    | Std.  |
+| Spear, Short    | Single  | +2   | +2     | 0   | +5  | -1  | 1    | Inexp |
+| Sword, Short    | Single  | +1   | +3     | +1  | +5  | -1  | 1    | Std.  |
+| Sword, Long     | Single  | +2   | +4     | +1  | +6  | 0   | 1    | Exp.  |
+| Shield, Buckler | Single  | 0    | 0      | +1  | 0   | -2  | 1    | Std.  |
+| Shield, Round   | Single  | 0    | 0      | +2  | 0   | -1  | 2    | Inexp |
+| Shield, Heater  | Single  | 0    | 0      | +3  | 0   | 0   | 2    | Std.  |
+| Cudgel          | Great   | +1   | +4     | +1  | +7  | +1  | 2    | Inexp |
+| Farm Implement  | Great   | +1   | +3     | +1  | +5  | 0   | 2    | Inexp |
+| Flail           | Great   | +1   | +3     | +1  | +8  | 0   | 2    | Inexp |
+| Pole Arm        | Great   | +3   | +4     | +1  | +8  | 0   | 2    | Std.  |
+| Pole Axe        | Great   | +1   | +5     | 0   | +11 | +1  | 2    | Std.  |
+| Spear, Long***  | Great   | +3   | +3     | +1  | +7  | 0   | 3    | Inexp |
+| Sword, Great    | Great   | +2   | +5     | +2  | +9  | +1  | 2    | Exp.  |
+| Staff .         | Great   | +2   | +3     | +3  | +2  | -1  | 2    | Inexp |
+| Warhammer       | Great   | 0    | +6     | 0   | +12 | +2  | 3    | Std.  |
 
 <sup>\*</sup> Any improvised bashing weapon such as a rock or band tool
 
@@ -27237,7 +26717,7 @@ If you're making up a new spell …
 
 ## Casting Spells
 
-**CASTING SCORE:** 
+**CASTING SCORE:**
 
 Technique + Form + Stamina – Encumbrance+ Aura Modifier
 
@@ -27245,10 +26725,11 @@ Technique + Form + Stamina – Encumbrance+ Aura Modifier
 
 **CASTING TOTAL:** Casting Score + Die Roll
 
+
 | CASTING TOTAL<br>– SPELL LEVEL | SPELL<br>CAST? | FATIGUE<br>LEVELS LOST |
-|--------------------------------|----------------|------------------------|
-| 0 or higher                    | Yes            | 0                      |
-| –1 to –10                      | Yes            | 1                      |
+| --------------------------------- | ---------------- | ------------------------ |
+| 0 or higher                     | Yes            | 0                      |
+| –1 to –10                     | Yes            | 1                      |
 | –11 or lower                   | No             | 1                      |
 
 ## Ritual Magic
@@ -27257,22 +26738,24 @@ Technique + Form + Stamina – Encumbrance+ Aura Modifier
 
 Casting Score + Artes Liberales + Philosophiae + Stress Die
 
+
 | CASTING TOTAL<br>– SPELL LEVEL | SPELL<br>CAST? | FATIGUE<br>LEVELS LOST |
-|--------------------------------|----------------|------------------------|
-| 0 or higher                    | Yes            | 1                      |
-| –1 to –5                       | Yes            | 2                      |
-| –6 to –10                      | Yes            | 3                      |
-| –11 to –15                     | No             | 4                      |
+| --------------------------------- | ---------------- | ------------------------ |
+| 0 or higher                     | Yes            | 1                      |
+| –1 to –5                      | Yes            | 2                      |
+| –6 to –10                     | Yes            | 3                      |
+| –11 to –15                    | No             | 4                      |
 | –16 or more                    | No             | 5                      |
 
 ## Words and Gestures
 
+
 | WORD  | MODIFIER | GESTURES    | MODIFIER | VOICE RANGE              |
-|-------|----------|-------------|----------|--------------------------|
+| ------- | ---------- | ------------- | ---------- | -------------------------- |
 | Loud  | +1       | Exaggerated | +1       | 50 paces                 |
 | Firm  | 0        | Bold        | 0        | 15 paces                 |
-| Quiet | –5       | Subtle      | –2       | 5 paces                  |
-| None  | –10      | None        | –5       | 0 paces<br>(caster only) |
+| Quiet | –5      | Subtle      | –2      | 5 paces                  |
+| None  | –10     | None        | –5      | 0 paces<br>(caster only) |
 
 ## Spontaneous Magic
 
@@ -27293,8 +26776,6 @@ Casting Score + Artes Liberales + Philosophiae + Stress Die
 **CEREMONIAL CASTING TIME:** 15 minutes per magnitude
 
 *See Definitive Edition page 218 for Ceremonial props and ritual spaces.*
-
-
 
 ## Spellcasting Botch Dice
 
@@ -27320,14 +26801,15 @@ Creature Power Penetration Total: Might Score – (5 x Might Point cost of the p
 
 > CHARACTER PENETRATION TOTAL: Effect Roll – Ease Factor + Penetration Bonus + Aura Modifier
 
- $\begin{array}{c} P_{\text{ENETRATION}} \ Bonus: \\ Penetration \ Ability \times Penetration \ Multiplier \end{array}$ 
+$\begin{array}{c} P_{\text{ENETRATION}} \ Bonus: \\ Penetration \ Ability \times Penetration \ Multiplier \end{array}$
 
 Base Penetration Multiplier: 1
 
 If Penetration exceeds Magic Resistance, that target is affected.
 
+
 | Sympathetic Connection                   | Bonus to Multiplier |
-|------------------------------------------|---------------------|
+| ------------------------------------------ | --------------------- |
 | Caster is blood relative of target       | +1                  |
 | Signature of target                      | +1                  |
 | Target's nickname<br>or birth name       | +1                  |
@@ -27336,8 +26818,9 @@ If Penetration exceeds Magic Resistance, that target is affected.
 | Target's nativity horoscope              | +2                  |
 | Symbolic representation of target        | +2                  |
 
+
 | ARCANE CONNECTION      | Bonus to Multiplier |
-|------------------------|---------------------|
+| ------------------------ | --------------------- |
 | Lasts hours or days    | +1                  |
 | Lasts weeks or months  | +2                  |
 | Lasts years or decades | +3                  |
@@ -27345,25 +26828,27 @@ If Penetration exceeds Magic Resistance, that target is affected.
 
 ## Realm Interaction Table
 
+
 |                  | Magic<br>Power | DIVINE<br>POWER | Faerie<br>Power | Infernal<br>Power |
-|------------------|----------------|-----------------|-----------------|-------------------|
-| Magic<br>Aura    | + aura         | no effect       | + (1/2 aura)    | – aura            |
-| Divine<br>Aura   | – (3 x aura)   | + aura          | – (4 x aura)    | – (5 x aura)      |
-| Faerie<br>Aura   | + (1/2 aura)   | no effect       | + aura          | – aura            |
-| Infernal<br>Aura | – aura         | no effect       | – (2 x aura)    | + aura            |
+| ------------------ | ---------------- | ----------------- | ----------------- | ------------------- |
+| Magic<br>Aura    | + aura         | no effect       | + (1/2 aura)    | – aura           |
+| Divine<br>Aura   | – (3 x aura)  | + aura          | – (4 x aura)   | – (5 x aura)     |
+| Faerie<br>Aura   | + (1/2 aura)   | no effect       | + aura          | – aura           |
+| Infernal<br>Aura | – aura        | no effect       | – (2 x aura)   | + aura            |
 
 + 1 botch die per aura rating in foreign aura (not multiplied). + 2 botch dice per aura rating in a foreign regio.
 
 ## Magic Resistance
 
- $H_{\text{ERMETIC}} \; M_{\text{AGUS}};$  Form + (Parma Magica  $\times$  5) + Aura Modifier
+$H_{\text{ERMETIC}} \; M_{\text{AGUS}};$  Form + (Parma Magica  $\times$  5) + Aura Modifier
 
 Supernatural Creature: Might Score + Aura Modifier
 
 ## Typical Might Scores
 
-| Score | Example                                                               |
-|-------|-----------------------------------------------------------------------|
+
+| Score  | Example                                                               |
+| -------- | ----------------------------------------------------------------------- |
 | 1–10  | An ordinary creature of a realm.                                      |
 | 11–20 | Moderately powerful.<br>Comparable, at least, to a<br>starting magus. |
 | 21–30 | Fairly powerful.                                                      |
@@ -27371,19 +26856,21 @@ Supernatural Creature: Might Score + Aura Modifier
 | 41–50 | Extremely powerful.<br>Pagan deities, major<br>dragons, etc.          |
 | 51–60 | Earth-shakingly important figures. Great dragons, Jove himself.       |
 
-| Fatigue p178-179 |         |                                                |  |  |  |
-|------------------|---------|------------------------------------------------|--|--|--|
-| FATIGUE LEVEL    | PENALTY | Time to Recover to<br>Next Lower Level         |  |  |  |
-| Winded           | 0       | 2 minutes                                      |  |  |  |
-| Weary            | -1      | 10 minutes                                     |  |  |  |
-| Tired            | -3      | 30 minutes                                     |  |  |  |
-| Dazed            | -5      | 60 minutes                                     |  |  |  |
-| Unconscious      | n/a     | 2 hours +<br>1 hour per extra<br>Fatigue level |  |  |  |
 
-####  Concentration
+| Fatigue p178-179 |         |                                                |   |   |   |
+| ------------------ | --------- | ------------------------------------------------ | --- | --- | --- |
+| FATIGUE LEVEL    | PENALTY | Time to Recover to<br>Next Lower Level         |   |   |   |
+| Winded           | 0       | 2 minutes                                      |   |   |   |
+| Weary            | -1      | 10 minutes                                     |   |   |   |
+| Tired            | -3      | 30 minutes                                     |   |   |   |
+| Dazed            | -5      | 60 minutes                                     |   |   |   |
+| Unconscious      | n/a     | 2 hours +<br>1 hour per extra<br>Fatigue level |   |   |   |
+
+#### Concentration
+
 
 | SITUATION                      | Ease Factor    |
-|--------------------------------|----------------|
+| -------------------------------- | ---------------- |
 | Still                          | Trivial (0)    |
 | Walking                        | Simple (3)     |
 | Running                        | Average (9)    |
@@ -27395,13 +26882,14 @@ Supernatural Creature: Might Score + Aura Modifier
 
 For spells maintained as long as the maga concentrates, Ease Factors above are reduced by three points each.
 
-| SITUATION                               | Ease Factor                                                                                   |  |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------|--|
-| Answering a single easy yes/no question | Hard (12)                                                                                     |  |
-| Conversation                            | Very Hard (15)                                                                                |  |
-| Casting another spell                   | Very Hard (15)                                                                                |  |
-| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |  |
-| Injured                                 | 3 times wound penalty to<br>Concentration rolls<br>(this is instead of the<br>normal penalty) |  |
+
+| SITUATION                               | Ease Factor                                                                                   |   |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------- | --- |
+| Answering a single easy yes/no question | Hard (12)                                                                                     |   |
+| Conversation                            | Very Hard (15)                                                                                |   |
+| Casting another spell                   | Very Hard (15)                                                                                |   |
+| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |   |
+| Injured                                 | 3 times wound penalty to<br>Concentration rolls<br>(this is instead of the<br>normal penalty) |   |
 
 #### Spell Sizes
 
@@ -27477,19 +26965,19 @@ Sand, dirt. mud. clay: ten cubic paces.
 
 Poisons: a single dose. Stone: one cubic pace. Auram: a weather phenomenon the Base metals: one cubic foot area inside a standard Boundary. Precious metals: one tenth of a cubic foot. Corpus: an adult human being, up to Size +1. Gemstones: one cubic inch. Herbam: a plant one pace in each Vim: Size modifiers don't apply direction to Vim effects with Individual targets. Group size is determined Ignem: a large campfire or the by the number of effects. hearthfire of a great hall. Container sizes are determined as normal Banges, Durations, and Targets RANCE DURATION Omer CONTAINER SENSE Personal Taste Momentary Individual Circle Concentration Touch/Eye Touch Part Diameter Smell Voice Sun/Ring Room Group Sight Moon Structure Hearing Arcane Year Boundary Vision Connection
 
-
 ## Arcane Connection Durations
 
-|            |                                                              |      |      |
-| ---------- | ------------------------------------------------------------ | ---- | ---- |
-| Duration   | Example Connections                                          |      |      |
-| Hours      | Air from a specific place, shed skin from a human being, water from a moving body of water. |      |      |
-| Days       | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement. |      |      |
-| Weeks      | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |      |      |
-| Months     | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile. |      |      |
-| Years      | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile |      |      |
-| Decades    | Body part.                                                   |      |      |
-| Indefinite | Hermetic familiar (link to master),<br>Hermetic magus (link to familiar),<br>Hermetic talisman (link to creator),<br>fixed Arcane Connections<br>(see 'Fixing Arcane Connections' on<br>p94/p250). |      |      |
+
+|            |                                                                                                                                                                                                                                                    |   |   |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Duration   | Example Connections                                                                                                                                                                                                                                |   |   |
+| Hours      | Air from a specific place, shed skin from a human being, water from a moving body of water.                                                                                                                                                        |   |   |
+| Days       | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement.                                                                                                                     |   |   |
+| Weeks      | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |   |   |
+| Months     | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile.                                                                                                                    |   |   |
+| Years      | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile                                                                                                           |   |   |
+| Decades    | Body part.                                                                                                                                                                                                                                         |   |   |
+| Indefinite | Hermetic familiar (link to master),<br>Hermetic magus (link to familiar),<br>Hermetic talisman (link to creator),<br>fixed Arcane Connections<br>(see 'Fixing Arcane Connections' on<br>p94/p250).                                                 |   |   |
 
 ## Certamen
 
@@ -27513,15 +27001,16 @@ RESISTANCE TOTAL:
 
 Stamina + Parma Magica
 
+
 | Weakening Total -<br>Resistance Total | FATIGUE LEVELS LOST |
-|---------------------------------------|---------------------|
+| --------------------------------------- | --------------------- |
 | 0                                     | None                |
-| 1–5                                   | 1                   |
-| 6–10                                  | 2                   |
-| 11–15                                 | 3                   |
-| 16–20                                 | 4                   |
-| 21–25                                 | 5                   |
-| 26–30                                 | 6                   |
+| 1–5                                  | 1                   |
+| 6–10                                 | 2                   |
+| 11–15                                | 3                   |
+| 16–20                                | 4                   |
+| 21–25                                | 5                   |
+| 26–30                                | 6                   |
 | etc.                                  | etc.                |
 
 ## Wizard's Twilight
@@ -27544,8 +27033,9 @@ TWILIGHT TIME:
 
 Intelligence + stress die vs. Warping Score + stress die
 
+
 | WARPING<br>SCORE | BASE TIME IN TWILIGHT                    |
-|------------------|------------------------------------------|
+| ------------------ | ------------------------------------------ |
 | 1                | Diameter (2 minutes)                     |
 | 2                | Two Hours                                |
 | 3                | Sun                                      |
@@ -27668,17 +27158,18 @@ BONUSES:
 
 > TARGET LEVEL: Minor 15, Major 21
 
-> > LEVEL MODIFIERS:
+>> LEVEL MODIFIERS:
+>>
 
 +3 for each Minor Hermetic Virtue, +9 for each Major Hermetic Virtue
-
 
 ## Enchanted Items
 
 ## Material and Size Tables
 
+
 | Base Points |
-|-------------|
+| ------------- |
 | 1           |
 | 2           |
 | 3           |
@@ -27691,11 +27182,12 @@ BONUSES:
 | 20          |
 |             |
 
+
 | Size     | Example                                   | Multiplier |
-|----------|-------------------------------------------|------------|
+| ---------- | ------------------------------------------- | ------------ |
 | tiny gem | ring, bracelet,<br>pendant,               | x1         |
 | small    | any gem<br>wand, dagger,<br>belt, cap     | x2         |
-| medium   | sword, tunic,<br>boots, skull             | х3         |
+| medium   | sword, tunic,<br>boots, skull             | х3        |
 | large    | staff, shield,<br>cloak, skeleton         | x4         |
 | huge     | boat, wagon,<br>human body,<br>small room | x5         |
 
@@ -27715,8 +27207,9 @@ Linked trigger: +3 levels
 
 ## Number of Uses
 
+
 | Frequency       | Modifier |
-|-----------------|----------|
+| ----------------- | ---------- |
 | 1 use per day   | 0        |
 | 2 uses per day  | +1       |
 | 3 uses per day  | +2       |
@@ -27728,8 +27221,9 @@ Linked trigger: +3 levels
 
 ## Effect Expiry
 
+
 | ITEM LASTS | Excess Modifier |
-|------------|-----------------|
+| ------------ | ----------------- |
 | 1 year     | x10             |
 | 7 years    | x5              |
 | 70 years   | x2              |
@@ -27744,11 +27238,12 @@ p107-109
 
 ## Extraordinary Results Chart
 
+
 | Roll  | Result                         |
-|-------|--------------------------------|
+| ------- | -------------------------------- |
 | Botch | Disaster                       |
 | 0-4   | No extraordinary effects       |
-| 5–6   | Side effect                    |
+| 5–6  | Side effect                    |
 | 7     | No benefit                     |
 | 8     | Complete failure               |
 | 9     | Special or story event         |
@@ -27758,14 +27253,15 @@ p107-109
 
 **Disaster:** You fail miserably. Consult the following table for the result, depending on the number of zeroes rolled on the botch dice. Suffer the effect for the number you roll and for all lower numbers, unless explicitly told otherwise. For example, an explosion (3) also destroys the creation and inflicts Warping Points on the magus.
 
-| Zeroes | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |  |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| 1      | Everyone in the lab gains Warping Points equal to the number of zeroes on the botch roll. Hermetic magi (and anyone else opened to the Hermetic Arts) must roll for Twilight if they gain two or more, members of other traditions may also suffer serious effects, as determined by their tradition. The season is completely wasted, see Complete Failure. If there are other results and magi choose not to resist Twilight, they enter Twilight before the effects occur, and thus avoid any personal damage. |  |  |
-| 2      | Your creation is destroyed. If it is a single-season project, this is the same as a Complete Failure.                                                                                                                                                                                                                                                                                                                                                                                                             |  |  |
-| 3      | Your laboratory gains the Damaged Flaw.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |  |  |
-| 4      | Explosion! Your laboratory gains the Wrecked Flaw (instead of the Damaged Flaw), and anyone in the laboratory takes two Heavy Wounds.                                                                                                                                                                                                                                                                                                                                                                             |  |  |
-| 5+     | The storyguide picks one of the following:<br>A story event threatens the whole covenant. This<br>may arise immediately from the explosion (a<br>mundane fire, for example), or may be a lingering<br>after-effect of the uncontrolled magic, causing a<br>story some time later.                                                                                                                                                                                                                                 |  |  |
-|        | The explosion completely destroys the laboratory. The structure gains the Deformed and Unstable Flaws, and the whole laboratory must be rebuilt from nothing, rather than gaining the Wrecked Flaw. Anyone in the laboratory takes an additional Incapacitating Wound.                                                                                                                                                                                                                                            |  |  |
+
+| Zeroes | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| 1      | Everyone in the lab gains Warping Points equal to the number of zeroes on the botch roll. Hermetic magi (and anyone else opened to the Hermetic Arts) must roll for Twilight if they gain two or more, members of other traditions may also suffer serious effects, as determined by their tradition. The season is completely wasted, see Complete Failure. If there are other results and magi choose not to resist Twilight, they enter Twilight before the effects occur, and thus avoid any personal damage. |   |   |
+| 2      | Your creation is destroyed. If it is a single-season project, this is the same as a Complete Failure.                                                                                                                                                                                                                                                                                                                                                                                                             |   |   |
+| 3      | Your laboratory gains the Damaged Flaw.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |   |
+| 4      | Explosion! Your laboratory gains the Wrecked Flaw (instead of the Damaged Flaw), and anyone in the laboratory takes two Heavy Wounds.                                                                                                                                                                                                                                                                                                                                                                             |   |   |
+| 5+     | The storyguide picks one of the following:<br>A story event threatens the whole covenant. This<br>may arise immediately from the explosion (a<br>mundane fire, for example), or may be a lingering<br>after-effect of the uncontrolled magic, causing a<br>story some time later.                                                                                                                                                                                                                                 |   |   |
+|        | The explosion completely destroys the laboratory. The structure gains the Deformed and Unstable Flaws, and the whole laboratory must be rebuilt from nothing, rather than gaining the Wrecked Flaw. Anyone in the laboratory takes an additional Incapacitating Wound.                                                                                                                                                                                                                                            |   |   |
 
 No Extraordinary Effects: Your experiment works without producing any unintended effects.
 
@@ -27790,7 +27286,6 @@ Complete Failure: You get nothing from your efforts, and your season is wasted. 
 
 - The creation requires additional raw vis. The magus must spend a number of additional pawns of vis that match the Technique or Form of the project equal to the magnitude of the effect (including modifications) plus the risk modifier. If he is unable to do so, either because he does not have the vis, or because he cannot handle enough vis in a single season, treat as a Complete Failure.
 - The magus also creates a spell, with the same Technique and Form as the project, of any level that he could create in a single season. The spell is designed by the storyguide or troupe, and need not have an obvious connection to the project. The magus knows it, and can write up the Laboratory Text as normal, allowing other magi to create it as well. It is simpler if this spell does follow all the rules of Hermetic Magic, but that is not essential if the troupe is happy with the complications. Treat this as No Extraordinary Effects for the main project.
-
 - The creation is modified in some way that does not necessarily fall under the categories of Side Effect or Modified Effect, although it may if desired. This allows the storyguide to introduce any sort of supernatural effect — the creation could even be strongly affected by a different realm. The result may be positive or negative from the magus's perspective, but should be interesting for the troupe.
 - A story event happens. This can be anything, it could be used as an opportunity to introduce a major plot line, or as a brief and amusing distraction. It does not need to happen immediately, the uncontrolled magic might set something in motion, or it might be a result of using the creation in a particular context, some time later. The story event may be basically positive the magus might attract the attention of a potential familiar, for example. Unless the story event requires otherwise, treat this as No Extraordinary Effects for the project itself.
 
@@ -27814,14 +27309,13 @@ Modified Effect: Roll a simple die and add your risk modifier. If you were inves
 - 9–10 The actual effect of your experiment is modified. For example, a spell like Curse of Circe (p131/p334) turns the target into a goat instead of a pig.
 - 11+ The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar.
 
-
-
-# Ease Factors for Creating and Crafting Objects 
+# Ease Factors for Creating and Crafting Objects
 
 The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day.
 
+
 | Crafting<br>Task     | Ease<br>Factor | Example                                                                                           |
-|----------------------|----------------|---------------------------------------------------------------------------------------------------|
+| ---------------------- | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Trivial              | 3              | Almost never worth rolling for                                                                    |
 | Simple               | 6              | Work regularly done by<br>untrained people, like<br>whitewashing a house                          |
 | Easy                 | 9              | The daily work of semiskilled craftsmen                                                           |
@@ -27836,8 +27330,9 @@ The Ease Factors in the table below include the +3 adjustment for magic use, and
 
 Rego Craft Magic
 
+
 | REGO CRAFT MAGIC ROLL:                        | Base Ease Factor:                         |
-|-----------------------------------------------|-------------------------------------------|
+| ----------------------------------------------- | ------------------------------------------- |
 | Perception + Finesse                          | Highest Ease Factor for a                 |
 | Creo Craft Magic Roll:                        | Mundane Craftsman + 3                     |
 | Intelligence + Finesse                        | One day's work for                        |
@@ -27864,8 +27359,9 @@ Stress die (no botch) + age/10 (round up)
 
 р168-170 р391
 
+
 | LIVING CONDITIONS                              | Modifier |
-|------------------------------------------------|----------|
+| ------------------------------------------------ | ---------- |
 | Wealthy, or healthy location                   | +2       |
 | Typical Summer or Autumn covenant (magus)      | +2       |
 | Typical Summer or<br>Autumn covenant (mundane) | +1       |
@@ -27879,11 +27375,12 @@ Stress die (no botch) + age/10 (round up)
 
 \* Modifiers marked with an asterisk are cumulative with each other.
 
+
 | AGING ROLL | Result                                                                                                         |
-|------------|----------------------------------------------------------------------------------------------------------------|
+| ------------ | ---------------------------------------------------------------------------------------------------------------- |
 | 2 or less  | No apparent aging                                                                                              |
 | 3 or more  | Apparent age increases by one year                                                                             |
-| 10–12      | 1 Aging Point in any Characteristic                                                                            |
+| 10–12     | 1 Aging Point in any Characteristic                                                                            |
 | 13         | Gain sufficient Aging Points (in any<br>Characteristics) to reach the next<br>level in Decrepitude, and Crisis |
 | 14         | 1 Aging Point in Qik                                                                                           |
 | 15         | 1 Aging Point in Sta                                                                                           |
@@ -27899,8 +27396,9 @@ Stress die (no botch) + age/10 (round up)
 
 #### Advancement Tables
 
+
 |       | ART |                        | ABILITY |             |
-|-------|-----|------------------------|---------|-------------|
+| ------- | ----- | ------------------------ | --------- | ------------- |
 | SCORE |     | ART TO BUY TO RAISE TO | ABILITY | TO RAISE TO |
 | 1     | 1   | 1                      | 5       | 5           |
 | 2     | 3   | 2                      | 15      | 10          |
@@ -27971,12 +27469,10 @@ taught + 3
 
 ## Distractions
 
+
 | MONTHS LOST | TOTAL | EXAMPLE |
-|-------------|-------|---------|
+| ------------- | ------- | --------- |
 | None        | Full  | 15      |
 | One         | 2/3   | 10      |
 | Two         | 1/3   | 5       |
 | Three       | None  | 0       |
-
-
-

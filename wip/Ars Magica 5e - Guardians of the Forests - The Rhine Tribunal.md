@@ -1,5 +1,11 @@
 # Guardians of the Forest: The Rhine Tribunal
+A sourcebook to the magic-soaked lands of Mythic Germany for Ars Magica 5th Edition.
 
+> *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+>
+> *[Completion state: Whole book manually fixed (Note: Including official Errata). Remaining: Review]*
+>
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
 
 Mythic Germany is the birthplace of the Order of Hermes. From the sinister faerie heights of the Black Forest, through the prosperous and venerable cities of the Rhineland, to the fog-ridden Harz Mountains, to the lowland plain and Crintera's island retreat on the Baltic coast, the Rhine Tribunal is a diverse landscape of countless magical and faerie forests, interspersed with a patchwork of powerful realms, where prince-bishops vie with dukes and merchant gilds for temporal power. This is the land of the epic Nibelungenlied, the heroic conquests of Charlemagne and Frederick Barbarossa, the miracles of St. Boniface, the splendor of the Imperial Cathedrals, the gifts of minstrels and wood-wives, and the curses of witches and the Wild Hunt.
@@ -697,7 +703,7 @@ The procedure for Redcaps to achieve the rank of master is slightly different. I
 
 >**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)
 
-> **Abilities:** Artes Liberales 2 (Latin script), Athletics 1 (sprinting), Awareness 1 (ambushes), Bargain 2 (food), Bavaria Lore 1 (woods), Chirurgy 1 (sprains), Civil and Canon Law 1 (vagabond laws), Concentration 2 (Auram), Disguise 2 (as a man), Dominion Lore 1 (roadside shrines), Faerie Lore 1 (weather spirits), Finesse 1 (Auram), Folk Ken 3 (travelers), Harz Mountains Lore 2 (sites to study), High German 5 (disguising accent), Hunt 1 (small game), Intrigue 2+2 (Hermetic), Latin 4 (Hermetic usage), Magic Theory 4 (weather spells), Music 1 (flute), Order of Hermes Lore 2 (covenants), Parma Magica 2 (Corpus), Penetration 1 (Auram), Rhine Lore 1 (towns), Saxony Lore 1 (safe roads), Survival 2 (summer), Swim 1 (rivers)
+> **Abilities:** Artes Liberales 2 (Latin script), Athletics 1 (sprinting), Awareness 1 (ambushes), Bargain 2 (food), Bavaria Lore 1 (woods), Chirurgy 1 (sprains), Civil and Canon Law 1 (vagabond laws), Concentration 2 (Auram), Dominion Lore 1 (roadside shrines), Faerie Lore 1 (weather spirits), Finesse 1 (Auram), Folk Ken 3 (travelers), Guile 2 (as a man), Harz Mountains Lore 2 (sites to study), High German 5 (disguising accent), Hunt 1 (small game), Intrigue 2+2 (Hermetic), Latin 4 (Hermetic usage), Magic Theory 4 (weather spells), Music 1 (flute), Order of Hermes Lore 2 (covenants), Parma Magica 2 (Corpus), Penetration 1 (Auram), Rhine Lore 1 (towns), Saxony Lore 1 (safe roads), Survival 2 (summer), Swim 1 (rivers)
 
 > **Arts:** Cr 9, In 2, Mu 2, Pe 2, Re 7; An 1, Aq 7, Au 9, Co 1, He 0, Ig 0, Im 0, Me 0, Te 0, Vi 2
 >
@@ -1914,7 +1920,7 @@ Although a Quaesitor, Winfrida is young, inexperienced, and a little timid secre
 
 >His extreme age is fuelled by longevity rituals created for him by members of Durenmar, and in his long career he has trained 4 apprentices. The Wizard's Bridle, his feared magical item, has only been used once, to restrain a particularly dangerous member of House Tytalus who had been Marched.
 
->Philippus is the eldest surviving member of the direct lineage from Apromar filius Flambeau, the undisputed master of destructive magics. As such, he has a Magical Focus for all destructive spells used against supernatural beings, and can "sniff out" the presence of magic. He is envied by the lineage of Apromar throughout the Order because of his familiar, Sordus. It took him three years to track down a female basilisk, and another year to convince it to give him one of its eggs to become his familiar. Sordus usually remains out of sight, because of his dreadful destructive power, but will sometimes slowly enter a room, casting his gaze left and right, as if to punctuate Philippus' threats.
+>Philippus is the eldest surviving member of the direct lineage from Apromor filius Flambeau, the undisputed master of destructive magics. As such, he has a Magical Focus for all destructive spells used against supernatural beings, and can "sniff out" the presence of magic. He is envied by the lineage of Apromor throughout the Order because of his familiar, Sordus. It took him three years to track down a female basilisk, and another year to convince it to give him one of its eggs to become his familiar. Sordus usually remains out of sight, because of his dreadful destructive power, but will sometimes slowly enter a room, casting his gaze left and right, as if to punctuate Philippus' threats.
 
 >It should be noted that, from 40 years after Gauntlet onwards, Philippus' spells were learned as lab projects (see the rule in **ArM5**, page 32). In the 66 seasons he spent in his laboratory, he has created all his magical items, enchanted his familiar, and gained 720 levels of spells.
 
