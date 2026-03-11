@@ -63,74 +63,405 @@ Ars Magica, Mythic Europe, and Charting New Realms of Imagination are trademarks
 
 Digital Edition 1.0
 
-# Contents
-
-|                                                                                                                                                          | 0                               | The Wagic Regio of Dinaymene               |                                                          | variant: wyzwanie as a raene 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                          |                                 | The Xoanon of Dindyméné                    |                                                          | Researching the Cursewood 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Wath                                                                                                                                                     | •                               | INHABITANTS                                | 27                                                       | Regulus Home Covenant4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| <b>B</b> ath                                                                                                                                             | g                               | Introducing Bear Island                    |                                                          | Official Records4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Myths, Legends,                                                                                                                                          |                                 | INTO THE SAGA                              |                                                          | Regulus' Amica                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| HISTORY, AND RUMORS                                                                                                                                      | ,                               | Shipwrecked!                               |                                                          | 1 ne Prying 1/10nk 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                          |                                 | Looking for Treasure                       | 28                                                       | HOOKS FOR USING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Myths and Legends                                                                                                                                        |                                 | Looking for a Familiar                     | 28                                                       | THE CURSEWOOD AGAIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| History9                                                                                                                                                 |                                 | Looking for Arcane Lore                    |                                                          | Researchers Have Hit Paydirt 40                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Hospitals10                                                                                                                                              | )                               | Monster Hunting                            | 29                                                       | Chasing Rivals4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Variant: It's Natural,                                                                                                                                   |                                 | Waking the Titaness                        | 29                                                       | Bringing Criminals to Justice 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| so Faeries Have Flocked Here 11                                                                                                                          |                                 | Hooks For                                  | 20                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| LOCATION AND DESCRIPTION 11                                                                                                                              |                                 | USING BEAR ISLAND AGAIN                    | 2.1                                                      | The Farne Islands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Variant: Alternative Locations 11                                                                                                                        |                                 |                                            |                                                          | The Lattic Totaldo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Inhabitants12                                                                                                                                            |                                 | Roaming Daktyls                            |                                                          | Myths, Legends,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Xaphan12                                                                                                                                                 | 2                               | Reestablishing the Balance                 | 32                                                       | HISTORY, AND RUMORS48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| INTRODUCING BATH INTO THE SAGA 12                                                                                                                        | 2                               | Home Sweet Home                            | 33                                                       | A Mystical Archipelago                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Taking the Waters12                                                                                                                                      |                                 | Variations                                 | 33                                                       | Northumberland4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| The Process of Roman Bathing 13                                                                                                                          |                                 |                                            |                                                          | Bamburgh Castle4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| The Process of                                                                                                                                           |                                 | The Cursed Coods                           |                                                          | 34 Getting to the Islands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Bathing in Bath in 122014                                                                                                                                | !                               |                                            |                                                          | The Inner Islands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Hermetic Meetings                                                                                                                                        |                                 | HISTORY AND RUMORS                         | 34                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Mercere Houses                                                                                                                                           |                                 | Variant: Shades of Grey                    | 34                                                       | Inner Farne                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| House Tytalus                                                                                                                                            | ,                               | INTRODUCING THE                            |                                                          | The Wideopens5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|                                                                                                                                                          | -                               | CURSEWOOD INTO THE SAGA                    | 35                                                       | The Bridges, Solan Rock,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| and Bladud the Leper Magus 16                                                                                                                            |                                 | Proxy Votes                                |                                                          | Knoxes Reef, Knocklin Ends5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Researching Bath16                                                                                                                                       |                                 | The Infernal Connection                    |                                                          | Big and Little Scarcar5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| HOOKS FOR USING BATH AGAIN 16                                                                                                                            | ,                               |                                            |                                                          | The Bush5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| The Great Fermenter                                                                                                                                      |                                 | The Tytalean Red Herring                   |                                                          | The Outer Islands52                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| of the Seven Salts16                                                                                                                                     | 5                               | Variant: Theban Tribunal                   |                                                          | Staple Island5.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Politics19                                                                                                                                               |                                 | Variant: Hibernian Tribunal                |                                                          | Brownsman Island5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| William Brewer19                                                                                                                                         |                                 | Variant: Normandy Tribunal                 |                                                          | North and South                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Joscelin of Wells19                                                                                                                                      |                                 | The Cursewood                              | 36                                                       | Wamses and the Nameless Rock 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Seeking An Apprentice20                                                                                                                                  |                                 | Trekking in the Cursewood                  | 37                                                       | Roddam and Green5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                                                                                                                                          |                                 | Trek Progress                              | 37                                                       | Big and Little Harcar5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Bear Island                                                                                                                                              | 31                              | Retreat and Defeat                         | 38                                                       | Clove Car and Blue Caps 5.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Dear Teland                                                                                                                                              | 21                              | Rest, Sleep, and Supplies                  |                                                          | Longstone and Northern Hares 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Alternative Myth:                                                                                                                                        |                                 | Hazards                                    |                                                          | Knivestone5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| The Isle of the Sleeping Fomóir 21                                                                                                                       |                                 | Forest                                     | 39                                                       | Isolates5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| THE GEOGRAPHY OF BEAR ISLAND 22                                                                                                                          |                                 | Hills                                      | 39                                                       | Megstone, Swedman,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                          |                                 | Swamplands                                 |                                                          | Elbow, Goldstone5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Civilization22                                                                                                                                           |                                 | The Center of the Woods                    |                                                          | Islestone Shad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Artakia22                                                                                                                                                |                                 | Regulus' Encampment                        | 40                                                       | and Glororum Shad5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Kyzikos23                                                                                                                                                |                                 | The Old Oak                                | 40                                                       | Crumstone, Callers, Fang5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Harbors24                                                                                                                                                |                                 |                                            | 10                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| The Uncivilized Wilds24                                                                                                                                  |                                 |                                            |                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|                                                                                                                                                          |                                 | The Infernal Aura                          | 40                                                       | Variant: Alternative Locations 50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| The Isthmus24                                                                                                                                            | !                               | of the Cursewood                           | 40                                                       | Variant: Alternative Locations 50<br>The Bréhat Archipelago 5                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| The Isthmus24 Auras and Vis Sites24                                                                                                                      | !<br>!                          | of the Cursewood<br>The Regio              | 40                                                       | Variant: Alternative Locations 50<br>The Bréhat Archipelago 5<br>The Brijuni Islands 5                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| The Isthmus24 Auras and Vis Sites24                                                                                                                      | !<br>!                          | of the Cursewood<br>The Regio<br>Vis Sites | 40<br>41                                                 | Variant: Alternative Locations 50<br>The Bréhat Archipelago 51<br>The Brijuni Islands 51<br>Loch Cuan 55                                                                                                                                                                                                                                                                                                                                                                                                           |
-| The Isthmus24 Auras and Vis Sites24 The Cathedral of St. Tryphaena24                                                                                     | !<br>!                          | of the Cursewood                           | 40                                                       | Variant: Alternative Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| The Isthmus24 Auras and Vis Sites24 The Cathedral of St. Tryphaena24 The Shrine of Jasonian Athena                                                       | !<br><del> </del><br>!          | of the Cursewood                           | 40<br>41<br>41                                           | Variant: Alternative Locations       50         The Brébat Archipelago       50         The Brijuni Islands       50         Loch Cuan       50         The Pontine Islands       50         INHABITANTS       50                                                                                                                                                                                                                                                                                                  |
-| The Isthmus                                                                                                                                              | !<br> -<br>!                    | of the Cursewood                           | 40 41 41 41                                              | Variant: Alternative Locations       5         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5                                                                                                                                                                                                                                                                    |
-| The Isthmus24 Auras and Vis Sites24 The Cathedral of St. Tryphaena24 The Shrine of Jasonian Athena and the Altar of Apollo of Landings25 Chytus Harbor25 | !<br> -<br>!                    | of the Cursewood                           | 40<br>41<br>41<br>41                                     | Variant: Alternative Locations       5         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5                                                                                                                                                                                                                                                                    |
-| The Isthmus                                                                                                                                              | !<br>                           | of the Cursewood                           | 40<br>41<br>41<br>41<br>41                               | Variant: Alternative Locations       5         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5                                                                                                                                                                                                                                         |
-| The Isthmus                                                                                                                                              | !<br> -<br> -<br> -<br> -<br> - | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41                         | Variant: Alternative Locations       5         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5                                                                                                                                                                                                                                                                    |
-| The Isthmus                                                                                                                                              | !<br>!<br>!                     | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41                         | Variant: Alternative Locations 50 The Bréhat Archipelago 55 The Brijuni Islands 55 Loch Cuan 55 The Pontine Islands 55 INHABITANTS 55 A Selection of Fish 55 The Remora 5 Magical Seabirds 56 Eider Ducks 55                                                                                                                                                                                                                                                                                                       |
-| The Isthmus                                                                                                                                              | !<br>!<br>!                     | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41                   | Variant: Alternative Locations       50         The Brébat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5                                                                                                                                                   |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood. The Regio                | 40<br>41<br>41<br>41<br>41<br>41<br>41                   | Variant: Alternative Locations       50         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5                                                                                                                       |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41<br>41             | Variant: Alternative Locations       5         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5         The Selkies       5                                                                                            |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41<br>41<br>42       | Variant: Alternative Locations       50         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5         The Selkies       5         Grey Seals       5                                                                |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41<br>42<br>42       | Variant: Alternative Locations       50         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5         The Selkies       5         Grey Seals       5         The Demons of Megstone       5                         |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41<br>42<br>42<br>42 | Variant: Alternative Locations       50         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5         The Selkies       5         Grey Seals       5         The Demons of Megstone       5         Introducing the |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41<br>42<br>42<br>42 | Variant: Alternative Locations       50         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5         The Selkies       5         Grey Seals       5         The Demons of Megstone       5                         |
-| The Isthmus                                                                                                                                              |                                 | of the Cursewood                           | 40<br>41<br>41<br>41<br>41<br>41<br>41<br>42<br>42<br>42 | Variant: Alternative Locations       50         The Bréhat Archipelago       5         The Brijuni Islands       5         Loch Cuan       5         The Pontine Islands       5         INHABITANTS       5         A Selection of Fish       5         The Remora       5         Magical Seabirds       5         Eider Ducks       5         Puffins       5         Storm Birds       5         The Selkies       5         Grey Seals       5         The Demons of Megstone       5         Introducing the |
+# Contents<br>
+<br>
+**Chapter 1: Introduction**<br>
+<br>
+**Chapter 2: Bath**<br>
+&emsp;Myths, Legends, History, and Rumors<br>
+&emsp;&emsp;Myths and Legends<br>
+&emsp;&emsp;History<br>
+&emsp;&emsp;Hospitals<br>
+&emsp;&emsp;Variant: It’s Natural, so Faeries Have Flocked Here<br>
+&emsp;Location and Description<br>
+&emsp;&emsp;Variant: Alternative Locations<br>
+&emsp;Inhabitants<br>
+&emsp;&emsp;Xaphan<br>
+&emsp;Introducing Bath into the Saga<br>
+&emsp;&emsp;Taking the Waters<br>
+&emsp;&emsp;The Process of Roman Bathing<br>
+&emsp;&emsp;The Process of Bathing in Bath in 1220<br>
+&emsp;&emsp;Hermetic Meetings<br>
+&emsp;&emsp;Mercere Houses<br>
+&emsp;&emsp;House Tytalus and Bladud the Leper Magus<br>
+&emsp;&emsp;Researching Bath<br>
+&emsp;Hooks for Using Bath Again<br>
+&emsp;&emsp;The Great Fermenter of the Seven Salts<br>
+&emsp;&emsp;Politics<br>
+&emsp;&emsp;William Brewer<br>
+&emsp;&emsp;Joscelin of Wells<br>
+&emsp;&emsp;Seeking An Apprentice<br>
+<br>
+**Chapter 3: Bear Island**<br>
+&emsp;Alternative Myth: The Isle of the Sleeping Fomóir<br>
+&emsp;The Geography of Bear Island<br>
+&emsp;Civilization<br>
+&emsp;&emsp;Artakia<br>
+&emsp;&emsp;Kyzikos<br>
+&emsp;&emsp;Harbors<br>
+&emsp;The Uncivilized Wilds<br>
+&emsp;&emsp;The Isthmus<br>
+&emsp;Auras and Vis Sites<br>
+&emsp;&emsp;The Cathedral of St. Tryphaena<br>
+&emsp;&emsp;The Shrine of Jasonian Athena and the Altar of Apollo of Landings<br>
+&emsp;&emsp;Chytus Harbor<br>
+&emsp;&emsp;The Spring of Artakia and the Fugitive Stone<br>
+&emsp;&emsp;The Leimonian Plain<br>
+&emsp;&emsp;The Thracian Harbor<br>
+&emsp;&emsp;Mount Dindymon and the Temenos of Dindyméné<br>
+&emsp;Regiones and Specific Magical Features<br>
+&emsp;&emsp;The Jasonian Way<br>
+&emsp;&emsp;The Faerie Regio of Dindyméné<br>
+&emsp;&emsp;The Magic Regio of Dindyméné<br>
+&emsp;&emsp;The Xoanon of Dindyméné<br>
+&emsp;Inhabitants<br>
+&emsp;Introducing Bear Island into the Saga<br>
+&emsp;&emsp;Shipwrecked!<br>
+&emsp;&emsp;Looking for Treasure<br>
+&emsp;&emsp;Looking for a Familiar<br>
+&emsp;&emsp;Looking for Arcane Lore<br>
+&emsp;&emsp;Monster Hunting<br>
+&emsp;&emsp;Waking the Titaness<br>
+&emsp;Hooks for Using Bear Island Again<br>
+&emsp;&emsp;Roaming Daktyls<br>
+&emsp;&emsp;Reestablishing the Balance<br>
+&emsp;&emsp;Home Sweet Home<br>
+&emsp;&emsp;Variations<br>
+<br>
+**Chapter 4: The Cursed Woods**<br>
+&emsp;History and Rumors<br>
+&emsp;&emsp;Variant: Shades of Grey<br>
+&emsp;Introducing the Cursewood into the Saga<br>
+&emsp;&emsp;Proxy Votes<br>
+&emsp;&emsp;The Infernal Connection<br>
+&emsp;&emsp;The Tytalean Red Herring<br>
+&emsp;&emsp;Variant: Theban Tribunal<br>
+&emsp;&emsp;Variant: Hibernian Tribunal<br>
+&emsp;&emsp;Variant: Normandy Tribunal<br>
+&emsp;The Cursewood<br>
+&emsp;&emsp;Trekking in the Cursewood<br>
+&emsp;&emsp;Trek Progress<br>
+&emsp;&emsp;Retreat and Defeat<br>
+&emsp;&emsp;Rest, Sleep, and Supplies<br>
+&emsp;&emsp;Hazards<br>
+&emsp;&emsp;Forest<br>
+&emsp;&emsp;Hills<br>
+&emsp;&emsp;Swamplands<br>
+&emsp;The Center of the Woods<br>
+&emsp;&emsp;Regulus’ Encampment<br>
+&emsp;&emsp;The Old Oak<br>
+&emsp;The Infernal Aura of the Cursewood<br>
+&emsp;The Regio<br>
+&emsp;Vis Sites<br>
+&emsp;&emsp;The Poisoned Sap<br>
+&emsp;&emsp;Apples of Indigo Hue<br>
+&emsp;&emsp;Crystal Geodes<br>
+&emsp;&emsp;The Silver Fish<br>
+&emsp;&emsp;The Lightning Tree<br>
+&emsp;&emsp;De-Corrupting the Vis<br>
+&emsp;Inhabitants<br>
+&emsp;Magical Treasures<br>
+&emsp;&emsp;Summae<br>
+&emsp;&emsp;Tractatus<br>
+&emsp;&emsp;Artifacts<br>
+&emsp;&emsp;Significatos<br>
+&emsp;&emsp;Variant: Dark Faerie Aura<br>
+&emsp;&emsp;Variant: Wyzwanie as a Faerie<br>
+&emsp;Researching the Cursewood<br>
+&emsp;&emsp;Regulus’ Home Covenant<br>
+&emsp;&emsp;Official Records<br>
+&emsp;&emsp;Regulus’ Amica<br>
+&emsp;&emsp;The Prying Monk<br>
+&emsp;Hooks for Using the Cursewood Again<br>
+&emsp;&emsp;Researchers Have Hit Paydirt<br>
+&emsp;&emsp;Chasing Rivals<br>
+&emsp;&emsp;Bringing Criminals to Justice<br>
+<br>
+**Chapter 5: The Farne Islands**<br>
+&emsp;Myths, Legends, History, and Rumors<br>
+&emsp;&emsp;A Mystical Archipelago<br>
+&emsp;&emsp;Northumberland<br>
+&emsp;&emsp;Bamburgh Castle<br>
+&emsp;&emsp;Getting to the Islands<br>
+&emsp;The Inner Islands<br>
+&emsp;&emsp;Inner Farne<br>
+&emsp;&emsp;The Wideopens<br>
+&emsp;&emsp;The Bridges, Solan Rock, Knoxes Reef, Knocklin Ends<br>
+&emsp;&emsp;Big and Little Scarcar<br>
+&emsp;&emsp;The Bush<br>
+&emsp;The Outer Islands<br>
+&emsp;&emsp;Staple Island<br>
+&emsp;&emsp;Brownsman Island<br>
+&emsp;&emsp;North and South Wamses and the Nameless Rock<br>
+&emsp;&emsp;Roddam and Green<br>
+&emsp;&emsp;Big and Little Harcar<br>
+&emsp;&emsp;Clove Car and Blue Caps<br>
+&emsp;&emsp;Longstone and Northern Hares<br>
+&emsp;&emsp;Knivestone<br>
+&emsp;Isolates<br>
+&emsp;&emsp;Megstone, Swedman, Elbow, Goldstone<br>
+&emsp;&emsp;Islestone Shad and Glororum Shad<br>
+&emsp;&emsp;Crumstone, Callers, Fang<br>
+&emsp;&emsp;Variant: Alternative Locations<br>
+&emsp;&emsp;The Bréhat Archipelago<br>
+&emsp;&emsp;The Brijuni Islands<br>
+&emsp;&emsp;Loch Cuan<br>
+&emsp;&emsp;The Pontine Islands<br>
+&emsp;Inhabitants<br>
+&emsp;&emsp;A Selection of Fish<br>
+&emsp;&emsp;The Remora<br>
+&emsp;&emsp;Magical Seabirds<br>
+&emsp;&emsp;Eider Ducks<br>
+&emsp;&emsp;Puffins<br>
+&emsp;&emsp;Storm Birds<br>
+&emsp;&emsp;The Selkies<br>
+&emsp;&emsp;Grey Seals<br>
+&emsp;&emsp;The Demons of Megstone<br>
+&emsp;Introducing the Farnes into the Saga<br>
+&emsp;&emsp;Story Hook: Flotsam<br>
+&emsp;&emsp;Story Hook: Jetsam<br>
+&emsp;&emsp;Story Hook: Lagan<br>
+&emsp;&emsp;Researching the Farne Islands<br>
+&emsp;Hooks for Using the Farne Islands Again<br>
+&emsp;&emsp;Story Hook: An Island Retreat<br>
+<br>
+**Chapter 6: The Poisoned Earth**<br>
+&emsp;Myths, Legends, History, and Rumors<br>
+&emsp;&emsp;The Mendip Hills<br>
+&emsp;&emsp;The Site of the Battle<br>
+&emsp;&emsp;Alternative Locations<br>
+&emsp;Aura<br>
+&emsp;&emsp;The Cave of the Inscription<br>
+&emsp;Vis<br>
+&emsp;&emsp;The Blue Apples of Twilight<br>
+&emsp;&emsp;The Witch of Wookey Hole<br>
+&emsp;&emsp;The Teasels of Somerset Levels<br>
+&emsp;Introducing the Battlefield into the Saga<br>
+&emsp;&emsp;Arsenic<br>
+&emsp;&emsp;Assassin<br>
+&emsp;&emsp;Demons<br>
+&emsp;&emsp;Metallic Arsenic<br>
+&emsp;&emsp;Rampaging Monster<br>
+&emsp;&emsp;Researching the Battlefield<br>
+&emsp;Hooks for Using the Battlefield Again<br>
+&emsp;&emsp;Return from Faerie<br>
+&emsp;&emsp;The Second Inscription<br>
+<br>
+**Chapter 7: The Purgatory of Saint Patrick**<br>
+&emsp;Myths, Legends, History, and Rumors<br>
+&emsp;&emsp;Reflections of Heaven and Hell<br>
+&emsp;&emsp;The Islands<br>
+&emsp;&emsp;The Canons of Patrick’s Island<br>
+&emsp;&emsp;The Cave on Saint’s Island<br>
+&emsp;&emsp;The Pilgrims’ Progress<br>
+&emsp;The Vision of Hell<br>
+&emsp;&emsp;The Field of Chains<br>
+&emsp;&emsp;The Field of Nails<br>
+&emsp;&emsp;The Field of Hooks<br>
+&emsp;&emsp;The Wheel of Fire<br>
+&emsp;&emsp;The Mountain of Blood<br>
+&emsp;&emsp;The House of Flames and Smoke<br>
+&emsp;&emsp;The Abyssal Pit<br>
+&emsp;&emsp;The Boiling River<br>
+&emsp;&emsp;The Mouth of Hell<br>
+&emsp;&emsp;The Bridge to Paradise<br>
+&emsp;The Vision of Heaven<br>
+&emsp;&emsp;The Gate of Paradise<br>
+&emsp;&emsp;The Procession of the Saved<br>
+&emsp;&emsp;The Tour of the Earthly Paradise<br>
+&emsp;&emsp;The Heavenly Paradise<br>
+&emsp;&emsp;Variants: Alternative Locations<br>
+&emsp;&emsp;Cennet and Cehennem<br>
+&emsp;&emsp;Taenerus<br>
+&emsp;&emsp;Lake Avernus<br>
+&emsp;&emsp;Mount Etna and other Volcanoes<br>
+&emsp;Inhabitants<br>
+&emsp;&emsp;The Brawling Fiends<br>
+&emsp;&emsp;Souls in Purgatory and Paradise<br>
+&emsp;Introducing the Purgatory of Saint Patrick into the Saga<br>
+&emsp;&emsp;A Destination for Pilgrimage<br>
+&emsp;&emsp;Other Stories<br>
+&emsp;&emsp;An Unsafe Refuge<br>
+&emsp;&emsp;A Hiding Place<br>
+&emsp;&emsp;A Key to the Door<br>
+&emsp;&emsp;Hell on Earth<br>
+&emsp;&emsp;Things to Do in Purgatory When You’re Not Dead<br>
+&emsp;&emsp;Insight into Original Research<br>
+&emsp;&emsp;Interrogating the Damned or the Blessed<br>
+&emsp;&emsp;The End of the Quest<br>
+&emsp;&emsp;A False Return<br>
+&emsp;&emsp;Jailbreak<br>
+&emsp;&emsp;Researching the Purgatory of Saint Patrick<br>
+<br>
+**Chapter 8: The Fallen Temple of Mercury**<br>
+&emsp;The Cult of Mercury<br>
+&emsp;History of the Temple<br>
+&emsp;Introducing the Fallen Temple<br>
+&emsp;&emsp;Story Seed: Curious Books<br>
+&emsp;&emsp;Story Seed: The Past Lives of Stones<br>
+&emsp;&emsp;Story Seed: A Vision of an Empty Temple<br>
+&emsp;&emsp;Story Seed: One Step Forward<br>
+&emsp;The Fallen Temple<br>
+&emsp;&emsp;Where is the Temple?<br>
+&emsp;&emsp;The Triumphal Arch<br>
+&emsp;&emsp;The Town Beyond the Arch<br>
+&emsp;&emsp;Insula<br>
+&emsp;&emsp;Domus<br>
+&emsp;&emsp;Amphitheater<br>
+&emsp;&emsp;Forum<br>
+&emsp;&emsp;Warehouses and Granary<br>
+&emsp;&emsp;Basilica<br>
+&emsp;&emsp;The Annals of Mercury<br>
+&emsp;&emsp;Aqueduct<br>
+&emsp;&emsp;Baths<br>
+&emsp;&emsp;The Temple of Mercury<br>
+&emsp;The Mercurian Rituals<br>
+&emsp;&emsp;Reading the Mercurian Rituals<br>
+&emsp;&emsp;Learning the Mercurian Rituals<br>
+&emsp;&emsp;Casting the Mercurian Rituals<br>
+&emsp;&emsp;Hermetic Versions of the Mercurian Rituals<br>
+&emsp;&emsp;Purification<br>
+&emsp;&emsp;The Scrying Pool<br>
+&emsp;&emsp;Raising the Auxiliaries for a Day<br>
+&emsp;&emsp;Penetrate the Regio Skin<br>
+&emsp;&emsp;Blessing of Mercury<br>
+&emsp;&emsp;Transformation of Flesh to Spirit<br>
+&emsp;&emsp;Wizard’s Initiation<br>
+&emsp;&emsp;Consecration of Mercury’s House<br>
+&emsp;&emsp;Commune with Mercury<br>
+&emsp;&emsp;Wizard’s Communion<br>
+&emsp;Opponents<br>
+&emsp;&emsp;Story Seed: A Rival Expedition<br>
+&emsp;&emsp;Story Seed: The Dead Amongst Us<br>
+&emsp;&emsp;Story Seed: The Cult<br>
+&emsp;Returning to the Temple<br>
+&emsp;&emsp;A Trip to the Toy Market<br>
+&emsp;&emsp;Story Seed: A Tempting Portal<br>
+&emsp;&emsp;Story Seed: The Baron’s Gift<br>
+&emsp;&emsp;Story Seed: Toys that Break the Code<br>
+&emsp;&emsp;Story Seed: Toy Courier<br>
+&emsp;&emsp;Story Seed: To Hell and Beyond<br>
+<br>
+**Chapter 9: The Faerie Toy Market on Devil’s Lane**<br>
+&emsp;The Streets<br>
+&emsp;&emsp;Devil’s Lane<br>
+&emsp;&emsp;The Alleyways<br>
+&emsp;&emsp;The Alley Wards<br>
+&emsp;&emsp;The Rat Pack<br>
+&emsp;&emsp;The Merchants<br>
+&emsp;&emsp;Market Guild<br>
+&emsp;&emsp;Councilors<br>
+&emsp;&emsp;Buying Toys<br>
+&emsp;&emsp;Commissioning Toys<br>
+&emsp;&emsp;Limited Life-Time<br>
+&emsp;&emsp;The Toys<br>
+&emsp;&emsp;Angel Eyes Potion<br>
+&emsp;&emsp;Bird Bane<br>
+&emsp;&emsp;The Book of Beasts<br>
+&emsp;&emsp;The Dove Hat<br>
+&emsp;&emsp;The Forest Giant<br>
+&emsp;&emsp;The Girdle of Change<br>
+&emsp;&emsp;Green Flame Powder<br>
+&emsp;&emsp;Hat That Grants the Over-Anxious Father Peace of Mind<br>
+&emsp;&emsp;Hen Dust<br>
+&emsp;&emsp;Inverted Water Wheel<br>
+&emsp;&emsp;Love Potion<br>
+&emsp;&emsp;The Magic Money Box<br>
+&emsp;&emsp;Miraculous Beer Mug<br>
+&emsp;&emsp;One Romantic Evening<br>
+&emsp;&emsp;Rain Parasol<br>
+&emsp;&emsp;The Rat Pipe<br>
+&emsp;&emsp;The Siege of Constantinople<br>
+&emsp;&emsp;The Silvery Miraculous Daffodil Wand<br>
+&emsp;&emsp;The Scrying Bowls<br>
+&emsp;&emsp;Wand of Dancing Flowers<br>
+&emsp;&emsp;Wand of Horses<br>
+&emsp;&emsp;The Wooden Knights<br>
+&emsp;The Workshops<br>
+&emsp;&emsp;What Can Be Made?<br>
+&emsp;The Devil’s Lane Covenant<br>
+&emsp;&emsp;Julia’s Laboratory<br>
+&emsp;&emsp;Bartholomew’s Laboratory<br>
+&emsp;Returning to the Devil’s Lane Toymarket<br>
+<br>
+**Chapter 10: The Truffle Matron**<br>
+&emsp;Truffles of the Realm<br>
+&emsp;&emsp;Varieties of Truffles in Your Saga<br>
+&emsp;Location of the Truffle Realm<br>
+&emsp;The Realm of the Truffles<br>
+&emsp;&emsp;Regio Entrance<br>
+&emsp;&emsp;Truffle Fields<br>
+&emsp;&emsp;Truffle Holt<br>
+&emsp;&emsp;Truffle Council Chamber<br>
+&emsp;&emsp;Tests of the Truffle Matron<br>
+&emsp;Features of the Truffle Regio<br>
+&emsp;&emsp;Aura<br>
+&emsp;&emsp;Vis Sources<br>
+&emsp;&emsp;Beech Tree of Virtue<br>
+&emsp;&emsp;Poplar Tree of Virtue<br>
+&emsp;&emsp;Creatures of Virtue<br>
+&emsp;&emsp;Truffles of Virtue<br>
+&emsp;&emsp;Spell-like Creo Herbam Vis<br>
+&emsp;&emsp;Lesser Enchantment Imaginem Vis<br>
+&emsp;&emsp;Lesser Enchantment Rego Animal Vis<br>
+&emsp;&emsp;Spell-like Herbam Vis<br>
+&emsp;Inhabitants of the Truffle Regio<br>
+&emsp;&emsp;Truffle Drones<br>
+&emsp;&emsp;Truffle Workers<br>
+&emsp;&emsp;Truffle Daughters<br>
+&emsp;&emsp;The Truffle Matron<br>
+&emsp;Introducing the Truffle Regio into the Saga<br>
+&emsp;&emsp;Invitation from a Daughter<br>
+&emsp;&emsp;The Vanishing Familiar<br>
+&emsp;&emsp;The Missing Hunters<br>
+&emsp;&emsp;The Frightened Foresters<br>
+&emsp;&emsp;Researching the Truffle Regio<br>
+&emsp;&emsp;Chatty Kitty<br>
+&emsp;&emsp;Old Grogs Never Die…<br>
+&emsp;&emsp;A Trip to the Library<br>
+&emsp;Returning to the Truffle Regio<br>
+&emsp;&emsp;The Matron’s Tasks<br>
+&emsp;&emsp;Successor for the Wild Boar<br>
+&emsp;&emsp;Request of a Daughter<br>
+<br>
+**Chapter 11: The Wolf’s Court**<br>
+&emsp;Myths, Legends, History, and Rumors<br>
+&emsp;&emsp;Court or Courts?<br>
+&emsp;&emsp;A Spirit of Vengeance<br>
+&emsp;&emsp;The Mystery of the Lupercalia<br>
+&emsp;&emsp;The Interpretatio Romana<br>
+&emsp;&emsp;Variants: The She-Wolf in Other Cultures<br>
+&emsp;The Fane of Vengeance<br>
+&emsp;The Forest<br>
+&emsp;&emsp;Encounters in the Forest<br>
+&emsp;The Court<br>
+&emsp;Inhabitants<br>
+&emsp;&emsp;How the She-Wolf Grants Revenge<br>
+&emsp;&emsp;The Ritual of Passing on the Power<br>
+&emsp;&emsp;Variants: The She-Wolf<br>
+&emsp;&emsp;Variant: The She-Wolf as a Faerie<br>
+&emsp;&emsp;Variant: The She-Wolf as a Demon<br>
+&emsp;&emsp;Variant: The She-Wolf as a Divine Instrument<br>
+&emsp;The Wolf Brothers<br>
+&emsp;&emsp;The Luperci<br>
+&emsp;&emsp;The Lupercalia<br>
+&emsp;&emsp;Wolves of the Majarida Mountains<br>
+&emsp;Hunted by Wolves<br>
+&emsp;&emsp;The Stalk<br>
+&emsp;&emsp;The Encounter<br>
+&emsp;&emsp;The Rush<br>
+&emsp;&emsp;The Chase<br>
+&emsp;&emsp;The Kill<br>
+&emsp;Introducing the Wolf’s Court into the Saga<br>
+&emsp;&emsp;Story Hook: The Murdered Brother<br>
+&emsp;&emsp;Story Hook: The King’s Wolf<br>
+&emsp;&emsp;Story Hook: A Wife’s Revenge<br>
+&emsp;&emsp;Researching the Wolf’s Court<br>
+&emsp;Hooks for using the Wolf’s Court Again<br>
+&emsp;&emsp;Story Hook: An End to Vengeance<br>
+&emsp;&emsp;Story Hook: A Wolf’s War<br>
+&emsp;&emsp;Story Hook: Echoes of Wilkis<br>
+&emsp;&emsp;Story Hook: The Wolf Brotherhood<br>
 
 |                                                               | 4   | Mythic Locations                                                      | A   |                                                     |
 |---------------------------------------------------------------|-----|-----------------------------------------------------------------------|-----|-----------------------------------------------------|
@@ -7054,4 +7385,5 @@ A Bjornaer magus who reports encountering the Wolfs Court to his house will be t
 Characters who have pursued an enemy and are close to capturing him might feel dismayed if the Luperci get to him first. Discovering the link between the Luperci and the She-Wolf, the characters might travel to the Wolf's Court to confront the Luperci, especially if the enemy they were chasing had knowledge or plunder that the characters need.
 
 The Luperci are likely to develop into an enemy — or at least a hindrance — to the player characters. The Order of Hermes is founded on principles of fairness and equity, and the concept of a vigilante group is likely to be repugnant to them.
+
 
