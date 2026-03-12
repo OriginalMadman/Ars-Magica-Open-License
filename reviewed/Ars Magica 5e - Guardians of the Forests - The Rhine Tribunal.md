@@ -245,7 +245,7 @@ When Charlemagne died, two completely contradictory forces strove for mastery. T
 > Siegfried, a knight from the city of Xanten on the lower Rhine, hears of the great beauty of Kriemhild, sister of the Burgundian king, Gunther, and decides to woo her. Upon his arrival in Worms, only Hagen, Gunther's most powerful vassal, recognizes him, and relates his heroic deeds: Siegfried firstly won a great treasure from the Nibelungs (two princes and brothers named Schilbung and Nibelung), by slaying them. After taking the Tarnkappe (a cloak of darkness) from Alberich, the dwarven treasurer of the Nibelungs, he rose to become ruler of Nibelungland. Hagen also tells of how Siegfried had killed the dragon Fafnir and bathed in its blood, after which his body became invulnerable. (In fact he had only one vulnerable spot, between his shoulder blades, where a large leaf had rested on his skin as he was soaked in the dragon's blood.)
 >
 > King Gunther allows Siegfried to marry Kriemhild, on the condition that he helps him to gain the hand of Brünhild, the legendarily strong queen of Iceland. Siegfried agrees, and upon their arrival in Iceland, Brünhild is most disappointed that it is Gunther, instead of Siegfried, who has come to woo her. Nevertheless, she agrees to marry Gunther if he can best her in three contests of strength. With the use of the Tarnkappe, Siegfried manages to substitute himself for Gunther in the contest, and deceive Brünhild into thinking that Gunther has bested her. Returning to Worms, a double marriage is arranged: Gunther with Brünhild and Siegfried with Kriemhild. Of these four, only Brünhild is unhappy, since she is in love with Siegfried instead. Gunther's marriage immediately hits difficulties, as his new wife overpowers him on their wedding night and hangs him up on the wall. Siegfried again helps Gunther, and takes his place in the bedchamber, overpowering and restraining Brünhild, so that Gunther can deflower her. Brünhild loses her great strength, which relied on her maidenhood. However Siegfried also takes Brünhild's ring and girdle, and gifts them to Kriemhild. He returns home with his new wife, where he becomes king of the Nether Lands, and they live happily for ten years.
-
+>
 > ###### THE DEATH OF SIEGFRIED
 >
 > In Worms, Brünhild remains unhappy in her marriage to Gunther, still unaware of how he cheated to gain her hand. Siegfried and Kriemhild return for a festival, at which Gunther treats him as an equal. Brünhild, however, thinks that Siegfried is a vassal of Gunther, and treats Kriemhild as her inferior, leading to a quarrel between the two queens. Kriemhild claims that Siegfried is braver and stronger than her brother Gunther, which she proves by revealing that it was Siegfried who had overpowered her in her bedchamber. She claims (wrongly) that it was Siegfried who had claimed her virginity, and reveals the belt and girdle. Brünhild is mortally embarrassed and Gunther has no choice but to confront Siegfried. Siegfried swears that he never claimed to be Brünhild's first man, which Gunther accepts.
@@ -265,22 +265,20 @@ When Charlemagne died, two completely contradictory forces strove for mastery. T
 
 ## The Rise of the New Empire
 
-Although united under the heirs of Louis the German, the great tribal groups of Saxons, Swabians, Bavarians, Burgundians, and east Franks (Franconians) were only prepared to acknowledge a nominal king provided that he did not interfere with their own internal affairs. Meanwhile, western Christendom was being harried by enemies from all directions. Moslem power was firmly entrenched in Spain, and Moslems were raiding the southern shores of Italy. The northern coasts were ravaged by Northmen and Danes. Then, across the plains of Europe appeared a new threat in the onward move of the Magyars. It was this last danger that caused the German clans to rally for a time under one leader, Henry the Fowler, duke of the Saxons, when the German crown passed to him in 919. In a battle at Riade on the River Unstrut in 933, he defeated the Magyar hordes. Such was the prestige gained by this victory that Henry was able to secure from the other tribes their consent to the succession of his son
-
-Otto, upon his death. The kingship was by no means hereditary, but the instinct of self-preservation made the other German tribes realize the wisdom of this strategy. Otto was crowed at Aachen in 936, and justified his election by a second victory over the Magyars at the Battle of the Lech in Bavaria in 955. The imperial coronation of Otto I in Rome (962) served to legitimize this vast acquisition; and the German kings, henceforth surnamed Emperor, became inextricably entangled in the politics of Italy.
+Although united under the heirs of Louis the German, the great tribal groups of Saxons, Swabians, Bavarians, Burgundians, and east Franks (Franconians) were only prepared to acknowledge a nominal king provided that he did not interfere with their own internal affairs. Meanwhile, western Christendom was being harried by enemies from all directions. Moslem power was firmly entrenched in Spain, and Moslems were raiding the southern shores of Italy. The northern coasts were ravaged by Northmen and Danes. Then, across the plains of Europe appeared a new threat in the onward move of the Magyars. It was this last danger that caused the German clans to rally for a time under one leader, Henry the Fowler, duke of the Saxons, when the German crown passed to him in 919. In a battle at Riade on the River Unstrut in 933, he defeated the Magyar hordes. Such was the prestige gained by this victory that Henry was able to secure from the other tribes their consent to the succession of his son Otto, upon his death. The kingship was by no means hereditary, but the instinct of self-preservation made the other German tribes realize the wisdom of this strategy. Otto was crowed at Aachen in 936, and justified his election by a second victory over the Magyars at the Battle of the Lech in Bavaria in 955. The imperial coronation of Otto I in Rome (962) served to legitimize this vast acquisition; and the German kings, henceforth surnamed Emperor, became inextricably entangled in the politics of Italy.
 
 > ##### Invasions of the Horsemen
-
+>
 > The Magyars were horsemen who moved into the Hungarian plain in the last years of the 9th century, and almost immediately began to plunder the neighboring areas, first northern Italy, then Germany; and, on their longest raids, deep into France. Their advantages of speed and surprise made opposition difficult, and in open country their horsemanship was markedly superior to that of their German or Italian opponents. But in mountainous country and at river crossings, especially when returning home laden with booty, they were more vulnerable and German rulers thus had some successes against them. The threat was finally ended by the victory of Otto I at Lechfeld near Augsburg in 955, after which the Magyar leaders were executed and the assimilation of the Magyars into western Christendom began.
-
+> 
 > During this assimilation period, House Bjornaer adopted three Magyar shapechangers into the Order. The lineage of these brave and independentspirited Bjornaer with the heartbeast of a horse still exists within the House.
-
+>
 > ###### WIEDERICH OF HOUSE FLAMBEAU
-
+> 
 > Wiederich was the only survivor when the Magyars attacked the covenant of Sirmium in 930. Wiederich immediately joined Henry's army, determined to avenge himself upon the horseman invaders. It is known that the Magyars brought wizards with them, but whether Wiederich was responsible for killing them is not clear; nevertheless, they were not present when Henry defeated the Magyars at Riade. Wiederich was also part of Otto's army, and present at the Battle of the Lech.
-
+>
 > ###### STORY SEED: BLOOD ENEMIES
-
+> 
 > Wiederich's descendants, who still burn with historic resentment drilled into them by their masters, dog the steps of the Magyar-descended members of House Bjornaer. They have been known to scheme with all the forethought of a Tytalus when their "blood enemies" are located. A player character could play either part in the feud, or be caught in the crossfire.
 
 
@@ -5228,4 +5226,5 @@ These works were referred to in writing this supplement, and may be of use to th
 - Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/~workshop/papers/gardner\_102802.pdf
 
 - *LEO English-German Dictionary*: http://dict.leo.org/
+
 
