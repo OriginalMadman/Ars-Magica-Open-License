@@ -674,9 +674,9 @@ In the usual course of events, activities that benefit the aura are mostly cance
 >Temporary aura increase: The aura score increases by 1 for one season.
 >
 >#### Total: 12
-
+>
 >Vis creation: 1 to 3 pawns of vis spontaneously manifest in the aura. Either the harvest of an existing source of vis is increased, or the vis appears somewhere else, typically growing or coalescing in some fashion, which may not necessarily be noticed. This effect is temporary, but the vis gained is real and permanent.
-
+>
 >#### Total: 13
 >
 >Patches of stronger aura: The aura strength increases by 1 in part of the aura, such as one chamber or laboratory, perhaps at the center of the aura. Any mundane resident in this part of the aura gains a Warping Point.
