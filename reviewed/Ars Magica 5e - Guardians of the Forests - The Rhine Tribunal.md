@@ -15,13 +15,19 @@ Guardians of the Forests reveals the many unique traditions of the First Tribuna
 
 
 
-**AUTHORS:** Mark Shirley and Andrew Smith **EDITING AND DEVELOPMENT:** David Chart **COVER ILLUSTRATION:** Grey Thornberry
+**AUTHORS:** Mark Shirley and Andrew Smith
 
-**INTERIOR ART:** Grey Thornberry, Wilhelm Beckmann, K.
+**EDITING AND DEVELOPMENT:** David Chart
 
-Dielitz, Alphonse de Neuville, S. Schneider **CARTOGRAPHY:** Alexander Bradley, Andrew Smith
+**COVER ILLUSTRATION:** Grey Thornberry
 
-**ARS MAGICA 5TH EDITION TRADE DRESS:** J. Scott Reeves **LAYOUT AND ART COORDINATION:** John Nephew
+**INTERIOR ART:** Grey Thornberry, Wilhelm Beckmann, K. Dielitz, Alphonse de Neuville, S. Schneider
+
+**CARTOGRAPHY:** Alexander Bradley, Andrew Smith
+
+**ARS MAGICA 5TH EDITION TRADE DRESS:** J. Scott Reeves
+
+**LAYOUT AND ART COORDINATION:** John Nephew
 
 **PROOFREADING:** Michelle Nephew
 
@@ -95,7 +101,7 @@ Holstein
 Oculus Septentrionalis
 Saxony
 
-**Chapter VIII: Central Germany **
+**Chapter VIII: Central Germany**
 The Harz Mountains
 Fengheld
 Thuringia
@@ -245,7 +251,7 @@ When Charlemagne died, two completely contradictory forces strove for mastery. T
 > Siegfried, a knight from the city of Xanten on the lower Rhine, hears of the great beauty of Kriemhild, sister of the Burgundian king, Gunther, and decides to woo her. Upon his arrival in Worms, only Hagen, Gunther's most powerful vassal, recognizes him, and relates his heroic deeds: Siegfried firstly won a great treasure from the Nibelungs (two princes and brothers named Schilbung and Nibelung), by slaying them. After taking the Tarnkappe (a cloak of darkness) from Alberich, the dwarven treasurer of the Nibelungs, he rose to become ruler of Nibelungland. Hagen also tells of how Siegfried had killed the dragon Fafnir and bathed in its blood, after which his body became invulnerable. (In fact he had only one vulnerable spot, between his shoulder blades, where a large leaf had rested on his skin as he was soaked in the dragon's blood.)
 >
 > King Gunther allows Siegfried to marry Kriemhild, on the condition that he helps him to gain the hand of Brünhild, the legendarily strong queen of Iceland. Siegfried agrees, and upon their arrival in Iceland, Brünhild is most disappointed that it is Gunther, instead of Siegfried, who has come to woo her. Nevertheless, she agrees to marry Gunther if he can best her in three contests of strength. With the use of the Tarnkappe, Siegfried manages to substitute himself for Gunther in the contest, and deceive Brünhild into thinking that Gunther has bested her. Returning to Worms, a double marriage is arranged: Gunther with Brünhild and Siegfried with Kriemhild. Of these four, only Brünhild is unhappy, since she is in love with Siegfried instead. Gunther's marriage immediately hits difficulties, as his new wife overpowers him on their wedding night and hangs him up on the wall. Siegfried again helps Gunther, and takes his place in the bedchamber, overpowering and restraining Brünhild, so that Gunther can deflower her. Brünhild loses her great strength, which relied on her maidenhood. However Siegfried also takes Brünhild's ring and girdle, and gifts them to Kriemhild. He returns home with his new wife, where he becomes king of the Nether Lands, and they live happily for ten years.
-
+>
 > ###### THE DEATH OF SIEGFRIED
 >
 > In Worms, Brünhild remains unhappy in her marriage to Gunther, still unaware of how he cheated to gain her hand. Siegfried and Kriemhild return for a festival, at which Gunther treats him as an equal. Brünhild, however, thinks that Siegfried is a vassal of Gunther, and treats Kriemhild as her inferior, leading to a quarrel between the two queens. Kriemhild claims that Siegfried is braver and stronger than her brother Gunther, which she proves by revealing that it was Siegfried who had overpowered her in her bedchamber. She claims (wrongly) that it was Siegfried who had claimed her virginity, and reveals the belt and girdle. Brünhild is mortally embarrassed and Gunther has no choice but to confront Siegfried. Siegfried swears that he never claimed to be Brünhild's first man, which Gunther accepts.
@@ -265,22 +271,20 @@ When Charlemagne died, two completely contradictory forces strove for mastery. T
 
 ## The Rise of the New Empire
 
-Although united under the heirs of Louis the German, the great tribal groups of Saxons, Swabians, Bavarians, Burgundians, and east Franks (Franconians) were only prepared to acknowledge a nominal king provided that he did not interfere with their own internal affairs. Meanwhile, western Christendom was being harried by enemies from all directions. Moslem power was firmly entrenched in Spain, and Moslems were raiding the southern shores of Italy. The northern coasts were ravaged by Northmen and Danes. Then, across the plains of Europe appeared a new threat in the onward move of the Magyars. It was this last danger that caused the German clans to rally for a time under one leader, Henry the Fowler, duke of the Saxons, when the German crown passed to him in 919. In a battle at Riade on the River Unstrut in 933, he defeated the Magyar hordes. Such was the prestige gained by this victory that Henry was able to secure from the other tribes their consent to the succession of his son
-
-Otto, upon his death. The kingship was by no means hereditary, but the instinct of self-preservation made the other German tribes realize the wisdom of this strategy. Otto was crowed at Aachen in 936, and justified his election by a second victory over the Magyars at the Battle of the Lech in Bavaria in 955. The imperial coronation of Otto I in Rome (962) served to legitimize this vast acquisition; and the German kings, henceforth surnamed Emperor, became inextricably entangled in the politics of Italy.
+Although united under the heirs of Louis the German, the great tribal groups of Saxons, Swabians, Bavarians, Burgundians, and east Franks (Franconians) were only prepared to acknowledge a nominal king provided that he did not interfere with their own internal affairs. Meanwhile, western Christendom was being harried by enemies from all directions. Moslem power was firmly entrenched in Spain, and Moslems were raiding the southern shores of Italy. The northern coasts were ravaged by Northmen and Danes. Then, across the plains of Europe appeared a new threat in the onward move of the Magyars. It was this last danger that caused the German clans to rally for a time under one leader, Henry the Fowler, duke of the Saxons, when the German crown passed to him in 919. In a battle at Riade on the River Unstrut in 933, he defeated the Magyar hordes. Such was the prestige gained by this victory that Henry was able to secure from the other tribes their consent to the succession of his son Otto, upon his death. The kingship was by no means hereditary, but the instinct of self-preservation made the other German tribes realize the wisdom of this strategy. Otto was crowed at Aachen in 936, and justified his election by a second victory over the Magyars at the Battle of the Lech in Bavaria in 955. The imperial coronation of Otto I in Rome (962) served to legitimize this vast acquisition; and the German kings, henceforth surnamed Emperor, became inextricably entangled in the politics of Italy.
 
 > ##### Invasions of the Horsemen
-
+>
 > The Magyars were horsemen who moved into the Hungarian plain in the last years of the 9th century, and almost immediately began to plunder the neighboring areas, first northern Italy, then Germany; and, on their longest raids, deep into France. Their advantages of speed and surprise made opposition difficult, and in open country their horsemanship was markedly superior to that of their German or Italian opponents. But in mountainous country and at river crossings, especially when returning home laden with booty, they were more vulnerable and German rulers thus had some successes against them. The threat was finally ended by the victory of Otto I at Lechfeld near Augsburg in 955, after which the Magyar leaders were executed and the assimilation of the Magyars into western Christendom began.
-
+> 
 > During this assimilation period, House Bjornaer adopted three Magyar shapechangers into the Order. The lineage of these brave and independentspirited Bjornaer with the heartbeast of a horse still exists within the House.
-
+>
 > ###### WIEDERICH OF HOUSE FLAMBEAU
-
+> 
 > Wiederich was the only survivor when the Magyars attacked the covenant of Sirmium in 930. Wiederich immediately joined Henry's army, determined to avenge himself upon the horseman invaders. It is known that the Magyars brought wizards with them, but whether Wiederich was responsible for killing them is not clear; nevertheless, they were not present when Henry defeated the Magyars at Riade. Wiederich was also part of Otto's army, and present at the Battle of the Lech.
-
+>
 > ###### STORY SEED: BLOOD ENEMIES
-
+> 
 > Wiederich's descendants, who still burn with historic resentment drilled into them by their masters, dog the steps of the Magyar-descended members of House Bjornaer. They have been known to scheme with all the forethought of a Tytalus when their "blood enemies" are located. A player character could play either part in the feud, or be caught in the crossfire.
 
 
@@ -289,59 +293,59 @@ Otto, upon his death. The kingship was by no means hereditary, but the instinct 
 The Ottonian Empire, lead by four emperors of the house of Welf in Saxony, emerged as the leading power west of the Adriatic, claiming equal status with Byzantium in the east. In 1033, the empire was expanded by the addition of Burgundy, and after 1037 the Italian magnates acquiesced to the lordship of the German king over northern Italy. Dynastic changes, from Saxon to Salian (1024) and then to Hohenstaufen (1138) made little difference to the empire's political structure. Although the Salian dynasty tried to establish primogeniture, it was never fully accepted, and partible inheritance of land is still the norm in Germany. Fortunately for the survival of the empire, inheritance was never an issue: each of the four Welf emperors had only one successor. Had it been otherwise, the empire would have either been divided between them, or fallen into infighting over inheritance. In fact, owing to an extraordinary series of coincidences, it was not until 1190 that an emperor (Frederick I) was survived by more than one son, by which time division of the empire was unthinkable.
 
 > ##### The Invigilors
-
+>
 > House Guernicus investigated Drogo Invigilor of Tremere, a member of Fengheld covenant who was closely associated with the Welfs; however, their suspicions that he was responsible for arranging accidents for the other heirs could not be proved. His filius, Friderich Invigilor, was similarly investigated for his association with the Salians, and Adelheid Invigilix filia Friderich now watches the Hohenstaufens. They are either very subtle with their manipulation, or guiltless; but the best Quaesitors of the Order cannot determine which.
 
 > ##### German Nobility
-
+>
 > The German nobility is divided into two groups, the princely nobility and the lesser nobility. The princely nobility have the right to attend a Diet (formal council) called by the emperor, and elect the King of the Germans.
-
+>
 > ###### PRINCELY NOBILITY
-
+>
 > Beneath the **Holy Roman Emperor** himself and the important ranks of **duke (Herzog)** and **archbishop (Erzbischof)**, lie a multitude of other noble titles. Fiefs are only inherited in the direct male line, but are often broken up, since primogeniture (sole inheritance) is not widely practiced in Germany. For this reason, many of the German provinces have fractured into a myriad of smaller estates. New estates are steadily provided by colonization in the eastern lands, and by the clearing of forests and the draining of swamps.
-
+>
 > ###### PRINCE-BISHOP (FÜRSTBISCHOF)
-
+>
 > Many German bishops also serve a secular function as landed vassals of the king. The German kings endowed them with large holdings in previous centuries, before the Investiture Contest, in order to secure their support against ducal rivals. Bishops often delegate the administration of their fiefs to a lay **advocate (Vogt)** who, unlike them, has the power to impose capital punishment, and some of whom have grown to inherit estates in their own right.
-
+>
 > ###### LANDGRAVE (LANDGRAF)
-
+>
 > The title of **landgrave** is used to denote a count whose jurisdiction spreads over a relatively large territory, greater than a typical county but smaller than a duchy, who enjoys significant regional administrative rights.
-
+>
 > ###### MARGRAVE (MARKGRAF)
-
+>
 > The title of **margrave,** meaning "count of the March", was bestowed upon the military governor of an outlying or border province of the empire, a so-called March or Margravate. The estates of these rulers were large, and they held considerable powers relative to other, lesser counts. Rulership of the Marches is now usually inherited, since the establishment of the feudal system therein.
-
+>
 > ###### COUNT PALATINE (PFALZGRAF)
-
+>
 > The title of **count palatine** title arose from the appointment of a judicial governor to a royal estate (Palatinate), which were often created to counterbalance the power of provincial dukes. Such estates and titles have become hereditary.
-
+>
 > ###### OTHER COUNTS
-
+>
 > Other slightly lesser titles include **burgrave (Burggraf)**, the military governor of a castle and its town and surrounding countryside, **rhinegrave (Rheingraf)**, the governor of a Rhine castle with the right to collect tolls, **altgrave (Altgraf)**, the count of a mountainous (Alpine) region with the right to collect tolls in a pass, and **wildgrave (Waldgraf)**, the count with jurisdiction over an uncultivated or forest district.
-
+>
 > ###### LESSER NOBILITY
-
+>
 > Members of the lesser nobility do not have the right to participate in the Diet that elects the German king.
-
+>
 > ###### BARON (FREIHERR)
-
+>
 > A **baron** is a minor landed noble, usually a vassal of a duke, archbishop, or count.
-
+>
 > ###### MINISTERIALIS (DIENSTMAN)
-
+>
 > The lowest noble rank is that of **ministerialis,** or unfree knight, originally a freeman who chose to enter bondage in exchange for the status and trappings of a knight. Although they are nobles, they are subject to the arbitrary authority of their lord, and can be bought and sold in the same way as serfs.
 
-##### Luctatio
-
-The covenant of Luctatio in the Roman Tribunal, between Milan and Verona, was founded in 1172. From the beginning it was heavily involved in the politics of the Lombard communes, and four members of House Tytalus assisted the Milanese in defeating Barbarossa at Legnano, and at their behest, a necromancer from the covenant of Vardian's Tomb created the plague that halted the emperor's army at the gates of Rome. Eule of Fengheld presented evidence of the hand of the Roman magi in this affair at the Tribunal of 1179, and at the Grand Tribunal of 1195, five magi of the Roman Tribunal were Marched.
-
-Within 5 years of his succession, Frederick I had led his army across the Oder, not for territorial conquest, but to place his own candidate, Duke Vladislaw, on the throne of Poland. His struggles were firstly to expand and secure the imperial power in Italy, and secondly to win in Germany the age-long battle between the Hohenstaufens and the Welfs. In Italy he had to endure many disappointments. In 1176 at the battle of Legnano his army was thoroughly defeated by the militia of Milan. He failed to subdue the Helvetians and his army was smitten by pestilence before the gates of Rome. By no means all of his campaigns failed, however. His victory over the Welfs, and in particular, their great leader Henry the Lion, duke of Saxony, was long in coming, but the end was decisive. The great duchy was broken up: Bavaria, the stronghold of the Welfs, was given to Otto of Wittelsbach as a principality, and the former lands of Saxony were given to supporters of the Hohenstaufens.
-
-After Barbarossa's son died after only six years on the throne, emperors followed from outside the Hohenstaufen house, until, in 1212, Frederick II took the throne.
+> ##### Luctatio
+>
+> The covenant of Luctatio in the Roman Tribunal, between Milan and Verona, was founded in 1172. From the beginning it was heavily involved in the politics of the Lombard communes, and four members of House Tytalus assisted the Milanese in defeating Barbarossa at Legnano, and at their behest, a necromancer from the covenant of Vardian's Tomb created the plague that halted the emperor's army at the gates of Rome. Eule of Fengheld presented evidence of the hand of the Roman magi in this affair at the Tribunal of 1179, and at the Grand Tribunal of 1195, five magi of the Roman Tribunal were Marched.
+> 
+> Within 5 years of his succession, Frederick I had led his army across the Oder, not for territorial conquest, but to place his own candidate, Duke Vladislaw, on the throne of Poland. His struggles were firstly to expand and secure the imperial power in Italy, and secondly to win in Germany the age-long battle between the Hohenstaufens and the Welfs. In Italy he had to endure many disappointments. In 1176 at the battle of Legnano his army was thoroughly defeated by the militia of Milan. He failed to subdue the Helvetians and his army was smitten by pestilence before the gates of Rome. By no means all of his campaigns failed, however. His victory over the Welfs, and in particular, their great leader Henry the Lion, duke of Saxony, was long in coming, but the end was decisive. The great duchy was broken up: Bavaria, the stronghold of the Welfs, was given to Otto of Wittelsbach as a principality, and the former lands of Saxony were given to supporters of the Hohenstaufens.
+> 
+> After Barbarossa's son died after only six years on the throne, emperors followed from outside the Hohenstaufen house, until, in 1212, Frederick II took the throne.
 
 > ##### Tannhäuser
-
+>
 > Tannhäuser is a young man, born early in the 13th century, who grows to become a great knight and poet of legend. He travels widely and discovers the Venusberg, the splendid subterranean home of Venus beneath a mountain in an unknown spot in Germany. Entranced, the knight spends a year here worshipping the beautiful goddess. Her spell is finally broken as Tannhäuser declares that his salvation rests with the Virgin Mary, and he makes good his escape. Remorseful, he then travels to Rome and pleads with the Pope to be absolved of his sins. Pope Urban replies that it is just as impossible for his papal staff to spread into bloom. Tannhäuser returns unfulfilled to Vienna, yet, three days later, the Pope's staff blossoms with flowers.
 
 ### THE INVESTITURE CONTEST
@@ -351,9 +355,9 @@ The Investiture Contest (1075-1122) was a crisis that threatened to divide the C
 At the city of Worms in 1122, Henry V reached an agreement (called the Concordat of Worms) with Pope Calixtus II, which technically brought the Investiture Contest to an end. The emperor conceded that the Church had the right to elect persons to ecclesiastical office, and he promised to support canonical election to bishoprics and abbacies. In return, the Pope conceded that the emperor had the right to be present at elections and to perform a lay investiture of German prelates *before* their consecration to spiritual office. This ensured imperial control of the dues and duties owed to him by bishops and abbots, who were also powerful feudal magnates. In practice, while a victory for the Church, the emperor still retained great influence over the appointment of prelates.
 
 > ##### Free Imperial Cities
-
+>
 > The majority of the cities in the German empire fall under the dominion of local counts, dukes, or bishops. Nevertheless some, the so-called *Freie Reichsstädte* (Free Imperial Cities), have secured their independence from local lords, and instead owe their allegiance directly to the emperor. These cities, some governed by councils, enjoy the benefits of trade without interference, and prosperity follows. By a similar token, it is usually in the emperor's interest to grant freedom to wealthy cities, thereby denying their wealth to local ducal rivals.
-
+>
 > The Free Cities of Germany in 1220 are Dortmund, Esslingen, Goslar, Hamburg, Metz, Nördlingen, Nuremberg, Regensburg, Schwäbisch-Hall, Speyer, Ulm, Wetzlar, Wimpfen, and Worms.
 
 ## Frederick Barbarossa
@@ -387,11 +391,11 @@ In the middle of the 8th century the wizard Trianoma first met up with Bonisagus
 Through recruitment the Order grew quickly, and in 773 Trianoma, supported by Guernicus, suggested that the members divide themselves into separate Tribunals. The magi of the nascent Order had scattered outward from the central location of Durenmar, with Tytalus and his followers found mainly in the northwest of Europe, Tremere removing himself to the far eastern reaches of the Frankish Empire, Flambeau to the Pyrenees overlooking his home in Spain, Jerbiton and Criamon into the Alps, and so on. In the beginning, therefore, Tribunals tended to be loose affiliations based mainly on House, with the Rhine dominated by magi of Houses Bonisagus, Bjornaer, and Merinita — the three Founders who stayed here. These were the golden years of the Order in Germania, and the Bonisagus-dominated covenants of the southern Rhine region consistently produced advances in magical theory.
 
 > *Having recently joined the Rhine covenant of Triamore, I have commenced a study of the many and curious practices and traditions of this, the so-called First Tribunal, from amongst the many tomes of the covenant's library. Although Triamore has existed for nearly seven decades, it is still among the youngest of the Rhine's covenants. The founding of new covenants here is restricted and thus rare, which has resulted in a tradition of traveling magi and guest hospitality, as well as a small number of chapter houses. This at least explains the puzzling ejection of the Quaesitor Tabanus who previously occupied my sanctum — it seems he was never a full member of Triamore, but instead merely a peregrinator, one of the many wandering magi of Germany. I shall see if I can take advantage of the rules of hospitality in order to make an extended visit at some of the more famous Rhine covenants.*
-
+>
 > *It is immediately clear that the magi here afford a great and fitting respect for their predecessors and also the most senior among them, who style themselves with the title of magister, a kind of lesser archmagus, it seems to me. As a tyro, a junior magus, I am expected to acknowledge the superiority of these magi. I must therefore strive to earn this title myself, although I do not yet know how this may be achieved. I have however unfortunately learned that it is not possible through certamen. It seems that these masters and archmagi are even permitted to vote with the sigils of a number of ancient magi retired magi, as they dub them — a most unusual practice. I am told that the Founder Bonisagus himself still casts his vote at Tribunal today — but how can this possibly be?*
-
+>
 > *In order to participate in the convoluted politics of this Tribunal it seems to be necessary to belong to a gild, some sort of formal association or faction. While the magi of Triamore encourage me to support the so-called Apple Gild, merely a dubious front for mundane meddlement, as best I can tell, I have nevertheless decided to seek membership of the venerable Oak Gild at the next Tribunal gathering, when I will be formally greeted by the Tribunal's elders and may take my seat at the hallowed Forum of Hermes.*
-
+>
 > — from the journal of Sicero filius Goliard of House Tremere
 
 ## The First Tribunal
@@ -403,10 +407,10 @@ The Order of Hermes was founded at Durenmar, and in the early years there was on
 With the fragmentation of Charlemagne's empire, the Order of Hermes was similarly affected. Finding themselves in different realms, the Order began to become severely nationalistic, and territorial disputes became more common. In 865 the Grand Tribunal decided upon political boundaries of the Tribunals, rather than relying upon loose affiliations of covenants. The kingdom of the Germans was called the Rhine Tribunal and the kingdom of the West Franks was named the Normandy Tribunal because of its "North-men" settlers. The kingdom of Lotharingia was called the Provencal Tribunal, as its center of culture was in the southern region called Provence. The Britannian (later divided into Loch Leglean, Stonehenge, and Hibernia), Roman, Iberian, and Theban Tribunals were founded at the same time, and a coalition of eight covenants managed to win for themselves a geographically small Tribunal called the Greater Alps, the territory of the former Roman provinces of Rhaetia and Noricum. Finally, the four covenants in the Holy Land constituted the Tribunal of the East (renamed the Tribunal of the Levant in 1129). With House Tremere at the height of their power a few decades later, the Transylvanian and Theban Tribunals were soon given separate recognition. In 1008 the New Slavonic Tribunal (later the Novgorod Tribunal) won recognition, making the total thirteen. Over time, the boundaries of these Tribunals shifted and changed as covenants fell and new ones were founded. The most significant change was the boundaries of the Provencal Tribunal, which in the 13th century covers Aquitaine and Gascony rather than Provence, while the Normandy and Rhine Tribunals have absorbed the Low Countries that formerly belonged to Provencal.
 
 > ##### On the Retirement of Magi
-
+>
 > *1017th year of Aries, Rhine Tribunal: As the First Tribunal has famously witnessed, the spirits of the Founders and our most venerable and wisest magi are still with us. The study of magic may truly grant us a kind of immortality, although to what higher place we transcend we cannot know. It is therefore acknowledged that the voting sigil of each magus remains valid in perpetuity, until such time as evidence of his death is presented. Nevertheless, we cannot permit the First Tribunal to become dominated by the voices of those who are no longer active in its leadership. To this end, a magus whom no other has witnessed for a period of two Tribunals or more shall be deemed to be retired. The sigil of a retired magus may only be held by proxy by a magister or archmagus; a magister may hold only one such sigil, an archmagus at most two. We entrust the duty of the witnessing of magi and the reporting of the deaths of magi to our loyal servants, the Redcaps.* 
-
->In support of this ruling, the Rhine Tribunal has developed an informal tradition of never fully recognizing the passing of magi into Twilight. There are various euphemisms for Final Twilight and retired magi (most of whom are lost to it) are spoken of in the present tense, especially when their votes are cast. Several other stories of the famous return of longretired Twilight magi have been told in the centuries since.
+>
+> In support of this ruling, the Rhine Tribunal has developed an informal tradition of never fully recognizing the passing of magi into Twilight. There are various euphemisms for Final Twilight and retired magi (most of whom are lost to it) are spoken of in the present tense, especially when their votes are cast. Several other stories of the famous return of longretired Twilight magi have been told in the centuries since.
 
 
 ## The Return of the Elder Magi
@@ -418,13 +422,13 @@ Following this precedent, a handful of elder magi arrived at the subsequent Trib
 The Tribunal of 878 was therefore forced to make a firm and final ruling on the issue. It could not go against its own precedent and outlaw these proxy sigils, yet at the same time there was a clear need (and much urging from the Quaesitores) to reign in their number and the associated abuses. A compromise motion was adopted, permitting such proxy sigils but strictly regulating their number according to the rank of the wielder.
 
 >##### On the Founding of Covenants
-
+>
 >*1024th year of Aries, Rhine Tribunal: We cannot prosper and overcome our enemies if our covenants war amongst themselves. So that we may enjoy peace forthwith, the First Tribunal will no longer recognize any covenant that has not gained the approval of its peers. Any prospective covenant is therefore required to obtain a sponsor from each and every existing covenant, who shall publicly proclaim their petition worthy. Should even one such sponsor not be forthcoming, the Tribunal will refuse recognition.*
-
+>
 >Ever since then, prospective covenants have been required to obtain the explicit permission of all the Tribunal's other covenants, in order to obtain recognition. If a covenant is not successful in getting approval from the Tribunal, they may try again in seven years time. Until they receive approval, they have no legal recourse against the depredations of other covenants against their resources — they do not exist, in the eyes of the Tribunal. The magi of an unapproved covenant thus have no communal rights, although they retain their rights as individuals.
-
+>
 >Needless to say, a prospective covenant may find itself bound into all sorts of obligations, duties, and pacts in return for support, but some covenants make low demands in return for future favors. Many covenants will do their best to get whatever concessions they can from such a group of young magi. However there is a social stigma attached to being the only covenant to refuse to allow a covenant to form, and so the new magi need not agree to every demand — if they are feeling brave.
-
+>
 >In compensation for all these onerous favors and promises (which are usually negotiated at Tribunal itself), there is a tradition of gift-giving, hearkening back to the ancient German tradition. Once the decision has been made that a new covenant can be established, every other covenant presents a gift (or announces a boon). These gifts usually take the form of resources to help the new covenant — books, vis tithes or sources, silver, even a covenant site. This public display of generosity tends to encourage existing covenants to show off their opulence, and thus they often grant gifts that are ostentatious or excessively generous. For those that are reluctant to give their support to the new covenant, however, these gifts are often flashy and impressive-looking, without any real substance to them. Moon duration illusions are not unheard-of, for the more underhand covenants.
 
 ## Early Conflicts
@@ -447,13 +451,12 @@ The final footnote to this story occurred in 1048. The maga Aschlaranda, formerl
 
 Germany was settled at an early date; in the Roman towns on the western banks of the Rhine, then the Carolingian towns in southern Saxony and Franconia. However it was not until the 10th century that population pressures caused the nobles to order the clearance of the ancient forests that covered much of the lands of central Germany, to make room for settlements. The Swabian dukes of Zähringen, and the monasteries under their control, were particularly prominent in promoting settlement in the Black Forest. For many years, magi had been complaining about the encroachment of civilization into the wild areas near their covenants, threatening both vis sources and auras with the power of the Dominion. However it was not until Durenmar's resources were threatened that the political might of the Oak Gild came behind the motion. They feared that the Rhine would eventually go the way of the Roman Tribunal, losing most of its magical and faerie sites to the Dominion. Therefore, at the Rhine Tribunal meeting of 1053, the Praeco made a statement, the text of which was then endorsed by the Tribunal as part of the Peripheral Code.
 
-
->##### The Guardians of the Forests
->*1192nd year of Aries, Rhine Tribunal: The lifeblood of this Tribunal lies within its forests. Here, more than anywhere else, raw power lurks in the hidden glens, the dark hollows, and the majestic trees. The ancient forests are the wellsprings of our magic, perhaps all magic, and we magi have a duty to preserve them, not just for ourselves, but for the future members of the Order. We have witnessed the decline of both Magic and Faerie in our neighbors the Roman Tribunal, and we must resolve that the same shall not happen to us. The encroachment of the Dominion proceeds further into our resources with every coming year, and it is time that we safeguard our magic, defend our vis, and slow mundane intrusion. All that is required for the Devil to win is for good men to do nothing, and we have remained idle for too long. We must become Guardians of the Forests, for none will halt this decline if we do not.*
-
->Under pressure from House Guernicus, the following clause was later added: *We must take care to only act in such a fashion so as not to incur the wrath of the mundanes, else the Oath of Hermes will be broken, and due punishment meted forthwith.*
-
->This is perhaps the most contested and controversial part of Rhine's Peripheral Code. It has no inherent method of enforcement, and may be interpreted in many different ways. It has been used both to prosecute magi who have failed to protect magical sites, and to defend those who would be deemed as Code-breakers by other Tribunals, depending on the political support of those attempting to use the ruling to their advantage. Dankmar was not punished for aiding the destruction of a new monastery in the Black Forest, yet Crintera was refused permission to use this ruling to halt the Danish invasion of Rügen. Decisions regarding the "Guardians of the Forests" ruling seem to depend entirely upon political maneuvering and the opinions of the presiding Quaesitor, and as a result, a host of contradictory rulings have sprung up in the years following the Tribunal of 1053.
+> ##### The Guardians of the Forests
+> *1192nd year of Aries, Rhine Tribunal: The lifeblood of this Tribunal lies within its forests. Here, more than anywhere else, raw power lurks in the hidden glens, the dark hollows, and the majestic trees. The ancient forests are the wellsprings of our magic, perhaps all magic, and we magi have a duty to preserve them, not just for ourselves, but for the future members of the Order. We have witnessed the decline of both Magic and Faerie in our neighbors the Roman Tribunal, and we must resolve that the same shall not happen to us. The encroachment of the Dominion proceeds further into our resources with every coming year, and it is time that we safeguard our magic, defend our vis, and slow mundane intrusion. All that is required for the Devil to win is for good men to do nothing, and we have remained idle for too long. We must become Guardians of the Forests, for none will halt this decline if we do not.*
+>
+> Under pressure from House Guernicus, the following clause was later added: *We must take care to only act in such a fashion so as not to incur the wrath of the mundanes, else the Oath of Hermes will be broken, and due punishment meted forthwith.*
+>
+> This is perhaps the most contested and controversial part of Rhine's Peripheral Code. It has no inherent method of enforcement, and may be interpreted in many different ways. It has been used both to prosecute magi who have failed to protect magical sites, and to defend those who would be deemed as Code-breakers by other Tribunals, depending on the political support of those attempting to use the ruling to their advantage. Dankmar was not punished for aiding the destruction of a new monastery in the Black Forest, yet Crintera was refused permission to use this ruling to halt the Danish invasion of Rügen. Decisions regarding the "Guardians of the Forests" ruling seem to depend entirely upon political maneuvering and the opinions of the presiding Quaesitor, and as a result, a host of contradictory rulings have sprung up in the years following the Tribunal of 1053.
 
 ## Eastern Interests
 
@@ -486,47 +489,49 @@ Of more immediate interest to Oculus Septentrionalis is the covenant of Heorot o
 Crintera, the domus magna of House Bjornaer isolated on the isle of Rügen, existed for centuries in broad harmony with the relatively few mundanes there. This all changed in 1168 when the Danish king Valdemar I invaded the island. This invasion came as a complete surprise to Crintera, who had not been keeping a close enough eye on mundane events. Hotheads in the House proposed immediate retaliation, but cooler minds prevailed, wary of falling foul of the Code of Hermes. The covenant reluctantly retreated into its regio and proposed to weather out the storm. This policy has not been successful, and, stung by the refusal of the Tribunal as a whole to assist Crintera, the current situation on Rügen is a powderkeg, just waiting for the right spark to ignite the fury of the House (see Chapter 9: The Eastern Marches, Crintera).
 
 >##### Past and Present Covenants of the Rhine Tribunal
-
+>
 >This is a non-exhaustive list of covenants of the Rhine Tribunal with the dates of their founding and dissolution (if applicable). Covenants of your own devising, either past or present, may be added to this list.
-
+>
 >**DURENMAR** (767-present)
-
+>
 >**FENISTAL** (773-802): The temple of Diana that was Merinita's home, this covenant was abandoned on the death of Myanar.
-
+>
 >**CRINTERA** (773-present)
-
+>
 >**ARAE FLAVIAE** (780-885): in Swabia. The magi of this covenant objected to nearby Schwarzburg, and their resulting warfare caused the Tribunal to abolish both covenants and rule that any covenant could veto the establishment of a new covenant.
-
+>
 >**RETHRA** (780-1202): in Pomerania. This covenant fell out of favor by allying itself with the New Slavonic Tribunal in the 11th century. It entered a deep Winter for many decades, with no contact with other magi, until finally destroyed by the Knights of the Sword.
-
+>
 >**IRENCILLIA** (792-present)
-
+>
 >**SIRMIUM** (822-930): located in the March of Meissen, this covenant was destroyed during the Magyar invasion of Germany. Only Wiederich of House Flambeau survived.
-
+>
 >**SCHWARZBURG** (857-885): founded in the Swabian Jura, this covenant was abolished by the Tribunal after 30 years because of their wars with Arae Flaviae.
-
+>
 >**RUDIARIA** (892-969): affiliated to House Flambeau and located in the Rhine Gorge, this covenant suffered from malefic attention, and demonic involvement was suspected in the magical accident that destroyed the covenant.
-
+>
 >**OAKDELL** (931-1008): a Diednedominated covenant in the Westerwald, near the Rhine Gorge. On numerous occasions in the 10th century they accused Durenmar of scrying, but these charges were never proven, and the covenant was destroyed in the Schism War.
-
+>
 >**WALDHERZ** (990-1010?): located in the Black Forest and dedicated to the teaching of Hercynius, this covenant was never officially sanctioned by the Rhine Tribunal due to the veto of Durenmar.
-
+>
 >**GRAND SILESIA** (993-1009): founded between the Oder and Warta rivers in Poland by magi from Rethra and Crintera, this covenant split from the Rhine Tribunal in 1008 to form the New Slavonic Tribunal. Rhine magi, feeling betrayed, destroyed the covenant a year later under the guise of the Schism War.
-
->**FENGHELD** (1039-present) **DANKMAR** (1052-present)
-
+>
+>**FENGHELD** (1039-present)
+>
+>**DANKMAR** (1052-present)
+>
 >**ROZNOV** (1067-present)
-
+>
 >**TREVERORUM** (1095-1172): located in the city of Trier. They were consistently in trouble for meddling with the affairs of mundanes, and were eventually destroyed, it is believed, at the order of the Church.
-
+>
 >**RHEINSTEIN** (1123-1200): founded on an island in the Rhine Gorge. They were destroyed by an irate mob of mundanes lead by the archbishop of Trier.
-
+>
 >**OCULUS SEPTENTRIONALIS** (1144 present)
-
+>
 >**TRIAMORE** (1151-present)
-
+>
 >**WADDENZEE,** formerly known as **TERSCHELLING** (1165-present)
-
+>
 >**HEOROT** (1215-present): this covenant, on Zealand in Denmark, is not yet officially part of the Rhine Tribunal, but they intend to be.
 
 ## Upon Being a Rhine Magus
@@ -554,15 +559,15 @@ There are two further Free Social Status Virtues; while these have no cost, they
 This Virtue is not compulsory for Rhine magi — not all magi apprenticed here opt to receive this training and join a gild immediately, although many do. A magus who joins a gild post-apprenticeship usually still receives gild training, but in this case the Virtue should not be taken — instead the magus must spend seasons of time to be trained, for which experience points are gained as usual according to the Long Term Events chapter of **Ars Magica** 5th Edition.
 
 >##### Laws of Hospitality and the Peregrinatores
-
+>
 >The Rhine Tribunal has included into its Peripheral Code the traditional German guest-laws, which encouraged homeowners to be generous to travelers in terms of food and shelter, and exhorted travelers to be mindful of their host's ability to support another mouth in the household. The laws of hospitality became a very early part of the Tribunal's lifestyle, and has given the Rhine a unique feature of travelling magi — typically around a sixth of its magi are peregrinatores. It has become commonplace for journeymen magi to spend some of their time after apprenticeship visiting covenants for extended sabbaticals. It is highly unusual for masters or archmagi to become long-term guests at other covenants; except at Durenmar, where it is considered to be a privilege. The Peripheral Code clearly indicates the duties and obligations of both guest and host:
-
+>
 > *961st year of Aries, Rhine Tribunal: A magus may request hospitality from any covenant established legally in the Rhine Tribunal. The covenant must formally publish the conditions of hospitality, which, if agreed to by the magus, guarantee him at least three, but no more than seven years at the covenant. The conditions of hospitality must be the same for all guests currently in residence, but may be otherwise changed by the covenant at any time that they have no guests. The guest is entitled only to that which is granted in the conditions of hospitality, and must agree to its strictures, which must include — but is not restricted to — a fee of three pawns of vis per year paid to the host.*
-
+>
 >A later ruling allowed that the fee of vis paid by the guest could be exchanged for equivalent service, and a season's work was deemed to be adequate recompense.
-
+>
 >A covenant can always prevent receiving (or honoring) a request for hospitality by making the conditions of hospitality so severe that no magus would ever accept them, although this would reflect poorly on the covenant. Most conditions of hospitality allow access to part or all of the library, and ask a basic oath of fellowship from the guest, requiring him to help in times of adversity. Once accepted, the host cannot ask the guest to leave (as long as he obeys the conditions) until three whole years have passed. Most covenants have a spare laboratory in which to house guests, but are not obliged to provide one; and if none exist, the magus is expected to pay for and establish his own. Large covenants such as Fengheld and Durenmar are able to accommodate a half-dozen guests simultaneously.
-
+>
 >The peregrinatores are nearly always of journeyman rank, and usually consist of magi who do not currently belong to a covenant. However, members of covenants may also make use of the Laws of Hospitality, and take sabbaticals at other covenants in order to work collaboratively with other magi, research a particular topic, or to fulfil an obligation that they owe their host.
 
 ### MINOR HERMETIC FLAW
@@ -570,72 +575,91 @@ This Virtue is not compulsory for Rhine magi — not all magi apprenticed here o
 **(Gild) Enmity**: Either you or your master has done something notable to anger one of the Rhine Tribunal's political gilds, or a prominent member thereof, and that gild now actively seeks to thwart you, through political means, or possibly otherwise. Magi from this gild will be unlikely to sponsor any prospective covenant you are involved in, or to sponsor you as a master, and this gild will be inclined to vote against you at Tribunal on any issues that concern you directly. Naturally, you may not join this gild.
 
 >##### Tabanus filius Jart, follower of Guernicus
-
+>
 >**Characteristics:** Int +2, Per +3, Pre –1, Com –1, Str 0, Sta +2, Dex –2, Qik 0
-
+>
 >**Size:** 0
-
+>
 >**Age:** 38 (38) (Gauntlet at 23; Journeyman)
-
->**Decrepitude:** 0 **Warping Score:** 2 (15) **Confidence Score:** 1 (3)
-
+>
+>**Decrepitude:** 0
+>
+>**Warping Score:** 2 (15)
+>**Confidence Score:** 1 (3)
+>
 >**Virtues and Flaws:** The Gift; Journeyman; Affinity with Folk Ken, Clear Thinker, Hermetic Prestige\*, Intuition, Premonitions, Puissant Intellego, Skilled Parens; Meddler; Hawthorn Gild Enmity, Incompatible Arts (Perdo Imaginem), Infamous
-
+>
 >**Personality Traits:** Law Abiding +3, Tenacious +3, Honorable +2
-
+>
 >**Reputations:** Meddlesome Upstart 4 (Hermetic), Quaesitor 3 (Hermetic)
-
+>
 >**Combat:**
-
+>
 >*Staff:* Init 0, Attack +4, Defense +6, Damage +2
-
+>
 >**Soak:** +2
-
+>
 >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
-
+>
 >**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)
-
+>
 >**Abilities:** Artes Liberales 2 (logic), Athletics 1 (stamina), Awareness 2 (things out of place), Concentration 1 (Intellego spells), Code of Hermes 4 (regarding scrying), Folk Ken 6 (unusual behavior), German Lore 3 (safe roads), Great Weapon 2 (staff), High German 2 (Swiss), Italian 5 (Appulian), Latin 4 (Hermetic usage), Magic Theory 4 (identifying spells), Order of Hermes Lore 3 (Rhine covenants), Parma Magica 3 (Mentem), Penetration 2 (Intellego spells), Premonitions 2 (crime), Romansch 1 (southern Alps), Survival 2 (bad weather)
-
+>
 >**Arts:** Cr 4, In 10+3, Mu 2, Pe 2, Re 3; An 1, Aq 4, Au 3, Co 4, He 1, Ig 3, Im 8, Me 8, Te 6, Vi 8
-
+>
 >**Twilight Scars:** None
-
+>
 >**Equipment:** Stout staff of blackthorn.
-
->**Encumbrance:** 2 (2) **Spells Known:**
-
->*Image of the Beast* (InAn 5) +16 
-Comfort of the Drenched Traveler* (PeAq 5) +8 
-*Whispers Through the Black Gate* (InCoMe 15) +19
-*Spasms of the Uncontrolled Hand* (ReCo 5) +9 *Discern the Images of Truth and Falsehood* (InIm 25) +23
-*Taste of the Spices and Herbs* (MuIm 5) +12 
-*Sight of the Transparent Motive* (InMe 10) +24, Mastery 1 (Quiet Casting) 
-*Frosty Breath of the Spoken Lie* (InMe 20) +24, Mastery 1 (Penetration) 
-*Perceive the Eyes of Knives* (InMe 20) +23 
-*Trust of Childlike Faith* (ReMe 10) +13 
-*Eye of the Eons* (InTe 5) +21
-*Tracks of the Faerie Glow* (InTe 25) +21 
-*The Invisible Eye Revealed* (InVi 20) +23 
-*Reveal the Magical Deception* (InVi 25) +23 
-*Sense of the Lingering Magic* (InVi 30) +23
-
->**New Spells:** 
+>
+>**Encumbrance:** 2 (2)
+>
+>**Spells Known:**
+>
+>*Image of the Beast* (InAn 5) +16
+>
+>*Comfort of the Drenched Traveler* (PeAq 5) +8
+>
+>*Whispers Through the Black Gate* (InCoMe 15) +19
+>
+>*Spasms of the Uncontrolled Hand* (ReCo 5) +9
+>
+>*Discern the Images of Truth and Falsehood* (InIm 25) +23
+>
+>*Taste of the Spices and Herbs* (MuIm 5) +12
+>
+>*Sight of the Transparent Motive* (InMe 10) +24, Mastery 1 (Quiet Casting)
+>
+>*Frosty Breath of the Spoken Lie* (InMe 20) +24, Mastery 1 (Penetration)
+>
+>*Perceive the Eyes of Knives* (InMe 20) +23
+>
+>*Trust of Childlike Faith* (ReMe 10) +13
+>
+>*Eye of the Eons* (InTe 5) +21
+>
+>*Tracks of the Faerie Glow* (InTe 25) +21
+>
+>*The Invisible Eye Revealed* (InVi 20) +23
+>
+>*Reveal the Magical Deception* (InVi 25) +23
+>
+>*Sense of the Lingering Magic* (InVi 30) +23
+>
+>**New Spells:**
+>
 >*Perceive the Eyes of Knives*; InMe 20; R: Touch, D: Mom, T: Room: This spell will indicate to the caster whether there is anyone in the target area that has hostile thoughts towards him. Multiple castings are needed to work out precisely who it is that has the hostile thoughts. Tabanus casts this spell with considerable caution and minimal Penetration, so as to avoid inadvertently scrying on a magus. (Base 5, +1 Touch, +2 Room)
-
-
+>
 >*Reveal the Magical Deception*; InVi 25; R: Per, D: Conc, T: Touch: This spell is specifically designed to overcome spells used to hide the traces of magic, such as *Masking the Odor of Magic*. Such magics of concealment are detected if the Penetration total matches the level of the deceptive spell divided by two. (Base 4, +1 Conc, +1 Touch, +2 to determine Technique and Form, +1 complexity)
-
+>
 >**Appearance:** A tall man with broad shoulders, Tabanus is fit from all the travelling he does. He dresses so as not to arouse suspicion, usually wearing shabby clothing and a travel-stained cloak. He is rarely without his walking staff. He has straight black hair, a broken nose, and usually keeps himself clean shaven (except when he is traveling). Known as the 'Gadfly of the Rhine,' Tabanus hails from the Roman Tribunal, and was trained at Magvillus, the domus magna of House Guernicus. His master Jart is the leading Traditionalist within the House, favoring a strict interpretation of the Code, and his filius is no different.
-
+>
 >House Guernicus, concerned about the weak presence of the Quaesitores in the Rhine, sent Tabanus here a decade ago, and he has already made himself unpopular. Even as an apprentice his perceptions helped his master solve several important cases, and his evidence was responsible for the Marching of a magus of the Hawthorn Gild on what was later perceived to be a technicality, which has not endeared him to the magi of the Tribunal, especially those of that gild. Tabanus is a peregrinator, travelling from covenant to covenant, staying at each one for a few years, then moving on to the next. He particularly favors covenants of young magi, as they feel less inclined to attempt to brow-beat him with the superiority of age (and are less likely to know his reputation). He will  request to join any newly established covenant, at least as a guest, but hopefully as a permanent member. Once ensconced in a covenant, he will insist on a rigid adherence to the Code. He is determined to uncover even the most minor of infractions against it, and is both a stickler for details and scrupulously honest. He is currently looking for a new covenant to join, as he has spent the minimum 3 years at Triamore, and they are not inclined to keep him on. Since being attacked on the road recently, he has acquired some skill with the blackthorn knout he carries as a walking stick, and is considering enchanting it. Tabanus is fifteen years out of apprenticeship, and thus slightly more powerful than a freshly Gauntletted magus, but he is suitable for a player character.
 
-#### The Lineage of Irmele
-
-The maga Trianoma was the driving force that resulted in the foundation of the Order of Hermes — without her determination, the discoveries of Bonisagus would likely have never been shared. She spent many years traveling to the furthest reaches of Europe in search of wizards who were magically powerful enough for them to be offered a place in the nascent Order. When the Order was founded, this self-effacing woman declined the honor of being one of the twelve Founders (perhaps fearing to be the unlucky thirteenth), instead becoming the first follower of Bonisagus.
-
-In the early days of the Order, a number of apprentices took instruction from Trianoma, thus establishing a distinct lineage of politically-inclined magi within House Bonisagus. Some of her early followers traveled widely, contacting and recruiting many hedge wizards. Prominent among these was Trianoma's third filia, Irmele, who traveled and recruited in German lands. Now there are fewer potential new recruits in the Rhine Tribunal, and more suspicion of hedge wizardry, but this tradition of wandering still persists within the lineage founded by Irmele in the Tribunal. These few magi are prominent members of the peregrinatores, sometimes accompanied by Redcaps, but often travelling alone. They tend to spend only short periods of time as guests, and since many are members of the Linden Gild, their selfappointed function is to strengthen diplomatic ties between covenants and promote fellowship. These magi are likely to express magics similar to Irmele herself — she was a *tempestarius*, a native German spellcaster skilled in the manipulation of weather; such spells prove very useful when out on the road at all times of the year. Her descendants tend to be strong in Arts and rich in vis, but often have to rely on spontaneous magic, because of their restricted ability to invent spells or create magical devices due to the absence of a Hermetic laboratory, as they rarely remain with a host long enough to make one worthwhile. Once they achieve the status of master, they will, unlike others, typically remain a peregrinator for a couple of decades; enough time to train at least one apprentice in the traveling tradition on the road. Only once old age has started to creep into their bones and travel becomes difficult will they settle at a covenant.
-
+>#### The Lineage of Irmele
+>
+>The maga Trianoma was the driving force that resulted in the foundation of the Order of Hermes — without her determination, the discoveries of Bonisagus would likely have never been shared. She spent many years traveling to the furthest reaches of Europe in search of wizards who were magically powerful enough for them to be offered a place in the nascent Order. When the Order was founded, this self-effacing woman declined the honor of being one of the twelve Founders (perhaps fearing to be the unlucky thirteenth), instead becoming the first follower of Bonisagus.
+>
+>In the early days of the Order, a number of apprentices took instruction from Trianoma, thus establishing a distinct lineage of politically-inclined magi within House Bonisagus. Some of her early followers traveled widely, contacting and recruiting many hedge wizards. Prominent among these was Trianoma's third filia, Irmele, who traveled and recruited in German lands. Now there are fewer potential new recruits in the Rhine Tribunal, and more suspicion of hedge wizardry, but this tradition of wandering still persists within the lineage founded by Irmele in the Tribunal. These few magi are prominent members of the peregrinatores, sometimes accompanied by Redcaps, but often travelling alone. They tend to spend only short periods of time as guests, and since many are members of the Linden Gild, their selfappointed function is to strengthen diplomatic ties between covenants and promote fellowship. These magi are likely to express magics similar to Irmele herself — she was a *tempestarius*, a native German spellcaster skilled in the manipulation of weather; such spells prove very useful when out on the road at all times of the year. Her descendants tend to be strong in Arts and rich in vis, but often have to rely on spontaneous magic, because of their restricted ability to invent spells or create magical devices due to the absence of a Hermetic laboratory, as they rarely remain with a host long enough to make one worthwhile. Once they achieve the status of master, they will, unlike others, typically remain a peregrinator for a couple of decades; enough time to train at least one apprentice in the traveling tradition on the road. Only once old age has started to creep into their bones and travel becomes difficult will they settle at a covenant.
 
 ## Apprentice
 
@@ -674,37 +698,37 @@ One must achieve the status of master before being allowed to take an apprentice
 The procedure for Redcaps to achieve the rank of master is slightly different. Instead of acquiring a reputation for magical prowess, they must be known for their loyal service to the Order. This might be as simple as a reputation for reliable and honest message delivery, or alternatively as a protector of magi, for some notable deed, or even for authorship (as above). A Redcap who serves diligently will usually have no problem in finding sponsors from among the grateful magi of the covenants he serves, although a lazy Redcap may find it harder. Partially because of these somewhat easier requirements, and also due to the need to take apprentices earlier, Redcaps usually achieve the rank of master at an earlier age, typically 15 or 20 years after their Gauntlet. This grants significant authority to the Rhine's senior Redcaps, and the status of master is a matter of some prestige within House Mercere, just as it is for others.
 
 >#### Felicia, follower of Bonisagus
-
+>
 >**Characteristics:** Int +2, Per 0, Pre 0, Com 0, Str 0, Sta +1, Dex +2, Qik 0 
-
+>
 >**Size:** 0
-
+>
 >**Age:** 24 (24) (Journeyman)
-
+>
 >**Decrepitude:** 0 
-
+>
 >**Warping Score:** 0 (0)
-
+>
 >**Confidence Score:** 1 (3)
-
+>
 >**Virtues and Flaws:** The Gift; Journeyman; Major Magical Focus (weather); Cyclic Magic (Positive) — Winter months, Free Study, Linden Gild Trained, Personal Vis Source, Puissant Intrigue, Skilled Parens; Favors (to Fengheld), Study Requirement; Busybody, Cyclic Magic (Negative) — Summer months
-
+>
 >**Personality Traits:** Loner +2, Self-Reliant +1, Suspicious –2
-
+>
 >**Reputations:** None
-
+>
 >**Combat:**
-
+>
 >*Dodging:* Init 0, Attack n/a, Defense 0, Damage n/a
-
+>
 >**Soak:** +1
-
+>
 >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
-
+>
 >**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)
-
+>
 > **Abilities:** Artes Liberales 2 (Latin script), Athletics 1 (sprinting), Awareness 1 (ambushes), Bargain 2 (food), Bavaria Lore 1 (woods), Chirurgy 1 (sprains), Civil and Canon Law 1 (vagabond laws), Concentration 2 (Auram), Dominion Lore 1 (roadside shrines), Faerie Lore 1 (weather spirits), Finesse 1 (Auram), Folk Ken 3 (travelers), Guile 2 (as a man), Harz Mountains Lore 2 (sites to study), High German 5 (disguising accent), Hunt 1 (small game), Intrigue 2+2 (Hermetic), Latin 4 (Hermetic usage), Magic Theory 4 (weather spells), Music 1 (flute), Order of Hermes Lore 2 (covenants), Parma Magica 2 (Corpus), Penetration 1 (Auram), Rhine Lore 1 (towns), Saxony Lore 1 (safe roads), Survival 2 (summer), Swim 1 (rivers)
-
+>
 > **Arts:** Cr 9, In 2, Mu 2, Pe 2, Re 7; An 1, Aq 7, Au 9, Co 1, He 0, Ig 0, Im 0, Me 0, Te 0, Vi 2
 >
 > **Twilight Scars:** None
@@ -737,12 +761,10 @@ The procedure for Redcaps to achieve the rank of master is slightly different. I
 >
 >###### STORY SEED: A PEACE EMISSARY
 >Felecia arrives at the player covenant to stay over winter, with the aim of negotiating peace between them and an enemy covenant of the magi. Since she visited the enemy covenant first — indeed she may well have just arrived from there the previous spring the magi might suspect an ulterior motive, although she has none.
->
 
 ## Archmage
 
 The status of archmage is not unique to the Rhine Tribunal, but is found throughout the Order. The rank of *archimagus* is considered to be the pinnacle of a magus' career, and usually takes a lot longer to achieve than the Rhine rank of Master. A prospective archmage not only has to win the respect of the other archmages by defeating one at his own challenge, he also needs to complete a major task that benefits the Order as a whole, and display his exemplary mastery of the magical Arts by inventing a 7th-magnitude spell. The majority of magi never achieve archmage status, and many do not even bother to seek it. However, it is noticeable that of all the archmages in the whole Order, about a dozen of them reside in the Rhine Tribunal, a significantly higher proportion than the average. The Rhine Tribunal holds the opinions of the archmagi in high regard, and they are permitted to hold the voting sigils of two retired magi. They also outrank masters in the way that masters outrank journeymen; archmages invariably win any Hermetic dispute, unless they face another archmage.
-
 
 ## The Rank of Archmage
 
@@ -772,7 +794,7 @@ In the interior of the Forum, around the upper tier, are arrayed a number of anc
 
 >##### The Mercere Portals
 >The Roman Cult of Mercury enchanted and used a number of powerful magical portals to enable them to travel rapidly all over the Roman Empire, and the secret of crafting these artifacts is retained by magi of House Mercere (see *Houses of Hermes: True Lineages*). Each pair of Mercere Portals is enchanted with an effect identical to the Ritual spell *Hermes Portal*, except that it is permanent. Each single Portal may only connect to one other, its matching pair. A small number of the most powerful covenants throughout Europe maintain a permanent link with the use of Mercere Portals; the two hubs of this network are Harco and Durenmar. Magi of master or archmage rank, as well as Redcaps, are permitted to use Durenmar's Portals freely; all others are obliged to pay a fee of two pawns of vis each. (A magus may, however, be accompanied by a small number of retainers at no extra cost.)
-
+>
 >The exact number of Mercere Portals possessed by Durenmar, and the extent of any network of Portals in the Order of Hermes, is something that should be carefully decided for your saga. One should be aware of the consequences of allowing frequent instantaneous long-range travel; on the other hand, their use will allow player magi to more easily travel to far-flung realms of Europe, if that is something you wish to encourage. A permanent or temporary gateway presents a number of story possibilities. A Portal to a covenant now destroyed might have since been integrated into a castle wall or church, or maybe just leads to a ruin, as with the former covenant of Rethra, to which the Portal might still be active. The wooden arch may somehow be linked to the former lineage of Hercynius, the lost covenant of Waldherz in the heart of the Black Forest, or the forest itself.
 
 ### Voting in the Rhine Tribunal
@@ -785,14 +807,14 @@ As a result of this tradition, the ancient covenants, who have a greater prepond
 
 At each meeting of the Rhine Tribunal, the first order of business is the introduction of all magi who have passed their Gauntlets since the last Tribunal. Immediately following this is a rite which ceremoniously confers the additional voting sigils by proxy to all new masters and archmagi. These three processes seem quaint and overly formal to outsiders, with speeches filled with hyperbole and ancient ceremonial dress, but the Rhine magi treat it with deadly seriousness.
 
-### Story Seed: The Fall of Fengheld's House
-
-During the night before the start of the Tribunal an almighty crash is heard and magi rush from their beds to discover that the nearly-complete house of Fengheld lies in ruins. The magi of Fengheld are outraged and accuse Durenmar of sabotage, but the members of Durenmar strongly protest their innocence. Heated words are exchanged and the Tribunal threatens to descend into anarchy. Meanwhile, one of the player characters witnesses a shadowy figure hurrying away from the wreckage ... Who could benefit by sowing the seeds of enmity between the Tribunal's two most powerful covenants? If the player magi can solve this mystery, they may gain considerable respect for restoring peace to the Tribunal. Alternatively, if the player covenant is an enemy of Fengheld, the blame may fall on their shoulders.
+>### Story Seed: The Fall of Fengheld's House
+>
+>During the night before the start of the Tribunal an almighty crash is heard and magi rush from their beds to discover that the nearly-complete house of Fengheld lies in ruins. The magi of Fengheld are outraged and accuse Durenmar of sabotage, but the members of Durenmar strongly protest their innocence. Heated words are exchanged and the Tribunal threatens to descend into anarchy. Meanwhile, one of the player characters witnesses a shadowy figure hurrying away from the wreckage ... Who could benefit by sowing the seeds of enmity between the Tribunal's two most powerful covenants? If the player magi can solve this mystery, they may gain considerable respect for restoring peace to the Tribunal. Alternatively, if the player covenant is an enemy of Fengheld, the blame may fall on their shoulders.
 
 >##### The secret agenda of Oculus Septentrionalis
-
+>
 >The founding of Oculus Septentrionalis (see Chapter 7: The Lowlands) was engineered by the Ash Gild, with support from the Oak Gild. In the event of the Order moving in force against the Order of Odin, the covenant would be expected to act as the staging point for the main attack. It would be expected to have magic ships on hand, mundane supplies readily available, and be able to recruit (either directly or through more subtle means) a sizeable mundane force, if called for. Although the choice of site in Lübeck was seriously questioned, it was reasoned that it does have one major advantage — it would be very hard for the Scandinavian wizards to attack, unless they sack the entire city.
-
+>
 >However, Oculus Septentrionalis soon became subverted by the Apple Gild, much to the anger of leading Ash magi. Nevertheless, more moderate Oak magi secretly concede that Oculus Septentrionalis still performs a useful function, by indirectly hindering the pagan power base of the wizards. Normally, the Order would be rather fearful of mundane and Christian expansion. However, in the sparsely populated Baltic region, such expansion serves it rather well — there is enough space that this should not hamper potential covenants; indeed, covenants require a certain level of mundane trade and civilization in order to prosper. Ideally, the growth of Christianity and trade in the region, as seemingly supported by Oculus Septentrionalis, would hurt the Norse wizards enough so that a direct war would be unnecessary. However, the Hawthorn Gild vigorously opposes this unspoken agenda.
 
 ### The Praeco of the Rhine Tribunal
@@ -802,7 +824,7 @@ In the Order's early days, when there was only one Tribunal, Bonisagus himself a
 However, upon the passing (retirement) of Bonisagus, the Rhine Tribunal took a different tack. They saw Bonisagus' successor as the most worthy leader of the Tribunal, and so when Notatus (the first Hermetic apprentice of Bonisagus) was chosen as the Primus of House Bonisagus, he also became the Praeco of the Rhine Tribunal. Due to the preponderance of followers of Bonisagus in the Rhine Tribunal in the early decades of the Order, this tradition has continued. The Praeco of the Rhine Tribunal is therefore not its oldest magus, as with the other twelve Tribunals, but instead is always the Primus of House Bonisagus, who wields Bonisagus's voting sigil by proxy.
 
 >##### A Change of Praeco?
-
+>
 >Not everyone is satisfied that the Praeco is always the Primus of Bonisagus, since it is felt by some members of the Rhine that Durenmar has too great an influence over the Tribunal's decisions. In the past, the traditionalist faction dominated by House Bonisagus has been too strong to permit a change to this tradition, but recently the hold of the Oak Gild has been slipping. In particular, the covenant of Fengheld, over the last few Tribunal meetings, has been sounding out opinions regarding the fairness of this convention, suggesting that the Rhine Tribunal should reform to match the system used by the rest of the Order. The more cynical magi suggest the reason for this is that Eule of Fengheld is an excellent candidate for the Praeco, as she is likely to be the oldest maga in the Rhine. However, there are two other candidates — Caecilius of Durenmar and Shadrith of Dankmar — who may well be older, although the records are in doubt. Fengheld is likely to propose, at the next Tribunal, an investigation into the Rhine's oldest magus, as a first move to break Durenmar's stranglehold.
 
 ## The Gilds of the Rhine Tribunal
@@ -819,9 +841,7 @@ A quarter of the Tribunal's magi are members of the Oak Gild, and nearly a fifth
 
 ### The Eichengilde (Oak Gild)
 
-This is the largest, broadest, and oldest faction in the Tribunal. The stated agenda of the gild is to restore the Rhine Tribunal (and thereby the Order of Hermes) to its former glory, to respect the traditions and wisdom
-
-of the Founders, to encourage magi to respect their elders and work to leave a lasting legacy, and to shun the so-called wisdom from outside the Order of Hermes. However, because of its broad agenda, the gild is somewhat ineffective, as they have no real or co-ordinated strategy to achieve their goals. In practice, its main function is to ensure that the status quo of the Tribunal is maintained by tying up a large proportion of the votes that might promote change. The Eichengilde is lead by Murion, Prima of Bonisagus, and is made up of magi who are mostly older or more reserved; while all Houses are represented, this gild particularly attracts followers of Bonisagus, Guernicus, and Tremere.
+This is the largest, broadest, and oldest faction in the Tribunal. The stated agenda of the gild is to restore the Rhine Tribunal (and thereby the Order of Hermes) to its former glory, to respect the traditions and wisdom of the Founders, to encourage magi to respect their elders and work to leave a lasting legacy, and to shun the so-called wisdom from outside the Order of Hermes. However, because of its broad agenda, the gild is somewhat ineffective, as they have no real or co-ordinated strategy to achieve their goals. In practice, its main function is to ensure that the status quo of the Tribunal is maintained by tying up a large proportion of the votes that might promote change. The Eichengilde is lead by Murion, Prima of Bonisagus, and is made up of magi who are mostly older or more reserved; while all Houses are represented, this gild particularly attracts followers of Bonisagus, Guernicus, and Tremere.
 
 ### The Weissdorngilde (Hawthorn Gild)
 
@@ -829,27 +849,19 @@ This is one of the oldest gilds, along with the Ash Gild and the Oak Gild. Its a
 
 ### The Eschengilde (Ash Gild)
 
-This gild, lead by Philippus Niger of Durenmar, believes that magi should seek dominion over their lands, that the Order of Hermes should be more forth-
-
-right in its dealings with mundanes, that magi should not need to hide in the wildernesses, and that the Order of Odin should be combated and destroyed. This last item is not publicly admitted to, but is the prime focus of most of the gild's older members. The Eschengilde attracts aggressive magi, especially from Houses Flambeau, Tremere, and Tytalus, and while being magically powerful, is not large enough to force their agenda, which skirts on the very edge of the Code of Hermes.
+This gild, lead by Philippus Niger of Durenmar, believes that magi should seek dominion over their lands, that the Order of Hermes should be more forthright in its dealings with mundanes, that magi should not need to hide in the wildernesses, and that the Order of Odin should be combated and destroyed. This last item is not publicly admitted to, but is the prime focus of most of the gild's older members. The Eschengilde attracts aggressive magi, especially from Houses Flambeau, Tremere, and Tytalus, and while being magically powerful, is not large enough to force their agenda, which skirts on the very edge of the Code of Hermes.
 
 ### The Holundergilde (Elder Gild)
 
-This gild was once part of the Hawthorn Gild, but split from them soon after the early division in House Merinita and pursued its fae-focused agenda. While they
-
-still believe in the sanctity of the wilderness, they concentrate solely on the preservation of the fae and promoting friendly contact between magi and faeries. Unsurprisingly, this faction is primarily made up of the followers of Merinita, and virtually all the members of the covenants of Irencillia and Dankmar are members. A few followers of Bjornaer with extremely strong Harmonist views are members of this gild, to the derision of their Housemates. Iacob of Irencillia is the leader of this gild, and under his leadership it has been secretly promoting a religion conceived to return power back to the fae, under the guidance of members of the Order (see Chapter 10: Bohemia, Irencillia).
+This gild was once part of the Hawthorn Gild, but split from them soon after the early division in House Merinita and pursued its fae-focused agenda. While they still believe in the sanctity of the wilderness, they concentrate solely on the preservation of the fae and promoting friendly contact between magi and faeries. Unsurprisingly, this faction is primarily made up of the followers of Merinita, and virtually all the members of the covenants of Irencillia and Dankmar are members. A few followers of Bjornaer with extremely strong Harmonist views are members of this gild, to the derision of their Housemates. Iacob of Irencillia is the leader of this gild, and under his leadership it has been secretly promoting a religion conceived to return power back to the fae, under the guidance of members of the Order (see Chapter 10: Bohemia, Irencillia).
 
 ### The Lindengilde (Linden Gild)
 
-Arising from the aftermath of the Schism War and founded mostly by former magi of Fengheld, the purpose of this gild is to increase co-operation and trust between magi and covenants to the
-
-benefit of all, to resolve both internal and external conflicts peacefully, and to end the apathy and divisions in the Tribunal. This is an altruistic and well-regarded gild, although weak; thus it is the typical go-between faction. They are often overlooked, but without their quiet diplomacy, the Tribunal would likely have fractured long ago. The gild is currently lead by Occultes of Durenmar, and consists of a mixed assortment of followers of Mercere, Jerbiton, Verditius, Tremere, and Bonisagus (particularly those of Trianoma's lineage).
+Arising from the aftermath of the Schism War and founded mostly by former magi of Fengheld, the purpose of this gild is to increase co-operation and trust between magi and covenants to the benefit of all, to resolve both internal and external conflicts peacefully, and to end the apathy and divisions in the Tribunal. This is an altruistic and well-regarded gild, although weak; thus it is the typical go-between faction. They are often overlooked, but without their quiet diplomacy, the Tribunal would likely have fractured long ago. The gild is currently lead by Occultes of Durenmar, and consists of a mixed assortment of followers of Mercere, Jerbiton, Verditius, Tremere, and Bonisagus (particularly those of Trianoma's lineage).
 
 ### The Apfelgilde (Apple Gild)
 
-This gild believes that magi should seek peaceful and friendly relations with mundanes, and that mages should work towards acceptance in the mundane world, so that they
-
-no longer need to hide. It also believes that magi should work to improve the lot of mundanes through teaching and trade as well as magic, and that magi should be humble before the Lord. This is the most recent faction and the weakest, although with substantial support from the covenants of Oculus Septentrionalis, Triamore, and Fengheld, it is beginning to make its presence known in the Tribunal. It is lead by a triumvirate of Henri de Tours of Oculus Septentrionalis, Wilhelm Weiss of Fengheld, and Daria la Gris of Triamore.
+This gild believes that magi should seek peaceful and friendly relations with mundanes, and that mages should work towards acceptance in the mundane world, so that they no longer need to hide. It also believes that magi should work to improve the lot of mundanes through teaching and trade as well as magic, and that magi should be humble before the Lord. This is the most recent faction and the weakest, although with substantial support from the covenants of Oculus Septentrionalis, Triamore, and Fengheld, it is beginning to make its presence known in the Tribunal. It is lead by a triumvirate of Henri de Tours of Oculus Septentrionalis, Wilhelm Weiss of Fengheld, and Daria la Gris of Triamore.
 
 ### Tribunal Politics
 
@@ -858,27 +870,22 @@ The clearest division among magi here is between those close to the wilderness, 
 The conservative Oak Gild can often expect support from the Ash or Hawthorn Gilds, but rarely both at once, except over issues promoting the Apple agenda, when these three will unite to oppose them. This is the only common interest between the Hawthorn Gild and the Ash Gild; the latter being neutral to all other gilds. The Hawthorn Gild, on the other hand, is diametrically opposed to the agenda of the Elder Gild, which is the cause of much bad blood between the followers of Bjornaer and Merinita (who dominate these two factions respectively). With regards to the agenda of the Elder Gild, none of the other factions really concern themselves with them. The Linden Gild often supports the peaceful agenda of the Apple Gild, especially against the combined might of the latter's three enemies, but the Linden Gild manages to remain neutral to all other factions at the same time; a testament to their powers of diplomacy.
 
 >##### The Lotharingian Tribunal
-
+>
 >Many members of the Apple Gild are currently pushing a controversial issue in secret: together with covenants in Normandy they wish to form a separate Tribunal, tentatively called the Lotharingian Tribunal, which would cover the Low Countries in the north and west of the Rhine Tribunal. Oculus Septentrionalis, Triamore, and about half the magi of Fengheld are currently committed to the notion, along with two covenants of the Normandy Tribunal. The magi of Waddenzee, despite being opposed to most of the plans of the Apple Gild, are also keen to escape the stifling yoke of the Rhine Tribunal. This complement of covenants more than meets the Order's requirement for a legal Tribunal, and the gild plans to propose the motion at the Grand Tribunal of 1228. This new Tribunal would allow more freedom in dealing with mundanes, seeking friendly relations with Scandinavian wizards, and discarding many of the ancient Rhine traditions.
 
 #### BEYOND THE RHINE TRIBUNAL
 
 The Rhine Tribunal is no longer a dominant, or even a leading force in the Order of Hermes, but is well-respected due to its ancient pedigree. Also, the sheer size of the Tribunal, plus the fact that it is host to the Grand Tribunal, means that it can not be ignored. The historical tension with the Novgorod Tribunal still continues, except among Bjornaer magi. Relations with the covenants of the Greater Alps, on the other hand, are broadly favorable, with a significant amount of mutual trade and contact. Alpine magi, however, consider their grand Roman traditions and covenants to be superior to those of the Rhine. For their part, Rhine magi may either regard the archaic majesty of the Alps either with wistful admiration or with amused derision, for a traditional Bonisagus or a down-to-earth Bjornaer, respectively. The nearby Tremere-dominated Transylvanian Tribunal has long striven to exert its influence over the Rhine covenants, with limited success thus far. The Rhine Tribunal (except for its Tremere magi) have little interest or influence in Transylvania.
 
-
 # Chapter Four The Forest
 
-*The breadth of this Hercynian forest ... is to a quick traveler, a journey of nine days ... nor is there any person belonging to this part of Germany who says that he either has gone to the extremity of that forest, though he had advanced a journey of sixty days, or has heard in what place it begins. It is certain that many kinds of wild beast are produced in it which have not been seen in other parts ...*
-
-— Caesar, *The Gallic Wars*
-
-*In the northern region is the vast expanse of the Hercynian oak forest, untouched by the ages and coeval with the world, which surpasses all marvels by its almost immortal destiny.*
-
-— Pliny, *Natural History*
-
->##### A Walk Through a Magical Forest
-
->A magical forest, like most in Germany, is a reflection of the Ideal Forest residing in the Magic realm. The trees and other plants are perfect reflections of their kind, and the animals, while remaining unable to speak, are often more intelligent than their mundane counterparts. Both the plants and animals of a magical forest may have minor magical properties, and more substantial magical denizens may be present. Such creatures often set the atmosphere of the forest; one inhabited by a griffin is wild and untamed; whereas a forest full of ghosts might fill mortals with a sense of loss.
+>*The breadth of this Hercynian forest ... is to a quick traveler, a journey of nine days ... nor is there any person belonging to this part of Germany who says that he either has gone to the extremity of that forest, though he had advanced a journey of sixty days, or has heard in what place it begins. It is certain that many kinds of wild beast are produced in it which have not been seen in other parts ...*
+>
+>— Caesar, *The Gallic Wars*
+>
+>*In the northern region is the vast expanse of the Hercynian oak forest, untouched by the ages and coeval with the world, which surpasses all marvels by its almost immortal destiny.*
+>
+>— Pliny, *Natural History*
 
 ## The Forest
 
@@ -910,15 +917,20 @@ The genius locus has dwindled as above, and has been replaced by another superna
 
 The genius locus enters a pact with another supernatural being — most commonly a faerie — or else it possesses such a being. The combined might of the two supernatural entities is then enough to hold back the threat of dissolution. This generally leads to a forest that is predominantly from one realm, but occasionally has patches of auras from another realm. The Four Seasonal Courts presented in this chapter are an example of this.
 
->##### A Walk Through a Divine Forest
+>##### A Walk Through a Magical Forest
+>
+>A magical forest, like most in Germany, is a reflection of the Ideal Forest residing in the Magic realm. The trees and other plants are perfect reflections of their kind, and the animals, while remaining unable to speak, are often more intelligent than their mundane counterparts. Both the plants and animals of a magical forest may have minor magical properties, and more substantial magical denizens may be present. Such creatures often set the atmosphere of the forest; one inhabited by a griffin is wild and untamed; whereas a forest full of ghosts might fill mortals with a sense of loss.
+
+>##### A Walk Through a Faerie Forest
+>
 >A faerie forest may be a place of whimsy, but equally may be a place to be dreaded. Infused with the imaginations and fears of humankind, faerie forests are perhaps best described as having Personality Traits which infuse every aspect of the forest. The plants and animals of a faerie forest may be faeries themselves, giving them the power of speech. Most major faerie forests will have a ruler, who embodies the dominant emotions of the place.
 
 >##### A Walk Through a Divine Forest
-
+>
 >A forest under the Dominion of God is a safe haven from the troubles of the world, although this is not necessarily immediately obvious. Poisonous plants do not thrive in such forests, and many plants bear nutritious fruit, even out of season. The animal life is often allegorical in nature, representing key virtues to those who travel through, and there is an absence of aggressive animals — unless this sanctuary of peace is threatened.
 
 >##### A Walk Through an Infernal Forest
-
+>
 >Those rare infernal forests are horrible places. The trees are often twisted into hideous shapes, and the flora is universally poisonous. Vermin and venomous creatures such as toads and snakes lurk under every log and stone, and there is an abundance of predators. Plants and animals may exist that are not found anywhere else, cruel mockeries of God's Creation. Infernal forests often radiate a feeling of brooding menace, more hateful than even the darkest of faerie forests.
 
 ### General Powers
@@ -959,64 +971,64 @@ Each forest has a number of other powers, some examples of which are listed belo
 
 **Stasis** (15 points, Init 0, Vim): A certain inner part of the forest may become so remote and closed off from the outside world that the passage of time itself is altered. Any mortals resident here do not age (no Aging points are gained) for so long as they remain. However, their perception of the passing years and memories of their prior life gradually become hazy, and they will become Warped after decades or more in the forest. This might allow for magi or others of legend in centuries past to still endure, hidden deeply in a powerful forest. A prerequisite for this rare power is the presence of a regio with a high-level aura. A slightly more common, lesser variant is the Grant Virtue (Unaging) power.
 
-#### The Trees of Germany
-
-Each of the types of trees that can be found in Germany were held by the ancient tribes to have a special significance, often associated with a specific God. "By Oak, Ash, and Thorn" is a common oath which has endured — these three were the most important trees. Each type of wood has one or more Shape and Material Bonuses (see **Ars Magica** 5th Edition, page 110), corresponding to the properties listed below. If an entire living tree is enchanted, any such bonuses are tripled. (It is very rare, but not unheard of, for a Hermetic magus to enchant a living tree as a magic item.)
-
-**The Alder** is an ancient royal tree. Used to make foundations because of its water-resistant wood, its bark provides a Royal red dye. *+2 royalty, +1 resist decay*
-
-**The Apple** is famed for its long life, and the restorative properties of apples. It is also the tree of mankind. *+1 longevity, +1 Corpus*
-
-**The Ash** is traditionally used to make spears and arrow shafts. It was sacred to the war-god Woden, and associated with death and evil. *+2 harm people*
-
-**The Aspen** is a tree of healing, particularly for ague, but rods of aspen are also used for measuring a corpse in preparation for making its coffin. *+5 cure fever, +2 cure disease*
-
-**The Beech** is a tree of learning, as beech tablets were used in antiquity as writing tablets. *+3 knowledge*
-
-**The Birch** is the first tree to recolonize open spaces in the forest, and thus is a symbol of rebirth. *+3 childbirth, +1 Creo*
-
-**The Elder** has long been associated with magic and witchcraft. *+4 malicious magic, +1 Vim*
-
-**The Elm** is also a tree of death, long used for the manufacture of coffins. *+2 death and decay*
-
-**The Fir** is associated with darkness and evil spirits. +*3 darkness, +1 malicious faeries*
-
-**The Hawthorn,** with its thorns, is a tree of protection and warding. +3 wards
-
-**The Hazel** is associated with divination, wisdom, and judgement. *+3 divination, +1 good judgement*
-
-**The Holly** is the winter king, ruler of the dark half of the year. Its prickly leaves are a sign of bad luck, particularly with regards to the causing of wounds. *+2 inflict wounds, +2 inflict pain*
-
-**The Linden** (or Lime) was held by the Slavs to be an exalted tree, associated with Lada, their goddess of love. Germans believe the linden, which is never struck by lightning, to be a lucky tree, and place wayside shrines beneath them. They are also often planted in towns to give their protection, and its wood is used to make shields. *+2 protection against weapons, +1 good fortune*
-
-**The Oak** is the summer king, in opposition to the Holly. It is also associated with the pagan gods of thunder such as Thunor and Jupiter. *+7 protection from storms*
-
-**The Pine** is the opposite of its brother, the Fir, and is associated with light and illumination, due to the whitish color of its bark. *+3 light, +1 friendly faeries*
-
-**The Rowan,** like the Ash, is a magical tree, but the rowan is associated with the benign side of the craft, particularly protection from malicious spells. *+4 protection against malicious magic, +1 Vim*
-
-**The Willow,** with its ability to regrow from the smallest twig, is a powerful symbol of healing and rejuvenation. *+4 restore limb, +1 cure wounds*
-
-**The Yew,** with its association with graveyards, is the tree of the dead. Its berries were eaten by the ancients to receive mystical visions. *+2 corpses, +2 visions*
-
-Conventional statistics are not relevant for forest spirits; instead they are given a Might Score, Personality Traits, and a list of Special Powers only. It is usually impossible to fight these spirits in a conventional way, as they are manifested in the entire forest — in its plants, its animals, even in the rocks and soil, and the water that flows through it. Presented in this chapter are four example spirits that are linked closely with one another; and the following chapters contain many examples of forest spirits that are tied to specific locations. There may be many more of these *genii loci*, both powerful and weak, in the other forests of the Rhine Tribunal, and further afield.
+>#### The Trees of Germany
+>
+>Each of the types of trees that can be found in Germany were held by the ancient tribes to have a special significance, often associated with a specific God. "By Oak, Ash, and Thorn" is a common oath which has endured — these three were the most important trees. Each type of wood has one or more Shape and Material Bonuses (see **Ars Magica** 5th Edition, page 110), corresponding to the properties listed below. If an entire living tree is enchanted, any such bonuses are tripled. (It is very rare, but not unheard of, for a Hermetic magus to enchant a living tree as a magic item.)
+>
+>**The Alder** is an ancient royal tree. Used to make foundations because of its water-resistant wood, its bark provides a Royal red dye. *+2 royalty, +1 resist decay*
+>
+>**The Apple** is famed for its long life, and the restorative properties of apples. It is also the tree of mankind. *+1 longevity, +1 Corpus*
+>
+>**The Ash** is traditionally used to make spears and arrow shafts. It was sacred to the war-god Woden, and associated with death and evil. *+2 harm people*
+>
+>**The Aspen** is a tree of healing, particularly for ague, but rods of aspen are also used for measuring a corpse in preparation for making its coffin. *+5 cure fever, +2 cure disease*
+>
+>**The Beech** is a tree of learning, as beech tablets were used in antiquity as writing tablets. *+3 knowledge*
+>
+>**The Birch** is the first tree to recolonize open spaces in the forest, and thus is a symbol of rebirth. *+3 childbirth, +1 Creo*
+>
+>**The Elder** has long been associated with magic and witchcraft. *+4 malicious magic, +1 Vim*
+>
+>**The Elm** is also a tree of death, long used for the manufacture of coffins. *+2 death and decay*
+>
+>**The Fir** is associated with darkness and evil spirits. +*3 darkness, +1 malicious faeries*
+>
+>**The Hawthorn,** with its thorns, is a tree of protection and warding. +3 wards
+>
+>**The Hazel** is associated with divination, wisdom, and judgement. *+3 divination, +1 good judgement*
+>
+>**The Holly** is the winter king, ruler of the dark half of the year. Its prickly leaves are a sign of bad luck, particularly with regards to the causing of wounds. *+2 inflict wounds, +2 inflict pain*
+>
+>**The Linden** (or Lime) was held by the Slavs to be an exalted tree, associated with Lada, their goddess of love. Germans believe the linden, which is never struck by lightning, to be a lucky tree, and place wayside shrines beneath them. They are also often planted in towns to give their protection, and its wood is used to make shields. *+2 protection against weapons, +1 good fortune*
+>
+>**The Oak** is the summer king, in opposition to the Holly. It is also associated with the pagan gods of thunder such as Thunor and Jupiter. *+7 protection from storms*
+>
+>**The Pine** is the opposite of its brother, the Fir, and is associated with light and illumination, due to the whitish color of its bark. *+3 light, +1 friendly faeries*
+>
+>**The Rowan,** like the Ash, is a magical tree, but the rowan is associated with the benign side of the craft, particularly protection from malicious spells. *+4 protection against malicious magic, +1 Vim*
+>
+>**The Willow,** with its ability to regrow from the smallest twig, is a powerful symbol of healing and rejuvenation. *+4 restore limb, +1 cure wounds*
+>
+>**The Yew,** with its association with graveyards, is the tree of the dead. Its berries were eaten by the ancients to receive mystical visions. *+2 corpses, +2 visions*
+>
+>Conventional statistics are not relevant for forest spirits; instead they are given a Might Score, Personality Traits, and a list of Special Powers only. It is usually impossible to fight these spirits in a conventional way, as they are manifested in the entire forest — in its plants, its animals, even in the rocks and soil, and the water that flows through it. Presented in this chapter are four example spirits that are linked closely with one another; and the following chapters contain many examples of forest spirits that are tied to specific locations. There may be many more of these *genii loci*, both powerful and weak, in the other forests of the Rhine Tribunal, and further afield.
 
 >##### The Passage of the Seasons
-
+>
 >**December:** King Holly (Might Pool 50) slays King Oak (Might Pool 20); the latter is reborn in the Oak Forest. The Alder Prince and Willow Maiden are equally matched in power (Might Pool 35), and his attempts to woo her are failing. Faerie auras: Holly Forest 3, Alder Forest 1, Oak Forest 0, Willow Forest 1.
-
+>
 >**January:** the Willow Maiden (Might Pool 30) is starting to fall for the quiet charms of the Alder Prince (Might Pool 40).
-
+>
 >**March:** the Alder Prince (Might Pool 50) heals the malice of the Willow Maiden's heart with his love, she vanishes back to the Willow Forest. The Kings of Summer and Winter are locked in an impasse; neither can defeat the other (Might Pool 35). Faerie auras: Holly Forest 1, Alder Forest 3, Oak Forest 1, Willow Forest 0.
-
+>
 >**April:** King Oak (Might Pool 40) is beginning to win more battles than King Holly (Might Pool 30).
-
+>
 >**June:** King Oak (Might Pool 50), having captured King Holly (Might Pool 20), imprisons him in the heart of his domain in the Holly Forest. The machinations of the Willow Maiden have no effect on the stoic Alder Prince (both have 35 Might Pool). Faerie auras: Holly Forest 0, Alder Forest 1, Oak Forest 3, Willow Forest 1.
-
+>
 >**July:** The web of enchantment spun by the Willow Maiden (Might Pool 40) is beginning to tighten around the Alder Prince (Might Pool 30); he cannot resist her advances for long.
-
+>
 >**September:** the Willow Maiden (Might Pool 50) entraps the Alder Prince (Might Pool 20) in marriage, then drowns him in her forest river. His spirit is reborn in the Alder Forest. The battles between King Holly and King Oak are inconclusive (both have 35 Might Pool). Faerie auras: Holly Forest 1, Alder Forest 0, Oak Forest 1, Willow Forest 3.
-
+>
 >**October:** King Oak (Might Pool 30) is having to dangerously overstretch his resources to prevent his defeat by his opponent (Might Pool 40).
 
 ### The Courts of the Seasons
@@ -1033,14 +1045,16 @@ Magi who know of these four forests hypothesize that there may have once been on
 
 In the north, King Holly holds sway over his forest from a grove of holly trees. Some have linked him to the leader of the Wild Hunt (see Chapter 8: Central Germany, The Harz Mountains), but if they are the same individual, he has two very different forms. The northern forest spirit was forced to possess a faerie of winter, who has constantly rebelled against his control ever since. King Holly, therefore, rules his forest with an iron will; those within the bounds of his forest must obey the very letter of his detailed and complex law, or suffer the severe consequences. His court consists of faeries of ice, frost, and snow.
 
-The Alder Prince rules a forest to the west. He and his subjects are secretive, preferring to manipulate others without them realizing even that there are faeries in the forest. Strongest in the spring, the hidden court of this red-hued prince is to be found in a deep-shrouded vale, where one may be lulled by its peace and serenity. The western forest spirit tried to enter an alliance with the faerie who was to become the Alder Prince, but his prevarication nearly resulted in the dissolution of the spirit, so it possessed him instead. This has lead to the Alder Prince becoming even more passive; but despite his shyness, he is a benign and kindly faerie, who rules over many *holzfrauen* (see below). King Oak holds court beneath the boughs of a mighty Oak in the center of a forest to the south. The spirit left in the southern forest made an alliance with King Oak, and it is still possible to find patches of a Magic aura where the spirit's presence still lingers in this predominantly faerie woodland. King Oak is a generous monarch, willing to meet visitors and treat them well, yet he has a touchy honor, is easily offended, and takes peoples' words very literally. A misplaced turn of phrase can easily leave someone bound up in a supernaturally enforced contract. His court is made up of joyful faeries whose whimsical natures frustrates their military-minded king no end.
+The Alder Prince rules a forest to the west. He and his subjects are secretive, preferring to manipulate others without them realizing even that there are faeries in the forest. Strongest in the spring, the hidden court of this red-hued prince is to be found in a deep-shrouded vale, where one may be lulled by its peace and serenity. The western forest spirit tried to enter an alliance with the faerie who was to become the Alder Prince, but his prevarication nearly resulted in the dissolution of the spirit, so it possessed him instead. This has lead to the Alder Prince becoming even more passive; but despite his shyness, he is a benign and kindly faerie, who rules over many *holzfrauen* (see below).
+
+King Oak holds court beneath the boughs of a mighty Oak in the center of a forest to the south. The spirit left in the southern forest made an alliance with King Oak, and it is still possible to find patches of a Magic aura where the spirit's presence still lingers in this predominantly faerie woodland. King Oak is a generous monarch, willing to meet visitors and treat them well, yet he has a touchy honor, is easily offended, and takes peoples' words very literally. A misplaced turn of phrase can easily leave someone bound up in a supernaturally enforced contract. His court is made up of joyful faeries whose whimsical natures frustrates their military-minded king no end.
 
 The Willow Maiden casts her plots from her eastern forest. Her power waxes in Autumn, and while she seems as generous as the Summer King with the bounty of her forest, every gift she gives has a price; one should be wary about accepting anything from her without discovering this price first. Of course, many find this out too late. The eastern fragment of the forest spirit sought an alliance with the Willow Maiden, but came off very much the worse in their pact; she now has almost total control of her woodland. The Willow Maiden is manipulative and politically minded, and obsessed with her rival, the Alder Prince. Her court consists of handsome male courtiers and beautiful enchantresses.
 
 As the seasons change, the Might Pool of the four spirits changes. As the months progress, the various plots and raids by the next season's court gradually steal raw power from the current ruler. Throughout the year they retain a Might Score of 40, used for Magic Resistance and Penetration, but the size of the Might Pool changes along with the aura of their forests. In the month of the equinox or solstice at the height of the court's power, there is an aura of 3 throughout the woodland, and the forest spirit has a Might Pool of 50. Every month following the height of their power, they lose 5 Might points to their opposing court and the aura shrinks in both strength and area. At the opposing time of the year, the aura has all but vanished and the ruler has a Might Pool of only 20. From then on, they gain 5 Might per month until they reach the height of their power again.
 
 >##### Story Seeds: The Courts of the Seasons
-
+>
 >There are any number of stories that can develop from the interplay between these four courts. Vis is the most obvious benefit for getting involved with the *genii loci*, and the battles between Summer and Winter are perhaps the simplest; the open aggression between these courts is easy to understand, and it is easy to assist one side over the other. The Spring and Autumn courts are more subtle; the Alder Prince is passive to the extreme, defeating the Willow Maiden by the sheer power of his love, although it is this that dooms him in the end. It is recommended that the rewards from the latter pair of courts should be higher than these from the Summer-Winter battles, to encourage the political over the military.
 
 ### Woodland Spirits
@@ -1058,63 +1072,63 @@ Once a magus realizes the power inherent in the forests, he may decide to pursue
 It is possible for non-magi to pursue these mysteries, but this is very rare. Some hedge wizards have knowledge of the paths, and are willing to teach magi in return for suitable recompense. Mundanes who thirst for magic can gain the ability to perform minor spells by surrendering to the force of the forest. Often such mundanes become possessed by the forest spirit, and become its agents beyond the limits of its trees.
 
 >##### Story Seeds: Waldgeister and Holzfrauen
-
+>
 >According to the people of Thuringia, Pulch is a Waldgeist who haunts the Kammerforst and chastises those who steal wood and injure trees. However, Pulch is not a faerie, but instead a magus of House Merinita, who skirts pretty close to the edge of Hermetic Law with his actions. Characters may encounter him by accident, or be asked by the Quaesitores to find him and answer for his crimes.
-
+>
 >Gübich claims to be the king of the dwarves; and he may well be right, but there are many such faeries who make these claims. He is very protective over his pine cones, which often possess magical properties to reward those who please him, and torment those who annoy him.
-
+>
 >If the characters have set up their covenant in a wilderness area (particularly in a faerie aura), they may discover that their covenant is the traditional place in which the local Holzfrau hides from the Wild Hunt. Every autumn, she will try to enter the covenant to hide, and on stormy nights throughout winter, the Wild Hunt will assault the covenant.
-
+>
 >The apples of the Dirne-Weibl are Creo vis, and highly sought after by magi. However, she is able to withdraw their power if she disapproves of the uses to which they are put. Woe betide any magus who uses them to create magical items with offensive powers!
 
 >##### Holzfrau
-
+>
 >**Faerie Might**: 20
-
+>
 >**Characteristics:** Int +1, Per +1, Pre +2, Com –1, Str –2, Sta 0, Dex 0, Qik 0
-
+>
 >**Size:** 0
-
+>
 >**Virtues and Flaws:** Ways of the Forest 
-
+>
 >**Personality Traits:** Kindly +3, Shy +3
-
+>
 >**Combat:**
-
+>
 >*Dodging:* Init 0, Attack n/a, Defense 0, Damage n/a
-
+>
 >**Soak:** 0
-
+>
 >**Wound Penalties**: –1 (1–5), –3 (6-10), –5 (11-15), Incapacitated (16–20)
-
+>
 >**Abilities:** Athletics 2 (escaping pursuers), Awareness 2 (travelers), Charm 3 (men), Chirurgy 5 (infected wounds), Faerie Lore 5 (faerie plants), Magic Lore 4 (magical herbs), Second Sight 4 (animals), Stealth 3 (hiding from pursuers)
-
+>
 >**Powers:**
-
+>
 >*Faerie Nature:* As a faerie, the holzfrau does not suffer from Fatigue, nor is she affected by diseases or old age. She can understand any languages, and can be understood by anyone. All faeries also have the Second Sight Virtue, and gain the benefits or penalties of any supernatural aura when using their faerie powers, according to the Realm Interaction table (see **Ars Magica** 5th Edition, page 183).
-
+>
 >*Vulnerability to Iron*: Cold-forged iron is painful to a holzfrau, and they will do anything to avoid its touch. It will not actually harm them, however.
-
+>
 >*Control Plants*, 1 point per magnitude, Init +1, Herbam: Wood-wives may create any Creo or Rego Herbam effects up to 20th level, at a cost of 1 point per magnitude of the effect. This cost is doubled in the winter.
-
+>
 >*Fertility*, 4 points, Init +1, Herbam: All holzfrauen can create an effect identical to *The Bountiful Feast*, granting fertility and protection to crops. They can also withdraw any protection that they have bestowed, should their generosity be abused.
-
+>
 >*Healing*, 4 points, Init –1, Corpus: With a kiss, a wood-wife can remove pain, cleanse a wound of infection, or grant swift healing. This either cures a light wound caused by disease or gives a +9 to recovery rolls.
-
+>
 >**Vis:** 4 Herbam, in hair
-
+>
 >**Appearance:** The holzfrau always appears as a woman, often (but not always) young and beautiful. She is usually bare-foot, and dressed in peasant clothing. They always have a distinguishing manner of dress, which may be used to identify the type of wood-wife (see main text).
-
+>
 >The Holzfrau is a spirit of vegetation, and is usually beneficial to mankind. She will simply flee from those who threaten her, but those who treat her kindly may receive kindness in return. Different wood-wives are associated with different plants — somewhat like dryads — and may have powers that relate to the mythical properties of the plant that they tend. Walpurga (see Chapter 8: Central Germany, The Harz Mountains) is the queen of the holzfrauen.
-
+>
 >Some spirits are more malicious. Stories of the Baumesel (Ass of the Trees) and Bockman (man-goat; see Chapter 6: The Black Forest) are used to frighten children, and with good reason, for these spirits attack lone travelers in the woods. The Eschenfrau (Wife of the Ash) is a very evil spirit to those unfortunate enough to have one living near them, and she must be appeased with a sacrifice on Ash Wednesday.
 
 >*During my journeys through the various forests of this Tribunal, I have increasingly become awakened to the subtle yet ancient power that they seem to hide. On occasion, when I have neglected to raise my Parma Magica, I can feel it, at the edges of my senses, tugging at my Gift. What is this strange force? At times, this seems a seductive call, whispering a promise of power beyond imagining, yet other times I sense an alien presence, threatening to consume me utterly.*
-
+>
 >*Though I do not yet understand this mysterious power, I have grown to recognize it, something that I believe is common to all the woodlands I have encountered here. It is told that Bonisagus, too, felt it, and that this is why he came to the site of Durenmar. In his latter years, they say he became convinced that Hermetic Magic was just the beginning, just the first step to unlocking the power of the primeval magic. It is assumed that his work was never finished, but I have heard rumors that those remaining few who follow the lineage of Hercynius are working to channel this power and to complete his opus maximum.*
-
+>
 >*Yet magi of Bjornaer and Merinita claim to already have mastery of the wildernesses, even though their methods seem as alien to me, and I daresay to each other, as the forest itself. We cannot all be right, yet the wisdom which each faction accepts seems to contain some fragment of the truth. But I am sure that none of us has the complete picture! Each of the three domus magnae seems to have uncovered but a part of this mystery. What if we were to share our secrets — might we not be able to truly access the vast store of raw magic that the forests seem to offer?*
-
+>
 >— from the journal of Causabon of House Bonisagus
 
 ### The First Step
@@ -1132,55 +1146,59 @@ The paths below describe the Sacrifice, Quest, and Fruit for a number of differe
 A magus may take it upon himself to defend the forest against any threats, or to otherwise act in its service. Occasionally, a magus of the Rhine Tribunal (usually a follower of Bjornaer, but rarely, of another House) will publicly announce himself to be the "Guardian" of a particular forest (or other wilderness), which he claims as his personal Hermetic territory. Such a claim has little basis in Hermetic law, except that the Rhine Peripheral Code explicitly encourages magi to defend such wildernesses. In any case, these magi are seldom seen at Tribunal thereafter. Ever since the time of the departure of the Founders, there have always been rumors of the unexplained disappearances or retirements of Rhine magi, and the Forest paths may be one of the reasons for this.
 
 >##### New Arcane Ability: Forest Lore
-
+>
 >This Ability covers knowledge of the Forest in all its manifestations. At its most mundane, it counts as an Area Lore for the forest in which it was learned; yet it is much more than this. It includes knowledge of the supernatural beings and places of a forest, as well as a sense of the spirit that rules it; what pleases it, what angers it, and whether it is currently Manifested in proximity to the character. Unless otherwise stated (see below), this understanding only applies to the home forest. As understanding deepens, however, this Ability becomes more general, applying to all supernatural forests rather than just the one where the character dwells, although the corresponding Ease Factor or required score level is raised by three points for a foreign forest. For example, a score of 4 (instead of 1) is required to enter communion with a foreign genius locus. Forest Lore can only be increased through practice, and the Source Quality is always equal to the strength of the forest's aura.
-
+>
 >The character typically (but not always) develops a deep spiritual attachment to the forest that he studies and lives in.
-
+>
 >| Score (Home Forest) | Score (Foreign Forest) | Understanding |             
->|-------------------------|-----------------------|-------------|
-| 0  | 3     | An elementary understanding of the forest with a resident spirit; the character merely has to spend a few hours in such a forest<br>and he will be able to locate the most important sites, and know the major dangers. |
-| 1     | 4   | A basic understanding of the forest, its denizens, and important locations. You can enter communion with a genius locus and<br>make the appropriate sacrifices. |
-| 2   | 5   | An awareness of the supernatural elements of the forest; you can detect when a spirit has Manifested in a nearby animal or plant,<br>or whether a person is a recipient of a Virtue or Flaw from a forest spirit.    |
-| 3    | 6   | You can locate vis in the forest by spending a few days searching.   |
-| 4   | 7   | An understanding with the forest's supernatural residents; they will tend to act neutrally or friendly towards the character. The spirit will occasionally communicate with the character, to warn him of interlopers, for >example. |
-| 5     | 8   | You can communicate directly with the genius locus of the forest. The character is respected by most of the forest's denizens.     |
-| 6   | 9    | Respected and acknowledged as an ally by the forest spirit.                                                                                                                                                                                      |
->##### Sacrifices
+>|---|---|---|
+>| 0 | 3 | An elementary understanding of the forest with a resident spirit; the character merely has to spend a few hours in such a forest<br>and he will be able to locate the most important sites, and know the major dangers. |
+>| 1 | 4 | A basic understanding of the forest, its denizens, and important locations. You can enter communion with a genius locus and<br>make the appropriate sacrifices. |
+>| 2 | 5 | An awareness of the supernatural elements of the forest; you can detect when a spirit has Manifested in a nearby animal or plant,<br>or whether a person is a recipient of a Virtue or Flaw from a forest spirit. |
+>| 3 | 6 | You can locate vis in the forest by spending a few days searching. |
+>| 4 | 7 | An understanding with the forest's supernatural residents; they will tend to act neutrally or friendly towards the character. The spirit will occasionally communicate with the character, to warn him of interlopers, for example. |
+>| 5 | 8 | You can communicate directly with the genius locus of the forest. The character is respected by most of the forest's denizens. |
+>| 6 | 9 | Respected and acknowledged as an ally by the forest spirit. |
 
+>##### Sacrifices
+>
 >The Sacrifice made to acquire a Fruit usually takes the form of a Flaw; and most commonly, a General Flaw. This Flaw should represent a hardship to the character, and would be something that he is reluctant to take — else there is no real sacrifice involved. However, storyguides should be careful about imposing Sacrifices upon characters. There should always be a conscious choice on the part of the player involved; and it is often wise to discuss these issues with the player beforehand. Typical Sacrifices involve physical mutilation (for example, resulting in Missing Hand, Disfigured, or Blind), a horrible ordeal (resulting in Poor Characteristic, Fragile Constitution, Fear, or Warping Points), a mystical limitation of power (resulting in a Hermetic Flaw or a Supernatural Flaw such as Malediction or Lycanthrope), or a social contract (resulting in a Vow or Oath of Fealty). Sacrifices rarely affect Story or Personality Flaws. Sacrifices are not a manifestation of a forest spirit's Grant Flaw power, but instead permanent changes to those who take them on.
 
 >##### Quests
-
+>
 >Quests are the key to acquiring a Fruit. A Quest is always to the benefit of the genius locus who sets it, but the motives for the Quest are not always immediately apparent. From a game perspective, the Quest often allows other characters to participate in the character's personal development, although it should always be the walker on the Path who performs most of the action. Additionally, the character suffers from the Sacrifice for some time before gaining the benefit from his toil. A character undertaking a Quest will not gain any experience points for doing so; although those who assist him will, in the usual fashion. Despite the name, a Quest is not always an adventure, although many are. A Quest might involve the creation of a spell or an enchantment, or achieving a specific personal goal, or merely spending time in isolation. Quests are never ongoing — they must have a clear end point, at which point the Fruit is gained. Becoming a Guardian of the Forest, for example, is not a Quest, it is a Sacrifice (in the form of the Oath of Fealty Flaw).
-
+>
 >Quests to achieve Major Virtues are always more rigorous than those to acquire Minor Virtues, and may take many seasons to complete. Quests for a Minor Virtue typically take no more than two seasons.
 
 >##### Fruits
+>
 >Fruits are always supernatural effects. The process of the Sacrifice and Quest, with the intervention of the genius locus, makes it possible for even unGifted characters to acquire Supernatural Virtues, despite the usual restrictions on this process, and Gifted characters do not suffer penalties due to the magical powers they already possess. Other Supernatural Virtues, which are not governed by Supernatural Abilities (such as Unaging, Skinchanger, and the like) are also possible Fruits; Hermetic magi may also gain Hermetic Virtues. Knowing a Fruit might also provide side benefits not covered by the Virtue, such as the ability to create spells that are not normally possible with Hermetic magic. These always have a requirement that the creator and caster have the Forest Lore Ability. The Virtues available through any given path should have a linked theme; they should not be merely a source of disparate desired powers, and a character may find it necessary to first acquire other Fruits before finally getting the one he actually wants. The storyguide should not be afraid of creating new Virtues especially for Major Virtues — to complete a path, and give it a unique feel. These can be based around a pre-existing Virtue, or they may be entirely new. Fruits are not a manifestation of the Grant Virtue power, they are permanent effects which do not fade when exiting the forest.
 
 ### The Path of Aging
 
 Alexander of Jerbiton sought a path that would reverse the effect that time had had on his beloved mater, who had been cursed to age at double the normal rate. He was required to pluck out his own eye to prove his conviction to this path, and was able to convince the forest spirit to grant her the Unaging Virtue temporarily. He then embarked on an epic quest in search of the Fountain of Youth, guided by his mystical link to the genius locus. This magical fountain infused his blood with the power of youth, allowing him to create more potent longevity rituals. Tragically, his Quest took longer than he bargained for — time seems to move at different speeds deep in the forest — and death had claimed his mistress by the time he returned to her. Stricken with grief, Alexander returned to the forest and was never heard of again.
 
->##### STORY SEED: THE RELUCTANT JERBITON
+##### STORY SEED: THE RELUCTANT JERBITON
 
->Rumors of a magus whose longevity rituals can actually remove the effects of aging reach the ears of Günther Lupus (see Chapter 8: Central Germany, Fengheld), who secretly has a great need for such a ritual (or rather, his mater Eule does). He therefore dispatches the player character to track down Alexander of Jerbiton on some pretext to disguise his true motives. Naturally, Alexander does not wish to be found.
+Rumors of a magus whose longevity rituals can actually remove the effects of aging reach the ears of Günther Lupus (see Chapter 8: Central Germany, Fengheld), who secretly has a great need for such a ritual (or rather, his mater Eule does). He therefore dispatches the player character to track down Alexander of Jerbiton on some pretext to disguise his true motives. Naturally, Alexander does not wish to be found.
 
 #### NEW MAJOR GENERAL VIRTUE: IMMORTALITY OF THE FOREST
 
 Your life force has become inextricably linked with that of the forest where you live. For each year in which you remain completely within its supernatural aura, you do not make an Aging roll, but instead gain one Warping Point for being under a constant mystical effect (as per **Ars Magica** 5th Edition, page 167).
 
 >##### Path of Aging
-
+>
 >**1st Sacrifice:** Missing Eye
-
+>
 >**1st Quest:** Complete a Longevity Ritual with the use of rare forest ingredients and a blood sacrifice.
-
->**1st Fruit:** Minor Magical Focus in Aging **2nd Sacrifice:** Difficult Longevity Ritual
-
+>
+>**1st Fruit:** Minor Magical Focus in Aging
+>
+>**2nd Sacrifice:** Difficult Longevity Ritual
+>
 >**2nd Quest:** Drink from the Fountain of Youth.
-
+>
 >**2nd Fruit:** Immortality of the Forest
 
 ### The Path of Energy
@@ -1188,30 +1206,30 @@ Your life force has become inextricably linked with that of the forest where you
 By harnessing the reservoir of magical energy possessed by the forest, Terious of Flambeau discovered how to replenish the energy he spent in spellcasting from the energy of the forest. He eventually became infused with the power of the spirit, a living embodiment of the genius locus. Terious also contributed a spell — *Replenishing the Fount of the Magus* to the Great Library of Durenmar. Terious was only able to make this breakthrough by overwhelming his senses through grueling ordeals in a place closely linked to primal magic, seeking to return himself to a more primitive form. He was drastically Warped by the experience and lost much control over his magic.
 
 >##### Path of Energy
-
+>
 >**1st Sacrifice:** Unpredictable Magic
-
+>
 >**1st Quest:** Live in the forest for a year like an animal, wearing no clothes, cooking no food, using no tools or magic.
-
+>
 >**1st Fruit:** Life Boost
-
+>
 >**2nd Sacrifice:** Chaotic Magic
-
+>
 >**2nd Quest:** Conquer the Dragon of the Sauerland, and eat its heart.
-
+>
 >**2nd Fruit:** Mythic Blood
-
-#### New Spell
-
-**REPLENISHING THE FOUNT OF THE MAGUS**
-
-**CrCo 30**
-
-**R:** Touch, **D:** Mom, **T:** Individual
-
-**Requisites:** Mu, He, Vi
-
-With the use of this spell, the magus who has discovered the Path of Energy may restore lost Fatigue levels from the forest; one per each casting. This requires the caster to be in physical contact with the forest, and to have a Forest Lore score of at least 4. The caster must ceremonially receive this energy in some manifest form, such as drinking from a forest spring or the eating of forest herbs. While this spell is recorded in the Great Library, no-one has managed to successfully cast it, and many believe it to be a hoax.
+>
+>#### New Spell
+>
+>**REPLENISHING THE FOUNT OF THE MAGUS**
+>
+>**CrCo 30**
+>
+>**R:** Touch, **D:** Mom, **T:** Individual
+>
+>**Requisites:** Mu, He, Vi
+>
+>With the use of this spell, the magus who has discovered the Path of Energy may restore lost Fatigue levels from the forest; one per each casting. This requires the caster to be in physical contact with the forest, and to have a Forest Lore score of at least 4. The caster must ceremonially receive this energy in some manifest form, such as drinking from a forest spring or the eating of forest herbs. While this spell is recorded in the Great Library, no-one has managed to successfully cast it, and many believe it to be a hoax.
 
 ### The Path of Warping
 
@@ -1222,17 +1240,17 @@ Kleon of Criamon spent many years in the most isolated and magical part of the T
 Whenever you suffer a Wizard's Twilight, you may choose the effects of Twilight, rather than have it imposed upon you by the storyguide. If you fail to control the Twilight, you still gain a bad effect, but you may choose from the options in ArM5, page 89. Additionally, you may induce Warping in any being you touch; once per day you may grant somebody 2 Warping Points. This effect has a Penetration of +5, and, if used on a Hermetic magus, necessitates a roll for Twilight in the usual fashion.
 
 >##### Path of Warping
-
+>
 >**1st Sacrifice:** Fragile Constitution
-
+>
 >**1st Quest:** Acquire a Warping Score of 4.
-
+>
 >**1st Fruit:** Puissant Enigmatic Wisdom
-
+>
 >**2nd Sacrifice:** Twilight Prone
-
+>
 >**2nd Quest:** Trap a magus opposed to the forest in Twilight
-
+>
 >**2nd Fruit:** Twilight Mastery
 
 ### The Path of the Heartbeast
@@ -1240,9 +1258,9 @@ Whenever you suffer a Wizard's Twilight, you may choose the effects of Twilight,
 Uniquely among the paths presented here, this path has been walked many hundreds of times, by every Bjornaer magus who has undertaken an apprenticeship in the Order of Hermes. The goal of the path is contacting one's heartbeast (see **Ars Magica** 5th Edition, page 91). This is also one of the more powerful paths, as it pushes at the Limit of Essential Nature. The true mystery is not the ability to change shape — even many hedge wizards can do this — but the ability to be totally indistinguishable from a natural animal of that type; that is, the magus acquires (or awakens) a whole new aspect to his Essential Nature. The sacrifice for this power is the inability to ever bind a familiar. The reason for this is unknown, but may be because a familial bond is normally formed between the creature and that part of a magus' soul that House Bjornaer has awakened. More information on the Mystery of the Heartbeast will be detailed in a forthcoming supplement for **Ars Magica** 5th edition.
 
 >##### Story Seed: Schwall, follower of Bjornaer
-
+>
 >An eccentric and elderly magus, Schwall (formerly of Rheinstein covenant; see Chapter 12: The Curse of the Rhine Gorge), lives out a solitary existence at the Rhinefalls (see Chapter 5: The Rhine, The Upper Rhine), with his sanctum hidden inside one of the lower regio levels on the rock. He has completed a number of Quests in the service of the Spirit of the Rhine, and is also magically powerful. His heartbeast is believed to be a fish, but he is also able to take the form of a seething mass of water by virtue of one of the Mysteries he has acquired. Fearing the onset of his Final Twilight (he has already accumulated numerous Twilight Scars; for example, he is always wet), he is researching and preparing for his final Quest. This plan is for him to release the powerful Rhine elemental, and the Mystery he will acquire is to simultaneously merge his consciousness with that of the spirit. The primary goal, as he sees it, is to achieve a kind of immortality for himself — otherwise he fears that his Final Twilight will see himself simply washed away. Since he is also a fervent Wilderist of the Hawthorn Gild, however, any side effects of the spirit's release, such as the devastation of shipping and towns and cities in torrents and floods, dealing a blow to the mundanes of the Rhine Tribunal, would be merely a bonus.
-
+>
 >The player magi may begin to notice disturbances of the Rhine as the early stages of Schwall's plan begin to take effect. Should they discover his sanctum, they may (depending on their outlook, and whether they themselves have any interests on the Rhine) choose to either hinder or help him. Since the release of the elemental would likely cause devastation on a biblical scale — a monumental breach of the Code — the Rhine Tribunal would surely March anyone found to be involved in such a reckless scheme, should it come to fruition. By this time, however, Schwall reckons that he will be well beyond any possible retribution that magi could deliver.
 
 ### The Arcadian Path
@@ -1258,17 +1276,17 @@ You are unable to express any strong emotions. This leaves you hard-hearted and 
 You are able to manipulate the emotions of others. You gain a Supernatural Ability called Emotion Theft, at a score of 1. To use this ability, you must first find a person expressing the emotion you wish to instill in another. You may then make a Presence + Emotion Theft roll against an Ease Factor of 6 + the target's Personality Trait for that emotion. If successful, the emotion is removed from the target, leaving them devoid of it (although it may naturally reoccur, over time). You can then transfer the emotion to another by touching him; and he will feel the emotion as strongly as the original "donor." You can even transfer feelings of true love and true friendship (although the Ease Factor to steal such emotions is raised by 3), but not true faith.
 
 >##### Arcadian Path
-
+>
 >**1st Sacrifice:** Dispassionate
-
+>
 >**1st Quest:** Cause an important faerie to display an unaccustomed emotion.
-
+>
 >**1st Fruit:** Minor Magical Focus in Emotions
-
+>
 >**2nd Sacrifice:** Weak Magic Resistance (When feeling emotion)
-
+>
 >**2nd Quest:** Enchant four magical jewels to store the emotions of one's heart, liver, spleen, and brain.
-
+>
 >**2nd Fruit:** Thief of Emotions
 
 # Chapter Five: The Rhine
@@ -5228,4 +5246,5 @@ These works were referred to in writing this supplement, and may be of use to th
 - Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/~workshop/papers/gardner\_102802.pdf
 
 - *LEO English-German Dictionary*: http://dict.leo.org/
+
 
