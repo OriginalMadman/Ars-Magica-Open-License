@@ -62,324 +62,534 @@ Copyright 2012 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 DIGITAL VERSION 1.0
 
-
 # Contents
 
-| I. Introduction                      | 8  | Oppositional Elements 16          |   | Papal Legates 31             |  |
-|--------------------------------------|----|-----------------------------------|---|------------------------------|--|
-|                                      |    | Pilgrimage & Devotion 19          |   | The Archbishop 31            |  |
-| The Church and the Divine 8          |    | Pilgrimage Destinations 19        |   | Patriarch 31                 |  |
-| The Church and                       |    | Taking the Cross 19               |   | The Archdeacon 32            |  |
-| the Order of Hermes 9                |    | Christian Mysticism 19            |   | The Dean 32                  |  |
-| The Western Church 9                 |    | Contemplative Mysticism 21        |   | Clerics 32                   |  |
-| The Church in 1220 AD 9              |    | Spiritual Paths and Revelations21 |   | Ordination 33                |  |
-| The Mythic Church 9                  |    | Monistic Mysticism 23             |   | Rapid Ordinations34          |  |
-|                                      |    | Advantages of Pursuing            |   | Minor Orders 34              |  |
-|                                      |    | Monistic Mysticism23              |   | Doorkeeper34                 |  |
-| II. The Congregation                 | 10 | Life as a Hermit 24               |   | Lector34                     |  |
-|                                      |    |                                   |   | Exorcist34                   |  |
-| Indulgences 11                       |    |                                   |   | Acolyte35                    |  |
-| Vigils & Fasting 12                  |    | III. The Diocese 2                | 5 | Major Orders 35              |  |
-| Devotion 12                          |    |                                   |   | Sub-Deacon35                 |  |
-| The Benefits of Devotion 13          |    | Clergy Characters 25              |   | Deacon35                     |  |
-| Relics & Devotion 13                 |    | Virtues and Flaws 25              |   | Priest35                     |  |
-| The Costs of Devotion 13             |    | Senior Clergy25                   |   | Canon Law<br>35              |  |
-| Gaining Devotion Points 14           |    | Priest26                          |   | Canon Courts 35              |  |
-| Seasons of personal devotion14       |    | Clerk26                           |   | Secular Justice35            |  |
-| Endowing a church, chapel, or        |    | Religious26                       |   | Canon Law Jurisdiction36     |  |
-| monastery dedicated to the saint14   |    | License of Absence26              |   | Court Procedures36           |  |
-| Participating in a guild             |    | Commanding Aura26                 |   | Punishment 37                |  |
-| dedicated to the saint14             |    | Dark Secret27                     |   | Canon Law Cases 37           |  |
-| Visiting a site associated           |    | Regular27                         |   | Shedding of Blood37          |  |
-| with the saint14                     |    | Vows 27                           |   | Marriage and Sexual Crimes37 |  |
-| Sponsoring church artworks           |    | Faith Points 27                   |   | Sanctuary37                  |  |
-| associated with the saint14          |    | New Seasonal Activities 27        |   | Simony38                     |  |
-| Studying the hagiographies           |    | Worship27                         |   | Usury38                      |  |
-| to meditate on the saint's life14    |    | Good Works27                      |   | Wills38                      |  |
-| Furthering the cultus of the saint14 |    | Care of Souls28                   |   | Upkeep of the Church38       |  |
-| Witnessing a genuine                 |    | The Bishop 28                     |   | Religious Practices38        |  |
-| miracle of the saint14               |    | The Cathedral Chapter 28          |   | Tithes38                     |  |
-| Sponsoring or participating in       |    | Election of the Bishop 28         |   | Slander38                    |  |
-| the saint's feast day procession14   |    | In Partibus Infidelium 29         |   | Sorcery and Witchcraft38     |  |
-| Pilgrimage in honor of the saint,    |    | Bishops as Feudal Lords 29        |   | The Parish 38                |  |
-| & acquiring the pilgrimage badge 15  |    | The Pope 29                       |   | The Parish Church 39         |  |
-| Experiencing a dream or              |    | The Cardinals 30                  |   | The Parish Priest 39         |  |
-| vision from a saint15                |    | The Papal Curia 30                |   | The Liturgy40                |  |
-| False Devotion 15                    |    | The Chancery30                    |   | The Sacraments40             |  |
-| Becoming a Saint 15                  |    | Proctors30                        |   | The Parish Clerk40           |  |
-| Pilgrimages 15                       |    | The Camera31                      |   | The Curate41                 |  |
-| The Mechanics of                     |    | The Judiciary31                   |   | The Chaplain41               |  |
-| a Pilgrimage Story 16                |    | The Capellani31                   |   | The Co-adjudicator41         |  |
+## I. Introduction
+- The Church and the Divine
+- The Church and the Order of Hermes
+- The Western Church
+- The Church in 1220 AD
+- The Mythic Church
 
+## II. The Congregation
+- Indulgences
+- Vigils & Fasting
+- Devotion
+- &emsp;The Benefits of Devotion
+- &emsp;Relics & Devotion
+- &emsp;The Costs of Devotion
+- &emsp;Gaining Devotion Points
+- &emsp;&emsp;Seasons of personal devotion
+- &emsp;&emsp;Endowing a church, chapel, or monastery dedicated to the saint
+- &emsp;&emsp;Participating in a guild dedicated to the saint
+- &emsp;&emsp;Visiting a site associated with the saint
+- &emsp;&emsp;Sponsoring church artworks associated with the saint
+- &emsp;&emsp;Studying the hagiographies to meditate on the saint’s life
+- &emsp;&emsp;Furthering the cultus of the saint
+- &emsp;&emsp;Witnessing a genuine miracle of the saint
+- &emsp;&emsp;Sponsoring or participating in the saint’s feast day procession
+- &emsp;&emsp;Pilgrimage in honor of the saint, & acquiring the pilgrimage badge
+- &emsp;&emsp;Experiencing a dream or vision from a saint
+- False Devotion
+- Becoming a Saint
+- Pilgrimages
+- &emsp;The Mechanics of a Pilgrimage Story
+- &emsp;Oppositional Elements
+- &emsp;Pilgrimage & Devotion
+- &emsp;Pilgrimage Destinations
+- Taking the Cross
+- Christian Mysticism
+- &emsp;Contemplative Mysticism
+- &emsp;&emsp;Spiritual Paths and Revelations
+- &emsp;Monistic Mysticism
+- &emsp;&emsp;Advantages of Pursuing Monistic Mysticism
+- Life as a Hermit
 
-| The Perambulation 41             | Becoming a Monk or Nun 52       | Elizabeth of Schönau 78          |
-|----------------------------------|---------------------------------|----------------------------------|
-| The Benefice 41                  | The Rule of Saint Benedict 54   | Visions to Come 79               |
-| Benefices Held by Institutions43 | Daily Routine54                 | False Visions 79                 |
-| Tithe43                          | Discipline54                    | Priests' Wives and Mistresses 80 |
-| Papal Appointments to Benefice43 | Property and Possessions55      | Imposters 80                     |
-| Rural Parishes 43                | Food and Drink 55               | Sample Characters 80             |
-| Chapels43                        | Sleeping Arrangements56         | Holy Maga                        |
-| Private Chapels43                | Hospitality and Visitors56      | (House Ex Miscellanea) 80        |
-| Urban Parishes 44                | The Infirmary56                 | Grog Templates 83                |
-| Chapters of Canons44             | Work Outside the Monastery56    |                                  |
-| Visitations 44                   | Monastic Roles and Positions 56 |                                  |
-| Visitatio ad Limina 45           | The Abbess or Abbot58           | VI. The Corrupt<br>85            |
-| Synods 45                        | The Prior or Prioress59         |                                  |
-| Ecumenical Councils 45           | The Terrar59                    | Storyguiding Corruption 85       |
-| Petitioning the Church 46        | The Cellarer or Cellaress59     | Heresy and Corruption 86         |
-| The Petition Total 46            | The Bursar60                    | Three Holy Orders 87             |
-| Acting Without Authority 48      | The Infirmarian60               | The Order of Cluny 87            |
-| Appealing a Petition 48          | The Head of the Novitiate60     | What Makes the                   |
-| Creating Game Statistics         | The Sacrist60                   | Cluniacs Different? 87           |
-|                                  |                                 |                                  |
-| for a Church 48                  | The Precentor60                 | Government88                     |
-| Basic Church Features 48         | The Porter60                    | Independence88                   |
-| Resources 48                     | The Hostillar60                 | Frequent Mass88                  |
-| Books48                          | The Almoner60                   | The Liturgical Hours88           |
-| Enchanted Items49                | The Chancellor61                | Chantries and                    |
-| Relics49                         | The Priest62                    | Masses for the Dead89            |
-| Specialists49                    | The Religious in Your Saga 62   | Ecclesiastical Influence89       |
-| Vis49                            |                                 | Fading Wealth89                  |
-| Hooks and Boons 50               |                                 | Entering the Cluniac Order90     |
-| Major Church Boon:               | V. The Women<br>63              | The Corrupt Cluniacs 91          |
-| Military Order50                 |                                 | The Cistercians 94               |
-| Minor Church Boon:               | Female Religious                | What Makes the                   |
-| Anchorite/Anchoress50            | in the Covenant 63              | Cistercians Different? 94        |
-| Minor Church Boon:               | Options for Absent Players 64   | Solitude and Retreat94           |
-| Burial Rights50                  | Nuns 64                         | Manual Labor94                   |
-| Minor Church Boon: Chantry50     | The Rule 66                     | Governance95                     |
-| Minor Church Boon:               | Characters in a Nunnery 67      | Wealth95                         |
-| Chapter of Canons50              | The Scholar67                   | Ecclesiastical Influence95       |
-| Minor Church Boon:               | The Refugee68                   | Opposing Heresy95                |
-| Church School50                  | The Prisoner69                  | The Corrupt Cistercians 95       |
-| Major Church Hook: Corrupt51     | The Revolutionary69             | Joachim of Flora96               |
-| Major Church Hook: Heretics51    | Misbehavior 69                  | The Joachimites96                |
-| Major Church Hook:               | Reports of Wayward Nuns71       | The Cistercian Connection97      |
-| Jurisdiction51                   | Canonesses 72                   | Sample Characters 97             |
-| Minor Church Hook:               | Beguines 72                     | Father Tino of Gradara97         |
-| Absent Rector51                  | Beguinages of the Near Future73 | The Vallumbrosans 99             |
-| Minor Church Hook:               | Penitents 73                    | What Makes the                   |
-| Incompetent Curate51             | Recluses 74                     | Vallumbrosans Different? 99      |
-| Minor Church Hook:               | Carmelite Nuns 74               | Papal Influence99                |
-| Vast Sanctuary51                 | Anchoresses 74                  | Extreme Asceticism and Silence99 |
-|                                  | The Anchoress' Rule             | No Manual Work99                 |
-|                                  | (Ancrene Riwle) 75              | Total Retreat from the World100  |
-| IV. The Rule                     |                                 |                                  |
-| & Religious Life<br>52           | Mystics 76                      | If the Vallumbrosans             |
-|                                  | Hildegard of Bingen 77          | are Corrupt 100                  |
-|                                  | Marie of Oignes:                |                                  |
-| Benedictine Life 52              | Beguine and Mystic 78           |                                  |
+## III. The Diocese
+- Clergy Characters
+- &emsp;Virtues and Flaws
+- &emsp;&emsp;Senior Clergy
+- &emsp;&emsp;Priest
+- &emsp;&emsp;Clerk
+- &emsp;&emsp;Religious
+- &emsp;&emsp;License of Absence
+- &emsp;&emsp;Commanding Aura
+- &emsp;&emsp;Dark Secret
+- &emsp;&emsp;Regular
+- &emsp;Vows
+- &emsp;Faith Points
+- &emsp;New Seasonal Activities
+- &emsp;&emsp;Worship
+- &emsp;&emsp;Good Works
+- &emsp;&emsp;Care of Souls
+- The Bishop
+- &emsp;The Cathedral Chapter
+- &emsp;Election of the Bishop
+- &emsp;In Partibus Infidelium
+- &emsp;Bishops as Feudal Lords
+- The Pope
+- &emsp;The Cardinals
+- &emsp;The Papal Curia
+- &emsp;&emsp;The Chancery
+- &emsp;&emsp;Proctors
+- &emsp;&emsp;The Camera
+- &emsp;&emsp;The Judiciary
+- &emsp;&emsp;The Capellani
+- &emsp;Papal Legates
+- The Archbishop
+- &emsp;Patriarch
+- The Archdeacon
+- The Dean
+- Clerics
+- &emsp;Ordination
+- &emsp;&emsp;Rapid Ordinations
+- &emsp;Minor Orders
+- &emsp;&emsp;Doorkeeper
+- &emsp;&emsp;Lector
+- &emsp;&emsp;Exorcist
+- &emsp;&emsp;Acolyte
+- &emsp;Major Orders
+- &emsp;&emsp;Sub-Deacon
+- &emsp;&emsp;Deacon
+- &emsp;&emsp;Priest
+- Canon Law
+- &emsp;Canon Courts
+- &emsp;&emsp;Secular Justice
+- &emsp;&emsp;Canon Law Jurisdiction
+- &emsp;&emsp;Court Procedures
+- &emsp;Punishment
+- &emsp;Canon Law Cases
+- &emsp;&emsp;Shedding of Blood
+- &emsp;&emsp;Marriage and Sexual Crimes
+- &emsp;&emsp;Sanctuary
+- &emsp;&emsp;Simony
+- &emsp;&emsp;Usury
+- &emsp;&emsp;Wills
+- &emsp;&emsp;Upkeep of the Church
+- &emsp;&emsp;Religious Practices
+- &emsp;&emsp;Tithes
+- &emsp;&emsp;Slander
+- &emsp;&emsp;Sorcery and Witchcraft
+- The Parish
+- &emsp;The Parish Church
+- &emsp;The Parish Priest
+- &emsp;&emsp;The Liturgy
+- &emsp;&emsp;The Sacraments
+- &emsp;&emsp;The Parish Clerk
+- &emsp;&emsp;The Curate
+- &emsp;&emsp;The Chaplain
+- &emsp;&emsp;The Co-adjudicator
+- &emsp;The Perambulation
+- &emsp;The Benefice
+- &emsp;&emsp;Benefices Held by Institutions
+- &emsp;&emsp;Tithe
+- &emsp;&emsp;Papal Appointments to Benefice
+- &emsp;Rural Parishes
+- &emsp;&emsp;Chapels
+- &emsp;&emsp;Private Chapels
+- &emsp;Urban Parishes
+- &emsp;&emsp;Chapters of Canons
+- &emsp;Visitations
+- &emsp;&emsp;Visitatio ad Limina
+- &emsp;Synods
+- &emsp;&emsp;Ecumenical Councils
+- &emsp;Petitioning the Church
+- &emsp;&emsp;The Petition Total
+- &emsp;&emsp;Acting Without Authority
+- &emsp;&emsp;Appealing a Petition
+- &emsp;Creating Game Statistics for a Church
+- &emsp;&emsp;Basic Church Features
+- &emsp;&emsp;Resources
+- &emsp;&emsp;&emsp;Books
+- &emsp;&emsp;&emsp;Enchanted Items
+- &emsp;&emsp;&emsp;Relics
+- &emsp;&emsp;&emsp;Specialists
+- &emsp;&emsp;&emsp;Vis
+- &emsp;&emsp;Hooks and Boons
+- &emsp;&emsp;&emsp;Major Church Boon: Military Order
+- &emsp;&emsp;&emsp;Minor Church Boon: Anchorite/Anchoress
+- &emsp;&emsp;&emsp;Minor Church Boon: Burial Rights
+- &emsp;&emsp;&emsp;Minor Church Boon: Chantry
+- &emsp;&emsp;&emsp;Minor Church Boon: Chapter of Canons
+- &emsp;&emsp;&emsp;Minor Church Boon: Church School
+- &emsp;&emsp;&emsp;Major Church Hook: Corrupt
+- &emsp;&emsp;&emsp;Major Church Hook: Heretics
+- &emsp;&emsp;&emsp;Major Church Hook: Jurisdiction
+- &emsp;&emsp;&emsp;Minor Church Hook: Absent Rector
+- &emsp;&emsp;&emsp;Minor Church Hook: Incompetent Curate
+- &emsp;&emsp;&emsp;Minor Church Hook: Vast Sanctuary
 
+## IV. The Rule & Religious Life
+- Benedictine Life
+- Becoming a Monk or Nun
+- The Rule of Saint Benedict
+- &emsp;Daily Routine
+- &emsp;Discipline
+- &emsp;Property and Possessions
+- Food and Drink
+- &emsp;Sleeping Arrangements
+- &emsp;Hospitality and Visitors
+- &emsp;The Infirmary
+- &emsp;Work Outside the Monastery
+- Monastic Roles and Positions
+- &emsp;The Abbess or Abbot
+- &emsp;The Prior or Prioress
+- &emsp;The Terrar
+- &emsp;The Cellarer or Cellaress
+- &emsp;The Bursar
+- &emsp;The Infirmarian
+- &emsp;The Head of the Novitiate
+- &emsp;The Sacrist
+- &emsp;The Precentor
+- &emsp;The Porter
+- &emsp;The Hostillar
+- &emsp;The Almoner
+- &emsp;The Chancellor
+- &emsp;The Priest
+- The Religious in Your Saga
 
+## V. The Women
+- Female Religious in the Covenant
+- &emsp;Options for Absent Players
+- Nuns
+- &emsp;The Rule
+- &emsp;Characters in a Nunnery
+- &emsp;&emsp;The Scholar
+- &emsp;&emsp;The Refugee
+- &emsp;&emsp;The Prisoner
+- &emsp;&emsp;The Revolutionary
+- &emsp;Misbehavior
+- &emsp;&emsp;Reports of Wayward Nuns
+- Canonesses
+- Beguines
+- &emsp;Beguinages of the Near Future
+- &emsp;Penitents
+- Recluses
+- &emsp;Carmelite Nuns
+- Anchoresses
+- &emsp;The Anchoress’ Rule (Ancrene Riwle)
+- Mystics
+- &emsp;Hildegard of Bingen
+- &emsp;Marie of Oignes: Beguine and Mystic
+- &emsp;Elizabeth of Schönau
+- &emsp;Visions to Come
+- &emsp;False Visions
+- Priests’ Wives and Mistresses
+- Imposters
+- Sample Characters
+- &emsp;Holy Maga (House Ex Miscellanea)
+- &emsp;Grog Templates
 
-### VII. The Knights Templar 102
+## VI. The Corrupt
+- Storyguiding Corruption
+- &emsp;Heresy and Corruption
+- Three Holy Orders
+- The Order of Cluny
+- &emsp;What Makes the Cluniacs Different?
+- &emsp;&emsp;Government
+- &emsp;&emsp;Independence
+- &emsp;&emsp;Frequent Mass
+- &emsp;&emsp;The Liturgical Hours
+- &emsp;&emsp;Chantries and Masses for the Dead
+- &emsp;&emsp;Ecclesiastical Influence
+- &emsp;&emsp;Fading Wealth
+- &emsp;&emsp;Entering the Cluniac Order
+- The Corrupt Cluniacs
+- The Cistercians
+- &emsp;What Makes the Cistercians Different?
+- &emsp;&emsp;Solitude and Retreat
+- &emsp;&emsp;Manual Labor
+- &emsp;&emsp;Governance
+- &emsp;&emsp;Wealth
+- &emsp;&emsp;Ecclesiastical Influence
+- &emsp;&emsp;Opposing Heresy
+- The Corrupt Cistercians
+- &emsp;Joachim of Flora
+- &emsp;The Joachimites
+- &emsp;The Cistercian Connection
+- Sample Characters
+- &emsp;Father Tino of Gradara
+- The Vallumbrosans
+- &emsp;What Makes the Vallumbrosans Different?
+- &emsp;&emsp;Papal Influence
+- &emsp;&emsp;Extreme Asceticism and Silence
+- &emsp;&emsp;No Manual Work
+- &emsp;&emsp;Total Retreat from the World
+- &emsp;If the Vallumbrosans are Corrupt
 
-| The Poor Knights 102             |
-|----------------------------------|
-| The Fifth Crusade 103            |
-| Templar Endowments 104           |
-| Templars in England 104          |
-| Templars in France 105           |
-| Templars in Iberia 106           |
-| Templars in Portugal106          |
-| Templars in Aragon106            |
-| Templars in Germany              |
-| and Eastern Europe 107           |
-| Templars in Italy 107            |
-| Templars in the Holy Land 108    |
-| Templars in Acre108              |
-| Templars in Antioch108           |
-| Templars in Greece108            |
-| Other Military Orders 109        |
-| Hospitallers109                  |
-| Teutons109                       |
-| The Order of Calatrava           |
-| and Other Iberian Orders109      |
-| The Order of Saint Lazarus110    |
-| The Order of Saint               |
-| Thomas at Acre110                |
-| Templar Organization 110         |
-| Chapters and Provinces 111       |
-| The Provinces111                 |
-| The General Chapter111           |
-| Provincial and Local Chapters111 |
-| Running a Chapter Meeting111     |
-| Ranks and Titles 111             |
-| The Grand Master111              |
-| Grand Master                     |
-| Peter of Montaigu112             |
-| The Great Officials112           |
-| Commanders113                    |
-| Brother-Knights114               |
-| Brother-Sergeants114             |
-| Brother-Priests114               |
-| Sisters115                       |
-| Confreres and Consoeurs115       |
-| The Templar Faith 115            |
-| Templar Relics116                |
-| Daily Life 117                   |
-| Military Tactics117              |
-| Joining the Order                |
-| of the Temple 118                |
-| The Membership Ritual118         |
-| Joining as a Child118            |
-| The Templar Rule 118             |
-| Secret Rites119                  |
-| Relations with Outsiders 119     |
+## VII. The Knights Templar
+- The Poor Knights
+- &emsp;The Fifth Crusade
+- &emsp;Templar Endowments
+- &emsp;Templars in England
+- &emsp;Templars in France
+- &emsp;Templars in Iberia
+- &emsp;&emsp;Templars in Portugal
+- &emsp;&emsp;Templars in Aragon
+- &emsp;Templars in Germany and Eastern Europe
+- &emsp;Templars in Italy
+- &emsp;Templars in the Holy Land
+- &emsp;&emsp;Templars in Acre
+- &emsp;&emsp;Templars in Antioch
+- &emsp;&emsp;Templars in Greece
+- Other Military Orders
+- &emsp;Hospitallers
+- &emsp;Teutons
+- &emsp;The Order of Calatrava and Other Iberian Orders
+- &emsp;The Order of Saint Lazarus
+- &emsp;The Order of Saint Thomas at Acre
+- Templar Organization
+- &emsp;Chapters and Provinces
+- &emsp;&emsp;The Provinces
+- &emsp;&emsp;The General Chapter
+- &emsp;&emsp;Provincial and Local Chapters
+- &emsp;&emsp;Running a Chapter Meeting
+- &emsp;Ranks and Titles
+- &emsp;&emsp;The Grand Master
+- &emsp;&emsp;Grand Master Peter of Montaigu
+- &emsp;&emsp;The Great Officials
+- &emsp;&emsp;Commanders
+- &emsp;&emsp;Brother-Knights
+- &emsp;&emsp;Brother-Sergeants
+- &emsp;&emsp;Brother-Priests
+- &emsp;&emsp;Sisters
+- &emsp;&emsp;Confreres and Consoeurs
+- The Templar Faith
+- &emsp;Templar Relics
+- Daily Life
+- &emsp;Military Tactics
+- Joining the Order of the Temple
+- &emsp;The Membership Ritual
+- &emsp;Joining as a Child
+- The Templar Rule
+- &emsp;Secret Rites
+- Relations with Outsiders
+- &emsp;Templars and the Church
+- &emsp;Templars and the Military Orders
+- &emsp;Templars and Nobility
+- &emsp;Templars and Muslims
+- &emsp;Templars and the Order of Hermes
+- Templar Characters and Stories
+- &emsp;Templars as Crusaders
+- &emsp;Templars as Bankers and Merchants
+- &emsp;Templars as Advisors and Diplomats
+- &emsp;Templars as Spies
+- &emsp;Templars as Priests
+- &emsp;Templars as Lords
+- &emsp;Templars as Sailors
+- &emsp;Templars as Treasure Hunters
+- Creating Templar Characters
+- &emsp;Modified Templar Virtues
+- &emsp;&emsp;Brother-Knight
+- &emsp;&emsp;Brother-Priest
+- &emsp;&emsp;Brother-Sergeant
+- &emsp;New Templar Virtues
+- &emsp;&emsp;Templar Confrere or Consoeur
+- &emsp;&emsp;Templar Servant
+- &emsp;&emsp;Templar Specialist
+- &emsp;&emsp;Templar Administrator
+- &emsp;&emsp;Commander
+- &emsp;&emsp;Office Holder
+- &emsp;&emsp;Templar Prestige
+- &emsp;New Ability
+- &emsp;&emsp;Organization Lore: Knights Templar
+- Sample Characters
+- &emsp;Brother-Knight
+- &emsp;Brother-Sergeant
+- &emsp;Brother-Priest
 
-| Templars and the Church119 |
-|----------------------------|
-| Templars and the           |
-| Military Orders119         |
-| Templars and Nobility119   |
-| Templars and Muslims120    |
-| Templars and the           |
-| Order of Hermes120         |
-| Templar Characters         |
-| and Stories 121            |
-| Templars as Crusaders 121  |
-| Templars as Bankers        |
-| and Merchants 121          |
-| Templars as Advisors       |
-| and Diplomats 122          |
-| Templars as Spies 122      |
-| Templars as Priests 122    |
-| Templars as Lords 122      |
-| Templars as Sailors 122    |
+## VIII. The Franciscans
+- Franciscans in the Saga
+- Joining the Franciscans
+- Francis’ Life & Growth of the Franciscans
+- &emsp;Spreading the Movement
+- The Franciscans Today
+- &emsp;Current Crises
+- Brothers and Sisters
+- Birds and Animals
+- Clare of Assisi
+- &emsp;The Poor Sisters
+- Holy Tradition: Franciscans
+- &emsp;Joining the Tradition
+- &emsp;&emsp;Initiation Scripts
+- &emsp;&emsp;Initiation: Meditation
+- &emsp;&emsp;Initiation: Understanding
+- &emsp;&emsp;Initiation: Intervention
+- &emsp;&emsp;Initiation: Purity
+- &emsp;&emsp;Script Variations
+- The Order of Hermes & the Franciscans
+- Franciscans in the Future
+- &emsp;Leaders
+- &emsp;Schism
+- &emsp;Approval
+- &emsp;Martyrdom
+- &emsp;Academic Theology
+- &emsp;Heresy
+- &emsp;Poverty
+- &emsp;Ministration
+- &emsp;Persecution
+- Sample Characters
+- &emsp;Grog Templates
+- &emsp;&emsp;Franciscan Nun
+- &emsp;&emsp;Franciscan Friar
 
-| Templars as Treasure Hunters122 |
-|---------------------------------|
-| Creating Templar Characters123  |
-| Modified Templar Virtues 123    |
-| Brother-Knight123               |
-| Brother-Priest123               |
-| Brother-Sergeant124             |
-| New Templar Virtues 124         |
-| Templar Confrere or Consoeur124 |
-| Templar Servant124              |
-| Templar Specialist124           |
-| Templar Administrator125        |
-| Commander125                    |
-| Office Holder125                |
-| Templar Prestige125             |
-| New Ability 125                 |
-| Organization Lore:              |
-| Knights Templar125              |
-| Sample Characters 126           |
+## Appendix: Bibliography
 
+# List of Inserts
 
+## II. The Congregation
+- Purgatory
+- Story Seed:
+- &emsp;The Obedient Congregation
+- Christian Death
+- Example of Creating
+- &emsp;a Devout Character
+- Patron Saints
+- An Example of a Pilgrimage Story
+- Experiencing Divine Ascent
+- Personality Traits, Sins, and Tempers
+- Divine Warping and
+- &emsp;the Contemplative Mystic
+- Divine Warping and
+- &emsp;the Monistic Mystic
+- Improving True Faith
 
-|                                          | List of Inserts                                     |                                      |
-|------------------------------------------|-----------------------------------------------------|--------------------------------------|
-| II. The<br>Congregation                  | Some Common Christian Books49<br>Example Churches50 | VII<br>. The<br>Knights<br>Templar   |
-| Purgatory10                              |                                                     | The Templars and the Crusades103     |
-| Story Seed:                              |                                                     | Templars and Scandal103              |
-| The Obedient Congregation11              | IV. The<br>Rule & Religious<br>Life                 | The Order Ends103                    |
-| Christian Death12                        | The Opus Dei, Divine Office53                       | Papal Privileges104                  |
-| Example of Creating                      | A Noteon Terms53                                    | Grand Masters of                     |
-| a Devout Character12                     | Story Seed: The Novice's Nuptials53                 | the Temple of Solomon104             |
-| Patron Saints13                          | Monastic Gardens54                                  | English Templar Commanders105        |
-| An Example of a Pilgrimage Story18       | Sign Language (Monastery)55                         | Story Seeds105                       |
-| Experiencing Divine Ascent20             | Story Seed: Signs in Silence55                      | Templars and Demonic                 |
-| Personality Traits, Sins, and Tempers 20 | Story Seed: Electoral Difficulties58                | Wealth of Nations106                 |
-| Divine Warping and                       | Story Seed:                                         | Story Seeds106                       |
-| the Contemplative Mystic21               | Good and Faithful Servant?59                        | Story Seed: The Tomb Raiders109      |
-| Divine Warping and                       |                                                     | Story Seeds110                       |
-| the Monistic Mystic23                    | The Problem with Priors59                           | Designing a Templar Priory111        |
-| Improving True Faith23                   | Some Religious Orders61                             | The Grand Master112                  |
-|                                          |                                                     | Story Seed: Independence113          |
-|                                          | V. The Women                                        | Arabic-Speaking Templars114          |
-| III<br>. The Diocese                     |                                                     |                                      |
-| Clergy as Player Characters26            | Story Seed: The Visitation64                        | Templar Chaplains and Petitioning115 |
-| Recommended and Required                 | Fontrevrault and Las Huelgas65                      | Story Seed: The Miser115             |
-|                                          | Story Seeds66                                       | TrainedGroup Combat117               |
-| Virtues, Flaws, and Abilities28          | Story Seeds67                                       | Story Seed: The Unfailing Banner117  |
-| Story Seed: The Magus Bishop28           | Héloïse68                                           | Calling on God's Aid117              |
-| Story Seed: The Proctor of Hermes30      | Christina of Markyate69                             | Templar Prisons117                   |
-| Some Papal Officials in 1220 AD30        | Story Seeds70                                       | Templar Saints and Festivals118      |
-| Legates Sent to the Order of Hermes 30   | Story Seeds71                                       | Woolen Cords119                      |
-| Story Seed: A Troublesome Minster32      | A Note on History72                                 | How Much Do the Templars             |
-| Major Covenant Boon:                     | Using an Anchoress in the Saga74                    | Know About Magi?120                  |
-| Archdeacon Agent32                       | Becoming an Anchoress in England74                  | Playing a Templar Character121       |
-| Story Seed: The Vicar-General32          | Story Seeds75                                       | Templar Banking, Letters             |
-| Possession and Exorcism34                | Some Books by Hildegard of Bingen77                 | of Credit & Insurance121             |
-| Story Seed: A Catechumen Covenant 35     | Books by Elizabeth of Schönau78                     | Templars and the Wealthy Virtue123   |
-| Story Seed: The Heresy of Hermes37       | Saint Severus of Ravenna78                          | Templar Equipment123                 |
-| Bishops and Blood37                      | Story Seed: Novices79                               | Templar Ciphers125                   |
-| Story Seed: Hermetic Sanctuary38         | Companion Templates81                               | Story Seed: Stolen Cipher125         |
-| Relics38                                 |                                                     | Templar Sign Language126             |
-| Church Auras39                           | VI. The<br>Corrupt                                  |                                      |
-| Spells in Church39                       |                                                     | VIII<br>. The<br>Franciscans         |
-| Story Seed:                              | Was There a Cluniac Order?88                        |                                      |
-| The Reconstructed Temple39               | Mortuary Masses88                                   | The Challenges of Francis128         |
-| Hermetic Magic and the Sacraments40      | The Hermit and the Devils89                         | Mendicants129                        |
-| Story Seed: The Lost Priest40            | Story Seed: Fleeing the Mob89                       | The Dominicans130                    |
-| Minor Covenant Boon:                     | The Demon BaalBaruth,                               | Preaching130                         |
-| Holder of Benefices42                    | Corrupter of Monks90                                | Francis of Assisi131                 |
-| Story Seed: The Overgrown Glebe42        | The Demon Patarus92                                 | Brother Elias Bonibarone, Minister   |
-| Spells to Affect a Parish42              | Bernard of Clairvaux (1090–1153)94                  | General of the Little Brothers133    |
-| Story Seed: A Concerned Priest43         | Story Seed:                                         | Letter of Approval: Cum Delicti133   |
-| Covenant Boon: Covenant Chapel43         | The Ring of Saint Bernard94                         | Story Seeds134                       |
-| Modifiers to the Petition Total46        | The Three Ages of the World96                       | Miracles of the Little Brothers135   |
-| Henri of Toulouse's Petition47           | A Note on the Illuminati97                          | Clare of Assisi137                   |
-| The Petition of the Parish               | The Demon Jaevert98                                 | Story Seeds140                       |
-| of Long Melford47                        | The Demon Varriar100                                | Story Seed: Forbidden Property142    |
-|                                          |                                                     |                                      |
+## III. The Diocese
+- Clergy as Player Characters
+- Recommended and Required
+- &emsp;Virtues, Flaws, and Abilities
+- Story Seed: The Magus Bishop
+- Story Seed: The Proctor of Hermes
+- Some Papal Officials in 1220 AD
+- Legates Sent to the Order of Hermes
+- Story Seed: A Troublesome Minster
+- Major Covenant Boon:
+- &emsp;Archdeacon Agent
+- Story Seed: The Vicar-General
+- Possession and Exorcism
+- Story Seed: A Catechumen Covenant
+- Story Seed: The Heresy of Hermes
+- Bishops and Blood
+- Story Seed: Hermetic Sanctuary
+- Relics
+- Church Auras
+- Spells in Church
+- Story Seed:
+- &emsp;The Reconstructed Temple
+- Hermetic Magic and the Sacraments
+- Story Seed: The Lost Priest
+- Minor Covenant Boon:
+- &emsp;Holder of Benefices
+- Story Seed: The Overgrown Glebe
+- Spells to Affect a Parish
+- Story Seed: A Concerned Priest
+- Covenant Boon: Covenant Chapel
+- Modifiers to the Petition Total
+- Henri of Toulouse’s Petition
+- The Petition of the Parish
+- &emsp;of Long Melford
+- Some Common Christian Books
+- Example Churches
 
+## IV. The Rule & Religious Life
+- The Opus Dei, Divine Office
+- A Note on Terms
+- Story Seed: The Novice’s Nuptials
+- Monastic Gardens
+- Sign Language (Monastery)
+- Story Seed: Signs in Silence
+- Story Seed: Electoral Difficulties
+- Story Seed:
+- &emsp;Good and Faithful Servant?
+- The Problem with Priors
+- Some Religious Orders
 
+## V. The Women
+- Story Seed: The Visitation
+- Fontrevrault and Las Huelgas
+- Story Seeds
+- Story Seeds
+- Héloïse
+- Christina of Markyate
+- Story Seeds
+- Story Seeds
+- A Note on History
+- Using an Anchoress in the Saga
+- Becoming an Anchoress in England
+- Story Seeds
+- Some Books by Hildegard of Bingen
+- Books by Elizabeth of Schönau
+- Saint Severus of Ravenna
+- Story Seed: Novices
+- Companion Templates
 
-| Brother-Knight126<br>Brother-Sergeant126<br>Brother-Priest127 |     |
-|---------------------------------------------------------------|-----|
-| VIII. The Franciscans                                         | 128 |
+## VI. The Corrupt
+- Was There a Cluniac Order?
+- Mortuary Masses
+- The Hermit and the Devils
+- Story Seed: Fleeing the Mob
+- The Demon BaalBaruth,
+- &emsp;Corrupter of Monks
+- The Demon Patarus
+- Bernard of Clairvaux (1090–1153)
+- Story Seed:
+- &emsp;The Ring of Saint Bernard
+- The Three Ages of the World
+- A Note on the Illuminati
+- The Demon Jaevert
+- The Demon Varriar
 
-| Franciscans in the Saga 128   |
-|-------------------------------|
-| Joining the Franciscans 129   |
-| Francis' Life &               |
-| Growth of the Franciscans 131 |
-| Spreading the Movement 132    |
-| The Franciscans Today 133     |
-| Current Crises 133            |
-| Brothers and Sisters 134      |
-| Birds and Animals 136         |
-|                               |
+## VII. The Knights Templar
+- The Templars and the Crusades
+- Templars and Scandal
+- The Order Ends
+- Papal Privileges
+- Grand Masters of
+- &emsp;the Temple of Solomon
+- English Templar Commanders
+- Story Seeds
+- Templars and Demonic
+- &emsp;Wealth of Nations
+- Story Seeds
+- Story Seed: The Tomb Raiders
+- Story Seeds
+- Designing a Templar Priory
+- The Grand Master
+- Story Seed: Independence
+- Arabic-Speaking Templars
+- Templar Chaplains and Petitioning
+- Story Seed: The Miser
+- Trained Group Combat
+- Story Seed: The Unfailing Banner
+- Calling on God’s Aid
+- Templar Prisons
+- Templar Saints and Festivals
+- Woolen Cords
+- How Much Do the Templars
+- &emsp;Know About Magi?
+- Playing a Templar Character
+- Templar Banking, Letters
+- &emsp;of Credit & Insurance
+- Templars and the Wealthy Virtue
+- Templar Equipment
+- Templar Ciphers
+- Story Seed: Stolen Cipher
+- Templar Sign Language
 
-| Clare of Assisi 136             |
-|---------------------------------|
-| The Poor Sisters 136            |
-| Holy Tradition: Franciscans 137 |
-| Joining the Tradition 138       |
-| Initiation Scripts138           |
-| Initiation: Meditation138       |
-| Initiation: Understanding138    |
-| Initiation: Intervention139     |
-| Initiation: Purity139           |
-| Script Variations139            |
-| The Order of Hermes             |
-| & the Franciscans 139           |
-| Franciscans in the Future 139   |
-| Leaders140                      |
-| Schism140                       |
-| Approval140                     |
-|                                 |
-
-| Martyrdom140          |
-|-----------------------|
-| Academic Theology140  |
-| Heresy140             |
-| Poverty140            |
-| Ministration141       |
-| Persecution141        |
-| Sample Characters 141 |
-| Grog Templates 142    |
-| Franciscan Nun142     |
-| Franciscan Friar142   |
-|                       |
-
-| Appendix:    |     |
-|--------------|-----|
-| Bibliography | 143 |
+## VIII. The Franciscans
+- The Challenges of Francis
+- Mendicants
+- The Dominicans
+- Preaching
+- Francis of Assisi
+- Brother Elias Bonibarone, Minister
+- &emsp;General of the Little Brothers
+- Letter of Approval: Cum Delicti
+- Story Seeds
+- Miracles of the Little Brothers
+- Clare of Assisi
+- Story Seeds
+- Story Seed: Forbidden Property
 
 
 # Chapter One: Introduction
