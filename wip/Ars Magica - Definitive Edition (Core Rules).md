@@ -4,8 +4,8 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
-*[Completion state: Chapters 1-8: all text manually fixed and reviewed, headings fixed. Remaining: Chapter 9+]*
-*Known Issues: "Casting Tablets" section is weird in source PDF, and seems to have wrong table, Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading)* 
+*[Completion state: Chapters 1-8: All text and formatting manually fixed and reviewed. Chapter 9: until "## Ignem Spells"; Remaining: Chapter 10+]*
+*Identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); The spell "VILE WATER OF STERILITY" looks like a PeAq spell, but it's under MuAq; Creo Auram Guidelines unclear notes under Level 25 (fixed);* 
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -13328,134 +13328,123 @@ Specific effects for each item should be created as normal. If an effect cannot 
 
 The Order of Hermes has collected and created hundreds of spells that have been passed down to apprentices and traded among magi for centuries. Those listed here are representative of the most useful, interesting, and exemplary of those spells — in no way are the spells listed here a definitive list of those available, and more examples can be found throughout the supplements, particularly in *Magi of Hermes*. Instead, they should be used as examples so that you may invent spells of your own. Many of these spells serve as good examples for creating other, similar spells. For instance, a spell to turn you into a wolf can be used as a model for a spell to turn you into another animal.
 
-## Levels
+### Levels
 
 The level of a spell is a measure of the amount of magical power needed to create the spell effect. The higher the level of the spell, the less of a magus's power is left over for breaking through Magic Resistance. It is made up of the base level of the spell, as determined by the guideline for the effect of the spell, plus adjustments for changes in Range, Duration, Target, and size.
 
-## Magnitudes
+### Magnitudes
 
 The magnitude of a spell is equal to one fifth of its level, rounded up. This is also the number of pawns of vis needed to cast a ritual spell, and changing the Range, Duration, or Target of a spell generally changes its level by one magnitude (five levels) at a time.
 
 Spells of level one to five are all first magnitude, although the rules for changing Ranges, Durations, and Targets work differently for such spells (see table on page 303).
 
-Spell Magnitude: Level/5 (rounded up)
+**SPELL MAGNITUDE: Level/5 (rounded up)**
 
 ## Spell Design
 
-## The Central Rule
+### The Central Rule
 
-he troupe may always intervene and declare that a certain combination of Range, Duration, Target, and effect warrants a higher or lower level than that described by the guidelines and
+The troupe may always intervene and declare that a certain combination of Range, Duration, Target, and effect warrants a higher or lower level than that described by the guidelines and the system below. The range of effects possible in Ars Magica is so large that any system is bound to allow some effects that strike a given troupe as too hard or too easy (different effects for different troupes). The system gives sensible levels in the vast majority of cases, but storyguides should not let players use the system to force things past common sense.
 
-the system below. The range of effects possible in Ars Magica is so large that any system is bound to allow some effects that strike a given troupe as too hard or too easy (different effects for different troupes). The system gives sensible levels in the vast majority of cases, but storyguides should not let players use the system to force things past common sense.
+### Level Guidelines
 
-## Level Guidelines
+This chapter contains a selection of example spells, and guidelines for what can be achieved with a Formulaic or Spontaneous spell of a given level. For the guidelines, the range of the spell is Personal, the duration is Momentary, and the target is Individual. These are the lowest members of their classes, so that the given level is the lowest level at which a Ritual, Formulaic or Spontaneous spell can have that effect.
 
-This chapter contains a selection of example spells, and guidelines for what can be achieved with a Formulaic or Spontaneous spell of a given level. For the guidelines, the range of the spell is Personal, the duration is Momentary, and the
+**SPELL GUIDELINES:<br>Range: Personal;<br>Duration: Momentary;<br>Target: Individual**
 
-target is Individual. These are the lowest members of their classes, so that the given level is the lowest level at which a Ritual, Formulaic or Spontaneous spell can have that effect.
-
-> Spell Guidelines: Range: Personal; Duration: Momentary, Target: Individual
-
-## Ranges, Durations, Targets
+### Ranges, Durations, Targets
 
 The Range, Duration, and Target of a spell determine what it can affect. The Range governs how far the target can be from the magus, the Duration determines how long the target will be affected, and the Target describes what the spell can affect. Each parameter has a number of possible ratings, which can be arranged in order from least difficult to produce to most difficult to produce. This is done in the chart below. Parameters which are listed together below but are separated by a slash (like Touch/Eye) represent different actual ranges that share the same level of difficulty. They are not interchangeable, simply equally difficult.
 
-Each category of Range, Duration, and Target is described below. The categories described here were built into the structure of Hermetic magic by Bonisagus. All Spontaneous spells must conform to these requirements (the magus is
+Each category of Range, Duration, and Target is described below. The categories described here were built into the structure of Hermetic magic by Bonisagus. All Spontaneous spells must conform to these requirements (the magus is making the spell up on the fly—he cannot also push the limits of magic theory). Formulaic or Ritual spells, on the other hand, can be invented with Ranges, Durations or Targets that are not listed here. This is usually slightly more difficult than if the closest category were used, but is largely left to troupe interpretation.
 
-fly—he cannot also push the limits of magic theory). Formulaic or Ritual spells, on the other hand, can be invented with Ranges, Durations or Targets that are not listed here. This is usually slightly more difficult than if the closest category were used, but is largely left to troupe interpretation.
-
-## Changing Ranges, Durations, and Targets
+#### Changing Ranges, Durations, and Targets
 
 To calculate the level for a spell that does not use the base Range, Duration, and Target, add one magnitude (five levels) to the level of the spell for every step by which the parameter is raised. It is also possible to calculate levels based on an existing spell, with different Range, Duration, and Target. In that case, increasing them works in the same way, and for every step by which one is lowered, subtract one magnitude (five levels).
 
-Below level 5, adding a magnitude only adds
+Below level 5, adding a magnitude only adds one level, and subtracting a magnitude only subtracts one level. Thus, one magnitude lower than level 5 is level 4, and one magnitude higher than level 2 is level 3.
 
+For example, consider a level 15 spell with Range Voice, Duration Sun, and Target Group. A variant with the same effect but with Range Sight, Duration Moon, and Target Room would be level 25 (+1 magnitude to increase Range Voice to Sight, +1 magnitude to increase Duration Sun to Moon, and no change for changing the Target Group to Room, because they are at the same level). A different variant with Range Personal, Duration Concentration, and Target Individual would be level 2 (-2 magnitudes to decrease Range Voice to Personal, -1 magnitude to decrease Duration Sun to Concentration, and -2 magnitudes to decrease Target Group to Individual). Note that since -2 magnitudes takes the level from 15 to 5, the additional magnitudes of reduction only lower the level by -1 per magnitude.
 
-| bel                      | ~~~                  | man Dansti                 | and FIN      |           | La      |
-| -------------------------- | ---------------------- | ---------------------------- | -------------- | ----------- | --------- |
-|                          | K                    | inges, Duratio             | ons, and T   | argets    |         |
-| Additional<br>Magnitudes | Range                | Duration                   | Овјест | Container | Sense   |
-| 0                        | Personal             | Momentary                  | Individual   | Circle    | Taste   |
-| 1                        | Touch/Eye            | Concentration/<br>Diameter | Part         | _         | Touch   |
-| 2                        | Voice                | Sun/Ring                   | Group        | Room      | Smell   |
-| 3                        | Sight                | Moon                       | -            | Structure | Hearing |
-| 4                        | Arcane<br>Connection | Year                       | -            | Boundary  | Vision  |
+> #### Ranges, Durations, and Targets
+>
+> | Additional<br>Magnitudes | Range                | Duration                   | Object       | Container | Sense   |
+> | ------------------------ | -------------------- | -------------------------- | ------------ | --------- | ------- |
+> | 0                        | Personal             | Momentary                  | Individual   | Circle    | Taste   |
+> | 1                        | Touch/Eye            | Concentration/Diameter     | Part         | -         | Touch   |
+> | 2                        | Voice                | Sun/Ring                   | Group        | Room      | Smell   |
+> | 3                        | Sight                | Moon                       | -            | Structure | Hearing |
+> | 4                        | Arcane Connection    | Year                       | -            | Boundary  | Vision  |
 
-because they are at the same level). A different variant with Range Personal, Duration Concentration, and Target Individual would be level 2 (-2 magnitudes to decrease Range Voice to Personal, -1 magnitude to decrease Duration Sun to Concentration, and -2 magnitudes to decrease Target Group to Individual). Note that since -2 magnitudes takes the level from 15 to 5, the additional magnitudes of reduction only lower the level by -1 per magnitude.
-
-## Ranges
+#### Ranges
 
 The range of a spell is the distance to the nearest part of the target of the spell. Thus, if the caster is touching the external wall of a room, he can cast a Target Room Corpus spell on the people within at Touch Range, even though he is not touching any of those people, and indeed cannot see them. The target of the spell is the room, and thus the spell does not violate the Limit of Arcane Connections.
 
 A spell that has a continuing effect remains in effect even if the caster moves out of range. A spell that allows the caster to control the effect only permits that control as long as the caster is within range. However, it does not expire if the caster moves out of range, and he may control it again if he moves back into range.
 
-Personal: The spell only affects the caster, defined in the same way as an Individual Target. Personal Range spells can never have a container Target (such as Circle, Room, or Structure). This adds no magnitudes to the guideline.
+**Personal:** The spell only affects the caster, defined in the same way as an Individual Target. Personal Range spells can never have a container Target (such as Circle, Room, or Structure). This adds no magnitudes to the guideline.
 
 **Touch:** The magus or anything he touches, whether a person or thing. This adds 1 magnitude to the guideline.
 
-Eye: The magus may target any person or creature that he has established eye contact with. A human being who knows of no reason to avoid eye contact makes it automatically if dealing with the magus in a social setting. The Gift does not make people avoid eye contact. It is impossible to make eye contact with an unwilling human without getting at least two people to hold the victim
+**Eye:** The magus may target any person or creature that he has established eye contact with. A human being who knows of no reason to avoid eye contact makes it automatically if dealing with the magus in a social setting. The Gift does not make people avoid eye contact. It is impossible to make eye contact with an unwilling human without getting at least two people to hold the victim down. It is effectively impossible to make eye contact with an enemy in combat, they aren't looking at your eyes. It typically takes a combat round to establish eye contact with a calm animal, before the magus can start casting the spell. This adds 1 magnitude to the guideline. (Touch and Eye are the same "level" of range.)
 
-down. It is effectively impossible to make eye contact with an enemy in combat, they aren't looking at your eyes. It typically takes a combat round to establish eye contact with a calm animal, before the magus can start casting the spell. This adds 1 magnitude to the guideline. (Touch and Eye are the same "level" of range.)
-
-Voice: Anything to which the magus's voice carries. Typically, firm words carry about 15 paces, while guiet words are audible within 5 paces and a shout carries about 50. Magical enhancement of the voice does not increase this range, and a spell cast silently at this range can affect only the caster. The range of Ritual and ceremonial spells with Voice Range is about 50 paces, because the process of casting involves a loud voice at some point. Non-human casters, including Bjornaer in Heartbeast form, may have different ranges for their voice. Magical shapeshifting falls under magical enhancement of the voice, however. The range is based on the distance that the caster's voice carries, not on whether the target can hear it. Deaf targets, stones, targets in a noisy environment, and targets under the influence of Pelm spells that stop sounds from reaching them can all be affected at the normal range. However, if the caster is silenced or quietened by magic, the range is reduced. Such a spell must penetrate the caster's Magic Resistance. Magic items use the wielder's voice; independent items need to be given a voice (Crlm) to use this range. The range is established when the spell is cast, and remains the same even if the magus changes the loudness of his voice. Thus, a Voice range spell can allow silent control, but only as long as the target is within the distance that the magus's voice carried when he cast the spell. This adds 2 magnitudes to the guideline.
+**Voice:** Anything to which the magus's voice carries. Typically, firm words carry about 15 paces, while guiet words are audible within 5 paces and a shout carries about 50. Magical enhancement of the voice does not increase this range, and a spell cast silently at this range can affect only the caster. The range of Ritual and ceremonial spells with Voice Range is about 50 paces, because the process of casting involves a loud voice at some point. Non-human casters, including Bjornaer in Heartbeast form, may have different ranges for their voice. Magical shapeshifting falls under magical enhancement of the voice, however. The range is based on the distance that the caster's voice carries, not on whether the target can hear it. Deaf targets, stones, targets in a noisy environment, and targets under the influence of Pelm spells that stop sounds from reaching them can all be affected at the normal range. However, if the caster is silenced or quietened by magic, the range is reduced. Such a spell must penetrate the caster's Magic Resistance. Magic items use the wielder's voice; independent items need to be given a voice (Crlm) to use this range. The range is established when the spell is cast, and remains the same even if the magus changes the loudness of his voice. Thus, a Voice range spell can allow silent control, but only as long as the target is within the distance that the magus's voice carried when he cast the spell. This adds 2 magnitudes to the guideline.
 
 **Sight:** Anything that the magus can see. If the magus is standing on the highest point for miles, this range can be immense. A blind magus can only affect himself. A magic item uses the wielder's sight, independent items need to be able to see (InIm) to use this range. This adds 3 magnitudes to the guideline.
 
-Arcane Connection: Anything that the magus has an Arcane Connection to. Distance is immaterial unless the storyguide chooses to impose some limit. Such limits are usually provided in the example spells. Note that while Arcane Connection is a range, it is different from a physical item that is an Arcane Connection. This distinction is important, because some spells require that the caster have an Arcane Connection, but the spell must be cast as some range other than Arcane Connection. This adds 4 magnitudes to the guideline.
+**Arcane Connection:** Anything that the magus has an Arcane Connection to. Distance is immaterial unless the storyguide chooses to impose some limit. Such limits are usually provided in the example spells. Note that while Arcane Connection is a range, it is different from a physical item that is an Arcane Connection. This distinction is important, because some spells require that the caster have an Arcane Connection, but the spell must be cast as some range other than Arcane Connection. This adds 4 magnitudes to the guideline.
 
-## Durations
+#### Durations
 
 If a spell with a momentary effect, such as healing a wound, creating a fire, or opening a pit, is cast with a longer duration, it generally sustains that effect for the duration, rather than having its effect multiple times within the duration. Thus, a wound healed with duration Sun stays healed for that length of time, and reappears at the end. The target can still take other wounds. A fire created with duration Diameter burns for two minutes, and may inflict damage every round over that period. A pit opened for duration Moon with a Perdo Terram spell cannot be filled in with earth for that period; any more earth dumped in it is destroyed as well. Wood, animal products, or water could fill it, though, as they are not of the same Form as the spell. The destroyed earth still does not reappear at the expiration of the spell.
 
 A magus can recast a spell with Diameter, Sun, Moon, or Year Duration at the end of its period, so that the effect is continuous, and does not briefly disappear between the two castings. The magus recasting the spell does not have to be the same person who cast the original spell, and it does not even have to be the same spell, although for a lot of spells an overlap will not make much difference. (This is important, for example, if a covenant casts a higher-level version of Aegis of the Hearth one year.) No roll is required to achieve this, but distracting events may prevent it. The critical period is about a Diameter for Sun, Moon, or Year spells, and any distraction that interrupts the recasting of the spell is enough to guarantee at least a short break for Diameter spells. For Ritual spells, it is easy for magi to determine when they must start casting to avoid a break, as such calculations are covered by Artes Liberales and Philosophiae, but if the Ritual is interrupted and must be restarted, there will not be enough time to restart that Ritual and cast it before the older spell ends.
 
-Momentary: The spell lasts but a moment and then dissipates. In many cases the effects of the spell will endure long after the spell itself finishes. For example, a Rego spell that moves a rock from the bottom of the hill to the top might have Momentary duration, but the rock stays at the top of the hill. Similar considerations apply to most Perdo spells; the magic lasts but a moment, but the target stays destroyed. This adds no magnitudes to the guideline.
+**Momentary:** The spell lasts but a moment and then dissipates. In many cases the effects of the spell will endure long after the spell itself finishes. For example, a Rego spell that moves a rock from the bottom of the hill to the top might have Momentary duration, but the rock stays at the top of the hill. Similar considerations apply to most Perdo spells; the magic lasts but a moment, but the target stays destroyed. This adds no magnitudes to the guideline.
 
 While a moment is a very short period of time, it may be rather more than an instant. It could be as long as a combat round (six seconds) for some spells, and maybe even very slightly longer, although that would be unusual. A single spell effect happens, over a short period of time, and then the spell stops.
 
 Ritual Creo spells with Momentary Duration create things that last as any other thing of that type. The magic is gone in a moment and so cannot be dispelled. This also applies to Ritual healing spells. Note that unnatural things do not naturally last for any time at all, and so only last as long as the spell does, even when created with a Ritual. (A Creo spell to create such a thing would need a Muto requisite.)
 
-Concentration: The spell lasts as long as the magus concentrates. In the absence of distractions, assume that a magus can concentrate for fifteen minutes per point of Concentration ability. If there are distractions, see the rules in the Hermetic Magic chapter, page 215. This adds 1 magnitude to the guideline.
+**Concentration:** The spell lasts as long as the magus concentrates. In the absence of distractions, assume that a magus can concentrate for fifteen minutes per point of Concentration ability. If there are distractions, see the rules in the Hermetic Magic chapter, page 215. This adds 1 magnitude to the guideline.
 
-Diameter: The spell lasts for the time that the sun takes to move its diameter in the sky — almost exactly two minutes (twenty combat rounds). (Diameter and Concentration are the same "level" of duration.) This adds 1 magnitude to the guideline.
+**Diameter:** The spell lasts for the time that the sun takes to move its diameter in the sky — almost exactly two minutes (twenty combat rounds). (Diameter and Concentration are the same "level" of duration.) This adds 1 magnitude to the guideline.
 
-**Sun**: The spell lasts until the sun next rises or sets. This adds 2 magnitudes to the guideline.
+**Sun:** The spell lasts until the sun next rises or sets. This adds 2 magnitudes to the guideline.
 
-Ring: The spell lasts until the target of the spell, or part of the target, moves outside a ring drawn at the time of casting, or until the ring is physically broken. This adds 2 magnitudes to the guideline.
+**Ring:** The spell lasts until the target of the spell, or part of the target, moves outside a ring drawn at the time of casting, or until the ring is physically broken. This adds 2 magnitudes to the guideline.
 
 A ring must actually be drawn while the spell is being cast. The magus may use magic to do so, but that magic must not have a range greater than Touch, and the magus must physically trace out the ring. The magus may not move more quickly than ten paces per round (five feet per second) while doing this. The casting of a non-Ritual spell may be extended out to allow the drawing of a large ring. However, the caster must make Int + Concentration rolls of 6+ every round to maintain concentration on the spell, and if someone breaks the ring at any point before it is completed, the spell automatically botches. Really large rings are unlikely to be worth the risk.
 
 The ring may already exist, for example as a band laid into the ground. In this case, the magus must trace the full circumference of the ring, moving no more quickly than ten paces per round.
 
-Moon: The spell lasts until both the new and full moon have set. This adds 3 magnitudes to the guideline.
+**Moon:** The spell lasts until both the new and full moon have set. This adds 3 magnitudes to the guideline.
 
-Year: The spell lasts until sunrise on the fourth equinox or solstice after its casting. A spell with this duration must be ritual. This adds 4 magnitudes to the guideline.
+**Year:** The spell lasts until sunrise on the fourth equinox or solstice after its casting. A spell with this duration must be ritual. This adds 4 magnitudes to the guideline.
 
-## Target
+#### Target
 
 There are three types of target: objects, containers, and senses. A spell cast on an object Target affects the things in that Target for the duration of the spell, even if they change so that they would no longer qualify as a valid target for the original spell. If the caster is within range, she retains control of the spell, if the spell allows such control. Container targets are more complex, as described on page 309.
 
-Individual: The spell can affect a single discrete thing, such as one person or one object. A huge boulder is a discrete object, a mountain is not (because it is joined to the ground). Clothes on a person or moss on a boulder are part of the person or boulder for these purposes. Individual is an object Target. This adds no magnitudes to the guideline.
+**Individual:** The spell can affect a single discrete thing, such as one person or one object. A huge boulder is a discrete object, a mountain is not (because it is joined to the ground). Clothes on a person or moss on a boulder are part of the person or boulder for these purposes. Individual is an object Target. This adds no magnitudes to the guideline.
 
-Circle: The spell affects everything within a circle drawn by the magus at the time of casting, and ends if the circle is broken, even if that is before the duration of the spell expires. The spell also ends when its duration ends. See Ring, above, for restrictions on drawing the circle. One circle may serve to underwrite both Ring Duration and Circle Target. Circle is a container Target. This adds no magnitudes to the guideline.
+**Circle:** The spell affects everything within a circle drawn by the magus at the time of casting, and ends if the circle is broken, even if that is before the duration of the spell expires. The spell also ends when its duration ends. See Ring, above, for restrictions on drawing the circle. One circle may serve to underwrite both Ring Duration and Circle Target. Circle is a container Target. This adds no magnitudes to the guideline.
 
 Individual and Circle are the same level of effect.
 
-Part: The spell can affect a part of a discrete thing, such as a person's arm or a section of the ground. This target refers to spatial parts, parts that you could, at least in theory, cut off and put in a bag. A person's mind is not a part of him in this sense, nor is his sense of humor. His heart, however, is. Something is only a Part target while it is actually a part of something else; things, like severed arms, that used to be part of something, or, like bricks, which could become part of something, are Individual targets as long as they are not currently part of something else. Part is harder than Individual because whole things are metaphysically important. It is easier to affect a thing as a whole than to affect a part of it. Part is an object Target. This adds 1 magnitude to the guideline.
+**Part:** The spell can affect a part of a discrete thing, such as a person's arm or a section of the ground. This target refers to spatial parts, parts that you could, at least in theory, cut off and put in a bag. A person's mind is not a part of him in this sense, nor is his sense of humor. His heart, however, is. Something is only a Part target while it is actually a part of something else; things, like severed arms, that used to be part of something, or, like bricks, which could become part of something, are Individual targets as long as they are not currently part of something else. Part is harder than Individual because whole things are metaphysically important. It is easier to affect a thing as a whole than to affect a part of it. Part is an object Target. This adds 1 magnitude to the guideline.
 
-Group: The spell can affect a group of people or things. The components of the group must be close together in space, and the group itself must be separated from any other things of the same type. Three grogs huddled together or a ring of standing stones are a group: six people out of a crowd are usually not. The things in the Group when the spell is cast are affected for the entire duration, even if they split up. Things that join the Group during the spell duration are not affected. It is possible to target a 'Group' with a single member, although an Individual target will always be lower level. Group is an object Target. This adds 2 magnitudes to the guideline.
+**Group:** The spell can affect a group of people or things. The components of the group must be close together in space, and the group itself must be separated from any other things of the same type. Three grogs huddled together or a ring of standing stones are a group: six people out of a crowd are usually not. The things in the Group when the spell is cast are affected for the entire duration, even if they split up. Things that join the Group during the spell duration are not affected. It is possible to target a 'Group' with a single member, although an Individual target will always be lower level. Group is an object Target. This adds 2 magnitudes to the guideline.
 
-Room: The spell affects everything within a chamber. The interior surfaces of the walls of the
-
-room are within the Target, but their exterior surfaces are not. This room can be very large (the nave of a cathedral, for instance, or a natural cave), but it must be enclosed and have definite boundaries. A courtyard would often count, a valley would not. A spell with Target Room is useless if there is no Room containing the targets; it cannot affect a 'roughly room-sized volume' in open space. Room is a container Target. This adds 2 magnitudes to the guideline.
+**Room:** The spell affects everything within a chamber. The interior surfaces of the walls of the room are within the Target, but their exterior surfaces are not. This room can be very large (the nave of a cathedral, for instance, or a natural cave), but it must be enclosed and have definite boundaries. A courtyard would often count, a valley would not. A spell with Target Room is useless if there is no Room containing the targets; it cannot affect a 'roughly room-sized volume' in open space. Room is a container Target. This adds 2 magnitudes to the guideline.
 
 Group and Room are the same level of effect.
 
-Structure: The spell affects everything within a single structure. The structure itself counts as within the structure for these purposes, as the limit is the outer edge of any walls. The structure can range in size from a hut to a castle keep, but it must be a single, linked complex. As a rule of thumb, if it is all covered by one roof, it is one structure, but troupe discretion applies. As with Room, target Structure is no use if there is no pre-existing structure bounding the target. Structure is a container Target. This adds 3 magnitudes to the guideline.
+**Structure:** The spell affects everything within a single structure. The structure itself counts as within the structure for these purposes, as the limit is the outer edge of any walls. The structure can range in size from a hut to a castle keep, but it must be a single, linked complex. As a rule of thumb, if it is all covered by one roof, it is one structure, but troupe discretion applies. As with Room, target Structure is no use if there is no pre-existing structure bounding the target. Structure is a container Target. This adds 3 magnitudes to the guideline.
 
-Boundary: The spell affects everything within a well-defined natural or man-made boundary. This could be the wall of a city, the edge of a village, the shores of a lake, the edge of a forest, or the bottom of a mountain. Since the ocean is not obviously bounded, it cannot be affected in this way. As with Room and Structure, there must actually be a boundary for this target to be useful. It cannot be used to simply affect a really big area. A spell with this target must be a Ritual. Boundary is a container Target. This adds 4 magnitudes to the guideline.
+**Boundary:** The spell affects everything within a well-defined natural or man-made boundary. This could be the wall of a city, the edge of a village, the shores of a lake, the edge of a forest, or the bottom of a mountain. Since the ocean is not obviously bounded, it cannot be affected in this way. As with Room and Structure, there must actually be a boundary for this target to be useful. It cannot be used to simply affect a really big area. A spell with this target must be a Ritual. Boundary is a container Target. This adds 4 magnitudes to the guideline.
 
-## Magical Senses
+### Magical Senses
 
 Intellego spells can grant magical senses to a person. These spells allow the recipient to detect things that he could not normally sense, and they have different targets, corresponding to the kind of sense that the recipient gets. The range of the spell is the range to the recipient.
 
@@ -13467,17 +13456,17 @@ Magical senses must penetrate the Magic Resistance of creatures sensed, as well 
 
 A single spell grants a single magical sense. To gain several magical senses, you must cast several spells.
 
-**Taste**: The information comes through the sense of taste. This target is equal in level to Individual, and adds no magnitudes to the guideline.
+**Taste:** The information comes through the sense of taste. This target is equal in level to Individual, and adds no magnitudes to the guideline.
 
-**Touch**: The information comes through the sense of touch. This target is equal in level to Part, and adds 1 magnitude to the guideline.
+**Touch:** The information comes through the sense of touch. This target is equal in level to Part, and adds 1 magnitude to the guideline.
 
-Smell: The information comes through the sense of smell. This target is equal in level to Group, and adds 2 magnitudes to the guideline.
+**Smell:** The information comes through the sense of smell. This target is equal in level to Group, and adds 2 magnitudes to the guideline.
 
-Hearing: The information comes through the sense of hearing. This target is equal in level to Structure, and adds 3 magnitudes to the guideline.
+**Hearing:** The information comes through the sense of hearing. This target is equal in level to Structure, and adds 3 magnitudes to the guideline.
 
 **Vision**: The information comes through the sense of sight. This target is equal in level to Boundary, but, unlike Boundary, it does not require Ritual magic. It adds 4 magnitudes to the guideline.
 
-## Magical Cards
+### Magical Wards
 
 Rego spells can create wards which protect the target from things of the appropriate Form. These use the normal targets, but the target is the thing protected, rather than the things warded against, and the range is the range to the target, not to the things warded against.
 
@@ -13485,11 +13474,9 @@ Wards with a Circle target are of particular note. They prevent things warded ag
 
 The spell guidelines for wards against magical things are listed with a base range of Touch, base duration of Ring, and base target of Circle, because a ward with these parameters wards against creatures with a Might equal to or less than or equal to its level. The parameters of the spell can be changed in the normal way, so that a ward which only protected the magus (Range Personal, Target Individual) for a duration of Moon would have the same final level.
 
-Like any Hermetic spell, wards must Penetrate Magic Resistance to have their effect. A spell like Circular Ward Against Demons is much harder to cast
+Like any Hermetic spell, wards must Penetrate Magic Resistance to have their effect. A spell like Circular Ward Against Demons is much harder to cast at high levels, since the spell level must equal or exceed any affected demon's Might Score, and the Penetration Total must exceed it. For this reason, magi rarely learn or cast versions of these spells more powerful than about Level 30, instead favoring Rego spells of lower levels that hinder the target's movements more directly. Since in most cases Hermetic wards do not actually target the creatures affected by them, most magi cannot boost their Penetration Total with an Arcane Connection to a supernatural being, unless that being is inside the circle when the ward is cast.
 
-at high levels, since the spell level must equal or exceed any affected demon's Might Score, and the Penetration Total must exceed it. For this reason, magi rarely learn or cast versions of these spells more powerful than about Level 30, instead favoring Rego spells of lower levels that hinder the target's movements more directly. Since in most cases Hermetic wards do not actually target the creatures affected by them, most magi cannot boost their Penetration Total with an Arcane Connection to a supernatural being, unless that being is inside the circle when the ward is cast.
-
-## Magical Craft
+### Magical Craft
 
 Hermetic magic can create a wide range of things. Natural objects, such as boulders, plants, or animals, can be created with Creo magic. Unless the caster botches the spell, the result is always a good example of that sort of thing. The caster may make an Intelligence + Finesse roll to add or control details, such as the shape of a tree's branches or the color of an animal's fur, within the normal range for such things. A failure on the Finesse roll just means that the caster does not get the desired details; the created thing is still a good example of the sort of thing it is. Even a botch on the Finesse roll does not make the creation a bad example of what it is, but it does create something as far from the caster's desire as possible. If she was trying to create a tree to block a hole in a wall, for example, a botched Finesse roll might mean that the tree makes more of the wall collapse, making the hole even larger and easier to get through. The tree, however, is still a perfectly good tree.
 
@@ -13497,20 +13484,17 @@ Artificial items, such as tables, robes, and buildings, are a bit more complex. 
 
 Rego magic is the most straightforward. The spell rearranges the target materials in the same way as a craftsman, making a new item. Nothing is created or destroyed (without appropriate requisites), and the final product must be stable by itself. A single spell has a single effect, such as turning iron ore into finished iron ingots and slag, and does not need any tools that are not incorporated into the final product. The target of the spell is the raw materials, which means that it normally has to be Group; there are exceptions, such as a spell to create a sculpture from a block of stone. The caster must adapt the spell to the materials on hand in every case, which requires a Perception + Finesse roll. The base Ease Factor for this roll is 3 greater than the Ease Factor for a mundane craftsman carrying out the same task. If the spell covers more than one mundane task, use the highest mundane Ease Factor to calculate the base. This is also modified by the length of time the task would normally take. The base Ease Factor covers up to one day's work for one craftsman, but longer periods of work increase the Ease Factor. This can represent one craftsman working for longer, or many craftsmen working at the same time.
 
-> REGO CRAFT MAGIC ROLL: Perception + Finesse
+**REGO CRAFT MAGIC ROLL: Perception + Finesse**
 
-BASE EASE FACTOR: Highest Ease Factor for a Mundane Craftsman + 3
-
-One day's work for one craftsman is +0
-One month's work for one craftsman is +3
-One season's work for one craftsman is +6
-One year's work for one craftsman is +9
+**BASE EASE FACTOR: Highest Ease Factor for a Mundane Craftsman + 3**<br>
+**One day's work for one craftsman is +0**<br>
+**One month's work for one craftsman is +3**<br>
+**One season's work for one craftsman is +6**<br>
+**One year's work for one craftsman is +9**<br>
 
 One month's work for one craftsman is equivalent to thirty craftsmen all working for a single day, or two working for about two weeks, and so on. It is possible to create a spell that turns iron ore that is still in the ground into finished swords, but that would be at least a season's worth of work by various craftsmen, and thus would have a high Ease Factor.
 
-If the Finesse roll fails, the materials are still rearranged, but not into anything useful. The remaining pieces may well be too small to repeat
-
-the spell, but that is up to the troupe to decide. On a botch, the result normally looks right, but has a hidden and fatal flaw.
+If the Finesse roll fails, the materials are still rearranged, but not into anything useful. The remaining pieces may well be too small to repeat the spell, but that is up to the troupe to decide. On a botch, the result normally looks right, but has a hidden and fatal flaw.
 
 Creo craft magic is a little more involved. A spell creates a functioning version of whatever is intended, just as for natural objects. This is equivalent to a work of craft with an Ease Factor of 6. However, if the caster relies on this and does not make a Finesse roll, they have no control over the details. A Spontaneous spell creates a random instance of the sort of thing, which means that clothes, for example, may well not fit the intended target. A Formulaic or Ritual spell creates exactly the same thing every time.
 
@@ -13520,13 +13504,13 @@ A Formulaic or Ritual spell can be designed to allow the caster to make certain 
 
 A Finesse roll also allows the caster to create higher quality items, using the same Ease Factors as for Rego craft magic. A Formulaic or Ritual spell may be designed to allow for this, but this should add at least three magnitudes to the base level, as it creates a lot of flexibility.
 
-Creo Craft Magic Roll: Intelligence + Finesse
+**CREO CRAFT MAGIC ROLL: Intelligence + Finesse**
 
-Fix a Single Property: Ease Factor 0
+**FIX A SINGLE PROPERTY: Ease Factor 0**
 
-FIX TWO OR THREE PROPERTIES, OR FIX ONE PRECISELY: Ease Factor 3
+**FIX TWO OR THREE PROPERTIES, OR FIX ONE PRECISELY: Ease Factor 3**
 
-Elaborate Modifications: Same Ease Factor as Rego Craft Magic
+**ELABORATE MODIFICATIONS: Same Ease Factor as Rego Craft Magic**
 
 Botching the Finesse roll for Creo craft magic creates something that hinders the caster, and it might be so badly designed that most people would have trouble saying what it was supposed to be.
 
@@ -13534,63 +13518,55 @@ No matter how much flexibility is added to a Formulaic or Ritual spell, it can s
 
 Note that Rego craft magic uses Perception + Finesse, while Creo craft magic uses Intelligence + Finesse. This is because Rego craft magic must work with existing materials, which means that the caster must be sensitive to their properties. Creo craft magic, in contrast, creates its own materials, which means that the caster must understand how the materials need to be to achieve the desired result.
 
-More details about crafting with magic can be found in Covenants, page 49, and Houses of Hermes: Societates, pages 60–62.
+More details about crafting with magic can be found in *Covenants*, page 49, and *Houses of Hermes: Societates*, pages 60–62.
 
-## Summoning Spirits
+> #### Ease Factors for Creating and Crafting Objects
+> 
+> The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day. *City and Guild* contains more extensive rules for mundane craft (Chapter 4), and *Art and Academe* contains more rules for art (Chapter 8), which can be used to set more precise Ease Factors if the troupe desires. If you are using Workshop Totals from *City and Guild*, generate the equivalent Finesse Ease Factor by adding 3 to the Workshop Total, and then any modifiers for extra time required.
+>
+> | Crafting<br>Task     | Ease<br>Factor | Example                                                                                           |
+> | -------------------- | -------------- | --------------------------------------------------------------------------------------------------- |
+> | Trivial              | 3              | Almost never worth rolling for                                                                    |
+> | Simple               | 6              | Work regularly done by<br>untrained people, like<br>whitewashing a house                          |
+> | Easy                 | 9              | The daily work of semiskilled craftsmen                                                           |
+> | Average              | 12             | The daily work of skilled craftsmen                                                               |
+> | Hard                 | 15             | Daily work of highly skilled craftsmen, exceptional work by average craftsmen                     |
+> | Very Hard            | 18             | Daily work of exceptionally<br>skilled craftsmen, exceptional<br>work by highly skilled craftsmen |
+> | Impressive           | 21             | Exceptional work done by grandmasters of a craft                                                  |
+> | Remarkable           | 24             | The finest work done by grandmasters of a craft                                                   |
+> | Almost<br>Impossible | 27             | The epitomes of skill in a craft                                                                  |
+
+### Summoning Spirits
 
 Hermetic magic is capable of summoning spirits. Such magic brings the spirit instantly to the caster, but does not grant any control — other magic may be used for those purposes, and a spirit may be summoned directly into a ward cast by the summoner. (Wards cast by anyone else affect the spirit as normal, and may keep the spirit out if it is not powerful enough to cross the ward.) Summoning spells are normally cast at Arcane Connection range, making them quite high level.
 
 If the target spirit is in Mythic Europe, a Formulaic (or Spontaneous) spell is sufficient. If the spirit is in another realm, such as the Magic Realm, Arcadia, Purgatory, or Hell, the spell must be a Ritual. (The Limit of the Divine, and possibly the Limit of the Lunar Sphere, puts Heaven out of reach.) Regiones count as part of Mythic Europe for these purposes, and it is important to note that a lot of spirits, including demons, spend most of their time in Mythic Europe.
 
-# Ease Factors for Creating and Crafting Objects
-
-The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day. City and Guild contains more extensive rules for mundane craft (Chapter 4), and Art and Academe contains more rules for art (Chapter 8), which can be used to set more precise Ease Factors if the troupe desires. If you are using Workshop Totals from City and Guild, generate the equivalent Finesse Ease Factor by adding 3 to the Workshop Total, and then any modifiers for extra time required.
-
-
-| Crafting<br>Task     | Ease<br>Factor | Example                                                                                           |
-| ---------------------- | ---------------- | --------------------------------------------------------------------------------------------------- |
-| Trivial              | 3              | Almost never worth rolling for                                                                    |
-| Simple               | 6              | Work regularly done by<br>untrained people, like<br>whitewashing a house                          |
-| Easy                 | 9              | The daily work of semiskilled craftsmen                                                           |
-| Average              | 12             | The daily work of skilled craftsmen                                                               |
-| Hard                 | 15             | Daily work of highly skilled craftsmen, exceptional work by average craftsmen                     |
-| Very Hard            | 18             | Daily work of exceptionally<br>skilled craftsmen, exceptional<br>work by highly skilled craftsmen |
-| Impressive           | 21             | Exceptional work done by grandmasters of a craft                                                  |
-| Remarkable           | 24             | The finest work done by grandmasters of a craft                                                   |
-| Almost<br>Impossible | 27             | The epitomes of skill in a craft                                                                  |
-|                      |                |                                                                                                   |
-
-## Container Targets
-
-pells with container Targets, including Circle, Room, Structure, and Boundary, raise
-
-a number of specific issues.
-
-## Static and Dynamic Targets
-
-Spells with container Targets, including Circle, Room, Structure, and Boundary, can work in one of two ways.
-
-First, they can affect any valid target within the Target container at the time of casting, and continue to affect those targets even if they leave the original target area. The effects continue even if the target container ceases to exist, for as long as the spell lasts (Circles are an exception, and spells of this type with Circle Targets end if the circle is broken). It does not affect anything that enters the target container later, even if the spell is still in effect. This is the way that spells with object Targets work. and can be referred to as a static target, because the things targeted by the spell are fixed when the spell is cast, and do not change.
-
-Second, they can affect any valid target within the Target container during the spell's period of effect. In this case, a valid target that leaves the container ceases to be affected by the spell, and a valid target that enters (or re-enters) the container is affected, until it leaves or the spell expires. In this case, the spell ends if the container ceases to exist, even if it has duration left. This can be referred to as a dynamic target, because the things that are targeted by the spell can change over the duration.
-
-The way that a particular spell works is fixed when it is designed,
-
-and cannot be changed by the casting magus, although a spell working in one way is similar to a spell that is identical apart from working in the other, and so knowledge of one gives a bonus to inventing the other.
-
-For example, a spell to put pink dots on people's foreheads with Target Room and Duration Moon could work in two ways. In the static version, everyone in the room (on whom the spell Penetrates) at the time of casting gets a pink dot on their forehead, and this pink dot remains on their forehead until the new moon and full moon have both set, no matter what happens to the room. In the dynamic version, anyone who is inside the room (on whom the spell Penetrates) until the new moon and full moon have both set gets a pink dot on their forehead, even if they were not in the room when the spell was cast. When they leave the room, the pink dot disappears, although it reappears if they go back into the room. If the room ceases to exist before the duration expires, the spell ends early. These two versions are two different spells, and a maga who wants to cast both (and cannot reliably cast them spontaneously) needs to create two spells.
-
-## Being Inside a Container
-
-The standard Ars Magica rules use an intuitive definition of "inside" when determining whether something is within a container target. A person standing in the centre of a 1 pace diameter circle is inside the circle; someone who happens to be standing directly above it three floors higher is not. A person standing on the battlements of a castle is within the Structure, but a crow flying over
-
-the walls is not. If your troupe needs a more precise definition, you can work something out, and nothing should break.
-
-## Persistence of Containers
-
-The standard Ars Magica rules also use an intuitive definition of whether a container still exists to be the target of a spell. If the same container still exists, then the target still exists. An island does not cease to exist when the tide rises or falls, unless a causeway ioins it to the mainland at low tide. A room does not cease to exist when the door is opened, but a room inside a tent does cease to exist when the tent is packed away. Containers can move if they are still the same thing while, and after, moving. Note that certain choices of container make spells vulnerable: if a Room is just a tent, the spell can be ended by collapsing the tent, while if a Boundary is just a fence, the spell can be ended by pulling down any part of the fence. Containers can get larger or smaller, but spells do end if the container becomes too big for the spell to affect.
-
-Circles and Boundaries require some extra comment. A circle is a different circle if its size changes, or if it is transferred to a different surface. Circles are very vulnerable, which offsets the power of Ring Duration and Circle Target. If a Boundary is nothing more than the thing marking the border, then it is as vulnerable as a circle, and cannot be moved, altered, or expanded. If a Boundary is something like "the waterline of this island" or "the wall around this covenant", then it is much less vulnerable, and may change with natural changes in the thing.
+> ## Container Targets
+>
+> Spells with container Targets, including Circle, Room, Structure, and Boundary, raise a number of specific issues.
+> 
+> ### Static and Dynamic Targets
+>
+> Spells with container Targets, including Circle, Room, Structure, and Boundary, can work in one of two ways.
+>
+> First, they can affect any valid target within the Target container at the time of casting, and continue to affect those targets even if they leave the original target area. The effects continue even if the target container ceases to exist, for as long as the spell lasts (Circles are an exception, and spells of this type with Circle Targets end if the circle is broken). It does not affect anything that enters the target container later, even if the spell is still in effect. This is the way that spells with object Targets work. and can be referred to as a static target, because the things targeted by the spell are fixed when the spell is cast, and do not change.
+> 
+> Second, they can affect any valid target within the Target container during the spell's period of effect. In this case, a valid target that leaves the container ceases to be affected by the spell, and a valid target that enters (or re-enters) the container is affected, until it leaves or the spell expires. In this case, the spell ends if the container ceases to exist, even if it has duration left. This can be referred to as a dynamic target, because the things that are targeted by the spell can change over the duration.
+>
+> The way that a particular spell works is fixed when it is designed, and cannot be changed by the casting magus, although a spell working in one way is similar to a spell that is identical apart from working in the other, and so knowledge of one gives a bonus to inventing the other.
+>
+> For example, a spell to put pink dots on people's foreheads with Target Room and Duration Moon could work in two ways. In the static version, everyone in the room (on whom the spell Penetrates) at the time of casting gets a pink dot on their forehead, and this pink dot remains on their forehead until the new moon and full moon have both set, no matter what happens to the room. In the dynamic version, anyone who is inside the room (on whom the spell Penetrates) until the new moon and full moon have both set gets a pink dot on their forehead, even if they were not in the room when the spell was cast. When they leave the room, the pink dot disappears, although it reappears if they go back into the room. If the room ceases to exist before the duration expires, the spell ends early. These two versions are two different spells, and a maga who wants to cast both (and cannot reliably cast them spontaneously) needs to create two spells.
+>
+> ### Being Inside a Container
+>
+> The standard Ars Magica rules use an intuitive definition of "inside" when determining whether something is within a container target. A person standing in the centre of a 1 pace diameter circle is inside the circle; someone who happens to be standing directly above it three floors higher is not. A person standing on the battlements of a castle is within the Structure, but a crow flying over the walls is not. If your troupe needs a more precise definition, you can work something out, and nothing should break.
+>
+> ### Persistence of Containers
+>
+> The standard Ars Magica rules also use an intuitive definition of whether a container still exists to be the target of a spell. If the same container still exists, then the target still exists. An island does not cease to exist when the tide rises or falls, unless a causeway ioins it to the mainland at low tide. A room does not cease to exist when the door is opened, but a room inside a tent does cease to exist when the tent is packed away. Containers can move if they are still the same thing while, and after, moving. Note that certain choices of container make spells vulnerable: if a Room is just a tent, the spell can be ended by collapsing the tent, while if a Boundary is just a fence, the spell can be ended by pulling down any part of the fence. Containers can get larger or smaller, but spells do end if the container becomes too big for the spell to affect.
+>
+> Circles and Boundaries require some extra comment. A circle is a different circle if its size changes, or if it is transferred to a different surface. Circles are very vulnerable, which offsets the power of Ring Duration and Circle Target. If a Boundary is nothing more than the thing marking the border, then it is as vulnerable as a circle, and cannot be moved, altered, or expanded. If a Boundary is something like "the waterline of this island" or "the wall around this covenant", then it is much less vulnerable, and may change with natural changes in the thing.
 
 ## Targets and Sizes
 
@@ -13610,59 +13586,65 @@ A base Structure contains ten base Rooms, spread over one or more floors. For ev
 
 A base Boundary is the same for all Forms, and is one hundred paces (three hundred feet) in diameter. As for Rooms, every five levels added multiplies the area by ten, or the diameter by a little over three.
 
-Each Target level includes all of the possible sizes of that target, even though the spell level changes. The size of the target can be manipulated in the same
-
-way as the Target parameter, whether through Virtues, MuVi, or other techniques, but these are all changes within the same type of Target. For example, a Target Individual spell with +2 magnitudes for size, to affect an Individual 100 times the normal size, has the same Target parameter as a Target Individual spell with no magnitudes added for size.
+Each Target level includes all of the possible sizes of that target, even though the spell level changes. The size of the target can be manipulated in the same way as the Target parameter, whether through Virtues, MuVi, or other techniques, but these are all changes within the same type of Target. For example, a Target Individual spell with +2 magnitudes for size, to affect an Individual 100 times the normal size, has the same Target parameter as a Target Individual spell with no magnitudes added for size.
 
 If a spell makes changes to a target that mean that the size of the applicable base Individual changes, the spell level must be able to affect both the initial and final form. This is most likely to be an issue when the final form has a smaller base Individual.
 
 When changing the size of a non-living target, the base guideline is for a spell that enlarges a target of the base size by a factor of up to ten, or shrinks it by a factor of up to 100. Adding a magnitude to the guideline allows the spell to enlarge the target by a further factor of ten (for a total of 100 times larger), or shrink it by a further factor of 100 (for a total of 10,000 times smaller). Modifications for the size of the original target are in addition to these modifiers, so that a spell to shrink an individual ten times larger than a base Individual by a factor of 10,000 would be two magnitudes higher than the guideline given for changing the size of the target. Forms dealing with living targets have their own guidelines; for living targets, a change of 3 Size points is roughly equivalent to a change by a factor of ten.
 
-Intellego spells are not affected by Target size.
+**Intellego spells are not affected by Target size.**
 
-Base Individual: Determined by Form
+**BASE INDIVIDUAL:** Determined by Form
 
-Base Part: Same as Individual
+**BASE PART:** Same as Individual
 
-Base Group: Mass of ten standard Individuals
+**BASE GROUP:** Mass of ten standard Individuals
 
-Base Room: Large enough for 100 standard Individuals
+**BASE ROOM:** Large enough for 100 standard Individuals
 
-> Base Structure: Ten base Rooms
+**BASE STRUCTURE:** Ten base Rooms
 
-Base Boundary:
-An area 100 paces in diameter
+**BASE BOUNDARY:** An area 100 paces in diameter
 
-INCREASING SIZE:
-Multiply size by ten for each
-magnitude added to the spell
+**INCREASING SIZE:** Multiply size by ten for each magnitude added to the spell
 
-## Targets and Creo
+### Targets and Creo
 
 The target of a Creo spell that actually creates something is the thing created. The Target is thus always Individual or Group. A spell to create a part of something is either a healing spell or a Muto spell, depending on the part created. A Creo spell with Target Room cannot be used to fill a room with something. Instead, use Target Group with an appropriate size modifier.
 
 The Creo guidelines for each Form give the level required to create different kinds of thing. The size is determined using the standard rules for target sizes.
 
-## Volumes and Targets
+> ### Volumes and Targets
+>
+> *Each increase in size on this list indicates a ten-fold increase in volume, and thus a 1 magnitude increase in spell level.*
+>
+> 50 CUBIC IN = 2 PINTS = 4-INCH SPHERE<br>
+> 1000 CUBIC CM = 1 L = 12-CM SPHERE<br>
+> Five base Individuals of Aquam (poison), a Small object on the Material and Size table (p255). 
+>
+> 500 CUBIC IN = 2 GAL = 1-FT SPHERE<br>
+> 10,000 CUBIC CM = 10 L = 30-CM SPHERE<br>
+> Three base Individuals of Terram (precious metal), a Medium object on the Material and Size table. 
+> 
+> 3 CUBIC FT = 20 GAL = 2-FT SPHERE<br>
+> 0.1 CUBIC M = 100 L = 60-CM SPHERE<br>
+> Three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table.
+> 
+> 1 CUBIC PACE = 200 GAL = 4-FT SPHERE<br>
+> 1 CUBIC M = 1000 L = 1.2-M SPHERE<br>
+> Base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table.
+> 
+> 10 CUBIC PACES = 2000 GAL = 8-FT SPHERE<br>
+> 10 CUBIC M = 10,000 L = 3-M SPHERE<br>
+> Base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid). 
+> 
+> 100 CUBIC PACES = 6-PACE SPHERE<br>
+> Five base Individuals of Aquam (water). 
+> 
+> 1000 CUBIC PACES = 12-PACE SPHERE<br>
+> Cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide, pool 16 paces in diameter and half as deep.
 
-Each increase in size on this list indicates a ten-fold increase in volume, and thus a 1 magnitude increase in spell level.
-
-**50** Cubic Inches/819 cm³ = 2 pints/1.14 ml, 4-inch/10.16-cm-diameter sphere, five base Individuals of Aquam (poison), a Small object on the Material and Size table (page 255).
-
-500 Cubic Inches/8,194 cm<sup>3</sup> = 2 gallons/ 7.57 liters, 1-foot/.3-meter-diameter sphere, three base Individuals of Terram (precious metal), a Medium object on the Material and Size table.
-
-3 Cubic Feet/.09  $M^3 = 20$  gallons/75.7 liters, 2-foot/.6-meter-diameter sphere, three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table.
-
-1 Cubic Pace = 200 gallons/757 liters, 4-foot/
-1.22-meter-diameter sphere, base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table.
-
-10 Cubic Paces = 2,000 gallons/7,570.83 liters, 8-foot/2.44-meter-diameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid).
-
-**100** Cubic Paces = 6-pace-diameter sphere, five base Individuals of Aquam (water).
-
-1000 Cubic Paces = 12-pace-diameter sphere, cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide, pool 16 paces in diameter and half as deep.
-
-## Ritual Spells
+### Ritual Spells
 
 Ritual spells take longer to cast than Formulaic spells and require vis. However, they do have some advantages.
 
@@ -13680,7 +13662,7 @@ Ritual spells are always at least level 20, even if the level calculation would 
 
 It is never possible to replicate the effects of a Ritual spell with Spontaneous magic, even when casting Ceremonially.
 
-## Requisites
+### Requisites
 
 Most spells involve a simple combination of two Arts, one Form and one Technique. Some spells, however, involve more than two. For instance, a spell that turns a human into a bird uses Muto because you are transforming something, Corpus because you are affecting a human body, and Animal because you are turning the human body into an animal body. In addition to involving the two primary Arts — Corpus and Muto in this case — casting the spell concerns your Animal score as well. This third Art is a requisite.
 
@@ -13688,9 +13670,7 @@ There are two kinds of requisite. The first simply allows the spell to have its 
 
 The second adds an effect to a spell. In this case, the base Arts and level for the spell are those for the highest-level effect it has. For example, a magic item that changes a picture to show what is happening at a distant location is an Intellego Imaginem spell with a Muto requisite, not a Muto Imaginem spell with an Intellego requisite, as the Intellego effect is of much higher level.
 
-As a general rule of thumb, if the spell would still do something without the requisite, but it would do significantly less, then each requisite adds at least one magnitude to the level of the spell. Thus, the Herbam and Terram requisites that allow a spell to change a clothed man into a bird do not add any levels, because they do not significantly increase the power of the spell. However, a Rego requisite added to a Creo Ignem spell to prevent the fire from burning the caster would require additional levels. In addition, a
-
-single spell that could turn a human into a wolf, or a wolf into a human, would require an additional magnitude for the Animal requisite, as without it the spell could only effect the transformation in one direction. Most such requisites add only a single magnitude to the spell level, but if the additional effect is sixth magnitude or above, it is often appropriate to add two magnitudes.
+As a general rule of thumb, if the spell would still do something without the requisite, but it would do significantly less, then each requisite adds at least one magnitude to the level of the spell. Thus, the Herbam and Terram requisites that allow a spell to change a clothed man into a bird do not add any levels, because they do not significantly increase the power of the spell. However, a Rego requisite added to a Creo Ignem spell to prevent the fire from burning the caster would require additional levels. In addition, a single spell that could turn a human into a wolf, or a wolf into a human, would require an additional magnitude for the Animal requisite, as without it the spell could only effect the transformation in one direction. Most such requisites add only a single magnitude to the spell level, but if the additional effect is sixth magnitude or above, it is often appropriate to add two magnitudes.
 
 Additional effects may not require a requisite if they are purely cosmetic. Thus, a spell that creates fire that looks like flaming skulls does not require an Imaginem requisite. A spell that allowed the caster to choose how the fire looked would, because that flexibility is more than a cosmetic effect.
 
@@ -13700,17 +13680,17 @@ Sometimes a spell has a requisite for both its Technique and Form. You must use 
 
 Requisites listed with a spell's statistics apply when you are learning, inventing, or casting that spell, but do not apply for other purposes, such as determining the defender's Magic Resistance. The defender's Magic Resistance is determined by the spell's primary Form, not that listed as a requisite, even if the caster's requisite Form score is lower than that of his primary Form score, and thus determines the Casting Total. Similarly, a spell can only be boosted by vis that matches the primary Technique or Form, and effects that affect spells based on their Arts rely on the primary Arts.
 
-Requisite Necessary for Spell's Effect: +0 magnitudes
+**REQUISITE NECESSARY FOR SPELL'S EFFECT: +0 magnitudes**
 
-Requisite Enhances Spell's Effect: +1 magnitude or more
+**REQUISITE ENHANCES SPELL'S EFFECT: +1 magnitude or more**
 
-Added Effect is Purely Cosmetic: No requisite
+**ADDED EFFECT IS PURELY COSMETIC: No requisite**
 
-## Casting Requisites
+#### Casting Requisites
 
 Some requisites are not listed along with a spell's statistics because they only apply when the spell is being used in a certain way, not when learning or inventing it. These are called casting requisites. You choose which Arts you use as casting requisites when casting the spell, so what you can affect is limited by your choice. The lowest Technique score and Form score among the primary Arts and all the chosen casting requisites are the ones you use when you cast the spell.
 
-## Spontaneous Requisites
+#### Spontaneous Requisites
 
 Requisites work the same way for spontaneous spells. When the Arts to be used are determined, determine whether requisites are involved. If so, they limit your Arts just as they do for Formulaic spells.
 
@@ -13718,61 +13698,59 @@ Requisites work the same way for spontaneous spells. When the Arts to be used ar
 
 Each spell has several factors that describe it for game use. They are discussed below.
 
-## Technique and Form
+### Technique and Form
 
 The Technique and Form are listed in the heading the spell is found under. Spells are arranged first by their Forms, then by their Techniques, in alphabetical order. Following each Technique/Form heading are guidelines that will help you create your own spells, as well as help you determine the necessary level to cast a Spontaneous spell.
 
 The base Range, Duration, and Target for almost all guidelines are the lowest categories: Personal, Momentary, Individual. Thus, a useful spell will often be of significantly higher level than the guideline for that effect, because it has a higher Range, Duration, and Target. There are some exceptions, primarily guidelines for wards, and these are noted explicitly in the guideline. If the guideline does not specify a Range, Duration, or Target, they are Personal, Momentary, and Individual.
 
-Techniques and Forms are often abbreviated by the first two letters of each word; thus a MuTe spell is of Muto Technique and Terram Form. The level is often added after the abbreviation
+Techniques and Forms are often abbreviated by the first two letters of each word; thus a MuTe spell is of Muto Technique and Terram Form. The level is often added after the abbreviation - thus Flash of the Scarlet Flames becomes CrIg 15.
 
-- thus Flash of the Scarlet Flames
-
-## Title
+### Title
 
 The titles given are the actual names of spells as known by Hermetic magi. When inventing new spells, try to give them creative names that will add color to the game. "Fireball" is not interesting; "Ball of Abysmal Flame" is — you get the idea.
 
-## Level
+### Level
 
 Most spells are assigned a level, which is usually a multiple of five. It need not be, however, and magi may well invent spells of intermediate levels. Spontaneous spells often have other levels, as well.
 
 Some spells are General spells (abbreviated to Gen), which means that they may be learned at any level of difficulty-the higher the level, the more powerful the spell.
 
-The level at which you know a General level Formulaic or Ritual spell depends on where you obtained it. If you learned a General level spell that was designed for effectiveness at level 15, then that is the level at which you know it. You cannot produce effects
-
-that exceed level 15 effects with that spell unless you invent a version with a higher level or learn such a version
+The level at which you know a General level Formulaic or Ritual spell depends on where you obtained it. If you learned a General level spell that was designed for effectiveness at level 15, then that is the level at which you know it. You cannot produce effects that exceed level 15 effects with that spell unless you invent a version with a higher level or learn such a version from another source.
 
 General level spells are open-ended only in the sense that they may be learned at any level. They may not be used at a level higher (or lower) than that which is known, and different levels of a General level spell are still different spells.
 
-## Ritual
+### Ritual
 
 Spells requiring rituals are those that fall outside the categories listed for Formulaic and Spontaneous spells described under "Ritual Spells" on page 213. Certain powerful spells and spells inherited from the Cult of Mercury are also Ritual spells. Storyguides should use their discretion in declaring other spells Ritual.
 
-## Requisites
+### Requisites
 
 Requisites make it more difficult to cast spells, as they demand the caster have greater knowledge. See "Requisites" on page 311 for a full description of how they limit the casters of particular spells. Requisites that always apply are listed along with a spell's statistics. Casting requisites are listed within the body of the spell description.
 
-## Description
+### Description
 
 Describes the effects of the spell. Descriptions cover about 95% of the circumstances in which spells are used, but since magic is variable, unpredictable, and can be used in a number of ways, the responsibility for determining the effects in unusual situations lies with the storyguide.
 
 Some of the spell descriptions include visual descriptions, hand gestures, and wizard's sigils. It should be noted that these are all examples and that you shouldn't feel bound by them. In fact, you should customize all your spells in ways appropriate to your own magus. When you give special details to your own customized versions of these spells, you are rewarded with a more interesting game.
 
-## Design
+### Design
 
 A parenthetical line at the end of the description gives the calculations for the spell level. The base level is given in levels, and other modifications in magnitudes. Remember that adding a magnitude adds one level up to level five, and five levels thereafter.
 
-## Spell Damage
+> ### Spell Damage
+> 
+> Many spells have damage listed in the form +X. This is an abbreviation for stress die + X. The damage inflicted by such spells varies from one casting to another. The target resists this damage with their Soak Total + stress die.
 
-Many spells have damage listed in the form +X. This is an abbreviation for stress die + X. The damage inflicted by such spells varies from one casting to another. The target resists this damage with their Soak Total + stress die.
-
-## The Wizard's Sigil
+### The Wizard's Sigil
 
 When you invent a spell, some amount of your personal magical style is likely to manifest itself, giving the spell some small quirk or minor detail that identifies it as yours. This recurrent mark or quirk in a magus's spell (which doesn't usually change the effectiveness of the spell) is termed his "wizard's sigil." Once known, these quirks can identify certain magi as having cast certain spells. Throughout this chapter, various sample spell sigils are listed in the descriptions. Keep in mind that these are just guidelines. They're meant to give you ideas to better personalize your spells, and perhaps to aid you in choosing your own sigil. See page 224 in the Hermetic Magic chapter for further details.
 
 Note that even when you learn a spell from another magus, or from a lab text, you are actually inventing it, with guidance, so it is always your sigil that manifests in your spells.
 
-# Animal Spells
+---
+
+## Animal Spells
 
 Animal spells affect all natural living things that are not plants or humans, doing to animals what Mentem and Corpus spells do to people. Animal spells may affect any animal-like mind or body. They also affect things made with animal products, such as leather, bone, or wool.
 
@@ -13784,141 +13762,71 @@ A Bjornaer magus in animal form is truly an animal, so his mind is affected by A
 
 A basic Individual for Animal is an animal of about the same size as a pony, Size +1 or lower.
 
-## Creo Animal Guidelines
+### Creo Animal Guidelines
 
 Most Animal spells cannot be used with Personal range, so the level of a spell must be higher than the guidelines given.
 
-To create treated animal products (like leather, jointed meat, and cloth) add one magnitude to the level necessary to create the equivalent amount of dead animal. To create treated and processed animal products, such as a leather jacket or a woolen tunic, add two magnitudes to
-
-- Level 1: Give an animal a +1 bonus to Recovery rolls
-- Level 2: Give an animal a +3 bonus to Recovery rolls.
-  - Preserve a corpse from decay.
-- Level 3: Give an animal a +6 bonus to Recovery rolls.
-- Level 4: Give an animal a +9 bonus to Recovery rolls.
-- Level 5: Create an animal product, such as spidersilk or wool. (Note that an Individual is a single hair, a single hide, or a single tusk.)
-  - Create an insect or similar bug.
-  - Give an animal a +12 bonus to Recovery rolls.
-- Level 10: Create the corpse of an animal.
-  - Create a bird, reptile, fish, or amphibian.
-  - Give an animal a +15 bonus to Recovery rolls.
-- Level 15: Heal a Light Wound.
-  - Give an animal a +18 bonus to Recovery rolls.
-  - Create a mammal
-  - Cause an animal to reach full maturity over the course of a single day or night. This accelerated maturation only applies during the spell's Duration, and thus full effect requires a Sun Duration spell cast early in the day or night.
-- Level 20: Heal a Medium Wound
-  - Give an animal a +21 bonus to Recovery rolls
-  - Cause an animal to reach full maturity over the course of about two hours
-- Level 25: Stop the progress of a disease.
-  - Heal a Heavy Wound.
-  - Restore a lost sense.
-  - Restore a lost limb.
-  - Cure a disease, counteracting its effects. (Unless cast as a Momentary Ritual, this is the same as stopping the progress of a disease.)
-  - Cause an animal to reach full maturity over the course of ten Diameters (twenty minutes).
-
-the level necessary to create the equivalent amount of dead animal.
+To create treated animal products (like leather, jointed meat, and cloth) add one magnitude to the level necessary to create the equivalent amount of dead animal. To create treated and processed animal products, such as a leather jacket or a woolen tunic, add two magnitudes to the level necessary to create the equivalent amount of dead animal.
 
 In order to influence the behavior of created animals, a Rego requisite is required, and as this is an additional effect it adds at least one magnitude to the spell level. Otherwise they just do what comes naturally.
 
 Creo Animal botches often produce the wrong sort of animal, or produce an animal enraged with the caster.
 
-- Level 30: Heal an Incapacitating Wound.
+| Level | Creo Animal Guideline  |
+| ----- | ---------------------- |
+| 1  | • Give an animal a +1 bonus to Recovery rolls |
+| 2  | • Give an animal a +3 bonus to Recovery rolls<br>• Preserve a corpse from decay |
+| 3  | • Give an animal a +6 bonus to Recovery rolls |
+| 4  | • Give an animal a +9 bonus to Recovery rolls |
+| 5  | • Create an animal product, such as spidersilk or wool (Note that an Individual is a single hair, a single hide, or a single tusk)<br>• Create an insect or similar bug<br>• Give an animal a +12 bonus to Recovery rolls |
+| 10 | • Create the corpse of an animal<br>• Create a bird, reptile, fish, or amphibian<br>• Give an animal a +15 bonus to Recovery rolls |
+| 15 | • Heal a Light Wound<br>• Give an animal a +18 bonus to Recovery rolls<br>• Create a mammal<br>• Cause an animal to reach full maturity over a single day or night (requires Sun Duration spell; maturation only applies during spell's Duration) |
+| 20 | • Heal a Medium Wound<br>• Give an animal a +21 bonus to Recovery rolls<br>• Cause an animal to reach full maturity over about two hours |
+| 25 | • Stop the progress of a disease<br>• Heal a Heavy Wound<br>• Restore a lost sense<br>• Restore a lost limb<br>• Cure a disease, counteracting its effects (unless Momentary Ritual, same as stopping progress)<br>• Cause an animal to reach full maturity over ten Diameters (twenty minutes) |
+| 30 | • Heal an Incapacitating Wound<br>• Increase one of an animal's Characteristics by one point, to no more than the average score for that kind of animal<br>• Cause an animal to reach full maturity over the course of a single Diameter |
+| 35 | • Heal all wounds<br>• Increase one of an animal's Characteristics by one point, to no more than one higher than the average score for that kind of animal |
+| 40 | • Increase one of an animal's Characteristics by one point, to no more than two higher than the average score for that kind of animal<br>• Cause an animal to reach full maturity in a moment |
+| 45 | • Increase one of an animal's Characteristics by one point, to no more than three higher than the average score for that kind of animal |
+| 50 | • Create a magical beast. When creating a magical creature, the Magic Might of the creature cannot exceed the level of the spell, and requisites must be included for any special powers (for example, Ignem if it can breathe fire, Rego and Mentem if it can control people's minds). A Vim requisite, for the magical nature, is always required.<br>• Increase one of an animal's Characteristics by one point, to no more than four higher than the average score for that kind of animal |
+| 55 | • Increase one of an animal's Characteristics by one point, to no more than five higher than the average score for that kind of animal. A greater increase is not within the natural range for the animal, and thus cannot be effected by Creo magic. |
+| 75 | • Raise an animal from the dead |
 
-  - Increase one of an animal's Characteristics by one point, to no more than the average score for that kind of animal.
-  - Cause an animal to reach full maturity over the course of a single Diameter.
-- Level 35: Heal all wounds.
+### Creo Animal Spells
 
-  - Increase one of an animal's Characteristics by one point, to no more than one higher than the average score for that kind of animal.
-- Level 40: Increase one of an animal's
+#### LEVEL 20
 
-  Characteristics by one point, to no more
-  than two higher than the average score
-  for that kind of animal.
-
-  - Cause an animal to reach full maturity in a moment.
-- Level 45: Increase one of an animal's
-
-  Characteristics by one point, to no more
-  than three higher than the average score
-  for that kind of animal.
-- Level 50: Create a magical beast. When creating a magical creature, the Magic Might of the creature cannot exceed the level of the spell, and requisites must be included for any special powers (for example, Ignem if it can breathe fire, Rego and Mentem if it can control people's minds). A Vim requisite, for the magical nature, is always required.
-
-  - Increase one of an animal's Characteristics by one point, to no more than four higher than the average score for that kind of animal
-- Level 55: Increase one of an animal's
-  Characteristics by one point, to no more
-  than five higher than the average score
-  for that kind of animal. A greater increase is not within the natural range
-  for the animal, and thus cannot be effected by Creo magic.
-- Level 75: Raise an animal from the dead.
-
-## Creo Animal Spells
-
-LEVEL 20
-
-SOOTHE PAINS OF THE BEAST
-
-R: Touch, D: Mom, T: Ind, Ritual
-
+##### SOOTHE PAINS OF THE BEAST
+R: Touch, D: Mom, T: Ind, Ritual<br>
 This spell looks much like a ritualistic "laying on of hands" seen in many churches. You kneel and press your hands to the wound while reciting a quiet incantation. The spell cures one Light Wound suffered by the animal.
-
-Asaron of Flambeau believes his mission in life is to repopulate the world so there will be more to kill, and thus spends seasons healing animals and people throughout Europe. In his version of this spell, a black patch in the shape of a tongue of fire is left where the wound was. A symbolic flame is seen in almost all of Asaron's spells, making it his wizard's sigil.
-
+Asaron of Flambeau believes his mission in life is to repopulate the world so there will be more to kill, and thus spends seasons healing animals and people throughout Europe. In his version of this spell, a black patch in the shape of a tongue of fire is left where the wound was. A symbolic flame is seen in almost all of Asaron's spells, making it his wizard's sigil.<br>
 (Base level 15, +1 Touch)
 
-TRUE REST OF THE INJURED BRUTE R: Touch, D: Moon, T: Ind
-
-The injured target gets a +9 bonus to all Recovery rolls made while the spell is in effect.
-
+##### TRUE REST OF THE INJURED BRUTE
+R: Touch, D: Moon, T: Ind<br>
+The injured target gets a +9 bonus to all Recovery rolls made while the spell is in effect.<br>
 (Base 4, +1 Touch, +3 Moon)
 
-LEVEL 35
+#### LEVEL 35
 
-WEAVER'S TRAP OF WEBS
-
-R: Voice, D: Sun, T: Group
-
-In casting this spell, you point and from the indicated initial location, a huge net of spider webs grows, filling an area 5 paces by 5 paces by 6 feet high. With supports, the webs can hang vertically, forming a wall, otherwise they act like a net. When the webs are through growing after a few seconds, they are as thick as string and as strong as iron. Everyone caught in the area of the webs is immobilized. Getting free requires a Strength stress roll of 12+, or someone who is not trapped may use an edged weapon to free a victim, which takes three rounds. Contrary to widespread rumor, fire is ineffective against these webs. Webs may continue to trap victims in the
-
-future, as long as the spell lasts and they aren't completely hacked apart.
-
+##### WEAVER'S TRAP OF WEBS
+R: Voice, D: Sun, T: Group<br>
+In casting this spell, you point and from the indicated initial location, a huge net of spider webs grows, filling an area 5 paces by 5 paces by 6 feet high. With supports, the webs can hang vertically, forming a wall, otherwise they act like a net. When the webs are through growing after a few seconds, they are as thick as string and as strong as iron. Everyone caught in the area of the webs is immobilized. Getting free requires a Strength stress roll of 12+, or someone who is not trapped may use an edged weapon to free a victim, which takes three rounds. Contrary to widespread rumor, fire is ineffective against these webs. Webs may continue to trap victims in the future, as long as the spell lasts and they aren't completely hacked apart.<br>
 (Base 5, +2 Voice, +2 Sun, +2 Group (total mass of the spiderwebs is still less than ten basic Individuals, so no size adjustment))
 
-THE WIZARD'S MOUNT
-
-R: Touch, D: Sun, T: Ind
-
-Creates a horse, which is normal in every way except that it is not disturbed by The Gift.
-
+##### THE WIZARD'S MOUNT
+R: Touch, D: Sun, T: Ind<br>
+Creates a horse, which is normal in every way except that it is not disturbed by The Gift.<br>
 (Base 15, +1 Touch, +2 Sun, +1 size)
 
-LEVEL 50
+#### LEVEL 50
 
-Curse of the Ravenous Swarm
-
-R: Touch, D: Moon, T: Group, Ritual
-
-Req: Rego
-
-Calls a swarm of locusts or other destructive insects upon an area, which destroys wild plant life and fields. When the spell's duration ends, all the insects disappear, leaving nothing but the damage. The Rego requisite ensures that the insects only devastate the area desired by the caster.
-
+##### CURSE OF THE RAVENOUS SWARM
+R: Touch, D: Moon, T: Group, Ritual<br> 
+Req: Rego<br>
+Calls a swarm of locusts or other destructive insects upon an area, which destroys wild plant life and fields. When the spell's duration ends, all the insects disappear, leaving nothing but the damage. The Rego requisite ensures that the insects only devastate the area desired by the caster.<br>
 (Base 5, +1 Touch, +3 Moon, +2 Group, +2 size, for a swarm weighing as much as one thousand pigs, +1 extra effect from requisite, ritual because it has a really major effect)
 
-## Intellego Animal Spells
-
-LEVEL 5
-
-IMAGE OF THE BEAST
-
-R: Arc D: Mom, T: Ind
-
-Gives you a hazy mental image of an animal you have an Arcane Connection to.
-
-Wounds caused by an animal are an Arcane Connection to that animal with a lifetime of a few hours. This spell can thus be used to find out what was responsible for an attack.
-
-All spells cast by Chavin of Tytalus can be recognized because they promote or advocate war or violence. In his version of this spell, the claws and teeth of the beast appear more dangerous.
-
-(Base 1, +4 Arcane Connection)
-
-## Intellego Animal Guidelines
+### Intellego Animal Guidelines
 
 When you try to get information from an animal, remember that its memories are gathered through its particular senses, with their particular strengths and weaknesses. For example, dogs remember much about odors of various things, but often forget details of how they looked. Animals do not remember human words, but might remember tone of voice and such. You may not get the exact information you are looking for.
 
@@ -13928,27 +13836,47 @@ Since Animal includes aspects of both Corpus and Mentem with regard to beasts, g
 
 Botches with InAn normally result in false information.
 
-Level 1: • Get a mental image of an animal.
+| Level | Intellego Animal Guideline |
+| ----- | -------------------------- |
+| 1  | • Get a mental image of an animal |
+| 3  | • Sense the state of consciousness of a beast<br>• Get general information about an animal's body |
+| 4  | • Sense the dominant drive of a beast<br>• Learn a specific fact about an animal's body |
+| 5  | • Learn the origin, age, and history of something made of animal products |
+| 10 | • Speak with an animal<br>• Read an animal's surface thoughts |
+| 15 | • Read the recent memories of a beast |
+| 20 | • Thoroughly probe the mind of a beast |
 
-Level 3: • Sense the state of consciousness of a beast.
+### Intellego Animal Spells
 
-• Get general information about an animal's body.
+#### LEVEL 5
 
-Level 4: • Sense the dominant drive of a beast.
+##### IMAGE OF THE BEAST
+R: Arc D: Mom, T: Ind<br>
+Gives you a hazy mental image of an animal you have an Arcane Connection to. Wounds caused by an animal are an Arcane Connection to that animal with a lifetime of a few hours. This spell can thus be used to find out what was responsible for an attack. All spells cast by Chavin of Tytalus can be recognized because they promote or advocate war or violence. In his version of this spell, the claws and teeth of the beast appear more dangerous.<br> 
+(Base 1, +4 Arcane Connection)
 
-Learn a specific fact about an animal's body.
+#### LEVEL 10
 
-Level 5: • Learn the origin, age, and history of something made of animal products
+##### SHIVER OF THE LYCANTHROPE
+R: Per, D: Conc, T: Touch<br>
+You feel a sudden shiver if you are touching a person or beast that is actually a lycanthrope. Variants of this spell detect other types of shapechanger, but not Bjornaer with Heartbeasts.<br>
+(Base 4, +1 Concentration, +1 Touch)
 
-Level 10: • Speak with an animal.
+#### LEVEL 25
 
-Read an animal's surface thoughts.
+##### OPENING THE TOME OF THE ANIMAL'S MIND
+R: Touch, D: Conc, T: Ind<br>
+You touch the head of the animal in question and read its memories of the past day. The further the animal is from human, the harder it is to read its memories accurately. If you simply scan the beast's memories, not looking for anything special, you get the memories the beast thinks are most important. If you are trying to get a specific fact, you need a Perception + Finesse stress roll against an Ease Factor of 6, or 12 if the fact is obscure. Since normal animals are sensitive to magic, they resist your touch and try to shy away from you both when the spell is cast and while the spell continues to function. This can be quite a problem with larger animals.<br>
+(Base 15, +1 Touch, +1 Concentration)
 
-Level 15: • Read the recent memories of a beast.
+#### LEVEL 30
 
-Level 20: • Thoroughly probe the mind of a beast.
+##### HUNTER'S SENSE
+R: Per, D: Sun, T: Hearing<br>
+You sense the shapes and primary motivations of all animals above a certain size that you can hear, or could hear if they were making a noise. You decide the size threshold when you cast the spell, such as "all animals larger than a fox." The 'noise' of an animal's shape is louder the larger it is, while the 'noise' of its motivations increases depending on how intense the motivation is. A rabbit fleeing from a fox would sound fearful, very loudly. The fox's motivation might be fairly quiet, especially if recent hunting had been good.<br>
+(Base 4, +2 Sun, +3 Hearing, +1 for shape and primary motivation)
 
-## Muto Animal Guidelines
+### Muto Animal Guidelines
 
 Animals granted new abilities, such as wings, will need a few minutes to get used to them. When transforming things, you can transform things that they are carrying with appropriate requisites. For example, you could transform a horse and its armor with a Terram requisite.
 
@@ -13956,145 +13884,64 @@ Animals are not infinitely mutable, and using too many of these spells for too l
 
 MuAn botches often change the caster instead of the target, or change the target in a way very different from that intended.
 
-- Level 1: Make a superficial change to something made of animal products (like changing its color).
-- Level 2: Make a major change to something made of animal products that preserves the substance (for example, turn a leather jerkin into a saddle).
-  - Make a superficial change to a beast
-- Level 3: Change an animal's limb.
-  - Change something made of animal products into a different animal product.
-- Level 4: Make a major change in a beast, while leaving it recognizably the same sort of animal (for example, make a horse bigger and change its color).
-  - Change something made of animal products in a minor unnatural way.
-- Level 5: Change an animal into a different animal.
-  - Change an animal in a minor way so that it is no longer natural (for example, change the color of a horse's coat to match the covenant's coat of arms).
-  - Change something made of animal products in a major unnatural way.
-- Level 10: Change an animal into a human (though it retains its animal mentality and does not gain a soul, requires a Corpus requisite).
-  - Change an animal into a plant (requires a Herbam requisite).
-- Level 15: Change an animal in a major unnatural way (for example, give a horse claws, fangs, and scaly armored skin).
-  - Change an animal into a non-living item (appropriate requisite required).
-- Level 25: Radically change an animal in an unnatural way (for example, give a horse wings). Give an animal a 'magical' ability, such as the ability to breathe fire (requires a requisite for the ability).
+| Level | Muto Animal Guideline |
+| ----- | --------------------- |
+| 1 | • Make a superficial change to something made of animal products (like changing its color) |
+| 2 | • Make a major change to something made of animal products that preserves the substance (for example, turn a leather jerkin into a saddle)<br>• Make a superficial change to a beast |
+| 3 | • Change an animal's limb<br>• Change something made of animal products into a different animal product |
+| 4 | • Make a major change in a beast, while leaving it recognizably the same sort of animal (for example, make a horse bigger and change its color)<br>• Change something made of animal products in a minor unnatural way |
+| 5 | • Change an animal into a different animal<br>• Change an animal in a minor way so that it is no longer natural (for example, change the color of a horse's coat to match the covenant's coat of arms)<br>• Change something made of animal products in a major unnatural way |
+| 10 | • Change an animal into a human (though it retains its animal mentality and does not gain a soul; requires a Corpus requisite)<br>• Change an animal into a plant (requires a Herbam requisite) |
+| 15 | • Change an animal in a major unnatural way (for example, give a horse claws, fangs, and scaly armored skin)<br>• Change an animal into a non-living item (appropriate requisite required) |
+| 25 | • Radically change an animal in an unnatural way (for example, give a horse wings); give an animal a 'magical' ability, such as the ability to breathe fire (requires a requisite for the ability) |
 
-#### LEVEL 10
-
-SHIVER OF THE LYCANTHROPE
-
-R: Per, D: Conc, T: Touch
-
-You feel a sudden shiver if you are touching a person or beast that is actually a lycanthrope. Variants of this spell detect other types of shapechanger, but not Bjornaer with Heartbeasts.
-
-(Base 4, +1 Concentration, +1 Touch)
-
-#### LEVEL 25
-
-OPENING THE TOME OF THE ANIMAL'S MIND
-
-R: Touch, D: Conc, T: Ind
-
-You touch the head of the animal in question and read its memories of the past day. The further the animal is from human, the harder it is to read its memories accurately. If you simply scan the beast's memories, not looking for anything special, you get the memories the beast thinks are most important. If you are trying to get a specific fact, you need a Perception + Finesse stress roll against an Ease Factor of 6, or 12 if the fact is obscure. Since normal animals are sensitive to magic, they resist your touch and try to shy away from you both when the spell is cast and while the spell continues to function. This can be quite a problem with larger animals.
-
-(Base 15, +1 Touch, +1 Concentration)
-
-#### LEVEL 30
-
-Hunter's Sense
-
-R: Per, D: Sun, T: Hearing
-
-You sense the shapes and primary motivations of all animals above a certain size that you can hear, or could hear if they were making a noise. You decide the size threshold when you cast the spell, such as "all animals larger than a fox." The 'noise' of an animal's shape is louder the larger it is, while the 'noise' of its motivations increases depending on how intense the motivation is. A rabbit fleeing from a fox would sound fearful, very loudly. The fox's motivation might be fairly quiet, especially if recent hunting had been good.
-
-(Base 4, +2 Sun, +3 Hearing, +1 for shape and primary motivation)
-
-## Muto Animal Spells
+### Muto Animal Spells
 
 #### LEVEL 15
 
-BEAST OF OUTLANDISH SIZE
-
-R: Touch, D: Sun, T: Ind
-
-Changes the Size of an animal by +1. This change modifies Strength by +2, the range for each wound level increases by one, and Quickness falls by one. The new beast is of huge size, and looks much more impressive than its former self. Townspeople may run in fear of it, and there is little doubt among them that it is a creature of magic.
-
+##### BEAST OF OUTLANDISH SIZE
+R: Touch, D: Sun, T: Ind<br>
+Changes the Size of an animal by +1. This change modifies Strength by +2, the range for each wound level increases by one, and Quickness falls by one. The new beast is of huge size, and looks much more impressive than its former self. Townspeople may run in fear of it, and there is little doubt among them that it is a creature of magic.<br>
 (Base 4, +1 Touch, +2 Sun)
 
-#### DOUBLET OF IMPENETRABLE SILK
-
-R: Touch, D: Sun, T: Ind.
-
-Change an item made of animal material — silk, wool, or leather — so it cannot be cut or penetrated by weapons. A simple cloth doublet becomes the equivalent of armor with no Load and a +3 Soak bonus. Armor made of guilted material or any kind of leather improves its Protection by an additional +3. The magic does not make the armor better at absorbing shock, so this +3 bonus is the limit that can be bestowed without changing the material into something completely different. At the storyguide's option, the bonus given by this spell may not apply against strictly blunt weapons like clubs and staves.
-
+##### DOUBLET OF IMPENETRABLE SILK
+R: Touch, D: Sun, T: Ind.<br>
+Change an item made of animal material — silk, wool, or leather — so it cannot be cut or penetrated by weapons. A simple cloth doublet becomes the equivalent of armor with no Load and a +3 Soak bonus. Armor made of guilted material or any kind of leather improves its Protection by an additional +3. The magic does not make the armor better at absorbing shock, so this +3 bonus is the limit that can be bestowed without changing the material into something completely different. At the storyguide's option, the bonus given by this spell may not apply against strictly blunt weapons like clubs and staves.<br>
 (Base 4, +1 Touch, +2 Sun)
 
-#### GROWTH OF THE CREEPING THINGS
-
-R: Touch, D: Sun, T: Ind.
-
-Causes an insect, mouse, toad, or other small (Size -8 or smaller) creature to grow to four times its normal size. If it was venomous before, it is even more venomous now. Semi-venomous creatures, like most spiders, have poison with an Ease Factor of 6 that does a Light Wound.
-
+##### GROWTH OF THE CREEPING THINGS
+R: Touch, D: Sun, T: Ind.<br>
+Causes an insect, mouse, toad, or other small (Size -8 or smaller) creature to grow to four times its normal size. If it was venomous before, it is even more venomous now. Semi-venomous creatures, like most spiders, have poison with an Ease Factor of 6 that does a Light Wound.<br>
 (Base 4, +1 Touch, +2 Sun)
 
 #### LEVEL 20
 
-#### BEAST OF MINUSCULE PROPORTIONS
-
-R: Voice, D: Sun, T: Ind
-
-Reduces the size of an animal by 2. This modifies Strength by -4, reduces the range for each wound type by two points, and increases Quickness by +2. The beast appears to be the runt of its litter.
-
+##### BEAST OF MINUSCULE PROPORTIONS
+R: Voice, D: Sun, T: Ind<br>
+Reduces the size of an animal by 2. This modifies Strength by -4, reduces the range for each wound type by two points, and increases Quickness by +2. The beast appears to be the runt of its litter.<br>
 (Base: 4, +2 Voice, +2 Sun)
 
 #### LEVEL 25
 
-THE BEAST REMADE
-
-R: Touch, D: Sun, T: Ind
-
-Reg: Corpus
-
-Gives one land beast a human form, though its intellect remains the same. Some feature of the animal is retained in the human form. A former dog might have an exceptionally hairy human body, and a former cat might let loose an occasional "meow." Once transformed, the beast is disoriented for a while before it becomes used to its new body.
-
+##### THE BEAST REMADE
+R: Touch, D: Sun, T: Ind<br>
+Req: Corpus<br>
+Gives one land beast a human form, though its intellect remains the same. Some feature of the animal is retained in the human form. A former dog might have an exceptionally hairy human body, and a former cat might let loose an occasional "meow." Once transformed, the beast is disoriented for a while before it becomes used to its new body.<br>
 (Base 10, +1 Touch, +2 Sun, no addition for requisite)
 
-#### Transformation of the Ravenous BEAST TO THE TORPID TOAD
-
-R: Voice, D: Sun, T: Ind
-
-Turns any animal into a toad. A newly created toad will hold a certain terror for peasants and serfs, because many believe toads exude a poisonous substance from their skin.
-
+##### TRANSFORMATION OF THE RAVENOUS BEAST TO THE TORPID TOAD
+R: Voice, D: Sun, T: Ind<br>
+Turns any animal into a toad. A newly created toad will hold a certain terror for peasants and serfs, because many believe toads exude a poisonous substance from their skin.<br>
 (Base 5, +2 Voice, +2 Sun)
 
 #### LEVEL 35
 
-#### STEED OF VENGEANCE
-
-R: Touch, D: Sun, T: Ind.
-
-Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eves a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.
-
+##### STEED OF VENGEANCE
+R: Touch, D: Sun, T: Ind.<br>
+Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eves a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.<br>
 (Base 15, +1 Touch, +2 Sun, +1 size)
 
-## Perdo Animal Spells
-
-#### LEVEL 10
-
-DECAY FUR AND HIDE
-
-R: Voice, D: Mom, T: Ind
-
-Destroys an object made of animal fur or hide, including wool and leather.
-
-Marius of Tremere's version of this spell has the target disappear in an impressive puff of smoke.
-
-(Base 4, +2 Voice)
-
-#### LEVEL 15
-
-AGONY OF THE BEAST
-
-R: Voice, D: Conc, T: Ind
-
-After you point at the beast and cast this spell, it begins lashing wildly about, upsetting any nearby objects, and howling in great pain. In order to do anything else, the beast must make a Stamina + Size stress roll against an Ease Factor of 9 each round.
-
-(Base 4, +2 Voice, +1 Concentration)
-
-## Perdo Animal Guidelines
+### Perdo Animal Guidelines
 
 There is normally no Soak against Perdo Animal — the magic does not create something that causes damage, it just causes damage. Magic Resistance is the only way to withstand it.
 
@@ -14104,43 +13951,56 @@ When inventing new spells, you may wish to consult Perdo Corpus for guidelines a
 
 PeAn botches might affect the caster, or affect the wrong animal.
 
-Level 2: • Damage something made of animal products.
+| Level | Perdo Animal Guideline |
+| ----- | ---------------------- |
+| 2 | • Damage something made of animal products |
+| 3 | • Do superficial damage to a beast (for example, remove its hair) |
+| 4 | • Destroy something made of animal products<br>• Cause a beast pain, but do no real damage<br>• Make a beast lose one Fatigue level |
+| 5 | • Injure an animal so that it is hampered, but not damaged (for example, make a horse lame, a bird lose its voice, or weaken the scales of a serpent; this roughly halves the effectiveness of the targeted thing; recovery as from a Light Wound)<br>• Destroy an animal's corpse<br>• Inflict a Light Wound |
+| 10 | • Inflict a Medium Wound |
+| 15 | • Destroy one of a beast's minor senses<br>• Inflict a Heavy Wound<br>• Cripple a beast's limb, so that it is unusable but could heal<br>• Age a beast by one-twelfth of its natural lifespan (only affects beasts that have already reached maturity) |
+| 20 | • Inflict an Incapacitating Wound<br>• Destroy or sever a beast's limb, so that it cannot naturally regain it<br>• Destroy one of a beast's major senses |
+| 30 | • Kill an animal |
+| 40 | • Destroy one property of an animal, such as its weight or aggression |
 
-• Do superficial damage to a Level 3: beast (for example, remove its hair).
 
-• Destroy something made of Level 4: animal products.
 
-> • Cause a beast pain, but do no real damage.
+### Perdo Animal Spells
 
-Make a beast lose one Fatigue level.
+#### LEVEL 10
 
-Level 5: • Injure an animal so that it is hampered, but not damaged. For example, make a horse lame, a bird lose its voice, or weaken the scales of a serpent. This roughly halves the effectiveness of the targeted thing. Recovery as from a Light Wound.
+##### DECAY FUR AND HIDE
+R: Voice, D: Mom, T: Ind<br>
+Destroys an object made of animal fur or hide, including wool and leather. Marius of Tremere's version of this spell has the target disappear in an impressive puff of smoke.<br>
+(Base 4, +2 Voice)
 
-• Destroy an animal's corpse.
+#### LEVEL 15
 
-• Inflict a Light Wound.
+##### AGONY OF THE BEAST
+R: Voice, D: Conc, T: Ind<br>
+After you point at the beast and cast this spell, it begins lashing wildly about, upsetting any nearby objects, and howling in great pain. In order to do anything else, the beast must make a Stamina + Size stress roll against an Ease Factor of 9 each round.<br>
+(Base 4, +2 Voice, +1 Concentration)
 
-Level 10: • Inflict a Medium Wound.
+#### LEVEL 20
 
-Level 15: • Destroy one of a beast's minor senses.
+##### BLUNT THE VIPER'S FANGS 
+R: Voice, D: Momentary, T: Individual<br>
+Blunt the claws, teeth, talons, or other natural weapons of a beast. Only sharp weapons may be affected: this spell does not affect a weapon such as a horse's hoof or a giant snake's coils. The blunted weapon has its total damage (including Attack Advantage) reduced to half (round up). The beast may recover from the effect as if it were a Light Wound. The spell may affect animals of size up to +4.<br>
+(Base 5, +2 Voice, +1 size)
 
-• Inflict a Heavy Wound
+#### LEVEL 25
 
-• Cripple a beast's limb, so that it is unusable but could heal.
+##### THE FALCON'S HOOD
+R: Touch, D: Mom, T: Ind<br>
+Destroys an animal's vision. The blindness heals as if it is a Medium Wound. The title refers to the hood used to cover a falcon's eyes when it is not hunting. When cast by Asaron of Flambeau, this spell causes the animals it targets to bear a faint silhouette of a flame in their eves.<br>
+(Base 20, +1 Touch)
 
-• Age a beast by one-twelfth of its natural lifespan. Only affects beasts that have already reached maturity.
+##### CRIPPLE THE HOWLING WOLF
+R: Voice, D: Mom, T: Ind<br>
+When casting this spell, you commonly make an abrupt snapping motion with your hands. One of the target's legs breaks cleanly. The animal cannot walk on that leg, but the damage heals as a Medium Wound. Note that the target need not be a wolf, and that you cannot choose which leg.<br>
+(Base 15, +2 Voice)
 
-Level 20: • Inflict an Incapacitating Wound.
-
-> • Destroy or sever a beast's limb, so that it cannot naturally regain it.
-
-• Destroy one of a beast's major senses.
-
-Level 30: • Kill an animal.
-
-Level 40: • Destroy one property of an animal, such as its weight or aggression.
-
-## Rego Animal Guidelines
+### Rego Animal Guidelines
 
 You may further refer to Corpus for ideas and guidelines on controlling an animal's body, and Rego Mentem spells for ideas and guidelines on controlling an animal's mind.
 
@@ -14148,146 +14008,79 @@ Sigils typical in Rego Animal spells are those that cause beasts to act in certa
 
 ReAn botches could put the caster under the control of the animal, or make the animal act in a way opposite to that intended. They could also appear to work, and then suddenly reverse at an extremely inconvenient moment.
 
-- General: Ward against beings associated with Animal from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
-  - Create a circle warding against animals from one realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle). Note that animals are not necessarily associated with Animal, or vice versa
-- Level 1: Manipulate items made from animal products
-- Level 2: • Plant a single suggestion in the mind of an animal.
-  - Protect the target from animal attacks (only affects animals without supernatural abilities).
-  - Treat items made of animal products.
-- Level 3: Treat and process items made of animal products.
-- Level 4: Calm an animal.
-- Level 5: Manipulate an animal's emotions.
-  - Paralyze an animal.
-  - Ward against animals or objects made from animal products. (Touch, Ring, Circle)
-  - Control a disembodied spirit associated with Animal.
-  - Cause vermin to spontaneously generate in appropriate matter, such as flesh,
+| Level | Rego Animal Guideline |
+| ----- | --------------------- |
+| General | • Ward against beings associated with Animal from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle)<br>• Create a circle warding against animals from one realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle). Note that animals are not necessarily associated with Animal, or vice versa |
+| 1 | • Manipulate items made from animal products |
+| 2 | • Plant a single suggestion in the mind of an animal<br>• Protect the target from animal attacks (only affects animals without supernatural abilities)<br>• Treat items made of animal products |
+| 3 | • Treat and process items made of animal products |
+| 4 | • Calm an animal |
+| 5 | • Manipulate an animal's emotions<br>• Paralyze an animal<br>• Ward against animals or objects made from animal products (Touch, Ring, Circle)<br>• Control a disembodied spirit associated with Animal<br>• Cause vermin to spontaneously generate in appropriate matter, such as flesh, plants, soil, or water |
+| 10 | • Make an animal completely passive<br>• Transport an animal instantly up to 5 paces; non-living animal products are transported with Rego Terram (add 1 magnitude to increase distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection) |
+| 15 | • Completely control an animal<br>• Summon a disembodied spirit associated with Animal |
 
-plants, soil, or water.
-Level 10: • Make an animal completely passive.
+### Rego Animal Spells
 
-- Transport an animal instantly up to 5 paces. Non-living animal products are transported with Rego Terram. Add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection.
-- Level 15: Completely control an animal.
-  - Summon a disembodied spirit associated with Animal.
+#### GENERAL
 
-LEVEL 20
-
-T: Individual
-
-BLUNT THE VIPER'S FANGS R: Voice, D: Momentary,
-
-Blunt the claws, teeth, talons, or other natural weapons of a beast. Only sharp weapons may be affected: this spell does not affect a weapon such as a horse's hoof or a giant snake's coils. The blunted weapon has its total damage (including Attack Advantage) reduced to half (round up). The beast may recover from the effect as if it were a Light Wound. The spell may affect animals of size up to +4.
-
-(Base 5, +2 Voice, +1 size)
-
-LEVEL 25
-
-THE FALCON'S HOOD
-
-R: Touch, D: Mom, T: Ind
-
-Destroys an animal's vision. The blindness heals as if it is a Medium Wound. The title refers to the hood used to cover a falcon's eyes when it is not hunting.
-
-When cast by Asaron of Flambeau, this spell causes the animals it targets to bear a faint silhouette of a flame in their eves.
-
-(Base 20, +1 Touch)
-
-CRIPPLE THE HOWLING WOLF
-
-R: Voice, D: Mom, T: Ind
-
-When casting this spell, you commonly make an abrupt snapping motion with your hands. One of the target's legs breaks cleanly. The animal cannot walk on that leg, but the damage heals as a Medium Wound. Note that the target need not be a wolf, and that you cannot choose which leg.
-
-(Base 15, +2 Voice)
-
-## Rego Animal Spells
-
-**GENERAL**
-
-WARD AGAINST THE BEASTS OF LEGEND R: Touch, D: Ring, T: Circle
-
-No magical beast whose Magic Might is equal to or less than the level can affect anyone within the Circle
-
-or, if it is within the Circle, affect those outside. When a magus is making this and most other wards, a common gesture employed is the Fig Sign. The magus balls his or her right hand into a fist, placing the thumb between the index and middle fingers. A magus traveling to Italy should be warned that this sign is a deadly insult in that country.
-
+##### WARD AGAINST THE BEASTS OF LEGEND
+R: Touch, D: Ring, T: Circle<br>
+No magical beast whose Magic Might is equal to or less than the level can affect anyone within the Circle or, if it is within the Circle, affect those outside. When a magus is making this and most other wards, a common gesture employed is the Fig Sign. The magus balls his or her right hand into a fist, placing the thumb between the index and middle fingers. A magus traveling to Italy should be warned that this sign is a deadly insult in that country.<br>
 (As ward guideline)
 
-LEVEL 5
+#### LEVEL 5
 
-DISGUISE OF THE PUTRID AROMA
-
-R: Voice, D: Conc, T: Ind
-
-The target takes no interest in you as long as you continue to concentrate, and do not threaten it. A carnivore treats you as if you were simply something it does not eat. It retains normal interest, however, in anyone else nearby.
-
+##### DISGUISE OF THE PUTRID AROMA
+R: Voice, D: Conc, T: Ind<br>
+The target takes no interest in you as long as you continue to concentrate, and do not threaten it. A carnivore treats you as if you were simply something it does not eat. It retains normal interest, however, in anyone else nearby.<br>
 (Base 2, +2 Voice, +1 Concentration)
 
-CIRCLE OF BEAST WARDING
-
-R: Touch, D: Ring, T: Circle
-
-The caster inscribes a circle that no normal beast will cross.
-
+##### CIRCLE OF BEAST WARDING
+R: Touch, D: Ring, T: Circle<br>
+The caster inscribes a circle that no normal beast will cross.<br>
 (Base 2, +1 Touch, +2 Ring)
 
-LEVEL 10
+#### LEVEL 10
 
-SOOTHE THE FEROCIOUS BEAR
-
-R: Voice, D: Mom, T: Ind
-
-Calms an animal until it is threatened or aroused again. You must speak soothingly or musically to it, and something as simple as approaching it may arouse it again.
-
+##### SOOTHE THE FEROCIOUS BEAR
+R: Voice, D: Mom, T: Ind<br>
+Calms an animal until it is threatened or aroused again. You must speak soothingly or musically to it, and something as simple as approaching it may arouse it again.<br>
 (Base 4, +2 Voice)
 
-LEVEL 15
+#### LEVEL 15
 
-PANIC OF THE ELEPHANT'S MOUSE
-
-R: Eye, D: Conc, T: Ind
-
-Makes an animal afraid of the target by preying upon its instinctive fears, causing it to attempt escape by the quickest, most feasible means possible. The animal may make a Size stress roll against an Ease Factor of 9 to resist. (The title refers to the elephant's legendary fear of mice, but note that this spell cannot actually affect elephants, as they are too large.)
-
+##### PANIC OF THE ELEPHANT'S MOUSE
+R: Eye, D: Conc, T: Ind<br>
+Makes an animal afraid of the target by preying upon its instinctive fears, causing it to attempt escape by the quickest, most feasible means possible. The animal may make a Size stress roll against an Ease Factor of 9 to resist. (The title refers to the elephant's legendary fear of mice, but note that this spell cannot actually affect elephants, as they are too large.)<br>
 (Base 5, +1 Eye, +1 Concentration)
 
-#### VIPER'S GAZE
-
-R: Eye, D: Conc, T: Ind
-
-Holds an animal rigid as long as you maintain eye contact with it and concentrate on it.
-
+##### VIPER'S GAZE
+R: Eye, D: Conc, T: Ind<br>
+Holds an animal rigid as long as you maintain eye contact with it and concentrate on it.<br>
 (Base 5, +1 Eye, +1 Concentration)
 
 #### LEVEL 25
 
-#### THE GENTLE BEAST
-
-R: Eye, D: Conc, T: Ind
-
-Calms an animal, making it nearly fearless. It does not resist being ridden, shaved, or whatever else you can think of. If the animal enters combat, is extremely frightened, or incurs any kind of wound, the spell ends. The animal must be Size +4 or less.
-
+##### THE GENTLE BEAST
+R: Eye, D: Conc, T: Ind<br>
+Calms an animal, making it nearly fearless. It does not resist being ridden, shaved, or whatever else you can think of. If the animal enters combat, is extremely frightened, or incurs any kind of wound, the spell ends. The animal must be Size +4 or less.<br>
 (Base 10, +1 Eye, +1 Concentration, +1 size)
 
-#### MASTERING THE UNRULY BEAST
-
-R: Touch, D: Conc, T: Ind
-
-You can make an animal perform any act it is capable of. You can only issue new commands while touching the animal, but the animal will carry them out without requiring constant contact. Further, the animal will allow you to touch it throughout the duration of the spell. It is difficult to maintain control of particularly stubborn or fierce animals, such as mules or boars — creatures with appropriate Personality Traits may roll against an Ease Factor of 12 each round.
-
-When Chavin of Tytalus casts this spell, the creature acts surly and unfriendly while going about its tasks, even when Chavin doesn't specifically tell it to act that way.
-
+##### MASTERING THE UNRULY BEAST
+R: Touch, D: Conc, T: Ind<br>
+You can make an animal perform any act it is capable of. You can only issue new commands while touching the animal, but the animal will carry them out without requiring constant contact. Further, the animal will allow you to touch it throughout the duration of the spell. It is difficult to maintain control of particularly stubborn or fierce animals, such as mules or boars — creatures with appropriate Personality Traits may roll against an Ease Factor of 12 each round. When Chavin of Tytalus casts this spell, the creature acts surly and unfriendly while going about its tasks, even when Chavin doesn't specifically tell it to act that way.<br>
 (Base 15, +1 Touch, +1 Concentration)
 
 #### LEVEL 30
 
-#### Commanding the Harnessed Beast
-
-R: Touch, D: Sun, T: Ind
-
-You implant a complicated command into an animal, which it carries out to the best of its abilities. The command must involve completing a certain task, such as finding a certain person. Vague orders, like "protect me," do not work. If the animal does not complete the task before the end of the spell approaches, it becomes desperately ferocious, especially at night.
-
+##### Commanding the Harnessed Beast
+R: Touch, D: Sun, T: Ind<br>
+You implant a complicated command into an animal, which it carries out to the best of its abilities. The command must involve completing a certain task, such as finding a certain person. Vague orders, like "protect me," do not work. If the animal does not complete the task before the end of the spell approaches, it becomes desperately ferocious, especially at night.<br>
 (Base 15, +1 Touch, +2 Sun)
 
-# Aquam Spells
+---
+
+## Aquam Spells
 
 Aquam spells affect water and all other liquids. Liquids that are part of a body, particularly a living body, can only be affected by spells designed specifically to do so, with appropriate requisites.
 
@@ -14295,25 +14088,15 @@ The application of the target categories to Aquam magic is not as obvious as it 
 
 *Individual:* A stretch of water with the same composition and current. A small pond, part of a stream, or a spring.
 
-Part: A part of an Individual. This category applies easily.
+*Part:* A part of an Individual. This category applies easily.
 
 *Group*: A number of Individuals. This can include a large river, where there are several different currents, a number of rivers flowing together, or a lake.
 
-Room, Structure and Boundary: work as for other Forms; the spell affects all the liquid within the target area.
+*Room, Structure and Boundary:* work as for other Forms; the spell affects all the liquid within the target area.
 
 A base Individual for Aquam is a pool of water about five paces (fifteen feet) across, and two paces deep at the center. Naturally-occurring liquids, such as fruit juice or olive oil, have a base Individual one-tenth the size. about two paces across and about one deep. Processed liquids, such as wine or beer, have a base Individual one hundredth the size, a pool about one pace across and half a pace deep. Corrosive and otherwise dangerous liquids have a base Individual ten times smaller again, a puddle about half a pace across and about a fifth of a pace deep. Poisons have a base Individual of a single dose.
 
-## Creo Aquam Spells
-
-#### LEVEL 5
-
-FOOTSTEPS OF SLIPPERY OIL
-
-R: Touch, D: Diam, T: Ind
-
-From each of the next ten footsteps the caster of this spell takes, nonflammable grease spreads out, leaving a slick area 10 paces wide. Dexterity stress rolls are required to remain upright whenever a character on the oil does something more
-
-## Creo Aquam Guidelines
+### Creo Aquam Guidelines
 
 Water created temporarily quenches thirst but provides no lasting benefits to the drinker. It can be used to wash, and the things washed stay clean. Common sigils for Creo Aquam spells include water with a specific scent, color, or flavor.
 
@@ -14323,23 +14106,50 @@ Slightly unnatural liquids are one magnitude harder than water, very unnatural l
 
 Poisons created at the guideline level have an Ease Factor of 3. Each magnitude added to the level of the spell adds 3 to the Ease Factor.
 
-- General: Create a corrosive substance doing +(Level) damage.
-  Increasing the range to more than Touch is a very good idea.
-- Level 2: Fill a container with water (or some other natural liquid, with appropriate requisites).
-- Level 3: Create water (or some other natural liquid) that is not contained (for example, spread over a surface).
-  - Create ice in a natural shape, such as a floe or icicle.
-- Level 4: Create water (or some other natural liquid) in an unnatural shape (for example, in a sphere over someone's head) but water so created will behave normally.
-  - Create a spring with a low rate of flow.
-- Level 5: Create a poison that causes a Light Wound.
-  - Create a spring with a high rate of flow.
-- Level 10: Create a geyser with a very high rate of flow.
-  - Create poison that causes a Medium Wound.
-- Level 15: Create poison that causes a Heavy Wound.
-- Level 20: Create a poison that causes an Incapacitating Wound.
-- Level 25: Create a poison that causes a Fatal Wound.
-  - Create a water elemental from a base amount of elemental material. (Ritual)
+| Level | Creo Aquam Guideline |
+| ----- | -------------------- |
+| General | • Create a corrosive substance doing +(Level) damage (increasing the range to more than Touch is a very good idea) |
+| 2 | • Fill a container with water (or some other natural liquid, with appropriate requisites) |
+| 3 | • Create water (or some other natural liquid) that is not contained (for example, spread over a surface)<br>• Create ice in a natural shape, such as a floe or icicle |
+| 4 | • Create water (or some other natural liquid) in an unnatural shape (for example, in a sphere over someone's head) — but water so created will behave normally<br>• Create a spring with a low rate of flow |
+| 5 | • Create a poison that causes a Light Wound<br>• Create a spring with a high rate of flow |
+| 10 | • Create a geyser with a very high rate of flow<br>• Create poison that causes a Medium Wound |
+| 15 | • Create poison that causes a Heavy Wound |
+| 20 | • Create a poison that causes an Incapacitating Wound |
+| 25 | • Create a poison that causes a Fatal Wound<br>• Create a water elemental from a base amount of elemental material (Ritual) |
 
-## Intellego Aquam Guidelines
+
+### Creo Aquam Spells
+
+#### LEVEL 5
+
+##### FOOTSTEPS OF SLIPPERY OIL
+R: Touch, D: Diam, T: Ind<br>
+From each of the next ten footsteps the caster of this spell takes, nonflammable grease spreads out, leaving a slick area 10 paces wide. Dexterity stress rolls are required to remain upright whenever a character on the oil does something more challenging than walking. A roll against an Ease Factor of 6 is needed for the average maneuver, with Ease Factors of up to 15 needed to (for example) make a right turn at full speed on a smooth, greased surface. The duration is the length of time that the oil lasts. This spell was invented by a rather good-natured magus, and the gestures associated with the most common variations of the spell are as comical as the effects themselves. You stand first on one leg, and then the other, vigorously rubbing the bottom of each upturned foot, as if spreading on a salve.<br>
+(Base 3, +1 Touch, +1 Diam)
+
+#### LEVEL 15
+
+##### CREEPING OIL
+R: Voice, D: Sun, T: Ind<br>
+Saturates a porous material with flammable oil. When casting this spell, you make a flicking motion with your index finger and thumb, as if propelling something at the target. A dot of oil appears on the target after the spell is finished, and slowly spreads over the target, saturating enough cloth to cover a person. If used on a person's clothes and ignited, the oil does +12 damage the first round, +6 the second, and +0 the third.<br>
+(Base 3, +2 Voice, +2 Sun)
+
+#### LEVEL 20
+
+##### MIGHTY TORRENT OF WATER
+R: Voice, D: Mom, T: Ind<br>
+A 3-foot-diameter jet of water sprays from your outstretched arms towards your target. The target of this gusher of water takes +10 damage and must make a Strength + Size stress roll against an Ease Factor of 9 or be sent flying back. Marbaid of Flambeau's wizard's sigil is connected to his obsession with blood. In his version of the spell the target is hit by a gush of blood, and the stains do not go away until sunrise/sunset. This does not require a requisite, as it is a purely cosmetic effect.<br>
+(Base 10, +2 Voice)
+
+#### LEVEL 40
+
+#### DELUGE OF RUSHING AND DASHING
+R: Voice, D: Conc, T: Ind<br>
+Causes a stream to flood, starting at the stream's nearest point to you and continuing downstream. The results of this spell are generally quite impressive. As the stream overflows its original bed, it becomes a raging torrent, sucking in everything near it. Damage from the spell can last for many years. As long as you concentrate, the stream remains at flood levels. Anyone caught near the stream when it floods is struck by the rush of water (+10 damage), caught up in the flood, and dragged along. Every round, a victim makes a Strength + Swim stress roll against an Ease Factor of 9. Success means the character escapes the flood. Otherwise, the character loses one Fatigue level and takes +5 damage. Any who fall unconscious drown. This roll is repeated until the character either escapes the flood or dies.<br>
+(Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)
+
+### Intellego Aquam Guidelines
 
 Note that Intellego Aquam spells do not normally require requisites depending on the type of liquid targeted.
 
@@ -14347,127 +14157,60 @@ Most sigils manifest in Intellego Aquam spells by causing the information to be 
 
 Botched InAq spells generally provide false information.
 
-- Level 1: Make a sense unaffected by water.
-- Level 2: Get an image of water within range.
-- Level 3: Get an image of water and its immediate surroundings within range.
-  - Learn the natural properties of a liquid.
-- Level 4: Learn the natural properties of a mixture of liquids.
-- Level 5: Learn the magical properties of a liquid
-- Level 10: Learn the magical properties of a mixture of liquids.
-- Level 15. Speak with a natural body of water
-- Level 20: Speak with an artificial body of water (like a fountain).
+| Level | Intellego Aquam Guideline |
+| ----- | ------------------------- |
+| 1 | • Make a sense unaffected by water |
+| 2 | • Get an image of water within range |
+| 3 | • Get an image of water and its immediate surroundings within range<br>• Learn the natural properties of a liquid |
+| 4 | • Learn the natural properties of a mixture of liquids |
+| 5 | • Learn the magical properties of a liquid |
+| 10 | • Learn the magical properties of a mixture of liquids |
+| 15 | • Speak with a natural body of water |
+| 20 | • Speak with an artificial body of water (like a fountain) |
 
-challenging than walking. A roll against an Ease Factor of 6 is needed for the average maneuver, with Ease Factors of up to 15 needed to (for example) make a right turn at full speed on a smooth, greased surface. The duration is the length of time that the oil lasts.
 
-This spell was invented by a rather good-natured magus, and the gestures associated with the most common variations of the spell are as comical as the effects themselves. You stand first on one leg, and then the other, vigorously rubbing the bottom of each upturned foot, as if spreading on a salve.
-
-(Base 3, +1 Touch, +1 Diam)
-
-#### LEVEL 15
-
-#### CREEPING OIL
-
-R: Voice, D: Sun, T: Ind
-
-Saturates a porous material with flammable oil. When casting this spell, you make a flicking motion with your index finger and thumb, as if propelling something at the target. A dot of oil appears on the target after the spell is finished, and slowly spreads over the target, saturating enough cloth to cover a person. If used on a person's clothes and ignited, the oil does +12 damage the first round, +6 the second, and +0 the third.
-
-(Base 3, +2 Voice, +2 Sun)
-
-#### LEVEL 20
-
-#### MIGHTY TORRENT OF WATER
-
-R: Voice, D: Mom, T: Ind
-
-A 3-foot-diameter jet of water sprays from your outstretched arms towards your target. The target of this gusher of water takes +10 damage and must make a Strength + Size stress roll against an Ease Factor of 9 or be sent flying back.
-
-Marbaid of Flambeau's wizard's sigil is connected to his obsession with blood. In his version of the spell the target is hit by a gush of blood, and the stains do not go away until sunrise/sunset. This does not require a requisite, as it is a purely cosmetic effect.
-
-(Base 10, +2 Voice)
-
-#### LEVEL 40
-
-#### DELUGE OF RUSHING AND DASHING
-
-R: Voice, D: Conc, T: Ind
-
-Causes a stream to flood, starting at the stream's nearest point to you and continuing downstream. The results of this spell are generally quite impressive. As the stream overflows its original bed, it becomes a raging torrent, sucking in everything near it. Damage from the spell can last for many years.
-
-As long as you concentrate, the stream remains at flood levels. Anyone caught near the stream when it floods is struck by the rush of water (+10 damage), caught up in the flood, and dragged along. Every round, a victim makes a Strength + Swim stress roll against an Ease Factor of 9. Success means the character escapes the flood. Otherwise, the character loses one Fatigue level and takes +5 damage. Any who fall unconscious drown. This roll is repeated until the character either escapes the flood or dies.
-
-(Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)
-
-## Intellego Aquam Spells
+### Intellego Aquam Spells
 
 #### LEVEL 5
 
-#### CLEAR SIGHT OF THE NAIAD
-
-R: Per, D: Mom, T: Vision
-
-You can see as clearly through water as through air, for a single moment.
-
+##### CLEAR SIGHT OF THE NAIAD
+R: Per, D: Mom, T: Vision<br>
+You can see as clearly through water as through air, for a single moment.<br>
 (Base 1, +4 Vision)
 
-#### Subtle Taste of Poison and Purity
-
-R: Per, D: Conc, T: Taste
-
-You can taste all of the properties of any liquid or mixture of liquids. Unlike *Touch of the Pearls*, you can use this sense on any number of liquids during the duration of the spell, but you must taste the liquids in question.
-
+##### SUBTLE TASTE OF POISON AND PURITY
+R: Per, D: Conc, T: Taste<br>
+You can taste all of the properties of any liquid or mixture of liquids. Unlike *Touch of the Pearls*, you can use this sense on any number of liquids during the duration of the spell, but you must taste the liquids in question.<br>
 (Base 4, +1 Concentration)
 
-Touch of the Pearls
-
-R: Touch, D: Mom, T: Ind
-
-Tells you whether a liquid you hold or touch is poisonous, just as a pearl sometimes does. Safer than Subtle Taste of Poison and Purity, as you don't have to taste the possibly poisonous liquid.
-
-In Verdan of Ex Miscellanea's version of the spell, poisonous liquids turn a faint green. According to his sigil, all his spells involve the color green.
-
+##### TOUCH OF THE PEARLS
+R: Touch, D: Mom, T: Ind<br>
+Tells you whether a liquid you hold or touch is poisonous, just as a pearl sometimes does. Safer than Subtle Taste of Poison and Purity, as you don't have to taste the possibly poisonous liquid. In Verdan of Ex Miscellanea's version of the spell, poisonous liquids turn a faint green. According to his sigil, all his spells involve the color green.<br>
 (Base 4, +1 Touch)
 
 #### LEVEL 15
 
-Call of the Rushing Waters R: Arc, D: Conc, T: Ind
-
-Allows you to find any natural body of water for which you have an Arcane Connection (for example, a vial of water from it). Once you cast the spell, you can hear the water while you concentrate. Following the sound eventually brings you to the water, but you must make simple Perception rolls against an Ease Factor of 6 to follow the sound accurately (roll once per day for long journeys). If you break concentration, you must cast the spell again. A body of water that does not move or that makes little noise requires a roll against an Ease Factor of 9 to be traced.
-
+##### CALL OF THE RUSHING WATERS
+R: Arc, D: Conc, T: Ind<br>
+Allows you to find any natural body of water for which you have an Arcane Connection (for example, a vial of water from it). Once you cast the spell, you can hear the water while you concentrate. Following the sound eventually brings you to the water, but you must make simple Perception rolls against an Ease Factor of 6 to follow the sound accurately (roll once per day for long journeys). If you break concentration, you must cast the spell again. A body of water that does not move or that makes little noise requires a roll against an Ease Factor of 9 to be traced.<br>
 (Base 2, +4 Arcane Connection, +1 Concentration)
 
 #### LEVEL 25
 
-VOICE OF THE LAKE
-
-R: Touch, D: Conc, T: Ind
-
-You can hold a conversation with a body of water. A body of water usually knows about things directly in contact with it, such as boats and fish. Genuine lakes are too complex for this spell to affect; they are not Individuals of Aquam.
-
+##### VOICE OF THE LAKE
+R: Touch, D: Conc, T: Ind<br>
+You can hold a conversation with a body of water. A body of water usually knows about things directly in contact with it, such as boats and fish. Genuine lakes are too complex for this spell to affect; they are not Individuals of Aquam.<br>
 (Base 15, +1 Touch, +1 Concentration)
 
 #### LEVEL 30
 
-ENCHANTMENT OF THE SCRYING POOL
-
-R: Touch, D: Year, T: Ind, Ritual Req: Imaginem
-
-Turns a body of water into a scrying pool. Innately magical people (including most companions with mystical powers) who look into the pool can see any spot they know of that is within sight of some natural body of water. The view you get is the same view that someone would have from a low boat on the water either close to shore or far from shore, as desired. Maximum range for scrying is 500 miles; the range of the spell is the range to the pool when the spell is cast. This ritual is not entirely of Hermetic magic, and does not conform to the normal InAq guidelines. It is an old Mercurian ritual that has become known throughout the Order, and which appears to use one body of water as an Arcane Connection to any other body of water. A number of theoreticians would like to make that work more generally, but so far this has not proved possible.
-
+##### ENCHANTMENT OF THE SCRYING POOL
+R: Touch, D: Year, T: Ind, Ritual<br>
+Req: Imaginem<br>
+Turns a body of water into a scrying pool. Innately magical people (including most companions with mystical powers) who look into the pool can see any spot they know of that is within sight of some natural body of water. The view you get is the same view that someone would have from a low boat on the water either close to shore or far from shore, as desired. Maximum range for scrying is 500 miles; the range of the spell is the range to the pool when the spell is cast. This ritual is not entirely of Hermetic magic, and does not conform to the normal InAq guidelines. It is an old Mercurian ritual that has become known throughout the Order, and which appears to use one body of water as an Arcane Connection to any other body of water. A number of theoreticians would like to make that work more generally, but so far this has not proved possible.<br>
 (Special spell)
 
-## Muto Aquam Spells
-
-#### LEVEL 15
-
-Incantation of Putrid Wine
-
-R: Touch, D: Sun, T: Room
-
-Makes all liquids within the target room vile, and malodorous. The room where this spell is cast may not lose the stench for weeks or months. Note that this spell only affects liquids that are in the room when it is cast, and they remain malodorous even if removed from the room.
-
-(Base 2, +1 Touch, +2 Sun, +2 Room)
-
-## Muto Aquam Guidelines
+### Muto Aquam Guidelines
 
 You cannot transform liquids within someone's body unless the spell is designed that way (and has a Corpus or Animal requisite).
 
@@ -14475,233 +14218,91 @@ Muto Aquam botches might change liquids inside the caster, change the wrong liqu
 
 Poisons created at the guideline level have an Ease Factor of 3. For every magnitude added to the spell, add three to the Ease Factor.
 
-General: • Change a liquid into a liquid that does +(Level) points of damage on contact.
+| Level | Muto Aquam Guideline |
+| ----- | -------------------- |
+| General | • Change a liquid into a liquid that does +(Level) points of damage on contact<br>• Convert part of a water elemental's body into another type of water (salt water to fresh water, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter |
+| 2 | • Change a natural liquid into another natural liquid<br>• Change a liquid into a poison causing a Light Wound |
+| 3 | • Change a liquid into a poison causing a Medium Wound<br>• Change a natural liquid into a slightly unnatural liquid (for example, make blue water or strawberry flavored castor oil), or vice versa |
+| 4 | • Change a liquid into an unrelated solid or gas (with requisites; Terram for solids and Auram for gases)<br>• Change a natural liquid into two or more different natural liquids, with the two types separate (although they will mix again normally)<br>• Change a liquid into a poison causing a Heavy Wound<br>• Change a liquid into a very unnatural liquid (for example, a shocking pink liquid that causes bizarre hallucinations) — requisites will often be required |
+| 5 | • Change a liquid into a mixture of any liquid, solid (with Terram requisite), or gas (with Auram requisite)<br>• Change a liquid into a slightly unnatural solid or gas<br>• Change a liquid into a poison causing an Incapacitating Wound |
+| 10 | • Change a liquid into a very unnatural solid or gas<br>• Change a liquid into a poison causing a Fatal Wound |
 
-- Convert part of a water elemental's body into another type of water (salt water to fresh water, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter.
-- Level 2: Change a natural liquid into another natural liquid.
-  - Change a liquid into a poison causing a Light Wound.
+### Muto Aquam Spells
 
-Level 3: • Change a liquid into a poison causing a Medium Wound.
+#### LEVEL 15
 
-Change a natural liquid into a slightly unnatural liquid (for example, make blue water or strawberry flavored castor oil), or vice versa.
+##### INCANTATION OF PUTRID WINE
+R: Touch, D: Sun, T: Room<br>
+Makes all liquids within the target room vile, and malodorous. The room where this spell is cast may not lose the stench for weeks or months. Note that this spell only affects liquids that are in the room when it is cast, and they remain malodorous even if removed from the room.<br>
+(Base 2, +1 Touch, +2 Sun, +2 Room)
 
-Level 4: • Change a liquid into an unrelated solid or gas (with requisites; Terram for solids and Auram for gases).
+#### LEVEL 20
 
-Change a natural liquid into two or more different natural liquids, with the two types separate (although they will mix again normally).
+##### LUNGS OF THE FISH
+R: Touch, D: Sun, T: Part<br>
+Req: Auram<br>
+Turns water into air as it enters your lungs, allowing you to breathe water as you do air. This spell puzzles Hermetic theoreticians, as it behaves like a dynamic container target despite not being a container target. All known attempts to create analogous effects have failed, even though analysis of this spell has not revealed any sign of non-Hermetic influence, or integrated experimentation. Most magi just point to it as an example of how Hermetic magic is not fully understood, and get on with their lives.<br>
+(Base 4, +1 Touch, +2 Sun, +1 Part)
 
-• Change a liquid into a poison causing a Heavy Wound.
+#### LEVEL 45
 
-Change a liquid into a very unnatural liquid (for example, a shocking pink liquid that causes bizarre hallucinations) — requisites will often be required.
+#### VILE WATER OF STERILITY
+R: Touch, D: Year, T: Group, Ritual<br>
+Ruins a body of water up to the size of a small lake, making it unfit for natural habitation and consumption. The water becomes dark and murky, and noxious fumes emanate from it. Vegetation on the banks either dies or becomes corrupt. Nearby trees become gnarled and blackened, and land animals flee the area.<br>
+(Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)
 
-Level 5: • Change a liquid into a mixture of any liquid, solid (with Terram requisite), or gas (with Auram requisite).
-
-• Change a liquid into a slightly unnatural solid or gas.
-
-• Change a liquid into a poison causing an Incapacitating Wound.
-
-Level 10: • Change a liquid into a very unnatural solid or gas.
-
-• Change a liquid into a poison causing a Fatal Wound.
-
-## Perdo Aquam Guidelines
+### Perdo Aquam Guidelines
 
 As magnitudes in these spells rise, the destruction caused becomes more subtle, or more pervasive. Sigils commonly seen in Perdo Aquam spells usually involve destruction in some specific way. Destroying water that is part of something, such as the fluid in a human being, requires a target of Part. Destroying water that is merely on someone, such as the water making a person wet, only needs a target of Individual.
 
 Perdo Aquam botches might destroy all water in the caster, as Curse of the Desert, or create water instead of destroying it.
 
-General: • Destroy sufficient matter to reduce a water elemental's Might Score by the level of the spell +2 magnitudes.
+| Level | Perdo Aquam Guideline |
+| ----- | --------------------- |
+| General | • Destroy sufficient matter to reduce a water elemental's Might Score by the level of the spell +2 magnitudes |
+| 4 | • Completely dry something (up to the size of a small house) that is wet |
+| 5 | • Greatly reduce the amount of a liquid without destroying it completely |
+| 10 | • Destroy a liquid (requisites may be required) |
+| 15 | • Destroy one property of a liquid (like alcohol's ability to intoxicate or sea water's saltiness) |
+| 20 | • Destroy a small spring, so that it never flows again |
 
-Level 4: • Completely dry something (up to the size of a small house) that is wet.
-
-Level 5: • Greatly reduce the amount of a liquid without destroying it completely.
-
-Level 10: • Destroy a liquid (requisites may be required).
-
-Level 15: • Destroy one property of a liquid (like alcohol's ability to intoxicate or sea water's saltiness).
-
-Level 20: • Destroy a small spring, so that it never flows again.
-
-LUNGS OF THE FISH
-
-R: Touch, D: Sun, T: Part
-
-Req: Auram
-
-your lungs, allowing you to breathe water as you do air. This spell puzzles Hermetic theoreticians, as it behaves like a dynamic container target despite not being a container target.
-
-All known attempts to create analogous effects have failed, even though analysis of this spell has not revealed any sign of non-Hermetic influence, or integrated experimentation. Most magi just point to it as an example of how Hermetic magic is not fully understood, and get on with their lives.
-
-(Base 4, +1 Touch, +2 Sun, +1 Part)
-
-#### LEVEL 45
-
-VILE WATER OF STERILITY
-
-R: Touch, D: Year,
-
-T: Group, Ritual
-
-Ruins a body of water up to the size of a small lake, making it unfit for natural habitation and consumption. The water becomes dark and murky, and noxious fumes emanate from it. Vegetation on the banks either dies or becomes corrupt. Nearby trees become gnarled and blackened, and land animals flee the area.
-
-(Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)
-
-## Perdo Aquam Spells
+### Perdo Aquam Spells
 
 #### LEVEL 5
 
-COMFORT OF THE DRENCHED TRAVELER
-
-R: Touch, D: Mom, T: Ind
-
-Dries a person and his or her clothes. (Base 4, +1 Touch)
+##### COMFORT OF THE DRENCHED TRAVELER
+R: Touch, D: Mom, T: Ind<br>
+Dries a person and his or her clothes.<br>
+(Base 4, +1 Touch)
 
 #### LEVEL 20
 
-PARCHING WIND
-
-R: Voice, D: Mom, T: Part
-
-Removes most of the water from any object, including plants (with a Herbam requisite), possibly making the object brittle and fragile. With a Corpus or Animal requisite, the spell can affect humans or animals. This causes +10 damage, against which armor is no defense, and makes the target extremely thirsty.
-
+##### PARCHING WIND
+R: Voice, D: Mom, T: Part<br>
+Removes most of the water from any object, including plants (with a Herbam requisite), possibly making the object brittle and fragile. With a Corpus or Animal requisite, the spell can affect humans or animals. This causes +10 damage, against which armor is no defense, and makes the target extremely thirsty.<br>
 (Base 5, +2 Voice, +1 Part)
 
 #### LEVEL 25
 
-CLOSING THE EARTH'S GATE
-
-R: Touch, D: Mom, T: Ind
-
-Dries a single spring, so that it never flows again. This spell targets the spring, not the water in it at a particular time, so the spring does not start to flow again later.
-
+##### CLOSING THE EARTH'S GATE
+R: Touch, D: Mom, T: Ind<br>
+Dries a single spring, so that it never flows again. This spell targets the spring, not the water in it at a particular time, so the spring does not start to flow again later.<br>
 (Base 20, +1 Touch)
 
-#### Curse of the Desert
-
-R: Voice, D: Mom, T: Part
-
-Removes virtually all the fluid from the target's body, doing +15 damage, which armor does not protect against. The target must drink within a few minutes of being struck with this spell, or it dies. Casting requisites are Animal for beasts, and Corpus for humans.
-
+#### CURSE OF THE DESERT
+R: Voice, D: Mom, T: Part<br>
+Removes virtually all the fluid from the target's body, doing +15 damage, which armor does not protect against. The target must drink within a few minutes of being struck with this spell, or it dies. Casting requisites are Animal for beasts, and Corpus for humans.<br>
 (Base 10, +2 Voice, +1 Part)
 
 #### LEVEL 50
 
-CALLING THE ODIOUS DROUGHT
-
-R: Touch, D: Year,
-
-T: Bound, Ritual
-
-**Req**: Auram
-
-Causes a drought over the surrounding area. Only one-tenth the normal rain falls, streams dry up, and rivers dwindle.
-
+##### CALLING THE ODIOUS DROUGHT
+R: Touch, D: Year, T: Bound, Ritual<br>
+Req: Auram<br>
+Causes a drought over the surrounding area. Only one-tenth the normal rain falls, streams dry up, and rivers dwindle.<br>
 (Base 5, +1 Touch, +4 Year, +4 Boundary, no increase for requisite)
 
-## Rego Aquam Spells
-
-#### GENERAL.
-
-WARD AGAINST FAERIES OF THE WATERS
-
-R: Touch, D: Ring, T: Circle
-
-No water faerie whose Faerie Might is equal to or less than the level of the spell can affect those targeted by the spell. Faeries cannot directly or indirectly break the magic circle, nor can they use ranged attacks or magic to affect those within it.
-
-Seen from certain angles at night, the ring appears as a light blue dome.
-
-(Base spell)
-
-#### LEVEL 5
-
-CLOAK OF THE DUCK'S FEATHERS
-
-R: Touch, D: Sun, T: Ind
-
-Makes water run off one object or creature, protecting the target and the target's apparel from dampness. The spell is broken if the target is submerged in water.
-
-(Base 1, +1 Touch, +2 Sun, +1 for slightly unnatural control)
-
-Turns water into air as it enters
-
-#### LEVEL 10
-
-Break the Oncoming Wave
-
-R: Per, D: Conc, T: Ind
-
-Breaks all waves and torrents of water (including magical ones) just before they touch you. The water either crashes to the ground or flows around you in a truly impressive display.
-
-In Ferramentum of Verditius's version of this spell, the water breaks precisely one inch from the target, leaving a very clean line showing where the waves stopped. All of his spells may be recognized by their orderliness.
-
-(Base 5, +1 Conc, ward, so the target is the warded Individual, not the water)
-
-#### LEVEL 15
-
-#### Breath of Winter
-
-R: Touch, D: Sun, T: Part
-
-Turns a circle of water up to five paces across into snow. The Duration ensures that it will not melt until the spell expires, no matter how warm the weather.
-
-(Base 3, +1 Touch, +2 Sun, +1 Part)
-
-#### PUSH OF THE GENTLE WAVE
-
-R: Voice, D: Conc T: Ind
-
-A low wave is formed to propel a small boat slowly through the water. When casting this spell, you commonly make a pushing gesture. This spell, and other similar ones, pick out a particular current in the body of water and make it behave as desired, and thus have Individual Targets.
-
-In Silva of Merinita's version of this spell, the wave occasionally drifts or bobs about, as if it is happy and playful.
-
-(Base 4, +2 Voice, +1 Conc)
-
-#### LEVEL 30
-
-BRIDGE OF FROST
-
-R: Voice, D: Sun, T: Part
-
-Causes a thick layer of frost (firm enough to walk on) to form on the surface of a body of water. The frost can take any shape up to fifteen paces in any direction.
-
-In Cralian of Tremere's version of this spell, the frost is so crystal clear that it can hardly be seen. All of his spells are very subtle.
-
-(Base 3, +2 Voice, +2 Sun, +1 Part, +1 size, +1 to allow various shapes)
-
-CHAOS OF THE ANGRY WAVES
-
-R: Voice, D: Conc, T: Part
-
-Causes water to churn wildly, overturning small water craft and forcing Swim rolls at -6, in a circular area 20 paces across.
-
-(Base 5, +2 Voice, +1 Conc, +1 Part, +1 size)
-
-#### PARTING THE WAVES
-
-R: Touch, D: Conc, T: Group
-
-Parts a body of water, revealing a dry path 5 paces wide along the bottom. Very large bodies of water are too large for the Group target, and are thus unaffected.
-
-(Base 10, +1 Touch, +1 Conc, +2 Group)
-
-Waves of Drowning and Smashing
-
-R: Sight, D: Mom, T: Ind
-
-Raises a wave 5 feet high and 30 paces wide, which can submerge swimmers, overturn rowboats, and damage sailing ships. It starts as a small, curved wave and grows for the first 10 paces, at which point it reaches maximum size. If it travels 100 paces without striking an object large enough to break it up, it dissipates.
-
-(Base 10, +3 Sight, +1 size)
-
-#### LEVEL 35
-
-ICE OF DROWNING
-
-R: Voice, D: Conc, T: Part
-
-Turns part of the water in a circle 10 paces across into large, jagged chunks of ice and drives them to pound against anything on the water's surface. The ice can punch holes in small boats but does not damage ships. Any swimmers in the area take +15 damage, and suffer -6 and two extra botch checks on Swim rolls.
-
-(Base 5 (for the violent pounding), +2 Voice, +1 Concentration, +1 Part, +1 size, +1 additional effect, changing the water to ice)
-
-## Rego Aquam Guidelines
+### Rego Aquam Guidelines
 
 Rego Aquam can change water into ice or steam, because these are both states that water can have naturally.
 
@@ -14709,76 +14310,101 @@ Rego Aquam botches generally involve spectacular and dangerous loss of control o
 
 Add one magnitude if the controlled movement is slightly unnatural, two if it is very unnatural.
 
-General: • Ward against beings associated with Aquam from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
+| Level | Rego Aquam Guideline |
+| ----- | -------------------- |
+| General | • Ward against beings associated with Aquam from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 1 | • Control a liquid in an extremely gentle way |
+| 3 | • Change a liquid into the corresponding solid or gas (for example, change water into ice or steam); this does not require requisites |
+| 4 | • Control a liquid in a forceful but calm way, such as a fast but constant current<br>• Transport a liquid instantly up to 5 paces (add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection) |
+| 5 | • Ward against mundane water<br>• Control a liquid in a violent way<br>• Control a disembodied spirit associated with Aquam<br>• Completely control a water elemental |
+| 10 | • Control a liquid in an extremely violent way |
+| 15 | • Summon a disembodied spirit associated with Aquam |
+| 20 | • Ward against liquids (Touch, Ring, Circle) |
 
-Level 1: • Control a liquid in an extremely gentle way.
+### Rego Aquam Spells
 
-Level 3: • Change a liquid into the corresponding solid or gas (for example, change water into ice or steam). This does not require requisites.
+#### GENERAL
 
-Level 4: • Control a liquid in a forceful but calm way, such as a fast but constant current.
+##### WARD AGAINST FAERIES OF THE WATERS
+R: Touch, D: Ring, T: Circle<br>
+No water faerie whose Faerie Might is equal to or less than the level of the spell can affect those targeted by the spell. Faeries cannot directly or indirectly break the magic circle, nor can they use ranged attacks or magic to affect those within it. Seen from certain angles at night, the ring appears as a light blue dome.<br>
+(Base spell)
 
-• Transport a liquid instantly up to 5 paces. Add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection.
+#### LEVEL 5
 
-Level 5: • Ward against mundane water.
+##### CLOAK OF THE DUCK'S FEATHERS
+R: Touch, D: Sun, T: Ind<br>
+Makes water run off one object or creature, protecting the target and the target's apparel from dampness. The spell is broken if the target is submerged in water.<br>
+(Base 1, +1 Touch, +2 Sun, +1 for slightly unnatural control)
 
-• Control a liquid in a violent way.
+#### LEVEL 10
 
-• Control a disembodied spirit associated with Aquam.
+##### BREAK THE ONCOMING WAVE
+R: Per, D: Conc, T: Ind<br>
+Breaks all waves and torrents of water (including magical ones) just before they touch you. The water either crashes to the ground or flows around you in a truly impressive display. In Ferramentum of Verditius's version of this spell, the water breaks precisely one inch from the target, leaving a very clean line showing where the waves stopped. All of his spells may be recognized by their orderliness.<br>
+(Base 5, +1 Conc, ward, so the target is the warded Individual, not the water)
 
-• Completely control a water elemental.
+#### LEVEL 15
 
-Level 10: • Control a liquid in an extremely violent way.
+##### BREATH OF WINTER
+R: Touch, D: Sun, T: Part<br>
+Turns a circle of water up to five paces across into snow. The Duration ensures that it will not melt until the spell expires, no matter how warm the weather.<br>
+(Base 3, +1 Touch, +2 Sun, +1 Part)
 
-Level 15: • Summon a disembodied spirit associated with Aquam.
+##### PUSH OF THE GENTLE WAVE
+R: Voice, D: Conc T: Ind<br>
+A low wave is formed to propel a small boat slowly through the water. When casting this spell, you commonly make a pushing gesture. This spell, and other similar ones, pick out a particular current in the body of water and make it behave as desired, and thus have Individual Targets. In Silva of Merinita's version of this spell, the wave occasionally drifts or bobs about, as if it is happy and playful.<br>
+(Base 4, +2 Voice, +1 Conc)
 
-Level 20: • Ward against liquids. (Touch, Ring, Circle)
+#### LEVEL 30
 
-## Creo Auram Guidelines
+##### BRIDGE OF FROST
+R: Voice, D: Sun, T: Part<br>
+Causes a thick layer of frost (firm enough to walk on) to form on the surface of a body of water. The frost can take any shape up to fifteen paces in any direction. In Cralian of Tremere's version of this spell, the frost is so crystal clear that it can hardly be seen. All of his spells are very subtle.<br>
+(Base 3, +2 Voice, +2 Sun, +1 Part, +1 size, +1 to allow various shapes)
 
-Weather phenomena are normally created at Sight range. This is because most weather phenomena (clouds, rain, storms, and so on) naturally begin in the upper air, and so spells to create weather must have enough Range to reach this area. It is possible to create weather phenomena that start at ground level, but they are often very unnatural, and the increase in level for that precisely offsets the decrease from reducing Range to Touch. A flying wizard could, of course, use Touch range to create natural weather phenomena, but such spells are not very popular in the Order.
+##### CHAOS OF THE ANGRY WAVES
+R: Voice, D: Conc, T: Part<br>
+Causes water to churn wildly, overturning small water craft and forcing Swim rolls at -6, in a circular area 20 paces across.<br>
+(Base 5, +2 Voice, +1 Conc, +1 Part, +1 size)
 
-Sigils in Creo Auram spells commonly give the air specific properties, such as special scents or colors.
+##### PARTING THE WAVES
+R: Touch, D: Conc, T: Group<br>
+Parts a body of water, revealing a dry path 5 paces wide along the bottom. Very large bodies of water are too large for the Group target, and are thus unaffected.<br>
+(Base 10, +1 Touch, +1 Conc, +2 Group)
 
-Creo Auram botches may create the wrong sort of weather, or create it targeted at the caster or some other ally.
+##### WAVES OF DROWNING AND SMASHING
+R: Sight, D: Mom, T: Ind<br>
+Raises a wave 5 feet high and 30 paces wide, which can submerge swimmers, overturn rowboats, and damage sailing ships. It starts as a small, curved wave and grows for the first 10 paces, at which point it reaches maximum size. If it travels 100 paces without striking an object large enough to break it up, it dissipates.<br>
+(Base 10, +3 Sight, +1 size)
 
-- Level 1: Create a minor weather phenomenon: a breeze, a mist, a light drizzle.
-- Level 2: Create a normal weather phenomenon: a cloud, wind, fog, rain from a cloud that already exists.
-- Level 3: Create a severe weather phenomenon: deafening thunder, monsoon rain, impenetrable fog, gale force wind.
-  - Create a debilitating kind of air: noxious stench, mild poison, etc.
-- Level 5: Create a very severe weather phenomenon: hurricane force winds, lightning strike, tornado.
-- Level 25: Create an air elemental from a base amount of elemental material. (Ritual)
-  - Create a phenomenon in a slightly unnatural fashion: +1 magnitude (for example, indoors)
-  - Create a phenomenon in a very unnatural fashion: +2 magnitudes
-  - Create a phenomenon wholly divorced from its normal context (for example, a lightning bolt springing from the caster's hands):
-    +4 magnitudes
+#### LEVEL 35
 
-Pull of the Watery Grave
+##### ICE OF DROWNING
+R: Voice, D: Conc, T: Part<br>
+Turns part of the water in a circle 10 paces across into large, jagged chunks of ice and drives them to pound against anything on the water's surface. The ice can punch holes in small boats but does not damage ships. Any swimmers in the area take +15 damage, and suffer -6 and two extra botch checks on Swim rolls.<br>
+(Base 5 (for the violent pounding), +2 Voice, +1 Concentration, +1 Part, +1 size, +1 additional effect, changing the water to ice)
 
-R: Sight, D: Conc, T: Ind
-
-Creates a strong undertow that pulls any object smaller than a rowboat 25 fathoms (150 feet) into the depths. Each of those caught in the undercurrent must make a Strength + Swim stress roll against an Ease Factor of 9 to avoid being dragged down. A roll is made each round that the spell is maintained.
-
+##### PULL OF THE WATERY GRAVE
+R: Sight, D: Conc, T: Ind<br>
+Creates a strong undertow that pulls any object smaller than a rowboat 25 fathoms (150 feet) into the depths. Each of those caught in the undercurrent must make a Strength + Swim stress roll against an Ease Factor of 9 to avoid being dragged down. A roll is made each round that the spell is maintained.<br>
 (Base 10, +3 Sight, +1 Conc, +1 size)
 
-TOWER OF WHIRLING WATER
-
-R: Voice, D: Conc, T: Group
-
-From a large body of water you form a waterspout that moves under your mental direction. It causes a simple die + 15 damage to anyone it hits (no Attack roll necessary). In addition, those struck must make a Quickness stress roll against an Ease Factor of 6 to avoid being sucked up by the waterspout. Those who fail are helplessly pulled into the spout and begin to drown immediately. When the waterspout fails, they fall up to 20 feet to the water's surface. If you direct the waterspout to move across land, you must make an Intelligence + Concentration stress roll against an Ease Factor of 9 each round to maintain it
-
+##### TOWER OF WHIRLING WATER
+R: Voice, D: Conc, T: Group<br>
+From a large body of water you form a waterspout that moves under your mental direction. It causes a simple die + 15 damage to anyone it hits (no Attack roll necessary). In addition, those struck must make a Quickness stress roll against an Ease Factor of 6 to avoid being sucked up by the waterspout. Those who fail are helplessly pulled into the spout and begin to drown immediately. When the waterspout fails, they fall up to 20 feet to the water's surface. If you direct the waterspout to move across land, you must make an Intelligence + Concentration stress roll against an Ease Factor of 9 each round to maintain it.<br>
 (Base 10, +2 Voice, +1 Conc, +2 Group)
 
 #### LEVEL 40
 
-NEPTUNE'S WRATH
-
-R: Sight, D: Mom, T: Ind, Ritual
-
-A gigantic wave is created in a very large body of water. The wave, which is only 20 feet high but up to a mile wide, is capable of capsizing ships at sea, smashing and drowning people near shore, and seriously damaging coastline communities. The tidal wave needs 5 miles of water surface to build itself up to proper proportions. The magus cannot control the wave without casting another spell.
-
+##### NEPTUNE'S WRATH
+R: Sight, D: Mom, T: Ind, Ritual<br>
+A gigantic wave is created in a very large body of water. The wave, which is only 20 feet high but up to a mile wide, is capable of capsizing ships at sea, smashing and drowning people near shore, and seriously damaging coastline communities. The tidal wave needs 5 miles of water surface to build itself up to proper proportions. The magus cannot control the wave without casting another spell.<br>
 (Base 10, +3 Sight, +3 size, ritual for large effect)
 
-# Auram Spells
+---
+
+## Auram Spells
 
 Auram spells are powerful because the element of air is ubiquitous. Their weakness is that air is not usually violent, like fire, nor strong, like earth. Auram, however, includes in its scope most weather phenomena such as storms, lightning, rain, mist, and falling snow. Auram spells usually affect air as phenomena (winds, odors) rather than as gases.
 
@@ -14790,479 +14416,312 @@ Some target categories for Auram require some clarification. If the normal descr
 
 A base Individual for Auram is a weather phenomenon that affects the area within a standard Boundary — an area one hundred paces across.
 
-## Creo Auram Spells
+### Creo Auram Guidelines
+
+Weather phenomena are normally created at Sight range. This is because most weather phenomena (clouds, rain, storms, and so on) naturally begin in the upper air, and so spells to create weather must have enough Range to reach this area. It is possible to create weather phenomena that start at ground level, but they are often very unnatural, and the increase in level for that precisely offsets the decrease from reducing Range to Touch. A flying wizard could, of course, use Touch range to create natural weather phenomena, but such spells are not very popular in the Order.
+
+Sigils in Creo Auram spells commonly give the air specific properties, such as special scents or colors.
+
+Creo Auram botches may create the wrong sort of weather, or create it targeted at the caster or some other ally.
+
+| Level | Creo Auram Guideline |
+| ----- | -------------------- |
+| 1 | • Create a minor weather phenomenon: a breeze, a mist, a light drizzle |
+| 2 | • Create a normal weather phenomenon: a cloud, wind, fog, rain from a cloud that already exists |
+| 3 | • Create a severe weather phenomenon: deafening thunder, monsoon rain, impenetrable fog, gale force wind<br>• Create a debilitating kind of air: noxious stench, mild poison, etc. |
+| 5 | • Create a very severe weather phenomenon: hurricane force winds, lightning strike, tornado |
+| 25 | • Create an air elemental from a base amount of elemental material (Ritual) |
+| Notes | • Create a phenomenon in a slightly unnatural fashion: +1 magnitude (for example, indoors)<br>• Create a phenomenon in a very unnatural fashion: +2 magnitudes<br>• Create a phenomenon wholly divorced from its normal context (for example, a lightning bolt springing from the caster's hands): +4 magnitudes |
+
+### Creo Auram Spells
 
 #### LEVEL 5
 
-Air's Ghostly Form
-
-R: Touch, D: Diam, T: Ind
-
-A thick fog forms around the magus, extending outwards for several paces. A breeze can push the fog around. The fog dissipates at its natural rate, and may be too thin to restrict sight within a minute.
-
+##### AIR'S GHOSTLY FORM
+R: Touch, D: Diam, T: Ind<br>
+A thick fog forms around the magus, extending outwards for several paces. A breeze can push the fog around. The fog dissipates at its natural rate, and may be too thin to restrict sight within a minute.<br>
 (Base 2, +1 Touch, +1 Diam, +1 unnatural (the spell can be cast indoors))
 
-CHAMBER OF SPRING BREEZES
-
-R: Touch, D: Sun, T: Ind
-
-Creates a breeze of fresh air that continually moves throughout a room, keeping the air continuously breathable even if the room is airtight. Rose of Jerbiton's version of this spell always causes the air to smell of roses. The breeze can be created outdoors, but there it has little effect.
-
+##### CHAMBER OF SPRING BREEZES
+R: Touch, D: Sun, T: Ind<br>
+Creates a breeze of fresh air that continually moves throughout a room, keeping the air continuously breathable even if the room is airtight. Rose of Jerbiton's version of this spell always causes the air to smell of roses. The breeze can be created outdoors, but there it has little effect.<br>
 (Base 1, +1 Touch, +2 Sun, +1 unnatural)
 
 #### LEVEL 10
 
-JUPITER'S RESOUNDING BLOW
-
-R: Voice, D: Mom, T: Ind
-
-Creates a thunderclap, anyone directly underneath must make a Stamina stress roll against an Ease Factor of 9 or be deafened. If deafened, the target gets another Stamina simple roll each minute against the same Ease Factor and recovers on a success. If the first roll botches, the victim is rendered deaf for a month.
-
+##### JUPITER'S RESOUNDING BLOW
+R: Voice, D: Mom, T: Ind<br>
+Creates a thunderclap, anyone directly underneath must make a Stamina stress roll against an Ease Factor of 9 or be deafened. If deafened, the target gets another Stamina simple roll each minute against the same Ease Factor and recovers on a success. If the first roll botches, the victim is rendered deaf for a month.<br>
 (Base 3, +2 Voice, +1 unnatural (the spell functions indoors))
 
-#### STENCH OF THE TWENTY CORPSES
-
-R: Voice, D: Diam, T: Ind
-
-Creates a horrible stench of rotting corpses. All those within fifty paces of the target point must make Stamina stress rolls against an Ease Factor of 6 or act with a -3 penalty on all rolls. Anyone who botches the roll vomits and is incapacitated for (10 - Stamina) rounds.
-
+##### STENCH OF THE TWENTY CORPSES
+R: Voice, D: Diam, T: Ind<br>
+Creates a horrible stench of rotting corpses. All those within fifty paces of the target point must make Stamina stress rolls against an Ease Factor of 6 or act with a -3 penalty on all rolls. Anyone who botches the roll vomits and is incapacitated for (10 - Stamina) rounds.<br>
 (Base 3, +2 Voice, +1 Diam)
 
-#### WREATHS OF FOUL SMOKE
-
-R: Voice, D: Diam, T: Ind
-
-Thick, yellow, sulfurous smoke rises up from the spot you designate, spreading and thinning naturally, but thick enough to block sight in a radius of about five paces around the point of origin. For each round anyone breathes the smoke, a Stamina stress roll against an Ease Factor of 3 must be made or a Fatigue level is lost. Once a character is Unconscious, further failed rolls result in the character taking a Light Wound each time. The area where the spell is cast will be damaged: small plants wilt and die, and tree growth is stunted. A faint stench of sulfur clings for days to anything exposed to the smoke.
-
+##### WREATHS OF FOUL SMOKE
+R: Voice, D: Diam, T: Ind<br>
+Thick, yellow, sulfurous smoke rises up from the spot you designate, spreading and thinning naturally, but thick enough to block sight in a radius of about five paces around the point of origin. For each round anyone breathes the smoke, a Stamina stress roll against an Ease Factor of 3 must be made or a Fatigue level is lost. Once a character is Unconscious, further failed rolls result in the character taking a Light Wound each time. The area where the spell is cast will be damaged: small plants wilt and die, and tree growth is stunted. A faint stench of sulfur clings for days to anything exposed to the smoke.<br>
 (Base 3, +2 Voice, +1 Diam)
 
 #### LEVEL 15
 
-#### Broom of the Winds
-
-R: Voice, D: Mom, T: Ind
-
-Whips up violent, swirling winds around the target. The target must make a Size stress roll against an Ease Factor of 9 to remain standing. If the target is braced or holding onto some support, he may also make a Strength stress roll against an Ease Factor of 9.
-
-If both rolls fail, the target is knocked in a random direction. The target may be damaged, depending on whether he strikes anything.
-
+##### BROOM OF THE WINDS
+R: Voice, D: Mom, T: Ind<br>
+Whips up violent, swirling winds around the target. The target must make a Size stress roll against an Ease Factor of 9 to remain standing. If the target is braced or holding onto some support, he may also make a Strength stress roll against an Ease Factor of 9. If both rolls fail, the target is knocked in a random direction. The target may be damaged, depending on whether he strikes anything.<br>
 (Base 3, +2 Voice, +2 unnatural)
 
-#### CHARGE OF THE ANGRY WINDS
-
-R: Voice, D: Conc, T: Ind
-
-A wall of wind roars away from you, starting up to 10 paces away and continuing until it dissipates naturally. The wind is confined by any existing barriers, but if unconfined it can be up to a hundred paces wide. All within the area must make a Dexterity + Size stress roll against an Ease Factor of 9 or fall down and be blown along by the winds. The rolls must be made at the start of the gale and each subsequent round that the wind is maintained. You must concentrate on the gale. Missile fire into or out of the gale is futile, and marching against the gale requires a Strength + Size stress roll against an Ease Factor of 15. Failure in this attempt mandates another Dexterity + Size stress roll against an Ease Factor of 12 to keep from falling.
-
+##### CHARGE OF THE ANGRY WINDS
+R: Voice, D: Conc, T: Ind<br>
+A wall of wind roars away from you, starting up to 10 paces away and continuing until it dissipates naturally. The wind is confined by any existing barriers, but if unconfined it can be up to a hundred paces wide. All within the area must make a Dexterity + Size stress roll against an Ease Factor of 9 or fall down and be blown along by the winds. The rolls must be made at the start of the gale and each subsequent round that the wind is maintained. You must concentrate on the gale. Missile fire into or out of the gale is futile, and marching against the gale requires a Strength + Size stress roll against an Ease Factor of 15. Failure in this attempt mandates another Dexterity + Size stress roll against an Ease Factor of 12 to keep from falling.<br>
 (Base 3, +2 Voice, +1 Conc, +1 unnatural)
 
 #### LEVEL 20
 
-CIRCLING WINDS OF PROTECTION
-
-$R: \mathsf{Touch}, \, D: \mathsf{Conc}, \, T: \mathsf{Ind}$
-
-Req: Rego
-
-Surrounds you with winds that circle at great speed. Since the wind picks up dust and other small, loose objects, you may be obscured. Anyone standing near enough to attack you with a hand weapon must make a Size stress roll against an Ease Factor of 9 at the beginning of each round or be blown back. Melee Attack rolls against you are at –3, and missile or thrown attacks are at –9.
-
+##### CIRCLING WINDS OF PROTECTION
+R: Touch, D: Conc, T: Ind<br>
+Req: Rego<br>
+Surrounds you with winds that circle at great speed. Since the wind picks up dust and other small, loose objects, you may be obscured. Anyone standing near enough to attack you with a hand weapon must make a Size stress roll against an Ease Factor of 9 at the beginning of each round or be blown back. Melee Attack rolls against you are at –3, and missile or thrown attacks are at –9.<br>
 (Base 3, +1 Touch, +1 Conc, +2 unnatural, +1 Rego effect)
 
 #### LEVEL 25
 
-CLOUDS OF RAIN AND THUNDER
-
-R: Sight, D: Conc, T: Group
-
-Creates a small but severe rainstorm, including lightning and winds. The storm gathers and breaks in a few seconds as the caster concentrates, and dissipates with similar speed when he stops doing so.
-
-Note that reducing the Range for this spell makes the storm increasingly unnatural, so versions of this spell with lower Range still have the same level.
-
+##### CLOUDS OF RAIN AND THUNDER
+R: Sight, D: Conc, T: Group<br>
+Creates a small but severe rainstorm, including lightning and winds. The storm gathers and breaks in a few seconds as the caster concentrates, and dissipates with similar speed when he stops doing so. Note that reducing the Range for this spell makes the storm increasingly unnatural, so versions of this spell with lower Range still have the same level.<br>
 (Base 3, +3 Sight, +1 Conc, +2 Group)
 
-#### CLOUDS OF SUMMER SNOW
-
-Creates clouds that drop snow over an area about half a mile across. The clouds gather over a few seconds at the beginning of the spell, and dissipate over the same sort of time when the caster stops concentrating. The spell does not affect temperature.
-
+##### CLOUDS OF SUMMER SNOW
+R: Sight, D: Conc, T: Group<br>
+Creates clouds that drop snow over an area about half a mile across. The clouds gather over a few seconds at the beginning of the spell, and dissipate over the same sort of time when the caster stops concentrating. The spell does not affect temperature.<br>
 (Base 2, +3 Sight, +1 Conc, +2 Group, +1 Size)
 
 #### LEVEL 30
 
-Pull of the Skybound Winds
-
-R: Voice, D: Conc, T: Ind
-
-Makes winds rise upward, pulling one object, creature, or person up to 50 feet into the sky before letting that target drop. Even a small building can be torn from its foundation, though such a building can be no larger than 20 feet to a side, and cannot be built out of a material heavier than stout wood. Uprooted objects fall randomly, unless you make a Finesse stress roll against an Ease Factor of 12 to choose where the objects will fall.
-
+##### PULL OF THE SKYBOUND WINDS
+R: Voice, D: Conc, T: Ind<br>
+Makes winds rise upward, pulling one object, creature, or person up to 50 feet into the sky before letting that target drop. Even a small building can be torn from its foundation, though such a building can be no larger than 20 feet to a side, and cannot be built out of a material heavier than stout wood. Uprooted objects fall randomly, unless you make a Finesse stress roll against an Ease Factor of 12 to choose where the objects will fall.<br>
 (Base 5, +2 Voice, +1 Conc, +2 unnatural)
 
-WINGS OF THE SOARING WIND
-
-R: Touch, D: Conc, T: Ind
-
-Req: Rego
-
-Generates a massive gust of air around you that supports and pushes you along through the air at speeds up to 40 miles per hour. Hovering in place is difficult, and requires a Finesse roll against an Ease Factor of 9 per round. It is dangerous for extended travel, because if you lose concentration, you are likely to sustain serious injuries (+15 damage, on average, although it may be more if the magus was very high up).
-
+##### WINGS OF THE SOARING WIND
+R: Touch, D: Conc, T: Ind<br>
+Req: Rego<br>
+Generates a massive gust of air around you that supports and pushes you along through the air at speeds up to 40 miles per hour. Hovering in place is difficult, and requires a Finesse roll against an Ease Factor of 9 per round. It is dangerous for extended travel, because if you lose concentration, you are likely to sustain serious injuries (+15 damage, on average, although it may be more if the magus was very high up).<br>
 (Base 5, +1 Touch, +1 Conc, +2, highly unnatural, +1 Rego requisite)
 
-## Intellego Auram Guidelines
+#### LEVEL 35
 
-Intellego Auram botches normally reveal false information.
-
-Level 1:
-
-Make your senses unhindered by the air (for example, you can hear over a howling wind).
-
-Level 2:
-
-Sense one property of air (for example, determine if it is safe to breathe).
-
-Level 4:
-
-- Learn all mundane properties of the air.
-- Have an intuition about some fact regarding the air.
-
-Level 15: • Speak with air.
-
-LEVEL 35
-
-THE INCANTATION OF LIGHTNING R: Voice, D: Mom, T: Ind
-
-A lightning bolt shoots forth from your outstretched hand in the direction you are pointing, doing +30 damage to a single target it hits. There must be nothing between you and the target. Those near the target must make Size stress rolls against an Ease Factor of 6 to remain standing.
-
+##### THE INCANTATION OF LIGHTNING
+R: Voice, D: Mom, T: Ind<br>
+A lightning bolt shoots forth from your outstretched hand in the direction you are pointing, doing +30 damage to a single target it hits. There must be nothing between you and the target. Those near the target must make Size stress rolls against an Ease Factor of 6 to remain standing.<br>
 (Base 5, +2 Voice, +4 unnatural)
 
 #### LEVEL 40
 
-Breath of the Open Sky
-
-R: Touch, D: Conc, T: Ind, Ritual
-
-You can call up a wind capable of devastating the countryside. You must stand under the open sky to cast this spell. While you cast the spell, a breeze picks up, blowing from you in the direction you are facing. When the ritual is completed, the wind strengthens to a gale roaring over the visible countryside and beyond, strong enough to topple wooden structures and knock down trees. The wind does not weaken while it is within your sight, but loses its force naturally where you cannot see it. If vou turn away from your original facing for more than a few seconds, you have to make a Concentration roll against an Ease Factor of 12 to maintain the spell. If you turn away for a minute or more, the spell ends. The air behind you is still.
-
+##### BREATH OF THE OPEN SKYy
+R: Touch, D: Conc, T: Ind, Ritual<br>
+You can call up a wind capable of devastating the countryside. You must stand under the open sky to cast this spell. While you cast the spell, a breeze picks up, blowing from you in the direction you are facing. When the ritual is completed, the wind strengthens to a gale roaring over the visible countryside and beyond, strong enough to topple wooden structures and knock down trees. The wind does not weaken while it is within your sight, but loses its force naturally where you cannot see it. If vou turn away from your original facing for more than a few seconds, you have to make a Concentration roll against an Ease Factor of 12 to maintain the spell. If you turn away for a minute or more, the spell ends. The air behind you is still.<br>
 (Base 5, +1 Touch, +1 Conc, +4 size, +1 unnatural, ritual because of spectacular effect)
 
 #### LEVEL 65
 
-Wrath of Whirling Winds and Water
-
-R: Sight, D: Sun, T: Group, Ritual
-
-This spell creates an immense storm. 40 or more miles wide, of hurricane intensity. The storm builds up while you cast the ritual, and dissipates in a few seconds when the spell's duration ends. The gale-force winds and lashing waves cause immense damage along shorelines, and the winds, rain, and lightning cause extensive damage inland as well. Visibility is reduced to a few paces, missile fire is futile, and travel is nearly suicidal. Weak structures are blown over, and all but the most seaworthy ships are certain to founder unless they can be beached before the storm reaches full intensity.
-
-The storm is not under the caster's control, and moves normally.
-
+##### WRATH OF WHIRLING WINDS AND WATER
+R: Sight, D: Sun, T: Group, Ritual<br>
+This spell creates an immense storm. 40 or more miles wide, of hurricane intensity. The storm builds up while you cast the ritual, and dissipates in a few seconds when the spell's duration ends. The gale-force winds and lashing waves cause immense damage along shorelines, and the winds, rain, and lightning cause extensive damage inland as well. Visibility is reduced to a few paces, missile fire is futile, and travel is nearly suicidal. Weak structures are blown over, and all but the most seaworthy ships are certain to founder unless they can be beached before the storm reaches full intensity. The storm is not under the caster's control, and moves normally.<br>
 (Base 5, +3 Sight, +2 Sun, +2 Group, +5 size)
 
-## Intellego Auram Spells
+### Intellego Auram Guidelines
+
+Intellego Auram botches normally reveal false information.
+
+| Level | Intellego Auram Guideline |
+| ----- | ------------------------- |
+| 1 | • Make your senses unhindered by the air (for example, you can hear over a howling wind) |
+| 2 | • Sense one property of air (for example, determine if it is safe to breathe) |
+| 4 | • Learn all mundane properties of the air<br>• Have an intuition about some fact regarding the air |
+| 15 | • Speak with air |
+
+### Intellego Auram Spells
 
 #### LEVEL 15
 
-SAILOR'S FORETASTE OF THE MORROW R: Touch, D: Mom. T: Group
-
-You know precisely what tomorrow's weather will be, and you gain a general impression about the weather for the week ahead. This intuition only applies to the place where you cast the spell, and is based on extrapolating current conditions, so it is occasionally wrong (precise, but inaccurate). Still, it would take something like an interfering magical being, or a volcanic eruption, to throw the prediction off.
-
+##### SAILOR'S FORETASTE OF THE MORROW
+R: Touch, D: Mom. T: Group<br>
+You know precisely what tomorrow's weather will be, and you gain a general impression about the weather for the week ahead. This intuition only applies to the place where you cast the spell, and is based on extrapolating current conditions, so it is occasionally wrong (precise, but inaccurate). Still, it would take something like an interfering magical being, or a volcanic eruption, to throw the prediction off.<br>
 (Base 4, +1 Touch, +2 Group)
 
-True Sight of the Air
-
-R: Per, D: Sun, T: Vision
-
-Lets you see clearly through all manner of obfuscation in the air nearby, including smoke, fog, and dust, even if the obfuscation is magical.
-
+##### TRUE SIGHT OF THE AIR
+R: Per, D: Sun, T: Vision<br>
+Lets you see clearly through all manner of obfuscation in the air nearby, including smoke, fog, and dust, even if the obfuscation is magical.<br>
 (Base 1, +2 Sun, +4 Vision)
 
-WHISPERING WINDS
-
-R: Sight, D: Conc, T: Ind
-
-The winds bear their tidings to your ears, allowing you to hear words spoken by any group of people within your line of sight, provided no solid barrier (including glass) intervenes. This spell is an adaptation of an effect known to Bjornaer the Founder, and fits poorly into the normal framework of Hermetic magic.
-
+##### WHISPERING WINDS
+R: Sight, D: Conc, T: Ind<br>
+The winds bear their tidings to your ears, allowing you to hear words spoken by any group of people within your line of sight, provided no solid barrier (including glass) intervenes. This spell is an adaptation of an effect known to Bjornaer the Founder, and fits poorly into the normal framework of Hermetic magic.<br>
 (Unique spell)
 
 #### LEVEL 25
 
-EYES OF THE BAT
-
-R: Per, D: Sun, T: Hearing
-
-You can move about confidently in complete darkness by sensing air and its boundaries (for example, where solid objects are). You 'hear' the boundaries of the air, so it does not permit fine discriminations. On the other hand, you can 'hear' boundaries behind you.
-
+##### EYES OF THE BAT
+R: Per, D: Sun, T: Hearing<br>
+You can move about confidently in complete darkness by sensing air and its boundaries (for example, where solid objects are). You 'hear' the boundaries of the air, so it does not permit fine discriminations. On the other hand, you can 'hear' boundaries behind you.<br>
 (Base 4, +2 Sun, +3 Hearing)
 
-LEVEL 20
-
-RAIN OF STONES
-
-R: Voice, D: Sun, T: Ind
-
-Reg: Terram
-
-Turns rain into stones as it falls, causing +0 damage every two rounds (they're small stones), and maybe less if the rain is very light. People under cover are not affected. The stones revert to water when the spell expires. If it stops raining before the spell ends, no more rain is transformed, even if a different rain storm starts.
-
-(Base 4, +2 Voice, +2 Sun)
-
-TALONS OF THE WINDS
-
-R: Voice, D: Diam, T: Ind
-
-Req: Rego
-
-Transforms a wind into an abrasive medium that tears and claws at everything in its path. Soft materials like leaves and cloth are shredded, and people take +4 damage from innumerable bloody cuts and abrasions. This spell cannot be cast if there is not a breeze of some sort blowing, thus making it difficult to use effectively indoors. The caster is not affected by the spell, even if the wind is blowing directly at him.
-
-In Ossium of Bjornaer's version of this spell a strange keening can be heard in the air as it cuts through targets. Ossium's wizard's sigil manifests by making many of his spells eerie or frightening.
-
-(Base 4, +2 Voice, +1 Diam, +1 Rego requisite (additional effect: protect the caster))
-
-#### LEVEL 40
-
-INFERNAL SMOKE OF DEATH
-
-R: Voice, D: Conc, T: Ind
-
-Turns normal smoke from a fire into a thick, corrosive cloud. Anyone immersed in the cloud of smoke takes +25 corrosion damage, against which armor provides only half its normal Protection value. Soft materials like cloth, fur, paper, and leather are charred and ruined by exposure to the noxious vapor. While you
-
-concentrate, any new smoke becomes corrosive. The smoke is heavier than air, so rolls along the ground, pooling in low spots. The damage represents normal exposure to the vapor, and may be modified if characters spend unusually short or long times within it.
-
-(Base 25, +2 Voice, +1 Conc)
-
-#### LEVEL 45
-
-FOG OF CONFUSION
-
-R: Touch, D: Year,
-
-T: Ind, Ritual
-
-Req: Imaginem, Rego
-
-Turns a bank of fog up to six miles across into a silvery mist too thick to see through. Random screams, thumps, hisses, and other noises harass and confuse anyone within the fog, perhaps even leading them into danger. People have extreme difficulty navigating through the fog, especially through unknown territory. No more than seven people, who must be present at the ritual, can see normally through the fog. The fog does not dissipate until the spell expires.
-
-(Base 2, +1 Touch, +4 Year, +4 Size, +1 Imaginem requisite, +1 Rego requisite)
-
-## Muto Auram Guidelines
+### Muto Auram Guidelines
 
 Transforming only one property of air generally lowers the level by one magnitude.
 
 Muto Auram botches could change the caster temporarily into air, or change the air in an undesirable way.
 
-- General: Transform air into a gas doing +level damage.
-  - Convert part of an air elemental's body into another type of air (wind to smoke, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter.
-- Level 3: • Transform an amount of air into another form of air.
-- Level 4: • Transform an amount of air into another element (fire, earth, or water).
-  - Transform a gas into a harmful gas causing a Light Wound (Stamina roll against Ease Factor 6 to resist)
-- Level 5: • Transform an amount of air into a mixture of elements.
-  - Transform an amount of air into something slightly unnatural.
-  - Transform a gas into a harmful gas causing a Medium Wound (Stamina roll against Ease Factor 6 to resist)
+| Level | Muto Auram Guideline |
+| ----- | -------------------- |
+| General | • Transform air into a gas doing +level damage<br>• Convert part of an air elemental's body into another type of air (wind to smoke, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter |
+| 3 | • Transform an amount of air into another form of air |
+| 4 | • Transform an amount of air into another element (fire, earth, or water)<br>• Transform a gas into a harmful gas causing a Light Wound (Stamina roll against Ease Factor 6 to resist) |
+| 5 | • Transform an amount of air into a mixture of elements<br>• Transform an amount of air into something slightly unnatural<br>• Transform a gas into a harmful gas causing a Medium Wound (Stamina roll against Ease Factor 6 to resist) |
+| 10 | • Transform an amount of air into something wholly unnatural |
 
-Level 10: • Transform an amount of air into something wholly unnatural.
+### Muto Auram Spells
 
-## Perdo Auram Guidelines
+#### LEVEL 20
 
-Causing the destruction of air with great precision raises the magnitude by at least one level.
+##### RAIN OF STONES
+R: Voice, D: Sun, T: Ind<br>
+Reg: Terram<br>
+Turns rain into stones as it falls, causing +0 damage every two rounds (they're small stones), and maybe less if the rain is very light. People under cover are not affected. The stones revert to water when the spell expires. If it stops raining before the spell ends, no more rain is transformed, even if a different rain storm starts.<br>
+(Base 4, +2 Voice, +2 Sun)
 
-General: • Destroy sufficient matter to reduce an air elemental's Might Score by the level of the spell +2 magnitudes.
-
-Level 3: • Make air stuffy and poor for breathing.
-
-Level 4: • Destroy still air.
-
-• Destroy a minor weather phenomenon: a breeze, a mist, a light drizzle.
-
-• Reduce the intensity of a weather phenomenon by one step (for example, from very severe to severe, or from normal to minor.)
-
-Level 5: • Destroy a normal weather phenomenon: a cloud, wind, fog, rain from a cloud that already exists.
-
-Level 10: • Destroy a severe weather phenomenon: deafening thunder, monsoon rain, impenetrable fog, gale force wind.
-
-• Destroy a debilitating kind of air: noxious stench, mild poison, etc.
-
-Level 15: • Destroy a very severe weather phenomenon: hurricane force winds, lightning strike, tornado.
-
-LEVEL 50
-
-RAIN OF OIL
-
-R: Sight, D: Sun, T: Ind, Ritual
-
-Req: Aquam
-
-Turns rain into droplets of oil. Within the spell's duration, the rain of oil continues as long as the storm does, drenching the landscape with flammable liquid. The oil will evaporate at a natural rate after the rain ceases. A Creo Ignem spell can ignite the storm so that the oil burns as it falls, but this requires a Group target large enough to catch all the raindrops. Lighting the oil after it has landed is much easier.
-
-(Base 4, +3 Sight, +2 Sun, +5 size)
-
-## Perdo Auram Spells
-
-LEVEL 15
-
-ROOM OF STALE AIR
-
-R: Voice, D: Mom, T: Room
-
-Makes the air in a room stuffy and uncomfortable. Any creatures that breathe air suffer a –3 penalty on all rolls involving physical exertion. In addition, for each round of exertion a character must make a simple Stamina roll against an Ease Factor of 6 or lose a Fatigue level. This may cause panic in some creatures or people. The speed at which the air refreshes itself depends on how well ventilated the room is.
-
-(Base 3, +2 Voice, +2 Room)
-
-LEVEL 20
-
-QUIET THE RAGING WINDS
-
-R: Touch, D: Mom, T: Group
-
-Stops all wind from blowing, leaving only calm air. This spell is not powerful enough to affect winds caused by Ritual magic, and only affects winds blowing on the caster when it is cast. Under normal circumstances, the winds will not pick up again for at least an hour or so.
-
-(Base 5, +1 Touch, +2 Group)
-
-LEVEL 45
-
-THE CLOUDLESS SKY RETURNED
-
-R: Sight, D: Mom, T: Group
-
-This spell clears the sky within your vision of any clouds or other meteorological activity short of a hurricane or tornado, either naturally occurring or caused by magic. The clouds take a few seconds to clear, during which time you must concentrate on them. This spell only affects meteorological activity in progress at the moment of casting, and is not powerful enough to dispel a weather condition caused by Ritual magic.
-
-In Ferramentum's version of this spell, the clouds clear from the sky in an orderly manner, as if they were soldiers marching on parade.
-
-(Base 10, +3 Sight, +2 Group, +2 size)
-
-## Rego Auram Spells
-
-**GENERAL**
-
-Ward Against Faeries of the  $A{\mbox{\scriptsize IR}}$
-
-R: Touch, D: Ring, T: Circle
-
-As Ward Against Faeries of the Water (ReAq Gen), but for faeries of the air. The faerie cannot directly or indirectly break the magic circle, nor can they use ranged attacks or magic to affect those within it. From some angles at night, the ring may be seen as a violethued dome.
-
-(Base effect)
-
-LEVEL 5
-
-WIND AT THE BACK
-
-R: Touch, D: Spec, T: Ind
-
-An existing breeze follows you until you stop traveling for more than ten minutes. It causes phenomena you pass through (fog, haze) to follow you.
-
-(Base 2, +1 Touch, +2 Special (based on Concentration))
-
-#### LEVEL 10
-
-WARD AGAINST RAIN
-
-R: Per, D: Sun, T: Ind
-
-No rain falls on the caster, no matter how bad the weather.
-
-(Base 4, +2 Sun)
-
-#### LEVEL 30
-
-CLOUDS OF THUNDEROUS MIGHT
-
-$R{:}\;\mathsf{Sight},\,D{:}\;\mathsf{Conc},\,T{:}\;\mathsf{Group}$
-
-Gathers pre-existing clouds and winds into a small storm. The storm gathers at a normal speed, but is under the caster's control as long as he can see it. The caster may use the control granted by
-
-this spell to dissipate small storms as well. If the caster does not dissipate the storm before stopping concentrating, the storm continues as normal.
-
-(Base 4, +3 Sight, +1 Conc, +2 Group)
+##### TALONS OF THE WINDS
+R: Voice, D: Diam, T: Ind<br>
+Req: Rego<br>
+Transforms a wind into an abrasive medium that tears and claws at everything in its path. Soft materials like leaves and cloth are shredded, and people take +4 damage from innumerable bloody cuts and abrasions. This spell cannot be cast if there is not a breeze of some sort blowing, thus making it difficult to use effectively indoors. The caster is not affected by the spell, even if the wind is blowing directly at him. In Ossium of Bjornaer's version of this spell a strange keening can be heard in the air as it cuts through targets. Ossium's wizard's sigil manifests by making many of his spells eerie or frightening.<br>
+(Base 4, +2 Voice, +1 Diam, +1 Rego requisite (additional effect: protect the caster))
 
 #### LEVEL 40
 
-GATHERING OF THE STORMY MIGHT
+##### INFERNAL SMOKE OF DEATH
+R: Voice, D: Conc, T: Ind<br>
+Turns normal smoke from a fire into a thick, corrosive cloud. Anyone immersed in the cloud of smoke takes +25 corrosion damage, against which armor provides only half its normal Protection value. Soft materials like cloth, fur, paper, and leather are charred and ruined by exposure to the noxious vapor. While you concentrate, any new smoke becomes corrosive. The smoke is heavier than air, so rolls along the ground, pooling in low spots. The damage represents normal exposure to the vapor, and may be modified if characters spend unusually short or long times within it.<br>
+(Base 25, +2 Voice, +1 Conc)
 
-R: Sight, D: Conc, T: Group
+#### LEVEL 45
 
-As for Clouds of Thunderous Might, but the storm is larger, possibly covering the entire visible sky. Again, it is under the caster's control.
+##### FOG OF CONFUSION
+R: Touch, D: Year, T: Ind, Ritual<br>
+Req: Imaginem, Rego<br>
+Turns a bank of fog up to six miles across into a silvery mist too thick to see through. Random screams, thumps, hisses, and other noises harass and confuse anyone within the fog, perhaps even leading them into danger. People have extreme difficulty navigating through the fog, especially through unknown territory. No more than seven people, who must be present at the ritual, can see normally through the fog. The fog does not dissipate until the spell expires.<br>
+(Base 2, +1 Touch, +4 Year, +4 Size, +1 Imaginem requisite, +1 Rego requisite)
 
-(Base 4, +3 Sight, +1 Conc, +2 Group, +2 size)
+#### LEVEL 50
 
-## Rego Auram Guidelines
+##### RAIN OF OIL
+R: Sight, D: Sun, T: Ind, Ritual<br>
+Req: Aquam<br>
+Turns rain into droplets of oil. Within the spell's duration, the rain of oil continues as long as the storm does, drenching the landscape with flammable liquid. The oil will evaporate at a natural rate after the rain ceases. A Creo Ignem spell can ignite the storm so that the oil burns as it falls, but this requires a Group target large enough to catch all the raindrops. Lighting the oil after it has landed is much easier.<br>
+(Base 4, +3 Sight, +2 Sun, +5 size)
+
+### Perdo Auram Guidelines
+
+Causing the destruction of air with great precision raises the magnitude by at least one level.
+
+| Level | Perdo Auram Guideline |
+| ----- | --------------------- |
+| General | • Destroy sufficient matter to reduce an air elemental's Might Score by the level of the spell +2 magnitudes |
+| 3 | • Make air stuffy and poor for breathing |
+| 4 | • Destroy still air<br>• Destroy a minor weather phenomenon: a breeze, a mist, a light drizzle<br>• Reduce the intensity of a weather phenomenon by one step (for example, from very severe to severe, or from normal to minor) |
+| 5 | • Destroy a normal weather phenomenon: a cloud, wind, fog, rain from a cloud that already exists |
+| 10 | • Destroy a severe weather phenomenon: deafening thunder, monsoon rain, impenetrable fog, gale force wind<br>• Destroy a debilitating kind of air: noxious stench, mild poison, etc. |
+| 15 | • Destroy a very severe weather phenomenon: hurricane force winds, lightning strike, tornado |
+
+### Perdo Auram Spells
+
+#### LEVEL 15
+
+##### ROOM OF STALE AIR
+R: Voice, D: Mom, T: Room<br>
+Makes the air in a room stuffy and uncomfortable. Any creatures that breathe air suffer a –3 penalty on all rolls involving physical exertion. In addition, for each round of exertion a character must make a simple Stamina roll against an Ease Factor of 6 or lose a Fatigue level. This may cause panic in some creatures or people. The speed at which the air refreshes itself depends on how well ventilated the room is.<br>
+(Base 3, +2 Voice, +2 Room)
+
+#### LEVEL 20
+
+##### QUIET THE RAGING WINDS
+R: Touch, D: Mom, T: Group<br>
+Stops all wind from blowing, leaving only calm air. This spell is not powerful enough to affect winds caused by Ritual magic, and only affects winds blowing on the caster when it is cast. Under normal circumstances, the winds will not pick up again for at least an hour or so.<br>
+(Base 5, +1 Touch, +2 Group)
+
+#### LEVEL 45
+
+##### THE CLOUDLESS SKY RETURNED
+R: Sight, D: Mom, T: Group<br>
+This spell clears the sky within your vision of any clouds or other meteorological activity short of a hurricane or tornado, either naturally occurring or caused by magic. The clouds take a few seconds to clear, during which time you must concentrate on them. This spell only affects meteorological activity in progress at the moment of casting, and is not powerful enough to dispel a weather condition caused by Ritual magic. In Ferramentum's version of this spell, the clouds clear from the sky in an orderly manner, as if they were soldiers marching on parade.<br>
+(Base 10, +3 Sight, +2 Group, +2 size)
+
+### Rego Auram Guidelines
 
 Rego Auram allows the maga to control existing weather phenomena. It is not possible to create a breeze with Rego Auram, but it is possible to direct the course of a storm. This includes starting and stopping the rain at the maga's command.
 
 Controlling an amount of air with great strength or great precision raises the magnitude of the spell by one level.
 
-General: • Ward against beings associated with Auram from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
+| Level | Rego Auram Guideline |
+| ----- | -------------------- |
+| General | • Ward against beings associated with Auram from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 2 | • Control a minor weather phenomenon |
+| 3 | • Control a normal weather phenomenon<br>• Ward someone against a type of minor weather phenomenon |
+| 4 | • Control a severe weather phenomenon<br>• Ward someone against a type of normal weather phenomenon |
+| 5 | • Control a very severe weather phenomenon<br>• Control a disembodied spirit associated with Auram<br>• Completely control an air elemental<br>• Ward someone against a type of severe weather phenomenon |
+| 10 | • Ward someone against a type of very severe weather phenomenon |
+| 15 | • Summon a disembodied spirit associated with Auram |
 
-Level 2: • Control a minor weather phenomenon.
+### Rego Auram Spells
 
-Level 3: • Control a normal weather phenomenon.
+#### GENERAL
 
-• Ward someone against a type of minor weather phenomenon.
+##### WARD AGAINST FAERIES OF THE AIR 
+R: Touch, D: Ring, T: Circle<br>
+As Ward Against Faeries of the Water (ReAq Gen), but for faeries of the air. The faerie cannot directly or indirectly break the magic circle, nor can they use ranged attacks or magic to affect those within it. From some angles at night, the ring may be seen as a violethued dome.<br>
+(Base effect)
 
-Level 4: • Control a severe weather phenomenon.
+#### LEVEL 5
 
-• Ward someone against a type of normal weather phenomenon.
+##### WIND AT THE BACK
+R: Touch, D: Spec, T: Ind<br>
+An existing breeze follows you until you stop traveling for more than ten minutes. It causes phenomena you pass through (fog, haze) to follow you.<br>
+(Base 2, +1 Touch, +2 Special (based on Concentration))
 
-Level 5: • Control a very severe weather phenomenon.
+#### LEVEL 10
 
-• Control a disembodied spirit associated with Auram.
+##### WARD AGAINST RAIN
+R: Per, D: Sun, T: Ind<br>
+No rain falls on the caster, no matter how bad the weather.<br>
+(Base 4, +2 Sun)
 
-• Completely control an air elemental.
+#### LEVEL 30
 
-• Ward someone against a type of severe weather phenomenon.
+##### CLOUDS OF THUNDEROUS MIGHT
+R: Sight, D: Conc, T: Group<br>
+Gathers pre-existing clouds and winds into a small storm. The storm gathers at a normal speed, but is under the caster's control as long as he can see it. The caster may use the control granted by this spell to dissipate small storms as well. If the caster does not dissipate the storm before stopping concentrating, the storm continues as normal.<br>
+(Base 4, +3 Sight, +1 Conc, +2 Group)
 
-Level 10: • Ward someone against a type of very severe weather phenomenon.
+#### LEVEL 40
 
-Level 15: • Summon a disembodied spirit associated with Auram.
+##### GATHERING OF THE STORMY MIGHT
+R: Sight, D: Conc, T: Group<br>
+As for Clouds of Thunderous Might, but the storm is larger, possibly covering the entire visible sky. Again, it is under the caster's control.<br>
+(Base 4, +3 Sight, +1 Conc, +2 Group, +2 size)
 
-## Creo Corpus Guidelines
+---
+
+## Corpus Spells
+
+Corpus spells deal with human or humanlike bodies and anything that involves those bodies. Many faeries have enough in common with humans to be affected by Corpus spells.
+
+A base Individual for Corpus is an adult human being, up to Size +1.
+
+### Creo Corpus Guidelines
 
 Many Creo Corpus spells are most useful as Ritual spells. Unless otherwise noted, a healing spell cast other than as a Momentary Duration Ritual actually suspends the healing process so that, upon the spell's expiration, wounds are as fresh as they were when the spell was cast. No Hermetic spell can restore Fatigue levels.
 
-A spell that can heal something can also heal less serious versions of the same thing. Thus, a spell that can heal Medium Wounds can also heal Light Wounds. However, a spell to heal wounds cannot cure diseases,
-
-Level 1: • Give a character a +1 bonus to Recovery rolls.
-
-The target's wounds are treated as one category less serious for the purposes of activities while injured.
-
-Level 2: • Give a character a +3 bonus to Recovery rolls.
-
-• Preserve a corpse from decay.
-
-Level 3: • Give a character a +6 bonus to Recovery rolls.
-
-Prevent all of a target's wounds from getting any worse.
-
-Level 4: • Give a character a +9 bonus to Recovery rolls.
-
-Level 5: • Give a character a +12 bonus to Recovery rolls.
-
-Create an entire human corpse
-
-Level • Give a character a +15 bonus to Recovery rolls
-
-Level • Heal a Light Wound.
-
-15:
-
-20:
-
-25:
-
-• Give a character a +18 bonus to Recovery rolls.
-
-Resolve a minor aging crisis.
-
-Level • Heal a Medium Wound.
-
-Heal the debilitating after-effects of a disease, poison, or injury.
-
-• Resolve a serious aging crisis.
-
-Level • Heal a Heavy Wound.
-
-• Improve all wounds by one level of severity.
-
-Restore a lost limb.
-
-Resolve a major aging crisis.
-
-no matter how high its level, and vice versa. Spells that give a bonus to Recovery rolls work no matter what the character is recovering from.
+A spell that can heal something can also heal less serious versions of the same thing. Thus, a spell that can heal Medium Wounds can also heal Light Wounds. However, a spell to heal wounds cannot cure diseases, no matter how high its level, and vice versa. Spells that give a bonus to Recovery rolls work no matter what the character is recovering from.
 
 The physical characteristics are Strength, Stamina, Dexterity, and Quickness, and they can be affected and improved by Corpus magic.
 
@@ -15270,319 +14729,161 @@ Creo Corpus botches often inflict damage instead of healing it.
 
 Creo Animal spells may be used as guidelines and examples for Creo Corpus spells.
 
-Level • Heal an Incapacitating Wound 30:
+| Level | Creo Corpus Guideline |
+| ----- | --------------------- |
+| 1 | • Give a character a +1 bonus to Recovery rolls<br>• The target's wounds are treated as one category less serious for the purposes of activities while injured |
+| 2 | • Give a character a +3 bonus to Recovery rolls<br>• Preserve a corpse from decay |
+| 3 | • Give a character a +6 bonus to Recovery rolls<br>• Prevent all of a target's wounds from getting any worse |
+| 4 | • Give a character a +9 bonus to Recovery rolls |
+| 5 | • Give a character a +12 bonus to Recovery rolls<br>• Create an entire human corpse |
+| 10 | • Give a character a +15 bonus to Recovery rolls |
+| 15 | • Heal a Light Wound<br>• Give a character a +18 bonus to Recovery rolls<br>• Resolve a minor aging crisis |
+| 20 | • Heal a Medium Wound<br>• Heal the debilitating after-effects of a disease, poison, or injury<br>• Resolve a serious aging crisis |
+| 25 | • Heal a Heavy Wound<br>• Improve all wounds by one level of severity<br>• Restore a lost limb<br>• Resolve a major aging crisis |
+| 30 | • Heal an Incapacitating Wound<br>• Increase one of a person's physical Characteristics by one point, to no more than 0<br>• Cause a person to reach full physical maturity over the course of a single day or night (accelerated maturation only applies during the spell's Duration; people do not learn under the influence of this spell; full maturity is reached around age twenty)<br>• Resolve a critical aging crisis |
+| 35 | • Heal all wounds<br>• Resolve a terminal aging crisis<br>• Increase one of a person's physical Characteristics by one point, to no more than +1 |
+| 40 | • Increase one of a person's physical Characteristics by one point, to no more than +2 |
+| 45 | • Increase one of a person's physical Characteristics by one point, to no more than +3 |
+| 50 | • Increase one of a person's physical Characteristics by one point, to no more than +4 |
+| 55 | • Increase one of a person's physical Characteristics by one point, to no more than +5 (further increases are not natural to human beings, and thus cannot be effected by Creo magic) |
+| 70 | • Raise the dead, to a point (see The Shadow of Life Renewed) |
 
-Increase one of a person's physical Characteristics by one point, to no more than 0.
+### Creo Corpus Spells
 
-Cause a person to reach full physical maturity over the course of a single day or night. This accelerated maturation only applies during the spell's Duration, and thus full effect requires a Sun Duration spell cast early in the day or night. People do not learn under the influence of this spell, and for these purposes full maturity is reached around the age of twenty.
+#### LEVEL 10
 
-• Resolve a critical aging crisis
-
-Level • Heal all wounds. 35:
-
-Resolve a terminal aging crisis.
-
-Increase one of a person's physical Characteristics by one point, to no more than +1.
-
-Level • Increase one of a person's physical Characteristics by one point, to no more than +2.
-
-Level • Increase one of a person's physical
-Characteristics by one point, to no more than +3.
-
-Level • Increase one of a person's physical Characteristics by one point, to no more than +4
-
-Level
-55:
-• Increase one of a person's physical
-Characteristics by one point, to no
-more than +5. Further increases are not
-natural to human beings, and thus
-cannot be effected by Creo magic.
-
-Raise the dead, to a point.(See The Shadow of Life Renewed.)
-
-# Corpus Spells
-
-Corpus spells deal with human or humanlike bodies and anything that involves those bodies. Many faeries have enough in common with humans to be affected by Corpus spells.
-
-A base Individual for Corpus is an adult human being, up to Size +1.
-
-## Creo Corpus Spells
-
-LEVEL 10
-
-BIND WOUND
-
-R: Touch, D: Sun, T: Ind
-
-This spell binds the target's wounds, so that he can undertake any activity without the risk of worsening the wounds. He still suffers from the wound penalties, however, and cannot heal naturally while under the influence of this spell.
-
-Typically, you place your hands on the target and pass them over his wounds, which magically seal themselves and stop bleeding.
-
+##### BIND WOUND
+R: Touch, D: Sun, T: Ind<br>
+This spell binds the target's wounds, so that he can undertake any activity without the risk of worsening the wounds. He still suffers from the wound penalties, however, and cannot heal naturally while under the influence of this spell. Typically, you place your hands on the target and pass them over his wounds, which magically seal themselves and stop bleeding.<br>
 (Base 3, +1 Touch, +2 Sun)
 
-CHARM AGAINST PUTREFACTION
-
-R: Touch, D: Moon, T: Ind
-
-Prevents decay of a human corpse, or of a severed body part. Necromancers use it to preserve their revived corpses.
-
+##### CHARM AGAINST PUTREFACTION
+R: Touch, D: Moon, T: Ind<br>
+Prevents decay of a human corpse, or of a severed body part. Necromancers use it to preserve their revived corpses.<br>
 (Base 2, +1 Touch, +3 Moon)
 
 #### LEVEL 20
 
-THE CHIRURGEON'S HEALING TOUCH
-
-R: Touch, D: Mom,
-
-T: Ind, Ritual
-
-This spell heals a single Light Wound suffered by the person touched. This spell does not heal damage from poison or disease.
-
+##### THE CHIRURGEON'S HEALING TOUCH
+R: Touch, D: Mom, T: Ind, Ritual<br>
+This spell heals a single Light Wound suffered by the person touched. This spell does not heal damage from poison or disease.<br>
 (Base 15, +1 Touch)
 
-GENTLE TOUCH OF THE PURIFIED BODY
-
-R: Touch, D: Mom.
-
-T: Ind, Ritual
-
-The target is cured of a Light Wound caused by poison or disease. This spell does not heal damage caused by injury.
-
+##### GENTLE TOUCH OF THE PURIFIED BODY
+R: Touch, D: Mom, T: Ind, Ritual<br>
+The target is cured of a Light Wound caused by poison or disease. This spell does not heal damage caused by injury.<br>
 (Base 15, +1 Touch)
 
-Purification of the Festering Wounds
-
-R: Touch, D: Moon, T: Ind
-
-The target gains a +9 bonus to Recovery rolls, as long as he has been under the influence of this spell for the whole of the recovery interval. The recovery interval is counted from the time that the spell is cast, any previous time is ignored.
-
+##### PURIFICATION OF THE FESTERING WOUNDS
+R: Touch, D: Moon, T: Ind<br>
+The target gains a +9 bonus to Recovery rolls, as long as he has been under the influence of this spell for the whole of the recovery interval. The recovery interval is counted from the time that the spell is cast, any previous time is ignored.<br>
 (Base 4, +1 Touch, +3 Moon)
 
 #### LEVEL 25
 
-RESTORATION OF THE DEFILED BODY
-
-R: Touch, D: Mom,
-
-T: Ind, Ritual
-
-Removes the crippling or malignant after-effects of any injury, poison, or disease, or of premature aging. The effects of natural aging cannot be undone by this or any spell. This spell does not heal wounds, only extra effects.
-
+##### RESTORATION OF THE DEFILED BODY
+R: Touch, D: Mom, T: Ind, Ritual<br>
+Removes the crippling or malignant after-effects of any injury, poison, or disease, or of premature aging. The effects of natural aging cannot be undone by this or any spell. This spell does not heal wounds, only extra effects.<br>
 (Base 20, +1 Touch)
 
-THE SEVERED LIMB MADE WHOLE
-
-R: Touch, D: Mom.
-
-T: Ind, Ritual
-
-A limb that has been detached from the body can be reattached, but any decay that has occurred on the severed limb remains after the limb is reattached. After a day of decomposition, a limb is weak. After seven days, it is nearly useless and infects the character on whom it is replaced (Stamina stress roll against an Ease Factor of 6 or take a Medium Wound). If it's been severed for more than two weeks, the limb is completely useless.
-
+##### THE SEVERED LIMB MADE WHOLE
+R: Touch, D: Mom, T: Ind, Ritual<br>
+A limb that has been detached from the body can be reattached, but any decay that has occurred on the severed limb remains after the limb is reattached. After a day of decomposition, a limb is weak. After seven days, it is nearly useless and infects the character on whom it is replaced (Stamina stress roll against an Ease Factor of 6 or take a Medium Wound). If it's been severed for more than two weeks, the limb is completely useless.<br>
 (Base 25, +1 Touch, -1 because the old limb is needed)
 
 #### LEVEL 30
 
-CHEATING THE REAPER
-
-R: Touch, D: Mom,
-
-T: Ind, Ritual
-
-Resolves a major (or less severe) crisis caused by aging. The target still requires rest for the remainder of the season to recover fully. Note that each application of this spell causes Warping. See page 392 for details on crises.
-
+##### CHEATING THE REAPER
+R: Touch, D: Mom, T: Ind, Ritual<br>
+Resolves a major (or less severe) crisis caused by aging. The target still requires rest for the remainder of the season to recover fully. Note that each application of this spell causes Warping. See page 392 for details on crises.<br>
 (Base 25, +1 Touch)
 
-LEVEL 40
+#### LEVEL 40
 
-Incantation of the Body Made Whole
-
-R: Touch, D: Mom,
-
-T: Ind, Ritual
-
-Heals all damage to a human body at the conclusion of the ritual. The spell can only heal wounds, not such damage as missing limbs, or diseases and damage from poisons.
-
+##### INCANTATION OF THE BODY MADE WHOLE
+R: Touch, D: Mom, T: Ind, Ritual<br>
+Heals all damage to a human body at the conclusion of the ritual. The spell can only heal wounds, not such damage as missing limbs, or diseases and damage from poisons.<br>
 (Base 35, +1 Touch)
 
 #### LEVEL 75
 
-THE SHADOW OF LIFE RENEWED
-
-R: Touch, D: Mom,
-
-T: Ind, Ritual
-
-Req: Mentem
-
+##### THE SHADOW OF LIFE RENEWED
+R: Touch, D: Mom, T: Ind, Ritual<br>
+Req: Mentem<br>
 Brings the semblance of life to a corpse. During the ritual, healing spells work on the corpse, which is important because the body must be physically whole or else it simply dies again once it is brought back to life. For each day that the person has been dead, roll for aging. When the ritual is complete, roll a simple die to determine the success of the attempt:
 
-- 1: Body dissolves
-- 2: Body possessed by a demon, faerie, or other supernatural entity
-- 3: Mindless, useless living corpse
-- 4 5: Automaton with no Abilities over 3
-- 6 7: Automaton, but Abilities as a normal person's
-- 8: Person with self direction but no personality, and somehow dangerously demented
-- 9 10: Person with will, but no personality. In any case, the revived person is not truly alive and is unable to gain experience points. Also, the person must make an aging roll at the beginning of each year of its existence, regardless of age. This is the closest that the Order has gotten to raising a person from the dead.
+| Roll | Result |
+| ---- | ------ |
+| 1    | Body dissolves  |
+| 2    | Body possessed by a demon, faerie, or other supernatural entity |
+| 3    | Mindless, useless living corpse |
+| 4–5  | Automaton with no Abilities over 3 |
+| 6–7  | Automaton, but Abilities as a normal person's |
+| 8    | Person with self direction but no personality, and somehow dangerously demented |
+| 9–10 | Person with will, but no personality. The revived person is not truly alive and cannot gain experience points. Must make an aging roll at the beginning of each year of existence, regardless of age. This is the closest the Order has gotten to raising the dead. |
 
-(Base 70,  $\pm$ 1 Touch, no addition for requisite)
+(Base 70, +1 Touch, no addition for requisite)
 
-## Intellego Corpus Guidelines
+### Intellego Corpus Guidelines
 
 Common sigils seen in Intellego Corpus spells usually report information in some strange or quirky way.
 
 Like most Intellego botches, Intellego Corpus botches normally provide false information.
 
-Level 3: • Locate a person.
+| Level | Intellego Corpus Guideline |
+| ----- | -------------------------- |
+| 3 | • Locate a person |
+| 4 | • Sense very general information about a body |
+| 5 | • Sense a specific piece of information about a body<br>• Speak with a dead body |
+| 10 | • Sense all useful information about a body |
 
-Level 4: • Sense very general information about a body.
-
-Level 5: • Sense a specific piece of information about a body.
-
-• Speak with a dead body.
-
-Level 10: • Sense all useful information about a body.
-
-## Intellego Corpus Spells
+### Intellego Corpus Spells
 
 #### GENERAL
 
-SIGHT OF THE TRUE FORM
-
-R: Per, D: Mom, T: Vision
-
-You see the true, original form of any person whose form has been changed or masked. This spell can see through mundane masks and disguises at level 10, and can see through the effects of other spells that are equal to or lower than the level of this spell.
-
+##### SIGHT OF THE TRUE FORM
+R: Per, D: Mom, T: Vision<br>
+You see the true, original form of any person whose form has been changed or masked. This spell can see through mundane masks and disguises at level 10, and can see through the effects of other spells that are equal to or lower than the level of this spell.<br>
 (Variable base)
 
 #### LEVEL 5
 
-PHYSICIAN'S EYE
-
-R: Touch, D: Mom, T: Ind
-
-Determines the general health of a single person. Specific afflictions appear to you as areas of yellow coloration on the person's body. A Perception + Medicine stress roll is required to identify unusual diseases. The Ease Factor is determined by the rarity of the disease.
-
+##### PHYSICIAN'S EYE
+R: Touch, D: Mom, T: Ind<br>
+Determines the general health of a single person. Specific afflictions appear to you as areas of yellow coloration on the person's body. A Perception + Medicine stress roll is required to identify unusual diseases. The Ease Factor is determined by the rarity of the disease.<br>
 (Base 4, +1 Touch)
 
 #### LEVEL 10
 
-REVEALED FLAWS OF MORTAL FLESH R: Touch, D: Mom, T: Ind
-
-You are able to find any medical defects in a person or being that you are touching. This provides more, and more specific, information than Physician's Eye.
-
+##### REVEALED FLAWS OF MORTAL FLESH
+R: Touch, D: Mom, T: Ind<br>
+You are able to find any medical defects in a person or being that you are touching. This provides more, and more specific, information than Physician's Eye.<br>
 (Base 5, +1 Touch)
 
 #### LEVEL 15
 
-WHISPERS THROUGH THE BLACK GATE
-R: Touch, D: Conc. T: Ind
-
-Req: Mentem
-
-You can speak through the barrier — the figurative "gate" — that stands between the dead and the living, to one corpse that has not yet decayed into a skeleton. The corpse cannot have been buried in Church burial, nor have belonged to a spirit that went straight to Heaven (for example, a saint or a crusader). The spirit that you speak with is not compelled to tell the truth; you can, of course, find ways to coerce or trick it into doing so. All those around you can hear the voice of the corpse.
-
+##### WHISPERS THROUGH THE BLACK GATE
+R: Touch, D: Conc. T: Ind<br>
+Req: Mentem<br>
+You can speak through the barrier — the figurative "gate" — that stands between the dead and the living, to one corpse that has not yet decayed into a skeleton. The corpse cannot have been buried in Church burial, nor have belonged to a spirit that went straight to Heaven (for example, a saint or a crusader). The spirit that you speak with is not compelled to tell the truth; you can, of course, find ways to coerce or trick it into doing so. All those around you can hear the voice of the corpse.<br>
 (Base 5, +1 Touch, +1 Conc, no cost for requisite)
 
 #### LEVEL 20
 
-THE INEXORABLE SEARCH
-
-R: Arc, D: Conc, T: Ind
-
-Determines the location of a specific person. To cast the spell you need a map and an Arcane Connection. After casting the spell, you can move your finger over the map at the rate of one hour per square foot of map. When your finger passes over the person's location as represented on the map, you sense the person's presence. (If the person is not in the area covered by the map, no sensations result.) You can locate the person to within a thumb's width on the map. A similar spell allows you to search for a dead body (Tracing the Trail of Death's Stench).
-
+##### THE INEXORABLE SEARCH
+R: Arc, D: Conc, T: Ind<br>
+Determines the location of a specific person. To cast the spell you need a map and an Arcane Connection. After casting the spell, you can move your finger over the map at the rate of one hour per square foot of map. When your finger passes over the person's location as represented on the map, you sense the person's presence. (If the person is not in the area covered by the map, no sensations result.) You can locate the person to within a thumb's width on the map. A similar spell allows you to search for a dead body (Tracing the Trail of Death's Stench).<br>
 (Base 3, +4 Arc, +1 Conc)
 
 #### LEVEL 30
 
-THE EYE OF THE SAGE
-
-R: Arc, D: Conc, T: Ind
-
-Req: Imaginem
-
-Lets you see a specific person and what is within one pace of that person. The image is clear enough to allow reading.
-
+##### THE EYE OF THE SAGE
+R: Arc, D: Conc, T: Ind<br>
+Req: Imaginem<br>
+Lets you see a specific person and what is within one pace of that person. The image is clear enough to allow reading.<br>
 (Base 4, +4 Arc, +1 Conc, +1 requisite)
 
-## Muto Corpus Spells
-
-#### LEVEL 5
-
-EYES OF THE CAT
-
-R: Touch, D: Sun, T: Ind
-
-Req: Animal
-
-The target gains the eyes of a cat, which allow him or her to see in near darkness (but not in absolute darkness, such as a lightless subterranean cavern).
-
-(Base 2, +1 Touch, +2 Sun, requisite free)
-
-#### LEVEL 15
-
-DISGUISE OF THE NEW VISAGE
-
-R: Touch, D: Sun, T: Part
-
-The target's facial features are transformed to any approximately human configuration you choose.
-
-In Cralian of Tremere's version of this spell, the new visage is always as unassuming as possible.
-
-(Base 3, +1 Touch, +2 Sun, +1 Part)
-
-PRETERNATURAL GROWTH AND SHRINKING
-
-R: Touch, D: Sun, T: Ind
-
-Adds +1 to the target's normal Size or decreases it by up to 2 points.
-
-(Base 3, +1 Touch, +2 Sun, +1 because the spell allows growth or two kinds of shrinking)
-
-#### LEVEL 20
-
-Arm of the Infant
-
-R: Voice, D: Sun, T: Part
-
-Shrinks a person's arm to half its original length and makes it pudgy, like an infant's.
-
-(Base 3, +2 Voice, +2 Sun, +1 Part)
-
-#### LEVEL 25
-
-GIFT OF THE BEAR'S FORTITUDE
-
-R: Per, D: Sun, T: Ind
-
-Your flesh becomes resistant to physical damage. You get +3 to your Soak. Your flesh is tough and insensitive; any rolls that involve a sensitive touch (such as for picking a lock) are at -1.
-
-(Base 15, +2 Sun)
-
-Shape of the Woodland Prowler
-
-R: Touch, D: Sun, T: Ind
-
-Req: Animal
-
-You place a wolf skin over yourself or another, and the target changes into a wolf. The target may change back at will, ending the spell. Before casting this spell, you must first, of course, acquire the skin of a wolf, if you want to be able to end the spell early.
-
-(Base 10, +1 Touch, +2 Sun)
-
-#### LEVEL 30
-
-CLOAK OF BLACK FEATHERS
-
-R: Per, D: Sun, T: Ind
-
-Req: Animal
-
-You hang a small cape of raven feathers on your back and transform into a raven. You can resume human form at will, but doing so ends the spell.
-
-(Base 20. +2 Sun)
-
-## Muto Corpus Guidelines
+### Muto Corpus Guidelines
 
 These spells transform people. There are beneficial spells to cast on yourself and your companions, and harmful spells to cast on your foes.
 
@@ -15598,438 +14899,331 @@ Certain shapechanging spells allow the target to change back by concentrating. W
 
 Muto Corpus botches may lead to a spell lasting indefinitely, and proving hard to dispel.
 
-- Level 2: Change someone to give them a minor ability.
-- Level 3: Utterly change the appearance or size of a person (though they must still remain human in form).
-  - Change non-living human bone to have an unnatural property (requisites may be needed).
-- Level 5: Make a body resistant to damage (+1 Soak).
-  - Add or remove human body parts from the target in such a way that
-    he no longer looks human. These parts are normally functional,
-    although a spell may be deliberately designed so that they are not.
-    The Target is Part, not Individual (although Group and higher
-    Targets work as normal)
-- Level 10: Turn a human into a land animal (with an Animal requisite).
-  - Make a body resistant to damage (+2 Soak).
-- Level 15: Make a body resistant to damage (+3 Soak).
-- Level 20: Turn a human into a bird or a fish (Animal requisite)
-  - Make a body resistant to damage (+4 Soak)
-- Level 25: Turn a human into a solid inanimate object (Terram requisite).
-  - Make a body resistant to damage (+5 Soak).
-  - Turn a human into a plant (Herbam requisite).
-- Level 30: Turn a human into an insubstantial object (Auram requisite).
+| Level | Muto Corpus Guideline |
+| ----- | --------------------- |
+| 2 | • Change someone to give them a minor ability |
+| 3 | • Utterly change the appearance or size of a person (though they must still remain human in form)<br>• Change non-living human bone to have an unnatural property (requisites may be needed) |
+| 5 | • Make a body resistant to damage (+1 Soak)<br>• Add or remove human body parts from the target in such a way that he no longer looks human; these parts are normally functional, although a spell may be deliberately designed so that they are not (the Target is Part, not Individual, although Group and higher Targets work as normal) |
+| 10 | • Turn a human into a land animal (with an Animal requisite)<br>• Make a body resistant to damage (+2 Soak) |
+| 15 | • Make a body resistant to damage (+3 Soak) |
+| 20 | • Turn a human into a bird or a fish (Animal requisite)<br>• Make a body resistant to damage (+4 Soak) |
+| 25 | • Turn a human into a solid inanimate object (Terram requisite)<br>• Make a body resistant to damage (+5 Soak)<br>• Turn a human into a plant (Herbam requisite) |
+| 30 | • Turn a human into an insubstantial object (Auram requisite) |
 
-Curse of Circe
+### Muto Corpus Spells
 
-R: Voice, D: Sun, T: Ind Req: Animal
+#### LEVEL 5
 
-Turns a person into a pig. (Base 10, +2 Voice, +2 Sun)
+##### EYES OF THE CAT
+R: Touch, D: Sun, T: Ind<br>
+Req: Animal<br>
+The target gains the eyes of a cat, which allow him or her to see in near darkness (but not in absolute darkness, such as a lightless subterranean cavern).<br>
+(Base 2, +1 Touch, +2 Sun, requisite free)
+
+#### LEVEL 15
+
+##### DISGUISE OF THE NEW VISAGE
+R: Touch, D: Sun, T: Part<br>
+The target's facial features are transformed to any approximately human configuration you choose. In Cralian of Tremere's version of this spell, the new visage is always as unassuming as possible.<br>
+(Base 3, +1 Touch, +2 Sun, +1 Part)
+
+##### PRETERNATURAL GROWTH AND SHRINKING
+R: Touch, D: Sun, T: Ind<br>
+Adds +1 to the target's normal Size or decreases it by up to 2 points.<br>
+(Base 3, +1 Touch, +2 Sun, +1 because the spell allows growth or two kinds of shrinking)
+
+#### LEVEL 20
+
+##### ARM OF THE INFANT
+R: Voice, D: Sun, T: Part<br>
+Shrinks a person's arm to half its original length and makes it pudgy, like an infant's.<br>
+(Base 3, +2 Voice, +2 Sun, +1 Part)
+
+#### LEVEL 25
+
+##### GIFT OF THE BEAR'S FORTITUDE
+R: Per, D: Sun, T: Ind<br>
+Your flesh becomes resistant to physical damage. You get +3 to your Soak. Your flesh is tough and insensitive; any rolls that involve a sensitive touch (such as for picking a lock) are at -1.<br>
+(Base 15, +2 Sun)
+
+##### SHAPE OF THE WOODLAND PROWLER
+R: Touch, D: Sun, T: Ind<br>
+Req: Animal<br>
+You place a wolf skin over yourself or another, and the target changes into a wolf. The target may change back at will, ending the spell. Before casting this spell, you must first, of course, acquire the skin of a wolf, if you want to be able to end the spell early.<br>
+(Base 10, +1 Touch, +2 Sun)
+
+#### LEVEL 30
+
+##### CLOAK OF BLACK FEATHERS
+R: Per, D: Sun, T: Ind<br>
+Req: Animal<br>
+You hang a small cape of raven feathers on your back and transform into a raven. You can resume human form at will, but doing so ends the spell.<br>
+(Base 20. +2 Sun)
+
+##### CURSE OF CIRCE
+R: Voice, D: Sun, T: Ind<br>
+Req: Animal<br>
+Turns a person into a pig.<br>
+(Base 10, +2 Voice, +2 Sun)
 
 #### LEVEL 35
 
-Stance of the Patient Tree R: Per, D: Sun, T: Ind
-
-Req: Herbam
-
-You turn yourself into a tree about 12 feet high, with a trunk about a foot thick. You can sense only the most basic things, such as night and day, strong winds, and things that can affect a tree. You can resume human form at will, but doing so ends the spell. While in tree form, you do not heal any wounds or restore any Fatigue levels. The tree branch you use to let yourself change back determines the kind of tree you become, and you cannot cast the spell without the branch.
-
+##### STANCE OF THE PATIENT TREE
+R: Per, D: Sun, T: Ind<br>
+Req: Herbam<br>
+You turn yourself into a tree about 12 feet high, with a trunk about a foot thick. You can sense only the most basic things, such as night and day, strong winds, and things that can affect a tree. You can resume human form at will, but doing so ends the spell. While in tree form, you do not heal any wounds or restore any Fatigue levels. The tree branch you use to let yourself change back determines the kind of tree you become, and you cannot cast the spell without the branch.<br>
 (Base 25, +2 Sun)
 
 #### LEVEL 40
 
-CLOAK OF MIST
-
-R: Per, D: Sun, T: Ind
-
-Req: Auram
-
-You turn yourself into a thick, cohesive mist of approximately human size. You can float through the air at walking speed and can see and hear what is going on around you. You can also seep through cracks, but cannot move through solid objects. You may return to human form at any time, but doing so ends the spell. As mist, you are subject to the forces of the wind. In order to cast this spell, you inhale some mist, and you keep the mist in your 'mouth' until you want to end the spell.
-
+##### CLOAK OF MIST
+R: Per, D: Sun, T: Ind<br>
+Req: Auram<br>
+You turn yourself into a thick, cohesive mist of approximately human size. You can float through the air at walking speed and can see and hear what is going on around you. You can also seep through cracks, but cannot move through solid objects. You may return to human form at any time, but doing so ends the spell. As mist, you are subject to the forces of the wind. In order to cast this spell, you inhale some mist, and you keep the mist in your 'mouth' until you want to end the spell.<br>
 (Base 30, +2 Sun)
 
-Transform to Water
-
-R: Per, D: Sun, T: Ind
-
-Req: Aquam
-
-You turn yourself into water, one pint for every pound of the your weight. As water, you can hold yourself together unless someone makes an effort to separate part of you from the rest. You can roll slowly across the ground, but
-
-cannot move uphill. You can hear sounds, feel things that touch you, and can sense temperature. You can resume human form at will, but doing so ends the spell. You cannot resume human form if a significant part of your body/water is separated from the rest. You pour a small amount of water into your hands when you cast the spell.
-
+##### TRANSFORM TO WATER
+R: Per, D: Sun, T: Ind<br>
+Req: Aquam<br>
+You turn yourself into water, one pint for every pound of the your weight. As water, you can hold yourself together unless someone makes an effort to separate part of you from the rest. You can roll slowly across the ground, but cannot move uphill. You can hear sounds, feel things that touch you, and can sense temperature. You can resume human form at will, but doing so ends the spell. You cannot resume human form if a significant part of your body/water is separated from the rest. You pour a small amount of water into your hands when you cast the spell.<br>
 (Base 30, +2 Sun)
 
 #### LEVEL 45
 
-THE SILENT VIGIL
-
-R: Per, D: Moon, T: Ind
-
-Req: Terram
-
-You can move into and become part of a rock formation that is at least twice your size. While in the stone, you can hear what is going on around you, but you cannot use other senses. The spell lasts until you come out, and you must come out where you went in. You have no need for food or drink, though you do age. Rolls to recover from Fatigue or wounds take twice as long to make while you are in the stone. Casting requisites are required for items you take with you into the stone.
-
+##### THE SILENT VIGIL
+R: Per, D: Moon, T: Ind<br>
+Req: Terram<br>
+You can move into and become part of a rock formation that is at least twice your size. While in the stone, you can hear what is going on around you, but you cannot use other senses. The spell lasts until you come out, and you must come out where you went in. You have no need for food or drink, though you do age. Rolls to recover from Fatigue or wounds take twice as long to make while you are in the stone. Casting requisites are required for items you take with you into the stone.<br>
 (Base 25, +3 Moon, +1 for special effect)
 
 #### LEVEL 60
 
-MISTS OF CHANGE
-
-R: Voice, D: Sun & Year,
-
-T: Bound, Ritual
-
-Req: Animal
-
+##### MISTS OF CHANGE
+R: Voice, D: Sun & Year, T: Bound, Ritual<br>
+Req: Animal<br>
 As this spell is cast, a whipping wind arises and patches of mist begin to roll across the landscape. Sometimes, a patch of mist suddenly envelops a person for a few seconds, during which time the victim cannot move. When the mist blows away, continuing its course, the person is left transformed into a random creature. Roll a simple die to determine the result:
 
-- 1: Wolf
-- 2: Horse
-- 3: Brown Bear
-- 4: Large Toad
-- 5: Ferret
-- 6: Viper
-- 7: Boar/Sow
-- 8: Dog
-- 9: Cat
-- **0**: Other (storyguide picks; be cruel).
+| Roll | Animal                             |
+| ---- | ---------------------------------- |
+| 1    | Wolf                               |
+| 2    | Horse                              |
+| 3    | Brown Bear                         |
+| 4    | Large Toad                         |
+| 5    | Ferret                             |
+| 6    | Viper                              |
+| 7    | Boar/Sow                           |
+| 8    | Dog                                |
+| 9    | Cat                                |
+| 0    | Other (storyguide picks; be cruel) |
 
-People transformed retain their human minds, but inherit all the passions and instincts of their new forms.
-
-The mist covers the target area, which must be in sight when you cast the spell. The mists affect the area until sunrise or sunset, and transform anyone who remains in the area during that time. For important characters, roll a simple die when the spell is cast and every half hour afterwards, and on a roll lower than the number of rolls made so far the mists envelope and transform them at some point in the next half hour. The transformations last for a Year.
-
+People transformed retain their human minds, but inherit all the passions and instincts of their new forms. The mist covers the target area, which must be in sight when you cast the spell. The mists affect the area until sunrise or sunset, and transform anyone who remains in the area during that time. For important characters, roll a simple die when the spell is cast and every half hour afterwards, and on a roll lower than the number of rolls made so far the mists envelope and transform them at some point in the next half hour. The transformations last for a Year.<br>
 (Base 10, +2 Voice, +4 Year, +4 Bound, slightly nonstandard effect, mist and wind are cosmetic only)
 
-## Perdo Corpus Spells
-
-#### LEVEL 5
-
-TOUCH OF THE GOOSE FEATHER
-
-R: Voice, D: Mom, T: Ind
-
-The target lets out a loud sneeze. Spellcasters who sneeze must make Intelligence + Concentration stress rolls against an Ease Factor of 12 to maintain concentration, and others get –1 on most activities at the moment of the sneeze.
-
-(Base 3, +2 Voice)
-
-#### LEVEL 15
-
-#### Dust to Dust
-
-R: Voice, D: Mom, T: Ind
-
-Turns a dead body or mindless undead body to dust in two rounds. The spell doesn't affect those undead possessed by spirits. To do this to an animal corpse requires a Perdo Animal spell.
-
-(Base 5, +2 Voice)
-
-#### THE WOLIND THAT WEEPS
-
-R: Voice, D: Mom, T: Ind
-
-When casting this spell, you point at the victim and a large wound opens on his or her body. The wound is not a deep one, but it bleeds profusely. This is only a Light Wound, but it looks bad.
-
-(Base 5, +2 Voice)
-
-#### LEVEL 20
-
-INVOCATION OF WEARINESS
-
-R: Voice, D: Mom, T: Ind
-
-The target loses a Fatigue level. The phrases used with this spell are usually singsong melodies, which lull the victim into drowsiness.
-
-(Base 10, +2 Voice)
-
-#### LEVEL 25
-
-BANE OF THE DECREPIT BODY
-
-R: Voice, D: Mom. T: Ind
-
-The target ages 5 years. Determine effects normally. This spell does not work on children younger than age 16.
-
-(Base 15, +2 Voice)
-
-#### CURSE OF THE LEPROUS FLESH
-
-R: Touch, D: Mom, T: Ind
-
-This spell inflicts leprosy on the target, which causes a person's flesh to rot off in a matter of weeks a truly hideous sight. Much of the target's flesh literally hangs from his or her frame, and there is a pungent rotting smell about him at all times. The target takes an Incapacitating Wound from the disease, and must roll as normal to recover. The target also loses a point of Stamina by the time the disease ends. If the victim somehow survives this curse, he is shunned by mundane communities. If the victim succeeds in a Stamina roll against an Ease Factor of 6 when the spell is cast, he shakes off the disease, although he still feels unwell for a few days, and may have problems if an astute doctor realizes he is leprous.
-
-(Base 20, +1 Touch)
-
-#### GRIP OF THE CHOKING HAND
-
-R: Voice, D: Conc, T: Ind
-
-The target feels an invisible, strangling hand on the throat. Each round, the target loses a Fatigue level. Once the target falls unconscious, the spell has no further effect. The spell works by seriously constricting the target's windpipe, hence the feeling. This constriction is not quite enough to kill, however.
-
-(Base 10, +2 Voice, +1 Conc)
-
-#### LEVEL 30
-
-Incantation of the Milky Eyes
-
-R: Voice, D: Mom, T: Ind
-
-Blinds a target, leaving the eyes milky with cataracts. This heals as a Heavy Wound.
-
-(Base 20, +2 Voice)
-
-#### TWIST OF THE TONGUE
-
-R: Voice, D: Mom, T: Part
-
-Twists the target's tongue into a spiral, completely destroying the ability to speak. A grave offense to a magus. The damage heals as a Medium Wound.
-
-(Base 15, +2 Voice, +1 Part)
-
-#### LEVEL 40
-
-CLENCHING GRASP OF THE CRUSHED HEART
-
-R: Voice, D: Mom, T: Ind
-
-When casting this spell, you make a clenching motion with your hand. The victim doubles over and dies at once.
-
-(Base 30, +2 Voice)
-
-#### LEVEL 45
-
-THE KISS OF DEATH
-
-R: Touch, D: Mom, T: Ind
-
-The person you kiss dies a sudden death. The only mark on the corpse is the black imprint of your lips. You do not need to speak when casting this spell, and thus gain no penalty from silence. (This is why the spell is higher level than the guidelines would indicate.)
-
-(Base 30, +1 Touch, +2 for no words)
-
-## Perdo Corpus Guidelines
+### Perdo Corpus Guidelines
 
 These spells harm people directly, often permanently, unless outside magics are used to repair the damage.
 
 Diseases caused by magic have a base Ease Factor of 6. For every magnitude by which the spell level increases, the Ease Factor increases by 1. It is not possible to reduce the level by reducing the Ease Factor. (See page 8)
 
-Level 3: • Do superficial damage to a body (for example, remove its hair).
+| Level | Perdo Corpus Guideline |
+| ----- | ---------------------- |
+| 3 | • Do superficial damage to a body (for example, remove its hair) |
+| 4 | • Cause a person pain, but do no real damage |
+| 5 | • Inflict a Light Wound<br>• Destroy a corpse<br>• Hamper a person without actually injuring them (for example, make them lame, blur their eyesight; heals as a Light Wound) |
+| 10 | • Inflict a Medium Wound<br>• Cause the loss of a Fatigue level |
+| 15 | • Age someone by up to five years<br>• Cripple a limb, making it unusable but still capable of healing (heals as a Medium Wound)<br>• Destroy one of a person's minor senses (heals as a Medium Wound)<br>• Inflict a Heavy Wound |
+| 20 | • Destroy one of a person's major senses (heals as a Heavy Wound)<br>• Inflict a major disease<br>• Destroy or sever a limb, so that it cannot heal naturally<br>• Inflict an Incapacitating Wound |
+| 30 | • Kill a person |
+| 40 | • Destroy one property of a person, such as their weight or solidity |
 
-Level 4: • Cause a person pain, but do no real damage.
+### Perdo Corpus Spells
 
-Level 5: • Inflict a Light Wound.
+#### LEVEL 5
 
-• Destroy a corpse
+##### TOUCH OF THE GOOSE FEATHER
+R: Voice, D: Mom, T: Ind<br>
+The target lets out a loud sneeze. Spellcasters who sneeze must make Intelligence + Concentration stress rolls against an Ease Factor of 12 to maintain concentration, and others get –1 on most activities at the moment of the sneeze.<br>
+(Base 3, +2 Voice)
 
-• Hamper a person without actually injuring them. For example, make them lame, blur their eyesight. Heals as a Light Wound.
+#### LEVEL 15
 
-Level 10: • Inflict a Medium Wound.
+##### DUST TO DUST
+R: Voice, D: Mom, T: Ind<br>
+Turns a dead body or mindless undead body to dust in two rounds. The spell doesn't affect those undead possessed by spirits. To do this to an animal corpse requires a Perdo Animal spell.<br>
+(Base 5, +2 Voice)
 
-Cause the loss of a Fatigue level
+#### THE WOUND THAT WEEPS
+R: Voice, D: Mom, T: Ind<br>
+When casting this spell, you point at the victim and a large wound opens on his or her body. The wound is not a deep one, but it bleeds profusely. This is only a Light Wound, but it looks bad.<br>
+(Base 5, +2 Voice)
 
-Level 15: • Age someone by up to five years.
+#### LEVEL 20
 
-• Cripple a limb, making it unusable (but still capable of healing). The damage heals as a Medium Wound.
+##### INVOCATION OF WEARINESS
+R: Voice, D: Mom, T: Ind<br>
+The target loses a Fatigue level. The phrases used with this spell are usually singsong melodies, which lull the victim into drowsiness.<br>
+(Base 10, +2 Voice)
 
-• Destroy one of a person's minor senses. The damage heals as a
+#### LEVEL 25
 
-Medium Wound.
-• Inflict a Heavy Wound.
+##### BANE OF THE DECREPIT BODY
+R: Voice, D: Mom. T: Ind<br>
+The target ages 5 years. Determine effects normally. This spell does not work on children younger than age 16.<br>
+(Base 15, +2 Voice)
 
-Level 20: • Destroy one of a person's major senses. This damage heals as a Heavy Wound.
+##### CURSE OF THE LEPROUS FLESH
+R: Touch, D: Mom, T: Ind<br>
+This spell inflicts leprosy on the target, which causes a person's flesh to rot off in a matter of weeks a truly hideous sight. Much of the target's flesh literally hangs from his or her frame, and there is a pungent rotting smell about him at all times. The target takes an Incapacitating Wound from the disease, and must roll as normal to recover. The target also loses a point of Stamina by the time the disease ends. If the victim somehow survives this curse, he is shunned by mundane communities. If the victim succeeds in a Stamina roll against an Ease Factor of 6 when the spell is cast, he shakes off the disease, although he still feels unwell for a few days, and may have problems if an astute doctor realizes he is leprous.<br>
+(Base 20, +1 Touch)
 
-Inflict a major disease.
+##### GRIP OF THE CHOKING HAND
+R: Voice, D: Conc, T: Ind<br>
+The target feels an invisible, strangling hand on the throat. Each round, the target loses a Fatigue level. Once the target falls unconscious, the spell has no further effect. The spell works by seriously constricting the target's windpipe, hence the feeling. This constriction is not quite enough to kill, however.<br>
+(Base 10, +2 Voice, +1 Conc)
 
-• Destroy or sever a limb, so that it cannot heal naturally.
+#### LEVEL 30
 
-• Inflict an Incapacitating Wound.
+##### INCANTATION OF THE MILKY EYES
+R: Voice, D: Mom, T: Ind<br>
+Blinds a target, leaving the eyes milky with cataracts. This heals as a Heavy Wound.<br>
+(Base 20, +2 Voice)
 
-Level 30: • Kill a person.
+#### TWIST OF THE TONGUE
+R: Voice, D: Mom, T: Part<br>
+Twists the target's tongue into a spiral, completely destroying the ability to speak. A grave offense to a magus. The damage heals as a Medium Wound.<br>
+(Base 15, +2 Voice, +1 Part)
 
-Level 40: • Destroy one property of a person, such as their weight or solidity.
+#### LEVEL 40
 
-## Rego Corpus Guidelines
+##### CLENCHING GRASP OF THE CRUSHED HEART
+R: Voice, D: Mom, T: Ind<br>
+When casting this spell, you make a clenching motion with your hand. The victim doubles over and dies at once.<br>
+(Base 30, +2 Voice)
+
+#### LEVEL 45
+
+##### THE KISS OF DEATH
+R: Touch, D: Mom, T: Ind<br>
+The person you kiss dies a sudden death. The only mark on the corpse is the black imprint of your lips. You do not need to speak when casting this spell, and thus gain no penalty from silence. (This is why the spell is higher level than the guidelines would indicate.)<br>
+(Base 30, +1 Touch, +2 for no words)
+
+#### LEVEL 55
+
+##### CURSE OF THE UNPORTENDED PLAGUE
+R: Sight, D: Mom, T: Bound, Ritual<br>
+Starts a plague in a city or other Boundary. Everyone within the boundary is afflicted with the disease when the ritual is complete, and suffers as described under Curse of the Leprous Flesh, on the previous page. The conditions causing the disease last but a moment, so people entering the area after the spell is cast are safe. Using, or even transcribing, this spell is rigorously discouraged by most of the Order of Hermes. (Note: the disease caused by this spell is not the later Bubonic Plague, which is unknown in Europe in 1220.)<br>
+(Base 20, +3 Sight, +4 Bound)
+
+### Rego Corpus Guidelines
 
 Rego Corpus botches often take control of the caster's body, and move it in ways he would not want.
 
 Rego Corpus can be used to perform surgery. Detailed rules for surgery can be found in Art and Academe.
 
-General: • Ward against creatures associated with Corpus from one
+| Level | Rego Corpus Guideline |
+| ----- | --------------------- |
+| General | • Ward against creatures associated with Corpus from one realm (Divine, Faerie, Infernal, or Magic) with a Might less than or equal to the level of the spell (note that Hermetic magi have no Might, and thus are not affected by such spells) (Touch, Ring, Circle) |
+| 2 | • Make a target lose control of a body part |
+| 3 | • Move a target slowly in one direction, as long as the surface can support its weight<br>• Invoke a minor symptom of a disease without creating any underlying malaise (e.g. rash, mild fever, cough) |
+| 4 | • Control the large-scale physical movements of a target<br>• Move a target slowly in any direction you please<br>• Move a target slowly straight up, or in one direction over surfaces that cannot support it |
+| 5 | • Hold a target's body motionless<br>• Invoke a major symptom of a disease without creating any underlying malaise (e.g. vomiting, boils, paralysis)<br>• Move a target slowly in any direction you please, even if the target is unsupported<br>• Perform a trivial surgical procedure (inflicting a Fatigue level)<br>• Control a disembodied spirit associated with Corpus |
+| 10 | • Control a target's motions<br>• Eliminate the penalties of Fatigue and wounds<br>• Animate a corpse<br>• Transport the target instantly up to 5 paces<br>• Perform a minor surgical procedure, inflicting a Light Wound or preventing a Light Wound from worsening |
+| 15 | • Direct the flow of bodily energy<br>• Move a target quickly in any direction you please, even if it is unsupported<br>• Summon a disembodied spirit associated with Corpus<br>• Transport the target instantly up to 50 paces<br>• Ward a target against other human beings (to ward off a Hermetic magus, the ward must penetrate his Magic Resistance)<br>• Perform a major surgical procedure, inflicting a Medium Wound or preventing a Medium Wound from worsening |
+| 20 | • Transport the target instantly up to 500 paces<br>• Perform a critical surgical procedure, preventing a Heavy Wound from worsening |
+| 25 | • Transport the target instantly up to one league<br>• Perform a life-saving surgical procedure, preventing an Incapacitating or Fatal Wound from worsening |
+| 30 | • Transport the target instantly up to seven leagues |
+| 35 | • Transport the target instantly to a place you have an Arcane Connection to |
 
-realm (Divine, Faerie, Infernal, or Magic) with a Might less than or equal to the level of the spell. Note that Hermetic magi have no Might, and thus are not affected by such spells. (Touch, Ring, Circle)
-
-Level 2: • Make a target lose control of a body part.
-
-Level 3: • Move a target slowly in one direction, as long as the surface can support its weight.
-
-• Invoke a minor symptom of a disease without creating any underlying malaise (e.g. rash, mild fever, cough)
-
-Level 4: • Control the large-scale physical movements of a target.
-
-• Move a target slowly in any direction you please.
-
-• Move a target slowly straight up, or in one direction over surfaces that cannot support it.
-
-Level 5: • Hold a target's body motionless.
-
-Invoke a major symptom of a disease without creating any underlying malaise (e.g. vomiting, boils, paralysis)
-
-• Move a target slowly in any direction you please, even if the target is unsupported.
-
-Perform a trivial surgical procedure (inflicting a Fatigue level).
-
-• Control a disembodied spirit associated with Corpus.
-
-Level 10: • Control a target's motions.
-
-• Eliminate the penalties of Fatigue and wounds.
-
-• Animate a corpse.
-
-• Transport the target instantly up to 5 paces.
-
-• Perform a minor surgical procedure, inflicting a Light Wound or preventing a Light Wound from worsening
-
-Level 15: • Direct the flow of bodily energy.
-
-• Move a target quickly in any direction you please, even if it is unsupported.
-
-• Summon a disembodied spirit associated with Corpus.
-
-• Transport the target instantly up to 50 paces.
-
-• Ward a target against other human beings. Remember that, to ward off a Hermetic magus, the ward must penetrate his Magic Resistance.
-
-• Perform a major surgical procedure, inflicting a Medium Wound or preventing a Medium Wound from worsening.
-
-Level 20: • Transport the target instantly up to 500 paces.
-
-• Perform a critical surgical procedure, preventing a Heavy Wound from worsening.
-
-Level 25: • Transport the target instantly up to one league.
-
-• Perform a life-saving surgical procedure, preventing an Incapacitating or Fatal Wound from worsening.
-
-Level 30: • Transport the target instantly up to seven leagues.
-
-Level 35: • Transport the target instantly to a place you have an Arcane Connection to.
-
-#### LEVEL 55
-
-Curse of the
-
-UNPORTENDED PLAGUE
-
-R: Sight, D: Mom, T: Bound, Ritual
-
-Starts a plague in a city or other Boundary. Everyone within the boundary is afflicted with the disease when the ritual is complete, and suffers as described under Curse of the Leprous Flesh, on the previous page. The conditions causing the disease last but a moment, so people entering the area after the spell is cast are safe. Using, or even transcribing, this spell is rigorously discouraged by most of the Order of Hermes. (Note: the disease caused by this spell is not the later Bubonic Plague, which is unknown in Europe in 1220.)
-
-(Base 20, +3 Sight, +4 Bound)
-
-## Rego Corpus Svells
+### Rego Corpus Svells
 
 #### LEVEL 5
 
-Curse of the Unruly Tongue
-
-R: Voice, D: Conc. T: Ind
-
-Causes the target to stutter and slur words. Communication rolls are at -3. Spoken spells are at -6to the spellcasting roll, and there is an extra botch die.
-
+##### CURSE OF THE UNRULY TONGUE
+R: Voice, D: Conc. T: Ind<br>
+Causes the target to stutter and slur words. Communication rolls are at -3. Spoken spells are at -6 to the spellcasting roll, and there is an extra botch die.<br>
 (Base 2, +2 Voice, +1 Conc)
 
-Spasms of the Uncontrolled Hand
-
-R: Voice, D: Conc, T: Ind
-
-One of the target's hands spasms, causing him to drop anything he is holding in it. It keeps spasming for as long as you concentrate.
-
+##### SPASMS OF THE UNCONTROLLED HAND
+R: Voice, D: Conc, T: Ind<br>
+One of the target's hands spasms, causing him to drop anything he is holding in it. It keeps spasming for as long as you concentrate.<br>
 (Base 2, +2 Voice, +1 Conc)
 
 #### LEVEL 10
 
-RISE OF THE FEATHERY BODY
-
-R: Touch, D: Conc. T: Ind.
-
-Allows the target to float vertically to any height, carrying up to 50 pounds, and rising as fast as smoke rises, slower if carrying a heavy load. The target cannot move horizontally through this spell.
-
-19559
-
+##### RISE OF THE FEATHERY BODY
+R: Touch, D: Conc. T: Ind.<br>
+Allows the target to float vertically to any height, carrying up to 50 pounds, and rising as fast as smoke rises, slower if carrying a heavy load. The target cannot move horizontally through this spell.<br>
 (Base 4, +1 Touch, +1 Conc)
 
 #### LEVEL 15
 
-DESPAIR OF THE
-
-OUIVERING MANACLES
-
-R: Voice, D: Conc, T: Ind
-
-Your target shakes vigorously from side to side without falling. Those affected get -3 on rolls requiring physical movement, and -1 to most other rolls.
-
+##### DESPAIR OF THE QUIVERING MANACLES
+R: Voice, D: Conc, T: Ind<br>
+Your target shakes vigorously from side to side without falling. Those affected get -3 on rolls requiring physical movement, and -1 to most other rolls.<br>
 (Base 4, +2 Voice, +1 Conc)
 
-ENDURANCE OF THE BERSERKERS
-
-R: Per. D: Conc. T: Ind
-
-Your body acts as though it were unwounded and unfatigued for as long as you concentrate. Keep track of the actual Fatigue levels that the body loses while "berserk," because as soon as the spell wears off, you lose those levels. If you run out of Fatigue levels, the spell terminates immediately and you fall unconscious.
-
-A character under the influence of this spell does risk worsening wounds, but he may not notice.
-
+##### ENDURANCE OF THE BERSERKERS
+R: Per. D: Conc. T: Ind<br>
+Your body acts as though it were unwounded and unfatigued for as long as you concentrate. Keep track of the actual Fatigue levels that the body loses while "berserk," because as soon as the spell wears off, you lose those levels. If you run out of Fatigue levels, the spell terminates immediately and you fall unconscious. A character under the influence of this spell does risk worsening wounds, but he may not notice.<br>
 (Base 10, +1 Conc)
 
-GIFT OF THE FROG'S LEGS
-
-R: Touch, D: Mom, T: Ind
-
-Allows the target to leap up to 15 feet vertically or 25 feet horizontally (2 feet less for every Encumbrance point). The person must make a Dexterity - Encumbrance stress roll against an Ease Factor of 0 to land without injury. A miss indicates that he takes a Light Wound, and a botch indicates a Medium Wound. The target can only leap once for each casting of the spell, and that leap must be made within ten seconds. As with a frog's leap, a running start does not improve the leap.
-
+##### GIFT OF THE FROG'S LEGS
+R: Touch, D: Mom, T: Ind<br>
+Allows the target to leap up to 15 feet vertically or 25 feet horizontally (2 feet less for every Encumbrance point). The person must make a Dexterity - Encumbrance stress roll against an Ease Factor of 0 to land without injury. A miss indicates that he takes a Light Wound, and a botch indicates a Medium Wound. The target can only leap once for each casting of the spell, and that leap must be made within ten seconds. As with a frog's leap, a running start does not improve the leap.<br>
 (Base 10, +1 Touch.)
 
-LIFTING THE DANGLING PUPPET
-
-R: Voice, D: Conc, T: Ind
-
-Lifts a person of Size +1 or less vertically into the air. Generally, vou can make the target rise or descend as fast as smoke rises, but a heavier person rises more slowly and falls more quickly.
-
+##### LIFTING THE DANGLING PUPPET
+R: Voice, D: Conc, T: Ind<br>
+Lifts a person of Size +1 or less vertically into the air. Generally, vou can make the target rise or descend as fast as smoke rises, but a heavier person rises more slowly and falls more quickly.<br>
 (Base 4, +2 Voice, +1 Conc)
 
 #### LEVEL 20
 
-THE GIFT OF VIGOR
-
-R: Touch, D: Mom, T: Ind
-
-Transfers bodily energy from you to any target who is at a lower Fatigue level than you. You are thus at the target's current Fatigue level, and he or she assumes your previous level. If you lose a Fatigue level from casting this spell, the loss comes after the transfer. Magi have long looked for a way to restore their energy in order to cast more spells. This is the closest they've come.
-
+##### THE GIFT OF VIGOR
+R: Touch, D: Mom, T: Ind<br>
+Transfers bodily energy from you to any target who is at a lower Fatigue level than you. You are thus at the target's current Fatigue level, and he or she assumes your previous level. If you lose a Fatigue level from casting this spell, the loss comes after the transfer. Magi have long looked for a way to restore their energy in order to cast more spells. This is the closest they've come.<br>
 (Base 15, +1 Touch)
 
-LEVEL 25
+#### LEVEL 25
 
-AWAKEN THE SLUMBERING CORPSE
-
-R: Voice, D: Conc, T: Ind
-
-Causes a corpse to function at your verbal command. Commands have to be very simple, like "attack anyone who comes through here." The corpse used cannot have been buried by Church ceremony.
-
+##### AWAKEN THE SLUMBERING CORPSE
+R: Voice, D: Conc, T: Ind<br>
+Causes a corpse to function at your verbal command. Commands have to be very simple, like "attack anyone who comes through here." The corpse used cannot have been buried by Church ceremony.<br>
 (Base 10, +2 Voice, +1 Conc)
 
-STRINGS OF THE
+##### STRINGS OF THE UNWILLING MARIONETTE
+R: Voice, D: Conc, T: Ind<br>
+You can control the physical movements of a person, such as walking, standing, and turning. If the target resists the control, the movements are jerky. The target can vell, but you can prevent intelligible speech by controlling the target's mouth. The target must be conscious to be moved about.<br>
+(Base 10, +2 Voice, +1 Conc)
 
-UNWILLING MARIONETTE
+#### LEVEL 30
 
-You can control the physical movements of a person, such as walking, standing, and turning. If the target resists the control, the movements are jerky. The target can vell, but you can prevent intelligible speech by controlling the target's mouth. The target must be conscious to be moved about.
+##### SEVEN-LEAGUE STRIDE
+R: Per, D: Mom, T: Ind<br>
+Transports you to any place within seven leagues either that you can see or that vou have an Arcane Connection with. If you fail an Intelligence + Finesse stress roll against an Ease Factor of 9, your arrival goes slightly awry. For instance, you might fall when you appear, or just be facing the wrong way. A botch means you appear in the wrong place. perhaps even in a wall. Praefactus of Bonisagus's version of this spell always allows him to appear in a safe, unembarrassing place (assuming he doesn't fail his Finesse roll). All Praefactus's spells make him seem as dignified as possible - manifesting his wizard's sigil.<br>
+(Base 30)
 
-LEVEL 30
+#### LEVEL 35
 
-SEVEN-LEAGUE STRIDE
+##### THE LEAP OF HOMECOMING
+R: Per, D: Mom, T: Ind<br>
+Transports you to any place to which you have an Arcane Connection. Most magi use this to return to their laboratories.<br>
+(Base 35)
 
-R: Per, D: Mom, T: Ind
+##### THE WALKING CORPSE
+R: Touch, D: Year, T: Ind, Ritual<br>
+Turns a corpse into a nearly mindless servant that can follow your simple verbal commands faithfully but unimaginatively. Unless the corpse is preserved with *Charm Against Putrefaction* or the equivalent, the body decays normally, but even a skeleton can be animated.<br>
+(Base 10, +1 Touch, +4 Year)
 
-Transports you to any place within seven leagues either that you can see or that vou have an Arcane Connection with. If
+---
 
-vou fail an Intelligence + Finesse stress roll against an Ease Factor of 9, your arrival goes slightly awry. For instance, you might fall when you appear, or just be facing the wrong way. A botch means you appear in the wrong place. perhaps even in a wall.
+## Herbam Spells
 
-Praefactus of Bonisagus's version of this spell always allows him to appear in a safe, unembarrassing place (assuming Praefactus's spells make him seem as dignified as possible -
+Herbam spells work on plants and plant matter, both living and dead. Since wood is a common material in weapons, vehicles, and buildings, Herbam spells can be useful in improving or destroying physical things. They can also be used to bring the plant world to your aid.
 
-## Creo Herbam Guidelines
+A base Individual for Herbam is a plant roughly one pace in each direction.
+
+### Creo Herbam Guidelines
 
 These spells create and heal plants. Any food created is nutritious only if the creation is a Ritual. The guideline levels given below are generally for conjuring the leafy parts of plants.
 
@@ -16039,181 +15233,108 @@ A single spell generally only creates a single type of plant product.
 
 Creo Herbam botches may create plants in the wrong place, or create the wrong kind of plant.
 
-- Level 1: Ensure that a plant grows well for the duration of the spell. This guideline can affect a plant up to ten paces in each direction, a large tree. (That is, this guideline includes a +3 Size enhancement.)
-  - Create a plant product (like a fruit or leaf).
-  - Create a plant.
-  - Prevent a plant from becoming sick.
-  - Heal a Light Wound to a plant.
-- Level 2: Create a processed plant product, like a finished plank of wood.
-  - Preserve a dead plant from decay.
-  - Heal a Medium Wound to a plant.
-- Level 3: Create wood in an unnatural shape, such as a living wall or bridge.
-  - Heal a Heavy Wound to a plant.
-- Level 4: Heal an Incapacitating Wound to a plant.
-- Level 5: Heal all Wounds to a plant.
-- Level 10: Heal all damage to a plant, including wounds, disease, and poison.
-- Level 15: Bring a plant to maturity in a single day or night. The accelerated growth only happens during the duration of the spell, so full maturity requires a Sun duration spell cast soon after sunrise or sunset.
-  - Restore a manufactured wooden item that has been damaged to the peak of its capabilities. This spell can also restore decay, but the damage must be light.
-- Level 20: Bring a plant to maturity in about two hours.
-- Level 25: Bring a plant to maturity in about ten Diameters (twenty minutes).
-- Level 30: Bring a plant to maturity in a single Diameter.
-- Level 40: Bring a plant to maturity in a moment.
+| Level | Creo Herbam Guideline |
+| ----- | --------------------- |
+| 1 | • Ensure that a plant grows well for the duration of the spell (can affect a plant up to ten paces in each direction, i.e. a large tree; includes a +3 Size enhancement)<br>• Create a plant product (like a fruit or leaf)<br>• Create a plant<br>• Prevent a plant from becoming sick<br>• Heal a Light Wound to a plant |
+| 2 | • Create a processed plant product, like a finished plank of wood<br>• Preserve a dead plant from decay<br>• Heal a Medium Wound to a plant |
+| 3 | • Create wood in an unnatural shape, such as a living wall or bridge<br>• Heal a Heavy Wound to a plant |
+| 4 | • Heal an Incapacitating Wound to a plant |
+| 5 | • Heal all Wounds to a plant |
+| 10 | • Heal all damage to a plant, including wounds, disease, and poison |
+| 15 | • Bring a plant to maturity in a single day or night (accelerated growth only happens during the duration of the spell; full maturity requires a Sun duration spell cast soon after sunrise or sunset)<br>• Restore a manufactured wooden item that has been damaged to the peak of its capabilities (can also restore decay, but the damage must be light) |
+| 20 | • Bring a plant to maturity in about two hours |
+| 25 | • Bring a plant to maturity in about ten Diameters (twenty minutes) |
+| 30 | • Bring a plant to maturity in a single Diameter |
+| 40 | • Bring a plant to maturity in a moment |
 
-THE WALKING CORPSE
-
-R: Touch, D: Year,
-
-T: Ind, Ritual
-
-Turns a corpse into a nearly mindless servant that can follow your simple verbal commands faithfully but unimaginatively. Unless the corpse is preserved with *Charm Against Putrefaction* or the equivalent, the body decays normally, but even a skeleton can be animated.
-
-(Base 10, +1 Touch, +4 Year)
-
-# Herbam Spells
-
-Herbam spells work on plants and plant matter, both living and dead. Since wood is a common material in weapons, vehicles, and buildings, Herbam spells can be useful in improving or destroying physical things. They can also be used to bring the plant world to your aid.
-
-A base Individual for Herbam is a plant roughly one pace in each direction.
-
-## Creo Herbam Spells
+### Creo Herbam Spells
 
 #### LEVEL 5
 
-Conjure the Sturdy Vine
-
-R: Voice, D: Sun, T: Ind
-
-Grows 10 paces of vine from a moderate quantity of wood, or from fertile soil. The vine is extremely strong and pliable, suitable for use as rope.
-
+##### CONJURE THE STURDY VINE
+R: Voice, D: Sun, T: Ind<br>
+Grows 10 paces of vine from a moderate quantity of wood, or from fertile soil. The vine is extremely strong and pliable, suitable for use as rope.<br>
 (Base 1, +2 Voice, +2 Sun)
 
 #### LEVEL 15
 
-Trap of the Entwining Vines
-
-R: Voice, D: Sun, T: Group
-
-Causes strong, woody vines to grow rapidly from fertile earth. The vines cover a circle 2 paces across and reach 6 feet high. Anything caught within them is immobilized. To avoid the vines, the target must make a Quickness — Encumbrance stress roll against an Ease Factor of 9. To break out requires a Strength stress roll against an Ease Factor of 12 (allowed once a round). Someone not trapped can cut a trapped person free in two rounds, assuming proper tools. The vines weaken and wither to dust at sunrise or sunset.
-
+##### TRAP OF THE ENTWINING VINES
+R: Voice, D: Sun, T: Group<br>
+Causes strong, woody vines to grow rapidly from fertile earth. The vines cover a circle 2 paces across and reach 6 feet high. Anything caught within them is immobilized. To avoid the vines, the target must make a Quickness — Encumbrance stress roll against an Ease Factor of 9. To break out requires a Strength stress roll against an Ease Factor of 12 (allowed once a round). Someone not trapped can cut a trapped person free in two rounds, assuming proper tools. The vines weaken and wither to dust at sunrise or sunset.<br>
 (Base 1, +2 Voice, +2 Sun, +2 Group)
 
-#### BRIDGE OF WOOD
-
-R: Touch, D: Sun, T: Ind
-
-Creates a bridge made from living leaves, vines, and wood. The bridge can reach up to 20 paces, and is five paces wide. It is sturdy enough to support creatures of up to Size +4.
-
+##### BRIDGE OF WOOD
+R: Touch, D: Sun, T: Ind<br>
+Creates a bridge made from living leaves, vines, and wood. The bridge can reach up to 20 paces, and is five paces wide. It is sturdy enough to support creatures of up to Size +4.<br>
 (Base 3, +1 Touch, +2 Sun, +2 size)
 
-#### WALL OF THORNS
-
-R: Voice, D: Sun, T: Group
-
-Within seconds, this spell creates a straight wall of woody, thorny bushes up to 20 paces long, 1 pace thick, and 4 paces high. The thorns, which are unnaturally resilient, have a +15 Soak, are cut by edged weapons only, and cutting through requires inflicting a Heavy Wound. Bodily forcing one's way through the wall requires a Strength stress roll against an Ease Factor of 9 and does +15 damage whether the attempt succeeds or fails. If the roll botches, an additional 5 points of damage are suffered. The wall grows out of existing bushes or fertile soil. A Dexterity + Athletics stress roll against an Ease Factor of 9 allows a character to scale the wall, but the character takes +10 damage in the process.
-
+##### WALL OF THORNS
+R: Voice, D: Sun, T: Group<br>
+Within seconds, this spell creates a straight wall of woody, thorny bushes up to 20 paces long, 1 pace thick, and 4 paces high. The thorns, which are unnaturally resilient, have a +15 Soak, are cut by edged weapons only, and cutting through requires inflicting a Heavy Wound. Bodily forcing one's way through the wall requires a Strength stress roll against an Ease Factor of 9 and does +15 damage whether the attempt succeeds or fails. If the roll botches, an additional 5 points of damage are suffered. The wall grows out of existing bushes or fertile soil. A Dexterity + Athletics stress roll against an Ease Factor of 9 allows a character to scale the wall, but the character takes +10 damage in the process.<br>
 (Base 1, +2 Voice, +2 Sun, +2 Group, +1 size)
 
 #### LEVEL 25
 
-Wall of Living Wood
-
-R: Voice, D: Sun, T: Ind
-
-A straight wall of living oak is created, growing quickly from nearby trees, other plant growth, or fertile earth. The wall is 20 paces long, 1 pace thick, and 5 paces high. It can be scaled with a Dexterity + Athletics stress roll against an Ease Factor of 9.
-
+##### WALL OF LIVING WOOD
+R: Voice, D: Sun, T: Ind<br>
+A straight wall of living oak is created, growing quickly from nearby trees, other plant growth, or fertile earth. The wall is 20 paces long, 1 pace thick, and 5 paces high. It can be scaled with a Dexterity + Athletics stress roll against an Ease Factor of 9.<br>
 (Base 3, +2 Voice, +2 Sun, +2 size)
 
 #### LEVEL 35
 
-THE BOUNTIFUL FEAST
-
-R: Touch, D: Year, T: Special, Ritual
-
-This ritual, which must be cast at noon on the day after the winter solstice, attempts to ensure that all crops that grow within its target will be healthy and fruitful. The spell protects against non-magical blight and other diseases. It can't control the weather or prevent others from harming crops, but it does cause crops to be healthier, larger, and tastier than they otherwise would be. The target of this spell is the fields owned by those present at the ritual. The spell must be
-
-cast within the region affected by the spell, although that region need not be contiguous. Although food plants are affected most by this ritual, all plants are made healthier to some degree.
-
+##### THE BOUNTIFUL FEAST
+R: Touch, D: Year, T: Special, Ritual<br>
+This ritual, which must be cast at noon on the day after the winter solstice, attempts to ensure that all crops that grow within its target will be healthy and fruitful. The spell protects against non-magical blight and other diseases. It can't control the weather or prevent others from harming crops, but it does cause crops to be healthier, larger, and tastier than they otherwise would be. The target of this spell is the fields owned by those present at the ritual. The spell must be cast within the region affected by the spell, although that region need not be contiguous. Although food plants are affected most by this ritual, all plants are made healthier to some degree.<br>
 (Base 1, +1 Touch, +4 Year, +4 Special (equivalent to Boundary), +1 Size (for a total of +4 Size, including the +3 from the guideline, so that the area affected is up to about 6 miles across)
 
-## Intellego Herbam Spells
+### Intellego Herbam Guidelines
+
+As with most Intellego magic, Intellego Herbam botches generally give false information.
+
+| Level | Intellego Herbam Guideline |
+| ----- | -------------------------- |
+| 1 | • Gain an intuitive knowledge of a plant (for example, know whether a given action would harm a plant) |
+| 2 | • Locate a plant |
+| 3 | • Learn general information, or a single specific fact about a plant or an item made from plant products |
+| 4 | • Learn all mundane properties of a plant or an item made from plant products |
+| 15 | • Speak with a plant |
+
+### Intellego Herbam Spells
 
 #### LEVEL 4
 
-PROBE NATURE'S HIDDEN LORE
-
-R: Touch, D: Mom, T: Ind
-
-Tells you what kind of plant you are touching. You also get an image of it in its natural habitat. Works with plant products as well as with plants themselves.
-
+##### PROBE NATURE'S HIDDEN LORE
+R: Touch, D: Mom, T: Ind<br>
+Tells you what kind of plant you are touching. You also get an image of it in its natural habitat. Works with plant products as well as with plants themselves.<br>
 (Base 3, +1 Touch)
 
 #### LEVEL 5
 
-HUNT FOR THE WILD HERB
-
-R: Per, D: Conc, T: Smell
-
-When you cast this spell, you can smell one sort of plant, and follow the scent, as long as you continue to concentrate. You must have a sample of the type of plant you are looking for. A Perception stress roll against an Ease Factor of 6 is needed to follow the scent. If there is no plant of the relevant type fairly close by (close enough to smell), you smell nothing, although the spell still works.
-
+##### HUNT FOR THE WILD HERB
+R: Per, D: Conc, T: Smell<br>
+When you cast this spell, you can smell one sort of plant, and follow the scent, as long as you continue to concentrate. You must have a sample of the type of plant you are looking for. A Perception stress roll against an Ease Factor of 6 is needed to follow the scent. If there is no plant of the relevant type fairly close by (close enough to smell), you smell nothing, although the spell still works.<br>
 (Base 2, +1 Conc, +2 Smell)
 
 #### LEVEL 10
 
-Intuition of the Forest
-
-R: Touch, D: Sun, T: Group
-
-You engage in a type of communion with the woods that you are in, giving you an intuitive sense of how to get along in the forest, and how to get the most out of the forest without causing it harm. You get a +3 to all nature-oriented rolls (not including spells) when in a forest or similar area. Causing significant harm to the forest cancels this spell.
-
+##### INTUITION OF THE FOREST
+R: Touch, D: Sun, T: Group<br>
+You engage in a type of communion with the woods that you are in, giving you an intuitive sense of how to get along in the forest, and how to get the most out of the forest without causing it harm. You get a +3 to all nature-oriented rolls (not including spells) when in a forest or similar area. Causing significant harm to the forest cancels this spell.<br>
 (Base 1, +1 Touch, +2 Sun, +2 Group)
 
 #### LEVEL 15
 
-SHRIEK OF THE IMPENDING SHAFTS
-
-R: Per, D: Sun, T: Hearing
-
-Lets you know where anything wooden will be in the immediate future by a shriek that sounds in the air in advance of the wood's coming. A piece of wood that is controlled may change course, so the spell is sometimes wrong. You get a +9 bonus on Defense scores against wooden weapons (provided that you have the freedom to dodge), and you can automatically dodge wooden missiles fired from more than ten paces away.
-
-The shriek is only audible to you, and it cannot be simulated by people making noises.
-
+##### SHRIEK OF THE IMPENDING SHAFTS
+R: Per, D: Sun, T: Hearing<br>
+Lets you know where anything wooden will be in the immediate future by a shriek that sounds in the air in advance of the wood's coming. A piece of wood that is controlled may change course, so the spell is sometimes wrong. You get a +9 bonus on Defense scores against wooden weapons (provided that you have the freedom to dodge), and you can automatically dodge wooden missiles fired from more than ten paces away. The shriek is only audible to you, and it cannot be simulated by people making noises.<br>
 (Base 2, +2 Sun, +3 Hearing)
 
 #### LEVEL 25
 
-Converse with Plant and Tree
-
-R: Touch, D: Conc, T: Ind
-
-You can speak with a plant for one conversation. The level of conversation depends on the type of plants; longer-lived and more noble plants have more to say. A single question and response takes ten to thirty minutes, with slower-growing plants speaking more slowly. Typically, plants can talk about the soil and about other plants around them, but have limited awareness of more momentary events, such as the passing of animals or people, unless that passing has a direct bearing on the plant (for example, a person cut its trunk). News can spread quickly through a forest when it has to, called from tree to tree on the wind. Bystanders cannot understand your conversation.
-
+##### CONVERSE WITH PLANT AND TREE
+R: Touch, D: Conc, T: Ind<br>
+You can speak with a plant for one conversation. The level of conversation depends on the type of plants; longer-lived and more noble plants have more to say. A single question and response takes ten to thirty minutes, with slower-growing plants speaking more slowly. Typically, plants can talk about the soil and about other plants around them, but have limited awareness of more momentary events, such as the passing of animals or people, unless that passing has a direct bearing on the plant (for example, a person cut its trunk). News can spread quickly through a forest when it has to, called from tree to tree on the wind. Bystanders cannot understand your conversation.<br>
 (Base 15, +1 Touch, +1 Conc)
-
-## Muto Herbam Spells
-
-#### LEVEL 5
-
-PASS THE UNYIELDING PORTAL
-
-R: Touch, D: Diam, T: Ind
-
-Makes the wood of a door pliable, allowing the magus to bend it open regardless of most locks or bars.
-
-(Base 3, +1 Touch, +1 Diameter)
-
-## Intellego Herbam Guidelines
-
-As with most Intellego magic, Intellego Herbam botches generally give false information.
-
-Level 1: • Gain an intuitive knowledge of a plant (for example, know whether a given action would harm a plant).
-
-Level 2: • Locate a plant.
-
-Level 3: • Learn general information, or a single specific fact about a plant or an item made from plant products.
-
-Level 4: • Learn all mundane properties of a plant or an item made from plant products.
-
-Level 15: • Speak with a plant.
 
 ## Muto Herbam Guidelines
 
@@ -16221,305 +15342,210 @@ These guidelines assume that when you change a plant, it's still a plant in some
 
 Muto Herbam botches may turn the caster into a plant, or turn the target into an animated plant hostile to the caster.
 
-Level 3: • Change a plant or item made from plant products.
+| Level | Muto Herbam Guideline |
+| ----- | --------------------- |
+| 3 | • Change a plant or item made from plant products |
+| 4 | • Change a plant or item made from plant products into metal or stone (Terram requisite)<br>• Awaken the consciousness of a plant (Mentem requisite) |
+| 5 | • Cause a plant to bend or twist rapidly in place |
 
-Level 4: • Change a plant or item made from plant products into metal or stone (Terram requisite).
+### Muto Herbam Spells
 
-• Awaken the consciousness of a plant (Mentem requisite).
+#### LEVEL 5
 
-Level 5: • Cause a plant to bend or twist rapidly in place.
+##### PASS THE UNYIELDING PORTAL
+R: Touch, D: Diam, T: Ind<br>
+Makes the wood of a door pliable, allowing the magus to bend it open regardless of most locks or bars.<br>
+(Base 3, +1 Touch, +1 Diameter)
 
-## Perdo Herbam Guidelines
+#### LEVEL 10
+
+##### TRANSFORMATION OF THE THORNY STAFF
+R: Touch, D: Sun, T: Ind<br>
+Causes a length of wood (up to 6 feet in length) to grow thick, sharp thorns at whatever spots you touch. If the spell is cast on a staff, the thorns add +4 to the damage done by the staff.<br>
+(Base 3, +1 Touch, +2 Sun)
+
+##### PIERCING SHAFT OF WOOD
+R: Voice, D: Mom, T: Ind<br>
+Req: Rego<br>
+Turns a piece of wood into a sleek, barbed, strong shaft that flies through the air at a target. Damage depends on the size of the item from which the shaft is formed: staff (upper size limit) +10, 2-foot branch +8, wand +5. This spell cannot miss, but it is resisted.<br>
+(Base 3, +2 Voice, +1 Rego effect)
+
+#### LEVEL 15
+
+##### ROPE OF BRONZE
+R: Touch, D: Sun, T: Ind<br>
+Req: Terram<br>
+Turns a piece of rope (made from plant material) into refined, superior bronze, which does not break under normal circumstances.<br>
+(Base 4, +1 Touch, +2 Sun, no cost for requisite)
+
+#### LEVEL 20
+
+##### THAUMATURGICAL TRANSFORMATION OF PLANTS TO IRON
+R: Touch, D: Sun, T: Ind Reg: Terram<br>
+Makes any plant, dead or alive, as hard as iron. Affects any amount of continuous plant material up to the size of a small tree. Sharp-edged plants can become deadly when they are made this hard.<br>
+(Base 4, +1 Touch, +2 Sun, +1 size, no cost for requisite)
+
+#### LEVEL 25
+
+##### STIR THE SLUMBERING TREE
+R: Touch, D: Sun, T: Ind<br>
+Req: Mentem<br>
+Raises any tree into a state of consciousness resembling that of a human. Such a tree can see and hear what is going on around it, and at a normal human level of perception. Such a tree may share some mental attributes or personality traits with the caster. The tree can rearrange its branches over the course of several hours, though too slowly for people to observe the movement from second to second. Most trees in magical areas are already awake.<br>
+(Base 4, +1 Touch, +2 Sun, +2 size)
+
+#### LEVEL 60
+
+##### CURSE OF THE HAUNTED FOREST
+R: Touch, D: Year, T: Group, Ritual<br>
+Req: Perdo<br>
+Turns a previously normal small forest into a haunted and dangerous place. The trees become gnarled and hideous, and the imaginative can see menacing faces in them. The trees also become conscious and cruel; capable of sight, hearing, and limited movement. While they cannot uproot themselves, they can move their branches about, and can reach the ground in an hour or two. Only ill-tempered animals, such as boars and crows, live in these woods, and nothing in them is edible. The only knowledge of what might happen should this ritual be attempted in a faerie forest comes from ancient and disputed legends of the Order of Hermes.<br>
+(Base 4, +1 Touch, +4 Year, +2 Group, +5 size)
+
+### Perdo Herbam Guidelines
 
 These spells destroy plants and plant material. Since many items are made of wood, these spells can be quite destructive. The guidelines given are for destroying dead wood. Destroying live wood is usually a bit harder — add one magnitude.
 
 Perdo Herbam botches normally destroy the wrong thing, possibly including some of the caster's clothing.
 
-Level 2: • Cause the leaves to fall off a plant.
+| Level | Perdo Herbam Guideline |
+| ----- | ---------------------- |
+| 2 | • Cause the leaves to fall off a plant |
+| 3 | • Spoil an amount of food |
+| 4 | • Destroy an amount of dead wood |
+| 5 | • Destroy a plant |
 
-Level 3: • Spoil an amount of food.
-
-Level 4: • Destroy an amount of dead wood.
-
-Level 5: • Destroy a plant.
-
-Transformation of the Thorny Staff
-
-R: Touch, D: Sun, T: Ind
-
-Causes a length of wood (up to 6 feet in length) to grow thick, sharp thorns at whatever spots you touch. If the spell is cast on a staff, the thorns add +4 to the damage done by the staff.
-
-(Base 3, +1 Touch, +2 Sun)
-
-PIERCING SHAFT OF WOOD
-
-R: Voice, D: Mom, T: Ind
-
-Req: Rego
-
-Turns a piece of wood into a sleek, barbed, strong shaft that flies through the air at a target. Damage depends on the size of the item from which the shaft is formed: staff (upper size limit) +10, 2-foot branch +8, wand +5. This spell cannot miss, but it is resisted.
-
-(Base 3, +2 Voice, +1 Rego effect)
-
-#### LEVEL 15
-
-ROPE OF BRONZE
-
-R: Touch, D: Sun, T: Ind
-
-Req: Terram
-
-Turns a piece of rope (made from plant material) into refined, superior bronze, which does not break under normal circumstances.
-
-(Base 4, +1 Touch, +2 Sun, no cost for requisite)
-
-#### LEVEL 20
-
-THAUMATURGICAL TRANSFORMATION OF PLANTS TO IRON
-
-R: Touch, D: Sun, T: Ind Reg: Terram
-
-Makes any plant, dead or alive, as hard as iron. Affects any amount of continuous plant material up to the size of a small tree. Sharp-edged plants can become deadly when they are made this hard.
-
-(Base 4, +1 Touch, +2 Sun, +1 size, no cost for requisite)
-
-#### LEVEL 25
-
-STIR THE SLUMBERING TREE
-
-R: Touch, D: Sun, T: Ind
-
-Req: Mentem
-
-Raises any tree into a state of consciousness resembling that of a human. Such a tree can see and hear what is going on around it, and at a normal human level of perception. Such a tree may share some mental attributes or personality traits with the caster. The tree can rearrange its branches over the course of several hours, though too slowly for people to observe the movement from second to second. Most trees in magical areas are already awake.
-
-(Base 4, +1 Touch, +2 Sun, +2 size)
-
-#### LEVEL 60
-
-Curse of the Haunted Forest
-
-R: Touch, D: Year,
-
-T: Group, Ritual
-
-Req: Perdo
-
-Turns a previously normal small forest into a haunted and dangerous place. The trees become gnarled and hideous, and the imaginative can see menacing faces in them. The trees also become conscious and cruel; capable of sight, hearing, and limited movement. While they cannot uproot themselves, they can move their branches about, and can reach the ground in an hour or two. Only ill-tempered animals, such as boars and crows, live in these woods, and nothing in them is edible. The only knowledge of what might happen should this ritual be attempted in a faerie forest comes from ancient and disputed legends of the Order of Hermes.
-
-(Base 4, +1 Touch, +4 Year, +2 Group, +5 size)
+### Perdo Herbam Spells
 
 #### LEVEL 5
 
-Curse of the Rotted Wood
-
-R: Touch, D: Mom, T: Ind
-
-Causes a non-living wooden object to rot and fall apart. Objects up to the size of a single door can be affected, but things that size take up to two rounds to decay. Usually, large chunks of wood start falling off the target, and slowly crumble to smaller and smaller pieces, until only dust is left.
-
-Ferramentum of Verditius's version of this spell is very orderly as per his wizard's sigil. The decay of the object starts from the top and continues to the bottom, leaving only dust as it goes.
-
+##### CURSE OF THE ROTTED WOOD
+R: Touch, D: Mom, T: Ind<br>
+Causes a non-living wooden object to rot and fall apart. Objects up to the size of a single door can be affected, but things that size take up to two rounds to decay. Usually, large chunks of wood start falling off the target, and slowly crumble to smaller and smaller pieces, until only dust is left. Ferramentum of Verditius's version of this spell is very orderly as per his wizard's sigil. The decay of the object starts from the top and continues to the bottom, leaving only dust as it goes.<br>
 (Base 4, +1 Touch)
 
 #### LEVEL 15
 
-Wizard's Autumn
-
-R: Touch, D: Mom, T: Group
-
-All the deciduous leaves (that is, those that normally fall in autumn) on the target plants turn brown and then fall to the ground. The full process takes a minute. This spell can affect a small grove of trees. The trees do not bud again until the next spring.
-
+##### WIZARD'S AUTUMN
+R: Touch, D: Mom, T: Group<br>
+All the deciduous leaves (that is, those that normally fall in autumn) on the target plants turn brown and then fall to the ground. The full process takes a minute. This spell can affect a small grove of trees. The trees do not bud again until the next spring.<br>
 (Base 2, +1 Touch, +2 Group, +2 size)
 
 #### LEVEL 20
 
-PLANT'S WITHERING BANE
-
-R: Voice, D: Mom, T: Ind
-
-Withers and destroys one living plant, up to and including a plant the size of a small tree.
-
+##### PLANT'S WITHERING BANE
+R: Voice, D: Mom, T: Ind<br>
+Withers and destroys one living plant, up to and including a plant the size of a small tree.<br>
 (Base 5, +2 Voice, +1 size)
 
 #### LEVEL 25
 
-THE GREAT ROT
-
-R: Voice, D: Mom, T: Group
-
-Rots and destroys a large amount of dead wood, up to the amount found in a wooden house or small inn. Wooden structures creak and groan mightily for about a minute before collapsing.
-
+##### THE GREAT ROT
+R: Voice, D: Mom, T: Group<br>
+Rots and destroys a large amount of dead wood, up to the amount found in a wooden house or small inn. Wooden structures creak and groan mightily for about a minute before collapsing.<br>
 (Base 4, +2 Voice, +2 Group, +1 size)
 
 #### LEVEL 30
 
-TREADING THE ASHEN PATH
-
-R: Touch, D: Mom, T: Group
-
-As you walk through a forest after casting this spell, all the plant material 10 paces in front of you and 5 paces to either side withers and dies. Trees are reduced to bare trunks, while their leaves and all smaller plants turn to ash. You can walk for 7 miles with each casting of this spell. Use of this spell in faerie woods is not recommended. This spell was originally invented by a magus of House Flambeau, and he was awarded a prize for it by his primus.
-
+##### TREADING THE ASHEN PATH
+R: Touch, D: Mom, T: Group<br>
+As you walk through a forest after casting this spell, all the plant material 10 paces in front of you and 5 paces to either side withers and dies. Trees are reduced to bare trunks, while their leaves and all smaller plants turn to ash. You can walk for 7 miles with each casting of this spell. Use of this spell in faerie woods is not recommended. This spell was originally invented by a magus of House Flambeau, and he was awarded a prize for it by his primus.<br>
 (Base 3, +1 Touch, +2 Group, +3 size, +1 fancy effect (the spell effectively keeps being cast while the caster walks seven miles))
 
-#### GENERAL
-
-WARD AGAINST FAERIES OF THE WOOD
-
-R: Touch, D: Ring, T: Circle
-
-Like Ward Against Faeries of the Waters (ReAq Gen), but for faeries of the wood. At some angles, at night, the ring appears to be a green-hued dome.
-
-(Base effect)
-
-#### LEVEL 5
-
-Dance of the Staves
-
-R: Voice, D: Mom, T: Ind
-
-Causes a pole, staff, haft, or any other long, thin, non-living wooden object to bend and lash about wildly for a few seconds and then stop suddenly. A whirling staff strikes its holder and does +4 Damage, with a possible bonus if the weapon at the head of the pole hits the person.
-
-(Base 3, +2 Voice)
-
-#### LEVEL 10
-
-REPEL THE WOODEN SHAFTS
-
-R: Voice, D: Mom, T: Ind
-
-Deflects a single blow of any weapon made of wood, up to the size of a twohanded club. The attack automatically misses, but the attacker still rolls to see if he or she botches (with two extra botch rolls for melee weapons). If you ordinarily carry a wooden staff, it must be tossed aside for the casting.
-
-(Base 4, +2 Voice)
-
-#### LEVEL 15
-
-Strike of the Angered Branch
-
-R: Voice, D: Conc, T: Part
-
-Causes a large tree branch to swing at a target. The branch's Attack score is equal to your Perception + Finesse. Damage is +10. You may strike repeatedly with the branch, striking once per round for as long as the spell lasts.
-
-(Base 3, +2 Voice, +1 Conc, +1 Part)
-
-TANGLE OF WOOD AND THORNS
-
-R: Voice, D: Conc, T: Ind
-
-Takes a length of wood that you designate and hurls it at a target (a Targeting roll is required). The wood wraps around and immobilizes the target (assuming that there is enough wood), who must make a Strength stress roll against an Ease Factor of 9 to break free (one attempt per round). If the victim ever botches, he cannot escape without outside help. If the length of wood has thorns, it does +6 damage when it hits, and again each time the target tries to break free, whether successful or not. When the caster stops concentrating, the target can escape on a Strength roll against an Ease Factor of 6.
-
-(Base 3, +2 Voice, +1 Conc, +1 Muto requisite)
-
-#### LEVEL 20
-
-Coils of the Entangling Plants
-
-R: Voice, D: Conc, T: Group
-
-Animates all the grass and small plants within a field delineated from side to side by your outstretched arms and in front by no more than 15 paces of distance. The plants grab and wrap themselves around the people nearest to them (Strength stress roll of 9+ to break free, rolled once per minute). If a roll to break free ever botches, the victim cannot escape on his or her own. With a Concentration roll of 6+, you can release one individual a round.
-
-(Base 3, +2 Voice, +1 Conc, +2 Group)
-
-## Rego Herbam Guidelines
+### Rego Herbam Guidelines
 
 It is equally easy to control living and dead wood.
 
 Rego Herbam botches normally result in the wood doing something contrary to what the caster wants.
 
-General: • Ward against beings associated with Herbam from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
+| Level | Rego Herbam Guideline |
+| ----- | --------------------- |
+| General | • Ward against beings associated with Herbam from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 3 | • Control an amount of wood<br>• Manipulate items made of plant products |
+| 4 | • Deflect a single attack by a wooden weapon<br>• Control an entire plant, moving it around as you direct, although it remains rooted if it is a rooted plant<br>• Treat items made of plant products |
+| 5 | • Control an entire plant, moving it around as you direct, and it need not remain rooted<br>• Control a disembodied spirit associated with Herbam<br>• Summon a mobile plant<br>• Treat and process items made of plant products<br>• Ward a plant against mundane plant diseases |
+| 10 | • Make a plant or thing made of plant products move with purpose and intelligence, without requiring your constant control<br>• Transport a plant instantly up to 5 paces; non-living plant products are transported with Rego Terram (add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection) |
+| 15 | • Ward someone against mundane plant products<br>• Make a tree blossom out of season, in a moment<br>• Weave thread into a tunic<br>• Summon a disembodied spirit associated with Herbam |
 
-Level 3: • Control an amount of wood.
+### Rego Herbam Spells
 
-Manipulate items made of plant products.
+#### GENERAL
 
-Level 4: • Deflect a single attack by a wooden weapon.
+##### WARD AGAINST FAERIES OF THE WOOD
+R: Touch, D: Ring, T: Circle<br>
+Like Ward Against Faeries of the Waters (ReAq Gen), but for faeries of the wood. At some angles, at night, the ring appears to be a green-hued dome.<br>
+(Base effect)
 
-Control an entire plant, moving it around as you direct, although it remains rooted if it is a rooted plant.
+#### LEVEL 5
 
-• Treat items made of plant products.
+##### DANCE OF THE STAVES
+R: Voice, D: Mom, T: Ind<br>
+Causes a pole, staff, haft, or any other long, thin, non-living wooden object to bend and lash about wildly for a few seconds and then stop suddenly. A whirling staff strikes its holder and does +4 Damage, with a possible bonus if the weapon at the head of the pole hits the person.<br>
+(Base 3, +2 Voice)
 
-Level 5: • Control an entire plant, moving it around as you direct, and it need not remain rooted.
+#### LEVEL 10
 
-• Control a disembodied spirit associated with Herbam.
+##### REPEL THE WOODEN SHAFTS
+R: Voice, D: Mom, T: Ind<br>
+Deflects a single blow of any weapon made of wood, up to the size of a twohanded club. The attack automatically misses, but the attacker still rolls to see if he or she botches (with two extra botch rolls for melee weapons). If you ordinarily carry a wooden staff, it must be tossed aside for the casting.<br>
+(Base 4, +2 Voice)
 
-• Summon a mobile plant.
+#### LEVEL 15
 
-• Treat and process items made of plant products.
+##### STRIKE OF THE ANGERED BRANCH
+R: Voice, D: Conc, T: Part<br>
+Causes a large tree branch to swing at a target. The branch's Attack score is equal to your Perception + Finesse. Damage is +10. You may strike repeatedly with the branch, striking once per round for as long as the spell lasts.<br>
+(Base 3, +2 Voice, +1 Conc, +1 Part)
 
-Ward a plant against mundane plant diseases.
+##### TANGLE OF WOOD AND THORNS
+R: Voice, D: Conc, T: Ind<br>
+Takes a length of wood that you designate and hurls it at a target (a Targeting roll is required). The wood wraps around and immobilizes the target (assuming that there is enough wood), who must make a Strength stress roll against an Ease Factor of 9 to break free (one attempt per round). If the victim ever botches, he cannot escape without outside help. If the length of wood has thorns, it does +6 damage when it hits, and again each time the target tries to break free, whether successful or not. When the caster stops concentrating, the target can escape on a Strength roll against an Ease Factor of 6.<br>
+(Base 3, +2 Voice, +1 Conc, +1 Muto requisite)
 
-Level 10: • Make a plant or thing made of plant products move with purpose and intelligence, without requiring your constant control.
+#### LEVEL 20
 
-• Transport a plant instantly up to 5 paces. Non-living plant products are transported with Rego Terram. Add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection.
-
-Level 15: • Ward someone against mundane plant products.
-
-• Make a tree blossom out of season, in a moment.
-
-• Weave thread into a tunic.
-
-Summon a disembodied spirit associated with Herbam.
+##### COILS OF THE ENTANGLING PLANTS
+R: Voice, D: Conc, T: Group<br>
+Animates all the grass and small plants within a field delineated from side to side by your outstretched arms and in front by no more than 15 paces of distance. The plants grab and wrap themselves around the people nearest to them (Strength stress roll of 9+ to break free, rolled once per minute). If a roll to break free ever botches, the victim cannot escape on his or her own. With a Concentration roll of 6+, you can release one individual a round.<br>
+(Base 3, +2 Voice, +1 Conc, +2 Group)
 
 #### LEVEL 25
 
-LORD OF THE TREES
-
-R: Voice, D: Conc, T: Ind
-
-Causes a tree to move its branches and bend its trunk in any way you mentally direct. A large tree striking with branches has Initiative +5, Attack +7, and Damage +10. Normal weapons are practically useless against large trees.
-
+##### LORD OF THE TREES
+R: Voice, D: Conc, T: Ind<br>
+Causes a tree to move its branches and bend its trunk in any way you mentally direct. A large tree striking with branches has Initiative +5, Attack +7, and Damage +10. Normal weapons are practically useless against large trees.<br>
 (Base 4, +2 Voice, +1 Conc, +2 size)
 
-THE TREACHEROUS SPEAR
-
-R: Voice, D: Diam, T: Ind
-
-This spell animates a wooden or wooden-hafted melee weapon in someone else's hand, and makes that weapon attack its holder until the wielder is dead or the weapon is destroyed. When the spell is cast, the weapon tries to break its wielder's hold (Quickness – Encumbrance stress roll against an Ease Factor of 9 to hang on). On subsequent rounds, the wielder hangs on by making Strength stress rolls against an Ease Factor of 6, allowed once per round. If a roll to hold on ever botches, the wielder loses control of the weapon and is hit by it automatically (see below). While still in its wielder's grip, the weapon does not strike him or her, but does not strike on the wielder's behalf either. Once the weapon breaks free or is released, it attacks its wielder, using his Attack and Damage scores.
-
-The former wielder may fight the rebellious weapon. The weapon uses its defense rating as its Defense total. It has no Soak, and is 'killed' after it takes a wound depending on its size. One-handed weapons must take a Medium Wound, while two-handed weapons must take a Heavy Wound. The damage of thrusting and missile weapons is halved when attacking the renegade weapon.
-
+##### THE TREACHEROUS SPEAR
+R: Voice, D: Diam, T: Ind<br>
+This spell animates a wooden or wooden-hafted melee weapon in someone else's hand, and makes that weapon attack its holder until the wielder is dead or the weapon is destroyed. When the spell is cast, the weapon tries to break its wielder's hold (Quickness – Encumbrance stress roll against an Ease Factor of 9 to hang on). On subsequent rounds, the wielder hangs on by making Strength stress rolls against an Ease Factor of 6, allowed once per round. If a roll to hold on ever botches, the wielder loses control of the weapon and is hit by it automatically (see below). While still in its wielder's grip, the weapon does not strike him or her, but does not strike on the wielder's behalf either. Once the weapon breaks free or is released, it attacks its wielder, using his Attack and Damage scores. The former wielder may fight the rebellious weapon. The weapon uses its defense rating as its Defense total. It has no Soak, and is 'killed' after it takes a wound depending on its size. One-handed weapons must take a Medium Wound, while two-handed weapons must take a Heavy Wound. The damage of thrusting and missile weapons is halved when attacking the renegade weapon.<br>
 (Base 10, +2 Voice, +1 Diam)
 
-TWIST THE LIVING TREE
-
-R: Touch, D: Sun, T: Ind
-
-You make a living tree bend into unusual positions. Depending on your needs, you can make a cage, a shelter, or a wall. Even the leaves can be commanded, maybe to form
-
-a solid roof that sheds rain. Takes one to ten minutes to complete (depending on the complexity of the new shape), during which time you must maintain concentration.
-
+##### TWIST THE LIVING TREE
+R: Touch, D: Sun, T: Ind<br>
+You make a living tree bend into unusual positions. Depending on your needs, you can make a cage, a shelter, or a wall. Even the leaves can be commanded, maybe to form a solid roof that sheds rain. Takes one to ten minutes to complete (depending on the complexity of the new shape), during which time you must maintain concentration.<br>
 (Base 4, +1 Touch, +2 Sun, +2 size)
 
-WARD AGAINST WOOD
-
-R: Per, D: Sun, T: Ind
-
-The caster is protected from nonenchanted wood, so that none of it can contact his body. If he is walking on a wooden surface, he is actually suspended very slightly above it.
-
+##### WARD AGAINST WOOD
+R: Per, D: Sun, T: Ind<br>
+The caster is protected from nonenchanted wood, so that none of it can contact his body. If he is walking on a wooden surface, he is actually suspended very slightly above it.<br>
 (Base 15, +2 Sun)
 
 #### LEVEL 30
 
-Freeing the Striding Tree
-
-R: Voice, D: Conc, T: Ind
-
-Like Lord of the Trees, above, but the tree can walk half as fast as a human can. If you botch a Concentration roll to maintain control, the tree attacks you, having been awakened and disturbed by this spell.
-
+##### FREEING THE STRIDING TREE
+R: Voice, D: Conc, T: Ind<br>
+Like Lord of the Trees, above, but the tree can walk half as fast as a human can. If you botch a Concentration roll to maintain control, the tree attacks you, having been awakened and disturbed by this spell.<br>
 (Base 5, +2 Voice, +1 Conc, +2 size)
 
 #### LEVEL 45
 
-CALLING THE COUNCIL OF THE TREES
-
-R: Touch, D: Moon,
-
-T: Bound, Ritual
-
-Req: Intellego
-
-You call all magical and potentially mobile trees within the woodland where you cast the ritual to the site of the ritual. The trees are compelled to come, and will likely be interested in whoever has called them. The attitude of the trees depends on the forest and the nature of the one who called. Once gathered, the trees hold meetings, summon ancient powers, and discuss the problems facing their kind. You may speak, and understand what the trees are discussing. The results of the conference may not be entirely in your favor. The trees remain animated for a month and may seek to return home before the end of that period.
-
+##### CALLING THE COUNCIL OF THE TREES
+R: Touch, D: Moon, T: Bound, Ritual<br>
+Req: Intellego<br>
+You call all magical and potentially mobile trees within the woodland where you cast the ritual to the site of the ritual. The trees are compelled to come, and will likely be interested in whoever has called them. The attitude of the trees depends on the forest and the nature of the one who called. Once gathered, the trees hold meetings, summon ancient powers, and discuss the problems facing their kind. You may speak, and understand what the trees are discussing. The results of the conference may not be entirely in your favor. The trees remain animated for a month and may seek to return home before the end of that period.<br>
 (Base 5, +1 Touch, +3 Moon, +4 Bound, no cost for Intellego effect)
+
+---
 
 ## Ignem Spells
 
@@ -16529,7 +15555,25 @@ Light and heat also fall within the domain of this Form. It's important to remem
 
 The base Individual for Ignem is a large campfire or the fire in the hearth of a great hall. Fire damage is explained on page 407.
 
-## Creo Ignem Spells
+### Creo Ignem Guidelines
+
+Spells that create fires are versatile weapons — destructive to living things, undead, buildings, and morale. Those who depend on fire spells, however, risk botching. Fire is an unforgiving element for those who lose control of it, and self-incineration is always a possibility.
+
+Typical sigils seen in Creo Ignem spells involve the flame being a specific color or shape, or giving off an unusual smell.
+
+| Level | Creo Ignem Guideline |
+| ----- | -------------------- |
+| 1 | • Create light equivalent to moonlight |
+| 2 | • Create light equivalent to candlelight<br>• Heat an object to be warm to the touch<br>• Ignite something extremely flammable (like oil or a wick) |
+| 3 | • Create light equivalent to torchlight<br>• Heat an object to be hot to the touch<br>• Ignite something very flammable (like parchment) |
+| 4 | • Create a fire doing +5 damage<br>• Create light as bright as a cloudy day<br>• Ignite something flammable (like dry wood or charcoal)<br>• Heat an object enough to boil water |
+| 5 | • Create a fire doing +10 damage<br>• Create a fire doing +5 damage in an unnatural shape, such as in a ring or sheet, or covering an item (purely cosmetic shapes are free)<br>• Create light as bright as direct sunlight on a clear day<br>• Ignite something slightly flammable (like leather or damp wood)<br>• Heat an object enough to make it glow red-hot (hot enough to melt tin or lead) |
+| 10 | • Create a fire doing +15 damage<br>• Create a fire doing +10 damage in an unnatural shape<br>• Ignite something barely flammable (like a human body)<br>• Heat an object enough to make it glow white-hot (hot enough to melt almost all metals, and many rocks) |
+| 15 | • Create a fire doing +20 damage |
+| 20 | • Create a fire doing +25 damage<br>• Create a fire doing +20 damage in an unnatural shape |
+| 25 | • Create a fire doing +30 damage<br>• Create a fire elemental from a base amount of elemental matter (Ritual) |
+
+### Creo Ignem Spells
 
 #### LEVEL 3
 
@@ -16638,53 +15682,6 @@ R: Voice, D: Conc, T: Ind
 Creates a circle of flames 6 feet high. The circle begins at a 1-pace radius, but you can make it shrink to a pillar or grow to a 3-pace radius as you concentrate if you cast with a Rego requisite. Anyone moving through the flames takes +20 damage. You cannot move the center of the circle.
 
 (Base 20, +2 Voice, +1 Conc)
-
-## Creo Ignem Guidelines
-
-Spells that create fires are versatile weapons — destructive to living things, undead, buildings, and morale. Those who depend on fire spells, however, risk botching. Fire is an unforgiving element for those who lose control of it, and self-incineration is always a possibility.
-
-Typical sigils seen in Creo Ignem spells involve the flame being a specific color or shape, or giving off an unusual smell.
-
-Level 1: • Create light equivalent to moonlight.
-
-Level 2: • Create light equivalent to candlelight.
-
-- Heat an object to be warm to the touch.
-- Ignite something extremely flammable (like oil or a wick).
-
-Level 3: • Create light equivalent to torchlight.
-
-- Heat an object to be hot to the touch.
-- Ignite something very flammable (like parchment).
-
-Level 4: • Create a fire doing +5 damage.
-
-- Create light as bright as a cloudy day.
-- Ignite something flammable (like dry wood or charcoal)
-- Heat an object enough to boil water.
-
-Level 5: • Create a fire doing +10 damage.
-
-- Create a fire doing +5 damage in an unnatural shape, such as in a ring or sheet, or covering an item. (Purely cosmetic shapes are free.)
-- Create light as bright as direct sunlight on a clear day.
-- Ignite something slightly flammable (like leather or damp wood).
-- Heat an object enough to make it glow red-hot. This is hot enough to melt tin or lead.
-
-Level 10: • Create a fire doing +15 damage.
-
-- Create a fire doing +10 damage in an unnatural shape.
-- Ignite something barely flammable (like a human body).
-- Heat an object enough to make it glow white-hot. This is hot enough to melt almost all metals, and many rocks.
-
-Level 15: • Create a fire doing +20 damage.
-
-Level 20: • Create a fire doing +25 damage.
-
-• Create a fire doing +20 damage in an unnatural shape.
-
-Level 25: • Create a fire doing +30 damage.
-
-• Create a fire elemental from a base amount of elemental matter. (Ritual)
 
 ## Intellego Ignem Guidelines
 
@@ -25872,9 +24869,7 @@ We hope you'll join us in creating this vibrant new chapter in **Ars Magica**'s 
 
 # Fourth Edition Conversion
 
-onverting from Ars Magica 4<sup>th</sup> Edition to 5<sup>th</sup> Edition is a good idea, because a
-
-lot of longstanding problems in the rules have been fixed. However, that raises the question of what has changed. There are two viable short answers.
+Converting from Ars Magica 4<sup>th</sup> Edition to 5<sup>th</sup> Edition is a good idea, because a lot of longstanding problems in the rules have been fixed. However, that raises the question of what has changed. There are two viable short answers.
 
 ## Nothing has Changed
 
