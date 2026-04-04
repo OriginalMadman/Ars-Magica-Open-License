@@ -2278,7 +2278,7 @@ Caitlin's two great companions in life are her daughter, Aine, and her faerie do
 >| --- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------  |
 >| 34  | Cr  | 33  | An  | 31  | Ig  | Spellcasting Speed: +9                                                                |
 >| 29  | In  | 31  | Aq  | 36  | Im  | Twilight Points: 0                                                                    |
->| 32  | Mu  | 31  | Au  | 35  | Me  | Decrepitude Points: O                                                                 |
+>| 32  | Mu  | 31  | Au  | 35  | Me  | Decrepitude Points: 0                                                                 |
 >| 30  | Pe  | 29  | Co  | 25  | Te  | Wizard's Sigil: A soft chime sounds; the more powerful the magic, the deeper the tone |
 >| 31  | Re  | 33  | He  | 29  | Vi  |                                                                                       |
 >
@@ -2290,8 +2290,8 @@ Caitlin's two great companions in life are her daughter, Aine, and her faerie do
 >| ------------- | ------------ | ------ | ------- | ------- | --------------- |
 >| Caman Totals: | +9           | +7     | +5      | +8 (14) | Dodge: +8       |
 >|               |              |        |         |         | Soak: +15       |
->|               |              |        |         |         | Fatigue: O      |
->|               |              |        |         |         | Encumbrance: Ó  |
+>|               |              |        |         |         | Fatigue: 0      |
+>|               |              |        |         |         | Encumbrance: 0  |
 >
 >#### Weapons, Armor, and Items
 >Cloak of Concealment: Mulm 25; the wearer is hard to pick out against the background (-5 to Scan rolls when still, -2 when moving). Oak wand talisman: +7 protection from storms, +4 control things at a distance, +4 destroy things at a distance, +3 project bolt or missile, +2 repel things; focus for Curse ofCirce (MuCo 30), focus for Panic of the Elephant's Mouse (ReAn 15)
@@ -5675,7 +5675,7 @@ Most words in Gaelic are accented on the first syllable or the next to the last 
 | Two          | Da      | da            |
 | Three        | Tri     | tree          |
 | Four         | Ceithir | ke-hir        |
-| Five         | Coig    | СО            |
+| Five         | Coig    | co            |
 | Six          | Sia     | sheea         |
 | Seven        | Seachd  | shachk        |
 | Eight        | Ochd    | ochk          |
