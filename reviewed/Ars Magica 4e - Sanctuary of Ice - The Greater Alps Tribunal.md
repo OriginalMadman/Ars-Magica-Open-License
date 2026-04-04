@@ -3,7 +3,7 @@ A sourcebook to the Mythic Greater Alps for Ars Magica™ 4th Edition
 
 > *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
-> *[Completion state: Whole book manually fixed. Remaining: Review]*
+> *[Completion state: Whole book manually fixed and reviewed.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -167,21 +167,21 @@ This virtue is suitable for those magi whose right to harvest from a vis source 
 
 An option is to start the saga with magi who are substantially older than usual. This style of saga is usually suitable only for experienced players.
 
-## Warning: This is a Work of Fiction
+### Warning: This is a Work of Fiction
 
 This book is filled with obfuscations, oversimplifications and anachronistic inventions. It tries to give you the sense that the places and people in it are really as described, but everything in this book has been reworked for the purposes of storytelling. Inconvenient historical realities have been ignored, if there's a story to be told, or if accuracy would require lengthy explanations. For example Langue d'Oc, German and Italian are used as shorthand to identify local dialects. Customs have been jumbled in from adjoining centuries. Local myths have been given a Hermetic twist, and some have been so distorted that they are unrecognizable.
 
-## No Swiss, but Many Romans
+### No Swiss, but Many Romans
 
 In this supplement "the Alps" is often used as a collective noun for those territories in the Greater Alpine Tribunal. There simply is no historical term for these lands. This is not a supplement about the Swiss. In 1220, Switzerland does not exist in the modern sense. The people who might one day become the Swiss speak four languages and are loyal only to their home village or city although some cities cooperate in mutual defense agreements.
 
 Alpine members of the Order see themselves as the heirs of the Roman culture. The Greater Alpine Tribunal's magi cherish Roman, or believed-Roman, traditions, and use Roman symbols to communicate and display status. They prefer symbols of the Imperial period, when the Order of Mercury was at its height, and give innovative practices weight by borrowing Roman names or symbols for them. The Alpine magi wear their unusually strict adherence to 'Roman' traditions as a badge of pride.
 
-## Degree of Mystery
+### Degree of Mystery
 
 In *The Mysteries*, options were given for including mystery cults in Ars Magica. This book assumes a low mystery setting. For high mystery settings you should increase the number and size of the covenants in the Alps. The Mysteries also presented secretive organizations, which characters could join, that taught new styles of magic. The magi presented here are suitable for a low-mystery saga. In a high-mystery saga, the statistics given here reflect only their public façades. Although the book is low-mystery, hints of secret groups that could flower into mystae are scattered throughout the text.
 
-## You May Ignore This Book
+### You May Ignore This Book
 
 This book has been filled with new ideas that you might want to incorporate into your saga. Discuss with your troupe which bits you like, and which ones you don't. When designing new characters, discuss your concept with the other players, the same way you would if you were selecting conventional flaws that might seriously affect the tone of the story (like Plagued by Supernatural Entity).
 
@@ -802,12 +802,6 @@ Viscus is a variant of those Criamon who believe that the Universe's creative fo
 
 **Regina** was initially trained as a follower of Bonisagus, but her extended research into the Enigma has gradually redirected her sympathies toward the Criamon. She focuses on the creation of mystical spaces where things are possible that are not possible in the mundane world.
 
-
-
-
-
-
-
 ## Covenfolk
 
 People who are born, live the majority of their life at the covenant and die here often continue to dwell on as ghosts. Their Might scores are usually in the 15-20 point range, adjusted by aura strength. The covenant's autocrat, Hera, was appointed by Criamon during life, and continues to serve today. Her might score is 45 adjusted by aura, so she seems solid. She is equipped with a set of magical gloves, which allow her to handle material objects. Most strikingly, she retains the Piercing Gaze virtue.
@@ -832,9 +826,9 @@ The living covenfolk speak a Romansch dialect found nowhere else, although the p
 >
 >**Reputations:** Always knows what you are going to say before you say it 2, with covenfolk; First servant of the House 3, with Criamon magi
 >
->|Wpn/Atk |Init |Atk |Dfn |Dam |Fat|
->|---|---|---|---|---|----|
->| Brawling (fist)\*|–1| –2| –2| +0| n/a|
+>|Wpn/Atk            | Init | Atk | Dfn | Dam | Fat |
+>|------------------ |------|-----|-----|-----|-----|
+>| Brawling (fist)\* | –1   | –2  | –2  | +0  | n/a |
 > \*Requires magical glove
 >
 >**Soak:** 0, can only be harmed by Mentem or Vim magic
@@ -869,7 +863,7 @@ The living covenfolk speak a Romansch dialect found nowhere else, although the p
 >
 >The fanatical search for rest that drives most ghosts prevents the less powerful spirits found elsewhere from taking the time to learn new arts, or sustaining sufficient interest to teach students over a fifteen-year period. In exceptional cases a magus trained by a ghost is possible, which is a source for the Ghostly Warder virtue.
 
-## Ghosts and the Environment
+### Ghosts and the Environment
 
 Few magi leave ghosts; since Hermetic magi cast "Lay To Rest the Haunting Spirit" on their dead, and wizards who enter Twilight take their ghosts with them. The Code of Hermes does not protect ghosts of magi, although it is illegal to read the memories of a ghost to discover information about a living magus. Although ghosts are not protected by the Code directly, those in covenants are treated as the property of their covenant or descendant, and most Hermetic ghosts have powerful descendants within their House who would react vigorously to their abuse.
 
@@ -897,9 +891,9 @@ The higher the ghost's Might score, the less translucent they appear. Ghosts wit
 >
 >**Reputations:** Will mark the coming of the New Criamon 2, with certain Criamon magi
 >
->|Wpn/Atk |Init |Atk |Dfn |Dam |Fat|
->|---|---|---|---|----|----|
->| Brawling (fist) |–5| –3| n/a\* |0 |n/a |
+>| Wpn/Atk         | Init | Atk | Dfn   | Dam | Fat |
+>|-----------------|------|-----|-------|-----|-----|
+>| Brawling (fist) | –5   | –3  | n/a\* | 0   | n/a |
 >\* does not take solid form
 >
 >**Soak:** 0 — can only be harmed by Vim magic (Genii are not affected by "Lay to Rest the Haunting Spirit" or similar effects, since they aren't truly ghosts.)
@@ -983,7 +977,9 @@ Over time this covenant's structure has altered, as chapters, which are all but 
 >
 >#### Buildings +3
 >
->**Size:** 6 magi/20 specialists/50 grogs **Impressive Structures:** Tribunal Chamber (+1), Tribunal Accommodation Buildings (+1)
+>**Size:** 6 magi/20 specialists/50 grogs 
+>
+>**Impressive Structures:** Tribunal Chamber (+1), Tribunal Accommodation Buildings (+1)
 >
 >**Quality:** Excellent for magi, Tribunal areas (+5), Good for specialists and grogs (+1)
 >
@@ -1009,7 +1005,9 @@ Over time this covenant's structure has altered, as chapters, which are all but 
 >
 >#### Relations –3
 >
->**Allies:** Magvillus (+9, +1 intensity) **Enemies:**
+>**Allies:** Magvillus (+9, +1 intensity) 
+>
+>**Enemies:**
 >
 >- Local count (–5, –2 intensity)
 >- Local faerie prince (–3, –3 intensity)
@@ -1021,13 +1019,19 @@ Over time this covenant's structure has altered, as chapters, which are all but 
 >
 >#### Improvement +3
 >
->**Income:** 700 silver a year (+2) **Vis supply:** 60 pawns per year (+6) **Inhabitants** : 6 magi, 20 specialists, 50 grogs
+>**Income:** 700 silver a year (+2) 
+>
+>**Vis supply:** 60 pawns per year (+6) 
+>
+>**Inhabitants** : 6 magi, 20 specialists, 50 grogs
 >
 >*Library*
 >
 >**Spells:** 2100 levels of spells, tending to favor investigation and violence. (+2)
 >
->**Hermetic Books:** 900 points (+5) strongest in Intéllego and Ignem. **Mundane Books:** 240 points (–1) favoring Hermetic history and law.
+>**Hermetic Books:** 900 points (+5) strongest in Intéllego and Ignem. 
+>
+>**Mundane Books:** 240 points (–1) favoring Hermetic history and law.
 >
 >*Mystical Attributes*
 >
@@ -1039,7 +1043,7 @@ Over time this covenant's structure has altered, as chapters, which are all but 
 >
 >**Totals:** +84 / –29
 
-# The Motherhouse
+## The Motherhouse
 
 During the Sundering of Tremere, the Covenant of the Highest Aspiration fell, leaving its resources unclaimed. Several covenants rushed to assert ownership, and five militarized and nervous chapter houses were created in the Bavarian Alps. An emergency tribunal was called, and a compromise was reached. The Quaesitores would oversee the harvesting of the resources of the fallen covenant, and divide them among the remaining covenants. These vis sources are now known, collectively, as the Bavarian Common. In exchange all of the chapter houses except that belonging to the Covenant of Icy North were disbanded. The Bavarian Common provides two chairs, for a quaesitor and hoplite to maintain this system.
 
@@ -1103,11 +1107,11 @@ A member of a beast-mage tradition from Hibernia, Kentigern's magical affinity i
 >
 >**Reputations:** No reputation has stuck, yet. 
 >
->|Weapon/Atk | Init |Atk| Dfn| Dam| Fat|
->|---|---|---|---|---|---| 
->|Brawling (fist)|+1 |+1 |+0 |+1 |+2| 
->|Sword| +4 |+3 |+5 |+5 |+3 |
->|Crossbow |–5 |+4 |n/a |+10 |+3 | 
+>|Weapon/Atk      | Init | Atk | Dfn | Dam | Fat |
+>|----------------|------|-----|-----|-----|-----| 
+>|Brawling (fist) |+1    | +1  | +0  | +1  | +2  | 
+>|Sword           | +4   | +3  | +5  | +5  | +3  |
+>|Crossbow        |–5    | +4  | n/a | +10 | +3  | 
 >
 >**Soak:** +3
 >
@@ -1139,13 +1143,15 @@ A member of a beast-mage tradition from Hibernia, Kentigern's magical affinity i
 >
 >Daughter of Zephyrs (CrAn(AuRe) 45/+46)
 >
->Vision of the Marauding Beast InAn 15/+53)
+>Vision of the Marauding Beast (InAn 15/+53)
 >
 >To Know the Owner as Might His Hound (InAn 25/+53)
 >
 >Opening the Tome of the Animal's Mind (InAn 25/ +53)
 >
->Circle of Beast Warding (ReAn 25/+58) Mastering the Unruly Beast (ReAn 25/+58)
+>Circle of Beast Warding (ReAn 25/+58) 
+>
+>Mastering the Unruly Beast (ReAn 25/+58)
 >
 >Commanding the Harnessed Beast (ReAn 30/+58)
 >
@@ -1527,9 +1533,9 @@ Like many Jerbiton magi, Miklos is an artist. He is fascinated by magical clothi
 >
 >**Reputations:** A lovesick puppy 2, with the old and cynical; a dashing romantic 1, with the young and romantic
 >
->|Wpn/Atk| Init |Atk |Dfn| Dam| Fat|
->|---|----|---|---|---|---| 
->|Brawling (fist)\*|–2 |–2 |–2 |0| –3 |
+>|Wpn/Atk           | Init | Atk | Dfn | Dam | Fat |
+>|------------------|------|-----|-----|-----|-----| 
+>|Brawling (fist)\* | –2   | –2  | –2  | 0   | –3  |
 >\*Non-combatant
 >
 >**Soak:** 0
@@ -1554,7 +1560,9 @@ Like many Jerbiton magi, Miklos is an artist. He is fascinated by magical clothi
 >
 >**Spells Known:** 
 >
->The Finch Flourish (CrAn(Im) 10/+21) Blizzard of Down (CrAn 20/+30)
+>The Finch Flourish (CrAn(Im) 10/+21) 
+>
+>Blizzard of Down (CrAn 20/+30)
 >
 >The Scold's Bridle (CrAn 20/+30)
 >
@@ -1568,11 +1576,15 @@ Like many Jerbiton magi, Miklos is an artist. He is fascinated by magical clothi
 >
 >THE COUTURIER'S ART (CrHe(An, Im) 10/+26)
 >
->The Ninth Stitch (CrHe(An, Im) 10/+26) Aura of Ennobled Presence (MuIm 10/+11)
+>The Ninth Stitch (CrHe(An, Im) 10/+26) 
+>
+>Aura of Ennobled Presence (MuIm 10/+11)
 >
 >Disguise of the Transformed Image (MuIm15/+11)
 >
->Thoughts Within Babble (ImMe25/+15) Posing the Silent Question (InMe20/+15)
+>Thoughts Within Babble (ImMe25/+15) 
+>
+>Posing the Silent Question (InMe20/+15)
 >
 >#### Miklos's Spells
 >
@@ -1883,9 +1895,9 @@ Ragoneda has been selected as the covenant's liaison to whichever spring covenan
 >
 >**Reputations:** A rising star 2, with some Tytalus magi), Profoundly annoying 2, other Tytalus magi
 >
->|Weapon/Attack |Init| Atk |Dfn |Dam |Fat|
->|---|----|---|---|---|---|
->|Brawling (fist)| +2 |+1 |+1| +0| 0|
+>|Weapon/Attack   | Init | Atk | Dfn | Dam | Fat |
+>|----------------|------|----|------|-----|-----|
+>|Brawling (fist) | +2   | +1 | +1   | +0  | 0   |
 >
 >**Soak:** 0
 >
@@ -1913,7 +1925,9 @@ Ragoneda has been selected as the covenant's liaison to whichever spring covenan
 >
 >Shower of Needles (CrCo20/+67)
 >
->TEMPEST OF NEEDLES (CrCo25/+67) As Shower of Needles, but target is Group.
+>TEMPEST OF NEEDLES (CrCo25/+67) 
+>
+>As Shower of Needles, but target is Group.
 >
 >Eyes of the Owl (MuCo5/+44)
 >
@@ -2075,11 +2089,11 @@ The mages of Tarragon Vale were great metaphysical geographers and explorers, He
 >
 >**Reputations:** Level-headed 3, with magi of Mercere
 >
->|Wpn/Atk |Init |Atk |Dfn |Dam |Fat| 
->|---|---|---|---|---|---|
->|Brawling (fist) |+3 |+2 |+3| –1 |+4| 
->|Alpenstock\* |+9| +11| +6| +2| +5| 
->|Bow |+2 |+2 |n/a |+4| +4|
+>|Wpn/Atk         | Init | Atk | Dfn | Dam | Fat | 
+>|----------------|------|-----|-----|-----|-----|
+>|Brawling (fist) |+3    | +2  | +3  | –1  | +4  | 
+>|Alpenstock\*    |+9    | +11 | +6  | +2  | +5  | 
+>|Bow             |+2    | +2  | n/a | +4  | +4  |
 >\*as quarterstaff
 >
 >**Soak:** +1
@@ -2116,15 +2130,13 @@ The mages of Tarragon Vale were great metaphysical geographers and explorers, He
 >
 >Carries a copper leaf in each boot. Each leaf contains a pawn of Rego vis, but has the secondary property of reducing blistering and ankle injuries. The leaves allow a single reroll of any die that would result in blisters or ankle injuries, and are not used up in the process.
 
-
-
 ## Magi
 
 Tarragon Vale had four magi when they were last seen, twenty-two years ago. No explanation for their absence has been found, despite extensive effort by the Quaesitores, and by those magi who claim descent from the four. Since the Tarragon Vale charter makes no provision for its dissolution, the Quaesitores are reluctant to declare the covenant dissolved in the absence of bodies. They are aware that the Tarragon Vale magi might emerge from Arcadia at some later time, claiming retrospective payment of their covenant's vis income. The Quaesitores have been collecting and storing the covenant's vis income for the last twenty years, spending only enough to maintain the covenant's Aegis of the Hearth, and to cast the Shrouded Glen about the site.
 
 The descendants of the Tarragon Vale magi want access to the huge stockpile of vis that the Quaesitores are holding. The Quaesitores know this, and have passed on the work of finding out what happened to the original magi, by stating that until proof of death is produced, no estates may be finalized. This matter has been discussed at Tribunal, but the Quaesitoreal position has been upheld, pending further evidence. Most Alpine magi want the pool of descendants to grow sufficiently large that any individual magus gets only a rook or so of vis from the disbursement. They suspect that when the Tarragon Vale vis is finally distributed, the suddenly rich are going to cause their neighbors no end of trouble.
 
-# Covenfolk
+## Covenfolk
 
 The covenfolk of Tarragon Vale disappeared with their masters. Currently a nonmagical redcap, whose grandparents were from Tarragon Vale, lives at the site. This arrangement is informal, and she has no particular right to the building or lands. About 25% of those born here had Second Sight. The Sighted were prized as grogs, and the export of skilled soldiers was one of the covenant's key sources of revenue. This effect has waned since the Vanishing Away. Other covenants have tried transporting pregnant covenwomen to Tarragon Vale, but none of the children have developed the Sight.
 
@@ -2302,10 +2314,10 @@ Andru is aware of the tides that roll across the philosophy of his House, and de
 >
 >**Reputations:** Helpful, +2 with major clerics; Rising political power +1, with elderly magi; Mysterious, +1 with major clerics
 >
->|Wpn/Atk| Init| Atk| Dfn| Dam| Fat| 
->|---|---|---|---|---|---|
->|Brawling (fist) |+2 |+1 |+1 |0 |+1| 
->|Sword |+4 |+2 |+5 |+4 |+1 |
+>|Wpn/Atk         | Init | Atk | Dfn | Dam | Fat | 
+>|----------------|------|-----|-----|-----|-----|
+>|Brawling (fist) | +2   | +1  | +1  | 0   | +1  | 
+>|Sword           | +4   | +2  | +5  | +4  | +1  |
 >
 >**Soak:** +0
 >
@@ -2432,7 +2444,7 @@ Andru is aware of the tides that roll across the philosophy of his House, and de
 >
 >Andru carries a relic of Cyrian, and he attributes to it the effects of his Charmed Life virtue. He's mistaken, but relics sometimes do manipulate coincidence. The tiny flake from a finger bone is sewn into a square of white silk the size of a handkerchief.
 
->*Familiar: Crucifixio*
+>**Familiar: Crucifixio**
 >
 >**Characteristics:** Int +3, Per +3, Pre 0, Com +1, Str –3, Sta 0, Dex +3, Qik +3
 >
@@ -2442,9 +2454,9 @@ Andru is aware of the tides that roll across the philosophy of his House, and de
 >
 >**Personality Traits:** Curious +3
 >
->|Wpn/Atk |Init |Atk |Dfn |Dam |Fat |
->|---|---|---|---|---|---|
->|Brawling (fist) |+5| +5| +7| –3| 0|
+>|Wpn/Atk         | Init | Atk | Dfn | Dam | Fat |
+>|----------------|------|-----|-----|-----|-----|
+>|Brawling (fist) | +5   | +5  | +7  | –3  | 0   |
 >
 >**Soak:** +0
 >
@@ -3156,7 +3168,7 @@ German nobles, themselves tossed about by the winds of politics, encouraged thei
 
 # Bibliography
 
-## Basic Geographic Information and Local Legends
+### Basic Geographic Information and Local Legends
 
 Arnold, Rosmarie et.al. (undated) *Baedeker's Austria*, Baedeker, Stuttgart. Frazer, James George (1996) *The Illustrated Golden Bough: A study in Magic and*
 
@@ -3176,7 +3188,7 @@ Simmons, Jack (1970), *Murray's Handbook for travelers in Switzerland: 1838*, Jo
 
 As a general rule when a local myth has been reworked, the fake bit starts as soon as I mention the Order of Hermes or elephants.
 
-## European Culture, Technology and Chronology
+### European Culture, Technology and Chronology
 
 Brown, T., James, E.,Whitton, D., Morris, R., Denley, P., Vale, M. (1988), *The Oxford Illustrated History of Medieval Europe*, Oxford University Press, Oxford.
 
@@ -3184,7 +3196,7 @@ Fry, Plantagenent Somerset (1996) *Castles of Britain and Hibernia: The Ultimate
 
 Geis, Frances and Geis Joseph (1995) *Cathedral, Forge and Waterwheel: Technology and Invention in the Middle Ages*, HarperPerrenial, New York..
 
-## Roman Cultural Information
+### Roman Cultural Information
 
 Burnell, R.E.C. (1970) *The Romans and their World*, Wheaton, London.
 
@@ -3200,7 +3212,7 @@ Werner, Paul (1989) *Life in Rome in Ancient Times* (trans. David Macrae), Genev
 
 Farrar, Linda (2000) *Ancient Roman Gardens*, Sutton Publishing, London.
 
-## Faeries and Monsters
+### Faeries and Monsters
 
 Christine O'Keeffe's New Year's Legends page [Online: accessed 12 July 2000] URL:
 
@@ -3224,7 +3236,7 @@ Welcome to Moena - Dolomiti - Trentino - Dolomitien - Dolomites [Online: accesse
 
 The ice distortion is based very loosely on the beliefs of indigenous people who live near Mount Connor in Australia.
 
-## Miscellany
+### Miscellany
 
 Danielewski, Mark Z. (2000) *House of Leaves*, Random House, Milsons Point [New South Wales] for semiotics of riddling.
 
@@ -3232,12 +3244,14 @@ Riker, Tom (1998) "Y Cymar" in Mythic Perspectives no.2. Gnawing Ideas : Sacrame
 
 Robinet, Isabelle (1993) *Taoist Meditation: The Mao-Shan Tradition of Great Purity* (trans. Julian F. Pas and N. J. Giradot), State University of New York Press, Albany.
 
-#### General Index
+# Index
+
+## General Index
 
 Aareschlucht 97 <br>Adrasteia 46 <br>alcohol 34 <br>amaranth 14 <br>Andru filius Astrolabe, primus of Jerbiton 82 <br>Angela filia Constance 87 <br>Antares 52 <br>Appenzellerland 97 <br>Athena Alpina 45 <br>Augsburg 111 <br>Augustina filia Ragoneda 73 <br>Baden 97 <br>Baker's Day 26 <br>Balbina filia Havelock 69 <br>barbegazi 103, 105 <br>Basel 97 <br>baths 98 <br>Bavaria 111, 120, 122 <br>Bavarian Common 44 <br>Bean-Spitting Day 24 <br>Beloved Enemy 51 <br>Bergenland 113 <br>Berne 98 <br>Black Lineage 86 <br>black quartz 54 <br>blizzard demons 107 <br>blood of the Sun 100 <br>Boot Burning 26 <br>Botzberg 98 <br>Bronwyn filia Astrolabe 88 <br>Capra filia Bullfinch 59 <br>Cara filia Sigurd 70 <br>Carlo filius Innocu 58 <br>Carmine filia Susannah 92 <br>Cato 46 <br>Cave of Twisting Shadows 29 <br>chapters 10 Charlotte filia Lupina 58 <br>Childermas 27 <br>Chloe, Minstrel 91 <br>Church 15, 93 <br>Circum Perfico 36 <br>Cirque d'Annibal 99 <br>Constance 98 <br>Constance filia Frederich et Vortimer 84 <br>Copper Rooster Inn 97 <br>Crucifixio 86 crystals of Montjoux 54 <br>cubic fluorite 54 <br>cuisine and banqueting 91 <br>Cymena the Redcap 76 <br>Dachstein 114 <br>Danu 113 <br>Danube 111 <br>Darius filius Yannes 33 <br>Days of Trembling 23 <br>Díedne 99 <br>disorder 15 <br>distaff 70 <br>Dolomite 114, 115 <br>Domleschg 99 <br>Dragon of Brand 111 <br>dragons and dragonets 106 <br>Eastern Marches 113, 121 <br>Echo filia Gribbinus 33 <br>Eginhard 62 <br>Einsiedeln 100 <br>Eisenstadt 114 <br>emeralds 116 <br>emigration 16 <br>Entisimon 52 <br>Esther filia Gribbinus 33 <br>faeries, Jerbiton view 94 <br>family law 11 <br>ferns 100 <br>fetiales 23 <br>Fingerbone of Cyrian 86 <br>fluorites 54 <br>follies 100 <br>Fortuito filius Circum Perfico 34 <br>François, Blacksmith 90 <br>Frustration Week 23 <br>games 27 <br>Gardens of Valnastium 93 <br>Geneva 100 <br>genius loci 40 <br>ghosts 40 <br>Giselle filia Bertrand 59 <br>gnomes of Pilatus 103 <br>Grazia filia Natura 87 <br>Gunther 38 Hagen 38 <br>Hannibal 99 <br>Heiligenblut 102 <br>heir virtue 5 <br>Hera, Autocrat and Chatelaine 37 <br>Hermetic law 9 <br>Highest Aspiration 18, 44 <br>hoplites 13 <br>Hubert filius Lorenz 67 <br>iaculii 49 <br>Icy North — Motherhouse 43 <br>infernal bridges 108 <br>Ingolstadt 15 <br>Interlaken 102 <br>Jacinta filia Nicoli, Archmaga 52 <br>Jane, the Fifth Primus 38 <br>Josephine, Chef 89 <br>Juno's Spire 51 <br>Jura Mountains 96 <br>Kalliope filia Bibliophilus 88 <br>Kamilla 62 Katrina 50 <br>Kentigern 47 <br>Klagenfurt 116 <br>La, primus of Criamon 32 <br>Lake Constance 50 <br>Larta Magi 89 <br>Latrunculus filius Aurelia 35 <br>Lausanne 101 <br>law family 11 <br>Hermetic 9 <br>Fribourg 100 <br>peculiarities 10 <br>Legion of Mithras 14, 102 <br>Leviathan 121 <br>Liberalia 23 <br>Library of Valnastium 88 <br>Lickstone 77 <br>lictor 14 <br>longevity specialists 64 <br>Lucerne 103 <br>Lukerbad maps Bavarian Alps 112 <br>Eastern Marches 115 <br>Tribunal of the Greater Alps 7 <br>Western Alps 101 <br>Martigny 102 <br>May Day Eve 24 <br>Melk 116 <br>Midsummer Eve 25 <br>Midsummer Fair 17, 24, 44, 56, 66, 103 <br>Miklos filius Kosma 59 <br>Mircalla 45 <br>Mittenwald 112 <br>Mons Voctieus 98 <br>Mont Blanc 58 <br>Mont Joux 54 <br>Mount Pilatus 103 <br>Munich 112 <br>Muscaria filia Darius 35 <br>Muse 92 <br>Narrative Map 75 <br>octagonal fluorite 54 <br>Order of Miscellany 13 <br>ostracism 12 <br>patron virtue 5 <br>Paxon filius Valentin, Archmagus 68 <br>Pellam 38 <br>Pennius 54 <br>Peonn 54, 56 <br>peril of excellence 36 <br>Pfeffers 101 <br>Phaelene 38 <br>Philomena filia Rafe, Archmaga 67 <br>Pierres de Niton 101 <br>Pietrine Lineage 51 <br>Pietro, Archmage 14 <br>Pietro, Archmage 51 <br>Pontius Pilate 103 <br>praetexta 19 <br>Pralix 13, 52 <br>public vis source 5 <br>pulla 19 <br>Quaesitorial blindfold 48 <br>quartz 54 Quinquennial 27 <br>Ragoneda filia Elisa 70 <br>rainbow fluorite 54 <br>Rauhnachte 26 
 <br>redcaps 20, 50 <br>Regensberg 113 <br>Regina 39 <br>Reichenau Rhaetia 103 <br>Rhaetian 78 <br>Righi 63, 105 <br>Rosegarten 108 Rowan Sisterhood 53 <br>Sabina of Flambeau 102 <br>Saint Beatus' Cave Saint Bernard Pass 96, 101, 106 <br>Saint Gallen 50, 96, 97, 107 <br>Saint Gotthard Pass 96, 100, 103, 109 <br>Saint Maurice 109 <br>Saint Pierre 108 <br>Saint Wolfgang 117 <br>Salzburg 116 <br>Savoy 109 <br>Schwyz 117 <br>Sebastian filius Luise 69 <br>Secundi 81 <br>Shadow Flambeau 53 <br>Sinews of Knowledge 65 <br>Siobhan filia Vespasian the Avaricious 36 <br>Sirocco filia Andru 87 <br>slaying the Primus 31 <br>smoky quartz 54 <br>Sourdine filia Bronwyn 87 <br>spindle 70 <br>Standard of the Shadowy Men 85 <br>Staubbach Fall 117 <br>stola 19 <br>Styria 117 <br>Tarragon Vale 75 <br>Tatzelwurmli 97 <br>Tobias 48 toga virilis 19 <br>Tower of Ashes 52 <br>trabea 19 <br>training with Primi 39 <br>Val Fanes 109 <br>Valnastium 79 <br>Veil of Fire 85 Vervay 109 <br>Vienna 117 <br>Vincent, Archmage 49 <br>Vindonossa 97 <br>vis sources 5, 9 <br>Viscus filius Circum <br>Perfico 36 <br>Voralberg 110 voting rights 9 <br>Werfen 118 <br>Where Journeys End, covenant 55, 105, 114 <br>whitlam 20, 22 <br>Winterthur 110 <br>Wörthsee 118 <br>Yselt filia Rosalia 58 <br>Zähringers 100, 123 <br>Zurich 111
 
-#### Index of New Spells
+## Index of New Spells
 
 Blizzard of Down (CrAn 20), p. 61 <br>
 Call the Basilisk (CrAn(re) 50), p. 48 <br>
