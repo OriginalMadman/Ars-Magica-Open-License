@@ -1,5 +1,13 @@
+# The Mysteries (Revised Edition)
+A sourcebook for Ars Magica 5th Edition.
 
-## The Mysteries
+> *Open License Markdown version by applejuice1965 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> 
+> *[Completion state: Text manually fixed, all official Errata included.]*
+> 
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+There are Mystery Cults beyond the four Houses within the Order of Hermes. They keep their secrets from other magi, revealing their knowledge one piece at a time to those who undergo grueling initiations. This book reveals all, from alchemists seeking immortality to theurgists trying to become gods. Now your magus can also walk the path of The Mysteries!
 
 # Credits
 
@@ -11,9 +19,7 @@
 
 **Cover Illustration:** Grey Thornberry
 
-**Interior Art:** Ross Bonilla, Alexander Bradley, Brad McDevitt,
-
-Jeff A. Menges
+**Interior Art:** Ross Bonilla, Alexander Bradley, Brad McDevitt, Jeff A. Menges
 
 **Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves
 
@@ -31,8 +37,6 @@ Jeff A. Menges
 
 **CJ Romer** is a field parapsychologist in the UK, investigating purported ghosts and hauntings and making dreadful paranormal TV. He dedicates this to his wife Lisa, as their honeymoon was filled with this book, and to Summer, Crowley, and Marmalade. He would like to thank Neil for being so understanding about the flying rabbit hutch, burning noose, and seance table inflicted injuries that delayed his writing.
 
-
-
 **Ars Magica** players participate in a thriving fan community by subscribing to email discussion lists (like the Berkeley list), compiling archives of game material (such as Project Redcap), maintaining fan-created web sites, and running demos through Atlas Games' Special Ops program. To learn more, visit www.atlas-games.com/ArM5. You can also participate in discussion of **Ars Magica** at the official Atlas Games forums located at www.atlas-games.com/forum.
 
 Copyright 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproduction of this work by any means without written permission from the publisher, except short excerpts for the purpose of reviews, is expressly prohibited.
@@ -41,54 +45,104 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 **Digital Edition Version 1.0**
 
-
-## The Mysteries
-
-# Table of Contents
-
-| 1. The Mysteries<br>4                      | 6. Hermetic Astrology<br>47                                                   | 10. The Great Talisman<br>89                     |
-|--------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|
-| Lexicon of the Mysteries 7                 | Periapt 48                                                                    | Great Talisman 89                                |
-| 2. Entering the Mysteries<br>8             | Celestial Magic 48<br>Magical Armillary Sphere 51<br>The Magoi of the Star 54 | Consummate Talisman 90                           |
-| Secrecy and the Mysteries 8                | Astrological Correspondences 56                                               | 11. Arithmetic Magic<br>91                       |
-| Entering a Mystery Cult 9                  |                                                                               | Hermetic Numerology 91                           |
-| Quests, Ordeals, and Sacrifices 12         | 7. Divination & Augury<br>58                                                  | Hermetic Geometry 93                             |
-| The Mechanics of Initiation 13             |                                                                               | Hermetic Architecture 97                         |
-| Inventing Your Own Cult 18                 | Divination & Augury 58                                                        |                                                  |
-| The Initiated Apprentice                   | Hermetic Dream Interpreter 62                                                 | 12. The Mysteries of                             |
-| and Beyond 19                              |                                                                               | Dreams<br>102                                    |
-| 3. Storyguides & the                       |                                                                               | Dream Magic 102                                  |
-|                                            |                                                                               | The Greater Dream Grimoire 107                   |
-| Mysteries<br>21                            |                                                                               | The Dream Landscape 110                          |
-|                                            |                                                                               | The Volshebnii Mechtateli 111                    |
-| 4. Curious Common Magics 2<br>5            |                                                                               |                                                  |
-|                                            |                                                                               | 13. Mercurian Magic<br>114                       |
-| The Art of Memory 25                       |                                                                               |                                                  |
-| Spell Binding 27                           |                                                                               | Mercurian Groups in the Order 114                |
-| Performance Magic 29<br>Planetary Magic 30 |                                                                               | The Neo-Mercurians 114<br>Hermetic Sacrifice 117 |
-| Potent Magic 31                            |                                                                               |                                                  |
-| Vulgar Alchemy 32                          |                                                                               |                                                  |
-| Withstand Casting 36                       |                                                                               | 14. Mystery Cults<br>118                         |
-| Astrological Magical Focus                 |                                                                               | The Legion of Mithras 118                        |
-| and Potent Magic 36                        | 8. Hermetic Spirit Magic<br>64                                                | The Philosophers of Rome 122                     |
-| Astrological Cyclic Magic 37               | Hermetic Empowerment 64                                                       | The Children of Hermes 124                       |
-| (Astrological) Mutable Virtue              | Spirit Familiar 66                                                            | The Mystic Fraternity of Samos 126               |
-| or Flaw 37                                 | Inscription on the Soul 69                                                    | The Disciples of the Worm 129                    |
-| Vulnerable Casting 38                      | Living Ghost 70                                                               | The Knights of the Green Stone 131               |
-| New Mastery Ability:                       |                                                                               |                                                  |
-| Ceremonial Casting 38                      | 9. Hermetic Theurgy<br>75                                                     | Appendices                                       |
-| 5. Hermetic Alchemy<br>39                  | Names of Power 76                                                             | A. Immortal Magi 133                             |
-|                                            | Invocation Magic 78                                                           | B. Conversion 136                                |
-| Hermetic Alchemy 39                        | Hermetic Theurgy 78                                                           | C. Daimons 137                                   |
-| Philosophic Alchemy 40                     | Theurgic Spirit Familiar 81                                                   |                                                  |
-| The Lesser Elixir 42                       | Ascendancy to the Hall of Heroes 82                                           |                                                  |
-| The Great Elixir 43                        | Hermetic Synthemata 86                                                        |                                                  |
-| The Order of the Green Cockerel 44         | Synthemata Magia 87                                                           |                                                  |
-
-
-## Chapter One
-
 # The Mysteries
+
+## Table of Contents
+
+**Chapter  1: The Mysteries**<br>
+&emsp;Lexicon of the Mysteries<br>
+
+**Chapter 2: Entering the Mysteries**<br>
+&emsp;Secrecy and the Mysteries<br>
+&emsp;Entering a Mystery Cult<br>
+&emsp;Quests, Ordeals, and Sacrifices<br>
+&emsp;The Mechanics of Initiation<br>
+&emsp;Inventing Your Own Cult<br>
+&emsp;The Initiated Apprentice and Beyond<br>
+
+**Chapter 3: Storyguides & the Mysteries**<br>
+
+**Chapter 4: Curious Common Magics**<br>
+&emsp;The Art of Memory<br>
+&emsp;Spell Binding<br>
+&emsp;Performance Magic<br>
+&emsp;Planetary Magic<br>
+&emsp;Potent Magic<br>
+&emsp;Vulgar Alchemy<br>
+&emsp;Withstand Casting<br>
+&emsp;Astrological Magical Focus and Potent Magic<br>
+&emsp;Astrological Cyclic Magic<br>
+&emsp;(Astrological) Mutable Virtue or Flaw<br>
+&emsp;Vulnerable Casting<br>
+&emsp;New Mastery Ability: Ceremonial Casting<br>
+
+**Chapter 5: Hermetic Alchemy**<br>
+&emsp;Hermetic Alchemy<br>
+&emsp;Philosophic Alchemy<br>
+&emsp;The Lesser Elixir<br>
+&emsp;The Great Elixir<br>
+&emsp;The Order of the Green Cockerel<br>
+
+**Chapter 6: Hermetic Astrology**<br>
+&emsp;Periapt<br>
+&emsp;Celestial Magic<br>
+&emsp;Magical Armillary Sphere<br>
+&emsp;The Magoi of the Star<br>
+&emsp;Astrological Correspondences<br>
+
+**Chapter 7: Divination & Augury**<br>
+&emsp;Divination & Augury<br>
+&emsp;Hermetic Dream Interpreter<br>
+
+**Chapter 8: Hermetic Spirit Magic**<br>
+&emsp;Hermetic Empowerment<br>
+&emsp;Spirit Familiar<br>
+&emsp;Inscription on the Soul<br>
+&emsp;Living Ghost<br>
+
+**Chapter 9: Hermetic Theurgy**<br>
+&emsp;Names of Power<br>
+&emsp;Invocation Magic<br>
+&emsp;Hermetic Theurgy<br>
+&emsp;Theurgic Spirit Familiar<br>
+&emsp;Ascendancy to the Hall of Heroes<br>
+&emsp;Hermetic Synthemata<br>
+&emsp;Synthemata Magia<br>
+
+**Chapter 10: The Great Talisman**<br>
+&emsp;Great Talisman<br>
+&emsp;Consummate Talisman<br>
+
+**Chapter 11: Arithmetic Magic**<br>
+&emsp;Hermetic Numerology<br>
+&emsp;Hermetic Geometry<br>
+&emsp;Hermetic Architecture<br>
+
+**Chapter 12: The Mysteries of Dreams**<br>
+&emsp;Dream Magic<br>
+&emsp;The Greater Dream Grimoire<br>
+&emsp;The Dream Landscape<br>
+&emsp;The Volshebnii Mechtateli<br>
+
+**Chapter 13: Mercurian Magic**<br>
+&emsp;Mercurian Groups in the Order<br>
+&emsp;The Neo-Mercurians<br>
+&emsp;Hermetic Sacrifice<br>
+
+**Chapter 14: Mystery Cults**<br>
+&emsp;The Legion of Mithras<br>
+&emsp;The Philosophers of Rome<br>
+&emsp;The Children of Hermes<br>
+&emsp;The Mystic Fraternity of Samos<br>
+&emsp;The Disciples of the Worm<br>
+&emsp;The Knights of the Green Stone<br>
+
+**Appendices**<br>
+- A. Immortal Magi<br>
+- B. Conversion<br>
+- C. Daimons<br>
+
+# Chapter 1: The Mysteries
 
 Welcome to *The Mysteries Revised Edition!*
 
@@ -99,7 +153,6 @@ Within this book lie many secrets known by the magi of the Order of Hermes. Some
 A **Mystery** — very simply put — is a secret. It is a term used to describe both a cult that teaches secrets, and the secrets themselves. The latter meaning, when used in this book, usually describes strange forms of magic that have been adapted to the Hermetic system but are not widely known among Hermetic magi. Indeed, these secrets are taught only to Initiates, those who have proven their worth and joined a Mystery Cult.
 
 Hermetic magic is a powerful and successful system, yet there are some magics, such as the heartbeasts of House Bjornaer and the well-known Ritual *Wizard's Communion,* which do not fit into Bonisagus's great theoretical framework very well. Many of these are vestiges of older magical traditions that were never fully incorporated into the framework of Hermetic magic. Others are newer ideas, such as Hermetic Alchemy, which was developed from alchemical knowledge first available in Latin translation as recently as 1134, and which comes from the Islamic world. These "exceptions" to Hermetic theory form the basis of many Mysteries.
-
 
 The Order of Hermes is divided into 12 Houses, which are familiar to all. Four are True Lineages: Houses Bonisagus, Guernicus, Mercere, and Termere. Four — Houses Flambeau, Jerbiton, Tytalus, and Ex Miscellanea — are Societates. The remaining four are Mystery Houses: the followers of Criamon, Bjornaer, Merinita, and Verditius.
 
@@ -113,10 +166,7 @@ From this point on, references to the Mysteries, Mystery Cults, or Mystery magic
 
 ## What Do the Mystery Cults Believe?
 
-Each Mystery Cult has its own unique view of the world. While not all agree or uphold the same views, each teaches a particular mythic history by which it claims descent from the Mystery Cults of antiquity. In truth, however, there is
-
-
-little direct connection between the 13thcentury Mystery Cults and the ancient cults — even the modern Cult of Mercury is only indirectly descended from the Roman priesthood. Another common thread across all Mystery Cults' teachings is the idea that magic has changed since antiquity, and that the ancients were more powerful and glorious than modern magi. Even so, no one can actually prove whether magic is getting weaker, growing stronger, or staying the same; or whether the magicians of old were actually more potent, or simply different from those of today. Even though the notion that the world is degenerating is a powerful mythic image, many have challenged the idea that magic was more powerful in the past, . The Knights of the Green Stone, for example, are a Mystery Cult who contest this idea of the decline of magic; one central concept of their mythos is the idea of a quest meant to bring magic fully into the world, resulting in a magical golden age, the enchantment of Mythic Europe.
+Each Mystery Cult has its own unique view of the world. While not all agree or uphold the same views, each teaches a particular mythic history by which it claims descent from the Mystery Cults of antiquity. In truth, however, there is little direct connection between the 13th century Mystery Cults and the ancient cults — even the modern Cult of Mercury is only indirectly descended from the Roman priesthood. Another common thread across all Mystery Cults' teachings is the idea that magic has changed since antiquity, and that the ancients were more powerful and glorious than modern magi. Even so, no one can actually prove whether magic is getting weaker, growing stronger, or staying the same; or whether the magicians of old were actually more potent, or simply different from those of today. Even though the notion that the world is degenerating is a powerful mythic image, many have challenged the idea that magic was more powerful in the past. The Knights of the Green Stone, for example, are a Mystery Cult who contest this idea of the decline of magic; one central concept of their mythos is the idea of a quest meant to bring magic fully into the world, resulting in a magical golden age, the enchantment of Mythic Europe.
 
 Mystery Cults are not religions, and their truth claims are not mutually exclusive. Even in antiquity this was the case; their insights or paths of spiritual advancement were merely ways of interacting with pagan pantheons, much as a medieval Christian might further his spiritual growth by going on a pilgrimage to the shrine of a saint, or to the Holy Land. Some Mystery Cults are avowedly pagan, while others are mystical or magical rather than religious. Many cults may be seen as fully compatible with monotheistic belief and practice.
 
@@ -130,19 +180,15 @@ Bonisagus was an enthusiast of the Mystery Cults of antiquity, and welcomed the 
 
 New magics have continued to enter the Order as other magi have joined after the Founders, and some of their ways have been adopted and reworked to mesh with Hermetic theory, leaving their hedge magic origins far behind. Some of these have emerged as common Virtues and Flaws of magi in the Order; others became associated with Mystery Cults.
 
-## What The Mysteries Revised Edition is Not!
-
-*The Mysteries Revised Edition* discusses both "historical" medieval magic and the fictional magic of the Order of Hermes. Although much of Ars Magica is based on what people thought in the 13th century, our chief aim has been to keep the reader firmly grounded in the Order of Hermes and the game experience. The Mystery Cults in this book, while based on legend and magical thought, are fiction created to work with your Ars Magica saga. If you seek real occult power, or help with an academic assignment, look elsewhere.
+> ## What The Mysteries Revised Edition is Not!
+> 
+> *The Mysteries Revised Edition* discusses both "historical" medieval magic and the fictional magic of the Order of Hermes. Although much of Ars Magica is based on what people thought in the 13th century, our chief aim has been to keep the reader firmly grounded in the Order of Hermes and the game experience. The Mystery Cults in this book, while based on legend and magical thought, are fiction created to work with your Ars Magica saga. If you seek real occult power, or help with an academic assignment, look elsewhere.
 
 While some Mysteries are just as secular as Hermetic magic proper, others are adaptations to Hermetic theory of older rites, and contain religious elements that some find disconcerting. Pragmatism and discretion therefore restrict these spells and magics to those who have proven their loyalty, wise counsel, and ability to hold their tongues.
 
 Another notable aspect of Hermetic magic is that it can be worked by any Gifted individual who has mastered the appropriate knowledge. Furthermore, any Hermetic magus can recreate any Hermetic effect given time and ability; hence many young magi in Spring covenants invent *Ball of Abysmal Flame* independently, if their covenants' grimoires prove lacking. Yet this is not true of the magic taught by Mystery Cults, whose secrets require something greater, and cannot be reproduced without the correct tuition and often-harrowing Initiation rites.
 
-It is not entirely established why the magical Virtues of the Mysteries cannot easily be taught to non-Initiates. In some cases, it simply requires a peculiarity of worldview, a strange and eccentric way of looking at things not possessed by those outside the cult. Other Mysteries actually change Initiated magi in some subtle way; they are rendered magical themselves by the Initiation, or their Gift is altered to accommodate new ways of working magic. The traumatic rebirth of Initiation itself may explain why some Mystery
-
-
-
-magics are not common to the Order. In other cases there is simply no reason for the restriction of the Mystery, beyond the axiom *scientia potentia* — "knowledge is power."
+It is not entirely established why the magical Virtues of the Mysteries cannot easily be taught to non-Initiates. In some cases, it simply requires a peculiarity of worldview, a strange and eccentric way of looking at things not possessed by those outside the cult. Other Mysteries actually change Initiated magi in some subtle way; they are rendered magical themselves by the Initiation, or their Gift is altered to accommodate new ways of working magic. The traumatic rebirth of Initiation itself may explain why some Mystery magics are not common to the Order. In other cases there is simply no reason for the restriction of the Mystery, beyond the axiom *scientia potentia* — "knowledge is power."
 
 Nonetheless, like supernatural abilities, **Mystery Virtues** can be taught to those who have not been Initiated, under the proper circumstances. This usually requires a Minor Breakthrough (see *Houses of Hermes: True Lineages,* page 26). This differentiates Mystery capabilities from intrinsic magical abilities like Mythic Blood, which are born out of some accident of birth or Gift, and cannot be taught in any way whatsoever. Although an Initiated maga who teaches her sodales Mystery abilities without requiring them to be Initiated themselves, or who transcribes and sends her knowledge by Redcap to Durenmar, is not in breach of the Oath of Hermes, there can be little doubt that terrible vengeance will be brought upon her by her fellow mystae in that cult. Many Mystery Cults back up their bloodcurdling oaths of secrecy with equally bloodcurdling threats of spells that slay those who reveal the cults' secrets, even inadvertently, to outsiders.
 
@@ -163,61 +209,59 @@ The Mystery Houses are open participants in the Order, keen to declare that thei
 Many magi hear of the exotic magics practiced by those with secret knowledge and yearn to try it, to join; these magi often do become the recruits of Mystery Cults. Others turn their backs on the Mystery Cults, asking why, if the cults are so special and their magics so wonderful, have they not come to dominate the Order? This is a valid question, and the answer is that there is no answer, or, perhaps more accurately, that the answer is unknown. A magus who dedicates himself to study of the Hermetic Arts, Magic Theory, and his House magics can rise far in his specialization. A magus who spends years pursuing vanishing secrets may indeed discover exotic powers, but may also end up lacking in skill at the core Arts of Hermetic magic. Which is the more powerful? This has never been tested; perhaps the magi of your saga can provide the answer.
 
 
-# Lexicon of the Mysteries
+> ## Lexicon of the Mysteries
+> 
+> The following is a short guide to commonly used terms you may encounter in this book.
+> 
+> **Cabal Legacy:** A rare Story Flaw, taken only with the storyguide's permission. A magus with a Cabal Legacy was Initiated into an Esoteric Mystery Cult while still apprenticed, and may take cult Virtues and Ordeal Flaws as part of his normal limits. See Chapter 2: Entering the Mysteries, The Initiated Apprentice and Beyond.
+> 
+> **Common Magics:** Mystery Virtues that were once secret and are still taught to Mystery Cult Initiates, but which have escaped the clutches of the cults and are now well known throughout the Order. Common Mystery Virtues may be taken freely during character creation by any character. Characters who know such "secrets" are likely candidates to be approached to learn more in later life.
+> 
+> **Common Mysteries:** See "Common Magics."
+> 
+> **Cult of Mercury:** Refers to both the ancient Roman priesthood and the modern Hermetic group that has adopted the same name. Hermetic magi like to link themselves to Roman legends, and to claim descent from Rome.
+> 
+> **Daimon:** Daimons are spiritual intelligences — primarily those of pagan heroes and ancient (now fallen) gods. Daimons are typically more powerful than ghosts and elementals, and have some unique powers. Magi are very careful about spelling and pronouncing this word ("DAYmon"), lest they be thought to be dealing with Infernal spirits ("DEE-mons")!
+> 
+> **Degree:** A rank of status within a Mystery Cult. Not all cults are structured this formally.
+> 
+> **Esoteric Magic:** Secret variations on standard Hermetic magic practiced by those who belong to Mystery Cults.
+> 
+> **Eremite:** A magus who prefers isolation from the rest of the Order. A hermit.
+> 
+> **Exoteric Mystery:** The House Mysteries of Houses Criamon, Verditius, Merinita, and Bjornaer. Initiation into these Mysteries is synonymous with membership in these Houses.
+> 
+> **Gnostic:** Those who sought salvation in secret knowledge; heretical magical religions widely practiced in the first few centuries of the Christian era and exterminated by the Church.
+> 
+> **Hierophant:** One of many titles for the leader of a Mystery Cult. Such titles vary widely from cult to cult.
+> 
+> **House Mysteries:** See "Exoteric Mystery."
+> 
+> **Initiate:** A member of a Mystery Cult, or one undergoing the rite to become such
+> 
+> **Initiation:** The process of learning a new Mystery, entering a Mystery Cult, or increasing status in a Mystery Cult. This experience changes the nature of the magus magically and profoundly.
+> 
+> **Initiation Script:** A document that sets out the rites, teachings, and prerequisites for Initiation, used by a Mystagogue to conduct an Initiation.
+> 
+> **Mystae:** A magus who has Mystery Virtues.
+> 
+> **Mystagogue:** A magus who conducts Initiation or teaches Mysteries; often a senior member of a Mystery Cult. In some cases the Mystagogue may be the Initiate himself, if self-Initiation is being attempted.
+> 
+> **Mystery:** A general term for the secret magics of Mystery Cults. These are represented in Ars Magica as Virtues and Flaws, but they differ from normal character Virtues and Flaws in that they are acquired *after* character generation, during the later life of the magus. They are usually acquired through stories and adventures.
+> 
+> **Mystery Cult:** An organization that practices and teaches Mysteries, and remains highly secretive as to its membership, rituals, and true purposes. A number of Mystery Cults are described in Chapter 14: Mystery Cults.
+> 
+> **Outer Mysteries:** The most basic Mysteries known to all Initiates of a given Mystery Cult. The term applies most precisely where the Outer Mystery is a prerequisite to learning more advanced Mysteries. Many cults teach magics that are less tightly coupled than this.
+> 
+> **Philosophy:** The pursuit and love of wisdom. Often used as a code word for "magic."
+> 
+> **Probationer:** One who seeks entry to a Mystery Cult but has not yet been Initiated.
+> 
+> **School:** A loose grouping of associated Mystery Virtues. For example, the school of Hermetic Astrology contains several Virtues, all concerned with the influence of the stars on magic. Some Mystery Cults favor one particular school.
+> 
+> **Secular:** Worldly, as opposed to religious. When Hermetic magic is described as "secular," this stresses the abstractions of Bonisagus and the ways he removed the invocation of names and powers from the abstract Techniques and Forms. Secular magic avoids some of the Church's proscriptions against magic.
 
-The following is a short guide to commonly used terms you may encounter in this book.
-
-**Cabal Legacy:** A rare Story Flaw, taken only with the storyguide's permission. A magus with a Cabal Legacy was Initiated into an Esoteric Mystery Cult while still apprenticed, and may take cult Virtues and Ordeal Flaws as part of his normal limits. See Chapter 2: Entering the Mysteries, The Initiated Apprentice and Beyond.
-
-**Common Magics:** Mystery Virtues that were once secret and are still taught to Mystery Cult Initiates, but which have escaped the clutches of the cults and are now well known throughout the Order. Common Mystery Virtues may be taken freely during character creation by any character. Characters who know such "secrets" are likely candidates to be approached to learn more in later life.
-
-**Common Mysteries:** See "Common Magics."
-
-**Cult of Mercury:** Refers to both the ancient Roman priesthood and the modern Hermetic group that has adopted the same name. Hermetic magi like to link themselves to Roman legends, and to claim descent from Rome.
-
-**Daimon:** Daimons are spiritual intelligences — primarily those of pagan heroes and ancient (now fallen) gods. Daimons are typically more powerful than ghosts and elementals, and have some unique powers. Magi are very careful about spelling and pronouncing this word ("DAYmon"), lest they be thought to be dealing with Infernal spirits ("DEE-mons")!
-
-**Degree:** A rank of status within a Mystery Cult. Not all cults are structured this formally.
-
-**Esoteric Magic:** Secret variations on standard Hermetic magic practiced by those who belong to Mystery Cults.
-
-**Eremite:** A magus who prefers isolation from the rest of the Order. A hermit.
-
-**Exoteric Mystery:** The House Mysteries of Houses Criamon, Verditius, Merinita, and Bjornaer. Initiation into these Mysteries is synonymous with membership in these Houses.
-
-**Gnostic:** Those who sought salvation in secret knowledge; heretical magical religions widely practiced in the first few centuries of the Christian era and exterminated by the Church.
-
-**Hierophant:** One of many titles for the leader of a Mystery Cult. Such titles vary widely from cult to cult.
-
-**House Mysteries:** See "Exoteric Mystery."
-
-**Initiate:** A member of a Mystery Cult, or one undergoing the rite to become such
-
-**Initiation:** The process of learning a new Mystery, entering a Mystery Cult, or increasing status in a Mystery Cult. This experience changes the nature of the magus magically and profoundly.
-
-**Initiation Script:** A document that sets out the rites, teachings, and prerequisites for Initiation, used by a Mystagogue to conduct an Initiation.
-
-**Mystae:** A magus who has Mystery Virtues.
-
-**Mystagogue:** A magus who conducts Initiation or teaches Mysteries; often a senior member of a Mystery Cult. In some cases the Mystagogue may be the Initiate himself, if self-Initiation is being attempted.
-
-**Mystery:** A general term for the secret magics of Mystery Cults. These are represented in Ars Magica as Virtues and Flaws, but they differ from normal character Virtues and Flaws in that they are acquired *after* character generation, during the later life of the magus. They are usually acquired through stories and adventures.
-
-**Mystery Cult:** An organization that practices and teaches Mysteries, and remains highly secretive as to its membership, rituals, and true purposes. A number of Mystery Cults are described in Chapter 14: Mystery Cults.
-
-**Outer Mysteries:** The most basic Mysteries known to all Initiates of a given Mystery Cult. The term applies most precisely where the Outer Mystery is a prerequisite to learning more advanced Mysteries. Many cults teach magics that are less tightly coupled than this.
-
-**Philosophy:** The pursuit and love of wisdom. Often used as a code word for "magic."
-
-**Probationer:** One who seeks entry to a Mystery Cult but has not yet been Initiated.
-
-**School:** A loose grouping of associated Mystery Virtues. For example, the school of Hermetic Astrology contains several Virtues, all concerned with the influence of the stars on magic. Some Mystery Cults favor one particular school.
-
-**Secular:** Worldly, as opposed to religious. When Hermetic magic is described as "secular," this stresses the abstractions of Bonisagus and the ways he removed the invocation of names and powers from the abstract Techniques and Forms. Secular magic avoids some of the Church's proscriptions against magic.
-
-## Chapter Two
-
-# Entering the Mysteries
+# Chapter 2: Entering the Mysteries
 
 *Now let us enter within the ancient crypt, where the mysteries of the maggots await. You have come so far blindfolded, stripped of power, stripped of prestige, and stripped of dignity, clothed only in your shroud. Within await the Great Secrets, secrets even death could not hold! Yet I must ask you — are you worthy to behold them?*
 
@@ -227,7 +271,7 @@ This chapter describes how one is Initiated into a Mystery, how a Mystery Cult i
 
 The price of power can take many forms. The time a magus spends pursuing the mystical rites of his cult, learning its secrets, and preparing for Ordeals, Sacrifices, and Quests is the most obvious price. An often overlooked but no less real cost of membership, however, are the adventures and stories required to progress in the paths of the Mysteries.
 
-# Secrecy and the Mysteries
+## Secrecy and the Mysteries
 
 The first and central concept for any Mystery Cult is that *secrecy is power*. Part of the appeal of the Esoteric Mysteries is that they do not openly discuss what they know; the veil of secrecy is drawn tight around them, fastened by oaths and powerful rituals designed to prevent any disclosure. While some simply believe that sacred secrets should not be spoken openly, others say that a secret shared loses its potency, either figuratively or literally.
 
@@ -245,7 +289,6 @@ Even when general information about a cult is widely known, however, its secrets
 
 While it may be possible in some instances for a non-Initiate to learn a Mystery ability — and indeed this has happened in the past, as Chapter 4 demonstrates — it is an uncertain business, and without the mystical framework of understanding provided by knowledge of the cult's Organization Lore, a hazardous one. The Children of Hermes, for example, introduced in Chapter 14, is a Mystery Cult that seeks to learn the secrets of other cults and introduce them into its own messianic religion.
 
-
 ## Entering a Mystery Cult
 
 If Mystery Cults wrap their very existence in secrecy, how does one even learn of them? Although most Mystery Cults do not seek broad membership, there are three main ways a magus may become embroiled in secret rites.
@@ -256,15 +299,15 @@ However, a word of warning: Even inadvertently learning details about a Mystery 
 
 Another way a magus may enter an Esoteric Mystery is via his parens. Although a few apprentices learn of a Mystery from an Initiated parens, it is far more common for a Gauntleted filius to be allowed to develop and show maturity before his parens considers drawing him further in, since it is well known that many young magi "fly the nest" after their Gauntlets, developing deeply ambiguous attitudes toward those who taught them magic. That said, if the relationship between a maga and her apprentice is very deep and trusting, or if the apprentice was born under peculiar omens of interest to the Mystery, it is not unheard of for a young magus to be taught the first level of a Mystery — the first threshold of the cult's teachings — during apprenticeship.
 
-## Rhiannon's Rite
-
-Alone in a dark and desolate place just after sundown, Rhiannon was terribly apprehensive. The first requirement of the rite was very simple: She was to arrive naked. Not physically naked — although she imagined other cults also required that. Rather, she was to wear no enchanted devices or talismans, to arrive without spells protecting her, to forgo even the benefit of her Parma Magica, which she had cast every nightfall since her Gauntlet many years ago. Feeling more vulnerable than mere physical nakedness could explain, completely unprotected, awaiting the Mystagogue, she had been warned not to use her magic in any way until sunrise. The Quest she had endured as an Ordeal to bring her to this moment seemed a small price compared to the fear she felt now, as she waited, essentially helpless, in a cruel test of endurance. Though strange noises, visions, and magic assail her, she knew she must remain resolute — hobgoblins and foul fiends ignored, she must await the Mystagogue whatever happened.
-
-A noise in the trees! Could it be some horror, stealthily approaching? Or was it a hidden Initiate watching over her, guarding her against the denizens of the wood? She shuddered as she thought of the tale of Hedvig of the Rhine, who turned up on the wrong night for her induction — or had the Mystagogue forgotten her, or the cult betrayed her? Accounts varied, but all of the legends agreed that she was set upon and consumed by werewolves as she waited, a classic piece of Order folklore about those foolish enough to submit to induction into a Mystery Cult.
-
-In the distance wolves howled, and she heard them approaching. She smiled, for she had heard that the howling of wolves drawing close was a common trick of the Mystagogues. Winifred of the Four Oaks had told her that the only reason she had passed her own acceptance into the Knights of the Green Stone was because she had been frozen in fear, too terrified to run.
-
-Finally, as fear left Rhiannon, a magnificent stag entered the clearing, and as the glade lit with light she knew she would pass the test, and soon become an Initiate of the Mystery.
+> ## Rhiannon's Rite
+> 
+> Alone in a dark and desolate place just after sundown, Rhiannon was terribly apprehensive. The first requirement of the rite was very simple: She was to arrive naked. Not physically naked — although she imagined other cults also required that. Rather, she was to wear no enchanted devices or talismans, to arrive without spells protecting her, to forgo even the benefit of her Parma Magica, which she had cast every nightfall since her Gauntlet many years ago. Feeling more vulnerable than mere physical nakedness could explain, completely unprotected, awaiting the Mystagogue, she had been warned not to use her magic in any way until sunrise. The Quest she had endured as an Ordeal to bring her to this moment seemed a small price compared to the fear she felt now, as she waited, essentially helpless, in a cruel test of endurance. Though strange noises, visions, and magic assail her, she knew she must remain resolute — hobgoblins and foul fiends ignored, she must await the Mystagogue whatever happened.
+> 
+> A noise in the trees! Could it be some horror, stealthily approaching? Or was it a hidden Initiate watching over her, guarding her against the denizens of the wood? She shuddered as she thought of the tale of Hedvig of the Rhine, who turned up on the wrong night for her induction — or had the Mystagogue forgotten her, or the cult betrayed her? Accounts varied, but all of the legends agreed that she was set upon and consumed by werewolves as she waited, a classic piece of Order folklore about those foolish enough to submit to induction into a Mystery Cult.
+> 
+> In the distance wolves howled, and she heard them approaching. She smiled, for she had heard that the howling of wolves drawing close was a common trick of the Mystagogues. Winifred of the Four Oaks had told her that the only reason she had passed her own acceptance into the Knights of the Green Stone was because she had been frozen in fear, too terrified to run.
+> 
+> Finally, as fear left Rhiannon, a magnificent stag entered the clearing, and as the glade lit with light she knew she would pass the test, and soon become an Initiate of the Mystery.
 
 Rules for creating these rare Initiated apprentices (that is, starting characters who begin play as members of a Mystery Cult), can be found later in this chapter under the heading "The Initiated Apprentice and Beyond." Because of the story potential in the process of joining a Mystery Cult, however, and the complexity of the Mystery Virtues themselves, this is not recommended. It is less taxing for the player and more fun for the troupe when a character finds, joins, and is Initiated into a Mystery Cult in the course of play. This has the added benefit of allowing the player more time to learn how the Mystery Virtues conferred complement and add to her character's existing abilities.
 
@@ -273,8 +316,6 @@ But Mystery Cults do not always increase their membership by waiting for potenti
 Perhaps the most common way to gain entrance to a Mystery Cult, is by invitation. And that is usually the result of the magus's reputation: If a maga is particularly brilliant in some area, owns a powerful or ancient enchanted device of interest, or has shown noteworthy aptitude and interest in the field with which a Mystery concerns itself, that cult may decide to approach her.
 
 How, then, do Mystery Cults approach prospective recruits? Again, nothing is said outright. It is often a matter of implication, circumlocution, and guarded phrases. Odd questions are asked, and the words of the would-be Initiate are noted. Powerful members of the Mystery may set up tests to see if the candidate is suitable. These are not mundane tests, like exams, nor tactical trials, where magical creatures must be bested. Rather, they take the form of odd occurrences, moral challenges, and situations that test one's ability to hold one's tongue. Such tests make excellent stories, and those already Initiated may from time to time be called upon to help devise and prepare them for those who may be under consideration.
-
-
 
 Once a candidate has been found worthy, a formal offer is made. The candidate may still not know the name of the cult, and the one who makes the offer may do so while in disguise or using magic, for example a talking rabbit or words appearing in gold upon a wall. This protects the identity of the one offering. Other formal offers may be more open — or appear to be. In any case, if the candidate accepts the offer he becomes a probationer, one preparing for Initiation in the full secrets of the Mystery Cult.
 
@@ -290,10 +331,7 @@ If the test is passed, the probationer may be given a new magical name known onl
 
 The probationer must now commit a season to learning the secrets of the cult, attaining a score of 1 or more in the Ability **(Mystery Cult) Lore**. Some cults allow the probationer to study from books, or require the probationer to piece together a score of at least 1 on his own from ancient records, but most provide a season of one-on-one tuition from an experienced teacher in the cult. The knowledge of the rites, traditions, and secrets of the cult that is learned through this process is needed before the Initiation of the first Mystery Virtue can proceed.
 
-During the formal test and acceptance into the Mystery Cult, one of the duties of the Mystagogue is to outline for the probationer the nature of the Mystery he is embarking upon and the require-
-
-
-ments for his first Initiation, which follows once those requirements have been fulfilled. The requirements are laid out in a document called an **Initiation Script**, discussed later in this chapter.
+During the formal test and acceptance into the Mystery Cult, one of the duties of the Mystagogue is to outline for the probationer the nature of the Mystery he is embarking upon and the requirements for his first Initiation, which follows once those requirements have been fulfilled. The requirements are laid out in a document called an **Initiation Script**, discussed later in this chapter.
 
 Once a magus has been inducted into a Mystery Cult, and has learned some of its secrets (by gaining a (Mystery Cult) Lore score), he is ready to begin Initiation into the Mysteries of that cult.
 
@@ -307,26 +345,25 @@ Initiates often develop new Personality Traits that mark the effects of the Init
 
 To undergo Initiation requires more, however, than a record of service to the cult and a requisite level of the relevant (Mystery Cult) Lore. It also requires that the candidate fulfill the initiatory requirements peculiar to that cult's Initiation in the Mystery Virtue, by following a detailed set of instruction and rituals and undergoing peculiar magical rites. These rituals and necessary obligations are called Quests, Sacrifices, and Ordeals, and they are explained in the Initiation Script.
 
-## Revised Ability: (Mystery Cult) Lore
+> ## Revised Ability: (Mystery Cult) Lore
+> 
+> (Mystery Cult) Lore is the (Organization) Lore of a particular cult. It provides knowledge of the legends, history, structure, operation, and goals of the Mystery Cult in question. It includes knowledge of the magics, rites, and secret passwords and symbolism of the cult, how to covertly signal membership, and how to assess another magus's membership or non-membership in the cult. Two magi with this Ability for the same Mystery Cult may well be able to hold a seemingly innocuous conversation without outsiders realizing that a second, secret, conversation is hidden within the innocent phrases. In order to prevent outsiders from learning secrets of the Mystery, many Mystery Cults' specialty books require a score in this Ability for a magus to decode their symbolism. (Mystery Cult) Lore also covers the ceremonies of the cult, frequently enacted when the cult members gather formally. It is a key knowledge for a Mystagogue's performance of the Initiation rites, to guide the Initiate through Ordeals, ceremonies, and meditations to gain new Virtues.
+> 
+> Knowledge of this Ability is passed from Mystagogue to Initiate, from mystae to mystae, in a chain of living secrets. Some cults also write down their secret lore, as this codifies the Mystery and lets others share the same view of the cult. Others prefer the secrecy of an oral tradition. Small cults may fade away from lack of members, especially if they are persecuted, but if they have committed some of their lore to writing, the cults may be restarted by those who discover and understand the texts. Some cults risk the loss of secrecy for this very reason: so that their secrets and magical rites may not be lost forever. Some magi search for lost texts, containing secret lore of the ancients, hoping to re-enact the rites and rituals that led them to power.
+> 
+> In game terms, experience points in (Mystery Cult) Lore can be acquired like any other knowledge, including through teaching, books, practice, and exposure. Learning (Mystery Cult) Lore from another ensures that master and pupil share the same rites; learning in isolation may lead to variant (or even deviant) rites and rituals — from such discrepancies schisms sometimes arise, and cults may break up and fragment.
+> 
+> A magus may build his (Mystery Cult) Lore from zero, even without instruction, but this means he has devised his own cult, and should treat his Lore as an entirely new (Mystery Cult) Lore.
 
-(Mystery Cult) Lore is the (Organization) Lore of a particular cult. It provides knowledge of the legends, history, structure, operation, and goals of the Mystery Cult in question. It includes knowledge of the magics, rites, and secret passwords and symbolism of the cult, how to covertly signal membership, and how to assess another magus's membership or non-membership in the cult. Two magi with this Ability for the same Mystery Cult may well be able to hold a seemingly innocuous conversation without outsiders realizing that a second, secret, conversation is hidden within the innocent phrases. In order to prevent outsiders from learning secrets of the Mystery, many Mystery Cults' specialty books require a score in this Ability for a magus to decode their symbolism. (Mystery Cult) Lore also covers the ceremonies of the cult, frequently enacted when the cult members gather formally. It is a key knowledge for a Mystagogue's performance of the Initiation rites, to guide the Initiate through Ordeals, ceremonies, and meditations to gain new Virtues.
-
-Knowledge of this Ability is passed from Mystagogue to Initiate, from mystae to mystae, in a chain of living secrets. Some cults also write down their secret lore, as this codifies the Mystery and lets others share the same view of the cult. Others prefer the secrecy of an oral tradition. Small cults may fade away from lack of members, especially if they are persecuted, but if they have committed some of their lore to writing, the cults may be restarted by those who discover and understand the texts. Some cults risk the loss of secrecy for this very reason: so that their secrets and magical rites may not be lost forever. Some magi search for lost texts, containing secret lore of the ancients, hoping to re-enact the rites and rituals that led them to power.
-
-In game terms, experience points in (Mystery Cult) Lore can be acquired like any other knowledge, including through teaching, books, practice, and exposure. Learning (Mystery Cult) Lore from another ensures that master and pupil share the same rites; learning in isolation may lead to variant (or even deviant) rites and rituals — from such discrepancies schisms sometimes arise, and cults may break up and fragment.
-
-A magus may build his (Mystery Cult) Lore from zero, even without instruction, but this means he has devised his own cult, and should treat his Lore as an entirely new (Mystery Cult) Lore.
-
-## (Mystery Cult) Lore and Degrees of Initiation
-
-Some Mystery Cults are very hierarchically defined, while others are quite informal and irregular in structure, but there is a general pattern of (Mystery Cult) Lore requirements. A level or rank of Initiation into a Mystery Cult is called a degree, and the number of degrees a cult has — or whether there is a formal degree structure at all — varies from cult to cult.
-
-The first Initiation requires a single level of (Mystery Cult) Lore, which explains the significance of what is to be learned and how to participate in the rites of Initiation. Further Initiations are unlikely to be offered to characters with a score below 3, but this is sufficient for most members of a cult.
-
-A score of 6 is normally required for Initiation to the inner circle; this is not necessarily a requirement for Initiation to Major Virtues, but to those degrees that the cult considers its most private secrets, which are often synonymous with the Major Virtues.
-
-Finally, those wishing to become Mystagogues and Initiate others are also well advised to study (Mystery Cult) Lore, as it is an important factor in successful Initiations. See the section entitled The Mechanics of Initiation, below.
-
+> ## (Mystery Cult) Lore and Degrees of Initiation
+> 
+>Some Mystery Cults are very hierarchically defined, while others are quite informal and irregular in structure, but there is a general pattern of (Mystery Cult) Lore requirements. A level or rank of Initiation into a Mystery Cult is called a degree, and the number of degrees a cult has — or whether there is a formal degree structure at all — varies from cult to cult.
+>
+>The first Initiation requires a single level of (Mystery Cult) Lore, which explains the significance of what is to be learned and how to participate in the rites of Initiation. Further Initiations are unlikely to be offered to characters with a score below 3, but this is sufficient for most members of a cult.
+>
+>  A score of 6 is normally required for Initiation to the inner circle; this is not necessarily a requirement for Initiation to Major Virtues, but to those degrees that the cult considers its most private secrets, which are often synonymous with the Major Virtues.
+>
+>Finally, those wishing to become Mystagogues and Initiate others are also well advised to study (Mystery Cult) Lore, as it is an important factor in successful Initiations. See the section entitled The Mechanics of Initiation, below. 
 
 ## Quests, Ordeals, and Sacrifices
 
@@ -344,49 +381,41 @@ Such Quests are always stories; in some way they usually reflect the nature of t
 
 All Initiation Quests take at least one season. If the Quest ends early, the maga must spend the rest of the season meditating on her experiences. No other study is possible, although Exposure experience in (Mystery Cult) Lore can be granted. Some Quests may, of course, require multiple seasons, or if initially failed, multiple attempts to complete. An Initiation Sacrifice is the least taxing of the requirements of most Initiation Scripts. This may be a Sacrifice of time, represented by seasons teaching new Initiates and probationers on behalf of, writing books for, inventing spells for or any other lab activity required by the cult, or it may be a Sacrifice of vast amounts of mundane wealth, or magical books, or of one's talisman or even one's apprentice or familiar. The Script specifies the exact Sacrifice required, and is usually worded so that no matter how rich or magically powerful the maga, is the Sacrifice reflects a real loss. Sacrifices generally make the smallest contribution to the Initiations success, and the number of sacrifices that can be called for in one Script is limited.
 
-Quests, Ordeals, and Sacrifices vary greatly between Mystery Cults and according to the specific Initiation, and should reflect the magical and spiritual nature of the cult, as well as in some way the nature of the Initiation being conferred. They make the process of Initiation easier, as even the most powerful Mystagogue finds it hard or impossible
+Quests, Ordeals, and Sacrifices vary greatly between Mystery Cults and according to the specific Initiation, and should reflect the magical and spiritual nature of the cult, as well as in some way the nature of the Initiation being conferred. They make the process of Initiation easier, as even the most powerful Mystagogue finds it hard or impossible to confer the magical Initiation on an unprepared candidate.
 
-## Distractions and the Initiate
-
-If a season of Initiation is spent in study with the Mystagogue, the normal study distraction rules apply (see ArM5, page 165).
-
-In addition, for each month lost to distractions, reduce the Initiation Total by one-third of its original amount (rounding fractions up); this may make the Initiation fail so that no Virtue is gained (although Ordeal Flaws are still acquired), and the Initiation must be repeated.
-
-If the Initiate is distracted from reflection upon a successful Quest, this is less of a disaster: she can simply take more time to meditate and consider.
-
-to confer the magical Initiation on an unprepared candidate.
+> ## Distractions and the Initiate
+> 
+> If a season of Initiation is spent in study with the Mystagogue, the normal study distraction rules apply (see ArM5, page 165).
+> 
+> In addition, for each month lost to distractions, reduce the Initiation Total by one-third of its original amount (rounding fractions up); this may make the Initiation fail so that no Virtue is gained (although Ordeal Flaws are still acquired), and the Initiation must be repeated.
+> 
+> If the Initiate is distracted from reflection upon a successful Quest, this is less of a disaster: she can simply take more time to meditate and consider.
 
 Specific Quests, Ordeals, and Sacrifices are called for by the Initiation Script for each different Mystery Virtue Initiated, although most cults have several Scripts for each Initiation, reflecting the different abilities of the Mystagogues who lead the Initiations. The more powerful and knowledgeable in (Mystery Cult) Lore the Mystagogue, the less difficult and strenuous the Initiation, and the easier the Script's requirements are to achieve.
 
 ## Time and Initiation
 
-In addition to any time taken up by the Initiation Sacrifices and Quests, the Initiation (including associated Ordeals) itself requires an entire season. The time may be spent in preparations, such as meditation and fasting, before the Initiation Ceremony (appropriate for Virtues lacking an associated Ability), or in time spent studying with a tutor. When a magus gains a Virtue through Initiation, the Initiation and the required process of reflection, contemplation, preparation, etc. (and in the case of Abilities, studying with a teacher) count as the study for that season — no other activities can take place. The season spent being taught
+In addition to any time taken up by the Initiation Sacrifices and Quests, the Initiation (including associated Ordeals) itself requires an entire season. The time may be spent in preparations, such as meditation and fasting, before the Initiation Ceremony (appropriate for Virtues lacking an associated Ability), or in time spent studying with a tutor. When a magus gains a Virtue through Initiation, the Initiation and the required process of reflection, contemplation, preparation, etc. (and in the case of Abilities, studying with a teacher) count as the study for that season — no other activities can take place. The season spent being taught (Mystery Cult) Lore on first joining a cult as a probationer does not count as an Ordeal.
 
-## Time and the Mystagogue
-
-The Mystagogue who performs the Initiation need not spend a significant amount of time, unless he teaches a Supernatural Ability through Initiation. However all Initiates require some supervision and testing, which generally amounts to a seven-day distraction for the Mystagogue.
-
-If the Mystagogue's time is required, this is noted in the description of the Initiation.
-
-(Mystery Cult) Lore on first joining a cult as a probationer does not count as an Ordeal.
+> ## Time and the Mystagogue
+> 
+> The Mystagogue who performs the Initiation need not spend a significant amount of time, unless he teaches a Supernatural Ability through Initiation. However all Initiates require some supervision and testing, which generally amounts to a seven-day distraction for the Mystagogue.
+> 
+> If the Mystagogue's time is required, this is noted in the description of the Initiation.
 
 A probationer needs a single level of (Mystery Cult) Lore, so as to understand the significance of what he is to perform, and the rites that will be needed. He may be taught this whenever the cult approves him, but before the first Initiation in any case. He may be subject to an Ordeal first, or simply swear an oath of secrecy. The cult may impose any other requirements it sees fit. Second and subsequent Initiations typically require a score of at least 3 in (Mystery Cult) Lore.
 
 Mystery Cults are often organized into degrees of Initiation, which correspond to ranks within the secret society — each degree teaches a distinct Mystery Virtue. Some cults offer a choice of path, or may even be so informal that there is a free choice made by the Mystagogue as to which Virtue is Initiated next.
 
-# The Mechanics of Initiation
+## The Mechanics of Initiation
 
-Unlike character generation, where Virtues and Flaws are balanced against each other, progress in a Mystery Cult depicts an increase in power, with more gain than loss, and no fixed ratio. Indeed the greatest 'currency' transacted is the unit of the 'story' in which character
-
-#### The Mysteries Revised Edition
-
-activities reward the storyguide, and in turn the players' characters. At the same time, we adopt the time-unit of the season, so that non-player characters may be assessed for progress using the same scale as player characters. We also extend the list of Flaws to include Hermetic Flaws, as the Sacrifice of Power is mythically very appropriate.
+Unlike character generation, where Virtues and Flaws are balanced against each other, progress in a Mystery Cult depicts an increase in power, with more gain than loss, and no fixed ratio. Indeed the greatest 'currency' transacted is the unit of the 'story' in which character activities reward the storyguide, and in turn the players' characters. At the same time, we adopt the time-unit of the season, so that non-player characters may be assessed for progress using the same scale as player characters. We also extend the list of Flaws to include Hermetic Flaws, as the Sacrifice of Power is mythically very appropriate.
 
 The storyguide and troupe should work together with the player of the Initiate character, to make the Initiation process feel mystical and to make the process into a story.
 
-## The Mystagogue
+### The Mystagogue
 
-"Mystagogue" is a technical term for one who teaches a Mystery. It is used of any maga who conducts an Initiation, and is a role rather than a title. A character who enters into a Mystery Cult may well be called upon to Initiate Mystery Virtues to suitable candidates once his knowledge is deep enough, and especially if the character is blessed with a high Presence. In a small cult, almost all Initiations may be conducted by the cult leader; in larger cults with many degrees, the Mystagogue may simply be a higherranking Initiate.
+"Mystagogue" is a technical term for one who teaches a Mystery. It is used of any maga who conducts an Initiation, and is a role rather than a title. A character who enters into a Mystery Cult may well be called upon to Initiate Mystery Virtues to suitable candidates once his knowledge is deep enough, and especially if the character is blessed with a high Presence. In a small cult, almost all Initiations may be conducted by the cult leader; in larger cults with many degrees, the Mystagogue may simply be a higher ranking Initiate.
 
 Usually the Mystagogue and the Initiate are two different individuals, and the Mystagogue teaches a Mystery he already understands, but this need not be the case. If the Mystagogue is attempting to discover a new Mystery path, or to recover and reconstruct a lost path through recently discovered texts, he then may be attempting to Initiate himself.
 
@@ -394,20 +423,19 @@ The key to the mystical rites of the cult is the (Mystery Cult) Lore Ability, wh
 
 A high Presence makes leading Initiations easier; to get the same results, a Mystagogue with low Presence must rely on greater levels of (Mystery Cult) Lore, or more complex Initiation Scripts that are harder for the candidate to complete.
 
-## Virtues Initiated
+### Virtues Initiated
 
 It is possible to gain almost any Virtue through Initiation, although not those that depend on circumstance such as Landed Noble or Hermetic Prestige, or accident of birth such as Faerie Blood or Large, as common sense dictates. (Some Virtues, such as Temporal Influence, True Love, and Relic, are only Virtues if chosen during character generation; they may be gained through normal play without need of Initiation.)
 
-Hermetic Virtues are favorites for Initiation., along with Supernatural Abilities. (As described in ArM5 page 166, Supernatural Abilities can be taught to anyone with The Gift, but the Study Total is reduced by the sum total of all levels in other supernatural abilities, and the sum all Art scores; Mystery Cults can avoid the penalties described there through Initiation rituals and Ordeals, so that at the end of a season's study with a teacher the Initiate reaches level 1 in the Ability.)
+Hermetic Virtues are favorites for Initiation, along with Supernatural Abilities. (As described in ArM5 page 166, Supernatural Abilities can be taught to anyone with The Gift, but the Study Total is reduced by the sum total of all levels in other supernatural abilities, and the sum all Art scores; Mystery Cults can avoid the penalties described there through Initiation rituals and Ordeals, so that at the end of a season's study with a teacher the Initiate reaches level 1 in the Ability.)
 
-## Initiation Rites
+### Initiation Rites
 
 In order to be Initiated into a new Mystery Virtue, the Initiate needs at least (Mystery Cult) Lore 1; the Mystagogue must also know the same Lore, but generally needs a higher level if the Initiation is to succeed. To grant the Initiate a new Mystery Virtue, the Mystagogue generates an Initiation Total that determines the success or failure of the Initiation:
 
-#### Initiation Total: Presence + (Mystery Cult) Lore + Script Bonus
+**Initiation Total: Presence + (Mystery Cult) Lore + Script Bonus**
 
 There is no die roll; if the total is higher than the required target level the Initiation succeeds — all that is required is for the Mystagogue to be properly prepared, and skilled enough to succeed. Initiation Scripts and their bonuses are described in this chapter, Initiation Scripts. The Target Level depends on the kind of Virtue to be Initiated, Major or Minor:
-
 
 **To Initiate a Minor Virtue known by the Mystagogue, the Target Level is 15**
 
@@ -431,7 +459,7 @@ Only the past Ordeal providing the largest reduction to the Target Level of a ne
 
 If the Mystagogue's Initiation Total is too low, he may be able to vary and extend the Script to make it more effective. If that is still insufficient (for example, no Script exists), then the Mystagogue can experiment to attempt to improve the Script.
 
-
+#### The Initiation Script
 
 *Those who wish to be initiated have the custom, I believe, to turn first to the 'Father' of the sacred rites, to map out what preparations need to be made.*
 
@@ -441,49 +469,44 @@ The Initiation Script is a written text (similar to a Lab Text) that describes a
 
 Typical components of an Initiation Script, and their bonus contributions, include:
 
-- +3: The Initiate has to travel far to reach a special place at a special time (one bonus only). •
-- +3: The Initiate has to complete a specified Quest. The Quest may be performed any time prior to Initiation. Multiple Quests are possible. If the Quest is unique and no similar Quester could repeat it, then the bonus is +6. •
-- +9: The Initiate suffers a Major Ordeal inflicting a specific Major Flaw during the Initiation. •
-- +6: The Initiate suffers a Medium Ordeal increasing a specific Minor Flaw to a closely related Major Flaw (e.g., Minor to Major Personality Flaw). •
-- +3: The Initiate suffers a Minor Ordeal inflicting a specific Minor Flaw during the Initiation. •
-- +3: The Initiate has a Minor Virtue that is required for, and being replaced by, a Major Virtue; for example, Major Potent Magic requires and replaces Minor Potent Magic. This is equivalent to an Ordeal whereby the Initiate loses the original Minor Virtue. •
-- +1: The Initiate sacrifices material goods or wealth (one bonus only). •
-- +1: The Initiate sacrifices time (typically a season) serving another in the cult (one bonus only). •
-- +3 to +6: the Initiate sacrifices something of great and symbolic value (his talisman or familiar, or a powerful invested device). •
+- +3: The Initiate has to travel far to reach a special place at a special time (one bonus only).
+- +3: The Initiate has to complete a specified Quest. The Quest may be performed any time prior to Initiation. Multiple Quests are possible. If the Quest is unique and no similar Quester could repeat it, then the bonus is +6.
+- +9: The Initiate suffers a Major Ordeal inflicting a specific Major Flaw during the Initiation.
+- +6: The Initiate suffers a Medium Ordeal increasing a specific Minor Flaw to a closely related Major Flaw (e.g., Minor to Major Personality Flaw).
+- +3: The Initiate suffers a Minor Ordeal inflicting a specific Minor Flaw during the Initiation.
+- +3: The Initiate has a Minor Virtue that is required for, and being replaced by, a Major Virtue; for example, Major Potent Magic requires and replaces Minor Potent Magic. This is equivalent to an Ordeal whereby the Initiate loses the original Minor Virtue.
+- +1: The Initiate sacrifices material goods or wealth (one bonus only).
+- +1: The Initiate sacrifices time (typically a season) serving another in the cult (one bonus only).
+- +3 to +6: the Initiate sacrifices something of great and symbolic value (his talisman or familiar, or a powerful invested device).
+- +3: The Mystagogue sacrifices time, such as teaching the Initiate a Supernatural Ability. (Any price the Mystagogue requires for her time is separate from the Initiation itself.)
+- +0 to +3 (but can range from –5 to +5): Sympathetic bonus for appropriateness of the rite to the Virtue being Initiated. Sympathetic bonuses should be agreed upon with the storyguide or troupe.
+- If experimenting (see Experimental Scripts, below), the bonus is determined at the end of experimentation, once all flaws and benefits are known. Experimental Scripts may be flawed, and include some Ordeals with no bonus.
 
-## To Gain a Major Supernatural Ability by Ordeal and Teaching
+> ## To Gain a Major Supernatural Ability by Ordeal and Teaching
+> 
+> The Mystagogue needs a Presence + (Mystery Cult) Lore of 9, and must have the Virtue being Initiated (the Target Level is 21). The Initiation Script provides a bonus of +10 (Mystagogue's time, Ordeal, "special place" and sympathy bonus).
+> 
+> The Mystagogue must spend a whole season teaching the Initiate after the Initiation, which takes place on Easter Saturday, in an ancient crypt in a regio beneath a cathedral, only accessible on this one day. The Initiate voluntarily undergoes a Sacrifice of Power (Ordeal: Deficient Form).
+> 
+> The "special place" of this ritual is particularly difficult to enter, as the cathedral is very busy and full of worshipers and clergy at this time, and magic is hard to use in a cathedral. This grants an additional sympathy bonus of +1 for the place and time.
+> 
+> The Script bonus is +10 (+3 (teaching) +3 (sacrifice) +4 (special place)), which is not enough to guarantee success even with a Presence + (Mystery Cult) Lore of 9. However, if the previous Initiation had involved an Ordeal, then the next Initiation would receive a bonus of +3 – enough for this Initiation to succeed.
+> 
+> The Script calls for the Mystagogue to spend a season teaching after the Initiation ceremony, during which the special link of the Initiation permits the Initiate to learn the Ability and reach level 1 at the end of study. Any breaks in the study must be made up as soon as possible, until a full three months' study is completed.
 
-The Mystagogue needs a Presence + (Mystery Cult) Lore of 9, and must have the Virtue being Initiated (the Target Level is 21). The Initiation Script provides a bonus of +10 (Mystagogue's time, Ordeal, "special place" and sympathy bonus).
+> ## To Gain A Minor Virtue By Ordeal and Sacrifice
+> 
+> The Mystagogue needs a Presence + (Mystery Cult) Lore of 8, and must have the Virtue being Initiated (the Target Level is 15). The Initiation Script provides a bonus of +7 (Ordeal, Sacrifice, and "special place").
+> 
+> The Initiate must sacrifice several books, impressing the Mystagogue with their worth and the pain of their loss. The ceremony is performed in a hidden cave in the mountains, on the first day of Capricorn. The books are formed into a sacrificial pyre, mixed with herbs and incenses. The pyre is lit with magical fire, and as the books burn white hot, the Initiate undergoes an Ordeal of fire, plunging her arms into the flames.
+> 
+> Magic is available to ensure that her arms heal back to functionality, but she is not allowed magical healing to restore appearance — if the wounds appear to be healing too well, the Mystagogue intervenes to rub in ashes from the pyre. The Initiate acquires the Disfigured Flaw.
 
-The Mystagogue must spend a whole season teaching the Initiate after the Initiation, which takes place on Easter Saturday, in an ancient crypt in a regio beneath a cathedral, only accessible on this one day. The Initiate voluntarily undergoes a Sacrifice of Power (Ordeal: Deficient Form).
-
-The "special place" of this ritual is particularly difficult to enter, as the cathedral is very busy and full of worshipers and clergy at this time, and magic is hard to use in a cathedral. This grants an additional sympathy bonus of +1 for the place and time.
-
-The Script bonus is +10 (+3 (teaching) +3 (sacrifice) +4 (special place)), which is not enough to guarantee success even with a Presence + (Mystery Cult) Lore of 9. However, if the previous Initiation had involved an Ordeal, then the next Initiation would receive a bonus of +3 – enough for this Initiation to succeed.
-
-The Script calls for the Mystagogue to spend a season teaching after the Initiation ceremony, during which the special link of the Initiation permits the Initiate to learn the Ability and reach level 1 at the end of study. Any breaks in the study must be made up as soon as possible, until a full three months' study is completed.
-
-## To Gain A Minor Virtue By Ordeal and Sacrifice
-
-The Mystagogue needs a Presence + (Mystery Cult) Lore of 8, and must have the Virtue being Initiated (the Target Level is 15). The Initiation Script provides a bonus of +7 (Ordeal, Sacrifice, and "special place").
-
-The Initiate must sacrifice several books, impressing the Mystagogue with their worth and the pain of their loss. The ceremony is performed in a hidden cave in the mountains, on the first day of Capricorn. The books are formed into a sacrificial pyre, mixed with herbs and incenses. The pyre is lit with magical fire, and as the books burn white hot, the Initiate undergoes an Ordeal of fire, plunging her arms into the flames.
-
-Magic is available to ensure that her arms heal back to functionality, but she is not allowed magical healing to restore appearance — if the wounds appear to be healing too well, the Mystagogue intervenes to rub in ashes from the pyre. The Initiate acquires the Disfigured Flaw.
-
-## To Gain A Minor Virtue By Questing
-
-The Mystagogue needs a Presence + (Mystery Cult) Lore of 6, and must have the Virtue being Initiated (the Target Level is 15). The Initiation Script provides a bonus of +9 (two Quests and a "special place").
-
-The Initiate must complete two Quests. First, he must defeat a monster sufficiently powerful that it impresses the Mystagogue. Then he must discover the secret location of the Initiation, meeting the Mystagogue there. No cult member will assist in this task. The Initiation takes place on Midsummer's Eve, on a remote island, in an ancient stone circle.
-
-+3: The Mystagogue sacrifices time, such as teaching the Initiate a Supernatural Ability. (Any price the
-
-• Mystagogue requires for her time is separate from the Initiation itself.)
-
-
-- +0 to +3 (but can range from –5 to +5): Sympathetic bonus for appropriateness of the rite to the Virtue being Initiated. Sympathetic bonuses should be agreed upon with the storyguide or troupe. •
-- If experimenting (see Experimental Scripts, below), the bonus is determined at the end of experimentation, once all flaws and benefits are known. Experimental Scripts may be flawed, and include some Ordeals with no bonus. •
+> ## To Gain A Minor Virtue By Questing
+> 
+> The Mystagogue needs a Presence + (Mystery Cult) Lore of 6, and must have the Virtue being Initiated (the Target Level is 15). The Initiation Script provides a bonus of +9 (two Quests and a "special place").
+> 
+> The Initiate must complete two Quests. First, he must defeat a monster sufficiently powerful that it impresses the Mystagogue. Then he must discover the secret location of the Initiation, meeting the Mystagogue there. No cult member will assist in this task. The Initiation takes place on Midsummer's Eve, on a remote island, in an ancient stone circle.
 
 A bonus is granted only if the component genuinely costs the character something. If, for instance, he lives very close to the "special place" rather than having to travel far to reach it, then the travel takes no effort and is invalid. Worse still, if any component is invalid then the whole Script is invalidated. Temporary suffering does not provide a benefit — indeed in many rites it is just a normal part of the process.
 
@@ -499,26 +522,37 @@ Given the high totals needed, the Scripts for Major Virtues commonly fall short 
 
 Note that the process of Initiation relies upon the Mystagogue's Presence + (Mystery Cult) Lore, not the Initiate's.
 
-## Example: Darius Undergoes Initiation
-
-Darius filius Xerxes, follower of Flambeau, is a Hoplite from the covenant of Semita Errabunda. He has been introduced by a fellow Hoplite, Pepino, to the Legion of Mithras, and has already been accepted as a member at a robed conclave, after a night alone in an underground temple, where he faced various magical tests and distractions, but bravely endured. His moral character is outstanding, and he has long been a devoted servant of the Order, as his Personality Traits and Reputation clearly show.
-
-Following this test, he was formally admitted to the Legion and a great feast was held, with 25 other Legionnaires attending, wearing colorful robes symbolic of their rank and ornate masks. Immediately after the feast ended he was introduced to his new teacher, who would instruct him in the basic secrets of the cult. It happened to be his friend Pepino, and the two of them retired to Pepino's sanctum, where they spent the rest of the season together, as Pepino taught Darius the secret rites and philosophies of Mithras.
-
-The storyguide has invented some secrets and ideals that are held by the cult; she now explains them, and a brief overview of the nature and purpose of the cult to Darius' player. She looks forward to further developing her idea of the mystical and magical principles of the cult later, as Darius learns more.
-
-Darius' player now notes the result of the season of teaching, and as Pepino is an accomplished teacher, Darius manages to gain an ability of Legion of Mithras Lore 1, with 6 experience points left over.
-
-Darius is also told that he will be expected to learn the Ability Teaching, so that he can serve the Legion in the same capacity later, but for now he must prepare for his first Initiation, to be held when he has found time to prepare adequately. He is now a probationer, awaiting his first Initiation.
-
-The Legion of Mithras is wellorganized in the Tribunal, and picks Sebastiano, Lion of Mithras, to be the presiding Mystagogue at Darius' Initiation. Sebastiano has a Presence of +3, and a Mithras Lore of 7. His Initiation Total before the Script bonus is, therefore, a respectable 10. He himself was Initiated into the Virtue Strong Willed as a Raven; if he was to teach this to Darius he would require a total of 15, as he knows the Mystery Virtue he is Initiating. However, Darius is already Strong Willed, so that will not suffice. An alternative Initiation is required.
-
-After hunting around in the temple archives, Sebastiano discovers an old and little-used Initiation Script that teaches the Virtue Self-Confident. Sebastiano himself does not have this Virtue, but he can still Initiate it; the Target Level is, however, 18 not 15.Luckily the Script grants a +12 bonus which, with his Presence +3 and Legion of Mithras Lore 7, provides an Initiation Total of 22; more than the required Target Level of 18. The Initiation Script prescribes a rite that is much more arduous (Initiation Total 22) than technically necessary to exceed the modified Target Level of 15, but Sebastiano does not wish to try vary the Script to make it easier. The Target Level is reduced by 3 to 15, as it is Darius's first Initiation after the previous Ordeal. Darius is certain to be successfully Initiated into the Self-Confident Virtue if he can fulfill all the requirements of the Script.
-
-The Script bonus is comprised of a Minor Ordeal +3, a Quest +3, the Sacrifice of a talisman +5, and a sympathetic appropriateness bonus +1. The details of the Script have been outlined to Darius as the path he must pursue for Initiation; he sets out to fulfill the requirements, painfully aware that he is giving up much to receive little in
-
-
 However it is the Initiate's Quests, Sacrifices, and Ordeals that lower the Target Level. As there is no die roll, either the candidate has fulfilled the obligations required to meet the total and the Initiation succeeds, or it will not be attempted; the Mystagogue will not waste a season.
+
+> ## Example: Darius Undergoes Initiation
+> 
+> Darius filius Xerxes, follower of Flambeau, is a Hoplite from the covenant of Semita Errabunda. He has been introduced by a fellow Hoplite, Pepino, to the Legion of Mithras, and has already been accepted as a member at a robed conclave, after a night alone in an underground temple, where he faced various magical tests and distractions, but bravely endured. His moral character is outstanding, and he has long been a devoted servant of the Order, as his Personality Traits and Reputation clearly show.
+> 
+> Following this test, he was formally admitted to the Legion and a great feast was held, with 25 other Legionnaires attending, wearing colorful robes symbolic of their rank and ornate masks. Immediately after the feast ended he was introduced to his new teacher, who would instruct him in the basic secrets of the cult. It happened to be his friend Pepino, and the two of them retired to Pepino's sanctum, where they spent the rest of the season together, as Pepino taught Darius the secret rites and philosophies of Mithras.
+> 
+> The storyguide has invented some secrets and ideals that are held by the cult; she now explains them, and a brief overview of the nature and purpose of the cult to Darius' player. She looks forward to further developing her idea of the mystical and magical principles of the cult later, as Darius learns more.
+> 
+> Darius' player now notes the result of the season of teaching, and as Pepino is an accomplished teacher, Darius manages to gain an ability of Legion of Mithras Lore 1, with 6 experience points left over.
+> 
+> Darius is also told that he will be expected to learn the Ability Teaching, so that he can serve the Legion in the same capacity later, but for now he must prepare for his first Initiation, to be held when he has found time to prepare adequately. He is now a probationer, awaiting his first Initiation.
+> 
+> The Legion of Mithras is well organized in the Tribunal, and picks Sebastiano, Lion of Mithras, to be the presiding Mystagogue at Darius' Initiation. Sebastiano has a Presence of +3, and a Mithras Lore of 7. His Initiation Total before the Script bonus is, therefore, a respectable 10. He himself was Initiated into the Virtue Strong Willed as a Raven; if he was to teach this to Darius he would require a total of 15, as he knows the Mystery Virtue he is Initiating. However, Darius is already Strong Willed, so that will not suffice. An alternative Initiation is required.
+> 
+> After hunting around in the temple archives, Sebastiano discovers an old and little-used Initiation Script that teaches the Virtue Self-Confident. Sebastiano himself does not have this Virtue, but he can still Initiate it; the Target Level is, however, 18 not 15.Luckily the Script grants a +12 bonus which, with his Presence +3 and Legion of Mithras Lore 7, provides an Initiation Total of 22; more than the required Target Level of 18. The Initiation Script prescribes a rite that is much more arduous (Initiation Total 22) than technically necessary to exceed the modified Target Level of 15, but Sebastiano does not wish to try vary the Script to make it easier. The Target Level is reduced by 3 to 15, as it is Darius's first Initiation after the previous Ordeal. Darius is certain to be successfully Initiated into the Self-Confident Virtue if he can fulfill all the requirements of the Script.
+> 
+> The Script bonus is comprised of a Minor Ordeal +3, a Quest +3, the Sacrifice of a talisman +5, and a sympathetic appropriateness bonus +1. The details of the Script have been outlined to Darius as the path he must pursue for Initiation; he sets out to fulfill the requirements, painfully aware that he is giving up much to receive little in ordinary terms in return, at this time at least.
+> 
+> The Minor Ordeal is that Darius must take the Flaw Dutybound: Serve the Order of Hermes — this is little cost to a magus who has devoted his life to that cause. This and the Sacrifice of his long spear talisman will occur during the actual ceremony of Initiation. Neither will require any time beyond the season he must spend on the Initiation itself. This means that he must fulfill one Quest, and, as the sympathetic appropriateness bonus of +1 suggests, it is somehow related to the gaining of Self-Confidence, the Virtue to be Initiated. The Quest requires Darius to identify his nemesis, that enemy who is most contrary to what Darius personally stands for, and his goals and aspirations, and who has personally thwarted or deceived Darius at least three times, and defeat that nemesis. Darius is already committed to defeating a renounced magus, from whom he narrowly escaped (as detailed in his character history).
+> 
+> After several seasons of lab work, and serving his covenant, Darius finally is ready to embark on his Quest. He decides to take along a fellow maga from the covenant , and several grogs and companions, but Darius must be the star of the story for it to count as his Quest; the others understand that this is a personal score.
+> 
+> The storyguide runs the adventure, and after the story, the nemesis is (apparently) killed, having fallen into a chasm. While his death cannot be verified, Darius has defeated him, and after a few seasons more of study he sets off for his Initiation. He is loathe to lose his talisman, but the Script demands it, and he starts to plan its replacement.
+> 
+> The Initiation ceremony takes a few hours at the temple in front of the gathered assembly, and subsequent study takes an entire season, but at the end of it, Darius is a proud and valued Raven of Mithras. His player writes the Virtue Self-Confident on his character sheet, reflecting Darius's new-found confidence and mystically reinforced self-assurance.
+> 
+> Darius now needs to learn more about his cult and achieve an Ability score of Legion of Mithras 3 before he can be Initiated into the second degree. After several years' more dedicated duty and heroic adventure, he manages to learn the basics of the Ability Teaching, so that in the future he can instruct new Initiates. During that time, the cult also asked him to carry a message, which required a story, and Darius made a copy of some useful laboratory texts in his possession to give to the Legion, for which they were grateful. Most importantly, his studies of a tractatus he was lent and two seasons' more teaching from Pepino (who received vis and a lesser enchanted device in return for his services) gave Darius a score of Legion of Mithras Lore 3. He is ready to undertake further Initiations, and the cult invites him to prepare for his second degree, Bride of Mithras.
+> 
+> Sebastiano can use the normal Script this time, as Darius does not possess the Virtue Clear Thinker already. The Script calls for a Quest, to investigate a possible threat to the Order, and to show clear signs of good judgment +3, and there is a sympathetic appropriateness bonus of +1. This gives Sebastiano an Initiation Total of 14; less than the Target Level of 15 required for Initiation into a known Minor Virtue, but the Target Level is reduced to 12 as this is the first Initiation after the Ordeal of taking the Flaw Dutybound (it's also the second Initiation after the Ordeal he underwent upon first entering the cult, but that would only reduce the Target Level to 13, so that Ordeal is ignored). Providing Darius completes the Quest set him, he is successfully Initiated into the Legion's second degree.
 
 #### Modifying the Initiation Script
 
@@ -528,7 +562,7 @@ There are many reasons to vary the Script: the Script may not be valid for this 
 
 To vary the Script, the Mystagogue makes a roll of
 
-#### Stress Die + Intelligence + (Mystery Cult) Lore vs. Ease Factor
+**Stress Die + Intelligence + (Mystery Cult) Lore vs. Ease Factor**
 
 The Ease Factor is 9 to extend the Script by adding a new component, such as an additional Quest. A magus with a low Presence or (Mystery Cult) Lore may try to extend a Script in this way.
 
@@ -538,26 +572,11 @@ The Ease Factor is 15 to remove a component from the Script, reducing the Script
 
 The Mystagogue may only attempt one of the above changes in a given Initiation. If the attempt fails, the new Initiation Script is nonfunctional (and the Mystagogue knows this without attempting the Initiation), but the original Script works as normal. If the attempt is successful, the modified Script can be used to generate the Initiation Total.
 
-ordinary terms in return, at this time at least.
-
-The Minor Ordeal is that Darius must take the Flaw Dutybound: Serve the Order of Hermes — this is little cost to a magus who has devoted his life to that cause. This and the Sacrifice of his long spear talisman will occur during the actual ceremony of Initiation. Neither will require any time beyond the season he must spend on the Initiation itself. This means that he must fulfill one Quest, and, as the sympathetic appropriateness bonus of +1 suggests, it is somehow related to the gaining of Self-Confidence, the Virtue to be Initiated. The Quest requires Darius to identify his nemesis, that enemy who is most contrary to what Darius personally stands for, and his goals and aspirations, and who has personally thwarted or deceived Darius at least three times, and defeat that nemesis. Darius is already committed to defeating a renounced magus, from whom he narrowly escaped (as detailed in his character history).
-
-After several seasons of lab work, and serving his covenant, Darius finally is ready to embark on his Quest. He decides to take along a fellow maga from the covenant , and several grogs and companions, but Darius must be the star of the story for it to count as his Quest; the others understand that this is a personal score.
-
-The storyguide runs the adventure, and after the story, the nemesis is (apparently) killed, having fallen into a chasm. While his death cannot be verified, Darius has defeated him, and after a few seasons more of study he sets off for his Initiation. He is loathe to lose his talisman, but the Script demands it, and he starts to plan its replacement.
-
-The Initiation ceremony takes a few hours at the temple in front of the gathered assembly, and subsequent study takes an entire season, but at the end of it, Darius is a proud and valued Raven of Mithras. His player writes the Virtue Self-Confident on his character sheet, reflecting Darius's new-found confidence and mystically reinforced self-assurance.
-
-Darius now needs to learn more about his cult and achieve an Ability score of Legion of Mithras 3 before he can be Initiated into the second degree. After several years' more dedicated duty and heroic adventure, he manages to learn the basics of the Ability Teaching, so that in the future he can instruct new Initiates. During that time, the cult also asked him to carry a message, which required a story, and Darius made a copy of some useful laboratory texts in his possession to give to the Legion, for which they were grateful. Most importantly, his studies of a tractatus he was lent and two seasons' more teaching from Pepino (who received vis and a lesser enchanted device in return for his services) gave Darius a score of Legion of Mithras Lore 3. He is ready to undertake further Initiations, and the cult invites him to prepare for his second degree, Bride of Mithras.
-
-Sebastiano can use the normal Script this time, as Darius does not possess the Virtue Clear Thinker already. The Script calls for a Quest, to investigate a possible threat to the Order, and to show clear signs of good judgment +3, and there is a sympathetic appropriateness bonus of +1. This gives Sebastiano an Initiation Total of 14; less than the Target Level of 15 required for Initiation into a known Minor Virtue, but the Target Level is reduced to 12 as this is the first Initiation after the Ordeal of taking the Flaw Dutybound (it's also the second Initiation after the Ordeal he underwent upon first entering the cult, but that would only reduce the Target Level to 13, so that Ordeal is ignored). Providing Darius completes the Quest set him, he is successfully Initiated into the Legion's second degree.
-
-
-## Example: Darius Undergoes Initiation, Revisited
-
-In Darius's first Initiation, discussed in the previous example, the Initiation Total was 22, and the modified Target Level was 15. The Initiation Script could have been less arduous, poviding a bonus of up to 7 less and still have succeeded. If Sebastiano had felt that the sacrifice of the talisman was unnecessary and unlikely to be mystically useful in granting Darius improved confidence, he could have decided to try modify the Script by dropping the requirement Darius sacrifice his talisman. Sebastino has an Intelligence of +3 and Legion of Mithras Lore 7. He would, therefore, have a total of 10 plus a stress die to try to beat an Ease Factor of 15 to drop an element from the Script. If he succeeded, the Script bonus would be +7, and he could record it for use in future rites.
-
-If Darius had already possessed the Flaw Dutybound: Serve the Order of Hermes before joining the Legion of Mithras, Sebastiano could have tried substituting Higher Purpose in the Initiation Script, rolling against an Ease Factor of 12.
+> ## Example: Darius Undergoes Initiation, Revisited
+> 
+> In Darius's first Initiation, discussed in the previous example, the Initiation Total was 22, and the modified Target Level was 15. The Initiation Script could have been less arduous, poviding a bonus of up to 7 less and still have succeeded. If Sebastiano had felt that the sacrifice of the talisman was unnecessary and unlikely to be mystically useful in granting Darius improved confidence, he could have decided to try modify the Script by dropping the requirement Darius sacrifice his talisman. Sebastino has an Intelligence of +3 and Legion of Mithras Lore 7. He would, therefore, have a total of 10 plus a stress die to try to beat an Ease Factor of 15 to drop an element from the Script. If he succeeded, the Script bonus would be +7, and he could record it for use in future rites.
+> 
+> If Darius had already possessed the Flaw Dutybound: Serve the Order of Hermes before joining the Legion of Mithras, Sebastiano could have tried substituting Higher Purpose in the Initiation Script, rolling against an Ease Factor of 12.
 
 If a single change is not enough to make this Script work, then either a different Script is needed, or the Mystagogue must study more (Mystery Cult) Lore, or experiment.
 
@@ -565,11 +584,7 @@ If a single change is not enough to make this Script work, then either a differe
 
 If the Mystagogue has no Initiation Script, or only has an inadequate one, then she may experiment to discover a new Script. This involves risk and uncertainty, with no guarantee of benefit at the end, but it is the only way to begin a new Initiation under such circumstances.
 
-Determine the Initiation rite components (Quests, Ordeal, Sacrifices) that the Mystagogue proposes as a method for Initiation to this Virtue, and total the bonus this rite would have. The
-
-#### The Mysteries Revised Edition
-
-Mystagogue also determines how much risk she will take in experimenting: a Risk level from 0 to +3.
+Determine the Initiation rite components (Quests, Ordeal, Sacrifices) that the Mystagogue proposes as a method for Initiation to this Virtue, and total the bonus this rite would have. The Mystagogue also determines how much risk she will take in experimenting: a Risk level from 0 to +3.
 
 The Initiate carries out the steps of the rite, including all Quests, Sacrifices and Ordeals, and then the rite is checked to determine success or failure.
 
@@ -577,13 +592,13 @@ First the Mystagogue checks whether the rite invoked the correct sympathy with t
 
 Roll a **Stress Die + Risk Modifier** on the Extraordinary Results chart on ArM5, page 109.
 
-- Side effect and minor benefits or flaws results are usually (positive or negative) Personality Traits related to cult goals, affecting the Initiate, which become part of this Initiation Script. •
-- Major flaw results add an extra Ordeal Flaw (usually Minor), affecting the Initiate, which becomes part of this Initiation Script. A flawed rite offers no Script bonus for this additional Flaw. •
-- A fatal flaw result inflicts an Ordeal Flaw but fails to provide the Initiation Virtue. •
-- A major benefit is an increase or stacking of the Initiated Virtue if this is possible (for example, Minor/Major Magical Focus, or a double increase to a Characteristic) or a second Minor Virtue. The benefit becomes part of this Initiation Script. •
-- A discovery usually results in experience points in either (Mystery Cult) Lore or the Ability being Initiated, affecting the Mystagogue. •
-- Modified effect Initiates a different Virtue, related sympathetically to the cult's goals. The extent of change should be reviewed with the storyguide in the light of the suggestions in the Modified Effect table. •
-- Disaster indicates that the Initiation fails completely, inflicting a Major Flaw on both the Mystagogue and the Initiate. •
+- Side effect and minor benefits or flaws results are usually (positive or negative) Personality Traits related to cult goals, affecting the Initiate, which become part of this Initiation Script.
+- Major flaw results add an extra Ordeal Flaw (usually Minor), affecting the Initiate, which becomes part of this Initiation Script. A flawed rite offers no Script bonus for this additional Flaw.
+- A fatal flaw result inflicts an Ordeal Flaw but fails to provide the Initiation Virtue.
+- A major benefit is an increase or stacking of the Initiated Virtue if this is possible (for example, Minor/Major Magical Focus, or a double increase to a Characteristic) or a second Minor Virtue. The benefit becomes part of this Initiation Script.
+- A discovery usually results in experience points in either (Mystery Cult) Lore or the Ability being Initiated, affecting the Mystagogue.
+- Modified effect Initiates a different Virtue, related sympathetically to the cult's goals. The extent of change should be reviewed with the storyguide in the light of the suggestions in the Modified Effect table.
+- Disaster indicates that the Initiation fails completely, inflicting a Major Flaw on both the Mystagogue and the Initiate.
 
 Second, the Mystagogue must check the validity of the rite.
 
@@ -603,10 +618,7 @@ If this equals or exceeds the Initiation Target Level, the rite has worked, bene
 
 Ars Magica players being creative and imaginative sorts, the idea of the characters creating their own Mystery Cult, perhaps tied to a secret of their covenant, is bound to arise. Perhaps the magi have established themselves in the site of an ancient lost covenant, and discovered some old books that reveal much of the odd magics that were practiced there; or perhaps they have discovered a hedge magic tradition that, following much work, and maybe a Hermetic Breakthrough, seems adaptable to Hermetic theory. They now wish to establish their own Mystery Cult, based upon their researches, and Initiate others into appropriate Virtues and Flaws.
 
-The first steps are for the storyguide to create a new (Mystery Cult) Lore for the new cult, and to assign some experi-
-
-
-ence to the characters based on their work. If the new explorers of the old ruined covenant of Natura Antiqua in the Fens of the Stonehenge Tribunal have found secrets that seem appropriate, then the Ability of Natura Antiqua Cult Lore 0 may be conferred upon them.
+The first steps are for the storyguide to create a new (Mystery Cult) Lore for the new cult, and to assign some experience to the characters based on their work. If the new explorers of the old ruined covenant of Natura Antiqua in the Fens of the Stonehenge Tribunal have found secrets that seem appropriate, then the Ability of Natura Antiqua Cult Lore 0 may be conferred upon them.
 
 Further investigations and seasons of study, as they read moldy ancient books, learn the mystical secrets, and set about devising appropriate rites and magical philosophies to pursue will grant increases in this new Organization Lore, and eventually one of the magi will be ready to experiment and create the cult's first Initiation Script, using the rules for Experimental Scripts and Self-Initiation above. Within a few decades, the Order of Hermes will possess a new Mystery Cult.
 
@@ -616,78 +628,57 @@ Creating a new Mystery Cult should be arduous, intriguing, and the basis for man
 
 If the troupe agrees, an apprentice whose parens is a member of a Mystery Cult may be Initiated while still an apprentice, and gain one (or very rarely more) of the Mystery Virtues of that cult. All starting members of House Criamon, House Merinita, House Verditius, and House Bjornaer have passed through this process, but are not required to follow these rules — it is part of the standard character generation process for Initiates of these Exoteric, or House, Mysteries.
 
-For those who wish to play characters already initiated into an Esoteric
+> ## Experimenting To Discover a New Minor Virtue Script
+> 
+> Lucius of Flambeau has created a new cult, the Seventh Wave, a group dedicated to rediscovering the lost magics of a ruined covenant where he dwells. The first Initiation of the new cult is designed to teach the Virtue Affinity with Art (Aquam). Lucius acts as Mystagogue, and desires but lacks the intended Virtue, so his Target Level is 18. Lacking an Initiation Script, he sets out to devise a new Script that can be used in future rituals of his cult.
+> 
+> Lucius has studied an ancient book on the magics practiced by his predecessors, and has also practiced on his own, devising new chants and rites that he has repeated with his circle of would-be Initiates, and has reached Seventh Wave Lore 9. He is charismatic for a magus, with Presence +2, Intelligence +3.
+> 
+> He performs what he hopes will be a Quest (discovering a lost magical wand in ancient ruins guarded by ghosts, and presenting it to the cult), and travels to the bottom of the deepest river in the Fens to commune with the spirits on the spring equinox (a day he hopes will be auspicious, as the high tide will rush up river and create an odd natural phenomenon called a tidal bore). These will afford a Script bonus of +6 if they work out.
+> 
+> He experiments on himself, adding a Risk Modifier of +1, and the Extraordinary Results chart roll is 6: Side Effect. A 3 on the Side Effect table is a minor flaw — he gains an undesirable Personality Trait related to the cult's activities; for example, he may become over-dedicated, becoming a fanatic who protects the Fens from all threats, and who constantly serves and protects his new cult.
+>
+> Checking the viability of the proposed rite,Lucius's player rolls a simple die, scoring 9, + Risk Modifier 1 + Intelligence +3 + Lore 9 for a total of 22 vs, an Ease Factor of 9 + 6 =15, and so it is valid.
+> 
+> The storyguide rules that the Personality Trait brings the Initiate more into line with the cult, and awards a +1 sympathy bonus, making the final Script bonus +7. With Presence +2 + Lore 9 + Script +7 + Risk Modifier +1 vs. Ease Factor 18, he succeeds.
+> 
+> If he had failed, he would have wasted his time and effort, and could count neither the quest nor the putative special place in future attempts.
+> 
+> Succeeding, he gains the desired Virtue, and also writes down his actions and rituals. The next Initiate will benefit from his teaching, with an Initiation Script bonus of +7 (the Risk Modifier will not count for later Initiations). Since next time he will possess the Virtue, Lucius's own Initiate pupils will have a Target Level of 15, not 18.
+> 
+> His apprentice Mystagogue, once Initiated, wishes to teach her own small circle of Initiates, but her (Mystery Cult) Lore is only 6, and her Presence is 0. She tries to vary the Script, adding a second Quest to the rite.
+>
+> Her player rolls Intelligence +3 and Seventh Wave Lore 6 vs. an Ease Factor of 9 (to add a component). She succeeds if she avoids botching the roll. The apprentice Mystagogue's modified Initiation rite requires more effort of her Initiates, but will work under her tutelage, and she writes down the Script for future Mystagogues to benefit from.
 
-## Experimenting To Discover a New Minor Virtue Script
+For those who wish to play characters already initiated into an Esoteric Mystery Cult, membership in the parens's cult is represented by a required Story Flaw **Cabal Legacy,** representing the fact that others suspect the master (and hence the apprentice) of participating in hidden and untoward activities, and therefore do not fully trust them.
 
-Lucius of Flambeau has created a new cult, the Seventh Wave, a group dedicated to rediscovering the lost magics of a ruined covenant where he dwells. The first Initiation of the new cult is designed to teach the Virtue Affinity with Art (Aquam). Lucius acts as Mystagogue, and desires but lacks the intended Virtue, so his Target Level is 18. Lacking an Initiation Script, he sets out to devise a new Script that can be used in future rituals of his cult.
+Once past Gauntlet and character generation, the purchase of Virtues and Flaws by character points ends — for most magi their powers grow by study and practice, and they do not normally acquire additional Virtues. Initiation into Mysteries is almost always by story and roleplaying, but (again with troupe permission, or to create an experienced non-player magus), a magus who is being advanced some years beyond apprenticeship may use some of those seasons for Initiations. As this rules out interesting stories, it is not encouraged for player characters.
 
-Lucius has studied an ancient book on the magics practiced by his predecessors, and has also practiced on his own, devising new chants and rites that he has repeated with his circle of would-be Initiates, and has reached Seventh Wave Lore 9. He is charismatic for a magus, with Presence +2, Intelligence +3.
+Initiation with a Script is designed as a fixed process, much like other experience activities (although it is more complex than others), so that it can be applied as background experience if necessary. More details are provided in the rules for The Mechanics of Initiation, but a summary follows here.
 
-He performs what he hopes will be a Quest (discovering a lost magical wand in ancient ruins guarded by ghosts, and presenting it to the cult), and travels to the bottom of the deepest river in the Fens to commune with the spirits on the spring equinox (a day he hopes will be auspicious, as the high tide will rush up river and create an odd natural phenomenon called a tidal bore). These will afford a Script bonus of +6 if they work out.
+An Initiation Script indicates how many Quests are required, and any Ordeal (Flaw) imposed. The whole process takes one full season per Quest, and one for the Initiation itself. In addition, the Initiation may require sacrifice of items of value to a magus — books, vis or even an invested device or similar — and you must allocate seasons of background experience to making such an item for sacrifice (the time expended is a major part of the cost). You may wish to account for the vis expenditure too. As with background seasons allocated to Laboratory work (ArM5, page 32), each season of Initiation or Questing means the character loses 10 experience points from the yearly 30; it is more cost-effective to group Initiation seasons into whole years of background, if possible.
 
-He experiments on himself, adding a Risk Modifier of +1, and the Extraordinary Results chart roll is 6: Side Effect. A 3 on the Side Effect table is a minor flaw — he gains an undesirable Personality Trait related to the cult's activities; for example, he may become over-dedicated, becoming a fanatic who protects the Fens from all threats, and who constantly serves and protects his new cult.
+If a detailed Initiation Script is not available, you can create a sketched out Script using the Initiation Rites rules above. Note the Presence and (Mystery Cult) Lore of the parens, and add sufficient Script components to provide a Script bonus that lets the parens meet the Initiation Target Level. It is usually appropriate for a probationer's first Initiation to include an Ordeal, as this also provides a bonus for subsequent Initiations.
 
-Mystery Cult, membership in the parens's cult is represented by a required Story Flaw **Cabal Legacy,** representing the fact that others suspect the master (and hence the apprentice) of participating in hidden and untoward activities, and therefore do not fully trust them.
+Experimentation to discover new Mystery paths is not really a matter for background experience rules, and player characters should go through a full roleplaying process to achieve this. If you are designing an nonplayer character cult founder, then you should discuss the process and estimate the number of failed attempts, but assume eventual success — else they would not be founders of the path you are creating!
 
-Once past Gauntlet and character generation, the purchase of Virtues and Flaws by character points ends — for
+> ## Cabal Legacy — Minor Hermetic Story Flaw
+> 
+> This Flaw applies to magi beginning play as Initiates in a Mystery Cult; it is not required of those seeking Initiation later, by story actions, nor is it required for membership in one of the four Mystery Houses. It allows a magus character to be designed with cult Virtues as normal Virtues, part of the standard ten Virtues and Flaws — something not otherwise possible. These Virtues and Flaws are accounted for exactly as normal: in particular, Flaws acquired now do not later count as past Ordeals. Note that if a particular Virtue requires some other specific Virtue or Flaw, then this is still required during Cabal Legacy character generation.
+> 
+> The magus's master was an initiate of a Mystery cabal and taught him its secrets. As an apprentice, he was marked by the Mystery. Even if he renounces all the occult trappings of the society, most magi associate him with the Mystery, especially the mystae themselves. When a magus with Cabal Legacy speaks, magi often think he speaks for his entire cabal. When he acts, the mystae often assume he's acting as their agent.
+>
+> From time to time (rarely more than once every few years) he is approached by a senior mystae and commanded to perform a laborious task or undertake a bizarre quest on behalf of the cabal, usually requiring a season’s worth of activity. Performing this task well increases his status with the mystae and deepens his perceived connections to them. Refusing or bungling the task earns their wrath.
+> 
+> This Flaw is similar to a Minor version of the Major Story Flaw Favors.
 
-Checking the viability of the proposed rite,Lucius's player rolls a simple die, scoring 9, + Risk Modifier 1 + Intelligence +3 + Lore 9 for a total of 22 vs, an Ease Factor of 9 + 6 =15, and so it is valid.
-
-The storyguide rules that the Personality Trait brings the Initiate more into line with the cult, and awards a +1 sympathy bonus, making the final Script bonus +7. With Presence +2 + Lore 9 + Script +7 + Risk Modifier +1 vs. Ease Factor 18, he succeeds.
-
-If he had failed, he would have wasted his time and effort, and could count neither the quest nor the putative special place in future attempts.
-
-Succeeding, he gains the desired Virtue, and also writes down his actions and rituals. The next Initiate will benefit from his teaching, with an Initiation Script bonus of +7 (the Risk Modifier will not count for later Initiations). Since next time he will possess the Virtue, Lucius's own Initiate pupils will have a Target Level of 15, not 18.
-
-His apprentice Mystagogue, once Initiated, wishes to teach her own small circle of Initiates, but her (Mystery Cult) Lore is only 6, and her Presence is 0. She tries to vary the Script, adding a second Quest to the rite.
-
-Her player rolls Intelligence +3 and Seventh Wave Lore 6 vs. an Ease Factor of 9 (to add a component). She succeeds if she avoids botching the roll. The apprentice Mystagogue's modified Initiation rite requires more effort of her Initiates, but will work under her tutelage, and she writes down the Script for future Mystagogues to benefit from.
-
-most magi their powers grow by study and practice, and they do not normally acquire additional Virtues. Initiation into Mysteries is almost always by story and roleplaying, but (again with troupe permission, or to create an experienced non-player magus), a magus who is being advanced some years beyond apprenticeship may use some of those seasons for Initiations. As this rules out interesting
-
-
-stories, it is not encouraged for player characters.
-
-Initiation with a Script is designed
-
-as a fixed process, much like other experience activities (although it is more complex than others), so that it can be applied as background experience if necessary. More details are provided in the rules for The Mechanics of Initiation, but a summary follows here.
-
-An Initiation Script indicates how many Quests are required, and any Ordeal (Flaw) imposed. The whole process takes one full season per Quest, and one for the Initiation itself. In addition, the Initiation may require sacrifice of items of value to a magus — books, vis or even an invested device or similar — and you must allocate seasons of background experience to making such an item for sacrifice (the time expended is
-
-a major part of the cost). You may wish to account for the vis expenditure too. As with background seasons allocated to Laboratory work (ArM5, page 32), each season of Initiation or Questing means the character loses 10 experience points from
-
-
-the yearly 30; it is more cost-effective to group Initiation seasons into whole years of background, if possible.
-
-If a detailed Initiation Script is not available, you can create a sketchedout Script using the Initiation Rites
-
-> rules above. Note the Presence and (Mystery Cult) Lore of the parens, and add sufficient Script components to provide a Script bonus that lets the parens meet the Initiation Target Level. It is usually appropriate for a probationer's first Initiation to include an Ordeal, as this also provides a bonus for subsequent Initiations.
-
-> Experimentation to discover new Mystery paths is not really a matter for background experience rules, and player characters should go through a full roleplaying process to achieve this. If you are designing an nonplayer character cult founder, then you should discuss the process and estimate the number of failed attempts, but assume eventual success — else
-
-they would not be founders of the path you are creating!
-
-## Cabal Legacy — Minor Hermetic Story Flaw
-
-This Flaw applies to magi beginning play as Initiates in a Mystery Cult; it is not required of those seeking Initiation later, by story actions, nor is it required for membership in one of the four Mystery Houses. It allows a magus character to be designed with cult Virtues as normal Virtues, part of the standard ten Virtues and Flaws — something not otherwise possible. These Virtues and Flaws are accounted for exactly as normal: in particular, Flaws acquired now do not later count as past Ordeals. Note that if a particular Virtue requires some other specific Virtue or Flaw, then this is still required during Cabal Legacy character generation.
-
-The magus's master was an initiate of a Mystery cabal and taught him its secrets. As an apprentice, he was marked by the Mystery. Even if he renounces all the occult trappings of the society, most magi associate him with the Mystery, especially the mystae themselves. When a magus with Cabal Legacy speaks, magi often think he speaks for his entire cabal. When he acts, the mystae often assume he's acting as their agent.
-
-From time to time (rarely more than once every few years) he is approached by a senior mystae and commanded to perform a laborious task or undertake a bizarre quest on behalf of the cabal, usually requiring a season's worth of activity. Performing this task well increases his status with the mystae and deepens his perceived connections to them. Refusing or bungling the task earns their wrath.
-
-This Flaw is similar to a Minor version of the Major Story Flaw Favors.
-
-
-## Chapter Three
-
-# Storyguides & the Mysteries
+# Chapter 3: Storyguides & the Mysteries
 
 What duties are involved in membership of a Mystery Cult? What stories do they inspire? This chapter is written primarily with storyguides in mind, but can be browsed by players, who may find much of interest within.
 
 ## Responsibilities of Membership
 
-On joining the cult and undergoing Initiation, the magus immediately takes on board certain obligations and duties. Each cult varies in its ideals, aims, and longterm ambitions: whereas The Children of Hermes require primarily the payment of vis dues and the Initiation of more members into the Mystery Cult, the Neo-Mercurian temple may require an arduous journey to the sands of Egypt and participation in a search for a lost shrine, or several seasons' work mapping the magical energies of a stone circle in Loch Leglean. Whatever the Mystery Cult, the magus is expected to participate in furthering the aims of that cult by committing time and effort, which might usually be spent on his own researches. While it is impossible to generalize, participation in a Mystery Cult should generate stories; not just the stories required to earn Initiation, but also other stories driven by the agenda and the need to progress within the cult.
+On joining the cult and undergoing Initiation, the magus immediately takes on board certain obligations and duties. Each cult varies in its ideals, aims, and long term ambitions: whereas The Children of Hermes require primarily the payment of vis dues and the Initiation of more members into the Mystery Cult, the Neo-Mercurian temple may require an arduous journey to the sands of Egypt and participation in a search for a lost shrine, or several seasons' work mapping the magical energies of a stone circle in Loch Leglean. Whatever the Mystery Cult, the magus is expected to participate in furthering the aims of that cult by committing time and effort, which might usually be spent on his own researches. While it is impossible to generalize, participation in a Mystery Cult should generate stories; not just the stories required to earn Initiation, but also other stories driven by the agenda and the need to progress within the cult.
 
 Some cults require annual dues. This is usually not specified in the cult description, and is a matter for storyguide discretion. A single pawn of vis a year is a reasonable symbolic requirement, being used to pay for cult rituals and fund work on enchanted devices that are then used for the benefit of the whole cult. In vis-rich sagas this amount should be significantly increased. A donation of perhaps seven or more pawns of vis seems appropriate for Initiation into a new degree. Some cults have almost no interest in vis; instead service is rendered in other ways.
 
@@ -703,24 +694,21 @@ Overall, the vast majority of the character's involvement with the Mystery Cult 
 
 Such stories can have many themes. Along with the requirement to attend Initiations and to participate in testing probationers, many Mysteries have yearly festivals or ceremonies that require attendance — for example, the Neo-Mercurian celebration of Mercuralia — and storyguides should make the first attendance (at least) at each of these events the focus of a story so that a sense of atmosphere, people, and location is built. "Show, don't tell" is good advice here; having the character participate in a rite, smell the incense, feel the strange magics, and hear the chanting makes the Mystery mysterious, and far more evocative. Mystery Cults should feel strange, distinct, and unlike other parts of the life of the magus; there should be a strong contrast between the warmth and familiarity of the covenant, and the strangeness and sense of awe in participating in the rites of the Mystery.
 
-When designing stories, the storyguide should think about how they lead
+> ## Mystery Cults in the Ars Magica setting
+> 
+> Although the existence of Mystery Cults is an official part of the setting of Ars Magica, the schools outlined in *The Mysteries Revised Edition* mostly exist as hidden traditions within the Order of Hermes. The Mystery Cults depicted in this book are primarily examples, and while they may be referred to in future Ars Magica supplements, storyguides should feel free to omit, alter, or change them as required.
+> 
+> It is very unlikely that the entire set of Mystery Cults will be mentioned even fleetingly in a single saga. The apparent absence of others does not mean they do not exist; rather, by their very nature Mystery Cults are secretive and hidden from view. They can, therefore, be introduced into a story at any time as required, without upsetting the background of the saga — the organization was always present, but only now have the magi become aware of its existence.
+> 
+> Storyguides are positively encouraged to change the details of the cults here to suit their own sagas. A Mystery Cult whose details are freely available to read, is, well, not very mysterious! Changing things prevents players who have read deeply in this book from becoming jaded, and allows the sense of awesome secrets and strange enigmas to pervade this part of the saga, as is proper. It also allows troupes free rein to use their own imaginations and creativity to great effect, making the saga an expression of the ideas and desires of the whole group.
 
-
-## Mystery Cults in the Ars Magica setting
-
-Although the existence of Mystery Cults is an official part of the setting of Ars Magica, the schools outlined in *The Mysteries Revised Edition* mostly exist as hidden traditions within the Order of Hermes. The Mystery Cults depicted in this book are primarily examples, and while they may be referred to in future Ars Magica supplements, storyguides should feel free to omit, alter, or change them as required.
-
-It is very unlikely that the entire set of Mystery Cults will be mentioned even fleetingly in a single saga. The apparent absence of others does not mean they do not exist; rather, by their very nature Mystery Cults are secretive and hidden from view. They can, therefore, be introduced into a story at any time as required, without upsetting the background of the saga — the organization was always present, but only now have the magi become aware of its existence.
-
-Storyguides are positively encouraged to change the details of the cults here to suit their own sagas. A Mystery Cult whose details are freely available to read, is, well, not very mysterious! Changing things prevents players who have read deeply in this book from becoming jaded, and allows the sense of awesome secrets and strange enigmas to pervade this part of the saga, as is proper. It also allows troupes free rein to use their own imaginations and creativity to great effect, making the saga an expression of the ideas and desires of the whole group.
-
-the character deeper into the secrets of the Mystery Cult and how they reflect the ultimate aim of the school.
+When designing stories, the storyguide should think about how they lead the character deeper into the secrets of the Mystery Cult and how they reflect the ultimate aim of the school.
 
 For example, the Philosophers of Rome ultimately aspire to godhood, yet their hedonistic orgies and libertine excesses may prevent that from being apparent until the interested party has spent much time in the cult, trying to reconcile the reckless pursuit of sensuality with the dry academic researches in early Christian texts that that group carries out. A story may be told in which, in the course of an investigation of a hidden catacomb, a number of books clearly written by a Gnostic philosopher are found; yet shortly thereafter there are inscriptions venerating the same man as a god. In a later story the same being is met in a hidden magical regio, yet by now the young Philosopher has found records showing that the mysterious author/deity was once a member of his own covenant, and indeed worked in the very same lab that today is used by that Initiate.
 
 As each layer of the mystery is peeled away, new secrets present themselves, and new questions requiring answers are uncovered. The player's and character's growing knowledge of the cult naturally creates many story ideas as well. The troupe should craft the Mystery Cult outline into something unique, using it as a guideline and thinking of secrets and revelations that can be learned in the course of play. Each revelation should change the way that the cult is perceived, and be quite dramatic — and make the Initiate wish to know more. These stories should be linked to the outline of the cult provided in this book, but go beyond it, exploring and defining the role of the cult in the saga, and changing details or even whole sections to better fit what the troupe wishes to do with the cult. Initiation into a mystery is a minor story arc, yet in a well-plotted saga it can link back to the themes and motifs of the main saga arc in surprising ways.
 
-# Character Focus
+## Character Focus
 
 It is, perhaps, normal in a saga for stories to focus on the covenant's members working together to achieve some shared aim, resolve a conflict, or defeat some threat. Of course some stories focus on individual magi or companions, putting them in the spotlight — typically those that focus upon a Story
 
@@ -730,50 +718,43 @@ As the saga grows, House loyalties crop up, and parentes attempt to embroil fili
 
 Introducing player characters into the Mystery Cults might seem to shift the balance away from the covenant and troupe play. Certain characters acquire new loyalties outside the covenant, and are oath-bound not to reveal the nature of that secret. Attempts to uncover their secret may be made, including formal challenges to certamen duels, yet still they refuse to divulge their activities. Suspicion can rapidly escalate to paranoia: This should not be pushed into causing a problem for the saga.
 
-The involvement of the character in a Mystery Cult requires some stories that focus on the relationship between the Initiate and the cult, and the adventures
-
-
-
-## How to Deal with Mystery Stories
-
-**Have the other players play cultinvolved companions and grogs**. If you can involve these other characters in a Mystery Cult, it gives you opportunities to have an adventure with everyone playing a part. It is quite normal to play adventures with only one magus, although players must be careful to keep separate player knowledge and character knowledge.
-
-**Troupe play; beta storyguides.** A Mystery Cult is a good opportunity for another player to do a bit of storyguiding. You can divide responsibilities and even story time, with one group running a Mystery Cult adventure, and another running a different adventure or performing laboratory activities.
-
-**Non-player characters taken on by players.** As at Tribunal, you can create powerful story characters that are part of the Mystery Cult, and encourage side-lined players to play them. It heightens the tension of an Initiatory rite when the Initiate is suddenly facing four completely new characters wearing black masks and judging his actions, and its easier (and more fun) for four players to run four NPCs than for the storyguide to do it all.
-
-**Proactive Quests.** When the characters go on an adventure, have them think about what their cult would want them to do. Perhaps they can apply their adventure experience retrospectively to Initiation Quests if they do things with significance to the cult; then seek Initiation and favor within the normal stories they engage in. **Evangelize**. Since cults want members, make Initiating others into the cult an important goal; perhaps even a common Initiatory Quest can be held. If the character can get some or all of the other characters to join, you can run Initiatory rites as a group activity, and all problems vanish; the covenant may become more cohesive than ever. This works particularly well when the covenant members found their own new cult.
-
-**Instructions.** Cults that are close to their members might give characters instructions to follow while on adventures, in lieu of a solo Mystery Quest. This gives the Initiate a particular goal that the rest of the party might not know about. It should, however, never include killing another player character: such betrayal rarely makes for good gaming experiences.
-
-**Catch up later.** You might tell the player of the Initiated character that the magus went on an adventure for his cult, but leave it aside to play at another time when there are fewer players present. The player gains the Virtues but has no memory of the event until he goes back to play it through.
-
-**Blue-booking.** The Mystery stories are handled by exchange of e-mail, Internet chat, phone calls, letters, or stories between the storyguide and the player. It never takes up a session, but events happen, stories unfold, and the plot is advanced through a non-traditional roleplaying medium. The player keeps a book in which he records his character's off-camera stories — but it doesn't have to be blue.
-
-**Make it secret.** Since the other characters aren't supposed to know that the character is in a cult, or what goes on at the cult rites, arrange to game privately with the cult member's player for those bits, and pretend that the character is doing something else in-game. While possibly the most elegant solution, it depends on your time available before the next session, and can result in problems if one story is taking a long time, leaving the other characters playing grogs facing mundane threats as they wait for the mystery character to return so the game as a whole can progress at the same narrative rate.
-
-**Abstract it.** Since it is a seasonal activity, you can do cult Initiation like you do other kinds of study. Everyone announces what they're doing that season, and then you address each character in turn, making the necessary rolls and moving on. Not as much flavor this way, but it gets the job done, although it defeats the purpose of Mystery Cults as a way of driving stories.
-
-arising from this. Some of those adventures — the search for a lost temple, or to slay a dragon, or to uncover a Hermetic criminal in clear breach of the Code — can easily involve all of the magi who wish to participate, the character undertaking the Quest inventing a cover story that explains the necessity to his sodales. Some stories, however, especially Initiation ones, require that magi to act alone — although even then he may have recruited a few loyal grogs and companions who are affiliated with the cult at the most basic level, for many cults prize even unGifted members if they know how to fight or possess useful skills.
+The involvement of the character in a Mystery Cult requires some stories that focus on the relationship between the Initiate and the cult, and the adventures arising from this. Some of those adventures — the search for a lost temple, or to slay a dragon, or to uncover a Hermetic criminal in clear breach of the Code — can easily involve all of the magi who wish to participate, the character undertaking the Quest inventing a cover story that explains the necessity to his sodales. Some stories, however, especially Initiation ones, require that magi to act alone — although even then he may have recruited a few loyal grogs and companions who are affiliated with the cult at the most basic level, for many cults prize even unGifted members if they know how to fight or possess useful skills.
 
 While player knowledge is not character knowledge, some troupes will elect to conceal any knowledge of the Mystery Cult's secrets from the players of non-Initiates.
 
-# Progression in a Mystery Cult
+> ## How to Deal with Mystery Stories
+> 
+> **Have the other players play cultinvolved companions and grogs**. If you can involve these other characters in a Mystery Cult, it gives you opportunities to have an adventure with everyone playing a part. It is quite normal to play adventures with only one magus, although players must be careful to keep separate player knowledge and character knowledge.
+> 
+> **Troupe play; beta storyguides.** A Mystery Cult is a good opportunity for another player to do a bit of storyguiding. You can divide responsibilities and even story time, with one group running a Mystery Cult adventure, and another running a different adventure or performing laboratory activities.
+> 
+> **Non-player characters taken on by players.** As at Tribunal, you can create powerful story characters that are part of the Mystery Cult, and encourage side-lined players to play them. It heightens the tension of an Initiatory rite when the Initiate is suddenly facing four completely new characters wearing black masks and judging his actions, and its easier (and more fun) for four players to run four NPCs than for the storyguide to do it all.
+> 
+> **Proactive Quests.** When the characters go on an adventure, have them think about what their cult would want them to do. Perhaps they can apply their adventure experience retrospectively to Initiation Quests if they do things with significance to the cult; then seek Initiation and favor within the normal stories they engage in. **Evangelize**. Since cults want members, make Initiating others into the cult an important goal; perhaps even a common Initiatory Quest can be held. If the character can get some or all of the other characters to join, you can run Initiatory rites as a group activity, and all problems vanish; the covenant may become more cohesive than ever. This works particularly well when the covenant members found their own new cult.
+> 
+> **Instructions.** Cults that are close to their members might give characters instructions to follow while on adventures, in lieu of a solo Mystery Quest. This gives the Initiate a particular goal that the rest of the party might not know about. It should, however, never include killing another player character: such betrayal rarely makes for good gaming experiences.
+> 
+> **Catch up later.** You might tell the player of the Initiated character that the magus went on an adventure for his cult, but leave it aside to play at another time when there are fewer players present. The player gains the Virtues but has no memory of the event until he goes back to play it through.
+> 
+> **Blue-booking.** The Mystery stories are handled by exchange of e-mail, Internet chat, phone calls, letters, or stories between the storyguide and the player. It never takes up a session, but events happen, stories unfold, and the plot is advanced through a non-traditional roleplaying medium. The player keeps a book in which he records his character's off-camera stories — but it doesn't have to be blue.
+> 
+> **Make it secret.** Since the other characters aren't supposed to know that the character is in a cult, or what goes on at the cult rites, arrange to game privately with the cult member's player for those bits, and pretend that the character is doing something else in-game. While possibly the most elegant solution, it depends on your time available before the next session, and can result in problems if one story is taking a long time, leaving the other characters playing grogs facing mundane threats as they wait for the mystery character to return so the game as a whole can progress at the same narrative rate.
+> 
+> **Abstract it.** Since it is a seasonal activity, you can do cult Initiation like you do other kinds of study. Everyone announces what they're doing that season, and then you address each character in turn, making the necessary rolls and moving on. Not as much flavor this way, but it gets the job done, although it defeats the purpose of Mystery Cults as a way of driving stories.
 
-The need to spread attention between the players, and to ensure that an equal number of stories concentrate on each character, is the prime method of determining how quickly magi should progress in a Mystery Cult. In a fast saga, where years pass between stories, it should take a very long period for the magi to achieve a high degree in the Mystery Cult, and by the time they do they should be ready for the awesome power that can be attained. In a slow saga, it may never prove possible to progress far into a mystery, but the figure of three years per Initiation provides a reasonable rule of thumb, whereas in a medium saga seven years could pass between degrees of Initiation. Ultimately, though, progression is measured by stories not years, and the number of stories that is required to attain each Initiation
+## Progression in a Mystery Cult
 
-
-## Mysterious Knowledge
-
-A wise old magus known to the magi confides in them a secret. A maga named Flora, who has been brought before the Tribunal on a high crime, is almost certain to be found guilty and Marched tomorrow, so strong is the evidence against her. Yet, through the secret art of Divination, taught in a manner he cannot reveal as part of his Initiation into an ancient Mystery, he has learned that she is beyond all doubt innocent. Because he cannot confess his affiliation with the cult that taught him, and his nonstandard powers will not be counted as evidence, he can do nothing. However divination has provided him with a few seemingly contradictory clues as to the real culprit, who it seems has faked Flora's casting sigil and used high-level spells to block the Intellego magics of the Quaesitors.
-
-Can the player magi find enough evidence before dawn to prevent a miscarriage of justice and bring the real offender to light?
-
-is set by the storyguide and the Initiation Script design.
+The need to spread attention between the players, and to ensure that an equal number of stories concentrate on each character, is the prime method of determining how quickly magi should progress in a Mystery Cult. In a fast saga, where years pass between stories, it should take a very long period for the magi to achieve a high degree in the Mystery Cult, and by the time they do they should be ready for the awesome power that can be attained. In a slow saga, it may never prove possible to progress far into a mystery, but the figure of three years per Initiation provides a reasonable rule of thumb, whereas in a medium saga seven years could pass between degrees of Initiation. Ultimately, though, progression is measured by stories not years, and the number of stories that is required to attain each Initiation is set by the storyguide and the Initiation Script design.
 
 The number of characters in the game also limits progression; a game with only two players will see more rapid advancement than a game with six. As always, the troupe should set the pace to suit their own tastes. Many of the Mystery Virtues do, however, require extensive commitment to lab work and considerable levels of ability in Arts and Magic Theory, or other Abilities, which may also prove decisive in establishing the pace of Initiation.
 
-# Player Knowledge
+> ## Mysterious Knowledge
+> 
+> A wise old magus known to the magi confides in them a secret. A maga named Flora, who has been brought before the Tribunal on a high crime, is almost certain to be found guilty and Marched tomorrow, so strong is the evidence against her. Yet, through the secret art of Divination, taught in a manner he cannot reveal as part of his Initiation into an ancient Mystery, he has learned that she is beyond all doubt innocent. Because he cannot confess his affiliation with the cult that taught him, and his nonstandard powers will not be counted as evidence, he can do nothing. However divination has provided him with a few seemingly contradictory clues as to the real culprit, who it seems has faked Flora's casting sigil and used high-level spells to block the Intellego magics of the Quaesitors.
+> 
+> Can the player magi find enough evidence before dawn to prevent a miscarriage of justice and bring the real offender to light?
+
+## Player Knowledge
 
 The next question facing the troupe is whether to allow everyone access to *The Mysteries* or to allow its secrets only to those within a specific Mystery Cult. Both approaches have their advantages.
 
@@ -783,20 +764,18 @@ This is the default option; it is hard to restrict player access to books, altho
 
 With the second option, the storyguide restricts knowledge to those who are involved in a particular Mystery, perhaps allowing only a small part of the Mystery at a time to be revealed and the ultimate aim of the cult to be hidden from low-degree members. In fact, such members may even be fed false myths and untrue information, with the truth being only slowly revealed. If you play with a single storyguide and he alone tends to buy Ars Magica books, then this may be a fun option, but it can be used even if everyone in the troupe has read this book; simply declare chapters 5 through 14 off-limits, and make changes to frustrate players who succumb to the temptation to peek.
 
-# Mystery Cults as Antagonists
+## Mystery Cults as Antagonists
 
 Those relatively new to Ars Magica games may already be reeling from the wealth of options available to their characters, and may not be ready to embark on the process of Initiation into the Esoteric Mysteries. Most cults prefer to recruit from relatively mature magi, maybe ten to 30 years out of Gauntlet, and some, like the Legion of Mithras, require an exemplary record of service to the Order, or some equivalent degree of proof of worthiness, before they consider a character a potential probationer. (There are, however, also other societies, such as the Children of Hermes and the Volshebnii Mechtateli, who prefer to recruit from the younger magi of the Order.) It is usually wise to allow a player time to familiarize herself with the rules, setting, and Order of Hermes background before encouraging her to design characters who seek Initiation into the Mystery Cults, where the rules and options become even more complex.
 
-Troupes that are not yet ready to embark on Initiation into the Mysteries should however consider another option: Mystery Cults as antagonists. Mystery Cults make superb villains, and unmasking the threat of a Mystery Cult that has designs inimical to the Order as a whole, and the player characters' covenant in particular, can make for a memorable longterm saga arc. Cultists are secretive, have hidden bases to uncover and loot, have plans to disrupt, and have mysterious powers that must be learned and thwarted.
+Troupes that are not yet ready to embark on Initiation into the Mysteries should however consider another option: Mystery Cults as antagonists. Mystery Cults make superb villains, and unmasking the threat of a Mystery Cult that has designs inimical to the Order as a whole, and the player characters' covenant in particular, can make for a memorable long term saga arc. Cultists are secretive, have hidden bases to uncover and loot, have plans to disrupt, and have mysterious powers that must be learned and thwarted.
 
 
-## Chapter Number
-
-# Curious Common Magics
+# Chapter 4: Curious Common Magics
 
 There are certain arcana known with the Order generally, yet of special interest to certain of the Mystery Cults: the mysteries of the memory palace, how to render spells permanent by evoking powerful magical spirits, and the secrets of Hermetic Alchemy, Planetary Magic, and other curious and potent lore known to magi who study these magical paths. These Virtues are available to all within the Order of Hermes without Initiation, yet only the mystae fully comprehend their significance and potential, and understand the deeper secrets to which they provide a cryptic introduction.
 
-# The Art of Memory
+## The Art of Memory
 
 The Art of Memory deals with the creation of memory palaces, a form of mnemonic, in which one visualizes a number of loci, where the scholar commits to memory a symbolic representation of a fact to be remembered.
 
@@ -808,7 +787,7 @@ The Ability may be taught or studied during play as a normal Ability, or acquire
 
 This is the traditional Art of Memory as practiced by scholars throughout Mythic Europe. To memorize a complex scene, image, or piece of writing (such as a long letter, but not as long as an entire text), the character must succeed at a roll of:
 
-#### Stress Die + Intelligence + Art of Memory vs. Ease Factor of 9 (or higher)
+**Stress Die + Intelligence + Art of Memory vs. Ease Factor of 9 (or higher)**
 
 The Ease Factor may be higher depending on the length or complexity of the item to be memorized. If the character succeeds, he remembers the item in exact detail, and may recall it at will although it may take time to explore a locus.
 
@@ -826,18 +805,23 @@ Mentem spells have been devised specifically to interact with a memory palace. S
 
 For the following spells to be effective, the target must have already constructed a memory palace.
 
+> ## Memorization Ease Factors
+> 
+> **9 (Average):** Memorize a singlepage letter verbatim; a conversation up to five minutes long; a room as seen from a single vantage point; or the layout (but not contents) of a castle.
+> 
+> **12 (Hard):** Memorize a letter of up to 12 pages; an hour's conversation, lecture, or debate; a room explored and seen from many vantage points; a whole manor house seen from a single vantage point in each room; or the contents (but not details) of a castle.
+> 
+> **18 (Impressive):** Memorize an extended missive up to 100 pages; a day's lecture or debate (such as a day at Tribunal); a whole manor house in detail; or the contents of a castle in detail.
+> 
+> Anything longer must be broken into sections and memorized as separate loci. If the subject matter is highly technical, add 3 or even 6 to the Ease Factor. If the subject is technical and falls within an Ability that the scholar possesses, the scholar may use that Ability in place of Art of Memory (but must still roll to recall as well as memorize); for example, a lawyer using Civil and Canon Law to memorize court proceedings, or a magus using Magic Theory to recall a Bonisagus expert's lecture.
 
-## Memorization Ease Factors
+##### Enhance the Memory Palace
 
-**9 (Average):** Memorize a singlepage letter verbatim; a conversation up to five minutes long; a room as seen from a single vantage point; or the layout (but not contents) of a castle.
+CrMe 20
 
-**12 (Hard):** Memorize a letter of up to 12 pages; an hour's conversation, lecture, or debate; a room explored and seen from many vantage points; a whole manor house seen from a single vantage point in each room; or the contents (but not details) of a castle.
+R: Per, D: Moon, T: Ind
 
-**18 (Impressive):** Memorize an extended missive up to 100 pages; a day's lecture or debate (such as a day at Tribunal); a whole manor house in detail; or the contents of a castle in detail.
-
-Anything longer must be broken into sections and memorized as separate loci. If the subject matter is highly technical, add 3 or even 6 to the Ease Factor. If the subject is technical and falls within an Ability that the scholar possesses, the scholar may use that Ability in place of Art of Memory (but must still roll to recall as well as memorize); for example, a lawyer using Civil and Canon Law to memorize court proceedings, or a magus using Magic Theory to recall a Bonisagus expert's lecture.
-
-obscure details by spending several minutes in reflection, "exploring" the locus. Multiple instances of this spell cannot be cast on the same subject. For example, a magus cannot use *Enhance the Memory Palace* to memorize an entire text by casting the spell on one page at a time. The locus can be destroyed with Perdo Mentem magic. When the spell ends, so does the memory.
+This spell magically constructs an extremely detailed locus in the caster's memory palace. The subject of the locus must be observed while the spell is being cast. The subject can be a single object, all the objects in a particular location, a discrete scene or event, or any written material less than a complete text. While the spell lasts, the caster can recall even obscure details by spending several minutes in reflection, "exploring" the locus. Multiple instances of this spell cannot be cast on the same subject. For example, a magus cannot use *Enhance the Memory Palace* to memorize an entire text by casting the spell on one page at a time. The locus can be destroyed with Perdo Mentem magic. When the spell ends, so does the memory.
 
 The magus may permanently memorize the information by spending seven days in meditation and succeeding in a roll of Intelligence + Art of Memory vs. an Ease Factor of 9 (Average). There is also a Ritual version of this spell, which creates a permanent memory locus.
 
@@ -845,15 +829,7 @@ Magically created loci may exceed the limit on loci in memory: count them separa
 
 (base 5, +3 Moon)
 
-#### Enhance the Memory Palace
-
-CrMe 20
-
-R: Per, D: Moon, T: Ind
-
-This spell magically constructs an extremely detailed locus in the caster's memory palace. The subject of the locus must be observed while the spell is being cast. The subject can be a single object, all the objects in a particular location, a discrete scene or event, or any written material less than a complete text. While the spell lasts, the caster can recall even
-
-
+##### Constructing the Memory Palace
 
 CrMe 20
 
@@ -865,7 +841,7 @@ This ritual may create loci outside and above the normal limit of five per room,
 
 (Base 5, +1 Touch, minimum 20 for Ritual Magic)
 
-#### Memory Palace of the Sage
+##### Memory Palace of the Sage
 
 CrMe 25
 
@@ -879,7 +855,7 @@ The Library of Durenmar is permanently enchanted to prevent this Ritual from bei
 
 (Base 5, +4 magnitude for complexity)
 
-#### Fortification of the Memory Palace
+##### Fortification of the Memory Palace
 
 ReMe Gen
 
@@ -891,29 +867,27 @@ This spell protects the caster's memories for a single Moon; longer durations ar
 
 (General, +3 Moon)
 
-# New Virtues
+## New Virtues
 
 Knowledge of the following new Virtues is widespread throughout the Order of Hermes and any of these Virtues may be taken by Initiates of some Mystery Cults or during character creation by magi without Mystery ties. Some, such as Vulgar Alchemy and Planetary Magic*,* were once Mystery secrets, taught only by certain Mystery Cults. The secrets were betrayed and, despite efforts to suppress the knowledge, the mystae were eventually forced to accept the reality.
 
 It is not necessary to be a member of a Mystery Cult to know these Virtues, and it is possible to select them at character generation as part of your usual allotment of ten Virtues. Characters who are Initiated into an esoteric Mystery Cult in the course of play may well come to gain these Virtues through Initiation, as explained in Chapter 2, in which case they are in addition to the usual allotment of Virtues.
 
-## Spell Binding — Minor Hermetic Virtue
+### Spell Binding — Minor Hermetic Virtue
 
-Spell Binding teaches the secret of binding spells into containers, within which a spirit may be confined and compelled to sustain the spell indefinitely. The spirits so commanded are the lesser spirits: elementals and airy spirits. It is possible to
+Spell Binding teaches the secret of binding spells into containers, within which a spirit may be confined and compelled to sustain the spell indefinitely. The spirits so commanded are the lesser spirits: elementals and airy spirits. It is possible to command ghosts, too, but as these usually have names, it is frowned upon by some magi, and is classed under necromancy.
 
-## Sustain a Spell of (Form)
-
-ReVi Gen
-
-R: Touch, D: Special, T: Ind, Ritual
-
-**Req:** Form (or Forms) of the spell to be sustained
-
-Allows another spell to be bound to this and to a physical container. The base level of this container ritual must equal or exceed the spell to be sustained. The container spell duration must maintain the container until casting begins for the spell to be sustained, after which the spells are entwined.
-
-(General, special)
-
-command ghosts, too, but as these usually have names, it is frowned upon by some magi, and is classed under necromancy.
+> ## Sustain a Spell of (Form)
+> 
+> ReVi Gen
+> 
+> R: Touch, D: Special, T: Ind, Ritual
+> 
+> **Req:** Form (or Forms) of the spell to be sustained
+> 
+> Allows another spell to be bound to this and to a physical container. The base level of this container ritual must equal or exceed the spell to be sustained. The container spell duration must maintain the container until casting begins for the spell to be sustained, after which the spells are entwined.
+> 
+> (General, special)
 
 To sustain a spell in this manner, the magus needs three things: the spell to be bound and sustained, a container, and a spirit to provide Might to sustain the spell. The spell to be sustained cannot be a Ritual spell, nor have a duration of Momentary.
 
@@ -940,7 +914,6 @@ While trapped, a spirit is limited in what it can do. It cannot use its Might fo
 
 If the physical container is broken, the spells end; if the spells end, the spirit is freed. If the spirit's Might falls below the level of the spell, the sustained spell fails (unless its initial duration has not yet ended), and the container fail with it (releasing the spirit).
 
-
 A spirit may be magically commanded to leave the prison. Such a spell must have a level that exceeds the level of the container spell that binds both the spell and spirit, and must be able to command the spirit as if it were free, but need not exceed the spirit's Magic Resistance (because the spirit chooses not to resist such a command), although it must overcome other magics that have been used to ward or protect container.
 
 *Example: Constantine has prepared a stone as a container with a level 25* Delayed Sustenance of Fire, *casting the ritual before leaving his tower. Later that day he casts* Sunlight Without Flame *(an enhanced, level 15 variant of Lamp Without Flame) in a faerie cave. While concentrating on the* Sunlight *spell, he commands a small (Might 15) fire elemental (already commanded to follow him) to enter the container and sustain the spells.*
@@ -955,7 +928,7 @@ Mentem spells (using the Rego Mentem guidelines, ArM5, page 151) can command any
 
 The following new guidelines and spells are standard Hermetic magic, and require no special Virtue, but are useful to magi working spell binding.
 
-#### Rego (Form)
+**Rego (Form)**
 
 Spells of a specific Form can command any spirit tied to that Form: for example, Ignem can command any fiery spirit. Vim spells using these guidelines can command spirits aligned with one of the four realms; Divine, Faerie, Infernal, or Magic. The Form of the spirit is irrelevant.
 
@@ -965,7 +938,7 @@ Spells of a specific Form can command any spirit tied to that Form: for example,
 
 For example, the following two spells affect spirits of fire using the Form of Ignem. There are similar spells for other Forms.
 
-#### Coerce the Spirit of Fire
+##### Coerce the Spirit of Fire
 
 ReIg 20
 
@@ -975,7 +948,7 @@ Makes a fiery spirit obey the caster as long as she can coerce it with threats. 
 
 (Base 5, +2 Voice, +1 Conc)
 
-**Summoning the Spirit of Fire**
+##### Summoning the Spirit of Fire
 
 ReIg 40
 
@@ -989,37 +962,35 @@ Calls a fiery spirit if the magus has an Arcane Connection or knows its full nam
 
 In Mythic Europe, many Hermetic magi have learned how to disguise their magical practices by incorporating them fully into a mundane task or action at which they excel. This Virtue lets the magus conceal spellcasting by using the actions and/or words of some Ability to replace the normal Hermetic gestures and words, and lets him maintain a spell without needing Concentration rolls.
 
-#### Description
+### Description
 
 When the Virtue is acquired, specify the Ability to which it applies. You may choose any Craft, Profession, or other Ability with a clear verbal or physical practice. You may not choose any Language, Supernatural, Academic, or Arcane Ability.
 
-There are distinct Virtues for each possible Ability, as each allows different methods to work its actions into magic: knowing one method of Performance
+There are distinct Virtues for each possible Ability, as each allows different methods to work its actions into magic: knowing one method of Performance Magic does not let the magus use any other Ability in magic.
 
-## Performance Abilities
-
-Of the Abilities listed on ArM5, page 63, the following qualify for Performance Magic (although not all are particularly effective, and some may be hard to use effectively):
-
-**Physical:** Athletics, Brawl, Chirurgy, Hunt, Legerdemain, Ride, Stealth, Swim, Bows, Great Weapon, Single Weapon, Thrown Weapon
-
-**Verbal:** Bargain, Charm, Guile, Intrigue, Leadership, Teaching
-
-**Verbal and Physical:** Animal Handling, Carouse, Music
-
-**Variable:** Craft (Type), Profession (Type)
-
-While Brawl and Martial Abilities may be used in Performance Magic, the magus needs to perform semi-ritualistic movements to cast spells, responding to the needs of the spell, not to the actions of an opponent. If the magus is in combat, then he may only use Performance Magic (Brawl or Martial Abilities) if the player rolls a stress die with three extra botch dice, and treats all non-botches as die rolls of zero. (This represents ignoring the opponent and casting the spell.)
+> ## Performance Abilities
+> 
+> Of the Abilities listed on ArM5, page 63, the following qualify for Performance Magic (although not all are particularly effective, and some may be hard to use effectively):
+> 
+> **Physical:** Athletics, Brawl, Chirurgy, Hunt, Legerdemain, Ride, Stealth, Swim, Bows, Great Weapon, Single Weapon, Thrown Weapon
+> 
+> **Verbal:** Bargain, Charm, Guile, Intrigue, Leadership, Teaching
+> 
+> **Verbal and Physical:** Animal Handling, Carouse, Music
+> 
+> **Variable:** Craft (Type), Profession (Type)
+> 
+> While Brawl and Martial Abilities may be used in Performance Magic, the magus needs to perform semi-ritualistic movements to cast spells, responding to the needs of the spell, not to the actions of an opponent. If the magus is in combat, then he may only use Performance Magic (Brawl or Martial Abilities) if the player rolls a stress die with three extra botch dice, and treats all non-botches as die rolls of zero. (This represents ignoring the opponent and casting the spell.)
 
 ## Sorcerous Music (Performance Magic)
-
-Performance Magic (Music) is often known as *Sorcerous Music*.
-
-Music is unusual among Performance Magic Abilities — perhaps because instrumental music is similar to the human voice — in that playing a tune on an instrument can freely replace either or both of gesture *and* words. The magus needs to play an instrument in order to replace gestures, but has a free choice as to whether he sings or plays a tune to replace mystical words. Indeed, wind instruments require that he play a tune to replace words, as he cannot sing while playing a whistle!
-
-Sorcerous Music can be performed as singing-only and not replace gestures (with normal spellcasting penalties and benefits of *Subtle Magic*), or can be performed without singing (if the magus plays an instrumental tune), but cannot be performed silently.
-
-When using Voice Range with Sorcerous Music, the spell carries as far as the music (song or instrument) could be heard. For some loud instruments, this may be a long way.
-
-Magic does not let the magus use any other Ability in magic.
+> 
+> Performance Magic (Music) is often known as *Sorcerous Music*.
+> 
+> Music is unusual among Performance Magic Abilities — perhaps because instrumental music is similar to the human voice — in that playing a tune on an instrument can freely replace either or both of gesture *and* words. The magus needs to play an instrument in order to replace gestures, but has a free choice as to whether he sings or plays a tune to replace mystical words. Indeed, wind instruments require that he play a tune to replace words, as he cannot sing while playing a whistle!
+> 
+> Sorcerous Music can be performed as singing-only and not replace gestures (with normal spellcasting penalties and benefits of *Subtle Magic*), or can be performed without singing (if the magus plays an instrumental tune), but cannot be performed silently.
+> 
+> When using Voice Range with Sorcerous Music, the spell carries as far as the music (song or instrument) could be heard. For some loud instruments, this may be a long way.
 
 It is the action or words of the practice that are the focus of this Virtue, not the products of craft-working. An Ability that is *verbal* (such as story-telling) replaces the words of spellcasting; similarly, an Ability that is *physical* (such as hunting) replaces gestures. An Ability that encompasses both verbal and physical aspects (such as music, or mumming (acting)) allows the performer more flexibility.
 
@@ -1031,20 +1002,19 @@ Words or gestures that are not being replaced by Performance Magic remain as nor
 
 *His friend Furioso, another Sorcerous Musician, lacks Subtle Magic. If he has no instrument with him, then, unlike Orlando, he must use normal Hermetic gestures or suffer the penalty for no gestures.*
 
-
-## Recognizing Performance Magic
-
-Most people do not recognize performing an Ability as spellcasting, so the performer may act more openly than most magi; even other Hermetic magi do not automatically recognize his actions:
-
-If a Hermetic magus contemplates Fast Casting to oppose a spell and the caster is using Hermetic words and gestures, a magus may determine the Form automatically (ArM5, page 83). In other circumstances, the magus must work the Form out.
-
-**Determining the Form of a Magical Effect: Stress Die + Perception + Awareness vs. 15 – effect magnitude**
-
-If the spell is being cast with mundane words or gestures, the Ease Factor is adjusted as follows:
-
-- **–**3 if Hermetic words are spoken (and can be heard)
-- +0 if Hermetic gestures are made (and seen)
-- +3 if both words and gestures are mundane
+> ## Recognizing Performance Magic
+> 
+> Most people do not recognize performing an Ability as spellcasting, so the performer may act more openly than most magi; even other Hermetic magi do not automatically recognize his actions:
+> 
+> If a Hermetic magus contemplates Fast Casting to oppose a spell and the caster is using Hermetic words and gestures, a magus may determine the Form automatically (ArM5, page 83). In other circumstances, the magus must work the Form out.
+> 
+> **Determining the Form of a Magical Effect: Stress Die + Perception + Awareness vs. 15 – effect magnitude**
+> 
+> If the spell is being cast with mundane words or gestures, the Ease Factor is adjusted as follows:
+> 
+> - **–**3 if Hermetic words are spoken (and can be heard)
+> - +0 if Hermetic gestures are made (and seen)
+> - +3 if both words and gestures are mundane
 
 The magus may choose to vocalize loudly, or move exaggeratedly, and gain the equivalent bonuses as for loud words or exaggerated gestures. Bystanders may notice this as unusual activity, and take interest where they might not otherwise.
 
@@ -1054,11 +1024,7 @@ The magus may choose to vocalize loudly, or move exaggeratedly, and gain the equ
 
 To cast a Performance Duration spell, the magus must succeed in a roll (simple or stress die, according to circumstances) of Characteristic (varies with Ability) + Ability against an Ease Factor of 3.
 
-The spell fails if this fails, and botches if the roll botches. The spell ends when the magus ceases to perform the Ability,
-
-#### The Mysteries Revised Edition
-
-but no Concentration or Ability rolls are needed to maintain the spell while the performance continues.
+The spell fails if this fails, and botches if the roll botches. The spell ends when the magus ceases to perform the Ability, but no Concentration or Ability rolls are needed to maintain the spell while the performance continues.
 
 Formulaic spells must be devised with the new Duration to use this Ability; if so designed, the spell cannot be cast without performing.
 
@@ -1066,7 +1032,7 @@ Formulaic spells must be devised with the new Duration to use this Ability; if s
 
 *Example: Orlando sings while he casts a*  Sung Lamp Without Flame*. The light continues while he continues to sing, however badly, but ends when he stops singing. Needing to convey urgent instructions to a recalcitrant grog, he uses an enchanted device with Maintaining the Demanding Spell to maintain the spell while he stops to shout at the grog; before the Maintaining effect ends he resumes his sung performance.*
 
-## Planetary Magic — Minor Hermetic Virtue
+### Planetary Magic — Minor Hermetic Virtue
 
 Hermetic magi have developed their own understanding of the subtle astral influences of the stars. Using Planetary Magic it is possible to select an appropriate governing planet for most effects instilled in enchanted devices. The magus should select the most appropriate planet for the nature of the enchantment, and invoke its influence when casting.
 
@@ -1080,7 +1046,7 @@ The magus must then create a **Laboratory Horoscope** for this season's work to 
 
 Decide in advance on an Astrological Modifier to the Lab Total, from +1 to +5. To gain this bonus, you must succeed in a roll of:
 
-#### Stress Die + Intelligence +Artes Liberales (Astronomy) vs. Three Times the Desired Bonus
+**Stress Die + Intelligence +Artes Liberales (Astronomy) vs. Three Times the Desired Bonus**
 
 If successful, add the Astrological Modifier to the Lab Total. If the roll fails, there is no effect other than losing the bonus; it is not possible to reroll this season. On a roll of zero, roll a number of botch dice equal to the desired bonus. If any botch results, the entire season is wasted, and any vis expended in the project is lost.
 
@@ -1088,11 +1054,7 @@ Example: Astra has Intelligence 3 and an Artes Liberales (Astronomy) score of 6.
 
 #### Distractions from Planetary Magic
 
-If a maga commits her lab work to astrologically favorable hours and then loses time from the laboratory, and attempts to catch up by working harder for the rest of the season (ArM5, page
-
-
-
-103), she is forced to include work at unfavorable hours as well as favorable hours. Because of this, she loses the benefit of the Astrological Modifier if she is ever forced to miss a whole day away from the laboratory. Other than this, distractions are as stated on ArM5, page 103.
+If a maga commits her lab work to astrologically favorable hours and then loses time from the laboratory, and attempts to catch up by working harder for the rest of the season (ArM5, page 103), she is forced to include work at unfavorable hours as well as favorable hours. Because of this, she loses the benefit of the Astrological Modifier if she is ever forced to miss a whole day away from the laboratory. Other than this, distractions are as stated on ArM5, page 103.
 
 #### Lab Texts and Planetary Magic
 
@@ -1110,8 +1072,6 @@ Potent Magic can be taught as an alternative to a Magical Focus. Although this i
 
 Minor Potent Magic covers the same narrow fields as a Minor Magical Focus, and grants a +3 bonus to Lab Totals and Casting Score.
 
-#### The Mysteries Revised Edition
-
 Major Potent Magic covers the same wide fields as a Major Magical Focus, and grants a +6 bonus to Lab Totals and Casting Score.
 
 A maga with Potent Magic may also invent new Potent spells (see below) within the field of her Potent Magic, and may vary spells she knows. See Potent Magic and Potent Spells.
@@ -1120,9 +1080,9 @@ A maga with Potent Magic may also invent new Potent spells (see below) within th
 
 A Potent spell has a bonus known as its Potency, which is arrived at by combining one or more Casting Items into the design of the spell. Casting Items use the factors given in the Shape and Material Bonus table (ArM, page 110): each Casting Item provides one bonus. (If more than one bonus is possible, the spell design states which one is used.)
 
-#### Potency Score = Sum of Bonus from each Casting Item
+**Potency Score = Sum of Bonus from each Casting Item**
 
-#### Potency Bonus: Add Potency to Casting Score
+**Potency Bonus: Add Potency to Casting Score**
 
 Potency is part of the spell design; a Lab Text for a Potent spell includes the specified Casting Items and Potency Score. A magus teaching a Potent spell teaches the formula he knows, including the Casting Items and Potency Score. The level, for the purposes of inventing it as well as for casting, of a Potent spell is unaltered by the Potency Score. However, a magus may not invent a Potent spell with a Potency higher than his Magic Theory score, even with the aid of a Lab Text or teacher.
 
@@ -1130,9 +1090,9 @@ Any magus can learn a Potent spell from a Lab Text or teacher, and apply Potency
 
 To cast a Potent spell, the caster must touch the specified Casting Items. The items need not be large; they may be small and symbolic (for example, a shield-shaped brooch is still symbolically a shield). If the caster does not have the Casting Items available, the spell cannot be cast at all.
 
-## Initiation into Major Potent Magic
-
-Major Potent Magic may be (and normally is) Initiated as a progression from a Minor Potent Magic with a narrower span, in which case the Initiation requires and replaces Minor Potent Magic. This makes loss of the Minor Potent Magic an Ordeal, and so the Initiation is easier than otherwise.
+> ## Initiation into Major Potent Magic
+> 
+> Major Potent Magic may be (and normally is) Initiated as a progression from a Minor Potent Magic with a narrower span, in which case the Initiation requires and replaces Minor Potent Magic. This makes loss of the Minor Potent Magic an Ordeal, and so the Initiation is easier than otherwise.
 
 *Example: A wand provides several bonuses including +2 "repel things" and +4 "control things at a distance." A Potent version of Disguise of the Putrid Aroma could use either bonus in its Potency. Combining it with magnetite (+3 Animal) allows a design with either Potency 5 (requires Magic Theory 5) or Potency 7 (requires Magic Theory 7). The caster must hold a wand and piece of magnetite (or a wand set with magnetite) to add the Potency to his Casting Score.*
 
@@ -1146,10 +1106,7 @@ When inventing a spell within the field of his Potent Magic (including from a La
 
 A Lab Text written for this spell includes the Casting Items and Potency, and is usable by any other magus.
 
-In addition, a magus who knows a spell within the field of his Potent Magic may invent a variant spell with different Casting Items (including a variant with no
-
-
-Casting Items). If the only difference is a change in Casting Items, he may invent the variant in a single season.
+In addition, a magus who knows a spell within the field of his Potent Magic may invent a variant spell with different Casting Items (including a variant with no Casting Items). If the only difference is a change in Casting Items, he may invent the variant as if in possession of a Lab Text. If, for any reason, his current Lab Total is lower than the level of the spell, he may still invent the variant in a single season.
 
 #### Designing Covenant Libraries
 
@@ -1170,9 +1127,6 @@ A magus cannot learn a Potent spell if its Potency exceeds his Magic Theory, so 
 - *Curse of the Desert*, PeAq 25, Potency 8, Casting Items: a jade-inlaid (+4) wand (+4).
 - *Stench of Twenty Corpses*, CrAu 10, Potency 6, Casting Items: a piece of green turquoise (+4) and a pin feather (+2).
 - *Talons of the Wind*, MuAu 20, Potency 8, Casting Items: a fan (+4) constructed from the fabric of a ship's sail (+4).
-
-#### The Mysteries Revised Edition
-
 - *Cheating the Reaper*, CrCo 30, Potency 8, Casting Items: a disc inlaid with jasper (+2), amber (+3), and a sapphire (+3).
 - *Whispers Through The Black Gate*, InCo 15, Potency 9, Casting Items: green turquoise (+4) and a star ruby (+5).
 - *Curse of Circe*, MuCo(An) 30, Potency 7, Casting Items: a piece of pig skin (+7).
@@ -1184,11 +1138,10 @@ A magus cannot learn a Potent spell if its Potency exceeds his Magic Theory, so 
 - *Wizard's Icy Grip*, PeIg 30, Potency 7, Casting Items: a wand (+4) with a rock crystal sphere (+3).
 - *Haunt of the Living Ghost*, CrIm(In) 35, Potency 8, Casting Items: a rock crystal sphere (+5) set on a hazel wand (+3).
 - *Summoning the Distant Image*, InIm 25, Potency 8, Casting Items: a rock crystal sphere (+5) set on a hazel wand (+3).
-- *The Captive Voice*, ReIm 25, Potency 7, Casting Items: a mask (+3) and a necklace (+4). The spell suggests the magus wears the mask, but it is sufficient to have a small token mask on his person so long as he touches it while casting the spell.
+- *The Captive Voice*, ReIm 30, Potency 7, Casting Items: a mask (+3) and a necklace (+4). The spell suggests the magus wears the mask, but it is sufficient to have a small token mask on his person so long as he touches it while casting the spell.
 - *Weight of a Thousand Hells*, CrMe 25, Potency 9, Casting Items: a dagger (+3) with amethyst (+3) and frankincense (+3) inset in the hilt.
 - *Posing the Silent Question*, InMe 20, Potency 5, Casting Items: a silver-chased (+2) hazel (+3) wand.
 - *Vision of the Haunting Spirits*, MuMe(Im) 40, Potency 8, Casting Items: green turquoise (+4) and cinnamon (+4).
-
 - *Confusion of the Numbed Will*, ReMe 15, Potency 7, Casting Items: a magnet (+2) carved in the shape of a miniature human skull (+5).
 - *The Crystal Dart*, MuTe(Re) 10, Potency 6, Casting Items: a dagger (+2) and a spade (+4).
 - *Ward Against Faeries of the Mountain*, ReTe 15, Potency 9, Casting Items: an iron (+7) horseshoe (+2)
@@ -1200,13 +1153,9 @@ The authors of these spells often prescribe the components as "a wand inlaid wit
 
 Large items such as "a spade" may use a real spade, a miniature spade, or even a toy, so long as it is properly spade-shaped.
 
-## Vulgar Alchemy— Minor Hermetic Mystery Virtue
+## Vulgar Alchemy — Minor Hermetic Mystery Virtue
 
-Vulgar Alchemy is said to derive from hedge alchemy, the brewing of potions and charms. With Vulgar Alchemy, a maga can discover new associations between common ingredients and magical enchantments. The incorporation of folk-
-
-
-
-magic associations into Hermetic magic has brought benefits to laboratory work for all magi. As a pre-Hermetic tradition, it involves Magic Lore in addition to Magic Theory.
+Vulgar Alchemy is said to derive from hedge alchemy, the brewing of potions and charms. With Vulgar Alchemy, a maga can discover new associations between common ingredients and magical enchantments. The incorporation of folk-magic associations into Hermetic magic has brought benefits to laboratory work for all magi. As a pre-Hermetic tradition, it involves Magic Lore in addition to Magic Theory.
 
 By experimenting with new shapes and materials, a maga may create enchanted devices in other than standard forms. Verditius magi have a similar (more powerful) ability, when they use Verditius Runes to add their Philosophiae to standard Shape and Material Bonuses. (Vulgar Alchemy experimentation is not compatible with Verditius Runes.)
 
@@ -1218,61 +1167,58 @@ Personal Shape and Material Bonuses determined from previous experiments may be 
 
 #### The Experiment
 
-Begin a season of enchantment with a selection of materials (and possibly shapes) gathered in the laboratory. The magus may choose any number of components up to the limit of his Magic Theory score (since some components may be rejected, it is best to include as many as possible). Do not use the normal Shape *New Shape and Material Bonuses*
+Begin a season of enchantment with a selection of materials (and possibly shapes) gathered in the laboratory. The magus may choose any number of components up to the limit of his Magic Theory score (since some components may be rejected, it is best to include as many as possible). Do not use the normal Shape and Material Bonuses table for this process, other than to verify that the bonuses he seeks are compatible with the existing correspondences of the item. (Check with the storyguide or troupe on this.)
 
-These shapes and materials are based on the discoveries of alchemists, but can be used by any magus. They are particularly useful in Potent spells and Hermetic Alchemy.
+> ## New Shape and Material Bonuses
+> 
+> These shapes and materials are based on the discoveries of alchemists, but can be used by any magus. They are particularly useful in Potent spells and Hermetic Alchemy.
+> 
+> |---------------------|--------------------------------------------------------------|
+> | Aloe                | +3 friendship                                                |
+> | Amethyst            | +3 dreams, +4 temperance                                     |
+> | Astrolabe           | +5 Astrology                                                 |
+> | Carving of Behemoth | +3 great size                                                |
+> | Cinnamon            | +4 Imaginem, +2 destroying ghosts                            |
+> | Cinquefoil          | +4 resist poison, +3 drive away demons, +2 making amends     |
+> | Copper              | +3 bloodshed, +2 passion                                     |
+> | Emerald             | +2 calm                                                      |
+> | Frankincense        | +3 Perdo Vim, +3 dreams                                      |
+> | Garnet              | +4 repel insects, +2 strengthen body and mind                |
+> | Gold                | +4 nobility, +4 peace, +2 health                             |
+> | Ink of Hermes       | +3 Vim, +5 books                                             |
+> | Iron                | +3 bonds                                                     |
+> | Lead                | +3 hatred                                                    |
+> | Lion's Blood        | +4 protection from wild beasts, +3 courage, +2 leadership    |
+> | Magnet              | +4 Rego Corpus, +4 Rego Terram, +2 Rego                      |
+> | Mercury             | +3 arts and sciences                                         |
+> | Myrrh               | +3 spirits                                                   |
+> | Opal                | +4 memory, +2 imagination                                    |
+> | Pepper              | +2 Perdo                                                     |
+> | Peridot             | +3 protection against nightmares                             |
+> | Red gold            | +4 war, +1 Perdo                                             |
+> | Rock crystal        | +3 ice, +4 clarity                                           |
+> | Ruby                | +3 battle wounds, +2 courage                                 |
+> | Saffron             | +4 physical strength                                         |
+> | Sapphire            | +3 reducing anger, +2 Perdo Vim against spirits              |
+> | Silver              | +5 lycanthropes in general, +2 Intellego, +1 Terram          |
+> | Sulfur              | +3 binding tongues, +2 sowing discord                        |
+> | Tin                 | +3 weakness, +1 law                                          |
+> | Yellow sandalwood   | +3 binding people                                            |
+> 
 
-| Aloe                | +3 friendship                                                |
-|---------------------|--------------------------------------------------------------|
-| Amethyst            | +3 dreams, +4 temperance                                     |
-| Astrolabe           | +5 Astrology                                                 |
-| Carving of Behemoth | +3 great size                                                |
-| Cinnamon            | +4 Imaginem, +2 destroying ghosts                            |
-| Cinquefoil          | +4 resist poison, +3 drive away demons, +2<br>making amends  |
-| Copper              | +3 bloodshed, +2 passion                                     |
-| Emerald             | +2 calm                                                      |
-| Frankincense        | +3 Perdo Vim, +3 dreams                                      |
-| Garnet              | +4 repel insects, +2 strengthen body and<br>mind             |
-| Gold                | +4 nobility, +4 peace, +2 health                             |
-| Ink of Hermes       | +3 Vim, +5 books                                             |
-| Iron                | +3 bonds                                                     |
-| Lead                | +3 hatred                                                    |
-| Lion's Blood        | +4 protection from wild beasts, +3 courage,<br>+2 leadership |
-| Magnet              | +4 Rego Corpus, +4 Rego Terram, +2 Rego                      |
-| Mercury             | +3 arts and sciences                                         |
-| Myrrh               | +3 spirits                                                   |
-| Opal                | +4 memory, +2 imagination                                    |
-| Pepper              | +2 Perdo                                                     |
-| Peridot             | +3 protection against nightmares                             |
-| Red gold            | +4 war, +1 Perdo                                             |
-| Rock crystal        | +3 ice, +4 clarity                                           |
-| Ruby                | +3 battle wounds, +2 courage                                 |
-| Saffron             | +4 physical strength                                         |
-| Sapphire            | +3 reducing anger, +2 Perdo Vim against<br>spirits           |
-| Silver              | +5 lycanthropes in general, +2 Intellego,<br>+1 Terram       |
-| Sulfur              | +3 binding tongues, +2 sowing discord                        |
-| Tin                 | +3 weakness, +1 law                                          |
-|                     |                                                              |
-
-and Material Bonuses table for this process, other than to verify that the bonuses he seeks are compatible with the existing
-
-Yellow sandalwood +3 binding people
-
-correspondences of the item. (Check with the storyguide or troupe on this.)
-
-
-## Repeated Experiments to Determine a Category
-
-The broader the category, and the higher the proposed bonus, the more the magus must experiment to confirm that the material is sufficient. The number of successful tests on a component varies, but the following formula is suggested:
-
-- **3 x proposed bonus score, plus a scope factor:**
-- +3 if the scope is similar to the field of a Minor Magical Focus (or narrower)
-- +9 if the scope is similar to the field of a Major Magical Focus
-- +9 if the scope is a single Technique + Form combination
-- +12 if the scope is a single Hermetic Form
-- +15 if the scope is a single Hermetic Technique
-
-Wider scopes are not possible.
+> ## Repeated Experiments to Determine a Category
+> 
+> The broader the category, and the higher the proposed bonus, the more the magus must experiment to confirm that the material is sufficient. The number of successful tests on a component varies, but the following formula is suggested:
+> 
+> **3 x proposed bonus score, plus a scope factor:**
+> 
+> - +3 if the scope is similar to the field of a Minor Magical Focus (or narrower)
+> - +9 if the scope is similar to the field of a Major Magical Focus
+> - +9 if the scope is a single Technique + Form combination
+> - +12 if the scope is a single Hermetic Form
+> - +15 if the scope is a single Hermetic Technique
+> 
+> Wider scopes are not possible.
 
 Complete the enchantment, and determine the experimentation rolls. If he avoids disaster, note the Experimentation Bonus (as in ArM5, page 107):
 
@@ -1282,13 +1228,11 @@ Complete the enchantment, and determine the experimentation rolls. If he avoids 
 
 Now the magus must determine which experimental elements worked to help the enchantment, and which failed. (Record all the results for future reference.) This is done by dividing up the Experimentation Bonus between the components. If he included any materials or shapes with a known bonus that apply to the enchantment, it is assumed they automatically succeed and use up their points from the experimentation pool before any others are tested; this may leave no points to allocate.
 
-For items without known bonuses, for each Casting Item in turn, decide on
+> ## Ink of Hermes
+> 
+> This ink (also called "Hermaic Ink") is mentioned in many alchemical texts. The ingredients are four drams of myrrh, three karian figs, seven pits of Nikolaus dates, seven dried pine cones, seven piths of single-stemmed wormwood, seven wings of the Hermaic ibis, and spring water. The ingredients are burned, reduced, and mixed. When properly prepared, the ink provides powerful Material Bonuses, listed on the New Shape and Material Bonuses table.
 
-## Ink of Hermes
-
-This ink (also called "Hermaic Ink") is mentioned in many alchemical texts. The ingredients are four drams of myrrh, three karian figs, seven pits of Nikolaus dates, seven dried pine cones, seven piths of single-stemmed wormwood, seven wings of the Hermaic ibis, and spring water. The ingredients are burned, reduced, and mixed. When properly prepared, the ink provides powerful Material Bonuses, listed on the New Shape and Material Bonuses table.
-
-a bonus score you think it may have contributed, and roll against Perception and Magic Lore. If the storyguide agrees the bonus seems *particularly* appropriate, he can reduce the Ease Factor by a story factor of up to +5 (typically +1 to +3), but if it's inappropriate, he can increase the Ease Factor by a like amount.
+For items without known bonuses, for each Casting Item in turn, decide on a bonus score you think it may have contributed, and roll against Perception and Magic Lore. If the storyguide agrees the bonus seems *particularly* appropriate, he can reduce the Ease Factor by a story factor of up to +5 (typically +1 to +3), but if it's inappropriate, he can increase the Ease Factor by a like amount.
 
 **Simple Die + Perception + Magic Lore vs. an Ease Factor of 3 + (3 x proposed Material or Shape Bonus) +/– story factor**
 
@@ -1300,12 +1244,11 @@ Work through all the components, until you have used all points from the Experim
 
 When the testing of shape and material components is finished, you may return to the Lab Total calculation. The magus's Vulgar Alchemy Lab Total for this experiment is:
 
-
-
+**Intelligence + Magic Theory + Technique + Form + Aura + Magic Lore + Experimentation Bonus + Successful Component Bonuses**
 
 As always, the total of Shape and Material Bonuses is limited by the magus's Magic Theory. The final Lab Total determines the success or failure of the project, and how many charges are invested in a charged device.
 
-Once the magus has determined and reocrded the Vulgar Alchemy Lab Total, others can reproduce the item from the Lab Text, but will not benefit from the special Shape and Material Bonuses. The Lab Text does state which items worked, and allows the magus to omit the failed items in future repeats. Furthermore he need not experiment again to repeat the enchantment, and may include other known components. If he repeats without experimentation, the Lab Total is:
+Once the magus has determined and recorded the Vulgar Alchemy Lab Total, others can reproduce the item from the Lab Text, but will not benefit from the special Shape and Material Bonuses. The Lab Text does state which items worked, and allows the magus to omit the failed items in future repeats. Furthermore he need not experiment again to repeat the enchantment, and may include other known components. If he repeats without experimentation, the Lab Total is:
 
 **Intelligence + Magic Theory + Technique + Form + Aura + Magic Lore + Component Bonuses**
 
@@ -1315,36 +1258,33 @@ If the magus writes out a Lab Text for others, they must follow his design as to
 
 Initially, the bonuses are personal to a maga's own magic and to a specific enchantment effect. She can apply discovered bonuses to enchantments (including invested devices) that satisfy the similar spells relationship to the original effect, and they can be applied without further experimentation. Magi sometimes experiment at making charged devices in order to determine Shape and Material Bonuses they can use for planned invested devices.
 
-A new Casting Item may be refined into wider categories (such as those in the Shape and Material Bonuses table) by performing more experiments using the same materials. Once the maga has an item with a consistent bonus and several applications, and all the applications are compatible (subject to storyguide or
+A new Casting Item may be refined into wider categories (such as those in the Shape and Material Bonuses table) by performing more experiments using the same materials. Once the maga has an item with a consistent bonus and several applications, and all the applications are compatible (subject to storyguide or troupe approval), she may merge these to create a category similar to the Shape and Material Bonus table categories.
 
-## Example of Vulgar Alchemy
-
-Julius has Magic Theory 6, Perception +1, Magic Lore 5. He plans to make powder (a charged device) to cast a concealing illusion over items.
-
-He included the maximum six items (fur from the tip of a fox's tail, foxglove petals, mint leaves, dock leaves, rose petals, rose hips) in the experiment. Julius claims that foxes are masters of trickery, and their fur is particularly appropriate — the storyguide agrees.
-
-He chooses a Risk Modifier of 2, and his player rolls 6, so the Experimentation Bonus is 8.
-
-He must now divide the Experimental Bonus between the components. The first item he looks at is "fur from the tip of a fox's tail" and tries for a +3 bonus. The roll has an Ease Factor of 12 (3+[3x3]), with a –3 reduction from the storyguide for an appropriate connection. His player rolls 2 + Per 1 + Magic Lore 5 = 8. No, fox fur did not help this experiment.
-
-Moving on to foxglove petals, trying again for the first +3 bonus factor. Again Julius claims that the foxiness of foxgloves is appropriate. This meets with less agreement, and the story factor only provides a –2 reduction. His player rolls 8 +1 +5 = 14 — success! The foxglove did add +3 to the experiment.
-
-None of the remaining components has enough of a connection to receive a story factor adjustment, but Julius decides to continue, now looking at mint leaves for another +3 bonus, his player rolling 2+1+5 = 7: a failure. He tests the dock leaves for a +3 bonus, his player rolling 6+1+5=12: a success — they have a +3 bonus too.
-
-Six points have been allocated, leaving 2 more. He tests rose petals for a +2 bonus: his player rolling 1+1+5=7 against an Ease Factor of 9: a failure. There is only one component left (rose hips) and 2 points remain still. Julius may try for an easy roll for a +1 bonus, or an average roll for a +2 bonus. Being confident, he tries for the +2 bonus, but his player rolls a 2 +1+5 = 8 vs. an Ease Factor of 9: a failure. The excess points are lost.
-
-In this experiment, two +3 bonuses were discovered, and the final 2 points were lost. Note that Julius could test the bonuses in any order.
-
-Julius can now include the discovered Shape and Material Bonuses in his illusion powder, but only the +6 that were successfully tested, not the +8 of the Experimental Bonus roll, and only up to his Magic Theory score, as normal.
-
-troupe approval), she may merge these to create a category similar to the Shape and Material Bonus table categories.
+> ## Example of Vulgar Alchemy
+> 
+> Julius has Magic Theory 6, Perception +1, Magic Lore 5. He plans to make powder (a charged device) to cast a concealing illusion over items.
+> 
+> He included the maximum six items (fur from the tip of a fox's tail, foxglove petals, mint leaves, dock leaves, rose petals, rose hips) in the experiment. Julius claims that foxes are masters of trickery, and their fur is particularly appropriate — the storyguide agrees.
+> 
+> He chooses a Risk Modifier of 2, and his player rolls 6, so the Experimentation Bonus is 8.
+> 
+> He must now divide the Experimental Bonus between the components. The first item he looks at is "fur from the tip of a fox's tail" and tries for a +3 bonus. The roll has an Ease Factor of 12 (3+[3x3]), with a –3 reduction from the storyguide for an appropriate connection. His player rolls 2 + Per 1 + Magic Lore 5 = 8. No, fox fur did not help this experiment.
+> 
+> Moving on to foxglove petals, trying again for the first +3 bonus factor. Again Julius claims that the foxiness of foxgloves is appropriate. This meets with less agreement, and the story factor only provides a –2 reduction. His player rolls 8 +1 +5 = 14 — success! The foxglove did add +3 to the experiment.
+> 
+> None of the remaining components has enough of a connection to receive a story factor adjustment, but Julius decides to continue, now looking at mint leaves for another +3 bonus, his player rolling 2+1+5 = 7: a failure. He tests the dock leaves for a +3 bonus, his player rolling 6+1+5=12: a success — they have a +3 bonus too.
+> 
+> Six points have been allocated, leaving 2 more. He tests rose petals for a +2 bonus: his player rolling 1+1+5=7 against an Ease Factor of 9: a failure. There is only one component left (rose hips) and 2 points remain still. Julius may try for an easy roll for a +1 bonus, or an average roll for a +2 bonus. Being confident, he tries for the +2 bonus, but his player rolls a 2 +1+5 = 8 vs. an Ease Factor of 9: a failure. The excess points are lost.
+> 
+> In this experiment, two +3 bonuses were discovered, and the final 2 points were lost. Note that Julius could test the bonuses in any order.
+> 
+> Julius can now include the discovered Shape and Material Bonuses in his illusion powder, but only the +6 that were successfully tested, not the +8 of the Experimental Bonus roll, and only up to his Magic Theory score, as normal.
 
 *Example: Although Julius failed when he tested "fur from a fox's tail" in his first glamor powders, he later succeeds in creating powders for a number of CrIm visual illusions, all with a +3 bonus from fox-tail fur. The storyguide agrees that he has established a category of effects, and that Julius may use "fur from a fox's tail" for a bonus "+3 to create a visual illusion" in any enchantment, without further testing.*
 
 Once the magus has determined a category to which a bonus applies, he may teach this to others. When a magus writes a tractatus on Magic Theory, he may choose a Shape or Material and its particular bonus and category as the thesis for the book. He may do this provided his Quality (Com + 6 + bonuses) for writing the book is at least twice the Bonus Level.
 
 Those who study the book then both learn Magic Theory (Quality XP) and also learn how to use this component in their own enchantments. When they, in turn, teach students, through direct teaching or by writing in a summa, they incorporate all their experience of enchantment into their teaching. Eventually, the new magical correspondences may become a standard part of Hermetic theory taught to all students.
-
 
 ## Withstand Casting — Minor Hermetic Virtue
 
@@ -1359,8 +1299,6 @@ The Virtue decreases the severity of the Fatigue lost in the exact manner of the
 #### Withstand Casting and Vulnerable Casting
 
 You may not start your character with both Vulnerable Casting and Withstand Casting. However, she may acquire both in the course of play (Withstand Casting from Initiation rituals or beneficial Twilight effects;
-
-#### The Mysteries Revised Edition
 
 Vulnerable Casting from Ordeals or bad Twilight effects).
 
@@ -1384,21 +1322,20 @@ It is, however, useful to have the Withstand Casting Virtue even with Life-Linke
 
 Normally Virtues and Flaws are applied continuously or to the cycle of days, moons, or seasons. It is also possible for Virtues and Flaws to be linked to astrological cycles or subjects. A magus need not study Hermetic Astrology itself in order to have (or Initiate into) astrologically linked Virtues or Flaws.
 
-*Astrological Magical Focus and Potent Magic*
+### Astrological Magical Focus and Potent Magic
 
 A Magical Focus or Potent Magic covers a minor or limited area. Examples are given in ArM5 for both Major and Minor Magical Focus. Potent Magic is defined as covering the same possible areas as a Magical Focus. For details of Potent Magic Virtues, see Potent Magic in this chapter.
 
 It is possible for the magical subject area to be determined by astrological correspondences:
 
-
 **Major Magical Focus (Sign or Planet) or Major Potent Magic (Sign or Planet):**
 
-- Any magus may have a Major Magical Focus or Major Potent Magic covering effects governed by a single astrological sign. •
-- Any magus may have a Major Magical Focus or Major Potent Magic covering effects governed by a single astrological planet. •
+- Any magus may have a Major Magical Focus or Major Potent Magic covering effects governed by a single astrological sign.
+- Any magus may have a Major Magical Focus or Major Potent Magic covering effects governed by a single astrological planet.
 
 **Minor Magical Focus (House) or Minor Potent Magic (House):**
 
-Any magus may have a Minor Magical Focus or Minor Potent Magic covering effects governed by a single astrological house. •
+- Any magus may have a Minor Magical Focus or Minor Potent Magic covering effects governed by a single astrological house.
 
 Spells cast with a benefit from Potent Magic or a Focus in a sign, planet, or house are Astrological spells. Other spells cast by the maga need not be Astrological. Astrological spells are discussed further in Chapter 6: Hermetic Astrology.
 
@@ -1408,11 +1345,7 @@ The Initiation of astrological Potent Magics and Foci differs slightly from the 
 
 An Initiate may be taught Potent Magic for his own birth sign by any magus who has Potent Magic (Sign), no matter which Potent Magic (Sign) the Mystagogue has. Similarly for Potent Magic (Planet) and (House), and Magical Foci.
 
-Indeed, the connection is so strong that magi Initiating into the magic of their birth have a +1 sympathy bonus for Initiation, while magi Initiating other conjunctions have a sympathy penalty of –1, and the sign or house opposite their
-
-#### The Mysteries Revised Edition
-
-birth sign or house causes a penalty of –3. (Planets do not oppose each other.)
+Indeed, the connection is so strong that magi Initiating into the magic of their birth have a +1 sympathy bonus for Initiation, while magi Initiating other conjunctions have a sympathy penalty of –1, and the sign or house opposite their birth sign or house causes a penalty of –3. (Planets do not oppose each other.)
 
 *Example: Stellus is being Initiated into astral magics by his Mystagogue leader Astera. Stellus was born under the sign of Capricorn, with Venus in the fourth house. He may learn Major Potent Magic Sign (Capricorn), Major Potent Magic (Venus) and Minor Potent Magic (Genitor, the fourth house), even though Astera was born under (and has learned Potency for) Sagittarius, Mars, and Valetudo (the sixth house).*
 
@@ -1426,11 +1359,9 @@ The properties (gender, temperament, element) of the signs of the Zodiac are exp
 
 In the Virtue and Flaw of Cyclic Magic, it is stated that the bonus or penalty must normally apply for an amount of time equal to the time when it does not. In the astrological cycles, the cycle may apply for less time than it does not, so the bonus or penalty is increased to match this:
 
-- Male and female signs divide the signs (and year) into two equal halves. Cyclic magic (male signs) and cyclic magic (female signs) attract the standard bonus or penalty of 3. •
-- The cardinal signs, fixed signs and mutable signs each occupy one-third of the year and leave out two-thirds of the year: The bonus or penalty is increased to 5. •
-- Signs of a single element (earth, air, fire, water) occupy one-quarter of •
-
-the year: The bonus or penalty is increased to 6.
+- Male and female signs divide the signs (and year) into two equal halves. Cyclic magic (male signs) and cyclic magic (female signs) attract the standard bonus or penalty of 3.
+- The cardinal signs, fixed signs and mutable signs each occupy one-third of the year and leave out two-thirds of the year: The bonus or penalty is increased to 5.
+- Signs of a single element (earth, air, fire, water) occupy one-quarter of the year: The bonus or penalty is increased to 6.
 
 As stated in ArM5, page 41, the bonus from Cyclic Magic only applies to Lab Totals if it covers the whole season. A penalty from Cyclic Magic applies to a Lab Total if it applies at any point of the season.
 
@@ -1442,13 +1373,10 @@ A Virtue or Flaw normally applies all the time, but for some characters, it may 
 
 Mutability affects Major and Minor Virtues and Flaws differently:
 
-- For a Major Virtue or Flaw, the effects only apply in mutable signs, and the Virtue or Flaw is reduced to being Minor. (If this is not possible or sensible, then the Mutable variant cannot be applied.) •
-- For a Minor Virtue or Flaw, the effects only apply during the mutable signs, but the effect is doubled in intensity. (If this is not possible or sensible, then the Mutable variant cannot be applied.) •
+- For a Major Virtue or Flaw, the effects only apply in mutable signs, and the Virtue or Flaw is reduced to being Minor. (If this is not possible or sensible, then the Mutable variant cannot be applied.)
+- For a Minor Virtue or Flaw, the effects only apply during the mutable signs, but the effect is doubled in intensity. (If this is not possible or sensible, then the Mutable variant cannot be applied.)
 
-*Example: Raucus has a Mutable Blatant Gift.: The extra penalties of the Blatant Gift apply only during the signs of Sagittarius, Pisces, Gemini, and Virgo, and he has a "normal" Gift* 
-
-
-*during the other eight signs. Mutable Blatant Gift is a Minor Flaw.*
+*Example: Raucus has a Mutable Blatant Gift.: The extra penalties of the Blatant Gift apply only during the signs of Sagittarius, Pisces, Gemini, and Virgo, and he has a "normal" Gift during the other eight signs. Mutable Blatant Gift is a Minor Flaw.*
 
 *Effica has Mutable Puissant Terram. During the three mutable signs she has a double bonus of +6 to her Terram Art, but no bonus during the other eight signs.*
 
@@ -1476,10 +1404,7 @@ This Mastery Ability is not commonly available to most magi, having been discove
 
 More Mastery Abilities are listed for the Mercurian cults (see Chapter 13: Mercurian Magic), some others of which may be taught outside the tradition.
 
-
-## Chapter Five
-
-# Hermetic Alchemy
+# Chapter 5: Hermetic Alchemy
 
 In the 13th century, the practice of alchemy is a new science that is proving popular all over Europe, following the introduction of the alchemical principles from the Arabic world in the mid-12th century. The alchemists seek to learn the innate properties of materials, and by their experiments to refine substances and seek new discoveries, such as dyes, alloys, and useful chemicals or drugs. There are alchemists in most large European cities and it is a growing and fashionable area of study. The secret of turning lead in to gold is the ultimate goal of much mundane alchemy, but even unGifted alchemists also seek spiritual perfection, and the science draws upon what is believed to be an ancient secret of mystical initiates.
 
@@ -1491,52 +1416,49 @@ Hermetic Alchemy lets the magus extract more vis from an aura, or to extract For
 
 #### Improved Extraction of Vis
 
-A magus can increase his Lab Total for vis extraction by crafting an object to provide the physical form for the vis, choosing one that provides Shape and
-
-## The History of Alchemy
-
-Alchemy is an ancient tradition. The earliest known Greek alchemical text, dating from the first century, is the *Pysika kai Mystika* by Pseudo-Democritus. Synesius states that the work was originally in four books about the manufacture of gold, silver, gems, and purple. These, together with the school of Mary the Jewess (who was credited with inventing an efficient still, the water bath and the kerotakis), form the early basis for alchemical thought, although the ultimate origin of Pseudo-Democritus' alchemical tradition was probably Bolos of Mendes who lived two centuries before Christ.
-
-This tradition was later amalgamated with Gnostic concepts, such as the Ouroboros, in the *Gold-Making of Cleopatra*, and the *Dialogue of Cleopatra*, which describe the working of metals in terms of the death and resurrection of the soul, and the late third century *Visions of Zosimos*. In Zosimos, the alchemical process is identified with Jesus Christ, who, as the Son of God, became one with Adam, in order to restore him to his place among the Men of Light.
-
-The Greek works were translated into Arabic in the ninth century and the theory expanded by Jabir Ibn Hayyan, who stressed the role of mercury, and the qualities of hot, cold, moist, and dry, which were to become the cornerstone of alchemical theory. The simile of marriage for a chemical process first appears in the *Turba Philosoporum*, a translation of an Arabic work that may have been written as early as 900 AD. Rhases, the great physician, also wrote on alchemical theory, discussing the production of an elixir through a process of coagulation.
-
-Avicenna in his work *De Congelatione*, however, denied the possibility of real transmutation, although he did believe alchemists could make effective imitations. This influenced Albertus Magnus, Vincent of Beauvais and Ramon Lull. However, another work attributed to Avicenna, *De Anima in Arte Alchimiae*, supported transformation, thus enabling the alchemists to dismiss *De Congelatione* as a blind.
-
-Thus, when alchemy entered Europe in the 12th century, the sulfur-mercury theory of metals, the elixir, the color sequence produced during the process, the ferment, the separation and conjunction of elements or qualities, the process of distillation and the analogies of marriage, death, and birth and their mystical interpretation, were all present in Morienus Romanus' *Liber de Compositione Alchemiae*, the first Arabic alchemical work to be translated into Latin, by Robert of Chester in 1144. This was followed by Gerard of Cremona's translation of *De Aluminibus et Salibus*, attributed to Rhases, and the *Aristoteles de Perfecto Magisterio*. In the 13th century Vincent of Beauvais, Aquinas, Ramon Lull, and Roger Bacon all discussed alchemy in their encyclopedic works, and after their deaths alchemical works attributed to them began to appear.
-
-
-## Alchemical Equipment New Spell
-
-An assortment of the following equipment can be found in any Hermetic Alchemist's lab.
-
-**Flasks:** Ceramic, crystal, or glass containers in a variety of shapes, sizes, and thicknesses.
-
-**Still Heads:** Flask lids, with glass pipes leading to other flasks.
-
-**Cucurbit:** A flask with a still head attached.
-
-**Alembic:** A distilling device that looks like a flask with a narrow-necked opening leading down from the top.
-
-**Pelican:** A still with two necks that allow a distilled substance to be returned to its original nature, ready for re-distillation and subsequent further refinement.
-
-**Philosopher's Egg:** A special retort (similar to an alembic) into which substances are distilled. Eventually the Philosopher's Stone will be "hatched" from this "egg."
-
-**Kerotakis:** A closed vessel in which materials such as thick leaves of metal are exposed to vapors in order to distill essences.
-
-**Funnels:** Made of glass, with a selection of cloth and charcoal filters.
-
-**Mortars and Pestles:** Made of stone or ceramic, designed for grinding down ingredients.
-
-**Crystallizing Dishes:** Shallow dishes allowing for rapid evaporation.
-
-Material Bonuses for the activity (see below).
+A magus can increase his Lab Total for vis extraction by crafting an object to provide the physical form for the vis, choosing one that provides Shape and Material Bonuses for the activity (see below).
 
 **Alchemical Vis Extraction Lab Total = Creo + Vim + Intelligence + Magic Theory + Aura Modifier + Shape and Material Bonuses**
 
 **Vim Vis Extracted = one-tenth (round up) of Vis Extraction Lab Total**
 
 A Verditius magus may also add his Craft Ability and incorporate Verditius Runes (Philosophiae).
+
+> ## The History of Alchemy
+> 
+> Alchemy is an ancient tradition. The earliest known Greek alchemical text, dating from the first century, is the *Pysika kai Mystika* by Pseudo-Democritus. Synesius states that the work was originally in four books about the manufacture of gold, silver, gems, and purple. These, together with the school of Mary the Jewess (who was credited with inventing an efficient still, the water bath and the kerotakis), form the early basis for alchemical thought, although the ultimate origin of Pseudo-Democritus' alchemical tradition was probably Bolos of Mendes who lived two centuries before Christ.
+> 
+> This tradition was later amalgamated with Gnostic concepts, such as the Ouroboros, in the *Gold-Making of Cleopatra*, and the *Dialogue of Cleopatra*, which describe the working of metals in terms of the death and resurrection of the soul, and the late third century *Visions of Zosimos*. In Zosimos, the alchemical process is identified with Jesus Christ, who, as the Son of God, became one with Adam, in order to restore him to his place among the Men of Light.
+> 
+> The Greek works were translated into Arabic in the ninth century and the theory expanded by Jabir Ibn Hayyan, who stressed the role of mercury, and the qualities of hot, cold, moist, and dry, which were to become the cornerstone of alchemical theory. The simile of marriage for a chemical process first appears in the *Turba Philosoporum*, a translation of an Arabic work that may have been written as early as 900 AD. Rhases, the great physician, also wrote on alchemical theory, discussing the production of an elixir through a process of coagulation.
+> 
+> Avicenna in his work *De Congelatione*, however, denied the possibility of real transmutation, although he did believe alchemists could make effective imitations. This influenced Albertus Magnus, Vincent of Beauvais and Ramon Lull. However, another work attributed to Avicenna, *De Anima in Arte Alchimiae*, supported transformation, thus enabling the alchemists to dismiss *De Congelatione* as a blind.
+> 
+> Thus, when alchemy entered Europe in the 12th century, the sulfur-mercury theory of metals, the elixir, the color sequence produced during the process, the ferment, the separation and conjunction of elements or qualities, the process of distillation and the analogies of marriage, death, and birth and their mystical interpretation, were all present in Morienus Romanus' *Liber de Compositione Alchemiae*, the first Arabic alchemical work to be translated into Latin, by Robert of Chester in 1144. This was followed by Gerard of Cremona's translation of *De Aluminibus et Salibus*, attributed to Rhases, and the *Aristoteles de Perfecto Magisterio*. In the 13th century Vincent of Beauvais, Aquinas, Ramon Lull, and Roger Bacon all discussed alchemy in their encyclopedic works, and after their deaths alchemical works attributed to them began to appear.
+
+> ## Alchemical Equipment New Spell
+> 
+> An assortment of the following equipment can be found in any Hermetic Alchemist's lab.
+> 
+> **Flasks:** Ceramic, crystal, or glass containers in a variety of shapes, sizes, and thicknesses.
+> 
+> **Still Heads:** Flask lids, with glass pipes leading to other flasks.
+> 
+> **Cucurbit:** A flask with a still head attached.
+> 
+> **Alembic:** A distilling device that looks like a flask with a narrow-necked opening leading down from the top.
+> 
+> **Pelican:** A still with two necks that allow a distilled substance to be returned to its original nature, ready for re-distillation and subsequent further refinement.
+> 
+> **Philosopher's Egg:** A special retort (similar to an alembic) into which substances are distilled. Eventually the Philosopher's Stone will be "hatched" from this "egg."
+> 
+> **Kerotakis:** A closed vessel in which materials such as thick leaves of metal are exposed to vapors in order to distill essences.
+> 
+> **Funnels:** Made of glass, with a selection of cloth and charcoal filters.
+> 
+> **Mortars and Pestles:** Made of stone or ceramic, designed for grinding down ingredients.
+> 
+> **Crystallizing Dishes:** Shallow dishes allowing for rapid evaporation.
 
 #### Form-Specific Vis
 
@@ -1554,19 +1476,15 @@ To determine whether a Shape and Material table Bonus applies for vis extraction
 
 Any component that would add a bonus to this guideline effect can be used to benefit the Lab Total for this extraction. The object can take the form of a compound device (ArM5, page 97) with multiple components, but the total Shape and Material Bonus is limited by the magus's Magic Theory score.
 
-*Example: Rufus wishes to extract Vim vis. He considers that Demon's Eternal Oblivion would be a Vim effect if enchanted, and so a piece of red coral (+10 vs. demons) is appropriate. He has Intelligence +3, Creo 15, Vim 7, Magic Theory 7 and the aura is 5. His Magic Theory is less that the possible bonus from red coral, so limits it. His Lab Total is: Creo 15 + Vim 7 + Int +3 + Magic Theory 7 + aura 5 + bonus (limited by Magic Theory) 7 = 44. Rufus extracts five pawns of Vim* 
+*Example: Rufus wishes to extract Vim vis. He considers that Demon's Eternal Oblivion would be a Vim effect if enchanted, and so a piece of red coral (+10 vs. demons) is appropriate. He has Intelligence +3, Creo 15, Vim 7, Magic Theory 7 and the aura is 5. His Magic Theory is less that the possible bonus from red coral, so limits it. His Lab Total is: Creo 15 + Vim 7 + Int +3 + Magic Theory 7 + aura 5 + bonus (limited by Magic Theory) 7 = 44. Rufus extracts five pawns of Vim vis. (He would only have extracted four pawns without Hermetic Alchemy.)*
 
-Hermetic Alchemy fills an object with several pawns of vis, but magi often find it useful to have individual pawns of raw vis in separate objects, handy for use when needed. The following spell divides raw vis among several objects.
-
-#### Divide the Gathered Essence ReVi 25
-
-R: Touch, D: Mom, T: Group Transfers the raw vis from an item into one or more containers. The maga
-
-divided. (Base 10, +1 Touch, +2 Group)
-
-may freely choose how the vis is to be
-
-*vis. (He would only have extracted four pawns without Hermetic Alchemy.)* 
+> ## New Spell
+> 
+> Hermetic Alchemy fills an object with several pawns of vis, but magi often find it useful to have individual pawns of raw vis in separate objects, handy for use when needed. The following spell divides raw vis among several objects.
+> 
+> **Divide the Gathered Essence ReVi 25**
+> 
+> R: Touch, D: Mom, T: Group Transfers the raw vis from an item into one or more containers. The maga may freely choose how the vis is to be divided. (Base 10, +1 Touch, +2 Group)
 
 *Later he decides he would really like some Ignem vis, but lacks a ready source, so decides to extract some from the aura. He posits a* Ward Against Heat and Flames *effect, and puts together a piece of fired clay (+4 contain or protect from fire) with a lead seal (+4 wards). The bonus from these is +8, which again exceeds his Magic Theory. His Ignem score is 19, which is greater than his Vim, so his Lab Total is again 44. Extracting Form-specific vis halves the yield to (44/20) rounded up, so he extracts three pawns of Ignem vis.*
 
@@ -1575,7 +1493,6 @@ may freely choose how the vis is to be
 Philosophic Alchemy builds on Hermetic Alchemy and lets the magus settle the alchemical object into the process so that it digests and ferments on its own, and extract Vim or Form-specific vis from the aura (by Hermetic Alchemy) with little attention from the magus. (This Virtue requires Hermetic Alchemy as a prerequisite.)
 
 Alternatively, the magus may process the object to create ready-opened enchantment spaces instead of raw vis. The decision whether to extract vis or create ready-opened spaces is made at the start of the process.
-
 
 If a maga already has Minor Philosophic Alchemy when she seeks to Initiate the Major Virtue, the new Virtue replaces the old. The "loss" of the Minor Virtue counts as an Ordeal Flaw (loss of a Virtue) for the Initiation.
 
@@ -1589,9 +1506,7 @@ He must attend daily to the extraction, so whatever activities he plans must rev
 
 *Example: Parella starts a Major Philosophic Alchemy vis extraction in her laboratory. She has a Creo Vim Lab Total of 62, plus a bonus 9 (limited by her Magic Theory 9) for the Shape and Material of the device, and hopes to get (71/10 rounded up) eight pawns of Vim vis. She*  *also has a Perdo Mentem Lab Total of 63, and wants to invent a level 30 spell, which she can do in one season while also tending the digesting vis extraction.*
 
-*However, a party of covenant grogs has an unfortunate accident and needs rescuing, and she* 
-
-*is called away from her lab for 11 days. This is a 12-point penalty to vis extraction, reducing her Creo Vim Lab Total to 49, so only five pawns of vis are extracted at the end of the season.*
+*However, a party of covenant grogs has an unfortunate accident and needs rescuing, and she is called away from her lab for 11 days. This is a 12-point penalty to vis extraction, reducing her Creo Vim Lab Total to 49, so only five pawns of vis are extracted at the end of the season.*
 
 *The 11 days' absence adds to the seven days' distraction from spell research (for attending to the vis extraction) and her Perdo Mentem Lab Total is penalized by 18 days or 26 points. Her spell Lab Total is now 63 – 26 = 37. She does not complete the spell, but only accumulates (37 – 30) = 7 points toward inventing it, and threatens to turn the grogs into toads.*
 
@@ -1613,8 +1528,7 @@ An item opened by Philosophic Alchemy is ready for enchantment, or may be opened
 
 *She is using a small piece of red coral (semiprecious gem, x2 size) that requires 24 pawns of Vim vis to open. Since she has a Magic Theory of 9 she can handle 18 pawns of vis, which is normally not enough to open such a device. However, since eight spaces are already open, she chooses to reduce the vis requirement instead of creating bonus spaces: she only needs 16 pawns of vis — well within her capacity.*
 
-
-## The Lesser Elixir — Minor Mystery Virtue
+### The Lesser Elixir — Minor Mystery Virtue
 
 Alchemists quest for eternal life. Some believe that if only they can create the perfect Longevity Ritual, they can live forever. As a stage along this path they have discovered an improved formula known as the Lesser Elixir of Life.
 
@@ -1634,38 +1548,38 @@ The magus performs his Longevity Ritual and invests the required vis, which prep
 
 By spending a season in the laboratory, the magus creates or extends a list of special ingredients. Each time the magus reinvents the Lesser Elixir, he adds an ingredient to the list: each ingredient adds points to a total of Elixir Points. The **Elixir Level** is determined like an Art, using Elixir Points instead of XP, but may not exceed his Magic Theory when he devises the formula. The Elixir Level is added to the normal Aging Bonus of the base Longevity Ritual.
 
-## Longevity Ritual Vis Limits
+> ## Longevity Ritual Vis Limits
+> 
+> When a Longevity Ritual is designed in the laboratory, the enchantment requires one pawn of vis for every five years of age (rounded up). The magus designing the Longevity Ritual can handle twice his Magic Theory in vis in a season-long laboratory activity. This places a ceiling on the age of the magus for whom the potion is designed.
+> 
+> When rebrewing the Longevity Ritual after an Aging Crisis (or to prepare a dose as base for the Lesser Elixir), using the Lab Text for the ritual, the process takes no significant investment of time — in practice, it takes about 15 minutes per magnitude of the Lab Text of the Longevity Ritual, as if casting a ritual spell. The limits on the vis handling for this process are those of a magus casting a ritual: Art specific vis is used, limited for each Art by the magus's Art score.
+> 
+> Thus, if the magus obtained a Longevity Ritual formula from a specialist potion brewer, with a bonus set to last him several centuries (in principle), he can rebrew replacement doses for himself without needing to spend his whole life studying Magic Theory.
+> 
+> In practice, since the Longevity Ritual itself inflicts Warping Points for a continuing effect, most magi succumb to Final Twilight before the limits of the enchanter's ability to design aging bonus formulae. Even the extra bonus points awarded by the Lesser Elixir are mostly cosmetic, a stay in the face of the looming end of Twilight.
+> 
+> The only way the alchemist can hope to extend their Longevity Potions into true immortality is to discover the secrets of the Great Elixir.
 
-When a Longevity Ritual is designed in the laboratory, the enchantment requires one pawn of vis for every five years of age (rounded up). The magus designing the Longevity Ritual can handle twice his Magic Theory in vis in a season-long laboratory activity. This places a ceiling on the age of the magus for whom the potion is designed.
-
-When rebrewing the Longevity Ritual after an Aging Crisis (or to prepare a dose as base for the Lesser Elixir), using the Lab Text for the ritual, the process takes no significant investment of time — in practice, it takes about 15 minutes per magnitude of the Lab Text of the Longevity Ritual, as if casting a ritual spell. The limits on the vis handling for this process are those of a magus casting a ritual: Art specific vis is used, limited for each Art by the magus's Art score.
-
-#### Elixir Points = Total of Points from Extra Ingredients
+**Elixir Points = Total of Points from Extra Ingredients**
 
 The Elixir Level is determined from Elixir Points, limited by Magic Theory score:
 
 | Elixir Level | Elixir Points |
-|--------------|---------------|
-| 1            | 1             |
-| 2            | 3             |
-| 3            | 6             |
-| 4            | 10            |
-| 5            | 15            |
-| 6            | 21            |
-| 7            | 28            |
-| 8            | 36            |
-| 9            | 45            |
-| 10           | 55            |
+|:---:|:---:|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 6 |
+| 4 | 10 |
+| 5 | 15 |
+| 6 | 21 |
+| 7 | 28 |
+| 8 | 36 |
+| 9 | 45 |
+| 10 | 55 |
 
 **Aging Bonus = Longevity Ritual Modifier + Elixir Level**
 
 The Lesser Elixir replaces the normal Longevity Ritual modifier while the Lesser Elixir remains active.
-
-Thus, if the magus obtained a Longevity Ritual formula from a specialist potion brewer, with a bonus set to last him several centuries (in principle), he can rebrew replacement doses for himself without needing to spend his whole life studying Magic Theory.
-
-In practice, since the Longevity Ritual itself inflicts Warping Points for a continuing effect, most magi succumb to Final Twilight before the limits of the enchanter's ability to design aging bonus formulae. Even the extra bonus points awarded by the Lesser Elixir are mostly cosmetic, a stay in the face of the looming end of Twilight.
-
-The only way the alchemist can hope to extend their Longevity Potions into true immortality is to discover the secrets of the Great Elixir.
 
 #### Elixir Points
 
@@ -1677,7 +1591,6 @@ Alchemists have an especially close affinity with bonus items they devise person
 
 *Now 53, she has learned the secret of the lesser Elixir, so she invests another (53/5) = 11 pawns of vis to create a dose of her Longevity Ritual. She adds bloodstone (+4 blood and wounds) as her first special ingredient, so her Elixir Level is 2. Her combined Aging Bonus is 15+2 = 17.*
 
-
 *Some time later, she has reinvented her Lesser Elixir twice more, adding amber (+3 Corpus), and laurel oil (+3 to healing oils, a Vulgar Alchemy bonus devised by herself, so the bonus is doubled). Her Elixir Points are now 3+4+5 (the laurel oil double bonus of 6 is capped by her Magic Theory of 5) = 12, and her Elixir Level is 4. Her Aging Bonus is now 15+4 = 19.*
 
 #### Repeating the Lesser Elixir
@@ -1686,7 +1599,7 @@ If the magus suffers an Aging Crisis, the Lesser Elixir loses its effectiveness,
 
 The alchemist may instead reinvent his Lesser Elixir formula at any time, consuming another dose of his Longevity Ritual formula, and a further season in the laboratory. Spending a season reinventing the Lesser Elixir lets the magus add other special ingredients to the list.
 
-## The Great Elixir — Major Mystery Virtue
+### The Great Elixir — Major Mystery Virtue
 
 The ultimate goal — the Elixir of Life — achieved so far by very few alchemists is to transform themselves into beings of magic, truly immortal, although at the cost of the loss of their humanity. This Virtue teaches a method that is itself a form of Mystery Ordeal, creating and consuming a Great Elixir potion.
 
@@ -1696,12 +1609,9 @@ The magus must have both the Virtues Unaging and the Lesser Elixir.
 
 The magus opens an invested device in the form of a consumable item such as a potion. He also prepares a dose of his Lesser Elixir formula. The Lesser Elixir uses up (Longevity Ritual level/10) enchantment spaces in the Great Elixir device.
 
-The magus invests the following as if they were enchantment effects, but based
+The magus invests the following as if they were enchantment effects, but based on non-Hermetic rituals. Each time the enchantment is prepared, it is unique to the magus and the dose of Lesser Elixir; if the Great Elixir must be attempted more than once, the Lab Texts from previous attempts only grant similar spell bonus points to the next attempt.
 
-
-on non-Hermetic rituals. Each time the enchantment is prepared, it is unique to the magus and the dose of Lesser Elixir; if the Great Elixir must be attempted more than once, the Lab Texts from previous attempts only grant similar spell bonus points to the next attempt.
-
-#### Become a Being of Magic
+##### Become a Being of Magic
 
 MuCo(Vi) 50
 
@@ -1715,8 +1625,7 @@ Note that this is a Mystery Enchantment, outside Hermetic theory, and may not be
 
 (Unique Mystery)
 
-
-#### Grant Might
+##### Grant Might
 
 CrVi, Gen
 
@@ -1734,7 +1643,7 @@ Note that this is a Mystery Effect, outside of general Hermetic theory, and may 
 
 When the potion is complete, the maga drinks it, and tests the Elixir with a roll of:
 
-#### Simple Die + Stamina + Lesser Elixir Level + Reroll Bonus vs. Ease Factor of (Age/10, round up)
+**Simple Die + Stamina + Lesser Elixir Level + Reroll Bonus vs. Ease Factor of (Age/10, round up)**
 
 If the maga fails, then she knows that the particular *Become a Being of Magic* and *Grant Might* effects attempted did not work for her. However, all is not lost: She merely needs to create another dose of Lesser Elixir (possibly reinvented to include more Elixir Points), and use it to create an alternative Great Elixir potion.
 
@@ -1770,10 +1679,7 @@ Then a small Hermetic Mystery Cult, patiently working toward the Great Work, the
 
 ## The Order of the Green Cockerel Today
 
-The Order of the Green Cockerel is a learned society that studies advances in
-
-
-the new science of alchemy, attempting to reconcile them with Hermetic theory. When members deal with unGifted alchemists, they always don disguise, disassociate themselves as far as possible from the Order of Hermes, and use cryptic hints and demonstrations to encourage development of the mundane science, rather than explicitly explaining the secrets. Its role is to guide and nurture the development of the experimental science of alchemy, not to reveal its secret mysteries.
+The Order of the Green Cockerel is a learned society that studies advances in the new science of alchemy, attempting to reconcile them with Hermetic theory. When members deal with unGifted alchemists, they always don disguise, disassociate themselves as far as possible from the Order of Hermes, and use cryptic hints and demonstrations to encourage development of the mundane science, rather than explicitly explaining the secrets. Its role is to guide and nurture the development of the experimental science of alchemy, not to reveal its secret mysteries.
 
 The members of the Green Cockerel, however, have a secret that would possibly cause much consternation among their Hermetic sodales should it ever be revealed: They are in frequent and friendly communication with many wizards of the Islamic world, whose knowledge of alchemy is believed to far exceed that in Mythic Europe. This communication goes beyond the trading of magical secrets, and it is rumored that members of the Green Cockerel have actively worked to prevent crusaders from interfering with cities, or even from setting out, to further their cultivation and protection of their non-Hermetic allies. Many members of the Green Cockerel are frequent visitors to exotic locations in the Levant, North Africa, and Granada. Arabic is taught within the Order of the Green Cockerel, and some high-level texts may only be found in that language; all Green Cockerel texts are highly coded in Hermetic alchemical symbolism to prevent the inadvertent betrayal of the secret mysteries.
 
@@ -1781,23 +1687,25 @@ The Great Convocation of potentially all Initiates is held once every seven year
 
 ## Structure of the Order of the Green Cockerel
 
-The extent of the Green Cockerel remains a matter for conjecture; what is certain is that mundane alchemy flourishes in the courts and cities of Mythic
-
-
-Europe, although it is still rare in the Novgorod, Hibernian, and Loch Leglean tribunals. The number of members is not known, although it is probably one of the larger Mysteries given the current interest in alchemy among unGifted scholars.
+The extent of the Green Cockerel remains a matter for conjecture; what is certain is that mundane alchemy flourishes in the courts and cities of Mythic Europe, although it is still rare in the Novgorod, Hibernian, and Loch Leglean tribunals. The number of members is not known, although it is probably one of the larger Mysteries given the current interest in alchemy among unGifted scholars.
 
 What is certain is that the Great Work has only comparatively recently been achieved by the Hermetic method, and probably only once, although some skeptics deny even that. The single Initiate who completed the Great Work is never seen by the members of the Green Cockerel, and is referred to as the Secret Master, although, confusingly, accounts vary greatly from those who have claimed to have met this Initiate as to his actual gender — Secret Mistress may be equally appropriate.
 
-The seven degrees of the Order of the Green Cockerel reflect the seven traditional stages of the alchemical process. Each of the degrees is associated with a planet, a color and a metal, and is named for an alchemical symbol. The rich symbolism of the Green Cockerel is some-
+The seven degrees of the Order of the Green Cockerel reflect the seven traditional stages of the alchemical process. Each of the degrees is associated with a planet, a color and a metal, and is named for an alchemical symbol. The rich symbolism of the Green Cockerel is sometimes reflected discretely in the colors and symbols that adorn Initiates’ robes. The actual processes of alchemy are hence reflected in the outer world, as the True Work is not the alchemical processes, but the purging and magical refinement of the spirit of the Initiate, as it prepares him for the Great Work.
 
+#### The Toads
+
+The first degree represents the first process: calcination, associated with Saturn, the color black, and the metal lead. The unrefined probationer is exposed to the heat of the Initiation, and learns of the invisible sun, and the influence of the planets. Regarded with awe by mundane alchemists they meet, owing to their great knowledge, Toads are the lowest members of this secret society, their role largely that of lab assistants, as yet unversed in the mysteries. Quests for rare ingredients or alchemical literature are common at this degree. The Initiate learns the Virtue of Planetary Magic. 
+
+#### The White Swans
+
+The second degree represents the alchemical process of dissolution. It is associated with the planet Jupiter, the color grayish-white, and the metal tin. Now the Initiate is asked to make sacrifices; to dissolve his worldly concerns in the pursuit of the work that she is just beginning. To prove her knowledge, she must add new knowledge to the corpus of alchemical understanding, by creating at least seven new Shape and Material Bonuses before progressing to the next degree of Initiation, in addition to the usual requirements. Using exotic and difficult-to-obtain ingredients found on quests is greatly admired. To assist in this aim, she is Initiated into the Virtue of Vulgar Alchemy. 
 
 #### The Green Kings
 
-The third degree represents the process of separation, is associated with the planet Mars, the metal iron, and the color green. Note that while red is the traditional color of Mars, green is the complementary color of red; the Initiate seeks to symbolically separate out the "greenness" of his physical "red." After Initiation the Green King (a term used for males and females of the third degree) removes himself from contact with his alchemical brethren until he is ready to face the fourth-degree Initiation, and does not
+The third degree represents the process of separation, is associated with the planet Mars, the metal iron, and the color green. Note that while red is the traditional color of Mars, green is the complementary color of red; the Initiate seeks to symbolically separate out the "greenness" of his physical "red." After Initiation the Green King (a term used for males and females of the third degree) removes himself from contact with his alchemical brethren until he is ready to face the fourth-degree Initiation, and does not participate in any rites or Convocation.
 
 During this time the Initiate is expected to purge himself of material dross and discover his true potential. The Mystagogue leads the way by Initiating the Virtue Unaging before the exile begins, in a rite designed to purge the Initiate. The principle of elimination of unwholesome and negative personality traits features heavily in this degree, and stories may reflect the attempt to overcome Personality Flaws or Traits through heroic endeavors.
-
-participate in any rites or Convocation.
 
 #### The Peacocks
 
@@ -1815,19 +1723,7 @@ The sixth degree is the process of distillation. It is symbolically associated w
 
 The process of the seventh degree is that of coagulation, the planet the Sun, the metal and the color gold. The Initiates now learn the secret of the Virtue Great Elixir, taught by the Secret Master. Should they succeed, they rise like a phoenix, having transformed themselves from base led to alchemical gold, and achieved magical immortality. This is the true secret of alchemy of which mundane alchemy is but the slightest distorted reflection as though seen through a glass darkly.
 
-times reflected discretely in the colors and symbols that adorn Initiates' robes. The actual processes of alchemy are hence reflected in the outer world, as the True Work is not the alchemical processes, but the purging and magical refinement of the spirit of the Initiate, as it prepares him for the Great Work.
-
-#### The Toads
-
-The first degree represents the first process: calcination, associated with Saturn, the color black, and the metal lead. The unrefined probationer is exposed to the heat of the Initiation, and learns of the invisible sun, and the influence of the planets. Regarded with awe by mundane alchemists they meet, owing to their great knowledge, Toads are the lowest members of this secret society, their role largely that of lab assistants, as yet unversed in the mysteries. Quests for rare ingredients or alchemical literature are common at this degree. The Initiate learns the Virtue of Planetary Magic.
-
-#### The White Swans
-
-The second degree represents the alchemical process of dissolution. It is associated with the planet Jupiter, the color grayish-white, and the metal tin. Now the Initiate is asked to make sacrifices; to dissolve his worldly concerns in the pursuit of the work that she is just beginning. To prove her knowledge, she must add new knowledge to the corpus of alchemical understanding, by creating at least seven new Shape and Material Bonuses before progressing to the next degree of Initiation, in addition to the usual requirements. Using exotic and difficult-to-obtain ingredients found on quests is greatly admired. To assist in this aim, she is Initiated into the Virtue of Vulgar Alchemy.
-
-## Chapter Six
-
-# Hermetic Astrology
+# Chapter 6: Hermetic Astrology
 
 From the earliest ages, man has sought wisdom in the stars and wondered what influence the planets have in shaping events on Earth. The most famous astrologers of the past were the Chaldeans, and Babylonian astrological lore was considered the epitome of the science. Astrologers point to the action of the tides and the turning of the seasons, which are clearly linked to astronomical phenomena, as proof of their science's validity.
 
@@ -1847,10 +1743,7 @@ Astronomy is taught in the universities as part of the liberal arts, and so astr
 
 It was also considered that the influences of the heavens could also be artificially drawn down and utilized through the use of periapts — amulets inscribed with the names and sigils of the stars and planets. A very small minority of writers claimed this process worked merely through natural magic. One of the standard Arabic texts for this process was that of Thabit ibn Qurra (836-901) and his formula for ridding a place of scorpions. The best known work of astral magic is the *Picatrix*, translated into Spanish and Latin under Alfonso the Wise. In addition to the use of astrological talismans, including images, to achieve various effects, it also includes sections on substances with magical properties, and how to pray to the planets.
 
-Astrology is seen as a reputable science in Mythic Europe, and while churchmen do, from time to time, denounce it,
-
-
-it is generally considered acceptable and is tolerated, and indeed can be considered a mainstream form of learning and discourse.
+Astrology is seen as a reputable science in Mythic Europe, and while churchmen do, from time to time, denounce it, it is generally considered acceptable and is tolerated, and indeed can be considered a mainstream form of learning and discourse.
 
 While astrology is known throughout Mythic Europe, Hermetic Astrology deals with working the influence of the heavens, as they manifest on Earth, into Hermetic magic. Many systems of magic contain ways of dealing with the astral influences, but Hermetic magic is able to ignore them owing to Bonisagus's breakthroughs. Astrological Mystery Cults often teach a Magical Focus or Potent Magic relating to their interests in Divination, covering various aspects of Intellego magics. Divination by astrology is dealt with in Chapter 7: Divination and Augury. The most basic principle of Hermetic Astrology is Planetary Magic, which is known throughout the Order and discussed in Chapter 4: Curious Common Magics.
 
@@ -1858,7 +1751,7 @@ The Ability Artes Liberales (Astronomy) is often simply abbreviated Astronomy, a
 
 Astrological correspondences, and the meanings of signs, planets, and houses, are explained in an appendix to this chapter.
 
-## Periapt — Minor Mystery Virtue
+### Periapt — Minor Mystery Virtue
 
 A periapt was originally a small amulet with astrological symbols, which contained a simple one-use enchantment; Hermetic theory has allowed magi to generalize this to make astrological amulets as any form of Hermetic charged device.
 
@@ -1868,9 +1761,9 @@ By creating a special Horoscope for the season, the magus is able to infer the c
 
 A magus with this Virtue may create a Periapt Horoscope for a proposed activity, and use this as a temporary, single-use Lab Text for creating charged devices (ArM5, page 102). The magus must have a Lab Total that equals or exceeds the level of the proposed enchantment. In addition, the Effect level instilled using a Periapt Horoscope is limited to the enchanter's Artes Liberales (Astronomy) times 5.
 
-#### Number of charges = Lab Total / 5 (rounded up)
+**Number of charges = Lab Total / 5 (rounded up)**
 
-#### Maximum Effect level = 5 x Artes Liberales (Astronomy) score
+**Maximum Effect level = 5 x Artes Liberales (Astronomy) score**
 
 A magus may work on several periapts that share a single Technique and Form. A separate Horoscope is needed for each formula he wishes to enchant.
 
@@ -1878,20 +1771,20 @@ A magus may work on several periapts that share a single Technique and Form. A s
 
 The Horoscope is prepared at the start of the season, on the day of the equinox or solstice. This takes one hour, and applies to that season only. To create the Periapt Horoscope, roll:
 
-#### Stress Die + Intelligence + Astronomy vs. an Ease Factor of 9
+**Stress Die + Intelligence + Astronomy vs. an Ease Factor of 9**
 
 If the roll fails, the magus knows that the Horoscope is faulty, and may consider a different activity instead of this enchantment. If the roll botches, the magus doesn't realize the Horoscope is faulty and attempts faulty alignments: the entire season is wasted. If a magus works on multiple periapts, then a botch on any of the Horoscope rolls spoils the whole season.
 
-## Celestial Magic — Major Mystery Virtue
+### Celestial Magic — Major Mystery Virtue
 
 The astrologer uses his great knowledge of the movements of the heavens to determine the most effective times to perform magical operations in the lab, by calculating the best hours and periods to work, by modifying incantations, and by instilling astral influences from the ruling signs, planets, and houses into his work to gain the greatest possible effect.
 
 This Virtue includes and replaces the benefits of Planetary Magic**,** which is a required prerequisite. The benefits of Celestial Magic include:
 
-- Widens the scope of Laboratory Horoscopes (from Planetary Magic) •
-- New celestial Durations •
-- Determine a favorable hour of the day for spellcasting •
-- Creating astrologically linked enchantments •
+- Widens the scope of Laboratory Horoscopes (from Planetary Magic)
+- New celestial Durations
+- Determine a favorable hour of the day for spellcasting
+- Creating astrologically linked enchantments
 
 An Initiate sacrifices Planetary Magic in order to gain Celestial Magic, which counts as an Ordeal (Loss of a Virtue) for the Initiation.
 
@@ -1901,14 +1794,11 @@ The magus may create a Laboratory Horoscope just as for Planetary Magic, but now
 
 Decide in advance on an Astrological Modifier to the Lab Total, from +1 to +5. To gain this bonus, the magus must succeed in a roll of:
 
-#### Stress Die + Intelligence + Astronomy vs. Three Times the Desired Bonus
+**Stress Die + Intelligence + Astronomy vs. Three Times the Desired Bonus**
 
 If successful, add the Astrological Modifier to his Lab Total. If the roll fails, there is no effect other than losing the bonus; it is not possible to reroll this season. On a roll of zero, roll a number of botch dice equal to the desired bonus; any botch results in the entire season being wasted, as well as any vis expended in the project.
 
-*Example: Astra has Intelligence +3 and an Astronomy score of 6. She would like to improve her laboratory work in the coming season, and considers casting a Laboratory Horoscope for her work. She decides that she would like a bonus of +4 in her work, so the Ease Factor for her proposed Horoscope is 12. Her player rolls 7+3+6 = 16,* 
-
-
-*succeeding easily. She adds 4 to her Lab Total this season.*
+*Example: Astra has Intelligence +3 and an Astronomy score of 6. She would like to improve her laboratory work in the coming season, and considers casting a Laboratory Horoscope for her work. She decides that she would like a bonus of +4 in her work, so the Ease Factor for her proposed Horoscope is 12. Her player rolls 7+3+6 = 16, succeeding easily. She adds 4 to her Lab Total this season.*
 
 **Horoscope Bonus:** When opening an invested device, subtract the Laboratory Horoscope bonus for the opening season from the number of pawns of vis required to open the device (minimum of one pawn). This does not reduce the number of enchantment spaces available.
 
@@ -1926,19 +1816,15 @@ An Astrological Day is marked by the sun returning to the same constellation. Th
 
 An Astrological Sign ("month") is marked by the sunrise moving through one full constellation. Assume a calendar month rather than calculating exact periods.
 
-Using Astrological Durations requires a roll of Astronomy. Having aids or desiring extra precision can modify the basic Astronomy roll. The roll normally uses a
+> ## Limits on the Use of Astrological Time
+> 
+> Astrological time varies from place to place, as the sun, stars, and heavens shine differently everywhere. Beyond modest limits, neither Daily Horoscopes nor astrological times can be applied consistently. However, the steady increment in time as the day progresses in a single place is a natural part of astrological calculations and is already included in calculations: a Daily Horoscope lasts for one day in the place it is calculated for.
+> 
+> For the purpose of Hermetic spells, conditions are essentially identical over an area extending approximately 500 paces in all directions from the point of measurement (an area approximately 100 standard Boundaries, or a Size of Boundary +2 magnitudes). A magus cannot increase the area of measurement, as it is the heavens' own movements that bring about the limit.
+> 
+> This limits, for example, the spread of a Group Target (all members must be within 500 paces of the measurement point), and the Size of any Target (which must fit within the measurement radius). If a Hermetic Target spreads further than the measurement allows, then no spell or effect using Astrological Time can affect that Target. (The target may move out of the area once the spell has been cast.)
 
-#### The Mysteries Revised Edition
-
-## Limits on the Use of Astrological Time
-
-Astrological time varies from place to place, as the sun, stars, and heavens shine differently everywhere. Beyond modest limits, neither Daily Horoscopes nor astrological times can be applied consistently. However, the steady increment in time as the day progresses in a single place is a natural part of astrological calculations and is already included in calculations: a Daily Horoscope lasts for one day in the place it is calculated for.
-
-For the purpose of Hermetic spells, conditions are essentially identical over an area extending approximately 500 paces in all directions from the point of measurement (an area approximately 100 standard Boundaries, or a Size of Boundary +2 magnitudes). A magus cannot increase the area of measurement, as it is the heavens' own movements that bring about the limit.
-
-This limits, for example, the spread of a Group Target (all members must be within 500 paces of the measurement point), and the Size of any Target (which must fit within the measurement radius). If a Hermetic Target spreads further than the measurement allows, then no spell or effect using Astrological Time can affect that Target. (The target may move out of the area once the spell has been cast.)
-
-Stress Die, but the magus can take extra time and measurements and make a nonstress roll.
+Using Astrological Durations requires a roll of Astronomy. Having aids or desiring extra precision can modify the basic Astronomy roll. The roll normally uses a Stress Die, but the magus can take extra time and measurements and make a nonstress roll.
 
 #### New Duration: Minutes = Diameter
 
@@ -1972,50 +1858,45 @@ If the magus fails the Astronomy roll to calculate an Astrological Duration, he 
 
 #### Favorable Hour for Spellcasting
 
-The maga can attempt to identify an hour of the day that will be favorable to her and her intentions and gain an Astrological bonus to spells cast during
+The maga can attempt to identify an hour of the day that will be favorable to her and her intentions and gain an Astrological bonus to spells cast during that hour. Only one hour in any day will favor the maga.
 
-
-## Options: Calculating an Astrological Duration The Time of the
-
-**Option**: **Calculate a Daily Horoscope**. As described in ArM5, page 84, this requires an Intelligence + Astronomy roll vs. an Ease Factor of 9, taking one hour to complete. Having a Daily Horoscope for the target location subtracts 3 from the Ease Factor of Astronomy rolls for duration calculation. The Horoscope is valid for spells cast over the course of that day, but only for the area it was created for (see Limits on the Use of Astrological Time for distance limits imposed by astrological time).
-
-If the the roll fails, the magus realizes this and may ignore the Horoscope.;If the roll botches, the magus doesn't realize until he uses the Horoscope in a spell, and that spell botches because of the miscalculation.
-
-**Option: Measure the exact astrological time**. Using a spell such as *Sight of the Astrological Hour* subtracts 3 from the Ease Factor to calculate an Astrological Duration.
-
-**Option: Precision astrology.** The maga can choose to specify exactly when the spell will end, to the nearest Astrological Minute (even up to months away). Precision astrology adds 3 to the Ease Factor of the roll to calculate the exact duration. She must also either calculate a Daily Horoscope for the day of the planned end of the spell, or consult a magical armillary sphere. The effect is largely cosmetic, but can be quite striking!
-
-**Option: Consult a magical armillary sphere.** The calculations for Astrological Durations are complex and easy to mistake, requiring the magus to
-
-that hour. Only one hour in any day will favor the maga.
+> ## Options: Calculating an Astrological Duration The Time of the
+> 
+> **Option**: **Calculate a Daily Horoscope**. As described in ArM5, page 84, this requires an Intelligence + Astronomy roll vs. an Ease Factor of 9, taking one hour to complete. Having a Daily Horoscope for the target location subtracts 3 from the Ease Factor of Astronomy rolls for duration calculation. The Horoscope is valid for spells cast over the course of that day, but only for the area it was created for (see Limits on the Use of Astrological Time for distance limits imposed by astrological time).
+> 
+> If the the roll fails, the magus realizes this and may ignore the Horoscope.;If the roll botches, the magus doesn't realize until he uses the Horoscope in a spell, and that spell botches because of the miscalculation.
+> 
+> **Option: Measure the exact astrological time**. Using a spell such as *Sight of the Astrological Hour* subtracts 3 from the Ease Factor to calculate an Astrological Duration.
+> 
+> **Option: Precision astrology.** The maga can choose to specify exactly when the spell will end, to the nearest Astrological Minute (even up to months away). Precision astrology adds 3 to the Ease Factor of the roll to calculate the exact duration. She must also either calculate a Daily Horoscope for the day of the planned end of the spell, or consult a magical armillary sphere. The effect is largely cosmetic, but can be quite striking!
+> 
+> **Option: Consult a magical armillary sphere.** The calculations for Astrological Durations are complex and easy to mistake, requiring the magus to juggle factors for both the current astrological time and the time when the spell will end. An enchanted armillary sphere (see below for description and construction) can be created that will adjust itself to show astrological time now and at the end of the spell, for both the caster and (the location of) the target of a spell, which greatly eases the calculations.
+> 
+> The Ease Factor of the Astrological Duration Astronomy roll is halved. The halving is done after all additions to and subtractions from the Ease Factor.
+> 
+> **Option: Non-stress calculations**. The magus must know the exact astrological time (see *Sight of the Astrological Hour*) and have already calculated a suitable Daily Horoscope or consult a magical armillary sphere. He needs to check his calculations by making observations of the changing conditions over the course of a full Diameter, that is two minutes.
+> 
+> If he does this, then although he may still make errors in the calculation, you can use a simple die and avoid disasters.
+> 
+> **Calculate Daily Horoscope: Subtract 3 from Ease Factor**
+> 
+> **Measure Exact Astrological Time: Subtract 3 from Ease Factor**
+> 
+> **Precision Astrology (Specify Exact End Time): Add 3 to Ease Factor**
+> 
+> **Consult a Magical Armillary Sphere: Halve the Adjusted Ease Factor (after all Additions and Subtractions)**
 
 The maga must create a spellcasting Horoscope for herself, which takes one hour. Decide in advance on the Astrological Modifier you desire as a spellcasting bonus, from +1 to +5. To gain this bonus, you must succeed in a roll of
 
 **Stress Die + Intelligence + Astronomy vs. Three Times Desired Bonus**
 
-juggle factors for both the current astrological time and the time when the spell will end. An enchanted armillary sphere (see below for description and construction) can be created that will adjust itself to show astrological time now and at the end of the spell, for both the caster and (the location of) the target of a spell, which greatly eases the calculations.
-
-The Ease Factor of the Astrological Duration Astronomy roll is halved. The halving is done after all additions to and subtractions from the Ease Factor.
-
-**Option: Non-stress calculations**. The magus must know the exact astrological time (see *Sight of the Astrological Hour*) and have already calculated a suitable Daily Horoscope or consult a magical armillary sphere. He needs to check his calculations by making observations of the changing conditions over the course of a full Diameter, that is two minutes.
-
-If he does this, then although he may still make errors in the calculation, you can use a simple die and avoid disasters.
-
-**Calculate Daily Horoscope: Subtract 3 from Ease Factor**
-
-**Measure Exact Astrological Time: Subtract 3 from Ease Factor**
-
-**Precision Astrology (Specify Exact End Time): Add 3 to Ease Factor**
-
-**Consult a Magical Armillary Sphere: Halve the Adjusted Ease Factor (after all Additions and Subtractions)**
-
 If successful, add the bonus to the casting scores of spells cast during the favorable hour.
 
 The maga will not know the success of this until the hour begins (so you may choose to delay the roll until then). If the roll fails, the calculation was wrong and the influences invoked are of no benefit. If the roll botches, the maga determined the wrong factors and suffers a penalty equal to the intended bonus for the whole hour.
 
-# Favorable Hour
-
-Rather than consult genuine astrological tables to determine when a favorable hour would arise, the storyguide may use the following simple process: roll a simple die read as 0-9 and multiply by 10, and add another simple die (a number from 1 to 100), then divide by 4 (round up). Reroll results of 25 (or choose a number to suit). The hours of the day are most easily counted from midnight to midnight. If the hour indicated has already passed, then either the magus has missed the opportunity, or this indicates an hour after the next midnight.
+> ## The Time of Favorable Hour
+> 
+> Rather than consult genuine astrological tables to determine when a favorable hour would arise, the storyguide may use the following simple process: roll a simple die read as 0-9 and multiply by 10, and add another simple die (a number from 1 to 100), then divide by 4 (round up). Reroll results of 25 (or choose a number to suit). The hours of the day are most easily counted from midnight to midnight. If the hour indicated has already passed, then either the magus has missed the opportunity, or this indicates an hour after the next midnight.
 
 #### Astrologically Linked Enchantments
 
@@ -2029,13 +1910,12 @@ The maga gains a bonus to her Lab Total for this effect. To calculate the bonus,
 
 **Seasonal Enchantments:** It is possible to create a device that is attuned to a particular astrological cycle: either one particular sign, such as Leo, or to a group of signs associated with one of the four elements.
 
-
 **Elements form opposed pairs:** fire vs. water and air vs. earth. If the maga applies a bonus in one element's signs, the device receives an equal penalty in the opposing element's signs.
 
 The astrological cycle adjustment is the maga's Artes Liberales (Astronomy) score at the time she opens the device for enchantment (or creates it, for lesser devices or charged items). The whole device has a single astrological cycle, governing all effects in the device, but the particular adjustment is chosen when the maga instills an Effect:
 
-- **Penetration Bonus:** Add the bonus or penalty to the Penetration score of the Effect. **•**
-- **Frequency Bonus:** Add (or subtract) the astrological cycle bonus or penalty (round up) to the Effect levels used in the Effect Frequency table, and note the adjusted uses per day. If this takes the frequency levels below 0 (one use per day), the effect cannot be used while the adjustment applies. There is no benefit to increasing the frequency above ten levels (Unlimited uses). **•**
+- **Penetration Bonus:** Add the bonus or penalty to the Penetration score of the Effect.
+- **Frequency Bonus:** Add (or subtract) the astrological cycle bonus or penalty (round up) to the Effect levels used in the Effect Frequency table, and note the adjusted uses per day. If this takes the frequency levels below 0 (one use per day), the effect cannot be used while the adjustment applies. There is no benefit to increasing the frequency above ten levels (Unlimited uses).
 
 Astrologically enchanted devices are by their nature more potent, but tend to be limited by astrological factors.
 
@@ -2049,14 +1929,13 @@ These spells do not require Astrological Virtues to learn or cast, but the infor
 
 To cast a spell relying on a measured astrological time it is sufficient to measure the astrological time near the target, provided the measurement point and the target of subsequent spells are close enough. As such, these measurement spells are normally indirect and Aimed rather than Targeted (see ArM5, page 86).
 
-
-#### New Intellego Vim Guidelines
+**New Intellego Vim Guidelines**
 
 **Level 5:** Discern and measure a single astrological factor in the environment. Discern and measure the astrological time in the environment. (The caster is learning the conditions at the target location, not at his own locale, so usually extend range.)
 
 **Level 10**: Discern and measure all astrological factors in the environment. This provides sufficient information to reset a magical armillary sphere to the conditions in a different environment.
 
-#### Sense the Hour
+##### Sense the Hour
 
 InVi 10
 
@@ -2068,7 +1947,7 @@ Measuring the conditions at a single point is sufficient, as identical condition
 
 (Base 5, +1 Touch)
 
-#### Sight of the Astrological Hour
+##### Sight of the Astrological Hour
 
 InVi 20
 
@@ -2078,7 +1957,7 @@ Measures the astrological time in the area around a point the caster can see.
 
 (Base 5, +3 Sight)
 
-#### Divine Heaven's Aspect
+##### Divine Heaven's Aspect
 
 InVi 30
 
@@ -2088,7 +1967,7 @@ Reports all aspects of the astrological conditions (minute, hour, day, sign, pla
 
 (Base 10, +4 Arcane)
 
-## New Enchanted Device: Magical Armillary Sphere
+### New Enchanted Device: Magical Armillary Sphere
 
 An armillary sphere is a complex mechanical device that indicates time and the movements of the planets and stars. By making an accurate armillary sphere and marking it accurately with astrological signs, the maga can set the wheels to any configuration of the heavens, and read off from the wheels and dials the configuration of the heavens at an earlier or later time. The prediction of astrological conjunctions at times in the future is possible because the wheels of the heavens continue to cycle indefinitely and precisely. (The armillary sphere does not predict or break the Hermetic Limit of Time, it just mechanizes the calculations of the astrologer.)
 
@@ -2096,38 +1975,21 @@ By linking an enchantment moving the circles with a *Know the Heavens* effect, t
 
 #### Making an Armillary Sphere
 
-A magical armillary sphere requires an actual functioning armillary sphere of considerable accuracy that is then animated by the invested effects. Making such an armillary sphere requires a precision physical mechanism: its markings must be
-
-
-## The Armillary Sphere
-
-An armillary sphere, or spherical astrolabe, is a model of the celestial sphere, centered on the Earth. Its name come from armilla, a bracelet or circle, which is to say that its form is that of metal circles (graduated to mark signs and degrees) linking the celestial poles, equator, meridians, and parallels, and the circle of the Zodiac (also known as the ecliptic). The armillary sphere was devised by Eratosthenes in antiquity, and is mentioned in the writings of Ptolemy and other great authors on astronomy and astrology. The device indicates the motion of the stars around the Earth, and can be extended to show the planets.
-
-For the practical-minded magus, the wonder of this device is that it may be adjusted to display any configuration of the heavens, and readings made from the graduated circles are available for astrological calculations. An enchanted armillary sphere can be made that continually adjusts itself as the heavens shift, yet can be adjusted to indicate the heavens at any time past or present.
-
-The planar astrolabe, or simply astrolabe, is a related device that collapses the design into a series of flat disks and has sights to measure the position of stars. It is used by navigators and astrologers alike to measure the stars. It is less suited to the special purposes of celestial magic than the armillary sphere; however, as a measuring device, the astrolabe is favored in Divination (Astrology).
-
-#### New Shape and Material Bonuses
-
-**Armillary Sphere:** +5 display the heavens, celestial time
-
-**Astrolabe:** +5 measure the stars and heavens, astrology, and navigation
-
-exact for the astrologer to be able to read it accurately (and safely use it in magic). The interplay of cycles and the precision markings makes the mechanism difficult to construct:
+A magical armillary sphere requires an actual functioning armillary sphere of considerable accuracy that is then animated by the invested effects. Making such an armillary sphere requires a precision physical mechanism: its markings must be exact for the astrologer to be able to read it accurately (and safely use it in magic). The interplay of cycles and the precision markings makes the mechanism difficult to construct:
 
 Firstly, it is necessary to design the armillary sphere to work on astrological principles. The designer (the magus) must succeed in a roll of:
 
-#### Stress Die + Intelligence + Astronomy vs. an Ease Factor of 12
+**Stress Die + Intelligence + Astronomy vs. an Ease Factor of 12**
 
 or the design itself is flawed. Then the magus must make his armillary sphere. This requires the magus crafting the device to succeed in a roll of:
 
-#### Stress Die + Dexterity + Craft (Mechanisms or Clocks) vs. an Ease Factor of 12
+**Stress Die + Dexterity + Craft (Mechanisms or Clocks) vs. an Ease Factor of 12**
 
 or the mechanism is faulty. He can use Craft (Blacksmith) instead of Craft (Mechanisms), but with –3 to the roll and +3 botch dice. The astronomer can employ another as the craftsman to make the mechanism, but must then supervise him throughout the construction, offering advice and corrections throughout. This adds +3 to both design and craft Ease Factors.
 
 **Design an Armillary Sphere to be Made by Another: Stress Die + Intelligence + Astronomy vs. an Ease Factor of 15**
 
-#### Craft an Armillary Sphere Designed by Another: Stress Die + Dexterity + Craft Mechanisms vs. an Ease Factor of 15
+**Craft an Armillary Sphere Designed by Another: Stress Die + Dexterity + Craft Mechanisms vs. an Ease Factor of 15**
 
 The Ease Factors are reduced by 3 if copying an existing precision armillary sphere.
 
@@ -2135,11 +1997,25 @@ It takes a full season of mundane work to make an armillary sphere, during which
 
 If the astrologer is not the craftsman but only testing a mechanism he designed, he may perform other activities — it is effectively a seven-day distraction.
 
+> ## The Armillary Sphere
+> 
+> An armillary sphere, or spherical astrolabe, is a model of the celestial sphere, centered on the Earth. Its name come from armilla, a bracelet or circle, which is to say that its form is that of metal circles (graduated to mark signs and degrees) linking the celestial poles, equator, meridians, and parallels, and the circle of the Zodiac (also known as the ecliptic). The armillary sphere was devised by Eratosthenes in antiquity, and is mentioned in the writings of Ptolemy and other great authors on astronomy and astrology. The device indicates the motion of the stars around the Earth, and can be extended to show the planets.
+> 
+> For the practical-minded magus, the wonder of this device is that it may be adjusted to display any configuration of the heavens, and readings made from the graduated circles are available for astrological calculations. An enchanted armillary sphere can be made that continually adjusts itself as the heavens shift, yet can be adjusted to indicate the heavens at any time past or present.
+> 
+> The planar astrolabe, or simply astrolabe, is a related device that collapses the design into a series of flat disks and has sights to measure the position of stars. It is used by navigators and astrologers alike to measure the stars. It is less suited to the special purposes of celestial magic than the armillary sphere; however, as a measuring device, the astrolabe is favored in Divination (Astrology).
+> 
+> ### New Shape and Material Bonuses
+> 
+> **Armillary Sphere:** +5 display the heavens, celestial time
+> 
+> **Astrolabe:** +5 measure the stars and heavens, astrology, and navigation
+
 #### Magical Duplication
 
 Crafting a precision armillary sphere is sufficiently complex and time-consuming that many magi turn to magic to create one. An easy way to obtain a ready-built (mundane) mechanism is to magically duplicate an existing one.
 
-#### Duplicate the Mechanism
+##### Duplicate the Mechanism
 
 Cr(In)Te 35
 
@@ -2151,20 +2027,17 @@ Status-conscious magi may prefer the alternative Level 45 ritual *Duplicate the 
 
 A similar spell without an Intellego requisite, *Craft the Mechanism*, can create a new mechanism, but is limited by the magus's understanding of what he is creating and requires Finesse to match design to instant magic.
 
-#### Craft the Mechanism
+##### Craft the Mechanism
 
 Cr(In)Te 35
 
 R: Touch, D: Mom, T: Group, Ritual To make an armillary sphere with Craft the Mechanism, the magus must design the device with an Intelligence + Astronomy or appropriate Craft Ability roll:
 
-#### Stress Die + Intelligence + Astronomy or Craft (Mechanisms or Clocks) vs. an Ease Factor of 18
+**Stress Die + Intelligence + Astronomy or Craft (Mechanisms or Clocks) vs. an Ease Factor of 18**
 
 and then must guide the magic to the correct crafted form: Stress Die + Perception + Finesse vs. an Ease Factor of 18
 
-If either roll fails, then mechanism is flawed and imprecise; if either roll botch-
-
-
-es, then the flaw is subtle and overlooked until used in a non-test situation, when it introduces a botch into an important calculation made with the device.
+If either roll fails, then mechanism is flawed and imprecise; if either roll botches, then the flaw is subtle and overlooked until used in a non-test situation, when it introduces a botch into an important calculation made with the device.
 
 #### Enchanting the Armillary Sphere
 
@@ -2172,7 +2045,7 @@ Once the mechanism is crafted, it is ready to be enchanted. The mechanism must b
 
 Two effects are now needed:
 
-#### Know the Heavens
+##### Know the Heavens
 
 InVi 29 Pen +0, constant effect R: Touch, D: Always on, T: Ind
 
@@ -2180,7 +2053,7 @@ The armillary sphere continually senses the astrological time and the influence 
 
 (Base 10, +1 Touch, +2 and 4 levels for "always on")
 
-#### Track the Heavens
+##### Track the Heavens
 
 ReTe 28
 
@@ -2198,50 +2071,39 @@ The two effects combined consume seven spaces and seven pawns of vis, leaving sp
 
 Consulting the armillary sphere before casting an Astrological Duration spell mechanizes the difficult calculations needed, providing instant access to current and predicted conditions as the magus juggles the conjunctions in his head and works the spell. This halves the Ease Factor of Astrological Duration calculations.
 
-The magus can use the armillary sphere without adjustment if the target location shares the magus's astrological time (all of the intended spell target is within 500 paces of the instrument). To use the magical armillary sphere for calculations based on a more distant location, he must know the conditions there (for example, through casting *Divine* 
-
-
-*Heaven's Aspect*), and make an Intelligence + Astronomy roll against an Ease Factor of 9 to adjust the armillary sphere settings.
+The magus can use the armillary sphere without adjustment if the target location shares the magus's astrological time (all of the intended spell target is within 500 paces of the instrument). To use the magical armillary sphere for calculations based on a more distant location, he must know the conditions there (for example, through casting *Divine Heaven's Aspect*), and make an Intelligence + Astronomy roll against an Ease Factor of 9 to adjust the armillary sphere settings.
 
 **To Adjust the Armillary Sphere:Stress Die + Intelligence + Astronomy vs. an Ease Factor of 9**
 
 This takes but a single round; if the roll is failed, the magus may try again (if it's botched, the spell botches too). When the magus finishes his readings and releases the armillary sphere adjustment wheels, the enchantments adjust the settings back to local time. Further readings require another spell and more adjustment.
 
-# The Magoi of the Star
+## The Magoi of the Star
 
 *Wise astrologers who see in their arts a means of defeating the destiny of the stars and practicing God-given free will.*
 
-## The History of the Magoi of the Star
+### The History of the Magoi of the Star
 
 Since ancient Rome, scholars have argued about whether the influence of the planets is compatible with human free will. If the stars dictate our every action, and the astrologer can tell the course of a man's life just by looking at his Nativity Horoscope, are we not bound by their influence? Can one punish a criminal when his actions were dictated by the planets at the time of his birth? Does the ability to foretell the future mean that our eventual salvation or damnation is already established?
 
-The Magoi say no; they believe that Christian principles of free will are completely compatible with the influence of the stars, which are influences, not determinants. A man born under a well-aspected Mars may well be a great warrior; yet if he chooses to ignore the call to arms and become a farmer, the stars cannot make him a soldier. The Limit of Time is a Divine limit according to these theorists, and only God can have true knowledge of the future. The stars dictate general patterns, and forces that act upon men,
+The Magoi say no; they believe that Christian principles of free will are completely compatible with the influence of the stars, which are influences, not determinants. A man born under a well-aspected Mars may well be a great warrior; yet if he chooses to ignore the call to arms and become a farmer, the stars cannot make him a soldier. The Limit of Time is a Divine limit according to these theorists, and only God can have true knowledge of the future. The stars dictate general patterns, and forces that act upon men, but do not actually force them to make certain decisions; the Magoi rigorously refute astral determinism and the resulting heresy of fatalism, where a man has no control over his destiny. Did not God who made humanity with the divine gift of free will not also set the stars in the sky? To assert that astrology is incompatible with free will is clearly nonsensical.
 
-but do not actually force them to make certain decisions; the Magoi rigorously refute astral determinism and the resulting heresy of fatalism, where a man has no control over his destiny. Did not God who made humanity with the divine gift of free will not also set the stars in the sky? To assert that astrology is incompatible with free will is clearly nonsensical.
-
-The Magoi are heavily influenced by the thinking of Origen, a theologian and biblical scholar of the early Church. During the persecution under Emperor Trajan Decius (250 AD), Origen was imprisoned and tortured but survived to die
-
-several years later. His tomb at Tyre is held in honor by the local church to this day and is a site of great importance to the Magoi of the Star, yet even more important to their minds are the relics of the three Persian magi in Cologne.
+The Magoi are heavily influenced by the thinking of Origen, a theologian and biblical scholar of the early Church. During the persecution under Emperor Trajan Decius (250 AD), Origen was imprisoned and tortured but survived to die several years later. His tomb at Tyre is held in honor by the local church to this day and is a site of great importance to the Magoi of the Star, yet even more important to their minds are the relics of the three Persian magi in Cologne.
 
 The Magoi of the Star hold that despite the fact the influence of the planets cannot directly dictate one's future, their influence is still felt and strong. Many human weaknesses and mistakes result from the baleful influence of the planets, which cloud one's reason and cause unfortunate choices. Only by understanding what the influences are, and by acting in full knowledge of their impact, can one truly exercise free will and reason and be freed completely from the dictates of the planets. Therefore they take an ironic stance: They learn astrology so as to be able to use its secrets to counteract negative influences and make themselves free of the objects astrologers study.
 
+They claim to be descended from the magi of the Bible who brought gifts of gold, frankincense, and myrrh to the infant Jesus, having followed a bright star. Avowedly Christian, they pay particular reverence to the Three Wise Men, Caspar, Melchior, and Balthasar, whose bodies lie in The Shrine of Kings at Cologne Cathedral, having been brought there from Milan in 1164 by Frederick I, and having originally been discovered by the Empress Helena on her pilgrimage to the Holy Land. The secrets of the magi of the Bible were those of the astrological sciences, and some say the Magoi of the Star are awaiting the Second Coming, and pay particular attention to the prophecy of the end times given in the Book of Daniel and the Book of Revelation. They are not holy magi, however, and many of their beliefs would be looked upon with deep suspicion by orthodox churchmen, as incompatible with the wisdom of the great Augustine.
 
-They claim to be descended from the magi of the Bible who brought gifts of gold, frankincense, and myrrh to the infant Jesus, having followed a bright star. Avowedly Christian, they pay particular reverence to the Three Wise Men, Caspar, Melchior, and Balthasar, whose bodies lie in The Shrine of Kings at Cologne Cathedral, having been brought there from Milan in 1164 by Frederick I, and having originally been discovered by the Empress Helena on her pilgrimage to the Holy Land. The secrets of the magi of the Bible were those of the astrological sciences, and some say the Magoi of the Star are awaiting the Second Coming, and pay particular attention to the prophecy of the end times given in the Book of Daniel and the Book of Revelation. They
-
-
-are not holy magi, however, and many of their beliefs would be looked upon with deep suspicion by orthodox churchmen, as incompatible with the wisdom of the great Augustine.
-
-## The Magoi of the Star Today
+### The Magoi of the Star Today
 
 The Magoi of the Star are the Order of Hermes' greatest astrologers and experts on matters pertaining to astrological magic. While the group is loosely organized, every member is expected to make the pilgrimage to Cologne Cathedral at least once to celebrate Christmas Day, and many also brave the journey to Bethlehem. The cult's festival is Christmas Day, December 25th, and individual members also celebrate their own birthdays with elaborate rites — both occasions are marked by lavish gift-giving to fellow Magoi of the Star. The cult has recently become concerned with prophecies of an Antichrist, and is fervently searching for information as to the veracity and meaning of these portents. Their divination and astrology allow an understanding of the present, but do not let them see into the future, and even the wisest diviner must know the right questions to ask.
 
-## Structure of the Magoi of the Star
+### Structure of the Magoi of the Star
 
 The cult teaches its secrets by direct transmission from master to pupil, with little structure beyond the teacher-student relationship. When the master believes the pupil is ready, the pupil is Initiated to another secret. When a master decides a pupil has learned enough, the pupil goes forth to become a master. The group is rumored to have cult headquarters (in Bethlehem, Babylon, Cologne, and possibly other places besides) that contain great repositories of astrological lore and ancient magical books, but the truth of this is a closely guarded cult secret.
 
 The cult is organized into seven separate degrees of Initiation.
 
-## Degree of Saturn
+#### Degree of Saturn
 
 This is the first degree of Initiation, and members traditionally wear black gowns, emblazoned with stars and moon symbols for rites. To be Initiated requires a knowledge of Artes Liberales at 4 or greater, reflecting a sound knowledge of astronomy and the mathematical ability to construct astrological charts. The Initiate is taught how to overcome planetary influences, and how to use them to his advantage. The Virtue Initiated is Planetary Magic.
 
@@ -2257,20 +2119,17 @@ The Initiate, resplendent in robes of red, is now required to actively serve the
 
 Wearing a copper circlet and an emerald robe, the Initiate is now responsible for actively working to gather information in line with the cult's current interests, and must participate in the pilgrimage to Cologne for Christmas Day if she has not before now. The Initiate is taught the secrets of astrology now, namely the Major Virtue Celestial Magic.
 
-## Doctrine of Origen
-
-For Origen, there is no damnation of Hell; all things will eventually be saved and join God, in what is known as the Perfectibility of Man, a heretical doctrine. Evil is the result of the soul's free will, not the result of matter. In fact, for Origen, the soul pre-exists birth, and it makes an evil choice of its own to be put into a body in the first place. The embodiment of souls is therefore a kind of fall from grace. Origen opposed the idea that a person's entire life could be determined from a horoscope.
-
-To admit the truth of horoscopes annihilates free will. According to Origen, the stars and planets are living, rational beings comprised of both matter and spirit. The stars possess free will and glow because they are filled with knowledge from the reflection of the everlasting light of God's wisdom. The stars are even capable of sin. Origen interpreted a passage in Deuteronomy to mean that the stars have in general been assigned by God to all the nations beneath Heaven. He admits that the stars foretell many things, and puts special faith in comets as omens. Origen holds that the stars are merely signs instituted by God, not causes of the future. Divine foreknowledge does not impose necessity, and the wise individual is able to overcome the power of the stars' influence on the Earth.
-
-Despite his theological confusion on the issue of Hell, Origen is still greatly admired by the Church.
+> ## Doctrine of Origen
+> 
+> For Origen, there is no damnation of Hell; all things will eventually be saved and join God, in what is known as the Perfectibility of Man, a heretical doctrine. Evil is the result of the soul's free will, not the result of matter. In fact, for Origen, the soul pre-exists birth, and it makes an evil choice of its own to be put into a body in the first place. The embodiment of souls is therefore a kind of fall from grace. Origen opposed the idea that a person's entire life could be determined from a horoscope.
+> 
+> To admit the truth of horoscopes annihilates free will. According to Origen, the stars and planets are living, rational beings comprised of both matter and spirit. The stars possess free will and glow because they are filled with knowledge from the reflection of the everlasting light of God's wisdom. The stars are even capable of sin. Origen interpreted a passage in Deuteronomy to mean that the stars have in general been assigned by God to all the nations beneath Heaven. He admits that the stars foretell many things, and puts special faith in comets as omens. Origen holds that the stars are merely signs instituted by God, not causes of the future. Divine foreknowledge does not impose necessity, and the wise individual is able to overcome the power of the stars' influence on the Earth.
+> 
+> Despite his theological confusion on the issue of Hell, Origen is still greatly admired by the Church.
 
 #### Degree of Mercury
 
-This degree requires the Initiate begin to teach on behalf on the cult, and to train new Initiates in the mystery. It is the degree where the Initiate also travels most, to Cologne, Bethlehem, and Babylon, seeking out astrological secrets and meeting with other leading astrologers, both from the Magoi of the Star and from other traditions. He is taught the Virtue Major Magical Focus, relating to
-
-
-
+This degree requires the Initiate begin to teach on behalf on the cult, and to train new Initiates in the mystery. It is the degree where the Initiate also travels most, to Cologne, Bethlehem, and Babylon, seeking out astrological secrets and meeting with other leading astrologers, both from the Magoi of the Star and from other traditions. He is taught the Virtue Major Magical Focus, relating to the Initiate’s Potent house (as taught in the Degree of Jupiter), unless he already has a Magical Focus, in which case he may be taught Potent Magic for his birth planet or sign. The robes for this degree are of orange or amber.
 
 #### Wise One
 
@@ -2282,56 +2141,71 @@ The greatest astrologers of all, the three Hierophants who lead the Magoi of the
 
 ## Appendix: Astrological Correspondences
 
-The 12 great constellations (the signs of the Zodiac) and the seven planets revolve around the Earth in a complex sequence. (The magical armillary sphere, detailed earlier, can be used to track this sequence, and by the use of cunning mechanisms mimic here below the great engine of the heavens above.) Astrology studies the influence of the signs and the planets, and the complex calculations and charts known as a horoscope describe how
+The 12 great constellations (the signs of the Zodiac) and the seven planets revolve around the Earth in a complex sequence. (The magical armillary sphere, detailed earlier, can be used to track this sequence, and by the use of cunning mechanisms mimic here below the great engine of the heavens above.) Astrology studies the influence of the signs and the planets, and the complex calculations and charts known as a horoscope describe how 
 
-| Signs by Category |             |        |           |          |             |
-|-------------------|-------------|--------|-----------|----------|-------------|
-| Elem<br>ent       | Hum<br>or   | Gender | Cardinal  | Fixed    | Mutable     |
-| Fire              | Choleric    | Male   | Aries     | Leo      | Sagittarius |
-| Water             | Phlegmatic  | Female | Cancer    | Scorpio  | Pisces      |
-| Air               | Sanguine    | Male   | Libra     | Aquarius | Gemini      |
-| Earth             | Melancholic | Female | Capricorn | Taurus   | Virgo       |
+> ## Signs by Category
+> 
+> | Element | Humor       | Gender | Cardinal  | Fixed    | Mutable     |
+> |---------|-------------|--------|-----------|----------|-------------|
+> | Fire    | Choleric    | Male   | Aries     | Leo      | Sagittarius |
+> | Water   | Phlegmatic  | Female | Cancer    | Scorpio  | Pisces      |
+> | Air     | Sanguine    | Male   | Libra     | Aquarius | Gemini      |
+> | Earth   | Melancholic | Female | Capricorn | Taurus   | Virgo       |
 
-|             | Signs and Decans                                |                                    |                                                               |
-|-------------|-------------------------------------------------|------------------------------------|---------------------------------------------------------------|
-| Sign        | First Decan                                     | Second Decan                       | Third Decan                                                   |
-| Aries       | adventure, zeal,<br>dishonor, and<br>misfortune | nobility, leadership               | propaganda, scandal                                           |
-| Taurus      | determination                                   | struggle,<br>competition           | mastery, physicality,<br>materialism                          |
-| Gemini      | mastermind,<br>deduction                        | fidelity                           | reason, objectivity                                           |
-| Cancer      | moods, poetics,<br>drama                        | revelation, energy,<br>emotion     | research, curiosity,<br>restlessness, and<br>sexual confusion |
-| Leo         | conqueror, hedonism                             | astute observation                 | ruthless ambition                                             |
-| Virgo       | achievement, great<br>tasks                     | experience,<br>diplomacy           | duty, renunciation                                            |
-| Libra       | wisdom, subtlety                                | independence,<br>rebellion         | arts and letters, out<br>witting others                       |
-| Scorpio     | excess energy,<br>fertility                     | restriction, vivid<br>passion      | victory, vivid ideas,<br>intuition, sex                       |
-| Sagittarius | devotion, instinct                              | questing                           | illumination, reveal<br>ing illusion                          |
-| Capricorn   | organization,<br>coordination                   | martyrdom, tireless<br>effort      | idealism, knowledge                                           |
-| Aquarius    | manipulation,<br>teaching                       | inspiration, convinc<br>ing others | repression                                                    |
-| Pisces      | mysticism,<br>truth-seeking                     | barriers, self-sacrifice           | vicissitudes, sex                                             |
 
-the heavens influence a person, place, or event.
+> ## Signs and Decans
+> 
+> | Sign        | First Decan                                      | Second Decan                        | Third Decan                                                    |
+> |-------------|--------------------------------------------------|-------------------------------------|----------------------------------------------------------------|
+> | Aries       | adventure, zeal, dishonor, and misfortune        | nobility, leadership                | propaganda, scandal                                            |
+> | Taurus      | determination                                    | struggle, competition               | mastery, physicality, materialism                              |
+> | Gemini      | mastermind, deduction                            | fidelity                            | reason, objectivity                                            |
+> | Cancer      | moods, poetics, drama                            | revelation, energy, emotion         | research, curiosity, restlessness, and sexual confusion        |
+> | Leo         | conqueror, hedonism                              | astute observation                  | ruthless ambition                                              |
+> | Virgo       | achievement, great tasks                         | experience, diplomacy               | duty, renunciation                                             |
+> | Libra       | wisdom, subtlety                                 | independence, rebellion             | arts and letters, outwitting others                            |
+> | Scorpio     | excess energy, fertility                         | restriction, vivid passion          | victory, vivid ideas, intuition, sex                           |
+> | Sagittarius | devotion, instinct                               | questing                            | illumination, revealing illusion                               |
+> | Capricorn   | organization, coordination                       | martyrdom, tireless effort          | idealism, knowledge                                            |
+> | Aquarius    | manipulation, teaching                           | inspiration, convincing others      | repression                                                     |
+> | Pisces      | mysticism, truth-seeking                         | barriers, self-sacrifice            | vicissitudes, sex                                              |
 
 As described in ArM5, page 84, a magus can calculate a Daily Horoscope for a person, if he knows the person's location, by succeeding in an Intelligence + Artes Liberales (Astronomy) roll against an Ease Factor of 9. Creating a Daily Horoscope takes one hour. A magus can create a Nativity Horoscope if he knows the target's time and place of birth, and succeeds in an Intelligence + Artes Liberales (Astronomy) roll against an Ease Factor of 9. Creating a Nativity Horoscope takes a day's work. Note: Most magi are careful to conceal and disguise information about their birth.
 
 #### Signs of the Zodiac
 
-The signs of the Zodiac fall into several categories, some opposing others. Signs
-
-
-
-|          | Spheres of Influence of the Planets                                                                                                      |
-|----------|------------------------------------------------------------------------------------------------------------------------------------------|
-| The Sun  | Influences rulership, kings, leadership, and authority, health, and<br>well-being, and governs the characteristics Presence and Stamina. |
-| The Moon | Influences emotions, tides, any cyclic magic, fertility, and child<br>birth, and governs the characteristic Dexterity.                   |
-| Mercury  | Influences journeys, writing, books, and messengers, and governs<br>the characteristic Quickness.                                        |
-| Venus    | Influences beauty, romance, marriage and the performing arts, and<br>governs the characteristic Communication.                           |
-| Mars     | Influences war, violence, ambition, and sex, and governs the char<br>acteristic Strength.                                                |
-| Jupiter  | Influences merriment, reason, prosperity, luck, and games of any<br>type, and governs the characteristic Intelligence.                   |
-| Saturn   | Influences age, time, wisdom, and resisting distractions, and gov<br>erns the characteristic Perception.                                 |
-|          |                                                                                                                                          |
-
-are accorded correspondence with the four elements (fire, water, air, earth), four humors (choleric, phlegmatic, sanguine, melancholic — corresponding to the four elements), three temperaments (cardinal, fixed, mutable), and two genders.
+The signs of the Zodiac fall into several categories, some opposing others. Signs are accorded correspondence with the four elements (fire, water, air, earth), four humors (choleric, phlegmatic, sanguine, melancholic — corresponding to the four elements), three temperaments (cardinal, fixed, mutable), and two genders.
 
 The 12 signs of the Zodiac govern the world below, influencing different aspects of the world. Each sign is also divided into three sub-periods called decans, revealing different aspects of the signs' influence as the sun passed through each house:
+
+> ## Astrological Houses
+>
+> | Number | Name      | Province                                         |
+> |--------|-----------|--------------------------------------------------|
+> | I      | Vita      | Personality, appearance, and childhood           |
+> | II     | Lucrum    | Possessions and finance                          |
+> | III    | Frates    | Family, communication, and speech                |
+> | IV     | Genitor   | Parents, childhood home, and seclusion           |
+> | V      | Nati      | Offspring, sexuality, and creativity             |
+> | VI     | Valetudo  | Subordinates, work, and health                   |
+> | VII    | Uxor      | Marriage, partnership, and close friends         |
+> | VIII   | Mors      | Death, accidents, and mysticism                  |
+> | IX     | Pietas    | Study, contemplation, and travel                 |
+> | X      | Regnum    | Career, ambition, and achievements               |
+> | XI     | Benefacta | Ideals, worthy causes, and society               |
+> | XII    | Carcer    | Restriction, sorrow, and illness                 |
+
+> ## Spheres of Influence of the Planets
+> 
+> | Planet   | Influence                                                                 |
+> |----------|---------------------------------------------------------------------------|
+> | The Sun  | Influences rulership, kings, leadership, and authority, health, and well-being, and governs the characteristics Presence and Stamina. |
+> | The Moon | Influences emotions, tides, any cyclic magic, fertility, and childbirth, and governs the characteristic Dexterity. |
+> | Mercury  | Influences journeys, writing, books, and messengers, and governs the characteristic Quickness. |
+> | Venus    | Influences beauty, romance, marriage and the performing arts, and governs the characteristic Communication. |
+> | Mars     | Influences war, violence, ambition, and sex, and governs the characteristic Strength. |
+> | Jupiter  | Influences merriment, reason, prosperity, luck, and games of any type, and governs the characteristic Intelligence. |
+> | Saturn   | Influences age, time, wisdom, and resisting distractions, and governs the characteristic Perception. |
 
 #### The 12 Astrological Houses
 
@@ -2341,10 +2215,7 @@ At any time and place, one sign will be rising over the horizon in the east. The
 
 Hermetic magi have developed their own understanding of the subtle astral influences of the stars. Using Planetary Magic it is possible to select an appropriate governing planet for most effects instilled in enchanted devices.
 
-
-## Chapter Seven
-
-# Divination & Augury
+# Chapter 7: Divination & Augury
 
 Augury and divination were known throughout the ancient world, and comprise possibly the most practiced magical tradition in Mythic Europe. In the 13th century, the most prestigious divinatory art was astrology, which had become ascendant in the Late Roman Empire and was certainly known to the Founders. The noble and royal courts are increasingly becoming breeding grounds for astrology and other divination, and some say this is because courtiers who have little real power can wield enormous influence over the magnate. John of Salisbury (1115- 1180), in the *Policraticus,* complains about the various types of diviners common at court: augurs, astrologers, chiromancers, dream interpreters, and crystal-gazers. This role is strictly forbidden to Hermetic magi by the Code, and preparing a horoscope of a king or kingdom is usually viewed as a treasonable offense by the king in question.
 
@@ -2374,10 +2245,7 @@ When a magus learns his first method of divination, the Initiation rites enable 
 
 If he later Initiates additional methods as Minor Virtues, those Initiations grant no additional levels of Divination Ability, but do allow him to change his specialty if he wishes.
 
-If he has access to further Initiations, he can acquire additional divination methods as Minor Virtues once he has the Major Virtue of Divination. Additional methods let him phrase questions in dif-
-
-
-ferent ways and use different tools, and let him gain further bonuses in Ceremonial Divination.
+If he has access to further Initiations, he can acquire additional divination methods as Minor Virtues once he has the Major Virtue of Divination. Additional methods let him phrase questions in different ways and use different tools, and let him gain further bonuses in Ceremonial Divination.
 
 Note: Astrology and Numerology as methods of divination are branches of this Supernatural Ability; Hermetic Astrology and Hermetic Mathematics are concerned with working influences into general Hermetic magic. (See Chapter 5: Hermetic Astrology and Chapter 11: Arithmetic Magic.)
 
@@ -2391,57 +2259,53 @@ Hermetic Divination cannot simulate the effects of Ritual Magic.
 
 #### Ease Factor
 
-Any question that can be posed as a non-Ritual Hermetic Intellego spell (of any Form), of any range and tar-
+Any question that can be posed as a non-Ritual Hermetic Intellego spell (of any Form), of any range and target (other than Sense targets), and of Momentary Duration can be attempted using Divination.
 
-
-
-## Example Divinations
-
-#### Did William steal my book?
-
-This is an Intellego Mentem base 10 "discover the truth of a statement," but as the information comes from William's mind, the total would also have to beat his Magic Resistance, if any.
-
-The question "Who stole my book?" would use the same base, but the Target would vary depending on the number of individuals to be investigated. A covenant with grogs and covenfolk would have an Ease Factor of 30 (+1 Touch, +2 Group, +1 Size). A modest medieval city is a Boundary Target, and has an Ease Factor of 35 (+1 Touch, +4 Boundary).
-
-#### Is Thurydices the Redcap merely delayed, or has he been slain?
-
-Overlooking the fact that using magic to answer questions about a fellow member of the Order is a breach of the Code, the question is really, "Is Thurydices still alive?" Since he is not present, the maga has no idea where he is, she requires an Arcane Connection to him. An Intellego Corpus level 4 allows her to "sense general information about a body." The Ease Factor is therefore 5 (adding one magnitude for Touching the Arcane Connection).
-
-#### Did I put out all the candles in my lab before setting out vis gathering?
-
-This can be formulated either as a Group target (the candles) or a Room target (the laboratory). The guideline is level 1 "locate a fire."
-
-As a Casual Divination, standing on the threshold of the room before leaving, the Ease Factor is 4. If considering the matter en route to dinner, holding an Arcane Connection to the laboratory, the Ease Factor is also 4 (Base 1, +1 touching AC, +2 Room).
-
-#### Will it rain during the Aegis ritual?
-
-This is equivalent to the Formulaic spell *Sailor's Foretaste of the Morrow,* Intellego Auram 20. The Ease Factor is 20.
-
-#### Is Etienne lying to me?
-
-The Ease Factor is 15 (Base 10, +1 Eye, or +1 touching an AC). Unlike the common spell *Frosty Breath of the Spoken Lie*, the question is momentary and the answer personal — no frosty breath emerges.
-
-#### Is there a hidden regio in the covenant?
-
-Detecting a Regio is straightforward, but given the uncertainty as to location, a Boundary target seems best. The Ease Factor is 20 (Base 3, +1 Touch, +4 Boundary). This reveals the presence and rough shape of the boundary.
-
-#### Is there a vis source on that mountain?
-
-Ease Factor is 20: Intellego Vim base 1 "detect the presence of vis," +3 magnitudes for Sight range, +4 magnitudes for Boundary target.
-
-If the diviner holds an Arcane Connection to the mountain, the range drops to Touch, and the Ease Factor drops to 10.
-
-If the vis source is to be precisely located, this complexity adds 2 magnitudes, increasing the Ease Factor back to 20.
-
-If vis is hidden inside the mountain, in caves or tunnels or buried, a Hermetic spell to find the vis would need a Terram requisite and add +1 magnitude, and that magnitude is needed in divination too, making our final Ease Factor 25.
-
-#### Will the Tribunal tomorrow convict me of interfering with mundanes?
-
-At first glance this appears to breach the Hermetic Limit of Time, but what is really being asked is, at this time, before they have heard the evidence, "What is the gut feeling of those magi who have heard the charge is to be brought?" Such a question can be asked, but the answer is unlikely to prove very helpful in making an informed decision, as many of the magi will change their minds on hearing the evidence, or hear of the case for the first time, after the divination is cast.
-
-This is Intellego Mentem, base 15, "pick a single answer from the mind of a target," affecting a group of up to 100 magi, for an additional +3 magnitudes, +1 for Touch (including the caster in the Group). The Ease Factor is therefore 30, but the caster also has to defeat all their Magic Resistances, and is in breach of the Code, having scryed upon his sodales. As some will undoubtedly resist the divination, the answer will be based on those with poor Magic Resistance, and since others may change their minds tomorrow, the caster could be much better employed intriguing, bargaining, and preparing his defense.
-
-get (other than Sense targets), and of Momentary Duration can be attempted using Divination.
+> ## Example Divinations
+> 
+> **Did William steal my book?**
+> 
+> This is an Intellego Mentem base 10 "discover the truth of a statement," but as the information comes from William's mind, the total would also have to beat his Magic Resistance, if any.
+> 
+> The question "Who stole my book?" would use the same base, but the Target would vary depending on the number of individuals to be investigated. A covenant with grogs and covenfolk would have an Ease Factor of 30 (+1 Touch, +2 Group, +1 Size). A modest medieval city is a Boundary Target, and has an Ease Factor of 35 (+1 Touch, +4 Boundary).
+> 
+> **Is Thurydices the Redcap merely delayed, or has he been slain?**
+> 
+> Overlooking the fact that using magic to answer questions about a fellow member of the Order is a breach of the Code, the question is really, "Is Thurydices still alive?" Since he is not present, the maga has no idea where he is, she requires an Arcane Connection to him. An Intellego Corpus level 4 allows her to "sense general information about a body." The Ease Factor is therefore 5 (adding one magnitude for Touching the Arcane Connection).
+> 
+> **Did I put out all the candles in my lab before setting out vis gathering?**
+> 
+> This can be formulated either as a Group target (the candles) or a Room target (the laboratory). The guideline is level 1 "locate a fire."
+> 
+> As a Casual Divination, standing on the threshold of the room before leaving, the Ease Factor is 4. If considering the matter en route to dinner, holding an Arcane Connection to the laboratory, the Ease Factor is also 4 (Base 1, +1 touching AC, +2 Room).
+> 
+> **Will it rain during the Aegis ritual?**
+> 
+> This is equivalent to the Formulaic spell *Sailor's Foretaste of the Morrow,* Intellego Auram 20. The Ease Factor is 20.
+> 
+> **Is Etienne lying to me?**
+> 
+> The Ease Factor is 15 (Base 10, +1 Eye, or +1 touching an AC). Unlike the common spell *Frosty Breath of the Spoken Lie*, the question is momentary and the answer personal — no frosty breath emerges.
+> 
+> **Is there a hidden regio in the covenant?**
+> 
+> Detecting a Regio is straightforward, but given the uncertainty as to location, a Boundary target seems best. The Ease Factor is 20 (Base 3, +1 Touch, +4 Boundary). This reveals the presence and rough shape of the boundary.
+> 
+> **Is there a vis source on that mountain?**
+> 
+> Ease Factor is 20: Intellego Vim base 1 "detect the presence of vis," +3 magnitudes for Sight range, +4 magnitudes for Boundary target.
+> 
+> If the diviner holds an Arcane Connection to the mountain, the range drops to Touch, and the Ease Factor drops to 10.
+> 
+> If the vis source is to be precisely located, this complexity adds 2 magnitudes, increasing the Ease Factor back to 20.
+> 
+> If vis is hidden inside the mountain, in caves or tunnels or buried, a Hermetic spell to find the vis would need a Terram requisite and add +1 magnitude, and that magnitude is needed in divination too, making our final Ease Factor 25.
+> 
+> **Will the Tribunal tomorrow convict me of interfering with mundanes?**
+> 
+> At first glance this appears to breach the Hermetic Limit of Time, but what is really being asked is, at this time, before they have heard the evidence, "What is the gut feeling of those magi who have heard the charge is to be brought?" Such a question can be asked, but the answer is unlikely to prove very helpful in making an informed decision, as many of the magi will change their minds on hearing the evidence, or hear of the case for the first time, after the divination is cast.
+> 
+> This is Intellego Mentem, base 15, "pick a single answer from the mind of a target," affecting a group of up to 100 magi, for an additional +3 magnitudes, +1 for Touch (including the caster in the Group). The Ease Factor is therefore 30, but the caster also has to defeat all their Magic Resistances, and is in breach of the Code, having scryed upon his sodales. As some will undoubtedly resist the divination, the answer will be based on those with poor Magic Resistance, and since others may change their minds tomorrow, the caster could be much better employed intriguing, bargaining, and preparing his defense.
 
 In Divination, an Arcane Connection held in the hand may be interpreted as if the diviner were Touching the target (rather than at Arcane Range).
 
@@ -2449,7 +2313,7 @@ Divination may answer questions about Boundary Targets without the normal ritual
 
 The Ease Factor for Hermetic Divination is the level of the equivalent Hermetic spell. The divination answers truly if the magus succeeds in a roll of:
 
-#### Stress Die + Characteristic + Divination + Aura + Bonuses vs. Ease Factor
+**Stress Die + Characteristic + Divination + Aura + Bonuses vs. Ease Factor**
 
 Bonuses are explained under Casual Divination and Ceremonial Divination.
 
@@ -2457,27 +2321,48 @@ Bonuses are explained under Casual Divination and Ceremonial Divination.
 
 The Penetration (if needed) of a divination is:
 
-#### Divination Total + Penetration Bonus – Ease Factor
+**Divination Total + Penetration Bonus – Ease Factor**
 
 The rules on increasing Penetration Bonus on ArM5, page 84 apply as normal.
 
-
-
-**Technique Description Important Uses** Aeromancy Patterns in the air Health of nobles +3, weather +5 Alectryomancy Eating behavior of chickens Corpus +2, Mentem +3 Aleuromancy Burning or cooking flour Herbam +2, crops +5 Alomancy Patterns in thrown salt Aquam +1, Terram +2, weather +3 Alphitomancy Eating barley bread Guilt or innocence +5 Apantomancy Chance meetings with animals Locations and buildings +3 Ashagalomancy Casting bones Ghosts +3, Corpus +4 **Astrology (requires Planetary Magic) +5 +Horoscope bonus** Axinomancy Balancing a hatchet Search for treasure +3, detect thieves +5 Belomancy Shooting arrows in the air Auram +1, battle +3 Botanomancy Burning sticks carved with questions Herbam +5 Capnomancy Fumes from burning poppies Imaginem +2, dreams + 2, mental illness +3 Causimomancy Behavior of objects placed in a fire Curses and bindings +3, Ignem +2 Cephalomancy Severing the head of a goat or donkey Animal +5, travel +5 Ceroscopy Patterns of wax dripped in water Marriage +1, happiness +3 Cleidomancy Dangling a key from the Bible Sin +3, lying +5 Cleromancy Casting dice or lots Courts of justice +2, business +3, money +5 Crystalomancy Crystal-gazing Friends +1, enemies +2, Vim +3 **Dream Interpretation (see Hermetic Dream Interpreter) +5** Geomancy Patterns in earth Kingdoms +2, Terram +5 Haruspicy Entrails of sacrificed animals Animal +4, disease +5 Hippomancy Behavior of horses Nobles +3, war +4 Hydromancy Observing water Judgments +3, Aquam +5 Lecanomancy By bowls of fluid Ghosts +5, spirits +3 Myomancy Behavior of mice and rats Battle +2, disaster +5
-
-**Numerology (requires Hermetic Numerology) book bonus — see Chapter 11**
-
-Onomancy Comparing names Mentem +2, Corpus +3, conflict resolution +5
-
-Ooscopy Burning or cooking eggs Youth +4, children +5 Ophiomancy Behavior of serpents Spirits +3, sciences +4 Phyllorhodomancy Rose bush leaves Love +3, desire +5
-
-Pyromancy Observing flames Ignem +5
-
-Rhabdomancy Divining rods Hidden objects +4, things underground +5
-
-Scapulomancy Roasting shoulder blades Farming +2, herds +5 Scrying Gazing into reflective surfaces Clairvoyance +5
-
-
+> ## Ceremonial Augury Phenomena
+>
+> | Technique            | Description                              | Important Uses                                      |
+> |---------------------|------------------------------------------|-----------------------------------------------------|
+> | Aeromancy           | Patterns in the air                      | Health of nobles +3, weather +5                     |
+> | Alectryomancy       | Eating behavior of chickens              | Corpus +2, Mentem +3                                |
+> | Aleuromancy         | Burning or cooking flour                 | Herbam +2, crops +5                                 |
+> | Alomancy            | Patterns in thrown salt                  | Aquam +1, Terram +2, weather +3                     |
+> | Alphitomancy        | Eating barley bread                      | Guilt or innocence +5                               |
+> | Apantomancy         | Chance meetings with animals             | Locations and buildings +3                          |
+> | Ashagalomancy       | Casting bones                            | Ghosts +3, Corpus +4                                |
+> | **Astrology**       | **(requires Planetary Magic)**           | **+5 + Horoscope bonus**                            |
+> | Axinomancy          | Balancing a hatchet                      | Search for treasure +3, detect thieves +5           |
+> | Belomancy           | Shooting arrows in the air               | Auram +1, battle +3                                 |
+> | Botanomancy         | Burning sticks carved with questions     | Herbam +5                                           |
+> | Capnomancy          | Fumes from burning poppies               | Imaginem +2, dreams +2, mental illness +3           |
+> | Causimomancy        | Behavior of objects placed in a fire     | Curses and bindings +3, Ignem +2                    |
+> | Cephalomancy        | Severing the head of a goat or donkey    | Animal +5, travel +5                                |
+> | Ceroscopy           | Patterns of wax dripped in water         | Marriage +1, happiness +3                           |
+> | Cleidomancy         | Dangling a key from the Bible            | Sin +3, lying +5                                    |
+> | Cleromancy          | Casting dice or lots                     | Courts of justice +2, business +3, money +5         |
+> | Crystalomancy       | Crystal-gazing                           | Friends +1, enemies +2, Vim +3                      |
+> | **Dream Interpretation** | **(see Hermetic Dream Interpreter)** | **+5**                                          |
+> | Geomancy            | Patterns in earth                        | Kingdoms +2, Terram +5                              |
+> | Haruspicy           | Entrails of sacrificed animals           | Animal +4, disease +5                               |
+> | Hippomancy          | Behavior of horses                       | Nobles +3, war +4                                   |
+> | Hydromancy          | Observing water                          | Judgments +3, Aquam +5                              |
+> | Lecanomancy         | By bowls of fluid                        | Ghosts +5, spirits +3                               |
+> | Myomancy            | Behavior of mice and rats                | Battle +2, disaster +5                              |
+> | **Numerology**      | **(requires Hermetic Numerology)**       | **book bonus — see Chapter 11**                     |
+> | Onomancy            | Comparing names                          | Mentem +2, Corpus +3, conflict resolution +5        |
+> | Ooscopy             | Burning or cooking eggs                  | Youth +4, children +5                               |
+> | Ophiomancy          | Behavior of serpents                     | Spirits +3, sciences +4                             |
+> | Phyllorhodomancy    | Rose bush leaves                         | Love +3, desire +5                                  |
+> | Pyromancy           | Observing flames                         | Ignem +5                                            |
+> | Rhabdomancy         | Divining rods                            | Hidden objects +4, things underground +5            |
+> | Scapulomancy        | Roasting shoulder blades                 | Farming +2, herds +5                                |
+> | Scrying             | Gazing into reflective surfaces          | Clairvoyance +5                                     |
 
 #### Divination in Practice
 
@@ -2487,7 +2372,7 @@ The magus has two options, casual divination and ceremonial divination.
 
 Casual Divination takes one round, and allows the magus to observe signs in his immediate environment; for example, the flight of birds, or the exercises of the turb at practice.
 
-#### Stress Die + Perception + Divination + Aura + Bonus vs. Ease Factor (Equivalent Spell Level)
+**Stress Die + Perception + Divination + Aura + Bonus vs. Ease Factor (Equivalent Spell Level)**
 
 The storyguide may add a bonus of +0 to +3 (very rarely +4 or +5) if the omens picked are especially relevant to the subject matter; for example, the cloud patterns as an indication of weather.
 
@@ -2503,16 +2388,11 @@ Ceremonial Divination takes 15 minutes per 5 Ease Factors (the same as 15 minute
 
 A number of different bonuses can be applied to the Ceremonial or Casual Divination roll.
 
-- **Ceremonial Bonus:** The ceremonial bonus is determined by the relationship between the phenomenon observed to infer the answer, and the nature of the question if the method of divination is sympathetic to the question asked. This ranges from +1 to +5. **•**
-- **Hermetic Numerology** (see Chapter 11: Arithmetic Magic) adds specific bonuses for the numerologist's book. **•**
-- **Sympathetic Magic Bonus:** To find the sympathetic magic bonus, **•**
-
-#### The Mysteries Revised Edition
-
-refer to the tables on ArM5, page 84. Calculate the "multiplier" for any Arcane Connection to the subject of the divination, and for the other factors in the sympathetic connection table. The "multiplier" calculated is then added as a bonus to the Divination roll. Most of the "multipliers" also apply again to the Penetration calculation. Having a good set of sympathetic connections to a subject may yield very high penetration results. *Example: Determinata wishes to locate her shield grog, missing after a night on the town. She knows his nickname (+1), has his signature (+1), and has a lock of hair (an Arcane Connection lasting years, +3), for a total sympathetic magic bonus of +5.*
-
-- Note that the caster can only add Daily and Nativity Horoscope bonuses if he is divining using astrology. For this reason, perhaps, astrology is a popular method among Hermetic magi. •
-- **Magical Bonus:** The magus can make a specially enchanted device (e.g., mirror, astrolabe, silver dish for water) appropriate to his method of divination. The nature of this device commonly reflects the diviner's method (see the table of Ceremonial Augury Phenomena). The magus enchants the Mystery divinatory general Effect *Enchantment of the Scrying Device* into the device, which may be an invested device or a lesser enchanted device. Diviners often enchant their talisman for this purpose, and choose the shape and material of their talisman to allow attunements relating to divination. **•**
+- **Ceremonial Bonus:** The ceremonial bonus is determined by the relationship between the phenomenon observed to infer the answer, and the nature of the question if the method of divination is sympathetic to the question asked. This ranges from +1 to +5.
+- **Hermetic Numerology** (see Chapter 11: Arithmetic Magic) adds specific bonuses for the numerologist's book. 
+- **Sympathetic Magic Bonus:** To find the sympathetic magic bonus, refer to the tables on ArM5, page 84. Calculate the "multiplier" for any Arcane Connection to the subject of the divination, and for the other factors in the sympathetic connection table. The "multiplier" calculated is then added as a bonus to the Divination roll. Most of the "multipliers" also apply again to the Penetration calculation. Having a good set of sympathetic connections to a subject may yield very high penetration results. *Example: Determinata wishes to locate her shield grog, missing after a night on the town. She knows his nickname (+1), has his signature (+1), and has a lock of hair (an Arcane Connection lasting years, +3), for a total sympathetic magic bonus of +5.*
+- Note that the caster can only add Daily and Nativity Horoscope bonuses if he is divining using astrology. For this reason, perhaps, astrology is a popular method among Hermetic magi.
+- **Magical Bonus:** The magus can make a specially enchanted device (e.g., mirror, astrolabe, silver dish for water) appropriate to his method of divination. The nature of this device commonly reflects the diviner's method (see the table of Ceremonial Augury Phenomena). The magus enchants the Mystery divinatory general Effect *Enchantment of the Scrying Device* into the device, which may be an invested device or a lesser enchanted device. Diviners often enchant their talisman for this purpose, and choose the shape and material of their talisman to allow attunements relating to divination.
 
 The magus adds Ceremonial Bonus, sympathetic bonus, and Magic Bonus to the roll against the Ease Factor for the divination.
 
@@ -2528,7 +2408,6 @@ The magus adds Ceremonial Bonus, sympathetic bonus, and Magic Bonus to the roll 
 
 *Numera's Ceremonial Divination roll is a stress die + 3 + 7 +5 + bonuses of 5 + 4 + (3+2), or die + 29. She is ready to start asking questions about the mountain.*
 
-
 ## Hermetic Dream Interpreter — Major Supernatural Mystery Virtue
 
 Hermetic Dream Interpreter is a specialized method of Hermetic Divination. It is similar to the Divine Virtue Dream Interpreter (see the *Realms of Power: The Divine*).
@@ -2538,8 +2417,6 @@ Hermetic Dream Interpretation permits Casual and Ceremonial Divination in a spec
 When she learns her first method of divination, the Initiation rites enable her to learn the Supernatural Ability Divination at level 1. Specialties: particular methods of divination, particular times of day for questions, particular types of target.
 
 (If she later Initiates additional methods as Minor Virtues, those Initiations grant no additional levels of Divination Ability, but do allow her to change her specialty if she wishes.)
-
-
 
 #### Hermetic Dream Interpretation
 
@@ -2555,29 +2432,29 @@ He may also interpret other people's dreams using this ability, by spending at l
 
 Refer to the section on Ceremonial Divination for more details, including Divination Totals, bonuses and magical enchantments that may help the dream interpreter.
 
-## Enchantment of the Scrying Device
-
-In(Forms) Gen
-
-Pen +0, uses per day: *as enchanted* R: Touch, D: Mom, T: Ind
-
-The effect may be enchanted with any Hermetic Forms desired, applying them as requisites to each other (no cost for extra requisites). The Forms enchanted (main and requisites) limit the range of divinations possible with the device. Such a device adds a magical bonus of +1 per 2 magnitudes of effect (round up).
-
-#### Magical Bonus = Effect level / 10 (round up)
-
-The effect's uses per day limit its use as normal, but do not count toward the magical bonus.
-
-*Example: Notarius creates an enchanted astrolabe that he uses to measure the positions of stars as he performs Ceremonial Astrology. He enchants this with Intellego Corpus (Mentem, Vim) — his three best Forms. He has Intelligence 3, Intellego 19, Corpus 17, Mentem 16, Vim 15 (the lowest Form is thus 15), Magic Theory 7, aura 5. The storyguide agrees that the astrolabe merits a Shape Bonus of +5 for Astrology. He has a Lab Total of 54. He has previously opened the astrolabe as an invested device.*
-
-*He chooses a level 31 effect, which is enough for a +4 bonus on Ceremonial Astrology.*
-
-*He also wishes to consult the astrolabe several times per day, so adds 5 levels for 24 uses/ day. The final effect level is 36, and (Lab Total 54 – Effect level 36) = 18, so he can just invest the effect in the two seasons he has free.*
+> ## Enchantment of the Scrying Device
+> 
+> In(Forms) Gen
+> 
+> Pen +0, uses per day: *as enchanted* R: Touch, D: Mom, T: Ind
+> 
+> The effect may be enchanted with any Hermetic Forms desired, applying them as requisites to each other (no cost for extra requisites). The Forms enchanted (main and requisites) limit the range of divinations possible with the device. Such a device adds a magical bonus of +1 per 2 magnitudes of effect (round up).
+> 
+> **Magical Bonus = Effect level / 10 (round up)**
+> 
+> The effect's uses per day limit its use as normal, but do not count toward the magical bonus.
+> 
+> *Example: Notarius creates an enchanted astrolabe that he uses to measure the positions of stars as he performs Ceremonial Astrology. He enchants this with Intellego Corpus (Mentem, Vim) — his three best Forms. He has Intelligence 3, Intellego 19, Corpus 17, Mentem 16, Vim 15 (the lowest Form is thus 15), Magic Theory 7, aura 5. The storyguide agrees that the astrolabe merits a Shape Bonus of +5 for Astrology. He has a Lab Total of 54. He has previously opened the astrolabe as an invested device.*
+> 
+> *He chooses a level 31 effect, which is enough for a +4 bonus on Ceremonial Astrology.*
+> 
+> *He also wishes to consult the astrolabe several times per day, so adds 5 levels for 24 uses/ day. The final effect level is 36, and (Lab Total 54 – Effect level 36) = 18, so he can just invest the effect in the two seasons he has free.*
 
 #### Symbolic Interpretation
 
 The magus may instead look for a *symbolic* interpretation of dreams. Roll an interpretation total:
 
-#### Stress Die + Intelligence + Divination (Dream Interpretation)
+**Stress Die + Intelligence + Divination (Dream Interpretation)**
 
 This is purely interpretative, not divination, and is unaffected by aura and other such factors. The symbolic meaning of dreams is also notoriously vague and ambiguous. Compare the result to the Ease Factor table (ArM5, page 7) to consider how clearly you might interpret the dream.
 
@@ -2591,10 +2468,7 @@ By touching another as he approaches sleep and talking to him about the subject 
 
 You may interpret this dream later, as described above.
 
-
-## Chapter Eight
-
-# Hermetic Spirit Magic
+# Chapter 8: Hermetic Spirit Magic
 
 The summoning and binding of spirits is one of the most ancient of all magical practices, and is widely practiced within Mythic Europe. The basic principle of this school is spell binding, which allows the magus to extend spells by binding spirits into the very fabric of a magical working. The term "necromancy," used originally to mean the practice of conversing with the dead, was by the 13th century being used to describe both the evocation of spirits and rituals to call up demons, so Hermetic magi interested in this field tend to prefer to use the term "spirit magic."
 
@@ -2622,15 +2496,11 @@ This Virtue requires the Virtue Spell Binding (see Chapter 4) as a prerequisite 
 
 The maga can invest effects requiring Ritual casting and vis use, subject to the following limitations:
 
-- If the effect is a Ritual because of complexity or the use of non- or pre-Hermetic rites then the caster cannot use Empowerment to bypass those restrictions. •
-- If the casting of a spell to create the magical effect requires special actions beyond those of an instant-triggered device — e.g., "marching the bounds," as in *The Bountiful Feast* — then the caster cannot use Empowerment to •
-
-
-bypass that restriction, and cannot empower the effect.
-
-- If an effect is a Ritual because it has Year duration or Boundary target (or similar special RDT granted by other Virtues), then the maga can use Empowerment to permit that Range or Duration. •
-- If an effect would be a Ritual to provide vis for a Momentary Creo spell, then the caster can use Empowerment to supply that vis and create spell results made real. •
-- If as a Formulaic spell the level exceeds 50, and the spell would be a Ritual only because of this, then in fact no Ritual Magic is needed to place the effect in a device (and the caster do not need Empowerment). •
+- If the effect is a Ritual because of complexity or the use of non- or pre-Hermetic rites then the caster cannot use Empowerment to bypass those restrictions.
+- If the casting of a spell to create the magical effect requires special actions beyond those of an instant-triggered device — e.g., "marching the bounds," as in *The Bountiful Feast* — then the caster cannot use Empowerment to bypass that restriction, and cannot empower the effect.
+- If an effect is a Ritual because it has Year duration or Boundary target (or similar special RDT granted by other Virtues), then the maga can use Empowerment to permit that Range or Duration.
+- If an effect would be a Ritual to provide vis for a Momentary Creo spell, then the caster can use Empowerment to supply that vis and create spell results made real.
+- If as a Formulaic spell the level exceeds 50, and the spell would be a Ritual only because of this, then in fact no Ritual Magic is needed to place the effect in a device (and the caster do not need Empowerment).
 
 Invoking a spirit-powered vis-using effect takes no more time or effort on the part of the person triggering the device than any other device invested effect. This is because the spirit is performing the magic as a spirit power, not as an actual Ritual.
 
@@ -2648,50 +2518,45 @@ The Virtue enables a magus to enchant Ritual effects into a device, but effects 
 
 The vis cost of the Ritual is provided by draining Might Score points equal to the vis cost of the powered effect each time the Ritual effect used. Loss of Might Score is permanent, unlike the normal use of (temporary) Might Points that a spirit uses to fuel its own powers. (If the spirit is somehow freed, it may find ways to slowly recover.)
 
-#### Might Score drained = (Ritual level/5) (round up)
+**Might Score drained = (Ritual level/5) (round up)**
 
 Note that this means the spirit is drained and permanently reduced by having its Might tapped, and hence spirits generally are extremely hostile to those who would perform this operation upon them. Any spirit aware of itself is tormented by loss of Might Score, and deeply resents the process; however, in the normal course of events, there is nothing a bound spirit can do about this, unless the device is broken.
 
 The level of the Ritual effect to be powered cannot exceed twice the spirit's Might Score. If it has too little Might remaining, it cannot power this effect. Any suitable spirit in the device can power the Ritual effect — powerful devices may have several spirits bound within them.
 
-#### Might Score x 2 must equal or exceed Ritual level
+**Might Score x 2 must equal or exceed Ritual level**
 
 Since the spirit's Might must exceed the effect powered, the spirit's diminishing Might will fail eventually, leaving a device with a permanently bound spirit unable to act upon it. If other, lesser Ritual effects were invested in the device, the weakened spirit may be able to power some effects but not others.
 
-*Example: Medica's Staff of Healing has Momentary healing Rituals to* Heal a
+*Example: Medica's Staff of Healing has Momentary healing Rituals to* Heal a Medium Wound *(CrCo 25) and to* Heal an Incapacitating Wound *(CrCo 35). The staff has a Might 27 spirit bound into it: healing a Medium Wound drains 5 Might Points, while healing an Incapacitating Wound drains 7 Might Points. After a battle, Medica is forced to heal two critically wounded companions, using up 14 Might: the spirit now has a Might Score of 13. The spirit can no longer power the level 35 Ritual, but can still power one use of* Heal a Medium Wound*, which will drain 5 Might, reducing it to Might Score 8, when it will be unable to power either Ritual.*
 
-## Suitable Spirits for a Magus' Magic
-
-In general, if a magus seeks to forge a close link to, or to draw special advantage from, a spirit, then the realm of the spirit must in some way match the magus's magic. Close links include taking a spirit as a familiar; special advantages include draining Might to power Ritual Magic.
-
-For most magi this requires a spirit of the Magic realm, although magi with Faerie Magic can also use Faerie spirits. Those who succumb to the foul cause of diabolism may bind Infernal spirits. Perhaps magi who have links to the Divine could forge links to a Divine spirit (see *Realms of Power: The Divine*), although they may quail at the thought of draining Might from a Divine being!
-
-Medium Wound *(CrCo 25) and to* Heal an Incapacitating Wound *(CrCo 35). The staff has a Might 27 spirit bound into it: healing a Medium Wound drains 5 Might Points, while healing an Incapacitating Wound drains 7 Might Points. After a battle, Medica is forced to heal two critically wounded companions, using up 14 Might: the spirit now has a Might Score of 13. The spirit can no longer power the level 35 Ritual, but can still power one use of* Heal a Medium Wound*, which will drain 5 Might, reducing it to Might Score 8, when it will be unable to power either Ritual.*
+> ## Suitable Spirits for a Magus' Magic
+> 
+> In general, if a magus seeks to forge a close link to, or to draw special advantage from, a spirit, then the realm of the spirit must in some way match the magus's magic. Close links include taking a spirit as a familiar; special advantages include draining Might to power Ritual Magic.
+> 
+> For most magi this requires a spirit of the Magic realm, although magi with Faerie Magic can also use Faerie spirits. Those who succumb to the foul cause of diabolism may bind Infernal spirits. Perhaps magi who have links to the Divine could forge links to a Divine spirit (see *Realms of Power: The Divine*), although they may quail at the thought of draining Might from a Divine being!
 
 If the device is broken (or the binding enchantment disenchanted), any spirits bound into it are released. The released spirits are typically enraged, both by their confinement and the torment of having Might drained from them. If a magus takes advantage of the unlimited enchantment spaces in a talisman, and then should ever break his talisman, all the spirits bound into the device are released together, and the breaker of the talisman had better beware.
 
-To contain the spirits the magus also instills one or more enchantments of *Empowering Prison of the Declining Spirit*, and then coerces a spirit into each *Empowering Prison*. Any spirit command spell can be used, or the spirit may be tricked into
+To contain the spirits the magus also instills one or more enchantments of *Empowering Prison of the Declining Spirit*, and then coerces a spirit into each *Empowering Prison*. Any spirit command spell can be used, or the spirit may be tricked into entering (see Spell Binding in Chapter 4). The spirit must be a disembodied spirit (for example, a magus cannot bind a living magical beast, although he can bind a ghost). Most magi must locate a spirit with Magic Might, unless they have a Virtue such as Faerie Magic that lets them tie effects to spirits of another realm.
 
-
-## Empowering Prison of the Declining Spirit
-
-**Empowering Prison of the Declining Spirit**
-
-Re(Mu)Vi(Forms), Gen, Mystery enchantment
-
-> Pen +0, uses per day *as enchanted* R: Per, D: Mom, T: Ind
-
-This Mystery enchantment can only be instilled by those with the Virtue Hermetic Empowerment. The enchantment has requisites of all the Forms of effects that are to be powered by this enchantment. The base level of the enchantment must equal or exceed twice the Might of the spirit that will be bound to it. Uses per day limits the number of times per day that the *Empowering Prison* can power other effects.
-
-An *Empowering Prison* drains Might Score from the bound spirit, and can power Ritual effects in the device provided that the *Prison* has requisites of the Form and any Form requisites of the Ritual effect. If a Ritual effect uses a Form that was not instilled as a requisite in the *Empowering Prison*, that Ritual effect cannot be powered by this *Prison*.
-
-When the *Empowering Prison* effect is used, the current Might Score of the bound spirit must equal or exceed twice the level of the Ritual effect to be powered, or both effects fail and no Might is drained.
-
-(General level Mystery effect, based on twice spirit's Might)
-
-*Example:* Empowering Prison of the Declining Spirit of Corpus and Mentem*, Rego (Muto) Vim (Corpus, Mentem) 50, three uses per day. The base effect is level 48, with +2 levels of Effect frequency. A spirit with a Might score no more than 24 may be commanded into the device and trapped in this enchantment. Thereafter, the enchantment can drain Might from the spirit to power Ritual effects of Corpus, Mentem, or Vim.*
-
-entering (see Spell Binding in Chapter 4). The spirit must be a disembodied spirit (for example, a magus cannot bind a living magical beast, although he can bind a ghost). Most magi must locate a spirit with Magic Might, unless they have a Virtue such as Faerie Magic that lets them tie effects to spirits of another realm.
+> ## Empowering Prison of the Declining Spirit
+> 
+> **Empowering Prison of the Declining Spirit**
+> 
+> Re(Mu)Vi(Forms), Gen, Mystery enchantment
+> 
+> > Pen +0, uses per day *as enchanted* R: Per, D: Mom, T: Ind
+> 
+> This Mystery enchantment can only be instilled by those with the Virtue Hermetic Empowerment. The enchantment has requisites of all the Forms of effects that are to be powered by this enchantment. The base level of the enchantment must equal or exceed twice the Might of the spirit that will be bound to it. Uses per day limits the number of times per day that the *Empowering Prison* can power other effects.
+> 
+> An *Empowering Prison* drains Might Score from the bound spirit, and can power Ritual effects in the device provided that the *Prison* has requisites of the Form and any Form requisites of the Ritual effect. If a Ritual effect uses a Form that was not instilled as a requisite in the *Empowering Prison*, that Ritual effect cannot be powered by this *Prison*.
+> 
+> When the *Empowering Prison* effect is used, the current Might Score of the bound spirit must equal or exceed twice the level of the Ritual effect to be powered, or both effects fail and no Might is drained.
+> 
+> (General level Mystery effect, based on twice spirit's Might)
+> 
+> *Example:* Empowering Prison of the Declining Spirit of Corpus and Mentem*, Rego (Muto) Vim (Corpus, Mentem) 50, three uses per day. The base effect is level 48, with +2 levels of Effect frequency. A spirit with a Might score no more than 24 may be commanded into the device and trapped in this enchantment. Thereafter, the enchantment can drain Might from the spirit to power Ritual effects of Corpus, Mentem, or Vim.*
 
 *Empowering Prison of the Declining Spirit* is a special Mystery general enchantment that both traps a spirit and drains its Might Score to power Ritual effects in the same device. The level of the enchantment must equal or exceed twice the Might Score of any spirit to be bound into it, and the enchantment requires Form requisites for the Forms of any Ritual effects it is to power. It is possible to enchant a *Prison* that can only power some of the Ritual effects in a device, and to have other *Prisons* that can power the other Rituals.
 
@@ -2715,10 +2580,7 @@ On locating a suitable place and finding a spirit, the maga's next step is to pe
 
 If the maga has the Faerie Magic Virtue, she might ally with a Faerie spirit. If she does, then the type of faerie also provides a correspondence — faeries of the woods, of the sky, *etc*.
 
-A tiny minority of magi might consider a demon as spirit familiar, but since
-
-
-this immediately afflicts them with an Infernal taint, others are likely to notice this. For those Infernally inclined, a demonic pact is usually a more certain route to power (and both routes lead to damnation). Demons can correspond to any Technique or Form. Infernalism and its realm will be deal with in a future Ars Magica supplement.
+A tiny minority of magi might consider a demon as spirit familiar, but since this immediately afflicts them with an Infernal taint, others are likely to notice this. For those Infernally inclined, a demonic pact is usually a more certain route to power (and both routes lead to damnation). Demons can correspond to any Technique or Form. Infernalism and its realm will be deal with in a future Ars Magica supplement.
 
 Some magi claim to have allied themselves with angelic spirits. Whether they are indeed both pious and impious to have so bound one of God's servants, or whether they are deluded fools taken in by fallen angels, is not certain, nor dealt with in this book.
 
@@ -2736,71 +2598,65 @@ The magus now determines the spirit familiar bonding lab total:
 
 The aura modifier is the worse of the magus's modifier and the spirit's. The spirit familiar bonding level is:
 
-#### Spirit's Might + 25
+**Spirit's Might + 25**
 
 Spirits do not have Size. The spirit familiar bonding cost is:
 
 **1 pawn of vis per 5 levels or fraction; which must match the Technique or Form**
 
-## Becoming Immortal with a Spirit Familiar
-
-Mysteries elsewhere in this book show how, with great effort, a magus may become an immortal being of magic. Normally the magus risks losing his familiar in this transformation unless he includes additional raw vis in his final rites. However, a spirit familiar is already an immortal being, and will accompany its magus through the transformation with no further effort.
+> ## Becoming Immortal with a Spirit Familiar
+> 
+> Mysteries elsewhere in this book show how, with great effort, a magus may become an immortal being of magic. Normally the magus risks losing his familiar in this transformation unless he includes additional raw vis in his final rites. However, a spirit familiar is already an immortal being, and will accompany its magus through the transformation with no further effort.
 
 #### The Three Cords
 
 The three cords are formed, using the same rules as for animal familiars, (ArM5, page104) although Hermetic magi using spirit magic give the three cords of the spirit familiar different names, as they have additional powers:
 
-**The Hermes Cord** corresponds to the golden cord, but also adds to any **•**
+- **The Hermes Cord** corresponds to the golden cord, but also adds to any rolls involving Enigmatic Wisdom (even if the magus lacks Enigmatic Wisdom).
+- **The Isis Cord** corresponds to the silver cord, but also adds to Lab Totals and Casting Score involving spirits.
+- **The Hekate Cord** corresponds to the bronze cord, but in addition, the magus can apply his Hekate Cord score to any Stamina roll (including Fatigue rolls) if his spirit familiar spends 1 point of Might. The bonuses are cumulative, so by spending 3 Might points he gains a bonus of (Hekate score) x 3. Up to 5 Might points may be spent on one roll. Likewise, he can give his spirit familiar a number of Temporary Might points equal to his bond score by spending 1 level of Fatigue (once spent, Temporary Might points do not naturally regenerate). Might points gained this way but left unused disappear once he recovers the Fatigue level spent.
 
-
-
-**Mental Communication** As in the example in ArM5.
-
-**Shared Senses**
-
-As in the example in ArM5.
-
-#### Location
-
-As in the example in ArM5, except it is Intellego Mentem to find the spirit familiar (the magus may be able to substitute a different Form if it is appropriate to the spirit.)
-
-#### Speech
-
-Allow the spirit to make audible sounds requires Creo Imaginem, base level 1 + 2 magnitudes to make clear sounds as directed, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration, for a final level of 10. The maga needs to maintain the ability at sunrise and sunset, but can reactivate it once per day if she forgets.
-
-#### Phantom
-
-Making a spirit visible is Muto Mentem (Imaginem requisite), base level 15, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become invisible again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 35.
-
-#### Apparition
-
-Allowing the spirit familiar to manifest itself in a variety of ways requires Creo Imaginem. The spirit familiar itself is affected, so cannot use a visual Apparition at the same time as a Phantom power. Choose a base level for the number of senses, and the complexity of appearance, and whether the image moves or not. A simple Apparition power at the base guidelines provides a single narrow category ("a horse," "a man," "a boulder" — as in the examples in ArM5 Imaginem spells). By adding 1 or 2 magnitudes to the base level, the maga gains a degree of flexibility as to the apparition image. Concentration duration with the bond maintaining concentration is useful, as are a number of uses per day. (+1 magnitude, +5 levels to maintain concentration, +5 levels for 24 uses per day)
-
-Examples include:
-
-**Illusory object** — base 1 (simple, static), +1 for flexibility to cover any household item: level 13 for 24 uses per day.
-
-**Illusory chill** — base 2 (simple, moves with spirit), makes anyone within the man-sized volume occupied by the spirit feel a "chill" — level 13 for 24 uses per day. (The power does not actually lower temperature.)
-
-#### Corporeality
-
-Making a spirit solid is Muto Mentem with a Form requisite. This is usually Corpus, but may be Animal or Herbam for nature spirits. Elemental spirits can appear as a portion of their native Element, or in an appropriate human or animal shape. The bond effect is then: MuMe(Form) level 25, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become incorporeal again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 45. Many spirits value this power, and may gain an initial bias toward a maga who promises to enchant this power for them.
-
-#### Incorporeality
-
-Allowing the magus to take ghostly form requires Muto Corpus with an Auram requisite: level 30, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become corporeal again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 50.
-
-rolls involving Enigmatic Wisdom (even if the magus lacks Enigmatic Wisdom).
-
-- **The Isis Cord** corresponds to the silver cord, but also adds to Lab Totals and Casting Score involving spirits. **•**
-- **The Hekate Cord** corresponds to the bronze cord, but in addition, the magus can apply his Hekate Cord score to any Stamina roll (including Fatigue rolls) if his spirit familiar spends 1 point of Might. The bonuses are cumulative, so by spending 3 Might points he gains a bonus of (Hekate score) x 3. Up to 5 Might points may be spent on one roll. Likewise, he can give his spirit familiar a number of Temporary Might **•**
-
-points equal to his bond score by spending 1 level of Fatigue (once spent, Temporary Might points do not naturally regenerate). Might points gained this way but left unused disappear once he recovers the Fatigue level spent.
+> ## Sample Powers
+> 
+> **Mental Communication** As in the example in ArM5.
+> 
+> **Shared Senses**
+> 
+> As in the example in ArM5.
+> 
+> ### Location
+> 
+> As in the example in ArM5, except it is Intellego Mentem to find the spirit familiar (the magus may be able to substitute a different Form if it is appropriate to the spirit.)
+> 
+> ### Speech
+> 
+> Allow the spirit to make audible sounds requires Creo Imaginem, base level 1 + 2 magnitudes to make clear sounds as directed, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration, for a final level of 10. The maga needs to maintain the ability at sunrise and sunset, but can reactivate it once per day if she forgets.
+> 
+> ### Phantom
+> 
+> Making a spirit visible is Muto Mentem (Imaginem requisite), base level 15, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become invisible again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 35.
+> 
+> ### Apparition
+> 
+> Allowing the spirit familiar to manifest itself in a variety of ways requires Creo Imaginem. The spirit familiar itself is affected, so cannot use a visual Apparition at the same time as a Phantom power. Choose a base level for the number of senses, and the complexity of appearance, and whether the image moves or not. A simple Apparition power at the base guidelines provides a single narrow category ("a horse," "a man," "a boulder" — as in the examples in ArM5 Imaginem spells). By adding 1 or 2 magnitudes to the base level, the maga gains a degree of flexibility as to the apparition image. Concentration duration with the bond maintaining concentration is useful, as are a number of uses per day. (+1 magnitude, +5 levels to maintain concentration, +5 levels for 24 uses per day)
+> 
+> Examples include:
+> 
+> **Illusory object** — base 1 (simple, static), +1 for flexibility to cover any household item: level 13 for 24 uses per day.
+> 
+> **Illusory chill** — base 2 (simple, moves with spirit), makes anyone within the man-sized volume occupied by the spirit feel a "chill" — level 13 for 24 uses per day. (The power does not actually lower temperature.)
+> 
+> ### Corporeality
+> 
+> Making a spirit solid is Muto Mentem with a Form requisite. This is usually Corpus, but may be Animal or Herbam for nature spirits. Elemental spirits can appear as a portion of their native Element, or in an appropriate human or animal shape. The bond effect is then: MuMe(Form) level 25, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become incorporeal again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 45. Many spirits value this power, and may gain an initial bias toward a maga who promises to enchant this power for them.
+> 
+> ### Incorporeality
+> 
+> Allowing the magus to take ghostly form requires Muto Corpus with an Auram requisite: level 30, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become corporeal again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 50.
 
 #### The Bonded Spirit Familiar
 
 As with a familiar, the magus and spirit familiar both gain the Minor Virtue True Friend, relating to the other half of the partnership, and the Personality Trait Loyal (partner) +3. The magus and spirit familiar are magically linked — each serves as an Arcane Connection to the other, and neither needs to overcome the other's Magic Resistance. The spirit uses the better of its Magic Resistance or the magus's Form resistance, but neither stacks with Parma Magica; alternatively the magus may choose to use the spirit familiar's Magic Resistance but this does not stack with Parma Magica. The spirit familiar gains a score equal to the magus in any language he knows (unless the spirit knew the language better before), and can understand any language understood by its ally. It cannot learn Hermetic magic, although it can learn Magic Theory and assist in the laboratory if it has magical assistance or powers to enable it to manipulate objects in the laboratory.
-
 
 The spirit retains any powers it had before the bonding.
 
@@ -2814,7 +2670,7 @@ The initial bond grants the magus the power to understand the silent speech of h
 
 The normal familiar rules apply directly to empowering the bond with a spirit familiar, including the limit that the bond powers must target the magus, spirit familiar or both.
 
-## Inscription on the Soul — Minor Mystery Virtue
+### Inscription on the Soul — Minor Mystery Virtue
 
 *Inscription on the Soul is a vainglorious title for an ability that encompasses the spirit only, for the immortal soul is of the Divine and beyond any influence of Magic: this is naught but a spirit talisman.*
 
@@ -2836,9 +2692,9 @@ One of the functions of a talisman is the attunement of Shape and Material Bonus
 
 Magi are rarely satisfied with such a restricted range, and so have devised means to incorporate other elements into their bodies.
 
-## Hermetic Empowerment and Inscription on the Soul
-
-The Mystery of Hermetic Empowerment permits spirits to be enchanted into a magical device (including a talisman), and for the device to have and trigger Ritual Magic effects. It is possible to combine Hermetic Empowerment with this Virtue: instilling the *Empowering Prison* Mystery enchantment and binding a spirit into a maga's body or spirit is so intimate and unnatural that it inflicts a Warping Point; triggering a Ritual effect is sufficiently powerful that it too inflicts a Warping Point.
+> ## Hermetic Empowerment and Inscription on the Soul
+> 
+> The Mystery of Hermetic Empowerment permits spirits to be enchanted into a magical device (including a talisman), and for the device to have and trigger Ritual Magic effects. It is possible to combine Hermetic Empowerment with this Virtue: instilling the *Empowering Prison* Mystery enchantment and binding a spirit into a maga's body or spirit is so intimate and unnatural that it inflicts a Warping Point; triggering a Ritual effect is sufficiently powerful that it too inflicts a Warping Point.
 
 #### Spirit vs. Body Enchantments
 
@@ -2850,33 +2706,28 @@ The difference between enchanting body and spirit does matter to the special rit
 
 #### Blending with Substance
 
-This is an enchantment effect that permits the magus to take a small item and embed it within his flesh so as to incorporate it within his substance. Such an item can later be attuned for talisman bonuses. Not all items can be plausibly incorporated, but crystals, small objects, and some animal body parts can be. Some substances are also toxic, and the magus cannot use magic to tame the substance
+This is an enchantment effect that permits the magus to take a small item and embed it within his flesh so as to incorporate it within his substance. Such an item can later be attuned for talisman bonuses. Not all items can be plausibly incorporated, but crystals, small objects, and some animal body parts can be. Some substances are also toxic, and the magus cannot use magic to tame the substance without losing its effectiveness — he can alter himself, although that leads to long term warping. (Blending with Substance is similar to the Virtue Great Talisman; see Chapter 10: The Great Talisman.)
 
-
-## The Great or Consummate Talisman
-
-The magus does not benefit from the Minor Virtue Great Talisman (Chapter 10), as Blending With Substance already permits him to abuse his body in this way. He does benefit from the Major Virtue Consummate Talisman and may then instill Muto Vim effects and Names of Power into himself.
-
-If a magus wishes to Initiate Consummate Talisman, he does not need Great Talisman as a prerequisite if he has Inscription on the Soul. Consummate Talisman does not replace Inscription On The Soul in the way that it replaces Great Talisman; the Initiate gains no Ordeal bonus from having Inscription on the Soul.
-
-The magus can accept the required Ordeal of Deleterious Circumstance, but in practice need not worry about loss of his talisman.
-
-without losing its effectiveness — he can alter himself, although that leads to longterm warping. (Blending with Substance is similar to the Virtue Great Talisman; see Chapter 10: The Great Talisman.)
+> ## The Great or Consummate Talisman
+> 
+> The magus does not benefit from the Minor Virtue Great Talisman (Chapter 10), as Blending With Substance already permits him to abuse his body in this way. He does benefit from the Major Virtue Consummate Talisman and may then instill Muto Vim effects and Names of Power into himself.
+> 
+> If a magus wishes to Initiate Consummate Talisman, he does not need Great Talisman as a prerequisite if he has Inscription on the Soul. Consummate Talisman does not replace Inscription On The Soul in the way that it replaces Great Talisman; the Initiate gains no Ordeal bonus from having Inscription on the Soul.
+> 
+> The magus can accept the required Ordeal of Deleterious Circumstance, but in practice need not worry about loss of his talisman.
 
 Distorting the body by incorporating foreign substances always inflicts a Warping Point on the magus. The method used is:
 
-- Determine the highest bonus the item offers, for example a sapphire has three bonuses: +2, +2, and +3; a snake tongue has a +6 and +3 bonus. •
-- Total the highest bonus, and half the sum of any other bonuses, and multiply by 5 to get an effect level. (Sapphire is 5 x (3+(2+2)/2) = 25; snake tongue is 5 x (6+3/2) = 40; round up when dividing by 2, and then multiply by 5. •
-- The magus must enchant a Rego Vim effect with Muto, Corpus, and (Form of item) requisites, of the level calculated above. •
-- If the level of the effect has level 30 or above (a "high-power" effect), then •
-
-## Vulgar Alchemy and Blending With Substance
-
-Vulgar Alchemy (see Chapter 5: Hermetic Alchemy, Vulgar Alchemy) allows the magus to discover new Shape and Material items. However when first discovered, they only apply to Vulgar Alchemy enchantments of charged and lesser enchanted devices. To use such an item in Blending With Substance requires the magus to experiment further until he has incorporated the new item fully into Hermetic theory. (That is, when he is able to write a tractatus about the bonus item, according to the Vulgar Alchemy rules.)
-
-the caster suffers a second separate Warping Point. He cannot negate this penalty by "designing the effect for himself," as the effect is for the item incorporated.
+- Determine the highest bonus the item offers, for example a sapphire has three bonuses: +2, +2, and +3; a snake tongue has a +6 and +3 bonus.
+- Total the highest bonus, and half the sum of any other bonuses, and multiply by 5 to get an effect level. (Sapphire is 5 x (3+(2+2)/2) = 25; snake tongue is 5 x (6+3/2) = 40; round up when dividing by 2, and then multiply by 5.
+- The magus must enchant a Rego Vim effect with Muto, Corpus, and (Form of item) requisites, of the level calculated above.
+- If the level of the effect has level 30 or above (a "high-power" effect), then the caster suffers a second separate Warping Point. He cannot negate this penalty by "designing the effect for himself," as the effect is for the item incorporated.
 
 Once he has incorporated the item into his body, he may attune any of its bonuses. He may attune one bonus in the first season of incorporation. *Blending with Substance* ties the enchantment to his Body as well as his spirit.
+
+> ## Vulgar Alchemy and Blending With Substance
+> 
+> Vulgar Alchemy (see Chapter 5: Hermetic Alchemy, Vulgar Alchemy) allows the magus to discover new Shape and Material items. However when first discovered, they only apply to Vulgar Alchemy enchantments of charged and lesser enchanted devices. To use such an item in Blending With Substance requires the magus to experiment further until he has incorporated the new item fully into Hermetic theory. (That is, when he is able to write a tractatus about the bonus item, according to the Vulgar Alchemy rules.)
 
 #### Talisman Connection
 
@@ -2898,13 +2749,9 @@ The binding and ritual murder is a form of Mystery Ordeal, discovered as part of
 
 #### Preparing for the Transformation
 
-The magus must invent versions of the Mystery spells *Bind the Living Ghost* and *Transformation of the Living Ghost*. The rituals are described in terms of Hermetic
+The magus must invent versions of the Mystery spells *Bind the Living Ghost* and *Transformation of the Living Ghost*. The rituals are described in terms of Hermetic spells, but this is just to describe the process of working in the laboratory to prepare them — they are really timeconsuming preparations for the coming Ordeal of death. Each magus requires his own unique versions of these spells, and only magi Initiated into the Mystery of the Living Ghost can invent or cast the spells.
 
-
-
-spells, but this is just to describe the process of working in the laboratory to prepare them — they are really timeconsuming preparations for the coming Ordeal of death. Each magus requires his own unique versions of these spells, and only magi Initiated into the Mystery of the Living Ghost can invent or cast the spells.
-
-#### Bind The Living Ghost
+##### Bind The Living Ghost
 
 Cr(Pe/Re)Me(Co) (30 + area Size) R: Per, D: Special, T: varies, Mystery Ritual
 
@@ -2918,17 +2765,17 @@ Note the number of levels used to increase the target size, as it is used in the
 
 *Example: Graculus is preparing to become a Living Ghost, and chooses a generous Haunt, an area about 1,000 paces across (Boundary +2 magnitudes). His* Bind The Living Ghost *Ritual will be level 60 (base 30 +30 to increase Size). The Haunt includes his laboratory and the tower in which he has lived and worked, and the area around it, limited by a low wall that the grogs build to his instruction.*
 
-#### Transformation of the Living Ghost (Te)(Fo) Gen
+**Transformation of the Living Ghost (Te)(Fo) Gen**
 
 R: Per, D: Special, T: Ind, Mystery Ritual
 
 This is a unique transformation, specific to the individual magus. The spell uses his best Arts, and defines his power as a ghost. There is a transformation limit to the Might Score he may achieve, equal to his best Technique and Form combination, including Puissant Arts, and any applicable Magical Focus; e.g., self-transformation, death, or ghosts and corpses.
 
-#### Transformation Limit = Best Technique and Form Combination
+**Transformation Limit = Best Technique and Form Combination**
 
 The magus must also include levels in the spell design for the size of Haunt in his *Bind the Living Ghost* Ritual
 
-#### Size Levels = Levels Added to Increase Target of Bind the Living Ghost
+**Size Levels = Levels Added to Increase Target of Bind the Living Ghost**
 
 *Example: Graculus' best combination is Rego (28) Mentem (26). He has a Major Magical Focus in Necromancy (ghosts and corpses), so his maximum transformation limit is 28+(2 x 26) or 80.*
 
@@ -2936,7 +2783,7 @@ The magus must also include levels in the spell design for the size of Haunt in 
 
 The base level of the Ritual (before additions for Size) determines the Living Ghost's Might Score after transformation, but Might Score cannot exceed his transformation limit. In addition, the final level of the Ritual must be at least equal to the transformation limit.
 
-#### Might Score = Ritual Spell Level – Size Levels
+**Might Score = Ritual Spell Level – Size Levels**
 
 The Might Score is limited by the transformation limit. The Ritual spell level must equal or exceed the transformation limit.
 
@@ -2956,37 +2803,36 @@ As detailed below (Ghosts in Ars Magica), ghosts retain all their characteristic
 
 The magus retains a link to his talisman, and may continue to enchant and improve it. If he used Inscription on the Soul to enchantment his spirit, then those enchantments continue, and he may continue to enchant the spirit directly. Otherwise he must protect and care for the physical talisman, and hide it carefully within the Haunt.
 
+> ## Ghosts in Ars Magica
+> 
+> *The following first appeared in* Calebais: The Broken Covenant, *but is repeated here as it is important to define ghosts properly.*
+> 
+> Many ghosts are dark, sinister souls, living tormented existences in the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in sharing their suffering. Others may be of good heart and only seek to put right what their passing made wrong, or have become ghosts because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.
+> 
+> The appearance of ghosts can vary, from seeming completely substantial, so real that they even feel solid, to simply a luminous haze in the air with only vague similarities to the human form. Most ghosts can become invisible at will, hidden except to those possessed of Second Sight or similar abilities, but only a few can come close to a state resembling solidity; most remain translucent and rippled, like a reflection in deep water. As they spend their Might Pool, they also lose their clarity, fading away completely when exhausted.
+> 
+> Apart from coming to terms with their noncorporeal nature, ghosts cannot learn or change; they are trapped with the mindset and skills they when they died. They may be able to teach others some of what they knew, but the distance of the grave combined with the difficulty of maintaining their existence means that they tend to forget what they are doing very easily. Characters studying from a ghost must start over each day of study, reintroducing themselves every time. This is frustrating for the character and for the ghost, and should be more trouble than it is worth.
+> 
+> Many ghosts do not realize they are dead, and refuse to believe those who say that they are. Only ghosts who accept their nature and have become used to their incorporeal forms can move through solid walls, ignore Fatigue penalties or wounds, or in any way act as if they were not living, breathing humans. For most ghosts, the physical world is as real as ever, except that people seem to play tricks on them or do not always see them. Ghosts are solid to one another, of course, and interact in all ways as if they were flesh and blood. For most ghosts, the physical world is as real as ever, except that people seem to play tricks on them or do not always see them.
+> 
+> Ghostly magi can also cast spells, just as they did in life. These spells are not physical and cannot affect the physical world, but they are realistic illusions. A Perdo Corpus spell might cause a flash of pain, while a Creo Aquam spell might cause a powerful chill as ghostly waters rush past. However, Imaginem, Mentem, and Vim magics still affect the living normally, as can some Animal (animal minds) and Ignem (light) effects.
+> 
+> Most ghosts have some sort of magical power to affect the physical world, even if it is only a mundane activity appropriate to their duties and desires in life. Ghostly magi typically have the power to make their spells "real," affecting the living as if their spells were cast in flesh. These powers usually cost them some of their Might to activate, but they gain this back over time, and a day is typically sufficient to bring them back to full strength. If they lose all their Temporary Might Points, or are injured or killed by magic or other ghosts, they return after a day or so, as whole as before, with no memory of what happened.
+> 
+> Permanently destroying a ghost is extremely difficult. However, every ghost has fetters that binds it to life. When the ghost deals with the tasks it left unfinished, or address whatever circumstances prevent it from passing on, it fades away forever. This should be a very rare occurrence, worthy of more than a simple declaration; the storyguide should describe the process in detail, portraying a vivid event. A ghost leaving the confines of the mortal world is an awe-inspiring event. Treat this scene with the reverence it deserves, and make it memorable.
+> 
+> When they pass on, ghosts can leave raw vis behind. This vis is often as ghostly as they were, tied to a memento of the haunting, although there are magical ways to harvest this. A Muto Mentem spell with a physical requisite can make the item and the vis temporarily solid, and the vis will change with it. Rego Mentem can transport the ghostly objects, and Rego Vim can siphon the vis into some other container. Finally, even if they cannot move it, magi can always use ghostly vis simply by touching it.
 
 
-
-*The following first appeared in* Calebais: The Broken Covenant, *but is repeated here as it is important to define ghosts properly.*
-
-Many ghosts are dark, sinister souls, living tormented existences in the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in sharing their suffering. Others may be of good heart and only seek to put right what their passing made wrong, or have become ghosts because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.
-
-The appearance of ghosts can vary, from seeming completely substantial, so real that they even feel solid, to simply a luminous haze in the air with only vague similarities to the human form. Most ghosts can become invisible at will, hidden except to those possessed of Second Sight or similar abilities, but only a few can come close to a state resembling solidity; most remain translucent and rippled, like a reflection in deep water. As they spend their Might Pool, they also lose their clarity, fading away completely when exhausted.
-
-Apart from coming to terms with their noncorporeal nature, ghosts cannot learn or change; they are trapped with the mindset and skills they when they died. They may be able to teach others some of what they knew, but the distance of the grave combined with the difficulty of maintaining their existence means that they tend to forget what they are doing very easily. Characters studying from a ghost must start over each day of study, reintroducing themselves every time. This is frustrating for the character and for the ghost, and should be more trouble than it is worth.
-
-Many ghosts do not realize they are dead, and refuse to believe those who say that they are. Only ghosts who accept their nature and have become used to their incorporeal forms can move through solid walls, ignore Fatigue penalties or wounds, or in any way act as if they were not living, breathing humans. For most ghosts, the physical world is as real as ever, except that people seem to play tricks on them or do not always see them. Ghosts are solid to one another, of course, and interact in all ways as if they were flesh and blood. For most ghosts, the physical world is as real as ever, except that people seem to play tricks on them or do not always see them.
-
-Ghostly magi can also cast spells, just as they did in life. These spells are not physical and cannot affect the physical world, but they are realistic illusions. A Perdo Corpus spell might cause a flash of pain, while a Creo Aquam spell might cause a powerful chill as ghostly waters rush past. However, Imaginem, Mentem, and Vim magics still affect the living normally, as can some Animal (animal minds) and Ignem (light) effects.
-
-Most ghosts have some sort of magical power to affect the physical world, even if it is only a mundane activity appropriate to their duties and desires in life. Ghostly magi typically have the power to make their spells "real," affecting the living as if their spells were cast in flesh. These powers usually cost them some of their Might to activate, but they gain this back over time, and a day is typically sufficient to bring them back to full strength. If they lose all their Temporary Might Points, or are injured or killed by magic or other ghosts, they return after a day or so, as whole as before, with no memory of what happened.
-
-Permanently destroying a ghost is extremely difficult. However, every ghost has fetters that binds it to life. When the ghost deals with the tasks it left unfinished, or address whatever circumstances prevent it from passing on, it fades away forever. This should be a very rare occurrence, worthy of more than a simple declaration; the storyguide should describe the process in detail, portraying a vivid event. A ghost leaving the confines of the mortal world is an awe-inspiring event. Treat this scene with the reverence it deserves, and make it memorable.
-
-When they pass on, ghosts can leave raw vis behind. This vis is often as ghostly as they were, tied to a memento of the haunting, although there are magical ways to harvest this. A Muto Mentem spell with a physical requisite can make the item and the vis temporarily solid, and the vis will change with it. Rego Mentem can transport the ghostly objects, and Rego Vim can siphon the vis into some other container. Finally, even if they cannot move it, magi can always use ghostly vis simply by touching it.
-
-## Hazards of Becoming a Living Ghost
-
-If the magus enchanted his body, the enchantments are broken when his body is destroyed. If he had the Virtue Inscription on the Soul, and became his own talisman, he had the option to restrict himself to enchanting his spirit only. If he kept to this restriction, there is no problem in becoming a Living Ghost. If, however, he succumbed to the temptation to enchant his body as part of his talisman,
-
-then when he destroys his body the physical part of his talisman is shattered and those intimate enchantments and attunements broken; he gains 1 Warping Point for every body- or item-linked attunement that is broken. This is one single Warping event so he must check for Twilight if he gains 2 or more points.
-
-Entering Twilight during the process of dying means that the Moment of the rituals will have already expired when he emerges, so when (if) he leaves Twilight, he will be dead but unbound, having failed the Ritual. If he avoids entering Twilight, then the Ritual bindings of the Mystery transform his spirit as it leaves the body and he becomes a Living Ghost.
-
-(See also Inscription on the Soul earlier in this chapter.)
-
+> ## Hazards of Becoming a Living Ghost
+> 
+> If the magus enchanted his body, the enchantments are broken when his body is destroyed. If he had the Virtue Inscription on the Soul, and became his own talisman, he had the option to restrict himself to enchanting his spirit only. If he kept to this restriction, there is no problem in becoming a Living Ghost. If, however, he succumbed to the temptation to enchant his body as part of his talisman,
+> 
+> then when he destroys his body the physical part of his talisman is shattered and those intimate enchantments and attunements broken; he gains 1 Warping Point for every body- or item-linked attunement that is broken. This is one single Warping event so he must check for Twilight if he gains 2 or more points.
+> 
+> Entering Twilight during the process of dying means that the Moment of the rituals will have already expired when he emerges, so when (if) he leaves Twilight, he will be dead but unbound, having failed the Ritual. If he avoids entering Twilight, then the Ritual bindings of the Mystery transform his spirit as it leaves the body and he becomes a Living Ghost.
+> 
+> (See also Inscription on the Soul earlier in this chapter.)
 
 #### Learning and the Immortal Spirit
 
@@ -3002,10 +2848,7 @@ Otherwise, his familiar faces a choice when he chooses the path of death: it may
 
 A Living Ghost depends on the continued existence of its Haunt; if the Haunt ceases to exist, the spirit is unbound and loses its integrity, becoming a normal ghost and eventually fading away. It is unwise therefore to use a Circle target unless the caster is very certain of its permanence — any break destroys its effectiveness.
 
-A Room or Structure can be damaged and even fall into ruin, and yet remain as a Haunt; but if it is demolished and the site cleared, it ceases to exist. This is the reason why ghosts are so often seen during renovation and especially demolition work on old buildings; any changes made threaten their continued existence. It is also why one does not hear of ghosts apparently "walking in the air" on the upper stories of no–longer-existing buildings; when the building goes, so does the spirit. Ghosts do however often regard the environment as it was in their time,
-
-
-and show a fondness for walking through doors or gazing out of windows that have been subsequently bricked up! Despite this they are fully aware of the changes; it's just that old habits die hard.
+A Room or Structure can be damaged and even fall into ruin, and yet remain as a Haunt; but if it is demolished and the site cleared, it ceases to exist. This is the reason why ghosts are so often seen during renovation and especially demolition work on old buildings; any changes made threaten their continued existence. It is also why one does not hear of ghosts apparently "walking in the air" on the upper stories of no–longer-existing buildings; when the building goes, so does the spirit. Ghosts do however often regard the environment as it was in their time, and show a fondness for walking through doors or gazing out of windows that have been subsequently bricked up! Despite this they are fully aware of the changes; it's just that old habits die hard.
 
 A Boundary is the most stable and long-lasting choice of Target. If the boundary of the place changes, the place may change but does not cease to exist; it may shift, contract, expand, or even merge with other places, but in most cases it takes extreme destruction to make a bounded area cease to exist. The ghost conventionally follows the floor level and environment of the new boundary, although it can, of course, pass insubstantially through walls.
 
@@ -3013,28 +2856,23 @@ A Boundary is the most stable and long-lasting choice of Target. If the boundary
 
 Once the magus becomes a Living Ghost he has a Magic Might score as determined by the Ritual spell. He can spend and regain Might points like a normal ghost, including:
 
+- **Ghostly Body**, 0 points, constant, Mentem: a Living Ghost is aware that he is a ghost, and can turn invisible at will, pass through walls, ignore physical attacks and fatigue or wound penalties, and otherwise take advantage of the spirit form.
+- **Ghostly Magic**, 1 or more points, by Initiative, by spell: a Living Ghost can make a spell he casts affect the physical world, by spending 1 point of Temporary Might per magnitude of the effect.
+- **Ghostly Vis**, 1 or more points (special), by Initiative, by spell: the Living Ghost can permanently expend points of Might Score, with each point equivalent to one pawn of raw vis.
 
-## Possess the Living Host
+As ghosts, they still have Fatigue levels even though they may ignore Fatigue penalties. Spellcasting, and spellcasting Virtues may still require expenditure of Fatigue and inflict Wounds, and Living Ghosts may be rendered unconscious (which causes the ghost to fade away until consciousness returns). Loss of all Might points also makes the ghost fade away temporarily.
 
-ReCo 30
-
-R: Touch, D: Moon, T: Ind
-
-Allows a ghost to enter and take complete control of a body. While in control of the body, the possessing spirit may use the body's senses. The spell does not control the mind of the possessed body, nor provide access to the skills or memories of the host, and if the possessing spirit is distracted and fails to direct the body, the living mind may attempt to control the body. The possessing spirit may use Mentem magics to read the host's memories.
-
-When the spell ends, the host will remember all that has happened, unless Perdo Mentem magics are used to erase memories.
-
-A very similar spell, *Possess the Deceased Host,* allows the ghostly magus to possess a corpse and animate that. *Charm Against Putrefaction*, CrCo 10, is also recommended.
-
-- **Ghostly Body**, 0 points, constant, Mentem: a Living Ghost is aware that he is a ghost, and can turn invisible at will, pass through walls, ignore physical attacks and fatigue or wound penalties, and otherwise take advantage of the spirit form. **•**
-- **Ghostly Magic**, 1 or more points, by Initiative, by spell: a Living Ghost can make a spell he casts affect the physical world, by spending 1 point of Temporary Might per magnitude of the effect. **•**
-- **Ghostly Vis**, 1 or more points (special), by Initiative, by spell: the Living Ghost can permanently expend points of Might Score, with each point equivalent to one pawn of raw vis. **•**
-
-As ghosts, they still have Fatigue levels even though they may ignore Fatigue penalties. Spellcasting, and spellcasting Virtues may still require expenditure of
-
-#### The Mysteries Revised Edition
-
-Fatigue and inflict Wounds, and Living Ghosts may be rendered unconscious (which causes the ghost to fade away until consciousness returns). Loss of all Might points also makes the ghost fade away temporarily.
+> ## Possess the Living Host
+> 
+> ReCo 30
+> 
+> R: Touch, D: Moon, T: Ind
+> 
+> Allows a ghost to enter and take complete control of a body. While in control of the body, the possessing spirit may use the body's senses. The spell does not control the mind of the possessed body, nor provide access to the skills or memories of the host, and if the possessing spirit is distracted and fails to direct the body, the living mind may attempt to control the body. The possessing spirit may use Mentem magics to read the host's memories.
+> 
+> When the spell ends, the host will remember all that has happened, unless Perdo Mentem magics are used to erase memories.
+> 
+> A very similar spell, *Possess the Deceased Host,* allows the ghostly magus to possess a corpse and animate that. *Charm Against Putrefaction*, CrCo 10, is also recommended.
 
 #### Manipulating the World as a Ghost
 
@@ -3048,7 +2886,6 @@ The Living Ghost can work in a laboratory, provided he can manipulate objects in
 
 Some magi are content to live out the years in their laboratory, discouraging any intervention from the outside world. Others find the urge to move around from their confines to be too much, and succumb to the temptation to bind their spirit into various corpses, and have been perhaps the source of various tales of "living dead" monsters.
 
-
 #### Re-Enchanting the Spirit
 
 The expenditure of Might Score to take the place of vis is powerful and useful, but leaves the ghost reduced in strength. However, it is possible to restore (or even increase) Might Score. To do so, the Living Ghost opens additional spaces in her talisman, but leaves them unused. Then she recasts her *Transformation of the Living Ghost* Ritual spell, and the unused spaces are used up, and converted to Might Score (capped by the *Transformation* ritual design).
@@ -3061,9 +2898,7 @@ The magus can also create an improved *Transformation of the Living Ghost* ritua
 
 The magus may then open more spaces and cast the improved Ritual to increase his Might Score above the original level. His Might Score is still limited by his best Technique and Form combination.
 
-## Chapter Nine
-
-# Hermetic Theurgy
+# Chapter 9: Hermetic Theurgy
 
 Name magic, or theurgy, is the magical school that deals with the names of spirits, and how to invoke names in magic. Such practices are actively pagan, and would be subject to obvious persecution were the Church to discover them, so such practices are performed in secret, and the cults that teach name magic are necessarily among the more secretive Mystery Cults.
 
@@ -3079,66 +2914,59 @@ Such practices continue throughout the period, and the knowledge of Gnostic magi
 
 The Hermetic understanding of the magical law of names derives heavily from the Gnostic cults that flourished in the first four centuries of the Christian era. Many of these cults dealt with the accession of the soul through the magical underworlds after death, and the correct names and titles of the spirits that could be encountered there. Initiates learned long lists of these names that would expedite their progress.
 
-Yet these names did not just provide protection after death; as a name was
-
-## Daimons
-
-Daimons are ancient, named, individual spirits: the spirits of heroes and of ancient pagan deities, or the powerful spirits of sacred groves. Unlike simpler spirits, a Daimon can manifest in several places simultaneously, projecting only an **Aspect** of itself.
-
-Magi do not summon or bind the Daimon itself: the pact spell below summons an Aspect of the Daimon. It is difficult to effectively threaten a spirit that sends no more than an Aspect, as the spirit can discard the Aspect at any time with no real loss to itself. Even if the summoner magically binds the Aspect, it will just fade away to nothingness if the Daimon wishes. (See also Theurgic Spirit Familiar, The Daimonic Aspect.)
-
-Summoning Daimons is typically difficult, and based on remnants of non-Hermetic magic. It involves long invocations, typically in praise of the spirit to be summoned, and invoking and imploring other spirits, and as such the Church would frown most heavily on it. St. Augustine, in *The City of God,*distinguishes between *dulia*, or praise and honor accorded to a man or power in accordance with their proper dignity, such as the veneration due to a saint, and *latria*, praise and honor that should only be accorded to God. Magi who deal with spirits and adjure them by name are often accused of surpassing dulia, and straying into worship of these Daimons — a terrible sin.
-
-A magus must know something of a Daimon in order to create a spell to summon it (see Appendix E: Mysterious Beings for sample Daimons), or have a Lab Text for the Invocation. Unlike spell spirits, only specific Daimons exist, and lab work alone is not enough to invent a spell.
-
-
-## Name of Power Spell
-
-**Name of Power (X)**
-
-MuVi Gen
-
-R: Special (Per), D: Special, T: Special (Individual)
-
-Learning this spell embodies the maga's special understanding of a single aspect of the magic of one of the great powers.
-
-This knowledge provides a bonus to other magical activities, with a scope and bonus similar to those found in the Shape and Material Bonus table. A specific name spell provides one bonus only (even if the example in the Shape and Material Bonus table has several factors). A maga may invent multiple spells for a given name, to allow different scopes or multiple bonuses.
-
-The scope and bonus values possible for a power should be agreed with the troupe, and should be consistent with the mythological nature of the power whose name is invoked.
-
-The level of spell is five times the desired bonus. Range, Duration, and Target are fixed.
-
-(General level)
-
-power, they allowed the Daimons to be conjured, and gave influence and the power to command them in this life.
+Yet these names did not just provide protection after death; as a name was power, they allowed the Daimons to be conjured, and gave influence and the power to command them in this life.
 
 This Mystery School differs from that of Hermetic spirit magic, for spirit magic deals with relatively minor unnamed (to the knowledge of men) spirits, which it uses simply as a power to allow the sustenance and empowering of the magi's magic. Name magic instead deals with the making of deals and bargains with potent magical entities.
 
+> ## Daimons
+> 
+> Daimons are ancient, named, individual spirits: the spirits of heroes and of ancient pagan deities, or the powerful spirits of sacred groves. Unlike simpler spirits, a Daimon can manifest in several places simultaneously, projecting only an **Aspect** of itself.
+> 
+> Magi do not summon or bind the Daimon itself: the pact spell below summons an Aspect of the Daimon. It is difficult to effectively threaten a spirit that sends no more than an Aspect, as the spirit can discard the Aspect at any time with no real loss to itself. Even if the summoner magically binds the Aspect, it will just fade away to nothingness if the Daimon wishes. (See also Theurgic Spirit Familiar, The Daimonic Aspect.)
+> 
+> Summoning Daimons is typically difficult, and based on remnants of non-Hermetic magic. It involves long invocations, typically in praise of the spirit to be summoned, and invoking and imploring other spirits, and as such the Church would frown most heavily on it. St. Augustine, in *The City of God,*distinguishes between *dulia*, or praise and honor accorded to a man or power in accordance with their proper dignity, such as the veneration due to a saint, and *latria*, praise and honor that should only be accorded to God. Magi who deal with spirits and adjure them by name are often accused of surpassing dulia, and straying into worship of these Daimons — a terrible sin.
+> 
+> A magus must know something of a Daimon in order to create a spell to summon it (see Appendix E: Mysterious Beings for sample Daimons), or have a Lab Text for the Invocation. Unlike spell spirits, only specific Daimons exist, and lab work alone is not enough to invent a spell.
+
+> ## Name of Power Spell
+> 
+> **Name of Power (X)**
+> 
+> MuVi Gen
+> 
+> R: Special (Per), D: Special, T: Special (Individual)
+> 
+> Learning this spell embodies the maga's special understanding of a single aspect of the magic of one of the great powers.
+> 
+> This knowledge provides a bonus to other magical activities, with a scope and bonus similar to those found in the Shape and Material Bonus table. A specific name spell provides one bonus only (even if the example in the Shape and Material Bonus table has several factors). A maga may invent multiple spells for a given name, to allow different scopes or multiple bonuses.
+> 
+> The scope and bonus values possible for a power should be agreed with the troupe, and should be consistent with the mythological nature of the power whose name is invoked.
+> 
+> The level of spell is five times the desired bonus. Range, Duration, and Target are fixed.
+> 
+> (General level)
+
 ## Names of Power — Minor Hermetic Mystery Virtue
 
-The maga may invoke names of the great powers (angels, planets, pagan gods, faerie lords, and such) in her magic, even if she cannot summon and bind them directly. Hermetic magi can learn to use
-
-## Synthemata
-
-The ancients described synthemata as "divine names," which cannot, in fact, be true, as the pagan spirits are not part of the Divine realm; being pagan spirits they are Faerie or Magical beings. However, synthemata do exist, and Hermetic magi understand them as signs, symbols, or passwords that link the magician to the spirit. Many theurgic spells include these magical words in the formula of incantation, they are required as part of the formula, but do not bring special benefit to most magi.
-
-Some magi have the ability to work the correct synthematas into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in Hermetic Synthemata and Synthemata Magic.
-
-the names of the great powers as metamagic — Muto Vim acting on other spells. Most great powers have many names, each applying to different Aspects of magic, and a maga can learn each of them separately.
+The maga may invoke names of the great powers (angels, planets, pagan gods, faerie lords, and such) in her magic, even if she cannot summon and bind them directly. Hermetic magi can learn to use the names of the great powers as metamagic — Muto Vim acting on other spells. Most great powers have many names, each applying to different Aspects of magic, and a maga can learn each of them separately.
 
 All uses of Names of Power require that the maga speak the names out loud in a firm (or loud) voice, so that the powers' attention is drawn to her. She may not use quiet or silent casting combined with Names of Power.
 
 In game terms, a Name of Power is learned as a Muto Vim spell that provides a magical bonus equal to the Name's spell magnitude. Once learned, the Name of Power may be used in other specific magical methods, requiring other Mystery Virtues — it is no use on its own; however, with those Virtues, Names of Power are of great value.
 
+> ## Synthemata
+> 
+> The ancients described synthemata as "divine names," which cannot, in fact, be true, as the pagan spirits are not part of the Divine realm; being pagan spirits they are Faerie or Magical beings. However, synthemata do exist, and Hermetic magi understand them as signs, symbols, or passwords that link the magician to the spirit. Many theurgic spells include these magical words in the formula of incantation, they are required as part of the formula, but do not bring special benefit to most magi.
+> 
+> Some magi have the ability to work the correct synthematas into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in Hermetic Synthemata and Synthemata Magic.
+
 #### Hermetic Theurgy and Names of Power
 
-If a maga is inventing a Hermetic theurgy (see the Hermetic Theurgy Virtue, below) *Invoke* spell in the laboratory, and knows a Name of Power whose scope matches either the Invocation pro-
+If a maga is inventing a Hermetic theurgy (see the Hermetic Theurgy Virtue, below) *Invoke* spell in the laboratory, and knows a Name of Power whose scope matches either the Invocation process itself, or the effect the summoned spirit produces, then she can work the Name of Power into the *Invoke* spell.
 
-## Spirits and Realms
-
-As mentioned in Chapter 8: Spirit Magic, some relations with spirits require the magus to share types of magic with the spirit. All magi can work with spirits with Magic Might. Faerie Magic allows the magus close links to Faerie spirits, invoked to cast spells, or as a Faerie spirit familiar. Diabolic practices let the magus work with Infernal spirits, and Divine magic (see *Realms of Power: The Divine*) may let him form links to Divine spirits.
-
-cess itself, or the effect the summoned spirit produces, then she can work the Name of Power into the *Invoke* spell.
+> ## Spirits and Realms
+> 
+> As mentioned in Chapter 8: Spirit Magic, some relations with spirits require the magus to share types of magic with the spirit. All magi can work with spirits with Magic Might. Faerie Magic allows the magus close links to Faerie spirits, invoked to cast spells, or as a Faerie spirit familiar. Diabolic practices let the magus work with Infernal spirits, and Divine magic (see *Realms of Power: The Divine*) may let him form links to Divine spirits.
 
 Add the Name of Power bonus to the Lab Total for inventing this spell, and also to the Casting Score when casting this spell. The total value of all Names of Power combined in a spell cannot exceed her Magic Theory when she invents the spell.
 
@@ -3152,34 +2980,29 @@ If she designs Names of Power into an *Invoke* spell, then in order to cast the 
 
 When using Names of Power in Hermetic theurgy, a maga does not cast them as actual spells.
 
-If a maga writes a Lab Text for an *Invoke* spell that includes Names of Power, they are part of the formula for
+If a maga writes a Lab Text for an *Invoke* spell that includes Names of Power, they are part of the formula for the spell but convey no special benefit to other magi when learning or casting the spell. Many *Invoke* spells that have been handed down contain Names as part of the Invocation.
 
-
-
-
-Those who practice the magical beliefs of Gnosticism are concerned with the magic of synthemata, and the school associated with learning these true names and using these names and pursuing a magical religion, is also known as Hermetic theurgy. The Divine aura's interference with magic has led to many radical ideas among the Order's theurgists, and some believe the Divine aura to be the product of the Demiurge, God's intermediary, but different schools of theurgy see the Demiurge in different roles.
-
-Most monotheistic theurgists believe in one, good Demiurge. For them, the Divine aura is a product of mortals living lives without the spiritual rites of theurgy. By living lives devoted more to bodily needs than spiritual, mortals wrap their surroundings in the Demiurge's terrestrial influence. Monotheistic theurgists pray to the Demiurge and even to the pagan gods in much the same way as medieval Christians pray to saints, and see these beings as heralds or intermediaries between humanity and God.
-
-Some monotheistic theurgists believe in various Gnostic principles. For them, the Demiurge is an evil spirit blocking the path to the true god. The Demiurge creates Divine and Infernal auras to thwart humanity's attempts at true salvation, which is attained not by conventional religious means but by
-
-the spell but convey no special benefit to other magi when learning or casting the spell. Many *Invoke* spells that have been handed down contain Names as part of the Invocation.
+> ## Gnosticism and Theurgy
+> 
+> Those who practice the magical beliefs of Gnosticism are concerned with the magic of synthemata, and the school associated with learning these true names and using these names and pursuing a magical religion, is also known as Hermetic theurgy. The Divine aura's interference with magic has led to many radical ideas among the Order's theurgists, and some believe the Divine aura to be the product of the Demiurge, God's intermediary, but different schools of theurgy see the Demiurge in different roles.
+> 
+> Most monotheistic theurgists believe in one, good Demiurge. For them, the Divine aura is a product of mortals living lives without the spiritual rites of theurgy. By living lives devoted more to bodily needs than spiritual, mortals wrap their surroundings in the Demiurge's terrestrial influence. Monotheistic theurgists pray to the Demiurge and even to the pagan gods in much the same way as medieval Christians pray to saints, and see these beings as heralds or intermediaries between humanity and God.
+> 
+> Some monotheistic theurgists believe in various Gnostic principles. For them, the Demiurge is an evil spirit blocking the path to the true god. The Demiurge creates Divine and Infernal auras to thwart humanity's attempts at true salvation, which is attained not by conventional religious means but by  magical mastery of secret knowledge and hidden rites.
+> 
+> Many pagan polytheists, on the other hand, simply see the Divine as one power amongst many that has risen to dominance. For them, the Divine auras are nothing more than the flexing might of a powerful god named Jehovah, who has become so powerful that he has claimed to be the only true god. Such polytheists are fond of citing the opening verses of Psalm 82 and other early traditions that seem to imply the Jewish and Christian god as merely the most potent of the deities, but not the only deity.
+> 
+> The idea of attaining salvation by practicing rites and magical secrets takes many forms, but one of the most common is the psychopompic tradition, where the emphasis is on the process that follows bodily death. There are believed to be a number of realms through which the soul must traverse, and there one faces a succession of spiritual guardians who block the way. By knowing the right secrets, passwords, and signs, one can command the attention of these guardians and gain passage so that the soul may continue its ascent to its final reward. The magician uses his life to gain the knowledge of spiritual beings, secret signs or passwords to influence them (synthemata), and other potent spiritual knowledge to prepare for this post-mortem ascent; initiation into a series of secrets is central to these practices.
+> 
+> Hermetic theorists who subscribe to these beliefs differ wildly in their theologies, but many believe that by attaining the correct magical knowledge one can escape the judgment of God and Heaven, Hell, or Purgatory, and on death that the soul of the Initiate travels instead to the realm of Magic, which is where the guardians await. Others accept that the final path will be through the Divine realm, or even the Infernal, but believe the magical secrets learned, rather than morality or the sacraments of the Church, will be the ultimate influence on the destination of the Initiate's soul.
+> 
+> Finally, and most intriguingly, there are those seek the greatest secret of all, that of apotheosis. They wish to transcend mortality and become as gods, just as many heroes in classical myth were able to eventually cast off their flesh and become deities. Whether this is actually possible, or just a terrible snare of the Devil to lure souls to damnation, is a matter of considerable dispute, but rumors persist that magicians have, in fact, accomplished this, and by being worshiped and venerated, and through the rigorous pursuit of their own way, have finally, after demanding rites, been able to ascend to godhood. If it can be done, few have achieved it, and they are not sharing the secret.
 
 #### Invocation Magic and Names of Power
 
-Invocation Magic (see the Invocation Magic Virtue, below) lets a magus use Names of Power as meta-magic spells to add to his Casting Score for another spell. To do so, choose and cast one or more Name of Power spells in sequence (taking normal casting time for each) immediately magical mastery of secret knowledge and hidden rites.
+Invocation Magic (see the Invocation Magic Virtue, below) lets a magus use Names of Power as meta-magic spells to add to his Casting Score for another spell. To do so, choose and cast one or more Name of Power spells in sequence (taking normal casting time for each) immediately before beginning to cast the boosted spell. The Invocation Magic bonus is limited by the magus's Magic Theory score.
 
-Many pagan polytheists, on the other hand, simply see the Divine as one power amongst many that has risen to dominance. For them, the Divine auras are nothing more than the flexing might of a powerful god named Jehovah, who has become so powerful that he has claimed to be the only true god. Such polytheists are fond of citing the opening verses of Psalm 82 and other early traditions that seem to imply the Jewish and Christian god as merely the most potent of the deities, but not the only deity.
-
-The idea of attaining salvation by practicing rites and magical secrets takes many forms, but one of the most common is the psychopompic tradition, where the emphasis is on the process that follows bodily death. There are believed to be a number of realms through which the soul must traverse, and there one faces a succession of spiritual guardians who block the way. By knowing the right secrets, passwords, and signs, one can command the attention of these guardians and gain passage so that the soul may continue its ascent to its final reward. The magician uses his life to gain the knowledge of spiritual beings, secret signs or passwords to influence them (synthemata), and other potent spiritual knowledge to prepare for this post-mortem ascent; initiation into a series of secrets is central to these practices.
-
-Hermetic theorists who subscribe to these beliefs differ wildly in their theologies, but many believe that by attaining the correct magical knowledge one can escape the judgment of God and Heaven, Hell, or Purgatory, and on death that the soul of the Initiate travels instead to the realm of Magic, which is where the guardians await. Others accept that the final path will be through the Divine realm, or even the Infernal, but believe the magical secrets learned, rather than morality or the sacraments of the Church, will be the ultimate influence on the destination of the Initiate's soul.
-
-Finally, and most intriguingly, there are those seek the greatest secret of all, that of apotheosis. They wish to transcend mortality and become as gods, just as many heroes in classical myth were able to eventually cast off their flesh and become deities. Whether this is actually possible, or just a terrible snare of the Devil to lure souls to damnation, is a matter of considerable dispute, but rumors persist that magicians have, in fact, accomplished this, and by being worshiped and venerated, and through the rigorous pursuit of their own way, have finally, after demanding rites, been able to ascend to godhood. If it can be done, few have achieved it, and they are not sharing the secret.
-
-before beginning to cast the boosted spell. The Invocation Magic bonus is limited by the magus's Magic Theory score.
-
-#### Invocation Magic Bonus = Total of Name of Power Spell Bonuses, Limited by Magic Theory
+**Invocation Magic Bonus = Total of Name of Power Spell Bonuses, Limited by Magic Theory**
 
 The caster may apply the bonus to the Casting Score of any spell (Spontaneous, Formulaic, or Ritual) that matches the scope of the Names used. (Since the meta-magic affects the magus's Casting Score, not the cast spell, it can be combined with Spontaneous Magic.)
 
@@ -3189,26 +3012,23 @@ A magus can combine Invocation Magic bonuses with theurgic spellcasting and cons
 
 #### Consummate Talisman and Names of Power
 
-The Consummate Talisman Virtue (see Chapter 10: The Great Talisman, Consummate Talisman) lets a magus instill meta-magic effects in his talisman, and have the talisman affect his own spellcasting. He may instill known Names
+The Consummate Talisman Virtue (see Chapter 10: The Great Talisman, Consummate Talisman) lets a magus instill meta-magic effects in his talisman, and have the talisman affect his own spellcasting. He may instill known Names of Power and have the effects boost his Casting Score. The actual name, spoken out loud, is a required trigger for such an effect.
 
-
-## Spell Spirits
-
-Most spell spirits have limited intelligence, just a spark of magic: They are not usually great conversationalists. While in attendance on one who has *Invoked* them, they can be seen by those who can see invisible spirits (e.g., with Second Sight). Others can attack the spirit, or attempt to force it to submit to their will. The spirit resists others with its Might, and spells or powers that try to command or subvert the spirit must also exceed the level of the *Invoke* spell that commands it.
-
-In game terms, the laboratory spell design work allows the magus to choose an arbitrary spell and invent a spell to summon a spirit to match it, rather than finding a spirit and determining what spell it can cast. It is not clear whether the spirit knew the spell beforehand, or the magus's spell research in some way taught the spirit. (Since the spirit's power directly reflects Hermetic magic in both strengths and weaknesses, some argue that the theurgist must teach the spirit; however, theurgists deny this, and claim that they simply summon spirits.)
-
-If the magus has links to other realms, such as the Virtue Faerie Magic, then he may invent spells to summon spirits of those realms; otherwise the spirit will have Magic Might.
-
-of Power and have the effects boost his Casting Score. The actual name, spoken out loud, is a required trigger for such an effect.
+> ## Spell Spirits
+> 
+> Most spell spirits have limited intelligence, just a spark of magic: They are not usually great conversationalists. While in attendance on one who has *Invoked* them, they can be seen by those who can see invisible spirits (e.g., with Second Sight). Others can attack the spirit, or attempt to force it to submit to their will. The spirit resists others with its Might, and spells or powers that try to command or subvert the spirit must also exceed the level of the *Invoke* spell that commands it.
+> 
+> In game terms, the laboratory spell design work allows the magus to choose an arbitrary spell and invent a spell to summon a spirit to match it, rather than finding a spirit and determining what spell it can cast. It is not clear whether the spirit knew the spell beforehand, or the magus's spell research in some way taught the spirit. (Since the spirit's power directly reflects Hermetic magic in both strengths and weaknesses, some argue that the theurgist must teach the spirit; however, theurgists deny this, and claim that they simply summon spirits.)
+> 
+> If the magus has links to other realms, such as the Virtue Faerie Magic, then he may invent spells to summon spirits of those realms; otherwise the spirit will have Magic Might.
 
 To benefit from Name of Power effects, the magus chooses one or more Name effects instilled in his talisman, casts the spell in a firm or loud voice and includes the triggering names in the spellcasting. He may apply a Name of Power effect to the Casting Score of any spell (Spontaneous, Formulaic, or Ritual) that matches the scope of the Name of Power. Add the total bonus of triggered effects to the caster's Casting Score, limited by his Magic Theory score.
 
-#### Talisman Name of Power Bonus = Total of Name of Power Effect Bonuses, Limited by Magic Theory
+**Talisman Name of Power Bonus = Total of Name of Power Effect Bonuses, Limited by Magic Theory**
 
 A magus can combine talisman name magic bonuses with theurgic spellcasting and Invocation Magic.
 
-## Invocation Magic — Major Mystery Virtue
+### Invocation Magic — Major Mystery Virtue
 
 The magus knows how to work Names of Power into the casting of other spells. This Virtue requires the Virtue Names of Power as a prerequisite.
 
@@ -3216,7 +3036,7 @@ If the magus knows a Name of Power that governs the area of the spell he wishes 
 
 A magus can utter (cast) several Names of Power in sequence, and they add to a maximum bonus from all names equal to his Magic Theory score.
 
-#### Invocation Magic Bonus = Total of Name of Power Spell Bonuses, Limited by Magic Theory
+**Invocation Magic Bonus = Total of Name of Power Spell Bonuses, Limited by Magic Theory**
 
 It takes the normal spellcasting time to invoke each Name of Power preceding the main spell, so the overall casting may take several rounds. To invoke a Name of Power in this manner, the caster must use a firm (or loud) voice: otherwise he will not attract the attention of the names. If he uses Loud Voice, or Exaggerated Gestures, the normal +1 bonus is doubled (only for casting the Name of Power itself).
 
@@ -3224,7 +3044,7 @@ The magus can boost his casting score for any spell (Spontaneous, Formulaic, or 
 
 If the magus botches while working Invocation Magic, the consequences can be dire — the Muto Vim botch targets his magic, and may have any conceivable effect (ArM5, page 159), including drawing hostile attention from the power invoked, affecting the magus's Magic Resistance or Casting Score, or (for really bad botches) his Gift itself. The severity (number of botch zeroes) determines what is affected and how badly. Botch effects are separate from any Warping Points or Twilight effects.
 
-## Hermetic Theurgy — Minor Hermetic Mystery Virtue
+### Hermetic Theurgy — Minor Hermetic Mystery Virtue
 
 This Virtue teaches a magus how to invent spells that form a pact with a spirit. Each *Invoke* spell relates to a specific, named spirit: indeed, a magus can invent two spells identical in all respects other than the name of the specific spirit summoned. If a magus invents his own spell from a theurgic Lab Text, then his spell invokes the same spirit as the original; a Lab Text he writes also summons that same spirit. (This may cause conflicts if two magi summon the same spirit.)
 
@@ -3234,10 +3054,7 @@ An *Invoke* spell cannot be instilled as a device effect, even if the device can
 
 *Invoke the Spirit of (spell)* and *Invoke the Spirit of (Form)* call specific spirits to perform spellcasting for the magus. He summons the spirit and instructs it as to the casting required, which takes extra time but allows him to vary the spell (in the manner of Flexible Formulaic Magic). The spirit casts the spell as a power, so no die roll is involved and the spirit cannot botch the spell. There are many minor spirits in Mythic Europe, and the laboratory work to invent the spell is enough to discover the name of a spirit that suits the magus's need.
 
-Like most beings, a spirit can only be in one place at a time, which may cause
-
-
-problems for rival theurgists who have shared a grimoire. However, a magus may summon several spirits intended to invoke the same spell power.
+Like most beings, a spirit can only be in one place at a time, which may cause problems for rival theurgists who have shared a grimoire. However, a magus may summon several spirits intended to invoke the same spell power.
 
 *Invoke the Pact of (Daimon)* calls a specific Daimon, an intelligent, powerful spirit, that will send one of its Aspects to attend the summoner. Daimons may know many things, and usually perform some favored service for their summoner, or the summoner can bargain for other services.
 
@@ -3295,10 +3112,7 @@ Note that no die roll is needed for the spirit — it just performs the spell as
 
 The players should substitute their own name for the spirit, not using (spell).
 
-*Example: Gunnar of Ex Miscellanea wishes to be able to summon a spirit that can cast the level* 
-
-
-*20 spell* Pilum of Fire *for him. He does some research, and discovers that the spirit Akkala (the name of a place in Finland, the storyguide lacked inspiration) is a spirit that has the power to confer that spell effect. Akkala has a Might of 20, the same as the spell (the minimum needed).*
+*Example: Gunnar of Ex Miscellanea wishes to be able to summon a spirit that can cast the level 20 spell* Pilum of Fire *for him. He does some research, and discovers that the spirit Akkala (the name of a place in Finland, the storyguide lacked inspiration) is a spirit that has the power to confer that spell effect. Akkala has a Might of 20, the same as the spell (the minimum needed).*
 
 *Gunnar recognizes that taking time to summon Akkala and then instruct him may take longer than he can afford, so he decides to make this a Sun duration summons: once summoned Akkala will remain until sunset (or sunrise), or until instructed to cast* Pilum of Fire*.*
 
@@ -3340,8 +3154,7 @@ When a magus casts an *Invoke* spell, the invisible spirit appears next to him. 
 
 Note that no die roll is needed for the spirit — it just performs the spell as instructed.
 
-
-**Invoke the Pact of (Daimon)**
+#### Invoke the Pact of (Daimon)**
 
 **Invoke the Pact of (Daimon)**
 
@@ -3351,42 +3164,40 @@ R: Arcane, D: Mom, T: Ind, Mystery Ritual
 
 The base level is the Might of the Daimon, but should be increased in order to summon the Daimon.
 
-This spell represents the formation of a pact with a powerful named Daimon. The Ritual nature of the spell conveys part of the vis spent as a gift to the Daimon. Daimons are difficult to summon, but with this spell a maga can call the Daimon repeatedly until it hears her call and sends an Aspect of itself to answer her. This does not command the Daimon, but most will perform a specific service when summoned. (See Appendix E: Mysterious Beings for examples of Daimon spirits and typical services.) Many Daimons will perform unusual services, beyond simple spellcasting, and often beyond the limits of
-
-
+This spell represents the formation of a pact with a powerful named Daimon. The Ritual nature of the spell conveys part of the vis spent as a gift to the Daimon. Daimons are difficult to summon, but with this spell a maga can call the Daimon repeatedly until it hears her call and sends an Aspect of itself to answer her. This does not command the Daimon, but most will perform a specific service when summoned. (See Appendix E: Mysterious Beings for examples of Daimon spirits and typical services.) Many Daimons will perform unusual services, beyond simple spellcasting, and often beyond the limits of Hermetic magic. Most will at least listen to the maga, and consider bargaining for further services. 
 
 The part of the Daimon that a maga sees before her when she creates such a pact is not the whole of such a powerful spirit, but just a part, or Aspect, sent to answer her call. A maga cannot bind an Aspect — it will just fade away, discarded by the parent spirit; she can only bind the Daimon itself if she can find the core spirit in the realm where it resides.
 
 A maga may (should!) invent the Ritual at a level greater than the Daimon's Might. When she casts the ritual, she must overcome the Daimon's Magic Resistance for it to hear her call. If she succeeds, she accumulates points equal to (spell level – Daimon Might).
 
-#### Daimon Summoning Points = Spell Level – Daimon's Might
+**Daimon Summoning Points = Spell Level – Daimon's Might**
 
 When the maga has accumulated points equal to its Might, the spirit sends an Aspect to answer her call. A maga can re-invent a spell to summon the same Daimon, with a higher spell level (and a similar spell bonus to invent the new spell). A spell of twice the Daimon's Might can summon the Daimon in one casting, if the maga can overcome Magic Resistance.
 
-#### Summoning Success: Accumulated Summoning Points = Daimon's Might
+**Summoning Success: Accumulated Summoning Points = Daimon's Might**
 
 It is possible to cast *Invoke the Pact of (Daimon)* without the Virtue Hermetic Theurgy, but the magus is limited as follows:
 
-- He cannot create his own *Invoke* spell from scratch, but must have a Lab Text for the spell (or a teacher) •
-- In order to accumulate Summoning Points between castings, he needs Hermetic Theurgy. Without Hermetic Theurgy, a magus may cast the spell, but the spirit will only attend the magus if the single casting is powerful enough to summon it. (It is common, but not mandatory, for non-theurgist magi to cast this ritual in a group, with the aid of *Wizard's Communion*.) •
+- He cannot create his own *Invoke* spell from scratch, but must have a Lab Text for the spell (or a teacher)
+- In order to accumulate Summoning Points between castings, he needs Hermetic Theurgy. Without Hermetic Theurgy, a magus may cast the spell, but the spirit will only attend the magus if the single casting is powerful enough to summon it. (It is common, but not mandatory, for non-theurgist magi to cast this ritual in a group, with the aid of *Wizard's Communion*.)
 
-## The Daimonic Aspect
+> ## The Daimonic Aspect
+> 
+> Daimons and similar unique powerful spirits have a special power of creating an Aspect. The Aspect is a fraction of the whole spirit sent into the mortal world to interact temporarily with others, while the core of the spirit remains in its place of power, such as the Hall of Heroes.
+> 
+> Each Aspect is like an independent spirit that can be created or allowed to lapse in an instant. Each starts without wounds, and with its own pool of Might points (Daimons are untiring spirits, and do not have fatigue levels). The Daimon may have powers that are limited in uses per day (for example, an ascended magus's talisman enchantments), and each Aspect counts these separately. An Aspect does not recover wounds or Might points used while on Earth, rather it is eventually dispelled and later replaced by another Aspect.
+> 
+> There is no fixed limit to the endurance of an Aspect, but they only remain while they are conscious and have Might remaining.
+> 
+> An Aspect is normally a disembodied spirit, but can create a earthly, bodily form at will. While disembodied they are like ghosts (see Chapter 8: Hermetic Spirit Magic: Ghosts in Ars Magica). While embodied they can suffer wounds but are untiring; if this body is slain, the Aspect returns to its parent Daimon.
+> 
+> There are limits to this: An Aspect cannot be summoned into a place where there is already an aspect of the same Daimon, nor where there has been an Aspect in the past day. A Daimon's Aspect, conjured elsewhere and moving through the world, will not willingly enter a place where there is or has been another Aspect within a day. The size of "place" that prevents an Aspect is not well defined, but is at least several miles across: this is in part to keep stories simple by avoiding "collisions." This also prevents an Aspect from leaving and returning within a day.
+> 
+> In addition, no permanent changes can be made to any Aspect, as they never last. The most that can be done is to seal a pact with the Daimon to provide an Aspect to attend the magus; this is what a Daimon bound as theurgic spirit familiar provides.
+> 
+> If the Daimon is encountered in its place of power, outside the world, then this is its one true form, and no Aspect of it may appear in that place – except when returning to the place to merge with the true spirit. Daimons frequently encounter other Daimons and spirits in their true places, but almost never encounter mortals. It may even be that the Hall of Heroes is beyond the Lunar Sphere, which might explain why magi cannot find it.
 
-Daimons and similar unique powerful spirits have a special power of creating an Aspect. The Aspect is a fraction of the whole spirit sent into the mortal world to interact temporarily with others, while the core of the spirit remains in its place of power, such as the Hall of Heroes.
-
-Each Aspect is like an independent spirit that can be created or allowed to lapse in an instant. Each starts without wounds, and with its own pool of Might points (Daimons are untiring spirits, and do not have fatigue levels). The Daimon may have powers that are limited in uses per day (for example, an ascended magus's talisman enchantments), and each Aspect counts these separately. An Aspect does not recover wounds or Might points used while on Earth, rather it is eventually dispelled and later replaced by another Aspect.
-
-There is no fixed limit to the endurance of an Aspect, but they only remain while they are conscious and have Might remaining.
-
-An Aspect is normally a disembodied spirit, but can create a earthly, bodily form at will. While disembodied they are like ghosts (see Chapter 8: Hermetic Spirit Magic: Ghosts in Ars Magica). While embodied they can suffer wounds but are untiring; if this body is slain, the Aspect returns to its parent Daimon.
-
-There are limits to this: An Aspect cannot be summoned into a place where there is already an aspect of the same Daimon, nor where there has been an Aspect in the past day. A Daimon's Aspect, conjured elsewhere and moving through the world, will not willingly enter a place where there is or has been another Aspect within a day. The size of "place" that prevents an Aspect is not well defined, but is at least several miles across: this is in part to keep stories simple by avoiding "collisions." This also prevents an Aspect from leaving and returning within a day.
-
-In addition, no permanent changes can be made to any Aspect, as they never last. The most that can be done is to seal a pact with the Daimon to provide an Aspect to attend the magus; this is what a Daimon bound as theurgic spirit familiar provides.
-
-If the Daimon is encountered in its place of power, outside the world, then this is its one true form, and no Aspect of it may appear in that place – except when returning to the place to merge with the true spirit. Daimons frequently encounter other Daimons and spirits in their true places, but almost never encounter mortals. It may even be that the Hall of Heroes is beyond the Lunar Sphere, which might explain why magi cannot find it.
-
-## Theurgic Spirit Familiar — Minor Hermetic Mystery Virtue
+### Theurgic Spirit Familiar — Minor Hermetic Mystery Virtue
 
 This is essentially identical to the Virtue Spirit Familiar described in Chapter 8: Spirit Magic, except insofar as Theurgic Spirit Familiar is part of the school of name magic rather than spirit magic. Also, if powerful enough, a maga may seek to ally with a Daimon spirit as her familiar.
 
@@ -3394,16 +3205,13 @@ If a maga binds a Daimon, she only binds a single Aspect of the Daimon, not the 
 
 #### Finding and Binding a Daimon
 
-A magus who seeks a Daimon familiar must research a likely Daimon, deter-
+A magus who seeks a Daimon familiar must research a likely Daimon, determine its abilities as they are understood by magi (including determining whether they are in sympathy with his magic), learn as much as he can of its name, history, past life (if any), its beliefs and habits — and whether it is likely to respond well to the suggestion of bonding itself to a magus. (As a rule of thumb, if the (Technique + Form) proposed for the bond is less than 2 x Might, it is likely to reject the magus as not worthy.) (Consult Appendix C: Mysterious Beings for examples of Daimon powers and characteristics.)
 
-
-## Immortal Magi as Familiars
-
-The Mystery Ascendancy to the Hall of Heroes transforms a magus into an immortal Daimon spirit. It would then be possible for a living magus, perhaps a follower of the cult that assisted in the ascendancy of the Daimonic magus, to ally an Aspect of the Daimonic magus as his own spirit familiar.
-
-This would be an interesting way to draw an ascended immortal into stories in an on-going saga.
-
-mine its abilities as they are understood by magi (including determining whether they are in sympathy with his magic), learn as much as he can of its name, history, past life (if any), its beliefs and habits — and whether it is likely to respond well to the suggestion of bonding itself to a magus. (As a rule of thumb, if the (Technique + Form) proposed for the bond is less than 2 x Might, it is likely to reject the magus as not worthy.) (Consult Appendix C: Mysterious Beings for examples of Daimon powers and characteristics.)
+> ## Immortal Magi as Familiars
+> 
+> The Mystery Ascendancy to the Hall of Heroes transforms a magus into an immortal Daimon spirit. It would then be possible for a living magus, perhaps a follower of the cult that assisted in the ascendancy of the Daimonic magus, to ally an Aspect of the Daimonic magus as his own spirit familiar.
+> 
+> This would be an interesting way to draw an ascended immortal into stories in an on-going saga.
 
 If the magus judges it a good match, then he may invent a version of the *Invoke the Pact of (Daimon)* ritual to summon this Daimon, and offer himself to it as ally. (Noting that use of Hermetic synthemata to compel attendance will not generate a favorable opinion.) Unlike the lesser spirits, summoning a Daimon is an acceptable means to initiate contact — indeed, essentially the only means.
 
@@ -3423,7 +3231,7 @@ The spells are designed specifically for one magus, so no Warping is inflicted f
 
 The Initiated hierarch gains the knowledge to devise the ritual for his own ascension, but cannot cast it himself — rather he requires a group of celebrants (cultists) who provide the magical energy to the hierarch to allow for his apotheosis through their faithful devotion and worship.
 
-#### Ascendant Form of the Intendant Hierarch
+##### Ascendant Form of the Intendant Hierarch
 
 (Te)(Fo) Gen
 
@@ -3431,27 +3239,15 @@ R: Per, D: Sun (Special), T: Ind, Mystery Ritual
 
 This is specified and researched as a Ritual spell, but is really a rite of the Mystery.
 
-The hierarch constructs a prototype ascendant form for himself, embodying
+The hierarch constructs a prototype ascendant form for himself, embodying all that is best in his magic. The hierarch temporarily takes on an aura of power and perfection. While the ritual effect lasts, the hierarch's followers cast *Transformation of the Ascendant Hierarch*, in the hope that their hierarch will make progress to perfection. During the ritual's effect, all of the hierarch's abilities (except his future Magic Might) are manifest in their strongest form, although the hierarch is carried away by his own immanent glory and cannot usefully act other than to accept ritual offerings.
 
-## The Hall of Heroes
-
-Little is known by mortals of the Hall of Heroes. In Christian times, most people, including magi, would deny that any such thing remained at all. (Many Hermetic magi prefer to stress the secular nature of their learning, and describe Daimonic spirits as "just part of the spirit bestiary.") Nevertheless, Daimonic spirits appear to exist, and there are significant numbers of them, even just counting those known to Hermetic magi. Pagan magi claim that the pantheon of gods still exists, if mostly cut off, with access to and by worshippers today confined to the sacred groves, which often exist in magical regios.
-
-The new spiritual magus may encounter other Daimonic spirits; some may prove to be allies if approached favorably, others may be hostile (or part of enemy groupings in the Hall of Heroes). Spiritual allies may guide the new magus, or even assist him. They may perhaps be bargained with for assistance, as all the remnants of the old pantheons desire the "worship," observance, prayers, and offerings of mortals.
-
-all that is best in his magic. The hierarch temporarily takes on an aura of power and perfection. While the ritual effect lasts, the hierarch's followers cast *Transformation of the Ascendant Hierarch*, in the hope that their hierarch will make progress to perfection. During the ritual's effect, all of the hierarch's abilities (except his future Magic Might) are manifest in their strongest form, although the hierarch is carried away by his own immanent glory and cannot usefully act other than to accept ritual offerings.
+> ## The Hall of Heroes
+> 
+> Little is known by mortals of the Hall of Heroes. In Christian times, most people, including magi, would deny that any such thing remained at all. (Many Hermetic magi prefer to stress the secular nature of their learning, and describe Daimonic spirits as "just part of the spirit bestiary.") Nevertheless, Daimonic spirits appear to exist, and there are significant numbers of them, even just counting those known to Hermetic magi. Pagan magi claim that the pantheon of gods still exists, if mostly cut off, with access to and by worshippers today confined to the sacred groves, which often exist in magical regios.
+> 
+> The new spiritual magus may encounter other Daimonic spirits; some may prove to be allies if approached favorably, others may be hostile (or part of enemy groupings in the Hall of Heroes). Spiritual allies may guide the new magus, or even assist him. They may perhaps be bargained with for assistance, as all the remnants of the old pantheons desire the "worship," observance, prayers, and offerings of mortals.
 
 The Mystery rite requires the intendant hierarch prove himself and his celebrants' worth: the celebrants must prove their worth by overcoming the intendant hierarch's Magic Resistance with their own Ritual spell. No short-cuts are permitted, so the magus must have performed his full Parma Magica, and manifest (not suppress) his full Magic Resistance.
-
-
-
-## Familiars and the Ascendant Magus
-
-If a magus has a spirit familiar, then it automatically stays with him, and requires no extra vis to do so, as it is already a free spirit.
-
-Otherwise, the familiar faces a choice when its master ascends: it may remain in life and lose him, or join him in ascendancy by sharing the ritual Ordeal, provided additional pawns of raw vis equal to the Familiar Bond Score/5 (round up) are expended in the Ritual. (The mystery allows for this see also Appendix A: Immortal Magi, Becoming Immortal with a Familiar.)
-
-Ascended heroes with companion familiar spirits form some of the famous heroic pairs in the Hall of Heroes.
 
 The Technique and Form of this Ritual are the hierarch's best Arts, and the level of the Ritual must equal or exceed their total, and a minimum level of 40. When the whole process is complete, the ascended hierarch will have a Might of (this Ritual's level/2).
 
@@ -3459,15 +3255,21 @@ Once begun, the ascendant form continues until the *Transformation of the Ascend
 
 (Special Mystery)
 
-#### Transformation of the Ascendant Hierarch
+> ## Familiars and the Ascendant Magus
+> 
+> If a magus has a spirit familiar, then it automatically stays with him, and requires no extra vis to do so, as it is already a free spirit.
+> 
+> Otherwise, the familiar faces a choice when its master ascends: it may remain in life and lose him, or join him in ascendancy by sharing the ritual Ordeal, provided additional pawns of raw vis equal to the Familiar Bond Score/5 (round up) are expended in the Ritual. (The mystery allows for this see also Appendix A: Immortal Magi, Becoming Immortal with a Familiar.)
+> 
+> Ascended heroes with companion familiar spirits form some of the famous heroic pairs in the Hall of Heroes.
+
+##### Transformation of the Ascendant Hierarch
 
 CrVi Gen
 
 R: Voice, D: Diam, T: Ind, Mystery Ordeal Ritual
 
 *Transformation of the Ascendant Hierarch*  is cast on a magus who has already cast *Ascendant Form of the Intendant Hierarch* upon himself. The level of this ritual must exceed that of the *Ascendant Form* ritual, and the caster must overcome the target's Magic Resistance (which cannot be suppressed — see that spell description). (It is normal for a group of celebrants to use *Wizard's Communion* to aid their Penetration).
-
-#### The Mysteries Revised Edition
 
 The target (the hierarch) is tested by the ritual, and appears wreathed in lambent flame and golden nimbus for the duration of the spell. He is also subject to intense agony as the spell courses through his body, but he must endure this in order to ascend. The hierarch makes a Stamina roll against an Ease Factor of 9, or passes out (although he still benefits from the ritual unless he botches the Stamina roll). When the *Transformation* spell ends, the *Ascendant Form* ends too.
 
@@ -3481,9 +3283,9 @@ The cultists can then cast the *Transformation* as a group, relying on spells su
 
 If the *Transformation* Ritual overcomes the hierarch's Magic Resistance, accumulate transformation points equal to *Transformation* spell level **–** *Ascendant Form* level. The base total of points needed is the level of the *Ascendant Form* spell. In addition, points are needed to perfect any failings the hierarch suffers from:
 
-- Count the pyramid point cost of any negative characteristics the hierarch has and multiply by three (ignore positive characteristics). •
-- Add five times Decrepitude score. •
-- Total the number of Virtues (Major Virtue = 3 points, Minor Virtue = 1 point); total the number of Flaws (Major Flaw = 3 points, Minor Flaw = 1 point). If Virtues equal or exceed Flaws, the magus is satisfactory but gains no bonus; if Flaws exceed Virtues, then additional Transformation points are needed, equal to five times total Flaw points. •
+- Count the pyramid point cost of any negative characteristics the hierarch has and multiply by three (ignore positive characteristics).
+- Add five times Decrepitude score.
+- Total the number of Virtues (Major Virtue = 3 points, Minor Virtue = 1 point); total the number of Flaws (Major Flaw = 3 points, Minor Flaw = 1 point). If Virtues equal or exceed Flaws, the magus is satisfactory but gains no bonus; if Flaws exceed Virtues, then additional Transformation points are needed, equal to five times total Flaw points.
 
 **Count Major Flaws and Virtues as 3 point each, Minor as 1 point each.**
 
@@ -3507,35 +3309,27 @@ When accumulated points equal the total needed, the ritual cycle is complete, an
 
 #### Ascension
 
-The magus becomes a pure, perfected, unchanging immortal, divorced and cut off from the mundane world. The new spirit may be seen in the heavens as
-
-
-a *nova stella*, or new star. When he first ascends, he shines brightly, to announce his presence to the world, but over time his brilliance may fade to reflect his relative status among the other heroes. It is said that the greatest heroes and gods from the time of myths ascended to form entire constellations, but no new constellations have arisen in known time.
+The magus becomes a pure, perfected, unchanging immortal, divorced and cut off from the mundane world. The new spirit may be seen in the heavens as a *nova stella*, or new star. When he first ascends, he shines brightly, to announce his presence to the world, but over time his brilliance may fade to reflect his relative status among the other heroes. It is said that the greatest heroes and gods from the time of myths ascended to form entire constellations, but no new constellations have arisen in known time.
 
 Such ascended spirits form some of the heroes in the Daimonic bestiary: It is now possible to summon the magus.
 
 The magus's talisman, if he has one, becomes a part of his immortal being, a source of power from which he can invoke effects — just as he could in life. (This is true whether the talisman is a normal object, or his spirit or body — see Chapter 8: Hermetic Spirit Magic, Inscription on the Soul and Spirit vs. Body Enchantments.)
 
-The magus's mortal body is left behind as a useless empty shell. Any enchantments still on the body are dispelled and any remnant vis is consumed by the ascending spirit. The body remains an Arcane Connection to the Daimon spirit. Most cultists take some small portion, such as a bone, as a relic to use when
+The magus's mortal body is left behind as a useless empty shell. Any enchantments still on the body are dispelled and any remnant vis is consumed by the ascending spirit. The body remains an Arcane Connection to the Daimon spirit. Most cultists take some small portion, such as a bone, as a relic to use when summoning their Daimonic leader; but they often destroy the larger part of the body lest it fall into enemy hands.
 
-## Invoke the Pact of (Daimon)
-
-The normal Daimonic summoning spell is more of a contractual bargain than initially appears, as the Daimon gains spiritual strength that can be used for learning, and in return a summoned Daimon performs an agreed-upon service. This may explain why Daimons are generally agreeable when summoned, in contrast to other summoned beings, who generally resent the summons.
-
-A player-character Daimonic magus may be summoned by an *Invoke Pact* spell devised for his spirit. This provides him with the pact benefits in return for his providing a magical service, just as with a normal Daimon spirit. Players may well find that gaming out such services provides a new and different story theme for the troupe.
-
-The Daimon gains a benefit equal to the *Invocation* spell level/5 (round up) — this is the same as the vis cost of the *Invocation* Ritual spell. The spirit gains the benefit when the Invocation points total equals his Might, and he is called to appear.
-
-summoning their Daimonic leader; but they often destroy the larger part of the body lest it fall into enemy hands.
+> ## Invoke the Pact of (Daimon)
+> 
+> The normal Daimonic summoning spell is more of a contractual bargain than initially appears, as the Daimon gains spiritual strength that can be used for learning, and in return a summoned Daimon performs an agreed-upon service. This may explain why Daimons are generally agreeable when summoned, in contrast to other summoned beings, who generally resent the summons.
+> 
+> A player-character Daimonic magus may be summoned by an *Invoke Pact* spell devised for his spirit. This provides him with the pact benefits in return for his providing a magical service, just as with a normal Daimon spirit. Players may well find that gaming out such services provides a new and different story theme for the troupe.
+> 
+> The Daimon gains a benefit equal to the *Invocation* spell level/5 (round up) — this is the same as the vis cost of the *Invocation* Ritual spell. The spirit gains the benefit when the Invocation points total equals his Might, and he is called to appear.
 
 #### The Daimonic Magus
 
 As a Daimon, a magus has the Daimonic power to manifest Aspects in multiple locations simultaneously (see The Daimonic Aspect).
 
-The Daimonic magus is immune to aging and Warping. He has the immortal benefit of resistance to, and undoing of change (see Appendix A: Immortal Magi). However, the Daimonic magus has surrendered all earthly ties, including laboratory use, and cannot use the talisman enchantments of Appendix A to study and improve. This might seem to mean that the Daimon magus cannot learn as he cannot change, but players should not
-
-
-despair for their favorite characters, for the cultist magi left behind may perform rituals to aid the spirit, granting further powers and abilities.
+The Daimonic magus is immune to aging and Warping. He has the immortal benefit of resistance to, and undoing of change (see Appendix A: Immortal Magi). However, the Daimonic magus has surrendered all earthly ties, including laboratory use, and cannot use the talisman enchantments of Appendix A to study and improve. This might seem to mean that the Daimon magus cannot learn as he cannot change, but players should not despair for their favorite characters, for the cultist magi left behind may perform rituals to aid the spirit, granting further powers and abilities.
 
 A Daimon is an untiring spirit, with no Fatigue levels. (In this, it is similar to a faerie.) Mundane activities that might tire a mortal being do not tire a Daimon. For magical activities that call for the expenditure of Fatigue, the Daimon expends 5 Might for each Fatigue level normally expended. This includes casting Spontaneous Magic, Formulaic spells where Casting Total is below spell level, Ritual spells, and Virtues like Life-Boost and Life-Linked Spontaneous Magic.
 
@@ -3547,20 +3341,15 @@ If the loss of Might to replace Fatigue takes an Aspect to 0 Might or below, it 
 
 The Daimonic pact spell *Invoke the Pact of (Daimon)* grants spiritual strength, expressed in game terms as:
 
-#### Daimon Points = (spell level) / 5
+**Daimon Points = (spell level) / 5**
 
 Daimon Points may be spent as follows:
 
-- **Study:** 1 Daimon Point can be used to "fix" a study experience point, so that it is not lost. This takes place in a second season, the season after the season of study. If not fixed, excess study points are lost at the end of the second season. **•**
-- 1 Daimon Point can be used to "fix" a magnitude of spell learned so that it is not lost. This takes place in a second season, the season after the •
-
-#### The Mysteries Revised Edition
-
-season the spell was learned. If not fully fixed, the spell is lost at the end of the second season.
-
-- **Increase Might:** 5 Daimon Points can be used to increase Might Score by 1 point. **•**
-- **Increase Characteristic:** 10 times the character purchase cost of a Characteristic increases a Characteristic by 1 point. (Improving negative characteristics take as many points as they gave originally, so to increase a –3 Quickness to –2 takes (3 x 10) or 30 points.) There is no practical limit to the characteristics of Daimons, other than the enthusiasm of their followers. **•**
-- **Learn from Other Spirits:** Daimon Points can be bargained and traded with allied Daimonic spirits: typically a spirit will teach a spell or spell-like power to another in return for Daimon Points. Half the points are lost in the transfer, so the teacher charges (spell magnitude) Daimon Points, and but this costs the pupil twice (spell magnitude). The teaching takes a season, taught as a spell, and the magus spirit must then spend a second season to "fix" the spell (as above). **•**
+- **Study:** 1 Daimon Point can be used to "fix" a study experience point, so that it is not lost. This takes place in a second season, the season after the season of study. If not fixed, excess study points are lost at the end of the second season.
+- 1 Daimon Point can be used to "fix" a magnitude of spell learned so that it is not lost. This takes place in a second season, the season after the season the spell was learned. If not fully fixed, the spell is lost at the end of the second season.
+- **Increase Might:** 5 Daimon Points can be used to increase Might Score by 1 point.
+- **Increase Characteristic:** 10 times the character purchase cost of a Characteristic increases a Characteristic by 1 point. (Improving negative characteristics take as many points as they gave originally, so to increase a –3 Quickness to –2 takes (3 x 10) or 30 points.) There is no practical limit to the characteristics of Daimons, other than the enthusiasm of their followers.
+- **Learn from Other Spirits:** Daimon Points can be bargained and traded with allied Daimonic spirits: typically a spirit will teach a spell or spell-like power to another in return for Daimon Points. Half the points are lost in the transfer, so the teacher charges (spell magnitude) Daimon Points, and but this costs the pupil twice (spell magnitude). The teaching takes a season, taught as a spell, and the magus spirit must then spend a second season to "fix" the spell (as above).
 
 Clearly Daimons need to accumulate a number of ritual summons benefits before embarking on some of these processes.
 
@@ -3574,7 +3363,7 @@ Synthemata are especially useful in summoning Daimons, as the Daimon summoning s
 
 A synthemata formula is unique to one being, and increases Penetration so that the magus with this spell may inflict any spell he desires upon his victim. The victim, in turn, is made aware if the spell is cast in its presence, so merely casting the spell acts as a lever to demand cooperation.
 
-#### Synthemata of (X)
+**Synthemata of (X)**
 
 MuVi Gen
 
@@ -3586,21 +3375,17 @@ The spell is unique to one named being, and the spell level must equal or exceed
 
 Momentary Duration works for a spell cast immediately after the synthemata spell, but magi often research a spell with extended Duration, allowing a delayed or multiple casting.
 
-### The Lasting Synthemata of (X)
+**The Lasting Synthemata of (X)**
 
 MuVi Gen
 
 R: Per, D: Diameter, T: Ind, Mystery The spell is unique to one named being, and the (spell level **–** 5) must equal or exceed its Might. The synthemata spell affects the caster so that the caster adds the synthemata (level – 5) to the Penetration Total of any spell cast (or begun) after the synthemata, until the end of the synthemata spell.
 
-Diameter duration synthemata are especially popular, as the synthemata can be used several times without concentration. In addition, while the synthemata spell is in effect, the being is aware of
-
-
-
-the spell and its threat, and usually very much inclined to negotiate if the caster allows it to.
+Diameter duration synthemata are especially popular, as the synthemata can be used several times without concentration. In addition, while the synthemata spell is in effect, the being is aware of the spell and its threat, and usually very much inclined to negotiate if the caster allows it to.
 
 (Base named being's Magic Resistance, +1 Diameter)
 
-#### Researching Synthemata
+**Researching Synthemata**
 
 Synthemata are very difficult to research, and most easily learned from Lab Texts.
 
@@ -3614,28 +3399,21 @@ Unfortunately, many powerful beings have means to hide their synthemata from mag
 
 not the level of the actual spell produced). The magus devises the spell as normal, subtracting spell level and accumulating points to reach the spell level when the spell is complete. However, name hiding is subtracted from the normal points per season:
 
-#### Spell Points Accumulated = (Lab Total – Spell Level – Name Hiding)
+**Spell Points Accumulated = (Lab Total – Spell Level – Name Hiding)**
 
 The value of name hiding varies, but if a spirit hides its name, the name hiding is usually around (Might/2) points.
 
 **Typical Name Hiding = (Might / 2)**
 
-#### The Mysteries Revised Edition
-
 Curiously, some beings have a negative name hiding. Middle- and low-rank demons are rumored to make their names especially easy to discover, as commanding them into unspeakable acts is exactly what they desire.
 
-Each season, the magus accumulates the adjusted points total. When he believes he has enough points to have
-
-
-completed the spell, he may try it. Or he may continue to accumulate points until he feels more confident that the spell will work — little annoys a summoned being more than a failed attempt at inflicting synthemata on it (only inflicting real synthemata, but then they have no power over the caster). Note that a magus will know when he *ought* to have completed the spell with no hiding.
+Each season, the magus accumulates the adjusted points total. When he believes he has enough points to have completed the spell, he may try it. Or he may continue to accumulate points until he feels more confident that the spell will work — little annoys a summoned being more than a failed attempt at inflicting synthemata on it (only inflicting real synthemata, but then they have no power over the caster). Note that a magus will know when he *ought* to have completed the spell with no hiding.
 
 The completed spell, when it works, boosts the magus's Penetration against the named target being by the spell's base level. This ensures that even Spontaneous Magic spells should penetrate the being's Magic Resistance. If the magus casts synthemata in the presence of the being, it effectively inflicts a 0-level full-Penetration effect on the being which, as it penetrates, informs them that his has its synthemata.
 
 #### Grimoires
 
-Clearly the spell design process is long and uncertain, For this reason, magi place great value upon grimoires
-
-(Lab Texts for synthemata spells).
+Clearly the spell design process is long and uncertain, For this reason, magi place great value upon grimoires (Lab Texts for synthemata spells).
 
 #### Revealing Synthemata
 
@@ -3649,9 +3427,7 @@ Scores add up to no more than its own Might, and no individual higher than its o
 
 ## Synthemata Magia — Major Supernatural Mystery Ability
 
-This is a non-Hermetic method, the predecessor of Hermetic Synthemata research, but still of considerable value to Hermetic magi. The Hermetic method
-
-
+This is a non-Hermetic method, the predecessor of Hermetic Synthemata research, but still of considerable value to Hermetic magi. The Hermetic method is slow, but very powerful, while the nonHermetic method is much weaker, but might let a magus intuit synthemata at a glance.
 
 The Virtue uses the (Realm) Lore Abilities.
 
@@ -3659,27 +3435,23 @@ The Virtue uses the (Realm) Lore Abilities.
 
 If the magus is in the presence of a being or spirit with a Might Score, then even a brief interaction with the being may let him intuit the synthemata. If the being lacks a Might Score, then the magus cannot use this talent against it. He intuits synthemata if he succeeds at a roll of Perception + (Realm) Lore against an Ease Factor of the being's Might + name hiding. For intuit synthemata, both the magus's roll and the Ease Factor are adjusted according to the local aura:
 
-#### Stress Die + Perception + (Realm) Lore + Magus's Aura Modifier vs. Might + Spirit's Aura Modifier + Name Hiding
+**Stress Die + Perception + (Realm) Lore + Magus's Aura Modifier vs. Might + Spirit's Aura Modifier + Name Hiding**
 
 If the magus fails this roll, he cannot intuit the spirit's synthemata. He may not try again until his abilities improve — that is, his (Per + (Realm) Lore + any Virtue bonuses) increases to a higher score.
 
-If you botch the roll, the spirit is immediately made aware of his attempt, and is likely to be hostile. If you roll more than one zero in the botch roll, the magus inadvertently creates a temporary channel
-
-#### The Mysteries Revised Edition
-
-to the spirit that it may use to bypass the magus's Magic Resistance.
+If you botch the roll, the spirit is immediately made aware of his attempt, and is likely to be hostile. If you roll more than one zero in the botch roll, the magus inadvertently creates a temporary channel to the spirit that it may use to bypass the magus's Magic Resistance.
 
 If the magus succeeds, he has deduced a magical synthemata. He cannot teach this intuited synthemata — it is a unique link between him, his magic, and the being whose synthemata it is.
 
 Learning the synthemata grants the magus (and only the magus) access to a Muto Vim guideline to boost Casting Score against the named being:
 
-#### Muto Vim
+**Muto Vim**
 
 **General:** Add spell level to the caster's Casting Score for spells cast while this spell lasts. Momentary duration is sufficient to affect spells cast in the next round.
 
 The magus may cast synthemata as a spontaneous spell, or invent a Formulaic spell. Unlike Hermetic Synthemata, there are no special laboratory requirements: there is no minimum level, Magic Theory is used (not Realm Lore), and name hiding is ignored (as he already knows the name). Lab Texts for such a spell are no use to others — they embody the unique, personal link that the magus gained above.
 
-#### The Hedge Lord's Synthemata of (X)
+##### The Hedge Lord's Synthemata of (X)
 
 MuVi Gen
 
@@ -3695,16 +3467,13 @@ A magus may also try to research the synthemata of a being he has previously enc
 
 By fasting and invocation, over the course of an entire season, the magus attempt to research the synthemata. He learns the synthemata on a success in a roll of Perception + (Realm) Lore + aura modifier against an Ease Factor of the being's Might + name hiding (no aura modifier):
 
-#### Stress Die + Perception + (Realm) Lore + Aura Modifier + Bonuses vs. Might + Name Hiding
+**Stress Die + Perception + (Realm) Lore + Aura Modifier + Bonuses vs. Might + Name Hiding**
 
 If the magus has a sympathetic or Arcane Connection to the being, he may use this in a similar manner to those with Hermetic synthemata: calculate the "multiplier" as in ArM5, page 84, and add the score as a bonus to the synthemata research roll.
 
 Failing this roll does not prevent future attempts. Botching the roll may still attract the attention of the being, but hopefully the covenant's *Aegis of the Hearth* can ward out the offended spirit.
 
-
-## Chapter Ten
-
-# The Great Talisman
+# Chapter 10: The Great Talisman
 
 Many cults teach magi how to improve their talismans. This lore is not tied to any specific Mystery School. A talisman is an intensely personal item, and the Knights of the Holy Stone (see Chapter 14) often choose a heraldically charged shield as their personal talismans. Other traditions may also have a uniform style of talisman.
 
@@ -3721,18 +3490,15 @@ An occult property of an item is one that cannot be explained by the *complexio,
 
 A magus with a great talisman attunes the Shape and Material Bonuses of his talisman more easily than others, and may add additional components to an existing talisman.
 
-A magus with a great talisman is much closer to his talisman than other magi; so close that merely by using his talisman in regular magical life he may open
+A magus with a great talisman is much closer to his talisman than other magi; so close that merely by using his talisman in regular magical life he may open an attunement bonus over the course of a season, as if working on his talisman — even when he does no work on the talisman in the laboratory, or works on other tasks. He can still only open one attunement per season, even if he reopens or invests an effect in his talisman.
 
-## Standard Talisman
-
-When a maga first creates her talisman, she must take an item prepared for enchantment (ArM5, page 97) by herself, and then attune it as her talisman. Once attuned she can increase the enchantment spaces, and each time she reopens it for enchantment or instills an effect she can also open the talisman to one magical attunement based on the Shape and Material Bonuses available in the item (ArM5, page 98).
-
-Although a maga may attune an item with instilled effects (instilled by herself), she cannot add components to an existing device, even a talisman. To allow the most talisman attunements, she should create and open a compound item with as many components as her Magic Theory score permits. A compound item can be prepared either with the sum of the pawns of vis for each component, or with the vis required by the highest single component. Magi have a seasonal laboratory limit of handling pawns of vis equal to twice their Magic Theory score, so most will open their talisman with the "single highest component" option.
-
-Example: Dolorosa wishes to make a talisman in the form of a staff. She has a Magic Theory of 6, so she can use 12 pawns of vis and open a staff with five additional components. She chooses a wooden staff shod in iron, with a quartz crystal bound on top, set with an amethyst and an agate, and with a golden coin depicting a crown. The stones each require 12 pawns of vis, the coin 10, staff 8, and the iron shoe 5; the highest single component cost is the cost of one of the semi-precious stones, or 12 pawns, which Dolorosa can just manage. Her talisman has 11 Material Bonuses and 10 Shape Bonuses that she can attune in later seasons.
-
-
-an attunement bonus over the course of a season, as if working on his talisman — even when he does no work on the talisman in the laboratory, or works on other tasks. He can still only open one attunement per season, even if he reopens or invests an effect in his talisman.
+> ## Standard Talisman
+> 
+> When a maga first creates her talisman, she must take an item prepared for enchantment (ArM5, page 97) by herself, and then attune it as her talisman. Once attuned she can increase the enchantment spaces, and each time she reopens it for enchantment or instills an effect she can also open the talisman to one magical attunement based on the Shape and Material Bonuses available in the item (ArM5, page 98).
+> 
+> Although a maga may attune an item with instilled effects (instilled by herself), she cannot add components to an existing device, even a talisman. To allow the most talisman attunements, she should create and open a compound item with as many components as her Magic Theory score permits. A compound item can be prepared either with the sum of the pawns of vis for each component, or with the vis required by the highest single component. Magi have a seasonal laboratory limit of handling pawns of vis equal to twice their Magic Theory score, so most will open their talisman with the "single highest component" option.
+> 
+> Example: Dolorosa wishes to make a talisman in the form of a staff. She has a Magic Theory of 6, so she can use 12 pawns of vis and open a staff with five additional components. She chooses a wooden staff shod in iron, with a quartz crystal bound on top, set with an amethyst and an agate, and with a golden coin depicting a crown. The stones each require 12 pawns of vis, the coin 10, staff 8, and the iron shoe 5; the highest single component cost is the cost of one of the semi-precious stones, or 12 pawns, which Dolorosa can just manage. Her talisman has 11 Material Bonuses and 10 Shape Bonuses that she can attune in later seasons.
 
 When a magus reopens his great talisman to increase enchantment spaces, he may also craft in one or more new components, although the total number of components is still limited by his Magic Theory score. The method of working new components into a great talisman is part of the enchantment process (similar to that of Verditius magi forging items from raw materials), and no Craft roll is required. The season's opened attunement may be chosen from the Shape and Material Bonuses of the existing talisman, or from the new components.
 
@@ -3742,11 +3508,11 @@ The magus may enchant Muto Vim effects, with Personal Range, into his talisman, 
 
 In addition, he may enchant Names of Power (see Chapter 9) into his talisman, and have the device invoke these for him as he casts spells, even Spontaneous spells. When he invokes Names of Power, he is still limited to a maximum bonus of his Magic Theory, but need not spend extra time to invoke the names. He does still need to speak the Names aloud, firmly, as a required trigger for the Name of Power effect, but this can be incorporated into spellcasting, although it does not permit silent or quiet casting. The magic of the device carries the spoken word to the attention of the powers.
 
-## Inscription on the Soul and Talisman Virtues
-
-A magus with Inscription on the Soul (see Chapter 8: Spirit Magic, Inscription on the Soul) and Great Talisman can open magical attunements in his body or spirit while performing other activities. However, to incorporate components into his body he must use the methods of Blending With Substance even with Great Talisman.
-
-A magus may use Inscription on the Soul (instead of Great Talisman) as a prerequisite to Initiate the Virtue Consummate Talisman.
+> ## Inscription on the Soul and Talisman Virtues
+> 
+> A magus with Inscription on the Soul (see Chapter 8: Spirit Magic, Inscription on the Soul) and Great Talisman can open magical attunements in his body or spirit while performing other activities. However, to incorporate components into his body he must use the methods of Blending With Substance even with Great Talisman.
+> 
+> A magus may use Inscription on the Soul (instead of Great Talisman) as a prerequisite to Initiate the Virtue Consummate Talisman.
 
 This is one of very few ways to bypass the limitation that Muto Vim effects in a device may only affect other effects in the same device: the consummate talisman may affect the magus's spellcasting.
 
@@ -3758,10 +3524,7 @@ Gaining this new Flaw counts as a prior Ordeal for subsequent Initiations.
 
 If he already has his talisman as a Necessary Condition or Restriction, then he may still count that as an Ordeal for this Initiation, and need no further Flaw. If he already has these Flaws, he gains the Initiation Script bonus for an Ordeal, but it will not become a prior Ordeal for subsequent Initiations.
 
-
-## Chapter Eleven
-
-# Arithmetic Magic
+# Chapter 11: Arithmetic Magic
 
 From the time of Pythagoras onward, the magic of numbers has fascinated men. In this chapter are uncovered the secrets of Hermetic Arithmetic, the magical application by Hermetic scholars of the principles of Euclid that comprise Hermetic Geometry, and the potent marvels of Hermetic Architecture, that allow great magical structures to be erected. In the 13th century, there is a fascination with magic number squares, and the influence of Jewish numerological systems like gematria led to a number of gentile variants. However, the outstanding breakthroughs in this area in this century were not Hermetic, but rather in the work of architects who, using only simple, non-magical tools, created the great gothic cathedrals, masterpieces of the Dominion.
 
@@ -3795,26 +3558,31 @@ As detailed below, the magus may create either a lesser Numerologist's Book with
 
 Consulting the Numerologist's Book provides a bonus to Numerological activities:
 
-- If the magus performs Divination (Numerology) (see Chapter 7: Divination and Augury), and consulted as part of the Ceremonial Divination, the magus adds the book bonus as a ceremonial bonus. •
-- If the book is consulted while working in the Laboratory, the book bonus can be added to Lab Totals for Numerology, including Rotes, and to Lab Totals for Hermetic Geometry and Hermetic Architecture. •
-- If the book is consulted before invoking a Rote (taking an extra round to look in the book), the book bonus is added to the Rote Casting Score. •
+- If the magus performs Divination (Numerology) (see Chapter 7: Divination and Augury), and consulted as part of the Ceremonial Divination, the magus adds the book bonus as a ceremonial bonus.
+- If the book is consulted while working in the Laboratory, the book bonus can be added to Lab Totals for Numerology, including Rotes, and to Lab Totals for Hermetic Geometry and Hermetic Architecture.
+- If the book is consulted before invoking a Rote (taking an extra round to look in the book), the book bonus is added to the Rote Casting Score.
 
-The bonus is based on the numerological principle of insight in numbers — that opening the book, seemingly at random, and inspecting the relationships between words on the open pages provides a connection to numbers (and objects) in the environment. The magical attunement of the Numerologist's Book helps the magus to quickly open the book
+The bonus is based on the numerological principle of insight in numbers — that opening the book, seemingly at random, and inspecting the relationships between words on the open pages provides a connection to numbers (and objects) in the environment. The magical attunement of the Numerologist's Book helps the magus to quickly open the book to significant pages, almost as if the book opens itself for him.
 
+Many Numerologists also attune the book as their talisman. (As a talisman, the book can be reopened for enchantment, which allows the magus to improve a Lesser Book to a Greater Book.)
 
-## Magical Books
+Consulting the book advises and assists the magus, provided that the Numerologist consults its pages for insight throughout the activity (Rote-casting or laboratory work). Consulting the book when casting Rotes takes an extra round of casting time to select and examine pages of the book, and the magus must carry the book with him. The magus may create more than one enchanted book, but only benefits from one consulting book at a time.
 
-A normal medieval book has wooden boards making up the covers (in turn, usually covered in leather), and parchment or vellum (leather) pages. An average medieval book is "large" sized for enchantment (about the size of a shield). To open just the parchment or just the wooden covers takes 8 pawns of vis (and requires a Magic Theory of 4). It is also possible to open the whole book as a compound device, including both the wooden boards of the cover and the parchment pages, requiring 16 pawns of vis (and a Magic Theory of 8).
+The Numerologist's Book may also be invested with normal enchanted effects. In this case the Shape and Material Bonuses for enchantment apply separately from the Numerological bonuses, and can be combined if appropriate.
 
-Both methods of opening provide the "book" Shape Bonus; opening the parchment provides a Material Bonus for parchment (also leather or animal hide), while opening the cover boards provides a Material Bonus for wood. (It is also possible to include gems and metal binding, to make a particularly large compound device, if the magus can handle the vis requirements.) (See also Chapter 10: The Great Talisman, for more ways to improve a device attuned as a talisman).
+If the magus knows Hermetic Divination (Numerology), it is possible to also invest the Numerologist's Book with *Enchantment of the Scrying Device*. The Numerologist performing Ceremonial Divination then gets both a Ceremonial bonus and a Magical bonus; see Chapter 7: Divination and Augury — Ceremonial Divination).
 
-#### New Shape and Material Bonuses:
-
-**Book:** +2 Intellego, +3 Divination, +4 Numerology
-
-If investing Numerological effects into a lesser or greater Numerologist's Book, the magus may benefit from both the Shape and Material Bonus, and from the special Numerologist's book bonus.
-
-with *Enchantment of the Scrying Device*. The Numerologist performing Ceremonial Divination then gets both a Ceremonial bonus and a Magical bonus; see Chapter 7: Divination and Augury — Ceremonial Divination).
+> ## Magical Books
+> 
+> A normal medieval book has wooden boards making up the covers (in turn, usually covered in leather), and parchment or vellum (leather) pages. An average medieval book is "large" sized for enchantment (about the size of a shield). To open just the parchment or just the wooden covers takes 8 pawns of vis (and requires a Magic Theory of 4). It is also possible to open the whole book as a compound device, including both the wooden boards of the cover and the parchment pages, requiring 16 pawns of vis (and a Magic Theory of 8).
+> 
+> Both methods of opening provide the "book" Shape Bonus; opening the parchment provides a Material Bonus for parchment (also leather or animal hide), while opening the cover boards provides a Material Bonus for wood. (It is also possible to include gems and metal binding, to make a particularly large compound device, if the magus can handle the vis requirements.) (See also Chapter 10: The Great Talisman, for more ways to improve a device attuned as a talisman).
+> 
+> #### New Shape and Material Bonuses:
+> 
+> **Book:** +2 Intellego, +3 Divination, +4 Numerology
+> 
+> If investing Numerological effects into a lesser or greater Numerologist's Book, the magus may benefit from both the Shape and Material Bonus, and from the special Numerologist's book bonus.
 
 #### Rotes
 
@@ -3826,11 +3594,11 @@ As an arithmetic formula, a Rote is largely a mental exercise and benefits as th
 
 In addition to any book bonus, the maga gains a bonus to her Rote Lab Total equal to Artes Liberales (arithmetic), limited by Magic Theory.
 
-#### Rote Lab Total = Technique + Form + Intelligence + Magic Theory + Arithmetic + Book Bonus + Aura Modifier
+**Rote Lab Total = Technique + Form + Intelligence + Magic Theory + Arithmetic + Book Bonus + Aura Modifier**
 
 The design of a Rote has a level limited to the maga's Rote Lab Total/5 (round up),
 
-#### Maximum Rote Level = (Rote Lab Total) / 5
+**Maximum Rote Level = (Rote Lab Total) / 5**
 
 and may be invoked without die roll or fatigue to produce the supernatural effect specified:
 
@@ -3838,28 +3606,17 @@ and may be invoked without die roll or fatigue to produce the supernatural effec
 
 **Rote Casting Total = Casting Score / 2, rounded up.**
 
-## Creating the Numerologist's Book
-
-If a magus knows Hermetic Numerology, and opens his chosen text as an enchanted book, then he may attune it as a Numerologist's Book at the same time as opening it. The process of attunement is relatively short and simple, and adds just a seven-day distraction to the laboratory work. Only the magus who opened and attuned the book may gain the book bonus. The book bonus is limited by the magus's score in Artes Liberales (arithmetic).
-
-The lesser Numerologist's Book is created by opening the parchment pages: it takes 8 pawns to open the parchment for enchantment (and requires a Magic Theory of 4). The lesser Numerologist's Book provides a +4 book bonus.
-
-The greater Numerologist's Book is created by opening the whole book as a compound device, including the wooden boards of the cover, requiring 16 pawns of vis (and a Magic Theory of 8); see ArM5, page 97. The greater Numerologist's Book provides a doubled book bonus of +8.
-
-to significant pages, almost as if the book opens itself for him.
-
-Many Numerologists also attune the book as their talisman. (As a talisman, the book can be reopened for enchantment, which allows the magus to improve a Lesser Book to a Greater Book.)
-
-Consulting the book advises and assists the magus, provided that the Numerologist consults its pages for insight throughout the activity (Rote-casting or laboratory work). Consulting the book when casting Rotes takes an extra round of casting time to select and examine pages of the book, and the magus must carry the book with him. The magus may create more than one enchanted book, but only benefits from one consulting book at a time.
-
-The Numerologist's Book may also be invested with normal enchanted effects. In this case the Shape and Material Bonuses for enchantment apply separately from the Numerological bonuses, and can be combined if appropriate.
-
-If the magus knows Hermetic Divination (Numerology), it is possible to also invest the Numerologist's Book
-
+> ## Creating the Numerologist's Book
+> 
+> If a magus knows Hermetic Numerology, and opens his chosen text as an enchanted book, then he may attune it as a Numerologist's Book at the same time as opening it. The process of attunement is relatively short and simple, and adds just a seven-day distraction to the laboratory work. Only the magus who opened and attuned the book may gain the book bonus. The book bonus is limited by the magus's score in Artes Liberales (arithmetic).
+> 
+> The lesser Numerologist's Book is created by opening the parchment pages: it takes 8 pawns to open the parchment for enchantment (and requires a Magic Theory of 4). The lesser Numerologist's Book provides a +4 book bonus.
+> 
+> The greater Numerologist's Book is created by opening the whole book as a compound device, including the wooden boards of the cover, requiring 16 pawns of vis (and a Magic Theory of 8); see ArM5, page 97. The greater Numerologist's Book provides a doubled book bonus of +8.
 
 Penetration is calculated as for any other spell:
 
-#### Penetration Total = Casting Total – Spell Level + Penetration Bonus
+**Penetration Total = Casting Total – Spell Level + Penetration Bonus**
 
 If the Casting Total equals or exceeds the level of the Rote, then the Rote is invoked. Otherwise there is no effect.
 
@@ -3873,11 +3630,7 @@ When a maga invents a Rote, she may write a Lab Text for the Rote, but only one 
 
 *She wants to invent a new Rote to make an object red-hot (CrIg 10, Touch, Mom, Ind: CrIg 5 +1 Touch). This is 10 + 10 + 5 + (2x10) = 45 levels, which she can achieve in a single season.*
 
-*Later, prowling around a church in the dark, she desires a light, and considers casting her daylight Rote: her casting Score is Stamina +1 + Creo 14 + Ignem 12 + Arithmetic 6 + aura (***–***3 x 4) =21. Casting Score/2 =11, which is enough to make the Rote work. She pauses to consider the size and shape of the church, the number of her companions and her* 
-
-#### The Mysteries Revised Edition
-
-*and their equipment, and invokes her formula: a light glows in her hand. (If she had brought her (large, heavy) book with her, she could take an extra round to look in the book and add her book bonus to her Casting Score.)*
+*Later, prowling around a church in the dark, she desires a light, and considers casting her daylight Rote: her casting Score is Stamina +1 + Creo 14 + Ignem 12 + Arithmetic 6 + aura (***–***3 x 4) =21. Casting Score/2 =11, which is enough to make the Rote work. She pauses to consider the size and shape of the church, the number of her companions and her and their equipment, and invokes her formula: a light glows in her hand. (If she had brought her (large, heavy) book with her, she could take an extra round to look in the book and add her book bonus to her Casting Score.)*
 
 *If she were to try Spontaneous Magic instead of Rotes, her non-Fatiguing Casting Total in the church would be (Stamina +1 + Creo 14 + Ignem 12 + aura [***–***3 x 4]) / 5 = 3; her Fatiguing Spontaneous spell total would be (15 + stress die) / 2, which has an average of 11, but requires her to speak in a firm voice, fatigues her, and risks four extra botch dice. Numera is glad that she prepared her Rotes.*
 
@@ -3889,7 +3642,7 @@ Numerologists have a great interest in numbers, and like to count things. The fo
 
 Intellego spells do need to penetrate Magic Resistance, and counting spells miss out those who resist the spell. Counting magi is technically the high crime of "spying on your sodales using magic," but no-one has yet pressed the issue.
 
-#### Numbering the Flock
+##### Numbering the Flock
 
 InAn 20
 
@@ -3901,31 +3654,29 @@ The pattern of such numbers is considered to be far more significant than the de
 
 (Base 4, +4 Sight Sense)
 
-#### The Significance of the Group
+##### The Significance of the Group
 
 InCo 10
 
 R: Voice, D: Mom, T: Group
 
-The Numerologist instantly divines the number of people in a group. The
-
-## New Spell Guidelines
-
-#### Intellego (Form)
-
-**Level 2:** Count the number of individuals in the spell Target (a visible property determined just by looking at the target).
-
-**Level 3:** Count the number of individuals in the spell Target, divided into apparent categories.
-
-**Level 4:** Sort the individuals in the spell Target into categories and count them.
-
-spell allows any restriction within the parameters that define a standard Group Target; for example, "How many onelegged men are in the crowd?"
+The Numerologist instantly divines the number of people in a group. The spell allows any restriction within the parameters that define a standard Group Target; for example, "How many onelegged men are in the crowd?"
 
 Numerologists claim to be able to gain insight from such numbers.
 
 (Base 2, +2 Voice, +2 Group)
 
-#### Numbering the Host
+> ## New Spell Guidelines
+> 
+> ### Intellego (Form)
+> 
+> **Level 2:** Count the number of individuals in the spell Target (a visible property determined just by looking at the target).
+> 
+> **Level 3:** Count the number of individuals in the spell Target, divided into apparent categories.
+> 
+> **Level 4:** Sort the individuals in the spell Target into categories and count them.
+
+##### Numbering the Host
 
 InCo 15
 
@@ -3939,25 +3690,11 @@ The Numerologist knows the number of people he can see, and may distinguish them
 
 The ancients, in the form of the philosopher-wizard Euclid, recorded principles of geometry that form the fundament or base from which magi study the matter. The five postulates of particular importance are:
 
-- that a straight line may be drawn from any point to any other point (thus all points are linked), •
-- that a straight line may be produced to any length (and thus lines are unbounded links between points), •
-- that given any point as a center, a circle of any radius may be inscribed (and thus there is sympathy between points and circles), •
-
-
-## Drawing a Perfect Shape
-
-The standard Ring and Circle Targets are not particularly strict about the shape drawn: so long as it is closed and continuous, and the magus successfully traces the line while casting the spell, even rough approximations to a circle count as Circle Targets.
-
-Hermetic Geometry grants bonuses (see Ceremonial Figures) for regular shapes, and the new Target Arcane Circle and Duration Arcane Ring require a perfect circle or ring.
-
-A perfect shape is drawn without deviation or irregularity. This is very hard if attempted freehand, and easy if using tools. Drawing a perfect shape succeeds with a roll of
-
-**Die Roll + Dexterity + Profession: Scribe vs. an Ease Factor of 15 if drawn freehand,**
-
-**Die Roll + Dexterity + Profession: Scribe vs. an Ease Factor of 6 if drawn with the aid of posts and string.**
-
-- that any two right angles are equal (and being equal are connected sympathetically), •
-- that given a line and a point that is not on the line, there is exactly one line through the given point that does not intersect the first line (and thus this second line is special and connected to the first). •
+- that a straight line may be drawn from any point to any other point (thus all points are linked),
+- that a straight line may be produced to any length (and thus lines are unbounded links between points),
+- that given any point as a center, a circle of any radius may be inscribed (and thus there is sympathy between points and circles),
+- that any two right angles are equal (and being equal are connected sympathetically),
+- that given a line and a point that is not on the line, there is exactly one line through the given point that does not intersect the first line (and thus this second line is special and connected to the first).
 
 These postulates provide sympathetic magic via Geometry.
 
@@ -3965,17 +3702,28 @@ Calculations within this Mystery use Artes Liberales (geometry).
 
 Hermetic Geometry grants the following benefits.
 
+
+> ## Drawing a Perfect Shape
+> 
+> The standard Ring and Circle Targets are not particularly strict about the shape drawn: so long as it is closed and continuous, and the magus successfully traces the line while casting the spell, even rough approximations to a circle count as Circle Targets.
+> 
+> Hermetic Geometry grants bonuses (see Ceremonial Figures) for regular shapes, and the new Target Arcane Circle and Duration Arcane Ring require a perfect circle or ring.
+> 
+> A perfect shape is drawn without deviation or irregularity. This is very hard if attempted freehand, and easy if using tools. Drawing a perfect shape succeeds with a roll of
+> 
+> **Die Roll + Dexterity + Profession: Scribe vs. an Ease Factor of 15 if drawn freehand,**
+> 
+> **Die Roll + Dexterity + Profession: Scribe vs. an Ease Factor of 6 if drawn with the aid of posts and string.**
+> 
+> Drawing freehand, or drawing a circle using a prepared center post and string, takes no extra time over that required to trace the line for spellcasting. Placing and positioning extra posts for triangles, squares etc., typically takes at least two minutes. In any case only one Scribe roll is needed to check the quality of the line. If the Scribe roll fails, the magus knows and may choose to start again; if he is stressed and botch, he fails to notice the error until it is too late (and the spell may botch). If the magus has plenty of time and no distractions, this can be a simple die roll.
+> 
+> Magi are often tempted to cheat, scribing the shape magically (*Scribe the Perfect Circle*) and then simply tracing over the scribed line.
+> 
+> Spells with Circle or Ring Target require the magus to trace the shape moving no more quickly than ten paces per round, and make Intelligence + Concentration rolls of 6+ every round. Tracing the shape for spellcasting is required even if the shape is already drawn.
+
 ## Bonus for Circles, Rings, and Lines
 
-When casting any spell that involves tracing a circle or line, including standard Circle and Ring spells, and the new Line and Circle forms of Hermetic Geometry,
-
-Drawing freehand, or drawing a circle using a prepared center post and string, takes no extra time over that required to trace the line for spellcasting. Placing and positioning extra posts for triangles, squares etc., typically takes at least two minutes. In any case only one Scribe roll is needed to check the quality of the line. If the Scribe roll fails, the magus knows and may choose to start again; if he is stressed and botch, he fails to notice the error until it is too late (and the spell may botch). If the magus has plenty of time and no distractions, this can be a simple die roll.
-
-Magi are often tempted to cheat, scribing the shape magically (*Scribe the Perfect Circle*) and then simply tracing over the scribed line.
-
-Spells with Circle or Ring Target require the magus to trace the shape moving no more quickly than ten paces per round, and make Intelligence + Concentration rolls of 6+ every round. Tracing the shape for spellcasting is required even if the shape is already drawn.
-
-the magus gains a bonus of +3 to his Casting Score.
+When casting any spell that involves tracing a circle or line, including standard Circle and Ring spells, and the new Line and Circle forms of Hermetic Geometry, the magus gains a bonus of +3 to his Casting Score.
 
 #### Ceremonial Figures
 
@@ -3985,11 +3733,11 @@ No additional time is required above the 15 minutes per magnitude of spell for C
 
 For spells of higher magnitude, the magus requires additional components, one per additional magnitude. Typical components include:
 
-- candles •
-- incense •
-- powders (minerals, metals) sprinkled along the lines of the figure •
-- purified water sprinkled along the lines of the figure •
-- oils sprinkled along the lines of the figure •
+- candles
+- incense
+- powders (minerals, metals) sprinkled along the lines of the figure
+- purified water sprinkled along the lines of the figure
+- oils sprinkled along the lines of the figure
 
 The magus's player is encouraged to be inventive in preparing her list.
 
@@ -4005,8 +3753,6 @@ The advantage of Line Range is that it extends as far as Sight but does not requ
 
 To successfully target a spell at Line range, the magus must accurately calculate the location of the distant point where the spell will take effect, succeeding in an Intelligence + Artes Liberales (geometry) roll against an Ease Factor equal to the Distance Level (see insert). This is a non-magical exercise in Geometry, and requires scribing lines and circles on the ground or similar surface. This takes one whole round for each 3 points of Ease Factor or part thereof.
 
-
-
 **Ease Factor = Distance Level (minimum 9)**
 
 **Die Roll + Intelligence + Artes Liberales (Arithmetic) vs. Ease Factor**
@@ -4017,38 +3763,44 @@ If the magus can directly see the target point, then he may cast a Line spell as
 
 If the magus fails the roll but does not botch, then the target point is a distance away from the desired point by an amount equal to the Ease Factor multiplied by the shortfall, in a direction chosen by the storyguide, or by rolling a die. If the roll botches, then the spell cast botches too.
 
-*Example: Lineus knows Centrus is ten paces away, directly beyond a wall. Ten paces has a Distance Level of 1 — the Ease Factor for the calculation is therefore 9 (minimum Ease), and takes 3 rounds to calculate and scribe a design on the ground. Lineus has Intelligence 3, Artes Liberales 5, and rolls 4: he easily makes the roll. The spell* 
+*Example: Lineus knows Centrus is ten paces away, directly beyond a wall. Ten paces has a Distance Level of 1 — the Ease Factor for the calculation is therefore 9 (minimum Ease), and takes 3 rounds to calculate and scribe a design on the ground. Lineus has Intelligence 3, Artes Liberales 5, and rolls 4: he easily makes the roll. The spell is cast, and accurately targets the point indicated. Unfortunately, Lineus is not as perceptive as he is clever, and is unaware that while he was calculat-* *ing Centrus crept round the wall and is about to tap him on the shoulder while Lineus stands wondering why his spell failed.* 
 
-## Distance Level
+> ## Distance Level
+> 
+> Treat the length of the line in paces as if points to purchase a score in an Ability. Thus a distance of 200 paces has a Distance Level of 8 (between 180 and 225).
+> 
+> | Distance Level | Distance in Paces |
+> |:--------------:|:-----------------:|
+> | 1              | 5                 |
+> | 2              | 15                |
+> | 3              | 30                |
+> | 4              | 50                |
+> | 5              | 75                |
+> | 6              | 105               |
+> | 7              | 140               |
+> | 8              | 180               |
+> | 9              | 225               |
+> | 10             | 275               |
+> | 11             | 330               |
+> | 12             | 390               |
+> | 13             | 455               |
+> | 14             | 525               |
+> | 15             | 600               |
+> | 16             | 680               |
+> | 17             | 765               |
+> | 18             | 855               |
+> | 19             | 950               |
+> | 20             | 1,050             |
 
-Treat the length of the line in paces as if points to purchase a score in an Ability. Thus a distance of 200 paces has a Distance Level of 8 (between 180 and 225).
-
-| Distance<br>Level | Distance in<br>Paces | Distance<br>Level | Distance in<br>Paces |
-|-------------------|----------------------|-------------------|----------------------|
-| 1                 | 5                    | 11                | 330                  |
-| 2                 | 15                   | 12                | 390                  |
-| 3                 | 30                   | 13                | 455                  |
-| 4                 | 50                   | 14                | 525                  |
-| 5                 | 75                   | 15                | 600                  |
-| 6                 | 105                  | 16                | 680                  |
-| 7                 | 140                  | 17                | 765                  |
-| 8                 | 180                  | 18                | 855                  |
-| 9                 | 225                  | 19                | 950                  |
-| 10                | 275                  | 20                | 1,050                |
-
-*is cast, and accurately targets the point indicated. Unfortunately, Lineus is not as perceptive as he is clever, and is unaware that while he was calculat-* *ing Centrus crept round the wall and is about to tap him on the shoulder while Lineus stands wondering why his spell failed.*
-
-
-
-## New Spell Guidelines
-
-**Rego Terram (Hermetic Geometry)**
-
-**Level 2**: Reshape dirt so that it take on a more perfect shape (Creo requisite). This reshaping is no more than a team of workmen could achieve with expert guidance. The perfection refers to geometric perfection; adjusting lines to be straight, loops into perfect circles, and near-rectangles into perfect right angles.
-
-**Level 2**: Reshape dirt so that it take on an imperfect shape (Perdo requisite). Right angles bend, straight lines wobble, and circles kink. Irregular shapes are not affected.
-
-**Level 3**: Substantially reshape dirt so that it takes on a perfect shape (Creo requisite). The reshaping is what workmen could achieve with magical assistance, but the result must be able to sustain itself or the spell must maintain the perfection magically. The perfection refers to geometric perfection; adjusting lines to be straight, loops into perfect circles, and near rectangles into perfect right angles.
+> ## New Spell Guidelines
+> 
+> **Rego Terram (Hermetic Geometry)**
+> 
+> **Level 2**: Reshape dirt so that it take on a more perfect shape (Creo requisite). This reshaping is no more than a team of workmen could achieve with expert guidance. The perfection refers to geometric perfection; adjusting lines to be straight, loops into perfect circles, and near-rectangles into perfect right angles.
+> 
+> **Level 2**: Reshape dirt so that it take on an imperfect shape (Perdo requisite). Right angles bend, straight lines wobble, and circles kink. Irregular shapes are not affected.
+> 
+> **Level 3**: Substantially reshape dirt so that it takes on a perfect shape (Creo requisite). The reshaping is what workmen could achieve with magical assistance, but the result must be able to sustain itself or the spell must maintain the perfection magically. The perfection refers to geometric perfection; adjusting lines to be straight, loops into perfect circles, and near rectangles into perfect right angles.
 
 #### New Target: Arcane Circle
 
@@ -4062,15 +3814,11 @@ The spell creates a circle of magic about the target point. The magical circle m
 
 The disadvantage is that the spell is broken if either of the two circles is broken. (Anyone who can sense the magical circle can break it as if it were a real line.)
 
-The line traced must be a perfect circle (as opposed to the standard Circle Target). The magical circle is exactly the same size as the scribed circle, but locat-
-
-#### The Mysteries Revised Edition
-
-ed about the target point. Large circles require both Dexterity and Concentration rolls for each round of tracing or drawing (ArM5, page 112).
+The line traced must be a perfect circle (as opposed to the standard Circle Target). The magical circle is exactly the same size as the scribed circle, but located about the target point. Large circles require both Dexterity and Concentration rolls for each round of tracing or drawing (ArM5, page 112).
 
 The location of the center point of the Arcane Circle is calculated just like a Line Range — indeed, if the Range is Line or Duration Arcane Ring, only one calculation is needed.
 
-#### New Duration: Arcane Ring
+**New Duration: Arcane Ring**
 
 Equivalent to Moon.
 
@@ -4092,7 +3840,7 @@ The location of the center point of the Arcane Ring is calculated just like a Li
 
 Geometers have some favored spells, and some new spell guidelines to draw upon.
 
-**Scribe the Perfect Circle**
+##### Scribe the Perfect Circle
 
 Re(Cr)Te 4
 
@@ -4103,7 +3851,7 @@ A magus wishing to scribe a perfect circle for a circle spell may trace the circ
 
 (Base: 2, +1 stone, +1 Touch)
 
-#### Perfection of the Well-Designed Chamber
+##### Perfection of the Well-Designed Chamber
 
 Re(Cr)Te(He) 20
 
@@ -4119,24 +3867,9 @@ The Structure Target is needed to effect small adjustments to neighboring parts 
 
 (Base 2, +1 stone, +1 Touch, +3 Structure, +1 Herbam req.)
 
-**The Perfected Structure**
+##### The Perfected Structure
 
 Re(Cr)Te(He) 20
-
-
-|                | Extended Material and Size Table                                     |                    |              |                    |                       |
-|----------------|----------------------------------------------------------------------|--------------------|--------------|--------------------|-----------------------|
-| Size           | Description                                                          | Size<br>Multiplier | Wood<br>(x2) | Soft Stone<br>(x3) | Hard<br>Stone<br>(x4) |
-| tiny           |                                                                      | 1                  | —            | —                  | —                     |
-| small          |                                                                      | 2                  | —            | —                  | —                     |
-| medium         |                                                                      | 3                  | —            | —                  | —                     |
-| large          |                                                                      | 4                  | —            | —                  | —                     |
-| huge           | small room (3 paces by 3 paces) = Ind x 10                           | 5                  | 10           | 15                 | 20                    |
-| huge x 10      | Room = Ind x 100                                                     | 6                  | 12           | 18                 | 24                    |
-| huge x 100     | Structure = huge room (30 paces by 30<br>paces) = Ind x 1,000        | 7                  | 14           | 21                 | 28                    |
-| huge x 1,000   | Boundary = Structure x 10 = immense<br>room (100 paces by 100 paces) | 8                  | 16           | 24                 | 32                    |
-| huge x 10,000  | Boundary x 10 =Structure x 100                                       | 9                  | 18           | 27                 | 36                    |
-| huge x 100,000 | Boundary x 100 =Structure x 1,000                                    | 10                 | 20           | 30                 | 40                    |
 
 R: Touch, D: Mom, T: Structure
 
@@ -4151,6 +3884,22 @@ If there is doubt about the limits of perfection, a Perception + Artes Liberales
 The Mystery of Hermetic Architecture teaches how to enchant this effect into a building so that the enchantment sustains the perfection indefinitely.
 
 (Base 2, +1 stone, +1 Touch, +3 Structure, +1 Herbam req.)
+
+
+## Extended Material and Size Table
+
+| Size           | Description                                           | Size Multiplier | Wood (x2) | Soft Stone (x3) | Hard Stone (x4) |
+|----------------|-------------------------------------------------------|:---------------:|:---------:|:---------------:|:---------------:|
+| tiny           |                                                       | 1               | —         | —               | —               |
+| small          |                                                       | 2               | —         | —               | —               |
+| medium         |                                                       | 3               | —         | —               | —               |
+| large          |                                                       | 4               | —         | —               | —               |
+| huge           | small room (3 paces by 3 paces) = Ind x 10            | 5               | 10        | 15              | 20              |
+| huge x 10      | Room = Ind x 100                                      | 6               | 12        | 18              | 24              |
+| huge x 100     | Structure = huge room (30 paces by 30 paces) = Ind x 1,000 | 7         | 14        | 21              | 28              |
+| huge x 1,000   | Boundary = Structure x 10 = immense room (100 paces by 100 paces) | 8 | 16        | 24              | 32              |
+| huge x 10,000  | Boundary x 10 = Structure x 100                       | 9               | 18        | 27              | 36              |
+| huge x 100,000 | Boundary x 100 = Structure x 1,000                    | 10              | 20        | 30              | 40              |
 
 ## Hermetic Architecture — Minor Mystery Virtue
 
@@ -4168,22 +3917,19 @@ Multiply Material cost times the Size multiplier of the structure to be enchante
 
 #### Compound Component Devices
 
-Next the magus identifies some other substance, in a convenient size, that has
-
-
-## Seasonal Vis Limits and Very Large Structures
-
-Since a magus is limited to twice Magic Theory pawns of vis in a single season in the laboratory, the largest structures may seem too large to open.
-
-However, the magus intending to apply Hermetic Architecture himself need not open the component devices for enchantment — he can attempt to persuade another magus to do so. The Mysteries of Verditius reduce the vis requirement by the magus's Craft Score; Celestial Magic also reduces vis requirement (by the Laboratory Horoscope score); and Philosophic Alchemy may be used to pre-fill an object with opened spaces, again reducing the spaces a magus need open.
-
-A team involving an alchemist with Philosophic Alchemy preparing objects with opened enchantment spaces, handing over to a Verditius maga with Celestial Magic to open the device, and then to a magus with Hermetic Architecture, could together enchant some of the largest structures known.
-
-a Material times Size multiplier equal to that calculated for the desired structure. (If a single component does not provide a perfect match, a compound device can be invested instead: see ArM5, page 97.)
+Next the magus identifies some other substance, in a convenient size, that has a Material times Size multiplier equal to that calculated for the desired structure. (If a single component does not provide a perfect match, a compound device can be invested instead: see ArM5, page 97.)
 
 Finally, the magus requires a number of identical items equal to the structure's Size multiplier, which will be placed into the structure in a particular pattern calculated to invoke resonances in the structure and so link the devices. Typically these are placed at the imagined points of an inscribed geometric shape, but some allowances must be made for the actual shape of the structure. This requires a Geometry roll:
 
-#### Intelligence + Artes Liberales (Geometry) vs. an Ease Factor of 6 + Size Multiplier
+**Intelligence + Artes Liberales (Geometry) vs. an Ease Factor of 6 + Size Multiplier**
+
+> ## Seasonal Vis Limits and Very Large Structures
+> 
+> Since a magus is limited to twice Magic Theory pawns of vis in a single season in the laboratory, the largest structures may seem too large to open.
+> 
+> However, the magus intending to apply Hermetic Architecture himself need not open the component devices for enchantment — he can attempt to persuade another magus to do so. The Mysteries of Verditius reduce the vis requirement by the magus's Craft Score; Celestial Magic also reduces vis requirement (by the Laboratory Horoscope score); and Philosophic Alchemy may be used to pre-fill an object with opened spaces, again reducing the spaces a magus need open.
+> 
+> A team involving an alchemist with Philosophic Alchemy preparing objects with opened enchantment spaces, handing over to a Verditius maga with Celestial Magic to open the device, and then to a magus with Hermetic Architecture, could together enchant some of the largest structures known.
 
 Failing the roll means the magus needs to recompute the locations for the devices and ensure the structure is modified to accommodate them. This takes between one day (reposition posts in a field) and one month (carve niches in a building and fill in the previous ones). The magus can usually employ masons or laborers to perform the craft work. If the Geometry roll botches, then the error is not noticed until too late, and some disaster befalls.
 
@@ -4195,17 +3941,15 @@ In some cases — for example, a portal that transports people — several of th
 
 The component devices are each opened and invested with the effects desired for the overall structure they are to enchant, using the normal rules for laboratory enchantment, with the following exceptions:
 
-- The magus may use Material Bonuses from the component materials, and Shape Bonuses from both the shape of the component devices and the intended architectural structure (even though this is not present during the enchantment). •
-- Effects may be invested assuming their target is either the architectural structure as a whole, or the component devices (but this requires a Group target), or both. This includes Personal Range effects that target the device itself (they can target the combined group of devices as "self," or the structure). Each effect must specify which target is intended. •
-- The magus may ignore the limit that Boundary Targets require ritual spells and cannot be invested in devices, providing that the Boundary affected •
-
-is the actual structure being enchanted by the components. The range of such effects may be Personal (affects the structure itself) or Touch (affecting those within the Boundary).
+- The magus may use Material Bonuses from the component materials, and Shape Bonuses from both the shape of the component devices and the intended architectural structure (even though this is not present during the enchantment).
+- Effects may be invested assuming their target is either the architectural structure as a whole, or the component devices (but this requires a Group target), or both. This includes Personal Range effects that target the device itself (they can target the combined group of devices as "self," or the structure). Each effect must specify which target is intended.
+- The magus may ignore the limit that Boundary Targets require ritual spells and cannot be invested in devices, providing that the Boundary affected is the actual structure being enchanted by the components. The range of such effects may be Personal (affects the structure itself) or Touch (affecting those within the Boundary).
 
 #### Completing and Binding the Enchantment
 
 To link the finished component devices together, the magus places them in the locations he has devised, and casts a Mystery ritual. (This is formulated as a spell for calculations and vis consumption, but is actually a rite of the Mystery, to finalize enchanted items prepared according to the Mystery):
 
-#### Bind the Mystical Structure
+##### Bind the Mystical Structure
 
 ReVi Gen
 
@@ -4223,50 +3967,47 @@ The base effect provides for a Group Target — the minimum that can include mul
 
 Each component device must have a special place, such as a niche, made for it.
 
-
-## Sample Enchanted Structures
-
-**The Perfected Tower**
-
-Re(Cr)Te(He) 34
-
-Pen +0, constant effect
-
-R: Touch, D: always on, T: Structure, Mystery enchantment
-
-This enchantment effect combines the Mystery of Hermetic Geometry applied to perfect the regularity of a stone tower (or other building), with Hermetic Architecture so that the structure can be enchanted without fitting into the magus's laboratory.
-
-A basic structure has a Size of 7, so seven component devices are needed, with 28 spaces in each (Size 7 x 4 for hard stone). The magus fashions seven small wooden yokes (Size 2 x 2 for wood) and seven silver staves (Size 4 x 6 for silver), attaches the yokes to the staves and opens them for enchantment.
-
-The investment process benefits from shape bonuses of: yoke +5 enhance strength of wearer (in this case: the tower), staff +4 control things at a distance, and room +6 affect everything within at once. Although the staves are not rooms, they are part of a Hermetic Architecture project to enchant a structure, so the shape of the final project is allowed too. The Shape Bonuses amount to +15, limited by the magus's Magic Theory (which must be at least 14 to open the devices for investment with 28 pawns of vis).
-
-When the devices are finished, their correct placement is determined by a roll of Intelligence + Geometry against an Ease Factor of 13 (6 + Size 7), and the enchantment sealed by casting a *Bind the Mystical Structure* ritual of at least level 44 (base level 34 + 5, +1 magnitude for size increased from Group to Structure).
-
-The perfection of the tower is maintained continuously, and the natural decay and imperfections of wood and stone are prevented. The tower counts as a perfected entity for Hermetic Geometry, gains extra strength, and is more pleasant to live and work in.
-
-#### Trajan's Arena
-
-CrMe 25
-
-Pen +0, unlimited uses, device maintains concentration
-
-R: Touch, D: Conc, T: Ind, Mystery enchantment
-
-Trajan of Tytalus wishes, for his amusement, to construct an arena that makes any combatants within it fight in a berserk rage:
-
-(Base 4, +1 Touch, +1 Conc, +5 levels maintain concentration, +10 levels unlimited uses)
-
-The arena effect is triggered (once per round) on anyone who starts to fight, and continues on each while they continue to fight. If someone manages to stop fighting, the effect ends for him.
-
-An arena is roughly a standard Boundary, 100 paces across. This is enchantment Size 8, and soft earth (x2), so has 16 spaces. The whole can be enchanted by preparing eight stone pillars.
-
-When the eight pillars are ready, placing the components correctly with the proper carved symbols and such requires a roll of Intelligence + Geometry vs. an Ease Factor of 14 (6 + Size 8). The stone pillars can then be bound together with a *Bind the Mystical Structure* Ritual of at least level 40 (base spell level 25 + 5, +2 magnitudes for increased size from Group to Boundary).
-
-The binding ritual permits the devices to be safely removed from the places provided for them, although the architectural effect ceases while any are missing. So long as the devices and their holding places are all intact, they may be returned to their places, reactivating the architec-
-
-tural effect.
+The binding ritual permits the devices to be safely removed from the places provided for them, although the architectural effect ceases while any are missing. So long as the devices and their holding places are all intact, they may be returned to their places, reactivating the architectural effect.
 
 If the *Bind the Mystical Structure* ritual is designed with a Muto requisite, then the binding places briefly soften and meld with the enchanting devices, so that they form a united whole and cannot later be separated without breakage. For this to be work, the invested effects must not rely on any Shape Bonuses in the component devices.
+
+> ## Sample Enchanted Structures
+> 
+> **The Perfected Tower**
+> 
+> Re(Cr)Te(He) 34
+> 
+> Pen +0, constant effect
+> 
+> R: Touch, D: always on, T: Structure, Mystery enchantment
+> 
+> This enchantment effect combines the Mystery of Hermetic Geometry applied to perfect the regularity of a stone tower (or other building), with Hermetic Architecture so that the structure can be enchanted without fitting into the magus's laboratory.
+> 
+> A basic structure has a Size of 7, so seven component devices are needed, with 28 spaces in each (Size 7 x 4 for hard stone). The magus fashions seven small wooden yokes (Size 2 x 2 for wood) and seven silver staves (Size 4 x 6 for silver), attaches the yokes to the staves and opens them for enchantment.
+> 
+> The investment process benefits from shape bonuses of: yoke +5 enhance strength of wearer (in this case: the tower), staff +4 control things at a distance, and room +6 affect everything within at once. Although the staves are not rooms, they are part of a Hermetic Architecture project to enchant a structure, so the shape of the final project is allowed too. The Shape Bonuses amount to +15, limited by the magus's Magic Theory (which must be at least 14 to open the devices for investment with 28 pawns of vis).
+> 
+> When the devices are finished, their correct placement is determined by a roll of Intelligence + Geometry against an Ease Factor of 13 (6 + Size 7), and the enchantment sealed by casting a *Bind the Mystical Structure* ritual of at least level 44 (base level 34 + 5, +1 magnitude for size increased from Group to Structure).
+> 
+> The perfection of the tower is maintained continuously, and the natural decay and imperfections of wood and stone are prevented. The tower counts as a perfected entity for Hermetic Geometry, gains extra strength, and is more pleasant to live and work in.
+> 
+> ### Trajan's Arena
+> 
+> CrMe 25
+> 
+> Pen +0, unlimited uses, device maintains concentration
+> 
+> R: Touch, D: Conc, T: Ind, Mystery enchantment
+> 
+> Trajan of Tytalus wishes, for his amusement, to construct an arena that makes any combatants within it fight in a berserk rage:
+> 
+> (Base 4, +1 Touch, +1 Conc, +5 levels maintain concentration, +10 levels unlimited uses)
+> 
+> The arena effect is triggered (once per round) on anyone who starts to fight, and continues on each while they continue to fight. If someone manages to stop fighting, the effect ends for him.
+> 
+> An arena is roughly a standard Boundary, 100 paces across. This is enchantment Size 8, and soft earth (x2), so has 16 spaces. The whole can be enchanted by preparing eight stone pillars.
+> 
+> When the eight pillars are ready, placing the components correctly with the proper carved symbols and such requires a roll of Intelligence + Geometry vs. an Ease Factor of 14 (6 + Size 8). The stone pillars can then be bound together with a *Bind the Mystical Structure* Ritual of at least level 40 (base spell level 25 + 5, +2 magnitudes for increased size from Group to Boundary).
 
 #### Investigating the Structure
 
@@ -4280,7 +4021,7 @@ One of the greatest properties of *Hermetic Architecture* is the ability to mani
 
 #### Enchantments to Manipulate Auras and Regiones
 
-**Increase of the Room's Modest Aura**
+##### Increase of the Room's Modest Aura
 
 CrVi 84
 
@@ -4292,46 +4033,43 @@ Increases the Magical aura in a room by +1, to a maximum aura level of 5.
 
 (Base 55, +1 Touch, +2 Room, +14 levels always on)
 
-A standard Room is Size 6, and a tower
-
-
-## New Aura Magic Guidelines
-
-The following guidelines can only be used in structural enchantments (not spells) of the Mystery Hermetic Architecture.
-
-#### Creo Vim
-
-**Level 35:** Increase the level of a Magical aura by +1 to a maximum of 1 **Level 40:** Increase the level of a Magical aura by +1 to a maximum of 2 **Level 45:** Increase the level of a Magical aura by +1 to a maximum of 3
-
-**Level 50:** Increase the level of a Magical aura by +1 to a maximum of 4
-
-**Level 55:** Increase the level of a Magical aura by +1 to a maximum of 5
-
-**Level 60:** Increase the level of a Magical aura by +1 to a maximum of 6
-
-**Level 65:** Increase the level of a Magical aura by +1 to a maximum of 7
-
-**Level 70:** Increase the level of a Magical aura by +1 to a maximum of 8
-
-**Level 75:** Increase the level of a Magical aura by +1 to a maximum of 9 — greatest increase possible
-
-#### Muto Vim
-
-**Level 4:** Double or halve the linear size of a Magical aura. (That is, double or halve the diameter of a circular
-
-is made of hard stone (x4), requiring 24 pawns of vis. To enchant the magus's own laboratory is straightforward — he can enchant it in-place and need only enchant the room itself, once. (Although this does not require the structural aspects of Hermetic Architecture, aura manipulation enchantments still require the Virtue.)
+A standard Room is Size 6, and a tower is made of hard stone (x4), requiring 24 pawns of vis. To enchant the magus's own laboratory is straightforward — he can enchant it in-place and need only enchant the room itself, once. (Although this does not require the structural aspects of Hermetic Architecture, aura manipulation enchantments still require the Virtue.)
 
 To enchant a room other than the magus's laboratory requires the structural aspects of Hermetic Architecture, preparing six devices each with 24 enchantment spaces, such as staff-sized silver wands (6x4). When the six staves are ready, placing the six components correctly with the proper carved symbols and such, requires an Intelligence +Artes Liberales (geometry) roll with an Ease Factor of (6 + Size 6) = 12. Finalizing the enchantment of the placed staves requires a *Bind the Mystical Structure* ritual of level 89, Arcane, Momentary, Room. (base level 84+5).
 
-aura. Areas may be changed by a factor of four, volumes by a factor of eight.) To increase beyond double adds 1 magnitude per additional doubling, and requires a Creo requisite. To decrease beyond half, adds 1 magnitude per additional halving, and requires a Perdo requisite. If the regio shrinks below one pace across, it may "pinch off" — this can be used to close a regio by shrinking just the "interface" between levels (+1 magnitude to restrict shrinking).
+> ## New Aura Magic Guidelines
+> 
+> The following guidelines can only be used in structural enchantments (not spells) of the Mystery Hermetic Architecture.
+> 
+> #### Creo Vim
+> 
+> **Level 35:** Increase the level of a Magical aura by +1 to a maximum of 1 **Level 40:** Increase the level of a Magical aura by +1 to a maximum of 2 **Level 45:** Increase the level of a Magical aura by +1 to a maximum of 3
+> 
+> **Level 50:** Increase the level of a Magical aura by +1 to a maximum of 4
+> 
+> **Level 55:** Increase the level of a Magical aura by +1 to a maximum of 5
+> 
+> **Level 60:** Increase the level of a Magical aura by +1 to a maximum of 6
+> 
+> **Level 65:** Increase the level of a Magical aura by +1 to a maximum of 7
+> 
+> **Level 70:** Increase the level of a Magical aura by +1 to a maximum of 8
+> 
+> **Level 75:** Increase the level of a Magical aura by +1 to a maximum of 9 — greatest increase possible
+> 
+> #### Muto Vim
+> 
+> **Level 4:** Double or halve the linear size of a Magical aura. (That is, double or halve the diameter of a circular aura. Areas may be changed by a factor of four, volumes by a factor of eight.) To increase beyond double adds 1 magnitude per additional doubling, and requires a Creo requisite. To decrease beyond half, adds 1 magnitude per additional halving, and requires a Perdo requisite. If the regio shrinks below one pace across, it may "pinch off" — this can be used to close a regio by shrinking just the "interface" between levels (+1 magnitude to restrict shrinking).
+> 
+> **Level 4:** Double or halve the size of a Magical regio (Terram requisite). To increase beyond double adds 1 magnitude per additional doubling, and requires a Creo requisite. To decrease beyond half, adds 1 magnitude per additional halving, and requires a Perdo requisite.
+> 
+> #### Rego Vim
+> 
+> **Level 15:** Create a connection between two levels of a single Magical regio. (Muto requisite). To connect between regio levels usually requires Arcane Range and an Arcane Connection for each regio level.
 
-**Level 4:** Double or halve the size of a Magical regio (Terram requisite). To increase beyond double adds 1 magnitude per additional doubling, and requires a Creo requisite. To decrease beyond half, adds 1 magnitude per additional halving, and requires a Perdo requisite.
+##### Bountiful Boundary's Splendid Aura
 
-#### Rego Vim
-
-**Level 15:** Create a connection between two levels of a single Magical regio. (Muto requisite). To connect between regio levels usually requires Arcane Range and an Arcane Connection for each regio level.
-
-#### Bountiful Boundary's Splendid Aura CrVi 99
+CrVi 99
 
 Pen +0, constant effect
 
@@ -4345,7 +4083,7 @@ A standard Boundary is Size 8, multiplied by earth (x2), requiring 16 spaces, an
 
 *Example: Julia of Jerbiton wishes to increase her covenant's aura, so she prepares and enchants her stone columns. To place the eight pillars correctly requires an Intelligence + Geometry roll against an Ease Factor of 14 (6 + Size 8). To finalize the enchantment, she needs to cast a* Bind the Mystical Structure *ritual of at least level 114 (base level 99 + 5, +2 for increased size from Group to Boundary).*
 
-#### Enchantment of the Magnified Regio
+##### Enchantment of the Magnified Regio
 
 MuVi(Te) 39
 
@@ -4363,7 +4101,7 @@ Increases the size of a Magical regio, doubling its size to a maximum of 200 pac
 
 *Alyssa therefore carves and sets up four of the stone pillars placed around the perimeter of the original boundary of the Regio, and four more placed just next to them. She casts her* Bind the Mystical Structure *rite, then carries the second set of pillars to the new larger perimeter where they are set in place, doubling the size of her regio to a comfortable 60 paces across.*
 
-#### Closed Privacy of the Enchanted Regio
+##### Closed Privacy of the Enchanted Regio
 
 Mu(Pe)Vi(Te) 79 Pen +0, constant effect
 
@@ -4371,11 +4109,7 @@ R: Touch, D: always on, T: Boundary, Mystery enchantment
 
 If a regio has an open boundary, so that any who see through may step into the regio, but the inhabitants desire to close this off, they may do so.
 
-This enchantment shrinks the interface of a regio (rather than the whole regio) until it falls below one pace across, when it pinches off and detaches from the adjacent regio level. (To shrink only the interface between levels adds 1 magnitude (equivalent to a Part Target) on top of the
-
-
-
-normal Size of the Target.) Any pre-existing gates remain active. There is no longer a path that can be walked between the two levels, nor can anyone see between regiones by any of the normal means — to cross from an adjacent regio level now requires an Arcane Connection and a transportation spell.
+This enchantment shrinks the interface of a regio (rather than the whole regio) until it falls below one pace across, when it pinches off and detaches from the adjacent regio level. (To shrink only the interface between levels adds 1 magnitude (equivalent to a Part Target) on top of the normal Size of the Target.) Any pre-existing gates remain active. There is no longer a path that can be walked between the two levels, nor can anyone see between regiones by any of the normal means — to cross from an adjacent regio level now requires an Arcane Connection and a transportation spell.
 
 The base level enchantment to halve the size of a regio is 4, but for extra shrinking, the magus also needs a Perdo requisite and increased magnitude. To shrink a 100–pace diameter to below one pace, requires seven steps (halving seven times, divides by 128), so the base effect is level 35.
 
@@ -4383,7 +4117,7 @@ The base level enchantment to halve the size of a regio is 4, but for extra shri
 
 *Example: Julia of Jerbiton and her sodales wish to make their covenant's regio into a secret*  *place, so she prepares and enchants the required eight stone columns (the regio is Size 8, soft earth). To place the pillars correctly requires an Intelligence + Geometry roll vs. an Ease Factor of 14 (6 + Size 8). To finalize the enchantment, she needs to cast a* Bind the Mystical Structure *ritual of at least level 94 (base level 79 + 5, +2 for increased size from Group to Boundary).*
 
-#### Conjunction of the Mystic Veils
+##### Conjunction of the Mystic Veils
 
 Re(Mu)Vi 45
 
@@ -4406,9 +4140,7 @@ If created as a single set, one *Bind the Mystical Structure* ritual will serve 
 Placing the pillars correctly, with the correct carved symbols and such, requires an Intelligence + Artes Liberales (geometry) roll against an Ease Factor of 11 (6 + Size 5). A *Bind the Mystical Structure* ritual finalizes the enchantment, to make the gate(s) function.
 
 
-## Chapter Twelve
-
-# The Mysteries of Dreams
+# Chapter 12: The Mysteries of Dreams
 
 *This Mystery School deals with dreams and their substance, giving the magus the power to control or even enter dreams, and to become part of the stuff of dreams. While the nature of dreams remains mysterious, even to Hermetic magi, this mystery is surprisingly powerful and the nightmares of those who cross its adherents are memorable indeed.*
 
@@ -4417,7 +4149,6 @@ In the 13th century, a fierce academic debate rages within the Church about the 
 Dreams have long been seen as omens, and the interpretation and understanding of them, and the role of dreams in prognostication and divination, are dealt with in Chapter 7: Divination and Augury. Hermetic understanding now states that dreams result from the effect of the humors on the mind and body. Experimentation has shown that dreams are intimately linked to the Form of Mentem, which is to the Imaginem of the dream substance as the brain is to the mind, or the heart to the emotions. That is, the capacity to dream is a function of Mentem and Mentem magics allow entrance to or control of dreams, yet their substance is of Imaginem — not physical *species* of sensation, but instead *essence* or *nous*; an idealized form of a species.
 
 Dreams are therefore linked to all supernatural realms as they are not, like mundane existence, limited by time or physical boundaries; like the realms they are transcendent — beyond time, space, and the logic of creation. (This has led some heretical thinkers to claim that all creation is a dream in the mind of God) The close association between the realms and dreams is clearly apparent in many miraculous visions: dreams of the dead, in which ghosts manifest through dreams, dreams sent by God, the chaotic dream realms associated with fairies and deceptive dreams sent by demons to mislead the unwary.
-
 
 Dreams are probably the closest most ordinary folk in Mythic Europe get to experiencing magic and The Gift.
 
@@ -4433,13 +4164,11 @@ The Hermetic mystery of dream magic originates from a Baltic folk tradition that
 
 Mystery spells can change a dream to include an aware spirit, as though one's spirit travels into the dream leaving the body and possessions behind. Within the dream, all seems real, but all is in fact illusion: dream logic and dream time apply. A magus can use spiritual travel to enter his own dreams.
 
-While traveling in a dream, the traveler's bodies lie in a trance, as if sleeping dreamlessly (and recovers as if sleeping). Physical disturbances to a traveler's body, such as being shaken or yelled at, require Concentration rolls (as to maintain a spell; see ArM5, page 82), and if failed, the traveler wakes from the trance, pulled out of the dream. Otherwise, the dream ends when the dreamer wakes, and any traveler in that dream is forced out. (It is
+While traveling in a dream, the traveler's bodies lie in a trance, as if sleeping dreamlessly (and recovers as if sleeping). Physical disturbances to a traveler's body, such as being shaken or yelled at, require Concentration rolls (as to maintain a spell; see ArM5, page 82), and if failed, the traveler wakes from the trance, pulled out of the dream. Otherwise, the dream ends when the dreamer wakes, and any traveler in that dream is forced out. (It is possible to leave dream through portals, to places such as the imagination.)
 
-## The Stuff of Dreams Magic in Dream
-
-Dreams are qualitatively different from other mental states; while desire, sadness, or madness are clearly related to the humors as direct expressions of Mentem, the content of dreams is always the stuff of sensation, and therefore Imaginem. Hence to create, enter, or change a dream from outside one uses Mentem, but to enact changes within the dream one uses Imaginem.
-
-possible to leave dream through portals, to places such as the imagination.)
+> ## The Stuff of Dreams Magic in Dream
+> 
+> Dreams are qualitatively different from other mental states; while desire, sadness, or madness are clearly related to the humors as direct expressions of Mentem, the content of dreams is always the stuff of sensation, and therefore Imaginem. Hence to create, enter, or change a dream from outside one uses Mentem, but to enact changes within the dream one uses Imaginem.
 
 While traveling in dream, a magus has an Arcane Connection to his body — he may leave the dream by "waking" and therefore returning to his body. The Arcane Connection also lets him use real-world vis in spells, consuming the vis permanently just as if a spell were cast in the waking world. A dream traveler can also find and use dream vis, but this lacks substance beyond dream.
 
@@ -4455,33 +4184,7 @@ His Virtues and Flaws apply as normal (subject to interpretation if necessary). 
 
 Magical equipment other than a talisman is not available to the spirit traveler, but a dream copy of his talisman accompanies a traveler. The real talisman remains with the body.
 
-The body left behind is without spellcasting abilities or conscious resistance. This means that the body is pro-
-
-Spirit travelers find magic in dreams both strange and powerful, and governed by the Hermetic Form of Imaginem.
-
-**Form:** A spirit traveler in a dream casts a spell of any Form as an Imaginem spell. Spontaneous Imaginem magic can produce any effect: Use the guidelines for the Form that would apply in the real world, but use the magus's score in Imaginem ignoring other Forms. If a spirit-form magus knows a Formulaic spell of another Form, he casts it using his Imaginem score while within dreams.
-
-For example, Creo Ignem 10 "creates a fire doing +15 damage," so Creo Imaginem 10 can create dream fire causing +15 dream damage; Rego Corpus 25 "transports the target instantly up to one league," so Rego Imaginem 25 can transport a dream inhabitant or a dream traveler up to one league. A Muto Corpus (Animal) spell becomes Muto Imaginem — the Animal requisite also becomes Imaginem and is ignored.
-
-**Duration:** The Duration of spells cast in dreams is based on dream time, not the passage of time in the waking world.
-
-**Magic Resistance:** Form-based Magic Resistance uses the Imaginem Form exclusively (and the magus's Parma Magica).
-
-**Dream Rituals:** Ritual Magic affecting the dream world can be cast spontaneously, without the magus knowing a formal Ritual spell, using the rules for Ceremonial Magic.
-
-Momentary Ritual effects within dreams create objects that are real within the dream, but lost when the dreamer wakes, or (if affecting the dream traveler) on returning to the waking world.
-
-Dream Rituals require dream vis. Dream vis can be found and collected in the dream world, and used freely — it all appears to have the Form of Imaginem.
-
-**Real-World Vis:** Real-world vis can only be used for known (non-Spontaneous) Rituals, and in this case the duration is determined by real-world time, not dream time. Real-world duration can make dream effects persist across and between dreams, lapsing while the dreamer wakes, then resuming when she starts to dream again. Momentary Rituals cast using real-world vis become real, and last indefinitely across dreams (subject to change, like any other thing).
-
-Rituals using real-world vis can use the real-world spell's Technique and Form vis, or substitute Imaginem vis.
-
-**Aura:** The aura for magic worked inside a dream is all illusory, and is whatever the current setting demands, so a dream cathedral has a Divine aura, a dream world hell-pit is Infernal, and a dream world covenant is Magical.
-
-The aura around the traveler's body is not relevant once inside dream.
-
-tected by its Form scores, but the Parma Magica protection "travels" with the spirit. A magus preparing for dream travel may choose to extend his Parma Magica to cover his body and spirit as separate entities (using the rules in ArM5, page 66), reducing his effective Parma score by 3.
+The body left behind is without spellcasting abilities or conscious resistance. This means that the body is protected by its Form scores, but the Parma Magica protection "travels" with the spirit. A magus preparing for dream travel may choose to extend his Parma Magica to cover his body and spirit as separate entities (using the rules in ArM5, page 66), reducing his effective Parma score by 3.
 
 #### Dream Magic Spells
 
@@ -4489,7 +4192,7 @@ This Mystery deals with the substance of dream, giving the magus the power to en
 
 Dream Magic allows the following new duration and target to be employed in spells.
 
-#### New Duration: Dream
+**Duration: Dream**
 
 The spell functions for the length of an actual dream of a sleeping individual. The spell ends if the dream ends, or the sleeper wakens. The dream can be natural or sustained magically.
 
@@ -4497,20 +4200,45 @@ It is possible to bypass the waking end of a dream in various ways, such as pass
 
 Dream Duration is equivalent to Concentration.
 
+> ## Magic in Dream
+> 
+> Spirit travelers find magic in dreams both strange and powerful, and governed by the Hermetic Form of Imaginem.
+> 
+> **Form:** A spirit traveler in a dream casts a spell of any Form as an Imaginem spell. Spontaneous Imaginem magic can produce any effect: Use the guidelines for the Form that would apply in the real world, but use the magus's score in Imaginem ignoring other Forms. If a spirit-form magus knows a Formulaic spell of another Form, he casts it using his Imaginem score while within dreams.
+> 
+> For example, Creo Ignem 10 "creates a fire doing +15 damage," so Creo Imaginem 10 can create dream fire causing +15 dream damage; Rego Corpus 25 "transports the target instantly up to one league," so Rego Imaginem 25 can transport a dream inhabitant or a dream traveler up to one league. A Muto Corpus (Animal) spell becomes Muto Imaginem — the Animal requisite also becomes Imaginem and is ignored.
+> 
+> **Duration:** The Duration of spells cast in dreams is based on dream time, not the passage of time in the waking world.
+> 
+> **Magic Resistance:** Form-based Magic Resistance uses the Imaginem Form exclusively (and the magus's Parma Magica).
+> 
+> **Dream Rituals:** Ritual Magic affecting the dream world can be cast spontaneously, without the magus knowing a formal Ritual spell, using the rules for Ceremonial Magic.
+> 
+> Momentary Ritual effects within dreams create objects that are real within the dream, but lost when the dreamer wakes, or (if affecting the dream traveler) on returning to the waking world.
+> 
+> Dream Rituals require dream vis. Dream vis can be found and collected in the dream world, and used freely — it all appears to have the Form of Imaginem.
+> 
+> **Real-World Vis:** Real-world vis can only be used for known (non-Spontaneous) Rituals, and in this case the duration is determined by real-world time, not dream time. Real-world duration can make dream effects persist across and between dreams, lapsing while the dreamer wakes, then resuming when she starts to dream again. Momentary Rituals cast using real-world vis become real, and last indefinitely across dreams (subject to change, like any other thing).
+> 
+> Rituals using real-world vis can use the real-world spell's Technique and Form vis, or substitute Imaginem vis.
+> 
+> **Aura:** The aura for magic worked inside a dream is all illusory, and is whatever the current setting demands, so a dream cathedral has a Divine aura, a dream world hell-pit is Infernal, and a dream world covenant is Magical.
+> 
+> The aura around the traveler's body is not relevant once inside dream.
 
-## Dream Vis
+> ## Dream Vis
+> 
+> Dreams of all things can be found, including dreams of raw vis (even if the dreamer has no idea what the substance is). A traveler in a dream can use dream vis like normal vis, except that it can have no effect whatsoever outside dreams. It is quite easy for magi to find dream vis in dreams. Dream vis is nearly always Imaginem vis (the general Form of all within dream).
+> 
+> To have any effect beyond a dream, including persistence between dreams and moving dream objects into the real world, real-world vis is needed. To use real-world vis within a dream, it must either be on the body of a traveler (linked by Arcane Connection), or brought in by a physical traveler (see The Greater Dream Grimoire).
 
-Dreams of all things can be found, including dreams of raw vis (even if the dreamer has no idea what the substance is). A traveler in a dream can use dream vis like normal vis, except that it can have no effect whatsoever outside dreams. It is quite easy for magi to find dream vis in dreams. Dream vis is nearly always Imaginem vis (the general Form of all within dream).
-
-To have any effect beyond a dream, including persistence between dreams and moving dream objects into the real world, real-world vis is needed. To use real-world vis within a dream, it must either be on the body of a traveler (linked by Arcane Connection), or brought in by a physical traveler (see The Greater Dream Grimoire).
-
-#### New Target: Dream
+**New Target: Dream**
 
 This new Target, Dream, allows travel into the dream of a sleeping individual. The sleep may be magically induced, as long as dreaming is possible. Dream only applies to Mentem spells.
 
 Dream Target is equivalent to Individual. Size does not matter (as is normal for Mentem spells), but also Dream is fixed as an actual dream of one sleeper — it is not possible to work dream magic on several dreams or dreamers together. (Dream spells exist to merge several travelers into one dream.)
 
-#### The Lucid Dreamer
+##### The Lucid Dreamer
 
 Mu(In)Me 20
 
@@ -4518,27 +4246,25 @@ R: Per, D: Dream, T: Dream, Mystery
 
 The magus lies down to sleep and casts this spell, slipping easily into dreaming sleep — except that his conscious spirit appears in the dream and may move and interact freely. He may wake any time he wishes (and may settle again for normal sleep, if he so desires).
 
-The spiritual traveler appears in the dream with his clothes, a dream copy of his talisman (if any), and dream vis equivalent to any vis left on his body. Using this dream vis has no effect on the real-world vis left behind; however, the
-
-## New Spell Guidelines
-
-**Muto Mentem (Dream, Mystery)**
-
-The Range of these spells is the greater of the range to the dreamer or the bodies of those whose spirits are to enter dream.
-
-**Level 15:** Change the dream of the caster to include the caster's own spirit (Intellego requisite).
-
-**Level 20:** Change the dream of another to include the caster's spirit (Intellego requisite).
-
-**Level 25:** Change a person's dream to include another's spirit (Intellego requisite).
-
-**Level 30:** Change a person's dream to include a group (up to ten) of spirits (Intellego requisite). The number of spirits included is multiplied by 10 for each magnitude added to the guideline.
-
-traveler may use that real-world vis via the Arcane Connection to his body.
+The spiritual traveler appears in the dream with his clothes, a dream copy of his talisman (if any), and dream vis equivalent to any vis left on his body. Using this dream vis has no effect on the real-world vis left behind; however, the traveler may use that real-world vis via the Arcane Connection to his body.
 
 (Base: 15, +1 Dream duration)
 
-#### The Path To Lemnos
+> ## New Spell Guidelines
+> 
+> **Muto Mentem (Dream, Mystery)**
+> 
+> The Range of these spells is the greater of the range to the dreamer or the bodies of those whose spirits are to enter dream.
+> 
+> **Level 15:** Change the dream of the caster to include the caster's own spirit (Intellego requisite).
+> 
+> **Level 20:** Change the dream of another to include the caster's spirit (Intellego requisite).
+> 
+> **Level 25:** Change a person's dream to include another's spirit (Intellego requisite).
+> 
+> **Level 30:** Change a person's dream to include a group (up to ten) of spirits (Intellego requisite). The number of spirits included is multiplied by 10 for each magnitude added to the guideline.
+
+##### The Path To Lemnos
 
 Mu(In)Me 30
 
@@ -4550,7 +4276,7 @@ The spiritual traveler appears in the dream with his clothes, a dream copy of hi
 
 (Base: 20, +1 Touch, +1 Dream duration)
 
-#### The Road To Lemnos
+##### The Road To Lemnos
 
 Mu(In)Me 40
 
@@ -4570,9 +4296,7 @@ Navigation in a dream is associative rather than geographical. Dreamers find pla
 
 *Example: Metrodorus seeks to brew a better longevity potion. Deciding that his youth before apprenticeship, over a century before, holds the key to his new design, he decides to seek his long-forgotten childhood innocence in a dream. Unfortunately, the dream devolves into a twisted series of visions of past Tribunals and past sodales. Suddenly he remembers the sound of a stream outside his parents' hut where he used to fish, and he resolves to cast a spell to create a stream, then follow it back until he arrives at the hut in the dream.*
 
-Time, too, is no longer linear and fixed — a dreamer may skip time, rolling up long periods to pass in an instant, or make a brief moment seem like days (or longer). Travelers who part and reunite in a dream may find that each group has taken a different time to reach the juncture. Almost any change is possible
-
-in dreams, and most physical laws can be broken. Also, time in dreams bears little relation to time in the waking world — years may seem to pass in a dream, while only a few moments pass in the real world.
+Time, too, is no longer linear and fixed — a dreamer may skip time, rolling up long periods to pass in an instant, or make a brief moment seem like days (or longer). Travelers who part and reunite in a dream may find that each group has taken a different time to reach the juncture. Almost any change is possible in dreams, and most physical laws can be broken. Also, time in dreams bears little relation to time in the waking world — years may seem to pass in a dream, while only a few moments pass in the real world.
 
 Spiritual travelers in dreams do not actually sleep, either: if they lie down as if to sleep, time passes around them in an instant, and they wake at some new time. If they forget to sleep, they suffer no ill effects. This is akin to the '…and some years pass…' effects of dream time. They cannot have a dream within a dream.
 
@@ -4608,10 +4332,10 @@ To notice dream travelers as figures in a dream, and be aware of oddities in the
 
 To try to reshape the dream, the dreamer must succeed on a roll of Intelligence against an Ease Factor of 9. The dreamer gains bonuses to this roll if she can work magic relating to dreams:
 
-- +3 if the dreamer is a magus (or of similar power) •
-- +3 if the dreamer has Dream Magic •
-- +3 if the dreamer has Hermetic Dream Interpreter (see Chapter 7: Divination and Augury) •
-- +1 per other supernatural ability relating to illusions or dreams in general (maximum +3) •
+- +3 if the dreamer is a magus (or of similar power)
+- +3 if the dreamer has Dream Magic
+- +3 if the dreamer has Hermetic Dream Interpreter (see Chapter 7: Divination and Augury)
+- +1 per other supernatural ability relating to illusions or dreams in general (maximum +3)
 
 If she succeeds, she may arbitrarily reshape the dream.
 
@@ -4625,10 +4349,7 @@ A dreamer with Dream Magic may use real dream spells if she is aware of the situ
 
 **Dream Shaping Magnitude = Rolled Total**
 
-If the dreamer does not become intelligently aware of travelers, but the travelers remain in the vicinity of the dreamer-figure, the storyguide may feel it appropriate for the dreamer to change the dream unconsciously. The storyguide
-
-
-may make an arbitrary change, or roll to reshape the dream as above.
+If the dreamer does not become intelligently aware of travelers, but the travelers remain in the vicinity of the dreamer-figure, the storyguide may feel it appropriate for the dreamer to change the dream unconsciously. The storyguide may make an arbitrary change, or roll to reshape the dream as above.
 
 #### Time and Experience in Dream
 
@@ -4659,24 +4380,17 @@ find themselves immersed in dream water, they find that it is all an illusion ag
 
 Wounds may be taken, but are not real, although the shock and pain *is* real. If a traveler is wounded, he must succeed in a roll of
 
-#### Stress Die + Stamina + Modifiers vs. an Ease Factor of Total Wound Penalty
+**Stress Die + Stamina + Modifiers vs. an Ease Factor of Total Wound Penalty**
 
-If he fails the roll, he wakes from the shock, and is thrown out of the dream into the normal physical world. An Incapacitating wound has an Ease Factor of 9, and leaves the traveler Incapacitated even if he is not thrown out of dream. If he overcomes the shock, the Wound and its Wound Penalty accumulate during the combat, making subsequent Wound shocks harder to overcome. Apply penalties from previous wounds to the Stamina roll, as well as the benefits and penalties of Virtues and Flaws relating to pain and wounds, and also strong and weak
-
-will. If the traveler survives the encounter, it is easy to recover from the wounds once sufficient dream time has passed. If the traveler wakes, it was only a dream.
+If he fails the roll, he wakes from the shock, and is thrown out of the dream into the normal physical world. An Incapacitating wound has an Ease Factor of 9, and leaves the traveler Incapacitated even if he is not thrown out of dream. If he overcomes the shock, the Wound and its Wound Penalty accumulate during the combat, making subsequent Wound shocks harder to overcome. Apply penalties from previous wounds to the Stamina roll, as well as the benefits and penalties of Virtues and Flaws relating to pain and wounds, and also strong and weak will. If the traveler survives the encounter, it is easy to recover from the wounds once sufficient dream time has passed. If the traveler wakes, it was only a dream.
 
 *Example: The dream maga Morphea is exploring the dreams of a local worthy, seeking out a demon. On entering dream she uses*  Phantasm of the Human Form *to create some shield grogs and sets off. She soon finds the demon, which appears and attacks her.*
 
 *Her phantom grogs (quite solid in the dream) take the brunt of the attack, while she casts spells past them. However, the demon hurls several of its spines past the grogs to strike Morphea. She suffers two Medium wounds, and must make two Stamina rolls against an Ease Factor of 3 for the first wound, and 6 for the second. Fortunately she has Stamina +2 and Strong Will (+3 to Will rolls), and adds this as a bonus to her rolls to stay in dream. She rolls 7+5 = 12 for the first wound, and 5+5 = 10 for the second, so she remains in the dream.*
 
-*Her attacks are quite effective and the demon is slain. Morphea takes stock of her situation, and decides not* 
+*Her attacks are quite effective and the demon is slain. Morphea takes stock of her situation, and decides not to continue immediately, but to recuperate. "Some time later" she has fully recovered from her wounds, and sets off again. (Nothing significant happens in this time — it is just an exercise in dream time and logic. The dreamer whose dream she is in may vaguely recall this period, but lack any details. No time passes in the real world.)*
 
-*to continue immediately, but to recuperate. "Some time later" she has fully recovered from her wounds, and sets off again. (Nothing significant happens in this time — it is just an exercise in dream time and logic. The dreamer whose dream she is in may vaguely recall this period, but lack any details. No time passes in the real world.)*
-
-As a spirit in a dream, the spiritual traveler is also vulnerable to magics that attack spirits from the Mentem and Vim guidelines. (Spiritual travelers perceive these as Imaginem spells). If the attacker uses Might reduction spells, similar to *Demon's Eternal Oblivion*, the spiritual traveler should use his Imaginem score instead of Might. His Imaginem score is not actu-
-
-
-ally lost beyond the duration of the spells, but if his Imaginem "Might" is reduced to zero, he is forced into the waking world.
+As a spirit in a dream, the spiritual traveler is also vulnerable to magics that attack spirits from the Mentem and Vim guidelines. (Spiritual travelers perceive these as Imaginem spells). If the attacker uses Might reduction spells, similar to *Demon's Eternal Oblivion*, the spiritual traveler should use his Imaginem score instead of Might. His Imaginem score is not actually lost beyond the duration of the spells, but if his Imaginem "Might" is reduced to zero, he is forced into the waking world.
 
 If he is beyond connection to the waking world, he may be destroyed like any other spirit.
 
@@ -4700,7 +4414,7 @@ spirit to remain in the dream. If a spiritual traveler returns from a dream and 
 
 It is possible for a traveler to achieve a form of evanescent immortality in a dream, if she never returns to the waking world. (Normally she would wake when her dreamer wakes, but if she has left an individual dream through some portal, she may remain.)
 
-## The Greater Dream Grimoire — Minor Mystery Virtue
+### The Greater Dream Grimoire — Minor Mystery Virtue
 
 This Virtue requires the Dream Magic Virtue. It teaches how to enter physically into another's dream, and how to extract real items from dream into the waking world, giving them substance. Few are ever taught this dangerous magic.
 
@@ -4726,10 +4440,7 @@ They can apply dream logic to the landscape and dream inhabitants around them, b
 
 When they return to the real world, usually the time as elapsed for the travelers corresponds to real elapsed time. Sometimes, as with travel to faerie places, the time may be longer or shorter than the real world.
 
-If the dreamer wakes, her dream ceases to exist. Physical travelers in that dream are expelled from the dream, reappearing
-
-
-where they left the real world; real-world objects vanish and reappear when the sleeper begins to dream again.
+If the dreamer wakes, her dream ceases to exist. Physical travelers in that dream are expelled from the dream, reappearing where they left the real world; real-world objects vanish and reappear when the sleeper begins to dream again.
 
 It is possible to hide real objects in dream. Physical travelers who find such objects may easily retrieve them, just by carrying them; spiritual travelers need spells and real-world vis to do so.
 
@@ -4751,8 +4462,6 @@ The aura of dream locations is determined as for spiritual travelers, according 
 
 All travelers to dream may use any vis as if it were real. However true reality is confined to real-world vis brought in by physical travelers. If real-world vis is used, it is gone forever, just as if used in the real world.
 
-#### The Mysteries Revised Edition
-
 Any spell effects brought on by or sustained by dream vis disappear on the return to the waking world. If the traveler moves from one dreamer's dream to another's, then dream spells are unaffected by that move.
 
 Note that Momentary Creo ritual spells have real effects in the dream, and also the spell magic stops immediately, so real healing (over time) is possible, even if wounds have been healed by dream vis.
@@ -4766,13 +4475,13 @@ The greater dream grimoire permits physical travel into dream targets, and trans
 
 #### New Guidelines
 
-#### Creo (Form)
+##### Creo (Form)
 
 **Level 15, Mystery ritual**: Give an object encountered in dream substance so that it can exist in the real world. This must be cast in a dream by a physical traveler as a Momentary Ritual, using real-world vis. Size is as normal for the Form. Form is the Form of the object in the real world, but only physical travelers see the dream world as having Form other than Imaginem). If the object given substance is enchanted, add the sum of all levels of enchantment to the required level, and add requisites of Vim, and any Arts used in the enchantments. If this is not done, the object will be mundane when extracted. (Requisites Muto, Mentem)
 
 Note that no-one has ever successfully given living substance to a dreamperson, as Hermetic magic cannot create a soul, although beasts have been made real.
 
-#### Substance Over Form
+##### Substance Over Form
 
 Cr(Mu)Te(Me) 20
 
@@ -4786,13 +4495,11 @@ is cast without real-world vis, the object vanishes as it is brought into the re
 
 (Base 15, +1 Touch)
 
-#### Rego Corpus
+**Rego Corpus**
 
 **Level 35, Mystery**: Send the caster into a dream. The caster passes through a portal that remains in the dream
 
-until she returns. (Requisites Mentem, Muto) The traveler is ejected back into the real world when a dream she is in
-
-ceases.
+until she returns. (Requisites Mentem, Muto) The traveler is ejected back into the real world when a dream she is in ceases.
 
 **Level 40, Mystery**: Send the body of another into a person's dream.
 
@@ -4800,7 +4507,7 @@ ceases.
 
 **Level 45, Mystery**: Send the bodies of a group of people into a person's dream. (Requisites Mentem, Muto) Similar spells exist for Animal and Herbam (for living plants and animals).
 
-#### The Morphean Gate
+##### The Morphean Gate
 
 Re(Mu)Co(Me) 40
 
@@ -4814,7 +4521,7 @@ Any physical traveler in this dream may leave through the portal, stepping out t
 
 (Base 35, +1 Touch)
 
-#### Creo Imaginem
+**Creo Imaginem**
 
 #### Level 15, Mystery ritual: Give
 
@@ -4824,7 +4531,7 @@ a dream object, of Size –7 or smaller, substance so that it can exist in the r
 
 **Level 25, Mystery ritual:** Give a dream object, of Size –3 or smaller, substance so that it can exist in the real world.
 
-#### Level 30, Mystery ritual: Give
+**Level 30, Mystery ritual: Give**
 
 a dream object, of Size –1 or smaller, substance so that it can exist in the real world.
 
@@ -4836,7 +4543,7 @@ If the object given substance is enchanted, add the sum of all levels of enchant
 
 Note that no-one has ever successfully given living substance to a dreamperson, as Hermetic magic cannot create a soul. Beasts have been made real.
 
-#### The Oneiropomp's Treasure
+##### The Oneiropomp's Treasure
 
 CrIm 30
 
@@ -4851,13 +4558,13 @@ A copy of the object given substance appears by the side of the entranced body o
 
 (Base 25, +1 Touch)
 
-#### Rego Terram
+**Rego Terram**
 
 **Level 15, Mystery**: Send an inanimate object, including any enchantments, through a portal into dream. The spell must have enough range for the caster to encompass both the dreamer and the object. The object ceases to exist in the dream if the dreamer wakes, but reappears in the dream when the dreamer returns to sleep. (Requisite: Mentem, Muto; requisites for the Form(s) of object transferred, Vim requisite if the object is magical. The spell level must at least equal the level of the strongest enchantment in the object.)
 
 The spell level needs to be increased if the real-world object is greater than normal size for its Form. For example, a boat is a Group of Herbam items: roughly ten cubic paces of wood and linen. This adds 2 magnitudes to a spell needed to send a boat into a dream.
 
-#### Gift of the Oneiropomp
+##### Gift of the Oneiropomp
 
 Re(Mu)Te(Me) 15
 
@@ -4870,15 +4577,13 @@ such a place has been prepared magically — otherwise the object must be search
 
 The caster may use cast this spell while awake to send objects into his own dream, provided he lies down to sleep directly after casting the spell.
 
-## The Dream Landscape
+##### The Dream Landscape
 
 There are natural portals from dreams to the imagination and memory of the dreamer. These portals are rare and hidden, but some magi claim to know spells to help find them. Memory and imagination both have portals to each other, and back to dream, and the return portals are usually much easier to find than the dream portals.
 
 Physical travelers entering dreams also leave portals that lead back to the places they entered from.
 
 Any travelers in dreams — spiritual traveler, physical traveler, demon, or faerie — may pass through dream portals if they can find them.
-
-#### The Mysteries Revised Edition
 
 #### The Mind's Imagination
 
@@ -4892,12 +4597,7 @@ In the memory, a traveler can find all of a person's memories. A normal person h
 
 A person who has the Art of Memory Virtue, and has constructed a memory palace, has a physical palace that a traveler from dream may enter. He may move through this palace, and discover the memory loci and the objects within the loci, and read the memories within. He is akin to a burglar in a regular palace.
 
-It is possible for a traveler to move memories around while he is invading a dreamer's memory. This may make it hard for the dreamer to recall things, or the
-
-
-*110*
-
-traveler may retrieve lost memories and place them where they are easy to find.
+It is possible for a traveler to move memories around while he is invading a dreamer's memory. This may make it hard for the dreamer to recall things, or the traveler may retrieve lost memories and place them where they are easy to find.
 
 It is also possible to use dream magic to strengthen memories or even make memories solid. A solid memory can be removed (stolen) into the real world. A memory made solid and then removed is lost from the dreamer's mind.
 
@@ -4923,11 +4623,11 @@ Some would say of the dreamscape that it is all an extended dream. No physical f
 
 If one opens a portal from the dreamscape to dream, the traveler can take no real-world vis, and so cannot make any real changes to the remote dream. Does that remote dream actually exist — or is it in fact a dream of a dream? Dream magi claim it is real, but it may not be so. Some even claim to have arranged rendezvoused with other dream travelers equipped with real-world vis on the body of the remote dreamer.
 
-# The Volshebnii Mechtateli
+## The Volshebnii Mechtateli
 
 *In dreams begin responsibilities. Be they decadent dreamers or utopian idealists, the dream witches have sinister reputation, as befits a cult that truly possesses the power of nightmares.*
 
-## The History of the Volshebnii Mechtateli
+### The History of the Volshebnii Mechtateli
 
 Dreams hold a particular fascination for those who live in northern climes; the long nights and the great vault of the heavens above the forests of one region of the Novgorod Tribunal gave birth to one of the most peculiar dream theorists of all time, Raisa of Ex Miscellanea. She was an imaginative child, given to flights of fancy. As an apprentice, she traveled many times with her parens to a small village in the Baltic area, where the locals practiced dream magics unknown to the Order. Her mistress was so driven to distraction by her inability to concentrate she almost gave up teaching her many times, but The Gift was so strong in her that she relented, and continued to teach the exasperating girl.
 
@@ -4935,63 +4635,47 @@ Raisa's natural aptitude with Imaginem was immense, and her Gauntlet is still wh
 
 The pain of the taunting she had endured in her childhood stayed with Raisa though. Withdrawing often into her lab, yet never producing any enchantments and rarely writing books, her covenant mates dismissed her as a waste of magical resources. Apart from casting enchantments to hide the covenant from mortal eyes, and her very occasional and sadly incomprehensible writings on Mentem and Imaginem, she seemed to have little to offer. She became withdrawn, rarely bothering with meetings, and almost uninterested in the news that the others avidly sought from Redcap visits. Apart from three visits to the Baltic village that had fascinated her as a child, she seemed introverted to the point of insanity.
 
-Yet one day when the covenant was attacked by a potent faerie drake that had long slumbered in the forest nearby, it was she who came to the rescue. The creature could only be defeated, it was said, by the tears of a rhinoceros — which are hard to find indeed in the forests of Novgorod. Yet emerging from her lab, Raisa had just such an item —
-
-
-and said, when asked, that she had found it within dreams. Recalling odd visions, and peculiar sensations in their dreams, her covenant mates suddenly realized that somehow Raisa had found a way to make the stuff of dreams real. From that day, Raisa's tradition, the Volshebnii Mechtateli, has been accorded much respect. The name is derived from the Russian for "Magical Dreamers," Raisa's grasp of Latin was mediocre at best, and her incomprehensible ramblings led to the term being misunderstood as the name of the cult, rather than as a description of the magic it taught.
+Yet one day when the covenant was attacked by a potent faerie drake that had long slumbered in the forest nearby, it was she who came to the rescue. The creature could only be defeated, it was said, by the tears of a rhinoceros — which are hard to find indeed in the forests of Novgorod. Yet emerging from her lab, Raisa had just such an item — and said, when asked, that she had found it within dreams. Recalling odd visions, and peculiar sensations in their dreams, her covenant mates suddenly realized that somehow Raisa had found a way to make the stuff of dreams real. From that day, Raisa's tradition, the Volshebnii Mechtateli, has been accorded much respect. The name is derived from the Russian for "Magical Dreamers," Raisa's grasp of Latin was mediocre at best, and her incomprehensible ramblings led to the term being misunderstood as the name of the cult, rather than as a description of the magic it taught.
 
 The Volshebnii Mechtateli are an example of the application of Hermetic theory by a single genius to an idea inspired by a hedge magic tradition.
 
 ## The Volshebnii Mechtateli Today
 
-While the majority of the Order chooses to live in covenants, there are always those who participate little in the communal life of the magi, or
-
-who choose to live entirely on their own, being known as **eremites**. While this is the stereotype of insular and solitary dream magi, many others are outgoing, filled with life and highly sociable — yet have secret inner lives that are beyond the imagination of their sodales. In fact, the Volshebnii Mechtateli are highly sociable, but many of their meetings, their discussions, and the strangest of their rites are conducted far from the waking world, in the lands of dream.
+While the majority of the Order chooses to live in covenants, there are always those who participate little in the communal life of the magi, or who choose to live entirely on their own, being known as **eremites**. While this is the stereotype of insular and solitary dream magi, many others are outgoing, filled with life and highly sociable — yet have secret inner lives that are beyond the imagination of their sodales. In fact, the Volshebnii Mechtateli are highly sociable, but many of their meetings, their discussions, and the strangest of their rites are conducted far from the waking world, in the lands of dream.
 
 Living geographically across the Tribunals of the Order, in dreams they meet, feast, and attempt to outdo each other in creating new and fantastic forms and places and beings of pure fancy. The Vermilion Temple of Wistful Sighs, their sacred place, has no mirror on Earth; made of emeralds, it floats above lemon clouds hanging over an azure sea never rippled by wave or tide. Within its countless halls, many secrets are spoken, and many strange desires made real, yet travelers there rarely speak of what they learned — for who can be sure what was real, and what was not? Sensual delights and exotic passions abound there, and terrible fears and nightmare beings stalk the hallways, ready to rend apart the spirit of those unwary folk who stumble upon its mysteries and defile it by their presence.
-
 
 While an Initiate may invite guests into the Outer Chambers of the Courtyard (known as the Slumbering) to proceed further without Initiation is to defile the Mystery, and the penalty is a thousand deaths, enacted nightly in dream; the first time as the dreamer is torn apart by his own personal nightmare, and every night thereafter for one thousand nights, by which time the victim has long since been lost to madness.
 
 The cult deals in both whimsy and terror, in aesthetics and in corruption. As mirrors of mortal desires, dreams are places terrible beyond despair, yet beautiful beyond words. The power to shape dreams is a form of mental invasion that no sane person would wish to allow, and in the early 11th century a number of leading members of the Volshebnii Mechtateli were Marched when it became clear that they were attempting to shape the dreams, and hence the aspirations, of several magi in the Order. The dream witches, as they are commonly known by non-members, are feared and hated perhaps more than any other Hermetic group, and while Durenmar has many texts related to dream magics, they are forbidden to almost all, deliberately lost in that covenant's archives. Learning the magics is not illegal; only a magus practicing them on his sodales in the Order, or using them to interfere with mundanes. But the practice is definitely discouraged.
 
-The Vermilion Temple persists beyond all dreams, and some say it is a dream in the mind of an Eternal Sleeper, whose identity is known only to the lords and ladies of the cult. Perhaps within the Temple's inner sanctum lie clues that would establish the dreamer's existence and identity, or even allow him to be awakened and return once more to the world. Many have speculated as to the Eternal Dreamer's identity, and rumor suggests a dreaming old one, the sleeping king under the hill, or even Tytalus the Founder forever ensorcelled in an enchanted sleep. The truth is no doubt
-
-as strange and startling as our wildest dreams and fancies.
+The Vermilion Temple persists beyond all dreams, and some say it is a dream in the mind of an Eternal Sleeper, whose identity is known only to the lords and ladies of the cult. Perhaps within the Temple's inner sanctum lie clues that would establish the dreamer's existence and identity, or even allow him to be awakened and return once more to the world. Many have speculated as to the Eternal Dreamer's identity, and rumor suggests a dreaming old one, the sleeping king under the hill, or even Tytalus the Founder forever ensorcelled in an enchanted sleep. The truth is no doubt as strange and startling as our wildest dreams and fancies.
 
 ## Structure of the Volshebnii Mechtateli
 
 The Volshebnii Mechtateli did not start out as a Mystery Cult, but rather as a series of magical breakthroughs. Soon dreamers began to aspire to change the world, and as is the way of dreamers, their utopian vision began to change to the stuff of nightmare. A small group of Volshebnii Mechtateli enthusiasts began to play with the dreams of the great and the mighty, both within the Order and within the world. They knew no boundary but imagination and no morality beyond desire, and who in a dream can truly be hurt?
 
-When the reaction came it was rapid and brutal. There were probably less than ten dream Initiates in the Order at
-
-
-that time, and six perished in a series of Marches that saw incurable madness and death by sleep deprivation befall three of the magi who dared oppose them. If terror can strike a powerful magus in his dreams, where is there to run to? When the Sharp Awakening (as the cult call this period) ended, all the known dream magi were dead. Yet a few lived on, now hiding their interests, and unwilling to ever show their powers in public. Time passed, the Order fell back into slumber, and today dream witches are a bogeyman used to scare apprentices.
+When the reaction came it was rapid and brutal. There were probably less than ten dream Initiates in the Order at that time, and six perished in a series of Marches that saw incurable madness and death by sleep deprivation befall three of the magi who dared oppose them. If terror can strike a powerful magus in his dreams, where is there to run to? When the Sharp Awakening (as the cult call this period) ended, all the known dream magi were dead. Yet a few lived on, now hiding their interests, and unwilling to ever show their powers in public. Time passed, the Order fell back into slumber, and today dream witches are a bogeyman used to scare apprentices.
 
 Yet the Volshebnii Mechtateli lived on in dreams, and one young maga from Loch Leglean, Agnes of Tremere, saw the terrible misery dreams had inflicted. She decided to refound the group, not as an informal association who would teach their Hermetic specialty to anyone, but as a Mystery open only to those whose dreams were beautiful, and whose hopes were pure. Taking as the motto of the reformed cult "In Dreams Begin Responsibilities," she envisioned the Volshebnii Mechtateli as serving the Order, and following an agenda that would allow the flowering of a new age of beauty and peace.
 
 Dreams change swiftly, and while the motto remains, idealists rarely live bounded by rules.
 
-The cult has almost no hierarchy or structure. It acknowledges only two degrees — the Lords (and Ladies) of The Passions, who know the Minor Virtue Dream Magic, and the Monarchs of the Veiled Court, who maintain the sacred dream of the Vermilion Temple, and may enter its innermost chambers, The Sanctuary of Lost Dreams. Initiation is offered in dream only to those who have proven an aptitude in Imaginem and Mentem as a specialty that far exceeds the norm, and usually to relatively newly Gauntleted magi, for the weight of years crushes the dreams of those who live too long in this vale of tears. Individual magi are Initiated by a single individual, and never know the real identities of the others they meet while in the realms of dreams. Although not part of a formal degree, an Initiate may persuade his elder to teach
+The cult has almost no hierarchy or structure. It acknowledges only two degrees — the Lords (and Ladies) of The Passions, who know the Minor Virtue Dream Magic, and the Monarchs of the Veiled Court, who maintain the sacred dream of the Vermilion Temple, and may enter its innermost chambers, The Sanctuary of Lost Dreams. Initiation is offered in dream only to those who have proven an aptitude in Imaginem and Mentem as a specialty that far exceeds the norm, and usually to relatively newly Gauntleted magi, for the weight of years crushes the dreams of those who live too long in this vale of tears. Individual magi are Initiated by a single individual, and never know the real identities of the others they meet while in the realms of dreams. Although not part of a formal degree, an Initiate may persuade his elder to teach him the Virtues Potent Magic (dream) or Magical Focus (dream), or an Aptitude or Affinity in Imaginem or Mentem. Many are brought into this secret in the final years of their apprenticeship, and those who react with horror are often brutally killed before they can divulge the secret, and while they have no legal rights within the Order.
 
-## The Death of A Thousand Nightmares
+> ## The Death of A Thousand Nightmares
+> 
+> This is a truly horrible fate. The unwary or unwise intruder who stumbles upon the Vermilion Temple is attacked by a creature that in some way embodies his own worst and most terrible nightmare. Because it is his personal nemesis, there is no escape for those who are not Initiates of the school of dream magic, although Imaginem magics can be used by Initiates who choose to intervene on behalf of the afflicted magi.
 
-This is a truly horrible fate. The unwary or unwise intruder who stumbles upon the Vermilion Temple is attacked by a creature that in some way embodies his own worst and most terrible nightmare. Because it is his personal nemesis, there is no escape for those who are not Initiates of the school of dream magic, although Imaginem magics can be used by Initiates who choose to intervene on behalf of the afflicted magi.
-
-him the Virtues Potent Magic (dream) or Magical Focus (dream), or an Aptitude or Affinity in Imaginem or Mentem. Many are brought into this secret in the final years of their apprenticeship, and those who react with horror are often brutally killed before they can divulge the secret, and while they have no legal rights within the Order.
-
-## Chapter Thirteen
-
-# Mercurian Magic
+# Chapter 13: Mercurian Magic
 
 The Order of Hermes was born out of the memory of the Roman Cult of Mercury. Much of that knowledge was lost forever, yet fragments were to survive to the era of Bonisagus and the Founders, including certain elements incorporated into the design of well-known rituals of the Order of Hermes, such as *Aegis of the Hearth* and especially *Wizard's Communion.*
 
 By far the best known remnant of that tradition is the magical technique represented by the Virtue Mercurian Magic (ArM5, page 45). It is widely known in the Order, and while not all who are interested in the magic of the parent tradition possess this Virtue, it is the root of the Mercurian tradition and the part that is generally accepted as authentic. Beyond that, and what can be reconstructed by analyzing the fragments of non-Hermetic magic incorporated by Bonisagus and others and found within certain non-standard spells, all is uncertain. Within various Houses traditions remain that relate to Mercurian practices, and, in particular, within House Mercere groups that draw upon the heritage are known to exist, as outlined in *Houses of Hermes: True Lineages*. In addition, there is a Mystery Cult, The Neo-Mercurians, who seek to reinvent the tradition anew.
 
-## Mercurian Groups in the Order
+### Mercurian Groups in the Order
 
 There are now several groups within the Order that claim to practice Mercurian rites, and many who possess the Virtue Mercurian Magic yet who are unaffiliated with any of these groups. The best known of these groups is the exoteric Cult of Mercury, which is comprised mainly of members of House Flambeau and some magi of House Mercere, and which is described in *Houses of Hermes: True Lineages.*  Furthermore, some members of House Guernicus also have a strong interest in Mercurian magic*.* Another group, the Neo-Mercurians, is a Mystery Cult, who practice what they believe to be a reconstruction of authentic Mercurian magic.
-
 
 #### The Cult of Mercury
 
@@ -4999,7 +4683,7 @@ This is a group founded by Priamitus, the apprentice of Mercere, who came to see
 
 There is another group of Mercurians active in 1220 that constitutes an authentic Mystery tradition that teaches only Initiates its secret rites. Known as the Neo-Mercurians, it curiously blends claims to have reconstructed authentic Mercurian rites with a dedication to applying them to the insights of the Hermetic system.
 
-# The Neo-Mercurians
+## The Neo-Mercurians
 
 No one alive in 1220 can claim a full understanding of the ancient rituals of the Cult of Mercury, and while the Cult of Mercury expresses one Mercurian tradition, there is also a distinct and rival group in the form of the Neo-Mercurians, a Mystery group.
 
@@ -5018,37 +4702,32 @@ Research and investigation of ancient sites and the planting of new congregation
 
 The Neo-Mercurians have no system of degrees or ranks at local level, beyond a very simple three-fold division:
 
-**The Messengers of Mercury:**  UnGifted servants who perform vital tasks of running messages and gathering information, and assisting in the discovery, excavation, and restoration of lost temples. Senior Messengers possess lesser enchanted devices that allow them access to temples hidden in magical regiones. **•**
+- **The Messengers of Mercury:**  UnGifted servants who perform vital tasks of running messages and gathering information, and assisting in the discovery, excavation, and restoration of lost temples. Senior Messengers possess lesser enchanted devices that allow them access to temples hidden in magical regiones.
+- **The Congregation:** Rank-and-file Initiates who work to recover lost secrets of ancient temples, uncover and research ancient magics, and serve the Priests while learning the mysteries of the Neo-Mercurians.
+- **The Priests:** A single Priest is responsible for the care of each temple, and for organizing the rites of the yearly Festival of Mercuralia on May 15th, when the Priest sprinkles the Congregations' hands with enchanted water as was done in ancient times.
 
-## Mercury
-
-The Roman deity Mercury, often represented as a youth wearing winged sandals, was primarily associated with trade, profit, and commerce, but also looked after travelers, roads, and thieves. The Latin words *mercator* and *merx* ("merchant") are related to Mercury. His main festival, Mercuralia, was celebrated on May 15th. The Greeks knew him as Hermes, and his symbol is the Caduceus, or a winged staff with entwined serpents.
-
-- **The Congregation:** Rank-and-file Initiates who work to recover lost secrets of ancient temples, uncover and research ancient magics, and serve the Priests while learning the mysteries of the Neo-Mercurians. **•**
-- **The Priests:** A single Priest is responsible for the care of each temple, and for organizing the rites of the yearly Festival of Mercuralia on May 15th, when the Priest sprinkles the Congregations' hands with enchanted water as was done in ancient times. **•**
+> ## Mercury
+> 
+> The Roman deity Mercury, often represented as a youth wearing winged sandals, was primarily associated with trade, profit, and commerce, but also looked after travelers, roads, and thieves. The Latin words *mercator* and *merx* ("merchant") are related to Mercury. His main festival, Mercuralia, was celebrated on May 15th. The Greeks knew him as Hermes, and his symbol is the Caduceus, or a winged staff with entwined serpents.
 
 They organize loosely in congregations based at a temple, served by one officiating Priest. Initiation is based on aptitude and the Priest decides in which order the Initiate learns the Mystery Virtues. Despite this lack of local organization, the Neo-Mercurian Cult maintains temples across Mythic Europe, or so it is whispered, and it is rumored to have an excellent network of communications, and a hierarchy of Priests, all looking to a secret temple somewhere within the ruins of old Rome, outside the modern city boundaries. Only those who have contributed greatly to the recovery of the ancient secrets and risen to the rank of Priest know the truth.
 
 The members preserve, as far as possible, imperial Roman dress, customs, and traditions, and are fond of using Classical Latin, as opposed to more modern forms of the language (although they are mutually intelligible), and seek out even the non-magical Roman authors whose works still circulate within the Order.
 
-## The Cult of Heroes
-
-As described in *Houses of Hermes: True Lineages*, the Cult of Heroes is a small non-Mystery group comprised of worshipers in the Cult of Mercury. They believe the great heroes of antiquity still walk the Earth. Heracles, Arthur, Beowulf, Gilgamesh — they say these legendary figures and others like them were descended from the gods, and the cult members believe that they can be born again. The Children of Hermes (see Chapter 14: Mystery Cults) is another group of mystery cultists who subscribe to this idea and believe that their leader is actually Hermes, the Greek form of the god Mercury, reborn.
+> ## The Cult of Heroes
+> 
+> As described in *Houses of Hermes: True Lineages*, the Cult of Heroes is a small non-Mystery group comprised of worshipers in the Cult of Mercury. They believe the great heroes of antiquity still walk the Earth. Heracles, Arthur, Beowulf, Gilgamesh — they say these legendary figures and others like them were descended from the gods, and the cult members believe that they can be born again. The Children of Hermes (see Chapter 14: Mystery Cults) is another group of mystery cultists who subscribe to this idea and believe that their leader is actually Hermes, the Greek form of the god Mercury, reborn.
 
 The Virtues the cult teaches or Initiates are described below. Storyguides may select those that they feel are most in line with their particular vision of how the Neo-Mercurians would have recreated the magics of the Mercurians; it is not necessary to use all of them if this is not desired.
 
-- All Initiates are required to possess (or to spend a year at the Temple learning through Initiation and study) the Virtue Mercurian Magic (ArM5, page 46). •
-- The Neo-Mercurians teach by Initiation the Virtue Performance Magic, for Neo-Mercurian Magic (an Organization Lore ability): while performing the ceremonies and rites of the cult, Initiates gain the benefits of Performance Magic. •
-- It teaches by Initiation the Virtue Hermetic Theurgy, to call ancient pagan gods to attend cult members in sacred groves, where the Priests of Mercury hope to strike bargains with the ancient gods. •
-- It lauds the Divinatory abilities of the ancient Romans, as reported in the available texts, so members seek to learn Divination and Augury — choosing to Initiate methods that are believed to be the most "Roman," such as alectryomancy (or divination by throwing grain to a hen in a circle •
-
-
-inscribed on the floor and seeing where it goes).
-
-- It teaches a number of Mastery special abilities (first mentioned in *House of Hermes: True Lineages*), as detailed in their own section below. These require no Initiation, just insight or teaching by a magus with that special ability. •
-- It Initiates the Virtue of Withstand Magic, the better to bear the cost of casting Ritual spells. •
-- It Initiates the Virtue Hermetic Sacrifice, which allows the power of the ancient altars to be tapped. •
-- It teaches in one season Road Magic: new Ranges and Targets. A maga with Mercurian Magic can learn these by teaching; or the maga may be Initiated into it, as with a Minor Virtue. •
+- All Initiates are required to possess (or to spend a year at the Temple learning through Initiation and study) the Virtue Mercurian Magic (ArM5, page 46).
+- The Neo-Mercurians teach by Initiation the Virtue Performance Magic, for Neo-Mercurian Magic (an Organization Lore ability): while performing the ceremonies and rites of the cult, Initiates gain the benefits of Performance Magic.
+- It teaches by Initiation the Virtue Hermetic Theurgy, to call ancient pagan gods to attend cult members in sacred groves, where the Priests of Mercury hope to strike bargains with the ancient gods.
+- It lauds the Divinatory abilities of the ancient Romans, as reported in the available texts, so members seek to learn Divination and Augury — choosing to Initiate methods that are believed to be the most "Roman," such as alectryomancy (or divination by throwing grain to a hen in a circle inscribed on the floor and seeing where it goes).
+- It teaches a number of Mastery special abilities (first mentioned in *House of Hermes: True Lineages*), as detailed in their own section below. These require no Initiation, just insight or teaching by a magus with that special ability.
+- It Initiates the Virtue of Withstand Magic, the better to bear the cost of casting Ritual spells.
+- It Initiates the Virtue Hermetic Sacrifice, which allows the power of the ancient altars to be tapped.
+- It teaches in one season Road Magic: new Ranges and Targets. A maga with Mercurian Magic can learn these by teaching; or the maga may be Initiated into it, as with a Minor Virtue.
 
 ## Neo-Mercurian Road Magic: New Ranges and Targets
 
@@ -5058,21 +4737,21 @@ A maga who has Mercurian Magic can be taught to use Road Magic in one season by 
 
 It would be possible for a magus who doesn't have Mercurian Magic to be Initiated into Road Magic as a Minor Virtue — but only if he self-Initiated, or could find someone to prepared to Initiate him.
 
-#### New Range: Road
+**New Range: Road**
 
 A maga may target anyone or anything on the same road or path as her, provided she can sense him somehow. A Road is defined exactly as in the Faerie Magic Virtue (ArM5, page 92). (For purposes of spell level calculation, Road is the same level as Voice.)
 
-#### New Range: Road Network
+**New Range: Road Network**
 
 A maga may cast spells that reach anyone or anything on a road or path connected by an unbroken series of roads or paths to her, provided she can sense him somehow.
 
 Bridges and fords break a road network. Roads also terminate in yards and such, but in general they do form an extensive connected network. (For purposes of spell level calculation, Road Network is the same level as Arcane Connection, and requires ritual magic.)
 
-#### New Target: Road
+**New Target: Road**
 
 The road and anyone or anything on it. The size of a Road is normally measured in lengths: a standard Road size is 100 paces long; it may be any width up to ten paces wide (wider roads require an increased Size or reduced length, but narrow paths do not reduce the Size). (For purposes of spell level calculation, Road is the same level as Room.)
 
-#### New Target: Road Network
+**New Target: Road Network**
 
 A road network and anyone or anything on it. (Connection as in Range Road Network). A standard Road Network is 10,000 paces long; it may be any width up to ten paces wide (wider roads require an increased Size or reduced length, but narrow paths do not reduce the Size). (For purposes of spell level calculation, Road Network is the same level as Boundary, and requires ritual magic.)
 
@@ -5082,7 +4761,7 @@ The Neo-Mercurians find many of their sacred groves confined to regiones in thes
 
 To overcome the difficulty of setting up a Hermetic laboratory in each grove (to enchant a feature of the grove itself), the key is typically a small item, an actual wooden or stone key, that is fashioned elsewhere and brought to the grove. There it is embedded within an appropriate existing item: a large tree, boulder, stone pillar, or such, which protects it and hides it from prying eyes.
 
-#### Key to the Mystic Veil
+##### Key to the Mystic Veil
 
 InVi 30
 
@@ -5096,7 +4775,7 @@ A key to a grove is typically activated by touching the item (or, if it is embed
 
 Some magi prefer to go further and create a Voice range effect, triggered by the supplicant's spoken prayer — if the words reach the device, so does the effect reach the supplicant. Such a device can be very effectively hidden from prying eyes, while having a profound effect on those triggering the device.
 
-#### Hiding the Mystic Key
+##### Hiding the Mystic Key
 
 MuTe(He) 15
 
@@ -5104,41 +4783,41 @@ R: Touch, D: Conc, T: Part
 
 This spell lets the caster soften a rock, pillar, menhir, tree, or other stone or wooden object so that he can mold a cavity, hide a small item, and then close it over as if it had never been changed. This enables him to embed an item under, but near the surface of, a natural feature of a grove — favored for disguising the location of a *Key to the Mystic Veil* item. (The cultist touches the pillar or tree just above the hiding place.)
 
-
-
-Mercurian magicians excel in Formulaic and Ritual Magic, and have developed an extensive range of Mastery Abilities. These Mastery Abilities were originally described in *Houses of Hermes: True Lineages*, but for convenience they are repeated here.
-
-These Mastery Abilities can be learned by any magus who studies with another who knows the ability — if a magus has studied with a maga who knows a particular special Mastery Ability, then any time the magus earns a level in Spell Mastery, he may opt to choose that special ability instead of those in ArM5.
-
-Most magi in the True Lineages prefer to share this specialized knowledge only with their apprentices, although their methods may be written down in books that anyone can read, and it is not impossible for a master to decide to teach a student with very similar goals and loyalties. However, most remain cult secrets, with the exception of Ceremonial Casting (detailed in Chapter 4: Curious Common Magics).
-
-Characters who take Mastered Spells during character creation and who have access to these abilities during apprenticeship may spend their mastery points on them if they wish. They are known by both worshipers of the Cult of Mercury and members of the Neo-Mercurians.
-
-#### Adaptive Casting
-
-This special ability may only be taken for General spells. The magus may use his mastery score and all the special abilities associated with this spell whenever he casts the same spell at a different level.
-
-#### Ceremonial Casting
-
-The maga may use ceremonial methods when casting this spell, increasing the casting time and adding her Artes Liberales and Philosophiae to her total. This cannot be taken for Ritual spells, which always require Ceremonial Casting.
-
-#### Disguised Casting
-
-When casting this spell, the magus may suppress or alter his sigil, to hide his identity or make the spell appear to have been cast by someone else. Since this actually changes his sigil, it is impossible for others to recognize the magus from it, although magi might be able to recognize that a fake sigil is not genuine. When the caster mimics the sigil of another magus, he may add his Spell Mastery score to the roll that determines how difficult it is to recognize.
-
-#### Lab Mastery
-
-The maga understands the theory of this spell so perfectly that she may add her spell mastery score to her Lab Total when designing effects that are similar to it (see Similar Spells, ArM5, page 101). This is in addition to the standard similar spell bonus.
-
-#### Learn From Mistakes
-
-The first time in a session that the magus botches a roll for this spell or fails it by exactly 1 point, he gains 5 experience points toward mastery of this spell. The roll must come up naturally in the course of the story.
-
-#### Stalwart Casting
-
-This spell is less exhausting for the maga. If it is a Ritual, she loses normal Fatigue instead of long-term Fatigue when casting it, and half as many Fatigue levels, rounded up (but always at least 1). If it is formulaic, she never loses Fatigue levels because of a low casting total, even if the spell doesn't succeed.
-
 (Base 3, +1 Conc, +1 Part, +1 stone, +1 for requisite to change wood as well as stone)
+
+> ## Cult of Mercury and Neo-Mercurian Spell Mastery Special Abilities
+> 
+> Mercurian magicians excel in Formulaic and Ritual Magic, and have developed an extensive range of Mastery Abilities. These Mastery Abilities were originally described in *Houses of Hermes: True Lineages*, but for convenience they are repeated here.
+> 
+> These Mastery Abilities can be learned by any magus who studies with another who knows the ability — if a magus has studied with a maga who knows a particular special Mastery Ability, then any time the magus earns a level in Spell Mastery, he may opt to choose that special ability instead of those in ArM5.
+> 
+> Most magi in the True Lineages prefer to share this specialized knowledge only with their apprentices, although their methods may be written down in books that anyone can read, and it is not impossible for a master to decide to teach a student with very similar goals and loyalties. However, most remain cult secrets, with the exception of Ceremonial Casting (detailed in Chapter 4: Curious Common Magics).
+> 
+> Characters who take Mastered Spells during character creation and who have access to these abilities during apprenticeship may spend their mastery points on them if they wish. They are known by both worshipers of the Cult of Mercury and members of the Neo-Mercurians.
+> 
+> #### Adaptive Casting
+> 
+> This special ability may only be taken for General spells. The magus may use his mastery score and all the special abilities associated with this spell whenever he casts the same spell at a different level.
+> 
+> #### Ceremonial Casting
+> 
+> The maga may use ceremonial methods when casting this spell, increasing the casting time and adding her Artes Liberales and Philosophiae to her total. This cannot be taken for Ritual spells, which always require Ceremonial Casting.
+> 
+> #### Disguised Casting
+> 
+> When casting this spell, the magus may suppress or alter his sigil, to hide his identity or make the spell appear to have been cast by someone else. Since this actually changes his sigil, it is impossible for others to recognize the magus from it, although magi might be able to recognize that a fake sigil is not genuine. When the caster mimics the sigil of another magus, he may add his Spell Mastery score to the roll that determines how difficult it is to recognize.
+> 
+> #### Lab Mastery
+> 
+> The maga understands the theory of this spell so perfectly that she may add her spell mastery score to her Lab Total when designing effects that are similar to it (see Similar Spells, ArM5, page 101). This is in addition to the standard similar spell bonus.
+> 
+> #### Learn From Mistakes
+> 
+> The first time in a session that the magus botches a roll for this spell or fails it by exactly 1 point, he gains 5 experience points toward mastery of this spell. The roll must come up naturally in the course of the story.
+> 
+> #### Stalwart Casting
+> 
+> This spell is less exhausting for the maga. If it is a Ritual, she loses normal Fatigue instead of long-term Fatigue when casting it, and half as many Fatigue levels, rounded up (but always at least 1). If it is formulaic, she never loses Fatigue levels because of a low casting total, even if the spell doesn't succeed.
 
 ## Hermetic Sacrifice — Minor Hermetic Mystery Virtue
 
@@ -5150,16 +4829,13 @@ Mercurian magi have worked long to resurrect the ancient sacrificial rites of th
 
 Note that sacrifice implies cooperation by the summoned spirit, so magics that force the spirit (such as True Names) sour the relationship, and spoil the altar for future use.
 
-
-## Chapter Fourteen
-
-# Mystery Cults
+# Chapter 14: Mystery Cults
 
 This chapter outlines several more Mystery Cults that serve as examples of the range of interests and different forms of organization one finds hidden within the Order of Hermes, and that cover the new Virtues available in *The Mysteries Revised Edition*. More cults can be found in chapters that deal with a particular subject; The Green Cockerel, for example, can be found in Chapter 5: Hermetic Alchemy.
 
 As explained in Chapter 3: Storyguiding the Mysteries, not all of these cults will come into play in every saga; indeed it is highly probable that only one or two will ever be important and have player magi join them, while maybe another one or two will be mentioned in passing in a story. As they are Mystery Cults, this is not a problem; very few in the Order of Hermes have heard of them, and to have even heard a rumor of a particular cult's existence usually requires success in a roll of:
 
-#### Communication + Order of Hermes Lore vs. an Ease Factor of 15
+**Communication + Order of Hermes Lore vs. an Ease Factor of 15**
 
 The cults are given little more than brief outlines here, and the true secrets and powers of the organizations, if they exist at all, are left to the individual storyguide and troupe. Sample Initiation Scripts are specified and it is hoped that the examples provided within these pages, together with the rules in Chapter 2, will provide a sound basis for the storyguide when it comes to developing her own esoteric mystery traditions.
 
@@ -5175,7 +4851,7 @@ Even where a system of degrees of Initiation exists, it is exemplary, not prescr
 
 *Heroic defenders of the Order, and heirs to an ancient magical tradition, the Legion of Mithras recruits from among the most loyal members of the Order, although its enemies whisper of secret schemes.*
 
-## The History of the Legion of Mithras
+### The History of the Legion of Mithras
 
 The Legion of Mithras is one of the most public of the Esoteric Mysteries, and it is likely that most in the Order of Hermes have heard at least rumors of this organization.
 
@@ -5199,8 +4875,7 @@ While traditionally the ancient cult was restricted to men, the new form of the 
 
 The degrees of the Legion are referred to as ranks, and are derived from the ancient cult. A quasi-military command structure is enforced; lower ranks unquestioningly respond to the commands of higher Initiates. The system of secret signs and passes is well known within the cult, and all members are aware of the identity of the Legionnaires of the rank immediately above theirs, although they are not aware of the names of those higher in the chain of command. Temple functions maintain anonymity, with all symbolically garbed and masked, both mundanely and magically. It is rumored that Magvillus has a list of all members of the Legion, and chooses its Hoplites from this list in preference to all others, but Legionnaires are taught not to reveal their membership in the cult to Quaesitors, and there are many outside the Legion who wonder if the Legion's claims of a close affiliation with the Quaesitores have any basis in fact. The truth is that no one except the Father of the Legion and the Primus of House Guernicus really know, and neither is speaking on this matter. Whether the Quaesitores as a group support or distrust the Legion, there are certainly Quaesitors within the structure of the Legion. As with most Mystery Cults, much is uncertain and up to the individual storyguide to decide what suits his saga.
 
-The size and scope of the Legion is also widely disputed. It is generally felt that the Legion is large, powerful, and
-
+The size and scope of the Legion is also widely disputed. It is generally felt that the Legion is large, powerful, and well ordered and has spread throughout every Tribunal, but because of the rank system, secrecy, and the Tribunalbased structure no one below the rank of Heliodromus can say for certain. Only very high-ranking members are invited to attend meetings at the Great Temple, the exact location of which is a closely guarded secret, but which legend places in a cavern somewhere in the Tribunal of the Greater Alps. Whether it is a potent and well-organized force of devoted Hoplites, or a small and informal association of mystae, no one can be certain. It could well be that the exact power and influence of the Legion varies from Tribunal to Tribunal; only the storyguide knows for sure. Whatever the truth, the Legion is talked about a great deal, and serves as a basis for many legends and rumors in the Order.
 
 ## Structure of the Legion
 
@@ -5223,34 +4898,17 @@ Brides usually adopt an item of green clothing as a secret sign of their rank. T
 
 #### Third Rank: Soldiers
 
-The Soldiers of Mithras are the heroic champions of the Legion. They are the majority of members, and most never progress beyond this degree of Initiation, or indeed desire to. The Initiation Script almost always calls for a Quest to find and defeat a terrible enemy of the Order, be it a powerful hedge magician, a ravening monster, or a sinister conspiracy. No specific enemy is indicated, but rather the
-
-
-well ordered and has spread throughout every Tribunal, but because of the rank system, secrecy, and the Tribunalbased structure no one below the rank of Heliodromus can say for certain. Only very high-ranking members are invited to attend meetings at the Great Temple, the exact location of which is a closely guarded secret, but which legend places in a cavern somewhere in the Tribunal of the Greater Alps. Whether it is a potent and well-organized force of devoted Hoplites, or a small and informal association of mystae, no one can be certain. It could well be that the exact power and influence of the Legion varies from Tribunal to Tribunal; only the storyguide knows for sure. Whatever the truth, the Legion is talked about a great deal, and serves as a basis for many legends and rumors in the Order.
-
-# Mithraism
-
-The tiny handful of Hermetic scholars who have investigated the matter have little doubt that the roots of the original Mithraic cult were in Zoroastrianism and an astrological mystery. However, the adherents of the Zoroastrian Mysteries (detailed in *Realms of Power: The Divine*) are largely indifferent to the Legion. Mithraism has also been linked to Sol Invictus, but the magi of Sol Invictus and the Legion have little in common today.
-
-prospective Soldier is told of the requirement and left to fulfill it. Some have saved the lives of a Quaesitor; others have assisted a parens in slaying her Marched filius, while others have discovered corruption and been instrumental in bringing justice to bear. The feat must be heroic, and while the assistance of their sodales and the Legion does not discount the value of the act, it must be primarily instituted by, led by, and feature most significantly the prospective Initiate. Once such a story has been enacted, the Initiate is called to the temple again, and undertakes a third season of training, in the course of which he is taught one of the mystical Virtues of the warrior; the Virtue Reserves of Strength or Enduring Constitution.
+The Soldiers of Mithras are the heroic champions of the Legion. They are the majority of members, and most never progress beyond this degree of Initiation, or indeed desire to. The Initiation Script almost always calls for a Quest to find and defeat a terrible enemy of the Order, be it a powerful hedge magician, a ravening monster, or a sinister conspiracy. No specific enemy is indicated, but rather the prospective Soldier is told of the requirement and left to fulfill it. Some have saved the lives of a Quaesitor; others have assisted a parens in slaying her Marched filius, while others have discovered corruption and been instrumental in bringing justice to bear. The feat must be heroic, and while the assistance of their sodales and the Legion does not discount the value of the act, it must be primarily instituted by, led by, and feature most significantly the prospective Initiate. Once such a story has been enacted, the Initiate is called to the temple again, and undertakes a third season of training, in the course of which he is taught one of the mystical Virtues of the warrior; the Virtue Reserves of Strength or Enduring Constitution.
 
 Presented with a lance as a symbol that they have defeated the dragon of iniquity, a blood red cloak is favored by Soldiers, although others adopt the symbol of Mars or a bull, the sign of Mithras, as an emblem of their affinity with the Legion.
 
+> # The Truth About Mithraism
+> 
+> The tiny handful of Hermetic scholars who have investigated the matter have little doubt that the roots of the original Mithraic cult were in Zoroastrianism and an astrological mystery. However, the adherents of the Zoroastrian Mysteries (detailed in *Realms of Power: The Divine*) are largely indifferent to the Legion. Mithraism has also been linked to Sol Invictus, but the magi of Sol Invictus and the Legion have little in common today.
+
 #### Fourth Rank: Lions (Captain)
 
-Very few members of the Legion aspire to the rank of Captain, as the Lions are also known, for the mortality rate and price of service is high. Those who have undoubtedly proven their loyalty to the Legion and the Order learn that the Legion has secrets preserved from the ancient Cult of Mithras. Those who then inquire as to the nature of these secrets,
-
-## The Truth About A Typical Raven Initiation Script
-
-Mystagogues who Initiate aspirants into the Ravens are normally Lions, have gained a Legion of Mithras Lore of at least 6, and usually have a Presence of +1 or higher. They will have been Initiated themselves into the Strong-Willed Virtue, and so with the –3 reduction in target level for the first Initiation after a Minor Ordeal, the Target Level is 12 and an Initiation Script that grants a bonus of +5 is typically employed.
-
-The usual Script has two components: a Quest that must be played through, and a seasonal activity (Sacrifice) undertaken under the Auxiliaries at the temple. The Initiate must complete a lengthy journey, traditionally seeking out and delivering a message to a loyal Legionnaire who is currently deeply immersed in combating the enemies of the Order, and facing whatever perils this throws at him. If he is captured or leads the enemy to the Legionnaire, he is expected to commit suicide if he cannot escape or effect an immediate rescue, rather than betray the secrets of the Legion to the enemy. (+3 Quest)
-
-The Initiate must then dedicate a season to working with the cult on exercises designed to improve his will, enduring harsh conditions and privation, and resisting temptation in the name of duty, which grants exposure in Legion of Mithras Lore and a +1 bonus to the Script. There is a +1 bonus for sympathetic appropriateness, for a total of a +5 Initiation Script.
-
-More arduous Scripts are sometimes employed by less charismatic or lower-ranking Mystagogues with less knowledge of Legion of Mithras Lore, requiring greater efforts on the part of the Initiate. The cult has many varied Scripts at various levels for this Initiation, but rarely uses less than a +5 Script even if the Mystagogue is very capable, as it desires that the Initiate prove his worth. If Strong-Willed is already possessed, another Virtue (such as Self–Confident) is Initiated instead, generally using a similar Script.
-
-and show discretion yet perseverance in doing so, are tested for suitability for admission to the higher degrees. The requirement here is wisdom; candidates who can demonstrate unfailing good judgment are invited, but they must first prove their worth.
+Very few members of the Legion aspire to the rank of Captain, as the Lions are also known, for the mortality rate and price of service is high. Those who have undoubtedly proven their loyalty to the Legion and the Order learn that the Legion has secrets preserved from the ancient Cult of Mithras. Those who then inquire as to the nature of these secrets, and show discretion yet perseverance in doing so, are tested for suitability for admission to the higher degrees. The requirement here is wisdom; candidates who can demonstrate unfailing good judgment are invited, but they must first prove their worth.
 
 The Initiation Script always requires Quests, including one in which the Initiate commands a number of Soldiers and associated Auxiliaries on a mission of vital importance. The Virtue Inscription on the Soul is taught, but the mundane power of the position in the Legion outstrips the benefits of this secret.
 
@@ -5258,20 +4916,27 @@ Lions are also taught the secrets of how the Cult of Mithras presaged Christiani
 
 The Lions are required to spend seven years living at the temple, serving as Initiators and developing the strength of the Legion in their Tribunal (and gaining a +5 bonus to their next Initiation Total, despite the normal limit on the bonus of +1 for time spent serving a Mystery Cult, as seven years is exceptional service). While they maintain their affiliation to their home covenants, and may spend one season a year there fulfilling their duties, they are primarily now involved in deeper mysteries. Many Lions, however, delight in Initiating their covenant mates, and in leading them into heroic adventures in service of the Legion.
 
+> ## A Typical Raven Initiation Script
+> 
+> Mystagogues who Initiate aspirants into the Ravens are normally Lions, have gained a Legion of Mithras Lore of at least 6, and usually have a Presence of +1 or higher. They will have been Initiated themselves into the Strong-Willed Virtue, and so with the –3 reduction in target level for the first Initiation after a Minor Ordeal, the Target Level is 12 and an Initiation Script that grants a bonus of +5 is typically employed.
+> 
+> The usual Script has two components: a Quest that must be played through, and a seasonal activity (Sacrifice) undertaken under the Auxiliaries at the temple. The Initiate must complete a lengthy journey, traditionally seeking out and delivering a message to a loyal Legionnaire who is currently deeply immersed in combating the enemies of the Order, and facing whatever perils this throws at him. If he is captured or leads the enemy to the Legionnaire, he is expected to commit suicide if he cannot escape or effect an immediate rescue, rather than betray the secrets of the Legion to the enemy. (+3 Quest)
+> 
+> The Initiate must then dedicate a season to working with the cult on exercises designed to improve his will, enduring harsh conditions and privation, and resisting temptation in the name of duty, which grants exposure in Legion of Mithras Lore and a +1 bonus to the Script. There is a +1 bonus for sympathetic appropriateness, for a total of a +5 Initiation Script.
+> 
+> More arduous Scripts are sometimes employed by less charismatic or lower-ranking Mystagogues with less knowledge of Legion of Mithras Lore, requiring greater efforts on the part of the Initiate. The cult has many varied Scripts at various levels for this Initiation, but rarely uses less than a +5 Script even if the Mystagogue is very capable, as it desires that the Initiate prove his worth. If Strong-Willed is already possessed, another Virtue (such as Self–Confident) is Initiated instead, generally using a similar Script.
+
 #### Fifth Rank: Persian
 
-This is the highest rank to which player characters are likely to aspire. The origin of the title is lost in the mists of time but is sometimes given as Perseus. Robed in silver, and wearing the sign of Taurus, the Persian is almost always
+This is the highest rank to which player characters are likely to aspire. The origin of the title is lost in the mists of time but is sometimes given as Perseus. Robed in silver, and wearing the sign of Taurus, the Persian is almost always the senior member of the Legion in the Tribunal, and acts as a general. He carries a symbolic sickle made of silver, and the Initiation to this rank usually calls for the sacrifice of the magus's existing talisman, so he can enchant the sickle as a replacement. The Persian is always Initiated into the mystery of spirit familiars, and fully understands many secrets that cannot be made plain here, but are left to the storyguide's devising. The Persian has considerable influence over the members of the Legion, and is invited to the inner rites of the Legion held at the Great Temple, where he will meet those of the sixth rank, both the seven members of the rank of Heliodromus, clad in golden robes, and the Father, clad entirely in Black, who some whisper has long since left this world and remains only as a Living Ghost, forever chained to the temple by duty that extends far beyond death.
 
-
-the senior member of the Legion in the Tribunal, and acts as a general. He carries a symbolic sickle made of silver, and the Initiation to this rank usually calls for the sacrifice of the magus's existing talisman, so he can enchant the sickle as a replacement. The Persian is always Initiated into the mystery of spirit familiars, and fully understands many secrets that cannot be made plain here, but are left to the storyguide's devising. The Persian has considerable influence over the members of the Legion, and is invited to the inner rites of the Legion held at the Great Temple, where he will meet those of the sixth rank, both the seven members of the rank of Heliodromus, clad in golden robes, and the Father, clad entirely in Black, who some whisper has long since left this world and remains only as a Living Ghost, forever chained to the temple by duty that extends far beyond death.
-
-# The Philosophers of Rome
+## The Philosophers of Rome
 
 *Once upon a time, I, by my power, turning air into water, and water again into blood, and solidifying it into flesh, formed a new human creature — a boy — and produced a much nobler work than God the Creator. For He created a man from the earth, but I from air — a far more difficult matter; and again I unmade him and restored him into air, but not until I had placed his picture and image in my bedchamber, as a proof and memorial of my work.*
 
 — Simon Magus, from the *Clementine Recognitiones*
 
-## The History of the Philosophers
+### The History of the Philosophers
 
 This highly secretive group, explicitly non-Christian, is perhaps one of the most deeply hidden Mystery Cults within the Order of Hermes. It claims descent from the arch-heresiarch Simon Magus, who is well known within the Church for his confrontation with the Apostles, depicted in the Bible (Acts 8:9-24). This passage recounts how he attempted to purchase the Holy Spirit, believing it to be a magical secret. Renowned as the father of Gnosticism and false doctrines, Church tradition places him later in Rome where he founded a cult that worshiped him as a god, as attested by St. Justin.
 
@@ -5287,29 +4952,21 @@ While most believe this secret was lost in the Golden Age, and that Daimons are 
 
 ## The Philosophers Today
 
-There are two competing strains in Gnostic thought: the Ascetic, which seeks spiritual purity through mortification of the flesh; and the Sensual, which seeks power and glory, and to achieve immortality through living life to the fullest, especially by enjoying the praise and worship of others, and gratification of the flesh. The Philosophers of Rome are definitely of the latter school, and their reckless pursuit of wine, women (and/or men), and song are a peculiar manifestation of the desire for immortality. The aim of the cult is clear: immortality through achievement of apotheo-
-
-
-
-sis, becoming a god by ascension to the Hall of Heroes. Some whisper that those who achieve this goal are seen in the heavens as a new star, or *nova stella*, but others deride this as legend. Whether it has been, or even can be, achieved is a matter of dispute.
+There are two competing strains in Gnostic thought: the Ascetic, which seeks spiritual purity through mortification of the flesh; and the Sensual, which seeks power and glory, and to achieve immortality through living life to the fullest, especially by enjoying the praise and worship of others, and gratification of the flesh. The Philosophers of Rome are definitely of the latter school, and their reckless pursuit of wine, women (and/or men), and song are a peculiar manifestation of the desire for immortality. The aim of the cult is clear: immortality through achievement of apotheosis, becoming a god by ascension to the Hall of Heroes. Some whisper that those who achieve this goal are seen in the heavens as a new star, or *nova stella*, but others deride this as legend. Whether it has been, or even can be, achieved is a matter of dispute.
 
 The group has a peculiarly paradoxical lifestyle. On the one hand, members engage in rigorous study of ancient theological texts denouncing Gnosticism, to learn from what is condemned the secrets they wish to pursue. (Gnostic manuscripts themselves are treasured but rare; it is often easier to reconstruct from their opponents' denunciation what the correct paths are.) In stark contrast to this scholarly emphasis, they also embrace a passionate love of earthy pleasures and the sins of the flesh. If challenged on their libertine ways, they tend to remark that Scripture teaches there is more joy in Heaven over one sinner who repents than 99 good men, and therefore by repeatedly sinning and repenting they raise themselves in the eyes of God. Such theological cynicism and absurdities are beloved of these deeply heretical cultists, whose only real interest in studies within the Church is to learn the secrets of those whose magical beliefs and practices the Church suppressed.
 
-The licentiousness, depravity, and carnal passions in which these magi indulge are in fact not a mere distraction from the pursuit of the Philosophers' cult, but an important part of their celebration of their own personalities and egos; by pursuing their own desires and creating a legend around themselves and their exploits, and attracting confused worshipers and devotees, they hope to transcend
+The licentiousness, depravity, and carnal passions in which these magi indulge are in fact not a mere distraction from the pursuit of the Philosophers' cult, but an important part of their celebration of their own personalities and egos; by pursuing their own desires and creating a legend around themselves and their exploits, and attracting confused worshipers and devotees, they hope to transcend the flesh by accepting, embracing, and in some sense fulfilling it, allowing them eventually to pass on to greater glory in the next world, prepared for deification by embracing absolutely their humanity in this one. The cultivation of incredible pride and absolute self-confidence are important parts of their path, and while it is said that Alexander the Great had to be reminded he was not a god, it is the honest desire of Philosophers that their friends remind them that they are as gods daily.
 
-## Typical Initiation Script for Philosophers of Rome
+While overconfidence, pride, and an incredible zest for life may seem highly unattractive virtues, they are perhaps not uncommon attributes among Hermetic magi, who already stand far above the mundane crowd in power. Members of the Philosophers believe that their Gift renders them at least potentially immortal and capable of deification. Other magi have in the past wondered if they themselves are entirely human, and the Philosophers see themselves as something more and greater. Oddly, they are often charismatic and popular people, and their bizarre beliefs do not often result in the kind of resentment one might expect. Mere licentiousness and excess alone are not however a path to magical power without the magical and mystical teachings of the cult, they are merely a high road to damnation.
 
-The Philosophers' unique mixture of sensual gratification and scholarly and spiritual concerns leads to very odd Initiation Scripts. The cult tends to attract Initiates with high Presence (which is useful, as self-Initiation after researches in ancient crumbling papyri and devising your own experimental Scripts is common in this cult) and a (Mystery Cult) Lore of at least 6 The Script bonus is usually about +6 for this Initiation.
+> ## Typical Initiation Script for Philosophers of Rome
+> 
+> The Philosophers' unique mixture of sensual gratification and scholarly and spiritual concerns leads to very odd Initiation Scripts. The cult tends to attract Initiates with high Presence (which is useful, as self-Initiation after researches in ancient crumbling papyri and devising your own experimental Scripts is common in this cult) and a (Mystery Cult) Lore of at least 6 The Script bonus is usually about +6 for this Initiation.
+> 
+> A typical Initiation Script for Hermetic Synthemata (usually the first Initiation taught to new Philosophers) is based on an ancient Gnostic papyrus codex recovered from the sands near Alexandria. It has been heavily modified by successive generations of Mystagogues, but still involves the chanting of one thousand and one names of power under a full moon (sympathetic bonus +1), and for the Initiate to be robed in a costly white gown, wearing a golden crown, and barefoot. An expensive incense with rare Middle Eastern herbs must be prepared; the total cost and difficulty in making the arrangements to acquire these things is significant (mundane Sacrifice wealth +1). At least a season must be spent studying with the Mystagogue, to master the basis of Synthemata, the "grammar," of how these potent symbolic expression of the entities' natures are constructed (+3 bonus for Mystagogue sacrificing time). The Mystagogue must be handsomely rewarded, both materially and by the Initiate's labor, requiring a further season of work at the Mystagogue's behest (Initiate sacrifices time +1).
 
-A typical Initiation Script for Hermetic Synthemata (usually the first Initiation taught to new Philosophers) is based on an ancient Gnostic papyrus codex recovered from the sands near Alexandria. It has been heavily modified by successive generations of Mystagogues, but still involves the chanting of one thousand and one names of power under a full moon (sympathetic bonus +1), and for the Initiate to be robed in a costly white gown, wearing a golden crown, and barefoot. An expensive incense with rare Middle Eastern herbs must be prepared; the total cost and difficulty in making the arrangements to acquire these things is significant (mundane Sacrifice wealth +1). At least a season must be spent studying with the Mystagogue, to master the basis of Synthemata, the "grammar," of how these potent symbolic expression of the entities' natures are constructed (+3 bonus for Mystagogue sacrificing time). The Mystagogue must be handsomely rewarded, both materially and by the Initiate's labor, requiring a further season of work at the Mystagogue's behest (Initiate sacrifices time +1).
-
-the flesh by accepting, embracing, and in some sense fulfilling it, allowing them eventually to pass on to greater glory in the next world, prepared for deification by embracing absolutely their humanity in this one. The cultivation of incredible pride and absolute self-confidence are important parts of their path, and while it is said that Alexander the Great had to be reminded he was not a god, it is the honest desire of Philosophers that their friends remind them that they are as gods daily.
-
-While overconfidence, pride, and an incredible zest for life may seem highly unattractive virtues, they are perhaps not uncommon attributes among Hermetic
-
-magi, who already stand far above the mundane crowd in power. Members of the Philosophers believe that their Gift renders them at least potentially immortal and capable of deification. Other magi have in the past wondered if they themselves are entirely human, and the Philosophers see themselves as something more and greater. Oddly, they are often charismatic and popular people, and their bizarre beliefs do not often result in the kind of resentment one might expect. Mere licentiousness and excess alone are not however a path to magical power without the magical and mystical teachings of the cult, they are merely a high road to damnation.
-
-
+### The Structure of the Philosophers of Rome
 
 The Philosophers of Rome form loosely structured congregations of likeminded scholars, and sometimes attract Initiates who act as worshipers, both magical and mundane. Ultimately they hope to use these congregations to provide the necessary power for ascension, although that remains a theoretical ambition for most Philosophers, who tend to succumb to their dissipated lifestyles or accidental death long before they could hope to reach that goal.
 
@@ -5325,7 +4982,7 @@ The final secret requires a considerable number of magi to support the Initiate'
 
 *A magical messianic cult led by a charismatic leader believed to be a living god that is causing outrage and dismay across the Order with its extraordinary claims. Could they be true?*
 
-## The History of The Children of Hermes
+### The History of The Children of Hermes
 
 Most Mystery Cults profess to embody the wisdom of the ancients, yet few due so as literally as the leader of this small yet increasingly active cult that challenges in every way the normal idea of what a Mystery Cult is and how it behaves. Whereas many Mystery Cult members seek to hide from view and to guard their secrets, the Children of Hermes like to bask in their rapidly increasing notoriety within the Order of Hermes. Most Mystery Cults are extremely selective about who they choose to divulge their secrets to and Initiate; the proselytizing and evangelical fervor of the Children of Hermes make them something quite exceptional. Some have gone as far as to suggest it is not a Mystery Cult at all; certainly none of the other cults wish to be associated with it, leading perhaps in no small way to the Children's paranoid obsession with the conspiracy that they believe controls and enslaves the majority of the Order of Hermes.
 
@@ -5335,20 +4992,17 @@ Today he appears as a tanned male of approximately 21 years of age, of incredibl
 
 The cult first came to the attention of the Quaesitores during a visit of the Blessed One to the Hibernian Tribunal, were he made a number of prophecies of the imminent collapse of the Order of Hermes and its control by secret societies. An attempt was made to bring him to trial, yet somehow he convinced the Tribunal of his innocence, and one of the young Quaesitors, Erin, left with him, and today serves at the right hand of the Blessed One as one of his most loyal disciples.
 
-While most cults are rooted in a long and dark history of magical tradition, the Children hold that the Blessed One is none other than Hermes Trismegistus reborn. Among his disciples, he is also believed to have been in previous lives Pythagoras, Simon Magus, Alexander the Great, and a host of other powerful and mythic figures. And he is said to be able to help his followers recall their past
-
-lives — his closest associate and consort, Cleopatra, was apparently the Egyptian queen of that name in a previous life.
+While most cults are rooted in a long and dark history of magical tradition, the Children hold that the Blessed One is none other than Hermes Trismegistus reborn. Among his disciples, he is also believed to have been in previous lives Pythagoras, Simon Magus, Alexander the Great, and a host of other powerful and mythic figures. And he is said to be able to help his followers recall their pastlives — his closest associate and consort, Cleopatra, was apparently the Egyptian queen of that name in a previous life.
 
 Outside of the Inner Circle little is really known of the actual theology or beliefs of the Blessed One, as his teachings are held sacred, but the Quaesitores are sure that he has on occasion made comments that arrogate to himself a messianic role that would have him executed for heresy of the darkest hue should the Church ever catch up with him. While for many this would be a very useful solution to a thorn in the side of the Order, the Blessed One's doctrines dictate that only the Gifted may participate in his system of salvation, and he makes no attempt to proselytize even among the grogs and companions of the Order, who (it is rumored) he has claimed possess the souls of dogs and pigs respectively, reborn in them by metempsychosis.
 
-## The Children of Hermes Today
+### The Children of Hermes Today
 
 While many claims circulate as to the exact teachings and belief of the Blessed One, it is clear that he believes that he must reform the Order, and that a conspiracy of Mystery Cults currently controls almost every covenant. Two of his followers were recently Marched for crimes committed while raiding the covenant of Duresca in the Iberian Tribunal, which Hermetic folklore has long placed as the center of a conspiracy by House Guernicus to control the Order in ages past. Members of the cult often hint darkly of such matters, and suggest that the Sundering of House Tremere was not as effective as the Order chooses to believe, or even that House Diedne may have been entirely innocent of any wrong-doing but destroyed for trying to expose the terrible truth of the Secret Masters. Such allegations generally prove impossible to prove, as witnesses refuse to testify, and those investigating the magus come away after a full and frank personal interview with the belief there may be some truth in his teachings, and that he is in every respect an admirable and useful member of the Order of Hermes.
 
 The exact extent or spread of the Children of Hermes is not known, and rumors currently place the Blessed One as residing in a fortified covenant high on a Carpathian mountain, as a permanent guest at Durenmar, or — perhaps most likely — in a covenant based on a ship endlessly traveling the seas, moving from one Tribunal jurisdiction to another before the Quaesitores can take action against him.
 
-
-## Structure of the Children of Hermes
+### Structure of the Children of Hermes
 
 The Children are an example of a modern cult, founded by an intensely charismatic leader, who claims to have ascended to godhood. How widely they are known is a matter for individual storyguides, but the beliefs of a dark conspiracy, imminent catastrophe, and a magical salvation for the (Gifted) elect by a reborn Hermes are attractive to some disenchanted by the Order, especially younger magi. There are probably no more than 30 members of the cult spread throughout Mythic Europe, with the Inner Circle comprising the Blessed One, Cleopatra, Erin, and four other magi.
 
@@ -5358,24 +5012,22 @@ New Initiation Scripts are sometimes passed around the cult, and those who provi
 
 Books, apprentices, and other resources are also occasionally asked for by the Blessed One's messengers, and rare is the member of the cult who fails to make a "love offering" of this sort. There are rumors of great rites celebrated in secret with Wizard's Communion that lend power to the Blessed One, but little is known to outsiders.
 
-The teachings of the Blessed One are known to be a highly complex magical system of theology that may well have Gnostic or Eastern roots, and that is highly syncretistic, combined with a simple
+The teachings of the Blessed One are known to be a highly complex magical system of theology that may well have Gnostic or Eastern roots, and that is highly syncretistic, combined with a simple system of moral philosophy emphasizing fraternity, love, devotion to the cult, and personal freedom. Accepting all magical truths as expressions of the Greater Truth of the Blessed One, missionaries use the analogy of the Order of Hermes; each House represents a facet of a greater truth, the Order as a whole. Such is their view of the Mysteries; all Mysteries are ultimately to them but fragmented expressions of their own magical and theurgical belief system. Once a fragment of another cult's lore is learned, the Children are able to draw upon it and incorporate it into their own teachings, by assimilating it into the system espoused by the Blessed One, a process always conducted by the Inner Circle. The group therefore has a large and extremely varied selection of Initiation Scripts, which have been modified and experimented with to render them part of its own lore, via a process not known to any other group.
+
+> ## Sample Initiation Script for the Children of Hermes
+> 
+> There is no single method or preferred series of Initiations used by the Children of Hermes, so Scripts vary wildly. It is believed by the Children that the Blessed One mystically influences the Mystagogue's choice, so that choice is always correct for that candidate; any Initiate is always taught the mystery it is right for him to know.
+> 
+> One example Script was once an Initiation used by a small Mystery Cult of witches, and teaches the Major Supernatural Virtue Augury and Divination based on the form of ophiomancy; that is answering questions based on the movements of the sacred snakes in the grove. A typical Mystagogue of the cult is not especially charismatic, so Presence 0 can be assumed, and his Children of Hermes Lore may be as low as 7, so the Initiation Script is designed to give a +14 bonus. It is assumed that the Mystagogue knows the Virtue in question. The Initiate must be quite advanced in cult lore and possess a score of 6 to be Initiated into a Major Virtue.
+> 
+> The first part of the Initiation Script is a Quest to find a sacred grove where the sacred serpents dwell, and to befriend them (+3). Then the Initiate must spend an additional season studying the serpents (+1), while offering costly sacrifices that must be ritually burned on a pyre of cedar, yew, and sandalwood (+1). Finally there is the Ordeal that marks the culmination of the ritual and involves a complex and weird magical ritual that as a byproduct bestows the Major Flaw Study Requirement (+9)
 
 
-## Sample Initiation Script for the Children of Hermes
-
-There is no single method or preferred series of Initiations used by the Children of Hermes, so Scripts vary wildly. It is believed by the Children that the Blessed One mystically influences the Mystagogue's choice, so that choice is always correct for that candidate; any Initiate is always taught the mystery it is right for him to know.
-
-One example Script was once an Initiation used by a small Mystery Cult of witches, and teaches the Major Supernatural Virtue Augury and Divination based on the form of ophiomancy; that is answering questions based on the movements of the sacred snakes in the grove. A typical Mystagogue of the cult is not especially charismatic, so Presence 0 can be assumed, and his Children of Hermes Lore may be as low as 7, so the Initiation Script is designed to give a +14 bonus. It is assumed that the Mystagogue knows the Virtue in question. The Initiate must be quite advanced in cult lore and possess a score of 6 to be Initiated into a Major Virtue.
-
-The first part of the Initiation Script is a Quest to find a sacred grove where the sacred serpents dwell, and to befriend them (+3). Then the Initiate must spend an additional season studying the serpents (+1), while offering costly sacrifices that must be ritually burned on a pyre of cedar, yew, and sandalwood (+1). Finally there is the Ordeal that marks the culmination of the ritual and involves a complex and weird magical ritual that as a byproduct bestows the Major Flaw Study Requirement (+9).
-
-system of moral philosophy emphasizing fraternity, love, devotion to the cult, and personal freedom. Accepting all magical truths as expressions of the Greater Truth of the Blessed One, missionaries use the analogy of the Order of Hermes; each House represents a facet of a greater truth, the Order as a whole. Such is their view of the Mysteries; all Mysteries are ultimately to them but fragmented expressions of their own magical and theurgical belief system. Once a fragment of another cult's lore is learned, the Children are able to draw upon it and incorporate it into their own teachings, by assimilating it into the system espoused by the Blessed One, a process always conducted by the Inner Circle. The group therefore has a large and extremely varied selection of Initiation Scripts, which have been modified and experimented with to render them part of its own lore, via a process not known to any other group.
-
-# The Mystic Fraternity of Samos
+## The Mystic Fraternity of Samos
 
 *The wisdom of Pythagoras is known throughout the Order, and beyond. The Fraternity of Samos preserves what it holds to be his mystical, musical, and mathematical legacy, and, almost uniquely among Mystery Cults, members openly and proudly admit their membership — but never their secrets.*
 
-## The History of the Fraternity of Samos
+### The History of the Fraternity of Samos
 
 A native of the Ionian island of Samos, Pythagoras (circa 560-450 BC) trained in Egypt and became a master mystic/theoretician in Babylon, famous home of magical secrets. Pythagoras returned to Samos to found a school, the Semicircle. He lived in a cave outside the city, where he delved into the mysteries and researched the conundrums of mathematics. Gaining few followers in his native country, he moved to Croton, established a renowned school of philosophy and religion, and began his cult, called the Society. The members of the Society, comprised equally of women and men, dedicated themselves to the pursuit of numerology, purification, friendship, honesty, loyalty, and secrecy. Pythagoras reputedly lived for well over 100 years, before meeting a tragic end at the house of Milo, one of his disciples.
 
@@ -5385,7 +5037,7 @@ The Pythagorean system, with its emphasis on mathematics, harmony, geometry, and
 
 Whatever the truth, the Fraternity of Samos is among the most respectable of the Mystery Cults, both for the moral excellence of its members and for the immense body of learning that it is believed to have preserved, although how far the rites mirror those of antiquity and of Pythagoras himself is open to dispute. Very popular with magi of House Jerbiton, the cult was organized in the early tenth century by Anaximander of Thebes, and it is believed to be based on his Hermetic researches into Pythagorean number theory and Euclidean geometry, and their adaptation to Hermetic magic.
 
-## The Fraternity of Samos Today
+### The Fraternity of Samos Today
 
 The Fraternity of Samos is perhaps misnamed, for while Samos was the birthplace of Pythagoras, the cult does not currently maintain a temple (or as they are known in the Fraternity, a School) on that island. Appealing mainly to those with an interest in mundane scholarship and music, and greatly appreciated by magi of House Jerbiton, the Fraternity is likewise not a brotherhood in the strictest sense, for strict equality of men and women is practiced. Asceticism, combined with academic study and an exhausting curriculum of at least six, and some claim 12, Initiations, prevent many magi from being tempted to explore the mysteries of the cult, but it is rumored there are a sizable number of Initiates who adopted the Pythagorean belief system and seek to master philosophy and mathematics as the first stage in the path that will eventually lead them to magical immortality.
 
@@ -5393,43 +5045,38 @@ There is no real need for secrecy or the cultic framework, for today the Fratern
 
 A large number of Akousmatics (Outer Order Initiates) proudly display their affiliation in Pythagorean symbols worn on their robes, marking them as part of an intellectual and moral elite. The most important sign known of the Akousmatics is that of the pentagram; that used by the Mathematikoi (the Inner Order), gained only by the most dedicated, is the triangle, the most perfect of shapes.
 
-## Beliefs of the Fraternity
+> ## Beliefs of the Fraternity
+> 
+> At its deepest level, reality is mathematical in nature.
+> 
+> Philosophy can be used for spiritual purification.
+> 
+> The soul can rise to union with the divine.
+> 
+> Certain symbols have a mystical significance.
+> 
+> All brothers and sisters of the fraternity should observe strict loyalty and secrecy, and bear responsibility for one another.
+> 
+> We are reborn many times by the process of metempsychosis, or transmigration, in lower forms, such as animals, or as humans, and that eventually one can aspire to ascend beyond mortality and become a magical immortal.
 
-At its deepest level, reality is mathematical in nature.
-
-Philosophy can be used for spiritual purification.
-
-The soul can rise to union with the divine.
-
-Certain symbols have a mystical significance.
-
-All brothers and sisters of the fraternity should observe strict loyalty and secrecy, and bear responsibility for one another.
-
-We are reborn many times by the process of metempsychosis, or transmigration, in lower forms, such as animals, or as humans, and that eventually one can aspire to ascend beyond mortality and become a magical immortal.
 
 ## Structure of the Fraternity of Samos
 
 The Pythagorean Fraternity follows a strict system of Initiation and hierarchy, and is an archetypal Mystery Cult in terms of its degrees of Initiation. It is said that mastery of the complete system, or syllabus, of Initiation takes a minimum of 33 years, but that 84 is the usual figure.
 
-The Fraternity does not follow the exact Initiatory system laid down by the early Pythagoreans, but a variant thereof; the incorporation of the rites into Hermetic theory is justified in that the Initiates had already studied the older mysteries of Pythagoras in previous lives. There is far more emphasis on tests of mundane ability than in most Mystery Cults — it is required that the prospective probationer can pass examinations in philosophiae and artes liberales, which can be represented by having attained a score of 3 in both those abilities. Also required is some ability with a musical instrument as well as theoretical knowledge of music, represented by a score of 1 in Music. These requirements are in addition to the usual Initiation Script and Organization Lore requirements for a first Initiation,
+The Fraternity does not follow the exact Initiatory system laid down by the early Pythagoreans, but a variant thereof; the incorporation of the rites into Hermetic theory is justified in that the Initiates had already studied the older mysteries of Pythagoras in previous lives. There is far more emphasis on tests of mundane ability than in most Mystery Cults — it is required that the prospective probationer can pass examinations in philosophiae and artes liberales, which can be represented by having attained a score of 3 in both those abilities. Also required is some ability with a musical instrument as well as theoretical knowledge of music, represented by a score of 1 in Music. These requirements are in addition to the usual Initiation Script and Organization Lore requirements for a first Initiation, and confer a +1 bonus to the Initiation Script employed.
 
-## Sample Initiation Script for the Fraternity of Samos
-
-The first degree of the Outer Order deals with the principles of mathematics, and Initiates the Virtue Hermetic Numerology. The average Pythagorean Mystagogue may be reasonably charismatic, with a Presence of +1 not being unusual, and very learned in Fraternity of Samos Lore, with that ability at 7. Initiation Scripts with a bonus of +7 are very common, but many variations exist.
-
-Having already proven her ability with Artes Liberales, Mathematics and the other cult Abilities, (+1 special bonus), the Initiate may spend a season studying with the Mystagogue at a School learning the secrets of number magic and the Pythagorean system (+3) before taking a Minor Ordeal Vow to follow the Sacred Precepts of Pythagoras (+3) for a total Initiation Script bonus of +7. Scripts used by Mystagogues with lower Presence or Fraternity of Samos Lore typically add a Quest.
-
-and confer a +1 bonus to the Initiation Script employed.
+> ## Sample Initiation Script for the Fraternity of Samos
+> 
+> The first degree of the Outer Order deals with the principles of mathematics, and Initiates the Virtue Hermetic Numerology. The average Pythagorean Mystagogue may be reasonably charismatic, with a Presence of +1 not being unusual, and very learned in Fraternity of Samos Lore, with that ability at 7. Initiation Scripts with a bonus of +7 are very common, but many variations exist.
+> 
+> Having already proven her ability with Artes Liberales, Mathematics and the other cult Abilities, (+1 special bonus), the Initiate may spend a season studying with the Mystagogue at a School learning the secrets of number magic and the Pythagorean system (+3) before taking a Minor Ordeal Vow to follow the Sacred Precepts of Pythagoras (+3) for a total Initiation Script bonus of +7. Scripts used by Mystagogues with lower Presence or Fraternity of Samos Lore typically add a Quest.
 
 There are two Orders of the Fraternity: the Outer Order, or Akousmatics, and the Inner Order, or Mathematikoi. Initiates must pass through the Akousmatics before admission to the Mathematikoi. The three degrees of the Akousmatics that must be passed through by all members of the Fraternity are, in order:
 
 #### Mathematicus
 
-The first degree of the Fraternity of Samos is that of the Mathematicus. In the original system of Pythagoras it required the development of great skill in mathematics and geometry. Knowledge of mathematics is seen as the basis on which all other knowledge is based, and in the Hermetic system the aspirant is expected to have the skill to demon-
-
-
-
-strate his knowledge of these principles through tests of his artes liberales, which means possessing at least a score of 3 in Artes Liberales (Mathematics) as outlined above. Initiation Scripts usually call for sacrifices of time, to be spent writing books on mundane knowledges, or Quests to seek out and demonstrate wisdom and learning. Initiates are taught the secret of the Virtue Hermetic Numerology.
+The first degree of the Fraternity of Samos is that of the Mathematicus. In the original system of Pythagoras it required the development of great skill in mathematics and geometry. Knowledge of mathematics is seen as the basis on which all other knowledge is based, and in the Hermetic system the aspirant is expected to have the skill to demonstrate his knowledge of these principles through tests of his artes liberales, which means possessing at least a score of 3 in Artes Liberales (Mathematics) as outlined above. Initiation Scripts usually call for sacrifices of time, to be spent writing books on mundane knowledges, or Quests to seek out and demonstrate wisdom and learning. Initiates are taught the secret of the Virtue Hermetic Numerology.
 
 #### Theoreticus
 
@@ -5441,7 +5088,7 @@ The third degree of the Fraternity teaches the application of the principles and
 
 The Initiators also take a lock of hair, which is fixed as a permanent Arcane Connection, and record the Initiate's birth name and signature. Together with the Nativity Horoscope, these provide one who uses these items with a bonus of eight times Penetration score when casting spells against the Initiate. This is similar to the various Flaws relating to Flawed Parma Magica and Limited Magic Resistance, and constitutes an Ordeal for Initiation.
 
-## The Inner Order: Mathematikoi
+#### The Inner Order: Mathematikoi
 
 Next the Initiate enters the Inner Order, the Mathematikoi, and wears robes of black or white, demonstrating her knowledge of the philosophical system, worldly renunciation and spiritual purity. She must abstain from the eating of meat, and that of green beans, which Pythagoras believed to have the potential to act as the recipient for the metempsychosis of souls. In the Languedoc Tribunal the robes have the unfortunate problem that it makes the maga appear to an uninitiated eye much like one of the perfecti of the Cathars, and marking her as a possible heretic.
 
@@ -5478,10 +5125,7 @@ Some say that it was during this campaign, during which the pair often killed fi
 
 There can be little doubt that Vespillo was a changed magus after his great realization. As the ancient magics of those who would not join the Order were lost forever, he increasingly began to seek out the tombs of the wizards of antiquity, disturbing their rest to question them about their long-forgotten magical secrets. He used spells to access the long-buried streets of Pompeii and Herculaneum; he explored Etruscan burial shafts; and finally he led a group of magi deep within the catacombs of Rome, kicking aside early Christian remains as useless to him, passionately searching for the tombs of the Mercurian priesthood.
 
-When he emerged from the catacombs, he was alone. The other magi, including Julius, had perished within, and Vespillo stated calmly that their spirits were now laid to rest. Rumors circulated,
-
-
-but he refused to say exactly what had transpired or what he had found deep beneath the city of Rome.
+When he emerged from the catacombs, he was alone. The other magi, including Julius, had perished within, and Vespillo stated calmly that their spirits were now laid to rest. Rumors circulated, but he refused to say exactly what had transpired or what he had found deep beneath the city of Rome.
 
 Within a year, however, he had founded a new brotherhood, the Disciples of the Worm. His highly secretive group had discovered one of the most potent magical secrets of all: the ability to bind a spirit to power a spell, so that its duration could be extended indefinitely. Dedicated to the pursuit of ancient magical secrets, and surrounded by spirits that they bound to their wills, the disciples began to travel throughout Mythic Europe seeking the tombs of ancient wizards. Many perished at the hands of grim grave guardians or deadly exotic magics, while others were driven insane by terrible insights from beyond the grave, but slowly the cult gained power and influence.
 
@@ -5491,15 +5135,14 @@ The Disciples of the Worm have been accused repeatedly of infernalism or practic
 
 Very little is known in the Order of this most secretive of Mystery Cults, and it is almost universally abhorred. Rumors of breaches of the Code, of dead magi bound as spirit familiars, and of obscene rites and even human sacrifice abound, yet it seems clear that in fact the Worm cult merely seeks magical knowledge and power by an unusual, and some would say unsavory, method. No one is going to admit to membership, however, and while there are rumors that the secrets of the Disciples have saved the Order many times, and that they are an altruistic group dedicated to protecting magi and serving the Code occasionally surface, no one really believes them.
 
-Today there are far fewer undiscovered pagan burials, and the cult has moved slightly more toward application
+> ## Example Initiation Script for the Disciples
+> 
+> The Disciples of the Worm can possess Presence as much as any other magi, but as their reputation is perhaps a little dark its assumed that a Mystagogue with Presence 0 is the best available to aspiring new Initiates. The Mystagogue will normally possess a Worm Lore of at least 6; a +9 Script is commonly employed to Initiate second degree disciples into the Mysteries of spell binding.
+> 
+> The Initiate must spend a season working for the cult first, transcribing copies of Lab Texts on the creation of enchanted devices (+1). She is then taken to an ancient catacomb, and must survive a test of her endurance by entering the ancient tombs and spending a period there, surviving whatever terrors come at them and trying to locate an item concealed by the Mystagogue (+3). There follows a season of being taught by the Mystagogue the actual secrets of Hermetic Evocation (+3); the talent is only awakened at the end of the season when she, dressed in a shroud, must enter a tomb with the Mystagogue and there make lavish offerings to the spirits, (+1), and undergo the terrifying rite (sympathetic bonus +1), for a total of +9.
 
-## Example Initiation Script for the Disciples
 
-The Disciples of the Worm can possess Presence as much as any other magi, but as their reputation is perhaps a little dark its assumed that a Mystagogue with Presence 0 is the best available to aspiring new Initiates. The Mystagogue will normally possess a Worm Lore of at least 6; a +9 Script is commonly employed to Initiate second degree disciples into the Mysteries of spell binding.
-
-The Initiate must spend a season working for the cult first, transcribing copies of Lab Texts on the creation of enchanted devices (+1). She is then taken to an ancient catacomb, and must survive a test of her endurance by entering the ancient tombs and spending a period there, surviving whatever terrors come at them and trying to locate an item concealed by the Mystagogue (+3). There follows a season of being taught by the Mystagogue the actual secrets of Hermetic Evocation (+3); the talent is only awakened at the end of the season when she, dressed in a shroud, must enter a tomb with the Mystagogue and there make lavish offerings to the spirits, (+1), and undergo the terrifying rite (sympathetic bonus +1), for a total of +9.
-
-of its unrivaled knowledge of summoning, controlling, and binding spirits into its magics, and away from the magical interrogation and torture of the dead in the hope of learning their secrets, although both practices continue. Very occasionally a Disciple will meet with high-ranking mystae from other cults to trade secrets or favors, and the usual contact for such deals is the only known member of the Worm cult, the necromancer Pertinax of Tytalus, who travels throughout Mythic Europe leaving nightmares and shaken magi wherever he stays. A less-than-ideal dinner guest, he is said to take delight in whispering some of the more macabre secrets of the grave to any freshly Gauntleted magi he encounters, although he never betrays cult rites.
+Today there are far fewer undiscovered pagan burials, and the cult has moved slightly more toward application of its unrivaled knowledge of summoning, controlling, and binding spirits into its magics, and away from the magical interrogation and torture of the dead in the hope of learning their secrets, although both practices continue. Very occasionally a Disciple will meet with high-ranking mystae from other cults to trade secrets or favors, and the usual contact for such deals is the only known member of the Worm cult, the necromancer Pertinax of Tytalus, who travels throughout Mythic Europe leaving nightmares and shaken magi wherever he stays. A less-than-ideal dinner guest, he is said to take delight in whispering some of the more macabre secrets of the grave to any freshly Gauntleted magi he encounters, although he never betrays cult rites.
 
 ## Structure of The Disciples of the Worm
 
@@ -5509,63 +5152,50 @@ Initiates are divided into seven degrees, each of which teaches a new Virtue to 
 
 The degrees reflect the grim fascination of the cult:
 
-- The first degree teaches the Supernatural Ability Second Sight. This is extremely useful in the work of the cult. The lowest-ranking members of the cult, they are privy to few, if any, secrets of the cult. •
-- Second Degree Initiates learn the Minor Virtue Spell Binding, a powerful rite that allows minor magical spirits or ancient ghosts to be bound into spells to sustain them. •
-- The third degree is a difficult one to reach; the Initiation Script always demands the Initiate must enter an undesecrated pagan tomb and force the spirit within to reveal a magical secret unknown to the cult. Many perish in this task. For those who succeed, the reward is the Virtue Hermetic Empowerment. •
-- The fourth degree teaches some of the ancient magics the cult has learned, as represented by the Virtue Inscription on the Soul. •
-- The fifth degree Initiates the Minor Virtue Potent Magic: Ghosts. Such •
-
-
-Initiates now are told of the cult's secret repository of magical texts, and suitable candidates are taught the true aims of the cult. Unsuitable candidates never attain this rank.
-
-- The sixth degree teaches the Initiate how to properly coerce, bind, and intimidate the spirits of the dead, and teaches the binding of a spirit familiar. •
-- The seventh degree teaches the Major Virtue Living Ghost. On being ritually killed and bound to one of the cult's sacred places, one attains the seventh degree; his magic is now forever available to the cult, which is keen to keep its members long beyond this life. •
+- The first degree teaches the Supernatural Ability Second Sight. This is extremely useful in the work of the cult. The lowest-ranking members of the cult, they are privy to few, if any, secrets of the cult.
+- Second Degree Initiates learn the Minor Virtue Spell Binding, a powerful rite that allows minor magical spirits or ancient ghosts to be bound into spells to sustain them.
+- The third degree is a difficult one to reach; the Initiation Script always demands the Initiate must enter an undesecrated pagan tomb and force the spirit within to reveal a magical secret unknown to the cult. Many perish in this task. For those who succeed, the reward is the Virtue Hermetic Empowerment.
+- The fourth degree teaches some of the ancient magics the cult has learned, as represented by the Virtue Inscription on the Soul.
+- The fifth degree Initiates the Minor Virtue Potent Magic: Ghosts. Such Initiates now are told of the cult's secret repository of magical texts, and suitable candidates are taught the true aims of the cult. Unsuitable candidates never attain this rank.
+- The sixth degree teaches the Initiate how to properly coerce, bind, and intimidate the spirits of the dead, and teaches the binding of a spirit familiar.
+- The seventh degree teaches the Major Virtue Living Ghost. On being ritually killed and bound to one of the cult's sacred places, one attains the seventh degree; his magic is now forever available to the cult, which is keen to keep its members long beyond this life.
 
 ## The Knights of the Green Stone
 
 *Magical questing troubadours, seeking a stone that fell from Heaven. Poets, Lovers, and Chivalrous Warriors, they seek the ultimate secrets of Creation, not the Holy Grail.*
 
-## History of the Knights of the Green Stone
+### History of the Knights of the Green Stone
 
 Within the Rhine the minnesingers are the great knightly poets, lovers, and troubadours of the chivalric tradition. The name derives from Minnesang, meaning lyric poem, and in the 12th and 13th centuries the minor German nobles began a tradition of writing these poems to married ladies of higher rank, expressing their passionate love and bemoaning the lady's cruel rejection. Highly formalized as part of the tradition of the Courts of Love, the minnesingers also praised war, tournaments, valor, and the perfect manners of the gentle knight, well-versed in the arts of etiquette. Yet they were no mere minstrels, but rather heroic knights who lived by the principles they extolled as they sang their poems to the courts of Germany, accompanied by a lyre or harp they played as they sang.
 
-Within the group of over 300 noble minnesingers, there exists a small Mystery Cult of Hermetic magi who add their magical power to the undoubted talents possessed by all minnesingers. The Knights of the Green Stone extol the virtues of chivalry, love (a mystery beyond Hermetic magic!), and heroism, and embody these virtues in their quest for the Stone of Creation, a mysterious rock said to have fallen from Heaven before time began. Some say it is the key to eternal life, while others whisper that it was a great gem set in the brow of Lucifer, and sent flying to Earth by a blow of Michael's sword as Lucifer was dealt the terrible blow that sent him
-
-tumbling from Heaven.
-
-Others claim the stone was later carved into the Holy Grail, and only when it is found will Jerusalem finally be forever secure in the hands of the Christians, and the heathens forever defeated. Some legends claim that as a stone from beyond the Lunar Sphere, it is the source of magics that are beyond understanding, and that could reshape Creation to the desires of its wielder.
+Within the group of over 300 noble minnesingers, there exists a small Mystery Cult of Hermetic magi who add their magical power to the undoubted talents possessed by all minnesingers. The Knights of the Green Stone extol the virtues of chivalry, love (a mystery beyond Hermetic magic!), and heroism, and embody these virtues in their quest for the Stone of Creation, a mysterious rock said to have fallen from Heaven before time began. Some say it is the key to eternal life, while others whisper that it was a great gem set in the brow of Lucifer, and sent flying to Earth by a blow of Michael's sword as Lucifer was dealt the terrible blow that sent him tumbling from Heaven. Others claim the stone was later carved into the Holy Grail, and only when it is found will Jerusalem finally be forever secure in the hands of the Christians, and the heathens forever defeated. Some legends claim that as a stone from beyond the Lunar Sphere, it is the source of magics that are beyond understanding, and that could reshape Creation to the desires of its wielder.
 
 Magic stones and the peculiar magic properties of stones that fall from Heaven are not unknown to the Order of Hermes or medieval society, such as the one that bestowed invincibility in combat which Hubert de Burgh was supposed to have stolen from the royal treasury. The classic text for the magical use of such gems is the 11th century *Lapidary* of Bishop Marbode of Rennes. Although there was some skepticism over some of the claims, such lapidaries were defended by Gervase of Tilbury, and authorship of one was even ascribed to King Alfonso the Wise of Castile and Leon.
 
-The Knights of the Green Stone were founded at the Wartburgskrieg, or
-
-> Tourney of Poets, in the first years of the 13th century, when the minnesingers competed at a German court for favor and honor (see the Ars Magica supplement *Guardians of the Forests*). One competitor, Gunnar von Falster, a knight of Danish origin, was also a member of House Tytalus and a great lover of challenge, romance, and epic adventure. Recognizing other magi among the throng, he told the strange story he had heard from a beautiful maiden in an enchanted castle deep within a regio in the forests of East Prussia. She had told him of the Green Stone, and charged him to found a company of magician knights of the highest noble virtue who would undertake this adven-
-
-ture. The story was soon confirmed by strange omens, weird apparitions, and a misshapen dwarf who came among the gathering of magi that night, leading a unicorn on a halter made entirely of emeralds, and who said that what was spoken was true.
+The Knights of the Green Stone were founded at the Wartburgskrieg, or Tourney of Poets, in the first years of the 13th century, when the minnesingers competed at a German court for favor and honor (see the Ars Magica supplement *Guardians of the Forests*). One competitor, Gunnar von Falster, a knight of Danish origin, was also a member of House Tytalus and a great lover of challenge, romance, and epic adventure. Recognizing other magi among the throng, he told the strange story he had heard from a beautiful maiden in an enchanted castle deep within a regio in the forests of East Prussia. She had told him of the Green Stone, and charged him to found a company of magician knights of the highest noble virtue who would undertake this adventure. The story was soon confirmed by strange omens, weird apparitions, and a misshapen dwarf who came among the gathering of magi that night, leading a unicorn on a halter made entirely of emeralds, and who said that what was spoken was true.
 
 That very night the Cult of the Knights of the Green Stone was born, and despite the requirement that Initiates should live as knights errant, whatever their real background, practice the graces of Etiquette, Music, and Charm, and incorporate themselves into noble society, many magi of House Jerbiton and House Tytalus in particular find the challenge and mystery irresistible. Swearing vows of chivalry and romance, they set out upon the epic quest. It is said that deep within the Rhine Tribunal in a forest the Knights maintain a castle where their secrets are hoarded, and Initiations conferred, yet no outsider knows the truth of this.
 
 
-## Example Initiation Script for the Green Stone
+> ## Example Initiation Script for the Green Stone
+> 
+> The first Virtue taught is Free Expression, and the Mystagogue is usually at least a Squire with Green Stone Lore 4 or higher, and a positive Presence. This Initiation Script confers a +7 bonus; it contains a Minor Ordeal that lowers the target level for this Initiation to 12. The new Initiate for the Knights always faces the same challenge as part of the Initiation Script: using Parzival as her guide, she must find the castle of the Knights, and journey there to arrive and present herself for Initiation on the feast of Pentecost (+3). She swears oaths to maintain the rules of the Order, and behave chivalrously, courteously, and bravely. This is the Minor Ordeal, which creates the flaw Dutybound (+3), and the Initiate then must accept the great mundane cost of outfitting herself in the garb of a noble knight, which grants a +1 bonus for the sacrifice.
+> 
+> Some Initiates have to learn spells that allow them to magically render a horse docile and unafraid of their Gift, but traditionally the Knights appeal mostly to Gentle Gifted magi.
+> 
+> It is also a requirement of the Initiation that the new page should study the ability Music to a score of at least 1.
 
-The first Virtue taught is Free Expression, and the Mystagogue is usually at least a Squire with Green Stone Lore 4 or higher, and a positive Presence. This Initiation Script confers a +7 bonus; it contains a Minor Ordeal that lowers the target level for this Initiation to 12. The new Initiate for the Knights always faces the same challenge as part of the Initiation Script: using Parzival as her guide, she must find the castle of the Knights, and journey there to arrive and present herself for Initiation on the feast of Pentecost (+3). She swears oaths to maintain the rules of the Order, and behave chivalrously, courteously, and bravely. This is the Minor Ordeal, which creates the flaw Dutybound (+3), and the Initiate then must accept the great mundane cost of outfitting herself in the garb of a noble knight, which grants a +1 bonus for the sacrifice.
-
-Some Initiates have to learn spells that allow them to magically render a horse docile and unafraid of their Gift, but traditionally the Knights appeal mostly to Gentle Gifted magi.
-
-It is also a requirement of the Initiation that the new page should study the ability Music to a score of at least 1.
-
-## The Knights of the Green Stone Today
+### The Knights of the Green Stone Today
 
 Less than 20 years old, the Mystery Cult is still in expanding, and many say there are signs the quest is soon to be completed, while others believe that the goal may be years off. The Knights have recently turned their attention to the Baltic shoreline, following rumors of the Green Stone, while others have journeyed deep into the Levant, and some quest in places as remote as Loch Leglean, Hibernia, and Iberia. Wherever the quest takes them, strange magical creatures and weird omens appear from time to time, guiding them toward resolution of the mystery.
 
 The cult recruits largely from those who have become fascinated by the minnesinger Wulfram Von Eschenbach's epic poem *Parzival*, which is said to contain a coded allegory about the Knights and their quest, and even symbolic direction to find their Grail Castle, the cult headquarters. Outwardly a story of Sir Percival's quest for the Holy Grail, it is rumored that Gunnar Von Falster composed the epic himself as an allegory to promote his cult, then "handed it on" to Wulfram Von Eschenbach using magic. The truth or otherwise of this claim is open to dispute, but there can be little doubt that the mystical brotherhood is very serious about their quest, and skilled in the use of Performance Magic: Music, or, as they call it, Sorcerous Poetry. The magi knights also practice a strange tradition: Almost all choose their shields to act as their talismans, and believe that in some magical sense their heraldry dictates what role they will play in the completion of the Great Adventure.
 
-## Structure of the Knights of the Green Stone
+### Structure of the Knights of the Green Stone
 
 All of the Knights of the Green Stone are first and foremost magi of the Order of Hermes, and despite their epic adventures and wanderings, most still spend most of each year at their home covenants learning magic and working on projects like any other magus, yet dreaming of their next chance to participate in the glorious quest. Surprisingly, women are admitted as full members, but they are expected to don arms and armor and pass themselves as men while upon the quest — among the unGifted folk at least.
 
-While taking on the role of knights, there is no need to swear a vow of fealty to a mundane noble; indeed the taking of such a lord is expressly forbidden. The cult maintains a headquarters, referred to as the Castle of the Grail, probably within the Rhine Tribunal, although others have placed it elsewhere, leading some interested outsiders to speculate that it may
-
+While taking on the role of knights, there is no need to swear a vow of fealty to a mundane noble; indeed the taking of such a lord is expressly forbidden. The cult maintains a headquarters, referred to as the Castle of the Grail, probably within the Rhine Tribunal, although others have placed it elsewhere, leading some interested outsiders to speculate that it may be in a regio with several entrances that move across Mythic Europe, facilitating easy access to the remote wildernesses and eastern cities where much of the quest seems to be undertaken. The cult knows, but is not saying.
 
 The Knights divides its Initiates into three degrees, each of which offers up to three Initiations. Members may choose to take more Initiations at the same degree after their first, or progress directly to the next degree, forsaking the other powers on offer. All members play the role of knights, and having adopted that status in public may be considered to possess that Minor Status Virtue for free, but the benefits thereof, a horse and armor, must be provided by the magi. No Initiation is required for this Virtue, as really the magi remains a Hermetic magus merely acting out a role.
 
@@ -5582,9 +5212,7 @@ The middle rank of the Cult of the Knights of the Green Stone, the Squires are e
 The heroic leaders of the quest, who meet regularly on the feast of Pentecost to discuss progress and new revelations. They learn the Virtues Planetary Magic, Major Magical Focus: Gemstones or Potent Magic: Gemstones, and Hermetic True Names as they pursue the mystery of the elusive Stone.
 
 
-## Appendix A
-
-# Immortal Magi
+# Appendix A: Immortal Magi
 
 The only truly immortal magi are those who have transformed themselves to become beings of one of the supernatural realms, in the process ceasing to be human.
 
@@ -5598,7 +5226,7 @@ An immortal also sacrifices change for everlasting continuity, and in consequenc
 
 However, if an immortal desires to change, then magic can do what nature resists. An immortal magus may make learning permanent by binding knowledge into his talisman, if he has one.
 
-## Immortal Beings and Permanent Change
+### Immortal Beings and Permanent Change
 
 Immortal beings resist change, and have a natural tendency to return to their basic immortal selves. Those who are recently transformed often wish to continue their studies, and thus seek ways to reinforce their learning so that it does not fade away.
 
@@ -5616,7 +5244,7 @@ An immortal should be especially careful not to lose the device, as it contains 
 
 The immortal transformation informs the magus how to perform these rites — once a magus is immortal, it seems obvious, but mortal magi lack the insight, which comes from the Mysteries.
 
-#### Binding the Immortal Memory
+##### Binding the Immortal Memory
 
 CrMe Gen
 
@@ -5624,22 +5252,19 @@ Pen +0, constant effect
 
 R: Per, D: Always on, T: Ind, Mystery enchantment
 
-This enchantment binds a learned study period into the magus's talisman, so that the magus retains the benefits of
-
-
-## Becoming Immortal with a Familiar
-
-A mortal magus's familiar will not die of old age as long as the magus is alive, and only suffers ill effects from aging when the magus does; the familiar ages along with the magus, generally dying a few days before or some weeks after the magus (ArM5, page 105).
-
-As the paths to immortality variously involve dying, removing from the world, or transforming into an alchemical being, these changes would normally sever the link to the familiar, and leave it to die. However, the existing bond to the familiar allows the magus to draw it along his chosen path to join the magus in his immortal state: ghostly, Daimonic, or as an alchemical magical beast.
-
-In game terms, the magus must add extra raw vis to his transformation rite, equal to their Familiar Bond Score/5 (round up). If this is done, the familiar transforms along with her magus, otherwise she remains as a mortal beast, severed from the new immortal, and will die soon.
-
-A magus with a spirit familiar benefits, as his familiar is already an immortal disembodied spirit: no extra vis is needed to transform a spirit familiar.
-
-study. If the talisman is destroyed, any study bound into it is lost. The Effect level needed is 10 x XP to be retained. The effect must be completed in one season or all new experience points will be lost to the repair effect. If the full effect cannot be invested in a single season, a lesser enchantment can be used to retain some XP, losing the remainder.
+This enchantment binds a learned study period into the magus's talisman, so that the magus retains the benefits of study. If the talisman is destroyed, any study bound into it is lost. The Effect level needed is 10 x XP to be retained. The effect must be completed in one season or all new experience points will be lost to the repair effect. If the full effect cannot be invested in a single season, a lesser enchantment can be used to retain some XP, losing the remainder.
 
 (Mystery Guideline level)
+
+> ## Becoming Immortal with a Familiar
+> 
+> A mortal magus's familiar will not die of old age as long as the magus is alive, and only suffers ill effects from aging when the magus does; the familiar ages along with the magus, generally dying a few days before or some weeks after the magus (ArM5, page 105).
+> 
+> As the paths to immortality variously involve dying, removing from the world, or transforming into an alchemical being, these changes would normally sever the link to the familiar, and leave it to die. However, the existing bond to the familiar allows the magus to draw it along his chosen path to join the magus in his immortal state: ghostly, Daimonic, or as an alchemical magical beast.
+> 
+> In game terms, the magus must add extra raw vis to his transformation rite, equal to their Familiar Bond Score/5 (round up). If this is done, the familiar transforms along with her magus, otherwise she remains as a mortal beast, severed from the new immortal, and will die soon.
+> 
+> A magus with a spirit familiar benefits, as his familiar is already an immortal disembodied spirit: no extra vis is needed to transform a spirit familiar.
 
 *Example: A maga studies a tractatus with Quality 10 for a season. The next season, she instills another Binding the Immortal Memory effect into her talisman. She has a Creo Mentem lab total of 90, and can invest a level 45 effect in one season. This is enough to permanently bind 4 XP (a level 40 effect), but she will lose the remaining 6 XP.*
 
@@ -5647,7 +5272,7 @@ study. If the talisman is destroyed, any study bound into it is lost. The Effect
 
 When an immortal magus learns a spell then, again, the natural tendency of the immortal spirit is to repair itself over the next season, so the spell fades from memory unless prevented. The magus can bind the knowledge of a spell by creating an enchantment in his talisman. This requires already opened spaces in the talisman.
 
-**The Immortal's Grimoire**
+##### The Immortal's Grimoire
 
 ReVi Gen
 
@@ -5677,59 +5302,57 @@ If the roll is botched, the magus fails to notice the mismatch and ruins the inv
 
 Once the Effect has been invested, the magus may invest the *Immortal's Grimoire* Effect over a number of seasons.
 
+> ## Immortal and Unchanging
+> 
+> The unchanging nature of the immortal means that while temporary changes are possible, they fade unless bound by magic. If a change is caused by a magical effect with a duration longer than Momentary, recovery or fading does not begin until the effect expires.
+> 
+> As a guideline, once the cause ends, no unbound, temporary change lasts beyond a season — after a season all trace will have faded. If a whole season passes, then simply assume that wounds and scars fade completely — no die roll is needed.
+> 
+> **Any Temporary, Unbound Change will Fade Completely over a Season.**
+> 
+> An immortal with a body may be wounded, and if the wound is deep enough (beyond Incapacitated), he can die. If he is wounded but does not die, then his wounds will always heal. In game terms, if you need to monitor wounds over a short period, then make a Recovery Roll for every wound once per week (regardless of severity), and no wound worsens — a wound can only remain stable or improve. Since the immortal cannot get drastically worse, the normal stress roll becomes a simple roll.
+> 
+> If a whole season passes, just assume that all wounds fade completely; this includes regenerating crushed or severed limbs. (Recovery from wounds is detailed on ArM5, page 179, and summarized below.)
+> 
+> **Recovery Total: Simple Die + Stamina + Medic's Chirurgy or Medicine Score + Magical Aid**
+> 
+> **Roll to Recover from Incapacity at Sunrise and Sunset: If the Recovery Roll is 9+, all Incapacitating Wounds Improve to Heavy Wounds, other-** **wise the Immortal Remains Stable but Incapacitated.**
+> 
+> **Roll to Recover from Light, Medium, and Heavy Wounds Once per Week: Improve if Recovery Total is 10+ (Light Wounds), 12+ (Medium Wounds), 15+ (Heavy Wounds), Otherwise an Immortal's Wound is Stable (+3 Bonus to Future Rolls)**
+> 
+> A ghost may be wounded by other ghosts, but its wounds disappear within a day (see Chapter 8: Hermetic Spirit Magic, Ghosts in Ars Magica). An Aspect of a Daimon may be wounded if it takes bodily form, but can be discarded at will — the Daimon cannot be killed by bodily wounds to an Aspect.
+> 
+> Mental changes, such as those inflicted by spells or powers, recover similarly. Other spells can be compared across guidelines, or an approximation can be used. If the speed of recovery matters, compare the effect with wound-causing magics, rate the loss on the wound scale, and make recovery rolls as above.
+> 
+> If a whole season passes, assume all trace fades without rolling.
+> 
+> **Recover from Mental Changes as a Comparable Physical Wound.**
+> 
+> See the accompanying table.
+> 
+> Might damage, such as from Perdo Vim magics equivalent to *Demon's Eternal Oblivion*, only results in temporary Might loss if the spirit is not utterly destroyed — full Might recovers by the next day.
+> 
+> The sacrifice or drain of Might Score caused by Mystery rites or rituals is a permanent loss, although methods exist to improve Might Score. For example, a Living Ghost may sacrifice Might Score points to replace vis in spells, but may increase his Might Score later by repeating his *Transformation of the Living Ghost* ritual.
+> 
+> | Spell GL | Heal as        | Perdo Corpus Effect                     | Perdo Mentem Effect                                |
+> |----------|----------------|-----------------------------------------|----------------------------------------------------|
+> | 3        | Light Wound    |                                         | Remove minor detail of memory.                     |
+> | 4        | Light Wound    |                                         | Remove important detail of memory. Diminish mental capability. |
+> | 5        | Light Wound    | Inflict Light Wound.                    |                                                    |
+> | 10       | Medium Wound   |                                         | Remove minor memory. Reduce all mental capabilities. |
+> | 15       | Medium Wound   | Cripple a limb.                         |                                                    |
+> | 15       | Heavy Wound    | Destroy minor sense.                    | Remove a major memory, or all emotions. Drive insane. |
+> | 20       | Heavy Wound    | Destroy a major sense.                  |                                                    |
+> | 20       | Incapacitating | Incapacitating Wound. Destroy or sever a limb. |                                             |
+> | 25       | Incapacitating |                                         | Leave a mindless husk.                             |
+> | 30       | Dead           | Kill a person.                          |                                                    |
 
 
-The unchanging nature of the immortal means that while temporary changes are possible, they fade unless bound by magic. If a change is caused by a magical effect with a duration longer than Momentary, recovery or fading does not begin until the effect expires.
-
-As a guideline, once the cause ends, no unbound, temporary change lasts beyond a season — after a season all trace will have faded. If a whole season passes, then simply assume that wounds and scars fade completely — no die roll is needed.
-
-**Any Temporary, Unbound Change will Fade Completely over a Season.**
-
-An immortal with a body may be wounded, and if the wound is deep enough (beyond Incapacitated), he can die. If he is wounded but does not die, then his wounds will always heal. In game terms, if you need to monitor wounds over a short period, then make a Recovery Roll for every wound once per week (regardless of severity), and no wound worsens — a wound can only remain stable or improve. Since the immortal cannot get drastically worse, the normal stress roll becomes a simple roll.
-
-If a whole season passes, just assume that all wounds fade completely; this includes regenerating crushed or severed limbs. (Recovery from wounds is detailed on ArM5, page 179, and summarized below.)
-
-**Recovery Total: Simple Die + Stamina + Medic's Chirurgy or Medicine Score + Magical Aid**
-
-**Roll to Recover from Incapacity at Sunrise and Sunset: If the Recovery Roll is 9+, all Incapacitating Wounds Improve to Heavy Wounds, other-** **wise the Immortal Remains Stable but Incapacitated.**
-
-**Roll to Recover from Light, Medium, and Heavy Wounds Once per Week: Improve if Recovery Total is 10+ (Light Wounds), 12+ (Medium Wounds), 15+ (Heavy Wounds), Otherwise an Immortal's Wound is Stable (+3 Bonus to Future Rolls)**
-
-A ghost may be wounded by other ghosts, but its wounds disappear within a day (see Chapter 8: Hermetic Spirit Magic, Ghosts in Ars Magica). An Aspect of a Daimon may be wounded if it takes bodily form, but can be discarded at will — the Daimon cannot be killed by bodily wounds to an Aspect.
-
-Mental changes, such as those inflicted by spells or powers, recover similarly. Other spells can be compared across guidelines, or an approximation can be used. If the speed of recovery matters, compare the effect with wound-causing magics, rate the loss on the wound scale, and make recovery rolls as above.
-
-If a whole season passes, assume all trace fades without rolling.
-
-**Recover from Mental Changes as a Comparable Physical Wound.**
-
-See the accompanying table.
-
-Might damage, such as from Perdo Vim magics equivalent to *Demon's Eternal Oblivion*, only results in temporary Might loss if the spirit is not utterly destroyed — full Might recovers by the next day.
-
-The sacrifice or drain of Might Score caused by Mystery rites or rituals is a permanent loss, although methods exist to improve Might Score. For example, a Living Ghost may sacrifice Might Score points to replace vis in spells, but may increase his Might Score later by repeating his *Transformation of the Living Ghost* ritual.
-
-| Spell GL | Heal as        | Perdo Corpus Eff<br>ect                           | Perdo Mentem<br>Eff<br>ect                                           |
-|----------|----------------|---------------------------------------------------|----------------------------------------------------------------------|
-| 3        | Light Wound    |                                                   | Remove minor detail of<br>memory.                                    |
-| 4        | Light Wound    |                                                   | Remove important detail<br>of memory. Diminish<br>mental capability. |
-| 5        | Light Wound    | Inflict Light Wound.                              |                                                                      |
-| 10       | Medium Wound   |                                                   | Remove minor mem<br>ory. Reduce all mental<br>capabilities.          |
-| 15       | Medium Wound   | Cripple a limb.                                   |                                                                      |
-| 15       | Heavy Wound    | Destroy minor sense.                              | Remove a major mem<br>ory, or all emotions.<br>Drive insane.         |
-| 20       | Heavy Wound    | Destroy a major sense.                            |                                                                      |
-| 20       | Incapacitating | Incapacitating Wound.<br>Destroy or sever a limb. |                                                                      |
-| 25       | Incapacitating |                                                   | Leave a mindless husk.                                               |
-| 30       | Dead           | Kill a person.                                    |                                                                      |
-
-
-## Appendix B
-
-# Conversion
+# Appendix B: Conversion
 
 The following notes discuss converting characters from Fourth Edition's *The Mysteries* to *The Mysteries Revised Edition*.
 
-## General Conversion
+### General Conversion
 
 Follow the guidelines in ArM5, on page 223, on converting characters. Use your judgment to re-balance points spent on Virtues, but note that *The Mysteries Revised Edition* places much more emphasis on stories paying for Initiations rather than Flaw points, and so converted characters will be much more Flawed than comparable *The Mysteries Revised Edition* characters. When converting, you may wish to drop some of the extra Flaws acquired as Ordeals for Fourth Edition *The Mysteries*.
 
@@ -5745,7 +5368,7 @@ Cabal Legacy is retained, Sorcerous Music becomes Performance Magic (Music), Sac
 
 Ceremonial Magic can be found on ArM5, page 83; sympathetic magic can be found on ArM5, page 84.
 
-## Mystae Magics
+### Mystae Magics
 
 *The Mysteries Revised Edition* divides Mystery magics into informal schools rather than formal mystae magics. You should look at the style of character as well as the names of the Virtues.
 
@@ -5767,13 +5390,11 @@ Augury is replaced by Hermetic Divination, a separate Mystery Magic; multiple Di
 
 Hermetic theurgy and thaumaturgy become Hermetic theurgy. Thaumaturgists may wish to add Hermetic synthemata or ascendancy. Parhedros is a variant name of spirit familiar (spirit magic). Ars Notoria has no equivalent, however Names of Power and Invocation Magic call upon the powers.
 
-## News Schools and Mysteries
+### News Schools and Mysteries
 
 Spirit magic is new, gathering magics for non-Daimon spirits. Potent Magic and Potent spells are new; Mystery Cults often favor these specialist magics, as magi may only have one Magical Focus. Numerology and Geometry are new, and work together with Architecture to form the school of Arithmetic.
 
-## Appendix C
-
-# Daimons
+# Appendix C: Daimons
 
 Magi who pursue the study of the Mysteries often deal with strange and powerful magical beings. The section that follows provides examples of the kinds of Daimons, potent magical creatures that the mystae may call upon or encounter in the course of their rites.
 
@@ -5791,11 +5412,11 @@ Daimons can serve in many other ways. Chnoubis the Serpent is often invoked to s
 
 Many Daimons have mundane abilities, and these can be used to provide answers to questions or to reveal ancient secrets, or the synthemata and secrets of other lesser Daimons. For example, the Welsh bard Aneirin, now an ascended Daimon, can be conjured to describe many of the ancient ways of the Stonehenge Tribunal with his excellent Area Lore skill. Magi will undoubtedly be creative in how they summon and use these mighty spirits to further their plans, and the storyguide should consider creating a number of new Daimons who can be summoned to provide odd services that reflect their traditional areas of knowledge and the secrets of whose pacts can be learned in moldering grimoires.
 
-# Sample Daimons
+## Sample Daimons
 
 Here are game statistics for a few sample Daimons. Storyguides may design others using their knowledge of mythology and the needs of their sagas that may offer similarly useful powers or knowledge to those who wish to enter into pacts with them.
 
-## Chnoubis the Serpent
+### Chnoubis the Serpent
 
 **Magic Might:** 30 (Mentem)
 
@@ -5828,7 +5449,7 @@ Bite: Init +5, Attack +8, Defense +8, Damage +5\*
 
 **Appearance:** Chnoubis is a lion-headed serpent called upon for his abilities to scry and ferret out secrets. He claims to be a native of the Nile, but theurgists across Europe can successfully summon him. True to his appearance, Chnoubis is a powerful fighter, but is much more interested in the power of words.
 
-## Gydryty-kom the Giant
+### Gydryty-kom the Giant
 
 **Magic Might:** 40 (Auram)
 
@@ -5858,7 +5479,7 @@ were Formulaic spells; no extra time or vis is required.
 
 **Appearance:** The master of hail, Gydrytykom is a giant who can stretch his mouth from the ground to the clouds. He swallows storms and lighting, but grows angry when summoned because it interrupts his eternal battle with a Daimonic snake of fog that threatens to swallow the world. Gydryty-kom was once highly regarded in the lands of the Albanians, but his power has faded thanks to Christianity.
 
-## Hipta the Nurse
+### Hipta the Nurse
 
 **Magic Might:** 15 (Animal)
 
@@ -5886,7 +5507,7 @@ Varies with form
 
 **Appearance:** The nurse of Dionysus, Hipta is a powerful shapechanger who favors the form of a lovely dove. Her name and spells to summon her can be found in the several ancient texts. She is invoked for forgiveness from curses and magical harm.
 
-## Lasa Vegoia the Matron
+### Lasa Vegoia the Matron
 
 **Magic Might:** 30 (Aquam)
 
@@ -5919,7 +5540,7 @@ Brawl: Init +3, Attack 0, Defense +3, Damage –1
 **Appearance:** A powerful nymph and great spirit of water, Lasa Vegoia taught the Etruscans secrets of theurgy and divination. She is a matron spirit of augury, and is usually invoked by those desiring to learn magical secrets related to divination or theurgy.
 
 
-## Portunes, Spirit of Safe Harbor
+### Portunes, Spirit of Safe Harbor
 
 **Magic Might:** 25 (Auram)
 
@@ -5947,7 +5568,7 @@ None. Vanishes if attacked. Can only be harmed by Perdo Vim spells.
 
 **Appearance:** A spirit charged with ports and harbors, the Greeks called him Palaemon and Melicertes. His purview also covers keys, locks, and domestic animals. In Rome he was worshipped as a god, with a temple located near the Forum Boarium. His feast, the Portunalia, is observed on August 17th. The rite to summon him involves throwing keys into a fire. When summoned, he appears either as a ghostly serpent or the shadowy vision of a bearded man in a leather apron, but he never takes on a solid physical form.
 
-## Honos
+### Honos
 
 **Magic Might:** 30 (Corpus)
 
@@ -5963,8 +5584,6 @@ Long Spear: Init +7, Attack +14, Defense +12, Damage +10
 
 **Soak:** +14 (silver cuirass)
 
-#### The Mysteries Revised Edition
-
 **Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-20), Incapacitated (21-25)
 
 **Abilities:** Athletics 4, Great Weapon (long spear) 6, Leadership 6, Teaching (leadership) 3
@@ -5979,7 +5598,7 @@ Long Spear: Init +7, Attack +14, Defense +12, Damage +10
 
 **Appearance:** Honos is a Roman Daimon of morality and military honor, with several temples built in his name. Honos appears as a young warrior in ancient armor, carrying a lance and a cornucopia ("horn of plenty"). Honos's temples in Rome have been destroyed or blanketed by the Dominion, although the Legion of Mithras is rumored to know the location of one surviving shrine where he can be invoked.
 
-## Pukis, Dragon of the Hearth
+### Pukis, Dragon of the Hearth
 
 **Magic Might:** 10 (Ignem)
 
@@ -6016,7 +5635,7 @@ Lashing Tail: Init +6, Attack +10, Defense +13, Damage +0\*
 The magus Andrilikes, a theurgist of the Novgorod tribunal, wrote a Hermetic ritual for summoning this lesser Daimon to his sanctum. He has given copies of *Daimonic Adjuration of Pukis* to several of his friends.
 
 
-## Aneirin the Bard
+### Aneirin the Bard
 
 **Magic Might:** 15 (Corpus)
 
@@ -6044,13 +5663,9 @@ n/a
 
 **Vis:** If his spirit is somehow bottled rather than banished, two pawns of Imaginem vis remain.
 
-One of the five great Welsh poets believed by the Order to have left Daimons behind after their death (the other four being Taliesin, Talhaearn Tad Awen, Blwchbardd, and Cian). Famous for a single poem, *Y Gododdin*, Aneirin praises his fellows among the war band of Mynyddawg Mwynfawr (Mynyddawg the Wealthy) of Caereidyn (near Edinburgh), an army 300 strong sent on a doomed mission to recapture an old Roman stronghold from the Saxons. His tomb lies somewhere in the
+One of the five great Welsh poets believed by the Order to have left Daimons behind after their death (the other four being Taliesin, Talhaearn Tad Awen, Blwchbardd, and Cian). Famous for a single poem, *Y Gododdin*, Aneirin praises his fellows among the war band of Mynyddawg Mwynfawr (Mynyddawg the Wealthy) of Caereidyn (near Edinburgh), an army 300 strong sent on a doomed mission to recapture an old Roman stronghold from the Saxons. His tomb lies somewhere in the Cambrian Mountains. His spirit wanders across the entire mountain range, helping those who further his ideals and punishing those who go against them, but he is most powerful within his own tomb.
 
-#### The Mysteries Revised Edition
-
-Cambrian Mountains. His spirit wanders across the entire mountain range, helping those who further his ideals and punishing those who go against them, but he is most powerful within his own tomb.
-
-## Dietrich von Bern
+### Dietrich von Bern
 
 **Magic Might:** 35 (Rego)
 
@@ -6085,4 +5700,3 @@ When anyone enters the tomb, however, the Daimon of Dietrich animates his hulkin
 Another legend propagated by the Church says Dietrich, a heretic suspected of Arianism, was thrown into the volcanic Mount Etna.
 
 The legend of Dietrich appears in *Das Heldenbuch* ("The Book of Heroes") a collection of German romances published in the early 13th century, organizing the tales of the Ostrogoths and Franconians into two epic cycles.
-
