@@ -4,7 +4,7 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
-*[Completion state: Chapters 1-11: All text and formatting manually fixed and reviewed. Remaining: The rest ]*
+*[Completion state: As good as all text and formatting manually fixed and reviewed. Definitive Edition is now in excellent readable format - and likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); Neither will the regular index - but it could be linked to sections if someone wants to take a crack at that wholesale]*
 
 *Identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
 
@@ -19808,11 +19808,11 @@ Qik + 1 (highest of human + 1 and wolf + 1)
 
 Human Size has no impact on the Size statistic of the shapechanged form. However, if the animal form is within the size range of most animals (Size -4 to Size 0) and the character has a Virtue or Flaw that affects Size, then she will be a notably large or small member of her species.
 
-#### 4. Virtues & flaws
+#### 4. Virtues & Flaws
 
 Apply all the Virtues and Flaws of the animal form while shapechanged, as well as all Virtues and Flaws of the human form, if applicable. For example, a Lame character is still Lame as an animal. If the animal form already has a Virtue or Flaw possessed by the character, it applies only once.
 
-#### 5. General abilities
+#### 5. General Abilities
 
 Use the General Abilities of the animal form. The General Abilities of the animal form are not suitable for human bodies, and cannot be taught to human characters. None of the human General Abilities can be accessed other than languages (which can still be understood) and lores. Arcane and Academic Abilities are available to the shapechanger if he retains Intelligence. Supernatural Abilities can always be used.
 
@@ -22051,13 +22051,13 @@ Minor Supernatural Flaw, animals only
 
 The creature has been corrupted by Infernal power, and has acquired an Infernal Might of 5. The negative side of its character is brought to the fore, and it acquires one sinful Personality Trait at +6, such as Violent, Gluttonous or Lustful. As part of the corruption, the beast acquires some sort of disgusting or repellent appearance, decreasing its Presence to -6. However, should the animal make any attempt to scare or intimidate an opponent, this should be treated as a Presence of +6. Despite this deformity, it is possible (although difficult) to pass the animal off as a natural member of its species. Finally, the creature acquires the Tainted with Evil Flaw which affects the reactions of both humans and other animals towards it. Corrupted Beasts do not react negatively to The Gift.
 
-##### Demonic weakness
+##### Demonic Weakness
 
 Minor Supernatural Flaw, Corrupted Beasts only
 
 The beast has a weakness similar to that of a demon. Corrupt Beasts cannot have the Ordering or Compulsion Weaknesses.
 
-##### Horrifying appearance
+##### Horrifying Appearance
 
 Major Supernatural Flaw, Corrupted Beasts only
 
@@ -22075,7 +22075,7 @@ The creature is hideously deformed in some way, and this deformity causes a majo
 >
 > A head at each end of the body, or in the center of the back.
 
-##### Greater infernal power
+##### Greater Infernal Power
 
 Major Supernatural Virtue, Corrupted Beasts only
 
@@ -22402,6 +22402,8 @@ Appearance: A large man, with golden-tinged skin and burning-bright hair, dresse
 Seferiel is an angel with special responsibility for Hermetic magi. Most of the time, he seeks to draw them closer to God, but sometimes he acts as the instrument of God's vengeance against those who are particularly wicked. His attitude depends slightly on whether magic is inherently sinful in your saga, his suggested courses of action depend on this more strongly. However, either way he likes Hermetic magi, in general, and finds them fascinating people. He often pretends to be a magus in order to get to know people better, and find out what they are really like.
 
 Seferiel sometimes takes an interest in a particular magus, one whom he sees has great potential, and is a suitable antagonist for the Plagued by Angel Story Flaw. His divinely-appointed mission is, however, to the Order as a whole, and he travels across Europe to bring God's message to as many magi as possible.
+
+---
 
 # XIV. Mythic Europe
 
@@ -22929,25 +22931,25 @@ As you play the game, you might well want to read more about medieval history. T
 
 For things which have played an important role in the saga, that is unlikely to be an option. If the magi have been interacting extensively with the Parliament of England, you can't make it go away when you discover that, historically, it was first called ten years into your saga's future. The best option here, if something bothers you and is too important to change, is to explicitly move your saga to an alternate history. Work out some story as to why Parliament started thirty years earlier, or whatever. Since the player characters have been interacting with the feature extensively it is extremely unlikely that its current state would be historical anyway. It is worth remembering that, historically, there were no magi and no Order of Hermes, so the game is set in an alternate history in the first place.
 
+---
+
 # XV. Stories
 
-# General Considerations
+## General Considerations
 
-here are a number of general points that you should bear in mind when writing stories or adventures for any roleplaying game, including Ars Magica.
+There are a number of general points that you should bear in mind when writing stories or adventures for any roleplaying game, including **Ars Magica**.
 
 Other considerations in this chapter are more specific to **Ars Magica**, but they may still have wider applicability.
 
 Each of these guidelines can be violated in an occasional adventure without spoiling the players' enjoyment. However, it is better if most stories follow them.
 
-## Player Character Centrality
+### Player Character Centrality
 
 Remember that the player characters are the central characters in the story. They may not be the most powerful characters, but they are central to the action. For example, in a horror story the characters must be weaker than the threat, because otherwise it will not inspire horror. However, the story is still about the way the characters deal with the threat, not about the activities of the monster.
 
-You should always plan for the conflicts in the story to be resolved by the player characters, and for the outcome to be determined by their actions. In a horror story, the survival of the
+You should always plan for the conflicts in the story to be resolved by the player characters, and for the outcome to be determined by their actions. In a horror story, the survival of the player characters should depend on what they do, not on the actions of NPCs. In a political story, the decisions of the player characters should make a definite difference to the outcome. As noted on page 528, troupe style play can help here, because even if player characters need rescuing, other player characters can often perform the rescue.
 
-player characters should depend on what they do, not on the actions of NPCs. In a political story, the decisions of the player characters should make a definite difference to the outcome. As noted on page 528, troupe style play can help here, because even if player characters need rescuing, other player characters can often perform the rescue.
-
-## Plots
+### Plots
 
 Roleplaying game stories should not have a plot in advance. A plot is a sequence of events, with the causal relationships between them drawn out, and if you have that in advance there is only one thing for the player characters to do. This is a remarkably hard lesson to learn, because all the relevant forms of literature with which we are familiar do have plots, as do a lot of published adventures.
 
@@ -22955,7 +22957,7 @@ Instead, a story needs a set of situations, decisions on what will happen if the
 
 If possible, you should set up several ways for the player characters to succeed in the adventure, so that the players do have real choices, which don't come down to 'do it the right way or die'. This is related to the next point, the importance of variable outcomes.
 
-## Variable Outcomes
+### Variable Outcomes
 
 You should have at least three possible outcomes for any story: one corresponding to success, another to a neutral performance, and one to failure. Ideally, there should be several degrees of success and failure. This allows you to set up one path as the route to the best success, without dooming the characters if they try something different.
 
@@ -22963,13 +22965,17 @@ In general, you should also avoid disastrous results for failures, at least unle
 
 This means thinking of bad results that do not involve the death of beloved characters or the destruction of the covenant. Good options are to take possessions away from the characters, or to injure them so that they lose a lot of study time. You can also inflict longer-term penalties, but such penalties can spoil a player's enjoyment of a character, so they should be used with caution, the point of a game is to have fun, not to undergo some sort of moral discipline.
 
-## Hooks
+### Hooks
 
 Possibly the hardest part of an adventure is the beginning. It can be extremely hard for the players to see what they are supposed to do. This means that you need to have at least two possible courses of action in mind when you set up a story. It is a good idea to also think of ways in which you can supply hints if the players are completely floundering. If you have variable degrees of success available, you can give hints to a lesser degree of success, so that the players do benefit from working things out for themselves.
 
-If possible, parts of the adventure should naturally flow into one another. The characters should not simply work out that they need to go to some place, they should work out that they need to go to that place and do something, and then when they do something it becomes clear what their following options are. If you don't do that, the
+If possible, parts of the adventure should naturally flow into one another. The characters should not simply work out that they need to go to some place, they should work out that they need to go to that place and do something, and then when they do something it becomes clear what their following options are. If you don't do that, the adventure effectively begins again every time the characters complete the actions that have been made clear so far, and stand around wondering what to do next.
 
-## Climaxes
+A related consideration concerns clues and information. If some information is important to the story, you should have one specific way that the characters can learn it in mind when writing the story. They may learn it another way, but if there is one way that you know will work, then the characters have a reasonable chance of learning the information. In addition, this method should be something that makes sense in the context of the story and saga. Asking the inhabitants of a village about a monster makes sense; going and looking behind the altar in the church does not, unless the monster has been seen coming from there.
+
+It is surprisingly difficult to judge this, as the elements of stories always look obvious to the storyguide. One rule of thumb is that things need to be more obvious than you think. Beyond that, you can learn from experience what sorts of things occur to your players, and what situations leave them stymied.
+
+### Climaxes
 
 It is good for a story to reach a climax and finish there, rather than petering out. This is, however, very difficult to reconcile with the importance of not having a plot. The best way round it is to work out two or three possible ways to resolve the situation set up in the story, and to make sure that each is a climactic event in which the player characters play a central role.
 
@@ -22979,15 +22985,11 @@ This is probably the most flexible rule. If the players want to play through the
 
 ## Story Types
 
-he power level of a saga makes a large difference to the sorts of stories you can easily run.
-
-Hermetic magi are extremely flexible, especially once they
-
-have a bit of experience. In most cases (see Saga Speed, on page 527) the power level of a saga will increase over time, and it is best if the style of play changes with it.
+The power level of a saga makes a large difference to the sorts of stories you can easily run. Hermetic magi are extremely flexible, especially once they have a bit of experience. In most cases (see Saga Speed, on page 527) the power level of a saga will increase over time, and it is best if the style of play changes with it.
 
 For simplicity, this discussion divides stories into three types: reactive, where something happens and the player characters respond; proactive, where the player characters want to do something and go out to make it happen; and soap opera, where the stories arise naturally from the continuing lives of the characters. Obviously, most stories will have elements of all of these types, but the basic distinction is helpful.
 
-## Reactive Stories
+### Reactive Stories
 
 Reactive stories are a good way to start a saga, because it gives the players something immediate to do. They also serve to remind the players that their characters are not aware of everything going on in the world before it happens. They work well with young magi, but become harder to create as the magi get older.
 
@@ -22995,11 +22997,9 @@ This is because, with a reactive story, the magi are only interested in resolvin
 
 Once the magi are very powerful, it is possible to run reactive stories for just the companions and grogs. Give them a reason not to disturb the magi, and then let them sort the problem out by themselves. It is possible to make the stories very challenging for the mundane characters, because if everything goes horribly wrong the players' other characters can charge in to save the day, which is much more satisfying for the players than having non-player characters do it.
 
-There are several books full of reactive stories in the Ars Magica line. Tales of Mythic Europe contains stories suitable for relatively young magi, while Tales of Power contains stories for older
+There are several books full of reactive stories in the Ars Magica line. Tales of Mythic Europe contains stories suitable for relatively young magi, while Tales of Power contains stories for older characters. *Hooks* contains a number of short stories designed to introduce new elements, such as noble politics or ancient magic, to the saga, and prime the characters to start on proactive stories. *Thrice-Told Tales* contains stories designed in three parts, which happen several years apart as part of the saga. Finally, *Dies Irae* contains several stories concerning ways in which the world might end, if the characters cannot prevent it.
 
-characters. *Hooks* contains a number of short stories designed to introduce new elements, such as noble politics or ancient magic, to the saga, and prime the characters to start on proactive stories. *Thrice-Told Tales* contains stories designed in three parts, which happen several years apart as part of the saga. Finally, *Dies Irae* contains several stories concerning ways in which the world might end, if the characters cannot prevent it.
-
-## Proactive Stories
+### Proactive Stories
 
 Proactive stories are good at any power level. For one thing, you know that at least one player is interested in pursuing the story. For another, if the player wants stories to resolve something, that means that his character cannot trivially achieve it. As a magus increases in power, the character's ideas get steadily more grandiose, but always remain challenging. These challenges might arise because the character does not want to resolve the story in the easiest way possible.
 
@@ -23009,16 +23009,32 @@ In one sense, hooking into these stories is very easy; the players want to do it
 
 Several supplements for **Ars Magica** provide ideas for proactive stories. *Ancient Magic, Legends of Hermes,* and *Mythic Locations* describe things that characters might search for, while *Hermetic Projects* and *Transforming Mythic Europe* describe things that the characters might try to create.
 
-## Soap Opera
+### Soap Opera
 
-Almost any long-running saga develops elements of soap opera, as the characters develop histories with each other. These sorts of story work well at all levels of power, because powerful magi have good reasons not to intervene with brute power when their friends are involved, and even if they do, then
+Almost any long-running saga develops elements of soap opera, as the characters develop histories with each other. These sorts of story work well at all levels of power, because powerful magi have good reasons not to intervene with brute power when their friends are involved, and even if they do, then the consequences of their actions simply give rise to more soap operatic complications.
 
-## Places to Explore
+'Soap opera' does not mean that the stories are all about the adulteries of covenfolk, although some may be. It can include the ongoing relationship with a whimsical faerie queen, delicate negotiations with a dragon, and repeated battles with a demon who has injured the covenant in the past. Essentially, a soap opera story is one where the characters are constrained by the results of the past and their plans for the future.
 
-- The Covenant. If the covenant was there before the player characters joined, they may not know everything about it.
-- Mundane Villages. The villages nearest the covenant will become aware of its existence, so it is a good idea if the magi know a bit about them. Friendly relations would be ideal, of course.
-- Mundane Towns. The magi are likely to need supplies which have to be bought in a town, so they should explore the local towns. This might be best done by sending the grogs, with maybe a companion.
-- Other Covenants. Magi are expected to give hospitality to visiting magi, even if they turn up uninvited. Getting to know your neighbors is a good idea, provided you can avoid upsetting them.
+Antagonists details a number of characters who would have ambiguous and difficult relations with player characters, and who could play an important part in soap-opera stories.
+
+## Story Ideas
+
+The first question faced by a new Ars Magica storyguide is 'What do magi do?'. What sort of adventures can you send them on? On the whole, they do not go into cave complexes full of monsters, kill lots of them, and then carry away piles of treasure. On the other hand, they might do that occasionally. This section provides some guidance on stories.
+
+### Exploration
+
+The characters go somewhere they haven't been before, and find out about it. This covers going into caves, killing monsters, and taking their stuff, but it is much broader. It also includes traveling to the local abbey and trying to set up good relations with the abbot, finding a faerie forest and learning how to collect raw vis there, and even visiting other covenants of the Order for the first time.
+
+Exploration stories are a very good way to start a saga, as the characters and players will both want to know more about the area around their covenant. In addition, once they have been introduced to an area you can use that place to generate more stories.
+
+*Mythic Locations* is a whole book full of places for characters to explore.
+
+#### Places to Explore
+
+- **The Covenant.** If the covenant was there before the player characters joined, they may not know everything about it.
+- **Mundane Villages.** The villages nearest the covenant will become aware of its existence, so it is a good idea if the magi know a bit about them. Friendly relations would be ideal, of course.
+- **Mundane Towns.** The magi are likely to need supplies which have to be bought in a town, so they should explore the local towns. This might be best done by sending the grogs, with maybe a companion.
+- **Other Covenants.** Magi are expected to give hospitality to visiting magi, even if they turn up uninvited. Getting to know your neighbors is a good idea, provided you can avoid upsetting them.
 - A faerie forest where the intelligent creatures have the shape of animals, and the dumb brutes have the shape of humans.
 - A faerie palace where a shining queen grants rewards to those who bring the most beautiful stories. The stories become jewels or fine tapestries when told, and it is possible to learn much from the queen's stored treasures.
 - A faerie village which looks a lot like a mundane village, except that the wheat is literally golden and the fruit trees bear gems. Attempting to eat the food is not recommended.
@@ -23027,27 +23043,33 @@ Almost any long-running saga develops elements of soap opera, as the characters 
 - A lake which covers both a magical regio and a faerie regio. If characters enter the magical regio, they find many talking fish, which live in an elaborate society. In the faerie regio they find beautiful people living underwater, in a castle built of shells.
 - A covenant that fell under mysterious circumstances, and has lain undisturbed since. (See *Calebais: The Broken Covenant.*)
 
-the consequences of their actions simply give rise to more soap operatic complications.
+### Treasure Hunting
 
-'Soap opera' does not mean that the stories are all about the adulteries of covenfolk, although some may be. It can include the ongoing relationship with a whimsical faerie queen, delicate negotiations with a dragon, and repeated battles with a demon who has injured the covenant in the past. Essentially, a soap opera story is one where the characters are constrained by the results of the past and their plans for the future.
+Magi are not immune to the lure of treasure hunting, particularly the lure of raw vis. For a covenant, the greatest treasure is a vis source, which reliably provides a certain number of pawns of vis every year. Mundane treasure also has some appeal, but most covenants are rich anyway, and magi with vis can make mundane riches fairly easily. Books are an exception, as useful ones cannot be magically created. Enchanted devices tempt magi almost as much as vis, and in some cases the search for an Arcane Connection to a powerful enemy can motivate an adventure.
 
-Antagonists details a number of characters who would have ambiguous and difficult relations with player characters, and who could play an important part in soap-opera stories.
+You should be careful about handing out vis sources in the early sessions of the saga, as a generous supply of vis can lead to fast advancement on the part of the magi. If an isolated vis treasure is too large, you can just refrain from giving any more for a while, but taking a vis source away is more likely to annoy the players.
 
-# Story Ideas
+Ancient Magic is, in an important way, a whole book of treasures for characters to hunt, although the reward is more likely to be knowledge than a physical item. Legends of Hermes describes important magi from the history of the Order, but involves the player characters by having them hunt the treasures that those magi left behind them.
 
-he first question faced by a new Ars Magica storyguide is 'What do magi do?'. What sort of adventures can you send them on? On the whole, they do not
+#### Treasures to Hunt
 
-go into cave complexes full of monsters, kill lots of them, and then carry away piles of treasure. On the other hand, they might do that occasionally. This section provides some guidance on stories.
+- The raw vis found in the body of the magical wolf that hunts in the hills north of the covenant.
+- The raw vis found in the tears of happiness cried by a particular faerie prince.
+- A shield created by the wizard who trained the wizard who trained Bonisagus. The shield is said to defend its wielder from all magic, no matter how powerful, but it also has great historical interest.
+- The cauldron owned by a powerful faerie, which is said to have the power to raise the dead.
+- A staff created by a powerful Flambeau magus, said to have the power to create a fire large and hot enough to reduce a city to fine ash.
+- A flying castle, crafted by a follower of Tytalus decades ago, that simply vanished from Hermetic knowledge. (See *Legends of Hermes*, The Flying Castle of Thomae)
+- The library of a hermit magus who used to live somewhere near the covenant.
+- A fallen temple of Mercury, still containing details of some of the powerful rituals of the Cult of Mercury. (See *Mythic Locations*, The Fallen Temple of Mercury)
+- An Arcane Connection to the dragon that lives in the mountains, so that the magi can use sympathetic magic to overcome its Magic Resistance.
 
-## Exploration
+### Requests for Assistance
 
-The characters go somewhere they haven't been before, and find out about it. This covers going into caves, killing monsters, and taking their stuff, but it is much broader. It also includes traveling to the local abbey and trying to set up good relations with the abbot, finding a faerie forest and learning how to collect raw vis there, and even visiting other covenants of the Order for the first time.
+In many fantasy stories and legends, heroes or oppressed villagers travel to the wizard's tower, looking for assistance. In Ars Magica, the player characters are the ones who get asked for help. You could run an interesting story in which the players take the roles of people seeking help from the covenant, and those characters could join the covenant as grogs after their success, but more normally these stories would involve the magi responding to requests.
 
-Exploration stories are a very good way to start a saga, as the characters and players will both want to know more about the area around their covenant. In addition, once they have been introduced to an area you can use that place to generate more stories.
+One problem with this sort of story is that the magi might not want to help, so it is generally better if the saga creates some reason for them to listen to the request. For example, most magi will listen to a request for help from a noble whom they have been desperately trying to turn into an ally, but are likely to ignore a request from a bunch of smelly peasants they've never heard of. On the other hand, the story might be more concerned with how the covenant responds to the request, rather than with what happens when they have made their decision.
 
-*Mythic Locations* is a whole book full of places for characters to explore.
-
-## Things to Be Asked
+#### Things to Be Asked
 
 - A village is being stalked by a monster which carries off and eats virgins.
 - The same village, nine months later, has a lot of strange babies who don't appear entirely human.
@@ -23057,23 +23079,13 @@ Exploration stories are a very good way to start a saga, as the characters and p
 - A nobleman is involved in a dispute with his neighbor, which is heading towards war. He portrays himself as the innocent victim of an unscrupulous robber, and begs the assistance of the magi.
 - The other nobleman turns up a week later with a similar story of wronged innocence.
 
-## Treasure Hunting
+### Crises at Home
 
-Magi are not immune to the lure of treasure hunting, particularly the lure of raw vis. For a covenant, the greatest treasure is a vis source, which reliably provides a certain number of pawns of vis every year. Mundane treasure also has some appeal, but most covenants are rich anyway, and magi with vis can make mundane riches fairly easily. Books are an exception, as useful ones cannot be magically created. Enchanted devices tempt magi almost as much as vis, and in some cases the search for an Arcane Connection to a powerful enemy can motivate an adventure.
+Some emergency faces the covenant. The advantage of this sort of story is that the characters will try to solve it. The problem is that the consequences of failure can be serious, so you have to give some thought to what will happen if the characters don't succeed.
 
-You should be careful about handing out vis sources in the early sessions of the saga, as a generous supply of vis can lead to fast advancement on the part of the magi. If an isolated vis treasure is too large, you can just refrain from giving any more for a while, but taking a vis source away is more likely to annoy the players.
+In general, the reward for success in such adventures is simply that things do not get any worse. Thus, you should avoid relying on them too heavily; give the players a chance to get positive rewards for their heroism.
 
-Ancient Magic is, in an important way, a whole book of treasures for characters to hunt, although the reward is more likely to be knowledge than a physical item. Legends of Hermes describes important
-
-magi from the history of the Order, but involves the player characters by having them hunt the treasures that those magi left behind them.
-
-## Requests for Assistance
-
-In many fantasy stories and legends, heroes or oppressed villagers travel to the wizard's tower, looking for assistance. In Ars Magica, the player characters are the ones who get asked for help. You could run an interesting story in which the players take the roles of people seeking help from the covenant, and those characters could join the covenant as grogs after their success, but more normally these stories would involve the magi responding to requests.
-
-One problem with this sort of story is that the magi might not want to help, so it is generally better if the saga creates some reason for them to listen to the request. For example, most magi will listen to a request for help from a noble whom they have been desperately trying to turn into an ally, but are likely to ignore a request from a bunch of smelly peasants they've never heard of. On the
-
-## Potential Crises
+#### Potential Crises
 
 - A monster attacks the covenant.
 - A magus from another covenant starts a campaign of harassment against the covenant, being careful to avoid blatantly violating the Code. He might attack grogs, or blight crops, but he will not scry on the covenant, nor attack a magus without declaring Wizard's War.
@@ -23085,15 +23097,11 @@ One problem with this sort of story is that the magi might not want to help, so 
 - The covenant disappears into a regio, and the magi cannot immediately find the way out. (Or in, for those who were away at the time.)
 - The grogs rebel against the tyrannical rule of the magi. The players are likely to be playing both sides of this dispute, which could be tricky, but very effective for experienced players.
 
-other hand, the story might be more concerned with how the covenant responds to the request, rather than with what happens when they have made their decision.
+### Politics
 
-## Crises at Home
+The Order of Hermes has extensive politics, and the mundane elites of particular areas also have political concerns. Negotiation, trade, and court cases all fall under this general heading. Political adventures tend to involve little combat, and normally cannot be solved by the simple application of magic, which makes them good for more powerful magi. It also makes them a good place for companions to shine, particularly mundane politics, where The Gift is a serious hindrance to the magi.
 
-Some emergency faces the covenant. The advantage of this sort of story is that the characters will try to solve it. The problem is that the consequences of failure can be serious, so you have to give some thought to what will happen if the characters don't succeed.
-
-In general, the reward for success in such adventures is simply that things do not get any worse. Thus, you should avoid relying on them too heavily; give the players a chance to get positive rewards for their heroism.
-
-## Political Issues
+#### Political Issues
 
 - A Hermetic Tribunal is coming up, and the other covenants are looking for allies. Of course, choosing to work with one makes enemies of another.
 - One of the player magi is framed for a serious Hermetic crime.
@@ -23104,13 +23112,11 @@ In general, the reward for success in such adventures is simply that things do n
 - The local bishop begins preaching vigorously against heresy, and priests are instructed to enquire much more closely into people's activities. Many people resent this, but no-one dares to speak out publicly for fear of being branded a heretic.
 - The player character magi disagree strongly over the best course of action to take, and spend the entire session arguing about it.
 
-## Politics
+### Quests
 
-The Order of Hermes has extensive politics, and the mundane elites of particular areas also have political concerns. Negotiation, trade, and court cases all fall under this general heading. Political adventures tend to involve little combat, and normally cannot be solved by the simple application of magic, which makes them good for more powerful magi. It also makes them a good place for companions to shine, particularly mundane politics, where The Gift is a serious hindrance to the magi.
+Quests shape a series of stories, rather than a single story. They differ from treasure hunting in that the object of the quest is more elevated, and the process of getting there is as important, and significant for the characters, as the discovery itself. In troupe-style play, a quest is best designed to be split up by stories involving other characters, so that people do not feel that one character’s obsession is taking over the saga.
 
-## Quests
-
-Quests shape a series of stories, rather than a single story. They differ from treasure hunting in that the object of the quest is more elevated, and the process of getting there is as important, and significant for the characters, as the discovery itself. In troupe-style play, a quest is best designed to be split up by stories involving other characters, so that people do not feel that one
+#### Objects of Quests
 
 - The Holy Grail.
 - The cave where Bonisagus devised the Parma Magica.
@@ -23121,25 +23127,21 @@ Quests shape a series of stories, rather than a single story. They differ from t
 - The character's father.
 - True faith in God.
 
+---
+
 # XVI. Sagas
 
-saga is a series of connected stories, centered around a single covenant. In some cases the only connection between two stories is that both happen
+A saga is a series of connected stories, centered around a single covenant. In some cases the only connection between two stories is that both happen to people who live at the covenant, and not even the same people. Other stories are linked into a longer narrative, with a major climax. This chapter provides guidance on how to run a good saga.
 
-to people who live at the covenant, and not even the same people. Other stories are linked into a longer narrative, with a major climax. This chapter provides guidance on how to run a good saga.
+## Background Questions
 
-# Background Questions
+While products from Atlas Games provide a wealth of detail about the background of **Ars Magica**, there are always areas which are open to interpretation by individual troupes. In many cases these are matters that can simply be ignored when writing books, but in others it is more a question of how you use a book in your sagas. This section looks at a few of the more significant choices you need to consider when deciding how **Ars Magica** works for your troupe.
 
-hile products from Atlas Games provide a wealth of detail about the background of **Ars Magica**, there are always areas which are open
-
-to interpretation by individual troupes. In many cases these are matters that can simply be ignored when writing books, but in others it is more a question of how you use a book in your sagas. This section looks at a few of the more significant choices you need to consider when deciding how **Ars Magica** works for your troupe.
-
-## History
+### History
 
 Perhaps the most obvious question concerns how much history you want to use, and how close to historical events you want to stay. Some troupes like to keep mundane history the same as real history, and have the Order of Hermes acting entirely behind the scenes. Others prefer to have the magi change things, so that political events look very different from our history. Still others prefer to change things around entirely.
 
-This is a slightly different issue from the best way to include history in a game (see Making it Historical, page 495). All the hints there apply no matter what you choose, although, obviously, the
-
-more you want to change things, the less you have to worry about anachronisms.
+This is a slightly different issue from the best way to include history in a game (see Making it Historical, page 495). All the hints there apply no matter what you choose, although, obviously, the more you want to change things, the less you have to worry about anachronisms.
 
 You might want to run a saga which has very little interaction with the mundane world. Mythic Europe, with historical kings and bishops, is there in the background, but most adventures take place in magical auras, faerie forests, or infernal temples. This sort of saga can be very high fantasy without much problem.
 
@@ -23149,53 +23151,51 @@ It is even possible to combine the two ideas, although this requires the most wo
 
 The troupe must simply decide whether the magi can change history. The assumption in official books is that the history of Mythic Europe looks, on the surface, like that of medieval Europe until 1220, the canonical starting date. However, many of the reasons behind historical events involve wizards, faeries, and other mystical creatures. The default assumption is that Mythic history will diverge from real history after 1220, as player characters interfere, but that need not be true in your saga.
 
-## The Order of Hermes
+### The Order of Hermes
 
 The Order of Hermes might seem to be very well defined in the books, but in fact a very important question is left vague, for individual troupes to determine. How organized is the Order in practice? In theory, Tribunals, Quaesitors, Redcaps, and the Peripheral Code tie everything together and enforce a myriad rules. In your saga, that might be the case in practice as well, so that player characters who break the Code face punishment, unless they take careful steps to hide their infractions. Individual covenants might have to register with the Tribunal or be forcibly removed, and all new magi might be recorded in a central register.
 
 At the other extreme, Tribunals might be primarily social events, where the Code is only actually enforced if someone has made enemies of virtually every other magus in the area. Magi a century old might frequently appear and announce that they have been members of the Order for decades, and Redcaps might be supported by individual covenants who need messengers, rather than by the Order.
 
-## Rules Questions
-
-Another set of questions you need to decide is how you will use the rules.
-
-First, the rules in the Laboratory and Long-Term Events chapters are only used when the saga stretches over a significant period of game time. You don't need to worry about them for your first couple of stories.
-
-Beyond that, the game as written can be played and enjoyed, at least according to the playtesters. However, you might want to add House Rules, to make things better fit your playing style.
-
-For example, the core rules pay very little attention to economics. As written, this is a game about mighty wizards in a world of legends, and they don't have to worry about how much their socks cost. However, you might want to play magical merchants criss-crossing Mythic Europe and building trade routes that support marvelous cities. An excellent concept, but you will have to add House Rules for trade, and the effects of trade on cities. (Or, possibly, buy City & Guild.)
-
-There are some changes you might want to make even if you play something very close to the core game. For example, your group might prefer not to have major events happen purely on the roll of the dice. In that case, you can simply ignore stress dice, and always use a simple die. If you do that, a character's skill will always be the main influence on a situation. Of course, you need to make that clear up front, because a number of Virtues and Flaws rely on the stress die.
-
-More fundamental changes are also possible. In 'canon' (the game as defined by the published rules and supplements) mundane humans have virtually no resistance to magic. You might decide to give all Christians, Jews, and Muslims a Magic Resistance equal to five times the level of the local Dominion aura. This will make it almost impossible for magi to affect someone in a town, and drives a stronger separation of the mundane and the supernatural.
-
-Most gamers find that some features of the game don't suit them perfectly. Making up House Rules to fix this is entirely normal, and even to be encouraged, there are some people who like tinkering with rules almost as much as they like playing. In fact, if your group finds that you have the most fun if you spend several hours a week hashing out new rules to make, for example, the book rules exactly match the latest research on medieval study styles and libraries, and never actually play any characters, then go ahead.
-
-At the other extreme, you might find that worrying about game statistics interferes with the flow of your stories, and things work much better when players just say what their magus does. If that works for you, then you can use the spell guidelines as nothing more than inspiration for the sorts of things your magi might do.
-
-The rules and background for **Ars Magica** as written do favor a particular style of play, but if that doesn't match your style, you should change the rules and background so that it does.
-
 Both versions of the Order are fun to play, but they produce very different sagas. The more intrusive and organized the Order is, the larger the role that politics plays in the saga. An Order that does not bother to enforce its rules allows the player characters to essentially ignore it and concentrate on adventures. It also allows the player characters to become overtly involved in mundane politics.
 
-## The Church
+> ### Rules Questions
+>
+> Another set of questions you need to decide is how you will use the rules.
+>
+> First, the rules in the Laboratory and Long-Term Events chapters are only used when the saga stretches over a significant period of game time. You don't need to worry about them for your first couple of stories.
+>
+> Beyond that, the game as written can be played and enjoyed, at least according to the playtesters. However, you might want to add House Rules, to make things better fit your playing style.
+>
+> For example, the core rules pay very little attention to economics. As written, this is a game about mighty wizards in a world of legends, and they don't have to worry about how much their socks cost. However, you might want to play magical merchants criss-crossing Mythic Europe and building trade routes that support marvelous cities. An excellent concept, but you will have to add House Rules for trade, and the effects of trade on cities. (Or, possibly, buy City & Guild.)
+>
+> There are some changes you might want to make even if you play something very close to the core game. For example, your group might prefer not to have major events happen purely on the roll of the dice. In that case, you can simply ignore stress dice, and always use a simple die. If you do that, a character's skill will always be the main influence on a situation. Of course, you need to make that clear up front, because a number of Virtues and Flaws rely on the stress die.
+>
+> More fundamental changes are also possible. In 'canon' (the game as defined by the published rules and supplements) mundane humans have virtually no resistance to magic. You might decide to give all Christians, Jews, and Muslims a Magic Resistance equal to five times the level of the local Dominion aura. This will make it almost impossible for magi to affect someone in a town, and drives a stronger separation of the mundane and the supernatural.
+>
+> Most gamers find that some features of the game don't suit them perfectly. Making up House Rules to fix this is entirely normal, and even to be encouraged, there are some people who like tinkering with rules almost as much as they like playing. In fact, if your group finds that you have the most fun if you spend several hours a week hashing out new rules to make, for example, the book rules exactly match the latest research on medieval study styles and libraries, and never actually play any characters, then go ahead.
+>
+> At the other extreme, you might find that worrying about game statistics interferes with the flow of your stories, and things work much better when players just say what their magus does. If that works for you, then you can use the spell guidelines as nothing more than inspiration for the sorts of things your magi might do.
+>
+> The rules and background for **Ars Magica** as written do favor a particular style of play, but if that doesn't match your style, you should change the rules and background so that it does.
+
+### The Church
 
 The Church is an important institution throughout Europe, and it is all but impossible to avoid at least some interaction with it. This means that you must make a decision on how to portray the Church in your saga. Because Christianity is a living religion, and the contemporary Roman Catholic church is institutionally continuous with the Western medieval church on which the Mythic version is based, this is a question you should discuss with your troupe, to avoid offending anyone.
 
-The fundamental choice is between a Church which is basically good with a few bad members,
-
-is basically evil, with a few good members. A Church perfectly balanced between good and evil is theoretically possible, but only likely to work in practice if the players encounter the clergy only rarely.
+The fundamental choice is between a Church which is basically good with a few bad members, is basically evil, with a few good members. A Church perfectly balanced between good and evil is theoretically possible, but only likely to work in practice if the players encounter the clergy only rarely.
 
 You should also decide on the Church's attitude to magic. Historically, the church in this period condemned magic as nothing but deception and lies, but that is not really a tenable position in Mythic Europe. The Church might believe that magic is the work of the devil, and thus sinful, or that it involves the use of God-given gifts, and thus can be virtuous, if used for good ends. Alternatively, the Church might be in the throes of a debate on this very topic.
 
 The canonical setting does assume that relations between the Church and the Order of Hermes are cool, at best, although there are individuals on both sides with better or worse relationships across the divide. Sagas where the Order tries to overthrow the Church can be exciting, as can sagas where the Order tries to join the Church, or, of course, where the Church simply is not very important to the player characters.
 
-## The Infernal
+### The Infernal
 
 How many demons do you want in your saga? Demons and diabolists make excellent unambiguous enemies, but the extent to which you use them has a strong effect on the tone of the saga. If there are demons everywhere and a diabolist in every village, then you have a very dark setting where the characters are surrounded by enemies. On the other hand, one diabolist as the main enemy for a saga can be much more hopeful, as things get better once the enemy is defeated.
 
 You should also consider how you want to play demons. Traditionally, they are interested in souls, but also have a penchant for violence and destruction. Emphasizing the violence makes demons into monsters the player characters have to kill, while emphasizing their efforts to corrupt people makes for much more subtle enemies. Subtle enemies are not necessarily a good thing, your players may not want their characters to wrestle with ambiguous moral choices or struggle with temptation.
 
-## The Fate of Magic
+### The Fate of Magic
 
 A common trope in stories involving a magical past is the decline of magic, so that eventually the magic goes away and leaves us with our contemporary world. The canonical background to **Ars Magica** assumes that, if this is happening, it is so slow that no-one has yet noticed it. Magical auras give way to the Dominion in some places, but in others magic grows stronger.
 
@@ -23205,37 +23205,33 @@ On the other hand, the decline of magic can easily be linked to the advance of t
 
 Magic could also be declining along with all the other supernatural powers, in which case the Dominion would suffer as much as the Order of Hermes. Miracles would become less common, fewer demons would appear, and faeries would retreat fully into stories. Such a background sets up a tragedy for magi, unless they have the chance to reverse the decline.
 
-A third option is to have magic on the rise, again either in opposition to the other supernatural auras or in concert with them. This might work well if you
+A third option is to have magic on the rise, again either in opposition to the other supernatural auras or in concert with them. This might work well if you want to start with a saga that is closely tied to mundane historical facts, and increase the level of fantasy later. If only magic increases in power, the player characters might become more powerful than any opposition, but if all the realms increase together the newly-powerful magi will face newly-powerful priests, faeries, and demons, so the challenge remains, just at a greater scale.
 
-want to start with a saga that is closely tied to mundane historical facts, and increase the level of fantasy later. If only magic increases in power, the player characters might become more powerful than any opposition, but if all the realms increase together the newly-powerful magi will face newly-powerful priests, faeries, and demons, so the challenge remains, just at a greater scale.
-
-## Resources
-
-The resources to which the player characters have access also influence the speed of advancement, although that influence is much lower than the speed of the saga. It doesn't matter how many books or how much vis the characters in a slow saga have; they never have time to study them.
-
-Nevertheless, it is important to give some thought to resources.
-
-Vis comes in two ways: vis finds, which don't renew, and vis sources, which do. Early in the saga it is better to hand out vis finds, rather than sources. You can then keep track of how much the player characters use, and decide how much vis you want them to have, before you hand out sources. Vis finds run out naturally, while sources have to be taken away, which might annoy the players.
-
-Vis amounts are highly saga-dependent, and there is no 'right' way to do it. The following numbers are merely a guideline.
-
-Low Vis: Up to 5 pawns/magus/year. Studying from vis is very rare, and vis-boosting the Penetration of spells is almost unheard of. Only necessary rituals are cast, and enchanted items are uncommon.
-
-MODERATE Vis: Around 10 pawns/magus/year. Studying from vis is common, although books are still preferred. Enchanted items can be made fairly easily; the main concern is getting the right kind of vis, not the amount. Rituals can be cast if they are helpful, and in extreme situations the magi might use vis to boost spell Penetration.
-
-HIGH VIs: Around 20 pawns/magus/year. Magi can do pretty much anything they want involving vis. This is probably too much vis for most sagas.
-
-Books also come in two sorts, summae and tractatus, and the analogy goes further than that. Because a tractatus can only be studied once by a given character, you can be fairly sure of the effect that it will have. If you want to keep the rate of power advancement down, restrict the number of summae the covenant has, and don't let the covenant build up a large reserve of tractatus noone has studied yet. In addition, when a magus's Arts reach the point of being as high as you are comfortable with, cut off the supply of books. The magus can still invent spells or learn other Arts, and that buys you time to become accustomed to the new level of power.
-
-Don't forget that magi in a covenant can write books for each other. You shouldn't interfere with such activities, but should take them into account.
+> ### Resources
+>
+> The resources to which the player characters have access also influence the speed of advancement, although that influence is much lower than the speed of the saga. It doesn't matter how many books or how much vis the characters in a slow saga have; they never have time to study them.
+>
+> Nevertheless, it is important to give some thought to resources.
+>
+> Vis comes in two ways: vis finds, which don't renew, and vis sources, which do. Early in the saga it is better to hand out vis finds, rather than sources. You can then keep track of how much the player characters use, and decide how much vis you want them to have, before you hand out sources. Vis finds run out naturally, while sources have to be taken away, which might annoy the players.
+>
+> Vis amounts are highly saga-dependent, and there is no 'right' way to do it. The following numbers are merely a guideline.
+>
+> **Low Vis:** Up to 5 pawns/magus/year. Studying from vis is very rare, and vis-boosting the Penetration of spells is almost unheard of. Only necessary rituals are cast, and enchanted items are uncommon.
+> 
+> **Moderate Vis:** Around 10 pawns/magus/year. Studying from vis is common, although books are still preferred. Enchanted items can be made fairly easily; the main concern is getting the right kind of vis, not the amount. Rituals can be cast if they are helpful, and in extreme situations the magi might use vis to boost spell Penetration.
+>
+> **High vis:** Around 20 pawns/magus/year. Magi can do pretty much anything they want involving vis. This is probably too much vis for most sagas.
+>
+>Books also come in two sorts, summae and tractatus, and the analogy goes further than that. Because a tractatus can only be studied once by a given character, you can be fairly sure of the effect that it will have. If you want to keep the rate of power advancement down, restrict the number of summae the covenant has, and don't let the covenant build up a large reserve of tractatus noone has studied yet. In addition, when a magus's Arts reach the point of being as high as you are comfortable with, cut off the supply of books. The magus can still invent spells or learn other Arts, and that buys you time to become accustomed to the new level of power.
+>
+> Don't forget that magi in a covenant can write books for each other. You shouldn't interfere with such activities, but should take them into account.
 
 ## Saga Speed
 
-dvancement in **Ars Magica** happens by seasons of game time (see Advancement, page 375), and so the number of seasons of game time that pass
+Advancement in **Ars Magica** happens by seasons of game time (see Advancement, page 375), and so the number of seasons of game time that pass for every game session is an extremely important factor in determining the style of a saga. The ideal saga speed is entirely a matter of troupe preference, but it is important to be aware of the implications in advance. Fortunately it is easy to speed up or slow down a saga if you decide that you have made a mistake.
 
-for every game session is an extremely important factor in determining the style of a saga. The ideal saga speed is entirely a matter of troupe preference, but it is important to be aware of the implications in advance. Fortunately it is easy to speed up or slow down a saga if you decide that you have made a mistake.
-
-## Slow Saga
+### Slow Saga
 
 In a slow saga there are, on average, two or more game sessions per season. Characters do not improve much, and the different lifespans of magi and companions are largely irrelevant.
 
@@ -23243,7 +23239,7 @@ The main advantage of this style of saga is that the style of play does not have
 
 If you intend to play a slow saga, Virtues and Flaws affecting study, lifespan, and other seasonal activities in game are much less significant, while those that affect the character's starting scores are much more significant. There is no need to change the classification of any Virtues or Flaws, unless you want to, but players should be aware of the relative importance of the different types when they are creating their characters.
 
-## Medium Saga
+### Medium Saga
 
 A medium saga has, on average, one to four seasons per game session. Characters do improve, but unless you play very frequently, or over a long period of real time, magi are unlikely to die of old age or pass into Final Twilight.
 
@@ -23251,15 +23247,13 @@ A medium saga is a good compromise rate, and an excellent way to start, since it
 
 In a medium saga it is quite likely that companions and grogs will die of old age, although probably not until the saga is rather advanced. As the characters are likely to have seen extensive play before their deaths, this can create excellent opportunities for roleplaying, and the chance to play the heir of a favored character.
 
-## Past Saga
+### Fast Saga
 
-In a fast saga, more than one year passes per game session, on average. In a fast saga, magi rapidly become powerful, and a magus who starts the saga fresh from his gauntlet can expect to die of natural causes before the end. Companions may be played only a handful of times before they die of
-
-In fast sagas, the emphasis is very much on the magi, particularly once they have become powerful. Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced.
+In a fast saga, more than one year passes per game session, on average. In a fast saga, magi rapidly become powerful, and a magus who starts the saga fresh from his gauntlet can expect to die of natural causes before the end. Companions may be played only a handful of times before they die of In fast sagas, the emphasis is very much on the magi, particularly once they have become powerful. Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced.
 
 Fast sagas are good for players who want to play epic magi who create magical effects which influence the whole of Europe, but they are not a good way to start a saga. In a fast saga, characters change radically almost before you know it, so a slightly slower start is a good way to get to know them. If some members of the troupe are new to Ars Magica, it would be rather difficult for them to manage five or more seasons of study between every game session.
 
-## Pulsed Saga
+### Pulsed Saga
 
 A pulsed saga combines the fast and slow sagas. A dozen game sessions might cover a single season, but then twelve game years might pass before the next session.
 
@@ -23269,11 +23263,11 @@ Most sagas are pulsed to some extent, as it is very unusual to hit exactly the a
 
 ## Troupe-Style Roleplaying
 
-n a typical roleplaying game one person serves as the gamemaster, while the other participants have one character each, whom they play from session to session.
+In a typical roleplaying game one person serves as the gamemaster, while the other participants have one character each, whom they play from session to session.
 
 Troupe-style roleplaying breaks away from those assumptions, and this can make it difficult for experienced roleplayers to get into. There are a number of types of troupestyle play, and while they are listed in ascending order of difference from standard roleplaying this is not meant to suggest that the later forms are better than the earlier. If you want to try the full range, it is probably best to work up through the stages, so that people get used to the differing roles of troupe-style games, but you can also pick a single stage that sits well with your group and simply use that.
 
-If Ars Magica is your first roleplaying game, you should simply select the style that seems most appealing, and then modify it as necessary so that everyone is having fun.
+If **Ars Magica** is your first roleplaying game, you should simply select the style that seems most appealing, and then modify it as necessary so that everyone is having fun.
 
 Although none of the styles of troupe-style play are better for everyone, it is almost always better to use some version of troupe-style play rather than conventional play. This is because, although the game is centered on magi, it is very hard to run a whole saga in which the players play their magi in every session. For one thing, it becomes very difficult to challenge a whole group of fairly experienced magi, as at least one member of the group is likely to be skilled at any form of magic. It can be done, but having to do it every session is likely to strain the storyguide. Another problem is that magi like to spend time in their laboratories, and they might well not want to go out at the same time. After a while, it can come to seem rather artificial if everyone drops everything to go on an adventure.
 
@@ -23281,7 +23275,7 @@ However, if you play in the conventional fashion and some players have non-magi,
 
 Even the simplest troupe-style play avoids these problems, as every player has a magus and another character. Thus, you should at least try it out.
 
-## Alternative Characters
+### Alternative Characters
 
 In this version of troupe-style play each player has two or more characters, but only plays one of them in a given session. At least one character should be a magus, and at least one should be a companion (see page 25). There is nothing to stop a player having two magi and four companions, if he can cope with only playing each character once every six sessions or so, and with the book-keeping of keeping each character up to date.
 
@@ -23289,7 +23283,7 @@ If you play this way, it is essential that a player's characters have good reaso
 
 This style of play is quite close to conventional roleplaying, in that everyone has their own characters, and no-one is handling more than one character at once. As an extra bonus, it makes it easy for players to introduce new characters if they become tired of an old character or don't like the way he is developing in the saga. This style avoids many of the serious problems that the conventional style raises in **Ars Magica**, but it can still lead to rather more magi going on an adventure than is ideal.
 
-## Pooled Characters
+### Pooled Characters
 
 Playing with pooled characters means that, in addition to a player's magi and companions, there is also a 'pool' of grogs and bit-parts, who can be played by anyone. Thus, on a typical adventure, one player might play his magus, a second her companion, while the other two take grogs from the common pool.
 
@@ -23303,13 +23297,11 @@ In this style of game it is very important for each pooled grog to be looked aft
 
 It is important to remember that Ars Magica's advancement system means that characters do not fall behind in power when they are not played, so that players' primary characters do not lose out when the players are running grogs.
 
-Another major advantage of this style of play is that it can easily handle player absences, particularly if the player warns the troupe in advance. As long as the troupe can get that player's main characters home before the session for which the player is absent, there is no problem
-
-at all, just fewer people to play grogs. The system can even handle players leaving for years to work overseas; their characters fade into the background, spending all their time in the lab, and then can rejoin the saga when the player gets back, still at the same sort of power level as the characters who have been played.
+Another major advantage of this style of play is that it can easily handle player absences, particularly if the player warns the troupe in advance. As long as the troupe can get that player's main characters home before the session for which the player is absent, there is no problem at all, just fewer people to play grogs. The system can even handle players leaving for years to work overseas; their characters fade into the background, spending all their time in the lab, and then can rejoin the saga when the player gets back, still at the same sort of power level as the characters who have been played.
 
 Of course, the game does still rely on the storyguide being available.
 
-## Guest Storyguiding
+### Guest Storyguiding
 
 The next level of troupe-style playing involves a player occasionally running a session. The normal storyguide can play some of the pooled grogs, and thus remains involved in the game.
 
@@ -23319,19 +23311,17 @@ There are, however, potential problems. Since the regular storyguide is going to
 
 The best way to avoid such problems is to have the guest storyguides run stories that take place in isolated locations, such as a distant island, or a cave complex. Regiones (page 420) are excellent for this sort of thing, particularly if they can only be entered under rare conditions, so that the characters cannot go back. The guest storyguide should discuss the sorts of rewards and risks that he can include, so as to avoid upsetting the regular storyguide's plans. It is even possible for the guest storyguide to run a story that takes place in a dream, so that it has no long-term effect on the saga at all, but such devices can easily be overused.
 
-## Alpha and Beta Storyguides
+### Alpha and Beta Storyguides
 
 The next step is to have more than one member of the troupe acting as storyguide on a regular basis. One storyguide, the alpha storyguide, is responsible for the overall shape of the saga, and has final veto power on story additions, but one or more beta storyguides take responsibility for specific aspects of the saga. A beta storyguide might be responsible for a particular magical regio, or for a local faerie forest, or for the covenant itself, if the characters have joined an old and large institution. As long as the action remains within that location, the beta storyguide has free rein. Some of the participants are still just players, however.
 
-The big advantage of this style is that the alpha storyguide can have a magus and companion, as long as they are designed to go on the sorts of adventures that the beta storyguide runs. In addition, this version of troupe-style play can handle the alpha storyguide's absence as easily
-
-as that of any other player, as long as there is some advance notice.
+The big advantage of this style is that the alpha storyguide can have a magus and companion, as long as they are designed to go on the sorts of adventures that the beta storyguide runs. In addition, this version of troupe-style play can handle the alpha storyguide's absence as easily as that of any other player, as long as there is some advance notice.
 
 The alpha and beta storyguides should make sure that they are agreed on the sort of reward level that is appropriate, and on the tone of the saga and its individual parts. There is nothing wrong with making a faerie forest into a comedic part of a saga, as long as everyone is agreed in advance, but introducing laser guns and spaceships is likely to cause problems.
 
 This style has the additional advantage that events can sometimes surprise everyone, including all the storyguides, when the different plots interact in unexpected ways. This is an advantage, in the same way as unexpected player actions are good for a conventional game, but it does mean that the storyguides need to be very flexible.
 
-## Pure Troupe Style
+### Pure Troupe Style
 
 In the purest form of troupe style, everyone runs games in roughly equal amounts, and there is no alpha storyguide. This requires quite a bit of coordination, and the troupe must decide on a method for resolving disputes in rule interpretation. One possibility is to have one person as the 'rules storyguide', and have her interpretation be final, but a more democratic method might also work if the group is willing to cooperate.
 
@@ -23339,25 +23329,21 @@ This style gives everyone an equal chance to run the game and play characters, a
 
 Pure troupe style does, however, require a group of players all of whom are comfortable with rules and with running games. This might prove difficult, especially if the troupe recruits new members from time to time.
 
-# Researching a Setting
+## Researching a Setting
 
-o, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the
+So, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the players (see page 178), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
 
-players (see page 178), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
-
-## The Pure Fantasy Saga
+### The Pure Fantasy Saga
 
 Research needn't involve books and libraries. You can search on the internet, ask questions on discussion forums, or watch historical documentaries on television. This is, after all, a game, so you should research the things you find interesting, in a way you find enjoyable.
 
-You can set your saga in a pure fantasy world. You might adapt a published one to include the Order of Hermes, or create your own. The advantage is that you don't have to worry about historical facts at all, and can have exactly the setting you want. The disadvantage is that the
+You can set your saga in a pure fantasy world. You might adapt a published one to include the Order of Hermes, or create your own. The advantage is that you don't have to worry about historical facts at all, and can have exactly the setting you want. The disadvantage is that the setting of **Ars Magica** has even influenced the mechanics, so you will find that you have to adapt or ignore a lot of the game material.
 
-setting of **Ars Magica** has even influenced the mechanics, so you will find that you have to adapt or ignore a lot of the game material.
-
-## The No-Research Saga
+### The No-Research Saga
 
 Pick a Tribunal for the covenant (see the map on page 493-494). Pick names for the local nobility, towns, and parish church. Decide what sort of geography you want. Use elements from the Mythic Europe chapter (page 495) to make your stories feel medieval. Have fun, and ignore people telling you that the king of England in 1220 wasn't William the Bastard.
 
-## The Low-Research Saga
+### The Low-Research Saga
 
 Get hold of a modern map of Europe, and pick an area with the sort of terrain you want. Look up twelfth and thirteenth century events in an encyclopedia or general world history, to give you a few names and trends. Most of the cities, towns, and villages in modern Europe were there in the Middle Ages, only smaller, so shrink places. (There are some exceptions, but at this level of research, you don't want to worry about that.) Add more forest. Roads, with the exceptions of freeways/motorways/ autobahn, tend to follow historic routes that sometimes go back to the Romans, so you can use those as described.
 
@@ -23365,17 +23351,15 @@ From that point, things proceed as for the noresearch saga.
 
 Alternatively, buy one of the Tribunal Books from Atlas Games, and set your saga in that Tribunal. This gives you most of the benefits of the Extreme-Research Saga, with a level of effort more like the Low-Research version.
 
-## The Medium-Research Saga
+### The Medium-Research Saga
 
 Pick your area from a modern map, as above. Then find a history of that area, and read the chapters on the twelfth and thirteenth centuries. This will give you quite a few names, a fair bit of social detail, and some idea of which towns were important back then. Work what you've learned into your saga in a way that will impress your players.
 
-## The High-Research Saga
+### The High-Research Saga
 
-Once you have chosen your area, get hold of a history of that area that focuses on the twelfth of thirteenth centuries. Reading such a book will probably give you more information than you can possibly include in a saga. More recent histories are better for gaming purposes than older ones, because recent historians tend to pay more attention to what life was like, and to events other than battles and the deaths of kings. Give characters names that match the sorts of names you find in the book, so
+Once you have chosen your area, get hold of a history of that area that focuses on the twelfth of thirteenth centuries. Reading such a book will probably give you more information than you can possibly include in a saga. More recent histories are better for gaming purposes than older ones, because recent historians tend to pay more attention to what life was like, and to events other than battles and the deaths of kings. Give characters names that match the sorts of names you find in the book, so that they 'sound right'. Have the repercussions of events you read about affect the covenant. Foreshadow future history, giving the players a chance to change it. And so on.
 
-that they 'sound right'. Have the repercussions of events you read about affect the covenant. Foreshadow future history, giving the players a chance to change it. And so on.
-
-## The Extreme-Research Saga
+### The Extreme-Research Saga
 
 Read several single-volume histories of the area in question, to get a more balanced view. Find, and read, histories of specific aspects, such as the history of a single city, or of the law, or of the Church, or even a single monastery. Track down books written in or about your area during the twelfth and thirteenth centuries, and read them in translation. Learn Latin so that you can read the ones that haven't been translated yet. Learn paleography so that you can read the ones still in manuscript. Go back to university and get a Ph.D. in medieval studies while actually just researching your saga.
 
@@ -23383,43 +23367,39 @@ Somewhere before the 'learn Latin' stage is the amount of research that most aut
 
 ## Saga Styles
 
-here are a number of different ways of playing **Ars Magica**, all valid, and many compatible with each other. Indeed, almost any combination is
+There are a number of different ways of playing **Ars Magica**, all valid, and many compatible with each other. Indeed, almost any combination is possible over the course of a saga, particularly as there is nothing wrong with the style of a saga changing over time. The descriptions here are merely intended to give you some ideas, and help you work out what sort of saga you want to play.
 
-possible over the course of a saga, particularly as there is nothing wrong with the style of a saga changing over time. The descriptions here are merely intended to give you some ideas, and help you work out what sort of saga you want to play.
-
-## High Fantasy
+### High Fantasy
 
 The characters spend much of their time dealing with demons, faeries, giants, dragons, and angels. Powerful, flashy mystical effects are extremely common, dealing with mundanes is not. This works particularly well with a low-research saga, as high fantasy elements have to be made up anyway.
 
-## Mundane Interactions
+### Mundane Interactions
 
 The characters spend a lot of time dealing with local nobles, churchmen, bandits, and traders. They might worry about whether the covenant has enough cattle to provide the vellum for its library, or be concerned with the trend towards violent antisemitism sweeping the country. Magic might be used a lot, but it tends to be low-key and subtle, even if it is powerful.
 
-## Hermetic Life
+### Hermetic Life
 
 The characters spend most of their time interacting with other Hermetic magi. They might be dedicated politicians in the local Tribunal, bibliophiles trying to gather the finest library in the Order, or Hoplites dedicated to hunting down any magus who turns to diabolism.
 
-## Action-Adventure
+### Action-Adventure
 
 The characters fight and defeat enemies, whether by force of arms or force of magic. They may or may not loot the bodies afterwards.
 
-## Investigation
+### Investigation
 
 The characters unravel mysteries, discover murderers, and trace the resting place of lost treasures.
 
-## Politics
+### Politics
 
 The characters negotiate with others to get what they want, or to help their allies get what they want.
 
-## Oreation
+### Creation
 
 The characters are trying to build something, whether abstract or concrete. They might be trying to create the strongest, most vibrant covenant in the Order, or a giant flying ship, or bring justice and peace to a war-torn area of Europe.
 
 ## Saga Priorities
 
-he highest priority for any saga is to ensure that all the players are having fun. This is much easier if you have good communication between the players, and people
-
-are not afraid to talk about what they do and don't enjoy in the game.
+The highest priority for any saga is to ensure that all the players are having fun. This is much easier if you have good communication between the players, and people are not afraid to talk about what they do and don't enjoy in the game.
 
 If one player finds certain story elements upsetting or offensive, then you shouldn't include them. If another player finds the absence of the same elements upsetting or offensive, then you have a real problem within the group that you will need to talk about. The historical setting of Ars Magica makes this sort of conflict more likely than it might be in other games. For example, a Christian player might find plot lines that portray the Church as corrupt offensive, but a pagan player might find plot lines that portray the Church as virtuous equally offensive. The only way to resolve such problems is to talk about them, and the resolution might be a decision that Ars Magica is the wrong game for your group.
 
@@ -23431,11 +23411,17 @@ Roleplaying games are a way to explore other worlds, other perspectives, and oth
 
 Enjoy yourselves.
 
-uid rides? Mutato nomine, de te fabula narrant. –Horace, Satires
+> *Quid rides? Mutato nomine, de te fabula narrant.*
+>
+> –Horace, *Satires*
 
-# Editor's Note
+---
 
-Imost ten years ago I wrote an afterword for *Dies Irae* in which I said it was "the last book in the **Ars Magica** Fifth Edition line that I will produce as Line Editor".
+# Appendices
+
+## Editor's Note
+
+AImost ten years ago I wrote an afterword for *Dies Irae* in which I said it was "the last book in the **Ars Magica** Fifth Edition line that I will produce as Line Editor".
 
 Strictly speaking, that remains true: Atlas did not hire me as Line Editor for this book.
 
@@ -23445,9 +23431,7 @@ As well as collecting rules, such as those for Mystery Initiation and integratin
 
 written, it was also a chance to include clarifications and expansions that had been added over the years.
 
-I also took the opportunity to gather errata from the online Ars Magica community, to correct errors that people had noticed over the last twenty years, and clarify things that had
-
-proved less transparent than I had hoped when originally publishing them.
+I also took the opportunity to gather errata from the online Ars Magica community, to correct errors that people had noticed over the last twenty years, and clarify things that had proved less transparent than I had hoped when originally publishing them.
 
 If you have managed to avoid impostor syndrome so far, spending months gathering errata for books you were responsible for is a very good way to experience it.
 
@@ -23463,21 +23447,21 @@ I plan to be part of that future, as one creator among many.
 
 — David Chart Ars Magica 5<sup>th</sup> Ed. Line Editor Autumn 2024
 
-# The Ars Magica Open License
+## The Ars Magica Open License
 
-## That Is the Open License?
+### That Is the Open License?
 
 The text of **Ars Magica** Fifth Edition and its sourcebooks has been released under an open license: the Creative Commons Attribution-ShareAlike 4.0 International license (also known as CC BY-SA 4.0).
 
 The new Ars Magica Open License logo also lets third party creators identify their work. You can find fan releases of their Ars Magica material available in places like DriveThruRPG.com, Itch.io, and Patreon.com, marked with that logo.
 
-# Why Release the Same as Open License?
+### Why Release the Same as Open License?
 
 Atlas Games has had the amazing opportunity to publish Ars Magica for over three decades, supported by our devoted fan community. Fifth Edition is a weighty line of over FORTY supplements, fleshing out every facet of Mythic Europe. As the stewards of this incredible piece of roleplaying history, we feel it's time to give back to our fans, and let them take the game in new directions we haven't had the resources to explore.
 
 This open license release of Ars Magica was just part of our crowdfunding campaign for Ars Magica Definitive Edition. Thank you to all our backers who made it possible!
 
-# That Does This Mean for Ars Magica?
+### That Does This Mean for Ars Magica?
 
 You're free to copy and redistribute open license material, even commercially. And you may remix, transform, and build upon that material, even commercially. You must follow the terms of the license, though, which requires attribution and that you "share alike" by distributing your contributions under the same license as the original, without placing new restrictions on it. There are also a few trademark limitations. Atlas Games cannot revoke these freedoms as long as you follow the license terms.
 
@@ -23485,33 +23469,31 @@ All the open license details, and the complete list of released **Ars Magica** O
 
 We hope you'll join us in creating this vibrant new chapter in **Ars Magica**'s long history of myth and magic!
 
-## ATLAS-GAMES.COM/OPENARS
+### ATLAS-GAMES.COM/OPENARS
 
-# Fourth Edition Conversion
+## Fourth Edition Conversion
 
 Converting from Ars Magica 4<sup>th</sup> Edition to 5<sup>th</sup> Edition is a good idea, because a lot of longstanding problems in the rules have been fixed. However, that raises the question of what has changed. There are two viable short answers.
 
-## Nothing Has Changed
+#### Nothing Has Changed
 
 The game is still about powerful wizards of the Order of Hermes, who live in covenants with Mythic Europe, a world where myth and history mix. Hermetic magic is still based on five Techniques and ten Forms. There are the same Houses of Hermes. Essentially, the summary of the game that you would give to someone who knew nothing about it is exactly the same as it was before. This is as it should be; this is a new edition, not a new game.
 
-## Everything Has Changed
+#### Everything Has Changed
 
 On the other hand, the revisions have affected just about every part of the rules and background. Again, this is as it should be, this is a real new edition, not simply a republication with a different cover in the hope of getting people to buy the book again.
 
-## The Long Answer
+### The Long Answer
 
-This chapter provides a summary of what has changed between the editions. It doesn't
+This chapter provides a summary of what has changed between the editions. It doesn't cover everything, but it should give you an idea of the most important things to look at.
 
-cover everything, but it should give you an idea of the most important things to look at.
-
-## Background
+#### Background
 
 The twelve Houses of Hermes are now split into three groups: four are Mystery Cults, four are True Lineages, and four are Societates, groups of magi with similar interests. They are still the same Houses as before, however.
 
 Beyond that, the background has changed very little. The Order of Hermes and Mythic Europe chapters have been completely rewritten, but the aim was to say things more clearly, not to say different things.
 
-## Character Generation
+#### Character Generation
 
 The rules for character generation are very different.
 
@@ -23519,13 +23501,15 @@ First, Virtues and Flaws no longer have point values; they are split into Major 
 
 Abilities now cost five times their (level + 1) to raise by one level. This means that the same advancement rules can be used for both Arts and Abilities.
 
-Characters get a different number of experience points at character generation. The overall result is that characters generated at a certain age, and characters played up to the same age, will be almost the same. This was very far from the case in Fourth Edition. The rules for Confidence have changed.
+Characters get a different number of experience points at character generation. The overall result is that characters generated at a certain age, and characters played up to the same age, will be almost the same. This was very far from the case in Fourth Edition. 
 
-## Covenants
+The rules for Confidence have changed.
+
+#### Covenants
 
 The rules for covenants have been totally redone. They are nothing like the Fourth Edition rules.
 
-## Magic
+#### Magic
 
 Spell level is now subtracted from the casting total before determining Penetration. This makes Magic Resistance, and in particular the Parma Magica, much more effective.
 
@@ -23549,7 +23533,7 @@ All laboratory activities now use the Lab Total. All Lab Texts use the same rule
 
 There are no separate rules for writing, copying, or learning spells: that is covered by the rules on Lab Texts.
 
-## Long-Term Quents
+#### Long-Term Events
 
 The study rules have been completely revised to get a more sensible advancement rate.
 
@@ -23557,11 +23541,11 @@ Aging has been changed, to give a sensible distribution of ages at death, and to
 
 There are now actual rules for the bad effects of living in high auras or having spells cast on you constantly; this is called "Warping." These rules integrate with the rules for Wizard's Twilight, which is now the way that Warping affects Hermetic magi.
 
-## Combat
+#### Combat
 
 Combat, as is traditional, has been completely rewritten.
 
-## Character Conversion
+#### Character Conversion
 
 Fifth Edition characters tend to advance slightly more slowly than Fourth Edition. As a rule of thumb, if you want to mix characters, add 20% to a Fourth Edition character's age, and then convert as follows.
 
@@ -23577,101 +23561,101 @@ Spells: Note new levels. Spells a character can no longer cast (some have change
 
 Twilight: Divide the number of Twilight Points by three, and use this as the Warping Score.
 
+# Reference Guide
+
 ## General Rules
 
-Case Factors
+### Using Abilities
 
-Fifth Edition p.
-Definitive Edition p.
+**ABILITY ROLL: Characteristic + Ability + die roll, meet or exceed the Ease Factor to succeed**
 
+*Ability of 0 can be used if not asterisked, adding 3 botch dice.*<br>
+*Add +1 when using an Ability's specialization.*
 
-| Hase.          | Hactors Definitive Edition ps                                                                                                                                                                           |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ease<br>Factor | Difficulty                                                                                                                                                                                              |
-| 0              | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for.                                                                                       |
-| 3              | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success.                                                       |
-| 6              | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail.                                                                        |
-| 9              | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success.        |
-| 12             | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time.                                      |
-| 15             | Very Hard. Even moderate skill gives almost no chance of success. Skilled and talented characters fail about half the time, but very skilled, highly talented characters succeed about 70% of the time. |
-| 18             | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance.                                                                               |
-| 21             | Remarkable. Very skilled, highly talented characters only succeed occasionally.                                                                                                                         |
+### Ease Factors
 
-## Travel Distance
+*Fifth Edition p7, Definitive Edition p8*
 
-City and Guild p80 Definitive Edition p408
+| Ease Factor | Difficulty | Description |
+|-------------|------------|-------------|
+| 0   | Trivial    | Severely hindered characters may still fail. Almost never worth rolling for. |
+| 3   | Simple     | Average untrained character succeeds ~70% of the time. Only roll if failure is very significant. |
+| 6   | Easy       | Average character with some skill succeeds ~70% of the time. Talented or skilled characters almost never fail. |
+| 9   | Average    | Talented or skilled characters succeed ~70% of the time. Moderately skilled have ~50% chance; unskilled have little chance. |
+| 12  | Hard       | Unskilled characters always fail. Moderately skilled normally fail unless very talented. Skilled characters fail ~half the time. |
+| 15  | Very Hard  | Moderate skill gives almost no chance of success. Skilled and talented fail ~half the time; very skilled and highly talented succeed ~70% of the time. |
+| 18  | Impressive | Top-skilled characters succeed ~half the time. Lesser abilities have next to no chance. |
+| 21  | Remarkable | Very skilled, highly talented characters only succeed occasionally. |
+| 24+ | Almost Impossible | The greatest masters of a skill succeed only when lucky. |
 
-24+
+### General Botch Dice
 
-
-|                                | era erektoria kalkania aktion |
-| -------------------------------- | ------------------------------- |
-| On foot*                       | 20 miles/day                  |
-| Mounted courier*               | 30 miles/day                  |
-| Mounted courier, urgent*       | 50 miles/day                  |
-| Mounted courier, fresh horses* | 100 miles/day                 |
-| Ship at sea*                   | 30 miles/day                  |
-| *Large groups are slower.      |                               |
-
-Almost impossible. The greatest masters
-
-of a skill succeed when they get lucky.
-
-## Using Abilities
-
-ABILITY ROLL:
-Characteristic + Ability + die roll,
-meet or exceed the Ease Factor to succeed
-
-Ability of 0 can be used if not asterisked, adding 3 botch dice.
-
-Add +1 when using an Ability's specialization.
-
-## General Botch Dice
+| Botch Dice | Chance of Botch | Example Situation |
+|------------|-----------------|-------------------|
+| 1 | 1% | Good conditions; the default number of botch dice. |
+| 2 | 1.9% | Running through undergrowth. |
+| 3 | 2.7% | Climbing a crumbling cliff in a high wind. |
+| 4 | 3.4% | Fighting in driving rain while in running water up to your ankles. |
+| 5 | 4.1% | Translating negotiations between the Pope, a Faerie Lord who speaks only ancient Egyptian, and a powerful elemental spirit who speaks no human languages. |
+| 6 | 4.7% | Fighting exact faerie copies of yourself and your companions on a crumbling ice floe in a blizzard. |
+| 7 | 5.2% | Climbing a sheer wall of ice in a blizzard. (The Ease Factor for this would be very high as well, about 21.) |
+| 8 | 5.7% | Fighting exact faerie copies of yourself and your companions in a faerie forest where the plants are actively interfering with you. |
+| 9 | 6.1% | Juggling five full cups of wine while four dancing bears cavort around you. |
+| 10 | 6.5% | Casting a spell in the church of the Holy Sepulcher in Jerusalem. |
 
 
-| Number<br>of Botch<br>Dice | CHANCE<br>OF<br>BOTCH | Example Situation                                                                                                                                                  |
-| ---------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                          | 1%                    | Good conditions; the default number of botch dice.                                                                                                                 |
-| 2                          | 1.9%                  | Running through undergrowth.                                                                                                                                       |
-| 3                          | 2.7%                  | Climbing a crumbling cliff in a high wind.                                                                                                                         |
-| 4                          | 3.4%                  | Fighting in driving rain while in running water up to your ankles.                                                                                                 |
-| 5                          | 4.1%                  | Translating negotiations between the Pope,<br>a Faerie Lord who speaks only ancient Egyptian,<br>and a powerful elemental spirit who speaks<br>no human languages. |
-| 6                          | 4.7%                  | Fighting exact faerie copies of yourself and your companions on a crumbling ice floe in a blizzard.                                                                |
-| 7                          | 5.2%                  | Climbing a sheer wall of ice in a blizzard.<br>(The Ease Factor for this would be very high as well, about 21.)                                                    |
-| 8                          | 5.7%                  | Fighting exact faerie copies of yourself and your companions in a faerie forest where the plants are actively interfering with you.                                |
-| 9                          | 6.1%                  | Juggling five full cups of wine while four dancing bears cavort around you.                                                                                        |
-| 10                         | 6.5%                  | Casting a spell in the church of the Holy Sepulcher in Jerusalem.                                                                                                  |
+### Travel Distance
 
-## Encumbrance
+*City and Guild p80, Definitive Edition p408*
 
+| Mode | Speed |
+|------|-------|
+| On foot\* | 20 miles/day |
+| Mounted courier\* | 30 miles/day |
+| Mounted courier, urgent\* | 50 miles/day |
+| Mounted courier, fresh horses\* | 100 miles/day |
+| Ship at sea\* | 30 miles/day |
 
-| \$105                              |            |        |
-| ------------------------------------ | ------------ | -------- |
-| Encumbrance for                    | Total Load | Burden |
-| Character Strength 0 OR Negative = | 0          | 0      |
-| Burden                             | 1          | 1      |
-| ENCUMBRANCE FOR                    | 3          | 2      |
-| CHARACTER STRENGTH +1              | 6          | 3      |
-| OR HIGHER =                        | 10         | 4      |
-| Burden – Strength,<br>minimum 0   | 15         | 5      |
-| *Subtract from athletic            | 21         | 6      |
-| activities and spell casting.      | 28         | 7      |
-| *Do not subtract from              | 36         | 8      |
-| combat totals if mostly due        | 45         | 9      |
-| to weapons and armor.              | 55         | 10     |
-|                                    |            |        |
+*\*Large groups are slower.*
 
-## Confidence
+### Encumbrance
 
-## Spending Confidence
+*p20, p403*
 
-- Decide after making the roll and learning what the result would be.
-- 2. You may not spend Confidence on a botched roll.
-- 3. Spend any number of points from 1 to your total Confidence Score.
-- 4. Add +3 to the total per point spent.
+**ENCUMBRANCE FOR CHARACTER STRENGTH 0 OR NEGATIVE = Burden**
 
-## Gaining Confidence Points
+**ENCUMBRANCE FOR CHARACTER STRENGTH +1 OR HIGHER =  Burden – Strength, minimum 0**
+
+**Subtract from athletic activities and spell casting.*
+
+**Do not subtract from combat totals if mostly due to weapons and armor.*
+
+| Total Load | Burden |
+|------------|--------|
+| 0 | 0 |
+| 1 | 1 |
+| 3 | 2 |
+| 6 | 3 |
+| 10 | 4 |
+| 15 | 5 |
+| 21 | 6 |
+| 28 | 7 |
+| 36 | 8 |
+| 45 | 9 |
+| 55 | 10 |
+
+### Confidence
+
+*p19, p29*
+
+#### Spending Confidence
+
+1. Decide after making the roll and learning what the result would be.
+2. You may not spend Confidence on a botched roll.
+3. Spend any number of points from 1 to your total Confidence Score.
+4. Add +3 to the total per point spent.
+
+#### Gaining Confidence Points
 
 Award one point at the end of a session for each of the following that a character achieved.
 
@@ -23681,86 +23665,103 @@ Award one point at the end of a session for each of the following that a charact
 - Entertainingly well roleplayed. This means that the player portrayed the character well, and in a way that entertained and enhanced the fun of the other players.
 - Bonus. This point is awarded if the storyguide thinks that the character or player did something that deserves a reward, but which does not fall under the above categories. You should only award one bonus point per character per session.
 
-## Reputation
+### Reputation
 
-## Changing Reputations
+*p19, p28-29, p386*
+
+#### Changing Reputations
 
 - Gain a Reputation of 1 by performing a noteworthy action.
 - Increase Reputations by treating them as Abilities, and each noteworthy action as an experience point.
 - Reduce a Reputation by creating a new Reputation (see Definitive Edition, page 28).
 
+#### Reputation Ease Factors
+
+| Ease Factor | Local | Ecclesiastical | Hermetic | Comments |
+|-------------|-------|----------------|----------|----------|
+| 0 | Same village | Same parish/monastery | Same covenant | Everyone in these groups has heard of everyone else in them. |
+| 6 | Same town | Same diocese | Same Tribunal | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
+| 9 | Same county | Same province | Entire Order | In general, only people with a reputation are known in this group, but everyone knows a few other people. |
+| 12 | Same country | Whole Church | N/A | Most people in this wider world are unknown, but those with outstanding reputations may be. |
+
 ## Supernatural Perception
 
-## Magic Sensitivity
+### Magic Sensitivity
 
+*p45, p168*
 
-| ~                                          |
-| -------------------------------------------- |
-| Ease Factor                                |
-| 12 – aura level                           |
-| 21 – magnitude of effect                  |
-| 21 – magnitude of most<br>powerful effect |
-| 15 – one fifth of<br>Magic Might          |
-|                                            |
+| Sensing | Ease Factor |
+|---------|-------------|
+| Magic aura | 12 – aura level |
+| Spells | 21 – magnitude of effect |
+| Enchanted items | 21 – magnitude of most powerful effect |
+| Magical creatures | 15 – one fifth of Magic Might |
 
-## Second Sight
+### Second Sight
 
-REGIO SIGHT ROLL:
-Perception
+*p67, p170*
 
-+ Appropriate Ability
-+ Stress Die
+**REGIO SIGHT ROLL: Perception + Appropriate Ability + Stress Die**
 
-EASE FACTOR:
-5 + (2 x difference between current level's aura and sought level's aura)
+**EASE FACTOR: 5 + (2 x difference between current level's aura and sought level's aura)**
 
-## Sense Holiness/Unholiness
+### Sense Holiness/Unholiness
 
-Does not need to Penetrate Magic Resistance.
+*p67, p189, p170*
 
+#### Does Not Need to Penetrate Magic Resistance
 
-| Sensing              | Ease Factor                                                                         |   |
-| ---------------------- | ------------------------------------------------------------------------------------- | --- |
-| Illusion             | 6 + magnitude of illusion                                                           |   |
-| Natural invisibility | 9                                                                                   |   |
-| Regio boundary       | 5 + (2 × difference<br>between current level's<br>aura and sought level's<br>aura) |   |
+| Sensing | Ease Factor |
+|---------|-------------|
+| Illusion | 6 + magnitude of illusion |
+| Natural invisibility | 9 |
+| Regio boundary | 5 + (2 × difference between current level's aura and sought level's aura) |
 
-Must Penetrate Magic Resistance. Granted by Divine realm.
+#### Must Penetrate Magic Resistance. Granted by Divine Realm
 
-
-| Ease Factor                                       |   |
-| --------------------------------------------------- | --- |
-| 9                                                 |   |
-| 15                                                |   |
-| 0                                                 |   |
-| 15 if hiding nature, automatic success otherwise. |   |
-|                                                   |   |
-
-## Reputation Ease Factors
-
-
-| Ease Factor | Local        | Ecclesiastical        | Hermetic      | Comments                                                                                                                 |
-| ------------- | -------------- | ----------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 0           | Same village | Same parish/monastery | Same covenant | Everyone in these groups has heard of everyone else in them.                                                             |
-| 6           | Same town    | Same diocese          | Same Tribunal | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
-| 9           | Same county  | Same province         | Entire Order  | In general, only people with a reputation are known in this group, but everyone knows a few other people.                |
-| 12          | Same country | Whole Church          | N/A           | Most people in this wider world are unknown, but those with outstanding reputations may be.                              |
+| Sensing | Ease Factor |
+|---------|-------------|
+| General area | 9 |
+| Person/object | 15 |
+| Demon | 0 |
+| Angel | 15 if hiding nature, automatic success otherwise. |
 
 ## Non-Combat Damage
 
-## Heat and Corrosion
+### Non-Combat Damage Rolls
 
+**NON-COMBAT DAMAGE TOTAL: Damage Bonus + Stress Die**
 
-| COVERED AREA           | DAMAGE BONUS |
-| ------------------------ | -------------- |
+**NON-COMBAT SOAK TOTAL: Soak Total + Stress Die.**
+
+### Damage Table
+
+| Size | Light | Medium | Heavy | Incapacitating | Dead |
+|------|-------|--------|-------|----------------|------|
+| –4 or less | 1 | 2 | 3 | 4 | 5+ |
+| –3 | 1–2 | 3–4 | 5–6 | 7–8 | 9+ |
+| –2 | 1–3 | 4–6 | 7–9 | 10–12 | 13+ |
+| –1 | 1–4 | 5–8 | 9–12 | 13–16 | 17+ |
+| 0 | 1–5 | 6–10 | 11–15 | 16–20 | 21+ |
+| +1 | 1–6 | 7–12 | 13–18 | 19–24 | 25+ |
+| +2 | 1–7 | 8–14 | 15–21 | 22–28 | 29+ |
+| +3 | 1–8 | 9–16 | 17–24 | 25–32 | 33+ |
+
+*Each further +1 size adds +1 to each wound range.*
+
+*For every 5 + size points by which the Damage Total exceeds the Soak Total, the wound level increases by one.*
+
+### Heat and Corrosion
+
+| Covered Area           | Damage Bonus |
+| ---------------------- | ------------ |
 | Small part (hand/foot) | ×1          |
 | Entire limb            | ×2          |
 | Half of body           | ×3          |
 | Full immersion         | ×4          |
 
-
 | Source        | Intensity |
-| --------------- | ----------- |
+| ------------- | --------- |
 | Wood Fire     | +5        |
 | Boiling Water | +3        |
 | Boiling Oil   | +6        |
@@ -23771,90 +23772,64 @@ Must Penetrate Magic Resistance. Granted by Divine realm.
 | Quicklime     | +6        |
 | Vitriol       | +9        |
 
-## Poison
+### Poison
 
-Stamina check against Ease Factor, take indicated wound on a failure
-
+*Stamina check against Ease Factor, take indicated wound on a failure*
 
 | Poison     | Ease Factor | Wound          |
-| ------------ | ------------- | ---------------- |
+| ---------- | ----------- | -------------- |
 | Adder Bite | 6           | Light          |
 | Asp Bite   | 9           | Incapacitating |
 | Monkshood  | 9           | Heavy          |
 | Arsenic    | 9           | Medium         |
 
-## Impact
+### Impact
 
+| Type of Impact                    | Damage                                                       |
+| --------------------------------- | ------------------------------------------------------------ |
+| Falling                           | +1 per two feet, doubled for hard surfaces, halved for soft. |
+| Jug dropped from second floor     | +6                                                           |
+| Inside collapsing wooden house    | +15                                                          |
+| Mature tree felled onto character | +18                                                          |
+| Inside collapsing stone building  | +21                                                          |
 
-| TYPE OF IMPACT                    | DAMAGE                                                                |
-| ----------------------------------- | ----------------------------------------------------------------------- |
-| Falling                           | +1 per two feet,<br>doubled for<br>hard surfaces,<br>halved for soft. |
-| Jug dropped from second floor     | +6                                                                    |
-| Inside collapsing wooden house    | +15                                                                   |
-| Mature tree felled onto character | +18                                                                   |
-| Inside collapsing stone building  | +21                                                                   |
+### Deprivation Page
 
-## Non-Combat Damage Rolls
+1. Stamina check every interval.
+2. Ease Factor starts at 3, and increases by 1 for each further interval.
+3. Lose a Fatigue level on a failed check.
+4. Once unconscious, suffer a Light Wound on first failed check, Medium Wound on second failure, and so on.
 
-Non-combat Damage Total: Damage Bonus + Stress Die Non-combat Soak Total: Soak Total + Stress Die.
+| Type of Deprivation | Time |
+|---------------------|------|
+| Air | 30 seconds |
+| Water | 1 day |
+| Food | 3 days |
+| Minor Cold (40ºF/4ºC) | 3 hours |
+| Serious Cold (0ºF/–18ºC) | 1 hour |
+| Major Cold (–20ºF/–29ºC) | 30 minutes |
+| Critical Cold (–40ºF/–40ºC) | 15 minutes |
 
-## Damage Table
-
-
-| Size          | Light | Меріим | HEAVY  | Incapacitating | DEAD |
-| --------------- | ------- | -------------- | -------- | ---------------- | ------ |
-| -4<br>or less | 1     | 2            | 3      | 4              | 5+   |
-| -3            | 1-2   | 3–4         | 5–6   | 7–8           | 9+   |
-| -2            | 1-3   | 4–6         | 7–9   | 10-12          | 13+  |
-| -1            | 1-4   | 5-8          | 9-12   | 13–16         | 17+  |
-| 0             | 1-5   | 6–10        | 11-15  | 16–20         | 21+  |
-| +1            | 1–6  | 7–12        | 13-18  | 19–24         | 25+  |
-| +2            | 1–7  | 8-14         | 15-21  | 22–28         | 29+  |
-| +3            | 1-8   | 9–16        | 17–24 | 25-32          | 33+  |
-
-Each further +1 size adds +1 to each wound range.
-
-For every 5 + size points by which the Damage Total exceeds the Soak Total, the wound level increases by one.
-
-## Deprivation Page
-
-- 1. Stamina check every interval.
-- 2. Ease Factor starts at 3, and increases by 1 for each further interval.
-- 3. Lose a Fatigue level on a failed check.
-- 4. Once unconscious, suffer a Light Wound on first failed check, Medium Wound on second failure, and so on.
-
-
-| Type of Deprivation              | Тіме   |   |
-| ---------------------------------- | ------------ | --- |
-| Air                              | 30 seconds |   |
-| Water                            | 1 day      |   |
-| Food                             | 3 days     |   |
-| Minor Cold<br>(40°F/4°C)       | 3 hours    |   |
-| Serious Cold<br>(0°F/–18°C)   | 1 hour     |   |
-| Major Cold<br>(-20°F/-29°C)    | 30 minutes |   |
-| Critical Cold<br>(-40°F/-40°C) | 15 minutes |   |
-
-<sup>\*</sup> Cold is in Rival Magic, page 105.
+*\* Cold is in Rival Magic, page 105.*
 
 ## Combat Rules
 
-## Combat Sequence
+### Combat Sequence
 
 All combat rolls use stress dice.
 
-- 1. Everyone roll and calculate Initiative Totals. Compare them to find turn order, highest first.
-- 2. When an attack is declared ...
-
+1. Everyone roll and calculate Initiative Totals. Compare them to find turn order, highest first.
+2. When an attack is declared ... 
   - a. Attacker rolls and generates an Attack Total.
   - b. Defender rolls and generates a Defense Total.
   - c. Subtract them to find Attack Advantage. If it's...
     - i. 0 or less, the attack missed. Move on to step 3.
     - ii. 1 or greater, calculate your Damage Total and target's Soak Total.
   - e. Subtract them, then refer to the Damage Table. Find target's size, then your result on that row. That column's header shows the wound delt.
-- 3. Repeat step 2 for the next highest initiative if they attack.
-- 4. Once all parties have acted once, return to step 2 for the first party again. Initiative is not re-rolled.
+3. Repeat step 2 for the next highest initiative if they attack.
+4. Once all parties have acted once, return to step 2 for the first party again. Initiative is not re-rolled.
 
-## Combat & Damage Totals
+### Combat & Damage Totals
 
 INITIATIVE TOTAL: Quickness + Weapon Initiative Modifier - Encumbrance + Stress Die
 
@@ -23862,61 +23837,49 @@ INITIATIVE TOTAL (SPELLS): Quickness - Encumbrance + Stress Die
 
 ATTACK TOTAL: Dexterity + Combat Ability + Weapon Attack Modifier + Stress Die
 
-## Wound Recovery
+DEFENSE TOTAL: Quickness + Combat Ability + Weapon Defense Modifier + Stress Die 
 
-RECOVERY TOTAL:
-
-Stamina + Medic's Chirurgy or Medicine score + Magical Aid + Stress Die
-
-Roll interval determined by wound severity.
-
-EQUAL OR EXCEED IMPROVEMENT EASE FACTOR:
-
-Wound improves by one level
-
-EQUAL OR EXCEED STABLE EASE FACTOR: Wound remains at same level.
-
-+3 bonus to future rolls
-
-BELOW STABLE EASE FACTOR:
-
-Wound becomes one level worse
-
-
-| Wound Level   | Interval   | STABLE EASE<br>FACTOR | IMPROVEMENT EASE FACTOR |
-| --------------- | ------------ | ----------------------- | ------------------------- |
-| Light         | One week   | 4                     | 10                      |
-| Medium        | One month  | 6                     | 12                      |
-| Heavy         | One season | 9                     | 15                      |
-| Incapacitated | See below  | _                     | _                       |
-
-Characters recover from all their wounds at the same time. Thus, a character with three Light and one Medium Wounds would make three Recovery rolls every week until the Light Wounds heal, and one every month until the Medium Wound became a Light Wound, at which point he would start making rolls every week for that wound.
-
-DEFENSE TOTAL: Quickness + Combat Ability + Weapon Defense Modifier + Stress Die DAMAGE TOTAL:
-
-Strength + Weapon Damage Modifier
-
-+ Attack Advantage
+DAMAGE TOTAL: Strength + Weapon Damage Modifier + Attack Advantage
 
 ATTACK ADVANTAGE: Attacker's Attack Total - Defender's Defense Total
 
-SOAK TOTAL:
+SOAK TOTAL: Stamina + Armor Protection (+ Form Bonus, for magi)
 
-Stamina + Armor Protection (+ Form Bonus, for magi)
+## Wound Recovery
+
+RECOVERY TOTAL: Stamina + Medic's Chirurgy or Medicine score + Magical Aid + Stress Die
+
+Roll interval determined by wound severity.
+
+EQUAL OR EXCEED IMPROVEMENT EASE FACTOR: Wound improves by one level
+
+EQUAL OR EXCEED STABLE EASE FACTOR: Wound remains at same level, +3 bonus to future rolls
+
+BELOW STABLE EASE FACTOR: Wound becomes one level worse
 
 
-|               |         | Mis | sile ( | capon | Statis | stics | Þ177<br>Þ101 |      |       |
-| --------------- | --------- | ----- | -------- | ------- | -------- | ------- | ---------------- | ------ | ------- |
-| WEAPON        | ABILITY | INT | Атк | Der   | Dan    | RANGE | STR            | LOND | Cost  |
-| Axe, Throwing | Thrown  | 0   | +2     | 0     | +6     | 5     | 0              | 1    | Std.  |
-| Javelin       | Thrown  | 0   | +2     | 0     | +5     | 10    | 0              | 1    | Std.  |
-| Knife         | Thrown  | 0   | +1     | 0     | +2     | 5     | -2             | 0    | Inexp |
-| Sling*        | Thrown  | -3  | +1     | 0     | +4     | 20    | -3             | 0    | Inexp |
-| Stone         | Thrown  | 0   | +1     | 0     | +2     | 5     | -1             | 1    | Inexp |
-| Bow, Long*    | Bow     | -2  | +4     | 0     | +8     | 30    | +2             | 2    | Exp.  |
-| Bow, short*   | Bow     | -1  | +3     | 0     | +6     | 15    | -1             | 2    | Std.  |
+| Wound Level   | Interval   | STABLE EASE FACTOR | IMPROVEMENT EASE FACTOR |
+| ------------- | ---------- | --------------------- | ----------------------- |
+| Light         | One week   | 4                     | 10                      |
+| Medium        | One month  | 6                     | 12                      |
+| Heavy         | One season | 9                     | 15                      |
+| Incapacitated | See below  | —                     | —                       |
 
-Requires two free bands to load and fire.
+Characters recover from all their wounds at the same time. Thus, a character with three Light and one Medium Wounds would make three Recovery rolls every week until the Light Wounds heal, and one every month until the Medium Wound became a Light Wound, at which point he would start making rolls every week for that wound.
+
+### Missile Weapoin Statistics
+
+| Weapon | Ability | Init | Atk | Def | Dam | Range | Str | Load | Cost |
+|--------|---------|------|-----|-----|-----|-------|-----|------|------|
+| Axe, Throwing | Thrown | 0 | +2 | 0 | +6 | 5 | 0 | 1 | Std. |
+| Javelin | Thrown | 0 | +2 | 0 | +5 | 10 | 0 | 1 | Std. |
+| Knife | Thrown | 0 | +1 | 0 | +2 | 5 | –2 | 0 | Inexp. |
+| Sling* | Thrown | –3 | +1 | 0 | +4 | 20 | –3 | 0 | Inexp. |
+| Stone | Thrown | 0 | +1 | 0 | +2 | 5 | –1 | 1 | Inexp. |
+| Bow, Long* | Bow | –2 | +4 | 0 | +8 | 30 | +2 | 2 | Exp. |
+| Bow, Short* | Bow | –1 | +3 | 0 | +6 | 15 | –1 | 2 | Std. |
+
+\* Requires two free bands to load and fire.
 
 Ability: The Weapon Ability needed to use this weapon.
 
@@ -23936,18 +23899,16 @@ Load: The contribution that the weapon makes to Encumbrance (p20/p403). For bows
 
 Cost: A general indication of the cost of the weapon. More expensive weapons are better.
 
-## Armor Table
+### Armor Table
 
-
-|                     | PART     | TAL  | FUI  | LL   | COST   |
-| --------------------- | ---------- | ------ | ------ | ------ | -------- |
-| MATERIAL            | Рвот | LOAD | PROT | LOAD |        |
-| Quilted/Fur         | 1        | 2    | n/a  | n/a  | lnexp. |
-| Heavy Leather       | 2        | 3    | n/a  | n/a  | Inexp. |
-| Metal Reinf Leather | 2        | 2    | 4    | 4    | Std.   |
-| Leather Scale       | 3        | 3    | 5    | 5    | Std.   |
-| Metal Scale         | 4        | 4    | 7    | 7    | Std    |
-| Chain Mail          | 6        | 4    | 9    | 6    | Exp.   |
+| Material | Partial Prot | Partial Load | Full Prot | Full Load | Cost |
+|----------|-------------|--------------|-----------|-----------|------|
+| Quilted/Fur | 1 | 2 | n/a | n/a | Inexp. |
+| Heavy Leather | 2 | 3 | n/a | n/a | Inexp. |
+| Metal Reinf. Leather | 2 | 2 | 4 | 4 | Std. |
+| Leather Scale | 3 | 3 | 5 | 5 | Std. |
+| Metal Scale | 4 | 4 | 7 | 7 | Std. |
+| Chain Mail | 6 | 4 | 9 | 6 | Exp. |
 
 Prot: Protection is the bonus the armor grants to the character's Soak score.
 
@@ -23955,41 +23916,42 @@ Load: The amount the armor adds to the character's Burden.
 
 Cost: A general indication of the expense of the armor. More expensive armor is better.
 
-## Melee Weapon Statistics
+### Melee Weapon Statistics
 
+| Weapon | Ability | Init | Atk | Dfn | Dam | Str | Load | Cost |
+|--------|---------|------|-----|-----|-----|-----|------|------|
+| Dodge | Brawl | 0 | n/a | 0 | n/a | n/a | 0 | n/a |
+| Fist | Brawl | 0 | 0 | 0 | 0 | n/a | 0 | n/a |
+| Kick | Brawl | –1 | 0 | –1 | +3 | n/a | 0 | n/a |
+| Gauntlet | Brawl | 0 | 0 | +1 | +2 | –3 | 0 | Inexp. |
+| Bludgeon* | Brawl | 0 | +2 | 0 | +2 | –2 | 1 | Inexp. |
+| Dagger | Brawl | 0 | +2 | 0 | +3 | –3 | 0 | Inexp. |
+| Knife | Brawl | 0 | +1 | 0 | +2 | –6 | 0 | Inexp. |
+| Axe | Single | +1 | +4 | 0 | +6 | 0 | 1 | Std. |
+| Club | Single | +1 | +2 | +1 | +3 | –2 | 1 | Inexp. |
+| Hatchet | Single | 0 | +3 | 0 | +4 | –2 | 1 | Inexp. |
+| Lance | Single | +2 | +4 | 0 | +5 | 0 | 2 | Std. |
+| Mace** | Single | +1 | +3 | 0 | +8 | 0 | 2 | Std. |
+| Mace and Chain | Single | +2 | +3 | 0 | +7 | 0 | 2 | Std. |
+| Spear, Short | Single | +2 | +2 | 0 | +5 | –1 | 1 | Inexp. |
+| Sword, Short | Single | +1 | +3 | +1 | +5 | –1 | 1 | Std. |
+| Sword, Long | Single | +2 | +4 | +1 | +6 | 0 | 1 | Exp. |
+| Shield, Buckler | Single | 0 | 0 | +1 | 0 | –2 | 1 | Std. |
+| Shield, Round | Single | 0 | 0 | +2 | 0 | –1 | 2 | Inexp. |
+| Shield, Heater | Single | 0 | 0 | +3 | 0 | 0 | 2 | Std. |
+| Cudgel | Great | +1 | +4 | +1 | +7 | +1 | 2 | Inexp. |
+| Farm Implement | Great | +1 | +3 | +1 | +5 | 0 | 2 | Inexp. |
+| Flail | Great | +1 | +3 | +1 | +8 | 0 | 2 | Inexp. |
+| Pole Arm | Great | +3 | +4 | +1 | +8 | 0 | 2 | Std. |
+| Pole Axe | Great | +1 | +5 | 0 | +11 | +1 | 2 | Std. |
+| Spear, Long*** | Great | +3 | +3 | +1 | +7 | 0 | 3 | Inexp. |
+| Sword, Great | Great | +2 | +5 | +2 | +9 | +1 | 2 | Exp. |
+| Staff | Great | +2 | +3 | +3 | +2 | –1 | 2 | Inexp. |
+| Warhammer | Great | 0 | +6 | 0 | +12 | +2 | 3 | Std. |
 
-|                 | ABILITY | Isir | Атк | DIN | DAM | STR | LOAD | Cost  |
-| ----------------- | --------- | ------ | -------- | ----- | ----- | ----- | ------ | ------- |
-| Dodge           | Brawl   | 0    | n/a    | 0   | n/a | n/a | 0    | n/a   |
-| Fist            | Brawl   | 0    | 0      | 0   | 0   | n/a | 0    | n/a   |
-| Kick            | Brawl   | -1   | 0      | -1  | +3  | n/a | 0    | n/a   |
-| Gauntlet        | Brawl   | 0    | 0      | +1  | +2  | -3  | 0    | Inexp |
-| Bludgeon*       | Brawl   | 0    | +2     | 0   | +2  | -2  | 1    | Inexp |
-| Dagger          | Brawl   | 0    | +2     | 0   | +3  | -3  | 0    | Inexp |
-| Knife           | Brawl   | 0    | +1     | 0   | +2  | -6  | 0    | Inexp |
-| Axe             | Single  | +1   | +4     | 0   | +6  | 0   | 1    | Std.  |
-| Club            | Single  | +1   | +2     | +1  | +3  | -2  | 1    | Inexp |
-| Hatchet         | Single  | 0    | +3     | 0   | +4  | -2  | 1    | Inexp |
-| Lance           | Single  | +2   | +4     | 0   | +5  | 0   | 2    | Std.  |
-| Mace**          | Single  | +1   | +3     | 0   | +8  | 0   | 2    | Std   |
-| Mace and Chain  | Single  | +2   | +3     | 0   | +7  | 0   | 2    | Std.  |
-| Spear, Short    | Single  | +2   | +2     | 0   | +5  | -1  | 1    | Inexp |
-| Sword, Short    | Single  | +1   | +3     | +1  | +5  | -1  | 1    | Std.  |
-| Sword, Long     | Single  | +2   | +4     | +1  | +6  | 0   | 1    | Exp.  |
-| Shield, Buckler | Single  | 0    | 0      | +1  | 0   | -2  | 1    | Std.  |
-| Shield, Round   | Single  | 0    | 0      | +2  | 0   | -1  | 2    | Inexp |
-| Shield, Heater  | Single  | 0    | 0      | +3  | 0   | 0   | 2    | Std.  |
-| Cudgel          | Great   | +1   | +4     | +1  | +7  | +1  | 2    | Inexp |
-| Farm Implement  | Great   | +1   | +3     | +1  | +5  | 0   | 2    | Inexp |
-| Flail           | Great   | +1   | +3     | +1  | +8  | 0   | 2    | Inexp |
-| Pole Arm        | Great   | +3   | +4     | +1  | +8  | 0   | 2    | Std.  |
-| Pole Axe        | Great   | +1   | +5     | 0   | +11 | +1  | 2    | Std.  |
-| Spear, Long***  | Great   | +3   | +3     | +1  | +7  | 0   | 3    | Inexp |
-| Sword, Great    | Great   | +2   | +5     | +2  | +9  | +1  | 2    | Exp.  |
-| Staff .         | Great   | +2   | +3     | +3  | +2  | -1  | 2    | Inexp |
-| Warhammer       | Great   | 0    | +6     | 0   | +12 | +2  | 3    | Std.  |
-
-<sup>\*</sup> Any improvised bashing weapon such as a rock or band tool
+\* Any improvised bashing weapon such as a rock or hand tool<br>
+\*\* Includes spiked clubs, military hammers, and other bashing weapons<br>
+\*\*\* Includes the lance, if used dismounted.
 
 Ability: The Weapon Ability needed to use this weapon.
 
@@ -24009,112 +23971,97 @@ Load: The contribution that the weapon makes to Encumbrance (p20/p403).
 
 Cost: A general indication of the cost of the weapon. More expensive weapons are better.
 
-<sup>\*\*</sup> Includes spiked clubs, military bammers, and other bashing weapons
-
-<sup>\*\*\*</sup> Includes the lance, if used dismounted.
-
 ## Magic Rules
+
+### Casting Spells
+
+**CASTING SCORE:** Technique + Form + Stamina – Encumbrance+ Aura Modifier
 
 #### Formulaic Spellcasting Sequence
 
 If you already know the spell …
 
-- **1.** Determine your Formulaic Casting Total, by rolling and adding your Casting Score. Roll a …
-- a. simple die if there's no pressure.
-- b. stress die in a stressful situation.
-- c. stress die if your spell is mastered (but no botch dice in calm situations).
-- **2**. Compare that Casting Total to the spell level.
-
-If your Casting Total is …
-
-- a. higher or equal, the spell is cast and you suffer no ill-effects.
-- b. short by 10 or less, the spell is cast and you lose 1 Fatigue level.
-- c. short by more than 10, the spell fails and you lose 1 Fatigue level.
-- **3**. Determine your Penetration Total, and compare it to the target's Magic Resistance. If yours is …
-- a. higher, your spell affects the target.
-- b. equal or falls short, your spell is ineffective.
+1. Determine your Formulaic Casting Total, by rolling and adding your Casting Score. Roll a …
+    - a. simple die if there's no pressure.
+    - b. stress die in a stressful situation.
+    - c. stress die if your spell is mastered (but no botch dice in calm situations).
+2. Compare that Casting Total to the spell level. If your Casting Total is …
+    - a. higher or equal, the spell is cast and you suffer no ill-effects.
+    - b. short by 10 or less, the spell is cast and you lose 1 Fatigue level.
+    - c. short by more than 10, the spell fails and you lose 1 Fatigue level.
+3. Determine your Penetration Total, and compare it to the target's Magic Resistance. If yours is …
+    - a. higher, your spell affects the target.
+    - b. equal or falls short, your spell is ineffective.
 
 #### Ritual Spellcasting Sequence
 
 If you spend 15 min and 1 pawn of vis per per spell magnitude …
 
-- **1.** Determine your Ritual Casting Total, by rolling and adding your Casting Score, Artes Liberales, and Philosophiae.
-- a. Always use a stress die.
-- b. If your spell is mastered, don't use botch dice in calm situations.
-- **2.** Compare that Casting Total to the spell level. If your Casting Total is …
-- a. higher or equal, the spell is cast but you lose 1 long-term Fatigue level.
-- b. short by 1 to 5, the spell is cast but lose 2 Fatigue.
-- c. short by 6 to 10, the spell is cast but lose 3 Fatigue.
-- d. short by 11 to 15, the spell fails and lose 4 Fatigue.
-- e. short by 16 or more, the spell fails and lose 5 Fatigue.
-- **3.** If you run out of Fatigue levels, you take wounds. If it would have been …
-- a. 1 more Fatigue level, take a Light Wound.
-- b. 2 more, take a Medium Wound.
-- c. 3 more, take a Heavy Wound.
-- d. 4 more, take an Incapacitating Wound.
-- **4.** Determine your Penetration Total, and compare it to the target's Magic Resistance. If yours is …
-- a. higher, your spell affects the target.
-- b. equal or falls short, your spell is ineffective.
+1. Determine your Ritual Casting Total, by rolling and adding your Casting Score, Artes Liberales, and Philosophiae.
+    - a. Always use a stress die.
+    - b. If your spell is mastered, don't use botch dice in calm situations.
+2. Compare that Casting Total to the spell level. If your Casting Total is …
+    - a. higher or equal, the spell is cast but you lose 1 long-term Fatigue level.
+    - b. short by 1 to 5, the spell is cast but lose 2 Fatigue.
+    - c. short by 6 to 10, the spell is cast but lose 3 Fatigue.
+    - d. short by 11 to 15, the spell fails and lose 4 Fatigue.
+    - e. short by 16 or more, the spell fails and lose 5 Fatigue.
+3. If you run out of Fatigue levels, you take wounds. If it would have been …
+    - a. 1 more Fatigue level, take a Light Wound.
+    - b. 2 more, take a Medium Wound.
+    - c. 3 more, take a Heavy Wound.
+    - d. 4 more, take an Incapacitating Wound.
+4. Determine your Penetration Total, and compare it to the target's Magic Resistance. If yours is …
+    - a. higher, your spell affects the target.
+    - b. equal or falls short, your spell is ineffective.
 
 #### Spontaneous Spellcasting Sequence
 
 If you're making up a new spell …
 
-- **1**. Decide on the effect you'll create.
-- **2**. Decide if you'll fatigue yourself …
-  - a. If yes, determine your Spontaneous Casting Total by rolling a stress die and adding your Casting Score, then dividing that by 2. You lose 1 Fatigue level.
-  - b. If no, determine your Spontaneous Casting Total by dividing your Casting Score by 5.
-- **3.** Compare that Casting Total to the effect you're creating. If your Casting Total is …
-  - a. higher than or equal to the effect, the spell is cast.
-  - For open-ended effects, a greater total creates a greater effect.
-- b. too low for an effect, the spell fails.
-- **4**. Determine your Penetration Total, and compare it to the target's Magic Resistance. If yours is …
-- a. higher, your spell affects the target.
-- b. equal or falls short, your spell is ineffective.
+1. Decide on the effect you'll create.
+2. Decide if you'll fatigue yourself …
+    - a. If yes, determine your Spontaneous Casting Total by rolling a stress die and adding your Casting Score, then dividing that by 2. You lose 1 Fatigue level.
+    - b. If no, determine your Spontaneous Casting Total by dividing your Casting Score by 5.
+3. Compare that Casting Total to the effect you're creating. If your Casting Total is …
+    - a. higher than or equal to the effect, the spell is cast. For open-ended effects, a greater total creates a greater effect.
+    - b. too low for an effect, the spell fails.
+4. Determine your Penetration Total, and compare it to the target's Magic Resistance. If yours is …
+    - a. higher, your spell affects the target.
+    - b. equal or falls short, your spell is ineffective.
 
-## Casting Spells
-
-**CASTING SCORE:**
-
-Technique + Form + Stamina – Encumbrance+ Aura Modifier
-
-## Formulaic Magic
+#### Formulaic Magic
 
 **CASTING TOTAL:** Casting Score + Die Roll
 
+| Casting Total – Spell Level | Spell Cast? | Fatigue Levels Lost |
+|-----------------------------|-------------|---------------------|
+| 0 or higher | Yes | 0 |
+| –1 to –10 | Yes | 1 |
+| –11 or lower | No | 1 |
 
-| CASTING TOTAL<br>– SPELL LEVEL | SPELL<br>CAST? | FATIGUE<br>LEVELS LOST |
-| --------------------------------- | ---------------- | ------------------------ |
-| 0 or higher                     | Yes            | 0                      |
-| –1 to –10                     | Yes            | 1                      |
-| –11 or lower                   | No             | 1                      |
+#### Ritual Magic
 
-## Ritual Magic
+**CASTING TOTAL:** Casting Score + Artes Liberales + Philosophiae + Stress Die
 
-**CASTING TOTAL:**
+| Casting Total – Spell Level | Spell Cast? | Fatigue Levels Lost |
+|-----------------------------|-------------|---------------------|
+| 0 or higher | Yes | 1 |
+| –1 to –5 | Yes | 2 |
+| –6 to –10 | Yes | 3 |
+| –11 to –15 | No | 4 |
+| –16 or more | No | 5 |
 
-Casting Score + Artes Liberales + Philosophiae + Stress Die
+#### Words and Gestures
 
+| Word | Modifier | Gestures | Modifier | Voice Range |
+|------|----------|----------|----------|-------------|
+| Loud | +1 | Exaggerated | +1 | 50 paces |
+| Firm | 0 | Bold | 0 | 15 paces |
+| Quiet | –5 | Subtle | –2 | 5 paces |
+| None | –10 | None | –5 | 0 paces (caster only) |
 
-| CASTING TOTAL<br>– SPELL LEVEL | SPELL<br>CAST? | FATIGUE<br>LEVELS LOST |
-| --------------------------------- | ---------------- | ------------------------ |
-| 0 or higher                     | Yes            | 1                      |
-| –1 to –5                      | Yes            | 2                      |
-| –6 to –10                     | Yes            | 3                      |
-| –11 to –15                    | No             | 4                      |
-| –16 or more                    | No             | 5                      |
-
-## Words and Gestures
-
-
-| WORD  | MODIFIER | GESTURES    | MODIFIER | VOICE RANGE              |
-| ------- | ---------- | ------------- | ---------- | -------------------------- |
-| Loud  | +1       | Exaggerated | +1       | 50 paces                 |
-| Firm  | 0        | Bold        | 0        | 15 paces                 |
-| Quiet | –5      | Subtle      | –2      | 5 paces                  |
-| None  | –10     | None        | –5      | 0 paces<br>(caster only) |
-
-## Spontaneous Magic
+#### Spontaneous Magic
 
 **FATIGUING CASTING TOTAL:** (Casting Score + Stress Die)/2
 
@@ -24134,39 +24081,36 @@ Casting Score + Artes Liberales + Philosophiae + Stress Die
 
 *See Definitive Edition page 218 for Ceremonial props and ritual spaces.*
 
-## Spellcasting Botch Dice
+#### Spellcasting Botch Dice
 
-Using Vis While Casting: +1 botch die per pawn of vis used
+**USING VIS WHILE CASTING:** +1 botch die per pawn of vis used
 
-CASTING IN A SUPERNATURAL AURA OTHER THAN MAGIC: +1 botch die per level of the aura
+**CASTING IN A SUPERNATURAL AURA OTHER THAN MAGIC:** +1 botch die per level of the aura
 
-Casting in a Regio Other than Magic: +2 botch dice per level of the aura
+**CASTING IN A REGIO OTHER THAN MAGIC:** +2 botch dice per level of the aura
 
-Fast Casting: +2 botch dice
+**FAST CASTING:** +2 botch dice
 
-Golden Cord to a Familiar: -1 botch die per level
+**GOLDEN CORD TO A FAMILIAR:** -1 botch die per level
 
-Spell Mastery:
+**SPELL MASTERY:** -1 botch die per level
 
--1 botch die per level
+#### Penetration
 
-## Penetration
+**HERMETIC PENETRATION TOTAL:** Casting Total + Penetration Bonus — Spell Level + Aura Modifier
 
-Hermetic Penetration Total: Casting Total + Penetration Bonus — Spell Level + Aura Modifier
+**CREATURE POWER PENETRATION TOTAL:** Might Score – (5 x Might Point cost of the power) + Penetration Bonus + Aura Modifier
 
-Creature Power Penetration Total: Might Score – (5 x Might Point cost of the power) + Penetration Bonus + Aura Modifier
+**CHARACTER PENETRATION TOTAL:** Effect Roll – Ease Factor + Penetration Bonus + Aura Modifier
 
-> CHARACTER PENETRATION TOTAL: Effect Roll – Ease Factor + Penetration Bonus + Aura Modifier
+**PENETRATION BONUS:** Penetration Ability × Penetration Multiplier
 
-$\begin{array}{c} P_{\text{ENETRATION}} \ Bonus: \\ Penetration \ Ability \times Penetration \ Multiplier \end{array}$
+**BASE PENETRATION MULTIPLIER:** 1
 
-Base Penetration Multiplier: 1
-
-If Penetration exceeds Magic Resistance, that target is affected.
-
+*If Penetration exceeds Magic Resistance, that target is affected.*
 
 | Sympathetic Connection                   | Bonus to Multiplier |
-| ------------------------------------------ | --------------------- |
+| ---------------------------------------- | ------------------- |
 | Caster is blood relative of target       | +1                  |
 | Signature of target                      | +1                  |
 | Target's nickname<br>or birth name       | +1                  |
@@ -24176,77 +24120,76 @@ If Penetration exceeds Magic Resistance, that target is affected.
 | Symbolic representation of target        | +2                  |
 
 
-| ARCANE CONNECTION      | Bonus to Multiplier |
-| ------------------------ | --------------------- |
+| Arcane Connection      | Bonus to Multiplier |
+| ---------------------- | ------------------- |
 | Lasts hours or days    | +1                  |
 | Lasts weeks or months  | +2                  |
 | Lasts years or decades | +3                  |
 | Lasts indefinitely     | +4                  |
 
-## Realm Interaction Table
+#### Realm Interaction Table
 
+| Aura Type | Magic Power | Divine Power | Faerie Power | Infernal Power |
+|-----------|-------------|--------------|--------------|----------------|
+| Magic | +aura | no effect | +(½ aura) | –aura |
+| Divine | –(3 × aura) | +aura | –(4 × aura) | –(5 × aura) |
+| Faerie | +(½ aura) | no effect | +aura | –aura |
+| Infernal | –aura | no effect | –(2 × aura) | +aura |
 
-|                  | Magic<br>Power | DIVINE<br>POWER | Faerie<br>Power | Infernal<br>Power |
-| ------------------ | ---------------- | ----------------- | ----------------- | ------------------- |
-| Magic<br>Aura    | + aura         | no effect       | + (1/2 aura)    | – aura           |
-| Divine<br>Aura   | – (3 x aura)  | + aura          | – (4 x aura)   | – (5 x aura)     |
-| Faerie<br>Aura   | + (1/2 aura)   | no effect       | + aura          | – aura           |
-| Infernal<br>Aura | – aura        | no effect       | – (2 x aura)   | + aura            |
++1 botch die per aura rating in foreign aura (not multiplied).
 
-+ 1 botch die per aura rating in foreign aura (not multiplied). + 2 botch dice per aura rating in a foreign regio.
++2 botch dice per aura rating in a foreign regio.
 
-## Magic Resistance
+#### Magic Resistance
 
-$H_{\text{ERMETIC}} \; M_{\text{AGUS}};$  Form + (Parma Magica  $\times$  5) + Aura Modifier
+HERMETIC MAGUS: Form + (Parma Magica × 5) + Aura Modifier
 
-Supernatural Creature: Might Score + Aura Modifier
+SUPERNATURAL CREATURE: Might Score + Aura Modifier
 
-## Typical Might Scores
+#### Typical Might Scores
 
-
-| Score  | Example                                                               |
-| -------- | ----------------------------------------------------------------------- |
+| Score | Example                                                               |
+| ----- | --------------------------------------------------------------------- |
 | 1–10  | An ordinary creature of a realm.                                      |
-| 11–20 | Moderately powerful.<br>Comparable, at least, to a<br>starting magus. |
+| 11–20 | Moderately powerful. Comparable, at least, to a starting magus.       |
 | 21–30 | Fairly powerful.                                                      |
-| 31–40 | Very powerful. Faerie<br>lords, minor dragons, and<br>the like.       |
-| 41–50 | Extremely powerful.<br>Pagan deities, major<br>dragons, etc.          |
+| 31–40 | Very powerful. Faerie lords, minor dragons, and the like.             |
+| 41–50 | Extremely powerful. Pagan deities, major dragons, etc.                |
 | 51–60 | Earth-shakingly important figures. Great dragons, Jove himself.       |
 
 
-| Fatigue p178-179 |         |                                                |   |   |   |
-| ------------------ | --------- | ------------------------------------------------ | --- | --- | --- |
-| FATIGUE LEVEL    | PENALTY | Time to Recover to<br>Next Lower Level         |   |   |   |
-| Winded           | 0       | 2 minutes                                      |   |   |   |
-| Weary            | -1      | 10 minutes                                     |   |   |   |
-| Tired            | -3      | 30 minutes                                     |   |   |   |
-| Dazed            | -5      | 60 minutes                                     |   |   |   |
-| Unconscious      | n/a     | 2 hours +<br>1 hour per extra<br>Fatigue level |   |   |   |
+#### Fatigue
+
+| Fatigue Level | Penalty | Time to Recover to Next Lower Level |
+|---------------|---------|-------------------------------------|
+| Winded | 0 | 2 minutes |
+| Weary | –1 | 10 minutes |
+| Tired | –3 | 30 minutes |
+| Dazed | –5 | 60 minutes |
+| Unconscious | n/a | 2 hours + 1 hour per extra Fatigue level |
 
 #### Concentration
 
-
-| SITUATION                      | Ease Factor    |
-| -------------------------------- | ---------------- |
-| Still                          | Trivial (0)    |
-| Walking                        | Simple (3)     |
-| Running                        | Average (9)    |
-| Dodging                        | Hard (12)      |
-| Jostled                        | Average (9)    |
-| Sudden noise or flash of light | Average (9)    |
-| Knocked Down                   | Hard (12)      |
-| Damaged this round             | Very Hard (15) |
+| Situation | Ease Factor |
+|-----------|-------------|
+| Still | Trivial (0) |
+| Walking | Simple (3) |
+| Running | Average (9) |
+| Dodging | Hard (12) |
+| Jostled | Average (9) |
+| Sudden noise or flash of light | Average (9) |
+| Knocked Down | Hard (12) |
+| Damaged this round | Very Hard (15) |
 
 For spells maintained as long as the maga concentrates, Ease Factors above are reduced by three points each.
 
-
-| SITUATION                               | Ease Factor                                                                                   |   |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------- | --- |
-| Answering a single easy yes/no question | Hard (12)                                                                                     |   |
-| Conversation                            | Very Hard (15)                                                                                |   |
-| Casting another spell                   | Very Hard (15)                                                                                |   |
-| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |   |
-| Injured                                 | 3 times wound penalty to<br>Concentration rolls<br>(this is instead of the<br>normal penalty) |   |
+| Situation | Ease Factor |
+|-----------|-------------|
+| Answering a single easy yes/no question | Hard (12) |
+| Conversation | Very Hard (15) |
+| Casting another spell | Very Hard (15) |
+| Maintaining another spell | Hard (12), +3 for each spell beyond the second |
+| Injured | 3 times wound penalty to Concentration rolls (instead of the normal penalty) |
 
 #### Spell Sizes
 
@@ -24254,51 +24197,49 @@ Intellego spells are not affected by Target size.
 
 BASE INDIVIDUAL: Determined by Form
 
-BASE PART:
-
-Same as Individual
+BASE PART: Same as Individual
 
 BASE GROUP: Mass of ten standard Individuals
 
-Appmona.
-
-MACATTUDES
-
-BASE ROOM:
-
-Large enough to accomodate 100 standard Individuals
+BASE ROOM: Large enough to accomodate 100 standard Individuals
 
 BASE STRUCTURE: Ten base Rooms
 
-BASE BOUNDARY:
+BASE BOUNDARY: An area 100 paces in diameter
 
-An area 100 paces in diameter
+INCREASING SIZE: Multiply size by ten for each magnitude added to the spell.
 
-INCREASING SIZE:
-
-Multiply size by ten for each magnitude added to the spell.
-
-## Volumes and Targets Parts
+#### Volumes and Targets Parts
 
 Each increase in size on this list indicates a ten-fold increase in volume, and thus a 1 magnitude increase in spell level.
 
-50 Cubic Inches/819  $cm^3 =$ 2 pints/1.14 ml, 4-inch/10.16cm-diameter sphere, five base Individuals of Aquam (poison), a Small object on the Material and Size table (p97/p255).
+50 CUBIC IN = 2 PINTS = 4-INCH SPHERE
+1000 CUBIC CM = 1 L = 12-CM SPHERE
+Five base Individuals of Aquam (poison), a Small object on the Material and Size table (p97/p255).
 
-500 Cubic Inches/8,194  $cm^3 =$ 2 gallons/7.57 liters, 1-foot/ .3-meter-diameter sphere, three base Individuals of Terram (precious metal), a Medium object on the Material and Size table.
+500 CUBIC IN = 2 GAL = 1-FT SPHERE
+10,000 CUBIC CM = 10 L = 30-CM SPHERE
+Three base Individuals of Terram (precious metal), a Medium object on the Material and Size table. 
 
-3 Cubic Feet/.09  $M^3 =$ 20 gallons/75.7 liters, 2-foot/ .6-meter-diameter sphere, three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table.
+3 CUBIC FT = 20 GAL = 2-FT SPHERE
+0.1 CUBIC M = 100 L = 60-CM SPHERE
+Three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table.
 
-1 Cubic Pace =
+1 CUBIC PACE = 200 GAL = 4-FT SPHERE
+1 CUBIC M = 1000 L = 1.2-M SPHERE
+Base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table.
 
-200 gallons/757 liters, 4-foot/ 1.22-meter-diameter sphere, base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table.
+10 CUBIC PACES = 2000 GAL = 8-FT SPHERE
+10 CUBIC M = 10,000 L = 3-M SPHERE
+Base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid). 
 
-10 Cubic Paces = 2,000 gallons/7,570.83 liters, 8-foot/2.44-meter-diameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid).
+100 CUBIC PACES = 6-PACE SPHERE
+Five base Individuals of Aquam (water). 
 
-100 Cubic Paces = 6-pace-diameter sphere, five base Individuals of Aquam (water).
+1000 CUBIC PACES = 12-PACE SPHERE
+Cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide, pool 16 paces in diameter and half as deep. 
 
-1000 CUBIC PACES = 12-pace-diameter sphere, cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide, pool 16 paces in diameter and half as deep.
-
-## Base Individuals
+#### Base Individuals
 
 Animal: a pony-sized animal, Size +1 or lower.
 
@@ -24312,97 +24253,103 @@ Processed liquids a pool one pace across, half a pace deep.
 
 Dangerous liquids: a puddle half a pace across, a fifth of a pace deep.
 
+Poisons: a single dose.
+
+Auram: a weather phenomenon the 
+
+Corpus: an adult human being, up to Size +1.
+
+Herbam: a plant one pace in each direction.
+
+Ignem: a large campfire or the hearthfire of a great hall.
+
 Imaginem: an adult human being is the standard, an illusion that size, producing that much noise, etc.
 
 Mentem: Size modifiers don't apply to Mentem effects with Individual targets. Group size is determined by the number of minds. Container sizes are determined as normal.
 
-Terram.
+Terram:
 
 Sand, dirt. mud. clay: ten cubic paces.
 
-Poisons: a single dose. Stone: one cubic pace. Auram: a weather phenomenon the Base metals: one cubic foot area inside a standard Boundary. Precious metals: one tenth of a cubic foot. Corpus: an adult human being, up to Size +1. Gemstones: one cubic inch. Herbam: a plant one pace in each Vim: Size modifiers don't apply direction to Vim effects with Individual targets. Group size is determined Ignem: a large campfire or the by the number of effects. hearthfire of a great hall. Container sizes are determined as normal Banges, Durations, and Targets RANCE DURATION Omer CONTAINER SENSE Personal Taste Momentary Individual Circle Concentration Touch/Eye Touch Part Diameter Smell Voice Sun/Ring Room Group Sight Moon Structure Hearing Arcane Year Boundary Vision Connection
+Stone: one cubic pace.
 
-## Arcane Connection Durations
+Base metals: one cubic foot area inside a standard Boundary.
 
+Precious metals: one tenth of a cubic foot.
 
-|            |                                                                                                                                                                                                                                                    |   |   |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| Duration   | Example Connections                                                                                                                                                                                                                                |   |   |
-| Hours      | Air from a specific place, shed skin from a human being, water from a moving body of water.                                                                                                                                                        |   |   |
-| Days       | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement.                                                                                                                     |   |   |
-| Weeks      | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |   |   |
-| Months     | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile.                                                                                                                    |   |   |
-| Years      | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile                                                                                                           |   |   |
-| Decades    | Body part.                                                                                                                                                                                                                                         |   |   |
-| Indefinite | Hermetic familiar (link to master),<br>Hermetic magus (link to familiar),<br>Hermetic talisman (link to creator),<br>fixed Arcane Connections<br>(see 'Fixing Arcane Connections' on<br>p94/p250).                                                 |   |   |
+Gemstones: one cubic inch. 
 
-## Certamen
+Vim: Size modifiers don't apply direction to Vim effects with Individual targets. Group size is determined by the number of effects. Container sizes are determined as normal.
 
-ATTACK Total:
+#### Ranges, Durations, and Targets
 
-Presence + Technique or Form + Stress Die
+| Additional Magnitudes | Range | Duration | Object | Container | Sense |
+|-----------------------|-------|----------|--------|-----------|-------|
+| 0 | Personal | Momentary | Individual | Circle | Taste |
+| 1 | Touch/Eye | Concentration/Diameter | Part | — | Touch |
+| 2 | Voice | Sun/Ring | Group | Room | Smell |
+| 3 | Sight | Moon | — | Structure | Hearing |
+| 4 | Arcane Connection | Year | — | Boundary | Vision |
 
-DEFENSE TOTAL:
+#### Arcane Connection Durations
 
-Perception + Form or Technique + Stress Die
+| Duration | Example Connections |
+|----------|---------------------|
+| Hours | Air from a specific place, shed skin from a human being, water from a moving body of water. |
+| Days | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement. |
+| Weeks | Lesser enchanted device, an item designed and made by the target (e.g. a letter composed and written by the target). An item designed by one person and made by another is an Arcane Connection lasting days to the person who made it. |
+| Months | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile. |
+| Years | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile. |
+| Decades | Body part. |
+| Indefinite | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' p94/p250). |
 
-ATTACK ADVANTAGE:
+### Certamen
 
-Attack Total - Defense Total (if Attack Total is higher)
+ATTACK Total: Presence + Technique or Form + Stress Die
 
-WEAKENING TOTAL:
+DEFENSE TOTAL: Perception + Form or Technique + Stress Die
 
-Intelligence + Penetration + Attack Advantage
+ATTACK ADVANTAGE: Attack Total - Defense Total (if Attack Total is higher)
 
-RESISTANCE TOTAL:
+WEAKENING TOTAL: Intelligence + Penetration + Attack Advantage
 
-Stamina + Parma Magica
+RESISTANCE TOTAL: Stamina + Parma Magica
 
+| Weakening Total – Resistance Total | Fatigue Levels Lost |
+|------------------------------------|---------------------|
+| 0 | None |
+| 1–5 | 1 |
+| 6–10 | 2 |
+| 11–15 | 3 |
+| 16–20 | 4 |
+| 21–25 | 5 |
+| 26–30 | 6 |
+| etc. | etc. |
 
-| Weakening Total -<br>Resistance Total | FATIGUE LEVELS LOST |
-| --------------------------------------- | --------------------- |
-| 0                                     | None                |
-| 1–5                                  | 1                   |
-| 6–10                                 | 2                   |
-| 11–15                                | 3                   |
-| 16–20                                | 4                   |
-| 21–25                                | 5                   |
-| 26–30                                | 6                   |
-| etc.                                  | etc.                |
-
-## Wizard's Twilight
+### Wizard's Twilight
 
 Roll when gaining 2 or more Warping Points from a single event.
 
-TWILIGHT AVOIDANCE:
+TWILIGHT AVOIDANCE: Stamina + Concentration + Vim Form Bonus + stress die vs. Warping Score + Number of Warping Points gained + Enigmatic Wisdom + local aura + stress die (no botch)
 
-Stamina + Concentration + Vim Form Bonus + stress die vs. Warping Score + Number of Warping Points gained + Enigmatic Wisdom + local aura + stress die (no botch)
+TWILIGHT COMPREHENSION: Intelligence + Enigmatic Wisdom + stress die vs. Warping Score + stress die
 
-TWILIGHT COMPREHENSION:
+BOTCH DICE: 1 + 1 per Warping Point gained to trigger the Twilight
 
-Intelligence + Enigmatic Wisdom + stress die vs. Warping Score + stress die
+TWILIGHT TIME: Intelligence + stress die vs. Warping Score + stress die
 
-BOTCH DICE:
-
-1 + 1 per Warping Point gained to trigger the Twilight
-
-TWILIGHT TIME:
-
-Intelligence + stress die vs. Warping Score + stress die
-
-
-| WARPING<br>SCORE | BASE TIME IN TWILIGHT                    |
-| ------------------ | ------------------------------------------ |
-| 1                | Diameter (2 minutes)                     |
-| 2                | Two Hours                                |
-| 3                | Sun                                      |
-| 4 5              | Day (24 hours)                           |
-|                  | Moon                                     |
-| 6                | Season                                   |
-| 7                | Year                                     |
-| 8                | Seven Years                              |
-| 9                | Seven plus a Stress Die Years (no botch) |
-| 10+              | Eternal: Final Twilight                  |
+| Warping Score | Base Time in Twilight |
+|---------------|-----------------------|
+| 1 | Diameter (2 minutes) |
+| 2 | Two Hours |
+| 3 | Sun |
+| 4 | Day (24 hours) |
+| 5 | Moon |
+| 6 | Season |
+| 7 | Year |
+| 8 | Seven Years |
+| 9 | Seven plus a Stress Die Years (no botch) |
+| 10+ | Eternal: Final Twilight |
 
 Note: The die rolls are the rolls already made to comprehend the Twilight
 
@@ -24412,143 +24359,101 @@ A comprehended Twilight has good effects, otherwise the effects are bad. See p89
 
 ## Laboratory Rules
 
-## Laboratory Activities
-
-p94-102 p249-263
-
-Fixing an Arcane Connection: 1 season + 1 pawn of Vim vis
-
-VIS EXTRACTION:
-One tenth (round up) of
-Creo Vim Lab Total pawns of Vim vis
-
-Vis Transfer:
-One day (sunrise to sunrise),
-can be combined with other activities
-
-INVENTING SPELLS:
-
-Gain Lab Total – Spell Level levels per season, invented when total levels gained equal or exceed spell level.
-
-Preparing Item for Enchantment as an Invested Device:
-
-1 season + pawns of Vim vis as determined
-by material and size.
-
-Instilling an Effect In an Invested Device:
-Gain Lab Total – Effect Level levels per season, invested when total levels gained equal or exceed effect
-level. Expend 1 pawn of vis matching the Technique or
-Form for every 10 levels or fraction thereof.
-
-LIMIT ON INVESTMENT:
-
-Pawns of vis expended to invest effects may not exceed pawns of vis used to prepare the item.
-
-Lesser Enchanted Device::
-
-Need not be prepared, effect must be instilled in a single season.
-
-CHARGED ITEMS::
-
-No vis needed, 1 charge for every five points, or fraction, by which Lab Total exceeds level of effect (1 charge if Lab Total equals level).
-
-Investigate Enchantments:
-Intellego Vim Lab Total + stress die
-
-Talisman Attunement: 1 season
-
-LONGEVITY RITUAL:
-
-1 season, +1 bonus for every five points or fraction of Creo Corpus Lab Total, 1 pawn of vis for every five years of age (rounded up), vis use limited by Arts, not Magic Theory
-
-LABORATORY TEXTS:
-
-1 season if Lab Total equals or exceeds level of effects. May create multiple spells or effects in one season if they are all of the same Technique and Form, and the total level does not exceed Lab Total
-
-## Laboratory Rolls
+### Laboratory Rolls
 
 LAB TOTAL: Technique + Form + Intelligence + Magic Theory + Aura Modifier
 
-Vis Limita
+VIS LIMIT: Magic Theory × 2 pawns per season
 
-Magic Theory × 2 pawns per season
+### Laboratory Activities
 
-## Learning Spells from a Teacher
+p94-102, p249-263
 
-MAXIMUM TOTAL LEVELS:
-Teacher's highest applicable Lab Total
+FIXING AN ARCANE CONNECTION: 1 season + 1 pawn of Vim vis
+
+VIS EXTRACTION: One tenth (round up) of Creo Vim Lab Total pawns of Vim vis
+
+VIS TRANSFER: One day (sunrise to sunrise), can be combined with other activities
+
+INVENTING SPELLS: Gain Lab Total – Spell Level levels per season, invented when total levels gained equal or exceed spell level.
+
+PREPARING ITEM FOR ENCHANTMENT AS AN INVESTED DEVICE: 1 season + pawns of Vim vis as determined by material and size.
+
+INSTILLING AN EFFECT IN AN INVESTED DEVICE: Gain Lab Total – Effect Level levels per season, invested when total levels gained equal or exceed effect level. Expend 1 pawn of vis matching the Technique or Form for every 10 levels or fraction thereof.
+
+LIMIT ON INVESTMENT: Pawns of vis expended to invest effects may not exceed pawns of vis used to prepare the item.
+
+LESSER ENCHANTED DEVICE: Need not be prepared, effect must be instilled in a single season.
+
+CHARGED ITEMS: No vis needed, 1 charge for every five points, or fraction, by which Lab Total exceeds level of effect (1 charge if Lab Total equals level).
+
+INVESTIGATE ENCHANTMENTS: Intellego Vim Lab Total + stress die
+
+TALISMAN ATTUNEMENT: 1 season
+
+LONGEVITY RITUAL: 1 season, +1 bonus for every five points or fraction of Creo Corpus Lab Total, 1 pawn of vis for every five years of age (rounded up), vis use limited by Arts, not Magic Theory
+
+LABORATORY TEXTS: 1 season if Lab Total equals or exceeds level of effects. May create multiple spells or effects in one season if they are all of the same Technique and Form, and the total level does not exceed Lab Total
+
+#### Learning Spells from a Teacher
+
+MAXIMUM TOTAL LEVELS: Teacher's highest applicable Lab Total
 
 MAXIMUM LEVELS IN ONE TECHNIQUE AND FORM: Teacher's Lab Total in that Technique and Form
 
-> HIGHEST LEVEL OF AN INDIVIDUAL SPELL: Student's Lab Total in the Technique and Form of the spell
+HIGHEST LEVEL OF AN INDIVIDUAL SPELL: Student's Lab Total in the Technique and Form of the spell
 
-## Binding a Familiar
+#### Binding a Familiar
 
-Familiar Bonding Lab Total:
+FAMILIAR BONDING LAB TOTAL: Any Technique + any Form + Intelligence + Magic Theory + Aura Modifier
 
-Any Technique + any Form + Intelligence
+FAMILIAR BONDING LEVEL: Familiar's Magic Might + 25 + (5 x Size)
 
-Magic Theory + Aura Modifier
+FAMILIAR BONDING COST: 1 pawn vis per five levels or fraction of the binding Lab Total. Vis must match Technique or Form.
 
-Familiar Bonding Level:
-
-Familiar's Magic Might + 25 + (5 x Size)
-
-Familiar Bonding Cost:
-
-1 pawn vis per five levels or fraction of the binding Lab Total. Vis must match Technique or Form.
-
-## Training an Apprentice
+#### Training an Apprentice
 
 - Use standard teaching rules.
 - At least 1 season per year, must extend Parma Magica to cover the apprentice.
 - Opening the Arts takes 1 season, must have a score of 5 or higher in every Art or the apprentice gains a Deficiency in the Art.
 - If the apprentice has a Supernatural Ability, must have Intellego Vim Lab Total at least 5 × score in the Ability, minimum 10 for a Minor Virtue, 30 for Major (10 for a Minor Virtue with no Ability, 10 for a Major). For multiple abilities, add all the scores together. If Lab Total is at least double this level, the ability may be retained or converted into a Hermetic Virtue, otherwise, it is lost.
 
-## Teaching Hermetic Virtues Property
+#### Teaching Hermetic Virtues Property
 
-Teaching Source Quality: Communication + Teaching + 3 + bonus
+TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus
 
-BONUSES:
+BONUSES: +6 one-on-one, +3 Minor Hermetic Flaw, +9 Major Hermetic Flaw
 
-+6 one-on-one, +3 Minor Hermetic Flaw, +9 Major Hermetic Flaw
+TARGET LEVEL: Minor 15, Major 21
 
-> TARGET LEVEL: Minor 15, Major 21
+LEVEL MODIFIERS: +3 for each Minor Hermetic Virtue, +9 for each Major Hermetic Virtue
 
->> LEVEL MODIFIERS:
->>
+### Enchanted Items
 
-+3 for each Minor Hermetic Virtue, +9 for each Major Hermetic Virtue
+#### Material and Size Tables
 
-## Enchanted Items
+| Material | Base Points |
+|----------|-------------|
+| Cloth, glass | 1 |
+| Wood, leather | 2 |
+| Bone, soft stone | 3 |
+| Hard stone | 4 |
+| Base metal | 5 |
+| Silver | 6 |
+| Gold | 10 |
+| Semi-precious gem | 12 |
+| Precious gem | 15 |
+| Priceless gem | 20 |
 
-## Material and Size Tables
+| Size | Example | Multiplier |
+|------|---------|------------|
+| Tiny | Gem, ring, bracelet, pendant, any gem | ×1 |
+| Small | Wand, dagger, belt, cap | ×2 |
+| Medium | Sword, tunic, boots, skull | ×3 |
+| Large | Staff, shield, cloak, skeleton | ×4 |
+| Huge | Boat, wagon, human body, small room | ×5 |
 
-
-| Base Points |
-| ------------- |
-| 1           |
-| 2           |
-| 3           |
-| 4           |
-| 5           |
-| 6           |
-| 10          |
-| 12          |
-| 15          |
-| 20          |
-|             |
-
-
-| Size     | Example                                   | Multiplier |
-| ---------- | ------------------------------------------- | ------------ |
-| tiny gem | ring, bracelet,<br>pendant,               | x1         |
-| small    | any gem<br>wand, dagger,<br>belt, cap     | x2         |
-| medium   | sword, tunic,<br>boots, skull             | х3        |
-| large    | staff, shield,<br>cloak, skeleton         | x4         |
-| huge     | boat, wagon,<br>human body,<br>small room | x5         |
-
-## Effect Modifiers
+#### Effect Modifiers
 
 Penetration: +2 Penetration per added level
 
@@ -24562,11 +24467,10 @@ Fast trigger: +5 levels, effect gets +3 Initiative
 
 Linked trigger: +3 levels
 
-## Number of Uses
-
+#### Number of Uses
 
 | Frequency       | Modifier |
-| ----------------- | ---------- |
+| --------------- | -------- |
 | 1 use per day   | 0        |
 | 2 uses per day  | +1       |
 | 3 uses per day  | +2       |
@@ -24576,16 +24480,15 @@ Linked trigger: +3 levels
 | 50 uses per day | +6       |
 | Unlimited       | +10      |
 
-## Effect Expiry
+#### Effect Expiry
 
-
-| ITEM LASTS | Excess Modifier |
-| ------------ | ----------------- |
+| Item Lasts | Excess Modifier |
+| ---------- | --------------- |
 | 1 year     | x10             |
 | 7 years    | x5              |
 | 70 years   | x2              |
 
-## Experimentation
+#### Experimentation
 
 p107-109
 
@@ -24595,12 +24498,11 @@ p107-109
 
 ## Extraordinary Results Chart
 
-
 | Roll  | Result                         |
-| ------- | -------------------------------- |
+| ----- | ------------------------------ |
 | Botch | Disaster                       |
 | 0-4   | No extraordinary effects       |
-| 5–6  | Side effect                    |
+| 5–6   | Side effect                    |
 | 7     | No benefit                     |
 | 8     | Complete failure               |
 | 9     | Special or story event         |
@@ -24610,94 +24512,97 @@ p107-109
 
 **Disaster:** You fail miserably. Consult the following table for the result, depending on the number of zeroes rolled on the botch dice. Suffer the effect for the number you roll and for all lower numbers, unless explicitly told otherwise. For example, an explosion (3) also destroys the creation and inflicts Warping Points on the magus.
 
+| Zeroes | Result |
+|--------|--------|
+| 1 | Everyone in the lab gains Warping Points equal to the number of zeroes on the botch roll. Hermetic magi (and anyone else opened to the Hermetic Arts) must roll for Twilight if they gain two or more. The season is completely wasted. If magi choose not to resist Twilight, they enter Twilight before the effects occur and avoid any personal damage. |
+| 2 | Your creation is destroyed. If it is a single-season project, this is the same as a Complete Failure. |
+| 3 | Your laboratory gains the Damaged Flaw. |
+| 4 | Explosion! Your laboratory gains the Wrecked Flaw (instead of Damaged), and anyone in the laboratory takes two Heavy Wounds. |
+| 5+ | The storyguide picks one: (1) A story event threatens the whole covenant, arising immediately or as a lingering after-effect of uncontrolled magic. (2) The explosion completely destroys the laboratory — the structure gains the Deformed and Unstable Flaws, must be rebuilt from nothing, and anyone inside takes an additional Incapacitating Wound. |
 
-| Zeroes | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| 1      | Everyone in the lab gains Warping Points equal to the number of zeroes on the botch roll. Hermetic magi (and anyone else opened to the Hermetic Arts) must roll for Twilight if they gain two or more, members of other traditions may also suffer serious effects, as determined by their tradition. The season is completely wasted, see Complete Failure. If there are other results and magi choose not to resist Twilight, they enter Twilight before the effects occur, and thus avoid any personal damage. |   |   |
-| 2      | Your creation is destroyed. If it is a single-season project, this is the same as a Complete Failure.                                                                                                                                                                                                                                                                                                                                                                                                             |   |   |
-| 3      | Your laboratory gains the Damaged Flaw.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |   |
-| 4      | Explosion! Your laboratory gains the Wrecked Flaw (instead of the Damaged Flaw), and anyone in the laboratory takes two Heavy Wounds.                                                                                                                                                                                                                                                                                                                                                                             |   |   |
-| 5+     | The storyguide picks one of the following:<br>A story event threatens the whole covenant. This<br>may arise immediately from the explosion (a<br>mundane fire, for example), or may be a lingering<br>after-effect of the uncontrolled magic, causing a<br>story some time later.                                                                                                                                                                                                                                 |   |   |
-|        | The explosion completely destroys the laboratory. The structure gains the Deformed and Unstable Flaws, and the whole laboratory must be rebuilt from nothing, rather than gaining the Wrecked Flaw. Anyone in the laboratory takes an additional Incapacitating Wound.                                                                                                                                                                                                                                            |   |   |
+**No Extraordinary Effects:** Your experiment works without producing any unintended effects.
 
-No Extraordinary Effects: Your experiment works without producing any unintended effects.
+**Side Effect:** Your magical creation acquires a side effect. Roll a simple die, and work out the specifics with the storyguide.
 
-Side Effect: Your magical creation acquires a side effect. Roll a simple die, and work out the specifics with the storyguide.
+| Roll | Result |
+|------|--------|
+| 1 | Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect. |
+| 2–3 | The effect has a minor flaw. For example, a spell that allows you to communicate with animals causes you to retain some of the animal's speech patterns for a time after the spell ends. |
+| 4–5 | The spell has a minor side effect. For example, a spell that controls an animal causes grass to grow under its feet. |
+| 6 | The spell has a minor side benefit. For example, a wind spell has a pleasant smell and makes flying insects uncomfortable. |
+| 7 | The spell has a major flaw. For example, a healing spell causes its targets great pain. |
+| 8 | The spell has a major side effect. For example, a plant control spell attracts all birds in 100 paces. |
+| 9 | The spell has a major side benefit. For example, a spell that transforms you into a wolf also lets you speak to all beasts while a wolf. |
+| 10 | The spell has a fatal flaw. For example, an invisibility spell makes you glow. |
 
-#### ROLL RESULT
+**No Benefit:** Your experimentation produces no results. You lose the benefit of the extra die and risk modifier — recalculate your Lab Total without those modifiers. If your new Lab Total is too low to succeed in the project, it must be abandoned.
 
-- Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect.
-- 2-3 The effect has a minor flaw. For example, a spell that allows you to communicate with animals causes you to retain some of the animal's speech patterns for a time after the spell ends.
-- 4-5 The spell has a minor side effect. For example, a spell that controls an animal causes grass to grow under its feet.
-- The spell has a minor side benefit. For example, a wind spell has a pleasant smell and makes flying insects uncomfortable.
-- 7 The spell has a major flaw. For example, a healing spell causes its targets great pain.
-- 8 The spell has a major side effect. For example, a plant control spell attracts all birds in 100 paces.
-- 9 The spell has a major side benefit. For example, a spell that transforms you into a wolf also lets you speak to all beasts while a wolf.
-- The spell has a fatal flaw. For example, an invisibility spell makes you glow.
+**Complete Failure:** You get nothing from your efforts, and your season is wasted. If you were working on a familiar or enchanted item, roll a simple die. On a 0, it is destroyed.
 
-No Benefit: Your experimentation produces no results. You lose the benefit of the extra die and risk modifier — recalculate your Lab Total without those modifiers. If your new Lab Total is too low to succeed in the project, it must be abandoned.
-
-Complete Failure: You get nothing from your efforts, and your season is wasted. If you were working on a familiar or enchanted item, roll a simple die. On a 0, it is destroyed.
-
-**Special or Story Event**: The storyguide picks one of the following.
+**Special or Story Event:** The storyguide picks one of the following.
 
 - The creation requires additional raw vis. The magus must spend a number of additional pawns of vis that match the Technique or Form of the project equal to the magnitude of the effect (including modifications) plus the risk modifier. If he is unable to do so, either because he does not have the vis, or because he cannot handle enough vis in a single season, treat as a Complete Failure.
 - The magus also creates a spell, with the same Technique and Form as the project, of any level that he could create in a single season. The spell is designed by the storyguide or troupe, and need not have an obvious connection to the project. The magus knows it, and can write up the Laboratory Text as normal, allowing other magi to create it as well. It is simpler if this spell does follow all the rules of Hermetic Magic, but that is not essential if the troupe is happy with the complications. Treat this as No Extraordinary Effects for the main project.
 - The creation is modified in some way that does not necessarily fall under the categories of Side Effect or Modified Effect, although it may if desired. This allows the storyguide to introduce any sort of supernatural effect — the creation could even be strongly affected by a different realm. The result may be positive or negative from the magus's perspective, but should be interesting for the troupe.
 - A story event happens. This can be anything, it could be used as an opportunity to introduce a major plot line, or as a brief and amusing distraction. It does not need to happen immediately, the uncontrolled magic might set something in motion, or it might be a result of using the creation in a particular context, some time later. The story event may be basically positive the magus might attract the attention of a potential familiar, for example. Unless the story event requires otherwise, treat this as No Extraordinary Effects for the project itself.
 
-Discovery: Roll a simple die and add your risk modifier. If you are engaged in Arcane Discovery (See *ArMD* p277), you make a discovery that advances your project, and ignore this table.
+**Discovery:** Roll a simple die and add your risk modifier. If you are engaged in Arcane Discovery (See *ArMD* p277), you make a discovery that advances your project, and ignore this table.
 
-#### ROLL RESULT
+| Roll | Result |
+|------|--------|
+| 1–4 | You gain 15 experience points in Magic Theory. |
+| 5–6 | You gain 15 experience points in some Ability related to the experiment. |
+| 7–8 | You gain three experience points in one of the Arts used in the experiment. |
+| 9 | You gain enough experience points to bring one of the Arts used in the experiment to the next level (or three experience points, whichever is greater). |
+| 10+ | Roll twice, and reroll this result if it is generated again. |
 
-- 1–4 You gain 15 experience points in Magic Theory.
-- 5–6 You gain 15 experience points in some Ability related to the experiment
-- 7–8 You gain three experience points in one of the Arts used in the experiment.
-- 9 You gain enough experience points to bring one of the Arts used in the experiment to the next level (or three experience points, whichever is greater).
-- 10+ Roll twice, and reroll this result if it is generated again.
+**Modified Effect:** Roll a simple die and add your risk modifier. If you were investigating a magic item, you have changed one or more of its powers.
 
-Modified Effect: Roll a simple die and add your risk modifier. If you were investigating a magic item, you have changed one or more of its powers.
+| Roll | Result |
+|------|--------|
+| 1–3 | The spell or effect is reduced in range, duration, target, or potency. |
+| 4–6 | The spell or effect's range, duration, target, or potency is increased. |
+| 7–8 | The use of the spell or effect is restricted. For example, it fails to work in certain circumstances, like when it is raining. |
+| 9–10 | The actual effect of your experiment is modified. For example, a spell like Curse of Circe turns the target into a goat instead of a pig. |
+| 11+ | The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged and the level remains similar. |
 
-#### ROLL RESULT
-
-- 1–3 The spell or effect is reduced in range, duration, target, or potency.
-- 4–6 The spell or effect's range, duration, target, or potency is increased.
-- 7–8 The use of the spell or effect is restricted. For example, it fails to work in certain circumstances, like when it is raining.
-- 9–10 The actual effect of your experiment is modified. For example, a spell like Curse of Circe (p131/p334) turns the target into a goat instead of a pig.
-- 11+ The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar.
-
-# Ease Factors for Creating and Crafting Objects
+#### Ease Factors for Creating and Crafting Objects
 
 The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day.
 
+| Crafting Task | Ease Factor | Example |
+|---------------|-------------|---------|
+| Trivial | 3 | Almost never worth rolling for. |
+| Simple | 6 | Work regularly done by untrained people, like whitewashing a house. |
+| Easy | 9 | The daily work of semiskilled craftsmen. |
+| Average | 12 | The daily work of skilled craftsmen. |
+| Hard | 15 | Daily work of highly skilled craftsmen; exceptional work by average craftsmen. |
+| Very Hard | 18 | Daily work of exceptionally skilled craftsmen; exceptional work by highly skilled craftsmen. |
+| Impressive | 21 | Exceptional work done by grandmasters of a craft. |
+| Remarkable | 24 | The finest work done by grandmasters of a craft. |
+| Almost Impossible | 27 | The epitomes of skill in a craft. |
 
-| Crafting<br>Task     | Ease<br>Factor | Example                                                                                           |
-| ---------------------- | ---------------- | --------------------------------------------------------------------------------------------------- |
-| Trivial              | 3              | Almost never worth rolling for                                                                    |
-| Simple               | 6              | Work regularly done by<br>untrained people, like<br>whitewashing a house                          |
-| Easy                 | 9              | The daily work of semiskilled craftsmen                                                           |
-| Average              | 12             | The daily work of skilled craftsmen                                                               |
-| Hard                 | 15             | Daily work of highly skilled craftsmen, exceptional work by average craftsmen                     |
-| Very Hard            | 18             | Daily work of exceptionally<br>skilled craftsmen, exceptional<br>work by highly skilled craftsmen |
-| Impressive           | 21             | Exceptional work done by grandmasters of a craft                                                  |
-| Remarkable           | 24             | The finest work done by grandmasters of a craft                                                   |
-| Almost<br>Impossible | 27             | The epitomes of skill in a craft                                                                  |
+#### Magical Craft
 
-## Magical Craft
+REGO CRAFT MAGIC ROLL: Perception + Finesse
 
-Rego Craft Magic
+CREO CRAFT MAGIC ROLL: Intelligence + Finesse
 
+FIX A SINGLE PROPERTY: Ease Factor 0
 
-| REGO CRAFT MAGIC ROLL:                        | Base Ease Factor:                         |
-| ----------------------------------------------- | ------------------------------------------- |
-| Perception + Finesse                          | Highest Ease Factor for a                 |
-| Creo Craft Magic Roll:                        | Mundane Craftsman + 3                     |
-| Intelligence + Finesse                        | One day's work for                        |
-| FIX A SINGLE PROPERTY:                        | one craftsman is +0                       |
-| Ease Factor 0                                 | One month's work for                      |
-| Fix Two or Three Properties,                  | one craftsman is +3                       |
-| OR FIX ONE PRECISELY: Ease Factor 3           | One season's work for one craftsman is +6 |
-| ELABORATE MODIFICATIONS:  Same Ease Factor as | One year's work for one craftsman is +9   |
+FIX TWO OR THREE PROPERTIES, OR FIX ONE PRECISELY: Ease Factor 3
+
+ELABORATE MODIFICATIONS: Same Ease Factor as Rego Craft Magic
+
+BASE EASE FACTOR: Highest Ease Factor for a Mundane Craftsman + 3
+
+One day’s work for one craftsman is +0
+
+One month’s work for one craftsman is +3
+
+One season’s work for one craftsman is +6
+
+One year’s work for one craftsman is +9
 
 ## Aging Rolls
 
@@ -24705,102 +24610,93 @@ Rego Craft Magic
 
 Roll every year after turning 35.
 
-AGING TOTAL:
-
-Stress die (no botch) + age/10 (round up)
-
-- Living Conditions modifier
-- Longevity Ritual modifier
+AGING TOTAL: Stress die (no botch) + age/10 (round up) - Living Conditions modifier - Longevity Ritual modifier
 
 ## Aging
 
 р168-170 р391
 
-
-| LIVING CONDITIONS                              | Modifier |
-| ------------------------------------------------ | ---------- |
-| Wealthy, or healthy location                   | +2       |
-| Typical Summer or Autumn covenant (magus)      | +2       |
-| Typical Summer or<br>Autumn covenant (mundane) | +1       |
-| Typical Spring or Winter covenant (magus)      | +1       |
-| Average peasant                                | 0        |
-| Live in a leper colony*                        | -1       |
-| Work in a bad air trade*                       | -1       |
-| Work in a mine*                                | -1       |
-| Poor, or unhealthy location;<br>typical town*  | -2       |
-| Leper*                                         | -2       |
+| Living Conditions | Modifier |
+|-------------------|----------|
+| Wealthy, or healthy location | +2 |
+| Typical Summer or Autumn covenant (magus) | +2 |
+| Typical Summer or Autumn covenant (mundane) | +1 |
+| Typical Spring or Winter covenant (magus) | +1 |
+| Average peasant | 0 |
+| Live in a leper colony* | –1 |
+| Work in a bad air trade* | –1 |
+| Work in a mine* | –1 |
+| Poor, or unhealthy location; typical town* | –2 |
+| Leper* | –2 |
 
 \* Modifiers marked with an asterisk are cumulative with each other.
 
-
-| AGING ROLL | Result                                                                                                         |
-| ------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 2 or less  | No apparent aging                                                                                              |
-| 3 or more  | Apparent age increases by one year                                                                             |
-| 10–12     | 1 Aging Point in any Characteristic                                                                            |
-| 13         | Gain sufficient Aging Points (in any<br>Characteristics) to reach the next<br>level in Decrepitude, and Crisis |
-| 14         | 1 Aging Point in Qik                                                                                           |
-| 15         | 1 Aging Point in Sta                                                                                           |
-| 16         | 1 Aging Point in Per                                                                                           |
-| 17         | 1 Aging Point in Prs                                                                                           |
-| 18         | 1 Aging Point in Str and Sta                                                                                   |
-| 19         | 1 Aging Point in Dex and Qik                                                                                   |
-| 20         | 1 Aging Point in Com and Prs                                                                                   |
-| 21         | 1 Aging Point in Int and Per                                                                                   |
-| 22+        | Gain sufficient Aging Points (in any<br>Characteristics) to reach the next<br>level in Decrepitude, and Crisis |
+| Aging Roll | Result |
+|------------|--------|
+| 2 or less | No apparent aging. |
+| 3 or more | Apparent age increases by one year. |
+| 10–12 | 1 Aging Point in any Characteristic. |
+| 13 | Gain sufficient Aging Points (in any Characteristics) to reach the next level in Decrepitude, and Crisis. |
+| 14 | 1 Aging Point in Qik. |
+| 15 | 1 Aging Point in Sta. |
+| 16 | 1 Aging Point in Per. |
+| 17 | 1 Aging Point in Prs. |
+| 18 | 1 Aging Point in Str and Sta. |
+| 19 | 1 Aging Point in Dex and Qik. |
+| 20 | 1 Aging Point in Com and Prs. |
+| 21 | 1 Aging Point in Int and Per. |
+| 22+ | Gain sufficient Aging Points (in any Characteristics) to reach the next level in Decrepitude, and Crisis. |
 
 ## Seasonal Activities
 
-#### Advancement Tables
+### Advancement Tables
 
-
-|       | ART |                        | ABILITY |             |
-| ------- | ----- | ------------------------ | --------- | ------------- |
-| SCORE |     | ART TO BUY TO RAISE TO | ABILITY | TO RAISE TO |
-| 1     | 1   | 1                      | 5       | 5           |
-| 2     | 3   | 2                      | 15      | 10          |
-| 3     | 6   | 3                      | 30      | 15          |
-| 4     | 10  | 4                      | 50      | 20          |
-| 5     | 15  | 5                      | 75      | 25          |
-| 6     | 21  | 6                      | 105     | 30          |
-| 7     | 28  | 7                      | 140     | 35          |
-| 8     | 36  | 8                      | 180     | 40          |
-| 9     | 45  | 9                      | 225     | 45          |
-| 10    | 55  | 10                     | 275     | 50          |
-| 11    | 66  | 11                     | 330     | 55          |
-| 12    | 78  | 12                     | 390     | 60          |
-| 13    | 91  | 13                     | 455     | 65          |
-| 14    | 105 | 14                     | 525     | 70          |
-| 15    | 120 | 15                     | 600     | 75          |
-| 16    | 136 | 16                     | 680     | 80          |
-| 17    | 153 | 17                     | 765     | 85          |
-| 18    | 171 | 18                     | 855     | 90          |
-| 19    | 190 | 19                     | 950     | 95          |
-| 20    | 210 | 20                     | 1050    | 100         |
+| Score | Art to Buy | Art to Raise to | Ability to Buy | Ability to Raise to |
+|-------|------------|-----------------|----------------|---------------------|
+| 1 | 1 | 1 | 5 | 5 |
+| 2 | 3 | 2 | 15 | 10 |
+| 3 | 6 | 3 | 30 | 15 |
+| 4 | 10 | 4 | 50 | 20 |
+| 5 | 15 | 5 | 75 | 25 |
+| 6 | 21 | 6 | 105 | 30 |
+| 7 | 28 | 7 | 140 | 35 |
+| 8 | 36 | 8 | 180 | 40 |
+| 9 | 45 | 9 | 225 | 45 |
+| 10 | 55 | 10 | 275 | 50 |
+| 11 | 66 | 11 | 330 | 55 |
+| 12 | 78 | 12 | 390 | 60 |
+| 13 | 91 | 13 | 455 | 65 |
+| 14 | 105 | 14 | 525 | 70 |
+| 15 | 120 | 15 | 600 | 75 |
+| 16 | 136 | 16 | 680 | 80 |
+| 17 | 153 | 17 | 765 | 85 |
+| 18 | 171 | 18 | 855 | 90 |
+| 19 | 190 | 19 | 950 | 95 |
+| 20 | 210 | 20 | 1050 | 100 |
 
 **To buy**: The number of experience points required to raise a score from zero to that number.
 
 **To raise to:** The number of experience points required to raise a score by one point to that number.
 
-#### Writing Books
+### Writing Books
 
-**SUMMA SOURCE QUALITY**: Author's Communication + 6 + bonus
+**SUMMA SOURCE QUALITY*:* Author's Communication + 6 + bonus
 
-> **SUMMA GAIN LIMIT:**  Level of summa
+**SUMMA GAIN LIMIT:** Level of summa
 
 **TRACTATUS SOURCE QUALITY:** Author's Communication + 6
 
-> **COPYING CAREFULLY:** 1 tractatus per season,
+**COPYING CAREFULLY:** 1 tractatus per season, or 6 + Profession (Scribe) points towards a summa.
 
-or 6 + Profession (Scribe) points towards a summa.
+**COPYING QUICKLY:** Three times as fast as careful copying, copy Source Quality is 1 lower than copied book.
 
-**COPYING QUICKLY:**
+### Advancement Source Qualities Dvancement
 
-Three times as fast as careful copying, copy Source Quality is 1 lower than copied book.
+**Exposure Source Quality:** 2
 
-## Advancement Source Qualities Dvancement
+**Adventure Source Quality:** 5–10
 
-**Exposure Source Quality:** 2 **Adventure Source Quality**: 5–10 **Practice Source Quality**: 4–8, usually 4
+**Practice Source Quality:** 4–8, usually 4
 
 **Training Source Quality:** Master's score in Ability being taught + 3
 
@@ -24808,13 +24704,13 @@ Three times as fast as careful copying, copy Source Quality is 1 lower than copi
 
 **Worship Source Quality:** Divine aura of the church
 
-**Teaching Source Quality:** Teacher's Communication
-
-+ Teaching + 3 + bonus
+**Teaching Source Quality:** Teacher's Communication + Teaching + 3 + bonus
 
 **Teaching Gain Limit:** The teacher's score in the Art or Ability
 
-**Summae:** Source Quality and Level **Summa Gain Limit**: Summa Level
+**Summae:** Source Quality and Level
+
+**Summa Gain Limit:** Summa Level
 
 **Tractatus:** Source Quality
 
@@ -24822,12 +24718,376 @@ Three times as fast as careful copying, copy Source Quality is 1 lower than copi
 
 **Supernatural Ability Source Quality (New Ability Only):** Normal Source Quality – Total Score in Supernatural Abilities
 
-## Distractions
+### Distractions
 
+| Months Lost | Total | Example |
+|-------------|-------|---------|
+| None | Full | 15 |
+| One | 2/3 | 10 |
+| Two | 1/3 | 5 |
+| Three | None | 0 |
 
-| MONTHS LOST | TOTAL | EXAMPLE |
-| ------------- | ------- | --------- |
-| None        | Full  | 15      |
-| One         | 2/3   | 10      |
-| Two         | 1/3   | 5       |
-| Three       | None  | 0       |
+## Spells Index
+
+| Spell Name | Arts | Level | Page |
+|------------|------|-------|------|
+| Aegis Of The Hearth | ReVim | General | 370 |
+| Agony Of The Beast | PeAn | 15 | 318 |
+| Air's Ghostly Form | CrAu | 5 | 325 |
+| Arc Of Fiery Ribbons | CrIg | 25 | 344 |
+| Arm Of The Infant | MuCo | 20 | 334 |
+| Aura Of Ennobled Presence | MuIm | 10 | 350 |
+| Aura Of Rightful Authority | ReMe | 20 | 357 |
+| Awaken The Slumbering Corpse | ReCo | 25 | 338 |
+| Ball Of Abysmal Flame | CrIg | 35 | 344 |
+| Bane Of The Decrepit Body | PeCo | 25 | 336 |
+| Beast Of Minuscule Proportions | MuAn | 20 | 318 |
+| Beast Of Outlandish Size | MuAn | 15 | 317 |
+| Beast Remade, The | MuAn | 25 | 318 |
+| Bind Wound | CrCo | 10 | 332 |
+| Black Whisper | PeMe | 40 | 356 |
+| Blade Of The Virulent Flame | CrIg | 15 | 344 |
+| Blessing Of Childlike Bliss | PeMe | 25 | 356 |
+| Blunt The Viper's Fangs | PeAn | 20 | 319 |
+| Bountiful Feast, The | CrHe | 35 | 339 |
+| Break The Oncoming Wave | ReAq | 10 | 324 |
+| Breath Of The Open Sky | CrAu | 40 | 327 |
+| Breath Of Winter | ReAq | 15 | 324 |
+| Bridge Of Frost | ReAq | 30 | 324 |
+| Bridge Of Wood | CrHe | 20 | 339 |
+| Broom Of The Winds | CrAu | 15 | 326 |
+| Burst Of The Sweeping Flames | ReIg | 25 | 347 |
+| Call Of The Rushing Waters | InAq | 15 | 322 |
+| Call To Slumber, The | ReMe | 10 | 357 |
+| Calling The Council Of The Trees | ReHe | 45 | 343 |
+| Calling The Odious Drought | PeAq | 50 | 323 |
+| Calm The Motion Of The Heart | PeMe | 15 | 356 |
+| Captive Voice, The | ReIm | 30 | 352 |
+| Cascade Of Rocks | PeTe | 40 | 362 |
+| Chamber Of Invisibility | PeIm | 25 | 351 |
+| Chamber Of Spring Breezes | CrAu | 5 | 325 |
+| Chaos Of The Angry Waves | ReAq | 30 | 324 |
+| Charge Of The Angry Winds | CrAu | 15 | 326 |
+| Charm Against Putrefaction | CrCo | 10 | 332 |
+| Cheating The Reaper | CrCo | 30 | 332 |
+| Chirurgeon's Healing Touch, The | CrCo | 20 | 332 |
+| Circle Of Beast Warding | ReAn | 5 | 319 |
+| Circle Of Encompassing Flames | CrIg | 35 | 344 |
+| Circling Winds Of Protection | CrAu | 20 | 326 |
+| Circular Ward Against Demons | ReVim | General | 371 |
+| Clear Sight Of The Naiad | InAq | 5 | 321 |
+| Clenching Grasp Of The Crushed Heart | PeCo | 40 | 336 |
+| Cloak Of Black Feathers | MuCo | 30 | 334 |
+| Cloak Of Mist | MuCo | 40 | 335 |
+| Cloak Of The Duck's Feathers | ReAq | 5 | 323 |
+| Closing The Earth's Gate | PeAq | 25 | 323 |
+| Cloudless Sky Returned, The | PeAu | 45 | 329 |
+| Clouds Of Rain And Thunder | CrAu | 25 | 326 |
+| Clouds Of Summer Snow | CrAu | 25 | 326 |
+| Clouds Of Thunderous Might | ReAu | 30 | 330 |
+| Coat Of Flame | CrIg | 25 | 344 |
+| Coerce The Spirits Of The Night | ReMe | 20 | 357 |
+| Coils Of The Entangling Plants | ReHe | 20 | 342 |
+| Comfort Of The Drenched Traveler | PeAq | 5 | 323 |
+| Commanding The Harnessed Beast | ReAn | 30 | 320 |
+| Confusion Of The Insane Vibrations | ReIm | 30 | 352 |
+| Confusion Of The Numbed Will | ReMe | 15 | 357 |
+| Conjuration Of The Indubitable Cold | PeIg | 25 | 346 |
+| Conjure The Sturdy Vine | CrHe | 5 | 339 |
+| Conjuring The Mystic Tower | CrTe | 35 | 359 |
+| Converse With Plant And Tree | InHe | 25 | 340 |
+| Creeping Chasm | ReTe | 30 | 363 |
+| Creeping Oil | CrAq | 15 | 321 |
+| Crest Of The Earth Wave | ReTe | 20 | 363 |
+| Cripple The Howling Wolf | PeAn | 25 | 319 |
+| Crystal Dart, The | MuTe | 10 | 360 |
+| Curse Of Circe | MuCo | 30 | 334 |
+| Curse Of The Desert | PeAq | 25 | 323 |
+| Curse Of The Haunted Forest | MuHe | 60 | 341 |
+| Curse Of The Leprous Flesh | PeCo | 25 | 336 |
+| Curse Of The Ravenous Swarm | CrAn | 50 | 316 |
+| Curse Of The Rotted Wood | PeHe | 5 | 341 |
+| Curse Of The Unportended Plague | PeCo | 55 | 337 |
+| Curse Of The Unruly Tongue | ReCo | 5 | 337 |
+| Dance Of The Staves | ReHe | 5 | 342 |
+| Decay Fur And Hide | PeAn | 10 | 318 |
+| Deluge Of Rushing And Dashing | CrAq | 40 | 321 |
+| Demon's Eternal Oblivion | PeVim | General | 370 |
+| Despair Of The Quivering Manacles | ReCo | 15 | 337 |
+| Discern Own Illusions | InIm | 15 | 349 |
+| Discern The Images Of Truth And Falsehood | InIm | General | 349 |
+| Disenchant | PeVim | General | 370 |
+| Disguise Of The New Visage | MuCo | 15 | 333 |
+| Disguise Of The Putrid Aroma | ReAn | 5 | 319 |
+| Disguise Of The Transformed Image | MuIm | 15 | 350 |
+| Dispel The Phantom Image | PeIm | General | 351 |
+| Doublet Of Impenetrable Silk | MuAn | 15 | 318 |
+| Dream Of The Mind That Sits | InTe | 50 | 360 |
+| Dust To Dust | PeCo | 15 | 335 |
+| Ear For Distant Voices, The | InIm | 20 | 349 |
+| Earth Shock | ReTe | 30 | 363 |
+| Earth Split Asunder, The | ReTe | 30 | 364 |
+| Earth That Breaks No More | MuTe | 20 | 361 |
+| Earth's Carbuncle, The | ReTe | 15 | 363 |
+| Edge Of The Razor | MuTe | 20 | 361 |
+| Enchantment Of Detachment | PeMe | 15 | 356 |
+| Enchantment Of The Scrying Pool | InAq | 30 | 322 |
+| End Of The Mighty Castle | PeTe | 25 | 362 |
+| Endurance Of The Berserkers | ReCo | 15 | 338 |
+| Enigma's Gift, The | CrVim | 30 | 365 |
+| Enslave The Mortal Mind | ReMe | 40 | 358 |
+| Exchange Of The Two Minds | ReMe | 55 | 358 |
+| Eye Of The Sage, The | InCo | 30 | 333 |
+| Eyes Of The Bat | InAu | 25 | 327 |
+| Eyes Of The Cat | MuCo | 5 | 333 |
+| Eyes Of The Eagle | InIm | 25 | 349 |
+| Eyes Of The Eons | InTe | 10 | 359 |
+| Eyes Of The Flame | InIg | 35 | 345 |
+| Eyes Of The Treacherous Terrain | InTe | 15 | 359 |
+| Falcon's Hood, The | PeAn | 25 | 319 |
+| Fist Of Shattering | PeTe | 10 | 361 |
+| Flames Of Sculpted Ice | MuIg | 35 | 346 |
+| Flash Of The Scarlet Flames | CrIg | 15 | 344 |
+| Fog Of Confusion | MuAu | 45 | 328 |
+| Footsteps Of Slippery Oil | CrAq | 5 | 320 |
+| Forgiving Earth, The | ReTe | 10 | 363 |
+| Freeing The Striding Tree | ReHe | 30 | 343 |
+| Frosty Breath Of The Spoken Lie | InMe | 20 | 354 |
+| Gather The Essence Of The Beast | ReVim | 15 | 372 |
+| Gathering Of The Stormy Might | ReAu | 40 | 330 |
+| Gentle Beast, The | ReAn | 25 | 320 |
+| Gentle Touch Of The Purified Body | CrCo | 20 | 332 |
+| Gift Of Reason | CrMe | 35 | 354 |
+| Gift Of The Bear's Fortitude | MuCo | 25 | 334 |
+| Gift Of The Frog's Legs | ReCo | 15 | 338 |
+| Gift Of Vigor, The | ReCo | 20 | 338 |
+| Gloom Of Evening | PeIg | 10 | 346 |
+| Great Rot, The | PeHe | 25 | 341 |
+| Grip Of The Choking Hand | PeCo | 25 | 336 |
+| Growth Of The Creeping Things | MuAn | 15 | 318 |
+| Hands Of The Grasping Earth | ReTe | 15 | 363 |
+| Haunt Of The Living Ghost | CrIm | 35 | 348 |
+| Heat Of The Searing Forge | CrIg | 10 | 343 |
+| Hermes' Portal | ReTe | 75 | 364 |
+| Hornet Fire | MuIg | 10 | 345 |
+| Hunt For The Wild Herb | InHe | 5 | 340 |
+| Hunter's Sense | InAn | 30 | 317 |
+| Ice Of Drowning | ReAq | 35 | 324 |
+| Illusion Of Cool Flames | PeIm | 10 | 351 |
+| Illusion Of The Misplaced Castle | ReIm | 50 | 352 |
+| Illusion Of The Shifted Image | ReIm | 10 | 352 |
+| Image From The Wizard Torn | ReIm | 35 | 352 |
+| Image Of The Beast | InAn | 5 | 316 |
+| Image Phantom | MuIm | 20 | 350 |
+| Incantation Of Lightning, The | CrAu | 35 | 327 |
+| Incantation Of Putrid Wine | MuAq | 15 | 322 |
+| Incantation Of Summoning The Dead | ReMe | 40 | 358 |
+| Incantation Of The Body Made Whole | CrCo | 40 | 332 |
+| Incantation Of The Milky Eyes | PeCo | 30 | 336 |
+| Inexorable Search, The | InCo | 20 | 333 |
+| Infernal Smoke Of Death | MuAu | 40 | 328 |
+| Inmost Companion | MuMe | 40 | 355 |
+| Intuition Of The Forest | InHe | 10 | 340 |
+| Invisibility Of The Standing Wizard | PeIm | 15 | 351 |
+| Invisible Eye Revealed, The | InVim | General | 366 |
+| Invisible Sling Of Vilano | ReTe | 10 | 363 |
+| Invocation Of Weariness | PeCo | 20 | 336 |
+| Jupiter's Resounding Blow | CrAu | 10 | 326 |
+| Kiss Of Death, The | PeCo | 45 | 336 |
+| Lamp Without Flame | CrIg | 10 | 344 |
+| Lay To Rest The Haunting Spirit | PeMe | General | 355 |
+| Leap Of Homecoming, The | ReCo | 35 | 338 |
+| Leap Of The Fire | ReIg | 10 | 347 |
+| Lifting The Dangling Puppet | ReCo | 15 | 338 |
+| Light Shaft Of The Night | ReIg | 20 | 347 |
+| Lord Of The Trees | ReHe | 25 | 343 |
+| Loss Of But A Moment's Memory | PeMe | 15 | 356 |
+| Lungs Of The Fish | MuAq | 20 | 323 |
+| Maintaining The Demanding Spell | ReVim | General | 372 |
+| Many-Hued Conflagration, The | MuIg | 5 | 345 |
+| Masking The Odor Of Magic | PeVim | General | 369 |
+| Mastering The Unruly Beast | ReAn | 25 | 320 |
+| Memory Of The Distant Dream | CrMe | 20 | 353 |
+| Mighty Torrent Of Water | CrAq | 20 | 321 |
+| Mind Of The Beast | MuMe | 30 | 355 |
+| Miner's Keen Eye, The | InTe | 20 | 359 |
+| Mirror Of Opposition (Form) | MuVim | General | 368 |
+| Mists Of Change | MuCo | 60 | 335 |
+| Moonbeam | CrIg | 3 | 343 |
+| Neptune's Wrath | ReAq | 40 | 325 |
+| Notes Of A Delightful Sound | MuIm | 10 | 350 |
+| Object Of Increased Size | MuTe | 20 | 361 |
+| Obliteration Of The Metallic Barrier | PeTe | 20 | 361 |
+| Opening The Intangible Tunnel | ReVim | General | 372 |
+| Opening The Tome Of The Animal's Mind | InAn | 25 | 317 |
+| Pains Of The Perpetual Worry | CrMe | 20 | 353 |
+| Palm Of Flame | CrIg | 5 | 343 |
+| Panic Of The Elephant's Mouse | ReAn | 15 | 319 |
+| Panic Of The Trembling Heart | CrMe | 15 | 353 |
+| Parching Wind | PeAq | 20 | 323 |
+| Parting The Waves | ReAq | 30 | 324 |
+| Pass The Unyielding Portal | MuHe | 5 | 340 |
+| Passion's Lost Feeling | PeMe | 25 | 356 |
+| Past Of Another | MuMe | 35 | 355 |
+| Peering Into The Mortal Mind | InMe | 30 | 354 |
+| Perception Of The Conflicting Motives | InMe | 15 | 354 |
+| Phantasm Of The Human Form | CrIm | 25 | 348 |
+| Phantasm Of The Talking Head | CrIm | 10 | 348 |
+| Phantasmal Animal | CrIm | 20 | 348 |
+| Phantasmal Fire | CrIm | 20 | 348 |
+| Phantom Gift, The | CrVim | 15 | 365 |
+| Physician's Eye | InCo | 5 | 333 |
+| Piercing Shaft Of Wood | MuHe | 10 | 341 |
+| Piercing The Faerie Veil | InVim | 20 | 367 |
+| Pilum Of Fire | CrIg | 20 | 344 |
+| Pit Of The Gaping Earth | PeTe | 15 | 361 |
+| Plant's Withering Bane | PeHe | 20 | 341 |
+| Poisoning The Will | PeMe | 65 | 356 |
+| Posing The Silent Question | InMe | 20 | 354 |
+| Preternatural Growth And Shrinking | MuCo | 15 | 333 |
+| Prison Of Flames | MuIg | 20 | 345 |
+| Probe For Pure Silver | InTe | 4 | 359 |
+| Probe Nature's Hidden Lore | InHe | 4 | 340 |
+| Prying Eyes | InIm | 5 | 349 |
+| Pull Of The Skybound Winds | CrAu | 30 | 326 |
+| Pull Of The Watery Grave | ReAq | 35 | 325 |
+| Purification Of The Festering Wounds | CrCo | 20 | 332 |
+| Push Of The Gentle Wave | ReAq | 15 | 324 |
+| Quiet The Raging Winds | PeAu | 20 | 329 |
+| Rain Of Oil | MuAu | 50 | 329 |
+| Rain Of Stones | MuAu | 20 | 328 |
+| Recollection Of Memories Never Quite Lived | MuMe | 4 | 355 |
+| Removal Of The Conspicuous Sigil | PeIm | 20 | 351 |
+| Repel The Wooden Shafts | ReHe | 10 | 342 |
+| Restoration Of The Defiled Body | CrCo | 25 | 332 |
+| Restore The Faded Threads | CrVim | General | 365 |
+| Restore The Moved Image | ReIm | General | 352 |
+| Revealed Flaws Of Mortal Flesh | InCo | 10 | 333 |
+| Ring Of Warding Against Spirits | ReMe | General | 357 |
+| Rise Of The Feathery Body | ReCo | 10 | 337 |
+| Rising Ire | CrMe | 15 | 353 |
+| Rock Of Viscid Clay | MuTe | 15 | 361 |
+| Room Of Stale Air | PeAu | 15 | 329 |
+| Rope Of Bronze | MuHe | 15 | 341 |
+| Rusted Decay Of Ten-Score Years | PeTe | 10 | 361 |
+| Sailor's Foretaste Of The Morrow | InAu | 15 | 327 |
+| Scales Of The Magical Weight | InVim | 5 | 366 |
+| Scent Of Peaceful Slumber | ReMe | 20 | 357 |
+| Seal The Earth | CrTe | 15 | 359 |
+| Sense Of Magical Power | InVim | 2 | 366 |
+| Sense Of The Lingering Magic | InVim | 30 | 367 |
+| Sense The Feet That Tread The Earth | InTe | 30 | 360 |
+| Sense The Nature Of Vis | InVim | 5 | 367 |
+| Seven-League Stride | ReCo | 30 | 338 |
+| Severed Limb Made Whole, The | CrCo | 25 | 332 |
+| Shadow Of Human Life, The | CrIm | 40 | 349 |
+| Shadow Of Life Renewed, The | CrCo | 75 | 332 |
+| Shadows Of The Fires Past | InIg | 15 | 345 |
+| Shape Of The Woodland Prowler | MuCo | 25 | 334 |
+| Shell Of False Determinations | CrVim | General | 365 |
+| Shell Of Opaque Mysteries | CrVim | General | 365 |
+| Shiver Of The Lycanthrope | InAn | 10 | 317 |
+| Show Of The Flames And Smoke | MuIg | 10 | 345 |
+| Shriek Of The Impending Shafts | InHe | 15 | 340 |
+| Shroud Magic | MuVim | General | 368 |
+| Shrouded Glen, The | ReMe | 40 | 358 |
+| Sight Of The Active Magics | InVim | 40 | 367 |
+| Sight Of The Transparent Motive | InMe | 10 | 354 |
+| Sight Of The True Form | InCo | General | 333 |
+| Silence Of The Smothered Sound | PeIm | 20 | 351 |
+| Silent Vigil, The | MuCo | 45 | 335 |
+| Snap Of Awakening | ReMe | 10 | 357 |
+| Soothe Pains Of The Beast | CrAn | 20 | 316 |
+| Soothe The Ferocious Bear | ReAn | 10 | 319 |
+| Soothe The Raging Flames | PeIg | 20 | 346 |
+| Sorcerer's Fork, The | MuVim | General | 368 |
+| Spasms Of The Uncontrolled Hand | ReCo | 5 | 337 |
+| Stance Of The Patient Tree | MuCo | 35 | 335 |
+| Steed Of Vengeance | MuAn | 35 | 318 |
+| Stench Of The Twenty Corpses | CrAu | 10 | 326 |
+| Stir The Slumbering Tree | MuHe | 25 | 341 |
+| Stone Tell Of The Mind That Sits | InTe | 30 | 360 |
+| Stone To Falling Dust | PeTe | 20 | 362 |
+| Strike Of The Angered Branch | ReHe | 15 | 342 |
+| Strings Of The Unwilling Marionette | ReCo | 25 | 338 |
+| Subtle Taste Of Poison And Purity | InAq | 5 | 321 |
+| Summoning The Distant Image | InIm | 25 | 350 |
+| Supple Iron And Rigid Rope | MuTe | 10 | 361 |
+| Suppressing The Wizard's Handiwork | ReVim | General | 372 |
+| Tales Of The Ashes | InIg | 5 | 345 |
+| Talons Of The Winds | MuAu | 20 | 328 |
+| Tangle Of Wood And Thorns | ReHe | 15 | 342 |
+| Taste Of The Dulled Tongue | PeIm | 5 | 351 |
+| Taste Of The Spices And Herbs | MuIm | 5 | 350 |
+| Teeth Of The Earth Mother | MuTe | 35 | 361 |
+| Thaumaturgical Transformation Of Plants To Iron | MuHe | 20 | 341 |
+| Thoughts Within Babble | InMe | 25 | 354 |
+| Tip Of The Tongue | PeMe | 5 | 355 |
+| Touch Of Midas | CrTe | 20 | 359 |
+| Touch Of The Goose Feather | PeCo | 5 | 335 |
+| Touch Of The Pearls | InAq | 5 | 322 |
+| Tower Of Whirling Water | ReAq | 35 | 325 |
+| Trackless Step | ReTe | 10 | 363 |
+| Tracks Of The Faerie Glow | InTe | 25 | 359 |
+| Transform To Water | MuCo | 40 | 335 |
+| Transformation Of The Ravenous Beast To The Torpid Toad | MuAn | 25 | 318 |
+| Transformation Of The Thorny Staff | MuHe | 10 | 341 |
+| Trap Of The Entwining Vines | CrHe | 15 | 339 |
+| Trapping The Fire | MuIg | 25 | 346 |
+| Treacherous Spear, The | ReHe | 25 | 343 |
+| Treading The Ashen Path | PeHe | 30 | 342 |
+| Tremulous Vault Of The Torch's Flame | ReIg | 5 | 347 |
+| True Rest Of The Injured Brute | CrAn | 20 | 316 |
+| True Sight Of The Air | InAu | 15 | 327 |
+| Trust Of Childlike Faith | PeMe | 10 | 356 |
+| Twist Of The Tongue | PeCo | 30 | 336 |
+| Twist The Living Tree | ReHe | 25 | 343 |
+| Unraveling The Fabric Of (Form) | PeVim | General | 370 |
+| Unseen Arm | ReTe | 5 | 362 |
+| Unseen Porter, The | ReTe | 10 | 363 |
+| Unyielding Earth | ReTe | 10 | 363 |
+| Veil Of Invisibility | PeIm | 20 | 351 |
+| Vile Water Of Sterility | MuAq | 45 | 323 |
+| Viper's Gaze | ReAn | 15 | 320 |
+| Vision Of Heat's Light | InIg | 20 | 345 |
+| Vision Of The Haunting Spirits | MuMe | 40 | 355 |
+| Visions Of The Infernal Terrors | ReMe | 30 | 357 |
+| Voice Of The Lake | InAq | 25 | 322 |
+| Walking Corpse, The | ReCo | 35 | 339 |
+| Wall Of Living Wood | CrHe | 25 | 339 |
+| Wall Of Protecting Stone | CrTe | 25 | 359 |
+| Wall Of Thorns | CrHe | 20 | 339 |
+| Ward Against Faeries Of The Air | ReAu | General | 329 |
+| Ward Against Faeries Of The Mountain | ReTe | General | 362 |
+| Ward Against Faeries Of The Waters | ReAq | General | 323 |
+| Ward Against Faeries Of The Wood | ReHe | General | 342 |
+| Ward Against Heat And Flames | ReIg | 25 | 347 |
+| Ward Against Rain | ReAu | 10 | 330 |
+| Ward Against The Beasts Of Legend | ReAn | General | 319 |
+| Ward Against Wood | ReHe | 25 | 343 |
+| Watching Ward | ReVim | General | 372 |
+| Waves Of Drowning And Smashing | ReAq | 30 | 324 |
+| Weaver's Trap Of Webs | CrAn | 35 | 316 |
+| Weight Of A Thousand Hells | CrMe | 25 | 353 |
+| Well Without Light | PeIg | 25 | 346 |
+| Whispering Winds | InAu | 15 | 327 |
+| Whispers Through The Black Gate | InCo | 15 | 333 |
+| Wielding The Invisible Sling | ReTe | 10 | 363 |
+| Wind At The Back | ReAu | 5 | 329 |
+| Wind Of Mundane Silence | PeVim | General | 370 |
+| Wings Of The Soaring Wind | CrAu | 30 | 326 |
+| Winter's Icy Touch | PeIg | 10 | 346 |
+| Wizard's Autumn | PeHe | 15 | 341 |
+| Wizard's Boost (Form) | MuVim | General | 368 |
+| Wizard's Communion | MuVim | General | 369 |
+| Wizard's Eclipse | PeIg | 35 | 346 |
+| Wizard's Icy Grip | PeIg | 30 | 346 |
+| Wizard's Mount, The | CrAn | 35 | 316 |
+| Wizard's Reach (Form) | MuVim | General | 369 |
+| Wizard's Sidestep | ReIm | 10 | 352 |
+| Wizard's Vigil | MuVim | General | 370 |
+| Words Of The Flickering Flame | InIg | 35 | 345 |
+| Words Of The Unbroken Silence | CrMe | 10 | 353 |
+| Wound That Weeps, The | PeCo | 15 | 335 |
+| Wrath Of Whirling Winds And Water | CrAu | 65 | 327 |
+| Wreaths Of Foul Smoke | CrAu | 10 | 326 |
