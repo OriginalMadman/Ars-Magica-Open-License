@@ -14,6 +14,11 @@ This is a work-in-progress repository for machine-extracted, manually fixed mark
 The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
 <br/>
 <br/>
+
+#### New to Ars Magica?
+
+You'll want to start with the the ![Ars Magica - Definitive Edition (Core Rules).md](reviewed/Ars Magica - Definitive Edition (Core Rules).md) file to explore one of the best RPG ever made. It's about incredibly powerful Wizards in the rich setting of 13th century Mythic Europe, and is generally lauded for having the best magic system of any RPG - bar none.
+
 #### Why Markdown?
 There are several good reasons why Markdown may be the best “forever” format for the Ars Magica Open License text content:
 
