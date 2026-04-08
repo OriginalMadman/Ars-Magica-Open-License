@@ -17,7 +17,7 @@ The public is welcome to commit fixes, new and better versions of any of these f
 
 #### New to Ars Magica?
 
-You'll want to start with the the [Ars Magica - Definitive Edition (Core Rules).md]([/reviewed/Ars Magica - Definitive Edition (Core Rules).md](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/main/reviewed/Ars%20Magica%20-%20Definitive%20Edition%20(Core%20Rules).md) file to explore one of the best RPG ever made. It's about incredibly powerful Wizards in the rich setting of 13th century Mythic Europe, and is generally lauded for having the best magic system of any RPG - bar none.
+You'll want to start with the the [Ars Magica - Definitive Edition \(Core Rules\).md](https://github.com/OriginalMadman/Ars-Magica-Open-License/blob/main/reviewed/Ars%20Magica%20-%20Definitive%20Edition%20(Core%20Rules).md) file to explore one of the best RPG ever made. It's about incredibly powerful Wizards in the rich setting of 13th century Mythic Europe, and is generally lauded for having the best magic system of any RPG - bar none.
 
 #### Why Markdown?
 There are several good reasons why Markdown may be the best “forever” format for the Ars Magica Open License text content:
