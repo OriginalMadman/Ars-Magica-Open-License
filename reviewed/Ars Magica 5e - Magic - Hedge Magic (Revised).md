@@ -6471,43 +6471,44 @@ The runes are often organized into three groups of eight letters, called *aetts*
 >
 >The three aetts of the Elder Futhark are named after three gods, each one associated with the first letter in that aett. Freya was a Norse goddess of love and marriage, Heimdall was the god charged with guarding the rainbow bridge that leads from earth to Asgard, and Tyr was the god of justice and battle.
 >
->#### FREYA'S AETT
+>#### Freya's Aett
 >
->| LETTER | Rune | Name     | Meaning  | Effects                      |
->|--------|------|----------|----------|------------------------------|
->| F      | P    | Fehu     | "Wealth" | wealth, domesticated animals |
->| U      | Ù    | Uruz     | "Auroch" | endurance, the wild          |
->| Th     | Þ    | Thurisaz | "Ogre"   | malice, shapeshifting        |
->| A      | F    | Ansuz    | "Mouth"  | communication, teaching      |
->| R      | R    | Raido    | "Riding" | travel, knowledge            |
->| K      | <    | Kauno    | "Pain"   | fire, sores                  |
->| G      | X    | Gebo     | "Gift"   | debt, sacrifice              |
->| W      | }    | Wunjo    | "Joy"    | emotion, intoxication        |
+>| Letter | Rune | Name     | Meaning  | Effects                      |
+>| ------ | ---- | -------- | -------- | ---------------------------- |
+>| F      | ᚠ    | Fehu     | "Wealth" | Wealth, domesticated animals |
+>| U      | ᚢ    | Uruz     | "Auroch" | Endurance, the wild          |
+>| Th     | ᚦ    | Thurisaz | "Ogre"   | Malice, shapeshifting        |
+>| A      | ᚨ    | Ansuz    | "Mouth"  | Communication, teaching      |
+>| R      | ᚱ    | Raido    | "Riding" | Travel, knowledge            |
+>| K      | ᚲ    | Kauno    | "Pain"   | Fire, sores                  |
+>| G      | ᚷ    | Gebo     | "Gift"   | Debt, sacrifice              |
+>| W      | ᚹ    | Wunjo    | "Joy"    | Emotion, intoxication        |
 >
->#### HEIMDALL'S AETT
->| LETTER | Rune | Name     | Meaning  | Effects                      |
->|--------|------|----------|----------|------------------------------|
->| H      | N    | Hagalaz  | "Hail"   | weather, illness             |
->| N      | \|-  | Naudiz   | "Need"   | trouble, hardship            |
->| I      | \|   | Isa      | "Ice"    | cold, stasis                 |
->| J      | S    | Jera     | "Year"   | harvest, bounty              |
->| Y      | Z    | Ihwaz    | "Yew"    | patience, the dead           |
->| P      | C    | Perth    | "Cup"    | chance, secrets              |
->| Z      | Y    | Algiz    | "Elk"    | protection, the hunt         |
->| S      | ZS   | Sowilo   | "Sun"    | triumph, virtue              |
+>#### Heimdall's Aett
+>
+>| Letter | Rune | Name    | Meaning | Effects              |
+>| ------ | ---- | ------- | ------- | -------------------- |
+>| H      | ᚺ    | Hagalaz | "Hail"  | Weather, illness     |
+>| N      | ᚾ    | Naudiz  | "Need"  | Trouble, hardship    |
+>| I      | ᛁ    | Isa     | "Ice"   | Cold, stasis         |
+>| J      | ᛃ    | Jera    | "Year"  | Harvest, bounty      |
+>| Y      | ᛇ    | Ihwaz   | "Yew"   | Patience, the dead   |
+>| P      | ᛈ    | Perth   | "Cup"   | Chance, secrets      |
+>| Z      | ᛉ    | Algiz   | "Elk"   | Protection, the hunt |
+>| S      | ᛋ    | Sowilo  | "Sun"   | Triumph, virtue      |
 >
 >#### Tyr's Aett
 >
->| Letter | RUNE       | Name     | Meaning       | Effects              |
->|--------|------------|----------|---------------|----------------------|
->| T      | $\uparrow$ | Tiwaz    | "Tyr"         | justice, battle      |
->| В      | ₿.         | Berkanan | "Birch"       | health, youth        |
->| Е      | M          | Ehwaz    | "Horse"       | speed, relationships |
->| M      | M          | Mannaz   | "Man"         | cooperation, duty    |
->| L      | \|\\       | Laguz    | "Water"       | ocean, ships         |
->| Ng     | $\Diamond$ | Ingwaz   | "Lord"        | family, security     |
->| D      | M          | Dagaz    | "Day"         | time, growth         |
->| O      | $\Diamond$ | Othila   | "Inheritance" | lands, possessions   |
+>| Letter | Rune | Name     | Meaning       | Effects              |
+>| ------ | ---- | -------- | ------------- | -------------------- |
+>| T      | ᛏ    | Tiwaz    | "Tyr"         | Justice, battle      |
+>| B      | ᛒ    | Berkanan | "Birch"       | Health, youth        |
+>| E      | ᛖ    | Ehwaz    | "Horse"       | Speed, relationships |
+>| M      | ᛗ    | Mannaz   | "Man"         | Cooperation, duty    |
+>| L      | ᛚ    | Laguz    | "Water"       | Ocean, ships         |
+>| Ng     | ᛜ    | Ingwaz   | "Lord"        | Family, security     |
+>| D      | ᛞ    | Dagaz    | "Day"         | Time, growth         |
+>| O      | ᛟ    | Othila   | "Inheritance" | Lands, possessions   |
 
 ### A, Ansuz, "Mouth"
 
@@ -7348,65 +7349,64 @@ Note that the Order of Hermes is generally considered to be at war with the Orde
 >
 >In England, the rune wizards extended their alphabet. Scholars agree that it included the first 28 runes, and the last five may also have been included depending on era and area. Magi are certain that none of these vitkir remain in the British Isles in the 1200s, all of them having been eliminated in the war against Damhan-Alladh centuries ago, though evidence of their magic may still remain.
 >
->|  Letter | Rune | Name    | Pronounced | Meaning    | Elder    |
->|---------|------|---------|------------|------------|----------|
->| F       |      | Feoh    | FAY-oh     | "Wealth"   | Fehu     |
->| U       |      | Ur      | OOR        | "Auroch"   | Uruz     |
->| Th      |      | Thorn   | THORN      | "Thorn"    | Thurisaz |
->| O       |      | Os      | OH-ss      | "Mouth"    | Ansuz    |
->| R       |      | Rad     | RAWD       | "Riding"   | Raido    |
->| C       |      | Cen     | CHEN       | "Torch"    | Kauno    |
->| Gy      |      | Gyfu    | GUY-voo    | "Gift"     | Gebo     |
->| W       |      | Wynn    | WIN        | "Joy"      |  Wunjo   |
->| H       |      | Haegl   | HA-wull    | "Hail"     | Hagalaz  |
->| N       |      | Nyd     | NID        | "Need"     | Naudiz   |
->| I       |      | Is      | EES        | "Ice"      | Isa      |
->| J       |      | Ger     | YER        |  "Year"    | Jera     |
->| Y       |      | Eoh     | EE-oh      | "Yew"      | Ihwaz    |
->| P       |      | Peordh  | POHR-th    | "Cup"      | Perth    |
->| X       |      | Eohlx   | OHLHK      | "Elk"      | Algiz    |
->| S       |      | Sigel   | SEE-wel    | "Sun"      | Sowilo   |
->| T       |      | Tir     | TEER       | "Star"     | Tiwaz    |
->| B       |      | Beorc   | BORK       | "Birch"    | Berkanar |
->| E       |      | Eh      | EH         | "Horse"    | Ehwaz    |
->| M       |      | Mann    | MAHN       | "Man"      | Mannaz   |
->| L       |      | Lagu    | LAH-wuh    | "Water"    | Laguz    |
->| Ng      |      | Ing     | ING        | "Hero"     | Ingwaz   |
->| D       |      | Daeg    | DAY        | "Day"      | Dagaz    |
->| Oe      |      | Ethel   | EE-thell   | "Homeland" | Othila   |
->| A       |      | Ac      | AWK        | "Oak"      |          |
->| Yr      |      | Yr      | YAHR       | "Bow"      |          |
->| Ea      |      | Ear     | EAR        | "Grave"    |          |
->| G       |      | Gar     | GAR        | "Spear"    |          |
->| K       |      | Calc    | KAHLK      | "Chalk"    |          |
->| Q       |      | Cweorth | QUORTH     | "Fire twirl" |        |
->| Yr      |      | Yr      | YAHR       | "Bow"      |          |
->| Ea      |      | Ear     | EAR        | "Grave"    |          |
->| St      |      | Stan    | STAYN      | "Stone"    |          |
->| Or      |      | lor     | OHR        | "Water monster"  |    |
+>| Letter | Rune | Name    | Pronounced | Meaning         | Elder Futhark |
+>| ------ | ---- | ------- | ---------- | --------------- | ------------- |
+>| F      | ᚠ    | Feoh    | FAY-oh     | "Wealth"        | Fehu          |
+>| U      | ᚢ    | Ur      | OOR        | "Auroch"        | Uruz          |
+>| Th     | ᚦ    | Thorn   | THORN      | "Thorn"         | Thurisaz      |
+>| R      | ᚱ    | Rad     | RAWD       | "Riding"        | Raido         |
+>| C      | ᚳ    | Cen     | CHEN       | "Torch"         | Kauno         |
+>| Gy     | ᚷ    | Gyfu    | GUY-voo    | "Gift"          | Gebo          |
+>| W      | ᚹ    | Wynn    | WIN        | "Joy"           | Wunjo         |
+>| H      | ᚻ    | Haegl   | HA-wull    | "Hail"          | Hagalaz       |
+>| N      | ᚾ    | Nyd     | NID        | "Need"          | Naudiz        |
+>| I      | ᛁ    | Is      | EES        | "Ice"           | Isa           |
+>| J      | ᛄ    | Ger     | YER        | "Year"          | Jera          |
+>| Y      | ᛇ    | Eoh     | EE-oh      | "Yew"           | Ihwaz         |
+>| P      | ᛈ    | Peordh  | POHR-th    | "Cup"           | Perth         |
+>| X      | ᛉ    | Eolhx   | OHLHK      | "Elk"           | Algiz         |
+>| S      | ᛋ    | Sigel   | SEE-wel    | "Sun"           | Sowilo        |
+>| T      | ᛏ    | Tir     | TEER       | "Star"          | Tiwaz         |
+>| B      | ᛒ    | Beorc   | BORK       | "Birch"         | Berkanan      |
+>| E      | ᛖ    | Eh      | EH         | "Horse"         | Ehwaz         |
+>| M      | ᛗ    | Mann    | MAHN       | "Man"           | Mannaz        |
+>| L      | ᛚ    | Lagu    | LAH-wuh    | "Water"         | Laguz         |
+>| Ng     | ᛝ    | Ing     | ING        | "Hero"          | Ingwaz        |
+>| D      | ᛞ    | Daeg    | DAY        | "Day"           | Dagaz         |
+>| Oe     | ᛟ    | Ethel   | EE-thell   | "Homeland"      | Othila        |
+>| A      | ᚪ    | Ac      | AWK        | "Oak"           | —             |
+>| Ae     | ᚫ    | Aesc    | ASH        | "Ash"           | —             |
+>| Yr     | ᚣ    | Yr      | YAHR       | "Bow"           | —             |
+>| Ea     | ᛠ    | Ear     | EAR        | "Grave"         | —             |
+>| G      | ᚸ    | Gar     | GAR        | "Spear"         | —             |
+>| K      | ᛣ    | Calc    | KAHLK      | "Chalk"         | —             |
+>| Q      | ᛢ    | Cweorth | QUORTH     | "Fire twirl"    | —             |
+>| St     | ᛥ    | Stan    | STAYN      | "Stone"         | —             |
+>| Or     | ᛡ    | Ior     | OHR        | "Water monster" | —             |
 
 >#### The Younger Futhark
 >
 >In Denmark and Germany, the Futhark began to develop over time, both as it was used to communicate and to work magic. Many of the names of the runes and their meanings changed as the language became condensed, and the runemasters eventually settled on a set of 16 runes instead of the original 24. Instead of three aetts made up of eight runes, in this system the first aett had only six runes and the other two had five. Missing are Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagz, and Othila. This variation came to be known as the Younger Futhark.
 >
->| Letter | Rune         | Name    | Pronounced | Meaning   | Elder    |
->|--------|--------------|---------|------------|-----------|----------|
->| F      |              | Fe      | FAY        | "Wealth"  | Fehu     |
->| U      |              | Ur      | OOR        | "Drizzle" | Uruz     |
->| Th     |              | Thurs   | THURZ      | "Ogre"    | Thurisaz |
->| A      |              | Ass     | AHSS       | "God"     | Ansuz    |
->| R      |              | Reidh   | RAYTH      | "Ride"    | Raido    |
->| K      |              | Kaun    | COWN       | "Sore"    | Kauno    |
->| Н      |              | Hagall  | HAH-gall   | "Hail"    | Hagalaz  |
->| N      |              | Naudhr  | NOW-thur   | "Need"    | Naudiz   |
->| I      |              | Iss     | EES        | "Ice"     | Isa      |
->| J      |              | Ar      | AHR        | "Year"    | Jera     |
->| S      |              | Sol     | SOHL       | "Sun"     | Sowilo   |
->| Т      |              | Tyr     | TEER       | "Tyr"     | Tiwaz    |
->| В      |              | Bjarkan | BYAR-kahn  | "Birch"   | Berkanan |
->| M      |              | Madhr   | mah-THUR   | "Man"     | Mannaz   |
->| L      |              | Logr    | lah-GHUR   | "Water"   | Laguz    |
->| Y      |              | Yr      | EAR        | "Yew"     | Ihwaz    |
+>| Letter | Rune | Name    | Pronounced | Meaning   | Elder Futhark |
+>| ------ | ---- | ------- | ---------- | --------- | ------------- |
+>| F      | ᚠ    | Fe      | FAY        | "Wealth"  | Fehu          |
+>| U      | ᚢ    | Ur      | OOR        | "Drizzle" | Uruz          |
+>| Th     | ᚦ    | Thurs   | THURZ      | "Ogre"    | Thurisaz      |
+>| A      | ᚬ    | Ass     | AHSS       | "God"     | Ansuz         |
+>| R      | ᚱ    | Reidh   | RAYTH      | "Ride"    | Raido         |
+>| K      | ᚴ    | Kaun    | COWN       | "Sore"    | Kauno         |
+>| H      | ᚼ    | Hagall  | HAH-gall   | "Hail"    | Hagalaz       |
+>| N      | ᚾ    | Naudhr  | NOW-thur   | "Need"    | Naudiz        |
+>| I      | ᛁ    | Iss     | EES        | "Ice"     | Isa           |
+>| A      | ᛅ    | Ar      | AHR        | "Year"    | Jera          |
+>| S      | ᛋ    | Sol     | SOHL       | "Sun"     | Sowilo        |
+>| T      | ᛏ    | Tyr     | TEER       | "Tyr"     | Tiwaz         |
+>| B      | ᛒ    | Bjarkan | BYAR-kahn  | "Birch"   | Berkanan      |
+>| M      | ᛘ    | Madhr   | mah-THUR   | "Man"     | Mannaz        |
+>| L      | ᛚ    | Logr    | lah-GHUR   | "Water"   | Laguz         |
+>| Y      | ᛦ    | Yr      | EAR        | "Yew"     | Ihwaz         |
+
 
 >#### Eirik Svennson, Warrior Vitki
 >
