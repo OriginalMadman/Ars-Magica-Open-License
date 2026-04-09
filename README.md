@@ -22,7 +22,8 @@ The game is about incredibly powerful - but politically limited - Wizards in the
 You'll want to start with the the *Ars Magica - Definitive Edition \(Core Rules\).md* file in the [/reviewed](/reviewed/) folder to explore one of the best RPG ever made. **Headsup: Definitive Edition is too large for GitHub to render it - you have to download the file!** 
 
 **Update: The markdown version of *Ars Magica Definitive Edition* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and (wip) Traditional Index. Should be a breeze to navigate.** 
-
+<br/>
+<br/>
 
 #### Why Markdown?
 There are several good reasons why Markdown may be the best “forever” format for the Ars Magica Open License text content:
