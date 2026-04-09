@@ -24810,7 +24810,7 @@ p168-170 p391
 
 | Spell Name | Arts | Level | Page |
 |------------|------|-------|------|
-| Aegis Of The Hearth | ReVim | General | [370](#aegis-of-the-hearth-1) |
+| Aegis Of The Hearth | ReVi | General | [370](#aegis-of-the-hearth-1) |
 | Agony Of The Beast | PeAn | 15 | [318](#agony-of-the-beast) |
 | Air's Ghostly Form | CrAu | 5 | [325](#airs-ghostly-form) |
 | Arc Of Fiery Ribbons | CrIg | 25 | [344](#arc-of-fiery-ribbons) |
@@ -24853,7 +24853,7 @@ p168-170 p391
 | Circle Of Beast Warding | ReAn | 5 | [319](#circle-of-beast-warding) |
 | Circle Of Encompassing Flames | CrIg | 35 | [344](#circle-of-encompassing-flames) |
 | Circling Winds Of Protection | CrAu | 20 | [326](#circling-winds-of-protection) |
-| Circular Ward Against Demons | ReVim | General | [371](#circular-ward-against-demons) |
+| Circular Ward Against Demons | ReVi | General | [371](#circular-ward-against-demons) |
 | Clear Sight Of The Naiad | InAq | 5 | [321](#clear-sight-of-the-naiad) |
 | Clenching Grasp Of The Crushed Heart | PeCo | 40 | [336](#clenching-grasp-of-the-crushed-heart) |
 | Cloak Of Black Feathers | MuCo | 30 | [334](#cloak-of-black-feathers) |
@@ -24891,11 +24891,11 @@ p168-170 p391
 | Dance Of The Staves | ReHe | 5 | [342](#dance-of-the-staves) |
 | Decay Fur And Hide | PeAn | 10 | [318](#decay-fur-and-hide) |
 | Deluge Of Rushing And Dashing | CrAq | 40 | [321](#deluge-of-rushing-and-dashing) |
-| Demon's Eternal Oblivion | PeVim | General | [370](#demons-eternal-oblivion) |
+| Demon's Eternal Oblivion | PeVi | General | [370](#demons-eternal-oblivion) |
 | Despair Of The Quivering Manacles | ReCo | 15 | [337](#despair-of-the-quivering-manacles) |
 | Discern Own Illusions | InIm | 15 | [349](#discern-own-illusions) |
 | Discern The Images Of Truth And Falsehood | InIm | General | [349](#discern-the-images-of-truth-and-falsehood) |
-| Disenchant | PeVim | General | [370](#disenchant) |
+| Disenchant | PeVi | General | [370](#disenchant) |
 | Disguise Of The New Visage | MuCo | 15 | [333](#disguise-of-the-new-visage) |
 | Disguise Of The Putrid Aroma | ReAn | 5 | [319](#disguise-of-the-putrid-aroma) |
 | Disguise Of The Transformed Image | MuIm | 15 | [350](#disguise-of-the-transformed-image) |
@@ -24913,7 +24913,7 @@ p168-170 p391
 | Enchantment Of The Scrying Pool | InAq | 30 | [322](#enchantment-of-the-scrying-pool) |
 | End Of The Mighty Castle | PeTe | 25 | [362](#end-of-the-mighty-castle) |
 | Endurance Of The Berserkers | ReCo | 15 | [338](#endurance-of-the-berserkers) |
-| Enigma's Gift, The | CrVim | 30 | [365](#the-enigmas-gift) |
+| Enigma's Gift, The | CrVi | 30 | [365](#the-enigmas-gift) |
 | Enslave The Mortal Mind | ReMe | 40 | [358](#enslave-the-mortal-mind) |
 | Exchange Of The Two Minds | ReMe | 55 | [358](#exchange-of-the-two-minds) |
 | Eye Of The Sage, The | InCo | 30 | [333](#the-eye-of-the-sage) |
@@ -24932,7 +24932,7 @@ p168-170 p391
 | Forgiving Earth, The | ReTe | 10 | [363](#the-forgiving-earth) |
 | Freeing The Striding Tree | ReHe | 30 | [343](#freeing-the-striding-tree) |
 | Frosty Breath Of The Spoken Lie | InMe | 20 | [354](#frosty-breath-of-the-spoken-lie) |
-| Gather The Essence Of The Beast | ReVim | 15 | [372](#gather-the-essence-of-the-beast) |
+| Gather The Essence Of The Beast | ReVi | 15 | [372](#gather-the-essence-of-the-beast) |
 | Gathering Of The Stormy Might | ReAu | 40 | [330](#gathering-of-the-stormy-might) |
 | Gentle Beast, The | ReAn | 25 | [320](#the-gentle-beast) |
 | Gentle Touch Of The Purified Body | CrCo | 20 | [332](#gentle-touch-of-the-purified-body) |
@@ -24968,7 +24968,7 @@ p168-170 p391
 | Inmost Companion | MuMe | 40 | [355](#inmost-companion) |
 | Intuition Of The Forest | InHe | 10 | [340](#intuition-of-the-forest) |
 | Invisibility Of The Standing Wizard | PeIm | 15 | [351](#invisibility-of-the-standing-wizard) |
-| Invisible Eye Revealed, The | InVim | General | [366](#the-invisible-eye-revealed) |
+| Invisible Eye Revealed, The | InVi | General | [366](#the-invisible-eye-revealed) |
 | Invisible Sling Of Vilano | ReTe | 10 | [363](#invisible-sling-of-vilano) |
 | Invocation Of Weariness | PeCo | 20 | [336](#invocation-of-weariness) |
 | Jupiter's Resounding Blow | CrAu | 10 | [326](#jupiters-resounding-blow) |
@@ -24982,22 +24982,22 @@ p168-170 p391
 | Lord Of The Trees | ReHe | 25 | [343](#lord-of-the-trees) |
 | Loss Of But A Moment's Memory | PeMe | 15 | [356](#loss-of-but-a-moments-memory) |
 | Lungs Of The Fish | MuAq | 20 | [323](#lungs-of-the-fish) |
-| Maintaining The Demanding Spell | ReVim | General | [372](#maintaining-the-demanding-spell) |
+| Maintaining The Demanding Spell | ReVi | General | [372](#maintaining-the-demanding-spell) |
 | Many-Hued Conflagration, The | MuIg | 5 | [345](#the-many-hued-conflagration) |
-| Masking The Odor Of Magic | PeVim | General | [369](#masking-the-odor-of-magic) |
+| Masking The Odor Of Magic | PeVi | General | [369](#masking-the-odor-of-magic) |
 | Mastering The Unruly Beast | ReAn | 25 | [320](#mastering-the-unruly-beast) |
 | Memory Of The Distant Dream | CrMe | 20 | [353](#memory-of-the-distant-dream) |
 | Mighty Torrent Of Water | CrAq | 20 | [321](#mighty-torrent-of-water) |
 | Mind Of The Beast | MuMe | 30 | [355](#mind-of-the-beast) |
 | Miner's Keen Eye, The | InTe | 20 | [359](#the-miners-keen-eye) |
-| Mirror Of Opposition (Form) | MuVim | General | [368](#mirror-of-opposition-form) |
+| Mirror Of Opposition (Form) | MuVi | General | [368](#mirror-of-opposition-form) |
 | Mists Of Change | MuCo | 60 | [335](#mists-of-change) |
 | Moonbeam | CrIg | 3 | [343](#moonbeam) |
 | Neptune's Wrath | ReAq | 40 | [325](#neptunes-wrath) |
 | Notes Of A Delightful Sound | MuIm | 10 | [350](#notes-of-a-delightful-sound) |
 | Object Of Increased Size | MuTe | 20 | [361](#object-of-increased-size) |
 | Obliteration Of The Metallic Barrier | PeTe | 20 | [361](#obliteration-of-the-metallic-barrier) |
-| Opening The Intangible Tunnel | ReVim | General | [372](#opening-the-intangible-tunnel) |
+| Opening The Intangible Tunnel | ReVi | General | [372](#opening-the-intangible-tunnel) |
 | Opening The Tome Of The Animal's Mind | InAn | 25 | [317](#opening-the-tome-of-the-animals-mind) |
 | Pains Of The Perpetual Worry | CrMe | 20 | [353](#pains-of-the-perpetual-worry) |
 | Palm Of Flame | CrIg | 5 | [343](#palm-of-flame) |
@@ -25014,10 +25014,10 @@ p168-170 p391
 | Phantasm Of The Talking Head | CrIm | 10 | [348](#phantasm-of-the-talking-head) |
 | Phantasmal Animal | CrIm | 20 | [348](#phantasmal-animal) |
 | Phantasmal Fire | CrIm | 20 | [348](#phantasmal-fire) |
-| Phantom Gift, The | CrVim | 15 | [365](#the-phantom-gift) |
+| Phantom Gift, The | CrVi | 15 | [365](#the-phantom-gift) |
 | Physician's Eye | InCo | 5 | [333](#physicians-eye) |
 | Piercing Shaft Of Wood | MuHe | 10 | [341](#piercing-shaft-of-wood) |
-| Piercing The Faerie Veil | InVim | 20 | [367](#piercing-the-faerie-veil) |
+| Piercing The Faerie Veil | InVi | 20 | [367](#piercing-the-faerie-veil) |
 | Pilum Of Fire | CrIg | 20 | [344](#pilum-of-fire) |
 | Pit Of The Gaping Earth | PeTe | 15 | [361](#pit-of-the-gaping-earth) |
 | Plant's Withering Bane | PeHe | 20 | [341](#plants-withering-bane) |
@@ -25039,7 +25039,7 @@ p168-170 p391
 | Removal Of The Conspicuous Sigil | PeIm | 20 | [351](#removal-of-the-conspicuous-sigil) |
 | Repel The Wooden Shafts | ReHe | 10 | [342](#repel-the-wooden-shafts) |
 | Restoration Of The Defiled Body | CrCo | 25 | [332](#restoration-of-the-defiled-body) |
-| Restore The Faded Threads | CrVim | General | [365](#restore-the-faded-threads) |
+| Restore The Faded Threads | CrVi | General | [365](#restore-the-faded-threads) |
 | Restore The Moved Image | ReIm | General | [352](#restore-the-moved-image) |
 | Revealed Flaws Of Mortal Flesh | InCo | 10 | [333](#revealed-flaws-of-mortal-flesh) |
 | Ring Of Warding Against Spirits | ReMe | General | [357](#ring-of-warding-against-spirits) |
@@ -25050,27 +25050,27 @@ p168-170 p391
 | Rope Of Bronze | MuHe | 15 | [341](#rope-of-bronze) |
 | Rusted Decay Of Ten-Score Years | PeTe | 10 | [361](#rusted-decay-of-ten-score-years) |
 | Sailor's Foretaste Of The Morrow | InAu | 15 | [327](#sailors-foretaste-of-the-morrow) |
-| Scales Of The Magical Weight | InVim | 5 | [366](#scales-of-the-magical-weight) |
+| Scales Of The Magical Weight | InVi | 5 | [366](#scales-of-the-magical-weight) |
 | Scent Of Peaceful Slumber | ReMe | 20 | [357](#scent-of-peaceful-slumber) |
 | Seal The Earth | CrTe | 15 | [359](#seal-the-earth) |
-| Sense Of Magical Power | InVim | 2 | [366](#sense-of-magical-power) |
-| Sense Of The Lingering Magic | InVim | 30 | [367](#sense-of-the-lingering-magic) |
+| Sense Of Magical Power | InVi | 2 | [366](#sense-of-magical-power) |
+| Sense Of The Lingering Magic | InVi | 30 | [367](#sense-of-the-lingering-magic) |
 | Sense The Feet That Tread The Earth | InTe | 30 | [360](#sense-the-feet-that-tread-the-earth) |
-| Sense The Nature Of Vis | InVim | 5 | [367](#sense-the-nature-of-vis) |
+| Sense The Nature Of Vis | InVi | 5 | [367](#sense-the-nature-of-vis) |
 | Seven-League Stride | ReCo | 30 | [338](#seven-league-stride) |
 | Severed Limb Made Whole, The | CrCo | 25 | [332](#the-severed-limb-made-whole) |
 | Shadow Of Human Life, The | CrIm | 40 | [349](#the-shadow-of-human-life) |
 | Shadow Of Life Renewed, The | CrCo | 75 | [332](#the-shadow-of-life-renewed) |
 | Shadows Of The Fires Past | InIg | 15 | [345](#shadows-of-the-fires-past) |
 | Shape Of The Woodland Prowler | MuCo | 25 | [334](#shape-of-the-woodland-prowler) |
-| Shell Of False Determinations | CrVim | General | [365](#shell-of-false-determinations) |
-| Shell Of Opaque Mysteries | CrVim | General | [365](#shell-of-opaque-mysteries) |
+| Shell Of False Determinations | CrVi | General | [365](#shell-of-false-determinations) |
+| Shell Of Opaque Mysteries | CrVi | General | [365](#shell-of-opaque-mysteries) |
 | Shiver Of The Lycanthrope | InAn | 10 | [317](#shiver-of-the-lycanthrope) |
 | Show Of The Flames And Smoke | MuIg | 10 | [345](#show-of-the-flames-and-smoke) |
 | Shriek Of The Impending Shafts | InHe | 15 | [340](#shriek-of-the-impending-shafts) |
-| Shroud Magic | MuVim | General | [368](#shroud-magic) |
+| Shroud Magic | MuVi | General | [368](#shroud-magic) |
 | Shrouded Glen, The | ReMe | 40 | [358](#the-shrouded-glen) |
-| Sight Of The Active Magics | InVim | 40 | [367](#sight-of-the-active-magics) |
+| Sight Of The Active Magics | InVi | 40 | [367](#sight-of-the-active-magics) |
 | Sight Of The Transparent Motive | InMe | 10 | [354](#sight-of-the-transparent-motive) |
 | Sight Of The True Form | InCo | General | [333](#sight-of-the-true-form) |
 | Silence Of The Smothered Sound | PeIm | 20 | [351](#silence-of-the-smothered-sound) |
@@ -25079,7 +25079,7 @@ p168-170 p391
 | Soothe Pains Of The Beast | CrAn | 20 | [316](#soothe-pains-of-the-beast) |
 | Soothe The Ferocious Bear | ReAn | 10 | [319](#soothe-the-ferocious-bear) |
 | Soothe The Raging Flames | PeIg | 20 | [346](#soothe-the-raging-flames) |
-| Sorcerer's Fork, The | MuVim | General | [368](#the-sorcerers-fork) |
+| Sorcerer's Fork, The | MuVi | General | [368](#the-sorcerers-fork) |
 | Spasms Of The Uncontrolled Hand | ReCo | 5 | [337](#spasms-of-the-uncontrolled-hand) |
 | Stance Of The Patient Tree | MuCo | 35 | [335](#stance-of-the-patient-tree) |
 | Steed Of Vengeance | MuAn | 35 | [318](#steed-of-vengeance) |
@@ -25092,7 +25092,7 @@ p168-170 p391
 | Subtle Taste Of Poison And Purity | InAq | 5 | [321](#subtle-taste-of-poison-and-purity) |
 | Summoning The Distant Image | InIm | 25 | [350](#summoning-the-distant-image) |
 | Supple Iron And Rigid Rope | MuTe | 10 | [361](#supple-iron-and-rigid-rope) |
-| Suppressing The Wizard's Handiwork | ReVim | General | [372](#suppressing-the-wizards-handiwork) |
+| Suppressing The Wizard's Handiwork | ReVi | General | [372](#suppressing-the-wizards-handiwork) |
 | Tales Of The Ashes | InIg | 5 | [345](#tales-of-the-ashes) |
 | Talons Of The Winds | MuAu | 20 | [328](#talons-of-the-winds) |
 | Tangle Of Wood And Thorns | ReHe | 15 | [342](#tangle-of-wood-and-thorns) |
@@ -25121,7 +25121,7 @@ p168-170 p391
 | Trust Of Childlike Faith | PeMe | 10 | [356](#trust-of-childlike-faith) |
 | Twist Of The Tongue | PeCo | 30 | [336](#twist-of-the-tongue) |
 | Twist The Living Tree | ReHe | 25 | [343](#twist-the-living-tree) |
-| Unraveling The Fabric Of (Form) | PeVim | General | [370](#unraveling-the-fabric-of-form) |
+| Unraveling The Fabric Of (Form) | PeVi | General | [370](#unraveling-the-fabric-of-form) |
 | Unseen Arm | ReTe | 5 | [362](#unseen-arm) |
 | Unseen Porter, The | ReTe | 10 | [363](#the-unseen-porter) |
 | Unyielding Earth | ReTe | 10 | [363](#unyielding-earth) |
@@ -25144,7 +25144,7 @@ p168-170 p391
 | Ward Against Rain | ReAu | 10 | [330](#ward-against-rain) |
 | Ward Against The Beasts Of Legend | ReAn | General | [319](#ward-against-the-beasts-of-legend) |
 | Ward Against Wood | ReHe | 25 | [343](#ward-against-wood) |
-| Watching Ward | ReVim | General | [372](#watching-ward) |
+| Watching Ward | ReVi | General | [372](#watching-ward) |
 | Waves Of Drowning And Smashing | ReAq | 30 | [324](#waves-of-drowning-and-smashing) |
 | Weaver's Trap Of Webs | CrAn | 35 | [316](#weavers-trap-of-webs) |
 | Weight Of A Thousand Hells | CrMe | 25 | [353](#weight-of-a-thousand-hells) |
@@ -25153,18 +25153,18 @@ p168-170 p391
 | Whispers Through The Black Gate | InCo | 15 | [333](#whispers-through-the-black-gate) |
 | Wielding The Invisible Sling | ReTe | 10 | [363](#wielding-the-invisible-sling) |
 | Wind At The Back | ReAu | 5 | [329](#wind-at-the-back) |
-| Wind Of Mundane Silence | PeVim | General | [370](#wind-of-mundane-silence) |
+| Wind Of Mundane Silence | PeVi | General | [370](#wind-of-mundane-silence) |
 | Wings Of The Soaring Wind | CrAu | 30 | [326](#wings-of-the-soaring-wind) |
 | Winter's Icy Touch | PeIg | 10 | [346](#winters-icy-touch) |
 | Wizard's Autumn | PeHe | 15 | [341](#wizards-autumn) |
-| Wizard's Boost (Form) | MuVim | General | [368](#wizards-boost-form) |
-| Wizard's Communion | MuVim | General | [369](#wizards-communion) |
+| Wizard's Boost (Form) | MuVi | General | [368](#wizards-boost-form) |
+| Wizard's Communion | MuVi | General | [369](#wizards-communion) |
 | Wizard's Eclipse | PeIg | 35 | [346](#wizards-eclipse) |
 | Wizard's Icy Grip | PeIg | 30 | [346](#wizards-icy-grip) |
 | Wizard's Mount, The | CrAn | 35 | [316](#the-wizards-mount) |
-| Wizard's Reach (Form) | MuVim | General | [369](#wizards-reach-form) |
+| Wizard's Reach (Form) | MuVi | General | [369](#wizards-reach-form) |
 | Wizard's Sidestep | ReIm | 10 | [352](#wizards-sidestep) |
-| Wizard's Vigil | MuVim | General | [370](#wizards-vigil) |
+| Wizard's Vigil | MuVi | General | [370](#wizards-vigil) |
 | Words Of The Flickering Flame | InIg | 35 | [345](#words-of-the-flickering-flame) |
 | Words Of The Unbroken Silence | CrMe | 10 | [353](#words-of-the-unbroken-silence) |
 | Wound That Weeps, The | PeCo | 15 | [335](#the-wound-that-weeps) |
