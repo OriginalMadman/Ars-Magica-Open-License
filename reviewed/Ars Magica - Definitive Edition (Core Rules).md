@@ -6,7 +6,7 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 *[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
 
-*Some identified issues from source PDF (more than these were fixed): "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed); Arcane Lore listed as Ability instead of Virtue in Index (fixed); Corrupt Beasts misplaced in Index (fixed); Enchanting (Ability) (Ability) missing from Index (fixed)*
+*Some identified issues from source PDF (more than these were fixed): "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed); Arcane Lore listed as Ability instead of Virtue in Index (fixed); Corrupt Beasts misplaced in Index (fixed); Enchanting (Ability) (Ability) missing from Index (fixed); Premonitions (Virtue) missing from Index (fixed); House Tremere voting sigil reference on p16 to p314 likely should be p224 (fixed)*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
@@ -602,15 +602,15 @@ Due to their nature, Bjornaer magi are unable to forge the necessary links to ha
 
 The House is divided into six clans. Clan Arelie is concerned with remembering the past, Clan Ilfetu is responsible for Initiating members of the House, Clan Maruhs seeks self-realization, Clan Midusulf leads, Clan Sirnas protects, and Clan Wilkis nurtures magi and strengthens the House. Philosophically, the House is divided between Harmonists, who want to see humans and nature live in harmony, and Wilderists, who want to drive humans back to the cities, restoring the wilderness to its dominance. The Wilderist philosophy was the original philosophy of the House, while the first Harmonist was Hérisson, a magus of the tenth century whose ideas only became popular after the Schism War.
 
-The Prima of the House is Falke. and its domus magna is Crintera, in the Rhine Tribunal, described in Guardians of the Forests, page 92. The former Primus, Archmagus Urgen, is the chief of Clan Midusulf, and still important in the House, sitting on its council and residing at Crintera.
+The Prima of the House is Falke. and its domus magna is Crintera, in the Rhine Tribunal, described in [*Guardians of the Forests*, page 92](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#crintera>). The former Primus, Archmagus Urgen, is the chief of Clan Midusulf, and still important in the House, sitting on its council and residing at Crintera.
 
-This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery (see page 233).
+This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery (see [page 233](#bjornaer--the-heartbeast)).
 
 ### House Bonisagus
 
 House Bonisagus is split into two strands, the political and the theoretical. Theoretical Bonisagus magi concentrate on pushing back the boundaries of Hermetic magic, and are the undisputed masters of Magic Theory. Political Bonisagus magi, often called 'magi Trianomae', concentrate on keeping the Order together, and excel at politics.
 
-The current Prima is Archmaga Murion, a consummate politician, who resides at Durenmar in the Rhine Tribunal (see Guardians of the Forests, page 51). The House typically remembers its researchers better than its politicians: figures such as Notatus, the first Primus, who created the Aegis of the Hearth, and Conciatta, who extended Hermetic magic to directly affect the other supernatural powers (Divine, Faerie, and Infernal) (see Legends of Hermes, Chapter Two). Among contemporary members, Archmagus Relisius is well-known for his Christian faith and advocacy of harmony between Magic and the Divine (see Tales of Power, Chapter Four: Encroaching Dominion).
+The current Prima is Archmaga Murion, a consummate politician, who resides at Durenmar in the Rhine Tribunal (see [*Guardians of the Forests*, page 51](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#durenmar>)). The House typically remembers its researchers better than its politicians: figures such as Notatus, the first Primus, who created the Aegis of the Hearth, and Conciatta, who extended Hermetic magic to directly affect the other supernatural powers (Divine, Faerie, and Infernal) (see Legends of Hermes, Chapter Two). Among contemporary members, Archmagus Relisius is well-known for his Christian faith and advocacy of harmony between Magic and the Divine (see Tales of Power, Chapter Four: Encroaching Dominion).
 
 ### House Criamon
 
@@ -620,9 +620,9 @@ Magi of Criamon seek the "Enigma", which other magi characterize as some sort of
 
 Even among the Mystery Cults, House Criamon is difficult for outsiders to comprehend.
 
-Its Prima is Muscaria, who is resident at the domus magna, the Cave of Twisting Shadows in the Tribunal of the Greater Alps. She is a young and intensely practical maga, little like the common image of her House. Important past magi include Vederis, who wrote the Travels of Fedoso, an allegorical, or at least esoteric, text that is popular in the House and beyond, and Abdkypris, who found important links between the Mysteries of the House and the beliefs of the Sufis, a tradition within Islam. St Nerius (see Realms of Power: The Divine "Revised Edition", page 91), a magus famous for his Christian devotion and sanctity, is generally said to have been a member of House Criamon.
+Its Prima is Muscaria, who is resident at the domus magna, the Cave of Twisting Shadows in the Tribunal of the Greater Alps. She is a young and intensely practical maga, little like the common image of her House. Important past magi include Vederis, who wrote the Travels of Fedoso, an allegorical, or at least esoteric, text that is popular in the House and beyond, and Abdkypris, who found important links between the Mysteries of the House and the beliefs of the Sufis, a tradition within Islam. St Nerius (see [*Realms of Power: The Divine "Revised Edition"*, page 91](<Ars Magica 5e - Realms of Power - The Divine (Revised).md#saint-nerius>)), a magus famous for his Christian devotion and sanctity, is generally said to have been a member of House Criamon.
 
-This House is a Mystery Cult, and the Mystery at the heart of the cult is the Enigma (see page 233).
+This House is a Mystery Cult, and the Mystery at the heart of the cult is the Enigma (see [page 233](#criamon--the-enigma)).
 
 ### House Ex Miscellanea
 
@@ -640,9 +640,9 @@ Most magi would be hard-pressed to name any magus Ex Miscellanea they did not kn
 
 While most followers of Flambeau (flahm-BOH) specialize in fire magic, some study spells of simple annihilation as a more subtle alternative. Flambeau the Founder was known for his mastery of fire. while his apprentice, and the first Primus, Apromor, favored Perdo. Thus, both of these traditions are respected within the House. These aggressive and ferocious magi often cause trouble within the Order and frequently anger mundanes. However, their fearlessness and love of destruction make them invaluable when the Order requires the application of martial force.
 
-House Flambeau is a gathering of kindred spirits. While most followers of Flambeau believe in direct action and combat, there is also a strong tradition of honor and chivalry in the House, making them in many ways the Order's knights. This is particularly true under the current Primus, Garus, who leads the House from its domus magna of Castra Solis in the Provençal Tribunal (see Faith & Flame, page 67). The House's original domus magna was Val Negra, also in the Provençal Tribunal, but it has been lost in a regio for decades, if not centuries. Flambeau's second apprentice, Elaine, carried on his tradition of fire magic, and served as a Hoplite (see House Guernicus, next). She was also an important scholar and author, and wrote several texts that are still important today, including Ars Flambonis, a summa on Ignem (level 14, quality 12) that is peppered with anecdotes of the Founder and particularly popular within the House.
+House Flambeau is a gathering of kindred spirits. While most followers of Flambeau believe in direct action and combat, there is also a strong tradition of honor and chivalry in the House, making them in many ways the Order's knights. This is particularly true under the current Primus, Garus, who leads the House from its domus magna of Castra Solis in the Provençal Tribunal (see [*Faith & Flame*, page 67](<Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md#castra-solis>)). The House's original domus magna was Val Negra, also in the Provençal Tribunal, but it has been lost in a regio for decades, if not centuries. Flambeau's second apprentice, Elaine, carried on his tradition of fire magic, and served as a Hoplite (see House Guernicus, next). She was also an important scholar and author, and wrote several texts that are still important today, including Ars Flambonis, a summa on Ignem (level 14, quality 12) that is peppered with anecdotes of the Founder and particularly popular within the House.
 
-Among its contemporary members, the Archmaga Geirlaug of Montverte covenant in the Normandy Tribunal is particularly notable, as much for her great age as her great power. She is rarely seen outside her tower these days, but is a master of Ignem and still has a firm grip on the direction of her covenant (see The Lion and The Lily, page 58).
+Among its contemporary members, the Archmaga Geirlaug of Montverte covenant in the Normandy Tribunal is particularly notable, as much for her great age as her great power. She is rarely seen outside her tower these days, but is a master of Ignem and still has a firm grip on the direction of her covenant (see [*The Lion and The Lily*, page 58](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#montverte>)).
 
 ### House Guernicus
 
@@ -654,11 +654,11 @@ Ouaesitors are sometimes asked to investigate possible crimes, or to mediate dis
 
 The House has an important philosophical split between Traditionalists, who believe that the Code should be preserved as it has been since the Founding, and the Transitionalists, who believe that it should be revised to better suit modern realities. The Transitionalist movement started with Simprim of Guernicus in the mid-twelfth century, and seeks greater legal powers for the Quaesitores.
 
-The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/ Transitionalist debate. She resides at the domus magna of the House. Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedvosmos in the Theban Tribunal. Hedyosmos is located in a labvrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see The Sundered Eagle, page 66).
+The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/ Transitionalist debate. She resides at the domus magna of the House. Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedvosmos in the Theban Tribunal. Hedyosmos is located in a labvrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see *The Sundered Eagle*, page 66).
 
 ### House Jerbiton
 
-House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift (page 82) is particularly common in this House.
+House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift ([page 82](#gentle-gift)) is particularly common in this House.
 
 Many members of other Houses believe that followers of Jerbiton are too closely bound to the mundane powers to be trusted. On the other hand, Jerbiton magi fear that members of the Order have become isolated from humanity, risking bloody conflict with the mundanes. They try energetically to heal this rift, and pursue aesthetic and Classical knowledge with a passion. The fall of Constantinople to the Fourth Crusade in 1204 has inspired the Primus, Andru, to rally the House to its original values, the defense of civilization, a call that the younger generation of magi have heeded. The domus magna of House Jerbiton is Valnastium, in the Tribunal of the Greater Alps. Two historically important Primi were Petrus, in the tenth century, who advocated life within mundane communities, and Mattieus, in the twelfth, who believed that Jerbiton should live with other magi and serve as their ambassadors to the mundanes. These two philosophies remain strong within the House.
 
@@ -666,7 +666,7 @@ Members of House Jerbiton are trained in mundane study, the arts, and politics, 
 
 Fortunata of Jerbiton was a powerful spirit master of the eleventh century who defeated many non-Hermetic enemies and gathered knowledge and power from many Mysteries. She was forced into exile by Hermetic enemies, and disappeared into Final Twilight shortly after 1120. Her writings are rumored to contain information on how to gain the power that she had (see Legends of Hermes, Chapter Three for more information).
 
-In the present, Archmagus Mathieus of Constantinople, who is named for the city where he was trained but has lived in Paris for many years, is known for having given up the study of magic as not worth his time. For many years he seemed to have no purpose in life, but since the fall of Constantinople he has become much more active (see The Lion and the Lily, page 87). Archmagus Edward of Milton, on the other hand, is famed for heading the covenant of Schola Pythagoranis in Cambridge, which claims to have served as the nucleus for the new university in that town (see Art and Academe, page 112).
+In the present, Archmagus Mathieus of Constantinople, who is named for the city where he was trained but has lived in Paris for many years, is known for having given up the study of magic as not worth his time. For many years he seemed to have no purpose in life, but since the fall of Constantinople he has become much more active (see [*The Lion and the Lily*, page 87](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#archmagus-mathieus-of-constantinople-filius-of-maria-of-constantinople-follower-of-jerbiton>)). Archmagus Edward of Milton, on the other hand, is famed for heading the covenant of Schola Pythagoranis in Cambridge, which claims to have served as the nucleus for the new university in that town (see *Art and Academe*, page 112).
 
 ### House Mercere
 
@@ -688,11 +688,11 @@ Although the House was founded by Merinita, she herself was not particularly int
 
 Quendalon returned two years later, his eyes replaced by rubies, and announced a new direction for the House. This was resisted by Myanar, and war broke out within the House. Ultimately, Quendalon was victorious, and the Merinita turned to the study of faerie. Quendalon served as Primus, at least in name, until the end of the tenth century, although he had little contact with his House in the latter half of that century. Some magi even now suspect that the returned Quendalon was actually a faerie.
 
-The current Primus is Handri, who lives at the domus magna of Irencillia in the Rhine Tribunal. The previous Prima, Vinaria, also lives there. In 1202, she vanished much as Quendalon had done, leaving Handri in charge. However, when Vinaria returned in 1209, she made no moves to regain control of the House, and still lives quietly at Irencillia (see Guardians of the Forests, page 104).
+The current Primus is Handri, who lives at the domus magna of Irencillia in the Rhine Tribunal. The previous Prima, Vinaria, also lives there. In 1202, she vanished much as Quendalon had done, leaving Handri in charge. However, when Vinaria returned in 1209, she made no moves to regain control of the House, and still lives quietly at Irencillia (see *Guardians of the Forests*, page 104).
 
-Lucian the Scholar is an elder magus who lives in the covenant of Aegea, on the floor of the Aegean Sea in the Theban Tribunal. He is renowned for his deep knowledge of the literary traditions of the Byzantine Empire and ancient Greece, and is rumored to have been Initiated into secrets of story magic (see The Sundered Eagle, page 81). Dama, the Praeco of the Provençal Tribunal, was born in 993. She fell into Twilight in 1061, but emerged 19 years later, and remains active today. She is one of only two members of the covenant of Mimizan, and is rumored to lead a Mystery Cult that is not part of House Merinita (see Faith & Flame, pages 29 and 64).
+Lucian the Scholar is an elder magus who lives in the covenant of Aegea, on the floor of the Aegean Sea in the Theban Tribunal. He is renowned for his deep knowledge of the literary traditions of the Byzantine Empire and ancient Greece, and is rumored to have been Initiated into secrets of story magic (see *The Sundered Eagle*, page 81). Dama, the Praeco of the Provençal Tribunal, was born in 993. She fell into Twilight in 1061, but emerged 19 years later, and remains active today. She is one of only two members of the covenant of Mimizan, and is rumored to lead a Mystery Cult that is not part of House Merinita (see *Faith & Flame*, pages 29 and 64).
 
-House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see page 236).
+House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see [page 236](#merinita--faerie-magic)).
 
 ### House Tremere
 
@@ -702,9 +702,9 @@ House Tremere is considered one of the more sensible and stable Houses, providin
 
 House Tremere is a true lineage. All of its members can trace a chain back through their masters and their masters' masters, and so on, back to Tremere the Founder. It is not possible to join the House from outside. Certamen, a safe method of magical dueling between magi, was invented by Tremere the Founder, and his House retains a great deal of interest in it.
 
-In addition, Tremere magi hold their filii's voting sigils (see page 314) until the filius beats the parens in certamen, or until the parens dies. If a Tremere magus who does not hold his own sigil trains an apprentice, the new magus' sigil is held by the parens of the training magus, assuming that that magus holds his own sigil. If he does not, the sigil is passed back up the chain until it reaches a magus who does hold his own sigil. As a result of this custom, House Tremere's votes are concentrated in a very limited number of hands.
+In addition, Tremere magi hold their filii's voting sigils (see [page 224](#sigils)) until the filius beats the parens in certamen, or until the parens dies. If a Tremere magus who does not hold his own sigil trains an apprentice, the new magus' sigil is held by the parens of the training magus, assuming that that magus holds his own sigil. If he does not, the sigil is passed back up the chain until it reaches a magus who does hold his own sigil. As a result of this custom, House Tremere's votes are concentrated in a very limited number of hands.
 
-The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see Against the Dark, page 21). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see Against the Dark, page 30). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see Guardians of the Forests, page 84).
+The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see *Against the Dark*, page 21). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see *Against the Dark*, page 30). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see *Guardians of the Forests*, page 84).
 
 ### House Tytalus
 
@@ -712,7 +712,7 @@ The philosophy of Tytalus (TIE-tah-loos) magi is to master all forms of conflict
 
 House Tytalus is almost the opposite of House Tremere. Where the Tremere believe in stability and respect for elders, Tytalus magi believe in constant change, and in challenging your elders repeatedly until you can finally win. The Founders of the two Houses were trained by the same wizard, Guorna the Fetid, and often fought over their contrasting visions of how to live.
 
-In their never-ending search for conflict, the leaders of House Tytalus went too far in the 10th century, falling prey to demonic machinations. Those masters of intrigue arrogantly believed they could master the dark forces, but despite their skill, were unable to outwit Hell. The leaders were executed for their crime of diabolism, and House Tytalus has been distrusted ever since. This has not been helped by the fact that two magi, Buliste and Harpax, both claim to be Primus (or Prima, in Buliste's case). Buliste was the ninth Prima, but passed into Twilight. Harpax then claimed the right to be tenth Primus. However, Buliste emerged from Twilight, and refused to acknowledge his position; he, of course, refused to yield. The two are still fighting for control of the House, and of its domus magna, Fudarus, in the Normandy Tribunal (see The Lion and the Lily, page 41). The magi of House Tytalus choose sides, but most of them seem to do so simply for the sake of the challenge, and not because they have any real loyalty to one or the other.
+In their never-ending search for conflict, the leaders of House Tytalus went too far in the 10th century, falling prey to demonic machinations. Those masters of intrigue arrogantly believed they could master the dark forces, but despite their skill, were unable to outwit Hell. The leaders were executed for their crime of diabolism, and House Tytalus has been distrusted ever since. This has not been helped by the fact that two magi, Buliste and Harpax, both claim to be Primus (or Prima, in Buliste's case). Buliste was the ninth Prima, but passed into Twilight. Harpax then claimed the right to be tenth Primus. However, Buliste emerged from Twilight, and refused to acknowledge his position; he, of course, refused to yield. The two are still fighting for control of the House, and of its domus magna, Fudarus, in the Normandy Tribunal (see *The Lion and the Lily*, page 41). The magi of House Tytalus choose sides, but most of them seem to do so simply for the sake of the challenge, and not because they have any real loyalty to one or the other.
 
 ### House Verditius
 
@@ -728,7 +728,7 @@ Every eighteen years, the House holds a grand Contest, at which enchanted items 
 
 The Primus of House Verditius is chosen by strict primogeniture: the eldest living filius of the previous Primus becomes Primus. There is almost no opposition to this in the House, as most magi do not care who their Primus is, and appreciate a system that means they need not worry about choosing a new one. The current Primus is Stouritus, who does not live at the domus magna of Verdi in the Roman Tribunal. He is a member of the covenant of Ingasia in the Theban Tribunal, and would like it to become the domus magna so that there would be no need for him to move (see *The Sundered Eagle*, page 86).
 
-House Verditius is a Mystery Cult, and all members are initiated into the Outer Mystery of Verditius Magic (See page 240).
+House Verditius is a Mystery Cult, and all members are initiated into the Outer Mystery of Verditius Magic (See [page 240](#verditius--verditius-magic)).
 
 ## Covenants
 
@@ -928,13 +928,13 @@ More information about non-Hermetic wizards can be found in *Hedge Magic Revised
 
 Player characters in Ars Magica fall into three categories, depending on their role in the story. Magi are members of the Order of Hermes, the powerful wizards around whom the game centers. Companions are important characters who are not magi, while grogs are minor characters.
 
-Most players of Ars Magica have at least two characters, and often more, although they do not play all of them at once. The characters to be played depend on events in the saga, and this is discussed in more detail in the section on Troupe-Style Roleplaying, on page 528.
+Most players of Ars Magica have at least two characters, and often more, although they do not play all of them at once. The characters to be played depend on events in the saga, and this is discussed in more detail in the section on Troupe-Style Roleplaying, on [page 528](#troupe-style-roleplaying).
 
 ### Magi
 
 A magus (feminine maga, plural magi, feminine plural magae) is a powerful wizard, even when he has only just finished his training. Magi rule the covenant around which a saga revolves, and have the potential to become as powerful as any human being can. A magus player character belongs to a single player, who has complete control over that character's decisions.
 
-Although magi are very powerful, they are also limited in important ways by The Gift, their ability to work magic (see pages 63 and 203). This means that there are some things that only non-magi can do effectively. In addition, magi are rarely skilled at anything other than magic, which means that they need help in everyday affairs.
+Although magi are very powerful, they are also limited in important ways by The Gift, their ability to work magic (see [page 63](#the-gift) and [page 203](#the-gift-2)). This means that there are some things that only non-magi can do effectively. In addition, magi are rarely skilled at anything other than magic, which means that they need help in everyday affairs.
 
 ### Companions
 
@@ -960,7 +960,7 @@ As minor characters, grogs tend to have bad things happen to them. Warrior grogs
 
 On the other hand, grogs are a great deal of fun to play. You don't need to worry too much about the consequences of your actions, because you probably won't be playing this character next week. You can ham up the acting, and have the grog do something stupidly heroic, or heroically stupid. If a grog charges into lone battle against a dragon, in order to defend a magus, he might die in a couple of rounds, in which case he is remembered fondly, or make some stupendously lucky rolls and kill the dragon, in which case he becomes a hero. With a grog, you can take that risk, while with a companion or magus you will probably want to be more cautious. Of course, it's also fun to play a grog who debates with the magus about the wisdom of staying to face a dragon.
 
-Grogs are often generated from the grog templates, starting on page 31. They may be created by detailed character creation, but should have no Major Virtues or Flaws, and no more than three Minor Flaws, balanced by an equal number of Minor Virtues. In addition, grogs should not have Story Flaws, as they are supposed to be minor characters. Finally, grogs can never have The Gift. A character with The Gift is too important to be a grog.
+Grogs are often generated from the grog templates, starting on [page 31](#grog-templates). They may be created by detailed character creation, but should have no Major Virtues or Flaws, and no more than three Minor Flaws, balanced by an equal number of Minor Virtues. In addition, grogs should not have Story Flaws, as they are supposed to be minor characters. Finally, grogs can never have The Gift. A character with The Gift is too important to be a grog.
 
 ## Character Basics
 
@@ -968,11 +968,11 @@ This section outlines the way that the game rules describe characters.
 
 ### Size
 
-All Ars Magica characters have a Size score. However, almost all adult human characters have the same Size score, 0, as this represents an average adult human. Every three points of Size represents a ten-fold increase or decrease in mass, and adult humans can range from Size -2 to Size +2, if they take appropriate Virtues or Flaws. The effects of this are described in the Virtues chapter, page 61. Size is more important for non-human creatures, and is discussed in detail in the Bestiary chapter, page 426.
+All Ars Magica characters have a Size score. However, almost all adult human characters have the same Size score, 0, as this represents an average adult human. Every three points of Size represents a ten-fold increase or decrease in mass, and adult humans can range from Size -2 to Size +2, if they take appropriate Virtues or Flaws. The effects of this are described in the Virtues chapter, [page 61](#chapter-4-virtues-and-flaws). Size is more important for non-human creatures, and is discussed in detail in the Bestiary chapter, [page 426](#chapter-13-bestiary).
 
 ### Virtues and Flaws
 
-Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies, obsessions, and aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on page 61.
+Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies, obsessions, and aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on [page 61](#chapter-4-virtues-and-flaws).
 
 ### Characteristics
 
@@ -1012,7 +1012,7 @@ Dexterity means being able to move with agility and to manipulate objects accura
 
 #### Quickness (Qik)
 
-Quickness indicates reaction speed and reflexes, and helps determine who acts first when two people are trying to do something with great haste. It also describes how well your character does something in a hurry. Your effective Quickness is usually modified by your Encumbrance. See page 403 for more information on Encumbrance.
+Quickness indicates reaction speed and reflexes, and helps determine who acts first when two people are trying to do something with great haste. It also describes how well your character does something in a hurry. Your effective Quickness is usually modified by your Encumbrance. See [page 403](#encumbrance) for more information on Encumbrance.
 
 ### Abilities
 
@@ -1020,13 +1020,13 @@ Abilities are a character's learned skills. They usually do increase during the 
 
 Supernatural Abilities are even more limited, and a character can only learn one if she meets certain special conditions. The most common is the possession of the Virtue granting that Supernatural Ability, but The Gift allows characters to learn such Abilities, and other supplements describe other ways to access them. Unless a character has a feature that specifically says she can learn a Supernatural Ability, she cannot.
 
-Finally, Spell Mastery Abilities are only available to Hermetic magi, and are described on page 158.
+Finally, Spell Mastery Abilities are only available to Hermetic magi, and are described on [page 158](#spell-mastery).
 
 ### Personality Traits
 
 Personality Traits are a short description of important features of your character's personality. For major characters, such as magi and companions, they are normally nothing more than an aide memoire, and a reason to think about the character's personality during character creation, although there are a few specific rules that require Personality Trait rolls.
 
-For grogs, they are more significant. As grogs are often shared between players, or at least played rarely (see Troupe-Style Roleplaying on page 528), the numbers attached to Personality Traits can be used as a concrete guide to playing the character. They can be positive or negative, and normally range between +3 and -3, although there are exceptions. A Minor Personality Flaw (see later) would normally be matched by a Personality Trait of +3 or -3, while a Major Personality Flaw, which a grog would not normally have, would justify a Personality Trait of +6 or -6. 'Loyal' is a particularly important Trait, as it reflects the grog's attachment to the covenant, while 'Brave' is just as important for warrior grogs. A third Trait should be something distinctive about that grog. You may decide to roll a grog's Personality Traits when you are unsure how he would react, or you may treat the numbers simply as a guide to roleplaying. If you do roll them, add nothing but the Personality Trait, and roll a stress die. Suggested Ease Factors are found on the table
+For grogs, they are more significant. As grogs are often shared between players, or at least played rarely (see Troupe-Style Roleplaying on [page 528](#troupe-style-roleplaying)), the numbers attached to Personality Traits can be used as a concrete guide to playing the character. They can be positive or negative, and normally range between +3 and -3, although there are exceptions. A Minor Personality Flaw (see later) would normally be matched by a Personality Trait of +3 or -3, while a Major Personality Flaw, which a grog would not normally have, would justify a Personality Trait of +6 or -6. 'Loyal' is a particularly important Trait, as it reflects the grog's attachment to the covenant, while 'Brave' is just as important for warrior grogs. A third Trait should be something distinctive about that grog. You may decide to roll a grog's Personality Traits when you are unsure how he would react, or you may treat the numbers simply as a guide to roleplaying. If you do roll them, add nothing but the Personality Trait, and roll a stress die. Suggested Ease Factors are found on the table
 
 #### Changing Personality Traits
 
@@ -1052,7 +1052,7 @@ Reputations have a score, a content, and a type. The score is a number, used as 
 
 A random person has heard of a character with a Reputation if a roll of a stress die plus the Reputation equals or exceeds the Ease Factor given on the table below. The more he succeeds by, the more he has heard about the character. If the character's Reputation is largely accurate, so is what the person has heard. Conversely, a largely underserved Reputation brings lots of false beliefs with it.
 
-Reputations can change over time. See the Long-Term Events chapter, page 386, for details.
+Reputations can change over time. See the Long-Term Events chapter, [page 386](#changing-reputations), for details.
 
 #### Reputation Ease Factors
 
@@ -1106,15 +1106,15 @@ Each template is presented in the same format, described below.
 
 **Characteristics:** A list of the Characteristics and values. If the character has any aging points in any Characteristics, these are shown in parentheses after the Characteristic value. (See Long Term Events, page 391, for aging rules.) Size: The character's size.
 
-**Age:** The character's actual age, with the apparent age in parentheses. (See Long Term Events, page 391, for aging rules and apparent age.)
+**Age:** The character's actual age, with the apparent age in parentheses. (See Long Term Events, [page 391](#aging), for aging rules and apparent age.)
 
-**Decrepitude:** The character's number of Decrepitude points, with the number of excess Aging Points in parentheses. These are gained from aging, and are described on page 391.
+**Decrepitude:** The character's number of Decrepitude points, with the number of excess Aging Points in parentheses. These are gained from aging, and are described on [page 391](#aging).
 
-**Warping Score:** The character's Warping Score, with the number of excess Warping Points in parentheses. Warping Points measure a character's exposure to magic, and have bad effects if you gain too many. See Warping, on page 389, for more details.
+**Warping Score:** The character's Warping Score, with the number of excess Warping Points in parentheses. Warping Points measure a character's exposure to magic, and have bad effects if you gain too many. See Warping, on [page 389](#warping-2), for more details.
 
 Confidence Score: The character's Confidence Score, with the number of Confidence Points in parentheses. Grogs don't have Confidence, so this line is omitted.
 
-**Virtues and Flaws:** All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on page 61. The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
+**Virtues and Flaws:** All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on [page 61](#chapter-4-virtues-and-flaws). The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
 
 **Personality Traits:** The character's Personality Traits, and scores.
 
@@ -1124,21 +1124,21 @@ Confidence Score: The character's Confidence Score, with the number of Confidenc
 
 **Soak:** The character's Soak score.
 
-**Fatigue levels:** A listing of the character's Fatigue levels and penalties, which represent how tired the character is. Fatigue is described on page 403.
+**Fatigue levels:** A listing of the character's Fatigue levels and penalties, which represent how tired the character is. Fatigue is described on [page 403](#fatigue).
 
 **Wound Penalties:** Shows the penalties for wounds of varying severity, with the number of points of damage required to inflict a wound of that severity shown in parentheses.
 
 **Abilities:** All of the character's Abilities, in alphabetical order. The format is Ability X(Z) (specialization), where X is the score in the Ability and Z is the number of experience points acquired towards the next level. If the Ability is written X+Y(Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Ability), and Z is the number of experience points acquired towards the next level.
 
-**Arts:** The character's scores in the Hermetic Arts, in the format Art X (Z), where X is the score and Z the number of experience points acquired towards the next level. If the Art is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Art), and Z is the number of experience points acquired towards the next level. The Arts are named according to the standard abbreviations, described on page 206. Non-magi have no scores in the Arts, and this section is omitted.
+**Arts:** The character's scores in the Hermetic Arts, in the format Art X (Z), where X is the score and Z the number of experience points acquired towards the next level. If the Art is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Art), and Z is the number of experience points acquired towards the next level. The Arts are named according to the standard abbreviations, described on [page 206](#the-hermetic-arts). Non-magi have no scores in the Arts, and this section is omitted.
 
-**Twilight Scars:** Long lasting effects of Wizard's Twilight. Only applicable to Hermetic magi, and described in detail on page 229.
+**Twilight Scars:** Long lasting effects of Wizard's Twilight. Only applicable to Hermetic magi, and described in detail on [page 229](#wizards-twilight).
 
 **Equipment**: The character's stuff.
 
-**Encumbrance**: The character's Encumbrance, with the character's Burden in parentheses. The rules for Encumbrance are on page 403.
+**Encumbrance**: The character's Encumbrance, with the character's Burden in parentheses. The rules for Encumbrance are on [page 403](#encumbrance).
 
-Spells Known: A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Magic chapter, page 225). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from page 301.
+Spells Known: A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Magic chapter, [page 225](#spell-mastery)). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from [page 301](#chapter-9-spells).
 
 **Customization Notes:** Some notes on the character, and what can easily be changed if you want to customize it.
 
@@ -2119,11 +2119,11 @@ The first step in creating a new character from scratch is creating a character 
 ### Detailed Character Creation Summary
 
 1. **Pick a character concept.**
-2. **Hermetic Magi Only: Pick a House.** (See page 13)
+2. **Hermetic Magi Only: Pick a House.** (See [page 13](#the-houses-of-hermes-1))
 3. **Pick Virtues and Flaws.** Minor Virtues and Flaws are worth one point, Major Virtues and Flaws three points each.
     - *Grogs:* Up to three Minor Flaws, and the same number of Minor Virtues.
     - *Companions and Magi:* Up to ten points of Flaws, and the same number of points of Virtues.
-4. **Buy Characteristics.** Start with 7 points. See page 27 or 48.
+4. **Buy Characteristics.** Start with 7 points. See [page 27](#characteristic-descriptions) or [page 48](#characteristics-1).
 5. **Early Childhood.** 75 experience points in Native Language (normally granting a score of 5), and 45 experience points spread between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim.
 6. **Later Life.** 15 experience points per year (until apprenticeship for magi), spread between any Abilities the character can learn, based on the Virtues and Flaws he has. Characters with the Wealthy Major Virtue get 20 experience points per year, those with the Poor Major Flaw get 10.
 7. **Hermetic Magi Only: Apprenticeship.** Divide 240 experience points between Hermetic Arts and any nonSupernatural Abilities (or Supernatural Abilities, if the magus has the relevant Virtue). Take 120 levels of spells, of no higher level than Technique + Form + Intelligence + Magic Theory +3. Apply any relevant Virtues and Flaws when calculating this total.
@@ -2143,7 +2143,7 @@ If the character is not a magus, but is intended to be a central character in th
 
 The detailed character creation rules allow you to create characters of any age. This is obviously very useful for storyguides, but it raises the question of the appropriate age for new player characters.
 
-The first thing to bear in mind is that a character over the age of 35 must make aging rolls (see page 392) before the game begins. It is possible for such a character to die of old age before play, although if that happens you can always go back to the previous year.
+The first thing to bear in mind is that a character over the age of 35 must make aging rolls (see [page 392](#aging)) before the game begins. It is possible for such a character to die of old age before play, although if that happens you can always go back to the previous year.
 
 The second issue is that older characters are more powerful than younger ones. This is particularly marked for magi, who gain experience points and spell levels more quickly once they are out of apprenticeship and no longer need to spend time serving their masters.
 
@@ -2153,7 +2153,7 @@ The troupe or storyguide should make a decision on starting ages, bearing these 
 
 Second, in most troupes all magi should be approximately the same number of years out of apprenticeship. Actual ages are relatively unimportant, as magical abilities tend to overshadow mundane. If you decide not to do this, it should be because the whole troupe wants to play in that sort of saga, not because one player has a cool concept for an older magus.
 
-Third, it's a good idea to create companions at a fairly young age (under 30), so that they have several years of play in them. The importance of this varies depending on the speed of your saga (see page 527), but an old companion runs the risk of dying of old age before he's been played a dozen times.
+Third, it's a good idea to create companions at a fairly young age (under 30), so that they have several years of play in them. The importance of this varies depending on the speed of your saga (see [page 527](#saga-speed)), but an old companion runs the risk of dying of old age before he's been played a dozen times.
 
 Finally, grogs can be created at any age, and probably should be. Grizzled veterans and eager novices make equally fine concepts, and even characters partially crippled by old age can contribute to stories set at the covenant.
 
@@ -2176,26 +2176,26 @@ Much more information about playing child characters is provided in *Apprentices
 
 ### Magi Only: Hermetic House
 
-The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on page 13, and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
+The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on [page 13](#house-bjornaer), and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
 
 #### Hermetic Houses Summary
 
-The Hermetic Houses are described in more detail starting on page 12. Members of each House get a particular benefit at character creation, listed in the following table.
+The Hermetic Houses are described in more detail starting on [page 12](#the-houses-of-hermes-1). Members of each House get a particular benefit at character creation, listed in the following table.
 
 | House          | Type         | Description   | Benefit  |
 | -------------- | ------------ | ----------------------------------------------------------- | ----------------------------------------------------------------- |
-| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability. |
+| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast ([page 85](#heartbeast)), beginning score of 1 in Heartbeast Ability. |
 | Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians). |
-| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom. |
+| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma ([page 78](#the-enigma)), beginning score of 1 in Enigmatic Wisdom. |
 | Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance. |
 | Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.  |
 | Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.  |
 | Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship arts, or mundane interaction. |
 | Mercere        | True Lineage | Messengers of the Order                                     | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are created as companions, and take the Redcap Major Status Virtue. Gifted Redcaps take the Hermetic Magus Status Virtue, and do not take the Redcap Major Status Virtue. |
-| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.  |
+| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic ([page 79](#faerie-magic)), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.  |
 | Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen). |
 | Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.  |
-| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic (page 114).  |
+| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic ([page 114](#verditius-magic)).  |
 
 > #### Example: Darius of Flambeau
 >
@@ -2205,7 +2205,7 @@ The Hermetic Houses are described in more detail starting on page 12. Members of
 
 As many Virtues and Flaws deal with the character's place in the story, the rules for them differ the most between the character types.
 
-All characters must take a Social Status. There are a number of default Social Statuses that cost no points; see page 65. In particular, all Hermetic magi take the Social Status Hermetic Magus, which costs no points. No other characters may take this Status, because they are not, after all, Hermetic magi.
+All characters must take a Social Status. There are a number of default Social Statuses that cost no points; see [page 65](#social-statuses-by-culture). In particular, all Hermetic magi take the Social Status Hermetic Magus, which costs no points. No other characters may take this Status, because they are not, after all, Hermetic magi.
 
 Grogs are somewhat limited in their choice of Virtues and Flaws, to ensure that they remain minor characters. They may have up to three points of Flaws, and a corresponding number of Virtues. Grogs should have only Minor Virtues and Flaws. In addition, grogs may not have The Gift (having The Gift makes you an important character), and may not have Story Flaws, as those Flaws make characters central to stories, and that is not the role of the grogs.
 
@@ -2213,11 +2213,11 @@ Companions may, in principle, choose any Virtues and Flaws. They may have up to 
 
 Companions who do not have The Gift may not choose Hermetic Virtues or Flaws. Companions may have The Gift, and thus take Hermetic Virtues or Flaws. However, this should be extremely unusual; the main reason for creating such a companion is that you want to play through the apprenticeship of a magus. The Gift is, however, free, even if taken by a companion. Bear in mind that, unless the character can get access to magical training, it is almost entirely a Flaw, because of its effects on social interactions.
 
-Mythic Companions get more Virtues for their Flaws, as described in the rules on page 63.
+Mythic Companions get more Virtues for their Flaws, as described in the rules on [page 63](#virtues-and-flaws-rules-and-guidelines).
 
 Like companions, magi may take up to ten points of Flaws, and the same number of points of Virtues. Major Virtues and Flaws cost three points each, Minor ones one point. All magi must have The Gift. Without it, they cannot work magic, and thus cannot be magi. In addition, all magi should have at least one Hermetic Flaw. Nobody fits perfectly into Hermetic theory.
 
-The rules for taking Virtues and Flaws are summarized in the Virtues and Flaws chapter, on page 61.
+The rules for taking Virtues and Flaws are summarized in the Virtues and Flaws chapter, on [page 61](#chapter-4-virtues-and-flaws).
 
 #### Choosing Virtues and Flaws
 
@@ -3353,47 +3353,33 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 ## Virtues
 
 #### Academic Concentration (Subject)
-
-Minor, General
-
-The character has concentrated in one of the seven subjects of Artes Liberales, in preference to the other six. He may add +3 to his Artes Liberales score for that subject. However, he must subtract 1 from Artes Liberales rolls and totals for the subjects he did not concentrate in. Include the bonus and penalty modifier in every total that Artes Liberales is used for, including writing books. This Virtue is incompatible with the Virtue Puissant Artes Liberales. Puissant Artes Liberales means a character is particularly adept with all seven liberal arts, while Academic Concentration means the character focused on one liberal art in preference to the others.
+*Minor, General*<br>
+The character has concentrated in one of the seven subjects of Artes Liberales, in preference to the other six. He may add +3 to his Artes Liberales score for that subject. However, he must subtract 1 from Artes Liberales rolls and totals for the subjects he did not concentrate in. Include the bonus and penalty modifier in every total that Artes Liberales is used for, including writing books. This Virtue is incompatible with the Virtue Puissant Artes Liberales. Puissant Artes Liberales means a character is particularly adept with all seven liberal arts, while Academic Concentration means the character focused on one liberal art in preference to the others. 
 
 With troupe approval, this Virtue could be extended to Philosophiae. It is not allowed for any other Ability besides Artes Liberales and Philosophiae.
 
 #### Adept Laboratory Student
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You digest the instruction of others quite easily. You get a +6 bonus to Lab Totals when working from the lab texts of others, including when reinventing spells.
 
 #### Affinity with Ability
-
-Minor, General
-
+*Minor, General*<br>
 All Advancement Totals for one Ability are increased by half, rounded up, as are any experience points you put in that Ability at character creation. You may only take this Virtue once for a given Ability, but may take it again for different Abilities. If you take this Virtue for an Ability, you may exceed the normal age-based cap during character generation (see page 48) by two points for that Ability.
 
 #### Affinity with Art
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your Advancement Totals for one Hermetic Art are increased by one half, rounded up. At character creation, any experience points you put into that Art are also increased by one half (rounded up), and you may exceed the normal recommended limits. You may take this Virtue twice, for two different Arts.
 
 #### 'Alim
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a member of the religious elite. You may be a minor official, such as a mu'adhdhin or an imam, or you may be a major figure, such as a mufti (MUF-tee, someone formally entitled to give a legal opinion) or a qadi (QAW-dee, judge). You may purchase Academic Abilities during character generation. This Virtue is only available to male characters.
 
 #### All According to Plan
-
-Minor, General
-
+*Minor, General*<br>
 Once per session, a player whose character has this Virtue can reroll a botch die. The character has prepared, in advance, for this exact failure and has a contingency plan, which the player must describe.
 
 #### Alluring to (Beings)
-
-Minor, General
-
+*Minor, General*<br>
 This Virtue is associated with one of three classes of beings: mundane animals, faeries, or magical beings. These last two include characters associated with Faerie or the Magic realms, respectively, through Supernatural Virtues or Flaws, as well as beings with Faerie or Magic Might.
 
 These beings are strangely drawn to the character, and generally trust or obey her without thinking. She gets +3 on Communication and Presence rolls to affect them. Characters who are Offensive to beings of this sort cannot take this Virtue, including those who have The Gift or Magical Air, though characters who are Inoffensive to them or have the Gentle Gift may.
@@ -3401,9 +3387,7 @@ These beings are strangely drawn to the character, and generally trust or obey h
 Note that while Alluring to Magical Beings can affect Hermetic magi, the Parma Magica protects against this effect as part of resisting the social penalties of The Gift. Might and other forms of general Magic Resistance do not hinder this effect.
 
 #### Almogaten
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is the leader of a band of Almogavars, chosen by his fellows for his skill and experience. He commands a dozen men, and he is responsible for their welfare and prosperity. He has Standard Armaments and may take Martial Abilities.
 
 Similar to the Mercenary Captain Virtue, you may choose Wealthy or Poor to represent the fortunes of the Almogaten and his soldiers. If he is Poor, he leads only a half-dozen men and he has hit hard times lately. Some of his men only have Inexpensive Armaments, but his main concern is finding the next meal. If he is Wealthy, he leads a company of two dozen men, and can afford to upgrade their armaments. The band might own several horses, and perhaps some herd animals.
@@ -3411,69 +3395,47 @@ Similar to the Mercenary Captain Virtue, you may choose Wealthy or Poor to repre
 These characters are from the Iberian Peninsula, and if they are particularly far from home the troupe may rule that this is not available as a social status.
 
 #### Almogavar
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a member of a band of mercenaries and raiders, living a life of adventure according to a code of honor and discipline. He shares a bond of solidarity with his fellows, and they can depend on each other's loyalty. He has Standard Armaments, and may take Martial Abilities. He may choose to be the Adalil, the second-in-command, at no additional cost, getting an increase in both authority and responsibility. He is supported by his unit, and may not take the Poor Flaw or Wealthy Virtue.
 
 These characters are from the Iberian Peninsula, and if they are particularly far from home the troupe may rule that this is not available as a social status.
 
 #### Amorphous
-
-Major or Minor, Supernatural, Tainted
-
+*Major or Minor, Supernatural, Tainted*<br>
 The character is able to take on any human form, so long as it does not identifiably belong to a particular human being. The character develops this ability because his body has adopted the almost-gaseous property of demonic flesh, so any apparent changes in size or fitness are cosmetic, and do not affect the character's statistics. Some amorphous people can select a single shape at midnight, which is the Major form of the Virtue. Its Minor form allows the character to change shape only after having performed a significant act linked to the Obsession of the sponsoring demon. The character may only change to his birth form by selecting it once the conditions of transformation have been met, or involuntarily changing shape when dying or entering holy ground.
 
 #### Animal Ken
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You can communicate with animals as if they were human beings. Choosing this Virtue confers the Ability Animal Ken 1 (page 159).
 
 #### Apprentice
-
-Free. Social Status
-
+*Free. Social Status*<br>
 This Virtue may be taken by a child character who has the Gift and who has been accepted by an experienced Hermetic magus, with the troupe's approval. You are a discipulus and will receive extensive magical training. having the potential to become a Hermetic magus in your own right. However you must obey the dictates and fulfill the errands of your master and endure his or her rigorous training, and may be treated no better than a slave.
 
 #### Apt Student
-
-Minor, General
-
+*Minor, General*<br>
 You are particularly good at learning from others. When being taught or trained by someone else, add five to the Source Quality.
 
 #### Aptitude for (Sin)
-
-Minor, General, Tainted
-
+*Minor, General, Tainted*<br>
 This catch-all Virtue is for those minor effects which demons grant to their victims to allow them to sin more effectively, and so more often. Each Aptitude for a particular sin adds +3 to all rolls in a very limited circumstance linked to a demon's Obsession. As examples, characters may have aptitudes for picking pockets, for committing adultery skillfully, or for poisoning people.
 
 #### Arcane Lore
-
-Minor, General
-
+*Minor, General*<br>
 You may take Arcane Abilities during character generation. Unless you have The Gift, you cannot learn Parma Magica. You get an additional 50 experience points, which must be spent on Arcane Abilities.
 
 A Gifted character who is not a Hermetic magus and knows Parma Magica must take the Major Story Flaw Enemy: Entire Order of Hermes, as magi are bound by their Oath to slav the character on sight. unless he immediately joins the Order. Such a character cannot be played in a normal saga, as the other player characters have to kill him.
 
 #### Archieunuch
-
-Major, Social Status
-
-You have risen to enjoy the status and privilege associated with the most important and talented eunuchs, the archieunuchs. Although you are not a ruler in your own right, a ruler likely depends on you to govern effectively and has thus granted you considerable authority to act in his stead. Due to this status and importance, you wield significant influence among the lesser nobility. You might serve either as a regional administrator, an important courtier, or a general, and there are numerous servants and possibly other subordinate eunuchs under your command. You have been granted a residence, either within a castle or palace, or elsewhere. Due to your education, you may take Academic Abilities during
-
-character creation. This social status is found in the eastern Roman empire, with its capital at Constantinople, and does not exist in western Europe or much of the Muslim world. This Virtue is only available to male characters. who must also be eunuchs.
+*Major, Social Status*<br>
+You have risen to enjoy the status and privilege associated with the most important and talented eunuchs, the archieunuchs. Although you are not a ruler in your own right, a ruler likely depends on you to govern effectively and has thus granted you considerable authority to act in his stead. Due to this status and importance, you wield significant influence among the lesser nobility. You might serve either as a regional administrator, an important courtier, or a general, and there are numerous servants and possibly other subordinate eunuchs under your command. You have been granted a residence, either within a castle or palace, or elsewhere. Due to your education, you may take Academic Abilities during character creation. This social status is found in the eastern Roman empire, with its capital at Constantinople, and does not exist in western Europe or much of the Muslim world. This Virtue is only available to male characters. who must also be eunuchs.
 
 #### Aristotelian Training
-
-Minor, General
-
+*Minor, General*<br>
 The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see Art and Academe, page 103, for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on page 11 of Art and Academe). This Virtue is compatible with Puissant Artes Liberales.
 
 #### Atlantean Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus, or an ancestor in his lineage, has studied the magic of exiled Atlanteans and has developed several useful extensions to Hermetic magic.
 
 The magus has access to a special Range: Water-way, a special Duration: Storm, and a special Target: Body-of-water, that he may utilize with Spontaneous magic and in Formulaic or Ritual spells.
@@ -3501,31 +3463,21 @@ Structure (remember to increase the spell magnitude to affect a very large body-
 > Similarly, a CrAu spell with Storm duration will not create a storm that lasts indefinitely. It merely creates a storm that lasts for the duration of whatever storm existed prior to the casting of the spell. That is, if no storm previously existed this spell will have no effect. A CrAu spell with a duration of Storm cast on an existing storm will, however, help to prevent the storm from being dissipated by PeAu effects before it should naturally expire. A CrAu spell with a duration of Sun can be used to create a storm with a duration of a day, of course.
 
 #### Baccalaureus
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character has completed a three-year program at a university to receive a baccalaureus artium (Bachelor of Arts degree). He is typically between 16 and 19 years old, and has 90 experience points that he may spend on Latin and Artes Liberales — 30 experience points per finished year of studies. His future decisions are varied once he gains his degree: he can extend his university career, teaching extraordinary lectures as he works toward his Magister in Artibus Degree; teach in a cathedral or secular school; become a private tutor for a noble family; or find work in ecclesiastical or secular circles. The character has an Academic Reputation of 1.
 
 This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues, and can be taken by a female character, but only if she is (or was) studying to be a physician at Salerno.
 
 #### Rard
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The character has attended a bardic school and has passed the examination after four years, earning him the title of fili at the rank of Dos. This accords him some respect among the native Irish, amounting to a Local Reputation of 1. He should be no younger than 20. You should take the Educated (Bardic) Virtue to represent the learning he has received. This Social Status only applies in Ireland.
 
 #### Beadle
-
-Minor, Social Status
-
-The character is an assistant to a university dean. He is a townsman or student of merit employed by the university to carry the university's insignia in parades, collect dues and fines, read mandatory announcements
-
-at university congregations, and announce disputationes. The character may purchase Academic Abilities at character generation. This Virtue is only available to male characters.
+*Minor, Social Status*<br>
+The character is an assistant to a university dean. He is a townsman or student of merit employed by the university to carry the university's insignia in parades, collect dues and fines, read mandatory announcements at university congregations, and announce disputationes. The character may purchase Academic Abilities at character generation. This Virtue is only available to male characters.
 
 #### Bee King
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 Bee Kingship is the result of descent from particular faeries, and thus a form of faerie blood. It grants the following advantages:
 
 Bee Kings do not appear to age after reaching maturity, but every Bee King not killed by circumstances dies of a rapid illness precisely a century after birth.
@@ -3541,14 +3493,11 @@ Note that, in Mythic Europe, bees have kings, not queens, but a female character
 This is a Supernatural Virtue, and you cannot lose it when being trained as a magus (see page 269). If your master cannot preserve the ability, you cannot be trained.
 
 #### Berserk
-
-Minor, General
-
+*Minor, General*<br>
 You are capable of entering a blinding rage when in combat or frustrating situations. You automatically gain the Personality Trait Angry +2 (or more, at your option). Any time you take a wound or wound an enemy, roll a stress die and add your Angry score. A roll of 9+ means you go berserk. The storyguide can also call for a roll when you are strongly frustrated. You may deliberately try to go berserk. In this case, you only need a 6+ when you take a wound or wound an enemy, or a 9+ if you have not been wounded or caused a wound. While berserk, you get +2 to Attack and Soak scores, but suffer a -2 penalty to Defense. While berserk, you cannot retreat, hesitate to attack, or give guarter. If you are still berserk when there are no enemies present, you attack your friends. You may roll once per round to calm down if you desire, requiring a stress die + Perception – Angry against an Ease Factor of 6. You may learn Martial Abilities at character creation.
 
 #### Blood Of The Nephilim
-
-Major, Supernatural
+*Major, Supernatural*<br>
 
 You have the blood of angels in your veins and descend from the great heroes of the Antediluvian Age, the Nephilim. Unless you take the Mythic Companion Virtue, your heritage is somewhat diluted, although still significant.
 
@@ -3563,205 +3512,147 @@ Due to your great size, you must eat vast amounts of food (equal to what three n
 You may not take The Gift or True Faith, Hermetic Virtues or Flaws, Methods or Powers (see Realms of Power: The Divine, Revised Edition, pages 46-56), Virtues such as Giant, Mythic, or Faerie Blood, Flaws such as Age Quickly or Lycanthrope, or Virtues or Flaws that affect your Size. A descendant of the Nephilim without Divine Might could, in theory, learn supernatural powers (other than Divine Methods and Powers) from any realm, but that is very rare. Magi and Grogs may not take this Virtue.
 
 #### Book Learner
-
-Minor, General
-
+*Minor, General*<br>
 You have a talent for comprehending the writings of others. When studying from books, treat them as if they were three Quality levels higher than
 they actually are.
 
 #### Boosted Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 By spending a pawn of vis when casting Formulaic spells you may "boost" the Range, Duration, Target, or size of the effect by one magnitude. You can do this multiple times for the same spell.
 
 For example, boosting Range from Touch to Sight and Target from Individual to Group would cost you four pawns of vis. You may not reduce any of the parameters of the spell, nor may you exceed the limits of Formulaic magic. Casting success, Fatigue loss, and Penetration are all calculated based on the original level of the spell, but you do add one additional botch die for each pawn of vis used. This has no effect on Spontaneous or Ritual spells, though you can still use vis to boost your Penetration as normal.
 
 #### Brother Chaplain
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a priest of a crusading order, which is like other priests except that your vow should include obedience and poverty, in addition to chastity. Outside of your order you are answerable only to the pope. You may purchase Academic Abilities during character generation. You wear the distinctive symbol of your order on your surcoat, which is usually colored green. This Virtue is only available to male characters.
 
 #### Brother Knight
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a knight in a holy crusading order, and it is your duty to be ready to fight the infidel at any time. You have sworn a lifelong vow of obedience, poverty, and chastity, and are answerable only to your superiors and the pope. Unless you are Poor, you may have highquality weapons and armor, and two horses. You may take Academic and Martial Abilities during character generation. You wear the symbol of your order on your distinctive surcoat, which is usually pure white (Templars, Hospitallers) or golden (Teutonic knights). This Virtue is only available to male characters.
 
 #### Brother Sergeant
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a member of a crusading order, but not a knight or a nobleman. You have sworn a lifelong vow of obedience, poverty, and chastity, but this may not be enforced as strictly for you as it would be for a brother knight. You are answerable only to your superiors in the order and the pope. Unless you are Poor, you may have high-quality weapons and armor, and two horses. You may also take Martial Abilities during character generation. You wear the distinctive symbol of your order on your surcoat, which is usually colored black or gray. This Virtue is only available to male characters.
 
 #### Bureaucrat
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a member of the civil administration, probably a katib (KEH-tib, scribe or secretary) or watha'iqi (wa- THEH-i-qee, writer of legal documents). You may take Academic Abilities during character creation. This Virtue is only available to male characters.
 
 #### Capo
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character manages a trading company that has branches in at least two cities.
 City and Guild, Chapter 7 gives more details of what this involves. A capo who is also a partner in the business does not select the Partner Virtue, instead selecting Poor or Wealthy, as appropriate to his circumstances.
 
 #### Cathedral School Master
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character teaches at a cathedral school, one of the many that dot Mythic Europe. He is at least (30 – Intelligence) vears old and must have scores of 5 in Latin and Artes Liberales, and a Teaching score of at least 3. He may learn any Academic Ability, and may teach it to his students. He is typically not a university man, but was instructed at a cathedral school. He receives 240 additional experience points, which may be spent on Academic Abilities and Teaching. The character has an Academic Reputation of 2.
 
 This Virtue is compatible with the Baccalaureus and Priest Virtues. Characters with higher university degrees should take those Virtues instead; a magister or doctor gains no additional status from teaching at a cathedral school. This Virtue is only available to male characters.
 
 #### Cautious Sorcerer
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are very careful with magic, and are less likely to fail spectacularly if you do fail. You roll three fewer botch dice when casting spells (whether ritual, formulaic, or spontaneous), and when working in the laboratory. This Virtue may not reduce the number of botch dice rolled below one. However, its effects are applied before any other effects which reduce botch dice, such as Spell Mastery (see page 225), and they may reduce the number of botch dice to zero.
 
 #### Cautious with (Ability)
-
-Minor, General
-
+*Minor, General*<br>
 You are very careful with a specific Ability, and are less likely to fail spectacularly if you do fail when using it. You roll two fewer botch dice than normal whenever you are required to roll botch dice for that Ability. This may mean that you roll no botch dice. This Virtue may apply to any Ability, even one you cannot learn at character creation.
 
 #### Clan Ilfetu
-
-Minor. Hermetic
-
+*Minor. Hermetic*<br>
 The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see The Mysteries Revised Edition, page 58); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes:* Mystery Cults, page 12, for more details on House Bjornaer and the role of Clan Ilfetu.
 
 #### Clear Thinker
-
-Minor, General
-
+*Minor, General*<br>
 You think logically and rationally. You get a +3 bonus on all rolls to resist lies, confusion, befuddlement, and subterfuge — whether magical or mundane.
 
 #### Clerk
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a member of the literate class and are either a professional scribe, accountant, lawyer, student, or functionary. Due to your training, you may take Academic Abilities during character generation. If you are male, you may be in minor orders (acolyte, exorcist, lector, or doorkeeper), in which case you may marry and still benefit from being a member of the clergy and as such subject to canon rather than secular law. Male characters may also be sub-deacons or deacons, the lesser two holy orders, in which case they would normally be expected to be unmarried. However, if they were already married, and promise complete sexual abstinence, they may still be ordained to these orders. A man may not marry after ordination to holy orders. Those in holy orders are also subject to canon, rather than secular, law. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is available to male and female characters, but female characters may not be in minor or holy orders.
 
 #### Command Animals
-
-Major, Supernatural, Tainted
-
+*Major, Supernatural, Tainted*<br>
 The character has the ability to mentally command mundane examples of a species of animal usually associated with the demon who tainted him or her.
 At any time, the character may command up to 12 human-sized animals, and may instruct them to do suicidal things. Smaller animals can be commanded in far greater numbers, so some characters can command swarms of insects, or hundreds of rats.
 
 #### Commanding Aura
-
-Free, Supernatural
-
+*Free, Supernatural*<br>
 This supernatural power is granted to characters by either the pope, or the Divine directly. It is an inherent benefit of Church office. Most characters with this Virtue also have the Senior Clergy Social Status Virtue.
 
 The character has a power equivalent to the Hermetic spell Aura of Rightful Authority (page 357), but with Voice Range; this power has no cost, and no Penetration. The character also has a Magic Resistance and a Soak bonus that depend upon his rank in the Church. If the character carries a relic, this Magic Resistance is added to that of the relic.
 
-*Pope*: Magic Resistance 25, Soak bonus +5.
+*Pope:* Magic Resistance 25, Soak bonus +5.
 
-Cardinal, or legatus a latere: Magic Resistance 20, Soak Bonus +4.
+*Cardinal, or legatus a latere:* Magic Resistance 20, Soak Bonus +4.
 
-Legatus missus: Magic Resistance 15, Soak Bonus +3.
+*Legatus missus:* Magic Resistance 15, Soak Bonus +3.
 
-Archbishop: Magic Resistance 10, Soak Bonus +2.
+*Archbishop:* Magic Resistance 10, Soak Bonus +2.
 
 Papal legates are the representatives of the pope. If the legatus missus — a lower grade with limited powers — delays or deviates from his mission, then his Commanding Aura ceases to work until he completes penance. The Commanding Aura is also lost when a legatus missus completes his mission.
 
-Some lay rulers ordained by the pope (mostly kings and emperors) also have a Commanding Aura. See Realms of Power: The Divine, Revised Edition, page 42.
+Some lay rulers ordained by the pope (mostly kings and emperors) also have a Commanding Aura. See *Realms of Power: The Divine, Revised Edition*, page 42.
 
 #### Common Sense
-
-Minor, General
-
+*Minor, General*<br>
 Whenever you are about to do something contrary to what is sensible in the game setting, common sense (the storyguide) alerts you to the error. This is an excellent Virtue for a beginning player, as it legitimizes any help the storyguide may give.
 
 #### Convoluted Mind
-
-Minor, General, Tainted
-
+*Minor, General, Tainted*<br>
 The character has been exposed to the machinations of demons so often that he has developed a sense of how their minds work. The character gains a +3 bonus on all Infernal Lore rolls to determine what a demon will do, and has a feeling, similar to the Common Sense Virtue, that prevents him from doing stupid things when dealing with demons.
 
 #### Corpse Magic
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 This Virtue gives the character the Supernatural Ability of Corpse Magic, at a score of 1.
 
 #### Covenfolk
-
-Free, Social Status
-
+*Free, Social Status*<br>
 You are a member of the covenant staff, and may have lived there all your life. You are supported by the covenant, and so your standard of living is determined by the covenant's resources rather than your own. You may not take the Wealthy Major Virtue or the Poor Major Flaw.
 
 #### Craft Guild Training
-
-Minor, General
-
+*Minor, General*<br>
 This character has received above-average training during his apprenticeship, from a craft master or professional guild.
 Like Warrior and Educated, this Virtue gives a bonus of 50 experience points. These must be spent on any Craft or Profession Abilities, Bargain, or Organization Lore: Guild.
 
 #### Crafter's Healing
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Like the smiths of ancient lore, the character can magically heal wounds by touching them with the tools of his trade. This is a rare and mysterious power that Hermetic magi cannot understand or duplicate, and it is common for this Virtue to follow familial bloodlines.
 Selecting this Virtue gives the character the Crafter's Healing Ability at a score of 1.
 
 #### Craftsman
-
-Free, Social Status
-
+*Free, Social Status*<br>
 You live by making and selling goods. You are probably a free resident of a town, but you may be from a rural area. The Wealthy Major Virtue and Poor Major Flaw affect you normally.
 
 #### Curse-Throwing
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 Characters with this Virtue are able to cure diseases and remove curses by transferring them to another person. Choosing this Virtue confers the Supernatural Ability Curse-Throwing 1.
 
 #### Custos
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are an employee of a covenant, but you have high status within the walls. You may be a grog, or a specialist, or a manager. You may take one group of restricted Abilities during character generation, either Martial, Academic, or Arcane Abilities. If you choose Martial or Arcane Abilities, you may still learn to speak Latin, although you cannot read or write it. As a covenant employee, your wealth is determined by the covenant's prosperity, and you may not take the Wealthy Virtue or Poor Flaw. This Virtue is available to male and female characters.
 
 This Virtue may also apply to employees of other institutions, such as a noble household or a monastery.
 
 #### Cyclic Magic (positive)
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic is attuned to some cycle of nature (solar, lunar, or seasonal, for example) and as such, is more potent at specific times. At those times, you receive a +3 bonus to all Casting Scores. The bonus also applies to Lab Totals if the positive part of the cycle covers the whole season. The cycle of your magic must be regular and approved by the storyguide. Furthermore, the length of time when the bonus applies must be equal to the amount of time when it does not.
 
 #### Death Prophecy
-
-Major, General
-
+*Major, General*<br>
 You have been blessed or cursed as to your fate. Someone (a magician, a faerie, or other supernatural creature) has put a condition on your death, and until the condition is met, you will not die, though you can be seriously injured. You heal normally, but cannot die as a result of wounds or old age. Unfortunately for you, fate or bad planning can bring about the conditions in unexpected ways. If, for instance, your death condition is to fear only boars, you should be wary of men bearing boars on their coats of arms or of inns named after boars, in addition to the purely mundane creature. This symbolism may not be obvious: a man known as a pig in his village might also count as a boar.
 
 The storyguide must keep the prophecy in mind and give fair warning of items related to the prophecy. This is a Major Virtue because the character knows he can get away with insane risks; sneaking his prophecy up on him is an unfair way of negating the value of the Virtue. Players may only take this Virtue with the agreement of the storyguide or troupe.
 
 #### Deft Form
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are particularly skilled with one Form. You suffer no penalty to the Casting Total casting spells in that Form when using non-standard voicings/gestures (see page 216), including using no voice or gestures because you are in a non-human form. Voice Range spells still have a Range based on how loudly you are speaking.
 
 #### Demonic Blood
-
-Major, Supernatural, Tainted
-
+*Major, Supernatural, Tainted*<br>
 The character has a demon as a parent, and was conceived for a specific task by her Infernal mother or father. Because of this, she is an Infernal being and possesses an Infernal Might (Corpus) score of 5. This grants her Magic Resistance. Her body also contains one pawn of Corpus vis, which can only be extracted once she is dead. She is immune to Warping of any kind, need not eat or drink, and cannot produce a child; however, she suffers the natural urges associated with these activities, and may be required to make Personality rolls to overcome her desires.
 
 She has up to 30 levels of Infernal Powers that may be invoked by spending Might Points. Design the effects using Hermetic spell guidelines, or the maleficia guidelines (see Realms of Power: The Infernal, Chapter 10: The Maleficia), taking into account the Powers of the demon parent. The Might cost for each Power is equal to its magnitude divided by two, rounded down (but always at least one point). These may be constant effects designed in the usual fashion (Sun duration, two uses per day, and an Environmental Trigger, see page 257), her Might Pool is always reduced by the cost of such a Power, and she cannot turn these Powers off. The Initiative total of each Power is the character's Quickness.
 
-She may be unaware of her true heritage, in which case she probably has either the Delusion or Manufactured Ignorance Flaw to explain her remarkable capabilities. She has the close attention of Hell, and thus should
-
-offset this Virtue with a Story Flaw to reflect that attention, such as, Tragic Life. The character many learn Infernal Lore during character creation without needing to take the Arcane Lore Minor Virtue.
+She may be unaware of her true heritage, in which case she probably has either the Delusion or Manufactured Ignorance Flaw to explain her remarkable capabilities. She has the close attention of Hell, and thus should offset this Virtue with a Story Flaw to reflect that attention, such as, Tragic Life. The character many learn Infernal Lore during character creation without needing to take the Arcane Lore Minor Virtue.
 
 She is attended at nearly all times by a minor demon, which tends to remain in spiritual form, watching over her; if necessary, it protects her on behalf of her creator/parent. This demon is a ruach, who can use its Misfortune \* Demonic Powers. He gains an Power to blight her enemies. If she is unaware of her demonic heritage, she either considers herself exceedingly lucky, or believes the attending demon to be a Magical or Divine spirit. However, this attendant demon means that her demonic parent can always find her, and is kept apprised of what she is up to.
 
@@ -3770,27 +3661,19 @@ A Demonic Blooded character's life span is short — roughly half that of a pure
 You cannot take the Infernal Blessings Virtue described in Realms of Power: The Infernal; the Demonic Powers Virtue replaces that Virtue for the demon-blooded. You may not take any Virtue that affiliates her with a realm other than the Infernal. Also, you cannot take the Unaging Virtue or the Age Quickly Flaw. She may not have children, and so cannot have Dependents of this sort.
 
 #### Demonic Might
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You may only take this Virtue if your character has the Demonic Blood Virtue. Her Infernal Might increases by 2 points. Upon her death, her body contains a number of pawns of Corpus vis equal to her (Infernal Might / 5), rounding up. You may take this Virtue more than once, though it can account for no more than half of the character's total Virtues.
 
 #### Demonic Powers
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Only a character with the Demonic Blood Virtue may have extra 20 levels of Infernal Powers in addition to the levels granted by Demonic Blood. You may also take this Virtue more than once, though it can account for no more than half of the character's total Virtues.
 
 #### Devil Child
-
-Free, Mythic Companion
-
+*Free, Mythic Companion*<br>
 This Virtue has no cost, and can only be taken for a Mythic Companion who has been born with demonic parents. The character gets the Demonic Might or Demonic Powers (player's choice) Minor Virtue free.
 
 #### Diedne Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Your magic lineage and traditions are from the druids and the vanquished former house of Diedne, making you especially skilled with Spontaneous magic. When you cast a Spontaneous spell without expending Fatigue. you may choose to divide by 5 or by 2. If you choose to divide by 5, you need not roll a stress die, and cannot botch, just as normal. If you choose to divide by 2, you must roll a stress die, and may botch.
 
 When you expend Fatigue on casting a spontaneous spell, the lowest applicable Art is doubled before the whole total is divided by two. You still roll a stress die, and may botch.
@@ -3798,9 +3681,7 @@ When you expend Fatigue on casting a spontaneous spell, the lowest applicable Ar
 You must keep your lineage hidden from the Order, giving you a Major Story Flaw — Dark Secret is an obvious choice, but you may choose a different one with troupe approval. This is in addition to your normal allowance of Flaws, and does not grant you any points with which to buy Virtues.
 
 #### Doctor in (Faculty)
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character has graduated from one of the higher faculties of a university, in medicine, civil or canon law, or theology, having already received his magister in artibus license, and may instruct fellow students. The character may teach anywhere, even at a university that he did not attend. This is the highest educational license in Mythic Europe. A doctor of medicine is also titled magister in medicina, having typically been taught in one of the southern universities.
 
 A character starting the game with this Virtue must be at least (27 Intelligence) years old. He must have a score of 5 in Latin. Artes Liberales, and the Ability that correlates to his faculty degree. The character has spent ten years at a university and receives an additional 300 experience points, which must be spent on Latin and Academic Abilities. He also begins the game with an Academic Reputation of 3.
@@ -3816,60 +3697,42 @@ This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest V
 > but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly Realms of Power: Faerie (page 50) and Realms of Power: Magic (Chapter 5).
 
 #### Domestic Animal
-
-Free, Social Status, animals only
-
+*Free, Social Status, animals only*<br>
 The character is an animal who is the property of a covenant or character, and is supplied with food and shelter. He is expected to serve his master in return for this provender, as a mount, beast of burden, hunter, or so forth.
 
 #### Dowsing
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have the ability to find things nearby through the use of a dowsing rod (usually a forked stick) and your own intuitive sense. Choosing this Virtue confers the Ability Dowsing 1 (page 164).
 
 #### Dust Devil
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 This variant of the Skinchanger Virtue allows the character to adopt the shape of a tamzawit, or dust devil, a small whirlwind carrying dust. She becomes a dust devil of Size +1, can assume the form at any time, and can direct her movement. Rather than a cloak or animal skin, the focus object of this Virtue is a glass amulet formed from sand taken from a Magic aura.
 
 #### Educated
-
-Minor, General
-
+*Minor, General*<br>
 You have been educated in a grammar school, and may have attended a university or cathedral school. You may purchase Academic Abilities
 during character generation. During character generation you get an additional 50 experience points, which must be spent on Latin and Artes Liberales.
 
 #### Educated (Bardic)
-
-Minor, General
-
+*Minor, General*<br>
 The character has attended one of the great bardic schools in Hibernia, either to receive an education (in which case he need not have attempted the punishing examination) or to commence training as a bard (in which case you should also take an appropriate bardic Social Status Virtue). For Senior or Master Bards this Virtue represents additional years of study. You receive 50 extra experience points to spend on Art of Memory, Profession: Storyteller, Profession: Poet, any Area Lore, or any Organization Lore.
 
 #### Educated (Islamic)
-
-Minor, General
-
+*Minor, General*<br>
 You have been educated in a mosque or Qur'an school, and may purchase Academic Abilities during character generation. You get an extra 50 experience points at character creation, which must be spent on some or all of Arabic, Persian, Greek, Latin, Theology: Islam, Islamic Law, and Artes Liberales.
 
 #### Educated (Hebrew)
-
-Minor, General
-
+*Minor, General*<br>
 Your character has been educated in a beit ha-midrash or yeshivah and may purchase Academic Abilities at character generation. Your character gains
 50 extra experience points to be spent on some or all of the following: Hebrew, Aramaic, Theology: Judaism, and Judaic Lore. Characters from Iberia or
 the East may also spend some of these points on Arabic.
 
 #### Educated (Vernacular)
-
-Minor, General
-
+*Minor, General*<br>
 This form of secular instruction, given by tutors to the scions of merchant houses, emphasizes practical skills likely to make the student suited to a leadership role in the family business. The character may purchase Academic Abilities during character creation. She also gains 50 additional experience points, which must be spent on Academic Abilities, Bargain, the Organization Lore of the character's company, Profession Merchant, or the language of trade in the company's region (usually Latin, Greek, or Arabic).
 
 #### Elemental Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You have been trained in the ability to manipulate raw elemental Forms (Aquam, Auram, Ignem, and Terram), and view them as a connected whole rather than four separate Arts. Whenever you gain experience from a source dedicated to one of these Arts. you gain half the Source Quality (rounded up) in experience points in each of the other three Arts. For example, if you studied Ignem from a book with a Source Quality of 13, you would gain 7 experience points in each of Aquam, Auram, and Terram.
 
 During character creation, assign all your experience points in Arts. Then assign half the experience points assigned to each of the elemental Forms to each of the other elemental Forms. Do not actually add these experience points to the Form in question until you have finished calculating all the bonus experience points. For example, if you assign 10 experience points to each of Aquam, Auram, and Terram, and 21 experience points to Ignem, then you should assign 15 bonus experience points to Ignem (5 from each of Aquam, Auram, and Terram), and 21 bonus experience points to each of Aquam, Auram, and Terram (11 from Ignem, and 5 each from the other two Forms).
@@ -3877,100 +3740,70 @@ During character creation, assign all your experience points in Arts. Then assig
 In addition, if a spell with one of these Forms as its primary Form has another element as a requisite, you use the primary Form to calculate totals, even if the requisite is lower.
 
 #### Embitterment
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You may make someone hostile to a target of your choice. Choosing this Virtue confers the Ability Embitterment 1.
 
 #### Emir
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 This is the same as the Knight Virtue, though due to the rather different upbringing of Muslim emirs, you are likely to be as skilled with hunting, religious
 teachings, and culture as you are with martial pursuits.
 
 #### Enchanting (Ability)
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 When you set your mind to it, you can magically induce emotions and beliefs in others with a particular kind of artistic expression: music, dance, drawing, storytelling, even craftwork. Choosing this Virtue confers the Ability Enchanting (Ability) 1 (page 164).
 
 #### Enduring Constitution
-
-Minor, General
-
+*Minor, General*<br>
 You can withstand pain and fatigue. Decrease the penalties for reduced Fatigue levels by one point, and reduce your total penalty from wounds by one
 point (but not below zero). You also get +3 on rolls to resist pain.
 
 #### Enduring Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The effects of your spells tend to last longer than usual (though Concentration, Momentary, and Ring spells remain just that). The storyguide secretly rolls a simple die; multiply the spell's normal duration by the number rolled. This is usually, but not always, a good thing. This Virtue does not affect the duration of Ritual spells.
 
 #### The Enigma
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have been initiated into the Outer Mystery of The Enigma (see page 235), and thus are a member of House Criamon. You have a score of 1 in Enigmatic Wisdom. Note that all Criamon magi get this Virtue free at character creation.
 
 #### Enticer of Multitudes
-
-Minor, General, Tainted
-
+*Minor, General, Tainted*<br>
 The character has a version of the Inspirational Virtue that can only be used to manipulate people toward evil acts. The character appears demagogic
 rather than heroic, and cannot control a group once he has whipped it into a frenzy. The enticer forces individuals in a group to make Personality Trait
 rolls for the particular sin they are attempting to evoke, with a bonus of +5 or more.
 
 #### Entrancement
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You have the power to control another's will by staring into their eyes and giving them a verbal command. Choosing this Virtue confers the Ability
 Entrancement 1 (page 164).
 
 #### Eunuch
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You have been educated and trained to serve the Byzantine nobility as a courtier, steward, chamberlain, scribe, lawyer, or accountant. You are likely employed by a court, a lesser noble, or a covenant. It is also possible for you to pursue a career in the eastern Church, and some monasteries accept eunuchs. Due to your education, you may take Academic Abilities during character creation. This Virtue is only available to male characters, who must be sexually incapable, rather than simply inactive. This may be due to castration (see the Castratus Flaw on page 122), but need not be.
 
 #### Exotic Casting
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus uses non-Hermetic methods to cast Hermetic spells. While he still needs to employ obvious ritual actions, these are not the same words and gestures taught as part of Magic Theory within the Order, and other magi who are unfamiliar with the magus's tradition find it very hard to recognize which spell he is casting. Any attempt to determine the Form of his magical effect (page 217) is made against an Ease Factor of 15, without the magnitude of the effect being subtracted from this Ease Factor as normal. If the character has any Supernatural Abilities, then he uses the same methods to cast his Hermetic magic as he does to use his non-Hermetic magic. The magus cannot choose to use the standard Hermetic methods instead of those of his native tradition, but can choose to reduce or forgo words and gestures in the usual fashion (page 216).
 
 #### Extractor of (Form) Vis
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus can extract (Form) vis from a Magic aura, but only if the features of the aura exemplify the Form. For example, an aura on the shores of a lake might exemplify Aquam, an aura at a burial-site exemplifies Corpus, etc. Extracting vis in this way is a Laboratory activity; the magus extracts a number of pawns of Vis equal to a tenth of his Creo Vim (Form) Lab Total (round up). Obviously, he needs to have a Laboratory in the aura too, and, of course, the magus can choose to extract Vim vis instead (see page 250). This Virtue may be taken multiple times (once for each Form).
 
 #### Eye of Hephaestus
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character can innately tell the quality of a manufactured item. If the item is somehow flawed he is instantly aware of that by merely touching it. He also has a chance to tell if an item is magical. For supernatural items made by a craftsman, make a Perception + Awareness + stress die roll against an Ease Factor of 9. If successful, the character knows the power of the item. For Hermetic enchanted items, or those made by other sorcerers. make a Perception + Awareness + stress die roll against an Ease Factor of 12. If successful, the character knows the item is enchanted, but has no idea how. or what its powers might be. Botching either roll results in false information. This Virtue does not offer any information about the actions or commands necessary to trigger an item's powers.
 
 Hephaestus was a pagan god of craftsmen, primarily metallurgists. Calling this Virtue the Eye of St. Dunstan is more appropriate for Christian characters.
 
 #### Fabric Ripper
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character has the supernatural ability to tear any manufactured thing made from plant or animal fibers. This allows her to destroy sails, break the strap holding on individual pieces of armor, snap the tack of a horse, burst a sack, and tatter a pair of pants with her mind. She spends a Fatigue level to activate the ability, and may only target one object per Fatigue level spent. This is a PeAn(He) 25 effect with +0 Penetration, and does not require any words or gestures.
 
 #### Factor
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character manages the interests of a trading house in a single city. This gives the character a strong social position and connections to many other regions; see City and Guild for more details. Many factors are junior partners in their companies, and they choose the Partner Virtue, not this one.
 
 #### Faerie Blood
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Somewhere in your ancestry there is a faerie, and this relation gives you an intuitive grasp of the motivations and personalities of those supernatural folk. Faeries are more comfortable around you than around other humans, and given time, may even forget the mortal blood in your veins.
 
 You are resistant to aging, and get -1 to all aging rolls.
@@ -3979,39 +3812,31 @@ Characters with Faerie Blood can learn Faerie Lore at character generation.
 
 Type of Faerie Blood (pick one, or create a similar one):
 
-Blood of the Bee King: The descendants of Bee Kings may give simple instructions to bees they touch, and may understand the thoughts dominating hives of bees. They are unable to give bees instructions that will kill them, except to command warrior bees to attack, since warrior bees are so willing to die (Penetration 25).
+*Blood of the Bee King:* The descendants of Bee Kings may give simple instructions to bees they touch, and may understand the thoughts dominating hives of bees. They are unable to give bees instructions that will kill them, except to command warrior bees to attack, since warrior bees are so willing to die (Penetration 25).
 
-Dwarf Blood: You are descended from the master craftsmen of the fay, and get a +1 bonus to any total including a Craft Ability.
+*Dwarf Blood:* You are descended from the master craftsmen of the fay, and get a +1 bonus to any total including a Craft Ability.
 
-Goblin Blood: Your ancestors were the sneaky inhabitants of the shadows underground, and you get a +1 bonus on all totals involving stealth.
+*Goblin Blood:* Your ancestors were the sneaky inhabitants of the shadows underground, and you get a +1 bonus on all totals involving stealth.
 
-Satyr Blood: The satyrs are notoriously lecherous. You get a +1 bonus to Communication and
+*Satyr Blood:* The satyrs are notoriously lecherous. You get a +1 bonus to Communication and Presence totals when dealing with sexually compatible characters.
 
-Presence totals when dealing with sexually compatible characters.
+*Sidhe Blood:* You are descended from one of the noble fay who rule the lands of Summer and Sunlight. Because of the striking and unusual qualities of your nature add +1 to your Presence, but not to more than +3. Many mortals may consider you fascinating or alluring.
 
-Sidhe Blood: You are descended from one of the noble fay who rule the lands of Summer and Sunlight. Because of the striking and unusual qualities of your nature add +1 to your Presence, but not to more than +3. Many mortals may consider you fascinating or alluring.
+*Stinnen Blood:* A character who has Spinnen Blood can convert his or her own body weight of fiber into cloth per day, simply by touching it. Old cloth, or products made of cloth fibers. can be unwoven using the same ability, but this counts toward the maximum weight of cloth a character can alter per day. Some Spinnen, particularly those who have served as companions to magi, create other useful objects, like tents, ropes, or sails in lieu of the same weight of cloth. These characters are from a single family line that originated near Ghent; see The Lion and the Lily, page 97, for details of how most of the family live.
 
-Stinnen Blood: A character who has Spinnen Blood can convert his or her own body weight of fiber into cloth per day, simply by touching it. Old cloth, or products made of cloth fibers. can be unwoven using the same ability, but this counts toward the maximum weight of cloth a character can alter per day. Some Spinnen, particularly those who have served as companions to magi, create other useful objects, like tents, ropes, or sails in lieu of the same weight of cloth. These characters are from a single family line that originated near Ghent; see The Lion and the Lily, page 97, for details of how most of the family live.
-
-Undine Blood: The undines are the faeries of the water, and you get a +2 bonus to any action taken underwater, which will partially offset any penalty applied.
+*Undine Blood:* The undines are the faeries of the water, and you get a +2 bonus to any action taken underwater, which will partially offset any penalty applied.
 
 #### Faerie Doctor
-
-Free, Mythic Companion
-
+*Free, Mythic Companion*<br>
 This Virtue makes you a Faerie Doctor and a Mythic Companion (page 63). You get the Dowsing Virtue for free.
 
 #### Faerie Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have been initiated into the Outer Mystery of Faerie Magic (see page 236), and thus are a member of House Merinita. You have the Ability Faerie
 Magic 1. Note that all Merinita magi gain this Virtue for free at character generation.
 
 #### Faerie-Raised Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 The character's experience with faeries and the Faerie realm has conditioned him to invent spells very quickly; to him, Formulaic spells seem like inherent powers that you can learn through observation and experimentation.
 
 Because of this, he can teach himself spells outside of the laboratory. You may spend experience points from Exposure, Adventure, and Practice on spells you could normally invent that mimic faerie powers or other supernatural effects your character has observed that season.
@@ -4025,85 +3850,59 @@ This Virtue also includes the Virtue Spell Improvisation. That is, you may add t
 If you take this Virtue during character creation, you should normally take the Faerie Upbringing Flaw. Because the magus's master also had to teach him about human society, he probably had less time to teach him Hermetic magic. It is possible that the apprentice invented Formulaic spells quickly enough on his own to compensate for this, but you might take the Weak Parens Flaw to suggest this limitation of his apprenticeship.
 
 #### Failed Apprentice
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You were once apprenticed to a mage, but something kept you from completing your studies. Perhaps your Gift was incomplete or some grievous mishap robbed you of it altogether. You may still work for your former master or for the covenant in some other capacity. Magi welcome you and have compassion for you those who are given to such emotions, anyway. You may learn Academic, Arcane, and Martial Abilities during character creation, and you are familiar with the lives of magi. You may not have The Gift, but if your Gift was not completely destroyed, you may have some Supernatural Abilities. The Wealthy Virtue and Poor Flaw affect you normally.
 
 #### Falconer
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character trains hawks and falcons for a noble patron, and is responsible for the training, breeding, and health of the animals. He often has a personal servant to assist, and is an important member of the noble household, treated with great respect. He should possess the Ability Profession: Falconer, which governs the care of the birds, treatment of their diseases. and acquisition and breeding of hawks and falcons. The Ability Animal Handling is used for the training of the hawks. A specialist in non-falcons, such as the hawks, is called an austringer.
 
 A falconer receives 50 extra experience points at character generation to spend on the Abilities: Animal Handling, Area Lore, Etiquette, Hunt, Latin, Profession: Falconer, and Ride. Many falconers are also Educated.
 
 #### Falls Like a Cat
-
-Minor, General
-
+*Minor, General*<br>
 The character is not injured by falls of up to three times his height, or six times his height if he can soften his fall by catching on windowsills, breaking through awnings, or hitting branches on the way down. At greater heights the character suffers Impact damage of +1 for every additional foot, if landing on a hard surface, or for every additional four feet, if landing on a soft surface.
 
 #### Familiarity with the Fae
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have a natural understanding of faerie ways, perhaps due to spending time among them. You get a +2 to all rolls involving social interaction with faeries. You also gain the effects of the Common Sense Virtue, but only when the situation pertains to faeries. You may purchase Faerie Lore at character generation, even if normally unable to take Arcane Abilities.
 
 #### Famous
-
-Minor, General
-
+*Minor, General*<br>
 You have a good Reputation of level 4. Choose any reputation you like (it need not be justified), and one type.
 
 #### Fast Caster
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic takes less time to perform than that of other magi. You gain +3 to Initiative to cast spells in combat and +3 to rolls to determine fast casting speed.
 
 #### Feather Messenger
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 This Virtue is only available to a character who can take the form of a bird (which may be her natural form). She can painlessly separate a feather from her body, and use it to write as a quill, controlling its movements telepathically while it remains within sight. The quill doesn't need ink; it provides it magically. After she finishes writing, the character can reattach the feather if in bird form. The quality of the character as a scribe does not differ between human and bird forms. The character can also pull off feathers in bird form, turn into a human, and still mentally control the dropped feathers. This Virtue is particularly associated with a north African magical tradition called the Daughters of Four Fathers (see Between Sand & Sea, page 107).
 
 #### Ferocity
-
-Minor, General, animals only
-
+*Minor, General, animals only*<br>
 Like companion and magus characters, this character has Confidence points. However, these Confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. Describe a situation which activates the Confidence for its species, and take 3 Confidence points and a Confidence Score of 1 to use when those circumstances are met.
 
 #### Fida'i
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is an assassin of the Nizari Isma'ilis. A fida'i is a devout member of the sect who is prepared to die on its orders, and as such he should consider taking either the Oath of Fealty or Dutybound Flaw. When not on a mission, a fida'i wears white, with a red girdle, cap, or boots. He has been trained in precise placement of daggers and blades, as well as disguise. Fida'i may take Martial Abilities at character creation. He can expect to become a lasig if he proves his loyalty to the sect.
 
 This Social Status Virtue may be taken by a character who is living far from the home of the Nizaris, as the assassins are sent on missions, and may be sent far away. Such a character should have a Story Flaw representing his mission, and choose the Social Status he is pretending to have. See *The Cradle and the Crescent*, from page 162, for more detail on the Nizaris.
 
 #### Finding Hidden Loot
-
-Minor, General
-
+*Minor, General*<br>
 A character with this Virtue gains a +9 bonus to Awareness rolls when searching a confined space for hidden items, provided they can move the contents of the space about undisturbed.
 
 #### Flawless Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You automatically master every spell that you learn. All your spells start with a score of 1 in the corresponding Spell Mastery Ability. You may choose a different special ability for every spell you have. Further, all your Advancement Totals for Spell Mastery Abilities are doubled.
 
 #### Flexible Formulaic Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You can vary the effects of Formulaic spells to a slight degree, while still getting the benefits of casting known magic. You may raise or lower the casting level of the spell by one magnitude to raise or lower one (only) of Range, Duration, Target category, and Target size by one step, as long as this does not violate any of the normal limits on Formulaic magic. You may instead change one (only) of those parameters to another parameter at the same level, without modifying the casting level, as long as this does not violate any of the normal limits on Formulaic magic. Casting success, Fatigue loss, and Penetration are all calculated based on the final modified level of the spell. You cannot manipulate Ritual magic in this way.
 
 #### Focus Power
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character has a supernatural power with a narrow range of effects, like the ability to cast Spontaneous spells that are associated with a single type of magic. This power is like a magical focus, in that all of the possible effects have to be related to a specialty that is smaller than a single Hermetic Form. The examples for Major Magical Focus show the scope of this power.
 
 This Virtue grants a pool of 25 points. The maximum level of effect and Penetration both start at zero. It costs 2 points to raise the maximum level of effect by 1, and 1 point to raise the Penetration by 1. Thus, 25 points can allow a maximum level of 10 with a Penetration of 5. or a maximum level of 5 with a Penetration of 15. or combinations in between. The power has an Initiative score equal to the character's Quickness – the maximum magnitude of the effect. The character may create any effect within the scope of the power, up to the level of the effect.
@@ -4115,55 +3914,41 @@ This Virtue may be taken more than once, and the points gained may be combined.
 This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the cost of a level of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Folk Magic
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character is capable of performing very minor acts of magic through his knowledge of scraps of occult lore. Choose one (Realm) Lore that is the key Ability for this magic, he may learn this Ability at Character Creation even if he is normally unable to take Arcane Abilities. The choice of (Realm) Lore also determines which supernatural realm his magic is aligned to for the purposes of aura modifiers. He can only create spells in one narrow area, which must be one of the following four options:
 
-Abjuration: Creates a ward against animals or supernatural creatures. Uses the Rego Animal or Rego Vim guidelines.
+*Abjuration:* Creates a ward against animals or supernatural creatures. Uses the Rego Animal or Rego Vim guidelines.
 
-Divination: Acquire magical senses that detect health, wealth, and mental state. Uses Intellego Corpus, Intellego Mentem, and Intellego Terram guidelines.
+*Divination:* Acquire magical senses that detect health, wealth, and mental state. Uses Intellego Corpus, Intellego Mentem, and Intellego Terram guidelines.
 
-Healing: Grants a Recovery bonus for either wounds or diseases, and aids the birthing of children and livestock. Uses the Creo Corpus or Creo Animal guidelines. Infernal Lore cannot be used to produce this type of effect.
+*Healing:* Grants a Recovery bonus for either wounds or diseases, and aids the birthing of children and livestock. Uses the Creo Corpus or Creo Animal guidelines. Infernal Lore cannot be used to produce this type of effect.
 
-Evil Eye: Causes minor acts of mischief like pain, blight of crops, hair loss, sneezing, and so forth. Uses the Perdo Corpus, Perdo Animal, or Perdo Herbam guidelines. Divine Lore cannot be used to produce this type of effect.
+*Evil Eye:* Causes minor acts of mischief like pain, blight of crops, hair loss, sneezing, and so forth. Uses the Perdo Corpus, Perdo Animal, or Perdo Herbam guidelines. Divine Lore cannot be used to produce this type of effect.
 
 To cast a spell the character must expend a Fatigue level, whether the spell succeeds or fails. He must also spend at least 15 minutes preparing the spell, during which time he needs unbroken concentration and access to his "magical" materials (while necessary, these materials offer no benefit to the casting). The spell is designed exactly like a Hermetic spell. The Casting Total is equal to (Stamina + (Realm) Lore + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total - Spell Level + Penetration modifiers. You may pick this Virtue more than once, to acquire expertise in a different category of spells. Each time you choose this Virtue, you can align it to the same Realm as before or pick a different one, although a character cannot have access to both the Divine and Infernal Realms.
 
 #### Font of Knowledge
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have supernatural access to information you have never learned. This Virtue bestows the Ability Font of Knowledge 1.
 
 #### Forge-Companion
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is an unGifted craftsman attached to a Verditius magus and working for him in his lab. You receive 50 additional experience points, which you can use to raise the particular Crafts her master practices. As a member of his household, she receives protection and support, but she is not protected by any of the legal codes of the Order of Hermes.
 
 #### Forgettable Face
-
-Minor, General
-
+*Minor, General*<br>
 Never will this character be the one noticed or picked out of a crowd. Moments after speaking with him, very few people can give an adequate description of him. He often gets away with things because people are not sure it was actually him. If other characters must make a roll to identify him, it is at –3. On the downside, this trait is incompatible with great beauty, charisma, or commanding presence. Virtues like Venus' Blessing or Inspirational are prohibited, although Curse of Venus could work.
 
 #### Free Expression
-
-Minor, General
-
+*Minor, General*<br>
 You have the imagination and creativity needed to compose a new ballad or to paint an original picture, and have the potential to be a great artist. You get a +3 bonus on all rolls to create a new work of art.
 
 #### Free Study
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are better at figuring things out for yourself than you are at poring over books. Add +3 to the Source Quality when studying from raw vis.
 
 #### Frightful Presence
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are capable of instilling great dread through your appearance. This can work in one of two ways: you are either able to contort your face into a vision of terror (common if Presence is less than zero); or else radiate an aura of awe and splendor that makes others weak at the knees (common if Presence is greater than zero).
 
 Everyone witnessing you displaying your Frightful Presence must make an immediate Brave Personality roll against an Ease Factor of 3. Add your Presence to the Ease Factor, ignoring any negative sign (for example, a Presence of +3 or –3 makes the Ease Factor 6). A failure means that they either attempt to flee your immediate vicinity, or else are cowed before your glory.
@@ -4175,69 +3960,47 @@ has been affected by the Frightful Presence and recovered from its effects, he c
 This effect has a Penetration Total of 0.
 
 #### Gender Shift
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Each midnight, the character may choose to change genders. The character's male and female forms are consistent across transformations, and usually appear to be blood kin of each other. The character's Personality Traits may vary slightly between forms. Pregnant characters may not use this ability.
 
 #### Gentle Gift
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Unlike other magi, whose Magical nature disturbs normal people and animals, your Gift is subtle and quiet. You do not suffer the usual penalties when interacting with people and animals.
 
 #### Gentleman/woman
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a minor member (possibly illegitimate) of a noble family. You do not stand to inherit from your relatives, but are still treated as one of their own and may be addressed as "Lord" or "Lady." You probably reside near the covenant with your relatives. Although you do not want for anything, you have no vast wealth of your own. You may occasionally ask your family to buy expensive equipment for you, but you will need a convincing rationale. You are expected to wait on your relations much of the time or you will lose the benefits of family (though you will keep your social standing if you can otherwise maintain your normal lifestyle). The Wealthy Virtue and Poor Flaw affect you normally.
 
 #### Ghostly Warder
-
-Major, General
-
+*Major, General*<br>
 A ghost watches over you. It might be a grandparent, a childhood friend, or anyone else who cares for you enough to stay around after death. The ghost is invisible and silent to all but you and those with Second Sight (see page 170). It can see and hear what is going on around you and makes an excellent spy, since it can leave your presence once per day for up to half an hour. However, death does not leave people in their normal state of mind, so the ghost probably has some quirks that make it less than dependable — it might even encourage you to join it on the other side. The ghost has 300 experience points in various Abilities that it can use to advise you, and ghosts may take any Abilities. See page 457 for an example of a ghostly warder. This is a more specific version of Magical Warder (see later), and is an example of that Virtue.
 
 #### The Gift
-
-Free, Special
-
+*Free, Special*<br>
 You have the ability to work magic. See earlier, page 63, for full details.
 
 #### Good Teacher
-
-Minor, General
-
+*Minor, General*<br>
 You can explain new concepts and skills with great facility. Add three to the Quality of any books that you write, and five to the Source Quality for anyone who studies with you.
 
 #### Giant Blood
-
-Major, General
-
+*Major, General*<br>
 The blood of the ancient race of giants flows in your veins. Though you are not as large as your ancestors, you are up to eight feet tall and can weigh as much as 500 pounds. Your Size is +2, so you take wounds in 7 point increments, rather than the normal 5 (see page 404). You also gain +1 to both Strength and Stamina. This bonus may raise your scores in those Characteristics as high as +6. You cannot take this Virtue and Large (page 89), Small Frame (page 145), or Dwarf (page 126).
 
 #### Gorgiastic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 These magi, or their ancestors, have rejected the teachings of House Criamon and left the House. These magi may have Enigmatic Wisdom and House Criamon Lore scores after character creation. The character's Enigmatic Wisdom Score cannot exceed 4 without the assistance of Criamon magi, or a magical breakthrough. House Criamon attempts to convince Gorgiastic magi to rejoin. Gorgiastic magi do not usually have Criamon markings, but develop them if they begin to delve into the causes of things; for more details, see Houses of Hermes: Mystery Cults, House Criamon.
 
 #### Gossip
-
-Minor, General
-
+*Minor, General*<br>
 You have regular social contacts in the area that provide you with all kinds of information about local social and political goingson. On a simple roll of 6+, you hear interesting news before almost everyone else. You treat all local Reputations as twice their actual level. With some well-placed words, you may be able to bestow new Reputations (whether deserved or not). You quite likely have a Reputation too — as a gossip.
 
 #### Great (Characteristic)
-
-Minor, General
-
+*Minor, General*<br>
 You may raise any Characteristic that already has a score of at least +3 by one point, to no more than +5. Make sure you describe what it is about you that causes that increase (such as sheer bulk, a lean build, or extreme charisma). You may take this Virtue twice for the same Characteristic, and for more than one Characteristic.
 
 #### Greater Benediction
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You have been blessed by some supernatural power. The effects of the benediction should be comparable to other Major Virtues. (See insert for examples.)
 
 > #### Greater Benediction Examples
@@ -4255,9 +4018,7 @@ You have been blessed by some supernatural power. The effects of the benediction
 > Everyone who knows you is your friend. You receive a +3 bonus to all social rolls with people who have known you more than one month. Anyone who tries to act against you by swaying the emotions or opinions of others has +3 added to all Ease Factors. This effect has a Penetration of 0.
 
 #### Greater Immunity
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You are completely immune to one hazard which is both common and potentially deadly. For example, you might be immune to fire or to iron (and only iron) weapons. You may not take immunity to aging — see the Unaging Minor Virtue (page 114) instead. This immunity applies to mundane and magical versions of the thing. If you are immune to fire, you are also immune to magically created fire.
 
 One important possibility is immunity to deprivation, which means that you suffer no loss of Fatigue or wounds from going without air, food or drink. However, you cannot regain long-term Fatigue without rest and sustenance, and if you are injured deprivation could cause your wounds to worsen.
@@ -4265,9 +4026,7 @@ One important possibility is immunity to deprivation, which means that you suffe
 You may take this Virtue more than once, with a different immunity each time.
 
 #### Greater Power
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character has a supernatural power that he can activate at will. If you take the Virtue once, this is a single power, equivalent to a Formulaic Hermetic spell with a level of 50 or lower. You may also spend levels one-for-one to give the power Penetration; otherwise, it has a Penetration of zero.
 
 This Virtue may be taken more than once, and the levels added together to create several powers. For example, a character who took the Virtue twice could have a power with a level of 60 and a Penetration of 0, and a second power with a level and Penetration of 20 each. By default, there should be one power per Virtue, as this Virtue is intended for powers that are individually significant. See Lesser Power (page 90) if you want your character to have multiple minor powers. However, the troupe may allow the character to take more powers if they have a strong thematic link.
@@ -4277,94 +4036,66 @@ The power has an Initiative equal to the character's Quickness - (power magnitud
 This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine, Revised Edition Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Greater Purifying Touch
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You can, with a touch and the expenditure of a Fatigue level, cure a single serious disease. This disease should be either life-threatening or seriously disabling, and should be one from which people do not normally recover by themselves. You must choose the disease that you can cure when you take this Virtue, and you can only cure that disease. You can only choose a disease, not other types of injury or misfortune. See page 406 for more information on diseases, and Art and Academe, page 45 for more detail.
 
 #### Guardian Angel
-
-Major, General
-
+*Major, General*<br>
 You have learned to hear the words of a divine watcher who gives you practical and spiritual advice. The angel whispers in your ear and tells you what is best for you spiritually, rather than materially. He approves of violence only when there is a holy reason — often difficult to demonstrate. If you act against the angel's advice, he may leave you until you correct your ways. The angel has only a limited awareness of your thoughts, but when you speak aloud, he can hear and converse with you.
 
 Your guardian angel can also help in two practical ways. First, he can grant you a +5 bonus to Soak. Second, he can grant you a Magic Resistance of 15. This Magic Resistance is not compatible with a magus's Parma Magica, or Magic Resistance from most other sources, but it does add to the Magic Resistance resulting from Faith Points (see page 419). The angel only grants you these bonuses if you are acting in accordance with God's will.
 
 #### Guest of House Criamon
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Magi with this Virtue are, politically, members of House Criamon, but may be created using the rules for any other House. Guests are offered membership, which Criamon see as a political formality, for many reasons. The troupe and player should determine why the character found it necessary to find sanctuary with this House.
 
 #### Guild Apprentice
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a youth between the ages of 10 and 20 who is learning his trade from a guild master or journeyman. He has entered into a contract with his master that guarantees his training. The character is not able to benefit from either the Poor Flaw or the Wealthy Virtue, since he is essentially the property of his master, until he moves to the journeyman rank. Most of his time is spent in ways determined by his master.
 
 #### Guild Dean
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character is the ultimate authority of his guild, the man who decides many of the important decisions that face the guild and represents it politically. The character is involved in town politics, long-term trade contacts, and negotiations with other guilds and local craftsmen. The town's population views him as an important and prestigious member of their community. You may select Academic Abilities at character generation.
 
 #### Guild Master
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a guild master and may legally practice his trade in town, and hire journeymen to work for him. He participates in guild activities and is considered a member in good standing. You may select Academic Abilities at character generation.
 
 #### Harnessed Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have great control over your spells. You are able to cancel any of your spells simply by concentrating. You can even cancel the magic in magic items which you created. The act of canceling your magic should be treated as if you were casting a spell for timing and concentration purposes. If you are distracted and fail a Concentration roll, another attempt may be made in a later round. Spells and magic items can be canceled out over any distance, but once they have been canceled, you must recast a spell or reinvest a power in a magic item to start the effect again.
 
 The drawback is that when you die, all of your spells and magic items sputter out.
 
 #### Heartbeast
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have been initiated into the Outer Mystery of the Heartbeast (see page 233), and thus are a member of House Bjornaer. You start with the Ability Heartbeast 1. Note that all Bjornaer magi gain this Virtue for free at character creation.
 
 #### Hermetic Experience
-
-Minor, General
-
+*Minor, General*<br>
 The character has experience with the magi of the Order of Hermes. Maybe he is currently employed by a covenant, once served in the retinue of a magus, or has had other dealings or disputes with them. In any case, you have an additional 50 experience points to spend on Order of Hermes Lore, Magic Lore, or Latin. You cannot spend other experience points on Magic Lore or Latin unless the character has another Virtue or Flaw permitting this. This Virtue may be taken by any grog or covenfolk, or those who have had an exceptionally close relationship with the Order of Hermes. It may be taken by a magus, but there is usually no point.
 
 #### Hermetic Magus
-
-Free, Social Status
-
+*Free, Social Status*<br>
 You are a member of the Order of Hermes. All magi must take this as their Social Status, and only magi may take it.
 
 #### Hermetic Prestige
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Because of something in your background, other magi look up to you even if you haven't earned their respect. Some envy you, and most will certainly expect more from you than from others. You gain a Reputation of level 4 within the Order.
 
 #### Hex
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character has the ability to curse her enemies, making dire predictions about their future, which tend to come true. This gives her the Supernatural Ability Hex at 1. This Virtue is most often associated with the Infernal realm.
 
 #### Homing Instinct
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character always knows precisely how to get from where she is to a number of locations equal to her Intelligence Score (a minimum of 1). To add a
 location to the character's repertoire she must be at that location, the location must be open to the air (so it cannot be inside, for example), and the player must make an Intelligence + Concentration Roll against an Ease Factor of 6. If this would increase the number of known locations beyond the character's limit, then another location must be "forgotten."
 
 In addition, the character has a fixed Arcane Connection to locations that she knows, which may be exploited in the usual ways (page 219). This Arcane Connection is an artifact of the mind, and so may not be given to another character.
 
 #### Imbued with the Spirit of (Form)
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus has absorbed some of the powers of an elemental or other magic object (perhaps by consuming it). This act taints the magus, so that any being with a Magic Might associated with the Form of this Virtue can sense his nature when nearby. Typically, weak creatures will be afraid of the magus and powerful ones will attempt to kill him.
 
 Whenever casting a spell or performing a Laboratory Activity that requires vis of the chosen Form, the magus may substitute Long-Term Fatigue Levels for the vis. Each Long-Term Fatigue Level lost reduces the vis requirement of the spell or effect by 1. When casting a spell the Fatigue Levels are lost after the spell is cast. For Laboratory Activities the Fatigue loss lasts for the duration of the Laboratory process (that is, at least a season), and Fatigue Levels substituted for vis do not count towards the magi's limit of vis expenditure in a season. The magus takes the Fatigue Penalty to his Lab Total.
@@ -4374,29 +4105,19 @@ Note that studying vis is not a Laboratory activity, so the magus may not substi
 For example, a magus casting an Enchantment of the Scrying Pool ritual (InAq 30, page 322), requires 6 pawns of some combination of Intellego and Aquam vis. If the magus is Imbued with the Spirit of Aquam, he may tire himself (losing three Long Term Fatigue Levels), and reduce the vis requirement by 3.
 
 #### Immune to Disease
-
-Major, Supernatural, Tainted
-
+*Major, Supernatural, Tainted*<br>
 The character is marked as the property of a very powerful demon, and the lesser demons that cause most diseases refuse to harm him. Even characters who turn against their masters retain this protection, because the mark is indelible, and disease demons are not usually very bright. A few diseases, for example, those sent as scourges by God, affect the character normally.
 
 #### Immunity to Cold
-
-Minor, Supernatural
-
-Normal cold does not harm you, nor does it make you feel uncomfortable. You do not need warm environments to remain healthy.
-
-Extreme, magically created cold, such as the effect of Wizard's Icy Grip (page 346), still affects you normally.
+*Minor, Supernatural*<br>
+Normal cold does not harm you, nor does it make you feel uncomfortable. You do not need warm environments to remain healthy. Extreme, magically created cold, such as the effect of Wizard's Icy Grip (page 346), still affects you normally.
 
 #### Improved Characteristics
-
-Minor, General
-
+*Minor, General*<br>
 You have an additional three points to spend on buying Characteristics, but you are still limited to a maximum score of +3 in any single characteristic unless you take the Virtue Great Characteristic. You may take this Virtue multiple times.
 
 #### Indescribable Face
-
-Minor, General
-
+*Minor, General*<br>
 After meeting this character, other characters usually find it hard to describe him sufficiently well to separate him from others. Some forgettable characters are just average height and weight, with unremarkable features. Others have a particular feature which is so striking it crowds out other memories. He has an ostentatious hat. She was carrying a little dog. The characters can recall the striking feature, but little else. A player who selects this Virtue for his character needs to select which form of the Virtue his character has.
 
 A character who is simply average is always forgettable. He can't turn the ability off and may use props when building a Reputation among other criminals. He may be "that guy in the black gloves who strangles people," for example, although no-one recalls precisely what he looks like. Intimately related characters can eventually become sufficiently used to the character's forgettable face that they remember it.
@@ -4404,35 +4125,26 @@ A character who is simply average is always forgettable. He can't turn the abili
 A character who distracts with a prop is memorable when she wishes to be. She can simply not use her devices of distraction if she wishes to make an impression. She can also switch her distracting prop. For example if she hears that someone is looking for a lady with a curious dog, she might switch to a baby, or a curious hat. A character who distracts with props is usually not recognized by random people in crowds (whose eves also follow the prop. not the face), but this protection is less perfect than a truly forgettable face.
 
 #### Independent Study
-
-Minor, General
-
+*Minor, General*<br>
 The character develops new skills extremely quickly on his own. When he is studying through Practice, add two to the Source Quality, and add three to
 the Source Quality of his Adventure experience.
 
 #### Induction
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character has the supernatural power to make people experience things that are not there. She gains the Supernatural Ability Induction (page 166) with a score of 1.
 
 #### Ineslemen
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 This character is a member of one of the designated religious tribes of the Tuareg and is therefore accorded some authority over disputes and immunity from the usual feudal demands of the nobles. He may purchase Theology: Islam, Islamic Law and (Realm) Lore during character generation and gains an additional 50 XP to spend on these Abilities. The character begins with the Minor Flaw Noncombatant, which does not yield any points for buying Virtues. This Social Status only exists in North Africa.
 
 #### Infernal Heirloom
-
-Minor, Supernatural, Tainted
-
+*Minor, Supernatural, Tainted*<br>
 Infernal heirlooms are magical items that the character inherits from a diabolist, or, more rarely, finds. The character has the use of the item, without having to deal with the demon that created it. The item is extremely useful in some way, but each use draws its owner closer to the character, as the demon attempts to reclaim its treasure.
 
 Most Infernal heirlooms have only a single effect, and they are usually triggered by a minor act of, or intention to, sin. As a guideline, each heirloom may create an effect once per day that is equivalent to a Hermetic spell of level 25. Items that produce less powerful effects may be used more frequently at the troupe's discretion.
 
 #### Inoffensive to (Beings)
-
-Minor, General and Hermetic
+*Minor, General and Hermetic*<br>
 This Virtue is associated with one of five classes of beings: animals, divine beings, faeries, demons, or magical creatures. These last four include
 characters associated with the Divine, Faerie, Infernal, or Magic realm, respectively, through Supernatural Virtues or Flaws, as well as beings with Might.
 
@@ -4443,53 +4155,37 @@ You may not take this Virtue more than once; characters who are Inoffensive to m
 Note that Inoffensive to Mundane Humans is not available as a Minor Virtue; take Gentle Gift instead.
 
 #### Inspirational
-
-Minor, General
-
+*Minor, General*<br>
 You are a stirring speaker or a heroic figure, and can urge people to great efforts. You give targets a +3 bonus to rolls for appropriate Personality Traits.
 
 #### Intuition
-
-Minor, General
-
+*Minor, General*<br>
 You have a natural sensitivity that allows you to make the right decisions more often than luck can account for. Whenever you are given a choice in which luck plays a major role (such as deciding which of three unexplored paths to follow), you have a good chance of choosing correctly. The storyguide should secretly roll a simple die. On a 6+, your intuition kicks in and you make whatever might be considered the "right" decision. Otherwise, you fail to get any flash of insight and must make the decision without aid.
 
 #### Inventive Genius
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Invention comes naturally to you. You get +3 to your Lab Total if you are not using a Laboratory Text or being taught. If you experiment, you get +6.
 
 #### Jack-of-All-Trades
-
-Minor, General
-
+*Minor, General*<br>
 The character is capable of turning his hand to almost anything. He suffers no additional botch dice for attempting an Ability roll for an Ability that he has no score in (see page 157). If it is an asterisked Ability, then he can attempt a roll as if he had a score of zero with three extra botch dice, if and only if he is normally able to take Abilities of that type. Characters without this Virtue cannot even attempt rolls on an asterisked Ability without at least one experience point in it. For example, he must have a Virtue permitting him to take Arcane Abilities to attempt an unskilled Magic Lore roll. Some Abilities are excepted from this Virtue, including those that are not rolled (such as Parma Magica or Penetration), and all Supernatural Abilities (which require a specific Virtue for each Ability, rather than the type). The troupe may make other exceptions on a case-by-case basis, but this Virtue is supposed to allow the character to attempt things that would normally require training.
 
 #### Journeyman
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a trained guild craftsman and may practice his trade in town under guild supervision. He works for a master for a wage.
 
 #### Jurist
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a judge, advocate, or procurator essentially a medieval lawyer in some capacity. At character generation he may purchase the Abilities Latin, Artes Liberales, and Civil and Canon Law. He is not necessarily university trained, as he may have obtained his education through private schools, tutors, or a cathedral school, and need not have a degree. If he is a cleric, he works in an ecclesiastical setting: the papal curia, the College of Cardinals, or a bishop's or archbishop's office. If he is a layman, he works for a secular prince or town municipality.
 
 This Virtue is compatible with the Baccalaureus, Magister in Artibus, and Doctor in (Faculty) Virtues, as a jurist may have a university education. It is also compatible with the Priest and Mendicant Friar Virtues. It is only available to male characters.
 
 #### Just an Instant
-
-Minor, General
-
+*Minor, General*<br>
 A character with this Virtue, who has had a few seconds to look about a room, does not need to make Awareness checks to detect or remember anything of interest on the room's exposed surfaces. Some characters use this Virtue to discover the layout of a space so they can navigate it in the dark, while others use it to save time while stealing. Characters with this Virtue are also useful lab assistants, because they know where everything is, and are aware of experiments about to critically fail.
 
 #### Kassalan Exorcism
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are capable of performing minor exorcism spells through your knowledge of the rites of the Mortuary Society of Kassala in Alodia, the most remote of the three Nubian kingdoms on the southern reaches of the Nile. You can cast spells in a very limited focus, namely wards against ghosts and the physical dead (using the Rego Corpus or Rego Mentem guidelines), and spells to strip Might from these same beings (using the Perdo Vim guidelines). You cannot create spells that affect other spirits or creatures who are not the walking dead, but your spells are equally effective against creatures from any Realm. Wards created with this Virtue need not be circular. but can instead block the threshold(s) of a room; this is still treated as a Duration: Ring, Target: Circle spell for level calculations.
 
 To cast a spell you must expend a Fatigue level, whether the spell succeeds or fails. You must also spend at least 5 minutes preparing the spell, during which time you need unbroken concentration and expend one handful of Kassalan Dust. The spell is designed exactly like a Hermetic spell; if affecting a ghost you must be able to sense your target. Your Casting Total is equal to (Stamina + Organization Lore: Mortuary Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm.
@@ -4503,27 +4199,19 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 > More details on the Kassalan Mortuary Society can be found in Lands of the Nile, from page 88.
 
 #### Keen Vision
-
-Minor General
-
+*Minor General*<br>
 You can see farther and more clearly than most. You get a +3 bonus to all rolls involving sight, not including attacks with missile weapons.
 
 #### Keen Sense of Smell
-
-Minor, General
-
+*Minor, General*<br>
 The character's nose is more sensitive than normal for a human. He gets a +3 bonus to all rolls involving his sense of smell, including following tracks with the Hunt Ability.
 
 #### Knight
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a knight, a member of the noble classes and one of the elite warriors of Europe. Unless you are Poor, you may have high quality weapons and armor, and a horse. Typical armaments for a mid-13th century knight are lance, sword, heater shield, a complete mail suit, and a warhorse. You may take Martial Abilities during character generation. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is only available to male characters, and is compatible with the Landed Noble Virtue.
 
 #### Knows People
-
-Minor General
-
+*Minor General*<br>
 Your social contacts are not important for what they give you directly: they are important because they allow you to match up the desires of your various friends. A skilled socialite is a middleman, who is owed gratitude for bringing opportunities to his friends, not someone who demands favors based on friendship.
 
 Once per story or session, a character with this Virtue may ask for a bait for a non-player character. A bait is the beginning of a scene or short, secondary story, outside the main story being told, which if completed allows the character to gain aid from the nominated target. For example, if the player characters are unable to gain the assistance of a nobleman, a player may demand a bait. In the game, this means the character uses his social skills to determine the needs of the nobleman, and to hint that he may know a third person with a solution. If the troupe then plays out a brief scene in which the nobleman's problem is sorted out, he becomes more biddable.
@@ -4531,15 +4219,11 @@ Once per story or session, a character with this Virtue may ask for a bait for a
 Troupes may veto any use of these connections which spoils the tension and pace of the game.
 
 #### Laborer
-
-Free Social Status
-
+*Free Social Status*<br>
 The character is a trained worker who practices a trade that is a valuable service to his community, but by which no finished good is produced. Unlike a peasant, who is an agrarian worker who works at a variety of jobs, a laborer concentrates on one specific endeavor to earn his livelihood, be it hauling wood, washing clothes, cleaning latrines, carrying luggage, or serving food.
 
 #### (Land) Regio Network
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character has access to an extensive network of regiones, perhaps located in the depths of many lakes throughout Mythic Europe, or hidden above the clouds in the sky, or buried in subterranean caves under the ground. The character is associated with one particular type of regio network.
 
 Once the character is in such a regio he may travel to any other regio in the network; travel time is one Diameter regardless of geographic distance. To determine whether the character knows the location of a networked regio in a particular locale an Intelligence + (Area) Lore roll is made against an Ease Factor of 9. The character knows how to enter these regiones and can, if he chooses, guide other characters into the regiones — although other characters must be able to survive in the environment of the regio.
@@ -4547,9 +4231,7 @@ Once the character is in such a regio he may travel to any other regio in the ne
 Access to the network may be ultimately controlled by other characters or powers.
 
 #### Landed Noble
-
-Major, Social Status
-
+*Major, Social Status*<br>
 You owe fealty and service to a higher noble, and control land, serfs, and men-at-arms. You have half a dozen servants at your manor house, including a couple of bodyguards. Your servants should be controlled by the rest of the troupe. You have sworn an Oath of Fealty, and so it would be reasonable to balance this Virtue with that Flaw. You get the normal points for Oath of Fealty if you do. You are wealthier than most characters, but have no additional free time. You have the power to enforce the law within your fief, but you may not impose the death penalty, nor may you mutilate criminals. Floggings and fines are the normal penalties you impose.
 
 If you are Poor, your fief is either very small, or in a poor area for farming with few other resources. You must spend every season managing it, or it may collapse completely, leaving you effectively landless. You are no wealthier than most average characters, and you have only a couple of servants.
@@ -4559,45 +4241,31 @@ Wealthy Landed Nobles control more than one fief, and have bailiffs or stewards 
 This Status Virtue is compatible with the Knight Minor Status Virtue, but unlike that Virtue it is available to male and female characters.
 
 #### Large
-
-Minor, General
-
+*Minor, General*<br>
 Your Size is +1 instead of 0, so you are between six and seven feet tall. This means that the severity of wounds you take increases in six point intervals rather than five point intervals. (See page 404). You cannot take this Virtue and Giant Blood (page 83), Small Frame (page 145), or Dwarf (page 126).
 
 #### Lasiq
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character is an experienced assassin of the Nizari İsma'ilis, having successfully completed seven murders at the orders of his grand master, and commands a small band of up to six fida'is. Lasiq may take Martial Abilities at character creation. As for a fida'i, a lasig may be far from home on a mission, either alone or with some fida'i. In such as case, he is pretending to have some other social status, which you should choose. For more details on the Nizaris, see The Cradle and the Crescent, from page 162.
 
 #### Latent Magic Ability
-
-Minor, General
-
+*Minor, General*<br>
 You have a magical quality that has not yet manifested itself. You probably do not realize you have this capacity; if you are a magus, your master failed to detect it during your apprenticeship. At the storyguide's discretion, this quality might appear spontaneously or because of some relevant event (like drinking faerie wine). This is not The Gift, and the latent ability is more limited than that.
 
 #### Learn (Ability) From Mistakes
-
-Minor, General
-
+*Minor, General*<br>
 You are able to improve a particular Ability through the expedient of repeated failure. The first time in a given game session that you botch a roll or fail by exactly one point, you gain five experience points in the Ability. The roll must have come up naturally in the course of the story. You may take this Virtue several times, once for each Ability chosen.
 
 #### Leather Ripper
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 This character has the supernatural ability to destroy a group of leather objects. This causes metal armor to fall away, as the strips holding it together disintegrate. It destroys the tack of a horseman, forcing a Ride roll, with penalties of up to -9 depending on how dangerous his current maneuvers are. It can destroy the scabbard, belt and boots of a foe, allowing the ripper to flee or attack. This is a PeAn(He) 30 effect with +0 Penetration. The character must concentrate for a moment and spend a Fatigue level to activate the power, but does not need to speak or gesture.
 
 #### Leper Magus
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 This Virtue describes the mystic legacy passed on from Tytalus to Hariste's line through the vector of leprosy. This Virtue can only be bought if the character also has the Leprosy Flaw, and is only available to magi trained in House Tytalus. It allows him to draw upon the strength of his body to increase the power of his magic, granting the Life Boost Minor Virtue. He can also draw even deeper into this power if he desires, mortifying his diseaseridden flesh to produce vis to power his own spells. The vis generated in this way can only be used by the magus himself. in spellcasting or laboratory activities (but not study), and cannot be stored in any way in fact, it never leaves his body. By accepting a Light Wound, the magus can infuse a single magical working with three pawns of vis, of any Technique or Form. A Medium Wound supplies six pawns, a Heavy Wound nine pawns, an Incapacitating Wound 12 pawns, and a Deadly Wound (killing the magus) 15 pawns. Any vis that is produced beyond the magus's capacity to use in the current magical activity is lost, as is any vis surplus to the requirements of the activity to which this power is applied. Leprotic wounds open on the magus's body as he calls upon this power, but not quickly enough to affect the Casting Total of a non-Ritual spell affected by this power. All Lab Totals suffer the wound penalty as normal, as do the Casting Totals of spells that take more than one round to cast (such as Ritual spells). The character makes no Recovery rolls for this wound until the magical activity that the vis is being used for is complete (i.e., at the end of the casting of the spell, or the end of a season for lab work). While this means that the wound cannot get better, it also means that it does not risk worsening. Since the power is expressed from the pain of this wound, magic used to negate that pain also negates the benefits of this Virtue. A wound taken in this fashion must heal completely before the power may be used again, and any character using this power more than three times a year must make an extra Aging roll in winter.
 
 #### Lesser Benediction
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have been blessed by some supernatural power. The effects of the benediction should be comparable to other Minor Virtues. (See insert for examples.)
 
 > #### Lesser Benediction Examples
@@ -4606,7 +4274,7 @@ You have been blessed by some supernatural power. The effects of the benediction
 >
 > You are a very convincing speaker, anyone attempting to detect untruth in your words receives a -3 penalty to their rolls.
 >
-> Green Fingers
+> ##### Green Fingers
 >
 > Plants always prosper under your care. Your crops never suffer from natural diseases or pests so long as you personally tend to them, and you can therefore get half as much again in terms of yield as others.
 >
@@ -4617,47 +4285,33 @@ You have been blessed by some supernatural power. The effects of the benediction
 > ##### Unusually Fecund
 >
 > Every sexual encounter with a partner of the opposite sex results in conception.
->
-> may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Lesser Immunity
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are immune to some hazard which is either rare, or not deadly, or both. See Greater Immunity, page 83.
 
 #### Lesser Power
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character has a supernatural power that he can activate at will. This is one or more powers. equivalent to Formulaic Hermetic spells with total levels of 25 or lower. Each power has an Initiative equal to the character's Quickness - (twice power magnitude). It costs one Fatigue level to activate if its level is less than or equal to 25. two Fatigue levels if its level is 26 to 50, and so on. Note that powers with a level of 26 or higher cost less Fatigue if created using the Greater Power Virtue. You may also spend levels onefor-one to give the power Penetration; otherwise, it has a Penetration of zero.
 
 This Virtue may be taken more than once, and the levels added together to create several powers. For example, a character who took the Virtue twice could have a power with a level of 30 and a Penetration of 0, and a second power with a level and Penetration of 10 each.
 
-This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you
+This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Lesser Purifying Touch
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You can, with a touch and the expenditure of a Fatigue level, heal a specific illness. This illness should be one that people often recover from on their own, or one that is not particularly serious. You can only choose an illness, not an injury or other misfortune. See page 406 for rules on diseases, and Art and Academe, page 45 for more detail.
 
 #### License of Absence
-
-Major, General
-
+*Major, General*<br>
 This priest character has a license of absence that relieves him from some duties. The license might be valid for only a few years or it could be valid indefinitely. The character has an extra free season each year, but sometimes it is expected that the extra season is used for study. This Virtue is compatible with the Wealthy Virtue and Poor Flaw. A Wealthy priest with a license of absence thus has the whole year free; a character can never have more than four free seasons in a year. A license of absence may only be taken by a character with the Priest Social Status. It may not be taken by Senior Clergy.
 
 #### Life Boost
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You may boost your Formulaic or Ritual spell casting totals by expending additional Fatigue levels. Each Fatigue level gives you an additional bonus of +5 on the roll, which can yield very impressive Penetration totals. You may burn more Fatigue levels than you possess. If you do, you must Soak damage, without the help of armor. The Damage total is 5 for every additional Fatigue level spent, plus a stress die. Thus, if you spend three additional levels, you must Soak a damage of 15 + stress die, with your Soak (no armor) + stress die. Fatigue levels spent in this way are spent regardless of the success or failure of the casting roll, and any wounds taken are similarly taken even if you fail to cast the spell. You can kill yourself doing this. The total number of Fatigue levels to be used must be committed before the casting roll is made.
 
 #### Life-Linked Spontaneous Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You can do more with spontaneous magic than most magi at the cost of your own life energy. When you decide to use this ability in casting a spontaneous spell, you declare the level of effect you wish to produce before rolling. This level may include a number of levels of Penetration (see page 169). For example, you can choose to cast a level 10 effect at level 20, to give a Penetration of 10 plus your Penetration score.
 
 Roll to cast a Fatiguing Spontaneous spell. If your result after division is higher than the level you declared, you spend only one Fatigue level as usual. If your result after division is less than the level you declared, you must expend one additional Fatigue level per five points (or fraction thereof) by which you missed the target level. If you run out of Fatigue levels, you take a wound. The number of levels still needed for the spell is treated as the amount by which a Damage total exceeds your Soak, and you take the corresponding wound. You can kill yourself this way.
@@ -4665,27 +4319,19 @@ Roll to cast a Fatiguing Spontaneous spell. If your result after division is hig
 A maga with this Virtue may still cast Fatiguing Spontaneous spells normally.
 
 #### Light Touch
-
-Minor, General
-
+*Minor, General*<br>
 You have especially good handeye coordination and great proficiency for using your hands in precise, fast ways. You gain +1 to all rolls involving subtle manipulation of objects (like picking pockets) and roll one less botch die than you normally would in such activities (minimum of one). This bonus does not apply to archery, but does apply to playing musical instruments.
 
 #### Lightning Reflexes
-
-Minor, General
-
+*Minor, General*<br>
 You respond to surprises almost instantly. In fact, your reflexes are sometimes so fast that you don't have a chance to think about how you are going to respond. Whenever you are surprised or startled, roll a stress die + Quickness. If you get a 3 or better, you respond reflexively. You must tell the storyguide on each occasion what one type of action (attacking, blocking, running, etc.) you would like to respond with. If attacking in response, you gain +9 to your Initiative Total. The storyguide is the final arbiter of what happens (though it is always in the best interests of your immediate selfpreservation). You only react to threats that you are not fully aware of, so you don't get a bonus against an assassin you watch sneak up on you. Note that you do not get a choice about whether to react. You could just as easily skewer a friend sneaking up in fun as you would an assassin about to strike. Also note that you must perceive an action to react to it — you can still be easily killed in your sleep. This Virtue gives you no special powers of perception.
 
 #### Linguist
-
-Minor, General
-
+*Minor, General*<br>
 You are extremely proficient learning new languages. All Advancement Totals for any Language are increased by a quarter, rounded up, as are any experience points you put into any language at character generation. Both Living and Dead languages are augmented with this Virtue.
 
 #### Lone Redcap
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a Redcap who does not maintain ties to a Mercer House, and thus do not receive magic items or Longevity Rituals. You still begin with 300 experience points for your fifteen years spent as an apprentice, and receive the benefits of the Well-Traveled virtue, but you are estranged from the other Redcaps in your area, and have a poor Reputation at level 2 within your House.
 
 You must still devote two seasons each year carrying messages and performing other services for the Order, for if you do not there is the possibility you will be declared Orbus and thrown out of your House. This work pays enough for you to live on if you do not belong to a covenant, unless you take the Poor flaw and must work a third season as well. If you take the Wealthy virtue, you can maintain your position with only a single season of effort each year.
@@ -4693,77 +4339,57 @@ You must still devote two seasons each year carrying messages and performing oth
 This social status is compatible with any other mundane Social Status Virtue that would reasonably allow you to do your job as a Redcap, such as Merchant or Mendicant Friar.
 
 #### Long-Winded
-
-Minor, General
-
+*Minor, General*<br>
 You can last longer when exerting yourself than most, and gain +3 on all your Fatigue rolls. This bonus does not apply to casting spells.
 
 #### Luck
-
-Minor, General
-
+*Minor, General*<br>
 You perform well in situations where luck is more of a factor than skill or talent. You get +1 to +3 (storyguide's discretion) on rolls in such situations, depending upon how much luck is involved. You do well at games of chance, but may be labeled a cheater if you play them too often.
 
 #### Lupus (the Wolf)
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is employed by a university to watch over the students and ensure that they speak only Latin in their colleges and hostels. He is a member of the urban community where the university is located. He may begin play with scores in Latin or Artes Liberales, although a score of more than 1 in Artes Liberales would be rare. He may live with the students if he is unmarried, but if he has a family then he lives with them, possessing keys to the students' housing to allow unannounced entry. It would be very unusual for such a character to be female, but it is not impossible.
 
 #### Magian Lineage
-
-Minor or Major, General
-
+*Minor or Major, General*<br>
 This Virtue makes the character a true blood descendent of the Median tribe of Magians, the original priestly caste of Persia. Many mobeds, the priests of Zoroastrianism, possess this Virtue, either Minor or Major, but it is not a requisite. Details about Mythic Zoroastrianism can be found in The Cradle and the Crescent, Chapter 5.
 
-Minor: Your character's lineage is weak, although he or she is still ethnically Magian, and gains a strong constitution due to his purity. The character gains a -1 bonus to Aging rolls and a +3 bonus to resist the effects of disease.
+*Minor:* Your character's lineage is weak, although he or she is still ethnically Magian, and gains a strong constitution due to his purity. The character gains a -1 bonus to Aging rolls and a +3 bonus to resist the effects of disease.
 
-Major: In addition to the benefits of the Minor Virtue. your character has an affinity with the ancient prophetic and other mystical arts of their ancestors. The player must choose three Arcane or Supernatural Abilities which the character need not start play with, and which cannot be True Names. These Abilities are considered connected, so that whenever your character gains experience from a source dedicated to one of these Abilities, he gains half the Source Quality (round up) in experience points in each of the other two Abilities. A character must have access to a Supernatural Ability in one of the normal ways, such as taking the Virtue at character creation or Initiating it later, in order to put any experience points into it. If you choose a Supernatural Ability that your character does not yet have access to, any experience points generated for it by this Virtue before the character gains access to the Ability are lost.
+*Major:* In addition to the benefits of the Minor Virtue. your character has an affinity with the ancient prophetic and other mystical arts of their ancestors. The player must choose three Arcane or Supernatural Abilities which the character need not start play with, and which cannot be True Names. These Abilities are considered connected, so that whenever your character gains experience from a source dedicated to one of these Abilities, he gains half the Source Quality (round up) in experience points in each of the other two Abilities. A character must have access to a Supernatural Ability in one of the normal ways, such as taking the Virtue at character creation or Initiating it later, in order to put any experience points into it. If you choose a Supernatural Ability that your character does not yet have access to, any experience points generated for it by this Virtue before the character gains access to the Ability are lost.
 
 #### Magic Items
-
-Minor, General
-
+*Minor, General*<br>
 You begin with 25 more starting levels of magic items than you would otherwise, and the rate at which your items are improved is increased by one level per year. This is probably because of your exceptional devotion to the House, or because you have inherited a number of items from other Redcaps. You must be a Redcap to take this Virtue, and you may take it more than once, though no single effect in any of your items can be greater than Level 30.
 
 #### Magic Sensitivity
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are often able to identify a place or object as magical. However, your sensitivity makes you more susceptible to magical effects: subtract your Magic Sensitivity score from your Magic Resistance. Choosing this Virtue confers the Ability Magic Sensitivity 1 (page 168).
 
 #### Magical Memory
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your memory has been developed to remember magical rather than mundane things. You need not keep laboratory texts (see page 262) of your creations to get the benefit of a Lab Text when reproducing them. If you have created an effect by following another magus's Lab Text once, you may get the same benefit in future without needing to have the text available.
 
 #### Magical Blood
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character's essential nature has been improved through exposure to the Magic realm, often from a magic being, which gives her true form special supernatural properties. This typically changes the character's appearance enough that others can recognize that there is something unusual about her, and people might say that she has magical blood — or "faerie blood" (since many people in Mythic Europe do not understand the differences between the Magic and Faerie realms).
 
 The character may learn Magic Lore during character creation, and is resistant to aging, receiving a –1 bonus to all of her Aging rolls. In addition, she receives a minor physical advantage appropriate to one of the four different types of magic beings (magic animals, magic humans, magic spirits, and magic things), the one that is associated with the character's background. Some examples are below, or you can make up your own.
 
-Magic Animal: The character has a physical feature normally associated with animals, such as wings, scales, gills, teeth, or claws. These give as much as a +3 bonus to appropriate activities, or may allow the character to perform actions that a normal character could not manage (such as fly, or breathe underwater). This feature is very difficult to hide, making the character obviously different from other humans.
+*Magic Animal:* The character has a physical feature normally associated with animals, such as wings, scales, gills, teeth, or claws. These give as much as a +3 bonus to appropriate activities, or may allow the character to perform actions that a normal character could not manage (such as fly, or breathe underwater). This feature is very difficult to hide, making the character obviously different from other humans.
 
-Magic Human: The character may increase one of his Characteristics by 1, but not above +3. This is often Strength or Stamina (to represent the blood of giant ancestors), or Presence (to represent the blood of god-like beings). This often gives the character an otherworldly appearance. The character also has a positive Reputation at level 3 among others of his bloodline.
+*Magic Human:* The character may increase one of his Characteristics by 1, but not above +3. This is often Strength or Stamina (to represent the blood of giant ancestors), or Presence (to represent the blood of god-like beings). This often gives the character an otherworldly appearance. The character also has a positive Reputation at level 3 among others of his bloodline.
 
-Magic Spirit: The character gains an appropriate Supernatural Ability (one associated with a Minor Virtue), such as Magic Sensitivity, Premonitions, Second Sight, or Wilderness Sense, with an initial score of 1, though whenever the character uses this Ability, her appearance becomes obviously supernatural. For example, her eyes might turn black, she might rise a foot from the ground, or her hair might be blown about by a wind no one else can feel.
+*Magic Spirit:* The character gains an appropriate Supernatural Ability (one associated with a Minor Virtue), such as Magic Sensitivity, Premonitions, Second Sight, or Wilderness Sense, with an initial score of 1, though whenever the character uses this Ability, her appearance becomes obviously supernatural. For example, her eyes might turn black, she might rise a foot from the ground, or her hair might be blown about by a wind no one else can feel.
 
-Magic Thing: The character has a Lesser or Personal Power associated with an object or thing. Whenever she activates the effect, her appearance also changes in a way appropriate to the form of the power. For example, a power that protects against flames would cause her skin to become dark with soot and smell like smoke, and a power that lets her walk on water might cause her to become semitransparent, like water.
+*Magic Thing:* The character has a Lesser or Personal Power associated with an object or thing. Whenever she activates the effect, her appearance also changes in a way appropriate to the form of the power. For example, a power that protects against flames would cause her skin to become dark with soot and smell like smoke, and a power that lets her walk on water might cause her to become semitransparent, like water.
 
 #### Magical Mount
-
-Minor, General
-
+*Minor, General*<br>
 The character has a mount, beast-of-burden, or "guard dog," a creature that has Cunning instead of Intelligence and a Magic Might Score of up to 25. It has an extra Personality Trait (Loyal 0) and will obey simple verbal commands. If it has a positive Cunning score, the creature is also able to perform limited acts on its own initiative. If the character is incapable of training the creature himself, it must have been a gift from another character (probably a powerful magus) and the character must take a Major Story Flaw to represent the consequences: Favors, to represent his debt to his patron, is the simplest, but Enemies, if the mount was lured away, is also a possibility. In this case, only a companion or magus-level character can take this Virtue.
 
 #### Magical Warder
-
-Major, General
-
+*Major, General*<br>
 The character has a magical being that accompanies him, watches over him, and sees that he comes to no harm. It does not require anything from the character in return for its service, but note that the more powerful the warder, the less willing or able it is to help the character, and the less often it is available to protect him.
 
 A classic example is the ghost of someone close to the character. The ghost is invisible and silent to anyone but you, unless they have Second Sight or some other supernatural means of detecting it. It can see and hear what is going on around you, and leave your presence for up to half a day, so it makes a good spy. See page 457 for example statistics for such a Magical Warder.
@@ -4771,9 +4397,7 @@ A classic example is the ghost of someone close to the character. The ghost is i
 Design this being as a magic character, using the guidelines in Chapter 13, or in *Realms of Power: Magic* — a ghostly warder is a good example of a companion character; it is less powerful and basically an extension of the character's will, while a more powerful Warder's assistance is rarer and even more circumstantial.
 
 #### Magister in Artibus
-
-Major, Social Status
-
+*Major, Social Status*<br>
 You have incepted Master of Arts in one of the universities of Europe (Paris, Bologna, Oxford, Cambridge, Montpellier, Arezzo or Salamanca) and completed your two years' regency of compulsory teaching. You are entitled to be addressed as Magister, are subject only to canon law, and may teach anywhere in Europe.
 
 You are at least (25 – Int) years old, and must have scores of at least 5 in Latin and Artes Liberales. You have, however, spent eight years in a university, and gain an additional 30 experience points in each of those years, for a total of 240 additional experience points over and above your allowance based on age. You may buy Academic Abilities during character generation, and must spend your additional experience points on Academic
@@ -4785,15 +4409,11 @@ You must spend two seasons teaching to maintain yourself and your reputation as 
 This Virtue is only available to male characters, and is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues.
 
 #### Magister in Medicina
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character has achieved a doctorate in medicine from one of the medical schools of Europe (Salerno, Cremona, Montpellier, or Bologna), and completed his two years' compulsory teaching. This Virtue offers the same benefits as Doctor in (Faculty). This Virtue is compatible with the Hermetic Magus, and Priest Virtues. Note that this Virtue is available to female characters, although they must have graduated from Salerno, male characters may have graduated from any of the medical schools.
 
 #### Major Magical Focus
-
-Maior. Hermetic
-
+*Major. Hermetic*<br>
 Your magic is much more potent in a fairly limited area, such as weather, necromancy, birds, or emotions. This area should be smaller than a single Art, but may be spread over several Arts necromancy, for example, covers both Corpus and Mentem effects. You cannot be focused on laboratory activities, although a focus does apply to laboratory activities.
 
 When you cast a spell or generate a Lab Total within your focus, add the lowest applicable Art score twice. If a spell has requisites, the lowest applicable score may be one of the requisites, rather than one of the primary Arts. Thus, if a magus with a focus on birds was casting a spell to turn a bird into pure flame, MuAn (Ig), with Muto 14, An 18, and Ig 10, his final total would be 34 + other modifiers: 14 from Muto, and 20 from adding Ignem twice. If he was casting a spell to turn a bird into another sort of bird, MuAn with no requisites, his total would be 46 + other modifiers, 18 from Animal and 28 from adding Muto twice.
@@ -4817,9 +4437,7 @@ A character can have only one Magical Focus, either major or minor, regardless o
 > - Disguise: Changing the appearance of something, by any means.
 
 #### Maker of Textured Vessels
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Textured vessels are those which have mystical patterns impressed into their surfaces before firing. A character with this Virtue has a repertoire of shapes: one shape per level in the Craft: Potter Ability. Each shape corresponds to an Ability, and the character gains additional shapes as the Craft skill increases. The character takes one season to learn each added shape when her Ability increases, and requires the assistance of someone who already knows the new shape desired.
 
 Crafting a vessel costs one Long-Term Fatigue level. Each vessel grants a +3 bonus in a single Ability. The materials used while attempting the roll must have been stored inside the vessel. Storing materials for Abilities in pots does not cause Warping. The first time a character uses a pot in this way, it accepts the user as its owner. and provides no bonus for anyone else. A pot is an Arcane Connection to its master. Characters with Magic Resistance cannot be claimed by pots, and gain no benefit from them.
@@ -4827,9 +4445,7 @@ Crafting a vessel costs one Long-Term Fatigue level. Each vessel grants a +3 bon
 A separate version of this Virtue allows the character to make leather vessels, and relies on Craft: Leatherworker. It is otherwise identical. In the African cultures where this Virtue is most common, the pottery version is associated with women, and the leather version with men. but this does not limit which characters can take either Virtue.
 
 #### Maker of Water Vessels
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 A character who drinks from a magical water vessel made by a character with this Virtue may swap one Ability score for the Craft: Potter score of the crafter at the time the vessel was made. This effect lasts for one scene or three minutes, whichever is longer. Each vessel is tied, at its creation, to a particular Ability, by its shape.
 
 Each character knows a variety of vessel shapes, each shape corresponding to a single Ability. A starting character knows a number of shapes equal to her Craft: Potter score. The character takes one season to learn a new shape when her Ability increases, and requires the assistance of someone who already knows the new shape desired. Making a vessel costs a Long-Term Fatigue level.
@@ -4837,23 +4453,17 @@ Each character knows a variety of vessel shapes, each shape corresponding to a s
 After a vessel is drunk from the first time, it takes the drinker as its owner. Other drinkers gain no benefit from the vessel, and it becomes an Arcane Connection to its owner. Characters with Magic Resistance cannot be claimed by vessels. The first drink from an unowned vessel. which establishes ownership. causes Warping, unless the drinker has Supernatural Virtues. Similarly, drinking from a vessel one does not own causes Warping, unless the drinker has Supernatural Virtues. A separate version of this Virtue allows the character to make leather vessels, and relies on Craft: Leatherworker. It is otherwise identical. In the African cultures where this Virtue is most common, the pottery version is associated with women, and the leather version with men, but this does not limit which characters can take either Virtue.
 
 #### Male Guild Sponsor
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The character's father or husband is a guild craftsman and she has been allowed entry into his field of work, which is otherwise restricted to men. The character may work at her trade, following the same procedures as the regular male workers. Every guild allows such members, so she may practice any craft she desires. The character must select a separate guild Social Status Virtue as well as this free Virtue to represent her status in the guild system. This Virtue is only available to female characters, and is compatible with all Social Status Virtues
 
 #### Mamluk
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a former military slave, bought as a child, trained at a military school and educated in Islam, and then freed upon reaching adulthood. You are probably Turkish, but you may also be Mongol or even Greek. You are likely to have been trained in the use of lances. bows, shields, chainmail, and lamellar armor (same statistics as chainmail) and one or two swords, both on foot and on horseback, though this does not necessarily mean that you will own these at the start of the game (storyguide's option).
 
 You may take Martial Abilities at character creation, and as a special case you may also take the Ability Theology: Islam, even if you do not have the Minor General Virtue Educated. This Virtue is only available to male characters, and (for Companion characters only) is compatible with both the Emir and Muqta' Virtues, as many Mamluks have climbed high in the Muslim hierarchy.
 
 #### Marshal
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 A noble's stables require a specialist to coordinate the care. feeding, and welfare of the animals. This person is called a marshal, and the title holds considerable honor. The Marshal of England is the king's official in charge of his cavalry, but even the marshal of a baron is an important personage, given the vital roles played by horses in warfare and hunting, as well as routine travel.
 
 A marshal should take the Ability Profession: Marshal, which deals with understanding, purchasing, and caring for horses. It functions as the Ability Medicine for the purpose of treating veterinary diseases, and for surgery involving these animals. A marshal receives 50 extra experience points at character generation to spend on the abilities Animal Handling, Etiquette, Hunt, Latin, Profession: Marshal and Ride, and may take Martial Abilities freely.
@@ -4861,42 +4471,30 @@ A marshal should take the Ability Profession: Marshal, which deals with understa
 A marshal may overseen other specialists, including farriers who make horseshoes; leatherworkers who produce tack, harness, and saddles; and the trained staff who administer day-to-day grooming and mucking out of the stables.
 
 #### Master Bard
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character has spent at least nine years of study at a bardic school and is a master of the trade, called an Anruth. He has a teaching position at a prestigious school, or else an official position with an Irish clan chief; either way this earns him a Local Reputation at level 3. If resident at a school, he has an obligation to teach for at least two seasons a year; if he works for a lord, two seasons are instead spent composing praise poems and stories for his patron.
 
 The character should be at least 25 years old, and must have a Profession: Storyteller or Poet of at least 5, and also a 5 in at least one of Area Lore, Organization Lore, Faerie Lore, or Magic Lore. You can spend experience points on Arcane Abilities at character creation, and have an extra 240 experience points to spend on Art of Memory, Profession: Storyteller, Profession: Poet, any Area Lore, any Organization Lore, Faerie Lore, or Magic Lore. This Social Status is only available in Ireland.
 
 #### Master of (Form) Creatures
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character can tame animals and other unintelligent beings whose Magic Might is aligned with a particular Form. During character creation, the character may take Magic Lore, and this Virtue may be taken multiple times, once for each Form. See page 384 for rules for training magical (and mundane) animals.
 
 #### Master of Kennels
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character manages the kennels for a noble patron, and is responsible for the training, breeding, and health of the animals. He has an appropriate staff under him, depending on the size of the kennels, and often possesses the privilege of riding with the hunt. He may be considered an intimate and important member of the noble household, despite his common birth, and be treated with commensurate respect. He is also expected to organize the huntsmen — that is, the dog handlers — and train servants or locals to perform that role. He should possess the Ability Profession: Master of Kennels, which governs the care of the dogs, treatment of their diseases, and acquisition and breeding of hounds. The Ability Animal Handling is used for the training of the animals. A master of kennels receives 50 extra experience points at character generation to spend on the abilities Animal Handling, Etiquette, Hunt, Latin, Profession: Master of Kennels, and Ride, and may take Martial Abilities freely.
 
 #### Mastered Spells
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have fifty experience points to spend on mastering spells that you know. (See page 225 for rules on mastering spells.)
 You may take this Virtue if you also have Flawless Magic, to give you more experience points to spend on mastering your spells. You may take this Virtue multiple times.
 
 #### Masterpiece
-
-Minor. Hermetic
-
+*Minor. Hermetic*<br>
 For some benevolent reason, the magus's parens has allowed him to keep the lesser enchanted item he made to prove himself a magus and pass his Gauntlet. This masterpiece must be a lesser enchanted item. You should design a lesser enchanted item that your character could make based on his Lab Totals at character generation, following the regular rules for construction of such a device. You ignore vis costs, as the magus's parens provided those from her laboratory stores. This Gauntlet test is standard for House Verditius, but a maga from another House may have chosen to impose it.
 
 #### Mazdean Priest
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 Your character is an ordained Mazdean priest, initiated as a mobed. This means that the character may carry out the various rituals and ceremonies, such as the Yasna, Vivevdat, Navjote, marriage, burial, official prayers, purification rituals. lighting of sacred fires, and initiation of new priests. In Mazdean communities, your character is held in high regard and treated with great respect. The character wears pure white clothes and, when performing ceremonies, covers his face with a white veil to protect the sacred flame from his breath and saliva. See The Cradle and the Crescent. Chapter 5 for more details on Mythic Zoroastrianism.
 
 As a mobed, your character resides in a community that likely has a fire temple. This means that your character has arduous and time-consuming religious and ceremonial duties. Most of your time is spent praying, performing ritual purification rites and tending to the sacred fire. If you are Wealthy, you have several ervads (junior priests) who perform many of the more arduous tasks. If you are Poor, it likely reflects the poor station of Mazdeans in the community in general, and you may also possess the Outsider Flaw.
@@ -4904,9 +4502,7 @@ As a mobed, your character resides in a community that likely has a fire temple.
 Your character may take Academic Abilities at character generation. Most such characters take the Minor Personality Flaw Vow to reflect your constant state of ritual purity, and dedication to your community. This can only be your character's social status if he lives in a Mazdean community, all of which are to the east of Mythic Europe, and most of which are in Persia. A Mazdean priest in exile in Europe should take a different Social Ŝtatus Virtue or Flaw, as discussed earlier. This Virtue is only available to male characters.
 
 #### Mendicant Friar
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a follower of St. Francis or St. Dominic going among the rich and poor, spreading the word of God and giving comfort to the sick, homeless, hungry, or dying. You are sworn to serve the Church for the rest of your life, but your wandering habits are considered suspect by the local bishop and parish clergy, and you lack political influence within the organization. Like all clerics, however, you are only subject to canon law.
 
 Due to your training, you may take Academic Abilities during character generation. If you wish, you may be an ordained priest and may officiate at marriages, baptisms, funerals, and the Mass, though the parish clergy may resent your interfering on their "turf." You do not need to take the Priest Virtue in addition to this one if you do want to be ordained.
@@ -4914,35 +4510,25 @@ Due to your training, you may take Academic Abilities during character generatio
 You have sworn vows of poverty, chastity, and obedience. which could together constitute a Major Story Flaw (Monastic Vows, see page 138), and which would be a natural choice if you take this Virtue. You may not take the Wealthy Virtue or Poor Flaw. This Virtue is only available to male characters, and is compatible with the Magister in Artibus Major Virtue.
 
 #### Mentored by Demons
-
-Minor, General, Tainted
-
+*Minor, General, Tainted*<br>
 A character mentored by demons learns faster than is possible for those studying with human teachers, but demons only teach those Abilities that suit their plans for the character. Characters trained by demons may exceed the maximum skill level for a given age provided by the character creation rules. Students of demons may also have Abilities that are usually restricted to suitable backgrounds. People mentored by demons do not recognize the supernatural nature of their teachers — many consider their exceptional skills an expression of their innate superiority to others. This attitude is particularly common in children afflicted with Pride. Mentored characters have an additional 50 experience points to spend on any Ability. Characters may purchase this Virtue multiple times, and gain 50 further experience points each time. Characters trained to this extreme know that their teachers are supernatural figures, but often have the Manufactured Ignorance Flaw.
 
 #### Mercenary Captain
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You lead a small company of mercenaries (5 to 10), for hire to the highest bidder. You are much like a knight-errant, only without the prestige. During your travels you have gained great wealth — and squandered it — several times over. You may take Martial Abilities during character generation.
 
 If you are Poor, you lead only a couple of other mercenaries, but you and they may have armor and weapons available to normal characters. If you are Wealthy you lead about twenty mercenaries, and can delegate some of the work to sergeants. This Virtue is available to male and female characters.
 
 #### Merchant
-
-Free, Social Status
-
+*Free, Social Status*<br>
 You live from the buying and selling of goods. You may be a peddler, if you are relatively poor, a shopkeeper, or a traveling merchant. The Wealthy Major Virtue and Poor Major Flaw affect you normally.
 
 #### Merchant Adventurer
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is in command of a ship, and a crew. The character has sufficient capital for a cargo, but may have substantial debts, which may be represented by the Favors Flaw. See *City and Guild* for more details on trade. A merchant adventurer who owns a share of the company he works for should select the Partner Virtue instead of this one.
 
 #### Mercurian Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Your magical lineage and traditions are from the Roman priests of Mercury, which predate the Order of Hermes, making you especially skilled with Ritual Magic and magic used in conjunction with others. In addition to your standard spell allocation, you also know Wizard's Vigil (page 370) at a level equal to the highest level of Ritual spell that you know, and should you invent or learn a Ritual spell of higher level. you automatically invent a Wizard's Vigil spell of the same level, without needing to spend extra time.
 
 When casting a spell using Wizard's Vigil (page 370) or other spells, such as Wizard's Communion (page 369), with the same function, you may add your Mastery score (page 225) in the spell being cast and your Mastery score in Wizard's Vigil to the effective level of the Wizard's Vigil.
@@ -4952,27 +4538,19 @@ Finally, any Ritual spells which you cast have only half the usual vis requireme
 All known members of the Mercurian lineage also have the Minor Flaw Ceremonial Spontaneous Magic.
 
 #### Method Caster
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are excellent at formulaic spells, as you have perfected a consistent and precise method for casting them. You gain a +3 bonus to the Casting Total of any Formulaic or Ritual spell you cast. However, if you vary at all from your precise method (by altering your gestures or voicing), you do not get this bonus.
 
 #### Mild Aging
-
-Minor, General
-
+*Minor, General*<br>
 The character's aging rolls benefit from a +1 bonus to the Living Conditions Modifier, in addition to whatever his social standing normally offers him. Furthermore, he receives a +3 bonus to rolls to survive an aging crisis. He may be dedicated to living a healthy life, or else have been blessed by some supernatural being.
 
 #### Minor Enchantments
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character has one or more items in his possession that have magical powers. These should be designed as Hermetic enchantments, and the total levels of powers in all the items, after adjustment for uses per day and so forth, must be 25 or less. The character may take this Virtue more than once: add the total levels together, but no single power can be greater than 30th level. If he loses the item or it is destroyed, then it is gone for good.
 
 #### Minor Magical Focus
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic is particularly attuned to some narrow field, such as self-transformation, birds of prey, or healing. In general, the field should be slightly narrower than a single Technique and Form combination, although it may include restricted areas of several such combinations. Healing, for example, is a part of Creo Corpus, Creo Animal, and possibly Creo Herbam, You cannot be focused on a laboratory activity, such as creating charged items, although a focus does apply to laboratory activities.
 
 When you cast a spell or generate a Lab Total within your focus, add the lowest applicable Art score twice, as for a Major Magical Focus (page 94).
@@ -4995,35 +4573,26 @@ A magus may only have one Magical Focus, whether major or minor, regardless of t
 > - Self-transformation: Applies to both Corpus and Mentem.
 
 #### Muqta' (Muq-Ta')
-
-Major, Social Status
-
+*Major, Social Status*<br>
 You are an important emir. entrusted with an iqta' (iq-TAW', similar to a feudal fief). All rules for the Landed Noble Virtue apply, except that most Muslims take the Minor Status Virtue Emir, rather than Knight.
 
 #### Muse
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 A muse possesses that rare beauty that encourages others to rise to worthiness. A character with this Virtue may grant Free Expression to a single other character, or can double the effect of Free Expression that a single character already possesses, while the muse is with him. The artist typically holds the muse in such high regard that he feels the need to continually improve, both in artistic technique and as a person, to be worthy of the muse's attention. Muses may be of either sex, and need not have beautiful bodies.
 
 #### Mystical Choreography
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus's skill at manipulating the shape and movement of the body allows him to reduce the amount of time required to perform Ceremonial Magic. The character performs ceremonies as per page 217, but requires only five minutes per magnitude. If the character has a prepared space, no matter how temporary, this falls to one minute per magnitude.
 
 This Virtue is particularly important to those Jerbiton magi who use ceremonial casting to overcome the penalties associated with the Dominion.
 
 #### Mythic Blood
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You are a blood descendant of either a wizard of legend (possibly one of the Twelve Founders, or some other ancient and powerful sorcerer) or a supernatural being (such as a dragon).
 
 Your potent Gift means that you do not lose Fatigue levels if your Casting Total falls short of the level of a formulaic spell by ten points or less, although you do lose Fatigue if the spell fails completely. When casting Ritual spells, lose three fewer Fatigue levels than normal. This means that you lose no Fatigue levels if you succeed, or fail by ten points or less. You must expend Fatigue normally to cast Spontaneous magic, and if you fail to cast a Formulaic spell you lose the normal number of Fatigue levels.
 
 Additionally, you may choose one special magic feat which you can invoke at will and cancel at will, as often as you like. Invoking this feat takes as long as fast-casting a Mastered Formulaic spell (see page 213), and requires the same level of concentration. The effect should be designed as a non-Ritual Hermetic effect, with a level + Penetration limited as below. The Penetration of the effect is not modified by the magus's Penetration Ability score, and cannot be negative, so that the highest possible level of the effect is 30.
-
 
 | Invocation                | Level + Penetration |
 | --------------------------- | --------------------- |
@@ -5035,33 +4604,23 @@ Additionally, you may choose one special magic feat which you can invoke at will
 This Virtue includes a Minor Magical Focus in an area related to your legendary ancestor and a hereditary Minor Personality Flaw (both at no extra cost). Mythic Blood is not particularly uncommon in the Order of Hermes, so this Virtue does not grant any Reputation.
 
 #### Natural Leader
-
-Minor, General
-
+*Minor, General*<br>
 The character is a dominant person with a demeanor that encourages others to do what he says. His self-assured manner gives him a +3 bonus to rolls in social situations in which he takes the lead; people are more likely to follow his orders or do as he suggests. If he is Gifted, this bonus can temporarily help to overcome the social penalty of The Gift, due to the strength of his domineering personality.
 
 #### Nephilim
-
-Free, Mythic Companion
-
+*Free, Mythic Companion*<br>
 You are one of the Nephilim. and a Mythic Companion (page 63). You receive the Strong Angelic Heritage Virtue free.
 
 #### Notary
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 Notaries are legal officials employed by lords or towns. Your responsibilities include drawing up contracts, witnessing charters, verifying transactions and documents, and affixing a specially designed seal. Notaries generally receive their salary from their employer on Christmas. Notaries only have jurisdiction in specific realms or towns, such as the County of Nimes or the city of Montpellier. The Wealthy Virtue and Poor Flaw affect you normally. Due to your training, you may take Academic Abilities during character creation; however, notaries may not be members of the clergy and are subject to secular law.
 
 #### Nuntius
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The character is a nuntius (messenger), charged with delivering messages, mail, and monetary donations between students and their families. He is employed by a university nation and is not necessarily educated. He is affected by the Wealthy Virtue and Poor Flaw as normal. The character can be either male or female, although travel is obviously more dangerous for a lone female.
 
 #### Paid Rights
-
-Free, Social Status
-
+*Free, Social Status*<br>
 Medieval society has many prohibitions against women holding authority, reflected in the restriction of many Social Status Virtues to men. These provisions need to be enforced for them to be effective, and a woman with sufficient wealth can often buy an exclusion from enforcement, or even permission to do something that is normally forbidden. All a woman need do, if she wishes to be a baroness in her own right, is pay the king enough money that he allows it. All a woman need do if she wishes to hold a smaller fief in her own right, not marry as directed, and not be in wardship, is pay a large enough fine to her guardian.
 
 A player may take this Virtue to note that a female character has paid for the right to do a certain thing that is generally forbidden for women. She may also take a Story Flaw that represents her family's displeasure at this use of her funds, the frustrations of suitors who would take her land by marriage, or other forms of social opprobrium, although this is not required.
@@ -5071,33 +4630,23 @@ There are, however, a few prohibitions that a woman cannot pay a fine to ignore.
 This Virtue is only available to female characters, and is compatible with any Social Status that is normally restricted to men, and any Social Status compatible with the Social Status acquired through the paid rights.
 
 #### Partner
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character has a large financial stake in a wealthy trading company. This provides sufficient income for the character to live as well as a minor member of the nobility. but without military trappings. The company's capo is answerable to his partners, and they are permitted, when practicable, to take their profits in service from the house's captains and factors, if they wish. A partner may act in any of the roles of the house without taking the Virtue that corresponds to that role, save the role of capo, with the permission of the troupe. That is, a partner who is also a factor, merchant adventurer, local carrier, or urban merchant need not purchase that Virtue if she has this one.
 
 #### Peasant
-
-Free, Social Status
-
+*Free, Social Status*<br>
 You live by working the land. You may control quite a lot of land and hire people to work it, if you are wealthy, or be one of the people who is hired, if you are poor. You are free, rather than a serf. The Wealthy Major Virtue and Poor Major Flaw affect you normally.
 
 #### Perfect Balance
-
-Minor, General
-
+*Minor, General*<br>
 You are skilled at keeping your balance, especially on narrow ledges or tightropes. Add +6 to any roll to avoid falling or tripping.
 
 #### Perfect Eye for (Commodity)
-
-Minor, General
-
+*Minor, General*<br>
 For one commodity, and products manufactured from it, the character never fails to make an accurate assessment of value. A character who has a perfect eye for wool, for example, can class wool by touch and always estimate its price accurately. The character can also price woolen cloth and woolen embroidery. A character with a perfect eye for gemstones can always spot fake. cracked, and illusory stones. Characters with this Virtue are prized employees, and are occasionally paid as consultants by other merchants. So long as they trade exclusively in the commodity that matches this Virtue, the character is very successful. If you are using the trading rules in City and Guild, they gain an extra (3 x Wealth Multiplier) Labor Points per year.
 
 #### Perfectus
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are one of the leaders of the Cathar heretics, found mainly in southern France. Your responsibilities include preaching the Gospel, abstaining from eating meat and dairy produce, from sex and romance, and from other acts that ensuare you in the sinful world. You should normally take the Flaw: Vow to represent your solemn religious obligations. You may not take the Wealthy Virtue, as you are supported by the tithes and contributions of your congregations. As a heretic you are at great risk from the Church, which will execute you if you are caught and refuse to recant your beliefs. Due to your training, you may take Academic Abilities during character creation. You may take the Purity and Transcendence Supernatural Abilities from Realms of Power: The Divine Revised Edition (page 53) if your character has the True Faith Virtue, but these are not free Virtues. You may, however, take them as Virtues, as normal. More details on the Cathars can be found in Faith and Flame, from page 13.
 
 > #### Example
@@ -5107,9 +4656,7 @@ You are one of the leaders of the Cathar heretics, found mainly in southern Fran
 > His friend Furioso, another Sorcerous Musician, lacks Subtle Magic. If he has no instrument with him, then, unlike Orlando, he must use normal Hermetic gestures or suffer the penalty for no gestures.
 
 #### Performance Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 In Mythic Europe, many Hermetic magi have learned how to disguise their magical practices by incorporating them fully into a mundane task or action at which they excel. This Virtue lets the magus conceal spellcasting by using the actions or words of some Ability to replace the normal Hermetic gestures and words, and lets him maintain a spell without needing Concentration rolls.
 
 When the Virtue is acquired, specify the Ability to which it applies. You may choose any Craft, Profession, or other Ability with a clear verbal or physical practice. You may not choose any Language, Supernatural, Academic, or Arcane Ability.
@@ -5168,8 +4715,7 @@ Formulaic spells must be devised with the new Duration to use this Ability, if s
 >
 > If a Hermetic magus contemplates Fast Casting to oppose a spell and the caster is using Hermetic words and gestures, a magus may determine the Form automatically (page 217). In other circumstances, the magus must work the Form out.
 >
-> **DETERMINING THE FORM OF A MAGICAL EFFECT:**
-> **Stress Die + Perception + Awareness vs. 15 – effect magnitude**
+> **DETERMINING THE FORM OF A MAGICAL EFFECT: Stress Die + Perception + Awareness vs. 15 – effect magnitude**
 >
 > If the spell is being cast with mundane words or gestures, the Ease Factor is adjusted as follows:
 >
@@ -5178,15 +4724,11 @@ Formulaic spells must be devised with the new Duration to use this Ability, if s
 > +3 if both words and gestures are mundane
 
 #### Persona
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character may adopt one or more flawless disguises, changing both his physical appearance and mannerisms. Choosing this Virtue confers the Supernatural Ability Persona 1.
 
 #### Personal Power
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character has a supernatural power that he can activate at will. This is a single power, equivalent to a Formulaic Hermetic spell with a level of 25 or lower. The power has an Initiative equal to the character's Quickness – (power magnitude/2). It costs one Fatigue level to activate if its level is less than or equal to 50. and two Fatigue levels if its level is 51 to 100. You may also spend levels one-for-one to give the power Penetration; otherwise, it has a Penetration of zero.
 
 The effect must meet at least one of the following criteria:
@@ -5200,28 +4742,20 @@ This Virtue may be taken more than once, and the levels added together to create
 This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Personal Vis Source
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have exclusive access to a supply of raw vis. Determine the amount and type with the help of your troupe, the yield should be about one tenth as much as the player covenant expects to gather per year at the beginning of the saga. The yield of your source does not normally change over the course of time, even if the covenant uncovers new sources.
 
 #### Physician of Salerno
-
-Minor, General
-
+*Minor, General*<br>
 The character has attended the famed School of Salerno, the pre-eminent source of medical learning. Not only does he carry the reputation of the school with him (granting a Reputation of Physician of Salerno 2), but he has also learned some unique medical procedures such as the preparation of anesthetics. This Virtue grants an additional 50 experience points to spend on Medicine, Philosophiae, and medical formulae (if you are using the rules in Art and Academe, Chapter Five). To take this Virtue, you must be able to take Academic Abilities.
 
 #### Piercing Gaze
-
-Minor, General
-
+*Minor, General*<br>
 By staring intently at people you make them feel uneasy, as if you are peering into their souls.
 Those with ulterior motives, uneasy consciences, or lying tongues must make rolls against an appropriate Personality Trait, Guile, or whatever the storyguide deems appropriate, to remain calm. Furthermore, you gain a +3 to rolls involving intimidation. Faeries and demons are unfazed by your power.
 
 #### Potent Magic
-
-Minor or Major, Hermetic
-
+*Minor or Major, Hermetic*<br>
 The maga's magic is particularly attuned to a narrow field, much as in a Magical Focus. The benefits of Potent Magic are compatible with a Magical Focus, unlike a Magical Focus, unlike a Magical Focus, a maga may have more than one area of Potent Magic, although only one Potent Magic Virtue applies to any single activity.
 
 Potent Magic provides the maga with a bonus in her field of magic, and permits her to devise Potent spells that gain a casting bonus from the sympathetic magic in shapes and materials. Potent Magic can be taught as an alternative to a Magical Focus.
@@ -5248,9 +4782,7 @@ A maga with Potent Magic may also invent new Potent spells within the field of h
 >
 > To cast a Potent spell, the caster must touch the specified Casting Items. The items need not be large; they may be small and symbolic (for example, a shield-shaped brooch is still symbolically a shield). If the caster does not have the Casting Items available, the spell cannot be cast at all.
 >
-> For example, a wand provides several bonuses including +2 "repel things" and +4 "control things at a distance." A Potent version of Disguise of the Putrid Aroma could use either
->
-> bonus in its Potency. Combining it with magnetite (+3 Animal) allows a design with either Potency 5 (requires Magic Theory 5) or Potency 7 (requires Magic Theory 7). The caster must hold a wand and piece of magnetite (or a wand set with magnetite) to add the Potency to his Casting Score.
+> For example, a wand provides several bonuses including +2 "repel things" and +4 "control things at a distance." A Potent version of Disguise of the Putrid Aroma could use either bonus in its Potency. Combining it with magnetite (+3 Animal) allows a design with either Potency 5 (requires Magic Theory 5) or Potency 7 (requires Magic Theory 7). The caster must hold a wand and piece of magnetite (or a wand set with magnetite) to add the Potency to his Casting Score.
 >
 > Potency applies only to Formulaic spells — Spontaneous Magic allows Ceremonial Casting to produce similar results, and enchanted devices use Shape and Material Bonuses during enchantment.
 >
@@ -5265,29 +4797,21 @@ A maga with Potent Magic may also invent new Potent spells within the field of h
 > In addition, a magus who knows a spell within the field of his Potent Magic may invent a variant spell with different Casting Items (including a variant with no Casting Items). If the only difference is a change in Casting Items, he may invent the variant as if in possession of a Lab Text. If, for any reason, his current Lab Total is lower than the level of the spell, he may still invent the variant in a single season.
 
 #### Powerful Relic
-
-Major, General
-
+*Major, General*<br>
 You own an unusually powerful relic with a True Faith score of 3. The relic also has one power, which should be agreed upon with the storyguide (see Relics, page 419). As with the Minor General Virtue Relic, the item may be built into any other item that you possess, like a sword or a pendant.
 
 Owning such a powerful relic is a great responsibility, and your character should behave in an appropriate manner. If you ever behave impiously (as judged by the storyguide) your relic will cease to function until suitable penance is made.
 
 #### Premonitions
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You intuitively sense whenever something is wrong, or is likely to go wrong soon. Choosing this Virtue confers the Ability Premonitions 1 (page 170).
 
 #### Prestigious Student
-
-General, Minor
-
+*General, Minor*<br>
 The character is a son of a nobleman or a prosperous merchant, matriculated in a university that specializes in either Civil Law or Medicine. He has a small group of retainers with him, two or three servants who attend to his needs while at the university. He was trained in Artes Liberales and Latin by a private tutor, and may purchase Academic Abilities at character generation. The character must take a Social Status Virtue to reflect where he is in the educational process.
 
 #### Priest
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You have been ordained a priest, which means that you can carry out the sacraments of the Mass, Penance, and Extreme Unction.
 By your words, you can cause the Son of God to manifest in bread and wine. As a priest you come under the protection of canon law, meaning that you cannot be prosecuted by secular authorities. You are accorded considerable respect due to your position, and few people are willing to insult you.
 
@@ -5298,63 +4822,45 @@ If you are not a parish priest, the Wealthy Virtue and Poor Flaw affect you norm
 You may purchase Academic Abilities during character generation. If you are a priest in the western Church, under the Pope in Rome, you would normally take the Minor Personality Flaw Vow (see page 150) as one of your normal Flaws. for your vow of celibacy. Priests in the eastern Church, under the Patriarchs in Constantinople and elsewhere, need not be celibate. This Virtue is only available to male characters, and is compatible with the Magister in Artibus Major Virtue, and with some other Virtues, as noted in their descriptions.
 
 #### Privileged Upbringing
-
-Minor, General
-
+*Minor, General*<br>
 You grew up in an environment where you had access to teachers and free time for study. You have an additional 50 experience points, which may be spent on General, Academic, or Martial Abilities. You may not, however, buy Academic or Martial Abilities with your normal pool of experience points unless you have another Virtue or Flaw permitting that. The most common reason for this Virtue is that your family was wealthy while you were a child, but if you are wealthy now, you should take the Wealthy Virtue (page 115).
 
 #### Protection
-
-Minor, General
-
+*Minor, General*<br>
 You are under the aegis of a powerful person, usually a noble or high-ranking Church official (though other options are
 possible, if the storyguide approves). Those who know of your favored status treat you carefully, those who do not often pay the price. You have a
 Reputation (good or bad, your choice) of level 3, which could be higher if your protector is particularly great or well-known.
 
 #### Puissant Ability
-
-Minor, General
-
+*Minor, General*<br>
 You are particularly adept with one Ability, and add 2 to its value whenever you use it. Note that you do not, in general, use an Ability when learning it, writing about it, or helping someone else to improve it. You may only take this Virtue once for a given Ability, but may take it more than once for different Abilities.
 
 #### Puissant Art
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You add 3 to the value of one Art whenever you use it. This means all totals in which the score of the Art is part of the total. It does not apply when learning, teaching, or writing about the Art. You may take this Virtue twice, for two different Arts. If a spell has requisites, include the bonus from Puissant Art with that Art when calculating which Art is higher. If the Puissant Art is higher, the bonus does not apply to the requisite.
 
 #### Quiet Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You can cast spells using only a soft voice at no penalty, and at only a –5 penalty if you do not speak at all. You gain no benefits from using your voice normally but gain the normal benefit for using a booming voice. The range of Voice Range spells is determined normally, based on how loud your voice is.
 
 You may take this Virtue twice, and eliminate the penalty altogether.
 
 #### Rabbi
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 Your character is an ordained Rabbi, a teacher and wise man of the Jewish community. He is afforded the respect due from all within his community, who look to him for leadership and guidance. As a rabbi, your character is expected to teach students, to study and write upon the law, and to pass judgment upon cases brought before the Jewish court.
 
 The rabbi must take the Educated (Hebrew) Virtue to provide the required Academic Abilities. This Virtue is only available to male characters.
 
 #### Rapid Convalescence
-
-Minor, General
-
+*Minor, General*<br>
 Your body can heal quickly. You get a +3 bonus on all rolls to recover from wounds.
 
 #### Rat Up a Drainpipe
-
-Minor, General
-
+*Minor, General*<br>
 Using a mixture of acrobatics, climbing and dodging, this character can run through urban areas as if unobstructed. This gives a substantial advantage in opposed Athletics rolls which represent being chased.
 
 #### Redcap
-
-Major, Social Status
-
+*Major, Social Status*<br>
 Although you do not have The Gift and cannot work Hermetic magic, you are a full member of the Order of Hermes and of House Mercere (see page 15). There are Gifted members of House Mercere, but they do not take this Virtue, taking the Hermetic Magus Social Status (page 85) instead.
 
 You deliver messages for the Order, and you possess a number of enchanted devices to help you do this. A newly-Gauntleted Redcap has enchanted devices with fifty levels of effect, including modifications to the level due to factors such as the number of uses per day (see the Laboratory chapter, page 256, for details).
@@ -5364,35 +4870,25 @@ These levels are invariably split between two or more effects useful for deliver
 You are supported by your covenant, so you cannot take the Wealthy Virtue or Poor Flaw. You may not take The Gift. You must spend two seasons per year delivering messages for the Order. Your other two seasons are, however, genuinely free, and you may do whatever you wish. This Virtue is available to male and female characters.
 
 #### Relic
-
-Minor, General
-
+*Minor, General*<br>
 You own a holy relic, such as the finger bone of a saint, with a True Faith Score of one. This can be built into any other item you possess (a sword, for instance). The relic does not possess any additional powers. See Chapter 12: Realms for rules for relics and True Faith.
 
 #### Religious
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a monk, a nun, a beguine, an anchoress or anchorite, a holy hermit, or similar. You may take Academic Abilities for the character during character generation. The Wealthy Virtue and Poor Flaw are unlikely to be appropriate.
 
 Note that for a friar character you should take the Mendicant Friar Virtue instead. Monks ordained as priests should instead take the Priest Social Status. Senior monks and nuns should instead have the Senior Clergy Social Status.
 
 #### Reserves of Strength
-
-Minor, General
-
+*Minor, General*<br>
 Once per day, when in need, you can perform an incredible feat of strength. For the duration of the action, add +3 to your effective Strength score. Afterwards, though, you must make two Fatigue rolls.
 
 #### Ripper
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 A ripper has two powers. He can destroy a single piece of cloth, or disembowel a single animal, by spending a Fatigue level, at Sight range, without words or gestures. These are a PeAn(He) 25 and a PeAn 45 effect, each with +0 Penetration. Note that this description is deliberately limiting: a ripper can't break a horse's leg or send it blind. A ripper cannot sever a rope. A ripper cannot cleanly slice things with his mind. The ripper has two, entirely inflexible, effects.
 
 #### Ritual Power
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character has a supernatural power that he can activate at will. This is a single power, equivalent to a Ritual Hermetic spell with a level of 25 or lower. The power has an Initiative equal to the character's Quickness – (twice power magnitude). It costs one Fatigue level to activate if its level is less than or equal to 25, two Fatigue levels if its level is 26 to 50, and so on. In addition, you must spend one Confidence Point for every magnitude of the effect. You may also spend levels onefor-one to give the power Penetration, otherwise, it has a Penetration of zero.
 
 This Virtue may be taken more than once, and the levels added together to create several powers or a single stronger power.
@@ -5400,55 +4896,39 @@ This Virtue may be taken more than once, and the levels added together to create
 This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Rosh Beth Din
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The Rosh Beth Din, or Head of the Court, presides at the Beth Din rabbinic court. Your character must be (30 – Int) years old to take this Virtue and have scores of at least 5 in Hebrew, Rabbinic Law, and Theology: Judaism. Your character may purchase Academic Abilities at character generation and gains 50 extra experience points to be spent on the required Abilities.
 
 The Rosh Beth Din gains the +2 good Reputation Rosh Beth Din, which applies across his country. This Virtue also includes the effects of the Social Contacts Virtue and you are able to find contacts within any Jewish community that supports a yeshivah. This Virtue is only available to male characters.
 
 #### Schooled in Crime
-
-Minor, General
-
+*Minor, General*<br>
 The character has been trained extensively in the criminal arts, and has 50 additional experience to spend on Abilities related to thievery. Area Lore, Athletics, Awareness, Bargain, Brawl, Charm, Guile, Legerdemain and Stealth are all suitable, and other Abilities may be added to this list with troupe approval.
 
 #### Second Sight
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are able to see through illusionary concealment and disguise, including invisibility, and can also see naturally invisible things such as spirits and the boundaries between regio levels (see page 421). Choosing this Virtue confers the Ability Second Sight 1 (page 170).
 
 #### Secondary Insight
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your method of magical study is especially versatile. When you spend a season studying one of the magical Techniques from a book, a teacher, or raw vis, you also gain a single experience point in any 4 Forms of your choosing. When studying one of the magical Forms, you also gain a single experience point in any 2 separate Techniques of your choosing. You may not put more than one bonus experience point into a single Art, and may choose different Arts to receive the bonus experience points in each season, even when continuing to study the same Art from the same source. These bonus experience points are not increased by Affinities or any other factors.
 
 #### See in Darkness
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You can see in complete darkness. Other than that, your eyesight is not more acute than ordinary people's, and you do not see farther than normal people would see in daylight.
 
 #### Self-Confident
-
-Minor, General
-
+*Minor, General*<br>
 You have firm confidence in your own abilities, and have a Confidence Score of two. You also start with five Confidence Points, rather than the usual three. (See page 52 for Confidence rules.)
 
 #### Senior Bard
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character has spent five or six years at a bardic school, and is ranked a Cano or Cli respectively. The character has a Local Reputation of 2 representing his fame as a storyteller.
 
 The character has a minimum age of 22, and you can spend experience points on any Realm Lore at character creation even if otherwise unable to take Arcane Abilities. The character should have at least one Area Lore, Realm Lore, or Organization Lore at a score of 5, and has an extra 90 experience points to spend on Art of Memory, Profession: Storyteller, Profession: Poet, any Area Lore, any Organization Lore, Faerie Lore, or Magic Lore. This Social Status is only available in Hibernia.
 
 #### Senior Clergy
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character is an archbishop, bishop, abbot, abbess, or other senior member of the Church. He has access to the resources of the Church and may have additional duties and powers according to his office.
 
 You may make take either the Wealthy or Poor Virtue/Flaw for the character. This does not necessarily represent the status of the character's diocese instead it represents the personal wealth of the character. Senior clergy can amass wealth by receiving the benefice of several offices. Indeed, it is not unusual for a character to receive the benefice from various parishes scattered throughout Mythic Europe. He may never even visit some of the dioceses in which his parishes are located. although obviously the character needs to employ a curate to discharge the actual priestly duties in these remote parishes.
@@ -5460,88 +4940,62 @@ You may purchase Academic Abilities for the character during character generatio
 Senior clergy are subject to canon law, and must be celibate and tonsured (if male). Note whether the character has been ordained as a deacon, priest, bishop, etc. Abbess is the only common position available to women with this Virtue, and even such women are not ordained. The Paid Rights Virtue does not enable women to take any of the other positions.
 
 #### Senior Master
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character has been a prosperous guild master for a number of years and has risen to a position of authority in his guild. He has knowledge of guild affairs and participates in the self-governing of the guild. He may own multiple workshops and employ a large number of workers. You may select Academic Abilities at character generation.
 
 #### Sense Holiness and Unholiness
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are able to feel the presence of good and evil. In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you.
 Choosing this Virtue confers the Ability Sense Holiness and Unholiness 1 (page 170).
 
 #### Sense Passions
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character can see into the hearts and minds of others, learning their weaknesses, fears, and evil thoughts. This gives her the Supernatural Ability Sense Passions at 1 (page 170).
 
 #### Shadchan
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The shadchan is a marriage arranger, trusted by prospective parents to find the best matrimonial match for their sons and daughters. The shadchan will ensure a match of backgrounds, wealth, education, and character. They are able to do this by forging relationships with all the families in the community, and because of this the shadchan should be both honest and a good judge of character. The role of shadchan is open to both men and women alike and this Virtue is compatible with any other Minor or Free Social Status Virtue.
 
 The shadchan receives an extra 50 experience points to be spent on social Abilities and an Area Lore appropriate for their community.
 
 #### Shamash
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The shamash is the servant of the synagogue and responsible for its well-being. He must ensure that the synagogue is clean and in good repair that it is available for all the community. He is also responsible for waking the community early each morning so that they can attend prayers and for making announcements concerning services, births, marriages, and deaths.
 
 As a shamash, the character must have the Educated (Hebrew) Virtue.
 
 #### Shapeshifter
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You may change your shape into that of one or more mundane animals. Choosing this Virtue confers the Ability Shapeshifter 1 (page 171).
 
 #### Sharp Ears
-
-Minor, General
-
+*Minor, General*<br>
 You hear better than most. You get a +3 bonus to all rolls involving hearing.
 
 #### Side Effect
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic has some incidental feature that is generally useful, though occasionally annoying. The intensity of the side effect increases with the level of the spell. Examples include a commanding presence when casting that translates into a temporary +1 Presence bonus for a short time after casting, or a calm state of mind derived from casting which allows a bonus on Concentration rolls for a short time after casting.
 
 #### Simple Student
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is a university student who is has not yet taken a degree. He is typically between 14 and 16 years old and somewhere along his university program. He receives 30 experience points per finished year that he can apply to Latin or Artes Liberales. If he has finished his second year of studies, he is in the liminal position of either applying for work or continuing his education. Female characters can only take this Virtue if they are studying to be physicians at Salerno, although the Paid Rights Virtue would allow them to take this Virtue elsewhere. However, at other universities they would not be able to graduate.
 
 More than half of all university students are Simple Students.
 
 #### Skilled Parens
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your parens was more powerful, or a better teacher, than is common. You gain an additional 60 experience points and 30 spell levels during apprenticeship. This Virtue has no effect on your study after apprenticeship, but you still have a close relationship with a powerful magus.
 
 #### Skilled Smuggler
-
-Minor, General
-
+*Minor, General*<br>
 The character can hide one item on his person, and attempts to find it suffer a –9 penalty on Awareness rolls. The item cannot be larger than a dagger, and the character may swap which items are hidden with a few minutes of work. Wealthy characters often procure collapsible tools to use in conjunction with this Virtue.
 
 #### Skinchanger
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have a magical cloak, animal skin or similar item made from an animal. While in physical contact with it, you may transform into the form of the animal represented by the item. The transformation takes one full round, and you retain both intelligence and sentience while in animal form. Clothing and possessions (save the animal item) do not transform, and you may be seen as a transformed human with InAn or InCo, or similar spells. If the item is stolen, the new owner has an Arcane Connection to you, and you may not transform until the item is retrieved. If the item is destroyed, you can make a new one over the course of a season. although the method varies depending on what the item is. Skinchangers may transform into any non-magical animal between Size -10 (robin) and Size +2 (bear). The character has the normal physical characteristics of the animal, except that +3 is added to the character's Soak score (in animal form only).
 
 #### Skinchanger (Dove)
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 This is a more powerful variant of the Minor Virtue above.
 
 The character does not need to carry a bundle of feathers to use as a skinchanger's cloak. She can, over the course of a week, prepare any artistic representation of a feather, or a single real feather, to act instead of a bundle of feathers. She may have several feathers prepared at one time, and may use feathers prepared by any other character with this Virtue. Most own several small pins or brooches, and in the city where such characters are active, they have hidden additional pins in accessible places, like the baths. Characters may also use little pieces of stone with feathers engraved on them, which they swallow. These lodge in the crop of the dove form, and can be regurgitated into the mouth at will.
@@ -5553,41 +5007,29 @@ The character has the statistics of a common dove when in animal form, save that
 This Virtue is particularly associated with an all-female magical tradition called the Daughters of Four Fathers, found in north Africa (see *Between Sand & Sea*, page 107).
 
 #### Social Contacts
-
-Minor, General
-
+*Minor, General*<br>
 You have a broad range of acquaintances in a specific social circle (specified when this Virtue is purchased), accumulated over years of travel and socializing. Almost everywhere you go, you meet someone you know, or can get in touch with someone who can help you. Whenever you are somewhere new, you can contact someone on a simple Presence roll against an Ease Factor of 6. The storyguide may modify this target number upward for very small areas or areas where it is extremely unlikely that you would know someone. You may purchase this Virtue more than once, each time specifying a different social group.
 
 #### Sofer
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The sofer is the scribe whose role it is to create a new Sefer Torah, or repair any fading or damage to an existing scroll, as required. The sofer must be educated and able to read and write Hebrew as the act of scribing the Sefer Torah requires knowledge and understanding of the text.
 
 As a sofer, the character must have the Educated (Hebrew) Virtue.
 
 #### Special Circumstances
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are able to perform magic better in certain uncommon situations (such as during a storm or while touching the target), gaining a +3 bonus to your Casting Scores and Magic Resistance. (A character only gains a bonus to Magic Resistance if she has Magic Resistance from another source.) You may take this Virtue more than once, but you only gain a +3 bonus even if more than one set of circumstances applies.
 
 #### Spell Improvisation
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus may add the magnitude of a Formulaic spell he knows as a bonus to his Casting Total when Spontaneously casting a spell that is similar to it (see Similar Spells, page 260). This includes fast-casting a spell that is the same as or very similar to one of his Formulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case you add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
 
 #### Spirit Votary
-
-Free, Mythic Companion
-
+*Free, Mythic Companion*<br>
 Taking this Virtue at character creation makes the character a Spirit Votary, a kind of Mythic Companion (page 63). This Virtue grants the Second Sight Virtue for free, and allows the character to have two points of Virtues for every point of Flaw.
 
 #### Spiritual Pact
-
-Major, Subernatural
-
+*Major, Subernatural*<br>
 The character has made a pact or agreement with a powerful Magical spirit, and in return for loyal service, is granted access to that spirit's power. The pact serves as an Arcane Connection to the character of indefinite duration, which the spirit can use to make itself aware of the current location and state of health of its servant.
 
 The character can channel the power of the spirit by spending a Confidence Point. Make a Presence + Magic Lore + stress die roll: this is the amount of Magic Might Pool that the character acquires from his spiritual master. The Might points acquired are always less than the current Might points of the spirit, regardless of the roll's result. On a botch, the character loses all current Confidence points. This action is equivalent to spellcasting with regard to the concentration it requires. The character can spend these Might points on any of the spirit's powers. Penetration is calculated in the usual way for magical creatures using the initial Might Pool in place of Magic Might, and including the character's Penetration Ability, if any.
@@ -5599,9 +5041,7 @@ While the connection to the spirit is active, there is some visual manifestation
 The storyguide should decide upon the powers of the spirit. With the agreement of the troupe, this Virtue could be used to channel the power from a spirit of a different Supernatural Realm; or from a group of closely related spirits, such as a small pantheon of pagan "gods," but care should be taken not to grant the character too much flexibility with this one Virtue. A character can only have a single pact.
 
 #### Strong Angelic Heritage
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Your angelic heritage is purer, granting you a Divine Might score and supernatural powers. This Virtue may only be taken if you have the Major Virtue Blood of the Nephilim.
 
 You are a divine being and possess a Divine Might (Corpus) score equal to your age divided by 20, which increases as you grow older. This grants you a Magic Resistance score. You contain a number of pawns of Corpus vis equal to your Divine Might divided by 10 (rounded down, but always at least one pawn) that can only be extracted if you are dead. You are immune to Warping of any sort, and may not have any supernatural powers that derive from a realm other than the Divine.
@@ -5611,9 +5051,7 @@ You have up to thirty levels of holy powers that may be invoked by spending Migh
 You may take this Virtue multiple times. Each additional time you take it increases by thirty the number of levels of holy powers you may invoke. but has no other effect; in particular, it does not increase your Divine Might.
 
 #### Strong Faerie Blood
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The blood of the fay is strong in you. Perhaps one of your parents was actually a faerie, or maybe you were conceived or born in a place of great faerie power. This ancestry grants you several abilities.
 
 First, you have natural longevity. You start making aging rolls at the age of fifty, rather than the normal 35, and get –3 to Aging Rolls, cumulative with any other bonuses.
@@ -5629,21 +5067,15 @@ You may not have both Faerie Blood and Strong Faerie Blood.
 This is a Supernatural Virtue, and you cannot lose it when being trained as a magus (see page 64). If your master cannot preserve the ability, you cannot be trained.
 
 #### Strong-Willed
-
-Minor, General
-
+*Minor, General*<br>
 You cannot easily be coerced into activities, beliefs, or feelings. You get +3 on any roll which may require strength of will.
 
 #### Student of (Realm)
-
-Minor, General
-
+*Minor, General*<br>
 You have been trained in the mystical aspects of one of the four realms of power (Divine, Faerie, Infernal, or Magic), and you have a +2 bonus on all uses of the appropriate Lore. You may take that Lore at character generation even if you cannot learn other Arcane Abilities. You may take this Virtue multiple times, for a different realm each time. You may not take Student of (Realm) and Puissant Ability for the same Lore.
 
 #### Study Bonus
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 When given the opportunity to study an Art from books or raw vis in the presence of the Form or Technique, your surroundings give you new insights into your studies. Add two to die rolls to study from vis, or two to the Quality of any text you study from. Your current Art score determines the magnitude of the surroundings you require to get the bonus. See the table for some guidelines.
 
 > #### Study Bonus Examples
@@ -5660,15 +5092,11 @@ When given the opportunity to study an Art from books or raw vis in the presence
 > | 35        | Flying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego) |
 
 #### Subtle Magic
-
-Minor. Hermetic
-
+*Minor. Hermetic*<br>
 You may cast spells without using gestures at no penalty. You gain no benefits from using normal gestures but gain the normal benefit for exaggerated gestures.
 
 #### Sufi
-
-Minor, Social Status, Supernatural
-
+*Minor, Social Status, Supernatural*<br>
 You are a Muslim mystic, seeking a closer union with God through asceticism and rituals. You are a member of a tariga of Sufis led by a shaykh. While the group supports you in times of need, your shaykh expects equal commitment from you to him or her and the other members: you should choose an appropriate Minor Story Flaw, such as Mentor, which does not yield any points for buying Virtues. See Realms of Power: The Divine Revised Edition, page 116, for details of the supernatural powers wielded by some Sufis. It is also possible to be an entirely mundane Sufi, in which case you should take this Virtue as a Social Status Virtue.
 
 Most Muslims treat you with respect for your pious lifestyle. You may purchase the Abilities Theology: Islam, Islamic Law, and Dominion Lore at character creation.
@@ -5676,15 +5104,11 @@ Most Muslims treat you with respect for your pious lifestyle. You may purchase t
 This Virtue may be taken by both male and female characters, either as a Minor Social Status Virtue or a Minor Supernatural Virtue.
 
 #### Summon Animals
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You are able to summon animals to your side. This Virtue grants a score of 1 in the Supernatural Ability Summon Animals.
 
 #### Supernatural Beauty
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character possesses that style of mystical beauty that, when threatened, calls royal power, folk magic, and heroism to its defense. A player may use this Virtue, once per story, to ask a storyguide to insert a fortunate coincidence. of the storyguide's choice, into a scene. The troupe may veto the use of the Virtue in any situation where supernatural aid seems profoundly unlikely. Characters with this Virtue are frequently assisted by passing knights of chivalrous inclination, often find magic weapons, and frequently have their jailers, or their jailers' daughters, fall in love with them.
 
 Faeries frequently assist characters with this Virtue. Faeries understand the classic forms of aid that beauty evokes in stories, and so many of the magical steeds and wandering princes the character encounters are actually faeries, watching the story unfold from the inside.
@@ -5692,9 +5116,7 @@ Faeries frequently assist characters with this Virtue. Faeries understand the cl
 A character lacking a positive Presence score may not have this Virtue.
 
 #### Tainted Treasure
-
-Minor, General, Tainted
-
+*Minor, General, Tainted*<br>
 The character has inherited or acquired a vast amount of treasure, but it is cursed to cause harm. This treasure might come from an ancestor who made a deal with demons, or tricked them out of money. It might have been stolen from one of the secret caches that demons maintain, so that they have wealth nearby to tempt humans. A tainted person who rebels, and swaps the Tragic Life Flaw for the Plagued by Supernatural Entity Flaw, might be tempted to retain some of the valuable props provided for their role. The treasure is sufficient that the character could transform it into a source of the Wealthy Virtue. As examples, the character could buy a ship and become a trader, or buy land in a city and become a landlord.
 
 The difficulty is that the wealth is cursed, so it lacks the natural increase in bounty that is a gift from God. If traded for other items of value, the curse moves to these items. Any venture into which it is invested will, eventually, fail. Any building it is used to purchase will, eventually, burn down. If it is used for a nonsinful purpose, the treasure destroys itself: gold given to charity turns to sand, ships used to ferry supplies to the starving steer themselves onto rocks.
@@ -5706,82 +5128,56 @@ The wealth may be used to purchase the services of people, who, because they hav
 > The Poor Knights of the Temple of Solomon, the Knights Templar, are an extremely important and influential order in Mythic Europe. Women cannot pay a fine, with the Paid Rights Virtue, to take a role in the order that is restricted to men. For full details, see Chapter 7 of The Church.
 
 #### Templar Administrator
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character is technically a brother-knight or brothersergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties mean he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
 
 #### Templar Commander
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a wellknown figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
 #### Templar Confrere or Consoeur
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The character is an associate member of the Poor Knights of the Temple of Solomon, and has taken one or two of the Templar vows. His membership is generally temporary (although it need not be), and he may possess other Social Status Virtues or Flaws to reflect his true station, such as Clerk, Knight, Landed Noble, Peasant, or even Hermetic Magus. His former outside status affects his treatment in the order — knights and nobles receive more respect than commoners. Women may also become associate members (consoeurs), although they are housed separately from the men. Associates are governed by the same rule as full members, although they have fewer rights. Some associates may hold important positions within a particular Templar commandery, especially if they possess a valuable skill.
 
 #### Templar Office Holder
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character holds a position within the local hierarchy of the Poor Knights of the Temple of Solomon, such as the deputy commander, marshal, or infirmarer. He may give orders to brothers in his region, is accorded the considerable respect due to his position, and has the power to enforce the rule and its various laws, although he answers to the local commander. Because of his high position, he is a well-known figure and has a Reputation of level 2 in his region. You may take this Virtue with any of the Templar Status Virtues, as your character may be a senior brothersergeant or senior Templar chaplain. This Virtue is compatible with the Temporal Influence Minor Virtue. If you take this virtue with the Templar Commander Major Virtue, then your character holds one of the few exalted ranks within the Templars, such as grand commander or grand marshal, or a rank that has authority over the Eastern or Western region of the order, in which case you likely reside in Acre, Paris, or London.
 
 #### Templar Prestige
-
-Minor, General
-
+*Minor, General*<br>
 A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level
 4 within the Templars.
 
 #### Templar Servant
-
-Free, Social Status
-
+*Free, Social Status*<br>
 The character is a servant working at a commandery of the Poor Knights of the Temple of Solomon. He is supported by the Templars, and probably lives in the commandery itself or close by. He also receives payment as befits his profession. As a servant of the Templars, he is covered by the papal bull exempting him from secular and lay authority, and is generally accorded some respect by non-Templars.
 
 #### Templar Specialist
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character works as a skilled employee of the Poor Knights of the Temple of Solomon. filling a crucial role for which the Templars have no full or associate member, such as craftsmen, blacksmiths, artisans, notaries, squires, soldiers, scribes, or translators. You may take one restricted group of Abilities during character creation, such as Academic or Martial Abilities. As a servant of the Templars, the character is covered by the papal bull exempting him from secular and lay authority, and is generally accorded some respect. This Virtue may be taken by Muslim characters, who will typically act as translators (and who should also take the Outsider Flaw or similar).
 
 #### Temporal Influence
-
-Minor, General
-
+*Minor, General*<br>
 Through blood or a position of trust, you enjoy some political weight in society. You have the ear of a leader and may yourself lead common folk at times, if they respect your position. The more influence you have, the more responsibility, and the harder it is to work unopposed with magi. Grogs may not take this Virtue.
 
 #### Tethered Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You can pass control of your non-Ritual spells to others, just as if they were the caster, "tethering" the magic to them for the spell's duration. You may also tether a spell to an object, which can then transfer the spell to an appropriate target when it comes into range. This can even be done whenever you activate an effect in a magic item. However, a side effect of this sort of magic is that all of your spells and the effects of any magic items you activate are Arcane Connections to you.
 
 #### Tough
-
-Minor, General
-
+*Minor, General*<br>
 You can take physical punishment better than most people. You get a +3 bonus on your Soak score.
 
 #### Town Magistrate
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character has a position of judicial responsibility in a town, with a small staff of minor officials (up to five individuals). The character must be a citizen of the town, have a score of at least 3 in the Civil and Canon Law (or Common Law) Ability, and is paid a wage or gains special privileges in return for his services. Being a magistrate occupies the character for two seasons each year, but he is free for the remaining two seasons. Academic Abilities may be bought for the character, during character generation.
 
 #### Trained Assassin
-
-Minor, General
-
+*Minor, General*<br>
 This Virtue is only available to characters with one of the Social Status Virtues of the Nizaris. He has completed several missions on behalf of his masters, giving him 50 additional experience points that may be spent on any Martial Abilities as well as Athletics, Guile, or Stealth.
 
 #### Troubadour/Trobairitz
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 Troubadours are wandering minstrels and poets ("trobairitz" is the feminine form). The tradition originated in southern France (see Faith and Flame, page 12), but has spread across much of western Europe.
 
 You are not tied to any community and survive by performing, entertaining, or doing other casual work. You may take Academic skills during character creation and should have a reputation regarding the sort of material you produce and your adherence to the tenets of courtly love. The Wealthy Virtue and Poor Flaw affect you normally, although if you are wealthy, you are supported by someone. Your supporter does not question your activities in any way, however.
@@ -5789,59 +5185,41 @@ You are not tied to any community and survive by performing, entertaining, or do
 Troubadour characters often possess Virtues such as Famous, Free Expression, Inspirational, Puissant Performance, Social Contacts, True Love, and Well-Traveled.
 
 #### Troupe Upbringing
-
-Minor, General
-
+*Minor, General*<br>
 You were raised among a group of entertainers, spending much of your childhood traveling from town to town. Rolls involving Abilities in a selected area (which you should have approved by the storyguide) receive a +2 modifier. Examples might include tumbling and acrobatics, knife throwing and juggling, or storytelling and acting.
 
 #### True Faith
-
-Major, General
-
+*Major, General*<br>
 Through piety and holy devotion you have faith that can move mountains. You have a True Faith score of 1 and can gain more. For more about True Faith, see page 419.
 
 #### True Love (PC)
-
-Minor, General
-
+*Minor, General*<br>
 You have found the one person meant for you in all of creation. and the bond between the two of you cannot be sundered. Whenever you are suffering, in danger, or dejected, the thought of your love gives you strength to persevere. Thus, you may add +3 to appropriate Personality Trait rolls, and add additional bonuses as allowed by the storyguide (never in excess of +3) to activities that will return you to your love, or save her life. In dire need, she may even come to rescue you. On the other hand, you are tied to your lover, to whom you must return frequently. If you do not, you may suffer penalties to most actions requiring spirit due to melancholy. If any enchantment keeps you from your true love's side, the power of your devotion can probably break it. Your True Love is another player character, who must also have this Virtue. True Love is never one-sided.
 
 This Virtue may be renamed 'True Friend' to cover equally close attachments which are not romantic.
 
 #### Turb Trained
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 This character has grown up at the covenant, been trained to fight in the turb, and picked up a few things from the magi's trusted servants. At character creation, he is allowed to learn Martial Abilities. He may also learn whichever single dead language the magi speak in addition to his local tongue. His fortunes are tied to the turb, and he is thus prohibited from being Wealthy or Poor.
 
 #### Unaffected by The Gift
-
-Minor, General
-
+*Minor, General*<br>
 The character is not affected by the negative effects of The Gift or Magical Air in others. Even a Blatant Gift does not especially bother the character.
 
 #### Unaging
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You do not suffer the effects of age. In game terms, your aging points do not decrease your Characteristics, only building up to give you Decrepitude points. If a crisis is not potentially fatal. you suffer no ill-effects. You may die from terminal and potentially fatal crises, according to the normal rules. You are not enfeebled when you reach four Decrepitude points, but you die as normal when you reach five. You may choose your apparent age freely, although if you are basically human it should be less than or equal to your actual age.
 
 #### Unbound Tongue
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Whenever the character is transformed into a non-human form (whether by spell, magic item, curse, or a heartbeast) he may speak any human languages he knows with no impediment. If he is a magus, he may use his voice as normal to cast spells.
 
 #### University Grammar Teacher
-
-Minor. Social Status
-
+*Minor. Social Status*<br>
 The character is employed by a university to teach its younger members grammar. The character can be of any age or gender. They may purchase the Academic Abilities: Latin and Artes Liberales at character generation, and should have a score in Teaching. They must teach two seasons out of the year.
 
 #### Variable Power
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 One of the character's magic powers (Greater, Lesser, Personal, or Ritual) becomes more powerful over time, based on either (age / 10), (Might Score / 5), Warping Score, or his score in an appropriate Ability. (Age and Warping should not be allowed as variables if the character is immune to their effects.) For example, an effect that allows the character to change his shape into an animal might be associated with a special Ability, and his score in that Ability would determine how many different animals he could become.
 
 Generally speaking, a single power can have its effect level increased by five, or include another effect of the same level that is similar the original, for each level of variance. For a character with Variable Powers based on his age, for example, this would mean the effectiveness of one of his powers would be increased by a total of five magnitudes after he has lived for 50 years.
@@ -5849,89 +5227,61 @@ Generally speaking, a single power can have its effect level increased by five, 
 This Virtue may be taken more than once, if the character has more than one power, but it only applies once to a single power.
 
 #### Venditor
-
-Major, Social Status
-
+*Major, Social Status*<br>
 The character is a venditor, a selling-agent for a Verditius maga, bartering her goods to other interested mundane parties. He is most likely a minor noble, ousted merchant-guild master, or defrocked cleric. He may select Academic Abilities at character generation. You also receive 50 additional experience points that you can put in Bargain, Charm, Folk Ken, Guile, Intrigue, or any Living Language.
 
 #### Venus' Blessing
-
-Minor, General
-
+*Minor, General*<br>
 People are often attracted to you. You get +3 on Communication and Presence rolls with sexually compatible characters in appropriate situations. At times you can put this to good use. At other times it's an annoyance.
 
 #### Verditius Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have been initiated into the Outer Mystery of Verditius Magic (see page 240), and thus are a member of House Verditius. Note that all Verditius magi gain this Virtue for free at character creation.
 
 #### Voice of the (Land)
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character can speak with any creature whose natural habitat is a particular environment associated with this Virtue (including animals and magic beings), and the character is not normally perceived as either a threat or a prey object by these creatures.
 
 #### Wanderer
-
-Free, Social Status
-
+*Free, Social Status*<br>
 You are not tied to any community, and survive by doing casual work of some sort. The Wealthy Major Virtue and Poor Major Flaw affect you normally. although if you are Wealthy you are supported by someone or some institution. Your supporter does not question your activities in any way, however.
 
 #### Warrior
-
-Minor, General
-
+*Minor, General*<br>
 You have been trained to fight, and may have spent some time campaigning, perhaps on one of the Crusades. You may acquire Martial Abilities during character creation, and gain an additional 50 experience points which must be spent on Martial Abilities.
 
 #### Ways Of The (Land)
-
-Major, General
-
+*Major, General*<br>
 You have a deep understanding of a type of terrain, feeling more natural and at home there than anywhere else. Examples include Ways of the Forest, Ways of the Mountain, Ways of the Steppe or Ways of the Town. You get a +3 bonus to all rolls, including combat and Casting Scores, that directly involve that area and its inhabitants; mundane, magical, or faerie. In addition, you roll one fewer botch die than normal (which may mean you roll no botch dice) in rolls that pertain to your area of understanding. You are not normally molested by animals of the terrain, and though particularly vicious creatures may still attack you, at least they'll accord you proper respect. (For Ways of the Town, this still applies to town animals, of which there are plenty in the medieval world, rather than people. The +3 bonus does apply to people.) You may choose this Virtue multiple times, for different types of terrain.
 
 #### Wealthy
-
-Major, General
-
+*Major, General*<br>
 You are a rich member of your class. You may spend three seasons per year on study or adventuring, as you can pay people to look after your interests, and these seasons are genuinely free. Exactly how wealthy you are depends on your social class; a noble would have at least a dozen servants, including some bodyguards, while a wealthy townsman would have a good house and maybe three servants. Whatever your class, you are wealthy enough to afford goods generally associated with a higher class. and thus risk being labeled a vulgar social climber. Wealthy characters may live at a covenant, but they are not supported by the covenant. As all Hermetic magi are supported by their covenant, no magi may take this Virtue.
 
 #### Well-Traveled
-
-Minor, General
-
+*Minor, General*<br>
 You have journeyed extensively in this part of the world and find it easy to get along with people throughout the area. You have fifty bonus experience points to spend on living languages, Area Lores, and Bargain, Carouse, Charm, Etiquette, Folk Ken, or Guile.
 
 #### Whistle Up The Wind
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You can create winds by whistling. This Virtue grants a score of 1 in the Supernatural Ability Whistle Up The Wind.
 
 #### Wilderness Sense
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You are mystically attuned to the ways of the wilderness. Choosing this Virtue confers the Ability Wilderness Sense 1 (page 172).
 
 #### Wisdom from Ignorance
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 One school of Sufis found in Egypt is particularly interested in calligraphy, and the aesthetics of the enigma. By this, they mean that pondering texts which have been structured as meaningful, but which the viewer cannot read, can be used as a form of meditation which brings enlightenment. They are able to use books as sources of training provided they are unable to read the language they are written in.
 
 The sufis use this ability to gain understanding of spiritual matters, so players should create Ability books normally, and when sufis use this Virtue, switch the Ability learned from the book to Theology Organisation Lore: Sufis or similarly uplifting subjects. A sufi using this Virtue may occasionally gain experience in materially practical Abilities, but this only occurs in the context of overcoming specific challenges on spiritual journeys. Directly applicable learning like this is considered a miracle by the sufi, and troupes should police this like any other miracle.
 
 #### Wise One
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You belong to a broad class that includes mystics, seers, healers, and the like. You are probably magical, and will probably want to purchase a Virtue that gives you some sort of supernatural ability. You are well regarded in the community, although your presence may cause fear as well as awe or respect. If you lack such good standing, though, you are most likely a wanderer or an outcast. You may take either Arcane or Academic Abilities, but not both, at character creation. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is available to male and female characters.
 
 #### Withstand Casting
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 If a magus has this Virtue, then whenever he is about to lose Fatigue from casting a spell, he loses 1 less Fatigue level than normal, with a minimum of 1
 Fatigue level — but if the spell would have been cast without Fatigue loss, then he still loses no Fatigue.
 
@@ -18269,7 +17619,7 @@ Armor is important — it helps prevent characters from sustaining grievous woun
 
 #### Materials
 
-Ouilted cloth, a thin laver of leather, or layers of leather-strap-wrapped fur or cloth is the most basic of armor. Using very thick leather, or hardening leather by wax impregnation or baking, makes a better material for deflecting crushing damage. Using further reinforcements to the leather through the application of studs, rings, or other metal pieces strengthens it against slashes and cuts. Breaking the leather up into a flexible array of scales allows the use of thicker pieces of leather. Replacing the leather scales with small overlapping metal plates again increases protection while retaining flexibility, although metal weighs slightly more. At the top of 1220 technology lies chain mail, a suit of flexible metal made of links of chain.
+Quilted cloth, a thin laver of leather, or layers of leather-strap-wrapped fur or cloth is the most basic of armor. Using very thick leather, or hardening leather by wax impregnation or baking, makes a better material for deflecting crushing damage. Using further reinforcements to the leather through the application of studs, rings, or other metal pieces strengthens it against slashes and cuts. Breaking the leather up into a flexible array of scales allows the use of thicker pieces of leather. Replacing the leather scales with small overlapping metal plates again increases protection while retaining flexibility, although metal weighs slightly more. At the top of 1220 technology lies chain mail, a suit of flexible metal made of links of chain.
 
 #### Outfittings
 
@@ -26432,9 +25782,6 @@ p168-170 p391
 | Peasant | [23](#peasants), [511](#peasants-1) |
 | Peasant (Virtue) | [100](#peasant) |
 | Penance | [500](#sacraments) |
-
-| **Entry** | **Page** |
-|-----------|----------|
 | Penetration | [215](#penetration-total), [219](#penetration-1), [226](#penetration-2) |
 | Penetration (Ability) | [169](#penetration) |
 | Perception | [27](#perception-per) |
@@ -26487,63 +25834,65 @@ p168-170 p391
 | Praeco | [22](#tribunals) |
 | Pralix | [11](#damhan-allaidh-and-the-ordo-miscellanea) |
 
-## Traditional Index (remained legacy not linked yet)
+| **Entry** | **Page** |
+|-----------|----------|
+| Precise Casting | [226](#precise-casting) |
+| Premonitions (Ability) | [170](#premonitions-1) |
+| Premonitions (Virtue) | [104](#premonitions) |
+| Presence | [27](#presence-pre) |
+| Prestigious Student (Virtue) | [104](#prestigious-student) |
+| Priest (Template) | [34](#the-priest) |
+| Priest (Virtue) | [104](#priest) |
+| Primitive Equipment (Flaw) | [141](#primitive-equipment) |
+| Primogeniture Lineage (Flaw) | [141](#primogeniture-lineage) |
+| Privileged Upbringing (Virtue) | [104](#privileged-upbringing) |
+| Proactive Stories | [517](#proactive-stories) |
+| Profession (Type) (Ability) | [170](#profession-type) |
+| Prohibition (Flaw) | [142](#prohibition) |
+| Protection (Virtue) | [105](#protection) |
+| Protector (Hook) | [181](#minor-hooks) |
+| Proud (Flaw) | [142](#proud) |
+| Puissant Ability (Virtue) | [105](#puissant-ability) |
+| Puissant Art (Virtue) | [105](#puissant-art) |
+| Pulsed Saga | [528](#pulsed-saga) |
+| Pure Fantasy Saga | [530](#the-pure-fantasy-saga) |
+| Pure Troupe Style | [530](#pure-troupe-style) |
+| Purgatory | [499](#doctrine) |
+| Quaesitor | [6](#glossary), [14](#house-guernicus) |
+| &nbsp;&nbsp;*see also [Guernicus, House*](#house-guernicus) |  |
+| Quick Casting | [226](#quick-casting) |
+| Quickness | [27](#quickness-qik) |
+| Quiet Casting | [226](#quiet-casting) |
+| Quiet Magic (Virtue) | [105](#quiet-magic) |
+| Quilted Armor | [399](#materials) |
+| Quests | [522](#quests) |
+| Rabbi (Virtue) | [105](#rabbi) |
+| Rabbinic Law (Ability) | [170](#rabbinic-law) |
+| Raised from the Dead (Flaw) | [142](#raised-from-the-dead) |
+| Raised in the Gutter (Flaw) | [142](#raised-in-the-gutter) |
+| Ranges | [303–304](#ranges) |
+| Rapid Convalescence (Virtue) | [105](#rapid-convalescence) |
+| Rat Up a Drainpipe (Virtue) | [105](#rat-up-a-drainpipe) |
+| Reactive Stories | [517](#reactive-stories) |
+| (Realm) Stigmatic (Flaw) | [142](#realm-stigmatic) |
+| Rebellious (Flaw) | [142](#rebellious) |
+| Rebuttal | [226](#rebuttal) |
+| Reckless (Flaw) | [142](#reckless) |
+| Reclusive (Flaw) | [142](#reclusive) |
+| Recovery from Fatigue | [403–404](#recovery-from-short-term-fatigue) |
+| Recovery from Wounds | [405–406](#recovering-from-wounds) |
+| Rector/Proctor (Flaw) | [142](#rectorproctor) |
+| Recurring Spells | [240](#recurring-spells) |
+| Redcap (Virtue) | [105](#redcap) |
+| &nbsp;&nbsp;*see also [Mercere, House](#house-mercere)* |  |
+| Redcaps | [6](#glossary), [15](#house-mercere) |
+| Refinement (laboratory) | [287](#refinement) |
+| Regio | [181–182](#minor-hooks), [420](#regiones) |
+| Rego (Art) | [208](#rego-re-i-control) |
+| Regular (Flaw) | [143](#regular) |
 
-Precise Casting ........................ 226
-Premonitions (Ability) ............ 170
-Presence .................................... 27
-Prestigious Student (Virtue) .... 104
-Priest (Template) ....................... 34
-Priest (Virtue) .......................... 104
-Primitive Equipment (Flaw) ..... 141
-Primogeniture Lineage (Flaw) ... 141
-Privileged Upbringing 
-(Virtue) .................................... 104
-Proactive Stories ...................... 517
-Profession (Type) (Ability) ..... 170
-Prohibition (Flaw) ................... 142
-Protection (Virtue) .................. 105
-Protector (Hook) .................... 181
-Proud (Flaw) ............................ 142
-Puissant Ability (Virtue) .......... 105
-Puissant Art (Virtue) ................ 105
-Pulsed Saga .............................. 528
-Pure Fantasy Saga .................... 530
-Pure Troupe Style ................... 530
-Purgatory ................................. 499
-Quaesitor ............................... 6, 14
-see also Guernicus, House
-Quick Casting ......................... 226
-Quickness .................................. 27
-Quiet Casting .......................... 226
-Quiet Magic (Virtue) .............. 105
-Quilted Armor ......................... 399
-Quests ..................................... 522
-Rabbi (Virtue) ......................... 105
-Rabbinic Law (Ability) ............ 170
-Raised from the Dead (Flaw) ... 142
-Raised in the Gutter (Flaw) ..... 142
-Ranges .............................. 303-304
-Rapid Convalescence (Virtue) ... 105
-Rat Up a Drainpipe (Virtue) ... 105
-Raw Vis .............................. see Vis
-Reactive Stories ....................... 517
-(Realm) Stigmatic (Flaw) ......... 142
-Rebellious (Flaw) ..................... 142
-Rebuttal ................................... 226
-Reckless (Flaw) ........................ 142
-Reclusive (Flaw) ....................... 142
-Recovery from Fatigue ..... 403-404
-Recovery from Wounds ... 405-406
-Rector/Proctor (Flaw) .............. 142
-Recurring Spells ...................... 240
-Redcap (Virtue) ....................... 105
-Redcaps ................................. 6, 15
-see also Mercere, House
-Refinement (laboratory) .......... 287
-Regio ........................ 181-182, 420
-Rego (Art) ............................... 208
-Regular (Flaw) ......................... 143
+
+## Traditional Index (remained legacy not linked yet)
 
 Relic (Virtue) ...........................105
 Relics .......................................419
