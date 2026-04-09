@@ -4,11 +4,11 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
-*[Completion state: As good as all text and formatting manually fixed and reviewed. Definitive Edition is now in excellent readable format - and likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); Neither will the regular index - but it could be linked to sections if someone wants to take a crack at that wholesale]*
+*[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
 
-*Identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
+*Some identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
 
-*For readability in Markdown, the Uppercase headings (originally in a font suitable for that) througout replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
+*For readability in Markdown, the Uppercase headings (originally in a font suitable for that) througout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -19,16 +19,30 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 [List of Virtues](#list-of-virtues)<br>
 [List of Flaws](#list-of-flaws)<br>
 [Ability List](#ability-list)<br>
+
 [Arcane Experimentation](#arcane-experimentation)<br>
 [Spell Design](#spell-design)<br>
+
+[Animal Spells](#animal-spells)<br>
+[Aquam Spells](#aquam-spells)<br>
+[Auram Spells](#auram-spells)<br>
+[Corpus Spells](#corpus-spells)<br>
+[Herbam Spells](#herbam-spells)<br>
+[Ignem Spells](#ignem-spells)<br>
+[Imaginem Spells](#imaginem-spells)<br>
+[Mentem Spells](#mentem-spells)<br>
+[Terram Spells](#terram-spells)<br>
+[Vim Spells](#vim-spells)<br>
 
 [Reference Guide](#reference-guide)<br>
 [Combat Rules Reference](#combat-rules)<br>
 [Magic Rules Reference](#magic-rules)<br>
 [Laboratory Rules Reference](#laboratory-rules)<br>
+
 [Spells Index](#spells-index)<br>
 [Spell Guidelines Index](#spell-guidelines-index)<br>
-[Bestiary Index](#beastiary-index)<br>
+[Bestiary Index](#bestiary-index)<br>
+[Traditional Index](#traditional-index)<br>
 
 ## Step into a Medieval World of Magic & Myth
 
@@ -279,7 +293,7 @@ Map of Mythic Europe<br>
 [**Appendix C: Fourth Edition Conversion**](#fourth-edition-conversion)<br>
 [**Appendix D: Reference Guide**](#reference-guide)<br>
 [**Appendix E: Spells Index**](#spells-index)<br>
-Appendix G: Traditional Index<br>
+[**Appendix G: Traditional Index**](#traditional-index)<br>
 Appendix H: Character Sheet<br>
 Appendix I: Fifth Edition Line<br>
 
@@ -1651,9 +1665,7 @@ Decrepitude: 0
 
 Warping Score: 0 (0) Confidence Score: 1 (3)
 
-Virtues and Flaws: The Gift, Hermetic Magus; Giant Blood\* Major Magical Focus (stone),
-
-Affinity with Terram\*, Enduring Magic, Improved Characteristics, Puissant Terram, Tough, Generous (Major), Necessary Condition (touching stone)\*, Plagued by Supernatural Entity, Deficient Auram
+Virtues and Flaws: The Gift, Hermetic Magus; Giant Blood\* Major Magical Focus (stone), Affinity with Terram\*, Enduring Magic, Improved Characteristics, Puissant Terram, Tough, Generous (Major), Necessary Condition (touching stone)\*, Plagued by Supernatural Entity, Deficient Auram
 
 Personality Traits: Generous +6, Patient +3, Trusting +2, Vengeful +2
 
@@ -1676,6 +1688,58 @@ Twilight Scars: None Equipment: Wizardly robes.
 Encumbrance: 0 (0) Spells Known:
 
 Wall of Protecting Stone (CrTe 25/+35) The Crystal Dart (Mu(Re)Te 10/+27) Rock of Viscid Clay (MuTe 15/+27) Earth that Breaks No More (MuTe 20/+27) Obliteration of the Metallic Barrier (Pe(Re)Te 20/+22) The Earth's Carbuncle (Re(Mu)Te 15/+27) Hands of the Grasping Earth (Re(Mu)Te 15/+23)
+
+Customization Notes: This Ex Miscellanea tradition grants the Virtues Giant Blood and Affinity with Terram, and the Flaw Necessary Condition: Touching Stone. The stone in question can be a piece of stone worn on a belt, for example, but it must be at least the size of the magus's hand (the magus has big hands). The magus doesn't have his full allowance of Flaws, so you can take another Major Flaw, or three more Minor, and corresponding Virtues.
+
+#### Flambeau
+
+Characteristics: Int +2, Per +1, Pre 0, Com –1, Str 0, Sta +2, Dex 0, Qik +1
+
+Size: 0
+
+Age: 25 (25)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: The Gift; Hermetic Magus; Greater Immunity (Fire), Major Magical Focus (Flames); Affinity with Creo, Affinity with Ignem, Life Boost, Puissant Ignem*; Enemies, Necessary Condition (must clap his hands), Wrathful (Major)
+
+Personality Traits: Brave +3, Wrathful +6, Thoughtful –2
+
+Reputations: None.
+
+Combat:
+
+Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
+
+Soak: +2
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20)
+
+Abilities: Area Lore 2 (hiding places), Artes Liberales 1 (logic), Athletics 2 (running), Awareness 3 (in combat), Brawl 2 (dodging), Folk Ken 1 (people in authority over him), Guile 3 (claiming not to have done something), Hermes Lore 1 (House Flambeau), Latin 4 (insults), Living Language 5 (insults), Magic Theory 3 (Ignem), Parma Magica 1 (Mentem), Penetration 2 (Ignem), Stealth 1 (entering buildings or rooms), Survival 1 (woods)
+
+Arts: Cr 12, In 0, Mu 0, Pe 4, Re 5; An 0, Aq 0, Au 0, Co 0, He 0, Ig 12+3, Im 0, Me 0, Te 1, Vi 0
+
+Twilight Scars: None
+
+Equipment: Wizardly robes, smelling slightly of smoke.
+
+Encumbrance: 0 (0)
+
+Spells Known: 
+
+Palm of Flame (CrIg 5/+41)
+Pilum of Fire (CrIg 20/+41)
+Arc of Fiery Ribbons (CrIg 25/+41)
+Ball of Abysmal Flame (CrIg 35/+41)
+Circle of Encompassing Flame (CrIg 35/+41)
+
+Customization Notes: The Flambeau is very much a one-trick pony. He can throw fire at opponents extremely effectively. His focused Arts and Magical Focus mean that he has some Penetration even for powerful spells. However, he is much weaker if he tries to do anything else. Wrathful and Enemies can be swapped out for other Flaws with no trouble, to break the stereotype a bit, as can his Greater Immunity. He can take another Minor Flaw, and balancing Minor Virtue.
 
 #### Guernicus
 
@@ -2937,7 +3001,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 
 ## List of Virtues
 
-[The Gift](#the-gift-1)
+[The Gift](#the-gift)
 
 ### Hermetic, Major
 
@@ -25177,7 +25241,7 @@ p168-170 p391
 | Vim | Perdo | [370](#perdo-vim-guidelines) |
 | Vim | Rego | [370](#rego-vim-guidelines) |
 
-## Beastiary Index
+## Bestiary Index
 
 | Name | Realm | Form | Might | Page |
 |------|-------|-------|-------|------|
@@ -25243,3 +25307,1610 @@ p168-170 p391
 | Wolf (Lupus) | Beast | — | — | [435](#wolf-lupus) |
 | Wolf Mount | Faerie | — | — | [472](#wolf-mount) |
 | Zwergenstimme | Magic | Imaginem | 15 | [466](#zwergenstimme) |
+
+## Traditional Index
+
+>
+> Markdown version note: The Ability links do not work - until we rewrite all of the Abilities to use headings
+>
+
+| **Entry** | **Page** |
+|-----------|----------|
+| Abandoned Apprentice (Flaw) | [119](#abandoned-apprentice) |
+| Abilities | [27](#abilities), [48](#abilities-1), [157-159](#chapter-5-abilities) |
+| &nbsp;&nbsp;Types | [158-159](#ability-types) |
+| Ability Block (Flaw) | [119](#ability-block) |
+| Ability Roll | [158](#ability-roll) |
+| Academic Abilities | [158](#academic-abilities) |
+| Academic Concentration (Subject) (Virtue) | [69](#academic-concentration-subject) |
+| Accessible Power Level | [179](#accessible-power-level) |
+| Action-Adventure Saga | [533](#action-adventure) |
+| Adam | [498](#doctrine) |
+| Adaptive Casting | [225](#adaptive-casting) |
+| Adept Laboratory Student (Virtue) | [69](#adept-laboratory-student) |
+| Advancement | [375-379](#advancement) |
+| Advancement Table | [49](#advancement-table), [375](#advancement-tables) |
+| Adventure Experience | [376](#adventure) |
+| Aegis of the Hearth | [173](#aegis-of-the-hearth) |
+| Aestas | [175](#aestas) |
+| Affinity with (Ability) (Virtue) | [69](#affinity-with-ability) |
+| Affinity with (Art) (Virtue) | [69](#affinity-with-art) |
+| Afflicted Tongue (Flaw) | [119](#afflicted-tongue) |
+| After Apprenticeship | [50](#magus-only--after-apprenticeship) |
+| Age | [30](#format), [43](#starting-character-age), [391](#aging) |
+| Age Quickly (Flaw) | [119](#age-quickly) |
+| Aging | [391](#aging) |
+| &nbsp;&nbsp;Crisis | [392](#aging) |
+| &nbsp;&nbsp;Limit of | [211](#the-limit-of-aging) |
+| &nbsp;&nbsp;Points | [391](#aging) |
+| &nbsp;&nbsp;Rolls | [392](#aging) |
+| Aiming Spells | [223](#aiming) |
+| Air Deprivation | [407](#deprivation) |
+| Alim (Virtue) | [69](#alim) |
+| All According to Plan (Virtue) | [69](#all-according-to-plan) |
+| Alluring to (Beings) (Virtue) | [69](#alluring-to-beings) |
+| Almogaten (Virtue) | [69](#almogaten) |
+| Almogavar (Virtue) | [69](#almogavar) |
+| Alpha Storyguides | [530](#alpha-and-beta-storyguides) |
+| Alternative Characters | [529](#alternative-characters) |
+| Ambitious (Flaw) | [119](#ambitious) |
+| Amorphous (Virtue) | [70](#amorphous) |
+| Anachronisms | [514](#errors-and-anachronisms) |
+| Anchored to the (Land) (Flaw) | [119](#anchored-to-the-land) |
+| Angels | [489-492](#creatures-of-the-divine) |
+| Animating Corpses | [462](#animating-corpses-with-magic) |
+| Animals | [428-436](#mundane-beasts) |
+| Animal (Art) | [208](#animal-an-animal), [314](#animal-spells) |
+| Animal Characters | [77](#animal-characters) |
+| Animal Companion (Flaw) | [119](#animal-companion) |
+| Animal Handling (Ability) | [159](#animal-handling) |
+| Animal Ken (Ability) | [159](#animal-ken) |
+| Animal Ken (Virtue) | [70](#animal-ken), [386](#animal-ken) |
+| Apostate (Flaw) | [119](#apostate) |
+| Apostles | [501](#saints) |
+| Apparent Age | [30](#format), [391](#aging) |
+| Apprentice (Virtue) | [70](#apprentice) |
+| Apprentices | [13](#house-bonisagus), [21](#apprentices), [269](#apprentices-1) |
+| Apprentice's Gauntlet | [6](#glossary), [273](#the-end-of-apprenticeship) |
+| Apprenticeship | [49](#magus-only--apprenticeship) |
+| Apt Student (Virtue) | [70](#apt-student) |
+| Aptitude for (Sin) (Virtue) | [70](#aptitude-for-sin) |
+| Aquam (Art) | [208](#aquam-aq-water), [320](#aquam-spells) |
+| Arcadia | [417](#the-faerie-realm) |
+| Arcane Abilities | [158](#arcane-abilities) |
+| Arcane Connections | [219](#arcane-connections) |
+| &nbsp;&nbsp;Limit of | [211](#the-limit-of-arcane-connections) |
+| &nbsp;&nbsp;Fixing | [250](#fixing-arcane-connections) |
+| Arcane Experimentation | [274](#arcane-experimentation) |
+| Arcane Lore (Ability) | [70](#arcane-lore) |
+| Arcane Studies | [250](#arcane-studies) |
+| Archangels | [*see Angels*](#creatures-of-the-divine) |
+| Archieunuch (Virtue) | [70](#archieunuch) |
+| (Area) Lore (Ability) | [159](#area-lore) |
+| Aristotelian Training (Virtue) | [70](#aristotelian-training) |
+| Aristotle | [158](#academic-abilities) |
+| Armor | [399](#armor) |
+| Armor Table | [400](#armor-table) |
+| Athletic Childhood | [48](#sample-childhoods) |
+| Art of Memory (Ability) | [159](#art-of-memory) |
+| Artes Liberales (Ability) | [160](#artes-liberales) |
+| Arthritis (Flaw) | [119](#arthritis) |
+| Arts | [206](#the-hermetic-arts) |
+| Athletics (Ability) | [161](#athletics) |
+| Atlantean Magic (Virtue) | [70](#atlantean-magic) |
+| Attack Advantage | [394](#attack-advantage) |
+| Attack Total | [393](#combat-scores) |
+| Auctores | [158](#academic-abilities) |
+| Auram (Art) | [209](#auram-au-air), [325](#auram-spells) |
+| Auras | [410](#realm-auras), [413](#magical-auras) |
+| Autumn | [175](#autumn) |
+| Autumn Power | [177](#autumn-power) |
+| Autumnus | [176](#autumnus) |
+| Avarice | [499](#doctrine) |
+| Avaricious (Flaw) | [119](#avaricious) |
+| Awareness (Ability) | [161](#awareness) |
+| Axe | [401](#single-weapons) |
+| Baccalaureus (Virtue) | [71](#baccalaureus) |
+| Baneful Circumstances (Flaw) | [119](#baneful-circumstances) |
+| Baptism | [499](#sacraments) |
+| Bard (Virtue) | [71](#bard) |
+| Bargain (Ability) | [161](#bargain) |
+| Beadle (Virtue) | [71](#beadle) |
+| Beast Masters | [243](#beast-masters) |
+| Beasts, Mundane | [428-442](#mundane-beasts) |
+| &nbsp;&nbsp;Aging | [440](#aging-1) |
+| &nbsp;&nbsp;Creating | [436](#creating-mundane-beasts) |
+| &nbsp;&nbsp;Non-Standard Size | [437](#creatures-of-non-standard-size) |
+| &nbsp;&nbsp;Mental Characteristics | [436](#2-characteristics) |
+| &nbsp;&nbsp;Natural Weapons Table | [440](#natural-weapons-table) |
+| &nbsp;&nbsp;Physical Characteristics | [437](#2-characteristics) |
+| Beasts of Virtue | [413](#magical-creatures) |
+| Bee King (Virtue) | [72](#bee-king) |
+| Beholden (Hook) | [182](#major-hooks) |
+| Beloved Rival (Flaw) | [120](#beloved-rival) |
+| Berserk (Virtue) | [72](#berserk) |
+| Berserker (Template) | [31](#the-berserker) |
+| Beta Storyguides | [530](#alpha-and-beta-storyguides) |
+| Bigamist (Flaw) | [120](#bigamist) |
+| Binding Wounds (Chirurgy) | [161](#chirurgy) |
+| Bishop | [502-504](#structures) |
+| Bjornaer — The Heartbeast | [233-234](#bjornaer--the-heartbeast) |
+| Bjornaer (Template) | [37](#bjornaer) |
+| Bjornaer, House | [13](#house-bjornaer) |
+| Black Sheep (Flaw) | [120](#black-sheep) |
+| Blackmail (Flaw) | [120](#blackmail) |
+| Blatant Gift (Flaw) | [120](#blatant-gift) |
+| Blatant Magical Air (Flaw) | [120](#blatant-magical-air) |
+| Blind (Flaw) | [120](#blind) |
+| Bloodline (Target) | [238](#merinita--faerie-magic) |
+| Blood of the Nephilim (Virtue) | [72](#blood-of-the-nephilim) |
+| Bludgeon | [401](#brawling-weapons) |
+| Body-of-Water (Target) | [71](#atlantean-magic) |
+| Bonisagus | [6](#glossary), [9-10](#the-foundation-of-the-order) |
+| Bonisagus (Template) | [37](#bonisagus) |
+| Bonisagus, House | [13](#house-bonisagus), [37](#bonisagus) |
+| Book Learner (Virtue) | [72](#book-learner) |
+| Books | [379–383](#books-1) |
+| &nbsp;&nbsp;Copying | [380](#copying-books) |
+| &nbsp;&nbsp;Prices | [382](#prices-for-books) |
+| &nbsp;&nbsp;Summae | [379–380](#summae) |
+| &nbsp;&nbsp;Tractatus | [380](#tractatus) |
+| &nbsp;&nbsp;Writing | [379–380](#writing-books) |
+| Boons | [183–184](#boons) |
+| Boosted Magic (Virtue) | [72](#boosted-magic) |
+| Botch | [7](#stress-die) |
+| Botch Dice | [7–8](#botch-dice) |
+| Bound Casting Tools (Flaw) | [120](#bound-casting-tools) |
+| Bound Magic (Flaw) | [120](#bound-magic) |
+| Bound to (Realm) (Flaw) | [120](#bound-to-realm) |
+| Bound to (Role) Role (Flaw) | [121](#bound-to-role-role) |
+| Bows (Ability) | [161](#bows) |
+| Branded Criminal (Flaw) | [121](#branded-criminal) |
+| Brave (Personality Trait) | [28](#personality-traits) |
+| Brawl (Ability) | [161](#brawl) |
+| Brawling Weapons | [401](#brawling-weapons) |
+| Breakthrough | [277](#the-breakthrough) |
+| Broken Vessel (Flaw) | [121](#broken-vessel) |
+| Bronze Cord | [267](#the-three-cords) |
+| Brother Chaplain (Virtue) | [73](#brother-chaplain) |
+| Brother Knight (Virtue) | [73](#brother-knight) |
+| Brother Sergeant (Virtue) | [73](#brother-sergeant) |
+| Brutal Artist (Flaw) | [121](#brutal-artist) |
+| Buckler Shield | [401](#single-weapons) |
+| Bureaucrat (Virtue) | [73](#bureaucrat) |
+| Busybody (Flaw) | [121](#busybody) |
+| Canon Law | [161](#civil-and-canon-law), [504](#canon-law) |
+| Capo (Virtue) | [73](#capo) |
+| Carefree (Flaw) | [122](#carefree) |
+| Careless Sorcerer (Flaw) | [122](#careless-sorcerer) |
+| Careless with (Ability) (Flaw) | [122](#careless-with-ability) |
+| Carouse (Ability) | [161](#carouse) |
+| Casting Requisites | [311–312](#requisites) |
+| Casting Spells | [213–220](#casting-spells) |
+| Casting Tablet | [180](#casting-tablets) |
+| Casting Tools | [242](#enchant-casting-tools--minor-house-mystery-virtue) |
+| Castratus (Flaw) | [122](#castratus) |
+| Cathedral | [502](#structures) |
+| Cathedral School Master (Virtue) | [73](#cathedral-school-master) |
+| Cauterization (Chirurgy) | [161](#chirurgy) |
+| Cautious Sorcerer (Virtue) | [73](#cautious-sorcerer) |
+| Cautious with (Ability) (Virtue) | [73](#cautious-with-ability) |
+| Ceremonial Casting | [217–218](#ceremonial-casting), [225](#ceremonial-casting-1) |
+| Ceremonial Spontaneous Magic (Flaw) | [122](#ceremonial-spontaneous-magic) |
+| Certamen | [16](#house-tremere), [230–233](#certamen) |
+| Chain Mail | [399](#materials) |
+| Changing Reputations | [28](#reputations) |
+| Chaotic Magic (Flaw) | [122](#chaotic-magic) |
+| Character Creation | [25–55](#chapter-3-characters) |
+| &nbsp;&nbsp;Child Characters | [44](#child-characters) |
+| &nbsp;&nbsp;Detailed | [43–55](#detailed-character-creation) |
+| &nbsp;&nbsp;Templates | [30–43](#character-templates) |
+| Characteristics | [27](#characteristics), [48](#characteristics-1) |
+| Charged Items | [253](#charged-items) |
+| Charlemagne | [11](#the-houses-of-hermes) |
+| Charm (Ability) | [161](#charm) |
+| Charms | [238](#charms) |
+| Child Characters | [44](#child-characters) |
+| Chirurgy (Ability) | [161](#chirurgy) |
+| Christ | [498](#doctrine) |
+| Church Militant | [501](#saints) |
+| Church Triumphant | [501](#saints) |
+| Church, The | [6](#glossary), [23](#the-church), [497–506](#the-church-1), [525](#the-church-2) |
+| Church Upbringing (Flaw) | [122](#church-upbringing) |
+| Circle (Target) | [305](#target) |
+| Cities | [24](#cities) |
+| Civil and Canon Law (Ability) | [161](#civil-and-canon-law) |
+| Clan Ilfetu (Virtue) | [73](#clan-ilfetu) |
+| Clear Thinker (Virtue) | [74](#clear-thinker) |
+| Clergy | [502](#structures) |
+| Clerk (Virtue) | [74](#clerk) |
+| Climaxes | [517](#climaxes) |
+| Close Family Ties (Flaw) | [122](#close-family-ties) |
+| Club | [401](#single-weapons) |
+| Clumsy (Flaw) | [122](#clumsy) |
+| Clumsy Magic (Flaw) | [122](#clumsy-magic) |
+| Code of Hermes | [6](#glossary), [18–19](#the-code-of-hermes) |
+| Code of Hermes (Ability) | [161](#code-of-hermes) |
+| Coif | [399](#outfittings) |
+| Combat | [393–398](#combat) |
+| &nbsp;&nbsp;Moving | [395](#moving-in-combat) |
+| &nbsp;&nbsp;Options | [397–398](#combat-options) |
+| &nbsp;&nbsp;Sequence | [394](#combat-sequence) |
+| Combat Botches | [393](#combat-botches) |
+| Command Animals (Virtue) | [74](#command-animals) |
+| Commanding Aura (Virtue) | [74](#commanding-aura) |
+| Common Law (Ability) | [162](#common-law) |
+| Common Sense (Virtue) | [74](#common-sense) |
+| Communication | [27](#communication-com) |
+| Companion Animal (Flaw) | [122](#companion-animal) |
+| Companions | [6](#glossary), [25](#companions) |
+| &nbsp;&nbsp;Templates | [33–35](#companion-templates) |
+| Compassionate (Flaw) | [122](#compassionate) |
+| Compulsion (Flaw) | [122](#compulsion) |
+| Compulsive Lying (Flaw) | [122](#compulsive-lying) |
+| Concentration (Ability) | [162](#concentration) |
+| Concentration (Duration) | [215](#concentration), [304](#durations) |
+| Confidence | [29](#confidence), [52](#confidence-1) |
+| Confirmation | [500](#sacraments) |
+| Constant Effect Devices | [258](#constant-effect-devices) |
+| Constant Expression (Flaw) | [123](#the-constant-expression) |
+| Constantinople | [15](#house-jerbiton) |
+| Consumed Casting Tools (Flaw) | [123](#consumed-casting-tools) |
+| Container Targets | [309](#container-targets) |
+| Contested Resource (Hook) | [181](#minor-hooks) |
+| Continence (Flaw) | [123](#continence) |
+| Convents | [505](#monasteries) |
+| Convoluted Mind (Virtue) | [74](#convoluted-mind) |
+| Corpse, Animating | [462](#animating-corpses-with-magic) |
+| Corpse Magic (Ability) | [162](#corpse-magic) |
+| Corpse Magic (Virtue) | [74](#corpse-magic) |
+| Corpus (Art) | [209](#corpus-co-body), [332–339](#corpus-spells) |
+| Corrosion | [407](#heat-and-corrosion) |
+| Corrupted Abilities (Flaw) | [123](#corrupted-abilities) |
+| Corrupted Arts (Flaw) | [123](#corrupted-arts) |
+| Corrupted Copies | [380](#corrupted-copies) |
+| Corrupted Spells (Flaw) | [123](#corrupted-spells) |
+| Court Wizards | [21](#interfering-with-mundanes) |
+| Covenant Upbringing (Flaw) | [124](#covenant-upbringing) |
+| Covenants | [6](#glossary), [18](#covenants), [173–199](#chapter-6-covenants) |
+| &nbsp;&nbsp;Baseline | [179](#baseline) |
+| &nbsp;&nbsp;Customized Creation | [178–184](#customized-covenant-creation) |
+| &nbsp;&nbsp;Finances | [188–189](#covenant-finances) |
+| &nbsp;&nbsp;Guilds | [198](#guilds) |
+| &nbsp;&nbsp;Hierarchy | [197](#hierarchy) |
+| &nbsp;&nbsp;Loyalty | [185–187](#covenant-loyalty) |
+| &nbsp;&nbsp;Nations | [197](#nations) |
+| &nbsp;&nbsp;Organization | [197–198](#the-organization-of-covenfolk) |
+| &nbsp;&nbsp;Resources | [179](#resources) |
+| &nbsp;&nbsp;Seasons | [174–176](#covenant-seasons) |
+| &nbsp;&nbsp;Situations | [177](#covenant-situations) |
+| Covenfolk | [190](#covenfolk-categories), [197](#the-organization-of-covenfolk) |
+| Covenfolk (Virtue) | [74](#covenfolk) |
+| Craft (Type) (Ability) | [162](#craft-type) |
+| Craft Guild Training (Virtue) | [75](#craft-guild-training) |
+| Crafter's Healing (Ability) | [162](#crafters-healing) |
+| Crafter's Healing (Virtue) | [75](#crafters-healing) |
+| Crafting Magical Objects | [306–308](#magical-craft) |
+| Craftsman (Virtue) | [75](#craftsman) |
+| Craving for Travel (Flaw) | [124](#craving-for-travel) |
+| Creation, Limit of | [211](#the-limit-of-creation) |
+| Creation Saga | [533](#creation) |
+| Creative Block (Flaw) | [124](#creative-block) |
+| Creatures | [425–428](#chapter-13-bestiary) |
+| &nbsp;&nbsp;Beasts, Mundane | [428–442](#mundane-beasts) |
+| &nbsp;&nbsp;Creating | [428](#creating-creatures) |
+| &nbsp;&nbsp;Format | [426–427](#creature-format) |
+| &nbsp;&nbsp;Might | [425](#creature-might) |
+| &nbsp;&nbsp;of the Divine | [488–492](#creatures-of-the-divine) |
+| &nbsp;&nbsp;of Faerie | [466–475](#creatures-of-faerie) |
+| &nbsp;&nbsp;of the Infernal | [475–488](#infernal-creatures) |
+| &nbsp;&nbsp;of Magic | [442–466](#creatures-of-magic) |
+| &nbsp;&nbsp;Powers | [426](#creature-powers) |
+| &nbsp;&nbsp;Size Examples | [427](#size-examples) |
+| Creo (Art) | [207](#creo-cr-create) |
+| Criamon – The Enigma | [235–236](#criamon--the-enigma) |
+| Criamon (Template) | [38](#criamon) |
+| Criamon, House | [13](#house-criamon) |
+| Crippled (Flaw) | [124](#crippled) |
+| Crises | [521](#crises-at-home) |
+| Crucifixion | [498](#doctrine) |
+| Cudgel | [402](#great-weapons) |
+| Cult of Mercury | [9–10](#the-history-of-the-order) |
+| Curate | [504](#structures) |
+| Curse of Slander (Flaw) | [124](#curse-of-slander) |
+| Curse of Venus (Flaw) | [124](#curse-of-venus) |
+| Curse-Throwing (Ability) | [163–164](#curse-throwing) |
+| Curse-Throwing (Virtue) | [75](#curse-throwing) |
+| Cursed Guile (Flaw) | [124](#cursed-guile) |
+| Custos (Virtue) | [75](#custos) |
+| Cyclic Magic (Negative) (Flaw) | [124](#cyclic-magic-negative) |
+| Cyclic Magic (Positive) (Virtue) | [75](#cyclic-magic-positive) |
+| Dagger | [401](#brawling-weapons) |
+| Daimons | [444](#daimons) |
+| Damage Table | [404](#damage-table) |
+| Damage Total | [394](#combat-scores) |
+| Damhan-Allaidh | [11](#damhan-allaidh-and-the-ordo-miscellanea) |
+| Dangers | [227–233](#dangers) |
+| Darius of Flambeau (example character) | [45](#example-darius-of-flambeau), [47–54](#example-darius-of-flambeau-1) |
+| Dark Secret (Flaw) | [124](#dark-secret) |
+| Deacon | [500](#sacraments) |
+| (Dead Language) (Ability) | [164](#dead-language) |
+| Deadly Sins | [499](#doctrine) |
+| Deaf (Flaw) | [125](#deaf) |
+| Deal with the Devil (Flaw) | [125](#a-deal-with-the-devil) |
+| Death Prophecy (Virtue) | [75](#death-prophecy) |
+| Debilitation | [406](#debilitation) |
+| Decrepitude | [30](#format), [392](#aging) |
+| Deficient Technique (Flaw) | [125](#deficient-technique) |
+| Deft Form (Virtue) | [75](#deft-form) |
+| Deleterious Circumstances (Flaw) | [125](#deleterious-circumstances) |
+| Delusion (Flaw) | [125](#delusion) |
+| Demons | [21](#dealing-with-demons) |
+| Demonic Blood (Virtue) | [75](#demonic-blood) |
+| Demonic Familiar (Flaw) | [125](#demonic-familiar) |
+| Demonic Might (Virtue) | [76](#demonic-might) |
+| Demonic Powers (Virtue) | [76](#demonic-powers) |
+| Dependent (Flaw) | [125](#dependent) |
+| Depraved (Flaw) | [125](#depraved) |
+| Depressed (Flaw) | [125](#depressed) |
+| Deprivation | [407](#deprivation) |
+| Depriving of Magical Power | [21](#depriving-of-magical-power) |
+| Detailed Character Creation | [25–55](#detailed-character-creation) |
+| Deteriorating Power (Flaw) | [126](#deteriorating-power) |
+| Devil Child | [56](#devil-child) |
+| Devil Child (Virtue) | [76](#devil-child-1) |
+| Devoted Parent/Child (Flaw) | [126](#devoted-parentchild) |
+| Dexterity | [27](#dexterity-dex) |
+| Dhimmi (Flaw) | [126](#dhimmi) |
+| Diabolic Past (Flaw) | [126](#diabolic-past) |
+| Diameter (Duration) | [304](#durations) |
+| Die Rolls | [7](#die-rolls) |
+| Diedne, House | [10–11](#the-houses-of-hermes) |
+| Diedne Magic (Virtue) | [76](#diedne-magic) |
+| Difficult Longevity Ritual (Flaw) | [126](#difficult-longevity-ritual) |
+| Difficult Spontaneous Magic (Flaw) | [126](#difficult-spontaneous-magic) |
+| Difficult Underlings (Flaw) | [126](#difficult-underlings) |
+| Diocese | [504](#structures) |
+| Disease | [406](#diseases) |
+| Disengaging (From Combat) | [397](#disengaging) |
+| Disfigured (Flaw) | [126](#disfigured) |
+| Disjointed Magic (Flaw) | [126](#disjointed-magic) |
+| Disorientating Magic (Flaw) | [126](#disorientating-magic) |
+| Distractions | [379](#distractions) |
+| &nbsp;&nbsp;From Lab Work | [265](#distractions-from-lab-work) |
+| Divine Aura | [418](#divine-auras) |
+| Divine Creatures | [488–492](#creatures-of-the-divine) |
+| &nbsp;&nbsp;Powers | [489](#angelic-powers) |
+| Divine Might | [425](#creature-might) |
+| Divine, Limit of the | [210](#the-limit-of-the-divine) |
+| Divine, The | [6](#glossary), [418–420](#the-divine-realm) |
+| Doctor in (Faculty) (Virtue) | [76](#doctor-in-faculty) |
+| Doctrine | [498](#doctrine) |
+| Dodge | [401](#brawling-weapons) |
+| Domestic Animal (Virtue) | [77](#domestic-animal) |
+| Dominion | [418](#the-divine-realm) |
+| Dominion Lore (Ability) | [164](#dominion-lore) |
+| Doorkeeper | [500](#sacraments) |
+| Dowsing (Ability) | [164](#dowsing) |
+| Dowsing (Virtue) | [77](#dowsing) |
+| Driven (Flaw) | [126](#driven) |
+| Durations | [304](#durations) |
+| Durenmar | [22](#the-grand-tribunal) |
+| Dust Devil (Virtue) | [77](#dust-devil) |
+| Dutybound (Flaw) | [126](#dutybound) |
+| Dwarf (Flaw) | [126](#dwarf) |
+| Early Childhood | [48](#early-childhood) |
+| Ease Factor | [8](#ease-factor) |
+| Ecclesiastical Reputation | [28](#reputations) |
+| Educated (Virtue) | [77](#educated) |
+| &nbsp;&nbsp;(Bardic) | [77](#educated-bardic) |
+| &nbsp;&nbsp;(Islamic) | [77](#educated-islamic) |
+| &nbsp;&nbsp;(Hebrew) | [77](#educated-hebrew) |
+| &nbsp;&nbsp;(Vernacular) | [77](#educated-vernacular) |
+| Effect Frequency Table | [256](#effect-frequency-table) |
+| Elemental Forms | [210](#the-elemental-forms) |
+| Elemental Magic (Virtue) | [77](#elemental-magic) |
+| Elementals | [449–456](#elementals) |
+| &nbsp;&nbsp;Air | [454](#air-elementals) |
+| &nbsp;&nbsp;Earth | [451](#earth-elementals) |
+| &nbsp;&nbsp;Fire | [455](#fire-elementals) |
+| &nbsp;&nbsp;Size, Might, & Characteristics | [450](#size-might-and-characteristics-of-elementals) |
+| &nbsp;&nbsp;Water | [453](#water-elementals) |
+| Embitterment | [245](#embitterment-1) |
+| Embitterment (Ability) | [164](#embitterment) |
+| Embitterment (Virtue) | [78](#embitterment) |
+| Emir (Virtue) | [78](#emir) |
+| Employed by Company (Flaw) | [126](#employed-by-company) |
+| Enchanted Items | [180](#enchanted-items) |
+| Enchanting (Ability) (Virtue) | [78](#enchanting-ability) |
+| Encumbrance | [403](#encumbrance) |
+| Enduring Constitution (Virtue) | [78](#enduring-constitution) |
+| Enduring Magic (Virtue) | [78](#enduring-magic) |
+| Enemies (Flaw) | [127](#enemies) |
+| Energy, Limit of | [211](#the-limit-of-energy) |
+| Enfeebled (Flaw) | [127](#enfeebled) |
+| Enigma, The | [13](#house-criamon), [235](#criamon--the-enigma) |
+| Enigma, The (Virtue) | [78](#the-enigma) |
+| Enigmatic Wisdom (Ability) | [164](#enigmatic-wisdom), [236](#enigmatic-wisdom-1) |
+| Entertainments, Noble | [508](#noble-entertainments) |
+| Enticer of Multitudes (Virtue) | [78](#enticer-of-multitudes) |
+| Entrancement (Ability) | [164](#entrancement), [167](#entrancement) |
+| Entrancement (Virtue) | [78](#entrancement) |
+| Envied Beauty (Flaw) | [127](#envied-beauty) |
+| Envious (Flaw) | [127](#envious) |
+| Environmental Temperatures | [152](#environmental-temperatures) |
+| Environmental Magic Condition (Flaw) | [127](#environmental-magic-condition) |
+| Environmental Sensitivity (Flaw) | [127](#environmental-sensitivity) |
+| Environmental Trigger | [257](#effect-modifications) |
+| Envy | [499](#doctrine) |
+| Equipment | [52](#equipment) |
+| Errors | [514](#errors-and-anachronisms) |
+| Essential Nature, Limit of | [210](#the-limit-of-essential-nature) |
+| Etiquette (Ability) | [165](#etiquette) |
+| Eunuch (Virtue) | [78](#eunuch) |
+| Eve | [498](#doctrine) |
+| Evil Destiny (Flaw) | [127](#evil-destiny) |
+| Evil Eye (Flaw) | [127](#evil-eye) |
+| Ex Miscellanea (Template) | [38](#ex-miscellanea) |
+| Ex Miscellanea, House | [14](#house-ex-miscellanea), [243–244](#ex-miscellanea-traditions) |
+| Exciting Experimentation (Flaw) | [127](#exciting-experimentation) |
+| Excommunicate (Flaw) | [128](#excommunicate) |
+| Exertion | [397](#exertion) |
+| Exiled Atlantean (Flaw) | [128](#exiled-atlantean) |
+| Exorcist | [500](#sacraments) |
+| Exotic Casting (Virtue) | [78](#exotic-casting) |
+| Expenditure | [189](#expenditure), [195–196](#yearly-expenditure-summary) |
+| Experience | [375–376](#experience-and-advancement) |
+| &nbsp;&nbsp;Adventure | [376](#adventure) |
+| &nbsp;&nbsp;Exposure | [376](#exposure) |
+| Experimentation | [274–276](#experimentation) |
+| Exploration | [520](#exploration) |
+| Exploring Childhood | [48](#sample-childhoods) |
+| Extractor of (Form) Vis (Virtue) | [78](#extractor-of-form-vis) |
+| Extraordinary Results Chart | [275](#extraordinary-results-chart) |
+| Extreme-Research Saga | [532](#the-extreme-research-saga) |
+| Eye (Range) | [303](#ranges) |
+| Eye of Hephaestus (Virtue) | [78](#eye-of-hephaestus) |
+| Fabric Ripper (Virtue) | [79](#fabric-ripper) |
+| Factor (Virtue) | [79](#factor) |
+| Faerie | [6](#glossary), [416–418](#the-faerie-realm) |
+| Faerie Aura | [416](#faerie-auras) |
+| Faerie Blood (Virtue) | [79](#faerie-blood) |
+| Faerie Creatures | [466–475](#creatures-of-faerie) |
+| &nbsp;&nbsp;Virtues & Flaws | [466](#new-virtues-and-flaws) |
+| Faerie Doctor (Virtue) | [79](#faerie-doctor) |
+| Faerie Doctors | [56–57](#faerie-doctors) |
+| Faerie Friend (Flaw) | [128](#faerie-friend) |
+| Faerie Lore (Ability) | [165](#faerie-lore) |
+| Faerie Magic | [236–238](#merinita--faerie-magic) |
+| Faerie Magic (Ability) | [165](#faerie-magic-1) |
+| Faerie Magic (Virtue) | [79](#faerie-magic) |
+| Faerie-Raised Magic (Virtue) | [79](#faerie-raised-magic) |
+| Faerie Upbringing (Flaw) | [128](#faerie-upbringing) |
+| Failed Apprentice (Virtue) | [80](#failed-apprentice) |
+| Failed Journeyman (Flaw) | [128](#failed-journeyman) |
+| Failed Master (Flaw) | [128](#failed-master) |
+| Failed Monk (Flaw) | [128](#failed-monk) |
+| Failed Student (Flaw) | [128](#failed-student) |
+| Fairs | [509](#markets-and-fairs) |
+| Faith | [499](#doctrine) |
+| Falconer (Virtue) | [80](#falconer) |
+| Falling | [407](#impact) |
+| Falling Evil (Flaw) | [128](#the-falling-evil) |
+| Falls Like a Cat (Virtue) | [80](#falls-like-a-cat) |
+| False Power (Flaw) | [128](#false-power) |
+| Familiar Powers | [267–268](#example-powers) |
+| Familiars | [265–268](#familiars) |
+| &nbsp;&nbsp;Suggested Familiars by Art | [266](#suggested-familiars-by-art) |
+| Familiar with the Fae (Virtue) | [80](#familiarity-with-the-fae) |
+| Famous (Virtue) | [80](#famous) |
+| Farm Implement | [402](#great-weapons) |
+| Fast Caster (Virtue) | [80](#fast-caster) |
+| Fast Casting | [217](#fast-casting), [225](#fast-casting-1) |
+| Fast Saga | [528](#fast-saga) |
+| Fate of Magic | [526](#the-fate-of-magic) |
+| Fatigue | [403–404](#fatigue) |
+| &nbsp;&nbsp;Levels | [30](#format), [403](#fatigue) |
+| &nbsp;&nbsp;Recovery Chart | [404](#fatigue-recovery-chart) |
+| Favors (Flaw) | [129](#favors) |
+| Fealty | [506](#feudalism) |
+| Fear (Flaw) | [129](#fear) |
+| Feather Messenger (Virtue) | [80](#feather-messenger) |
+| Female Scholar (Template) | [33](#the-female-scholar) |
+| Feral Scent (Flaw) | [129](#feral-scent) |
+| Feral Upbringing (Flaw) | [129](#feral-upbringing) |
+| Ferocity (Virtue) | [80](#ferocity) |
+| Fettered Magic (Flaw) | [130](#fettered-magic) |
+| Feud (Flaw) | [130](#feud) |
+| Feudalism | [506](#feudalism) |
+| Fickle Nature (Flaw) | [130](#fickle-nature) |
+| Fida'i (Virtue) | [81](#fidai) |
+| Fief | [506](#feudalism) |
+| Filius/Filia | [6](#glossary) |
+| Final Twilight | [228](#comprehending-twilight) |
+| Finding Hidden Loot (Virtue) | [81](#finding-hidden-loot) |
+| Finesse (Ability) | [165](#finesse) |
+| Fire | [407](#head-and-corrosion) |
+| Fish Out of Water (Terrain) (Flaw) | [130](#fish-out-of-water-terrain) |
+| Fist | [401](#brawling-weapons) |
+| Flail | [402](#great-weapons) |
+| Flambeau (Template) | [39](#flambeau) |
+| Flambeau, House | [14](#house-flambeau) |
+| Flashbacks (Flaw) | [130](#flashbacks) |
+| Flawed Parma Magica (Flaw) | [130](#flawed-parma-magica) |
+| Flawed Powers (Flaw) | [130](#flawed-powers) |
+| Flawless Magic (Virtue) | [81](#flawless-magic) |
+| Flaws | [26](#virtues-and-flaws), [45](#virtues-and-flaws-1), [47](#quick-and-easy-virtues-and-flaws), [61–154](#chapter-4-virtues-and-flaws) |
+| Flexible Formulaic Magic (Virtue) | [81](#flexible-formulaic-magic) |
+| Fluctuating Fortune (Flaw) | [130](#fluctuating-fortune) |
+| Focus Power (Virtue) | [81](#focus-power) |
+| Folk Ken (Ability) | [165](#folk-ken) |
+| Folk Magic (Virtue) | [81](#folk-magic) |
+| Follower (Flaw) | [131](#follower) |
+| Font of Knowledge (Ability) | [165](#font-of-knowledge) |
+| Font of Knowledge (Virtue) | [82](#font-of-knowledge) |
+| Food Deprivation | [407](#deprivation) |
+| Forceless Casting | [220](#forceless-casting) |
+| Foreign Upbringing (Flaw) | [131](#foreign-upbringing) |
+| Forge-Companion (Virtue) | [82](#forge-companion) |
+| Forgettable Face (Virtue) | [82](#forgettable-face) |
+| Form | [206](#the-hermetic-arts), [208–209](#forms) |
+| (Form) Monstrosity (Flaw) | [131](#form-monstrosity) |
+| Formulaic Magic | [6](#glossary), [213](#formulaic-magic) |
+| Founders, The | [6](#glossary), [9–10](#the-houses-of-hermes) |
+| Fragile Constitution (Flaw) | [131](#fragile-constitution) |
+| Frail (Flaw) | [131](#frail) |
+| Franciscans | [505](#monasteries) |
+| Free Expression (Virtue) | [82](#free-expression) |
+| Free Study (Virtue) | [82](#free-study) |
+| Friars | [505](#monasteries) |
+| Frightful Presence (Virtue) | [82](#frightful-presence) |
+| Full Armor | [399](#outfittings) |
+| Fury (Flaw) | [131](#fury) |
+| Gabai (Flaw) | [131](#gabai) |
+| Galen | [168](#medicine) |
+| Gambeson | [399](#outfittings) |
+| Garden of Eden | [498](#doctrine) |
+| Gauntlet (Weapon) | [401](#brawling-weapons) |
+| Gender Nonconforming (Flaw) | [131](#gender-nonconforming) |
+| Gender Shift (Virtue) | [82](#gender-shift) |
+| Generous (Flaw) | [132](#generous) |
+| Gentle Gift (Virtue) | [82](#gentle-gift) |
+| Gentleman/Woman (Virtue) | [82](#gentlemanwoman) |
+| Ghostly Warder (Virtue) | [83](#ghostly-warder) |
+| Giant Blood (Virtue) | [83](#giant-blood) |
+| Giants | [457](#a-typical-giant) |
+| Gift, The | [6](#glossary), [63–64](#the-gift), [203–205](#the-gift-2) |
+| Gift, The (Virtue) | [83](#the-gift-1) |
+| God | [9](#chapter-2-the-order-of-hermes), [418–420](#the-divine-realm), [498–502](#doctrine) |
+| Golden Cord | [267](#the-three-cords) |
+| Good Teacher (Virtue) | [83](#good-teacher) |
+| Gorgiastic (Virtue) | [83](#gorgiastic) |
+| Gossip (Virtue) | [83](#gossip) |
+| Grace | [499](#doctrine) |
+| Grammar | [160](#artes-liberales) |
+| Grand Tribunal | [22](#the-grand-tribunal) |
+| Grappling | [398](#non-lethal-combat) |
+| Great (Characteristic) (Virtue) | [83](#great-characteristic) |
+| Great Sword | [402](#great-weapons) |
+| Great Weapon (Ability) | [165](#great-weapon) |
+| Great Weapons | [402](#great-weapons) |
+| Greater Benediction (Virtue) | [83](#greater-benediction) |
+| Greater Immunity (Virtue) | [83](#greater-immunity) |
+| Greater Malediction (Flaw) | [132](#greater-malediction) |
+| Greater Power (Virtue) | [84](#greater-power) |
+| Greater Purifying Touch (Virtue) | [84](#greater-purifying-touch) |
+| Greed | [499](#doctrine) |
+| Greedy (Flaw) | [132](#greedy) |
+| Greek | [158](#academic-abilities) |
+| Grizzled Veteran (Template) | [31](#the-grizzled-veteran) |
+| Grogs | [6](#glossary), [26](#grogs) |
+| Group (Target) | [305](#target) |
+| Groups, Combat | [395–397](#groups) |
+| Grudge (Flaw) | [132](#grudge) |
+| Guardian Angel (Virtue) | [84](#guardian-angel) |
+| Guernicus (Template) | [40](#guernicus) |
+| Guernicus, House | [14](#house-guernicus) |
+| Guest of House Criamon (Virtue) | [84](#guest-of-house-criamon) |
+| Guest Storyguiding | [529](#guest-storyguiding) |
+| Guild Apprentice (Virtue) | [84](#guild-apprentice) |
+| Guild Dean (Virtue) | [85](#guild-dean) |
+| Guild Master (Virtue) | [84](#guild-master) |
+| Guile (Ability) | [165](#guile) |
+| Gullible (Flaw) | [132](#gullible) |
+| Hallucinations (Flaw) | [132](#hallucinations) |
+| Harmless Magic (Flaw) | [132](#harmless-magic) |
+| Harnessed Magic (Virtue) | [85](#harnessed-magic) |
+| Hatchet | [401](#single-weapons) |
+| Hatred (Flaw) | [132](#hatred) |
+| Hauberk | [399](#outfittings) |
+| Healing Miracle | [505–506](#miracles-1) |
+
+
+## Traditional Index (remained legacy not linked yet)
+
+Healing Spells ........................ 406
+Heartbeast .............................. 233
+Heartbeast (Ability) ............... 165
+Heartbeast (Virtue) .................. 85
+Heat ....................................... 407
+Heater Shield ......................... 401
+Heaven ............................498-500
+Heavy Leather Armor ............ 399
+Hebrew ................................... 158
+Hedge Magic .............................. 6
+Hedge Wizard (Flaw) ............. 132
+Heir (Flaw) ............................. 132
+Hell ................................ 415, 499
+Help in the Laboratory .......... 264
+Herbam (Art) ..........209, 339-343
+Heresy ............................ 171, 504
+Hermetic Arts ..................206-209
+Hermetic Breakthrough .......... 277
+Hermetic Experience (Virtue) ... 85
+Hermetic Houses ..........10-17, 46
+Hermetic Life ......................... 533
+Hermetic Magi ..................... 6, 25
+see also Order of Hermes
+Hermetic Magic ..........6, 203-246
+Hermetic Magus (Virtue) ......... 85
+Hermetic Oath ................6, 18-19
+Hermetic Patron (Flaw) .......... 132
+Hermetic Prestige (Virtue) ....... 85
+Hermetic Reputation ................ 28
+Hermetic Virtues and Flaws ..... 45
+Hex (Ability) ...................165-166
+Hex (Virtue) ............................. 85
+Hiems ..................................... 176
+High Fantasy .......................... 532
+High Vis ................................. 526
+High-Research Saga ............... 532
+Higher Purpose (Flaw) ........... 133
+Hippocrates ............................ 168
+Historical Accuracy ................ 495
+History ............................523-524
+Hobbled (Flaw) ..................... 133
+Holy Grail .............................. 522
+Holy Orders ..................... 74, 500
+Homing Instinct (Virtue) ......... 85
+Hooks ......................181-182, 516
+Hope ...................................... 499
+Horoscope .............................. 220
+Horrifying Appearance - 
+Snake Legs (Flaw) ................... 133
+Hospitallers .............................. 73
+Host, The ............................... 500
+House Rules ............................ 524
+Houses of Hermes .........10-17, 46
+Hubris .................................... 241
+Humble (Flaw) ....................... 133
+
+Humors ........................... 168, 497
+Hunchback (Flaw) ................... 133
+Hunger for (Form) Magic 
+(Flaw) ....................................... 133
+Hunt (Ability) ......................... 166
+Hunter (Template) .................... 32
+Ice ............................................ 407
+Ignem (Art) ............... 209, 343-347
+Imagined Folk Tradition 
+Vulnerability (Flaw) ................ 133
+Imaginem (Art) ......... 209, 347-352
+Imbued with the Spirit of (Form) 
+(Virtue) ...................................... 85
+Immune to Disease (Virtue) ...... 86
+Immunity to Cold (Virtue) ........ 86
+Impact ..................................... 407
+Imperturbable Casting ............. 225
+Impious Friend (Flaw) .............. 133
+Improved Characteristics 
+(Virtue) ...................................... 86
+Incapacitation .......................... 404
+Incarnation .............................. 498
+Income ..................................... 188
+Incompatible Arts (Flaw) ......... 134
+Incomprehensible (Flaw) ......... 134
+Inconstant Magic (Flaw) .......... 134
+Indescribable Face (Virtue) ....... 86
+Independent Craftsman (Flaw) ... 134
+Independent Study (Virtue) ...... 86
+Indiscreet (Flaw) ...................... 134
+Individual (Target) .................. 305
+Induction (Ability) ........... 166-167
+Induction (Virtue) ..................... 86
+Ineslemen (Virtue) ..................... 86
+Infamous (Flaw) ....................... 134
+Infamous Master (Flaw) ........... 134
+Infernal Aura ............................ 415
+see also Auras
+Corrupt Beasts ......................... 486
+Infernal Creatures ............. 475-488
+Auras & Regiones .................. 479
+Free Will ............................... 478
+Horrifying Appearance ........ 487
+and Magic ............................. 477
+Powers .................................. 475
+Religious Limitations ............ 478
+Weaknesses .......................... 477
+
+Infernal Heirloom (Virtue) ........86
+Infernal Lore (Ability) .............167
+Infernal, Limit of The ..............211
+Infernal, The ................ 6, 414-416
+see also Demons
+Inheritance ..............................508
+Initiative Ties ..........................394
+Initiative Total .........................393
+Injuries .....................................407
+Ink of Hermes .........................281
+Inoffensive to (Beings) (Virtue) ...86
+Inscribed Shadow (Flaw) .........134
+Inspirational (Virtue) .................87
+Instilling Effects ............... 256-258
+Intellego (Art) .........................207
+Intelligence ................................27
+Interfering with Mundanes ........21
+Intrigue (Ability) .....................167
+Intuition (Virtue) .......................87
+Inventing Spells .......................251
+Inventive Genius (Virtue) ..........87
+Invested Items .........................253
+Investigating Enchantments ....260
+Investigation Saga ...................533
+Iron, Molten ............................407
+Islam .................. 77, 110-111, 172
+Islamic Law (Ability) ...............167
+see also Muslims
+Jack-of-All-Trades (Virtue) .......87
+Javelin ......................................402
+Jerbiton (Template) ...................40
+Jerbiton, House .........................15
+Jerusalem .................................419
+Jesus Christ ..............................498
+Jews .................................499, 504
+Jinn ..........................................442
+Jinxed (Flaw) ...........................134
+Journeyman (Virtue) .................87
+Judaic Lore (Ability) ................167
+Judged Unfairly (Flaw) ............134
+Judges ................................14, 504
+Jumping ...................................161
+Jurist (Virtue) ............................87
+Just an Instant (Virtue) ..............87
+Justinian ...................................161
+
+Kassalan Dust ........................... 87
+Kassalan Exorcism (Virtue) ...... 87
+Keen Sense of Smell (Virtue) ... 88
+Keen Vision (Virtue) ................ 88
+Kick ........................................ 401
+Kinesis .................................... 457
+Knife ....................................... 401
+Knight (Template) ................... 34
+Knight (Virtue) ........................ 88
+Knights Templar .................... 111
+Knows People (Virtue) ............. 88
+Lab Total ................................ 249
+Laboratory .......................249-298
+Characteristics ..............286-291
+Features ........................296-297
+Personalization .............286-298
+Texts ............................ 180, 262
+Virtues and Flaws .........292-296
+Work ................................... 249
+Laborer (Virtue) ....................... 88
+Lame (Flaw) ............................ 135
+Lance ...................................... 401
+(Land) Regio Network (Virtue) ...88
+Landed Noble (Virtue) ............. 89
+Large (Virtue) ........................... 89
+Lasiq (Virtue) ........................... 89
+Latent Magic Ability (Virtue) ... 89
+Later Life .................................. 49
+Latin ....................................... 164
+Law ................................. 161, 504
+see also Canon Law, 
+and Civil and Canon Law (Ability)
+Leadership (Ability) ............... 167
+Learn (Ability) From Mistakes 
+(Virtue) ..................................... 89
+Learning Supernatural 
+Abilities .................................. 383
+Leather Ripper (Virtue) ............ 90
+Leather Scale Armor ............... 399
+Lecherous (Flaw) .................... 135
+Lector ..................................... 500
+Legerdemain (Ability) ............ 167
+Leper Magus (Virtue) ............... 90
+Leprosy (Flaw) ........................ 135
+Lesser Benediction (Virtue) ...... 90
+Lesser Enchantments .............. 253
+Lesser Immunity (Virtue) ......... 90
+Lesser Limits ........................... 211
+Lesser Malediction (Flaw) ...... 135
+Lesser Power (Virtue) ............... 90
+Lesser Purifying Touch 
+(Virtue) ..................................... 91
+Levels, Spell ............................ 301
+Levels of Regiones .................. 420
+
+Lex Hermae ............................... 20
+Liberal Arts .......see Artes Liberales
+Library ..................................... 179
+License of Absence (Virtue) ...... 91
+Life Boost (Virtue) ..................... 91
+Life-Linked Spontaneous Magic 
+(Virtue) ...................................... 91
+Light Touch (Virtue) ................. 91
+Lightning Reflexes (Virtue) ....... 91
+Limited Magic Resistance 
+(Flaw) ....................................... 135
+Limits of Magic ................ 210-212
+Lingering Injury (Flaw) ........... 135
+Linguist (Virtue) ........................ 91
+Linked trigger .......................... 258
+(Living Language) (Ability) ..... 167
+Load ........................................ 403
+Local Reputation ....................... 28
+Logic (Artes Liberales) ............ 160
+Lone Redcap (Virtue) ................ 91
+Long Spear .............................. 402
+Long Sword ............................. 401
+Long-Term Fatigue .................. 404
+Long-Winded (Virtue) .............. 92
+Longbow ................................. 402
+Longevity Rituals ..................... 261
+Loose Magic (Flaw) ................. 135
+Lord ......................................... 506
+Lost Love (Flaw) ...................... 135
+Love ......................................... 499
+Low Self-Esteem (Flaw) ........... 135
+Low Tolerance (Flaw) ............. 135
+Low Vis ................................... 526
+Low-Research Saga ................. 532
+Loyal (Personality Trait) ........... 28
+Luck (Virtue) ............................. 92
+Lunar Sphere, 
+Limit of the ...................... 211, 497
+Lupus (the Wolf) (Virtue) ......... 92
+Lycanthrope (Flaw) ................. 135
+Lye ........................................... 407
+Mace ........................................ 401
+Mace and Chain ...................... 401
+Maga ...................................... 6, 25
+see also Order of Hermes
+Magi ...................................... 6, 25
+see also Order of Hermes
+Magian Lineage (Virtue) ........... 92
+Magic .......................................... 6
+see also Magic Realm
+Magic Addiction (Flaw) .......... 135
+Magic and Sin ......................... 499
+Magic Aura ....................... 413-414
+see also Auras
+
+Magic Creatures .............. 442-466
+Jinn .......................................422
+Daimons ...............................444
+Elementals ............................449
+Animated Corpses ................462
+Magic Items (Virtue) .................92
+Magic Lore (Ability) ...............168
+Magic Might ...........................425
+Magic Realm .................... 413-414
+Magic Resistance ..... 221-223, 225
+Limit of .................................212
+Magic Sensitivity (Ability) ......168
+Magic Sensitivity (Virtue) .........92
+Magic Theory (Ability) ...........168
+Magical Air (Flaw) ...................136
+Magical (Being) 
+Companion (Flaw) ..................136
+Magical Blood (Virtue) ..............93
+Magical Craft ..........................306
+Magical Creatures .............21, 413
+Magical Enchantments ............252
+Magical Fascination (Flaw) ......136
+Magical Foci ........................94, 98
+Magical Items ............................24
+Magical Memory (Virtue) .........92
+Magical Mount (Virtue) ............93
+Magical Senses ........................305
+Magical Wards ........................306
+Magical Warder (Virtue) ...........93
+Magister in Artibus (Virtue) ......93
+Magister in Medicina (Virtue) ....94
+Magnitudes ..............................301
+Magus ....................................6, 25
+see also Order of Hermes
+Magus Templates ................ 37-43
+Major Breakthrough ................277
+Major Magical Focus (Virtue) ...94
+Major Personality Flaws ......64, 66
+Major Story Flaws .....................66
+Maker of Textured Vessels 
+(Virtue) ......................................94
+Maker of Water Vessels 
+(Virtue) ......................................94
+Male Guild Sponsor (Virtue) ....95
+Mamluk (Virtue) ........................95
+Manifest Sin (Flaw) .................136
+Manufactured Ignorance 
+(Flaw) .......................................136
+Many Marriageable Daughters 
+(Flaw) .......................................136
+Markets ....................................509
+Marriage ..................................500
+Marshal (Virtue) ........................95
+Martial Abilities .......................158
+Martyrdom ..............................419
+
+Mass ....................................... 500
+Master Bard (Virtue) ................ 96
+Master of (Form) Creatures 
+(Virtue) ..................................... 96
+Master of Kennels (Virtue) ...... 96
+Master of None (Flaw) ........... 136
+Mastered Spells (Virtue) .......... 96
+Masterpiece (Virtue) ................ 97
+Mastery .....................27, 225-226
+Mazdean Priest (Virtue) ........... 97
+Meddler (Flaw) ....................... 137
+Medical Attention .................. 405
+Medicine ................................ 163
+Medicine (Ability) .................. 168
+Medieval Paradigm ................. 251
+Medieval Physics .................... 497
+Medium Covenant ................. 178
+Medium Saga .......................... 527
+Medium-Research Saga .......... 532
+Melee Weapon Statistics ........ 400
+Mendicant Friar (Virtue) .......... 97
+Mendicant Friars .................... 505
+Mentem (Art) ..........209, 353-358
+Mentor (Flaw) ........................ 137
+Mentored by Demons (Virtue) ... 98
+Mercenary Captain (Virtue) ..... 98
+Mercere (Template) ................. 41
+Mercere, House ........................ 15
+see also Redcaps
+Merchant (Virtue) .................... 98
+Merchant Adventurer (Virtue) ... 98
+Mercurian Magic (Virtue) ........ 98
+Mercury ...................................... 9
+Merinita – Faerie Magic ...236-238
+Merinita (Template) ................. 41
+Merinita, House ....................... 16
+Metal Reinforced 
+Leather Armor ........................ 399
+Metal Scale Armor ................. 399
+Method Caster (Virtue) ........... 98
+Might ..................................... 425
+Mild Aging (Virtue) ................. 98
+Minor Breakthrough ............... 277
+Minor Enchantments (Virtue) ... 98
+Minor Magical Focus (Virtue) ... 98
+Minor Orders ......................... 500
+Minor Personality Flaws ........... 66
+Minor Story Flaws .................... 66
+Miracles ...................420, 505-506
+Mischievous Childhood ........... 48
+Missile Combat ...................... 395
+Missile Weapons .................... 402
+Missile Weapon Statistics ...... 401
+Missing Ear (Flaw) .................. 136
+Missing Eye (Flaw) ................. 136
+
+Missing Hand (Flaw) ............... 136
+Mistaken Identity (Flaw) ......... 136
+Moderate Vis ........................... 526
+Momentary (Duration) ............ 304
+Monasteries ............................. 505
+Monastic Offices ..................... 505
+Monastic Rule ......................... 505
+Monastic Vows (Flaw) ............. 138
+Monster (Hook) ............... 181-182
+Monstrous Blood (Flaw) .......... 138
+Moon (Duration) ..................... 304
+Moses ...................................... 502
+Motion Sickness (Flaw) ........... 138
+Mounted Combat .................... 397
+Multiple Casting ..................... 225
+Mundane, The ......................... 420
+Mundane Interactions ....... 21, 518
+Mundane Lord 
+(covenant situation) ................ 177
+Mundanes .................................. 21
+Muqta’ (Muq-Ta’) (Virtue) ........ 99
+Mundane Beasts ................ 428-442
+Muse (Virtue) ............................ 99
+Music (Ability) ........................ 168
+Muslims ............................. 99, 111
+Mute (Flaw) ............................. 138
+Muto (Art) ............................... 207
+Mysteries .......................... 233-243
+Mystery Cults ............................ 12
+(Mystery Cult) Lore (Ability) ... 168
+Mystery Initiation ............ 387-389
+Mystical Choreography 
+(Virtue) ...................................... 99
+Mythic Blood (Virtue) ............... 99
+Mythic Companions ........... 25, 55
+Mythic Europe ............. 6, 495-514
+Map .................................. 493-494
+Mythic Pound ......................... 187
+Natural Leader (Virtue) ............. 99
+Necessary Condition (Flaw) .... 138
+Necessary (Realm) 
+Aura for (Ability) (Flaw) .......... 138
+Nemthengacha, The ............... 244
+Nephilim ................................... 57
+Nephilim (Virtue) ..................... 99
+Night Terrors (Flaw) ............... 138
+No Hands (Flaw) ..................... 139
+
+No Sense of Direction (Flaw) ...139
+No-Research Saga ...................532
+Nobles ....................... 24, 506-509
+Nocturnal (Flaw) .....................139
+Non-lethal combat ..................397
+Noncombatant (Flaw) .............139
+Notary (Virtue) .........................99
+Nuntius (Virtue) ......................100
+Nuns ........................................513
+Oath of Fealty (Flaw) ..............139
+Obese (Flaw) ...........................139
+Obfuscated Casting .................226
+Obsessed (Flaw) ......................139
+Offensive to (Beings) (Flaw) ....139
+Optimistic (Flaw) ....................139
+Order of Hermes ....... 6, 9-24, 497
+Crises ......................................11
+Foundation ...............................9
+History .....................................9
+Ordination ..............................500
+Ordo Miscellanea ......................11
+(Organization) Lore (Ability) ...169
+Original Sin .............................498
+Outcast (Flaw) .........................139
+Outlaw (Flaw) ..........................140
+Outlaw Leader (Flaw) ..............140
+Outsider (Flaw) .......................140
+Overconfident (Flaw) ..............140
+Oversensitive (Flaw) ................140
+Pace .........................................395
+Pagan (Flaw) ............................140
+Paid Rights (Virtue) .................100
+Painful Magic (Flaw) ...............140
+Palsied Hands (Flaw) ...............140
+Parens ..........................................6
+Parish .......................................504
+Parma Magica ......................6, 221
+Parma Magica  (Ability) ..........169
+Part (Target) ............................305
+Partner (Virtue) .......................100
+Peasant ..............................23, 511
+Peasant (Virtue) .......................100
+Penance ...................................500
+
+Penetration ............. 215, 219, 226
+Penetration (Ability) .............. 169
+Perception ................................ 27
+Perdo (Art) ............................. 208
+Perfect Balance (Virtue) ......... 100
+Perfect Eye for (Commodity) 
+(Virtue) ................................... 100
+Perfectus (Virtue) ................... 100
+Performance (Duration) ......... 101
+Performance Magic 
+(Virtue) ............................101-102
+Peripheral Code ....................... 18
+Persona (Ability) ................... 169
+Persona (Virtue) ..................... 101
+Personal (Range) .................... 303
+Personal Power (Virtue) ......... 102
+Personal Vis Source (Virtue) ... 103
+Personality ................................ 52
+Personality Flaws .......... 45, 61, 66
+Personality Rolls ....................... 28
+Personality Traits ..................... 28
+Pessimistic (Flaw) ................... 140
+Philosophiae (Ability) ............ 169
+Physician of Salerno (Virtue) ... 103
+Piercing Gaze (Virtue) ........... 103
+Pilgrimage ...................... 496, 502
+Pious (Flaw) ............................ 140
+Plagued by Supernatural Entity 
+(Flaw) ...................................... 141
+Platonic Philosophy ............... 409
+Plots ........................................ 515
+Poisons ................................... 406
+Pole Arm ................................. 402
+Pole Axe ................................. 402
+Politics .................................... 522
+Politics Saga ........................... 533
+Pooled Characters .................. 529
+Poor (Flaw) ............................. 141
+Poor (Characteristic) (Flaw) ... 141
+Poor Concentration (Flaw) .... 141
+Poor Eyesight (Flaw) .............. 141
+Poor Formulaic Magic (Flaw) ... 141
+Poor Hearing (Flaw) ............... 141
+Poor Living Conditions 
+(Flaw) ...................................... 141
+Poor Memory (Flaw) .............. 141
+Poor Student (Flaw) ............... 141
+Pope ....................................... 502
+Potent Magic (Virtue) .....103-104
+Powerful Covenant ................. 178
+Powerful Location 
+(covenant situation) ............... 177
+Powerful Relic (Virtue) .......... 104
+Practice Experience ................ 377
+Praeco ....................................... 22
+Pralix ........................................ 11
+
+Precise Casting ........................ 226
+Premonitions (Ability) ............ 170
+Presence .................................... 27
+Prestigious Student (Virtue) .... 104
+Priest (Template) ....................... 34
+Priest (Virtue) .......................... 104
+Primitive Equipment (Flaw) ..... 141
+Primogeniture Lineage (Flaw) ... 141
+Privileged Upbringing 
+(Virtue) .................................... 104
+Proactive Stories ...................... 517
+Profession (Type) (Ability) ..... 170
+Prohibition (Flaw) ................... 142
+Protection (Virtue) .................. 105
+Protector (Hook) .................... 181
+Proud (Flaw) ............................ 142
+Puissant Ability (Virtue) .......... 105
+Puissant Art (Virtue) ................ 105
+Pulsed Saga .............................. 528
+Pure Fantasy Saga .................... 530
+Pure Troupe Style ................... 530
+Purgatory ................................. 499
+Quaesitor ............................... 6, 14
+see also Guernicus, House
+Quick Casting ......................... 226
+Quickness .................................. 27
+Quiet Casting .......................... 226
+Quiet Magic (Virtue) .............. 105
+Quilted Armor ......................... 399
+Quests ..................................... 522
+Rabbi (Virtue) ......................... 105
+Rabbinic Law (Ability) ............ 170
+Raised from the Dead (Flaw) ... 142
+Raised in the Gutter (Flaw) ..... 142
+Ranges .............................. 303-304
+Rapid Convalescence (Virtue) ... 105
+Rat Up a Drainpipe (Virtue) ... 105
+Raw Vis .............................. see Vis
+Reactive Stories ....................... 517
+(Realm) Stigmatic (Flaw) ......... 142
+Rebellious (Flaw) ..................... 142
+Rebuttal ................................... 226
+Reckless (Flaw) ........................ 142
+Reclusive (Flaw) ....................... 142
+Recovery from Fatigue ..... 403-404
+Recovery from Wounds ... 405-406
+Rector/Proctor (Flaw) .............. 142
+Recurring Spells ...................... 240
+Redcap (Virtue) ....................... 105
+Redcaps ................................. 6, 15
+see also Mercere, House
+Refinement (laboratory) .......... 287
+Regio ........................ 181-182, 420
+Rego (Art) ............................... 208
+Regular (Flaw) ......................... 143
+
+Relic (Virtue) ...........................105
+Relics .......................................419
+Religious (Virtue) ....................106
+Renouncing ...............................18
+Repellent (Flaw) ......................143
+Reputations ..........................28, 52
+Ease Factors ............................29
+Requests for Assistance ...........521
+Requisites ........................ 311-312
+Researching a Setting ...... 531-532
+Reserves of Strength (Virtue) ...106
+Resources ......... 179-181, 504, 527
+Restricted Learning (Flaw) ......143
+Restricted Power (Flaw) ..........143
+Restriction (Flaw) ....................143
+Resurrection ............................498
+Revenants ........................ 461-463
+Corpse-Like Form ................462
+Skeletal Form ........................463
+Rhetoric (Artes Liberales) .......160
+Ride (Ability) ...........................170
+Rigid Magic (Flaw) ..................143
+Ring (Duration) .......................304
+Ripper (Virtue) ........................106
+Ritual Magic ........................6, 213
+Ritual Power (Virtue) ..............106
+Ritual Spells .............................311
+Rival (Hook) ................... 181-182
+Road (Hook) ................... 181-182
+Road (Range) ................... 236-237
+Rogue (Template) .....................35
+Rolling Stone (Flaw) ................143
+Room (Target) .........................305
+Rosh Beth Din (Virtue) ...........106
+Round Shield ...........................401
+Rounding .....................................6
+Sacraments ...................... 499-501
+Sagas ................................ 523-533
+Priorities ...............................533
+Speed ....................................527
+Styles ............................ 532-533
+Saints ............................... 501-502
+Satan ..........................................21
+see also Creatures of the Infernal
+Savantism (Flaw) .....................143
+Schism War ...........................6, 11
+Schooled in Crime (Virtue) ....106
+Scuffle Effects ..........................398
+Scrying ......................................21
+Seasons .................... 174-176, 376
+Secretive (Flaw) .......................144
+Second Sight (Ability) ............170
+Second Sight (Virtue) .............106
+Secondary Insight (Virtue) ......106
+Secretive (Flaw) .......................143
+
+Secular Clergy ........................ 505
+See in Darkness (Virtue) ........ 107
+Seeker (Flaw) .......................... 144
+Self-Confident (Virtue) .......... 107
+Senior Bard (Virtue) ............... 107
+Senior Clergy (Virtue) ........... 107
+Senior Master (Virtue) ........... 107
+Sense Holiness and 
+Unholiness (Ability) ............... 170
+Sense Passions (Virtue) .......... 107
+Servant of the (Land) (Flaw) ... 144
+Seven Deadly Sins .................. 499
+Shadchan (Virtue) .................. 107
+Shamash (Virtue) ................... 107
+Shape and Material 
+Bonuses Table ..................282-285
+Shapechanger Statistics .......... 441
+Shapeshifter (Ability) ............. 171
+Shapeshifter (Virtue) .............. 107
+Sharp Ears (Virtue) ................. 108
+Sheltered Upbringing (Flaw) ... 144
+Short Attention Span (Flaw) ... 144
+Short Spear ............................. 401
+Short Sword ........................... 401
+Shortbow ................................ 402
+Short-Lived Magic (Flaw) ...... 144
+Short of Breath (Flaw) ............ 144
+Short-Ranged Magic (Flaw) ... 144
+Short-Term Fatigue ................ 403
+Side Effect (Virtue) ................ 108
+Sigils ............................... 224, 314
+Similar Spells .......................... 260
+Simple Die .................................. 7
+Simple-Minded (Flaw) ............ 144
+Simple Student (Virtue) ......... 108
+Sin-Eating ................................. 57
+Single Weapon (Ability) ........ 171
+Single Weapons ..................... 401
+Size ................................... 26, 427
+Skilled Parens (Virtue) ........... 108
+Skilled Smuggler (Virtue) ....... 108
+Skinchanger (Virtue) .............. 108
+(Dove) ................................. 108
+Sleep Disorder (Flaw) ............. 144
+Sling ....................................... 402
+Sloth ....................................... 499
+Slothful (Flaw) ........................ 145
+Slow Caster (Flaw) ................. 145
+Slow Power (Flaw) .................. 145
+Slow Reflexes (Flaw) .............. 145
+Small Frame (Flaw) ................. 145
+Soak .................................. 30, 394
+Soap Opera ............................ 518
+Social Childhood ..................... 48
+Social Contacts (Virtue) ......... 108
+
+Social Handicap (Flaw) ........... 145
+Social Status .................. 45, 62, 64
+By Culture .............................. 65
+Sodalis ......................................... 6
+Sofer (Virtue) .......................... 109
+Soft-Hearted (Flaw) ................ 145
+Soul, Limit of the .................... 211
+Special Circumstances (Virtue) ... 109
+Special Effects (combat) .......... 398
+Specialist (Template) ................ 32
+Specialists ................................ 180
+Specializations ......................... 157
+Spell Damage .................. 314, 394
+Spell Format ..................... 313-314
+Spell Improvisation (Virtue) .... 109
+Spell Mastery ............. 27, 225-226
+Spell Mastery Abilities ............ 158
+Spells ............................ 6, 301-372
+Casting .......................... 213-218
+Design ........................... 301-308
+Inventing ....................... 251-252
+Level Guidelines ................... 301
+Spirits ...................................... 444
+Spirit Votary ............................. 58
+Spirit Votary (Virtue) .............. 109
+Spiritual Pact (Virtue) ............. 109
+Splitting Groups ...................... 398
+Spontaneous Casting Tools 
+(Flaw) ....................................... 145
+Spontaneous Magic ............. 6, 214
+Spring ...................................... 174
+Stabilizing The Unknown ....... 279
+Staff ......................................... 402
+Stamina ...................................... 27
+Standard Soldier (Template) ..... 32
+Stealth (Ability) ....................... 171
+Stigmatic Catalyst (Flaw) ........ 145
+Still Casting ............................. 226
+Stockade Parma Magica 
+(Flaw) ....................................... 145
+Storm (Duration) ....................... 71
+Story Flaws .................... 45, 61, 66
+Story Ideas ........................ 520-522
+Story Types ...................... 517-518
+Stone ....................................... 402
+Strength ..................................... 27
+
+Stress die .....................................7
+Strong Angelic Heritage 
+(Virtue) ....................................109
+Strong Faerie Blood (Virtue) ...110
+Strong-Willed (Virtue) ............110
+Structure (Target) ....................305
+Structures (The Church) ... 502-503
+Struggling 
+(covenant situation) ................177
+Stuck in Your Ways (Flaw) .....145
+Student of (Realm) (Virtue) ....110
+Study Bonus (Virtue) ...............110
+Study Requirement (Flaw) .......145
+Sub-Deacon .............................500
+Subtle Magic (Virtue) .............110
+Sufi (Virtue) ............................111
+Summae ...........................179, 379
+Summer ...................................175
+Summon Animals (Ability) ......171
+Summon Animals (Virtue) .......111
+Summoning Spirits ..................308
+Sun (Duration) ........................304
+Sundering, The ..........................11
+Superiors (Hook) ............ 181-182
+Supernatural Abilities ..............159
+Learning ...............................383
+Supernatural Beauty (Virtue) ...111
+Supernatural Nuisance (Flaw) ...145
+Supernatural Virtues and Flaws ...64
+Suppressed Gift (Flaw) ............146
+Surgical Empiricus (Flaw) ........146
+Survival (Ability) .....................171
+Susceptibility to 
+Divine Power (Flaw) ................146
+Susceptibility to 
+Faerie Power (Flaw) .................146
+Susceptibility to 
+Infernal Power (Flaw) ..............146
+Susceptibility to 
+Sunlight (Flaw) ........................146
+Susceptibility to 
+Warping (Flaw) .......................146
+Swim (Ability) .........................171
+Sympathetic Connections .......220
+Tainted Offspring (Flaw) ........146
+Tainted Treasure (Virtue) .......111
+
+Tainted Vis ............................. 422
+Tainted with Evil (Flaw) ......... 146
+Talisman ................................. 259
+Targets ....................305, 309-311
+Size ...................................... 310
+Volume ................................ 311
+Teaching ................................ 378
+Teaching (Ability) .................. 171
+Technique .......................207-208
+Temperate (Flaw) ................... 146
+Tempestaria 
+(Weather Witch) .................... 245
+Templar Administrator 
+(Virtue) ................................... 111
+Templar Commander 
+(Virtue) ................................... 111
+Templar Confrere or Consoseur 
+(Virtue) ................................... 112
+Templar Office Holder 
+(Virtue) ................................... 112
+Templar Prestige (Virtue) ...... 112
+Templar Servant (Virtue) ....... 113
+Templar Specialist (Virtue) .... 113
+Temporal Influence (Virtue) ... 113
+Terram (Art) ............209, 359-364
+Tethered Magic (Virtue) ........ 113
+Theology (Ability) ..........171-172
+Christian .............................. 171
+Islam .................................... 172
+Judaism ................................ 172
+Theological Virtues ................ 499
+Through the Aegis ................. 173
+Thrown Weapon (Ability) ..... 172
+Time, Limit of ........................ 212
+Tithe ....................................... 504
+Tonsure .................................. 500
+Tormenting Master (Flaw) ..... 146
+Touch (Range) ....................... 303
+Tough (Virtue) ....................... 113
+Tough Guy (Template) ............ 33
+Towns ..............................510-511
+Town Magistrate (Virtue) ...... 113
+Tractatus ......................... 179, 380
+Trade ...................................... 509
+Trained Assassin (Virtue) ....... 113
+Trained Group ............... 385, 396
+Training .................................. 377
+Training Apprentices ......270-272
+Training Creatures ..........384-386
+Tragic Life (Flaw) ................... 147
+Travel ......................408, 507-508
+Traveling Childhood ................ 48
+Treasure Hunting ............519-520
+Tremere (Template) ................. 42
+Tremere, House ................. 11, 16
+Trianoma .............................. 6, 10
+
+Tribunals .......................... 6, 21-23
+Grand ..................................... 21
+Regional ................................. 23
+Trivium .................................... 160
+Troubadour/Trobairitz 
+(Virtue) .................................... 113
+Troupe-Style 
+Roleplaying .................. 4, 528-530
+Troupe Upbringing (Virtue) ... 113
+True Faith ................................ 419
+True Faith (Virtue) .................. 113
+True Feeling, Limit of .............. 212
+True Love (Flaw) ..................... 147
+True Love (PC) (Virtue) .......... 113
+True Names ............................. 445
+Turb Trained (Virtue) ............. 114
+Twilight ............................ 228-230
+Scars ............................... 30, 229
+Twilight Prone (Flaw) ............. 148
+Tytalus (Template) .................... 42
+Tytalus, House .................... 11, 17
+Tzadik Nistar (Flaw) ............... 148
+Unaffected by The Gift 
+(Virtue) .................................... 114
+Unaging (Virtue) ..................... 114
+Unbaptized (Flaw) .................. 148
+Unbearable to (Beings) 
+(Flaw) ....................................... 148
+Unbound Tongue (Virtue) ...... 114
+Uncertain Faith (Flaw) ............ 148
+Uncontrollable Strength 
+(Flaw) ....................................... 148
+Un-Fun History ....................... 496
+Unhappily Married (Flaw) ...... 148
+Unimaginative Learner (Flaw) ... 148
+Uninspirational (Flaw) ............ 148
+University Dean (Flaw) ........... 149
+University Grammar Teacher 
+(Virtue) .................................... 114
+Unlucky (Flaw) ........................ 149
+Unnatural Magic (Flaw) .......... 149
+Unpredictable Magic (Flaw) ... 149
+Unraveling .............................. 226
+Unruly Air (Flaw) .................... 149
+Unspecialized (Flaw) ............... 149
+Unstructured Caster (Flaw) ..... 149
+Until (Condition) (Duration) ... 237
+Untrained Group ..................... 396
+Urban (Covenant Situation) ... 177
+Urban (Hook) .................. 181-182
+Using Enchanted Devices ....... 259
+Usurer (Flaw) ........................... 149
+Variable Outcomes ................. 516
+Variable Power (Virtue) .......... 114
+Vassal ...................................... 506
+Venditor (Virtue) .................... 114
+
+Venus’ Blessing (Virtue) ..........114
+Verditius (Template) .................43
+Verditius, House .......................17
+Verditius Magic ............... 240-243
+Verditius Magic (Virtue) .........114
+Vendetta (Flaw) .......................149
+Vengeful Powers (Flaw) ..........150
+Vernus .....................................175
+Viaticarus (Flaw) ......................150
+Viea ...........................................10
+Vim (Art) ................. 209, 364-372
+Virtues and 
+Flaws ................ 26, 45, 47, 61-154
+List of Virtues ................... 67-68
+List of Flaws .................. 117-118
+Vis .......................6, 180, 212, 250
+Sources .................................422
+Limit of .................................212
+Vision ......................................306
+
+Visions (Flaw) ......................... 150
+Voice (Range) ........................ 303
+Voice of the (Land) (Virtue) .. 115
+Vow (Flaw) ............................. 150
+Vulnerable Casting (Flaw) ...... 150
+Vulnerable Magic (Flaw) ........ 151
+Vulnerable to Folk Tradition 
+(Flaw) ...................................... 151
+Wanderer (Virtue) .................. 115
+Wanderlust (Flaw) .................. 151
+Wards ..................................... 306
+Warhammer ........................... 402
+Warped by Magic (Flaw) ....... 151
+Warped Magic (Flaw) ............ 151
+Warped Senses (Flaw) ............ 151
+Warping .......................389-391
+Points .................................. 389
+Score ..................................... 30
+Limit of ................................ 212
+Warrior (Virtue) ..................... 115
+Waster of Vis (Flaw) ............... 152
+Water-Way (Range) ................. 70
+Ways of the (Land) (Virtue) .. 115
+Weak Characteristics (Flaw) .. 152
+Weak Enchanter (Flaw) .......... 152
+Weak Magic (Flaw) ................ 152
+Weak Magic Resistance 
+(Flaw) ...................................... 152
+Weak Parens (Flaw) ................ 152
+Weak Personality (Flaw) ........ 153
+Weak Scholar (Flaw) .............. 153
+Weak Spontaneous Magic 
+(Flaw) ...................................... 153
+
+Weakness (Flaw) ..................... 154
+Weak-Willed (Flaw) ................ 154
+Wealthy (Virtue) ..................... 115
+Weapons .......................... 400-402
+Weird Magic (Flaw) ................ 154
+Well-Traveled (Virtue) ........... 116
+Whistle Up The Wind 
+(Ability) ................................... 172
+Whistle Up The Wind 
+(Virtue) .................................... 116
+Wilderness Sense (Ability) ...... 172
+Wilderness Sense (Virtue) ....... 116
+Winter ..................................... 176
+Winter Ruins ........................... 178
+Wisdom from Ignorance 
+(Virtue) .................................... 116
+Wise One (Virtue) .................. 116
+Witch (Template) ..................... 35
+Witch Marks (Flaw) ................ 154
+Withstand Casting (Virtue) .... 116
+Wizard’s March ......................... 18
+Wizard’s Sigils ................. 224, 314
+Wizard’s Twilight ............. 228-230
+Wizard’s War ............................ 21
+Women in 
+Mythic Europe ................. 511-514
+Words and Gestures ......... 216-217
+Wound Penalties ............... 30, 404
+Wounds ............................ 404-406
+Wrath ...................................... 499
+Wrathful (Flaw) ....................... 154
+Writing books .................. 379-380
+Year (Duration) ....................... 305
+Year + 1 (Duration) ................. 237
