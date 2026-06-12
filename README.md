@@ -12,7 +12,7 @@ This is a work-in-progress repository for machine-extracted, manually fixed mark
 
 * In the [**/3rd-party**](/3rd-party/) folder, you'll find markdown versions of 3rd party material (added by popular demand). Feel free to submit new files here (we'll accept what's what's within open license and in good shape).
 
-The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements and Houses of Hermes are most in need.*
+The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
 <br/>
 <br/>
 

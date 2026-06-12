@@ -53,7 +53,9 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - Often inconsistent use of punctuation in lists (only occasionally fixed).
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
 - p31-43: Mixed use of both semicolon and comma under Virtues and Flaws throughout all Character Templates (not fixed)
+- p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
+- p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
@@ -477,7 +479,7 @@ Stress dice are rolled when a character is under stress, and thus might succeed 
 
 For a stress roll, roll a ten-sided die. One and zero have special meanings, but the other numbers count for their value, as normal. On a roll of one, roll again and double the number rolled. If the reroll is also a one, roll again and quadruple. On second and subsequent rolls, a zero counts as ten. If a player rolled ten consecutive ones, the number rolled on the eleventh throw would be multiplied by 1024. Stress die totals in the hundreds are likely to happen a handful of times in a long-running saga.
 
-On the first roll, zero counts as zero, and you must normally roll for a botch. Roll a number of tensided dice determined by the situation, called the botch dice, and if any of them show a zero, you have botched. If you roll no zeroes on the botch dice, the die roll is simply a zero.
+On the first roll, zero counts as zero, and you must normally roll for a botch. Roll a number of ten-sided dice determined by the situation, called the botch dice, and if any of them show a zero, you have botched. If you roll no zeroes on the botch dice, the die roll is simply a zero.
 
 Some stress rolls cannot botch. In that case, a zero on the initial roll is simply a roll of zero. Similarly, if a character has qualities that reduce the number of applicable botch dice to zero, the stress roll cannot botch.
 
