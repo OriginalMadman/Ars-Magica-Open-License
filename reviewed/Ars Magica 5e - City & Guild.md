@@ -7,6 +7,14 @@
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
+### Identified Issues From Source PDF Release
+
+Applied errata.
+
+- Joined split paragraphs
+
+---
+
 # Credits
 
 **authors:** Timothy Ferguson (Goods, Travel, Trade), Richard Love (Towns), Matt Ryan (Craft, Gilds, Prices), Sheila Thomas (Fairs, Towns)
@@ -1353,8 +1361,7 @@ Masters have a voice in the guild and are expected to express their views. They 
 
 Masters are expected to pay annual dues to the guild, and masters that fall behind in their dues are fined. If his dues aren't brought up to date, a master could be expelled from the guild.
 
-It is rare for a master to live at a covenant, since his guild operates in an urban setting and he is intimately involved in his craft, guild, and town. Having his workshop at the covenant would require a close proximity between the covenant and the town. It is more likely that a master character lives in the town and has other ties to the covenant. He could contribute funds to the covenant in exchange for magical assistance, based on familial connections, or through other political or 
-past obligations.
+It is rare for a master to live at a covenant, since his guild operates in an urban setting and he is intimately involved in his craft, guild, and town. Having his workshop at the covenant would require a close proximity between the covenant and the town. It is more likely that a master character lives in the town and has other ties to the covenant. He could contribute funds to the covenant in exchange for magical assistance, based on familial connections, or through other political or past obligations.
 
 >#### Doolin, Guild Master Clothier
 >
@@ -1956,7 +1963,7 @@ Magic abounds in Mythic Europe, and has left its mark in the blood of some craft
 
 There are a number of styles of craft magic in Mythic Europe, and that used by crafters with a drop of magic in their blood are just one of the many varieties. Some of the more powerful creators of magical items have been incorporated into the Order of Hermes (see *Houses of Hermes: Societates*), but most produce items that are too minor to qualify them for membership.
 
-To create wondrous items, a character must have the Major Supernatural Virtue Touched by (Realm). The powers of every wondrous item the character creates, including any requisites, must fall within those two Forms, although you may use any Technique when determining the exact nature of the power instilled. The powers of every wondrous item the character creates must fall within those two Forms, although you may use any Technique when determining the exact nature of the power instilled.
+To create wondrous items, a character must have the Major Supernatural Virtue Touched by (Realm). The powers of every wondrous item the character creates, including any requisites, must fall within those two Forms, although you may use any Technique when determining the exact nature of the power instilled.
 
 While these effects and their use are similar to Hermetic magic, the power that a craftsman instills is based on older, more unpredictable forces. There are essential differences between wondrous items and Hermetically enchanted items, namely the latter's predictable operation and ability to affect other magical entities or items. Wondrous items have no Penetration scores and cannot affect anyone with even the slightest Magic Resistance.
 
@@ -2714,9 +2721,7 @@ A covenant might find a way to become the owner of a lucrative fair, perhaps thr
 
 ### Trading Law
 
-For the system of trade to work, making it economic for merchants to transport goods over long distances and risking the dangers of travel, it is essential that there is trust between trading partners and an understanding that agreements can be enforced. Courts of law set up at the great international fairs provide a means of settling disputes in front of an international audience. People pass on news of the
-
-judgments made, the names of those found guilty, and fines levied against their fellow guild members when they return home, so reputations and knowledge of international trade laws spread.
+For the system of trade to work, making it economic for merchants to transport goods over long distances and risking the dangers of travel, it is essential that there is trust between trading partners and an understanding that agreements can be enforced. Courts of law set up at the great international fairs provide a means of settling disputes in front of an international audience. People pass on news of the judgments made, the names of those found guilty, and fines levied against their fellow guild members when they return home, so reputations and knowledge of international trade laws spread.
 
 Frequently goods are sold for cash or exchanged for other goods, but if delivery or payment is not to be immediate — as is often the case where large quantities are involved — a contract is required. This is commonly sealed by a payment of God's penny (any small coin given as a token of the agreement) in front of a witness, by a tally, or by a written bond. A tally is a piece of wood several inches in length. Notches of varying size are cut on the upper and lower faces to denote the sum of money or value of goods involved in the deal, with identical identifying words also written on each face. A cut is made about half way through the stick on one face, about three inches from one end, and then the stick is split from the other end as far as that cut. Each of the people involved take one of the two unequal pieces so that the pair can be reunited to settle any later dispute about the debt. The *instrumentum ex causa cambii*, or recognizance, is a document signed by the seller, the buyer, or the buyer's agent, and by an independent witness or notary, which is used to record a sale agreement. At the larger fairs, wardens are appointed to oversee contracts and ensure that the details are properly recorded.
 
@@ -2744,9 +2749,7 @@ At all the great fairs, royalty and other powerful customers makes purchases, ei
 
 ### Paying Up
 
-All small payments are made on the spot in cash, but bills for large amounts of the best woolen cloth can run to 100 pounds, with prices for individual lengths running two to four pounds. Customers are not expected to carry such large sums, and the custom is for payment and
-
-delivery to take place at a later fair, usually elsewhere. When the customer is another merchant, attending the fair to both buy and sell, it is usual for each individual's debts and credits to be accumulated and then sorted out at the end of the fair. When the day of reckoning arrives, clerks work out who owes what to whom, making use of signed documents, tally sticks, and details of debts recorded on written rolls during the course of the fair.
+All small payments are made on the spot in cash, but bills for large amounts of the best woolen cloth can run to 100 pounds, with prices for individual lengths running two to four pounds. Customers are not expected to carry such large sums, and the custom is for payment and delivery to take place at a later fair, usually elsewhere. When the customer is another merchant, attending the fair to both buy and sell, it is usual for each individual's debts and credits to be accumulated and then sorted out at the end of the fair. When the day of reckoning arrives, clerks work out who owes what to whom, making use of signed documents, tally sticks, and details of debts recorded on written rolls during the course of the fair.
 
 If the covenant is negotiating for several months' supply of wine or fabric to clothe all their servants, they attract attention if they are seen to hand over several pounds' worth of silver coins. It may provoke unwanted curiosity from pushy salesmen, or they may become targets for thieves and confidence tricksters. It is safer to send a companion or another agent, and follow the same payment procedures as mundane customers. Only the richest people can afford to buy the rarer luxuries, and at many fairs, the rich attendees expect to know all the other rich people in the area. Well-established covenants make use of contacts built up over a long period of time to avoid exciting curiosity, but a new covenant might have a problem. A busybody or provocateur may stir up altogether too much interest in finding out who these unknown big spenders are.
 
@@ -2987,9 +2990,7 @@ Characters may give their surplus labor as charity. The Church directs this labo
 
 - This improves the Reputation of the character (usually providing 1 Reputation experience point per season's worth of Labor Points spent, although these may be trickled into the charity over many years.) 
 - It provides social contact with the overseer employed by the Church, and those people the charity aids. 
-- A character who has given at least (1 x Wealth Multiplier) Labor Points to a charity in the past year can, on short notice, summon a crowd of the people whom the charity assists. If the characters sends out a call, a number of people respond equal to the character's (Communication + Leadership) x his Reputation resulting from charity work x a Social Status Multiplier. The Social Status Multiplier for urban merchants is 1, for local carriers is 2, for merchant adventurers is 3, for factors is 4, and for capos is 5. A character who supports a home 
-
-for retired sailors can summon a crowd of ancient mariners and their families. A character who supports a bread dole can call up crowds of beggars, bakers, reapers, and so on. These people are willing to do mildly illegal things for the character. With a week's notice, the character can double this number of respondents.
+- A character who has given at least (1 x Wealth Multiplier) Labor Points to a charity in the past year can, on short notice, summon a crowd of the people whom the charity assists. If the characters sends out a call, a number of people respond equal to the character's (Communication + Leadership) x his Reputation resulting from charity work x a Social Status Multiplier. The Social Status Multiplier for urban merchants is 1, for local carriers is 2, for merchant adventurers is 3, for factors is 4, and for capos is 5. A character who supports a home for retired sailors can summon a crowd of ancient mariners and their families. A character who supports a bread dole can call up crowds of beggars, bakers, reapers, and so on. These people are willing to do mildly illegal things for the character. With a week's notice, the character can double this number of respondents.
 
 #### Commodity Speculation
 

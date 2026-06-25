@@ -7,6 +7,20 @@ A sourcebook for Ars Magica 5th Edition.
 > 
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
+### Identified Issues From Source PDF Release
+
+Applied errata.
+
+- Enchanted devices' use of *GL* (Guideline Level) is left as-is, a mismatch with "Base" for spells.
+- *Lesser Enchanted Devices* have final level baked in, left as-is
+- Normalized spell format
+- Joined split paragraphs
+- Reordered *Story Seed: The Fane Falls*
+- Added missing text for *Larinda*
+- Minor rewording for *A Spell to Milk Cattle*
+
+---
+
 The covenant: home of magi, heart of an Ars Magica saga.
 
 Much more than just a base camp, a covenant’s prosperity determines the power and safety of the characters who live there. The challenges faced by a covenant shape the whole saga. This book includes new Boons and Hooks for a wide range of saga styles, extensive guidance on governance and covenfolk, story-based rules for determining the covenant’s wealth, expanded rules for developing libraries and enchanting books, and all-new rules for personalizing and improving the laboratories of magi.
@@ -174,7 +188,7 @@ The last three chapters (Chapters 7–9) consider the innermost parts of the cov
 > #### Laboratories
 > 
 > - Extra labs: 50 each
-> - Non-standard lab: Size x 20; Major Virtue: 20; Minor Virtue: 10
+> - Non-standard lab: 50 plus Size x 20; Major Virtue: 20; Minor Virtue: 10; Major Flaw: -20, Minor Flaw: -10; No laboratory can cost fewer than 0 points.
 > 
 > #### Laboratory Texts
 > 
@@ -759,7 +773,7 @@ Within each Tribunal, covenants develop rivalries. These can be based on differe
 
 ### Major External Relations Boons
 
-**Autocephalous**: Some areas of Europe are not ruled by any nobleman, or are ruled by smallholding nobles who have never bent the knee to an outsider. This Boon suits covenants in any place where they can, without question, claim the right to live without an overlord. A covenant with the Isolated Boon need not take this one.
+**Autocephalous**: Some areas of Europe are not ruled by any nobleman, or are ruled by smallholding nobles who have never bent the knee to an outsider. This Boon suits covenants in any place where they can, without question, claim the right to live without an overlord.
 
 **Dedicated Covenant:** This covenant was formed to fulfill, or later chose to adopt, a difficult task. Other magi in the Tribunal, or the Order, feel the covenant's work is so laudable that they have passed rulings to ensure that the cost is shared equitably. Many covenants are dedicated to research. In Ireland there is a covenant dedicated to researching spells that protect against the servants of the Infernal, while in the Alps a covenant continually seeks better longevity enchantments. A dedicated covenant receives money, vis, and other assistance from other covenants. While this does not make its research lucrative, it does prevent the covenant from sliding into penury due to its work.
 
@@ -997,7 +1011,7 @@ This covenant has militarized to fight faeries in its vicinity. Its buildup of f
 
 The covenant has become master of a coastal holding. It is closely tied to the mundane nobility and may soon come to the attention of the Quaesitores.
 
-**Hooks:** Castle (Major), Road: Coastline on Sea Route (Minor), Mundane Politics (Major), Rights (Minor)
+**Hooks:** Castle (Major), Road: Coastline on Sea Route (Minor), Mundane Politics (Major), Rights and Customs (Minor)
 
 **Free:** Faux Feudalism
 
@@ -1053,7 +1067,7 @@ This is a classic Summer covenant. Set amidst cropland and supported by serfs, i
 
 **Hooks**: Castle (Major), Faerie Court (Minor)
 
-**Free:** Criminals , Faux Feudalism
+**Free:** Faux Feudalism
 
 **Boons**: Curtain Walls and Mural Towers: Octagonal Keep (Major), Informants (Minor)
 
@@ -1077,9 +1091,7 @@ This covenant does not have a stationary site. It moves on a circuit to harvest 
 
 ### Urban
 
-The covenant is hidden in a regio in
-
-a city. While this makes reaching a market easy, it brings its own problems.
+The covenant is hidden in a regio in a city. While this makes reaching a market easy, it brings its own problems.
 
 **Hooks**: Flickering Aura (Minor), Rival (Minor), Refugee (Minor), Urban (Major)
 
@@ -1585,15 +1597,13 @@ In addition to a leader, covenants with any social system may wish to consider a
 > 
 > None of the styles of governance in themselves require any specific Boons or Hooks. However, some Boons and Hooks are particularly appropriate for different governance methods.
 > 
-> Governance Boons Hooks Anarchy Ungoverned Divided Loyalty, Fractured Council, Customs
-> 
-> Autocracy Autocracy (Covenfolk), Gerontocracy House Covenant, Superiors, Vis Salary
-> 
-> Bureaucracy — Literate, Guild, Center of Excellence
-> 
-> Democracy Democracy (Covenfolk), Vis Grant Fractured Council, Suffrage
-> 
-> Hierarchy Faux Feudalism, Theocratic, Hidden Resources Superiors, Vis Salary
+> | Governance | Boons | Free | Hooks |
+> |---|---|---|---|
+> | Anarchy | Ungoverned | — | Divided Loyalty, Fractured Council |
+> | Autocracy | — | Autocracy, Gerontocracy | Superiors, Vis Salary |
+> | Bureaucracy | Literate Covenfolk | | Guild, Center of Excellence |
+> | Democracy | Vis Grant | Democracy | Fractured Council, Suffrage |
+> | Hierarchy | Hidden Resources | Faux Feudalism, Theocracy | Superiors, Vis Salary |
 
 ## The Council Meeting
 
@@ -1676,9 +1686,7 @@ Not all decisions have to be made by vote. More unusual covenants may demand tha
 > 
 > ### Example Methods of Adjudicating a Result
 > 
-> Majority by Vote: Votes for ("aye" votes) and against ("nay" votes) the
-> 
-> issue in question are counted. If the ayes exceed the nays the motion is carried, if not, it is rejected. Absentees and abstention votes are ignored.
+> Majority by Vote: Votes for ("aye" votes) and against ("nay" votes) the issue in question are counted. If the ayes exceed the nays the motion is carried, if not, it is rejected. Absentees and abstention votes are ignored.
 > 
 > - Majority by Magus: As above, but more than half of the magi present at the meeting must vote aye for a motion to be carried; that is, abstentions are treated as nay votes. Absentees are ignored.
 > - Majority by Member: As above, but more than half of the magi who are members of the covenant must vote aye for the motion to be carried; that is, absentees *and* abstentions are treated as nay votes.
@@ -2272,7 +2280,7 @@ Guile 4 (fast talk), Village Lore 2 (local customs)
 
 **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16+)
 
-**Abilities:** \[Native Language\] 5, Animal Handling 4 (cattle), Animal Ken 3 (cattle), Athletics 1 (run), Awareness 2 (search), Bargain 1 (produce), Brawl 3 (fist), Carouse 3 (power drinking), Climb 2 (trees), Covenant Lore 2 (grogs), Craft: Farmer 4 (plowing), Folk Ken 2 (peasants), Great Weapon 2 (pitchfork), Guile 3 (lying to authority), Ride 2 (mule), Survival 2 (sleeping rough), Village Lore 2 (people)
+**Abilities:** \[Native Language\] 5, Animal Handling 4 (cattle), Animal Ken 3 (cattle), Athletics 1 (run), Awareness 2 (search), Bargain 1 (produce), Brawl 3 (fist), Carouse 3 (power drinking), Covenant Lore 2 (grogs), Profession: Farmer 4 (plowing), Folk Ken 3 (peasants), Great Weapon 2 (pitchfork), Guile 3 (lying to authority), Ride 2 (mule), Survival 2 (sleeping rough), Village Lore 2 (people)
 
 **Equipment**: clothes according to prosperity, farming tools
 
@@ -2340,7 +2348,7 @@ These covenfolk live at a great fortification that's the envy — or nightmare o
 
 **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 
-**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16+)
+**Wound Penalties**: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13+)
 
 **Abilities:** \[Native Language\] 5, Awareness 2 (attentive), Bargain 1 (music), Brawl 1 (fist), Carouse 2 (coarse songs), Charm 3 (sweet words), Covenant Lore 3 (history), Enchanting Music 6+2 (love), Etiquette 2 (covenants), Faerie Lore 1 (fabulous tales), Folk Ken 1 (magi), Guile 3 (elaborate lies), Intrigue 2 (magi), Latin 4 (Hermetic use), Leadership 2 (grogs), Legerdemain 3 (nimble fingers), Magic Lore 2 (fabulous tales), Music 4 (wide knowledge), Order of Hermes Lore 2 (history), Ride 1 (mule)
 
@@ -2516,7 +2524,7 @@ Defense +6, Damage +8 *Axe (mounted):* Init +0, Attack +15, Defense
 
 **Encumbrance:** 0 (2); 2 (4) if armored
 
-**Customization Notes:** In 1220 it was still very difficult to manufacture pure clear glass. The process is almost alchemical, and Faerie Blood provides a rationale for a glass-maker who *can* make it. Making clear glass by magic is an expensive alternative, requiring Creo rituals (and vis); Perdo cannot be used to remove "just" the impurities, as it is in the nature of Perdo to make things more flawed than the ideal. Only Creo can move matter towards an ideal. This glass-blower's Craft skill can be changed freely, and the Offensive and Oversensitive Flaws easily changed. The Dwarf Blood Virtue is not, strictly speaking, *necessary,* but provides a good story reason for a martial craftsman. Swapping Custos for Warrior or Privileged Background provides more XP while still allowing Martial Abilities.
+**Customization Notes:** In 1220 it was still very difficult to manufacture pure clear glass. The process is almost alchemical, and Faerie Blood provides a rationale for a glass-maker who *can* make it. Making clear glass by magic is an expensive alternative, requiring Creo rituals (and vis); Perdo cannot be used to remove "just" the impurities, as it is in the nature of Perdo to make things more flawed than the ideal. Only Creo can move matter towards an ideal. This glass-blower's Craft skill can be changed freely, and the Offensive and Oversensitive Flaws easily changed. The Dwarf Blood Virtue is not, strictly speaking, *necessary,* but provides a good story reason for a martial craftsman. Swapping Custos for Warrior or Privileged Upbringing provides more XP while still allowing Martial Abilities.
 
 #### Lore-master
 
@@ -2594,7 +2602,7 @@ The templates that follow provide two examples of covenfolk who can serve as ent
 
 *Fist:* Init +1, Attack +3, Defense +4, Damage +1
 
-**Soak:** +1
+**Soak:** 0
 
 **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 
@@ -2760,7 +2768,7 @@ R: Touch, D: Conc, T: Group
 
 While you wait, the cows are magically milked without further handling, transferring their milk into nearby milkpails. The magus's Perception + Finesse roll substitutes for an Animal Handling roll by a competent farmer; the spell gathers the milk, but if the roll is failed, the cattle may be spooked.
 
-Milking cattle is normally Simple (3) if the cattle are accustomed to the process and the milking hand, so the basic Finesse Ease Factor is at least 6, higher if anything disturbs the cows. Cows are initially be disconcerted at being milked by invisible hands, and need soothing (*The Gentle Herd* is ideal for this task). Unless magically calmed, the Finesse roll is Very Hard (15+) the first time cows are milked by magic, but this Ease Factor reducing over time and successful milking to 12, then 9, until the cows become accustomed to the process (6).
+Milking cattle is normally Simple (3) if the cattle are accustomed to the process and the milking hand, so the basic Finesse Ease Factor is at least 6, higher if anything disturbs the cows. Cows are initially disconcerted at being milked by invisible hands, and need soothing (*The Gentle Herd* is ideal for this task). Unless magically calmed, the Finesse roll is Very Hard (15+) the first time cows are milked by magic, but this Ease Factor reduces over time with successful milking to 12, then 9, until the cows become accustomed to the process (6).
 
 (Base 3, +1 Touch, +1 Conc, +2 Group)
 
@@ -2774,7 +2782,7 @@ A group of animals are rendered calm and placid, even while unusual events occur
 
 (Base 4, +1 Touch, +1 Conc, +2 Group)
 
-#### The Carpenter's Keen Eye
+##### The Carpenter's Keen Eye
 
 InHe 15
 
@@ -2820,7 +2828,7 @@ Note that in the thirteenth century, most glass is not particularly clear — ma
 
 (Base 2, +1 Glass, +1 Touch)
 
-#### The Spell of Wrought Iron
+##### The Spell of Wrought Iron
 
 ReTe 15
 
@@ -2830,7 +2838,7 @@ The spell transforms raw pig-iron from a furnace into plain bars of wrought iron
 
 (Base 2, +2 Metal, +1 Touch, +2 Group)
 
-#### The Phantom Blacksmith
+##### The Phantom Blacksmith
 
 ReTe 20
 
@@ -2846,7 +2854,7 @@ The following sections describe a number of enchanted devices that may be used a
 
 #### Magical Oven
 
-Creo Ignem 20 Pen +0, 24/day R: Pers, D: Conc, T: Ind, device maintains concentration
+Creo Ignem 20<br>Pen +0, 24/day<br>R: Pers, D: Conc, T: Ind, device maintains concentration
 
 The device takes the form of a hollow box of iron encased in fire-brick, with a detachable iron lid. On command, the hollow interior becomes red-hot and stays so until sunset or the command to stop is given.
 
@@ -2856,15 +2864,11 @@ If this amount of heat is excessive, as it often is, food may be placed on the o
 
 #### The Enchanted Chef
 
-Rego Herbam (Animal, Aquam, Ignem) 45\*
-
-Pen +0, 24/day
-
-R: Touch, D: Mom, T: Group
+Rego Herbam (Animal, Aquam, Ignem) 45\*<br>Pen +0, 24/day<br>R: Touch, D: Mom, T: Group
 
 Placing a selection of food (vegetables, meat, liquids) inside this pot and closing it, the user describes the recipe they wish applied to the food, which is instantly processed and transformed as if by a cook. The edibility and quality of the food is not changed in any way, other than to discard small spoiled parts (as any cook would).
 
-The resulting dish is as described by the user, and limited by his knowledge (or imagination) and quality of description. A Communication + Finesse roll by the user replaces the Craft: Cook roll (at +3 Ease Factor). The food will be at least technically edible (if edible materials were placed within), though a poor Finesse roll may result in a less appetizing dish than hoped for. The user may substitute Communication + Craft: Cook for Communication + Finesse if he possesses that skill.
+The resulting dish is as described by the user, and limited by his knowledge (or imagination) and quality of description. A Communication + Finesse roll by the user replaces the Craft: Cook roll (at +3 Ease Factor). The food will be at least technically edible (if edible materials were placed within), though a poor Finesse roll may result in a less appetizing dish than hoped for.
 
 Covenants lacking grogs with the desired skills may write out instructions for the device, provided the grogs are literate enough to read a recipe. Use the writer's quality (as if he were writing a tractatus) in place of die rolls. Failing all else, the user can request "Traveler's Hot-Pot." This is a very basic stew, with peeled vegetables and chopped meat, boiled until over-done, which has an Ease Factor of only 3.
 
@@ -2874,7 +2878,7 @@ Covenants lacking grogs with the desired skills may write out instructions for t
 
 #### Stone-Cutting Knife
 
-Rego Terram 15 Pen +0, unlimited uses R: Touch, D: Mom, T: Part
+Rego Terram 15<br>Pen +0, unlimited uses<br>R: Touch, D: Mom, T: Part
 
 This enchanted chisel shapes and forms stone as if a well-equipped stonemason were carving it. The device may be used to carve blocks from a quarry (hence the Part Target). The wielder's Dexterity + Finesse roll substitutes for a mason's Craft roll (with +3 to the comparable Ease Factor).
 
@@ -2884,9 +2888,7 @@ It is a Simple task for a Mason to cut a plain block, so the basic Finesse Ease 
 
 #### The Enchanted Porter
 
-Rego Terram 15 Pen +0, 24/day
-
-R: Touch, D: Conc, T: Ind, device maintains concentration
+Rego Terram 15<br>Pen +0, 24/day<br>R: Touch, D: Conc, T: Ind, device maintains concentration
 
 This enchanted glove, when placed against an inanimate object, lifts and pushes the object as the user holds on and moves. When the user removes his gloved hand from the object, it settles to the ground.
 
@@ -2894,9 +2896,7 @@ This enchanted glove, when placed against an inanimate object, lifts and pushes 
 
 #### The Motivated Plow
 
-Rego Terram 15 Pen +0, 24/day
-
-T: Touch, D: Conc, T: Part, device maintains concentration
+Rego Terram 15<br>Pen +0, 24/day<br>R: Touch, D: Conc, T: Part, device maintains concentration
 
 This lightweight, plow-shaped device can easily be pushed along even by a single grog, not needing any harnessed beasts. If settled on the ground, it transforms even hard-packed earth into loose, well-plowed soil in a circle 15 paces across.
 
@@ -2904,23 +2904,26 @@ This lightweight, plow-shaped device can easily be pushed along even by a single
 
 #### The Vitalizer of Provisions
 
-Creo Animal (Herbam) 19 Pen +0, constant effect R: Touch, D: Conc, T: Group This chest preserves food placed within it, preventing decay while the door remains closed. When removed from the box, the effect ceases to affect the food, and it may be cooked and eaten — as fresh as when it was placed within.
+Creo Animal (Herbam) 19<br>Pen +0, constant effect<br>R: Touch, D: Conc, T: Group
+
+This chest preserves food placed within it, preventing decay while the door remains closed. When removed from the box, the effect ceases to affect the food, and it may be cooked and eaten — as fresh as when it was placed within.
 
 (GL 2, +1 Touch, +2 Sun, +2 Group, +3 levels environmental trigger, +1 level for twice daily)
 
 #### The Death of Vermin
 
-Rego Animal 20 Pen +0, 1/day
+Rego Animal 20<br>Pen +0, 1/day<br>R: Voice, D: Sun, T: Group
 
 This box is enchanted to fill specific vermin with a desire to approach and enter the box. The box is placed where vermin are found, triggered, and left to gather any that approach the box. The effect lasts until sunset or sunrise: most vermin are either active by day, or active by night, so one use gathers all vermin in that area.
 
 Once in the box, the vermin may be destroyed by a suitably equipped grog.
 
-(GL 2, +2 Voice, +2 Sun, +2 Group) *A spell exists to kill pests instantly, but is level 50 Perdo Animal, and a device to perform this task would require 5 or 6 pawns of vis; as such, it is cheaper to have a grog sit by and stomp on the vermin necessary.*
+(GL 2, +2 Voice, +2 Sun, +2 Group)
+*A spell exists to kill pests instantly, but is level 50 Perdo Animal, and a device to perform this task would require 5 or 6 pawns of vis; as such, it is cheaper to have a grog sit by and stomp on the vermin necessary.*
 
 #### Abluere Magica
 
-Rego Herbam (Animal) 15 Pen +0, unlimited uses T: Touch, D: Mom, T: Ind
+Rego Herbam (Animal) 15<br>Pen +0, unlimited uses<br>R: Touch, D: Mom, T: Ind
 
 The device takes to form of two hinged boards that close together in the manner of a large book. Placing a soiled garment between the boards momentarily renders it clean and fresh, as if a washerwoman had worked her art upon it.
 
@@ -2932,7 +2935,7 @@ Some covenants enchant a larger device, requiring two people to open and close i
 
 #### The Dumb Waiter
 
-Rego Terram, level 35 Pen +0, 24/day R: Touch, D: Mom, T: Group
+Rego Terram 35<br>Pen +0, 24/day<br>R: Touch, D: Mom, T: Group
 
 The Dumb Waiter instantly transports food and plates, drink and cups, from the kitchen (where the device resides) to specified places in the covenant within 50 paces. The destination for a given load is indicated by placing a small arcane connection in a receptacle on top of the device.
 
@@ -2942,7 +2945,7 @@ The Dumb Waiter ensures that food is as fresh as possible, and still hot, when i
 
 #### Incendior Homines
 
-Creo Ignem 30 Pen +8, 50/day R: Voice, D: Mom, T: Ind
+Creo Ignem 30<br>Pen +8, 50/day<br>R: Voice, D: Mom, T: Ind
 
 This aid for the militant turb provides heavy firepower, exceeding that of the long bow, and can be used even by an unskilled grog. When the trigger is activated, a designated target is enveloped in flame, suffering +15 damage, with +8 Penetration. The downside is that targets with Magic Resistance may shrug off the device.
 
@@ -3008,9 +3011,9 @@ Included in this heading are the familiars of magi. Most sagas will have familia
 
 > ## Lesser Device: The Marvelous Hound
 > 
-> Muto Animal (Corpus, Mentem) 34 Pen +0, constant effect
+> Muto Animal (Corpus, Mentem) 34<br>Pen +0, constant effect<br>R: Touch, D: Constant Effect, T: Ind
 > 
-> R: Touch, D: Constant Effect, T: Ind This collar transforms a normal hound into an ideal servant, who walks erect and has hands; has the intellect of a grog; but retains the devotion, willingness to please. and loyalty of a hound. The creature's overall appearance remains hound-like, but its limbs and intellect are transformed by the device.
+> This collar transforms a normal hound into an ideal servant, who walks erect and has hands; has the intellect of a grog; but retains the devotion, willingness to please. and loyalty of a hound. The creature's overall appearance remains hound-like, but its limbs and intellect are transformed by the device.
 > 
 > One defect is that the hounds suffer Warping from the constant effect, but over the lifetime of a dog, this is generally not too much of a problem.
 > 
@@ -3018,11 +3021,7 @@ Included in this heading are the familiars of magi. Most sagas will have familia
 
 > ## Fantastical Device: The Remote Entrance Portal
 > 
-> Rego Corpus 50
-> 
-> Pen +0, 24/day
-> 
-> R: Sight, D: Mom, T: Group
+> Rego Corpus 50<br>Pen +0, 24/day<br>R: Sight, D: Mom, T: Group
 > 
 > For the security-minded covenant, this is a magical transporter activated only from within the covenant, with no use of Arcane Connections. If the covenant is otherwise physically inaccessible — for example, a flying castle — then hostile ingress may be almost impossible.
 > 
@@ -3030,7 +3029,7 @@ Included in this heading are the familiars of magi. Most sagas will have familia
 > 
 > The enchantment is a Rego Corpus 45 effect, and transports targets seen up to 500 paces into the covenant, or deposits them outside upon departure.
 >
->(Base 20, +3 Sight, +2 Group, +5 levels for 24 uses)
+> (Base 20, +3 Sight, +2 Group, +5 levels for 24 uses)
 
 ### The (Over) Familiar Cat
 
@@ -3126,7 +3125,7 @@ For added personality, a covenant which makes extensive use of enchanted devices
 
 **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16+)
 
-**Abilities:** \[Native Language\] 5, Athletics 3 (grace), Awareness 3 (search), Brawl 3 (dagger), Climb 4 (walls), Covenant Lore 1 (people), Folk Ken 1 (grogs), Latin 3 (overheard speech), Legerdemain 4 (pilfering), Stealth 5 (urban areas), Swim 1 (stay afloat), Thrown Weapon 3 (knife), Village Lore 1 (people)
+**Abilities:** \[Native Language\] 5, Athletics 5 (climbing), Awareness 3 (search), Brawl 3 (dagger), Covenant Lore 1 (people), Folk Ken 1 (grogs), Guile 1 (excuses), Latin 3 (overheard speech), Legerdemain 4 (pilfering), Stealth 5 (urban areas), Swim 1 (stay afloat), Thrown Weapon 3 (knife), Village Lore 1 (people)
 
 **Equipment**: travel clothes, dark (stealthy) clothes, knives, pack with rope and other necessities
 
@@ -3138,9 +3137,7 @@ For added personality, a covenant which makes extensive use of enchanted devices
 
 **Magic Might:** 10 (Mentem)
 
-**Characteristics:** Int 0, Per +2, Pre –1, Com 0, Str +1,\* Sta +2,\* Dex +1,\* Qik +2\* (\* Physical characteristics cannot
-
-affect the material world, but are used when interacting with other ghosts or spirits.)
+**Characteristics:** Int 0, Per +2, Pre –1, Com 0, Str +1,\* Sta +2,\* Dex +1,\* Qik +2\* (\* Physical characteristics cannot affect the material world, but are used when interacting with other ghosts or spirits.)
 
 **Size:** 0
 
@@ -3182,9 +3179,7 @@ affect the material world, but are used when interacting with other ghosts or sp
 
 (\* Ghostly equipment is not encumbering once ghostliness is accepted.)
 
-**Vis:** 2 Mentem, in remains if dispelled **Customization Notes:** Abilities, Virtues, and Flaws can be swapped. Ghosts can use weapons against other ghosts, so Single Weapon may be useful. Three hundred XP is the figure given
-
-for a Ghostly Warder in the Virtue's description, but feel free to have the ghost retain more or less experience from life. Ghosts do not, however, learn after death.
+**Vis:** 2 Mentem, in remains if dispelled **Customization Notes:** Abilities, Virtues, and Flaws can be swapped. Ghosts can use weapons against other ghosts, so Single Weapon may be useful. Three hundred XP is the figure given for a Ghostly Warder in the Virtue's description, but feel free to have the ghost retain more or less experience from life. Ghosts do not, however, learn after death.
 
  More notes on ghosts can be found in *Calebais: The Broken Covenant*. This ghost is bound magically, not haunting for a normal reason.
 
@@ -3495,13 +3490,13 @@ Legendary: The Penteli marble quarries, near Athens.
 > 
 > CrTe 35
 > 
-> R: Touch, D: Mom, T: Ind, Ritual
+> R: Touch, D: Mom, T: Group, Ritual
 > 
-> This spell fills a large chest or other sturdy container with up to ten cubic feet of silver pennies, an amount equivalent to about 2000 Mythic Pounds. The magus may choose the imprint on the coins, but this mark always bears some trace of the magus's sigil, which does tend to make them traceable.
+> This spell fills a large chest or other sturdy container with silver pennies equal to about 650 Mythic Pounds. The magus may choose the imprint on the coins, but this mark always bears some trace of the magus's sigil, which does tend to make them traceable.
 > 
-> A copy of this spell resides at the Great Library of Durenmar, but it is infamous for causing inflationary troubles. Given the recent rulings in many Tribunals, a covenant of ten magi would only be permitted to distribute 20 pounds of such silver per year, so that it would take 100 years to exhaust the silver created by even a single casting of the spell. Therefore, while there is nothing to stop a magus from learning this spell in the Great Library, he would surely earn the instant suspicion and attention of the Quaesitores if he did so.
+> A copy of this spell resides at the Great Library of Durenmar, but it is infamous for causing inflationary troubles. Given the recent rulings in many Tribunals, a covenant of ten magi would only be permitted to distribute 20 pounds of such silver per year, so that it would take more than 30 years to exhaust the silver created by even a single casting of the spell. Therefore, while there is nothing to stop a magus from learning this spell in the Great Library, he would surely earn the instant suspicion and attention of the Quaesitores if he did so.
 > 
-> (Base 15, +1 Touch, +2 size, +1 complexity)
+> (Base 15, +1 Touch, +2 Group, +1 complexity)
 
 #### Money
 
@@ -4285,15 +4280,11 @@ Traditionally, the covenfolk who finds the golden egg is allowed to keep it, as 
 
 **by Ulrich Willmünder**
 
-Over the course of centuries, attrition and erosion have worn down a onceproud mountain, and have produced a large field of rubble on the lower slopes below a ridge called the Devil's Chimney. Below the field of rubble lies a dark and
-
-wild magical forest, inhabited, among other animals, by a large flock of magpies.
+Over the course of centuries, attrition and erosion have worn down a onceproud mountain, and have produced a large field of rubble on the lower slopes below a ridge called the Devil's Chimney. Below the field of rubble lies a dark and wild magical forest, inhabited, among other animals, by a large flock of magpies.
 
 Every spring, the melting snow reveals some new rubble broken down from the mountain and the Devil's Chimney. Among this rubble a number of pure white, slightly glowing crystals can be found, which contain a pawn of Terram vis each. The vis could be easily harvested each spring — if it were not for the magpies.
 
-The magpies of the forest view the beautiful crystals as their natural possession and search the field of rubble as soon as the snow starts melting, and they attack anyone
-
-coming near the field. While the attack of a single magpie is no danger for a grown man, being attacked by a large flock on the slippery rubble of the mountain slopes can easily be fatal.
+The magpies of the forest view the beautiful crystals as their natural possession and search the field of rubble as soon as the snow starts melting, and they attack anyone coming near the field. While the attack of a single magpie is no danger for a grown man, being attacked by a large flock on the slippery rubble of the mountain slopes can easily be fatal.
 
 Once the crystals are brought to a magpie's nest, the vis is lost. But one of the eggs bred in a nest decorated with crystals hatches a magical magpie containing Animal vis — or making an interesting familiar. Stealing hatchlings, however, results in the wrath of the whole flock.
 
@@ -4303,13 +4294,9 @@ Once the crystals are brought to a magpie's nest, the vis is lost. But one of th
 
 **by Paul Tevis**
 
-High in the mountains, fed from melting snow, lies a stream of crystal clarity. As it rushes down the mountainside, it collects neither dirt nor leaf. The village at the base of the mountain enjoys considerable fame for the beer that the villag-
+High in the mountains, fed from melting snow, lies a stream of crystal clarity. As it rushes down the mountainside, it collects neither dirt nor leaf. The village at the base of the mountain enjoys considerable fame for the beer that the villagers brew from its sparkling water.
 
-> ers brew from its sparkling water.
-
-Magi are less interested in the villagers' beer than they are in its source. Halfway up the mountain, the stream pours over a small waterfall. On a ledge at the top the fall lies a stone inscribed with a Hermetic rune for Aquam. On auspicious nights of the year, a magus who sits upon this stone may thrust his hand into the water and cast *Distillation of the Purest Stream* (see below) to recover Aquam vis. This requires a Concentration + Strength roll against an Ease Factor of 15, due to the frigid water and the
-
-strong current. If the magus is protected against the cold, the Ease Factor drops to 9. If the Concentration roll fails, no vis may be gathered that night.
+Magi are less interested in the villagers' beer than they are in its source. Halfway up the mountain, the stream pours over a small waterfall. On a ledge at the top the fall lies a stone inscribed with a Hermetic rune for Aquam. On auspicious nights of the year, a magus who sits upon this stone may thrust his hand into the water and cast *Distillation of the Purest Stream* (see below) to recover Aquam vis. This requires a Concentration + Strength roll against an Ease Factor of 15, due to the frigid water and the strong current. If the magus is protected against the cold, the Ease Factor drops to 9. If the Concentration roll fails, no vis may be gathered that night.
 
 For a day after the vis is collected, the water from the stream (and any beer brewed with the water) tastes brackish and foul.
 
@@ -4478,9 +4465,7 @@ The window is situated prominently at the cathedral, in the south wall near the 
 
 This mountain lake is surrounded on all sides by rocky peaks, sheltering it from the outside world. Perhaps this has created a natural reservoir for Imaginem vis, or perhaps there is some unknown factor which causes the vis to pool here.
 
-The terrain around the lake blocks all but the strongest winds from reaching the water. As a result, the surface of the lake is completely still nearly all the time, and reveals a perfect reflection of the sky and hills above it. Anyone who looks at his own reflection sees himself, not as he is, but rather as a Platonic ideal of himself: his own perfect form. If the water is collected in a container, it still reflects the unnatural image, which is actually a distillation of the vis contained within. When the vis is drained from the water, it does not lose any of its clarity or stillness, but now instead reflects a dark image of anyone who
-
-gazes upon it. Magi who have tapped the waters for vis see themselves as old and decrepit, with the worst of their physical features emphasized. More than one grog has been driven screaming from the sight of the "cursed reflecting pool" left over once the magic has been worked.
+The terrain around the lake blocks all but the strongest winds from reaching the water. As a result, the surface of the lake is completely still nearly all the time, and reveals a perfect reflection of the sky and hills above it. Anyone who looks at his own reflection sees himself, not as he is, but rather as a Platonic ideal of himself: his own perfect form. If the water is collected in a container, it still reflects the unnatural image, which is actually a distillation of the vis contained within. When the vis is drained from the water, it does not lose any of its clarity or stillness, but now instead reflects a dark image of anyone who gazes upon it. Magi who have tapped the waters for vis see themselves as old and decrepit, with the worst of their physical features emphasized. More than one grog has been driven screaming from the sight of the "cursed reflecting pool" left over once the magic has been worked.
 
 ### Reginald's Rebec
 
@@ -4638,10 +4623,7 @@ The finest parchment, **vellum**, is made from the skins of calves and kids. The
 
 **Paper** is made from mashed linen rags. It is cheap, thin, and flexible, but is not durable. University students often use paper to create temporary books of notes. It is not an acceptable alternative to parchment for permanent records, although covenants use it for administrative notes. The quality and availability of paper has been steadily increasing for about a century, and its price continues to fall.
 
-**Wax** is made from honeycomb. It is used to make slates by fitting a shal-
-
-
-low frame to a board, then allowing a layer of wax to cool upon the board's surface. Boards are often strung together into books, filled with double-sided, wax slates. Wax slates are scored with a stylus to keep temporary notes. Apprentices practice their characters on wax, which can be heated and then reused. Mundanes simply press the wax back into shape with the spatulate end of their stylus.
+**Wax** is made from honeycomb. It is used to make slates by fitting a shallow frame to a board, then allowing a layer of wax to cool upon the board's surface. Boards are often strung together into books, filled with double-sided, wax slates. Wax slates are scored with a stylus to keep temporary notes. Apprentices practice their characters on wax, which can be heated and then reused. Mundanes simply press the wax back into shape with the spatulate end of their stylus.
 
 Wax is a wonderful medium for Hermetic note-taking. Once a wax slate is fitted to a firm writing surface, the magus does not need to dip his writing implement into an inkpot, or sharpen it, so it is quicker than parchment. The magus need not prepare ink at all, so it is convenient when traveling. Some magi, aware of the usefulness of wax but wary of its impermanence, prefer to mold stone, metal, bone, or wood, as suits their Arts.
 
@@ -4775,13 +4757,13 @@ Players using resonant materials of either type in crafting a book must describe
 > 
 > ### Extended Rules
 > 
-> **Maximum Summa Quality:** Author's Communication + 3 +1 for skilled scribe +1 for skilled binder + 1 for skilled illuminator + 3 (or less) due to mystical resonance + bonuses due to Virtues + bonus for writing to level less than half of Art score + 3 for non-magical subjects.
+> **Maximum Summa Quality:** Author's Communication + 3 +1 for skilled scribe +1 for skilled binder + 1 for skilled illuminator + 3 (or less) due to mystical resonance + bonuses due to Virtues + bonus for writing to level less than half of Art score.
 > 
 > A summa may instruct a magus until his Art equals the book's level. The effective maximum quality for Art summae is (35 – level), and most books have scores below this.
 > 
-> The quality bonus due to reducing a book's level may not exceed 2 x (Communication + Virtue bonuses + bonuses due to skilled artisans + 3).
+> The quality bonus due to reducing a book's level may not exceed Communication + Virtue bonuses + bonuses due to skilled artisans + 3.
 > 
-> **Maximum Tractatus Quality:** Author's Communication + 1 for skilled scribe +1 for skilled binder + 1 for skilled illuminator + 3 (or less) due to mystical resonance + bonuses due to Virtues + 3 for non-magical subjects.
+> **Maximum Tractatus Quality:** Author's Communication + 3 + 1 for skilled scribe +1 for skilled binder + 1 for skilled illuminator + 3 (or less) due to mystical resonance + bonuses due to Virtues.
 > 
 > The effective maximum quality for Art tractatus is 17, and most books have scores below this.
 > 
@@ -4790,8 +4772,6 @@ Players using resonant materials of either type in crafting a book must describe
 > Mystically resonant materials add to quality in books on Arcane Abilities or Arts. A material is resonant if it appears on the Shape and Material Bonus Table (see ArM5, page 110) with a bonus appropriate to the text. Troupes may also judge other materials to be resonant.
 > 
 > Resonant materials add +1 to quality if they are purchased items, +2 if they are rare items only to be gained from stories. Clarification of a book using resonant materials (see below) adds a further +1, for a maximum possible bonus of +3.
-> 
-> Books about non-magical subjects (that is, subjects other than Arcane Abilities and Arts) are easier to make than mystical books, so they have an automatic +3 quality bonus. They may not have resonant materials.
 
 A third point of Quality can be gained by clarifying a book. Clarification allows a magus to enchant a book concerning an Art or Arcane Ability so that it expresses its resonances more vividly. This allows readers to grasp the book’s contents more rapidly. A magus must have a score of 15 or more in the Art relevant to the book, or mastery of the relevant spell, before he can clarify a book.
 
@@ -4841,11 +4821,11 @@ An **opus** is, literally, any work by an author. An opus's type defines the sty
 
 A **casting tablet** contains a simple series of instructions for casting a particular spell. Magi who have not learned the spell's intricacies through laboratory research may use a casting tablet instead. Casting from tablets is dangerous, because the magus is calling on power that he cannot control accurately. Casting from tablets is also an inflexible style of spellcasting.
 
-A magus casting from a tablet does not understand the spell's workings, and so may not tinker with decisions made by the author. The Range, Duration, Target, and size of the spell, the exact amount and Arts of raw vis consumed, and any single type of Arcane Connection to be used, are specified by the author at writing." Delete the sentence about ceremonial and non-ceremonial casting. In the paragraph at the top of the second column, add the following sentences at the end. "Use this formula for both Formulaic and Ritual spells. The table replaces the normal results for casting either type of spell. For Formulaic spells, the Fatigue levels lost are short-term, and for Ritual spells they are long-term.
+A magus casting from a tablet does not understand the spell’s workings, and so may not tinker with decisions made by the author. The Range, Duration, Target, and size of the spell, the exact amount and Arts of raw vis consumed, and any single type of Arcane Connection to be used, are specified by the author at writing. Spells cast from tablets do not have Penetration bonuses unless they are built into the spell’s level by the author. Rituals may be cast from tablets.
 
 Rituals may be cast from tablets. It is possible, but dangerous, for a magus with a tablet to lead a *Wizard's Communion.* A botch by any member of the group causes the leader also to botch. An odd effect of casting from a tablet is that the sigil of the writer is preserved in the spell, and is visible along with the sigil of the caster.
 
-When casting from a tablet, a magus determines his casting total according to the following formula, then subtracts the spell level from the casting total and looks up the result on the table that follows.
+Use this formula for both Formulaic and Ritual spells. The table replaces the normal results for casting either type of spell. For Formulaic spells, the Fatigue levels lost are short-term, and for Ritual spells they are long-term.
 
 **Casting Total: Stamina + Form + Technique + Aura + stress die (modified by Virtues, Flaws and requisites)**
 
@@ -4875,7 +4855,7 @@ Magi can only author casting tablets for spells they have mastered, although mag
 
 Bound correspondences contain at least 24 topical letters from each magus, representing around two years' worth of correspondence. These are read — and purchased at covenant creation — as tractatus with a quality equal to the sum of the two participants' Communication scores. Lengthy bound correspondences are useful as research materials, described below. If both correspondents were experts on a topic, and the collection contains at least one hundred and twenty letters from each, the collection's value as a research aid increases one level. See the research rules below.
 
-**Florilegia** (singular florilegium) are anthologies on a topic created by binding together tractatus on Arcane Abilities and Arts. Each tractatus is still read separately, but each gains a quality bonus to reflect its mystical interaction with surrounding texts.
+**Florilegia** (singular florilegium) are anthologies on a topic created by binding together tractatus on a single topic. Each tractatus is still read separately, but each gains a quality bonus to reflect its mystical interaction with surrounding texts.
 
 The bonus depends on the editor who assembles the collection, and the materials with which he can work. An editor can only collect as many tractatus into a single florilegium as he could write on that subject (half his score in an Ability, one fifth of his score in an Art). He must have access to a collection containing at least twice as many tractatus on the subject as he plans to include in the florilegium, and a score of at least six in the relevant Ability, or 20 in the relevant Art. If these minima are met, the tractatus all gain a +1 bonus to quality. The bonus increases to +2 if the editor is an insightful authority on the subject of the florilegium (has a score of at least 10 in the Ability, or 35 in the Art) and is working from a library with a peerless collection on a subject (having at least five times as many tractatus as the editor plans to include).
 
@@ -4885,7 +4865,7 @@ An editor may create as many florilegia as he wishes, but each assemblage takes 
 
 **Glossed** books are those that have been written upon by a reader. Some glossers are skilled magi whose incisive observations make the book a superior study aid. The majority of glossers are simply vandals: their opinionated commentary, little jokes, and personal notes obscure and crowd the text.
 
-Glossing, by a reader at least half as skilled as the book's level and with a superior Communication score to the author, adds 1 to the quality of a book. It is performed during a season of reading. Although books may be glossed many times, this does not improve their quality beyond the first point. Glossed texts are bought as books of equivalent quality during covenant creation.
+Glossing, by a reader at least half as skilled as the book's level and with a superior Communication score to the author, adds 1 to the quality of a book. It is performed during a season of reading. Although books may be glossed many times, this does not improve their quality beyond the first point. Glossed texts are bought as books of equivalent quality during covenant creation. As with florilegia, glosses express resonance, and cannot be combined with resonant materials or clarification.
 
 An **inspeximus** is literally a book that has been re-read by its author to ensure accurate transcription, but in the Order the term is used for a book which the author has revisited after developing greater experience, and annotated to increase its study level.
 
@@ -5067,17 +5047,13 @@ No matter the method of sale, books are often sold at Tribunal. Many of these sa
 > 
 > A Perception + Finesse roll is treated as a Craft: Percamenarius roll to determine the quality of the vellum created.
 > 
-> (Base 3,. +1 Touch, +2 Group)
+> (Base 3, +1 Touch, +2 Group)
 > 
 > ##### Test of Fastness and Fading
 > 
 > InAq 5
 > 
 > R: Touch, D: Mom, T: Part
-> 
-> This spell confirms the quality of a container of ink, dye, or paint, verifying for the magus that it will not fade quickly, flake off rapidly, or eat through parchment.
-> 
-> (Base 3, +1 Touch, +1 Part)
 > 
 > This spell confirms the quality of a container of ink, dye, or paint, verifying for the magus that it will not fade quickly, flake off rapidly, or eat through parchment.
 > 
@@ -5131,7 +5107,7 @@ No matter the method of sale, books are often sold at Tribunal. Many of these sa
 > 
 > ##### The Scribe's Touch
 > 
-> PeAn 3
+> ReAn 3
 > 
 > R: Touch, D: Mom, T: Ind
 > 
@@ -5151,7 +5127,7 @@ No matter the method of sale, books are often sold at Tribunal. Many of these sa
 > 
 > ##### Thoughts Distinctly Burned
 > 
-> ReAq15
+> ReAq 15
 > 
 > R: Voice, D: Ring, T: Group
 > 
@@ -5169,7 +5145,7 @@ No matter the method of sale, books are often sold at Tribunal. Many of these sa
 > 
 > Req: Intellego
 > 
-> This spell lays the image of a book's page over the top of a blank sheet, so that a scribe can trace the page's contents. This creates identical copies of books. This is particularly useful when a book has lost a page, but can be made complete with a page copied from one of its sisters in another library. Used repeatedly over the course of a season, it can assist in the creation of copies of Hermetic books, allowing an unskilled magus to avoid the –3 penalty for scribing without Profession: Scribe. This spell is also known as *The Principal Aide to the Forger's Art*.
+> This spell lays the image of a book's page over the top of a blank sheet, so that a scribe can trace the page's contents. This creates identical copies of books. This is particularly useful when a book has lost a page, but can be made complete with a page copied from one of its sisters in another library. Used repeatedly over the course of a season, it can assist in the creation of copies of Hermetic books, allowing an unskilled magus to avoid the three extra botch dice for scribing without Profession: Scribe. This spell is also known as *The Principal Aide to the Forger's Art*.
 > 
 > (Base 1, +1 changes as pages turn, +2 Voice, +2 Sun, +2 Group, +1 requisite)
 > 
@@ -5201,27 +5177,27 @@ No matter the method of sale, books are often sold at Tribunal. Many of these sa
 > 
 > ##### Binding the Mundane Codex
 > 
-> ReAn 5
+> ReAn 4
 > 
 > R: Touch, D: Mom, T: Group
 > 
 > Req: Optional, Vary
 > 
-> This spell binds up to 1,000 prepared bifolds into books. Usually these bifolds have already been written upon, but magi may use this spell to create blank books if they wish. The spell fails if any of the necessary pieces of a codex are missing. Codicies created with this spell are usually flap-books, since they lack wooden boards within their covers. Binding mundane materials into the book which are not derived from animals, like cover boards or registers, requires a spell with the appropriate requisite and an Perception + Finesse roll against an Ease Factor of 12. Some magi mold animal bones into plates, to serve instead of wood. This spell allows readers of the book to claim the +1 quality bonus for sound binding.
+> This spell binds up to 1,000 prepared bifolds into books. Usually these bifolds have already been written upon, but magi may use this spell to create blank books if they wish. The spell fails if any of the necessary pieces of a codex are missing. Codicies created with this spell are usually flap-books, since they lack wooden boards within their covers. Binding mundane materials into the book which are not derived from animals, like cover boards or registers, requires a spell with the appropriate requisite and a Perception + Finesse roll against an Ease Factor of 12. Some magi mold animal bones into plates, to serve instead of wood. This spell allows readers of the book to claim the +1 quality bonus for sound binding.
 > 
-> (Base 1, +1 Touch, +2 Group, +1 size)
+> (Base 1, +1 Touch, +2 Group)
 > 
-> #### Binding the Hermetic Codex
+> ##### Binding the Hermetic Codex
 > 
-> ReAn 20
+> ReAn 15
 > 
 > R: Touch, D: Mom, T: Group
 > 
 > Req: Vary
 > 
-> A variant of *Binding the Mundane Codex*, this ritual allows magi to incorporate resonant materials into their bindings. Binding a book with resonant materials is extremely difficult and requires an Perception + Finesse roll against an Ease Factor of 12 + 3 per resonant material, to a maximum of three materials. This spell allows readers of the book to claim the +1 quality bonus for sound binding.
+> A variant of *Binding the Mundane Codex*, this spell allows magi to incorporate resonant materials into their bindings. Binding a book with resonant materials is extremely difficult and requires a Perception + Finesse roll against an Ease Factor of 12 + 3 per resonant material, to a maximum of three materials. This spell allows readers of the book to claim the +1 quality bonus for sound binding.
 > 
-> (Base 1, +1 Touch, +2 Group, +1 size)
+> (Base 1, +1 Touch, +2 Group, +3 complexity)
 
 ### Scribal Hospitality
 
@@ -5323,13 +5299,13 @@ R: Touch, D: Mom, T: Ind, Ritual
 
 This spell allows a magus to heal cracks and tears in the parchment and leather of a book. It is a comparatively expensive way to repair books, so it is only used when the covenant lacks skilled craftsmen, or on books of such historical significance that their owners prefer they are not repaired by human hands. For example, if one of the holographic diaries of Bonisagus is damaged, it is repaired in this way, rather than by having a scribe create a replacement page, because it preserves the handwriting of the Founder.
 
-(Base 5 \[one hide\], +2 treated animal product \[parchment]\ +1 Touch)
+(Base 5 \[one hide\], +2 treated animal product \[parchment\], +1 Touch)
 
 ##### A Useful Inculcator of Comments ReHe 4
 
 R: Touch, D: Mom, T: Ind
 
-This spell allows librarians to add new descriptions to their catalogs, by sliding the letters on a page aside to create the space for the new entry. The spell was originally created by a magusscribe to assist in glossing books, but is not effective for this purpose in newer works. That's because the oak-gall "ink" in newer books is really a dye, and to move aside such characters, which are made of dyed parchment, would require an Animal requisite. This limitation can be ignored if magi use true inks, which are suspensions of colored material in fluid, to write their catalogs. This spell assumes an ink made of soot, gum, and vinegar, all of which lie within a single Form. A Dexterity + Finesse roll determines the quality of the text after the magus has relocated it. A result less than 6 indicates that the text has interpolated into and corrupted some other passage.
+This spell allows librarians to add new descriptions to their catalogs, by sliding the letters on a page aside to create the space for the new entry. The spell was originally created by a magus-scribe to assist in glossing books, but is not effective for this purpose in newer works. That's because the oak-gall "ink" in newer books is really a dye, and to move aside such characters, which are made of dyed parchment, would require an Animal requisite. This limitation can be ignored if magi use true inks, which are suspensions of colored material in fluid, to write their catalogs. This spell assumes an ink made of soot, gum, and vinegar, all of which lie within a single Form. A Dexterity + Finesse roll determines the quality of the text after the magus has relocated it. A result less than 6 indicates that the text has interpolated into and corrupted some other passage.
 
 (Base 3, +1 Touch)
 
@@ -5349,7 +5325,7 @@ This spell allows the magus to check the physical condition and history of a boo
 
 InAn 25
 
-R: Touch, D: Mom, T: Ind
+R: Touch, D: Mom, T: Room
 
 Req: Herbam
 
@@ -5361,9 +5337,9 @@ This spell allows the magus to check every book in a room for a physical or hist
 
 MuAn 20
 
-Requisite: Rego, Intellego
-
 R: Per, D: Dia, T: Ind
+
+Req: Rego, Intellego
 
 This spell changes the book's register, its bookmark ribbon, into a venomous serpent. Cobras are traditional. It is typically vested in a single-use charged object, activated when the book is stolen from a library. Most librarians prefer this Animal form, but many others exist, due to the various specializations of magi. The exploding bookplate is perennially popular, as are bookplates that drive the thief into a penitent mania.
 
@@ -5377,15 +5353,15 @@ R: Touch, D: Ring, T: Circle
 
 This ward makes it impossible for those lacking Magic Resistance to remove a book from the library, because the book cannot cross a circle inscribed on the floor, or around the single doorway. It is traditional for librarians to defend these wards by placing destructive magical items near the entrances with the triggering condition "tampering with the book ward."
 
-(Base 1, +1 Touch, + 2 Ring)
+(Base 1, +1 Touch, +2 Ring)
 
 ##### Reorder the Contents of the Armarius
 
 ReAn 10
 
-Req: Intellego, Mentem (the latter optional, raises level to 15
-
 R: Touch, D: Mom, T: Room
+
+Req: Intellego, Mentem (the latter optional, raises level to 15)
 
 This spell places books in a book chest or closet into a sequence. Sample sequences include the Art or Ability the books concern, the authors' names, size through any dimension, the color of the covers, the binding material, the newness of the books, and their opening sentences. If the books are marked with acquisition or shelf location numbers, then those may also guide the sequence. With a Mentem requisite the magus can shelve books based on whether he has read them or not, how much he liked the books while reading them, how he feels about the authors, or his emotional attachment to the people who gave him the books. Books in chained libraries need to be taken off their rails for this spell to be used.
 
@@ -5403,21 +5379,21 @@ This spell makes a misplaced book fly swiftly to rest on its lectern, in an open
 
 ##### The Demand of the Frustrated Scholar Soothed
 
-ReAn Level 40
+ReAn 40
 
 R: Arc, D: Mom, T: Ind
 
 This spell makes a book that is within 500 paces materialize by the hand of the caster. The spell requires an Arcane Connection to the book, which is usually the library catalog. There are higher-level versions of this spell that draw a book from up to seven leagues away.
 
-(Base 20 \[movement up to 500 feet, using ReCo guidelines\], +4 Arc)
+(Base 20 \[movement up to 500 paces, using ReCo guidelines\], +4 Arc)
 
 ##### Determine the Location of the Absent Volume
 
 InAn 25
 
-Req: Imaginem, Creo (the latter optional)
-
 R: Arc, D: Conc, T: Ind
+
+Req: Imaginem, Creo (the latter optional)
 
 This spell allows the caster to determine the location of a missing book by having the magus's sigil appear on a map. Library floor plans on tablets are often used in conjunction with this spell. With a Creo requisite, the magus can project an image of the book's location on a mirror, and hand-held magic items using this variant are often employed in libraries that encourage visitors.
 
@@ -5425,13 +5401,13 @@ This spell allows the caster to determine the location of a missing book by havi
 
 ##### The Weightless Transportation of Books
 
-PeAn 25
+PeAn 30
 
 R: Touch, D: Sun, T: Group
 
-This spell makes the books within a chest almost weightless. This allows library staff or Redcaps to easily carry a collection of books to a new loca- tion. This spell does not make the book chest itself weightless; that requires an Herbam requisite, and adds five levels to the spell's difficulty. This spell is also used, enchanted into book cases, to make a library weigh less, which is important if the covenant has a growing library and no desire to replace the timber floors on the upper levels of its towers.
+This spell makes the books within a chest almost weightless. This allows library staff or Redcaps to easily carry a collection of books to a new location. This spell does not make the book chest itself weightless; that requires an Herbam requisite, and adds five levels to the spell's difficulty. This spell is also used, enchanted into book cases, to make a library weigh less, which is important if the covenant has a growing library and no desire to replace the timber floors on the upper levels of its towers.
 
-(Base 4, +1 Touch, +2 Sun, +2 Group)
+(Base 5, +1 Touch, +2 Sun, +2 Group)
 
 ##### Chamber of Summer Breezes
 
@@ -5441,7 +5417,7 @@ R: Touch, D: Sun, T: Ind
 
 Req: Ignem
 
-This spell creates a breeze of fresh, dry, warm air that continually moves throughout a room , keeping the air unpolluted and the humidity and temperature constant. This spell is often cast on armarii and book chests.
+This spell creates a breeze of fresh, dry, warm air that continually moves throughout a room, keeping the air unpolluted and the humidity and temperature constant. This spell is often cast on armarii and book chests.
 
 (Base 1, +1 Touch, +2 Sun, +1 unnatural, +1 requisite)
 
@@ -5451,17 +5427,17 @@ ReHe 15
 
 R: Voice, D: Mom, T: Group
 
-This spell was originally developed to allow defenders to draw siege ladders over a castle's wall. These could then
-
-be used as fuel by the beseiged, or, if soldiers clung to them, dropped from great heights. Librarians use it to rearrange wooden furniture, but it can move any group of wooden objects. Items containing this effect can, for example, be used to stack firewood, move barrels, pile grain sacks, and perform many other useful forms of labor.
+This spell was originally developed to allow defenders to draw siege ladders over a castle's wall. These could then be used as fuel by the beseiged, or, if soldiers clung to them, dropped from great heights. Librarians use it to rearrange wooden furniture, but it can move any group of wooden objects. Items containing this effect can, for example, be used to stack firewood, move barrels, pile grain sacks, and perform many other useful forms of labor.
 
 (Base 3, +2 Voice, +2 Group)
 
 ##### Eternal Repetition in a Bottomless Pool
 
-CrIm 35 R: Arc, D: Sun, T: Ind
+CrIm 35
 
-This spell uses enchanted mirrors to display the text of a book to which the magus has an Arcane Connection. The magus commanding the mirror can navigate the book by vocal command. For example, "next page" and "the first bit about marsh fronds " are both legitimate commands. The spell's name is a vestige of the early order, when mir- rors were more expensive and the spell was enchanted into clay vessels, read by pouring black ink into them.
+R: Arc, D: Sun, T: Ind
+
+This spell uses enchanted mirrors to display the text of a book to which the magus has an Arcane Connection. The magus commanding the mirror can navigate the book by vocal command. For example, "next page" and "the first bit about marsh fronds" are both legitimate commands. The spell's name is a vestige of the early order, when mirrors were more expensive and the spell was enchanted into clay vessels, read by pouring black ink into them.
 
 (Base 1, +4 Arc, +2 Sun, +1 clear words, +2 accepts commands, +1 extremely intricate)
 
@@ -5477,9 +5453,7 @@ Many magi believe that the Creator, or similar, placed a layer of occluded meani
 
 #### Significatos
 
-**Significatos** are magically occurring phenomena that illuminate truth. The significato most familiar to Hermetic magi is lab study using vis. Magi may generate
-
-> similar Lab Totals by undergoing mystical experiences. A magus watching a dragon egg hatch for the first time might, for example, generate a study total as if studying from Creo or Ignem vis, or both. As a rule of thumb, an event can substitute for a number of pawns of vis equal to one-fifth (round up) of the highest Might possessed by the creatures involved. Study takes an entire season, even if the event itself is brief, as the magus ponders what he has learned.
+**Significatos** are magically occurring phenomena that illuminate truth. The significato most familiar to Hermetic magi is lab study using vis. Magi may generate similar Lab Totals by undergoing mystical experiences. A magus watching a dragon egg hatch for the first time might, for example, generate a study total as if studying from Creo or Ignem vis, or both. As a rule of thumb, an event can substitute for a number of pawns of vis equal to one-fifth (round up) of the highest Might possessed by the creatures involved. Study takes an entire season, even if the event itself is brief, as the magus ponders what he has learned.
 
 There are sites of mystical significance scattered across Europe which magi use to supplement their magical development. At each site at a certain time of year, if the correct actions are performed, a magus can gain mystical insight.
 
@@ -5497,7 +5471,7 @@ There are many collections of realia because many magi collect objects related t
 
 Collectors of realia tend to be aware of others with similar collections, and their interactions vary from hostility, through envy, to congeniality. The objects of collection seems not to influence the relationships of collectors: the Order's collectors of rare gemstones tend to be deeply suspicious of each other, while the Order's physical necromancers, who collect bones, parasites, and preserved organs with interesting diseases, meet regularly at symposia and socialize.
 
-A realia collection is studied as a tractatus. The number of unique and highly informative pieces in the collection determines its quality score. A single, quintessential object can be studied as a tractatus of quality 1, two as a tractuatus of quality 2, four as a tractatus of quality 3, and so on. Realia collections rarely rise above quality 6, which requires 64 excellent specimens. An object is suited to this style of collection only if it is so unique that it would make an absolutely ideal vessel for enchantment.
+A realia collection is studied as a tractatus. The number of unique and highly informative pieces in the collection determines its quality score. A single, quintessential object can be studied as a tractatus of quality 1, two as a tractuatus of quality 2, four as a tractatus of quality 3, and so on. Realia collections rarely rise above quality 6, which requires 32 excellent specimens. An object is suited to this style of collection only if it is so unique that it would make an absolutely ideal vessel for enchantment.
 
 Purchasing realia at covenant creation costs the collection's quality on the Advancement Table Art column in ArM5, page 31: quality 1 costs one Build Point, quality 2 costs three points, three costs six points, four costs ten points, five costs 15 points, six costs 21 points.
 
@@ -5515,7 +5489,7 @@ There are so many alternatives to parchment that comprehensive notes cannot be g
 
 Great works are learning experiences created as an alternative to reading a book. If considered solely for their educational value, their construction is too expensive to justify compared to copying books. Great Works are, however, beautiful structures that embody the values of their creators, so they also serve commemorative and aesthetic functions.
 
-The best known of the Great Works is the Forest of Shining Stone at Durenmar, where Bonisagus's epitome concerning Magic Theory, *The Art of Magic*¸ has been etched by later magi into 36 clear crystals, each six feet high. The largest, perhaps unfinished, Great Work is the Cave of Twisting Shadows, a labyrinthine covenant that serves as the domus magna of House Criamon. Its physical structures embody the quest for the Enigma.
+The best known of the Great Works is the Forest of Shining Stone at Durenmar, where Bonisagus's epitome concerning Magic Theory, *The Art of Magic*, has been etched by later magi into 36 clear crystals, each six feet high. The largest, perhaps unfinished, Great Work is the Cave of Twisting Shadows, a labyrinthine covenant that serves as the domus magna of House Criamon. Its physical structures embody the quest for the Enigma.
 
 The Great Works of the Order embrace learning styles that differ from the book-based style favored by Bonisagus. House Bjornaer, in particular, maintains Great Works that are based on movements with meaning, and on symbolic patterns of scent, dimension, and sound. This allows some members of the House to study the Arts while in animal form. Quendalon is said to have created a series of illusionary dancers that teach the fundamentals of his techniques, while Jerbiton created an amphitheater in which canticles of mystic wisdom are sung.
 
@@ -5557,11 +5531,11 @@ Some members of the Order use mundane traps to secure their sanctums. There are 
 
 The most popular type of sanctum defense is the ring and circle ward. Wards against mundane things, like people, pests and fire, are easy to create and cost no vis. Circle wards at entrances, unlike spells cast on the Room Targets, do not warp the residents of the warded space. Defacing the circle can destroy ring and circle wards, so durable circles are carved into stone, or made of metal fastened to other surfaces.
 
-> ## Ring and Circle Ward Examples Apprentices: A
+> ## Ring and Circle Ward Examples
 > 
-> **Ward Against the Curious Scullion**
+> ##### Ward Against the Curious Scullion
 > 
-> ReCo 10
+> ReCo 30
 > 
 > R: Touch, D: Ring, T: Circle
 > 
@@ -5569,7 +5543,7 @@ The most popular type of sanctum defense is the ring and circle ward. Wards agai
 > 
 > This spell has an alternate name, *Tytalus's Prison*, which comes from a story, possibly apocryphal, from the life of the Founder Tytalus. It suggests that in the early years of the Order, he cast down a wizard living as a feudal lord in the Rhineland, in part by trapping his mustered army inside a ring placed about the army camp. Members of House Tremere claim a similar feat for one of their early archimagi. Their story seems more likely because he was a vallationist, a builder of magical walls, which explains why the army was not able to deface the ring and escape. It is possible that this is a trick of Guorna the Fetid's, which both magi knew. The second name also hints at an alternative use of the spell in a magus's sanctum: to imprison an apprentice inside.
 > 
-> (Base 3 \[move "away"]\, +1 Touch, +2 Ring)
+> (Base 15, +1 Touch, +2 Ring)
 > 
 > ##### Ward Against Flame
 > 
@@ -5583,15 +5557,17 @@ The most popular type of sanctum defense is the ring and circle ward. Wards agai
 > 
 > (Base 4, +1 Touch, +2 Ring)
 > 
-> ##### Ward Against Mundane Intrusions Rego Ignem 35
-> 
-> Req: Corpus, Animal, Aquam, Herbam
+> ##### Ward Against Mundane Intrusions
+>
+> ReIg 50
 > 
 > R: Touch, D: Ring, T: Circle
 > 
+> Req: Corpus, Animal, Aquam, Herbam
+>
 > This spell conglomerates other wards into a single working. It holds at bay many of the things likely to damage Hermetic sancta: flame, excessive light, thieves, pests, moisture, and mildew.
 > 
-> (As *Ward Against Flame*, +4 requisites)
+> (As *Ward Against the Curious Scullion*, +4 requisites)
 
 ### Magic Items
 
@@ -5633,10 +5609,7 @@ In order to measure the positions of the stars, most labs contain at least one a
 
 ### Physical Arrangement
 
-The main chamber of the laboratory usually consists of a number of distinct areas, although at least half of the floor space should be broad and open, unencumbered by architectural features such
-
-
-as supports or pillars. The entrance of the lab is often its grandest feature, advertising the presumed magnificence within to others. It is where the owner of the lab commonly places his sanctum marker. One well-lit area is devoted to reading and writing. In another place might be arranged one or more stills and delicate glassware, where precise alchemical work is undertaken. A cauldron and bigger containers, for larger, more robust work, may be nearby. One area is usually cleared of most equipment and is set aside for the casting of spells, for which empty space is needed. In another area, the magus may wish to sit and tinker with devices such as astrolabes, usually by a window or skylight. In one secure corner of the lab are usually placed the stores, where vis and other precious ingredients are kept. Some magi even sleep in their labs, in which case a portion is reserved for a bed and other furniture. However, it is more usual for a magus to have separate living quarters, which are often nearby or adjacent to the main lab chamber. Lastly, there may be areas or antechambers set aside for either an apprentice or a familiar.
+The main chamber of the laboratory usually consists of a number of distinct areas, although at least half of the floor space should be broad and open, unencumbered by architectural features such as supports or pillars. The entrance of the lab is often its grandest feature, advertising the presumed magnificence within to others. It is where the owner of the lab commonly places his sanctum marker. One well-lit area is devoted to reading and writing. In another place might be arranged one or more stills and delicate glassware, where precise alchemical work is undertaken. A cauldron and bigger containers, for larger, more robust work, may be nearby. One area is usually cleared of most equipment and is set aside for the casting of spells, for which empty space is needed. In another area, the magus may wish to sit and tinker with devices such as astrolabes, usually by a window or skylight. In one secure corner of the lab are usually placed the stores, where vis and other precious ingredients are kept. Some magi even sleep in their labs, in which case a portion is reserved for a bed and other furniture. However, it is more usual for a magus to have separate living quarters, which are often nearby or adjacent to the main lab chamber. Lastly, there may be areas or antechambers set aside for either an apprentice or a familiar.
 
 ### The Principles of Labwork
 
@@ -5666,9 +5639,9 @@ The standard lab routine assumes that a magus works in the lab for ten hours a d
 
 Some magi work longer hours than normal, or at odd times of the day or night, as well as sacrificing rest days, in an effort to make their seasons in the lab more productive. While this does provide some benefit (a small bonus to that season's Lab Total), there are also a host of disadvantages. For example, tiredness due to overwork may make a magus more prone to accidents, and there may be adverse effects on his health. Staying in the lab for too long can also cause Warping.
 
-If a magus decides to work non-standard hours, choose one (or more) of the following routines each season. He may tiple routines (for example, Nocturnal, Addled, and Overtime), except that the three Overtime routines may not be combined with each other, and Early Riser may not be combined with Nocturnal. When more than one routine is taken, the effects of each are cumulative. Any penalties to the Living Conditions modifier from any given routine only apply once in a year. For example, for a year in which the Nocturnal and Overtime routines are taken in all four seasons, the total adjustment to the Living Conditions modifier would be –2 (–1 from each routine). For a character less than 35 years old, any penalty to the Living Conditions modifier also requires her to make an Aging roll at the end of the year. Fatigue penalties do not apply to Lab Totals. Magi who regularly employ nonstandard routines generally acquire relevant Personality Traits and Reputations, at the discretion of the storyguide. If a magus's routine is disrupted (for example, he is absent from his lab for longer than the routine allows), he loses the Lab Total bonus, but still suffers the penalties.
+If a magus decides to work non-standard hours, choose one (or more) of the following routines each season. He may combine multiple routines (for example, Nocturnal, Addled, and Overtime), except that the three Overtime routines may not be combined with each other, and Early Riser may not be combined with Nocturnal. When more than one routine is taken, the effects of each are cumulative. Any penalties to the Living Conditions modifier from any given routine only apply once in a year. For example, for a year in which the Nocturnal and Overtime routines are taken in all four seasons, the total adjustment to the Living Conditions modifier would be –2 (–1 from each routine). For a character less than 35 years old, any penalty to the Living Conditions modifier also requires her to make an Aging roll at the end of the year. Fatigue penalties do not apply to Lab Totals. Magi who regularly employ nonstandard routines generally acquire relevant Personality Traits and Reputations, at the discretion of the storyguide. If a magus's routine is disrupted (for example, he is absent from his lab for longer than the routine allows), he loses the Lab Total bonus, but still suffers the penalties.
 
-A maga may also choose to work fewer than the standard ten hours per are no special routines for this — for each hour fewer, she simply loses 10% of her Lab Total or Advancement Total for the season.
+A maga may also choose to work fewer than the standard ten hours per day. There are no special routines for this — for each hour fewer, she simply loses 10% of her Lab Total or Advancement Total for the season.
 
 **Early Riser**: A "lark," the maga's daily cycle is a couple of hours earlier than most folk, and she usually rises before dawn. This allows her to fit in a little extra lab time in the quiet early hours — gain +1 to the Lab Total for the season. However, she becomes tired as soon as dusk falls, at which point she loses a Long-Term Fatigue level and gains one extra botch die on all activities for the night. Since this is her bedtime, she likely resents being disturbed or woken up thereafter.
 
@@ -6034,7 +6007,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Guard\***: A shield grog is on permanent duty at the lab's entrance, and may dissuade unwanted visitors from pestering the magus or intruding. *+1 Aesthetics.*
 
-**Highly Organized**: The lab's contents have been optimally arranged. There is a chance to gain this Virtue whenever a season of work is undertaken to improve the Refinement (see Refinement, above). A season of such work (with a roll to gain the Virtue) may still be undertaken, even if no increase to Refinement is possible. This Virtue is lost if a major accident is suffered, if someone else uses the lab, or if someone of lower Intelligence helps in it. *+1 General Quality.*
+**Highly Organized**: The lab's contents have been optimally arranged. There is a chance to gain this Virtue whenever a season of work is undertaken to improve the Refinement (see Refinement, above). A season of such work (with the normal chances of changes to laboratory Virtues and Flaws) may still be undertaken, even if no improvement to Refinement is possible. This Virtue is lost if a major accident is suffered, if someone else uses the lab, or if someone of lower Intelligence helps in it. *+1 General Quality.*
 
 **Person\***: There is another person, perhaps a close family member or a maid, who is to be found very frequently (as a rule of thumb, most days, for at least an hour) in the lab. This Virtue may be taken once for each such person who regularly comes in to the lab. Do not count the owner or any full-time lab assistants, such as apprentices. A full-time trained mundane assistant is instead represented by the Servant Virtue. *–1 Safety; +1 Co or Me.*
 
@@ -6138,7 +6111,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Flawless Tools**: The craftsman who created such perfect tools as are found in this lab must have been legendary. *+1 Upkeep (unless the equipment is continuously protected, created, or donated by supernatural means, in which case –1 Upkeep); +2 Items.*
 
-**Ice Cavern**: The lab is located in a structure built of ice that never melts. Either it is located in the extreme north or high up a mountain, or else magic is used to prevent the ice from melting. The owner of such a lab presumably does not mind the cold. *+1 Upkeep, +1 Warping, –2 Health (unless immune to the cold), +2 Aesthetics; +2 Re or Te.*
+**Ice Cavern**: The lab is located in a structure built of ice that never melts. Either it is located in the extreme north or high up a mountain, or else magic is used to prevent the ice from melting. The owner of such a lab presumably does not mind the cold. *+1 Upkeep, +1 Warping, –2 Health (unless immune to the cold), +2 Aesthetics; +2 Re or Aq.*
 
 **Inexhaustible Supplies**: The lab is blessed with magically replenishing ingredients and consumables, which never run out. *–3 Upkeep, +1 Warping.*
 
@@ -6162,7 +6135,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Site of Legend**: Stories are told about this lab, and legends are associated with it. *Any adjustments to Characteristics and Specializations as appropriate.*
 
-#### Minor Supernatural Flaws
+#### Free Supernatural Flaws
 
 **Abyss**: The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). *–2 Safety; +2 Pe.*
 
@@ -6303,26 +6276,41 @@ Specific effects for each item should be created normally according to the Labor
 First, if the effect duplicates an existing Laboratory Virtue or Flaw, then the item simply grants that Virtue or Flaw to the lab. It is gained immediately and has no space cost; apply its stated modifications to Characteristics or Specializations, as usual.
 
 Second, if the effect does not resemble a Laboratory Virtue or Flaw, then the final level of the effect determines how many points of Characteristics or Specializations may be gained. Every ten levels may grant one point in a Specialization, or every 20 levels may improve a Characteristic by one point. For example, an effect with a final level of 50 might improve one
-
 Characteristic by one point (20 levels) and one Specialization by three points (30 levels). Also, items or enchantments with powerful effects, influencing the whole of the lab, may (unintentionally) increase the Warping Characteristic, at the discretion of the storyguide.
 
 > ## Example Laboratory Items
 > 
-> ### The Bookstand of Hespera**
+> ### The Bookstand of Hespera
 > 
-> This item is a wooden lectern with enough space on its top for a Lab Text, as well as an inkhorn, a small knife, and several quills. The stand moves around to follow the magus so that he is never far from his Lab Text. He only need turn to consult his text or make further notes. The Bookstand adds two points to a Specialization in Texts. ReHe 15 (Base 10, +1 Conc), item maintains concentration (final level 20)
+> Rego Herbam 15 (final level 20)
+>
+> This item is a wooden lectern with enough space on its top for a Lab Text, as well as an inkhorn, a small knife, and several quills. The stand moves around to follow the magus so that he is never far from his Lab Text. He only need turn to consult his text or make further notes. The Bookstand adds two points to a Specialization in Texts.
+>
+> (Base 10, +1 Conc, +5 levels to maintain concentration)
 > 
 > ### The Crown of Hermes
 > 
-> The powerful creator of this artifact, an elaborate, jewel-encrusted golden crown, has been lost to living memory. Although invested with other effects, such as *Aura of Rightful Authority*, the crown's most powerful property is that it enables its wearer to enter a kind of trance and thus create an imaginary laboratory in his mind. With seasons of meditation whilst wearing the crown, the wearer can undertake some kinds of lab work (or even lab improvement). When the crown is removed and later put back on, the wearer recalls his imaginary lab in the last state that he left it. Wearing the crown for the first time will inflict one Warping point, since it is a powerful mystical effect. Every year of use will also inflict a Warping point, due to being continuously under the influence of the effect. The imaginary lab may be treated as a standard one, except that it has the Mental Construct Flaw (see above). Cr(In, Mu, Re)Me 50 (Base 35, +1 Touch, +2 Sun)
+> Creo Mentem (Intellego, Muto, Rego) 50
+>
+> The powerful creator of this artifact, an elaborate, jewel-encrusted golden crown, has been lost to living memory. Although invested with other effects, such as *Aura of Rightful Authority*, the crown's most powerful property is that it enables its wearer to enter a kind of trance and thus create an imaginary laboratory in his mind. With seasons of meditation whilst wearing the crown, the wearer can undertake some kinds of lab work (or even lab improvement). When the crown is removed and later put back on, the wearer recalls his imaginary lab in the last state that he left it. Wearing the crown for the first time will inflict one Warping point, since it is a powerful mystical effect. Every year of use will also inflict a Warping point, due to being continuously under the influence of the effect. The imaginary lab may be treated as a standard one, except that it has the Mental Construct Flaw (see above).
+>
+> (Base 35, +1 Touch, +2 Sun)
 > 
 > ### The Prodigious Plant Pot
 > 
-> This object is a large and sturdy clay pot. If filled with loam, a seed or seedling placed in it grows rapidly into a mature plant over the course of a full day. The Plant Pot adds +1 to a lab's Experimentation Specialization and +2 to its Herbam Specialization. CrHe 30 (Base 15, +1 Touch, +2 Sun)
+> Creo Herbam 30
+>
+> This object is a large and sturdy clay pot. If filled with loam, a seed or seedling placed in it grows rapidly into a mature plant over the course of a full day. The Plant Pot adds +1 to a lab's Experimentation Specialization and +2 to its Herbam Specialization.
+>
+> (Base 15, +1 Touch, +2 Sun)
 > 
 > ### The Tireless Servant
 > 
-> This is an automaton of sorts, a skeleton which has been animated and may be controlled quite precisely with a limited set of verbal commands. It can be instructed to hold or fetch objects, and perform simple operations, such as lifting and stirring, independently. The Tireless Servant adds +1 to a lab's General Quality, and +1 to its Safety. ReCo 25 (Base 10, +1 Conc, +2 complexity), item maintains concentration, unlimited uses per day (final level 40)
+> Rego Corpus 25 (final level 40)
+>
+> This is an automaton of sorts, a skeleton which has been animated and may be controlled quite precisely with a limited set of verbal commands. It can be instructed to hold or fetch objects, and perform simple operations, such as lifting and stirring, independently. The Tireless Servant adds +1 to a lab's General Quality, and +1 to its Safety.
+>
+> (Base 10, +1 Conc, +2 complexity, +5 levels to maintain concentration, +10 levels for unlimited uses)
 
 #### Common Laboratory Items
 
@@ -6332,7 +6320,7 @@ A number of common magic items for the lab take on the role of mundane equipment
 > 
 > ##### The Resolute Mind of the Tireless Researcher
 > 
-> > Rego Mentam Level 20 R: Per, D:Sun, T: Ind
+> ReMe 20<br>R: Per, D: Sun, T: Ind
 > 
 > This spell is designed for a magus to cast upon himself at the start of a day's work in the laboratory. Andreas of House Bonisagus, frustrated at his constant lapses of concentration, and finding it difficult to maintain focus on his research, came up with this effect in an effort to make his work days more productive. The target of the spell finds his mind resolutely fixed on the task in hand, and does not waver from it. Opinion is sharply divided on the merits of this spell, with the majority of magi considering it little more than a dangerous self-delusion, which warps the mind of the magus, making him dependent and weak-willed. If this spell is used on a daily basis, a magus should select the Addled laboratory routine (see above).
 > 
@@ -6340,11 +6328,7 @@ A number of common magic items for the lab take on the role of mundane equipment
 > 
 > ##### The Laboratory of Bonisagus
 > 
-> Creo Terram 45
-> 
-> R: Touch, D: Mom, T: Group, Ritual
-> 
-> Req: Vim
+> CrTe 45<br>R: Touch, D: Mom, T: Group, Ritual<br>Req: Vim
 > 
 > This rather well-known spell furnishes an empty chamber of the appropriate dimensions with a fully-equipped, standard Hermetic laboratory. It is generally employed by magi who find themselves with plenty of vis, but who otherwise have difficulties in securing the necessary funds and sources to procure the materials by mundane means. This laboratory is actually rather better than the standard, since the magically created outfittings are perfect. Unless this lab is rigorously maintained at the higher level of Upkeep, however, these Virtues will quickly be lost, and it will degrade to a more mundane standard laboratory. It starts with the following statistics:
 > 
@@ -6358,9 +6342,7 @@ A number of common magic items for the lab take on the role of mundane equipment
 > 
 > ##### Gleam of the Freshly-Polished Glass
 > 
-> Perdo Terram 25
-> 
-> R: Touch, D: Moon, T: Room
+> PeTe 25<br>R: Touch, D: Moon, T: Room
 > 
 > This spell maintains the equipment and tools of a lab in a constant state of immaculate cleanliness. Dirt, dust, and grime are all removed, leaving the outfittings positively gleaming, as if they had been freshly dusted and polished. This grants the Spotless Virtue to the lab, provided that the spell is cast every lunar month. If the spell ceases, the magus must maintain this pristine condition through more mundane means, otherwise the Virtue is lost. There is just one small drawback to this spell — the lab's Warping score increases by one point (giving a Personality Trait Spotless +1) due to the unnatural nature of this cleaning, for as long as it is active.
 > 
@@ -6368,13 +6350,13 @@ A number of common magic items for the lab take on the role of mundane equipment
 > 
 > ##### The Ambulatory Laboratory
 > 
-> Rego Terram 30 R: Touch, D: Mom, T: Room
+> ReTe 50<br>R: Touch, D: Mom, T: Room
 > 
 > This spell precisely transports all the movable contents of a chamber into another room to which the caster has an Arcane Connection, leaving their configuration and relative positions intact. Some casting requisites are usually required, depending on the composition of the lab's outfittings; a Herbam requisite is required to move wooden furniture, an Aquam requisite is required to move liquids, and so on. The destination room must be at least as large as the occupied part of the current room, although it can be a different shape. Magi quite often utilize this effect in order to avoid the tiresome (and expensive) practicalities of moving their sanctum by more mundane means. When this spell is cast on a lab, make a Perception + Finesse roll to determine the precision with which the contents are rearranged in the new chamber. The base Ease Factor is 9 + (3 x Refinement). Add three if the lab is Highly Organized; subtract three if it is Disorganized. Also add three if the shapes of the old and new chambers do not match, or six if they are radically different. If this roll fails, the Disorganized Flaw is gained, or the Highly Organized Virtue is lost. If the roll botches, the Hidden Defect Flaw is gained instead.
 > 
 > A version of this spell with Arcane Connection Range is also believed to exist; with this more powerful variant a magus may summon the contents of a remote lab into the chamber he occupies. It is not unheard of for a nefarious magus to steal an entire lab in this fashion!
 > 
-> (Base 5, +1 Touch, +2 Room, +2 complexity)
+> (Base 25, +1 Touch, +2 Room, +2 complexity)
 
 ## Spells for Laboratories
 
@@ -6382,11 +6364,8 @@ Spells may be employed to assist in the lab. Ritual spells can be cast once for 
 
 However, there are disadvantages to the usage of non-Ritual spells. Casting such spells on a daily or monthly basis can become tiresome, and they may have unpredictable side effects. As a rule of thumb, for each such spell that is employed regularly, either add one to the lab's Warping Characteristic or subtract one from its Safety.
 
-For the sake of game balance, a further restriction also applies to the use of non-Ritual spells in the lab. A magus can never gain a bonus to Lab Totals (either from General Quality or a Specialization) by casting spells that use the same Arts as those in the Lab Total. For example, one
-
-*122*
-
-might attempt to cast (repeatedly, over the course of a season) a pair of Creo Imaginem spells to make the lab brightly lit (temporarily granting the Superior Lighting Virtue) and to create illusory paintings (temporarily granting the Superior Decoration Virtue). While this can be done (albeit with a penalty of two points on Warping or Safety), this does *not* add to the lab's Imaginem Specialization. A magus undertaking a season of lab work involving Imaginem might already be presumed to be doing such things, and his proficiency with that Art is already figured into the Lab Total. However, the storyguide *might* allow the usage of a Creo Terram spell to create a large number of brightly colored crystals (temporarily granting the Specimens Virtue) to add one to the Imaginem Specialization, if the spell was good enough. A good guiding principle is that anything involving the use of vis (Ritual spells, magic items), or any inspiration or improvement from an external source or non-magical objects, can grant such Lab Total bonuses. Anything that comes directly from the magus's own magics in the same season cannot.
+For the sake of game balance, a further restriction also applies to the use of non-Ritual spells in the lab. A magus can never gain a bonus to Lab Totals (either from General Quality or a Specialization) by casting spells that use the same Arts as those in the Lab Total. For example, one might attempt to cast (repeatedly, over the course of a season) a pair of Creo Imaginem spells to make the lab brightly lit (temporarily granting the Superior Lighting Virtue) and to create illusory paintings (temporarily granting the Superior Decoration Virtue). While this can be done (albeit with a penalty of two points on Warping or Safety), this does *not* add to the lab's Imaginem Specialization.
+A magus undertaking a season of lab work involving Imaginem might already be presumed to be doing such things, and his proficiency with that Art is already figured into the Lab Total. However, the storyguide *might* allow the usage of a Creo Terram spell to create a large number of brightly colored crystals (temporarily granting the Specimens Virtue) to add one to the Imaginem Specialization, if the spell was good enough. A good guiding principle is that anything involving the use of vis (Ritual spells, magic items), or any inspiration or improvement from an external source or non-magical objects, can grant such Lab Total bonuses. Anything that comes directly from the magus's own magics in the same season cannot.
 
 ### Example Laboratories
 
@@ -6588,9 +6567,7 @@ The pages of this appendix may be photocopied for your personal use, but are cop
 
 **Timothy Ferguson** is a librarian in Nerang, Australia. He'd like to dedicate his section of the book to his partner, Linda, for being the sort of person that people dedicate books to. As further reading, he'd like to suggest *Invisible Cities* by Italo Calvino.
 
-**Mark Shirley** is a zoologist from the South of England who is currently haunting the Lands of the Border Reivers. He has been playing **Ars Magica** since its second edition, and
-
-writing for the game since the fourth edition. Were it not for the short life expectancy, poor sanitation, and lack of decent music, he would find Mythic Europe immeasurably more pleasurable than the Real World. He would like to thank his family, friends, and ferrets (which are not mutually exclusive categories) for their help and support.
+**Mark Shirley** is a zoologist from the South of England who is currently haunting the Lands of the Border Reivers. He has been playing **Ars Magica** since its second edition, and writing for the game since the fourth edition. Were it not for the short life expectancy, poor sanitation, and lack of decent music, he would find Mythic Europe immeasurably more pleasurable than the Real World. He would like to thank his family, friends, and ferrets (which are not mutually exclusive categories) for their help and support.
 
 **Andrew P. Smith** is a mysterious and shadowy figure last spotted on the shores of Lake Constance, southern Germany. His line of work is rumoured to be "something to do with maths and computers." Andrew would like to thank the playtesters, the editor, and his fellow authors for their productive input to his chapters.
 

@@ -3417,7 +3417,7 @@ The character is able to take on any human form, so long as it does not identifi
 You can communicate with animals as if they were human beings. Choosing this Virtue confers the Ability Animal Ken 1 (page 159).
 
 #### Apprentice
-*Free. Social Status*<br>
+*Free, Social Status*<br>
 This Virtue may be taken by a child character who has the Gift and who has been accepted by an experienced Hermetic magus, with the troupe's approval. You are a discipulus and will receive extensive magical training, having the potential to become a Hermetic magus in your own right. However you must obey the dictates and fulfill the errands of your master and endure his or her rigorous training, and may be treated no better than a slave.
 
 #### Apt Student
@@ -3562,7 +3562,7 @@ You are very careful with magic, and are less likely to fail spectacularly if yo
 You are very careful with a specific Ability, and are less likely to fail spectacularly if you do fail when using it. You roll two fewer botch dice than normal whenever you are required to roll botch dice for that Ability. This may mean that you roll no botch dice. This Virtue may apply to any Ability, even one you cannot learn at character creation.
 
 #### Clan Ilfetu
-*Minor. Hermetic*<br>
+*Minor, Hermetic*<br>
 The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see The Mysteries Revised Edition, page 58); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes:* Mystery Cults, page 12, for more details on House Bjornaer and the role of Clan Ilfetu.
 
 #### Clear Thinker
@@ -4398,7 +4398,7 @@ This Virtue is only available to male characters, and is compatible with the Her
 The character has achieved a doctorate in medicine from one of the medical schools of Europe (Salerno, Cremona, Montpellier, or Bologna), and completed his two years' compulsory teaching. This Virtue offers the same benefits as Doctor in (Faculty). This Virtue is compatible with the Hermetic Magus, and Priest Virtues. Note that this Virtue is available to female characters, although they must have graduated from Salerno, male characters may have graduated from any of the medical schools.
 
 #### Major Magical Focus
-*Major. Hermetic*<br>
+*Major, Hermetic*<br>
 Your magic is much more potent in a fairly limited area, such as weather, necromancy, birds, or emotions. This area should be smaller than a single Art, but may be spread over several Arts necromancy, for example, covers both Corpus and Mentem effects. You cannot be focused on laboratory activities, although a focus does apply to laboratory activities.
 
 When you cast a spell or generate a Lab Total within your focus, add the lowest applicable Art score twice. If a spell has requisites, the lowest applicable score may be one of the requisites, rather than one of the primary Arts. Thus, if a magus with a focus on birds was casting a spell to turn a bird into pure flame, MuAn (Ig), with Muto 14, An 18, and Ig 10, his final total would be 34 + other modifiers: 14 from Muto, and 20 from adding Ignem twice. If he was casting a spell to turn a bird into another sort of bird, MuAn with no requisites, his total would be 46 + other modifiers, 18 from Animal and 28 from adding Muto twice.
@@ -4475,7 +4475,7 @@ You have fifty experience points to spend on mastering spells that you know. (Se
 You may take this Virtue if you also have Flawless Magic, to give you more experience points to spend on mastering your spells. You may take this Virtue multiple times.
 
 #### Masterpiece
-*Minor. Hermetic*<br>
+*Minor, Hermetic*<br>
 For some benevolent reason, the magus's parens has allowed him to keep the lesser enchanted item he made to prove himself a magus and pass his Gauntlet. This masterpiece must be a lesser enchanted item. You should design a lesser enchanted item that your character could make based on his Lab Totals at character generation, following the regular rules for construction of such a device. You ignore vis costs, as the magus's parens provided those from her laboratory stores. This Gauntlet test is standard for House Verditius, but a maga from another House may have chosen to impose it.
 
 #### Mazdean Priest
@@ -5009,7 +5009,7 @@ The magus may add the magnitude of a Formulaic spell he knows as a bonus to his 
 Taking this Virtue at character creation makes the character a Spirit Votary, a kind of Mythic Companion (page 63). This Virtue grants the Second Sight Virtue for free, and allows the character to have two points of Virtues for every point of Flaw.
 
 #### Spiritual Pact
-*Major, Subernatural*<br>
+*Major, Supernatural*<br>
 The character has made a pact or agreement with a powerful Magical spirit, and in return for loyal service, is granted access to that spirit's power. The pact serves as an Arcane Connection to the character of indefinite duration, which the spirit can use to make itself aware of the current location and state of health of its servant.
 
 The character can channel the power of the spirit by spending a Confidence Point. Make a Presence + Magic Lore + stress die roll: this is the amount of Magic Might Pool that the character acquires from his spiritual master. The Might points acquired are always less than the current Might points of the spirit, regardless of the roll's result. On a botch, the character loses all current Confidence points. This action is equivalent to spellcasting with regard to the concentration it requires. The character can spend these Might points on any of the spirit's powers. Penetration is calculated in the usual way for magical creatures using the initial Might Pool in place of Magic Might, and including the character's Penetration Ability, if any.
@@ -5072,7 +5072,7 @@ When given the opportunity to study an Art from books or raw vis in the presence
 > | 35        | Flying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego) |
 
 #### Subtle Magic
-*Minor. Hermetic*<br>
+*Minor, Hermetic*<br>
 You may cast spells without using gestures at no penalty. You gain no benefits from using normal gestures but gain the normal benefit for exaggerated gestures.
 
 #### Sufi
@@ -5194,7 +5194,7 @@ You do not suffer the effects of age. In game terms, your aging points do not de
 Whenever the character is transformed into a non-human form (whether by spell, magic item, curse, or a heartbeast) he may speak any human languages he knows with no impediment. If he is a magus, he may use his voice as normal to cast spells.
 
 #### University Grammar Teacher
-*Minor. Social Status*<br>
+*Minor, Social Status*<br>
 The character is employed by a university to teach its younger members grammar. The character can be of any age or gender. They may purchase the Academic Abilities: Latin and Artes Liberales at character generation, and should have a score in Teaching. They must teach two seasons out of the year.
 
 #### Variable Power
@@ -5971,7 +5971,7 @@ Spontaneous magic is always an effort for you. You cannot cast Spontaneous spell
 This Flaw may be combined with Weak Spontaneous Magic (page 153) to create a magus who cannot use Spontaneous magic at all.
 
 #### Disjointed Magic
-*Minor. Hermetic*<br>
+*Minor, Hermetic*<br>
 You cannot use previous knowledge to help you with magic. You gain no benefit from knowing a spell that is similar to one you are learning or inventing, and you gain no enchantment bonuses from Techniques and Forms already invested in an item.
 
 #### Difficult Underlings
@@ -6934,7 +6934,7 @@ The character is exceptionally unlucky, and is frequently dealt a bad hand by th
 Because of the unreal and illusory nature of your magic, none of the character's Creo rituals have a permanent effect. Wounds magically closed with The Chirurgeon's Healing Touch (CrCo20), for example, reopen again as soon as he finishes casting the spell, as the magic truly lasts only a moment. He also cannot extract vis from an aura using Creo, since his version of that Art is too unstable for the vis to remain in a lasting physical form.
 
 #### Unpredictable Magic
-*Minor. Hermetic*<br>
+*Minor, Hermetic*<br>
 You always roll a stress die when using magic, even if completely relaxed. If you choose to cast a Spontaneous spell without expending fatigue, you must still roll to check for a botch, although the roll does not add to your Casting Total. Even if you have Mastered a spell, you must always roll at least one botch die.
 
 #### Unruly Air
@@ -7197,6 +7197,7 @@ The Gift allows characters to learn Supernatural Abilities in play (see page 383
 [Leadership](#leadership)<br>
 [Legerdemain\*](#legerdemain)<br>
 [(Living Language)\*](#living-language)<br>
+[Music](#music)<br>
 [(Mystery Cult) Lore\*](#mystery-cult-lore)<br>
 [(Organization) Lore\*](#organization-lore)<br>
 [Profession (Type)](#profession-type)<br>
