@@ -25,6 +25,8 @@ Some identified issues present in source PDF. Only major differences are listed:
 - the arts of proportion, ratio, and luminosity are taught by *geometry*, was "geography".
 - Ptolemy's *mid-second century* (Claudius Ptolemy, c. 100–170 AD), was "mid-third century".
 - Bernard of Chartres *(c. 1070-1130)* is consensus for unknown dates, was (c. 1080-1167).
+- Animal Trainers, third paragraph: a mundane animal has Might *1 + 2 x Confidence Score* to match the formula errata, was "1 + Confidence Score".
+- Pieces of Art as Advancement Sources: body text "Advancement total" is left as-is, a mismatch with the errata-renamed *Source Quality* summary.
 - Various other source typos: Cathers, Avezzo, Poiters, Montpelier, Dominician, Melgeuil, Salernitarian, Herrod, Albert, Borealis.
 
 ---
@@ -313,7 +315,7 @@ Story Seed: The Spoils of Gerbert <br>
 Hermetic Societas: The Lyceum <br>
 Story Seed: The Academic's Demand<br>
 Hermetic Societas: The Collegium <br>
-Story Seed: A Living Library 
+Story Seed: A Living Library
 
 **II. Artes Liberales**<br>
 New Virtues <br>
@@ -322,7 +324,7 @@ Story Seed: An Authoritative Voice <br>
 Story Seed: The Golden Section <br>
 Leonardo Fibonacci of Pisa <br>
 Musica Mundana<br>
-Story Seed: Flying to the Moon 
+Story Seed: Flying to the Moon
 
 **III. Philosophiae**<br>
 Fact vs. Theory <br>
@@ -340,7 +342,7 @@ Story Seed: A Cure by Proxy <br>
 Story Seed: The Unremarkable Tree<br>
 Generating Worms (with New Rego Animal Guideline) <br>
 Creo Mentem Guidelines <br>
-Intellego Mentem Guidelines<br> 
+Intellego Mentem Guidelines<br>
 Muto Mentem Guidelines <br>
 Perdo Mentem Guidelines<br>
 Rego Mentem Guidelines<br>
@@ -389,7 +391,7 @@ Chirurgical Magic (with Spell Guidelines) <br>
 Nurses<br>
 Commonly Used Ingredients<br>
 Pharmacy <br>
-Pharmacy Magic 
+Pharmacy Magic
 
 **V. Experimental Philosophy**<br>
 The Lyceum and Experimentation<br>
@@ -407,7 +409,7 @@ Reagent Guidelines<br>
 Alchemical Purification's <br>
 Shape & Material Bonuses <br>
 Volume Conversion Guide<br>
-Theriac Guidelines 
+Theriac Guidelines
 
 **VI. Institutional Education**<br>
 The Limits of Education<br>
@@ -419,7 +421,7 @@ Brother Julian<br>
 Story Seed: An Unlikely Connection <br>
 Story Seed: A Plague of Dogs <br>
 Translations<br>
-Warring Faiths 
+Warring Faiths
 
 **VII. Universities**<br>
 Faculty Titles <br>
@@ -430,9 +432,9 @@ Story Seed: On the Nature of Magic<br>
 Gilpatrick <br>
 Story Seed: The End of the Oral Oath? <br>
 Schoolmen's Disputationes and House Tytalus' Debates<br>
-The Nature of Students 
+The Nature of Students
 
-**VIII. Artists** 
+**VIII. Artists**
 Story Seed: A Noble Rivalry <br>
 Story Seed: The Dead Emperor's Ghost <br>
 Story Seed: Three Nails or Four<br>
@@ -1094,7 +1096,7 @@ The living creatures of the waters, the air, and the earth multiply through prop
 
 The mind, as nourished by the sensitive faculty (see Chapter Four: Medicine), is the link between the body and the soul. The functions of the sensitive faculty — collectively called the inner wits — are the five components of the mind. Note that these wits have common names that do not exactly match their meanings in modern English. The **common sense** gathers the input of the sense organs, and the **imagination** stores them. The **memory** archives experiences and thoughts, which are used by the **cognition** to make decisions. Finally, the **estimation** deals with instinctual responses to external stimuli. Each of the wits is described in detail below. These five wits are possessed by any being with a sensitive faculty, not just humans; however, the animal mind has a greatly diminished cognition and an abundance of estimation.
 
-The principal difference between the mind of an animal and that of a human is the possession of a soul, which is unique to rational beings such as humans, angels, and demons. The soul provides both **reason** (*ratio*) and **intellect** (*intellectus*). Reason is exercised when one proceeds step by step to prove a truth that is not self-evident, and is the highest function of the cognition working in conjunction with the soul. Reason uses the input from all the inner wits — the sensory species composited in the common sense, the unsensed impressions of the estimation, the memory of past events, and the imaginative powers of the cognition — to reach a conclusion that none of the individual parts of the mind is capable of reaching alone.
+The principal difference between the mind of an animal and that of a human is the possession of a soul, which is unique to rational beings such as humans and angels. The soul provides both **reason** (*ratio*) and **intellect** (*intellectus*). Reason is exercised when one proceeds step by step to prove a truth that is not self-evident, and is the highest function of the cognition working in conjunction with the soul. Reason uses the input from all the inner wits — the sensory species composited in the common sense, the unsensed impressions of the estimation, the memory of past events, and the imaginative powers of the cognition — to reach a conclusion that none of the individual parts of the mind is capable of reaching alone.
 
 The intellect is the power of understanding, the process of revealing the self-evident, a simple grasp of an intelligible truth. Angels are blessed with perfect understanding — *intelligentia* — in that things which are sensed are fully comprehended; there is no need for reason to reveal them. Intellect is clouded intelligentia, which provides frequent but momentary glimpses of true understanding; the flash of inspiration and the dawning of comprehension. The intellect is also the organ of morality and the seat of conscience; the soul knows what is good and what is bad without the need for logic.
 
@@ -2246,7 +2248,7 @@ The Ability of Medicine is primarily oriented toward establishing a preventative
 >
 >#### Magical Assistance to Disease Recovery Rolls
 >
->Magical bonuses to Disease Recovery rolls can be provided by Creo Corpus spells or equivalent magics at the same levels as Wound Recovery rolls. Different spells are required for providing magical aid to Disease Recovery rolls and Wound Recovery rolls, for the healing process works in a different manner. These bonuses to disease recovery do not affect the Prognosis Total; they are additional to any benefit from Medicine. If a disease is caused by possession by a demon (or another supernatural entity), then magical attempts to provide a healing bonus (or cure the disease entirely) must penetrate the creature's Might score to have any effect. Since possessing demons cannot normally be perceived, even with magic, they are not normally prone to destruction by spells like *Demon's Eternal Oblivion*.
+>Magical bonuses to Disease Recovery rolls can be provided by Creo Corpus spells or equivalent magics. These bonuses to disease recovery do not affect the Prognosis Total; they are additional to any benefit from Medicine. If a disease is caused by possession by a demon (or another supernatural entity), then magical attempts to provide a healing bonus (or cure the disease entirely) must penetrate the creature's Might score to have any effect. Since possessing demons cannot normally be perceived, even with magic, they are not normally prone to destruction by spells like *Demon's Eternal Oblivion*.
 
 ### Treatment of Disease
 
@@ -2277,8 +2279,6 @@ To receive the benefit from medication and surgery, the medicus need not have th
 If it is necessary to make a diagnosis without combining this with prognosis, then the physician should make a Perception + Medicine roll, with an Ease Factor determined by the storyguide depending on the rarity of the disease, where 6 represents an uncommon but not unusual complaint.
 
 >#### Medical Magic
->
->The same Creo Corpus guidelines that grant bonuses to Wound Recovery rolls can be used to create spells affecting Disease Recovery rolls, but a spell designed to assist the healing of wounds cannot be used to assist recovery from a disease.
 >
 >Under the rules presented here, some of the Corpus spells listed in **Ars Magica Fifth Edition**, pages 129–135, require clarifications as to how they act.
 >
@@ -2897,7 +2897,7 @@ Note that some formulae are exceptionally hard — one must study all one's life
 >R: Touch, D: Mom, T: Group<br>
 >Req: Animal, Terram
 >
->The raw ingredients for a restorative that gives a +3 to Wound Recovery rolls are combined into a theriac, providing that the caster has access to an appropriate formula. The Ease Factor of the Finesse roll will vary according to the Potency of the theriac; to duplicate the formula for the Mustard Plaster (Level 5, see below) requires an Ease Factor of 16.
+>The raw ingredients for a restorative that gives a +3 to Wound Recovery rolls are combined into a theriac, providing that the caster has access to an appropriate formula. The Ease Factor of the Finesse roll will vary according to the Potency of the theriac; to duplicate the formula for the Mustard Plaster (Level 5, see below) requires an Ease Factor of 14.
 >
 >(Level 3, +1 Touch, +2 Group)
 
@@ -3347,7 +3347,7 @@ This concentrated herbal infusion is an antidote to the bite of any serpent. If 
 (base 3, +3 Strong)
 
 **Compress of Mallow**<br>
-Theriac Level 15<br> 
+Theriac Level 15<br>
 Potency: Mild
 
 This cool bandage made of mallow and cucumber soothes burn wounds, and will heal any Light Wound caused by fire over the course of a week.
@@ -4457,7 +4457,7 @@ Several types of entertainers use animals in their acts; dancing bears are nearl
 
 Animals must be trained before they will follow a master's commands. Training an animal takes a season or more, depending on the type of animal and the skill of the trainer. Any character with the Animal Handling Ability can train mundane animals. Training supernatural animals is more difficult, and outside the scope of regular entertainers. Rules for training magical animals can be found in *Realms of Power: Magic*. These rules adapt those, emphasizing the mundane aspect of animal training germane to most regular entertainers.
 
-A mundane trainer generates a number of training points in each season that he spends working with an animal. This total is the character's Intelligence + Animal Handling – Creature's Might. If the character has the Virtue: Animal Ken, he may add his score in Animal Ken to the total. For the purposes of training, a mundane animal is considered to have a Might score of 1 + Confidence Score. The character's total must exceed the animal's Might score, with the excess points used to build a total equal to that value. Once the excess training points equal the creature's Might, the animal is trained and will follow its master's commands. Animal training demands patience and persistence on the trainer's part. The trainer must stick with the animal until its training is complete. If he cannot train an animal in a single season, he must continue the training. Interrupting this process will erase all accumulated training points.
+A mundane trainer generates a number of training points in each season that he spends working with an animal. This total is the character's Intelligence + Animal Handling – Creature's Might. If the character has the Virtue: Animal Ken, he may add his score in Animal Ken to the total. For the purposes of training, a mundane animal is considered to have a Might score of 1 + 2 x Confidence Score. The character's total must exceed the animal's Might score, with the excess points used to build a total equal to that value. Once the excess training points equal the creature's Might, the animal is trained and will follow its master's commands. Animal training demands patience and persistence on the trainer's part. The trainer must stick with the animal until its training is complete. If he cannot train an animal in a single season, he must continue the training. Interrupting this process will erase all accumulated training points.
 
 >#### Story Seed: Beware the Gleemen
 >
@@ -4681,9 +4681,9 @@ Plays, musical ensembles, and other joint performances require many players. Use
 
 Since books are rarely written about an artist's trade, artist characters can study pieces of art of their discipline to increase their knowledge. The Aesthetic Quality of a piece of artwork functions as a study source for artists who participate in the same profession. Divide the artwork's Aesthetic Quality by two to determine the Advancement total. The character studying the piece of art must spend a season observing it, after which he gains experience points in his Craft or Profession Ability. The object must have been made using the same Craft or Profession Ability in which the character is gaining experience points. A character cannot study his own artwork for experience point gain.
 
-Performers must do more than just see a new performance to actively study it for experience point gain. They must practice it, contemplate it, compare it to older examples of similar performance, and fully comprehend what makes it new and interesting.
+Performers must do more than just see a new performance to actively study it for experience point gain. They must practice it, contemplate it, compare it to older examples of similar performance, and fully comprehend what makes it new and interesting. It takes one season to study a single work of art, and each work of art may only be studied once, like a tractatus.
 
-> **Art Advancement Total: Aesthetic Quality/2**
+> **Source Quality: Aesthetic Quality/2**
 
 ## Artist Reputation
 
@@ -4992,7 +4992,7 @@ Born in Macedonia and educated in Athens as a student of Plato, Aristotle is the
 
 A Greek mathematician who taught at Alexandria, Euclid's works are the foundation for the study of geometry.
 
-*Elementa.* 13 books that act as a summa on Artes Liberales, Level 4, Quality 8\* (Quality 9 in Greek).
+*Elementa.* 13 books that act as a summa on Artes Liberales, Level 4, Quality 14\* (Quality 15 in Greek).
 
 *Optica.* A tractatus on Artes Liberales, Quality 8\* (Quality 9 in Greek).
 
