@@ -16,6 +16,7 @@ Applied errata.
 - **Mythic Herbalism:** added Root-Cutter specialties to the list.
 - *prosecution principal* and similar, were "principle".
 - minor typos
+- Beloved Rival: DE reclassified it as a Major and Minor Flaw, left as is.
 
 ---
 
