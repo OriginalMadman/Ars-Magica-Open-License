@@ -15,6 +15,8 @@ Applied errata.
 - Nature Lore was changed to an *Arcane Ability* to match errata, was "a Supernatural Ability".
 - Normalized ToC from title depth.
 - *6. Combat Statistics* from Mundane Beasts appendix, was "5."
+- Gorgiastic: DE reclassified it as a Hermetic Virtue, left as is.
+- Grudge: DE reclassified it as a Personality Flaw, left as is.
 
 ---
 
@@ -1944,7 +1946,7 @@ Criamon remains partially within time, holding the Twilight road open. This is a
 
 The Hypostasis, also called Twilight or the Alam of Repose, is whatever lies outside time. Criamon assured his followers that it is a wonderful place and that he is guaranteeing their ability to find final rest there. Criamon magi believe that those who fall into Final Twilight enter the fringes of Hypostasis. If they have impure spirits, they require lengthy and painful adjustment before they can enter it fully. This is one of the motivators for ethical behavior by Criamon magi. Criamon magi call those who are believed to live in the Hypostasis the "tangential magi."
 
-#### The Counter - Cyclical Alam
+#### The Counter-Cyclical Alam
 
 If time is circular, all time exists simultaneously to an observer outside the circle. This means that the current universe, which is sliding toward the whirl of chaos, exists simultaneously with the time of the universe when harmony is increasing. Some Criamon magi claim to have traveled to the counter-cyclical alam. They are not correct, but there is no way to prove that without being outside time.
 
@@ -3218,7 +3220,7 @@ Note that while Alluring to Magical Beings can affect Hermetic magi, the Parma M
 
 Like Enchanting Music (ArM5, page 65), this Supernatural Ability applies to a particular type of artistic expression: dance, drawing, storytelling, even craftwork. Those with this Virtue may find that in Faerie auras this Ability allows them to change or control events based on how well they depict them with their art.
 
-#### Faerie - Raised Magic
+#### Faerie-Raised Magic
 
 *Major, Hermetic*
 

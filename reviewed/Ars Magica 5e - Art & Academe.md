@@ -28,6 +28,8 @@ Some identified issues present in source PDF. Only major differences are listed:
 - Animal Trainers, third paragraph: a mundane animal has Might *1 + 2 x Confidence Score* to match the formula errata, was "1 + Confidence Score".
 - Pieces of Art as Advancement Sources: body text "Advancement total" is left as-is, a mismatch with the errata-renamed *Source Quality* summary.
 - Various other source typos: Cathers, Avezzo, Poiters, Montpelier, Dominician, Melgeuil, Salernitarian, Herrod, Albert, Borealis.
+- Failed Student: DE reclassified it as a General Flaw, left as is.
+- Gullible: DE reclassified it as a General Flaw, left as is.
 
 ---
 

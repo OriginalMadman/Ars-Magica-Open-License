@@ -12,6 +12,8 @@
 Applied errata.
 
 - Joined split paragraphs
+- Crafter's Healing: DE demoted it to a Minor Virtue, left as is.
+- Male Guild Sponsor: DE reclassified it as a Social Status Virtue, left as is.
 
 ---
 
