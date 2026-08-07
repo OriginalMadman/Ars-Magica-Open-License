@@ -1956,6 +1956,16 @@ Great Weapon 4 (great sword), Infernal Lore 2 (plots), Intrigue 4 (his "charge")
 
 *Obsession*, 1 to 3 points, Init –5, Vim: Pride. See Chapter 4: Infernal Legions, Demonic Powers.
 
+*Punish the Sinner*, 5 points, Init +3, Corpus: See Chapter 4: Infernal Legions, Avengers of Evil.
+
+**Weakness:** Ordering
+
+**Vis:** 2 pawns of Vim, in wings
+
+**Appearance:** Clothed in a white robe and shining with white fire, Guazzo's white-feathered wings are usually wrapped around his comely frame. He carries a sword of fire.
+
+Guazzo is an angel of punishment who targets an individual for his particular attention (that is, an unfortunate with the Plagued by a Demon Flaw). However, his victim is unaware of the Infernal status of his "guardian angel," and has instead been told that he is destined for great things, so God has sent an angel to watch over him. Guazzo encourages his charge to do things that work towards his destiny (but which actually work towards a more dubious goal), while punishing him at every opportunity for any character flaws he might display. Guazzo is only appropriate for a character whose player is comfortable with the difference between player and character knowledge.
+
 > ## Famuli
 >
 > **Order:** False Gods
@@ -1973,16 +1983,6 @@ Great Weapon 4 (great sword), Infernal Lore 2 (plots), Intrigue 4 (his "charge")
 > **Powers:**
 >
 > *Lend Senses*, 1 point, Init 0, Mentem: While in physical contact with another being (the owner, for example), the famulus can lend that being either its hearing or sight. This effect lasts indefinitely, but if the eavesdroppers witness a display of religious sentiment, it is immediately terminated. For example, if a witch borrows the sense of sight, and sees someone cross himself, or views a crucifix, the power of the demon fails. Likewise, if the power of hearing has been borrowed then hearing church bells, the name of God, or a mosque's call to prayer terminates the Power.
-
-*Punish the Sinner*, 5 points, Init +3, Corpus: See Chapter 4: Infernal Legions, Avengers of Evil.
-
-**Weakness:** Ordering
-
-**Vis:** 2 pawns of Vim, in wings
-
-**Appearance:** Clothed in a white robe and shining with white fire, Guazzo's white-feathered wings are usually wrapped around his comely frame. He carries a sword of fire.
-
-Guazzo is an angel of punishment who targets an individual for his particular attention (that is, an unfortunate with the Plagued by a Demon Flaw). However, his victim is unaware of the Infernal status of his "guardian angel," and has instead been told that he is destined for great things, so God has sent an angel to watch over him. Guazzo encourages his charge to do things that work towards his destiny (but which actually work towards a more dubious goal), while punishing him at every opportunity for any character flaws he might display. Guazzo is only appropriate for a character whose player is comfortable with the difference between player and character knowledge.
 
 #### Hutriel, the Rod of God
 
@@ -2128,6 +2128,14 @@ Bludgeon: Init +4, Attack +9, Defense +7, Damage +6
 
 *Obsession*, 1 to 3 points, Init –5, Vim: Repentance. See Chapter 4: Infernal Legions, Demonic Powers.
 
+*Punish the Sinner*, 5 points, Init +3, Corpus: See Chapter 4: Infernal Legions, Avengers of Evil.
+
+*Weakness:* Abhorrent Material (amulet inscribed with the sigil of Adonael)
+
+*Vis:* 8 pawns of Corpus, in water jug
+
+*Appearance:* Metathiax appears as an emaciated angelic figure composed of black fire and clothed in a robe of red with a blue hood. He carries a jug of water. Like all Avengers of Evil, his face is expressionless. He rarely assumes a gross physical form, instead attacking his chosen victim using his Powers.
+
 Metathiax is the decanus who inflicts diseases of the kidneys. When he uses his Punish the Sinner Power, stabbing abdominal pains are inflicted on the victim. The diseases he inflicts rot the kidneys and the bladder, causing extreme pain when urinating and the passing of blood. He rules the first third of Cancer's reign, and always commences his attacks during the full moon. A knowledgeable exorcist knows that the attacks of Metathiax may be calmed by the reading of poetry, and those who attempt such therapy may gain a bonus to recovery rolls equal to one=half of the poet's Ability score. Metathiax is thwarted by the angel Adonael.
 
 > ## Incubi & Succubae
@@ -2147,14 +2155,6 @@ Metathiax is the decanus who inflicts diseases of the kidneys. When he uses his 
 > **Weakness:** Abhorrent Material (light)
 >
 > **Powers:**
->
-> *Punish the Sinner*, 5 points, Init +3, Corpus: See Chapter 4: Infernal Legions, Avengers of Evil.
->
-> **Weakness:** Abhorrent Material (amulet inscribed with the sigil of Adonael)
->
-> **Vis:** 8 pawns of Corpus, in water jug
->
-> **Appearance:** Metathiax appears as an emaciated angelic figure composed of black fire and clothed in a robe of red with a blue hood. He carries a jug of water. Like all Avengers of Evil, his face is expressionless. He rarely assumes a gross physical form, instead attacking his chosen victim using his Powers.
 >
 > *Mutable Gender*, 0 points, Init 0, Corpus: These demons can switch gender at will.
 >

@@ -1381,7 +1381,7 @@ Customization Notes: The hunter is extremely useful in the wilderness, and can g
 
 #### The Specialist
 
-Characteristics: Int –1, Per 0, Pre –1, Com –4, Str +2, Sta +2, Dex +3, Qik +2
+Characteristics: Int -1, Per 0, Pre -1, Com -4, Str +2, Sta +2, Dex +3, Qik +2
 
 Size: 0
 
@@ -1686,7 +1686,7 @@ These templates are of a stereotypical member of each House, 25 years old and ju
 
 #### Bjornaer
 
-Characteristics: Int +3, Per 0, Pre 0, Com –1, Str 0, Sta +1, Dex 0, Qik +1
+Characteristics: Int +3, Per 0, Pre 0, Com -1, Str 0, Sta +1, Dex 0, Qik +1
 
 Size: 0
 
@@ -1886,7 +1886,7 @@ Customization Notes: This Ex Miscellanea tradition grants the Virtues Giant Bloo
 
 #### Flambeau
 
-Characteristics: Int +2, Per +1, Pre 0, Com –1, Str 0, Sta +2, Dex 0, Qik +1
+Characteristics: Int +2, Per +1, Pre 0, Com -1, Str 0, Sta +2, Dex 0, Qik +1
 
 Size: 0
 
@@ -1934,7 +1934,7 @@ Customization Notes: The Flambeau is very much a one-trick pony. He can throw fi
 
 #### Guernicus
 
-Characteristics: Int +3, Per +4, Pre +1, Com 0, Str 0, Sta 0, Dex –2, Qik 0
+Characteristics: Int +3, Per +4, Pre +1, Com 0, Str 0, Sta 0, Dex -2, Qik 0
 
 Size: 0
 
@@ -2186,7 +2186,7 @@ Aquam received an additional 33 experience points (from Auram, Ignem and Terram)
 
 #### Tytalus
 
-Characteristics: Int +4, Per –1, Pre 0, Com 0, Str 0, Sta +2, Dex +1, Qik +1
+Characteristics: Int +4, Per -1, Pre 0, Com 0, Str 0, Sta +2, Dex +1, Qik +1
 
 Size: 0
 
@@ -18102,7 +18102,7 @@ Boars vary greatly in size, from eight stone (112 pounds) to more than thirty st
 
 ### Bull (Taurus)
 
-Characteristics: Cun –2, Per 0, Pre –4, Com –4, Str +5, Sta +3, Dex 0, Qik –1
+Characteristics: Cun -2, Per 0, Pre -4, Com -4, Str +5, Sta +3, Dex 0, Qik -1
 
 Size: +2
 
@@ -18182,7 +18182,7 @@ The cat has a reputation for evil among the common folk. They accuse it of steal
 
 ### Falcon (Falco)
 
-Characteristics: Cun –1, Per +3, Pre –1, Com –2, Str –6, Sta +2, Dex +1, Qik +6
+Characteristics: Cun -1, Per +3, Pre -1, Com -2, Str -6, Sta +2, Dex +1, Qik +6
 
 Size: -3
 
@@ -18220,7 +18220,7 @@ Other, smaller species of falcon are Size –4. All falcons are fast fliers and 
 
 ### Horse, Courser (Equus)
 
-Characteristics: Cun –2, Per 0, Pre 0, Com –4, Str +4, Sta +3, Dex –2, Qik +2
+Characteristics: Cun -2, Per 0, Pre 0, Com -4, Str +4, Sta +3, Dex -2, Qik +2
 
 Size: +2
 
@@ -18258,7 +18258,7 @@ Any light horse — courser, charger, or palfrey — gets a +3 to rolls involvin
 
 ### Horse, Destrier (Equus)
 
-Characteristics: Cun –2, Per 0, Pre 0, Com –4, Str +6, Sta +3, Dex +1, Qik –1
+Characteristics: Cun -2, Per 0, Pre 0, Com -4, Str +6, Sta +3, Dex +1, Qik -1
 
 Size: +3
 
@@ -18784,7 +18784,9 @@ Appearance: Baghl is the jinni of a dark cave found in the Elbruz mountains that
 
 Magic Might: 14 (Animal)
 
-Characteristics: Cun -1, Per +2, Pre +1, Com -2, Str –4, Sta +3, Dex +1, Qik +2
+Characteristics: Cun -1, Per +2, Pre +1, Com -2, Str -4, Sta +3, Dex +1, Qik +2
+
+Size: –2
 
 Virtues and Flaws: Lesser Immunity (to non-lethal diseases), Unaffected by the Gift, Compassionate (minor), Noncombatant
 
@@ -18823,9 +18825,9 @@ A caladrius is a mystical bird much sought by royal households. It can determine
 
 A caladrius will not absorb a terminal illness (its Lesser Immunity would not protect it), but it will gladly heal any lesser ailment. It can heal either spontaneous diseases, which result from aging crises or diseases due to an external cause. As long as the crisis is not terminal or the disease does not cause a Lethal Wound, a caladrius can cure it. It can only heal wounds caused by disease, not those resulting from poison, combat, or other causes. It cannot remove Decrepitude.
 
-#### Story Seed: The Imprisoned Caladrius
-
-Both kings and magi greatly prize the caladrius for its healing powers. Such a powerful character has captured a caladrius and plans to keep it until his next aging crisis. The kind-hearted bird wants only to be set free so it can use its healing power to help others. Perhaps it finds a way to ask the characters for help, or maybe it escapes on its own and the characters are accused of stealing it.
+> #### Story Seed: The Imprisoned Caladrius
+>
+> Both kings and magi greatly prize the caladrius for its healing powers. Such a powerful character has captured a caladrius and plans to keep it until his next aging crisis. The kind-hearted bird wants only to be set free so it can use its healing power to help others. Perhaps it finds a way to ask the characters for help, or maybe it escapes on its own and the characters are accused of stealing it.
 
 > ### Essential Traits
 >
@@ -19073,7 +19075,7 @@ A Spirit charged with ports and harbors, the Greeks called him Palaemon and Meli
 
 Magic Might: 10 (Ignem)
 
-Characteristics: Int –1, Per +3, Pre 0, Com 0, Str –1, Sta +4, Dex+3, Qik +6
+Characteristics: Int -1, Per +3, Pre 0, Com 0, Str -1, Sta +4, Dex+3, Qik +6
 
 Size: –2
 
@@ -19271,7 +19273,7 @@ A water elemental's body is composed entirely of water. It can roll across the g
 
 Magic Might: 15 (Aquam)
 
-Characteristics: Cun +4, Per –2, Pre 0, Com 0, Str +3, Sta +3, Dex +1, Qik –4
+Characteristics: Cun +4, Per -2, Pre 0, Com 0, Str +3, Sta +3, Dex +1, Qik -4
 
 Size: 0
 
@@ -19408,7 +19410,7 @@ Magic Might: 15 (Ignem)
 
 Recovers Might points in one quarter of the normal time, which for an elemental means 3 weeks rather than a season. For a Might 15 elemental this is approximately 2 Might points every 3 days.
 
-Characteristics: Cun 0, Per –2, Pre +3, Com +1, Str –4, Sta 0, Dex +5, Qik +2
+Characteristics: Cun 0, Per -2, Pre +3, Com +1, Str -4, Sta 0, Dex +5, Qik +2
 
 Size: 0
 
@@ -19444,26 +19446,36 @@ Notes: Born of a lightning strike hitting a magically tainted tree (perhaps a vi
 
 ### Ghostly Warder
 
-Characteristics: Int +1, Per +1, Pre +1, Com +1,
+Magic Might: 10 (Mentem)
+
+Characteristics: Int +1, Per +1, Pre +1, Com +1, Str 0, Sta +2, Dex 0, Qik 0
+
+Size: 0 (but non-physical)
+
+Age: n/a (40)
+
+Decrepitude: Already dead
+
+Confidence Score: 1 (3)
 
 Virtues and Flaws: None (may take Virtues and Flaws as a grog, if desired by the troupe.)
 
-Personality Traits: Protective +3, two others chosen
+Personality Traits: Protective +3, two others chosen by the player.
 
-Combat: n/a The ghost is non-physical, and so cannot be harmed by combat or harm others in
+Combat: n/a The ghost is non-physical, and so cannot be harmed by combat or harm others in combat.
 
 Abilities: [Area] Lore 5 (places children get lost), Awareness 5 (where her children are), Church Lore 1 (funerals), Divine Lore 1 (after death), Folk Ken 4 (people lying to her children), Living Language 5 (scolding), Magic Lore 2 (ghosts), Profession (housewife) 5 (cleaning)
 
 Powers:
 
 *Kinesis*, 5 points, Init 0, Terram:<br>
-The ghost can move an object as if she were still physically present. One expenditure of Might allows her to move one object until she puts it down again. She has no combat Abilities, so she cannot fight wielding
+The ghost can move an object as if she were still physically present. One expenditure of Might allows her to move one object until she puts it down again. She has no combat Abilities, so she cannot fight wielding an object as a weapon.
 
 Equipment: Apparently clothing, tools, and even pots and pans, as if she is in the process of cooking, but these are all ghostly and really part of her.
 
 Vis: None. Magi cannot render other characters' Ghostly Warders down for vis.
 
-Appearance: An older peasant woman, rather gaunt, dressed in simple but well-repaired clothes and daily life. This may be a distaff and spindle, or a pot, or a broom; it changes from time to time. Note that she is invisible to characters without an appropriate Virtue.
+Appearance: An older peasant woman, rather gaunt, dressed in simple but well-repaired clothes and carrying the tools used in some part of daily life. This may be a distaff and spindle, or a pot, or a broom; it changes from time to time. Note that she is invisible to characters without an appropriate Virtue.
 
 This Ghostly Warder (see the Magical Warder Virtue, page 93) was the character's mother, aunt, or possibly grandmother. She still gives him all the advice he received as a child, such as to wear warm clothes and stay away from the river, but she is also quite perceptive, both about people and about mundane events.
 
@@ -19818,9 +19830,9 @@ Note: A human skeleton weighs much less than a living person, so an animate skel
 
 ### Scitalis
 
-Magic Might: 5 (Animal) Characteristics:
+Magic Might: 5 (Animal)
 
-Cun +1, Per +2, Pre +4, Com -3, Str -2, Sta +2, Dex 0, Qik -2
+Characteristics: Cun +1, Per +2, Pre +4, Com -3, Str -2, Sta +2, Dex 0, Qik -2
 
 Size: -2
 
@@ -19981,7 +19993,7 @@ The dragon is aware of The Gift, but it inspires him with curiosity, making him 
 
 Magic Might: 15 (Imaginem)
 
-Characteristics: Int 0, Per 0, Pre –1, Com +4, Str 0, Sta –1, Dex 0, Qik +3
+Characteristics: Int 0, Per 0, Pre -1, Com +4, Str 0, Sta -1, Dex 0, Qik +3
 
 Virtues and Flaws: Great Communication, Improved Characteristics, Sharp Ears
 
@@ -20708,7 +20720,7 @@ Baal-Peor was worshipped, in ancient times, less as a wealth-god than as an embo
 
 Infernal Might: 50 (Mentem)
 
-Characteristics: Int +3, Per +2, Pre +3, Com +5, Str –1, Sta 0, Dex –1, Qik –1
+Characteristics: Int +3, Per +2, Pre +3, Com +5, Str -1, Sta 0, Dex -1, Qik -1
 
 Size: 0
 
@@ -21139,7 +21151,7 @@ Choosing this Virtue adds 2 to the Infernal Might of the Corrupt Beast. The crea
 
 Infernal Might: 7 (Animal)
 
-Characteristics: Cun –2, Per 0, Pre –6, Com –4, Str +4, Sta +4, Dex +1, Qik +1
+Characteristics: Cun -2, Per 0, Pre -6, Com -4, Str +4, Sta +4, Dex +1, Qik +1
 
 Size: +3
 
@@ -21326,7 +21338,9 @@ Encumbrance: 0 (0)
 
 Vis: 4 pawns Corpus throughout body, 2 pawns Ignem in veins.
 
-Appearance: Kolazonta most often appears as a dark, ominous cloud, but may rarely manifest as a man made of white fire, with veins of flame and eyes of Kolazonta is one of the angels tasked by the lord to chastise His faithful for their failings, and as such he is a servant of Uriel, the Angel of Punishment. Kolazonta was the angel who brought the plague upon the Israelites (in Numbers 16:46–50) for rebelling against Moses. Aaron defeated Kolazonta after Moses told him the punishment was lifted. Kolazonta is a grim angel who executes the chastisement of the Lord without fear or favor. He is often present amidst armies or cities under siege, waiting for the Lord's command to inflict a plague upon the sinful.
+Appearance: Kolazonta most often appears as a dark, ominous cloud, but may rarely manifest as a man made of white fire, with veins of flame and eyes of lightning.
+
+Kolazonta is one of the angels tasked by the lord to chastise His faithful for their failings, and as such he is a servant of Uriel, the Angel of Punishment. Kolazonta was the angel who brought the plague upon the Israelites (in Numbers 16:46–50) for rebelling against Moses. Aaron defeated Kolazonta after Moses told him the punishment was lifted. Kolazonta is a grim angel who executes the chastisement of the Lord without fear or favor. He is often present amidst armies or cities under siege, waiting for the Lord's command to inflict a plague upon the sinful.
 
 > *...our father Aaron, armed with the censer, ran through the multitude of the people and conquered the fiery angel...*
 >

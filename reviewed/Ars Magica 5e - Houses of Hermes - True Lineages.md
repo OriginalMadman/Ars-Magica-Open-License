@@ -17,6 +17,7 @@ Applied errata.
 - Removed ligatures for ease of search.
 - *prosecution principal* and similar, were "principle".
 - Pagan: DE reclassified it as a Personality (Major and Minor) Flaw, left as is.
+- Legionary updated to *Magic Might*; was "Magical Might".
 
 ---
 
@@ -4202,9 +4203,9 @@ Some Tremere magi are skilled at controlling dreams. Many people in Mythic Europ
 >
 > This ghost is typical of the fallen legionaries summoned in Western Europe. Many vanish after their first victory in combat, but a small portion feel they have a duty to defend Rome, and undertake moonlit pilgrimages to the Eternal City, dissolving into the Dominion at their quest's end.
 >
-> **Magical Might:** 10 (Mentem)
+> **Magic Might:** 10 (Mentem)
 >
-> **Characteristics:** Int 0, Per 0, Pre 0, Com 0, Str +2, Sta+2, Dex +2, Qik +1
+> **Characteristics:** Int 0, Per 0, Pre 0, Com 0, Str +2, Sta +2, Dex +2, Qik +1
 >
 > **Size:** 0
 >
@@ -4248,7 +4249,7 @@ Some Tremere magi are skilled at controlling dreams. Many people in Mythic Europ
 >
 > **Magic Might:** 15 (Mentem)
 >
-> **Characteristics:** Int 0, Per +1, Pre 0, Com 0, Str +1, Sta+1, Dex +2, Qik +2
+> **Characteristics:** Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +2
 >
 > **Size:** 0
 >
@@ -4406,7 +4407,7 @@ House Tremere lacks a detailed doctrine for magical mounts. It's not possible to
 >
 > **Magic Might:** 10 (Animal)
 >
-> **Characteristics:** Int +1, Per +3, Pre +1, Com +1, Str+2, Sta +2, Dex +2, Qik +2
+> **Characteristics:** Int +1, Per +3, Pre +1, Com +1, Str +2, Sta +2, Dex +2, Qik +2
 >
 > **Size:** 1
 >
@@ -4486,7 +4487,7 @@ House Tremere lacks a detailed doctrine for magical mounts. It's not possible to
 >
 > *Straight chase,* 1 point, Animal: After this power is activated, a shadow owl can fly through solid objects, for the next few minutes, as if it was a ghost. Shadow owls cannot strike through objects, like armor, because they need to be solid to harm their target. Owls pursue game through forests using this power. The House uses these owls to collect arcane connections, as they can carry game, or small items, in ghostly form.
 >
-> #### Fire kite powers:
+> **Fire kite powers:**
 >
 > *Kindle,* 1 point, +5 Init. Ignem: Fire hawks can ignite flammable objects by touch. They light small brushfires to flush, and sometimes cook, insects. They usually grasp a stick or clump of grass, ignite it, and then drop it while swooping over a target area. A kite using the Kindle power that strikes a foe does +9 damage (including the talon damage given above). The House uses these animals as saboteurs.
 >
@@ -4554,7 +4555,7 @@ Each Tremere magus is trained in a role that serves the House. Some of these rol
 
 Younger magi are often the most convenient members of the House to assign to problems. They are rarely excellent examples of their specialization, but the House has less than a hundred members, and senior magi have many claims on their time. Those who do well come to the close attention of those senior magi whom they will eventually replace, and are groomed for the role.
 
-There are many roles, common in other Houses, that Tremere magi rarely perform. Tremere magi cannot have magical focuses other than certamen, so they hire magi from other Houses to provide specialized services. Major spell research is sponsored with the aid of Magi from House Bonisagus. The House contracts Verditus magi to construct many of its magic items, providing them with lodgings in the Covenant of Lycaneon, which maintains the House's amber supplies.
+There are many roles, common in other Houses, that Tremere magi rarely perform. Tremere magi cannot have magical focuses other than certamen, so they hire magi from other Houses to provide specialized services. Major spell research is sponsored with the aid of Magi from House Bonisagus. The House contracts Verditius magi to construct many of its magic items, providing them with lodgings in the Covenant of Lycaneon, which maintains the House's amber supplies.
 
 #### Architects
 
@@ -4564,7 +4565,7 @@ Initially the House's combat engineers, these Terram specialists now have a prim
 
 Artificers manufacture the ritual objects of the House, both magical and mundane. If a new dragon banner is required, it is fitting a Tremere magus make it. Artificers make the reliquaries of other Tremere magi. If the table around which the Council meets needs repair, an artificer performs it. Artificers also dye the cloaks, and often craft the sigils, of Tremere magi. Artificers create the magic items that the House does not want discussed with outsiders.
 
-Artificers do not have techniques that are novel: they are less skilled than Verditus magi of the same age. They do, however, bring the Tremere mindset to problems. They see the need for devices in the same way other Tremere do, and hired Verditus magi often realize their concepts for new devices.
+Artificers do not have techniques that are novel: they are less skilled than Verditius magi of the same age. They do, however, bring the Tremere mindset to problems. They see the need for devices in the same way other Tremere do, and hired Verditius magi often realize their concepts for new devices.
 
 #### Assessor
 

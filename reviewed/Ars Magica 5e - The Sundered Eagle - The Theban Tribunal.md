@@ -1,4 +1,5 @@
 # The Sundered Eagle: The Theban Tribunal
+
 A sourcebook to The lands of Ancient Greece and Asia Minor for Ars Magica 5th Edition.
 
 > *Open License Markdown version by pkahle & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
@@ -6,13 +7,17 @@ A sourcebook to The lands of Ancient Greece and Asia Minor for Ars Magica 5th Ed
 > *[Completion state: Whole book manually fixed and reviewed.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
-> 
+>
 > ## Markdown Conversion Notes
 >
 > - Page 27: corrected an extraction artifact where the source line break in "bad-mannered" had been collapsed to "badmannered."
 > - Page 93: noted but did not correct the printed text "The Walls of Theodosius runs behind a defensive ditch."
 > - Page 114: noted but did not correct the printed text "they he retains the item."
 > - Page 114: corrected an extraction artifact where "chariot-shaped" had been collapsed to "chariotshaped."
+> - Page 140: "An Enemy Within" was missing the errata for Moreto, corrected to "Other Infernalists have informed".
+> - many *capital* and *principal*, were "capitol" and "principle".
+> - many **Labels:** were normalized to colon inside, were "**Labels**:".
+> - double-trailing \<br\>-equivalents in statblocks were left as is.
 
 Once-proud Constantinople has been ravaged by bloodthirsty Crusaders, and has sunken into depravity and ruin. With the fall of the blessed city, ancient magical bindings maintained by Roman relics of the defeated Empire are now shattered and broken, releasing beasts and demons to roam the land. Tales of unseasonal happenings draw eager hunters and curious Seekers alike. Meanwhile, the magi of the Theban Tribunal and their supernatural patrons devote their efforts to maintaining the peace. They struggle against divisions that mirror the age-old battles of the Titans and Olympian gods, who even now stir among their ancient temples and sanctuaries.
 
@@ -34,7 +39,7 @@ The Sundered Eagle contains full details of the Tribunal of Thebes. The lands of
 
 **Interior Art:** Fred Mason (*Huon of Bordeax*, London: George Allen Ruskin House, 1895); Gustave Doré, Schopin, Ulpiano Checa, E. K. Liska, Ludwig Thiersch, Fernand Cormon, Jean Lêon Gérôme, Jules Jean Lecomte-du-Nouy, Gustave Courtois, August von Heckel, Ary Scheffer, Louis-Frederic Schutzenberger, Gustave Boulanger, A. Gendron, Ch. F. Jalabert, J. Coomans, Jean Léon Gérôme (*Great Men & Famous Women*, NY: Selmar Hess, 1894); Michael Wolgemut and Wilhelm Pleydenwurff (*Medieval Woodcut Illustrations*, NY: Dover Publications, 1999); Richard Huber (ed. *Treasurey of Fantastic and Mythological Creatures*, NY: Dover Publications, 1981)
 
-**Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves **Publisher's Special Thanks**: Jerry Corrick & the gang at the Source.
+**Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves **Publisher's Special Thanks:** Jerry Corrick & the gang at the Source.
 
 **First Round Playtesters:** Leon Bullock, Peter Ryan, Chris Barrett; Christian Jensen-Romer, Andrew Oakley, David Curtin, Luke Price, Kevin Sides; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Odysseus Dallas, Menas Karavanos, Panagiotes Koutelidakes, Soteres Zaharopoulos; Angus MacDonald, Wendell BSP Joyner, Mark Pascual, Sally Hutchinson, Brian Watson
 
@@ -801,7 +806,7 @@ Darius' son Xerxes I launched another attack on Greece in 480, taking Thessaly, 
 >
 > The Greek armies facing Darius I were wholly unprepared for the use of magic on the battlefield. The Persian king had brought with him a cadre of sorcerers (or yatus) who deployed their spells against the Greek forces. Supernatural creatures under the command of these sorcerers rent their way through Ionian and Thracian soldiers, and it was only in Attica where Athenian theurgists had mustered that they were seriously opposed. When Xerxes led his subsequent invasion, the Greek theurgists were more prepared for the yatus, although the defenders were still outclassed by the professional battle-magicians of the Persian army.
 >
-> The Persians' principle magical aid came from the jinn, nasu, and the paririkas. The jinn were spirits of the natural elements who used thunder, dust storms, and earthquakes against the Greek armies, and waterspouts and torrential rain against their navies. The nasu were fly-spirits that appeared in immense numbers to bite the Greek warriors and defile their fallen comrades. The pairikas appeared in human form and were able to disturb the elements through violent winds and spontaneous conflagrations. The most powerful of the monsters under the yoke of Xerxes' sorcerers was an immense bull that filled the horizon like a mountain; its breath spewed flame, and its wounds spewed forth serpents and scorpions. It is said that in their desperation to combat such hideous monsters, the Greek wizards turned to the Witches of Thessaly and employed their chthonic magic to lay powerful bindings on the creatures, bindings that persist to this day.
+> The Persians' principal magical aid came from the jinn, nasu, and the paririkas. The jinn were spirits of the natural elements who used thunder, dust storms, and earthquakes against the Greek armies, and waterspouts and torrential rain against their navies. The nasu were fly-spirits that appeared in immense numbers to bite the Greek warriors and defile their fallen comrades. The pairikas appeared in human form and were able to disturb the elements through violent winds and spontaneous conflagrations. The most powerful of the monsters under the yoke of Xerxes' sorcerers was an immense bull that filled the horizon like a mountain; its breath spewed flame, and its wounds spewed forth serpents and scorpions. It is said that in their desperation to combat such hideous monsters, the Greek wizards turned to the Witches of Thessaly and employed their chthonic magic to lay powerful bindings on the creatures, bindings that persist to this day.
 >
 > #### Story Seed: Plague of Flies
 >
@@ -840,7 +845,7 @@ Alexander's conquering ambition was checked by the rebellion of his armies, who 
 
 ## Hellenistic Greece
 
-Forty years of hostilities between Alexander the Great's former generals and wouldbe successors followed his death, ending in the emergence of three major warring kingdoms: Macedonia, Ptolemaic Egypt, and the Seleucid Empire. The cities of Alexandria and Antioch — capitols of Egypt and Seleucid Syria respectively — became the centers of Hellenistic culture rather than Greece itself. Macedonia remained dominant over Greece, Thrace, and Anatolia, but it was not until King Antigonus II Gonatus (284–239) that the impoverished kingdom's fortunes were reversed and a new line of monarchs governed Greece. Throughout this period Athens retained its pre-eminence, despite having to accept a Macedonian garrison thanks to several rebellions. By 229 it had gained sufficient wealth as a commercial power to buy out the garrison. Another prominent power in Greece was Rhodes, which expelled the Macedonians following Alexander's death, and repelled a siege by one of his would-be successors. Rhodes rivaled Athens as the principal Aegean commercial state, and was the headquarters of international finance and banking and exchange in partnership with Egypt.
+Forty years of hostilities between Alexander the Great's former generals and would-be successors followed his death, ending in the emergence of three major warring kingdoms: Macedonia, Ptolemaic Egypt, and the Seleucid Empire. The cities of Alexandria and Antioch — capitals of Egypt and Seleucid Syria respectively — became the centers of Hellenistic culture rather than Greece itself. Macedonia remained dominant over Greece, Thrace, and Anatolia, but it was not until King Antigonus II Gonatus (284–239) that the impoverished kingdom's fortunes were reversed and a new line of monarchs governed Greece. Throughout this period Athens retained its pre-eminence, despite having to accept a Macedonian garrison thanks to several rebellions. By 229 it had gained sufficient wealth as a commercial power to buy out the garrison. Another prominent power in Greece was Rhodes, which expelled the Macedonians following Alexander's death, and repelled a siege by one of his would-be successors. Rhodes rivaled Athens as the principal Aegean commercial state, and was the headquarters of international finance and banking and exchange in partnership with Egypt.
 
 #### The Leagues
 
@@ -850,7 +855,7 @@ Perhaps the most important development of the Hellenistic age was the evolution 
 
 Rome's waxing imperialism became an important factor in the affairs of Hellenistic Greece. King Philip V of Macedonia's provocative alliance with Hannibal in 215 led to Roman military intervention in Greece which ended in 205 with the Peace of Phoenice, a treaty of mutual co-existence. However, Philip's continued ambition to expand his kingdom in Greece, in the Aegean, and along the Adriatic caused further military action from the Romans and a Macedonian defeat at the Battle of Cynoscephalae in 197. In 190 BC the greatest of the Seleucid monarchs, Antiochus III, invaded Greece and was similarly humbled by the Romans at the Battle of Magnesia and stripped of his possessions in Asia Minor. From then on Rome had no serious rival in the Aegean or the Middle East. The former Seleucid lands were given to the Roman allies of Pergamum and Rhodes. After a decisive Roman victory over Perseus, the son of Philip V, Macedonia came under Roman rule in 168. The Greek peninsula succumbed in 146 after the Battle of Corinth, although some Greek *poleis* managed to maintain partial independence. The Aegean islands were added in 133, and in the same year, Pergamum in Asia Minor was bequeathed to Rome at the death of its king. Several *poleis,* including Athens, rebelled against Roman rule in 88, but were crushed, and the land was devastated.
 
-The stable government of the Roman Empire meant a time of peace and prosperity for nearly 250 years. Life in Greece continued much as it always had, and Roman culture became highly influenced by the Greeks through epic stories, poetry, and philosophy. In the first century after Christ, Greece and much of the Roman East embraced Christianity, following the efforts of Paul of Tarsus who preached in Athens and Corinth. When Diocletian came to power in 284 AD, it was obvious that no one ruler could hold together the whole empire, and he divided it into four prefectures, adopting a joint Augustus to rule alongside him and two subordinate Caesars. The eastern prefectures were the *Praefectus Praetorio per Illyricium* (most of mainland Greece and Crete) and the *Praefectus Praetorio*  *per Orientem* (Thrace, Asia Minor, Judea, and Egypt). The center of gravity of the empire was pushed ever eastwards, with Constantine establishing a new capital and Christian city at Byzantium, renamed as Constantinople in 330 AD. Although theoretically governed by joint rulers, the empire gradually broke into an Eastern and Western half. While Rome itself was eventually sacked by barbarian invaders and fell before them, the Eastern Roman Empire continued to thrive.
+The stable government of the Roman Empire meant a time of peace and prosperity for nearly 250 years. Life in Greece continued much as it always had, and Roman culture became highly influenced by the Greeks through epic stories, poetry, and philosophy. In the first century after Christ, Greece and much of the Roman East embraced Christianity, following the efforts of Paul of Tarsus who preached in Athens and Corinth. When Diocletian came to power in 284 AD, it was obvious that no one ruler could hold together the whole empire, and he divided it into four prefectures, adopting a joint Augustus to rule alongside him and two subordinate Caesars. The eastern prefectures were the *Praefectus Praetorio per Illyricium* (most of mainland Greece and Crete) and the *Praefectus Praetorio per Orientem* (Thrace, Asia Minor, Judea, and Egypt). The center of gravity of the empire was pushed ever eastwards, with Constantine establishing a new capital and Christian city at Byzantium, renamed as Constantinople in 330 AD. Although theoretically governed by joint rulers, the empire gradually broke into an Eastern and Western half. While Rome itself was eventually sacked by barbarian invaders and fell before them, the Eastern Roman Empire continued to thrive.
 
 ## Constantine
 
@@ -914,7 +919,7 @@ In 626, Persia invaded. Emperor Heraclius sued for peace, but the Persians were 
 
 #### The Arab Threat
 
-Within a few decades of the death of the Prophet Muhammad, the Muslim Arabs had overthrown the Persian Empire, and by 711 had forever destroyed Byzantine North Africa, subsuming it in the vast and highly expansionist Caliphate. Twice the Muslim armies reached Constantinople, with fleets and an army besieging the city from 674– 678, and 717–718. From this point onwards the provinces of the empire in Asia Minor were to act as a bulwark against Islamic expansion into Eastern Europe, and continuous warfare followed. However, after reaching a natural border south of the Anatolian mountains, the Arabs largely contented themselves with raids into Byzantine territory, and diplomatic and mercantile contacts were to continue throughout the centuries that followed. Mosques were built in Constantinople, initially for the benefit of Arab prisoners, and later for the trading community. This state of affairs persists.
+Within a few decades of the death of the Prophet Muhammad, the Muslim Arabs had overthrown the Persian Empire, and by 711 had forever destroyed Byzantine North Africa, subsuming it in the vast and highly expansionist Caliphate. Twice the Muslim armies reached Constantinople, with fleets and an army besieging the city from 674–678, and 717–718. From this point onwards the provinces of the empire in Asia Minor were to act as a bulwark against Islamic expansion into Eastern Europe, and continuous warfare followed. However, after reaching a natural border south of the Anatolian mountains, the Arabs largely contented themselves with raids into Byzantine territory, and diplomatic and mercantile contacts were to continue throughout the centuries that followed. Mosques were built in Constantinople, initially for the benefit of Arab prisoners, and later for the trading community. This state of affairs persists.
 
 #### Iconoclasm
 
@@ -1199,7 +1204,7 @@ The members of the Theban Tribunal are very proud of their political system. The
 
 The cornerstones of the polity of the Theban Tribunal are twofold. The citizens of the polity have all the executive power, whereas the Council of Magistrates has all the administrative power.
 
-Take, for instance, the most common example of an alleged violation of the Code of Hermes: in Thebes it is the magistrates who prepare the evidence for the prosecution and the defense, not the principles involved. The decision of guilt or innocence is determined by the citizens (which is true for both Thebes and the usual Hermetic system), but deciding the punishment to be levied against a guilty party — which would normally be the job of the Quaesitores — is again the province of the polity. House Guernicus remains the expert in the study of Hermetic law, but has little role in the execution of it. This is quite deliberate; by putting the interpretation of the Code into the hands of amateurs, the Tribunal ensures that its rulings are intelligible to the average member of the Tribunal rather than being the arcane minefield common in so many other Tribunals. Technicalities of the law and legal loopholes are far less common in the Theban Tribunal.
+Take, for instance, the most common example of an alleged violation of the Code of Hermes: in Thebes it is the magistrates who prepare the evidence for the prosecution and the defense, not the principals involved. The decision of guilt or innocence is determined by the citizens (which is true for both Thebes and the usual Hermetic system), but deciding the punishment to be levied against a guilty party — which would normally be the job of the Quaesitores — is again the province of the polity. House Guernicus remains the expert in the study of Hermetic law, but has little role in the execution of it. This is quite deliberate; by putting the interpretation of the Code into the hands of amateurs, the Tribunal ensures that its rulings are intelligible to the average member of the Tribunal rather than being the arcane minefield common in so many other Tribunals. Technicalities of the law and legal loopholes are far less common in the Theban Tribunal.
 
 > ### The Origins of the Polity
 >
@@ -1223,13 +1228,13 @@ To ensure equal representation of citizens in the administration of the Theban T
 
 The four phylai are:
 
-**The Ionian Phyle**: Covenants on the western mainland of the Tribunal contribute to the Ionian phyle. Thessaly, Epiros, and the Peloponnese are counted among its territories, which currently include the covenants of Erebos, Epidauros, and Hedyosmos.
+**The Ionian Phyle:** Covenants on the western mainland of the Tribunal contribute to the Ionian phyle. Thessaly, Epiros, and the Peloponnese are counted among its territories, which currently include the covenants of Erebos, Epidauros, and Hedyosmos.
 
-**The Aegean Phyle**: The lands around the Aegean Sea all under the Aegean phyle. Boeotia, Euboea, and Macedonia are within its territories, as well as the northern islands. The covenants of Aegaea, Oikos tou Eleous, and Ingasia contribute members to the Aegean phyle.
+**The Aegean Phyle:** The lands around the Aegean Sea all under the Aegean phyle. Boeotia, Euboea, and Macedonia are within its territories, as well as the northern islands. The covenants of Aegaea, Oikos tou Eleous, and Ingasia contribute members to the Aegean phyle.
 
-**The Kretan Phyle**: Candia, the Cyclades, and the Dodecanese are the principle territories of the Kretan phyle, along with southern Nicaea. This includes the covenants of Alexandria, Favonius, and Polyaigos.
+**The Kretan Phyle:** Candia, the Cyclades, and the Dodecanese are the principal territories of the Kretan phyle, along with southern Nicaea. This includes the covenants of Alexandria, Favonius, and Polyaigos.
 
-**The Propontian Phyle**: Covenants to the east of the Tribunal, in Thrace, northern Nicaea, Constantinople, and any covenants in the Black Sea, are members of the Propontian phyle. This currently includes Moero's Garden, Gigas, Xylinites, and Michael's Tabula.
+**The Propontian Phyle:** Covenants to the east of the Tribunal, in Thrace, northern Nicaea, Constantinople, and any covenants in the Black Sea, are members of the Propontian phyle. This currently includes Moero's Garden, Gigas, Xylinites, and Michael's Tabula.
 
 ### The Council of Magistrates
 
@@ -1349,7 +1354,7 @@ The shard (Greek: *ostrakon*) is a shard of pottery, and represents an act that 
 - Refusal to surrender a Gifted child to the Treasury Council (two)
 - Abuse of one's own apprentice, as determined by the Conciliatory Board (one per instance)
 
-Tokens and shards are awarded at Tribunal meetings, and the physical object of the award or demerit acts as a currency in and of itself; although House Mercere also keeps a record. The principle use of the tokens is neutralization. A magus with a token can approach a magus with a shard and request a service from them. Subject to full disclosure over the nature of the service, the magus with the shard can decide to perform the service. The agreement must be witnessed and recorded by a Redcap, and the magi surrender to him a token and a shard respectively. The magus with the shard is never compelled to take the service offered him, and he is only bound by the arrangement to spend a single season in service, with no cost to himself other than time. Neutralization is principally used to secure assistance in the laboratory for a particular project, or the scribing of spells invented by the magus in service. Neutralization cannot occur between a magus' own tokens, nor may a magus neutralize the shards of a magus in his own covenant.
+Tokens and shards are awarded at Tribunal meetings, and the physical object of the award or demerit acts as a currency in and of itself; although House Mercere also keeps a record. The principal use of the tokens is neutralization. A magus with a token can approach a magus with a shard and request a service from them. Subject to full disclosure over the nature of the service, the magus with the shard can decide to perform the service. The agreement must be witnessed and recorded by a Redcap, and the magi surrender to him a token and a shard respectively. The magus with the shard is never compelled to take the service offered him, and he is only bound by the arrangement to spend a single season in service, with no cost to himself other than time. Neutralization is principally used to secure assistance in the laboratory for a particular project, or the scribing of spells invented by the magus in service. Neutralization cannot occur between a magus' own tokens, nor may a magus neutralize the shards of a magus in his own covenant.
 
 A magus can also rid himself of a shard through a decree of contrition. This must be lodged with the Conciliatory Board (see the Council of Magistrates, later) and presented at the Tribunal (see Tribunal Meeting, later).
 
@@ -1386,6 +1391,7 @@ The Tribunal spends approximately half of its vis income on funding the crafting
 As with longevity, the Theban Tribunal has a long-standing tradition of generosity with respect to magical healing. It is expected that any capable magus, when asked, should provide magical healing to a fellow magus in need. Unless the injured party has the requisite vis on hand, which is usually not the case, the vis cost of the healing is expected to be borne by the healer. The altruistic act of healing can thus be an expensive business, although the recipient of such generosity customarily gifts his healer with vis; by tradition, the gift is usually half the amount that was required for the healing. For example, a gift of two pawns would be appropriate for a magus receiving *The Chirurgeon's Healing Touch*, which costs four pawns of Creo or Corpus vis to cast. In case of emergency, the needed vis may be paid from the Tribunal's coffers, but only if both the victim and the healer lack the ability to pay. The phyle's Redcaps negotiate the fetching, borrowing, or reimbursement of the vis. The healing party thus typically ends up paying for some of the vis cost of the healing, but this is offset by the token which they are awarded (see earlier). Magi in need of magical healing commonly travel to the covenant of Epidauros, which receives a small stipend of vis from the Tribunal for its services. When a magus is injured at his home covenant, it is expected that the covenant will bear the vis cost; here, no token is awarded.
 
 #### Donation of Apprentices
+
 If a magus discovers a Gifted individual, he has a duty to notify the Treasury Council. Rather than claiming the individual himself, the potential apprentice is distributed to the most appropriate master through the Apprentice Presentation, which takes place prior to each Tribunal meeting (see later for more details).
 
 ### The Covenant Patrons
@@ -1435,7 +1441,7 @@ It is not especially difficult to found a new covenant in the Theban Tribunal, a
 
 The formal meeting of the Theban Tribunal takes place every seven years on the floating island of Delos (see Chapter 6). A Tribunal meeting always has a fixed order of business. It is divided into four phases, each of which fulfills a different state function. The Tribunal begins with a meeting of the Hermetic Assembly, followed by the Law Council, the People's Court, and the Council of Magistrates. There is then a closing ceremony. Each day of the Tribunal meeting begins at sunrise, when the magi are expected to be already in attendance. The Tribunal meeting ends when the magus who is speaking when the sun sets has concluded whatever he was saying. The business of each phase can span several days if necessary.
 
-Each Tribunal meeting is under the governance of a phyle, called the principle phyle. This phyle changes every Tribunal in a predetermined rotation — Ionian, Aegean, Kretan, and Propontian, then back to Ionian. It is up to the storyguide as to where in this cycle his saga is currently, but it is recommended that the second Tribunal that the characters attend has the characters' phyle as its principle phyle. This gives the characters one Tribunal to become familiar with Tribunal procedure before they are asked to assist in its organization.
+Each Tribunal meeting is under the governance of a phyle, called the principal phyle. This phyle changes every Tribunal in a predetermined rotation — Ionian, Aegean, Kretan, and Propontian, then back to Ionian. It is up to the storyguide as to where in this cycle his saga is currently, but it is recommended that the second Tribunal that the characters attend has the characters' phyle as its principal phyle. This gives the characters one Tribunal to become familiar with Tribunal procedure before they are asked to assist in its organization.
 
 ### Pre-Tribunal Procedure
 
@@ -1453,7 +1459,7 @@ For two days prior to the start of the Tribunal, all Gifted children located by 
 
 The first phase of the Tribunal itself is the Assembly. The magi assemble in the forum, politai wearing white robes and the metoikoi wearing grey robes. Archai supplement their robes with a wreath of myrtle leaves, the archon is further distinguished by a staff of office, and the polemarch wears a red sash. All votes take place via a show of voting sigils, and all magi present — whether politai or metoikoi — can take part in the vote. All decrees are passed by a majority vote of those magi present. The logothete is responsible for counting the votes, and the archon announces the result immediately after the vote is taken.
 
-The principle order of business at the Hermetic Assembly is to hear the decrees of the Conciliatory Board, which deal with personal conflicts and disputes. Each decree is read out by one of the archai on the appropriate board, and the archon calls for a vote after each one. If the Assembly rejects the decree, then whatever conclusion was reached by the board is overturned, and the matter must be brought before the Conciliatory Board again after the Tribunal.
+The principal order of business at the Hermetic Assembly is to hear the decrees of the Conciliatory Board, which deal with personal conflicts and disputes. Each decree is read out by one of the archai on the appropriate board, and the archon calls for a vote after each one. If the Assembly rejects the decree, then whatever conclusion was reached by the board is overturned, and the matter must be brought before the Conciliatory Board again after the Tribunal.
 
 #### Decrees of Citizenship
 
@@ -1490,14 +1496,15 @@ As a consequence of the apprentice presentation, most apprenticeships are squeez
 > #### Big Sister
 >
 > A Gifted child is found some time before the Tribunal, and lodged with an arche of the Treasury Council. A bond forms between the maga and child that proves distressing when a Tytalus magus ends up as the child's master. When the boy runs away, the Tytalus magus assumes that the character is responsible and demands her help to return the child. The boy has used the enchanted items he purloined to gain control of a group of robbers and amass wealth for himself. This naturally makes the master exceptionally proud of his apprentice!
->
+
 #### Ostrakismos
+
 The last order of business in the People's Assemby is the ostrakismos, or ostracism. The logothete reads a list of every magus who has one or more shards, along with their current count of demerits, excepting those magi who have become politai at this Tribunal through a decree of citizenship. For each name, a vote is taken as to whether the individual is a candidate for ostracism. Once this process has selected the candidates, each magus present writes the name of the candidate he wishes to ostracize on a sliver of pottery, or else writes "no one" and drops it into a jar. Once everyone has voted, the slivers are counted, and the magus with the most to his name is declared ostracized. If there is a draw, the vote is held again with just the names of the drawn candidates. If "no one" has the most votes, then there is no ostracism this Tribunal. An ostracized magus is stripped of his status as a citizen of the Theban Tribunal, and must leave the Tribunal's bounds within one season of the close of the meeting. He cannot return to Thebes for seven years; and if he chooses to return, he bears the status of a metoikos.
 
 > ## The Nature of the Law
 >
 > The Hermetic Code of the Theban Tribunal is comparatively simple. It consists of the Oath of Hermes, the edicts of the Grand Tribunal that apply to all Tribunals, and a relatively small corpus of the Peripheral Code. Unlike other Tribunals, where every prosecution becomes part of the Peripheral Code and acts as precedent, the Theban Code contains only deliberate acts of law-making, as passed by the Law Council. Each case is judged according to the Code and with no reference to previous rulings.
->
+
 ### The Law Council
 
 In this phase of the Tribunal, which always starts on a new day, the Peripheral Code of the Tribunal is reviewed. The Legislative Board presents any cases that have been brought before it. The two archai assigned to each case debate the relative merits of the current ruling and the proposed alternative. The Tribunal then votes on the matter, and if the alternative is accepted, the change to the Peripheral Code is recorded. The debate between the two principals can be glossed over if it has little relevance to the player magi; or, if it is important (or they are acting as one of the archai), it can be orchestrated using the rules provided in *Houses of Hermes: Societates* (pages 90–93). As with all tasks assigned the archai, if they are deemed to have not defended their position to the best of their abilities, then they may be awarded shards during the fourth phase of the Tribunal; however, there is no shame in asking an expert — such as a member of House Guernicus — for advice on how to pursue the case.
@@ -1516,7 +1523,7 @@ The final phase of the Tribunal is the Council of Archai. First, sentences are e
 
 #### Execution of Sentences
 
-Every case dealt with at the People's Court is now re-examined in turn. If the case for the defense was defeated, the prosecution principal will suggest a succession of punishments in decreasing order of severity; each one is voted for by the polity, and once one receives a majority of the votes present, it is accepted as the sentence. Typical punishments — and their relative severity — are given in *Houses of Hermes: True Lineages*  (page 60). The punishment is enacted immediately under the supervision or direct action of the polemarch. As with other Tribunals, damages may be awarded to the victim, and fines awarded to the prosecuting arche. A Wizard's March is never conducted on Delos due to an ancient ban against deaths occurring there (see Chapter 6, Delos); consequently, all executions take place on neighboring islands or at sea. The polemarch is responsible both for securing the prisoner and for the March itself, and he often names lieutenants to assist him.
+Every case dealt with at the People's Court is now re-examined in turn. If the case for the defense was defeated, the prosecution principal will suggest a succession of punishments in decreasing order of severity; each one is voted for by the polity, and once one receives a majority of the votes present, it is accepted as the sentence. Typical punishments — and their relative severity — are given in *Houses of Hermes: True Lineages* (page 60). The punishment is enacted immediately under the supervision or direct action of the polemarch. As with other Tribunals, damages may be awarded to the victim, and fines awarded to the prosecuting arche. A Wizard's March is never conducted on Delos due to an ancient ban against deaths occurring there (see Chapter 6, Delos); consequently, all executions take place on neighboring islands or at sea. The polemarch is responsible both for securing the prisoner and for the March itself, and he often names lieutenants to assist him.
 
 All punishments are accompanied by a penalty of three shards for a High Crime or one for a Low Crime. The magus who brought the case to the board of magistrates is awarded a token in recognition of his accomplishing a civic duty. This is increased to three tokens if the guilty party was Marched. However, any magus who brought a case to a board that was subsequently defeated by the People's Court is fined with a shard as a deterrent for bringing frivolous suits before the Tribunal.
 
@@ -1528,7 +1535,7 @@ Any polites can ask that the conduct of an arche or the polemarch be scrutinized
 
 The main business of this phase of the Tribunal meeting is to select the archai for the coming seven years. First, the current archai are thanked for their service by the archon and offered payment in the form of two tokens, and then dismissed. The polemarch then resigns, followed by the archon, and they are awarded five and three tokens each, respectively. All the regalia of office are returned to the logothete.
 
-The Redcaps of each phyle step forth in turn, starting with the principle phyle of this Tribunal, and each read out the candidate list for his phyle. As each name is read out, the Redcap places a token inscribed with the name of the candidate in a large earthenware jar. The logothete then selects four tokens from the jar at random; as their names are called, the magi step forward. The process then proceeds to the next phyle, until 16 names have been chosen in total. Once all phylai have had their candidates chosen, the new archai take an oath of allegiance to the Tribunal and promise to serve faithfully and with justice. If an arche is selected but is not present at the Tribunal, he is required to make this oath of allegiance at the first meeting of the board or council to which he is assigned.
+The Redcaps of each phyle step forth in turn, starting with the principal phyle of this Tribunal, and each read out the candidate list for his phyle. As each name is read out, the Redcap places a token inscribed with the name of the candidate in a large earthenware jar. The logothete then selects four tokens from the jar at random; as their names are called, the magi step forward. The process then proceeds to the next phyle, until 16 names have been chosen in total. Once all phylai have had their candidates chosen, the new archai take an oath of allegiance to the Tribunal and promise to serve faithfully and with justice. If an arche is selected but is not present at the Tribunal, he is required to make this oath of allegiance at the first meeting of the board or council to which he is assigned.
 
 Archai are then assigned to boards. The magi who have served as archai before are assigned first, as they cannot serve on the same board as they have before. If there is more than one choice of board, then assignment is performed by the drawing of lots, again placing the votes in a jar. If there are insufficient magi who can serve on a board, then the logothete assigns an appropriately skilled Redcap to serve on the board. Once three members have been assigned to each of the three boards, the remaining archai are enrolled in the Treasury Council.
 
@@ -1847,7 +1854,7 @@ The standard Mediterranean trading vessel is a ship with one to three masts bear
 
 The most common trading ship is the *dorkon* ("gazelle"), commonly around 65 feet long with a capacity of sixty tons. The *phaselos* ("bean-pod") is a longer and narrower vessel, the *kybaia* ("cubic") is wider and deeper, and the *sandalion* is larger and usually used for carrying grain. *Lemboi* (singular *lembos*), typically have just one mast, or a small main mast with a large fore mast. They are considered among the fastest of ships, all-purpose vessels used as harbor craft, fishing dories, cargo carriers, and river boats. The cutting edge of ship design in Mediterranean shipyards is to integrate facets of northern design — cogs with keels, sternpost rudders, and a square sail — to overcome the inadequacies of the traditional design.
 
-In contrast to the round ship, the galley (*galea*) relies on oar power, and uses sail only when wind and circumstances are favorable. The principle, and most feared, galleys of the Eastern Mediterranean were the dromons of the Byzantine navy; huge, battle-ready, and heavily-armed, they were responsible for the empire's maritime dominance. In addition to these battleships, the navy used *moneres*, fast single-level galleys with minimal crew, used for reconnaissance. The Western craft that transported the crusaders eastwards were also galleys, called *sagitta* ("arrow") as a testament to their speed, and prior to the crusades they were the most common corsair ships. The *cattus* is a heavier vessel, bedecked with castles fore and aft, designed mainly for troop transport. The native Greek *akatos* is a small galley, sometimes fitted for war, but more often used as a cargo carrier and passenger ship.
+In contrast to the round ship, the galley (*galea*) relies on oar power, and uses sail only when wind and circumstances are favorable. The principal, and most feared, galleys of the Eastern Mediterranean were the dromons of the Byzantine navy; huge, battle-ready, and heavily-armed, they were responsible for the empire's maritime dominance. In addition to these battleships, the navy used *moneres*, fast single-level galleys with minimal crew, used for reconnaissance. The Western craft that transported the crusaders eastwards were also galleys, called *sagitta* ("arrow") as a testament to their speed, and prior to the crusades they were the most common corsair ships. The *cattus* is a heavier vessel, bedecked with castles fore and aft, designed mainly for troop transport. The native Greek *akatos* is a small galley, sometimes fitted for war, but more often used as a cargo carrier and passenger ship.
 
 Many of the larger ships on the Mediterranean Sea are built in the ports of the great Italian republics on Candia and Cyprus. The smaller vessels are mainly a product of the maritime tradition of the seafaring people of Asia Minor, where every small town and village along the coast has its own shipyard. Muslim vessels, called *'ulabi* (small boat), *qit'a* (transport ship), *marqib* (ship), and *shini* (warship) also ply the seas.
 
@@ -1919,7 +1926,7 @@ Some light-shadowed ones are also sleepwalkers, known as *parmenoi*, or "taken o
 >
 > **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 >
-> **Wound Penalties**: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+)
+> **Wound Penalties:** –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+)
 >
 > **Abilities:** Awareness 4 (compliments), Folk Ken 4 (envy), Hex 10 (destroy prosperity), Penetration 5 (Hex)
 >
@@ -1929,7 +1936,7 @@ Some light-shadowed ones are also sleepwalkers, known as *parmenoi*, or "taken o
 >
 > *Obsession*, 1–3 points, Init –5, Vim: The demon can impose the Obsession Trait of Envy. See *Realms of Power: The Infernal*, pages 31–32, for more details
 >
-> **Weakness**: Abhorrent Material (amulet against the evil eye)
+> **Weakness:** Abhorrent Material (amulet against the evil eye)
 >
 > **Vis:** 1 pawn of Vim vis, in eye.
 >
@@ -1976,7 +1983,7 @@ If the invocation equals or exceeds the Ease Factor, the complaint has been hear
 > A toad appears in the mouth every time a lie is told;
 >
 > Wounds spontaneously open when the character exerts himself — when he gains a Fatigue Level, he takes a Light Wound;
-> 
+>
 > When the character uses a tool or weapon, roll a simple die; on a 1 or 2 it breaks.
 
 # Chapter Five: Greece
@@ -2203,7 +2210,7 @@ Along the road leading to Piraeus — the harbor of Athens — a single column w
 
 #### The Tumulus of Marathon
 
-A small plain in the east of Attica, within sight of the Aegean Sea, is the site of the Battle of Marathon, a decisive Greek victory against the invading Persians in the fifth century BC. Here a large conical tumulus covered with grass and with a Magic aura of 3 is the burial mound of the 192 Athenians who died in the battle. On an ancient stone before the tumulus are recorded the words of the poet Simonides: *The Athenians, as defenders*  *of the Hellenes, in Marathon destroyed the might of the golden-dressed Medes.*
+A small plain in the east of Attica, within sight of the Aegean Sea, is the site of the Battle of Marathon, a decisive Greek victory against the invading Persians in the fifth century BC. Here a large conical tumulus covered with grass and with a Magic aura of 3 is the burial mound of the 192 Athenians who died in the battle. On an ancient stone before the tumulus are recorded the words of the poet Simonides: *The Athenians, as defenders of the Hellenes, in Marathon destroyed the might of the golden-dressed Medes.*
 
 Every year, on the anniversary of the battle in September, the ghost of the herald Pheidippides appears at the tumulus and repeats his famous athletic feat, running the 26 miles to Athens. He arrives, exhausted, at the foot of the Acropolis, shading his eyes to peer up the hill. If he perceives that Athens is ruled by the Greeks, he proclaims victory with the cry, "We were victorious!", before expiring on the spot in the manner of his original death. He leaves behind only his sandals, each of which contains 3 pawns of Creo vis. If, on the other hand, Pheidippides sees that Athens is in the hands of barbarians (non-Greeks), then he turns away with a grimace, saying nothing before fading away (leaving nothing behind). In the latter case, the ghosts of the 192 Athenian soldiers awaken at the tumulus the next nightfall. With a grim determination, they proceed to battle their way across Attica, taking on any who stand in their way. Unless they are stopped, they arrive at Athens after several days, and mount a furious assault on the Acropolis in an attempt to retake the city. This presents a significant problem for the current Duke of Athens, Otto de la Roche, since the superstitious local Greeks are reluctant to help him defend his city against their own countrymen. He is instead forced to rely on an army of crusaders and mercenaries several hundred strong to repel the formidable ghostly soldiers. Divine help will not avail him either, since he is currently excommunicated. It has been discovered that the ghostly soldiers, when defeated, leave behind various weapons and outfittings that contain Perdo vis. However, the Tribunal has so far refused to gather this vis, not wanting to benefit from a Greek defeat, even a symbolic one. This vis disappears after a short while, but it is not known who — or what — is harvesting it.
 
@@ -2330,13 +2337,15 @@ Epidauros has only three or four magi, all of them experts in Corpus, longevity,
 
 #### Xenias the Leper of House Tytalus
 
-**Age:** 165 (Apparent Age: 107) **Personality Traits:** Dutiful +3, Calm +3, Driven +2
+**Age:** 165 (Apparent Age: 107)  
+**Personality Traits:** Dutiful +3, Calm +3, Driven +2
 
 Xenias, the nominal leader of the covenant by simple virtue of being the eldest, is a magus aegrotus (a leper magus; see *Houses of Hermes: Societates*, page 95). Like all the leper Tytalus magi, he has a great affinity for healing and longevity, and is probably the Tribunal's foremost expert in such matters. He appears to be a disheveled old man dressed in slightly tattered leper's robes. The linen veil drawn across his face and his elbow-length gloves disguise just how ancient and withered he really is, and a constantly clanking bell tied to his robes warns people of his status as a leper. Although Twilight-ridden, Xenias is approachable enough, not that many magi do — the prejudices against lepers are not restricted only to mundanes, especially since magic cannot cure leprosy.
 
 #### Galla of House Ex Miscellanea
 
-**Age:** 78 (Apparent Age: 52) **Personality Traits:** Careworn +3, Earthy +2, Venomous +1
+**Age:** 78 (Apparent Age: 52)  
+**Personality Traits:** Careworn +3, Earthy +2, Venomous +1
 
 Galla hails from the herbalist Pharmacopoiean tradition (see *Houses of Hermes: Societates*, page 123) — as a Root-Cutter, she is able to reduce the vis cost of healing rituals, which is of great benefit to her covenant. A lame woman with silver hair and wearing a simple gray shawl, she walks awkwardly with the aid of her talisman staff. Her snake familiar sniffs out herbs in the nearby hills for her. Galla tends to be the maga at Epidauros who deals with visitors.
 
@@ -2378,8 +2387,7 @@ Considered by number of members, Erebos is actually one of the Tribunal's larges
 
 #### Destasia of House Ex Miscellanea
 
-**Age:** 43 (Apparent Age: 37)
-
+**Age:** 43 (Apparent Age: 37)  
 **Personality Traits:** Overbearing +2, Vengeful +2, Moody +1
 
 A descendent of Cyra, Destasia has recently inherited the rulership of Erebos, despite her relatively young age. Her mater Megethia, the former leader, is still at the covenant, but is increasingly absent due to prolonged Twilight episodes. She is familiar with the magic of defixiones, capable of inflicting curses; correspondingly she specializes in Perdo and Corpus. An elegant and athletic black-haired woman, Destasia would be attractive, were it not for the ritual scars that have marred her face, believed to be due to an ordeal for a Mystery initiation.
@@ -2416,8 +2424,7 @@ Gigas does not admit members who are not followers of Tremere, and most of the T
 
 #### Boustaphan of House Tremere
 
-**Age:** 114 (Apparent Age: 64)
-
+**Age:** 114 (Apparent Age: 64)  
 **Personality Traits:** Level-Headed +2, Wolf +2, Close-Mouthed +1, Jovial –1
 
 The leader of Gigas is Boustaphan, the senior member of House Tremere and one of the few to hold his own sigil. He acts as the House's Tribune in Thebes, and uses the proxy votes granted him by the younger Tremere to attempt to reform the Theban Tribunal in the manner dictated to him by Coeris. Boustaphan has been careful to remain aloof from the arguments generated by his covenant and House against the traditions of the Tribunal, but he is almost certainly supportive of many, if not all of them.
@@ -2426,7 +2433,8 @@ Boustaphan appears to be a robust man in his sixties, and he dresses in the fash
 
 #### Monorchis of House Tremere
 
-**Age:** 58 (Apparent Age: 42) **Personality Traits:** Stubborn +3, Zealous +3, Mystical +1
+**Age:** 58 (Apparent Age: 42)  
+**Personality Traits:** Stubborn +3, Zealous +3, Mystical +1
 
 The parents of the young man who became Monorchis arranged for him to become a eunuch to increase his chances of a good career as a palace bureaucrat. The boy's rapidly emerging Gift proved to be the savior of his manhood, and he was able to interrupt the surgery before the castration was complete. He was discovered by Boustaphan, who maintained several spies in the imperial palace, and was brought to Gigas for training.
 
@@ -2434,7 +2442,8 @@ Perhaps due to his narrow escape from a life of parchment and ink, Monorchis has
 
 #### Allectores of House Tremere
 
-**Age:** 46 (Apparent Age: 33) **Personality Traits:** Reasonable +3, Silver-Tongued +3, Calm +1
+**Age:** 46 (Apparent Age: 33)  
+**Personality Traits:** Reasonable +3, Silver-Tongued +3, Calm +1
 
 Allectores is the chief negotiator and ambassador of Gigas, and the most approachable of its members. While his role might seem contrary to the martial nature of his House, the Tremere recognize the need for diplomacy as much as the need for readiness for war, and he is a valued member of the covenant. However, he tends to play up his apparent mis-fit to the military structure of the House to gain sympathy among those with whom he deals. Allectores has reportedly received a faerie blessing that causes everyone he meets to see him in a favorable light.
 
@@ -2462,7 +2471,7 @@ Several of the covenfolk have the Dowsing Virtue. Through its use the covenant h
 
 > ### The Cult of the Earth
 >
-> The Founder Guernicus was the last member of a cult dedicated to the mysteries of the earth. In the Founder's last years, he reconstituted the cult among some of his apprentices, and revealed to them some of its secrets. Over time, the cult has adopted members from other houses, although it is always headed by a member of House Guernicus. In Greece, the threskeia geine ("cult of the earth," called the cultus terrae or Terrae Cult elsewhere) has suborned the traditional functions of Hades, the principle Underworld god, without offering him any veneration. In fact, as the epicenter of Kampe's Lovers (a faction seeking to undermine the gods), it specifically seeks to weaken the power of Hades over the prison of the titans, and restore them to prominence, starting a golden age of magic. This goal is described in detail in Chapter 9, although it should be noted that these are not the goals of the Terrae Cult as a whole, just those in the Theban Tribunal.
+> The Founder Guernicus was the last member of a cult dedicated to the mysteries of the earth. In the Founder's last years, he reconstituted the cult among some of his apprentices, and revealed to them some of its secrets. Over time, the cult has adopted members from other houses, although it is always headed by a member of House Guernicus. In Greece, the threskeia geine ("cult of the earth," called the cultus terrae or Terrae Cult elsewhere) has suborned the traditional functions of Hades, the principal Underworld god, without offering him any veneration. In fact, as the epicenter of Kampe's Lovers (a faction seeking to undermine the gods), it specifically seeks to weaken the power of Hades over the prison of the titans, and restore them to prominence, starting a golden age of magic. This goal is described in detail in Chapter 9, although it should be noted that these are not the goals of the Terrae Cult as a whole, just those in the Theban Tribunal.
 >
 > The threskeia geine of Hedyosmos has Initiation Scripts for the following Virtues: Divination and Augury using the Geomancy Method (*The Mysteries Revised Edition*, Chapter 7), Summoning (see below), Dowsing, Puissant Terram, Silent Magic, and Spirit Familiar (principally earth spirits; *The Mysteries Revised Edition*, page 66).
 >
@@ -2497,7 +2506,8 @@ Hedyosmos has eight magi: four from House Guernicus; three from House Tytalus; a
 
 #### Ausculator of House Guernicus
 
-**Age:** 162 (Apparent Age: 88) **Personality Traits:** Patient +6, Discreet +3, Stubborn +2
+**Age:** 162 (Apparent Age: 88)  
+**Personality Traits:** Patient +6, Discreet +3, Stubborn +2
 
 Ausculator "The Listener" is the leader of Hedyosmos, and has held that position since his mater vacated the role five decades ago. Despite his extreme age, his body is still healthy thanks to a remarkable Longevity Ritual. Ausculator has a strong, statuesque profile, snow-white hair, and white eyes with no iris or pupil — he is completely blind, and often paints eyes on his eyelids as is commonly done to marble statues. His skin is cool to the touch, and he prefers to wear a simple tunic with an embroidered hem. Ausculator uses the minimum of bodily gestures and movements, and can freeze into total stillness; those unfamiliar with him could easily mistake him for a statue. He can remain standing in the same position for many hours, even days. The fact he has been doing this more frequently lately suggests to some that Twilight is consuming his life. His familiar is an imago, a spirit of sound (see *Realms of Power: Magic*, page 105), summoned through the Mystery of the Spirit Familiar.
 
@@ -2505,23 +2515,22 @@ Ausculator is widely recognized as the Tribunal's foremost expert in the Art of 
 
 #### Aiakia of House Guernicus
 
-**Age:** 61 (Apparent Age: 53)
-
+**Age:** 61 (Apparent Age: 53)  
 **Personality Traits:** Loyal +2, Touchy +2, Friendly –2
 
 Aiakia is the youngest filia of Ausculator, and she is being groomed to take over from her pater when he is finally claimed by Twilight. She is not the most powerful of the cult's members, but has the greatest knowledge of its rituals and therefore is best suited to the role. Aiakia's specialty is caverns and underground passages. She has extensively explored many cave complexes throughout the Tribunal and beyond, and brought back secrets from them that she only partially comprehends. Her other interest is earth elementals, over which she exerts remarkable control.
 
 #### Tisiphon of House Tytalus
 
-**Age:** 70 (Apparent Age: 51)
-
+**Age:** 70 (Apparent Age: 51)  
 **Personality Traits:** Vengeful +3, Champion of Other's Woe +2, Dependable –1
 
 A member of the Tytalan Mystery Cult of the Titanoi (see *Houses of Hermes: Societates*, page 94), Tisiphon is a Quaesitor with a misguided sense of honor. He takes special interest in Hermetic cases where a magus has appeared to escape the Order's just punishment. He attempts to put right such injustices through vehement oration at Tribunal; by obsessively reviewing the law through multiple petitions to the Legislative Board; and, if all else fails, by declaring Wizard's War on the perpetrator. Tisiphon's spirit familiar is an Aspect of the Erinyes, the tripartite Daimons of revenge. He has little time to devote to the Terrae Cult due to his membership of the Titanoi, and is a member in name only.
 
 #### Celaenea of House Bonisagus
 
-**Age:** 48 (Apparent Age: 44) **Personality Traits:** Proud +3, Idealistic +1, Calm –2
+**Age:** 48 (Apparent Age: 44)  
+**Personality Traits:** Proud +3, Idealistic +1, Calm –2
 
 Celaenea is a Seeker in the direct line of Lucian Triamonae, the magus who founded the Seeker movement, and believes that this should earn her the respect of her fellows (it doesn't). She is obsessed with the legends of Hermes, and has set up a covert laboratory on Mount Cyllene, where the god was purported to have been born. She believes that by divining the character of Hermes she can uncover the roots of magic itself (see Chapter 10: Faerie Landscape, The Problem of Hermes insert for discussion of this).
 
@@ -2573,22 +2582,21 @@ Oikos tou Eleous has four magae, and as a result is often referred to in the Tri
 
 #### Anna Psellus of House Jerbiton
 
-**Age:** 112 (Apparent Age: 62)
-
+**Age:** 112 (Apparent Age: 62)  
 **Personality Traits:** Pious +6, Devoted to Thessaloniki +3, Brash +1
 
 Mother Anna is the spiritual leader of the convent of Koukoubiou — a tiny religious retreat of the type sometimes created by Byzantine ladies who choose not to join a large convent. Along with her sister Theocharista, she founded this convent in the immediate aftermath of the sack of 1185. She labored hard to rebuild the city and heal the wounds, especially the spiritual injuries, inflicted in that atrocity. She is very much a strong-willed woman with a clear agenda, and she rules her nuns with a rod of iron, having seen first hand the consequences of sin and the influence of the Infernal. Regarding herself as a spiritual warrior, she has no time for stupidity, cowardice, or compromise, and suffers fools badly. Anna can, however, be civil when the occasion calls for it, pretending to be weak and servile, yet mercilessly satirizing her betters all the time with her dry wit, which she inherited from her grandfather, a famous scholar and courtier. She serves only the city, and God, and some say in that order.
 
 #### Theocharista Psellus of House Jerbiton
 
-**Age:** 109 (Apparent Age: 63) **Personality Traits:** Peacemaker +3, Humble +2, Scholarly +2.
+**Age:** 109 (Apparent Age: 63)  
+**Personality Traits:** Peacemaker +3, Humble +2, Scholarly +2.
 
 Theocharista is the younger sister of Anna, and has always lived in her sister's shadow. Where Anna is brash and bold, Theocharista is kind and self-effacing, but she is not without considerable personal strength. She is a brilliant scholar of Neo-Platonic philosophy, with a great understanding of theology — in particular the writings of the Cappadocian Fathers on the Holy Trinity. Her patience and calm, loving strength hold the covenant together.
 
 #### Nereida Ex Miscellanea
 
-**Age:** 31 (Apparent Age: 22)
-
+**Age:** 31 (Apparent Age: 22)  
 **Personality Traits:** Fearless +6, Romantic +3, Vain +2
 
 Nereida is the twin sister of Nonna, and like her is a member of the Seirene tradition. Her music deals with the emotion of courage, and she suffers from a Restriction that prevents her from ever employing it on men to whom she is personally attracted. This is a major problem considering her romantic nature. She currently is a lady in waiting at the royal court.
@@ -2597,7 +2605,8 @@ She has used a Longevity Ritual since just after her Gauntlet to preserve her lo
 
 #### Nonna Ex Miscellanea
 
-**Age:** 31 (Apparent Age: 31) **Personality Traits:** Courageous +3, Nurturing +2, Assertive +1
+**Age:** 31 (Apparent Age: 31)  
+**Personality Traits:** Courageous +3, Nurturing +2, Assertive +1
 
 Nonna is as different from her twin sister as chalk from cheese, though physically they are almost indistinguishable except for their apparent ages, leading to many confusions at court. She has no romantic interest in men at all. A true and close friend of Queen Margaret of Hungary, who is now living in Athens, she is genuinely fond of King Demetrios but still would have preferred to see Queen Margaret rule Thessaloniki.
 
@@ -2689,7 +2698,7 @@ As noted, Marco is nephew of the former Doge Dandolo. His brother, Pietro, was t
 >
 > The island of **Ikaria** is named after the legendary Icarus, who fell to his death after his wings fashioned of wax melted when he flew too close to the sun. It has famed healing springs known to cure infertility, where Creo vis may be harvested.
 >
->#### Samothraki
+> #### Samothraki
 >
 > **Samothraki** (Samothrace) is a mountainous granite isle lacking natural harbors. It is home to the partially ruined Sanctuary of the Great Gods. In antiquity this was the center of the Cult of the Great Gods, a mystery cult that rivaled the more secretive Cult of Eleusis (see Chapter 5: Greece, Attica and Boeotia) in popularity. Off the east coast is a sunken city. It is well known to the local sponge-divers, who used to harvest here until one of their number strayed too close to the city and was eaten by the monster who guards it. The locals are aware of occasional visitors to the island who are always dripping wet, and suspect them of being inhabitants of the city.
 
@@ -2723,7 +2732,7 @@ The three Hyperborean nymphs still guard the shrines on Delos. Their appearance 
 >
 > **Virtues and Flaws:** Daimon, Magic Spirit; Great Dexterity x 2, Improved Characteristics x 2, Puissant Bows, Self-Confident; Driven, Fury, Magical Air (free)
 >
-> **Magical Qualities and Inferiorities**: Greater Power (*Donning the Corporeal Veil*), Greater Power (*Strike of the Cornered Game*), Greater Power (varies\*), Improved Dexterity, Major Virtue (Essential Virtue); Improved Attack, Improved Confidence, Improved Damage x2, Improved Defense, Improved Initiative, Mentem Resistance, Minor Virtue (Keen Vision), Minor Virtue (Improved Characteristics) x4, Minor Virtue (Inoffensive to Animals), Minor Virtue (Tethered Magic\*\*), Minor Virtue (Voice of the Island)
+> **Magical Qualities and Inferiorities:** Greater Power (*Donning the Corporeal Veil*), Greater Power (*Strike of the Cornered Game*), Greater Power (varies\*), Improved Dexterity, Major Virtue (Essential Virtue); Improved Attack, Improved Confidence, Improved Damage x2, Improved Defense, Improved Initiative, Mentem Resistance, Minor Virtue (Keen Vision), Minor Virtue (Improved Characteristics) x4, Minor Virtue (Inoffensive to Animals), Minor Virtue (Tethered Magic\*\*), Minor Virtue (Voice of the Island)
 >
 > \* Arge knows *Outstanding Distance*, Opis knows *Unequaled Aim*, Loxo knows *Peerless Trajectory*.
 >
@@ -2733,19 +2742,19 @@ The three Hyperborean nymphs still guard the shrines on Delos. Their appearance 
 >
 > **Reputations:** Guardian of the Shrines 3 (Local)
 >
-> #### Combat:
+> **Combat:**
 >
 > *Short Bow:* Init +5, Attack +25, Defense n/a, Damage +14
 >
 > *Dodge:* Init +3, Attack n/a, Defense +11, Damage n/a
-> 
+>
 > **Soak:** +5
 >
-> **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+> **Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 >
 > **Abilities:** Classical Greek 4 (sacred hymns), Athletics 5 (running), Awareness 5 (vandals), Bows 12+2 (short bow), Brawl 4 (dodge), Delos Lore 5 (birds), Hunt 6 (quail spirits), Hyperborean 5 (warriors), Hyperborean Lore 3 (archers), Leadership 4 (intimidation), Magic Lore 4 (wizards), Mentem Resistance 5 (deception), Penetration 4 (*Strike of the Cornered Game* power), Swim 4 (coastal waters)
 >
-> #### Powers:
+> **Powers:**
 >
 > *Donning the Corporeal Veil,* 0 points, Init +2, Corpus: The nymphs can form a body with the statistics presented here. They can dissolve this body at will, but if it is slain, it contains the vis listed below. This does not slay the spirit itself, merely its current Aspect.
 >
@@ -2831,11 +2840,11 @@ As with all the sacred sites on Delos, the treasury benefits from the protection
 >
 > #### Thermia
 >
->Named after its thermal springs, the barren island of **Thermia** is home to a ruined town named Vryokastro, which is made of massive stones and was originally built by the drakoi (see Chapter 10: Faerie Landscape, Faeries of Greece). Now it is the haunt of many vrykolakes (see Chapter 12: Infernal Landscape, The Vrykolakes); they are more numerous here than anywhere else in Greece. They used to dwell on the island of Hydra, in the Saronic Gulf to the west, but were banished here by a local bishop. These vampires wear human forms and dwell unseen among the local inhabitants. But on one night each year, they travel from nearby islands and gather on Thermia, revealing their true forms to each other, to the horror of the hapless innocents they have tricked into accompanying them. Although most of their victims are devoured, some are driven mad and allowed to escape, in order to ensure that the people of Thermia are kept in constant fear of their demonic neighbors. Given that these predators blight the whole island, interest might potentially be attracted from magi of the Donatores Requietis Aeternae (see *Houses of Hermes: Societates*, page 115).
+> Named after its thermal springs, the barren island of **Thermia** is home to a ruined town named Vryokastro, which is made of massive stones and was originally built by the drakoi (see Chapter 10: Faerie Landscape, Faeries of Greece). Now it is the haunt of many vrykolakes (see Chapter 12: Infernal Landscape, The Vrykolakes); they are more numerous here than anywhere else in Greece. They used to dwell on the island of Hydra, in the Saronic Gulf to the west, but were banished here by a local bishop. These vampires wear human forms and dwell unseen among the local inhabitants. But on one night each year, they travel from nearby islands and gather on Thermia, revealing their true forms to each other, to the horror of the hapless innocents they have tricked into accompanying them. Although most of their victims are devoured, some are driven mad and allowed to escape, in order to ensure that the people of Thermia are kept in constant fear of their demonic neighbors. Given that these predators blight the whole island, interest might potentially be attracted from magi of the Donatores Requietis Aeternae (see *Houses of Hermes: Societates*, page 115).
 >
 > #### Mykonos
 >
->The island of **Mykonos** is littered with large boulders, the petrified remains of giants slain by Herakles. It is infested with several covens of stringles witches (see Chapter 12: Infernal Landscape) and is suspected of being the capitol of their "kingdom." Witches in other parts of Greece are said to be able to summon a Mykonon stringles demon to assist in their evil deeds; in return, the witch must tithe one infant to the witches of Mykonos each year.
+> The island of **Mykonos** is littered with large boulders, the petrified remains of giants slain by Herakles. It is infested with several covens of stringles witches (see Chapter 12: Infernal Landscape) and is suspected of being the capital of their "kingdom." Witches in other parts of Greece are said to be able to summon a Mykonon stringles demon to assist in their evil deeds; in return, the witch must tithe one infant to the witches of Mykonos each year.
 
 ### Thera
 
@@ -2875,7 +2884,7 @@ Rodos was ruled by the Saracens for centuries, who fortified the city with sturd
 
 > ## Story Seed: The Despot's Advisor
 >
->The closest confidante and advisor of the Despot of Rodos is a hedge wizard of highly dubious moral character, likely corrupted by the Infernal, who bends the ear of his master to suit his own selfish ends. He has written the only books to be found on the island, which are corrupt and tainted works including a perverted copy of the Bible. And he is greedily gathering all the island's vis, while his demonic patron secretly looks on with satisfaction. After hearing rumors of depravities and wizardry on Rodos, the Theban Tribunal asks for volunteers to investigate.
+> The closest confidante and advisor of the Despot of Rodos is a hedge wizard of highly dubious moral character, likely corrupted by the Infernal, who bends the ear of his master to suit his own selfish ends. He has written the only books to be found on the island, which are corrupt and tainted works including a perverted copy of the Bible. And he is greedily gathering all the island's vis, while his demonic patron secretly looks on with satisfaction. After hearing rumors of depravities and wizardry on Rodos, the Theban Tribunal asks for volunteers to investigate.
 
 ## Candia
 
@@ -2917,7 +2926,7 @@ The ruins of Knossos have a Magic aura of 3, which supersedes a weaker Faerie au
 >
 > #### Daidalos and Icarus
 >
->The labyrinth's creator, Daidalos, gave the ball of thread to Ariadne that let her and Theseus escape. Minos punished him for this treason by imprisoning him, along with his son Icarus, in the labyrinth. Daidalos crafted two pairs of wings so that they could escape by flight. Icarus flew too close to the sun, however, so that his waxen wings melted and he fell to his death in the Aegean Sea near the island of Ikaria.
+> The labyrinth's creator, Daidalos, gave the ball of thread to Ariadne that let her and Theseus escape. Minos punished him for this treason by imprisoning him, along with his son Icarus, in the labyrinth. Daidalos crafted two pairs of wings so that they could escape by flight. Icarus flew too close to the sun, however, so that his waxen wings melted and he fell to his death in the Aegean Sea near the island of Ikaria.
 
 ### The Gorge of Apollon
 
@@ -3023,7 +3032,7 @@ The four main ships are:
 
 *The Tereus*: The second of Favonius' magical ships, and at 18 feet longer than *The Philomela*, big enough for three laboratories. Its captain is Aeliophanes of Flambeau.
 
-*The Procne*: The principle trading vessel of Favonius, *The Procne* is a typical example of the round ships that ply the Aegean Sea. It is 60 feet long with one deck devoted nearly entirely to hold space. Its captain is Basil of Andros.
+*The Procne*: The principal trading vessel of Favonius, *The Procne* is a typical example of the round ships that ply the Aegean Sea. It is 60 feet long with one deck devoted nearly entirely to hold space. Its captain is Basil of Andros.
 
 *The Halcyon*: This ship is little more than a barge; at 115 feet long and 40 feet wide, it is the largest and least maneuverable of the covenant's vessels, and serves as the common space for the magi to hold meetings. When the magi are not using it, the hold of *The Halcyon* is used to store the most expensive and delicate supplies of the covenant. Kept at the center of the fleet, *The Halcyon* is enchanted with spells that quell violent waves in its immediate vicinity, and thus is important to the safety of the covenant.
 
@@ -3054,7 +3063,7 @@ The founder of Favonius is Memnos, who remains on land at his shipyard. Memnos' 
 **Age:** 92 (Apparent Age: 58)  
 **Personality Traits:** Hubris +4, Fearful of Open Water +3, Diligent +2, Talkative –2
 
-Memnos is the founder of the covenant and architect of its marvelous vessels. He is a member of the Mystic Fraternity of Samos (*The Mysteries Revised Edition* pages 126 –129); or, if your saga does not include this Mystery Cult, a suitable alternative that teaches Hermetic Architecture. He has always been fascinated with ships and boats, and is specialized in their enchantment. However, an unfortunate incident during a Mystery Initiation left him with a Death Prophecy that he would die "with the sky above him and the sea beneath him". He has never actually sailed on any of his ships for fear of the prophecy's completion. He has become famed as a builder of sea-going vessels and is nearly always busy working on one commission or another.
+Memnos is the founder of the covenant and architect of its marvelous vessels. He is a member of the Mystic Fraternity of Samos (*The Mysteries Revised Edition* pages 126–129); or, if your saga does not include this Mystery Cult, a suitable alternative that teaches Hermetic Architecture. He has always been fascinated with ships and boats, and is specialized in their enchantment. However, an unfortunate incident during a Mystery Initiation left him with a Death Prophecy that he would die "with the sky above him and the sea beneath him". He has never actually sailed on any of his ships for fear of the prophecy's completion. He has become famed as a builder of sea-going vessels and is nearly always busy working on one commission or another.
 
 Memnos is a healthy man apparently in his fifties, with curly black hair and a full beard. His skin has turned nut-brown from his outdoors life on the seashore. His work with hefty beams of wood has left him massively muscled, and he is an expert climber with a good sense of balance. He is best skilled in the Art of Rego, and is particularly accomplished in craft magic, which he uses to lighten his work. He has a team of 4 forge-companions (see *Houses of Hermes: Mystery Cults*, page 113), and his laboratory on Andros contains many specializations and enhancements.
 
@@ -3229,7 +3238,7 @@ Polyaigos has a large number of covenfolk, and a formidable turb that is excepti
 
 # Chapter Seven: Constantinople
 
-Forever Roman at heart, Constantinople is a city of forums and colonnades, public baths, palaces, churches, and monasteries. She has a hippodrome, an aqueduct, a senate house, and a slave-market. Like Rome, the city is built around seven hills, occupying a triangular piece of land bordered by the Golden Horn, an inlet of the Bosporus Strait and the Sea of Marmara. Originally called Byzantium, the city was rebuilt in 330, and Constantine the Great christened it Nova Roma Constantinopolitana, "New Rome, the City of Constantine," the capitol of his renovated Roman Empire. Constantine extended the city's walls and commissioned many of the buildings and monuments that still stand as important features in daily Constantinople life. Successive emperors added to the urban landscape, often building monasteries and churches, but none matched the building programs of Justinian (527-65), who refurbished the major churches, palaces, government buildings, and public works. In her heyday, Constantinople shone like a jewel, with clean streets, orderly forums, running water, and gleaming defensive walls.
+Forever Roman at heart, Constantinople is a city of forums and colonnades, public baths, palaces, churches, and monasteries. She has a hippodrome, an aqueduct, a senate house, and a slave-market. Like Rome, the city is built around seven hills, occupying a triangular piece of land bordered by the Golden Horn, an inlet of the Bosporus Strait and the Sea of Marmara. Originally called Byzantium, the city was rebuilt in 330, and Constantine the Great christened it Nova Roma Constantinopolitana, "New Rome, the City of Constantine," the capital of his renovated Roman Empire. Constantine extended the city's walls and commissioned many of the buildings and monuments that still stand as important features in daily Constantinople life. Successive emperors added to the urban landscape, often building monasteries and churches, but none matched the building programs of Justinian (527-65), who refurbished the major churches, palaces, government buildings, and public works. In her heyday, Constantinople shone like a jewel, with clean streets, orderly forums, running water, and gleaming defensive walls.
 
 While once the brightest metropolis of Mythic Europe, in the 13th century Constantinople, the Queen of Cities, is a dark and dangerous place — a fetid, squalid shadow of her former glory. Nearly a third of city still lies in ruins, scarred from the Latin siege and the subsequent fires that gutted her interior. Pockets of wealth remain, abutted against abject poverty. Affluent nobles and bureaucratic clerks walk the same streets as the homeless and destitute, but the tally of thieves, drunks, and whores outnumber the priests, princes, and merchants. Generations of foreigners have produced a mishmash of tongues, creating a modern Tower of Babel, with each racial group distrusting the others. Urban tension has been exacerbated by the Latin occupation, which put its own desires before the needs of the populace. Civil law has evaporated, and each racial group protects itself with ad hoc gangs or bought mercenaries.
 
@@ -3436,7 +3445,7 @@ An imperial palace of remarkable size, whose name means "fresh breeze" in Greek,
 >
 #### The Palace of Blachernae
 
-Built in the fifth and sixth centuries and originally laying outside the city walls, the Palace of Blachernae was enclosed within the walls in 627. Overlooking the Golden Horn on the slopes of the Sixth Hill, the Palace of Blachernae became the principle residence of later emperors before the coming of the Latins. It also served as their prison; Isaac II Angelus was imprisoned in a tower in the Blachernae when his brother, Alexius III, overthrew him.
+Built in the fifth and sixth centuries and originally laying outside the city walls, the Palace of Blachernae was enclosed within the walls in 627. Overlooking the Golden Horn on the slopes of the Sixth Hill, the Palace of Blachernae became the principal residence of later emperors before the coming of the Latins. It also served as their prison; Isaac II Angelus was imprisoned in a tower in the Blachernae when his brother, Alexius III, overthrew him.
 
 Several of the imperial crowns of past emperors were stored here, but were stolen during the three days of looting that followed the city's fall. Because of this plundering, and due to the notorious practices of the last imperial residents — the Angeluses — the entire palace complex has an Infernal aura of 2.
 
@@ -3487,6 +3496,7 @@ The magi have so far managed to discover a few sources of vis in the catacombs a
 There are about a half dozen magi, mostly from House Jerbiton, many of whom have lived in Constantinople since before the Fourth Crusade. They are all devout Christians.
 
 #### Petros of House Jerbiton
+
 **Age:** 36 (Apparent Age: 11)  
 **Personality Traits:** Depressed +2, Meditative +2, Immature +1
 
@@ -3556,7 +3566,7 @@ Xylinites currently has three magi of House Criamon on the Path of the Body, for
 #### Artoud of House Criamon
 
 **Age:** 175 (Apparent **Age:** 71)  
-**Personality Traits:** Graceful +5, Pious +3, Devoted to House Criamon +3  
+**Personality Traits:** Graceful +5, Pious +3, Devoted to House Criamon +3
 
 Brother Artoud is the current leader of Xylinites. Much of his life was spent in the Levantine Tribunal, in the hills of Central Anatolia. There he was a member of a Criamon Clutch destroyed in the fighting between the Sultanate of Rum and the empire. His loyalty to House Criamon is fanatical, and he is largely uninterested in the wider Order of Hermes, seeing it as dominated by ignorant uncouth Frankish barbarians.
 
@@ -3605,7 +3615,7 @@ In 1220, the latest alliance with the Latins of Constantinople has broken and ho
 
 ### Nicaea
 
-Always an important city in the Byzantine Empire. The summer home to emperors and the meeting place for several important religious councils, Nicaea is now the capitol of the new Empire of Nicaea. Organized like a grid, Nicaea's straight streets emanate from the city's cathedral, the Church of the Haghia Sophia, in the center of town. The imperial place is to the south, as is the Church of the Koimesis, the personal chapel of the emperor and his family. Massive, thirty-foot-high walls surround the city, studded with over one hundred towers, and three main gates lie in the center of the north, east, and south walls. The west wall abuts the Ascanian Lake, and smaller gates give access to the city's docks.
+Always an important city in the Byzantine Empire. The summer home to emperors and the meeting place for several important religious councils, Nicaea is now the capital of the new Empire of Nicaea. Organized like a grid, Nicaea's straight streets emanate from the city's cathedral, the Church of the Haghia Sophia, in the center of town. The imperial place is to the south, as is the Church of the Koimesis, the personal chapel of the emperor and his family. Massive, thirty-foot-high walls surround the city, studded with over one hundred towers, and three main gates lie in the center of the north, east, and south walls. The west wall abuts the Ascanian Lake, and smaller gates give access to the city's docks.
 
 As darkness falls on Constantinople, and Infernal auras overpower Divine ones, Nicaea shines like a new dawn. The cumbersome bureaucratic administration that plagued Constantinople has been replaced with a more efficient system of imperial cabinet rule in Nicaea, with few administrators and more direct lines of responsibility. The rise of the Empire of Nicaea has caused a renaissance in art, literature, and learning. Imperial revenues pour through the city's gates, as taxes that once went to Constantinople now come here. The army is happy, bolstered by several years of successful campaigns, and merchants and craftsmen work hard to line their pockets with byzants. Outside the walls, cypress trees and peach orchards flourish, and the war seems very far away.
 
@@ -3645,7 +3655,7 @@ The seven demons still prowl the highways around the city, although they are for
 >
 > Unconscious
 >
-> **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead
+> **Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead
 >
 > (21+)
 >
@@ -3951,7 +3961,7 @@ The glass submarine is chained to a ship owned by Alexandria and docked at Smyrn
 >
 > **Soak:** +8
 >
-> **Wound Penalties**: None, see below.
+> **Wound Penalties:** None, see below.
 >
 > **Abilities:** Awareness 2 (food), Brawl 2 (dodging), Survival 3 (Aegean Sea), Swim 5 (Bay of Smyrna)
 >
@@ -4054,7 +4064,7 @@ The Theban Tribunal has a rich history of magic. This section discusses the magi
 
 In pagan mythology, the universe was created by primal beings beyond mortal understanding such as Khaos (Chaos), Ouranos (Heaven), Ge (Earth), Pontus (Sea), Erebos (Abyss), Nyx (Night), and Hemera (Day). Christian theologians who have studied the classics count these beings (the protogonoi) and their children (the titans) among the allegorical or actual Intelligences whom God set to rule over natural processes.
 
-The six male Titans are all responsible for governing time in the Magic Realm. Hyperion establishes day and night, Krios orders the heavenly constellations, Koios rules the axis of the heavens, Iapetos is the titan of mortality, Kronos rules all-devouring time, and Okeanos regulates the motion of the tides. Their wives control natural forces of the Magic Realm: Theia is the brilliant sky, Mnemosyne (or Eurybia) is the mistress of the weather, Phoibe is the prophetic earth, Themis (or Klymene) is the Underworld's cavern, Rhea is the fecundity of nature, and Tethys is the power of the waters under the earth. As described in *Realms*  *of Power: Magic*, page 109, these primal beings are members of the Magic Realm, unlike the gods who succeeded them, who are faeries.
+The six male Titans are all responsible for governing time in the Magic Realm. Hyperion establishes day and night, Krios orders the heavenly constellations, Koios rules the axis of the heavens, Iapetos is the titan of mortality, Kronos rules all-devouring time, and Okeanos regulates the motion of the tides. Their wives control natural forces of the Magic Realm: Theia is the brilliant sky, Mnemosyne (or Eurybia) is the mistress of the weather, Phoibe is the prophetic earth, Themis (or Klymene) is the Underworld's cavern, Rhea is the fecundity of nature, and Tethys is the power of the waters under the earth. As described in *Realms of Power: Magic*, page 109, these primal beings are members of the Magic Realm, unlike the gods who succeeded them, who are faeries.
 
 It is not difficult to understand the fascination that many magi of the Theban Tribunal have for these cosmic figures. Those individuals who pursue study of the titans are divided broadly into three factions, detailed below. These factions are not (yet) formal political leagues, but simply like-minded individuals who often collaborate due to similar goals. The names of the factions — Seekers of the Fallen, Legion of Atlas, and Kampe's Lovers — were coined four Tribunals ago by Lucian (see Chapter 4, Hermetic Leagues) in a cynical speech mocking their efforts. The labels have stuck, and younger members of the factions have begun to refer to themselves in these terms.
 
@@ -4164,7 +4174,7 @@ While the sibyls themselves are incapable of leaving their shrines, they occasio
 >
 > **Virtues and Flaws:** Magic Human, Magical Master; Famous, Self Confident; Meddler; Ability Block (Martial Abilities), Visions
 >
-> **Magical Qualities and Inferiorities**: Divination & Augury (see *The Mysteries Revised Edition*, Chapter 7), Improved Perception, Natural Appearance; Improved Abilities x 3, Mentem Resistance, Minor Virtue (additional Divination methods) x5, Minor Virtue (Great Intelligence) x2, Minor Virtue (Great Perception) x2, Minor Virtue (Improved Characteristics), Minor Virtue (Premonitions), Minor Virtue (Puissant Divination)
+> **Magical Qualities and Inferiorities:** Divination & Augury (see *The Mysteries Revised Edition*, Chapter 7), Improved Perception, Natural Appearance; Improved Abilities x 3, Mentem Resistance, Minor Virtue (additional Divination methods) x5, Minor Virtue (Great Intelligence) x2, Minor Virtue (Great Perception) x2, Minor Virtue (Improved Characteristics), Minor Virtue (Premonitions), Minor Virtue (Puissant Divination)
 >
 > **Personality Traits:** Enigmatic\* +6, Meddlesome +3, Brave +1
 >
@@ -4178,7 +4188,7 @@ While the sibyls themselves are incapable of leaving their shrines, they occasio
 >
 > **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 >
-> **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+> **Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 >
 > **Abilities:** Classical Greek 5 (prophetic pronouncement), [Area A] Lore 5 (varies), [Area B] Lore 5 (varies), [Area C] Lore 5 (varies), Artes Liberales 4 (scribing riddles), Divination 10+2 (varies), Faerie Lore 4 (prophecy), Guile 1 (under duress), Intrigue 3 (local politics), Latin 5 (declamations), Living Language 4 (local dialect), Magic Lore 5 (prophecy), Mentem Resistance 5 (mind-reading), [Organization A] Lore 5 (varies), [Organization B] Lore 5 (varies), Penetration 5 (Divination), Philosophiae 4 (natural philosophy), Premonitions 5 (nations), Teaching 3 (Area Lore)
 >
@@ -4300,7 +4310,7 @@ Called *exotika* or *xotika* in Greek (singular *exotiko*), faeries abound on th
 
 ## The Greek Gods
 
-The ancient Greeks worshiped a race of powerful faeries as gods. In their mythology, the gods overthrew the primal race of titans to claim the position at the head of the pantheon; theurgists see this myth of the titanomachy as a fundamental shift in the sublunar powers and perhaps the origin of the Faerie realm. The six principle gods of the Pantheon are named as the children of the elder titans Kronos and Rhea: Zeus, Hades, Poseidon, Demeter, Hera, Hestia. Furthermore, several were said to be born from a union between Zeus and younger titans (Artemis, Apollon, Athene, Aphrodite, and Hermes), or between Zeus and his sisters (Ares, Hephaistos, and Dionysos). The myths of the Greek Gods portray them with human flaws and foibles: Zeus is lecherous, Hera is vengeful and proud, Ares is argumentative and a coward, and so forth. This makes them very different from the depictions of the titans, who were seen as distant and uncaring.
+The ancient Greeks worshiped a race of powerful faeries as gods. In their mythology, the gods overthrew the primal race of titans to claim the position at the head of the pantheon; theurgists see this myth of the titanomachy as a fundamental shift in the sublunar powers and perhaps the origin of the Faerie realm. The six principal gods of the Pantheon are named as the children of the elder titans Kronos and Rhea: Zeus, Hades, Poseidon, Demeter, Hera, Hestia. Furthermore, several were said to be born from a union between Zeus and younger titans (Artemis, Apollon, Athene, Aphrodite, and Hermes), or between Zeus and his sisters (Ares, Hephaistos, and Dionysos). The myths of the Greek Gods portray them with human flaws and foibles: Zeus is lecherous, Hera is vengeful and proud, Ares is argumentative and a coward, and so forth. This makes them very different from the depictions of the titans, who were seen as distant and uncaring.
 
 ### The Twelve Olympians
 
@@ -4320,21 +4330,21 @@ Not all of the beings worshiped as gods were necessarily faeries; only those tha
 
 Stories are still told in the 13th century about the deeds of the great heroes of mythic times: Herakles, Perseus, Bellerophon, Jason, Theseus, Daidalos, Kastor and Polydeukes, Odysseus, and so forth. Many of these heroes were demigods, having one of the Olympians or a nymph as a divine parent. Given the nature of faeries, it is a certainty that many if not all of these heroes can still be found in Greece, and some of them may even be the real thing. House Mercere has a particular interest in these stories, as they preserve a Cult of Heroes that contains many who claim descent from one of these champions among men. Some example heroes, and the Virtues and Flaws they may pass on to their descendants, are:
 
-**Akhilles**: The champion of the Greeks in the Trojan war, he was granted invulnerability by his mother Thetis. His descendants are highly likely to have a Greater Immunity to Metal and the Fury Flaw.
+**Akhilles:** The champion of the Greeks in the Trojan war, he was granted invulnerability by his mother Thetis. His descendants are highly likely to have a Greater Immunity to Metal and the Fury Flaw.
 
-**Bellerophon**: Tamer of Pegasus and slayer of the chimera, he believed he could fly to Olympos and become a god. Those who bear his blood are likely to be possessed of remarkable power over wild animals, but suffer from the Proud Flaw.
+**Bellerophon:** Tamer of Pegasus and slayer of the chimera, he believed he could fly to Olympos and become a god. Those who bear his blood are likely to be possessed of remarkable power over wild animals, but suffer from the Proud Flaw.
 
-**Kastor** or **Polydeukes**: Twin brothers and great athletes, particularly in boxing, wrestling, discus-throwing, and horse-riding. Likely to have the Mistaken Identity Flaw as they are haunted by their twin.
+**Kastor** or **Polydeukes:** Twin brothers and great athletes, particularly in boxing, wrestling, discus-throwing, and horse-riding. Likely to have the Mistaken Identity Flaw as they are haunted by their twin.
 
-**Daidalos**: A cunning inventor and student of Athene, who became the prisoner of King Minos in an attempt to keep the hero's genius all for himself. His descendants are likely to have the Touched by Faerie Virtue (*City & Guild*, page 71), along with Great Intelligence and Inventive Genius.
+**Daidalos:** A cunning inventor and student of Athene, who became the prisoner of King Minos in an attempt to keep the hero's genius all for himself. His descendants are likely to have the Touched by Faerie Virtue (*City & Guild*, page 71), along with Great Intelligence and Inventive Genius.
 
-**Helen**: Sister to the twins Kastor and Polydeuces, and herself a twin to Clytemnestra, Helen was believed to be the most beautiful woman in all existence. Her descendants should have an unearthly beauty; they bear the Curse of Venus that was first applied to Helen, and was the cause of the Trojan War.
+**Helen:** Sister to the twins Kastor and Polydeuces, and herself a twin to Clytemnestra, Helen was believed to be the most beautiful woman in all existence. Her descendants should have an unearthly beauty; they bear the Curse of Venus that was first applied to Helen, and was the cause of the Trojan War.
 
-**Odysseus**: Hero of the Trojan War and famed for his inability to get home due to the machinations of the gods who led him into many fabulous adventures. His descendants may be Plagued by Supernatural Entity, but are probably superlative sailors.
+**Odysseus:** Hero of the Trojan War and famed for his inability to get home due to the machinations of the gods who led him into many fabulous adventures. His descendants may be Plagued by Supernatural Entity, but are probably superlative sailors.
 
-**Perseus**: Slayer of Medusa with the help of the gods; a descendant of this hero might possess one or more of the powers of the magic items he was given to assist in his task: an adamantine falx (sickle) that can slice any material, winged sandals that permit flight, a helmet of invisibility, and a shield bearing medusa's head. The character himself possesses the power (for example, through the Hero's Birthright Power, *Houses of Hermes: True Lineages*, page 105), but requires an appropriate tool to get it to work.
+**Perseus:** Slayer of Medusa with the help of the gods; a descendant of this hero might possess one or more of the powers of the magic items he was given to assist in his task: an adamantine falx (sickle) that can slice any material, winged sandals that permit flight, a helmet of invisibility, and a shield bearing medusa's head. The character himself possesses the power (for example, through the Hero's Birthright Power, *Houses of Hermes: True Lineages*, page 105), but requires an appropriate tool to get it to work.
 
-**Theseus**: Famous as a slayer of bandits, giants and, monsters (most famously the minotaur), this king of Athens successfully waged war against the Amazons and even visited the Underworld in fulfillment of an oath and was trapped there for four years. His descendants would be superb warriors who live by a Code of Honor.
+**Theseus:** Famous as a slayer of bandits, giants and, monsters (most famously the minotaur), this king of Athens successfully waged war against the Amazons and even visited the Underworld in fulfillment of an oath and was trapped there for four years. His descendants would be superb warriors who live by a Code of Honor.
 
 > ### The Olympian Houses of Hermes
 >
@@ -4387,11 +4397,11 @@ The league has several sympathizers but few actual members, most of whom are fro
 >
 > #### Initiation of Elysian Ecstasy
 >
-> **Ease Factor**: 18
+> **Ease Factor:** 18
 >
-> **Script Bonus**: +12
+> **Script Bonus:** +12
 >
-> **Script Details**: The initiate must visit 12 powerful beings, each one chosen to represent one of the 12 Olympians, and receive a boon from each. These beings can be magical, faerie, or even magi or kings. They need not know why they are granting the boon, but each must possess strong resonances for the Olympian they represent (+6). In a shrine dedicated to one of the Olympians, the initiate must then perform a rite as Sirius rises (+3) that confers to him the power of the gods, but also inflicts the Susceptibility to Faerie Power Flaw (+3).
+> **Script Details:** The initiate must visit 12 powerful beings, each one chosen to represent one of the 12 Olympians, and receive a boon from each. These beings can be magical, faerie, or even magi or kings. They need not know why they are granting the boon, but each must possess strong resonances for the Olympian they represent (+6). In a shrine dedicated to one of the Olympians, the initiate must then perform a rite as Sirius rises (+3) that confers to him the power of the gods, but also inflicts the Susceptibility to Faerie Power Flaw (+3).
 >
 > Thus far, Lucian has acted as mystagogue for each member of the league who knows Elysian Ecstasy (see insert), although only Lucian currently possesses an Olympian Pact. This latter Mystery allows the character to acquire a god's Powers, and is similar to the Spiritual Pact Virtue (*Realms of Power: Magic*, page 88), although aligned to Faerie (see the nearby insert for details).
 >
@@ -4441,7 +4451,7 @@ Sea nymphs are usually mute. They dance in the surf and on the beaches on nights
 >
 > Positive Sympathy Traits  
 > Negative Sympathy Traits
-> 
+>
 > #### Zeus
 >
 > Thunder & Lightning, Kings, Sky  
@@ -4543,14 +4553,14 @@ The *kalotyches* are the stoicheia of trees that, when their tree is felled, bec
 > **Size:** +2  
 > **Virtues and Flaws:** Faerie Beast; Focus Power (Guardian of the Bounds), Ritual Power (Strike Dumb); Faerie Sight, Feast of the Fae, Improved Powers, Increased Faerie Might, Lesser Power (Loosely Material), Personal Power (Extended Glamour), Reputation as Confidence, Time or Place of Power; Narrowly Cognizant; Overconfident, Intangible Flesh; Traditional Ward (varies)  
 > **Personality Traits:** Fiercely Protective +6, Brave +3, Loyal +3.  
-> **Reputation**: Defender 4 (Local)  
+> **Reputation:** Defender 4 (Local)  
 > **Combat:** (pick one weapon appropriate to animal shape)  
 > *Teeth:* Init +2, Attack +14, Defense +10, Damage +5  
 > *Claws:* Init +2, Attack +15, Defense +12, Damage +6  
 > *Horns:* Init +4, Attack +13, Defense +11, Damage +5  
 > **Soak:** +8  
 > **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious  
-> **Wound Penalties**: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+)  
+> **Wound Penalties:** –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+)  
 > **Abilities:** Area Lore 4 (local spirits), Awareness 3 (faeries), Brawl 6 (varies by animal), Romaic Greek 4 (those whom it protects), Faerie Lore 2 (weaknesses of enemies), Hunt 3 (enemies), Penetration 4 (*Guardian of the Bounds* power)  
 > **Powers:**  
 > *Extended Glamour*, 0 points, constant, Mentem: Grants awareness of everything that happens within the bounds of a specific domain chosen by the faerie. In essence, the faerie is coterminous with its associated landscape feature, so it is present simultaneously everywhere within its boundaries. A stoicheion with a Might of 10 can extend its glamour to the size of a room, while more powerful faeries can affect a greater area. The area controlled by the faerie can produce a yearly harvest of (Might/10) pawns of Animal vis, which manifests as physical objects within the controlled region. Removing this vis does not harm the faerie if it is bargained for.  
@@ -4882,7 +4892,7 @@ He has initiated his first plan by founding the League of the Vigilant and convi
 
 He also plans to induce likely candidates to act against their sodales. If he can get Aiakia of Hedyosmos to believe that the Tremere of Gigas were responsible for the fall of Constantinople, and are planning future strikes against his covenant, perhaps the Guernicus will move against Gigas. Boustaphan will certainly not open Gigas' records for Aiakia's perusal. Tisiphon is more easily led astray, and convincing him that the magi of Gigas have escaped true justice would be easy. More volatile than Aiakia, Tisiphon might respond with Wizard's Wars.
 
-Knowing that Lucian of Aegaea hopes to raise the forgotten Greek gods, and that Celaenea of Hedyosmos obsessively loves Hermes, Proximios intends to tell Celaenea of Lucian's agenda. He hopes her devotion to Hermes will incite her to act against Lucian and his league. Moreto has informed Proximios that, if the Redcap could find an Infernalist magus and place him in the league, chances are good that they would raise a False God for binding rather than a powerful faerie (False Gods are an order of demons described in *Realms of Power: The Infernal*, page 57). Triggering Celaenea's protectiveness of Hermes is easy, while finding an Infernalist magus much harder.
+Knowing that Lucian of Aegaea hopes to raise the forgotten Greek gods, and that Celaenea of Hedyosmos obsessively loves Hermes, Proximios intends to tell Celaenea of Lucian's agenda. He hopes her devotion to Hermes will incite her to act against Lucian and his league. Other Infernalists have informed Proximios that, if the Redcap could find an Infernalist magus and place him in the league, chances are good that they would raise a False God for binding rather than a powerful faerie (False Gods are an order of demons described in *Realms of Power: The Infernal*, page 57). Triggering Celaenea's protectiveness of Hermes is easy, while finding an Infernalist magus much harder.
 
 These plans are merely formulating in Proximios' head in 1220. Politically, he will accept the position of logothete, but it is important to his plans that it look like he accepted the post reluctantly, so he cannot be blamed when it eventually unravels. As keeper of the tally of tokens and shards, he will be able to promote those willing to cooperate with him. As yet, he has not sought Hermetic allies in his Infernal conspiracy, but he has his eye on a few who he thinks are susceptible.
 
@@ -4914,7 +4924,7 @@ With its ability to blend into society without fear of detection, the vrykolakas
 > *Spittle:* Init +2, Attack +6, Defense n/a, Damage +10  
 > **Soak:** +14  
 > **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious  
-> **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)  
+> **Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)  
 > **Abilities:** Athletics 10 (leaping), Brawl 5 (grapple), Folk Ken 3 (passing for human), Shapeshifter 3 (at night), Thrown Weapons 5 (spittle)  
 > **Powers:**  
 > *Form of Wickedness*, 2 points, Init 0, Mentem: See *Realms of Power: The Infernal*, page 39  
@@ -4945,7 +4955,7 @@ There is a class of demons called the smerdaki, which are of particular nuisance
 > *Dodge:* Init +2, Attack n/a, Defense +5, Damage n/a  
 > **Soak:** +5  
 > **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious  
-> **Wound Penalties**: –1 (1–3), –3 (4–6), –5 (7– 9), Incapacitated (10–12), Dead (13+)  
+> **Wound Penalties:** –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10–12), Dead (13+)  
 > **Abilities:** Animal Handling 5 (inducing stampede), Athletics 3 (giving chase), Brawl 3 (evasion), Folk Ken 3 (shepherds), Hex 2 (abortions)  
 > **Powers:**  
 > *Coagulation*, 1 point, Init –1, Corpus: See *Realms of Power: The Infernal*, page 31.  
@@ -4960,7 +4970,7 @@ There is a class of demons called the smerdaki, which are of particular nuisance
 
 ### Infernal Tradition: Stringla
 
-**Favored Abilities**: Ceremony, Debauchery, Effusion, Phantasm
+**Favored Abilities:** Ceremony, Debauchery, Effusion, Phantasm
 
 A *stringla* (plural *stringles*) is a variety of witch found in the Byzantine Empire; some areas (such as Mykonos) are reputed to be positively infested. These depraved women seek specifically to undermine the power of the Church and the dominance of man over woman; to achieve this aim they have made a deal with a demon who has granted them numerous horrible powers. Outwardly, a stringla appears no different to any other woman, although over time her ankles and wrists become deformed and twisted, so older stringles take pains to keep these joints hidden. It is not uncommon to hear of a man who has been married for years before discovering his wife (and usually his mother-in-law) is a stringla.
 

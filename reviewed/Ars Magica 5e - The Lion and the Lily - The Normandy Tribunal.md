@@ -3005,14 +3005,14 @@ Just over a mile to the north of the city walls is the Montmartre (martyr's moun
 >
 > **Equipment:** A wooden trolley with rickety wheels. His talisman is a wand crudely carved from a human leg bone, and inlaid with three small bloodstones. It grants him the following bonuses: +4 destroy human body, +4 blood and wounds. The talisman currently has two enchantments:
 >
-> ##### Agony of the Uncharitable Stranger
+> **Agony of the Uncharitable Stranger**
 > PeCo 30<br>
 > R: Voice, D: Conc, T: Ind<br>
 > Pen: 20, 24 uses/day
 >
 > The target is riddled with stabbing pains. (Base 4, +2 Voice, +1 Conc; +10 for Penetration Total of 20, +5 24 uses per day)
 >
-> ##### Hobble the Foul-Mouthed Wretch<br>
+> **Hobble the Foul-Mouthed Wretch<br>**
 > PeCo 40<br>
 > R: Voice, D: Sun, T: Ind<br>
 > Pen: 20, 24 uses/day
@@ -3021,7 +3021,7 @@ Just over a mile to the north of the city walls is the Montmartre (martyr's moun
 >
 > (Base 5, +2 Voice, +2 Sun; +10 for Penetration Total of 20, +5 24 uses per day)
 >
-> #### Spells Known:
+> **Spells Known:**
 >
 > *Agony of the Beast* (PeAn 15/+19)
 >
@@ -3058,7 +3058,7 @@ Just over a mile to the north of the city walls is the Montmartre (martyr's moun
 > *Trust of Childlike Faith* (PeMe 10/+35)
 >
 >
-> ##### New Spell: The Irresistible Pressgang
+> **New Spell: The Irresistible Pressgang**
 > CrMe 35<br>
 > R: Touch, D: Year, T: Group, Ritual
 >
@@ -3066,7 +3066,7 @@ Just over a mile to the north of the city walls is the Montmartre (martyr's moun
 >
 > (Base 4, +1 Touch, +4 Year, +2 Group)
 >
-> ##### New Spell: The Twisted Spine
+> **New Spell: The Twisted Spine**
 > Mu(Pe)Co 20<br>
 > R: Voice, D: Sun, T: Ind
 >
@@ -3464,12 +3464,12 @@ The covenant keeps the existence of the Spinnen secret by hiding them in plain s
 
 The membership of the covenant is fluid. It generally has between four and six members. Two of the members currently reside at the Palace of the Spider, described below, to use the excellent laboratories there. The covenant is also hosting three visitors, a Quaesitor, a Tytalus hoplite, and a Redcap, who are using it as a base for exploring sites for a House Guernicus covenant should the Lotharingian Separation occur. The four members currently in residence are described below.
 
-#### Rhesus of Verditus
+#### Rhesus of Verditius
 
 Age: 85 (Apparent age 54)<br>
 Personality Traits: Proud +3, Dependable +2, Stubborn +1
 
-Rhesus of Verditus is the leader of the covenant, among the magi. He is a clean-shaven, muscled man who appears to be in his fifties. Rhesus is interested principally in the magical uses of flax. Rhesus came to Florum, from the Roman Tribunal, in part because of the professional jealousy that infects members of his House, and in part because he is a weaver and was interested in the spider-kin. He supports the Lotharingian ideal because he finds Normandy's culture, where he needs to keep defending resources that in any other tribunal would simply be his, to be tiresome.
+Rhesus of Verditius is the leader of the covenant, among the magi. He is a clean-shaven, muscled man who appears to be in his fifties. Rhesus is interested principally in the magical uses of flax. Rhesus came to Florum, from the Roman Tribunal, in part because of the professional jealousy that infects members of his House, and in part because he is a weaver and was interested in the spider-kin. He supports the Lotharingian ideal because he finds Normandy's culture, where he needs to keep defending resources that in any other tribunal would simply be his, to be tiresome.
 
 #### Calvinus of Jerbiton
 
@@ -3859,10 +3859,10 @@ Angelus is rarely involved in the covenant's affairs, though Eloi and even Celer
 >
 > It is also worth noting the while Wolfram describes the guardians of the Grail as "Templars," he does not mean the Knights Templar. Wolfram's word is templeisen, while the Knights Templar were usually referred to as Tempelherren in German.
 
-#### Celeres, follower of bonisAgus
+#### Celeres, follower of Bonisagus
 
 **Age:** 150? (Apparent age 100)<br>
-**Pesonality Traits:** Forceful +3, Charming +2, Absent-minded +2
+**Personality Traits:** Forceful +3, Charming +2, Absent-minded +2
 
 Celeres' life changed in near the end of the twelfth century when he discovered a copy of Chretien de Troyes' *Perceval*. What was this "graal" that Perceval was seeking? What gave it such powers? Celeres' perhaps overactive imagination was captured. He immediately set out to find as many books about King Arthur, the Knights of the Round Table, and especially the Grail, as he could. When he heard about the covenant of Cunfin, with its community of monks and its holy hermit, it seemed like something out of the romances he had been reading. Celeres made his way there at once and through sheer force of personality convinced Eloi to admit him as a member.
 
@@ -4241,7 +4241,9 @@ The cult currently has Initiation Scripts that grant the following Virtues:
 
 **Minor Hermetic Virtue, Minor Magical Focus (Shape-shifting):** see ArM5, page 46.
 
-**Major Hermetic Virtue, Life-Linked Spontaneous Magic:** see ArM5, page 44. Ordeals endured during the cult's Initiations may include gaining the Flaws:
+**Major Hermetic Virtue, Life-Linked Spontaneous Magic:** see ArM5, page 44.
+
+Ordeals endured during the cult's Initiations may include gaining the Flaws:
 
 **Minor Hermetic Flaw, Blood Haze:** The maga is crazed by bloodshed, and if she is directly involved in a combat situation she has a –10 penalty to Formulaic magic and has a –3 penalty to her Concentration Ability Score. The character is considered in a combat situation if she is close enough to smell blood that has been shed through violence (about a dozen paces).
 

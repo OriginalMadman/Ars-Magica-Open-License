@@ -1920,7 +1920,7 @@ House Flambeau's members are passionate people, and House Guernicus is concerned
 
 #### The Magic Item Tax
 
-The Houses of Verditus and Bonisagus are co-sponsoring a Grand Tribunal resolution to tax all covenants a pawn of vis a year. This is to be given to a research team to perfect a new type of magical device. House Tremere is in favor of establishing the right of the Grand Tribunal to tax magi for the benefit of the Order. The player characters, as Poena's envoys, must deal with some obvious concerns.
+The Houses of Verditius and Bonisagus are co-sponsoring a Grand Tribunal resolution to tax all covenants a pawn of vis a year. This is to be given to a research team to perfect a new type of magical device. House Tremere is in favor of establishing the right of the Grand Tribunal to tax magi for the benefit of the Order. The player characters, as Poena's envoys, must deal with some obvious concerns.
 
 It seems to Poena that House Bonisagus and Verditius get all the vis, but leave the collection and enforcement, with its costs and dangers, to House Guernicus and its militant allies. How will the vis be collected, what will the penalty for non-payment be, and how will that be enforced?
 
@@ -3907,9 +3907,9 @@ Too young to consider Primushood for many decades, Phillip is fascinated by the 
 **Personality Traits:** Vain +2, Specializes in crafting longevity potions.  
 **Privilege:** Hospis
 
-The senior Verditus in this Tribunal, Zalmoxis has worked here for over forty years. He specializes in Corpus effects, particularly those that allow battlefield healing and cure diseases. He is also skilled at the creation of longevity rituals. Zalmoxis is named after a local pagan god, but has no direct link to the ancient cult.
+The senior Verditius in this Tribunal, Zalmoxis has worked here for over forty years. He specializes in Corpus effects, particularly those that allow battlefield healing and cure diseases. He is also skilled at the creation of longevity rituals. Zalmoxis is named after a local pagan god, but has no direct link to the ancient cult.
 
-A persistent problem for House Tremere is that their magical focus, certamen, precludes any member having a magical focus suitable for making longevity rituals. Lesser longevity rituals are often purchased from young Verditus magi. Excellent longevity rituals are expensive, but the House arranges for them to be made available to senior Tremere, so that their wisdom and skill remain accessible to the House for an extended life. Many of these rituals are simply purchased from Corpus specialists in other Tribunals, but the House always ensures that at least one longevity specialist is close at hand, so that, in Order-wide emergencies, their ability to train apprentices as healers and extenders of life is preserved.
+A persistent problem for House Tremere is that their magical focus, certamen, precludes any member having a magical focus suitable for making longevity rituals. Lesser longevity rituals are often purchased from young Verditius magi. Excellent longevity rituals are expensive, but the House arranges for them to be made available to senior Tremere, so that their wisdom and skill remain accessible to the House for an extended life. Many of these rituals are simply purchased from Corpus specialists in other Tribunals, but the House always ensures that at least one longevity specialist is close at hand, so that, in Order-wide emergencies, their ability to train apprentices as healers and extenders of life is preserved.
 
 ## The Oppidum of the Scholomance
 

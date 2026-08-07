@@ -20,7 +20,7 @@ Applied errata.
 
 ---
 
-Learn about the four magical Houses built around specific Mysteries. Explore mythic animal forms with the magi of House Bjornaer, or defy the passage of time with House Criamon. Walk the faerie lands with the magi of House Merinita. Or join the magical craftsmen of House Verditus.
+Learn about the four magical Houses built around specific Mysteries. Explore mythic animal forms with the magi of House Bjornaer, or defy the passage of time with House Criamon. Walk the faerie lands with the magi of House Merinita. Or join the magical craftsmen of House Verditius.
 
 Discover the history, training, and magical practices of each House. You'll find a variety of mechanics and story seeds relating to the secret practices of each House, including subcults like the Huntress in the Wood, the body modification of House Criamon, and the ordeals of House Veriditus.
 
@@ -1163,7 +1163,7 @@ Upon being Initiated into this Mystery, the inner heartbeast is drawn out from t
 
 *Example: An eagle has a Perception of +2, but the Bjornaer magus's human Perception is –1, so his outer heartbeast has a Perception of +1. However, his inner heartbeast acquires a Perception of +5, and his human form also gets a +1 bonus for a final Perception of 0. This means that his outer heartbeast finishes with a Perception of +5.*
 
-- The inner heartbeast may perform a Mythic Feat related to its increased Characteristic at a cost of 1 confidence Point. A Mythic Feat is an automatically successful incredible action that would normally be covered by a single die roll, and cannot be used on an activity which usually takes days or seasons to perform.
+- The inner heartbeast may perform a Mythic Feat related to its increased Characteristic at a cost of 1 Confidence Point. A Mythic Feat is an automatically successful incredible action that would normally be covered by a single die roll, and cannot be used on an activity which usually takes days or seasons to perform.
 - The inner heartbeast is a perfect specimen of its type. When in the form of his virtuous inner heartbeast, a Bjornaer magus does not suffer from any Physical Flaws that would normally affect his shape. A Lame magus is not lame as a Beast of Virtue, for example, although he is still affected by that Flaw as his outer heartbeast.
 
 > ### Sample Mythic Feats
@@ -1607,7 +1607,7 @@ Personality Flaws are particularly appropriate for beasts; you may need to come 
 >
 > *Minor Virtue, beasts only*
 >
-> Like companion and magus characters, a beast with this Virtue has confidence points. However, its confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. For each instance of this Virtue, describe a situation that activates confidence for the species in question, and take 3 confidence Points and a confidence Score of 1 to use when those circumstances are met.
+> Like companion and magus characters, a beast with this Virtue has Confidence points. However, its Confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. For each instance of this Virtue, describe a situation that activates Confidence for the species in question, and take 3 Confidence Points and a Confidence Score of 1 to use when those circumstances are met.
 
 ### 4. Basic Abilities
 
@@ -1744,7 +1744,7 @@ Combat Statistics are calculated as normal (see ArM5, page 171), using the Natur
 >
 > **Size:** +2
 >
-> **confidence Score:** 1 (3)
+> **Confidence Score:** 1 (3)
 >
 > **Virtues and Flaws:** Ferocity (when injured), Improved Characteristics (x2), Tough, Greedy (minor), Reclusive
 >
@@ -3636,7 +3636,7 @@ Like Initiating Mysteries, all of these transformation rituals are affected by O
 
 **Ordeal Modifier: Level – (Initiation modifier x 5)**
 
-**Transforming the Body:** The maga does not age and never suffers Fatigue. She no longer has Fatigue Levels, and cannot exert herself as others do, either in combat or to cast spontaneous spells, though she may simulate this exertion by spending a confidence Point. As part of the enchantment, her apparent age and appearance become fixed on the cusp of two different phases of life: this is usually either her youth, right after puberty; or adulthood, when her hair first begins to turn gray; or old age, when her hair has become completely white. The level of the enchantment is the character's true age (the number of years that have passed since she was born) minus 35, plus five times her Decrepitude Score.
+**Transforming the Body:** The maga does not age and never suffers Fatigue. She no longer has Fatigue Levels, and cannot exert herself as others do, either in combat or to cast spontaneous spells, though she may simulate this exertion by spending a Confidence Point. As part of the enchantment, her apparent age and appearance become fixed on the cusp of two different phases of life: this is usually either her youth, right after puberty; or adulthood, when her hair first begins to turn gray; or old age, when her hair has become completely white. The level of the enchantment is the character's true age (the number of years that have passed since she was born) minus 35, plus five times her Decrepitude Score.
 
 **Transforming the Body: (Character's Age – 35) + (5 x Decrepitude Score)**
 
@@ -3732,13 +3732,13 @@ Story Magic requires that the maga first design a **story charm**. This is a spe
 
 Once inspired, the maga prepares the charm as normal: she obtains an appropriate object to hold the charm and spends several hours designing it. Then she rolls the associated Characteristic + Ability against an Ease Factor of 9. Like Charm Magic charms, the charm should be given a descriptive term associated with a category (adage, aspect, etc.) to which the story event applies. After enduring a memorable siege, for example, she might make a "castle" (place), "battle" (event), or "haste makes waste" (adage) charm.
 
-A story charm may be used at any time, though it is most appropriate when the character is on an adventure of some sort. Activating it requires the maga to spend a confidence Point. Afterward, the idea of the charm manifests at some point during the session: an event takes place, an object turns up, another character is affected, or a theme is emphasized, usually to the maga's benefit. The player may give suggestions for what she wants to happen, but the storyguide determines the actual results, somehow incorporating the concept of the charm into the narrative. This story element is entirely at the storyguide's discretion; it must come into play, but does not necessarily come about as the player expects, and it is even possible for the effect to escape her notice.
+A story charm may be used at any time, though it is most appropriate when the character is on an adventure of some sort. Activating it requires the maga to spend a Confidence Point. Afterward, the idea of the charm manifests at some point during the session: an event takes place, an object turns up, another character is affected, or a theme is emphasized, usually to the maga's benefit. The player may give suggestions for what she wants to happen, but the storyguide determines the actual results, somehow incorporating the concept of the charm into the narrative. This story element is entirely at the storyguide's discretion; it must come into play, but does not necessarily come about as the player expects, and it is even possible for the effect to escape her notice.
 
-*Example: After Initiating Story Magic, Mari Amwithig manages to trick a faerie lord out of his birthright, and she represents this experience with a silver crown. She writes a poem about her cleverness, choosing a "shrewd" (aspect) charm, and* *beats an Ease Factor of 9 on her Communication + Language roll: the crown becomes a story charm. Later, before entering a faerie market, she puts on the crown and spends a confidence Point, quietly reciting her poem to herself. Because of this, the storyguide rules that she bargains particularly well, and shrewdly trades a cask of wine for a goblin servant who will obey her for a year and a day, or until she asks it a question it cannot answer.*
+*Example: After Initiating Story Magic, Mari Amwithig manages to trick a faerie lord out of his birthright, and she represents this experience with a silver crown. She writes a poem about her cleverness, choosing a "shrewd" (aspect) charm, and* *beats an Ease Factor of 9 on her Communication + Language roll: the crown becomes a story charm. Later, before entering a faerie market, she puts on the crown and spends a Confidence Point, quietly reciting her poem to herself. Because of this, the storyguide rules that she bargains particularly well, and shrewdly trades a cask of wine for a goblin servant who will obey her for a year and a day, or until she asks it a question it cannot answer.*
 
 Generally, a story charm should be applicable to the current situation, manifesting as a clue to a mystery, or an ally with a useful bit of aid. Perhaps it could be represented as a temporary bonus to certain rolls. It is not miraculous or even very powerful, but should make the player feel as if she has some additional control over the direction of the scene. Think of it like a Minor Story Flaw that applies to the adventure as a whole, which the maga can take advantage of if she watches for it. If a clear mechanical benefit is needed, assume the character has a +3 bonus on all rolls associated with the charm for the entire scene.
 
-The maga may also substitute story charms for charms in Charm Magic spells. In this way, story charms are like "wild cards" for their particular charm category. A story charm can be used in place of any charm from its same category: a maga could substitute a "guide" (character) story charm for a "magus" (character) or a "Darius" (character) charm when casting a spell that incorporates one of those charms, since they all affect characters. This still costs the maga a confidence Point to activate the charm.
+The maga may also substitute story charms for charms in Charm Magic spells. In this way, story charms are like "wild cards" for their particular charm category. A story charm can be used in place of any charm from its same category: a maga could substitute a "guide" (character) story charm for a "magus" (character) or a "Darius" (character) charm when casting a spell that incorporates one of those charms, since they all affect characters. This still costs the maga a Confidence Point to activate the charm.
 
 #### Symbolic Magic (Major Folk Mystery)
 
@@ -3750,7 +3750,7 @@ A maga with Symbolic Magic may use charms when designing invested devices, up to
 
 A maga with this Virtue can also add charm bonuses to her talisman. Like attuning it to an effect associated with its shape or material, the maga can modify her talisman to act as a charm in particular circumstances, increasing her Casting Total whenever those circumstances apply, as with Charm Magic. A talisman may be attuned to as many charms as she likes, but only one charm may be attuned each season, and no more charms than her score in Faerie Magic may be incorporated into a single effect.
 
-A maga with Symbolic Magic may design permanent charms that other characters may use, creating symbolic representations or integrating the effects of Arcadian Travel or Story Magic into objects that characters without those Mysteries can carry. The wielder activates the charm instead of the maga who designed it, and so must spend the necessary confidence Point, or concentrate upon the trod's destination, when the charm is used.
+A maga with Symbolic Magic may design permanent charms that other characters may use, creating symbolic representations or integrating the effects of Arcadian Travel or Story Magic into objects that characters without those Mysteries can carry. The wielder activates the charm instead of the maga who designed it, and so must spend the necessary Confidence Point, or concentrate upon the trod's destination, when the charm is used.
 
 Finally, the maga gains the ability to design ritual spells that use a new Symbol Range, Duration, and Target, described below. Each ritual requires that she make a symbolic representation that identifies the target through at least three different charms (this requires Faerie Magic 3 and a Characteristic + Ability roll against an Ease Factor of 12 to design the symbol). For example, a portrait designed to affect the Faerie Queen of Irencillia at Symbol Range might include a "queen" (character) charm, a "winter" (event) charm, and a "faerie" (character) charm. To use Symbol Range, Duration, and Target together in one spell would require a total of nine charms (requiring Faerie Magic 9).
 
@@ -4378,7 +4378,7 @@ Hubris increases over time, building like an Ability. Hubris cannot be deliberat
 > | Declaring a vendetta. | 1 |
 > | Winning a vendetta. | 3 |
 
-The higher a magus's Hubris score grows, the harder it is for him to resist situations likely to further increase it. A magus with Hubris 4 will be quite tempted to continue to sell magical items, for example. If a character wishes to resist such temptations in hopes of maintaining a low Hubris score, you can make opposed Personality Trait rolls. This assumes the character has a Personality Trait that she can uses against her Hubris score. She can also spend a confidence Point to walk away from the situation.
+The higher a magus's Hubris score grows, the harder it is for him to resist situations likely to further increase it. A magus with Hubris 4 will be quite tempted to continue to sell magical items, for example. If a character wishes to resist such temptations in hopes of maintaining a low Hubris score, you can make opposed Personality Trait rolls. This assumes the character has a Personality Trait that she can uses against her Hubris score. She can also spend a Confidence Point to walk away from the situation.
 
 Magi with Hubris scores of 6 and higher are extremely self-centered. These are the magi most prone to engage in vendettas with other Verditius magi, usually with those as self-centered as themselves. Resisting a declared vendetta is difficult. If the maga wishes to resist, you must make an opposed Personality Trait + stress die roll against an Ease Factor of your maga's Hubris score + her challenger's Hubris score. You may substitute her Intelligence if she does not have a Personality Trait that works opposite Hubris.
 

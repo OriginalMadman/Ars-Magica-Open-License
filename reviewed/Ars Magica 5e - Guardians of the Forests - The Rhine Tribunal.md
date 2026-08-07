@@ -284,7 +284,7 @@ Although united under the heirs of Louis the German, the great tribal groups of 
 > 
 > During this assimilation period, House Bjornaer adopted three Magyar shapechangers into the Order. The lineage of these brave and independent spirited Bjornaer with the heartbeast of a horse still exists within the House.
 >
-> #### WIEDERICH OF HOUSE FLAMBEAU
+> #### Wiederich of House Flambeau
 > 
 > Wiederich was the only survivor when the Magyars attacked the covenant of Sirmium in 930. Wiederich immediately joined Henry's army, determined to avenge himself upon the horseman invaders. It is known that the Magyars brought wizards with them, but whether Wiederich was responsible for killing them is not clear; nevertheless, they were not present when Henry defeated the Magyars at Riade. Wiederich was also part of Otto's army, and present at the Battle of the Lech.
 >
@@ -1396,21 +1396,21 @@ St. Lambert, bishop of Tongeren in the 7th century, became involved in a feud be
 
 The covenant of Triamore holds a castle and a manorial estate by the river Meuse on the edge of the Ardennes, at the western fringe of the Rhine Tribunal. It has throughout its rather troubled history been embroiled in mundane politics, for which the local Quaesitores have long sought censure against the covenant. It is only through the shrewd dealings of Triamore's princeps, Daria la Gris of House Tremere, that this has been avoided. Due to the recent loss of several of their number to death and Twilight, Triamore finds itself politically and magically weakened, and thus somewhat sidelined in the Tribunal. Daria is therefore actively seeking new members; to this end she is encouraging the visits of peregrinatores and other magi. On the one hand, Triamore is a comfortable covenant with reasonable magi and a famed library (to which guests are typically required to contribute to), yet on the other hand, stories of recent troubles and the deaths of magi tend to keep the number of guests low. Triamore has a Magic aura of 2.
 
-**DARIA LA GRIS, FOLLOWER OF TREMERE**
+**Daria la Gris, follower of Tremere**
 
 **Age:** 67 (Master)<br>
 **Personality Traits:** Sophisticated +2, Studious +1, Frivolous -3
 
 Daria, as the coleader of the Apple Gild, favors the formation of the putative Lotharingian Tribunal (see Chapter 3: Tribunal History and Customs, The Gilds of the Rhine Tribunal). Not only would this give the covenant a freer hand in their mundane dealings, but more importantly it would mean a dramatic shift in which Triamore moves from being a minor player at the border of two Tribunals to a central covenant, the hub even, of this new Tribunal. As a part of this strategic plan, Daria fosters friendly links with several covenants of the Normandy Tribunal. She is a stern and uncompromising woman and has trained two apprentices already.
 
-**REMI OF MUSEAU, FOLLOWER OF JERBITON**
+**Remi of Museau, follower of Jerbiton**
 
 **Age:** 48 (Master)<br>
 **Personality Traits:** Unpretentious +3, Worldly +3, Cheerful +2
 
 Remi is a friendly and effusive magus, a complete contrast to Daria. He is accomplished in all manner of mundane tasks; a veritable polymath who can debate with scholars, hold his own in a fight, track and kill wild game, craft music and poetry, and display any number of other skills. Many of these tasks he achieves without the use of magic; nevertheless, he has many useful and utilitarian spells as well.
 
-**SICERO, FOLLOWER OF TREMERE**
+**Sicero, follower of Tremere**
 
 **Age:** 23 (Journeyman)<br>
 **Personality Traits:** Keen to Impress +2, Confident +1, Quiet +1
@@ -1621,49 +1621,49 @@ To determine whether a summa of a specified Art is available to a magus, roll a 
 
 There are currently ten Bonisagus magi at Durenmar, and five magi from other Houses, most of whom are described below. Storyguides should, however, feel free to change these magi or add to their numbers, should it suit the needs of your saga. Amongst those from other Houses, there is one who holds the honorary title of "Protector" (responsible for the martial defense of the covenant) and another who is designated "Artificer" (whose duty is to craft items to contribute to the covenant's greatness). Traditionally, notable magi of Flambeau and Verditius, respectively, either masters or archmages, are chosen by the Primus and invited to join. There is also always at least one magus of House Guernicus present — Durenmar is usually home to the senior Quaesitor of the Tribunal. By tradition, a Gifted member of House Mercere is resident, and oversees the Mercer House. One or more Redcaps may also be found here at any given time — a welltraveled route is south to the Tribunal of the Greater Alps and to Harco in the Roman Tribunal, either via the Rorschach chapter on Lake Constance, the Copper Rooster inn in Basel, the covenant of Sinews of Knowledge, which has close and friendly relations with Durenmar, or directly by use of the Mercere Portal to Harco.
 
-**MURION, PRIMA OF HOUSE BONISAGUS**
+**Murion, Prima of House Bonisagus**
 
 **Age:** 98 (Archmage)<br>
 **Personality Traits:** Loyal to Personal Agenda +3, Judgmental +2, Loyal to House Bonisagus +2
 
 A haughty and overbearing woman, Murion wants to see Durenmar (and the Rhine Tribunal) restored to their rightful place of dominance in the Order. Although not her greatest priority, the plans of the Ash Gild to invade the Norse lands complement this ambition nicely: such a war would draw powerful magi and resources to the Tribunal, looted vis and artifacts would enrich it, and, ultimately, Hermetic colonization of the northlands would shift the geopolitical center of the Order back towards the Rhine. Murion is well-versed in all of the Hermetic Arts, but is especially brilliant with Rego and Imaginem. She wears a great cloak of white feathers enchanted with illusionary powers, and conspiracy theories abound about the notable magi she may have impersonated, or the various schemes in which she may be involved. Her raven familiar, Kolkrabus, is occasionally dispatched to spy on the magi of Dankmar, and other perceived enemies (in disregard of the Code of Hermes). As both the Praeco of the Tribunal, holding the sigil of Bonisagus (see Chapter 3: Tribunal History and Customs, Tribunal Gatherings), and the leader of the largest gild, the Oak, Murion is unquestionably the most politically powerful maga in the Tribunal.
 
-**ANDRUS, FOLLOWER OF BONISAGUS**
+**Andrus, follower of Bonisagus**
 
 **Age:** 61 (Master)<br>
 **Personality Traits:** Busy +3, Modest +1, Strong-Willed –1
 
 Andrus, a thin and balding man with a perceptive and commanding stare, some forty years from his Gauntlet, is the first filius of Murion. He is a Colens Arcanorum (see *Houses of Hermes: True Lineages*), jointly responsible for dissemination of the House's knowledge and research, and his onerous duties as librarian take up a lot of his time, distracting him from his research, meaning that he is always at the covenant. Since Andrus controls access to the Great Library, it is most unwise to annoy him. Politically, he is regarded as Murion's puppet, and is rumored to be preparing to challenge her for Archmagehood in the coming decade.
 
-**TANDALINE, FOLLOWER OF BONISAGUS**
+**Tandaline, follower of Bonisagus**
 
 **Age:** 78 (Master)<br>
 **Personality Traits:** Opaque +3, Blasé +1, Sympathetic +1
 
 Tandaline, a pale and slender woman whose eyes appear to constantly shift color in a hypnotic fashion, has been acknowledged as a master of both Muto and Auram for several decades; she seeks further insight into her favored Form by the remarkable process of temporarily transforming herself into vapor. She is however of the politically-oriented lineage of Trianoma. She is the closest confidante of Murion, who appointed her as a Tenens Occultorum (see *Houses of Hermes: True Lineages*), and with whom her political inclinations coincide for the most part, although she is a free-thinking and well-respected maga in her own right. As part of her duties, Tandaline takes it upon herself to keep in written contact with many magi in her House, and she will exercise her considerable political connections to cause great trouble for anyone who is reported to be abusing a Bonisagus magus.
 
-**CAECILIUS, FOLLOWER OF BONISAGUS**
+**Caecilius, follower of Bonisagus**
 
 **Age:** approximately 160 (Archmage)<br>
 **Personality Traits:** Diligent +3, Touchy +2, Indolent +1
 
 Caecilius is the most venerable of Durenmar's magi, and he is acknowledged as the greatest living exponent of Intellego magics. Since being appointed a Quaesitor many years ago, his research has tended towards pushing the limits of the investigative rituals employed by House Guernicus. It is rumored that he initially rejected the title, but was eventually persuaded out of a sense of duty, since the Quaesitorial presence in the Tribunal was otherwise very weak. He remains a somewhat reluctant Quaesitor who is not exactly proactive in politics or enforcing the Code — although this may be in part due to his increasingly frequent Twilight episodes. However, when called upon to take action he reveals himself as a brilliant investigator and his genius has solved and thwarted numerous Hermetic crimes down the years. Caecilius has a spotless Hermetic record, which is notable given his great age, and at Tribunal adjudicates as the senior Quaesitor. His familiar is a silver-coated wolf.
 
-**OCCULTES, FOLLOWER OF BONISAGUS**
+**Occultes, follower of Bonisagus**
 
 **Age:** 72 (Master)<br>
 **Personality Traits:** Friendly +3, Inquisitive +2, Showy +1
 
 Occultes is a colorful man whose magical research concerns manuscripts and items of all kinds. He has succeeded in creating a small golem, which serves in his laboratory to limited effect, and has enchanted numerous magical texts and quills. He gathers information from far and wide about noteworthy artifacts or strange magical practices. A significant minority of Bonisagus magi would prefer to see Occultes as Primus of their House instead of Murion, since he is the figurehead of a group of outward-looking magi who favor a more gentle and inclusive approach, allowing for the expansion of Hermetic magic by incorporating exotic techniques and hedge wizardry. He formerly served as librarian, but was relieved of that post by Avarret, the former Primus. However, he has since risen to become the leader of the Linden Gild instead. Although he no longer has access to the restricted texts in the library, he is well aware of the contents of these tomes. In fact, he quietly copied or relocated the most interesting ones to his own sanctum, which he secretly distributes to close allies with a relevant research interest. Murion tolerates the presence of Occultes at the covenant, but keeps a watchful eye over him. As he is an amiable fellow with modest political ambitions, she perceives that he does not pose much of a threat. Besides, acting against such a wellrespected magus could cause the factional differences in the House to widen into a damaging schism, something she wishes to avoid.
 
-**RICARDUS CAESPUUS, FOLLOWER OF BONISAGUS**
+**Ricardus Caespuus, follower of Bonisagus**
 
 **Age:** 56 (Master)<br>
 **Personality Traits:** Reclusive +3, Artistic +2, Intense +1
 
 Ricardus lives somewhat apart from the other magi of Durenmar — his sanctum on the southern edge of the covenant is a large building whose walls are built mostly of glass. Given the expense and small size of 13th-century windows, it is a remarkable and unique construction, consisting of thousands of delicate leadframed panes supported by wooden beams. This is a laboratory highly specialized in Herbam, and contains all manner of peculiar and exotic plants, from which Ricardus has managed to cultivate several different types of vis in a method akin to vis extraction. Although his work would seem to be of import, his efforts at communicating his discoveries are perceived to be lacking — or at least no-one can understand a word he says, despite his earnest and friendly manner. Regarded as little better than a hedge wizard by Murion and her followers, his continued presence at Durenmar is only tolerated on account of his extreme usefulness in harvesting vis and regular contributions to the covenant's stores.
 
-**PETRUS VIRILIS, FOLLOWER OF BONISAGUS**
+**Petrus Virilis, follower of Bonisagus**
 
 **Age:** 32 (Journeyman)<br>
 **Personality Traits:** Shy +3, Rebellious +1, Trusting –2
@@ -1675,7 +1675,7 @@ An otherwise mediocre magus, the most noteworthy thing about Petrus (much to his
 >
 >Petrus inexplicably falls in love with a peasant girl, and despite the adverse effects of his Gift, the feelings seem mutual. In an act of rebellion, he plans his wedding in a nearby town. If he gets married, will Durenmar place his soul in peril by trying to force him to break his vows of chastity? If he is allowed to continue a normal, married life without interference, any children of the union will be of great interest to the covenant.
 
-**WINFRIDA, FOLLOWER OF GUERNICUS**
+**Winfrida, follower of Guernicus**
 
 **Age:** 27 (Journeyman)<br>
 **Personality Traits:** Yearning for a Better Life +2, Self-Confident –1, Forceful –2
@@ -1882,31 +1882,31 @@ Dankmar has close, careful contacts with the dark fae of the Black Forest. These
 
 ### Magi
 
-**SCHADRIT, MAGA EX MISCELLANEA**
+**Schadrit, Maga ex Miscellanea**
 
 **Age:** approximately 160 (Master)<br>
 **Personality Traits:** Malicious +5, Vengeful +4, Callous +3
 
 Schadrit is a former apprentice of House Bonisagus and a former resident of Durenmar. When Aschlaranda of Bonisagus reappeared at Durenmar (see Chapter 3: Tribunal History and Customs, The Schism War), she brought Schadrit with her, and she completed her apprenticeship at Durenmar. When Aschlaranda was cast out from House Bonisagus, Schadrit was only a year away from her Gauntlet, but she was forced to suffer the same fate as her mistress. Together they founded a covenant, naming it Dankmar in parody of the birthplace of the Order. Schadrit is truly ancient, only a few decades from completing her second century. Her longevity potion has not preserved her looks as well as it has her age, and she is a withered hag who keeps herself shrouded in a voluminous black robe with a deep hood. Her face is so seamed with wrinkles that her features are barely discernible, except for her long, mole-covered nose. Schadrit has developed an expertise in Faerie Magic, and is perhaps the only practitioner outside of House Merinita. She is malicious to the point of downright evil, and rules Dankmar with an iron hand.
 
-**ORPHEDRA, FOLLOWER OF MERINITA**
+**Orphedra, follower of Merinita**
 
 **Age:** 139 (Master)<br>
 **Personality Traits:** Cruel +3, Frightening +3, Optimistic –2
 
 Orphedra is the covenant's link to the faeries of their forest home. She was apprenticed at Irencillia ten dozen years ago, but found that covenant stifling rather than invigorating, preferring as she does the darkness of primeval forest. Orphedra is as thin as a stick, and wears her hair in a tight bun, which accentuates her angular features and unnaturally smooth skin. Orphedra is the most despised of the magi among the covenfolk; they rarely see Schadrit and worship Jiphella, but Orphedra has an air that makes the skin crawl. Naturally reveling in Faerie Magic (it was she who taught Schadrit), she is inclined towards the dark fae and specializes in illusions, cold, darkness, and fear. She has struck a deal with the local bockmen (see above), who patrol the area around the covenant.
 
-**JIPHELLA, MAGA EX MISCELLANEA**
+**Jiphella, Maga ex Miscellanea**
 
 **Age:** 73 (Master)<br>
 **Personality Traits:** Crude +3, Domineering +3, Moody +2
 
 Jiphella is an immense maga, bloated with fat. She has lank, greasy, gray hair belying her old age. She is the biological daughter of Schadrit, conceived under the influence of some dark faerie charm long after her mother had performed her ritual of longevity. She was later trained in magic by her mother and is wholly cowed by her dominating presence. Jiphella's left eye is a sickly orange with a blood-red iris, and she can bewitch others with a glance. Jiphella is a master of Mentem magics, and most of the covenfolk are under her spell, obeying her instantly and without question.
 
-**LARINDA, MAGA EX MISCELLANEA**
+**Larinda, Maga ex Miscellanea**
 
 **Age:** 20 (Journeyman)<br>
-**Personality Traits:** Passionate +2,
+**Personality Traits:** Passionate +2, Cheerful +1, Brave –2
 
 Larinda is a young maga just out of apprenticeship. She is lithe and blonde; and pretty, particularly compared to the rest of her covenant. She is the daughter of Jiphella, who is also her Hermetic parens, but has seemingly not picked up any other traits from her family, although she was conceived under the same charm that produced her mother. She has man- aged to maintain a sunny disposition despite her cruel mother and dominating grandmother, although she will do what they say out of a sense of familial duty. Her magical affinities lie in the natural world — Animal, Herbam, Aquam, and Auram in particular; she is becoming an expert at brewing potions.
 
@@ -2017,30 +2017,30 @@ Waddenzee goes to great pains to keep its activities legal under the Code of Her
 
 ### Magi
 
-**HYGWALD VERITAS, FOLLOWER OF TREMERE**
+**Hygwald Veritas, follower of Tremere**
 
 **Age:** 48 (Journeyman)<br>
 **Personality Traits:** Arrogant +3, Honest to Quaesitors +3, Respect for Authority –3
 
 Hygwald Veritas is a devious magus of House Tremere, and co-founder of Waddenzee. A native of England (and trained in the Stonehenge covenant of Blackthorn), Hygwald is scrupulously honest with the Quaesitores, and secretly aspires to become a member of this select group. When dealing with any other being (magus or not, human or not), Hygwald's arrogance shows through. He offers respect to members of his House, and elsewhere whenever prudent, but has no compunction about lying, cheating, and stealing to further his own aims. He appears to be a well-groomed man in his late thirties, and always dresses in a manner which displays his great personal wealth and sense of importance. He is a specialist in Mentem magics, particularly Rego Mentem, and makes heavy use of *Aura of Rightful Authority*.
 
-**ERIC RIBECUS, FOLLOWER, OF TYTALUS**
+**Eric Ribecus, follower of Tytalus**
 
 **Age:** 52 (Journeyman)<br>
 **Personality Traits:** Reckless +6, Wry Humor +4, Passive –4
 
 Eric Ribecus is the other founder of the covenant. This black-haired magus of House Tytalus hails from Ribe in Denmark, and is the most serious about the pirate lifestyle of all of Waddenzee's magi. He is a dashing extrovert who is charming with the ladies, and he has an over-inflated view of his own abilities. He appears much younger than his true age due to illusions and a good longevity ritual. He is a generalist in his magics, although he favors Aquam and Auram. In combat he can most often be found fighting alongside his men with his magical sword. His familiar is a long-tailed skua called Aegir, a large seabird famed for its rapacious habits.
 
-**LUCAS VON BECK, FOLLOWER OF FLAMBEAU**
+**Lucas von Beck, follower of Flambeau**
 
 **Age:** 45 (Journeyman)<br>
 **Personality Traits:** Aggressive +3, Morbid +2, Blunt +1
 
 Lucas von Beck of House Flambeau is the son of a German altgraf, and seems unwilling to put aside his noble lifestyle, despite being considered dead by his mundane family. Lucas is a very tall, stocky man who is always dressed in black, although since experiencing a Twilight he has the embarrassing problem of having his clothes disintegrate after excessive spell-casting. He is an expert in Perdo magics, and known for his short temper, being likely to end arguments with mundanes who annoy him with swift and brutal applications of Perdo Corpus spells. He has recently started to study necromancy, finding that his pirate life provides him with ample bodies for research.
 
-**HACHIM AL'KHALEJJ, FOLLOWER OF CRIAMON**
+**Hachim al'Khalejj, follower of Criamon**
 
-**Ag**e: 36 (Journeyman)<br>
+**Age:** 36 (Journeyman)<br>
 **Personality Traits:** Secretive +3, Devout Muslim +2, Introverted +2
 
 Hachim al'Khalejj is a bit of an oddity — a quiet, naïve Muslim magus of House Criamon (the filius of Hassan of Fengheld) who seems to have fallen in with the other three aggressive magi purely by chance. Still, their raiding allows him to live in an opulent lifestyle, and his knowledge of astrology proves very useful to the other magi in planning their raids. Hachim dresses in purloined silks, favoring cream and blue, and walks with a limp.
@@ -2131,7 +2131,7 @@ Recently the magus Theoderich of House Jerbiton (see Chapter 9: The Eastern Marc
 
 ### Magi
 
-**HENRI DE TOURS, FOLLOWER OF JERBITON**
+**Henri de Tours, follower of Jerbiton**
 
 **Age:** 66 (Master)<br>
 **Personality Traits:** Ambitious +3, Diplomatic +3, Scheming +2
@@ -2149,21 +2149,21 @@ Brunhilda, Henri's wife, is a matronly and insightful woman originating from Swe
 >
 >(Base 5, +1 Eye, +2 Sun, +1 complexity)
 
-**GUNHILDA HENRASDOTTIR, FOLLOWER OF JERBITON**
+**Gunhilda Henrasdottir, follower of Jerbiton**
 
 **Age:** 31 (Journeyman)<br>
 **Personality Traits:** Loyal to Family +3, Compassionate +1, Independent -2
 
 Gunhilda Henrasdottir, of House Jerbiton, is Henri's daughter and filia, a rather plump young maga specializing in housecraft. She suffers from being excessively sheltered by her parents, but her marriage to Estrid offers her a taste of excitement.
 
-**ESTRID DANESSON, MAGUS EX MISCELLANEA**
+**Estrid Danesson, Magus ex Miscellanea**
 
 **Age:** 36 (Journeyman)<br>
 **Personality Traits:** Extroverted +2, Energetic +1, Conciliatory –3
 
 Estrid is a relatively recent recruit and is the second Scandinavian wizard to be successfully absorbed by the covenant. Born in Ribe in Denmark, he is the younger cousin and bitter enemy of Eric Ribecus at Waddenzee. Whereas Eric began his Hermetic training early, Estrid joined the Order of Hermes much later, as a hedge wizard specializing in sailing and weather magics. The two magi have battled more than once on the open seas, although it has not yet come to a full Wizard War. A flamboyant and roguish man — the opposite of his rather demure wife — he maintains his sanctum and laboratory on his ship, being more often away at sea than in Lübeck.
 
-**MARCUS NAVICULARIUS, FOLLOWER OF VERDITIUS**
+**Marcus Navicularius, follower of Verditius**
 
 **Age:** 58 (Master)<br>
 **Personality Traits:** Proud of his Abilities +3, Skillful +1, Friendly –2
@@ -2257,14 +2257,14 @@ Marcus, a large, stern-faced man with iron-gray hair and beard, is known as the 
 
 
 
-**CAROLUS, FOLLOWER OF JERBITON**
+**Carolus, follower of Jerbiton**
 
 **Age:** 35 (Journeyman)<br>
 **Personality Traits:** Analytical +2, Idealistic +1, Organized –3
 
 Carolus is a well-intentioned but scatterbrained young magus who poses as an eccentric scholar, sometimes lending his services to those city folk with a penchant for education. A somewhat naïve recent stay at Crintera, in an attempt to repair relations with the Rügen covenant, turned sour when his raven familiar, believed to be spying, was blinded by Caprea of Bjornaer, a guest maga there. In fact there was a raven spying at Crintera, although it was actually Kolkrabus, the devious familiar of Murion (see Chapter 6: The Black Forest, Durenmar). Caprea was fooled and her wrath was misdirected at Carolus' familiar instead.
 
-**BORIS OF NOVGOROD, FOLLOWER OF MERCERE**
+**Boris of Novgorod, follower of Mercere**
 
 **Age:** 37 (Journeyman)<br>
 **Personality Traits:** Indolent +2, Avaricious +1, Talkative +1
@@ -2514,7 +2514,7 @@ Fengheld is home to one of the Rhine Tribunal's two Mercer Houses (see *Houses o
 
 ### Magi
 
-**STENTORIUS, FOLLOWER OF TREMERE**
+**Stentorius, follower of Tremere**
 
 **Age:** 107 (Archmage)<br>
 **Personality Traits:** Proud +3, Stickler for Rules +2, Forgiving –3
@@ -2527,14 +2527,14 @@ Stentorius is a large man, nearly a hundred years from his apprenticeship, but b
 
 His familiar of more than half a century is a supremely arrogant large gray cat by the name of Oswald. He wears a bejeweled golden pendant crafted for him by Stentorius (imbued with multiple uses of *Aura of Rightful Authority*, amongst other effects) and seriously considers himself the ruler of Fengheld and all its inhabitants, if not the whole Tribunal. When he deigns to visit Durenmar, he is much annoyed by the taunting of Kolkrabus, the raven familiar of Murion. Oswald believes Murion has usurped his human's rightful role as the leader of the Oak Gild.
 
-**HORST, FOLLOWER OF MERCERE**
+**Horst, follower of Mercere**
 
 **Age:** 68 (Master)<br>
 **Personality Traits:** Widely-Read +3, Fascinating +2, Political –3
 
 Horst is a famed author who has written books of high quality on a huge range of subjects, both mundane ones and on Magic Theory (despite having no Gift). His books are usually the mainstay of a Rhine magus' apprenticeship, and he is considered almost encyclopedic in his knowledge. The corpulent Redcap is asked to use his prodigious memory at Tribunals to recall obscure points of Hermetic law, and his vast knowledge about the business of the Order would be a great asset to Fengheld, were Horst not completely apolitical. Horst is the senior Redcap of the Rhine Tribunal, overseeing the Mercer House, and many Redcaps may be found here, resting from their journeys.
 
-**EULE, FOLLOWER OF BJORNAER**
+**Eule, follower of Bjornaer**
 
 **Age:** approximately 160 (Master)<br>
 **Personality Traits:** Owlish +6, Apathetic +3, Wise +3
@@ -2543,28 +2543,28 @@ A contender for the oldest magus in the Tribunal (along with Caecilius of Durenm
 
 Only her filius (Günther Lupus) suspects that Eule has entered Final Twilight. She has not taken her human form for many years, and has not spoken for even longer. The myth of her wisdom has been perpetuated by a fraud set up by Günther; in the floor of the room where she receives her visitors is hidden a magic item with a low level (but very high Penetration) Perdo Mentem effect that calms the mind and removes emotion. With a few verbal promptings by Günther (who is "interpreting" his mistress' hoots), her petitioners usually manage to find their own answers to their quandaries, but attribute the solution to Eule's wisdom.
 
-**PETER VON WÜRZBURG, FOLLOWER OF VERDITIUS**
+**Peter von Würzburg, follower of Verditius**
 
 **Age:** 62 (Master)<br>
 **Personality Traits:** Charming +3, Generous +2, Industrious +2
 
 Peter is a famed grower of grapes and maker of wine, both within the Order and among the nobles of southern Saxony and Thuringia. A number of minor magical items assist in the cultivation of the grapes that cover Fengheld's southern slopes, which would otherwise struggle at this relשtively northerly latitude; he cultivates special varieties into wine as Charged Items. His squirrel familiar is as industrious as he is, and they are often seen together, tying up the vines with twine, testing their sweetness and fertilizing the soil. Peter is often the first magus met by visitors to Fengheld as he tends to his precious grapes.
 
-**DORANA, FOLLOWER OF BONISAGUS**
+**Dorana, follower of Bonisagus**
 
 **Age:** 76 (Master)<br>
 **Personality Traits:** Hedonistic +2, Peaceful +1, Secretive –2
 
 Dorana is the foremost maga of the lineage of Irmele filia Trianoma in the Tribunal, having settled down at Fengheld after several decades of travel as a peregrinator, during which time she accumulated a detailed knowledge of nearly all the Tribunal's covenants and many of its magi. Although she generally argues for rationality and peace in Fengheld's dealings and her viewpoint often prevails — she nevertheless cannot stand her prima Murion. She urges Stentorius to challenge her for the leadership of the Oak Gild, and her close ally Occultes at Durenmar to challenge her for the Primacy of House Bonisagus. Dorana's expertise with weather magics is put to good use as Fengheld's agriculture requires a careful balance of sun and rain, with occasional thick fog to deter unwanted visitors. Her latest apprentice Felicia (see Chapter 3: The Rhine Tribunal, Upon Being a Rhine magus) has just completed her Gauntlet and set out on her travels.
 
-**BALASTOR, FOLLOWER OF CRIAMON**
+**Balastor, follower of Criamon**
 
 **Age:** 26 (Journeyman)<br>
 **Personality Traits:** Feral +3, Mischievous +3, Contempt for Humanity +2
 
 Balastor believes that enlightenment may only be gained by throwing off the shackles of mundanity. He was born feral, and his master noticed a powerful vital spirit, which dwindled as Balastor learned to speak and took on the other trappings of humanity. Now, Balastor seeks to return himself (and others, whether they want to or not) to that primal state. His Warped Magic causes his features to take on a savage, feral cast when he uses his magic, which is concentrated on releasing suppressed emotions and behavior. He is a mischievous, puckish figure who delights in causing trouble amongst selfimportant mundanes; nevertheless, his philosophy is in concordance with the Hawthorn Gild.
 
-**BEECHLEAF, FOLLOWER OF MERINITA**
+**Beechleaf, follower of Merinita**
 
 **Age:** 20 (Journeyman)<br>
 **Personality Traits:** Otherworldly +2, Suspicious +2, Naive +1
@@ -2740,21 +2740,21 @@ All the magi of the putative covenant of Heorot originate in the Rhine Tribunal,
 
 ### Magi
 
-**SIGNUM IRRUPTUS, FOLLOWER OF CRIAMON**
+**Signum Irruptus, follower of Criamon**
 
 **Age:** 53 (Master)<br>
 **Personality Traits:** Brave +3, Obsessed +3, Mindful of Danger –2
 
 The leader of the covenant, Signum Irruptus is fascinated with the trolls, who he believes to be descended from degenerate gods. This obsession has so far lead to the death of 14 grogs and the loss of Signum's own left arm, yet nevertheless he still pursues his dangerous studies.
 
-**THEODERICH OF AUGSBURG, FOLLOWER OF JERBITON**
+**Theoderich of Augsburg, follower of Jerbiton**
 
 **Age:** 37 (Journeyman)<br>
-**Personality Traits:** Morbid +3, Inquistive +2, Laconic +1
+**Personality Traits:** Morbid +3, Inquisitive +2, Laconic +1
 
 Formerly a member of Oculus Septentrionalis, Theoderich is a necromancer and a historian, who raises the ghosts of dead men to interrogate them about the past. Much to his chagrin, he has not found the remains of either King Hrothgar or Beowulf.
 
-**PANCRESTIS FILIUS OCCULTES, FOLLOWER OF BONISAGUS**
+**Pancrestis filius Occultes, follower of Bonisagus**
 
 **Age:** 28 (Journeyman)<br>
 **Personality Traits:** Ambitious +3, Fearful of Wilderness +2, Decisive –2
@@ -2844,7 +2844,7 @@ Apart from the Seats of the Wolf and the Bear, there are also the seats of the H
 
 ### Magi
 
-**URGEN, FOLLOWER OF BJORNAER**
+**Urgen, follower of Bjornaer**
 
 **Age:** 114 (Archmage)<br>
 **Personality Traits:** Quick-Tempered +5, Authoritarian +4, Peaceful –4
@@ -2926,28 +2926,28 @@ Urgen holds the Seat of the Bear. He was the Primus of the House from 1165 to 12
 
 
 
-**JON ARNSSON, FOLLOWER OF BJORNAER**
+**Jon Arnsson, follower of Bjornaer**
 
 **Age:** 98 (Master)<br>
-**Personality Traits:** Pious +3, Conflicted
+**Personality Traits:** Pious +3, Conflicted Loyalties +2, Peaceful +2
 
 Jon Arnsson serves the council on the Seat of the Stag. He assumed this role at the Gathering of Twelve Years in 1167, little suspecting that the job of protector of the covenant would become so important in the following year. Jon has an additional problem in that he is a devout Christian, and as such believes that the invasion by King Valdemar I was righteous, supported as it was by the Church. As he is also fiercely loyal to Crintera, his loyalties are seriously divided. Needless to say, despite his genuine faith, his ideas would be considered heretical by any other Christian. Jon has the heartbeast of a lion, although by nature he is gentle and detests violence — but he sees the need for it in some circumstances. Apart from Urgen, Jon is the eldest member of the council, and a fervent Harmonist. In his role as protector, he takes it upon himself to participate in Marches against members of his House, if feasible.
 
-**PHYLLIA, FOLLOWER OF BJORNAER**
+**Phyllia, follower of Bjornaer**
 
 **Age:** 58 (Master)<br>
 **Personality Traits:** Curious +3, Restless +1, Discreet –3
 
 Phyllia is the Eagle Elder, in charge of keeping the council informed of the doings of the rest of the Order. She travels widely and has contacts all over the Tribunal (and beyond), but is a notorious gossip and largely incapable of keeping any secrets she discovers to herself. She has the heartbeast of a polecat, and believes in the Harmonist viewpoint.
 
-**ARDEA, FOLLOWER OF BJORNAER**
+**Ardea, follower of Bjornaer**
 
 **Age:** 83 (Master)<br>
 **Personality Traits:** Neutral +2, Serene +2, Hungry for Knowledge +1
 
 Ardea holds Seat of the Swan, and has the heartbeast of a heron, like all who take this seat. She is quiet and contemplative, and rarely offers an opinion on political matters. Thus far she has studiously avoided committing herself to either the Harmonist or Wilderist viewpoint, knowing that her opinion holds much weight with others, famous as she is for her foresight and her divinatory powers. She has the thirst for magical knowledge that might be expected of members of House Bonisagus rather than Bjornaer.
 
-**ISTVAN PADAS, FOLLOWER OF BJORNAER**
+**Istvan Padas, follower of Bjornaer**
 
 **Age:** 48 (Master)<br>
 **Personality Traits:** Hot-Headed +3, Brave +2, Subtle –2
@@ -3165,7 +3165,7 @@ The Faerie Might of a caricature varies. It often becomes higher over time, up t
 
 ### Magi
 
-**HANDRI, PRIMUS OF HOUSE MERINITA**
+**Handri, Primus of House Merinita**
 
 **Age:** 81 (Master)<br>
 **Personality Traits:** Obsessively Secretive +6, Indecisive +1, Secure in Position –2
@@ -3218,35 +3218,35 @@ Handri, the Primus of House Merinita, is a secretive man who shares his concerns
 
 
 
-**VINARIA, FOLLOWER OF MERINITA**
+**Vinaria, follower of Merinita**
 
 **Age:** 97 (Archmage)<br>
 **Personality Traits:** Enigmatic +3, Self-Assured +3, Hostile –3
 
 Vinaria was the previous Prima of the House, but she stepped down after being outmaneuvered in its politics by her successor, Handri. Initially, it was claimed that she had entered "Faerie Twilight," but seven years later she returned with no apparent change in her appearance or personality. Secretly, Handri is scared of her — since her return he feels that she has an inner strength that never existed before. He avoids her at all costs, and even allows her to do what she wants without interference. Vinaria is politically strong — in her days as Prima, she held long councils with many of the other Primi, and is exceptionally good at manipulating these contacts to her own ends. Her caricature was the faerie king of Irencillia, who is now Handri's caricature; since her return, she has mysteriously not acquired another, which is another cause of unease for Handri. Her magic is particularly strong in the raw elemental arts, although her spells are always clothed in beautiful glamour.
 
-**GLESIG, FOLLOWER OF MERINITA**
+**Glesig, follower of Merinita**
 
 **Age:** 62 (Master)<br>
 **Personality Traits:** Impatient +2, Friendly +1, Tolerant of Fools –2
 
 Glesig is considered to be the member of House Merinita who is most versed in the subterranean fae. She is a massiveboned maga with plain features, although her hair appears to be made of threads of shining copper due to Twilight. Naturally, she specializes in Terram magics. Her caricature, Humnel, has taken the seeming of an immense troll, and Glesig has made him into her faerie familiar. Humnel is very protective of his mistress and particularly dislikes her being insulted.
 
-**IACOB, FOLLOWER OF MERINITA**
+**Iacob, follower of Merinita**
 
 **Age:** 43 (Master)<br>
 **Personality Traits:** Independent +2, Suspicious +1, Talkative –2
 
 Iacob filius Handri is the most politically active magus of Irencillia (excepting perhaps Vinaria), being the somewhat precocious leader of the Elder Gild. He is also in charge of a secret project conceived by Handri upon his succession to the position of Primus of House Merinita — to establish a religion in the name of the fae. Iacob is careful not to reveal any magical powers to the mundanes; nevertheless, should the Quaesitores find out about the scheme they will be deeply unhappy. Iacob is a master of Mentem magics, achieving that rank at a notably young age, and has invented a number of spells that implant thoughts and ideas in the minds of his targets. He is a tall man, apparently in his early thirties (but actually a decade older), who has a charming personality and an almost hypnotic voice. His caricature is Nestor, a white crow who accompanies him on his travels.
 
-**GRAVIS, FOLLOWER OF BONISAGUS**
+**Gravis, follower of Bonisagus**
 
 **Age:** 33 (Journeyman)<br>
 **Personality Traits:** Cheerful +2, Driven +2, Sensitive +1
 
 Gravis has come to Irencillia to pursue his life-long fascination with the fae. He is from House Bonisagus, and has found it particularly frustrating that he has been unable to grasp even the basics of Faerie Magic, despite having a knowledge of Faerie Lore that exceeds that of many Merinita magi. Gravis has avoided becoming bitter, however, and still works toward his goal. His caricature Danket is almost his opposite; a grumpy, stick-thin dwarf with a perpetual scowl that contrasts with Gravis' chubby frame and sunny dispostion.
 
-**RICHENDA SPINOSA, FOLLOWER OF FLAMBEAU**
+**Richenda Spinosa, follower of Flambeau**
 
 **Age:** 28 (Journeyman)<br>
 **Personality Traits:** Bitter +3, Prickly +2, Fae –2
@@ -3308,14 +3308,14 @@ Archmage Igor Rastvan leads the covenfolk of Roznov in the worship of the pagan 
 
 ### Magi
 
-**IGOR RASTVAN, MAGUS EX MISCELLANEA**
+**Igor Rastvan, Magus ex Miscellanea**
 
 **Age:** 101 (Archmage)<br>
 **Personality Traits:** Devoted to Radegast +6, Overconfident +2, Peaceful –2
 
 Rastvan is about 80 years from his Gauntlet, but is still hale in body and (apparently) mind. He has black curly hair and a beard that reaches to his waist and has only a few wisps of gray. He wears elaborately embroidered robes at all times, which depict mythological scenes and denote his rank as priest of Radegast. Rastvan is the filius of one of the founders of Roznov, and possibly the only archmage of his House. His magic draws deeply from the Slavic traditions of cursing magic, and he is feared for his ability to slay his victims from afar. Many of his spells have a non-Hermetic ritual element that draws power from leading a pagan ceremony of many worshippers — the more worshippers, the more power he can achieve. Rastvan's ambitions revolve around his god; he desires to assert dominance over the Slavic lands, united under the worship of Radegast. This obsession has grown stronger in recent years, and his filii fear that his overwhelming zeal is a symptom of a mind unhinged by Twilight.
 
-**SEVERICUS, FOLLOWER OF TREMERE**
+**Severicus, follower of Tremere**
 
 **Age:** 77 (Master)<br>
 **Personality Traits:** Unyielding +3, Obsessive +2, Sympathetic –2
@@ -3778,7 +3778,7 @@ The prosperous town of Oberwesel lies two miles downstream from Kaub, on the lef
 >Over the last couple of generations, the Katzenelnbogen family has expanded prodigiously from their relatively humble beginnings in a backwater territory on the east bank of the Rhine. Their aggressive castle-building and recent intrusion into the Rhine Gorge has caused the archbishops some considerable consternation. The current count, Dieter II, is a tall, proud, but not particularly pious man, with a fondness for tournaments and warfare.   Like his forefathers, he has a great love of the ruthless accumulation of territories and castles, and it would be very easy to make an enemy of him. With considerable respect and care, however, the player characters may alternatively become an ally — he has no bones about dealing with wizards, if they prove to be of use.
 
 > #### Wolkan
->**Characteristics:** Int +1, Per +1, Pre -1, Com +1, Str +1, Sta +1, Dex +2, Qik +2<br>
+>**Characteristics:** Int +1, Per +1, Pre –1, Com +1, Str +1, Sta +1, Dex +2, Qik +2<br>
 >**Size:** 0 <br>
 >**Age:** 23<br>
 >**Decrepitude:** 0<br>
@@ -4004,8 +4004,8 @@ If the Trumpet of Ghostly Summoning is played here, at night, the ghosts of thre
 > #### Story Seed: The Amphitheater
 >The clues are present that may allow the magi to piece together the secret of this site and enable them to harvest vis here: The 1248 AA excerpt from the Tribunal records suggests the existence of a vis source not far from Trier, which may lead them to investigate the amphitheater and thus detect the presence of a weak Magic aura and the faint traces of ghosts. This in turn may lead them to try out the trumpet found in Arliandus' sanctum.
 
-> #### Ghostly Gladiators
->**MARCUS THE VALIANT**<br>
+> ### Ghostly Gladiators
+> #### Marcus the Valiant
 >**Magic Might:** 20<br>
 >**Characteristics:** Int 0, Per 0, Pre +1, Com +2, Str +2, Sta +3, Dex +3, Qik +2<br>
 >**Size:** 0<br>
@@ -4018,7 +4018,7 @@ If the Trumpet of Ghostly Summoning is played here, at night, the ghosts of thre
 > **Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)<br>
 > **Appearance**: Marcus is the leader of the three gladiators. He is a stocky man equipped to fight as a *hoplomachus* with a round shield, a manica on his right arm, greaves on his left leg, a gladius, and an ornamented, brimmed bronze helmet.
 >
-> **CYRILLUS OF ARGENTORATUM**<br>
+> #### Cyrillus of Argentoratum
 > **Magic Might**: 20<br>
 > **Characteristics:** Int 0, Per 0, Pre +1, Com +1, Str +2, Sta +2, Dex +2, Qik +4<br>
 > **Size:** 0<br>
@@ -4032,7 +4032,7 @@ If the Trumpet of Ghostly Summoning is played here, at night, the ghosts of thre
 > **Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)<br>
 > **Appearance**: This combatant is a wiry, dark-haired figure armed as a *retetarius*, with a trident and a net. His shoulder is protected by a galerus (metal shoulder guard) and his left arm by a manica (heavy linen quilting). He wears a copper mask of Poseidon.
 >
-> **CAUDELIX THE GAUL**<br>
+> #### Caudelix the Gaul
 > **Magic Might**: 20<br>
 > **Characteristics:** Int 0, Per 0, Pre +1, Com 0, Str +5, Sta +4, Dex +2, Qik +1<br>
 > **Size:** +1<br>

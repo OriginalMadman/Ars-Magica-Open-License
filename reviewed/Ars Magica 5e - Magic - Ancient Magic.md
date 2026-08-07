@@ -16,6 +16,7 @@ A sourcebook on the secrets of the magi of the past for Ars Magica Fifth Edition
 > - Anna-Maria was *interred*, was "interned".
 > - Their *conversations* in En-Dor Regio Level One, was "conversions".
 > - *Book of the Watchers* was sometimes called "Book of Watchers".
+> - *Serpent-dryad* have a "Magic Might of 5" in the text, added to the statblock for easier access.
 > - uniformized spellings: *Araquiel*, *Hespera*, *Philip*, *Hecataeus*.
 > - corrected various typos and verb tense.
 > - many minor structural words added.
@@ -3507,6 +3508,8 @@ The story poses many questions:
 
 > ### Serpent-dryad Base Scores
 >
+> **Magic Might:** 5
+>
 > **Characteristics:** Int +2, Per +2, Pre +1, Com +1, Str –2, Sta 0, Dex +2, Qik +3
 >
 > **Size:** –4
@@ -3824,7 +3827,9 @@ Through Azai, Apollo gives and governs life and self. The beautiful light is the
 
 *Herbam*: growth
 
-*Ignem*: daytime, light, sunshine *Mentem*: authority, ghosts, love, respect, spirits
+*Ignem*: daytime, light, sunshine
+
+*Mentem*: authority, ghosts, love, respect, spirits
 
 *Terram*: gold
 
@@ -3886,7 +3891,9 @@ The emotions of Apollo Eloure are deep and momentous, and are a guide towards tr
 
 ##### Principles
 
-*Aquam*: lakes, oceans, rain, rivers *Corpus*: blood, breasts, fertility, the stomach
+*Aquam*: lakes, oceans, rain, rivers
+
+*Corpus*: blood, breasts, fertility, the stomach
 
 *Herbam*: fertility
 
@@ -3932,9 +3939,21 @@ Iaó is Apollo's sensitivity, delight in pleasure, and his beauty. Through Iaó,
 
 ##### Principles
 
-*Aquam*: cold, damp, the sky *Auram*: wind, sweet smells *Corpus*: disease, hearing, hunger, sight, taste, veins *Imaginem*: hearing, sight *Mentem*: affection, attraction, creativity, pleasure *Terram*: copper, emeralds
+*Aquam*: cold, damp, the sky
 
-*Vim*: auras, sensing magical effects *Other*: cleanliness, harmony
+*Auram*: wind, sweet smells
+
+*Corpus*: disease, hearing, hunger, sight, taste, veins
+
+*Imaginem*: hearing, sight
+
+*Mentem*: affection, attraction, creativity, pleasure
+
+*Terram*: copper, emeralds
+
+*Vim*: auras, sensing magical effects
+
+*Other*: cleanliness, harmony
 
 #### Example Iaó Effects
 
@@ -4072,7 +4091,9 @@ Apollo the fire breather is the ambitious conqueror, tyrant, and general. Psyrin
 
 *Ignem*: heat
 
-*Mentem*: aggression, conflict, willpower *Terram*: arsenic, diamond, iron, ruby
+*Mentem*: aggression, conflict, willpower
+
+*Terram*: arsenic, diamond, iron, ruby
 
 #### Example Psyrinpheu Effects
 
