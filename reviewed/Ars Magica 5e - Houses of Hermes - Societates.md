@@ -4179,7 +4179,7 @@ Without the Mystery Virtue of Hermetic Theurgy, this spell must have a level of 
 
 (General effect, +4 Arc, see *The Mysteries Revised Edition*, Chapter 9: Hermetic Theurgy for more details)
 
-> ## ANew Corpus Guidelines
+> ## New Corpus Guidelines
 >
 > **Creo Corpus**
 >
