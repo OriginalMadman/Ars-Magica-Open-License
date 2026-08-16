@@ -51,7 +51,12 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - Style inconsistency with hyphenation: Long-Term/Long Term/longterm (partly fixed); as well as Brother-Knight, Long-Winded, Simple-Minded and likely some more (none fixed).
 - Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 - Often inconsistent use of punctuation in lists (only occasionally fixed).
+- p3, p434: "middle ages" should be capitalized as a standard historical term, as it is in the rest of DE. (fixed)
+- p5: Grammar: "Adventures are occasional interruption in their lives" should be "interruptions" as subject is plural (fixed)
+- p5: Grammar: "Stories and Sagas, provides advice" should be "provide" as subjects are plural (fixed)
 - p5: "Structure of the Book" section dropped "over months or years, including character" from the Chapter 10 description, leaving "covers things that happen to the characters improvement, aging and death" (fixed)
+- p7: Inconsistent use of "zeros" and "zeroes". In p7 Stress die table "zeros" is used, but it's "zeroes" throughout rest of DE. Technically both are allowed in modern English, but here it's inconsistent. (not fixed)
+- p10: Grammar: Subject–verb error: "...he captured them, demanding that they taught him..." should be "teach" (fixed)
 - p12-14: Cluster of v/y and letter-swap OCR errors in Chapter 2 (Order of Hermes): "Biornaer" for "Bjornaer" (twice), "LAH-nav-ah" for "LAH-nay-ah", "GWAIR-neekuss" for "GWAIR-nee-kuss", "KWAEsee-tor" for "KWAE-see-tor", "Ouaesitor(es/s)" for "Quaesitor(es/s)" (three instances), and a dropped em-dash before "including most members of the House" (all fixed)
 - p15: "un Gifted" should be "unGifted"; "the domus magna of the House. Magvillus" should be "...House, Magvillus" (comma, not a full stop); "Hedvosmos"/"labvrinth" should be "Hedyosmos"/"labyrinth" (all fixed)
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
@@ -70,6 +75,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p160: Memorization Ease Factors table used non-breaking spaces for padding (fixed)
 - p175: "the older magican give orders" should be "the older magi can give orders" (fixed)
 - p179: "a group of buildings in a clearing in forest" appears in the source PDF; likely missing "a" before "forest" (not fixed)
+- p183: Prestige: misspelling: "Reptuation" (fixed)
 - p189: "the Quaesitores may take an interest it" appears in the source PDF; likely missing "in" before "it" (not fixed)
 - p197: "guestions" should be "questions" and "menat-arms" should be "men-at-arms" (fixed)
 - p198: "selforganize" should be "self-organize" (fixed)
@@ -99,6 +105,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p340, p348, p353: Muto Herbam Guidelines, Creo Imaginem Guidelines, and Creo Mentem Spells headings were one Markdown heading level too high (fixed)
 - p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
+- p383: Logic error in the example, the character has Shapeshifter 3, Dowsing 4 and The Gift - but the Teacher is required to manage a source quality including +3 for Enchanting Music while not for Shapeshifter. This is likely a carryover from another example and should be Shapeshifter +3. (fixed)
 - p385: Training creature loyalty rules say "at least equal to level of the Lab Text" in the source PDF, likely missing "the" before "level" (not fixed)
 - p386: Training creature example had "and be then commands" instead of "and he then commands" (fixed)
 - p388: Mystery Initiation has an extra closing parenthesis after "previous Initiation" in the source PDF (not fixed)
@@ -110,6 +117,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p419: Relic power heading said "SCOURCING THE INFERNAL" instead of "SCOURGING THE INFERNAL" (fixed)
 - p420: Regiones section had a missing space after comma in "phenomenon,imagine" (fixed)
 - p421: Magic in Regiones heading had title-case inconsistency (fixed)
+- p435,p441: It was highlighted on Atlas Forum that there are inconsistencies in Wolf stats and Shapechangers: https://forum.atlas-games.com/t/any-errors-in-definitive-edition/174899/24 (not fixed yet, awaiting clarification/official errata)
 - p446: Dietrich von Bern's power text says "can only to a maximum of +3" in the source PDF, likely missing a verb (not fixed)
 - p448: Portunes heading said "Safe Narbor" instead of "Safe Harbor" (fixed)
 - p465: Stellatus's human-form description had "eves" instead of "eyes" (fixed)
@@ -324,40 +332,40 @@ December 2024
 | Liz Danforth | 31, 33, 115, 265 |
 | Thomas Denmark | 153-154, 200, 222 |
 | Jaume Fabregat | 445, 446, 447, 448, 449, 457, 458, 463, 466, 473, 474, 480, 491 |
-| ENEKO MENICA | 493-494 |
-| EMILIA NEPHEW | 427, 429, 431, 433, 434, 435, 446, 457, 461, 464, 465, 467, 468, 469, 470, 471, 472, 485, 486, 487, 492 |
-| JOSEPHINE NEPHEW | 92, 443, 452, 453, 455, 456  | 
-| DOMINIC REARDON  | 106, 237, 278, 410 |
-| J. SCOTT REEVES  | 79, 436, 491 |
-| ADAM REX       | 89, 246 |
-| JOHN SCOTELLO  | 114, 231, 517 |
-| PAM SHANTEAU   | 234 |
-| DOUG SHULER    | 1-2, 4, 26, 39, 59-60, 155-156, 201-202, 247-248, 299-300, 312, 373-374, 380, 423-424, 513 |
-| MARK "JOCK" SIMPSON | 286, 321, 330, 529 |
-| CHRISTIAN St. PIERRE | 174, 204, 289, 302, 313, 328, 350, 358, 364, 396, 417, 516 | 
-| GREY THORNBERRY | 5, 10, 22, 37, 38, 39, 40, 41, 42, 43, 58, 88, 97, 108, 112, 127, 129, 133, 142, 144, 149, 160, 177, 216, 229, 250, 261, 269, 338, 347, 348, 351, 362, 377, 403, 419, 489, 498, 507, 522, 525 |
-| BRYON WACKWITZ | 62 |
-| MICHAEL WEAVER | 158, 170, 180, 187 |
-| KATHERINE WYMAN | 430, 432, 459 |
+| Eneko Menica | 493-494 |
+| Emilia Nephew | 427, 429, 431, 433, 434, 435, 446, 457, 461, 464, 465, 467, 468, 469, 470, 471, 472, 485, 486, 487, 492 |
+| Josephine Nephew | 92, 443, 452, 453, 455, 456  | 
+| Dominic Reardon  | 106, 237, 278, 410 |
+| J. Scott Reeves  | 79, 436, 491 |
+| Adam Rex       | 89, 246 |
+| John Scotello  | 114, 231, 517 |
+| Pam Shanteau   | 234 |
+| Doug Shuler    | 1-2, 4, 26, 39, 59-60, 155-156, 201-202, 247-248, 299-300, 312, 373-374, 380, 423-424, 513 |
+| Mark "Jock" Simpson | 286, 321, 330, 529 |
+| Christian St. Pierre | 174, 204, 289, 302, 313, 328, 350, 358, 364, 396, 417, 516 | 
+| Grey Thornberry | 5, 10, 22, 37, 38, 39, 40, 41, 42, 43, 58, 88, 97, 108, 112, 127, 129, 133, 142, 144, 149, 160, 177, 216, 229, 250, 261, 269, 338, 347, 348, 351, 362, 377, 403, 419, 489, 498, 507, 522, 525 |
+| Bryon Wackwitz | 62 |
+| Michael Weaver | 158, 170, 180, 187 |
+| Katherine Wyman | 430, 432, 459 |
 | UNSIGNED | 70, 295, 306, 329, 336, 340, 356 |
 
 ### Public Domain Artworks
 
 |                                                  |                                                                                                           |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| ALBERTINA COLLECTIONS ONLINE                     | 74, 196, 224, 334, 499                                                                                    |
+| Albertina Collections Online                     | 74, 196, 224, 334, 499                                                                                    |
 | Belles Heures, The Limbourg Brothers             | 9, 104, 203, 249, 281, 301, 327, 375                                                                      |
-| BOOK OF HOURS, SIMON BENING                      | 182, 495                                                                                                  |
-| CLOISTERS APOCALYPSE                             | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535                          |
+| Book Of Hours, Simon Bening                      | 182, 495                                                                                                  |
+| Cloisters Apocalypse                             | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535                          |
 | Dante's Commedia                                 | 535                                                                                                       |
-| DER NATUREN BLOEME, JACOB VAN MAERLANT           | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568                                           |
+| Der Naturen Bloeme, Jacob Van Maerlant           | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568                                           |
 | Dover Celtic Design Archive                      | 34, 65, 66, 171, 173, 176, 184, 191, 208, 241, 257, 276, 345, 359, 389, 397, 441, 451, 484, 495, 511, 514 |
 | Jean Fouquet                                     | 409                                                                                                       |
-| MASTER OF CATHERINE OF CLEVES, LIEVEN VAN LATHEM | 426                                                                                                       |
-| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS       | 501                                                                                                       |
+| Master Of Catherine Of Cleves, Lieven Van Lathem | 426                                                                                                       |
+| The Metropolitan Museum Of Art Open Access       | 501                                                                                                       |
 | More Beasts                                      | 256, 556, 557                                                                                             |
 | New York Public Library Digital Collections      | 3, 25, 61, 534                                                                                            |
-| THE UNICORN TAPESTRIES                           | 425, 526, 568                                                                                             |
+| The Unicorn Tapestries                           | 425, 526, 568                                                                                             |
 | Wikimedia Commons                                | 96, 119, 252, 308, 392, 463, 505                                                                          |
 | Various Sources                                  | 135, 159, 186, 257, 298, 316, 324, 361, 398                                                               |
 
@@ -421,7 +429,7 @@ Walter did not feel like arguing, and ran to the church, shouting that the faeri
 
 Dragons lair in the mountains, angels watch over the Church, faeries dance in the forests, and demons tempt men and women to their ultimate downfall. The magi of the Order of Hermes live in a world of mythic power, the world of Mythic Europe. Welcome to that world.
 
-Ars Magica is a roleplaying game, wherein you and your friends tell the stories of a group of powerful wizards, magi of the Order of Hermes, and their allies in the world of Mythic Europe. Mythic Europe is much like the Europe of 1220, the middle ages, but dragons, demons, angels, and faeries are all unquestionably real, and no aspect of society is untouched by myth.
+Ars Magica is a roleplaying game, wherein you and your friends tell the stories of a group of powerful wizards, magi of the Order of Hermes, and their allies in the world of Mythic Europe. Mythic Europe is much like the Europe of 1220, the Middle Ages, but dragons, demons, angels, and faeries are all unquestionably real, and no aspect of society is untouched by myth.
 
 Ars Magica is a game about magic, and its rules for magic are widely regarded as the best in any roleplaying game. They combine flexibility and rigor, allowing you to create powerful wizards who can do almost anything, while providing clear guidelines on just how powerful a wizard needs to be to do anything you can think of. The rules also cover the creation of enchanted devices, binding familiars, and training apprentices to carry on your magical legacy. The time an Ars Magica magus spends in his laboratory is at least as important to him as the time he spends on adventures.
 
@@ -439,7 +447,7 @@ Second, most players have more than one character. This is called troupe-style r
 
 Third, the game is normally centered around the place where the characters live, called a covenant, rather than around a wandering group of adventurers. This opens up a whole set of new story possibilities, and the covenant is as much a character in the game as any of the human beings.
 
-Finally, characters in Ars Magica improve over years of game time, and most sagas cover at least a few years of game time. Adventures are occasional interruption in their lives, not everyday activities, and consequences that come years down the road can still have an impact on an ongoing series of connected stories, called a saga. Characters gain experience depending on how many seasons they have lived, not how many adventures they have been on. In many sagas, families grow, children grow up, and characters die of old age. Ars Magica's rules provide plenty of support for the ways that characters can study, learn, and improve over time.
+Finally, characters in Ars Magica improve over years of game time, and most sagas cover at least a few years of game time. Adventures are occasional interruptions in their lives, not everyday activities, and consequences that come years down the road can still have an impact on an ongoing series of connected stories, called a saga. Characters gain experience depending on how many seasons they have lived, not how many adventures they have been on. In many sagas, families grow, children grow up, and characters die of old age. Ars Magica's rules provide plenty of support for the ways that characters can study, learn, and improve over time.
 
 Ars Magica is particularly well-suited to long running sagas, but it can also be played as a one-off, one-session game, or a mini-series of connected stories. Similarly, though the official setting is very similar to historical medieval Europe, apart from all the mythic power around the place, the rule system works well for a magic-centered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
 
@@ -455,7 +463,7 @@ Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all th
 
 Chapter 12, Realms, explains the four different sorts of supernatural power in Mythic Europe, the Divine, Faerie, Infernal, and Magical Realms. Chapter 13, Bestiary, provides a sample of creatures from each of these Realms. Chapter 14, Mythic Europe, provides hints on making your game feel like it happens in the mythic world.
 
-Chapters 15 and 16, Stories and Sagas, provides advice on using the preceding material to actually make a game that the troupe enjoys.
+Chapters 15 and 16, Stories and Sagas, provide advice on using the preceding material to actually make a game that the troupe enjoys.
 
 ## Glossary
 
@@ -632,7 +640,7 @@ The true potential of the Parma Magica was first recognized by the sorceress Tri
 
 Trianoma had a twin sister, Viea. They were trained in magic together, and as they grew, Viea interpreted Trianoma's visions. One of these visions suggested that the isolated magi of Europe would bring about a disaster, unless the sisters could defeat a particular powerful wizard. They searched for this wizard for years, and finally a dragon, said to be in the temple of the Hesperides beyond Ethiopia, told them to seek out a cave in the Alps.
 
-That wizard was Bonisagus. The Parma Magica protected him from their assault, and he captured them, demanding that they taught him their magic, while he taught them in return. Viea refused, but Trianoma agreed, hoping to use the opportunity to defeat Bonisagus. As they studied together, however, she came to have great respect for him. Viea became increasingly jealous, and after a particularly violent fight with her sister, she stole some valuable texts and fled. Trianoma forbade Bonisagus to seek vengeance, realizing that her vision might have meant that she would fight her sister and bring about the disaster. Instead, she proposed founding an order of magi within which such theft would be forbidden.
+That wizard was Bonisagus. The Parma Magica protected him from their assault, and he captured them, demanding that they teach him their magic, while he taught them in return. Viea refused, but Trianoma agreed, hoping to use the opportunity to defeat Bonisagus. As they studied together, however, she came to have great respect for him. Viea became increasingly jealous, and after a particularly violent fight with her sister, she stole some valuable texts and fled. Trianoma forbade Bonisagus to seek vengeance, realizing that her vision might have meant that she would fight her sister and bring about the disaster. Instead, she proposed founding an order of magi within which such theft would be forbidden.
 
 Viea's fate remains unknown.
 
@@ -3608,7 +3616,7 @@ The character manages a trading company that has branches in at least two cities
 
 #### Cathedral School Master
 *Major, Social Status*<br>
-The character teaches at a cathedral school, one of the many that dot Mythic Europe. He is at least (30 – Intelligence) vears old and must have scores of 5 in Latin and Artes Liberales, and a Teaching score of at least 3. He may learn any Academic Ability, and may teach it to his students. He is typically not a university man, but was instructed at a cathedral school. He receives 240 additional experience points, which may be spent on Academic Abilities and Teaching. The character has an Academic Reputation of 2.
+The character teaches at a cathedral school, one of the many that dot Mythic Europe. He is at least (30 – Intelligence) years old and must have scores of 5 in Latin and Artes Liberales, and a Teaching score of at least 3. He may learn any Academic Ability, and may teach it to his students. He is typically not a university man, but was instructed at a cathedral school. He receives 240 additional experience points, which may be spent on Academic Abilities and Teaching. The character has an Academic Reputation of 2.
 
 This Virtue is compatible with the Baccalaureus and Priest Virtues. Characters with higher university degrees should take those Virtues instead; a magister or doctor gains no additional status from teaching at a cathedral school. This Virtue is only available to male characters.
 
@@ -8233,19 +8241,19 @@ Boons are things that make the covenant better. Each Minor Boon costs one point,
 
 **Edifice:** An edifice is any major building erected to inspire awe. Covenants rarely need edifices: they could function equally well with many small buildings, made of cheaper and less ornamented materials. Many covenants, however, have at least one, to mark their wealth and power, to beautify their covenant, to arouse the envy of their peers, and to mark their covenant's priorities. Edifices do not require the Castle Hook unless several of them, grouped together, form a structure as threatening as a castle.
 
-The powerful covenant of Aedes Mercurii in the Provencal Tribunal has two sites, one of which is centered on a majestic stone edifice known as the Temple (*Templum*). The other site is carved out of the Pic du Midi d'Ossau, and contains many spectacular chambers (Faith & Flame, page 83).
+The powerful covenant of Aedes Mercurii in the Provençal Tribunal has two sites, one of which is centered on a majestic stone edifice known as the Temple (*Templum*). The other site is carved out of the Pic du Midi d'Ossau, and contains many spectacular chambers (Faith & Flame, page 83).
 
 **Hidden Resources:** The covenant has 250 Build Points of resources that are not immediately available to the player characters. These might actually be lost within the covenant, or be sections of the library that are only open to more highly-ranked magi. This Boon may be taken multiple times.
 
 **Important Building:** The covenant has an additional large and important building, not mentioned in another Boon. This Boon may be taken multiple times, indicating a new structure each time. These buildings do not normally require the Castle Hook.
 
-**Prestige:** The covenant, and its members, are wellregarded. This may be as a result of previous actions, such as defeating a monster, or because of continuing features of the covenant, such as a superb library. The covenant has a Reptuation score of 3 (see page 28). This Boon may be taken multiple times, with the prestige applying to a different group each time.
+**Prestige:** The covenant, and its members, are wellregarded. This may be as a result of previous actions, such as defeating a monster, or because of continuing features of the covenant, such as a superb library. The covenant has a Reputation score of 3 (see page 28). This Boon may be taken multiple times, with the prestige applying to a different group each time.
 
 **Regio:** The covenant is located in a Magical regio which can be entered in several ways. The covenant may take measures to limit entry into the regio, but these are never perfect. The lost covenant of Val Negra, in the Provençal Tribunal, was one of the first covenants of the Order, founded by Flambeau himself, but it suffered greatly in the Schism War and now even its precise location is lost. It is generally believed to have been in a regio, and to have been lost because people forgot how to enter it (Faith & Flame, Chapter 9).
 
 **Seclusion:** The covenant is in a very remote location, and very rarely gets visitors. This Boon cannot be taken in conjunction with the Road or Urban Hooks, and may be inappropriate for other Hooks. Redcaps still come to the covenant; this Boon restricts the number of random visitors.
 
-**Shell Keep (requires Castle):** The shell keep is a modification of the motte and bailey castle. A motte is an artificial mound of earth, between ten and one hundred feet tall, on which a wooden tower is built. This tower overlooks and defends a courtvard that is surrounded by a ditch, embankment and wooden palisade. This courtyard is called the bailey. Some noblemen still build motte and bailey castles in 1220, although Hermetic magi rarely do.
+**Shell Keep (requires Castle):** The shell keep is a modification of the motte and bailey castle. A motte is an artificial mound of earth, between ten and one hundred feet tall, on which a wooden tower is built. This tower overlooks and defends a courtyard that is surrounded by a ditch, embankment and wooden palisade. This courtyard is called the bailey. Some noblemen still build motte and bailey castles in 1220, although Hermetic magi rarely do.
 
 Most motte and bailey castles have been strengthened since their creation with stonework. A problem for a nobleman planning improvements is that the motte dominates the bailey, and so cannot be ignored, but is not strong enough to hold a stone tower keep of the style found in more modern castles. They usually build a shell keep.
 
@@ -8257,7 +8265,7 @@ The wooden palisade around the bailey has also been replaced, by a thick stone w
 
 As an example of size, the two largest keeps of each type in Britain are Pembroke and Colchester. Pembroke is 80 feet high, 53 feet in diameter and has walls 16 feet thick at the base. Colchester's keep is 151 feet long, 111 feet wide and over three stories high. Covenants that have works on this scale, which are relatively simple with Hermetic magic, will awe the local nobility.
 
-The great tower of the covenant is surrounded by a courtyard, which contains wooden or stone buildings of no tactical value. The courtvard's wall is made of thick stone, and is about thirty feet high. It is topped with a crenelated walk. A small tower, two stories high, defends the gate.
+The great tower of the covenant is surrounded by a courtyard, which contains wooden or stone buildings of no tactical value. The courtyard's wall is made of thick stone, and is about thirty feet high. It is topped with a crenelated walk. A small tower, two stories high, defends the gate.
 
 **Wealth:** The covenant is wealthy, even by the standards of other magi and the nobility. One existing Typical source of income is upgraded to Greater, providing enough money for the magi and covenfolk to live very comfortably, with a large surplus for spending on luxuries.
 
@@ -8809,7 +8817,7 @@ The Gift is very rare, appearing in perhaps one person in a few thousand. Magi h
 
 The Gift has a strong emotional effect on those around the Gifted person, making them suspicious and mistrustful of the Gifted individual, inspiring envy. As a result, social interactions are very difficult for the Gifted. Some Hermetic magi have the Gentle Gift (a Virtue, see page 82), which does not affect people in this way, while others have the Blatant Gift (a Flaw, see page 120), which has much more intense effects. The Gift also bothers mundane animals, which avoid the Gifted individual as far as possible. The Gift only affects those in the presence of the Gifted individual. Letters from a Gifted individual do not have this effect, nor does a messenger from such an individual, unless the messenger himself has The Gift.
 
-When roleplaying a character dealing with a maga, have him act as though she has a wellestablished reputation for dishonesty and unreliability, and for undeserved privilege of whatever sort is most important to him. Thus, a merchant acts as if he believes that a maga is wealthy through cheating people, while a lord acts as if he believes that the maga is a treacherous vassal who retains her position through bribery or similar. If the maga tries to overcome this reaction through negotiation, she suffers a -3 penalty to any die rolls she must make. Someone without The Gift negotiating on her behalf does not suffer the penalty, but must deal with the mistrust inspired by The Gift. If the maga manages to convince or coerce someone into interacting with her, she suffers the -3 penalty to all rolls and totals based on social interaction, including training, whether the maga is the trainer or the trainee.
+When roleplaying a character dealing with a maga, have him act as though she has a well-established reputation for dishonesty and unreliability, and for undeserved privilege of whatever sort is most important to him. Thus, a merchant acts as if he believes that a maga is wealthy through cheating people, while a lord acts as if he believes that the maga is a treacherous vassal who retains her position through bribery or similar. If the maga tries to overcome this reaction through negotiation, she suffers a -3 penalty to any die rolls she must make. Someone without The Gift negotiating on her behalf does not suffer the penalty, but must deal with the mistrust inspired by The Gift. If the maga manages to convince or coerce someone into interacting with her, she suffers the -3 penalty to all rolls and totals based on social interaction, including training, whether the maga is the trainer or the trainee.
 
 The Blatant Gift has a more intense effect. Treat the Blatantly Gifted character as having a well-established reputation for dishonesty and treachery of a dangerous kind, as well as for the possession of ill-gotten gains. People interacting with a Blatantly Gifted maga are extremely wary and rather hostile. Animals treat her as a threat to be driven away from their territory. If the maga tries to overcome this reaction through negotiation, she suffers a –6 penalty to any die rolls she must make. An unGifted individual negotiating on her behalf suffers no penalty, but must overcome the hostility. If a maga with Blatant Gift interacts with someone, she suffers the -6 penalty to all social rolls and totals, as for the normal Gift.
 
@@ -11934,7 +11942,7 @@ Below are listed some example Features, together with the possible Specializatio
 
 **Antechamber:** A separate enclosure or compartment. Spells may be cast here in a more secure environment. Specializations: Experimentation, Spells, Re.
 
-**Astronomical Device:** A sophisticated tool for measuring the movements of the heavens, often placed near a window or skylight. The most common such item is an astrolabe, and example of a more advanced device is the armillary sphere. Specializations: In, Vi.
+**Astronomical Device:** A sophisticated tool for measuring the movements of the heavens, often placed near a window or skylight. The most common such item is an astrolabe; and example of a more advanced device is the armillary sphere. Specializations: In, Vi.
 
 **Balance:** An exact weighing device, such as a pair of scales. Specializations: Vis Extraction, In, Re.
 
@@ -12081,7 +12089,7 @@ A spell that has a continuing effect remains in effect even if the caster moves 
 
 **Eye:** The magus may target any person or creature that he has established eye contact with. A human being who knows of no reason to avoid eye contact makes it automatically if dealing with the magus in a social setting. The Gift does not make people avoid eye contact. It is impossible to make eye contact with an unwilling human without getting at least two people to hold the victim down. It is effectively impossible to make eye contact with an enemy in combat, they aren't looking at your eyes. It typically takes a combat round to establish eye contact with a calm animal, before the magus can start casting the spell. This adds 1 magnitude to the guideline. (Touch and Eye are the same "level" of range.)
 
-**Voice:** Anything to which the magus's voice carries. Typically, firm words carry about 15 paces, while guiet words are audible within 5 paces and a shout carries about 50. Magical enhancement of the voice does not increase this range, and a spell cast silently at this range can affect only the caster. The range of Ritual and ceremonial spells with Voice Range is about 50 paces, because the process of casting involves a loud voice at some point. Non-human casters, including Bjornaer in Heartbeast form, may have different ranges for their voice. Magical shapeshifting falls under magical enhancement of the voice, however. The range is based on the distance that the caster's voice carries, not on whether the target can hear it. Deaf targets, stones, targets in a noisy environment, and targets under the influence of PeIm spells that stop sounds from reaching them can all be affected at the normal range. However, if the caster is silenced or quietened by magic, the range is reduced. Such a spell must penetrate the caster's Magic Resistance. Magic items use the wielder's voice; independent items need to be given a voice (CrIm) to use this range. The range is established when the spell is cast, and remains the same even if the magus changes the loudness of his voice. Thus, a Voice range spell can allow silent control, but only as long as the target is within the distance that the magus's voice carried when he cast the spell. This adds 2 magnitudes to the guideline.
+**Voice:** Anything to which the magus's voice carries. Typically, firm words carry about 15 paces, while quiet words are audible within 5 paces and a shout carries about 50. Magical enhancement of the voice does not increase this range, and a spell cast silently at this range can affect only the caster. The range of Ritual and ceremonial spells with Voice Range is about 50 paces, because the process of casting involves a loud voice at some point. Non-human casters, including Bjornaer in Heartbeast form, may have different ranges for their voice. Magical shapeshifting falls under magical enhancement of the voice, however. The range is based on the distance that the caster's voice carries, not on whether the target can hear it. Deaf targets, stones, targets in a noisy environment, and targets under the influence of PeIm spells that stop sounds from reaching them can all be affected at the normal range. However, if the caster is silenced or quietened by magic, the range is reduced. Such a spell must penetrate the caster's Magic Resistance. Magic items use the wielder's voice; independent items need to be given a voice (CrIm) to use this range. The range is established when the spell is cast, and remains the same even if the magus changes the loudness of his voice. Thus, a Voice range spell can allow silent control, but only as long as the target is within the distance that the magus's voice carried when he cast the spell. This adds 2 magnitudes to the guideline.
 
 **Sight:** Anything that the magus can see. If the magus is standing on the highest point for miles, this range can be immense. A blind magus can only affect himself. A magic item uses the wielder's sight, independent items need to be able to see (InIm) to use this range. This adds 3 magnitudes to the guideline.
 
@@ -15953,7 +15961,7 @@ Enchanted items can also be native to the Aegis. There are three main classes. T
 
 The Aegis is often cast on the Winter Solstice, as the Magic aura may be slightly higher, and this gives it a full year of duration. It is common for the covenant to hold a celebration for all the covenfolk, and a full council meeting for the magi, immediately after the Aegis is cast.
 
-Aegis of the Hearth was created by Notatus, the first Primus of House Bonisagus. It was a Major Breakthrough (see page 277), incorporating Mercurian rituals as well as Hermetic theory, and was the reason Notatus was chosen to succeed Bonisagus. As a result, the spell is more powerful than it ought to be, and has no Perdo requisite. By 1220, Notatus's discoveries have spread, and any magus in the Order is capable of inventing versions of the Aegis with the above parameters, but different levels or sizes, or both. Inventing a version with different parameters, however, would require at least a Minor Breakthrough, and vears of research.
+Aegis of the Hearth was created by Notatus, the first Primus of House Bonisagus. It was a Major Breakthrough (see page 277), incorporating Mercurian rituals as well as Hermetic theory, and was the reason Notatus was chosen to succeed Bonisagus. As a result, the spell is more powerful than it ought to be, and has no Perdo requisite. By 1220, Notatus's discoveries have spread, and any magus in the Order is capable of inventing versions of the Aegis with the above parameters, but different levels or sizes, or both. Inventing a version with different parameters, however, would require at least a Minor Breakthrough, and years of research.
 
 ##### Circular Ward against Demons
 R: Touch, D: Ring, T: Circle<br>
@@ -16349,7 +16357,7 @@ In order to learn a supernatural ability, the student must reach a score of at l
 
 If the student has had the Hermetic Arts opened (see page 206), he must subtract 15 or the sum of all his Art scores, whichever is higher, from the Source Quality.
 
-*For example, a character has Shapeshifter 3, Dowsing 4, and The Gift. He wants to learn Animal Ken. He must find a character who is willing to teach it to him, despite his Gift, and who can manage a Source Quality of at least 12. If the character has also been opened to the Hermetic Arts, but still has scores of 0 in all of them, he needs to find a teacher who can manage a Source Quality of 27 (15 for the Arts, +3 for Enchanting Music, +4 for Dowsing, +5 for the number of experience points he needs to gain). This is effectively impossible.*
+*For example, a character has Shapeshifter 3, Dowsing 4, and The Gift. He wants to learn Animal Ken. He must find a character who is willing to teach it to him, despite his Gift, and who can manage a Source Quality of at least 12. If the character has also been opened to the Hermetic Arts, but still has scores of 0 in all of them, he needs to find a teacher who can manage a Source Quality of 27 (15 for the Arts, +3 for Shapeshifter, +4 for Dowsing, +5 for the number of experience points he needs to gain). This is effectively impossible.*
 
 Mystery Cults can often avoid the penalty due to prior mystical abilities through their Initiation rituals.
 
@@ -18344,7 +18352,7 @@ Its hide gives it a Protection of +2.
 
 Appearance: The lion is a legendary beast more often depicted in artwork than encountered in the flesh. It can weigh up to 35 stone (490 pounds) and have a body length of over ten feet. It has a short, broad muzzle with powerful jaws and teeth. Its coat is tawny and the male lion has a dark, shaggy mane. The fearsome roar of the lion can be heard from a great distance.
 
-Pliny the Elder writes that, during his time, lions were found in Europe only between the rivers Achelous and Mestus (in Greece), and that they also inhabited Syria and North Africa. The European lion was extinct before the middle ages in historical Europe, but might have survived in Mythic Europe. Pliny writes that there are two kinds of lions: those with long manes, which are bold; and those with curly manes, which are timid. These statistics are for the bold variety. Pliny also notes that the lion will not attack a man who lies prostrate before it.
+Pliny the Elder writes that, during his time, lions were found in Europe only between the rivers Achelous and Mestus (in Greece), and that they also inhabited Syria and North Africa. The European lion was extinct before the Middle Ages in historical Europe, but might have survived in Mythic Europe. Pliny writes that there are two kinds of lions: those with long manes, which are bold; and those with curly manes, which are timid. These statistics are for the bold variety. Pliny also notes that the lion will not attack a man who lies prostrate before it.
 
 The lion can make impressive leaps and gets +3 to jump-related rolls. It can easily leap high enough to attack a man on horseback.
 
@@ -22506,7 +22514,7 @@ I plan to be part of that future, as one creator among many.
 
 ## The Ars Magica Open License
 
-### What is the Open License?
+### What Is the Open License?
 
 The text of **Ars Magica** Fifth Edition and its sourcebooks has been released under an open license: the Creative Commons Attribution-ShareAlike 4.0 International license (also known as CC BY-SA 4.0).
 
