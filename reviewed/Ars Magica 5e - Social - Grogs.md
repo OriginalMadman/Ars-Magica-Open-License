@@ -1,27 +1,36 @@
 # Grogs
+A sourcebook of Servants and Soldiers for Ars Magica Fifth Edition.
 
 > *Open License Markdown version by KelpTheShark, Tugdual & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion State: Throughout the doc headings have been standardized, split text joined, sidebars have been moved to the most appropriate location in their related section, tables have been formatted properly. The table of contents was not hyperlinked. I have added the errata on the website.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
-
-### Identified Issues From Source PDF Release
-
-- Normalized ToC and rebuild inserts.
-- Joined split paragraphs.
-- Careless with (Ability) and Pagan are *Flaws*, text said "Virtues".
-- Master of Kennels and Turb Trained had extra parentheses "(Minor, Social Status)".
-- All Souls' Day given as November 1 (it falls on November 2); left as printed.
-- Starting Characteristics (+12/–5) had seven Characteristics; added an extra 0.
-- Craft Poppets is arcane but is not asterisked; left as is.
-- *Magic Items* is not in chapter 6 but might refer to DE redcap Virtue; left as printed.
-- *Offensive Fighter* is not in chapter 6; left as printed.
-- Pagan: DE reclassified it as a Personality (Major and Minor) Flaw, left as is.
-- Gullible: DE reclassified it as a General Flaw, left as is.
-- Master of (Form) Creatures: DE reclassified it as a Supernatural Virtue, left as is.
+>
+> ### Identified Issues From Source PDF Release
+>
+> - Normalized ToC and rebuild inserts.
+> - Joined split paragraphs.
+> - Careless with (Ability) and Pagan are *Flaws*, text said "Virtues".
+> - Master of Kennels and Turb Trained had extra parentheses "(Minor, Social Status)".
+> - All Souls' Day given as November 1 (it falls on November 2); left as printed.
+> - Starting Characteristics (+12/–5) had seven Characteristics; added an extra 0.
+> - Craft Poppets is arcane but is not asterisked; left as is.
+> - *Magic Items* is not in chapter 6 but might refer to DE redcap Virtue; left as printed.
+> - *Offensive Fighter* is not in chapter 6; left as printed.
+> - Pagan: DE reclassified it as a Personality (Major and Minor) Flaw, left as is.
+> - Gullible: DE reclassified it as a General Flaw, left as is.
+> - Master of (Form) Creatures: DE reclassified it as a Supernatural Virtue, left as is.
 
 ---
+
+They are the majority in almost every covenant, and without them things would come to an immediate halt. They spend their lives serving magi, and may lay those lives down to defend them. They are the cooks, servants, warriors, craftsmen, and hunters who keep the Order of Hermes running smoothly.
+
+They are the magi's trusted grogs.
+
+Grogs have much to offer any saga, from heroic death to comic relief, or even both at the same time. However, creating and maintaining dozens of characters can be a strain on the creativity and patience of even the finest troupes, and so grogs may be overlooked in favor of magi and companions. This book aims to right the balance. It contains dozens of fully developed grog concepts, complete with typical Abilities, and guidelines to simplify creating and maintaining grogs. It also includes suggestions on the roles grogs can play in covenants, and in sagas.
+
+After all, even spear-carriers can leave memories that live forever.
 
 # Credits
 
