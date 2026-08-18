@@ -1,8 +1,21 @@
+# Apprentices
+A sourcebook about apprentices and children in Mythic Europe for Ars Magica Fifth Edition.
+
 > *Open License Markdown version YR & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: Whole book manually fixed, Errata included. Still awaiting second review.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+---
+
+Even the mightiest wizard of the Order of Hermes once cast his very first spell.
+
+The greatest Bonisagus magus of the age was once taught the rudiments of Magic Theory. There was a time when even the dragon-slaying Flambeau faced his fear of the cook to pilfer cakes from the kitchen. And the powerful Mentem maga who now pulls the strings of kings and bishops once pined for a glance from a handsome stableboy.
+
+They were all apprentices once.
+
+This book contains advice and rules for playing apprentices and other children in Ars Magica. It covers changes to character generation and guidelines for development as a child grows up. Rules for teaching Hermetic Virtues are also included, as well as a broad range of spells suited to an apprentice's abilities. See Mythic Europe anew through the eyes of Apprentices.
 
 # Credits
 
