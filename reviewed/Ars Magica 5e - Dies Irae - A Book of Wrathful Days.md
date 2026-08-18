@@ -1,8 +1,23 @@
+# Dies Irae: A Book of Wrathful Days
+A sourcebook about world-ending threats for Ars Magica Fifth Edition
+
 > *Open License Markdown version YR & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: Whole book manually fixed, Errata included. Still awaiting second review.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+---
+
+In Mythic Europe, some wizards serve the terrible powers that ruled the world at the dawn of time, and plot to grant them mastery once more. Others would take everyone to a glorious new existence, careless of whether they want to go. Still more have nothing but the best of intentions, but risk anything to achieve their goals. If they are not stopped, their power will twist and consume the world and all who live in it.
+
+### Let All Be Lost
+
+This book includes four great threats to the world of Ars Magica Fifth Edition, with stories centered around both attempting to stop the disaster, and surviving the aftermath if the characters fail.
+
+Threats presented here reach far beyond a single covenant, or even a single Tribunal; any one of them could lay waste to the whole of the world.
+
+When the fate of the world is truly in their hands, will your characters rise to the challenge... or let everything fall to ash?
 
 # Credits
 
