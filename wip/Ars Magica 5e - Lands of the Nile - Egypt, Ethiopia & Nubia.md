@@ -1,46 +1,65 @@
+# Lands of the Nile: Egypt, Ethiopia & Nubia
+A sourcebook to The lands of the Nile for Ars Magica 5th Edition.
 
-### Identified Issues From Source PDF Release
-
-- Teacher of the House (Mystery Initiation Path), page 61: "This path is for unGifted characters who, according to the rules in Hedge Magic, Revised Edition, must take an Ordeal for every Initiation. However, two of the Initiations do not include Ordeals. Adding Flaws to the path would change the House substantially, so troupes should decide for themselves how to handle this. There is an inconsistency here, but fixing it would require revisions to the background that go beyond the scope of errata." Errata quoted verbatim.
-- New Hooks and Boons, page 142: this was not an insert and was moved to the Table of Content.
-- The Old Man of the Forest: Trunk and Overrun were converted to *Qualities* to match errata.
-- Baboon (Hamadryas): *troop leaders only* was moved to Characteristics to match errata.
-- *Summary: Common Crops Along the Nile* was upgraded to title.
-- Sultan *al-Kamil* is a nephew of Saladin, the Siwa Oasis used "al-Kalil".
-- *Apollonopolis Parva* is Qus, was "Apolloinopolis".
-- *Medri Bahri* is an Ethiopian province of the era, was "Behri Madri".
-- *Al-Zaytun* is a saline lake in Siwa, was "Al-Zayat".
-- *Blemmya* is the singular, *Blemmyae* the plural; normalized.
-- *'Aydhab* is a Red Sea port, Sawakin used "'Aydhad".
-- *Sabaean* is the Ancient South Arabian script, Yeha used "Sabatean".
-- *Amarna* is the city of the heretical pharaohs, was "Armarna".
-- *Catoblepas* Natural Weapons line used "catoplebas".
-- *Dahlak* from Chapters One and Eight, uses "Dahlek" in Chapter Ten; left as is.
-- *Debre Damo* is spelled "Debra Damo" in the Zagwe dynasty section of Chapter Eight; left as is.
-- *Megalobasilikos* from Chapter Seven is spelled "Megabasilikos" in the Glossary; left as is.
-- *Semien Mountains* also appears as "Semien mountains", "Semiens Mountains" and "Semiens mountains"; left as is.
-- *Wabe Shebele* and "Wabe Shebile" are both used in Chapter Eight; left as is.
-- The *Mereb River* is called the "Mareb River" earlier in Chapter Eight; left as is.
-- *Apedemak* is the lion god of Kush, was "Apedamak" and "Apedemek".
-- The *Ptolemies* is the Greek dynasty of Egypt, was "Ptolomies", "Ptolomaic" and "Ptolomey".
-- Pope *Honorius III* preached the Fifth Crusade, was "Honorious".
-- *Agaw* is an Ethiopian kingdom of the era, was "Agew".
-- *Zeila* is a port on the Gulf of Aden, was "Ziela".
-- The *Story Seed: The Siege of Berber* insert has a scrambled clause, "they take it upon themselves to reach get it out"; left as is.
-- The *External Relations* of Siwa Oasis reads "particular entanglements are particularly likely"; left as is.
-- *Shawar* ordered Fustat to be abandoned and burned, was "Sawar".
-- The *Example Akh: Sethos* insert uses both *Soundless Motion* and *Silent Motion*; left as is.
-- The *Pits* entry has a scrambled clause, "add the closest Weapon Damage modifier to the Damage modifier is added to the falling damage before Soak"; left as is.
-- The *Farming Year* insert reads "Balsam is teared out" for September; left as is.
-- The *Zagwe Dynasty* section mentions "Agwe nobility", which might be Agaw or Zagwe; left as is.
-- *Ayyubid* invasion of Nubia in 1172 is sometimes from "Abbasid"; left as is.
-- Resources Hook *Linked Vis Site* is called "Linked Vis Sources" in Adulis; left as is.
-- *Unwitting Defenders* (Major/Minor Resources Boon) is "Minor External Relations Boon" in Adulis; left as is.
-- *Artanyeszame* is Might 16 (136 points), his court strength increased to 181 points after his transformation.
-- *Ikhmindi* has 6 Boons and 9 Hooks but "There are six Boons and eight Hooks selected for Ikhmindi"; left as is.
-- various other typos
+> *Open License Markdown version by Tugdual & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+>
+> *[Completion state: Whole book fixed and reviewed.]*
+>
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+> 
+>
+> ### Identified Issues From Source PDF Release
+>
+> - Teacher of the House (Mystery Initiation Path), page 61: "This path is for unGifted characters who, according to the rules in Hedge Magic, Revised Edition, must take an Ordeal for every Initiation. However, two of the Initiations do not include Ordeals. Adding Flaws to the path would change the House substantially, so troupes should decide for themselves how to handle this. There is an inconsistency here, but fixing it would require revisions to the background that go beyond the scope of errata." Errata quoted verbatim.
+> - New Hooks and Boons, page 142: this was not an insert and was moved to the Table of Content.
+> - The Old Man of the Forest: Trunk and Overrun were converted to *Qualities* to match errata.
+> - Baboon (Hamadryas): *troop leaders only* was moved to Characteristics to match errata.
+> - *Summary: Common Crops Along the Nile* was upgraded to title.
+> - Sultan *al-Kamil* is a nephew of Saladin, the Siwa Oasis used "al-Kalil".
+> - *Apollonopolis Parva* is Qus, was "Apolloinopolis".
+> - *Medri Bahri* is an Ethiopian province of the era, was "Behri Madri".
+> - *Al-Zaytun* is a saline lake in Siwa, was "Al-Zayat".
+> - *Blemmya* is the singular, *Blemmyae* the plural; normalized.
+> - *'Aydhab* is a Red Sea port, Sawakin used "'Aydhad".
+> - *Sabaean* is the Ancient South Arabian script, Yeha used "Sabatean".
+> - *Amarna* is the city of the heretical pharaohs, was "Armarna".
+> - *Catoblepas* Natural Weapons line used "catoplebas".
+> - *Dahlak* from Chapters One and Eight, uses "Dahlek" in Chapter Ten; left as is.
+> - *Debre Damo* is spelled "Debra Damo" in the Zagwe dynasty section of Chapter Eight; left as is.
+> - *Megalobasilikos* from Chapter Seven is spelled "Megabasilikos" in the Glossary; left as is.
+> - *Semien Mountains* also appears as "Semien mountains", "Semiens Mountains" and "Semiens mountains"; left as is.
+> - *Wabe Shebele* and "Wabe Shebile" are both used in Chapter Eight; left as is.
+> - The *Mereb River* is called the "Mareb River" earlier in Chapter Eight; left as is.
+> - *Apedemak* is the lion god of Kush, was "Apedamak" and "Apedemek".
+> - The *Ptolemies* is the Greek dynasty of Egypt, was "Ptolomies", "Ptolomaic" and "Ptolomey".
+> - Pope *Honorius III* preached the Fifth Crusade, was "Honorious".
+> - *Agaw* is an Ethiopian kingdom of the era, was "Agew".
+> - *Zeila* is a port on the Gulf of Aden, was "Ziela".
+> - The *Story Seed: The Siege of Berber* insert has a scrambled clause, "they take it upon themselves to reach get it out"; left as is.
+> - The *External Relations* of Siwa Oasis reads "particular entanglements are particularly likely"; left as is.
+> - *Shawar* ordered Fustat to be abandoned and burned, was "Sawar".
+> - The *Example Akh: Sethos* insert uses both *Soundless Motion* and *Silent Motion*; left as is.
+> - The *Pits* entry has a scrambled clause, "add the closest Weapon Damage modifier to the Damage modifier is added to the falling damage before Soak"; left as is.
+> - The *Farming Year* insert reads "Balsam is teared out" for September; left as is.
+> - The *Zagwe Dynasty* section mentions "Agwe nobility", which might be Agaw or Zagwe; left as is.
+> - *Ayyubid* invasion of Nubia in 1172 is sometimes from "Abbasid"; left as is.
+> - Resources Hook *Linked Vis Site* is called "Linked Vis Sources" in Adulis; left as is.
+> - *Unwitting Defenders* (Major/Minor Resources Boon) is "Minor External Relations Boon" in Adulis; left as is.
+> - *Artanyeszame* is Might 16 (136 points), his court strength increased to 181 points after his transformation.
+> - *Ikhmindi* has 6 Boons and 9 Hooks but "There are six Boons and eight Hooks selected for Ikhmindi"; left as is.
+> - various other typos
 
 ---
+
+There was a time when the people of Egypt worshipped animal-headed gods and built mighty tombs at the command of their pharaoh. That time ended 1,500 years ago.
+
+Now, Egypt is a Muslim nation, ruled by a sultan from the new city of Cairo. The Guild of Seekers have the sultan's blessing to dig up the land's ancient treasures. To the south, Nubia is a Christian country, protected from the Muslim armies by an ancient treaty. The empire of Ethiopia is resurgent, its Christian ruler inspired by his pilgrimage to Jerusalem.
+
+### Follow the Nile
+
+The lands of the Nile hold some of the oldest cultures in the world, no less vigorous in the medieval period than in the ancient past. This book includes rules for Egyptian tombs and their treasures, the forbidden corpse magic of the Nubian pyramids, and the wonders of Nubian alchemy.
+
+Play as natives or visitors from Europe. Use the setting as somewhere for your characters to be from or as a destination for adventure. *Lands of the Nile* adds color to your **Ars Magica Fifth Edition** saga.
 
 # Credits
 
