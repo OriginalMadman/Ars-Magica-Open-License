@@ -1,21 +1,28 @@
 
 # City & Guild
+A sourcebook about life in the cities and towns of Mythic Europe for Ars Magica Fifth Edition.
 
 > *Open License Markdown version by YairRezek & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: First manual edit complete, including Errata. Still needs second editing pass.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
-
-### Identified Issues From Source PDF Release
-
-Applied errata.
-
-- Joined split paragraphs
-- Crafter's Healing: DE demoted it to a Minor Virtue, left as is.
-- Male Guild Sponsor: DE reclassified it as a Social Status Virtue, left as is.
+>
+> ### Identified Issues From Source PDF Release
+> 
+> Applied errata.
+> 
+> - Joined split paragraphs
+> - Crafter's Healing: DE demoted it to a Minor Virtue, left as is.
+> - Male Guild Sponsor: DE reclassified it as a Social Status Virtue, left as is.
 
 ---
+
+Mythic Europe's cities are growing in size and power. Covenants once hidden in remote forests now find themselves in sight of town walls. Regions once cut off from the world are now visited by foreign traders from distant lands.
+
+Emphasizing stories rather than numbers, *City & Guild* details the urban centers of Mythic Europe. It provides valuable background on towns, craftsmen, and guilds, and gives new rules for labor, travel, and trade that let you explore the commerce of lands near and far. Clever magi can become the greatest merchant princes of Europe. Covenants can establish themselves within towns, or even as towns. And storyguides can confront unwary troupes with new dangers — their servants may be manipulated, their covenant cheated, or the raw materials of their mighty magic flawed and shoddy.
+
+Draw back the curtain on a whole new stage for your *Ars Magica* saga.
 
 # Credits
 
