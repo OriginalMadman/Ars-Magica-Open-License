@@ -1,9 +1,21 @@
+# Against the Dark: The Transylvanian Tribunal
+A sourcebook to Mythic Transylvania for Ars Magica 5th Edition.
 
-> *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> *Open License Markdown version by YR7, Tugdual & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 > 
 > *[Completion state: Whole book reviewed once and manually corrected. Errata is included.]*
 > 
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+---
+
+Between two empires is a land of high mountains and dark forests, of great rivers and fertile plains. The richest king in Mythic Europe rules Hungary, but his nobles are restless and the Teutonic Knights he invited to guard his borders want no overlord. Other small kingdoms play east and west against each other, tolerating heresy in their search for freedom. The mountains are the home of countless dragons, and vampires stalk the peasants in their villages. To the east, a greater storm gathers.
+
+This is the Transylvanian Tribunal.
+
+One force brings light to the darkness. Here, where a lord need not swear fealty for his land, the magic of the Order of Hermes may rule openly without violating their Code. Here, in the heartland of House Tremere, the gifts and talents of all magi may be brought together, to cooperate for the good of the world. Here can be seen the shape of the new order that the Tremere wish to bring.
+
+Let us work together as one and grow hale and strong.
 
 # Credits
 
