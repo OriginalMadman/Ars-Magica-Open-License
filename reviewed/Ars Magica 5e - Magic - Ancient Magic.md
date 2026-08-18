@@ -1,25 +1,34 @@
 # Ancient Magic
+A sourcebook on the secrets of the magi of the past for Ars Magica Fifth Edition.
 
 > *Open License Markdown version by Tugdual & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion State: general cleanup.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
-
-### Identified Issues From Source PDF Release
-
-- Normalized ToC and rebuild inserts.
-- Applied errata.
-- Consequences of the errata were not applied to Hyperborean Enchantment Example; Ease Factor 14 left as is.
-- *Anna-Marie* was misspelled in "Anne-Marie spent the rest of her", fixed.
-- Anna-Maria was *interred*, was "interned".
-- Their *conversations* in En-Dor Regio Level One, was "conversions".
-- *Book of the Watchers* was sometimes called "Book of Watchers".
-- uniformized spellings: *Araquiel*, *Hespera*, *Philip*, *Hecataeus*.
-- corrected various typos and verb tense.
-- many minor structural words added.
+>
+> ### Identified Issues From Source PDF Release
+>
+> - Normalized ToC and rebuild inserts.
+> - Applied errata.
+> - Consequences of the errata were not applied to Hyperborean Enchantment Example; Ease Factor 14 left as is.
+> - *Anna-Marie* was misspelled in "Anne-Marie spent the rest of her", fixed.
+> - Anna-Maria was *interred*, was "interned".
+> - Their *conversations* in En-Dor Regio Level One, was "conversions".
+> - *Book of the Watchers* was sometimes called "Book of Watchers".
+> - uniformized spellings: *Araquiel*, *Hespera*, *Philip*, *Hecataeus*.
+> - corrected various typos and verb tense.
+> - many minor structural words added.
 
 ---
+
+Legends tell of the mighty wizards of the past — sorcerers with powers that dwarf those of the magi of the Order of Hermes.
+
+Hyperboreans whose spells lasted a generation, necromancers of Canaan who summoned the dead, rune magic that brushed aside Magic Resistance like cobwebs. All these stories circulate in the covenants of the Order, and there are other forms of magic so ancient that even legends of them have become rare.
+
+This book presents nine forms of ancient magic, along with rules for integrating their secrets into Hermetic theory and your saga. From the frozen north to the westernmost edge of the world, from humankind's earliest homes to the grand temples of the classical world, the quest to bring ancient power to modern magi can lead your characters anywhere in Mythic Europe, and even beyond.
+
+How far will you go for the knowledge of the ages?
 
 # Credits
 
