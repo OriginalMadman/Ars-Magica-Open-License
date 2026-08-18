@@ -1,26 +1,36 @@
 # Realms of Power: The Divine
 A sourcebook to the Divine realm of power for Ars Magica 5th Edition. Provides background for Christianity, Islam, and Judaism in Mythic Europe.
 
-> *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> *Open License Markdown version by YR7, Tugdual & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: Whole book reviewed twice and manually corrected. Errata is included.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+>
+>
+> ### Identified Issues From Source PDF Release
+>
+> Applied errata.
+>
+> - As there is no map or legend, *Graveyard = Dominion 3* was not applied.
+> - Normalized ToC
+> - Saint is abbreviated as St and St., left as is.
+> - Eunuch (Flaw): DE renamed it to Castratus, left as is.
+> - Outsider: DE reclassified it as a Major and Minor Flaw, left as is.
+> - Rabbinical Law: DE core spells this Ability "Rabbinic Law", left as is.
 
 ---
 
-### Identified Issues From Source PDF Release
+God is the patron of the Jewish people, his chosen people, guiding them through history and ultimately back to the Promised Land.
 
-Applied errata.
+God is three and one, incarnate in Christ His Son, and offers salvation to all equally.
 
-- As there is no map or legend, *Graveyard = Dominion 3* was not applied.
-- Normalized ToC
-- Saint is abbreviated as St and St., left as is.
-- Eunuch (Flaw): DE renamed it to Castratus, left as is.
-- Outsider: DE reclassified it as a Major and Minor Flaw, left as is.
-- Rabbinical Law: DE core spells this Ability "Rabbinic Law", left as is.
+God is pure unity, with no parents or children, saving all who submit to His Will.
 
----
+God is beyond human understanding, and all the above statements are true. But the Divine Realm is not completely beyond human comprehension, and this book explains the power of God in Mythic Europe.
+
+From descriptions of each of the three great Divine religions, Judaism, Christianity, and Islam, to rules for divinely-empowered wonder workers and angels, this book contains everything needed to include the Divine in your Ars Magica saga.
+
 
 # Credits
 
