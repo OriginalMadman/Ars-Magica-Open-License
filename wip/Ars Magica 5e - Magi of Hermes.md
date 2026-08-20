@@ -888,8 +888,8 @@ Each tooth may become just under a hundred cubic feet of water. This means that 
 
 CrAu 30 R: Sight, D: Sun, T: Group
 
-
-to allow him to move freely through the storm, although navigation by sight remains difficult unless he takes bird form, using *The Shadow on the Sand*, to rise above the affected area.
+Alexander uses this spell to call up a small, but severe, sandstorm. This obscures the vision of everyone within an area 1000 paces across, and prevents travel by those unprepared for sandstorms.
+Alexander uses Movement Within the Sirocco to allow him to move freely through the storm, although navigation by sight remains difficult unless he takes bird form, using *The Shadow on the Sand*, to rise above the affected area.
 
 (Base 3, +3 Sight, +2 Sun +2 Group (for larger area))
 
@@ -981,8 +981,12 @@ This spell transforms a human into a mouse. While in mouse form, the victim of t
 
 #### A Source of Tremendous Pride
 
-MuCo(An) 45 R: Voice, D: Sun, T: Group Used to transform the covenant's ser-
+MuCo(An) 45 R: Voice, D: Sun, T: Group
 
+Used to transform the covenant's servants into a pride of lions. Medieval bestiaries recognize three varieties of lion. Male lions of the straight-maned type, which this spell produces, are lazier than female ones, and this has led to the formation of a small cadre of female warriors in the covenant, who are skilled in unarmed combat. A few carry bone weapons. Alexander sometimes uses a tail spur he carries in his trinket pouch as a physical prop to allow this spell to be canceled at will.
+
+(Base 10, +2 Voice +2 Sun +2 Group +1
+for size change)
 
 (Base 10, +2 Voice +2 Sun +2 Group +1 for size change)
 
@@ -2450,8 +2454,7 @@ ReAn 35
 
 R: Voice, D: Sun, T: Ind.
 
-A fine preparation to a Wizard's War, this spell commands a biting insect, such as a mosquito or flea, to bite a specific target and then
-
+A fine preparation to a Wizard's War, this spell commands a biting insect, such as a mosquito or flea, to bite a specific target and then return. A canny magus can then harvest the blood and its Arcane Connection from the insect. Of course, this needs to be cast fairly close to the target for the insect to have a chance of catching him. However, combining this spell with Pests of a Colossal Size greatly extends its effective range, as well as the intimidation factor. It does rather reduce its subtlety, however; a magus who would ignore a normal mosquito is unlikely to do the same for a giant one.
 
 (Base 15, +2 Voice, +2 Sun)
 
@@ -4852,7 +4855,8 @@ Up to ten men of Size +1 become capable of running as fast as a horse. Hugh uses
 
 Add or remove human body parts from the target in such a way that he no longer looks human. These parts are normally functional, although a spell may be deliberately designed so that they are not. The Target is Part, not Individual (although Group and higher Targets work as normal).
 
-### The Blessing of Starkad
+
+#### The Blessing of Starkad
 
 MuCo 25
 
@@ -4868,15 +4872,13 @@ MuCo 25
 
 R: Touch, D: Diam, T: Group
 
-Adds +3 to the Size of a standard group of men. The targets' clothing, armor, and weapons are also increased in size in proportion. This has no impact on their characteristics, but increases their wound ranges accordingly. Ten individuals up to Size +1 can be affected, and at Size +3, their wounds have eight-point increments (1–8 points for a Light Wound, 9–16 for a Medium Wound, and so forth). Casting requisites of Animal,
-
-
+Adds +3 to the Size of a standard group of men. The targets' clothing, armor, and weapons are also increased in size in proportion. This has no impact on their characteristics, but increases their wound ranges accordingly. Ten individuals up to Size +1 can be affected, and at Size +3, their wounds have eight-point increments (1–8 points for a Light Wound, 9–16 for a Medium Wound, and so forth). Casting requisites of Animal, Herbam, and Terram are usually required to affect all the targets’ equipment.
 
 (Base 3, +1 Touch, +1 Diam, +2 Group, +1 size, +1 to increase equipment as well)
 
 ### Herbam
 
-### Halt the Piercing Shafts
+#### Halt the Piercing Shafts
 
 ReHe(Te) 25
 
@@ -5545,7 +5547,9 @@ ReAn 5
 
 R: Touch, D: Mom, T: Ind
 
-This spell crafts a single woolen garment from either raw fleeces or from spun wool. This spell is suitable for producing a cotte, cyclas, ganache, bliaut, cappa, or chausses (see the Clothing of the Thirteenth Century insert). A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 12 if raw fleece is employed, or 9 if the base material is spun wool. The clothes produced are of standard quality; increase the Ease Factor for particularly fine or complex craft. If the Finesse roll fails, the caster is left with a useless mess of wool. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items, later). She does not have a spell that directly creates mundane clothing of wool due to the difficulty (it would be a similar spell to *Sturdy Mantle of the Traveler*, earlier). Instead, it is much easier to simply create fleeces (see *Shearing the Unseen Flock*, later) and then craft
+This spell crafts a single woolen garment from either raw fleeces or from spun wool. This spell is suitable for producing a cotte, cyclas, ganache, bliaut, cappa, or chausses (see the Clothing of the Thirteenth Century insert). A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 12 if raw fleece is employed, or 9 if the base material is spun wool. The clothes produced are of standard quality; increase the Ease Factor for particularly fine or complex craft. If the Finesse roll fails, the caster is left with a useless mess of wool. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items, later). She does not have a spell that directly creates mundane clothing of wool due to the difficulty (it would be a similar spell to *Sturdy Mantle of the Traveler*, earlier). Instead, it is much easier to simply create fleeces (see *Shearing the Unseen Flock*, later) and then craft them into clothing with this spell. This spell employs the Level 3 Rego Animal guideline on page 50 of Covenants: "treat and process items made of animal products."
+
+(Base 2, +1 Touch, +1 complexity)
 
 ### Clothing in the Thirteenth Century
 
@@ -6262,10 +6266,7 @@ InMe 30
 
 R: Touch, D: Sun, T: Smell
 
-The target of this spell can detect antipathy, dislike, and hate in all of its forms as a
-
-
-Lambert frequently casts this spell on his family and people in his employ to help them learn to read the emotions of people with whom they come in contact.
+The target of this spell can detect antipathy, dislike, and hate in all of its forms as a scent given off by any mind in the target’s vicinity. The more powerful the emotion of antipathy that is felt by a person, the stronger the smell produced by their thoughts is to the target of Stench of Hate. Lambert frequently casts this spell on his family and people in his employ to help them learn to read the emotions of people with whom they come in contact.
 
 (Base 5, +1 Touch +2 Sun, +2 Smell)
 
@@ -6331,7 +6332,7 @@ Prior to inventing this spell, Lambert on occasion spontaneously cast a Range: P
 
 (Base 15, +1 Concentration, +3 Bloodline, +1 Intellego requisite)
 
-## Calm Mind of Resolute Behavior
+### Calm Mind of Resolute Behavior
 
 PeMe 20
 
@@ -6342,7 +6343,7 @@ Lambert's mater believed that this spell was an essential tool for anyone who de
 
 (Base 15, +1 Diameter)
 
-# Blindness of Involuntary Obstinacy
+### Blindness of Involuntary Obstinacy
 
 PeMe 40
 
@@ -6352,13 +6353,47 @@ The targets of this spell become, for the duration of the spell, completely unab
 
 (Base 10, +3 Sight, +1 Concentration, +2 Group)
 
-#### Mind Cleansed of Treachery
+### Mind Cleansed of Treachery
 
 PeMe 45
 
 R: Eye, D: Bargain & Momentary, T: Individual, Faerie
 
-Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target, and only takes effect if the target breaks his part of the bargain
+Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target, and only takes effect if the target breaks his part of the bargain (ArM5 page 92). If it should come to pass that the target of this spell breaks the agreement within a year of the date when the deal was made, then the target’s memory is destroyed, removing every stored idea that the target possesses and his sense of identity. All General Abilities (including languages) are retained, but knowledge of Academic, Arcane, Martial, and Supernatural Abilities are lost, as are all Arts. The target’s imagination, which stores images, is not affected, so he recognizes the faces of people he knows, places he has been, and songs he has heard, but lacks all knowledge about those things such as names, locations, emotional importance, and so forth. Lambert secured a Lab Text for this spell from the Merinita who developed it, in exchange for a copy of the Lab Text for OathBreaker’s Confession. Lambert wanted to have a spell that provided a profoundly serious consequence for breaking an agreement, and the creator of Mind Cleansed of Treachery wished to acquire a spell that left its targets in a condition that could still be negotiated with. 
+
+(Base 25, +1 Eye, +3 Momentary & Bargain)
+
+
+## Vim Spells
+
+### wrappings of metaphysical iron
+
+ReVi Gen
+
+R: Touch, D: Sun, T: Individual
+
+This spell wards an object from being
+touched or manipulated by faeries or faerie
+magic. Faeries with Might greater than the
+spell’s level are not restrained by this spell, nor
+are faeries that resist the spell’s Penetration.
+Lambert’s version of this spell was devel-
+oped from laboratory notes made by a Me-
+rinita magus with the virtue of Spell Potency
+(The Mysteries Revised Edition page 31 or Houses
+of Hermes: Mystery Cults page 6) concerning fa-
+eries. Lambert is unable to cast this spell un-
+less he wraps an iron chain around the pro-
+tected item at the time of the casting. Due to
+the influence of the iron chain, this spell is
+cast with a Potency Bonus of +7.
+Lambert finds that faeries rarely confront
+him about his use of this spell when he casts
+it on goods that he brings into their lands,
+but they become exceedingly displeased by
+the spell when it is used upon any item that
+is native to their home.
+(Base Effect, no modifier Ring to Sun)
 
 
 # Enchanted Items
@@ -11225,9 +11260,12 @@ ReCo 10
 
 R: Road, D: Sun, T: Individual
 
-The magus can hex someone he senses via normal or magical senses who stands on the same road. The target's legs starts to spasm in a way that makes it impossible to
+The magus can hex someone he senses via normal or magical senses who stands on the same road. The target's legs starts to spasm in a way that makes it impossible to walk, let alone chase someone.
+
+(Base 2, +2 Road, +2 Sun)
 
 
+### Familiar: Felix the Lucky Fox
 
 **Magic Might:** 10 (Imaginem)
 
@@ -11380,8 +11418,7 @@ CrIm 30
 
 R: Voice, D: Sun, T: Individual
 
-This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a big bronze cage around the target, capturing it
-
+This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a big bronze cage around the target, capturing it (if a targeting Finesse roll succeeds).
 
 (Base 10, +2 Voice, +2 Sun)
 
