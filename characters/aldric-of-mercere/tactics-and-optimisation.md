@@ -112,7 +112,7 @@ a magus should not be adding botch dice.
   see the advancement notes below.
 - **Against archers, only the shield counts.** *"If you are defending against missile weapons,
   only a shield's Defense Bonus adds to your Defense Total."* The heater shield's +3 is his whole
-  equipment defence at range, so do not drop it to free a hand.
+  equipment Defense at range, so do not drop it to free a hand.
 - **Wound penalties never apply to Soak**, because Soak is not an action. A badly wounded Aldric
   is poor at hitting, defending and casting, but exactly as hard to hurt. Fighting on is
   mechanically sound; it is his Attack rolls that collapse.

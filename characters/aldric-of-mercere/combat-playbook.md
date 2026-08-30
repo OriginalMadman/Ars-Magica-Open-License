@@ -71,7 +71,7 @@ already exceeds the level. The margins, in the field:
 
 So the die never decides whether a spell works. **The only thing that can fail one is a botch** —
 a zero on the stress die followed by a zero on the botch die, about 1% per cast under stress,
-which also sets the Casting Total to zero and hands him a Warping Point per zero rolled.
+which also sets the Casting Total to zero and hands him a Warping Point per zero rolled on the botch dice.
 
 > "If the maga is relaxed while casting a Formulaic spell, then there are no botch dice, no
 > matter how many the circumstances would normally add."
@@ -235,8 +235,8 @@ but fight.
 
 ### Reactions, out of the initiative order
 
-**Exertion** — one Fatigue level for +7. On attack it applies to a single roll; on defence it
-applies to *every* defence roll until his turn comes round again, which usually makes it the
+**Exertion** — one Fatigue level for +7. On attack it applies to a single roll; on Defense it
+applies to *every* Defense roll until his turn comes round again, which usually makes it the
 better buy. Defense **12 → 19**.
 
 **Fast-cast** — Qik 1 + Finesse 1 + Fast Caster 3 = **5 + die** against the opponent's Initiative
