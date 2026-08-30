@@ -54,7 +54,8 @@ magic touches.
 | File | What it holds |
 |---|---|
 | **[character-sheet.md](character-sheet.md)** | The full sheet — Virtues and Flaws, Characteristics, Abilities, Arts, casting and laboratory grids for all fifty Technique/Form combinations, spells, combat scores, and the experience audit behind them |
-| **[tactics-and-optimisation.md](tactics-and-optimisation.md)** | How to fight with him: the battle routine, the spell-design discipline the concept depends on, combat rules worth knowing, and where his experience should go next |
+| **[combat-playbook.md](combat-playbook.md)** | Round by round: what to cast and when, every roll derived from the rule behind it, target numbers and odds, what the buffs are worth in damage, and a worked skirmish |
+| **[tactics-and-optimisation.md](tactics-and-optimisation.md)** | The wider picture: spell-design discipline the concept depends on, combat rules worth knowing, where his experience should go next, and variant builds |
 
 ## Quick reference
 
