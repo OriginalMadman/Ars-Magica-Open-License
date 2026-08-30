@@ -1,7 +1,19 @@
 # Aldric of Mercere
 ## The Warband's Aura — Enhancement Battle Mage
 
-> **Draft Character — Please Review Choices Below**
+> **Draft Character — reviewed. This file is kept as the original draft.**
+>
+> - **[Rules review](aldric-of-mercere-rules-review.md)** — audit against the core rules, with
+>   the errors found and a min-maxing section for the martial side of the character.
+> - **[Character sheet](aldric-of-mercere-sheet.md)** — the corrected, rules-legal build,
+>   with Technique × Form grids for casting and laboratory totals.
+>
+> Known errors in the text below: Puissant Art is +3 not +2; Large gives no Strength or
+> Stamina; Vow is a Personality Flaw, not a Story Flaw; casting totals omit Encumbrance and
+> Aura; the post-Gauntlet experience is over budget and never pays for Creo 12→14; Brawl is
+> unbought; three custom spells have illegal levels; *Aura of Martial Precision* exceeds his
+> maximum learnable level at Gauntlet; *Endurance of the Berserkers* is self-only; and every
+> group buff at level 26 or above Warps the men it is cast on.
 
 ---
 
