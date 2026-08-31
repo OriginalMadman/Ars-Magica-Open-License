@@ -523,7 +523,7 @@ DIGITAL VERSION 1.0
 > Portage Guidelines
 >
 > Ware Guidelines
-<
+>
 > Weal Guidelines
 >
 > Woe Guidelines
@@ -598,9 +598,7 @@ Narrowly cognizant faeries are aware that they need something from humans, and a
 > - Faeries are angels that did not aid God during the Satanic Rebellion, but did not actively rebel. They fell from Heaven, but did not fall all the way to Hell.
 > - Faeries are the descendants of Cain. When Cain was banished to the Land of Nod, he went to Arcadia.
 > - Faeries are the dead of the pagans.
-> - Faeries are the spirits of unbaptized
-> 
-> - children.
+> - Faeries are the spirits of unbaptized children.
 > - Faeries are the spirits of those who died, incomplete, as they crossed a border.
 > - Faeries are the power of human dreams, art, and vision made manifest.
 > - Faeries are spirits that treat humans as prey, feeding on spiritual essences.
@@ -5899,7 +5897,7 @@ An aura can be tinted multiple times, so that some Faerie auras become a mishmas
 
 Tinting generally fades over time, with all Personality Trait scores reduced by one every day (for ceremonial tinting) or every season (for practical tinting). After three days, a +6 tinting brought about by ceremonial means will be only +3, and after a year a +4 tinting from practical influence will fade away completely. However, some faerie powers and faerie rites allow for semipermanent tints, and some faerie auras may have inherent tinting.
 
-|>#### Tinting an Aura
+>#### Tinting an Aura
 >
 > | Ease Factor | Trait Value\*  |
 > |-------------|----------------|
