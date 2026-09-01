@@ -2,7 +2,7 @@
 <br/>
 <br/>
 # The Complete Corpus in Friendly Markdown Format
-### All 53 official books of the Ars Magica RPG Open License
+### All 50+ official books of the Ars Magica RPG Open License
 <br/>
 This is a work-in-progress repository for machine-extracted, manually fixed markdowns of a complete set of the official Ars Magica Open Licensed material. These files should all be of a significantly better quality than what has been released openly so far.
 
@@ -21,7 +21,7 @@ The game is about incredibly powerful - but politically limited - Wizards in the
 
 You'll want to start with the the *Ars Magica - Definitive Edition \(Core Rules\).md* file in the [/reviewed](/reviewed/) folder to explore one of the best RPG ever made. **Headsup: Unlike the rest of the books, Definitive Edition is too large (582 pages) for GitHub to render it - you have to download the file!** 
 
-**Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and (wip) Traditional Index. Should be a breeze to navigate.** 
+**Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and Traditional Index. Should be a breeze to navigate.** 
 <br/>
 <br/>
 
