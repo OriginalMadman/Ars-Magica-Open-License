@@ -43,6 +43,7 @@ EDIT: YR7 of that project is now helping with this and the plan is to convert fr
 <br/>
 <br/>
 **Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381
+UPDATE: It's also been made available as markdown in the [**/3rd-party**](/3rd-party/) folder here.
 <br/>
 <br/>
 <br/>
