@@ -1,7 +1,11 @@
+# Legends of Hermes
+A sourcebook of five legendary magi and the treasures they left behind for Ars Magica Fifth Edition
 
 > *Open License Markdown version YR & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: Finished manual fix (single pass). Errata included.]*
+>
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 >
 > Corrections to official text:
 > - Page 21, "the magi bring with them" makes no sense in the paragraph; not corrected.
@@ -42,8 +46,10 @@
 > - Page 131, "that were originally" -> "that originally"
 > - Page 136, "7–2" -> "7–12"
 > - Page 139, "The Applic-tion of Vim to the Supenatural Humors" -> "The Application of Vim to the Supernatural Humors"
->
-> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+Throughout the Order of Hermes’ history, some of its members have stood out from their peers, whether for their brilliance or for their sheer stubborn pursuit of a goal. They are the legends of the Order, whose tales are still told and even emulated by lesser magi. Some of these powerful wizards have left legacies yet to be fully uncovered.
+
+This book details five such magi: a brilliant researcher who extended Hermetic theory at the cost of her own soul; a master of ancient magics, whose hidden island is still the domain of bound spirits; an advocate of peace slain on the eve of the Schism War, whose magical garden hosts a war of its own and the secret of growing vis; a master strategist and obsessive constructor of magical defenses; and the flamboyant creator of a flying castle. All have left treasures behind—treasures waiting to be found by living magi. Because legends are never complete.
 
 ## Credits
 
