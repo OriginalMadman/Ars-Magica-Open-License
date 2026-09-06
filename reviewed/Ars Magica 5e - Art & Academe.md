@@ -7,6 +7,34 @@ A sourcebook supplement for Ars Magica 5th Edition.
 > 
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
+### Identified Issues From Source PDF Release
+
+Some identified issues present in source PDF. Only major differences are listed:
+- philosopher *Plotinus*, was "Plontius".
+- Persian scholar *Māshāʾallāh ibn Atharī* (c. 740 – 815), was "Māshāl allāl".
+- cross-reference to section *Astronomy* of "Chapter Two: Artes Liberales", was "Astrology".
+- *primary* quality, was "principle quality".
+- chancellor of Notre Dame Philippus de Grevia's historical name was *Philippus Cancellarius Parisiensis* (also Philippe de Grève); the book's "de Grevia" is kept.
+- cardinal *Robert de Courçon*, was "Caurçon".
+- *Collège des Dix-Huit*, the earliest college of the University of Paris, established to endow 18 scholars, was "Dix-huits".
+- Artist Reputation bullet point: "Attracting a muse grants … *muse's* Might", was "patron's".
+- Grifo's example uses "Puissant *Painter*", was "Puissant Painting".
+- Brogo stat block uses "*Profession:* Trouvère", was "Performance: Trouvère".
+- *Meaux* Cathedral is depicted in a drawing by Villard de Honnecourt, was "Meux".
+- minnesinger *Walther von der Vogelweide*, was "Vogelwiede".
+- the arts of proportion, ratio, and luminosity are taught by *geometry*, was "geography".
+- Ptolemy's *mid-second century* (Claudius Ptolemy, c. 100–170 AD), was "mid-third century".
+- Bernard of Chartres *(c. 1070-1130)* is consensus for unknown dates, was (c. 1080-1167).
+- Animal Trainers, third paragraph: a mundane animal has Might *1 + 2 x Confidence Score* to match the formula errata, was "1 + Confidence Score".
+- Pieces of Art as Advancement Sources: body text "Advancement total" is left as-is, a mismatch with the errata-renamed *Source Quality* summary.
+- Various other source typos: Cathers, Avezzo, Poiters, Montpelier, Dominician, Melgeuil, Salernitarian, Herrod, Albert, Borealis.
+- Failed Student: DE reclassified it as a General Flaw, left as is.
+- Gullible: DE reclassified it as a General Flaw, left as is.
+
+---
+
+## Art & Academe
+
 The magi of the Order of Hermes are not the only scholars and artists in Mythic Europe. In the Greek and Muslim lands, traditions of learning stretch back unbroken over centuries, while scholarship has emerged from long centuries of neglect in the Latin West with great vigor. From parish schools to the new universities, learning and creativity are everywhere.
 
 Nor is this learning entirely theoretical. Doctors can cure many illnesses, and preserve the health of their charges. Natural philosophers can manipulate substances in a way that appears magical to the ill-informed, and gain some hints as to the future from the positions of the stars. The natural laws of Mythic Europe are very different from those of our world, and many strange things can be achieved by those who understand their secrets. Artists create the great cathedrals, but also more humble paintings, songs, and sculptures. The greatest of them draw the attention of the supernatural, and become part of the legends of the land.
@@ -289,7 +317,7 @@ Story Seed: The Spoils of Gerbert <br>
 Hermetic Societas: The Lyceum <br>
 Story Seed: The Academic's Demand<br>
 Hermetic Societas: The Collegium <br>
-Story Seed: A Living Library 
+Story Seed: A Living Library
 
 **II. Artes Liberales**<br>
 New Virtues <br>
@@ -298,7 +326,7 @@ Story Seed: An Authoritative Voice <br>
 Story Seed: The Golden Section <br>
 Leonardo Fibonacci of Pisa <br>
 Musica Mundana<br>
-Story Seed: Flying to the Moon 
+Story Seed: Flying to the Moon
 
 **III. Philosophiae**<br>
 Fact vs. Theory <br>
@@ -316,7 +344,7 @@ Story Seed: A Cure by Proxy <br>
 Story Seed: The Unremarkable Tree<br>
 Generating Worms (with New Rego Animal Guideline) <br>
 Creo Mentem Guidelines <br>
-Intellego Mentem Guidelines<br> 
+Intellego Mentem Guidelines<br>
 Muto Mentem Guidelines <br>
 Perdo Mentem Guidelines<br>
 Rego Mentem Guidelines<br>
@@ -365,7 +393,7 @@ Chirurgical Magic (with Spell Guidelines) <br>
 Nurses<br>
 Commonly Used Ingredients<br>
 Pharmacy <br>
-Pharmacy Magic 
+Pharmacy Magic
 
 **V. Experimental Philosophy**<br>
 The Lyceum and Experimentation<br>
@@ -383,7 +411,7 @@ Reagent Guidelines<br>
 Alchemical Purification's <br>
 Shape & Material Bonuses <br>
 Volume Conversion Guide<br>
-Theriac Guidelines 
+Theriac Guidelines
 
 **VI. Institutional Education**<br>
 The Limits of Education<br>
@@ -395,7 +423,7 @@ Brother Julian<br>
 Story Seed: An Unlikely Connection <br>
 Story Seed: A Plague of Dogs <br>
 Translations<br>
-Warring Faiths 
+Warring Faiths
 
 **VII. Universities**<br>
 Faculty Titles <br>
@@ -406,9 +434,9 @@ Story Seed: On the Nature of Magic<br>
 Gilpatrick <br>
 Story Seed: The End of the Oral Oath? <br>
 Schoolmen's Disputationes and House Tytalus' Debates<br>
-The Nature of Students 
+The Nature of Students
 
-**VIII. Artists** 
+**VIII. Artists**
 Story Seed: A Noble Rivalry <br>
 Story Seed: The Dead Emperor's Ghost <br>
 Story Seed: Three Nails or Four<br>
@@ -435,9 +463,9 @@ This book begins with an intellectual history, covering the basic tenets of medi
 
 Next is a detailed view of Artes Liberales, the seven liberal arts that form the established basis of medieval education. Artes Liberales is the foundation for further scholarly endeavors, including philosophy and medicine. The medieval philosophy chapter describes reality as perceived and explained by the most learned men of the time. The chapter on medicine describes the human body, its health and illnesses. Diseases are explained, as are their cures, and different types of bodily damage are assessed. *Art & Academe* then details a system of experimental philosophy, a type of "natural" magic that produces wondrous effects produced solely through the intrinsic power of the individual subject, and not by any arcane or magical force.
 
-All of these academic sciences are learned at school, and medieval educational institutions are detailed in Chapters Six and Seven. Most educated characters will come from these institutions, including the ubiquitous parish school, the secluded monastic school, and the renowned cathedral schools. Muslim and Jewish schools are presented for non-Christian scholar characters. The acme of learning institutions in the thirteen century is the university, and *Art & Academe* explains the culture and life of medieval schoolmen. All of the existing universities in Mythic Europe are detailed, with specifics to allow characters to fully interact with the university. Suggestions are provided for creating a saga centered on the largest universities. Rules are given for the formal debates of scholars, which will allow your characters to participate in this verbal sparring.
+All of these academic sciences are learned at school, and medieval educational institutions are detailed in Chapters Six and Seven. Most educated characters will come from these institutions, including the ubiquitous parish school, the secluded monastic school, and the renowned cathedral schools. Muslim and Jewish schools are presented for non-Christian scholar characters. The acme of learning institutions in the thirteenth century is the university, and *Art & Academe* explains the culture and life of medieval schoolmen. All of the existing universities in Mythic Europe are detailed, with specifics to allow characters to fully interact with the university. Suggestions are provided for creating a saga centered on the largest universities. Rules are given for the formal debates of scholars, which will allow your characters to participate in this verbal sparring.
 
-Last but not least is a description of medieval artists — masters of the plastic and performance arts — and rules to determine the aesthetic qualities of their artwork. Rules are included to track their rise to fame, wealth, and power. The life of an artist character can be a glorious adventure, as he gallivants around Mythic Europe looking for clients and places to display his artwork. He is interested in his fellows, and will seek out their artwork to improve his own. And as he rises in prominence he attracts the attention of the mystical entities of Mythic Europe, otherworldly creatures that appreciate the artist's handiwork as much as the throngs of mundane spectators do. Here you will find the "maestro," a Mythic Companion who can include doses of magical power in his artistic creations.
+Last but not least is a description of medieval artists — masters of the plastic and performance arts — and rules to determine the aesthetic qualities of their artwork. Rules are included to track their rise to fame, wealth, and power. The life of an artist character can be a glorious adventure, as he gallivants around Mythic Europe looking for clients and places to display his artwork. He is interested in his fellows, and will seek out their artwork to improve his own. And as he rises in prominence he attracts the attention of the mystical entities of Mythic Europe, otherworldly creatures that appreciate the artist's handiwork as much as the throngs of mundane spectators do. Here you will find the "maestro", a Mythic Companion who can include doses of magical power in his artistic creations.
 
 The appendices feature a "Who's Who" listing of the philosophers who are most important to the thirteenth century, with their most influential works and a brief summary of their philosophic arguments. Also included is a glossary of terms, intended to serve as a foothold in understanding the circuitous paths of medieval intellectuals and their educational institutions.
 
@@ -447,9 +475,9 @@ The authors have taken pains to ensure that this book is based on accurate histo
 
 Thirteenth-century scholastic thought is based in antiquity. Considered as a whole, medieval philosophy — which in its widest definition includes all academic knowledge and branches of learning — begins with the Greek philosopher Plato. Unlike his contemporaries, Plato persistently followed a set philosophical framework to form his theories, reaching conclusions through logical arguments based on premises gained from experience, thought, and observation. Most Greek philosophers discussed aspects of life and self-awareness. They discussed virtue, for example, as a desirable goal and determined ways for a man to become virtuous. Plato stated that Virtue in itself is a thing; a non-corporeal, external entity that exists outside our reality. According to Plato, for a thing to be true, it must exist, or "be." Its existence must be eternal, without beginning or end, universal, always the same and not changing, and known through the mind, existing outside the physical senses. Thus, before determining if a man is virtuous, one must know what true Virtue really is.
 
-Plato called these external truths **forms**  or **ideas**, and the entire collection of these forms are referred to as his **universals**. Of all the universals, the highest form is the form of Good. Plato described the form of Good as the guiding principle for all the forms, setting up a three-tiered theory of reality. The form of Good creates and defines all the other universals, known collectively as the Intellect, because they are perceived through reason, and all the universals together create reality, which Plato calls the Soul, since reality is perceived through the senses. This tripartite theory of Good \ the Intellect \ the Soul will be generally accepted by later thinkers. Universals are a cornerstone of medieval thought, philosophy, and even theology.
+Plato called these external truths **forms** or **ideas**, and the entire collection of these forms are referred to as his **universals**. Of all the universals, the highest form is the form of Good. Plato described the form of Good as the guiding principle for all the forms, setting up a three-tiered theory of reality. The form of Good creates and defines all the other universals, known collectively as the Intellect, because they are perceived through reason, and all the universals together create reality, which Plato calls the Soul, since reality is perceived through the senses. This tripartite theory of Good \ the Intellect \ the Soul will be generally accepted by later thinkers. Universals are a cornerstone of medieval thought, philosophy, and even theology.
 
-Plato expresses all these ideas in the *Timaeus*, his only work available in the Middle Ages. In explaining the nature of the universe, Plato reversed the common Greek argument for the existence of its creator. Rather than say that, since the world is beautiful and good it must have a creator, he argued first for a beautiful and good creator, one that justly necessitates the formation of our reality through universal truths. Being a pagan, Plato did not name this creator, who he claims existed prior to the beginning of the world. Named simply, "The Divine Craftsman," this creator made the world almost like a single, living entity, complete with intelligence and a soul. This combined physical, mental, and spiritual creation is named the "World-Soul." This conforms to his three-fold theory, becoming the Divine Craftsman — the Intellect — the World-Soul. He argued that man's soul is immortal, and can return to the Divine Craftsman by ascending from the World-Soul, through the Intellect, back to the Divine Craftsman. Christian writers will find many similar themes between Christian cosmology and Plato's. They will also find differences, which they will either ignore or synthesize into Christian theology. For example, Plato argues that the soul, once returned to the Divine Craftsman, returns again to reality, the World-Soul. Mass reincarnation is not part of the Christian paradigm.
+Plato expresses all these ideas in the *Timaeus*, his only work available in the Middle Ages. In explaining the nature of the universe, Plato reversed the common Greek argument for the existence of its creator. Rather than say that, since the world is beautiful and good it must have a creator, he argued first for a beautiful and good creator, one that justly necessitates the formation of our reality through universal truths. Being a pagan, Plato did not name this creator, who he claims existed prior to the beginning of the world. Named simply, "The Divine Craftsman", this creator made the world almost like a single, living entity, complete with intelligence and a soul. This combined physical, mental, and spiritual creation is named the "World-Soul." This conforms to his three-fold theory, becoming the Divine Craftsman — the Intellect — the World-Soul. He argued that man's soul is immortal, and can return to the Divine Craftsman by ascending from the World-Soul, through the Intellect, back to the Divine Craftsman. Christian writers will find many similar themes between Christian cosmology and Plato's. They will also find differences, which they will either ignore or synthesize into Christian theology. For example, Plato argues that the soul, once returned to the Divine Craftsman, returns again to reality, the World-Soul. Mass reincarnation is not part of the Christian paradigm.
 
 Aristotle, Plato's greatest student, disagreed with his master. Where Plato looked ever upward, combining mysticism with rationalism, Aristotle looked at the world around him. He taught a system based on direct observation and logical analysis. Instead of believing in external universals, he proposed internal properties of reality, creating **categories**, ten characteristics of the things of reality. These ten categories are: quantity, quality, relation, time, place, posture, possession, action, passion, and a more complicated category called "substance." Logically, he created the system of syllogisms, which is thinking of the form that, if all A are B, and all B are C, then all A must be C. Aristotle's logic and categories are especially important to medieval intellectual thought.
 
@@ -457,9 +485,9 @@ Aristotle, Plato's greatest student, disagreed with his master. Where Plato look
 
 In the third century, the writer Plotinus refashioned Plato's mystical ideas into a single, systematic, and spiritual philosophy. Plato's Divine Craftsman was limited in nature, forced to work with the elements that existed in the Chaos before creation, but Plotinus's "the One" was a true creator, fashioning reality out of nothingness. In his *Enneads*, Plotinus explained Plato's three-fold cosmology as the One — Intelligence — Soul. The One emanates or flows downward, to the Soul, which may transcend through transmigration back to the One. Universals are thoughts in the One's mind. Plotinus still drew a hard line between external and internal reality, claiming that the One existed outside of reality, like Plato's universals and his Divine Crafter.
 
-Plontius's Neoplatonism provided the intellectual foundation for the development of early Christian theology. Early Christianity was not uniform; different sects developed different theologies. Since Christianity had become the legal religion of the Roman Empire, these different ideas were tied to different political factions. Where emperors desired to unite the empire, theologians desired to unite the faith. Not every early Christian wrote to unite the faith, but many did, especially the most influential.
+Plotinus's Neoplatonism provided the intellectual foundation for the development of early Christian theology. Early Christianity was not uniform; different sects developed different theologies. Since Christianity had become the legal religion of the Roman Empire, these different ideas were tied to different political factions. Where emperors desired to unite the empire, theologians desired to unite the faith. Not every early Christian wrote to unite the faith, but many did, especially the most influential.
 
-A trained rhetorician writing in the early fifth century, St. Augustine used Neoplatonism in his intellectual arguments with other Christian sects to logically prove his interpretation of Christianity. His work, as well as that of other western Church Fathers, is the foundation of thirteenth-century Christian theology. God exists beyond our senses, externally, but is not removed from His flock, an important difference from Plato or Plotinus. Neither the Divine Craftsman nor the One could cross the line between external reality and internal (our) reality. God can, and does, and his miracles are many in the world of Mythic Europe. St. Augustine's influence can not be understated. Besides Plato and to a lesser degree Aristotle, Augustine relied on the Scriptures, weaving them into his logical arguments as truth revealed by God. His reliance on the Bible and his logical arguments based on the greatest thinkers of the past set the benchmark for intellectual development.
+A trained rhetorician writing in the early fifth century, St. Augustine used Neoplatonism in his intellectual arguments with other Christian sects to logically prove his interpretation of Christianity. His work, as well as that of other western Church Fathers, is the foundation of thirteenth-century Christian theology. God exists beyond our senses, externally, but is not removed from His flock, an important difference from Plato or Plotinus. Neither the Divine Craftsman nor the One could cross the line between external reality and internal (our) reality. God can, and does, and his miracles are many in the world of Mythic Europe. St. Augustine's influence cannot be understated. Besides Plato and to a lesser degree Aristotle, Augustine relied on the Scriptures, weaving them into his logical arguments as truth revealed by God. His reliance on the Bible and his logical arguments based on the greatest thinkers of the past set the benchmark for intellectual development.
 
 Boethius continued this treatment of combining Christianity with Neoplatonism. A prolific writer and translator of Greek texts, he commentated extensively on all seven of the liberal arts. His greatest work, written while he was in prison for treason, is *The Consolation of Philosophy*, in which philosophy, personified in the female figure Philosophia, visits him, telling him not to fret his fall from fortune or his upcoming execution. She extols the virtues of knowledge and lauds the seeker of intelligence with copious praise. *The Consolation* is strikingly nonreligious, making later medievals wonder at Boethius' Christianity. Rather than denying his faith, which he had firmly embraced, Boethius wrote *The Consolation* as a poetic masterpiece, in the vein of Virgil and Ovid.
 
@@ -483,11 +511,11 @@ In the twelfth century, with the retreat of Arabs from parts of Spain, and their
 
 With more teachers and more schools, the idea of learning from a single master passed out of vogue. Why stay at Chartres when a famous intellectual was teaching at Laon? Students wandered from master to master, satisfying their curiosity and passionate drive for learning. Perhaps the most famous wandering scholar is Peter Abelard, whose cutting intellect and often bilious temperament drove him from one master to another. Abelard never refused the chance to argue with his masters, and became famous for showing their errors in his persuasive and mentally dazzling treatises. His academic work is sometimes forgotten though, his good name besmirched by heresy and his scandalous love affair with his young student, Heloise.
 
-As a result of their heightened interest in the trivium, medieval schoolmen who closely read ancient and patristic texts discovered several contradictions. Their speculative thought combined with personal observation lead to innovative solutions to questions of man, God, and nature. Recent ingenuity, based on classical wisdom, led Bernard of Chartres to write, "We are dwarfs perched on the shoulders of giants." The analogy is that thirteenthcentury scholars can see further, for though they might not be the ancient's intellectual equals, basing recent knowledge on past wisdom leads to greater understanding.
+As a result of their heightened interest in the trivium, medieval schoolmen who closely read ancient and patristic texts discovered several contradictions. Their speculative thought combined with personal observation lead to innovative solutions to questions of man, God, and nature. Recent ingenuity, based on classical wisdom, led Bernard of Chartres to write, "We are dwarfs perched on the shoulders of giants." The analogy is that thirteenth-century scholars can see further, for though they might not be the ancient's intellectual equals, basing recent knowledge on past wisdom leads to greater understanding.
 
 ### The Scholastic Method
 
-The method and manner in which medieval intellectuals think, teach, and argue is called "scholasticism," a contemporary term used to differentiate their own type of intellectualism from the Greeks of antiquity. Coined from the Latin "scholasticus" (plural: "scholastici"), meaning the head teacher of a school, the scholastic method stems from the intense stress placed on dialectic in the early Middle Ages. Scholasticism is shaped by two factors: rational, logical arguments based on reason; and a clear distinction between philosophy and theology.
+The method and manner in which medieval intellectuals think, teach, and argue is called "scholasticism", a contemporary term used to differentiate their own type of intellectualism from the Greeks of antiquity. Coined from the Latin "scholasticus" (plural: "scholastici"), meaning the head teacher of a school, the scholastic method stems from the intense stress placed on dialectic in the early Middle Ages. Scholasticism is shaped by two factors: rational, logical arguments based on reason; and a clear distinction between philosophy and theology.
 
 Stemming from St. Augustine and the other Church Fathers, who synthesized pagan writing into Christian thought by claiming that God granted Plato and Aristotle their ideas, scholasticism is a continuing attempt to express reality in reasonable, Christian terms. Reason itself is laudable, and God's truths can be understood rationally to augment a thinker's faith. Philosophical subjects are always subservient to theological subjects, and it is difficult to find a purely philosophical discussion that is not somehow wrapped in Christian theology. Scholastics regard earlier writers highly — Plato, Aristotle, and the Church Fathers especially — and form their own arguments based on theirs. They believe God has one truth, and by continuing to think, argue, and understand theology logically, they can gain this understanding.
 
@@ -495,9 +523,9 @@ Scholasticism was hotly condemned in the twelfth century by mystical writers, ec
 
 ### The New Aristotle
 
-Before the twelfth century, the only surviving copies of Aristotle in Latin were his *Categories* and *On Interpretations*, both works of logic, translated and commented on by Boethius. While these were sufficient to convey Aristotle's logic and syllogisms, only the most able minds were able to effectively utilize them. Starting around 1150, a handful of scholars translated Aristotle's remaining works, filtered through the able minds and commentaries of Arabic and Jewish scholars, which were quickly disseminated throughout western Mythic Europe. These works, including *Prior Analytics, Posterior Analytics, Topics, On Sophistical Refutations, Physics, Metaphysics,* and *De anima*  (*On the Soul*), grouped together are referred to as the "New Aristotle." The New Aristotle made syllogisms and his logical method much clearer. Aristotle claimed that a scholar knows something only if he knows the beginnings of that thing and the reason for its existence. Secondly, Aristotle offered a new approach to verifying the knowledge of a thing. A thinker has to discover accurate truths about a specific thing that then apply to the general group, and then make sure those truths are accurate when applied from the group back to the specific.
+Before the twelfth century, the only surviving copies of Aristotle in Latin were his *Categories* and *On Interpretations*, both works of logic, translated and commented on by Boethius. While these were sufficient to convey Aristotle's logic and syllogisms, only the most able minds were able to effectively utilize them. Starting around 1150, a handful of scholars translated Aristotle's remaining works, filtered through the able minds and commentaries of Arabic and Jewish scholars, which were quickly disseminated throughout western Mythic Europe. These works, including *Prior Analytics, Posterior Analytics, Topics, On Sophistical Refutations, Physics, Metaphysics,* and *De anima* (*On the Soul*), grouped together are referred to as the "New Aristotle." The New Aristotle made syllogisms and his logical method much clearer. Aristotle claimed that a scholar knows something only if he knows the beginnings of that thing and the reason for its existence. Secondly, Aristotle offered a new approach to verifying the knowledge of a thing. A thinker has to discover accurate truths about a specific thing that then apply to the general group, and then make sure those truths are accurate when applied from the group back to the specific.
 
-Although emphasized by Aristotle, dubbed "the Philosopher," personal observation does not alone guarantee truth. Observation must be supported with reasonable arguments, based on antiquity and extrapolated by contemporaries. All agree that the senses are too susceptible to misinformation and illusion to be absolutely reliable. Philosophers do not reject the senses, though. Far from it, they merely demand that they be supported by rationally defined arguments that incorporate the ideas of celebrated pagan and Christian philosophical writings.
+Although emphasized by Aristotle, dubbed "the Philosopher", personal observation does not alone guarantee truth. Observation must be supported with reasonable arguments, based on antiquity and extrapolated by contemporaries. All agree that the senses are too susceptible to misinformation and illusion to be absolutely reliable. Philosophers do not reject the senses, though. Far from it, they merely demand that they be supported by rationally defined arguments that incorporate the ideas of celebrated pagan and Christian philosophical writings.
 
 This new body of knowledge has had a profound effect on the seven liberal arts and the men that study them. The most profound change is the attempt of the *logica nova* (new logic) to replace the *logica veta* (old logic) in medieval schools, but each of the liberal arts is affected to some degree. Some schoolmen are conservative, and reluctant to make major changes to a school's curriculum. And the New Aristotle is not accepted by all scholars. In 1220, the University of Paris has banned teaching any of the New Aristotle, although copies of his translated works exist. Specific changes of the New Aristotle to the various liberal arts are discussed in the next chapter.
 
@@ -595,7 +623,7 @@ A preaching character can also instruct his listeners, teaching them Theology. L
 
 >#### Story Seed: The Sons of the Peters, filii petrorum
 >
->The Sons of the Peters are a group of northern speculative grammarians who claim superiority over other academic instructors, insisting that their grammatical method is nearer and dearer to God, and should be taught exclusively. They base their studies on the various manners, or *modes*, of language. They are a small group, who have based their theory on two latetwelfth-century scholars (Peter Helias and Peter of Spain). They are tight-knit and argumentative, and steadfast in their opinions. They are also expert disputers, so far winning every disputatio that has made claims against their notions.
+>The Sons of the Peters are a group of northern speculative grammarians who claim superiority over other academic instructors, insisting that their grammatical method is nearer and dearer to God, and should be taught exclusively. They base their studies on the various manners, or *modes*, of language. They are a small group, who have based their theory on two late-twelfth-century scholars (Peter Helias and Peter of Spain). They are tight-knit and argumentative, and steadfast in their opinions. They are also expert disputers, so far winning every disputatio that has made claims against their notions.
 >
 >Hermetic thinkers wonder if the Sons of the Peters' claims are true, that their speculative considerations of language reflect a more comprehensive understanding of reality. The Sons have been influenced by the New Aristotle. Reading a summa or tractatus written by one of them will grant Breakthrough Points to a magus trying to synthesize the New Aristotle with Magic Theory, 1 point per summa or tractatus read. Gaining access to such books is difficult, due to the restrictive mindset of the group.
 >
@@ -603,7 +631,7 @@ A preaching character can also instruct his listeners, teaching them Theology. L
 
 ## Logic
 
-Also called "dialectic," logic is a method of reasoning, of building truthful statements based on previously disclosed truths, and of discerning true from false reasoning. There are two types of logic. Much like the various parts of speech, medieval teachers deconstruct logic in various parts of arguments and thinking. Besides the syllogism and causality, instruction in logic teaches students about definitions, divisions, homonyms, moods, figures of speech, and probable reasoning. **Formal logic** is the practical application of syllogisms and other logical reasoning, and **theoretical logic** is the use of reasonable deliberations on physics and metaphysics. Artes Liberales only teaches formal logic, making a clear distinction between the two types, and leaves the second to philosophers and theologians.
+Also called "dialectic", logic is a method of reasoning, of building truthful statements based on previously disclosed truths, and of discerning true from false reasoning. There are two types of logic. Much like the various parts of speech, medieval teachers deconstruct logic in various parts of arguments and thinking. Besides the syllogism and causality, instruction in logic teaches students about definitions, divisions, homonyms, moods, figures of speech, and probable reasoning. **Formal logic** is the practical application of syllogisms and other logical reasoning, and **theoretical logic** is the use of reasonable deliberations on physics and metaphysics. Artes Liberales only teaches formal logic, making a clear distinction between the two types, and leaves the second to philosophers and theologians.
 
 The authorities used prior to the rediscovery of Aristotle — Boethius and Porphyry — teach only formal logic. With the infusion of translated works in the mid-twelfth century, Aristotle replaced the former authorities as the preeminent logician. While not making the same distinction as Boethius and Porphyry, Aristotle still views logic as merely a tool useful for metaphysical speculation. Despite this, Aristotle's works on logic far surpass those of others. The *logica nova*, the new logic, offers a more complete understanding of both causality and syllogisms. The incomplete teaching of the *logica veta*, the old logic, led to misinterpretations. While Aristotle's logical metaphysics are unorthodox and disputed by the Church, his treatment of formal logic is readily accepted in medieval educational institutions. This does not mean that every instructor in 1220 uses the New Aristotle, but that most academics agree that the Philosopher is the authority on logic.
 
@@ -641,13 +669,13 @@ Musicians are categorized into classes. Servants play instruments, but are separ
 >
 >**Characteristics:** Int +4, Per +1, Pre –2, Com +5, Str –4, Sta –1(1), Dex +1(1), Qik –1
 >
->**Size:** 0 
+>**Size:** 0
 >
->**Age:** 50 (50) 
+>**Age:** 50 (50)
 >
->**Decrepitude:** 1 (0) 
+>**Decrepitude:** 1 (0)
 >
->**Warping Score:** 0 (0) 
+>**Warping Score:** 0 (0)
 >
 >**Confidence Score:** 1 (3)
 >
@@ -661,9 +689,9 @@ Musicians are categorized into classes. Servants play instruments, but are separ
 >
 >**Soak:** –1
 >
->**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious 
+>**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 >
->**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11– 15), Incapacitated (16–20), Dead (21+)
+>**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 >
 >**Abilities:** Arabic 5 (mathematical terms), Artes Liberales 7 (arithmetic), Awareness 2 (hostels), Bargain 3 (foreign merchants), Bugia Lore 3 (merchant quarter), Carouse 2 (staying sober), Greek 5 (mathematical terms), Etiquette 3 (merchant guild dinners), Folk Ken 5 (Arab merchants), Italian 5 (accounting terminology), Latin 6 (Roman numeral terms), Merchant Guild Lore 3 (usury laws), Pisa Lore 4 (merchant quarter), Profession: Accountant 5 (abacus calculations), Profession: Scribe 5 (binding), Teaching 1 (single student)
 >
@@ -675,9 +703,9 @@ Musicians are categorized into classes. Servants play instruments, but are separ
 >
 >Leonardo of Pisa was born in Pisa in 1170. His father served as a customs official in the Algerian port of Bugia for the merchant's guild of Pisa. Leonardo was privately educated in North Africa and started helping his father at an early age. He took swiftly to numbers and accounting, developing a life-long fondness for numbers and their practical application.
 >
->In Bugia, he was introduced to "Hindu numbers," whose use over Roman numerals made his calculations much faster. At the age of twenty he traveled around the Mediterranean basin, studying with Arab mathematicians and synthesizing their ideas into his own. A mathematical genius, Leonardo seeks to turn the theoretical study of numbers to practical applications.
+>In Bugia, he was introduced to "Hindu numbers", whose use over Roman numerals made his calculations much faster. At the age of twenty he traveled around the Mediterranean basin, studying with Arab mathematicians and synthesizing their ideas into his own. A mathematical genius, Leonardo seeks to turn the theoretical study of numbers to practical applications.
 >
->Leonardo returned to Pisa in 1200, living off a family stipend and continuing his studies. In 1202 he wrote a book, *Liber abbaci*, which focused on calculating interest, the square roots of numbers whose square roots are not whole numbers, and the accurate percentages of silver and copper used to form the alloys of different nations' coins. While working on this book, he discovered a sequence of numbers he called, "the golden section," a revolutionary theory of sequential numbers.
+>Leonardo returned to Pisa in 1200, living off a family stipend and continuing his studies. In 1202 he wrote a book, *Liber abbaci*, which focused on calculating interest, the square roots of numbers whose square roots are not whole numbers, and the accurate percentages of silver and copper used to form the alloys of different nations' coins. While working on this book, he discovered a sequence of numbers he called, "the golden section", a revolutionary theory of sequential numbers.
 >
 >Leonardo wondered, if a farmer had a closed pen of one male and one female new-born rabbits (1 pair), which can produce offspring after one month, then how many rabbits would the farmer have in a year. The answer, 466 (233 pairs), was found after he determined the pattern of numbers associated with this problem: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233. This sequence of numbers continues infinitely. Leonardo also discovered that this pattern of numbers appears throughout nature, in plant leaves, seed heads, pinecones, and a plethora of growing plants.
 >
@@ -692,16 +720,16 @@ Musicians are categorized into classes. Servants play instruments, but are separ
 >Academically-minded magi have invented a spell that allows a listener to hear the normally "unheard" sounds of the orbiting planets. Having heard these sounds, a person can then compose divinely inspired church music, or gain a better understanding of the heavenly bodies. This spell is problematic; Hermetic magic easily augments human hearing, but is stunted by the Limit of the Lunar Sphere. Emanating from the heavens, the sounds' volume may not be affected, but a listener can be made more receptive to them.
 >
 >#### Hearing the Silent Chorus
->Intellego Imaginem 15<br> 
+>Intellego Imaginem 15<br>
 >R: Per, D: Conc, T: Hearing
 >
 >This spell allows the recipient to barely hear the unheard sounds of the planetary orbits. Interpreting the sounds depends upon the listener, whose player makes an Intelligence + Artes Liberales + stress die roll against an Ease Factor of 12. If successful, the player gains a +3 to the next astrology roll her character makes, or +3 to the next song the character composes. If the roll botches, the listener gains a Warping Point per zero on the botch dice. This spell only affects the specified astrology activity or song composition once; repeated castings for that activity are not effective.
 >
->(Base 3, +1 Conc, +3 Hearing,)
+>(Base 3, +1 Conc, +3 Hearing)
 
 ## Geometry
 
-Geometry is the study of immovable magnitude — lines, angles, figures, volume, and area. Study is broken into three subcategories: Theoretical geometry concerns geometric proofs and measures distances through speculative reasoning; Practical geometry surveys surfaces, calculates areas, and measures volume; Constructive geometry covers the type of geometry used by artisans and craftsmen, and is ignored by academic instructors. Because Boethius' authoritative commentary on Euclid's *Elements* doesn't contain geometrical proofs, he inadvertently placed practical geometry above theoretical. This situation is still maintained in most universities, bolstered by several books written on practical geometry, most titled *Practica geometriae*. Academics do not write books about constructive geometry, although various craftsmen do (*City & Guild*, page 73). While containing geometric calculations, a craft manual can not be read to increase a character's Artes Liberales score.
+Geometry is the study of immovable magnitude — lines, angles, figures, volume, and area. Study is broken into three subcategories: Theoretical geometry concerns geometric proofs and measures distances through speculative reasoning; Practical geometry surveys surfaces, calculates areas, and measures volume; Constructive geometry covers the type of geometry used by artisans and craftsmen, and is ignored by academic instructors. Because Boethius' authoritative commentary on Euclid's *Elements* doesn't contain geometrical proofs, he inadvertently placed practical geometry above theoretical. This situation is still maintained in most universities, bolstered by several books written on practical geometry, most titled *Practica geometriae*. Academics do not write books about constructive geometry, although various craftsmen do (*City & Guild*, page 73). While containing geometric calculations, a craft manual cannot be read to increase a character's Artes Liberales score.
 
 Theoretical geometry measures the earth and the stars, circumferences, distances, and orbits. Since no one can touch the stars to actually measure them, this remains a speculative art, based on classical authors and geometric theorems. Practical geometry, on the other hand, has realistic uses. Using a short measuring stick and an astrolabe, an academic can determine the distance, height, depth, area, and/or volume of a surface or figure. For example, he can calculate the height of a castle wall by comparing the length of the wall's shadow to the length of the shadow cast by his stick, which is of a known height. Calculating the ratio will tell him how high the wall is.
 
@@ -723,11 +751,11 @@ Astronomy touches ecclesiastical circles, because only by the stars can the exac
 
 The Almagest is advanced and difficult to understand, but it contains the most correct theories and predictable patterns for astronomic calculations. The New Aristotle makes understanding astronomy easier, but presents a problem because it conflicts with Ptolemy's theories. Aristotelian explanations prefer rational philosophy over observable data, and any intelligent scholar can witness that the stars do not move exactly as Ptolemy proposes. Scholastics invent a variety of solutions to correct the difference between the two authorities. This is less of a problem in the north, where teaching the New Aristotle is restricted
 
-The best source of current astronomical information is by the Arab scholar Māshāl allāl, and several of his tractatus exist in 1220. They have yet to be translated, but can be found in libraries in Spain and the Levant. Along with Arabic texts, the astrolabe has been reintroduced to western Mythic Europe. This device is used to determine celestial altitudes and tell time, as well as being useful for surveying by determining the depth of wells and the height of objects. Alongside the astrolabe, the quadrant and the portable sundial have likewise been introduced to the west.
+The best source of current astronomical information is by the Arab scholar Māshāʾallāh, and several of his tractatus exist in 1220. They have yet to be translated, but can be found in libraries in Spain and the Levant. Along with Arabic texts, the astrolabe has been reintroduced to western Mythic Europe. This device is used to determine celestial altitudes and tell time, as well as being useful for surveying by determining the depth of wells and the height of objects. Alongside the astrolabe, the quadrant and the portable sundial have likewise been introduced to the west.
 
 >#### Story Seed: Flying to the Moon
 >
->The ancients amazingly calculated the diameter and circumference of the earth and moon, as well as the distance from the earth to various celestial bodies, by using geometric measurements of shadows. They expressed these distances in "stades," a measurement ambiguous to thirteenth-century scholars, who prefer to express distances in miles walked in a day. Historically, Roger Bacon will calculate in the 1250s that, walking 20 miles a day, it would take a man 14 years, 7 months, and 29 days to theoretically walk to the moon. This conforms to the ancients' measurements, and places the moon 105,600 miles away from earth. The sun is 523,230 miles from earth, and the fixed stars are 6.506.125 miles removed.
+>The ancients amazingly calculated the diameter and circumference of the earth and moon, as well as the distance from the earth to various celestial bodies, by using geometric measurements of shadows. They expressed these distances in "stades", a measurement ambiguous to thirteenth-century scholars, who prefer to express distances in miles walked in a day. Historically, Roger Bacon will calculate in the 1250s that, walking 20 miles a day, it would take a man 14 years, 7 months, and 29 days to theoretically walk to the moon. This conforms to the ancients' measurements, and places the moon 105,600 miles away from earth. The sun is 523,230 miles from earth, and the fixed stars are 6,506,125 miles removed.
 >
 >Some Hermetic thinkers have already determined this distance, and think it is possible to fly to the moon. Their reasoning is as follows: Wings of the Soaring Winds allows a maga to move at 40 miles per hour, meaning she could travel 320 miles in an eight-hour day. Flying from sunup to sundown, she could cover 480 miles in a 12-hour day. Using this second calculation, it would take her 7 months and 10 days to fly to the moon. Flying constantly, it would only take her 3 months and 20 days. Most magi find this idea lunacy.
 >
@@ -773,7 +801,7 @@ There are several writing systems in Mythic Europe, each with its own separate a
 
 **Runes –** The nearly extinct writing system of Germany and Scandinavia, called the "Futhark."
 
-**Syriac –** Used for the religious writings of Christian living in Syria.
+**Syriac –** Used for the religious writings of Christians living in Syria.
 
 Each time a character increases her Artes Liberales score, she can learn a new writing system. She must have a source — either a teacher or a bi-lingual text. Sources for learning Latin, Arabic, and Greek are common, but sources for other writing systems are not. Access depends on where a character is located. It is much easier to learn Coptic in Egypt than anywhere else, for example. If a player wants his character to learn an uncommon writing system, the storyguide can insist that the character spend some in-game time acquiring an appropriate source.
 
@@ -795,12 +823,12 @@ In 1210 a special synod at Sens decreed that the philosophy of the New Aristotle
 
 ## Metaphysics
 
-The part of philosophy that attempts to posit explanations for existence, causality, and change is called metaphysics. The principle author on the subject of metaphysics is still Aristotle, who devoted much of his writing to the nature and purpose of existence, not least of which was the *Metaphysica*. Nevertheless, as in many parts of academia throughout the thirteenth century, new texts on the subject have been written — or are being written by scholars such as Robert Grosseteste — that reconcile theology with the New Aristotle, and it is this version that is presented here.
+The part of philosophy that attempts to posit explanations for existence, causality, and change is called metaphysics. The principal author on the subject of metaphysics is still Aristotle, who devoted much of his writing to the nature and purpose of existence, not least of which was the *Metaphysica*. Nevertheless, as in many parts of academia throughout the thirteenth century, new texts on the subject have been written — or are being written by scholars such as Robert Grosseteste — that reconcile theology with the New Aristotle, and it is this version that is presented here.
 
 ### Forms, Matter, and Substance
 
-At the moment of creation, God brought into being from nothing all possible **forms** and all possible **matter**. Everything was created in this single act, and there have been no subsequent creations since. Matter is the formless raw material of the universe. It was originally created as one large body called the Chaos (meaning "confusion") which occupied the whole place now occupied by the world; there was nothing outside it. The Chaos was made up of particles that are the minimal components of any object, thus they are occasionally called atoms, meaning “uncuttable.” Some particles of matter are moist, and some are dry. 
-Some of the moist particles are hot, and some are cold, similarly the case with the dry particles. These four types of particle, the building blocks of matter, are literally formless, and 
+At the moment of creation, God brought into being from nothing all possible **forms** and all possible **matter**. Everything was created in this single act, and there have been no subsequent creations since. Matter is the formless raw material of the universe. It was originally created as one large body called the Chaos (meaning "confusion") which occupied the whole place now occupied by the world; there was nothing outside it. The Chaos was made up of particles that are the minimal components of any object, thus they are occasionally called atoms, meaning “uncuttable.” Some particles of matter are moist, and some are dry.
+Some of the moist particles are hot, and some are cold, similarly the case with the dry particles. These four types of particle, the building blocks of matter, are literally formless, and
 therefore cannot be sensed in any way.
 
 Without a form, matter is simply the potentiality of a thing to exist. The form (not to be confused with a Hermetic Form) is the outline and design — the template, if you will — of what matter will become. The form of a dog, for example, is the very essence of dogness, the thing that makes a dog recognizable as a dog regardless of its size, color, demeanor, and so forth. All things that have existed, do exist, or will exist have a form, even if that thing has no physicality, such as Justice or Truth. There are some who claim that the human soul is the form of that individual, although this is not universally accepted. The forms themselves are non-material, just as matter has no form.
@@ -817,7 +845,7 @@ The other nine categories give the substance its non-material characteristics. C
 >
 >To take each category in turn:
 >
->**Substance:** The substance of a object gives it its density, hardness, malleability, warmth, and other physical characteristics. In magical terms, the substance is the Hermetic Form that the object falls under. Substance is not affected directly by Hermetic magic except through its creation and destruction. Rego and Muto instead work on the values of the substance; that is, those determined by the other categories.
+>**Substance:** The substance of an object gives it its density, hardness, malleability, warmth, and other physical characteristics. In magical terms, the substance is the Hermetic Form that the object falls under. Substance is not affected directly by Hermetic magic except through its creation and destruction. Rego and Muto instead work on the values of the substance; that is, those determined by the other categories.
 >
 >**Quality:** A man turned into a pig has all categories of quality changed, so that he looks, sounds, smells, feels, and tastes like a pig. To mundane senses, therefore, he appears as a pig. He is still a human, however, as Intellego Corpus would reveal. Note that it is not the species that are changed (unless Imaginem magic is used), it is the substance's production of those species that is affected. Natural changes in quality (such as a change in color of a stoat's fur with the season) can be produced by Rego spells.
 >
@@ -845,7 +873,7 @@ The other nine categories give the substance its non-material characteristics. C
 
 ### Cosmology
 
-At the very center of the world is a perfect **sphere of earth** upon the surface of which all material life can be found. Surrounding the sphere of earth on all sides is the **sphere of water** that constitutes the seas, although in some places the expansive water enters into the pores of the earth and runs beneath it, leaving dry land. Surrounding the sphere of water is the **sphere of air** and surrounding that is the **sphere of fire**. The fire in this outer layer is of the purest kind found, not the smoky fire found on earth, and when illuminated by the sun it burns with a bright blue flame giving the sky its color. These four spheres constitute the sublunar world, for they are divided from the heavens by the Lunar Sphere described by the orbit of the moon. Each of the other six of the planets has a sphere of its own, each one wholly enclosing the preceding one, until the twelfth and final sphere, that of the fixed stars (see Chapter Two: Artes Liberales, Astrology).
+At the very center of the world is a perfect **sphere of earth** upon the surface of which all material life can be found. Surrounding the sphere of earth on all sides is the **sphere of water** that constitutes the seas, although in some places the expansive water enters into the pores of the earth and runs beneath it, leaving dry land. Surrounding the sphere of water is the **sphere of air** and surrounding that is the **sphere of fire**. The fire in this outer layer is of the purest kind found, not the smoky fire found on earth, and when illuminated by the sun it burns with a bright blue flame giving the sky its color. These four spheres constitute the sublunar world, for they are divided from the heavens by the Lunar Sphere described by the orbit of the moon. Each of the other six of the planets has a sphere of its own, each one wholly enclosing the preceding one, until the twelfth and final sphere, that of the fixed stars (see Chapter Two: Artes Liberales, Astronomy).
 
 The constitution of the supralunar spheres, and indeed the heavenly orbs themselves, is a matter of conjecture among philosophers. The majority opinion is in accordance with Aristotle, that earth, water, air, and fire exist only below the sphere of the Moon. Above this limit there is a fifth element called *aether*, which is neither hot nor cold, dry nor moist, and has corpuscles that are the shape of dodecahedra. According to Aristotle, aether exists only above the Lunar Sphere and is the only thing that exists there, being the constituent matter of both the planetary spheres and the planets themselves. There are some who deny the existence of aether, preferring that the sphere of fire extends out unto the sphere of fixed stars. In such a cosmology, the spheres of the planets do not exist as actual entities, but are simply the orbits of the wandering stars. Among the Order of Hermes the consensus is that Aristotle was right; and many consider the Limit of the Lunar Sphere and the sphere of the Moon to be one and the same: the boundary between the laws of the mundane world, which can be manipulated with magic; and the laws of the celestial realm, which are the exclusive domain of the Divine.
 
@@ -875,7 +903,7 @@ The act of generation is rarely the creation of a substance where there was none
 
 #### Consequences of Generation and Destruction
 
-Only supernatural powers (such as the Hermetic Art of Creo) can combine matter and form together to apparently create something de novo from thin air. The ambient matter from which things are magically generated is all around us, but without a form it has no categories, and thus possesses no mass or dimensions, nor generates sensory species. It is impossible for a magus to use Creo to create something that cannot exist, such as a foursided triangle — such things are not natural, pre-existing forms, and so are outside the capacity of Creo magics. However, a green dog is possible, because “green” is part of the category of quality of the dog, not part of its form. Further, Creo magic cannot cause a cat to grow wings, because wings are not part of the form of a cat, but it can restore a leg which has been removed. When Creo is used to heal or repair, it is reasserting the original form of the substance, thus banishing any changes in categories (such as wounds).
+Only supernatural powers (such as the Hermetic Art of Creo) can combine matter and form together to apparently create something de novo from thin air. The ambient matter from which things are magically generated is all around us, but without a form it has no categories, and thus possesses no mass or dimensions, nor generates sensory species. It is impossible for a magus to use Creo to create something that cannot exist, such as a four-sided triangle — such things are not natural, pre-existing forms, and so are outside the capacity of Creo magics. However, a green dog is possible, because “green” is part of the category of quality of the dog, not part of its form. Further, Creo magic cannot cause a cat to grow wings, because wings are not part of the form of a cat, but it can restore a leg which has been removed. When Creo is used to heal or repair, it is reasserting the original form of the substance, thus banishing any changes in categories (such as wounds).
 
 Perdo magic dissolves substances, not matter. When the form is separated from its matter, the substance no longer exists, but both the form and the matter from which it was made are still there. However, since form is non-material and matter is formless, the destroyed object vanishes. Because Perdo magic damages categories and substance, it cannot improve an object since its target moves further away from its ideal form.
 
@@ -907,7 +935,7 @@ In the sublunar world, the **natural movement** of inanimate objects is always i
 
 In addition to the natural motion of objects, they may also experience **precipitate motion** (also called violent or accidental motion), which is motion contrary to that naturally determined by an object's dominant element. The initial mover in precipitate motion is usually easy to identify since it must be in physical contact with the thing it moves. Thus a man is the initial mover when he throws a stone, and to do so he must overcome the resistance of the stone that comes about through its desire to move naturally downwards. But what keeps the stone moving once it has lost contact with its initial mover? The initial mover not only moves the stone, but also moves the air through which it is launched. The first portion of air pushes the stone and simultaneously activates the adjacent portion of air, which pushes the stone a bit further, and so on. As the process continues, the motive power of successive units of air gradually diminishes until a unit of air is reached that is incapable of activating the next unit because its own resistance is too great. At this point the stone begins to fall with its natural downward motion.
 
-Both fire and water can also propagate the precipitate motion of an object; only the element of earth, which is absolutely immobile, cannot do so. Water is more dense than air and thus has more resistance, consequentially precipitate motion does not take an object so far as in air before natural motion takes over. Fire, on the other, hand is less dense than air and an object set in precipitate motion in the sphere of fire continues to move for much longer than would be possible in air; witness the long years that comets or meteors stay within the sphere of fire.
+Both fire and water can also propagate the precipitate motion of an object; only the element of earth, which is absolutely immobile, cannot do so. Water is more dense than air and thus has more resistance, consequentially precipitate motion does not take an object so far as in air before natural motion takes over. Fire, on the other hand, is less dense than air and an object set in precipitate motion in the sphere of fire continues to move for much longer than would be possible in air; witness the long years that comets or meteors stay within the sphere of fire.
 
 Above the Lunar Sphere, movement may operate according to different rules. Those philosophers who, following Aristotle, posit the existence of aether in the celestial realm theorize that the natural motion of aether is circular rather than linear, and thus the rotation of the heavenly spheres is a product of their eternal natural motion. Dissenting voices who deny the existence of aether claim that the sphere of fire extends into the celestial realm, becoming increasingly rarefied until it offers objects no resistance at all. Consequentially the wandering stars, set in precipitate motion by the Prime Mover when He created them, still move unto this day in their eternal orbits.
 
@@ -951,7 +979,7 @@ An object propelled and guided infallibly to its target with Rego magic (such as
 
 ## Natural Philosophy
 
-Whereas metaphysics is the study of *why* the world like it is, natural philosophy considers *what* the world is. Those who study natural philosophy seek answers about geography, geology, and meteorology as well as about living things such as plants, fish, birds, and mammals. Much of this knowledge is contained within the great works of the encyclopedic authors. Pliny's *Natural Histories* covers 37 books, in the first of which he claims to include the wisdom of over 2,000 other books by no less than a hundred primary authors (and countless secondary sources). Pliny's work emphasizes the curious and the odd in natural phenomena: 24 books on zoology and botany; five on mineralogy; two on geography; and one each on cosmography and the human condition. Almost as extensive, and even more influential, is Isidore of Seville's 20-volume encyclopedia *The Etymologies*. This vast work, as the name suggests, emphasizes the importance of knowing the derivation of a word, and the insight that conveys into the essence and structure of that thing to which it refers.
+Whereas metaphysics is the study of *why* the world is like it is, natural philosophy considers *what* the world is. Those who study natural philosophy seek answers about geography, geology, and meteorology as well as about living things such as plants, fish, birds, and mammals. Much of this knowledge is contained within the great works of the encyclopedic authors. Pliny's *Natural Histories* covers 37 books, in the first of which he claims to include the wisdom of over 2,000 other books by no less than a hundred primary authors (and countless secondary sources). Pliny's work emphasizes the curious and the odd in natural phenomena: 24 books on zoology and botany; five on mineralogy; two on geography; and one each on cosmography and the human condition. Almost as extensive, and even more influential, is Isidore of Seville's 20-volume encyclopedia *The Etymologies*. This vast work, as the name suggests, emphasizes the importance of knowing the derivation of a word, and the insight that conveys into the essence and structure of that thing to which it refers.
 
 >#### Journeys into the Unknown
 >
@@ -1023,8 +1051,8 @@ The plants are of two kinds: the green herbs and the fruit-bearing trees. The he
 
 #### Living Creatures of the Waters
 
-Those things that live in the water, even if they can also live on land, are accounted among the *pisces* or fishes. Swimming is a form of creeping — fish pull themselves through the water with their fins just as reptiles pull themselves across the surface of the land. Some fish are called amphibians if they can live on land as well as in the water, and such creatures include crocodiles, seals, bea
-vers, and otters. Fish have a lesser share in the apprehensive powers of the living soul than do land animals. Hence they are less able to respond to their environment, and on that account they have less life.
+Those things that live in the water, even if they can also live on land, are accounted among the *pisces* or fishes. Swimming is a form of creeping — fish pull themselves through the water with their fins just as reptiles pull themselves across the surface of the land. Some fish are called amphibians if they can live on land as well as in the water, and such creatures include crocodiles, seals,
+beavers, and otters. Fish have a lesser share in the apprehensive powers of the living soul than do land animals. Hence they are less able to respond to their environment, and on that account they have less life.
 
 #### Living Creatures of the Air
 
@@ -1038,7 +1066,7 @@ Some animals are harmful to man, but, like those plants that are poisonous, they
 
 #### Worms
 
-The living creatures of the waters, the air, and the earth multiply through propagation, but there are also those animals that multiply through simple generation. These creatures arise from the elements, from plants, or from rottenness, and are called the *vermes*, or worms, from whence we get the name "vermin." Mice are the largest of the vermin, born of damp earth; scorpions come from dry earth; other land-worms include centipedes, earthworms, and ants. Spiders are worms of the air, which produce from their bodies long threads and never cease in their weaving. Eels and frogs are born from slime and mud in rivers and ponds, and the blood-sucking leech is also a waterworm. Leaf-worms include the caterpillars, locusts, and beetles; they are born from rotting plants, and consume vegetation. Flesh worms are the most unpleasant for they live inside of man and living creatures; *enigramus* is a worm that lives in the head, and *lumbicus* dwells in the stomach. Lice and fleas live on the skin, whereas bees and flies emerge from rotting flesh.
+The living creatures of the waters, the air, and the earth multiply through propagation, but there are also those animals that multiply through simple generation. These creatures arise from the elements, from plants, or from rottenness, and are called the *vermes*, or worms, from whence we get the name "vermin." Mice are the largest of the vermin, born of damp earth; scorpions come from dry earth; other land-worms include centipedes, earthworms, and ants. Spiders are worms of the air, which produce from their bodies long threads and never cease in their weaving. Eels and frogs are born from slime and mud in rivers and ponds, and the blood-sucking leech is also a waterworm. Leaf-worms include the caterpillars, locusts, and beetles; they are born from rotting plants, and consume vegetation. Flesh worms are the most unpleasant for they live inside of man and living creatures; *enigramus* is a worm that lives in the head, and *lumbricus* dwells in the stomach. Lice and fleas live on the skin, whereas bees and flies emerge from rotting flesh.
 
 >#### Generating Worms
 >
@@ -1051,7 +1079,7 @@ The living creatures of the waters, the air, and the earth multiply through prop
 >**Level 5:** Cause vermin to spontaneously generate in appropriate matter, such as flesh, plants, soil, or water.
 >
 >#### Plague of Frogs
->Rego Animal 20<br> 
+>Rego Animal 20<br>
 >R: Touch, D: Mom, T: Group
 >
 >A swarm of frogs spontaneously generates in a pool of water touched by the caster. A pool five paces across and two paces deep can produce one thousand frogs; for every ten-fold increase in volume, ten times as many frogs are produced up to a maximum of 20,000 (which is a mass of frogs equal to that of ten pigs). Likewise, a smaller pool produces fewer frogs: a pool one tenth the size produces a hundred frogs, and one that is a hundredth of the size (about one pace across and half a pace deep) spawns just 10 frogs. The water in the pool is not diminished by this spell.
@@ -1059,8 +1087,8 @@ The living creatures of the waters, the air, and the earth multiply through prop
 >(Base 5, +1 Touch, +2 Group)
 >
 >#### The Verminous Infestation
->Rego Animal 20<br> 
-R: Eye, D: Mom, T: Ind Req: Perdo, Corpus
+>Rego Animal 20<br>
+>R: Eye, D: Mom, T: Ind Req: Perdo, Corpus
 >
 >The target of this spell is infested with fleshworms, which set up residence in his intestines. The victim immediately acquires Worms, as described in Chapter Four: Medicine, Disease, except that the symptoms occur immediately.
 >
@@ -1070,7 +1098,7 @@ R: Eye, D: Mom, T: Ind Req: Perdo, Corpus
 
 The mind, as nourished by the sensitive faculty (see Chapter Four: Medicine), is the link between the body and the soul. The functions of the sensitive faculty — collectively called the inner wits — are the five components of the mind. Note that these wits have common names that do not exactly match their meanings in modern English. The **common sense** gathers the input of the sense organs, and the **imagination** stores them. The **memory** archives experiences and thoughts, which are used by the **cognition** to make decisions. Finally, the **estimation** deals with instinctual responses to external stimuli. Each of the wits is described in detail below. These five wits are possessed by any being with a sensitive faculty, not just humans; however, the animal mind has a greatly diminished cognition and an abundance of estimation.
 
-The principle difference between the mind of an animal and that of a human is the possession of a soul, which is unique to rational beings such as humans, angels, and demons. The soul provides both **reason** (*ratio*) and **intellect** (*intellectus*). Reason is exercised when one proceeds step by step to prove a truth that is not self-evident, and is the highest function of the cognition working in conjunction with the soul. Reason uses the input from all the inner wits — the sensory species composited in the common sense, the unsensed impressions of the estimation, the memory of past events, and the imaginative powers of the cognition — to reach a conclusion that none of the individual parts of the mind is capable of reaching alone.
+The principal difference between the mind of an animal and that of a human is the possession of a soul, which is unique to rational beings such as humans and angels. The soul provides both **reason** (*ratio*) and **intellect** (*intellectus*). Reason is exercised when one proceeds step by step to prove a truth that is not self-evident, and is the highest function of the cognition working in conjunction with the soul. Reason uses the input from all the inner wits — the sensory species composited in the common sense, the unsensed impressions of the estimation, the memory of past events, and the imaginative powers of the cognition — to reach a conclusion that none of the individual parts of the mind is capable of reaching alone.
 
 The intellect is the power of understanding, the process of revealing the self-evident, a simple grasp of an intelligible truth. Angels are blessed with perfect understanding — *intelligentia* — in that things which are sensed are fully comprehended; there is no need for reason to reveal them. Intellect is clouded intelligentia, which provides frequent but momentary glimpses of true understanding; the flash of inspiration and the dawning of comprehension. The intellect is also the organ of morality and the seat of conscience; the soul knows what is good and what is bad without the need for logic.
 
@@ -1088,7 +1116,7 @@ Cognition is the part of the mind where decisions are made. It is a receptacle o
 
 #### Estimation
 
-The estimation or *vis aestimativa* covers instinct. It detects the practical, the biological significance of things. It enables a cow to pick out her calf, or to seek shelter from the elements. Such decisions are not formed by the reasoning powers, and friendship or enmity are not perceived by the senses. Estimation is the instinct to act in a particular manner based on judgment rather than decision, so is distinct from cognition. Cognition is concerned with the images of the senses to open the way to a discursive synthesis and analysis of senseperceptions. Estimation, on the other hand, operates on the derivatives of the current sense-perceptions, recognizing danger, food, friendship, and so forth — none of which are directly sensed — and motivating the locomotive powers appropriately. It is this wit that causes the emotional states of *gaudium*, *laetitia*, *ira, tristitia,* and *timor* (see Chapter Four: Medicine, Emotional States) as a response to the instinctual reaction to an object.
+The estimation or *vis aestimativa* covers instinct. It detects the practical, the biological significance of things. It enables a cow to pick out her calf, or to seek shelter from the elements. Such decisions are not formed by the reasoning powers, and friendship or enmity are not perceived by the senses. Estimation is the instinct to act in a particular manner based on judgment rather than decision, so is distinct from cognition. Cognition is concerned with the images of the senses to open the way to a discursive synthesis and analysis of sense-perceptions. Estimation, on the other hand, operates on the derivatives of the current sense-perceptions, recognizing danger, food, friendship, and so forth — none of which are directly sensed — and motivating the locomotive powers appropriately. It is this wit that causes the emotional states of *gaudium*, *laetitia*, *ira, tristitia,* and *timor* (see Chapter Four: Medicine, Emotional States) as a response to the instinctual reaction to an object.
 
 #### Memory
 
@@ -1106,7 +1134,7 @@ Hermetic magic cannot affect the functions of the soul — reason and intellect 
 >
 >The Level 3 guideline "Form words in another's mind" can create any sensory species in another's common sense (not just audible ones), thus creating a hallucination that only the target can perceive. Additional species cost one magnitude each, and particularly complex hallucinations require the same modifications as creating complex images (**ArM5**, page 144).
 >
->The Level 4 guideline "Put a thought or emotion into another's mind" creates imagination or estimation respectively. Creating imagination literally puts thoughts in another's mind. Creating estimation invokes the emotion of *gaudium*, *la-* *etitia*, *ira*, *tristitia*, or *timor* (see Chapter Four: Medicine, Emotional States) without an appropriate stimulus.
+>The Level 4 guideline "Put a thought or emotion into another's mind" creates imagination or estimation respectively. Creating imagination literally puts thoughts in another's mind. Creating estimation invokes the emotion of *gaudium*, *laetitia*, *ira*, *tristitia*, or *timor* (see Chapter Four: Medicine, Emotional States) without an appropriate stimulus.
 >
 >The Level 5 guideline "Create a memory in another's mind" can also create items of cognition. This can bring a dream to a sleeping person, instill in him a long-term plan for the future, or make him apply his mind to trying to overcome a problem. It cannot force him to follow through with these plans.
 >
@@ -1137,14 +1165,14 @@ This spell places a hallucinatory person in the mind of another through the comm
 #### Intellego Mentem Spells
 
 >#### Intellego Mentem Guidelines
->The Level 5 guideline “Sense a single emotion in a being” reads the target’s estimation, as does the Level 10 “Sense all of the emotions in a being.” This guideline can also read a single sensory input from 
-the target’s common sense.
+>The Level 5 guideline “Sense a single emotion in a being” reads the target’s estimation, as does the Level 10 “Sense all of the emotions in a being.” This guideline can also read a single sensory input from
+>the target’s common sense.
 >
->The Level 15 guideline “Read a person’s surface thoughts” interrogates the imagination, and can also be used to read the entire common sense, thus perceiving whatever the target is perceiving with all 
-of his sense organs.
+>The Level 15 guideline “Read a person’s surface thoughts” interrogates the imagination, and can also be used to read the entire common sense, thus perceiving whatever the target is perceiving with all
+>of his sense organs.
 >
->The Level 20 guideline “Read the last day’s memories from one person” can also read the short-term plans from the person’s cognition. If cast while a target is dreaming, spells based on this guideline 
-can eavesdrop on those dreams.
+>The Level 20 guideline “Read the last day’s memories from one person” can also read the short-term plans from the person’s cognition. If cast while a target is dreaming, spells based on this guideline
+>can eavesdrop on those dreams.
 
 **Borrow the Eyes of Another**<br>
 InMe 30<br>
@@ -1238,11 +1266,11 @@ This spell wipes the memory of the target clean, removing every stored idea and 
 >
 >The Level 20 guideline "Give a person a complex command, which he tries to carry out to the best of his abilities" directly controls the cognition, setting the target's goals towards that determined by the caster.
 
-**Call the Dream**<br> 
+**Call the Dream**<br>
 ReMe 20<br>
 R: Touch, D: Sun, T: Ind
 
-The caster touches a sleeping person and determines the theme for that night's dreaming. The actual content of the dream cannot be determined. For example, if the theme is "death" the target might dream about the death of a loved one, or the lifethreatening circumstances he has been in. If the theme is "dogs" he might dream of a beloved childhood pet or being hunted by the lord's hounds. Some magi try to interpret the meaning of the dreams called by this spell.
+The caster touches a sleeping person and determines the theme for that night's dreaming. The actual content of the dream cannot be determined. For example, if the theme is "death" the target might dream about the death of a loved one, or the life-threatening circumstances he has been in. If the theme is "dogs" he might dream of a beloved childhood pet or being hunted by the lord's hounds. Some magi try to interpret the meaning of the dreams called by this spell.
 
 (Base 5, +1 Touch, +2 Sun)
 
@@ -1250,7 +1278,7 @@ The caster touches a sleeping person and determines the theme for that night's d
 ReMe 20<br>
 R: Eye, D: Sun, T: Ind
 
-The target of this spell gets a +3 to all sight-based Perception rolls involving a specific object or quality defined at the time of casting. Examples might include the color red, a particular person, or a unusually shaped shell. Magi often employ this spell to help their servants locate a particular type of vis, as long as they have a sample to show the servant. It does not give the target any extra senses, just more sensitivity to a particular visual characteristic.
+The target of this spell gets a +3 to all sight-based Perception rolls involving a specific object or quality defined at the time of casting. Examples might include the color red, a particular person, or an unusually shaped shell. Magi often employ this spell to help their servants locate a particular type of vis, as long as they have a sample to show the servant. It does not give the target any extra senses, just more sensitivity to a particular visual characteristic.
 
 (Base 5, +1 Eye, +2 Sun)
 
@@ -1266,11 +1294,11 @@ The caster receives a +3 to all Concentration rolls for the Duration of this spe
 
 Moral philosophy focuses on man's ethical, political, and economic condition. Discussions of moral philosophy are merely beginning in 1220, historically not reaching any discernible importance until the end of the thirteenth century. Little has yet been written on economics. John of Salisbury's *Policraticus* is the text that stands out among the few books written about politics. John describes the difference between a prince and a tyrant; that the prince rules through love and follows the higher law of "justice" (meaning the Church). It makes the analogy that the prince is the head of the family. A clergyman, John places ecclesiastical law over secular rulers, and much of the *Policraticus* is a justification for this hierarchy.
 
-Moral philosophy is discussed both in the courses of the liberal arts and the faculties of theology. The largest debate is between the faculties, and the University of Paris is at the center of this debate. The faculty of arts proposes that man can find happiness in and of himself, through good actions and sound judgment, while the faculty of theology declares that man's earthly happiness is only a pale shadow of the happiness found in the afterlife. Man can find true happiness only in God, say they. While scholars might expresses opinions on the proper role of a king and his governance, no princely lord is obligated to listen. And when proper prices and monetary responsibility are discussed, which is rarely, it stays at the university and does not penetrate the minds of guilds and craftsmen. Most moral questions can be answered by adherence to the scriptures and patristic writings.
+Moral philosophy is discussed both in the courses of the liberal arts and the faculties of theology. The largest debate is between the faculties, and the University of Paris is at the center of this debate. The faculty of arts proposes that man can find happiness in and of himself, through good actions and sound judgment, while the faculty of theology declares that man's earthly happiness is only a pale shadow of the happiness found in the afterlife. Man can find true happiness only in God, say they. While scholars might express opinions on the proper role of a king and his governance, no princely lord is obligated to listen. And when proper prices and monetary responsibility are discussed, which is rarely, it stays at the university and does not penetrate the minds of guilds and craftsmen. Most moral questions can be answered by adherence to the scriptures and patristic writings.
 
 ### Ethics
 
-The introduction of Aristotle's *Nicomachean Ethics* had less of an impact on philosophical discussion than other texts of the New Aristotle, primarily because the whole of it is still not translated. Aristotle states that man can be happy, and that his happiness does not depend upon any outside force, like the One God, but upon his own actions and decisions. This practical ethics is later modified by the Philosopher's ideas of theoretical ethics, in which Aristotle does admit that there is a distinction between the theory and practice of human ethics. This later volume of theoretical ethics is unknown in 1220, making scholars believe that Aristotle's practical ethics carries more weight then initially imagined.
+The introduction of Aristotle's *Nicomachean Ethics* had less of an impact on philosophical discussion than other texts of the New Aristotle, primarily because the whole of it is still not translated. Aristotle states that man can be happy, and that his happiness does not depend upon any outside force, like the One God, but upon his own actions and decisions. This practical ethics is later modified by the Philosopher's ideas of theoretical ethics, in which Aristotle does admit that there is a distinction between the theory and practice of human ethics. This later volume of theoretical ethics is unknown in 1220, making scholars believe that Aristotle's practical ethics carries more weight than initially imagined.
 
 Prior to the New Aristotle, Peter Abelard wrote extensively on the matter of sin, good, and evil, and these topics fell within the range of moral philosophy. Before him, these issues were extensively discussed, but not in a philosophical context. Rather, commentators had been moralizers (recommending certain behaviors rather than analyzing morality itself), theologians (deriving morality from scripture), or metaphysicians (interested in concepts rather than conduct). Abelard makes an attempt to explain what moral concepts actually are, and what their relation is to choice and deliberation. He makes a distinction between the willingness to sin and the act itself. While both are evil, the intent is worse than the action, since the intent is the necessary cause of the action and the action is inevitable once the intent is accepted. Abelard's theories were declared heretical and burned, more so for the polemical and egotistical personality of the author than for the ideas expressed. They are, however, the canonical definition of sin in **Ars Magica Fifth Edition** (see *Realms of Power: The Infernal*).
 
@@ -1278,7 +1306,7 @@ In general, scholars propose a direct link between the quality of goodness and t
 
 #### Conscience
 
-It is evident that good men sometimes do bad things, with the contrary also being true, but more rarely. Every soul is made by God, who has also given man aid in determining if his actions are good, leading to salvation, or bad, leading to damnation. Every man has also been given free will, to determine which course he will take when presented with good and bad choices for action. The active agent in choosing between good and evil is **conscience**. There are two aspects to conscience: *synderesis*, which is the spark of Godgiven conscience that cannot be mistaken between good and evil, and which is not subject to free will; and *conscientia*, which is subject to free choice and can be mistaken.
+It is evident that good men sometimes do bad things, with the contrary also being true, but more rarely. Every soul is made by God, who has also given man aid in determining if his actions are good, leading to salvation, or bad, leading to damnation. Every man has also been given free will, to determine which course he will take when presented with good and bad choices for action. The active agent in choosing between good and evil is **conscience**. There are two aspects to conscience: *synderesis*, which is the spark of God-given conscience that cannot be mistaken between good and evil, and which is not subject to free will; and *conscientia*, which is subject to free choice and can be mistaken.
 
 Conscience is not an active agent, rather being a reactive response to an experience or choice. A man feels the pangs of *conscientia antecedens* when the choice to do evil is made, and this serves as a warning. The stronger *conscientia consequens* follows an evil deed and serves to realign bad behavior. An intelligent man, one who has turned his bad will into bad (evil) actions, should remember the experience of *conscientia consequens* as uncomfortable, and judge future actions based on the unease of his past behavior. God's gift of free will is strong, though, and many men have grown accustomed to suppressing their *conscientia*, and ignoring the small stings of *synderesis*.
 
@@ -1300,7 +1328,7 @@ Conscience is not an active agent, rather being a reactive response to an experi
 
 # Chapter Four: Medicine
 
-*Medicine is the science by which the dispositions of the human body are known so that whatever is necessary is removed or healed by it, in order that health should be preserved; or, if absent, recovered.* 
+*Medicine is the science by which the dispositions of the human body are known so that whatever is necessary is removed or healed by it, in order that health should be preserved; or, if absent, recovered.*
 
 *— The Canon of Medicine* by Avicenna
 
@@ -1312,7 +1340,7 @@ The final section of this chapter discusses the physician himself, and includes 
 
 ## The Natural Faculty
 
-The natural, or vegetative, faculty is present in every living part of the human body. It is distributed by the veins, mixed in with the blood and the other humors. The principle organ of the natural faculty is the liver, in which the faculty arises from the food passed to it by the stomach and intestines. The purpose of the natural faculty is twofold: the first is nutritive, concerned with the welfare and preservation of the individual; the second is reproductive, focusing on the propagation of the human race.
+The natural, or vegetative, faculty is present in every living part of the human body. It is distributed by the veins, mixed in with the blood and the other humors. The principal organ of the natural faculty is the liver, in which the faculty arises from the food passed to it by the stomach and intestines. The purpose of the natural faculty is twofold: the first is nutritive, concerned with the welfare and preservation of the individual; the second is reproductive, focusing on the propagation of the human race.
 
 The natural faculty is assisted by the four forces inherent to it. When the natural spirit reaches the tissues, the **appetitive force** causes the nutritive humors in the veins to be absorbed by the organs according to their need. The **retentive force** causes the material that is drawn in to be held in position during the time in which the **digestive force** is engaged in transforming the natural faculty of the humors into another substance. The **expulsive force** exists to rid the body of the waste products of the digestive process.
 
@@ -1322,7 +1350,7 @@ The natural faculty is assisted by the four forces inherent to it. When the natu
 
 The natural faculty is formed from **chyle**, the porridge-like pulp that is a result of the digestion of food. The chyle is drawn from the stomach to the liver by the appetitive force, and is subjected further to the digestive force, changing it into the natural faculty. Some of the natural faculty is distributed to other organs via the veins, and is transformed further into the four humors, and into **cambion** and **sperma**. Cambion can be formed anywhere in the body, and it is transformed further into flesh and fat, as well as other fluids of the body such as breast milk. Cambion cannot be used to make most of the other tissues of the body, such as bones, veins, arteries, and nerves, but it can repair these tissues if they are damaged.
 
-Sperma is formed only in the generative organs, and fulfills the reproductive function of the natural faculty. Sperma is the root material from which the tissues of the body derive, but this can only occur when male and female sperma come together to form an embryo, in a manner which can be compared to the making of cheese. The male sperma is equivalent to the clotting agent of milk, and the female sperma is equivalent to the coagulum of milk. A woman’s womb has seven compartments; if male sperma clots the female sperma in one of the warmer right-hand compartments then a male child is engendered. The cooler lefthand compartments produce female children; where as the single central compartment on occasion produces a hermaphrodite. Multiple births occur when the male sperma enters more than one compartment.
+Sperma is formed only in the generative organs, and fulfills the reproductive function of the natural faculty. Sperma is the root material from which the tissues of the body derive, but this can only occur when male and female sperma come together to form an embryo, in a manner which can be compared to the making of cheese. The male sperma is equivalent to the clotting agent of milk, and the female sperma is equivalent to the coagulum of milk. A woman’s womb has seven compartments; if male sperma clots the female sperma in one of the warmer right-hand compartments then a male child is engendered. The cooler left-hand compartments produce female children; whereas the single central compartment on occasion produces a hermaphrodite. Multiple births occur when the male sperma enters more than one compartment.
 
 >#### Babies of Hermes
 >
@@ -1332,15 +1360,15 @@ During pregnancy, the embryo is nourished with the menstrual blood of the woman,
 
 ### The Four Humors
 
-A humor is a bodily fluid in which the natural faculty lies, and is the source of one of the four forces. There are four humors: the hot and moist parts of the natural faculty form the blood, hot and dry parts make up the choler, the cold and moist parts constitute the phlegm, and the cold and dry parts make melancholy. Healthy or "good" humor has the capacity to be transformed into actual bodily substance, either by itself or in combination with something else. The residue from this transformation is called a "superfluity," an unhealthy or bad humor. The body expels these bad humors to maintain proper health.
+A humor is a bodily fluid in which the natural faculty lies, and is the source of one of the four forces. There are four humors: the hot and moist parts of the natural faculty form the blood, hot and dry parts make up the choler, the cold and moist parts constitute the phlegm, and the cold and dry parts make melancholy. Healthy or "good" humor has the capacity to be transformed into actual bodily substance, either by itself or in combination with something else. The residue from this transformation is called a "superfluity", an unhealthy or bad humor. The body expels these bad humors to maintain proper health.
 
-The fluid carried in the veins is predominantly blood, but in its healthy state it also contains various proportions of the other three humors, as well the superfluities being carried to their various organs of excretion. In a sick person, the veins also contain morbid or putrid humors, which are a result of excessive or insufficient digestion.
+The fluid carried in the veins is predominantly blood, but in its healthy state it also contains various proportions of the other three humors, as well as the superfluities being carried to their various organs of excretion. In a sick person, the veins also contain morbid or putrid humors, which are a result of excessive or insufficient digestion.
 
 #### Correspondences of the Humors
 | Humor                         | Force     | Age                    | Season  | Element  | Quality               | Opposition |
 |-------------------------------|-----------|------------------------|---------|----------|-----------------------|------------|
 | Blood                         | Digestive | Childhood              | Spring  | Air      | Moisture with Heat | Melancholy |
-| Choler                        | Appetitive |  Adolescence          | Summer  | Fire     | Heat with Dryness  | Phlegm     |
+| Choler                        | Appetitive | Adolescence           | Summer  | Fire     | Heat with Dryness  | Phlegm     |
 | Melancholy                    | Retentive | Adulthood              | Autumn  | Earth    | Dryness with Cold  | Blood      |
 | Phlegm                        | Expulsive | Old Age                | Winter  | Water    | Cold with Moisture | Choler     |
 
@@ -1374,7 +1402,7 @@ The substance of a body is composed of tissues; some derived from sperma (bone, 
 
 The most important organs of the body are those that play a leading role in one of the four concoctions. A concoction is the process through which the non-natural substances (see the Non-Naturals, below) are converted into the three faculties. The **first concoction** turns food into chyle in the stomach. The waste products are the feces, which are excreted through the intestine. The **second concoction** takes place in the liver, turning the chyle into natural faculty, which is then differentiated into the four humors in their respective organs. The waste product of this concoction is urine, which is excreted by the kidneys. The **third concoction** is where air, drawn in through the lungs, is mixed with natural faculty in the heart and converted into vital faculty, then distributed to the body via the arteries. The waste product is the exhaled air. The third concoction also combines the input of the sense organs with the natural faculty to form the sensitive faculty in the brain. The waste products are tears, mucus, and earwax, which are expelled through the eyes, nostrils, and ears. The sensitive faculty is distributed in the nerves. The **fourth concoction** takes place in the tissues, and turns the humors (primarily blood) into cambion and sperma. The waste products of this concoction are excreted by the skin as sweat, hair, and nails. Cambion is used to grow flesh and fat, sperma is the base substance of an embryo.
 
-The principal organs, therefore, are the stomach, the liver, the heart, and the brain, where these concoctions take place. The secondary organs are those that either bring the raw substance of a concoction to the principle organ (mouth, lungs, sense organs), those that are the destination of the concocted substance (spleen, gallbladder, pituitary, generative organs), or the receptacles of the waste products (kidneys, intestines, skin). There are also auxiliary organs that distribute the faculties (veins, arteries, and nerves for the natural, vital, and sensitive faculties respectively).
+The principal organs, therefore, are the stomach, the liver, the heart, and the brain, where these concoctions take place. The secondary organs are those that either bring the raw substance of a concoction to the principal organ (mouth, lungs, sense organs), those that are the destination of the concocted substance (spleen, gallbladder, pituitary, generative organs), or the receptacles of the waste products (kidneys, intestines, skin). There are also auxiliary organs that distribute the faculties (veins, arteries, and nerves for the natural, vital, and sensitive faculties respectively).
 
 ## The Vital Faculty
 
@@ -1419,13 +1447,13 @@ The four basic complexions are **sanguine**, **choleric**, **melancholic**, and 
 >
 >#### Personality Traits for the Four Complexions
 >
->**Sanguine:** Hopeful, Friendly, Amorous, Compassionate, Temperate, Restless, Weak-Willed, Obnoxious, Insecure, Self-Obsessed, Lustful, Gluttonous>
+>**Sanguine:** Hopeful, Friendly, Amorous, Compassionate, Temperate, Restless, Weak-Willed, Obnoxious, Insecure, Self-Obsessed, Lustful, Gluttonous
 >
 >**Choleric:** Self-Reliant, Optimistic, Courageous, Decisive, Determined, Domineering, Proud, Hot-Tempered, Angry, Prejudiced, Cruel
 >
 >**Melancholic:** Caring, Loyal, Sensitive, Altruistic, Creative, Idealistic, Generous, Just, Pessimistic, Pompous, Vengeful, Touchy, Unsociable, Envious
 >
->**Phlegmatic**: Calm, Dependable, Contemplative, Easy Going, Peaceful, Loyal, Prudent, Lazy, Fearful, Stubborn, Paranoid, Selfish, Avaricious
+>**Phlegmatic:** Calm, Dependable, Contemplative, Easy Going, Peaceful, Loyal, Prudent, Lazy, Fearful, Stubborn, Paranoid, Selfish, Avaricious
 
 >#### Complexional Magic
 >
@@ -1435,7 +1463,7 @@ The four basic complexions are **sanguine**, **choleric**, **melancholic**, and 
 
 #### Complexion and Personality
 
-Complexion does not merely affect physical appearance; in fact, personality is a much bigger clue to the principle humor than morphology. There are both positive and negative sides to each complexion, and just as few people are pure representatives of a single complexion, not all persons with the same principle complexion will act alike. The stereotypes for each complexion can be linked to the stages of growth. The extreme sanguine personality is like that of a child, friendly and playful, but also petulant and easily lead. The extreme choleric is a surly adolescent, with powerful passions making him brave and seeking his independence, but also proud and uncaring. The melancholic complexion finds its extreme in the adult or parent stage of life; such a person is loyal and nurturing, but often believes that he knows best. Finally, the phlegmatic is akin to an old man, filled with wisdom and calm from a lifetime's experience, but also weary of the world's cares and fearful of approaching senility and death.
+Complexion does not merely affect physical appearance; in fact, personality is a much bigger clue to the principal humor than morphology. There are both positive and negative sides to each complexion, and just as few people are pure representatives of a single complexion, not all persons with the same principal complexion will act alike. The stereotypes for each complexion can be linked to the stages of growth. The extreme sanguine personality is like that of a child, friendly and playful, but also petulant and easily led. The extreme choleric is a surly adolescent, with powerful passions making him brave and seeking his independence, but also proud and uncaring. The melancholic complexion finds its extreme in the adult or parent stage of life; such a person is loyal and nurturing, but often believes that he knows best. Finally, the phlegmatic is akin to an old man, filled with wisdom and calm from a lifetime's experience, but also weary of the world's cares and fearful of approaching senility and death.
 
 In common with their link to the four elements and the macrocosm, behavior is considered to vary with the season. Thus, the sanguine complexion is most prominent in the spring, and even the most determined melancholic can experience joy when his blood rises with the sap in this season. Choleric behaviors dominate in the summer, and it is no surprise to find that most wars are fought when the element of fire is ruling the human body. Melancholy takes over in the autumn, and with the cold weather looming, pessimism and depression is inevitable. Finally, the phlegmatic complexion waxes in winter.
 
@@ -1459,7 +1487,7 @@ Food and drink is the ultimate source of the natural faculty, so the correct die
 
 It is essential not only to eat the right foods but also in the right quantity. Eating too much makes the body dull, heavy, and weary due to an excess of humors, and these can stop up the passages through the body through which the three faculties pass. A person should principally eat those foods that counteract her dominant humor, and avoid an excess of food that promotes it. A typical prescription from a physician might suggest that a phlegmatic person eat lightly, since fasting counteracts his natural coldness and moisture, and avoid milk, fish, apples, and other cold and moist foods. Instead, he should eat venison with carrots, leeks, and garlic, with some wine.
 
-As an individual's complexion waxes and wanes with his age, the diet that promotes good health in that individual also changes. Thus a youth should avoid both hot and dry foods so as not to excessively inflame the choler, but as he becomes an adult he can take drier foodstuffs — but still eschew the hot—as his complexion changes to be more melancholic. Likewise, the changing of the season should induce gradual changes in diet to account for the climate.
+As an individual's complexion waxes and wanes with his age, the diet that promotes good health in that individual also changes. Thus a youth should avoid both hot and dry foods so as not to excessively inflame the choler, but as he becomes an adult he can take drier foodstuffs — but still eschew the hot — as his complexion changes to be more melancholic. Likewise, the changing of the season should induce gradual changes in diet to account for the climate.
 
 >#### Qualities of Common Foods
 >
@@ -1497,17 +1525,17 @@ The over-long retention of the waste products of the body (feces, urine, sweat, 
 
 >#### Effects of the Non-Naturals
 >
->Any excess of a source of heat, cold, dryness, or moisture has a detrimental effect on the body. Excess hot non-naturals enhance the attractive force, promoting gluttony and thirst, and cause excess humors. Excess cold non-naturals affect the expulsive force, resulting in insufficient nutrition and weakness. Excess moist non-naturals putrefy through corrupt digestion. Excess dry nonnaturals augment the retentive force and pollute the body with waste humors.
+>Any excess of a source of heat, cold, dryness, or moisture has a detrimental effect on the body. Excess hot non-naturals enhance the attractive force, promoting gluttony and thirst, and cause excess humors. Excess cold non-naturals affect the expulsive force, resulting in insufficient nutrition and weakness. Excess moist non-naturals putrefy through corrupt digestion. Excess dry non-naturals augment the retentive force and pollute the body with waste humors.
 >
 >#### Causes of Moisture
 >
 >**Climate:** outward moisture, south & west winds, bathing (especially after a meal), spring, western nations
 >
->**Diet:** excessive food, moistening food & drink 
+>**Diet:** excessive food, moistening food & drink
 >
 >**Exercise:** moderate rest
 >
->**Sleep:** excessive sleep (especially in the day) 
+>**Sleep:** excessive sleep (especially in the day)
 >
 >**Evacuation:** retention of excretia
 >
@@ -1523,7 +1551,7 @@ The over-long retention of the waste products of the body (feces, urine, sweat, 
 >
 >**Exercise:** moderate exercise, light massage
 >
->**Sleep:** moderate sleep 
+>**Sleep:** moderate sleep
 >
 >**Evacuation:** no causes
 >
@@ -1537,11 +1565,11 @@ The over-long retention of the waste products of the body (feces, urine, sweat, 
 >
 >**Diet:** excessive food, cooling foods & drinks
 >
->**Exercise:** excessive exercise or repose 
+>**Exercise:** excessive exercise or repose
 >
 >**Sleep:** wakefulness
 >
->**Evacuation:** excessive retention of excretions 
+>**Evacuation:** excessive retention of excretions
 >
 >**Emotions:** phlegmatic emotions, *timor*
 >
@@ -1667,7 +1695,7 @@ Most malformations are represented in game terms as Flaws. Others, which spontan
 >
 >When there is **an excess of healthy melancholy**, there is a concomitant excess of the retentive force, resulting in slow digestion. Morbid melancholy coagulates in the body forming a hard mass that is difficult to shift due to its strong retentive power. Symptoms: constipation, quartan fever (reoccurs every fourth day), insomnia, hard, dry and dark aposteme, heavy crushing pain.
 >
->Healthy phlegm makes things slippery; **an excess of phlegmatic humor** overstrengthens the expulsive force, causing incomplete digestion. Morbid phlegm is vitreous (glass-like in texture) or calcareous (chalky-white) and often causes obstructions. Symptoms: excessive salivation, discharge of mucus, flatulence, burping, hiccups, cough, abnormal gait due to accretion of vitreous phlegm, catarrh, diarrhea, dropsy (accumulation of fluid in an organ), dyspepsia (heartburn, acid reflux, halitosis), quotidian fever (occurs on alternate days, accompanied by chills), pleurisy (inflamed lungs and labored breathing), watery cysts, dull aching pain, seizing of muscles (tetany)**.**
+>Healthy phlegm makes things slippery; **an excess of phlegmatic humor** overstrengthens the expulsive force, causing incomplete digestion. Morbid phlegm is vitreous (glass-like in texture) or calcareous (chalky-white) and often causes obstructions. Symptoms: excessive salivation, discharge of mucus, flatulence, burping, hiccups, cough, abnormal gait due to accretion of vitreous phlegm, catarrh, diarrhea, dropsy (accumulation of fluid in an organ), dyspepsia (heartburn, acid reflux, halitosis), quotidian fever (occurs on alternate days, accompanied by chills), pleurisy (inflamed lungs and labored breathing), watery cysts, dull aching pain, seizing of muscles (tetany).
 
 ### Disease
 
@@ -1711,12 +1739,12 @@ If this roll succeeds, the character has avoided the disease. If it fails, then 
 
 >#### Disease Table
 >
->| Disease | Base Severity|  Disease Penalty |
->|----------|----|---------------------------------------|
->| Minor    | 6  | –1                                    |
->| Serious  | 9  | –3, or a Minor Flaw                |
->| Major    | 12 | –5, or a Major Flaw                |
->| Critical | 15 | May not take any action            |
+>| Disease | Base Severity| Disease Penalty |
+>|----------|----|--------------------------|
+>| Minor    | 6  | –1                       |
+>| Serious  | 9  | –3, or a Minor Flaw      |
+>| Major    | 12 | –5, or a Major Flaw      |
+>| Critical | 15 | May not take any action  |
 >
 >#### Modifiers to Severity
 >
@@ -1782,7 +1810,7 @@ Caused by bad air, particularly around sewage and tanneries (Non-Natural). This 
 Symptoms: Continuous fever with chills. Other types of the ague corrupt different humors, and are either Minor or Serious Diseases. As a choleric disease, the ague induces fever every fourth day; as a melancholic disease the fevers occur every third day; and as a sanguine disease the fever occurs every day.
 
 **Anal Fistula**<br>
-Minor Melancholic Disease, Severity 5<br> 
+Minor Melancholic Disease, Severity 5<br>
 Stable: 4, Improve: 10, Interval: Month
 
 This unpleasant condition is caused by excessive retention of melancholy on the fundament; commonly resulting from sitting for long periods on horseback while wearing heavy armor (Non-Natural).
@@ -1790,7 +1818,7 @@ This unpleasant condition is caused by excessive retention of melancholy on the 
 Symptoms: Hemorrhoids, mild pain and distraction, aposteme of melancholy and blood called a fistula that requires surgical removal (see Surgery).
 
 **Apoplexy**<br>
-Critical Sanguine Disease, Severity 16<br> 
+Critical Sanguine Disease, Severity 16<br>
 Stable: 6, Improve: 15, Interval: Week
 
 This disease causes massive and immediate damage to the heart, which disrupts the vital faculty and causes immediate collapse. Apoplexy is caused by a malicious faerie and is sometimes called "elfshot." Some other supernatural beings may also be capable of causing it (Contra-Natural).
@@ -1798,7 +1826,7 @@ This disease causes massive and immediate damage to the heart, which disrupts th
 Symptoms: Crushing pain to chest followed by immediate collapse and disease Crisis.
 
 **Bloody Flux**<br>
-Serious Phlegmatic Disease, Severity 9 <br>
+Serious Phlegmatic Disease, Severity 9<br>
 Stable: 6, Improve: 12, Interval: Week
 
 The bloody flux is an excess of phlegm caused by living in cold, wet conditions (Non-Natural). It is common in towns and campaigning armies. This complaint can cause weakness or wasting if it continues for too long, as the body evacuates nourishment before it can be used.
@@ -1816,7 +1844,7 @@ There are more severe versions of the bloody flux that have higher Stable and Im
 >A magus with a serious grudge against another invents a disease-causing spell that inflicts a Hermetic Flaw. Using the spell outside of a Wizard's War would constitute a High Crime (because it limits a magus's magical power), but what happens if the disease proves to be contagious when used under a particularly inauspicious alignment of stars? A disease that restricts magic in some way could have profound effects on the future of the Order, and it would be in the interests of the characters to prevent the disease from spreading too far.
 
 **Chaudepysse**<br>
-Minor Choleric Disease, Severity 9 <br>
+Minor Choleric Disease, Severity 9<br>
 Stable: 6, Improve: 12, Interval: Season
 
 This disease is contracted by men who have commerce with unclean women (i.e. during their monthly flow), and is often called "the burning" due the pain of urination (Contra-Natural). It is notoriously difficult to cure and is most often treated by direct injection into the urethra of parsley, oil of roses and violets, and the milk of a mother nursing a manchild.
@@ -1824,7 +1852,7 @@ This disease is contracted by men who have commerce with unclean women (i.e. dur
 Symptoms: Pain, a discharge of blood from the male organs, excessive itching, rash. Continuous fever may follow, and if the disease becomes Major, sterility and impotence.
 
 **Childbed Fever**<br>
-Major Sanguine Disease, Severity 11<br> 
+Major Sanguine Disease, Severity 11<br>
 Stable: 6, Improve: 10, Interval: Week
 
 The act of giving birth causes swings in a woman's balance of humors that make her vulnerable to the childbed fever demon (Contra-Natural). This demon attempts to enter the woman's body as the baby leaves, so this disease can only be contracted by women who have just given birth.
@@ -1832,7 +1860,7 @@ The act of giving birth causes swings in a woman's balance of humors that make h
 Symptoms: Chills, fever, abdominal pain, nausea, and in terminal cases a rotting of the reproductive organs that can spread to the rest of the body. If there were birthing complications (prolonged labor, placenta retention, conception during menstruation, or a still-birth, for example) this is a Critical Disease rather than a Major one.
 
 **Coryza**<br>
-Minor Phlegmatic Disease, Severity 4<br> 
+Minor Phlegmatic Disease, Severity 4<br>
 Stable: 4, Improve: 10, Interval: Week
 
 Coryza, or the common cold, is caused by a cold, damp environment such as that found in late autumn and winter (Non-Natural). The cold and wet conditions cause an excess of phlegm in the head.
@@ -1840,13 +1868,13 @@ Coryza, or the common cold, is caused by a cold, damp environment such as that f
 Symptoms: Catarrh, unpleasant cough. If it worsens, a quotidian fever, inflammation of the lungs, extreme weariness (make Fatigue rolls for even light exercise).
 
 **Diabetes**<br>
-Minor Sanguine Disease, Severity 14<br> 
-Stable: 4, Improve: n/a, Interval: Lifelong Rich food and a gluttonous appetite can result in this disease, a result of the disruption of the digestion and thus a surfeit of nutrition (Non-Natural). The children of gluttonous parents occasionally suffer from this disease. It was named by Aretaeus the Cappadocian after the Greek word for a siphon, due to the excessive discharge of urine.
+Minor Sanguine Disease, Severity 14<br>
+Stable: 4, Improve: n/a, Interval: Lifelong<br>Rich food and a gluttonous appetite can result in this disease, a result of the disruption of the digestion and thus a surfeit of nutrition (Non-Natural). The children of gluttonous parents occasionally suffer from this disease. It was named by Aretaeus the Cappadocian after the Greek word for a siphon, due to the excessive discharge of urine.
 
 Symptoms: Instead of a Disease Penalty, causes fainting for a few minutes whenever a Fatigue roll (**ArM5**, page 178) is failed.
 
 **Erysipelas**<br>
-Minor Choleric Disease, Severity 6<br> 
+Minor Choleric Disease, Severity 6<br>
 Stable: 6, Improve: 10, Interval: Month
 
 Erysipelas is a disease of morbid choler due to excessive heat and dryness derived from inappropriate food for the character's complexion (Non-Natural). It migrates to the skin to cause a maddening rash. People tend to avoid a sufferer of erysipelas because of his obvious symptoms of disease
@@ -1854,7 +1882,7 @@ Erysipelas is a disease of morbid choler due to excessive heat and dryness deriv
 Symptoms: Severe itching rash, most prominent on the extremities, but also on the face and arms. Can poison the blood if the disease worsens.
 
 **The Falling Evil**<br>
-Major Phlegmatic Disease, Severity 16<br> 
+Major Phlegmatic Disease, Severity 16<br>
 Stable: 6, Improve: 15, Interval: Season
 
 Known by a large number of names (e.g. epilepsy, morbus caducus, morbus lunaticus), the "sacred disease" of Hippocrates is now known to be caused by demonic possession (Contra-Natural). The most common cure is to induce a quartan fever with medicinals that will dry up the moistness polluting the sensitive faculty. Trepanation (see Surgery) is occasionally recommended, but this is a dangerous procedure. The demons who cause the falling evil are weak, and this Major disease is easily resisted by those with a strong constitution; the demons usually strike following a debilitating blow to the head.
@@ -1862,7 +1890,7 @@ Known by a large number of names (e.g. epilepsy, morbus caducus, morbus lunaticu
 Symptoms: Rather than a Disease Penalty, this disease manifests as convulsions. Convulsions occur randomly and infrequently. For any given event, the storyguide should secretly roll a stress die; if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm perturbs both sensation and movement, causing both to occur at random, leaving the character temporarily Incapacitated. He collapses to the ground and twitches. Every round he can make a Stamina roll against an Ease Factor of 9; success means that the convulsion ends, although he is reduced to the Dazed Fatigue level.
 
 **Febris Semitertiana**<br>
-Major Choleric Disease, Severity 18<br> 
+Major Choleric Disease, Severity 18<br>
 Stable: 12, Improve: 18, Interval: Week
 
 This disease is truly fearful. It derives from water corrupted by the malign influence of Saturn and Mars (Contra-Natural). In the heat of summer, this disease can kill thousands.
@@ -1870,7 +1898,7 @@ This disease is truly fearful. It derives from water corrupted by the malign inf
 Symptoms: Discharge of watery stools, crippling abdominal pain, raging fever, red rash all over the body.
 
 **Gangrene**<br>
-Minor Sanguine Disease, Severity 8<br> 
+Minor Sanguine Disease, Severity 8<br>
 Stable: 9, Improve: 15, Interval: Week
 
 Evil spirits in an improperly cleaned wound cause putrefaction of the blood (Contra-Natural). Gangrene is the most common result of a botched Wound Recovery roll. The wound becomes a festering ulcer as the flesh is consumed by the morbid blood.
@@ -1878,7 +1906,7 @@ Evil spirits in an improperly cleaned wound cause putrefaction of the blood (Con
 Symptoms: Continuous fever. The infected wound cannot improve until the gangrene is gone, but it can worsen. Surgical intervention (deep cautery or amputation; see Practice of Chirurgy, below) to prevent the gangrenous wound worsening is often the best option, because Wound Penalties affect Disease Recovery rolls and vice versa.
 
 **Garotillo**<br>
-Serious Choleric Disease, Severity 9<br> 
+Serious Choleric Disease, Severity 9<br>
 Stable: 6, Improve: 12, Interval: Week
 
 This disease is contracted through excessive exercise that dries the body and inflames the choler (Non-Natural). The disease is also known as *morbus suffocans* for its distinctive second stage, in which the disease spreads to the windpipe and causes death by gradual suffocation.
@@ -1886,15 +1914,15 @@ This disease is contracted through excessive exercise that dries the body and in
 Symptoms: Tertian fever, mild pain in the throat, drowsiness, a white, livid, or black concretion of morbid humors at the back of the mouth. If this disease worsens to a Major Disease, the sufferer is in danger of suffocation if he ever fails a roll involving Stamina. Follow the rules for Deprivation (**ArM5**, page 180–181). For each Deprivation roll he also gets a Stamina + Concentration roll against an Ease Factor of 6; success means that he regains his breath.
 
 **Leprosy**<br>
-Major Melancholic Disease, Severity 21<br> 
+Major Melancholic Disease, Severity 21<br>
 Stable: n/a, Improve: n/a, Interval: Lifelong
 
-Medically, leprosy is an excess of black bile, and it is inflicted through the wrath of the Almighty as a punishment for unclean living (Contra-Natural). (See *City and Gild*, page 26, for the societal consequences of contracting leprosy.) There is no chance of avoiding catching leprosy — if God wills it, then the character is afflicted.
+Medically, leprosy is an excess of black bile, and it is inflicted through the wrath of the Almighty as a punishment for unclean living (Contra-Natural). (See *City and Guild*, page 26, for the societal consequences of contracting leprosy.) There is no chance of avoiding catching leprosy — if God wills it, then the character is afflicted.
 
 Symptoms: Skin damage, clawing of hands and feet, blindness, loss of sensation and paralysis in the limbs, and sometimes madness. The victim of leprosy gains the Leprosy Major Flaw. A leper has a permanent –2 modifier to her Living Condition Modifier and whenever she undergoes an Aging Crises (**ArM5**, page 170) the leper sustains a Heavy Wound in addition to any other result. Lepers cannot gain a positive reputation due to the pungent rotting smell that they emanate. As a lifelong disease, no Disease Recovery rolls are possible.
 
 **Leprosy, Hermetic**<br>
-Critical Melancholic Disease, Severity 16<br> 
+Critical Melancholic Disease, Severity 16<br>
 Stable: 6, Improve: 12, Interval: Month
 
 Hermetic leprosy is caused by the Hermetic spells *Curse of the Leprous Flesh* and *Curse of the Unportended Plague* (**ArM5**, page 133; Contra-Natural). It conforms to everyone's worst fears about true leprosy, manifesting as a rapid and hideous wasting disease accompanied by a pungent rotting smell.
@@ -1906,7 +1934,7 @@ Symptoms: Victim's flesh rots off in a matter of weeks. If the victim survives t
 >A physician who has experience with true leprosy has noticed this particularly virulent form of the disease, and has tracked it down to the covenant, which has a member who knows the appropriate spell. The physician has alerted the bishop to this clear evidence of the magus' moral corruption. The characters must cope with the bishop's response to these accusations.
 
 **Phimosis**<br>
-Minor Choleric Disease, Severity 6<br> 
+Minor Choleric Disease, Severity 6<br>
 Stable: 6, Improve: 10, Interval: Month
 
 A particular affliction of promiscuous men (but can be suffered by both sexes) caused by excess lust (Non-Natural). It is a painful and embarrassing disease, but usually clears up on its own with no lasting aftereffects.
@@ -1914,15 +1942,15 @@ A particular affliction of promiscuous men (but can be suffered by both sexes) c
 Symptoms: Soft sores on the coital organs, which may become poisoned. A man who suffers a disease Crisis induced by phimosis is left impotent.
 
 **Phthisis**<br>
-Major Phlegmatic Disease, Severity 17<br> 
+Major Phlegmatic Disease, Severity 17<br>
 Stable: 9, Improve: 18, Interval: Month
 
 Phthisis pollutes the vital faculty with excessive phlegm. It is an epidemic disease, caught initially from foul air deriving from marsh water, and subsequently spreading from person to person through putrid breath (Contra-Natural). It is also known as consumption because it eats away at the flesh of its victims. Physicians recommend climatic therapy of sea voyages and high altitudes to rid the lungs of the putrid air, but few can afford the luxury of such treatment.
 
-Symptoms: Hacking cough, shortness of breath, blood in the sputum, quoditian fever, and wasting; all of which amount to the Enfeebled Flaw.
+Symptoms: Hacking cough, shortness of breath, blood in the sputum, quotidian fever, and wasting; all of which amount to the Enfeebled Flaw.
 
 **Pneumonia**<br>
-Serious Phlegmatic Disease, Severity 9<br> 
+Serious Phlegmatic Disease, Severity 9<br>
 Stable: 6, Improve: 12, Interval: Week
 
 This inflammation of the lungs is diagnosed by the presence of blood or choler in the sputum. It is caused by polluted air (Contra-Natural). Pneumonia has a tendency to exhibit a Crisis on the seventh day. Treatment is typically bleeding to reduce the excess fluid, and drying compresses applied to the chest.
@@ -1930,7 +1958,7 @@ This inflammation of the lungs is diagnosed by the presence of blood or choler i
 Symptoms: Acute pain in the chest, quotidian fever. The afflicted character is also reduced to the Winded Fatigue level until he improves. At the Major stage of the disease, the victim suffers from the Enfeebled Flaw in place of the Disease Penalty.
 
 **Quinsy**<br>
-Serious Phlegmatic Disease, Severity 9<br> 
+Serious Phlegmatic Disease, Severity 9<br>
 Stable: 6, Improve: 10, Interval: Month
 
 Quinsy is contracted from swallowing worms in one's food, which live in the tonsils and cause them to swell (Contra-Natural). If the swelling gets so great that it threatens breathing, it is recommended that the tonsils should be surgically opened with a curved knife on a long stick, although some chirurgeons attempt to remove the tonsils entirely.
@@ -1938,7 +1966,7 @@ Quinsy is contracted from swallowing worms in one's food, which live in the tons
 Symptoms: Pain localized in the back of the throat. Should it worsen to a Serious Disease, the Disease Penalty remains –1, but the character suffers from an Afflicted Tongue, and at the Major stage he becomes Mute.
 
 **Rabies**<br>
-Serious Choleric Disease, Severity 13<br> 
+Serious Choleric Disease, Severity 13<br>
 Stable: 9, Improve: 18, Interval: Week
 
 This dreadful disease is caused by the bite of a mad dog (Contra-Natural), which inflames the choler and dries the body. It is swift to affect its victim and difficult to treat due to the extreme mental disturbance of its sufferers. A physician must forcibly apply medicinals to the patient, and the involuntary convulsions mean that bed rest is impossible, even if tied down.
@@ -1946,7 +1974,7 @@ This dreadful disease is caused by the bite of a mad dog (Contra-Natural), which
 Symptoms: Raging thirst, extreme fear of water, violent convulsions. The mind of the sufferer is also affected, reduced to that of a furious beast. The sufferer foams at the mouth and attempts to bite all who come near, and he can transmit the disease in this fashion if the skin is broken.
 
 **Saint Anthony's Fire**<br>
-Minor Sanguine Disease, Severity 12<br> 
+Minor Sanguine Disease, Severity 12<br>
 Stable: 6, Improve: 18, Interval: Season
 
 Caused by an excess of blood due to possession by a minor demon in the victim's intestines (Contra-Natural). Exorcizing the demon ends the disease, and the Order of the Hospitalers of St. Anthony specialize in such exorcisms.
@@ -1954,7 +1982,7 @@ Caused by an excess of blood due to possession by a minor demon in the victim's 
 Symptoms: Red rash, intestinal pain, visions, muscular spasms, and a burning sensation in the extremities. Eventually the limbs begin to rot. This disease is exceptionally hard to recover from due to the tenacity of the demon, and it typically worsens each season until the victim dies.
 
 **Scrofula**<br>
-Serious Melancholic Disease, Severity 10<br> 
+Serious Melancholic Disease, Severity 10<br>
 Stable: 6, Improve: 12, Interval: Month
 
 An unpleasant disease caused by the cold dry winds of cities in Northern Europe, particularly those situated far from the sea (Non-Natural). The excess of melancholy congests glands forming hideous lumps over the body. Also called struma and *morbus regius* (the King's Evil) because the touch of the Kings of England or France is known to cure it.
@@ -1962,7 +1990,7 @@ An unpleasant disease caused by the cold dry winds of cities in Northern Europe,
 Symptoms: Swelling of the glands all over the body, dull pain. If it progresses to a Major Disease, as well as worsening the Disease Penalty the glands — particularly those in the neck — swell to immense size, imposing the Disfigured Flaw. The swellings can be surgically removed once the disease is cured.
 
 **Stones**<br>
-Serious Choleric or Phlegmatic Disease, Severity 11<br> 
+Serious Choleric or Phlegmatic Disease, Severity 11<br>
 Stable: 9, Improve: 15, Interval: Week
 
 A coagulation of bile causes a hard stone to form in the gallbladder, while morbid vitreous phlegm is responsible for stones in the kidney and bladder. The coagulation occurs when either humor is in excess, such as through an inappropriate diet for one's temperament (Non-Natural).
@@ -1970,8 +1998,8 @@ A coagulation of bile causes a hard stone to form in the gallbladder, while morb
 Symptoms: Acute abdominal pain, initially when passing water, but later continuously. Difficult to cure without Surgery.
 
 **Suffusio**<br>
-Serious Melancholic Disease, Severity 11<br> 
-Stable: 9, Improve: 12, Interval: Month 
+Serious Melancholic Disease, Severity 11<br>
+Stable: 9, Improve: 12, Interval: Month
 
 Suffusio is a congregation of humor between the lens and the pupil, obstructing sight, caused by the excessive absorption of harmful visual species (Contra-Natural). A surgical procedure called "couching" can expel the humor through the insertion of a thin needle beneath the lens.
 
@@ -1988,7 +2016,7 @@ Symptoms: A hard mass, which causes stabbing pains in the affected organ. Rather
 Non-consumptive tumors are called *oncoi* (singular *oncos*). A cold tumor (Minor Disease) is formed from phlegm and melancholy, whereas a hot tumor (Serious Disease) is coagulated choler and melancholy. Both are slow to act, having an Interval: Season, but neither have the same ability to cause new tumors.
 
 **Variola**<br>
-Serious Choleric Disease, Severity 11<br> 
+Serious Choleric Disease, Severity 11<br>
 Stable: 9, Improve: 15, Interval: Week
 
 Variola, or small pox, is a disease caused by the accumulation of putrid choler in the skin due to inhaling polluted air in hot and dry conditions (Contra-Natural). It is highly contagious and disfiguring. Physicians recommend the eating of red food, and hanging red drapes around the bed of the patient to draw out the putrid choler from the skin.
@@ -1998,7 +2026,7 @@ Symptoms: Eruption of pus-filled pocks all over the skin, a tertian fever, pains
 The common name of small pox distinguishes this disease from other pox-causing diseases. Great pox, chicken pox (named after *cicer*, or chick peas, which the pocks resemble) and rubeola (measles) are all milder forms of this disease, and are all Minor rather than Serious illnesses.
 
 **Worms**<br>
-Minor Sanguine Disease, Severity 9<br> 
+Minor Sanguine Disease, Severity 9<br>
 Stable: 6, Improve: 12, Interval: Season
 
 Worms spontaneously generate in congealed blood (see Chapter Three: Philosophiae, Worms). In a healthy person the worms disperse, but in the unhealthy they can overwhelm the body. Children are particularly susceptible as their bodily humors are intermingled with milk.
@@ -2013,15 +2041,15 @@ Symptoms: Wasting. However, those inflicted with worms are not immediately affec
 
 Medicine has enjoyed academic status since ancient times, and it is often hard to determine where medicine ends and natural philosophy begins, for the two are strongly intertwined. Without understanding the subtle interplay of the elements, the theory of medicine is difficult to comprehend sufficiently to put it to practical use. In particular, physiology and anatomy are based on theoretical understandings rather than direct observation.
 
-Medicine has always been the province of the educated classes, and until recently — at least in Christian Europe — that meant the clergy. Up to the tenth century, the regular clergy (that is, the monks) were the only section of society who had regular access to medical texts written by famous physicians, and consequently they monopolized the ranks of the physicians. Recently there has been a shift in attitudes due to the rise of the various schools across Europe that teach medicine to anyone who can afford to attend. Still, the profession of the physician is still dominated by the clergy in the thirteenth century; two thirds of physicians who hold academic qualifications in medicine are in holy orders, and the majority of the rest are lay practitioners. Because of the recent proscriptions of the Church (see below), regular clergy are seriously under-represented in the physician class at this time, and only within the ranks of the new order of Dominician Friars is the academic study of medicine encouraged.
+Medicine has always been the province of the educated classes, and until recently — at least in Christian Europe — that meant the clergy. Up to the tenth century, the regular clergy (that is, the monks) were the only section of society who had regular access to medical texts written by famous physicians, and consequently they monopolized the ranks of the physicians. Recently there has been a shift in attitudes due to the rise of the various schools across Europe that teach medicine to anyone who can afford to attend. Still, the profession of the physician is still dominated by the clergy in the thirteenth century; two thirds of physicians who hold academic qualifications in medicine are in holy orders, and the majority of the rest are lay practitioners. Because of the recent proscriptions of the Church (see below), regular clergy are seriously under-represented in the physician class at this time, and only within the ranks of the new order of Dominican Friars is the academic study of medicine encouraged.
 
-There is an informal hierarchy amongs those who trade in the health of others. At the top are the medici (singular medicus), those who have received academic training in the healing arts to whatever level. This includes both those who have studied medicine and those who have studied chirurgy in a formal sense; although those who make their living through the former are accorded greater status than the latter. At the bottom of the hierarchy of medical and surgical practitioners are the empirici (singular empiricus), a term used by educated practitioners in a derogatory manner to refer to those whose medical knowledge is acquired without formal education, and practiced through trial and error. Holding slightly more status than an empiricus are those who do not practice medicine, but instead specialize in the production of medicines for those who do; the profession of apothecary (see below) is a new one, but one that is very welcome to the medici who hitherto have had to make their own medicinals. The following sections describe each of these professions in turn, and offer guidance on the creation of characters from one of the healing professions.
+There is an informal hierarchy amongst those who trade in the health of others. At the top are the medici (singular medicus), those who have received academic training in the healing arts to whatever level. This includes both those who have studied medicine and those who have studied chirurgy in a formal sense; although those who make their living through the former are accorded greater status than the latter. At the bottom of the hierarchy of medical and surgical practitioners are the empirici (singular empiricus), a term used by educated practitioners in a derogatory manner to refer to those whose medical knowledge is acquired without formal education, and practiced through trial and error. Holding slightly more status than an empiricus are those who do not practice medicine, but instead specialize in the production of medicines for those who do; the profession of apothecary (see below) is a new one, but one that is very welcome to the medici who hitherto have had to make their own medicinals. The following sections describe each of these professions in turn, and offer guidance on the creation of characters from one of the healing professions.
 
 >#### Setting Up Business
 >
->The skilled use of medicine is a lucrative business, and learned physicians are usually well off. Physicians may be employed exclusively by a rich individual, or else work for coin and see a wide rage of patients. Some cities, particularly in southern Europe (such as Bologna and Montpelier), require medici to buy licenses for the practice of medicine, and these licenses are dependent on a number of restrictions, such as a requirement to treat the poor for free. In these same cities, where lay medicine is more common, the study of medicine is often a family business and it is one of the few ways in which a person can improve his social standing.
+>The skilled use of medicine is a lucrative business, and learned physicians are usually well off. Physicians may be employed exclusively by a rich individual, or else work for coin and see a wide range of patients. Some cities, particularly in southern Europe (such as Bologna and Montpellier), require medici to buy licenses for the practice of medicine, and these licenses are dependent on a number of restrictions, such as a requirement to treat the poor for free. In these same cities, where lay medicine is more common, the study of medicine is often a family business and it is one of the few ways in which a person can improve his social standing.
 >
->*City & Guild* presents rules for earning an income through a Craft or Profession Ability, and medici are no different. Physicians use (Intelligence + Medicine) to calculate Craft totals and labor points, whereas chirurgeons use (Dexterity + Chirurgy). Medicine and Chirurgy may be used in this fashion despite being neither Craft nor Profession Abilities. Businesses are rated in income brackets: Legendary (1000 Mythic Pounds per year), Greater (250 Mythic Pounds), Typical (100 Mythic Pounds), Lesser (40 Mythic Pounds), Minor (20 Mythic Pounds), and Trivial (10 Mythic Pounds). Among physicians, the highest income brackets (a Greater or Legendary income) are reserved for a magister in medicina, but most physicicans command a Typical source of income if they dwell in a city with a sufficiently wealthy client base. Physicians in small towns can generally only muster a Lesser income, and often did not graduate in medicine from a university. Graduates of Salerno are usually prized more highly, giving them an income one step higher than their peers. For a chirurgeon, the regular work of bloodletting and minor surgery usually only provides a Lesser to Typical income even in a city, but a chirurgeon who accompanies an army or lives in a war-torn region might command a better salary for himself and his staff. An empiricus is usually restricted to Lesser and Trivial incomes, particularly those who are forced to travel to obtain sufficient clients. Herbwives and midwives are treated similarly, but more often receive payment in kind rather than coin.
+>*City & Guild* presents rules for earning an income through a Craft or Profession Ability, and medici are no different. Physicians use (Intelligence + Medicine) to calculate Craft totals and labor points, whereas chirurgeons use (Dexterity + Chirurgy). Medicine and Chirurgy may be used in this fashion despite being neither Craft nor Profession Abilities. Businesses are rated in income brackets: Legendary (1000 Mythic Pounds per year), Greater (250 Mythic Pounds), Typical (100 Mythic Pounds), Lesser (40 Mythic Pounds), Minor (20 Mythic Pounds), and Trivial (10 Mythic Pounds). Among physicians, the highest income brackets (a Greater or Legendary income) are reserved for a magister in medicina, but most physicians command a Typical source of income if they dwell in a city with a sufficiently wealthy client base. Physicians in small towns can generally only muster a Lesser income, and often did not graduate in medicine from a university. Graduates of Salerno are usually prized more highly, giving them an income one step higher than their peers. For a chirurgeon, the regular work of bloodletting and minor surgery usually only provides a Lesser to Typical income even in a city, but a chirurgeon who accompanies an army or lives in a war-torn region might command a better salary for himself and his staff. An empiricus is usually restricted to Lesser and Trivial incomes, particularly those who are forced to travel to obtain sufficient clients. Herbwives and midwives are treated similarly, but more often receive payment in kind rather than coin.
 >
 >The same system can be used for apothecaries; given that they are professional tradesmen, more detailed rules are provided in Pharmacy, below.
 
@@ -2049,7 +2077,7 @@ There is an informal hierarchy amongs those who trade in the health of others. A
 >
 >**Soak:** –3
 >
->**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious 
+>**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 >
 >**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 >
@@ -2057,30 +2085,30 @@ There is an informal hierarchy amongs those who trade in the health of others. A
 >
 >**Appearance:** In his prime, Gilles was a tall man of phlegmatic complexion, with a noble mien and commanding presence. However, his remarkable age has ravaged his body, leaving him bent almost double from a spine fused by arthritis, with shaking hands and a bandy-legged gait. Nevertheless, his voice and his mind are still strong.
 >
->Gilles de Corbeil, or Aegidius Corboliensis as he is known in Latin, is the archiater (chief physician) to King Philip Augustus of France. He was born in northern France in 1140, joined the Benedictine Order at Salerno, and trained under the great Petrus Musandinus. After receiving his doctorate he taught at Montpelier, but left there in acrimonious circumstances after feuding with the faculty, who resented his genius and sought to curtail his career. As a consequence, several masters of Montpelier have attempted to destroy his credibility, largely to no avail.
+>Gilles de Corbeil, or Aegidius Corboliensis as he is known in Latin, is the archiater (chief physician) to King Philip Augustus of France. He was born in northern France in 1140, joined the Benedictine Order at Salerno, and trained under the great Petrus Musandinus. After receiving his doctorate he taught at Montpellier, but left there in acrimonious circumstances after feuding with the faculty, who resented his genius and sought to curtail his career. As a consequence, several masters of Montpellier have attempted to destroy his credibility, largely to no avail.
 >
->Gilles has written copiously, including two famous summae on urine and the pulse which he composed in hexameter verse. He has researched some twenty formulae (see Chapter Five: Experimental Philosophy); mainly theriacs, but some inceptions for prognostical purposes. As the main channel though which Salernitan teaching has reached Parisian physicians, his contributions to his science cannot be underestimated.
+>Gilles has written copiously, including two famous summae on urine and the pulse which he composed in hexameter verse. He has researched some twenty formulae (see Chapter Five: Experimental Philosophy); mainly theriacs, but some inceptions for prognostical purposes. As the main channel through which Salernitan teaching has reached Parisian physicians, his contributions to his science cannot be underestimated.
 >
 >If your saga follows real history, Gilles will die in 1224; even the greatest physician of the era cannot escape old age forever.
 
 ### The Medicus
 
-The study of medicine in universities is far more common in southern Europe; as a subject of serious study, it has barely penetrated into the Kingdom of Germany or central Europe. This is a consequence of history as much as of interest, since the famed southern schools of Salerno, Cremona, Montpelier, and Bologna have greater access to the corpus of Arabic medical texts. Most teaching is between master and pupil, akin to a craft guild, even in a university setting.
+The study of medicine in universities is far more common in southern Europe; as a subject of serious study, it has barely penetrated into the Kingdom of Germany or central Europe. This is a consequence of history as much as of interest, since the famed southern schools of Salerno, Cremona, Montpellier, and Bologna have greater access to the corpus of Arabic medical texts. Most teaching is between master and pupil, akin to a craft guild, even in a university setting.
 
-The most prestigious medici are the graduates of a university's faculty of medicine, the only type of physician who has any right to the title of **doctor**. However, a doctor may hold a degree other than one in medicine, and the term **physicus** is consistently applied to anyone with advanced education in both medicine and natural philosophy, and is also used to distinguish educated medics from educated chirurgeons. The highest accolade in the field of literate physicians is the title of *Magister in medicina*. Those who are called by the more general term of **medicus** may practice medicine or surgery (or both), but have no 
+The most prestigious medici are the graduates of a university's faculty of medicine, the only type of physician who has any right to the title of **doctor**. However, a doctor may hold a degree other than one in medicine, and the term **physicus** is consistently applied to anyone with advanced education in both medicine and natural philosophy, and is also used to distinguish educated medics from educated chirurgeons. The highest accolade in the field of literate physicians is the title of *Magister in medicina*. Those who are called by the more general term of **medicus** may practice medicine or surgery (or both), but have no
 formal claim to the higher title. The majority of practicing physicians fall into this category; a medicus has typically studied medicine at university but it was not his specialty, and he graduated in a different subject or not at all.
 
 >#### Female and Non-Christian Physicians
 >
->Unlike many areas of academic pursuit, women can practice both surgery and medicine, and are limited to neither obstetrics or female patients as some might expect. Female medici are by no means common, for they are barred from entering most universities (Salerno being a noted exception), but training in medicine can stem from a private tutor or from one's work in a hospital under a qualified physician. Despite the lack of formal education, women are not prevented by canon or civil law from ministering to patients, and about two in a hundred medici are women. Two famous recent examples are Trotula of Salerno and Abbess Hildegard of Bingen. Amongs the chirurgical professions women are far more common, particularly as nurses and midwives (see Practice of Chirurgy), but also as herbalists.
+>Unlike many areas of academic pursuit, women can practice both surgery and medicine, and are limited to neither obstetrics nor female patients as some might expect. Female medici are by no means common, for they are barred from entering most universities (Salerno being a noted exception), but training in medicine can stem from a private tutor or from one's work in a hospital under a qualified physician. Despite the lack of formal education, women are not prevented by canon or civil law from ministering to patients, and about two in a hundred medici are women. Two famous recent examples are Trotula of Salerno and Abbess Hildegard of Bingen. Amongst the chirurgical professions women are far more common, particularly as nurses and midwives (see Practice of Chirurgy), but also as herbalists.
 >
->Muslim practitioners of medicine are found in Christian communities in Iberia. Those parts of Spain under Muslim rule have formed centers of learning for Arabic physicians, and many of the Greek and Roman texts that the graduates of Europe rely on have entered the West after being translated from Arabic at Salerno and Cremona. Jewish physicians are found in Jewish communities, principally Iberia, parts of Italy, and southern France. In these regions over one third of all physicians are Jewish. Literate and learned Jewish medicine draws on both Jewish and non-Jewish lore, mainly transmitted through Arabic. In southern Europe, Jewish medici are in great demand amongs Christian patients, despite ecclesiastic and secular laws forbidding this. These laws were often modified, exempted, or ignored by the ruling classes.
+>Muslim practitioners of medicine are found in Christian communities in Iberia. Those parts of Spain under Muslim rule have formed centers of learning for Arabic physicians, and many of the Greek and Roman texts that the graduates of Europe rely on have entered the West after being translated from Arabic at Salerno and Cremona. Jewish physicians are found in Jewish communities, principally Iberia, parts of Italy, and southern France. In these regions over one third of all physicians are Jewish. Literate and learned Jewish medicine draws on both Jewish and non-Jewish lore, mainly transmitted through Arabic. In southern Europe, Jewish medici are in great demand amongst Christian patients, despite ecclesiastic and secular laws forbidding this. These laws were often modified, exempted, or ignored by the ruling classes.
 >
 >#### Formally Trained Physician Characters
 >
 >Anyone with Medicine 1 or greater may call himself a medicus; but a physicus from Western Europe must have the Clerk Social Status Virtue to be worthy of the title, indicating that he has studied at university. Those with both Clerk and a score in Medicine of 3 or more have probably graduated in medicine, and have the right to call themselves "doctor." The Magister in Medicina Virtue (see below) grants the highest possible status in the field. Non-Christian physicians require analogous Virtues indicating a similar level of education. Medici who are well placed in noble society may find their business lucrative, either literally (represented by the Wealthy Virtue) or through the influence he has with his clientele (Social Contacts Virtue). Patronage from a nobleman might also offer the Protection Virtue or the Mentor Flaw. Medical skill can be enhanced with Virtues such as Affinity with Medicine, Cautious with Medicine, and Puissant Medicine. An educated chirurgeon has the same options, but should divide his experience points between Medicine and Chirurgy. Those who specialize in surgery only rarely achieve the same wealth and prestige of a medicus. Patronage usually comes from a nobleman or city that expects to go to war.
 >
-A medical character in holy orders (possessing the Priest Social Status Virtue) is probably attached to a monastic house, but may have dispensation to administer medical advice beyond the walls of his community. A character of this type should not practice surgery or bloodletting for fear of disobeying the various statutes of canon law, although he may have the Chirurgy Ability purely for the treatment of wounds.
+>A medical character in holy orders (possessing the Priest Social Status Virtue) is probably attached to a monastic house, but may have dispensation to administer medical advice beyond the walls of his community. A character of this type should not practice surgery or bloodletting for fear of disobeying the various statutes of canon law, although he may have the Chirurgy Ability purely for the treatment of wounds.
 >
 >An apothecary character is usually educated, although this is not essential. Most have the Gentleman Social Status Virtue, and may be Wealthy or the Heir to wealth, if the business is a family one. Social Contacts are helpful in obtaining rare ingredients from spiciers and other traders. Useful Abilities include Bargain, Profession: Merchant, and Artes Liberales. Apothecaries often know some Medicine, but local laws (particularly in southern Europe) may prevent them from treating patients. Many apothecaries dabble in experimental philosophy, particularly in the creation of theriacs (see Chapter Five: Experimental Philosophy, Pharmaceutical Theriacs).
 
@@ -2122,11 +2150,11 @@ As medicine as a field of study became more prevalent in Mythic Europe from the 
 
 This trade is encouraged in the main by the physicians, who are reluctant to undermine their professional status by indulging in commercial activities. Nevertheless, the relationship between doctor and apothecary is seen by cynical commentators as an unholy alliance designed to hoodwink the public into buying over-priced, adulterated, and largely useless decoctions. More worrying to the physician is the protection of his reputation, and many cities, particularly in southern Europe, have enacted laws under pressure from the medical profession preventing apothecaries from prescribing medicines on their own.
 
-There is little doubt that the craft of the apothecary is a lucrative profession. The royal court of King Henry III of England spends over 1700 pounds of silver a year on exotic ingredients such as gum arabic, tragacanth, sandlewood, powdered gold, cumin, and so forth, all destined for the court-appointed apothecary. Most of these supplies are imported from overseas, along with large quantities of sugar, which is used both to make medicines palatable and as a medicine in its own right. Nevertheless, such expensive ingredients are not essential in the practice of pharmacy, and a skilled apothecary of more modest means can cull herbs from the local countryside — this is harder work, but requires less capital.
+There is little doubt that the craft of the apothecary is a lucrative profession. The royal court of King Henry III of England spends over 1700 pounds of silver a year on exotic ingredients such as gum arabic, tragacanth, sandalwood, powdered gold, cumin, and so forth, all destined for the court-appointed apothecary. Most of these supplies are imported from overseas, along with large quantities of sugar, which is used both to make medicines palatable and as a medicine in its own right. Nevertheless, such expensive ingredients are not essential in the practice of pharmacy, and a skilled apothecary of more modest means can cull herbs from the local countryside — this is harder work, but requires less capital.
 
 >#### Recovery Modifiers
 >
->**Ars Magica Fifth Edition**, pages 179- 180, covers the basics of recovery from wounds and diseases. The rules presented in this chapter make the assumption that these rules apply to recovery in relatively healthy environments for the patient. However, it is not always possible to meet the ideal conditions of cleanliness, diet, and rest demanded for speedy recovery. For example, the inclusion of red meat in the diet and taking time to rest are luxuries that cannot be afforded by most peasants. The modifiers in the following table apply to all Chirurgy and Medicine rolls and totals, including Wound and Disease Recovery rolls. All modifiers are cumulative, and for each modifier that applies from this list the Chirurgy or Medicine roll receives one extra botch die. For example, a person who serves as his own chirurgeon while residing in a townhouse has a total of three botch dice for all his Wound Recovery rolls.
+>**Ars Magica Fifth Edition**, pages 179–180, covers the basics of recovery from wounds and diseases. The rules presented in this chapter make the assumption that these rules apply to recovery in relatively healthy environments for the patient. However, it is not always possible to meet the ideal conditions of cleanliness, diet, and rest demanded for speedy recovery. For example, the inclusion of red meat in the diet and taking time to rest are luxuries that cannot be afforded by most peasants. The modifiers in the following table apply to all Chirurgy and Medicine rolls and totals, including Wound and Disease Recovery rolls. All modifiers are cumulative, and for each modifier that applies from this list the Chirurgy or Medicine roll receives one extra botch die. For example, a person who serves as his own chirurgeon while residing in a townhouse has a total of three botch dice for all his Wound Recovery rolls.
 >
 >| Condition                                                                   | Mod |
 >|-----------------------------------------------------------------------------|-----|
@@ -2147,7 +2175,7 @@ There is little doubt that the craft of the apothecary is a lucrative profession
 
 An empiricus is a character who specializes in one surgical (or more rarely medical) procedure. However, it is a derogatory term used by the literate medical profession, and these characters tend to refer to themselves as surgeons or medici. Empirici are usually traveling craftsmen, passing from town to town selling their skills to sufferers. This itinerancy is necessary to reach a wide enough market for their skills, but is also occasionally required in order to avoid confrontations with dissatisfied patients (or their surviving relatives). Typical specialties for these craftsmen are cataracts, hernias, the removal of bladder stones, and so forth. Only those who specialize in midwifery — which is almost exclusively the province of women empirici — tend to reside in a region, where their skills are highly sought after. A midwife occasionally has her thumbs surgically removed to make it easier to assist in childbirth, but this is a somewhat extreme measure.
 
-To supplement his income, an empiricus often doubles as a peddler, bringing small items such as cheap jewelry, ribbons, and the like with him on his travels. Many sell "theriac," a wonderful cure-all for any ailment, often claimed to be based on a secret family recipe. Some may actually sell real theriac (see Chapter Five: Experimental Philosophy, Theriacs), but most of the time it is just pondwater and grass.
+To supplement his income, an empiricus often doubles as a peddler, bringing small items such as cheap jewelry, ribbons, and the like with him on his travels. Many sell "theriac", a wonderful cure-all for any ailment, often claimed to be based on a secret family recipe. Some may actually sell real theriac (see Chapter Five: Experimental Philosophy, Theriacs), but most of the time it is just pondwater and grass.
 
 A barber-surgeon is usually gainfully employed, and specializes in bloodletting to assist a resident medicus in maintaining the regimen of a community, particularly in a monastery where surgery is forbidden to the brothers.
 
@@ -2176,8 +2204,6 @@ The character is skilled in folk remedies and natural magic to the extent that s
 *Minor, General*
 
 The character has attended the famed School of Salerno, the pre-eminent source of medical learning. Not only does he carry the reputation of the school with him (granting a Reputation of Physician of Salerno 2), but he has also learned some unique medical procedures such as the preparation of anesthetics. This Virtue grants an additional 50 experience points to spend on Medicine, Philosophiae, and medical formulae (see Chapter Five: Experimental Philosophy). To take this Virtue, you must be able to take Academic Abilities.
-
-
 
 #### Magister in Medicina
 
@@ -2224,7 +2250,7 @@ The Ability of Medicine is primarily oriented toward establishing a preventative
 >
 >#### Magical Assistance to Disease Recovery Rolls
 >
->Magical bonuses to Disease Recovery rolls can be provided by Creo Corpus spells or equivalent magics at the same levels as Wound Recovery rolls. Different spells are required for providing magical aid to Disease Recovery rolls and Wound Recovery rolls, for the healing process works in a different manner. These bonuses to disease recovery do not affect the Prognosis Total; they are additional to any benefit from Medicine. If a disease is caused by possession by a demon (or another supernatural entity), then magical attempts to provide a healing bonus (or cure the disease entirely) must penetrate the creature's Might score to have any effect. Since possessing demons cannot normally be perceived, even with magic, they are not normally prone to destruction by spells like *Demon's Eternal Oblivion*.
+>Magical bonuses to Disease Recovery rolls can be provided by Creo Corpus spells or equivalent magics. These bonuses to disease recovery do not affect the Prognosis Total; they are additional to any benefit from Medicine. If a disease is caused by possession by a demon (or another supernatural entity), then magical attempts to provide a healing bonus (or cure the disease entirely) must penetrate the creature's Might score to have any effect. Since possessing demons cannot normally be perceived, even with magic, they are not normally prone to destruction by spells like *Demon's Eternal Oblivion*.
 
 ### Treatment of Disease
 
@@ -2256,8 +2282,6 @@ If it is necessary to make a diagnosis without combining this with prognosis, th
 
 >#### Medical Magic
 >
->The same Creo Corpus guidelines that grant bonuses to Wound Recovery rolls can be used to create spells affecting Disease Recovery rolls, but a spell designed to assist the healing of wounds cannot be used to assist recovery from a disease.
->
 >Under the rules presented here, some of the Corpus spells listed in **Ars Magica Fifth Edition**, pages 129–135, require clarifications as to how they act.
 >
 >*Gentle Touch of the Purified Body*: Instead of healing a Light Wound caused by disease, this spell uses the new guideline detailed below, and heals a Minor disease.
@@ -2276,23 +2300,23 @@ If it is necessary to make a diagnosis without combining this with prognosis, th
 >
 >#### New Creo Corpus Guidelines
 >
->**Level 15**:Cure a Minor disease 
+>**Level 15**: Cure a Minor disease
 >
->**Level 20**:Cure a Serious disease 
+>**Level 20**: Cure a Serious disease
 >
->**Level 25**:Cure a Major disease 
+>**Level 25**: Cure a Major disease
 >
->**Level 30**:Cure a Critical disease 
+>**Level 30**: Cure a Critical disease
 >
->**Level 35**:Cure any disease
+>**Level 35**: Cure any disease
 >
 >#### New Perdo Corpus Guidelines
 >
 >**Level 5**: Inflict a Minor or Serious disease with a maximum Severity 10
 >
->**Level 10**: Inflict a Minor, Serious, or Major disease with a with a maximum Severity 15 
+>**Level 10**: Inflict a Minor, Serious, or Major disease with a maximum Severity 15
 >
->**Level 20**:Inflict any disease
+>**Level 20**: Inflict any disease
 >
 >#### New Rego Corpus Guidelines
 >
@@ -2320,7 +2344,7 @@ If the physician is relying on an apothecary and/or a chirurgeon and loses that 
 
 ### Prevention of Disease
 
-The principle work of a physician — particularly one retained by a noble lord or at a covenant — is not to cure the diseases of his clients, but to prevent diseases affecting them in the first place. To this end, a physician will prescribe a tailor-made diet and regime of exercise and bloodletting appropriate to the individual based on his native temperament and the time of year. This recipe for living a healthy life is called a **regimen**, and its purpose is to control the effects of the non-naturals and so ensure eucrasia — that state of perfect balance of the humors that prolongs life and negates bodily suffering.
+The principal work of a physician — particularly one retained by a noble lord or at a covenant — is not to cure the diseases of his clients, but to prevent diseases affecting them in the first place. To this end, a physician will prescribe a tailor-made diet and regime of exercise and bloodletting appropriate to the individual based on his native temperament and the time of year. This recipe for living a healthy life is called a **regimen**, and its purpose is to control the effects of the non-naturals and so ensure eucrasia — that state of perfect balance of the humors that prolongs life and negates bodily suffering.
 
 Once a client has been living under a regimen for one year, it begins to have an effect on health. A regimen requires no roll on behalf of the physician, although he must have a minimum Medicine score as indicated on the table below. Because regular bloodletting is a vital component to the regime of health, a regimen requires regular access to a chirurgeon with a Chirurgy score of at least 3; this may be the physician himself. Note that a regimen is a medical procedure and the chirurgeon lets blood according to the direction of the medicus; a chirurgeon cannot design a regimen without the Medicine Ability. All regimens are unique to the individual, and require constant attention from the physician, who makes small adjustments based on his regular inspection of the urine, feces, complexion, and dreams of his patients. Regular access to the patient by the physician is vital, but this amounts to a few hours each week, and does not substantially interfere with seasonal activities of either the patient or the physician (see Seasonal Activities).
 
@@ -2356,7 +2380,7 @@ Each physician can only manage a single regimen (that is, either a +1, +2, or +3
 
 ## The Practice of Chirurgy
 
-Chirurgy has long been considered the "poor brother" of medicine, and yet as a practical rather than an academic skill it is more accessible than the noble medicine; it is rare to find a village that does not have at least one person who knows the basics of this craft. The most commonly called upon chirurgical techniques require no booklearning, just common sense, and anyone who has studied the basics of the Ability can attempt to perform its procedures.
+Chirurgy has long been considered the "poor brother" of medicine, and yet as a practical rather than an academic skill it is more accessible than the noble medicine; it is rare to find a village that does not have at least one person who knows the basics of this craft. The most commonly called upon chirurgical techniques require no book learning, just common sense, and anyone who has studied the basics of the Ability can attempt to perform its procedures.
 
 The Ability of Chirurgy covers a range of different practices. Suturing, bandaging, and the preparation and application of plasters, along with bone-setting, are used in the treatment of injuries. The practice of surgery specifically involves cutting (either incision or excision), and is used to treat minor complaints such as swellings and blemishes on the skin, right up to crisis surgery to save lives. Therapeutic uses of Chirurgy involve phlebotomy (bloodletting), cautery, and cupping. Finally, the skills of a midwife are part of Chirurgy. Any of these practices can be taken as a specialty of a character with the Chirurgy Ability. A chirurgeon is severely restricted if he does not have access to his instruments. Typically, a chirurgeon's tool-bag contains some or all of the following: knives, razors, lancets, cautery irons, grasping tools, probes, needles, cannulae, trepanning tool, sutures, pads, and bandages. The lancet (a blade used for bloodletting) in particular is such a ubiquitous tool of the chirurgeon that it is often used as a symbol of the profession as a whole.
 
@@ -2390,11 +2414,11 @@ The following sections describe the practice of Chirurgy under four main topics:
 >
 >**Level 10:** Perform a minor surgical procedure, inflicting a Light Wound or preventing a Light Wound from worsening
 >
->**Level 15:**Perform a major surgical procedure, inflicting a Medium Wound or preventing a Medium Wound from worsening
+>**Level 15:** Perform a major surgical procedure, inflicting a Medium Wound or preventing a Medium Wound from worsening
 >
->**Level 20**:Perform a critical surgical procedure, preventing a Heavy Wound from worsening
+>**Level 20:** Perform a critical surgical procedure, preventing a Heavy Wound from worsening
 >
->**Level 25:**Perform a life-saving surgical procedure, preventing an Incapacitating or Fatal Wound from worsening
+>**Level 25:** Perform a life-saving surgical procedure, preventing an Incapacitating or Fatal Wound from worsening
 >
 >#### Blessed Relief of the Benighted Reins
 >Rego Corpus 25<br>
@@ -2422,7 +2446,7 @@ Cautery involves the application of strong heat to the skin. It can be used to p
 
 ### Surgery
 
-Along with phlebotomy and cautery, minor surgery — incision, excision, cautery, and medication of swellings and blemishes on the skin — form part of the routine practice of a chirurgeon. Major internal surgery is only attempted in a handful of immediately lifethreatening or acutely painful conditions, such as urinary obstruction, gallstones, carious teeth, and the surgical treatment of cataracts. Only on a few rare occasions will a chirurgeon be called upon to perform major surgery (such as repairing physical damage to a major organ) and the chances of success are very slender. Trepanning is rarely used as a surgical procedure because of the risks involved, but for complaints that involve a surfeit of the sensitive faculty — characterized by hallucinations, delirium, and other mental problems — a hole in the head can serve as a temporary measure to allow the excess sensitive faculty to drain away. Amputation is rarely performed to cure disease, but instead is an emergency measure to stop wounds worsening (and thus comes under Surgical Intervention, below).
+Along with phlebotomy and cautery, minor surgery — incision, excision, cautery, and medication of swellings and blemishes on the skin — form part of the routine practice of a chirurgeon. Major internal surgery is only attempted in a handful of immediately life-threatening or acutely painful conditions, such as urinary obstruction, gallstones, carious teeth, and the surgical treatment of cataracts. Only on a few rare occasions will a chirurgeon be called upon to perform major surgery (such as repairing physical damage to a major organ) and the chances of success are very slender. Trepanning is rarely used as a surgical procedure because of the risks involved, but for complaints that involve a surfeit of the sensitive faculty — characterized by hallucinations, delirium, and other mental problems — a hole in the head can serve as a temporary measure to allow the excess sensitive faculty to drain away. Amputation is rarely performed to cure disease, but instead is an emergency measure to stop wounds worsening (and thus comes under Surgical Intervention, below).
 
 Not all diseases are amenable to surgical intervention; the descriptions of diseases above indicate whether surgery can assist. Assuming that a surgical intervention is possible, the chirurgeon must plan the operation, employing pharmaceuticals, alcohol, or strong men to render the patient immobile for the procedure. All surgery of this type inflicts a wound upon the patient to allow the chirurgeon access to the afflicted body part, but with luck the wound will be less serious than the consequences of not having the surgery. The Ease Factor is determined by the seriousness of the complaint being cured. On a success, the disease returns to its starting Severity (if it had worsened). Additionally, the patient receives a +3 to his next Disease Recovery roll, although this bonus may be partially or wholly nullified by the Wound Penalty of the surgical wound. On a failed Surgery roll, the patient receives no benefit from the surgery but still receives a wound. On a botch, the patient receives a wound that is one step more serious than indicated on the chart below, and the disease is unaffected by the surgery. Phlebotomy, cautery, and cupping can only affect the most trivial diseases (Severity 5 or less) on their own.
 
@@ -2441,13 +2465,13 @@ Not all diseases are amenable to surgical intervention; the descriptions of dise
 | Removing a cold<br>or hot tumor              | 12               | 1 MW              |
 | Removing a<br>consumptive tumor              | 15               | 1 MW              |
 
-FL = Fatique Level<br>
-LW = Light Wound<br> 
+FL = Fatigue Level<br>
+LW = Light Wound<br>
 MW = Medium Wound
 
 ### Treatment of Wounds
 
-Most requirements for a chirurgeon's abilities are for "touching and cutting," routine treatment of simple injuries such as broken limbs, sprains, dislocations, burns, scalds, cuts, bites, bruises, injuries to nerves, or skull fractures, as well as the treatment of all kinds of swellings or eruptions. A competent chirurgeon will clean and dress the wound, stitch it together with sutures made from hair or gut, and apply a plaster before bandaging the wound to keep it from putrid air. The plaster is a medicinal compress containing substances such as ash, mustard, linseed, and so forth, which will keep the wound clean, rebuild flesh, and reduce scarring. If the wound has ulcerated, perhaps as a result of disease or a wound that has worsened with infection, the plaster will contain caustic substances to cleanse the flesh. While medication is usually a function of medicine, the preparation and application of plasters also comes under the purview of chirurgy. Puncture wounds, particularly ones believed to be poisoned, are often treated by pouring boiling oil into the wound; this seals the flesh and destroys putrid humors, but is painful to the patient to say the least. Broken bones are splinted, and if they have broken the flesh the wound is treated like a puncture. Dislocations and sprains often need physical manipulation to re-articulate the joint.
+Most requirements for a chirurgeon's abilities are for "touching and cutting", routine treatment of simple injuries such as broken limbs, sprains, dislocations, burns, scalds, cuts, bites, bruises, injuries to nerves, or skull fractures, as well as the treatment of all kinds of swellings or eruptions. A competent chirurgeon will clean and dress the wound, stitch it together with sutures made from hair or gut, and apply a plaster before bandaging the wound to keep it from putrid air. The plaster is a medicinal compress containing substances such as ash, mustard, linseed, and so forth, which will keep the wound clean, rebuild flesh, and reduce scarring. If the wound has ulcerated, perhaps as a result of disease or a wound that has worsened with infection, the plaster will contain caustic substances to cleanse the flesh. While medication is usually a function of medicine, the preparation and application of plasters also comes under the purview of chirurgy. Puncture wounds, particularly ones believed to be poisoned, are often treated by pouring boiling oil into the wound; this seals the flesh and destroys putrid humors, but is painful to the patient to say the least. Broken bones are splinted, and if they have broken the flesh the wound is treated like a puncture. Dislocations and sprains often need physical manipulation to re-articulate the joint.
 
 In addition to the environment demanded for healing, there is also the issue of chirurgical care. The treatment that a wound receives immediately after it is inflicted can be as important as the weeks or months of care that follow. Thus, the bonus to the Wound Recovery roll from the Chirurgy Ability can be divided between first aid and palliative care. The rules presented here are an expansion of those found on pages 179-180 of **Ars Magica Fifth Edition**. Under these extended rules, the Wound Recovery roll becomes:
 
@@ -2502,13 +2526,13 @@ Aging points and Flaws that can be gained from surgical intervention depend on t
 **Characteristics:** Int, Per, Com, Pre
 
 **Torso**<br>
-**Major Flaw:** Crippled, Enfeebled<br> 
+**Major Flaw:** Crippled, Enfeebled<br>
 **Minor Flaws:** Disfigured, Fragile Constitution<br>
 **Characteristics:** Sta, Str
 
 **Limbs**<br>
-**Major Flaw:** Crippled, No Hands<br> 
-**Minor Flaws:** Disfigured, Lame, Missing Hand, Palsied Hands<br> 
+**Major Flaw:** Crippled, No Hands<br>
+**Minor Flaws:** Disfigured, Lame, Missing Hand, Palsied Hands<br>
 **Characteristics:** Dex, Qik
 
 ### Midwifery
@@ -2523,7 +2547,7 @@ Once the mother reaches an "unwounded" status, the baby is born, However, every 
 
 There are areas of crossover between the Abilities of Medicine and Profession: Apothecary (see Characters, Profession: Apothecary), although these are complementary rather than alternative Abilities. Knowledge of Medicine contains the basics of herb craft, but concentrates on how medicinals effect changes in the humors and restore eucrasia. The Profession: Apothecary Ability covers the encyclopedic knowledge of the qualities of individual herbs, animal parts, and minerals that have medical benefit. The apothecary knows where and when to obtain the raw ingredients of his trade, and how to assemble them into the most appropriate pharmaceutical to treat the complaint. Profession: Apothecary is an adjunct to Medicine; it has little practical use on its own. An apothecary who does not possess Medicine cannot prescribe a remedy with any therapeutic effect; nevertheless, this does not prevent the more unscrupulous members of the profession from pretending to.
 
-Medication is the principal form of active intervention in any disease, and using the right herbal preparation is vital to the effective practice of medicine. Where the two professions are kept distinct, a physician describes the symptoms and complications to the apothecary, who then prepares a decoction designed to counteract the symptoms. The medicinal has to be selected according to its qualities, so that for a dry condition a moistening medicine is given, and so forth. Secondly, the nature of the part to be treated must be considered when deciding on the strength or dose of the medicinal; if a organ that is normally hot is made cold by a disease, the strength of the heating power of a medicine has to be greater than in the case of a cold organ made colder. Finally, medicinals are administered according to the stage of the disease, and adjustments should be continually made to the prescription to reflect the changing state of the patient. Gentle medicinals are used first and stronger ones later, unless the threat to life is great and a delay would be injurious. So long as a physician has the constant assistance of an apothecary during the treatment of a disease, the penalty to the Disease Recovery roll due to lack of medicinal preparations (see Recovery Modifiers, above) is reduced by the Profession: Apothecary Ability, although it cannot become a bonus.
+Medication is the principal form of active intervention in any disease, and using the right herbal preparation is vital to the effective practice of medicine. Where the two professions are kept distinct, a physician describes the symptoms and complications to the apothecary, who then prepares a decoction designed to counteract the symptoms. The medicinal has to be selected according to its qualities, so that for a dry condition a moistening medicine is given, and so forth. Secondly, the nature of the part to be treated must be considered when deciding on the strength or dose of the medicinal; if an organ that is normally hot is made cold by a disease, the strength of the heating power of a medicine has to be greater than in the case of a cold organ made colder. Finally, medicinals are administered according to the stage of the disease, and adjustments should be continually made to the prescription to reflect the changing state of the patient. Gentle medicinals are used first and stronger ones later, unless the threat to life is great and a delay would be injurious. So long as a physician has the constant assistance of an apothecary during the treatment of a disease, the penalty to the Disease Recovery roll due to lack of medicinal preparations (see Recovery Modifiers, above) is reduced by the Profession: Apothecary Ability, although it cannot become a bonus.
 
 The properties of each curative ingredient are well established, based on its physical appearance, its Sympathy, and its Hidden Virtues (for details of the latter two concepts, see Chapter Five: Experimental Philosophy). Each medicinal substance has a primary effect as a warming, cooling, drying, or moistening preparation, but also possess other functions: cleansing, strengthening, pain-relieving, stupefacient, and so forth. Most medicinals are primarily botanical in nature, although many have animal origins, and some are minerals.
 
@@ -2549,7 +2573,7 @@ The properties of each curative ingredient are well established, based on its ph
 >
 >**Eyebright** (hot 1, dry 1, Sun in Leo), affects eyes & head, restores sight & strengthens brain
 >
->**Fox Lungs** (cold 2, dry 3, Jupiter in Cancer) affects lungs, strengthens stamina
+>**Fox Lungs** (cold 2, dry 3, Jupiter in Cancer), affects lungs, strengthens stamina
 >
 >**Geodetes** (cold 1, dry 3, Mars in Scorpio), affect the male sex organs
 >
@@ -2563,7 +2587,7 @@ The properties of each curative ingredient are well established, based on its ph
 >
 >**Jasper** (hot 2, moist 2, Venus in Sagittarius), affects womb & blood, aids childbirth & stops bleeding
 >
->**Lead** (cold 3, dry 2, Saturn in Cancer), affects any inflammation, dries up humors 
+>**Lead** (cold 3, dry 2, Saturn in Cancer), affects any inflammation, dries up humors
 >
 >**Lettuce** (cold 2, moist 2, Moon), affects most parts of body, calming
 >
@@ -2573,7 +2597,7 @@ The properties of each curative ingredient are well established, based on its ph
 >
 >**Pyrites** (hot 3, dry 1, Sun in Aries), affect the sight, cleanses and disperses
 >
->**Sapphire** (cold 1, dry 3, Mercury in Virgo) affects the bowels & senses, resists poison
+>**Sapphire** (cold 1, dry 3, Mercury in Virgo), affects the bowels & senses, resists poison
 >
 >**Senna** (hot 2, moist 1, Mercury in Aries), affects head, heart, liver, spleen, purges melancholy
 >
@@ -2612,9 +2636,9 @@ Heating medicinals cause the removal of offending humors by thinning them and ex
 
 >#### Pharmacy
 >
->Medicinals are administered in a number of forms. **Simples** are made from a single ingredient, whereas **compounds** combine the effects of a number of ingredients in a single preparation. The easiest of all medicines consists of herbs infused in hot water to make a **tisane** or tea, or else boiled with the water and then strained to make a **decoction**. A handful of a herbs in a pint of water is sufficient for four or five doses. **Simple waters** are produced by steeping the herbs in wine. **Syrups** are made from the juice of herbs heated with sugar or honey to make a thick liquid. **Conserves** and **preserves** are made from whole flowers or fruit respectively, preserved in honey. **Pills** are prepared for the administering of bitter medicines; they are made from powdered ingredients added to a syrup and then rolled into balls. **Simple oils** are made by gently boiling ingredients in oil or adding herbs steeped in wine to oil, which is then heated to evaporate the wine. **Ointments** are made in a similar way but using pig grease rather than oil, and then mixing the product with turpentine and wax.
+>Medicinals are administered in a number of forms. **Simples** are made from a single ingredient, whereas **compounds** combine the effects of a number of ingredients in a single preparation. The easiest of all medicines consists of herbs infused in hot water to make a **tisane** or tea, or else boiled with the water and then strained to make a **decoction**. A handful of herbs in a pint of water is sufficient for four or five doses. **Simple waters** are produced by steeping the herbs in wine. **Syrups** are made from the juice of herbs heated with sugar or honey to make a thick liquid. **Conserves** and **preserves** are made from whole flowers or fruit respectively, preserved in honey. **Pills** are prepared for the administering of bitter medicines; they are made from powdered ingredients added to a syrup and then rolled into balls. **Simple oils** are made by gently boiling ingredients in oil or adding herbs steeped in wine to oil, which is then heated to evaporate the wine. **Ointments** are made in a similar way but using pig grease rather than oil, and then mixing the product with turpentine and wax.
 >
->The labor rules deal with the day-today preservation and preparation of ingredients, and a physician with access to an apothecary can reduce the Recovery Modifier for not having medicinal ingredients by the Profession: Apothecary Ability of his supplier (although the penalty cannot become a bonus). It is not normally necessary to detail the contents of an apothecary's stores or to determine the longevity of each ingredient. However, in exceptional cases this may be useful. Make an Dexterity + Profession: Apothecary roll. The Ease Factor for this roll is determined by the length of time that the preparation lasts until its medicinal qualities fade. It typically takes a week or more to prepare an ingredient from the initial harvest to the stored product, although this is not usually continuous work. Mineral ingredients normally do not need this preservation.
+>The labor rules deal with the day-to-day preservation and preparation of ingredients, and a physician with access to an apothecary can reduce the Recovery Modifier for not having medicinal ingredients by the Profession: Apothecary Ability of his supplier (although the penalty cannot become a bonus). It is not normally necessary to detail the contents of an apothecary's stores or to determine the longevity of each ingredient. However, in exceptional cases this may be useful. Make an Dexterity + Profession: Apothecary roll. The Ease Factor for this roll is determined by the length of time that the preparation lasts until its medicinal qualities fade. It typically takes a week or more to prepare an ingredient from the initial harvest to the stored product, although this is not usually continuous work. Mineral ingredients normally do not need this preservation.
 >
 >| Duration    | Ease Factor |
 >|--------------|------------|
@@ -2627,7 +2651,7 @@ Heating medicinals cause the removal of offending humors by thinning them and ex
 >
 >If the preserved item is also an Arcane Connection, and it is preserved for a duration longer than the duration of the Arcane Connection, then the Duration of the Arcane Connection is increased by one category.
 >
->*For example, an apothecary preserves the scale of a dragon, and achieves an Ease Factor of 15. Not only does the scale retain its medical benefits for decades, but its duration as an Arcane Connection is extended from Months to Years.* 
+>*For example, an apothecary preserves the scale of a dragon, and achieves an Ease Factor of 15. Not only does the scale retain its medical benefits for decades, but its duration as an Arcane Connection is extended from Months to Years.*
 >
 >Only Arcane Connections that are plants or animal body parts can be extended in this manner by an apothecary.
 
@@ -2643,7 +2667,7 @@ The knowledge of poisons is covered under Profession: Apothecary since they have
 
 #### The Apothecary's Store
 
-A practicing apothecary has a store of medicinal herbs that is being constantly replenished by frequent forays into areas where his raw ingredients may be found in the proper season. He is also likely to maintain a garden for the cultivation of easilygrown plants, and will also buy more exotic ingredients from his trading contacts as they become available at a reasonable price. The Ability of Profession: Apothecary covers the knowledge of where and when to find herbs, and how best to preserve them so that their qualities are available all year round. In any season in which the character is practicing his trade — gathering, preparing, and preserving ingredients, and concocting medicinals — the character generates Labor Points. This mechanic was first introduced in *City & Guild*, Chapter Two: Labor, and is briefly reiterated here. Labor Points do not accumulate in the character's "free seasons," that is, those seasons in which they acquire experience from sources other than Exposure.
+A practicing apothecary has a store of medicinal herbs that is being constantly replenished by frequent forays into areas where his raw ingredients may be found in the proper season. He is also likely to maintain a garden for the cultivation of easily grown plants, and will also buy more exotic ingredients from his trading contacts as they become available at a reasonable price. The Ability of Profession: Apothecary covers the knowledge of where and when to find herbs, and how best to preserve them so that their qualities are available all year round. In any season in which the character is practicing his trade — gathering, preparing, and preserving ingredients, and concocting medicinals — the character generates Labor Points. This mechanic was first introduced in *City & Guild*, Chapter Two: Labor, and is briefly reiterated here. Labor Points do not accumulate in the character's "free seasons", that is, those seasons in which they acquire experience from sources other than Exposure.
 
 **Labor Points per Eligible Season: (Intelligence + Profession: Apothecary) x Wealth Multiplier**
 
@@ -2660,8 +2684,6 @@ An apothecary has a number of additional drains on his stocks beyond that of his
 An apothecary who wishes to avoid this drain on his resources can seek out the specific ingredients he needs for regimens, formulae, and ligatures. To find an ingredient, make a Perception + Profession: Apothecary stress roll against an Ease Factor of 9; each search takes a base time of one month. The Ease Factor may be varied according to terrain, time of year, and assistance; see below for typical modifiers. Success indicates a Labor Point-equivalent of ingredients is found. For every point in excess of the Ease Factor, either another point of ingredients is found, or the time taken is halved. These can be combined in the case of a good roll; for example, a character who makes the roll by four may take a month to find five points, or find three points in a week, or spend just under two days to locate a single Labor Point's worth. The roll may be repeated as many times as necessary unless the character botches, in which case he is searching in the wrong environment or at the wrong time of year, and cannot identify a suitable replacement. Excess ingredients discovered in this manner do not add to the character’s Labor Point total, since this mechanic represents taking time out from one’s normal trade to find specific ingredients (or their substitutes) rather than gathering and preserving them in the correct season.
 
 **Search for Ingredients: Per + Profession: Apothecary, against Ease Factor of 9**
-
-preserving them in the correct season.
 
 **Modifiers to Ease Factor for searching**
 
@@ -2686,7 +2708,7 @@ preserving them in the correct season.
 
 >#### Pharmacy Magic
 >
->Creo magic can be used to stock an apothecary's store, but the spell must be Ritual or else the ingredients vanish at the expiry of the duration. Few magi have bothered to take the time to invent such a spell, whichwould require a minimum of 4 pawns of vis to cast (since Ritual spells have a minimum of 20th level). Medicinal ingredients are processed plant or animal products (in that they are created already dried and preserved), or raw mineral ingredients. Each casting of a spell of this type creates a single variety of ingredient, and each spell contributes one Labor Point, regardless of the quantity produced — it is variety, not quantity, adds value to an apothecary's business. Enterprising magi might sell the excess, but must be careful about their tribunal's restrictions regarding the magical creation of wealth (see *Covenants*, page 57 and *City and Guild,* page 130).
+>Creo magic can be used to stock an apothecary's store, but the spell must be Ritual or else the ingredients vanish at the expiry of the duration. Few magi have bothered to take the time to invent such a spell, which would require a minimum of 4 pawns of vis to cast (since Ritual spells have a minimum of 20th level). Medicinal ingredients are processed plant or animal products (in that they are created already dried and preserved), or raw mineral ingredients. Each casting of a spell of this type creates a single variety of ingredient, and each spell contributes one Labor Point, regardless of the quantity produced — it is variety, not quantity, that adds value to an apothecary's business. Enterprising magi might sell the excess, but must be careful about their tribunal's restrictions regarding the magical creation of wealth (see *Covenants*, page 57 and *City and Guild,* page 130).
 >
 >Intellego magics such as *Hunt for the Wild Herb* can be used to find ingredients more efficiently. These spells cannot assist in the regular upkeep of the apothecary's store, which is planted and harvested rather than found, but they can assist in the search for extra ingredients. If the character is under the effects of this spell for the whole duration of a search, then the Ease Factor of searching for ingredients is reduced by 3.
 >
@@ -2702,7 +2724,7 @@ preserving them in the correct season.
 
 # Chapter Five: Experimental Philosophy
 
-*The empirici say that all things are discovered by experimentation (empirica), but we say that some are found by experience (experimentum) and some by reason (ratio)* 
+*The empirici say that all things are discovered by experimentation (empirica), but we say that some are found by experience (experimentum) and some by reason (ratio)*
 
 — Galen
 
@@ -2718,7 +2740,7 @@ The efforts of philosophers are thus unaffected by supernatural auras and do not
 
 >#### Experimental Philosophy or Natural Magic?
 >
->In the thirteenth century the term "natural magic" was used where here we use "experimental philosophy"' and "empirica," and where today we would use "science" (albeit in a very different form to modern science). However, in a game like **Ars Magica Fifth Edition** where the focus is so strongly on supernatural magic, the term "natural magic" is unhelpful since it invokes other connotations in the mind of the reader. If you wish, you may refer to the subject matter of this chapter as natural magic, like the real-world counterparts of your characters would have. Just remember that natural magic is not *supernatural* magic, and draws its power from the natural world, not from any supernatural realm, even though the laws of the natural world in Mythic Europe act differently to those in the world with which we are familiar.
+>In the thirteenth century the term "natural magic" was used where here we use "experimental philosophy" and "empirica", and where today we would use "science" (albeit in a very different form to modern science). However, in a game like **Ars Magica Fifth Edition** where the focus is so strongly on supernatural magic, the term "natural magic" is unhelpful since it invokes other connotations in the mind of the reader. If you wish, you may refer to the subject matter of this chapter as natural magic, like the real-world counterparts of your characters would have. Just remember that natural magic is not *supernatural* magic, and draws its power from the natural world, not from any supernatural realm, even though the laws of the natural world in Mythic Europe act differently to those in the world with which we are familiar.
 
 ### Natural Principles
 
@@ -2730,11 +2752,11 @@ All things have a prime quality that is derived from the matter from which it is
 
 #### Contagion
 
-As well as prime qualities, substances can acquire second qualities by contagion, or association. Thus, the clothing of a person can take on the qualities of the person wearing it, and the strongest connections of all are between those pieces that were once part of another thing but are now separate objects in their own right. Expressed as *pars pro toto*, the "'part for the whole," the thing that acquires these second qualities can be used to affect the thing that possesses the prime qualities. Magi know the products of this principle as Arcane Connections;, however, not all contagious relationships are Arcane Connections. A wife is a woman with the second quality of her husband, just as the husband is primarily a man and secondarily a husband through contagion. However, most Hermetic magi cannot exploit such weak contagious relationships as Arcane Connections.
+As well as prime qualities, substances can acquire second qualities by contagion, or association. Thus, the clothing of a person can take on the qualities of the person wearing it, and the strongest connections of all are between those pieces that were once part of another thing but are now separate objects in their own right. Expressed as *pars pro toto*, the "part for the whole", the thing that acquires these second qualities can be used to affect the thing that possesses the prime qualities. Magi know the products of this principle as Arcane Connections; however, not all contagious relationships are Arcane Connections. A wife is a woman with the second quality of her husband, just as the husband is primarily a man and secondarily a husband through contagion. However, most Hermetic magi cannot exploit such weak contagious relationships as Arcane Connections.
 
 #### Affinity
 
-Substances can take on third qualities, so that rather than simply acquiring qualities through contact, the secondary qualities of the person are transferred to the object. Thus the crown of a king becomes connected to the king through contagion, and then acquires the regality inherent in the king through affinity, and can be used to demand respect from people. Many Shape and Material bonuses utilized by magi are derived from the principle of affinity; a sword can be used to harm people magically through affinity with its mundane usage. One facet of affinity is sometimes expressed as the principle of antipathy: affinity can repel things with opposite qualities just as it attracts things with the same qualities. Thus, a drum made of wolf skin will frighten sheep, because the drum takes on the qualities of wolf skin by affinity, and wolf skin has the sheepscaring quality of wolves by contagion.
+Substances can take on third qualities, so that rather than simply acquiring qualities through contact, the secondary qualities of the person are transferred to the object. Thus the crown of a king becomes connected to the king through contagion, and then acquires the regality inherent in the king through affinity, and can be used to demand respect from people. Many Shape and Material bonuses utilized by magi are derived from the principle of affinity; a sword can be used to harm people magically through affinity with its mundane usage. One facet of affinity is sometimes expressed as the principle of antipathy: affinity can repel things with opposite qualities just as it attracts things with the same qualities. Thus, a drum made of wolf skin will frighten sheep, because the drum takes on the qualities of wolf skin by affinity, and wolf skin has the sheep-scaring quality of wolves by contagion.
 
 #### Similarity
 
@@ -2744,18 +2766,18 @@ Affinity and similarity together are sometimes combined into a single principle 
 
 #### Hidden Virtues
 
-Not all properties of an object are determined by qualities, contagion, affinity, or sympathy. Objects also have *virtutes occultes* — hidden virtues — that cannot be explained by their substance. These hidden qualities are granted by virtue of astral influences. For example, herbs ruled by Venus are good for the kidneys and reproductive organs, which are both ruled by Venus, but these virtues are not always broadcast to man through sympathy. All sapphires resonate with wisdom because they are born under Jupiter's influence, and rubies are literally Martial in nature. While aligned to the principle of astrology (see 
+Not all properties of an object are determined by qualities, contagion, affinity, or sympathy. Objects also have *virtutes occultes* — hidden virtues — that cannot be explained by their substance. These hidden qualities are granted by virtue of astral influences. For example, herbs ruled by Venus are good for the kidneys and reproductive organs, which are both ruled by Venus, but these virtues are not always broadcast to man through sympathy. All sapphires resonate with wisdom because they are born under Jupiter's influence, and rubies are literally Martial in nature. While aligned to the principle of astrology (see
 below), this principle is different; the hidden virtues of an object are determined by its resonance ordained by God, not the astral circumstances at its formation. Hidden virtues are fixed; they do not vary as the stars vary.
 
 #### Astrology
 
-All qualities of a thing are determined by the celestial figure — that is, the position of the planets with reference to the fixed stars at the time of its creation. Thus, the natal horoscope of a person can reveal the complexion and temperament of a person, although the exercise of free will prevents a human's life from being determined by a star. The natal horoscope of an animal can be predict its destiny, as can the inception horoscope of a venture, although the free will of humans can interfere with these fates as well. Under this principle, a herb planted when a hot star such as Mars is in ascendance is hotter in temperament than the same herb grown under the influence of a different planet. Magi employ the principle of astrology in the ceremonial casting of spontaneous spells, and also in the ordering of laboratory work. The schedule of a magus must conform to the rising and falling of the right stars, else the season is wasted (**ArM5**, page 103).
+All qualities of a thing are determined by the celestial figure — that is, the position of the planets with reference to the fixed stars at the time of its creation. Thus, the natal horoscope of a person can reveal the complexion and temperament of a person, although the exercise of free will prevents a human's life from being determined by a star. The natal horoscope of an animal can predict its destiny, as can the inception horoscope of a venture, although the free will of humans can interfere with these fates as well. Under this principle, a herb planted when a hot star such as Mars is in ascendance is hotter in temperament than the same herb grown under the influence of a different planet. Magi employ the principle of astrology in the ceremonial casting of spontaneous spells, and also in the ordering of laboratory work. The schedule of a magus must conform to the rising and falling of the right stars, else the season is wasted (**ArM5**, page 103).
 
 ## Ligatures
 
 A ligature is a small charm consisting of a small sack containing parchment, stones, or herbs typically worn around the neck. All ligatures also contain either an Arcane or a Sympathetic Connection to whomever they are designed to affect. They employ the natural principles to assist a specific action, which usually encompasses a single die roll. For example, a medical ligature might employ the resonance of bloodstone to assist in the healing of a specific wound, or a philosophical ligature might employ basil to exert superiority over a snake. Ligatures cannot benefit seasonal activities such as study or Lab Totals.
 
-Any character who knows one of the philosophical arts (Artes Liberales, Philosophiae, or Medicine) can make a ligature; it requires no special knowledge other than that gained from the study of these sciences. However, each ligature is tied to a specific Ability, and a character cannot make, for example, a ligature of Medicine unless he possesses a score of at least 1 in Medicine, even if he is capable of making a ligature linked to Philosophiae or Artes Liberales. Each ligature takes a few hours to assemble, during which time the character performs the appropriate astrological calculations, locates objects with the correct occult properties, and inscribes the right prayers on parchment. Each ligature requires one Labor Point from an apothecary (see The Practice of Apothecary, Pharmacy). Without access to an apothecary's stores (or if you are not using these rules), the scholar must find or purchase the required ingredient (as detiled in the Pharmacy section), whic may be difficult or even impossible depending on his circumstances.
+Any character who knows one of the philosophical arts (Artes Liberales, Philosophiae, or Medicine) can make a ligature; it requires no special knowledge other than that gained from the study of these sciences. However, each ligature is tied to a specific Ability, and a character cannot make, for example, a ligature of Medicine unless he possesses a score of at least 1 in Medicine, even if he is capable of making a ligature linked to Philosophiae or Artes Liberales. Each ligature takes a few hours to assemble, during which time the character performs the appropriate astrological calculations, locates objects with the correct occult properties, and inscribes the right prayers on parchment. Each ligature requires one Labor Point from an apothecary (see The Practice of Apothecary, Pharmacy). Without access to an apothecary's stores (or if you are not using these rules), the scholar must find or purchase the required ingredient (as detailed in the Pharmacy section), which may be difficult or even impossible depending on his circumstances.
 
 When creating a ligature, the character must have a clear goal for it in mind, including a specific range of time in which it will act, and the person who will be affected. Many ligatures are made for immediate use, but they may be made up to a year in advance. However, a ligature only operates within a six-hour window on the designated day. Thus, a Philosophiae ligature might be designed to help Carolus of Tytalus ceremonially cast an Intellego Animal spell this morning; this cannot assist Tillitus to cast the same spell, nor will it help Carolus to cast an Intellego Terram spell instead, nor even an Intellego Animal spell tomorrow. After assembling the ligature, the player should roll a stress die and add the character's Intelligence and appropriate Academic Ability.
 
@@ -2769,9 +2791,9 @@ A ligature has only one use; once the bonus has been granted to one roll, then t
 
 The most powerful expressions of the empiricus' study are created through the use of formulae. A philosopher may encounter these formulae during his studies of the Academic Abilities, or else he may develop them himself through practical experimentation with the theoretical knowledge he has gained. A formula is a recipe, similar to a Laboratory Text, which describes how to make one of three products: **astrological inceptions** (which are learned as part of Artes Liberales), **alchemical reagents** (which are learned as part of Philosophiae), and **pharmaceutical theriacs** (which form part of the corpus of Medicine).
 
-Creating one of these products is a twostage process. The philosopher must first research the formula — either learning or inventing the formula by accumulating experience points. Second, the philosopher spends one or more seasons in his laboratory concocting the product described by his formula. A formula is described in a manner similar to a Hermetic spell or enchantment, but it is important to note that a formula is not a magical effect, and the parallels with supernatural magic are merely a matter of convenience. Like other empiricae, The Gift is not required to concoct a formula, and Supernatural effects cannot assist in its creation. The process of concocting a formula is very much like Hermetic lab work, and this is no coincidence, for the foundations of Hermetic enchantment lie within the realm of natural philosophy.
+Creating one of these products is a two-stage process. The philosopher must first research the formula — either learning or inventing the formula by accumulating experience points. Second, the philosopher spends one or more seasons in his laboratory concocting the product described by his formula. A formula is described in a manner similar to a Hermetic spell or enchantment, but it is important to note that a formula is not a magical effect, and the parallels with supernatural magic are merely a matter of convenience. Like other empiricae, The Gift is not required to concoct a formula, and Supernatural effects cannot assist in its creation. The process of concocting a formula is very much like Hermetic lab work, and this is no coincidence, for the foundations of Hermetic enchantment lie within the realm of natural philosophy.
 
->#### Ligature Bonus Table**
+>#### Ligature Bonus Table
 >| Ease Factor | Achieved Bonus |
 >|-------------|----------------|
 >| 9           | +1             |
@@ -2784,7 +2806,7 @@ Creating one of these products is a twostage process. The philosopher must first
 >
 >#### Artes Liberales Possible Ligature Bonuses
 >
->**Grammar:** interpreting or translating a text; 
+>**Grammar:** interpreting or translating a text;
 >
 >**Logic:** figuring out a specific problem or puzzle;
 >
@@ -2873,13 +2895,13 @@ Note that some formulae are exceptionally hard — one must study all one's life
 >Craft magic cannot duplicate astrological inceptions, as they do not involve the combination of raw ingredients but the calculation of stellar positions. Since this computation must include the horoscope of the inception itself (see Astrological Inceptions, below), magic cannot duplicate a pre-existing inception either.
 >
 >#### Brew the Healing Tonic
->Rego Herbam 10<br> 
->R: Touch, D: Mom, T: Group<br> 
+>Rego Herbam 10<br>
+>R: Touch, D: Mom, T: Group<br>
 >Req: Animal, Terram
 >
->The raw ingredients for a restorative that gives a +3 to Wound Recovery rolls are combined into a theriac, providing that the caster has access to an appropriate formula. The Ease Factor of the Finesse roll will vary according to the Potency of the theriac; to duplicate the formula for the Mustard Plaster (Level 5, see below) requires an Ease Factor of 16.
+>The raw ingredients for a restorative that gives a +3 to Wound Recovery rolls are combined into a theriac, providing that the caster has access to an appropriate formula. The Ease Factor of the Finesse roll will vary according to the Potency of the theriac; to duplicate the formula for the Mustard Plaster (Level 5, see below) requires an Ease Factor of 14.
 >
->(Level 3, +1 Touch +2)
+>(Level 3, +1 Touch, +2 Group)
 
 #### Laboratory Texts
 
@@ -2896,8 +2918,6 @@ Philosophers jealously guard the formulae that they have invented themselves, bu
 >Martin the Alchemist has learned a Philosophiae formula for creating cement (see below), which is a Level 5 Reagent. Martin has an Intelligence of +2, a Philosophiae of 5 specialized in Reagents, and a philosophic bonus of +4. His lab total is thus 12, sufficient to create this reagent in a single season. He sets to work, and a season later he has completed the formula. He has also created a Laboratory Text for the process, so when he takes another season to make the reagent, this time he gets three doses.
 >
 >Martin spends a season writing out several of his Laboratory Texts, and gives a copy of the text for the cement to Berenger, a fellow alchemist. Martin has also written a tractatus on Philosophiae explaining how earth can be altered to be as hard as rock, which has a Quality of 6 (his Communication is 0). Berenger spends a season studying the tractatus, for which he gains 6 experience points in Philosophiae. He puts five of these points into learning the formula, and the remaining point into his Philosophiae Ability. Berenger can now attempt to recreate the reagent using Martin's Laboratory Text. However, Berenger is a less-skilled alchemist than Martin, and his Lab Total is only 8, which is still sufficient to create two doses of the preservative. Without the Laboratory Text he would have accumulated 3 (8 – 5) points per season, and thus taken two seasons instead.
-
-
 
 ### Astrological Inceptions
 
@@ -2935,7 +2955,7 @@ Once the horoscope is known, then it takes one minute per level of the inception
 >
 >**Binary:** A one-word answer between two choices (+0 magnitudes)
 >
->**Basic:** Provides the equivalent of a threeword answer (+1 magnitude)
+>**Basic:** Provides the equivalent of a three-word answer (+1 magnitude)
 >
 >**Brief:** Provides a single sentence of information (+2 magnitudes)
 >
@@ -2961,7 +2981,7 @@ Once the horoscope is known, then it takes one minute per level of the inception
 >
 >**The stars do not determine destiny**. The stars do not guide the fates of the inhabitants of Mythic Europe, they simply reveal it. All humans retain their free will, and knowing one's destiny is often enough to change it.
 >
->**The stars do not represent absolutes**. Even a binary answer is not necessarily "yes" or "no," but simply reveals whether the horoscope is closer to one celestial figure or another. So, you can't find out if someone is dead or alive, but you can discover whether someone is closer to death or to life.
+>**The stars do not represent absolutes**. Even a binary answer is not necessarily "yes" or "no", but simply reveals whether the horoscope is closer to one celestial figure or another. So, you can't find out if someone is dead or alive, but you can discover whether someone is closer to death or to life.
 
 #### Example Inceptions
 
@@ -3008,14 +3028,14 @@ This inception requires the horoscope of a person likely to initiate a war. The 
 (base 5, +1 distant future)
 
 **What are the real feelings of N?**<br>
-Inception Level 10<Br>
+Inception Level 10<br>
 Detail: Basic
 
 Venus is the planet of feelings and emotions in general, and its attitude to the other moveable stars reveals the dominant emotion of the target in his horoscope, as determined by his complexion.
 
 (base 5, +1 Basic)
 
-**How are the people of N reacting to NA?**<br> 
+**How are the people of N reacting to NA?**<br>
 Inception Level 10<br>
 Detail: Brief
 
@@ -3051,7 +3071,7 @@ The North node of the Moon is the significator of beginnings, and Mercury repres
 Inception Level 20<br>
 Detail: Brief
 
-From the horoscope of a dead man, the astrologer can determine a single characteristics of the person most closely associated with the cause of death, such as his complexion (and thus give a good clue to physical appearance) or approximate location relative to his position at the time of the murder. The nature of the information is determined at the time of using the inception, and while it pertains to a person other than the target, that person's information is still present in the celestial figure of the deceased. The inception is never infallible. For example, the maker of a poison may be more intimately connected with the death than the poisoner, and the perpetrator of a weakened saddle strap that leads to a fatal fall might be miles away from the site of death. If no murder actually occurred, then the answer can be misleading; a spurned lover who committed suicide did so on account of his lover, but she did not willingly cause his death.
+From the horoscope of a dead man, the astrologer can determine a single characteristic of the person most closely associated with the cause of death, such as his complexion (and thus give a good clue to physical appearance) or approximate location relative to his position at the time of the murder. The nature of the information is determined at the time of using the inception, and while it pertains to a person other than the target, that person's information is still present in the celestial figure of the deceased. The inception is never infallible. For example, the maker of a poison may be more intimately connected with the death than the poisoner, and the perpetrator of a weakened saddle strap that leads to a fatal fall might be miles away from the site of death. If no murder actually occurred, then the answer can be misleading; a spurned lover who committed suicide did so on account of his lover, but she did not willingly cause his death.
 
 (base 5, +2 Brief, +1 Past)
 
@@ -3065,7 +3085,7 @@ Alchemists recognize two types of matter. The first they call simple matter, ele
 
 Alchemy cannot transform the base substance into another sort, nor can it cause an increase or decrease in the amount of matter. Soil that is made unbreakable is still soil; it has not become rock. Although there are rumors of alchemists who have succeeded in turning lead into gold, the true philosopher scoffs at such tales as impossible through philosophy alone.
 
-To concoct a formula, an alchemist requires a well-stocked laboratory. The raw ingredients for his Reagents come from the daily trade of an apothecary; either the character himself or a contact. The requirements for an alchemist are different from those of a physician, for an alchemist often focuses on the mineral stores of the apothecary rather than on the botanics required by the medical 
+To concoct a formula, an alchemist requires a well-stocked laboratory. The raw ingredients for his Reagents come from the daily trade of an apothecary; either the character himself or a contact. The requirements for an alchemist are different from those of a physician, for an alchemist often focuses on the mineral stores of the apothecary rather than on the botanics required by the medical
 practitioner; nevertheless, the ingredients are the same, and it is merely the quantity that differs. Each alchemical Reagent costs an apothecary’s business 1 Labor Point per 5 points (or fraction) of the level (see Chapter Four: Medicine, The Practice of the Apothecary). If multiple doses are created, then multiply the level of the Reagent by the number of doses before dividing by 5 to get the number of Labor Points worth of materials.
 
 >#### Reagent Guidelines
@@ -3086,10 +3106,10 @@ practitioner; nevertheless, the ingredients are the same, and it is merely the q
 >
 >| Magnitude   | Volume of Simple Matter | Volume of Complex Matter |
 >|-------------|------------------------------------|-----------------------------|
->| +0          | 1 pace^3                            | 50 inches^3                  |
->| +1          | 10 paces^3                          | 500 inches^3                 |
->| +2          | 100 paces^3                         | 3 feet^3                     |
->| +3          | 1000 paces^3                        | 1 pace^3                     |
+>| +0          | 1 pace^3                           | 50 inches^3                 |
+>| +1          | 10 paces^3                         | 500 inches^3                |
+>| +2          | 100 paces^3                        | 3 feet^3                    |
+>| +3          | 1000 paces^3                       | 1 pace^3                    |
 >|             |                                    |                             |
 >
 >Properties of matter can be changed without apparently changing the object; these include primary qualities such as hot, cold, dry, or moist, as well as secondary qualities such as acidity, density, weight and color.
@@ -3098,11 +3118,13 @@ practitioner; nevertheless, the ingredients are the same, and it is merely the q
 >
 >Purify simple matter
 >
->**Level 4:** Enhance or diminish principle quality of simple matter
+>**Level 4:** Enhance or diminish primary quality of simple matter
 >
->**Level 5:** Enhance or diminish secondary quality of complex matter Purify complex matter
+>**Level 5:** Enhance or diminish secondary quality of complex matter
 >
->**Level 10:** Enhance or diminish principle quality of complex matter
+>Purify complex matter
+>
+>**Level 10:** Enhance or diminish primary quality of complex matter
 
 >#### Volume Conversion Guide
 >
@@ -3112,11 +3134,11 @@ practitioner; nevertheless, the ingredients are the same, and it is merely the q
 >
 >**500 cubic inches** = 2 gallons, 1-foot-diameter sphere, three base Individuals of Terram (precious metal), a Medium object on the Material and Size table.
 >
->**3 cubic feet** = 20 gallons, 2-foot-diameter sphere, three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table
+>**3 cubic feet** = 20 gallons, 2-foot-diameter sphere, three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table.
 >
 >**1 cubic pace** = 200 gallons, 4-foot-diameter sphere, base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table.
 >
->**10 cubic paces** = 2, 000 gallons, 8-footdiameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid).
+>**10 cubic paces** = 2,000 gallons, 8-foot-diameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid).
 >
 >**100 cubic paces** = 6-pace-diameter sphere, five base Individuals of Aquam (water).
 >
@@ -3154,7 +3176,7 @@ Alteration: Slight
 
 When painted onto wood, this tarry Reagent proofs it against rot and mold, and makes it unpalatable to pests. About two gallons of preservative are made, enough to coat a small hut or boat.
 
-(base 5, + 1 Size)
+(base 5, +1 Size)
 
 **Refrigerant Salt**<br>
 Reagent Level 10<br>
@@ -3168,9 +3190,9 @@ When the salt-like crystals of this Reagent are scattered onto the surface of wa
 Reagent Level 10<br>
 Alteration: Substantial
 
-When dropped into water, this pebble-
+When dropped into water, this pebble-like
 
-like Reagent causes the water to digest into hot particles, and come to a boil in a matter of seconds. A single dose can affect a bathtub full of water.
+Reagent causes the water to digest into hot particles, and come to a boil in a matter of seconds. A single dose can affect a bathtub full of water.
 
 (base 4, +2 Substantial)
 
@@ -3194,7 +3216,7 @@ This Reagent must be kept in a sealed container, for when opened the oily liquid
 Reagent Level 15<br>
 Alteration: Substantial
 
-This Reagent is typically placed into a clay ball with two compartments to contain each of the two parts of the formula. When mixed (such as when the clay is broken by an impact), these components combust into a eight-foot-diameter sphere of very hot fire that inflicts +15 damage should it hit someone (such fire would normally inflict +5 damage). This fire cannot be extinguished with water, but must be beaten out.
+This Reagent is typically placed into a clay ball with two compartments to contain each of the two parts of the formula. When mixed (such as when the clay is broken by an impact), these components combust into an eight-foot-diameter sphere of very hot fire that inflicts +15 damage should it hit someone (such fire would normally inflict +5 damage). This fire cannot be extinguished with water, but must be beaten out.
 
 (base 4, +2 Substantial, +1 Size)
 
@@ -3215,7 +3237,7 @@ This metal is a purified form of iron created in the alchemist's laboratory. It 
 (base 10, +2 Substantial)
 
 **Lapis Minor**<br>
-Reagent Level 20<br> 
+Reagent Level 20<br>
 Alteration: Major
 
 This formula creates a reddish stone, waxy in texture, the touch of which purifies a precious metal from its alloy. For example, gold that has been adulterated with brass separates into pure gold, pure copper, and pure tin. Only a small object can be altered; no larger than a dagger.
@@ -3240,7 +3262,7 @@ This is called the "Lesser Stone;" alchemists have long sought the Greater Stone
 
 ### Pharmaceutical Theriacs
 
-The term "theriac" is used by commoners and ill-trained medici alike to refer to a cureall; a sovereign remedy to all diseases, wounds, and poisons. Charlatans claim to have found, or alternatively made, the theriac, which they sell to their trusting victims. These ignoramuses are simply confounding the products of numerous medicinal formulae that have apparently miraculous healing ability. In reality, God's hand is only involved in granting various herbs and stones the ability to heal, and in granting man the knowledge to unlock these hidden properties for therapeutic use. Formulae for Theriacs are learned as part of the Medicine Ability. Recipes can be found in many text books and instruction manuals on the healing arts. Despite the fact that Medicine is not used in the healing of wounds, formulae for Theriacs exist that can cure (or even cause) wounds.
+The term "theriac" is used by commoners and ill-trained medici alike to refer to a cure-all; a sovereign remedy to all diseases, wounds, and poisons. Charlatans claim to have found, or alternatively made, the theriac, which they sell to their trusting victims. These ignoramuses are simply confounding the products of numerous medicinal formulae that have apparently miraculous healing ability. In reality, God's hand is only involved in granting various herbs and stones the ability to heal, and in granting man the knowledge to unlock these hidden properties for therapeutic use. Formulae for Theriacs are learned as part of the Medicine Ability. Recipes can be found in many text books and instruction manuals on the healing arts. Despite the fact that Medicine is not used in the healing of wounds, formulae for Theriacs exist that can cure (or even cause) wounds.
 
 Each Theriac requires rare and expensive ingredients that must be supplied by an apothecary (or come from the character's own stores, if he has Profession: Apothecary himself). Each Theriac costs an apothecary's business 1 Labor Point per 5 points (or fraction) of the level (see Medicine: The Practice of the Apothecary). If multiple doses are created, then multiply the level for each dose by the number of doses before dividing by 5 to get the number of Labor Points worth of materials required.
 
@@ -3282,12 +3304,12 @@ Each Theriac requires rare and expensive ingredients that must be supplied by an
 >
 >**Level 5:** Cause a wound if a Stamina roll against an Ease Factor of 9 is failed. Cure a specific disease, in a time equal to the interval parameter of the disease. Restore fatigue.
 >
->**Level 10:**Cause a wound if a Stamina roll against an Ease Factor of 12 is failed. Cure a wound from a specific source (e.g. poison, crushing damage, piercing damage). The wound entirely heals over the course of a normal interval for the wound.
+>**Level 10:** Cause a wound if a Stamina roll against an Ease Factor of 12 is failed. Cure a wound from a specific source (e.g. poison, crushing damage, piercing damage). The wound entirely heals over the course of a normal interval for the wound.
 
 #### Example Theriacs
 
 **Tonic of Gold**<br>
-Theriac Level 5<br> 
+Theriac Level 5<br>
 Potency: Weak
 
 This tonic, made with minute quantities of gold, restores a Winded character to a non-fatigued state. It cannot affect a character who has lost more than one Fatigue level.
@@ -3295,7 +3317,7 @@ This tonic, made with minute quantities of gold, restores a Winded character to 
 (base 5)
 
 **Troche of Colocynth**<br>
-Theriac Level 5<br> 
+Theriac Level 5<br>
 Potency: Weak
 
 This hard pill of compressed powder mixed with gum will cause immediate and violent evacuations of the bowel if the target fails a Stamina roll against an Ease Factor of 9. A patient suffering from a melancholic disease who is affected by this theriac is purged of retained humors, and can reroll a failed Disease Recovery roll, but a successful second roll can only have a Stable result, not an Improvement.
@@ -3303,7 +3325,7 @@ This hard pill of compressed powder mixed with gum will cause immediate and viol
 (base 5)
 
 **Cataplasm of Mandrake**<br>
-Theriac Level 5<br> 
+Theriac Level 5<br>
 Potency: Moderate
 
 This thick paste, or cataplasm, is a secret of the School of Salerno, employing chiefly mandrake and hyoscyamus. When applied to a body part it causes the character to become Tired (loss of three Fatigue levels), but reduces any Wound and Disease Penalty by 3. The body part remains numb until the lost Fatigue levels are recovered.
@@ -3311,7 +3333,7 @@ This thick paste, or cataplasm, is a secret of the School of Salerno, employing 
 (base 3, +2 Moderate)
 
 **Mustard Plaster**<br>
-Theriac Level 5<br> 
+Theriac Level 5<br>
 Potency: Moderate
 
 When applied to a wound, this linen cloth smeared with ointment containing ground mustard seeds (among other things) grants a +3 to the patient's next Wound Recovery rolls for all Medium and Light Wounds by drawing out accumulated choler, which causes inflammation.
@@ -3319,7 +3341,7 @@ When applied to a wound, this linen cloth smeared with ointment containing groun
 (base 3, +2 Moderate)
 
 **Tincture of Parsley**<br>
-Theriac Level 10<br> 
+Theriac Level 10<br>
 Potency: Strong
 
 This concentrated herbal infusion is an antidote to the bite of any serpent. If consumed immediately following the bite, then the wound (which must be a Heavy wound or less) inflicted by the venom is treated as one category lower. Thus if bitten by an adder (**ArM5**, page 180), no wound is suffered.
@@ -3327,7 +3349,7 @@ This concentrated herbal infusion is an antidote to the bite of any serpent. If 
 (base 3, +3 Strong)
 
 **Compress of Mallow**<br>
-Theriac Level 15<br> 
+Theriac Level 15<br>
 Potency: Mild
 
 This cool bandage made of mallow and cucumber soothes burn wounds, and will heal any Light Wound caused by fire over the course of a week.
@@ -3368,9 +3390,9 @@ This lochoch — a thick syrupy medicine made from boiled honey — will cure ph
 
 # Chapter Six: Institutional Education
 
-The thirteen century is a great age of learning. *Amor sciendi*, the "love of knowing," has blossomed in the breasts of many, making learning itself valuable. People follow the path of reason to better themselves and to achieve a deeper understanding of their faith. Changing social values and the slight increase in social mobility have also allowed educated men to rise in importance. Church reforms and royal empires require the benefits of learned professions for their political well-being, making such men indispensable and highly regarded. Professional credentials are prestigious accoutrements. Academics are able to negotiate the tangled legal terrain of property rights and inheritances, important issues to any who hold land, as well as tackle the theological issues of differing faiths and differing opinions. Ecclesiastics seek to harmonize Christian philosophy with pagan philosophy through academic learning, creatively systematizing the two into a single body of knowledge. "Faith through Reason" are the bywords of the century.
+The thirteenth century is a great age of learning. *Amor sciendi*, the "love of knowing", has blossomed in the breasts of many, making learning itself valuable. People follow the path of reason to better themselves and to achieve a deeper understanding of their faith. Changing social values and the slight increase in social mobility have also allowed educated men to rise in importance. Church reforms and royal empires require the benefits of learned professions for their political well-being, making such men indispensable and highly regarded. Professional credentials are prestigious accoutrements. Academics are able to negotiate the tangled legal terrain of property rights and inheritances, important issues to any who hold land, as well as tackle the theological issues of differing faiths and differing opinions. Ecclesiastics seek to harmonize Christian philosophy with pagan philosophy through academic learning, creatively systematizing the two into a single body of knowledge. "Faith through Reason" are the bywords of the century.
 
-There are a variety of educational opportunities in the thirteenth century. Learning is no longer in the sole possession of the clergy, and many laymen receive quality institutional educations. Universities, the acme of higher learning, will be discussed in greater in the next chapter. They are few in the thirteenth century, and most educated people have been taught at other institutions. Most of the institutions described here do not require a new Virtue or Flaw for a character to participate in them. Rather, they allow players to more accurately determine where their educated characters received instruction.
+There are a variety of educational opportunities in the thirteenth century. Learning is no longer in the sole possession of the clergy, and many laymen receive quality institutional educations. Universities, the acme of higher learning, will be discussed in greater detail in the next chapter. They are few in the thirteenth century, and most educated people have been taught at other institutions. Most of the institutions described here do not require a new Virtue or Flaw for a character to participate in them. Rather, they allow players to more accurately determine where their educated characters received instruction.
 
 >#### The Limits of Education
 >
@@ -3415,7 +3437,7 @@ Cathedral schools were the acme of institutional learning in the eleventh and tw
 
 The great church reformer, Pope Gregory VII, decreed in 1079 that all cathedrals must make schooling compulsory for priests. This laid the foundations for such scholastic luminaries as Peter Abelard, who taught at the cathedral school of St Geneviève in Paris; William of Conches and Thierry of Chartres, both of whom taught at Chartres; Peter Lombard, who taught at pre-university Bologna and Paris; and John of Salisbury, another graduate of the Parisian cathedral schools. Later ecclesiastical pressure strove for a singular, systematic approach to cathedral school teaching, including subjects useful for the new-trained cleric who had to navigate the involved legal and theological aspects of Pope Gregory's reforms. When the secular interest in learning and law developed in the eleventh and twelfth centuries, cathedral schools began accepting non-clerical students. Cathedral schools are still beacons of intellectual activity, despite the emphasis the burgeoning universities receive in papal and secular attention.
 
-The cathedral is the physical center of the religious community of the diocese. Besides its primary function as a religious centerpiece for the faithful, it serves as a building to instruct interested pupils. This differs from universities, which are more of a corporation of men than a built structure. Teaching happens in the cathedral, when it is not being used for other religious purposes. Some of the more famous cathedral schools in 1220 are Toledo in Castile; Bordeaux, Poiters, Chartres, Rouen, Reims, and Tournai in France; Milan, Ravenna, Florence, and Rome in Italy; Monreale and Palermo in Sicily; Canterbury and York in England; and Utrecht, Worms, Mainz, Metz, Speyer, Bamberg, and Magdeburg in the Holy Roman Empire. Most university cities with a cathedral also have a reputable cathedral school.
+The cathedral is the physical center of the religious community of the diocese. Besides its primary function as a religious centerpiece for the faithful, it serves as a building to instruct interested pupils. This differs from universities, which are more of a corporation of men than a built structure. Teaching happens in the cathedral, when it is not being used for other religious purposes. Some of the more famous cathedral schools in 1220 are Toledo in Castile; Bordeaux, Poitiers, Chartres, Rouen, Reims, and Tournai in France; Milan, Ravenna, Florence, and Rome in Italy; Monreale and Palermo in Sicily; Canterbury and York in England; and Utrecht, Worms, Mainz, Metz, Speyer, Bamberg, and Magdeburg in the Holy Roman Empire. Most university cities with a cathedral also have a reputable cathedral school.
 
 >#### Female Scholars
 >
@@ -3435,7 +3457,7 @@ A cathedral is run by a strict hierarchy of clerics called the cathedral chapter
 
 The chancellor is the second most powerful chapter position and the one directly responsible for overseeing the cathedral's educational programs. His primary duty is to sign and seal all of the cathedral's official documents, hence he must have an understanding of their intent and purpose. In many cases, the chancellor is university trained, familiar with that model of education. He is rarely a priest. The chancellor hires the teachers who will teach in the cathedral school. He has ultimate authority in selecting teachers, and while the cathedral chapter might raise issues with any particular teacher, the chancellor is not bound to heed their concerns. Theoretically, he can be overruled by the bishop, but particular relationships vary. If the chancellor was appointed by a king rather than the bishop, he might ignore the bishop's authority.
 
-In many instances, the chancellor appoints a sole master to teach at a cathedral school, lecturing during the morning to the group of students who have pledge themselves to the master. If the cathedral is large or very popular, a second master will be hired, and the students split up between lay and clerical students. There is also the possibility that the chancellor will hire men and women to teach basic grammar to young students. This is one of the few roles for trained academic women in the medieval systems of education. The students do not take examinations but do participate in disputationes, and the students stay with the master until he determines that their studies are finished. Usually this is after a set number of years spent studying under a single master. Cathedral school students are not supposed to pay for their education. Instead, the teacher receives a benefice for his efforts, which can be quite lucrative. In practice, students can expect to pay for their education through subtle bribes, living expenses, and the cost of supplies.
+In many instances, the chancellor appoints a sole master to teach at a cathedral school, lecturing during the morning to the group of students who have pledged themselves to the master. If the cathedral is large or very popular, a second master will be hired, and the students split up between lay and clerical students. There is also the possibility that the chancellor will hire men and women to teach basic grammar to young students. This is one of the few roles for trained academic women in the medieval systems of education. The students do not take examinations but do participate in disputationes, and the students stay with the master until he determines that their studies are finished. Usually this is after a set number of years spent studying under a single master. Cathedral school students are not supposed to pay for their education. Instead, the teacher receives a benefice for his efforts, which can be quite lucrative. In practice, students can expect to pay for their education through subtle bribes, living expenses, and the cost of supplies.
 
 The chancellor selects the cathedral school teacher based on the teacher's reputation, authorship, and teaching experience. Political motivations, family ties, and prestigious patronage can all affect a chancellor's decision. To become a cathedral school teacher, a character will have to impress the chancellor. Such a goal makes a good story if the character is an academic looking for a teaching job, and can draw in other types of characters as well. If other stories are more pressing, or the troupe does not wish to roleplay such an event, a mechanic for acquiring a cathedral teaching position is provided at the end of this chapter.
 
@@ -3487,13 +3509,13 @@ Monastic schools are more interesting to Hermetic characters for their libraries
 >
 >**Characteristics:** Int +2, Per +2, Pre +1, Com +3, Str –4, Sta +2, Dex 0, Qik 0
 >
->**Size:** 0 
+>**Size:** 0
 >
->**Age:** 20 (20) 
+>**Age:** 20 (20)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
->**Warping Score:** 0 (0) 
+>**Warping Score:** 0 (0)
 >
 >**Confidence Score:** 1 (3)
 >
@@ -3509,7 +3531,7 @@ Monastic schools are more interesting to Hermetic characters for their libraries
 >
 >**Soak:** +2
 >
->**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious 
+>**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 >
 >**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 >
@@ -3531,7 +3553,7 @@ Monastic schools are more interesting to Hermetic characters for their libraries
 
 #### The Rules of Silence and Reading
 
-Monks live under a strict code, called a "Rule," dictating when they pray, sleep, eat, and speak. Consequently, many monks develop a sign language, to communicate to each other during times of silence. These effective signs can seem silly to others. The sign for "incense" is two fingers stuck up the nostrils, and the sign for "fish" is a hand wiggling like a swimming fish. Monastic characters can know the Ability: Sign Language, which is equivalent to a Living Language but not as accessible. Monastic sign language is not universal, and only understood by monks at a particular monastery. Still, a character who learned it at a monastery could teach it to other characters, importing it to a covenant, for example.
+Monks live under a strict code, called a "Rule", dictating when they pray, sleep, eat, and speak. Consequently, many monks develop a sign language, to communicate to each other during times of silence. These effective signs can seem silly to others. The sign for "incense" is two fingers stuck up the nostrils, and the sign for "fish" is a hand wiggling like a swimming fish. Monastic characters can know the Ability: Sign Language, which is equivalent to a Living Language but not as accessible. Monastic sign language is not universal, and only understood by monks at a particular monastery. Still, a character who learned it at a monastery could teach it to other characters, importing it to a covenant, for example.
 
 Benedictine monks are required to read one entire book during Lent. Since there are more books than monks, monasteries loan out copies of their books. The usual recipient is a Benedictine, but monasteries will loan out books to other people, provided that the proper sureties are provided in case the book doesn't come back. These loaning libraries offer a connection between any particular monastery and its secular and Hermetic neighbors.
 
@@ -3577,7 +3599,7 @@ There is no specific Virtue for a character desiring to be a private instructor.
 
 ## Muslim Schools
 
-In general, Islamic culture has a higher appreciation for learning than its Western neighbors, although this is changing in the thirteenth century. The Prophet said, "Attainment of knowledge is a must for every Muslim," and medieval Islamic society embraces this to the fullest. Muslims have long thought that the population should be educated, an idea still foreign to Westerners, and have a long history of educational institutions to address this need. Muslim thinkers debate the importance of faith, reason, and the ideas of ancient philosophers as vehemently as Western philosophers do, although in general they seem more tolerant of ideas foreign to their faith than their Western counterparts. This is not universal. The eleventh-century writer al-Ghazali firmly rejected the ideas of Aristotle, Plato, and Socrates in his book, *The Incoherence of the Philosophers*, claiming the ancient Greeks were unbelievers whose ideas were harmful to the faithful. In the twelfth century, Averroes refuted al-Ghazali's claims in his book, *The Incoherence of the Incoherence*, but this did not end the debate with Muslim scholars.
+In general, Islamic culture has a higher appreciation for learning than its Western neighbors, although this is changing in the thirteenth century. The Prophet said, "Attainment of knowledge is a must for every Muslim", and medieval Islamic society embraces this to the fullest. Muslims have long thought that the population should be educated, an idea still foreign to Westerners, and have a long history of educational institutions to address this need. Muslim thinkers debate the importance of faith, reason, and the ideas of ancient philosophers as vehemently as Western philosophers do, although in general they seem more tolerant of ideas foreign to their faith than their Western counterparts. This is not universal. The eleventh-century writer al-Ghazali firmly rejected the ideas of Aristotle, Plato, and Socrates in his book, *The Incoherence of the Philosophers*, claiming the ancient Greeks were unbelievers whose ideas were harmful to the faithful. In the twelfth century, Averroes refuted al-Ghazali's claims in his book, *The Incoherence of the Incoherence*, but this did not end the debate with Muslim scholars.
 
 Ideally, every Muslim child receives an education. At the age of seven, children gather at the house of a teacher, who is always a religious man, to sit at his feet and memorize the Qur'an. They do not take notes or make their own copies, but listen and recite back the daily lessons. Lessons are always conducted in Arabic, with the students learning the foundations of grammar and rhetoric as well as religious instructions. The teachers are privately funded, with the community paying their salary rather than any individual student's parent. Spreading the financial burden across the entire community makes it easier to bear for any single family, and allows the majority of children the foundations of reading and writing. In reality, not every child attends school. Poorer families will bring their children into the family business, rather than sending them to school. Compared to Western society, however, many more common peasants can read and write.
 
@@ -3601,7 +3623,7 @@ Muslim scholars are much more interested in Western science and religion than We
 
 Jewish education is sufficiently detailed in the **Ars Magica** supplement *Realms of Power: The Divine* (page 132), and will only receive a summary in this supplement for completeness' sake. Like Muslim schools, Jewish schools are insular, operated by and for members of the Jewish community. Muslims are more tolerant of foreign students than Jewish schools are, which is not surprising considering the treatment Jews have received at the hands of crusaders and kings.
 
-Jewish students receive their instruction from the local rabbi, at a school called a **yeshiva**, learning grammar and Jewish instruction by studying the Talmud and the Mishnah. Students are male and usually study with a partner. A master or advanced student works with them, offering a more one-onone style of instruction than is common in medieval institutions. Large yeshivas can be found in Cordoba and Granada, as well as in other popular Spanish cities. The yeshivas of Arles in southern Provence, and Narbonne in Catalonia are also famous.
+Jewish students receive their instruction from the local rabbi, at a school called a **yeshiva**, learning grammar and Jewish instruction by studying the Talmud and the Mishnah. Students are male and usually study with a partner. A master or advanced student works with them, offering a more one-on-one style of instruction than is common in medieval institutions. Large yeshivas can be found in Cordoba and Granada, as well as in other popular Spanish cities. The yeshivas of Arles in southern Provence, and Narbonne in Catalonia are also famous.
 
 Jewish scholarship has produced many important figures in the study of philosophy. Dominating the group is Maimonides (Rabbi Moses ben Maimon), who wrote *The Guide for the Perplexed* in 1190, finishing it 14 years before his death. It is a great summa on Jewish philosophy and theology, heavily infused with Aristotelian ideas, and has led to controversy among Jewish scholars. Translated from Arabic to Hebrew by Samuel ibn Tibbon, it has caused French and German Jews, who have yet to read the New Aristotle, to vehemently argue with their Spanish colleagues. They have branded Maimonides a heretic and cast suspicions on all of his scholastic works. This Maimonidean Controversy will worsen once the book is translated into Latin.
 
@@ -3630,7 +3652,7 @@ The magister in artibus and doctor in (faculty) positions demand that the applic
 
 The Latin word "universitas" simply means a collection of individuals, banded together through fraternal, regional, religious, or professional bonds. Such groups — often craftsmen and artisan guilds — gathered to gain some form of autonomy, protecting them from secular, ecclesiastical, or municipal interference. Collections of scholars are "universitas magistrorum et scholarium" (university of masters and scholars) in the long form, and they seek independence from outside social and political intrusions in the pursuit of knowledge. To differentiate them from other types of schools, and to reflect their collective nature, the early universities used the phrase "studium generale" to refer to themselves in their charters. For **Ars Magica** game purposes, the term "university" will refer exclusively to the educational institutions and system described in this chapter.
 
-The thirteenth century is the beginning of a wave of medieval universities. In 1220 there are nine, but this number will double in twenty years and quadruple in forty, if your saga follows medieval history. Universities are popular and well attended, and produce learned men of various ranks and calibers. Pope Honorius III has granted several privileges to Paris and Bologna, the two most prominent universities, and has suggested that all clerical scholars attend one or other university to ensure their theological or legal knowledge. His predecessor, Pope Innocent III, was a university man. Kings, princes, and town burgers all see universities as useful institutional models, finding ways to gain personal advantages from the autonomous institutions.
+The thirteenth century is the beginning of a wave of medieval universities. In 1220 there are nine, but this number will double in twenty years and quadruple in forty, if your saga follows medieval history. Universities are popular and well attended, and produce learned men of various ranks and calibers. Pope Honorius III has granted several privileges to Paris and Bologna, the two most prominent universities, and has suggested that all clerical scholars attend one or other university to ensure their theological or legal knowledge. His predecessor, Pope Innocent III, was a university man. Kings, princes, and town burghers all see universities as useful institutional models, finding ways to gain personal advantages from the autonomous institutions.
 
 This chapter details the universities of Mythic Europe in 1220. It offers descriptions of the students, the courses, the curriculum, and the length of time necessary to achieve a teaching license. It also includes information on masters, their duties and responsibilities, and rules to allow player characters to pursue both vocations.
 
@@ -3642,7 +3664,7 @@ An **Ars Magica** character generally has only one Social Status Virtue, and you
 
 Every university student receives the benefit of clergy, meaning that he has taken minor orders, is tonsured and clothed like a cleric, and enjoys the legal status of being tried under canon law. Students in a municipal school do not receive this benefit, but all of the universities detailed in this chapter require that their students take minor orders.
 
-The career of a professional schoolman begins at the **baccalaureus** stage, which runs for three years, followed by the **master-student** stage, a five-year program whose successful completion will make the schoolman a magister in artibus. Some continue on for two more years, as a **specialist student**, eventually becoming a d**octor in (faculty)**. Taking the Baccalaureus, Magister in Artibus, or Doctor in (Faculty) Virtue means the character has arrived at a certain finishing point in his career, receiving a set number of additional experience points as described by the Virtues. A master-student character must have the Baccalaureus Virtue and still be continuing in his academic career. A specialist student must have the Magister in Artibus Virtue, and is continuing his education as well.
+The career of a professional schoolman begins at the **baccalaureus** stage, which runs for three years, followed by the **master-student** stage, a five-year program whose successful completion will make the schoolman a magister in artibus. Some continue on for two more years, as a **specialist student**, eventually becoming a **doctor in (faculty)**. Taking the Baccalaureus, Magister in Artibus, or Doctor in (Faculty) Virtue means the character has arrived at a certain finishing point in his career, receiving a set number of additional experience points as described by the Virtues. A master-student character must have the Baccalaureus Virtue and still be continuing in his academic career. A specialist student must have the Magister in Artibus Virtue, and is continuing his education as well.
 
 Several new Virtues grant experience points in Academic Abilities. Scholastic characters are by default educated, making it unnecessary to select the Educated Virtue for such characters. Thus, any character with a Social Status Virtue that grants experience points in Academic Abilities may buy Academic Abilities with any experience points during character creation. You can pick Educated in addition to a scholastic Social Status Virtue, and receive the additional experience points supplied by both Virtues. The character must have had an exceptional teacher during his off-stage life (character generation) before entering play.
 
@@ -3651,7 +3673,7 @@ Several new Virtues grant experience points in Academic Abilities. Scholastic ch
 **Baccalaureus**<br>
 *Social Status, Minor*
 
-The character has completed a threeyear program at a university to receive a baccalarius artium (Bachelor of Arts degree). He is typically between 16 and 19 years old, and has 90 experience points that he may spend on Latin and Artes Liberales — 30 experience points per finished year of studies. His future decisions are varied once he gains his degree: he can extend his university career, teaching extraordinary lectures as he works toward his magister in artibus degree; teach in a cathedral or secular school; become a private tutor for a noble family; or find work in ecclesiastical or secular circles. The character has an Academic Reputation of 1.
+The character has completed a three-year program at a university to receive a baccalarius artium (Bachelor of Arts degree). He is typically between 16 and 19 years old, and has 90 experience points that he may spend on Latin and Artes Liberales — 30 experience points per finished year of studies. His future decisions are varied once he gains his degree: he can extend his university career, teaching extraordinary lectures as he works toward his magister in artibus degree; teach in a cathedral or secular school; become a private tutor for a noble family; or find work in ecclesiastical or secular circles. The character has an Academic Reputation of 1.
 
 This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues.
 
@@ -3665,7 +3687,7 @@ The character is an assistant to a university dean. He is a townsman or student 
 
 The character teaches at a cathedral school, one of the many that dot Mythic Europe. He is at least (30 – Intelligence) years old and must have scores of 5 in Latin and Artes Liberales, and a Teaching of at least 3. He may learn any Academic Ability, and may teach it to his students. He is typically not a university man, but was instructed at a cathedral school. He receives 240 additional experience points, which may be spent on Academic Abilities and Teaching. The character has an Academic Reputation of 2.
 
-This Virtue is compatible with the Baccalaureus and Priest Virtues. Characters with higher university degrees should take those Virtues instead; a magister or doctor gains no additional status from teaching at 
+This Virtue is compatible with the Baccalaureus and Priest Virtues. Characters with higher university degrees should take those Virtues instead; a magister or doctor gains no additional status from teaching at
 a cathedral school.
 
 #### Doctor in (Faculty)
@@ -3710,7 +3732,7 @@ The character is a son of a nobleman or a prosperous merchant, matriculated in a
 **Simple Student**<br>
 *Social Status, Minor*
 
-The character is a university student who is has not yet taken a degree. He is typically between 14 and 16 years old and somewhere along his university program. He receives 30 experience points per finished year that he can apply to Latin or Artes Liberales. If he has finished his second year of studies, he is in the liminal position of either applying for work or continuing his education.
+The character is a university student who has not yet taken a degree. He is typically between 14 and 16 years old and somewhere along his university program. He receives 30 experience points per finished year that he can apply to Latin or Artes Liberales. If he has finished his second year of studies, he is in the liminal position of either applying for work or continuing his education.
 
 More than half of all university students are Simple Students.
 
@@ -3739,7 +3761,7 @@ The character is the representative leader of his faculty or nation, depending o
 **University Dean**<br>
 *Story, Major*
 
-The character is the head of a university, having already acquired his doctor in (faculty) license. The character has been chosen to lead the university, overseeing external affairs with the town and internal affairs between students and masters. Though prestigious, the position imposes serious demands on the character's time. The character can expect many interruptions in his teaching during the school year. The character must have the Virtue: Doctor in (Faculty), be at least 40 years old, and can not have the Poor Flaw or any other Flaw that grants a Bad Reputation.
+The character is the head of a university, having already acquired his doctor in (faculty) license. The character has been chosen to lead the university, overseeing external affairs with the town and internal affairs between students and masters. Though prestigious, the position imposes serious demands on the character's time. The character can expect many interruptions in his teaching during the school year. The character must have the Virtue: Doctor in (Faculty), be at least 40 years old, and cannot have the Poor Flaw or any other Flaw that grants a Bad Reputation.
 
 ## The University
 
@@ -3827,7 +3849,7 @@ Not every student in a nation will study in the same faculty. Religious parades 
 
 #### Hospices
 
-A hospice, sometimes called a "college," is a building funded by a benefactor that provides room and board for a small group of students. There are only a few in 1220, and they exist at the Universities of Bologna and Paris. They are either Dominican houses or funded by other ecclesiastic patrons. In the years ahead, secular lords will found hospices for secular students, but this practice is premature in 1220. Hospices are primarily for poor or exceptionally intelligent ecclesiastical students. Most students must find their own residences. Colleges for secular students do not historically occur until mid-century.
+A hospice, sometimes called a "college", is a building funded by a benefactor that provides room and board for a small group of students. There are only a few in 1220, and they exist at the Universities of Bologna and Paris. They are either Dominican houses or funded by other ecclesiastic patrons. In the years ahead, secular lords will found hospices for secular students, but this practice is premature in 1220. Hospices are primarily for poor or exceptionally intelligent ecclesiastical students. Most students must find their own residences. Colleges for secular students do not historically occur until mid-century.
 
 Each hospice allows for a specific number of student residents and a layman caretaker. Hospices typically house eight to twenty students, all of whom belong to the same religious order. Members are called "fellows" (Latin: *socii*), who live, eat, study, and socialize together, all the while maintaining their religious rule. In theory, hospices provide a safe haven from the trials and temptations of town life.
 
@@ -3909,7 +3931,7 @@ The pattern of ordinary lectures in the morning and extra-ordinary lectures in t
 
 One day of the week the students participate in a formal debate called a **disputatio**. Certain students are selected to debate either each other or a master. This is the test to see if they have understood their studies. Disputationes vary in difficulty, depending on the material, personality of the master, and age of the participants. Weekly disputationes cannot be failed, per se, although participants can certainly do poorly. The master uses them to measure the students' progress.
 
-Students also meet periodically to discuss matters important to their college, nation, and faculty. These organized gatherings are lead by the nation's proctor. He ensures that university statutes are being followed, and imposes fines on students who have made infractions. Fines are paid in liters of wine rather than cash. The proctors of the various nations also act as the university dean's councilors, advising him on administrative matters that concern the students.
+Students also meet periodically to discuss matters important to their college, nation, and faculty. These organized gatherings are led by the nation's proctor. He ensures that university statutes are being followed, and imposes fines on students who have made infractions. Fines are paid in liters of wine rather than cash. The proctors of the various nations also act as the university dean's councilors, advising him on administrative matters that concern the students.
 
 Tuition, food, and rent usually cost a student two Mythic Pounds a year. Books, parchment, and writing supplies typically cost another two Mythic Pounds. These prices fluctuate slightly, with costs being steeper at Bologna and Paris and lower at Salerno and Arezzo.
 
@@ -3917,7 +3939,7 @@ A student character spends two seasons a year studying and has two "free" season
 
 ### Town vs. Gown
 
-With such a heavy load of academic work, it's hard to imagine that students would have time to get into trouble. But like all young men, they find the time. Resentments lie like a thick fog between students and townsfolk. Students find the locals dim-witted, lazy, and meanspirited, while townspeople think students are over-privileged, idlers, and arrogant. Racial prejudices color both perspectives, "race" denoting the community or area someone is from, as the nations find the locals noisome and the townsfolk resent the legal protection and urban intrusion of the foreigners. University masters and town leaders try their best to keep this tension to a low boil, but they sometimes fail and violence spills into the streets.
+With such a heavy load of academic work, it's hard to imagine that students would have time to get into trouble. But like all young men, they find the time. Resentments lie like a thick fog between students and townsfolk. Students find the locals dim-witted, lazy, and mean-spirited, while townspeople think students are over-privileged, idlers, and arrogant. Racial prejudices color both perspectives, "race" denoting the community or area someone is from, as the nations find the locals noisome and the townsfolk resent the legal protection and urban intrusion of the foreigners. University masters and town leaders try their best to keep this tension to a low boil, but they sometimes fail and violence spills into the streets.
 
 Many student statutes are aimed at preventing such violence, hence the prohibition on drinking, gambling, and visiting local women. Each nation has imposed a curfew that members are supposed to follow. However, statutes are commonly ignored and rented rooms are easy to sneak out of. For many young men, the call of the urban nightlife is too loud to resist. Outside of the purview of rectors and proctors, students have their favorite drinking holes and gambling dens. Certain brothels cater specifically to university students and masters, and offer a modicum of discretion to individual clients.
 
@@ -3925,7 +3947,7 @@ If your saga is set in a university town, town and student rivalries offer excit
 
 ### Examinations
 
-University students take only one exam per stage of their academic careers. There are no periodic or regular examinations, and a typical student will study for three years before undergoing his only examination. Called a **private examination**, this exam is exhaustive. The prospective graduate is tested before all the masters of his faculty, who propose complex questions and points of debate that must be answered and defended. Theoretically, these questions concern the entire academic career of the candidate to date. This is an oral examination, lasting an entire day or more, at the end of which the masters decide if the candidate has expressed enough knowledge to be awarded the sought-after degree. Most candidates fail this examination, both because it is extremely difficult and because failing means they must spend another year studying if they hope to attempt it again. This means another year of tuition and living expenses, much of which goes to the examining masters. 
+University students take only one exam per stage of their academic careers. There are no periodic or regular examinations, and a typical student will study for three years before undergoing his only examination. Called a **private examination**, this exam is exhaustive. The prospective graduate is tested before all the masters of his faculty, who propose complex questions and points of debate that must be answered and defended. Theoretically, these questions concern the entire academic career of the candidate to date. This is an oral examination, lasting an entire day or more, at the end of which the masters decide if the candidate has expressed enough knowledge to be awarded the sought-after degree. Most candidates fail this examination, both because it is extremely difficult and because failing means they must spend another year studying if they hope to attempt it again. This means another year of tuition and living expenses, much of which goes to the examining masters.
 
 Following the private examination is a **public examination**. Having passed his private examination, the candidate must participate in the public examination, which is an extremely ceremonial procedure conducted in front of the entire membership of the university. He delivers a lecture to the audience, purposefully similar to a lecture he would teach to a class, displaying his teaching style and expert knowledge. At the end of the public examination, the candidate is awarded his license by the diocesan chancellor or secular agent who is empowered to award the license. He cannot fail his public examination, and while it is only a formality, it is a necessary one. While he might receive the right to his license after passing his private examination, the actual document is awarded after the public examination.
 
@@ -3933,15 +3955,15 @@ Not every student who passes the private examination takes the public examinatio
 
 >#### Gilpatrick
 >
->**Characteristics:** Int +2, Per +1, Pre -1, Com +2, Str +1, Sta 0, Dex 0 Qik 0
+>**Characteristics:** Int +2, Per +1, Pre -1, Com +2, Str +1, Sta 0, Dex 0, Qik 0
 >
->**Size:** -1 
+>**Size:** -1
 >
->**Age:** 19 (19) 
+>**Age:** 19 (19)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
->**Warping Score:** 0 (0) 
+>**Warping Score:** 0 (0)
 >
 >**Confidence Score:** 1 (3)
 >
@@ -3949,7 +3971,7 @@ Not every student who passes the private examination takes the public examinatio
 >
 >**Personality Traits:** Overconfident +3, Chatty +2, Self-obsessed +2
 >
->**Reputations:** Good Astronomer 1 (academic) 
+>**Reputations:** Good Astronomer 1 (academic)
 >
 >**Combat:**
 >
@@ -3963,7 +3985,7 @@ Not every student who passes the private examination takes the public examinatio
 >
 >**Abilities:** Arabic 2 (astronomical terms), Artes Liberales 3 (astronomy), Athletics 2 (contortions), Awareness 1 (alertness), Bargain 2 (writing supplies), Charm 2 (flattery), English 3 (slang), Entrancement 3 (social equals), Folk Ken 1 (clergy), French 4 (slang), Greek 3 (mathematical terms), Irish 5 (slang), Latin 5 (academic usage), Swim 1 (long distances), Theology 3 (ontological arguments)
 >
->**Equipment:** Scholar's robes 
+>**Equipment:** Scholar's robes
 >
 >**Encumbrance:** 0 (0)
 >
@@ -3971,7 +3993,7 @@ Not every student who passes the private examination takes the public examinatio
 >
 >Gilpatrick is an Irish-born student studying at the University of Paris. He is indebted to the bishop of Dublin for his initial scholastic placement, a debt he has yet to repay. He has used his Entrancement Ability to his advantage, finding cheap housing, a master, and securing school supplies. Unfortunately, he can't use it in disputationes, which are as difficult as combat for those who want to look someone in the eye. He has studied for three years at the university and (barely) received his baccalaureate license. Presently, he is preparing to enter the Faculty of Theology.
 >
->Gilpatrick is never at a loss to talk about himself. He loves the university environment, both the learning and the wilder side of student life. His overconfidence has led him to some of Paris' seedier drinking establishments, where he has heard rumors of an order of "philosophers," men and women who can manipulate reality at their whim. He would be very interested in meeting such a person.
+>Gilpatrick is never at a loss to talk about himself. He loves the university environment, both the learning and the wilder side of student life. His overconfidence has led him to some of Paris' seedier drinking establishments, where he has heard rumors of an order of "philosophers", men and women who can manipulate reality at their whim. He would be very interested in meeting such a person.
 >
 >Gilpatrick is a companion-level character. He is easily customized for universities other than Paris. If, for example, your saga is set closer to Italy, replace Gilpatrick's French with Italian, and his Theology with Canon and Civil Law. He also has room for three more points of Virtues and Flaws. He knows the Latin, Greek, and Arabic writing systems.
 
@@ -3981,21 +4003,21 @@ Not every student who passes the private examination takes the public examinatio
 >
 >This same group is determined to record the names of every magus in Mythic Europe, and, while doing so, advance their case for written oaths in other Tribunals. They hope to garnish enough support to present their proposal at the next Grand Tribunal. There is already House reluctance; Ex Miscellanea finds the proposal ludicrous and is certain that there are ulterior motives at play, Bjornaer resents the proposed intrusion on their House and Mystery, and Bonisagus, a generally conservative House, resists because it is new. Houses Guernicus and Mercere, who may already have such compilations, are reluctant to share this information with the Order.
 >
->The player characters become intractably involved, their number being just enough to propel the proposal forward, or squash it forever. Hopefully, the group will be in disagreement, allowing the proponents to curry favor with bribes and future promises. If you saga is not politically orientated, the incomplete ledger could lead to clues about missing and forgotten magi. Seekers would want a look at this list. Some magi, who are perhaps dabbling in things best left alone, would rather not have their names on the list, instead drifting to the edges of Hermetic memory to pursue their ambiguously legal research.
+>The player characters become intractably involved, their number being just enough to propel the proposal forward, or squash it forever. Hopefully, the group will be in disagreement, allowing the proponents to curry favor with bribes and future promises. If your saga is not politically orientated, the incomplete ledger could lead to clues about missing and forgotten magi. Seekers would want a look at this list. Some magi, who are perhaps dabbling in things best left alone, would rather not have their names on the list, instead drifting to the edges of Hermetic memory to pursue their ambiguously legal research.
 
 #### Passing Examinations
 
-Examinations are deliberative disputationes, as explained below in the disputatio section. Characters who spend the required time studying are eligible to take a private examination. If your saga is sufficiently academic, and your troupe would enjoy running multiple disputationes against the candidate character, you may follow the rules listed under Disputatio. If, however, you wish to spend time on other aspects of your saga, you can simply calculate a candidate character's Examination Total at the end of the season to see if he passes his private examination. The character must have spent the required time studying at a university before such this is allowed. A baccalaureate candidate must have spent three years at the university, a candidate for magister in artibus five more, and a candidate for doctor in (faculty) ten years total.
+Examinations are deliberative disputationes, as explained below in the disputatio section. Characters who spend the required time studying are eligible to take a private examination. If your saga is sufficiently academic, and your troupe would enjoy running multiple disputationes against the candidate character, you may follow the rules listed under Disputatio. If, however, you wish to spend time on other aspects of your saga, you can simply calculate a candidate character's Examination Total at the end of the season to see if he passes his private examination. The character must have spent the required time studying at a university before this is allowed. A baccalaureate candidate must have spent three years at the university, a candidate for magister in artibus five more, and a candidate for doctor in (faculty) ten years total.
 
 The character must also have a required score in a Good Academic Reputation before the masters will allow him to attempt the private examination. Bad Reputations should also be considered. If the Bad Reputation is academic, subtract it from the positive Good Academic Reputation to see if the character has the required minimum. A Bad Reputation: Drunkard, for example, would not necessarily detract from a Good Reputation: Diligent Student. A baccalaureate candidate needs a Good Academic Reputation of at least 1, a magister in artibus candidate 2, and a doctoral candidate needs a minimum score of 3.
 
 Calculate the candidate character's Communication + Academic Ability + Good Academic Reputation – relevant Bad Reputation. The Academic Ability is specific to each license. The Ease Factor depends on the desired license.
 
-**Baccalaureus License Exam Total: Communication + Artes Liberales + Good Academic Reputation + Good Academic Reputation - Bad Academic Reputation - + Stress Die vs. 6**
+**Baccalaureus License Exam Total: Communication + Artes Liberales + Good Academic Reputation - Bad Academic Reputation + Stress Die vs. 6**
 
-**Magister in Artibus License Exam Total: Communication + Artes Liberales - + Good Academic Reputation - Bad Academic Reputation - + Stress Die vs. 12**
+**Magister in Artibus License Exam Total: Communication + Artes Liberales + Good Academic Reputation - Bad Academic Reputation + Stress Die vs. 12**
 
-**Doctor in (Faculty) License Exam Total: Communication + Faculty's Academic Ability (Theology, Medicine, or Canon or Civil Law) + Good Academic Reputation - Bad Academic Reputation - + Stress Die vs. 12**
+**Doctor in (Faculty) License Exam Total: Communication + Faculty's Academic Ability (Theology, Medicine, or Canon or Civil Law) + Good Academic Reputation - Bad Academic Reputation + Stress Die vs. 12**
 
 There is no in-game mechanic to pass the public examination, and it is purely a matter of whether the candidate character has the funds to do so. The public examination for a baccalaureate license costs one Mythic Pound, the magister in artibus public examination costs three, and the doctor in (faculty) public examination costs five Mythic Pounds.
 
@@ -4041,7 +4063,7 @@ This does not mean there is no room for free or original thought. Church authori
 
 Two of the most important unrepentant heretics of the thirteenth century were teachers at Paris, magisters in artibus who were still at the university pursuing their theology license. They both taught a type of pantheistic philosophy, claiming that God and the universe are one. "God is everything and everything is God." This violated the idea that God is separate and outside reality. It also denied transubstantiation (that the eucharist becomes the body of Christ), among other fundamental theological ideas. The first heretic, Amaury de Bene, had a substantial following. When his sect of clerics, priests, and laymen was uncovered and their heresy discovered, they were suppressed. Amaury, four years dead, was exhumed, excommunicated, and his bones tossed into unhallowed ground. Four of his followers were imprisoned for life, and six others were released to the secular authorities to be burned at the stake.
 
-The second heretic is David of Dinant. His heresy was discovered in 1215 by Cardinal Robert Caurçon, after a reading of his book, *Quaternuli* ("little note-books"). His book confiscated, David refused to recant his beliefs and fled the city during the night. His current whereabouts are unknown. Where Amaury's theories were only heretical, David's are also infernal. The *Quaternui* is a tractatus describing the Infernal Virtue: Incantation, with a Quality of 13. Incantation is an Infernal Supernatural Ability (see *Realms of Power: The Infernal*, page 104) that grants the Unholy Method: Incantation. Rumor has it that David is writing a second book detailing an Unholy Power. The combination of the two, the Unholy Method and an Unholy Power, can cause ruinous effects.
+The second heretic is David of Dinant. His heresy was discovered in 1215 by Cardinal Robert de Courçon, after a reading of his book, *Quaternuli* ("little note-books"). His book confiscated, David refused to recant his beliefs and fled the city during the night. His current whereabouts are unknown. Where Amaury's theories were only heretical, David's are also infernal. The *Quaternuli* is a tractatus describing the Infernal Virtue: Incantation, with a Quality of 13. Incantation is an Infernal Supernatural Ability (see *Realms of Power: The Infernal*, page 104) that grants the Unholy Method: Incantation. Rumor has it that David is writing a second book detailing an Unholy Power. The combination of the two, the Unholy Method and an Unholy Power, can cause ruinous effects.
 
 ### Lecture Commentaries
 
@@ -4061,7 +4083,7 @@ Arcane Abilities are sometimes taught in the same manner as Academic Abilities. 
 
 As a scholar increases his knowledge, his reputation in academia also increases. Since academic interests extend outside educational circles, a schoolman's reputation influences and attracts secular attention. Academic Reputations can be both good and bad, and characters can have both a good and bad Academic Reputation at the same time. Peter Abelard, for example, would have had both an excellent Good Academic Reputation: Logician, and a substantial Bad Reputation: Argumentative.
 
-Every character who receives institutional education during character generation has a Good Academic Reputation score of 0. Characters with the Virtue Famous can, with the troupe's agreement, have a starting Academic Reputation of 4. For most characters, those who don't pursue an academic career, this Reputation is negligible, and need not be recorded. It is vital to characters with an academic vocation, and may interest any Hermetic characters who might brush elbows with scholastic characters. An Academic Reputation builds like an Ability, increased by experience points gained solely through academic events. Academic Reputation experience points can not be used in any other way than to raise Academic Reputations.
+Every character who receives institutional education during character generation has a Good Academic Reputation score of 0. Characters with the Virtue Famous can, with the troupe's agreement, have a starting Academic Reputation of 4. For most characters, those who don't pursue an academic career, this Reputation is negligible, and need not be recorded. It is vital to characters with an academic vocation, and may interest any Hermetic characters who might brush elbows with scholastic characters. An Academic Reputation builds like an Ability, increased by experience points gained solely through academic events. Academic Reputation experience points cannot be used in any other way than to raise Academic Reputations.
 
 A Good Academic Reputation is increased through scholarship. Each time a character does any of the following, he gains one Academic Reputation experience point:
 
@@ -4149,11 +4171,11 @@ Another odd variation is that, in epideictic and deliberative disputationes, the
 
 At Advent and Lent, universities host public disputationes. Both opponent and respondent field questions from the crowd, one after another, offering no reply or counter-argument in response to the field of questions. Set in academic environments, at universities or cathedral schools, these disputationes last all day long. The winner is the disputer who lasts the longest.
 
-To determine a crowd's Attack and Weakening Totals, the only important disputatio totals since they are not responding to statements, consider that a typical crowd is likely filled with schoolmen fellow masters and students — rather than the common riffraff the notion of a medieval crowd conjures. Roll a stress die (no botch) to determine the Attack Total. Add 6 for a deliberative disputatio, the most common situation when a judge might call for questions from the audience, and add 3 for epideictic disputationes. Add an additional +3 modifier for the highly attended Advent and Lent disputationes. The storyguide may make new rolls for each "attack" and each round, if she wishes, or keep existing values. In-game, this would mean that one member of the crowd asks more than one question before the judge chooses another.
+To determine a crowd's Attack and Weakening Totals, the only important disputatio totals since they are not responding to statements, consider that a typical crowd is likely filled with schoolmen, fellow masters and students — rather than the common riffraff the notion of a medieval crowd conjures. Roll a stress die (no botch) to determine the Attack Total. Add 6 for a deliberative disputatio, the most common situation when a judge might call for questions from the audience, and add 3 for epideictic disputationes. Add an additional +3 modifier for the highly attended Advent and Lent disputationes. The storyguide may make new rolls for each "attack" and each round, if she wishes, or keep existing values. In-game, this would mean that one member of the crowd asks more than one question before the judge chooses another.
 
 Finally, a graduate candidate's private examination is a disputatio against a panel of magisters. He is the respondent in this disputatio, and must defend his statements from the assembled magisters. He does not have to win the disputatio, but must manage to keep his argument "conscious" until the final exchange. Following this first disputatio, he must then dispute the other masters until all of them have questioned him. This is a grueling exercise that only a quarter of the eligible candidates pass. In game terms, the storyguide should determine the number of magisters on the panel (four to eight) and the number of exchanges in which each will engage the character (seven to ten). Passing the Disputatio Over-Exertion check becomes of primary importance as the candidate continues from one master to the next.
 
-Disputationes are flamboyant, flagrant displays, entertaining and enlightening, but they do not change legal codes or laws. Church officials and secular potentates have much more demanding, painstakingly slow processes for such changes, and while they can be influenced by a dramatic argument, they will ultimate make laws based on other criteria.
+Disputationes are flamboyant, flagrant displays, entertaining and enlightening, but they do not change legal codes or laws. Church officials and secular potentates have much more demanding, painstakingly slow processes for such changes, and while they can be influenced by a dramatic argument, they will ultimately make laws based on other criteria.
 
 Characters should receive some benefit from engaging in and winning a disputatio. The winner of an epideictic or a deliberative either receives one experience point with which he can increase a positive Good Academic Reputation, or force the loser to gain one experience point to apply to a Bad Academic Reputation. The winner of a forensic disputatio proves his case, either for his innocence or someone else's guilt. Disputatio experience point rewards should not be granted more than once a season.
 
@@ -4161,27 +4183,27 @@ Characters should receive some benefit from engaging in and winning a disputatio
 >
 >House Tytalus also has a system of debating, honed over time so that they have the reputation for being the finest debaters in the Order of Hermes. This system, detailed in the Tytalus chapter of *Houses of Hermes: Societates*, is similar to the academic system of disputatio, but not an exact copy. Because of this more flexible system, a Tytalus magus can instantly argue in the academic's style. The reverse is not true, however, and a trained schoolman can only argue in the type of disputatio detailed here.
 >
->If an academic character and a Tytalus character ever do engage in a debate, let each character use his style of debate. Calculate the Tytalus character's Debate Totals as per the rules listed in *Houses of Hermes: Societates*. Use the diputation rules here to calculate the academic character's Disputatio Totals. Engage in the debate as normal, back and forth, allowing the Tytalus character to switch his debate tactics. The academic is restricted his more rigid style.
+>If an academic character and a Tytalus character ever do engage in a debate, let each character use his style of debate. Calculate the Tytalus character's Debate Totals as per the rules listed in *Houses of Hermes: Societates*. Use the disputation rules here to calculate the academic character's Disputatio Totals. Engage in the debate as normal, back and forth, allowing the Tytalus character to switch his debate tactics. The academic is restricted to his more rigid style.
 >
 >Because disputationes are social situations, a maga's Gift can penalize her interaction with mundane agents. Storyguides must determine if a –3 penalty is appropriate, depending on the situation. It is surely called for if the disputatio happens in front of a crowd. If the disputatio happens in front of just a judge, who is used to the Gifted disputer, the penalty can be ignored.
 
 ## Specific Universities
 
-The four largest and most famous universities in Mythic Europe are Bologna, Paris, Oxford, and Montpellier. Several smaller universities exist, and many more will be founded in the near future. In 1220, the smaller universities are Salerno, Reggio, and Avezzo in Italy, Palencia and Salamanca in Spain, and Cambridge in England. While these are smaller than the four most famous, they are not paltry, and several hundred students attend lectures there.
+The four largest and most famous universities in Mythic Europe are Bologna, Paris, Oxford, and Montpellier. Several smaller universities exist, and many more will be founded in the near future. In 1220, the smaller universities are Salerno, Reggio, and Arezzo in Italy, Palencia and Salamanca in Spain, and Cambridge in England. While these are smaller than the four most famous, they are not paltry, and several hundred students attend lectures there.
 
 ### Paris
 
 Parisians claim that the University of Paris was founded by Charlemagne, an extension of his Palatine School, and that the ghost of its most famous teacher, the Englishman Alcuin of York, still haunts the classrooms. They are not keen to be reminded that the Palatine School was at Aachen, not Paris. In the eleventh century, Paris was famous for three schools, each with its own succession of dynamic teachers: the cathedral school of Notre Dame, led by William of Champeaux; the Collegiate Church of St Geneviève, where Peter Abelard taught; and the Church of Canons Regular of St. Victor. The cathedral school grew in popularity, surpassing the other two, which failed to attract students as the cathedral school succeeded. Paris was a city of teachers, and it was their large numbers coupled with the success of the cathedral school that led to the university.
 
-Originally teaching in the Ile-de-la-Cité, an island in the River Seine and the very center of Paris, the masters moved to avoid the dominating control of the bishop's chancellor. Crossing to the left bank, the masters live in an area named the Rue de Fouarre, "the street of straw," named after the straw that covers the masters' schoolroom floors. A ramshackle collection of jumbled houses and twisted avenues, this section of Paris will soon be called the Latin Quarter, because of the perpetual drone of the speaking students.
+Originally teaching in the Ile-de-la-Cité, an island in the River Seine and the very center of Paris, the masters moved to avoid the dominating control of the bishop's chancellor. Crossing to the left bank, the masters live in an area named the Rue de Fouarre, "the street of straw", named after the straw that covers the masters' schoolroom floors. A ramshackle collection of jumbled houses and twisted avenues, this section of Paris will soon be called the Latin Quarter, because of the perpetual drone of the speaking students.
 
 Unlike the south, with its permissive attitude, the University of Paris is conservative, hieratic, and dogmatic. Focusing on theology, it is almost an extension of the church, and while it struggles for autonomy, it embraces attitudes very similar to ecclesiastics. Like their predecessors, many of the masters are regular members of the clergy, priests who have committed themselves to education. They do not continue the ambiguous clerical affiliations of the students, but take holy orders and receive benefices. In fact, no resident master of the University of Paris can be paid through student tuition, and each receives his income through benefices bestowed by the bishop.
 
 Paris is a university of masters, who make the rules for themselves and their students. There are four faculties at Paris: the Faculties of Arts, Theology, Law, and Medicine. Of the four, Paris is most known for educating theologians, and the only doctoral license it grants is a doctor in theologia. Though it presents itself as the ideal university, not every course of instruction is taught, nor is every available source text employed. In 1219, the masters were forbidden to teach civil law, banned by Pope Honorius III because he was upset by civil law's growing popularity. The university has also been banned from teaching the New Aristotle, preferring its more conservative curriculum.
 
-More than 5,000 students attend the university. They are divided into four nations: France, Normandy, Picardy, and the England nation that includes German students and those who come from any region not covered by the other three nations. Their structure and responsibilities mirror those of their Bolognese brothers, but they do not have the political power that the southern students have. The masters have won the battle between student guild and master guild, and jealously maintain the advantage. A few hospices exist, all for ecclesiastical students. Besides Dominican hospices, there are Saint-Thomas de Louvre, St. Honore, and Dix-huits ("The Eighteen").
+More than 5,000 students attend the university. They are divided into four nations: France, Normandy, Picardy, and the England nation that includes German students and those who come from any region not covered by the other three nations. Their structure and responsibilities mirror those of their Bolognese brothers, but they do not have the political power that the southern students have. The masters have won the battle between student guild and master guild, and jealously maintain the advantage. A few hospices exist, all for ecclesiastical students. Besides Dominican hospices, there are Saint-Thomas de Louvre, St. Honore, and Dix-Huit ("The Eighteen").
 
-In 1200, a terrible outbreak of town versus gown rivalry resulted in the death of several students and citizens, the most severe case to date. The masters sought protection from the crown, and were awarded the right to suspend lectures and cease teaching if they felt their rights were infringed upon by city officials. This has left a lingering resentment, especially in the provost of Paris, the head burgher, and the chancellor of Notre Dame, Phillipus de Grevia. The chancellor has the power to confer degrees and excommunicate members of the university, and he uses these rights to maintain his influence over the university masters. They, in return, seek imperial and papal protection from the chancellor's abuse of his privileges. By 1220, papal decree has demanded that the chancellor bestow degrees based on the masters' recommendation alone, and has stated that he is compelled to follow their recommendations. This has only exacerbated the tension.
+In 1200, a terrible outbreak of town versus gown rivalry resulted in the death of several students and citizens, the most severe case to date. The masters sought protection from the crown, and were awarded the right to suspend lectures and cease teaching if they felt their rights were infringed upon by city officials. This has left a lingering resentment, especially in the provost of Paris, the head burgher, and the chancellor of Notre Dame, Philippus de Grevia. The chancellor has the power to confer degrees and excommunicate members of the university, and he uses these rights to maintain his influence over the university masters. They, in return, seek imperial and papal protection from the chancellor's abuse of his privileges. By 1220, papal decree has demanded that the chancellor bestow degrees based on the masters' recommendation alone, and has stated that he is compelled to follow their recommendations. This has only exacerbated the tension.
 
 Another source of conflict is the newly arrived Dominican friars, living apart in private hospices but studying the same texts under the same masters. The Dominicans are extremely orthodox in their views and strictly adhere to papal authority and the rules of their Order. They are all too ready to criticize a teacher who tries to incorporate possibly heretical ideas into his lectures.
 
@@ -4189,11 +4211,11 @@ Another source of conflict is the newly arrived Dominican friars, living apart i
 
 Games set in Paris will be affected by the constant tension felt between the students and the citizens. While this has subsided from its peak, small skirmishes continue to erupt between students and citizens. The Latin Quarter will surely draw the attention of neighboring magi, as it is a place of books and learning. It is also a place of drinking and gambling, home to thieves and prostitutes. Visiting player characters are susceptible to all sorts of urban commotions in the nearly lawless streets of nighttime Paris.
 
-Masters and students are spread throughout the Latin Quarter, governed only by their personal adherence to university statutes. Characters might wish to engage one for a personal tutor. Since advanced students teach the extraordinary lectures, especially those concerned with alchemy and astrology, their personal residences offer tempting bait for Hermetic characters interested in those arts. If the chancellor knows of the player characters, he might enlist them in his nefarious schemes to discredit the university masters. Stirring up trouble on the streets is easy; it is more complicated to discredit a master, although a magus may have the means to do so. On the other hand, the masters might seek magical aid in their struggles against the chancellor and provost, since both the king's and pope's aid is often slowcoming and at times ineffectual.
+Masters and students are spread throughout the Latin Quarter, governed only by their personal adherence to university statutes. Characters might wish to engage one for a personal tutor. Since advanced students teach the extraordinary lectures, especially those concerned with alchemy and astrology, their personal residences offer tempting bait for Hermetic characters interested in those arts. If the chancellor knows of the player characters, he might enlist them in his nefarious schemes to discredit the university masters. Stirring up trouble on the streets is easy; it is more complicated to discredit a master, although a magus may have the means to do so. On the other hand, the masters might seek magical aid in their struggles against the chancellor and provost, since both the king's and pope's aid is often slow coming and at times ineffectual.
 
 >#### The Nature of Students
 >
->The English are drunken cowards, the French proud, soft and effeminate; the Germans are quarrelsome and foul-mouthed, the Normans vain and haughty, the men of Poitou treacherous and miserly, the Burgundians stupid brutes, the Bretons frivolous and flighty, the Lombards miserly, spiteful and evilminded, the Romans vicious and violent, the Sicilians tyrannical and cruel, the men of Brabant are thieves and the Flemings are debauched.
+>The English are drunken cowards, the French proud, soft and effeminate; the Germans are quarrelsome and foul-mouthed, the Normans vain and haughty, the men of Poitou treacherous and miserly, the Burgundians stupid brutes, the Bretons frivolous and flighty, the Lombards miserly, spiteful and evil-minded, the Romans vicious and violent, the Sicilians tyrannical and cruel, the men of Brabant are thieves and the Flemings are debauched.
 >
 >— Jacques de Vitry, commenting on students living in the Latin Quarter in the early thirteenth century
 
@@ -4211,7 +4233,7 @@ Bologna has a Faculty of Law, in which both civil and canon law is taught, and a
 
 Instruction is centered around the great cathedral of San Pietro, sitting in the center of the walled town. Nearly 40,000 people call Bologna home, making it one of the largest cities of western Mythic Europe. The population is growing, extending past the recently completed city walls. Nearly 6,000 students live in the northern section of town. During the compulsory university meetings, they gather in San Pietro, packing the cathedral and spilling out into the streets.
 
-The current rector of the Faculty of Arts is Boncompagno, a famous rhetorician who has written several tractatus on various subjects. He is still vibrant and enthusiastic despite being in his sixties, and is currently at the head of a hotly debated topic. Boncompagno thinks the university should have a "body" to house its intellectual "head," and is proposing to the university and the city's government that they should erect a building dedicated to learning. This is being opposed on every front, but Boncompagno is persistent.
+The current rector of the Faculty of Arts is Boncompagno, a famous rhetorician who has written several tractatus on various subjects. He is still vibrant and enthusiastic despite being in his sixties, and is currently at the head of a hotly debated topic. Boncompagno thinks the university should have a "body" to house its intellectual "head", and is proposing to the university and the city's government that they should erect a building dedicated to learning. This is being opposed on every front, but Boncompagno is persistent.
 
 The rector of the Faculty of Law, Azo, has recently died, and his replacement has not been selected. The two frontrunners are Accursius, a renowned commentator, and Odofredus, a great debater. Both men have grown incredibly wealthy from their scholastic appointment, and own luxurious townhouses and expansive farms outside the city walls. Their faculty fellows are reluctant to name one above the other as rector, since both are popular choices. To settle this dispute, both have announced that they will write a complete digest, which includes all previous legal commentaries, glosses, notes, and expositions on civil law. In 1220, these projects are underway.
 
@@ -4229,23 +4251,23 @@ Both Accursius and Odofredus could ask for help constructing their compilations.
 
 Montpellier has a long history as a school of medicine, visited by wandering scholars throughout the tenth and eleventh centuries. Located in southern France, it has a geographic advantage that fosters interactions with Jewish and Arabic intellectuals. Some say the school was initially formed in the eighth century, when retreating Saracens repelled by Charles Martel initiated the university. Whether due to its location or its history, Montpellier relies more heavily on the translated Arabic texts of Avicenna than the authorities used by other universities, either Galen or Hippocrates.
 
-Montpellier gained its status as an independent fief from France in 1204, making it resemble the student-run organization of Bologna more than the masters' school at Paris. While known as a university, it will not receive a papal grant or formal establishment until 1289. The town is ruled by the Guillems family, vassals to the counts of Melgeuil and staunch papal supporters. This makes the connection to Bologna even stronger. Most of the time, the Guillems allow the university to govern itself, as long as it maintains proper ties to Pope Honorius III.
+Montpellier gained its status as an independent fief from France in 1204, making it resemble the student-run organization of Bologna more than the masters' school at Paris. While known as a university, it will not receive a papal grant or formal establishment until 1289. The town is ruled by the Guillems family, vassals to the counts of Melgueil and staunch papal supporters. This makes the connection to Bologna even stronger. Most of the time, the Guillems allow the university to govern itself, as long as it maintains proper ties to Pope Honorius III.
 
 There are two faculties at Montpellier, the arts and medicine, and three nations: Provence, Burgundy, and Catalonia. Montpellier offers some courses in civil law, but does not have a recognized faculty for that branch of academia. Rector Bassianus does his best to increase the reputation of the Faculty of Arts, but it is the Faculty of Medicine that draws students from near and far, and its reputation as the preeminent school of medicine is rivaled only by Salerno. Presently, Montpellier does not confer licenses on its candidate masters, although this situation is changing in 1220. Currently, the Cardinal Legate Conrad of Urach is in Montpellier, preparing to announce the pope's wishes for specific statutes of the university. The Bishop of Maguelone is to become the sole authority of the university, appointing a chancellor to grant licenses to acceptable candidates. Previously, Guillem VIII had allowed anyone to teach medicine at Montpellier. The new chancellor will be counseled by the two rectors of the university and a proctor from one of the student nations.
 
 #### A Montpellier Saga
 
-A saga set in Montpellier in 1220 will certainly start out with the political ramifications of the cardinal legate's announcements. University and noble characters will seek out the magi, asking them to help influence these appointments. The Guillems might even ask the magi to change the cardinal legate's mind. Although they are papal supporters, the new statutes completely remove the university from their hands. The appointment of a single student from the hundreds living in the three nations will certainly cause a row. The oncepeaceful institution is now scrabbling with anxious masters and nervous students.
+A saga set in Montpellier in 1220 will certainly start out with the political ramifications of the cardinal legate's announcements. University and noble characters will seek out the magi, asking them to help influence these appointments. The Guillems might even ask the magi to change the cardinal legate's mind. Although they are papal supporters, the new statutes completely remove the university from their hands. The appointment of a single student from the hundreds living in the three nations will certainly cause a row. The once-peaceful institution is now scrabbling with anxious masters and nervous students.
 
 Montpellier is a center for medical studies, and these will also impact the saga. Each student must spend a year studying anatomy, which is best done with corpses. The town only allows the university to use two cadavers a year, far too few, and students have responded by illegally buying dead bodies to use in their studies. The magi, suspicious because of their Gift, are naturally sought out. Students hope the mysterious player characters can assist them with their morbid need.
 
-Based on the teachings of Avicenna, the faculty of medicine takes a more hands-on approach to medicine and diseases than other universities do with their subjects. Thus, they might well discover a new plague in its early stages. Hermetic magi can be well suited to handle such things, and the university might keep friendly relations with the magi just in case such a development arises. Their support is paid for by allowing magi to use Montpellier's library — a large collection of Jewish, Arabic, Hebrew, and Latin books concerning medicine, the liberal arts, and various other less-savory topics. Both alchemy and astrology are studied at Montpellier, which fills the student register with wouldbe natural philosophers.
+Based on the teachings of Avicenna, the faculty of medicine takes a more hands-on approach to medicine and diseases than other universities do with their subjects. Thus, they might well discover a new plague in its early stages. Hermetic magi can be well suited to handle such things, and the university might keep friendly relations with the magi just in case such a development arises. Their support is paid for by allowing magi to use Montpellier's library — a large collection of Jewish, Arabic, Hebrew, and Latin books concerning medicine, the liberal arts, and various other less-savory topics. Both alchemy and astrology are studied at Montpellier, which fills the student register with would-be natural philosophers.
 
 ### Oxford
 
-While every university has its own legend of origin, none compares to the fantastic myths told of Oxford's creation. Surviving the fall of Troy, Brutus sailed to England, bringing King Mempric and a collection of Greek scholars with him. He settled in Wiltshire for a while, before relocating to Oxford. The colony prospered, and in ninth century was legally recognized by Alfred the Great, King of Wessex. Fewer people bother to refute this myth than those of other universities, since Oxford was not a great center of learning before the thirteenth century, nor does it have a monumental cathedral, the springboard for most other medieval universities. Whatever its origins, Oxford grew enormously during the twelfth century, when King Henry II withdrew permission for scholars to cross the English Channel. Locked in his dispute with Thomas Becket, the Parisian masters lent the archbishop support by expelling all English scholars from their schools. Several traveled to Oxford, including some French teachers.
+While every university has its own legend of origin, none compares to the fantastic myths told of Oxford's creation. Surviving the fall of Troy, Brutus sailed to England, bringing King Mempric and a collection of Greek scholars with him. He settled in Wiltshire for a while, before relocating to Oxford. The colony prospered, and in the ninth century was legally recognized by Alfred the Great, King of Wessex. Fewer people bother to refute this myth than those of other universities, since Oxford was not a great center of learning before the thirteenth century, nor does it have a monumental cathedral, the springboard for most other medieval universities. Whatever its origins, Oxford grew enormously during the twelfth century, when King Henry II withdrew permission for scholars to cross the English Channel. Locked in his dispute with Thomas Becket, the Parisian masters lent the archbishop support by expelling all English scholars from their schools. Several traveled to Oxford, including some French teachers.
 
-Oxford's university closely resembles Paris' — a master-run university copying all the French university's statutes, obligations, and privileges. However, most of the tension that occupies the university of Paris is not found at Oxford, and an odd harmony exists between masters and students, university and both church and king. This does not mean that tensions never arise, but overall the university exists peacefully. Oxford has all four faculties, each led by a rector, with one of the four acting as the dean of the university. It has two nations, the *Australes*, those living south of the river Trent and including the Irish and the Welsh, and the *Borealis*, northerners coming from above the river and including the Scots. There is no need for any continental nations, since not a single student comes from across the English Channel.
+Oxford's university closely resembles Paris' — a master-run university copying all the French university's statutes, obligations, and privileges. However, most of the tension that occupies the university of Paris is not found at Oxford, and an odd harmony exists between masters and students, university and both church and king. This does not mean that tensions never arise, but overall the university exists peacefully. Oxford has all four faculties, each led by a rector, with one of the four acting as the dean of the university. It has two nations, the *Australes*, those living south of the river Trent and including the Irish and the Welsh, and the *Boreales*, northerners coming from above the river and including the Scots. There is no need for any continental nations, since not a single student comes from across the English Channel.
 
 Since there is no cathedral, the chancellor is actually a member of the university, usually the most prominent scholar, appointed by the Bishop of Lincoln. Since he is a university man, the chancellor is not at odds with the dean, like at other universities, and since Lincoln is so far removed from Oxford, he is not often at odds with the bishop. The position of the chancellor is recently invented, and hasn't been filled in 1220. Oxford's first chancellor, historically appointed in 1221, will be Robert Grosseteste, famed scholar and mathematician. Born in 1168, Grosseteste is 52 years old, and historically he has a long life ahead of him, filled with accolades and accomplishments to come.
 
@@ -4273,7 +4295,7 @@ Salerno is a school more than a university, for despite its size and reputation,
 
 Although famous, vying against Montpellier as Mythic Europe's most famous school of medicine, it is not large, having only a dozen or so masters and a couple of hundred students. Masters at Salerno prefer the Greek authorities over foreign wisdom, basing their lectures on Galen and Hippocrates. They do use the medical writings of Constantinus Africanus, translated from the Arabic, but ignore other Arabic sources.
 
-Salerno is an exception to the rule forbidding women from attending university, and so they have a group of women studying medicine. Called "The Salernitarian Women," this group is famous as obstetricians and surgeons. Their skill has drawn more than one ailing northerner to their southern climes, and legend has it that they cured Robert, the Duke of Normandy, of his grievous wound received in the First Crusade.
+Salerno is an exception to the rule forbidding women from attending university, and so they have a group of women studying medicine. Called "The Salernitan Women", this group is famous as obstetricians and surgeons. Their skill has drawn more than one ailing northerner to their southern climes, and legend has it that they cured Robert, the Duke of Normandy, of his grievous wound received in the First Crusade.
 
 Salerno is a stable, peaceful school, suffering the usual assortment of troubles that plague other universities but lacking the tension that exists at Bologna or Paris. Salerno's true trials will come in 1224, if your saga follows actual history, when Frederick II of Naples institutes his University of Naples and draws on the masters of Salerno to teach in his new creation.
 
@@ -4285,7 +4307,7 @@ These Italian universities are small copies of the University of Bologna. All ha
 
 The two Spanish universities differ from all others because they are both royal institutions, founded by a king and overseen by his rule. The cultural mesh of Jewish, Christian, and Muslim thinkers in Spain has been responsible for a long tradition of private teachers and cathedral schools. Most of the translations of foreign and ancient sources happened in Spain, before filtering to the other intellectual centers of Mythic Europe. Saint Dominic studied theology in Palencia's cathedral school in the late twelfth century. The sovereigns have long placed an importance on personal education, for themselves and for their families. Seeing the popularity of other universities, the kings of both León and Castile have started universities in their kingdoms, changing the already famous cathedral schools into proper universities.
 
-Palencia was founded by King Alfonso VIII of Castile in 1208, making it only a dozen years old when a canonical Ars Magica saga starts. Most of the teachers are from Paris and Bologna, lured to Palencia by the king's invitation and promise of a lucrative teaching salary. Tello, the Bishop of Palencia, works with Alfonso to ensure the stability of his fledgling university. Palencia is organized like a masterrun university, although some of the masters' highest privileges are muted by the bishop's control. Tello strives to reduce the common tension found between dean and chancellor. He has allowed the masters to form a council that advises the chancellor, but the chancellor has final say over any problematic issue.
+Palencia was founded by King Alfonso VIII of Castile in 1208, making it only a dozen years old when a canonical Ars Magica saga starts. Most of the teachers are from Paris and Bologna, lured to Palencia by the king's invitation and promise of a lucrative teaching salary. Tello, the Bishop of Palencia, works with Alfonso to ensure the stability of his fledgling university. Palencia is organized like a master-run university, although some of the masters' highest privileges are muted by the bishop's control. Tello strives to reduce the common tension found between dean and chancellor. He has allowed the masters to form a council that advises the chancellor, but the chancellor has final say over any problematic issue.
 
 Palencia has three faculties: the arts, canon law, and theology. Licenses are granted by the bishop, through the royal authority of the king. Paris and Bologna view these licenses as being inferior to their own, and disallow magisters and doctors graduated from Palencia to teach in their universities. The current king, Ferdinand III, would like to change this, asking Bishop Tello to entreat Pope Honorius III for papal authority to grant universal licenses. Ferdinand is also asking that a quarter of the tithes he collects for the church go to paying the masters' salaries. The pope is interested in helping Palencia, viewing his aid as an extension of papal power, but is reluctant to allow universal licenses. Paris has a monopoly on theology degrees, and since they are so strongly connected to the papacy, Honorius would like to keep it that way.
 
@@ -4319,11 +4341,11 @@ The dim lights and drab shades of the Dark Ages have passed. Mythic Europe is br
 
 Artists are everywhere. Depicted in manuscript illuminations, entertaining courts and kings, decorating churches and covenants, and juggling before market crowds, artists are carving a niche for themselves in society. The evolving system of education produces and inspires poets. Romances — tales of chivalry, sorcery, and adventure — climb in popularity. A new style of architecture rises in France, copied everywhere in the West except for the Italian peninsula. In these times of prosperity, art praises its patrons, heralds history, and educates and entertains the masses.
 
-Art and academia go hand in hand. Honorius of Autun called art the literature of the laity, and it is through art that the principle ideas of the scholastics filter down to the public in general. Iconography and recurring themes in artwork convey the religious and cultural ideas that have been thoroughly considered by theologians and philosophers. The concepts of proportions, ratios, and luminosity, as taught by geography, music, and physics, have been incorporated into the general notion of beauty. Just as academics search for the one correct model of the universe, as constructed by God, and record it in their massive summae, artists combine their understanding and skills with art and assemble it into massive cathedrals.
+Art and academia go hand in hand. Honorius of Autun called art the literature of the laity, and it is through art that the principal ideas of the scholastics filter down to the public in general. Iconography and recurring themes in artwork convey the religious and cultural ideas that have been thoroughly considered by theologians and philosophers. The concepts of proportions, ratios, and luminosity, as taught by geometry, music, and physics, have been incorporated into the general notion of beauty. Just as academics search for the one correct model of the universe, as constructed by God, and record it in their massive summae, artists combine their understanding and skills with art and assemble it into massive cathedrals.
 
 Artists are divided into two groups in **Ars Magica 5th Edition**, those who produce art and those who perform it. This division does not exist in-game or historically, but is only used as a rule to separate characters who use (Craft) Ability for their art and those who use (Profession) Ability. There is no specific Social Status Virtue to describe the myriad vocations of artists. Production artists should take the free Social Status Virtue: Craftsman, and performance artists should take the free Social Status Virtue: Wanderer. Select cases may require different Social Status Virtues — a poet might want to take Clerk — but Craftsman and Wanderer should cover most situations.
 
-For the purposes of this chapter, the term **artwork** is defined as anything an artist produces or performs. Artwork is what an artist does. Every piece of artwork has an Aesthetic Quality that determines how beautiful it is. Every medieval craftsman believes that all of his finished pieces are works of art, as he strives to make the best thing he possible can, but artwork refers to cathedrals, illuminations, poems, tapestries, plays, tumbling routines, stained-glass windows, religious icons, pictures and portraits; not saddles, scabbards, shoes, swords, armor, or tunics. If an item in question has a mundane, practical use, it is a manufactured item. If an item is ostensibly aesthetic, made to please the senses above all else, it is artwork.
+For the purposes of this chapter, the term **artwork** is defined as anything an artist produces or performs. Artwork is what an artist does. Every piece of artwork has an Aesthetic Quality that determines how beautiful it is. Every medieval craftsman believes that all of his finished pieces are works of art, as he strives to make the best thing he possibly can, but artwork refers to cathedrals, illuminations, poems, tapestries, plays, tumbling routines, stained-glass windows, religious icons, pictures and portraits; not saddles, scabbards, shoes, swords, armor, or tunics. If an item in question has a mundane, practical use, it is a manufactured item. If an item is ostensibly aesthetic, made to please the senses above all else, it is artwork.
 
 ## Production Artists
 
@@ -4349,7 +4371,7 @@ A large community of artists and craftsmen builds cathedrals, all working under 
 
 Besides the army of craftsmen — bricklayers, joint-makers, stone-cutters, and unskilled manual laborers — teams of sculptors and painters work with the master mason. Cathedrals are packed with art: sculpted columns, iron doors, painted murals, stained glass windows, and rooftop gargoyles. Individual pieces, stained glass windows, column capitals, bronze doors, and interior paintings, are all funded by specific patrons. This can lead to fierce competition, as noble families vie against each other for the most magnificent piece of art. Ecclesiastical and noble patrons are not the only ones who pay for a cathedral; guilds and craftsmen also contribute funds. Indeed, it takes a whole town to build a cathedral, and the exorbitant cost has left more than one town in dire financial straits.
 
-The most famous master mason in 1220 is Villard de Honnecourt, who has worked on cathedrals in Laon, Chartres, Reims, and Meux, as well as buildings in Burgundy and Hungary. He has a number of tractatus, which he calls "sketchbooks," about the art of masonry. Each of these can be studied, acting as a tractatus on the Craft: Mason Ability, with a quality of 7. More information on masons can be found in *City and Guild*, page 59.
+The most famous master mason in 1220 is Villard de Honnecourt, who has worked on cathedrals in Laon, Chartres, Reims, and Meaux, as well as buildings in Burgundy and Hungary. He has a number of tractatus, which he calls "sketchbooks", about the art of masonry. Each of these can be studied, acting as a tractatus on the Craft: Mason Ability, with a quality of 7. More information on masons can be found in *City and Guild*, page 59.
 
 >#### Story Seed: A Noble Rivalry
 >
@@ -4359,7 +4381,7 @@ The most famous master mason in 1220 is Villard de Honnecourt, who has worked on
 >
 >#### Story Seed: The Dead Emperor's Ghost
 >
->Along with his palace school, Charlemagne's winter capitol at Aachen was famous for its goldsmiths, whose artistic traditions were not interrupted by the "darkness" that obscured many artistic and intellectual endeavors after the collapse of the Roman Empire. Aachen has lost much of its prominence in 1220, enjoying only regional importance and governed by a nearby Benedictine abbey. Its goldsmiths prosper, however, and the abbey is filled with their artwork. A group of scholars, visiting the abbey's scriptorium in hopes of finding lost works of Alcuin, loudly admire one particular piece, an equestrian statue of Charlemagne. Mysteriously, this small statue is discovered missing a few days after the scholars depart.
+>Along with his palace school, Charlemagne's winter capital at Aachen was famous for its goldsmiths, whose artistic traditions were not interrupted by the "darkness" that obscured many artistic and intellectual endeavors after the collapse of the Roman Empire. Aachen has lost much of its prominence in 1220, enjoying only regional importance and governed by a nearby Benedictine abbey. Its goldsmiths prosper, however, and the abbey is filled with their artwork. A group of scholars, visiting the abbey's scriptorium in hopes of finding lost works of Alcuin, loudly admire one particular piece, an equestrian statue of Charlemagne. Mysteriously, this small statue is discovered missing a few days after the scholars depart.
 >
 >The Benedictine monks ask the characters for aid in retrieving the statue. Being desperate, they would ask any sort of character — magus, academic, or artist — for aid. The scholars left spotty information about themselves, saying only that they are academics from one of the universities. A few clues will reveal that something more nefarious is at hand. The statue hid clippings of Charlemagne's hair, and the monks suspect that the scholars are actually infernalists who are hoping to summon the emperor's ghost. Hermetic characters would suspect that Charlemagne's soul is safely bound in Heaven, but perhaps some unknown diabolical method could penetrate even this holy protection. Helping the abbey would put characters in good standing with the monks.
 >
@@ -4383,19 +4405,19 @@ The artist painter works with a variety of media and raw materials to create sev
 
 Wall murals are frescoes, an Italian word meaning "fresh." Pigment is painted on fresh plaster, which dries and holds the paint to the image. Most murals are narrative strips — bordered images that depict holy people, significant events, and important religious concepts. They are heavily influenced by Byzantine art, as all painting is, and a similar style circulates throughout Mythic Europe.
 
-Panel paintings are painted on wooden panels, often then assembled into altar pieces with a single panel, although double and triple panes are also popular (called diptychs and triptychs). After the wood for the panel is selected and sanded smooth, the artist outlines the desired image before applying paint. The painting technique is called egg tempura, named after the egg yolks used as a binding agent for the ground mineral and vegetablebased pigments. Egg yolks are so important to this process that any Hermetic spell invented to create a painting needs an Animal requisite. Spells that don't have this requisite create a painting that appears drab in comparison.
+Panel paintings are painted on wooden panels, often then assembled into altar pieces with a single panel, although double and triple panes are also popular (called diptychs and triptychs). After the wood for the panel is selected and sanded smooth, the artist outlines the desired image before applying paint. The painting technique is called egg tempera, named after the egg yolks used as a binding agent for the ground mineral and vegetable-based pigments. Egg yolks are so important to this process that any Hermetic spell invented to create a painting needs an Animal requisite. Spells that don't have this requisite create a painting that appears drab in comparison.
 
-Icon paintings are also painted on wooden panels. These are not assembled; rather they are individual pieces picturing the Blessed Virgin Mary, Jesus, or a variety of saints. Icons have a long history and continuity of style. They are egg tempura paintings as well, but depict more stoic, serious-looking figures than panel paintings. Many are gilded with gold leaf besides being painted, after which the entire piece is varnished to ensure longevity.
+Icon paintings are also painted on wooden panels. These are not assembled; rather they are individual pieces picturing the Blessed Virgin Mary, Jesus, or a variety of saints. Icons have a long history and continuity of style. They are egg tempera paintings as well, but depict more stoic, serious-looking figures than panel paintings. Many are gilded with gold leaf besides being painted, after which the entire piece is varnished to ensure longevity.
 
-Most paintings copy the Byzantine style of full-frontal figures with expressionless faces. Only recently are painters experimenting with human perspective, painting figures in profile rather than facing the viewer. By darkening the colors nearest to the figure's edge, painters make them look rounded, as if light were shadowing them and giving them depth. This is more easily done with frescoes than egg tempura. Some artists are so skilled in this emerging new style that viewers believe they are looking at actual people instead of paintings.
+Most paintings copy the Byzantine style of full-frontal figures with expressionless faces. Only recently are painters experimenting with human perspective, painting figures in profile rather than facing the viewer. By darkening the colors nearest to the figure's edge, painters make them look rounded, as if light were shadowing them and giving them depth. This is more easily done with frescoes than egg tempera. Some artists are so skilled in this emerging new style that viewers believe they are looking at actual people instead of paintings.
 
-Of all the production artists, painters are most evenly split between male and female painters. Several women have risen to fame through their paintings, many specializing in illuminated texts. The most famous woman painter in 1220 is Herrod of Hohenbourg, recently deceased, whose book, *Hortus deliciarum* ("Garden of Delights"), showcases many of her illuminations.
+Of all the production artists, painters are most evenly split between male and female painters. Several women have risen to fame through their paintings, many specializing in illuminated texts. The most famous woman painter in 1220 is Herrad of Hohenbourg, recently deceased, whose book, *Hortus deliciarum* ("Garden of Delights"), showcases many of her illuminations.
 
 ### Vernacular Literature
 
-Another highly appreciated form of art is vernacular literature. Written by professional poets, vernacular literature is in the language of the people: English, French, Occitan, and German, to name a few examples. Latin is the language of academic, official, and ecclesiastical writings, and vernacular languages concerns the profane. Narrative stories of knights, love, legends, and fables are enjoyed by a large audience.
+Another highly appreciated form of art is vernacular literature. Written by professional poets, vernacular literature is in the language of the people: English, French, Occitan, and German, to name a few examples. Latin is the language of academic, official, and ecclesiastical writings, and vernacular languages concern the profane. Narrative stories of knights, love, legends, and fables are enjoyed by a large audience.
 
-There are several types of vernacular literature in Mythic Europe. A *chanson de gesta* is an epic poem concerning heroic deeds and battle; the most famous is *The Song of Roland*. A *lais* is a shorter poem expressing the ideas of courtly love, and the twelve written by Marie de France in the twelfth century are the best known. A "romance" is a longer poem or work of prose that combines the two themes of battle and love, usually centering on Arthur or Charlemagne as its main character. A *fabliaux* is a shorter comic poem — either a retelling of one of Aesop's Fables, or a more ribald, earthy piece popular with the low minded. Fabliaux are popular in Flanders and northern France. Travelogues and pilgrimage texts are also popular. They detail foreign places and their peoples and are avidly consumed by literate society. Since few people actually travel, they are also easily fabricated, and full of invention. In Mythic Europe, however, even the most fanciful description could be true, with one-legged skiapods living in distant Africa and Ethiopian warriors having boar tusks.
+There are several types of vernacular literature in Mythic Europe. A *chanson de gesta* is an epic poem concerning heroic deeds and battle; the most famous is *The Song of Roland*. A *lai* is a shorter poem expressing the ideas of courtly love, and the twelve written by Marie de France in the twelfth century are the best known. A "romance" is a longer poem or work of prose that combines the two themes of battle and love, usually centering on Arthur or Charlemagne as its main character. A *fabliau* is a shorter comic poem — either a retelling of one of Aesop's Fables, or a more ribald, earthy piece popular with the low minded. Fabliaux are popular in Flanders and northern France. Travelogues and pilgrimage texts are also popular. They detail foreign places and their peoples and are avidly consumed by literate society. Since few people actually travel, they are also easily fabricated, and full of invention. In Mythic Europe, however, even the most fanciful description could be true, with one-legged skiapods living in distant Africa and Ethiopian warriors having boar tusks.
 
 Vernacular literature does not threaten the church like secular music does, so it is not judged as harshly. Religious poetry, written in Latin, has long been accepted and praised by the church. The poetry of the ancient pagans — Virgil, Ovid, Horace, and Juvenal to name the most popular — is an essential source of education, and highly prized by grammarians and rhetoricians. Vernacular poetry springs from this tradition, as well as the folk and heroic tales of individual regions. Not all vernacular literature is actually written in a vernacular language; some of it is written in Latin. It is still narrative poetry, however, and is considered in the same genre as vernacular literature.
 
@@ -4433,15 +4455,15 @@ Entertainers' reputation for thievery is not entirely unwarranted. Several perfo
 
 ### Animal Trainers
 
-Several types of entertainers use animals in their acts; dancing bears are nearly ubiquitous, and performing dogs and ponies are also common. In distant Constantinople, audiences are titillated by performing monkeys, and the on the coast of Africa pilgrims can see dancing snakes.
+Several types of entertainers use animals in their acts; dancing bears are nearly ubiquitous, and performing dogs and ponies are also common. In distant Constantinople, audiences are titillated by performing monkeys, and on the coast of Africa pilgrims can see dancing snakes.
 
 Animals must be trained before they will follow a master's commands. Training an animal takes a season or more, depending on the type of animal and the skill of the trainer. Any character with the Animal Handling Ability can train mundane animals. Training supernatural animals is more difficult, and outside the scope of regular entertainers. Rules for training magical animals can be found in *Realms of Power: Magic*. These rules adapt those, emphasizing the mundane aspect of animal training germane to most regular entertainers.
 
-A mundane trainer generates a number of training points in each season that he spends working with an animal. This total is the character's Intelligence + Animal Handling – Creature's Might. If the character has the Virtue: Animal Ken, he may add his score in Animal Ken to the total. For the purposes of training, a mundane animal is considered to have a Might score of 1 + Confidence Score. The character's total must exceed the animal's Might score, with the excess points used to build a total equal to that value. Once the excess training points equal the creature's Might, the animal is trained and will follow its master's commands. Animal training demands patience and persistence on the trainer's part. The trainer must stick with the animal until its training is complete. If he cannot train an animal in a single season, he must continue the training. Interrupting this process will erase all accumulated training points.
+A mundane trainer generates a number of training points in each season that he spends working with an animal. This total is the character's Intelligence + Animal Handling – Creature's Might. If the character has the Virtue: Animal Ken, he may add his score in Animal Ken to the total. For the purposes of training, a mundane animal is considered to have a Might score of 1 + 2 x Confidence Score. The character's total must exceed the animal's Might score, with the excess points used to build a total equal to that value. Once the excess training points equal the creature's Might, the animal is trained and will follow its master's commands. Animal training demands patience and persistence on the trainer's part. The trainer must stick with the animal until its training is complete. If he cannot train an animal in a single season, he must continue the training. Interrupting this process will erase all accumulated training points.
 
 >#### Story Seed: Beware the Gleemen
 >
->Northern clerics warn of a group of jugglers called "Gleemen," who frequent taverns and drinking houses, accusing them of loose morals and witchcraft. This group is tainted by the infernal, and has diabolical powers with which they enchant the crowd, robbing them or leading them into evil deeds. Others claim that the Gleemen steal children and sacrifice them to their demon patron. Are these tales true? If so, a group of wandering Gleemen would certainly cause problems to a covenant, as they invade one of the covenant's villages and make off with money and victims. If not, these same jugglers might ask the magi for help against clerical persecution.
+>Northern clerics warn of a group of jugglers called "Gleemen", who frequent taverns and drinking houses, accusing them of loose morals and witchcraft. This group is tainted by the infernal, and has diabolical powers with which they enchant the crowd, robbing them or leading them into evil deeds. Others claim that the Gleemen steal children and sacrifice them to their demon patron. Are these tales true? If so, a group of wandering Gleemen would certainly cause problems to a covenant, as they invade one of the covenant's villages and make off with money and victims. If not, these same jugglers might ask the magi for help against clerical persecution.
 
 **Training Points Accumulated Each Season: Intelligence + Animal Handling – Creature's Might**
 
@@ -4455,11 +4477,11 @@ Once the beast is trained, the master can command it, issuing orders that he hop
 
 | Ease Factor        | Task                                                                         |
 |--------------------|------------------------------------------------------------------------------|
-| 0                  | The animal regularly does this task ("sit," "jump," "lay down")              |
-| 3                  | The task is complex ("stand up," "prance," "jump up aseries of platforms")   |
+| 0                  | The animal regularly does this task ("sit", "jump", "lay down")              |
+| 3                  | The task is complex ("stand up", "prance", "jump up a series of platforms")  |
 | 6                  | The task is a series of complex tasks ("dance")                              |
 | 9                  | The task involves possible harm ("attack")                                   |
-| 12                 | The task involves a life<br>threatening act ("jump through a burning hoop")  |
+| 12                 | The task involves a<br>life-threatening act ("jump through a burning hoop")  |
 
 Characters training animals for uses other than the carnival also use these rules, but may replace Animal Handling with Ride if the creature is a beast of burden. Commanding a horse allows the rider free use of his hands, making it beneficial for professional horsemen to spend a season training their mounts.
 
@@ -4471,17 +4493,17 @@ During the twelfth century, miracle plays were performed by clergy members for l
 
 Miracle players work a circuit of towns, traveling from one to the next on an annual basis. They are at the largest town during the most-celebrated holy festival, performing the best-appreciated play in their repertoire. Because the play is usually presented to an audience that doesn't speak the language, performers are reluctant to change a play or incorporate new ideas. Since monks and nuns still write miracle plays, troupes will be interested in plays performed in monasteries and convents. Gaining entrance to such events is difficult, and a performer might disguise himself as a visiting merchant or scholar to view any new play. If a new play takes his fancy, he will try to include it in his troupe's performances. Some plays are written down, making his job of "stealing" it easier.
 
-In 1220, miracle plays are performed by professional artists for lay audiences and by monks and nuns for clerical audiences. Most secular players are male and several troupes are family units, with the males performing and the females relegated to other off-stage chores. In later centuries this will change, with local people (still primarily male) participating in culturally established plays. Such people will be called "mummers," and their performances "mumming plays."
+In 1220, miracle plays are performed by professional artists for lay audiences and by monks and nuns for clerical audiences. Most secular players are male and several troupes are family units, with the males performing and the females relegated to other off-stage chores. In later centuries this will change, with local people (still primarily male) participating in culturally established plays. Such people will be called "mummers", and their performances "mumming plays."
 
 >#### Styles of Music
 >
 >Because of the rather insular character of Mythic Europe, musical styles vary considerably, and the farther away a character is from home, the more different the music will be. Every player whose character is a musician should determine the character's basic style of music, represented by his region of origin. Even when a character's background is eclectic, the player must decide which style of music is his foundation: the Normandy style, Lower Lorraine style, or the Tuscan style, for example. Styles are generally no larger than a county and its neighbors.
 >
->Artists, including musicans, can study another artist's art to improve their skill, a process that is explained in detail below. Whenever a musician character spends a season studying a music style different from his original style, he receives a onetime study bonus of 1 to 3 extra experience points, determined by how distant the new style is from the character's familiar base. The storyguide decides how different the new style of music is by determining how far distant from the character's home the source is. Closer sources award a 1-point bonus, while extremely distant sources offer a 3-point bonus. For example, a musician trained in the style of the Irish would receive a 1-point bonus studying music from England or France, a 2-point bonus from studying Spanish or Italian music styles, and a 3-point bonus from music from Africa or the Levant.
+>Artists, including musicians, can study another artist's art to improve their skill, a process that is explained in detail below. Whenever a musician character spends a season studying a music style different from his original style, he receives a one-time study bonus of 1 to 3 extra experience points, determined by how distant the new style is from the character's familiar base. The storyguide decides how different the new style of music is by determining how far distant from the character's home the source is. Closer sources award a 1-point bonus, while extremely distant sources offer a 3-point bonus. For example, a musician trained in the style of the Irish would receive a 1-point bonus studying music from England or France, a 2-point bonus from studying Spanish or Italian music styles, and a 3-point bonus from music from Africa or the Levant.
 
 ### Musicians
 
-There is a great division in music in the thirteen century between secular and ecclesiastical styles. Ecclesiastical music is based on the traditional monastic style of earlier centuries, named "plain chant" or Gregorian Chant after Pope St. Gregory I. It is a dry, monophonic chant sung by the entire choir, a single melody without accompanying harmony. All church offices or hours are sung, making the style of music extremely important and excessively regulated. Striking changes in the tenth century introduced polyphony into church choirs, which is the addition of one or more additional melodies superimposed on the basic chant. Current religious music is more listenable and enjoyable, but church leaders are ever vigilant lest it become too enjoyable. St. Bernard of Clairvaux, a very vocal and popular church reformer in the twelfth century, warned against sounds and images that are too gaudy, appealing, or worldly, in that they disrespect and distract from the solemn message of God.
+There is a great division in music in the thirteenth century between secular and ecclesiastical styles. Ecclesiastical music is based on the traditional monastic style of earlier centuries, named "plain chant" or Gregorian Chant after Pope St. Gregory I. It is a dry, monophonic chant sung by the entire choir, a single melody without accompanying harmony. All church offices or hours are sung, making the style of music extremely important and excessively regulated. Striking changes in the tenth century introduced polyphony into church choirs, which is the addition of one or more additional melodies superimposed on the basic chant. Current religious music is more listenable and enjoyable, but church leaders are ever vigilant lest it become too enjoyable. St. Bernard of Clairvaux, a very vocal and popular church reformer in the twelfth century, warned against sounds and images that are too gaudy, appealing, or worldly, in that they disrespect and distract from the solemn message of God.
 
 Secular music is much livelier, the obvious differences are that it is accompanied by musical instruments and is often sung in a vernacular language. All church music is unaccompanied and sung in Latin. Based on the oral traditions of the many cultures indigenous to Mythic Europe, secular music offers a wide range of styles and sounds. Secular music has a much more complex system of rhythms and harmonies, compounding the polyphony of church music with even more melodies. Secular music is not bound by any regulatory agency, and its sole judge is the listener. Laymen musicians, of whom there are thousands, are free to experiment with style, pace, length, and tone. They also benefit from a large field of participants. While church music is essentially the same over the length of Mythic Europe, secular music is considerably different in different areas, and the simple songs of the French nations can be influenced by German, Spanish, and Italian music.
 
@@ -4501,19 +4523,19 @@ Musicians come from everywhere, from crowded urban cities to bucolic rural field
 >
 >Mythic Europe enjoys a healthy mix of musical instruments, influenced by Arabic and Jewish cultures, and enjoyed and employed by all sorts of musicians. Many types of musical instruments are present beside the common brass trumpets and drums. Wind instruments include the recorder and flute — a basic hollow wooden tube with finger holes that are covered and opened to produce different notes. A pan flute replaces the finger holes with a bound series of hollow tubes of differing lengths. Stringed instruments are the lute and the mandolin, which are plucked by one hand while the second decreases the length of individual strings by pressing them against the wooden neck. The dulcimer is a stringed instrument that sits horizontally before the musician, who hammers it with a wooden mallet. Stringed lyres and harps are popular, and are plucked by both hands. A zither is a small harp with a sounding board affixed to its back. A smaller version, called a psaltery, is easily portable and a favorite for traveling musicians.
 >
->Odder instruments include the hurdygurdy, a mechanical violin that produces a droning sound at the same time its strings are plucked. It is an indigenous instrument of Mythic Europe, unlike the other common instruments, which have been imported over the centuries from Africa and the Near East. The hurdy-gurdy is popular with Spanish, French, and Hungarian musicians. Bagpipes are wooden reeds attached to a bladder that supplies air, producing a droning, haunting tune. They are used by the musicians of Brittany, regions of northwestern Spain, and the British Isles, most notably the Scots.
+>Odder instruments include the hurdy-gurdy, a mechanical violin that produces a droning sound at the same time its strings are plucked. It is an indigenous instrument of Mythic Europe, unlike the other common instruments, which have been imported over the centuries from Africa and the Near East. The hurdy-gurdy is popular with Spanish, French, and Hungarian musicians. Bagpipes are wooden reeds attached to a bladder that supplies air, producing a droning, haunting tune. They are used by the musicians of Brittany, regions of northwestern Spain, and the British Isles, most notably the Scots.
 
 >#### Brogo the Dwarf
 >
 >**Characteristics:** Int –2, Per +1, Pre 0, Com +4, Str –1, Sta –1, Dex +2, Qik 0
 >
->**Size:** –2 
+>**Size:** –2
 >
->**Age:** 30 (30) 
+>**Age:** 30 (30)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
->**Warping Score:** 0 (0) 
+>**Warping Score:** 0 (0)
 >
 >**Confidence Score:** 1 (3)
 >
@@ -4531,19 +4553,19 @@ Musicians come from everywhere, from crowded urban cities to bucolic rural field
 >
 >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
 >
->**Wound Penalties**: –1 (1–3), –3 (4–6), –5 (7– 9), Incapacitated (10–12), Dead (13+)
+>**Wound Penalties**: –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10–12), Dead (13+)
 >
->**Abilities:** Athletics 2 (grace), Artes Liberales 2 (music), Awareness 2 (searching), Bargain 4 (benefactors), Carouse 3 (drinking songs), Concentration 2 (maintaining enchanting music), Enchanting Music 7 (joviality ), Etiquette 2 (court), Folk Ken 2 (sponsors), French 5 (music terminology), German 3 (music terminology), Guile 2 (lying about his past), Order of Hermes Lore 1 (covenants), Profession: Trouvère 5 + 2 (adulterous love songs), Music 3 (lyre), Latin 4 (music), Swim 1 (diving)
+>**Abilities:** Athletics 2 (grace), Artes Liberales 2 (music), Awareness 2 (searching), Bargain 4 (benefactors), Carouse 3 (drinking songs), Concentration 2 (maintaining enchanting music), Enchanting Music 7 (joviality), Etiquette 2 (court), Folk Ken 2 (sponsors), French 5 (music terminology), German 3 (music terminology), Guile 2 (lying about his past), Order of Hermes Lore 1 (covenants), Profession: Trouvère 5 + 2 (adulterous love songs), Music 3 (lyre), Latin 4 (music), Swim 1 (diving)
 >
 >**Equipment:** Colorful clothes and a small lyre
 >
 >**Encumbrance:** 0 (0)
 >
->**Appearance:** Brogo is short, the height of a seven-year-old child, but stocky, with a bristling black beard and long hair cut short in the front and long in the back. He wears a yellow-and-purplestriped tunic and trousers, and a widebrimmed, yellow hat with a long peacock feather jutting out.
+>**Appearance:** Brogo is short, the height of a seven-year-old child, but stocky, with a bristling black beard and long hair cut short in the front and long in the back. He wears a yellow-and-purple striped tunic and trousers, and a wide-brimmed, yellow hat with a long peacock feather jutting out.
 >
 >Brogo was born and raised in Tournai, where he attended the cathedral school as a young man. A natural with the harp and lyre, Brogo spent most of his young adulthood singing and playing in inns and taverns in Picardy. As his reputation as a trouvère grew, he extended his performing circuit, and now travels throughout France and the Holy Roman Empire, entertaining and entrancing audiences with his songs. Brogo has visited Hermetic covenants before, and wouldn't hesitate to visit a new one.
 >
->Brogo is a composer, using his Performance: Trouvère to create and perform songs. The Aesthetic Quality of his compositions is 12: Com (+4) + Trouvère (5) + Puissant Trouvère (+2) + one-third Artes Liberales (+1). Because of his pride, he will probably attract an infernal muse once his Trouvère Reputation reaches 7.
+>Brogo is a composer, using his Profession: Trouvère to create and perform songs. The Aesthetic Quality of his compositions is 12: Com (+4) + Trouvère (5) + Puissant Trouvère (+2) + one-third Artes Liberales (+1). Because of his pride, he will probably attract an infernal muse once his Trouvère Reputation reaches 7.
 >
 >Brogo can be used as a starting companion-level character.
 
@@ -4553,17 +4575,17 @@ Where poets are literary craftsmen, minstrels are literary performers. They are 
 
 Every region has a type of minstrel specific to it; the most famous are troubadours, trouvères, and minnesingers.
 
-Troubadours come from southern France, Aquitaine, Languedoc, and Provence. Women troubadors, called "trobairtz," enjoy as much respect as their male counterparts. Their poetry is courtly, filled with tales of love unrequited and the chivalrous treatment of ladies, and inspired by the Arabic poetry of their neighbors. The troubador's style is spreading throughout other parts of Mythic Europe. Sordello, a practicing Italian poet living in Florence, is beginning to write poetry in this style. The Albigensian Crusade, aimed at the heretical Cathers in Languedoc, is effectively destroying the tradition of southern troubadours.
+Troubadours come from southern France, Aquitaine, Languedoc, and Provence. Women troubadours, called "trobairitz", enjoy as much respect as their male counterparts. Their poetry is courtly, filled with tales of love unrequited and the chivalrous treatment of ladies, and inspired by the Arabic poetry of their neighbors. The troubadour's style is spreading throughout other parts of Mythic Europe. Sordello, a practicing Italian poet living in Florence, is beginning to write poetry in this style. The Albigensian Crusade, aimed at the heretical Cathars in Languedoc, is effectively destroying the tradition of southern troubadours.
 
-In northern France minstrels are called "trouvères," of whom Chrétien of Troyes is the most famous. Normally concentrating on Arthur and his peers, these poems tend to be less original than the troubadours', but equally as popular.
+In northern France minstrels are called "trouvères", of whom Chrétien of Troyes is the most famous. Normally concentrating on Arthur and his peers, these poems tend to be less original than the troubadours', but equally as popular.
 
-German "minnesingers" copy the northern French style, but their emphasis on knightly combat and sensual love has drawn slight criticism from the church. Walther von der Vogelwiede and Wolfram von Eschenbach are the most famous minnesingers. Walther is living in Vienna at the court of Leopold VI, and Wolfram is living in the royal court of Hermann I of Thuringia, basking in the fame of his recent *Parzival*, which retells the story of the Holy Grail.
+German "minnesingers" copy the northern French style, but their emphasis on knightly combat and sensual love has drawn slight criticism from the church. Walther von der Vogelweide and Wolfram von Eschenbach are the most famous minnesingers. Walther is living in Vienna at the court of Leopold VI, and Wolfram is living in the royal court of Hermann I of Thuringia, basking in the fame of his recent *Parzival*, which retells the story of the Holy Grail.
 
 Some minstrels, like Wolfram von Eschenbach, are poets as well. Such a character would have both a Profession Ability and a Craft Ability, even though there is a certain amount of overlap between the professions of minstrel and poet. Using Wolfram as an example, he would have Profession: Minnesinger and Craft: Poetry. When composing a song, he would use his Profession: Minnesinger Ability to determine the song's Aesthetic Quality. When writing a poem, like *Parzival*, he would use his Craft: Poetry to determine the poem's Aesthetic Quality.
 
 ## Creating Art
 
-Every artist works for fortune and fame. To be remembered beyond one's lifetime is the goal, with everlasting notoriety equaling immortality. Be it book or building stone, memorable performance or lyrical poem, an artist's creation has the potential to carry his name further then his faltering, aging footsteps. Admit it or not, this is the driving passion behind every artist at work in Mythic Europe. This need not be an egotistical or greedy goal. While many characters desire fame for purely selfish reasons, some consider it their spiritual duty to perform to the best of their ability, constantly testing themselves with greater challenges for the sake of their souls.
+Every artist works for fortune and fame. To be remembered beyond one's lifetime is the goal, with everlasting notoriety equaling immortality. Be it book or building stone, memorable performance or lyrical poem, an artist's creation has the potential to carry his name further than his faltering, aging footsteps. Admit it or not, this is the driving passion behind every artist at work in Mythic Europe. This need not be an egotistical or greedy goal. While many characters desire fame for purely selfish reasons, some consider it their spiritual duty to perform to the best of their ability, constantly testing themselves with greater challenges for the sake of their souls.
 
 In Mythic Europe, the quest for artistic immortality is not just a metaphor. Swimming with supernatural beings, Mythic Europe is filled with demons, saints, faeries, and magical beasts with their eyes bent on artists. Angels watch a cathedral climb towards Heaven, demons listen to bawdy rhymes sung in a dimly lit tavern, and faerie princesses laugh at the handsome man juggling fifteen batons ablaze with fire. As an artist advances along his career, he will — if he is any good — attract the attention of a **muse**, a supernatural being interested in promoting the artist's career and subtly influencing his art. Watching, helping covertly, and waiting, once the artist has achieved the acme of his profession, the being will snatch him away, carrying him to the creature's home realm and granting him immortality. The artist lives on, in tales and art, unable to permanently return to the mundane world and kept alive in a supernatural regio.
 
@@ -4583,7 +4605,6 @@ There are several bonuses that a player can add to the Aesthetic Quality of his 
 - Puissant Ability adds +2 to the Ability, just as normal.
 - An artist can double the time it takes to create a piece of artwork and receive a +1 bonus.
 - An artist can work overtime, taxing his physical and mental resources throughout the course of the artwork's creation.
-
 He receives a +1 bonus, but must make an Aging roll as soon as the artwork is completed.
 
 - An artist can add one third of his Artes Liberales score (rounded up) to a piece of artwork that somehow incorporates knowledge of one of the liberal arts.
@@ -4594,7 +4615,7 @@ Finally, a character can experiment with his creation to increase its Aesthetic 
 
 ### Time Spent Creating
 
-Different pieces of artwork take different lengths of time to create. **Ars Magica** uses seasons as the conventional rule to measure the passage of time, and artist characters follow a similar rule. A player should consult the following list to determine the base length of time necessary for creating a piece of artwork. For some smaller pieces of art, more than one may be made in a season. In this case, each separate item has the same Aesthetic Quality. Not every imaginable piece of plastic or performance art is listed. The default category is "season," and troupes will have to decide if a particular piece of art takes a season, a year, or decades to create.
+Different pieces of artwork take different lengths of time to create. **Ars Magica** uses seasons as the conventional rule to measure the passage of time, and artist characters follow a similar rule. A player should consult the following list to determine the base length of time necessary for creating a piece of artwork. For some smaller pieces of art, more than one may be made in a season. In this case, each separate item has the same Aesthetic Quality. Not every imaginable piece of plastic or performance art is listed. The default category is "season", and troupes will have to decide if a particular piece of art takes a season, a year, or decades to create.
 
 **Season:** wall mural, portrait, 2 brass effigy plates, small reliquary, stone relief, romance, 2 short poems, 2 songs, tapestry, illuminated manuscript, 2 brooches, mystery play
 
@@ -4604,9 +4625,9 @@ Different pieces of artwork take different lengths of time to create. **Ars Magi
 
 Once the base time of construction has been determined, multiply it by 1/10 the Aesthetic Quality of the expected finished piece to determine the full length of time required. Round up when dividing the Aesthetic Quality by 10. Essentially, pieces with an Aesthetic Quality from 11 to 20 will take twice as long, and those with an Aesthetic Quality over 21 will take three times as long.
 
-This will seem odd at first, because moreskilled artists take longer to produce a piece of artwork than their lesser-skilled fellows. To a medieval character, "better" does not mean "faster." An artist who is better than his less-skilled neighbor has learned more of the artistic craft in question, and these advanced techniques and methods take longer to produce. Every artist works to his maximum capabilities, using the methods he knows represented by his Craft or Profession score. For example, an artist with a Craft: Goldsmith Ability 8 has been trained in more-precise metalworking procedures than an artist with a Craft: Goldsmith Ability of 4. These advanced procedures take longer to incorporate, hence requiring more time to construct the artwork. Perhaps the method that a character with Craft: Goldsmith Ability 8 uses to make gold foil is much more labor intensive than the method used by an artist with Craft: Goldsmith Ability 4, and produces gold foil that is much thinner and more aesthetically pleasing. When the character with Craft: Goldsmith Ability 4 advances in his career, he will learn this finer method and use it in his work.
+This will seem odd at first, because more-skilled artists take longer to produce a piece of artwork than their lesser-skilled fellows. To a medieval character, "better" does not mean "faster." An artist who is better than his less-skilled neighbor has learned more of the artistic craft in question, and these advanced techniques and methods take longer to produce. Every artist works to his maximum capabilities, using the methods he knows represented by his Craft or Profession score. For example, an artist with a Craft: Goldsmith Ability 8 has been trained in more-precise metalworking procedures than an artist with a Craft: Goldsmith Ability of 4. These advanced procedures take longer to incorporate, hence requiring more time to construct the artwork. Perhaps the method that a character with Craft: Goldsmith Ability 8 uses to make gold foil is much more labor intensive than the method used by an artist with Craft: Goldsmith Ability 4, and produces gold foil that is much thinner and more aesthetically pleasing. When the character with Craft: Goldsmith Ability 4 advances in his career, he will learn this finer method and use it in his work.
 
-Assistants and apprentices decrease the length of time necessary to create a piece of art. The creating character can have assistants equal to his Leadership score. If the piece takes a season to create, each apprentice lessens that time by three and a half days. If creating the piece takes a year, each assistant decreases the time by one week. If the creation takes decades, such as for a cathedral, each assistant decreases the time by one month. Whatever the number of assistants, a piece's length of construction cannot be reduced by them to more than one half the normal time necessary. Additional assistants just get in each others' way.
+Assistants and apprentices decrease the length of time necessary to create a piece of art. The creating character can have assistants equal to his Leadership score. If the piece takes a season to create, each apprentice lessens that time by three and a half days. If creating the piece takes a year, each assistant decreases the time by one week. If the creation takes decades, such as for a cathedral, each assistant decreases the time by one month. Whatever the number of assistants, a piece's length of construction cannot be reduced by them to more than one half the normal time necessary. Additional assistants just get in each other's way.
 
 An artist character may shorten the time it takes to create a piece to half the normal length of time if he wishes. Doing this divides a piece's Aesthetic Quality by half. Assistants can further reduce this time, but the *absolute* lowest a piece of art's length of construction can be is one quarter of the normal length of time. By following these practices, an artist can certainly churn out art, but each piece is well below his overall skill. Very few artists consider this appropriate behavior, and most consider it a vulgar and tawdry practice.
 
@@ -4650,9 +4671,9 @@ Plays, musical ensembles, and other joint performances require many players. Use
 
 >#### Art as an Arcane Connection
 >
->Due to the time and labor spent on creating a piece of art, anything with an Aesthetic Quality is an Arcane Connection to its creator. An Arcane Connection exists between the artist and the original piece of art, so that copies of the art (a copied book, poem, or miracle play performance) are not Arcane Connections. The length of time an that artistic Arcane Connection lasts depends on the type of art; the Arcane Connection of a stone sculpture lasts longer that that of a poem. Roughly, a piece of art maintains an Arcane Connection to its creator for a length of time equal to half the time it took to create it. For instance, a wall mural that took a season to paint will be an Arcane Connection to the painter for six weeks.
+>Due to the time and labor spent on creating a piece of art, anything with an Aesthetic Quality is an Arcane Connection to its creator. An Arcane Connection exists between the artist and the original piece of art, so that copies of the art (a copied book, poem, or miracle play performance) are not Arcane Connections. The length of time that artistic Arcane Connection lasts depends on the type of art; the Arcane Connection of a stone sculpture lasts longer than that of a poem. Roughly, a piece of art maintains an Arcane Connection to its creator for a length of time equal to half the time it took to create it. For instance, a wall mural that took a season to paint will be an Arcane Connection to the painter for six weeks.
 >
->Assistants muddy the connection. Subtract one week from the length of time an arcane connection lasts for every assistant the creating artist had. Some creations are so complex, requiring so many hands, that no tangible arcane connection can be found. Castles, churches, and cathedrals are not Arcane Connections to the architect who designed them, nor to the foreman mason who directed their construction.
+>Assistants muddy the connection. Subtract one week from the length of time an Arcane Connection lasts for every assistant the creating artist had. Some creations are so complex, requiring so many hands, that no tangible arcane connection can be found. Castles, churches, and cathedrals are not Arcane Connections to the architect who designed them, nor to the foreman mason who directed their construction.
 >
 >Some Arcane Connections will be difficult to collect, especially if the artist is a performer. A new tumbling routine, for example, is an Arcane Connection to the tumbler, but it is not as easily grabbed as a silver spoon or vernacular poem. Magi will have to use Imaginem magic to hold and retain the sounds and sights of the performance. For example, a magus could use a variation of *The Captive Voice* to collect a poet's spoken poem, the captured words acting as an Arcane Connection to the poet. However, as soon as the spell ends, the words are "released." Fixing this connection would require that the maga invent a device or Ritual spell to hold the voice indefinitely.
 >
@@ -4662,9 +4683,9 @@ Plays, musical ensembles, and other joint performances require many players. Use
 
 Since books are rarely written about an artist's trade, artist characters can study pieces of art of their discipline to increase their knowledge. The Aesthetic Quality of a piece of artwork functions as a study source for artists who participate in the same profession. Divide the artwork's Aesthetic Quality by two to determine the Advancement total. The character studying the piece of art must spend a season observing it, after which he gains experience points in his Craft or Profession Ability. The object must have been made using the same Craft or Profession Ability in which the character is gaining experience points. A character cannot study his own artwork for experience point gain.
 
-Performers must do more than just see a new performance to actively study it for experience point gain. They must practice it, contemplate it, compare it to older examples of similar performance, and fully comprehend what makes it new and interesting.
+Performers must do more than just see a new performance to actively study it for experience point gain. They must practice it, contemplate it, compare it to older examples of similar performance, and fully comprehend what makes it new and interesting. It takes one season to study a single work of art, and each work of art may only be studied once, like a tractatus.
 
-> **Art Advancement Total: Aesthetic Quality/2**
+> **Source Quality: Aesthetic Quality/2**
 
 ## Artist Reputation
 
@@ -4681,13 +4702,13 @@ Other ways to gain Artist Reputation experience points are:
 - Increasing the character's associated Craft or Profession Ability awards 1 Artist Reputation experience point
 - Gaining a benefactor grants 3 experience points
 - Gaining a patron grants 6 experience points
-- Attracting a muse grants a one-time gain of a number of experience points equal to the magnitude of the patron's Might
+- Attracting a muse grants a one-time gain of a number of experience points equal to the magnitude of the muse's Might
 - Hosting a feast or event that sacrifices a season of time grants 1 experience point
 - Becoming a patron to another, younger artist grants 1 experience point
 - Traveling to a distant country to study the culture's art grants 1 experience point
 - Studying with an artist with an Artist Reputation score 2 higher than the character's earns a one-time bonus of experience points equal to the instructor's Artist Reputation
 - Study with a supernatural creature other than the character's muse grants experience points equal to the magnitude of the creature's Might score
-- Going on an adventure and personally doing things that broadcast a character's skill and renown earn him 1 Artist Reputation experience point in addition to any other experience points the storyguide
+- Going on an adventure and personally doing things that broadcast a character's skill and renown earn him 1 Artist Reputation experience point in addition to any other experience points the storyguide might award the player
 
 Artist Reputation can decrease, as well, and there are a number of things that subtract experience points from a character's Reputation score. It is easier to lose Artist Reputation experience points than gain them.
 
@@ -4701,9 +4722,9 @@ Artist Reputation can decrease, as well, and there are a number of things that s
 
 In a way, a good Artist Reputation is its own reward. It helps an artist character find patrons and benefactors, and determines who in the area has heard of the artist. A good Artist Reputation is more important for an artist than Reputations generally are for a regular character, because the artist depends on sponsors for his livelihood. No one wants to support an untalented minstrel, illuminator, or architect, and those poor souls will spend their old age begging for scraps of bread. Usually, an artist has few other talents to fall back on; if his art fails to appeal, he starves.
 
-Certain additional benefits are gained from having a higher Artist Reputation. Once a character's Artist Reputation is 6, she can add +1 to any social roll in which her status would impress or influence a person. Each additional increase in a character's Artist Reputation confers an additional +1 to such a roll, so that a character with an Artist Reputation of 8 gets a +3 bonus to social interactions. This bonus is a situational bonus and can not be applied to seasonal activities.
+Certain additional benefits are gained from having a higher Artist Reputation. Once a character's Artist Reputation is 6, she can add +1 to any social roll in which her status would impress or influence a person. Each additional increase in a character's Artist Reputation confers an additional +1 to such a roll, so that a character with an Artist Reputation of 8 gets a +3 bonus to social interactions. This bonus is a situational bonus and cannot be applied to seasonal activities.
 
-When a character's Artist Reputation reaches 7, the supernatural powers of Mythic Europe take notice. The character attracts a minor **muse** (see insert). While such a creature might have been curious about the artist before, at this level of renown it will attach itself to the artist and become her supernatural patron. A player character does not have to accept the aid of a muse if he does not wish it. A muse cannot force its patronage on a character. If a character does not accept an interested muse, he will not get a another chance until his (Artist) Reputation rises. He does not receive any of the supernatural benefits, or consequences, of the muse.
+When a character's Artist Reputation reaches 7, the supernatural powers of Mythic Europe take notice. The character attracts a minor **muse** (see insert). While such a creature might have been curious about the artist before, at this level of renown it will attach itself to the artist and become her supernatural patron. A player character does not have to accept the aid of a muse if he does not wish it. A muse cannot force its patronage on a character. If a character does not accept an interested muse, he will not get another chance until his (Artist) Reputation rises. He does not receive any of the supernatural benefits, or consequences, of the muse.
 
 In play, the character does not necessarily know he has attracted the attention of a supernatural muse. Faeries like to be evident and devils clandestine, angels enigmatic and magical creatures authoritative, but no hard and fast rules apply to the many types of artist-patron relationships. Stories circulate about the supernatural muses of famous artists; this sculptor is accused of demonic aid in his triptych, and that fellow paints like he has the hands of an angel. Besides providing assistance, patron muses should embroil their clients in occasional stories.
 
@@ -4725,7 +4746,7 @@ The exception to this rule is if an artist character is caught engaging in truly
 
 On the fateful day when the character's Artist Reputation does reach 11, he becomes a **legendary artist**, and his muse removes him from the mundane world and places him in the creature's home, typically a high-level regio. After all these years of supernatural aid, the artist becomes part of the realm of his muse, no longer simply being affiliated with it. Some muses leave a magical corpse behind, but this is often not necessary, for the vanished artist will be presumed dead eventually. Death feasts will be held and a burial vault constructed. The character is no longer a living character but a creature of the realm to which he has been taken. Becoming a legendary artist usually removes the character from play, although some high-powered sagas may wish to still allow a player to use his legendary artist character. Naturally, if a character never accepted a muse as a patron, none of this happens. You may keep calculating his Artist Reputation, but the substantial benefits end at 10.
 
-For artists with Divine muses, death is not a ruse. The character actual dies and is accepted into the Divine realm. He still becomes a legendary artist, mechanically following the same rules as characters with infernal, faerie, and magic patrons, but is actually a divine spirit.
+For artists with Divine muses, death is not a ruse. The character actually dies and is accepted into the Divine realm. He still becomes a legendary artist, mechanically following the same rules as characters with infernal, faerie, and magic patrons, but is actually a divine spirit.
 
 If the muse failed to replace a player character minor patron, it now swoops in and tries to abduct the artist from underneath the patron's nose. If the player character patron is exceptionally powerful, the supernatural patron will enlist aid from denizens of its realm. If the abduction succeeds, the artist becomes a legendary artist. If it fails, the artist is forever denied this status, and is left to his player character patron.
 
@@ -4739,7 +4760,7 @@ If the muse failed to replace a player character minor patron, it now swoops in 
 
 Once a character becomes a legendary artist, he is no longer a living being, but a creature of the supernatural realm to which he has been taken. He gains a Might score equal to two times his highest Craft or Profession Ability, and a number of supernatural powers equal to that same Craft or Profession Ability. The highest magnitude any individual power can be is equal to the character's Dexterity or Communication Characteristic; again, the Characteristic that was used in calculating his Artist Total. Use the Hermetic Arts as a guideline for the powers' magnitude. Likely powers will probably include the Forms of Imaginem and Mentem, as well as the Form most associated with his art career: Terram, Herbam, etc. The character gains his Might and associated powers the instant he is taken from the mundane realm by his supernatural patron.
 
-Legendary artists are immortal. They do not age, nor do they change, becoming part of the immutable fabric of their associated realm. This has advantages and disadvantage for the character. While dying from wounds is still possible, it is unlikely, and even the most grievous wounds will heal. Diseases cannot affect the character, and even the most debilitating spells will eventually wear off, as the affected character returns to the unchanged state at which he became a legendary artist. Assume that every dire physical and mental disability will vanish in a season. A legendary artist can still be slain, but any wound less than Dead will heal without a problem.
+Legendary artists are immortal. They do not age, nor do they change, becoming part of the immutable fabric of their associated realm. This has advantages and disadvantages for the character. While dying from wounds is still possible, it is unlikely, and even the most grievous wounds will heal. Diseases cannot affect the character, and even the most debilitating spells will eventually wear off, as the affected character returns to the unchanged state at which he became a legendary artist. Assume that every dire physical and mental disability will vanish in a season. A legendary artist can still be slain, but any wound less than Dead will heal without a problem.
 
 There are two disadvantages, however. As an unchanging mythical being, the character is susceptible to Hermetic spells that affect supernatural beings. Also, increasing his Abilities is problematic, because his supernatural nature constantly wishes to return to the exact state it was in when he was accepted as a legendary artist. Perdo Vim spells that reduce Might can kill a legendary artist. But like wounds, if a character's Might is not reduced to 0, he will "heal" Might, returning to his full total in a single day. Rego Vim spells, wards, and a covenant's *Aegis of the Hearth* can dampen a legendary artist's powers and even keep him from entering (or exiting) an area.
 
@@ -4767,11 +4788,11 @@ If you have access to *Realms of Power: Magic*, or *Realms of Power: Faerie*, yo
 >
 >The drawback is that this bond of a muse's patronage grants Warping points to the recipient. The artist gains 1 Warping point a year from a minor muse and 3 from a major muse. The effects of these Warping points are detailed in **Ars Magica Fifth Edition**, page 168.
 >
->Since there are several ways for player characters to have a Might score, they may also serve as muses to artists. Player character muses can not bequeath Might to the artist to increase his artwork's Aesthetic Quality. They must work within their current abilities to aid the artist, typically by steering more-important mundane sponsors toward the artist or finding means to improve the artist's artworking Ability through books or teachers.
+>Since there are several ways for player characters to have a Might score, they may also serve as muses to artists. Player character muses cannot bequeath Might to the artist to increase his artwork's Aesthetic Quality. They must work within their current abilities to aid the artist, typically by steering more-important mundane sponsors toward the artist or finding means to improve the artist's artworking Ability through books or teachers.
 
 >#### Story Seed: An Interested Investor
 >
->Most covenants have specialists typically craftsmen extremely skilled in their trade. Since the line between artist and craftsman is blurry, an exceptionally skilled craftsman could be considered an artist, especially by those living outside the covenant. The local priest has noticed the exquisite craftsmanship of the covenant's illuminator, goldsmith, mason, or what have you, and told his superior, the bishop. The bishop, always eager to finance beautiful art for his diocese, sends a team to investigate the covenant.
+>Most covenants have specialists, typically craftsmen, extremely skilled in their trade. Since the line between artist and craftsman is blurry, an exceptionally skilled craftsman could be considered an artist, especially by those living outside the covenant. The local priest has noticed the exquisite craftsmanship of the covenant's illuminator, goldsmith, mason, or what have you, and told his superior, the bishop. The bishop, always eager to finance beautiful art for his diocese, sends a team to investigate the covenant.
 >
 >Since artists and academics are linked, often through ecclesiastical connections, this story could include all sorts of characters. The bishop knows scholars and artists, and sends a combined team to the covenant. He sends scholars because they are intelligent and he will trust their report. The artists will offer their valuable critique of the specialist's work.
 >
@@ -4783,7 +4804,7 @@ Every artist needs a patron or a benefactor, or both, to produce artwork. Art is
 
 Unlike Hermetic magi, who need a lab, and craftsmen, who need a workshop, artist characters are assumed to have the space and materials they need to make artwork once they have gained a sponsor. Anyone with extra money can serve as an artist's sponsor, from wealthy peasants and prosperous merchants to rich princes and affluent clerics. Certain criteria apply as the character's Artist Reputation grows, however, forcing him to find wealthier, more-powerful sponsors as his career blossoms.
 
-It takes a season to find a sponsor, in which it is assumed that the artist is doing everything in his power to find the bestsuited candidate: attending feasts, proffering flattery, praising, and conniving. The player makes a Communication + Bargain + Artist Reputation + stress die roll against an Ease Factor of 12 + modifiers. If successful, he becomes the sponsor's client. If the roll fails, the negotiations are for naught, although the character can try again with the same sponsor the next season. Such a repeat request allows the player a +3 bonus to the next season's roll. If the roll botches, the artist is absolutely refused and must find another sponsor altogether.
+It takes a season to find a sponsor, in which it is assumed that the artist is doing everything in his power to find the best-suited candidate: attending feasts, proffering flattery, praising, and conniving. The player makes a Communication + Bargain + Artist Reputation + stress die roll against an Ease Factor of 12 + modifiers. If successful, he becomes the sponsor's client. If the roll fails, the negotiations are for naught, although the character can try again with the same sponsor the next season. Such a repeat request allows the player a +3 bonus to the next season's roll. If the roll botches, the artist is absolutely refused and must find another sponsor altogether.
 
 **Finding a Sponsor: Communication + Bargain + Artist Reputation + stress die vs. 12 + modifiers**
 
@@ -4822,7 +4843,7 @@ Mundane artists cannot study magically created art for experience point gain. By
 
 This creates a bit of tension between mundane artists and magi who create art. In many sagas, not every member of the population knows of the Order of Hermes — perhaps only lords, scholars, and clergy who live in proximity to a covenant. Peasants, craftsmen, and artists might have heard rumors of an organized group of wizards, but many view magic as a tool of the devil. Seeing a piece of art without the characteristic identifiers of its construction will shock many artists, and be disconcerting at the least. Is it diabolic, a miracle, or something else entirely? Because most magi hesitate in rousing the rabble, those magi who make art don't disseminate it, keeping it to beautify their covenant or using it as a gift to a Hermetic colleague.
 
-#### Hhermetic spells
+#### Hermetic Spells
 
 Here are a few of the spells Hermetic magi have invented to make pieces of art.
 
@@ -4840,7 +4861,7 @@ R: Voice, D: Mom, T: Ind, Ritual
 
 This spell creates a painted miniature of a person or scene within voice range of the caster. The picture is painted on a wooden panel, and the spell's requisites include the required mineral-based pigments and the egg yolk necessary for binding the paint.
 
-(Base 2, +2 Voice, + 2 requisites, +1 complexity: minimum level for ritual spell)
+(Base 2, +2 Voice, +2 requisites, +1 complexity: minimum level for ritual spell)
 
 **Conjuring the House of God**<br>
 CrTe Level 45<br>
@@ -4848,15 +4869,15 @@ R: Touch, D: Mom, T: Ind, Ritual
 
 This spell creates a church that towers overhead with either barrel or groin vault ceilings, impressive tower facades, and stained glass windows. Its footprint covers 19,000 square feet, and its towers can be up to 140 feet high. The caster determines the exact design of the church, based on contemporary styles. This church has not been consecrated, and is a church only in the architectural style of the building. Spontaneously appearing churches, particularly those larger than many cathedrals, will certainly raise a population's suspicions.
 
-(Base 3 +1 Touch, +6 size, +3 elaborate design)
+(Base 3, +1 Touch, +6 size, +3 elaborate design)
 
 ### The Maestro: A Mythic Companion
 
-Rising above the sea of regular artists are a select few who posses truly inspirational talents. Stories are told about these exceptional men and woman, not so much for their creations, which can be brilliant, as for their lives and numerous adventures. Known for their extravagances and exaggerated personalities, a mythic artist lives a turbulent life, filled with excitement, seasoned with desperation, and fraught with perils. Such an individual is called a maestro, regardless of his particular medium.
+Rising above the sea of regular artists are a select few who possess truly inspirational talents. Stories are told about these exceptional men and women, not so much for their creations, which can be brilliant, as for their lives and numerous adventures. Known for their extravagances and exaggerated personalities, a mythic artist lives a turbulent life, filled with excitement, seasoned with desperation, and fraught with perils. Such an individual is called a maestro, regardless of his particular medium.
 
 No one knows why maestros are touched with such a magical nature. Unlike the heroic blood of some Mercere Redcaps, or the mythic blood of several magi of the Order, there is no direct link between a maestro and his ancestors. Some suggest that it is the whim of the old gods or faerie lords that imbues an artist with magical potential, and others speculate that the divine and infernal realms select individuals at random, playing at a game that transcends mortal understanding. Maestros are granted their powers by one of the four supernatural realms, and because many maestros' powers are similar, it is often hard to determine which of the four realms supplies them with their supernatural abilities.
 
-Players may play a maestro, selecting the character as a Mythic Companion, similar to the variety of Mythic Companions that exist in other **Ars Magica** supplements (see, for example, *Realms of Power: The Infernal*, pages 81 – 82). The character must take the special Virtue: Maestro, which then allows him to have twice as many points of Virtues as he has points of Flaws. This special Virtue also allows the character to select one the following Minor Virtues at no cost: Affinity with Craft or Profession Ability, Free Expression, Inspirational, or Puissant Craft or Profession Ability. The chosen Craft or Profession Ability must be the primary medium of the artist's art. The player may then purchase up to 10 points of Flaws for the character, with each point spent allowing him to purchase two points of Virtues. It is possible, then, for a maestro character to have 21 points of Virtues and 10 points of Flaws.
+Players may play a maestro, selecting the character as a Mythic Companion, similar to the variety of Mythic Companions that exist in other **Ars Magica** supplements (see, for example, *Realms of Power: The Infernal*, pages 81 – 82). The character must take the special Virtue: Maestro, which then allows him to have twice as many points of Virtues as he has points of Flaws. This special Virtue also allows the character to select one of the following Minor Virtues at no cost: Affinity with Craft or Profession Ability, Free Expression, Inspirational, or Puissant Craft or Profession Ability. The chosen Craft or Profession Ability must be the primary medium of the artist's art. The player may then purchase up to 10 points of Flaws for the character, with each point spent allowing him to purchase two points of Virtues. It is possible, then, for a maestro character to have 21 points of Virtues and 10 points of Flaws.
 
 The player must decide which of the four realms holds sway over the character, and the character is considered to be affiliated with that realm. Maestros are allowed to select Hermetic Virtues and Flaws that seem appropriate. Maestros may not have The Gift, and their magical affiliation with a realm does not affect mundanes like The Gift does. Maestros may also choose Heroic Virtues and Flaws (*Houses of Hermes: True Lineages* pages 103 – 109). A maestro character must have one of the following Hermetic Flaws: Susceptibility to Divine Power, Susceptibility to Faerie Power, or Susceptibility to Infernal Power.
 
@@ -4864,9 +4885,9 @@ Like a magus character, a maestro can learn any Ability during character creatio
 
 Maestros are rare, perhaps one in a thousand artists. While not as rare as the Blood of Heroes that runs through some Redcaps' veins (see *Houses of Hermes: True Lineages*), it would be odd for two or more to be found in a single saga. One per troupe is a good idea, as more would diminish their uniqueness, but ultimately this is a decision for you and your group.
 
-Maestros are renowned artists, but that is not their only role, and other Virtues highlight their lifestyle outside their studio or workshop. Truly flamboyant, persnickety artists are more well known during the Renaissance than the Middle Ages, but players can use examples of those anachronistic artists' behavior as ideas for their characters. Leonardo da Vinci, for example, barely worked, preferring to draw in his sketchbook than actually finish commissioned paintings. Brunelleschi was more interested in his feud with fellow artist Ghiberti than receiving awarded commissions. Many wonderful examples of tempestuous artists can be found in Giorgio Vasari's sixteenth century book, *Lives of the Artists*. While few medieval artists are presented, the book is full of ideas for players and storyguides, and it is readily available on the Internet.
+Maestros are renowned artists, but that is not their only role, and other Virtues highlight their lifestyle outside their studio or workshop. Truly flamboyant, persnickety artists are more well known during the Renaissance than the Middle Ages, but players can use examples of those anachronistic artists' behavior as ideas for their characters. Leonardo da Vinci, for example, barely worked, preferring to draw in his sketchbook than actually finish commissioned paintings. Brunelleschi was more interested in his feud with fellow artist Ghiberti than receiving awarded commissions. Many wonderful examples of tempestuous artists can be found in Giorgio Vasari's sixteenth-century book, *Lives of the Artists*. While few medieval artists are presented, the book is full of ideas for players and storyguides, and it is readily available on the Internet.
 
-Finally, "maestro" is an Italian word that means "master." If you saga is primarily set in another area of Mythic Europe, you might want to use another vernacular language's word for "master" to identify this sort of mythic companion. Examples are "maestro" in Spanish, "maître" in French, "meister" in German, and "mayster" in Middle English.
+Finally, "maestro" is an Italian word that means "master." If your saga is primarily set in another area of Mythic Europe, you might want to use another vernacular language's word for "master" to identify this sort of mythic companion. Examples are "maestro" in Spanish, "maître" in French, "meister" in German, and "mayster" in Middle English.
 
 #### New Virtues
 
@@ -4877,7 +4898,7 @@ These Virtues and Flaws exist to aid and define maestro characters, although you
 
 The character has had some success as an artist and begins the game with an Artist Reputation of 2. Only characters with an Artist Reputation may take this Virtue. Characters may take this Virtue twice, for a total beginning Artist Reputation of 4.
 
-**Artistic Renown**<br>
+**Hermetic Inclination in (Form)**<br>
 *Major Supernatural Virtue*
 
 The character does not have The Gift, but because of his magical nature, he can study one Hermetic Form and use that knowledge in his profession. The Form must be Herbam, Imaginem, Mentem, or Terram, and must be connected to the artist's primary type of artwork. The character starts with a score of 0 in the Art, and is allowed to increase it with character generation experience points, as well as other means of study during play. However, since he doesn't have an understanding of Hermetic magic, summae and tractatus only provide half their normal Quality. Having a score in Magic Theory removes this penalty to studying books. He may add the Form Bonus from his score to the Aesthetic Quality of created artwork. He may also instill some magical effects into his artwork. His score in the Form offers the maestro no Magic Resistance, but does provide a Form Bonus in appropriate situations (see **ArM5**, page 77).
@@ -4927,11 +4948,11 @@ Magi and maestros can instill spell-like effects into artwork. This procedure is
 
 Maestros with the Virtue: Hermetic Inclination in (Form) may instill spell-like effects into their artwork while they are creating it. Any spell-like power from the specific Form may be instilled. However, the Range of the effect must be Personal, meaning that the magic affects the artwork, and the Duration must be a constant effect (**ArM5**, page 99). Any Technique may be used in combination with the Form. The spell-like power cannot have Hermetic requisites, as those are too complicated for a maestro to instill.
 
-Once the final effect level of the power is determined, the player compares his character's Dexterity + Craft Ability + Form to the final level of the effect. Performance maestros use their Communication + Profession Ability + Form to generate a total. This total is affected by the Realm Interaction Table (**ArM5**, page183). For each point of this total above the final level of effect, he gains a point towards the magical artwork's completion. When the accumulated points equal the level of the effect, the item is finished. Some artwork requires more than one season of work to complete, so instilling an effect may not necessarily prolong the process. Maestros must invest their energy into their magical work, rather than vis. Instilling a magical effect in a piece of artwork costs a Fatigue Level per 10 levels of the spell-like power. This is a semi-permanent loss, persisting as long as the maestro works on the artwork.
+Once the final effect level of the power is determined, the player compares his character's Dexterity + Craft Ability + Form to the final level of the effect. Performance maestros use their Communication + Profession Ability + Form to generate a total. This total is affected by the Realm Interaction Table (**ArM5**, page 183). For each point of this total above the final level of effect, he gains a point towards the magical artwork's completion. When the accumulated points equal the level of the effect, the item is finished. Some artwork requires more than one season of work to complete, so instilling an effect may not necessarily prolong the process. Maestros must invest their energy into their magical work, rather than vis. Instilling a magical effect in a piece of artwork costs a Fatigue Level per 10 levels of the spell-like power. This is a semi-permanent loss, persisting as long as the maestro works on the artwork.
 
 >#### Example Creation of Magical Artwork
 >
->Grifo, a famous maestro affiliated with the Divine realm, is commissioned to paint a wall mural for the bishop of Milan. The Aesthetic Quality of the piece will be 18: Dexterity (+3) + Painter Ability 8 + bonuses (7): Puissant Painting (+2) + the Virtue: Free Expression (+3) + Form Bonus (+2) (Hermetic Inclination in Imaginem, with a score of 10). It will take 2 seasons to paint the mural.
+>Grifo, a famous maestro affiliated with the Divine realm, is commissioned to paint a wall mural for the bishop of Milan. The Aesthetic Quality of the piece will be 18: Dexterity (+3) + Painter Ability 8 + bonuses (7): Puissant Painter (+2) + the Virtue: Free Expression (+3) + Form Bonus (+2) (Hermetic Inclination in Imaginem, with a score of 10). It will take 2 seasons to paint the mural.
 >
 >Because of his Hermetic Inclination Virtue, Grifo wants to add a little magical spice to his mural. The mural depicts Christ's crucifixion on Mount Calvary. Grifo would like the sound of weeping to emanate from the mural, blood to appear to seep from Christ's wounds, and the seeping blood to smell. The base level of effect is 3, a Creo Imaginem effect that affects three senses, and the Target is Individual, augmented by 1 magnitude for the size of the wall. Including the constant effect, the final level of effect is 14 (Base 3, +1 Size, +2 magnitudes, +4 levels for constant effect). Grifo's Dexterity (+3) + Painter Ability (8) + Puissant Painter (+2) + Hermetic Inclination: Imaginem (10) is 23. The wall mural is painted in a church with a Divine aura of +3, boosting Grifo's total to 26. Each season, Grifo gains 12 points towards the completion of the magical effect. He finishes instilling the magical effect in 2 seasons, the same length of time it took to paint the fresco. Throughout the two seasons, Grifo is reduced to the Weary Fatigue Level.
 
@@ -4957,7 +4978,7 @@ Born in Macedonia and educated in Athens as a student of Plato, Aristotle is the
 
 *Categories, On Interpretation (*the *logica vetus).* Each is a tractatus on Artes Liberales, Quality 10.\*
 
-*Metaphysics.* The first and the third book are both tractatus on Philosophiae, Quality 12. The second book is a tractus on Pagan Theology, Quality 10.\*
+*Metaphysics.* The first and the third book are both tractatus on Philosophiae, Quality 12. The second book is a tractatus on Pagan Theology, Quality 10.\*
 
 *Nicomachean Ethics.* Ten books equaling a summa on Philosophiae (Moral), Level 6, Quality 10. In 1220, only Books II and III are available in Latin (treat these as a single tractatus reduced to Quality 4).\*
 
@@ -4971,9 +4992,9 @@ Born in Macedonia and educated in Athens as a student of Plato, Aristotle is the
 
 #### Euclid (ca. 300 BC)
 
-A Greek mathematician who taught at Alexandria, Euclid's work are the foundation for the study of geometry.
+A Greek mathematician who taught at Alexandria, Euclid's works are the foundation for the study of geometry.
 
-*Elementa.* 13 books that act as a summa on Artes Liberales, Level 4, Quality 8\* (Quality 9 in Greek).
+*Elementa.* 13 books that act as a summa on Artes Liberales, Level 4, Quality 14\* (Quality 15 in Greek).
 
 *Optica.* A tractatus on Artes Liberales, Quality 8\* (Quality 9 in Greek).
 
@@ -4983,7 +5004,7 @@ Statesman, orator, and philosopher of Rome, Cicero is considered one of the grea
 
 *De inventione.* Comprised of three books, each a tractatus on Artes Liberales, Quality 14.\*
 
-#### Ptolemy (mid-third century)
+#### Ptolemy (mid-second century)
 
 Ptolemy was an astronomer and mathematician teaching at Alexandria. His astrological work is mathematically ingenious, although limited by the observational capabilities of his day. The *Almagest* is the definitive work on astrology in the thirteenth century, both in the east and the west.
 
@@ -5027,7 +5048,7 @@ An African-born Roman, Martianus composed his *De nuptiis philologiae et Mercuri
 
 #### Boethius (c. 475-524)
 
-A Roman statesman and Christian, Boethius wrote extensively on mathematics, science, logic, and theology. He translated several of Aristotle's texts, introducing this knowledge to the west. Furthering Plotinus' work, he also firmly atttached parts of Christian theology to neoplatonism. Falling out of royal favor, he was imprisoned and later executed. During his internment, he wrote *The Consolation of Philosophy*, a vastly influential text on philosophy and metaphysics.
+A Roman statesman and Christian, Boethius wrote extensively on mathematics, science, logic, and theology. He translated several of Aristotle's texts, introducing this knowledge to the west. Furthering Plotinus' work, he also firmly attached parts of Christian theology to Neoplatonism. Falling out of royal favor, he was imprisoned and later executed. During his internment, he wrote *The Consolation of Philosophy*, a vastly influential text on philosophy and metaphysics.
 
 *The Consolation of Philosophy.* Four books that together make a tractatus on Philosophiae, Quality 9.
 
@@ -5035,7 +5056,7 @@ A Roman statesman and Christian, Boethius wrote extensively on mathematics, scie
 
 A Byzantine Emperor, Justinian commissioned the *Corpus Juris Civilis* ("Body of Civil Law"), a massive compilation of all existent Roman laws.
 
-*Digest.* This section of the *Corpus Juris Civilis* is a summae on Civil and Canon Law (Civil Law), Level 5, Quality 7.
+*Digest.* This section of the *Corpus Juris Civilis* is a summa on Civil and Canon Law (Civil Law), Level 5, Quality 7.
 
 *Institutiones.* This second section of the *Corpus Juris Civilis* is used as a student manual, and is a tractatus compiled by Theophilus and Dorotheus on Civil and Canon Law (Civil Law), Quality 8.\*
 
@@ -5043,17 +5064,17 @@ A Byzantine Emperor, Justinian commissioned the *Corpus Juris Civilis* ("Body of
 
 A Roman-born teacher at Constantinople, Priscian wrote a detailed, systematic approach to the Latin language.
 
-*Institutione grammaticae.* Comprised of 16 books that form a summa on Artes Liberales (Grammar), Level 5, Quality 9.\*
+*Institutiones grammaticae.* Comprised of 16 books that form a summa on Artes Liberales (Grammar), Level 5, Quality 9.\*
 
 #### Alcuin of York (c. 735-804)
 
-An Englishman, Alcuin was given the task by Charlemagne of creating and managing the Palace School at Aachen, Charlemagne's capitol. A competent and wellread philosopher, Alcuin continued the tradition of placing great emphasis on logic and theological philosophy.
+An Englishman, Alcuin was given the task by Charlemagne of creating and managing the Palace School at Aachen, Charlemagne's capital. A competent and well-read philosopher, Alcuin continued the tradition of placing great emphasis on logic and theological philosophy.
 
 *Dialectica*. A tractatus on Artes Liberales (Logic), Quality 9.
 
 #### John Scottus Eriugena (c. 800-c. 877)
 
-An Irishman and excellent Greek translator, John was commissioned to engage in a controversy over predestination, refuting the heretical idea that predestination of was two types: the good predetermined to go to heaven and the wicked to hell. Basing his argument on Augustine and Boethius, John said that predestination is not double, and that God, being good, could not create evil.
+An Irishman and excellent Greek translator, John was commissioned to engage in a controversy over predestination, refuting the heretical idea that predestination was of two types: the good predetermined to go to heaven and the wicked to hell. Basing his argument on Augustine and Boethius, John said that predestination is not double, and that God, being good, could not create evil.
 
 *Periphyseon* ("About Nature"). A summa on Theology based on the Greek and Latin Christian Fathers, Level 4, Quality 8.
 
@@ -5063,7 +5084,9 @@ A Persian philosopher who wrote extensively on medicine and alchemy. His most in
 
 *De salibus et aluminibus.* Philosophiae summa, Level 3, Quality 6.
 
-*Lumen luminis.* Philosophiae Tractatus, Quality 6. *Liber septuaginta.* A book of 70 alchemical formulae, Philosophiae summa Level 5, Quality 6.
+*Lumen luminis.* Philosophiae Tractatus, Quality 6.
+
+*Liber septuaginta.* A book of 70 alchemical formulae, Philosophiae summa Level 5, Quality 6.
 
 If read in the original Arabic, increase the Quality of all the mentioned books by +1.
 
@@ -5089,7 +5112,7 @@ Philosopher and theologian, and Archbishop of Canterbury, Anselm's greatest inte
 
 *Cur Deus Homo* ("Why Did God Become Man?"). A tractatus on Theology, Quality 8.
 
-*Proslogion.* A tractatus on Theology that explains the nature and self-evident existence of God as "that-than-which-nothing-greater-can-be-thought," Quality 8.\*
+*Proslogion.* A tractatus on Theology that explains the nature and self-evident existence of God as "that-than-which-nothing-greater-can-be-thought", Quality 8.\*
 
 #### Gratian (twelfth century)
 
@@ -5107,6 +5130,7 @@ Educated at Paris and Chartres before becoming one of the most controversial mas
 
 *Sic et Non* ("Yes and No" or "For and Against"). A summa collecting seeming contradictions from scripture and authoritative texts and their reconciliation, Theology Level 5, Quality 13.
 
+#### Bernard of Chartres (c. 1070-1130)
 
 Chancellor and instructor at the cathedral school of Chartres, Bernard was a major proponent of Platonic ideas. Like many, he attempted to reconcile Plato with Aristotle, leaning heavily toward the former. He was the teacher of several influential philosophers, including William of Conches.
 
@@ -5118,7 +5142,7 @@ Educated at Chartres and teacher at the cathedral school of Tours, Bernard wrote
 
 #### St. Bernard of Clairvaux (1090-1153)
 
-A Cistercian monk and verbose defender of the Church, Bernard was decisively antiintellectual, arguing against the philosophical writings of schoolmen with his mystical interpretations of God. He succeeded in condemning certain theological works of Peter Abelard and others.
+A Cistercian monk and verbose defender of the Church, Bernard was decisively anti-intellectual, arguing against the philosophical writings of schoolmen with his mystical interpretations of God. He succeeded in condemning certain theological works of Peter Abelard and others.
 
 #### William of Conches (c.1100-c. 1150)
 
@@ -5128,15 +5152,15 @@ Student of Bernard of Chartres and teacher at Paris, William was one of the firs
 
 #### Adelard of Bath (c.1080-c. 1150)
 
-Incurably curious, Adelard extensively traveled Arabic lands, Spain, and the Levant in search of knowledge. More interested in science then theology, Adelard contributed both to the scholastic method and the overall understanding of the natural sciences.
+Incurably curious, Adelard extensively traveled Arabic lands, Spain, and the Levant in search of knowledge. More interested in science than theology, Adelard contributed both to the scholastic method and the overall understanding of the natural sciences.
 
 *Questiones Naturales.* A tractatus on Philosophiae (metaphysics), Quality 9.\*
 
-#### Peter Lombard(c. 1100-c. 1164)**
+#### Peter Lombard (c. 1100-c. 1164)
 
-"The Master of Sentences," Peter Lombard was an Italian trained in theology at Bologna, Reims, and then Paris. While teaching at the cathedral school of Notre Dame, he wrote his monumental *Quatuor libri Sententiarum*, "The Book of Sentences," which covers the entire theological doctrine of Christianity and unites it as a whole.
+"The Master of Sentences", Peter Lombard was an Italian trained in theology at Bologna, Reims, and then Paris. While teaching at the cathedral school of Notre Dame, he wrote his monumental *Quatuor libri Sententiarum*, "The Book of Sentences", which covers the entire theological doctrine of Christianity and unites it as a whole.
 
-*The Book of Sentences.* Book I is a summa on Divine Lore, Level 4, Quality 9, and the remaining three books are a single summae on Theology, Level 5, Quality 9.\*
+*The Book of Sentences.* Book I is a summa on Divine Lore, Level 4, Quality 9, and the remaining three books are a single summa on Theology, Level 5, Quality 9.\*
 
 #### Averroes (Ibn Rushd, 1126–1198)
 
@@ -5146,7 +5170,7 @@ Use Aristotle's works (above) for Averroes' commentaries. The Quality of the var
 
 #### Maimonides (Moshe ben Maimon, 1135–1204)
 
-A Cordovan Jew whose contributions to philosophical and religious thought was hugely influential, but confined to the Jewish community. His most famous work, *A Guide for the Perplexed*, reconciled Jewish theology with Aristotelian philosophy.
+A Cordovan Jew whose contributions to philosophical and religious thought were hugely influential, but confined to the Jewish community. His most famous work, *A Guide for the Perplexed*, reconciled Jewish theology with Aristotelian philosophy.
 
 *A Guide for the Perplexed.* A summa written in Arabic on Jewish Theology (Level 6, Quality 9) and Philosophiae (Level 3, Quality 9). This book has yet to be translated into Latin in 1220.
 
@@ -5154,9 +5178,9 @@ A Cordovan Jew whose contributions to philosophical and religious thought was hu
 
 A famed lecturer at Oxford, who will become its first chancellor in 1221. He cares little for Aristotle, but is widely recognized among his peers as a pre-eminent natural philosopher, and sets down many of the experimental procedures for his science, which will be used in years to come. Robert wrote a number of influential scientific treatises between 1220 and 1235:
 
-Artes Liberales Tractatus: *De Sphera* (astronomy), *De lineis, angulis et figures* (arithmetic). All Quality 10.
+Artes Liberales Tractatus: *De Sphera* (astronomy), *De lineis, angulis et figuris* (arithmetic). All Quality 10.
 
-Philosophiae Tractatus: *De luce* ("Light"), *De accessione et recessione maris* ("Tides and Tidal Movements"), *De iride* ("The Rainbow"). All Quality 10
+Philosophiae Tractatus: *De luce* ("Light"), *De accessione et recessione maris* ("Tides and Tidal Movements"), *De iride* ("The Rainbow"). All Quality 10.
 
 *Hexaëmeron* ("On the Six Days of Creation"), a summa of Philosophiae, Level 5, Quality 11, written in the 1230s.
 
@@ -5170,7 +5194,7 @@ Finally, the **Bible** is an often cited authority, considered the actual Word o
 
 Great changes are occurring in the thirteenth century in the fields of art and academics. Whether or not your version of Mythic Europe follows these changes is up to you. Historically, the thirteenth century produced some very famous intellectuals. In 1220 they are children, or yet to be born. *Art & Academe* has purposefully stayed away from their intellectual achievements, presenting an environment on the verge of their influences. Some of their ideas filter in, which is appropriate. Just because they were the first to write a specific theory, doesn't necessarily mean they were the first to think it. Since the scholastic method is built upon all that has gone before it, it is realistic to imagine that some of these ideas were floating loosely in the intellectual environment before being solidified by these writers. *Art & Academe* highlights the difference between philosophy that is present in 1220, and that which is to come historically. The slightly anachronistic inclusions are presented to add enjoyment to your game, so that you don't have to wait 50 years for an idea that could make an excellent story for your group.
 
-The second reason future philosophers are only slightly mentioned is simple; they may be one of your characters. *Art & Academe* hopes to enliven and broaden your saga, not make definitive statements on how your version of Mythic Europe must develop. The most notable future philosophers are: Albert Magnus, a Dominican who taught at Paris (1200-1280); Roger Bacon, a Franciscan who lectured at Oxford (1214-1292); and Thomas Aquinas, a Dominican who fully synthesized Aristotle's categories and Plato's universals with Christian theology (1225- 1274). In 1220, Albert is twenty and possibly studying at Paris, Roger is six and playing with wooden dolls in Somerset, and Thomas is still a gleam in his mother's eye. How, even if, these men mature is up to you.
+The second reason future philosophers are only slightly mentioned is simple; they may be one of your characters. *Art & Academe* hopes to enliven and broaden your saga, not make definitive statements on how your version of Mythic Europe must develop. The most notable future philosophers are: Albertus Magnus, a Dominican who taught at Paris (1200-1280); Roger Bacon, a Franciscan who lectured at Oxford (1214-1292); and Thomas Aquinas, a Dominican who fully synthesized Aristotle's categories and Plato's universals with Christian theology (1225- 1274). In 1220, Albert is twenty and possibly studying at Paris, Roger is six and playing with wooden dolls in Somerset, and Thomas is still a gleam in his mother's eye. How, even if, these men mature is up to you.
 
 # Appendix B: Glossary
 
@@ -5184,7 +5208,7 @@ This is a list of frequently used terms in *Art & Academe*, collected to assist 
 
 **Complexion**: An individual's natural balance of the humors, affecting personality, physiognomy, and susceptibility to disease. There are four basic complexions — sanguine, choleric, melancholic, and phlegmatic.
 
-**Contra-naturals**: Things that promote dyscrasia (q.v.) — injurous objects, poisons, corrosives, parasites, supernatural entities, etc.
+**Contra-naturals**: Things that promote dyscrasia (q.v.) — injurious objects, poisons, corrosives, parasites, supernatural entities, etc.
 
 **Disputatio**: A formal method of debating between academic opponents, used to settle philosophical differences and for instructive purposes.
 
@@ -5200,7 +5224,7 @@ This is a list of frequently used terms in *Art & Academe*, collected to assist 
 
 **Experimental Philosophy**: The direct observation of the world, as opposed to theoretical speculation.
 
-**Formula:** A type of empirica (q.v.) resulting from study and laboratory activity; the products of alchemical research, astrological calculations, or medicinal remedies.
+**Formulae**: A type of empirica (q.v.) resulting from study and laboratory activity; the products of alchemical research, astrological calculations, or medicinal remedies.
 
 **Faculties**: Four divisions of academic learning taught at universities — artes liberales, civil and/or canon law, philosophy, and theology.
 
@@ -5220,7 +5244,7 @@ This is a list of frequently used terms in *Art & Academe*, collected to assist 
 
 **Philosopher, The**: A title given to Aristotle, which will become more common in the mid-thirteenth century.
 
-**Physicus**: A medicius (q.v.) who has received advanced training in medicine and philosophiae; not generally used for those who practice chirurgy.
+**Physicus**: A medicus (q.v.) who has received advanced training in medicine and philosophiae; not generally used for those who practice chirurgy.
 
 **Quadrivium**: The second or greater division of the liberal arts, including arithmetic, music, astronomy, and geometry.
 
@@ -5228,7 +5252,7 @@ This is a list of frequently used terms in *Art & Academe*, collected to assist 
 
 **Trivium**: The first or lesser division of the liberal arts, including grammar, logic, and rhetoric. Students learn these arts before moving on to the quadrivium (q.v.).
 
-**Universals**: Plato's forms or ideas, a perfect template for any subject in reality. Universals are unchangeable, have no beginning or end, exist outside reality, and can only be know through reason.
+**Universals**: Plato's forms or ideas, a perfect template for any subject in reality. Universals are unchangeable, have no beginning or end, exist outside reality, and can only be known through reason.
 
 # Appendix C: Bibliography
 
@@ -5242,7 +5266,7 @@ Crosby, A. *The Measure of Reality.* Cambridge University Press, 1997
 
 Jordan, W. *Europe in the High Middle Ages.* Penguin Books, 2002
 
-Lee D, trans. *Timaeus and Critias.* Penguin Books, 1965
+Lee, D., trans. *Timaeus and Critias.* Penguin Books, 1965
 
 Marenbon, J. *Early Medieval Philosophy.* Routledge & Kegan Paul, 1983
 
@@ -5260,6 +5284,6 @@ Schoedinger, A. *Readings in Medieval Philosophy.* Oxford University Press, 1996
 
 Stahl, W., ed. *Commentary on the Dream of Scipio by Macrobius.* Columbia University Press, 1952
 
-Thorndyke, L. *University Records and Life in the Middle Ages.* Columbia University Press, 1944
+Thorndike, L. *University Records and Life in the Middle Ages.* Columbia University Press, 1944
 
 Wagner, D. ed. *The Seven Liberal Arts in the Middle Ages.* Indiana University Press, 1983

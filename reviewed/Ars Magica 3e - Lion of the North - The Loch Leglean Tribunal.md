@@ -100,7 +100,7 @@ Wizards of the Coast® Customer Service Wizards of the Coast is a company of ded
 >
 > *"And see you that narrow, narrow road,*
 > *Beset with thorns and briars?*
-> *That is the way to rightcousness,*
+> *That is the way to righteousness,*
 > *Though after it few inquire.*
 >
 > *But see you that bonny, bonny road*
@@ -164,7 +164,7 @@ Grimble, Ian. Clans and Chiefs. London: Blond & Briggs, 1980.
 
 Jenner, Michael. Scotland Through the Ages. London: Michael Joseph Ltd., 1987,
 
-Kinvig, R.H. The Isle ofMan. Liverpool: Liverpool University Press, 1975.
+Kinvig, R.H. The Isle of Man. Liverpool: Liverpool University Press, 1975.
 
 Linklater, Eric. Orkney & Shetland. Robert Hale Limited.
 
@@ -290,7 +290,7 @@ There were superficial differences between the Roman and Celtic such as the diff
 
 ### The Vikings
 
-In the late 8th century the northern parts of Pictland came under attack by Norsemen, who settled in Caithness and on the Orkney and Shetland Islands. Viking pirates looted Iona in 795, and the undefended monasteries up and down the coast quickly became targets of ship-borne raiders. The monks sent relics and priceless treasures inland or to Ireland for safekeeping. Nevertheless, the Viking raiders tore the fabric of the Celtic Church, ending an era of matchless scholasticism and artistic invention. The Vikings also forced the Picts and Scots closer, as the two tribes had to cooperate to ward against the raiders. Hidden hoards of religious art and jeweled items, buried during raids and long-since forgotten, dot the coast. While Church treasures are hardly likely to be guarded by vengeful spirits, the sacred power of the relics could reform the finder. Plunder buried by a raiding party, on the other hand, could well be guarded by a slain watrior, who watches over the treasure until his friends return. Such a guardian, or hagbui, is a formidable foe, able to track even one stolen cup or bauble.
+In the late 8th century the northern parts of Pictland came under attack by Norsemen, who settled in Caithness and on the Orkney and Shetland Islands. Viking pirates looted Iona in 795, and the undefended monasteries up and down the coast quickly became targets of ship-borne raiders. The monks sent relics and priceless treasures inland or to Ireland for safekeeping. Nevertheless, the Viking raiders tore the fabric of the Celtic Church, ending an era of matchless scholasticism and artistic invention. The Vikings also forced the Picts and Scots closer, as the two tribes had to cooperate to ward against the raiders. Hidden hoards of religious art and jeweled items, buried during raids and long-since forgotten, dot the coast. While Church treasures are hardly likely to be guarded by vengeful spirits, the sacred power of the relics could reform the finder. Plunder buried by a raiding party, on the other hand, could well be guarded by a slain warrior, who watches over the treasure until his friends return. Such a guardian, or hagbui, is a formidable foe, able to track even one stolen cup or bauble.
 
 ## Hagbui (Barrow-dweller)
 
@@ -355,7 +355,7 @@ Stink: (CrAu 10): Like Stench of the Twenty Corpses.
 >| Claw Totals: | +7  | +5  | -     | +17* |
 >| Bite Totals: | +5  | +4  | -     | +17  |
 >
->Dodge: -3<br> 
+>Dodge: -3<br>
 >Fatigue: n/a <br>
 >Soak: +15 <br>
 >Encumbrance: 0<br>
@@ -377,7 +377,7 @@ In 834, Kenneth Mac Alpin stood on the Stone of Destiny and was hailed as King o
 
 Kenneth lost no time in invading the southern Pictish lands, claiming the throne by descent through his mother. For six years the northern lands resisted him, but by 850 all the land north of the Forth-Clyde Line was in Scottish hands. The Scots exterminated the Pictish royal families, and within two generations even the Pictish language was forgotten.
 
-The Strathclyde Britons and the Angles of Northumbria now faced a united opponent to the north. For eighty years Scotland endured three kingdoms, until Malcolm II defeated the Angles at the battle of Carham in 1018 and annexed all their land from the Forth to the Tweed. Malcolm had the aid of the King of Strathclyde, who died soon after. The king was childless and left his kingdom to Malcolm's grandson Duncan, who ascended the throne of scotland in 1034. The ascension of Duncan was the penultimate step in the unification of Scotland, uniting the remnants of the four peoples, with only the Norwegians in the northern Highlands and Islands resisting until the 13th century. 
+The Strathclyde Britons and the Angles of Northumbria now faced a united opponent to the north. For eighty years Scotland endured three kingdoms, until Malcolm II defeated the Angles at the battle of Carham in 1018 and annexed all their land from the Forth to the Tweed. Malcolm had the aid of the King of Strathclyde, who died soon after. The king was childless and left his kingdom to Malcolm's grandson Duncan, who ascended the throne of scotland in 1034. The ascension of Duncan was the penultimate step in the unification of Scotland, uniting the remnants of the four peoples, with only the Norwegians in the northern Highlands and Islands resisting until the 13th century.
 
 ### MacBeth and the Passing of the Kingship
 
@@ -821,7 +821,7 @@ With the war against Damhan-allaidh over, Pralix found herself the leader of a l
 
 While still the head of the Ordo Miscellanea, Pralix had created the *Praeses Septentrionalis*, or Northern Guard, to watch over Scotland. Several covenants formed the Praeses and they watched primarily for signs of Damhan-allaidh. It gradually lost its sense of urgency, and in the late 880s the Praeses paid for its laxness, Damhanallaidh and an army of supernatural allies destroyed the covenant of Heart's Delight in one night. They overran the covenant, slaying all the magi as they went. In the following year several other covenants in the Praeses were destroyed, and Pralix sent a message to the European magi for aid. Several Flambeau and Tytalus magi came to Scotland, seeing an opportunity for testing spells of combat and destruction. In a great battle in Caithness, the Hermetic magi managed to defeat Damhan-allaidh and his allies, but he was again able to escape. Frustrated, Flambeau magi declared that they would hunt down the sorcerer, but Pralix, fearing bellicose Flambeau ravaging the island and her House, ordered them from Scotland. Since that time bad blood between House Ex Miscellanea and House Flambeau has been a part of life in the tribunal.
 
-Numerous rumors of the return of Damhan-allaidh have circulated since | 890, but none were ever confirmed. In 977 giants destroyed the covenant of Uamh na Croig, but investigations proved that the magi had incited the giants by hunting them for sport. The final verdict was that the giants had not been under any influence from Damhan-allaidh. One outcome of the investigation was a strong warning from the tribunal to covenants and magi to leave the giants strictly alone.
+Numerous rumors of the return of Damhan-allaidh have circulated since 890, but none were ever confirmed. In 977 giants destroyed the covenant of Uamh na Croig, but investigations proved that the magi had incited the giants by hunting them for sport. The final verdict was that the giants had not been under any influence from Damhan-allaidh. One outcome of the investigation was a strong warning from the tribunal to covenants and magi to leave the giants strictly alone.
 
 ### The Schism in Scotland
 
@@ -853,7 +853,7 @@ Crun Clach is the voice of the Lowland covenants. Clan Mac Gruagach holds the Hi
 
 Horsingas has by far the most military power in the South; their magi are warlike and experienced and their grogs welltrained in warfare. The main thrust of Horsingas is to rid Scotland of foreigners, especially Normans. These magi have the support of Whitburh Frithowebba, the only quaesitor in the entire tribunal. Whitburh is adept at turning a blind eye to "minor" infractions of the Hermetic Code. She is savvy enough to realize that any major infraction will bring an investigation into the tribunal by her superiors in House Quaesitor, so she tries to keep the more hotheaded magi under some restraint.
 
-Caitlin Suil Uaine of Crun Clach leads the remainder of the Lowland covenants, simply because they do not want to support the flagrant excesses of Horsingas. Caitlin is a canny diplomat and has been.able to lead coalitions of Lowland and Highland covenants to censure or threaten Horsingas. However, she has sometimes had to concede points to the Highlanders for their help. Her job of leading the Lowlanders is easy because of the arrogance of the magi of Horsingas, who only aid those magi who they feel can further the anti-Norman movement. Most magi in the Lowlands have accepted or requested aid at one time or another from Crun Clach, and during times of trouble many of the aonaranan have sheltered at Crun Clach.
+Caitlin Suil Uaine of Crun Clach leads the remainder of the Lowland covenants, simply because they do not want to support the flagrant excesses of Horsingas. Caitlin is a canny diplomat and has been able to lead coalitions of Lowland and Highland covenants to censure or threaten Horsingas. However, she has sometimes had to concede points to the Highlanders for their help. Her job of leading the Lowlanders is easy because of the arrogance of the magi of Horsingas, who only aid those magi who they feel can further the anti-Norman movement. Most magi in the Lowlands have accepted or requested aid at one time or another from Crun Clach, and during times of trouble many of the aonaranan have sheltered at Crun Clach.
 
 Clan Mac Gruagach leads the Highland covenants, mostly by example, but sometimes by threat of armed raids or Wizards' War. Many of the Highland covenants are poor, old, remote, or all three and are usually willing to give their sigils to the Mac Gruagach magi. In addition, many of the aonaranan are of Highland stock and tend to W vote with or give their sigils to the Mac Gruagach. Moreover, the clan has the largest military force in the Highlands, though of mixed quality. They are able to raid and guard their own valuables at the same time and can even 'lend clansmen to other covenants for a short while. However, even with all these advantages, the Mac Gruagach are not able to dominate the tribunal.
 
@@ -1021,7 +1021,7 @@ Burghs are centers of trade and are generally the only places in Scotland to fin
 
 ### The Church in the Lowlands
 
-The Roman Church in Scotland was poorly organized before King David revived some lapsed sees and created others. Between 1140 to 1190 there were ten sees in Scotland. William the Lion divided the See of Dunkeld in 1190 to create the See of Lismore, in Argyle. As a rule, cathedrals are located in royal burghs, though a few, like Glasgow, are not. Guillame de Bruyse, the Bishop of St. Andrews, is the primate of the Church in Scotland. He answers only to the pope—a decision handed down by Celestine IN in 1196, after the archbishops of York and Canterbury quarreled over whose administration the Scottish Church came under.
+The Roman Church in Scotland was poorly organized before King David revived some lapsed sees and created others. Between 1140 to 1190 there were ten sees in Scotland. William the Lion divided the See of Dunkeld in 1190 to create the See of Lismore, in Argyle. As a rule, cathedrals are located in royal burghs, though a few, like Glasgow, are not. Guillame de Bruyse, the Bishop of St. Andrews, is the primate of the Church in Scotland. He answers only to the pope—a decision handed down by Celestine III in 1196, after the archbishops of York and Canterbury quarreled over whose administration the Scottish Church came under.
 
 > #### The Sees of Scotland
 >
@@ -1119,7 +1119,7 @@ Because of the special temper of the aura of the Scottish Church and the emphasi
 
 The Orkney and Shetland Islands are collectively referred to as the Northern Islands or Nordreys, and are owned by the kingdom of Norway. There are about sixty islands in the Orkneys, half of which can or do support human occupation. There are nearly a hundred Shetland islands, of which only fifteen or so support humans. The islanders call the largest island in each group Mainland, an indication of the seclusion of these islands. The Shetlands, and to some lesser extent the Orkneys, have a strange enchantment in that the domestic animals that live on these islands are less than half the size of normal animals. Horses, sheep, cattle—even dogs suffer from this enchantment. The people of the islands appear unaffected, though, and some range well over six feet tall.
 
-The Islands, especially the Orkneys, have many standing stones, stone circles, and other products of an ancient race. Magical investigation of these sites has indicated that, while they may not be as magnificent or wellknown as Stonehenge in England, they are considerably older. The Orkneys were originally called the Orcades, the Isles of the Dead, though exactly why is not known. Scholars in the Order of Hermes know that a stone circle on the island of Mainland in the Orkneys, the Ring of Brodgar, leads to the faerie realm of Barathrum.
+The Islands, especially the Orkneys, have many standing stones, stone circles, and other products of an ancient race. Magical investigation of these sites has indicated that, while they may not be as magnificent or well-known as Stonehenge in England, they are considerably older. The Orkneys were originally called the Orcades, the Isles of the Dead, though exactly why is not known. Scholars in the Order of Hermes know that a stone circle on the island of Mainland in the Orkneys, the Ring of Brodgar, leads to the faerie realm of Barathrum.
 
 The existence ofmany brochs in Orkney and Shetland indicates that the Brochbuilders had mastered the art of sailing, but sometime in the past the Picts also invaded and settled the Islands. The Picts ruled the Islands until the end of the 8th century, when the Vikings first raided and then settled. King Harald Fairhair of Norway created the earldom of the Orkneys in the late Ninth century, and the history of the earldom is a savage and bloody one. The Odal law of Norway grants the lands of the dead farl to his surviving sons, and several civil Wars between brothers mark transitions between earls. In theory the earl of the Orkneys holds his lands in fief from the king of Norway, but in reality the earls often rule their lands with little regard for the king.
 
@@ -1153,14 +1153,14 @@ The stoorworm is as long as a ship and as thick around asa tree trunk. It has ne
 Stoorworms prefer not to face multiple opponents, but often do not recognize ships as constructs filled with multiple foes, seeing them rather as individual intruders in their domain. When the stoorworm comes ashore (which is extremely rare), reduce the First Strike and Attack scores of both the Bite and Entwine attacks by half, though Damage remains the same.
 
 >### Stoorworm
->| Magic Might | Size |  
->| ----------- | ---- | 
->| 42          | +6   | 
+>| Magic Might | Size |
+>| ----------- | ---- |
+>| 42          | +6   |
 >
 >#### Characteristics
->|     |                 |     |                     | 
+>|     |                 |     |                     |
 >|---- | --------------- | ----| ------------------- |
->| +2  | Cun (hunter)    | -5  | Pre (terrifying)    | 
+>| +2  | Cun (hunter)    | -5  | Pre (terrifying)    |
 >| +4  | Per (keen nose) | n/a | Com                 |
 >| +8  | Str (huge)      | +2  | Dex (sinuous)       |
 >| +10 | Sta (unceasing) | +6  | Qik (fast-talking)  |
@@ -1174,7 +1174,7 @@ Stoorworms prefer not to face multiple opponents, but often do not recognize shi
 >
 >\* Powers: The poison of the stoorworm coats its teeth and will stick to armor or shields after a bite attack. Characters handling anything bitten by a stoorworm must take great care that no poison enters the mouth, nose, eyes, or open wounds. A Dexterity roll of 8+ will ensure that the character has avoided the poison. If the roll fails, the character must make a Stamina roll of 9+. On a successful roll, the character loses one body level; on a failure, two.
 >
->\*\* Entwines on the first round; every round thereafterhas a cumulative +8 damage (2nd round +8 damage, 3rd round +16, etc.). The stoorworm can automatically bite anyone caught in its coils. Each human-sized object held by the stoorworm reduces its Entwine First Strike attack by 6. Damage is reduced by 6 for each object after the first.
+>\*\* Entwines on the first round; every round thereafter has a cumulative +8 damage (2nd round +8 damage, 3rd round +16, etc.). The stoorworm can automatically bite anyone caught in its coils. Each human-sized object held by the stoorworm reduces its Entwine First Strike attack by 6. Damage is reduced by 6 for each object after the first.
 >
 >\*\*\* The stoorworm may use 2 Magic Might points to breathe a cloud of poison gas. Every creature (except the worm!) within a cone ten feet wide by twenty feet long must make a Stamina roll of 9+ or lose two body levels. A successful roll still results in the loss of one body level
 >
@@ -1201,12 +1201,12 @@ Powers: Trow caught above ground at sunrise are unable to retreat to their home 
 Trow may cast spontaneous Terram magic spells. Roll +15 for the spell's level if the trow expends a fatigue level; divide the roll by 2 if the trow does not exert itself.
 
 >### Trow
->| Paerie Might | Size |
+>| Faerie Might | Size |
 >| ------------ | ---- |
->| 21           | 32   |
+>| 21           | +2   |
 >
 >#### Characteristics
->|     |                    |     |                     | 
+>|     |                    |     |                     |
 >|---- | ------------------ | ----| ------------------- |
 >| -1  | Int (slow)         | 0   | Pre                 |
 >| -2  | Per (bad eyesight) | -2  | Com (slow-witted)   |
@@ -1222,7 +1222,7 @@ Trow may cast spontaneous Terram magic spells. Roll +15 for the spell's level if
 >| Club Totals: | +4  | +5  | +3    | +8   |
 >
 >Soak:+9<br>
->Dodge Defense: -2<br> 
+>Dodge Defense: -2<br>
 >Fatigue: +4<br>
 >Encumbrance: 0
 >
@@ -1233,7 +1233,7 @@ Trow may cast spontaneous Terram magic spells. Roll +15 for the spell's level if
 >OK, 0/0/0, -1, -3, -6, Unconscious
 >
 >#### Abilities
->2 Club Attack (smash, 4 Play Musical Instrument (wild tunes), 3 Club Parry (clubs) 
+>2 Club Attack (smash, 4 Play Musical Instrument (wild tunes), 3 Club Parry (clubs)
 
 ## Kunal Trow
 Powers: Trow caught above ground at sunrise are unable to retreat to their home below the earth, though sunlight does not otherwise affect them.
@@ -1251,7 +1251,7 @@ The kunal trow is sometimes called the "king" trow. These creatures are the trow
 >-3 Solitary
 >
 >#### Characteristics
->|     |                    |     |                     | 
+>|     |                    |     |                     |
 >|---- | ------------------ | ----| ------------------- |
 >| +3  | Int (sly)          | +2  | Pre (regal)         |
 >| -2  | Per (bad eyesight) | -2  | Com (slow-speaker)  |
@@ -1285,15 +1285,15 @@ The Long Island suffers the full brunt of Atlantic storms. So strong are the gal
 
 The Inner Hebrides lie not far offshore from the mainland. It is often difficult to tell what is an island and what a peninsula, as the coast is so deeply cut by sealochs (fjords). Boats ply the water between the islands easily, but swimmers must beware of the treacherous currents that separate the islands. The Inner Hebrides have slightly better weather than the Outer, but even here, stones hold down the thatch roofs.
 
-The Western Isles were long a stronghold of the Broch-builders, who repelled several invasions by the Picts. They fell before the spears of the Picts, though, long before the Norse invaded the Islands,the 800s. Godred Crovan, the king of Man, seized the Sudreys and the city of Dublin. In 1098, King Magnus Barelegs added the peninsula of Kintyre to the kingdom (see "The House of Canmore: Scotland in the 12th Century" in Mythic History, Chapter 2).
+The Western Isles were long a stronghold of the Broch-builders, who repelled several invasions by the Picts. They fell before the spears of the Picts, though, long before the Norse invaded the Islands in the 800s. Godred Crovan, the king of Man, seized the Sudreys and the city of Dublin. In 1098, King Magnus Barelegs added the peninsula of Kintyre to the kingdom (see "The House of Canmore: Scotland in the 12th Century" in Mythic History, Chapter 2).
 
-Like the men of the Orkneys, the warriors of the Hebrides traveled far across Mythic Europe, fighting for pay and plunder. The kingdom of Man and the Isles had many civil wars, and even in relatively peaceful times the men found employment among the clans of the mainland, or in Ireland. Somerled, a Norse-Gael rebel, defeated Godred Ht of| Man in 1156. The division of the king-. dom granted Somerled the two southern island groups, Islay and Mull; the hold of the king of Man on the Long Island and Skye was weakened permanently.
+Like the men of the Orkneys, the warriors of the Hebrides traveled far across Mythic Europe, fighting for pay and plunder. The kingdom of Man and the Isles had many civil wars, and even in relatively peaceful times the men found employment among the clans of the mainland, or in Ireland. Somerled, a Norse-Gael rebel, defeated Godred II of Man in 1156. The division of the kingdom granted Somerled the two southern island groups, Islay and Mull; the hold of the king of Man on the Long Island and Skye was weakened permanently.
 
 All the islands in the Hebrides have their share of faeries, both malign and benign; and though they are called by different names because of the language differences between the mainland and the Islands, the island faeries are substantially the same as on the mainland.
 
 ### The Isle of Man
 
-The Isle of Man sits in the Irish sea between England, Scotland, and Ireland. It has sometimes been part of the Kingdom of Norway, but generally it has been its own kingdom. Farming people settled on Man in prehistoric times, and the Romans knew of Man, though they did not invade or settle there. Christian missionaries from Ireland used the island as a stepping-stone in the expansion of Christianity from Ireland to Scotland and England. At the end of the 8th century, Man was first raided, then settled, by Vikings. The Norse made use of its strategic position to launch raids against the surrounding coasts. The Kings ofNorway claimed the island as part of their own lands, but in practical fact, the last king who landed there ruled, whether he was from Ireland, Scotland, or Norway or was a local native.
+The Isle of Man sits in the Irish sea between England, Scotland, and Ireland. It has sometimes been part of the Kingdom of Norway, but generally it has been its own kingdom. Farming people settled on Man in prehistoric times, and the Romans knew of Man, though they did not invade or settle there. Christian missionaries from Ireland used the island as a stepping-stone in the expansion of Christianity from Ireland to Scotland and England. At the end of the 8th century, Man was first raided, then settled, by Vikings. The Norse made use of its strategic position to launch raids against the surrounding coasts. The Kings of Norway claimed the island as part of their own lands, but in practical fact, the last king who landed there ruled, whether he was from Ireland, Scotland, or Norway or was a local native.
 
 Norse is the language of the rulers of the island, but many of the farmers speak an accented Gaelic. Farms cluster in the coastal lowlands, while cattle, sheep, and goats graze the hills of the interior. The island has three towns: Douglas, Ramsey, and Peel.
 
@@ -1351,7 +1351,7 @@ Scotland is a country divided not only by geography, but by language. In the Sou
 
 Latin is the language of the clergy in the southern areas, but even the edicts of the kings of Scotland have not changed the practice of the Scottish Church, which still holds services in Gaelic. Latin is the predominate written language. Few people can read Ogham, a form of monument writing. Ogham was used for inscriptions for both Gaelic and Pictish, but the Pictish inscriptions are no longer legible to the modern reader. Ogham is no longer a living language and is not written anymore.
 
-Pictish is a dead language. It has elements of an even older language—not related to any other in the British Isles adopted when the Picts absorbed the Broch-builders. After Kenneth MacAlpin's conquest of Pictland, members of House Diedne cast subtle spells that somehow made the Picts forget their language and speak Gaelic. Many young gruagachan lost their Pictish because of these spells, but older gruagachan preserved the language. Now only gruagachan speak pure Pictish, which is a magical language, aiding them greatly when casting their Geasa and Curses. The secret of the languagedestroying spells died with House Diedne in the Schism War. The language of the Broch-builders has been lost for millennia, and no traces are known to exist.
+Pictish is a dead language. It has elements of an even older language—not related to any other in the British Isles adopted when the Picts absorbed the Broch-builders. After Kenneth MacAlpin's conquest of Pictland, members of House Diedne cast subtle spells that somehow made the Picts forget their language and speak Gaelic. Many young gruagachan lost their Pictish because of these spells, but older gruagachan preserved the language. Now only gruagachan speak pure Pictish, which is a magical language, aiding them greatly when casting their Geasa and Curses. The secret of the language-destroying spells died with House Diedne in the Schism War. The language of the Broch-builders has been lost for millennia, and no traces are known to exist.
 
 ### Currency
 
@@ -1432,16 +1432,16 @@ Vis: None
 >|-------------|------|
 >| 0           | +1   |
 >
->#### Characteristics 
->|     |                    |     |                     | 
+>#### Characteristics
+>|     |                    |     |                     |
 >|---- | ------------------ | ----| ------------------- |
 >| -1  | Cun                | n/a | Pre                 |
 >| 0   | Per                | n/a | Com                 |
 >| +3  | Str (haul burdens) | +2  | Dex (agile)         |
->| +5  | Sta (perservering) | 0   | Qik                 |
+>| +5  | Sta (persevering)  | 0   | Qik                 |
 >
 >#### Personality Traits
->+2 Patient, +1 Loyal 
+>+2 Patient, +1 Loyal
 >
 >#### Combat Totals
 >| Weapon       | 1st | Atk | Parry | Dam  |
@@ -1450,7 +1450,7 @@ Vis: None
 >
 >Dodge Defense: 0<br>
 >Soak: +7 <br>
->Fatique: +5 <br>
+>Fatigue: +5 <br>
 >Encumbrance: 0
 >
 >#### Body Levels
@@ -1475,8 +1475,8 @@ Vis: None
 >| ----------- | ---- |
 >| 0           | 0    |
 >
->#### Characteristics 
->|     |                    |     |                     | 
+>#### Characteristics
+>|     |                    |     |                     |
 >|---- | ------------------ | ----| ------------------- |
 >| 0   | Cun                | n/a | Pre                 |
 >| +3  | Per (keen eyes)    | n/a | Com                 |
@@ -1536,7 +1536,7 @@ Frighten (PeMe 30): The sluagh drives the target insane with sheer terror. The t
 
 The each uisge is a dark faerie creature of the beach and sea-loch. Each uisge can change form—usually between a black horse and man shape, but some people claim to have seen them change into birds. In its horse form, the each uisge is found standing at the water's edge. Each uisge's skin clings fast to whatever contacts it: the only known remedy for this effect is to cut off the part touching the creature (only a hand if one is lucky). If a person cannot free him or herself, the creature plunges into the waves and feasts on his or her flesh—all except the liver, which it detests.
 
-When in man form, the each uisge is handsome, with dark hair. In the roots of the hair can be found sand and seaweed, a sure giveaway of his true nature. Each uisge cannot enter or cross fresh water, so fleeing across a creek is enough to escape from the monster. The each uisge is wellknown in the Highlands; yet its Guile ability and Glamour power ensure that it gets enough to eat.
+When in man form, the each uisge is handsome, with dark hair. In the roots of the hair can be found sand and seaweed, a sure giveaway of his true nature. Each uisge cannot enter or cross fresh water, so fleeing across a creek is enough to escape from the monster. The each uisge is well-known in the Highlands; yet its Guile ability and Glamour power ensure that it gets enough to eat.
 
 Powers:
 
@@ -1544,7 +1544,7 @@ Shapechange to Man, MuCo 45, 5 points: The each uisge may take the form of a dar
 
 Attract the Doomed Victim, MuMe 30, 1 Point: Each uisge uses this power to lessen the natural caution of the victim. The victim approaches and climbs on the each uisge's back willingly. Once a character is on the each uisge, a Per roll of 10+ negates the power's effects, allowing the victim to attempt to dismount.
 
-Sticky Skin, ReCo 25, O points: The skin of each uisge is highly adhesive, and any person who touches the beast finds that he or she cannot pull away from it. The skin of the victim bonds to the skin of the each uisge, and only a spontaneous PeAn spell of level 15 or greater, or a sharp knife, can separate the two.
+Sticky Skin, ReCo 25, 0 points: The skin of each uisge is highly adhesive, and any person who touches the beast finds that he or she cannot pull away from it. The skin of the victim bonds to the skin of the each uisge, and only a spontaneous PeAn spell of level 15 or greater, or a sharp knife, can separate the two.
 
 Vis: 2 Perdo in teeth, 5 Aquam in hide
 
@@ -1554,9 +1554,9 @@ Vis: 2 Perdo in teeth, 5 Aquam in hide
 >| 32           |  +2  |
 >
 >#### Characteristics
->|     |                     |     |                       | 
+>|     |                     |     |                       |
 >|---- | ------------------  | ----| --------------------- |
->| +2  | Int (crafy)         | +1  | Pre (pretty)          |
+>| +2  | Int (crafty)        | +1  | Pre (pretty)          |
 >| +1  | Per (good ears)     | +2  | Com (expressive face) |
 >| +3  | Str (brawny)        | 0   | Dex                   |
 >| +6  | Sta (deep breather) | 0   | Qik                   |
@@ -1570,9 +1570,9 @@ Vis: 2 Perdo in teeth, 5 Aquam in hide
 >| Bite Totals:  | +4  | +4  | -     | +7        |
 >| Kick Total:   | +6  | +6  | -     | +10       |
 >
->Dodge Defense: +0<br> 
+>Dodge Defense: +0<br>
 >Fatigue: +6 <br>
->Soak: +11<br> 
+>Soak: +11<br>
 >Encumbrance: 0
 >
 >#### Body Levels
@@ -1602,7 +1602,7 @@ Vis: 4 Intellego in throat
 >| 10           | 0    |
 >
 >#### Characteristics
->|     |                     |     |                       | 
+>|     |                     |     |                       |
 >|---- | ------------------  | ----| --------------------- |
 >| +2  | Cun                 | -2  | Pre (spectral)        |
 >| +1  | Per (keen sight)    | n/a | Com (expressive face) |
@@ -1618,9 +1618,9 @@ Vis: 4 Intellego in throat
 >| Bite Totals: | +10 | +11        |   -       | +8  |
 >| Bark Total:  |  Special (see Powers)              |
 >
->Dodge Defense: +8<br> 
->Soak: +14<br> 
->Fatigue: +10<br> 
+>Dodge Defense: +8<br>
+>Soak: +14<br>
+>Fatigue: +10<br>
 >Encumbrance: 0
 >
 >#### Body Levels
@@ -1630,7 +1630,7 @@ Vis: 4 Intellego in throat
 >OK, 0, -1, -3, -6, Unconscious
 >
 >#### Abilities
->4 Ferocity (if attacked),  5 Stealth (following), 9 Invisiblity (followed)
+>4 Ferocity (if attacked), 5 Stealth (following), 9 Invisibility (followed)
 
 ## Babhan Sith - Fairy Woman
 
@@ -1638,11 +1638,11 @@ The babhan sith (buvan shee) is a type of unseelie faerie and usually is found o
 
 #### Powers:
 
-Claws: Babhan sith have iron-hard nails on their hands that they can use in a fight. These claws will shred cloth anq leather, but are at a disadvantage to harm someone in iron armor. The bab. han sith has two attacks per round with her claws, and if both hit in one round, she may grasp the target, getting a chance to bite the next round. The babhan sith's claws will negate any protection from leather, cloth, or fur armor. They suffer q damage penalty of -3 against iron ring mail, -5 against iron scale or chain. Faerie iron and bronze armor have their norma] protection values.
+Claws: Babhan sith have iron-hard nails on their hands that they can use in a fight. These claws will shred cloth anq leather, but are at a disadvantage to harm someone in iron armor. The bab. han sith has two attacks per round with her claws, and if both hit in one round, she may grasp the target, getting a chance to bite the next round. The babhan sith's claws will negate any protection from leather, cloth, or fur armor. They suffer q damage penalty of -3 against iron ring mail, -5 against iron scale or chain. Faerie iron and bronze armor have their normal protection values.
 
 Enchanting Music: As the +2 extraordinary Talent.
 
-Glamour: The babhan sith may fill the inside of the hut with an illusion of normality. The illusion is the equivalent of CrIm 25 and Mulm 25 and includes all senses.
+Glamour: The babhan sith may fill the inside of the hut with an illusion of normality. The illusion is the equivalent of CrIm 25 and MuIm 25 and includes all senses.
 
 Infatuation: This ability creates a strong amorous attraction for males and works both by sight and sound. The victim has one chance to roll Stamina to resist the attraction; the difficulty number is the babhan sith's Faerie Might.
 
@@ -1656,14 +1656,14 @@ Vulnerability to Iron: Blows delivered with cold iron hurt the babhan sith as if
 >| 25           | 0    |
 >
 >#### Characteristics
->|     |                     |     |                       | 
+>|     |                     |     |                       |
 >|---- | ------------------  | ----| --------------------- |
 >| 0   | Int                 | -3  | Pre (ugly)            |
 >| 0   | Per                 | +2  | Com (sweet voice)     |
 >| +1  | Str (unnatural)     | +2  | Dex (graceful)        |
 >| +1  | Sta (spirited)      | +1  | Qik (sudden moves)    |
 >
->#### Faerie Powers 
+>#### Faerie Powers
 >|                  |                       |
 >|------------------|-----------------------|
 >| Claws            | Infatuation           |
@@ -1679,7 +1679,7 @@ Vulnerability to Iron: Blows delivered with cold iron hurt the babhan sith as if
 >| Bite Totals: | +11 | +12 | -     | +5 + drain |
 >| Claw Total:  | +6  | +7  | -     | +10        |
 >
->Dodge Defense: +6<br> 
+>Dodge Defense: +6<br>
 >Fatigue: n/a<br>
 >Soak: +1<br>
 >Encumbrance: 0
@@ -1706,7 +1706,7 @@ No fatigue: The brollachan does not suffer from fatigue.
 Vis: 2 Muto in body
 
 >### Brollachan
->| Paerie Might | Size |
+>| Faerie Might | Size |
 >| ------------ | ---- |
 >| 24           | +4 |
 >
@@ -1729,8 +1729,8 @@ Vis: 2 Muto in body
 >| Smother Totals: | n/a | n/a | -     | +10 * |
 >
 >Dodge Defense: -5<br>
->Soak: +10<br> 
->Fatigue: n/a<br> 
+>Soak: +10<br>
+>Fatigue: n/a<br>
 >Encumbrance: 0
 >
 >\*Smother: See Powers.
@@ -1794,13 +1794,13 @@ Magical library: Creo 3, Intéllego 7, Muto 8, Perdo 2, Rego 14, Animal 1, Aquam
 
 Nearest towns: Bamburgh (forty miles to the northwest), Carlisle (thirty miles southwest).
 
-Important neighbors: Lord Fitz-Hubert; Baron Naworth; Abbot Geoffrey; Hexham Priory; AlexanderNixon, chief of the Nixons
+Important neighbors: Lord Fitz-Hubert; Baron Naworth; Abbot Geoffrey; Hexham Priory; Alexander Nixon, chief of the Nixons
 
 Saxon magi, displaced by the Norman invasion of England, founded the covenant of Horsingas in 1073. Their original purpose was to regain the throne of England for Edgar Atheling, the Saxon heir-apparent dispossessed in 1066, but with his death, the covenant lost heart. Instead, they set out to make the borderlands uninhabitable for the Normans. To this end they have raided south across Hadrian's Wall, as well as attacking the Norman keeps that have sprung up in the Lowlands.
 
 Horsingas is close to being declared a renegade covenant, because the members ignore the strictures of the Order of Hermes against interfering in mundane affairs. However, they have the only quaesitor in the tribunal, Whitburh, as a member. Though she does not generally participate in raids, she turns a blind eye to the activities of the more hot-headed members of the covenant. Until a quaesitor from Stonehenge or some other tribunal brings the matter up, the covenant will most likely be able to escape retribution from the Order.
 
-The covenant is located in the Cheviot hills along the Tyne river, about eight miles north of Hadrian's Wall. The main area of the covenant is a series of deep caves, excavated by a now-dead Terram specialist. The covenant 15 not likely to expand the caves any time soon, since no one in the covenant is particularly skilled with Terram magic. The covenant I\$ Surrounded by low hills, suitable for spying On the surrounding terrain, though none a Prime location for a castle. In addition, the Magi have placed numerous spells: some to sound alarms, others to mislead anyone who is hot a member of the covenant. The covenant has about 50 grogs, known as weardmenn (weardmen, Saxon for "guard"). The covenant has quite a large stable, and the covenant is able f mount all the magi and some of the weard-Menn on their raids.
+The covenant is located in the Cheviot hills along the Tyne river, about eight miles north of Hadrian's Wall. The main area of the covenant is a series of deep caves, excavated by a now-dead Terram specialist. The covenant is not likely to expand the caves any time soon, since no one in the covenant is particularly skilled with Terram magic. The covenant is surrounded by low hills, suitable for spying on the surrounding terrain, though none a prime location for a castle. In addition, the Magi have placed numerous spells: some to sound alarms, others to mislead anyone who is not a member of the covenant. The covenant has about 50 grogs, known as weardmenn (weardmen, Saxon for "guard"). The covenant has quite a large stable, and the covenant is able to mount all the magi and some of the weardmenn on their raids.
 
 ### Origin of the Covenant
 
@@ -1826,7 +1826,7 @@ Though not the eldest of the magi, Edwin is the war leader of the covenant becau
 
 Edwin is rarely without his armor and weapons. His face is scarred by years of combat, and his icy blue eyes are turned in contempt on most people. Women find his rugged face and fair hair irresistible (much to his dismay), but men either hate or fear him. Edwin takes the initiative in conversations and rarely relinquishes it.
 
-nE Edwin rides his horse, Heard Healu (he. ard he-alu, Bad Health), into combat. The horse has had Steed of Vengeance (MuAn 20) cast upon it permanently. The sight of Heard Healu crashing through lines of foot soldiers has given the beast a reputation of being even more fierce than its rider. Edwin is the only one who can care for Heard Healu, as it is combat-trained as well as enchanted.
+Edwin rides his horse, Heard Healu (he. ard he-alu, Bad Health), into combat. The horse has had Steed of Vengeance (MuAn 20) cast upon it permanently. The sight of Heard Healu crashing through lines of foot soldiers has given the beast a reputation of being even more fierce than its rider. Edwin is the only one who can care for Heard Healu, as it is combat-trained as well as enchanted.
 
 ##### Spells of Edwin's Invention
 
@@ -1834,7 +1834,7 @@ Rally the Defeated Troops (Rego Mentem 20) Spell Focus: Banner or flag (+5) R: N
 
 The targets of this spell are those under the command of, or lead by, the caster, When first cast, the spell will rally troops, stopping retreats and routs, and clearing the minds of the targets of fear and depression. It imparts +3 Brave and +3 Obedient traits (or augments already existing ones) for as long as the caster advances against the enemy. An unwelcome side effect of the spell is that if the caster retreats without having first dropped the spell, the personality traits imparted by the spell reverse to Cowardly +3 and Rebellious +3.
 
-Sharp Shriek ofPain (Perdo Córporem 20) Spell Focus: A human ear (+1), a sharp spike (+1), both (+3)
+Sharp Shriek of Pain (Perdo Córporem 20) Spell Focus: A human ear (+1), a sharp spike (+1), both (+3)
 
 R: Near/Sight, D: Moon/Inst.
 
@@ -1849,7 +1849,7 @@ Trap the Treacherous Tongue (Rego Cérporem 15) Spell Focus: A muzzle (+2) R: Ne
 The target's mouth is held shut with a strength equal to the caster's Strength +1, so that no sound other than a whimper may escape his or her lips. A concerted effort (opposed Strength rolls) allows the target to open his or her mouth enough to take food or drink of water. One other person may add his or her Strength score to the target's to try to physically pry open his or her mouth.
 
 >### Edwin of Hexham, House Tytalus
->Age: 35<br> 
+>Age: 35<br>
 >Size: 0
 >
 >#### Characteristics
@@ -1860,7 +1860,7 @@ The target's mouth is held shut with a strength equal to the caster's Strength +
 >| +2  | +2 Str (lifting)  | 0  | Dex                   |
 >|  0  | Sta (persevering) | +1 | Qik (running)         |
 >
->#### Personality Traits 
+>#### Personality Traits
 >+2 Angry, +3 Betrayed
 >
 >#### Confidence
@@ -1876,13 +1876,13 @@ The target's mouth is held shut with a strength equal to the caster's Strength +
 >Affinity with Córporem (Perdo Córporem) 4, Alertness (with helmet) 1, Concentration (under pressure) 2, Hermes History (and mundanes) 3, Hermes Lore (late-maturing magi) 2, Intimidation (threats) 1, Lance Attack (against mounted opponents) 3, Leadership (raids) 4, Mace Attack (against mounted opponents) 2, Magic Theory (Parma Magica) 5, Parma Magica 4, Ride (attack) 3, Scribe Latin (no frills) 5, Shield Parry (mounted) 3, Speak French (Norman) 3, Speak Latin (Horsingas code) 5, Speak Saxon (rallying) 5
 >
 >#### Techniques and Forms
->|     |    |     |     |     |    | 
->| --- | ---| --- | --- | --- | ---| 
->| 3   | Cr | 2   | An  | 0   | Ig | 
->| 0   | In | 2   | Aq  | 0   | Im | 
->| 0   | Mu | 0   | Au  | 5   | Me | 
->| 9   | Pe | 9   | Co  | 0   | Te |   
->| 8   | Re | 0   | He  | 1   | Vi | 
+>|     |    |     |     |     |    |
+>| --- | ---| --- | --- | --- | ---|
+>| 3   | Cr | 2   | An  | 0   | Ig |
+>| 0   | In | 2   | Aq  | 0   | Im |
+>| 0   | Mu | 0   | Au  | 5   | Me |
+>| 9   | Pe | 9   | Co  | 0   | Te |
+>| 8   | Re | 0   | He  | 1   | Vi |
 >
 >#### Spellcasting Information
 >Spellcasting Speed: +1 (-3 in armor)<br>
@@ -1891,11 +1891,11 @@ The target's mouth is held shut with a strength equal to the caster's Strength +
 >Wizard's Sigil: Colored strands of light pass from his fingers to the target. The color depends on the arts used.
 >
 >#### Spells Known
->Rally the Defeated Troops (ReMe 20) +14. Sharp Shriek of Pain (PeCo 20) +23. Sure Strike of the Sword (ReCo 20) +21, Trap the Treacherous Tonque (PeCo 20) +23, Endurance of the Berserkers (ReCo 15) +21, Panic of the Elephant's Mouse (ReAn 15) +10, Rusted Decay of Ten-score Years (PeTe 15) +9, Unseen Porter (ReTe 15) +8, The Wound that Weeps (PeCo 15) +23, Bind the Wound (CrCo 10) +16, Eyes of the Cat (MuCo 10) +13, Grip of the Choking Hand (PeCo 10) +23, Sight of the True Form (InCo 10) +13, Curse of Rotting Wood (PeHe 5) +9, Destroy Fur and Hide (PeAn 5) +11, Invocation of Weariness (PeCo 5) +23
+>Rally the Defeated Troops (ReMe 20) +14. Sharp Shriek of Pain (PeCo 20) +23. Sure Strike of the Sword (ReCo 20) +21, Trap the Treacherous Tongue (PeCo 20) +23, Endurance of the Berserkers (ReCo 15) +21, Panic of the Elephant's Mouse (ReAn 15) +10, Rusted Decay of Ten-score Years (PeTe 15) +9, Unseen Porter (ReTe 15) +8, The Wound that Weeps (PeCo 15) +23, Bind the Wound (CrCo 10) +16, Eyes of the Cat (MuCo 10) +13, Grip of the Choking Hand (PeCo 10) +23, Sight of the True Form (InCo 10) +13, Curse of Rotting Wood (PeHe 5) +9, Destroy Fur and Hide (PeAn 5) +11, Invocation of Weariness (PeCo 5) +23
 >
 >#### Combat Information
 >|                |              |        |        |       |                            |
->| -------------- | ------------ | ------ | ------ | ----- | -------------------------- | 
+>| -------------- | ------------ | ------ | ------ | ----- | -------------------------- |
 >| Weapon         | First Strike | Attack | Damage | Parry | Dodge Defense: +1/-2       |
 >| Lance Totals:  | +8           | +5     | +13    | -5    | Soak: 0/+7                 |
 >| Mace Totals:   | +2           | +6     | +9     | -5    | Fatigue: 0/-3              |
@@ -1911,11 +1911,11 @@ The target's mouth is held shut with a strength equal to the caster's Strength +
 >
 >#### Characteristics
 >|    |                |     |               |
->| ---| -------------- | --- | ------------- | 
->| -4 | Cun (stubborn) | +2  | Pre (demonic) | 
->| -1 | Per (stolid)   | n/a | Com           | 
+>| ---| -------------- | --- | ------------- |
+>| -4 | Cun (stubborn) | +2  | Pre (demonic) |
+>| -1 | Per (stolid)   | n/a | Com           |
 >| -5 | Str (muscular) | -4  | Dex (large)   |
->| +4 | Sta (enduring) | -4  | Qik (heavy)   | 
+>| +4 | Sta (enduring) | -4  | Qik (heavy)   |
 >
 >#### Virtues and IFlaws
 >Clumsy -2, Hardy Convalescence +1, Tough +1
@@ -1932,9 +1932,9 @@ The target's mouth is held shut with a strength equal to the caster's Strength +
 >| Kick Totals: | +4  | +9  | -     | +15 |
 >| Bite Totals: | +3  | +4  | -     | +10 |
 >
->Dodge Defense: -2<br> 
->Soak: +18<br> 
->Fatigue: +9<br> 
+>Dodge Defense: -2<br>
+>Soak: +18<br>
+>Fatigue: +9<br>
 >Encumbrance: 0
 >
 >#### Badu Levels
@@ -1972,7 +1972,7 @@ R: Near, D: Sun/Moon
 Cast upon the plants surrounding the caster, the spell causes the plants to notify the caster if specified conditions are met. Plants will not recognize a specific person and cannot read heraldry, so can only tell of "the approach of a horse" or "many men," not of "the Lord Henry of Chester" or "the garrison of the castle." The caster must specify what the plants are to look for, and it is up to the storyguide to determine if the plants can follow the instructions. If they cannot, then they will either do nothing or notify the caster every time anything over Size -4 moves past: "There is a squirrel approaching; here comes a fox; a hawk is flying overhead; there is a man approaching; many deer are passing by." The caster must use a leaf from the plants so enchanted as an arcane connection for the spell to work when he leaves the area. If an arcane connection is not used, then the caster can only hear the plants when at Near range.
 
 *Dry Rot of a Hundred Years* (Perdo Herbam 15) <br>
-Spell Focus: A piece of wood with dry rot (+1)<br> 
+Spell Focus: A piece of wood with dry rot (+1)<br>
 R: Near/sight, D: Inst.
 
 This spell will destroy ten paces of palisade, gate, or other wooden structure, The wood will look unchanged until hit, trodden on, or otherwise disturbed, whereupon it disappears in a puff of dust and wood chips.
@@ -1984,7 +1984,7 @@ R: Self/Touch, D: Conc./Sun
 Allows the caster to see clearly into a fire, through the ripple of heat waves and the smoke.
 
 *Impair the Hound's Nose* (Perdo Animal 20)<br>
-Spell Focus: A pinch of pepper (+2)<br> 
+Spell Focus: A pinch of pepper (+2)<br>
 R: Near/Sight, D: Moon/Inst.
 
 Destroys an animal's sense of smell. Most dogs or other animals that depend on their sense of smell will be frantic for at least five minutes when this spell is cast on them.
@@ -1994,10 +1994,10 @@ The Unhearing Ear (Perdo Córporem 20) Spell Focus: A bit of wax (+2) R: Near/Si
 The target's ears slowly fill with congealed wax (which replenishes if removed). The target feels no pain or other sensations, but goes deaf in the space of a half-minute and continues so until the spell ends or is dispelled.
 
 >### Whitburh Frithowebba, House Quaesitor
->Age: 64<br> 
+>Age: 64<br>
 >Size: 0
 >
->#### Characteristics   
+>#### Characteristics
 >|     |                     |    |                    |
 >| --- | --------------------| ---| ------------------ |
 >| "+3 | Int (intuitive)     | 0  | Pre                |
@@ -2011,7 +2011,7 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 >#### Personality Traits
 >Hates Normans +2, Loyal to Horsingas +3
 >
->#### Confidence 
+>#### Confidence
 >3
 >
 >#### Reputation
@@ -2029,11 +2029,11 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 >| 5  | Re | 12 | He | 10 | Vi |                                                                           |
 >
 >#### Spells Known
->Awaken the Leafy Warders (InHe 35) +36, Scrying Pond (InAq 35) +32, Summoning the Distant Images (InIm 35) +41, Voice of the Lake (InAq 25) +32, The Ear for the Distant Voice (InIm 20) +41, Image from the Wizard Torn (ReIm 20) +21, Impair the Hound's Nose (PeAn 20) +35, The Unhearing Ear (PeCo 20) +20, The Call to Slumber (ReMe 15) +18, Dry Rot of a Hundred Years (PeHe 15) +31, Enchantment of the Figures Through Fire and Fumes (InIg 15) +31, Invisibility of the Standing Wizard (Pelm 15) +36, Unseen Porter (ReTe 15) +16, Whispering Winds (InAu 15) +33
+>Awaken the Leafy Warders (InHe 35) +36, Scrying Pond (InAq 35) +32, Summoning the Distant Images (InIm 35) +41, Voice of the Lake (InAq 25) +32, The Ear for the Distant Voice (InIm 20) +41, Image from the Wizard Torn (ReIm 20) +21, Impair the Hound's Nose (PeAn 20) +35, The Unhearing Ear (PeCo 20) +20, The Call to Slumber (ReMe 15) +18, Dry Rot of a Hundred Years (PeHe 15) +31, Enchantment of the Figures Through Fire and Fumes (InIg 15) +31, Invisibility of the Standing Wizard (PeIm 15) +36, Unseen Porter (ReTe 15) +16, Whispering Winds (InAu 15) +33
 >
 >#### Combat Information
->| Weapon         | First Strike | Attack | Damage | Parry  |                | 
->| -------------- | ------------ | ------ | ------ | ------ | -------------- | 
+>| Weapon         | First Strike | Attack | Damage | Parry  |                |
+>| -------------- | ------------ | ------ | ------ | ------ | -------------- |
 >| Sword Totals;  | +5           | +4     | +6     | O (6)  | Dodge: +6      |
 >| Shield Totals: | 0            | 0      | -7     | +3 (9) | Soak: +9       |
 >|                |              |        |        |        | Fatigue: +1    |
@@ -2047,7 +2047,7 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 >| --------------- | ---- |
 >| 3               | -3   |
 >
->#### Characteristics 
+>#### Characteristics
 >|     |                 |     |                 |
 >| --- | --------------- | --- | --------------- |
 >| +2  | Cun (clever)    | -1  | Pre (obnoxious) |
@@ -2075,7 +2075,7 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 >Dodge Defense: +10<br>
 >Soak:0<br>
 >Fatigue: 0<br>
->Encumbrance: 0 
+>Encumbrance: 0
 >
 >#### Body Levels
 >OK, -3, Incapacitated
@@ -2084,7 +2084,7 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 >OK, -3, Unconscious
 >
 >#### Abilities
->Concentration (shared senses) 2, ReadLatin (Whitburhs handwriting) 3, Scan (shiny objects) 3
+>Concentration (shared senses) 2, Read Latin (Whitburh's handwriting) 3, Scan (shiny objects) 3
 >
 >#### Bond Cords
 >Bronze Cord (body) 1, Gold Cord (magic) Z, Silver Cord (mind) 2
@@ -2099,7 +2099,7 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 
 Giuseppe was born in southern Italy. His family was slaughtered by a Norman lord, but Giuseppe managed to escape and make his way to the covenant of Magvillus in Italy. There Giuseppe trained in the arts, and he soon showed a fondness for Perdo magic. After completing his apprenticeship, Giuseppe wandered throughout Europe. He traveled with a number of mercenary bands, eventually joining the army of William the Lion in his English invasion. He quarreled with his Scottish patron and found his way to Horsingas, where he was welcomed for his expertise in war.
 
-Giuseppe often gets into scraps with nobles, especially Normans, a breed for whom he has nothing but hatred. He rarely uses his magical skills in flashy ways; instead, he prefers to use them to subtly augment his own effectiveness. He is attended at all times by Dent Coccinus, his mastiff familiar. Giuseppe has picked up the unconscious habit of growling, showing his teeth, and raising his hackles when he is threatened or when trying to intimidate his opponents. Dent Coccinus wears heavy leather body armor anda spiked collar on raids.
+Giuseppe often gets into scraps with nobles, especially Normans, a breed for whom he has nothing but hatred. He rarely uses his magical skills in flashy ways; instead, he prefers to use them to subtly augment his own effectiveness. He is attended at all times by Dent Coccinus, his mastiff familiar. Giuseppe has picked up the unconscious habit of growling, showing his teeth, and raising his hackles when he is threatened or when trying to intimidate his opponents. Dent Coccinus wears heavy leather body armor and a spiked collar on raids.
 
 #### Sir Jehan of Surrey, House Jerbiton
 
@@ -2109,9 +2109,9 @@ His studies were completed under Cynewulf, and after his initiation he stayed on
 
 #### Ealwynn of Keswick, House Bjornaer
 
-Ealwynn is a short woman, with strong connections to her heart-beast form, the stoat or ermine. As a child she was considered by her parents and their neighbors to be bewitched. At the age of five she was kidnapped by Hosvir Goatlegs, an itinerant Bjornaer mage, who raised her as his own child. He trained her in the magical arts once she was old enough to comprehend the lessons. Ealwynn was content to travel with Hosvir, visiting both sides of the border. The two magi rescued Coenwulf, who joined the pair in their wanderings. Hosvir was killed and eaten by Norman soldiers while in his heart-beast form (a goat). Running away from the remains of her mentor with tears in her eyes, Ealwynn swore to avenge him on the Normans. She and Coenwulf joined Horsingas, and soon she hada reputation as a bloodthirsty killer, quite literally. When Coenwulf declared his passion for her, she pledged her troth to him, and the two have been common-law husband and wife since.
+Ealwynn is a short woman, with strong connections to her heart-beast form, the stoat or ermine. As a child she was considered by her parents and their neighbors to be bewitched. At the age of five she was kidnapped by Hosvir Goatlegs, an itinerant Bjornaer mage, who raised her as his own child. He trained her in the magical arts once she was old enough to comprehend the lessons. Ealwynn was content to travel with Hosvir, visiting both sides of the border. The two magi rescued Coenwulf, who joined the pair in their wanderings. Hosvir was killed and eaten by Norman soldiers while in his heart-beast form (a goat). Running away from the remains of her mentor with tears in her eyes, Ealwynn swore to avenge him on the Normans. She and Coenwulf joined Horsingas, and soon she had a reputation as a bloodthirsty killer, quite literally. When Coenwulf declared his passion for her, she pledged her troth to him, and the two have been common-law husband and wife since.
 
-Her magic, as well as her appearance, is regulated by the seasons. In the summer she enjoys increased ability with Creo, Corporem, and Animal arts, while her Perdo, Ignem, and Imágonem are reduced. In the winter the affected arts are reversed. The arts gradually turn during the spring and fall, and on the equinoxes all the arts are at their "base" level. Her beast form and her hair also follow this transition: in the summer she is a darkhaired woman anda stoat; during the winter she is white-haired and an ermine. Targets of her spells feel the pain of bites, and she specializes in Perdo, Animal, and Córporem. Several times she has been seen lapping at the blood of her victims after battle.
+Her magic, as well as her appearance, is regulated by the seasons. In the summer she enjoys increased ability with Creo, Corporem, and Animal arts, while her Perdo, Ignem, and Imágonem are reduced. In the winter the affected arts are reversed. The arts gradually turn during the spring and fall, and on the equinoxes all the arts are at their "base" level. Her beast form and her hair also follow this transition: in the summer she is a dark-haired woman and a stoat; during the winter she is white-haired and an ermine. Targets of her spells feel the pain of bites, and she specializes in Perdo, Animal, and Córporem. Several times she has been seen lapping at the blood of her victims after battle.
 
 #### Coenwulf Eofurcumbol, House Bjornaer
 
@@ -2149,7 +2149,7 @@ The Nixons surround the covenant, and they also provide security against English
 
 ### Resources
 
-The covenant has few true resources, Other than what can be stolen from its neighbors. The glassware in the laboratories came from a raid several decades ago, the vellum and writing supplies are raided from abbeys and monasteries, and the cash reserves are from raided tax collectors. The Grea around the covenant provides some Vis, notably Herbam and Muto, but the Magi find that they have to raid farther and farther afield to maintain their stocks of other forms. The Isle of Man is an inviting target for their vis-hunting, but because of their "wanted" status in Carlisle, it is difficult to hire a boat and crew.
+The covenant has few true resources, Other than what can be stolen from its neighbors. The glassware in the laboratories came from a raid several decades ago, the vellum and writing supplies are raided from abbeys and monasteries, and the cash reserves are from raided tax collectors. The area around the covenant provides some Vis, notably Herbam and Muto, but the Magi find that they have to raid farther and farther afield to maintain their stocks of other forms. The Isle of Man is an inviting target for their vis-hunting, but because of their "wanted" status in Carlisle, it is difficult to hire a boat and crew.
 
 ### Outside Relations
 
@@ -2248,7 +2248,7 @@ Caitlin is a half-faerie, half-human maga of unequaled power in Scotland, if not
 Caitlin's two great companions in life are her daughter, Aine, and her faerie dog, Gliocas (glicus, wisdom). Aine is her daughter by Oenghus; nine years old and a flirt, she has started Hermetic training under Alexander. Gliocas has been with Caitlin for two hundred years, but he is getting a little slower lately. Caitlin fears that he does not have too much more time in this world and is preparing for the shock oflosing him when he finally passes away.
 
 >### Caitlin Suil Uaine, House Merinita
->Age: 327<br> 
+>Age: 327<br>
 >Size: 0
 >
 >#### Characteristics Virtues & Flaws
@@ -2294,7 +2294,7 @@ Caitlin's two great companions in life are her daughter, Aine, and her faerie do
 >|               |              |        |         |         | Encumbrance: 0  |
 >
 >#### Weapons, Armor, and Items
->Cloak of Concealment: Mulm 25; the wearer is hard to pick out against the background (-5 to Scan rolls when still, -2 when moving). Oak wand talisman: +7 protection from storms, +4 control things at a distance, +4 destroy things at a distance, +3 project bolt or missile, +2 repel things; focus for Curse ofCirce (MuCo 30), focus for Panic of the Elephant's Mouse (ReAn 15)
+>Cloak of Concealment: MuIm 25; the wearer is hard to pick out against the background (-5 to Scan rolls when still, -2 when moving). Oak wand talisman: +7 protection from storms, +4 control things at a distance, +4 destroy things at a distance, +3 project bolt or missile, +2 repel things; focus for Curse of Circe (MuCo 30), focus for Panic of the Elephant's Mouse (ReAn 15)
 >
 >Ring of Plant Mastery (a wooden ring): Allows spontaneous Rego Herbam spells of level 20 or less with no fatigue loss.
 >
@@ -2322,9 +2322,9 @@ Caitlin's two great companions in life are her daughter, Aine, and her faerie do
 >Size 0
 >
 >#### Characteristics
->|     |                   |     |               | 
->| --- | ----------------- | --- | ------------- | 
->| O   | Cun               | n/a | Pre           | 
+>|     |                   |     |               |
+>| --- | ----------------- | --- | ------------- |
+>| O   | Cun               | n/a | Pre           |
 >| +1  | Per (sight hound) | n/a | Com           |
 >| +3  | Str (wiry)        | -5  | Dex (agile)   |
 >| +10 | Sta (untiring)    | +4  | Qik(sprinter) |
@@ -2337,9 +2337,9 @@ Caitlin's two great companions in life are her daughter, Aine, and her faerie do
 >| ------------ | --- | --- | ----- | --- |
 >| Bite Totals: | +10 | +11 | -     | +8  |
 >
->Dodge Defense: +8<br> 
->Soak: +14<br> 
->Fatigue: +10<br> 
+>Dodge Defense: +8<br>
+>Soak: +14<br>
+>Fatigue: +10<br>
 >Encumbrance: 0
 >
 >#### Body Levels
@@ -2447,7 +2447,7 @@ Wildcats are watched for signs of the upcoming weather. If one is seen frolickin
 >| Bite and Claw Totals: | +10          | +8    | -     | +4   | Dodge: +8      |
 >
 >Dodge Defense: +11<br>
->Soak: 0<br> 
+>Soak: 0<br>
 >Fatigue: +2<br>
 >Encumbrance: 0
 >
@@ -2465,7 +2465,7 @@ Wildcats are watched for signs of the upcoming weather. If one is seen frolickin
 The count is a proud, arrogant member of the court and is privately jealous of | Oenghus's popularity and skill. The count's | whole purpose in life is to play shinty, and he spends hours practicing (though he never seems to get any better). His quarters are on the second level of the regio, and he has an entire hallway down which he shoots and dribbles at all hours of the day and night. Gwyridden is fond of the color red, and his outfits are all predominantly that color. When playing shinty, he wears red leather that has been enchanted to repel wood. Gwyridden is not much of a team player, preferring to hog the ball and the glory.
 
 >### Count Gwyridden, Daoine Sith Shinty Champion
->Age: 234<br> 
+>Age: 234<br>
 >Size: 0
 >
 >#### Characteristics Virtues & Flaws
@@ -2514,7 +2514,7 @@ The count is a proud, arrogant member of the court and is privately jealous of |
 A distinct contrast to Gwyridden, Oenghus is warm and friendly, often partying to all hours of the night with the other members of the court. Oenghus is the only mortal who lives in the second regio of the hill, but this bothers him not at all. He is popular with both the sith and the mortals of the covenant. While Gwyridden practices and never seems to improve, Oenghus never practices, yet he is still a better player than the count, which is galling to the proud sith. Oenghus played in the last game against the Prince, where he proved his championship mettle. He looks forward eagerly to the rematch, which he hopes will be soon, as he is not getting any younger. Caitlin has promised to create a longevity potion for him; but in any event the effects of the hill have retarded his aging, and he still has many years left—a fact of which he is not aware.
 
 >### Oenghus Dubh, Mortal Shinty Champion
->Age: 31<br> 
+>Age: 31<br>
 >Size: 0
 >
 >#### Characteristics Virtues & Flaws
@@ -2553,7 +2553,7 @@ A distinct contrast to Gwyridden, Oenghus is warm and friendly, often partying t
 
 ### Covenfolk and Freiceadanan
 
-Most of the covenfolk are the faerie retainers who stayed with the hill, rather than follow the Prince ofthe Grey Jerkinwhen he lost his fifth shinty match. Titles abound among the sith; even the lowliest brownie servant claims to be an earl or baron of the court, much to the amusement of the daoine sith, The day-to-day upkeep of the covenant is performed by household faeries. Sometimes their efficiency causes trouble, such as when they clean up after someone who had not finished with what he or she was doing. (The worst punishment for this offense is to have to work at the same task for a long period of time, with no variation in the chore.) The mortal covenfolklive on the first level of the regio and are mostly herdsmen. A few act as guards for the mortal flocks.
+Most of the covenfolk are the faerie retainers who stayed with the hill, rather than follow the Prince of the Grey Jerkin when he lost his fifth shinty match. Titles abound among the sith; even the lowliest brownie servant claims to be an earl or baron of the court, much to the amusement of the daoine sith, The day-to-day upkeep of the covenant is performed by household faeries. Sometimes their efficiency causes trouble, such as when they clean up after someone who had not finished with what he or she was doing. (The worst punishment for this offense is to have to work at the same task for a long period of time, with no variation in the chore.) The mortal covenfolk live on the first level of the regio and are mostly herdsmen. A few act as guards for the mortal flocks.
 
 All the covenfolk play shinty and make up the covenant's team. However, there are currently two players who do little else but play shinty. Count Gwyridden is a daoine sith and has played the game for centuries. His rival and partner is Oenghus Dubh, a mortal man whose prowess is legendary in the lands of the sith. With one of these two the covenant can win most games; with both, Caitlin is nearly guaranteed a win against the most proficient team. The Prince knows of these two, and his plots often revolve around injuring or luring one to his own side.
 
@@ -2626,7 +2626,7 @@ With its stocks of vis, the covenant can usually trade for any mundane item need
 
 ## Each Sith (eck shee) - Faerie Horse
 
-The faerie horses are bred for the use of high faeries of the seelie court. The beasts are magnificent specimens, with regal bearing and spotless coats, and they standa bit larger than mortal horses. Faerie horses can walk or run over water as if it were land and at twice the speed of normal horses. When being ridden in a rade, they have bells entwined in their manes and tails as a protection against unseelie fairies. The only place a mortal is likely to see each sith is at the covenant of Crun Clach, where Caitlin Suil Uaine keeps a  stable of about a dozen of the creatures.
+The faerie horses are bred for the use of high faeries of the seelie court. The beasts are magnificent specimens, with regal bearing and spotless coats, and they stand a bit larger than mortal horses. Faerie horses can walk or run over water as if it were land and at twice the speed of normal horses. When being ridden in a rade, they have bells entwined in their manes and tails as a protection against unseelie fairies. The only place a mortal is likely to see each sith is at the covenant of Crun Clach, where Caitlin Suil Uaine keeps a stable of about a dozen of the creatures.
 
 >### Each Sith (eck shee) - Faerie Horse
 >| Faerie Might | Size |
@@ -2815,7 +2815,7 @@ The covenant of Mac Gruagach is part of the larger Clan Mac Gruagach (the childr
 
 Aonghus Lamh laran are both officers of Clan Mac Gruagach and must ultimately follow the commands of Donncadh Mac Calum, who is the chief of the clan.
 
-The covenant is organized along the lines of a typical Highland clan, and the covenant buildings are spread throughout Glen Glas, rather than huddled close together. Much of the valley has a Magic aura, which ranges from 0 to 5. Each member of the covenant builds his or her residence on a site that suits his or her magic, with Domnhull living on the only site with an aura of 5. Each house has its own Aegis ofthe Hearth, as the entire glen is too large for one Aegis. In the hills surrounding the covenant are shielings for the summer cattle herding, as well as the houses of the more reclusive members of the clan.
+The covenant is organized along the lines of a typical Highland clan, and the covenant buildings are spread throughout Glen Glas, rather than huddled close together. Much of the valley has a Magic aura, which ranges from 0 to 5. Each member of the covenant builds his or her residence on a site that suits his or her magic, with Domnhull living on the only site with an aura of 5. Each house has its own Aegis of the Hearth, as the entire glen is too large for one Aegis. In the hills surrounding the covenant are shielings for the summer cattle herding, as well as the houses of the more reclusive members of the clan.
 
 ### Origins of the Covenant of Mac Gruagach
 
@@ -2834,7 +2834,7 @@ Calum is the effective head of the covenant (not the clan), though he has abdica
 He is known to be the true power in the covenant, at least in the Loch Leglean Tribunal. He has a deep and abiding love of his clan and will do much to preserve its members. He has given himself the obligations of aid, counsel, and magical gifts to the clan. In addition, it is he who started sending suitable clan members to other covenants on the continent for training. Only one or two are sent in each generation, but even this influx of other thought is enough to keep the covenant from getting stagnant.
 
 >### Calum Mac Lachlan, Ex Miscellanea Gruagach, Head of Covenant
->Age: 135<br> 
+>Age: 135<br>
 >Size: +1
 >
 >#### Characteristics
@@ -2873,7 +2873,7 @@ He is known to be the true power in the covenant, at least in the Loch Leglean T
 >| Weapon         | First Strike | Attack | Damage | Parry |                     |
 >| -------------- | ------------ | ------ | ------ | ----- | ------------------- |
 >| Spear Totals:  | +8           | +5     | +8     | 0     | Dodge Defense: -2   |
->| Sling Totals:  | Rate 1/round | +5     | +4     | -     | Soak:+7             | 
+>| Sling Totals:  | Rate 1/round | +5     | +4     | -     | Soak:+7             |
 >| Shield Totals: | +8           | +5     | +8     | +7    | Fatigue: -2         |
 >|                |              |        |        |       | Encumbrance: 0      |
 >
@@ -2888,7 +2888,7 @@ Domnhull's familiar is Cagair an t-Aile (cager an-tailu, Whisper of the Wind), a
 
 ##### Spells of Domnhull's Invention
 
-Enchantment to Block the Assault ofIron (Rego Terram 20) Spell Focus: Iron ring (+2) R: Self/Touch, D: Conc./Sun
+Enchantment to Block the Assault of Iron (Rego Terram 20) Spell Focus: Iron ring (+2) R: Self/Touch, D: Conc./Sun
 
 This spell blocks all attacks that have substantial metal (not just iron) components (swords, maces, some axes, etc.). The target of the attacks need not be aware of them. An item (such as the iron amulet that acts as the focus) is enchanted with the spell. The wearer of the object is then protected from the attacks; if the item is removed, the spell is canceled. This item cannot be given to anyone else: it is keyed to the original target of the spell. This spell is incompatible with the Enchantment to Block the Assault of Wood.
 
@@ -2896,14 +2896,14 @@ Enchantment to Block the Assault of Wood (Rego Herbam 20)
 
 Spell Focus: Wooden ring (+1) R: Self/Touch, D: Conc./Sun
 
-This spell blocks all attacks that have substantial wooden components (arrows, spears, axes, etc.). The target of the attacks need not be aware of them. An item is enchanted with the spell (such as the wooden ring that acts as the focus). The wearer of the object is then protected from the attacks; if the item is removed, the spell is canceled. This item cannot be given to anyone else: it is keyed to the original target of the spell. This spell is incompatible with the Enchantment to Block the Assault ofIron.
+This spell blocks all attacks that have substantial wooden components (arrows, spears, axes, etc.). The target of the attacks need not be aware of them. An item is enchanted with the spell (such as the wooden ring that acts as the focus). The wearer of the object is then protected from the attacks; if the item is removed, the spell is canceled. This item cannot be given to anyone else: it is keyed to the original target of the spell. This spell is incompatible with the Enchantment to Block the Assault of Iron.
 
-Shield ofMystic Might (Rego Terram 35) Spell Focus: Iron and wood ring (+4) R: Self/Touch, D: Sun/Moon, Requisite: Herbam
+Shield of Mystic Might (Rego Terram 35) Spell Focus: Iron and wood ring (+4) R: Self/Touch, D: Sun/Moon, Requisite: Herbam
 
 A combination of the two Enchantment to Block spells, this spell blocks all metal or wooden attacks. Its effects and restrictions are the same as the two Enchantment to Block spells.
 
 >### Domnhull Beg, house Bonisagus
->Age: 109<br> 
+>Age: 109<br>
 >Size: 0
 >
 >#### Characteristics
@@ -2941,7 +2941,7 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 >#### Spellcasting Information
 >Spellcasting Speed: +3<br
 >Twilight Points: 18<br>
->Effects of Twilight: Increased understanding of Córporem, may write up to 2/3 his Córporem score<br> 
+>Effects of Twilight: Increased understanding of Córporem, may write up to 2/3 his Córporem score<br>
 >Blatant Gift<br>
 >Wizard's Sigil: A slight glow emanating from his eyes. This cannot be seen under most conditions, but may be faintly visible in overcast or twilight conditions and is easily visible in the dark.
 >
@@ -2953,7 +2953,7 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 >| ------ | ------------ | ------ | ------ | ----- | -------------- |
 >| None   | -            | -      | -      | -     | Dodge: 0       |
 >|        |              |        |        |       | Soak: -1       |
->|        |              |        |        |       | Fatique: -1    |
+>|        |              |        |        |       | Fatigue: -1    |
 >|        |              |        |        |       | Encumbrance: 0 |
 >
 >#### Weapons, Armor, and Items
@@ -2986,9 +2986,9 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 >| ------------ | --- | --- | ----- | --- |
 >| Claw Totals: | 47  | +6  | -     | +3  |
 >
->Soak: -3<br> 
+>Soak: -3<br>
 >Dodge Defense: +8<br>
->Encumbrance: 0<br> 
+>Encumbrance: 0<br>
 >Fatigue: +3
 >
 >#### Body Levels
@@ -3046,10 +3046,10 @@ Donncadh wasa hell-raiser in his youth, but the excesses have caught up with him
 
 #### Mairi Falt Ban
 
-Donncadh's wife, Mairi, fell in love with her husband when he was the dashing young man who always had a kind word and a smile for a shy girl. Married in her teens, she has stayed by him even in his worst moods and rages. Mairi is the unofficial leader of the women ofthe clan. She often intercedes with Donncadh for mercy or leniency when his stubbomness threatens to lead to injustice. While not an official member of the clan hierarchy, Mairi has more say in how the clan runs than Aonghus larann Lamh or Lachlan. She projects an aura of calm, often able to defuse tense moments justby walking into the room. She will take no nonsense from the menfolk of the dan, and the prospect of facing her calm wrath will scare even the bravest warrior.
+Donncadh's wife, Mairi, fell in love with her husband when he was the dashing young man who always had a kind word and a smile for a shy girl. Married in her teens, she has stayed by him even in his worst moods and rages. Mairi is the unofficial leader of the women of the clan. She often intercedes with Donncadh for mercy or leniency when his stubbornness threatens to lead to injustice. While not an official member of the clan hierarchy, Mairi has more say in how the clan runs than Aonghus larann Lamh or Lachlan. She projects an aura of calm, often able to defuse tense moments just by walking into the room. She will take no nonsense from the menfolk of the clan, and the prospect of facing her calm wrath will scare even the bravest warrior.
 
 >### Donncadh Mac Calum, Chief of Clan Mac Gruagach
->Age: 55<br> 
+>Age: 55<br>
 >Size: 0
 >
 >#### Characteristics
@@ -3115,7 +3115,7 @@ the humans to benefit from the roof and the heat generated by the cows, goats, a
 
 As members of the clan, the covenant-folk may call upon the men for raids or war, especially as the current war chief is a magus. The covenant's spells help augment the animals of the clan and the produce of the fields. With the increased food, the clan is able to support the covenant members who do not normally work the fields or herds. However, there is little in the way of glassware, ironwork, or other products of civilization. Baskets woven of reeds or twigs must hold each magus's goods, and fired pottery doubles as lab ware.
 
-The lands around the covenant abound in vis, producing six anda half rooks of mixed vis a year, with another two and a half rooks that is also claimed by other covenants. Each year, 14 pawns of Córporem vis is extracted from the used thatch of the clan houses. This windfall allows the covenant favorable vis trades for those forms that they cannot collect locally. The vis collected from thatch comes from the concentrated breath of the houses' occupants that collects in the thatch, and under the influence of the area's aura it transforms into Corporem vis. Other forms of vis that might collect in thatch include Auram from wind, Herbam from the thatch itself, or Ignem from soot and smoke. Occasionally, Animal vis might be found. Each house's thatch will trap no more than 1 pawn of vis, and the house must be located in a Magic aura with a strength of at least 2.
+The lands around the covenant abound in vis, producing six and a half rooks of mixed vis a year, with another two and a half rooks that is also claimed by other covenants. Each year, 14 pawns of Córporem vis is extracted from the used thatch of the clan houses. This windfall allows the covenant favorable vis trades for those forms that they cannot collect locally. The vis collected from thatch comes from the concentrated breath of the houses' occupants that collects in the thatch, and under the influence of the area's aura it transforms into Corporem vis. Other forms of vis that might collect in thatch include Auram from wind, Herbam from the thatch itself, or Ignem from soot and smoke. Occasionally, Animal vis might be found. Each house's thatch will trap no more than 1 pawn of vis, and the house must be located in a Magic aura with a strength of at least 2.
 
 Unfortunately for the covenant and for Calum's hopes, the clan has had bad luck with its library and labs. A raid from a neighboring clan destroyed several of the outlying buildings, including one of a magus doing research. In the ensuing fire, many important volumes burned, and many more suffered damage by water and exposure. Now the books are nominally as presented, but each time they are consulted they have a chance of falling apart or of not having the information they are supposed to contain.
 
@@ -3499,7 +3499,7 @@ A Geas is a prohibition against some act, which, if broken, invokes a Curse on t
 
 Geasa cast by a player during play must be overseen by the storyguide. He or she may assign penalties or bonuses to the roll depending on how the Geas fits into the saga and depending on the actions of the target and caster.
 
-#### Geas Gase Factor Modifiers
+#### Geas Ease Factor Modifiers
 
 
 | Prohibitions:          |                      |
@@ -3543,7 +3543,7 @@ The Gift is continuing if it has onetime or reduced trait penalties, meaning tha
 
 A Gift must overcome Natural and Magic Resistance, even though the recipient wants the Gift in the first place. Botches on the Gift roll can affect the user or the recipient and can take many forms, from stricter prohibitions or penalties, to reversed effects (in effect turning the Gift into a Curse).
 
-#### Gift Gase Factor Modifiers
+#### Gift Ease Factor Modifiers
 
 
 | Gift:                   |                                   |
@@ -3721,7 +3721,7 @@ Note: Talents marked "MR" represent magical powers and can contribute to Magic R
 - Old (If character has External Soul)
 - Faerie Blood or related Virtues or Flaws
 - Faerie Magic
-- WithstandMagic, or Magical Resistance
+- Withstand Magic, or Magical Resistance
 - Werewolf
 - Immortal
 
@@ -3796,7 +3796,7 @@ While a gruagach can greatly affect other characters, there are a number of limi
 - Affect a character retroactively (for example, grant a Background Virtue or Flaw).
 - Affect the dead or their spirits.
 
-#### Shapeshift and "Transform
+#### Shapeshift and Transform
 
 The gruagach's ability to Shapeshift and ability to Transform others are linked. The Ease Factor depends on the size of the desired form, the type of animal or material of the form, and whether the form is natural or man-made. The greater the change in size, the harder the change. For example, it's easier to turn from toad shape into mouse shape than from a human shape into a mouse shape. Changing to a supernatural creature is possible, but the Magic Might of the creature is added to Ease Factor. It is not possible for users of these Talents to shift into angelic, demonic, or faerie forms. They may not shapeshift into a specific creature or person, and any physical defects they have translate to the new form. No words or gestures are needed, and the change is virtually instantaneous. While in animal form, the character has all the senses and abilities that the animal enjoys. In an inanimate form, a character has only touch and hearing to guide him or her.
 
@@ -3804,7 +3804,7 @@ Casting Total: Stress die + Int + Talent + Speak Pictish + Potency
 
 Shapeshift and Transform change the target's clothing, including shoes, boots, and belts. Small amounts of metal (a dagger, rings, a medallion) also change with the target, but no magical effect granted by an object operates until it is back in its original form. Large amounts of metal (armor, weapons, a sack of coins) do not change, but instead fall to the ground around the target. If the target gained two or more levels of Size, armor bursts as the body grows inside it. The target takes +5 damage if wearing scale or other leatherbacked armor, +10 if wearing chain.
 
-For Shapeshift, the base Ease Factor for changing is 6. A gruagach failing the roll may not attempt to assume that general form again until the next dawn. General forms are those listed in "Shapeshift and Transform Difficulty Modifiers." For instance, a gruagach who tries to change into a hare and fails cannot turn into any other type ofmammal until the next sunrise.
+For Shapeshift, the base Ease Factor for changing is 6. A gruagach failing the roll may not attempt to assume that general form again until the next dawn. General forms are those listed in "Shapeshift and Transform Difficulty Modifiers." For instance, a gruagach who tries to change into a hare and fails cannot turn into any other type of mammal until the next sunrise.
 
 Shapeshifted gruagach can be identified by Sight of the True Form or Second Sight. Gruagach may always return to their own form by rolling 3+ using the regular shapeshifting rules. Thus, gruagachan are immune to most shapeshifting magic (for example, Muto Corporem spells, Transform).
 
@@ -3940,7 +3940,7 @@ Brude Deathless is over 550 years old and the most powerful human or humancross 
 Brude's main focus is to keep the gruagach traditions alive. When he takes an apprentice, one of the first things he does is to cast a Geas on him or her. As a result, the apprentice must train at least one apprentice before his or her forty-ninth birthday or lose all gruagach powers.
 
 >### Brude Deathless
->Age: 550<br> 
+>Age: 550<br>
 >Size:+2
 >
 >#### Characteristics
@@ -3960,7 +3960,7 @@ Brude's main focus is to keep the gruagach traditions alive. When he takes an ap
 >#### Magic Resistance
 >60
 >
->#### Virtues & Plams
+>#### Virtues & Flaws
 >Aptitude (+2 with Shapechange) +4, Clear-thinker +1, Enduring Constitution +1, External Soul +4, Giant's Blood +5, Self-confident +2, Sharp Ears +1, Tough +1; Blatant Gift -1, Dark Secret (son of Damhan-allaidh) -1, Deficiency (1/2 score against the truly virtuous) -2, Reclusive -1, Fury (if disturbed) -3, Poor Eyesight -1, Social Handicap (appearance, smells) -2, Tainted with Evil -1
 >
 >#### Reputation
@@ -4034,9 +4034,9 @@ Highland cattle are generally more intelligent than their tractable cousins. If 
 >#### Characteristics
 >|     |     |     |      |
 >| --- | --- | --- | ---- |
->| +1  | Int | n/a | Pre  | 
->| +1  | Per | n/a | Com  | 
->| +2  | Str | +1  | Dex  | 
+>| +1  | Int | n/a | Pre  |
+>| +1  | Per | n/a | Com  |
+>| +2  | Str | +1  | Dex  |
 >| +4  | Sta | +1  | Qik  |
 >
 >#### Personality Traits
@@ -4058,7 +4058,7 @@ Highland cattle are generally more intelligent than their tractable cousins. If 
 >#### Fatigue Levels
 >OK, 0/0, -1, -3, -6, Incapacitated
 >
->#### Abilities 
+>#### Abilities
 >Dodge 1
 
 ## Blood Feud
@@ -4111,7 +4111,7 @@ Magical giants have the powers of the gruagach and more. The gruagachan claim th
 >| +4  | Int (wise)              | -5  | Pre (awe-inspiring) |
 >| +4  | Per (excellent hearing) | 0   | Com                 |
 >| +15 | Str (huge)              |  O  | Dex                 |
->| +10 | Sta (unstoppable)       | -4  | Qik (ungainly)      |   
+>| +10 | Sta (unstoppable)       | -4  | Qik (ungainly)      |
 >
 >#### Virtues and laws
 >External Soul +4
@@ -4119,7 +4119,7 @@ Magical giants have the powers of the gruagach and more. The gruagachan claim th
 >#### Personality Traits
 >+3 Jumpy
 >
->#### Magical Atbilities
+>#### Magical Abilities
 >Shapeshift (control) 15, Magic Sensitivity (distance) 13, Faerie Sensitivity (Unseelie) 10, Weather Sense (storms) 12, Second Sight (magic) 12
 >
 >#### Confidence
@@ -4131,7 +4131,7 @@ Magical giants have the powers of the gruagach and more. The gruagachan claim th
 >| Boulder Totals: | Rate 1/round | +3  | -   | +60 |
 >| Club Totals:    | +5           | +9  | -   | +35 |
 >
->Dodge Defense: -3<br> 
+>Dodge Defense: -3<br>
 >Soak: +20<br>
 >Fatigue: +20<br>
 >Encumbrance: 0
@@ -4156,7 +4156,7 @@ Magical giants have the powers of the gruagach and more. The gruagachan claim th
 >
 >#### Gruagach Magic
 >
->The famhairan a'falach use gruagach magic, adding their ability in Speak Giant instead of Speak Pictish when using their Talents.
+> The famhairan a'falach use gruagach magic, adding their ability in Speak Giant instead of Speak Pictish when using their Talents.
 
 ### Famhair Laidir - Non-magical Highland Giant
 
@@ -4168,7 +4168,7 @@ The non-magical cousins of the famhairan a'falach, the famhairan laidir generall
 >| -3  | Int (dense)         | -6  | Pre (impressively huge) |
 >| +6  | Per (keen nose)     | 0   | Com                     |
 >| +35 | Str (huge)          | -1  | Dex (ungainly)          |
->| +40 | Sta (supernatural)  | -1  | Qik (slow reactions)    | 
+>| +40 | Sta (supernatural)  | -1  | Qik (slow reactions)    |
 >
 >#### Virtues and Flaws
 >External Soul +4
@@ -4176,7 +4176,7 @@ The non-magical cousins of the famhairan a'falach, the famhairan laidir generall
 >#### Personality Traits
 >+4 Easily Confused
 >
->#### Magical Aibilities
+>#### Magical Abilities
 >Shapeshift (control) 15, Magic Sensitivity (distance) 13, Faerie Sensitivity (Unseelie) 10, Weather Sense (storms) 12, Second Sight (magic) 12
 >
 >#### Confidence
@@ -4190,7 +4190,7 @@ The non-magical cousins of the famhairan a'falach, the famhairan laidir generall
 >
 >Dodge Defense: -6<br>
 >Soak: +64<br>
->Fatigue: +40<br> 
+>Fatigue: +40<br>
 >Encumbrance: 0
 >
 >#### Body Levels
@@ -4199,7 +4199,7 @@ The non-magical cousins of the famhairan a'falach, the famhairan laidir generall
 >#### Fatigue Levels
 >OK, 0/0/0/0 -1/-1/-1, -3/-3, -6, Unconscious
 >
->#### Abilities 
+>#### Abilities
 >Club Attack (sweep) 3, Smell (food) 5, Throw Rock (distance) 1
 >
 >#### Weapons and Armor
@@ -4222,7 +4222,7 @@ If the characters agree to retrieve the queen's heart, they will be told that it
 
 The storyguide should take pains to conceal the fact that the queen is really a famhair a'falach who is trying to retrieve her external soul. The storyguide is free to make the journey as long as he or she wants. The storyguide may involve the characters in tribunal politics, encounters with the Highland faeries, and finally a confrontation with the guardians on the queen's home island. (What, did the eagle forget to mention those? Oh dear.) Of course, a rock that a forty-foot giant can lift easily is a bit more than mere human strength can shift. The payment will be just as the eagle promised, except on a giant scale (rubies the size of your hand, gold nuggets the size of your head, magic rings crafted for a giant's finger, etc.).
 
-## Lord Goulis and the Demons of Monksend Qastle
+## Lord Goulis and the Demons of Monksend Castle
 
 King Alexander I appointed Henry de Goulis as his seneschal, and such was Alexander's dependence on Henry that he made the title hereditary in 1121. The seneschals served the kings of Scotland with dedication and intelligence, soon making themselves indispensable. David Goulis, Henry's greatgrandson, began construction of a castle named "Monksend" in 1187, having taken the lands of a Benedictine monastery for his own. Rumors immediately started to spread of David's atrocities: the Benedictines claimed that David had slaughtered the abbot of the monastery and laid him under the cornerstone of the castle. In 1189 David brought forward a monk to dispute these allegations, but still they persisted.
 
@@ -4233,7 +4233,7 @@ The characters can become involved with Lord Goulis in a number of ways. Perhaps
 Lord Goulis is a threat to covenants (and the population at large) located in the Borders. Rarely does his hunting take him north of the Teviot or west of the Annan. He spends about three months of the year attending court with the king, then returns to Monksend. At court he appears to be an elderly man, with many physical problems. He has the reputation of being a shrewd bargainer and has been the power behind the throne in many momentous decisions. When at home at Monksend, he normally dresses in his demonic armor, which imbues him with strength and grace and overcomes his physical defects. Robyn Redcap, his demonic familiar, watches over Monksend while his master is away. Robyn takes the form of the dark faerie known as a "redcap." He keeps his cap red by periodic applications of fresh blood, and is made stronger by it.
 
 >### David, Lord Goulis
->Age: 50<br> 
+>Age: 50<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4247,7 +4247,7 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >#### Virtues & Blas
 >Leadership +2, Self-confident +3, Social Contacts +1, Superior Demonic Familiar +4, Wealth +4; Bad Reputation (kidnapper) -1, Dark Secret (diabolist) -1, Obligation (to Hell) -1, Offensive to Animals -1, Palsied Hands -2, Susceptible to Divine Power -4, Tainted by Evil -2
 >
->#### Personality Traits 
+>#### Personality Traits
 >Sadistic +5, Secretive +4
 >
 >#### Confidence
@@ -4280,7 +4280,7 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >|---------------|------|
 >| 35            | 0    |
 >
->#### Characteristics  
+>#### Characteristics
 >|     |                  |     |                             |
 >| --- | ---------------- | --- | --------------------------- |
 >| +3  | Int (twisted)    | -6  | Pre (smell of rotten blood) |
@@ -4289,7 +4289,7 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >| +2  | Sta (enduring)   | +4  | Qik (scampering)            |
 >
 >#### Virtues and Flaws
->none 
+>none
 >
 >#### Personality Traits
 >+5 crafty. +4 cruel
@@ -4306,8 +4306,8 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >| Rock Totals: | Rate 2/round | +8  | -     | +9  |
 >
 >Dodge Defense: +9<br>
->Soak: +7<br> 
->Encumbrance: 0<br> 
+>Soak: +7<br>
+>Encumbrance: 0<br>
 >Fatigue: +2
 >
 >#### Abilitics
@@ -4344,13 +4344,13 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >| 0        | Cun                 | +1   | Pre (horrifying)   |
 >| +2       | Per (soul-sight)    | n/a  | Com                |
 >| +2       | Str (un-natural)    | +4   | Dex (agile)        |
->| +1       | Sta (always hungry) | +5   | Qik (supernatural) | 
+>| +1       | Sta (always hungry) | +5   | Qik (supernatural) |
 >
 >#### Personality Traits
 >+5 hungry
 >
 >#### Confidence
->4 
+>4
 >
 >#### Combat Totals
 >| Weapon         | 1st | Atk | Parry | Dam |
@@ -4359,8 +4359,8 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >| Tackle Totals: | +10 | +10 | -     | *   |
 >
 >Dodge Defense: +10<br>
->Fatique: +1<br>
->Soak: +4<br> 
+>Fatigue: +1<br>
+>Soak: +4<br>
 >Encumbrance: 0
 >
 >\*Knockdown
@@ -4368,7 +4368,7 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >#### Body Levels
 >OK, 0, -1, -3, -6, Incapacitated
 >
->#### Fatique Levels
+>#### Fatigue Levels
 >OK, 0, -1, -3, -6, Unconscious
 >
 >#### Abilities
@@ -4425,7 +4425,7 @@ As any of the above scenarios, but the body of Damhan-allaidh has long since tur
 The players travel all over northern Scotland, with the fear that a major evil creature is waiting for them, only to find that the rumors of his rebirth have been greatly exaggerated. On the other hand, the characters will have plenty of opportunities to annoy or make enemies of the rest of the Order in Scotland. . . .
 
 >### Damhan-allaidh
->Age: 650?<br> 
+>Age: 650?<br>
 >Size:+1
 >
 >#### Characteristics
@@ -4437,13 +4437,13 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| +10 | Sta (vital)        | +6  | Qik (lightning quick)  |
 >
 >####  Virtues & Flaws
->External Soul +4, Hatred Passion (Order of Hermes) +5, Need  Not Sleep +5; Chaotic Magic - 4, Deleterious Circumstances (under clear skies) -3, Disfigured -2, Fury (when thwarted) -3, - | Hunchback -2, Vulnerability (obsidian) -3, Vulnerable (Celtic holy relics) -3, Weakness (strong drink) -1
+> External Soul +4, Hatred Passion (Order of Hermes) +5, Need Not Sleep +5; Chaotic Magic -4, Deleterious Circumstances (under clear skies) -3, Disfigured -2, Fury (when thwarted) -3, Hunchback -2, Vulnerability (obsidian) -3, Vulnerable (Celtic holy relics) -3, Weakness (strong drink) -1
 >
 >#### Personality Traits Reputation
 >Hate Order of Hermes +5, Insane (megalomaniac) +5 Dead +5, Evil +3
 >
->#### Confidence 
->5 
+>#### Confidence
+>5
 >
 >#### Magic Resistance
 >77
@@ -4451,7 +4451,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >#### Abilities
 >Alertness (sense magic) 6, Animal Ken (predators) 4, Area Knowledge—British Isles (magical sites) 4, Area Knowledge—Brittany (magical sites) 3, Area Knowledge—Highlands (magical sites) 6, Animal Handling (wolves) 3, Athletics (jump) 2, Bargain (faeries) 5, Boating (small craft) 4, Brawl (claws) 7, Church Lore (Scottish Church) 3, Climb (speed) 3, Concentration (screams) 5, Contortions (escape bonds) 7, Dart Attack (accuracy) 4, Diplomacy (from strength) 4, Direction Sense (hills) 4, Divination (entrails) 4, Dodge (swords) 4, Dousing (magic) 6, Drinking (get drunk) 2, Empathy (victims) 2, Enchanting Music (fear) 6, Entrancement (willing sacrifice) 5, Faerie Lore (history) 3, Fantastic Beast Lore (giants) 8, Folk Ken (victims) 4, Geasa (physical) 7, Gift (characteristics) 6, Gruagach Lore (outdated) 2, Gruagach Wisdom (new Talents) 30, Herbalism (poison) 6, Hermes History (Pralix) 3, Hex (fear) 3, Leadership (supernatural allies) 6, Legend Lore (early Britain) 6, Magic Sensitivity (Hermetic) 5, Magic Theory (gruagachan) 1, Mimicry (victim's voice) 5, Occult Lore (Scottish Highlands) 5, Perfect Balance (standing still) 3, Play Flute (haunting melodies) 4, Potency (curse) 6, Premonitions (Order of Hermes) 5, Read Lips (distance) 3, Ride Horse (speed) 5, Scan (forest) 6, Search (forest) 4, Second Sight (faeries) 4, Sense Holiness & Unholiness (relics) 7, Speak Frankish (courtly) 3, Speak Latin (archaic) 3, Speak Pictish (Geasa) 6, Speak Saxon (threats) 4, Two-handed Spear Attack (cruelty) 5, Two-handed Spear Parry (spears) 6, Stealth (walk silently) 5, Survival (forest) 4, Swim (ocean) 2, Track (humans) 4, Visions (hunters) 3, Weather Sense (storms) 4
 >
->#### Gruagach Afbilities
+>#### Gruagach Abilities
 >External Soul, Curse (physical) 17, Shapeshift (monsters) 20, Transform (fish) 20
 >
 >#### Special Gruagach Abilities
@@ -4493,13 +4493,13 @@ The players travel all over northern Scotland, with the fear that a major evil c
 ## Grog Templates
 
 >### Highland Sailor
->Age: 23<br> 
+>Age: 23<br>
 >Size: 0
 >
 >#### Characteristics
 >|     |                   |     |                    |
 >| --- | ----------------- | --- |  ----------------- |
->| -1  | Int (slow)        | 0   | Pre                | 
+>| -1  | Int (slow)        | 0   | Pre                |
 >| 0   | Per               | 0   | Com                |
 >| +1  | Str (brawny arms) | 0   | Dex                |
 >| +1  | Sta (hardy)       | -1  | Qik (rolling gait) |
@@ -4532,16 +4532,16 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Spear Totals: | +6           | +5     | +6     | 0     |
 >| Knife Totals: | +0           | +4     | +3     | 0     |
 >
->Soak: +1<br> 
->Encumbrance: 0<br> 
->Dodge: -1<br> 
+>Soak: +1<br>
+>Encumbrance: 0<br>
+>Dodge: -1<br>
 >Fatigue: +1
 >
 >#### Weapons, Armor, and Items
 >Knife, round shield, self bow and 12 arrows, short spear
 
 >### Ghillie, (gilly, young man)
->Age: 16<br> 
+>Age: 16<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4581,16 +4581,16 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Dart Totals:   | +3                  | +5 | +1     | -     |
 >| Shield Totals: | +0                  | +2 | -7     | 43    |
 >
->Soak:4<br> 
+>Soak:4<br>
 >Encumbrance: 0<br>
->Dodge: +4<br> 
+>Dodge: +4<br>
 >Fatigue: +2
 >
 >#### (Ceapons, Alrmor, and Items
 >Darts (three), dirk, leather jerkin, target shield
 
 >### Clansman
->Age: 30<br> 
+>Age: 30<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4629,16 +4629,16 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Dirk Totals:          | +6           | +7      | +8     | -2    |
 >| Shield Totals         | -1           | +2      | -2     | +5    |
 >
->Dodge: +3<br> 
+>Dodge: +3<br>
 >Soak: +3 <br>
->Fatique: +5<br> 
+>Fatigue: +5<br>
 >Encumbrance: 0
 >
 >#### Weapons, Armor, and Items
 >Dirk, helmet, leather jerkin, long ax, target shield
 
 >### Gallowglaigh
->Age: 25<br> 
+>Age: 25<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4677,7 +4677,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Broad Sword Totals:    | -3           | +5     | +8     | 0     |
 >| Kite Shield Totals:    | -3           | -2     | -l     | +7    |
 >
->Dodge: ax -6, sword -7<br> 
+>Dodge: ax -6, sword -7<br>
 >Soak: +13<br>
 >Fatigue: ax -4, sword -5<br>
 >Encumbrance: -5 with ax or -6 with sword and shield
@@ -4686,7 +4686,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Battle ax, broad sword, chain hauberk and helmet, kite shield
 
 >### Border Rider
->Age: 26<br> 
+>Age: 26<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4698,9 +4698,9 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| +1  | Sta (hardy)      | 0   | Qik                    |
 >
 >#### Virtues & lams
->Close Family Ties +1, Secret Hiding Place +1, Versatile Sleeper +1; Enemies (English knight) -1, Hired Lance -1, Weak-willed -1 
+>Close Family Ties +1, Secret Hiding Place +1, Versatile Sleeper +1; Enemies (English knight) -1, Hired Lance -1, Weak-willed -1
 >
->#### Personality Traits 
+>#### Personality Traits
 >Brave +1, Follower +2 Confidence
 >
 >#### Reputation
@@ -4729,8 +4729,8 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >#### Weapons, Armor, and [tems
 >Broad sword, hard leather cuirass armor, lance, round shield
 
->### Lowland City Militiaman 
->Age: 25<br> 
+>### Lowland City Militiaman
+>Age: 25<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4773,7 +4773,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 ## Companion Templates
 
 >### Lowland Merchant
->Age: 40<br> 
+>Age: 40<br>
 >Size: +1
 >
 >#### Characteristics
@@ -4800,22 +4800,22 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Alertness (thieves) 3, Bargain (animals) 4, Church Lore (local clerics) 1, Drinking (stay sober) 1, Etiquette (nobles) 2, Evaluate animals (cattle) 3, Folk Ken (customers) 4, Guile (merchandise) 4, Intrigue (burgh politics) 4, Pretend (poverty) 3, Ride (hills) 2, Scan (herds) 3, Search (animal health) 3, Track (cattle) 1, Wagoneering (hills) 1
 >
 >#### Combat Information
->Dodge: -1<br> 
+>Dodge: -1<br>
 >Soak:+0<br>
->Fatigue: -3<br> 
+>Fatigue: -3<br>
 >Encumbrance: 2
 >
 >#### Description
 >You are the chief of a sept of the larger clan, responsible for forty families. Unfortunately, you are not in the same area as the rest of the clan, so you must deal with your neighbors on your own. One of the neighboring clans is at blood feud with yours, over a murder and a kidnapping of twenty years ago. Another is allied with the first, and the pressure from the two of them has forced you to appeal to the magicians for aid. Now you and yours serve the magicians, in return for their protection.
 >
 >#### Quote
->"Ah, yes, you came down last year. Well, this poor old man had better look at your stock, eh? T hope this lot is better than the last—they nearly bankrupted me."
+>"Ah, yes, you came down last year. Well, this poor old man had better look at your stock, eh? I hope this lot is better than the last—they nearly bankrupted me."
 >
->#### Weapons, eXrmor, and Items
+>#### Weapons, Armor, and Items
 >None
 
 >### Bard/Olamh (Poet/Teacher)
->Age: 27<br> 
+>Age: 27<br>
 >Size: 0
 >
 >#### Qharacteristics
@@ -4854,14 +4854,14 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >
 >Dodge: -1<br>
 >Soak:-1<br>
->Fatigue: 0<br> 
+>Fatigue: 0<br>
 >Encumbrance: 0
 >
 >#### Ceapons, Alrmor, and Items
 >Harp, dirk
 
->### Monk of the Scottish Church 
->Age: 24<br> 
+>### Monk of the Scottish Church
+>Age: 24<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4903,7 +4903,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >"I hear the pain in your voice. Would you care to let me share your hurt with you? A sorrow shared is a sorrow halved."
 
 >### Highland Chieftan
->Age: 30<br> 
+>Age: 30<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4943,16 +4943,16 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Shield Totals:      | -6           | -2     | -5     | +5 (11) |
 >| Bow Totals:         | 1/round      | +6     | +8     | -       |
 >
->Dodge: -1<br> 
+>Dodge: -1<br>
 >Soak: +0<br>
->Fatigue: -3<br> 
+>Fatigue: -3<br>
 >Encumbrance: 2
 >
 >#### Ceapons, Armor, and Items
 >Bow and arrows, broad sword, dirk, leather helmet, linen cotte, shield
 
 >### Cailleach Glioc (Wise Woman)
->Age: 50<br> 
+>Age: 50<br>
 >Size: 0
 >
 >#### Characteristics
@@ -4979,11 +4979,11 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Area Lore—10-mile radius (people) 4, Bargain (services) 2, Church Lore (stories of saints) 2, Craft—weaver (hard tartan) 3, Etiquette (hospitality) 3, Evaluate Animals (milk) 2, Faerie Lore (monsters) 3, Fantastic Beast Lore (Highlands) 3, Folk Ken (lovers) 4, Gift (physical) 5, Intrigue (local clans) 3, Legend Lore (heroes) 4, Occult Lore (spirits) 3, Speak Gaelic (storytelling) 5, Storytelling (lessons) 4
 >
 >#### Combat Information
->Dodge: -1<br> 
+>Dodge: -1<br>
 >Soak: -2<br>
->Fatigue: -2<br> 
+>Fatigue: -2<br>
 >Encumbrance: 0<br>
->Decrepitute: +1
+>Decrepitude: +1
 >
 >#### Description
 >For long years you have lived here, at the top of this hill. When you were younger, you used to visit the surrounding clans; but the years have taken their toll, and you now receive visitors at your house. They come for many things: young girls come wishing to win the hearts of their young men; young men come for help gaining wealth or power. You look kindly on young lovers, but tell them stories to make them heed more than just their hearts. You can make small potions or amulets that give the requesters what they asked for, but they must heed your conditions or the gift is ruined.
@@ -4997,7 +4997,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 ## Magi Templates
 
 >### Ex Miscellanea Storm Witch
->Age: 32<br> 
+>Age: 32<br>
 >Size: 0
 >
 >#### Qharacteristics
@@ -5006,7 +5006,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| +3  | Int (clever)        | -3  | Pre (wild appearance) |
 >| +3  | Per (clear sighted) | -3  | Com (squeaky voice)   |
 >| 0   | Str                 | 0   | Dex                   |
->| +1  | Sta (robust)        | -1  | Qik (mervous)         |
+>| +1  | Sta (robust)        | -1  | Qik (nervous)         |
 >
 >#### Virtues & Flaws
 >Extra Arts (30) +3, Independent Magic +2, Magical Affinity (weather) +2, Sharp Ears +1, Subtle Magic +2; Blatant Gift -1, Hedge Wizard -1, Isolated from the Order -3, Necessary Condition (whistling) -1, Poor Eyesight -1, Poor Reader -3
@@ -5014,7 +5014,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >####  Personality Traits
 >Brave -2, Haggler +3
 >
->#### Confidence 
+>#### Confidence
 >3
 >
 >#### Reputation
@@ -5033,19 +5033,19 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| 11  | Re  | 0   | He  | 1   | Vi  |                        |
 >
 >#### Spells Known
->Gathering of the Stormy Might (ReAu 30) +23, Quiet the Raging Winds (PeAu 25) +20, Chaos of the Angry Wave (ReAq 20) +13, Circling Winds ofProtection (ReAu 20) +23, Maintain the Demanding Spell (ReVi 20) +13, Sailor's Foretaste of the Morrow (InAu 15) +12, Jupiter'sResounding Blow (ReAu 10) +23, Push of the Gentle Wave (ReAq 10) +13
+>Gathering of the Stormy Might (ReAu 30) +23, Quiet the Raging Winds (PeAu 25) +20, Chaos of the Angry Wave (ReAq 20) +13, Circling Winds of Protection (ReAu 20) +23, Maintain the Demanding Spell (ReVi 20) +13, Sailor's Foretaste of the Morrow (InAu 15) +12, Jupiter's Resounding Blow (ReAu 10) +23, Push of the Gentle Wave (ReAq 10) +13
 >
 >#### Wizard's Sigil
 >Smells of a storm approaching
 >
 >#### Combat Information
->Dodge: -1<br> 
+>Dodge: -1<br>
 >Soak: +1<br>
 >Fatigue: -1 <br>
 >Encumbrance: 0
 >
 >#### Description
->You were brought up in the traditions of the Highland weather witches, able to call or dispel storms just by whistling. The winds are your plaything, but you will harness them for a price. Sailors often come to you to guarantee their safety. To the magi of the Order of Hermes, you are beneath contempt: you cannot even speak Latin, let alone read it! You think of them as overblown windbags who needa few holes to let all that hot air out.
+>You were brought up in the traditions of the Highland weather witches, able to call or dispel storms just by whistling. The winds are your plaything, but you will harness them for a price. Sailors often come to you to guarantee their safety. To the magi of the Order of Hermes, you are beneath contempt: you cannot even speak Latin, let alone read it! You think of them as overblown windbags who need a few holes to let all that hot air out.
 >
 >#### Quote
 >"Of course I can get you a good breeze, but it will cost you."
@@ -5054,7 +5054,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >None
 
 >### Quaesitor Investigator
->Age: 34<br> 
+>Age: 34<br>
 >Size: 0
 >
 >#### Characteristics
@@ -5100,7 +5100,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Hair stands on end.
 >
 >#### Combat Information
->Dodge: -2<br> 
+>Dodge: -2<br>
 >Fatigue: 0<br>
 >Soak: 0<br>
 >Encumbrance: 0
@@ -5115,7 +5115,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >None
 
 >### Ex Miscellanea Shapeshifter
->Age: 23<br> 
+>Age: 23<br>
 >Size: 0
 >
 >#### Characteristics
@@ -5126,10 +5126,10 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| -1  | Str (scrawny)  | +1  | Dex (delicate step)     |
 >| 0   | Sta            | -1  | Qik (animal reflexes)   |
 >
->#### Personalitu Traits
+>#### Personality Traits
 >At Home in Beast Form +3, Brave (depends on form: Human +2, Wolf: +2, Goat 0, Hare -3, Raven Confidence -2, Wild +2 Eagle +3)
 >
->#### Virtues & Plams
+>#### Virtues & Flaws
 >Extra Arts +1, Silent Magic +4, Subtle Magic +2, Will over Form +3; Flawed Parma (Ignem) -1. Minor Ignem Deficiency -1, Orphan -1, Personal Magic -6, Weak Writer -1
 >
 >#### Reputation
@@ -5148,7 +5148,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| 0   | Re  | 1   | He  | 0   | Vi  |
 >
 >#### Spellcasting Information
->Spellcasting Speed: +1<br> 
+>Spellcasting Speed: +1<br>
 >Twilight Points: 0
 >
 >#### Spells Known
@@ -5158,8 +5158,8 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >All within 10 feet feel animal urges.
 >
 >#### Combat Information
->Dodge: +3<br> 
->Fatigue: +1<br> 
+>Dodge: +3<br>
+>Fatigue: +1<br>
 >Soak: +1<br>
 >Encumbrance: 0
 >
@@ -5191,7 +5191,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Vermin +3
 >
 >#### Confidence
->3 
+>3
 >
 >#### Personality Traits
 >Brave -3, Curious +1, Fierce (when caught) +2
@@ -5210,11 +5210,11 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >#### Body Levels
 >OK, -3, Incapacitated
 >
->#### Fatique Levels
+>#### Fatigue Levels
 >OK, -3, Unconscious
 
 >### Gruagach
->Age: 29<br> 
+>Age: 29<br>
 >Size: 0
 >
 >#### Characteristics
@@ -5223,7 +5223,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| +3  | Int (shrewd)          | -3  | Pre (deformed)      |
 >| 0   | Per                   | -2  | Com (shy)           |
 >| +2  | Str (muscular)        | -2  | Dex (uncoordinated) |
->| +2  | Sta (barrel-chestged) | 0   | Qik                 |
+>| +2  | Sta (barrel-chested) | 0   | Qik                 |
 >
 >#### Personality Traits
 >Brave -1, Kind +2, Shy +3
@@ -5505,7 +5505,7 @@ Most words in Gaelic are accented on the first syllable or the next to the last 
 | Black        | Dubh          | doo           |
 | Blue         | Gorm          | gorm          |
 | Brown        | Donne         | doun          |
-| Greeb        | Uaine         | ua-niu        |
+| Green        | Uaine         | ua-niu        |
 | Grey         | Glas          | glas          |
 | Red          | Dearge, Ruadh | jarg, roo     |
 | Speckled     | Breac         | breek         |
@@ -5593,7 +5593,7 @@ Most words in Gaelic are accented on the first syllable or the next to the last 
 | Frenchman        | Frangach      | frene-ach     |
 | Rome             | Roimh         | roo-eev       |
 | Roman            | Romanach      | romanuch      |
-| Roman Churchmar  | 1Papanach     | papanuch      |
+| Roman Churchman  | Papanach      | papanuch      |
 | Foreigner        | Gall          | gaul          |
 
 ### Animals

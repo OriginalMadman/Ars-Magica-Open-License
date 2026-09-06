@@ -2,11 +2,10 @@
 <br/>
 <br/>
 # The Complete Corpus in Friendly Markdown Format
-### All 53 official books of the Ars Magica RPG Open License
+### All 50+ official books of the Ars Magica RPG Open License
 <br/>
 This is a work-in-progress repository for machine-extracted, manually fixed markdowns of a complete set of the official Ars Magica Open Licensed material. These files should all be of a significantly better quality than what has been released openly so far.
 
-* In the **/raw-md** folder, you'll find raw output dumps (from a longer workflow of re-OCR and AI-enhanced extraction and conversion) that are mostly in pretty good shape (3rd edition books excluded). However, expect that tables, index and anything obscured by graphics may be broken. Headings are often a bit garbled, and text may be out of sequence or missing due to borked pdf layouts. NOT RECOMMENDED FOR USE!
 * In the **/wip** folder, is manual fixing work-in-progress. Whatever is here can be expected to be in much better shape than the raw markdowns. All extraneous image links and html is gone from all files (the br's are required for multiline tables), and so's plenty of junk. Use these files until **reviewed** is populated. If you want to help fix something, checkout these.
 * In the [**/reviewed**](/reviewed/) folder, you'll find Markdown files that has had at least one full manual pass & review and the official errata added. All books here should be in excellent condition. There may still be minor things that need correction and additional review passes (please submit corrections). The completion state is indicated at the beginning of the document. **USE THESE!**
 
@@ -22,7 +21,7 @@ The game is about incredibly powerful - but politically limited - Wizards in the
 
 You'll want to start with the the *Ars Magica - Definitive Edition \(Core Rules\).md* file in the [/reviewed](/reviewed/) folder to explore one of the best RPG ever made. **Headsup: Unlike the rest of the books, Definitive Edition is too large (582 pages) for GitHub to render it - you have to download the file!** 
 
-**Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and (wip) Traditional Index. Should be a breeze to navigate.** 
+**Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and Traditional Index. Should be a breeze to navigate.** 
 <br/>
 <br/>
 
@@ -43,7 +42,8 @@ EDIT: YR7 of that project is now helping with this and the plan is to convert fr
 <br/>
 <br/>
 <br/>
-**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381
+**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381 <br/>
+UPDATE: It's also been made available as markdown in the [**/3rd-party**](/3rd-party/) folder here.
 <br/>
 <br/>
 <br/>
@@ -52,3 +52,9 @@ EDIT: YR7 of that project is now helping with this and the plan is to convert fr
 https://www.atlas-games.com/arsmagica/openars
 
 Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
+
+<br/>
+<br/>
+<br/>
+
+![](released-images/arm5sigil.png)

@@ -8,6 +8,10 @@ A sourcebook for Ars Magica 5th Edition.
 > 
 > *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
+### Identified Issues From Source PDF Release
+
+- Paid Rights: DE reclassified it as a Social Status Virtue, left as is.
+
 The undisputed rulers of Mythic Europe are the nobility — those high-born who are bound together by sacred vows of loyalty, are supported by the land, and provide support to the Church. Lesser nobles compete for the favor of those superior to them, while great nobles seek the loyalty of those beneath them. When not distracted by the politics of landholding and of war, they hunt the mundane and magical beasts of the forests and host extravagant feasts. For the nobles of Mythic Europe are first and foremost knights in shining armor.
 
 This book contains complete rules and background for the nobility of Mythic Europe, ranging from the details of their lands to their entertainments, political struggles, and dealings with the Order of Hermes. And, of course, it presents special rules for combat, whether at a tournament or during a desperate siege. It also describes the hard lives of the peasants, who make the rich existence of the nobility possible by providing the food at their feasts, the labor for their buildings, and the soldiers in their armies.

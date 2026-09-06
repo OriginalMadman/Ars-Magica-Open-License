@@ -7,6 +7,11 @@ A sourcebook for Ars Magica 5th Edition about the Western Church as an instituti
 > 
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
+### Identified Issues From Source PDF Release
+Applied errata.
+
+---
+
 God rules Mythic Europe in awesome majesty, served by the angelic hosts. For most people, however, the majesty of the local bishop is awe-inspiring enough, and God is served by the priests, monks, and friars who share their communities. The Church touches every aspect of life, and every individual heart. Even magi in their covenants must contend with the Church, and many trust it with the salvation of their souls.
 
 This book provides background and rules for the Western Church as a human institution, covering the organization of dioceses, monastic orders, and daily devotion. It also describes the role of women, and looks at the Knights Templar and Franciscans in more detail. As a human institution, however, the Church is not immune to corruption, and so this book also discusses how some of the great orders of the Church might fall to the Infernal. Bring the faith of your characters to life!
@@ -1147,7 +1152,7 @@ Some important Virtues and Flaws for clergy characters are listed below. You sho
 
 The character is an archbishop, bishop, abbot, abbess, or another senior member of the Church. He has access to the resources of the Church and may have additional duties and powers according to his office.
 
-You may make take either the Wealthy or Poor Virtue/Flaw for the character. This does *not* necessarily represent the status of the character's diocese, instead it represents the personal wealth of the character. Senior clergy can amass wealth by receiving the benefice of several offices. Indeed, it is not unusual for a character to receive the benefice from various parishes scattered throughout Mythic Europe. He may never even visit some of the dioceses in which his parishes are located, although obviously the character needs to employ a curate to discharge the actual priestly duties in these remote parishes.
+You may take either the Wealthy or Poor Virtue/Flaw for the character. This does *not* necessarily represent the status of the character's diocese, instead it represents the personal wealth of the character. Senior clergy can amass wealth by receiving the benefice of several offices. Indeed, it is not unusual for a character to receive the benefice from various parishes scattered throughout Mythic Europe. He may never even visit some of the dioceses in which his parishes are located, although obviously the character needs to employ a curate to discharge the actual priestly duties in these remote parishes.
 
 The character has a Reputation of level 4, either good or bad, in both the local community and the Church.
 
@@ -4211,7 +4216,7 @@ The grand master is involved in a major dispute with Frederick II, the Holy Roma
 >
 >Electing a grand master is an elaborate procedure laid out in the Templar Rule, and follows the funeral of the previous incumbent. Most funerals of grand masters are attended by a great number of dignitaries and leaders; most great nobles and clergy in the Holy Land attend. After the funeral, a grand commander (different than the office of grand commander) is elected by the Eastern provincial Templar commanders. The grand commander governs the Poor Knights until a new grand master is chosen. Although technically any ranking Templar official can participate, in practice due to time constraints only those officials present in the Holy Land are involved.
 >
->The officers present then elect a college of 13, consisting of eight brotherknights, four brother-sergeants, and the chaplain in Acre. These 13 represent Christ and his twelve apostles — with the chaplain standing for Christ himself. When the name is announced, the new grand master is acclaimed by all present, and carried to the chapel and deposited at the altar.
+>The officers present then elect a college of 13, consisting of eight brother-knights, four brother-sergeants, and the chaplain in Acre. These 13 represent Christ and his twelve apostles — with the chaplain standing for Christ himself. When the name is announced, the new grand master is acclaimed by all present, and carried to the chapel and deposited at the altar.
 >
 >According to the rule, the grand master is chosen by the will of God, through the elected representatives. A consensus decision is preferable, although a majority vote is allowed. In practice, appointment to the position of grand master is very political, with a great number of grand masters ascending to that exalted position through the intervention of a supportive and powerful secular ruler.
 >
@@ -4259,7 +4264,7 @@ At a regional and local level, the structures laid out here are replicated as mu
 
 The brother-knights are the core of the Templars, and are granted the great privilege of wearing white mantles emblazoned with a red cross. Those of noble birth who enter the order give up their clothes and goods to the draper, and are issued a standard set of clothes and armor. By 1220, the Templars require a brother-knight to be of noble birth, the son of a secular knight, or the son of the daughter of a knight to be admitted to this rank.
 
-In theory, all brother-knights are equal, but those who were prominent or of high station before their admission to the order are typically promoted to a senior position within the Templar hierarchy or are at least treated with more respect. Despite this, only the great officers or commanders live in comfort or luxury. Most brotherknights live austere lives.
+In theory, all brother-knights are equal, but those who were prominent or of high station before their admission to the order are typically promoted to a senior position within the Templar hierarchy or are at least treated with more respect. Despite this, only the great officers or commanders live in comfort or luxury. Most brother-knights live austere lives.
 
 Brother-knights are expected to have military or combat experience prior to becoming a Templar, by participating in secular conflicts. Upon joining the Templars, brother-knights are given shock-training in the art of disciplined and sustained communal warfare — in game terms, however, this is regular practice and exposure, rather than formal training (it provides no additional experience points, but does allow Templars to fight as trained groups, see the insert "Trained Group Combat").
 
@@ -4366,7 +4371,7 @@ In the Holy Land or Iberia, when Templars are at war, their daily routine change
 
 #### Military Tactics
 
-The Templars have established military tactics, which are recorded in their rule. Everything centers upon the cavalry charge. The charge, when carried out correctly and in the right circumstances, can be decisive in battle. The role of foot soldiers and archers — most of whom are mercenaries — is not recorded in the rule, but these troops are under the command of various senior Templar brotherknights, who command them as they see fit. The squires of brother-knights are not expected to fight, but are instead required to assist the knights. The Templars rely upon the cavalry charge, but also fight on foot or in other formations as the situation requires.
+The Templars have established military tactics, which are recorded in their rule. Everything centers upon the cavalry charge. The charge, when carried out correctly and in the right circumstances, can be decisive in battle. The role of foot soldiers and archers — most of whom are mercenaries — is not recorded in the rule, but these troops are under the command of various senior Templar brother-knights, who command them as they see fit. The squires of brother-knights are not expected to fight, but are instead required to assist the knights. The Templars rely upon the cavalry charge, but also fight on foot or in other formations as the situation requires.
 
 Another key part of the Templar's warfare is the famous black and white banner. This has both tactical and symbolic importance. While the banner is raised, no Templar is permitted to retreat. It also represents the center of the order's troops, and is the place to which the troops withdraw to regroup and charge again. Its loss is a symbolic disaster — though spares are kept by the gonfanier — and the brothers prefer to die rather than let it be captured.
 
@@ -4560,7 +4565,7 @@ The character is a brother-knight in the Poor Knights of the Temple of Solomon, 
 >
 >#### Brother-Knights
 >
->Brother-knights all have the same equipment, clothes, weapons, and armor. Armor includes a helmet, mailed hauberk (covering the head and body down to knees), and metal leg and feet armor. This is worn over a padded jacket and hose. Brother-knights also have a sword, a shield, a lance, a dagger, a bread knife, a pocket knife, and a "Turkish" mace (a mace with a fixed metal head with spikes at the end). The Templar uniform consists of two shirts, two pairs of breeches, two pairs of hose, and a length of rope as a belt. Each brotherknight is issued with three horses and a squire, and at the commander's discretion a brother-knight can be given an additional horse and squire. When on campaign, Templar knights also carry portable bedding, blankets, sheets, storage bags, cooking and eating utensils, and drinking flasks and cups.
+>Brother-knights all have the same equipment, clothes, weapons, and armor. Armor includes a helmet, mailed hauberk (covering the head and body down to knees), and metal leg and feet armor. This is worn over a padded jacket and hose. Brother-knights also have a sword, a shield, a lance, a dagger, a bread knife, a pocket knife, and a "Turkish" mace (a mace with a fixed metal head with spikes at the end). The Templar uniform consists of two shirts, two pairs of breeches, two pairs of hose, and a length of rope as a belt. Each brother-knight is issued with three horses and a squire, and at the commander's discretion a brother-knight can be given an additional horse and squire. When on campaign, Templar knights also carry portable bedding, blankets, sheets, storage bags, cooking and eating utensils, and drinking flasks and cups.
 >
 >#### Brother-Sergeants
 >
@@ -4568,7 +4573,7 @@ The character is a brother-knight in the Poor Knights of the Temple of Solomon, 
 >
 >#### Squires
 >
->Squires provide support and look after a brother-knight's arms armor, equipment, and horses. As they are outsiders, they are not permitted to wear the mantle or red cross of the Templars, instead wearing plain reinforced leather armor or a mail hauberk, and carrying a sword and dagger — most squires have no active combat role other than to support their knight. Templar squires bear no resemblance to chivalric relationships between knight and squire. It is a relationship of master and servant squires are never members of the order but are outsiders hired for a set period, bound by obligation and often brutal discipline. This includes floggings and being placed in irons if the squire is obstinate or disobedient.
+>Squires provide support and look after a brother-knight's arms, armor, equipment, and horses. As they are outsiders, they are not permitted to wear the mantle or red cross of the Templars, instead wearing plain reinforced leather armor or a mail hauberk, and carrying a sword and dagger — most squires have no active combat role other than to support their knight. Templar squires bear no resemblance to chivalric relationships between knight and squire. It is a relationship of master and servant; squires are never members of the order but are outsiders hired for a set period, bound by obligation and often brutal discipline. This includes floggings and being placed in irons if the squire is obstinate or disobedient.
 
 #### Brother-Priest
 
@@ -4608,13 +4613,13 @@ The character works as a skilled employee of the Poor Knights of the Temple of S
 
 *Minor, Social Status*
 
-The character is technically a brotherknight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties means he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
+The character is technically a brother-knight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties means he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
 
 #### Commander
 
 *Major, Social Status*
 
-The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a wellknown figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is be expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
+The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a well-known figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
 #### Office Holder
 
@@ -4626,7 +4631,7 @@ The character holds a position within the local hierarchy of the Poor Knights of
 
 *Minor, General*
 
-A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level 3 within the Templars.
+A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level 4 within the Templars.
 
 ### New Ability
 

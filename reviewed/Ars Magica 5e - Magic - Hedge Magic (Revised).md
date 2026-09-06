@@ -2,16 +2,25 @@
 A sourcebook for Ars Magica 5th Edition.
 
 > *Open License Markdown version by YairRezek & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
-> 
+>
 > *[Completion state: Whole book manually fixed (including Errata).]*
-> 
+>
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+### Identified Issues From Source PDF Release
+
+- Normalized ToC and title levels.
+- chartae and amulets may utilize *shape and material bonuses*, was "form and material"
+- *Vitkar* was sometimes spelled "viktar"
+- Pagan: DE reclassified it as a Personality (Major and Minor) Flaw, left as is.
+
+---
 
 Hermetic magi believe themselves to be the undisputed masters of magic in Mythic Europe. Certainly, there are a few hedge wizards, but their numbers and powers are surely negligible compared to the might of the Order of Hermes.
 
-Those “hedge wizards” would beg to differ.
+Those "hedge wizards" would beg to differ.
 
-Hedge Magic Revised Edition provides you with all the information needed to play a hedge wizard from any of six different traditions, or to introduce them as allies or antagonists for a Hermetic covenant. The Mathematici are scholarly magicians who cluster in universities, while folk witches ply their trade in the villages. Elementalists control the building blocks of reality, while gruagachan deal out curses and blessings in the interests of justice. Nightwalkers leave their bodies to ﬁght for the prosperity of their homes, while in the vasts of the north, vitkir rune wizards patiently wait.
+Hedge Magic Revised Edition provides you with all the information needed to play a hedge wizard from any of six different traditions, or to introduce them as allies or antagonists for a Hermetic covenant. The Mathematici are scholarly magicians who cluster in universities, while folk witches ply their trade in the villages. Elementalists control the building blocks of reality, while gruagachan deal out curses and blessings in the interests of justice. Nightwalkers leave their bodies to fight for the prosperity of their homes, while in the vasts of the north, vitkir rune wizards patiently wait.
 
 # Credits
 
@@ -53,335 +62,349 @@ DIGITAL VERSION 1.0
 
 # Contents
 
-**I. Introduction**<br>
-&nbsp;What is this Book For?<br>
-HEDGE TRADITIONS AND THE ORDER<br>
-&nbsp;Converts to the Order<br>
-&nbsp;Allies to the Order<br>
-&nbsp;The Shadow of Hermes<br>
-HEDGE MAGIC<br>
-&nbsp;The Gift<br>
-&nbsp;The Limits of Magic<br>
-&nbsp;Hedge Arts and Supernatural Abilities<br>
-&nbsp;Magic Defenses<br>
-&nbsp;Warping<br>
-&nbsp;Vis<br>
-CREATING HEDGE CHARACTERS<br>
-&nbsp;Magi, Companions, or Grogs?<br>
-&nbsp;Common Hedge Virtues and Flaws<br>
-&nbsp;Common Hedge Abilities<br>
-&nbsp;Acquiring Hedge Wizard Powers<br>
-&nbsp;Integration of Hedge Magic<br>
-**II. Elementalists**<br>
-ELEMENTALIST CHARACTERS<br>
-&nbsp;New or Revised Virtues<br>
-&nbsp;New Flaws<br>
-&nbsp;Elemental Warping<br>
-ELEMENTALIST FORMS<br>
-&nbsp;Elementalist Air<br> 
-&nbsp;Elementalist Earth<br>
- &nbsp;Elementalist Fire<br>
- &nbsp;Elementalist Water<br>
-ELEMENTALIST TECHNIQUES<br>
-&nbsp;Summoning<br>
-&nbsp;Controlling<br>
-&nbsp;Divining<br>
-&nbsp;Refining <br>
-&nbsp;Elementalist Societies<br>
-&nbsp;Apostles of Apollonius<br>
-&nbsp;Ikhwan as-Safa'<br>
-&nbsp;Tulab Ibn Sina<br>
-HERMETIC INTEGRATION<br>
-**III. Folk Witches**<br>
-CREATING A FOLK WITCH CHARACTER<br>
-&nbsp;Minimum Ability Scores<br>
-&nbsp;New Virtues & Flaws<br>
-&nbsp;Existing Virtues & Flaws<br>
-FOLK WITCH MAGIC<br>
-&nbsp;Folk Witch Powers<br>
-&nbsp;Magical Defenses<br>
-&nbsp;Witch's Kitchen <br>
-&nbsp;Familiars<br>
-&nbsp;Warping<br>
-COVENS<br>
-&nbsp;Coven Initiations<br>
-&nbsp;Sabbat<br>
-&nbsp;Creating a Coven<br>
-HERMETIC INTEGRATION<br>
-&nbsp;Subtle Opening <br>
-&nbsp;Energy Magic <br>
-&nbsp;Sense of the Mystic<br>
-&nbsp;Ritual Items <br>
-**IV. Gruagachan**<br>
-CHARACTER GENERATION <br>
-&nbsp;Training   <br>
-&nbsp;Virtues and Flaws <br>
-GRUAGACH MAGIC<br>
-&nbsp;Gruagach Arts <br>
-&nbsp;Gruagach Spells <br>
-&nbsp;Gruagach Laboratory Activities <br>
-&nbsp;Gifted Gruagach Initiations <br>
-&nbsp;UnGifted Gruagach Initiations <br>
-&nbsp;Magical Defenses  <br>
-&nbsp;Geas and Limit Durations <br>
-SPELL GUIDELINES <br>
-&nbsp;Blessings  <br>
-&nbsp;Curses <br>
-&nbsp;Shape Spells <br>
-&nbsp;Vision Spells <br>
-MAGICAL DANGERS<br>
-GRUAGACHAN IN YOUR SAGA<br>
-&nbsp;Gruagachan History  <br>
-&nbsp;Gruagachan Culture <br>
-&nbsp;Gruagachan in Play  <br>
-ALTERNATE TRADITIONS<br>
-&nbsp;Trollsynir <br>
-&nbsp;Kolduni <br>
-INTEGRATION OF GRUAGACH MAGIC<br>
-&nbsp;Cailleach Magic <br>
-&nbsp;Flexible Formulaic Magic <br>
-&nbsp;Improved Voice Range <br>
-**V. Learned Magicians**<br>
-CHARACTER GENERATION <br>
-&nbsp;Training <br>
-&nbsp;Virtues and Flaws <br>
-MAGIC OF THE LEARNED MAGICIANS<br>
-&nbsp;The Arts  <br>
-&nbsp;Charms  <br>
-&nbsp;Laboratory Activities <br>
-&nbsp;Mitigation of Realm Interaction Effect<br>
-&nbsp;UnGifted Mathematicus Initiations <br>
-&nbsp;Magical Defenses  <br>
-SPELL GUIDELINES <br>
-&nbsp;Fortunam <br>
-&nbsp;Magicam  <br>
-&nbsp;Salutem <br>
-&nbsp;Magical Dangers <br>
-LEARNED MAGICIANS IN YOUR SAGA<br>
-&nbsp;History of the Mathematici <br>
-&nbsp;Culture of the Mathematici <br>
-&nbsp;Learned Magicians in Play<br>
-ALTERNATE TRADITIONS<br>
-&nbsp;Mythic Alchemists <br> 
-&nbsp;Cunning-folk <br>
-INTEGRATING THE LEARNED MAGICIAN'S MAGIC  <br>
-&nbsp;Single-Use Charged Items <br>
-**VI. Nightwalkers**<br>
-CHARACTERS <br>
-&nbsp;New Virtues  <br>
-&nbsp;Minor Virtues Related To Straying <br>
-&nbsp;Virtues Nightwalkers Often Possess <br>
-&nbsp;Flaws Nightwalkers Often Possess<br>
-POWERS IN DETAIL<br>
-&nbsp;Ekstasis <br>
-&nbsp;Combat and the Straying Spirit <br>
-&nbsp;Fertility Battles <br>
-&nbsp;Processions  <br>
-&nbsp;Waking Activities<br> 
-LOCAL TRADITIONS OF NIGHTWALKERS <br>
-&nbsp;Benandanti <br>
-&nbsp;The Hounds of God <br>
-&nbsp;Kresniki and Kudlaki <br>
-&nbsp;Mazzeru <br>
-&nbsp;Taltós <br>
-MYTHIC COMPANIONS <br>
-HERMETIC INTEGRATION  <br>
-&nbsp;Partial Integration in Progress  <br>
-SAGA SEEDS  <br>
-**VII. Vitkir**<br>
-VITKIR AS CHARACTERS<br>
-&nbsp;New or Revised Virtues <br>
-&nbsp;New or Revised Flaws <br>
-&nbsp;New Abilities<br>
-&nbsp;Nátt-thel<br>
-&nbsp;Learning Vitkar Magic<br>
-VITKAR MAGIC<br>
-&nbsp;Vitkar Rune Scripts <br>
-&nbsp;Casting Rune Spells<br>
-THE RUNES<br>
-&nbsp;A, Ansuz, "Mouth"<br>
-&nbsp;B, Berkanan, "Birch"<br>
-&nbsp;D, Dagaz, "Day"<br>
-&nbsp;E, Ehwaz, "Horse"<br>
-&nbsp;F, Fehu, "Wealth"<br>
-&nbsp;G, Gebo, "Gift"  <br>
-&nbsp;H, Hagalaz, "Hail"<br>
-&nbsp;I, Isa, "Ice" <br>
-&nbsp;J, Jera, "Year" <br>
-&nbsp;K, Kauno, "Pain" <br>
-&nbsp;L, Laguz, "Water"<br>
-&nbsp;M, Mannaz, "Man" <br>
-&nbsp;N, Naudiz, "Need" <br>
-&nbsp;Ng, Ingwaz, "Lord"<br>
-&nbsp;O, Othila, "Inheritance"<br>
-&nbsp;P, Perth, "Cup" <br>
-&nbsp;R, Raido, "Riding"  <br>
-&nbsp;S, Sowilo, "Sun" <br>
-&nbsp;T, Tiwaz, "Tyr" <br>
-&nbsp;Th, Thurisaz, "Ogre" <br>
-&nbsp;U, Uruz, "Auroch" <br>
-&nbsp;W, Wunjo, "Joy"<br>
-&nbsp;Y, Ihwaz, "Yew"<br>
-&nbsp;Z, Algiz, "Elk" <br>
-&nbsp;Modified Runes<br>
-&nbsp;Hermetic Integration<br>
-**VIII. Bibliography**
+#### I. Introduction
+- &nbsp;What is this Book For?
+- Hedge Traditions & the Order
+- &nbsp;Converts to the Order
+- &nbsp;Allies to the Order
+- &nbsp;The Shadow of Hermes
+- Hedge Magic
+- &nbsp;The Gift
+- &nbsp;The Limits of Magic
+- &nbsp;Hedge Arts and Supernatural Abilities
+- &nbsp;Magic Defenses
+- &nbsp;Warping
+- &nbsp;Vis
+- Creating Hedge Characters
+- &nbsp;Magi, Companions, or Grogs?
+- &nbsp;Common Hedge Virtues and Flaws
+- &nbsp;Common Hedge Abilities
+- &nbsp;Acquiring Hedge Wizard Powers
+- Integration of Hedge Magic
 
-## List of Inserts
+#### II. Elementalists
+- Elementalist Characters
+- &nbsp;New or Revised Virtues
+- &nbsp;New Flaws
+- &nbsp;Elemental Warping
+- Elementalist Forms
+- &nbsp;Elementalist Air
+- &nbsp;Elementalist Earth
+- &nbsp;Elementalist Fire
+- &nbsp;Elementalist Water
+- Elementalist Techniques
+- &nbsp;Summoning
+- &nbsp;Controlling
+- &nbsp;Divining
+- &nbsp;Refining
+- Elementalist Societies
+- &nbsp;Apostles of Apollonius
+- &nbsp;Ikhwan as-Safa'
+- &nbsp;Tulab Ibn Sina
+- Hermetic Integration
 
-I. INTRO<br>
-New Spell: The Numbness of The Gift <br>
-Flawed Opening of The Gift<br>
-Opening the Arts <br>
-Difficult Arts Mechanically <br>
-The Limit of Magic Resistance <br>
-UnGifted Initiations <br>
-The Integration Process <br>
-Story Seeds: Stories About Teachers<br>
-Hermetic Use of Hedge Theory  <br>
-Original Research and Ancient Magic <br>
+#### III. Folk Witches
+- Creating a Folk Witch Character
+- &nbsp;Minimum Ability Scores
+- &nbsp;New Virtues & Flaws
+- &nbsp;Existing Virtues & Flaws
+- Folk Witch Magic
+- &nbsp;Folk Witch Powers
+- &nbsp;Magical Defenses
+- &nbsp;Witch's Kitchen
+- &nbsp;Familiars
+- &nbsp;Warping
+- Covens
+- &nbsp;Coven Initiations
+- &nbsp;Sabbat
+- &nbsp;Creating a Coven
+- Hermetic Integration
+- &nbsp;Subtle Opening
+- &nbsp;Energy Magic
+- &nbsp;Sense of the Mystic
+- &nbsp;Ritual Items
 
-II. ELEMENTALISTS<br>
-Elementalist Virtues <br>
-Elemental Affinities & Character Creation <br>
-Other Summoning Arts <br>
-Elementalist Flaws <br>
-Elemental Traits <br>
-Story Seed: Vengeful Flames <br>
-Summoning Elementals <br>
-Story Seed: The Bishop’s Physician <br>
-Story Seed: The Right to Vis <br>
-Story Seed: The Elementalist Cut in Half<br>
-Elisavet (“Psychorrhax”) <br>
-Epistles of the Brethren of Purity & Loyal Friends  <br>
-Writings of Ibn Sina 
+#### IV. Gruagachan
+- Character Generation
+- &nbsp;Training
+- &nbsp;Virtues and Flaws
+- Gruagach Magic
+- &nbsp;Gruagach Arts
+- &nbsp;Gruagach Spells
+- &nbsp;Gruagach Laboratory Activities
+- &nbsp;Gifted Gruagach Initiations
+- &nbsp;UnGifted Gruagach Initiations
+- &nbsp;Magical Defenses
+- &nbsp;Geas and Limit Durations
+- Spell Guidelines
+- &nbsp;Blessings
+- &nbsp;Curses
+- &nbsp;Shape Spells
+- &nbsp;Vision Spells
+- &nbsp;Magical Dangers
+- Gruagachan in Your Saga
+- &nbsp;Gruagachan History
+- &nbsp;Gruagachan Culture
+- &nbsp;Gruagachan in Play
+- Alternate Traditions
+- &nbsp;Trollsynir
+- &nbsp;Kolduni
+- Integration of Gruagach Magic
+- &nbsp;Cailleach Magic
+- &nbsp;Flexible Formulaic Magic
+- &nbsp;Improved Voice Range
 
-III. FOLK WITCHES<br>
-Story Seed: Slaves <br>
-Male Witches <br>
-Folk Witch Magic Theory <br>
-Investigating a Potion<br>
-Organization Lore: Folk Witches  <br>
-Precocious Girls  <br>
-Sabbat Times <br>
-Sabbats Story Seed: The Grand Sabbat <br>
-Matilda <br>
-Eliza  <br>
-Mistress Greta <br>
-Janine Kyteler <br>
-Anne Kors <br>
-Jean the Wise <br>
-New Virtue: Subtle Opening <br>
-Story Seeds for Subtle Opening <br>
-New Energy Magic Virtue & Guidelines <br>
-Story Seeds for Energy Magic <br>
-New Virtue: Sense of the Mystic<br>
-Story Seed: Waking the Dragon  <br>
-Story Seeds for Ritual Items<br>
-New Virtue: Ritual Items 
+#### V. Learned Magicians
+- Character Generation
+- &nbsp;Training
+- &nbsp;Virtues and Flaws
+- Magic of the Learned Magicians
+- &nbsp;The Arts
+- &nbsp;Charms
+- &nbsp;Laboratory Activities
+- &nbsp;Mitigation of Realm Interaction Effects
+- &nbsp;UnGifted Mathematicus Initiations
+- &nbsp;Magical Defenses
+- Spell Guidelines
+- &nbsp;Fortunam
+- &nbsp;Magicam
+- &nbsp;Salutem
+- &nbsp;Magical Dangers
+- Learned Magicians in Your Saga
+- &nbsp;History of the Mathematici
+- &nbsp;Culture of the Mathematici
+- &nbsp;Learned Magicians in Play
+- Alternate Traditions
+- &nbsp;Mythic Alchemists
+- &nbsp;Cunning-Folk
+- Integrating the Learned Magicians' Magic
+- &nbsp;Single-Use Charged Items
 
-IV. GRUAGACHAN  <br>
-New Virtue: Gruagach<br>
-Appropriate Ranges, Durations, and Targets<br>
-Gruagach Shape Bonuses<br>
-Spirit Magic<br>
-Story Seed: Quest to the Wizards' Tower<br>
-Story Seed: Poetic Justice <br>
-Story Seed: Shape and Form <br>
-Geas and Limit Duration Magnitudes<br>
-Gruagach Alternative<br>
-Give Blessing Guidelines<br>
-Take Blessing Guidelines<br>
-Give Curse Guidelines<br>
-Take Curse Guidelines<br>
-Give Shape Guidelines<br>
-Take Shape Guidelines<br>
-Gruagachan Form & Technique Story Seeds <br>
-Give Vision Guidelines<br>
-Take Vision Guidelines<br>
-The God Gruagach and the Faerie Gruagachan<br>
-Domhnall the Gruagach Master<br>
-Conall the Gruagach<br>
-Story Seed: Koshchey the Deathless
+#### VI. Nightwalkers
+- Characters
+- &nbsp;New Virtues
+- &nbsp;Minor Virtues Related To Straying Traditions
+- &nbsp;Virtues Nightwalkers Often Possess
+- &nbsp;Flaws Nightwalkers Often Possess
+- Powers in Detail
+- &nbsp;Ekstasis
+- &nbsp;Combat and the Straying Spirit
+- &nbsp;Fertility Battles
+- &nbsp;Processions
+- &nbsp;Waking Activities
+- Local Traditions of Nightwalkers
+- &nbsp;Benandanti
+- &nbsp;The Hounds of God
+- &nbsp;Kresniki and Kudlaki
+- &nbsp;Mazzeru
+- &nbsp;Taltós
+- Mythic Companions
+- Hermetic Integration
+- &nbsp;Partial Integration in Progress
+- Saga Seeds
 
-V. Learned Magicians <br>
-Lore of the Mathematici<br>
-New Reagent Guidelines<br>
-Example Reagents <br>
-Ranges, Durations, & Targets for Charms <br>
-Ranges, Durations, and Targets for Amulets and Chartae <br>
-Tueor Fortunam Guidelines <br>
-Succurro Fortunam Guidelines <br>
-Vulnero Fortunam Guidelines <br>
-Tueor Magicam Guidelines <br>
-Succurro Magicam Guidelines <br>
-Vulnero Magicam Guidelines <br>
-Tueor Salutem Guidelines <br>
-Succurro Salutem Guidelines <br>
-Vulnero Salutem Guidelines <br>
-Story Seeds for the Learned Magician <br>
-Spell Guidelines <br>
-Story Seed: Historical Investigation<br>
-Story Seed: Second-hand Books <br>
-Stefano the Master <br>
-Marco the Student <br>
-Minor Hermetic Virtue: Quick Charged Items
+#### VII. Vitkir
+- Vitkir as Characters
+- &nbsp;New or Revised Virtues
+- &nbsp;New or Revised Flaws
+- &nbsp;New Abilities
+- &nbsp;Nátt-thel
+- &nbsp;Learning Vitkar Magic
+- Vitkar Magic
+- &nbsp;Vitkar Rune Scripts
+- &nbsp;Casting Rune Spells
+- The Runes
+- &nbsp;A, Ansuz, "Mouth"
+- &nbsp;B, Berkanan, "Birch"
+- &nbsp;D, Dagaz, "Day"
+- &nbsp;E, Ehwaz, "Horse"
+- &nbsp;F, Fehu, "Wealth"
+- &nbsp;G, Gebo, "Gift"
+- &nbsp;H, Hagalaz, "Hail"
+- &nbsp;I, Isa, "Ice"
+- &nbsp;J, Jera, "Year"
+- &nbsp;K, Kauno, "Pain"
+- &nbsp;L, Laguz, "Water"
+- &nbsp;M, Mannaz, "Man"
+- &nbsp;N, Naudiz, "Need"
+- &nbsp;Ng, Ingwaz, "Lord"
+- &nbsp;O, Othila, "Inheritance"
+- &nbsp;P, Perth, "Cup"
+- &nbsp;R, Raido, "Riding"
+- &nbsp;S, Sowilo, "Sun"
+- &nbsp;T, Tiwaz, "Tyr"
+- &nbsp;Th, Thurisaz, "Ogre"
+- &nbsp;U, Uruz, "Auroch"
+- &nbsp;W, Wunjo, "Joy"
+- &nbsp;Y, Ihwaz, "Yew"
+- &nbsp;Z, Algiz, "Elk"
+- &nbsp;Modified Runes
+- &nbsp;Hermetic Integration
 
-VI. NIGHTWALKERS<br>
-Born With a Caul <br>
-Combat Statistics for Animal Phantastica <br>
-Covenants Supplement Modifiers <br>
-Story Seed: Saving the Falsely Accused <br>
-Where Do Captains Come From?<br>
-Intervening in the Battles  <br>
-Saga Considerations <br>
-Other Processions of the Dead<br>
-Fennel  <br>
-Story Seed: Aristeas <br>
-Hawthorn<br>
-Asphodel<br>
-Statistics and Abilities for Flame Shape <br>
-Rothiger, A Hound of God Companion<br>
-Rothiger in Wolf Form <br>
-Arno, a Benandante Companion <br>
+#### VIII. Bibliography
+- &nbsp;Folk Witch Sources
+- &nbsp;Gruagachan Sources
+- &nbsp;Learned Magician Sources
+- &nbsp;Nightwalker Sources
 
-VII. VITKIR  <br>
-The Order of Odin <br>
-Female Vitkir <br>
-Vitkar Virtues  <br>
-Vitkar Magic Foci <br>
-Vitkar Flaws <br>
-The Rune Poems<br>
-Odin's Sacrifice<br>
-Rune Casting Variations <br>
-The Elder Futhark <br>
-Ansuz Guidelines<br>
-Berkanan Guidelines <br>
-Dagaz Guidelines <br>
-Ehwaz Guidelines <br>
-Fehu Guidelines <br>
-Gebo Guidelines <br>
-Hagalaz Guidelines  <br>
-Isa Guidelines <br>
-Jera Guidelines <br>
-Kauno Guidelines <br>
-Laguz Guidelines <br>
-Mannaz Guidelines <br>
-Naudiz Guidelines<br>
-Ingwaz Guidelines  <br>
-Othila Guidelines  <br>
-Perth Guidelines  <br>
-Raido Guidelines  <br>
-Sowilo Guidelines <br>
-Tiwaz Guidelines  <br>
-Thurisaz Guidelines  <br>
-Uruz Guidelines <br>
-Wunjo Guidelines  <br>
-Ihwaz Guidelines<br>
-Algiz Guidelines  <br>
-The Anglo-Saxon Futhorc <br>
-The Younger Futhark   <br>
-Eirik Svennson, Warrior Vitki 
+
+> ### List of Inserts
+>
+> #### I. INTRO
+> - New Spell: The Numbness of The Gift
+> - Flawed Opening of The Gift
+> - Opening the Arts
+> - Difficult Arts Mechanically
+> - The Limit of Magic Resistance
+> - UnGifted Initiations
+> - The Integration Process
+> - Story Seeds: Stories About Teachers
+> - Hermetic Use of Hedge Theory
+> - Original Research and Ancient Magic
+>
+> #### II. ELEMENTALISTS
+> - Elementalist Virtues
+> - Elemental Affinities & Character Creation
+> - Other Summoning Arts
+> - Elementalist Flaws
+> - Elemental Traits
+> - Story Seed: Vengeful Flames
+> - Summoning Elementals
+> - Story Seed: The Bishop's Physician
+> - Story Seed: The Right to Vis
+> - Story Seed: The Elementalist Cut in Half
+> - Elisavet ("Psychorrhax")
+> - Epistles of the Brethren of Purity & Loyal Friends
+> - Writings of Ibn Sina
+>
+> #### III. FOLK WITCHES
+> - Story Seed: Slaves
+> - Male Witches
+> - Folk Witch Magic Theory
+> - Investigating a Potion
+> - Organization Lore: Folk Witches
+> - Precocious Girls
+> - Sabbat Times
+> - Sabbats Story Seed: The Grand Sabbat
+> - Matilda
+> - Eliza
+> - Mistress Greta
+> - Janine Kyteler
+> - Anne Kors
+> - Jean the Wise
+> - New Virtue: Subtle Opening
+> - Story Seeds for Subtle Opening
+> - New Energy Magic Virtue & Guidelines
+> - Story Seeds for Energy Magic
+> - New Virtue: Sense of the Mystic
+> - Story Seed: Waking the Dragon
+> - Story Seeds for Ritual Items
+> - New Virtue: Ritual Items
+>
+> #### IV. GRUAGACHAN
+> - New Virtue: Gruagach
+> - Appropriate Ranges, Durations, and Targets
+> - Gruagach Shape Bonuses
+> - Spirit Magic
+> - Story Seed: Quest to the Wizards' Tower
+> - Story Seed: Poetic Justice
+> - Story Seed: Shape and Form
+> - Geas and Limit Duration Magnitudes
+> - Gruagach Alternative
+> - Give Blessing Guidelines
+> - Take Blessing Guidelines
+> - Give Curse Guidelines
+> - Take Curse Guidelines
+> - Give Shape Guidelines
+> - Take Shape Guidelines
+> - Gruagachan Form & Technique Story Seeds
+> - Give Vision Guidelines
+> - Take Vision Guidelines
+> - The God Gruagach and the Faerie Gruagachan
+> - Domhnall the Gruagach Master
+> - Conall the Gruagach
+> - Story Seed: Koshchey the Deathless
+>
+> #### V. Learned Magicians
+> - Lore of the Mathematici
+> - New Reagent Guidelines
+> - Example Reagents
+> - Ranges, Durations, & Targets for Charms
+> - Ranges, Durations, and Targets for Amulets and Chartae
+> - Tueor Fortunam Guidelines
+> - Succurro Fortunam Guidelines
+> - Vulnero Fortunam Guidelines
+> - Tueor Magicam Guidelines
+> - Succurro Magicam Guidelines
+> - Vulnero Magicam Guidelines
+> - Tueor Salutem Guidelines
+> - Succurro Salutem Guidelines
+> - Vulnero Salutem Guidelines
+> - Story Seeds for the Learned Magician
+> - Spell Guidelines
+> - Story Seed: Historical Investigation
+> - Story Seed: Second-hand Books
+> - Stefano the Master
+> - Marco the Student
+> - Minor Hermetic Virtue: Quick Charged Items
+>
+> #### VI. NIGHTWALKERS
+> - Born With a Caul
+> - Combat Statistics for Animal Phantastica
+> - Covenants Supplement Modifiers
+> - Story Seed: Saving the Falsely Accused
+> - Where Do Captains Come From?
+> - Intervening in the Battles
+> - Saga Considerations
+> - Other Processions of the Dead
+> - Fennel
+> - Story Seed: Aristeas
+> - Hawthorn
+> - Asphodel
+> - Statistics and Abilities for Flame Shape
+> - Rothiger, A Hound of God Companion
+> - Rothiger in Wolf Form
+> - Arno, a Benandante Companion
+>
+> #### VII. VITKIR
+> - The Order of Odin
+> - Female Vitkir
+> - Vitkar Virtues
+> - Vitkar Magic Foci
+> - Vitkar Flaws
+> - The Rune Poems
+> - Odin's Sacrifice
+> - Rune Casting Variations
+> - The Elder Futhark
+> - Ansuz Guidelines
+> - Berkanan Guidelines
+> - Dagaz Guidelines
+> - Ehwaz Guidelines
+> - Fehu Guidelines
+> - Gebo Guidelines
+> - Hagalaz Guidelines
+> - Isa Guidelines
+> - Jera Guidelines
+> - Kauno Guidelines
+> - Laguz Guidelines
+> - Mannaz Guidelines
+> - Naudiz Guidelines
+> - Ingwaz Guidelines
+> - Othila Guidelines
+> - Perth Guidelines
+> - Raido Guidelines
+> - Sowilo Guidelines
+> - Tiwaz Guidelines
+> - Thurisaz Guidelines
+> - Uruz Guidelines
+> - Wunjo Guidelines
+> - Ihwaz Guidelines
+> - Algiz Guidelines
+> - The Anglo-Saxon Futhorc
+> - The Younger Futhark
+> - Eirik Svennson, Warrior Vitki
+
+---
 
 # Chapter One: Introduction
 
@@ -415,15 +438,15 @@ Swearing the Oath of Hermes is the official point at which the hedge wizard is r
 
 Membership in the Order of Hermes is restricted to characters with The Gift. Redcaps are notable exceptions, and they are able to remain as honorary magi through the weight of tradition, but most magi would not countenance the admission of any other un-Gifted character. However, other exceptions are also possible, in very rare circumstances, as the position of the Redcaps has meant that there are no Code rulings explicitly requiring magi to have The Gift. For example, mainstream magi might be persuaded that their dignity does not suffer too greatly if a powerful Mythic Companion hedge wizard is admitted to House Ex Miscellanea.
 
->#### New Spell: The Numbness of The Gift
+> ### New Spell: The Numbness of The Gift
 >
->InVi Level 20
+> InVi Level 20
 >
->R: Personal, D: Conc, T: Touch 
+> R: Personal, D: Conc, T: Touch
 >
->When the caster places his hand on another character who has The Gift, his hand feels numb. This effect must penetrate the Magic Resistance (if any) of the character whose Gift is being sensed, and if that character is a member of the Order of Hermes, casting this spell normally counts as scrying (which is prohibited by the Code). This spell is based on the "detect the traces of powerful magic" guideline. If the target has the Blatant or Gentle Gift, the spell still works.
+> When the caster places his hand on another character who has The Gift, his hand feels numb. This effect must penetrate the Magic Resistance (if any) of the character whose Gift is being sensed, and if that character is a member of the Order of Hermes, casting this spell normally counts as scrying (which is prohibited by the Code). This spell is based on the "detect the traces of powerful magic" guideline. If the target has the Blatant or Gentle Gift, the spell still works.
 >
->(Base 10, +1 Conc, +1 Touch).
+> (Base 10, +1 Conc, +1 Touch).
 
 At the extreme, a small, internally coherent tradition made up overwhelmingly of Gifted members might be able to negotiate for the admission of the whole tradition, even if one member is a companion character with only a few Supernatural Virtues. In this case, the unGifted magus may be expected, as an informal condition of membership, to decline to exercise his voting rights at Tribunal, like a Redcap does. Of course, even if he does join the Order, an unGifted hedge wizard cannot learn Hermetic Arts, learn Parma Magica, participate in certamen, or perform any other activity that requires The Gift.
 
@@ -458,7 +481,7 @@ Most hedge wizard characters are neither allies of nor converted to the Order of
 
 #### Hedge Wizards and the Aegis of the Hearth
 
-Many Hermetic sites, especially covenants, are protected by a casting of the *Aegis* of the *Hearth* (ArM5, page 161). This affects hedge wizards normally, which means that unless the hedge wizard has a Might Score (which is unlikely) he may enter the Aegis through mundane means without problem. If he is Gifted he feels a tingling sensation as he does, but of course he may not realize what this signifies.
+Many Hermetic sites, especially covenants, are protected by a casting of the *Aegis of the Hearth* (ArM5, page 161). This affects hedge wizards normally, which means that unless the hedge wizard has a Might Score (which is unlikely) he may enter the Aegis through mundane means without problem. If he is Gifted he feels a tingling sensation as he does, but of course he may not realize what this signifies.
 
 - If a hedge wizard casts an effect towards an Aegis, the effect must Penetrate the Aegis to be successful. This includes transportation effects; for example, a folk witch cannot fly through an Aegis unless her Penetration Total exceeds the level of the Aegis.
 - If a hedge wizard casts an effect within an Aegis, half the level of the Aegis is subtracted from his Casting Total.
@@ -488,11 +511,11 @@ The Opening Ease Factor is equal to twice the sum of the apprentice' existing Su
 
 **Opening Ease Factor:** twice apprentice's Supernatural Ability + Art scores (+ 12 if Gift already Open)
 
->#### Flawed Opening of The Gift
+> ### Flawed Opening of The Gift
 >
->To be a fully competent master, the character must have a score of at least 2 in each Supernatural Ability and Art of the tradition. For every Supernatural Ability or Art that the master fails to meet this criterion, the apprentice gains a Flaw that affects his magic use. Usually, this is something like Deficient Art, but the troupe may substitute other Flaws as appropriate.
+> To be a fully competent master, the character must have a score of at least 2 in each Supernatural Ability and Art of the tradition. For every Supernatural Ability or Art that the master fails to meet this criterion, the apprentice gains a Flaw that affects his magic use. Usually, this is something like Deficient Art, but the troupe may substitute other Flaws as appropriate.
 
-If the master's Opening Total is less than the Opening Ease Factor, it is not possible for him to Open The Gift of the apprentice. 
+If the master's Opening Total is less than the Opening Ease Factor, it is not possible for him to Open The Gift of the apprentice.
 
 If the master's Opening Total is greater than or equal to the Opening Ease Factor then the apprentices Gift is Opened, however unless the Opening Total exceeds twice the Opening Ease Factor the apprentice loses his existing Supernatural Ability and Art Scores. If his Supernatural Ability and Arts Scores are lost, he also loses any Virtues (or Flaws) associated with them. Even if the master is able to Open The Gift of the apprentice, the Opening may still be flawed as described in the insert.
 
@@ -510,9 +533,9 @@ A character whose Gift has been Opened must subtract at least 15 from the source
 
 *What if Sarah had no Entrancement Ability? The Ease Factor would be 6 (based on Magic Sensitivity only). Stefano's Opening Total (17) is enough to Open Sarah's Gift, and as it's greater than double the Ease Factor, Sarah keeps ber Magic Sensitivity Ability, too.*
 
->#### Opening the Arts
+> ### Opening the Arts
 >
->The Hermetic Opening of the Arts is the Order of Hermes' equivalent of Opening The Gift. Rules for this are given in ArM5 (page 106) and again in Houses of Hermes: Societates (page 128), but they do not address the possibility of the apprentices Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a hedge tradition, add 30 to the Intellego Vim Lab Total required by the magus.
+> The Hermetic Opening of the Arts is the Order of Hermes' equivalent of Opening The Gift. Rules for this are given in ArM5 (page 106) and again in Houses of Hermes: Societates (page 128), but they do not address the possibility of the apprentices Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a hedge tradition, add 30 to the Intellego Vim Lab Total required by the magus.
 
 #### Social Penalty of the Gift
 
@@ -532,9 +555,9 @@ Some hedge traditions produce effects via combinations of Arts in a manner simil
 
 Hedge Arts are not normally compatible with Hermetic Arts (or with the hedge Arts of other traditions), so if a character somehow learns Arts from several traditions they may not be combined to produce exotic effects. However, this could be a fruitful avenue for integration research projects (see later).
 
->#### Difficult Arts Mechanically
+> ### Difficult Arts Mechanically
 >
->Difficult Arts are necessary to prevent hedge wizard traditions from being easily able to generate high Penetration scores to bypass the Magic Resistance of Hermetic magi. The troupe should consider this when developing its own traditions. A good guideline for game balance is that if a combination of hedge Arts can affect magi, then at least one should be a Difficult Art.
+> Difficult Arts are necessary to prevent hedge wizard traditions from being easily able to generate high Penetration scores to bypass the Magic Resistance of Hermetic magi. The troupe should consider this when developing its own traditions. A good guideline for game balance is that if a combination of hedge Arts can affect magi, then at least one should be a Difficult Art.
 
 #### Difficult Arts
 
@@ -550,13 +573,13 @@ Accelerated Abilities are the counterpart to Difficult Arts, introduced in *Hous
 
 Some traditions have a set of favored Supernatural Abilities. Gifted characters who belong to these traditions do not have to subtract the total of their Supernatural Ability scores from the source quality to learn other Abilities that are favored by that tradition. Usually, the character has to undergo some sort of ritual — Opening The Gift — before he gains this benefit of the tradition. Favored Abilities have no meaning for unGifted characters, as they cannot learn Supernatural Abilities at all. Characters with favored Abilities must subtract the total of all their Supernatural Abilities, including favored Abilities, from the source quality when learning Supernatural Abilities that are not favored.
 
->#### The Limit of Magic Resistance
+> ### The Limit of Magic Resistance
 >
->No hedge tradition has a general resistance to magic.
+> No hedge tradition has a general resistance to magic.
 >
->This is obviously not a true Limit of Magic, as clearly a Hermetic magus has a general magic resistance from his Form Art Scores (augmented even further by his Parma Magica). However, Hermetic theorists have noted that hedge traditions are constrained by this apparent limit. It is unclear why this should be so, but it is undeniably convenient for the Order of Hermes. In fact, if a hedge tradition did develop a method of breaking the Limit of Magic Resistance, its members would be ruthlessly eliminated by the Order of Hermes. This is because the wider Order fully understands that its hegemony over the hedge traditions relies on magi's ability to resist the magical effects of hedge wizards, and the hedge wizard's corresponding inability to resist the magic of magi. Perhaps the historic efficiency of the Order of Hermes in identifying and destroying such challenges to their power is sufficient to explain the apparent Limit of Magic Resistance.
+> This is obviously not a true Limit of Magic, as clearly a Hermetic magus has a general magic resistance from his Form Art Scores (augmented even further by his Parma Magica). However, Hermetic theorists have noted that hedge traditions are constrained by this apparent limit. It is unclear why this should be so, but it is undeniably convenient for the Order of Hermes. In fact, if a hedge tradition did develop a method of breaking the Limit of Magic Resistance, its members would be ruthlessly eliminated by the Order of Hermes. This is because the wider Order fully understands that its hegemony over the hedge traditions relies on magi's ability to resist the magical effects of hedge wizards, and the hedge wizard's corresponding inability to resist the magic of magi. Perhaps the historic efficiency of the Order of Hermes in identifying and destroying such challenges to their power is sufficient to explain the apparent Limit of Magic Resistance.
 
-## Magic Defenses
+### Magic Defenses
 
 As noted above no hedge wizard can resist magic, but some do have limited magical defenses that reduce the effect of magic.
 
@@ -584,7 +607,7 @@ Some magical defenses are listed below, and a particular tradition may have acce
 
 Spells cast on the hedge wizard, in his area of specialty, expire unexpectedly quickly. Diameter Duration spells expire a number of rounds too early equal to the hedge wizard's Magical Defense Bonus, but last at least one round. Sun Duration spells expire a number of hours too early, but last at least Diameter. Moon Duration spells expire a number of days too early, but last at least Sun. Year Duration spells expire a number of weeks too early, but last at least Moon. Spells with a Momentary, Concentration, or Ring Duration are unaffected. If other characters are affected by the same spell, the spell lasts its usual duration on them.
 
-#### Akacritous Fortune
+#### Alacritous Fortune
 
 The hedge wizard adds his Magical Defense Bonus to his Defense Total when spells are aimed at him.
 
@@ -604,13 +627,13 @@ If the hedge wizard is affected by an effect in his area of specialty that cause
 
 If the hedge wizard is affected by an effect in his area of specialty that changes his form (usually a Muto effect), then he may make a Stamina + Magical Defense Bonus + simple die roll against an Ease Factor of 9 to return to his natural form. The Bjornaer Heartbeast Ability grants a similar defense that has been retained from the House's pre-Hermetic tradition.
 
-## Warping
+### Warping
 
 A hedge wizard, like most characters, accumulates Warping Points that contribute to his Warping Score. The hedge wizard gains Warping Points via the usual methods (see ArM5, page 167), but as hedge wizards draw their power from the Magic Realm, he does not accumulate Warping points due to living in a strong magic aura.
 
 The response of each magic tradition to Warping is unique. Wizard's Twilight is the response of the Order of Hermes, and no hedge tradition has this particular response. Usually, unGifted hedge wizards react similarly to mundane characters, gaining Flaws and Virtues (see ArM5, page 168), but Gifted hedge wizards react more uniquely and unpredictably (see individual chapters).
 
-## Vis
+### Vis
 
 Some hedge traditions use vis as described in the tradition chapters. Of course, even these hedge wizards might use a different word to describe vis or may only recognize vis of specific Forms. However, this invites an important question: how do hedge wizards detect vis?
 
@@ -690,11 +713,11 @@ There is something flawed in the way the hedge wizard's Supernatural Abilities a
 
 Common abilities for hedge wizards are:
 
-### Arcane Abilities
+#### Arcane Abilities
 
 The (Hedge Wizard) Social Status Virtue that represents the hedge wizard's tradition gives him access to at least the Arcane Abilities Finesse, Magic Lore, and Penetration. Many hedge traditions also have an Arcane Ability analogous to the Magic Theory Ability of the Order of Hermes.
 
-#### (Hedge Magic)Theory
+#### (Hedge Magic) Theory
 
 This Arcane Ability deals with the technical details of how a particular hedge tradition practices its magic. It is possible that some technically naïve traditions have no practitioners with this Ability, which means that the tradition is likely to be poor at innovating, creating new effects, and teaching. Specialties: particular activities.
 
@@ -702,7 +725,7 @@ This Arcane Ability deals with the technical details of how a particular hedge t
 
 There is an (Organization) Lore General Ability for each hedge tradition. This includes knowledge of the legends, history, structure, and goals of the tradition. Some traditions use this Ability in initiations. A character does not need to be a member of the tradition to have this Ability. Note that this is not a new Ability (see ArM5, page 66). Specialities: personalities, history, politics.
 
-## Acquiring Hedge Wizard Powers
+### Acquiring Hedge Wizard Powers
 
 There are several ways to get powers:
 
@@ -738,7 +761,7 @@ See each hedge tradition for details on what Initiation rites and Scripts those 
 
 Some Hermetic magi, particularly Bonisagus Seekers, eagerly hunt down rumors of hedge traditions so that they may gain insights into magic theory. This is because some hedge traditions accomplish unusual effects that could, with considerable difficulty, be integrated into the Hermetic theory of magic, and thus duplicated by Hermetic magi. A new effect might even break a limit of magic, and much prestige would accrue to the Seeker responsible for extending the power of Hermetic magic in this way.
 
-### The Breakthrough
+#### The Breakthrough
 
 An ambitious magus may attempt to incorporate the effects of a hedge magic tradition into Hermetic theory and achieve a Breakthrough in Hermetic theory through research and experimentation. Any magus may, at any time, attempt a breakthrough; there are no minimum Arts or Ability scores required. To successfully integrate the magic of a hedge tradition into Hermetic Theory, the character must accumulate a number of breakthrough points determined by the type of Breakthrough the magus is attempting.
 
@@ -772,24 +795,23 @@ Teachers are individuals who are members of the hedge tradition who are able and
 
 In addition, a Gifted teacher can act as an assistant to the Hermetic magus, in which case add the teacher's Intelligence + (Hedge Magic) Theory to the magus' when making the roll to produce an Insight Lab Text. A teacher may only assist one magus in a season, and a magus may only be assisted by one teacher each season when attempting to find an Insight — this is because additional teachers tend to confuse the issue with their own interpretation.
 
->#### UnGifted Initiations
+> ### UnGifted Initiations
 >
->Usually, only Gifted characters may be initiated. However, some hedge traditions can Initiate unGifted characters. These Initiations follow all the usual rules except:
+> Usually, only Gifted characters may be initiated. However, some hedge traditions can Initiate unGifted characters. These Initiations follow all the usual rules except:
 >
->- Initiations that affect unGifted characters must include an Ordeal (i.e. the character must gain a Flaw or lose a Virtue).
->- UnGifted characters can not benefit from Ordeals that they suffered in previous initiations.
->- An unGifted character cannot act as the Mystagogue unless he knows the power that the Initiation develops — this means he cannot Initiate himself.
+> - Initiations that affect unGifted characters must include an Ordeal (i.e. the character must gain a Flaw or lose a Virtue).
+> - UnGifted characters can not benefit from Ordeals that they suffered in previous initiations.
+> - An unGifted character cannot act as the Mystagogue unless he knows the power that the Initiation develops — this means he cannot Initiate himself.
 
->#### The Integration Process
+> ### The Integration Process
 >
->1. **Find a source for information** about the hedge magic tradition, such as spell texts, items, captured laboratories, books, or similar. This typically involves a quest or adventure of some sort.
->2. **Investigate the source** to gain Insight; this typically takes two or three seasons.
->3. **Invent a spell or magical device** incorporating the Insight. You must experiment while doing this. If you succeed in inventing the spell, you gain a number of breakthrough points equal to the magnitude of the spell or device. The invention may break Hermetic limits, but if so, it cannot be invented by another character without a Lab Text, and cannot be varied in any way. 
->4. **Continue to research**, gaining more breakthrough points, until you equal or exceed the threshold.
->5. **Bask in the glory** of having improved Hermetic Theory; or alternatively, prepare for the political consequences of your impudence.
+> 1. **Find a source for information** about the hedge magic tradition, such as spell texts, items, captured laboratories, books, or similar. This typically involves a quest or adventure of some sort.
+> 2. **Investigate the source** to gain Insight; this typically takes two or three seasons.
+> 3. **Invent a spell or magical device** incorporating the Insight. You must experiment while doing this. If you succeed in inventing the spell, you gain a number of breakthrough points equal to the magnitude of the spell or device. The invention may break Hermetic limits, but if so, it cannot be invented by another character without a Lab Text, and cannot be varied in any way.
+> 4. **Continue to research**, gaining more breakthrough points, until you equal or exceed the threshold.
+> 5. **Bask in the glory** of having improved Hermetic Theory; or alternatively, prepare for the political consequences of your impudence.
 
-
-### Creating the Effect
+#### Creating the Effect
 
 A particular insight allows the researcher to create one specified effect. This effect might be a spell or an effect enchanted into an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something. However, spells are by far the most common, followed by item enchantments.
 
@@ -807,27 +829,27 @@ If the effect is successfully created, the magus gains a number of breakthrough 
 
 The effect produced in this way can be reproduced by other Hermetic magi. However, they can only do so if they have access to a Lab Text describing it, and it is not possible to vary the effect in any way; it must be reproduced exactly as it was initially created. Reproducing the effect in this way does not grant breakthrough points unless the reproducing magus also gains the relevant insight, whether from investigating the same item or from reading the original investigator's Lab Texts. It is possible to reproduce the effect first, and study the insight Lab Texts later.
 
->#### Story Seeds: Stories About Teachers
+> ### Story Seeds: Stories About Teachers
 >
->Some stories that could arise if a hedge wizard works with a magus to create Insight are below. Of course, if the hedge wizard is an NPC character, the magus may also have to go to considerable trouble to find a  teacher in the first place.
+> Some stories that could arise if a hedge wizard works with a magus to create Insight are below. Of course, if the hedge wizard is an NPC character, the magus may also have to go to considerable trouble to find a teacher in the first place.
 >
->#### The Saboteur
+> #### The Saboteur
 >
->The hedge wizard does not want to assist the magus and may be providing Insights under duress. The hedge wizard can choose to sabotage any experiment he assists with; treat this as if a Botch is rolled on the Extraordinary Results Chart (see ArM5 page 107). More subtly, the hedge wizard can choose to waste the season spent looking for an Insight on a wild goose chase; make a Guile roll (see ArM5, page 65) to determine if this duplicity is successful. Of course, the hedge wizard may be unable to ruin the experiment in either way due to either controlling Mentem magic or merely because he fears the magus too much.
+> The hedge wizard does not want to assist the magus and may be providing Insights under duress. The hedge wizard can choose to sabotage any experiment he assists with; treat this as if a Botch is rolled on the Extraordinary Results Chart (see ArM5 page 107). More subtly, the hedge wizard can choose to waste the season spent looking for an Insight on a wild goose chase; make a Guile roll (see ArM5, page 65) to determine if this duplicity is successful. Of course, the hedge wizard may be unable to ruin the experiment in either way due to either controlling Mentem magic or merely because he fears the magus too much.
 >
->#### The Protege
+> #### The Protege
 >
->Other magi become aware that the magus is learning Insights from a hedge wizard teacher, and they try to entice the hedge wizard to work on their own projects. If this enticement fails, particularly jealous magi might try to certamen for the right to the hedge wizard's knowledge, or they might try to kidnap or even assassinate the hedge wizard. This story is particular suitable if the hedge wizard is a player character.
+> Other magi become aware that the magus is learning Insights from a hedge wizard teacher, and they try to entice the hedge wizard to work on their own projects. If this enticement fails, particularly jealous magi might try to certamen for the right to the hedge wizard's knowledge, or they might try to kidnap or even assassinate the hedge wizard. This story is particular suitable if the hedge wizard is a player character.
 >
->#### The Spy
+> #### The Spy
 >
->The hedge wizard uses his access to the magus' Laboratory to secretly learn the secrets of the Order of Hermes, which he intends to bring back to his own tradition. If the hedge wizard chooses, he can earn 2 Exposure experience every season in either Magic Theory, Parma Magica, Order of Hermes Lore, or any Mystery Lore that the magus knows. Alternatively, the hedge wizard could merely try to steal a book about one of these subjects. The danger of a hedge wizard learning Parma Magica in this way is sufficient that other magi will be suspicious of the wisdom of hedge wizard teachers. Note that a hedge wizard cannot learn Hermetic Arts in this manner (as his Gift has not been Opened by the Order of Hermes).
+> The hedge wizard uses his access to the magus' Laboratory to secretly learn the secrets of the Order of Hermes, which he intends to bring back to his own tradition. If the hedge wizard chooses, he can earn 2 Exposure experience every season in either Magic Theory, Parma Magica, Order of Hermes Lore, or any Mystery Lore that the magus knows. Alternatively, the hedge wizard could merely try to steal a book about one of these subjects. The danger of a hedge wizard learning Parma Magica in this way is sufficient that other magi will be suspicious of the wisdom of hedge wizard teachers. Note that a hedge wizard cannot learn Hermetic Arts in this manner (as his Gift has not been Opened by the Order of Hermes).
 >
->### The Plagiarist
+> #### The Plagiarist
 >
->Other magi become aware that the magus is learning Insights from a hedge wizard and are derisive of his methods. Even if the Breakthrough is important and successful, the magus is not revered as its creator. The magus gains a reputation for poor-quality research and a Bonisagus magus gains no Acclaim for completing this Breakthrough (see *Houses of Hermes: True Lineages*, page 21) unless he can convince his peers that the hedge wizard was only a minor contributor to the project. This story is particular suitable if the hedge wizard is a player character.
+> Other magi become aware that the magus is learning Insights from a hedge wizard and are derisive of his methods. Even if the Breakthrough is important and successful, the magus is not revered as its creator. The magus gains a reputation for poor-quality research and a Bonisagus magus gains no Acclaim for completing this Breakthrough (see *Houses of Hermes: True Lineages*, page 21) unless he can convince his peers that the hedge wizard was only a minor contributor to the project. This story is particular suitable if the hedge wizard is a player character.
 
-### After the Breakthrough
+#### After the Breakthrough
 
 Minor Breakthroughs are usable immediately in the game, and are understandable by all Hermetic magi. New Ranges or Durations may be incorporated into new spells or items, and the Lab Texts distributed for a spell that may be used by another Hermetic magus without his needing to research the Breakthrough. Any magus who has created an effect using the Breakthrough can then use that Range of Duration freely in his other spells, and any magus trained by that magus, in either Arts or spells, may also do so.
 
@@ -837,23 +859,23 @@ A new Virtue may be Initiated according to the normal rules for Mysteries. The d
 
 Inventing a Major or Hermetic Breakthrough that does not require teaching takes another Major Breakthrough, which may be achieved by these rules or the original research rules. If this succeeds, any magus may create an effect using the Breakthrough as long as he has a Lab Text, and then may use the Breakthrough freely. As for Minor Breakthroughs, the same applies to any magus taught Arts or spells by a magus who understands the Breakthrough.
 
->#### Hermetic Use of Hedge Theory
+> ### Hermetic Use of Hedge Theory
 >
->If a hedge tradition lacks a theoretical foundation (and therefore a (Hedge Magic) Theory Ability), a Hermetic researcher may invent such an Ability as a Hermetic Breakthrough. A Hermetic researcher may also invent a (Hedge Magic) Theory Ability if he lacks access to teachers with the Ability, and a hedge wizard may attempt to invent this Ability for his own tradition. This Breakthrough normally requires 60 breakthrough points, but the researcher reduces this amount by his greatest existing (Hedge Magic) Theory or Magic Theory Ability Score.
+> If a hedge tradition lacks a theoretical foundation (and therefore a (Hedge Magic) Theory Ability), a Hermetic researcher may invent such an Ability as a Hermetic Breakthrough. A Hermetic researcher may also invent a (Hedge Magic) Theory Ability if he lacks access to teachers with the Ability, and a hedge wizard may attempt to invent this Ability for his own tradition. This Breakthrough normally requires 60 breakthrough points, but the researcher reduces this amount by his greatest existing (Hedge Magic) Theory or Magic Theory Ability Score.
 >
->Once he has completed this Breakthrough, the researcher converts his breakthrough points into experience points in the relevant Ability. He may then go on to act as his own source of insight for subsequent Breakthroughs (based on the same hedge tradition), as described above. If the researcher wants to integrate several effects from a single tradition, this is efficient as it reduces the overall amount of original material from the hedge tradition (texts and relics) that the researcher requires.
+> Once he has completed this Breakthrough, the researcher converts his breakthrough points into experience points in the relevant Ability. He may then go on to act as his own source of insight for subsequent Breakthroughs (based on the same hedge tradition), as described above. If the researcher wants to integrate several effects from a single tradition, this is efficient as it reduces the overall amount of original material from the hedge tradition (texts and relics) that the researcher requires.
 >
->If a hedge wizard invents (Hedge Magic) Theory for his own tradition, he gains the benefits of having a theoretical understanding of magic. For example, he can improve his laboratory, adds his (Hedge Magic) Theory Ability Score to his Lab Totals, etc.
+> If a hedge wizard invents (Hedge Magic) Theory for his own tradition, he gains the benefits of having a theoretical understanding of magic. For example, he can improve his laboratory, adds his (Hedge Magic) Theory Ability Score to his Lab Totals, etc.
 
->#### Original Research and Ancient Magic
+> ### Original Research and Ancient Magic
 >
->Houses of Hermes: True Lineages includes rules for original research — adding features to Hermetic magic based purely on a magus' own inspiration. Integrating hedge traditions tends to be faster and safer, but it does have two disadvantages. First, the magus can only aim for the Breakthroughs available in the hedge tradition. Second, he has to get out of his laboratory and find (possibly uncooperative) sources of insight. From the storyguide's perspective, these may be advantages, of course.
+> Houses of Hermes: True Lineages includes rules for original research — adding features to Hermetic magic based purely on a magus' own inspiration. Integrating hedge traditions tends to be faster and safer, but it does have two disadvantages. First, the magus can only aim for the Breakthroughs available in the hedge tradition. Second, he has to get out of his laboratory and find (possibly uncooperative) sources of insight. From the storyguide's perspective, these may be advantages, of course.
 >
->The two sets of rules are similar, and both approaches may be taken to a single Breakthrough. That is, breakthrough points from integration may be added to breakthrough points from original research to determine whether a Breakthrough has been achieved.
+> The two sets of rules are similar, and both approaches may be taken to a single Breakthrough. That is, breakthrough points from integration may be added to breakthrough points from original research to determine whether a Breakthrough has been achieved.
 >
->Ancient Magic also includes similar rules for integrating extinct, ancient traditions into Hermetic magic. Technically, breakthrough points gathered from integrating ancient traditions are compatible with those gathered from integrating hedge traditions, and vice versa. However, in practice it would be very rare for an ancient and hedge tradition to share a common Breakthrough: ancient traditions are meant to be extinct.
+> Ancient Magic also includes similar rules for integrating extinct, ancient traditions into Hermetic magic. Technically, breakthrough points gathered from integrating ancient traditions are compatible with those gathered from integrating hedge traditions, and vice versa. However, in practice it would be very rare for an ancient and hedge tradition to share a common Breakthrough: ancient traditions are meant to be extinct.
 
-### Integration by Hedge Wizard Researchers
+#### Integration by Hedge Wizard Researchers
 
 Some hedge wizards have recovered artifacts of other hedge traditions, and even some of Hermetic origin, and have attempted to replicate the effects they have discovered. Except for the invention of (Hedge Magic) Theory itself, a hedge wizard may only attempt research if he has a Score in the (Hedge Magic) Theory Ability.
 
@@ -863,9 +885,7 @@ The possible effects of such activity by hedge researchers are too numerous to l
 
 The scholars who study the world of Mythic Europe discovered long ago that everything in the physical universe is made up of four distinct building blocks of creation, called elements. These elements combine to varying degrees to form the matter and energy that make up physical reality, and are typically characterized as air, fire, earth, and water. A stone is primarily made up of earth, a flame is mostly fire, and a human being is made up of more or less equal parts of all four elements combined together. Many supernatural beings are also strongly associated with one of the four elements.
 
-Some ancient men and women had a supernatural gift or talent that gave them power over ghosts and other unseen spirits, including those associated with the four elements, and over the years they refined this art into a system of magic known as the Ars Goetia, or the Goetic Arts. These rotes and charms could draw a spirit to the summoner and cause it to manifest before him. Related paths of goetic knowledge allowed him to manipulate the essence of the spirit, to bind it to the physical world, or even to compel its service. But because the Ars Goetia gave
-
-the magician influence over the unseen spirit world instead of the visible world of nature, these arts were often considered to be evil by the rest of society, and branded as sorcery or black magic by other wizards.
+Some ancient men and women had a supernatural gift or talent that gave them power over ghosts and other unseen spirits, including those associated with the four elements, and over the years they refined this art into a system of magic known as the Ars Goetia, or the Goetic Arts. These rotes and charms could draw a spirit to the summoner and cause it to manifest before him. Related paths of goetic knowledge allowed him to manipulate the essence of the spirit, to bind it to the physical world, or even to compel its service. But because the Ars Goetia gave the magician influence over the unseen spirit world instead of the visible world of nature, these arts were often considered to be evil by the rest of society, and branded as sorcery or black magic by other wizards.
 
 Others in Mythic Europe have used the sciences of medicine, philosophiae, and theurgy to further develope these powers, so that they are able to affect the physical world instead of the spiritual, exert supernatural authority over the raw elements of nature, and even cause them to come together into animate creatures known as elementals. These Elementalist Arts are believed to have originated far across the Mediterranean Sea in the Middle East and northern Africa, but spread to Europe during the Arab conquests of Iberia in the first part of the eighth century. So-called "elementalists" would have been treated as badly as other sorcerers and summoners of the time, and thus they generally kept their abilities a secret, adopting the appearance of learned scholars or holy men. Over time, their scholarship and ties to the community elevated them above their more sinister counterparts, and in 1220 elementalists tend to look more like academics than other hedge wizards.
 
@@ -885,39 +905,39 @@ Characters can study the Elementalist Arts like any other Arts, though books on 
 
 Here follow several new Virtues and Flaws that are associated with the elementalist tradition and elementalist magic. Also, there are a few Virtues and Flaws available to elementalists that are similar to Hermetic Virtues and Flaws of the same name, except that they apply to elementalist magic instead. These are listed below, but players should simply refer to the Hermetic descriptions in Ars Magica 5th Edition. Note that, while these Flaws may be taken by unGifted elementalists, they may only be taken by characters for whom they represent a penalty. Characters with no elementalist powers may not take Flaws that limit those powers, for example. Similarly, a character may not have a Flaw that limits a power he does not have, even if he has other elementalist powers.
 
->#### Elementalist Virtues
+> ### Elementalist Virtues
 >
->**MAJOR, SUPERNATURAL**<br>
->Elemental Magic\*<br> 
->Elemental Medicine\* <br>
->Elemental Philosophiae\* <br>
->Elemental Theurgy\* <br>
->Gentle Gift (Type) <br>
->Controlling\*<br>
->(Type) Divining\*<br>
->(Type) Refining\*<br>
->(Type) Summoning\*<br>
+> **MAJOR, SUPERNATURAL**<br>
+> Elemental Magic\*<br>
+> Elemental Medicine\* <br>
+> Elemental Philosophiae\* <br>
+> Elemental Theurgy\* <br>
+> Gentle Gift (Type) <br>
+> Controlling\*<br>
+> (Type) Divining\*<br>
+> (Type) Refining\*<br>
+> (Type) Summoning\*<br>
 >
->**MINOR, SUPERNATURAL**<br>
->Affinity with (Art)  <br>
->Cyclic Magic (positive) <br>
->Elemental Affinity\* <br>
->Elementalist Air\* <br>
->Elementalist Earth\* <br>
->Elementalist Fire\* <br>
->Elementalist Water\* <br>
->Fast Caster <br>
->Free Study <br>
->Inoffensive to Animals <br>
->Personal Vis Source <br>
->Puissant (Art) <br>
->Special Circumstances <br>
->(Type) Controlling\* <br>
->(Type) Divining\* <br>
->(Type) Refining\* <br>
->(Type) Summoning\*
+> **MINOR, SUPERNATURAL**<br>
+> Affinity with (Art) <br>
+> Cyclic Magic (positive) <br>
+> Elemental Affinity\* <br>
+> Elementalist Air\* <br>
+> Elementalist Earth\* <br>
+> Elementalist Fire\* <br>
+> Elementalist Water\* <br>
+> Fast Caster <br>
+> Free Study <br>
+> Inoffensive to Animals <br>
+> Personal Vis Source <br>
+> Puissant (Art) <br>
+> Special Circumstances <br>
+> (Type) Controlling\* <br>
+> (Type) Divining\* <br>
+> (Type) Refining\* <br>
+> (Type) Summoning\*
 >
->\* New or revised Virtues
+> \* New or revised Virtues
 
 ### New or Revised Virtues
 
@@ -983,9 +1003,9 @@ The character has a supernatural aptitude for elemental magic, based in experien
 
 In addition, when affecting multiple elements with his elemental magic, he may use his highest Form score rather than his lowest. If the highest score exceeds his score in the appropriate (Realm) Lore, use his score in (Realm) Lore instead.
 
->#### Elemental Affinities & Character Creation
+> ### Elemental Affinities & Character Creation
 >
->Several of the Virtues found in this chapter (Elemental Magic, Elemental Medicine, Elemental Philosophiae, and Elemental Theurgy) give the player experience points in the four Elementalist Forms whenever the character studies a related Ability. In order to approximate this effect during character creation, an optional method is to treat the Virtue as an Affinity with the related Forms. That is, you would calculate the number of experience points spent in the Ability, and divide half that amount among the Forms (or, for Elemental Magic, take the total number of points spent on the four Forms and equally divide half that amount among them).
+> Several of the Virtues found in this chapter (Elemental Magic, Elemental Medicine, Elemental Philosophiae, and Elemental Theurgy) give the player experience points in the four Elementalist Forms whenever the character studies a related Ability. In order to approximate this effect during character creation, an optional method is to treat the Virtue as an Affinity with the related Forms. That is, you would calculate the number of experience points spent in the Ability, and divide half that amount among the Forms (or, for Elemental Magic, take the total number of points spent on the four Forms and equally divide half that amount among them).
 
 #### (Type) Controlling
 *Major or Minor, Supernatural*
@@ -994,7 +1014,7 @@ Controlling is an Elementalist Art that can be combined with mastery of the four
 
 This Virtue may be taken up to three times, to indicate that the character can control multiple types of elemental targets (Medicinal, Philosophical, or Theurgical). The first type chosen requires a Major Virtue, the others are Minor. Each type of Controlling must be learned separately, but all three use the same Art score, so that a character who takes this Virtue three times would have only one Controlling Art, not (Medicinal) Controlling, (Philosophical) Controlling, and (Theurgical) Controlling.
 
-### (TYPE) DIVINING
+#### (Type) Divining
 *Major or Minor, Supernatural*
 
 This Elementalist Art allows an elementalist to locate, understand, and predict the behavior of the four elements, as described under Elementalist Techniques, later in this chapter. This Virtue gives the character an initial Divining score of 0.
@@ -1013,31 +1033,31 @@ This Virtue may be taken up to three times, to indicate that the character can r
 
 Summoning is an Elementalist Art that allows the character to use his knowledge of the Elementalist Forms to summon a target associated with that element to him. This target is somehow appropriate to his background — a disease, an aspect of nature, or an elemental being, as determined by the type of Summoning he learns (Medicinal, Philosophical, or Theurgical). This is described in more detail under Elementalist Techniques, later in this chapter. Selecting this Virtue gives the character a score of 0 in Summoning. This Virtue may be taken up to three times, to indicate that the character can summon more than one type of elemental target. The first type chosen requires a Major Virtue, the others are Minor Virtues. Each type of Summoning must be learned separately, but all three types use the same Art score, so that a character that takes this Virtue three times would only have one Summoning Art, not (Medicinal) Summoning, (Philosophical) Summoning, and (Theurgical) Summoning.
 
->#### Other Summoning Arts
+> ### Other Summoning Arts
 >
->Summoning powers are also mentioned in Realms of Power: The Infernal (pages 87, 114-115). To distinguish the infernal Summoning Art from elementalist Summoning, you should refer to the infernal version as (Spirit) Summoning, and the elementalist version as (Elemental) Summoning. For example, an elemental theurgist with infernal powers could have (Elemental) Summoning, Controlling, (Spirit) Summoning, and Commanding. Note that such a character would be able to summon both spirits and elementals with his Summoning Arts, but could only command spirits with his Commanding Art and control elementals with his Controlling Art. If he were to summon a spirit aligned with one of the four elements using either (Spirit) or (Elemental) Summoning, he could affect it with either Commanding or Controlling, as the target would be both an elemental and a spirit.
+> Summoning powers are also mentioned in Realms of Power: The Infernal (pages 87, 114-115). To distinguish the infernal Summoning Art from elementalist Summoning, you should refer to the infernal version as (Spirit) Summoning, and the elementalist version as (Elemental) Summoning. For example, an elemental theurgist with infernal powers could have (Elemental) Summoning, Controlling, (Spirit) Summoning, and Commanding. Note that such a character would be able to summon both spirits and elementals with his Summoning Arts, but could only command spirits with his Commanding Art and control elementals with his Controlling Art. If he were to summon a spirit aligned with one of the four elements using either (Spirit) or (Elemental) Summoning, he could affect it with either Commanding or Controlling, as the target would be both an elemental and a spirit.
 
 ### New Flaws
 
->#### Elementalist Flaws
+> ### Elementalist Flaws
 >
->**Major, Supernatural**<br>
->Blatant Gift <br>
->Restriction <br>
->Study Requirement <br>
->Weak Elemental Resistance\*<br>
+> **Major, Supernatural**<br>
+> Blatant Gift <br>
+> Restriction <br>
+> Study Requirement <br>
+> Weak Elemental Resistance\*<br>
 >
->**MINOR, SUPERNATURAL**<br>
->Cyclic Magic (negative)<br>
->Deleterious Circumstances<br>
->Offensive to Animals<br>
->Slow Caster<br>
->Susceptibility to Divine Power<br>
->Susceptibility to Faerie Power<br>
->Susceptibility to Infernal Power<br>
->Vulnerable to (Form)\*
+> **MINOR, SUPERNATURAL**<br>
+> Cyclic Magic (negative)<br>
+> Deleterious Circumstances<br>
+> Offensive to Animals<br>
+> Slow Caster<br>
+> Susceptibility to Divine Power<br>
+> Susceptibility to Faerie Power<br>
+> Susceptibility to Infernal Power<br>
+> Vulnerable to (Form)\*
 >
->\* New Flaws
+> \* New Flaws
 
 
 #### Vulnerable to (Form)
@@ -1056,7 +1076,7 @@ Perhaps the character views his supernatural association with the four elements 
 
 This Flaw can be taken by a magus as a Hermetic Flaw, in which case his Magic Resistance is vulnerable to physical damage appropriate to the elements and all damage from spells associated with Aquam, Auram, Ignem, and Terram. In these circumstances, his Magic Resistance is not increased by his score in the corresponding Form, and his Soak is not increased by his (Form score / 5).
 
-## Elemental Warping
+### Elemental Warping
 
 As an elementalist accumulates Warping, instead of gaining new Virtues and Flaws as described in Ars Magica 5th Edition, he instead becomes even more strongly attuned to the four elements, both mentally and physically. This manifests most strongly in the character's personality, changing his behavior and emotions to correspond to the temperaments indicated by the four elements. This is usually to his detriment, as it leads him into madness and gives the player less control over how his character behaves, but it also draws him into stories and provides him with an interesting direction for developing his character. In addition, it transforms him physically to make him better able to resist those elements.
 
@@ -1074,21 +1094,21 @@ For example, if the elementalist in the above example were to contract a phlegma
 
 The storyguide should use these elemental Traits to draw the elementalist and those close to him into stories. If any of these Traits have a score of +3 or more, you should treat them as Minor Personality Flaws that dictate the character's behavior in a limited fashion, like a strange obsession with the associated element or an occasional mood swing. Treat Traits of +6 or more as Major Personality Flaws, behavior that the character often feels compelled to do and which typically override any other desires the character may have. If any of these Traits gain a score of +10 or more, the player no longer has control over the character's actions in any circumstances to which the storyguide decides that the Trait applies — the character has essentially gone mad. Like an elemental set loose without constraints, the character will likely bring about his own end eventually, and probably cause a great deal of destruction in the process.
 
->#### Elemental Traits
+> ### Elemental Traits
 >
->Four Personality Traits are used to describe elementalists who have been exposed to Warping: Choleric, Melancholic, Phlegmatic, and Sanguine.
+> Four Personality Traits are used to describe elementalists who have been exposed to Warping: Choleric, Melancholic, Phlegmatic, and Sanguine.
 >
->**Choleric** (Elementalist Fire): This Trait promotes anger and ire in the character, similar to the Wrathful or Hatred Personality Flaws. It opposes Phlegmatic.
+> **Choleric** (Elementalist Fire): This Trait promotes anger and ire in the character, similar to the Wrathful or Hatred Personality Flaws. It opposes Phlegmatic.
 >
->**Melancholic** (Elementalist Earth): This Trait represents the character's sorrow and gloom, much as if the character had the Depressed or Reclusive Personality Flaws. It opposes Sanguine.
+> **Melancholic** (Elementalist Earth): This Trait represents the character's sorrow and gloom, much as if the character had the Depressed or Reclusive Personality Flaws. It opposes Sanguine.
 >
->**Phlegmatic** (Elementalist Water): Jealousy and worry are signs of this Trait in a character, like the Personality Flaws Envious or Fear. It opposes Choleric.
+> **Phlegmatic** (Elementalist Water): Jealousy and worry are signs of this Trait in a character, like the Personality Flaws Envious or Fear. It opposes Choleric.
 >
->**Sanguine** (Elementalist Air): Delight and the feeling of being in love are signs of this Trait, perhaps best represented by Personality Flaws like Carefree or Optimistic. It opposes Melancholic.
+> **Sanguine** (Elementalist Air): Delight and the feeling of being in love are signs of this Trait, perhaps best represented by Personality Flaws like Carefree or Optimistic. It opposes Melancholic.
 >
->The effects of these Traits on the character's personality never cancel each other out, even if they are associated with elements that are opposed to each other. Characters with balanced Traits will still behave erratically — perhaps favoring one Trait some of the time and other times acting under the influence of another, or maybe harming themselves or lashing out at others they perceive as imbalanced.
+> The effects of these Traits on the character's personality never cancel each other out, even if they are associated with elements that are opposed to each other. Characters with balanced Traits will still behave erratically — perhaps favoring one Trait some of the time and other times acting under the influence of another, or maybe harming themselves or lashing out at others they perceive as imbalanced.
 
-## Elementalist Porms
+## Elementalist Forms
 
 Each of the Forms can potentially affect elementals and other supernatural beings associated with the four elements, the four humors of the body, and animals or other natural phenomena, depending upon the type of Elementalist Techniques with which they are combined. More information about elementals can be found in Realms of Power: Magic, pages 132-139, and the study of medicine and philosophiae is covered in more detail in Art & Academe.
 
@@ -1098,11 +1118,11 @@ Elementalist Air is the study of the supernatural qualities of the air, and how 
 
 The specific applications of Elementalist Air depend upon the type of Elementalist Technique with which it is paired:
 
-**Medicinal**: Elemental physicians can affect the sanguine humors of the human body with Elementalist Air, which are typically associated with lightheadedness and diseases of the blood. An example would be quotidian fever.
+**Medicinal:** Elemental physicians can affect the sanguine humors of the human body with Elementalist Air, which are typically associated with lightheadedness and diseases of the blood. An example would be quotidian fever.
 
-**Philosophical**: Elemental philosophers can use Elementalist Air to affect natural weather phenomena with their powers. They can also affect animals that possess a predominantly sanguine temperament, such as birds.
+**Philosophical:** Elemental philosophers can use Elementalist Air to affect natural weather phenomena with their powers. They can also affect animals that possess a predominantly sanguine temperament, such as birds.
 
-**Theurgical**: Using Elementalist Air, elemental theurgists can affect air elementals and other creatures with Magic Might associated with Auram. Air elementals tend to have high mental Characteristics, but low physical Characteristics.
+**Theurgical:** Using Elementalist Air, elemental theurgists can affect air elementals and other creatures with Magic Might associated with Auram. Air elementals tend to have high mental Characteristics, but low physical Characteristics.
 
 The character adds his Sanguine Trait to his Soak whenever he is damaged by the element of air, including suffering asphyxiation, inhaling poisonous gases, or being affected by powerful weather phenomena such as winds, hailstones, or lightning.
 
@@ -1110,11 +1130,11 @@ The character adds his Sanguine Trait to his Soak whenever he is damaged by the 
 
 Elementalist Earth is the study of the supernatural qualities of the earth, learning how to manipulate them with the Elementalist Techniques. It is a Difficult Art. Exactly what the character can do with Elementalist Earth varies, depending upon the type of Elementalist Technique with which it is paired:
 
-**Medicinal**: Elementalist Earth allows an elemental physician to draw upon his medical knowledge to affect the melancholic humors of the human body. This includes feelings of sadness, or diseases such as constriction.
+**Medicinal:** Elementalist Earth allows an elemental physician to draw upon his medical knowledge to affect the melancholic humors of the human body. This includes feelings of sadness, or diseases such as constriction.
 
-**Philosophical**: Elemental philosophers can affect the earth and its minerals with their magic, including animals with a melancholic temperament, such as slow-moving animals like cattle or generally docile animals like mice and badgers.
+**Philosophical:** Elemental philosophers can affect the earth and its minerals with their magic, including animals with a melancholic temperament, such as slow-moving animals like cattle or generally docile animals like mice and badgers.
 
-**Theurgical**: Elemental theurgists can use Elementalist Earth to affect earth elementals and other supernatural beings associated with Terram. Earth elementals generally have high physical Characteristics, but low mental Characteristics.
+**Theurgical:** Elemental theurgists can use Elementalist Earth to affect earth elementals and other supernatural beings associated with Terram. Earth elementals generally have high physical Characteristics, but low mental Characteristics.
 
 The character adds his Melancholy Trait to his Soak whenever he is damaged by the element of earth, including suffocation, injuries by metal or stone weapons, crushing blows, or falling onto solid ground.
 
@@ -1122,9 +1142,9 @@ The character adds his Melancholy Trait to his Soak whenever he is damaged by th
 
 Elementalist Fire is a Difficult Art, which involves studying the supernatural qualities of fire, and how to manipulate them with the character's elemental magic. The type of Elementalist Technique with which the character pairs this Form determines what sorts of fire he can affect:
 
-**Philosophical**: Heat and flame is the province of the elemental philosopher with Elementalist Fire, which includes mundane animals with a choleric temperament - generally those that are fast (such as horses) or fierce (such as predators).
+**Philosophical:** Heat and flame is the province of the elemental philosopher with Elementalist Fire, which includes mundane animals with a choleric temperament - generally those that are fast (such as horses) or fierce (such as predators).
 
-**Theurgical**: Elemental theurgists affect fire elementals and other supernatural creatures associated with heat, light, and flames. Fire elementals typically have high scores in Presence, Communication, Dexterity, and Quickness.
+**Theurgical:** Elemental theurgists affect fire elementals and other supernatural creatures associated with heat, light, and flames. Fire elementals typically have high scores in Presence, Communication, Dexterity, and Quickness.
 
 The character adds his Choleric Trait to his Soak whenever he is damaged by the element of fire, including exposure to extreme temperatures, blinding light, or burning flames.
 
@@ -1132,11 +1152,11 @@ The character adds his Choleric Trait to his Soak whenever he is damaged by the 
 
 Elementalist Water is the study of the supernatural qualities of water, and how they can be manipulated with elemental magic. It is a Difficult Art. The form of the targets that the elementalist can affect with this Elementalist Form depends upon the type of Technique with which it is paired:
 
-**Medicinal**: Elemental physicians can affect the phlegmatic humors of the human body with their Elementalist Arts. These humors are associated with slow, listless feelings and wet, phlegmatic diseases such as flux.
+**Medicinal:** Elemental physicians can affect the phlegmatic humors of the human body with their Elementalist Arts. These humors are associated with slow, listless feelings and wet, phlegmatic diseases such as flux.
 
-**Philosophical**: The elemental philosopher affects all sorts of natural liquids with Elementalist Water, and can also affect animals with a phlegmatic temperament, which includes those that swim like fish or creep like reptiles.
+**Philosophical:** The elemental philosopher affects all sorts of natural liquids with Elementalist Water, and can also affect animals with a phlegmatic temperament, which includes those that swim like fish or creep like reptiles.
 
-**Theurgical**: Elementalist Water allows an elemental theurgist to affect water elementals and other supernatural creatures associated with cold and liquids. Water elementals typically have high scores in Cunning, Perception, Strength, and Stamina.
+**Theurgical:** Elementalist Water allows an elemental theurgist to affect water elementals and other supernatural creatures associated with cold and liquids. Water elementals typically have high scores in Cunning, Perception, Strength, and Stamina.
 
 The character adds his Phlegmatic trait to his Soak when he is damaged by the element of water, including suffering from thirst, drowning, drinking poisonous liquids, falling against water, or being crushed by powerful waves.
 
@@ -1166,7 +1186,7 @@ This is compared to the following chart to determine the maximum Size and Might 
 | 5     | 5     | —6    | lizard, stoat                |
 | 10    | 10    | -3    | badger, cat                  |
 | 15    | 15    | O     | adult, ten cats              |
-| 20    | 20    | +3    | war horse, ten adults        | 
+| 20    | 20    | +3    | war horse, ten adults        |
 | 25    | 25    | -6    | killer whale, 100 adults     |
 | 30    | 30    | +9    | humpbacked whale, 100 horses |
 | 35    | 35    | +12   | tower, castle                |
@@ -1196,20 +1216,20 @@ The elemental philosopher conjures natural phenomena (wind, flame) or base matte
 
 The elemental philosopher can also summon living animals that are native to the area and have a dominant temperament (choleric, melancholic, phlegmatic, or sanguine) appropriate to the element used in the summoning. The character can even summon a group of animals, so long as their collective size does not exceed the Size listed for the Summoning Total on the chart above, and as long as the sum of their Might Scores does not exceed the Might indicated for the level of the effect on the chart. If any of the summoned animals have Magic Resistance, the effect must penetrate.
 
->#### Story Seed: Vengeful Flames
->During a pitched battle, an elemental theurgist summons a horde of fire elementals to attack the opposing army. These creatures soon rampage out of control, gravely wounding the elementalist and wreaking havoc in the surrounding area. These elementals could threaten the player characters' covenant, physically or perhaps even politically when the lords of the opposing army call for wizards of their own to retaliate in kind.
+> ### Story Seed: Vengeful Flames
+> During a pitched battle, an elemental theurgist summons a horde of fire elementals to attack the opposing army. These creatures soon rampage out of control, gravely wounding the elementalist and wreaking havoc in the surrounding area. These elementals could threaten the player characters' covenant, physically or perhaps even politically when the lords of the opposing army call for wizards of their own to retaliate in kind.
 
 #### Theurgical
 
 The elemental theurgist can bring an elemental into being from an amount of pure base material, such as unworked stone, fresh water, or a natural breeze. The Summoning Total determines the being's maximum Might, based on the Size of the materials at hand, as shown on the chart. For example, a Summoning Total of 15 could potentially summon an earth elemental with Magic Might 15 from a man-sized pile of earth. You can use the rules in Realms of Power: Magic to design this elemental, or else simply assign it stats and powers that seem appropriate to its Size and Form an earth elemental with Might 20 might have two Terram powers and 20 points of physical Characteristics, and an air elemental with Might 15 could have one Auram power and 15 points of mental Characteristics. Elementals are permanently summoned, but do not recover their Might Points over time unless they consume vis, and revert to their natural form when all of their Might Points have been spent, leaving no vis behind. (See the Summoning Elementals sidebar for more details.)
 
->#### Summoning Elementals
+> ### Summoning Elementals
 >
->When Summoning is used with Elemental Magic, an elemental is essentially brought into being from an appropriate amount of base material. As noted above, this summoning lasts indefinitely, though the elementals are actually temporary and do not recover Might Points over time like other supernatural beings. When the Might Pool of one of these elementals is empty, it ceases to be an elemental at all and returns to its natural form, and does not leave behind any vis. That is, an elemental that was summoned from a pile of earth becomes a normal pile of earth again.
+> When Summoning is used with Elemental Magic, an elemental is essentially brought into being from an appropriate amount of base material. As noted above, this summoning lasts indefinitely, though the elementals are actually temporary and do not recover Might Points over time like other supernatural beings. When the Might Pool of one of these elementals is empty, it ceases to be an elemental at all and returns to its natural form, and does not leave behind any vis. That is, an elemental that was summoned from a pile of earth becomes a normal pile of earth again.
 >
->A summoned elemental's spent Might can be restored by feeding it vis: each pawn an elemental consumes returns 5 points of Might to it. Most elementals prefer to consume vis of the Elementalist Form opposed to their own, rather than that of their own Form — i.e. fire elementals generally seek out Aquam vis, and disdain Ignem vis. This might be seen as a kind of predatory instinct to hunt the element that is most different from them, and a supernatural taboo against eating their own kind. However, elementals will readily consume vis of any type if they are hungry (that is, they have spent some of their Might) and it is easily accessible.
+> A summoned elemental's spent Might can be restored by feeding it vis: each pawn an elemental consumes returns 5 points of Might to it. Most elementals prefer to consume vis of the Elementalist Form opposed to their own, rather than that of their own Form — i.e. fire elementals generally seek out Aquam vis, and disdain Ignem vis. This might be seen as a kind of predatory instinct to hunt the element that is most different from them, and a supernatural taboo against eating their own kind. However, elementals will readily consume vis of any type if they are hungry (that is, they have spent some of their Might) and it is easily accessible.
 >
->Elementals are generally wild and unbiddable, like a force of nature unleashed. If not held within a container, it is nearly certain that an elemental will attempt to destroy whatever comes into its path, even the elementalist who summoned it. They cannot be reasoned with, and while Magic Resistance can protect the character against an elemental's powers, it does not protect against its physical attacks. Magi and elementalists typically have a Soak bonus that gives them some protection, but it is generally too dangerous to just summon up an elemental without any safeguards against it.
+> Elementals are generally wild and unbiddable, like a force of nature unleashed. If not held within a container, it is nearly certain that an elemental will attempt to destroy whatever comes into its path, even the elementalist who summoned it. They cannot be reasoned with, and while Magic Resistance can protect the character against an elemental's powers, it does not protect against its physical attacks. Magi and elementalists typically have a Soak bonus that gives them some protection, but it is generally too dangerous to just summon up an elemental without any safeguards against it.
 
 ### Controlling
 
@@ -1231,9 +1251,9 @@ The elemental physician can control the emotions of human beings by manipulating
 
 Elemental physicians can also issue commands (such as "begone!") to supernatural creatures that have become part of a human body, such as disease spirits or possessing demons, in the same way that an elemental theurgist can command elemental beings. The physician's Controlling Total must exceed the Might of the target on the Summoning chart, and he must use his lowest of his scores in the four Elementalist Forms for the formula.
 
->#### Story Seed: The Bishop's Physician
+> ### Story Seed: The Bishop's Physician
 >
->The bishop in a nearby city has recently taken ill, but has hired a marvelous doctor who removes his pain merely by laying hands upon his chest. Word of this miraculous cure has begun to spread through the region, and though the bishop has not yet fully recovered, many are suggesting that his physician is a holy man. In fact, the true story is that the doctor is an elemental physician who can magically manipulate the humors in an ailing person to make him feel happy and fit, but must rely on his (nonexistent) knowledge of mundane medicine to actually treat the illness. So far the bishop has been lucky, in that his illness has not worsened, but he will soon die unless someone with more-substantial medical knowledge (or magic) helps him.
+> The bishop in a nearby city has recently taken ill, but has hired a marvelous doctor who removes his pain merely by laying hands upon his chest. Word of this miraculous cure has begun to spread through the region, and though the bishop has not yet fully recovered, many are suggesting that his physician is a holy man. In fact, the true story is that the doctor is an elemental physician who can magically manipulate the humors in an ailing person to make him feel happy and fit, but must rely on his (nonexistent) knowledge of mundane medicine to actually treat the illness. So far the bishop has been lucky, in that his illness has not worsened, but he will soon die unless someone with more-substantial medical knowledge (or magic) helps him.
 
 #### Philosophical
 
@@ -1241,7 +1261,7 @@ An elemental philosopher can affect the motion of natural materials with the app
 
 The elemental philosopher can also give commands to animals of a temperament appropriate to the element used, just like an elemental theurgist does with elemental beings, as long as his Controlling Total exceeds both the Size and Might of the animal on the Summoning chart. (See Elementalist Forms, earlier in this chapter, for some examples of animal temperaments for each element.)
 
-#### Thuurgical
+#### Theurgical
 
 The elemental theurgist can affect supernatural creatures with Might of the Form appropriate to the element used, assuming he can equal or exceed the being's Might on his Controlling roll. If he succeeds, the target must carry out a single command to the best of its ability. This can also be used to banish an elemental permanently. If it is held within a container, the elemental may leave while it is about this task, but must immediately return once the command has been fulfilled. According to legend, the earliest elemental theurgists would summon elementals into magic jars, and command them to obey the wishes of the person who released them, making them princely gifts. However, to take advantage of this legend, other elementalists would sometimes command the elementals inside such containers to kill the person who freed them instead, to punish thieves and meddlers.
 
@@ -1269,9 +1289,9 @@ The elementalist can sense natural materials associated with a Form, even recogn
 
 The elementalist can sense beings with Might associated with the appropriate element in the general region. He can tell the approximate distance and direction to the target, and he can mentally communicate with it by touching it or the container in which it is held. If the being is intelligent, the two of them can converse for as long as the elementalist maintains concentration. If it is not intelligent, the elementalist can perceive past events as the being saw them, or as experienced by the raw materials that the creature animates.
 
->#### Story Seed: The Right to Vis
+> ### Story Seed: The Right to Vis
 >
->One of a covenant's vis sources comes up dry after a wandering elementalist locates it and clears it out, to help him with his magical activities. To recover what is theirs, the magi must track him down and convince him to recognize their claim to what he took. To complicate matters, by the time they catch up with him the elementalist has already spent the vis.
+> One of a covenant's vis sources comes up dry after a wandering elementalist locates it and clears it out, to help him with his magical activities. To recover what is theirs, the magi must track him down and convince him to recognize their claim to what he took. To complicate matters, by the time they catch up with him the elementalist has already spent the vis.
 
 ### Refining
 
@@ -1279,8 +1299,7 @@ The Refining Art allows the elementalist to improve the target by purifying the 
 
 **REFINING TOTAL:** Intelligence + (associated Ability) + Refining + (Form) + aura
 
-Using the Refining Art often yields raw vis, and this is typically associated with the Form corresponding to the Elementalist Form used to affect the target. For example, Elementalist Water yields what magi would 
-call Aquam vis, and Elementalist Fire produces Ignem vis.
+Using the Refining Art often yields raw vis, and this is typically associated with the Form corresponding to the Elementalist Form used to affect the target. For example, Elementalist Water yields what magi would call Aquam vis, and Elementalist Fire produces Ignem vis.
 
 An elementalist with the Refining Art can use vis to make himself a kind of potion that is similar to a Hermetic longevity ritual. The potion gives him a bonus to his Aging rolls equal to his (Refining Total /5), including his lowest Elementalist Form as a requisite, which lasts until he suffers an Aging crisis. This potion takes a season to make, and costs a number of pawns of vis equal to his (age /5), rounded up. For example, a 50-year-old elementalist would need to spend ten pawns of vis of any Form he possesses. Note that an elementalist can only spend as much vis as the sum of his scores in the Elementalist Forms.
 
@@ -1316,11 +1335,11 @@ If the being would gain more Might Points than it can have in its Might Pool, or
 
 The elemental theurgist adds (Realm) Lore, of the same realm as the target, to his Refining Totals.
 
->#### Story Seed: The Elementalist Cut in Half
+> ### Story Seed: The Elementalist Cut in Half
 >
->An issue is brought to Tribunal, where two rival covenants argue that the other has broken the Code. The first covenant had an unGifted hedge wizard living with them (an elemental philosopher), who they kept busy making vis for them every season. A member of the second covenant, while visiting the first covenant, met this hedge wizard and offered him membership in the Order of Hermes; He accepted, swearing the Oath on the spot. Members of the first covenant refused to allow the elementalist to leave with the magus, and killed the hedge wizard during the confrontation. The visiting magus subsequently brought charges against the covenant for slaying a member of the Order. Members of the first covenant brought charges against that magus for depriving them of their magical property.
+> An issue is brought to Tribunal, where two rival covenants argue that the other has broken the Code. The first covenant had an unGifted hedge wizard living with them (an elemental philosopher), who they kept busy making vis for them every season. A member of the second covenant, while visiting the first covenant, met this hedge wizard and offered him membership in the Order of Hermes; He accepted, swearing the Oath on the spot. Members of the first covenant refused to allow the elementalist to leave with the magus, and killed the hedge wizard during the confrontation. The visiting magus subsequently brought charges against the covenant for slaying a member of the Order. Members of the first covenant brought charges against that magus for depriving them of their magical property.
 >
->The essential questions for the Tribunal in the first case are whether simply swearing the Oath is enough to make a wizard a member of the Order of Hermes, as the second covenant maintains; or whether it requires something more, such as ratification by a Quaesitor, as is the position of the first covenant. For the second case, the Tribunal will need to decide if a member of a covenant can be considered to be that covenant's property, and whether endangering that person constitutes depriving the covenant of its magical power.
+> The essential questions for the Tribunal in the first case are whether simply swearing the Oath is enough to make a wizard a member of the Order of Hermes, as the second covenant maintains; or whether it requires something more, such as ratification by a Quaesitor, as is the position of the first covenant. For the second case, the Tribunal will need to decide if a member of a covenant can be considered to be that covenant's property, and whether endangering that person constitutes depriving the covenant of its magical power.
 
 ## Elementalist Societies
 
@@ -1335,7 +1354,7 @@ The Arts associated with a society also indicate the Virtues into which that soc
 A society generally favors only two Techniques and the four Forms; below are three examples of elementalist societies that could be found in Mythic Europe in 1220.
 
 ### Apostles of Apollonius
-**Arts**: (Theurgical) Summoning, (Theurgical) Controlling, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
+**Arts:** (Theurgical) Summoning, (Theurgical) Controlling, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
 
 The first elementalists were ancient sorcerers who were influenced by the philosophy of Greek teachers like Empedocles, Galen, and Pythagoras. Instead of using their powers to summon the spirits of the underworld, they turned to the magic of nature and the fundamental laws that defined their world. By drawing forth the magical qualities of natural objects, they brought into existence those beings that magi would later call elementals. By taming and shrewdly applying the powers of these strange creatures, these elemental summoners were able to perform amazing feats.
 
@@ -1349,47 +1368,47 @@ Because these hedge wizards are predominantly ascetic and generally free of paga
 
 In 1220, the Apostles of Apollonius are rare, but can be found anywhere in Mythic Europe. Their magical influence is probably strongest in the eastern Mediterranean region, in the wild areas between the Levant and Theban Tribunals where theurgical magic is more common. There is also said to be a group of them living in a small village in the Greater Alps, in the region near the Cave of Twisting Shadows, where they are supported by some of the Criamon magi who reside there. They are generally regarded as magical curiosities — worthy companions to magi, but certainly no threat to the dominance of the Order of Hermes.
 
->#### Elisavet ("Psychorrhax")
+> ### Elisavet ("Psychorrhax")
 >
->Characteristics: Int 0, Per -1, Pre +2, Com -1, Str -1, Sta +2, Dex -2, Qik -2
+> Characteristics: Int 0, Per -1, Pre +2, Com -1, Str -1, Sta +2, Dex -2, Qik -2
 >
->Size: 0 
+> Size: 0
 >
->Age: 51
+> Age: 51
 >
->Decrepitude: 1 (6) 
+> Decrepitude: 1 (6)
 >
->Confidence Score: 1 (3) 
+> Confidence Score: 1 (3)
 >
->Warping Score: 3 (0)
+> Warping Score: 3 (0)
 >
->Virtues and Flaws: Outcast, (Theurgical) Controlling, (Theurgical) Summoning, Affinity with Controlling, Educated, Elementalist Air, Meddler (major), Plagued by Supernatural Being, Infamous, Vulnerable to Elementalist Earth
+> Virtues and Flaws: Outcast, (Theurgical) Controlling, (Theurgical) Summoning, Affinity with Controlling, Educated, Elementalist Air, Meddler (major), Plagued by Supernatural Being, Infamous, Vulnerable to Elementalist Earth
 >
->Personality Traits: Sanguine +5, Cruel +3, Lonely +3
+> Personality Traits: Sanguine +5, Cruel +3, Lonely +3
 >
->Reputations: Witch 4 (sailors)
+> Reputations: Witch 4 (sailors)
 >
->Combat:
+> Combat:
 >
->Dodge: Init -2, Atk n/a, Dfn -2, Dam n/a Soak: +2 (+7 vs. air, -5 vs. earth,)
+> Dodge: Init -2, Atk n/a, Dfn -2, Dam n/a Soak: +2 (+7 vs. air, -5 vs. earth,)
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Apostles of Apollonius Lore 1 (initiation rituals), Artes Liberales 3 (reading), Awareness 3 (sounds), Concentration 3 (maintaining control), Greek 5 (asking questions), Guile 3 (acting naive), Latin 4 (in writing), Magic Lore 4 (elementals), Mediterranean Sea Lore 4 (ships), Penetration 5 (Controlling), Survival 5 (islands), Swim 3 (treading water)
+> Abilities: Apostles of Apollonius Lore 1 (initiation rituals), Artes Liberales 3 (reading), Awareness 3 (sounds), Concentration 3 (maintaining control), Greek 5 (asking questions), Guile 3 (acting naive), Latin 4 (in writing), Magic Lore 4 (elementals), Mediterranean Sea Lore 4 (ships), Penetration 5 (Controlling), Survival 5 (islands), Swim 3 (treading water)
 >
->Arts: Controlling 18, Summoning 16 Difficult Arts: Elementalist Air 6
+> Arts: Controlling 18, Summoning 16 Difficult Arts: Elementalist Air 6
 >
->Equipment: Robes Encumbrance: 0 (0)
+> Equipment: Robes Encumbrance: 0 (0)
 >
->Appearance: A thin, middle-aged woman with silvery hair and sharp features, including deep-set but bright eyes. She wears the remains >of rich robes and a hood, weathered by wind and rain and patched with bits of sacking and canvas.
+> Appearance: A thin, middle-aged woman with silvery hair and sharp features, including deep-set but bright eyes. She wears the remains >of rich robes and a hood, weathered by wind and rain and patched with bits of sacking and canvas.
 >
->Elisavet was the daughter of a prosperous and knowledgeable advisor to the duke of a great city (a Hermetic magus serving a mundane lord), but against his orders she became involved with a group of strange mystics who initiated her into the ways of the Apostles of Apollonius. It soon became obvious to the court that she had become pregnant, though she protested that she remained a virgin. Shamed by her behavior, her father disowned her and her name, thereafter calling her only Psychorrhax ("heartbreaker"). At the command of the duke, she was banished from his lands, to be transported to Italy to live with distant relatives. Her ship was lost in a terrible storm in transit, but she survived and washed up on an island somewhere in the Mediterranean. Soon after, she gave birth to a son — a strange and misshapen creature with supernatural powers over earth and sea.
+> Elisavet was the daughter of a prosperous and knowledgeable advisor to the duke of a great city (a Hermetic magus serving a mundane lord), but against his orders she became involved with a group of strange mystics who initiated her into the ways of the Apostles of Apollonius. It soon became obvious to the court that she had become pregnant, though she protested that she remained a virgin. Shamed by her behavior, her father disowned her and her name, thereafter calling her only Psychorrhax ("heartbreaker"). At the command of the duke, she was banished from his lands, to be transported to Italy to live with distant relatives. Her ship was lost in a terrible storm in transit, but she survived and washed up on an island somewhere in the Mediterranean. Soon after, she gave birth to a son — a strange and misshapen creature with supernatural powers over earth and sea.
 >
->More than thirty years later, Elisavet has made herself a comfortable if somewhat lonely existence on her island home; she has a powerful air elemental that she summoned and bound to a tree in the middle of the island, which she often sends out to spy out passing ships and occasionally sink them, rescuing materials of particular interest to her such as jewelry, wine, and books. She has also had her son build her a grotto-like palace from stone and driftwood, but she is cruel to him and believes she must beat him to keep him tame. To introduce Elisavet to a saga, a storyguide can have her attack a ship bearing supplies for the covenant, or possibly even transporting a magus. Age is her greatest enemy, and she knows she will soon succumb to her years, but she once heard her father say that he was protected by a special longevity ritual that is common among those of his order. She might think to ransom magical >equipment or a kidnapped magus in exchange for such a ritual.
+> More than thirty years later, Elisavet has made herself a comfortable if somewhat lonely existence on her island home; she has a powerful air elemental that she summoned and bound to a tree in the middle of the island, which she often sends out to spy out passing ships and occasionally sink them, rescuing materials of particular interest to her such as jewelry, wine, and books. She has also had her son build her a grotto-like palace from stone and driftwood, but she is cruel to him and believes she must beat him to keep him tame. To introduce Elisavet to a saga, a storyguide can have her attack a ship bearing supplies for the covenant, or possibly even transporting a magus. Age is her greatest enemy, and she knows she will soon succumb to her years, but she once heard her father say that he was protected by a special longevity ritual that is common among those of his order. She might think to ransom magical >equipment or a kidnapped magus in exchange for such a ritual.
 
-### Ilkhwan as-Safa'
+### Ikhwan as-Safa'
 **Arts:** Philosophical Summoning, Philosophical Refining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
 
 The Brethren of Purity, or Ikhwan as-Safa', are a secretive group that follows a variant of Islam that teaches the only path to true happiness is for a person's soul to return to God through purification by attainment of knowledge.
@@ -1432,23 +1451,23 @@ The Elementalist Form that the character acquires is always tied to his bodily h
 
 #### Ritual of Making the Soul Actually Knowledgeable
 **Initiation Ease Factor:** 21<br>
-**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 +1 Sacrifice, +1 Sympathetic Bonus)
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sacrifice, +1 Sympathetic Bonus)
 
 The supplicant must write a summa of at least Level 3 and provide the only copy to his sponsor. Once the supplicant has accomplished these tasks, he spends one season under the tutelage of his sponsor. At the end of that season, the character acquires the Major Virtue Elemental Philosophiae and the Major Flaw Study Requirement. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Artes Liberales, Philosophiae, and Theology (Islam) and a score of 5 in Arabic.
 
->#### Epistles of the Brethren of Purity & Loyal Friends
+> ### Epistles of the Brethren of Purity & Loyal Friends
 >
->The Epistles of the Brethren of Purity and Loyal Friends, Rasa'il Ikhwan as-Safa' wa Khillan al-Wafa, are 52 rasa'il or letters that are grouped into four sections, usually referred to as books. Each book is a collection of tractatus on a specific Ability, but when read together with the assistance of "The Comprehensive Epistle," the books serve as summae for Refining and the four Elementalist Arts. The Comprehensive Epistle, or Al-Risala al-Jami'a, is the key to unlocking the secrets of the Epistles, and without any it, no character can gain knowledge of the secrets of the Brethren contained in the four books.
+> The Epistles of the Brethren of Purity and Loyal Friends, Rasa'il Ikhwan as-Safa' wa Khillan al-Wafa, are 52 rasa'il or letters that are grouped into four sections, usually referred to as books. Each book is a collection of tractatus on a specific Ability, but when read together with the assistance of "The Comprehensive Epistle," the books serve as summae for Refining and the four Elementalist Arts. The Comprehensive Epistle, or Al-Risala al-Jami'a, is the key to unlocking the secrets of the Epistles, and without any it, no character can gain knowledge of the secrets of the Brethren contained in the four books.
 >
->Book One, Mathematical Sciences, contains 14 tractatus on Artes Liberales of Quality 6–10 with an average Quality of 8. The book also serves as a summa for Elementalist Air, Level 3, Quality 8.
+> Book One, Mathematical Sciences, contains 14 tractatus on Artes Liberales of Quality 6–10 with an average Quality of 8. The book also serves as a summa for Elementalist Air, Level 3, Quality 8.
 >
->Book Two, Natural Sciences, contains 17 tractatus on Philosophiae (natural philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Water, Level 4, Quality 8.
+> Book Two, Natural Sciences, contains 17 tractatus on Philosophiae (natural philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Water, Level 4, Quality 8.
 >
->Book Three, Psychological and Rational Sciences, contains 10 tractatus on Philosophiae (moral philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Fire of level 3, Quality 8.
+> Book Three, Psychological and Rational Sciences, contains 10 tractatus on Philosophiae (moral philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Fire of level 3, Quality 8.
 >
->Book Four, Theological Sciences, contains 11 tractatus on Theology (Islam) with Quality 7–11 with an average Quality of 9. The book also serves as a summa for Elementalist Earth Level 3, Quality 8.
+> Book Four, Theological Sciences, contains 11 tractatus on Theology (Islam) with Quality 7–11 with an average Quality of 9. The book also serves as a summa for Elementalist Earth Level 3, Quality 8.
 >
->"The Comprehensive Epistle" is a summa on Philosophiae (metaphysics) Level 4, Quality 9, and if read in conjunction with one of the other four books, it serves as a summa for Philosophical Refining of Level 2, Quality 8. The character must have access to both texts during the season of study, and "The Comprehensive Epistle" provides no additional benefit if read in conjunction with additional >books beyond the first.
+> "The Comprehensive Epistle" is a summa on Philosophiae (metaphysics) Level 4, Quality 9, and if read in conjunction with one of the other four books, it serves as a summa for Philosophical Refining of Level 2, Quality 8. The character must have access to both texts during the season of study, and "The Comprehensive Epistle" provides no additional benefit if read in conjunction with additional >books beyond the first.
 
 #### Characters
 
@@ -1475,13 +1494,13 @@ Gifted members of this tradition learn Medicinal Summoning, Medicinal Divining, 
 
 #### Rite of Testing the Physician's Dedication
 **Initiation Ease Factor:** 21<br>
-**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +2 Sympathetic Bonus)
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +2 Sympathetic Bonus)
 
 The supplicant must travel to a city where an epidemic or disaster has occurred. The supplicant must do everything in his power to help those affected and must grant any request for aid he receives for one year. Once the supplicant has accomplished this task, he spends one season learning Medicinal Divining with his sponsor. At the end of that season, the character acquires a score of 1 in Medicinal Divining and the Major Flaw Restriction (cannot affect himself). This Script always fails if the supplicant does not have the requisite scores of 3 or more in Medicine and Chirurgy.
 
 #### Ritual of Discovering the Physician's Humor
 **Initiation Ease Factor:** 15<br>
-**Script Bonus:** +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus)
+**Script Bonus:** +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sympathetic Bonus)
 
 The supplicant is grievously wounded (Medium Wound) and is forced to recover in a hospital for the indigent. The supplicant may not tell anyone of his true status and may only receive treatment that is provided to the poor. If the character survives, he spends one season studying under the sponsor. At the end of the season, the character acquires a score of 1 in an Elementalist Form and the Minor Flaw Vow. The character swears to find and train a suitable student in the tradition. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Medicine and Chirurgy.
 
@@ -1489,7 +1508,7 @@ The Elementalist Form that the character acquires is tied to his own bodily humo
 
 #### Ritual of Improving the Physician's Character
 **Initiation Ease Factor:** 21<br>
-**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus, +1 Sacrifice)
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sympathetic Bonus, +1 Sacrifice)
 
 The supplicant must spenda year healing the poor and may not accept any reward or payment. Once the supplicant has finished, he spends one season under the tutelage of his sponsor. At the end of that season, the character acquires the Major Virtue Elemental Medicine and the Major Flaw Study Requirement. This Script always fails if the supplicant does not have scores of 5 or more in Medicine and Chirurgy.
 
@@ -1502,15 +1521,15 @@ Ibn Sina taught his students that a disciplined, righteous, and enlightened scho
 
 The Supplicant must travel to the tomb of Ibn Sina in the Persian city of Hamadan, where he spends a season fasting during daylight hours, meditating, and praying. The character must abstain from sinning for an entire season. At the end of the season, the player makes a Stamina roll against an Ease Factor of 9. The Ease Factor is modified by any Personality Traits that would encourage or discourage righteous behavior. If the roll is not successful, the character may remain for an additional season. Once the character spends a season behaving righteously, he returns to the sponsor for a season of instruction. At the end of that season, the character acquires a score of 1 in Premonitions and the Flaw Visions. This Script always fails if the Supplicant does not have the requisite scores of 5 or more in Medicine, Artes Liberales, Arabic, Philosophiae, and Theology (Islam).
 
->#### Writings of Ibn Sina
+> ### Writings of Ibn Sina
 >
->Ibn Sina was a prolific author and encouraged his students to follow his example of synthesizing previous works and adding his own knowledge to the subjects of Medicine, Artes Liberales, Philosophiae, and Theology (Islam). Ibn Sina's most famous work, Al-Qanun fil-Tibb, is a survey of the entire body of medical learning from the writing of the Ancients to contemporary Muslim sources. Most Western scholars regard the five books of the Canon of Medicine, as it is known in the West, as the authority on the subject.
+> Ibn Sina was a prolific author and encouraged his students to follow his example of synthesizing previous works and adding his own knowledge to the subjects of Medicine, Artes Liberales, Philosophiae, and Theology (Islam). Ibn Sina's most famous work, Al-Qanun fil-Tibb, is a survey of the entire body of medical learning from the writing of the Ancients to contemporary Muslim sources. Most Western scholars regard the five books of the Canon of Medicine, as it is known in the West, as the authority on the subject.
 >
->Al-Qanun fil-Tibb (Canon of Medicine), Summa Level 6, Quality 9, for Medicine and Summa Level 6, Quality 9, for Medicinal Divining. The sections on Divining are useless to anyone who does not possess the Virtue Elemental Medicine.
+> Al-Qanun fil-Tibb (Canon of Medicine), Summa Level 6, Quality 9, for Medicine and Summa Level 6, Quality 9, for Medicinal Divining. The sections on Divining are useless to anyone who does not possess the Virtue Elemental Medicine.
 >
->Ibn Sina also wrote the *Kitab ash-Shifa* (Book of Healing), which is not as well known in the West, but is very influential in the Islamic world.
+> Ibn Sina also wrote the *Kitab ash-Shifa* (Book of Healing), which is not as well known in the West, but is very influential in the Islamic world.
 >
->Kitab ash-Shifa, Summa Level 4, Quality 9, Artes Liberales and Summa Level 5, Quality 9, for each of the four Elementalist Arts (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water). The sections on Elemental Abilities are incomprehensible to anyone who does not possess the Virtues Medicinal Divining, Medicinal Summoning, or Elemental Medicine.
+> Kitab ash-Shifa, Summa Level 4, Quality 9, Artes Liberales and Summa Level 5, Quality 9, for each of the four Elementalist Arts (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water). The sections on Elemental Abilities are incomprehensible to anyone who does not possess the Virtues Medicinal Divining, Medicinal Summoning, or Elemental Medicine.
 
 #### Characters
 
@@ -1542,19 +1561,19 @@ Unlike Hermetic magi, folk witches do not have an equivalent to the Order of Her
 
 The Order of Hermes at large certainly knows that folk witches exist, but the witches are, generally, arrogantly viewed as poor practitioners of peasant magic that is of no particular importance or threat. It is less well known that some folk witches are Gifted, and little is really known about the specifics of folk witch magic.
 
->#### Story Seed: Slaves
+> ### Story Seed: Slaves
 >
->The magi of a covenant dominated by a Tytalus cabal discovered (at least some) folk witches can brew potions to restore Fatigue — a violation of the supposed Limit of Energy for Hermetic magic. Had this been discovered by Bonisagus magi it might have heralded a profitable new direction of research, but the Tytalus magi adopted a more direct approach. They tracked down, attacked, and captured a coven of folk witches, imprisoning them in a dungeon under their fortress-covenant. The magi use Rego Mentem magic to force them to brew potions.
+> The magi of a covenant dominated by a Tytalus cabal discovered (at least some) folk witches can brew potions to restore Fatigue — a violation of the supposed Limit of Energy for Hermetic magic. Had this been discovered by Bonisagus magi it might have heralded a profitable new direction of research, but the Tytalus magi adopted a more direct approach. They tracked down, attacked, and captured a coven of folk witches, imprisoning them in a dungeon under their fortress-covenant. The magi use Rego Mentem magic to force them to brew potions.
 >
->The Tytalus cabal has since won several certamen duels secretly using these potions, and they also enjoy the latitude to fatigue themselves while spellcasting without consequence. The players might become involved if they start to sell Fatigue potions, or if they create exuberant nuisances of themselves. Quaesitors may be sent to investigate, or Tremere certamen masters may suspect the Tytalus have a new strategy. Of course, the player characters could instead be members of the Tytalus cabal.
+> The Tytalus cabal has since won several certamen duels secretly using these potions, and they also enjoy the latitude to fatigue themselves while spellcasting without consequence. The players might become involved if they start to sell Fatigue potions, or if they create exuberant nuisances of themselves. Quaesitors may be sent to investigate, or Tremere certamen masters may suspect the Tytalus have a new strategy. Of course, the player characters could instead be members of the Tytalus cabal.
 
-## Creating a Witch Character
+## Creating a Folk Witch Character
 
 A folk witch can either be generated as either a Gifted or an unGifted character. An unGifted folk witch may be created as either a companion or a grog character. In all cases you must obey the normal rules for assigning Virtues and Flaws to a character. Regardless of whether the folk witch is Gifted or not, you must also assign at least one Flaw that impacts on the folk witch's magical abilities. Finally, all folk witches must take the free Social Status Virtue: Folk Witch.
 
->#### Male Witches
+> ### Male Witches
 >
->Male folk witches are uncommon, and some versions of the folk witch initiations only work on female characters. Some covens are entirely made up of male folk witches, although this is rare.
+> Male folk witches are uncommon, and some versions of the folk witch initiations only work on female characters. Some covens are entirely made up of male folk witches, although this is rare.
 
 Assign the folk witch experience points as for a normal character — except that at some point, usually around age ten, the character is adopted by a folk witch, who initiates her charge into a folk witch coven. This is the folk witch equivalent to the Hermetic apprenticeship, and usually lasts for ten years. To represent the folk witch apprenticeship, you may spend 200 experience points for the character on any Abilities. This is less than a magus receives because a folk witch apprenticeship is shorter and folk witches do not have such a systematic and organized method of training. Following her apprenticeship, a folk witch is assigned the normal number of experience points for a character each year; that is, 15 XP each year, although this may be affected by the Wealthy Virtue or Poor Flaw.
 
@@ -1581,7 +1600,7 @@ Free Social Status Virtue
 
 The character has been trained as a folk witch. She may perform folk witch laboratory activities such as brewing potions, she uses folk witch casting methods with her Supernatural Virtues and gains the associated magical defenses, and she is a member of a coven who attends sabbat meetings. As she is not supported by a covenant, like a magus is, she must spend two seasons each year supporting herself — normally by performing magical services for the local community. This Virtue is compatible with many other Social Status Virtues and Flaws, and with Wealthy and Poor.
 
-#### Flaws Folk Witch Gift Opening
+#### Flawed Folk Witch Gift Opening
 
 Minor Hermetic Flaw
 
@@ -1635,7 +1654,7 @@ Minor Supernatural Virtue
 
 The folk witch does not suffer a Medium Wound during each month of her Witch's Moon (see later).
 
-#### Well-Trainted Folk Witch
+#### Well-Trained Folk Witch
 
 Minor General Virtue
 
@@ -1647,7 +1666,7 @@ Major Supernatural Flaw
 
 The folk witch is incapable of brewing potions (see later).
 
-#### Rarified Tradition
+#### Rarefied Tradition
 
 Major Supernatural Flaw
 
@@ -1699,8 +1718,7 @@ The following existing Hermetic Virtues and Flaws from ArM5 are suitable for Gif
 
 As mentioned previously, Gifted folk witches have access to seven Supernatural Abilities: Animal Ken, Cursing, Dowsing, Flight, Healing, Second Sight, and Shapeshifter. Each of these is represented in the Ars Magica Fifth Edition game by a Supernatural Virtue, but for Gifted folk witches these are favored Abilities (see the Introduction). Un-Gifted folk witches need to have the corresponding Supernatural Virtues, and so may not have all seven Supernatural Abilities. In either case, folk witches use the standard Ability experience advancement table when improving these Abilities (see ArM5, page 31).
 
-Folk witches do not use their Supernatural Abilities in the same manner as many other characters — even if those characters have the same Supernatural Abilities. Folk witches instead use one of three methods to access their powers. These are by brewing potions (which in some cases allows other characters temporary access to the folk witch's Supernatural Abilities), by reciting incantations, or 
-by creating fetish objects that embody the folk witch’s powers (a witch’s broom is a fetish object for the Flight ability, for example)
+Folk witches do not use their Supernatural Abilities in the same manner as many other characters — even if those characters have the same Supernatural Abilities. Folk witches instead use one of three methods to access their powers. These are by brewing potions (which in some cases allows other characters temporary access to the folk witch's Supernatural Abilities), by reciting incantations, or by creating fetish objects that embody the folk witch's powers (a witch's broom is a fetish object for the Flight ability, for example)
 
 Although folk witches do not have a general Magic Resistance, like many hedge traditions, they do have limited Magical Defenses.
 
@@ -1708,7 +1726,7 @@ Although folk witches do not have a general Magic Resistance, like many hedge tr
 
 When a folk witch uses her Supernatural Abilities, a Casting Total is generated and compared to the Ease Factor for the effect, to determine whether or not the effect is successful. A Gifted folk witch can also boost her Casting Score by expending the appropriate Form of vis. Note that unGifted folk witches cannot use vis to boost their Casting Score. Each Ability description specifies which Form is appropriate, and this is also the Form Bonus used by Hermetic magi when resisting that folk witch effect. Each description also specifies which Characteristic is used to generate the Casting Score.
 
-**FOLLK WITCH CASTING SCORE:** Characteristic + Ability + Aura Modifier
+**FOLK WITCH CASTING SCORE:** Characteristic + Ability + Aura Modifier
 
 **MAGNITUDE OF EFFECT:** Ability
 
@@ -1865,11 +1883,11 @@ For some activities there is no Supernatural Ability added to a folk witch's Lab
 
 An unGifted folk witch is capable of performing most laboratory tasks (she may brew potions, make fetishes, etc.), but only if she has the corresponding Virtues.
 
->#### Folk Witch Magic Theory
+> ### Folk Witch Magic Theory
 >
->This Arcane Ability is analogous to the Magic Theory Ability of Hermetic magi. It covers the technical details of folk witch magic and is used in laboratory activities. Any character can be taught this Ability. Specialties: particular laboratory activities.
+> This Arcane Ability is analogous to the Magic Theory Ability of Hermetic magi. It covers the technical details of folk witch magic and is used in laboratory activities. Any character can be taught this Ability. Specialties: particular laboratory activities.
 
-### Building the Kitchen
+#### Building the Kitchen
 
 A folk witch kitchen is similar in concept to a Hermetic laboratory, but it normally occupies a much smaller space (100 square feet). Despite this similarity, a folk witch cannot actually use a magus' laboratory, and vice versa, but they can each recognize the other's workspace as being some sort of magical laboratory.
 
@@ -1889,7 +1907,7 @@ A folk witch cannot normally be assisted in her work by other characters. There 
 
 A folk witch may experiment with any laboratory activity that uses a Lab Total. This works exactly the same as Hermetic experimentation — she receives a bonus to her Lab Total and a roll must be made on the Extraordinary Results table (see ArM5, page 107-109). Many folk witches live in towns or villages with Divine Auras, and so often experiment to try to overcome the negative penalty of the aura to their Lab Totals.
 
-**EXPERIMENTAL BONUS TO LAB TOTAL:**  Simple die + Risk Modifier
+**EXPERIMENTAL BONUS TO LAB TOTAL:** Simple die + Risk Modifier
 
 #### Lab Texts
 
@@ -1925,7 +1943,7 @@ Disease, miscarriage, and aging curses take effect immediately, once the fabric 
 
 Some folk witch traditions do not make curse fabrics, and instead make different objects (bowls, figurines, etc). These have the same effect as curse fabrics.
 
-#### Dowsubg Rod Binding
+#### Dowsing Rod Binding
 
 If she has the Dowsing Ability, a folk witch can enchant a rod in her kitchen, which is the fetish required to use her Dowsing Ability (see above). A dowsing rod is usually a forked stick, but some folk witches use a needle or a pair of scissors. Regardless of its form, enchanting a dowsing rod takes 1 season and consumes 1 pawn of Intellego vis. Once enchanted, a dowsing rod lasts indefinitely but it can be destroyed; it is still just a stick.
 
@@ -2004,13 +2022,13 @@ A folk witch may enrich Things of Virtue, using the rules printed in Realms ofPo
 
 A folk witch can create a Longevity Ritual for herself using the same rules used by a Hermetic magus (see ArM5, page 101). Use her Healing Ability Lab Total for this activity, which means that a folk witch's Longevity Ritual is likely to be considerably less potent than a magus'. Also remember that a folk witch can only generate a Lab Text if she is literate, so she may not be able to easily repeat the ritual when it fails. A folk witch cannot create a Longevity Ritual for another character.
 
->#### Investigating a Potion
+> ### Investigating a Potion
 >
->A folk witch can inspect a potion to determine its effect, which is represented by a Folk Witch Magic Theory Ability roll. This takes her a few minutes, and reveals the Brew Potency and precise effect of the potion.
+> A folk witch can inspect a potion to determine its effect, which is represented by a Folk Witch Magic Theory Ability roll. This takes her a few minutes, and reveals the Brew Potency and precise effect of the potion.
 >
->**POTION INVESTIGATION:** Intelligence + Folk Witch Magic Theory + Stress Die vs Ease Factor of 9
+> **POTION INVESTIGATION:** Intelligence + Folk Witch Magic Theory + Stress Die vs Ease Factor of 9
 >
->To a Hermetic magus, a potion appears to be a magical effect of Magnitude equal to the Brew Potency / 5, and thus can be detected via an appropriate Intellego Vim spell. Note that a standard detection spell will merely note that the potion is "a magical effect," but an additional magnitude of effect will identify the potion as being "non-Hermetic," and a second additional magnitude of effect will reveal the Form of the effect (see ArM5, page 158). To correctly identify the Form of the effect, the magus must be familiar with folk witch magic; a magus with a score in Folk Witch Magic Theory or Organization Lore: Folk Witches, or the Supernatural Ability granted by the potion, is sufficiently familiar. To precisely identify the effect of a potion, a magus may investigate it in his laboratory, and again can only do this if he is familiar with folk witch magic. Treat the potion as a single effect with a level equal to the Brew Potency (see ArM5, page 100).
+> To a Hermetic magus, a potion appears to be a magical effect of Magnitude equal to the Brew Potency / 5, and thus can be detected via an appropriate Intellego Vim spell. Note that a standard detection spell will merely note that the potion is "a magical effect," but an additional magnitude of effect will identify the potion as being "non-Hermetic," and a second additional magnitude of effect will reveal the Form of the effect (see ArM5, page 158). To correctly identify the Form of the effect, the magus must be familiar with folk witch magic; a magus with a score in Folk Witch Magic Theory or Organization Lore: Folk Witches, or the Supernatural Ability granted by the potion, is sufficiently familiar. To precisely identify the effect of a potion, a magus may investigate it in his laboratory, and again can only do this if he is familiar with folk witch magic. Treat the potion as a single effect with a level equal to the Brew Potency (see ArM5, page 100).
 
 ### Familiars
 
@@ -2096,6 +2114,10 @@ Gifted folk witches have their Gift Opened in a special ceremony. The folk witch
 
 If the troupe desires, you may swap some of the standard powers for other Supernatural Abilities. Likely powers that a coven could use include Animal Healing, Entrancement, Enchanting Music, Nightwalking, Premonitions, and Wilderness Sense. You will need to decide what casting methods these Abilities use and devise potions for them and (if you want) initiation scripts to teach the relevant Supernatural Virtues to unGifted characters.
 
+> ### Organization Lore: Folk Witches
+>
+> A character with this Ability (see the Introduction) knows the sorts of effects that folk witches are capable of, where coven members meet and live, and the names and reputations of some folk witches. The specialty for the Organization Lore: Folk Witches Ability must be a particular "home" coven. Whenever a roll is made to determine what the character knows about another coven, it is always a stress die; also, roll an additional botch die for every week's travel this coven is from the character's "home" coven. Specialities: a particular coven.
+
 #### Initiations for unGifted Folk Witches
 
 UnCifted folk witches also initiate in the folk witch powers using the general rules given in the Introduction. Usually, a folk witch undergoes her first initiation during the first year or so of her apprenticeship. The first initiation usually culminates in a formal ceremony performed at a sabbat, when the new witch is introduced to the coven, but it is also possible for a witch to initiate a young girl secretly.
@@ -2108,13 +2130,9 @@ Once a girl has undergone her first initiation, she is considered to be a witch 
 
 If playing a variant folk witch tradition, the troupe may like to create different initiations for the witches' different Supernatural Abilities.
 
->#### Precocious Girls
+> ### Precocious Girls
 >
->It is not unusual for a coven to accidentally initiate a Gifted girl into the folk witch powers as if she was unGifted, particularly if none of the current witches in the coven have The Gift. Eventually this mistake may be noticed if the Gifted girl begins to learn the Supernatural Abilities of her mistress (via exposure) without completing the appropriate initiation rituals. At this point the coven has two choices: either a Gifted folk witch can be found to Open the girl's Gift properly (although this will be more difficult as the girl has already learned some Supernatural Abilities); alternatively, the girl can be taught Supernatural Abilities by the unGifted witches (which will also be difficult — as her Gift is not Opened she has no favored Abilities).
-
->#### Organization Lore: Folk Witches
->
->A character with this Ability (see the Introduction) knows the sorts of effects that folk witches are capable of, where coven members meet and live, and the names and reputations of some folk witches. The specialty for the Organization Lore: Folk Witches Ability must be a particular "home" coven. Whenever a roll is made to determine what the character knows about another coven, it is always a stress die; also, roll an additional botch die for every week's travel this coven is from the character's "home" coven. Specialities: a particular coven.
+> It is not unusual for a coven to accidentally initiate a Gifted girl into the folk witch powers as if she was unGifted, particularly if none of the current witches in the coven have The Gift. Eventually this mistake may be noticed if the Gifted girl begins to learn the Supernatural Abilities of her mistress (via exposure) without completing the appropriate initiation rituals. At this point the coven has two choices: either a Gifted folk witch can be found to Open the girl's Gift properly (although this will be more difficult as the girl has already learned some Supernatural Abilities); alternatively, the girl can be taught Supernatural Abilities by the unGifted witches (which will also be difficult — as her Gift is not Opened she has no favored Abilities).
 
 **RHYME OF THE BEAST** <br>
 **Initiation Ease Factor:** 15<br>
@@ -2170,7 +2188,7 @@ The usual dates for sabbat are listed in the insert. These dates are typically t
 
 Throughout Mythic Europe Christian festivals are also held on, or about, these dates, so many covens hold their sabbat amid the Christian festivities, as the festivals are good excuses to travel to neighboring villages. Indeed, in some parts of Mythic Europe folk witches are so well integrated with their community that it is common knowledge that, for example, on St. Walpurgis' Night the local witches meet.
 
-#### Sannat Politics
+#### Sabbat Politics
 
 As covens are each very different, there are no standard procedures for a sabbat, but your troupe might like to consider one of the following options, or a combination of them.
 
@@ -2184,7 +2202,7 @@ Of course, the coven might also change over the course of a saga.
 
 **Feuding:** Most of the coven's members don't attend the sabbat, and those who do trade insults or even attack one another. This option may be difficult to run well if several player characters are witches in the coven; on the other hand, such a coven could also generate rewarding stories.
 
-#### Sannat Magic
+#### Sabbat Magic
 
 Although the sabbat is a social event, it is also an auspicious time for folk witch magic, and the folk witches may cooperate to brew potions, to Open The Gift, or to perform initiations.
 
@@ -2208,22 +2226,22 @@ Sabbat initiations work similarly. An initiate is brought along and the other fo
 
 On each sabbat date there is only a limited window of opportunity during which these helpful incantations may be cast. Thus on each sabbat, each witch may only be involved in one activity, whether as a main caster or an assistant, or as a Mystagogue or an initiate. Also, each activity can only benefit from a single sabbat; for example, there is no point bringing the same potion brew along to several sabbat meetings.
 
->#### Sabbat Times
+> ### Sabbat Times
 >
->**WINTER SOLSTICE**
+> **WINTER SOLSTICE**
 >
->**Imbolg/Brigid/Candlemas:** 1 February <br>
->**Eostre:** Spring Equinox<br>
->**Beltane/May Day/Walpurgis' Night:** 30 April/1 May
+> **Imbolg/Brigid/Candlemas:** 1 February <br>
+> **Eostre:** Spring Equinox<br>
+> **Beltane/May Day/Walpurgis' Night:** 30 April/1 May
 >
->**SUMMER SOLSTICE**<br>
->**Lammas/Lugnasad:** 2 August <br>
->**Mabon:** Autumn Equinox <br>
->**Samhain/All Hallow's Eve:** 31 October/1 November
+> **SUMMER SOLSTICE**<br>
+> **Lammas/Lugnasad:** 2 August <br>
+> **Mabon:** Autumn Equinox <br>
+> **Samhain/All Hallow's Eve:** 31 October/1 November
 
->#### Story Seed: The Grand Sabbat
+> ### Story Seed: The Grand Sabbat
 >
->Some magi claim to know of a grand sabbat held every 101 years, attended by folk witches from all over Mythic Europe. But given the disorganized nature of folk witches, such an event is likely to only occur in their imagination. However, in the Stonehenge Tribunal, a small number of folk witch covens do meet every All Hallow's Eve for a festival they do indeed call a grand sabbat. In the Rhine, another group of covens meets together for a grand sabbat held on Walpurgis' Night at the Witches' Altar on Brocken Mountain (see *Guardians of the Forests*, page 80). Magi who stumble upon these events might be concerned at such organized activity, and even speculate that these "shadow Tribunals" are evidence of Schism War refugees, or their descendants, masquerading as folk witches.
+> Some magi claim to know of a grand sabbat held every 101 years, attended by folk witches from all over Mythic Europe. But given the disorganized nature of folk witches, such an event is likely to only occur in their imagination. However, in the Stonehenge Tribunal, a small number of folk witch covens do meet every All Hallow's Eve for a festival they do indeed call a grand sabbat. In the Rhine, another group of covens meets together for a grand sabbat held on Walpurgis' Night at the Witches' Altar on Brocken Mountain (see *Guardians of the Forests*, page 80). Magi who stumble upon these events might be concerned at such organized activity, and even speculate that these "shadow Tribunals" are evidence of Schism War refugees, or their descendants, masquerading as folk witches.
 
 ### Creating a Coven
 
@@ -2249,12 +2267,12 @@ A coven is unlikely to have a turb, although some individual folk witches may ha
 
 The total number of Build Points available for a coven depends on the power level of the coven. Note that a coven of Medium power or greater is likely to be noticed by neighboring covenants as they compete for vis resources. Thus, only low-power covens may be able to proceed entirely unnoticed.
 
-| Power Level | <b>BUILD POINTS |
-|-------------|---------------------|
-| Low         | 0 - 149             |
-| Medium      | 150 - 299           |
-| High        | 300 - 599           |
-| Legendary   | 600+                |
+| Power Level | Build Points |
+|-------------|--------------|
+| Low         | 0 - 149      |
+| Medium      | 150 - 299    |
+| High        | 300 - 599    |
+| Legendary   | 600+         |
 
 #### The Witches of Reims
 
@@ -2264,273 +2282,273 @@ The coven of Reims is based in and around the French town of Reims (see *The Lio
 
 The coven was not entirely destroyed, however, and mistress Greta escaped the stake by flying out of the window of the archepiscopal court.
 
-**Initiation Scripts**: Rhyme of the Beast (+6), Unbound by Land (+6), Hands of Life (+10), The Devil's Eye (+7).
+**Initiation Scripts:** Rhyme of the Beast (+6), Unbound by Land (+6), Hands of Life (+10), The Devil's Eye (+7).
 
-**Forest Cave:** Mistress Greta (a Gifted folk witch) fled from the stake to this remote forest cave (Magic aura 6), where she has since lived, usually alone. The cave is in fact inside a regio, that can only be entered by someone who knows the correct path (the other coven members know the correct path). Mistress Greta only occasionally attends the coven's sabbat. **Hooks**: none. **Boons**: regio (major), aura (x 3) (minor). **Vis Sources**: 5 pawns Herbam per year (mushrooms from a forest grove), 1 pawn Auram per year (from the first wind of autumn), 1 pawn Animal per year (from first rabbit of spring). **Library**: Ars Grammatica, by Donatus (a very poor copy; Artes Liberales Ability Summa; Quality 5, Level 4), Scent of Water, anonymous (Dowsing Ability Summa; Quality 10, Level 5), The Piercing Tongue, by Luzabel (Penetration Ability Summa; Quality 10, Level 3).
+**Forest Cave:** Mistress Greta (a Gifted folk witch) fled from the stake to this remote forest cave (Magic aura 6), where she has since lived, usually alone. The cave is in fact inside a regio, that can only be entered by someone who knows the correct path (the other coven members know the correct path). Mistress Greta only occasionally attends the coven's sabbat. **Hooks:** none. **Boons:** regio (major), aura (x 3) (minor). **Vis Sources:** 5 pawns Herbam per year (mushrooms from a forest grove), 1 pawn Auram per year (from the first wind of autumn), 1 pawn Animal per year (from first rabbit of spring). **Library:** Ars Grammatica, by Donatus (a very poor copy; Artes Liberales Ability Summa; Quality 5, Level 4), Scent of Water, anonymous (Dowsing Ability Summa; Quality 10, Level 5), The Piercing Tongue, by Luzabel (Penetration Ability Summa; Quality 10, Level 3).
 
-**Townhouse:** This ramshackle townhouse is built inside the poor quarter of the town of Reims (Divine aura of 3), and it is haunted by the ghosts of the witches who were burned over twenty years ago. Eliza, an old unGifted folk witch, now lives in the townhouse and she is often called upon to help heal the poor of Reims. In return, Eliza is well looked after by the townsmen, who have kept her existence hidden from the episcopal authorities. **Hooks**: missing aura (major), urban (major), haunted (minor). **Boons**: loyal covenfolk (minor). **Vis Sources**: 3 pawns Corpus per year (from paupers' graveyard), 2 pawns Animal per year (from city tanneries).
+**Townhouse:** This ramshackle townhouse is built inside the poor quarter of the town of Reims (Divine aura of 3), and it is haunted by the ghosts of the witches who were burned over twenty years ago. Eliza, an old unGifted folk witch, now lives in the townhouse and she is often called upon to help heal the poor of Reims. In return, Eliza is well looked after by the townsmen, who have kept her existence hidden from the episcopal authorities. **Hooks:** missing aura (major), urban (major), haunted (minor). **Boons:** loyal covenfolk (minor). **Vis Sources:** 3 pawns Corpus per year (from paupers' graveyard), 2 pawns Animal per year (from city tanneries).
 
-**Vineyard:** Near Reims, on the banks of the river Marne is a vineyard (Magic aura 1) where the young Gifted folk witch Matilda lives. She is a daughter of a family of vintagers (grape harvesters) and finished training two years ago with mistress Greta in the forest cave. The workers at the vineyard know about Matilda's Gift, but much of their suspiciousness was allayed when she healed a child who had been crushed by a cart. The absentee owners of the vineyard (a small monastery) do not know about Matilda. **Hooks**: monastery (minor) **Boons**: aura (minor). **Vis Sources**: 2 pawns Mentem per year (from wine).
+**Vineyard:** Near Reims, on the banks of the river Marne is a vineyard (Magic aura 1) where the young Gifted folk witch Matilda lives. She is a daughter of a family of vintagers (grape harvesters) and finished training two years ago with mistress Greta in the forest cave. The workers at the vineyard know about Matilda's Gift, but much of their suspiciousness was allayed when she healed a child who had been crushed by a cart. The absentee owners of the vineyard (a small monastery) do not know about Matilda. **Hooks:** monastery (minor) **Boons:** aura (minor). **Vis Sources:** 2 pawns Mentem per year (from wine).
 
->#### Matilda
+> ### Matilda
 >
->Characteristics: Int +3, Per +1, Pre +2 Com 0, Str –1, Sta 0, Dex +1, Qik 0
+> Characteristics: Int +3, Per +1, Pre +2 Com 0, Str –1, Sta 0, Dex +1, Qik 0
 >
->Size: 0 
+> Size: 0
 >
->Age: 22 (22) 
+> Age: 22 (22)
 >
->Decrepitude: 0
+> Decrepitude: 0
 >
->Warping Score: 0 (3) 
+> Warping Score: 0 (3)
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Gift; Folk Witch; Cyclic Magic (positive) (spring and summer), Improved Characteristics, Quiet Magic; Dependent, Short-Ranged Curses.
+> Virtues and Flaws: The Gift; Folk Witch; Cyclic Magic (positive) (spring and summer), Improved Characteristics, Quiet Magic; Dependent, Short-Ranged Curses.
 >
->Personality Traits: Loyal +2, Friendly +1
+> Personality Traits: Loyal +2, Friendly +1
 >
->Reputations: Weird healer woman at vineyard 2 (local)
+> Reputations: Weird healer woman at vineyard 2 (local)
 >
->Combat:
+> Combat:
 >
->Dodge: Init 0, Attack n/a, Defense +2, Damage n/a
+> Dodge: Init 0, Attack n/a, Defense +2, Damage n/a
 >
->Knife: Init 0, Attack +3, Defense +1, Damage +1
+> Knife: Init 0, Attack +3, Defense +1, Damage +1
 >
->Soak: 0
+> Soak: 0
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Area Lore: Reims 2 (river), Artes Liberales 1 (grammer), Animal Handling 2 (dogs), Animal Ken 2 (dogs), Athletics 1 (running), Awareness 2 (child), Brawl 1 (dodge), Concentration 1 (flight), Cursing 2 (tongue), Craft: vintner 2 (sorting), Craft: weaving 1 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (river-side), Flight 1 (indoors), Folk Witch Magic Theory 2 (potion brewing), Healing 5 (children), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 1 (personalities), Penetration 2 (Dowsing), Second Sight 2 (faeries), Shapeshifter 1 (dog), Survival 2 (forest).
+> Abilities: Area Lore: Reims 2 (river), Artes Liberales 1 (grammer), Animal Handling 2 (dogs), Animal Ken 2 (dogs), Athletics 1 (running), Awareness 2 (child), Brawl 1 (dodge), Concentration 1 (flight), Cursing 2 (tongue), Craft: vintner 2 (sorting), Craft: weaving 1 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (river-side), Flight 1 (indoors), Folk Witch Magic Theory 2 (potion brewing), Healing 5 (children), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 1 (personalities), Penetration 2 (Dowsing), Second Sight 2 (faeries), Shapeshifter 1 (dog), Survival 2 (forest).
 >
->Witch Moon Scars: None.
+> Witch Moon Scars: None.
 >
->Equipment: bandages, knife, dog, child, wooden toys.
+> Equipment: bandages, knife, dog, child, wooden toys.
 >
->Appearance: Matilda is an attractive woman who lives at the vineyard where her extended family works. Due to her Gift, she is somewhat shunned by the other peasants (although they are not unpleasant to her), and she sleeps in a loft above the dog kennels with her husband and baby son. Her husband is a laborer at the vineyard and he spends as little time as possible with Matilda, whom he fears. The loft is actually quite spacious, and Matilda has built her kitchen in it. Matilda earns her keep by helping to look after the dogs, and she also helps to sort grapes during the harvest. Most of the peasants who work the surrounding lands know that she is a healer, and even the reeve sometimes turns to her for assistance. The monks who own the vineyard seldom visit, although they do live nearby, and do not know of Matilda's powers. With her Shapeshifter Ability she can turn into a dog.
+> Appearance: Matilda is an attractive woman who lives at the vineyard where her extended family works. Due to her Gift, she is somewhat shunned by the other peasants (although they are not unpleasant to her), and she sleeps in a loft above the dog kennels with her husband and baby son. Her husband is a laborer at the vineyard and he spends as little time as possible with Matilda, whom he fears. The loft is actually quite spacious, and Matilda has built her kitchen in it. Matilda earns her keep by helping to look after the dogs, and she also helps to sort grapes during the harvest. Most of the peasants who work the surrounding lands know that she is a healer, and even the reeve sometimes turns to her for assistance. The monks who own the vineyard seldom visit, although they do live nearby, and do not know of Matilda's powers. With her Shapeshifter Ability she can turn into a dog.
 
->#### Eliza
+> ### Eliza
 >
->Characteristics: Int +1, Per +2 (1), Pre +2 (1), Com -1, Str +1, Sta -1, Dex 0, Qik -2 (1)
+> Characteristics: Int +1, Per +2 (1), Pre +2 (1), Com -1, Str +1, Sta -1, Dex 0, Qik -2 (1)
 >
->Size: 0 
+> Size: 0
 >
->Age: 45 (45) 
+> Age: 45 (45)
 >
->Decrepitude: 1 (3) 
+> Decrepitude: 1 (3)
 >
->Warping Score: 1 (8) 
+> Warping Score: 1 (8)
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: Folk Witch; Healing; Animal Ken, Flight, Painless Witch Moon, Second Sight, Sharp Ears, Social Contacts (poor townsfolk); Enfeebled; Animal Companion, Arthritis, Incomprehensible, Missing Eye, Noncombatant.
+> Virtues and Flaws: Folk Witch; Healing; Animal Ken, Flight, Painless Witch Moon, Second Sight, Sharp Ears, Social Contacts (poor townsfolk); Enfeebled; Animal Companion, Arthritis, Incomprehensible, Missing Eye, Noncombatant.
 >
->Personality Traits: Kindly +3, Mothering +2, Gossip +1
+> Personality Traits: Kindly +3, Mothering +2, Gossip +1
 >
->Reputations: Healer who lives near tannery 4 (local)
+> Reputations: Healer who lives near tannery 4 (local)
 >
->Combat:
+> Combat:
 >
->Dodge: Init −2, Attack n/a, Defense −2, Damage n/a
+> Dodge: Init −2, Attack n/a, Defense −2, Damage n/a
 >
->Soak: -1
+> Soak: -1
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Area Lore: Reims 5 (town), Animal Handling 3 (chickens), Animal Ken 4 (rooster), Athletics 1 (flying), Awareness 3 (visitors), Bargain 1 (barley), Carouse 2 (quantities of beer), Charm 1 (elderly men), Concentration 3 (flight), Craft: brewing 3 (large volumes), Dead Language: Latin 2 (magic terms), Flight 3 (low), Folk Ken 3 (townsfolk), Guile 2 (clergy), Folk Witch Magic Theory 5 (potion brewing), Healing 6 (disease), Intrigue 2 (town), Leadership 2 (townsfolk), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (personalities), Penetration 1 (Healing), Second Sight 4 (ghosts), Stealth 2 (town), Teaching 1 (folk witches).
+> Abilities: Area Lore: Reims 5 (town), Animal Handling 3 (chickens), Animal Ken 4 (rooster), Athletics 1 (flying), Awareness 3 (visitors), Bargain 1 (barley), Carouse 2 (quantities of beer), Charm 1 (elderly men), Concentration 3 (flight), Craft: brewing 3 (large volumes), Dead Language: Latin 2 (magic terms), Flight 3 (low), Folk Ken 3 (townsfolk), Guile 2 (clergy), Folk Witch Magic Theory 5 (potion brewing), Healing 6 (disease), Intrigue 2 (town), Leadership 2 (townsfolk), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (personalities), Penetration 1 (Healing), Second Sight 4 (ghosts), Stealth 2 (town), Teaching 1 (folk witches).
 >
->Witch Moon Scars: 1. Gains Painless Witch Moon (Minor Virtue).
+> Witch Moon Scars: 1. Gains Painless Witch Moon (Minor Virtue).
 >
->Equipment: pots and pans, brewing apparatus.
+> Equipment: pots and pans, brewing apparatus.
 >
->Appearance: Eliza lives in a large ramshackle townhouse in the center of the poor quarter of the town of Reims. She is an old, portly woman, who has difficulty moving about her house. She is always willing to give advice to those who visit her, and indeed she has many visitors as she usually has a large cauldron of ale brewing in the kitchen. Eliza also often has several poor families, who have no other place to go, sheltering in one of the rooms of the house. Eliza is consequently well liked by the townsfolk, who also come to her for special brews when a family member is suffering from some disease or another, and she has many contacts and friends among the townsfolk. The townhouse is actually haunted by the ghosts of a number of folk witches who were burned at the stake, at the archbishop's court, about twenty years ago. The ghosts often bicker with each other (they blame one another for the outcome of their disastrous trial), but they usually keep out of the way of Eliza's visitors. A large, black-feathered rooster (who rules a harem of hens that Eliza keeps in one room of the townhouse) often accompanies Eliza, and some speculate (inaccurately) that the rooster is the source of her powers. The rooster is her familiar; it is otherwise a mundane animal.
+> Appearance: Eliza lives in a large ramshackle townhouse in the center of the poor quarter of the town of Reims. She is an old, portly woman, who has difficulty moving about her house. She is always willing to give advice to those who visit her, and indeed she has many visitors as she usually has a large cauldron of ale brewing in the kitchen. Eliza also often has several poor families, who have no other place to go, sheltering in one of the rooms of the house. Eliza is consequently well liked by the townsfolk, who also come to her for special brews when a family member is suffering from some disease or another, and she has many contacts and friends among the townsfolk. The townhouse is actually haunted by the ghosts of a number of folk witches who were burned at the stake, at the archbishop's court, about twenty years ago. The ghosts often bicker with each other (they blame one another for the outcome of their disastrous trial), but they usually keep out of the way of Eliza's visitors. A large, black-feathered rooster (who rules a harem of hens that Eliza keeps in one room of the townhouse) often accompanies Eliza, and some speculate (inaccurately) that the rooster is the source of her powers. The rooster is her familiar; it is otherwise a mundane animal.
 
->#### Mistress Greta
+> ### Mistress Greta
 >
->Characteristics: Int +2, Per 0, Pre 0, Com 0, Str –1, Sta –2 (2), Dex +1, Qik –3 (3)
+> Characteristics: Int +2, Per 0, Pre 0, Com 0, Str –1, Sta –2 (2), Dex +1, Qik –3 (3)
 >
->Size: 0
+> Size: 0
 >
->Age: 76 (50) (Longevity Ritual provides +4 bonus; she has a Lab Text for it)
+> Age: 76 (50) (Longevity Ritual provides +4 bonus; she has a Lab Text for it)
 >
->Decrepitude: 2 (5) 
+> Decrepitude: 2 (5)
 >
->Warping Score: 3 (7) 
+> Warping Score: 3 (7)
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Gift; Folk Witch; Life Linked Folk Witch Magic, Affinity with Ability (Dowsing), Animal Healer, Clear Thinker, Expert Potion Brewer, Inventive Genius; Blatant Gift, Poor, Arthritis, Reclusive.
+> Virtues and Flaws: The Gift; Folk Witch; Life Linked Folk Witch Magic, Affinity with Ability (Dowsing), Animal Healer, Clear Thinker, Expert Potion Brewer, Inventive Genius; Blatant Gift, Poor, Arthritis, Reclusive.
 >
->Personality Traits: Arrogant +3, Reclusive +2
+> Personality Traits: Arrogant +3, Reclusive +2
 >
->Reputations: Folk witch who escaped the stake 4 (local)
+> Reputations: Folk witch who escaped the stake 4 (local)
 >
->Combat:
+> Combat:
 >
->Kick: Init –4, Attack +3, Defense –2, Damage +2
+> Kick: Init –4, Attack +3, Defense –2, Damage +2
 >
->Dodge: Init −3, Attack n/a, Defense −2, Damage n/a
+> Dodge: Init −3, Attack n/a, Defense −2, Damage n/a
 >
->Soak: -2
+> Soak: -2
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Area Lore: Reims 3 (forest), Artes Liberales 4 (grammer), Animal Handling 3 (oxen), Animal Ken 4 (birds), Athletics 2 (flying), Awareness 3 (forest), Brawl 1 (kick), Civil and Canon Law 1 (heresy), Concentration 2 (flight), Cursing 4 (disease), Craft: weaving 3 (wool), Dead Language: Latin 5 (magic terms), Dowsing 8 (in forest), Flight 2 (at night), Folk Witch Magic Theory 5 (vis extraction), Healing 4 (child-birth injuries), Leadership 1 (apprentices), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (initiations), Penetration 3 (cursing), Premonitions 1 (visitors), Second Sight 5 (ghosts), Shapeshifter 2 (cat), Survival 4 (forest), Teaching 1 (apprentices)
+> Abilities: Area Lore: Reims 3 (forest), Artes Liberales 4 (grammer), Animal Handling 3 (oxen), Animal Ken 4 (birds), Athletics 2 (flying), Awareness 3 (forest), Brawl 1 (kick), Civil and Canon Law 1 (heresy), Concentration 2 (flight), Cursing 4 (disease), Craft: weaving 3 (wool), Dead Language: Latin 5 (magic terms), Dowsing 8 (in forest), Flight 2 (at night), Folk Witch Magic Theory 5 (vis extraction), Healing 4 (child-birth injuries), Leadership 1 (apprentices), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (initiations), Penetration 3 (cursing), Premonitions 1 (visitors), Second Sight 5 (ghosts), Shapeshifter 2 (cat), Survival 4 (forest), Teaching 1 (apprentices)
 >
->Witch Moon Scars: 1. Gains Premonitions (Minor Virtue) 2. Gains Animal Healer (Minor Virtue) 3. Inflicted with Arthritis (Minor Flaw).
+> Witch Moon Scars: 1. Gains Premonitions (Minor Virtue) 2. Gains Animal Healer (Minor Virtue) 3. Inflicted with Arthritis (Minor Flaw).
 >
->Equipment: staff, herbs, tea pot.
+> Equipment: staff, herbs, tea pot.
 >
->Appearance: Mistress Greta is a wizened and bent woman, with thick grey hair that flows untamed to her waist. She dresses in simple peasant clothes, and can often be found squatting at the cave-mouth of her home, where she brews a pungent tea made from wild herbs. She also spends a lot of time foraging in the forest for the nuts and roots on which she subsists. With her Shapeshifter Ability, she can turn into a cat or a black bird.
+> Appearance: Mistress Greta is a wizened and bent woman, with thick grey hair that flows untamed to her waist. She dresses in simple peasant clothes, and can often be found squatting at the cave-mouth of her home, where she brews a pungent tea made from wild herbs. She also spends a lot of time foraging in the forest for the nuts and roots on which she subsists. With her Shapeshifter Ability, she can turn into a cat or a black bird.
 
-#### THE KILKENNY COVEN
+#### The Kilkenny Coven
 (106 build points)
 
 This coven of witches is fractured. There are two Gifted witches in the coven, one of whom lives in the Irish town of Kilkenny, while the other lives close to the town. Both witches (who are cousins, taught by their now-dead Gifted grandmother) are the wives of rival wealthy merchants, and the witches are likewise bitter rivals. In fact, the rivalry of the witches dates from their childhood and has directly led to the merchants' feud. The feud originated in a dispute over a vis source, which the two witches discovered together in a bog, but it has now escalated well beyond that. The witches have each initiated a number of unGifted servants as folk witches, and hold competing sabbats. Although the unGifted servants fear their Gifted mistresses, and are grateful for the power that they have shared, they do secretly communicate with each other across the lines of the feud. If your saga follows history, this coven and its feud survives until the early 14th century when a bishop adjudicating a property dispute between the rival families stumbles upon the coven, mistakes them for infernalists, and executes several coven members.
 
 **Scripts:** Unbound by land (+6), The Devil's Eye (+7), Second Life (+13).
 
-**Janine's House:** Janine is the older of the two rival cousins. Her townhouse has a large secret basement of which half is used as an auxiliary warehouse by her husband, for particularly valuable goods. The other half is used by Janine as a kitchen. The basement has a Magic aura of 4, and a small spring rises in the center of the kitchen. The spring water is vis, but the amount of vis has declined over the last few years. **Hooks**: urban (major), dwindling resource (minor). **Boons**: aura (x4) (minor). **Vis Sources**: 5 pawns Aquam per year (from spring), 1 pawn Corpus per year (from town graveyard), 1 pawn Mentem per year (from merchant's account books).
+**Janine's House:** Janine is the older of the two rival cousins. Her townhouse has a large secret basement of which half is used as an auxiliary warehouse by her husband, for particularly valuable goods. The other half is used by Janine as a kitchen. The basement has a Magic aura of 4, and a small spring rises in the center of the kitchen. The spring water is vis, but the amount of vis has declined over the last few years. **Hooks:** urban (major), dwindling resource (minor). **Boons:** aura (x4) (minor). **Vis Sources:** 5 pawns Aquam per year (from spring), 1 pawn Corpus per year (from town graveyard), 1 pawn Mentem per year (from merchant's account books).
 
-**Anne's House:** Anne has a manor a few miles out of town — her husband is the wealthier of the two merchants. Her laboratory is constructed in an outbuilding of the manor house, which has a Magic aura of 2. Unbeknownst to Anne, Janine has planted several spies on her staff. At the edge of the manor lands is a boggy ground out of which rises a number of large rocks. The large rocks pin a dving giant to the earth — which is damp as it is saturated with his blood. **Hooks**: monster (dying giant) (minor), spies (minor) **Boons**: aura (x2) (minor), manor house (free). **Vis Sources**: 5 pawns Corpus per year (from giant's blood), 1 pawn Auram per year (a warm breeze rising from a cave near the manor house).
+**Anne's House:** Anne has a manor a few miles out of town — her husband is the wealthier of the two merchants. Her laboratory is constructed in an outbuilding of the manor house, which has a Magic aura of 2. Unbeknownst to Anne, Janine has planted several spies on her staff. At the edge of the manor lands is a boggy ground out of which rises a number of large rocks. The large rocks pin a dving giant to the earth — which is damp as it is saturated with his blood. **Hooks:** monster (dying giant) (minor), spies (minor) **Boons:** aura (x2) (minor), manor house (free). **Vis Sources:** 5 pawns Corpus per year (from giant's blood), 1 pawn Auram per year (a warm breeze rising from a cave near the manor house).
 
-**Farmhouse:** Several days distant from Kilkenny, this is the farm on which Janine's and Anne's grandmother taught them the folk witch craft. The farm buildings are built in a dell with a Faerie aura of 4. The family of an aunt now works on the farm, and Janine's sister, Agnes, who is an unGifted folk witch, also lives there. Agnes has tried to remain neutral in the feud, and sends vis from the farm to both of the town factions of the coven. **Hooks**: Faerie aura (minor). **Boons**: aura (minor), peasants (free). **Vis Sources**: 2 pawns Animal per year (from last lamb of the year), 2 pawns Herbam per year (from crops harvested at midnight, Autumn equinox).
+**Farmhouse:** Several days distant from Kilkenny, this is the farm on which Janine's and Anne's grandmother taught them the folk witch craft. The farm buildings are built in a dell with a Faerie aura of 4. The family of an aunt now works on the farm, and Janine's sister, Agnes, who is an unGifted folk witch, also lives there. Agnes has tried to remain neutral in the feud, and sends vis from the farm to both of the town factions of the coven. **Hooks:** Faerie aura (minor). **Boons:** aura (minor), peasants (free). **Vis Sources:** 2 pawns Animal per year (from last lamb of the year), 2 pawns Herbam per year (from crops harvested at midnight, Autumn equinox).
 
->#### Janine Kyteler
+> ### Janine Kyteler
 >
->Characteristics: Int +2, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik 0
+> Characteristics: Int +2, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik 0
 >
->Age: 32 (32)
+> Age: 32 (32)
 >
->Decrepitude: 0 (0)
+> Decrepitude: 0 (0)
 >
->Warping Score: 1 (9)
+> Warping Score: 1 (9)
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Gift, Folk Witch, Wealthy, Piercing Gaze, Reserves of Strength, Temporal Influence, Feud, Obese, Unstable Magic.
+> Virtues and Flaws: The Gift, Folk Witch, Wealthy, Piercing Gaze, Reserves of Strength, Temporal Influence, Feud, Obese, Unstable Magic.
 >
->Personality Traits: Angry +3, Obsessed +1
+> Personality Traits: Angry +3, Obsessed +1
 >
->Reputations: Strange, intimidating wife of merchant 4 (local)
+> Reputations: Strange, intimidating wife of merchant 4 (local)
 >
->Combat:
+> Combat:
 >
->Dagger: Init: 0, Attack +5, Defense +2, Damage +4
+> Dagger: Init: 0, Attack +5, Defense +2, Damage +4
 >
->Dodge: Init 0, Attack n/a, Defense +1, Damage n/a
+> Dodge: Init 0, Attack n/a, Defense +1, Damage n/a
 >
->Soak: +1
+> Soak: +1
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Area Lore: Kilkenny 3 (merchants), Artes Liberales 1 (astronomy), Animal Handling 1 (pigs), Animal Ken 2 (pigs), Athletics 1 (flying), Awareness 1 (faulty goods), Bargain (merchants), Brawl 1 (dagger), Concentration 2 (flight), Cursing 4 (beast), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 5 (bog), Flight 2 (rural), Folk Witch Magic Theory 3 (curse fabric), Healing 3 (disease), Intrigue 2 (merchants), Leadership 3 (intimidation), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (initiations), Penetration 2 (cursing), Profession: merchant 1 (assessing penalty fines), Second Sight 1 (faeries), Shapeshifter 2 (pig), Teaching 1 (apprentices).
+> Abilities: Area Lore: Kilkenny 3 (merchants), Artes Liberales 1 (astronomy), Animal Handling 1 (pigs), Animal Ken 2 (pigs), Athletics 1 (flying), Awareness 1 (faulty goods), Bargain (merchants), Brawl 1 (dagger), Concentration 2 (flight), Cursing 4 (beast), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 5 (bog), Flight 2 (rural), Folk Witch Magic Theory 3 (curse fabric), Healing 3 (disease), Intrigue 2 (merchants), Leadership 3 (intimidation), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (initiations), Penetration 2 (cursing), Profession: merchant 1 (assessing penalty fines), Second Sight 1 (faeries), Shapeshifter 2 (pig), Teaching 1 (apprentices).
 >
->Witch Moon Scars: 1. Gains Reserves of Strength (Minor Virtue).
+> Witch Moon Scars: 1. Gains Reserves of Strength (Minor Virtue).
 >
->Equipment: Town clothes, dagger.
+> Equipment: Town clothes, dagger.
 >
->Appearance: Janine is a heavy, red-faced woman, with narrow piercing eyes. She helps her husband run his mercantile business, principally by chasing down debtors — all of the Kilkenny merchants fear a visit from Janine and her maid. She can shapeshift into a pig and a seagull. Her familiar is a pig who lives in a sty attached to the townhouse.
+> Appearance: Janine is a heavy, red-faced woman, with narrow piercing eyes. She helps her husband run his mercantile business, principally by chasing down debtors — all of the Kilkenny merchants fear a visit from Janine and her maid. She can shapeshift into a pig and a seagull. Her familiar is a pig who lives in a sty attached to the townhouse.
 
->#### Anne Kors
+> ### Anne Kors
 >
->Characteristics: Int +1, Per +1, Pre +2, Com 0, Str -1, Sta +1, Dex +1, Qik +1
+> Characteristics: Int +1, Per +1, Pre +2, Com 0, Str -1, Sta +1, Dex +1, Qik +1
 >
->Size: 0 
+> Size: 0
 >
->Age: 30 (30) 
+> Age: 30 (30)
 >
->Decrepitude: 0 (0) 
+> Decrepitude: 0 (0)
 >
->Warping Score: 1 (8) 
+> Warping Score: 1 (8)
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Gift, Folk Witch, Wealthy, Affinity with Cursing, Expert Potion Brewer, Luck, Venus' Blessing, Rigid Magic, Feud, Judged Unfairly.
+> Virtues and Flaws: The Gift, Folk Witch, Wealthy, Affinity with Cursing, Expert Potion Brewer, Luck, Venus' Blessing, Rigid Magic, Feud, Judged Unfairly.
 >
->Personality Traits: Temperamental +3, Obsessed +1
+> Personality Traits: Temperamental +3, Obsessed +1
 >
->Reputations: Depraved wife of merchant 2 (local)
+> Reputations: Depraved wife of merchant 2 (local)
 >
->Combat:
+> Combat:
 >
->Fist: Init +1, Attack +4, Defense +4, Damage -1
+> Fist: Init +1, Attack +4, Defense +4, Damage -1
 >
->Dagger: Init +1, Attack +5, Defense +3, Damage +2
+> Dagger: Init +1, Attack +5, Defense +3, Damage +2
 >
->Dodge: Init +1, Attack n/a, Defense +3, Damage n/a
+> Dodge: Init +1, Attack n/a, Defense +3, Damage n/a
 >
->Soak: 0
+> Soak: 0
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Area Lore: Kilkenny 3 (countryside), Artes Liberales 1 (logic), Animal Handling 1 (horse), Animal Ken 2 (horse), Athletics 1 (flying), Awareness 2 (rural), Brawl 2 (fist), Concentration 1 (flight), Cursing 6 (tongue), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (bog), Etiquette 1 (hostess), Flight 2 (rural), Folk Witch Magic Theory 3 (potion brewing), Guile 2 (husband), Healing 3 (stab wounds) (5), Leadership 2 (staff), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (vis sources), Penetration 2 (cursing), Second Sight 2 (faeries), Shapeshifter 1 (horse), Teaching 1 (apprentices).
+> Abilities: Area Lore: Kilkenny 3 (countryside), Artes Liberales 1 (logic), Animal Handling 1 (horse), Animal Ken 2 (horse), Athletics 1 (flying), Awareness 2 (rural), Brawl 2 (fist), Concentration 1 (flight), Cursing 6 (tongue), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (bog), Etiquette 1 (hostess), Flight 2 (rural), Folk Witch Magic Theory 3 (potion brewing), Guile 2 (husband), Healing 3 (stab wounds) (5), Leadership 2 (staff), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (vis sources), Penetration 2 (cursing), Second Sight 2 (faeries), Shapeshifter 1 (horse), Teaching 1 (apprentices).
 >
->Witch Moon Scars: 1. Gains Additional 5 XP in Healing.
+> Witch Moon Scars: 1. Gains Additional 5 XP in Healing.
 >
->Equipment: dagger, walking clothes, staff. Appearance: Anne is an attractive woman, although she has a very short temper. She usually stays in the manor house working in her kitchen, or wandering the nearby bog fields, and travels only occasionally into town. She has acquired a reputation for holding debauched parties while her husband is absent with his business. This is not really true, although she does host sabbats in the manor house. Anne can shapeshift into the form of a beautiful mare.
+> Equipment: dagger, walking clothes, staff. Appearance: Anne is an attractive woman, although she has a very short temper. She usually stays in the manor house working in her kitchen, or wandering the nearby bog fields, and travels only occasionally into town. She has acquired a reputation for holding debauched parties while her husband is absent with his business. This is not really true, although she does host sabbats in the manor house. Anne can shapeshift into the form of a beautiful mare.
 
-#### THE ORLEANS WITCHES
+#### The Orleans Witches
 (110 Build points)
 
-This coven of folk witches practices a variant tradition that replaces the Shapeshifter Supernatural Ability with the Premonitions Supernatural Ability; and, unusually, most of the members are men. The coven currently only has one Gifted member, Claude of Orleans) who is a man. Two other Gifted coven members died in mysterious circumstances several years ago, and it is rumored that Claude killed them with curses. There are a several unGifted coven members scattered throughout the Orleans area, and the coven has good relationships with the local judicial magistrates after several cases involving stolen property were resolved by Dowsing — although the magistrates only deal with unGifted members of the coven.
+This coven of folk witches practices a variant tradition that replaces the Shapeshifter Supernatural Ability with the Premonitions Supernatural Ability; and, unusually, most of the members are men. The coven currently only has one Gifted member, Claude of Orleans, who is a man. Two other Gifted coven members died in mysterious circumstances several years ago, and it is rumored that Claude killed them with curses. There are several unGifted coven members scattered throughout the Orleans area, and the coven has good relationships with the local judicial magistrates after several cases involving stolen property were resolved by Dowsing — although the magistrates only deal with unGifted members of the coven.
 
 **Scripts:** Sense of Place (+6), Sense of Time (ScriptforPremonitions; +6).
 
-**Claude's Shack:** Claude lives alone in a shack, on the banks of a small stream, about one day's travel north of Orleans. There is a Magic aura of level 3 in the area, and nearby is a ruined Roman villa with a large magic apple tree growing in what was once the courtyard. **Hooks**: Roman ruin (minor). **Boons**: seclusion (minor). **Vis Sources**: 5 pawns Herbam per year (magic tree), 1 pawn Aquam per year (fish spawn).
+**Claude's Shack:** Claude lives alone in a shack, on the banks of a small stream, about one day's travel north of Orleans. There is a Magic aura of level 3 in the area, and nearby is a ruined Roman villa with a large magic apple tree growing in what was once the courtyard. **Hooks:** Roman ruin (minor). **Boons:** seclusion (minor). **Vis Sources:** 5 pawns Herbam per year (magic tree), 1 pawn Aquam per year (fish spawn).
 
-**Magistrate's Court:** A clerk called Jean the Wise, working in the Orleans magistrates court, is an unGifted member of the coven. He uses his Dowsing powers to help the magistrate determine the location of stolen property — which often quickly results in a confession. The magistrate has come to respect Jean's opinion when making legal decisions. **Hooks**: missing aura (major), urban (major). **Boons**: powerful ally (major; magistrate). **Vis Sources**: 2 pawns of Corpus per year (blood of first and last gallows victim each year). **Library**: Reading the Perturbations of Place, by Goodwin (Dowsing Ability Summa; Quality 10, Level 3), Civitas Orleans, by Magistrate Bayne (Civil and Canon Law Tractatus; Quality 9).
+**Magistrate's Court:** A clerk called Jean the Wise, working in the Orleans magistrates court, is an unGifted member of the coven. He uses his Dowsing powers to help the magistrate determine the location of stolen property — which often quickly results in a confession. The magistrate has come to respect Jean's opinion when making legal decisions. **Hooks:** missing aura (major), urban (major). **Boons:** powerful ally (major; magistrate). **Vis Sources:** 2 pawns of Corpus per year (blood of first and last gallows victim each year). **Library:** Reading the Perturbations of Place, by Goodwin (Dowsing Ability Summa; Quality 10, Level 3), Civitas Orleans, by Magistrate Bayne (Civil and Canon Law Tractatus; Quality 9).
 
-**Joseph's House:** Joseph lives just outside Orleans in a large house constructed in a regio, with a Magic aura of 3. He is an unGifted member of the coven, and uses his Dowsing Ability to find objects for people in the city. He maintains a townhouse in the city, where clients come to seek his services. By collecting a fee for finding objects, Joseph has become a wealthy man. **Hooks**: city (major) **Boons**: regio (major), aura (x3) (minor), manor house (free) **Vis Sources**: 2 pawns of Animal per year (tannery), 2 pawns of Terram (blacksmith), 2 pawns of Vim (a spring in the regio).
+**Joseph's House:** Joseph lives just outside Orleans in a large house constructed in a regio, with a Magic aura of 3. He is an unGifted member of the coven, and uses his Dowsing Ability to find objects for people in the city. He maintains a townhouse in the city, where clients come to seek his services. By collecting a fee for finding objects, Joseph has become a wealthy man. **Hooks:** city (major) **Boons:** regio (major), aura (x3) (minor), manor house (free) **Vis Sources:** 2 pawns of Animal per year (tannery), 2 pawns of Terram (blacksmith), 2 pawns of Vim (a spring in the regio).
 
->#### Jean the Wise
->Characteristics: Int +3, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +1
+> ### Jean the Wise
+> Characteristics: Int +3, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +1
 >
->Size: 0
+> Size: 0
 >
->Age: 28 (28)
+> Age: 28 (28)
 >
->Decrepitude: 0 (0)
+> Decrepitude: 0 (0)
 >
->Warping Score: 2 (3) Confidence Score: 1 (3)
+> Warping Score: 2 (3) Confidence Score: 1 (3)
 >
->Virtues and Flaws: Folk Witch; Concentrated Potions, Dowsing, Educated, Improved Characteristics, Premonitions, Temporal Influence; Meddler, Motion Sickness, Offensive to Animals, Warped Magic. 
+> Virtues and Flaws: Folk Witch; Concentrated Potions, Dowsing, Educated, Improved Characteristics, Premonitions, Temporal Influence; Meddler, Motion Sickness, Offensive to Animals, Warped Magic.
 >
->Personality Traits: Studious +2, Meddler +3
+> Personality Traits: Studious +2, Meddler +3
 >
->Reputations: Wizard in Magistrate's Court 3 (local)
+> Reputations: Wizard in Magistrate's Court 3 (local)
 >
->Combat:
+> Combat:
 >
 >
->Dodge: Init +1, Attack n/a, Defense +3,
+> Dodge: Init +1, Attack n/a, Defense +3,
 >
->Damage n/a
+> Damage n/a
 >
->Soak: +1
+> Soak: +1
 >
->Fatigue Levels: OK, 0, -1, -3, —5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, —5, Unconscious
 >
->Wound Penalties: —1 (1-5), —3 (6-10), —5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: —1 (1-5), —3 (6-10), —5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Area Lore: Orleans 4 (criminals), Artes Liberales 3 (logic), Athletics 1 (running), Awareness 1 (ambush), Brawl 1 (dodge), Carouse 1 (students), Civil and Canon Law2 (land rights), Charm 1 (women), Concentration 2 (writing), Dead Language: Latin 5 (legal terms), Dowsing 6 (made items), Etiquette 2 (legal court), Folk Ken 2 (liars), Folk Witch Magic Theory 3 (potion brewing), Intrigue 1 (legal court), Leadership 2 (clerks), Living Language: French 5 (Orleand dialect), Organization Lore: Folk Witches 1 (history), Penetration 3 (Dowsing), Philosophiae 3 (moral), Premonitions 3 (natural events), Profession: scribe 3 (legal records), Teaching 1 (Artes Liberales).
+> Abilities: Area Lore: Orleans 4 (criminals), Artes Liberales 3 (logic), Athletics 1 (running), Awareness 1 (ambush), Brawl 1 (dodge), Carouse 1 (students), Civil and Canon Law2 (land rights), Charm 1 (women), Concentration 2 (writing), Dead Language: Latin 5 (legal terms), Dowsing 6 (made items), Etiquette 2 (legal court), Folk Ken 2 (liars), Folk Witch Magic Theory 3 (potion brewing), Intrigue 1 (legal court), Leadership 2 (clerks), Living Language: French 5 (Orleand dialect), Organization Lore: Folk Witches 1 (history), Penetration 3 (Dowsing), Philosophiae 3 (moral), Premonitions 3 (natural events), Profession: scribe 3 (legal records), Teaching 1 (Artes Liberales).
 >
->Witch Moon Scars: 1. Gains Concentrated Potions (Minor Virtue). 2. Acquires Warped Magic (ringing noise) (Minor Flaw).
+> Witch Moon Scars: 1. Gains Concentrated Potions (Minor Virtue). 2. Acquires Warped Magic (ringing noise) (Minor Flaw).
 >
->Equipment: Writing equipment, documents. legal
+> Equipment: Writing equipment, documents. legal
 >
->Appearance: Jean dresses in the simple clothes of a clerk; he is balding, with a long pointed nose. Whenever Jean uses his Supernatural Abilities, all other characters within Voice Range hear an irritating ringing noise in their ears (Warped Magic).
+> Appearance: Jean dresses in the simple clothes of a clerk; he is balding, with a long pointed nose. Whenever Jean uses his Supernatural Abilities, all other characters within Voice Range hear an irritating ringing noise in their ears (Warped Magic).
 
 ## Hermetic Integration
 
@@ -2543,28 +2561,10 @@ By incorporating the Gifted folk witch Opening The Gift ritual into the Hermetic
 
 Unlike a normal integration result, the inventing character does not personally gain anything from this breakthrough, as he has already had his Arts opened. Instead, once the research is complete the character may open an apprentices Arts using a special technique (which still takes a season) and the apprentice gains the Minor Hermetic Virtue: Subtle Opening. The character may also write a level 30 Lab Text, detailing the special Art Opening technique, that can be followed by any other magus Opening the Arts of an apprentice.
 
->##### New Virtue: Subtle Opening
->Minor Hermetic Virtue
+> ### New Virtue: Subtle Opening
+> Minor Hermetic Virtue
 >
->The magus had his Arts Opened using a more-subtle and flexible technique than normal. Consequently, he does not suffer a penalty to the study Source Quality for his Arts scores when learning Supernatural Abilities (see ArM5, page 166). The magus is still penalized for scores in other Supernatural Abilities.
-
->#### Story Seeds for Subtle Opening
->
->**Ruined Apprentices**
->
->An unlucky Bonisagus magus, attempting to research this breakthrough, commandeers a number of promising "apprentices" and damages or destroys their Gifts via experimental methods of Opening the Arts. These are genuine mistakes — the Bonisagus magus is not being malicious — and as his "victims" had not yet had their Arts Opened they were not technically anyone's apprentice. Nonetheless, the other magi of the Tribunal are appalled at this waste of Gifted talent, and try to stop the magi's research.
->
->**Long-Lost Power**
->
->The magi of the Lineage of Pralix (see *Houses of Hermes: Societates*, page 126) make this breakthrough and Open the Arts of a number of apprentices, using the Subtle Opening. The new apprentices are then given access to a secret library, which contains many books written over the centuries by hedge wizard converts to the Order of Hermes. By studying the store of books, the apprentices can learn exotic Supernatural Abilities that were thought lost to the Order of Hermes.
->
->**Order of Odin Infliration**
->
->Hedge wizards of the Order of Odin learn of this improvement to Hermetic theory and, along with a Bonisagus ally, use it as the basis of a new research project to allow an apprentice to learn both Rune Magic and Hermetic Magic without penalty. Once completed, this project allows the Order of Odin to begin to infiltrate the Order of Hermes, virtually undetected.
->
->**A Subtle Price**
->
->A Tytalus magus invents the Subtle Opening, but refuses to share his method and instead asks a fee from other magi to perform it on their apprentices. His price is reasonable, but the Subtle Opening becomes so popular that the magus can't keep up with demand, and this bottleneck causes a delay in the training of a large number of apprentices in the Tribunal. Some concerned magi try to pass a Tribunal ruling that forces the magus to share the Subtle Opening method. It's possible that other magi may try to steal the method, or alternatively race to perform the research themselves (damaging The Gift of several unlucky apprentices during the experimentation).
+> The magus had his Arts Opened using a more-subtle and flexible technique than normal. Consequently, he does not suffer a penalty to the study Source Quality for his Arts scores when learning Supernatural Abilities (see ArM5, page 166). The magus is still penalized for scores in other Supernatural Abilities.
 
 #### Integration Effects
 
@@ -2574,6 +2574,24 @@ Vim effects are the most suitable lab projects produced from Insights to contrib
 
 This extension to Hermetic theory allows apprentices to easily learn exotic magics. In terms of game balance, apprentices who have their Gifts Opened via the new techniques are likely to become more powerful than mainstream hermetic magi. This is because the new apprentices will be able to easily supplement their Hermetic Arts with a set of exotic Supernatural Abilities. However, as this integration project does not directly affect magi who have already had their Arts Opened, many magi may be reluctant to invest the time and effort to develop a project that only benefits their apprentices, being too selfish or too fearful of powerful apprentices. On the other hand, magi who are involved in high-level House politics, or other long-term strategic alliances, may be very interested in cultivating a new generation of powerful magi.
 
+> ### Story Seeds for Subtle Opening
+>
+> **Ruined Apprentices**
+>
+> An unlucky Bonisagus magus, attempting to research this breakthrough, commandeers a number of promising "apprentices" and damages or destroys their Gifts via experimental methods of Opening the Arts. These are genuine mistakes — the Bonisagus magus is not being malicious — and as his "victims" had not yet had their Arts Opened they were not technically anyone's apprentice. Nonetheless, the other magi of the Tribunal are appalled at this waste of Gifted talent, and try to stop the magi's research.
+>
+> **Long-Lost Power**
+>
+> The magi of the Lineage of Pralix (see *Houses of Hermes: Societates*, page 126) make this breakthrough and Open the Arts of a number of apprentices, using the Subtle Opening. The new apprentices are then given access to a secret library, which contains many books written over the centuries by hedge wizard converts to the Order of Hermes. By studying the store of books, the apprentices can learn exotic Supernatural Abilities that were thought lost to the Order of Hermes.
+>
+> **Order of Odin Infliration**
+>
+> Hedge wizards of the Order of Odin learn of this improvement to Hermetic theory and, along with a Bonisagus ally, use it as the basis of a new research project to allow an apprentice to learn both Rune Magic and Hermetic Magic without penalty. Once completed, this project allows the Order of Odin to begin to infiltrate the Order of Hermes, virtually undetected.
+>
+> **A Subtle Price**
+>
+> A Tytalus magus invents the Subtle Opening, but refuses to share his method and instead asks a fee from other magi to perform it on their apprentices. His price is reasonable, but the Subtle Opening becomes so popular that the magus can't keep up with demand, and this bottleneck causes a delay in the training of a large number of apprentices in the Tribunal. Some concerned magi try to pass a Tribunal ruling that forces the magus to share the Subtle Opening method. It's possible that other magi may try to steal the method, or alternatively race to perform the research themselves (damaging The Gift of several unlucky apprentices during the experimentation).
+
 ### Energy Magic
 
 Suggested Breakthrough Points: 55 Folk witches are not restricted by the Limit of Energy in the same way as a magus, so studying their practices and integrating them into Hermetic magic may allow a magus to break this limit as well. The result of this integration is additional Creo Corpus and Perdo Corpus guidelines.
@@ -2582,31 +2600,31 @@ Suggested Breakthrough Points: 55 Folk witches are not restricted by the Limit o
 
 Corpus effects are the most suitable laboratory projects that may be produced from Insights to contribute to this breakthrough. Some example effects include:
 
->#### New Energy Magic Virtue & Guidelines
+> ### New Energy Magic Virtue & Guidelines
 >
->#### Energy Magic
->Minor Hermetic Virtue
+> #### Energy Magic
+> Minor Hermetic Virtue
 >
->The magus may access additional Creo Corpus and Perdo Corpus guidelines.
+> The magus may access additional Creo Corpus and Perdo Corpus guidelines.
 >
->#### New Perdo Corpus Guidelines
->Level 5: Double the time a character recovers a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
+> #### New Perdo Corpus Guidelines
+> Level 5: Double the time a character recovers a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
 >
->Level 5: Cause a target to lose a Short-Term Fatigue level.
+> Level 5: Cause a target to lose a Short-Term Fatigue level.
 >
->Level 10: Cause a target to lose a Long-Term Fatigue level. Note that this is not a new guideline. Any magus can cause the loss of a Fatigue level with this level of effect (see ArM5, page 133).
+> Level 10: Cause a target to lose a Long-Term Fatigue level. Note that this is not a new guideline. Any magus can cause the loss of a Fatigue level with this level of effect (see ArM5, page 133).
 >
->Level 15: While under this effect, characters can't recover Fatigue levels by resting.
+> Level 15: While under this effect, characters can't recover Fatigue levels by resting.
 >
->#### New Creo Corpus Guidelines
+> #### New Creo Corpus Guidelines
 >
->Ritual spells formulated according to these guidelines with Momentary Duration truly restore Fatigue levels. Spells with other Durations only temporarily restore Fatigue levels, and at the end of the spell's duration the Fatigue levels are lost again as Long-Term Fatigue levels, even if they were originally only Short-Term Fatigue levels.
+> Ritual spells formulated according to these guidelines with Momentary Duration truly restore Fatigue levels. Spells with other Durations only temporarily restore Fatigue levels, and at the end of the spell's duration the Fatigue levels are lost again as Long-Term Fatigue levels, even if they were originally only Short-Term Fatigue levels.
 >
->Level 5: Halve the time that a character takes to recover a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
+> Level 5: Halve the time that a character takes to recover a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
 >
->Level 10: Restore a lost Short-Term Fatigue level.
+> Level 10: Restore a lost Short-Term Fatigue level.
 >
->Level 15: Restore a lost Long-Term Fatigue level.
+> Level 15: Restore a lost Long-Term Fatigue level.
 
 **Pungent Potion of Ease** <br>
 CrCo Level 20 Pen +0, charged item <br>
@@ -2626,9 +2644,9 @@ This ritual spell restores one Long-Term Fatigue level to up to 10 individuals. 
 
 **Energy Sense** <br>
 InCo(Me) Level 20<br>
-R: Voice, D: Momentary, T: Individual 
+R: Voice, D: Momentary, T: Individual
 
-The caster senses the Fatigue status of the target (winded, weary, tired, etc). 
+The caster senses the Fatigue status of the target (winded, weary, tired, etc).
 
 (Base: 5, + 2 Voice, +1 Requisite)
 
@@ -2644,23 +2662,23 @@ Targets within the circle do not regain Fatigue levels by resting. This can keep
 
 This integration effect changes the balance of power between Formulaic and Spontaneous magic, as being able to restore Fatigue allows a caster to more readily risk expending it on Fatiguing Spontaneous spells. Another effect is that casting Formulaic spells in marginal situations — which can result in Fatigue loss — becomes a more-sustainable proposition for magi. This means that magi are more willing and able to attack targets within hostile auras, strengthening the Order against the Divine and Infernal.
 
->#### Story Seeds for Energy Magic
+> ### Story Seeds for Energy Magic
 >
->**A Prestigious Project**
+> **A Prestigious Project**
 >
->A coven has been selling Fatigue-restoring potions to a Hermetic covenant, which the resident magi secretly study. The magi have learned the secret of their manufacture (that is, they invent Energy Magic), and are anxious to disguise the origins of their Hermetic breakthrough — they wish to present the breakthrough to the Order as the fruit of a more prestigious, original research project. So the magi try to hunt down and eliminate the coven of folk witches.
+> A coven has been selling Fatigue-restoring potions to a Hermetic covenant, which the resident magi secretly study. The magi have learned the secret of their manufacture (that is, they invent Energy Magic), and are anxious to disguise the origins of their Hermetic breakthrough — they wish to present the breakthrough to the Order as the fruit of a more prestigious, original research project. So the magi try to hunt down and eliminate the coven of folk witches.
 >
->**Balance of Power**
+> **Balance of Power**
 >
->A Tytalus magus secretly invents Energy Magic, and teaches it to a cabal of low-ranking Tremere. These Tremere use their new ability to restore and destroy Fatigue to attack their superiors, both in certamen and Wizard's War, and so rapidly claim their own sigils. This disrupts the balance of power among the Tremere, and temporarily fragments the Tremere voting block at many Tribunals. While the new Tremere masters consolidate their power, other Tribunal factions take the chance to pass a number of Tribunal rulings that have been vetoed for decades by the Tremere.
+> A Tytalus magus secretly invents Energy Magic, and teaches it to a cabal of low-ranking Tremere. These Tremere use their new ability to restore and destroy Fatigue to attack their superiors, both in certamen and Wizard's War, and so rapidly claim their own sigils. This disrupts the balance of power among the Tremere, and temporarily fragments the Tremere voting block at many Tribunals. While the new Tremere masters consolidate their power, other Tribunal factions take the chance to pass a number of Tribunal rulings that have been vetoed for decades by the Tremere.
 >
->**A Diedne Resurgence?**
+> **A Diedne Resurgence?**
 >
->House Diedne's magi were masters of Spontaneous magic. When several bands of Hoplites in the Roman Tribunal demonstrate a surprising proficiency with Spontaneous magic, the Tribunal's senior Quaesitors suspect that the Hoplites have stumbled upon Diedne secrets. Investigators are sent to discover the source of this supposed "recovered" Diedne magic.
+> House Diedne's magi were masters of Spontaneous magic. When several bands of Hoplites in the Roman Tribunal demonstrate a surprising proficiency with Spontaneous magic, the Tribunal's senior Quaesitors suspect that the Hoplites have stumbled upon Diedne secrets. Investigators are sent to discover the source of this supposed "recovered" Diedne magic.
 >
->**The Bjornaer Crusade**
+> **The Bjornaer Crusade**
 >
->Emboldened by the ability to restore Fatigue — and thus operate more easily in a Divine aura — a Bjornaer sept erupts from the forest. The bellowing beasts destroy a number of towns that fringe the wilderness, and the attacks claim several bishops. The outraged papacy calls a crusade and thousands of knights, included groups armed with saintly relics, arrive at the forest edge ready for war. The Bjornaer are relatively secure - they are hidden in a number of forest regios, from which they occasionally sally forth to harass the crusaders — but the frustrated crusaders may attack neighboring covenants.
+> Emboldened by the ability to restore Fatigue — and thus operate more easily in a Divine aura — a Bjornaer sept erupts from the forest. The bellowing beasts destroy a number of towns that fringe the wilderness, and the attacks claim several bishops. The outraged papacy calls a crusade and thousands of knights, included groups armed with saintly relics, arrive at the forest edge ready for war. The Bjornaer are relatively secure - they are hidden in a number of forest regios, from which they occasionally sally forth to harass the crusaders — but the frustrated crusaders may attack neighboring covenants.
 
 ### Sense of the Mystic
 **Suggested Breakthrough Points:** 45
@@ -2683,10 +2701,7 @@ This device is a crystal lens about the size of a fist, which is inset into a br
 InVi Level 15<br>
 R: Personal, D: Concentration, T: Vision
 
-The caster can detect Faerie creatures
-with a Might of 40 or higher. The effect allows the caster to recognize the creature even\nif it is disguised or invisible, and does not need to penetrate the creature's Magic Resistance.
-The effect does not allow the caster to see
-through intervening objects, however.
+The caster can detect Faerie creatures with a Might of 40 or higher. The effect allows the caster to recognize the creature even if it is disguised or invisible, and does not need to penetrate the creature's Magic Resistance. The effect does not allow the caster to see through intervening objects, however.
 
 (Base: 2, +1 Conc, +4 Vision)
 
@@ -2712,19 +2727,19 @@ The character who drinks this dark, bitter potion has his Stamina increased by 1
 
 (Effect: Base 55, +1 Touch)
 
->#### New Virtue: Sense of the Mystic
->Major Hermetic Virtue
+> ### New Virtue: Sense of the Mystic
+> Major Hermetic Virtue
 >
->Intellego effects cast or invented by this magus that grant magic senses (see ArM5, page 113) do not need to penetrate the Magic Resistance of the sensed creatures. The effect must still penetrate the Magic Resistance (if any) of the person who is granted the sense. Note that this only applies to effects that have a Sense Target.
+> Intellego effects cast or invented by this magus that grant magic senses (see ArM5, page 113) do not need to penetrate the Magic Resistance of the sensed creatures. The effect must still penetrate the Magic Resistance (if any) of the person who is granted the sense. Note that this only applies to effects that have a Sense Target.
+
+> ### Story Seed: Waking the Dragon
 >
->#### Story Seed: Waking the Oragon
->
->The magi learn this breakthrough, and when they return home they discover to their surprise that their covenant is home to a sleeping dragon (this could be an Unknown Monster Hook). The dragon is invisible while sleeping, and has not yet been disturbed by the activities of the magi. However, it is unclear how long the dragon has been sleeping. Maybe it arrived recently, or perhaps it predates the foundation of the covenant. Now that they know it exists, can the magi resist the temptation to wake the dragon? The dragon is within the Aegis of the Hearth.
+> The magi learn this breakthrough, and when they return home they discover to their surprise that their covenant is home to a sleeping dragon (this could be an Unknown Monster Hook). The dragon is invisible while sleeping, and has not yet been disturbed by the activities of the magi. However, it is unclear how long the dragon has been sleeping. Maybe it arrived recently, or perhaps it predates the foundation of the covenant. Now that they know it exists, can the magi resist the temptation to wake the dragon? The dragon is within the Aegis of the Hearth.
 
 **Oil of Prometheus** <br>
 Crlg Level 60<br>
 Pen +0, charged item.<br>
-R: Touch, D: Diameter, T: Boundary, Ritual 
+R: Touch, D: Diameter, T: Boundary, Ritual
 
 This oil is carefully poured onto the ground at a Boundary — a city wall, or the edge of a forest, for example — which erupts into flame. From the site of ignition, which is about a pace in diameter, the conflagration rapidly spreads through the Boundary doubling in diameter every round until it covers an area up to 60 miles in diameter. The fire burns incredibly fiercely (+20 damage) for the Duration of the effect — even stones burn and iron melts. When the effect expires the fire no longer spreads with supernatural speed or heat, but any fires begun continue to burn naturally. The potion must be poured on the edge of a defined Boundary to have an effect (see ArM5, page 113).
 
@@ -2743,20 +2758,20 @@ Drinking this potion causes the character to change into a lion for a year. When
 
 In some respects, this integration project has limited consequences; it does not really open up new powers to the magi. Its main effect is that it allows powerful magi to more effectively use subordinates, as rather than needing to accompany their subordinates to cast a ritual effect, the magus can send a ritual item.
 
->#### Story Seeds for Ritual Items
+> ### Story Seeds for Ritual Items
 >
->**Covenfolk Rebellion**
+> **Covenfolk Rebellion**
 >
->A remote covenant is found, by a Redcap, to have been devastated in a rain of fiery, molten metal; he presumes that all of the magi are dead. The Tribunal sends a group to investigate the ruin, and it becomes apparent that the devastation was caused by a powerful ritual cast from within the covenant itself. Some of the covenfolk are found hiding in the hills nearby. The investigators may eventually determine that the covenant was destroyed by a revolt of the covenfolk, whom the magi had foolishly armed with powerful ritual items. It is possible that the covenfolk were encouraged by enemies of the covenant.
+> A remote covenant is found, by a Redcap, to have been devastated in a rain of fiery, molten metal; he presumes that all of the magi are dead. The Tribunal sends a group to investigate the ruin, and it becomes apparent that the devastation was caused by a powerful ritual cast from within the covenant itself. Some of the covenfolk are found hiding in the hills nearby. The investigators may eventually determine that the covenant was destroyed by a revolt of the covenfolk, whom the magi had foolishly armed with powerful ritual items. It is possible that the covenfolk were encouraged by enemies of the covenant.
 >
->**Towers of War**
+> **Towers of War**
 >
->On the Rhine Tribunal side of the Rhine/Novogorod border, a number of featureless towers are rapidly erected, each warded by powerful castings of Aegis of the Hearth. The towers are raised almost on top of known vis sources, and the Rhine magi soon find that their vis sources are warded against them. Early attempts to communicate with the inhabitants of the towers are unanswered, but a Quaesitor eventually recognizes in all the effects the sigil of a single powerful Novgorod archmagus. However, when questioned the archmagus in question claims no involvement — and he was provably well away from the area as the towers appeared. In fact, a small number of freshly Gauntleted magi, wielding a set of charged, ritual wands created by the archmagus, are behind the attack on the Rhine tribunal. The young magi may have stolen the wands, or they may be acting with the blessing of their Novogorod elders. In any case, the two Tribunals are now at the brink of war due to the reckless use of ritual magic.
+> On the Rhine Tribunal side of the Rhine/Novogorod border, a number of featureless towers are rapidly erected, each warded by powerful castings of Aegis of the Hearth. The towers are raised almost on top of known vis sources, and the Rhine magi soon find that their vis sources are warded against them. Early attempts to communicate with the inhabitants of the towers are unanswered, but a Quaesitor eventually recognizes in all the effects the sigil of a single powerful Novgorod archmagus. However, when questioned the archmagus in question claims no involvement — and he was provably well away from the area as the towers appeared. In fact, a small number of freshly Gauntleted magi, wielding a set of charged, ritual wands created by the archmagus, are behind the attack on the Rhine tribunal. The young magi may have stolen the wands, or they may be acting with the blessing of their Novogorod elders. In any case, the two Tribunals are now at the brink of war due to the reckless use of ritual magic.
 
->#### New Virtue: Ritual Items
->Minor Hermetic Virtue
+> ### New Virtue: Ritual Items
+> Minor Hermetic Virtue
 >
->The magus may make charged items that incorporate ritual effects. Each charge requires the same number of pawns of vis that casting the effect normally would otherwise cost. For example, a wand that produced an effect similar to *Curse of the Unportended Plague* (PeCo 55; ArM5, page 133) would require 11 pawns of Perdo or Corpus vis per charge. The number of pawns of vis that the magus may use in a season is limited in the usual way, and the number of charges is also calculated in the normal manner.
+> The magus may make charged items that incorporate ritual effects. Each charge requires the same number of pawns of vis that casting the effect normally would otherwise cost. For example, a wand that produced an effect similar to *Curse of the Unportended Plague* (PeCo 55; ArM5, page 133) would require 11 pawns of Perdo or Corpus vis per charge. The number of pawns of vis that the magus may use in a season is limited in the usual way, and the number of charges is also calculated in the normal manner.
 
 # Chapter Four: Gruagachan
 
@@ -2764,9 +2779,7 @@ The gruagachan (pronounced: GROOuh-guk-an, singular: gruagach, pronounced: GROO-
 
 The gruagachan act as Gruagachs judges, granting blessings and inflicting dire curses with the aim of achieving poetic justice. Gruagach also grants them an external soul that prevents death from physical injury, as well as tattoo magic, the ability to shapechange, a talent for creating illusions and receiving premonitions, and invisible animal companions called fetches. The hedge wizards pay a price for these favors, though, as Warping slowly transforms every gruagachan intoa troll.
 
-The gruagachan are found primarily in the Loch Leglean Tribunal, but also exist in
-
-the Stonehenge and Hibernian Tribunals. The gruagachan have a long history with the Order of Hermes. They were bitter rivals of the tradition that would become House Diedne, both before and after they joined the Order, and because of that animosity joined with the wizard Damhan-Allaidh against the Order. After the Schism War and the destruction of House Diedne, the relations between the Order and the gruagachan warmed slightly. Some gruagachan have even joined the Order, but the vast majority remain independent.
+The gruagachan are found primarily in the Loch Leglean Tribunal, but also exist in the Stonehenge and Hibernian Tribunals. The gruagachan have a long history with the Order of Hermes. They were bitter rivals of the tradition that would become House Diedne, both before and after they joined the Order, and because of that animosity joined with the wizard Damhan-Allaidh against the Order. After the Schism War and the destruction of House Diedne, the relations between the Order and the gruagachan warmed slightly. Some gruagachan have even joined the Order, but the vast majority remain independent.
 
 ## Character Generation
 
@@ -2782,10 +2795,10 @@ UnGifted gruagachan are generally not taken as apprentices during childhood. The
 
 The unGifted gruagach apprenticeship is shorter, and often apprentices do not receive Initiation in all of the gruagach Arts. Because unGifted gruagach remain members of their communities, they receive their training while maintaining their normal vocations. The un-Gifted apprenticeship generally lasts three to five years. For each year of training, the player may spend 16 experience points in Abilities or gruagach Arts and take 8 levels of spells.
 
->#### New Virtue: Gruagach
->Free, Social Status
+> ### New Virtue: Gruagach
+> Free, Social Status
 >
->The character is a member of the gruagach magical tradition. The character may perform gruagach laboratory activities and is a member of a gruagach collective. This Virtue is compatible with many other Social Virtues and Flaws, and with Wealthy and Poor. A normal gruagach must spend time supporting himself. UnGifted gruagachan usually do this by performing their normal vocations, but more-powerful Gifted gruagachan may perform services for the community, provide services to local lords, or receive rewards for enforcing justice — these services are usually arranged for by unGifted gruagachan, who interact with the general populace.
+> The character is a member of the gruagach magical tradition. The character may perform gruagach laboratory activities and is a member of a gruagach collective. This Virtue is compatible with many other Social Virtues and Flaws, and with Wealthy and Poor. A normal gruagach must spend time supporting himself. UnGifted gruagachan usually do this by performing their normal vocations, but more-powerful Gifted gruagachan may perform services for the community, provide services to local lords, or receive rewards for enforcing justice — these services are usually arranged for by unGifted gruagachan, who interact with the general populace.
 
 ### Training
 
@@ -2868,7 +2881,7 @@ This Virtue grants the character constant access to her fetch. The fetch has the
 **Flexible Gruagach Magic**<br>
 Minor, Supernatural
 
-The gruachach’s Formulaic spells are more versatile than most. Instead of being able to vary the Range, Duration, Target, or size of a known spell by 2 magnitudes, the gruagach is able to vary the spell by 3 magnitudes.
+The gruagach's Formulaic spells are more versatile than most. Instead of being able to vary the Range, Duration, Target, or size of a known spell by 2 magnitudes, the gruagach is able to vary the spell by 3 magnitudes.
 
 **Shape**<br>
 Minor, Supernatural
@@ -2911,7 +2924,7 @@ The character is unable to use a single combination of one Technique and Form. T
 **Inflexible Magic**<br>
 Minor, Supernatural
 
-The gruagach’s Formulaic spells are not as versatile as most. Instead of being able to vary the Range, Duration, Target, or size of a known spell by 2 magnitudes, the gruagach is only able to vary his spells by 1 magnitude.
+The gruagach's Formulaic spells are not as versatile as most. Instead of being able to vary the Range, Duration, Target, or size of a known spell by 2 magnitudes, the gruagach is only able to vary his spells by 1 magnitude.
 
 **Poorly Trained Gruagach**<br>
 Minor, Supernatural
@@ -2947,7 +2960,7 @@ To cast any of these spells, the character must possess knowledge of the applica
 
 #### Techniques
 
-**Give** 
+**Give**
 
 This Technique governs a gruagach's ability to grant blessings, inflict curses, impart shapes, and provide visions. It does not have a close Hermetic equivalent, but encompasses aspects of most Techniques. It can also inflict curses and geasa (singular: geas) on a target.
 
@@ -2955,7 +2968,7 @@ This Technique governs a gruagach's ability to grant blessings, inflict curses, 
 
 This Technique allows a gruagach to remove something from a target. A Take spell might eliminate an aspect of a target or merely acquire a component of it. This Art covers nearly every Hermetic Technique. It can allow a person to recover from hostile magic, and it can acquire information about a target. Take spells can also remove a character's Virtues and reduce his Abilities.
 
-#### FORMS
+#### Forms
 
 **Blessing**
 
@@ -3005,13 +3018,13 @@ All gruagach spells require vocalization. A gruagach may never silently cast a s
 
 *For example, a gruagach who believes someone may be eavesdropping on his conversation could cast a geas against "anyone not minding their own business." If there were someone within the sound of the gruagach's voice who fell within this description, the geas could affect that person.*
 
->#### Appropriate Ranges, Durations, and Targets
+> ### Appropriate Ranges, Durations, and Targets
 >
->Range: Personal, Conversation (0/+1), and Voice (+1/+2)
+> Range: Personal, Conversation (0/+1), and Voice (+1/+2)
 >
->Duration: Momentary, Diameter (+1), Sun (+2), Moon (+3), and Geas/Limit (see later)
+> Duration: Momentary, Diameter (+1), Sun (+2), Moon (+3), and Geas/Limit (see later)
 >
->Target: Individual, Group (+1), and Bloodline (+2)
+> Target: Individual, Group (+1), and Bloodline (+2)
 
 The Range Conversation is equivalent to the Hermetic Range: Touch/Eye. The gruagach may only utilize this Range if he is engaged in a conversation with the intended Target, the Target must actually hear the caster verbalize the spell, and the caster must be within about three paces of his Target.
 
@@ -3047,37 +3060,37 @@ The gruagach tattoos are usually in the shape of animals and mimic the shape of 
 
 *A Grant Blessing spell of level 15 provides +2 to a single Ability score for Diameter Duration (level 10, +1 Diameter). Because Dombnall has 1 level to spare, he may only use the effect twice per day. The tattoo takes one season to create, requires two pawns of Animal or Corpus vis, and need be no larger than a buman ear.*
 
->#### Gruagach Shape Bonuses
+> ### Gruagach Shape Bonuses
 >
->Bear: +3 Strength, +5 defense vs. attacks
+> Bear: +3 Strength, +5 defense vs. attacks
 >
->Bird: +5 magical flight
+> Bird: +5 magical flight
 >
->Boar: +3 ferocity, + 4 attacking
+> Boar: +3 ferocity, + 4 attacking
 >
->Bull: +3 Stamina
+> Bull: +3 Stamina
 >
->Crow: + 3 Communication, +5 granting knowledge or wisdom
+> Crow: + 3 Communication, +5 granting knowledge or wisdom
 >
->Dove: +6 granting visions or premonitions
+> Dove: +6 granting visions or premonitions
 >
->Eagle: +7 improving eyesight, +3 Perception
+> Eagle: +7 improving eyesight, +3 Perception
 >
->Goat, Wild: +3 Dexterity
+> Goat, Wild: +3 Dexterity
 >
->Hawk: +3 Quickness
+> Hawk: +3 Quickness
 >
->Horse: +3 Stamina, +5 magical movement
+> Horse: +3 Stamina, +5 magical movement
 >
->Lion: +3 Presence, +5 bravery Partridge: +6 concealment
+> Lion: +3 Presence, +5 bravery Partridge: +6 concealment
 >
->Salmon: +4 granting longevity
+> Salmon: +4 granting longevity
 >
->Stag: +5 improving hearing, +6 virility
+> Stag: +5 improving hearing, +6 virility
 >
->Swan: +4 granting luck
+> Swan: +4 granting luck
 >
->Wolf: +6 improving smelling, +7 ferocity
+> Wolf: +6 improving smelling, +7 ferocity
 
 #### Vis
 
@@ -3109,21 +3122,21 @@ The gruagach must travel to a special mountaintop within a powerful Magic aura. 
 
 The fetch is a magical spirit that is an aspect of the character's personality and an extension of his soul. A fetch is always a noble animal and should be selected using the guidelines presented in the "Choosing the Heartbeast" section of the Bjornear chapter of Houses of Hermes: Mystery Cults, page 19. Noble animals are neither domesticated animals nor vermin. Wild equivalents of domestic animals are available; a wild boar is suitable, but a common pig is not. At the end of the fast, the character gains the Virtue Fetch and the Flaw Restriction. The character may never use magic on whatever type of animal his fetch is. For example, if the character's fetch is a wolf, she may never use magic on canines, whether wild or domesticated.
 
->#### Spirit Magic
+> ### Spirit Magic
 >
->The magic of the gruagachan cannot affect the dead or their spirits. However, some gruagachan are able to contact, summon, and command spirits using other sources of power. Should a player wish to create such a character, he should consult the rules for Ars Goetica (Realms of Power: The Infernal, page 114.)
+> The magic of the gruagachan cannot affect the dead or their spirits. However, some gruagachan are able to contact, summon, and command spirits using other sources of power. Should a player wish to create such a character, he should consult the rules for Ars Goetica (Realms of Power: The Infernal, page 114.)
 
 #### Extractions of the Soul from its Husk
 **Initiation Ease Factor:** 21/30<br>
-**Script Bonus:** +22 (+3 Quest, +9 Major Ordeal, + 3 Minor Ordeal, +3 Quest, +3 Mystagogues Time, +1 Initiates Time)
+**Script Bonus:** +22 (+3 Quest, +9 Major Ordeal, + 3 Minor Ordeal, +3 Quest, +3 Mystagogue's Time, +1 Initiate's Time)
 
 Before Initiation, the character must perform several tasks. He must locate a Gifted person who is suitable as an apprentice. The gruagach must swear a solemn Vow to properly train all of his apprentices, which requires that he possess the necessary Ability and Art scores to train an apprentice without imparting Flaws, and spend enough time training so that the apprentice's scores are sufficient to train apprentices of her own. The gruagach must also locate a perfect magical stone that will serve as the vessel for his soul. The stone is generally one bearing vis and possessing some mystical significance. The Mystagogue and Initiate then spend one season together completing the ritual to extract the Initiates soul and place it in the stone. At the end of the season, the gruagach gains the External Soul Virtue and the Blatant Magic Flaw, or loses the Gentle Gift if the character possessed it.
 
->#### Story Seed: Ouest to the Wizard's Tower
+> ### Story Seed: Ouest to the Wizard's Tower
 >
->A gruagach who is estranged from his master wants to gain the Fetch and External Soul Virtues through self-Initiation. The gruagach discovers that the Scripts are inscribed on a set of standing stones under the control of the characters. How do the characters react when the gruagach and his allies attempt to gain access to the stones? The gruagach does not explain his true reason for seeking the stones, and does not want them to remain in the hands of the Order. The characters may be unwilling to give them to the gruagach because they are important for access to a regio or part of a vis source. If the stones disappear, the characters investigate. Did the gruagach take them, or did his master take them to cause problems for the disgruntled apprentice?
+> A gruagach who is estranged from his master wants to gain the Fetch and External Soul Virtues through self-Initiation. The gruagach discovers that the Scripts are inscribed on a set of standing stones under the control of the characters. How do the characters react when the gruagach and his allies attempt to gain access to the stones? The gruagach does not explain his true reason for seeking the stones, and does not want them to remain in the hands of the Order. The characters may be unwilling to give them to the gruagach because they are important for access to a regio or part of a vis source. If the stones disappear, the characters investigate. Did the gruagach take them, or did his master take them to cause problems for the disgruntled apprentice?
 
-## UnGifted Gruagach Initiations
+### UnGifted Gruagach Initiations
 
 UnGifted gruagachan are incapable of gaining Supernatural Virtues through teaching, as Gifted individuals may. Each of the unGifted gruagachs Arts must be gained though an Initiation Script. Each gruagach Initiation Script is independent of the others, and a gruagach master may Initiate the Arts in any order or omit certain Arts entirely. UnGifted gruagachan Initiate in the gruagach Arts using the general rules given in the Introduction of this book. As stated there, an unGifted gruagach may not self-Initiate any Arts.
 
@@ -3139,13 +3152,13 @@ The Initiate must perform a quest where he ensures that justice is done. This co
 
 #### Initiation into the Take Technique
 **Initiation Ease Factor:** 21<br>
-**Script Bonus:** +17 (+3 Special Place, +9 Major Ordeal, +3 Mystagogue's Time, +1 Sacrifice, +1 Initiates Time)
+**Script Bonus:** +17 (+3 Special Place, +9 Major Ordeal, +3 Mystagogue's Time, +1 Sacrifice, +1 Initiate's Time)
 
 The Initiate must travel to a place of worship to the god Gruagach and perform oblations to him. The sacrifice must be something of value to the gruagach, roughly equivalent to one month's income. The Initiate then spends two seasons with his master, one in his service and one learning the Take Technique. The character also acquires the Flaw Dark Secret and a score of 1 in Take. If religious authorities discover the character has performed a pagan ritual, the character possibly suffers harassment, embarrassment, and excommunication. If the character is not particularly devout or elects to renounce Christianity, substitute Pagan as the Flaw.
 
 #### Initiation into the Blessing Form
 **Initiation Ease Factor:** 15<br>
-**Script Bonus:** +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus)
+**Script Bonus:** +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sympathetic Bonus)
 
 The Initiate must seek out and assist a truly disadvantaged person who is without hope of escaping his crisis without the assistance of the gruagach. The gruagach must offer assistance in the form of a permanent solution to the victim's problem. Simply giving alms to a beggar would not suffice, because it is merely a temporary solution to his vagrancy. The assistance provided must suitably impress the Mystagogue. The Initiate then spends a season serving his master and a season training, after which he acquires the Flaw Weird Magic and a score of 1 in the Form Blessing.
 
@@ -3155,7 +3168,7 @@ The Initiate must seek out and assist a truly disadvantaged person who is withou
 
 The Initiate must seek out and punish a truly wicked individual who committed some heinous act that went unpunished. The gruagach must select a target, who is powerful enough to suitably impress his master with his dedication to serving justice, and he must devise a poetically just punishment, rather than merely seeking retribution. The Initiate then spends a season serving his master and a season training, after which he acquires the Flaw Vow and a score of 1 in the Form Curse. The gruagach's Vow requires him to fight injustice wherever possible.
 
-#### INITIATION INTO THE SHAPE FORM
+#### Initiation Into The Shape Form
 **Initiation Ease Factor:** 15<br>
 **Script Bonus:** +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sympathetic Bonus)
 
@@ -3195,24 +3208,24 @@ Strength of Form: Defense against Corpus or Animal effects.
 
 Confounding Magics: Defense against Imaginem effects.
 
->#### Story Seed: Poetic Justice
+> ### Story Seed: Poetic Justice
 >
->One of the characters severely mistreats the peasants of a village and a gruagach learns of it. The gruagach decides that he can complete the Curse Initiation by punishing the character.
+> One of the characters severely mistreats the peasants of a village and a gruagach learns of it. The gruagach decides that he can complete the Curse Initiation by punishing the character.
 
->#### Story Seed: Shape and Form
+> ### Story Seed: Shape and Form
 >
->An unGifted gruagach witnesses a Bjornaer magus transform into his Heartbeast. The gruagach and his allies begin tracking the magus with the intent of fulfilling his Shape Initiation.
+> An unGifted gruagach witnesses a Bjornaer magus transform into his Heartbeast. The gruagach and his allies begin tracking the magus with the intent of fulfilling his Shape Initiation.
 
 ### Geas and Limit Durations
 
 The Geas and Limit Durations are similar to the Until (Condition), While (Condition), Not (Condition), and If (Condition) Durations of House Merinita; see ArM5, page 92, and Houses of Hermes: Mystery Cults, page 100. The gruagach Durations never require a Ritual and, unlike the Merinita Durations, the difficulty of casting a Geas or Limit Duration spell varies based on the breadth of the prohibition imposed on the Target of a spell or the ease with which the spell may be ended. A geas that places a sweeping prohibition on a victim's actions is more difficult to cast than one more narrowly defined, and a curse that the victim may easily counteract is relatively easy to cast. In any event, the prohibition must be achievable by the target of the spell, and a condition that does not limit the character is never appropriate.
 
->#### Geas and Limit Duration Magnitudes
+> ### Geas and Limit Duration Magnitudes
 >
->| SPELL DURATION   | SWEEPING PROHIBITION | GENERAL PROHIBITION | SPECIFIC PROHIBITION |
->|------------------|----------------------|---------------------|----------------------|
->| Geas (Condition) | +4 magnitudes        | +2 magnitudes       | +1 magnitude         |
->| Limit (Condition) | +1 magnitude         | +2 magnitudes       | +4 magnitudes        |
+> | SPELL DURATION   | SWEEPING PROHIBITION | GENERAL PROHIBITION | SPECIFIC PROHIBITION |
+> |------------------|----------------------|---------------------|----------------------|
+> | Geas (Condition) | +4 magnitudes        | +2 magnitudes       | +1 magnitude         |
+> | Limit (Condition) | +1 magnitude         | +2 magnitudes       | +4 magnitudes        |
 
 #### Geas (Condition) Duration
 
@@ -3267,9 +3280,9 @@ Because gruagach magic is very flexible, a typical gruagach may alter freely the
 
 A spell with Geas Duration does not count as an active supernatural effect until the character breaks the prohibition, and thus a character who respects a Geas is not Warped. A spell with Limit Duration is an active supernatural effect until the character violates the limit, and thus causes Warping.
 
->#### Gruagach Alternative
+> ### Gruagach Alternative
 >
->Under the standard rules, only Blessing and Curse spells are required to use the Geas and Limit Durations. To make the gruagach even more exotic, the troupe may decide that all spells and Laboratory effects by gruagachan must use the Limit or Geas Durations. This complicates matters slightly, but adds to the flavor of the gruagachan and distances them further from standard Hermetic magic.
+> Under the standard rules, only Blessing and Curse spells are required to use the Geas and Limit Durations. To make the gruagach even more exotic, the troupe may decide that all spells and Laboratory effects by gruagachan must use the Limit or Geas Durations. This complicates matters slightly, but adds to the flavor of the gruagachan and distances them further from standard Hermetic magic.
 
 ## Spell Guidelines
 
@@ -3281,41 +3294,41 @@ A gruagach with knowledge of this Art can temporarily grant Virtues, bonuses to 
 
 #### Give Blessing
 
->#### Give Blessing Guidelines
+> ### Give Blessing Guidelines
 >
->This Form cannot affect some Virtues — Social Statuses and Divine, Faerie, Hermetic, or Infernal Virtues, for example, are unaffected. A Blessing may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. Where a Supernatural Virtue is granted that has a corresponding Ability, the character is able to perform the Ability at a level of 4. The prohibition placed on the Virtue must be related to the Virtue, the character, or the story. A gruagach may never cast a Give Blessing on himself.
+> This Form cannot affect some Virtues — Social Statuses and Divine, Faerie, Hermetic, or Infernal Virtues, for example, are unaffected. A Blessing may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. Where a Supernatural Virtue is granted that has a corresponding Ability, the character is able to perform the Ability at a level of 4. The prohibition placed on the Virtue must be related to the Virtue, the character, or the story. A gruagach may never cast a Give Blessing on himself.
 >
->Sweeping prohibitions are those that are very easy to fulfill and relate to the Virtue granted, making the Virtue only useful in relatively few situations. For example, if a spell grants a character Toughness that is only useful until the character attacks another, this would be a sweeping prohibition.
+> Sweeping prohibitions are those that are very easy to fulfill and relate to the Virtue granted, making the Virtue only useful in relatively few situations. For example, if a spell grants a character Toughness that is only useful until the character attacks another, this would be a sweeping prohibition.
 >
->General prohibitions are relatively easy to fulfill and relate to the Virtue granted, which prevents the Virtue from lasting without restriction. For example, if a character receives a Blessing of Toughness that only works until he takes a Medium Wound, this would be a general prohibition.
+> General prohibitions are relatively easy to fulfill and relate to the Virtue granted, which prevents the Virtue from lasting without restriction. For example, if a character receives a Blessing of Toughness that only works until he takes a Medium Wound, this would be a general prohibition.
 >
->Specific prohibitions are restrictions that barely limit the use of the Virtue granted. For example, if a character receives the Toughness Virtue with the restriction that it only last until the character takes a specific form of damage such as fire, it would be a specific prohibition.
+> Specific prohibitions are restrictions that barely limit the use of the Virtue granted. For example, if a character receives the Toughness Virtue with the restriction that it only last until the character takes a specific form of damage such as fire, it would be a specific prohibition.
 >
->Give Blessing spells are cast with the Limit (Condition) Duration, which determines how long the magical effects last. Spells with Limit (Condition) Duration are permanent unless the character fulfills the prohibition of the Blessing. A different Blessing exists for each possible Virtue, but a gruagach is able to alter the specific conditions of the Duration to fit the circumstances without learning a new spell. The base level of all Blessing spells includes the Range of Conversation.
+> Give Blessing spells are cast with the Limit (Condition) Duration, which determines how long the magical effects last. Spells with Limit (Condition) Duration are permanent unless the character fulfills the prohibition of the Blessing. A different Blessing exists for each possible Virtue, but a gruagach is able to alter the specific conditions of the Duration to fit the circumstances without learning a new spell. The base level of all Blessing spells includes the Range of Conversation.
 >
->A single Give Blessing spell affects one specific Ability or Characteristic, or grants a particular Virtue.
+> A single Give Blessing spell affects one specific Ability or Characteristic, or grants a particular Virtue.
 >
->Level 5: Provide a bonus of +1 to a single Ability roll.
+> Level 5: Provide a bonus of +1 to a single Ability roll.
 >
->Level 10: Grant a Minor General or Supernatural (Magic) Virtue.
+> Level 10: Grant a Minor General or Supernatural (Magic) Virtue.
 >
->Level 10: Provide a bonus of +2 to a single Ability roll.
+> Level 10: Provide a bonus of +2 to a single Ability roll.
 >
->Level 15: Provide a bonus of +3 to a single Ability roll.
+> Level 15: Provide a bonus of +3 to a single Ability roll.
 >
->Level 15: Provide a bonus of +1 to all Ability rolls using a single Characteristic.
+> Level 15: Provide a bonus of +1 to all Ability rolls using a single Characteristic.
 >
->Level 20: Grant a Major General or Supernatural (Magic) Virtue.
+> Level 20: Grant a Major General or Supernatural (Magic) Virtue.
 >
->Level 20: Provide a bonus of +2 to all Ability rolls using a single Characteristic.
+> Level 20: Provide a bonus of +2 to all Ability rolls using a single Characteristic.
 >
->Level 20: Increase one of a person's Characteristics by one point, to no more than 0.
+> Level 20: Increase one of a person's Characteristics by one point, to no more than 0.
 >
->Level 25: Provide a bonus of +3 to all Ability rolls using a single Characteristic.
+> Level 25: Provide a bonus of +3 to all Ability rolls using a single Characteristic.
 >
->Level 25: Increase one of a person's Characteristics by one point, to no more than +1.
+> Level 25: Increase one of a person's Characteristics by one point, to no more than +1.
 >
->Level 30:Increase one of a person's Characteristics by one point, to no more than +2.
+> Level 30: Increase one of a person's Characteristics by one point, to no more than +2.
 
 **Blessing of Urban Wisdom for the Rustic**<br>
 GvB1 Level 20<br>
@@ -3339,29 +3352,29 @@ This spell gives the target +2 to his score in the Ability Single Weapon. Althou
 
 #### Take Blessing
 
->#### Take Blessing Guidelines
+> ### Take Blessing Guidelines
 >
->Take Blessing spells nullify the Virtues, Abilities, or Characteristics of a character until the spell expires or the prohibition placed on him is fulfilled. Any Virtue removed must meet the guidelines discussed before. The caster need not know the Virtues, Abilities, or Characteristic scores of the victim to cast a Take Blessing spell. The gruagach casts the spell at the level desired and informs the storyguide of how he wishes to harm the Target. The storyguide then selects the most appropriate Virtue, Characteristic, or Ability score to nullify. A spell that targets a Major Virtue, if none are available, can affect a Minor Virtue, Characteristic, or Ability. If multiple things fulfill the requirements of the spell, the storyguide selects the one that best fits the story. The prohibition that accompanies the spell must be tied to the character, the Characteristic, the Virtue, and the story.
+> Take Blessing spells nullify the Virtues, Abilities, or Characteristics of a character until the spell expires or the prohibition placed on him is fulfilled. Any Virtue removed must meet the guidelines discussed before. The caster need not know the Virtues, Abilities, or Characteristic scores of the victim to cast a Take Blessing spell. The gruagach casts the spell at the level desired and informs the storyguide of how he wishes to harm the Target. The storyguide then selects the most appropriate Virtue, Characteristic, or Ability score to nullify. A spell that targets a Major Virtue, if none are available, can affect a Minor Virtue, Characteristic, or Ability. If multiple things fulfill the requirements of the spell, the storyguide selects the one that best fits the story. The prohibition that accompanies the spell must be tied to the character, the Characteristic, the Virtue, and the story.
 >
->Sweeping prohibitions are those that are simple to fulfill and are related to the Virtue, Ability, or Characteristic, making the curse easy to lift. For example, if a character is cursed with weakness and his Strength is reduced to 0, but the curse is lifted when the player adds the character's Strength score to an Ability, this would be a sweeping prohibition.
+> Sweeping prohibitions are those that are simple to fulfill and are related to the Virtue, Ability, or Characteristic, making the curse easy to lift. For example, if a character is cursed with weakness and his Strength is reduced to 0, but the curse is lifted when the player adds the character's Strength score to an Ability, this would be a sweeping prohibition.
 >
->General prohibitions are are uncommon, but not terribly difficult to fulfill and are related to the Virtue, Ability, or Characteristic, making the curse relatively easy to lift. For example, a character may be cursed with weakness and his Strength reduced to 0, which only remains in affect until the character bests another in a contest of Strength.
+> General prohibitions are are uncommon, but not terribly difficult to fulfill and are related to the Virtue, Ability, or Characteristic, making the curse relatively easy to lift. For example, a character may be cursed with weakness and his Strength reduced to 0, which only remains in affect until the character bests another in a contest of Strength.
 >
->Specific prohibitions are those that require unusual circumstances to fulfill, are related to the Virtue, Ability, or Characteristic, and make the curse difficult to lift. For example, if character could be cursed with weakness and his Strength reduced to 0, which is only lifted after the character suffers from a botch involving his Strength score.
+> Specific prohibitions are those that require unusual circumstances to fulfill, are related to the Virtue, Ability, or Characteristic, and make the curse difficult to lift. For example, if character could be cursed with weakness and his Strength reduced to 0, which is only lifted after the character suffers from a botch involving his Strength score.
 >
->If the Take Blessing spell overcomes the target's Magic Resistance, the target has the opportunity to resist it with a Stamina check against an Ease Factor of 9. The troupe then decides the appropriateness of the Virtue taken and the prohibition on it, and the victim's Stamina roll is modified according to the Poetic Justice modifiers listed before.
+> If the Take Blessing spell overcomes the target's Magic Resistance, the target has the opportunity to resist it with a Stamina check against an Ease Factor of 9. The troupe then decides the appropriateness of the Virtue taken and the prohibition on it, and the victim's Stamina roll is modified according to the Poetic Justice modifiers listed before.
 >
->All Take Blessing spells are cast with the Limit (Condition) or Geas (Condition) Duration. Those cast with Geas (Condition) Duration must also have a second Duration, as noted before, for the length of time that the penalty endures. A Take Blessing cast as a geas uses the greater of the two Duration modifiers in determining the spell's level. Spells with Limit (Condition) Duration are permanent unless the character fulfills the prohibition of the Blessing. The base level of all Blessing spells includes the Range of Conversation.
+> All Take Blessing spells are cast with the Limit (Condition) or Geas (Condition) Duration. Those cast with Geas (Condition) Duration must also have a second Duration, as noted before, for the length of time that the penalty endures. A Take Blessing cast as a geas uses the greater of the two Duration modifiers in determining the spell's level. Spells with Limit (Condition) Duration are permanent unless the character fulfills the prohibition of the Blessing. The base level of all Blessing spells includes the Range of Conversation.
 >
->An individual Take Blessing spell affects a particular area of endeavor, such as combat, negotiation, craft-work, athletics, and so on. This is broader than Give Blessing, but the caster cannot control exactly what is taken from the target.
+> An individual Take Blessing spell affects a particular area of endeavor, such as combat, negotiation, craft-work, athletics, and so on. This is broader than Give Blessing, but the caster cannot control exactly what is taken from the target.
 >
->Level 10: Take a Minor General or Supernatural (Magic) Virtue.
+> Level 10: Take a Minor General or Supernatural (Magic) Virtue.
 >
->Level 10: Reduce the score in a single Characteristic to 0.
+> Level 10: Reduce the score in a single Characteristic to 0.
 >
->Level 10: Reduce the score in a single Ability to 0.
+> Level 10: Reduce the score in a single Ability to 0.
 >
->Level 20: Take a Major General or Supernatural (Magic) Virtue.
+> Level 20: Take a Major General or Supernatural (Magic) Virtue.
 
 **Strike the Proud Low**<br>
 TaBl Level 25<br>
@@ -3389,49 +3402,49 @@ Gruagachan are able to inflict certain Flaws on a target to reduce his Character
 
 #### Give Curse
 
->#### Give Curse Guidelines
+> ### Give Curse Guidelines
 >
->This Form cannot affect some Flaws -Social Statuses, Story Flaws, and Hermetic, Divine, Infernal, or Faerie Flaws, for example, are unaffected. A curse may not inflict General Flaws that affect the accumulation of experience points, restrict specific types of Abilities from being learned, or relate to the character's wealth. The prohibition placed on the curse must be related to the Flaw, the character, or the story. Although the guidelines list Curse effects that do not require a prohibition, they are illustrative only. A curse without an accompanying prohibition may only exist as the punishment for violating a geas, because the geas provides the prohibition itself.
+> This Form cannot affect some Flaws -Social Statuses, Story Flaws, and Hermetic, Divine, Infernal, or Faerie Flaws, for example, are unaffected. A curse may not inflict General Flaws that affect the accumulation of experience points, restrict specific types of Abilities from being learned, or relate to the character's wealth. The prohibition placed on the curse must be related to the Flaw, the character, or the story. Although the guidelines list Curse effects that do not require a prohibition, they are illustrative only. A curse without an accompanying prohibition may only exist as the punishment for violating a geas, because the geas provides the prohibition itself.
 >
->Sweeping prohibitions are those that are simple to fulfill and are related to the Flaw, making the curse easy to lift. For example, if a character is cursed with Mute, but the curse is lifted the first time someone says the character's name, this would be a sweeping prohibition.
+> Sweeping prohibitions are those that are simple to fulfill and are related to the Flaw, making the curse easy to lift. For example, if a character is cursed with Mute, but the curse is lifted the first time someone says the character's name, this would be a sweeping prohibition.
 >
->General prohibitions are those that are uncommon, but not terribly difficult to fulfill and are related to the Flaw, making the curse relatively easy to lift. For example, if a character is cursed with a Mute Flaw that only remains in affect until the character hears the caster's name, this would be a general prohibition.
+> General prohibitions are those that are uncommon, but not terribly difficult to fulfill and are related to the Flaw, making the curse relatively easy to lift. For example, if a character is cursed with a Mute Flaw that only remains in affect until the character hears the caster's name, this would be a general prohibition.
 >
->Specific prohibitions are those that require unusual circumstances to fulfill, are related to the Flaw, and make the curse difficult to lift. For example, if a character is cursed with a Flaw of Mute that can only lifted after the character hears someone express extreme gratitude for the character's selfless act, it would be a specific prohibition.
+> Specific prohibitions are those that require unusual circumstances to fulfill, are related to the Flaw, and make the curse difficult to lift. For example, if a character is cursed with a Flaw of Mute that can only lifted after the character hears someone express extreme gratitude for the character's selfless act, it would be a specific prohibition.
 >
->If the Give Curse spell overcomes the target's Magic Resistance, the target has the chance to resist it with a Stamina check against an Ease Factor of 9. The troupe then decides the appropriateness of the Curse and the prohibition on it. The victim's Stamina roll is then modified according to the Poetic Justice modifiers listed before.
+> If the Give Curse spell overcomes the target's Magic Resistance, the target has the chance to resist it with a Stamina check against an Ease Factor of 9. The troupe then decides the appropriateness of the Curse and the prohibition on it. The victim's Stamina roll is then modified according to the Poetic Justice modifiers listed before.
 >
->All Give Curse spells must have either the Geas or Limit Duration. Those with a Geas Duration may use any available Duration for the duration of the Curse inflicted if the geas is broken, in the normal way. In particular, the curse may have a Limit Duration. All Guidelines are for a Range of Conversation.
+> All Give Curse spells must have either the Geas or Limit Duration. Those with a Geas Duration may use any available Duration for the duration of the Curse inflicted if the geas is broken, in the normal way. In particular, the curse may have a Limit Duration. All Guidelines are for a Range of Conversation.
 >
->An individual Give Curse spell affects a particular Ability, disease, Flaw, sense, and so on. Spells to curse Intelligence and Perception are different spells, and must be learned separately.
+> An individual Give Curse spell affects a particular Ability, disease, Flaw, sense, and so on. Spells to curse Intelligence and Perception are different spells, and must be learned separately.
 >
->Level 5: Modify the score in a single Ability by −1.
+> Level 5: Modify the score in a single Ability by −1.
 >
->Level 5: Inflict Minor General, Supernatural (Magic), or Personality Flaw.
+> Level 5: Inflict Minor General, Supernatural (Magic), or Personality Flaw.
 >
->Level 10: Inflict a minor disease.
+> Level 10: Inflict a minor disease.
 >
->Level 10: Modify the score in a single Ability by -2.
+> Level 10: Modify the score in a single Ability by -2.
 >
->Level 15: Cripple a limb, making it unusable (but still capable of healing as a Medium Wound.)
+> Level 15: Cripple a limb, making it unusable (but still capable of healing as a Medium Wound.)
 >
->Level 15: Disable one of a person's minor senses. It heals as a Medium Wound.
+> Level 15: Disable one of a person's minor senses. It heals as a Medium Wound.
 >
->Level 15: Inflict a serious disease.
+> Level 15: Inflict a serious disease.
 >
->Level 15: Modify the score in a single Ability by -3.
+> Level 15: Modify the score in a single Ability by -3.
 >
->Level 15: Modify the score in a single Characteristic by -1.
+> Level 15: Modify the score in a single Characteristic by -1.
 >
->Level 15:Inflict Major General, Supernatural (Magic), or Personality Flaw.
+> Level 15: Inflict Major General, Supernatural (Magic), or Personality Flaw.
 >
->Level 20: Disable one of a person's major senses. It heals as a Heavy Wound.
+> Level 20: Disable one of a person's major senses. It heals as a Heavy Wound.
 >
->Level 20: Inflict a major disease.
+> Level 20: Inflict a major disease.
 >
->Level 20: Modify the score in a single Characteristic by –2.
+> Level 20: Modify the score in a single Characteristic by –2.
 >
->Level 25: Modify the score in a single Characteristic by –3.
+> Level 25: Modify the score in a single Characteristic by –3.
 
 **GEAS FOR THE NARCISSISTIC MAIDEN**<br>
 GvCu Level 15<br>
@@ -3441,7 +3454,7 @@ The spell inflicts the Minor Flaw Disfigured on a victim. Although this example 
 
 *Example: To punish a vain maiden for spurning his advances, the gruagach casts a geas that commands her act with humility or she will regret doing so thereafter. The curse that accompanies the geas gives the target the Minor Flaw Disfigured until the victim makes a heartfelt apology to someone (general prohibition). The target must make a Stamina roll against an Ease Factor of 9 with a modifier of -6 because of the appropriateness of the geas and curse.*
 
-(Base 5, +2 Geas (general, Limit (general))
+(Base 5, +2 Geas (general), Limit (general))
 
 **Geas of Retribution for the Unthinking Slap** <br>
 GvCu Level 25<br>
@@ -3451,9 +3464,9 @@ The spell cripples one arm of the target if he breaks the geas, until it heals n
 
 *Example: When words become heated between a gruagach and magus, a shield grog raises his hand as a threat against the hedge wizard. The gruagach casts a geas on the grog and warns him, "If you raise your hand again at me, you will lose it." The curse accompanying the geas causes the victim to lose all use of his sword arm. The grog may resist the geas with a Stamina roll against an Ease Factor of 9, with a modifier of -3 because of the appropriateness of the geas and curse.*
 
-(Base 15, +2 Geas (general, Momentary)
+(Base 15, +2 Geas (general), Momentary)
 
-**Curse for the Spied Spy**<br> 
+**Curse for the Spied Spy**<br>
 GvCu Level 35<br>
 R: Voice, D: Limit, T: Ind
 
@@ -3463,7 +3476,7 @@ The spell blinds the target until the Condition of the spell is fulfilled or it 
 
 (Base 20, +1 Voice, +2 Limit (general))
 
-**Curse for the Unjust Justice**<br> 
+**Curse for the Unjust Justice**<br>
 GvCu Level 25<br>
 R: Conversation, D: Limit, T: Blood
 
@@ -3475,17 +3488,17 @@ The spell curses a bloodline with the Minor Flaw Judged Unfairly for the duratio
 
 #### Take Curse
 
->#### Take Curse Guidelines
+> ### Take Curse Guidelines
 >
->Take Curse spells are dangerous to cast. If a gruagach fails to remove a curse, the caster suffers the effects of the curse also. If the caster botches while attempting to remove a curse, he is afflicted with a morepowerful version of the curse that is specifically tailored to him. The base parameters for Take Curse spells are Conversation, Momentary, and Individual.
+> Take Curse spells are dangerous to cast. If a gruagach fails to remove a curse, the caster suffers the effects of the curse also. If the caster botches while attempting to remove a curse, he is afflicted with a morepowerful version of the curse that is specifically tailored to him. The base parameters for Take Curse spells are Conversation, Momentary, and Individual.
 >
->Hermetic magic may dispel curses using the normal guidelines in ArM5, page 160. A magus must have some knowledge of gruagach magic to invent a specific Perdo Vim spell to dispel it. The storyguide determines when the magus has sufficient knowledge to invent a spell to counteract gruagach magic. Several encounters with gruagachan magicians should be sufficient knowledge, but also Area Lore (Scottish Highlands) 2 or Magic Lore 5 would be appropriate. Perdo Vim spells designed to dispel all magic can be used without knowledge, but they are substantially weaker at the same level.
+> Hermetic magic may dispel curses using the normal guidelines in ArM5, page 160. A magus must have some knowledge of gruagach magic to invent a specific Perdo Vim spell to dispel it. The storyguide determines when the magus has sufficient knowledge to invent a spell to counteract gruagach magic. Several encounters with gruagachan magicians should be sufficient knowledge, but also Area Lore (Scottish Highlands) 2 or Magic Lore 5 would be appropriate. Perdo Vim spells designed to dispel all magic can be used without knowledge, but they are substantially weaker at the same level.
 >
->General: Determine the terms of a curse and the prohibition it carries.
+> General: Determine the terms of a curse and the prohibition it carries.
 >
->General: Remove a curse the caster has inflicted on someone.
+> General: Remove a curse the caster has inflicted on someone.
 >
->General: Remove a curse, hex, or continuing spell cast by another.
+> General: Remove a curse, hex, or continuing spell cast by another.
 
 **Question the Cursed**<br>
 TaCu Level Gen<br>
@@ -3509,27 +3522,27 @@ This Form allows a gruagach to alter the physical shape of another or herself. G
 
 #### Give Shape
 
->##### Give Shape Guidelines
+> ### Give Shape Guidelines
 >
->Give Shape spells are only effective on a willing recipient. Any target may decide to refuse the change as the spell begins to take effect; in general, this gives the target a general idea of the final form, but it may be slightly misleading. For example, a spell to grant wings would be easy to confuse with a spell to turn one into a bird, unless the target had experience of both. Once the target has decided to accept the change, he cannot change his mind later, nor dispel the effect before its duration ends.
+> Give Shape spells are only effective on a willing recipient. Any target may decide to refuse the change as the spell begins to take effect; in general, this gives the target a general idea of the final form, but it may be slightly misleading. For example, a spell to grant wings would be easy to confuse with a spell to turn one into a bird, unless the target had experience of both. Once the target has decided to accept the change, he cannot change his mind later, nor dispel the effect before its duration ends.
 >
->Level 1: Change someone to give them a minor ability derived from another creature's shape, such as eyes of cat to allow night vision or eyes of an eagle to grant Keen Vision. While the transformation is in effect, the character suffers from the Flaw Social Handicap because of her obviously unnatural appearance.
+> Level 1: Change someone to give them a minor ability derived from another creature's shape, such as eyes of cat to allow night vision or eyes of an eagle to grant Keen Vision. While the transformation is in effect, the character suffers from the Flaw Social Handicap because of her obviously unnatural appearance.
 >
->Level 2: Increase a human's Size to no more than +3.
+> Level 2: Increase a human's Size to no more than +3.
 >
->Level 3: Turn a human into a land animal.
+> Level 3: Turn a human into a land animal.
 >
->Level 3: Turn a human into a land animal. Level 4: Give someone an aspect of another shape that grants a significant ability, such as the strength of a bear or the wings of a bird for flight. While the transformation is in effect, the character suffers a –6 penalty to all rolls involving trust because of her monstrous appearance.
+> Level 3: Turn a human into a land animal. Level 4: Give someone an aspect of another shape that grants a significant ability, such as the strength of a bear or the wings of a bird for flight. While the transformation is in effect, the character suffers a –6 penalty to all rolls involving trust because of her monstrous appearance.
 >
->Level 5: Turn a human into a bird or fish. Level 5: Change an animal into another animal.
+> Level 5: Turn a human into a bird or fish. Level 5: Change an animal into another animal.
 >
->Level 5: Increase a human's Size to no more than +5.
+> Level 5: Increase a human's Size to no more than +5.
 >
->Level 10: Turn a human into a solid inanimate object.
+> Level 10: Turn a human into a solid inanimate object.
 >
->Level 10: Turn a human into a plant.
+> Level 10: Turn a human into a plant.
 >
->Level 15: Turn a human into an insubstantial object.
+> Level 15: Turn a human into an insubstantial object.
 
 **Borrow the Nose of the Hound**<br>
 GvSh Level 3<br>
@@ -3547,7 +3560,7 @@ The caster's arms turns into giant wings. The gruagach is able to fly as quickly
 
 (Base 4, +2 Sun)
 
-**Assume the Form of the Ancestors**<br> 
+**Assume the Form of the Ancestors**<br>
 GvSh Level 15 <br>
 R: Per, D: Sun, T: Ind
 
@@ -3557,25 +3570,25 @@ For the duration of the spell, the caster grows to giant size. The character's S
 
 #### Take Shape
 
->#### Take Shape Guidelines
+> ### Take Shape Guidelines
 >
->Take Shape spells allow the caster to assume the form of creatures in her presence or to force another to take some foreign shape. If a Take Shape spell overcomes a character's Magic Resistance, the character may still resist the effects with a Stamina roll against an Ease Factor of 9. The Stamina roll is modified by any appropriate Personality Trait. For example, a greedy or gluttonous character is transformed more easily into a pig or wolverine, both known for their voracious appetites. Similarly, it is more difficult to turn a very brave character into a mouse, rabbit, or other skittish creature. For example, if a gruagach cast a spell to transform a character with the Personality Trait of Brave +3 into a mouse, the player would need to succeed at an Ease Factor of 6 to resist, while a character with the Personality Trait of Brave –3 would resist the transformation against an Ease Factor of 12.
+> Take Shape spells allow the caster to assume the form of creatures in her presence or to force another to take some foreign shape. If a Take Shape spell overcomes a character's Magic Resistance, the character may still resist the effects with a Stamina roll against an Ease Factor of 9. The Stamina roll is modified by any appropriate Personality Trait. For example, a greedy or gluttonous character is transformed more easily into a pig or wolverine, both known for their voracious appetites. Similarly, it is more difficult to turn a very brave character into a mouse, rabbit, or other skittish creature. For example, if a gruagach cast a spell to transform a character with the Personality Trait of Brave +3 into a mouse, the player would need to succeed at an Ease Factor of 6 to resist, while a character with the Personality Trait of Brave –3 would resist the transformation against an Ease Factor of 12.
 >
->General: Cause someone to revert to his true form at Conversation Range.
+> General: Cause someone to revert to his true form at Conversation Range.
 >
->Level 5: Turn a human into a land animal.
+> Level 5: Turn a human into a land animal.
 >
->Level 5: Perfectly mimic the appearance
+> Level 5: Perfectly mimic the appearance
 >
->Level 5: Perfectly mimic the appearance of another person.
+> Level 5: Perfectly mimic the appearance of another person.
 >
->Level 5: Change one animal into another. Level 15: Turn a human into a bird or fish.
+> Level 5: Change one animal into another. Level 15: Turn a human into a bird or fish.
 >
->Level 20: Turn a human into a solid inanimate object.
+> Level 20: Turn a human into a solid inanimate object.
 >
->Level 20: Turn a human into a plant.
+> Level 20: Turn a human into a plant.
 >
->Level 25: Turn a human into an insubstantial object.
+> Level 25: Turn a human into an insubstantial object.
 
 **Return the Lycanthrope to his Native Form**<br>
 TaSh Level Gen<br>
@@ -3585,7 +3598,7 @@ If the level of the spell plus a single stress die meets or exceeds double the l
 
 (Base)
 
-**Turn the Man into his Appropriate Form**<br> 
+**Turn the Man into his Appropriate Form**<br>
 TaSh Level 20<br>
 R: Conversation, D: Sun, T: Ind
 
@@ -3603,19 +3616,19 @@ The spell does not allow the caster to mimic the victim's voice or mannerisms. A
 
 (Base 5, +1 Conversation, +2 Sun)
 
->#### Gruagachan Form & Technique Story Seeds
+> ### Gruagachan Form & Technique Story Seeds
 >
->**THE MAKER OF MAGICIANS**
+> **THE MAKER OF MAGICIANS**
 >
->Apowerful gruagach loses his mind and builds an army of gruagachan, using Give Blessing to give his minions the gruagach Techniques and Forms. Other gruagachan see this as an affront to their tradition, but because of the size of his army, they are powerless to stop him. These gruagachan approach the characters for help.
+> Apowerful gruagach loses his mind and builds an army of gruagachan, using Give Blessing to give his minions the gruagach Techniques and Forms. Other gruagachan see this as an affront to their tradition, but because of the size of his army, they are powerless to stop him. These gruagachan approach the characters for help.
 >
->**Cursed If You Do ...**
+> **Cursed If You Do ...**
 >
->A gruagach curses an ally of the covenant, who then asks the characters for assistance. The curse is too strong for the characters to dispel with general Perdo Vim, so if the characters are unfamiliar with gruagach magic, they must acquire some knowledge of it before removing the curse. If the characters remove the curse, the gruagach discovers their actions, devises a more punitive curse for their ally, and seeks revenge against the covenant for allowing their ally to subvert "justice."
+> A gruagach curses an ally of the covenant, who then asks the characters for assistance. The curse is too strong for the characters to dispel with general Perdo Vim, so if the characters are unfamiliar with gruagach magic, they must acquire some knowledge of it before removing the curse. If the characters remove the curse, the gruagach discovers their actions, devises a more punitive curse for their ally, and seeks revenge against the covenant for allowing their ally to subvert "justice."
 >
->**Pig in a Poke**
+> **Pig in a Poke**
 >
->An apprentice gruagach transforms into fine specimens of various animals, and has his father sell him at market. The gruagach later escapes his purchasers and returns to his father. A character visits the market and purchases the apprentice, believing the transformed gruagach to be a magical animal suitable as a familiar or for extracting the vis that he believes the animal to possess. When the apprentice does not return, his father reports the absence and the gruagach's master investigates.
+> An apprentice gruagach transforms into fine specimens of various animals, and has his father sell him at market. The gruagach later escapes his purchasers and returns to his father. A character visits the market and purchases the apprentice, believing the transformed gruagach to be a magical animal suitable as a familiar or for extracting the vis that he believes the animal to possess. When the apprentice does not return, his father reports the absence and the gruagach's master investigates.
 
 ### Vision Spells
 
@@ -3623,23 +3636,23 @@ Gruagachan using Vision spells are able to control a person's perception of the 
 
 #### Give Vision
 
->#### Give Vision Guidelines
+> ### Give Vision Guidelines
 >
->Unlike Hermetic Imaginem spells, Give Vision spells only affect sight and sound. At their lowest levels , they are relatively simple by Hermetic standards. Complex illusions — those going beyond simple images or sounds — require an additional magnitude. Images that move or change at the direction of the caster are 2 magnitudes higher. In general, the effects of Give Vision spells are governed by Creo or Rego Imaginem spells, and those guidelines apply here.
+> Unlike Hermetic Imaginem spells, Give Vision spells only affect sight and sound. At their lowest levels , they are relatively simple by Hermetic standards. Complex illusions — those going beyond simple images or sounds — require an additional magnitude. Images that move or change at the direction of the caster are 2 magnitudes higher. In general, the effects of Give Vision spells are governed by Creo or Rego Imaginem spells, and those guidelines apply here.
 >
->Grant Vision spells granting Visions or Premonitions are more focused than the respective Flaw and Virtue. The caster must select a specific issue or question to which all the visions must relate. Appropriate subjects include: the target's true love, the target's sworn enemy, a person's journey, or the like.
+> Grant Vision spells granting Visions or Premonitions are more focused than the respective Flaw and Virtue. The caster must select a specific issue or question to which all the visions must relate. Appropriate subjects include: the target's true love, the target's sworn enemy, a person's journey, or the like.
 >
->Level 1: Create an image that affects sight or sound.
+> Level 1: Create an image that affects sight or sound.
 >
->Level 2: Create an image that affects sight and sound.
+> Level 2: Create an image that affects sight and sound.
 >
->Level 2: Make an object appear or sound like it is up to one pace away from its actual position.
+> Level 2: Make an object appear or sound like it is up to one pace away from its actual position.
 >
->Level 3: Make objects appear to move rapidly in a disorienting way.
+> Level 3: Make objects appear to move rapidly in a disorienting way.
 >
->Level 5: Grant a person the Flaw Visions, which only applies to a single question or topic.
+> Level 5: Grant a person the Flaw Visions, which only applies to a single question or topic.
 >
->Level 10: Grant a person the Virtue Premonitions with an Ability score of 4, which only applies to a particular type of danger.
+> Level 10: Grant a person the Virtue Premonitions with an Ability score of 4, which only applies to a particular type of danger.
 
 **Grant a Glimpse of the Future**<br>
 GvVs Level 30<br>
@@ -3649,7 +3662,7 @@ When this spell is cast, the recipient receives hints, visions, and images that 
 
 (Base 10, +1 Conversation, +3 Moon)
 
-**Create the Hunter's Blind**<br> 
+**Create the Hunter's Blind**<br>
 GvVs Level 10<br>
 R: Voice, D: Sun, T: Group
 
@@ -3659,23 +3672,23 @@ This spell covers a small group of people with an illusion of boulders, bushes, 
 
 #### Take Vision
 
->#### Take Vision Guidelines
+> ### Take Vision Guidelines
 >
->Take Vision spells are governed by the guidelines covering Intellego and Perdo Imaginem spells. Like all Vision spells, they only affect sight and sound. For spells that allow a character to use a sense at a distance, the gruagach sends out his fetch to reconnoiter. This has little effect on the practical application of the spell, except that any character with Second Sight sees the gruagachs fetch.
+> Take Vision spells are governed by the guidelines covering Intellego and Perdo Imaginem spells. Like all Vision spells, they only affect sight and sound. For spells that allow a character to use a sense at a distance, the gruagach sends out his fetch to reconnoiter. This has little effect on the practical application of the spell, except that any character with Second Sight sees the gruagachs fetch.
 >
->General: Discern illusions caused by spells of equal or lower level than the level of this spell (Vision Target).
+> General: Discern illusions caused by spells of equal or lower level than the level of this spell (Vision Target).
 >
->General: Dispel illusions caused by spells with a level less than or equal to the spell's level + a stress die (Voice Range).
+> General: Dispel illusions caused by spells with a level less than or equal to the spell's level + a stress die (Voice Range).
 >
->Level 1: Use one sense at a distance.
+> Level 1: Use one sense at a distance.
 >
->Level 1: Detect the presence of vis.
+> Level 1: Detect the presence of vis.
 >
->Level 2: Use two senses at a distance.
+> Level 2: Use two senses at a distance.
 >
->Level 3: Destroy an object's ability to affect hearing.
+> Level 3: Destroy an object's ability to affect hearing.
 >
->Level 4: Destroy an object's ability to affect sight.
+> Level 4: Destroy an object's ability to affect sight.
 
 **Eeavesdrop with the Eyes**<br>
 TaVs Level 10<br>
@@ -3693,7 +3706,7 @@ The spell allows a gruagachs fetch to identify the location of nearby vis. If th
 
 (Base 1, +1 Diameter, +3 Sound)
 
-**Cloak for the Thief in the Night**<br> 
+**Cloak for the Thief in the Night**<br>
 TaVs Level 25<br>
 R: Conversation, D: Sun, T: Ind
 
@@ -3705,15 +3718,13 @@ When the caster hangs a cloak on the target, he becomes incapable of producing s
 
 Gruagachan expose themselves to various magical dangers every time they cast a spell.
 
-### Botches
+#### Botches
 
 The botches of gruagachan are similar to those for Hermetic magi, and the general guidelines one would use for Hermetic spells are applicable here. Botches involving Blessing and Curse spells may cause the intended target to act in opposition to the intended restriction, or the spell may be cast on an unintended target. Shape spells may cause the target to take an incorrect form, change the shape of a different target, or have a wildly different duration than the caster intended. Vision spells have the potential of providing false predictions. Although all botches have the potential to expose the character to Warping, Vision spells are even more likely to do this, and every Vision botch inflicts double the normal Warping Points (ArM5, page 167).
 
 #### Transformation
 
-Both Gifted and unGifted gruagachan suffer from the effects of Warping. Transformation is the gruagach equivalent of Wizard's Twilight, and replaces the normal rules for Warping. This transformation is referred
-
-to as the Curse of Gruagach, which, it is said, he inflicts on wizards who overuse the gift of his magic. A gruagach who suffers the Curse of Gruagach can lose his humanity, and as the gruagach accumulates Warping points he slowly, inexorably becomes more a creature of magic and less human until finally the character becomes a troll.
+Both Gifted and unGifted gruagachan suffer from the effects of Warping. Transformation is the gruagach equivalent of Wizard's Twilight, and replaces the normal rules for Warping. This transformation is referred to as the Curse of Gruagach, which, it is said, he inflicts on wizards who overuse the gift of his magic. A gruagach who suffers the Curse of Gruagach can lose his humanity, and as the gruagach accumulates Warping points he slowly, inexorably becomes more a creature of magic and less human until finally the character becomes a troll.
 
 As a gruagach accumulates Warping Points, he steadily acquires the mental and physical characteristics of a troll until he becomes one. Whena gruagach receives two or more Warping Points from a single botch, or suffers any other powerful magical effect that the storyguide determines is appropriate, he may suffer a transformation. The gruagach has one opportunity to avoid the effect.
 
@@ -3721,7 +3732,7 @@ As a gruagach accumulates Warping Points, he steadily acquires the mental and ph
 
 If the character avoids transformation, nothing negative happens. The character merely concentrates and focuses his attention on his body momentarily. However, if the character cannot avoid transformation, he moves closer to his magical heritage in either positive or negative ways.
 
-#### Effects of Transforamtion 
+#### Effects of Transforamtion
 
 A gruagach who undergoes a transformation may develop a deeper understanding of his magic or acquire some attribute of a troll. If he succeeds at his Understanding Transformation roll, the experience is good. If he fails, the experience is bad. The storyguide should select an appropriate effect from those given later in this section.
 
@@ -3799,15 +3810,15 @@ Because the gruagachan are descended from the priesthood of the god Gruagach, th
 
 Most Gifted gruagachan are pagan and secretly worship Gruagach and the gods of the Picti. For unGifted gruagachan, there is a wide degree of religious variance. Some pay lip service to the veneration of Gruagach, while maintaining their Christian beliefs, to gain access to more magical training. Others recognize that the Dominion aura interferes with their magic, and abandon the Church completely to follow the Old Ways. Gruagachan are sensitive to the teachings of the Church regarding magic and do their best to hide their pagan ways. Devout individuals, even those with an aptitude for gruagach magic, are seldom approached for fear of raising the interest of local religious authorities.
 
->#### The God Gruagach and the Faerie Gruagachan
+> ### The God Gruagach and the Faerie Gruagachan
 >
->When the Picti people encountered Gruagach, he was a magical entity concerned only with the sun, plants, and animals. The Picti worshiped Gruagach in hopes of gaining favorable weather for their crops and increasing the fecundity of their herds of cattle. The Picti eventually came to consider Gruagach the god of cattle and agriculture, and provided oblations in the form of sacrifices of milk and cattle.
+> When the Picti people encountered Gruagach, he was a magical entity concerned only with the sun, plants, and animals. The Picti worshiped Gruagach in hopes of gaining favorable weather for their crops and increasing the fecundity of their herds of cattle. The Picti eventually came to consider Gruagach the god of cattle and agriculture, and provided oblations in the form of sacrifices of milk and cattle.
 >
->It is possible that this increased emphasis on human affairs created a Faerie version of Gruagach. As Christianity overtook the pagan religions and the Picti ceased to exist as an independent people, the god Gruagach was forgotten, but the practice of sacrificing milk in his name remained.
+> It is possible that this increased emphasis on human affairs created a Faerie version of Gruagach. As Christianity overtook the pagan religions and the Picti ceased to exist as an independent people, the god Gruagach was forgotten, but the practice of sacrificing milk in his name remained.
 >
->In Mythic Europe, many Scottish dairy farms have indentations chiseled out of stone where a farmer pours a small amount of milk for a "gruagach." The Scots believe that the gruagachan are small faeries, about the height of a man's knee, with long hair and dressed in gentleman's clothes. The faerie gruagachan can cause milk to curdle or cows to go dry, if they are not given proper respect. If the farmers offer the faeries milk daily, they ensure that the cream rises and the farm's cows are productive.
+> In Mythic Europe, many Scottish dairy farms have indentations chiseled out of stone where a farmer pours a small amount of milk for a "gruagach." The Scots believe that the gruagachan are small faeries, about the height of a man's knee, with long hair and dressed in gentleman's clothes. The faerie gruagachan can cause milk to curdle or cows to go dry, if they are not given proper respect. If the farmers offer the faeries milk daily, they ensure that the cream rises and the farm's cows are productive.
 >
->The exact nature of Gruagach, his relationship with the gruagachan faeries, and his degree of interaction with the gruagach wizards in the saga is left to the discretion of the troupe.
+> The exact nature of Gruagach, his relationship with the gruagachan faeries, and his degree of interaction with the gruagach wizards in the saga is left to the discretion of the troupe.
 
 #### Oorganization of the Gruagachan
 
@@ -3827,7 +3838,7 @@ This is a variant of the Hedge Tradition Covenant Boon (see Covenants page 21).
 
 The covenant has significant control over a nearby gruagach collective. The collective uses its close ties to the community to provide useful information to the covenant about events in the countryside, trades vis with the covenant, and warns the covenant of magical events in the area. Its members also provide minor magical aid on a regular basis, and fight for the covenant if there is a crisis.
 
-#### Major Covenant Hook: Hostile Gruagach Collective 
+#### Major Covenant Hook: Hostile Gruagach Collective
 
 Take this Hookif the troupe would like to experiment with gruagach magic before any of the players decide to create a gruagach character.
 
@@ -3849,116 +3860,118 @@ One or more gruagachan live in the covenant. Unless the covenant hides the gruag
 
 Some gruagachan are nominally members of the Order of Hermes. They continue to practice their geas magic, but have joined the Order to avoid persecution or enjoy the benefits of Parma Magica. A nominal Hermetic gruagach character should take the Flaw Hedge Wizard and the Virtue Arcane Lore. The 50 experience points from the Arcane Lore can be used to learn any Arcane Abilities, but the character should have minimum scores of 1 in Code of Hermes and Parma Magica. Otherwise, the player generates the gruagach exactly as described earlier.
 
->#### Domhnall the Gruagach Master
+> ### Domhnall the Gruagach Master
 >
->Characteristics: Int +2, Per 0, Pre +2, Com 0, Str +1, Sta +2, Dex 0, Qik 0
+> Characteristics: Int +2, Per 0, Pre +2, Com 0, Str +1, Sta +2, Dex 0, Qik 0
 >
->Size: +1 
+> Size: +1
 >
->Age: 31 
+> Age: 31
 >
->Decrepitude: 0 
+> Decrepitude: 0
 >
->Warping Score: 1 (2) 
+> Warping Score: 1 (2)
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Gift; Gruagach, Gruagach Master; Gentle Gift; Flexible Magic, Improved Characteristics, Large, Minor Magical Focus (self-transformation), Warrior, Envious, Waster of Vis, Careless Sorcerer, Close Family Ties, Pagan
+> Virtues and Flaws: The Gift; Gruagach, Gruagach Master; Gentle Gift; Flexible Magic, Improved Characteristics, Large, Minor Magical Focus (self-transformation), Warrior, Envious, Waster of Vis, Careless Sorcerer, Close Family Ties, Pagan
 >
->Personality Traits: Brave +3, Proud +2,
+> Personality Traits: Brave +3, Proud +2,
 >
->Reputations: Wise beyond his years 3 (local)
+> Reputations: Wise beyond his years 3 (local)
 >
->Combat:
+> Combat:
 >
->Cudgel (normal): Init 0, Attack +8, Defense +5, Damage +8
+> Cudgel (normal): Init 0, Attack +8, Defense +5, Damage +8
 >
->Cudgel (giant form): Init -3, Attack +8, Defense +2, Damage +16
+> Cudgel (giant form): Init -3, Attack +8, Defense +2, Damage +16
 >
->Soak: +4
+> Soak: +4
 >
->Fatigue Levels: OK,  $O_1$ , -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties (normal): -1 (1-6), -3 (7–12), –5 (13–18), Incapacitated (19– 24), Dead (25+)
+> Wound Penalties (normal): -1 (1-6), -3 (7–12), –5 (13–18), Incapacitated (19– 24), Dead (25+)
 >
->Wound Penalties (giant form): -1 (1-10), (31-40), -3 (11-20), -5 (21-30), Incapacitated (31-40), Dead (41+)
+> Wound Penalties (giant form): -1 (1-10), (31-40), -3 (11-20), -5 (21-30), Incapacitated (31-40), Dead (41+)
 >
->Abilities: Animal Handling 2 (cattle), Athletics 1 (running), Artes Liberales 1 (Ogham), Brawl 2 (punches), Charm 2 (ladies), Folk Ken 2 (nobles), Gaelic 5 (curses), Great Weapon 3 (cudgel), Gruagach Lore 2 (Initiations), Guile 2 (pretending to be ignorant), Highlands Lore 2 (legends), Magic Lore 2 (auras), Pictish 2 (religious), Thrown Weapon 1 (spear), Village Lore 2 (history)
+> Abilities: Animal Handling 2 (cattle), Athletics 1 (running), Artes Liberales 1 (Ogham), Brawl 2 (punches), Charm 2 (ladies), Folk Ken 2 (nobles), Gaelic 5 (curses), Great Weapon 3 (cudgel), Gruagach Lore 2 (Initiations), Guile 2 (pretending to be ignorant), Highlands Lore 2 (legends), Magic Lore 2 (auras), Pictish 2 (religious), Thrown Weapon 1 (spear), Village Lore 2 (history)
 >
->Arts: Gv 2, Ta 2, Bl 14, Cu 14, Sh 9, Vs 5 
+> Arts: Gv 2, Ta 2, Bl 14, Cu 14, Sh 9, Vs 5
 >
->Equipment: Partial heavy leather, survival kit, and cudgel.
+> Equipment: Partial heavy leather, survival kit, and cudgel.
 >
->Encumbrance: 1 (2) (in human form; none in giant form)
+> Encumbrance: 1 (2) (in human form; none in giant form)
 >
->Spells Known:
+> Spells Known:
 >
->Blessing of the Swordsman's Expertise (Great Weapon) (GvBl 20/+18)
+> Blessing of the Swordsman's Expertise (Great Weapon) (GvBl 20/+18)
 >
->Blessing of the Swordsman's Expertise (Single Weapon) (GvBl 20/+18)
+> Blessing of the Swordsman's Expertise (Single Weapon) (GvBl 20/+18)
 >
->Geas of the Narcissistic Maiden (GvCu 15/+18) Assume the Form of the Ancestors (GvSh 15/+15
+> Geas of the Narcissistic Maiden (GvCu 15/+18)
 >
->Create the Hunters' Blind (GvVs 10/+9)
+> Assume the Form of the Ancestors (GvSh 15/+15)
 >
->Vis: 2 pawns of Animal vis in the form of a deer's pelt thrown over his shoulder.
+> Create the Hunters' Blind (GvVs 10/+9)
 >
->Appearance: Domhnall is a large man with sandy brown hair and green eyes. He is fit and wears his leather armor whenever he expects trouble. He carries a large wooden cudgel with metal shanks on the end. He speaks with a booming voice and is quick to laugh. His tanned skin is starting to wrinkle.
+> Vis: 2 pawns of Animal vis in the form of a deer's pelt thrown over his shoulder.
+>
+> Appearance: Domhnall is a large man with sandy brown hair and green eyes. He is fit and wears his leather armor whenever he expects trouble. He carries a large wooden cudgel with metal shanks on the end. He speaks with a booming voice and is quick to laugh. His tanned skin is starting to wrinkle.
 >
 > Domhnall was born and raised in a small village in the Scottish highlands. He was discovered by his master when he was 10. After his apprenticeship, Domhnall was conscripted into a local army to fight the English. Although he excelled at fighting, he didn't have a taste for it and returned to the highlands soon as he could. When he came back, Domhnall discovered his master and fellow gruagachan were missing. Domhnall pines for a better life where he can use his magic to provide for himself and others, but he's unwilling to leave his village and his family to seek more students to assist him. Domhnall has had trouble convincing the few potential members of the community to become his students, and is considering asking Conall to leave with him to establish a new collective elsewhere.
 
->#### Conall the Gruagach
+> ### Conall the Gruagach
 >
->Characteristics: Int 0, Per +3, Pre -2, Com -2, Str 0, Sta +1, Dex +2, Qik +2
+> Characteristics: Int 0, Per +3, Pre -2, Com -2, Str 0, Sta +1, Dex +2, Qik +2
 >
->Size: 0 
+> Size: 0
 >
->Age: 25 
+> Age: 25
 >
->Decrepitude: 0 
->Warping Score: 0 
+> Decrepitude: 0
+> Warping Score: 0
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: Gruagach, Peasant; Give, Shapeshifter, Take, Shape, Warrior, Dark Secret, Restriction (cannot use magic while bald); Judged Unfairly, Mentor, No Magical Defenses, Unimaginative Learner, Weak Tattoo Magic
+> Virtues and Flaws: Gruagach, Peasant; Give, Shapeshifter, Take, Shape, Warrior, Dark Secret, Restriction (cannot use magic while bald); Judged Unfairly, Mentor, No Magical Defenses, Unimaginative Learner, Weak Tattoo Magic
 >
->Personality Traits: Loyal +2, Brave +1 Reputations: Unlucky 3 (local)
+> Personality Traits: Loyal +2, Brave +1 Reputations: Unlucky 3 (local)
 >
->Combat:
+> Combat:
 >
->Short Bow: Init -1, Attack +9, Defense +6, Damage +6
+> Short Bow: Init -1, Attack +9, Defense +6, Damage +6
 >
->Claws (in bear form): Init 0, Attack +13, Defense +9, Damage +10
+> Claws (in bear form): Init 0, Attack +13, Defense +9, Damage +10
 >
->Soak: +3 (+10 in bear form)
+> Soak: +3 (+10 in bear form)
 >
->Fatigue Levels: OK, 0, -1, Unconscious
+> Fatigue Levels: OK, 0, -1, Unconscious
 >
->Wound Penalties (normal): -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties (normal): -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Wound Penalties (bear form): -1 (1-7), -3 (8-14), -5 (15-21), Incapacitated (22-28), Dead (29+)
+> Wound Penalties (bear form): -1 (1-7), -3 (8-14), -5 (15-21), Incapacitated (22-28), Dead (29+)
 >
->Abilities: Athletics 1 (climbing), Awareness 3 (highlands), Bows 4 (shooting from cover), Brawl 3 (dodging), Gaelic 5 (defending himself), Gruagach Lore 1 (history), Hunt 5 (deer), Magic Lore 1 (animals), Pictish 2 (traditions), Shapeshifter 4 (bear), Stealth 3 (ambushes), Survival 4 (highlands), Village Lore 2 (game trails)
+> Abilities: Athletics 1 (climbing), Awareness 3 (highlands), Bows 4 (shooting from cover), Brawl 3 (dodging), Gaelic 5 (defending himself), Gruagach Lore 1 (history), Hunt 5 (deer), Magic Lore 1 (animals), Pictish 2 (traditions), Shapeshifter 4 (bear), Stealth 3 (ambushes), Survival 4 (highlands), Village Lore 2 (game trails)
 >
->Arts: Gv 1, Ta 1, Bl (n/a), Cu (n/a), Sh 10,  Vs (n/a)
+> Arts: Gv 1, Ta 1, Bl (n/a), Cu (n/a), Sh 10, Vs (n/a)
 >
->Equipment: Partial heavy leather armor, short bow, arrows, and survival kit.
+> Equipment: Partial heavy leather armor, short bow, arrows, and survival kit.
 >
->Encumbrance: 2 (2)
+> Encumbrance: 2 (2)
 >
->Spells Known:
+> Spells Known:
 >
->Borrow the Nose of the Hound (GvSh 3/+12) 
+> Borrow the Nose of the Hound (GvSh 3/+12)
 >
->Borrow the Eyes of the Cat (GvSh 5/+12) (Voice Range)
+> Borrow the Eyes of the Cat (GvSh 5/+12) (Voice Range)
 >
->Borrow the Wings of the Eagle (GvSh 10/+12) 
+> Borrow the Wings of the Eagle (GvSh 10/+12)
 >
->Turn the Man into his Appropriate Form (TaSh 20/+12)
+> Turn the Man into his Appropriate Form (TaSh 20/+12)
 >
->Appearance: Conall is a medium-built man with long, unkempt black hair. His pale blue eyes are barely visible behind the falling hair. Conall frequently dresses in his leather and seldom is far from his bow. He shifts nervously when talking.
+> Appearance: Conall is a medium-built man with long, unkempt black hair. His pale blue eyes are barely visible behind the falling hair. Conall frequently dresses in his leather and seldom is far from his bow. He shifts nervously when talking.
 >
->Conall was born in the same village as Domhnall. Ever since Conall can remember, people have blamed him for every mishap, accident, or stroke of bad luck. Conall need not be anywhere near the accident, and he still receives the blame. Conall dealt with this by spending as little time around people as possible, wandering the highlands looking for game. When Conall grew lonely he sought out Domhnall, who was one of the few people willing to talk to him. When Domhnall returned from his conscription, they began to spend more time together. Domhnall has been instructing him in the ways of the gruagachan for five years. Conall was never very devout and was willing to learn the ways of the gruagachan. He took to Domhnall's teaching quickly, and was inspired by the gruagach ethic to fight injustice. Conall yearns to prevent people from being falsely accused as he so often is.
+> Conall was born in the same village as Domhnall. Ever since Conall can remember, people have blamed him for every mishap, accident, or stroke of bad luck. Conall need not be anywhere near the accident, and he still receives the blame. Conall dealt with this by spending as little time around people as possible, wandering the highlands looking for game. When Conall grew lonely he sought out Domhnall, who was one of the few people willing to talk to him. When Domhnall returned from his conscription, they began to spend more time together. Domhnall has been instructing him in the ways of the gruagachan for five years. Conall was never very devout and was willing to learn the ways of the gruagachan. He took to Domhnall's teaching quickly, and was inspired by the gruagach ethic to fight injustice. Conall yearns to prevent people from being falsely accused as he so often is.
 
 ## Alternate Traditions
 
@@ -4004,12 +4017,12 @@ Trollsynir often possess one or more of the following Virtues: Mythic Herbalism,
 
 ### Kolduni
 
-**Required Flaws:** No Tattoo Magic <br> 
+**Required Flaws:** No Tattoo Magic <br>
 **Arts and Favored Abilities:** All Gruagach Arts, Animal Ken, and Mythic Herbalism
 
 In the wild areas of the Novgorod Tribunal, pagan wizards live on the outskirts of peasant society. These wizards exchange their services in removing curses, healing the injured, and acting as intermediaries with the Faerie world for the staples of life. These pagan wizards are known as kolduni (singular: koldun).
 
-#### History and Cutlure
+#### History and Culture
 
 Peasants in the countryside throughout the Novgorod Tribunal openly worship pagan gods. Here the faerie powers are more prevalent than in the more civilized parts of Mythic Europe. The kolduni gain access to their powers from contact with these faeries and from the worship of pagan gods.
 
@@ -4019,11 +4032,11 @@ Because the kolduni do not have unGifted representatives, their relationship wit
 
 Koldun magic, called "koldovali" by its practitioners, is very similar to gruagach magic. The kolduni learn and cast spells using the same mechanics as gruagachan, except the Ability Koldovali Theory replaces Pictish Language in the relevant formulae. Unlike the gruagachan, the kolduni practice a completely oral tradition of magic, and so they may not perform any of the gruagach Laboratory activities that require literacy. The kolduni do not use the term geas, but instead refer to a geas or curse as a "kara."
 
->#### Story Seed: Koshchen the Deathless
+> ### Story Seed: Koshchen the Deathless
 >
->A koldun wizard abducts the fiancée of a friend of the covenant, who approaches the characters for assistance. The wizard is immune from death because of his external soul. If the characters are able to discover the location of the external soul, the magi can investigate it and determine the exact manner required for its destruction.
+> A koldun wizard abducts the fiancée of a friend of the covenant, who approaches the characters for assistance. The wizard is immune from death because of his external soul. If the characters are able to discover the location of the external soul, the magi can investigate it and determine the exact manner required for its destruction.
 >
->Koshchey the Deathless is a powerful koldun who placed his soul in an egg inside a duck inside a hare inside a chest buried under an oak at the center of an isolated island in a powerful regio. Koshchey can only die if the egg containing his soul is smashed against his forehead.
+> Koshchey the Deathless is a powerful koldun who placed his soul in an egg inside a duck inside a hare inside a chest buried under an oak at the center of an isolated island in a powerful regio. Koshchey can only die if the egg containing his soul is smashed against his forehead.
 
 Water plays an important role in the magic of the kolduni and is necessary for their most powerful spells. When a koldun casts a Vision spell that allows him to sense things at a distance, he must do so by staring into water. The kolduni have access to the Arcane Connection Range, which adds +4 Magnitudes to a spell's level. If the wizard casts any spell with an Arcane Connection, for it to work he must submerge the Connection in an amount of water large enough to cover it completely.
 
@@ -4057,7 +4070,7 @@ Because the Virtue Diedne Magic already exists, the mechanical impact on game pl
 
 It is unlikely that any gruagachan would give up the secrets of their magic without learning the secrets of Hermetic magic in exchange. The longest lasting effect of the incorporation of Cailleach Magic on the Order might be the introduction of dozens of gruagachan into House Ex Miscellanea. The existence of a large contingent of these wizards, with their enhanced Spontaneous magic abilities, might allow the magi descended from House Diedne to practice their magic more openly without fear of persecution.
 
-### Flexible Pormulaic Magic
+### Flexible Formulaic Magic
 
 Gruagachan have very flexible Formulaic magic. The same difficulties described before are present for any magus who attempts to incorporate this flexibility into Hermetic theory.
 
@@ -4065,9 +4078,9 @@ Gruagachan have very flexible Formulaic magic. The same difficulties described b
 
 #### Integration Effects
 
-A Hermetic magus who successfully Integrates this aspect of gruagach magic could create a new Spell Mastery Ability of Flexible Formulaic Magic, which allows any magus to gain the benefits of the Virtue Flexible Formulaic Mastery. A magus with Spell Mastery in Flexible Formulaic Magic is able to vary one parameter of a Formulaic spell (Range, Duration, Target, or size) as long as the final level of the spell is within one magnitude for every full five points of the magus’ Mastery Score. Otherwise, it works in the same way as Flexible Formulaic Magic.
+A Hermetic magus who successfully Integrates this aspect of gruagach magic could create a new Spell Mastery Ability of Flexible Formulaic Magic, which allows any magus to gain the benefits of the Virtue Flexible Formulaic Mastery. A magus with Spell Mastery in Flexible Formulaic Magic is able to vary one parameter of a Formulaic spell (Range, Duration, Target, or size) as long as the final level of the spell is within one magnitude for every full five points of the magus' Mastery Score. Otherwise, it works in the same way as Flexible Formulaic Magic.
 
-Two separate, but related, Breakthroughs could be to make Flexible Formulaic Magic a teachable Ability, similar to Parma Magica, learnable by any magus; or to increase the effectiveness of the current Flexible Formulaic Magic Virtue by by making the magnitude difference two instead of one.
+Two separate, but related, Breakthroughs could be to make Flexible Formulaic Magic a teachable Ability, similar to Parma Magica, learnable by any magus; or to increase the effectiveness of the current Flexible Formulaic Magic Virtue by making the magnitude difference two instead of one.
 
 #### Consequences of Integration
 
@@ -4125,9 +4138,9 @@ All magicians must possess minimum scores of 1 in Latin to learn charms and 1 in
 
 Likewise, magicians often have Flaws associated with their position in society; Dependent, Favors, Monastic Vows, Oath of Fealty, Close Family Ties, and Heir may be appropriate for them. And when magicians call upon the powers of the realms, they sometimes upset those powers, so the following Flaws are appropriate: Greater Malediction, Plagued by Supernatural Entity, and Supernatural Nuisance. Any of the Flaws listed under Magical Dangers, Warping (later) are also appropriate for a character.
 
->#### Lore of the Mathematici
+> ### Lore of the Mathematici
 >
->This is the (Organization) lore of the learned magician tradition based in Bologna. A character with this Ability has knowledge of the following: the general effects that charms and amulet magic produce, the identities of the powerful members of the Mathematici of Bologna, their history, and the secrets of the tradition. The secrets of the Mathematici include knowledge of the rites and rituals to Initiate another into the powers of the tradition. Other groups of learned magicians may exist in Mythic Europe and possess their own (Organization) Lore Abilities.
+> This is the (Organization) lore of the learned magician tradition based in Bologna. A character with this Ability has knowledge of the following: the general effects that charms and amulet magic produce, the identities of the powerful members of the Mathematici of Bologna, their history, and the secrets of the tradition. The secrets of the Mathematici include knowledge of the rites and rituals to Initiate another into the powers of the tradition. Other groups of learned magicians may exist in Mythic Europe and possess their own (Organization) Lore Abilities.
 
 ### Virtues and Flaws
 
@@ -4147,8 +4160,7 @@ A mathematicus must also possess a Social Status that defines his role in mundan
 **Entreat the Powers**<br>
 Major, Supernatural
 
-This Virtue grants the character the ability to minimize or overcome the negative effects associated with using magic-aligned powers in Divine or Infernal auras. The mechanics for using this Virtue are described ful
-ly later. See Magic of the Learned Magicians: Mitigation of Realm Interaction Effects.
+This Virtue grants the character the ability to minimize or overcome the negative effects associated with using magic-aligned powers in Divine or Infernal auras. The mechanics for using this Virtue are described fully later. See Magic of the Learned Magicians: Mitigation of Realm Interaction Effects.
 
 **Mythic Alchemy**<br>
 Major, Supernatural
@@ -4165,33 +4177,33 @@ Mythic Alchemists can also prepare the raw materials for a craftsman in such a w
 
 Transmuting a complex element into a similar sort of complex element is a Slight Alteration if there is no change in the type of substance; for example, as in turning Welsh copper into Cornish copper (which has a slightly different luster). A Minor Alteration can effect a transmutation of species; for example, base metal to base metal, or processed liquid to processed liquid. And a Substantial Alteration can change genus; for example, base metal to noble metal, or oil into acid. Major Alterations can affect higher categories of genus; so wood can be turned into tin, for example. Solids must remain solids, and liquids must remain liquids in any transmutation, and this is true when transmuting simple matter to complex matter and vice versa. Each dose of a transmutative reagent requires a pawn of Vim vis or vis of the appropriate Form for every 5 points (rounded up) of the reagent's final level. A Mythic Alchemist can handle a number of pawns of vis in a season equal to twice his Mythic Alchemy score; and this may limit the number of doses he can produce regardless of his Lab Total or any Laboratory Texts.
 
->#### New Reagent Guidelines
+> ### New Reagent Guidelines
 >
->Level 2: Prepare raw materials for a craftsman to produce superior goods.
+> Level 2: Prepare raw materials for a craftsman to produce superior goods.
 >
->Level 5: Transmute complex matter to a different type of complex matter.
+> Level 5: Transmute complex matter to a different type of complex matter.
 >
->Level 10: Transmute complex matter to simple matter.
+> Level 10: Transmute complex matter to simple matter.
 >
->Level 15: Transmute simple matter to complex matter.
+> Level 15: Transmute simple matter to complex matter.
+
+> ### Example Reagents
 >
->#### Example Reagents
+> **Lapis Maior**<br>
+> Reagent Level 15<br>
+> Alteration: Substantial
 >
->**Lapis Maior**<br>
->Reagent Level 15<br>
->Alteration: Substantial
+> This is the ultimate goal of many materialistic alchemists; the transmutation of a base metal into gold. This waxy red stone, if melted in a crucible with up to 50 cubic inches of lead, converts it to virgin gold. This reagent requires three pawns of Vim or Terram vis per dose.
 >
->This is the ultimate goal of many materialistic alchemists; the transmutation of a base metal into gold. This waxy red stone, if melted in a crucible with up to 50 cubic inches of lead, converts it to virgin gold. This reagent requires three pawns of Vim or Terram vis per dose.
+> (Base 5, +2 Substantial)
 >
->(Base 5, +2 Substantial)
+> **Cordovan Cuirbolli**<br>
+> Reagent Level 5<br>
+> Alteration: Minor
 >
->**Cordovan Cuirbolli**<br>
->Reagent Level 5<br>
->Alteration: Minor
+> Prepares raw animal hides into superior boiled leather, such that any craftsman working with it reduces the Ease Factor for his Craft (Leather), or similar Ability, by 2. The leather can be made any conceivable color as part of the transmutation process. Each dose of this reagent makes sufficient leather for a suit of full leather armor.
 >
->Prepares raw animal hides into superior boiled leather, such that any craftsman working with it reduces the Ease Factor for his Craft (Leather), or similar Ability, by 2. The leather can be made any conceivable color as part of the transmutation process. Each dose of this reagent makes sufficient leather for a suit of full leather armor.
->
->(Base 2, +1 Minor, +2 Size)
+> (Base 2, +1 Minor, +2 Size)
 
 **Mythic Herbalism**<br>
 Major, Supernatural
@@ -4252,7 +4264,7 @@ Use the Ease Factors above to create an ingested poison. If the poison is a cont
 
 Potions created by Mythic Herbalism that grant physical bonuses last for Sun Duration. The effects of the potions are not cumulative. The bonus to Fatigue rolls may not exceed +2, only one level of Fatigue may be ignored per day, and the bonuses to Soak do not stack.
 
-**Specialties**: Healing wounds, Creating potions, Creating poisons. (Supernatural)
+**Specialties:** Healing wounds, Creating potions, Creating poisons. (Supernatural)
 
 **Strong Amulet Magic**<br>
 Major, Supernatural
@@ -4320,7 +4332,7 @@ Major, Supernatural
 
 The character may not create amulets, but may create chartae. The character may possess this Virtue in conjunction with the No Chartae Making Flaw, which prevents him from creating any devices in the laboratory.
 
-**Imtervention Prone**<br>
+**Intervention Prone**<br>
 Major, Supernatural
 
 The character is especially prone to undergoing intervention, the learned magician equivalent of Twilight. The player must roll to resist intervention on a single magical botch, rather than on a double botch like most learned magicians.
@@ -4330,7 +4342,7 @@ Major, Supernatural
 
 The character may not memorize charms and may only cast charms with the assistance of a text. The character may possess this Virtue in conjunction with the No Text Casting Flaw, which prevents him from casting any charms.
 
-**Wweak Verbal Charms**<br>
+**Weak Verbal Charms**<br>
 Major, Supernatural
 
 The character is less adept at verbal charms than the typical learned magician. The sum of the character's casting total and his die roll is always divided by five whether he knows the charm or is reading it from a text.
@@ -4350,7 +4362,7 @@ Minor, Supernatural
 
 The character can't cast charms from texts. The character may possess this Virtue in conjunction with the Laboratory Magician Flaw, which prevents him from casting any charms.
 
-**Poorky Trained Magician**<br>
+**Poorly Trained Magician**<br>
 Minor, Supernatural
 
 Due to the incompetence or negligence of the learned magician's master, the character may spend 50 fewer experience points on his Arts and charms than normal. This Flaw may be taken multiple times, but may not reduce the available experience points to zero.
@@ -4387,7 +4399,7 @@ Charm magic violates the Hermetic limit of Arcane Connection. Fortunam charms es
 
 The learned magicians possess three Techniques and three Forms, as described below. Every charm or amulet requires the learned magician to have knowledge of at least one of each. The character must possess knowledge of the applicable Technique and Form, which is represented by a score of at least 0 in the applicable Art. An unGifted character who does not possess a Virtue for a particular Art may not utilize the guidelines listed here regardless of his knowledge of other Techniques or Forms.
 
-#### Technniques
+#### Techniques
 
 **Tueor (Tu) "I Guard/Protect"**<br>
 Pronounced: "too-AY-or"
@@ -4412,7 +4424,7 @@ Vulnero charms cause harm, whether direct or indirect, to a target. Vulnero magi
 
 All verbal magics that learned magicians perform are referred to as charms, but when the charms are malicious in nature and harm the target , as the Vulnero Technique does, they are often referred to as curses.
 
-#### FORMS
+#### Forms
 
 **Fortunam (Fa) "LUCK"**<br>
 Pronounced: "for-TOON-nam"
@@ -4447,13 +4459,13 @@ The ability to cast both known verbal charms and charms from text is based on th
 
 If the charm total is greater than or equal to the level of the charm, the charm is successful and the magician loses no Fatigue. When the charm total is less than the charm level, but within 10 of the charm's level, the magician loses one Fatigue level and the charm is successfully cast. If the charm total is more than 10 lower than the charm's level, the charm fails and the caster loses one level of Fatigue. The type of die rolled depends on whether the caster is in a stressful situation. Normal, non-combat situations require only a simple die. Charms cast from a text always require a stress die roll.
 
->#### Ranges, Ourations, & Targets for Charms
+> ### Ranges, Ourations, & Targets for Charms
 >
->Range: Personal, Eye/Touch (+1), and Voice (+2)
+> Range: Personal, Eye/Touch (+1), and Voice (+2)
 >
->Duration: Momentary, Diameter (+1), and Sun (+2)
+> Duration: Momentary, Diameter (+1), and Sun (+2)
 >
->Target: Individual and Group (+1)
+> Target: Individual and Group (+1)
 
 #### Reading Charms from Text
 
@@ -4501,12 +4513,12 @@ The main benefit of chartae is that learned magicians may create them relatively
 
 A learned magician may also create a charta for an unknown recipient ahead of time and leave the identity of the target of the charta blank. When the learned magician determines the person for whom he will create the charta, he spends one hour casting a horoscope and completing the charta with the relevant astronomical information and the recipient's name. An incomplete charta may not receive the Lab Total bonus for a nativity horoscope; the astronomical information of the nativity horoscope must be integrated throughout the charta. Magicians may never create similarly incomplete amulets; an amulet's recipient must be known from the beginning and may not change during the process. If the recipient is not added to the charta before it expires, the charta is useless. Likewise, when a recipient is added, he only gains the benefit of the charta for the remainder of its duration.
 
->#### Ranges, Durations, and Targets for Amulets and Chartae
->Range: Touch
+> ### Ranges, Durations, and Targets for Amulets and Chartae
+> Range: Touch
 >
->Duration: Momentary, Sun (+1), Moon (+2), and Season (+3)
+> Duration: Momentary, Sun (+1), Moon (+2), and Season (+3)
 >
->Target: Individual, Group (+1), Bloodline (+2), Structure (+3), and Boundary (+4)
+> Target: Individual, Group (+1), Bloodline (+2), Structure (+3), and Boundary (+4)
 
 #### Astronomial Requirements
 
@@ -4526,7 +4538,7 @@ Magicians may create an amulet or charta with a Duration of Season. The effect o
 
 The bearer of an amulet or charta has no control over when a charge is expended. As soon as an amulet is donned or affixed to an appropriate location, one charge is expended and the effect lasts according to the Duration set by the creator. When that Duration is complete, the next charge is expended. If an amulet is not in physical contact with an appropriate target, no charge is expended. In contrast, a charta's charge is expended as soon as it is created, even if the charta is not in the possession of its ultimate recipient. Chartae are only useful if the recipient receives them at the moment of completion.
 
-An amulet or charta cannot produce effects that require Concentration or are activated by environmental triggers. Magical device effects, such as those listed in ArM5, page 99, other than Penetration, are inappropriate for amulets and chartae; however, chartae and amulets may utilize form and material bonuses.
+An amulet or charta cannot produce effects that require Concentration or are activated by environmental triggers. Magical device effects, such as those listed in ArM5, page 99, other than Penetration, are inappropriate for amulets and chartae; however, chartae and amulets may utilize shape and material bonuses.
 
 #### Laboratory Requirements
 
@@ -4642,27 +4654,27 @@ Vulnero Fortunam charms, of course, must overcome Magic Resistance and penetrate
 
 #### Tueor Fortunam
 
->#### Tueor Fortunam Guidelines
+> ### Tueor Fortunam Guidelines
 >
->Whenever a character under the influence of a Tueor Fortunam charm makes a contested roll against a character with Magic Resistance, the charm must penetrate the opposing character's Magic Resistance to be effective. A different charm must be used for every Ability affected. Fortunam spells affect rolls on Abilities, not all stress die or botch rolls. They have no affect on rolls for learning from vis, experimentation, or Twilight-related botch dice, for example.
+> Whenever a character under the influence of a Tueor Fortunam charm makes a contested roll against a character with Magic Resistance, the charm must penetrate the opposing character's Magic Resistance to be effective. A different charm must be used for every Ability affected. Fortunam spells affect rolls on Abilities, not all stress die or botch rolls. They have no affect on rolls for learning from vis, experimentation, or Twilight-related botch dice, for example.
 >
->General: Reduce the number of botch dice a character must roll for a single Ability. Each magnitude of the effect eliminates one botch die.
+> General: Reduce the number of botch dice a character must roll for a single Ability. Each magnitude of the effect eliminates one botch die.
 >
->Level 1: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 3 and use the better of the two rolls.
+> Level 1: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 3 and use the better of the two rolls.
 >
->Level 2: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 6 and use the better of the two rolls.
+> Level 2: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 6 and use the better of the two rolls.
 >
->Level 2: Prevent random mishaps from occurring to the character.
+> Level 2: Prevent random mishaps from occurring to the character.
 >
->Level 3: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 9 and use the better of the two rolls.
+> Level 3: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 9 and use the better of the two rolls.
 >
->Level 4: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 12 and use the better of the two rolls.
+> Level 4: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 12 and use the better of the two rolls.
 >
->Level 5: Allow a character to re-roll a failed contested roll for a single Ability.
+> Level 5: Allow a character to re-roll a failed contested roll for a single Ability.
 >
->Level 5: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 15 and use the better of the two rolls.
+> Level 5: Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 15 and use the better of the two rolls.
 >
->Level 10: Allow a player to treat a stress die roll of 0 as a 10 for a single Ability, eliminating the possibility of a botch.
+> Level 10: Allow a player to treat a stress die roll of 0 as a 10 for a single Ability, eliminating the possibility of a botch.
 
 **STAY THE FICKLE HAND OF FATE**<br>
 TuFa Level 5<br>
@@ -4690,29 +4702,29 @@ For the duration of the charm, the player treats all stress die rolls for his Gr
 
 #### Succurro Fortunam
 
->#### Succurro Fortunam Guidelines
+> ### Succurro Fortunam Guidelines
 >
->Succurro Fortunam charms affect both the character upon whom they are cast, and any person with whom that character interacts; therefore, they must penetrate the Magic Resistance of the Target and any character against whom the character attempts to use the enhanced Ability or Characteristic. Different charms must be used for each Ability or Characteristic affected. The player does not have the option to select which Ability or Characteristic the charm affects without inventing a new charm. The troupe should use common sense in selecting Virtues appropriate for charms. For example, a Fortunam effect may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. This Form cannot grant some other Virtues, as well — Social Statuses and Divine or Infernal Virtues, for example.
+> Succurro Fortunam charms affect both the character upon whom they are cast, and any person with whom that character interacts; therefore, they must penetrate the Magic Resistance of the Target and any character against whom the character attempts to use the enhanced Ability or Characteristic. Different charms must be used for each Ability or Characteristic affected. The player does not have the option to select which Ability or Characteristic the charm affects without inventing a new charm. The troupe should use common sense in selecting Virtues appropriate for charms. For example, a Fortunam effect may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. This Form cannot grant some other Virtues, as well — Social Statuses and Divine or Infernal Virtues, for example.
 >
->Level 1: Provide a bonus of +1 to all Luck related rolls. (As per Luck Virtue, see ArM5, page 45.)
+> Level 1: Provide a bonus of +1 to all Luck related rolls. (As per Luck Virtue, see ArM5, page 45.)
 >
->Level 2: Provide a bonus of +1 to rolls for a single, non-Supernatural Ability.
+> Level 2: Provide a bonus of +1 to rolls for a single, non-Supernatural Ability.
 >
->Level 2: Provide a bonus of +2 to all Luck-related rolls.
+> Level 2: Provide a bonus of +2 to all Luck-related rolls.
 >
->Level 5: Provide a bonus of +3 to all Luck-related rolls.
+> Level 5: Provide a bonus of +3 to all Luck-related rolls.
 >
->Level 5: Provide a bonus of +2 to rolls for a single, non-Supernatural Ability.
+> Level 5: Provide a bonus of +2 to rolls for a single, non-Supernatural Ability.
 >
->Level 10: Grant a Minor General Virtue.
+> Level 10: Grant a Minor General Virtue.
 >
->Level 10: Provide a bonus of +3 to rolls for a single, non-Supernatural Ability.
+> Level 10: Provide a bonus of +3 to rolls for a single, non-Supernatural Ability.
 >
->Level 10: Provide a bonus of +1 to all Ability rolls using a single Characteristic.
+> Level 10: Provide a bonus of +1 to all Ability rolls using a single Characteristic.
 >
->Level 15: Provide a bonus of +2 to all Ability rolls using a single Characteristic.
+> Level 15: Provide a bonus of +2 to all Ability rolls using a single Characteristic.
 >
->Level 20: Grant a Major General Virtue. Level 20: Provide a bonus of +3 to all Ability rolls using a single Characteristic.
+> Level 20: Grant a Major General Virtue. Level 20: Provide a bonus of +3 to all Ability rolls using a single Characteristic.
 
 **Fortune Favors the Bold** <br>
 SuFa Level 5<br>
@@ -4722,7 +4734,7 @@ The player receives a bonus of +2 to all rolls involving her character where luc
 
 (Base 2, +1 Touch, +2 Sun)
 
-**Gift of Venus (Venus' Blessing)**<br> 
+**Gift of Venus (Venus' Blessing)**<br>
 SuFa Level 25<br>
 R: Touch, D: Sun, T: Ind
 
@@ -4740,27 +4752,27 @@ For the duration of the charm, the character benefits from fortuitous circumstan
 
 (Base 10, +2 Sun)
 
-### Vulnero Fortunam
+#### Vulnero Fortunam
 
->#### Vulnero Fortunam Guidelines
+> ### Vulnero Fortunam Guidelines
 >
->A different Vulnero Fortunam charm must be used for each Ability or Characteristic affected. The player does not have the option to select which Ability or Characteristic the charm affects. All Vulnero Fortunam charms cause minor unlucky or inconvenient things to happen to their victims, in addition to the game mechanic effects. The more powerful the curse, the more frequent and annoying the inconvenience must be. Astute characters may realize that they have been cursed. To discover the curse, the player must roll a Perception + Magic Lore against an Ease Factor of 12, minus the magnitude of the Vulnero Fortunam charm; the more powerful the curse, the more obvious it is.
+> A different Vulnero Fortunam charm must be used for each Ability or Characteristic affected. The player does not have the option to select which Ability or Characteristic the charm affects. All Vulnero Fortunam charms cause minor unlucky or inconvenient things to happen to their victims, in addition to the game mechanic effects. The more powerful the curse, the more frequent and annoying the inconvenience must be. Astute characters may realize that they have been cursed. To discover the curse, the player must roll a Perception + Magic Lore against an Ease Factor of 12, minus the magnitude of the Vulnero Fortunam charm; the more powerful the curse, the more obvious it is.
 >
->General: Increase the number of botch dice a player must roll. Each magnitude of the charm adds one botch die.
+> General: Increase the number of botch dice a player must roll. Each magnitude of the charm adds one botch die.
 >
->Level 2: Modify a single Ability roll by -1. Level 2: Force a character to re-roll a successful contested roll for a single Ability once and use the worse of the two rolls.
+> Level 2: Modify a single Ability roll by -1. Level 2: Force a character to re-roll a successful contested roll for a single Ability once and use the worse of the two rolls.
 >
->Level 5: Modify a single Ability roll by -2. Level 10: Modify a single Ability roll by -3.
+> Level 5: Modify a single Ability roll by -2. Level 10: Modify a single Ability roll by -3.
 >
->Level 10: Modify all Ability rolls using a single Characteristic by -1.
+> Level 10: Modify all Ability rolls using a single Characteristic by -1.
 >
->Level 10: Force a player to treat all simple die rolls as a stress die rolls for a single Ability; but if the player rolls a 1, she does not roll again.
+> Level 10: Force a player to treat all simple die rolls as a stress die rolls for a single Ability; but if the player rolls a 1, she does not roll again.
 >
->Level 15: Modify all Ability rolls using a single Characteristic by -2.
+> Level 15: Modify all Ability rolls using a single Characteristic by -2.
 >
->Level 20: Modify all Ability rolls using a single Characteristic by –3.
+> Level 20: Modify all Ability rolls using a single Characteristic by –3.
 
-**Curse of Fortuna**<br> 
+**Curse of Fortuna**<br>
 VuFa Level 20 <br>
 R: Eye, D: Sun, T: Ind
 
@@ -4794,15 +4806,15 @@ Many Magicam charm guidelines are described as General. It is important to remem
 
 #### Tueor Magicam
 
->#### Tueor Magicam Guidelines
+> ### Tueor Magicam Guidelines
 >
->Tueor Magicam charms provide some level of protection against hostile magic. Magical defense charms are tied to a specific type of magical damage, and protection for any other type of damages requires a different charm. For example, a Magical Fortitude Charm (fire) would provide protection against all supernatural fire, but would provide no protection from cold, although cold is also an Ignem effect.
+> Tueor Magicam charms provide some level of protection against hostile magic. Magical defense charms are tied to a specific type of magical damage, and protection for any other type of damages requires a different charm. For example, a Magical Fortitude Charm (fire) would provide protection against all supernatural fire, but would provide no protection from cold, although cold is also an Ignem effect.
 >
->General: Add +2 to the Target's Soak Total for damage caused by magical damage of specific type for every level of the base charm effect.
+> General: Add +2 to the Target's Soak Total for damage caused by magical damage of specific type for every level of the base charm effect.
 >
->General: Add +4 to the Target's Defense Total for magical attacks aimed at him of one specific type for each magnitude of the base charm effect.
+> General: Add +4 to the Target's Defense Total for magical attacks aimed at him of one specific type for each magnitude of the base charm effect.
 >
->General: Increase Ease Factor of Supernatural Ability used against Target by +3 for each level of base charm effect.
+> General: Increase Ease Factor of Supernatural Ability used against Target by +3 for each level of base charm effect.
 
 **Magical Fortitude Charm Against Lightning** <br>
 TuMa Level 5 <br>
@@ -4830,29 +4842,29 @@ This charm protects the target against a single Supernatural Ability, Hex in thi
 
 #### Succuro Magicam
 
->#### Succurro Magicam Guidelines
+> ### Succurro Magicam Guidelines
 >
->Succurro Magicam charms grant bonuses to a character's Supernatural Abilities, or they allow a character to temporarily enjoy the benefit of such Abilities. The troupe should use common sense in selecting Virtues appropriate for charms. For example, a Magicam charm may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. This Form cannot grant some Virtues — Social Statuses and Faerie, Hermetic, Divine, or Infernal Virtues, for example. A charm may only improve or grant Supernatural Virtues that derive their power from the Magic Realm. Where a Supernatural Virtue is granted that has a corresponding Ability, the character is able to perform the Ability as if he had a score of 4. No magical effects resulting from a granted Virtue last longer than the duration of the charm, amulet, or charta. The mundane results of using the granted Virtue do remain, however. For example, if the granted Virtue allows the creation of enchanted items, those items lose their enchantment when the charm granting the Virtue expires.
+> Succurro Magicam charms grant bonuses to a character's Supernatural Abilities, or they allow a character to temporarily enjoy the benefit of such Abilities. The troupe should use common sense in selecting Virtues appropriate for charms. For example, a Magicam charm may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. This Form cannot grant some Virtues — Social Statuses and Faerie, Hermetic, Divine, or Infernal Virtues, for example. A charm may only improve or grant Supernatural Virtues that derive their power from the Magic Realm. Where a Supernatural Virtue is granted that has a corresponding Ability, the character is able to perform the Ability as if he had a score of 4. No magical effects resulting from a granted Virtue last longer than the duration of the charm, amulet, or charta. The mundane results of using the granted Virtue do remain, however. For example, if the granted Virtue allows the creation of enchanted items, those items lose their enchantment when the charm granting the Virtue expires.
 >
->Succurro Magicam charms also aid charms that have already been cast or amulets that have already been created. The target is always the charm or amulet, and Touch Range is sufficient for any charm that is still in effect. Charms that have expired and Momentary charms may not be affected with
+> Succurro Magicam charms also aid charms that have already been cast or amulets that have already been created. The target is always the charm or amulet, and Touch Range is sufficient for any charm that is still in effect. Charms that have expired and Momentary charms may not be affected with
 >
->Succurro Magicam charms. A general charm must be learned at a specific level of effect for a learned magician. To allow charms to be cast within the Dominion or with Penetration, magicians often learn their charms at a level below the highest they could cast.
+> Succurro Magicam charms. A general charm must be learned at a specific level of effect for a learned magician. To allow charms to be cast within the Dominion or with Penetration, magicians often learn their charms at a level below the highest they could cast.
 >
->General: Significantly change a charm of less than the level +1 magnitude of the Magicam charm. This may not change either the Technique or Form of the target charm. A change in Duration, Range, Target, or level of the charm is appropriate, so long as the charm is changed by no more than one magnitude. The new charm parameter must be one available for the charm in question, and the final level of the charm modified may not be a higher level than the Magicam charm.
+> General: Significantly change a charm of less than the level +1 magnitude of the Magicam charm. This may not change either the Technique or Form of the target charm. A change in Duration, Range, Target, or level of the charm is appropriate, so long as the charm is changed by no more than one magnitude. The new charm parameter must be one available for the charm in question, and the final level of the charm modified may not be a higher level than the Magicam charm.
 >
->General: Increase the number of charges in an amulet of a level less than or equal to the charm +1 magnitude by one. The amulet must be one created by the learned magician casting the charm.
+> General: Increase the number of charges in an amulet of a level less than or equal to the charm +1 magnitude by one. The amulet must be one created by the learned magician casting the charm.
 >
->Level 1: Detect the presence of vis.
+> Level 1: Detect the presence of vis.
 >
->Level 2: Provide a bonus of +1 to rolls for a single Supernatural Ability.
+> Level 2: Provide a bonus of +1 to rolls for a single Supernatural Ability.
 >
->Level 5: Provide a bonus of +2 to rolls for a single Supernatural Ability.
+> Level 5: Provide a bonus of +2 to rolls for a single Supernatural Ability.
 >
->Level 10: Grant a Minor Supernatural, Magic Virtue.
+> Level 10: Grant a Minor Supernatural, Magic Virtue.
 >
->Level 10: Provide a bonus of +3 to rolls for a single Supernatural Ability.
+> Level 10: Provide a bonus of +3 to rolls for a single Supernatural Ability.
 >
->Level 20: Grant a Major Supernatural, Magic Virtue.
+> Level 20: Grant a Major Supernatural, Magic Virtue.
 
 **Magician's Boost (Form)** <br>
 SuMa Level <br>
@@ -4878,17 +4890,17 @@ This charm is cast immediately following the casting of another charm. If the le
 
 (Base effect, +1 Touch)
 
-### Vulnero Magicam
+#### Vulnero Magicam
 
->#### Vulnero Magicam Guidelines
+> ### Vulnero Magicam Guidelines
 >
->Vulnero Magicam charms suppress or eliminate the effects of magic on the target. For Vulnero Magicam charms, an Individual Target refers to a single spell or magical effect. If the victim of the spell has Magical Resistance, the charm must penetrate to be effective.
+> Vulnero Magicam charms suppress or eliminate the effects of magic on the target. For Vulnero Magicam charms, an Individual Target refers to a single spell or magical effect. If the victim of the spell has Magical Resistance, the charm must penetrate to be effective.
 >
->General: Reduce the Duration of a specific type of continuing magic with a casting total less than half the level + 4 magnitudes of the charm + a stress die (no botch). A specific type of magic should be narrower than a single Hermetic Form. For example, one spell would protect against flame, but not heat, cold, and smoke — all types of damage produced by Ignem.
+> General: Reduce the Duration of a specific type of continuing magic with a casting total less than half the level + 4 magnitudes of the charm + a stress die (no botch). A specific type of magic should be narrower than a single Hermetic Form. For example, one spell would protect against flame, but not heat, cold, and smoke — all types of damage produced by Ignem.
 >
->General: Ward the target against creatures from a single realm with Might less than the level of the charm. (Touch, Sun, Individual)
+> General: Ward the target against creatures from a single realm with Might less than the level of the charm. (Touch, Sun, Individual)
 
-**Stifle the Lengthy Sickness**<br> 
+**Stifle the Lengthy Sickness**<br>
 VuMa Level Gen<br>
 R: Voice, D: Mom, T: Individual
 
@@ -4910,33 +4922,33 @@ Salutem charms deal with the health of the target. This is broader in applicatio
 
 #### Tueor Salutem
 
->#### Tueor Salutem Guidelines
+> ### Tueor Salutem Guidelines
 >
->For Tueor Salutem charms that protect against a broad category of damage, the troupe should use the guidelines provided by the Virtue Greater Immunity to determine appropriate categories. For broad categories, the potential harm should be both common and potentially deadly. Suitable examples are fire, iron weapons, swords, or the like. For Tueor Salutem charms that protect against a narrow category of damage, the troupe should use the guidelines for the Virtue Lesser Immunity to determine appropriate categories. For narrow categories, the potential harm should be rare, not deadly, or both. Unlike the Virtues Greater Immunity and Lesser Immunity, a Tueor Salutem charm never protects against magical versions of the damage category defended against. If the learned magician seeks protection against magical forms of damage, a Tueor Magicam charm is required.
+> For Tueor Salutem charms that protect against a broad category of damage, the troupe should use the guidelines provided by the Virtue Greater Immunity to determine appropriate categories. For broad categories, the potential harm should be both common and potentially deadly. Suitable examples are fire, iron weapons, swords, or the like. For Tueor Salutem charms that protect against a narrow category of damage, the troupe should use the guidelines for the Virtue Lesser Immunity to determine appropriate categories. For narrow categories, the potential harm should be rare, not deadly, or both. Unlike the Virtues Greater Immunity and Lesser Immunity, a Tueor Salutem charm never protects against magical versions of the damage category defended against. If the learned magician seeks protection against magical forms of damage, a Tueor Magicam charm is required.
 >
->Tueor Salutem wards can only be placed on locations with either a Structure or Boundary Target. They may never affect anyone or anything in the category warded if they possesses a Might score. If a ward would prevent a magus from entering an area, it must penetrate his Magic Resistance to have any effect. Wards that keep out a specific type of person or animal should be easily described by a single word, but not so broad as to include significantly more than half of the human populace. Suitable examples for animal wards are vermin, predators, or birds, for example, and examples of a single type of human might be thieves, Mongols, or men.
+> Tueor Salutem wards can only be placed on locations with either a Structure or Boundary Target. They may never affect anyone or anything in the category warded if they possesses a Might score. If a ward would prevent a magus from entering an area, it must penetrate his Magic Resistance to have any effect. Wards that keep out a specific type of person or animal should be easily described by a single word, but not so broad as to include significantly more than half of the human populace. Suitable examples for animal wards are vermin, predators, or birds, for example, and examples of a single type of human might be thieves, Mongols, or men.
 >
->General: Provide +4 bonus to a person's Soak Total against a narrow category of damage per level of the base effect.
+> General: Provide +4 bonus to a person's Soak Total against a narrow category of damage per level of the base effect.
 >
->General: Provide +2 bonus to a person's Soak Total against a broad category of damage per level of the base effect.
+> General: Provide +2 bonus to a person's Soak Total against a broad category of damage per level of the base effect.
 >
->General: Provide +1 bonus to a person's Stamina for Disease Avoidance rolls for a single disease per level of base effect. See the Medicine chapter of Art & Academe.
+> General: Provide +1 bonus to a person's Stamina for Disease Avoidance rolls for a single disease per level of base effect. See the Medicine chapter of Art & Academe.
 >
->General: Provide +1 bonus to a person's Stamina for rolls to avoid the effects of poison per level of the base effect.
+> General: Provide +1 bonus to a person's Stamina for rolls to avoid the effects of poison per level of the base effect.
 >
->General: Provide +2 bonus to a person's Soak Total against all damage per magnitude of the base effect.
+> General: Provide +2 bonus to a person's Soak Total against all damage per magnitude of the base effect.
 >
->General: Add +4 to the Target's Defense Total for attacks from a narrow category of damage for each magnitude of the base charm effect.
+> General: Add +4 to the Target's Defense Total for attacks from a narrow category of damage for each magnitude of the base charm effect.
 >
->General: Add «2 to the Target's Defense Total for attacks from a broad category of damage for each magnitude of the base charm effect.
+> General: Add «2 to the Target's Defense Total for attacks from a broad category of damage for each magnitude of the base charm effect.
 >
->Level 2: Ward a target against a single type of animal.
+> Level 2: Ward a target against a single type of animal.
 >
->Level 5: Ward a target against a single type of human being.
+> Level 5: Ward a target against a single type of human being.
 >
->Level 10:Prevent a person from being harmed by narrow category of damage. Level 10: Ward a single target against all human beings.
+> Level 10: Prevent a person from being harmed by narrow category of damage. Level 10: Ward a single target against all human beings.
 >
->Level 15:Prevent a person from being harmed by broad category of damage.
+> Level 15: Prevent a person from being harmed by broad category of damage.
 
 **Charm of Protection Against the Attacks of Semita Errabunda**<br>
 TuSa Level 15<br>
@@ -4964,35 +4976,35 @@ The charm protects the recipient against all forms of pests, including insects, 
 
 #### Succuro Salutem
 
->#### Succurro Salutem Guidelines
+> ### Succurro Salutem Guidelines
 >
->Succurro Salutem charms track the guidelines for Creo Corpus spells very closely, except they are incapable of permanently healing. Short of that, any questions regarding application of a Succurro Salutem charm should be resolved in the same way a Creo Corpus spell of the same level would be. Because the Succurro Salutem effects must linger over long periods of time, they are best suited as magical devices, and example chartae and amulets are listed below. The levels listed below are the minimum Lab Totals necessary to create the devices.
+> Succurro Salutem charms track the guidelines for Creo Corpus spells very closely, except they are incapable of permanently healing. Short of that, any questions regarding application of a Succurro Salutem charm should be resolved in the same way a Creo Corpus spell of the same level would be. Because the Succurro Salutem effects must linger over long periods of time, they are best suited as magical devices, and example chartae and amulets are listed below. The levels listed below are the minimum Lab Totals necessary to create the devices.
 >
->General: Add +1 to a person's Living Conditions modifier per level of the Base. The target must be under the effects of the charm for the entire year for it to provide any benefit.
+> General: Add +1 to a person's Living Conditions modifier per level of the Base. The target must be under the effects of the charm for the entire year for it to provide any benefit.
 >
->Level 1: Give a character a +2 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
+> Level 1: Give a character a +2 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
 >
->Level 1: Ensure that a plant grows well for the duration of the charm. This guideline can affect plants up to ten paces in each direction, large trees for example.
+> Level 1: Ensure that a plant grows well for the duration of the charm. This guideline can affect plants up to ten paces in each direction, large trees for example.
 >
->Level 2: Give a character a +6 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
+> Level 2: Give a character a +6 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
 >
->Level 3: Give a character a +12 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
+> Level 3: Give a character a +12 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
 >
->Level 4: Give a character a +18 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
+> Level 4: Give a character a +18 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
 >
->Level 5: Give a character a +24 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
+> Level 5: Give a character a +24 bonus to Recovery rolls for a single non-magical disease, poison, or injury.
 >
->Level 10: Resolve a minor aging crisis.
+> Level 10: Resolve a minor aging crisis.
 >
->Level 15: Heal the debilitating after-effects of a disease, poison, or injury.
+> Level 15: Heal the debilitating after-effects of a disease, poison, or injury.
 >
->Level 15: Resolve a serious aging crisis.
+> Level 15: Resolve a serious aging crisis.
 >
->Level 20: Resolve a major aging crisis.
+> Level 20: Resolve a major aging crisis.
 >
->Level 25: Resolve a critical aging crisis.
+> Level 25: Resolve a critical aging crisis.
 >
->Level 30: Resolve a terminal aging crisis.
+> Level 30: Resolve a terminal aging crisis.
 
 **Amulet for an Ample Harvest**<br>
 SuSa Level 20 Pen 0, 2 charges <br>
@@ -5018,35 +5030,35 @@ This amulet provides a +2 bonus to the bearer's Living Conditions modifier. For 
 
 (Minimum Lab Total 21. Effect: Base 2, +3 Season)
 
-#### Vulneto Salutem
+#### Vulnero Salutem
 
->#### Vulnero Salutem Guidelines
+> ### Vulnero Salutem Guidelines
 >
->The Vulnero Salutem charms track the guidelines for Perdo Corpus spells very closely. Any questions regarding application of a Vulnero Salutem charm should be resolved in the same way a Perdo Corpus spell of the same level would be. For an extended discussion of diseases, see the Medicine chapter of *Art & Academe*.
+> The Vulnero Salutem charms track the guidelines for Perdo Corpus spells very closely. Any questions regarding application of a Vulnero Salutem charm should be resolved in the same way a Perdo Corpus spell of the same level would be. For an extended discussion of diseases, see the Medicine chapter of *Art & Academe*.
 >
->Level 3: Do superficial damage to body.
+> Level 3: Do superficial damage to body.
 >
->Level 4: Cause a person pain, but do no real damage.
+> Level 4: Cause a person pain, but do no real damage.
 >
->Level 5: Inflict a Light Wound.
+> Level 5: Inflict a Light Wound.
 >
->Level 5: Hamper a person without actually injuring him. For example, make him lame, blur his eyesight, or cramp his hand severely. It heals as a Light Wound.
+> Level 5: Hamper a person without actually injuring him. For example, make him lame, blur his eyesight, or cramp his hand severely. It heals as a Light Wound.
 >
->Level 10: Inflict a Medium Wound.
+> Level 10: Inflict a Medium Wound.
 >
->Level 10: Cause loss of a Fatigue Level.
+> Level 10: Cause loss of a Fatigue Level.
 >
->Level 10: Inflict a minor disease.
+> Level 10: Inflict a minor disease.
 >
->Level 15: Cripple a limb, making it unusable but still capable of healing as a Medium Wound.
+> Level 15: Cripple a limb, making it unusable but still capable of healing as a Medium Wound.
 >
->Level 15: Destroy one of a person's minor senses. It heals as a Medium Wound.
+> Level 15: Destroy one of a person's minor senses. It heals as a Medium Wound.
 >
->Level 15: Inflict a serious disease.
+> Level 15: Inflict a serious disease.
 >
->Level 20: Destroy one of a person's major senses. It heals as a Heavy Wound.
+> Level 20: Destroy one of a person's major senses. It heals as a Heavy Wound.
 >
->Level 20: Inflict a major disease.
+> Level 20: Inflict a major disease.
 
 **Curse of Coughing Fits**<br>
 VuSa Level 10<br>
@@ -5070,23 +5082,23 @@ The curse causes the victim to suffer painful cramping and stiffness in one hand
 
 (Base 5, +2 Voice)
 
->#### Story Seeds for the Learned Magician Spell Guidelines
+> ### Story Seeds for the Learned Magician Spell Guidelines
 >
->ILL NEWS
+> ILL NEWS
 >
->A friend of the covenant with ties to the mundane world is late arriving at the covenant. The friend sends word that he and his entire family are very ill and unable to leave home. He requests the assistance of the covenant's best healer. When that magus investigates, he discovers the friend's household is ill because of a Vulnero Salutem curse buried under the threshold of their home. The characters are left to discover why someone would want to prevent their friend from arriving at the covenant; or was the goal to draw certain characters away from the covenant for a time, instead?
+> A friend of the covenant with ties to the mundane world is late arriving at the covenant. The friend sends word that he and his entire family are very ill and unable to leave home. He requests the assistance of the covenant's best healer. When that magus investigates, he discovers the friend's household is ill because of a Vulnero Salutem curse buried under the threshold of their home. The characters are left to discover why someone would want to prevent their friend from arriving at the covenant; or was the goal to draw certain characters away from the covenant for a time, instead?
 >
->ALL'S FAIR IN WAR
+> ALL'S FAIR IN WAR
 >
->A knight of mediocre abilities is suddenly the talk of the tournament. His fighting skills earn him great praise from the local nobility. Near the end of the tournament, the knight is discovered impaled on his own sword. The characters are asked to investigate, and discover that the knight has several expended Succurro Fortunam chartae on his person. Through further investigation, the characters uncover that the knight was in desperate need of money and had hoped to use his successes at the tournament to improve his position with his liege. If the characters return to the knight's manor, they discover that a local priest has disappeared. When they find the priest, they discover that he provided the knight with charms and then attempted to blackmail him. When the knight refused to pay the priest and threatened to kill him, the priest cursed him with a Vulnero Fortunam charm and the knight botched horribly.
+> A knight of mediocre abilities is suddenly the talk of the tournament. His fighting skills earn him great praise from the local nobility. Near the end of the tournament, the knight is discovered impaled on his own sword. The characters are asked to investigate, and discover that the knight has several expended Succurro Fortunam chartae on his person. Through further investigation, the characters uncover that the knight was in desperate need of money and had hoped to use his successes at the tournament to improve his position with his liege. If the characters return to the knight's manor, they discover that a local priest has disappeared. When they find the priest, they discover that he provided the knight with charms and then attempted to blackmail him. When the knight refused to pay the priest and threatened to kill him, the priest cursed him with a Vulnero Fortunam charm and the knight botched horribly.
 >
->CHARMS FROM STRANGERS
+> CHARMS FROM STRANGERS
 >
->On the return trip from a visit to town, the covenant's grogs are beset by terrible luck. One grog breaks his leg slipping on the path. While fighting bandits, another grog nearly impales himself. The mishaps become so blatant that someone finally suspects that magic is at work. When the magi investigate, they discover the grogs are carrying Vulnero Fortunam chartae. A friendly old man gave the grogs the charms for good luck while they were out on the town. When the group returns to town, the charm maker is gone. The characters are forced to investigate the identity of the learned magician and find why he gave the false chartae to the grogs. Does he harbor a grudge against the characters, or is he merely in the employ of someone else?
+> On the return trip from a visit to town, the covenant's grogs are beset by terrible luck. One grog breaks his leg slipping on the path. While fighting bandits, another grog nearly impales himself. The mishaps become so blatant that someone finally suspects that magic is at work. When the magi investigate, they discover the grogs are carrying Vulnero Fortunam chartae. A friendly old man gave the grogs the charms for good luck while they were out on the town. When the group returns to town, the charm maker is gone. The characters are forced to investigate the identity of the learned magician and find why he gave the false chartae to the grogs. Does he harbor a grudge against the characters, or is he merely in the employ of someone else?
 >
->UNWILLING AID
+> UNWILLING AID
 >
->Banditry in the forests near the characters' covenant is on the rise. The ill-organized and poorly equipped bandits have started defeating the local authorities with ease. Prices start to rise and all commerce begins to dwindle. The characters are forced to investigate. They discover the bandits are exceptionally strong, tough, and skilled with weapons. If the characters defeat one of the bandits, they discover he has a Tueor Salutem and Fortunam chartae on him. When the bandits are tracked back to their hideout, the characters discover that the highwaymen have captured a scholar and are forcing him to provide them with charms. If the learned magician is rescued, he is very grateful and offers his services to the covenant for a time.
+> Banditry in the forests near the characters' covenant is on the rise. The ill-organized and poorly equipped bandits have started defeating the local authorities with ease. Prices start to rise and all commerce begins to dwindle. The characters are forced to investigate. They discover the bandits are exceptionally strong, tough, and skilled with weapons. If the characters defeat one of the bandits, they discover he has a Tueor Salutem and Fortunam chartae on him. When the bandits are tracked back to their hideout, the characters discover that the highwaymen have captured a scholar and are forcing him to provide them with charms. If the learned magician is rescued, he is very grateful and offers his services to the covenant for a time.
 
 
 ### Magical Dangers
@@ -5103,9 +5115,7 @@ Magicians can gain Warping Points from all of the normal sources of Warping; see
 
 #### Intervention
 
-When a learned magician suffers an intervention, he is confronted by a powerful entity of the same realm in which the charm that caused the Warping was cast. If the learned magician botched in an area without an aura, a Magic entity intervenes. The learned magician has one opportunity to avoid an intervention. If the character is able to control the forces of his magic, no intervention occurs. If this attempt fails, the
-
-magician must attempt to appease the entity. If the character succeeds in avoiding intervention, nothing negative occurs except the accumulation of Warping Points.
+When a learned magician suffers an intervention, he is confronted by a powerful entity of the same realm in which the charm that caused the Warping was cast. If the learned magician botched in an area without an aura, a Magic entity intervenes. The learned magician has one opportunity to avoid an intervention. If the character is able to control the forces of his magic, no intervention occurs. If this attempt fails, the magician must attempt to appease the entity. If the character succeeds in avoiding intervention, nothing negative occurs except the accumulation of Warping Points.
 
 **INTERVENTION AVOIDANCE:** Intelligence + Concentration + (Magicam Score / 5) + stress die vs. Warping Score + Number of Warping Points Gained + (Realm) aura + stress die
 
@@ -5121,9 +5131,7 @@ The Susceptibility to (Realm) Power is always tied to the realm in which the lea
 
 #### Abduction
 
-Once the learned magician's Warping Score reaches 7, the entity takes more-direct action. This action continues over a number of seasons equal to the result of a stress die. Faerie and Infernal entities take the character to a regio associated with their realm, and prevent him from leaving for the duration. This is not normally a pleasant experience,
-
-although a faerie abduction may be. A Divine entity will not abduct a character to a Divine regio unless he is pious and free of sin. Instead, the Divine entity exposes the character to the horrors of the Infernal realm or prevents the magician from using any magic and harasses him so that he suffers from the Plagued by Supernatural Entity Flaw for the duration. Magical entities rarely abduct characters, and if they become annoyed with a magician's entreaties, they simply remove his ability to perform magic for the period indicated. When the character's Warping Score becomes 10, the effect becomes permanent. The character is removed to a regio aligned with the realm of the entity, never to return, or he loses all ability to practice any magic.
+Once the learned magician's Warping Score reaches 7, the entity takes more-direct action. This action continues over a number of seasons equal to the result of a stress die. Faerie and Infernal entities take the character to a regio associated with their realm, and prevent him from leaving for the duration. This is not normally a pleasant experience, although a faerie abduction may be. A Divine entity will not abduct a character to a Divine regio unless he is pious and free of sin. Instead, the Divine entity exposes the character to the horrors of the Infernal realm or prevents the magician from using any magic and harasses him so that he suffers from the Plagued by Supernatural Entity Flaw for the duration. Magical entities rarely abduct characters, and if they become annoyed with a magician's entreaties, they simply remove his ability to perform magic for the period indicated. When the character's Warping Score becomes 10, the effect becomes permanent. The character is removed to a regio aligned with the realm of the entity, never to return, or he loses all ability to practice any magic.
 
 ## Learned Magicians in Your Saga
 
@@ -5143,9 +5151,9 @@ Although there may be Gifted members of the guild of masters, they rarely teach 
 
 The students of Bologna have a reputation for being laidback, lax, and even revolutionary. This anti-establishment attitude might contribute to the students' desire to learn subjects beyond the normal curriculum. For more information on the University of Bologna or running a saga in Bologna, see the Universities chapter of Art « Academe.
 
->#### Story Seed: Historical Investigation
+> ### Story Seed: Historical Investigation
 >
->Despite their ambivalent feelings about the history of their magical tradition, many learned magicians recognize that Greek and Egypt sources provide fertile ground for discovering new charms and laboratory texts. The characters might encounter a mathematicus exploring these lands for new sources of magic, or a well-traveled mathematicus might have discovered a valuable source of Insight for Hermetic integration.
+> Despite their ambivalent feelings about the history of their magical tradition, many learned magicians recognize that Greek and Egypt sources provide fertile ground for discovering new charms and laboratory texts. The characters might encounter a mathematicus exploring these lands for new sources of magic, or a well-traveled mathematicus might have discovered a valuable source of Insight for Hermetic integration.
 
 #### Foundation of the Mathematici
 
@@ -5181,7 +5189,7 @@ Other Church officials worry that too often learned magicians call upon powers o
 
 Opinions do vary, but most members of the Church believe that amulets or chartae created for protective purposes that call upon the Divine are perfectly acceptable, or harmless symbols of a Christian's devotion at worst. The common folk are ignorant of the finer points of the debate over charms and amulets and accept them for what they are, a small measure of protection in a dangerous world.
 
-#### Learned Magicians in Play
+### Learned Magicians in Play
 
 In addition to playing a Mathematicus of Bologna, such a character can be involved in a saga as an ally or adversary of a covenant. If the mathematicus is not a member of the Order, then generate the character as described above. If the mathematicus is a member of the Order, follow the guidelines provided below under "Hermetic Magicians." Mathematici outside of the Order may be represented by the following Boons and Hooks.
 
@@ -5201,151 +5209,151 @@ One or more mathematici live in the covenant. If any of these mathematici have T
 
 A particularly powerful member of the Mathematici of Bologna might be invited, or commanded, to join the Order of Hermes. Such a magician would likely continue to practice his traditions magic, but might join the Order to avoid persecution or enjoy the benefits of Parma Magica. A nominally Hermetic learned magician character should take the Flaw Hedge Wizard and the Virtue Arcane Lore. The 50 experience points from Arcane Lore can be used to learn any Arcane Abilities, but the character already has access to those, and so would likely spend the experience points solely on Code of Hermes and Parma Magica. Otherwise, the player generates the character exactly as described earlier.
 
->#### Story Seed: Second Hand Books
+> ### Story Seed: Second Hand Books
 >
->The covenant unknowingly hires an unGifted mathematicus as a librarian or to instruct apprentices in Latin and Artes Liberales. The mathematicus copies and trades texts on Code of Hermes, Magic Theory, and Order of Hermes Lore to his Gifted brethren, to improve the player characters' mundane library. How do the characters react if the discover this trade? If the characters aren't careful, the mathematicus might discover and propagate the secrets of Parma Magica, after all. And if the Order discovers the characters were indirectly responsible for allowing information on Parma Magica to be learned by others, it would be a serious breach of the Code.
+> The covenant unknowingly hires an unGifted mathematicus as a librarian or to instruct apprentices in Latin and Artes Liberales. The mathematicus copies and trades texts on Code of Hermes, Magic Theory, and Order of Hermes Lore to his Gifted brethren, to improve the player characters' mundane library. How do the characters react if the discover this trade? If the characters aren't careful, the mathematicus might discover and propagate the secrets of Parma Magica, after all. And if the Order discovers the characters were indirectly responsible for allowing information on Parma Magica to be learned by others, it would be a serious breach of the Code.
 
->#### Stefano the Master
+> ### Stefano the Master
 >
->Characteristics: Int +4, Per +1, Pre +1, Com +2, Str –1, Sta –1, Dex 0, Qik +1
+> Characteristics: Int +4, Per +1, Pre +1, Com +2, Str –1, Sta –1, Dex 0, Qik +1
 >
->Size: 0 
+> Size: 0
 >
->Age: 30 
+> Age: 30
 >
->Decrepitude: 0 
+> Decrepitude: 0
 >
->Warping Score: 1 
+> Warping Score: 1
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Gift; Magister in Artibus, Mathematicus of Bologna; Affinity with Divine Lore, Arcane Lore, Book Learner, Educated, Great Intelligence, Improved Characteristics, Skilled Master; Driven, Dependent, Deleterious Circumstances (wilderness), Susceptibility to Infernal Power, Weak Magic, Poor Eyesight
+> Virtues and Flaws: The Gift; Magister in Artibus, Mathematicus of Bologna; Affinity with Divine Lore, Arcane Lore, Book Learner, Educated, Great Intelligence, Improved Characteristics, Skilled Master; Driven, Dependent, Deleterious Circumstances (wilderness), Susceptibility to Infernal Power, Weak Magic, Poor Eyesight
 >
->Personality Traits: Driven +3, Scholarly +3, Stubborn +2, Fair +1
+> Personality Traits: Driven +3, Scholarly +3, Stubborn +2, Fair +1
 >
->Reputations: Accomplished Scholar 2 (local) 
+> Reputations: Accomplished Scholar 2 (local)
 >
->Combat:
+> Combat:
 >
->Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
+> Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
 >
->Soak: -1
+> Soak: -1
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Arabic 1 (charms), Artes Liberales 5 (astronomy), Bologna Lore 2 (geography), Charm 2 (putting others at ease), Church Lore 2 (history), Civil and Canon Law 2 (treatment of magic), Divine Lore 5 (names of power), Etiquette 2 (nobility), Faerie Lore 2 (names of power), Folk Ken 2 (clergy), Infernal Lore 2 (names of power), Italian 5 (poetry), Latin 5 (letter writing), Lore of the Mathematici 2 (Initiations), Magic Lore 2 (names of power), Medicine 3 (physician), Philosophiae 4 (moral philosophy), Profession (Scribe) 1 (flowery script), Teaching 3 (Artes Liberales), Theology 2 (treatment of magic)
+> Abilities: Arabic 1 (charms), Artes Liberales 5 (astronomy), Bologna Lore 2 (geography), Charm 2 (putting others at ease), Church Lore 2 (history), Civil and Canon Law 2 (treatment of magic), Divine Lore 5 (names of power), Etiquette 2 (nobility), Faerie Lore 2 (names of power), Folk Ken 2 (clergy), Infernal Lore 2 (names of power), Italian 5 (poetry), Latin 5 (letter writing), Lore of the Mathematici 2 (Initiations), Magic Lore 2 (names of power), Medicine 3 (physician), Philosophiae 4 (moral philosophy), Profession (Scribe) 1 (flowery script), Teaching 3 (Artes Liberales), Theology 2 (treatment of magic)
 >
->Arts: Tu 2, Su 2, Vu 2, Fa 14, Ma 6, Sa 5
+> Arts: Tu 2, Su 2, Vu 2, Fa 14, Ma 6, Sa 5
 >
->Equipment: Clothes, walking stick, and a writing material.
+> Equipment: Clothes, walking stick, and a writing material.
 >
->Encumbrance: 0 (0) 
+> Encumbrance: 0 (0)
 >
->Spells Known:
+> Spells Known:
 >
->Grant Fortuna Belli (Single Weapon) (TuFa 15/+9)
+> Grant Fortuna Belli (Single Weapon) (TuFa 15/+9)
 >
->Grant Fortuna Belli (Brawl) (TuFa 15/+9)
+> Grant Fortuna Belli (Brawl) (TuFa 15/+9)
 >
->Charm against Capriciousness (Medicine) (TuFa 15/+9) (Personal Range)
+> Charm against Capriciousness (Medicine) (TuFa 15/+9) (Personal Range)
 >
->Magical Fortitude Charm against Magic Fire (+8 Soak) (TuMa 5/+5)
+> Magical Fortitude Charm against Magic Fire (+8 Soak) (TuMa 5/+5)
 >
->Magical Fortitude Charm against Magic Claws (+8 Soak) (TuMa 5/+5)
+> Magical Fortitude Charm against Magic Claws (+8 Soak) (TuMa 5/+5)
 >
->Magical Fortitude Charm against Magic Teeth (+8 Soak) (TuMa 5/+5)
+> Magical Fortitude Charm against Magic Teeth (+8 Soak) (TuMa 5/+5)
 >
->Charm against Entrancement (+9 Ease Factor) (TuMa 10/+5)
+> Charm against Entrancement (+9 Ease Factor) (TuMa 10/+5)
 >
->Charm against Hex (+9 Ease Factor) (TuMa 10/+5)
+> Charm against Hex (+9 Ease Factor) (TuMa 10/+5)
 >
->Gift of Prometheus (Good Teacher) (SuFa 20/+9) (Personal Range)
+> Gift of Prometheus (Good Teacher) (SuFa 20/+9) (Personal Range)
 >
->Charm of Communication (+1) (SuFa 20/+9) Charm of Stamina (+1) (SuFa 20/+9)
+> Charm of Communication (+1) (SuFa 20/+9) Charm of Stamina (+1) (SuFa 20/+9)
 >
->Charm of Protection against Achilles' Bane (fists) (+8 Soak) (TuSa 5/+5)
+> Charm of Protection against Achilles' Bane (fists) (+8 Soak) (TuSa 5/+5)
 >
->Charm of Protection against Achilles' Bane (kicks) (+8 Soak) (TuSa 5/+5)
+> Charm of Protection against Achilles' Bane (kicks) (+8 Soak) (TuSa 5/+5)
 >
->Dispel Fortuna Belli (Brawl) (VuFa 5/+9)
+> Dispel Fortuna Belli (Brawl) (VuFa 5/+9)
 >
->Dispel Fortuna Belli (Single Weapon) (VuFa 5/+9)
+> Dispel Fortuna Belli (Single Weapon) (VuFa 5/+9)
 >
->Charm of Protection against the Faerie (Might 5) (VuMa 5/+5)
+> Charm of Protection against the Faerie (Might 5) (VuMa 5/+5)
 >
->Charm of Protection against the Infernal (Might 5) (VuMa 5/+5)
+> Charm of Protection against the Infernal (Might 5) (VuMa 5/+5)
 >
->Curse of Coughing Fits (VuSa 10/+5)
+> Curse of Coughing Fits (VuSa 10/+5)
 >
->Appearance: Stefano is a slight man with spindly arms and legs. He has a slight paunch from spending too much time at his studies. He has a broad smile and cheerful brown eyes. His bushy black beard is starting to go grey.
+> Appearance: Stefano is a slight man with spindly arms and legs. He has a slight paunch from spending too much time at his studies. He has a broad smile and cheerful brown eyes. His bushy black beard is starting to go grey.
 >
->Stefano was born in Rome, where his father was a well-known jurist. The social effects of The Gift made Stefano's child-hood an uncomfortable one, and his father sent him off to the finest teachers money could buy, largely to keep the strange child from embarrassing the family. Stefano attended the University of Bologna where he encountered the Mathematici. He was a quick study and became an accomplished scholar. Stefano impressed the senior members of the guild of masters and was offered a teaching position.
+> Stefano was born in Rome, where his father was a well-known jurist. The social effects of The Gift made Stefano's child-hood an uncomfortable one, and his father sent him off to the finest teachers money could buy, largely to keep the strange child from embarrassing the family. Stefano attended the University of Bologna where he encountered the Mathematici. He was a quick study and became an accomplished scholar. Stefano impressed the senior members of the guild of masters and was offered a teaching position.
 >
->Stephano's father died recently, and his stepmother sent his adolescent sister to Bologna to live with him. They frequently argue because Stephano pays little attention to his sister and she resents living in the relative poverty required by Stephano's profession. Although their relationship is tense, Stephano would do anything for his sister.
+> Stephano's father died recently, and his stepmother sent his adolescent sister to Bologna to live with him. They frequently argue because Stephano pays little attention to his sister and she resents living in the relative poverty required by Stephano's profession. Although their relationship is tense, Stephano would do anything for his sister.
 >
->Stefano is very concerned about doing a good job as a teacher, and casts Gift of Prometheus and Charm of Communication before every lecture. These charms do not allow him to overcome the effects of The Gift, but as the year progresses his students warm to him as the negative effects diminish somewhat, and they begin to appreciate his eloquent lectures. Stefano obsesses about the Church and its stance on the use of magic. He is worried that the Church will uncover the Mathematici and make trouble for them and the University. In his spare time, Stefano has been corresponding with clergy across Mythic Europe to discuss his research on canon law regarding the use of magic.
+> Stefano is very concerned about doing a good job as a teacher, and casts Gift of Prometheus and Charm of Communication before every lecture. These charms do not allow him to overcome the effects of The Gift, but as the year progresses his students warm to him as the negative effects diminish somewhat, and they begin to appreciate his eloquent lectures. Stefano obsesses about the Church and its stance on the use of magic. He is worried that the Church will uncover the Mathematici and make trouble for them and the University. In his spare time, Stefano has been corresponding with clergy across Mythic Europe to discuss his research on canon law regarding the use of magic.
 >
->Because Stefano learned his magic while studying to become a Magister, no additional experience points were assigned for the years of his "apprenticeship."
+> Because Stefano learned his magic while studying to become a Magister, no additional experience points were assigned for the years of his "apprenticeship."
 
->#### Marco the Student
+> ### Marco the Student
 >
->Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex -1, Qik 0
+> Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex -1, Qik 0
 >
->Size: 0 
+> Size: 0
 >
->Age: 27
+> Age: 27
 >
->Decrepitude: 0 
+> Decrepitude: 0
 >
->Warping Score: 0 
+> Warping Score: 0
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: Priest, Mathematicus of Bologna; Strong Amulet Magic, Tueor; Magicam, Relic, Salutem, Sense Holiness and Unholiness, Social Contacts (minor clergy), Student of the Divine, Well-Traveled; Compassionate, Intervention Prone, Plagued by Angel; Incompatible Hedge Arts (Vulnero & Salutem), Fragile Constitution, No Magic Defenses, Short-Lived Magic, Short-Ranged Magic, Social Handicap (sickly), Vow (celibacy), Warped Magic, Weak Magic
+> Virtues and Flaws: Priest, Mathematicus of Bologna; Strong Amulet Magic, Tueor; Magicam, Relic, Salutem, Sense Holiness and Unholiness, Social Contacts (minor clergy), Student of the Divine, Well-Traveled; Compassionate, Intervention Prone, Plagued by Angel; Incompatible Hedge Arts (Vulnero & Salutem), Fragile Constitution, No Magic Defenses, Short-Lived Magic, Short-Ranged Magic, Social Handicap (sickly), Vow (celibacy), Warped Magic, Weak Magic
 >
->Personality Traits: Kind +3, Curious +2, Shy +1, Brave -1
+> Personality Traits: Kind +3, Curious +2, Shy +1, Brave -1
 >
->Reputations: Creepy 2 (local)
+> Reputations: Creepy 2 (local)
 >
->Combat:
+> Combat:
 >
->Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
+> Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
 >
->Soak: —1
+> Soak: —1
 >
->Fatigue Levels: OK, 0, -1, -3, —5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, —5, Unconscious
 >
->Wound Penalties: —1 (1-5), —3 (6-10), —5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: —1 (1-5), —3 (6-10), —5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Artes Liberales 2 (rhetoric), Brawl 1 (dodging), Bologna Lore 3 (graveyards), Charm 2 (superiors), Church Lore 2 (legends), Civil and Canon Law 2 (regulations), Divine Lore 3+2 (names of power), Etiquette 3 (Church), Folk Ken 3 (clergy), Intrigue 1 (appointments), Italian 5 (preaching), Latin 4 (Church rites), Lore of the Mathematici 1 (history), Magic Lore 2 (ghosts), Philosophiae 2 (natural philosophy), Sense Holiness and Unholiness 4 (ghosts), Theology 2 (purgatory)
+> Abilities: Artes Liberales 2 (rhetoric), Brawl 1 (dodging), Bologna Lore 3 (graveyards), Charm 2 (superiors), Church Lore 2 (legends), Civil and Canon Law 2 (regulations), Divine Lore 3+2 (names of power), Etiquette 3 (Church), Folk Ken 3 (clergy), Intrigue 1 (appointments), Italian 5 (preaching), Latin 4 (Church rites), Lore of the Mathematici 1 (history), Magic Lore 2 (ghosts), Philosophiae 2 (natural philosophy), Sense Holiness and Unholiness 4 (ghosts), Theology 2 (purgatory)
 >
->Arts: Tu 1, Su (n/a), Vu (n/a), Fa (n/a), Ma 7, Sa 7 Equipment: Simple robes.
+> Arts: Tu 1, Su (n/a), Vu (n/a), Fa (n/a), Ma 7, Sa 7 Equipment: Simple robes.
 >
->Encumbrance: 0 (0)
+> Encumbrance: 0 (0)
 >
->Spells Known:
+> Spells Known:
 >
->Magical Fortitude Charm against Magical Claws (+10 Soak) (TuMa 10/+5)
+> Magical Fortitude Charm against Magical Claws (+10 Soak) (TuMa 10/+5)
 >
->Charm of Alacritous Fortune against Claws (+4 Defense) (TuMa 10/+5)
+> Charm of Alacritous Fortune against Claws (+4 Defense) (TuMa 10/+5)
 >
->Charm against Hex (+9 Ease Factor) (TuMa 10/+5)
+> Charm against Hex (+9 Ease Factor) (TuMa 10/+5)
 >
->Charm of Protection against Achilles'Bane (knives) (+10 Soak) (TuSa 10/+5)
+> Charm of Protection against Achilles'Bane (knives) (+10 Soak) (TuSa 10/+5)
 >
->Charm of Protection against Achilles' Bane (clubs) (+10 Soak) (TuSa 10/+5)
+> Charm of Protection against Achilles' Bane (clubs) (+10 Soak) (TuSa 10/+5)
 >
->Appearance: Marco is a portly man with a thin smile and beady black eyes. Marco is constantly coughing, wheezing, and wiping his nose on the sleeve of his black habit.
+> Appearance: Marco is a portly man with a thin smile and beady black eyes. Marco is constantly coughing, wheezing, and wiping his nose on the sleeve of his black habit.
 >
->Marco came to Bologna after corresponding with Stefano for several years. Through their correspondence, Marco came to realize that Stefano possessed knowledge of the supernatural. Marco sought him out because for as long Marco can remember he has been pestered by a creature claiming to be an angel. The creature exhorts Marco to assist the spirits of the recently departed on their way to the afterlife. Marco is not sure that this creature is an angel, but it seems to be prodding him to do good deeds. The angel has also encouraged Marco to learn more about purgatory. In his travels, Marco has acquired a finger bone of Saint Odilo, the patron saint of souls in purgatory. Although Marco has only studied for two years as a member of the learned magicians, he is able to create amulets and chartae to assist him in his vocation.
+> Marco came to Bologna after corresponding with Stefano for several years. Through their correspondence, Marco came to realize that Stefano possessed knowledge of the supernatural. Marco sought him out because for as long Marco can remember he has been pestered by a creature claiming to be an angel. The creature exhorts Marco to assist the spirits of the recently departed on their way to the afterlife. Marco is not sure that this creature is an angel, but it seems to be prodding him to do good deeds. The angel has also encouraged Marco to learn more about purgatory. In his travels, Marco has acquired a finger bone of Saint Odilo, the patron saint of souls in purgatory. Although Marco has only studied for two years as a member of the learned magicians, he is able to create amulets and chartae to assist him in his vocation.
 
 ## Alternate Traditions
 
 There is no requirement that the Mathematici be based in Bologna, and any of the university towns — such as Oxford, Cambridge, Paris, Montpellier, or Salamanca — are equally suitable. See the Universities chapter of Art & Academe for a description of universities in Mythic Europe. With little effort, the magicians could be placed in any of these locations. In addition, the magic of this chapter can be used for other magical traditions.
 
-### Muthic Alchemists
+### Mythic Alchemists
 
 **Required Virtues and Flaws:** Mythic Alchemy, Laboratory Magician, and No Text Casting
 
@@ -5367,9 +5375,7 @@ Mythic alchemists cannot cast charms, but instead create powders, potions, or pa
 
 Alchemists can create powders, which use the same mechanics as chartae, except that there is no astrological component. Like chartae, alchemical powders only last for a limited time and are useless after their initial charge expires.
 
-Alchemists may also create potions. Potions use the same basic game mechanics as amulets, with a few exceptions. An alchemist's potions do not require any astronomical knowledge and may be used by anyone; however, the alchemist must use 1 pawn of vis for every 5 levels of the base effect of the potion. For each charge that an amulet would have, the alchemist creates another dose of
-
-the potion, which also requires an additional pawn of vis. An alchemist may elect to conserve vis by not making the additional doses. Succurro Magicam charms may not be used to increase the number of doses of a potion.
+Alchemists may also create potions. Potions use the same basic game mechanics as amulets, with a few exceptions. An alchemist's potions do not require any astronomical knowledge and may be used by anyone; however, the alchemist must use 1 pawn of vis for every 5 levels of the base effect of the potion. For each charge that an amulet would have, the alchemist creates another dose of the potion, which also requires an additional pawn of vis. An alchemist may elect to conserve vis by not making the additional doses. Succurro Magicam charms may not be used to increase the number of doses of a potion.
 
 Mythic alchemists use slightly different Targets than learned magicians. They cannot use the Bloodline Target. If the alchemist uses the Group Target, he creates a pastille. Pastilles are small lumps of hardened paste that must be ignited to take effect. The smoke they produce carries the magic. They lose effectiveness in wide-open or breezy areas quickly. The target need not be able to breathe; it is enough for it to be surrounded by the pastilles smoke.
 
@@ -5403,9 +5409,9 @@ Cunning-folk have equivalents of chartae and amulets; however, the magical devic
 
 The cunning-folk substitute the Craft: Charm Ability for Artes Liberales in their Laboratory Total when creating their devices. The rest of the mechanics remain the same, except the cunning-folk need not cast horoscopes for the recipients of their magic. Cunning-folk may use the same rules as magi for lab assistance, except their assistants must possess at least one learned Magic Technique and Form, and the assistants Craft: Charm score is substituted for Magic Theory in determining the amount added to the wizard's Lab Total (ArM5, page 103).
 
->#### Minor Hermetic Virtue: Quick Charged Items
+> ### Minor Hermetic Virtue: Quick Charged Items
 >
->The magus is able to create single-use charged items. The level of the effect of the charged item must be less than or equal to the magus' Lab Total. The magus must spend one hour per magnitude of the effect of the item. At the end of that period, the magus creates a charged item with a single charge. All other restrictions on the creation of charged items must be followed.
+> The magus is able to create single-use charged items. The level of the effect of the charged item must be less than or equal to the magus' Lab Total. The magus must spend one hour per magnitude of the effect of the item. At the end of that period, the magus creates a charged item with a single charge. All other restrictions on the creation of charged items must be followed.
 
 #### Characters
 
@@ -5417,7 +5423,7 @@ Although the cunning-folk are generated using the same basic rules described ear
 
 The learned magicians' magic is the source of a potential Breakthrough for the magus who manages to integrate it with Hermetic magic.
 
-### Single Cast Charged Items
+### Single-Use Charged Items
 
 **Suggested Breakthrough Points:** 40
 
@@ -5499,7 +5505,7 @@ Second Sight comes only with difficulty to half taltós. They must perform a sim
 
 The half taltós may affect spirits with his personal armaments. These are usually a sword or whip, with a smaller weapon for emergencies. These are physical weapons with a spiritual nature. If a half taltós loses a weapon, it takes a month of occasional work for him to create the Arcane Connection to a new weapon necessary for it to be used to harm spirits.
 
-#### Hvar
+#### Hamr
 
 Minor, Supernatural
 
@@ -5517,9 +5523,9 @@ Hamr can be used for purposes other than battle. For example, bird hamr make exc
 
 Minor, Supernatural
 
-Hermetic magi prone to speculation on these things, particularly from the Houses of Bjornaer and Tremere, have noted that there is a class of hedge magicians who sleepwalk within their bamr, rather than entering a trance hidden away from the battlefield. The *bamr* is larger than a human is, and may appear to be a hybrid of human and animal forms. The magician is cloaked within the phantasticum, the more durable and combatworthy form. In battle, a Heavy Wound may cut the bamr so deeply that the skin of the human within is visible through the laceration. Sleepwalkers are unable to stray, in the sense of their phantasticum losing physical contact with the body, so lack virtually all of the powers of nightwalkers.
+Hermetic magi prone to speculation on these things, particularly from the Houses of Bjornaer and Tremere, have noted that there is a class of hedge magicians who sleepwalk within their hamr, rather than entering a trance hidden away from the battlefield. The *hamr* is larger than a human is, and may appear to be a hybrid of human and animal forms. The magician is cloaked within the phantasticum, the more durable and combatworthy form. In battle, a Heavy Wound may cut the hamr so deeply that the skin of the human within is visible through the laceration. Sleepwalkers are unable to stray, in the sense of their phantasticum losing physical contact with the body, so lack virtually all of the powers of nightwalkers.
 
-Sleepwalkers, like magicians with a *bamr*, require props and are likely to arrive at tense situations almost out of their minds. It often occurs that those sleepwalking in their *bamr* act with the ferocity of their animal form, and fail to recognize friends and family who are dear to them in the waking state.
+Sleepwalkers, like magicians with a *hamr*, require props and are likely to arrive at tense situations almost out of their minds. It often occurs that those sleepwalking in their *hamr* act with the ferocity of their animal form, and fail to recognize friends and family who are dear to them in the waking state.
 
 ### Virtues Nightwalkers Often Possess
 
@@ -5539,25 +5545,25 @@ Nightwalkers use this Ability to detect their foes while awake. In northern Ital
 
 Some nightwalkers break curses using cthonic powers, as described in the supplement Realms of Power: The Infernal.
 
->#### Born With a Caul
+> ### Born With a Caul
 >
->In most of the traditions, potential nightwalkers are born with a caul. That is, most nightwalkers are born with a hood of membrane. This must be kept, and is given to the nightwalker by his or her parents. In some traditions, a nightwalker who loses his caul loses his powers until he regains it. This weakness may be taken as a Major Story Flaw. In those areas where nightwalkers are common, when the parents give their child a caul they usually also tell him what little they know about the night battles. Knowledge of the nightwalkers is an (Organization) Lore, but characters who have not mustered for fertility battles rarely have a score higher than 1.
+> In most of the traditions, potential nightwalkers are born with a caul. That is, most nightwalkers are born with a hood of membrane. This must be kept, and is given to the nightwalker by his or her parents. In some traditions, a nightwalker who loses his caul loses his powers until he regains it. This weakness may be taken as a Major Story Flaw. In those areas where nightwalkers are common, when the parents give their child a caul they usually also tell him what little they know about the night battles. Knowledge of the nightwalkers is an (Organization) Lore, but characters who have not mustered for fertility battles rarely have a score higher than 1.
 >
->Having a caul, by birth or purchase, grants any of the properties below, each purchased as a Virtue. Caul-based Virtues are frequently found among nightwalkers, but are not required for membership of any nightwalker tradition.
+> Having a caul, by birth or purchase, grants any of the properties below, each purchased as a Virtue. Caul-based Virtues are frequently found among nightwalkers, but are not required for membership of any nightwalker tradition.
 >
->**Immunity to Drowning** (Major, ArM5, page 43). The character is immune to drowning, but this does not actually allow him to breathe underwater. He simply floats unconscious to the nearest shore if he would otherwise drown.
+> **Immunity to Drowning** (Major, ArM5, page 43). The character is immune to drowning, but this does not actually allow him to breathe underwater. He simply floats unconscious to the nearest shore if he would otherwise drown.
 >
->**Luck** (Minor, ArM5, page 45)
+> **Luck** (Minor, ArM5, page 45)
 >
->**Self-Confidence** (Minor, ArM5, page 48) 
+> **Self-Confidence** (Minor, ArM5, page 48)
 >
->**Strong-Willed** (Minor, ArM5, page 49)
+> **Strong-Willed** (Minor, ArM5, page 49)
 >
->Being born with a caul, regardless of whether it has been retained, often grants one of the following Virtues:
+> Being born with a caul, regardless of whether it has been retained, often grants one of the following Virtues:
 >
->**Dowsing** (Minor, ArM5, page 41) Second Sight (Minor, ArM5, page 48)
+> **Dowsing** (Minor, ArM5, page 41) Second Sight (Minor, ArM5, page 48)
 >
->**Weather Sense** (Minor), The character has an intuitive understanding of the weather, identical in effect to the spell Sailor's Foretaste of the Morrow (ArM5, page 127). The character needs only to concentrate to use this ability: it does not require a roll.
+> **Weather Sense** (Minor), The character has an intuitive understanding of the weather, identical in effect to the spell Sailor's Foretaste of the Morrow (ArM5, page 127). The character needs only to concentrate to use this ability: it does not require a roll.
 
 ### Flaws Nightwalkers Often Possess
 
@@ -5569,8 +5575,7 @@ The magical power that defines these hedge traditions, called ekstasis or "stray
 
 ### Ekstasis
 
-The range of actions that characters can perform while their spirits stray varies between the traditions that have developed 
-in different locations. The section below in cludes those abilities found in all groups who have the Nightwalker Virtue.
+The range of actions that characters can perform while their spirits stray varies between the traditions that have developed in different locations. The section below includes those abilities found in all groups who have the Nightwalker Virtue.
 
 #### Preparation for Straying
 
@@ -5608,9 +5613,7 @@ Much as the ghost of a knight may involuntarily make a ghostly horse for himself
 
 Spirit travel is, objectively, almost instant, but is experienced at a dreamy pace. A character may recall traveling for a hour on roads, or flying, or running through underbrush mounted on the back of a hare. The character may recall having conversations with his travel partners. This experience of extended duration does not alter the swiftness of the travel: it's possible to appear on the other side of Europe after just a few minutes.
 
-A character attempting spirit travel needs to make a Stamina + Athletics roll, with the result as given in the table. A character may carry the usual accouterments of a member of the character's tradition of nightwalker without penalty. Carrying any other object increases the difficulty of the roll by +3 per
-
-object. The character may not carry objects heavier than the character could carry in physical form. Objects carried away become phantastic, like the character's equipment, and become invisible if the character does.
+A character attempting spirit travel needs to make a Stamina + Athletics roll, with the result as given in the table. A character may carry the usual accouterments of a member of the character's tradition of nightwalker without penalty. Carrying any other object increases the difficulty of the roll by +3 per object. The character may not carry objects heavier than the character could carry in physical form. Objects carried away become phantastic, like the character's equipment, and become invisible if the character does.
 
 | RESULT | LOCATION                                                                                                      |
 |--------|---------------------------------------------------------------------------------------------------------------|
@@ -5626,26 +5629,26 @@ The following attempts at spirit travel are automatically successful:
 
 - Traveling to the location of one's own caul, in those traditions where nightwalkers are born with cauls.
 - In those traditions that are summoned or led to battle or procession, traveling to the location to which the character is summoned or led.
-- Traveling to the character’s True Love, or leading another to his or her True Love.
+- Traveling to the character's True Love, or leading another to his or her True Love.
 - Followina known route, at conventional speed. A nightwalker strolling through his village in phantastic form, for example, need not roll.
 
->#### Combat Statistics for Animal Phantastica
+> ### Combat Statistics for Animal Phantastica
 >
->To design a character's animal phantasticum, use the following system.
+> To design a character's animal phantasticum, use the following system.
 >
->Base Statistics: Find the statistics for the animal species in the Book of Mundane Beasts appendix found in *Realms of Power: Magic*, or use the rules in *House of Hermes: Mystery Cults* to design the mundane animal. The statistics for the five most common shapes used for combat are given in an insert.
+> Base Statistics: Find the statistics for the animal species in the Book of Mundane Beasts appendix found in *Realms of Power: Magic*, or use the rules in *Houses of Hermes: Mystery Cults* to design the mundane animal. The statistics for the five most common shapes used for combat are given in an insert.
 >
->Characteristics: The character has the same Intelligence score in both forms. For all other Characteristics, if both the species and character have a negative score, use the lowest score. If both the species and the character have a positive score, use the highest. If the character and the species have one positive and one negative score, add the two scores.
+> Characteristics: The character has the same Intelligence score in both forms. For all other Characteristics, if both the species and character have a negative score, use the lowest score. If both the species and the character have a positive score, use the highest. If the character and the species have one positive and one negative score, add the two scores.
 >
->Size: If the character has a Virtue or Flaw affecting Size, it changes the Size of the animal form.
+> Size: If the character has a Virtue or Flaw affecting Size, it changes the Size of the animal form.
 >
->Virtues and Flaws: Apply all Virtues and Flaws related to the character's human body to the animal form. For example, Missing Eye.
+> Virtues and Flaws: Apply all Virtues and Flaws related to the character's human body to the animal form. For example, Missing Eye.
 >
->Abilities: Use the General Abilities of the species. Human abilities cannot be accessed in animal form, except those that are used to know or understand. The character may communicate with animals of similar aspect and diet.
+> Abilities: Use the General Abilities of the species. Human abilities cannot be accessed in animal form, except those that are used to know or understand. The character may communicate with animals of similar aspect and diet.
 >
->Experience: Characters spending prolonged periods in animal form may spend experience on the Abilities of the animal form. This usually requires the Versatile Phantasticum Virtue.
+> Experience: Characters spending prolonged periods in animal form may spend experience on the Abilities of the animal form. This usually requires the Versatile Phantasticum Virtue.
 >
->Combat: The combat statistics now need to be adjusted to suit the character's Brawl score.
+> Combat: The combat statistics now need to be adjusted to suit the character's Brawl score.
 
 #### Communications Through Straying
 
@@ -5679,19 +5682,19 @@ All characters with the Nightwalker virtue participate in fertility battles: bat
 
 The night battles vary slightly between regions. In some places, the nightwalkers fight as drilled military units of infantry, while in others the individuals of each cause square off in a chaotic mêlée. Followers of a few traditions retain their animal forms during battle, and similarly, a small number ride combat-worthy steeds, like horses.
 
->#### Covenants Supplement Modifiers
+> ### Covenants Supplement Modifiers
 >
->Sagas using the *Covenants* supplement may simulate the effects of fertility battles by selecting the appropriate outcome on the Income Modification Table on page 57 of that book. This selection replaces the stress die roll.
+> Sagas using the *Covenants* supplement may simulate the effects of fertility battles by selecting the appropriate outcome on the Income Modification Table on page 57 of that book. This selection replaces the stress die roll.
 >
->| BATTLE OUTCOME                                                      | Result      |
->|---------------------------------------------------------------------|-------------|
->| Favoured side utterly defeated and harried through the countryside. | Slump       |
->| Favoured side routed.                                               | Contraction |
->| Favoured side forced to flee the field in good order.               | Stagnation  |
->| Favoured side wins the field.                                       | Status Quo  |
->| Favoured side routs its enemies, who flee in disarray.              | Growth      |
->| Favoured side harries routed enemies through the night.             | Expansion   |
->| Favoured side traps and annihilates every member of enemy militia.  | Boom        |
+> | BATTLE OUTCOME                                                      | Result      |
+> |---------------------------------------------------------------------|-------------|
+> | Favoured side utterly defeated and harried through the countryside. | Slump       |
+> | Favoured side routed.                                               | Contraction |
+> | Favoured side forced to flee the field in good order.               | Stagnation  |
+> | Favoured side wins the field.                                       | Status Quo  |
+> | Favoured side routs its enemies, who flee in disarray.              | Growth      |
+> | Favoured side harries routed enemies through the night.             | Expansion   |
+> | Favoured side traps and annihilates every member of enemy militia.  | Boom        |
 
 
 If a player's character is part of a militia that is fighting as a disciplined group, then the player rolls on behalf of that group. If the player's character is particularly formidable, the character may be the vanguard. A character is not the leader of the group unless he has become its leader througha story event.
@@ -5700,7 +5703,7 @@ If the two sides are fighting as individuals, the character must seek and defeat
 
 *For example, in a particular battle a character with a buman pbantasticum uses a bunch of a sacred herb as a club to thrash an enemy. The nigbtwalker risks being beaten in return. Some nigbtwalkers fight in animal form, and those servants of evil that are not Infernal witches may have unusual weapons. The fighting continues until one side flees the field. Wounds taken in the night battles appear on the sleeping forms of the nigbtwalkers. Those who have been soundly thrashed may feel tired and sore for days, and may be covered in bruises.*
 
-### Death in Night Battles
+#### Death in Night Battles
 
 The proportion of nightwalkers who die in nightly battles varies between traditions. It is rare for a benandante to die in the night battles, while the tradition just to their south, the mazzeri, virtually all die in battle. As a compensating factor, mazzeri tend to die in battle only when they are of advanced age and in ill health. Traditions often balance lethality with length of service, which is why some members of the extremely dangerous taltós tradition retire at fifteen, and the Hounds of God pass on their powers to others when have passed their prime of life.
 
@@ -5736,25 +5739,25 @@ Nightwalkers rarely meet in waking life and, because the battles are dreamlike o
 
 Nightwalkers sometimes also recognize the Infernal witches they have fought if they meet them in the waking world. The Ease Factor is (18 – Reputation). Some Infernal witches can take on the forms of innocent people during night battles, so most nightwalkers prefer to use supernatural methods of detection.
 
->#### Story Seed: Saving the Falsely Accused
+> ### Story Seed: Saving the Falsely Accused
 >
->There is a folktale that describes a strategy of the Infernal.
+> There is a folktale that describes a strategy of the Infernal.
 >
->A nightwalker cut the face of an Infernal witch during a fertility battle, and recognized her as a woman from his village. Upon waking, he gathered his neighbors and broke into her house. The crowd found the woman asleep, with a cut upon her face just as the nightwalker described. Their effort to lynch the woman was stopped by the local priest. He forced a demon hiding in her house to become visible and explain its actions. The demon peeled a thin layer off the woman's face, removing the cut, and admitted that one of its followers had borrowed the pious woman's appearance.
+> A nightwalker cut the face of an Infernal witch during a fertility battle, and recognized her as a woman from his village. Upon waking, he gathered his neighbors and broke into her house. The crowd found the woman asleep, with a cut upon her face just as the nightwalker described. Their effort to lynch the woman was stopped by the local priest. He forced a demon hiding in her house to become visible and explain its actions. The demon peeled a thin layer off the woman's face, removing the cut, and admitted that one of its followers had borrowed the pious woman's appearance.
 >
->Player characters may discover the demon, instead of the priest, and try to find a way to save the innocent woman. Incautious player characters might be fooled by similar ruses, which can be even more elaborate. For example, if the woman was a servant of the demon's then this story ends with her happy and safe, and the nightwalker discredited in his community.
+> Player characters may discover the demon, instead of the priest, and try to find a way to save the innocent woman. Incautious player characters might be fooled by similar ruses, which can be even more elaborate. For example, if the woman was a servant of the demon's then this story ends with her happy and safe, and the nightwalker discredited in his community.
 
->#### Where Do Captains Come From?
+> ### Where Do Captains Come From?
 >
->In some areas the captains on each side of the fertility battles are supernatural creatures, but this is less interesting for players than if their own side can be led into battle by a human — a role to which the player character can aspire. The human captain is chosen by the supernatural patron of the host, and is chosen for loyalty to the cause and skill in battle. Characters wishing to become captains need to live up to the ideals that the sponsor favors, and develop Abilities like Leadership, Second Sight, and the combat Ability appropriate for the character's militia. Captains are favored by supernatural patrons with abilities and items beyond those of average nightwalkers.
+> In some areas the captains on each side of the fertility battles are supernatural creatures, but this is less interesting for players than if their own side can be led into battle by a human — a role to which the player character can aspire. The human captain is chosen by the supernatural patron of the host, and is chosen for loyalty to the cause and skill in battle. Characters wishing to become captains need to live up to the ideals that the sponsor favors, and develop Abilities like Leadership, Second Sight, and the combat Ability appropriate for the character's militia. Captains are favored by supernatural patrons with abilities and items beyond those of average nightwalkers.
 >
->#### Intervening in the Battles
+> ### Intervening in the Battles
 >
->Magi who witness a night battle may intervene. The two sides are each in corporeal form, and may be affected normally by magic. If the captain of the forces of evil is a demon, the spells that usually harm that class of being remain effective. Magi who regularly intervene in the night battles may develop the Plagued by Supernatural Entities Flaw, as the sponsor of the evil host attempts to destroy the nightwalkers' new allies.
+> Magi who witness a night battle may intervene. The two sides are each in corporeal form, and may be affected normally by magic. If the captain of the forces of evil is a demon, the spells that usually harm that class of being remain effective. Magi who regularly intervene in the night battles may develop the Plagued by Supernatural Entities Flaw, as the sponsor of the evil host attempts to destroy the nightwalkers' new allies.
 >
->#### Saga Considerations
+> ### Saga Considerations
 >
->Players required to regularly play out fertility battles may find they become a chore. In troupes that feel this way, the frequency of fertility battles, and perhaps their potential lethality, should be reduced. The troupe may also simply assume the character continues to fight the battles with no significant consequences on most occasions, and only run stories when something exceptional happens. They may occasionally include Story Hooks related to things observed in an otherwise uneventful battle.
+> Players required to regularly play out fertility battles may find they become a chore. In troupes that feel this way, the frequency of fertility battles, and perhaps their potential lethality, should be reduced. The troupe may also simply assume the character continues to fight the battles with no significant consequences on most occasions, and only run stories when something exceptional happens. They may occasionally include Story Hooks related to things observed in an otherwise uneventful battle.
 
 #### Returning Home
 
@@ -5766,7 +5769,7 @@ In other regions, on the nights when the Infernal witches and nightwalkers make 
 
 Many of the lycanthrope traditions worry sheep or cattle to refresh themselves. These livestock do not die after their spirits have been sampled, but many lose their strength so that they are no longer suitable as plow or stud animals. Other traditions hunt deer instead, to lessen the impact on their community. In some rare cases, animals become stronger after they have been spiritually consumed.
 
-## Processions
+### Processions
 
 Most militias of nightwalkers participate in three types of procession: the march of the dead, inspection of the community's borders, and celebrations.
 
@@ -5788,15 +5791,15 @@ No roll is required for questions that the nightwalker may answer just by observ
 
 The Ease Factors above should be modified if the ghost has appropriate Personality Traits. Each nightwalker may ask one question of any particular ghost on a given night.
 
->#### Other Processions of the Dead
+> ### Other Processions of the Dead
 >
->In Mythic Europe there are ghosts aligned to each Realm. With the exception of Divine ghosts, processions of each Realm are found, as well. There are people similar to nightwalkers who participate in the processions of the Faerie and Infernal ghosts, and the Magical nightwalkers described in this chapter keep a careful eye on these groups, sometimes mustering to fight them if they leave their designated route.
+> In Mythic Europe there are ghosts aligned to each Realm. With the exception of Divine ghosts, processions of each Realm are found, as well. There are people similar to nightwalkers who participate in the processions of the Faerie and Infernal ghosts, and the Magical nightwalkers described in this chapter keep a careful eye on these groups, sometimes mustering to fight them if they leave their designated route.
 >
->The Faerie processions have various functions and leaders, but the ones best known to the nightwalkers are led by faeries that go by names like Diana or Perchte or Frau Holle or Ricella or Heriodas. The many faeries who assume this role collect the dead and lead them, each year, to pagan underworlds. Their charges are not well restrained, and they sometimes cause damage because of a riotous desire to taste the final pleasures of the living world.
+> The Faerie processions have various functions and leaders, but the ones best known to the nightwalkers are led by faeries that go by names like Diana or Perchte or Frau Holle or Ricella or Heriodas. The many faeries who assume this role collect the dead and lead them, each year, to pagan underworlds. Their charges are not well restrained, and they sometimes cause damage because of a riotous desire to taste the final pleasures of the living world.
 >
->Frau Holle is also known to steal naughty children and carry them away forever. On a few occasions, a Faerie procession has been interrupted by the nightwalkers and put to flight in order to rescue a child. Generally, the processions avoid each other.
+> Frau Holle is also known to steal naughty children and carry them away forever. On a few occasions, a Faerie procession has been interrupted by the nightwalkers and put to flight in order to rescue a child. Generally, the processions avoid each other.
 >
->There are many Infernal processions. Some form spontaneously, when many people die tragically in the same area. Plague and war, for example, can create wandering hordes of ghosts. Other processions are not spontaneous: they are punishments for corrupt souls. The best known of these is led by the demon Herlichinus, who wears a fool's motley. If a charge of his escapes, the demon jester sends a minion to claw it back to him. The nightwalkers try to prevent too much damage from occurring as the demon seeks the fleeing shade, either by helping it to pass out of the world, or by capturing it and delivering back to the procession.
+> There are many Infernal processions. Some form spontaneously, when many people die tragically in the same area. Plague and war, for example, can create wandering hordes of ghosts. Other processions are not spontaneous: they are punishments for corrupt souls. The best known of these is led by the demon Herlichinus, who wears a fool's motley. If a charge of his escapes, the demon jester sends a minion to claw it back to him. The nightwalkers try to prevent too much damage from occurring as the demon seeks the fleeing shade, either by helping it to pass out of the world, or by capturing it and delivering back to the procession.
 
 #### Beating the Boundaries
 
@@ -5810,7 +5813,7 @@ Some nightwalking traditions gather their members for feasts and celebratory pro
 
 Although nightwalkers are most powerful when insensate, they also serve functions in the waking life of their communities.
 
-#### BATTLING INFERNAL WITCHES WHILE AWAKE AND TABOOS
+#### Battling Infernal Witches While Awake And Taboos
 
 Nightwalkers and Infernal witches may contest while awake, with the witch cursing people or things and the nightwalker curing them. The nightwalker may attack the witch, and the witch may curse the nightwalker. But neither may speak, except in the most general way, about their night battles. If either breaks their taboo they are terribly beaten, in their dreams, by the representatives of the other side. And the injuries from these beatings are transmitted to their waking forms. The source of this taboo is unknown, but both sides abide by it in virtually all traditions.
 
@@ -5822,13 +5825,13 @@ Players are encouraged to use the groups below as material for designing novel t
 
 The benandanti ("good walkers") are found in Northern Italy, and serve as a model for similar groups throughout Europe. In many militias, battles are fought by men and processions are completed by women, but benandanti of either sex may participate in either activity.
 
->#### Fennel
+> ### Fennel
 >
->Fennel is a potently magical herb. It can be used as an insect repellent, and it repels the tiny demons responsible for disease. Some people place fennel over their doors and windows, or in their keyholes, to keep witches out of their houses. This is particularly common on Midsummer Night.
+> Fennel is a potently magical herb. It can be used as an insect repellent, and it repels the tiny demons responsible for disease. Some people place fennel over their doors and windows, or in their keyholes, to keep witches out of their houses. This is particularly common on Midsummer Night.
 >
->When Prometheus stole fire from the gods and gave it to humans, he hid it in a fennel stalk. The Theft of Fire, some magi hypothesize, may have permanently changed the relationship between the Realms of Magic and Faerie, or between faeries and humans.
+> When Prometheus stole fire from the gods and gave it to humans, he hid it in a fennel stalk. The Theft of Fire, some magi hypothesize, may have permanently changed the relationship between the Realms of Magic and Faerie, or between faeries and humans.
 
-#### Becoming a Benadante or a Benadanta 
+#### Becoming a Benadante or a Benadanta
 
 A potential nightwalker is usually summoned to his or her duties. A figure appears to the teenaged recruit and asks him to serve. Some recruits depart immediately for their first battle or procession, drawn along by their recruiter. Others must wait for the appropriate season to attend their first ceremony. In either case, the character is now able to travel in spirit form. Characters receive brief instruction in how to stray during nocturnal visits from their recruiter before the first ceremony, while traveling to their first ceremony, or when being led home from the first ceremony.
 
@@ -5854,57 +5857,17 @@ After the night feasts of the benandanti, the Lady can bring the animals eaten b
 
 A little is known about the Lady. She is beautiful, and can appear either young or old. Her skin sometimes feels hairy. She can freely converse with any animal, except for donkeys. She says that this is because a donkey carried the Messiah, and so they are marked with His cross, which means they are not her subjects.
 
->#### Story Seed: Aristeas
+> ### Story Seed: Aristeas
 >
->The Lady of the Game's fears of losing her troops to one of her Faerie counterparts are realized when a nightwalker player character is approached by a powerful magician skilled in straying, who asks the character to forsake the Lady for the worship of Apollo. The character claims to be the ancient Greek poet Aristeas. Characters researching him can easily find references to him in Pliny and Herodotus, saying that he had the ability to leave his body in the shape of a raven and that he had visions of calamities. He is also said to have risen from the dead at least twice, and he claims that if the characters kill him, he will simply do so again.
+> The Lady of the Game's fears of losing her troops to one of her Faerie counterparts are realized when a nightwalker player character is approached by a powerful magician skilled in straying, who asks the character to forsake the Lady for the worship of Apollo. The character claims to be the ancient Greek poet Aristeas. Characters researching him can easily find references to him in Pliny and Herodotus, saying that he had the ability to leave his body in the shape of a raven and that he had visions of calamities. He is also said to have risen from the dead at least twice, and he claims that if the characters kill him, he will simply do so again.
 >
->Aristeas offers the characters some of the secrets of his master's version of faerie magic in exchange for their loyalty. Aristeas is not a faerie himself: he claims that in recent times he has remained in phantastic form as one of the ravens that accompanies the god Apollo in Arcadia.
+> Aristeas offers the characters some of the secrets of his master's version of faerie magic in exchange for their loyalty. Aristeas is not a faerie himself: he claims that in recent times he has remained in phantastic form as one of the ravens that accompanies the god Apollo in Arcadia.
 >
->When word of this reaches her, the Lady calls the player character's militia to fight off Aristeas. But first she sends these loyal servants to a place of power from before the Titanomachy — the war of the Titans and Greek Gods — to find magical weapons.
+> When word of this reaches her, the Lady calls the player character's militia to fight off Aristeas. But first she sends these loyal servants to a place of power from before the Titanomachy — the war of the Titans and Greek Gods — to find magical weapons.
 >
->The Lady has discerned that the way Aristeas rises from the dead is by never coming back to full life. He merely remains a corporeal phantasticum. Like most phantastica, Aristeas should have faded when the meat rotted from his bones. He, however, has a spiritual anchor that allows him to keep returning to the world from the pagan afterlife to which his spirit flies at death. When the ancient Greeks lacked a body to bury, and worried that the spirit of the body might molest their community, they instead buried a stone — called a kolossos — which acted as an Arcane Connection to the spirit and anchored it in its grave. Aristeas uses his kolossos as a way of finding his way back to the mundane world.
+> The Lady has discerned that the way Aristeas rises from the dead is by never coming back to full life. He merely remains a corporeal phantasticum. Like most phantastica, Aristeas should have faded when the meat rotted from his bones. He, however, has a spiritual anchor that allows him to keep returning to the world from the pagan afterlife to which his spirit flies at death. When the ancient Greeks lacked a body to bury, and worried that the spirit of the body might molest their community, they instead buried a stone — called a kolossos — which acted as an Arcane Connection to the spirit and anchored it in its grave. Aristeas uses his kolossos as a way of finding his way back to the mundane world.
 >
->Aristeas's kolossos is mentioned in Pliny: it was a statue carved to honor and to commemorate the poet Aristeas himself. It looks like Aristeas with a raven emerging from his mouth. This statue has been hidden in one of the places of power of the god Apollo, and is guarded by some of his monstrous servants from ancient times. Hence, the characters will have need of the weapons of the titans gathered on behalf of the Lady, in order to find and destroy the kolossos.
-
->#### Arno, a Benadante Companion
->
->Characteristics: Int +1, Per 0, Pre 0, Com 0, Str +2, Sta +1, Dex +1, Qik +1
->
->Size: 0 
->
->Age: 21 (21)
->
->Confidence Score: 1 (3)
->
->Virtues and Flaws: Craftsman; Nightwalker; Sense Holiness and Unholiness, Tough; Dark Secret (lives in a community that persecutes benandanti); Close Family Ties, Higher Purpose
->
->Personality Traits: Devout +2, Practical +1 
->
->Combat:
->
->Club and Shield: Init +1\*, Attack +9, Defense +10, Damage +5
->
->\*Includes encumbrance, which is a result of phantastic armor that Arno does not use in waking battles.
->
->Soak: +8
->
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
->
->Wound Penalties: -1 (1-5), -2 (6-10), -3 (11-15), Incapacitated (16-20), Dead (21+)
->
->Abilities: Awareness 2 (battlefield), Athletics 1 (running), Bargain 1 (domestic goods), Brawl 1 (supernatural foes), Carouse 1 (Saturdays), Craft: Smith 5 (agricultural tools), Folk Ken 2 (festivals), Home Village Lore 3 (supernatural dangers), Second Sight\* 3 (ghosts), Sense Holiness and Unholiness 3 (infernal witches), Single Weapon 5 (club), Speak Italian 5 (commoners)
->
->\* Due to the Nightwalker Virtue; only available to the phantasticum.
->
->Equipment: Arno uses a club of fennel in night battles, wears a leather scale vest, and carries a round shield.
->
->Encumbrance: -1 (3)
->
->Appearance: Arno is a young smith, and it is obvious from his build that he does heavy work with his hands. He keeps his hair and beard short for safety. His eyes are brown, and his hair is black: blacker when he has been working his uncle's forge.
->
->Arno is easily redesigned as a malandanti, an evil nightwalker. To represent his reward for serving evil, replace the Sense Holiness and Unholiness Virtue with the Venus' Blessing Virtue, and move the points spent on the related ability to Charm 2 (women), and Guile 2 (women). The malandanti in Arno's region use sorghum stalks as spears, so change the specialization of his Single Weapon Ability to spear. His new combat statistics are *Short spear and shield*: Init +2\*, Attack +9, Defense +9, Damage +7, with his Initiative penalized for phantastic armor that he would not use during waking hours.
->
->To use Arno as a weak ghost, simply give him a Magic Might of 10 to grant limited magic resistance, and charge him a Might point every time he changes from immaterial to solid. In either form, Arno's spear can harm characters who are in corporeal form.
+> Aristeas's kolossos is mentioned in Pliny: it was a statue carved to honor and to commemorate the poet Aristeas himself. It looks like Aristeas with a raven emerging from his mouth. This statue has been hidden in one of the places of power of the god Apollo, and is guarded by some of his monstrous servants from ancient times. Hence, the characters will have need of the weapons of the titans gathered on behalf of the Lady, in order to find and destroy the kolossos.
 
 ### The Hounds of God
 
@@ -5927,68 +5890,6 @@ Hounds of God stray in wolf form. They are confronted by Infernal sentries, who 
 Some Hounds of God have the ability to fight in phantastic wolf form when not traveling or raiding Hell. These require the Versatile Phantasticum Virtue. Hounds of God worry the spirits of sheep, eat the vitality of cattle, or hunt game to refresh themselves spiritually. Their celebratory processions are hunts.
 
 Hounds of God do not have a sacred herb and are found primarily in areas with Germanspeaking settlers, although this includes areas with German minorities, like Poland.
-
->#### Rothiger, A Hound of God Companion
->
->Characteristics: Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +2
->
->Size: 0
->
->Age: 21 (21)
->
->Confidence Score: 1 (3)
->
->Virtues and Flaws: Wanderer (itinerant agricultural laborer); Nightwalker; Intuition, Versatile Phantasticum; Dark Secret (he's a werewolf who can't control his urge to kill animals); Compulsion (Minor: he loves to kill things in wolf form, forcing him to migrate often to avoid detection), Higher Purpose (sought out his nightwalking role).
->
->Personality Traits: Loyalty (pack) +3, Enjoys hunting +3
->
->Combat:
->
->Brawl: Init +2, Attack +5, Defense +6, Damage +3
->
->Soak: +1
->
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
->
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21 +)
->
->Abilities: Athletics 2 (running), Awareness 1 (animals), Bargain 1 (food and lodging), Brawl 3 (knife), Carouse 2 (agricultural festivals), Folk Ken 1 (farmworkers), German 5 (peasants), Guile 3 (covering his tracks), Hunt 1 (small game), Pack Lore 2 (history), Profession: laborer 1 (slaughtering), Second Sight\* 2 (demons), Survival 1 (outskirts of settled areas), Swim 2 (icy water).
->
->\* Due to the Nightwalker virtue, and only available to the phantasticum.
->
->Equipment: Rothiger wears clothing of leather and wool. He carries a hunter's knife, which he uses in combat in human form.
->
->Encumbrance: 0 (0)
->
->Appearance: A fit young man with red hair and freckles. Rothiger hasn't completely outgrown the gangliness of puberty, despite his age, but his reactions are surprisingly swift.
->
->#### Rothiger in Wolf Form
->
->Characteristics: Int 0, Per 1, Pre -2, Com 0, Str 0, Sta +3, Dex +2, Qik +2
->
->Size: -1
->
->Confidence Score: 1 (3)
->
->Virtues and Flaws: Improved Characteristics (x2), Ferocity (when hungry), Long-Winded, Sharp Ears, Compulsion (killing), Infamous
->
->Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal
->
->Combat:
->
->Teeth: Init +2, Attack +14, Defense +12, Damage +2
->
->Soak: +4
->
->Fatigue Levels: OK, 0/0, -1/-1, -3, -5, Unconscious
->
->Wound Penalties: -1 (1-4), -3 (5-8), -5 (9-12), Incapacitated (13-16)
->
->Abilities: Athletics 5 (distance running), Awareness 3 (smell), Brawl 8\* (teeth), Hunt 5 (track by smell), Survival 3 (winter)
->
->\* Players seeking Abilities beyond the normal human maximum for a given age, because of the innate skill of an animal form, should negotiate with their Troupes.
->
->Rothiger can be used as a villainous werewolf with no statistical changes.
 
 ### Kresniki and Kudlaki
 
@@ -6018,17 +5919,17 @@ The mazzeri are a Corsican tradition of nightwalkers. Some fight Infernal witche
 
 Note that the mazzeru cannot choose who, or even if, to kill. Those mazzeri who accept this, and choose to have disturbing dreams without it affecting their waking life, do not gain a Flaw. Some mazzeri feel in some way responsible for the deaths they foresee, and attempt to prevent them. These mazzeri have a Story Flaw, and may, with some care, save those who they have hunted in their dreams.
 
->#### Hawthorn
+> ### Hawthorn
 >
->Hawthorn repels vampires for many reasons. Ovid reports it being used to mark a young princeling as being protected from vampires by the ancient Roman goddess Carna. The Crown of Thorns that was placed on the brow of Jesus was of hawthorn, and so it is a symbol of His sacrifice and majesty. Thorns can be used to prick the bodies of the dead, to make them less able to sense or walk. Hawthorns are also used as hedges, to mark and make boundaries.
+> Hawthorn repels vampires for many reasons. Ovid reports it being used to mark a young princeling as being protected from vampires by the ancient Roman goddess Carna. The Crown of Thorns that was placed on the brow of Jesus was of hawthorn, and so it is a symbol of His sacrifice and majesty. Thorns can be used to prick the bodies of the dead, to make them less able to sense or walk. Hawthorns are also used as hedges, to mark and make boundaries.
 
->#### Asphodel
+> ### Asphodel
 >
->Some mazzeri use bunches of asphodel as weapons during phantastic battles. Asphodel is powerfully connected to the dead. The Greeks thought that most of the spirits in Hades dwelled in the Fields of Asphodel. It is also sacred to Persephone, the Queen of the Underworld. The Romans grew asphodel near graveyards, because it was considered a food of the dead.
+> Some mazzeri use bunches of asphodel as weapons during phantastic battles. Asphodel is powerfully connected to the dead. The Greeks thought that most of the spirits in Hades dwelled in the Fields of Asphodel. It is also sacred to Persephone, the Queen of the Underworld. The Romans grew asphodel near graveyards, because it was considered a food of the dead.
 
 ### Taltós
 
-The taltós described here are Hungarian nightwalkers. Taltós are mentioned briefly in House of Hermes: Societates on page 169, and they are suggested as a regional variant of Pharmacopeians. This confusion arises because the term taltós refers to a social role — the wandering magician. Much as it is possible to have three witches, each with entirely different powers, so similarly in Mythic Europe characters who have the lifestyle of a taltós will be labeled a taltós.
+The taltós described here are Hungarian nightwalkers. Taltós are mentioned briefly in Houses of Hermes: Societates on page 169, and they are suggested as a regional variant of Pharmacopeians. This confusion arises because the term taltós refers to a social role — the wandering magician. Much as it is possible to have three witches, each with entirely different powers, so similarly in Mythic Europe characters who have the lifestyle of a taltós will be labeled a taltós.
 
 Strictly, a taltós was a Magyar shaman with the full range of powers common to his tradition. These are unknown in Mythic Europe. Hungary converted to Christianity centuries ago, and between pressure from the Church, competition for apprentices with House Tremere, and the movement of the Axis Magica by House Criamon, the tradition has waned so that modern, unGifted taltós each have only a part of the power of their ancestors.
 
@@ -6050,17 +5951,17 @@ Taltós revive themselves spiritually by eating enormous amounts of food during 
 
 Taltós who continue in their role their entire lives are best suited as player characters, but many taltós serve only for a brief period. Some lose all of their abilities at the age of fifteen. Others lose a portion of their powers, while some retain them but cease to identify themselves publicly as taltós.
 
->#### Statistics and Abilities for Flame Shape
+> ### Statistics and Abilities for Flame Shape
 >
->A character in the shape of a ball or wheel of flame has a form that is superficially similar to an elemental with a Might of 10. The character does not have the magical nature of an elemental, and lacks its Might score, but physically it has the characteristics of such an elemental. This gives Characteristics of Cunning 0, Perception -8, Communication -8, Presence 0, +4 Strength, +2 Stamina, +4 Dexterity,
+> A character in the shape of a ball or wheel of flame has a form that is superficially similar to an elemental with a Might of 10. The character does not have the magical nature of an elemental, and lacks its Might score, but physically it has the characteristics of such an elemental. This gives Characteristics of Cunning 0, Perception -8, Communication -8, Presence 0, +4 Strength, +2 Stamina, +4 Dexterity,
 >
->The character's human Intelligence replaces the Cunning score. For all other Characteristics, if both the elemental form and human form have a negative score, use the lowest score. If both the elemental and human form have a positive score, use the highest. If the human and elemental forms have one positive and one negative score, add the two scores.
+> The character's human Intelligence replaces the Cunning score. For all other Characteristics, if both the elemental form and human form have a negative score, use the lowest score. If both the elemental and human form have a positive score, use the highest. If the human and elemental forms have one positive and one negative score, add the two scores.
 >
->The character may use any of his human form's Abilities that a ball of flame is physically capable of using. This includes the ability to sense warmth and the locations of objects by the differences in their temperature. In flame form the character is able to use Second Sight to find friends and foes in phantastic form. The tremendous Perception penalty taltós suffer in fire form prevents them serving as effective leaders of groups. Abilities that are based on the character's reasoning and experience remain available. The character may use the Brawl ability to fight, and does +5 fire Damage.
+> The character may use any of his human form's Abilities that a ball of flame is physically capable of using. This includes the ability to sense warmth and the locations of objects by the differences in their temperature. In flame form the character is able to use Second Sight to find friends and foes in phantastic form. The tremendous Perception penalty taltós suffer in fire form prevents them serving as effective leaders of groups. Abilities that are based on the character's reasoning and experience remain available. The character may use the Brawl ability to fight, and does +5 fire Damage.
 >
->Wound levels do not change between the forms, although the fire form is invulnerable to mundane fire and to wooden weapons. Characters striking a taltós in elemental form without weapons, for example other taltós using horns or teeth, suffer +5 burn damage for each attack (Penetration 0). If the character is completely extinguished, he dies.
+> Wound levels do not change between the forms, although the fire form is invulnerable to mundane fire and to wooden weapons. Characters striking a taltós in elemental form without weapons, for example other taltós using horns or teeth, suffer +5 burn damage for each attack (Penetration 0). If the character is completely extinguished, he dies.
 >
->Some taltós report a feeling of continuous, nagging hunger when in human form, but the fire form makes this far more severe (Personality trait: Hungry +3).
+> Some taltós report a feeling of continuous, nagging hunger when in human form, but the fire form makes this far more severe (Personality trait: Hungry +3).
 
 ## Mythic Companions
 
@@ -6100,6 +6001,68 @@ This is a Minor Breakthrough for a researcher who has mastered the Station of Pa
 
 Early practitioners of this mystery will rapidly notice the similarity to certamen, and may allow this information to reach their housemates in the Path of Walking Backwards. These violent magi may attempt to develop certamen-based nightwalking, as detailed in the previous section.
 
+> ### Rothiger, A Hound of God Companion
+>
+> Characteristics: Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +2
+>
+> Size: 0
+>
+> Age: 21 (21)
+>
+> Confidence Score: 1 (3)
+>
+> Virtues and Flaws: Wanderer (itinerant agricultural laborer); Nightwalker; Intuition, Versatile Phantasticum; Dark Secret (he's a werewolf who can't control his urge to kill animals); Compulsion (Minor: he loves to kill things in wolf form, forcing him to migrate often to avoid detection), Higher Purpose (sought out his nightwalking role).
+>
+> Personality Traits: Loyalty (pack) +3, Enjoys hunting +3
+>
+> Combat:
+>
+> Brawl: Init +2, Attack +5, Defense +6, Damage +3
+>
+> Soak: +1
+>
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21 +)
+>
+> Abilities: Athletics 2 (running), Awareness 1 (animals), Bargain 1 (food and lodging), Brawl 3 (knife), Carouse 2 (agricultural festivals), Folk Ken 1 (farmworkers), German 5 (peasants), Guile 3 (covering his tracks), Hunt 1 (small game), Pack Lore 2 (history), Profession: laborer 1 (slaughtering), Second Sight\* 2 (demons), Survival 1 (outskirts of settled areas), Swim 2 (icy water).
+>
+> \* Due to the Nightwalker virtue, and only available to the phantasticum.
+>
+> Equipment: Rothiger wears clothing of leather and wool. He carries a hunter's knife, which he uses in combat in human form.
+>
+> Encumbrance: 0 (0)
+>
+> Appearance: A fit young man with red hair and freckles. Rothiger hasn't completely outgrown the gangliness of puberty, despite his age, but his reactions are surprisingly swift.
+
+> ### Rothiger in Wolf Form
+>
+> Characteristics: Int 0, Per 1, Pre -2, Com 0, Str 0, Sta +3, Dex +2, Qik +2
+>
+> Size: -1
+>
+> Confidence Score: 1 (3)
+>
+> Virtues and Flaws: Improved Characteristics (x2), Ferocity (when hungry), Long-Winded, Sharp Ears, Compulsion (killing), Infamous
+>
+> Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal
+>
+> Combat:
+>
+> Teeth: Init +2, Attack +14, Defense +12, Damage +2
+>
+> Soak: +4
+>
+> Fatigue Levels: OK, 0/0, -1/-1, -3, -5, Unconscious
+>
+> Wound Penalties: -1 (1-4), -3 (5-8), -5 (9-12), Incapacitated (13-16)
+>
+> Abilities: Athletics 5 (distance running), Awareness 3 (smell), Brawl 8\* (teeth), Hunt 5 (track by smell), Survival 3 (winter)
+>
+> \* Players seeking Abilities beyond the normal human maximum for a given age, because of the innate skill of an animal form, should negotiate with their Troupes.
+>
+> Rothiger can be used as a villainous werewolf with no statistical changes.
+
 ## Saga Seeds
 
 Individual nightwalkers are weaker than Hermetic magi, and must be careful to manipulate situations so that their powers provide them an advantage.
@@ -6111,6 +6074,46 @@ Militias of nightwalkers are powerful enough to threaten young magi directly, bu
 House Tremere is aware of the military potential of nightwalkers, and used a few of them during the Schism War to good effect. Their problem is that nightwalking cannot be learned: so the House cannot simply train an army able to walk through walls. They need to form alliances with pre-existing groups, and these are tentative because the supernatural patrons of the nightwalking groups avoid magi.
 
 If a militaristic House ever becomes cognisant of the transmissibility of the curse of the Hounds of God, then they might be able to manipulate the membership of a nightwalking pack. Used discretely, this could prove an asset of decisive military value.
+
+> ### Arno, a Benadante Companion
+>
+> Characteristics: Int +1, Per 0, Pre 0, Com 0, Str +2, Sta +1, Dex +1, Qik +1
+>
+> Size: 0
+>
+> Age: 21 (21)
+>
+> Confidence Score: 1 (3)
+>
+> Virtues and Flaws: Craftsman; Nightwalker; Sense Holiness and Unholiness, Tough; Dark Secret (lives in a community that persecutes benandanti); Close Family Ties, Higher Purpose
+>
+> Personality Traits: Devout +2, Practical +1
+>
+> Combat:
+>
+> Club and Shield: Init +1\*, Attack +9, Defense +10, Damage +5
+>
+> \*Includes encumbrance, which is a result of phantastic armor that Arno does not use in waking battles.
+>
+> Soak: +8
+>
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+> Wound Penalties: -1 (1-5), -2 (6-10), -3 (11-15), Incapacitated (16-20), Dead (21+)
+>
+> Abilities: Awareness 2 (battlefield), Athletics 1 (running), Bargain 1 (domestic goods), Brawl 1 (supernatural foes), Carouse 1 (Saturdays), Craft: Smith 5 (agricultural tools), Folk Ken 2 (festivals), Home Village Lore 3 (supernatural dangers), Second Sight\* 3 (ghosts), Sense Holiness and Unholiness 3 (infernal witches), Single Weapon 5 (club), Speak Italian 5 (commoners)
+>
+> \* Due to the Nightwalker Virtue; only available to the phantasticum.
+>
+> Equipment: Arno uses a club of fennel in night battles, wears a leather scale vest, and carries a round shield.
+>
+> Encumbrance: -1 (3)
+>
+> Appearance: Arno is a young smith, and it is obvious from his build that he does heavy work with his hands. He keeps his hair and beard short for safety. His eyes are brown, and his hair is black: blacker when he has been working his uncle's forge.
+>
+> Arno is easily redesigned as a malandanti, an evil nightwalker. To represent his reward for serving evil, replace the Sense Holiness and Unholiness Virtue with the Venus' Blessing Virtue, and move the points spent on the related ability to Charm 2 (women), and Guile 2 (women). The malandanti in Arno's region use sorghum stalks as spears, so change the specialization of his Single Weapon Ability to spear. His new combat statistics are *Short spear and shield*: Init +2\*, Attack +9, Defense +9, Damage +7, with his Initiative penalized for phantastic armor that he would not use during waking hours.
+>
+> To use Arno as a weak ghost, simply give him a Magic Might of 10 to grant limited magic resistance, and charge him a Might point every time he changes from immaterial to solid. In either form, Arno's spear can harm characters who are in corporeal form.
 
 #### As Allies
 
@@ -6142,50 +6145,50 @@ Vitkir characters are designed like magi, with only a few exceptions. That is, t
 
 Vitkir characters may take as many as ten Flaws to balance ten Virtues, and there are several new Virtues and Flaws given in this chapter that only Gifted characters can take. These Supernatural Virtues and Flaws are the same as Hermetic Virtues and Flaws, but specifically apply to runes and vitkar rune magic. Also, many Hermetic Virtues and Flaws may be taken as Supernatural Virtues and Flaws that will affect the character's rune magic instead. All vitkir characters must take the Vitki Social Status Virtue, and a vitki who was taught by another vitki gains a free Minor Vitkar Virtue appropriate to his master's specialty, usually either Puissant Craft: Runes, Puissant Rune Magic, or Puissant (Rune).
 
->#### The Order of Odin
+> ### The Order of Odin
 >
->The phrase "Order of Odin" is used by magi to describe their idea of an organized group of Scandinavian wizards opposed to the Order of Hermes. It is not generally used by the vitkir. It dates back to the time of the war against Damhan-Allaidh, when there was a great deal of fear and uncertainty about these wizards and their growing power in the British Isles. (For a more-detailed history of the Anglo-Saxon rune wizards, see Ancient Magic, pages 133-136.)
+> The phrase "Order of Odin" is used by magi to describe their idea of an organized group of Scandinavian wizards opposed to the Order of Hermes. It is not generally used by the vitkir. It dates back to the time of the war against Damhan-Allaidh, when there was a great deal of fear and uncertainty about these wizards and their growing power in the British Isles. (For a more-detailed history of the Anglo-Saxon rune wizards, see Ancient Magic, pages 133-136.)
 >
->Since then, magi have heard next to nothing about them; whether or not they still pose a threat to the Order of Hermes is a question that can cause a Tribunal to devolve into a cacophony of voices for and against. It's generally accepted that the Order of Hermes is still at war with them, should any of them reappear, and since the Oath states that "the enemies of the Order are my enemies," it's argued that magi have a legal obligation to fight them. Whether or not that means a vitkir must be slain on sight probably depends on the judgment of the magus who encounters him.
+> Since then, magi have heard next to nothing about them; whether or not they still pose a threat to the Order of Hermes is a question that can cause a Tribunal to devolve into a cacophony of voices for and against. It's generally accepted that the Order of Hermes is still at war with them, should any of them reappear, and since the Oath states that "the enemies of the Order are my enemies," it's argued that magi have a legal obligation to fight them. Whether or not that means a vitkir must be slain on sight probably depends on the judgment of the magus who encounters him.
 >
->If there is indeed a gathering army of rune wizards intent on striking at the heart of the Order of Hermes from the frozen wastes of the north, the relatively isolated vitkir described here are probably as unlikely to know about it as the magi they supposedly seek to destroy.
+> If there is indeed a gathering army of rune wizards intent on striking at the heart of the Order of Hermes from the frozen wastes of the north, the relatively isolated vitkir described here are probably as unlikely to know about it as the magi they supposedly seek to destroy.
 
->#### Female Vitkir
+> ### Female Vitkir
 >
->The vitkir are always men in the stories and accounts of them, though this is probably because of the roles that men and women typically fulfill in Norse culture, rather than there being any reason why women cannot learn rune magic. There are many tales of women practicing other kinds of magic during the Viking period, especially as mystic seers and prophets. It is unlikely that vitkir masters would have taken girls as apprentices in years past, but as vitkir become scarcer they may be more willing to teach any children with The Gift who can be found.
+> The vitkir are always men in the stories and accounts of them, though this is probably because of the roles that men and women typically fulfill in Norse culture, rather than there being any reason why women cannot learn rune magic. There are many tales of women practicing other kinds of magic during the Viking period, especially as mystic seers and prophets. It is unlikely that vitkir masters would have taken girls as apprentices in years past, but as vitkir become scarcer they may be more willing to teach any children with The Gift who can be found.
 >
->Viking women also had a form of magic called seithr. This was a kind of witchcraft that the common folk considered to be wicked and unclean, and they shunned those who practiced it. While the magic of the runes was seen as a gift to men from Odin, seithr was first taught to women by a giantess named Gullveig, who was said to be so wicked that she introduced greed among the gods. For character ideas and rules for designing a character with this sort of power, see the different forms of corrupt magic and infernal hedge traditions found in Realms of Power: The Infernal.
+> Viking women also had a form of magic called seithr. This was a kind of witchcraft that the common folk considered to be wicked and unclean, and they shunned those who practiced it. While the magic of the runes was seen as a gift to men from Odin, seithr was first taught to women by a giantess named Gullveig, who was said to be so wicked that she introduced greed among the gods. For character ideas and rules for designing a character with this sort of power, see the different forms of corrupt magic and infernal hedge traditions found in Realms of Power: The Infernal.
 
->#### Vitkar Virtues
+> ### Vitkar Virtues
 >
->**Major, Supernatural**<br>
->Gentle Gift <br>
->Major Rune Focus\* <br>
->Mythic Blood <br>
->Secondary Insight\*<br>
+> **Major, Supernatural**<br>
+> Gentle Gift <br>
+> Major Rune Focus\* <br>
+> Mythic Blood <br>
+> Secondary Insight\*<br>
 >
->**MINOR, SUPERNATURAL**<br>
->Affinity with (Rune) <br>
->Cyclic Magic (positive) <br>
->Deft Rune\* <br>
->Fast Caster\* <br>
->Free Study <br>
->Inoffensive to Animals <br>
->Inventive Genius<br>
->Life Boost <br>
->Mastered Rune\*<br>
->Minor Rune Focus\* <br>
->Nameless Runes\* <br>
->Personal Vis Source <br>
->Puissant (Rune) <br>
->Secret Runes\* <br>
->Side Effect <br>
->Special Circumstances<br>
+> **MINOR, SUPERNATURAL**<br>
+> Affinity with (Rune) <br>
+> Cyclic Magic (positive) <br>
+> Deft Rune\* <br>
+> Fast Caster\* <br>
+> Free Study <br>
+> Inoffensive to Animals <br>
+> Inventive Genius<br>
+> Life Boost <br>
+> Mastered Rune\*<br>
+> Minor Rune Focus\* <br>
+> Nameless Runes\* <br>
+> Personal Vis Source <br>
+> Puissant (Rune) <br>
+> Secret Runes\* <br>
+> Side Effect <br>
+> Special Circumstances<br>
 >
->**Free, Social Status**<br>
->Vitki\*
+> **Free, Social Status**<br>
+> Vitki\*
 >
->\* New or revised Virtues
+> \* New or revised Virtues
 
 ### New or Revised Virtues
 
@@ -6216,27 +6219,27 @@ Minor, Supernatural
 
 The vitki has a magical focus with a single rune used in a particular type of rune magic (see the Vitkar Magic Foci sidebar). Whenever the vitki casts a rune spell with an effect appropriate to the focus and the chosen rune, and inscribes this rune into the material associated with the focus, you may double the vitki's score in the rune used for the formula.
 
->#### Vitkar Magic Foci
+> ### Vitkar Magic Foci
 >
->A vitkar magic focus is associated with spells that have a particular purpose, such as healing, making war, or seeking knowledge, and is tied to a specific material into which the runes must be carved, such as bone, metal, or stone. If the spell is applicable to the vitki's purpose and uses the proper material for the inscription, he may double his score in the rune used in the spell formula. For a Major focus, any rune with an effect applicable to the magical focus may be used. A Minor focus is tied to a single rune, chosen when the vitki gains the Virtue, and the vitki's spells must use that rune as either the target rune or the effect rune for the focus to apply. Like a Hermetic magic focus, a vitki can only take a single vitkar magic focus at character creation.
+> A vitkar magic focus is associated with spells that have a particular purpose, such as healing, making war, or seeking knowledge, and is tied to a specific material into which the runes must be carved, such as bone, metal, or stone. If the spell is applicable to the vitki's purpose and uses the proper material for the inscription, he may double his score in the rune used in the spell formula. For a Major focus, any rune with an effect applicable to the magical focus may be used. A Minor focus is tied to a single rune, chosen when the vitki gains the Virtue, and the vitki's spells must use that rune as either the target rune or the effect rune for the focus to apply. Like a Hermetic magic focus, a vitki can only take a single vitkar magic focus at character creation.
 >
->Here are some examples of magical foci, taken from the medieval poem *Sigrdri-fumál* in which the valkyrie Sigrdrífa teaches the hero Sigurðr the seven different uses of rune magic.
+> Here are some examples of magical foci, taken from the medieval poem *Sigrdri-fumál* in which the valkyrie Sigrdrífa teaches the hero Sigurðr the seven different uses of rune magic.
 >
->**Victory Runes (Sigrúnar):** These runes are used to ensure the vitki's success in battle, and are carved into metal weapons and armor, usually the blades of swords or long knives. Runes commonly associated with this sort of magic include Tiwaz (T), Othila (O), and Ehwaz (E).
+> **Victory Runes (Sigrúnar):** These runes are used to ensure the vitki's success in battle, and are carved into metal weapons and armor, usually the blades of swords or long knives. Runes commonly associated with this sort of magic include Tiwaz (T), Othila (O), and Ehwaz (E).
 >
->**Ale Runes (Olúnar):** These runes must be scratched into horn or hardened leather, like a drinking horn, or else into the vitki's own fingernails. They typically give good luck and protect the vitki against poison or other hidden forms of danger, a minor focus might be associated with Algiz (Z), Naudiz (N), or Perth (P).
+> **Ale Runes (Olúnar):** These runes must be scratched into horn or hardened leather, like a drinking horn, or else into the vitki's own fingernails. They typically give good luck and protect the vitki against poison or other hidden forms of danger, a minor focus might be associated with Algiz (Z), Naudiz (N), or Perth (P).
 >
->**Fertility Runes (Biargrúnar):** These runes help to ensure the wealth and prosperity of the vitki and his family, and are carved into coins that they carry or jewelry that they wear. Common runes for this sort of magic include Fehu (F), Ingwaz (Ng), and Jera (J).
+> **Fertility Runes (Biargrúnar):** These runes help to ensure the wealth and prosperity of the vitki and his family, and are carved into coins that they carry or jewelry that they wear. Common runes for this sort of magic include Fehu (F), Ingwaz (Ng), and Jera (J).
 >
->**Sea Runes (Brimrúnar):** These runes are traditionally inscribed on a ship, carved into a cart, or woven into a sail: any object that is bigger than a man is possible. They allow the vitki to influence travel and travel conditions with his runes. For a minor focus, the runes Laguz (L), Raido (R), or Hagalaz (H) might be appropriate.
+> **Sea Runes (Brimrúnar):** These runes are traditionally inscribed on a ship, carved into a cart, or woven into a sail: any object that is bigger than a man is possible. They allow the vitki to influence travel and travel conditions with his runes. For a minor focus, the runes Laguz (L), Raido (R), or Hagalaz (H) might be appropriate.
 >
->**Healing Runes (Limrúnar):** These runes speed recovery from pain and injury, healing wounds and easing sorrow. They must be carved into bone, either human or animal. Runes commonly chosen for a minor focus include Berkanan (B), Dagaz (D), or Wunjo (W).
+> **Healing Runes (Limrúnar):** These runes speed recovery from pain and injury, healing wounds and easing sorrow. They must be carved into bone, either human or animal. Runes commonly chosen for a minor focus include Berkanan (B), Dagaz (D), or Wunjo (W).
 >
->**Speech Runes (Malrúnar)**: These runes must be carved into wood: a staff, a tree, a chest, or perhaps a table. They give eloquence and inspire others, and are used to improve the vitki's relations with his fellow vitkir or his companions. For a minor focus, this might include the Ansuz (A), Gebo (G), or Mannaz (M) runes.
+> **Speech Runes (Malrúnar):** These runes must be carved into wood: a staff, a tree, a chest, or perhaps a table. They give eloquence and inspire others, and are used to improve the vitki's relations with his fellow vitkir or his companions. For a minor focus, this might include the Ansuz (A), Gebo (G), or Mannaz (M) runes.
 >
->**Wisdom Runes (Hugrúnar):** Wisdom runes are carved into stone, and are used to help the vitki gain wisdom by sensing hidden properties of his surroundings. A vitki's minor rune focus might be associated with Ihwaz (Y), Sowilo (S), or Kauno (K).
+> **Wisdom Runes (Hugrúnar):** Wisdom runes are carved into stone, and are used to help the vitki gain wisdom by sensing hidden properties of his surroundings. A vitki's minor rune focus might be associated with Ihwaz (Y), Sowilo (S), or Kauno (K).
 >
->**Strength Runes (Meginrúnar):** Strength runes are associated with the magic of the wilderness and with dark, supernatural forces. Sigrdrífa did not teach Sigurðr about this type of rune magic, but the Sigrdrifumál describes it as runes that the gods inscribe on impossible things, such as mead, fire, the heart, or the sky. Strength runes could be written upon flesh, since it is said that only the gods are allowed to inscribe runes upon a living body. Of course vitkir with this focus may choose to ignore this commandment, or might instead carve strength runes upon the dead. For a minor focus, Uruz (U), Thurisaz (Th), or Isa (I) might be appropriate.
+> **Strength Runes (Meginrúnar):** Strength runes are associated with the magic of the wilderness and with dark, supernatural forces. Sigrdrífa did not teach Sigurðr about this type of rune magic, but the Sigrdrifumál describes it as runes that the gods inscribe on impossible things, such as mead, fire, the heart, or the sky. Strength runes could be written upon flesh, since it is said that only the gods are allowed to inscribe runes upon a living body. Of course vitkir with this focus may choose to ignore this commandment, or might instead carve strength runes upon the dead. For a minor focus, Uruz (U), Thurisaz (Th), or Isa (I) might be appropriate.
 
 **Nameless Runes**<br>
 Minor, Supernatural
@@ -6266,40 +6269,39 @@ All vitkir must take this as their Social Status Virtue, and it is only availabl
 
 Vitki also have these new or revised flaws:
 
->#### Vitkar Flaws
+> ### Vitkar Flaws
 >
->**Major, Supernatural**<br>
->Blatant Gift <br>
->Major Magical Deficiency\* <br>
->Magic Addiction <br>
->Nátt-thel Prone\* <br>
->Painful Magic Restriction
+> **Major, Supernatural**<br>
+> Blatant Gift <br>
+> Major Magical Deficiency\* <br>
+> Magic Addiction <br>
+> Nátt-thel Prone\* <br>
+> Painful Magic Restriction
 >
->**MINOR, SUPERNATURAL**
+> **MINOR, SUPERNATURAL**
 >
->Careless Sorcerer <br>
->Cyclic Magic (negative) <br>
->Deleterious Circumstances <br>
->Disorienting Magic <br>
->Minor Magical Deficiency\* <br>
->Offensive to Animals <br>
->Short-Lived Runes\* <br>
->Slow Caster <br>
->Susceptibility to Divine Power <br>
->Susceptibility to Faerie Power <br>
->Susceptibility to Infernal Power <br>
->Warped Magic <br>
->Weird Magic
+> Careless Sorcerer <br>
+> Cyclic Magic (negative) <br>
+> Deleterious Circumstances <br>
+> Disorienting Magic <br>
+> Minor Magical Deficiency\* <br>
+> Offensive to Animals <br>
+> Short-Lived Runes\* <br>
+> Slow Caster <br>
+> Susceptibility to Divine Power <br>
+> Susceptibility to Faerie Power <br>
+> Susceptibility to Infernal Power <br>
+> Warped Magic <br>
+> Weird Magic
 >
->\* New or revised Flaws
+> \* New or revised Flaws
 
-**Major Magical Efficiency**<br>
+**Major Magical Deficiency**<br>
 Major, Supernatural
 
-The vitki has a magical deficiency with all of the runes in a single aett. Whenever one of his rune scripts includes one of these 
-runes, his casting total is halved. Or, the vitki may have a grave deficiency with three runes, such that he cannot use those runes in any of his spells.
+The vitki has a magical deficiency with all of the runes in a single aett. Whenever one of his rune scripts includes one of these runes, his casting total is halved. Or, the vitki may have a grave deficiency with three runes, such that he cannot use those runes in any of his spells.
 
-**Minor Magical Efficiency**<br>
+**Minor Magical Deficiency**<br>
 Minor, Supernatural
 
 The vitki has a deficiency with three of the runes. Whenever one of his rune scripts includes these runes, his casting total is halved. Or, the vitki may have a grave deficiency with a single rune, such that he cannot use it in any of his spells.
@@ -6325,19 +6327,19 @@ The vitki's rune scripts require much more time to prepare and execute than that
 
 These new abilities are also available:
 
-#### Cract: Runes
+#### Craft: Runes
 
-The vitki can carve or inscribe the runic alphabet into many different types of material, and this Ability describes the skill with which he does so. This can be used to determine how long the runes last, and also affects the skill with which the vitki may hide the runes in a rune script. **Specialties**: Carving or inscribing a particular material, hiding runes.
+The vitki can carve or inscribe the runic alphabet into many different types of material, and this Ability describes the skill with which he does so. This can be used to determine how long the runes last, and also affects the skill with which the vitki may hide the runes in a rune script. **Specialties:** Carving or inscribing a particular material, hiding runes.
 
 #### Rune Magic
 
-This is knowledge of what the magic of the vitkir is and how it works. It deals with the technical details of each rune, how they may be used, and how to formulate a rune script. Anyone can learn Rune Magic if they have access to a teacher, but it is very little use to those who do not have The Gift. (If the players have Ancient Magic, this and the Rune Magic Ability described on page 140 of that book are basically the same, and may be substituted for each other.) **Specialties**: A single rune, teaching scripts, opening the runes, reading hidden runes. (Arcane)
+This is knowledge of what the magic of the vitkir is and how it works. It deals with the technical details of each rune, how they may be used, and how to formulate a rune script. Anyone can learn Rune Magic if they have access to a teacher, but it is very little use to those who do not have The Gift. (If the players have Ancient Magic, this and the Rune Magic Ability described on page 140 of that book are basically the same, and may be substituted for each other.) **Specialties:** A single rune, teaching scripts, opening the runes, reading hidden runes. (Arcane)
 
->#### The Rune Poems
+> ### The Rune Poems
 >
->Characters who are interested in learning about the magic of the vitkir can track down a study source in the form of a "rune poem" — one of the rare and valuable works written by the vitkir to teach their followers the basics of rune carving and their magic. These texts name each rune and give a brief description in verse. The verses are typically four lines long, one verse for each rune, and describe the rune's mystical properties through imagery. For example, "Wealth / source of discord among kinsmen / and fire of the sea / and path of the serpent" or "Hail / cold grain / and shower of sleet / and sickness of serpents." There are three texts that have spread far enough from the vitkir that they might be found in Mythic Europe: the Icelandic Rune Poem and the Norwegian Rune Poem, both of which use the Younger Futhark alphabet (see The Runes, Modified Runes, later in this chapter, and the Anglo-Saxon Rune Poem, which uses the Futhorc and was translated into Latin by Christian monks, though with many revisions to the text.
+> Characters who are interested in learning about the magic of the vitkir can track down a study source in the form of a "rune poem" — one of the rare and valuable works written by the vitkir to teach their followers the basics of rune carving and their magic. These texts name each rune and give a brief description in verse. The verses are typically four lines long, one verse for each rune, and describe the rune's mystical properties through imagery. For example, "Wealth / source of discord among kinsmen / and fire of the sea / and path of the serpent" or "Hail / cold grain / and shower of sleet / and sickness of serpents." There are three texts that have spread far enough from the vitkir that they might be found in Mythic Europe: the Icelandic Rune Poem and the Norwegian Rune Poem, both of which use the Younger Futhark alphabet (see The Runes, Modified Runes, later in this chapter), and the Anglo-Saxon Rune Poem, which uses the Futhorc and was translated into Latin by Christian monks, though with many revisions to the text.
 
-## Nátt-thel
+### Nátt-thel
 
 (Pronounced "NOT-thull," with an unvoiced "th" like in "thud")
 
@@ -6367,23 +6369,23 @@ The duration roll determines the base unit of measurement for the Natt-thel, and
 
 At the moment he realizes he has lost control, the vitki can project some of his power into one or more of his active rune spells, ensuring that their effects will continue during the period he is without his magic. Doing this lengthens the duration of the Natt-thel, but guarantees that at least some of his magic will remain behind. This gives the vitki an additional Warping Point for each effect he wishes to protect. Note that these additional Warping Points might increase the character's Warping Score, which would affect the results of the Natt-thel Duration roll, and that they also contribute to the number of Warping Points gained, which increases the multiplier and ensures that the Natt-thel lasts even longer.
 
->#### Odin's Sacrifice
+> ### Odin's Sacrifice
 >
->It is said that Odin originally learned the runes througha special ritual in which he was hanged by his neck from an ash tree and stabbed in the side with a spear. After nine days of this torture, Odin had a vision in which he saw the runes and understood their power. Many vitkir believe that a person who undertakes this ordeal and succeeds can open the runes, just as an apprentice does with his master. They also say that if he does not already possess the power, the ritual gives the seeker The Gift.
+> It is said that Odin originally learned the runes througha special ritual in which he was hanged by his neck from an ash tree and stabbed in the side with a spear. After nine days of this torture, Odin had a vision in which he saw the runes and understood their power. Many vitkir believe that a person who undertakes this ordeal and succeeds can open the runes, just as an apprentice does with his master. They also say that if he does not already possess the power, the ritual gives the seeker The Gift.
 >
->A character interested in undertaking Odins sacrifice must discover some means by which to survive nine days without food, water, or air. He must have his side pierced with the spear (suffering a Medium Wound) and remain hung upon the tree for nine days without being moved, wounded further, or affected by supernatural powers. At the conclusion of the ritual, he must make an Intelligence + Concentration stress roll, to which he adds the aura bonus or penalty for Magic. If he achieves a total of 24 or more, he gains The Gift, or opens his scores in all of the vitkar runes if he already has The Gift, or gains another Major Virtue if he has already been opened to the runes. (This does not remove a viktir from Natt-thel or restore his Gift, though it might give him a new Supernatural Ability he can use.) A character can only perform this ritual once in his lifetime.
+> A character interested in undertaking Odins sacrifice must discover some means by which to survive nine days without food, water, or air. He must have his side pierced with the spear (suffering a Medium Wound) and remain hung upon the tree for nine days without being moved, wounded further, or affected by supernatural powers. At the conclusion of the ritual, he must make an Intelligence + Concentration stress roll, to which he adds the aura bonus or penalty for Magic. If he achieves a total of 24 or more, he gains The Gift, or opens his scores in all of the vitkar runes if he already has The Gift, or gains another Major Virtue if he has already been opened to the runes. (This does not remove a vitkir from Natt-thel or restore his Gift, though it might give him a new Supernatural Ability he can use.) A character can only perform this ritual once in his lifetime.
 >
->It is said that in ancient times the gods knew how to brewa potion from raw vis, mead, herbs, blood, and other more-exotic materials that would allow a person to survive the ordeal by placing him in a comatose state for nine days, during which time he would appear to be dead. If a character manages to discover the recipe, he will experience strange visions during the ritual, and does not need to apply Wound or Fatigue penalties to his Concentration roll. When he awakens from unconsciousness, he must recover all of his Fatigue levels as if from long-term fatigue. The strength of the potion also gives him a bonus to his Concentration of +1 for every pawn of vis used to brew it. However, once the ritual is complete, he must also roll one botch die for each pawn, as if he had botcheda roll, and any Os represent permanent physical or mental Flaws.
+> It is said that in ancient times the gods knew how to brewa potion from raw vis, mead, herbs, blood, and other more-exotic materials that would allow a person to survive the ordeal by placing him in a comatose state for nine days, during which time he would appear to be dead. If a character manages to discover the recipe, he will experience strange visions during the ritual, and does not need to apply Wound or Fatigue penalties to his Concentration roll. When he awakens from unconsciousness, he must recover all of his Fatigue levels as if from long-term fatigue. The strength of the potion also gives him a bonus to his Concentration of +1 for every pawn of vis used to brew it. However, once the ritual is complete, he must also roll one botch die for each pawn, as if he had botcheda roll, and any Os represent permanent physical or mental Flaws.
 >
->Such potions are not easy to brew, and according to the legends they usually require seeking out one of the gods or the alfar (pronounced "ALF-ar," roughly meaning "the elves") for mystical insight into the appropriate ingredients for a given person. Traditionally, this advice always comes with a price. Ingredients might include mythical concepts such as the breath of a fish, stubble from a woman's beard, the promise of a liar, or the ears of a bird. Often the potion must be accompanied by a blood oath, a solemn vow to serve the gods however they command. Such an oath is very dangerous, for commands from the gods are usually on the scale of nearly-suicidal heroic quests.
+> Such potions are not easy to brew, and according to the legends they usually require seeking out one of the gods or the alfar (pronounced "ALF-ar," roughly meaning "the elves") for mystical insight into the appropriate ingredients for a given person. Traditionally, this advice always comes with a price. Ingredients might include mythical concepts such as the breath of a fish, stubble from a woman's beard, the promise of a liar, or the ears of a bird. Often the potion must be accompanied by a blood oath, a solemn vow to serve the gods however they command. Such an oath is very dangerous, for commands from the gods are usually on the scale of nearly-suicidal heroic quests.
 
-### Learming Vitkar Magic
+### Learning Vitkar Magic
 
 A vitki may teach his powers to a laering (LYE-ring, "apprentice") as long as the student has The Gift. He must spend a season instructing his student, which gives the new vitki a score of O in all the runes (described under The Runes). This is called "opening the runes," like Hermetic magi "open the Arts." If the student already has any Supernatural Virtues or Abilities, the vitkis Opening Total is his Intelligence + Rune Magic + lowest rune + aura. If the master has a score of less than 2 in any runes when they are opened, the laering gains a Minor Magical Deficiency Flaw with that rune. The runes can still be opened if the master is in Nattthel or has lost his Gift through Nátt-thel, though in that case the laering also gains the Natt-thel Prone Flaw. After about five years learning from the same instructor, a laering typically gains a Minor Virtue appropriate to his master's specialty, usually a Puissant Rune or Puissant Ability. Supernatural Virtues that apply only to vitkar magic can be assumed to manifest after The Gift has been opened.
 
 Vitkir can study their runes in all the same ways that magi learn Hermetic magic: through books (if they learn the appropriate Academic Abilities), instruction, adventure, or exposure. Vitkir can also study from raw vis, in the same way that magi do, though vitkir may use any type of vis; they do not need vis of a particular Technique or Form. The vitki brews the vis into a potion that includes mead, some of the vitki's own blood, and other ingredients appropriate to the rune being studied. When this is drunk, the vitki falls into a deep, trancelike state, during which time he is aware of his surroundings but may take no actions. This generally lasts for about ten days while the vitki witnesses visions associated with the rune. The rest of the season is spent contemplating these revelations and learning from the experience.
 
-## Viktar Magic
+## Vitkar Magic
 
 > Dost know bow to write, dost know bow to read, <br>
 > Dost know bow to paint, dost know bow to prove, <br>
@@ -6452,63 +6454,63 @@ Runes can sometimes reproduce other magical effects appropriate to a rune's desc
 
 The runes are often organized into three groups of eight letters, called *aetts* ("EIGHTS"), and are usually written in three lines, one aett per row (see the sidebar). The entire rune alphabet is often called the *Futhark* ("FOO-thark"), after the first six letters: F, U, TH, A, R, and K. For greater ease of use of this chapter, however, the runes are presented below in alphabetical order, A (Ansuz) to Z (Algiz), and it is probably easiest to note them this way on the character sheet as well.
 
->#### Rune Casting Variations
+> ### Rune Casting Variations
 >
->| VARIATION          | MODIFIER |
->|--------------------|----------|
->| Hidden name        | -2       |
->| No name            | -5       |
->| Hidden description | -5       |
->| No description     | -10      |
->| Extra effort       | + 1      |
->| Emphasis           | + 1      |
->| Vis (Makt)         | +2/pawn* |
->|                    |          |
+> | VARIATION          | MODIFIER |
+> |--------------------|----------|
+> | Hidden name        | -2       |
+> | No name            | -5       |
+> | Hidden description | -5       |
+> | No description     | -10      |
+> | Extra effort       | + 1      |
+> | Emphasis           | + 1      |
+> | Vis (Makt)         | +2/pawn* |
+> |                    |          |
 >
->\* as appropriate to the effect
+> \* as appropriate to the effect
 
->#### The Older Futhark
+> ### The Older Futhark
 >
->The three aetts of the Elder Futhark are named after three gods, each one associated with the first letter in that aett. Freya was a Norse goddess of love and marriage, Heimdall was the god charged with guarding the rainbow bridge that leads from earth to Asgard, and Tyr was the god of justice and battle.
+> The three aetts of the Elder Futhark are named after three gods, each one associated with the first letter in that aett. Freya was a Norse goddess of love and marriage, Heimdall was the god charged with guarding the rainbow bridge that leads from earth to Asgard, and Tyr was the god of justice and battle.
 >
->#### Freya's Aett
+> #### Freya's Aett
 >
->| Letter | Rune | Name     | Meaning  | Effects                      |
->| ------ | ---- | -------- | -------- | ---------------------------- |
->| F      | ᚠ    | Fehu     | "Wealth" | Wealth, domesticated animals |
->| U      | ᚢ    | Uruz     | "Auroch" | Endurance, the wild          |
->| Th     | ᚦ    | Thurisaz | "Ogre"   | Malice, shapeshifting        |
->| A      | ᚨ    | Ansuz    | "Mouth"  | Communication, teaching      |
->| R      | ᚱ    | Raido    | "Riding" | Travel, knowledge            |
->| K      | ᚲ    | Kauno    | "Pain"   | Fire, sores                  |
->| G      | ᚷ    | Gebo     | "Gift"   | Debt, sacrifice              |
->| W      | ᚹ    | Wunjo    | "Joy"    | Emotion, intoxication        |
+> | Letter | Rune | Name     | Meaning  | Effects                      |
+> | ------ | ---- | -------- | -------- | ---------------------------- |
+> | F      | ᚠ    | Fehu     | "Wealth" | Wealth, domesticated animals |
+> | U      | ᚢ    | Uruz     | "Auroch" | Endurance, the wild          |
+> | Th     | ᚦ    | Thurisaz | "Ogre"   | Malice, shapeshifting        |
+> | A      | ᚨ    | Ansuz    | "Mouth"  | Communication, teaching      |
+> | R      | ᚱ    | Raido    | "Riding" | Travel, knowledge            |
+> | K      | ᚲ    | Kauno    | "Pain"   | Fire, sores                  |
+> | G      | ᚷ    | Gebo     | "Gift"   | Debt, sacrifice              |
+> | W      | ᚹ    | Wunjo    | "Joy"    | Emotion, intoxication        |
 >
->#### Heimdall's Aett
+> #### Heimdall's Aett
 >
->| Letter | Rune | Name    | Meaning | Effects              |
->| ------ | ---- | ------- | ------- | -------------------- |
->| H      | ᚺ    | Hagalaz | "Hail"  | Weather, illness     |
->| N      | ᚾ    | Naudiz  | "Need"  | Trouble, hardship    |
->| I      | ᛁ    | Isa     | "Ice"   | Cold, stasis         |
->| J      | ᛃ    | Jera    | "Year"  | Harvest, bounty      |
->| Y      | ᛇ    | Ihwaz   | "Yew"   | Patience, the dead   |
->| P      | ᛈ    | Perth   | "Cup"   | Chance, secrets      |
->| Z      | ᛉ    | Algiz   | "Elk"   | Protection, the hunt |
->| S      | ᛋ    | Sowilo  | "Sun"   | Triumph, virtue      |
+> | Letter | Rune | Name    | Meaning | Effects              |
+> | ------ | ---- | ------- | ------- | -------------------- |
+> | H      | ᚺ    | Hagalaz | "Hail"  | Weather, illness     |
+> | N      | ᚾ    | Naudiz  | "Need"  | Trouble, hardship    |
+> | I      | ᛁ    | Isa     | "Ice"   | Cold, stasis         |
+> | J      | ᛃ    | Jera    | "Year"  | Harvest, bounty      |
+> | Y      | ᛇ    | Ihwaz   | "Yew"   | Patience, the dead   |
+> | P      | ᛈ    | Perth   | "Cup"   | Chance, secrets      |
+> | Z      | ᛉ    | Algiz   | "Elk"   | Protection, the hunt |
+> | S      | ᛋ    | Sowilo  | "Sun"   | Triumph, virtue      |
 >
->#### Tyr's Aett
+> #### Tyr's Aett
 >
->| Letter | Rune | Name     | Meaning       | Effects              |
->| ------ | ---- | -------- | ------------- | -------------------- |
->| T      | ᛏ    | Tiwaz    | "Tyr"         | Justice, battle      |
->| B      | ᛒ    | Berkanan | "Birch"       | Health, youth        |
->| E      | ᛖ    | Ehwaz    | "Horse"       | Speed, relationships |
->| M      | ᛗ    | Mannaz   | "Man"         | Cooperation, duty    |
->| L      | ᛚ    | Laguz    | "Water"       | Ocean, ships         |
->| Ng     | ᛜ    | Ingwaz   | "Lord"        | Family, security     |
->| D      | ᛞ    | Dagaz    | "Day"         | Time, growth         |
->| O      | ᛟ    | Othila   | "Inheritance" | Lands, possessions   |
+> | Letter | Rune | Name     | Meaning       | Effects              |
+> | ------ | ---- | -------- | ------------- | -------------------- |
+> | T      | ᛏ    | Tiwaz    | "Tyr"         | Justice, battle      |
+> | B      | ᛒ    | Berkanan | "Birch"       | Health, youth        |
+> | E      | ᛖ    | Ehwaz    | "Horse"       | Speed, relationships |
+> | M      | ᛗ    | Mannaz   | "Man"         | Cooperation, duty    |
+> | L      | ᛚ    | Laguz    | "Water"       | Ocean, ships         |
+> | Ng     | ᛜ    | Ingwaz   | "Lord"        | Family, security     |
+> | D      | ᛞ    | Dagaz    | "Day"         | Time, growth         |
+> | O      | ᛟ    | Othila   | "Inheritance" | Lands, possessions   |
 
 ### A, Ansuz, "Mouth"
 
@@ -6518,19 +6520,19 @@ This rune has many meanings, including "mouth" as in the source of speech and al
 
 When used to describe a target, Ansuz most commonly refers to images, specifically sounds. For the purposes of Penetration, this application is an Imaginem effect. Ansuz can also affect the mind through speech, an aspect of Mentem, and in rare circumstances it can target the human mouth directly as a Corpus effect. It is also occasionally associated with Vim, to target intelligent supernatural beings that have the power of speech.
 
->#### Ansuz Guidelines
+> ### Ansuz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of the effect to all Ability rolls associated with Communication.
+> General: The target receives a bonus or penalty equal to the magnitude of the effect to all Ability rolls associated with Communication.
 >
->General: The target gains the power to recognize audible illusions of less than or equal to the level of this effect, recognizing them by ear much in the same way those with Second Sight perceive them visually.
+> General: The target gains the power to recognize audible illusions of less than or equal to the level of this effect, recognizing them by ear much in the same way those with Second Sight perceive them visually.
 >
->Level 10: Give a target the ability to speak. If the target is not intelligent, it can only repeat what is specified in the effect.
+> Level 10: Give a target the ability to speak. If the target is not intelligent, it can only repeat what is specified in the effect.
 >
->Level 20: The target gains the power to recognize the Form associated with the Might of any creature within about ten paces. This tells the vitki which runes can be used to target it.
+> Level 20: The target gains the power to recognize the Form associated with the Might of any creature within about ten paces. This tells the vitki which runes can be used to target it.
 >
->Level 25:The target gains the ability to intuitively understand the surface thoughts of others within a ten-pace area, making it possible to make sense of foreign languages.
+> Level 25: The target gains the ability to intuitively understand the surface thoughts of others within a ten-pace area, making it possible to make sense of foreign languages.
 >
->Level 30: Increase or decrease a target's Communication by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Communication by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 
 #### Sample Ansuz Rune Spells
 
@@ -6542,7 +6544,7 @@ The vitki receives a bonus to all Ability rolls associated with good speech and 
 **I, (THE RUNEMASTER), GIVE UNDERSTANDING OF THE HOLLOW VOICES.**<br>
 Ansuz General, Method I
 
-For as long as the runes last, the target may hear the words spoken by spirits and incorporeal beings and can tell the difference between illusory noises and real noises as if he had a score of this effect’s magnitude in Second Sight. The runes are usually drawn upon an amulet made of wood or stone and worn against the person’s skin, and thus typically last only a short while.
+For as long as the runes last, the target may hear the words spoken by spirits and incorporeal beings and can tell the difference between illusory noises and real noises as if he had a score of this effect's magnitude in Second Sight. The runes are usually drawn upon an amulet made of wood or stone and worn against the person's skin, and thus typically last only a short while.
 
 ### B, Berkanan, "Birch"
 
@@ -6552,31 +6554,31 @@ The birch is a tree of fertility; its branches are bare and do not produce flowe
 
 The Berkanan rune is associated with healing, and also with youth. When used as a target it is usually Herbam, though it can also affect children (Corpus), and young animals (Animal).
 
->#### Berkanan Guidelines
+> ### Berkanan Guidelines
 >
->General: The target receives a bonus or penalty to recovery rolls equal to (the magnitude of the effect x 3). This includes physical injuries, but not sickness from diseases or poisons.
+> General: The target receives a bonus or penalty to recovery rolls equal to (the magnitude of the effect x 3). This includes physical injuries, but not sickness from diseases or poisons.
 >
->General: The target receives a bonus or penalty to all Ability rolls performed while injured.
+> General: The target receives a bonus or penalty to all Ability rolls performed while injured.
 >
->Level 15: The target will not impregnate or become pregnant for the duration. Ensure that the target is potent or fertile for the duration.
+> Level 15: The target will not impregnate or become pregnant for the duration. Ensure that the target is potent or fertile for the duration.
 >
->Level 20: Heal one of the target's Light Wounds or the equivalent, or reduce one of a target's wounds by one level of severity (changing a Heavy Wound to a Medium Wound, for example).
+> Level 20: Heal one of the target's Light Wounds or the equivalent, or reduce one of a target's wounds by one level of severity (changing a Heavy Wound to a Medium Wound, for example).
 >
->Level 20: Prevent all of a target's Light Wounds from healing naturally for the duration.
+> Level 20: Prevent all of a target's Light Wounds from healing naturally for the duration.
 >
->Level 25: Heal your target's Medium Wound, or reduce a wound by two levels of severity.
+> Level 25: Heal your target's Medium Wound, or reduce a wound by two levels of severity.
 >
->Level 25: Prevent all of a target's Light or Medium Wounds from healing naturally for the duration.
+> Level 25: Prevent all of a target's Light or Medium Wounds from healing naturally for the duration.
 >
->Level 30: Heal a target's Heavy Wound, or reduce one of a target's wounds by three levels of severity.
+> Level 30: Heal a target's Heavy Wound, or reduce one of a target's wounds by three levels of severity.
 >
->Level 30: Prevent all of a target's Light, Medium or Heavy Wounds from healing naturally for the duration.
+> Level 30: Prevent all of a target's Light, Medium or Heavy Wounds from healing naturally for the duration.
 >
->Level 35: Heal a target's Incapacitating Wound.
+> Level 35: Heal a target's Incapacitating Wound.
 >
->Level 35: Prevent any of a target's wounds from healing naturally for the duration of the spell.
+> Level 35: Prevent any of a target's wounds from healing naturally for the duration of the spell.
 >
->Level 40: Heal all of the target's wounds.
+> Level 40: Heal all of the target's wounds.
 
 #### Sample Brekanan Rune Spells
 
@@ -6586,7 +6588,7 @@ Berkanan (Mannaz) General, Method II
 The spell is cast upon a spear that has struck and wounded another, carving the runes to seal in the blood as an Arcane Connection. The target of the spell — the person whose blood is on the spear — receives three times the magnitude of the spell as a penalty to all of his recovery rolls, for as long as the rune lasts.
 
 **I, (the runemaster), carve runes to close the flesh.**<br>
-Berkanan 20,  Method I
+Berkanan 20, Method I
 
 This spell is usually carved onto an amulet and placed inside a piece of the target's clothing. The target heals a Light Wound, and as long as the runes last for at least a week (the recovery period for a Light Wound) the effect is permanent. If the amulet is removed or damaged during this time, before the wound would have healed naturally, the character must make an immediate recovery roll for that injury (ArM5, page 179). If this equals or exceeds the Improvement Ease Factor, then the wound remains healed. If the roll equals or exceeds the Stable Ease Factor, then the Light Wound reopens. If this roll is less than the Stable Ease Factor then the wound worsens, becoming a Medium Wound.
 
@@ -6598,17 +6600,17 @@ Dagaz means "day," as in the length of time it takes the sun to travel from hori
 
 As a target, Dagaz would be considered part of either Imaginem or Ignem, specifically affecting the light of day and moving images associated with time passing, but it is rarely used in this way.
 
->#### Dagaz Guidelines
+> ### Dagaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that involve a regular, day-long activity.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that involve a regular, day-long activity.
 >
->General: The target receives a bonus or penalty to Aging rolls equal to the magnitude of the effect, so long as the rune lasts for the entire year.
+> General: The target receives a bonus or penalty to Aging rolls equal to the magnitude of the effect, so long as the rune lasts for the entire year.
 >
->Level 20: Cause a target to grow twice its normal size with the passing of the sun. Level 20: Shrink a target to half its normal size with the passing of the sun.
+> Level 20: Cause a target to grow twice its normal size with the passing of the sun. Level 20: Shrink a target to half its normal size with the passing of the sun.
 >
->Level 30: Cause a target to grow to full maturity in a single day.
+> Level 30: Cause a target to grow to full maturity in a single day.
 >
->Level 30: Age target five years, as long as the target has already reached maturity.
+> Level 30: Age target five years, as long as the target has already reached maturity.
 
 #### Sample Dagaz Rune Spells
 
@@ -6628,19 +6630,19 @@ These runes ensure that any person who disturbs the ground or sealing stone of a
 
 This rune stands for the horse — a beast noted for its stamina, speed, and strength. It represents superior mobility in combat, as well as the close relationship between horse and rider. When used as a target, it is associated with Animal, specifically when targeting horses or other animals used in battle.
 
->#### Ehwaz Guidelines
+> ### Ehwaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of the effect on all rolls performed while mounted, including Initiative, Attack, and Defense rolls.
+> General: The target receives a bonus or penalty equal to the magnitude of the effect on all rolls performed while mounted, including Initiative, Attack, and Defense rolls.
 >
->General: The target receives a bonus or penalty equal to the magnitude of the effect on Ability rolls involving Quickness (not including Initiative or Defense).
+> General: The target receives a bonus or penalty equal to the magnitude of the effect on Ability rolls involving Quickness (not including Initiative or Defense).
 >
->General: The target receives a bonus or penalty equal to the magnitude of the effect to all rolls that involve trust and loyalty between two individuals, creating a bond similar to that of horse and rider. This is similar to the effects of the True Friend Virtue.
+> General: The target receives a bonus or penalty equal to the magnitude of the effect to all rolls that involve trust and loyalty between two individuals, creating a bond similar to that of horse and rider. This is similar to the effects of the True Friend Virtue.
 >
->Level 20: Tame the target, making it more loyal and sensitive to the vitki's needs.
+> Level 20: Tame the target, making it more loyal and sensitive to the vitki's needs.
 >
->Level 30: Summon a mount, which obeys the vitki's instructions and accepts him as a rider.
+> Level 30: Summon a mount, which obeys the vitki's instructions and accepts him as a rider.
 >
->Level 30: Increase or decrease a target's Quickness by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Quickness by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 
 #### Sample Ehwaz Rune Spells
 
@@ -6662,15 +6664,15 @@ Fehu is the rune of wealth, represented by good fortune and prosperity. In contr
 
 When used as a target, Fehu is usually associated with either Animal or Terram, depending upon the type of wealth affected by the rune. It can be used to affect animals in general, but only those that are domesticated and thus considered property.
 
->#### Fehu Guidelines
+> ### Fehu Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that support the target gaining wealth: working, gambling, investing, or treasure-hunting.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that support the target gaining wealth: working, gambling, investing, or treasure-hunting.
 >
->Level 20: The target gains the ability to detect precious metal he is within about ten paces.
+> Level 20: The target gains the ability to detect precious metal he is within about ten paces.
 >
->Level 25: The target gains the ability to detect domesticated animals within about ten paces.
+> Level 25: The target gains the ability to detect domesticated animals within about ten paces.
 >
->Level 35: Summon wealth, usually in the form of precious metal or a domesticated animal.
+> Level 35: Summon wealth, usually in the form of precious metal or a domesticated animal.
 
 #### Sample Fehu Rune Spells
 
@@ -6684,7 +6686,7 @@ Fehu 35, Method II
 
 These runes summon a full-grown ox to the vitki, though the vitki must have a horn, hair, bone, or something else belonging to an ox, which is integrated into the runes and becomes an Arcane Connection to the ox that is summoned. The spell causes the ox to appear nearby, transported from wherever it was before. If the ox is dead, the spell also restores it to life, though it has no memory of any of its previous incarnations (and this does not work on any ox that had an Intelligence score or Might).
 
-The ox is strangely biddable, as if it had been raised by the vitki himself, though it loses this quality if the runes are destroyed. 
+The ox is strangely biddable, as if it had been raised by the vitki himself, though it loses this quality if the runes are destroyed.
 
 Note that the ox does not disappear or die when the spell ends, and that the spell will always summon the same ox if the same Arcane Connection is used.
 
@@ -6696,17 +6698,17 @@ Accepting a gift places the recipient under certain obligations in Norse society
 
 Gebo is not associated with any particular Form, but with any physical object given as a gift. It can also be used to target someone in the vitkir's debt, through that sense of obligation created by the vitkir's generosity. In this case, it might be considered a Mentem effect.
 
->#### Gebo Guidelines
+> ### Gebo Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect on all Ability rolls to influence others, including forming new relationships, courtship, charming others, and negotiation.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect on all Ability rolls to influence others, including forming new relationships, courtship, charming others, and negotiation.
 >
->Level 30: Give the target a feeling of deference and obligation to the vitki.
+> Level 30: Give the target a feeling of deference and obligation to the vitki.
 >
->Level 35: Force the target to obey a simple command.
+> Level 35: Force the target to obey a simple command.
 >
->Level 40: Force the target to obey a complex command.
+> Level 40: Force the target to obey a complex command.
 >
->Level 50: Completely dominate the target's mind and emotions.
+> Level 50: Completely dominate the target's mind and emotions.
 
 #### Sample Gebo Rune Spells
 
@@ -6728,17 +6730,17 @@ Hagalaz represents the cruelest side of nature, from sudden storms to debilitati
 
 When used as a target, Hagalaz is almost always part of Auram or specific aspects of Aquam (cold, rain, and hail). It can also affect other sorts of missile weapons, including Terram (stones) and Herbam (arrows).
 
->#### Hagalaz Guidelines
+> ### Hagalaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Damage.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Damage.
 >
->General: Cause hail or other dangerous phenomena to pummel a target, inflicting damage equal to a stress die + (the Level of the effect – 15).
+> General: Cause hail or other dangerous phenomena to pummel a target, inflicting damage equal to a stress die + (the Level of the effect – 15).
 >
->Level 15: Summon severe weather phenomena, like thunderstorms or hailstorms.
+> Level 15: Summon severe weather phenomena, like thunderstorms or hailstorms.
 >
->Level 20: Cause weather phenomena to become more or less severe.
+> Level 20: Cause weather phenomena to become more or less severe.
 >
->Level 25:Summon a very severe weather phenomenon, for example, a tornado or a blizzard.
+> Level 25: Summon a very severe weather phenomenon, for example, a tornado or a blizzard.
 
 #### Sample Hagalaz Rune Spells
 
@@ -6758,17 +6760,17 @@ After inscribing this script, a terrible thunderstorm gathers in the area surrou
 
 Isa means ice, and it symbolizes the hidden dangers ice represents, such as slipping or breaking. It embodies coldness, and also cold emotions. As a target, Isa is associated with literal ice (Aquam), or Ignem when affecting temperature, or Mentem when affecting a person's cold and implacable feelings.
 
->#### Isa Guidelines
+> ### Isa Guidelines
 >
->General: The target receives a bonus or penalty that's equal to the magnitude of this effect to Ability rolls that involve ice or the cold: exposure, winter travel, or slipping.
+> General: The target receives a bonus or penalty that's equal to the magnitude of this effect to Ability rolls that involve ice or the cold: exposure, winter travel, or slipping.
 >
->General: Chill a target, doing Damage equal to (the level of the effect – 20) and potentially freezing it solid.
+> General: Chill a target, doing Damage equal to (the level of the effect – 20) and potentially freezing it solid.
 >
->Level 10: Cause water to freeze. If cast on a target, this makes it cold to the touch, living beings lose a Fatigue level. Cause ice to melt.
+> Level 10: Cause water to freeze. If cast on a target, this makes it cold to the touch, living beings lose a Fatigue level. Cause ice to melt.
 >
->Level 15: Cause a target to feel depressed and apathetic for the duration, canceling out other strong emotions.
+> Level 15: Cause a target to feel depressed and apathetic for the duration, canceling out other strong emotions.
 >
->Level 20: Hold a target totally motionless. Level 25: Cause the surface of a target to become completely covered in ice.
+> Level 20: Hold a target totally motionless. Level 25: Cause the surface of a target to become completely covered in ice.
 
 #### Sample Isa Rune Spells
 
@@ -6788,15 +6790,15 @@ This spell creates a slippery sheet of ice located on the ground surrounding the
 
 Jera signifies the harvest, and while this implies autumn it can also mean the bounty of nature all year round. The harvest is also the end result of hard work for an entire year, and so the rune also has connotations of prosperity and plenty. As a target, Jera is almost always associated with the form of Herbam, though it can also influence an Animal harvest, and can target people's health and general well being through Corpus.
 
->#### Jera Guidelines
+> ### Jera Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to year-long activities, so long as the rune lasts for the entire year, with the bonus gained at the end of the year. For example: harvest, study, teaching, craft work (but not aging, which is covered by Dagaz).
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to year-long activities, so long as the rune lasts for the entire year, with the bonus gained at the end of the year. For example: harvest, study, teaching, craft work (but not aging, which is covered by Dagaz).
 >
->General: Target is immune to supernatural diseases of up to this effect's Level.
+> General: Target is immune to supernatural diseases of up to this effect's Level.
 >
->Level 5: Ensure that the target remains healthy and strong, immune to natural blight and illness for the duration.
+> Level 5: Ensure that the target remains healthy and strong, immune to natural blight and illness for the duration.
 >
->Level 15: Summon food and drink.
+> Level 15: Summon food and drink.
 
 #### Sample Jera Rune Spells
 
@@ -6818,39 +6820,39 @@ In the Anglo-Saxon Rune Poem, Kauno is described as a torch visible from afar, w
 
 Asa target, Kauno affects any kind of fire, as well as heat and temperature. It is almost always associated with Ignem when evaluating Penetration, though effects that cause sores and pain are usually Corpus or Animal.
 
->#### Kauno Guidelines
+> ### Kauno Guidelines
 >
->General: The target receives a bonus or penalty equal to this effect's magnitude to all Ability rolls associated with disease and sickness, such as diagnosing or curing others.
+> General: The target receives a bonus or penalty equal to this effect's magnitude to all Ability rolls associated with disease and sickness, such as diagnosing or curing others.
 >
->General: The target receives a bonus or penalty to all Ability rolls performed while sick.
+> General: The target receives a bonus or penalty to all Ability rolls performed while sick.
 >
->General: The target receives a bonus or penalty to recovery rolls due to sickness and disease equal to (this effect's magnitude x 3). This does not include recovery rolls for physical injuries.
+> General: The target receives a bonus or penalty to recovery rolls due to sickness and disease equal to (this effect's magnitude x 3). This does not include recovery rolls for physical injuries.
 >
->Level 10:Ignite an extremely flammable target, or cause it to become warm to the touch. This does +5 Damage to the target or anything touching it each round, with the Damage total divided by 5 after rolling.
+> Level 10: Ignite an extremely flammable target, or cause it to become warm to the touch. This does +5 Damage to the target or anything touching it each round, with the Damage total divided by 5 after rolling.
 >
->Level 15:Ignite a very flammable target, or cause it to become hot to the touch. This does +5 Damage to the target or anything that's touching it each round, with the Damage total divided by 2 after rolling.
+> Level 15: Ignite a very flammable target, or cause it to become hot to the touch. This does +5 Damage to the target or anything that's touching it each round, with the Damage total divided by 2 after rolling.
 >
->Level 20: Ignite a flammable target, or cause it to become hot enough to boil water. This does +5 Damage to the target or anything touching it each round.
+> Level 20: Ignite a flammable target, or cause it to become hot enough to boil water. This does +5 Damage to the target or anything touching it each round.
 >
->Level 20: Cause the target to suffer from painful sores that last for the duration. These are distracting and unpleasant for the target, but have no other effect. Level 25: Ignite a slightly flammable target, or cause it to become hot enough to glow. This does +10 Damage to the target or anything touching it each round.
+> Level 20: Cause the target to suffer from painful sores that last for the duration. These are distracting and unpleasant for the target, but have no other effect. Level 25: Ignite a slightly flammable target, or cause it to become hot enough to glow. This does +10 Damage to the target or anything touching it each round.
 >
->Level 25:The target is infected with a minor illness, which will not heal naturally for the duration.
+> Level 25: The target is infected with a minor illness, which will not heal naturally for the duration.
 >
->Level 30: Ignite a barely flammable target, or cause it to become hot enough to melt lead. It does +15 Damage to the target or anything touching it each round.
+> Level 30: Ignite a barely flammable target, or cause it to become hot enough to melt lead. It does +15 Damage to the target or anything touching it each round.
 >
->Level 30: The target is infected with a serious illness, which will not heal naturally for the duration.
+> Level 30: The target is infected with a serious illness, which will not heal naturally for the duration.
 >
->Level 35:Ignite a target, or cause it to become unnaturally hot. This does +20 Damage to the target or anything touching it each round.
+> Level 35: Ignite a target, or cause it to become unnaturally hot. This does +20 Damage to the target or anything touching it each round.
 >
->Level 35: The target is infected with a major illness, which will not heal naturally for the duration.
+> Level 35: The target is infected with a major illness, which will not heal naturally for the duration.
 >
->Level 40:Ignite a target, or cause it to become unnaturally hot. This does +25 Damage to the target or anything touching it each round.
+> Level 40: Ignite a target, or cause it to become unnaturally hot. This does +25 Damage to the target or anything touching it each round.
 >
->Level 40:The target is infected with a critical illness, which will not heal naturally for the duration.
+> Level 40: The target is infected with a critical illness, which will not heal naturally for the duration.
 >
->Level 45:Ignite a target, or cause it to become unnaturally hot. This does +30 Damage to the target or anything touching it each round.
+> Level 45: Ignite a target, or cause it to become unnaturally hot. This does +30 Damage to the target or anything touching it each round.
 >
->Level 45: The target is infected witha terminal illness, which will not heal naturally for the duration.
+> Level 45: The target is infected witha terminal illness, which will not heal naturally for the duration.
 
 #### Sample Kauno Rune Spells
 
@@ -6864,27 +6866,27 @@ Kauno (Mannaz) 30, Method II
 
 The target person is afflicted with a serious illness, the equivalent of a Medium Wound. While this spell endures, however, the target cannot recover naturally; his condition can only remain the same or worsen, since the disease is constantly maintained by the runes.
 
-#### L, Laguz, "Water"
+### L, Laguz, "Water"
 
 (Pronounced "LAH-ghooz")
 
 This rune represents water, especially of the ocean. There is great wealth and power in the ocean, and many hidden dangers that cannot be seen from the surface. As a target it is almost always associated with Aquam, though it can also affect things that are only found underwater, such as water-breathing animals and sea plants.
 
->#### Laguz Guidelines
+> ### Laguz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls performed while submerged in or floating upon water.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls performed while submerged in or floating upon water.
 >
->Level 5: The target gains the ability to see clearly through water.
+> Level 5: The target gains the ability to see clearly through water.
 >
->Level 10:Summon water, enough to fill an area about ten paces across and ten paces deep.
+> Level 10: Summon water, enough to fill an area about ten paces across and ten paces deep.
 >
->Level 20: The target gains the ability to sense the direction of the nearest large Bay of water or if anyWaterasawathi about ten paces.
+> Level 20: The target gains the ability to sense the direction of the nearest large Bay of water or if anyWaterasawathi about ten paces.
 >
->Level 20:The target gains the ability to breathe water.
+> Level 20: The target gains the ability to breathe water.
 >
->Level 25: Speed a sea journey, causing the target ship or the target swimmer to travel through the water at twice the normal speed.
+> Level 25: Speed a sea journey, causing the target ship or the target swimmer to travel through the water at twice the normal speed.
 >
->Level 30: Cause waves to knock over a large target or to pull a small target under water.
+> Level 30: Cause waves to knock over a large target or to pull a small target under water.
 
 #### Sample Laguz Rune Spells
 
@@ -6904,17 +6906,17 @@ The runes are carved into a piece of wood mounted on the prow of a ship, which e
 
 Mannaz means mankind, and suggests unity and cooperation among all people. When used as a target it affects either the mind or the body, but most often the body, and thus is usually linked to Corpus rather than Mentem. It is used most frequently to affect a person as the target of another rune.
 
->#### Mannaz Guidenies
+> ### Mannaz Guidenies
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that involve Dexterity (but not Attack rolls).
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that involve Dexterity (but not Attack rolls).
 >
->General: Target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls involving working with others, such as fighting in a group or collaborating on a project in a workshop.
+> General: Target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls involving working with others, such as fighting in a group or collaborating on a project in a workshop.
 >
->Level 20: Inspire feelings of cooperation
+> Level 20: Inspire feelings of cooperation
 >
->Cause a group ofaeto function as a trained group.
+> Cause a group ofaeto function as a trained group.
 >
->Level 30:Increase or decrease a target's Dexterity by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Dexterity by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 
 #### Sample Mannaz Rune Spells
 
@@ -6934,18 +6936,18 @@ All the people fighting within ten paces of the runes function as a trained grou
 
 Naudiz is a very negative rune, meaning hardship, trouble, and adversity, often scratched onto a fingernail to indicate great need. It may be used to target things that are desperate, dying, or despairing, and so is usually associated with Mentem or Corpus.
 
->#### Naudiz Guidelines
+> ### Naudiz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect when in great need, such as when dreadfully wounded or in a desperate state of emotion.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect when in great need, such as when dreadfully wounded or in a desperate state of emotion.
 >
->General: The target suffers a bonus or penalty equal to the magnitude of this effect on all Ability rolls that he has tried once and failed.
+> General: The target suffers a bonus or penalty equal to the magnitude of this effect on all Ability rolls that he has tried once and failed.
 >
->General: Delay the resolution of another supernatural effect no greater than the level of this effect, putting it off for as long as this rune lasts, and casting it when this spell is broken. This spell must include the runes for the held effect as well as Naudiz. For example, to delay an Ansuz effect of Level 20, the rune spell must be Naudiz (Ansuz) 20 or less.
+> General: Delay the resolution of another supernatural effect no greater than the level of this effect, putting it off for as long as this rune lasts, and casting it when this spell is broken. This spell must include the runes for the held effect as well as Naudiz. For example, to delay an Ansuz effect of Level 20, the rune spell must be Naudiz (Ansuz) 20 or less.
 >
->General: Bind an active rune spell of Level less than or equal to this one, so that the duration lasts as long as the runes used in this spell. The spell must include the runes for the bound effect as well as Naudiz. For example, to bind a Fehu (Ansuz) effect of
+> General: Bind an active rune spell of Level less than or equal to this one, so that the duration lasts as long as the runes used in this spell. The spell must include the runes for the bound effect as well as Naudiz. For example, to bind a Fehu (Ansuz) effect of
 Level 15, the rune spell must be Naudiz (Fehu, Ansuz) 15 or greater.
 >
->Level 20: Cause a target to feel a deep despair, which makes him unable to use Confidence Points for the duration of the spell. 
+> Level 20: Cause a target to feel a deep despair, which makes him unable to use Confidence Points for the duration of the spell.
 
 #### Sample Naubiz Rune Spells
 
@@ -6965,15 +6967,15 @@ All those who live in the target structure begin to feel deep despair and self-l
 
 Ingwaz is associated with peace, family, and a safe, secure home. As a target, it may affect a building, dwelling, or structure, and so is often tied to Herbam and Terram. It can also affect all those who live in a particular house, making it possible to target them by carving runes on the outside, or to target members of the caster's family or household. This is usually a Corpus effect.
 
->#### Ingwaz Guidelines
+> ### Ingwaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that affect his family, household, or home.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that affect his family, household, or home.
 >
->Level 20: The target gains an instinctive sense of where his family is, including distance and direction and their current emotional state.
+> Level 20: The target gains an instinctive sense of where his family is, including distance and direction and their current emotional state.
 >
->Level 20: The target gives birth easily and the baby is healthy, so long as the rune is worn by her for the whole of the pregnancy.
+> Level 20: The target gives birth easily and the baby is healthy, so long as the rune is worn by her for the whole of the pregnancy.
 >
->Level 35: Summon a target person, transporting him or her to the caster.
+> Level 35: Summon a target person, transporting him or her to the caster.
 
 #### Sample Ingwaz Rune Spells
 
@@ -6993,13 +6995,13 @@ By incorporating an Arcane Connection into the rune spell, the vitki transports 
 
 The Othila rune means property, but specific material goods as opposed to Fehu, which represents general wealth. These are things that can be passed'on from generation to generation, such as lands or possessions, and thus the rune is most often used as a target tied to Terram.
 
->#### Othila Guidelines
+> ### Othila Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to all rolls that involve a specific tool or family heirloom, such as wielding his father's sword or defending his lands. This includes Initiative, Attack, and Defense rolls.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to all rolls that involve a specific tool or family heirloom, such as wielding his father's sword or defending his lands. This includes Initiative, Attack, and Defense rolls.
 >
->Level 15: Make an object more effective at what it is designed to do. For example, make a sword light and sharp, or a plow till the earth more quickly. The object functions as if it were exceptional quality, and reduces the number of potential botch dice by two when used.
+> Level 15: Make an object more effective at what it is designed to do. For example, make a sword light and sharp, or a plow till the earth more quickly. The object functions as if it were exceptional quality, and reduces the number of potential botch dice by two when used.
 >
->Level 20: Summon a target to the caster; this must be a nonliving thing that is smaller than a person, such as a sword or chest.
+> Level 20: Summon a target to the caster; this must be a nonliving thing that is smaller than a person, such as a sword or chest.
 
 #### Sample Othila Rune Spells
 
@@ -7021,19 +7023,19 @@ Perth is a mysterious and strange rune, with many different interpretations. Per
 
 Often Perth is used to affect the supernatural realms, particularly Magic. It is thus tied most strongly to Vim. It can target vis, and it can also target other spells and supernatural effects. It does not affect supernatural beings and creatures with Might (these are Ansuz if they are intelligent, or Uruz if they are not), though it can affect their powers.
 
->#### Perth Guidelines
+> ### Perth Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to rolls that involve pure chance, such as when playing at dice. This also influences events governed by some element of chance, such as shooting an arrow into the dark or determining whether or not a woman becomes pregnant.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to rolls that involve pure chance, such as when playing at dice. This also influences events governed by some element of chance, such as shooting an arrow into the dark or determining whether or not a woman becomes pregnant.
 >
->General: Whenever the target rolls for a potential botch, the number of potential botch dice is reduced or increased by the magnitude of this effect.
+> General: Whenever the target rolls for a potential botch, the number of potential botch dice is reduced or increased by the magnitude of this effect.
 >
->General: All supernatural effects cast on the target that are less than or equal to half this effect's level are dispelled.
+> General: All supernatural effects cast on the target that are less than or equal to half this effect's level are dispelled.
 >
->Level 10: The target can sense Magic or Faerie auras within about ten paces, and identify their strength.
+> Level 10: The target can sense Magic or Faerie auras within about ten paces, and identify their strength.
 >
->Level 20: The target gains the ability to sense and identify vis that is within about ten paces.
+> Level 20: The target gains the ability to sense and identify vis that is within about ten paces.
 >
->Level 25: The target can recognize the caster of any active magic in the vicinity, or can get a general sense of the effects, much like reading the inscribed description of a rune spell.
+> Level 25: The target can recognize the caster of any active magic in the vicinity, or can get a general sense of the effects, much like reading the inscribed description of a rune spell.
 
 #### Sample Perth Rune Spells
 
@@ -7051,27 +7053,25 @@ For as long as the rune endures, the vitki can sense vis when he is within about
 
 (Pronounced "RYE-doh")
 
-This rune is generally held to mean "riding," as in the activity of going forth on horseback or on a cart. The word *raido* may be related to the Old Norse word *reid*, which means either chariot or thunder, and thus it may invoke Thor, the Norse god of thunder,
-
-who rode in a great chariot. It symbolizes a journey, and all forms of travel. It also conveys the idea of preparation for war or severe weather, and is thus associated with principles of planning, thought, and strategy.
+This rune is generally held to mean "riding," as in the activity of going forth on horseback or on a cart. The word *raido* may be related to the Old Norse word *reid*, which means either chariot or thunder, and thus it may invoke Thor, the Norse god of thunder, who rode in a great chariot. It symbolizes a journey, and all forms of travel. It also conveys the idea of preparation for war or severe weather, and is thus associated with principles of planning, thought, and strategy.
 
 As a target, Raido targets a cart, ship, or wheel, as well as the tack and harnesses of animals that pull a cart or chariot. The animals themselves are usually associated with either Ehwaz if they are horses, or Fehu for other domesticated animals.
 
->#### Raido Guidelines
+> ### Raido Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect on all Ability rolls made while traveling, such as Area Lore, Folk Ken, Ride, or Charm. This does not include mounted combat.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect on all Ability rolls made while traveling, such as Area Lore, Folk Ken, Ride, or Charm. This does not include mounted combat.
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect on all natural Ability rolls associated with Stamina (but not Soak or casting rune magic).
+> General: The target receives a bonus or penalty equal to the magnitude of this effect on all natural Ability rolls associated with Stamina (but not Soak or casting rune magic).
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to his Initiative.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to his Initiative.
 >
->Level 15: Repair a harness or wheel. Level 20: Restore a lame animal, healing a Light Wound for the duration. The target gains the power to sense which direction it is traveling.
+> Level 15: Repair a harness or wheel. Level 20: Restore a lame animal, healing a Light Wound for the duration. The target gains the power to sense which direction it is traveling.
 >
->Level 30: Speed a journey, allowing the target to run and walk at twice the normal speed.
+> Level 30: Speed a journey, allowing the target to run and walk at twice the normal speed.
 >
->Level 30: Increase or decrease a target's Stamina by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Stamina by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 >
->Level 35: Summon a target to the caster, it must be a nonliving thing that is larger than the caster, such as a boat or cart.
+> Level 35: Summon a target to the caster, it must be a nonliving thing that is larger than the caster, such as a boat or cart.
 
 #### Sample Raido Rune Spells
 
@@ -7085,29 +7085,29 @@ Raido 30, Method I
 
 With this rune spell, which is usually inscribed directly onto the horse's saddle or blanket, the vitki causes his horse to travel extremely quickly, covering ten paces with each step.
 
-### S, Sowilo, "Sun" 
+### S, Sowilo, "Sun"
 
 (Pronounced "SOH-veel-oh")
 
 Sowilo is associated with light and the sun, and is described as a boon to sailors and a blessing for travelers. It also has overtones of good succeeding against evil, much as light triumphs over dark. As a target Sowilo affects light, and is thus a part of the Form of Ignem. It can also target the Divine and beings that have Divine Might as a subset of Vim.
 
->#### Sowilo Guidelines
+> ### Sowilo Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to natural Ability rolls associated with Perception.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to natural Ability rolls associated with Perception.
 >
->General: The target can see through illusions of this effect's level or less as if he had Second Sight, including seeing through regiones.
+> General: The target can see through illusions of this effect's level or less as if he had Second Sight, including seeing through regiones.
 >
->Level 10: The target gains the ability to see in the dark as if it were daylight.
+> Level 10: The target gains the ability to see in the dark as if it were daylight.
 >
->The target can sense Divine or Infernal auras within about ten paces, and identify their strength.
+> The target can sense Divine or Infernal auras within about ten paces, and identify their strength.
 >
->Level 20: Extinguish all light within about ten paces of the target. Make a target invisible.
+> Level 20: Extinguish all light within about ten paces of the target. Make a target invisible.
 >
->Level 25: The target becomes more resistant to cold, and is immune to the ill effects of exposure.
+> Level 25: The target becomes more resistant to cold, and is immune to the ill effects of exposure.
 >
->Level 25: Cause blindingly bright sunlight to shine on or from the target.
+> Level 25: Cause blindingly bright sunlight to shine on or from the target.
 >
->Level 30: Increase or decrease a target's Perception by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Perception by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 
 #### Sample Sowilo Rune Spells
 
@@ -7127,19 +7127,19 @@ For as long as the rune endures, bright sunlight shines out from the target. Tho
 
 Tyr is the Norse god of truth and battle, giver of victory and protector of the other gods. He is loyal to his fellows and known for sacrificing his hand to the Fenris wolf so that it could be bound. His rune is associated with men who fight for the good of their companions, and who seek truth. As a target, it is primarily associated with Mentem and justice, in that it affects a person's thoughts and deeper motivations.
 
->#### Tiwaz Guidelines
+> ### Tiwaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to Personality rolls that involve positive emotions like loyalty or bravery.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to Personality rolls that involve positive emotions like loyalty or bravery.
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to his Attack or Defense scores.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to his Attack or Defense scores.
 >
->General: The target may boost his Confidence Score by 1, as long as his Confidence Score is no greater than (the magnitude of this effect – 3).
+> General: The target may boost his Confidence Score by 1, as long as his Confidence Score is no greater than (the magnitude of this effect – 3).
 >
->Level 15: The target gains the ability to sense the direction in which the nearest person is located Level 20: The target gains an intuitive understanding of those people's thoughts and motivations within about ten paces, allowing him to more easily make friends or figure out the social structure of a community.
+> Level 15: The target gains the ability to sense the direction in which the nearest person is located Level 20: The target gains an intuitive understanding of those people's thoughts and motivations within about ten paces, allowing him to more easily make friends or figure out the social structure of a community.
 >
->Level 30: The target gains the ability to tell if people within ten paces believe that they are telling the truth or lying.
+> Level 30: The target gains the ability to tell if people within ten paces believe that they are telling the truth or lying.
 >
->Level 45: The target can completely understand the minds and emotions of those people within about ten paces, and can accurately predict their actions and reactions.
+> Level 45: The target can completely understand the minds and emotions of those people within about ten paces, and can accurately predict their actions and reactions.
 
 #### Sample Tiwaz Rune Spells
 
@@ -7161,23 +7161,23 @@ Thurisaz is interpreted many different ways, usually with a negative connotation
 
 When used as a target, Thurisaz can affect supernatural creatures as a kind of Vim magic, these most commonly being infernal beings. It can also target thorny bushes and brambles as part of Herbam, or anything wooden that pierces or cuts.
 
->#### Thurisaz Guidelines
+> ### Thurisaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of the effect on Personality rolls tied to negative passions like lust or wrath.
+> General: The target receives a bonus or penalty equal to the magnitude of the effect on Personality rolls tied to negative passions like lust or wrath.
 >
->General: The target's Might Score is reduced by (the level of this effect – 10).
+> General: The target's Might Score is reduced by (the level of this effect – 10).
 >
->Level 15: Cause thorny brambles to grow in an area about ten paces across.
+> Level 15: Cause thorny brambles to grow in an area about ten paces across.
 >
->Level 15: Destroy plants in an area ten paces across.
+> Level 15: Destroy plants in an area ten paces across.
 >
->Level 20: Transform a living target into another living thing of approximately the same size.
+> Level 20: Transform a living target into another living thing of approximately the same size.
 >
->Level 20: Transform a nonliving target into another nonliving thing of approximately the same size.
+> Level 20: Transform a nonliving target into another nonliving thing of approximately the same size.
 >
->Level 30: Transform a living target into a nonliving thing of approximately the same size.
+> Level 30: Transform a living target into a nonliving thing of approximately the same size.
 >
->Level 30: Transform a nonliving target into a living thing of approximately the same size.
+> Level 30: Transform a nonliving target into a living thing of approximately the same size.
 
 #### Sample Thurisaz Rune Spells
 
@@ -7186,12 +7186,12 @@ Thurisaz General, Method II
 
 The vitki prepares the runes on the shaft of a spear, and throws it into a battlefield. If the effect penetrates their Magic Resistance, all supernatural creatures within ten paces of its path have their Might Scores reduced by (the level of this effect - 10). For example, at Level 15 their Might Scores are reduced by 5.
 
-**I, (THE RUNEMASTER), CALL THE SERPENT FROM THE BRAMBLES.**<br> 
+**I, (THE RUNEMASTER), CALL THE SERPENT FROM THE BRAMBLES.**<br>
 Thurisaz 30, Method I
 
 The runes are typically carved onto a twisted branch, with Thurisaz written three times for emphasis. When the inscription is complete, the branch changes into a venomous snake. If it suffers a Heavy Wound, the runes are broken and it becomes a simple branch again.
 
-### U, Qruz, "Auroch'
+### U, Uruz, "Auroch"
 
 (Pronounced "oo-ROOZ")
 
@@ -7199,25 +7199,25 @@ This rune represents the aurochs, a large and powerful breed of cattle that roam
 
 Uruz is thus a symbol of strength and stamina, as well as manhood and masculinity. There is also a parallel implied in its defense against the hunter and a man defending his home, and in the great achievement of the hunter in besting the powerful beast. When used as a target, Uruz affects the form of Animal, specifically wild or magical animals. Because of its connection to the wilderness, Uruz is also associated with rain and wild weather, occasionally translated as "drizzle," and so may also be part of Auram.
 
->#### Uruz Guidelines
+> ### Uruz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect on natural Ability rolls that involve Strength (but not Damage).
+> General: The target receives a bonus or penalty equal to the magnitude of this effect on natural Ability rolls that involve Strength (but not Damage).
 >
->General: The target's Encumbrance is increased or decreased by the magnitude of this effect.
+> General: The target's Encumbrance is increased or decreased by the magnitude of this effect.
 >
->General: The target is immune to effects that target the mind that are less than this effect's level.
+> General: The target is immune to effects that target the mind that are less than this effect's level.
 >
->Level 30: Increase or decrease a target's Strength by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Strength by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 >
->Level 30: Summon a wild animal that is up to Size -4.
+> Level 30: Summon a wild animal that is up to Size -4.
 >
->Level 35: Summon a wild animal that is up to Size –1.
+> Level 35: Summon a wild animal that is up to Size –1.
 >
->Level 40: Summon a wild animal that is up to Size +2.
+> Level 40: Summon a wild animal that is up to Size +2.
 >
->Level 45: Summon a wild animal that is up to Size +5.
+> Level 45: Summon a wild animal that is up to Size +5.
 >
->Level 50: Summon a wild animal that is up to Size +8.
+> Level 50: Summon a wild animal that is up to Size +8.
 
 #### Sample Uruz Rune Spells
 
@@ -7231,25 +7231,23 @@ Uruz 45, Method II
 
 The rune spell summons an aurochs—the wild beast for which the rune is named. It is not under the vitki's control, and will probably charge like a bull at anyone who appears to threaten it. The vitki must have some part of an aurochs in order to cast the spell, which is worked into the runes. If killed, the animal's carcass will easily feed a hundred people, who will all feel stronger and healthier after (perhaps represented by a Confidence Point), though this effect is undone if the runes are damaged or if they are destroyed.
 
-### W, Wunjo, "Joy'
+### W, Wunjo, "Joy"
 
 (Pronounced "VUN-yoh")
 
 This rune means comfort, bliss, and joy. This may be a sort of intoxication, or simply the absence of suffering, and it also has connotations of glory and success in battle. Those who work together towards a common goal also fall under Wunjo's influence. Wunjo is associated with Mentem, targeting the emotions of people and intelligent beings only.
 
->#### Wunjo Guidelines
+> ### Wunjo Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of the effect on all natural Ability rolls involving Presence, such as telling a story, charming a companion, or leading a group.
+> General: The target receives a bonus or penalty equal to the magnitude of the effect on all natural Ability rolls involving Presence, such as telling a story, charming a companion, or leading a group.
 >
->General: Reduce the target's Fatigue or Wound Penalties by (the magnitude of this effect x 3).
+> General: Reduce the target's Fatigue or Wound Penalties by (the magnitude of this effect x 3).
 >
->Level 20: Cause the target to feel a powerful emotion.
+> Level 20: Cause the target to feel a powerful emotion.
 >
->Level 30: The target can ignore all Fatigue or Wound Penalties.
+> Level 30: The target can ignore all Fatigue or Wound Penalties.
 >
->Level 30: Increase or decrease a target's Presence by 1 point, to no more than the average score for a being of that
-type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above
-or below the average score.
+> Level 30: Increase or decrease a target's Presence by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 
 #### Sample Wunjo Rune Spells
 
@@ -7269,27 +7267,27 @@ The vitki draws the Wunjo rune upon a warrior, who does not feel pain or fatigue
 
 Ihwaz refers to the yew tree, the wood of which is used to make longbows and which also has associations with death and witchcraft because of a traditional practice of planting it in graveyards. When used as a target, it may affect any sort of tree or bow and should be treated as an Herbam effect. The rune may also be used to target the spirits of the dead as a Mentem effect, or a gravesite as Terram.
 
->#### Ihwaz Guidelines
+> ### Ihwaz Guidelines
 >
->General: The target receives a bonus or penalty equal to the magnitude of this effect to natural Ability rolls associated with Intelligence, such as remembering lore or outwitting an opponent.
+> General: The target receives a bonus or penalty equal to the magnitude of this effect to natural Ability rolls associated with Intelligence, such as remembering lore or outwitting an opponent.
 >
->General: The target can sense the presence of supernatural beings with Might Score less than or equal to the level of this effect.
+> General: The target can sense the presence of supernatural beings with Might Score less than or equal to the level of this effect.
 >
->General: Summon a supernatural being with Might Score less than or equal to (the level of this effect – 10).
+> General: Summon a supernatural being with Might Score less than or equal to (the level of this effect – 10).
 >
->Level 15: The target gains the ability to sense the properties of plants within about ten paces.
+> Level 15: The target gains the ability to sense the properties of plants within about ten paces.
 >
->Level 20: The target can sense dead bodies within about ten paces.
+> Level 20: The target can sense dead bodies within about ten paces.
 >
->Level 25: Animate a corpse or carcass, as long as it is not protected by consecrated ground.
+> Level 25: Animate a corpse or carcass, as long as it is not protected by consecrated ground.
 >
->Level 30: Increase or decrease a target's Intelligence by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
+> Level 30: Increase or decrease a target's Intelligence by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.
 >
->Level 35: The target can speak with the dead, so long as he is within ten paces of the corpse or grave, and it is not protected by consecrated ground.
+> Level 35: The target can speak with the dead, so long as he is within ten paces of the corpse or grave, and it is not protected by consecrated ground.
 >
->Level 35: Summon a corpse or carcass, as long as it is not protected by consecrated ground.
+> Level 35: Summon a corpse or carcass, as long as it is not protected by consecrated ground.
 >
->Level 35: Summon a tree.
+> Level 35: Summon a tree.
 
 #### Sample Ihwaz Rune Spells
 
@@ -7311,13 +7309,13 @@ This rune has many meanings, all of which mean some sort of protection. It is so
 
 Algiz almost never refers to a target directly, though because of its symbolism it can be used to affect elk, a hand, or grass, and is thus associated with Animal, Corpus, or Herbam as appropriate.
 
->#### Algiz Guidelines
+> ### Algiz Guidelines
 >
->General: The target's Soak is increased or decreased by the effect's magnitude.
+> General: The target's Soak is increased or decreased by the effect's magnitude.
 >
->General: All supernatural targets with Might less than or equal to the level of this effect that are associated with the spell's secondary rune are warded away from the target.
+> General: All supernatural targets with Might less than or equal to the level of this effect that are associated with the spell's secondary rune are warded away from the target.
 >
->Level 10: All things that are appropriate to the secondary rune used in this spell are warded away from the target.
+> Level 10: All things that are appropriate to the secondary rune used in this spell are warded away from the target.
 
 #### Sample Algiz Rune Spells
 
@@ -7345,131 +7343,131 @@ For magi seeking to expand the capabilities of their magic, the vitkir and their
 
 Note that the Order of Hermes is generally considered to be at war with the Order of Odin — as many magi think of the vit-kir — and has been since the ninth century. This may make things difficult for magi who wish to learn from a living vitki. Perhaps they could convince him to join the Order of Hermes and swear the Oath, giving him some degree of safety as a member of House Ex Miscellanea, but there may still be those in the Order of Hermes who will hunt down the vitki simply because of his ancestry, and he may be obliged to keep his magic secret.
 
->#### The Anglo-Saxon Futhorc
+> ### The Anglo-Saxon Futhorc
 >
->In England, the rune wizards extended their alphabet. Scholars agree that it included the first 28 runes, and the last five may also have been included depending on era and area. Magi are certain that none of these vitkir remain in the British Isles in the 1200s, all of them having been eliminated in the war against Damhan-Alladh centuries ago, though evidence of their magic may still remain.
+> In England, the rune wizards extended their alphabet. Scholars agree that it included the first 28 runes, and the last five may also have been included depending on era and area. Magi are certain that none of these vitkir remain in the British Isles in the 1200s, all of them having been eliminated in the war against Damhan-Alladh centuries ago, though evidence of their magic may still remain.
 >
->| Letter | Rune | Name    | Pronounced | Meaning         | Elder Futhark |
->| ------ | ---- | ------- | ---------- | --------------- | ------------- |
->| F      | ᚠ    | Feoh    | FAY-oh     | "Wealth"        | Fehu          |
->| U      | ᚢ    | Ur      | OOR        | "Auroch"        | Uruz          |
->| Th     | ᚦ    | Thorn   | THORN      | "Thorn"         | Thurisaz      |
->| R      | ᚱ    | Rad     | RAWD       | "Riding"        | Raido         |
->| C      | ᚳ    | Cen     | CHEN       | "Torch"         | Kauno         |
->| Gy     | ᚷ    | Gyfu    | GUY-voo    | "Gift"          | Gebo          |
->| W      | ᚹ    | Wynn    | WIN        | "Joy"           | Wunjo         |
->| H      | ᚻ    | Haegl   | HA-wull    | "Hail"          | Hagalaz       |
->| N      | ᚾ    | Nyd     | NID        | "Need"          | Naudiz        |
->| I      | ᛁ    | Is      | EES        | "Ice"           | Isa           |
->| J      | ᛄ    | Ger     | YER        | "Year"          | Jera          |
->| Y      | ᛇ    | Eoh     | EE-oh      | "Yew"           | Ihwaz         |
->| P      | ᛈ    | Peordh  | POHR-th    | "Cup"           | Perth         |
->| X      | ᛉ    | Eolhx   | OHLHK      | "Elk"           | Algiz         |
->| S      | ᛋ    | Sigel   | SEE-wel    | "Sun"           | Sowilo        |
->| T      | ᛏ    | Tir     | TEER       | "Star"          | Tiwaz         |
->| B      | ᛒ    | Beorc   | BORK       | "Birch"         | Berkanan      |
->| E      | ᛖ    | Eh      | EH         | "Horse"         | Ehwaz         |
->| M      | ᛗ    | Mann    | MAHN       | "Man"           | Mannaz        |
->| L      | ᛚ    | Lagu    | LAH-wuh    | "Water"         | Laguz         |
->| Ng     | ᛝ    | Ing     | ING        | "Hero"          | Ingwaz        |
->| D      | ᛞ    | Daeg    | DAY        | "Day"           | Dagaz         |
->| Oe     | ᛟ    | Ethel   | EE-thell   | "Homeland"      | Othila        |
->| A      | ᚪ    | Ac      | AWK        | "Oak"           | —             |
->| Ae     | ᚫ    | Aesc    | ASH        | "Ash"           | —             |
->| Yr     | ᚣ    | Yr      | YAHR       | "Bow"           | —             |
->| Ea     | ᛠ    | Ear     | EAR        | "Grave"         | —             |
->| G      | ᚸ    | Gar     | GAR        | "Spear"         | —             |
->| K      | ᛣ    | Calc    | KAHLK      | "Chalk"         | —             |
->| Q      | ᛢ    | Cweorth | QUORTH     | "Fire twirl"    | —             |
->| St     | ᛥ    | Stan    | STAYN      | "Stone"         | —             |
->| Or     | ᛡ    | Ior     | OHR        | "Water monster" | —             |
+> | Letter | Rune | Name    | Pronounced | Meaning         | Elder Futhark |
+> | ------ | ---- | ------- | ---------- | --------------- | ------------- |
+> | F      | ᚠ    | Feoh    | FAY-oh     | "Wealth"        | Fehu          |
+> | U      | ᚢ    | Ur      | OOR        | "Auroch"        | Uruz          |
+> | Th     | ᚦ    | Thorn   | THORN      | "Thorn"         | Thurisaz      |
+> | R      | ᚱ    | Rad     | RAWD       | "Riding"        | Raido         |
+> | C      | ᚳ    | Cen     | CHEN       | "Torch"         | Kauno         |
+> | Gy     | ᚷ    | Gyfu    | GUY-voo    | "Gift"          | Gebo          |
+> | W      | ᚹ    | Wynn    | WIN        | "Joy"           | Wunjo         |
+> | H      | ᚻ    | Haegl   | HA-wull    | "Hail"          | Hagalaz       |
+> | N      | ᚾ    | Nyd     | NID        | "Need"          | Naudiz        |
+> | I      | ᛁ    | Is      | EES        | "Ice"           | Isa           |
+> | J      | ᛄ    | Ger     | YER        | "Year"          | Jera          |
+> | Y      | ᛇ    | Eoh     | EE-oh      | "Yew"           | Ihwaz         |
+> | P      | ᛈ    | Peordh  | POHR-th    | "Cup"           | Perth         |
+> | X      | ᛉ    | Eolhx   | OHLHK      | "Elk"           | Algiz         |
+> | S      | ᛋ    | Sigel   | SEE-wel    | "Sun"           | Sowilo        |
+> | T      | ᛏ    | Tir     | TEER       | "Star"          | Tiwaz         |
+> | B      | ᛒ    | Beorc   | BORK       | "Birch"         | Berkanan      |
+> | E      | ᛖ    | Eh      | EH         | "Horse"         | Ehwaz         |
+> | M      | ᛗ    | Mann    | MAHN       | "Man"           | Mannaz        |
+> | L      | ᛚ    | Lagu    | LAH-wuh    | "Water"         | Laguz         |
+> | Ng     | ᛝ    | Ing     | ING        | "Hero"          | Ingwaz        |
+> | D      | ᛞ    | Daeg    | DAY        | "Day"           | Dagaz         |
+> | Oe     | ᛟ    | Ethel   | EE-thell   | "Homeland"      | Othila        |
+> | A      | ᚪ    | Ac      | AWK        | "Oak"           | —             |
+> | Ae     | ᚫ    | Aesc    | ASH        | "Ash"           | —             |
+> | Yr     | ᚣ    | Yr      | YAHR       | "Bow"           | —             |
+> | Ea     | ᛠ    | Ear     | EAR        | "Grave"         | —             |
+> | G      | ᚸ    | Gar     | GAR        | "Spear"         | —             |
+> | K      | ᛣ    | Calc    | KAHLK      | "Chalk"         | —             |
+> | Q      | ᛢ    | Cweorth | QUORTH     | "Fire twirl"    | —             |
+> | St     | ᛥ    | Stan    | STAYN      | "Stone"         | —             |
+> | Or     | ᛡ    | Ior     | OHR        | "Water monster" | —             |
 
->#### The Younger Futhark
+> ### The Younger Futhark
 >
->In Denmark and Germany, the Futhark began to develop over time, both as it was used to communicate and to work magic. Many of the names of the runes and their meanings changed as the language became condensed, and the runemasters eventually settled on a set of 16 runes instead of the original 24. Instead of three aetts made up of eight runes, in this system the first aett had only six runes and the other two had five. Missing are Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagz, and Othila. This variation came to be known as the Younger Futhark.
+> In Denmark and Germany, the Futhark began to develop over time, both as it was used to communicate and to work magic. Many of the names of the runes and their meanings changed as the language became condensed, and the runemasters eventually settled on a set of 16 runes instead of the original 24. Instead of three aetts made up of eight runes, in this system the first aett had only six runes and the other two had five. Missing are Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagz, and Othila. This variation came to be known as the Younger Futhark.
 >
->| Letter | Rune | Name    | Pronounced | Meaning   | Elder Futhark |
->| ------ | ---- | ------- | ---------- | --------- | ------------- |
->| F      | ᚠ    | Fe      | FAY        | "Wealth"  | Fehu          |
->| U      | ᚢ    | Ur      | OOR        | "Drizzle" | Uruz          |
->| Th     | ᚦ    | Thurs   | THURZ      | "Ogre"    | Thurisaz      |
->| A      | ᚬ    | Ass     | AHSS       | "God"     | Ansuz         |
->| R      | ᚱ    | Reidh   | RAYTH      | "Ride"    | Raido         |
->| K      | ᚴ    | Kaun    | COWN       | "Sore"    | Kauno         |
->| H      | ᚼ    | Hagall  | HAH-gall   | "Hail"    | Hagalaz       |
->| N      | ᚾ    | Naudhr  | NOW-thur   | "Need"    | Naudiz        |
->| I      | ᛁ    | Iss     | EES        | "Ice"     | Isa           |
->| A      | ᛅ    | Ar      | AHR        | "Year"    | Jera          |
->| S      | ᛋ    | Sol     | SOHL       | "Sun"     | Sowilo        |
->| T      | ᛏ    | Tyr     | TEER       | "Tyr"     | Tiwaz         |
->| B      | ᛒ    | Bjarkan | BYAR-kahn  | "Birch"   | Berkanan      |
->| M      | ᛘ    | Madhr   | mah-THUR   | "Man"     | Mannaz        |
->| L      | ᛚ    | Logr    | lah-GHUR   | "Water"   | Laguz         |
->| Y      | ᛦ    | Yr      | EAR        | "Yew"     | Ihwaz         |
+> | Letter | Rune | Name    | Pronounced | Meaning   | Elder Futhark |
+> | ------ | ---- | ------- | ---------- | --------- | ------------- |
+> | F      | ᚠ    | Fe      | FAY        | "Wealth"  | Fehu          |
+> | U      | ᚢ    | Ur      | OOR        | "Drizzle" | Uruz          |
+> | Th     | ᚦ    | Thurs   | THURZ      | "Ogre"    | Thurisaz      |
+> | A      | ᚬ    | Ass     | AHSS       | "God"     | Ansuz         |
+> | R      | ᚱ    | Reidh   | RAYTH      | "Ride"    | Raido         |
+> | K      | ᚴ    | Kaun    | COWN       | "Sore"    | Kauno         |
+> | H      | ᚼ    | Hagall  | HAH-gall   | "Hail"    | Hagalaz       |
+> | N      | ᚾ    | Naudhr  | NOW-thur   | "Need"    | Naudiz        |
+> | I      | ᛁ    | Iss     | EES        | "Ice"     | Isa           |
+> | A      | ᛅ    | Ar      | AHR        | "Year"    | Jera          |
+> | S      | ᛋ    | Sol     | SOHL       | "Sun"     | Sowilo        |
+> | T      | ᛏ    | Tyr     | TEER       | "Tyr"     | Tiwaz         |
+> | B      | ᛒ    | Bjarkan | BYAR-kahn  | "Birch"   | Berkanan      |
+> | M      | ᛘ    | Madhr   | mah-THUR   | "Man"     | Mannaz        |
+> | L      | ᛚ    | Logr    | lah-GHUR   | "Water"   | Laguz         |
+> | Y      | ᛦ    | Yr      | EAR        | "Yew"     | Ihwaz         |
 
 
->#### Eirik Svennson, Warrior Vitki
+> ### Eirik Svennson, Warrior Vitki
 >
->Characteristics: Int +2, Per 0, Pre -1, Com -1, Str +2, Sta +2, Dex 0, Qik 0
+> Characteristics: Int +2, Per 0, Pre -1, Com -1, Str +2, Sta +2, Dex 0, Qik 0
 >
->Size: 0 
+> Size: 0
 >
->Age: 29
+> Age: 29
 >
->Confidence Score: 1 (3)
+> Confidence Score: 1 (3)
 >
->Virtues and Flaws: The Cift, Vitki, Major Rune Focus (Sigrunar), Fast Caster, Puissant Othila (free), Natt-thel Prone, Susceptibility to Divine Power
+> Virtues and Flaws: The Cift, Vitki, Major Rune Focus (Sigrunar), Fast Caster, Puissant Othila (free), Natt-thel Prone, Susceptibility to Divine Power
 >
->Personality Traits: Brave +3, Stubborn +2, Loyal (to other vitkir) +1
+> Personality Traits: Brave +3, Stubborn +2, Loyal (to other vitkir) +1
 >
->Combat:
+> Combat:
 >
->Long Sword: Init +2, Attack +10, Defense +7, Damage +8
+> Long Sword: Init +2, Attack +10, Defense +7, Damage +8
 >
->Long Sword (when enchanted): Init +7, Attack +15, Defense +12, Damage +8
+> Long Sword (when enchanted): Init +7, Attack +15, Defense +12, Damage +8
 >
->Soak: +6 (+11 when enchanted)
+> Soak: +6 (+11 when enchanted)
 >
->Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+> Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 >
->Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 >
->Abilities: Brawl 2 (dodging), Carouse 1 (with soldiers), Craft: Runes 2 (in metal), Leadership 2 (in battle), Norse 5 (soldiers' slang), Old Norse 3 (writing runes), Rune Magic 5 (Tiwaz), Single Weapon 5 (long sword)
+> Abilities: Brawl 2 (dodging), Carouse 1 (with soldiers), Craft: Runes 2 (in metal), Leadership 2 (in battle), Norse 5 (soldiers' slang), Old Norse 3 (writing runes), Rune Magic 5 (Tiwaz), Single Weapon 5 (long sword)
 >
->Arts: A 0, B 6, D 5, E 0, F 0, G 0, H 0, I 0, J 0, K 0, L 0, M 8, N 0, Ng 0, O 9+2, P 0, R 0, S 0, T 10, Th 0, U 5, W 4, Y 0, Z 10
+> Arts: A 0, B 6, D 5, E 0, F 0, G 0, H 0, I 0, J 0, K 0, L 0, M 8, N 0, Ng 0, O 9+2, P 0, R 0, S 0, T 10, Th 0, U 5, W 4, Y 0, Z 10
 >
->Equipment: Partial leather scale, long sword 
+> Equipment: Partial leather scale, long sword
 >
->Encumbrance: 0 (4)
+> Encumbrance: 0 (4)
 >
->Scripts Known:
+> Scripts Known:
 >
->*I, Eirik Svennson, bound this wound.*(B 15/+8)
+> *I, Eirik Svennson, bound this wound.*(B 15/+8)
 >
->Berkanan 15, Method I The target receives a +9 bonus to recovery rolls from combat injuries, as long as the rune remains intact for the entire recovery period.
+> Berkanan 15, Method I The target receives a +9 bonus to recovery rolls from combat injuries, as long as the rune remains intact for the entire recovery period.
 >
->*I, Eirik Svennson, will work well this day.* (D 15/+6) Dagaz 15, Method I The target receives a +3 bonus to any activity performed all day.
+> *I, Eirik Svennson, will work well this day.* (D 15/+6) Dagaz 15, Method I The target receives a +3 bonus to any activity performed all day.
 >
->*Eirik Svennson leads men to greatness.* (M 20/+18)
+> *Eirik Svennson leads men to greatness.* (M 20/+18)
 >
->*I, Eirik Svennson, strengthen the sword of my ancestors.* (O 25/+24) Otbila 25, Method I The target receives a +5 bonus to Initiative, Attack, and Defense rolls made with a particular sword. Eirik typically inscribes the runes on the sword he inherited from his father, so that the effect endures only as long as he wields it (since he is the target of the spell, the sword must be "part of him" for the duration).
+> *I, Eirik Svennson, strengthen the sword of my ancestors.* (O 25/+24) Otbila 25, Method I The target receives a +5 bonus to Initiative, Attack, and Defense rolls made with a particular sword. Eirik typically inscribes the runes on the sword he inherited from his father, so that the effect endures only as long as he wields it (since he is the target of the spell, the sword must be "part of him" for the duration).
 >
->*I, Eirik Svennson, invoke Tyr's power.* (T 25/+22) Tiwaz 25, Method I The target receives a +5 bonus to Attack rolls. Eirik typically inscribes the runes on another warrior's sword, so that the effect endures only as long as he wields it.
+> *I, Eirik Svennson, invoke Tyr's power.* (T 25/+22) Tiwaz 25, Method I The target receives a +5 bonus to Attack rolls. Eirik typically inscribes the runes on another warrior's sword, so that the effect endures only as long as he wields it.
 >
->*I, Eirik Svennson, invoke Tyr's cunning.* (T 25/+22) *Tiwaz 25, Method I* The target receives a +5 bonus to Defense rolls. Eirik typically inscribes the runes on another warrior's sword, so that the effect endures only as long as he wields it.
+> *I, Eirik Svennson, invoke Tyr's cunning.* (T 25/+22) *Tiwaz 25, Method I* The target receives a +5 bonus to Defense rolls. Eirik typically inscribes the runes on another warrior's sword, so that the effect endures only as long as he wields it.
 >
->*I, Eirik Svennson, call my belmet alu.* (Z 25/+22)
->Algiz 25, Method I The target receives a +5 bonus to Soak. Eirik typically inscribes the runes on his helmet, so that the effect endures only as long as he wears it.
+> *I, Eirik Svennson, call my belmet alu.* (Z 25/+22)
+> Algiz 25, Method I The target receives a +5 bonus to Soak. Eirik typically inscribes the runes on his helmet, so that the effect endures only as long as he wears it.
 >
->*Eirik Svennson protects against the beasts of the wild.* (Z 10/+7)
+> *Eirik Svennson protects against the beasts of the wild.* (Z 10/+7)
 >
->Appearance: Eirik is a tall, lanky, and cleanshaven Norwegian man with dark hair, wearing a suit of leather mail and helmet. He holds a long sword carved with runes all along the blade.
+> Appearance: Eirik is a tall, lanky, and cleanshaven Norwegian man with dark hair, wearing a suit of leather mail and helmet. He holds a long sword carved with runes all along the blade.
 >
->Eirik is a vitki in the service of the king of Norway, specifically answering to his uncle Sven Svennson, a powerful duke. Like many of the vitkir in this part of Scandinavia, Eirik is a member of the political group known as birchfeet (the birkebeiners), who have supported the northern kings in the last forty years of civil war, which have just recently ended. At his command is a unit of soldiers and builders that his uncle has placed under his authority, the leaders of which he has trained himself and has worked long enough with for them to grow used to his Gift. This does not stop constant low-level murmuring among the lower ranks, but so far this has been kept under control and the veterans are gradually becoming used to him. His group is stationed on the outskirts of the city that will become Trondheim, the capital, to rebuild its defenses and guard against trouble. His uncle expects him to be a great leader and soldier, though he is still a little too naive to appreciate the privileged position in Norse society he currently occupies.
+> Eirik is a vitki in the service of the king of Norway, specifically answering to his uncle Sven Svennson, a powerful duke. Like many of the vitkir in this part of Scandinavia, Eirik is a member of the political group known as birchfeet (the birkebeiners), who have supported the northern kings in the last forty years of civil war, which have just recently ended. At his command is a unit of soldiers and builders that his uncle has placed under his authority, the leaders of which he has trained himself and has worked long enough with for them to grow used to his Gift. This does not stop constant low-level murmuring among the lower ranks, but so far this has been kept under control and the veterans are gradually becoming used to him. His group is stationed on the outskirts of the city that will become Trondheim, the capital, to rebuild its defenses and guard against trouble. His uncle expects him to be a great leader and soldier, though he is still a little too naive to appreciate the privileged position in Norse society he currently occupies.
 
 # Chapter Eight: Bibliography
 
-## Folk Witch Sources
+### Folk Witch Sources
 
 Flint, V. The rise of magic in early medieval Europe. Oxford: Clarendon, 1991.
 
@@ -7477,7 +7475,7 @@ Kors, A.C. and E. Peters (eds). Witchcraft in Europe, 400-1700: a documentary hi
 
 Russel, J.B. A history of witchcraft, sorcerers, heretics, and pagans. London: Thames and Hudson, 1980.
 
-## Gruagachan Sources
+### Gruagachan Sources
 
 Foster, Sally. Picts, Gaels and Scots. London: B.T. Batsford Ltd., 1996.
 
@@ -7487,7 +7485,7 @@ Robertson, Roderick. Lion of the North: The Loch Leglean Tribunal, Renton, WA: W
 
 Wagner, Paul. Pictish Warrior AD 297-841. Oxford: Osprey Publishing, 2002.
 
-## Learned Magician Sources
+### Learned Magician Sources
 
 Ankarloo, Bengt and Stuart Clark (eds). Witchcraft and Magic in Europe: The Middle Ages. Philadelphia: University of Pennsylvania Press, 2002.
 
@@ -7497,7 +7495,7 @@ Kieckhefer, Richard. Magic in the Middle Ages. Cambridge: Cambridge University P
 
 Skemer, Don. Binding Words: Textual Amulets in the Middle Ages. University Park, PA: Pennsylvania State University Press, 2006.
 
-## Nightwalker Sources
+### Nightwalker Sources
 
 Ginzburg, Carlo. Ecstasies: Deciphering the Witches' Sabbath. Chicago: University of Chicago Press, 1991.
 
@@ -7507,6 +7505,6 @@ Lecoteux, Claude. Witches, Werewolves and Fairies: Shapeshifters and Astral Doub
 
 Summers, Montague. *The Werewolf in Lore and Legend*. New York: Dover Publications, 2003.
 
-## A NOTE ON NIGHTWALKER SOURCES AND APPROACHES
+#### A Note On Nightwalker Sources And Approaches
 
 Nightwalkers are recorded in detail in Classical Greek works, and in works that post-date the game period. During the game period, they are mentioned in several sources, but are described with insufficient detail to develop material that presents complete, genuine regional variants. Troupes are encouraged to jumble together the elements of the various nightwalking groups presented here, to create a unique group suitable for the region in which their covenant lies. The groups described here were usually not described in detail during the 13th Century, but have been included to allow players to choose elements to incorporate into fictional traditions that they design themselves.

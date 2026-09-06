@@ -2,20 +2,29 @@
 A sourcebook for Ars Magica 5th Edition.
 
 > *Open License Markdown version by applejuice1965 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
-> 
+>
 > *[Completion state: Text manually fixed. Remaining: ??? + Full review]*
-> 
+>
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+### Identified Issues From Source PDF Release
+Applied errata.
+
+---
 
 You mustn’t call them by name ... they are the “good neighbors,” the “fair folk,” or the “gentry.” Don’t draw their attention, for those they notice are drawn into their stories, which no mortal can survive unchanged. Stay away from the edges of the dark woods, respect your superiors, and do what society expects. Or the faeries will come for you!
 
-The faeries of Mythic Europe live according to roles and stories, drawing vitality from mortals who play by their rules. Some vampiric faeries steal vitality from blood, while others draw it from the garlic placed over doors to keep them out. Some fey dragons live by devouring knights and feasting on the fear they create, while others exist to be defeated, drawing vitality from the knight’s victory. But afterwards, the dead dragon and the defeated vampire always take on a new role, to continue the faerie story. What story will they make you tell? 
+The faeries of Mythic Europe live according to roles and stories, drawing vitality from mortals who play by their rules. Some vampiric faeries steal vitality from blood, while others draw it from the garlic placed over doors to keep them out. Some fey dragons live by devouring knights and feasting on the fear they create, while others exist to be defeated, drawing vitality from the knight’s victory. But afterwards, the dead dragon and the defeated vampire always take on a new role, to continue the faerie story. What story will they make you tell?
 
 # Credits
 
 **Authors:** Erik Dahl (Faerie Wizardry, Touches of Faerie), Timothy Ferguson (Nature of Faerie, Faerie Characters, Bestiary), Mark Shirley (The Faerie Realm, Touches of Faerie, Faerie Stories)
 
-**Development, Editing, & Project Management:** David Chart **Layout, Art Direction, & Proofreading:** Michelle Nephew **Publisher:** John Nephew
+**Development, Editing, & Project Management:** David Chart
+
+**Layout, Art Direction, & Proofreading:** Michelle Nephew
+
+**Publisher:** John Nephew
 
 **Cover Illustration:** Grey Thornberry
 
@@ -23,7 +32,9 @@ The faeries of Mythic Europe live according to roles and stories, drawing vitali
 
 **Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves
 
-**Publisher's Special Thanks**: Jerry Corrick & the gang at the Source. **First Round Playtesters**: Mark Barltrop, Mark Lawford, David Staveley, Simon Turner; Chris "CJ" Jensen-Romer, Kevin Sides, Luke Price, Lloyd Graney, Peter Hiley, Ben Hayes; Jason Fryer, Matt Dyson, Emily Dyson; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Angus MacDonald, Sarah MacDonald, Brian Watson, Quetta Watson, Wendell BSP Joyner, Steve Woyach, Aja Hodge; Eric Menge, Ann Sasahara, Scott Benfield, Lynn Reed-Kendall, Christopher Day; Nicholas Peterson, Jennafyr Peterson, Michael Pisarsky, Kristi Pisarsky; Matthew L. Seidl; Christoph Safferling, Andrew Smith; Carlo Veltri, Chad Vincent, Greg Palechek, Greg Rothwell
+**Publisher's Special Thanks:** Jerry Corrick & the gang at the Source.
+
+**First Round Playtesters**: Mark Barltrop, Mark Lawford, David Staveley, Simon Turner; Chris "CJ" Jensen-Romer, Kevin Sides, Luke Price, Lloyd Graney, Peter Hiley, Ben Hayes; Jason Fryer, Matt Dyson, Emily Dyson; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Angus MacDonald, Sarah MacDonald, Brian Watson, Quetta Watson, Wendell BSP Joyner, Steve Woyach, Aja Hodge; Eric Menge, Ann Sasahara, Scott Benfield, Lynn Reed-Kendall, Christopher Day; Nicholas Peterson, Jennafyr Peterson, Michael Pisarsky, Kristi Pisarsky; Matthew L. Seidl; Christoph Safferling, Andrew Smith; Carlo Veltri, Chad Vincent, Greg Palechek, Greg Rothwell
 
 **Second Round Playtesters:** Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Angus MacDonald, Brian Watson, Quetta Watson, Sarah MacDonald; Matt Ryan, Alexis K. Heinz, Tobias Wheeler, Mario Cerame, Rob Llwyd; Ulrich Willmünder; Neil Taylor; Sean Winslow; Erik Tyrrell
 
@@ -45,499 +56,556 @@ DIGITAL VERSION 1.0
 
 # Table of Contents
 
-**Introduction: Dreams & Nightmares**<br>
-&emsp;What is Faerie?<br>
-&emsp;Faerie & Other Realms<br>
-&emsp;&emsp;Faerie and the Divine<br>
-&emsp;&emsp;Faerie and the Infernal<br>
-&emsp;&emsp;Faerie and Magic<br>
-<br>
-**Chapter 1: Nature of Faerie**<br>
-&emsp;Cognizance: Understanding the Need for Humans<br>
-&emsp;&emsp;Incognizant Faeries<br>
-&emsp;&emsp;Narrowly Cognizant Faeries<br>
-&emsp;&emsp;Highly Cognizant Faeries<br>
-&emsp;Glamour: Rules Instead of a Soul<br>
-&emsp;&emsp;Bodies: Incidental Matter<br>
-&emsp;&emsp;Ownership<br>
-&emsp;&emsp;Stock Characters<br>
-&emsp;&emsp;Taboos<br>
-&emsp;&emsp;Pretenses<br>
-&emsp;&emsp;The Open Body is Vulnerable to Glamour<br>
-&emsp;Vitality: Energy to Act and Change<br>
-&emsp;&emsp;Stories Guide Humans and Faeries<br>
-&emsp;&emsp;Expressed Emotion Feeds Faeries<br>
-&emsp;&emsp;Artistic Expression Feeds Faeries<br>
-&emsp;&emsp;Traditional Offerings Feed Faeries<br>
-&emsp;&emsp;Certain Types of Theft Feed Faeries<br>
-&emsp;&emsp;Spirits of the Borders<br>
-&emsp;&emsp;Murder & Eating People<br>
-&emsp;&emsp;Violence<br>
-&emsp;What Are Faeries Like When Not Seeking Vitality?<br>
-&emsp;Faerie Auras<br>
-&emsp;&emsp;Faerie Presence<br>
-&emsp;&emsp;Epic Events<br>
-&emsp;&emsp;Local Folklore<br>
-&emsp;&emsp;Legacies and Monuments<br>
-&emsp;&emsp;Auras Rise and Fall<br>
-&emsp;&emsp;Traveling Auras<br>
-&emsp;&emsp;Aura Conflicts<br>
-&emsp;&emsp;Gaining Admittance<br>
-&emsp;&emsp;Keeping Home Wonderful<br>
-&emsp;Regiones<br>
-&emsp;&emsp;Finding A Regio Entrance<br>
-&emsp;&emsp;Ephemeral Exile<br>
-&emsp;&emsp;Faerie Roads<br>
-&emsp;&emsp;Regio Levels as Acts<br>
-&emsp;&emsp;Some Regiones Are the Past Made Present<br>
-&emsp;&emsp;Time in Faerie Regiones<br>
-&emsp;&emsp;Withering Away To Dust<br>
-&emsp;Vis<br>
-&emsp;&emsp;Encased Vis<br>
-&emsp;&emsp;Anchors<br>
-&emsp;&emsp;Accrued Vis<br>
-&emsp;&emsp;Sleeping Vis<br>
-&emsp;&emsp;Abstract Vis<br>
-<br>
-**Chapter 2: The Faerie Realm**<br>
-&emsp;The Three Worlds<br>
-&emsp;Getting to Faerie<br>
-&emsp;&emsp;Sources of Threshold Points<br>
-&emsp;&emsp;Geographical Thresholds<br>
-&emsp;&emsp;Temporal Thresholds<br>
-&emsp;&emsp;Personal Thresholds<br>
-&emsp;&emsp;Artistic Endeavor<br>
-&emsp;&emsp;Assistance of Threshold Faeries<br>
-&emsp;&emsp;Assistance of Faerie Magic<br>
-&emsp;&emsp;Arcadian Mysteries<br>
-&emsp;&emsp;The Guardian of the Threshold<br>
-&emsp;Adventures in Faerie<br>
-&emsp;&emsp;Environment and the Faerie Aura<br>
-&emsp;&emsp;The Mother Road<br>
-&emsp;&emsp;Glamour<br>
-&emsp;&emsp;Lands of Story and Fable<br>
-&emsp;&emsp;Vitality and Fable in Faerie<br>
-&emsp;&emsp;Gaining Fable Points<br>
-&emsp;&emsp;Becoming Faerie Through Fable<br>
-&emsp;Creativity in the Faerie Realm<br>
-&emsp;&emsp;Crafting an Offer<br>
-&emsp;&emsp;Offer Modifiers<br>
-&emsp;&emsp;The Promise of Service<br>
-&emsp;&emsp;Changes in Environment<br>
-&emsp;&emsp;Changes in Attitude<br>
-&emsp;&emsp;Changes in Symbolism<br>
-&emsp;&emsp;An Example of Using Creativity<br>
-&emsp;Leaving Faerie<br>
-&emsp;Warping and the Passage of Time<br>
-&emsp;Living in the Story<br>
-&emsp;Spinning Tales in the Faerie Realm<br>
-&emsp;&emsp;Audience Participation<br>
-&emsp;&emsp;Player-Driven Stories<br>
-&emsp;&emsp;Player-Influenced Stories<br>
-&emsp;&emsp;Pitfalls in Player-Run Stories<br>
-&emsp;Arcadia<br>
-&emsp;&emsp;The Inhabitants of Arcadia<br>
-&emsp;&emsp;The Path of Chance<br>
-&emsp;&emsp;Typical Arcadian Guardians of the Threshold<br>
-&emsp;&emsp;Arcadian Stories<br>
-&emsp;&emsp;Planning Arcadian Stories<br>
-&emsp;Elysium<br>
-&emsp;&emsp;The Bible<br>
-&emsp;&emsp;Legends of Ancient Greece and Dead Rome<br>
-&emsp;&emsp;Pagan Legends<br>
-&emsp;&emsp;Romances and Märchen<br>
-&emsp;&emsp;A Thousand and One Nights<br>
-&emsp;&emsp;The Road of Destiny<br>
-&emsp;&emsp;Typical Elysian Guardians of the Threshold<br>
-&emsp;&emsp;Identification as the Hero<br>
-&emsp;&emsp;Elysian Stories<br>
-&emsp;&emsp;Planning Elysian Stories<br>
-&emsp;&emsp;Adding New Scenes<br>
-&emsp;&emsp;Running Elysian Stories<br>
-&emsp;&emsp;The Measure of Success<br>
-&emsp;Eudokia<br>
-&emsp;&emsp;The Forking Path<br>
-&emsp;&emsp;Typical Eudokian Guardians of the Threshold<br>
-&emsp;&emsp;Eudokian Stories<br>
-&emsp;&emsp;Planning Eudokian Stories<br>
-&emsp;&emsp;Leaving Eudokia<br>
-&emsp;Faerie Boons<br>
-&emsp;Story Elements<br>
-&emsp;&emsp;Title<br>
-&emsp;&emsp;Actors<br>
-&emsp;&emsp;The Pied Stranger<br>
-&emsp;&emsp;Grateful Lions<br>
-&emsp;&emsp;The Captive Princess<br>
-&emsp;&emsp;The Task-Setting Ogre<br>
-&emsp;&emsp;The Mouse-Groom<br>
-&emsp;&emsp;The Ferryman<br>
-&emsp;&emsp;The Pale Man<br>
-&emsp;&emsp;Props<br>
-&emsp;&emsp;The Poisoned Apple<br>
-&emsp;&emsp;Mjollnir<br>
-&emsp;&emsp;The Dragon’s Tongue<br>
-&emsp;&emsp;The Swan Cloak<br>
-&emsp;&emsp;The Dull Knife<br>
-&emsp;&emsp;Snake Soup<br>
-&emsp;&emsp;Scenery<br>
-&emsp;&emsp;The Market at the Crossroads<br>
-&emsp;&emsp;Winter<br>
-&emsp;&emsp;The Forbidden Chamber<br>
-&emsp;&emsp;Summer<br>
-&emsp;&emsp;The Glass Mountain<br>
-&emsp;&emsp;The Perilous Forest<br>
-&emsp;&emsp;The Abandoned Shrine<br>
-<br>
-**Chapter 3: Faerie Characters**<br>
-&emsp;Faerie Character Creation<br>
-&emsp;&emsp;Role and Personality<br>
-&emsp;&emsp;Might and Powers<br>
-&emsp;&emsp;Characteristics and Qualities<br>
-&emsp;&emsp;Personality Traits<br>
-&emsp;&emsp;Abilities and Virtues<br>
-&emsp;&emsp;Equipment and Appearance<br>
-&emsp;Faerie Might<br>
-&emsp;Faerie Powers<br>
-&emsp;&emsp;Types of Faerie Powers<br>
-&emsp;&emsp;Power Levels<br>
-&emsp;&emsp;Learning Powers<br>
-&emsp;Faerie Qualities and Inferiorities<br>
-&emsp;&emsp;Improved Characteristics<br>
-&emsp;&emsp;Increased Faerie Might<br>
-&emsp;&emsp;Personal Powers<br>
-&emsp;&emsp;Lesser Powers<br>
-&emsp;&emsp;Greater Powers<br>
-&emsp;&emsp;Skilled Parens<br>
-&emsp;&emsp;Wealth<br>
-&emsp;&emsp;Reduction<br>
-&emsp;&emsp;Susceptible to Deprivation<br>
-&emsp;&emsp;Poor Characteristics<br>
-&emsp;&emsp;Decreased Faerie Might<br>
-&emsp;&emsp;No Fatigue<br>
-&emsp;&emsp;Incognizant<br>
-&emsp;&emsp;Narrowly Cognizant<br>
-&emsp;&emsp;Reduced Might<br>
-&emsp;&emsp;Traditional Ward<br>
-&emsp;&emsp;Vulnerability<br>
-&emsp;Pretenses<br>
-&emsp;&emsp;Long-Winded<br>
-&emsp;&emsp;Poor Liar<br>
-&emsp;&emsp;Poor Memory<br>
-&emsp;&emsp;Poor Sense of Direction<br>
-&emsp;&emsp;Compassionate<br>
-&emsp;&emsp;Fearful<br>
-&emsp;&emsp;Proud<br>
-&emsp;&emsp;Wrathful<br>
-&emsp;&emsp;Envious<br>
-&emsp;&emsp;Greedy<br>
-&emsp;&emsp;Gluttonous<br>
-&emsp;&emsp;Lustful<br>
-&emsp;Designing Faerie Characters<br>
-&emsp;&emsp;The Black Dog<br>
-&emsp;&emsp;The White Lady<br>
-&emsp;&emsp;The Green Man<br>
-<br>
-**Chapter 4: Faerie Bestiary**<br>
-&emsp;Animals<br>
-&emsp;&emsp;Black Dogs<br>
-&emsp;&emsp;Cats<br>
-&emsp;&emsp;Hounds and Huntsmen<br>
-&emsp;&emsp;Horses<br>
-&emsp;&emsp;Owls<br>
-&emsp;&emsp;Ravens<br>
-&emsp;&emsp;Stags<br>
-&emsp;&emsp;Swan Maidens<br>
-&emsp;&emsp;Wolves<br>
-&emsp;Humanoids<br>
-&emsp;&emsp;Bacchae and Maenads<br>
-&emsp;&emsp;Dwarfs<br>
-&emsp;&emsp;Elves<br>
-&emsp;&emsp;Giants<br>
-&emsp;&emsp;Hags<br>
-&emsp;&emsp;Nymphs<br>
-&emsp;&emsp;Old Men of the Sea<br>
-&emsp;&emsp;Satyrs and Fauns<br>
-&emsp;&emsp;Trolls<br>
-&emsp;&emsp;Women in White<br>
-&emsp;Monsters<br>
-&emsp;&emsp;Basilisks<br>
-&emsp;&emsp;Dragons<br>
-&emsp;&emsp;Ettins<br>
-&emsp;&emsp;Gorgons<br>
-&emsp;&emsp;Grendels<br>
-&emsp;&emsp;Harpies<br>
-&emsp;&emsp;Hydras<br>
-&emsp;&emsp;Kelpies<br>
-&emsp;&emsp;Manticores<br>
-&emsp;&emsp;Unicorns<br>
-&emsp;Spirits<br>
-&emsp;&emsp;Fetches<br>
-&emsp;&emsp;Genii Loci<br>
-&emsp;&emsp;Ghosts<br>
-&emsp;&emsp;Nightmares<br>
-&emsp;&emsp;Will-o’-the-Wisps<br>
-<br>
-**Chapter 5: Touches of Faerie**<br>
-&emsp;Humans and Faerie<br>
-&emsp;&emsp;The Legacy of Faerie<br>
-&emsp;&emsp;Vitality and Humans<br>
-&emsp;&emsp;Faerie Warping<br>
-&emsp;Faerie Blood<br>
-&emsp;&emsp;Faerie Upbringing<br>
-&emsp;&emsp;Faerie Friend<br>
-&emsp;&emsp;Faerie Speech<br>
-&emsp;&emsp;Second Sight<br>
-&emsp;&emsp;Ways of the Land<br>
-&emsp;Faerie Sympathy<br>
-&emsp;&emsp;Gaining Faerie Sympathy Traits<br>
-&emsp;&emsp;Using Faerie Sympathy Traits<br>
-&emsp;&emsp;Losing Faerie Sympathy Traits<br>
-&emsp;Faerie Warping<br>
-&emsp;&emsp;Sources of Faerie Warping<br>
-&emsp;&emsp;The Faerie Realm<br>
-&emsp;&emsp;Faerie Auras<br>
-&emsp;&emsp;Faerie Powers<br>
-&emsp;&emsp;Botches<br>
-&emsp;Faerie Calling<br>
-<br>
-**Chapter 6: Faerie Wizardry**<br>
-&emsp;Rites of Faerie<br>
-&emsp;&emsp;Performing Faerie Rites<br>
-&emsp;&emsp;Hermetic Rites<br>
-&emsp;Faerie Methods<br>
-&emsp;&emsp;Evocation<br>
-&emsp;&emsp;Enchantment<br>
-&emsp;&emsp;Empathy<br>
-&emsp;Faerie Powers<br>
-&emsp;&emsp;Beguile<br>
-&emsp;&emsp;Conjure<br>
-&emsp;&emsp;Dream<br>
-&emsp;&emsp;Grant<br>
-&emsp;&emsp;Portage<br>
-&emsp;&emsp;Ware<br>
-&emsp;&emsp;Weal<br>
-&emsp;&emsp;Woe<br>
-&emsp;Faerie Bargaining<br>
-&emsp;&emsp;Ars Fabulosa<br>
-&emsp;&emsp;Summoning<br>
-&emsp;&emsp;Bonding<br>
-&emsp;&emsp;Captivating<br>
-&emsp;&emsp;Dismissing<br>
-&emsp;Pagan Traditions<br>
-&emsp;&emsp;Borrowers<br>
-&emsp;&emsp;Ollamhain<br>
-&emsp;&emsp;Volkhvy<br>
-&emsp;&emsp;Wise Folk<br>
-<br>
-**Chapter 7: Telling Faerie Stories**<br>
-&emsp;Revel in Anachronism & Appropriation<br>
-&emsp;&emsp;Anachronism<br>
-&emsp;&emsp;Appropriation<br>
-&emsp;Be Topical<br>
-&emsp;Use Other Stories<br>
-&emsp;Dissecting Stories<br>
-&emsp;&emsp;Story Flow<br>
-&emsp;&emsp;The Hook<br>
-&emsp;&emsp;The Trigger<br>
-&emsp;&emsp;The Setting<br>
-&emsp;&emsp;The Twist<br>
-&emsp;&emsp;The Resolution<br>
-&emsp;&emsp;The Consequences<br>
-&emsp;&emsp;Dramatic Elements<br>
-&emsp;&emsp;Dramatis Personae<br>
-&emsp;&emsp;The Hero<br>
-&emsp;&emsp;The Villain<br>
-&emsp;&emsp;The Donor<br>
-&emsp;&emsp;The Helper<br>
-&emsp;&emsp;The Princess<br>
-&emsp;&emsp;The Task-Setter<br>
-&emsp;&emsp;The False Hero<br>
-&emsp;&emsp;Acts<br>
-&emsp;&emsp;Interdiction<br>
-&emsp;&emsp;Reconnaissance<br>
-&emsp;&emsp;Trickery<br>
-&emsp;&emsp;Villainy<br>
-&emsp;&emsp;Receipt<br>
-&emsp;&emsp;Transference<br>
-&emsp;&emsp;Struggle<br>
-&emsp;&emsp;Pursuit<br>
-&emsp;&emsp;Ordeal<br>
-&emsp;&emsp;Imposture<br>
-&emsp;&emsp;Reconciliation<br>
-<br>
-**Appendix: Bibliography**<br>
-<br>
->## List of Inserts
->
->### I. Nature of Faerie
->
-> Where Did Faeries Come From?
->
-> Story Seed: Base Slander
->
-> Where Are the Rules for Faeries Feeding on Vitality?
->
-> Faeries and Truth
->
-> Does My Character Know This?
->
->
->### II. The Faerie Realm
->
-> Example Threshold
->
-> Trods
->
-> New Power: Spirit Away
->
-> Faerie Adventurers
->
-> The Power of God in the Faerie Realm
->
-> Consequences of Creativity
->
-> Leaving by Using Merinita Mysteries
->
-> The Subjective Nature of Time
->
-> Example Plot Devices
->
-> Example of Arcadian Story Creation
->
-> Hermetic Legends
->
-> Example of Elysian Story Creation
->
-> A Twist to the Tale
->
-> Example Story Themes, and Virtues & Flaws
->
-> Example of Eudokian Story Creation
->
-> Further Ideas for Actor Story Elements
->
-> Further Ideas for Prop Story Elements
->
-> Further Ideas for Scenery Story Elements
->
-> Ten Thousand More Story Elements
->
->
->### III. Faerie Characters
->
-> Quick Start Guideline
->
-> Scale of Typical Might Scores
->
-> What Do Size Scores Represent?
->
-> Unspecialized Role
->
-> An Exemplary Catalog of Faerie Powers
->
-> Faerie Power Virtue Comparison Table
->
-> Constant Powers
->
-> Conversion
->
-> Powers of Transformation
->
-> Power Design: An Example
->
-> Player-Defined Pretense Example Chivalrous Combat
->
-> Story Seed: Advancement
->
-> Using Abilities On Faeries
->
-> Why Isn’t My Faerie a Genius At Every Ability?
->
-> Two Borders
->
->
->### IV. Faerie Bestiary
->
-> Story Seed: The Battle of Child Eaters
->
-> Story Seed: The Tortoise Game
->
-> Happily Ever After is Just a Pleasant Sort of Death
->
-> Story Seed: The Deluded Hero
->
-> Story Seed: Południca
->
-> Saga Seed: Escape, Then Fortify
->
-> Story Seed: Searching For Sanctuary
->
-> Story Seed: A Monstrous Protector
->
-> Story Seed: The Covenant’s Reputation
->
-> Story Seed: The Mother of Vis Sources
->
->
->### V. Touches of Faerie
->
-> Sympathetic Influence
->
-> Tinting an Aura
->
-> Examples of Charmed Virtues
->
-> Faerie Blood and the Soul
->
-> Faerie Powers for the Faerie Blooded
->
-> Story Seeds: Faerie Blood
->
-> New and Modified Virtues
->
-> Example Greater Benedictions
->
-> Example Lesser Benedictions
->
-> New and Modified Flaws
->
-> Example of Curse-Throwing
->
-> Sin-Eating
->
-> Story Seed: The Sorcerous Scapegoat
->
->
->### VI. Faerie Wizardry
->
-> Faerie Ranges, Durations, and Targets
->
-> Beguile Guidelines
->
-> Conjure Guidelines
->
-> Dream Guidelines
->
-> Grant Guidelines
->
-> Portage Guidelines
->
-> Ware Guidelines
->
-> Weal Guidelines
->
-> Woe Guidelines
->
-> Summoning Faeries
->
-> Faerie Bargains
->
->
->### VII. Telling Faerie Stories
->
-> Mistakes To Avoid
->
-> The Thirty Six Dramatic Situations
+### Introduction: Dreams & Nightmares
+- What is Faerie?
+- &emsp;Faerie & Other Realms
+- &emsp;&emsp;Faerie and the Divine
+- &emsp;&emsp;Faerie and the Infernal
+- &emsp;&emsp;Faerie and Magic
+
+### Chapter One: Nature of Faerie
+- Cognizance: Understanding the Need for Humans
+- &emsp;&emsp;Incognizant Faeries
+- &emsp;&emsp;Narrowly Cognizant Faeries
+- &emsp;&emsp;Highly Cognizant Faeries
+- Glamour: Rules Instead of a Soul
+- &emsp;&emsp;Bodies: Incidental Matter
+- &emsp;&emsp;Ownership
+- &emsp;&emsp;Stock Characters
+- &emsp;&emsp;Taboos
+- &emsp;&emsp;Pretenses
+- &emsp;&emsp;The Open Body is Vulnerable to Glamour
+- Vitality: Energy to Act and Change
+- &emsp;Stories Guide Humans and Faeries
+- &emsp;&emsp;Expressed Emotion Feeds Faeries
+- &emsp;&emsp;Artistic Expression Feeds Faeries
+- &emsp;&emsp;Traditional Offerings Feed Faeries
+- &emsp;&emsp;Certain Types of Theft Feed Faeries
+- &emsp;Spirits of the Borders
+- &emsp;Murder & Eating People
+- &emsp;Violence
+- What Are Faeries Like When Not Seeking Vitality?
+- Faerie Auras
+- &emsp;Faerie Presence
+- &emsp;&emsp;Epic Events
+- &emsp;&emsp;Local Folklore
+- &emsp;&emsp;Legacies and Monuments
+- &emsp;Auras Rise and Fall
+- &emsp;Traveling Auras
+- &emsp;&emsp;Aura Conflicts
+- &emsp;&emsp;Gaining Admittance
+- &emsp;&emsp;Keeping Home Wonderful
+- Regiones
+- &emsp;&emsp;Finding A Regio Entrance
+- &emsp;&emsp;Ephemeral Exile
+- &emsp;&emsp;Faerie Roads
+- &emsp;&emsp;Regio Levels As Acts
+- &emsp;&emsp;Some Regiones Are The Past Made Present
+- &emsp;Time in Faerie Regiones
+- &emsp;&emsp;Withering Away To Dust
+- Vis
+- &emsp;&emsp;Encased Vis
+- &emsp;&emsp;Anchors
+- &emsp;&emsp;Accrued Vis
+- &emsp;&emsp;Sleeping Vis
+- &emsp;&emsp;Abstract Vis
+
+### Chapter Two: The Faerie Realm
+- The Three Worlds
+- Getting to Faerie
+- &emsp;Sources of Threshold Points
+- &emsp;&emsp;Geographical Thresholds
+- &emsp;&emsp;Temporal Thresholds
+- &emsp;&emsp;Personal Thresholds
+- &emsp;&emsp;Artistic Endeavor
+- &emsp;&emsp;Assistance of Threshold Faeries
+- &emsp;&emsp;Assistance of Faerie Magic
+- &emsp;&emsp;Arcadian Mysteries
+- &emsp;The Guardian of the Threshold
+- Adventures in Faerie
+- &emsp;Environment and the Faerie Aura
+- &emsp;&emsp;The Mother Road
+- &emsp;Glamour
+- &emsp;&emsp;Lands of Story and Fable
+- &emsp;Vitality and Fable in Faerie
+- &emsp;&emsp;Gaining Fable Points
+- &emsp;&emsp;Becoming Faerie Through Fable
+- &emsp;Creativity in the Faerie Realm
+- &emsp;&emsp;Crafting an Offer
+- &emsp;&emsp;Offer Modifiers
+- &emsp;&emsp;The Promise of Service
+- &emsp;&emsp;Changes in Environment
+- &emsp;&emsp;Changes in Attitude
+- &emsp;&emsp;Changes in Symbolism
+- &emsp;&emsp;An Example of Using Creativity
+- Leaving Faerie
+- &emsp;Warping and the Passage of Time
+- &emsp;Living in the Story
+- Spinning Tales in the Faerie Realm
+- &emsp;Audience Participation
+- &emsp;&emsp;Player-Driven Stories
+- &emsp;&emsp;Player-Influenced Stories
+- &emsp;&emsp;Pitfalls in Player-Run Stories
+- Arcadia
+- &emsp;The Inhabitants of Arcadia
+- &emsp;The Path of Chance
+- &emsp;&emsp;Typical Arcadian Guardians of the Threshold
+- &emsp;Arcadian Stories
+- &emsp;&emsp;Planning Arcadian Stories
+- Elysium
+- &emsp;&emsp;The Bible
+- &emsp;&emsp;Legends of Ancient Greece and Dead Rome
+- &emsp;&emsp;Pagan Legends
+- &emsp;&emsp;Romances and Märchen
+- &emsp;&emsp;A Thousand and One Nights
+- &emsp;The Road of Destiny
+- &emsp;&emsp;Typical Elysian Guardians of the Threshold
+- &emsp;&emsp;Identification as the Hero
+- &emsp;Elysian Stories
+- &emsp;&emsp;Planning Elysian Stories
+- &emsp;&emsp;Adding New Scenes
+- &emsp;&emsp;Running Elysian Stories
+- &emsp;&emsp;The Measure of Success
+- Eudokia
+- &emsp;The Forking Path
+- &emsp;&emsp;Typical Eudokian Guardians of the Threshold
+- &emsp;Eudokian Stories
+- &emsp;&emsp;Planning Eudokian Stories
+- &emsp;Leaving Eudokia
+- &emsp;&emsp;Faerie Boons
+- Story Elements
+- &emsp;&emsp;Title
+- &emsp;Actors
+- &emsp;&emsp;The Pied Stranger
+- &emsp;&emsp;Grateful Lions
+- &emsp;&emsp;The Captive Princess
+- &emsp;&emsp;The Task-Setting Ogre
+- &emsp;&emsp;The Mouse-Groom
+- &emsp;&emsp;The Ferryman
+- &emsp;&emsp;The Pale Man
+- &emsp;Props
+- &emsp;&emsp;The Poisoned Apple
+- &emsp;&emsp;Mjollnir
+- &emsp;&emsp;The Dragon's Tongue
+- &emsp;&emsp;The Swan Cloak
+- &emsp;&emsp;The Dull Knife
+- &emsp;&emsp;Snake Soup
+- &emsp;Scenery
+- &emsp;&emsp;The Market at the Crossroads
+- &emsp;&emsp;Winter
+- &emsp;&emsp;The Forbidden Chamber
+- &emsp;&emsp;Summer
+- &emsp;&emsp;The Glass Mountain
+- &emsp;&emsp;The Perilous Forest
+- &emsp;&emsp;The Abandoned Shrine
+
+### Chapter Three : Faerie Characters
+- PC or NPC?
+- Level of Power
+- &emsp;Player Character Faeries Are Designed to Suit Game Play
+- &emsp;&emsp;Maximum Number of Virtues and Pretenses
+- Required Virtues and Flaws
+- &emsp;Faerie Might Score
+- &emsp;&emsp;Virtues That Affect Might
+- &emsp;&emsp;Flaws That Affect Might
+- &emsp;Physical Form
+- &emsp;&emsp;Equipment Without Encumbrance
+- &emsp;&emsp;Regeneration
+- &emsp;&emsp;Permanent Death
+- &emsp;&emsp;Magic Resistance Against Faeries
+- &emsp;Varieties of Form
+- &emsp;&emsp;Human and Animal Forms
+- &emsp;&emsp;Hybrid Forms
+- &emsp;&emsp;Glamorous, Immaterial Forms
+- &emsp;&emsp;Size
+- &emsp;&emsp;Virtues For Physical Forms
+- &emsp;&emsp;Flaws for Physical Forms
+- &emsp;Social Interaction Virtues and Flaws
+- &emsp;Cognizance
+- &emsp;&emsp;Virtues and Flaws Concerning Cognizance
+- &emsp;Taboos
+- &emsp;&emsp;Folk Charms
+- &emsp;&emsp;Herbs
+- &emsp;&emsp;Iron
+- &emsp;&emsp;Names
+- &emsp;&emsp;Payment or Thanks
+- &emsp;&emsp;Places
+- &emsp;&emsp;Religious Symbols
+- Optional Virtues and Flaws
+- &emsp;Inappropriate Virtues and Flaws
+- &emsp;Modified Virtues and Flaws
+- &emsp;&emsp;Confidence
+- &emsp;&emsp;Personality Flaws
+- &emsp;&emsp;Virtues Granting Faerie Powers
+- &emsp;&emsp;Flaws Limiting Powers
+- &emsp;&emsp;Ritual Faerie Powers
+- &emsp;&emsp;Greater and Lesser Faerie Powers
+- &emsp;&emsp;Focus Powers
+- &emsp;&emsp;Personal Powers
+- Pretense: Faerie Abilities
+- &emsp;&emsp;Player-Defined Pretenses
+- &emsp;&emsp;Resistance and Pretenses
+- &emsp;Increasing Pretense
+- Faerie Advancement Through Change
+- &emsp;Cognizance
+- &emsp;Vitality
+- &emsp;Creativity
+
+### Chapter Four: Faerie Bestiary
+- Faeries Drawn To Life Stages
+- &emsp;Birth
+- &emsp;&emsp;Child Killers
+- - &emsp;Lamashtu
+- - &emsp;Lamia
+- - &emsp;Lamia Variants
+- - &emsp;Kubu
+- &emsp;&emsp;Child Stealers
+- - &emsp;The Man in Black with a Sack on His Back
+- &emsp;&emsp;Faeries that Prey on New Mothers
+- &emsp;&emsp;Nursery Terrors
+- - &emsp;Gorgon
+- - &emsp;Mormo
+- &emsp;&emsp;Protectors
+- - &emsp;Toy Soldier
+- &emsp;Reason
+- &emsp;&emsp;Guides to Adventure?
+- &emsp;&emsp;Faerie Animal Companions
+- &emsp;Adulthood
+- &emsp;&emsp;Entrapping Lovers
+- - &emsp;Lesser Nymph
+- - &emsp;Nymph Variants
+- &emsp;&emsp;Sexual Predators
+- &emsp;&emsp;Faeries Who Eat Their Spouses
+- - &emsp;Ghula
+- - &emsp;Ghula Variants
+- - &emsp;Glanconer
+- - &emsp;Glanconer Variants
+- &emsp;&emsp;Faerie Spouses Trapped by a Trinket
+- &emsp;&emsp;Guarded Spouses
+- &emsp;&emsp;Mentors
+- &emsp;&emsp;Exceptional Servants
+- - &emsp;Centaurs (Hippocentaurs)
+- - &emsp;Centaur Variants
+- &emsp;&emsp;Rivals
+- &emsp;Mastery
+- &emsp;&emsp;Creatures Designed to Die in Combat
+- - &emsp;Fachan
+- - &emsp;Fachan Variants
+- - &emsp;Knight (Minor)
+- &emsp;&emsp;Masters of Skills
+- - &emsp;The Barking Beast
+- - &emsp;Barking Beast Variants
+- &emsp;Death
+- &emsp;&emsp;Psychopomps
+- - &emsp;Valkyrie
+- - &emsp;Wolf Mount
+- &emsp;&emsp;Returned Dead
+- &emsp;&emsp;Ancestral Spirits
+- &emsp;&emsp;Life Stages for Magi
+- Faeries Interested in Social Distinctions
+- &emsp;Bringers of Riches or Humility
+- - &emsp;Brownies
+- - &emsp;Brownie Variants
+- &emsp;&emsp;Liberators of the Underclass
+- &emsp;Courtly Faeries
+- &emsp;&emsp;Faerie Monarchs
+- - &emsp;White Lady (Dame Blanche)
+- - &emsp;Faerie Noble: The Privy Counselor
+- - &emsp;Champion: Sir Excelsis
+- &emsp;&emsp;Lesser Courtly Faeries
+- - &emsp;Sprites
+- - &emsp;Regional Courtly Faerie Variants
+- Divisions of Time
+- &emsp;&emsp;Summer and Winter: Fertile and Infertile
+- - &emsp;Cailleach Bheur (Cally Berry)
+- &emsp;&emsp;Spring and Autumn: Sowing and Reaping
+- - &emsp;Południca
+- &emsp;&emsp;Christmas
+- - &emsp;Kallikantzaro
+- - &emsp;Kallikantzaro Variants
+- Divisions of Space
+- &emsp;Roads
+- - &emsp;Faerie Hounds
+- - &emsp;Faerie Hound Variants
+- - &emsp;Kelpie (Water Horse)
+- - &emsp;Kelpie Variants
+- - &emsp;Licho
+- - &emsp;Road Faerie Variants
+- &emsp;&emsp;Waterways
+- - &emsp;Tritons
+- - &emsp;Triton Variants
+- - &emsp;Selkie King
+- - &emsp;Selkie King Variants
+- - &emsp;Seal Statistics
+- &emsp;&emsp;Marsh
+- - &emsp;Fool's Fire
+- &emsp;&emsp;Rivers
+- &emsp;&emsp;Lakes and Wells
+- &emsp;Wastelands
+- &emsp;&emsp;Forest
+- - &emsp;Great Lezi
+- - &emsp;Great Lezi Variants
+- - &emsp;Fauns
+- - &emsp;Faun Variants
+- - &emsp;Satyrs
+- &emsp;&emsp;Mountains
+- &emsp;&emsp;Snows
+- - &emsp;Koerakoonlane
+- - &emsp;Koerakoonlane Variants
+- &emsp;&emsp;The Entrances to the Earth
+- - &emsp;Dwarfs, Gnomes, & Goblins
+- - &emsp;Dwarf, Gnome, & Goblin Variants
+- The Borders of Supernatural Spaces
+- Oft-Repeated Forms
+- - &emsp;Giants and Other Gigantic Humans
+- - &emsp;Giant Variants
+- - &emsp;Giants in Combat
+- - &emsp;Orms and Other Dragons
+- - &emsp;Dragon Variants
+
+### Chapter Five : Touches of Faerie
+- Sympathy
+- &emsp;Sympathy Traits
+- &emsp;Increasing Sympathy Traits
+- &emsp;Faerie Rank
+- Sympathetic Influence
+- &emsp;Tinted Auras
+- Charms
+- Sympathetic Magic
+- &emsp;Folk Charms
+- &emsp;Hermetic Charms
+- Faerie Blood
+- &emsp;Varieties of Faerie Blood
+- &emsp;&emsp;Bloodcap Blood
+- &emsp;&emsp;Brownie Blood
+- &emsp;&emsp;Dwarf Blood
+- &emsp;&emsp;Ettin Blood
+- &emsp;&emsp;Faerie God Blood
+- &emsp;&emsp;Ghul Blood
+- &emsp;&emsp;Goblin Blood
+- &emsp;&emsp;Huldra Blood
+- &emsp;&emsp;Nymph Blood
+- &emsp;&emsp;Padfoot Blood
+- &emsp;&emsp;Satyr Blood
+- &emsp;&emsp;Selkie Blood
+- &emsp;&emsp;Sidhe Blood
+- &emsp;&emsp;Undine Blood
+- &emsp;Changelings
+- &emsp;&emsp;Retrieved Changelings
+- &emsp;&emsp;Faerie Upbringing
+- &emsp;&emsp;Linked Lives
+- &emsp;&emsp;Milk Brothers
+- &emsp;&emsp;Nympholepts
+- Virtues and Flaws
+- &emsp;New and Modified Virtues
+- &emsp;&emsp;Beguile
+- &emsp;&emsp;Bonding
+- &emsp;&emsp;Captivating
+- &emsp;&emsp;Ceremony
+- &emsp;&emsp;Conjure
+- &emsp;&emsp;Curse-Throwing
+- &emsp;&emsp;Dismissing
+- &emsp;&emsp;Dream
+- &emsp;&emsp;Empathy
+- &emsp;&emsp;Enchantment
+- &emsp;&emsp;Evocation
+- &emsp;&emsp;Faerie Background
+- &emsp;&emsp;Faerie Blood
+- &emsp;&emsp;Faerie Doctor
+- &emsp;&emsp;Faerie Legacy
+- &emsp;&emsp;Faerie Sympathy
+- &emsp;&emsp;Familiarity with the Fae
+- &emsp;&emsp;Frightful Presence
+- &emsp;&emsp;Grant
+- &emsp;&emsp;Greater Benediction
+- &emsp;&emsp;Lesser Benediction
+- &emsp;&emsp;Portage
+- &emsp;&emsp;Strong Faerie Blood
+- &emsp;&emsp;Summoning
+- &emsp;&emsp;Ware
+- &emsp;&emsp;Weal
+- &emsp;&emsp;Woe
+- &emsp;New and Modified Flaws
+- &emsp;&emsp;Faerie Antipathy
+- &emsp;&emsp;Faerie Heritage
+- &emsp;&emsp;Faerie Metamorphosis
+- &emsp;&emsp;Faerie Upbringing
+- &emsp;&emsp;Greater Charm
+- &emsp;&emsp;Homunculus Wizard
+- &emsp;&emsp;Lesser Charm
+- Faerie Abilities
+- &emsp;&emsp;Ceremony
+- &emsp;&emsp;Curse-Throwing
+- &emsp;Learning Faerie Abilities
+- Faerie Doctors
+- &emsp;Faerie Doctors as Mythic Companions
+- Homunculi Wizards
+- Faerie Warping
+- &emsp;Sources of Faerie Warping
+- &emsp;&emsp;The Faerie Realm
+- &emsp;&emsp;Faerie Auras
+- &emsp;&emsp;Faerie Powers
+- &emsp;&emsp;Botches
+- Faerie Calling
+
+### Chapter Six: Faerie Wizardry
+- Rites of Faerie
+- &emsp;Performing Faerie Rites
+- &emsp;Hermetic Rites
+- Faerie Methods
+- &emsp;Evocation
+- &emsp;Enchantment
+- &emsp;Empathy
+- Faerie Powers
+- &emsp;Beguile
+- &emsp;Conjure
+- &emsp;Dream
+- &emsp;Grant
+- &emsp;Portage
+- &emsp;Ware
+- &emsp;Weal
+- &emsp;Woe
+- Faerie Bargaining
+- &emsp;Ars Fabulosa
+- &emsp;Summoning
+- &emsp;Bonding
+- &emsp;Captivating
+- &emsp;Dismissing
+- Pagan Traditions
+- &emsp;Borrowers
+- &emsp;Ollamhain
+- &emsp;Volkhvy
+- &emsp;Wise Folk
+
+### Chapter Seven: Telling Faerie Stories
+- Revel in Anachronism & Appropriation
+- &emsp;Anachronism
+- &emsp;Appropriation
+- &emsp;&emsp;Be Topical
+- Use Other Stories
+- &emsp;Dissecting Stories
+- Story Flow
+- &emsp;&emsp;The Hook
+- &emsp;&emsp;The Trigger
+- &emsp;&emsp;The Setting
+- &emsp;&emsp;The Twist
+- &emsp;&emsp;The Resolution
+- &emsp;&emsp;The Consequences
+- Dramatic Elements
+- &emsp;Dramatis Personae
+- &emsp;&emsp;The Hero
+- &emsp;&emsp;The Villain
+- &emsp;&emsp;The Donor
+- &emsp;&emsp;The Helper
+- &emsp;&emsp;The Princess
+- &emsp;&emsp;The Task-Setter
+- &emsp;&emsp;The False Hero
+- &emsp;Acts
+- &emsp;&emsp;Interdiction
+- &emsp;&emsp;Reconnaissance
+- &emsp;&emsp;Trickery
+- &emsp;&emsp;Villainy
+- &emsp;&emsp;Receipt
+- &emsp;&emsp;Transference
+- &emsp;&emsp;Struggle
+- &emsp;&emsp;Pursuit
+- &emsp;&emsp;Ordeal
+- &emsp;&emsp;Imposture
+- &emsp;&emsp;Reconciliation
+
+### Appendix: Bibliography
+
+
+> ### List of Inserts
+>
+> #### I. Nature of Faerie
+> - Where Did Faeries Come From?
+> - Story Seed: Base Slander
+> - Where Are the Rules for Faeries Feeding on Vitality?
+> - Faeries and Truth
+> - Does My Character Know This?
+>
+> #### II. The Faerie Realm
+> - Example Threshold
+> - Trods
+> - New Power: Spirit Away
+> - Faerie Adventurers
+> - The Power of God in the Faerie Realm
+> - Consequences of Creativity
+> - Leaving by Using Merinita Mysteries
+> - The Subjective Nature of Time
+> - Example Plot Devices
+> - Example of Arcadian Story Creation
+> - Hermetic Legends
+> - Example of Elysian Story Creation
+> - A Twist to the Tale
+> - Example Story Themes, and Virtues & Flaws
+> - Example of Eudokian Story Creation
+> - Further Ideas for Actor Story Elements
+> - Further Ideas for Prop Story Elements
+> - Further Ideas for Scenery Story Elements
+> - Ten Thousand More Story Elements
+>
+> #### III. Faerie Characters
+> - Quick Start Guideline
+> - Scale of Typical Might Scores
+> - What Do Size Scores Represent?
+> - Unspecialized Role
+> - An Exemplary Catalog of Faerie Powers
+> - Faerie Power Virtue Comparison Table
+> - Constant Powers
+> - Conversion
+> - Powers of Transformation
+> - Power Design: An Example
+> - Player-Defined Pretense Example: Chivalrous Combat
+> - Story Seed: Advancement
+> - Using Abilities On Faeries
+> - Why Isn't My Faerie a Genius At Every Ability?
+> - Two Borders
+>
+> #### IV. Faerie Bestiary
+> - Story Seed: The Battle of Child Eaters
+> - Story Seed: The Tortoise Game
+> - Happily Ever After is Just a Pleasant Sort of Death
+> - Story Seed: The Deluded Hero
+> - Story Seed: Południca
+> - Saga Seed: Escape, Then Fortify
+> - Story Seed: Searching For Sanctuary
+> - Story Seed: The Covenant's Reputation
+> - Story Seed: A Monstrous Protector
+> - Story Seed: The Mother of Vis Sources
+>
+> #### V. Touches of Faerie
+> - Sympathetic Influence
+> - Tinting an Aura
+> - Examples of Charmed Virtues
+> - Faerie Powers for the Faerie Blooded
+> - Faerie Blood and the Soul
+> - Story Seeds: Faerie Blood
+> - New and Modified Virtues
+> - Example Greater Benedictions
+> - Example Lesser Benedictions
+> - New and Modified Flaws
+> - Example of Curse-Throwing
+> - Story Seed: The Sorcerous Scapegoat
+> - Sin-Eating
+>
+> #### VI. Faerie Wizardry
+> - Faerie Ranges, Durations, and Targets
+> - Beguile Guidelines
+> - Conjure Guidelines
+> - Dream Guidelines
+> - Grant Guidelines
+> - Portage Guidelines
+> - Ware Guidelines
+> - Weal Guidelines
+> - Woe Guidelines
+> - Summoning Faeries
+> - Faerie Bargains
+>
+> #### VII. Telling Faerie Stories
+> - Mistakes To Avoid
+> - The Thirty Six Dramatic Situations
 
 # Introduction: Dreams & Nightmares
 
@@ -579,22 +647,22 @@ Faeries are drawn, instinctively, to the mutable lives and passionate emotions o
 
 All faeries require human vitality, and seek it instinctively. This instinct to seek humans, and catch their attention — to bask in their aliveness — is what separates faeries from creatures aligned to the other Realms. Different types of faerie are aware of this need to varying degrees. And faeries can be divided into broad classes based on their understanding of the relationship between their glamour, role, and need for human vitality. Examples of the following strata are found in Chapter 4: Faerie Bestiary, and each has its own Virtue, described in Chapter 3: Faerie Characters.
 
-### Incognizant Faeries
+#### Incognizant Faeries
 
 Those faeries with the least cognizance are often the focus of very simple stories, usually warnings and advice for methods of avoidance or propitiation. Some animals and werewolves, as examples, demonstrate this level of cognizance. They are completely unaware that they derive nourishment from the fear of and precautions taken by humans, rather than from the sheep they worry to death. They usually do not know that their bodies are held together by glamour, and may imagine themselves to be as organic as humans. If their bodies are destroyed, incognizant faeries may create new ones, but have no memory of their previous incarnation. This is the most common sort of faerie encountered by humans.
 
 Not all incognizant faeries are simple creatures. Many powerful faeries act upon complex plans, unaware that by fulfilling any of the overt goals of their plan, they also gain human vitality. When the Queen of Winter kidnaps a baby, and then forces its parents to play a sinister game with the life of the child as the prize, she is acting with this level of cognizance. She desires the child. She enjoys playing ruthless games with terrified adults. She is unaware that this behavior is typical of her type of faerie creature, and that she is harvesting vitality either by gaining a child or by terrifying its parents.
 
-### Narrowly Cognizant Faeries
+#### Narrowly Cognizant Faeries
 
 Some faeries are aware that they feed on human vitality, but understand only a single, narrow mechanism for harvesting it. Take, for example, a faerie wife who deliberately drains the life of her husband away so that she is able to bear a child. She is far more cognizant of her nature than the faerie queen above. Other faeries instinctively reenact variations on a single story. They are unable to consider why this particular series of events provides them the greatest sense of well-being, though.
 
 Narrowly cognizant faeries are aware that they need something from humans, and are usually aware that their bodies are made of enchanted matter. They are able to use their powers strategically, and their memories persist if they create a replacement body. They cannot, however, seek to improve themselves in the way that highly cognizant fairies do. Narrowly cognizant faeries are less common than incognizant faeries.
 
-> # Where Did Faeries Come From?
-> 
+> ### Where Did Faeries Come From?
+>
 > Members of the Order do not have a definitive answer concerning the origin of faeries, but many speculate. Popular conjectures include:
-> 
+>
 > - Faeries are angels that did not aid God during the Satanic Rebellion, but did not actively rebel. They fell from Heaven, but did not fall all the way to Hell.
 > - Faeries are the descendants of Cain. When Cain was banished to the Land of Nod, he went to Arcadia.
 > - Faeries are the dead of the pagans.
@@ -602,12 +670,12 @@ Narrowly cognizant faeries are aware that they need something from humans, and a
 > - Faeries are the spirits of those who died, incomplete, as they crossed a border.
 > - Faeries are the power of human dreams, art, and vision made manifest.
 > - Faeries are spirits that treat humans as prey, feeding on spiritual essences.
-> 
+>
 > It is possible that different varieties of faerie derive from dissimilar sources, or even that different examples of the same variety of faerie do.
-> 
+>
 > This book is about what faeries do – not what faeries are.
 
-### Highly Cognizant Faeries
+#### Highly Cognizant Faeries
 
 Highly cognizant faeries are those that may seek out creative humans, because they are aware that these humans provide opportunities for self-redefinition. If they wish to, these faeries can develop new powers by tricking or bargaining with humans. With sufficient human vitality they can change roles, allowing them to become a completely different sort of faerie. Highly cognizant faeries are little concerned by the loss of their bodies, creating and dissipating them as required. Highly cognizant faeries are rare.
 
@@ -657,12 +725,12 @@ Humans dealing with faeries should avoid breaking any of their taboos. These usu
 
 Faeries pretend to have human Abilities, but instead simulate them with minor magical powers called Pretenses. Pretenses do not cost Might, and faeries use them without Concentration — they are an expression of glamour. Players use the mechanics for Abilities when using Pretenses, but faeries cannot learn Abilities through experience as humans do. They instead develop the power to mimic superior human models, causing their Pretense scores to rise through the methods described in Chapter 3: Faerie Characters.
 
-> # Story Seed: Base Slander
-> 
+> ### Story Seed: Base Slander
+>
 > A bard in the employ of an enemy of the covenant is spreading lies about its prominent servants, slandering their moral character. Unknown to the bard, one of these servants is a faerie. When the faerie next visits the area where he has developed a negative reputation, how he responds is affected by his level of cognizance.
-> 
+>
 > An incognizant faerie may continue to behave normally, because he subconsciously calculates that the vitality he gains from retaining his current role is superior to that he would gain from the new interpretation. Or he may develop new personality traits based on the bard's stories. As a third option, he might instead switch back and forth, unaware of the changes that take place depending on his audience, garnering the maximum vitality from each person. The other player characters eventually notice this, and must rehabilitate the reputation of their colleague, so that, subconsciously, he decides to return to his previous role.
-> 
+>
 > A highly cognizant faerie is able to feel the potential vitality in the new story, and consciously act to harvest it. His strategies might mirror those of less-cognizant faeries, or he might take more-subtle action. For example, he faerie may recruit a second cognizant faerie, and reveal him to the populace in the role of his evil twin brother, allowing the two to develop a lucrative public feud. Or the faerie may attack the veracity of the bard, arranging humiliating experiences that erode his believability. The faerie might also kill the bard. Cognizant faeries know they need humans, but they also know that they rarely need specific humans.
 
 If the faerie is deliberately using a Pretense to accomplish things no human could, then any character who is a master of the simulated Ability notices this immediately. Other characters may notice, or not, depending on their level of credulity. A character who has mastered an Ability, which is represented by a score of 6 or more, may notice that the faerie is using subtle magic instead of that Ability, even if it stays within human possibility. This requires a Perception + Awareness check of 12 – the Ability score the faerie is pretending to have.
@@ -677,10 +745,10 @@ By speaking, the character lays himself open to fairy dominance, because the fae
 
 If a character eats the food of a faerie, the character becomes the guest of the faerie, and, like medieval guests, cannot leave the court without permission. By eating the host's glamorous food, the guest takes a fragment of the host's power into his body. This makes him part of faerie society — a servant of the one whose food he ate. This also creates an Arcane Connection to the glamour the character carries, with a Penetration multiplier of 2 that continues until the character is permitted to leave.
 
-> # Where Are the Rules for Faeries Feeding on Vitality?
-> 
+> ### Where Are the Rules for Faeries Feeding on Vitality?
+>
 > There is no numerical system for vitality. Faeries do not gain a number of vitality points when watching a story conclude, and then spend a number of vitality points per year to survive, or to gain new powers. Faeries can survive indefinitely without vitality; they just never want to.
-> 
+>
 > Faeries always want more vitality, regardless of how much they already have. They are chronically addicted to people, as part of their Essential Nature. This is what differentiates faeries from magical spirits, who care about humans if it suits their nature or purposes, but do not incessantly desire human attention.
 
 Wounds bring the character closer to the faeries that guard the border of mortality, or who are themselves the dead. When a character is wounded, he is effectively leaking the vitality that fairies crave, and this may make them act in ways uncharacteristic of their roles. A character whose blood is taken or tasted by a faerie has an Arcane Connection to that Faerie with a Penetration multiplier of 3 until the wound heals.
@@ -733,10 +801,10 @@ One way of rousing emotions is by threatening people. The threats from faeries t
 
 Many faeries engage in violence with the expectation that they will suffer, and perhaps even seem to die, at the hands of the human foe they face. Many of the more violent forms of faerie have ways of mitigating the effects of violence. Others simply lack sufficient cognizance to understand that defeat by this particular hero will lead to interaction with generations of future heroes. Each will defeat the faerie, and in so doing, feed it attention and violent passion.
 
-> # Faeries and Truth
-> 
+> ### Faeries and Truth
+>
 > One of the most important borders that faeries straddle is that of belief. People in Mythic Europe do not believe every faerie story they tell. Nor do they dismiss them all as a false. Each faerie story might be true or not, and different versions of a story might be true, or false, or a mixture. Stories are told because they are amusing, and might be valuable. Similarly, faeries don't care whether stories are told accurately or not, provided the stories still engender heightened emotions and traditional gifts. The only faeries that require humans to fervently believe in them are those that feed primarily from the gifts of worshipers. This method of feeding has been rare since the Church rose to dominance.
-> 
+>
 > *Desire* that the story be true matters more than that it *actually* be true. That a story be told is more important than that it be told accurately.
 
 ## What Are Faeries Like When Not Seeking Vitality?
@@ -757,17 +825,17 @@ Magi don't agree on what faeries are like when they are not interacting with hum
 
 - Faeries cease to hold their roles when people cease to observe them, even for an instant, and new faeries seize each role as human attention returns.
 
-> # Does My Character Know This?
-> 
+> ### Does My Character Know This?
+>
 > The Faerie Lore Ability quantifies the character's capacity to understand the motives of, bargain with, and predict the actions of faeries. Some characters with high Faerie Lore do this through an encyclopedic knowledge of the roles faeries have played in recorded events. Some do this through an intuitive sense of what is correct in faerie-related situations. Some calculate the faerie's reaction through the framework given in this chapter. Your character may use this framework if that suits your personal preference, but there is no in-play disadvantage to characters who have other perspectives. For example, a character who worship faeries as gods, and learns Faerie Lore from the sacred texts of his religion, is just as capable of predicting what faeries will do, and negotiating with them, as a character who views them in a more secular way. In part, this is because faeries deliberately modify how they respond to humans to suit the human's attitude toward the fae.
 
-### Faerie Auras
+## Faerie Auras
 
 Auras arise in those places where the fae are strong. Events that promote the well being of the fae make auras more powerful, and auras decline if the faeries leave them. Faeries often change their roles to continue to reside in an area once humans have altered it, but faeries that wish to continue in their old roles are forced to continually recede, as the wilderness does. If humans drift away from an area, faeries may desert it as well, to flock closer to the vitality they crave. In some distant parts of the wilderness, however, some incognizant faeries continue to play roles defined in pagan times, at sites where they were worshiped.
 
 Potent faerie auras are found at the edge of civilization's influence. The courts of faeries are usually in the ring of semi-settled land that that separates the true wilderness from the Dominion. Other auras emerge in places within human cities that have been abandoned. Some also haunt the dangerous places where humans regularly go, like mines, the sea and mountain passes.
 
-#### Faerie Presence
+### Faerie Presence
 
 The presence of any faerie with the Extend Glamour Power creates an aura. Any place that such a faerie claims with its glamour has an aura of (Faerie Might / 5). If such a being moves away or is destroyed, the aura immediately vanishes unless another faerie steps into the role. If many faeries live in an area, it is usual for only one to claim the territory with its glamour, and only this faerie's Might generates the aura.
 
@@ -787,7 +855,7 @@ Some faerie auras lack obvious principal faeries because the site itself draws s
 
 Ancient sites of pagan worship often have faerie auras, because the faeries that dwell in them refuse to leave, even when humans ignore them. These faeries may be incognizant, and therefore unable to understand that they can leave. Some trapped faeries are narrowly cognizant, and are only waiting for a human to come and conclude their story. A few are highly cognizant, but enjoy their current role so much that rather than relinquish it, they are willing to wait for a human to arrive so that they can attempt to modify it.
 
-#### Auras Rise and Fall
+### Auras Rise and Fall
 
 When a foreign aura impinges on a faerie area, it increases or reduces the Might of the faerie generating the aura. This causes the aura to rise or fall. Other activities can cause the aura to change in local areas, by making the area more or less suited, symbolically, to the glamour of the presiding faerie. If part of a forest lord's territory is felled and tilled for crops, for example, it loses its connection to his glamour, and its aura. If another faerie takes control of the area, or the forest lord redefines its role as a fertility faerie, then an aura returns.
 
@@ -795,7 +863,7 @@ When a magus begins to take vis from a Faerie aura, the presiding faerie must de
 
 The faerie may regain control of the area, and renew its aura, by seeking redress. The faerie must take something from the magus that symbolically balances the vis he has stolen. Faeries and magi may make deals that allow the removal of vis, in exchange for something of equal value from the magi. Note that this means equal value to the faerie, not the magus; simple rituals performed when gathering the vis may suffice in some cases, while other faeries might demand a season of service. This does not challenge the glamour of the faerie, provided the magi do not breach the conditions laid upon them by the faerie. To prevent damage to the aura, the faerie usually takes vis from elsewhere in its demesne and releases it into the harvested area.
 
-#### Traveling Auras
+### Traveling Auras
 
 The role of some powerful faeries permits them to travel. When they do, their glamour encircles them, sweeping over the countryside, then retreating as they pass. When a faerie travels with glamour extended, the land around them seems to twist into new shapes that suit the faerie's motif.
 
@@ -903,7 +971,7 @@ In the five-act structure, humans are motivated to visit the faeries by somethin
 
 Many humans see faeries as linked to the past. This is particularly apparent in areas where the dominant group displaced another tribe to gain its land. In part, this is because when one nation invades another, they often bring alien supernatural forces that subdue the indigenous faeries. In areas where invasion occurred, some faeries, rather than flee or accept secondary status, instead enter exile and recreate the lands and customs of the displaced tribe, so that their stories can continue undisturbed.
 
-#### Time in Faerie Regiones
+### Time in Faerie Regiones
 
 Characters who willingly enter a faerie regio, and successfully complete the story they find there, use the same rules to determine the length of their stay that characters who enter Faerieland do (see Chapter 2: The Faerie Realm). Characters who enter mortal places with faerie auras do not experience time flowing at unusual rates.
 
@@ -995,42 +1063,38 @@ Threshold points can be accumulated from a number of different sources: geograph
 
 A character or group of characters who successfully enter the Faerie Realm immediately find themselves on one of the Three Paths, and will soon be confronted by a Guardian of the Threshold. Which Path they find themselves on depends very much on the manner in which they attracted the Threshold; see later for details on the Three Paths.
 
->## Example Threshold
-> 
+> ### Example Threshold
+>
 > Branoic is a young man on the night before his marriage to his love. His friends ply him with alcohol and then dare him to climb Goat Hill; a traditional challenge for local men on their stag night. The hill has a Faerie Aura of 5, so the Threshold strength is 24. He is on the verge of a major life change to be reinforced by a church ceremony, so he's very susceptible to stumbling into the Faerie Realm (18 Threshold points). On his journey up the hill he fords a stream where it is joined by two others (6 Threshold points), and he emerges from the other side of the stream into the Faerie Realm.
 
 #### Geographical Thresholds
 
 As described in Chapter 1: The Nature of Faerie, faeries are the spirits of the borders, and in places that are traditional haunts of the fae, humans can sometimes slip through the cracks and end up in Faerie. This is especially true if the characters are lost — add 3 Threshold points for a border crossed when the travelers truly have no idea where they are. Even without a Faerie aura, a geographical boundary is a potent attractor of the Threshold, and the sharper and more distinct the border crossed, the larger effect it has on the Threshold points of the travelers.
 
-**Border Crossed:** Insignificant
-
-**Threshold Points:** 3
-
+**Border Crossed:** Insignificant <br>
+**Threshold Points:** 3 <br>
 **Examples:** A road, stream, or fence.
 
-**Border Crossed:** Minor
-
-**Threshold Points:** 6
-
+**Border Crossed:** Minor <br>
+**Threshold Points:** 6 <br>
 **Examples:** A crossroads, confluence of rivers, edge of a wood, or city wall.
 
-**Border Crossed:** Significant **Threshold Points:** 9
-
+**Border Crossed:** Significant <br>
+**Threshold Points:** 9 <br>
 **Examples:** An oasis in a desert, beyond the treeline of a mountain, or a trod.
 
-**Border Crossed:** Major **Threshold Points:** 12
-
+**Border Crossed:** Major <br>
+**Threshold Points:** 12 <br>
 **Examples:** A significant border that is also a boundary into a Faerie regio.
 
 **Border is Crossed While Lost:** +3
 
->## Trods
-> 
+> ### Trods
+>
 > A trod is a geographic boundary — a river, shoreline, edge of a forest, and so forth — that has a Faerie Aura. In a trod, just the liminal space of the border itself has an aura, not the surrounding landscape, so the edge of a faerie forest is not a trod. A Faerie Road (see Chapter 1: The Nature of Faerie) is a particularly effective trod, since regiones in general are highly amenable to passage into Faerie.
-> 
+>
 > Trods are potent paths into Faerie; as well as their inherent Faerie aura, they are also always accounted to be at least a Significant Threshold. Those entering the Faerie Realm on a trod often find themselves on the Mother Road (see later), and the locations of trods are highly sought by those who use the Mother Road.
-> 
+>
 > Trods also connect the different levels of a Faerie regio with one another, and characters with Second Sight, Magic Sensitivity, or suitable Intellego Vim spells can see them as winding paths, and follow them between the levels of reality (see **ArM5**, page 189). No trod has verifiably connected a layer of one regio to a layer of a different regio; those who claim to have made such a journey are believed to have briefly used the Mother Road.
 
 #### Temporal Thresholds
@@ -1057,40 +1121,36 @@ Characters experiencing extreme emotions such as overwhelming rage, fear, or gri
 
 The magnitude of the change that is occurring within the individual determines how many Threshold points he contributes:
 
-**Circumstance:** One or more Minor
+**Circumstance:** One or more Minor faerie Virtues <br>
+**Threshold Points:** 3 <br>
+**Examples:** Faerie Blood
 
-faerie Virtues **Threshold Points: 3 Examples:** Faerie Blood
-
-**Circumstance:** One or more Major
-
-faerie Virtues **Threshold Points:** 9
-
+**Circumstance:** One or more Major faerie Virtues <br>
+**Threshold Points:** 9 <br>
 **Examples:** Strong Faerie Blood
 
-**Circumstance:** One or more faerie Flaws
+**Circumstance:** One or more faerie Flaws <br>
+**Threshold Points:** 3 <br>
+**Examples:** Faerie Heritage
 
-**Threshold Points:** 3 **Examples:** Faerie Heritage
+**Circumstance:** Extreme emotion <br>
+**Threshold Points:** 3 + Personality Trait <br>
+**Examples:** Lust, anger, anxiety, or fear
 
-**Circumstance:** Extreme emotion **Threshold Points:** 3 + Personality Trait **Examples:** Lust, anger, anxiety, or fear
-
-**Circumstance:** Minor life change
-
-**Threshold Points:** 9
-
+**Circumstance:** Minor life change <br>
+**Threshold Points:** 9 <br>
 **Examples:** Menopause or puberty
 
-**Circumstance:** Minor life change marked by a celebration **Threshold Points:** 12 **Examples:** Betrothal
+**Circumstance:** Minor life change marked by a celebration <br>
+**Threshold Points:** 12 <br>
+**Examples:** Betrothal
 
-**Circumstance:** Major life change
-
-**Threshold Points:** 15
-
+**Circumstance:** Major life change <br>
+**Threshold Points:** 15 <br>
 **Examples:** Common law marriage or birth
 
-**Circumstance:** Major life change commemorated with religious ceremony
-
-**Threshold Points:** 18
-
+**Circumstance:** Major life change commemorated with religious ceremony <br>
+**Threshold Points:** 18 <br>
 **Examples:** Wedding or baptism
 
 #### Artistic Endeavor
@@ -1117,22 +1177,22 @@ There are members of House Merinita who possess the Mystery Virtue of Arcadian T
 
 The magus can take a number of people with him by using this charm that is equal to his Faerie Magic score, so long as they all participate in the activation of the charm. This variety of charm is only available to those with the Mystery Virtue of Arcadian Travel.
 
->## New Power: Spirit Away
-> 
+> ### New Power: Spirit Away
+>
 > Greater Faerie Power, variable points, Init 0, Vim
-> 
+>
 > The faerie can add Threshold points to the total accumulated by a mortal individual or group, at a cost of 1 Might Point per Threshold point. The characters affected by this power must already have a Threshold total; the faerie cannot be the only source of Threshold points. The characters must still face the Guardian of the Threshold (see later) — who may indeed by the faerie with this power — but if the faerie wants them to enter the Faerie Realm, then it may well indicate the right path. This power can also be used to send characters away from the Faerie Realm as well; this costs 3 Might Points per character.
 
 ### The Guardian of the Threshold
 
 The Guardian of the Threshold is always the first entity encountered when a character (or group of characters) gains access to the Faerie Realm. Until the Guardian has been passed, the crossing to Faerie has not actually occurred. The purpose of the Guardian is to test the resolve of the characters. Faerie protects its own borders, and the Guardian is there to ensure that people do not slip through its bounds whenever they cross into a Faerie aura. The Guardian presents a choice (in reality or metaphorically) — carry on or go back. It should usually be obvious to the characters which choice indicates passage into the Faerie Realm. If they are struggling, a successful Intelligence + Faerie Lore roll against an Ease Factor of 6 will provide additional hints. In general, choices that lead to adventure, danger, or wonder take the characters into the Faerie Realm; whereas those that suggest safety, routine, or mundanity take the characters home.
 
->## Faerie Adventurers
-> 
+> ### Faerie Adventurers
+>
 > A faerie must go through exactly the same procedure as a mortal character to enter Faerie. Cognizant faerie characters can often pinpoint specific conditions that grant the best chance of attracting a Threshold, and consequently are more adept at entering the Faerie Realm. Highly cognizant faeries automatically have a number of Threshold points equal to the magnitude of their Might. Narrowly cognizant faeries can add the magnitude of their Might to Threshold totals that evoke liminal conditions related to their understanding of their role. Thus a narrowly cognizant night terror can assist in Threshold totals that occur at night or rely on strong emotions of fear. Incognizant faeries get no bonuses to Threshold totals. Note that these extra Threshold points are different than the Spirited Away power; in this case, the faerie itself must be crossing the Threshold, rather than assisting others to do so.
-> 
+>
 > All faeries intuitively know which of the choices provided by the Guardian of the Threshold leads to the Faerie Realm, and which one goes to the mundane world.
-> 
+>
 > When in the Faerie Realm, faerie characters retain the same role that they possessed in the mundane world, but often find it easier to gain fable points (see later) since they understand the rules of the game better than humans. Assume that all faerie characters have the Common Sense Virtue while in the Faerie Realm. Since they have a Might Score, they are also immune to any Warping acquired when leaving the Faerie Realm (see Leaving Faerie, later).
 
 The form of the Guardian of the Threshold varies wildly between trips, and is also dependent on the circumstances of the journey. It is not always even a faerie being. For example, the Guardian could take the form of a physical barrier (such as a bramble thicket) or a monument. As a barrier, the traveler must make a choice to cross; the monument might have a foreboding aspect or bear dire words to repel the unready. **Passive Guardians** of this type may be incorporated into the Threshold itself, particularly if it's a geographic boundary. Characters can therefore slip inadvertently into Faerie by trying to overcome the obstacle presented by a passive Guardian.
@@ -1143,10 +1203,10 @@ More commonly, the Guardian takes the form of a human or animal who attempts to 
 
 The last type of Guardian is a **fearsome monster** that blocks the way. This sort of Guardian is referred to as *kerberoi* by the followers of Merinita, and many travelers make the mistake of trying to fight the monster, assuming that the only progress can be over its corpse. This is certainly one way; however, a kerberos is always restrained in some fashion, and can always be bypassed through trickery or courage. The fearsomeness of the monster is usually sufficient to repel the casual traveler.
 
->## The Power of God in the Faerie Realm
-> 
+> ### The Power of God in the Faerie Realm
+>
 > As the home (and perhaps source) of all things fay, the beings found in the Faerie Realm are subject to the same restrictions as those found in the mundane realm. Faeries with traditional or sovereign wards (see Chapter 3: Faerie Characters) involving religious symbols are affected by them just as strongly on their home turf. The power of God permeates the Faerie Realm just as it does all creation, so characters with True Faith, miraculous powers, or relics find these things just as potent as they are elsewhere.
-> 
+>
 
 All Guardians of the Threshold have a Faerie Might at least equal to the Threshold total of the group, although Guardians at famed entrances to Faerie (such as a powerful aura or regio) may have much higher Might. The other details must be determined according to the situation, but some of the statistics of faeries in Chapter 4's Faerie Bestiary can be used for inspiration. However, the Guardian is supposed to be a roleplaying challenge rather than a battle, and a fight should never be inevitable. The sections below about the different aspects of Faerie give typical Guardians.
 
@@ -1240,17 +1300,25 @@ The Ease Factor required to make a change using creativity does not depend on th
 
 The table given here classifies threats by the degree of harm they are likely to cause the individual human, if not overcome by the intended change. Faeries tell stories that suit the humans available, and scale the level of challenge so that it forces the human into an optimal emotional state. The ruggedness of individual humans varies, which means that a peasant with a fine singing voice may find a sprite a deadly threat, while a minstrel supported by a cadre of Merinita magi and their grogs might find a giant trivial.
 
-**Ease Factor:** 6 **Threat Level:** Trivial **Effect:** A threat of this level causes discomfort and inconvenience, but rarely causes wounds.
+**Ease Factor:** 6 <br>
+**Threat Level:** Trivial <br>
+**Effect:** A threat of this level causes discomfort and inconvenience, but rarely causes wounds.
 
-**Ease Factor:** 9
+**Ease Factor:** 9 <br>
+**Threat Level:** Minor <br>
+**Effect:** A threat of this level damages the equipment of the characters, or causes minor wounds, but rarely kills characters.
 
-**Threat Level:** Minor **Effect:** A threat of this level damages the equipment of the characters, or causes minor wounds, but rarely kills characters.
+**Ease Factor:** 12 <br>
+**Threat Level:** Serious <br>
+**Effect:** A threat of this level often causes damage to characters, and seriously wounds or kills them in some encounters.
 
-**Ease Factor:** 12 **Threat Level:** Serious **Effect:** A threat of this level often causes damage to characters, and seriously wounds or kills them in some encounters.
+**Ease Factor:** 15 <br>
+**Threat Level:** Major <br>
+**Effect:** A threat of this level often seriously wounds characters, and kills them in about half of all encounters.
 
-**Ease Factor:** 15 **Threat Level:** Major **Effect:** A threat of this level often seriously wounds characters, and kills them in about half of all encounters.
-
-**Ease Factor:** 18 **Threat Level:** Overwhelming **Effect:** A threat of this level usually kills characters.
+**Ease Factor:** 18 <br>
+**Threat Level:** Overwhelming <br>
+**Effect:** A threat of this level usually kills characters.
 
 #### Offer Modifiers
 
@@ -1258,88 +1326,71 @@ Certain situations offer bonuses to rolls for making offers to faeries in the Fa
 
 Stories taking place in Elysium are strongly resistant to this process due to the faithful repetition of legends by mortals in an unchanging form. Consequently, offer rolls to cause changes in Elysium have a penalty of 6. The exception to this is if the creative efforts are bent towards restoring an Elysian story back on track after it has gone astray through the actions of the characters; in this situation all Ease Factors are decreased by 3.
 
-##### Offer Modifier: +1
-
+**Offer Modifier:** +1 <br>
 **Situation:** Offering minor mortal goods that contain vitality, like bread, beer, milk, cheese, and wine.
 
-##### Offer Modifier: +2
-
+**Offer Modifier:** +2 <br>
 **Situation:** Offering mortal crafts that express creativity, like clothes, tools or ornaments.
 
-##### Offer Modifier: +3
-
+**Offer Modifier:** +3 <br>
 **Situation:** Free Expression Virtue, or offering highly desirable items like vis or human children.
 
 If your troupe is using the rules for artistic creation in *Art & Academe*, the following bonuses can also be gained:
 
-**Offer Modifier:** +1 per 3 points (or fraction) of Reputation **Situation:** Artistic Reputation
+**Offer Modifier:** +1 per 3 points (or fraction) of Reputation <br>
+**Situation:** Artistic Reputation
 
-**Offer Modifier:** +1 per 5 points (or fraction) of Might Score
-
+**Offer Modifier:** +1 per 5 points (or fraction) of Might Score <br>
 **Situation:** Might bequeathed by a Faerie Patron
 
 #### The Promise of Service
 
 In addition to offering mundane goods and one's personal gift of vitality, the human character must make a promise to perform some action that symbolically transfers the vitality to Faerie. This promise might be entirely symbolic and accomplished immediately, or may involve a complex scheme to grant a major boon, thereby enacting a story. It is this action — or the promise of the action — that negates the threat posed by the story. Naturally, the greater the promise, the bigger the bonus to the Offer Total, but woe betide those who renege on a promise made to Faerie!
 
-##### Promise Modifier: –6
-
-**Situation:** Mundane actions entirely overcome the threat.
-
+**Promise Modifier:** –6 <br>
+**Situation:** Mundane actions entirely overcome the threat. <br>
 **Example:** *The giant blocking the pass agrees to lay down his weapons after shaking hands*.
 
-##### Promise Modifier: –3
-
-**Situation:** The threat can be evaded with a series of simple symbolic actions.
-
+**Promise Modifier:** –3 <br>
+**Situation:** The threat can be evaded with a series of simple symbolic actions. <br>
 **Example:** *The giant blocking the pass agrees to kneel, and if a character can remove his head with a single blow he and his companions can continue*.
 
-**Promise Modifier:** 0
-
-**Situation:** The character can follow a conventional story to overcome the threat.
-
+**Promise Modifier:** 0 <br>
+**Situation:** The character can follow a conventional story to overcome the threat. <br>
 **Example:** *The giant blocking the pass allows passage if a character can inflict on him a wound in single combat*.
 
-##### Promise Modifier: +3
-
-**Situation:** A cunning plan with a high chance of failure is still required to overcome the threat.
-
+**Promise Modifier:** +3 <br>
+**Situation:** A cunning plan with a high chance of failure is still required to overcome the threat. <br>
 **Example:** *The giant blocking the pass allows passage if the character promises to retrieve his heart from the clutches of the witch who has stolen it*.
 
 #### Changes in Environment
 
 A character may use artistic Abilities to alter the environment of Faerie areas. Magi and highly cognizant faeries understand that what is really happening is that the artist is altering the glamour that the principal faerie has spread over the area. The faerie's glamour allows this to improve the story in a way requested by the human. In exchange, the faerie is able to harvest a little of the vitality of the human, when the story concludes, and may gain other benefits through negotiation.
 
-##### Change Modifier: +3
-
+**Change Modifier:** +3 <br>
 **Desired Change:** Change a single object in the environment for the characters to use as a tool to overcome the threat.
 
-##### Change Modifier: 0
-
+**Change Modifier:** 0 <br>
 **Desired Change:** Change the immediate environment so that the characters gain substantial advantage against the threat.
 
-# Changes in Attitude
+#### Changes in Attitude
 
 The simplest change the faerie can accept is an alteration in its role in the story. A faerie blocking the progress of the characters, that allows them to pass in exchange for a cask of beer, is accepting a change of attitude. By taking a symbolic object offered by the humans, and harvesting a little vitality as their story progresses, the faerie agrees to a minor change in the part of its glamour that affects its attitude. Powerful faeries, which present greater challenges, require greater prompting to alter their role. Changes of attitude usually only last for a single transaction, and may only be toward a single person.
 
-##### Change Modifier: –3
-
+**Change Modifier:** –3 <br>
 **Desired Change:**Change the intentions of a faerie so that the characters gain a substantial advantage. This may be expressed by changing the faerie's apparent Personality Traits by up to 3 points.
 
-##### Change Modifier: –6
-
+**Change Modifier:** –6 <br>
 **Desired Change:** Change the mind of a faerie comprehensively. This may be expressed by changing the faerie's apparent Personality Traits by up to 5 points.
 
 #### Changes in Symbolism
 
 A character with an understanding of symbolism may be able to alter the glamour of the faerie so that its motifs change. This has profound effects on the faerie, since the appearance, actions, and thoughts of a faerie are inextricably connected. There is no simple way for a human to know which changes are possible within the faerie's glamour before the attempt, and many faeries are angered by efforts to rewrite their nature.
 
-##### Change Modifier: –3
-
+**Change Modifier:** –3 <br>
 **Desired Change:** Change the motif of a faerie so that the characters gain a substantial advantage. This may be expressed by changing the motif of the faerie to another, strongly related motif.
 
-##### Change Modifier: –6
-
+**Change Modifier:** –6 <br>
 **Desired Change:** Change the motif of a faerie comprehensively. This may be expressed by changing the motif of the faerie to another, tenuously related motif.
 
 #### An Example of Using Creativity
@@ -1352,20 +1403,20 @@ A character with an understanding of symbolism may be able to alter the glamour 
 - *• Draw out a local ice maiden and offer to woo and bed her, if she will thaw the earth about his camp (–3 changes the mind of a local faerie, –3 requires simple but ritualized actions), for a –6 on his roll, and requiring a Carouse check. Allows easy passage through the area where the ice maiden's writ runs, protecting from weather while camping and from faeries weaker than she is;*
 - *• Sing of the beautiful gift he would bring to the Queen of Winter if only she were not so harsh and cruel, assuming that the blizzard represents her attitude (–6 changes a major motif of the faerie, +3 for owing the troupe a cunning and dangerous plan), for a –3 on his roll. Thaws the Queen's disposition to the party, making the entire trip easier, but the minstrel needs the perfect gift or a cunning plan to avoid death when the characters arrive at the Palace.*
 
->## Consequences of Creativity
-> 
+> ### Consequences of Creativity
+>
 > The use of creativity in the Faerie Realm allows a character to change a story, and potentially bypass a dramatic story element. However, the intention is that this process should never be resolved by a simple die roll; to make even relatively minor changes to a faerie the character must come up with a clever way to employ his creative abilities, and must often also promise a story in return for the resolution. Further, the cost in terms of fable points and Fatigue limits the use of this device in any given story. Creativity cannot entirely bypass an entire story, just a single plot element. And by encouraging creative ways to negotiate their way out of a situation they cannot solve in their usual manner, the player characters are generating stories and feeding Faerie. A storyguide should ensure that as much enjoyment can be derived from the creative changes as from the original story.
 
->## Leaving by Using Merinita Mysteries
-> 
+> ### Leaving by Using Merinita Mysteries
+>
 > Members of House Merinita who are Initiated into the Mystery Virtue of Arcadian Travel (*Houses of Hermes: Mystery Cults*, page 92) can leave the Faerie Realm with greater ease and finesse than other characters. They can not only leave before the story has ended, but they can also choose their destination. The maga must have a charm for this process (see Arcadian Mysteries under Entering Faerie, earlier), and must generate an Arcadian Travel Total equal to (13 – destination aura modifier) x 3. If she has an Arcane Connection to her destination, she subtracts 6 from the Ease Factor. She can leave the Faerie Realm with as many additional travelers as her score in Faerie Magic; these need not be those with whom she entered the Faerie Realm. Any she leaves behind must find their own way home. The rules for determining the passage of time and warping apply to characters leaving the Faerie Realm through Arcadian Travel just like any other characters.
 
 Characters cannot prolong their stay in the Faerie Realm by refusing to partake in stories. For example, aware of the time dilation effect of Faerie (see later), a magus might decide to spend a season studying in Arcadia on the assumption that a miniscule amount of time might pass in the real world. However, this never works. The very essence of the Faerie Realm is story, and adventure will quite literally come knocking on the character's door. Furthermore, the resolution of even the tiniest of nuisances ends the story and the character finds himself back in the mundane world.
 
->## The Subjective Nature of Time
-> 
+> ### The Subjective Nature of Time
+>
 > What happens if a group of characters travels into the Faerie Realm and meets up with another human who has been there for a different amount of real time — and then they all return together? For example, the characters aim to release the captive of a faerie from several months of bondage. Should this situation occur, the storyguide must determine what happens when they all return together; some possibilities are given here. Note that the effects of such a situation should not be known prior to the rescue event, and may be different the next time such a situation occurs.
-> 
+>
 > - Time passes at the rate determined by the rescuers.
 > - As above, but the rescued person ages the number of years difference.
 > - Time passes at the rate determined by the rescued character.
@@ -1383,9 +1434,7 @@ None leave the Faerie Realm unscathed. Those characters who reveled in the stori
 
 Conversely, characters who stubbornly resist the lure of the story have a more-difficult time resolving the issues to effect a return home (since they do not accumulate fable points to spend), but by avoiding the story they have resisted the transformative effect of the Faerie Realm's glamour, and escape with little or no Warping. Additionally, by rejecting Faerie it rejects them in return, and the whole experience in Faerie may take less time than they believed.
 
-Once the story is over and the characters
-
-are ready to return home, convert any remaining fable points into fable score, if possible. The final fable score determines the speed by which time passes in the mortal world:
+Once the story is over and the characters are ready to return home, convert any remaining fable points into fable score, if possible. The final fable score determines the speed by which time passes in the mortal world:
 
 | Fable Score | 1 Faerie Day Lasts |
 |-------------|--------------------|
@@ -1400,7 +1449,7 @@ are ready to return home, convert any remaining fable points into fable score, i
 
 As the character passes out of Faerie he can feel the warring powers of mundanity and glamour beating at him, and may elect to shield himself against the excessive passage of time by taking some of the realm's glamour with him when he goes. In game terms, the player can elect to take Warping points for his character to avoid substantial dilation of time due to a stay in Faerie. Every Warping point taken reduces the effective fable score by 1. Thus, a character who spent four days in Arcadia and gained a fable score of 5 in that time can elect to take 3 Warping points and reduce the real duration of the adventure from four months to four days.
 
-It is not necessary to take Warping points to ameliorate the faster passage of time, and many characters instinctively reject the siren call of glamour as they pass into the mundane world. Any character with the Faerie Lore Ability of at least 1 is aware of the possibility and can warn others of the potential for losing time, and how to guard against it. If a group of characters leave the Faerie Realm at the same time, they all suffer the same time dilation effect, equal to that of the person who elected for the lowest effective fable score. All the other characters take sufficient Warping points to bring them to the same level. Magi do not need to check to see if they enter Twilight for receiving these Warping points. Unlike time dilation in some Faerie regiones (see Chapter 1: Nature of Faerie), characters in the Faerie Realm make aging rolls according to the time spent in Faerie, not the time that has passed in the real world. 
+It is not necessary to take Warping points to ameliorate the faster passage of time, and many characters instinctively reject the siren call of glamour as they pass into the mundane world. Any character with the Faerie Lore Ability of at least 1 is aware of the possibility and can warn others of the potential for losing time, and how to guard against it. If a group of characters leave the Faerie Realm at the same time, they all suffer the same time dilation effect, equal to that of the person who elected for the lowest effective fable score. All the other characters take sufficient Warping points to bring them to the same level. Magi do not need to check to see if they enter Twilight for receiving these Warping points. Unlike time dilation in some Faerie regiones (see Chapter 1: Nature of Faerie), characters in the Faerie Realm make aging rolls according to the time spent in Faerie, not the time that has passed in the real world.
 
 *Example: Branoic is lost in the Faerie Realm, but he is heedful of his grandmother's tales about avoiding the generosity of faeries (he has a Faerie Lore of 1). He accepts just 3 fable points in the three days it takes him to complete the story (fable score 2), and his player chooses to take 2 Warping points upon leaving Faerie. His effective fable score is therefore 0, and each of the three days he spent on his adventure lasted just one hour. He makes it home before dawn.*
 
@@ -1416,7 +1465,7 @@ Stories that take place in the Faerie Realm are fairy tales in a way that tales 
 
 ### Audience Participation
 
-Fairy stories are not static things. Every storyteller worth her salt embellishes a tale as she spins it, making it truly hers. The story is thus invested with the teller's own creativity, and has appeal even to those who have heard it before. In this vein, stories that take place in the Faerie Realm need not be fixed and immutable. While the story has defined dramatis personae and acts, the playing out of those acts by player characters can often take an unexpected turn, and in the Realm of Stories itself, this should be even more true. Allowing the characters to change the stories that they are experiencing through the expenditure of fable points (see Creativity in the Faerie Realm, earlier) puts some of the power into the hands of the players. Another effective way to make the players invest in the tales of the Faerie Realm is to offer some of the control of the plot to them directly. This can be done in two principle ways. **Playerdriven stories** are those in which the players decide even the gross elements of the scenery and the characters they meet, although the storyguide still controls the underlying plot. Alternatively, **player-influenced stories** allow a player to change the events that affect his character without changing the flow of the story too dramatically.
+Fairy stories are not static things. Every storyteller worth her salt embellishes a tale as she spins it, making it truly hers. The story is thus invested with the teller's own creativity, and has appeal even to those who have heard it before. In this vein, stories that take place in the Faerie Realm need not be fixed and immutable. While the story has defined dramatis personae and acts, the playing out of those acts by player characters can often take an unexpected turn, and in the Realm of Stories itself, this should be even more true. Allowing the characters to change the stories that they are experiencing through the expenditure of fable points (see Creativity in the Faerie Realm, earlier) puts some of the power into the hands of the players. Another effective way to make the players invest in the tales of the Faerie Realm is to offer some of the control of the plot to them directly. This can be done in two principal ways. **Player-driven stories** are those in which the players decide even the gross elements of the scenery and the characters they meet, although the storyguide still controls the underlying plot. Alternatively, **player-influenced stories** allow a player to change the events that affect his character without changing the flow of the story too dramatically.
 
 #### Player-Driven Stories
 
@@ -1426,14 +1475,14 @@ Suddenly, the control of the story is in the hands of the players. After initial
 
 This technique may only really works the first time that a group of players experience Arcadia. After the first visit — indeed, after the first few scenes of the first visit this technique quickly loses its focus, and the storyguide will need to exert some control over the story to ensure that it includes the elements she has planned. However, some troupes may take to the freeform nature of this technique, and decide to continue with player-driven stories rather than adopting a more traditional style of gaming.
 
-> # Example Plot Devices
-> 
+> ### Example Plot Devices
+>
 > Proverbs make excellent plot devices, and storyguides are encouraged to use books or web pages of proverbs and aphorisms to invent new plot devices. Here are twenty plot devices (some proverbial, some not) to get you started:
-> 
+>
 > Charity Begins at Home Even a Strong Man Drowns in Armor Familiarity Breeds Contempt Double Jeopardy Pride Comes Before a Fall To Err is Human A Stumble Prevents a Fall
-> 
+>
 > Misplaced Trust is the Unkindest Cut Barking Dogs Don't Bite Give a Man a Second Chance Every "Bad" has its "Worse" Diamonds May Be Overlooked When
-> 
+>
 > Covered in Mud Kind Words Unlock Iron Doors A Dragon's Tail Can Look Like a Snake Every Garden Has Weeds Every Cloud has a Silver Lining Many Hands Make Light Work There is Nothing to Fear but Fear Itself A Problem Shared is a Problem Halved What Doesn't Kill Me Makes Me Stronger
 
 #### Player-Influenced Stories
@@ -1444,17 +1493,17 @@ An alternative to the player-driven stories, but still not returning wholly to t
 
 Plot devices should *not* be tailored to the specifics of the story. That is, the successful resolution of a story should not be dependent on a player employing the plot device assigned to him. Plot devices are assigned to players, not characters. If you are using the troupe-style play of **Ars Magica Fifth Edition**, then the player should use his plot device on his magus or companion character rather than any grog character he is currently running. However, this is not a hard and fast rule, and the plot device should be employed where it will improve the game the most. Successfully employing a plot device is worth the reward of a bonus Confidence point at the end of the story, and also earns the character to whom it was applied a fable point.
 
-> # Example of Arcadian Story Creation
-> 
+> ### Example of Arcadian Story Creation
+>
 > Andrea is planning an adventure in Arcadia. She knows that the purpose of the journey is to free the local priest from the grip of a disgruntled faerie, so she makes the Enchanted Priest one of her story elements. She also wants to introduce her players to a particular faerie— Lofanneth Wolf-Brother — who will be important in a later story. Finally, she needs to include the priest's captor Arduinna, the villain of the piece, and a variant of the Pale Man element described later. She decides to pick two more elements at random from the tables later on in this chapter, and comes up with the Stone Drum and the Wounded River. She now has to associate these elements with each other. Arduinna is clearly the captor of the Enchanted Priest, and Andrea also decides to make Lofanneth Wolf-Brother her captive as well, but she overlays this with a link of rivalry between the two faeries. Andrea makes the Stone Drum the weakness of Arduinna; the sound it makes causes all her powers to cease. Lofanneth is the donor who is the means by which the heroes (i.e. the characters) acquire the Drum, in that he knows where it is hidden. But since he is under Arduinna's power, he can't tell anyone. Finally, the Wounded River (a strange combination, but it came up at random and Andrea liked the idea of a river of blood) is where the drum is hidden, but Andrea also decides to link it to Arduinna, in that she bathes there every day to refresh her Might.
-> 
+>
 > From starting with a handful of elements, Andrea has invented a story in a matter of minutes that has the feel of a faerie tale. She doesn't know the details yet, but the framework is there already. Since she already knows that the characters will be entering Arcadia using a river as a geographical boundary, she decides that this will become the Wounded River once they cross the Threshold, making it the first story element to be encountered. They will then encounter a Transference act that takes them either to Arduinna (initiating a Reconnaissance) or Lofanneth (initiating a Receipt).
 
 #### Pitfalls in Player-Run Stories
 
 Player-driven or player-influenced stories are an effective storytelling technique, but the storyguide must be careful not to allow her players to dominate the story. She must be prepared to veto any player input that threatens to unbalance the game or wreck her plotlines. However, this power of veto should be used sparingly, else why bother with player input in the first place? Remember that player-driven elements cannot determine the *role* of any given element, only its *description*, so a player cannot create a plot-breaking device. A player-influenced device is similarly limited in that it can affect only a single scene (and only the player's own character), so there are no "get out of jail free" devices that bypass the challenge presented by the story.
 
-Another pitfall to avoid is familiarity. If the characters are (un)lucky enough to make another trip to the Faerie Realm, change the rules. If you used player-driven plots before, use player-influenced ones this time. Faerie in general — and Arcadia in particular — should never be predictable. 
+Another pitfall to avoid is familiarity. If the characters are (un)lucky enough to make another trip to the Faerie Realm, change the rules. If you used player-driven plots before, use player-influenced ones this time. Faerie in general — and Arcadia in particular — should never be predictable.
 
 ## Arcadia
 
@@ -1493,7 +1542,7 @@ Stories in Arcadia should be free-form and flexible. There should be no need to 
 
 There is a simple method to put together a story in Arcadia that will have the feel of a faerie tale. Later on in this chapter are described a number of story elements — actors, props, and scenery. The relationships between each of these elements builds up the story. Pick a number of story elements — a good guide is to take one per story experience point you intend to hand out. These can be chosen from the accompanying lists, randomly determined on the tables, or invented from your own imagination. Determine whether each of the story elements will be a dramatis persona, or else take part in an act, or both. Now associate each of these elements with one to three other elements through a link of some description. This link might be another story act (such as Villainy, Trickery, or so forth), or it might be an emotion or weakness. Finally, determine which element will serve as the start point for the character's adventures. To run the story in Arcadia, the characters will travel from story element to story element along the links you have provided.
 
-### Elysium
+## Elysium
 
 In the Land of Legend, all stories have already been told. Here, characters can encounter Roland fighting the Moors in Spain, take part in the abduction of Idun from Asgard, or stalk Theseus in the labyrinth in the place of the Minotaur. It matters not that a story is little-remembered in the current day; if it was told, and loved, then it lives on in Elysium.
 
@@ -1501,7 +1550,7 @@ The reasons for coming to Elysium are varied. The most basic is to witness a gre
 
 The stories in Elysium can serve a greater purpose than simply to echo a heroic deed, though. By stepping onto the Path of Destiny, a character can intentionally take the role of one of the dramatis personae in a suitable story that symbolizes a task for which he needs help. By completing the story in the manner prescribed by the tale, the "hero" acquires a vital boon to some fitting task. This boon is often an insight into the desired problem, but may also be some forgotten detail of the story, or else a supernatural item or power brought out of Faerie to complete its destined purpose.
 
-*For example, a magus is searching for the key to a long-forgotten tradition of necromancy (perhaps Canaanite Necromancy, from* Ancient Magic*, pages 30–34). However, his research has hit a dead end, so he chooses to embark on a quest in Elysium to acquire an insight. He targets the story of Orpheus and Eurydice, partially because it deals with the dead, and partially because the theme is the recovery of something that is lost. The magus takes on the role of Orpheus, and travels into the Faerie Realm. He negotiates his way past Kerberos and the Judges of the Dead, quiets the torment of the damned with his magic, and melts the heart of Persephone. When, as his final act in reenacting the story, he turns to face Eurydice at the mouth of the tunnel from Hades, instead of the fleeting ghost of his lover, he receives a vision of an ancient city, and knows now where he must go to put his research back on track.* 
+*For example, a magus is searching for the key to a long-forgotten tradition of necromancy (perhaps Canaanite Necromancy, from* Ancient Magic*, pages 30–34). However, his research has hit a dead end, so he chooses to embark on a quest in Elysium to acquire an insight. He targets the story of Orpheus and Eurydice, partially because it deals with the dead, and partially because the theme is the recovery of something that is lost. The magus takes on the role of Orpheus, and travels into the Faerie Realm. He negotiates his way past Kerberos and the Judges of the Dead, quiets the torment of the damned with his magic, and melts the heart of Persephone. When, as his final act in reenacting the story, he turns to face Eurydice at the mouth of the tunnel from Hades, instead of the fleeting ghost of his lover, he receives a vision of an ancient city, and knows now where he must go to put his research back on track.*
 
 The aid provided by the successful conclusion of an Elysian quest is rarely direct, and it cannot be of a non-Faerie nature. For example, it could not grant an Insight (*Ancient Magic*, pages 8–9) into lost magic since this is a Magical process; nor could it result in simply being handed the answer to a problem. However, the hint or knowledge obtained is sufficient to point the characters in the correct direction.
 
@@ -1511,7 +1560,7 @@ There are a large number of stories known to the inhabitants of Mythic Europe th
 
 #### The Bible
 
-It might seem surprising that biblical stories could be part of adventures set in the Faerie Realm. However, they fit all the requirements for Elysian stories, in that they are told often and they provoke an emotional response in the listener. The Old Testament, in particular, is filled with highly appropriate stories. Although many of the characters in these stories are suspected to have possessed Divine Powers, in Elysium they have Faerie Powers. Remember that these characters are not actually the prophets and kings of history, just faeries who are playing their roles. No-one has ever recounted an attempt to embark on an Elysian story taking the role of Christ, these being too blasphemous for most characters to consider. 
+It might seem surprising that biblical stories could be part of adventures set in the Faerie Realm. However, they fit all the requirements for Elysian stories, in that they are told often and they provoke an emotional response in the listener. The Old Testament, in particular, is filled with highly appropriate stories. Although many of the characters in these stories are suspected to have possessed Divine Powers, in Elysium they have Faerie Powers. Remember that these characters are not actually the prophets and kings of history, just faeries who are playing their roles. No-one has ever recounted an attempt to embark on an Elysian story taking the role of Christ, these being too blasphemous for most characters to consider.
 
 - Lot's escape from Sodom and Gomorrah (Genesis 18–19)
 - Jael and Sisera (Judges 5–6)
@@ -1545,7 +1594,7 @@ The legends of pagan peoples were generally recorded by members of the clergy fo
 
 #### Romances and Märchen
 
-The medieval fascination with the romances of King Arthur and his court has yet to reach its peak, and yet many stories are already well known in parts of Mythic Europe, particularly France and England. Sir Lancelot has yet to make an appearance in his familiar form, and the legend of the Grail Quest has not been fully realized, but many familiar elements are already in place. The *chasons de geste* of French-speaking lands and the *Märchen* of German lands constitute the principle cycles of non-Arthurian epics, which together with local folk tales constitute a rich heritage of storytelling in Mythic Europe.
+The medieval fascination with the romances of King Arthur and his court has yet to reach its peak, and yet many stories are already well known in parts of Mythic Europe, particularly France and England. Sir Lancelot has yet to make an appearance in his familiar form, and the legend of the Grail Quest has not been fully realized, but many familiar elements are already in place. The *chansons de geste* of French-speaking lands and the *Märchen* of German lands constitute the principal cycles of non-Arthurian epics, which together with local folk tales constitute a rich heritage of storytelling in Mythic Europe.
 
 - Perceval
 - Gawain
@@ -1581,17 +1630,17 @@ Elysian Guardians of the Threshold are most commonly of the kerberos type, takin
 
 #### Identification as the Hero
 
-An important aspect of embarking on this road is that of identification. The character or characters, as soon as they pass the Guardian of the Threshold, must declare themselves to be the hero they wish to emulate. By standing in faerie and stating clearly and unequivocally “I am Prince Ivan,” the character is infused with the glamour of Elysium, and becomes Prince Ivan. Every faerie he meets from that point on will treat him as Prince Ivan. His clothes and possessions will change to signify the identification, although he does not acquire any magical accouterments that are significant in the story about to be embarked upon, and all his Characteristics, Abilities, and so forth remain the same. Identification with the hero in this manner costs the character a Confidence point, and thus is only possible for companions and magi. Simply identifying with the hero grants the character his first fable point, and thus a fable score of 1 (see Vitality in Faerie, earlier). This will prove useful in executing the functions of the hero. 
+An important aspect of embarking on this road is that of identification. The character or characters, as soon as they pass the Guardian of the Threshold, must declare themselves to be the hero they wish to emulate. By standing in faerie and stating clearly and unequivocally “I am Prince Ivan,” the character is infused with the glamour of Elysium, and becomes Prince Ivan. Every faerie he meets from that point on will treat him as Prince Ivan. His clothes and possessions will change to signify the identification, although he does not acquire any magical accouterments that are significant in the story about to be embarked upon, and all his Characteristics, Abilities, and so forth remain the same. Identification with the hero in this manner costs the character a Confidence point, and thus is only possible for companions and magi. Simply identifying with the hero grants the character his first fable point, and thus a fable score of 1 (see Vitality in Faerie, earlier). This will prove useful in executing the functions of the hero.
 
->## Hermetic Legends
-> 
+> ### Hermetic Legends
+>
 > Even the stories of the Order of Hermes have been witnessed in Elysium. Magi have reported taking part in Merinita's first meeting with Bonisagus, the First Tribunal, and the Tempest that ended the Schism War. However, witnessing and participating in such stories cannot reveal secrets, for the components of such legends are constituted from the reportage of those who participated and told the tale to other mortals. Thus, the fate of Tytalus when he disappeared into the Maddenhofen woods cannot be illuminated in Faerie, since there were no spectators to this event. Similarly, conflicting stories of the same event (such as the many confused retellings of the Schism War) are equally true in Elysium. And the appearance of the actors (who are of course faeries) conform to the preconceptions of the talespinners — the character of Bonisagus in a story from his own house has a very different appearance than the same character born of a Flambeau tale.
-> 
+>
 > Despite these limitations, Hermetic legends are still a popular topic among the few members of the Order who travel in Elysium. As most of these are members of House Merinita, that Founder is the most commonly witnessed. Those faerie magi who have conversed with an Elysian version of Merinita have come away with the distinct impression that their Founder is alive and well, and living in Faerie …
 
 If the character is not alone on his journey, then there are two options. Firstly, one character can take the role of the hero and be supported by the other characters. In this case the other characters are largely ignored by the inhabitants of Elysium. Any actions they perform to assist the hero in the completion of his tasks are assumed to originate from the hero. However, allowing other characters to overcome challenges on behalf of the hero means that he can never claim total victory for that scene. See later for more details of measuring success.
 
-The other way for multiple characters to take part in a Elysian story is for them to share the role of hero. Each must identify himself as the hero upon entering Elysium through a firm statement and the expenditure of a Confidence point. Following this, any of the identified characters can act in the role of the hero, but only one at a time. There must be some form of token — a sword, hat, cloak, or so forth — that the character currently taking the role of the hero must possess. The character who carries this token is treated as the hero. Even if the token is handed over in full view of a faerie, the faerie simply redirects his attention to the new character and seems not to notice the change in person. Note, however, that highly cognizant faeries (of which there are admittedly few in Elysium) recognize this change in role and may seek to prevent it, although will still accept it if it takes place. It is wise from a game management point of view to issue the players with a token as well (such as a stick or a hat), to indicate the current “owner” of the hero’s role. 
+The other way for multiple characters to take part in a Elysian story is for them to share the role of hero. Each must identify himself as the hero upon entering Elysium through a firm statement and the expenditure of a Confidence point. Following this, any of the identified characters can act in the role of the hero, but only one at a time. There must be some form of token — a sword, hat, cloak, or so forth — that the character currently taking the role of the hero must possess. The character who carries this token is treated as the hero. Even if the token is handed over in full view of a faerie, the faerie simply redirects his attention to the new character and seems not to notice the change in person. Note, however, that highly cognizant faeries (of which there are admittedly few in Elysium) recognize this change in role and may seek to prevent it, although will still accept it if it takes place. It is wise from a game management point of view to issue the players with a token as well (such as a stick or a hat), to indicate the current “owner” of the hero’s role.
 
 ### Elysian Stories
 
@@ -1599,18 +1648,18 @@ A story on the Path of Destiny is very different than most stories in **Ars Magi
 
 It is also usually the case that the players pick the story, rather than having it happen to them. Thus, there is no chance that the characters get the story wrong, end up in an inappropriate story, or fail to pursue the correct course of action through ignorance. A journey on the Path of Destiny must be carefully planned: first the story must be identified that relates the most appropriate theme to the insight required; then the characters must deliberately attract the Threshold to gain entry into Faerie; they must ensure that the Threshold is called using the most appropriate method to resonate with the story they desire; and they must then manipulate the events to ensure that the story is completed as planned. This is not to say that the story becomes purely player driven. The storyguide must still plan the particulars of each stage of the story, and then come up with ways that the characters can be confounded in their task.
 
->## Example of Elysian Story Creation
-> 
+> ### Example of Elysian Story Creation
+>
 > The characters in Andrea's saga are in desperate need of a source of particular vis to maintain a ritual to safeguard the covenant. They elect to go on an Elysian quest to uncover clues to its location. The story decided upon is that of Reynard the Fox, who is desperately seeking food. The story breaks down into the following scenes:
-> 
+>
 > **Scene 1:** Reynard raids the henhouse and catches Chantecler the cockerel, but is pursued by dogs. The cockerel escapes by appealing to Reynard's pride, making him open his mouth to speak. The characters must sneak into the henhouse and capture the vigilant chicken, then — ensuring that they have been spotted — let their prize go.
-> 
+>
 > **Scene 2:** Still hungry, Reynard encounters a titmouse, who he persuades to give him a kiss, hoping to get a juicy mouthful of bird. He is tricked by the titmouse into revealing his true nature. The characters must continue to evade the dogs, which is the real purpose of this act; since deliberately *failing* to eat a small bird is hardly a challenge.
-> 
+>
 > **Scene 3:** Reynard next encounters Tibalt the cat. Knowing where there is a snare trap, Reynard challenges Tibalt to a race, but fails three times to snare himself some supper. When the dogs from the henhouse incident catch up with Reynard, Tibalt trips him up and into the snare. Similarly to the previous challenge, deliberately losing a race is no fun. However, the storyguide decides that Tibalt fails to see the snare, and so the characters must prevent him from getting caught despite his own best efforts to do precisely that.
-> 
+>
 > **Scene 4:** Caught in the snare, the farmer has his hands on the thieving fox, and prepares to give him a beating. Once again, Reynard escapes using his sharp tongue. The challenge is two-fold here — endure the beating handed out by the farmer, and outwit him to secure escape.
-> 
+>
 > **Scene 5:** Finally, Reynard encounters Tiercelin the Raven, who has found some cheese. Reynard persuades Tiercelin to display his beautiful singing voice, thus he drops the cheese. Reynard finally gets to eat. Unfortunately for the characters, Tiercelin is unwilling to sing; he's wise to the fox's plan and will not be fooled in this manner. The characters must make him drop the cheese in a different manner.
 
 #### Planning Elysian Stories
@@ -1631,10 +1680,10 @@ Not all stories have sufficient scenes for the needs of a story. In such a situa
 
 The important part of an Elysian story is preserving the narrative of the original tale. Whether the characters are taking part in a well-known story and interacting with the characters, or whether they are following an allegorical reflection of a particular tale, each story element must be resolved in the manner of the underlying story for the characters to succeed in their quest. Sometimes it might appear that the story drifts from its original plan due to the meddling of the characters, and that there is a danger that matters will not resolve as they should. For example, in the story of Gawain and the Green Knight, the characters take the role of Gawain. In the original story, Gawain smote the head from the shoulders of the Green Knight. But what if the character playing Gawain misses, or refuses to make an attempt? To complete the story (and thus escape from the Faerie Realm) they must find a way to complete their objective, and bring the story back on track even if the exact circumstances are no longer applicable. In the above example, they must perhaps challenge the Green Knight again, and repeat the intervening quests — this certainly has more flair (and is mythically more appropriate) than simply taking another swing at the knight's neck. The characters are also more likely to succeed in bringing their story back on track if their actions to rectify it generate fable points, since they are obeying the dictates of the story when doing such actions.
 
->## A Twist to the Tale
-> 
+> ### A Twist to the Tale
+>
 > An interesting twist on the Elysian story is for the characters to adopt a role other than that of the hero. For most stories, the only appropriate dramatis personae other than the hero are the roles of villain and princess — the remaining minor roles do not offer sufficient scope for stories
-> 
+>
 > For example, in the story of Orpheus and Eurydice, the characters could take the role of Hades. They must ensure that Orpheus is sorely tested but succeeds, and also make sure that he looks back at just the right moment so that Eurydice is still lost to him.
 
 #### The Measure of Success
@@ -1682,41 +1731,41 @@ To create a Eudokian story, first decide on the theme of the journey on the Fork
 
 Like the story creation method described earlier for Arcadia, stories in Eudokia are composed of a number of elements. In Eudokian stories, each story element presents a choice between moving closer towards the theme or further away from it. The order in which the story elements occur is not as important as the choices made at each step. To assemble a Eudokian story, first pick a number of story elements — typically one per Story Experience point you intend to hand out. These story elements can be chosen purposefully or determined at random from the sections later on in this chapter, or derived from your own inspiration. However, you may find that random elements are more difficult to integrate into a Eudokian story, which is so tied to a specific theme. Each story element presents a dilemma, and the story element cannot be abandoned until a choice is made. There may be more than two options deriving from each element, but only one choice is in concordance with the theme of the journey.
 
->## Example Story Themes, and Virtues & Flaws
-> 
+> ### Example Story Themes, and Virtues & Flaws
+>
 > **Theme:** Courage
-> 
+>
 > **Situation:** Eve of Battle
-> 
+>
 > **Virtue:** Tough
-> 
+>
 > **Flaw:** Fear
-> 
-> 
+>
+>
 > **Theme:** Fertility
-> 
+>
 > **Situation:** Marriage
-> 
+>
 > **Virtue:** Benediction (unusually fecund)
-> 
+>
 > **Flaw:** Malediction (sterility)
-> 
-> 
+>
+>
 > **Theme:** Magic
-> 
+>
 > **Situation:** End of Hermetic Apprenticeship
-> 
+>
 > **Virtue:** Cautious Sorcerer
-> 
+>
 > **Flaw:** Careless Sorcerer
-> 
-> 
+>
+>
 > **Theme:** Skill
-> 
+>
 > **Situation:** End of Craft Apprenticeship
-> 
+>
 > **Virtue:** Puissant Craft
-> 
+>
 > **Flaw:** Clumsy
 
 The target for "success" on a Eudokian journey is to make over half of the right decisions. If the characters reach this target prior to encountering all of the story elements, then the characters meet a Threshold faerie who sends them home. Otherwise, the characters meet the Threshold faerie after they have encountered all the story elements.
@@ -1733,18 +1782,18 @@ If the character made more correct choices than incorrect choices, then he acqui
 
 However, if the character made more incorrect choices than correct choices, then he acquires a Flaw. If all the choices took him further away from the goal, then this Flaw is Major, else it is a Minor Flaw. These Flaws are not balanced with a Virtue, but they fade with time; the character bears the Flaw for an amount of time equal to the time that passed while the character was in Faerie.
 
-> # Example of Eudokian Story Creation
-> 
+> ### Example of Eudokian Story Creation
+>
 > Andrea (the storyguide) is planning a story for Eudokia. The magi in her saga are about to embark on a campaign to exterminate a magical threat to the Order, and she wants to test their commitment to the cause. The theme for this story is Resolve. She randomly chooses five story elements, and constructs from these the following tests.
-> 
+>
 > **An Ancient Wall:** The first story element is a physical barrier to the characters, and Andrea decides it will double as the Guardian of the Threshold. If they cannot surmount the wall, then they cannot even enter Eudokia. The Ease Factors for Athletic rolls get tougher as one gets higher. Magic can easily bypass the wall's barrier, but the wall remains unclimbed — every other act in this story is preceded by having to climb the wall until it is climbed properly.
-> 
+>
 > **The Empty Forest:** Beyond the wall is a forest, the villain. The trees resent the presence of animals and has scared them away — after all, plants were created before mere animals (this mirrors the magical threat as an older tradition than the "upstart" Order). The Empty Forest is seemingly endless, but with enough perseverance against the vegetative foes raised against them, the characters will eventually meet ...
-> 
+>
 > **The Leafy Counselor:** A tree that is at odds with its fellows (does this hint at a potential ally in the rival tradition?). The Counselor wants to help, but must be convinced to betray its leaf-mates (the Counselor acts as the Donor here) through a series of tasks. One of these tasks introduces them to ...
-> 
+>
 > **The Son of the Coin:** A mercenary, who, as the False Hero, intends to incarcerate the characters and steal any honor they have in the eyes of the ruler of this realm. The characters are transferred to a distant place, and they must win their way back to the court of ...
-> 
+>
 > **The Dying Lady:** An ancient ash tree, that has suffered animal attacks (she has serpents gnawing at her roots, deer stripping her bark, and squirrels stealing her seeds), and is the source of the forest's antagonism. She offers them a simple choice — either one character can return to the mundane realm, and win against the foe; or else all can return and they are sure to lose. Are they willing to sacrifice everything for victory?
 
 ## Story Elements
@@ -1755,10 +1804,8 @@ The adventures that take place in the Faerie Realm are made up of story elements
 
 A descriptive paragraph.
 
-**Path of Chance:** The literal interpretation of the story element, as most commonly discovered in Arcadia. Each story element has a link to the previous or next one.
-
-**Path of Destiny:** The mythological or metaphysical interpretation of he story element, as found along the many roads of Elysium.
-
+**Path of Chance:** The literal interpretation of the story element, as most commonly discovered in Arcadia. Each story element has a link to the previous or next one. <br>
+**Path of Destiny:** The mythological or metaphysical interpretation of he story element, as found along the many roads of Elysium. <br>
 **Forking Path:** The figurative interpretation of the story element, leading to one of two (or more) choices.
 
 The story elements have been divided into three separate categories — Actors, Props, and Scenery. Any element in one of these three categories can take one of the roles described later (see Chapter 7: Telling Faerie Stories, Dramatis Personae), and/or become involved in one or more of the scenes (see Chapter 7: Telling Faerie Stories, Acts).
@@ -1771,56 +1818,46 @@ The people of Faerie are the actors in its stories — protagonists, antagonists
 
 A man whose clothing (or skin) is partly colored; his right side is white and his left side is black. Sometimes his sleeves, gloves, or footwear are counter-changed. He carries a musical instrument — pipes, or sometimes a harp.
 
-**Path of Chance:** As his pied clothing suggests, the man is a magpie — both a thief and an entertainer.
-
-**Path of Destiny:** The two halves are a façade; the Pied Stranger uses his music to steal, and he's after something in particular.
-
+**Path of Chance:** As his pied clothing suggests, the man is a magpie — both a thief and an entertainer. <br>
+**Path of Destiny:** The two halves are a façade; the Pied Stranger uses his music to steal, and he's after something in particular. <br>
 **Forking Path:** His pied clothing echoes the choice: either to entertain the crowds, or to exploit them. The minstrel earns his money, whereas the thief takes it.
 
 #### Grateful Lions
 
 Two lions, indistinguishable from each other. They are impressive and fearsome creatures, but are as playful as kittens, and friendly. They have the ability to speak, and ask for assistance in a minor task (such as removing a thorn, or rescuing their son from a pit). Alternatively, this could be any predatory animal.
 
-**Path of Chance:** The lions offer friendship and aid.
-
-**Path of Destiny:** The questers must rescue the lions from peril to ensure that their help is bought for a later part of the quest.
-
+**Path of Chance:** The lions offer friendship and aid. <br>
+**Path of Destiny:** The questers must rescue the lions from peril to ensure that their help is bought for a later part of the quest. <br>
 **Forking Path:** Not everything that is frightening is actually a cause for fear. Refusing the help of the lions will hurt their feelings, but characters might be too suspicious of ulterior motives to take what is offered freely.
 
 #### The Captive Princess
 
 A beautiful maiden imprisoned in a tower, pit, or dungeon. An essential companion actor is her guard — typically an ogre, a dragon, or a hedge of thorns. Her parents have placed her in this situation, for complex reasons of their own.
 
-**Path of Chance:** This is a straightforward rescue mission.
-
-**Path of Destiny:** The obstacles must be overcome and the princess rescued in precisely the right manner. Alternatively, the quester could be the princess, or the guard who must fail to stop the hero.
-
+**Path of Chance:** This is a straightforward rescue mission. <br>
+**Path of Destiny:** The obstacles must be overcome and the princess rescued in precisely the right manner. Alternatively, the quester could be the princess, or the guard who must fail to stop the hero. <br>
 **Forking Path:** Have the characters stopped to think as to why the princess is imprisoned? Perhaps there is a very good reason. Alternatively, this could be a test of obedience — is it not a father's right to dispose of his children as he sees fit?
 
 #### The Task-Setting Ogre
 
 A hideous giant, vastly bigger and/or more powerful than the characters, who forces them to perform seemingly impossible tasks under threat of violence. Such tasks might include: sorting barley from wheat in a mixed vat; cutting down a forest in a single day; filling a bucket with a sieve; eating more than a wildfire can consume; or catching a magical horse. Alternatively, the ogre could be any fierce monster, such as a dragon or a manticore.
 
-**Path of Chance:** The duty of the captive is to escape from bondage, coupled with possibly slaying his imprisoner.
-
-**Path of Destiny:** Each task must be completed, perhaps with the assistance of the ogre's daughter. The quester can thus escape from bondage.
-
+**Path of Chance:** The duty of the captive is to escape from bondage, coupled with possibly slaying his imprisoner. <br>
+**Path of Destiny:** Each task must be completed, perhaps with the assistance of the ogre's daughter. The quester can thus escape from bondage. <br>
 **Forking Path:** Are the characters so arrogant that they cannot admit that some tasks are meant to be impossible?
 
 #### The Mouse-Groom
 
 A tiny mouse, easily overlooked. He can talk, and takes a fancy to a female character, courting her with gifts and poetry. Alternatively, the mouse could be a different animal (such as a cat or frog), or a monster. Or the mouse could be a bride rather than a groom.
 
-**Path of Chance:** The Mouse-Groom is a distraction, nothing more. His devotion can be exploited by a canny group, as he is deft at creeping into small places, or stealing small objects.
-
-**Path of Destiny:** The Mouse-Groom offers to help in some difficult task, but in return he asks to marry a female character. At the completion of the task, the groom must be successfully transformed into human form through the actions of the characters.
-
+**Path of Chance:** The Mouse-Groom is a distraction, nothing more. His devotion can be exploited by a canny group, as he is deft at creeping into small places, or stealing small objects. <br>
+**Path of Destiny:** The Mouse-Groom offers to help in some difficult task, but in return he asks to marry a female character. At the completion of the task, the groom must be successfully transformed into human form through the actions of the characters. <br>
 **Forking Path:** The character might expect a transformation in her groom, and be disappointed — sometimes a mouse is just a mouse. Does she still honor her promise?
 
->## Further Ideas for Actor Story Elements
-> 
+> ### Further Ideas for Actor Story Elements
+>
 > Other ideas include:
-> 
+>
 > - The Cruel Stepmother
 > - The Queen of Otters
 > - The Green Knight
@@ -1831,20 +1868,16 @@ A tiny mouse, easily overlooked. He can talk, and takes a fancy to a female char
 
 A man in a gray cloak, his face hidden by a hood or a hat. He stands in a low skiff on the shore, a punting pole in his hand. The skiff is just big enough to carry the characters across the lake or river. Alternatively, the ferryman transports them in a different manner, such as by carrying them. The ferryman may also be a guardian of another threshold, such as a bridge or a doorway.
 
-**Path of Chance:** The ferryman must be persuaded to carry the characters across; they are not of a type that he usually transports (that is, they are alive, or humans, or so forth). There is no other safe way to cross.
-
-**Path of Destiny:** The ferryman is a king in disguise, and he must work as a ferryman until the one whom he is waiting for comes. He transports many interesting and dangerous passengers until that day comes. When the special passenger arrives, the ferryman must ensure he does not reach the other side, or else obey his every command.
-
+**Path of Chance:** The ferryman must be persuaded to carry the characters across; they are not of a type that he usually transports (that is, they are alive, or humans, or so forth). There is no other safe way to cross. <br>
+**Path of Destiny:** The ferryman is a king in disguise, and he must work as a ferryman until the one whom he is waiting for comes. He transports many interesting and dangerous passengers until that day comes. When the special passenger arrives, the ferryman must ensure he does not reach the other side, or else obey his every command. <br>
 **Forking Path:** What is on the other side? Is it worth paying the price asked by the ferryman? Is it best to be content with what one has got rather than to wish for a future that may not arrive?
 
 #### The Pale Man
 
 An emaciated man with taut gray skin, red eyes, and prominent teeth. He is dressed in a burial shroud. The man is a vampire, who feeds on the living. Alternatively, the Pale Man is a woman.
 
-**Path of Chance:** The vampire is a ravaging monster who eats corpses and craves blood. Since he is already dead, he is difficult to defeat. Those who he has consumed alive can be rescued from his belly.
-
-**Path of Destiny:** The man is Death, or, at least, a death. He is a guide to the recently departed, who must be tricked into passing over his victim, or taking someone else instead.
-
+**Path of Chance:** The vampire is a ravaging monster who eats corpses and craves blood. Since he is already dead, he is difficult to defeat. Those who he has consumed alive can be rescued from his belly. <br>
+**Path of Destiny:** The man is Death, or, at least, a death. He is a guide to the recently departed, who must be tricked into passing over his victim, or taking someone else instead. <br>
 **Forking Path:** Does the man represent death, or the refusal to accept that one has died? The Pale Man can assist in grief, since he demonstrates that there are worse alternatives to dying.
 
 ### Props
@@ -1855,26 +1888,22 @@ In this category are all inanimate objects, although this does not make them les
 
 A luscious fruit, half of it bathed in a horrible poison, half of it sweet and delicious. There is no magical way to determine the difference; one either knows or one does not. This prop typically occurs in a situation where it must be shared with another.
 
-**Path of Chance:** A random chance; does the character eat from the poisoned side or the safe side?
-
-**Path of Destiny:** The quester must either persuade another to eat of the poisoned side, or do so himself.
-
+**Path of Chance:** A random chance; does the character eat from the poisoned side or the safe side? <br>
+**Path of Destiny:** The quester must either persuade another to eat of the poisoned side, or do so himself. <br>
 **Forking Path:** Self-sacrifice or deliberate poisoning? Is it better to allow evil to live, or to commit evil in killing it?
 
 #### Mjollnir
 
 The hammer of the mighty Thor — a thunderbolt imprisoned in iron. It was designed as a war hammer but its handle is a little short, subtracting 2 from both Attack and Defense scores. A successful hit inflicts +30 damage from the lightning imprisoned within it, as well as normal weapon damage. The penetration of the lightning is equal to the Might of the wielder; for a magus, use his Auram score.
 
-**Path of Chance:** Who would not want to smite giants with Thor's hammer?
-
-**Path of Destiny:** The characters may be enacting Mjollnir's forging, its theft by the giants, or its retrieval from said giants.
-
+**Path of Chance:** Who would not want to smite giants with Thor's hammer? <br>
+**Path of Destiny:** The characters may be enacting Mjollnir's forging, its theft by the giants, or its retrieval from said giants. <br>
 **Forking Path:** Finding Mjollnir creates a dilemma — it is a mighty weapon, but if it is not returned to Thor, then mankind's defense against the powers of winter and frost is deprived of his power.
 
->## Further Ideas for Prop Story Elements
-> 
+> ### Further Ideas for Prop Story Elements
+>
 > Some more ideas include:
-> 
+>
 > - The Soul in the Egg
 > - The Magic Ring
 > - The Self-Filling Purse
@@ -1886,40 +1915,32 @@ The hammer of the mighty Thor — a thunderbolt imprisoned in iron. It was desig
 
 When first encountered, this prop will be in the possession of the dragon, although the beast may already be dead.
 
-**Path of Chance:** Eating the tongue of a dragon is said to grant magical powers, such as the ability to speak with animals. It is not always a good thing to know what creatures are saying about you, however.
-
-**Path of Destiny:** The heroes kill the dragon, and cut out its tongue as proof of their deed. An impostor cuts off the head from the corpse, which he later seeks to use as his own proof.
-
+**Path of Chance:** Eating the tongue of a dragon is said to grant magical powers, such as the ability to speak with animals. It is not always a good thing to know what creatures are saying about you, however. <br>
+**Path of Destiny:** The heroes kill the dragon, and cut out its tongue as proof of their deed. An impostor cuts off the head from the corpse, which he later seeks to use as his own proof. <br>
 **Forking Path:** The tongue symbolizes humility for one's abilities, whereas the dragon's head is a symbol of vainglory.
 
 #### The Swan Cloak
 
 A maiden owns a cloak of white feathers that causes her to take her true form, that of a swan. Alternatively, the prop is a different item of clothing, such as a hat or girdle. Alternatively, the cloak transforms the wearer into another animal, such as a seal or a wolf.
 
-**Path of Chance:** Stealing the cloak from the maiden allows the wearer to transform like she does. 
-
-**Path of Destiny:** A hero hides the cloak so that the maiden will remain in human form and wed him. When she finds the cloak again, she flees him, and he must quest to win her love for real.
-
+**Path of Chance:** Stealing the cloak from the maiden allows the wearer to transform like she does.  <br>
+**Path of Destiny:** A hero hides the cloak so that the maiden will remain in human form and wed him. When she finds the cloak again, she flees him, and he must quest to win her love for real. <br>
 **Forking Path:** Hiding the cloak from the maiden ransoms her heart. Letting her choose between her love and her swan cloak is a truer expression of love.
 
 #### The Dull Knife
 
 An unremarkable blade, of crude manufacture. Its blade is so dull it can barely cut butter. Alternatively, this could be any tool that is unable to perform its function due to a defect.
 
-**Path of Chance:** In the contradictory way of Faerie, sometimes the dullest knife in the world is the only thing that can cut the uncuttable.
-
-**Path of Destiny:** The knife becomes rusty to indicate when another is in peril. At such a signal, the quester must ride to rescue his partner.
-
+**Path of Chance:** In the contradictory way of Faerie, sometimes the dullest knife in the world is the only thing that can cut the uncuttable. <br>
+**Path of Destiny:** The knife becomes rusty to indicate when another is in peril. At such a signal, the quester must ride to rescue his partner. <br>
 **Forking Path:** As a gift, the Dull Knife is useless. Should this be interpreted as an insult on the part of the giver, or will the character accept it with grace?
 
 #### Snake Soup
 
 A bubbling cauldron of brown-gray liquid, with suspicious-looking meat and unknown vegetables. Alternatively, a green fluid in a bottle, or a knobbly fruit with red spots.
 
-**Path of Chance:** Suspicion over the safety of the soup might cause the characters to miss out on the magical powers it grants, or else save them from a horrible curse.
-
-**Path of Destiny:** The soup is served to her dinner guests by a crone, who gives her son the choicest portion with the meat of three white snakes. When eaten, they grant supernatural strength and resilience. The questers must ensure that they receive the magical portion, not the witch's son.
-
+**Path of Chance:** Suspicion over the safety of the soup might cause the characters to miss out on the magical powers it grants, or else save them from a horrible curse. <br>
+**Path of Destiny:** The soup is served to her dinner guests by a crone, who gives her son the choicest portion with the meat of three white snakes. When eaten, they grant supernatural strength and resilience. The questers must ensure that they receive the magical portion, not the witch's son. <br>
 **Forking Path:** It's all a matter of trust. What looks foul and unappetizing might be beneficial, but again it might also be exactly as it appears — disease-ridden swamp water.
 
 ### Scenery
@@ -1930,26 +1951,22 @@ The scenery should not be neglected as a story element. In the Faerie Realm, the
 
 Rough-built stalls line both sides of the two intersecting roads. Each stall displays the wares of the vendors, from the mundane to the fantastic. The market may be thronging with browsing customers, or else it might be eerily empty. The stalls, vendors, and other customers are all equally part of the scenery, although the characters may meet one or more actor story elements here, or they could be here to obtain a prop element.
 
-**Path of Chance:** An opportunity to spend one's hard-earned cash, but let the buyer beware! Faerie vendors rarely require silver in exchange for their goods; and that which is purchased is not always what it seems.
-
-**Path of Destiny:** The characters must obtain a specific item. Are they able to locate the vendor, and are they willing to pay the price demanded of them?
-
+**Path of Chance:** An opportunity to spend one's hard-earned cash, but let the buyer beware! Faerie vendors rarely require silver in exchange for their goods; and that which is purchased is not always what it seems. <br>
+**Path of Destiny:** The characters must obtain a specific item. Are they able to locate the vendor, and are they willing to pay the price demanded of them? <br>
 **Forking Path:** The dilemma of the market is that the vendor wants the highest price he can get for his wares, while the buyer wants it as cheaply as possible. A fair deal leaves both satisfied. But an unfair deal will leave the buyer bilked or the vendor cheated.
 
 #### Winter
 
 Snow covers the ground, rime-frost coats every surface, and icicles depend from horizontal surfaces. The breath steams in the frigid air, and the heat is sapped from the body.
 
-**Path of Chance:** Winter is a passive guardian for the snow-bound castle, or a prison for those within. It is a challenge to be met, and overcome.
-
-**Path of Destiny:** Winter represents sterility and patience. Nothing grows and nature holds its breath before the promise of spring. It serves as a pause before the action, the lull before the storm. In the winter, the wicked queen ruled supreme, Demeter ceased her search for her daughter, and the men were softened for Ragnarok.
-
+**Path of Chance:** Winter is a passive guardian for the snow-bound castle, or a prison for those within. It is a challenge to be met, and overcome. <br>
+**Path of Destiny:** Winter represents sterility and patience. Nothing grows and nature holds its breath before the promise of spring. It serves as a pause before the action, the lull before the storm. In the winter, the wicked queen ruled supreme, Demeter ceased her search for her daughter, and the men were softened for Ragnarok. <br>
 **Forking Path:** Many rail against the chill of winter with fire and furs, but is it a fight that can be won? Perhaps it is better instead to submit to the inevitability of nature.
 
-> # Further Ideas for Scenery Story Elements
-> 
+> ### Further Ideas for Scenery Story Elements
+>
 > Consider these ideas, as well:
-> 
+>
 > - Spring
 > - Autumn
 > - Beneath the Sea
@@ -1959,56 +1976,48 @@ Snow covers the ground, rime-frost coats every surface, and icicles depend from 
 
 There is a room in a castle that everyone is forbidden from entering. It has an immensely strong door but no lock. On occasion, strange noises are heard from behind the door. Alternatively, it could be locked, and the key held by the castle's owner. Or, the chamber could instead be a chest, or a question that must not be asked.
 
-**Path of Chance:** The room contains either fabulous treasure or a hideous secret. Disobedience might be signified by a transformation in the interloper, or the sounding of an alarm.
-
-**Path of Destiny:** The inevitability of getting into the forbidden chamber is central to the quest. This may require the quester to obtain the key from its owner. The characters may not like what they find inside.
-
+**Path of Chance:** The room contains either fabulous treasure or a hideous secret. Disobedience might be signified by a transformation in the interloper, or the sounding of an alarm. <br>
+**Path of Destiny:** The inevitability of getting into the forbidden chamber is central to the quest. This may require the quester to obtain the key from its owner. The characters may not like what they find inside. <br>
 **Forking Path:** This is a simple choice between curiosity and obedience. It may be made harder if cries for help are heard from beyond the door. If curiosity is not stronger, then perhaps chivalry is.
 
 #### Summer
 
 The sun shines bright on a green and pleasant land. Plants are at the height of growth, and animals are well fed and content. Bees drone among the flowers, and the air is still and fragrant.
 
-**Path of Chance:** In the Summerlands pies and sweetmeats grow on trees, the rivers run with mead and milk, and every need is catered to. It is a respite from hardship, and also a trap for the self-indulgent. 
-
-**Path of Destiny:** Summer is symbolic of bounteous times, of incipient action, and of vigor. It is in the Lands of Summer where one is forever young.
-
+**Path of Chance:** In the Summerlands pies and sweetmeats grow on trees, the rivers run with mead and milk, and every need is catered to. It is a respite from hardship, and also a trap for the self-indulgent.  <br>
+**Path of Destiny:** Summer is symbolic of bounteous times, of incipient action, and of vigor. It is in the Lands of Summer where one is forever young. <br>
 **Forking Path:** The luxury of summer lulls one to sloth, but it is a season of action and adventure. Does one take a muchneeded rest, or spurn the seduction?
 
 #### The Glass Mountain
 
 A towering edifice of green glass as big as a hill. The glass is perfectly smooth, as if melted in place. At its summit is a castle — the destination of the characters. Birds of immense size circle the castle, watching for climbers upon which to drop rocks. Alternatively, the mountain may be made of ice, or guarded by snakes. Or, the summit might bear a tree with magical fruit, or the well of wisdom.
 
-**Path of Chance:** An obstacle to test the ingenuity of the characters. They can try chipping out handholds, or dipping their shoes in tar, or perhaps circumvent the glass entirely by flying to the top.
-
-**Path of Destiny:** The mountain must be attempted three times, each time assisted by a different magical animal. Only the third attempt is successful.
-
+**Path of Chance:** An obstacle to test the ingenuity of the characters. They can try chipping out handholds, or dipping their shoes in tar, or perhaps circumvent the glass entirely by flying to the top. <br>
+**Path of Destiny:** The mountain must be attempted three times, each time assisted by a different magical animal. Only the third attempt is successful. <br>
 **Forking Path:** How quickly do the characters give up trying to scale the mountain? Perseverance is the lesson here. If one tirelessly strives for one's goals, there is nothing that cannot be achieved.
 
 #### The Perilous Forest
 
 A dark and foreboding wood, where little light reaches through the canopy. Strange noises haunt the forest, along with half-seen, swiftly moving shapes. Alternatively, the trees could be dead, and all sounds are swallowed.
 
-**Path of Chance:** A forest can hide all sorts of ne'er-do-wells, mysterious hermits, magical trees, and fierce beasts.
-
-**Path of Destiny:** The traditional abode of the hag, the Ironwood is filled with her wolfish children.
-
+**Path of Chance:** A forest can hide all sorts of ne'er-do-wells, mysterious hermits, magical trees, and fierce beasts. <br>
+**Path of Destiny:** The traditional abode of the hag, the Ironwood is filled with her wolfish children. <br>
 **Forking Path:** They say there is nothing to fear except fear itself. How true is that when one is lost among demonic-looking shadows and sharp-fanged critters?
 
 #### The Abandoned Shrine
 
 In the midst of a tangle of undergrowth, a single standing stone is found, carved with strange glyphs and leering faces. Circles carved into the ground hold traces of dried blood. Alternatively, the shrine could be found in a deep pit, or in a deserted town.
 
-**Path of Chance:** This is the place for the villain to hold his showdown, or for the priest to be forced to yield his faerie powers.
+**Path of Chance:** This is the place for the villain to hold his showdown, or for the priest to be forced to yield his faerie powers. <br>
+**Path of Destiny:** The blood of an innocent will wake the god who slumbers in the shrine. <br>
+**Forking Path:** Is it fair to let gods die? A powerful faerie who has protected his human worshipers for millennia risks death because his worship is considered idolatrous.
 
-**Path of Destiny:** The blood of an innocent will wake the god who slumbers in the shrine. **Forking Path**: Is it fair to let gods die? A powerful faerie who has protected his human worshipers for millennia risks death because his worship is considered idolatrous.
-
->## Ten Thousand More Story Elements
-> 
+> ### Ten Thousand More Story Elements
+>
 > Choose a descriptor and an object from the following two lists; or else roll two simple dice, once for each list.
-> 
->### DESCRIPTORS
-> 
+>
+> #### Descriptors
+>
 > | Second Die | 1 on First Die | 2 on First Die | 3 on First Die | 4 on First Die | 5 on First Die | 6 on First Die | 7 on First Die | 8 on First Die | 9 on First Die | 10 on First Die |
 > |------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|-----------------|
 > | 1          | Green          | Iron           | Twin           | Howling        | Maker of       | Winged         | Sharp          | Farthest       | Fatal          | Sleepy          |
@@ -2021,9 +2030,9 @@ In the midst of a tangle of undergrowth, a single standing stone is found, carve
 > | 8          | Murky          | Wooden         | Broken         | Dreaded        | Parent of      | Strange        | Gentle         | Smallest       | Beautiful      | Impossible      |
 > | 9          | Blue           | Stone          | Empty          | Passionate     | Cousin of      | Scrawny        | Sour           | Fiercest       | Repulsive      | Motionless      |
 > | 10         | Invisible      | Makeshift      | Flat           | Dying          | Protector of   | Corpulent      | Floral         | Bravest        | Terrible       | Stormy          |
-> 
->### OBJECTS
-> 
+>
+> #### Objects
+>
 > | Second Die | 1 on First Die | 2 on First Die | 3 on First Die | 4 on First Die | 5 on First Die | 6 on First Die | 7 on First Die | 8 on First Die | 9 on First Die | 10 on First Die |
 > |------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|-----------------|
 > | 1          | Queen          | Fox            | Eagle          | Drum           | Knife          | Acorn          | Child          | Mason          | Summer         | Fort            |
@@ -2089,20 +2098,20 @@ A character must have a Might score, a physical form, a level of cognizance, a S
 
 Player characters begin with a Faerie Might score of 5, which may be varied by selecting appropriate Virtues or Flaws during character creation. The Might Score of a faerie represents its spiritual strength. The more powerful a faerie is spiritually, the greater the likelihood that it is at the center of stories, and that other faeries act as its servants. Better roles in stories tend to be claimed by the mightiest faeries.
 
->## Quick Start Guideline
-> 
+> ### Quick Start Guideline
+>
 > The quickest way to get through the new options in this character creation process is to select a faerie that replaces a beginning companion, can pass for human, has a Faerie Might of 10, and follows the stereotypical role of its faerie type. This results in the following:
-> 
->### 7 Points of Characteristics
-> 
+>
+> **7 Points of Characteristics**
+>
 > **360 Points of Pretences:** Spend them exactly like Ability points. Faeries don't need Virtues to get any Pretence (Ability).
-> 
+>
 > **Virtues:** Faerie Sight, Humanoid Form, Increased Faerie Might. Each is a Minor Virtue.
-> 
+>
 > **Free Choices:** Passes for Human, Narrowly Cognizant.
-> 
+>
 > **Flaws:** Traditional Ward (whatever you like). This minor Flaw means that the character is made uncomfortable by the presence of whatever the ward is, and cannot touch someone who has the ward, either personally, with the faerie's equipment, or by using a power. Contact with the ward will burn the faerie. The faerie cannot regenerate Might in the presence of the ward.
-> 
+>
 > Before play, balance up the Virtues and Flaws, paying attention to the Inappropriate Virtues and Flaws section. Skim the introductory text to each section, but pay particular attention to the powers of the faerie body. Read the detail of the Virtues and Flaws selected above. Select some Greater Powers if you like. They are based on a Major Virtue and allow your character to affect others mystically. Faerie Speech may prove especially useful if your faerie interacts with characters who speak a diversity of languages.
 
 This observation is, however, not useful for determining the Might of particular faeries. Faeries that have interacted regularly for hundreds of years with humans may have very high Might scores, and yet remain interested primarily in domestic stories. It is generally true that the queen of a faerie court has a high Might, and a household brownie a low Might, but there are individual faerie queens that have Might scores of 10, and a few brownie-like creatures have Might scores of 45. Faeries usually contain more vis if they have greater Might, so these tiny, magically resistant faeries are particularly valued by magi as prey.
@@ -2119,7 +2128,9 @@ Some virtues alter the rate at which faeries recover after using their powers. H
 
 This Virtue allows faeries to recover spent Might in a quarter of the normal time. Instead of completely refreshing its Might over the course of 24 hours, the character restores its entire Might Pool in only six hours.
 
-##### Feast of the Fae Minor, Supernatural
+##### Feast of the Fae
+
+*Minor, Supernatural*
 
 This Virtue allows a faerie to recover 5 lost Might by receiving traditional sacrifices left from a human. Sacrifices include food left on doorsteps for the faerie to consume, but some dark faeries feed on the wards left to keep them at bay, accepting them as the price that humans pay for safety. This power can only be used once per day.
 
@@ -2185,7 +2196,7 @@ A faerie does not suffer Encumbrance for pieces of equipment traditional for the
 
 The bodies of faeries are often damaged, but they consider that insignificant. A faerie may be required by its role to feel pain, or simulate it in the case of highly cognizant faeries, but pain isn't meaningful to most faeries. They do not associate their pain with suffering in the way humans do. Some faeries report, how truthfully cannot be known, that when the Summer and Winter Courts make war upon the Equinox, the knights often chop each other to pieces. Once the battle has been won, they cease pretending to be human for long enough to reassemble themselves, then resume their roles and feast. If a human witness were present, this would not be possible: the bodies of the faeries would have to remain dead to suit their role. One of the faeries present often has a role that allows it to bring faeries back from the dead, if this occurs.
 
->## Scale of Typical Might Scores
+> ### Scale of Typical Might Scores
 >
 > The typical Might Scores in this table refer to creatures in Chapter 4: Faerie Bestiary.
 >
@@ -2262,41 +2273,39 @@ To design an immaterial faerie, instead design the characteristics for the physi
 
 Players of humanoid characters select a size from the following options. Characters outside the range of Size +2 to –3 are difficult to accommodate in sagas, and should be carefully scrutinized by the Troupe.
 
-**Modifier:** +3 or more
-
-**Size:** Huge
-
+**Modifier:** +3 or more <br>
+**Size:** Huge <br>
 **Must Select:** (Size–1) times +(2 x Size) Strength, –(Size) Quickness
 
-**Modifier:** +2 **Size:** Huge
-
+**Modifier:** +2 <br>
+**Size:** Huge <br>
 **Must Select:** +4 Strength, –2 Quickness
 
-**Modifier:** +1 **Size:** Large
-
+**Modifier:** +1 <br>
+**Size:** Large <br>
 **Must Select:** Characteristics aren't adjusted
 
-**Modifier:** 0 **Size:** None
-
+**Modifier:** 0 <br>
+**Size:** None <br>
 **Must Select:** Characteristics aren't adjusted
 
-**Modifier:** –1 **Size:** Small Frame
-
+**Modifier:** –1 <br>
+**Size:** Small Frame <br>
 **Must Select:** Characteristics aren't adjusted
 
-**Modifier:** –2 or –3 **Size:** Little
-
+**Modifier:** –2 or –3 <br>
+**Size:** Little <br>
 **Must Select:** –(2 x Size) Strength, +(Size) Quickness
 
-**Modifier:** –4 or more **Size:** select Little twice
-
+**Modifier:** –4 or more <br>
+**Size:** select Little twice <br>
 **Must Select:** –(2 x Size) Strength, +(Size) Quickness
 
 Faeries may not have flaws like Dwarf or Giant Blood, which are for mortals whose bodies are structured slightly differently from those of other humans. Faerie bodies only pretend to follow the mechanical principles of organic life.
 
-Nonhuman characters that have a base Size other than zero do not usually select Virtues and Flaws on the table above. An adjustment for the Size of creatures is, for example, contained within the rules for creating mundane animals given in *House of Hermes: Mystery Cults*, and has been invisibly included in the "Book of Mundane Beasts" in *Realms of Power: Magic*. A similar adjustment is found in the rules for objects as player characters given in *Realms of Power: Magic*. Characters deviating from their base size by 1 do not change Characteristics, but those deviating by more than 1 are adjusted as indicated by the table above.
+Nonhuman characters that have a base Size other than zero do not usually select Virtues and Flaws on the table above. An adjustment for the Size of creatures is, for example, contained within the rules for creating mundane animals given in *Houses of Hermes: Mystery Cults*, and has been invisibly included in the "Book of Mundane Beasts" in *Realms of Power: Magic*. A similar adjustment is found in the rules for objects as player characters given in *Realms of Power: Magic*. Characters deviating from their base size by 1 do not change Characteristics, but those deviating by more than 1 are adjusted as indicated by the table above.
 
->## What Do Size Scores Represent?
+> ### What Do Size Scores Represent?
 >
 > | Size | Height | Weight | Comparison | Wound Penalties |
 > |------|--------|--------|------------|-----------------|
@@ -2355,7 +2364,7 @@ As an example, a faerie warrior with a Might of 20 uses his sword as his spiritu
 
 The character appears to be an animal. It has all of the advantages of being a faerie, and having a faerie body. The innate limitations of an animal form, such as having no hands and being unable to pronounce human words, may not be taken as Flaws. Faerie beasts that wish to speak like humans may take Language Pretenses, or the Faerie Speech Virtue.
 
-#### Faerie Sight
+##### Faerie Sight
 
 *Minor Virtue, Supernatural*
 
@@ -2514,8 +2523,8 @@ An Infiltrator is a faerie who, during most stories, lives as if he were a human
 
 The concept of cognizance is described in detail in Chapter 1: Nature of Faerie. Cognizance is significant when designing faeries for two reasons. The character's cognizance may influence his goals during the story: he may seek vitality in a way that allows him to change roles. The faerie's cognizance also limits the faerie's potential to develop new powers during the course of a story or saga. Characters of low cognizance do not consciously attempt to improve their statistics during the saga. Those of middling cognizance may transform predictably into a more powerful being. Those of high cognizance are the most flexible, and might change roles between scenes in stories, with the assistance of a human, as described later.
 
->## Unspecialized Role
-> 
+> ### Unspecialized Role
+>
 > Faeries do not require the Virtues that allow characters to have Martial, Arcane, or Academic Abilities to have Pretenses for them. These Abilities tend to be used by skilled professionals, and faeries attempting to use these pretences in military camps or universities are rapidly detected as fraudulent and supernatural.
 
 #### Virtues and Flaws Concerning Cognizance
@@ -2658,7 +2667,7 @@ Any spell levels that are left over may converted into intricacy points, with 5 
 
 *Minor Virtue, Supernatural*
 
-The character has spell-like powers, which are designed at character creation like formulaic spells. Each effect's Might Point cost is equal to the magnitude of the effect. The initiative of the power is equal to Quickness – (2 x Magintude).
+The character has spell-like powers, which are designed at character creation like formulaic spells. Taking this Virtue gives the character 25 spell levels to spend on these powers, and this Virtue may be selected repeatedly, to allow effects of higher level. Each effect's Might Point cost is equal to the magnitude of the effect. The initiative of the power is equal to Quickness – (2 x Magintude).
 
 Any spell levels that are left over may be used to increase the effect level of other Lesser Powers, or converted into intricacy points, with 5 full levels of effects equal to 1 intricacy point.
 
@@ -2670,36 +2679,34 @@ The character has a spell-like power, which is designed at character creation li
 
 This Virtue grants the character 25 levels to spend on a power, and may be taken multiple times to allow for effects of higher level. Personal Powers have a Might Point cost equal to (the magnitude of the effect / 2), and an initiative score equal to the character's Quickness – (the magnitude of the effect / 2). Players should note the Forms associated with the effect, to calculate Magic Resistance.
 
->## An Exemplary Catalog of Faerie Powers
-> 
+> ### An Exemplary Catalog of Faerie Powers
+>
 > Faerie powers that could be simulated by Hermetic magic are designed using the Virtues given in this section and summarized in the adjoining table. Each Virtue gives a number of spell levels, a Might cost, and an Initiative score for the powers it permits. There are many other powers, collected from folklore, that are designed on a less-structured basis, but if they merely imply that faeries have targets or ranges that are inaccessible to Hermetic magi, they use these rules to help guide their cost. Faeries gain one use of a power each time they spend its cost in Might.
-> 
+>
 > Penetration for a Faerie Power is calculated as shown on page 191 of **ArM5**: Might Score – (5 x Might Point cost) + Penetration bonus. This means that to increase a power's Penetration Total, you must decrease the power's cost, increase the character's Might Score, or improve the character's Penetration score.
-> 
+>
 > Wound and Fatigue penalties do not apply to powers unless the character has the Role Requires Suffering Flaw, described in the Flaws for Physical Forms section above, although some faeries pretend that they are inconvenienced by wounds so that their story can be finished with a heroic victory by a human.
-> 
+>
 > A character whose Might pool has reached zero can no longer activate any powers unless it has a cost of zero. Powers that have already been activated continue until their duration expires. If they're constant-effect powers with a non-zero cost, they cease at the next sunrise or sunset unless the character has regenerated sufficient Might points in the intervening period to reactivate them.
-> 
+>
 > Faeries that are in an area dominated by another Realm cannot use powers with range greater than Touch unless they have an Arcane Connection to the target, or have been invited in. See the Gaining Admittance section in Chapter 1: Nature of Faerie for more detail. Faeries find it easy to create Arcane Connections to humans by tricking them into breaking taboos, particularly the taboo against speaking to faeries.
-> 
->### Intricacy Points
-> 
+>
+> #### Intricacy Points
+>
 > Intricacy points represent portions of the character's glamour, which support a particular power, that are more complex than average. An intricacy point spent on any non-Focus Faerie Power either makes it activate faster by increasing its Initiative by one, or drain less vitality by reducing its Might Point cost by 1. Intricacy points may increase the Initiative of a Focus Power, but may not change its Might cost.
-> 
+>
 > Intricacy points may be purchased by selecting the Improved Powers virtue, or gained as a recompense for unspent spell levels when any of the Faerie Power Virtues are selected. Every 5 unspent levels equal an intricacy point.
-> 
+>
 > Characters with Focus Powers may also spend 1 of these points to raise the maximum level of effect their focus power can produce by 5. Although this allows the character to generate effects with a level higher than the character's Might score, it does not grant Faerie Might or those things that flow from Might, like Might points and Magic Resistance.
-> 
-> At the storyguide's discretion, this Virtue can also be used to modify a power in the same way magi can master a Hermetic spell. Each time this Virtue is taken, the character's intricacy score with the power is increased by 1, and this gives the character a spell mastery special ability (such as those listed on page 87 of ArM5). Note that activating powers does not require a die roll, so many of the typical benefits of mastering a spell (such as reduced botch dice) do not apply to mastered powers.
-> 
->### Odd Targets and Durations
-> 
+>
+> #### Odd Targets and Durations
+>
 > There are few examples in this book, because it is intended to stand alone, but faeries may use any of the Ranges, Targets, or Durations available to Merinita magi in *Houses of Hermes: Mystery Cults*. One that is used repeatedly in this book is Until, a Duration that makes a spell last until a certain thing occurs. In this book it is treated as being equivalent to Year, but not requiring a Ritual. This is substantially more powerful than Merinita magic, and is a field of interested study by magi of that House. In some examples, two Durations are given. For example, a power might be marked as Sun or Until. In that case, the power's spell level is treated as Sun duration, and the power expires if either the Sun Duration is completed, or the condition of the Until duration is met.
-> 
+>
 > The conditions of Until durations designed by players need to make narrative sense, and troupes should sternly enforce them.
-> 
->### Faerie Power Virtue Comparison Table
-> 
+>
+> ### Faerie Power Virtue Comparison Table
+>
 > | Virtue Name   | Spell Levels | Value         | Effect Type | Might Cost       | Initiative                 |
 > |---------------|--------------|---------------|-------------|------------------|----------------------------|
 > | Focus Power   | 25           | Major Virtue  | Spontaneous | magnitude        | Qik – maximum magnitude    |
@@ -2707,7 +2714,7 @@ This Virtue grants the character 25 levels to spend on a power, and may be taken
 > | Lesser Power  | 25           | Minor Virtue  | Formulaic   | magnitude        | Qik – (magnitude x 2)      |
 > | Personal Power| 25           | Minor Virtue  | Limited     | (magnitude / 2)  | Qik – (magnitude / 2)      |
 > | Ritual Power  | 25           | Major Virtue  | Ritual      | magnitude        | Qik – (magnitude x 2)      |
-> 
+>
 
 Any spell levels that are left over may be used to increase the effect level of other Personal Powers, or converted into intricacy points, with 5 full levels of effects equal to 1 intricacy point.
 
@@ -2732,6 +2739,8 @@ Any spell levels that are left over after the Ritual Power is designed may be us
 
 This Virtue gives the character 5 intricacy points to spend on any of its powers. This Virtue may be taken more than once.
 
+At the storyguide's discretion, this Virtue can also be used to modify a power in the same way magi can master a Hermetic spell. Each time this Virtue is taken, the character's intricacy score with the power is increased by 1, and this gives the character a spell mastery special ability (such as those listed on page 87 of ArM5). Note that activating powers does not require a die roll, so many of the typical benefits of mastering a spell (such as reduced botch dice) do not apply to mastered powers.
+
 #### Flaws Limiting Powers
 
 ##### Reduced Power
@@ -2740,8 +2749,8 @@ This Virtue gives the character 5 intricacy points to spend on any of its powers
 
 Subtract 5 intricacy points from any of the character's powers. Each lost intricacy point increases the number of Might Points needed to activate a power by 1, or subtracts 1 from the character's Initiative score for a power. This Flaw may be taken more than once, but the activation cost for a power may not exceed the character's Might Score, and you cannot reduce a power's Initiative below 0.
 
->## Constant Powers
-> 
+> ### Constant Powers
+>
 > A Greater, Lesser, or Personal Power can be made constant, triggering automatically at both sunset and sunrise and continuing perpetually as long as the character has a Might Score and the Might Points needed to activate it. The effect must be designed with Sun duration, and costs an additional magnitude. If the power has a Might cost, it is subtracted from the character's Might Pool each time the sun rises or sets, whether the character is aware of it or not. If the character does not have enough Might Points, the power is temporarily interrupted until the next activation.
 
 ##### Slow Power
@@ -2786,7 +2795,7 @@ Might Points spent on this power in its temporary form are only recovered when i
 
 This Virtue can allow humans to use faerie powers. If the power requires Might to use, the human may instead spend a Fatigue level for every five Might required. Many enchanted objects given by faeries are actually uses of this power with a suitable prop generated from glamour. Popular granted powers include regeneration, water breathing, flight, and the Virtue Puissant (Single Weapon).
 
-Costs 50 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)
+Costs 25 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)
 
 ##### Grant (Major Flaw)
 
@@ -2804,21 +2813,21 @@ Costs 50 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritu
 
 Imposes the named Flaw upon a victim. Each creature may have more than one power of this type, each bestowing a different Flaw. The creature can decide to bestow the Flaw permanently or temporarily. If permanent, the power is a ritual-like power and costs points from the creature's Might score as well as Might pool (see Ritual Power, earlier). If temporary, the Might points spent on this power are only recovered when its effects are withdrawn.
 
->## Conversion
-> 
-> To quickly convert any of the Greater Powers listed here to Lesser Powers, do the following:
-> 
-> If the cost in spell levels is a **multiple of ten**, double the Might cost and quadruple the Initiative penalty of the power.
-> 
-> If the cost in spell levels is **not a multiple of ten**, then the cost and initiative of the Greater Power were rounded up when they were calculated. For these Greater Powers, the Lesser Power equivalent has a Might cost of (double the current cost –1) and an Initiative modifier that needs to be calculated from scratch (equal to twice the effect's magnitude.)
-
-Add 5 levels and 1 Might to the costif the curse can affect families, bloodlines, households, or villages.
+Add 5 levels and 1 Might to the cost if the curse can affect families, bloodlines, households, or villages.
 
 The material effects of the curse do not disappear when the effect is over.
 
-Costs 50 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)
+Costs 25 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)
 
-### Greater and Lesser Faerie Powers
+> ### Conversion
+>
+> To quickly convert any of the Greater Powers listed here to Lesser Powers, do the following:
+>
+> If the cost in spell levels is a **multiple of ten**, double the Might cost and quadruple the Initiative penalty of the power.
+>
+> If the cost in spell levels is **not a multiple of ten**, then the cost and initiative of the Greater Power were rounded up when they were calculated. For these Greater Powers, the Lesser Power equivalent has a Might cost of (double the current cost –1) and an Initiative modifier that needs to be calculated from scratch (equal to twice the effect's magnitude.)
+
+#### Greater and Lesser Faerie Powers
 
 Every effect that can be created as a Greater Power can also be created as a Lesser Power. Lesser powers have advantages and disadvantages compared to Greater powers. A Lesser Power gives more spell levels for the spent Virtue slot than a Greater Power, and is easier to earn as the character develops. On the other hand, each use costs twice as much Might as the equivalent Greater Power. Lesser Powers also have slower Initiative than Greater Powers.
 
@@ -2928,6 +2937,8 @@ Bestows the faerie ability to feign prowess in an activity. For every Might poin
 
 MuCo 20 (Base 2, +2 Voice, +2 Sun, +2 Group)
 
+##### Guide
+
 3 points, Init –3, Mentem
 
 Subtly influences a group of beings towards a specific course of action. Some creatures can use this power to direct the movement of a group, taking it to a desired location. Other creatures can guide humans towards rash or brave or wise actions. Each time this power is used, it can subtly influence the actions of a single person for up to a day. The storyguide should provide advice to the character in a similar way to the Common Sense Virtue, except that the advice serves the creature's agenda, not that of the character. There is no compulsion to follow this advice.
@@ -3004,11 +3015,9 @@ Costs 25 spell levels (special)
 
 ##### Pine Away
 
-3 points, Init. –3, Corpus
+3 points, Init –3, Corpus
 
-This ability causes the target to slowly
-
-lose both the will to live, and the vitality that permits life. This is treated as a major disease, with an Ease Factor of 9 that causes a Light Wound, but either Faerie Lore or Medicine may be used to treat the effects. Many versions of this power exist, with both weaker and stronger effects.
+This ability causes the target to slowly lose both the will to live, and the vitality that permits life. This is treated as a major disease, with an Ease Factor of 9 that causes a Light Wound, but either Faerie Lore or Medicine may be used to treat the effects. Many versions of this power exist, with both weaker and stronger effects.
 
 Costs 30 spell levels (Base 20 (5 +15 for virulence), +2 Voice)
 
@@ -3060,8 +3069,8 @@ As *Curse of the Desert.* Draws the water forth from the human body, causing +15
 
 Costs 25 spell levels (PeAq Base 10, +2 Voice +1 Part) See ArM5 page 123.
 
->## Powers of Transformation
-> 
+> ### Powers of Transformation
+>
 > If a character is able to transform a specific substance into another specific substance, like weaving straw into gold, then that is best designed as a Greater Power. If the character is able to turn a wide variety of substances into a specific thing, like turning everything it touches into gold, then that is best designed as a Focus Power. Similarly, if the character is able to turn a specific thing into a wide variety of substances, then that is best designed as a Focus Power. Faeries can also cloak objects in illusions and use misdirection, substituting one object for another and claiming they transformed the original into the new.
 
 ##### Transform Victim into (Animal)
@@ -3148,22 +3157,22 @@ The area controlled by the faerie can produce a yearly harvest of (Might/10) paw
 
 Costs 25 spell levels: may be taken as a Lesser Power on its own, or as part of a package of Greater Powers. (Special)
 
->## Power Design: An Example
-> 
+> ### Power Design: An Example
+>
 > Neil wants to design a faerie like the German doppelganger or Scottish fetch. These faeries appear to people as their exact duplicates, and drive them slowly mad. Neil's troupe thinks this is an interesting idea, and so Neil designs a basic humanoid faerie, but needs to give it powers to spice up its opportunities in play.
-> 
-> The first power he needs is one that allows his faerie to impersonate specific individuals. He uses the spell *Disguise of the Transformed Image* as a basis for his new power (**ArM5** page 146,) but modifies it slightly so that it has Personal Range and Moon Duration (which does not change the level, 15).
-> 
+>
+> The first power he needs is one that allows his faerie to impersonate specific individuals. He uses the spell *Disguise of the Transformed Image* as a basis for his new power (**ArM5** page 146), but modifies it slightly so that it has Personal Range and Moon Duration (which does not change the level, 15).
+>
 > Since this power has Personal Range, Neil builds it as a Personal Power. To do this, he selects the Personal Faerie Powers Virtue, which grants him 25 spell levels of powers, then works out the cost of this power using the table given earlier. Personal powers cost (magnitude/2) points, rounding up, and have an Initiative score of his character's Quickness – (magnitude/2, rounding up). With Personal and Greater Powers Neil finds it easier to just divide the spell level by 10 and round up for cost, and then apply the same number to his Quickness to work out Initiative. In this case, it's a cost of 2 and since his character has a Quickness of 0, the Initiative score is –2. This costs him 15 of the 25 spell levels that the Personal Faerie Powers Virtue buys him. He can either buy another power to consume the 10 spare spell levels, or he can convert them to 2 Intricacy points. If he does this, he can spend them to make his power cheaper or faster, or a little of both. He uses the spare Intricacy points to reduce the cost of the power by 2, to 0. (Players designing a power based on this example should note that perfect illusory copies require a Perception + Finesse roll against an Ease Factor of 12).
-> 
-> There's a ritual in *House of Hermes: Societates* called *Donning the Mask of Another*, that allows the user to duplicate the memories of a particular individual (page 97). Neil considers it, but since it is level 35, it doesn't work. He'd need to buy the Ritual Faerie Powers Virtue twice to get his 30 spell levels, and he'd lose 6 Might for an extended period each time he used it. It would also be very slow (Initiative of –12). Neil reworks the spell description, dropping the Duration to Moon and the Range to Personal. This makes it a level 25 effect that can be purchased with the Personal Faerie Powers Virtue. It has a cost of 3 and an Initiative modifier of –3.
-> 
-> Neil wants one final power: a sort of selective invisibility so that he, or the person he touches, can only be seen or heard by the person he is driving mad, and by those in his group. Selective invisibility is discussed in *House of Hermes: Societates* (page 64), and Neil's troupe agree that what he's trying is similar to *Ambush on the Deserted Road*, but with a Duration of Sun and a Target of Individual, making it level 20. Since this can affect others, but is not a ritual, it must be either a Greater or Lesser Power.
-> 
+>
+> There's a ritual in *Houses of Hermes: Societates* called *Donning the Mask of Another*, that allows the user to duplicate the memories of a particular individual (page 97). Neil considers it, but since it is level 35, it doesn't work. He'd need to buy the Ritual Faerie Powers Virtue twice to get his 30 spell levels, and he'd lose 6 Might for an extended period each time he used it. It would also be very slow (Initiative of –12). Neil reworks the spell description, dropping the Duration to Moon and the Range to Personal. This makes it a level 25 effect that can be purchased with the Personal Faerie Powers Virtue. It has a cost of 3 and an Initiative modifier of –3.
+>
+> Neil wants one final power: a sort of selective invisibility so that he, or the person he touches, can only be seen or heard by the person he is driving mad, and by those in his group. Selective invisibility is discussed in *Houses of Hermes: Societates* (page 64), and Neil's troupe agree that what he's trying is similar to *Ambush on the Deserted Road*, but with a Duration of Sun and a Target of Individual, making it level 20. Since this can affect others, but is not a ritual, it must be either a Greater or Lesser Power.
+>
 > As a Greater Power, it has a cost of 2, and an Initiative modifier of –2. Neil must take the Greater Faerie Powers Virtue and has 30 spare spells levels, which can be spent on other powers or traded for Intricacy points. As a Lesser Power, it costs 4 points per use, and has an Initiative of –8. Neil decides to have this as a Lesser Power, despite the extra Might cost and relative slowness, because this is not a combat power, and it requires only a Minor Virtue. Since the Lesser Faerie Powers Virtue grants 25 spell levels, Neil has 5 spare. He trades them for an Intricacy point and uses that point to reduce the cost of his power by 1, to 3.
-> 
+>
 > Neil thinks his character through, and notices that two of his powers — invisibility and duplicating a victim's appearance — are linked by a theme: they affect the character's personal appearance. He notes that the two powers could instead be replaced by a Focus Power. If he took a Focus Power, the character could produce any Imaginem effect, up to level 25, that altered its appearance. Each use of the Focus Power costs the magnitude of the actual effect produced, and has an Initiative Modifier equal to the maximum magnitude the power can produce, which is –5 in this case. Neil's troupe initially vetoes this focus because the selective invisibility power can be used on others, so it doesn't fit his theme. He counters by redesigning the effect so that it has Personal Range, which lowers the level to 15 and fits the theme.
-> 
+>
 > The character's two powers are both based on level 15 spells, which means each costs 3 points to use, and has an Initiative modifier of –5. The Focus Power Virtue grants 25 spell levels. Neil decides to trade away 10 levels for 2 Intricacy points, which he wants to use to reduce the cost of his Focus Powers by 2, but his Troupe points out that Focus Powers are unique: you can't reduce their costs with Intricacy points. He reconsiders and decides, instead, to think up some new effects; in the end he uses the extra 10 levels in his Focus Power, and trades the points back.
 
 ##### Flight
@@ -3299,6 +3308,10 @@ As an example, consider a faerie using its guile Pretense to try to lie to a mag
 
 Some Pretenses, such as those for combat or medicine, guide the use of tools. These tools may be resisted in certain situations described more fully in the earlier section on the glamourous body.
 
+> ### Player-Defined Pretense Example: Chivalrous Combat
+>
+> A player, Dave, asks his troupe to allow his faerie knight to have a Pretense called Chivalrous Combat, which rolls together the ability to use a sword and a lance. His troupe members express concern that this seems broader than a standard Ability. Dave agrees, and suggests that his knight may become confused in combat that is non-chivalrous, like ambushes and tavern brawls, so that he is unable to use his Chivalrous Combat Pretense, and must use Brawl instead. His troupe agrees.
+
 ### Increasing Pretense
 
 A character's Pretenses become more skilled as it observes humans with the abilities that it is copying. In any given season, a faerie may select a single person who is having a momentous personal experience and gain the same amount of experience toward a Pretense that the person gains toward Abilities, provided that the faerie's Pretense is not already higher than the human's Ability. During this season, the faerie must be closely involved in the person's story. Faeries cannot gain experience from study, training, or practice: they cannot learn through repetition, as mortals do.
@@ -3317,19 +3330,13 @@ Aloof fairies play roles in which they do not find humans particularly interesti
 
 *Minor Flaw, Supernatural*
 
-Subtract 50 experience points from the character’s pool for purchasing Pretences. This represents the character losing some of its glamour. This Flaw may be taken more than once, but players cannot select this Flaw unless the character has at least 50 pretense points to lose. 
-
->## Player-Defined Pretense Example: Chivalrous Combat
-> 
-> A player, Dave, asks his troupe to allow his faerie knight to have a Pretense called Chivalrous Combat, which rolls together the ability to use a sword and a lance. His troupe members express concern that this seems broader than a standard Ability. Dave agrees, and suggests that his knight may become confused in combat that is non-chivalrous, like ambushes and tavern brawls, so that he is unable to use his Chivalrous Combat Pretense, and must use Brawl instead. His troupe agrees.
+Subtract 50 experience points from the character’s pool for purchasing Pretences. This represents the character losing some of its glamour. This Flaw may be taken more than once, but players cannot select this Flaw unless the character has at least 50 pretense points to lose.
 
 ##### Observant
 
 *Free choice*
 
 A typical faerie player character increases its Pretenses in two seasons per year. In the other season, it completes the tasks set by its role.
-
-character's pool for purchasing Pretences. This represents the character losing some of its glamour. This Flaw may be taken more than once, but players cannot select this Flaw unless the character has at least 50 pretense
 
 ##### Ostentatious
 
@@ -3343,13 +3350,13 @@ A character with this quality is closely interested in the bubbling vat of emoti
 
 A character with this quality is closely interested in a particular family or group of humans, and regularly finds ways to increase its pretense by aiding them through life's challenges. It increases its Pretense, on average, for three seasons every year. During character creation a pretentious faerie has a Pretense multiplier of 20 instead of 15.
 
-## Faerie Afvancement Through Change
+## Faerie Advancement Through Change
 
 To alter its role so that it gains additional powers, a faerie requires several contributing factors. It requires the potential to change within its glamour, represented by the cognizance Virtues. It also needs sufficient mystical energy to change, which is stolen from humans and represented by Pretense points. Finally, it needs a human collaborator to provide the creativity required to design the changes in its glamour.
 
 ### Cognizance
 
-A faerie's cognizance determines its attitude to advancement. Incognizant faeries have goals, but these are not related to becoming more mystically powerful. Narrowly cognizant faeries know that a certain situation or possession will bring contentment. The goal they work toward completes their role, but again they do not see this in terms of personal power. Only highly cognizant faeries understand that they can use human vitality and creativity to tailor their roles in amusing ways. This is not to say that faerie player characters do not advance: they do. It is simply that the faerie does not understand the process unless it is highly cognizant. Many incognizant faeries behave in ways that incline them toward the acquisition of greater power, but in incognizant faeries this is instinctual, rather than strategic, behavior. 
+A faerie's cognizance determines its attitude to advancement. Incognizant faeries have goals, but these are not related to becoming more mystically powerful. Narrowly cognizant faeries know that a certain situation or possession will bring contentment. The goal they work toward completes their role, but again they do not see this in terms of personal power. Only highly cognizant faeries understand that they can use human vitality and creativity to tailor their roles in amusing ways. This is not to say that faerie player characters do not advance: they do. It is simply that the faerie does not understand the process unless it is highly cognizant. Many incognizant faeries behave in ways that incline them toward the acquisition of greater power, but in incognizant faeries this is instinctual, rather than strategic, behavior.
 
 ### Vitality
 
@@ -3361,35 +3368,35 @@ This desire to consume vis at a particular time is why faeries encase vis, as de
 
 A faerie may only use encased vis for advancement where the outcome is determined by a creative human. If the faerie has left part of its glamour in Sleeping vis, then the presence of a creative, helpful human allows it to reincorporate its glamour and resume its old role.
 
->## Story Seed: Advancement
-> 
+> ### Story Seed: Advancement
+>
 > Several years ago, a narrowly cognizant faerie was drawn to a young woman prone to daydreams, and made straw into gold for her. She is used this gold to marry a local prince, offering, in exchange, to give the faerie her firstborn. Now that the child has been born, the faerie has relented to her pleas and given her a loophole: she may keep the child if she guesses its name. The magi travel to the faerie's home at her bequest, but discover that it has no name.
-> 
+>
 > The reason for the change in price is that the faerie has reached the point where it is able to develop the Highly Cognizant Virtue. On an instinctual level, the faerie desires a personal identity of its own even more than it wants the enormous vitality expressed within the fate of the heir to the kingdom. The reason the girl's attempts to name it keep failing is that the human names she is offering are too mundane to resound through the faerie's glamour and spark its transformation into a new, cognizant, role. The name the girl, or her magical advisers, choose needs to promise the faerie attention once it is cognizant, so that the faerie claims it willingly.
-> 
+>
 > When the faerie accepts its name, it will scream and rage and be consumed by the Earth, because its old role needs to end dramatically. Eventually, however, the same faerie will return with its new name and shape, perhaps as an ally of the royal family or the covenant who helped it, in order to keep the story of its old role alive for another faerie to follow.
 
->## Using Abilities On Faeries
-> 
+> ### Using Abilities On Faeries
+>
 > This section summarizes how different Abilities apply to faeries.
-> 
+>
 > **Animal Handling:** This Ability is useful for knowing how to take care of a being with an animal form, though not for social interactions with a faerie in an animal shape. To predict how such a creature might behave, use Faerie Lore.
-> 
+>
 > **Animal Ken:** This is a Supernatural Ability with an effect that allows communication with any animal, and it also allows communication with faeries that have animal forms, or have hybrid forms with animal-reflective personalities.
-> 
+>
 > **Bargain, Carouse, Charm, Etiquette, Guile, Intrigue, and Leadership:** These can be used with any intelligent being.
-> 
+>
 > **Faerie Lore:** This may be used like Folk Ken when attempting to understand the motivations of a faerie's role.
-> 
+>
 > **Folk Ken:** This is an understanding of human beings only, though it may give insight into the motivations of human-like beings or faeries who were once human. Some faeries have this as a Pretense, letting them understand human societies.
-> 
+>
 > **Language:** Any Faerie with a score in Faerie Speech can understand any language.
-> 
+>
 > **Teaching:** Faeries cannot be taught, since they do not learn by doing.
 
 ### Creativity
 
-Faeries must have the aid of a creative human to change their glamour. The faerie opens its glamour to the human, who uses his Abilities to develop it by creating a symbolically related object or performance. The process can be as brief as the impromptu performance of a song, or as extended as the design and carving of a sculpture.
+Faeries must have the aid of a creative human to change their glamour. The faerie opens its glamour to the human, who uses his Abilities to develop it by creating a symbolically related object or performance. The process can be as brief as the impromptu performance of a song, or as extended as the design and carving of a sculpture. All necessary rolls are made using whichever Ability is appropriate for the form of creativity being employed, such as Music or some variety of Craft.
 
 If the human fails to match the Ease Factor given below, he has wasted the vitality that the faerie has stored. The temperament of the faerie determines whether it will harm the human, but regardless the human is unable to alter this faerie’s glamour at any future time. The Ease Factor should be reduced by 3 if the faerie’s role has drifted away from the folklore of the area, and the change the human is making would draw the faerie closer to what is expected. This often happens to incognizant and narrowly cognizant faeries in areas where communities have been displaced.
 
@@ -3409,24 +3416,24 @@ Roll Bonuses
 
 +3 if for a Virtue like Inspirational or Free Expression. May only be claimed once, multiple Virtues do not stack.
 
-+3 if the local Reputation of the faerie better suits the character after the change than its current state. 
++3 if the local Reputation of the faerie better suits the character after the change than its current state.
 
 At the troupe’s discretion, the faerie’s player, rather than the artist’s player, may make these dice rolls, given their vital importance.
 
->## Why Isn't My Faerie a Genius At Every Ability?
-> 
+> ### Why Isn't My Faerie a Genius At Every Ability?
+>
 > Faeries live forever, and so they can theoretically accumulate enormous experience. Starting faeries do not have enormous experience. There are several reasons for this:
-> 
+>
 > A faerie character that is the center of a story is not gaining vitality from that story. Even the pagan gods used to send heroes out to do impossible things, so that they would be supporting characters in stories. Being more skilled than humans makes a faerie unable to feed on their Ability-earning experiences.
-> 
+>
 > The faeries selected as player characters are, arbitrarily, those drawn toward stories with magi, which implies a certain level of power and ability compared to magi.
-> 
+>
 > Faeries often lose Pretenses. Incognizant faeries lose their Pretenses if they lose their role. They have the basic Pretenses of their new role instead, even if both roles are the same type of faerie. Fairies that are narrowly cognizant lose some of their Pretenses when they complete their role and move to another. Highly cognizant faeries often lose and regain Pretenses as they change roles.
-> 
+>
 > Faeries want vitality, and they want to enjoy themselves. They do not require their Pretenses for their professions, which they lack, or to extend their lives, which are limitless. Shedding Pretenses, and becoming someone else in a new story, is amusing. Like a roleplayer who decides to retire a character once it has ceased to present novel challenges, some faeries just give up their Pretenses, knowing they can earn them back in other stories.
-> 
+>
 > The Divine casts down faeries that become too powerful, because it has granted dominion over the Earth to humans. It is difficult for faeries to judge what "too powerful" is, because it seems to vary over time and place.
-> 
+>
 > And some magi suggest that once faeries become mighty enough, they cease to feed on human vitality. They head out into Deep Arcadia and are lost. The faeries humans see are a perpetually renewed batch of recently-generated faeries.
 
 # Chapter Four: Faerie Bestiary
@@ -3443,8 +3450,8 @@ A variety of beings prowl the borderlands of life, childhood, adulthood, mastery
 
 A classic example of this occurs when a young person is swept away by faeries to a feast. The leader of the faeries asks the human to partake of the food while another, often a dead friend or an ancestor, counsels him not to. If the human eats, he is trapped in Arcadia, halted forever in adolescence. If he refuses to eat, he is returned home, and is able to continue into adulthood.
 
->## Two Borders
-> 
+> ### Two Borders
+>
 > Many faeries are creatures of two borders simultaneously: an infant stolen away to the forest by a faun, and a man who finds a selkie wife at the shoreline have both encountered a faerie that expresses both physical and developmental borders. Faeries that reside on multiple borders increase their chances of harvesting the vitality of the humans they encounter.
 
 These faeries are, in folklore if not truly, people who have themselves failed to move into the new stage of life. They repeat their incompleteness in the lives of others. This is particularly notable in faeries that kill children.
@@ -3479,40 +3486,40 @@ Lamashtu is not designed as a player character. She is an ancient Babylonian god
 
 *Donkey Bite:* Init –2, Attack +11, Defense +8, Damage +7
 
-*Owl Talons*: Init +1, Attack +13, Defense +11, Damage +10\*\*\*
+*Owl Talons:* Init +1, Attack +13, Defense +11, Damage +10\*\*\*
 
 **Soak: +4.**
 
-**Wound Penalties**: –1 (1–7), –3 (8–14), –5 (15– 21), Incapacitated (22–28), Dead (29+)
+**Wound Penalties:** –1 (1–7), –3 (8–14), –5 (15– 21), Incapacitated (22–28), Dead (29+)
 
 **Pretenses:** Athletics 5 (flight), Brawl 9 (while airborne), Faerie Speech 5 (potential victims).
 
 **Powers:**
 
-*Fatal Menses*: 0 points, constant: (5 intricacy points on cost) A poison, like that of scorpions, drips continually from Lamashtu. This creates a fine mist as she flies. Lamashtu poisons wells as she flies over them, so that all who drink of them for the next week fall terribly ill. Her venom can also cause personal illness of sufficient virulence to kill the infirm, or fetuses in utero. Crops and animals die as she flies over them, if she wishes. (This has been treated as a level 50 effect, based on *Treading the Ashen Path*, which is PeHe 30, +10 (added requisites for humans and animals) +10 change Mom duration to Sun, +5 constant, -5 no longer a fancy effect. Treat this power as a magical force, rather than a poison.)
+*Fatal Menses*, 0 points, constant: (5 intricacy points on cost) A poison, like that of scorpions, drips continually from Lamashtu. This creates a fine mist as she flies. Lamashtu poisons wells as she flies over them, so that all who drink of them for the next week fall terribly ill. Her venom can also cause personal illness of sufficient virulence to kill the infirm, or fetuses in utero. Crops and animals die as she flies over them, if she wishes. (This has been treated as a level 50 effect, based on *Treading the Ashen Path*, which is PeHe 30, +10 (added requisites for humans and animals) +10 change Mom duration to Sun, +5 constant, -5 no longer a fancy effect. Treat this power as a magical force, rather than a poison.)
 
-*Enthralling Sound*: 0 points, Init–4, Mentem: (3 intricacy points on cost, 1 on Initiative) Her terrible roar arouses fear.
+*Enthralling Sound*, 0 points, Init–4, Mentem: (3 intricacy points on cost, 1 on Initiative) Her terrible roar arouses fear.
 
 *Flight*, 0 points, constant, Corpus. (2 intricacy points on cost)
 
-*Invisibility*: 0 point, Init –4, Imaginem. (2 intricacy points on cost).
+*Invisibility*, 0 point, Init –4, Imaginem. (2 intricacy points on cost).
 
-*Loosely Material:* 1 point, Init –5 Corpus (Animal)
+*Loosely Material*, 1 point, Init –5 Corpus (Animal)
 
 **Equipment:** Often depicted carrying snakes, or suckling a dog and a pig.
 
-**Vis**: 9, a dead owl
+**Vis:** 9, a dead owl
 
 **Appearance:** Lamashtu is a tall woman with the head of a lion, the teeth and ears of a donkey, and the feet of an enormous owl. She has leathery, tanned skin that is sometimes furred. She does not require wings to fly.
 
-- **\*** Lamashtu causes stillbirth by touching the belly of a pregnant woman seven times. She also feasts on the flesh of young men, and rips babies from the womb with her talons to consume, although this most often occurs to travelers. She prefers to kill slowly with repeated touches, or by suckling babies to death.
-- \*\* Lamashtu fears and flees images of the Babylonian disease spirit Pazuzu.
-- \*\*\* Lamashtu's breasts ooze a poison that does +10 Damage. She smears this on her claws and talons if she anticipates battle.
+\* Lamashtu causes stillbirth by touching the belly of a pregnant woman seven times. She also feasts on the flesh of young men, and rips babies from the womb with her talons to consume, although this most often occurs to travelers. She prefers to kill slowly with repeated touches, or by suckling babies to death.
+\*\* Lamashtu fears and flees images of the Babylonian disease spirit Pazuzu.
+\*\*\* Lamashtu's breasts ooze a poison that does +10 Damage. She smears this on her claws and talons if she anticipates battle.
 
-> # Story Seed: The Battle of Child Eaters
-> 
+> ### Story Seed: The Battle of Child Eaters
+>
 > A Seeker has found an ancient tablet that makes reference to a "demoness" called Lamashtu, rival of the Faerie gods of Babylon. Now that her story has been rediscovered — and retold to the grogs by a companion with Free Expression — a faerie near the covenant has taken her form. Can the characters find a way of calming Lamashtu, or destroying her story?
-> 
+>
 > Once Lamashtu becomes active, another faerie becomes involved in the affairs of the magi. Lamia is an ancient, and yet more modern, telling of Lamashtu's story. Lamia is insane and does evil things because of her madness, but she gladly acts as an ally for the characters against another spirit trying to steal her biography. Lamia can become rational if steadily supplied with magically created eyeballs. As her mind returns, Lamia realizes what a monster she has become, and what terrible things she has done. If coaxed to destroy Lamashtu by a suitably skilled artist, Lamia may be able to change role.
 
 ##### Lamia
@@ -3543,25 +3550,25 @@ Lamia is not designed for use as a player character.
 
 **Powers:**
 
-*Enthrallment*: 3 points, Init –2, Mentem. (1 intricacy point on cost)
+*Enthrallment*, 3 points, Init –2, Mentem. (1 intricacy point on cost)
 
-*Extended Glamour***:** 0 points, constant, Mentem.
+*Extended Glamour*, 0 points, constant, Mentem.
 
-*Hound:* 2 points, Init 0, Corpus. Lamia's power allows her to detect the direction and distance of unattended babies, even if she lacks an Arcane Connection to them. It also connects her to humanoid creatures using her story, like lesser lamiae and Lamashtu. This is the remnant of Lamia's power to scry the future.
+*Hound*, 2 points, Init 0, Corpus. Lamia's power allows her to detect the direction and distance of unattended babies, even if she lacks an Arcane Connection to them. It also connects her to humanoid creatures using her story, like lesser lamiae and Lamashtu. This is the remnant of Lamia's power to scry the future.
 
-*Immateriality*: 1 point, Init. –2, Corpus/Animal. (2 intricacy points on cost)
+*Immateriality*, 1 point, Init –2, Corpus/Animal. (2 intricacy points on cost)
 
-*Invisibility:* 1 points, Init 0, Imaginem (1 intricacy point on cost)
+*Invisibility*, 1 points, Init 0, Imaginem (1 intricacy point on cost)
 
-*Silent Motion*: 0 point, constant, Imaginem. (1 intricacy point on cost)
+*Silent Motion*, 0 point, constant, Imaginem. (1 intricacy point on cost)
 
-*Steal Eyes*: 4 points, Init –2, Corpus: This power removes the eyes of the victim, and places them in Lamia's head. It has Touch range. (PeCo(Re) base 20, +1 Part, +1 Touch, +1 Rego requisite, +1 Finesse)
+*Steal Eyes*, 4 points, Init –2, Corpus: This power removes the eyes of the victim, and places them in Lamia's head. It has Touch range. (PeCo(Re) base 20, +1 Part, +1 Touch, +1 Rego requisite, +1 Finesse)
 
 **Equipment:** Rich jewelry, and contingency plans that perfectly suit the weaknesses of player characters.
 
 **Vis:** 7 Intellego in two bleeding eyeballs (3 in the right, 4 in the left).
 
-**Appearance**: Lamia has sharp fingernails that act as claws. Her form is serpentine from the waist down, and may attack by constriction. She has the ability to move silently and slip through walls. She uses these powers to see when mothers leave their babies unattended. Her eyes are usually bloodshot.
+**Appearance:** Lamia has sharp fingernails that act as claws. Her form is serpentine from the waist down, and may attack by constriction. She has the ability to move silently and slip through walls. She uses these powers to see when mothers leave their babies unattended. Her eyes are usually bloodshot.
 
 Long ago a queen of Libya was a lover of Zeus. She became repeatedly pregnant, but had each of her babies save one, Scylla, die in accidents arranged by the goddess Hera. Then Hera went further: she cursed the queen with eternal insomnia. Driven mad with exhaustion and grief, the queen died and became a faerie. Lamia's lower body now appears to be that of a great serpent. She took her current name "Lamia" when she transformed. It means "gullet," as her only food is other people's children.
 
@@ -3571,7 +3578,7 @@ Lamia was able to predict the future in ancient times. A strange supernatural ev
 
 ##### Lamia Variants
 
-In Greece there are spirits called lamiae that eat babies and are said to be the children of this Lamia. They aren't: Lamia's curse is that she can't have children. These lesser lamiae have the bodies of goats or snakes, human torsos and heads, paws on the front legs, cloven hooves on the rear, and hissing voices. They are less-powerful faeries, which survive by drinking blood and do not need fresh eyes. Injuries from a lamia do not heal until the character seeks out the lamia again and hears her hissing. More generally, vampires are sometimes called lamiae, but these use the statistics for ghulas. 
+In Greece there are spirits called lamiae that eat babies and are said to be the children of this Lamia. They aren't: Lamia's curse is that she can't have children. These lesser lamiae have the bodies of goats or snakes, human torsos and heads, paws on the front legs, cloven hooves on the rear, and hissing voices. They are less-powerful faeries, which survive by drinking blood and do not need fresh eyes. Injuries from a lamia do not heal until the character seeks out the lamia again and hears her hissing. More generally, vampires are sometimes called lamiae, but these use the statistics for ghulas.
 
 ##### Kubu
 
@@ -3593,7 +3600,7 @@ In Greece there are spirits called lamiae that eat babies and are said to be the
 
 **Vis:** 1 Mentem, The skull of a tiny baby
 
-**Appearance**: A small child, dressed well, and with a surprising number of toys in a bag.
+**Appearance:** A small child, dressed well, and with a surprising number of toys in a bag.
 
 Kubu is an infant-sized faerie that is believed to have been a child who died without being named in ancient times. He often kills other children before they reach confirmation, by calling them to play in the middle of the night. Kubu may visit a child repeatedly, to gain its confidence to wander further and further from home. He leads them off into the wilderness, there deserting them to die of exposure. He cannot stand the light of the sun.
 
@@ -3623,9 +3630,9 @@ The Man in Black with a Sack on His Back is not designed as a player character.
 
 **Combat:**
 
-*Brawl (hands)*\*: Init +1, Attack +2, Defense +2, Damage 0
+*Brawl (hands)\**: Init +1, Attack +2, Defense +2, Damage 0
 
-*Brawl (2 x Bludgeon)*\*: Init +2, Attack +4, Defense +2, Damage +1
+*Brawl (2 x Bludgeon)\**: Init +2, Attack +4, Defense +2, Damage +1
 
 **Soak:** +2 against slashing weapons. Immune to bashing weapons.
 
@@ -3635,15 +3642,15 @@ The Man in Black with a Sack on His Back is not designed as a player character.
 
 **Powers:**
 
-*Appear Human,* 1 point, constant, Imaginem.
+*Appear Human*, 1 point, constant, Imaginem.
 
-*Immure to Bashing Weapons*:*\** 0 points, constant, Herbam: This faerie has the body of a scarecrow, and is undamaged by weapons that cause harm through crushing force.
+*Immune to Bashing Weapons*\*, 0 points, constant, Herbam: This faerie has the body of a scarecrow, and is undamaged by weapons that cause harm through crushing force.
 
-*Invisibility*: 1 point, Init –1, Imaginem (1 intricacy point on cost)
+*Invisibility*, 1 point, Init –1, Imaginem (1 intricacy point on cost)
 
-*Squirming Sack*: 1 point, Init –1 Corpus: Moves a child up to 50 paces away who has made eye contact with the man into his sack. (Base 15 + 1 Eye, 1 intricacy point spent on cost)
+*Squirming Sack*, 1 point, Init –1 Corpus: Moves a child up to 50 paces away who has made eye contact with the man into his sack. (Base 15 + 1 Eye, 1 intricacy point spent on cost)
 
-*Still Sack*: 0 points, Init –1, Mentem (2 intricacy point on cost): A powerful version of the Cause Drowsiness Power that keeps children unconscious until they are removed from the sack. (Or Sun, whichever comes first)
+*Still Sack*, 0 points, Init –1, Mentem (2 intricacy point on cost): A powerful version of the Cause Drowsiness Power that keeps children unconscious until they are removed from the sack. (Or Sun, whichever comes first)
 
 \* Hands do damage as gauntlets because they are made of wood. When not pretending to be human, the man uses his forearms as if they were wooden clubs, using his Brawl skill.
 
@@ -3651,7 +3658,7 @@ The Man in Black with a Sack on His Back is not designed as a player character.
 
 **Vis:** 2 Herbam in a tattered old sack.
 
-**Appearance**: The Man in Black with a Sack on His Back always appears foreign, and seems to be able to blend into darkness. He often takes the form of a scarecrow. He carries a sack, or sometimes a backpack, and he puts naughty boys and girls in it, and carries them away. People are not entirely sure what he does with them, but eating is a distinct possibility.
+**Appearance:** The Man in Black with a Sack on His Back always appears foreign, and seems to be able to blend into darkness. He often takes the form of a scarecrow. He carries a sack, or sometimes a backpack, and he puts naughty boys and girls in it, and carries them away. People are not entirely sure what he does with them, but eating is a distinct possibility.
 
 The Man in Black with a Sack on His Back is found in a surprisingly large area of Mythic Europe. In most areas he is a nursery terror, but in others he steals children. He is a dark mirror image of the pleasanter Yuletide faeries, who carry presents for good children.
 
@@ -3707,19 +3714,19 @@ Gorgons are not designed as player characters.
 
 **Soak:** 0
 
-**Wound Penalties**: –1 (1–4), –3 (5–8), –5 (9 –12), Incapacitated (13–16) Dead (17+).
+**Wound Penalties:** –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+).
 
 **Pretenses:** Brawl 3 (humans)
 
 **Powers:**
 
-*Enthralling Sound,* 3 points, Init 0, Mentem: A gorgon can utter the scream of the dead, creating terror in those who hear it. The low hissing of her snakes can create the same effect.
+*Enthralling Sound*, 3 points, Init 0, Mentem: A gorgon can utter the scream of the dead, creating terror in those who hear it. The low hissing of her snakes can create the same effect.
 
-*Deadly Gaze:* 1 point, Init –2, Terram: (4 intricacy points on cost) The gorgon can transform into stone any person or animal with which she makes eye contact. Creatures so changed revert to life if the gorgon dies or is stripped of its Might. (Base 25, +1 Eye, +4 Until)
+*Deadly Gaze*, 1 point, Init –2, Terram: (4 intricacy points on cost) The gorgon can transform into stone any person or animal with which she makes eye contact. Creatures so changed revert to life if the gorgon dies or is stripped of its Might. (Base 25, +1 Eye, +4 Until)
 
 *Dozens of Eyes*\*, 0 points, constant, Animal: The gorgon has dozens of pairs of eyes, which scan her surroundings, in all directions, constantly. This grants her extraordinary Perception.
 
-*Venomous Bite\**, 0 Points, Init 0, Animal: When the gorgon’s hair attacks, compare its Attack Advantage to the victim’s armor Protection (not his Soak). If the gorgon’s advantage is higher, the victim suffers the effects of adder venom as listed in the Poison Table on page 180 of ArM5, regardless of whether the bite inflicts an actual wound. The storyguide may adjust the required Attack Advantage for special circumstances. 
+*Venomous Bite*\*, 0 Points, Init 0, Animal: When the gorgon’s hair attacks, compare its Attack Advantage to the victim’s armor Protection (not his Soak). If the gorgon’s advantage is higher, the victim suffers the effects of adder venom as listed in the Poison Table on page 180 of ArM5, regardless of whether the bite inflicts an actual wound. The storyguide may adjust the required Attack Advantage for special circumstances.
 
 \* This is a power of the gorgon's Hybrid Form, and does not need to be paid for with the Personal Faerie Power Virtue.
 
@@ -3727,7 +3734,7 @@ Gorgons are not designed as player characters.
 
 **Appearance:** A woman of slight build, with a hideously deformed face, tusks, and brass claws. Snakes replace her hair. Some gorgons are stunningly beautiful (Per 0, Pre +6, lose the omnidirectional vision or spend an extra Major Virtue), and some can fly on bat–like wings.
 
-In ancient Greece, the gorgons were nursery terrors. The name gorgon means *terrible,* and terror is something a young boy would need to overcome to be a man. A true Greek warrior would learn to seize control of fear, and use it against his enemies, much as Perseus used the head of the gorgon. After achieving this, the head of the gorgon becomes a traditional symbol that wards off evil, called the gorgoneion. She is the faerie that humans use as a folk charm to scare away lesser faeries. Thus, the name Medusa means "protector."
+In ancient Greece, the gorgons were nursery terrors. The name gorgon means *terrible*, and terror is something a young boy would need to overcome to be a man. A true Greek warrior would learn to seize control of fear, and use it against his enemies, much as Perseus used the head of the gorgon. After achieving this, the head of the gorgon becomes a traditional symbol that wards off evil, called the gorgoneion. She is the faerie that humans use as a folk charm to scare away lesser faeries. Thus, the name Medusa means "protector."
 
 ##### Mormo
 
@@ -3749,13 +3756,13 @@ Mormo is not suited for player characters.
 
 **Combat:**
 
-*Bite\*:* Init +0, Attack +8, Defense +6, Damage +1
+*Bite\**: Init +0, Attack +8, Defense +6, Damage +1
 
 \* Modified by the body's statistics. The bite marks Mormo's hosts leave are like those of horses.
 
-**Soak**: 0
+**Soak:** 0
 
-**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+**Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 
 **Pretenses:** Brawl 5 (infants), but may use the Pretenses or abilities of the host.
 
@@ -3775,12 +3782,11 @@ Mormo is a faerie who bites children and babies who are being naughty. A mother,
 
 Mormo was initially a mother who lost her children, and became a werewolf (*mormulukeion*) to seek revenge. Somehow she lost her body, and became a possessing spirit, like the faerie that causes the tortoise game described in the nearby insert. In time, she became less dangerous and more playful. This may be the result of a human reworking her role with creativity, turning her attacks into a game like peek-a-boo between a mother and child. Mormo still possesses mothers and encourages them to playfully nibble at their children.
 
->## Story Seed: The Tortoise Game
-> 
-> The ancient Greek writer Errina describes a game that the children at the covenant have begun to play. Girls sit in a circle, with a girl in the middle. She is called the "tortoise." Each girl in the circle asks the tortoise a question, which she answers with the first thing that comes into her head. When any girl asks "How did your baby die?" the girl in the middle screams while chasing the questioner around the circle. If the questioner makes it back to her place she is safe, but if she is tagged, she becomes the new tortoise. This game is based on the actions of a faerie that takes advantage of postnatal
-> 
-> tiredness to possess a mother, and make her kill her baby, and perhaps eat it. It then feeds off the negative attention the murderess suffers, until she dies.
-> 
+> ### Story Seed: The Tortoise Game
+>
+> The ancient Greek writer Errina describes a game that the children at the covenant have begun to play. Girls sit in a circle, with a girl in the middle. She is called the "tortoise." Each girl in the circle asks the tortoise a question, which she answers with the first thing that comes into her head. When any girl asks "How did your baby die?" the girl in the middle screams while chasing the questioner around the circle. If the questioner makes it back to her place she is safe, but if she is tagged, she becomes the new tortoise.
+> This game is based on the actions of a faerie that takes advantage of postnatal tiredness to possess a mother, and make her kill her baby, and perhaps eat it. It then feeds off the negative attention the murderess suffers, until she dies.
+>
 > Some faeries that dwell inside bodies can pass through the Aegis that defends the covenant, if the human they are residing within chooses freely to enter. That the girls of the covenant are playing the game indicates that the Tortoise is present, and is seeking a victim. What do the characters do? As the characters hunt the Tortoise, it takes refuge in a variety of women, or female animals, always seeking to get closer to children that it can murder.
 
 Mormo's presence, like that of the Tortoise, causes the mother to continually refer to her child as if it were food, with names like "honey," "sweetie," "dumpling," and "apple." Mormo's statistics may be used for the Tortoise, her more-dangerous role mate.
@@ -3817,7 +3823,7 @@ The toy solider could replace a beginning companion with alteration. It requires
 
 **Soak:** +4
 
-**Wound Penalties**: –5 (1), Incapacitated (2), Broken (3+)
+**Wound Penalties:** –5 (1), Incapacitated (2), Broken (3+)
 
 **Abilities:** Athletics 3 (running), Awareness 6 (night terrors), Faerie Speech 5, Single Weapon 6 (tiny wooden sword)
 
@@ -3861,8 +3867,8 @@ This maiden is one of a group that gathers to dance in the deep woodland. Like m
 
 Minor nymphs can replace companion characters. Players are advised to swap out the Extended Glamour Lesser Faerie Power. The nymph below needs three more Flaws to be balanced, and needs a Social Interaction Virtue or Flaw. Her *Coils of Entangling Plants* power could also be modified. The Music and Athletics Pretenses should be lowered and combat Pretenses added. The Personality traits should also change to something more suited to interaction with other player characters.
 
->## Happily Ever After is Just a Pleasant Sort of Death
-> 
+> ### Happily Ever After is Just a Pleasant Sort of Death
+>
 > Players struck by the portrayal of nymphs in other roleplaying games may not understand how a character could object to an immortal life filled with sex. Characters in Mythic Europe have an afterlife, so they are in an important sense already immortal. They have greater ambitions than finally finding someone who will sleep with them regularly. Just as unnamed babies become faeries that try to kill other babies before baptism, so nymphs, who are on the verge of becoming young women, are incomplete adults, and make the people they trap similarly eternally adolescent. An eternal life in which nothing significant ever happens is identical to the classical Hades.
 
 **Faerie Might:** 10
@@ -3885,11 +3891,11 @@ Minor nymphs can replace companion characters. Players are advised to swap out t
 
 **Powers:**
 
-*Extended Glamour:* 0 points, constant, Mentem.
+*Extended Glamour*, 0 points, constant, Mentem.
 
-*Coils of the Entangling Plants:* 2 points, Init.–2, Herbam: as the spell of the same name, **ArM5** page 138.
+*Coils of the Entangling Plants*, 2 points, Init –2, Herbam: as the spell of the same name, **ArM5** page 138.
 
-*Enthralling Sound:* 3 points, Init –3, Mentem: May create infatuation with the sound of her dancing or running.
+*Enthralling Sound*, 3 points, Init –3, Mentem: May create infatuation with the sound of her dancing or running.
 
 **Equipment:** Bells on her toes.
 
@@ -3943,11 +3949,11 @@ Ghulas are not designed as player characters.
 
 **Powers:**
 
-*Cause Drowsiness:* 2 points, Init –2, Corpus, (Touch Range, Until Duration, 1 intricacy point spent on cost)
+*Cause Drowsiness*, 2 points, Init –2, Corpus, (Touch Range, Until Duration, 1 intricacy point spent on cost)
 
-*Illusionary Home:* 0 points, Init –3, Imaginem (4 intricacy points on cost): variant that has a constant effect on a structure.
+*Illusionary Home*, 0 points, Init –3, Imaginem (4 intricacy points on cost): variant that has a constant effect on a structure.
 
-*Transform Into Human:* 0 points, Init.0, Animal (3 intricacy points on cost, 2 on initiative): This power transforms the character between human and feasting form. It is treated as a Personal level 25 MuCo(An) effect.
+*Transform Into Human*, 0 points, Init 0, Animal (3 intricacy points on cost, 2 on initiative): This power transforms the character between human and feasting form. It is treated as a Personal level 25 MuCo(An) effect.
 
 **Equipment:** Perfume, wardrobe
 
@@ -3963,9 +3969,9 @@ The ghula in a city sneak out of their houses while their husbands sleep. They g
 
 ##### Ghula Variants
 
-A related story says that ghula are the ghosts of prostitutes, given solid form, and that they are simpler in their predatory be havior. They merely eat the dead, and lacking fresh prey eat corpses. They use their wiles to lure men of weak faith to hidden places, and have a power that causes sleep, allowing them to crush the heads of their victims with stones. 
+A related story says that ghula are the ghosts of prostitutes, given solid form, and that they are simpler in their predatory behavior. They merely eat the dead, and lacking fresh prey eat corpses. They use their wiles to lure men of weak faith to hidden places, and have a power that causes sleep, allowing them to crush the heads of their victims with stones.
 
-##### Ghaddar:
+**Ghaddar:**
 This creature has the power to entice men, and to cause paralysis. She lures a victim to an isolated spot, and then tortures him for an extended period, culminating in the consumption of his genitals. These forms of ghula police a moral boundary.
 
 ##### Glanconer
@@ -3982,21 +3988,21 @@ Glanconers are only slightly outside the range of companion player characters, b
 
 **Personality Traits:** Predatory +4
 
-**Combat**: n/a
+**Combat:** n/a
 
 **Soak:** +1
 
-**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20) Dead (21+)
+**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20) Dead (21+)
 
-**Pretenses**: Athletics 3 (climbing walls), Awareness 3 (at night), Bargain 5 (for lover's favor), Carouse 2 (alone with young woman), Charm 3 (young women), Folk Ken 2 (courtship), Guile (women) 5, Faerie Speech 5 (flattery), Stealth 2 (stalking)
+**Pretenses:** Athletics 3 (climbing walls), Awareness 3 (at night), Bargain 5 (for lover's favor), Carouse 2 (alone with young woman), Charm 3 (young women), Folk Ken 2 (courtship), Guile (women) 5, Faerie Speech 5 (flattery), Stealth 2 (stalking)
 
 **Powers:**
 
-*Allure*: 0 points, Init –1 Mentem (1 intricacy point on cost)
+*Allure*, 0 points, Init –1 Mentem (1 intricacy point on cost)
 
-*Pine Away*: 3 points, Init –3, Corpus: The glanconer version of this power has Arcane Connection range, and causes only a Light wound, but is used repeatedly over successive days. Part of the glanconer's glamour is that the Arcane Connection must come from an item that was knowingly given as a love token — it cannot be stolen or an arcane connection to an enemy. This reduces the spell's effective level and cost.
+*Pine Away*, 3 points, Init –3, Corpus: The glanconer version of this power has Arcane Connection range, and causes only a Light wound, but is used repeatedly over successive days. Part of the glanconer's glamour is that the Arcane Connection must come from an item that was knowingly given as a love token — it cannot be stolen or an arcane connection to an enemy. This reduces the spell's effective level and cost.
 
-*Guide*: 0 points, Init –3, Mentem (3 intricacy points on cost): A limited form of this power, which works at Voice Range and only on an individual who has given the glanconer a love gift.
+*Guide*, 0 points, Init –3, Mentem (3 intricacy points on cost): A limited form of this power, which works at Voice Range and only on an individual who has given the glanconer a love gift.
 
 *Steal Judgment*, 0 points, Init –2, Mentem, (2 intricacy point on cost).
 
@@ -4012,7 +4018,7 @@ Glanconers, in some areas, have a distinguishing disfigurement, usually of the f
 
 Glanconers flee combat because they see no point in it. There will always be another village, with another lonely girl.
 
-**Glanconer Variants**
+##### Glanconer Variants
 
 **Kelpies:** Some glanconers are kelpies — faerie horses that drown their victims. Before the drowning, glanconers get a cunningly worded consent to take the human's life. Questions like "Do you want to be with me forever?" or "Will you do anything for our love?" are examples of the creature seeking consent.
 
@@ -4062,7 +4068,7 @@ There is no disadvantage, for a faerie, in selecting far heavier armor than that
 
 **Virtues and Flaws:** 2 x Huge, Hybrid Form, 2 x Improved Characteristics, Faerie Sight, Faerie Speech; Lesser Power, Incognizant, Sovereign Ward (The Dominion)
 
-**Personality Traits**: Curious +2, Brave +1
+**Personality Traits:** Curious +2, Brave +1
 
 **Combat:**
 
@@ -4088,11 +4094,11 @@ Each centaur also has Brawl, with a score of 2 and a bonus of 1 for specializati
 
 **Powers:**
 
-*Damaging Effect:* 1 points: Init –7, Terram (supernaturally sharp) or Herbam (poisoned), 2 intricacy points spent on cost. This is designed as a Lesser Power. More powerful centaurs may have this as a Greater Power (Cost 2, Initiative –3, possibly with the cost adjusted down using intricacy.), or may have Improved Damage on a preferred weapon, or may stack Improved Damage and Damaging Effect.
+*Damaging Effect*, 1 points: Init –7, Terram (supernaturally sharp) or Herbam (poisoned), 2 intricacy points spent on cost. This is designed as a Lesser Power. More powerful centaurs may have this as a Greater Power (Cost 2, Initiative –3, possibly with the cost adjusted down using intricacy.), or may have Improved Damage on a preferred weapon, or may stack Improved Damage and Damaging Effect.
 
 **Soak:** +8 (Leather scale armor)
 
-**Wound Penalties**: –1 (1-8), –3 (8-16), –5 (17-24), Incapacitated (25–32), Dead (33+)
+**Wound Penalties:** –1 (1-8), –3 (8-16), –5 (17-24), Incapacitated (25–32), Dead (33+)
 
 **Abilities:** Athletics 4 (long-distance running), Awareness 3 (noises), Bow or Thrown 5 (shortbow or javelin), Brawl 2 (kick), Carouse 2 (drinking), Chirurgy 2 (centaurs)\*, Craft (any) 2, Faerie Speech 4 (oratory), Hunt 1 (humans), Single Weapon 5 (club or lance), Survival (grassland) 2
 
@@ -4150,15 +4156,15 @@ Fachans could conceivably be player characters, but their story potential is lim
 
 **Soak:** +5
 
-**Wound Penalties:** –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24), Dead (25+) 
+**Wound Penalties:** –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24), Dead (25+)
 
 **Abilities:** Awareness 3 (humans), Brawl 5 (humans), Faerie Speech 3 (primitive threats), Penetration 3 (poisoned weapons), Single Weapon 9 (club or flail)
 
 **Powers:**
 
-*Lurching heart:* 4 points, constant, Corpus: The fachan is so terrible to look upon that characters who see it must make a Brave roll against an Ease Factor of 9. If they fail, their heart flutters uncontrollably until they gather their courage. This cramping in the heart is treated as a fresh Light wound every round until the Brave roll is made. The great kings of the fachans can strike men dead with fear simply by being present, and some magi have encountered fachans who cause more grievous harm than described here. (35 spell levels (Base 5 +3 Sight +2 Sun +1 Constant) +15 xp in Penetration from intricacy points.)
+*Lurching heart*, 4 points, constant, Corpus: The fachan is so terrible to look upon that characters who see it must make a Brave roll against an Ease Factor of 9. If they fail, their heart flutters uncontrollably until they gather their courage. This cramping in the heart is treated as a fresh Light wound every round until the Brave roll is made. The great kings of the fachans can strike men dead with fear simply by being present, and some magi have encountered fachans who cause more grievous harm than described here. (35 spell levels (Base 5 +3 Sight +2 Sun +1 Constant) +15 xp in Penetration from intricacy points.)
 
-*Poisoned Weapons:* 4 points, constant, Animal. The weapons of the fachan are smeared with deadly poison. Its Ease Factor is 9. See **ArM5** page 180 for more details. (35 spell levels (Base 20 +2 Sun +1 constant) +15 xp in Penetration from intricacy points.)
+*Poisoned Weapons*, 4 points, constant, Animal. The weapons of the fachan are smeared with deadly poison. Its Ease Factor is 9. See **ArM5** page 180 for more details. (35 spell levels (Base 20 +2 Sun +1 constant) +15 xp in Penetration from intricacy points.)
 
 **Equipment:** Flail or club, belt
 
@@ -4194,11 +4200,11 @@ Faerie Sight, Faerie Speech, Humanoid Faerie, 2 x Improved Characteristics, Incr
 
 *Brawl (gauntlet):* Init +1, Attack +6, Defense +6, Damage +5
 
-*Long Sword and Heater Shield\*:* Init +8, Attack +13, Defense +12, Damage +9
+*Long Sword and Heater Shield\**: Init +8, Attack +13, Defense +12, Damage +9
 
-*Mace and Heater Shield\*:* Init +2, Attack +12, Defense +11, Damage +11
+*Mace and Heater Shield\**: Init +2, Attack +12, Defense +11, Damage +11
 
-*Lance and Heater Shield\*:* Init +3, Attack +13, Defense +11, Damage +9
+*Lance and Heater Shield\**: Init +3, Attack +13, Defense +11, Damage +9
 
 \* Does not include +3 to Attack and Defense for being mounted.
 
@@ -4214,17 +4220,17 @@ Faerie metal scale, made of glamor using the Shift Human Shapes Power.
 
 **Powers:**
 
-*Damaging Effect:* 1 point, Init –4, as per motif of court (2 intricacy points spent on cost)
+*Damaging Effect*, 1 point, Init –4, as per motif of court (2 intricacy points spent on cost)
 
 This is designed as a Lesser Power. More powerful knights may have this as a Greater Power (cost 2 points, Initiative –1, possibly with the cost adjusted down using intricacy), or may have Improved Damage on preferred weapon, or may stack Improved Damage and Damaging Effect.
 
-*Flight,* 2 points, constant, Corpus
+*Flight*, 2 points, constant, Corpus
 
-*Shift Human Shapes:* 1 point, Init 0, Corpus. Allows the knight, who is usually armored to demonstrate his role, to remove the armor simply by thinking about it.
+*Shift Human Shapes*, 1 point, Init 0, Corpus. Allows the knight, who is usually armored to demonstrate his role, to remove the armor simply by thinking about it.
 
 **Equipment:** Arms and armor. Has a faerie horse constructed of the knight's own glamor, so it flies when the knight does, and shares the knight's Magic Resistance. Courtier as squire.
 
-**Vis**: 2 pawns, often rusty pieces of armor that the knight has poured its glamor into.
+**Vis:** 2 pawns, often rusty pieces of armor that the knight has poured its glamor into.
 
 **Appearance:** A knight clad in silver leaves of metal, astride a fine horse. These knights often display the motif of their court on their surcoat, shield, and pavilion.
 
@@ -4248,13 +4254,13 @@ The beast is not designed as a player character.
 
 **Faerie Might:** 10
 
-**Characteristics**: Cunning +5, Per +3, Pre –2/+2\*, Com –5, Str +1, Sta n/a\*\*, Dex +3, Qik +5
+**Characteristics:** Cunning +5, Per +3, Pre –2/+2\*, Com –5, Str +1, Sta n/a\*\*, Dex +3, Qik +5
 
 \* Some versions of the beast are strangely beautiful.
 
-**\*\*** Most faeries have stamina scores because their roles make it necessary for them to seem to tire; not so the barking beast.
+\*\* Most faeries have stamina scores because their roles make it necessary for them to seem to tire; not so the barking beast.
 
-**Size**: +2
+**Size:** +2
 
 **Virtues and Flaws:** External Vis (minor), Faerie Sight, Greater Faerie Powers, Highly Cognizant, 4 x Improved Characteristics, Increased Faerie Might, Large, Sharp Ears
 
@@ -4266,13 +4272,13 @@ The beast is not designed as a player character.
 
 **Soak:** +5
 
-**Wound Penalties**: –1 (1-7), –3 (8-14), –5 (15- 21), Incapacitated (22-28), Dead (29+)
+**Wound Penalties:** –1 (1-7), –3 (8-14), –5 (15- 21), Incapacitated (22-28), Dead (29+)
 
-**Pretenses**: Athletics 6 (running), Awareness 6+3 (hunters), Brawl 5 (bite), Stealth 5 (when being hunted)
+**Pretenses:** Athletics 6 (running), Awareness 6+3 (hunters), Brawl 5 (bite), Stealth 5 (when being hunted)
 
 **Powers:**
 
-*Spirit Away:* variable points, n/a, Vim: allows the faerie to act as a threshold guardian, as described in the Faerieland Chapter.
+*Spirit Away*, variable points, n/a, Vim: allows the faerie to act as a threshold guardian, as described in the Faerieland Chapter.
 
 **Vis:** 2 pawns, usually buried well away from the hunt.
 
@@ -4322,7 +4328,7 @@ Valkyries are not designed as player characters.
 
 **Soak:** +9
 
-**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20), Dead (21+)
+**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20), Dead (21+)
 
 **Pretenses:** Awareness 9 (battlefields), Brawl 9 (einherjar), Ride 5 (wolf), Single Weapon 9 (giants)
 
@@ -4354,9 +4360,9 @@ These minor goddesses of the Norse pantheon are no longer worshiped in Mythic Eu
 
 **Soak:** +7
 
-**Wound Penalties**: –1 (1-8), –3 (8-16), –5 (17–24), Incapacitated (25–32), Dead (33+)
+**Wound Penalties:** –1 (1-8), –3 (8-16), –5 (17–24), Incapacitated (25–32), Dead (33+)
 
-**Abilities**: Athletics 5 (distance running), Awareness 3 (smell), Brawl 5 (teeth), Hunt 4 (track by smell), Survival 3 (winter)
+**Abilities:** Athletics 5 (distance running), Awareness 3 (smell), Brawl 5 (teeth), Hunt 4 (track by smell), Survival 3 (winter)
 
 **Powers:**
 
@@ -4398,7 +4404,7 @@ The first threshold is being taken as an apprentice:
 
 **Black Faced Hermes:** This faerie comes down the chimney to take away unnatural children, still abducts the Gifted and leaves them at the doors of covenants.
 
-**The Mournful Maga:** While growing up, apprentices face the Mournful Maga, a
+**The Mournful Maga:** While growing up, apprentices face the Mournful Maga, a Bonisagus maga whose apprentices kept dying in laboratory accidents, who tries to steal the apprentices of other magi when they travel from their covenants.
 
 **The Seducer:** Just before the Gauntlet, an apprentice may meet the Seducer, a faerie that tempts him with a life of social acceptance and domesticity.
 
@@ -4434,7 +4440,7 @@ The basic brownie has spent 10 spell levels from its Personal Faerie Powers Virt
 
 **Size:** –6
 
-**Virtues and Flaws:** Focus Power (Domestic Work); Feast of the Fae, Faerie Sight, Humanoid Faerie, Personal Power (Invisibility), Positive Folktalkes; Narrowly Cognizant; 2 x Little, Sovereign Ward (clothes) 
+**Virtues and Flaws:** Focus Power (Domestic Work); Feast of the Fae, Faerie Sight, Humanoid Faerie, Personal Power (Invisibility), Positive Folktales; Narrowly Cognizant; 2 x Little, Sovereign Ward (clothes)
 
 **Personality Traits:** Loyal +3
 
@@ -4446,15 +4452,15 @@ The basic brownie has spent 10 spell levels from its Personal Faerie Powers Virt
 
 **Soak:** +1
 
-**Wound Penalties**: –5 (1), Incapacitated (2), Dead (3+)
+**Wound Penalties:** –5 (1), Incapacitated (2), Dead (3+)
 
 **Pretenses:** Athletics 2 (climbing), Awareness 2 (intruders), Charm 2 (women), Folk Ken 5 (farming), House Lore 3 (lost items), Speak 5 (Local language), Profession: Household Servant 6 (indoors), Thrown Weapon 3 (knives).
 
 **Powers:**
 
-*Focus (Domestic Work):* up to 3 points. May create effects up to level 15. (2 intricacy points raise maximum level)
+*Focus (Domestic Work)*, up to 3 points. May create effects up to level 15. (2 intricacy points raise maximum level)
 
-*Invisibility*: 0 points, Init +1, Imaginem (2 intricacy points reduce Might cost)
+*Invisibility*, 0 points, Init +1, Imaginem (2 intricacy points reduce Might cost)
 
 **Equipment:** None, and it is known for being nude.
 
@@ -4466,7 +4472,7 @@ The basic brownie has spent 10 spell levels from its Personal Faerie Powers Virt
 
 Brownies are found in many locations under a variety of names.
 
-**Boggart**: In England the boggart, a trickster spirit that causes havoc in the home, is simply a brownie that has decided to be malicious.
+**Boggart:** In England the boggart, a trickster spirit that causes havoc in the home, is simply a brownie that has decided to be malicious.
 
 **Portune:** This is a tiny faerie, half the size of a thumb, which acts like a brownie but delights in roasting frogs on the fire when his humans are asleep.
 
@@ -4520,23 +4526,23 @@ They prefer to use magical effects rather than weapons.
 
 **Soak:** +2
 
-**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11- 15), Incapacitated (16-20), Dead (21+)
+**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11- 15), Incapacitated (16-20), Dead (21+)
 
-**Pretenses**: (Area) Lore 6 (sites of historic significance or power), Artes Liberales 3 (history), Animal Handling 2 (one of horses/hawks/dogs/fish/seabirds), Athletics 6 (dance), Awareness 2 (ambushes), Bargain 7 (magi), Brawl 1 (escaping), Carouse 6 (dancing), Charm 6 (men), Concentration 3 (while killing things), Craft: (varies, often weaving) 6 (varies), Etiquette 7 (forcing others to be rude), Faerie Speech 6, Finesse 6 (Rego), Folk Ken 2 (customs of surrounding area), Guile 3 (men), Intrigue 4 (against magi), Leadership 6 (in warfare), Order of Hermes Lore 5 (conflicts), Penetration 6 (using Arcane Connections), Swim 9 (home waters).
+**Pretenses:** (Area) Lore 6 (sites of historic significance or power), Artes Liberales 3 (history), Animal Handling 2 (one of horses/hawks/dogs/fish/seabirds), Athletics 6 (dance), Awareness 2 (ambushes), Bargain 7 (magi), Brawl 1 (escaping), Carouse 6 (dancing), Charm 6 (men), Concentration 3 (while killing things), Craft: (varies, often weaving) 6 (varies), Etiquette 7 (forcing others to be rude), Faerie Speech 6, Finesse 6 (Rego), Folk Ken 2 (customs of surrounding area), Guile 3 (men), Intrigue 4 (against magi), Leadership 6 (in warfare), Order of Hermes Lore 5 (conflicts), Penetration 6 (using Arcane Connections), Swim 9 (home waters).
 
 **Powers:**
 
-*Extended Glamor:* 0 points, constant,
+*Extended Glamor*, 0 points, constant,
 
-*Focus Power (Water within her realm):* up to 10 points, Init –9, Aquam. Some of the Ladies have other focuses. This is the most common. They have been known to kill with versions of *Ice of Drowning, Mighty Torrent of Water, Pull of the Watery Grave*, and *Tower of Whirling Water* using this power. Note that in character creation, the same focus power has been selected twice to gain this higher level.
+*Focus Power (Water within her realm)*, up to 10 points, Init –9, Aquam. Some of the Ladies have other focuses. This is the most common. They have been known to kill with versions of *Ice of Drowning, Mighty Torrent of Water, Pull of the Watery Grave*, and *Tower of Whirling Water* using this power. Note that in character creation, the same focus power has been selected twice to gain this higher level.
 
-*Touch of the Mermaid:* 3 points, Init –2, Aquam: *Kiss of the Mermaid,* for characters too regal to kiss a magus for ease of transport.
+*Touch of the Mermaid*, 3 points, Init –2, Aquam: *Kiss of the Mermaid*, for characters too regal to kiss a magus for ease of transport.
 
-*Torrent from the Lungs:* 3 points, Init –2, Aquam: The Ladies often live in kingdoms of salt water, where this spell and a skin of potable water can be used as negotiating tools.
+*Torrent from the Lungs*, 3 points, Init –2, Aquam: The Ladies often live in kingdoms of salt water, where this spell and a skin of potable water can be used as negotiating tools.
 
-*Transform into (one of Current/Wave):* 2 points, Init –4, Aquam: (Until Duration) (3 intricacy points to reduce cost)
+*Transform into (one of Current/Wave)*, 2 points, Init –4, Aquam: (Until Duration) (3 intricacy points to reduce cost)
 
-*Transform Victim into (one of Seagull/Crab/Salmon):* 2 points, Init –3, Animal. (2 intricacy points to reduce cost)
+*Transform Victim into (one of Seagull/Crab/Salmon)*, 2 points, Init –3, Animal. (2 intricacy points to reduce cost)
 
 Each lady also has distinct, individual powers. *Pine Away* is the most common of these, but *Enthrall* and *Spirit Away* are also common. These have not been included in the Virtue section.
 
@@ -4576,7 +4582,7 @@ External Vis (Venus' Blessing, his signet ring), 3 x Greater Faerie Powers, 6 x 
 
 **Soak:** 0
 
-**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11- 15), Incapacitated (16-20), Dead (21+)
+**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11- 15), Incapacitated (16-20), Dead (21+)
 
 **Pretenses:** Awareness 1 (amusing things), Carouse 3 (feasts), Charm 1 (criminals), Brawl 1 (when surprised), Etiquette 4 (merchants), Faerie Speech 6 (speeches), Intrigue 3 (against magi), Order of Hermes Lore 3 (covenant administration), Penetration 1 (Enthrallment), Ride 1 (horses), Single Weapon 1 (dirty fighting).
 
@@ -4628,11 +4634,11 @@ The faerie champion cannot be taken as a player character, except to replace adv
 
 *Brawl (gauntlets):* Init 0, Attack +2, Defense +4, Damage +11
 
-*Greatsword:\*\** Init +2, Attack +18, Defense +13, Damage +23
+*Greatsword\*\**: Init +2, Attack +18, Defense +13, Damage +23
 
 *Lance and Heater Shield:* Init +2, Attack +17, Defense +14, Damage +23
 
-*Great Sword and Heater Shield:\*\** Init +2, Attack +17, Defense +15, Damage +20
+*Great Sword and Heater Shield\*\**: Init +2, Attack +17, Defense +15, Damage +20
 
 *Mace and Heater Shield:\** Init +1, Attack +16, Defense +14, Damage +17
 
@@ -4642,17 +4648,17 @@ The faerie champion cannot be taken as a player character, except to replace adv
 
 **Soak:** +10
 
-**Wound Penalties**: –1 (1-7), –3 (8-14), –5 (15- 21), Incapacitated (22-28), Dead (29+)
+**Wound Penalties:** –1 (1-7), –3 (8-14), –5 (15- 21), Incapacitated (22-28), Dead (29+)
 
 **Pretenses:** Area Lore 3 (hunting spots), Awareness 5 (enemies), Brawl 6 (knights), Carouse 4 (feasts), Charm 3 (ladies), Etiquette 5 (faerie court), Faerie Speech 6 (boasting), Folk Ken 3 (surrounding humans), Hunt 5 (humans), Intrigue 3 (against other knights), Leadership 9 (tournaments), Ride 6 (horses), Single Weapon 9+2 (tourney field).
 
 **Powers:**
 
-*Damaging Effect:* 2 points: Init –6, Terram (supernaturally sharp) or Herbam (poisoned), 2 intricacy points spent on cost. This is designed as a Lesser Power. More mystically endowed knights may have this as a Greater Power (Cost 2, Initiative –2, possibly with the cost adjusted down using intricacy) and may stack it with Improved Damage.
+*Damaging Effect*, 2 points: Init –6, Terram (supernaturally sharp) or Herbam (poisoned), 2 intricacy points spent on cost. This is designed as a Lesser Power. More mystically endowed knights may have this as a Greater Power (Cost 2, Initiative –2, possibly with the cost adjusted down using intricacy) and may stack it with Improved Damage.
 
-*Glide:* 2 points, constant, Corpus. A renaming of the *Flight* power, this allows Sir Excelsis to move through the waters of the subaquatic kingdom as a flier would through air. This enables him to swim and fight at the same time, for example. It does, technically, still allow him to fly.
+*Glide*, 2 points, constant, Corpus. A renaming of the *Flight* power, this allows Sir Excelsis to move through the waters of the subaquatic kingdom as a flier would through air. This enables him to swim and fight at the same time, for example. It does, technically, still allow him to fly.
 
-*Shift Human Shapes:* 0 points, Init –1, Corpus. Allows the champion to don or remove armor simply by willing it. (1 intricacy point to reduce cost)
+*Shift Human Shapes*, 0 points, Init –1, Corpus. Allows the champion to don or remove armor simply by willing it. (1 intricacy point to reduce cost)
 
 **Equipment:** Armor of magical scales of faerie iron. Lance with pennant and other weapons. Attendant as squire. Trappings marked with the burning fern motif. The champion's glamor produces a faerie horse for him, which has the statistics given below for faerie horses, except that it shares his vis, Might, and Magic Resistance. As it is an extension of his glamor, the champion's mount flies when he does.
 
@@ -4690,15 +4696,15 @@ Sprites are challenging as player characters, because a single strike in combat 
 
 **Soak:** +6 (tiny jerkin)
 
-**Wound Penalties**: Dead (1+)
+**Wound Penalties:** Dead (1+)
 
 **Pretenses:** Area Lore (court) 5 (intruders), Athletics 3 (flight), Awareness 5 (intruders), Bow 5 (intruders), Carouse 1 (feasts), Charm 1 (as ambassadors), Etiquette 2 (faerie) Faerie Speech 5, Hunt 1 (humans).
 
 **Powers:**
 
-*Cause Sickness:* 0 points, Init +9, Corpus. (3 intricacy points spent on cost, 2 on initiative): This power usually causes strokes when used by sprites, but in this court, fevers are caused instead. The strike of a messenger's arrow can cause this effect. Strokes have an Ease Factor of 6, but cause a Heavy wound. The fevers caused by these sprites have an Ease Factor of 9 and cause a Light wound.
+*Cause Sickness*, 0 points, Init +9, Corpus. (3 intricacy points spent on cost, 2 on initiative): This power usually causes strokes when used by sprites, but in this court, fevers are caused instead. The strike of a messenger's arrow can cause this effect. Strokes have an Ease Factor of 6, but cause a Heavy wound. The fevers caused by these sprites have an Ease Factor of 9 and cause a Light wound.
 
-*Flight:* 0 points, constant, 2 intricacy points reducing Might cost. (See Sir Excelsis for modifications to this power for the White Lady's court.)
+*Flight*, 0 points, constant, 2 intricacy points reducing Might cost. (See Sir Excelsis for modifications to this power for the White Lady's court.)
 
 A faerie that wishes to use magical arrows often, for combat, might trade its Greater Power for the following selections:
 
@@ -4722,10 +4728,10 @@ The nobles of the court use these tiny faeries as envoys and saboteurs. Sprites 
 
 Most of the regional variants of these faeries reflect the culture either of the group currently living in the area where they are found, or the culture of the humans who were displaced when the current culture invaded the area. Courtly faeries are often divided into fertile and infertile courts, which have seasonal connections, although the symbols used to represent their allegiance vary between communities.
 
->## Story Seed: The Deluded Hero
-> 
+> ### Story Seed: The Deluded Hero
+>
 > A young man who lives near the covenant is undergoing a difficult adolescence, made worse by a faerie queen who keeps giving him missions. She tells the young man that these difficult, if not really very dangerous, tasks are vital to the safety of his village, which the young man feels he has saved several times. The boy, on the cusp of manhood, becomes so emotionally agitated during his quests that his patron can feed deeply on his vitality.
-> 
+>
 > The faerie eventually seeks the aid of the magi, though, because its meddling has so changed the personality of the boy that he has attracted a minor demon of Pride. The faerie wants the player characters to defeat the demon and tell the boy the truth. It wants to protect him, but it also wants to feed on his disillusionment. The boy's quests have bought him faerie equipment and unusual skills, so he would prove a useful companion.
 
 ## Divisions of Time
@@ -4764,21 +4770,21 @@ The blue hag is not suitable as a player character.
 
 **Powers:**
 
-*Extend Glamour:* 0 points, constant, Mentem: the Cailleach Bheur's glamour is unusual in that it covers far more than a Boundary.
+*Extend Glamour*, 0 points, constant, Mentem: the Cailleach Bheur's glamour is unusual in that it covers far more than a Boundary.
 
-*Focus Power (Ice):* up to 5 points, Init –6, Auram (3 points on Penetration)
+*Focus Power (Ice)*, up to 5 points, Init –6, Auram (3 points on Penetration)
 
-*Focus Power (Storms):* up to 10 points, Init –11, Auram
+*Focus Power (Storms)*, up to 10 points, Init –11, Auram
 
-*Spreading a Mantle of Snow:* 1 point, Init –4, Auram: (2 intricacy points spent on cost). The hag pounds her staff — or mallet, in some areas — onto the ground so that it becomes hard and coated in ice.
+*Spreading a Mantle of Snow*, 1 point, Init –4, Auram: (2 intricacy points spent on cost). The hag pounds her staff — or mallet, in some areas — onto the ground so that it becomes hard and coated in ice.
 
-*Conjuration of the Indubitable Cold*: 0 points, Init –4, Ignem: (3 intricacy points spent on cost). As the spell of the same name on **ArM5** page 142.
+*Conjuration of the Indubitable Cold*, 0 points, Init –4, Ignem: (3 intricacy points spent on cost). As the spell of the same name on **ArM5** page 142.
 
 **Equipment:** Her plaid, which covers the land.
 
 **Vis:** 8 or 10 Auram, a rotten plaid
 
-**Appearance**: The Cailleach Bheur has blueblack skin, like a corpse, and is hideously ugly. In some areas she turns to stone during the summer months.
+**Appearance:** The Cailleach Bheur has blueblack skin, like a corpse, and is hideously ugly. In some areas she turns to stone during the summer months.
 
 In some areas, single creatures represent summer and winter. In many parts of Ireland and Scotland, for example, the winter is represented by the blue hag, the Cailleach Bheur. The blue hag is the guardian of the streams and wells, and the protectress of wolves, goats, deer, cattle, and many other animals. She washes her plaid at a particular spot until it is pure white, then spreads it over the land until summer, when her power passes to a rival. In ancient times this was often the goddess Brigid, but in other areas she keeps the summer as her prisoner.
 
@@ -4812,17 +4818,17 @@ Południca's Virtues and Flaws are not balanced: she requires an additional Mino
 
 **Soak:** +0
 
-**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20), Dead (21+)
+**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20), Dead (21+)
 
 **Abilities:** Awareness 3 (laziness), Charm 2 (rural people), Faerie Speech 5 (rural people), Local Farms Lore 6 (stewardship), Profession: Farmer 6 (stewardship), Single Weapon 3 (rural people)
 
 **Powers:**
 
-*Cause Fatigue:* 0 points, Init 0, Ignem: (2 points each on cost and Initiative) Causes the loss of a long-term fatigue level via heatstroke.
+*Cause Fatigue*, 0 points, Init 0, Ignem: (2 points each on cost and Initiative) Causes the loss of a long-term fatigue level via heatstroke.
 
-*Shift Human Shapes*: 1 point, Init –1, Corpus (beautiful to hideous within a range of +3/–3 Presence)
+*Shift Human Shapes*, 1 point, Init –1, Corpus (beautiful to hideous within a range of +3/–3 Presence)
 
-*Transform into Whirlwind*: 3 points, +2 Init, Auram (1 intricacy point on cost, 2 on Initiative)
+*Transform into Whirlwind*, 3 points, Init +2, Auram (1 intricacy point on cost, 2 on Initiative)
 
 **Vis:** 2 pawns (scythe, Ignem)
 
@@ -4830,15 +4836,15 @@ Południca's Virtues and Flaws are not balanced: she requires an additional Mino
 
 Południca usually appears around noon on hot days, and asks farmhands difficult questions, or engages them in conversation. If the farmhand tries to change the topic of their conversation, or cannot answer one of the faerie's questions, she gives him heatstroke. If particularly annoyed at this farmhand, she might instead drive him insane, or cause his death from hyperthermia.
 
-> # Story Seed: Południca
-> 
+> ### Story Seed: Południca
+>
 > There is a little girl in a village near the covenant who has an imaginary friend. Her friend is a hyperthermia faerie, like Południca. The girl, through an artistic temperament, some luck, and an invitation to play, has convinced the spirit that it should express emotional, rather than atmospheric, warmth toward the girl. The girl's friendship with the faerie keeps it close to her village, and does not alter its attitude to other humans, so she poses a terrible risk to her neighbours. The girl can be used as bait to ambush the faerie, though, and destroy it.
-> 
+>
 > Skilled characters might, instead, trap the faerie and alter it over the course of years. They would need to find a way to feed it sufficient vitality that it can change role, spread stories about the faerie that make the change of role easier, defend the role against other faeries that attempt to fill it, then coach the girl to collaborate with it, so that it becomes a more-helpful harvest faerie.
 
 #### Christmas
 
-Faeries are particularly attracted to the ebullient energy of celebrating humans, and many are drawn to Christmas celebrations. They include **kallikantzaroi**  in Greece, the **jolarsveniar** in Norway, the **trows** in the Shetland Islands and the **drekavac** in Serbia.
+Faeries are particularly attracted to the ebullient energy of celebrating humans, and many are drawn to Christmas celebrations. They include **kallikantzaroi** in Greece, the **jolarsveniar** in Norway, the **trows** in the Shetland Islands and the **drekavac** in Serbia.
 
 ##### Kallikantzaro
 
@@ -4862,7 +4868,7 @@ Kallikantzaroi make poor player character because they are trapped within the Ea
 
 **Soak:** +3
 
-**Wound Penalties**: –1 (1-2), –3 (3-4), –5 (5- 6), Incapacitated (7-8), Dead (9+)
+**Wound Penalties:** –1 (1-2), –3 (3-4), –5 (5- 6), Incapacitated (7-8), Dead (9+)
 
 **Abilities:** Athletics 1 (climbing)\*, Awareness 1 (shiny things), Brawl 3 (each other), Faerie Speech 5
 
@@ -4870,9 +4876,9 @@ Kallikantzaroi make poor player character because they are trapped within the Ea
 
 **Powers:**
 
-*Silent Motion:* 1 point, constant, Imaginem. These faeries are capable of silent motion, but make noise by damaging things in the excitement of their revels.
+*Silent Motion*, 1 point, constant, Imaginem. These faeries are capable of silent motion, but make noise by damaging things in the excitement of their revels.
 
-*Supernatural Agility*: 0 points, constant, Animal (3 intricacy points spent on cost).
+*Supernatural Agility*, 0 points, constant, Animal (3 intricacy points spent on cost).
 
 **Vis:** 1 pawn (Animal)
 
@@ -4908,7 +4914,7 @@ Faerie Hounds are not suited as player characters.
 
 **Size:** +1
 
-**Virtues and Flaws**: Greater Faerie Power (varies), Faerie Beast, Faerie Sight, Improved Characteristics, Sharp Ears, Large; Incognizant, Reckless, Traditional Wards (varies)
+**Virtues and Flaws:** Greater Faerie Power (varies), Faerie Beast, Faerie Sight, Improved Characteristics, Sharp Ears, Large; Incognizant, Reckless, Traditional Wards (varies)
 
 **Personality Traits:** Loyal +3, Reckless +3, Brave +2
 
@@ -4920,7 +4926,7 @@ Faerie Hounds are not suited as player characters.
 
 **Soak:** +2
 
-**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
+**Wound Penalties:** –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
 
 **Pretenses:** Athletics 5 (distance running), Awareness 6 (keeping watch), Brawl 5 (bite), Hunt 6 (track by scent)
 
@@ -4928,19 +4934,19 @@ Faerie Hounds are not suited as player characters.
 
 For rapid character generation, select from the following Greater Powers. Many others are known, but these are the most common. Take a total of 50 spell levels of powers. Trading 5 full levels allows the character to spend an intricacy point to reduce the cost of each use of a power, or the Initiative penalty for the power, by 1.
 
-*Damaging Effect:* 2 points: Init 0, Varies
+*Damaging Effect*, 2 points: Init 0, Varies
 
-*Enthralling Sound:* 3 points, Init –2, Mentem: Used to cause terror and panic with its howl.
+*Enthralling Sound*, 3 points, Init –2, Mentem: Used to cause terror and panic with its howl.
 
-*Enthrallment:* 4 points, Init –2, Mentem
+*Enthrallment*, 4 points, Init –2, Mentem
 
-*Fearful Flaming Eyes:* 2 points, Init –2, Corpus
+*Fearful Flaming Eyes*, 2 points, Init –2, Corpus
 
-*Hound:* 2 points, Init 0, Corpus
+*Hound*, 2 points, Init 0, Corpus
 
 Many also have the Personal Faerie Power of Flight. For this, add the Personal Faerie Powers Virtue.
 
-*Flight:* 0 points, constant +2, Animal (2 intricacy points on cost)
+*Flight*, 0 points, constant +2, Animal (2 intricacy points on cost)
 
 **Vis:** 1 pawn Animal, dog corpse
 
@@ -4952,7 +4958,7 @@ Huge faerie dogs haunt the roads of much of Mythic Europe. They terrify, and som
 
 In part of France, this role is filled by a terrifying goat.
 
-**Aufhocker**: Found in German-speaking areas, this creature acts as a kelpie, and uses its adhere power to cling to foes while goring them so that its weight adds 6 to their combat Load.
+**Aufhocker:** Found in German-speaking areas, this creature acts as a kelpie, and uses its adhere power to cling to foes while goring them so that its weight adds 6 to their combat Load.
 
 **Kludie:** From Belgium, this is the most-powerful variant of this beast. It can take monstrously large versions of the forms of dog, cat, bat, horse, or frog. It walks on its back legs, with a dancing movement as it sprints toward its victim. It is preceded by supernatural blue flames. Kludie knows the trick of bouncing on the back of his quarry and using the adhere power to drag his prey down. It also does the kelpie trick, dunking or drowning those who mount him in horse form.
 
@@ -4968,7 +4974,7 @@ Kelpies are not suited as player characters.
 
 **Virtues and Flaws:** 2 x Great Characteristics, 3 x Improved Characteristics, Greater Faerie Powers, Faerie Beast, Faerie Sight, Feast of the Dead; Aloof, Incognizant, Fear (loud noises), Traditional Ward (sign of the cross).
 
-**Personality Traits**: Brave +2
+**Personality Traits:** Brave +2
 
 **Combat**:
 
@@ -4976,15 +4982,15 @@ Kelpies are not suited as player characters.
 
 **Soak:** +3
 
-**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
+**Wound Penalties:** –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
 
 **Abilities:** Athletics 5 (long-distance running), Awareness 3 (noises), Brawl 3 (predators)
 
 **Powers**:
 
-*Adhere*: 0 points, Init 0, Corpus. (1 intricacy point on cost)
+*Adhere*, 0 points, Init 0, Corpus. (1 intricacy point on cost)
 
-*Guide:* 1 points, Init –2, Mentem. (2 intricacy points on cost)
+*Guide*, 1 points, Init –2, Mentem. (2 intricacy points on cost)
 
 **Equipment:** None.
 
@@ -5026,7 +5032,7 @@ Licho is not suited for player characters.
 
 **Powers:**
 
-*Adhere:* 0 points, Init 0, Corpus: Licho uses the adhere power to cling to the neck of her victims, or to make them unable to drop an item created from her glamor. Penetration +8 due to spent intricacy points.
+*Adhere*, 0 points, Init 0, Corpus: Licho uses the adhere power to cling to the neck of her victims, or to make them unable to drop an item created from her glamor. Penetration +8 due to spent intricacy points.
 
 **Vis:** 1 pawn Corpus, a skeletal hand.
 
@@ -5042,7 +5048,7 @@ A donestre looks like a human with the head of a lion. They are particularly ski
 
 The shore is a dangerous place — to step over the high tide mark is to enter a world where humans are not the masters. Many fisherfolk are deeply superstitious, because their superstitions offer them some promise of being able to manipulate the moods of the waters. The ancient Irish claimed that Arcadia began seven waves in any direction from Ireland, a view that is no longer true, but is still indicative. The sea is a wonderful and terrible place, and the stories people tell of it take beautiful and hideous forms.
 
-###### Tritons
+##### Tritons
 
 Merfolk are finicky to convert to companions. Players may wish to trade out the Flaws Aloof and Restricted Might, gaining 80 Pretense points. They then need to spend the Pretense points, select a Social Interaction Virtue or Flaw, and then select additional Flaws to balance up the many Virtues. There is still a little space for additional Flaws, if added Virtues are desired.
 
@@ -5062,9 +5068,9 @@ The merfolk described here are not optimized for combat: player character merfol
 
 **Combat:**
 
-*Brawl*: Init: +3, Attack +3, Defense +1, Damage +5
+*Brawl*: Init +3, Attack +3, Defense +1, Damage +5
 
-*Trident and Net:\** Init:+3, Attack +3, Defense +1, Damage +5
+*Trident and Net:\** Init +3, Attack +3, Defense +1, Damage +5
 
 *Trident (thrown):* Init+1, Attack +5, Defense +3, Damage +5
 
@@ -5074,7 +5080,7 @@ Soak: +3\*
 
 \* Leather clothes.
 
-**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16–20), Dead (21+)
+**Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16–20), Dead (21+)
 
 **Abilities:** Area Lore: Fishing Grounds 2 (productive spots), Awareness 2 (fish), Bargain 2 (for catches), Brawl 1 (underwater), Charm 2 (fisherfolk), Faerie Speech 5, Folk Ken 2 (fisherfolk), Guile 2 (about origin), Music 2 (singing), Profession: (fisher) 3, Single Weapon 1 (spear), Swim 3 (endurance), Thrown Weapon 3 (spear)
 
@@ -5082,15 +5088,15 @@ Soak: +3\*
 
 Merfolk from various regions display a wide variety of powers. One variety has the following powers. Some, more powerful, merfolk are able to cause storms or grant wishes for wealth.
 
-*Enthralling Sound:* 3 points, Init –2, Mentem: Merfolk, mermaids in particular, can cause fascination in sailors who hear them sing. They usually allow the men to return to shore, with instructions to purchase them beautiful things that cannot be made in the sea, like glass mirrors. Cannibalistic mermaids lure ships onto rocks.
+*Enthralling Sound*, 3 points, Init –2, Mentem: Merfolk, mermaids in particular, can cause fascination in sailors who hear them sing. They usually allow the men to return to shore, with instructions to purchase them beautiful things that cannot be made in the sea, like glass mirrors. Cannibalistic mermaids lure ships onto rocks.
 
-*Kiss of the Mermaid*: 3 points, Init –2, Aquam
+*Kiss of the Mermaid*, 3 points, Init –2, Aquam
 
-*Push of the Gentle Wave*: 2 points Init –1, Aquam: Similar to the spell of the same name (**ArM5** page 124), but has a longer effect, allowing the faerie to appear to tow small boats or swim assisted by a magical current. Costs 15 spell levels (Base 4, +1 Touch, +2 Sun)
+*Push of the Gentle Wave*, 2 points Init –1, Aquam: Similar to the spell of the same name (**ArM5** page 124), but has a longer effect, allowing the faerie to appear to tow small boats or swim assisted by a magical current. Costs 15 spell levels (Base 4, +1 Touch, +2 Sun)
 
-*Conversing with the Sea:* 3 points, Init –2, Aquam. Allows the faerie to ask questions of its local part of the ocean. Similar to *Voice of the Lake*, **ArM5** page 122, except that faeries can converse with portions of genuine lakes and seas. Costs 25 spell levels (Base 15 +1 Touch +1 Concentration)
+*Conversing with the Sea*, 3 points, Init –2, Aquam. Allows the faerie to ask questions of its local part of the ocean. Similar to *Voice of the Lake*, **ArM5** page 122, except that faeries can converse with portions of genuine lakes and seas. Costs 25 spell levels (Base 15 +1 Touch +1 Concentration)
 
-*Transform into Human:* 3 points, Init: –2, Corpus. This has been treated as a level 25 effect, slightly easier than a complete transformation into a fish (level 30). Some faeries have this power due to an External Vis Source. Humans finding this source, which is often a red hat, can turn into merfolk. If designing one of these faeries, add the External Vis Source Virtue, then add a power worth 25 spell levels to replace this.
+*Transform into Human*, 3 points, Init –2, Corpus. This has been treated as a level 25 effect, slightly easier than a complete transformation into a fish (level 30). Some faeries have this power due to an External Vis Source. Humans finding this source, which is often a red hat, can turn into merfolk. If designing one of these faeries, add the External Vis Source Virtue, then add a power worth 25 spell levels to replace this.
 
 **Equipment:** Fishing gear (trident, net, bag over shoulder, personal trinkets)
 
@@ -5114,7 +5120,7 @@ The following variants may also suit your game.
 
 **Hakennman:** This merman is divided slightly differently than normal: he has the body of and tail of a fish, and has the torso and head of a human rising from the front of that body.
 
-**Icthyocentaur**: A creature with the torso and head of a human, the tail of a fish or dolphin, and the front legs of a horse.
+**Icthyocentaur:** A creature with the torso and head of a human, the tail of a fish or dolphin, and the front legs of a horse.
 
 **Liban:** In part of Ireland there is a hagiography that indicates that a woman was changed into a mermaid by the goddess Danu. She lived for 300 years, and then was baptised, at her request, by a monk. After her death she entered Heaven as a Holy Virgin, and miracles were done through her intercession.
 
@@ -5146,17 +5152,17 @@ Selkie kings might substitute for magi as player characters, but require substan
 
 **Soak:** +1 or +6
 
-**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-25), Dead (26+)
+**Wound Penalties:** –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-25), Dead (26+)
 
-**Pretenses:** Brawl 3 (bite), Athletics 3 (acrobatic turns), Awareness 3 (fisherfolk), Faerie Speech 5, Hunt 3 (fish), Swim 5 (pursuit) 
+**Pretenses:** Brawl 3 (bite), Athletics 3 (acrobatic turns), Awareness 3 (fisherfolk), Faerie Speech 5, Hunt 3 (fish), Swim 5 (pursuit)
 
 **Powers:**
 
-*Always Hear the Waves:* 2 points, Init –1 or 0, Aquam: The faerie always knows the direction and distance to the Palace of the Selkie King. 15 spell levels (Base 2 +4 Arcane +1 Concentration)
+*Always Hear the Waves*, 2 points, Init –1 or 0, Aquam: The faerie always knows the direction and distance to the Palace of the Selkie King. 15 spell levels (Base 2 +4 Arcane +1 Concentration)
 
-*Steal Judgment:* 2 points, Init –1 or 0, Mentem: The target believes almost any lie that the faerie tells, although an Intelligence roll against an Ease Factor of 6 is permitted to resist, with easier rolls for truly incredible lies.
+*Steal Judgment*, 2 points, Init –1 or 0, Mentem: The target believes almost any lie that the faerie tells, although an Intelligence roll against an Ease Factor of 6 is permitted to resist, with easier rolls for truly incredible lies.
 
-*Spill Blood:* 2 points, Init –1 or 0, Auram: When a selkie's blood is spilled on the ocean, it creates an effect similar to *Clouds of Rain and Thunder*, but with a longer duration. When acting in concert a group of selkies shedding blood on the waters can cause tremendous storms like *Wrath of Whirling Winds and Water*, **ArM5** page 126. This is used to avenge mass slaughters of seals, or the death of other selkies. 20 spell levels (Base 3 +1 Touch +2 Sun +2 Group)
+*Spill Blood*, 2 points, Init –1 or 0, Auram: When a selkie's blood is spilled on the ocean, it creates an effect similar to *Clouds of Rain and Thunder*, but with a longer duration. When acting in concert a group of selkies shedding blood on the waters can cause tremendous storms like *Wrath of Whirling Winds and Water*, **ArM5** page 126. This is used to avenge mass slaughters of seals, or the death of other selkies. 20 spell levels (Base 3 +1 Touch +2 Sun +2 Group)
 
 **Equipment:** Seal skin.
 
@@ -5188,7 +5194,7 @@ Seals can hold their breath for twice as long as normal, and the bonus from its 
 
 **Fatigue Levels:** OK, 0/0, –1/–1, –3/–3, –5, Unconscious
 
-**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
+**Wound Penalties:** –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
 
 **Abilities:** Brawl 3 (bite), Athletics 3 (acrobatic turns), Awareness 3 (fish), Hunt 4 (fish), Swim 4+2 (pursuit), Survival 3 (at sea)
 
@@ -5212,11 +5218,11 @@ Fool's fire is not a creature that's suitable as a player character.
 
 **Soak:** 0
 
-**Wound Penalties**: Immaterial, but any damage to immaterial things snuffs the fire out (Dead (1+))
+**Wound Penalties:** Immaterial, but any damage to immaterial things snuffs the fire out (Dead (1+))
 
 **Powers:**
 
-*Guide:* 0 points, Init +6 Mentem: 4 intricacy points spent on cost, added magnitudes for Sight Range and Sun Duration.
+*Guide*, 0 points, Init +6 Mentem: 4 intricacy points spent on cost, added magnitudes for Sight Range and Sun Duration.
 
 **Equipment:** One large swamp
 
@@ -5266,7 +5272,7 @@ The great lezi described here is not suited as a player character.
 
 *2 x Brawl (club):\** Init 1+(Size x –1), Attack 8, Defense 7+(Size x –1), Damage +9+(Size x 2)
 
-*\** The lezi's arms are made of solid wood, and do damage like a club. They are wielded with the Brawl Pretense, even if the lezi generates clubs to use in battle*.*
+\* The lezi's arms are made of solid wood, and do damage like a club. They are wielded with the Brawl Pretense, even if the lezi generates clubs to use in battle.
 
 **Soak:** +15
 
@@ -5290,24 +5296,24 @@ The great lezi described here is not suited as a player character.
 
 **Powers:**
 
-*Extended Glamour:* 0 points, constant, Mentem: Constantly in touch with the forest.
+*Extended Glamour*, 0 points, constant, Mentem: Constantly in touch with the forest.
 
-*Focus Power (Manifestation):* 5 points, Init –5\*, Animal or Herbam.
+*Focus Power (Manifestation)*, 5 points, Init –5\*, Animal or Herbam.
 
-*Focus Power (Woodland Change):* 5 points, Init –5\*, Herbam: Muto and Intellego effects only in Herbam and Animal.
+*Focus Power (Woodland Change)*, 5 points, Init –5\*, Herbam: Muto and Intellego effects only in Herbam and Animal.
 
-*Focus Power (Size Reduction):* 5 points, Init –5, Corpus or Animal: Are considered to naturally be Size +7, and use powers to live at a smaller Size.
+*Focus Power (Size Reduction)*, 5 points, Init –5, Corpus or Animal: Are considered to naturally be Size +7, and use powers to live at a smaller Size.
 
-*Transform into Animal:*\*\* 3points, Init. –3\*, Animal
+*Transform into Animal*\*\*, 3 points, Init –3\*, Animal
 
-*Transform into Bird or Fish:*\*\* 3 points, Init: –3\*, Animal
+*Transform into Bird or Fish*\*\*, 3 points, Init –3\*, Animal
 
-*Transform into Human*: This power costs the Lezi whatever it cost to transform away from the human shape. For character creation purposes, its cost and Initiative must be equal to the most expensive the character will use it to reverse, in this case Transform into Object (Plant).
+*Transform into Human,* This power costs the Lezi whatever it cost to transform away from the human shape. For character creation purposes, its cost and Initiative must be equal to the most expensive the character will use it to reverse, in this case Transform into Object (Plant).
 
-*Transform into Object (Plant*):\*\* 4 points, Init –4\*, Herbam
+*Transform into Object (Plant*)\*\*, 4 points, Init –4\*, Herbam
 
-- \* Add appropriate Quickness modifier, based on Size.
-- \*\* Lezi are extraordinary in that they can change into any animal or plant from their woodland: they do not specify alternative forms as other creatures do.
+\* Add appropriate Quickness modifier, based on Size. <br>
+\*\* Lezi are extraordinary in that they can change into any animal or plant from their woodland: they do not specify alternative forms as other creatures do.
 
 **Equipment:** Can fabricate an endless variety of material from the woodland.
 
@@ -5345,23 +5351,23 @@ As potential player characters fauns require some adaptation. They require a Soc
 
 **Soak:** +3
 
-**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
+**Wound Penalties:** –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24), Dead (25+)
 
 **Abilities:** Athletics 2 (dancing), Awareness 2, Brawl 5 (wrestling), Carouse 6, Charm 2 (taking liberties), Guile 2 (women), Local Language 3, Music 3 (flute), Single Weapon 3 (spear), Thrown Weapon 3 (spear)
 
 **Powers:**
 
-*Grant Puissance in Combat:* 2 points, Init 0, Mentem: Fauns can play wild, violent music, giving those who hear it +3 on Weapon Skills (affecting Attack and Damage rolls) and Brave totals for the rest of the scene.
+*Grant Puissance in Combat*, 2 points, Init 0, Mentem: Fauns can play wild, violent music, giving those who hear it +3 on Weapon Skills (affecting Attack and Damage rolls) and Brave totals for the rest of the scene.
 
-*Endless Wine:* 0 points, constant, Herbam: (1 intricacy point spent on cost). Any vessel the faun touches fills with wine, if the faun so wishes. Note that fauns prefer human wine, because it has vitality. Fauns give this wine to humans so that they act in vital, uninhibited ways. This effect also makes vines laden with grapes spring up in places where fauns dwell, in some cases. (Base 2, +1 Touch, +2 Sun, +1 constant.\* )
+*Endless Wine*, 0 points, constant, Herbam: (1 intricacy point spent on cost). Any vessel the faun touches fills with wine, if the faun so wishes. Note that fauns prefer human wine, because it has vitality. Fauns give this wine to humans so that they act in vital, uninhibited ways. This effect also makes vines laden with grapes spring up in places where fauns dwell, in some cases. (Base 2, +1 Touch, +2 Sun, +1 constant.\* )
 
 \* This power lasts for the length of the party. These usually break up at dawn, so it has been given Sun Duration. Note that harm caused to people by effects that vanish does not, itself, vanish, so phantom wine can create real hangovers.
 
-*Steal Judgment:* 2 points, Init 0, Mentem *OR*
+*Steal Judgment*, 2 points, Init 0, Mentem *OR*
 
-*Endless Wine:* 0 points, constant, Herbam.
+*Endless Wine*, 0 points, constant, Herbam.
 
-*Enthralling Sound:* 0 points, Init –1, Mentem: (3 intricacy points spent on cost) Faun dancing music makes listeners more riotous and merry, increasing Personality traits like Reckless, Lustful, and Impulsive for the rest of the scene.
+*Enthralling Sound*, 0 points, Init –1, Mentem: (3 intricacy points spent on cost) Faun dancing music makes listeners more riotous and merry, increasing Personality traits like Reckless, Lustful, and Impulsive for the rest of the scene.
 
 **Vis:** 1 pawn Animal, goat horn
 
@@ -5411,13 +5417,13 @@ Satyrs are weaker than fauns, so they require less modification to suit beginnin
 
 **Soak:** +4
 
-**Wound Penalties**: –1 (1-4), –3 (5-8), –5 (9- 12), Incapacitated (13-16), Dead (17+)
+**Wound Penalties:** –1 (1-4), –3 (5-8), –5 (9- 12), Incapacitated (13-16), Dead (17+)
 
 **Abilities:** Athletics 2 (dancing), Awareness 2 (humans), Brawl 1 (escaping), Carouse 6 (party games), Charm 2 (taking liberties), Guile 2 (women), Local Language 3, Music 3 (flute), Thrown Weapon 5 (spear)
 
 **Powers:**
 
-*Enthralling Sound:* 0 point, Init +2, Mentem: (3 intricacy points spent on cost, 1 on Initiative) Satyr dancing music makes listeners more riotous and merry, increasing Personality traits like Reckless, Lustful, and Impulsive for the rest of the scene.
+*Enthralling Sound*, 0 point, Init +2, Mentem: (3 intricacy points spent on cost, 1 on Initiative) Satyr dancing music makes listeners more riotous and merry, increasing Personality traits like Reckless, Lustful, and Impulsive for the rest of the scene.
 
 **Vis:** 1 pawn in a phallic-looking reed
 
@@ -5437,9 +5443,9 @@ Many cultures in Northern Europe tell stories of the creatures that dwell in the
 
 Koerakoonlased are suited for play as companions. Characters divided vertically should take the Missing Eye Flaw, and depend less on missile weapons than dog-headed (cynocephalus) koerakoonlased. The statistics given below have unbalanced Virtues and Flaws, but the Pretenses are correct for beginning characters.
 
-### Faerie Might: 5
+***Faerie Might:*** 5
 
-### Characteristics:
+***Characteristics:***
 
 *Vertically Divided:* Int 0, Per +1, Pre –3, Com 0, Str +2, Sta +3, Dex 0, Qik +2
 
@@ -5475,7 +5481,7 @@ For the leader of a raiding party, add +3 to all Attack and Defense bonuses to r
 
 **Soak:** +6
 
-**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+**Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 
 **Pretenses:** Animal Handling 3 (dogs), Awareness 2 (slaves), Brawl 2 (bite), Carouse 1 (on spoils of raid), Faerie Speech 4 (making demands), Hunt 3 (humans), Ride 5 (sled), Single Weapon 4 (club), Survival 3 (icy conditions), Thrown Weapon 4 (javelin),
 
@@ -5495,15 +5501,15 @@ More-powerful koerakoonlased have been observed. Some act as war leaders, and th
 
 Variations of the koerakoonlane are reported in Baltic countries. In some areas they have human bodies down one side, and dog bodies down the other, with a single eye in the middle of their heads. In others they are human from the neck down, with dog heads. Hermetic magi who study faeries would be interested in how this drift in their appearance occurred, if they were less dangerous to approach.
 
->## Saga Seed: Escape, Then Fortify
-> 
+> ### Saga Seed: Escape, Then Fortify
+>
 > Before the koerakoonlased mount a major invasion of the warm lands, they make additional raids, then concentrate their slaves into work camps. A campaign might start with the non-magi trapped in such a camp, and detail their escape to the south. When the Order discovers that an invasion of the tribunal is imminent, they send a force of magi, again player characters, to respond. The characters build a covenant slightly south of the koerakoonlased, tasked with sending warning south if the faeries mass in force again, and holding their castle against koerakoonlased besiegers, as a mustering space for the tribunal's forces.
 
 **Hemicynes:** These peaceful, dogheaded people are said to come from the far north. They appear in western European folklore. They may be magical creatures of which the koerakoonlased are faerie variants, or the converse.
 
 **Naval Koerakoonlased:** The hero Kalevipoeg tried to sail to the Underworld, and discovered an island filled with koerakoonlased, but these creatures were peaceful farmers and did not have human slaves. After Kalevipoeg destroyed their crops they became fishers, but no naval attacks by koerakoonlased have been reported.
 
-### The Entrances to the Earth
+#### The Entrances to the Earth
 
 Mythic Europeans have a mixed relationship with caves. They are useful, for shelter and for storage of goods, but they are also dangerous places, on the verge of a different world. In parts of Italy, people use caves to store wine and cheese, and when they are ready, the grotto becomes a tavern. In Roman times, many of these taverns were guarded by statues of Cerberus, the guardian of the gate of Hades. Caves are like tombs: revels within them may lead to contact with creatures that guard the border of the deep earth, or the land of the dead.
 
@@ -5549,7 +5555,7 @@ For every Size less than –2, subtract –2 Damage and add +1 Initiative and De
 
 *For Size –5:* –3 (1), –5 (2), Incapacitated (3), Dead (4+)
 
-**Pretenses**: Athletics 2 (digging), Awareness 2 (hazards underground), Bargain 5 (with mortals), Brawl 6 (fist), Craft (smith) 5 (weapons), Great Weapon 5 (pick, as pole arm)
+**Pretenses:** Athletics 2 (digging), Awareness 2 (hazards underground), Bargain 5 (with mortals), Brawl 6 (fist), Craft (smith) 5 (weapons), Great Weapon 5 (pick, as pole arm)
 
 **Powers:** Many cause rock falls, but this may be through physically damaging the mine's supports, rather than with a power. Some faeries seem to have the power to make people tiny, so that they can enter the faeries' miniature subterranean kingdoms.
 
@@ -5565,25 +5571,25 @@ Dwarfs, like most faeries, lack the capacity to innovate. They can, however, mak
 
 The little folk known in many tales as having a pot of gold that they must surrender if caught are a type of dwarf. In Mythic Europe these creatures tend to dress in red, and sometimes have the habit of sending dreams that are addictive. They make their victim dig for treasure at a certain spot until they lose their profession, then their health, then their life. Some gnomes live just beneath the Earth, and are able to affect the fertility of plants, through their roots, leading to conventional affluence.
 
->## Story Seed: Searching For Sanctuary
-> 
+> ### Story Seed: Searching For Sanctuary
+>
 > An itinerant tailor related to one of the grogs has sought out the covenant because he feels safe within its walls. One night while drinking with faeries, he became afraid he would be trapped forever, so he placed one of his needles in the goblet of the minor goblin king he was toasting with. The faerie swallowed his needle, which wedged in his throat and choked him, so that the tailor could flee. Since that time, whenever the tailor touches a thread it breaks, a curse that is alleviated while within the covenant. The tailor would like his needle back, and the Arcane Connection between the tailor and the part of his life wedged in the goblin's throat can guide the characters to the site where the court of mining faeries dwells.
 
-### Dwarf, Gnome, & Goblin Variants
+##### Dwarf, Gnome, & Goblin Variants
 
 Dwarfs are found in the Germanic and Norse spheres of Mythic Europe. Other known variations include the following.
 
 **Barbegazi:** These are dwarfs of the snows. They are found in burrows on the mountaintops in many areas. They are all male, and have beards of icicles and broad feet that they can use to slide across the snow. Their cries can cause avalanches. They are well-disposed toward humans who meet their standards of goodness and politeness, but often murder people they think are "bad" by crushing them to death.
 
->## Story Seed: The Covenant's Reputation
-> 
+> ### Story Seed: The Covenant's Reputation
+>
 > A covenant that develops an evil reputation in surrounding areas eventually attracts faeries who represent that evil. Evil is often framed, in medieval storytelling, in terms of the Infernal, so faeries that have the distinctive folklorisitic marks of demons may begin to interact with all of the communities that surround the covenant, raising the ire of the Church and the Quaesitores. Characters cannot fight these demons in the conventional way: there are always new faeries to fill vacant roles in a popular story. The characters need to find symbolic acts that change the perception of the covenant in the minds of surrounding people.
 
-**Dvergar**: These Norse dwarves were originally maggots in the corpse of the giant Ymir, from whom the world was made. The Norse gods chose to give them intelligence and their human shape. They flee sunlight, which can reduce them to stone. They were the crafters of many of the treasures and weapons of the gods, and were powerful workers of magic. The curse of a dwarf on the Rhine gold is a major contributor to Ragnarok, and the son of the dwarf king, Fafnir, is able to turn himself into a dragon to express his greed for the treasure he has obtained.
+**Dvergar:** These Norse dwarves were originally maggots in the corpse of the giant Ymir, from whom the world was made. The Norse gods chose to give them intelligence and their human shape. They flee sunlight, which can reduce them to stone. They were the crafters of many of the treasures and weapons of the gods, and were powerful workers of magic. The curse of a dwarf on the Rhine gold is a major contributor to Ragnarok, and the son of the dwarf king, Fafnir, is able to turn himself into a dragon to express his greed for the treasure he has obtained.
 
-**Gnome**: This term is not used in Mythic Europe, except perhaps for earth elementals by some magi. Creatures who resemble gnomes, even down to the pointy red hat, are known, but have a variety of names in local languages.
+**Gnome:** This term is not used in Mythic Europe, except perhaps for earth elementals by some magi. Creatures who resemble gnomes, even down to the pointy red hat, are known, but have a variety of names in local languages.
 
-**Karzełek**: These creatures are Polish dwarfs with green grass for hair, who ride their diminutive horses over field hands who go to sleep when they should be working. This is often fatal. Karzeleks are not consistently nasty — they aid those who farm dedicatedly — but they are extremely violent in response to relatively minor infractions like going to the toilet in a field, or swearing while harvesting.
+**Karzełek:** These creatures are Polish dwarfs with green grass for hair, who ride their diminutive horses over field hands who go to sleep when they should be working. This is often fatal. Karzeleks are not consistently nasty — they aid those who farm dedicatedly — but they are extremely violent in response to relatively minor infractions like going to the toilet in a field, or swearing while harvesting.
 
 **Knockers:** These are Cornish spirits, who are said to warn miners of coming collapses by knocking. Knockers are thought by many to be the souls of dead Jewish miners. Although this is not true, the faeries who perform this role play along with the expectations of humans they encounter.
 
@@ -5595,19 +5601,19 @@ Some faeries guard the border of supernatural spaces, feeding on the fear that h
 
 **Fauns:** Faeries that prowl the borders of Infernal spaces often include twisted fauns. These fauns look very similar to demons, and are virtually indistinguishable to most medieval people.
 
-> # Story Seed: A Monstrous Protector
-> 
+> ### Story Seed: A Monstrous Protector
+>
 > In a lake in Switzerland that has a gateway to hell at its base, there is a faerie that pretends to be a demon. Butatschah-iglis is a vast amorphous sack, like a stomach, coated in clusters of eyes that emit beams of fire. It lives by consuming the fish of the lake, and any fishermen foolish enough to come close to the gate.
-> 
+>
 > This faerie is like a nursery bogie, but for adult fishermen instead of children. Its story, which explains the lack of fish in the lake through the presence of the monster, hides the existence of the gateway to Hell, while keeping people safely away from the danger.
-> 
+>
 > But the characters discover a clue in the diaries of the Founder Jerbiton, that indicates that there is no Infernal gateway in the lake. This too is merely a story, circulated to the more-educated members of the community with an injunction not to panic the common folk with the truth. The lake was created during the years of disorder after the fall of the Western Empire. It is the result of a magical battle that left a great hollow gouged from the Earth. Jerbiton's diaries do not describe the magical stronghold that lay there in any detail, and give no account for the real reason that the lake never contains fish, but it does mention that something terrible may be living in the depths: something even more terrible than its guardian faerie.
 
 ## Oft-Repeated Forms
 
 The following physical forms have been gathered together here because they are used in many stories, to guard a variety of borders.
 
-#### Giants and Other Gigantic Humans
+##### Giants and Other Gigantic Humans
 
 These generic statistics suit player character giants, but require the addition of a Social Interaction Virtue or Flaw, and then the balancing of the selected Virtues with Flaws. The player may wish to reduce the giant's Stamina and redistribute the Characteristic points spent on it, but this alters the giant's combat statistics and Soak. Similarly, the player may wish to reduce the giant's combat Pretenses to spare experience for purchasing social skills like Bargain and Charm.
 
@@ -5677,7 +5683,7 @@ Huge humans — giants, ogres, trolls, and many others going by less-modern name
 
 Faerie giants differ from Magical giants in several ways. Faerie giants are drawn to humans, despite the known danger from magi. They tend to cause terror and pain, so that they can harvest vitality. This makes them far more destructive than their Magical counterparts. Faerie giants also tend to recur: they regenerate unless their vis is used, so they plague regions periodically. Faerie giants often have daughters who are beautiful and human-sized, since this facilitates their role as love interest for heroes who come to slay the giant.
 
-#### Giant Variants
+##### Giant Variants
 
 These variations might be appropriate for your game.
 
@@ -5701,7 +5707,7 @@ These variations might be appropriate for your game.
 
 **Vörys-mort:** An unusual giant, who breaks the general rule that as giants get larger, they become slower. Vörys-mort is so tall that he can look over the forest. He moves so swiftly that if he runs, humans and animals he passes are picked up and carried along in the slipstream of air he creates. He sometimes assists hunters in the Volga by driving animals toward their traps.
 
-#### Giants in Combat
+##### Giants in Combat
 
 The combat rules are oriented toward characters of human size. Special considerations apply to combat between humans and giants. As noted on page 192 of **ArM5**, a three-point difference in size is approximately a tenfold difference in mass. This weight advantage also gives giants an advantage in certain combat situations.
 
@@ -5711,30 +5717,30 @@ Giants of Size +4 or larger must bend over double in order to reach a Size 0 hum
 
 Giants are subject to Corpus spells, but the base Individual Target for Corpus is a person of Size +1 or less. Most Corpus spells are not designed to affect anything as big as a giant.
 
-#### Orms and Other Dragons
+##### Orms and Other Dragons
 
-**Faerie Might:** *Size 0:* 20 (Animal). For every +2 Size, add 5 Might. For every –2 Size, subtract 5 Might
+**Faerie Might:** 20 (Animal). For every +2 Size, add 5 Might. For every –2 Size, subtract 5 Might
 
 **Characteristics:**
 
 *Size 0*: Int\* 0, Per –2, Pre –6, Com –6, Str +1\*\*, Sta +2, Dex +2, Qik 0\*\*
 
-- \* Non-player character orms are often Cunning rather than Intelligent.
-- \*\* For every +1 Size, add +2 Strength and subtract –1 Quickness. For every –1 in Size, subtract –2 Strength and add +1 Quickness.
+\* Non-player character orms are often Cunning rather than Intelligent. <br>
+\*\* For every +1 Size, add +2 Strength and subtract –1 Quickness. For every –1 in Size, subtract –2 Strength and add +1 Quickness.
 
-**Size**: –4 to Size +6
+**Size:** –4 to Size +6
 
-**Virtues and Flaws**: Huge or Little (as suits size), Faerie Beast; Faerie Sight, Faerie Speech\*, Highly Cognizant\*, Increased Characteristics, 3 x Increased Might (adjusted with size increase or decrease), Personal Faerie Power (Constant Damaging Effect)
+**Virtues and Flaws:** Huge or Little (as suits size), Faerie Beast; Faerie Sight, Faerie Speech\*, Highly Cognizant\*, Increased Characteristics, 3 x Increased Might (adjusted with size increase or decrease), Personal Faerie Power (Constant Damaging Effect)
 
 \* If Intelligent. Cunning orms are Incognizant and lack Faerie Speech.
 
-**Personality Traits**: Inquisitive +3, Hungry +2
+**Personality Traits:** Inquisitive +3, Hungry +2
 
 **Combat:**\*
 
 Damage statistics above do not include the Constant Damaging Effect power, which adds +5 when appropriate.
 
-*Size 0*
+*For Size 0*
 
 *Fangs*: Init (0–Size), Attack +14, Defense (+5–Size)\*, Damage (2 x Size)+2
 
@@ -5742,10 +5748,10 @@ Damage statistics above do not include the Constant Damaging Effect power, which
 
 *Claws* (if appropriate): Init –1, Attack +11, Defense +10, Damage +3
 
-- \* +6 to Defense against grapple attacks
-- \*\* An orm may grapple its own Size in Size 0 enemies.
+\* +6 to Defense against grapple attacks <br>
+\*\* An orm may grapple its own Size in Size 0 enemies.
 
-**Soak**: 6+Size
+**Soak:** 6+Size
 
 **Wound Penalties:**
 
@@ -5765,23 +5771,23 @@ Damage statistics above do not include the Constant Damaging Effect power, which
 
 **Powers:**
 
-*Constrict:\** When successfully struck with a constrict attack, the character is encoiled and unable to use mêlée weapons. The orm automatically does damage in each subsequent round, without requiring an Attack roll. The victim may still Soak damage. At the end of each round, including the round in which the constriction attack succeeds, the character may attempt to break free by an opposed Strength roll. To do this, he rolls Strength + a stress die, and compares it to the orm's Strength + a stress die. Success indicates he is free, and may attack normally in the following round. For each character assisting him to break free, he may add +1 to the Strength roll, but an assistant is unable to attack the orm in that round. A character unable to break free for 30 seconds (6 combat rounds) needs to make deprivation rolls, as described on page 179 of **ArM5**.
+*Constrict*\*, When successfully struck with a constrict attack, the character is encoiled and unable to use mêlée weapons. The orm automatically does damage in each subsequent round, without requiring an Attack roll. The victim may still Soak damage. At the end of each round, including the round in which the constriction attack succeeds, the character may attempt to break free by an opposed Strength roll. To do this, he rolls Strength + a stress die, and compares it to the orm's Strength + a stress die. Success indicates he is free, and may attack normally in the following round. For each character assisting him to break free, he may add +1 to the Strength roll, but an assistant is unable to attack the orm in that round. A character unable to break free for 30 seconds (6 combat rounds) needs to make deprivation rolls, as described on page 179 of **ArM5**.
 
-*Constant Damaging Effect,* 3 points, constant, Auram: Many orms emit a noxious slime or have toxic breath, and poison their surroundings, but many other damaging effects are known. This effect does +5 Damage, but is always active. 25 spell levels (Base 5 +1 Part, +2 Sun, +1 Constant)
+*Constant Damaging Effect*, 3 points, constant, Auram: Many orms emit a noxious slime or have toxic breath, and poison their surroundings, but many other damaging effects are known. This effect does +5 Damage, but is always active. 25 spell levels (Base 5 +1 Part, +2 Sun, +1 Constant)
 
-*Venomous Bite:\** When the orm attacks, compare its Attack Advantage to the victim's armor Protection (not his Soak). If the orm's advantage is higher, the victim suffers the effects of adder venom as listed in the Poison Table on page 180 of **ArM5**, regardless of whether the bite inflicts an actual wound. The storyguide may adjust the required Attack Advantage for special circumstances.
+*Venomous Bite*\*, When the orm attacks, compare its Attack Advantage to the victim's armor Protection (not his Soak). If the orm's advantage is higher, the victim suffers the effects of adder venom as listed in the Poison Table on page 180 of **ArM5**, regardless of whether the bite inflicts an actual wound. The storyguide may adjust the required Attack Advantage for special circumstances.
 
 \* These are natural abilities of the faerie's form, and do not require the Personal Faerie Powers Virtue.
 
-Gwibers and other flying orms also have a Personal Faerie Power: *Flight,* 0 points, Init Qik+3, Auram\*
+Gwibers and other flying orms also have a Personal Faerie Power: *Flight*, 0 points, Init Qik+3, Auram\*
 
-**Pretenses**: Area Lore 3 (watering points for prey), Awareness 3 (prey), Brawl 7 (crushing), Hunt 4 (rodents), Faerie Speech 5 (threats), Folk Ken 1 (human prey), Stealth 3 (stalking prey)
+**Pretenses:** Area Lore 3 (watering points for prey), Awareness 3 (prey), Brawl 7 (crushing), Hunt 4 (rodents), Faerie Speech 5 (threats), Folk Ken 1 (human prey), Stealth 3 (stalking prey)
 
 **Equipment: None**
 
 **Vis:** Might/5 pawns, in a snakeskin or a piece of lost string
 
-**Appearance**: Orms are vast snakes, normally smeared in toxic mucus.
+**Appearance:** Orms are vast snakes, normally smeared in toxic mucus.
 
 Most of the dragons of Mythic Europe are Magical or Infernal creatures, but one class of dragons, termed orms, are predominantly faeries. Orms, which means "worms," are usually faeries that take the role in the expectation that they will be destroyed.
 
@@ -5799,7 +5805,7 @@ Some other variations for your game might include the following.
 
 **Kalshedra:** An Albanian dragon that has the ability to breathe fire, and take the shape of a hag. It pollutes water with its urine, and causes drought. It accepts human sacrifices as payments to trouble some other town. It is a faerie that feeds directly on human vitality.
 
-**Pisuhänd**: A type of small dragon found on the Baltic coast that acts like a brownie.
+**Pisuhänd:** A type of small dragon found on the Baltic coast that acts like a brownie.
 
 **Tatzelwurm:** An Alpine type of dragon, ranging in length from two feet to six feet. The tatzelwurm has a catlike head with large eyes. It has the body of a lizard, but lacks hind legs. It can breathe clouds of toxic vapour. One variant, the tunnel worm (Stollenwurm) is far longer and fights by raising itself on hind legs and attacking with its foreclaws. It towers over human-sized opponents. The scales of the Stollenwurm are bristly and venous.
 
@@ -5807,11 +5813,11 @@ Some other variations for your game might include the following.
 
 **Vouivre:** The Vouivre has the hindparts of a two-legged green dragon and the foreparts of a woman. Some vouivres have arms, while others lack them. The Alpine version of this creature can spit flame. Each vouivre has a single eye, which is a huge gemstone on the centre of her forehead. This is usually a diamond, but French vouivres often have rubies instead. Even hedge wizards know how significant this stone is — many believe it can turn iron into gold — and attempt to steal it while the Vouivre sleeps. Each also guards a horde of mundane treasure, a portion of which it is possible to steal when she leaves her cave, once a year, to bathe. While bathing, some vouivres remove and hide their eyes, making this a perfect opportunity for thieves to either raid the hoard or, more dangerously, seek the eye. The treasure of the French version of this creature includes gigantic gold pieces, a pearl crown that she wears, and a ring of gold about her tail.
 
->## Story Seed: The Mother of Vis Sources
-> 
+> ### Story Seed: The Mother of Vis Sources
+>
 > Serpents with gemstones in their faces, that lack the transformation power of the vouivre's eye, are found in the forest of Luchon, at the foot of the Pyrenees in France. Characters harvesting the vis from these serpents do not realise that they are the children of a vouivre. When she bathes, one of her surviving children informs her that they have been decimated by magicians, and she seeks vengeance. This calls all of the hedge wizards of the area together, because they want to take advantage of the vouivre's distraction by attempting to open the doors of her subterranean lair and take the treasures there. Terrible questions, after this dispute is settled, remain. Will any remaining serpents grow into vouivres? And what manner of creature was their father?
 
-**Wivere**: An odd French dragon, whose name unhelpfully means "serpent," which lacks wings and legs. It is notable because its Sovereign Ward is that it cannot harm naked people.
+**Wivere:** An odd French dragon, whose name unhelpfully means "serpent," which lacks wings and legs. It is notable because its Sovereign Ward is that it cannot harm naked people.
 
 # Chapter Five : Touches of Faerie
 
@@ -5843,7 +5849,7 @@ Some Sympathy Traits represent a negative relationship, one of opposition rather
 
 Sympathy Traits are typically gained from Virtues or Flaws, or as a result of Warping (see Faerie Calling, below). They can increase with experience points like Abilities, so long as the value of the Trait does not exceed the character's Warping Score. For example, a character with a Warping Score of 2 could increase all of his Sympathy Traits to +2 through practice or exposure, but no higher. Practicing a Sympathy Trait for a season yields 5 experience points towards that Trait.
 
-Negative Sympathy Traits can be improved with experience points as well, as long as the character's Warping Score exceeds the absolute value of the Trait. For example, a character with a Warping Score of 2 could improve a –1 Trait through experience, but not a –2 or –3 Trait. It costs 10 experience points to increase a negative Trait from –1 to 0, 15 experience points to move from –2 to –1, 20 experience points to increase from –3 to –2, and so on.
+Negative Sympathy Traits can be improved with experience points as well, as long as the character's Warping Score exceeds the absolute value of the Trait. For example, a character with a Warping Score of 2 could improve a –1 Trait through experience, but not a –2 or –3 Trait. It costs 10 experience points to increase a negative Trait from –1 to 0, 15 experience points to move from –2 to –1, 20 experience points to increase from –3 to –2, and so on. It is possible to increase a negative trait to 0, and then start increasing it to 1.
 
 Since faerie sympathy can be capricious and is generally unpredictable, Sympathy Traits can also change with the character's fortunes. Whenever a player using a Sympathy Trait rolls a 1 on a stress roll, the character immediately gains one experience point in each Trait associated with the roll. For each 0 rolled as a botch when using a Sympathy Trait, the character loses an experience point in each applicable Trait. These effects are reversed for negative Traits, so that a botch increases the penalty and a 1 decreases it. These fluctuations are not limited by the character's Warping Score.
 
@@ -5851,11 +5857,11 @@ There is one other way that Sympathy Traits may be increased. If, through the co
 
 When a character already has a Sympathy Trait and gains a new one, the player may choose to take a Trait that overlaps his existing Trait, but with a broader scope, like that of a Major Magical Focus instead of a Minor. The value of this new Trait cannot increase beyond that of the Trait with the narrower range, but otherwise develops exactly the same as the character's other Sympathy Traits. For example, a character with a Dawn +3 Sympathy Trait might gain a new Day +1 Trait, which would be limited to a score of +3 for as long as the character's Dawn +3 Trait remained unchanged.
 
-## Faerie Rank
+### Faerie Rank
 
 Players with characters who possess Sympathy Traits should also keep track of their Faerie Rank. This statistic measures the strength of the character's connection to Faerie, and is often important for determining how well a faerie wizard succeeds when his powers require faeries to assist him directly. It is the value of the character's highest positive Sympathy Trait, modified by the character's lowest negative Sympathy Trait. For example, if a character had Winter at +4 and Summer at –2, the character's Faerie Rank would be 2. A character with Sympathy Traits of Dancing +1 and Stone –5 would have a Faerie Rank of –4.
 
->#### Sympathetic Influence
+> ### Sympathetic Influence
 >
 > | Ease Factor | Trait Value    |
 > |-------------|----------------|
@@ -5875,7 +5881,7 @@ After a Trait has been identified, the character then engages in either ceremoni
 
 Once the influence has been enacted, the player of the influencing character should make a roll: a simple die + Presence + Leadership. The results are applied to the following chart, which shows the value of the Sympathy Trait that the participating characters temporarily receive.
 
-**Sympathetic Influence:**
+**Sympathetic Influence:** <br>
 **simple die + Presence + Leadership**
 
 Note that if the character already has an appropriate Sympathy Trait, it may be applied as a specialty to Leadership for this roll. This makes it slightly easier to increase an existing Trait with a low value for a short time than to develop a new one, as a +1 Trait might be temporarily increased to +2 or +3 through sympathetic influence. However, adding the Sympathy Trait also requires the player to roll a stress die and risk botching. Also note that unlike the influence associated with other realms of power, it is possible to affect an unwilling subject with practical influence, as long as that person has a Personality Trait or Flaw that is appropriate to the desired sympathy.
@@ -5890,14 +5896,14 @@ Tinting an aura is done in a manner similar to sympathetic influence. Using prac
 
 Tinting uses a stress die instead of a simple die. Botches on this roll can lead to Warping or to other negative results for the characters who are involved, perhaps tinting the aura in a way other than they actually intended.
 
-**Tinting an Aura:**
+**Tinting an Aura:** <br>
 **stress die + Presence + Concentration**
 
 An aura can be tinted multiple times, so that some Faerie auras become a mishmash of different likes and dislikes. This causes a feeling of conflict in everyone the area, as a Faerie aura's tinting of Light +3 and Darkness +3 might pull a person towards both Light and Darkness at the same time. Many faeries like these circumstances, since they are often drawn to the boundaries that form between different tints.
 
 Tinting generally fades over time, with all Personality Trait scores reduced by one every day (for ceremonial tinting) or every season (for practical tinting). After three days, a +6 tinting brought about by ceremonial means will be only +3, and after a year a +4 tinting from practical influence will fade away completely. However, some faerie powers and faerie rites allow for semipermanent tints, and some faerie auras may have inherent tinting.
 
->#### Tinting an Aura
+> ### Tinting an Aura
 >
 > | Ease Factor | Trait Value\*  |
 > |-------------|----------------|
@@ -5951,26 +5957,24 @@ If a magus has been exposed to the Faerie realm to such an extent that he has ga
 
 Sympathy Traits can be used as specializations to boost Abilities used to perform Hermetic magic, including Penetration and Magic Theory. When affecting Abilities that govern lab activities, such as when boosting Magic Theory, the magus must experiment to receive this benefit, and he automatically experiments if he possesses a negative Sympathy Trait that is applicable to his laboratory project.
 
->## Examples of Charmed Virtues
-> 
-> **Virtue:** Entrancement
-> 
+> ### Examples of Charmed Virtues
+>
+> **Virtue:** Entrancement <br>
 > **Example:** The character requires a wand of rowan wood.
-> 
-> **Virtue:** Greater Immunity to Fire **Example:** The character must perform a salutation to the sun.
-> 
-> **Virtue:** Light Touch
-> 
+>
+> **Virtue:** Greater Immunity to Fire <br>
+> **Example:** The character must perform a salutation to the sun.
+>
+> **Virtue:** Light Touch <br>
 > **Example:** The character must wear a specific pair of gloves
-> 
-> **Virtue:** Puissant Single Weapon **Example:** The character must whisper a song to the blade before combat.
-> 
-> **Virtue:** Reserves of Strength
-> 
+>
+> **Virtue:** Puissant Single Weapon <br>
+> **Example:** The character must whisper a song to the blade before combat.
+>
+> **Virtue:** Reserves of Strength <br>
 > **Example:** The character must swig a magic potion to gain the bonus to his strength.
-> 
-> **Virtue:** Second Sight
-> 
+>
+> **Virtue:** Second Sight <br>
 > **Example:** The character must smear a special ointment onto her eyes.
 
 When a magus with Sympathy Traits enchants a device, he may add the value of any of his Sympathy Traits that are appropriate to the shape or material to his Lab Total (limited by his score in Magic Theory, as usual). He may also attune his talisman to any of his Sympathy Traits that apply to its shape or material. For example, a magus with a +3 Oak Sympathy Trait could attune his talisman made of oak to use this Sympathy Trait. Note that this bonus is not fixed in the talisman like other attunement bonuses, but can vary depending upon the score the magus has in the related Sympathy Trait.
@@ -5997,15 +6001,11 @@ This section describes some common varieties of the Faerie Blood Virtue. It repe
 
 Bloodcaps are frightening faeries of cruel winter who haunt the wildernesses where blood has been shed, drawn to violence and death. Children with bloodcap blood most often come about when a woman is held captive by one of these faeries and subjected to a terrifying imprisonment while the faerie feeds off her fear. It is said that one of Mercere's grandchildren married a bloodcap in an unholy ceremony, and raised her children as Redcaps (see *Houses of Hermes: True Lineages*, pages 91, 104–105 for more details).
 
-**Benefits**: +1 bonus to Strength, but not to more than +3.
-
-**Legacy**: +1 bonus to Strength, can go as high as +4.
-
-**Sympathies**: Fear, Winter, Religious Symbols (negative).
-
-**Other Virtues and Flaws**: Frightful Presence\*, Reserves of Strength; Greater Malediction (crosses and scripture make teeth and nails fall out, causing a Light Wound each round); Lesser Malediction (crosses and scripture cause pain, requiring Concentration rolls of 9+ for stressful actions).
-
-**Appearance**: Long teeth and nails, character looks older than he actually is, long arms.
+**Benefits:** +1 bonus to Strength, but not to more than +3. <br>
+**Legacy:** +1 bonus to Strength, can go as high as +4. <br>
+**Sympathies:** Fear, Winter, Religious Symbols (negative). <br>
+**Other Virtues and Flaws:** Frightful Presence\*, Reserves of Strength; Greater Malediction (crosses and scripture make teeth and nails fall out, causing a Light Wound each round); Lesser Malediction (crosses and scripture cause pain, requiring Concentration rolls of 9+ for stressful actions). <br>
+**Appearance:** Long teeth and nails, character looks older than he actually is, long arms.
 
 #### Brownie Blood
 
@@ -6013,40 +6013,33 @@ Couples that are fortunate to have a helpful faerie such as a brownie or portune
 
 Characters with brownie blood are usually diligent by nature and hard workers. They often have an unnatural desire to help people out.
 
-**Benefits**: +1 bonus to all totals including a Profession Ability.
-
-**Legacy**: +1 bonus to all totals including a Profession Ability, except for one Profession Ability that receives a +2 bonus. This favored Ability must be chosen at character creation.
-
-**Sympathies**: Tools, Cleaning, Gifts (negative). **Other Virtues and Flaws**: Cautious with (Ability), Gossip, Light Touch; Meddler; Humble, Small Frame.
-
-**Appearance**: Short of stature, character looks older than he actually is.
+**Benefits:** +1 bonus to all totals including a Profession Ability. <br>
+**Legacy:** +1 bonus to all totals including a Profession Ability, except for one Profession Ability that receives a +2 bonus. This favored Ability must be chosen at character creation. <br>
+**Sympathies:** Tools, Cleaning, Gifts (negative). <br>
+**Other Virtues and Flaws**: Cautious with (Ability), Gossip, Light Touch; Meddler; Humble, Small Frame. <br>
+**Appearance:** Short of stature, character looks older than he actually is.
 
 #### Dwarf Blood
 
 This variety of Faerie Blood can originate in any diminutive subterranean faeries. Dwarfs often make their homes close to mundane settlements. And mortals may profit from their labor, although not always with the consent of the dwarf. Subterranean faeries occasionally make charms that are bought or stolen from them . These charms induce fertility, health, or else are designed to ward a child from evil; but all can also cause Faerie Blood. Like their cousins the goblins, dwarfs are also prone to taking children in exchange for changelings (see Changelings, later).
 
-**Benefits**: +1 bonus to all totals including a Craft Ability.
+**Benefits:** +1 bonus to all totals including a Craft Ability. <br>
+**Legacy:** +1 bonus to all totals including a Craft Ability, except for one Craft Ability which receives a +2 bonus. This favored Ability must be chosen at character creation. <br>
+**Sympathies:** Jewelry, Weapons, Theft (negative). <br>
+**Other Virtues and Flaws:** Reserves of Strength; Dwarf; Small Frame. <br>
+**Appearance:** Short of stature, smooth skin like polished stone, duck's feet.
 
-**Legacy**: +1 bonus to all totals including a Craft Ability, except for one Craft Ability which receives a +2 bonus. This favored Ability must be chosen at character creation.
-
-**Sympathies**: Jewelry, Weapons, Theft (negative).
-
-**Other Virtues and Flaws**: Reserves of Strength; Dwarf; Small Frame.
-
-**Appearance**: Short of stature, smooth skin like polished stone, duck's feet.
-
->## Faerie Powers for the Faerie Blooded
-> 
+> ### Faerie Powers for the Faerie Blooded
+>
 > At the option of the storyguide, a human character with Faerie Blood may have Virtues and Flaws normally only permitted to faerie characters. If this option is taken, only those Virtues from the following list can be taken, and the Virtue points taken must be paid for with Flaws taken from this list as well. Details of these Virtues and Flaws can be found in Chapter 3: Faerie Characters.
-> 
-> **Major Virtues:** Focus Power, Greater Power **Minor Virtues:** Faerie Speech, Improved Powers, Lesser Power
-> 
-> **Major Flaws:** Monstrous Appearance, Sovereign Ward
-> 
+>
+> **Major Virtues:** Focus Power, Greater Power <br>
+> **Minor Virtues:** Faerie Speech, Improved Powers, Lesser Power <br>
+> **Major Flaws:** Monstrous Appearance, Sovereign Ward <br>
 > **Minor Flaws:** Reduced Power, Slow Power, Traditional Ward
-> 
+>
 > For all powers granted by these Virtues, calculate the Might cost as normal, but instead of spending Might points, the character instead loses 1 Fatigue level for every 5 points (or fraction) of the cost. For the purposes of calculating the Penetration Total of powers, assume that the character has a Might Score of zero, although in reality he has no Might Score at all.
-> 
+>
 > Only characters with Strong Faerie Blood should be allowed to take Major Virtues from this list. Those with Faerie Blood are restricted to just the Minor Virtues; but both types of character can buy their Virtues with Major or Minor Flaws from the above lists.
 
 #### Ettin Blood
@@ -6055,145 +6048,107 @@ Ettins (also called ogres or trolls) are common in the stories of Germanic peopl
 
 Characters with ettin blood must be careful in bright sunlight, since it is often painful or can even turn the character to stone until sunset, although only direct sunlight can have this effect.
 
-**Benefits**: +1 to Stamina, but not to more than +3.
+**Benefits:** +1 to Stamina, but not to more than +3. <br>
+**Legacy:** +1 bonus to Stamina, can go as high as +4. <br>
+**Sympathies:** Mountains, Stone, Sunlight (negative). <br>
+**Other Virtues and Flaws:** Giant Blood; Large, Tough; Greater Malediction (sunlight turns him to stone until nightfall); Clumsy, Lesser Malediction (sunlight is painful and gives a inflicts 2 Fatigue levels that do not recover until nightfall). <br>
+**Appearance:** Craggy features, gray knobbly skin, bulbous nose, tiny eyes.
 
-**Legacy**: +1 bonus to Stamina, can go as high as +4.
-
-**Sympathies**: Mountains, Stone, Sunlight (negative).
-
-**Other Virtues and Flaws**: Giant Blood; Large, Tough; Greater Malediction (sunlight turns him to stone until nightfall); Clumsy, Lesser Malediction (sunlight is painful and gives a inflicts 2 Fatigue levels that do not recover until nightfall).
-
-**Appearance**: Craggy features, gray knobbly skin, bulbous nose, tiny eyes.
-
->## Faerie Blood and the Soul
-> 
+> ### Faerie Blood and the Soul
+>
 > If faeries are the embodiment of stories, as some believe, then how can they produce children with mortal beings? More importantly, do these children possess souls, since one of their parents did not? All these questions have vexed those knowledgeable in fay things, particularly those who bear Faerie Blood themselves.
-> 
+>
 > The fact that at least some faeries are rational beings — even if their logic is alien to mankind — has lead some to believe that faeries do have souls. The concept of faeries as living stories is the most popular of theories among the cognoscenti, but not the only one (see Chapter 1: Nature of Faerie, for alternate theories). Of course, only a fool would think that souls are heritable, and some Faerie-Blooded characters console themselves with the thought that a soul is a gift from God regardless of parentage. If He can choose to imbue some animals with a soul — such as Balaam's ass — then why not humans of fae heritage? Many Faerie-Blooded characters do not concern themselves with metaphysical issues such as these. They have either never considered that they might not have souls, or else are sure that they do without worrying about the ineffable question of why.
 
 #### Faerie God Blood
 
-Sometimes the gods of old — powerful faeries in their own right — had children with mortals, and legends abound with the stories of their exploits. Characters with this variety of Faerie Blood might be descendants of Zeus, Venus, Morrigan, Odin, Pelos, or any one of the host of the other gods of their people. With such noble blood in their veins, these characters rarely remain anonymous for long, and many believe that a great destiny lies before them. Picking Sympathy Traits appropriate to the specific god is very important, and they should relate to his or her principle attributes.
+Sometimes the gods of old — powerful faeries in their own right — had children with mortals, and legends abound with the stories of their exploits. Characters with this variety of Faerie Blood might be descendants of Zeus, Venus, Morrigan, Odin, Pelos, or any one of the host of the other gods of their people. With such noble blood in their veins, these characters rarely remain anonymous for long, and many believe that a great destiny lies before them. Picking Sympathy Traits appropriate to the specific god is very important, and they should relate to his or her principal attributes.
 
-**Benefits**: 1 point to spend on appropriate Sympathy Traits.
-
-**Legacy**: 2 points to spend on appropriate Sympathy Traits.
-
-**Sympathies**: Anything appropriate to the ancestor.
-
-**Other Virtues and Flaws**: Greater Benediction; Famous, Frightful Presence; Faerie Heritage, Supernatural Nuisance (creatures hostile to ancestor); Higher Purpose, Infamous.
-
-**Appearance**: Some key characteristic of the god in question.
+**Benefits:** 1 point to spend on appropriate Sympathy Traits. <br>
+**Legacy:** 2 points to spend on appropriate Sympathy Traits. <br>
+**Sympathies:** Anything appropriate to the ancestor. <br>
+**Other Virtues and Flaws:** Greater Benediction; Famous, Frightful Presence; Faerie Heritage, Supernatural Nuisance (creatures hostile to ancestor); Higher Purpose, Infamous. <br>
+**Appearance:** Some key characteristic of the god in question.
 
 #### Ghul Blood
 
 The ghula are rapacious wasteland faeries of the Arabic world. Sexual encounters between human men and female ghula (see Chapter 4: Faerie Bestiary, Ghula) result in either another ghula (if the child is a girl) or ghul-blooded humans (if a boy is born). The sons of ghula can then go on to produce either girls or boys with ghul blood. This variety of faerie blood could also represent other violent faerie ancestors. Those with ghul blood are nearly always sinister-looking, born with teeth, and unusually aware of their surroundings.
 
-**Benefits**: Claws that can be retracted and extended at will, with the following weapon statistics: Init –1, Atk +2, Dfn +3, Dam +2.
-
-**Legacy**: As above, except that the claws are extra large, and the Damage bonus is +4 rather than +2.
-
-**Sympathies**: Wastelands, Stalking, Compassion (negative).
-
-**Other Virtues and Flaws**: Ways of the Desert; Skinchanger (hyena or vulture); Nocturnal, Poor Presence.
-
-**Appearance**: Dark skin, wrinkled, sharp teeth, green on the inside of the mouth, always have green eyes.
+**Benefits:** Claws that can be retracted and extended at will, with the following weapon statistics: Init –1, Atk +2, Dfn +3, Dam +2. <br>
+**Legacy:** As above, except that the claws are extra large, and the Damage bonus is +4 rather than +2. <br>
+**Sympathies:** Wastelands, Stalking, Compassion (negative). <br>
+**Other Virtues and Flaws:** Ways of the Desert; Skinchanger (hyena or vulture); Nocturnal, Poor Presence. <br>
+**Appearance:** Dark skin, wrinkled, sharp teeth, green on the inside of the mouth, always have green eyes.
 
 #### Goblin Blood
 
 "Goblin" is the general term for a subterranean faerie of a destructive bent such as those found in caves or mines. More generally it is used to denote a malicious faerie of short stature. Goblin Blood nearly always enters a human lineage through changelings (See Changelings, later) who have been retrieved by their parents or else abandoned by the goblin troupe once the faeries lose interest.
 
-**Benefits**: +1 bonus to all totals including stealth.
-
-**Legacy**: +2 bonus to all totals including stealth.
-
-**Sympathies**: Caves, Mischief, Iron (negative). **Other Virtues and Flaws**: Light Touch, Sharp Ears; Afflicted Tongue, Hunchback, Nocturnal.
-
-**Appearance**: Short and twisted, hairless, long pointed nose, sharp teeth, red eyes.
+**Benefits:** +1 bonus to all totals including stealth. <br>
+**Legacy:** +2 bonus to all totals including stealth. <br>
+**Sympathies:** Caves, Mischief, Iron (negative). <br>
+**Other Virtues and Flaws**: Light Touch, Sharp Ears; Afflicted Tongue, Hunchback, Nocturnal. <br>
+**Appearance:** Short and twisted, hairless, long pointed nose, sharp teeth, red eyes.
 
 #### Huldra Blood
 
 The huldra (plural huldrene) is a variety of nymph native to Scandinavian lands, also known as a skogsrå or tallemaja. The rarer male form is called a huldu or huldrekall. They are often exceedingly beautiful from the front, although their backs are hollow like a canoe. Huldrene never wear clothes, and have the tail of a cow. Their most distinctive feature is their power to disappear from sight and remain hidden when no-one is watching. A man can unknowingly marry a huldra and raise children with her, but she always eventually leaves him when he discovers her secret. Some huldrene are sexual predators, rewarding those who please them and killing those who disappoint. Others are guardians of morality; if a man is unfaithful to his wife with a huldra, then the faerie punishes him by causing him to father huldrablooded children.
 
-**Benefits**: When she remains still, the character cannot be seen. She must concentrate to maintain the absolute stillness this requires; make a Stamina + Concentration roll against an Ease Factor of 9 every fifteen minutes. She cannot use this power if anyone is aware of her location, or if in a Divine aura.
-
-**Legacy**: As above, except that the character can disappear even when being watched.
-
-**Sympathies**: Concealment, Fidelity, Secrets (negative).
-
-**Other Virtues and Flaws:** Ways of the Forest; Great Presence, Puissant Stealth; Reclusive.
-
-**Appearance**: Cow's tail, long blonde hair, unearthly beauty, hollow from behind.
+**Benefits:** When she remains still, the character cannot be seen. She must concentrate to maintain the absolute stillness this requires; make a Stamina + Concentration roll against an Ease Factor of 9 every fifteen minutes. She cannot use this power if anyone is aware of her location, or if in a Divine aura. <br>
+**Legacy:** As above, except that the character can disappear even when being watched. <br>
+**Sympathies:** Concealment, Fidelity, Secrets (negative). <br>
+**Other Virtues and Flaws:** Ways of the Forest; Great Presence, Puissant Stealth; Reclusive. <br>
+**Appearance:** Cow's tail, long blonde hair, unearthly beauty, hollow from behind.
 
 #### Nymph Blood
 
 Nymphs haunt the borders of human settlement, and are the archetypal sexual predator. They are particularly attracted to young men on the verge of adulthood, and occasionally seek out young heroes with whom to mate. A nymph who has a child herself is transformed into a different type of faerie altogether, and abandons the child with its father. Consequently, some nymphs chose not to directly have children; instead, an encounter with the nymph leaves a man both exceptionally lustful and especially virile, and he often conceives a child with a mortal woman while still under the faerie's influence. These children always have nymph blood. Nymphs also partake in wild parties with satyrs (see Satyr Blood, later), and any girl children born to humans following such a party bear nymph blood.
 
-**Benefits**: +1 bonus to Communication, but not to more than +3.
-
-**Legacy**: +1 bonus to Communication, can go as high as +4.
-
-**Sympathies**: Trees, Love, Loyalty (negative). **Other Virtues and Flaws**: Entrancement, Ways of the Forest; Puissant Etiquette, Strong-Willed; Curse of Venus, Envious.
-
-**Appearance**: Dark green hair, pale green skin, leaf patterns over body. Other variants exist for nymphs tied to different elements.
+**Benefits:** +1 bonus to Communication, but not to more than +3. <br>
+**Legacy:** +1 bonus to Communication, can go as high as +4. <br>
+**Sympathies:** Trees, Love, Loyalty (negative). <br>
+**Other Virtues and Flaws**: Entrancement, Ways of the Forest; Puissant Etiquette, Strong-Willed; Curse of Venus, Envious. <br>
+**Appearance:** Dark green hair, pale green skin, leaf patterns over body. Other variants exist for nymphs tied to different elements.
 
 #### Padfoot Blood
 
 A padfoot is a faerie that takes the form of an immense black dog with glowing green eyes. Padfoots are commonly believed to be hostile to man, perhaps because a number of other faeries and demons take a similar form, but in actual fact they take it upon themselves to protect travelers from dangers such as treacherous bridges and bandits. Those whom they ward from these dangers are often terrified of the hound and oblivious of the danger they are in until later. Pregnant women who are protected by a padfoot may have a child who bears animal features.
 
-**Benefits**: +1 bonus to Perception, but not to more than +3.
-
-**Legacy**: +1 bonus to Perception, can go as high as +4
-
-**Sympathies**: Protection, Hounds, Friendship (negative).
-
-**Other Virtues and Flaws**: Animal Ken, Sharp Ears; Monstrous Appearance\* (dog's head); Lycanthrope; Dutybound (protect the weak), Faerie Friend (a padfoot), Nocturnal.
-
-**Appearance**: Large round eyes, black fur over body, tail.
+**Benefits:** +1 bonus to Perception, but not to more than +3. <br>
+**Legacy:** +1 bonus to Perception, can go as high as +4 <br>
+**Sympathies:** Protection, Hounds, Friendship (negative). <br>
+**Other Virtues and Flaws:** Animal Ken, Sharp Ears; Monstrous Appearance\* (dog's head); Lycanthrope; Dutybound (protect the weak), Faerie Friend (a padfoot), Nocturnal. <br>
+**Appearance:** Large round eyes, black fur over body, tail.
 
 #### Satyr Blood
 
 Almost as common as mortal descendants of courtly faeries are those engendered by fauns and satyrs. These lustful faeries frequently force themselves on mortal women who meet them on the borders of the wilderness; but such encounters are about the sexual act, not procreation. However, on occasion satyrs and fauns hold bacchanalian parties with nymphs, and not all who attend are faeries. Mortal men and women are deliberately included in these orgies, although they are shrouded in the glamour to appear as fauns or nymphs, respectively. Children that are conceived at one of these parties have Faerie Blood — the boys have satyr blood and the girls have nymph blood.
 
-**Benefits**: +1 bonus to Communication and Presence totals when dealing with sexually compatible characters.
-
-**Legacy**: +2 bonus to Communication and Presence totals when dealing with sexually compatible characters.
-
-**Sympathies**: Music, Lust, Politeness (negative). **Other Virtues and Flaws**: Enchanting Music, Long Winded, Puissant Charm; Curse of Venus, Lecherous.
-
-**Appearance**: Excessively hairy, curly beard, goat's horns, cloven hooves, yellow eyes.
+**Benefits:** +1 bonus to Communication and Presence totals when dealing with sexually compatible characters. <br>
+**Legacy:** +2 bonus to Communication and Presence totals when dealing with sexually compatible characters. <br>
+**Sympathies:** Music, Lust, Politeness (negative). <br>
+**Other Virtues and Flaws**: Enchanting Music, Long Winded, Puissant Charm; Curse of Venus, Lecherous. <br>
+**Appearance:** Excessively hairy, curly beard, goat's horns, cloven hooves, yellow eyes.
 
 #### Selkie Blood
 
 Selkies and their close cousins the swanmaidens can be trapped by mortal men, and become their brides (see Chapter 4: Bestiary, Spouses Captured by Trinkets). They derive vitality from their families by acting the part of wife and mother, and raise children with selkie blood. Should the selkie gain her freedom from the marriage (and they almost always do), then the child is often left to fend for itself while the father fruitlessly searches for his wife.
 
-**Benefits**: Receives a +3 to all rolls to avoid Deprivation.
-
-**Legacy**: Receives a +3 to all rolls to avoid Deprivation; when deprived of air, makes rolls every minute instead of every 30 seconds.
-
-**Sympathies**: Shorelines, Birds, Freedom (negative).
-
-**Other Virtues and Flaws**: Ways of the Sea; Skinchanger (seal, fish, swan), Well-Traveled, Wilderness Sense; Compulsion (travel), Feral Upbringing.
-
-**Appearance**: Webbed fingers (selkies), feathers in hair (bird women).
+**Benefits:** Receives a +3 to all rolls to avoid Deprivation. <br>
+**Legacy:** Receives a +3 to all rolls to avoid Deprivation; when deprived of air, makes rolls every minute instead of every 30 seconds. <br>
+**Sympathies:** Shorelines, Birds, Freedom (negative). <br>
+**Other Virtues and Flaws:** Ways of the Sea; Skinchanger (seal, fish, swan), Well-Traveled, Wilderness Sense; Compulsion (travel), Feral Upbringing. <br>
+**Appearance:** Webbed fingers (selkies), feathers in hair (bird women).
 
 #### Sidhe Blood
 
 The most common varieties of all Faerie Blood are derived from the courtly faeries (see Chapter 4: Faerie Bestiary), which in Ireland are called "sidhe." Highly cognizant faeries of this type often seek out humans for the specific purpose of producing a child who partakes in the faerie's own nature. The Faerie Heritage Flaw is therefore particularly common among those with sidhe blood. Stories are told of Faerie Knights who have a passionate encounter with a mortal woman but who then leave, unaware of the child conceived of their lust. When, many years later, the son tracks down his father the faerie does the honorable thing and marries the woman he has shamed. More sinister are the glanconers who abduct maidens from their homes. The woman never returns, but occasionally a child might appear on the doorstep of its grandparents' home.
 
-**Benefits**: +1 to Presence, but not to more than +3.
-
-**Legacy**: +1 bonus to Presence, can go as high as +4.
-
-**Sympathies**: Light, Nobility, Iron (negative). **Other Virtues and Flaws**: Frightful Presence\*, Great Presence, Piercing Gaze, Venus' Blessing; Envious, Faerie Heritage\*; Fragile Constitution.
-
-**Appearance**: Tall and fragile, pale skin, long blond hair, pointed ears, vividly colored eyes.
-
-**Benefits**: +2 bonus to any action taken under water, which will partially offset any penalty applied.
-
-**Legacy**: +2 bonus to any action taken under water, which replaces any penalty applied. **Sympathies**: Rivers, Fish, Clothing (negative). **Other Virtues and Flaws**: Greater Immunity to Drowning; Puissant Swim; Mute; Lesser Malediction (water dependence, requiring a Deprivation roll (ArM5, page 180–181) for every day that they are not immersed in water), Noncombatant; Monstrous Appearance\* (lower body of a serpent or a fish).
-
-**Appearance**: Pale almost-blue skin, webbed hands, large liquid eyes, green hair.
+**Benefits:** +1 to Presence, but not to more than +3. <br>
+**Legacy:** +1 bonus to Presence, can go as high as +4. <br>
+**Sympathies:** Light, Nobility, Iron (negative). <br>
+**Other Virtues and Flaws**: Frightful Presence\*, Great Presence, Piercing Gaze, Venus' Blessing; Envious, Faerie Heritage\*; Fragile Constitution. <br>
+**Appearance:** Tall and fragile, pale skin, long blond hair, pointed ears, vividly colored eyes. <br>
 
 #### Undine Blood
 
@@ -6201,18 +6156,24 @@ Undines are those Courtly Faeries who inhabit rivers, particularly those rivers 
 
 A character with undine blood often needs to be immersed in water regularly, or else he suffers ill effects. This variety of Faerie Blood can substitute for a water-inhabiting faerie such as a mermaid, although those faeries that can change shape are best treated as a variety of selkie blood instead.
 
->## Story Seeds: Faerie Blood
-> 
->### The Nymph's Surrogate
-> 
+**Benefits:** +2 bonus to any action taken under water, which will partially offset any penalty applied.
+**Legacy:** +2 bonus to any action taken under water, which replaces any penalty applied. <br>
+**Sympathies**: Rivers, Fish, Clothing (negative). <br>
+**Other Virtues and Flaws**: Greater Immunity to Drowning; Puissant Swim; Mute; Lesser Malediction (water dependence, requiring a Deprivation roll (ArM5, page 180–181) for every day that they are not immersed in water), Noncombatant; Monstrous Appearance\* (lower body of a serpent or a fish). <br>
+**Appearance:** Pale almost-blue skin, webbed hands, large liquid eyes, green hair.
+
+> ### Story Seeds: Faerie Blood
+>
+> #### The Nymph's Surrogate
+>
 > One of the covenant's womenfolk (perhaps a Dependent of one of the characters) is captured by a nymph to serve as a surrogate mother for the child of her mortal lover. The woman is imprisoned in a Faerie regio, unable to escape on her own.
-> 
->### Ettin Apprentices
-> 
+>
+> #### Ettin Apprentices
+>
 > A Redcap is selling Gifted children to members of the Order as apprentices. He seems to have a regular supply of them, although they all have Faerie Blood (of the Ettin variety). He is shadowing an ettin who is stealing Gifted children, and then stealing the children in turn from the faerie and selling them on, heedless of the Code that specifies that he must not molest the fae. A magus who receives one of these children may have to cope with the enraged ettin when she tracks down "her" child.
-> 
->### Children of the Fauns
-> 
+>
+> #### Children of the Fauns
+>
 > A troupe of fauns moves into a local wood, and an unusually large number of children with satyr and nymph blood are born. As they grow up, the children are able to sense each other's presence and they join up to form a band of their own. They then engage in their own enticement and subsequent imprisonment of fertile men and women.
 
 ### Changelings
@@ -6223,7 +6184,7 @@ Babies are rarely just stolen — they are usually exchanged. The faeries leave 
 
 #### Retrieved Changelings
 
-If a faerie is left in the stead of the child, then if the faerie can be tricked into revealing its true nature the parents can retrieve their child. One way this can be achieved is by deliberately performing a task wrongly until the exasperated faerie is driven to show how it is done. Other changelings are tormented by their human “parents” in the belief that the faerie will eventually use its powers to escape; and a dreadful amount of real suffering has been induced by the belief in changelings. Even the briefest stay with faeries as a child often leaves a character with the Second Sight Virtue, but children who are fed by faeries before being retrieved usually exhibit Faerie Blood of the variety of her kidnappers. 
+If a faerie is left in the stead of the child, then if the faerie can be tricked into revealing its true nature the parents can retrieve their child. One way this can be achieved is by deliberately performing a task wrongly until the exasperated faerie is driven to show how it is done. Other changelings are tormented by their human “parents” in the belief that the faerie will eventually use its powers to escape; and a dreadful amount of real suffering has been induced by the belief in changelings. Even the briefest stay with faeries as a child often leaves a character with the Second Sight Virtue, but children who are fed by faeries before being retrieved usually exhibit Faerie Blood of the variety of her kidnappers.
 
 #### Faerie Upbringing
 
@@ -6238,54 +6199,6 @@ Infants exchanged for certain trolls and trowies are strangely linked to the lif
 The mortal child and the faerie changeling are fated to meet in the future. Theoutcome of this encounter will determine whether their mutual relationship is amicable (the Faerie Friend Flaw) or hostile (the Mistaken Identity Flaw). Whichever relationship occurs, the two beings are intrinsically linked with one another. A character whose life is linked to that of his changeling has the Faerie Blood Virtue (usually of the Dwarf or Ettin variety), and possibly the Faerie Upbringing Flaw (if he was never returned to his parents). His link to his faerie counterpart is represented by the Death Prophecy Virtue — that the character can only die if his faerie copy is killed first.
 
 An interesting option here would be for the faerie and human twins to be the characters of different players. In this case, the relationship between the two should be amicable rather than hostile.
-
->## New and Modified Virtues
-> 
->### Special
-> 
-> Faerie Doctor
-> 
->### Supernatural, Major
-> 
-> Curse-Throwing
-> 
-> Empathy
-> 
-> Enchantment
-> 
-> Evocation
-> 
-> Faerie Sympathy
-> 
-> Greater Benediction
-> 
-> Strong Faerie Blood
-> 
-> Summoning
-> 
->### Supernatural, Minor
-> 
-> Beguile Bonding Ceremony Conjure Dismissing Dream Faerie Blood Faerie Legacy Faerie Sympathy
-> 
-> Captivating
-> 
-> Familiarity with the Fae Frightful Presence
-> 
-> Grant
-> 
-> Lesser Benediction
-> 
-> Portage
-> 
-> Ware
-> 
-> Weal
-> 
-> Woe
-> 
->### Supernatural, Free
-> 
-> Faerie Background
 
 #### Milk Brothers
 
@@ -6303,7 +6216,55 @@ There are a number of different ways in which Virtues and Flaws can cause a char
 
 The Greater and Lesser Benediction Virtues (see later) and the Greater and Lesser Malediction Flaws (**ArM5**, pages 54 and 55) are typical products of interaction with faeries. These Virtues and Flaws are great catch-all categories that cover the wide range of gifts and curses handed down by the faeries.
 
-## New and Modified Virtues
+> ### New and Modified Virtues
+>
+> #### Special
+>
+> Faerie Doctor
+>
+> #### Supernatural, Major
+>
+> Curse-Throwing
+>
+> Empathy
+>
+> Enchantment
+>
+> Evocation
+>
+> Faerie Sympathy
+>
+> Greater Benediction
+>
+> Strong Faerie Blood
+>
+> Summoning
+>
+> #### Supernatural, Minor
+>
+> Beguile Bonding Ceremony Conjure Dismissing Dream Faerie Blood Faerie Legacy Faerie Sympathy
+>
+> Captivating
+>
+> Familiarity with the Fae Frightful Presence
+>
+> Grant
+>
+> Lesser Benediction
+>
+> Portage
+>
+> Ware
+>
+> Weal
+>
+> Woe
+>
+> #### Supernatural, Free
+>
+> Faerie Background
+
+### New and Modified Virtues
 
 The following Virtues can be chosen by Faerie characters.
 
@@ -6355,9 +6316,9 @@ See Chapter 6: Faerie Wizardry for a full description. Choosing this Virtue give
 
 See Chapter 6: Faerie Wizardry for a full description of this Faerie Power. Choosing this Virtue gives the character Dream with an initial score of 1.
 
-*Major, Supernatural*
-
 #### Empathy
+
+*Major, Supernatural*
 
 See Chapter 6: Faerie Wizardry for a full description of this Faerie Method. Choosing this Virtue gives the character Empathy with an initial score of 1.
 
@@ -6429,18 +6390,18 @@ If the targets remain within your presence (because they are awed or because the
 
 This effect has a Penetration Total of 0.
 
->## Example Greater Benedictions
-> 
->### Flight
-> 
+> ### Example Greater Benedictions
+>
+> #### Flight
+>
 > You are able to fly without the need of wings. Every time you take to the air, you lose a Long-Term Fatigue Level, and can remain airborne for a maximum of an hour, traveling up to fifty miles in this hour. Once you touch the ground, your current flight ends regardless of how much of your hour has elapsed. You require a prop to fly, such as a carpet or staff, but any prop of the appropriate type suffices.
-> 
->### True Sight
-> 
+>
+> #### True Sight
+>
 > You are rarely fooled by glamour or illusions that change the appearance of something (although a false image such as from a Creo Imaginem spells still fools you). Further, you can always detect the true form of a shapechanged creature (although not members of House Bjornaer, since both their human and animal forms are "true" forms). This power has a Penetration of 20.
-> 
->### Universally Liked
-> 
+>
+> #### Universally Liked
+>
 > Everyone who knows you is your friend. You receive a +3 bonus to all social rolls with people who have known you more than one month. Anyone who tries to act against you by swaying the emotions or opinions of others have +3 added to all Ease Factors. This effect has a Penetration of 0.
 
 #### Grant
@@ -6487,22 +6448,22 @@ See Chapter 6: Faerie Wizardry for a full description. Choosing this Virtue give
 
 See Chapter 6: Faerie Wizardry for a full description of this Faerie Power. Choosing this Virtue gives the character Ware with an initial score of 1.
 
->## Example Lesser Benedictions
-> 
->### Gift of the Gab
-> 
+> ### Example Lesser Benedictions
+>
+> #### Gift of the Gab
+>
 > You are a very convincing speaker; anyone attempting to detect untruth in your words receives a –3 penalty to their rolls.
-> 
->### Green Fingers
-> 
+>
+> #### Green Fingers
+>
 > Plants always prosper under your care. Your crops never suffer from natural diseases or pests so long as you personally tend to them, and you can therefore get half as much again in terms of yield as others.
-> 
->### Pricking Thumbs
-> 
+>
+> #### Pricking Thumbs
+>
 > If you are in the presence of someone who bears you ill will, you feel a pricking sensation in your thumbs. You cannot distinguish one enemy from a crowd with this ability.
-> 
->### Unusually Fecund
-> 
+>
+> #### Unusually Fecund
+>
 > Every sexual encounter with a partner of the opposite sex results in conception.
 
 #### Weal
@@ -6520,6 +6481,40 @@ See Chapter 6: Faerie Wizardry for a full description of this Faerie Power. Choo
 ### New and Modified Flaws
 
 Faerie Characters may take these Flaws.
+
+> ### New and Modified Flaws
+>
+> #### Major, Hermetic
+>
+> Homunculus Wizard
+>
+> #### Major, Story
+>
+> Faerie Heritage
+>
+> Greater Charm
+>
+> Homunculus Wizard
+>
+> #### Major, Supernatural
+>
+> Faerie Antipathy
+>
+> #### Minor, Hermetic
+>
+> Faerie Metamorphosis
+>
+> #### Minor, Supernatural
+>
+> Faerie Antipathy
+>
+> Faerie Metamorphosis
+>
+> Lesser Charm
+>
+> #### Minor, General
+>
+> Faerie Upbringing
 
 #### Faerie Antipathy
 
@@ -6543,41 +6538,9 @@ This Flaw can only be taken by characters with The Gift (as a Hermetic Flaw) or 
 
 #### Faerie Upbringing
 
-*Minor, General*
+*Minor, Personality*
 
-(See ArM5, page 54)
-
-In addition, this Flaw raises the maximum score to which the character may increase Sympathy Traits by 1. Thus, a character with Faerie Upbringing and a Warping Score of 2 could increase a Sympathy Trait to +3.
-
->## New and Modified Flaws
-> 
->### Major, Hermetic
-> 
-> Homunculus Wizard
-> 
->### Minor, Hermetic
-> 
-> Faerie Metamorphosis
-> 
->##" Major, Story
-> 
-> Faerie Heritage Greater Charm Homunculus Wizard **Minor, Supernatural**
-> 
-> Faerie Antipathy Faerie Metamorphosis
-> 
-> Lesser Charm
-> 
->### Major, Supernatural
-> 
-> Faerie Antipathy
-> 
->### Minor, General
-> 
-> Faerie Upbringing
-
-#### Faerie Upbringing
-
-*Minor, General* (See **ArM5**, page 54)
+(See **ArM5**, page 54)
 
 In addition, this Flaw raises the maximum score to which the character may increase Sympathy Traits by 1. Thus, a character with Faerie Upbringing and a Warping Score of 2 could increase a Sympathy Trait to +3.
 
@@ -6621,8 +6584,8 @@ All participants also add their scores in the appropriate (Characteristic + Abil
 
 This Supernatural Ability is usually aligned to the Faerie Realm, but can be potentially aligned to any supernatural realm. It enables the character to heal diseases, remove curses, and dispel detrimental magical effects, but only by transferring (or "throwing") their effects to another person. Curse-Throwing cannot affect Flaws; specifically, someone with the Lesser or Greater Malediction Flaw is beyond the power of Curse-Throwing, unless it is a Flaw imposed by a faerie or magician with a limited duration. However, any other curse laid by a supernatural power is potentially within the remit of this Ability; note that curses laid directly by God (such as leprosy) are normally represented by permanent Flaws, and thus exempt. Only harmful effects can be transferred with this Ability, and the storyguide is the arbiter in cases where spells are not directly detrimental. Barrenness is a common affliction treated by this power; if transferred to a man or male animal then impotence is inflicted instead. Other curses transferred to inappropriate targets are changed in a similar manner.
 
->## Example of Curse-Throwing
-> 
+> ### Example of Curse-Throwing
+>
 > A young woman has failed to conceive despite four years of marriage, and she and her mother visit Aelfred, the local faerie doctor. He explains that her barrenness needs to be transferred to another, and the mother volunteers, since she has already had three children. The Ease Factor for this operation is 12, since barrenness is equivalent to a Minor Flaw. The ritual takes three hours, at the end of which, Aelfred generates a Casting Total: 2 (Presence) + 5 (Curse-Throwing) + 5 (stress die) + 2 (Faerie Aura of Aelfred's home), for a total of 14. However, unbeknown to the characters, the barrenness was caused by the curse of a local witch. Her Hex Ability score was 5, thus the Ease Factor was actually 17 (12 + Hex 5). Since Aelfred's player succeeds in an Intelligence + Faerie Lore roll, the storyguide informs him that Aelfred suspects that his Curse-Throwing should have worked if the barrenness was natural. Aelfred counsels the mother and daughter to investigate whether they have any enemies with supernatural powers.
 
 To throw a curse, the afflicted person must be physically present, and the recipient of the curse must be represented either in person or by an Arcane Connection. Afflictions can be passed from humans to animals or vice versa, but this is harder than transferring within the same species. Curse-Throwers sometimes transfer the curse to themselves, but such altruism is rare. To throw a curse, the character must perform an elaborate ritual that involves the crafting of a charm that transfers the curse. This charm is a combination of a physical object and a chant. The object is repeatedly touched to the target and the recipient (or the Arcane Connection), while the chant is repeated over and over. The ritual typically takes an hour for every 5 points (or fraction) of the Ease Factor (see below). At the end of this time, the character generates a Casting Total, which must equal or exceed the Ease Factor listed below. If either the sufferer or the intended recipient of the curse has Magic Resistance, the Penetration Total must exceed it, else the curse stays where it is. A botched Curse-Throwing roll swaps the recipient of the curse to the caster.
@@ -6631,30 +6594,25 @@ To throw a curse, the afflicted person must be physically present, and the recip
 
 **Penetration Total: Casting Total – Ease Factor + Penetration Bonus (see ArM5, page 84)**
 
-**Ease Factor:** 9
-
+**Ease Factor:** 9 <br>
 **Curse:** Minor Disease or Affliction\*
 
-**Ease Factor:** 12
-
+**Ease Factor:** 12 <br>
 **Curse:** Serious Disease or Affliction\*
 
-**Ease Factor:** 15
-
+**Ease Factor:** 15 <br>
 **Curse:** Major Disease or Affliction\*
 
-**Ease Factor:** 18
-
+**Ease Factor:** 18 <br>
 **Curse:** Critical Disease \*
 
-**Ease Factor:** 12 + magnitude of spell
-
+**Ease Factor:** 12 + magnitude of spell <br>
 **Curse:** Spell
 
-**Ease Factor:** 12 + Ability score **Curse:** Supernatural Ability
+**Ease Factor:** 12 + Ability score <br>
+**Curse:** Supernatural Ability
 
-**Ease Factor:** 12 + Might points spent
-
+**Ease Factor:** 12 + Might points spent <br>
 **Curse:** Power
 
 \* A Minor disease inflicts a Light wound, a Serious disease inflicts a Medium wound, a Major disease inflicts a Heavy wound, and a Critical disease inflicts an Incapacitating wound. See Art & Academe, Chapter 4: Medicine for more details. Minor Afflictions include boils and warts. Serious Afflictions are equivalent to a Minor Flaw in magnitude, whereas Major Afflictions are as severe as a Major Flaw.
@@ -6667,9 +6625,9 @@ To throw a curse, the afflicted person must be physically present, and the recip
 | –6 | Recipient represented by Arcane Connection lasting weeks or less |
 | –3 | Recipient is different species to target |
 
-**Specialties**: Diseases, faerie curses, livestock. (Supernatural)
+**Specialties:** Diseases, faerie curses, livestock. (Supernatural)
 
-## Learning Faerie Abilities
+### Learning Faerie Abilities
 
 Any characters who are strongly aligned to the Faerie realm can learn Faerie Supernatural Abilities. This works exactly like Gifted characters learning Magic Abilities (**ArM5**, page 166), in that the sum of the scores of all other Supernatural Abilities or Arts the character possesses must be subtracted from the character's Advancement Total for the season. However, because gaining new powers depends so strongly upon the character having a positive relationship with the Faerie realm, the maximum number of experience points the player can gain towards learning a new Faerie Ability or Art is also limited by the character's Faerie Rank, so that the sum of the character's strongest positive and negative Sympathy Traits must equal at least 5 at the start of the season for him to learn a new Ability in this way.
 
@@ -6681,10 +6639,10 @@ If humans are to dwell in regions haunted by the fae — such as the rural areas
 
 The faerie doctor is trained from birth by a relative, often an uncle, for the calling tends to run in families. Faerie doctors are almost exclusively male, although women can be taught the art if no other relative can be found. The apprentice is taught the lore of the faeries, and has direct and personal contact with all the Good Folk in the local region. As the boy enters puberty, he acquires a companion from among the fae, a friend who provides him with unique insights into faerie-kind and warns him if he is about to make a social *faux pas*. These faeries usually have a high cognizance, and this proves useful in explaining the actions of other fae. Apart from this, the faerie friend can take any form — it may be a willowy nymph, a talking animal, a wizened dwarf, or any number of other types of faerie. Upon acquiring his companion, the faerie doctor's apprenticeship is complete. He either takes over his mentor's practice, goes into partnership with him, or moves to a new area to strike out on his own.
 
-Faerie doctors often accompany their oath to not take sides in conflicts between humans and faeries with other oaths that reflect their status as having a foot in both realms. The most common oaths are to never cut one's hair, never grow a beard, wear women's clothes, and remain celibate. Such oaths represent the distance the faerie doctor must keep from the rest of humanity to maintain his close connection with the fae. Unsurprisingly, a faerie doctor may clash with the priesthood who see his "clients" as demons or evil spirits; however, the faerie doctor is rarely pagan himself. He simply realizes the true place of the fae in the daily lives of those who are under his care. 
+Faerie doctors often accompany their oath to not take sides in conflicts between humans and faeries with other oaths that reflect their status as having a foot in both realms. The most common oaths are to never cut one's hair, never grow a beard, wear women's clothes, and remain celibate. Such oaths represent the distance the faerie doctor must keep from the rest of humanity to maintain his close connection with the fae. Unsurprisingly, a faerie doctor may clash with the priesthood who see his "clients" as demons or evil spirits; however, the faerie doctor is rarely pagan himself. He simply realizes the true place of the fae in the daily lives of those who are under his care.
 
-> # Story Seed: The Sorcerous Scapegoat
-> 
+> ### Story Seed: The Sorcerous Scapegoat
+>
 > A Bjornaer magus comes to the characters for help. He was unwittingly part of the scapegoat rite when observing Jewish practices in his goat heartbeast, and now seeks a way to unburden himself from the community's sins.
 
 ### Faerie Doctors as Mythic Companions
@@ -6696,17 +6654,17 @@ Players wishing to play a magus-level faerie doctor should take the Faerie Docto
 - Faerie Friend (Minor Story Flaw);
 - Dutybound –– obey the oaths of a faerie doctor (Minor Personality Flaw).
 
->## Sin-Eating
-> 
+> ### Sin-Eating
+>
 > In some cultures, the supernatural power of Curse-Throwing is called Sin-Eating. A sin-eater uses this power to take on the sins of the dying or recently dead, often acquired by eating a ritual meal of bread, salt, and ale over the body of the sinner. It is believed that the sin-eater not only saves the deceased from Hell, but also prevents his spirit from wandering the world as a ghost. The magnitude of the unforgiven sin should be considered to be a Minor, Serious, or Major Affliction as appropriate. The effect of Sin-Eating on the soul of the practitioner or the fate of the mortal soul remains unknowable, but Sin-Eating does prevent the spirit of the deceased from becoming a ghost due to unrepented sins. A sin-eater can still use his Supernatural Ability in the standard fashion, and most commonly takes the curse onto himself. Sin-eaters are often outcast from society, shunned because of the sins they accumulate through their career. The Church regularly excommunicates sin-eaters, not only because of the burden of sin that they carry, but also because they encroach on the territory of the clergy to administer to the dead. A particularly evil sin-eater might transfer the sins of the dying onto an otherwise innocent child in return for pecuniary gain.
-> 
+>
 > Sin-Eating stems from a similar tradition to Curse-Throwing, and thus is most common in cultures descended from Saxon people — those of England, Flanders, Frisia, and Saxony. Analogous traditions exist in other cultures, such as the Bavarians and the people of the Balkan Peninsula. An intriguing variant of Sin-Eating is part of the Jewish atonement rituals. Jewish practitioners of a version of Curse-Throwing aligned to the Divine Realm still conduct the rite of the scapegoat. A goat is loaded with the sins of a community on Yom Kippur, and driven into a place of desolation. Incorrectly identified as a propitiatory sacrifice to Satan, the scapegoat (and this is the origin of that phrase) is an act of obedience to God as detailed in Chapter 16 of Leviticus.
 
-The Faerie Doctor can choose up to 8 more points of Flaws, granting him up to 16 more Virtue Points. The Student of Faerie Virtue and the Faerie Upbringing Flaw are very common among Faerie Doctors; and a high number are Transvestites. Many of them possess enhanced abilities to resist many curses and diseases (such as a Greater or Lesser Immunity, or Rapid Convalescence Virtues). Other useful Virtues include Summoning (see New Virtues and Flaws), Control Fertility (see *Houses of Hermes: Societates*, pages 107–108), Free Expression, Herbalism (*Art & Academe*, Chapter 4: Medicine), Purifying Touch, and Second Sight. The Profession: Storyteller Ability is almost essential.
+The Faerie Doctor can choose up to 8 more points of Flaws, granting him up to 16 more Virtue Points. The Student of Faerie Virtue and the Faerie Upbringing Flaw are very common among Faerie Doctors; and a high number are Gender Nonconforming. Many of them possess enhanced abilities to resist many curses and diseases (such as a Greater or Lesser Immunity, or Rapid Convalescence Virtues). Other useful Virtues include Summoning (see New Virtues and Flaws), Control Fertility (see *Houses of Hermes: Societates*, pages 107–108), Free Expression, Herbalism (*Art & Academe*, Chapter 4: Medicine), Purifying Touch, and Second Sight. The Profession: Storyteller Ability is almost essential.
 
 A character can be a faerie doctor without being a Mythic Companion, but they are understandably less powerful. They must still take the compulsory Virtues and Flaws listed above, but must balance Virtues and Flaws in the normal manner (**ArM5**, page 28). Faerie doctors who have The Gift instead of being a Mythic Companion can choose one Supernatural Ability without needing the corresponding Virtue; for faerie doctors this is usually Curse-Throwing. Gifted characters can learn Supernatural Abilities as described on page 166 of **Ars Magica Fifth Edition**. Their favored Abilities are Curse-Throwing, Dowsing, Summoning, and Second Sight; the scores in these Favored Abilities do not penalize the Source Quality for learning other Favored Abilities. The scores in non-Favored Supernatural Abilities still penalize the Source Quality when learning Favored Abilities, and *vice versa*.
 
-# Homunculi Wizards
+## Homunculi Wizards
 
 Just as there are magi in Mythic Europe who are interested in faeries and who have adapted their magic to the Faerie realm, there are also hedge wizards aligned to Faerie who are interested in the Magic realm and have learned to adapt their faerie powers to seem magical. One sort does not have The Gift, but instead gets their power from their bond with a strange kind of faerie known as a homunculus.
 
@@ -6722,17 +6680,17 @@ To play a Homunculus Wizard as a character, take The Gift and the Homunculus Wiz
 
 ## Faerie Warping
 
-**Ars Magica Fifth Edition** does not distinguish between warping caused by faerie sources, and warping deriving from magical, divine, or infernal sources. For some characters, however, the principle source of warping can be identified to come from faerie sources. Such a character might live in a powerful aura, consort regularly with faeries, or else be a practitioner of faerie magic. These characters demonstrate a distinctive pattern of warping associated with their connection to the fae.
+**Ars Magica Fifth Edition** does not distinguish between warping caused by faerie sources, and warping deriving from magical, divine, or infernal sources. For some characters, however, the principal source of warping can be identified to come from faerie sources. Such a character might live in a powerful aura, consort regularly with faeries, or else be a practitioner of faerie magic. These characters demonstrate a distinctive pattern of warping associated with their connection to the fae.
 
 Characters with supernatural powers aligned to the Faerie realm suffer Virtues or Flaws through Warping unless they belong to a magical tradition that provides another means of responding to Warping, such as the Order of Hermes. Characters with Sympathy Traits and Faerie Rank experience Faerie Calling instead, as described later. If a character experiences Warping through one of these other means, he cannot acquire a glamour as described here unless he possesses the Faerie Metamorphosis Flaw (see New and Modified Flaws, earlier).
 
-**Warping Score of 1**: In the place of the usual Flaw gained when the character's Warping Score reaches 1, a character may instead begin to develop a glamour of her own. The troupe should decide on a new Reputation for the character based on her actions in a prominent story. The Reputation, which begins at a score of 1, represents the stories told about her, and increases whenever the character's Warping Score increases. This Reputation is a Flaw, and so should be a hindrance to the character. For example, it might make her famous when she'd rather stay anonymous, or represent an unpleasant side of her character. Note that the Reputation need not be accurate, but it must be appropriate; a grog seen in the company of the walking dead could gain a Reputation as an Evil Necromancer, and a scholar who carries a sword could become known as a Soldier. This glamour has other effects that manifest as the character's Warping Score increases; see later for more details.
+**Warping Score of 1:** In the place of the usual Flaw gained when the character's Warping Score reaches 1, a character may instead begin to develop a glamour of her own. The troupe should decide on a new Reputation for the character based on her actions in a prominent story. The Reputation, which begins at a score of 1, represents the stories told about her, and increases whenever the character's Warping Score increases. This Reputation is a Flaw, and so should be a hindrance to the character. For example, it might make her famous when she'd rather stay anonymous, or represent an unpleasant side of her character. Note that the Reputation need not be accurate, but it must be appropriate; a grog seen in the company of the walking dead could gain a Reputation as an Evil Necromancer, and a scholar who carries a sword could become known as a Soldier. This glamour has other effects that manifest as the character's Warping Score increases; see later for more details.
 
-**Warping Score of 3**: At this level of warping, the character suffers some supernatural penalty, which manifests as either Faerie Antipathy (Minor) or Lesser Malediction. If the character took on a glamour at a Warping Score of 1, he also develops the desire to derive vitality from his glamour. Since the character is still human ,this desire manifests as a need, and he suffers if he deprives himself of this need. The character must act in a manner concordant with his Reputation at least once a season, or else he suffers the effects of Deprivation (see **ArM5**, page 180). Thus, a character with the Soldier Reputation can stave off Deprivation by being involved in combat, and a character with a Reputation as an Evil Necromancer can prevent Deprivation by scaring some villagers with ghosts. When the character's Warping Score rises to 4, the interval between Deprivation rolls becomes a month; when it becomes 5 the interval is a week; and at a Warping Score of 6 or greater the interval is a day.
+**Warping Score of 3:** At this level of warping, the character suffers some supernatural penalty, which manifests as either Faerie Antipathy (Minor) or Lesser Malediction. If the character took on a glamour at a Warping Score of 1, he also develops the desire to derive vitality from his glamour. Since the character is still human ,this desire manifests as a need, and he suffers if he deprives himself of this need. The character must act in a manner concordant with his Reputation at least once a season, or else he suffers the effects of Deprivation (see **ArM5**, page 180). Thus, a character with the Soldier Reputation can stave off Deprivation by being involved in combat, and a character with a Reputation as an Evil Necromancer can prevent Deprivation by scaring some villagers with ghosts. When the character's Warping Score rises to 4, the interval between Deprivation rolls becomes a month; when it becomes 5 the interval is a week; and at a Warping Score of 6 or greater the interval is a day.
 
-**Warping Score of 5**: The character nearly always develops a Virtue that represents some minor faerie power at this level of warping, such as Faerie Sympathy (Minor), Lesser Benediction, Lesser Immunity, or Second Sight. A character who adopted a glamour is now so in touch with his personal story that he gains a Sympathy Trait of +1 in an area associated with his warping-derived Reputation (see Sympathy, above, for more details). Thus, a character with the Soldier Reputation might develop Fighting for a Cause +1, whereas the Evil Necromancer might acquire Dead Bodies +1.
+**Warping Score of 5:** The character nearly always develops a Virtue that represents some minor faerie power at this level of warping, such as Faerie Sympathy (Minor), Lesser Benediction, Lesser Immunity, or Second Sight. A character who adopted a glamour is now so in touch with his personal story that he gains a Sympathy Trait of +1 in an area associated with his warping-derived Reputation (see Sympathy, above, for more details). Thus, a character with the Soldier Reputation might develop Fighting for a Cause +1, whereas the Evil Necromancer might acquire Dead Bodies +1.
 
-**Warping Score of 6+**: Supernatural Flaws usually manifest at each level of warping of 6 or greater, such as Greater Malediction or Magical Air. At a warping Score of 6, a character with a glamour also gains a new negative Sympathy Trait of –1. Once again, the affected Trait must be appropriate to the mantle of glamour that warping has given him. Thus, the Soldier might receive Cowardice –1, and the Evil Necromancer might suffer Compassion –1. When his Warping Score increases to 7 he gains another point of positive Sympathy, at 8 he gains another negative point, and so forth.
+**Warping Score of 6+:** Supernatural Flaws usually manifest at each level of warping of 6 or greater, such as Greater Malediction or Magical Air. At a warping Score of 6, a character with a glamour also gains a new negative Sympathy Trait of –1. Once again, the affected Trait must be appropriate to the mantle of glamour that warping has given him. Thus, the Soldier might receive Cowardice –1, and the Evil Necromancer might suffer Compassion –1. When his Warping Score increases to 7 he gains another point of positive Sympathy, at 8 he gains another negative point, and so forth.
 
 ### Sources of Faerie Warping
 
@@ -6810,14 +6768,14 @@ Ritual-level rites take fifteen minutes for each magnitude of the effect, just a
 
 A magus with a Faerie Method and Power can design rituals that use the guidelines for faerie rites, and may use any of the special Faerie Ranges, Durations, or Targets in these Hermetic versions. The storyguide should determine which Technique and Form are used for the ritual, but just as in faerie rites the effects are not natural changes, and will fade as soon as the duration expires. These rituals are cast like Hermetic rituals, including the vis cost, though the caster may use magic or faerie vis without penalty. Also, the caster may add his scores in the Method and Power instead of Artes Liberales and Philosophiae to his Casting Total, and the player may use either the Faerie column or the Magic column of the Realm Interaction Table to determine the aura modifier. The caster must still perform the actions prescribed by the applicable Method during the casting of the ritual, including any additional costs such as expended Fatigue levels or Confidence Points.
 
->## Faerie Ranges, Durations, and Targets
-> 
+> ### Faerie Ranges, Durations, and Targets
+>
 > A character casting a faerie rite may always use any of the following Ranges, Durations, and Targets, in addition to those associated with Hermetic magic (**ArM5**, pages 111-114) and the Faerie Magic of House Merinita (**ArM5**, pages 92-93).
-> 
+>
 > **Crossroads (Range):** This range allows the character to affect a target that is on a road, from another road that intersects it, and is otherwise like Road (**ArM5**, page 92) save that any number of roads can cross each other with this Range. Note that the caster cannot affect targets on the same road as him. It is most effective when cast at an intersection, since there it can affect targets on either road, and is considered the same level as Voice.
-> 
+>
 > **Presence (Range):** The character radiates a sort of faerie aura, which is not visible and has no effect on others except that it allows him to affect targets within this area through an extension of himself. The size of the aura depends upon the character's Presence, as shown below.
-> 
+>
 > | Presence | Distance  |
 > |----------|-----------|
 > | +4/+5    | 100 paces |
@@ -6825,45 +6783,45 @@ A magus with a Faerie Method and Power can design rituals that use the guideline
 > | –1/0/+1  | 15 paces  |
 > | –2/–3    | 5 paces   |
 > | –4/–5    | 0 paces*  |
-> 
+>
 > \* Caster only.
-> 
+>
 > For the purposes of calculating spell levels, this range is the same as Voice.
-> 
+>
 > **Prop (Range):** This is the same level as Touch. The caster touches the target with something that he is also touching. If the prop is too large for the caster to carry, the effect must include additional magnitudes for its size. For example, to affect a target through a wall upon which both target and caster stand would likely add two or three magnitudes to the rite.
-> 
+>
 > **Symbol (Range):** You can affect a symbol of your target as if it were an Arcane Connection to it, essentially allowing you to create an Arcane Connection. This spell must be a ritual, but is otherwise equivalent to Arcane Connection range. To fashion a symbol, the character must have at least 3 points of Sympathy Traits that are applicable to the target. These are cumulative with the other Symbol parameters, so that a rite that includes Range, Duration, and Target: Symbol requires at least 9 points of Sympathy Traits. If the symbol does not uniquely describe the target, the spell will fail, since an Arcane Connection must be specific to a single target (unless cast with Target: Symbol).
-> 
+>
 > **Held (Duration):** This duration is the same level as Concentration. The character may perform the rite as normal, but the effect is delayed for as long as he concentrates. When he releases it, treat it as if cast with Momentary duration.
-> 
+>
 > **Focus (Duration):** The effect lasts until the caster performs another supernatural effect, including using Sympathy Traits as Ability specializations. During this time, the caster does not heal, recover fatigue or Might, or gain Confidence. It is equivalent to Concentration.
-> 
+>
 > **While (Condition) (Duration):** The target must perform some activity such as a musical performance or reading a book, or fulfill some common and temporary physical condition like sleeping or being drunk. As long as that condition lasts, the effect remains. This is the same level as Concentration.
-> 
+>
 > **Geas (Condition) (Duration):** Instead of causing an effect to take place immediately, the character can cast it as a conditional effect using this Duration. This ensures that the effect only manifests in response to an uncommon circumstance that is clearly outlined for the victim as part of the spell. For example, a geas might specify that a knight will lose all his courage if he ever commits adultery or refuses a challenge. The effect of the geas can also target something other than the person affected by the condition, as long as both targets are within range of the effect when it is cast. If either the target or the victim has Magic Resistance, the effect must penetrate at the time of casting to have any effect, and it may be dispelled through powers that undo other powers before the effect comes to pass. It is the same level of Duration as Sun, but adds a second Duration to describe the triggered effect; i.e. Geas/Moon would cost five magnitudes.
-> 
+>
 > **Hour + 1 (Duration):** The effect lasts for an hour and a day; approximately 13 hours. It is equivalent to Sun.
-> 
+>
 > **Midday/Midnight (Duration):** This duration is equivalent to Sun, but does not manifest until dawn, noon, dusk, or midnight. It then lasts until noon, dusk, midnight, or dawn. For example, a spell cast just after dawn would not manifest until noon, and would then last until dusk.
-> 
+>
 > **Not (Condition) (Duration):** The spell lasts for as long as the target does *not* fulfill some common physical condition, such as sleeping or speaking. It is equivalent in level to Sun duration, but cannot last longer than a month.
-> 
+>
 > **Season (Duration):** This duration is held until the start of the next equinox or solstice, and lasts only until the following equinox or solstice. It is the same level as Moon, but requires a ritual.
-> 
+>
 > **Aura (Duration):** The spell lasts for as long as the target remains within a supernatural aura. If the target leaves the aura or the physical world entirely (dies or goes to Arcadia, for example) the spell ends. This does allow moving from one aura to another, so long as the two auras overlap — as long as the target never leaves a supernatural aura of some kind. It is equivalent to Year, and always requires a ritual effect.
-> 
+>
 > **Faerie (Duration):** Either the target or the caster must have Faerie Might, and must be in Mythic Europe; the spell fails the instant this condition is not met, including dying or traveling to the Faerie Realm. This is the same level as Year, and thus requires a ritual to cast.
-> 
+>
 > **Hidden (Duration):** The spell lasts as long as the caster or target (or a significant part of the caster or target) is hidden — buried in the earth, placed inside a box, covered with a curtain or disguised by a costume — by anything, even another spell, so long as the effect with the Hidden duration does not itself hide the target. If anyone other than the caster discovers it, the spell ends immediately. This is the same level as Year, and a ritual effect.
-> 
+>
 > **If (Condition) (Duration):** This effect triggers if the target fulfills a specific condition, which can be common and even impossible to avoid such as eating or sleeping. It has an additional Duration that determines how long the triggered spell lasts after it takes effect. To determine the level, you should add four magnitudes to the level based on the Duration that the spell has when it takes effect, and it must be cast as a ritual. The spell expires without triggering if the caster dies, or if a year passes.
-> 
+>
 > **Symbol (Duration):** The effect lasts as long as a symbol fashioned at the time of casting does (and the symbol must be a physical object, so that a poem or song, for example, must be written down). To fashion a symbol, the character must have at least 3 points of Sympathy Traits that are applicable to the target. These are cumulative with the other Symbol parameters, so that a rite that includes Range, Duration, and Target: Symbol requires at least nine points of Sympathy Traits. If the symbol is broken, erased, falls apart, dies, or is otherwise damaged, the spell ends. If the target changes so that any of the qualities of the symbol no longer apply, the spell is interrupted, but the effects will return once these qualities are true again — unlike the Until (Condition) Duration, this effect can outlive the caster. It is the same level as Year, and requires a ritual to cast.
-> 
+>
 > **Medium (Target):** The effect is held by a medium for the duration of the effect and passed on to an applicable target as soon as it comes within range. When the target is removed from the medium, the effect is interrupted, but as long as the duration continues, the medium can affect another target that comes into range of the effect. For example, a R: Touch rite might target a person, but use an animal as a medium, so that the caster must touch the animal; Then when the animal touches another person, the spell is cast on that person. The caster must have an applicable Sympathy Trait for the medium as well as the target, and it must be within range of the caster when the rite is performed. This is the same level as Part.
-> 
+>
 > **Passion (Target):** The effect targets a group of people through their passions, affecting only those inclined towards a particular emotion or desire, which is integrated into the spell. Each character within the targeted area must roll a simple die and add or subtract any appropriate Personality Traits. Anyone with a total of 6 or higher is affected. This is the same level of Target as Group, and is similarly modified by the size of the affected area.
-> 
+>
 > **Symbol (Target):** The caster affects all targets represented by a symbol within range of the spell. To fashion a symbol, the character must have at least 3 points of Sympathy Traits that are applicable to the target. These are cumulative with the other Symbol parameters, so that a rite that includes Range, Duration, and Target: Symbol requires at least 9 points of Sympathy Traits. The effect is calculated at the same level as Boundary, though it is essentially a large Group, and modifiers according to the size of the target apply. It must be cast as a ritual.
 
 ## Faerie Methods
@@ -6886,13 +6844,13 @@ As part of learning Evocation, the character learns to activate vis as magi do, 
 
 Enchantment involves convincing a target to accept the effects of the rite through some sort of a performance, such as a song, dance, story, or another art form. This is represented through the use of an Ability, making a roll against an Ease Factor of (the magnitude of the intended effect x 3). If the character succeeds at this task, he may then perform the rite in the following round, but with the level of the effect fixed at the intended magnitude. Or, he may begin another performance, making another roll and increasing the magnitude of the effect he is trying to produce by one. The amount by which his previous total exceeds the target Ease Factor may be applied as a bonus to the character's next roll, whether this is another performance or the Casting total for the rite. Thus, it may be better for the caster to risk botching low-level effects for several rounds, and to slowly increase the magnitude of the rite as his advantage builds. If he fails to achieve the declared Ease Factor, he cannot produce the effect of the rite and must start over with no bonus to the roll.
 
-*For example, a knight attempts to enchant a lady of his acquaintance who is watching him at a tournament, using his skill at Single Weapon to hit a target. His player would like to produce a rite with an effect level of 25, which requires him to beat an Ease Factor of 15, but he does not think he will be able to do it without making several rolls. Thus he begins by declaring an effect of Level 15, which means the Ease Factor is 9. The knight makes a pass on the tourney field, and his player rolls a 6. This combined with his score of 5 and his Dexterity of +1 give him a total of 12. He has exceeded the necessary Ease Factor by 3, and if he released the spell he would gain a +3 bonus to his Casting total. Instead, he elects to increase the effect to Level 20 and an Ease Factor of 12, and the knight makes another pass. He rolls an 8, giving him a total of 17 and a bonus of +5. Increasing the ef-* *fect level to 25 and the Ease Factor to 15, he makes a final pass and rolls a 7. This gives him a total of 17; he decides his performance is finished, and makes his Casting roll for a Level 25 effect with a +2 bonus in the following round.*
+*For example, a knight attempts to enchant a lady of his acquaintance who is watching him at a tournament, using his skill at Single Weapon to hit a target. His player would like to produce a rite with an effect level of 25, which requires him to beat an Ease Factor of 15, but he does not think he will be able to do it without making several rolls. Thus he begins by declaring an effect of Level 15, which means the Ease Factor is 9. The knight makes a pass on the tourney field, and his player rolls a 6. This combined with his score of 5 and his Dexterity of +1 give him a total of 12. He has exceeded the necessary Ease Factor by 3, and if he released the spell he would gain a +3 bonus to his Casting total. Instead, he elects to increase the effect to Level 20 and an Ease Factor of 12, and the knight makes another pass. He rolls an 8, giving him a total of 17 and a bonus of +5. Increasing the ef-* *fect level to 25 and the Ease Factor to 15, he makes a final pass and rolls a 7. This gives him a total of 18; he decides his performance is finished, and makes his Casting roll for a Level 25 effect with a +3 bonus in the following round.*
 
 The character with this Method can perform all of his rites as part of his performance activity, even those that use another Method, and it is impossible for a bystander to recognize where his performance ends and the rite begins except by supernatural means (such as Magic Resistance or effects that detect Faerie powers). Enchantment also allows the player to choose to roll a simple die on the Casting roll for any rite, even those that use another Method, removing the risk of botching and losing sympathy on a roll of 0, but also forgoing the chance to gain sympathy on a roll of 1.
 
 ### Empathy
 
-**Rite Characteristic**: Stamina
+**Rite Characteristic:** Stamina
 
 Empathy is the ability to create the power of Faerie within the caster, by drawing forth the qualities of the realm through intense concentration. The caster must expend a Fatigue level while undergoing a mystic ritual, typically designed to lull the caster into a trance-like state. (If the character cannot spend Fatigue levels, or is so tired that the loss would knock him unconscious, the character suffers a Light Wound instead.) The ritual takes about an hour to perform, though if the character is already in this state (intoxicated, say, or having gone without sleep for an entire day and night), it takes no additional time. The disorientation caused by the ritual lasts for the duration of the effect, so that the lost Fatigue cannot be recovered until it has ended.
 
@@ -6910,17 +6868,16 @@ Beguile is the power to command the target to do as you suggest, or to convince 
 
 Normally, the caster must have a Sympathy Trait that is appropriate to the target. With Beguile, however, any Sympathy Trait may be applicable so long as it is appropriate to the memory, emotion, or perception brought about by the rite. For example, a caster with a Wind Sympathy Trait could change a person's memory of a wind, perception of the wind, or feelings about the wind.
 
-**Gown of Enfolding Colors**
+##### Gown of Enfolding Colors
 
-Evocation/Beguile 15
-
+Evocation/Beguile 15 <br>
 R: Touch, D: Mid, T: Room
 
 The caster causes all the people in a room to perceive her or another as especially beautiful, and more alluring than anyone else. This impression is superficial only, and the targets may see through the effect by interacting with her in a more significant way.
 
 (Base 2, +1 Touch, +2 Mid, +2 Room)
 
-**The Irresistible Dance**
+##### The Irresistible Dance
 
 Empathy/Beguile 25 R: Voice, D: Focus, T: Ind
 
@@ -6928,7 +6885,7 @@ The target is filled with wild, hedonistic abandon, and feels compelled to dance
 
 (Base 10, +2 Voice, +1 Focus)
 
-**Seduce the Innocent Heart**
+##### Seduce the Innocent Heart
 
 Enchantment/Beguile 30 R: Prs, D: Sun, T: Ind
 
@@ -6936,36 +6893,34 @@ The target experiences powerful curiosity and carnal desire, which affects every
 
 (Base 10, +2 Prs, +2 Sun)
 
-> # Beguile Guidelines
-> 
+> ### Beguile Guidelines
+>
 > **Level 1:** Make a minor change to the target's memory of an event.
-> 
+>
 > **Level 2:** Make a major change to the target's memory of an event.
-> 
+>
 > Make a minor change to the target's perceptions.
-> 
+>
 > Plant a single suggestion in the mind of the target.
-> 
-> **Level 3:** Make a major change to the target's memory of a series of events. Make a major change to the target's
-> 
-> perceptions or emotions.
-> 
+>
+> **Level 3:** Make a major change to the target's memory of a series of events. Make a major change to the target's perceptions or emotions.
+>
 > **Level 4:** Make major changes to the target's memory of a long period of time. Control the target's mental state (i.e. awake, asleep, confused, or lucid) Completely change the target's perceptions or emotions.
-> 
+>
 > **Level 5:** Control the target's behavior based on a natural emotion.
-> 
+>
 > Paralyze the target with emotion.
-> 
+>
 > **Level 10:** Completely change the target's memories.
-> 
+>
 > Control the target's behavior based on an unnatural emotion.
-> 
+>
 > Imbue all of the target's responses with a particular emotion.
-> 
+>
 > **Level 15:** Give a simple command to the target.
-> 
+>
 > **Level 20:** Give a complex command to the target.
-> 
+>
 > **Level 25:** Completely control the target, including its movement and communication.
 
 ### Conjure
@@ -6978,52 +6933,49 @@ Many Conjure rites allow the caster to change a target into something else. In t
 
 Since glamours are based on images, it is possible to create very unnatural situations with them, such as a place that is larger on the inside than on the outside. For example, one could change the inside of a tent into the inside of a castle, or a bag into a deep well. This is simply creating the illusion of the castle on the inside of the tent, but because of the properties of glamours it is as if it were real. When the effect ends, the results are unpredictable and often surprising — the contents of the tent larger on the inside than outside might simply vanish, reappear outside the tent, or wind up transported into Faerie.
 
-**A Horse of a Different Color**
+##### A Horse of a Different Color
 
-Empathy/Conjure 20
-
+Empathy/Conjure 20 <br>
 R: Voice, D: Sun, T: Ind
 
 The target animal grows brightly-colored wings for the duration, transforming into a chimerical beast that is a fanciful combination of two animals. This increases its Size category by 1, and it gains the temporary ability to fly and sing.
 
 (Base 3, +2 Voice, +2 Sun, +1 size)
 
-**The Old Guard**
+##### The Old Guard
 
-Evocation/Conjure 20
-
+Evocation/Conjure 20 <br>
 R: Touch, D: Sun, T: Group
 
 The caster creates the glamour of ten men, properly equipped as grogs, who gather protectively about the caster to protect him from harm. These imaginary people have average Characteristics and no Abilities, and must act as an untrained group.
 
 (Base 3, +1 Touch, +2 Sun, +2 Group)
 
->## Conjure Guidelines
-> 
+> ### Conjure Guidelines
+>
 > Intricate glamours require an additional magnitude, such as those creations with moving parts or that mimic a specific target. A glamour that can act under the caster's direct mental command requires two additional magnitudes.
-> 
+>
 > Changing an animate target (something that can move under its own power) into an inanimate object is also more difficult, and requires two additional magnitudes. Over time, however, the target will begin to regain its mobility unless the caster regularly concentrates on the effect. For example, a person may be changed into a tree, but if ignored for a few days that tree may begin to move and resemble a person, as its Essential Nature begins to reassert itself over the glamour.
-> 
+>
 > The final form of a target changed into glamour will usually have recognizable properties in common with its true shape. For example, a person transformed into an animal might be extremely expressive and possibly retain other human qualities such as the ability to speak or walk upright.
-> 
+>
 > **General:** Conjure a faerie with Faerie Might equal to the base level of this effect. (Ritual)
-> 
+>
 > **Level 3:** Conjure a glamour.
-> 
+>
 > Change the target into a glamour. The glamour must be approximately the same size as the target, though Size modifiers may be added to produce a larger effect.
-> 
+>
 > **Level 4:** Change the target into a glamour up to two Size categories smaller than its normal size.
-> 
+>
 > **Level 5:** Change the target into a glamour up to five Size categories smaller than its normal size.
-> 
+>
 > **Level 10:** Change the target into a glamour up to 10 Size categories smaller than its normal size.
-> 
+>
 > **Level 15:** Change the target into a glamour up to 15 Size categories smaller than its normal size.
 
-**Curse of the Faerie Forest**
+##### Curse of the Faerie Forest
 
-Enchantment/Conjure (Dream) 45
-
+Enchantment/Conjure (Dream) 45 <br>
 R: Voice, D: Until, T: Group, Ritual
 
 The target group is changed into animals that are most appropriate to their surface thoughts. This effect lasts until they apologize to the enchanter and make amends for the insult that inspired this spell, or else until they or the caster die.
@@ -7036,64 +6988,65 @@ Dream is the power to see into the lands of Faerie beyond Mythic Europe, as an i
 
 To handle these visions in the game, the storyguide should allow the player to ask one question about the circumstances in the future, and answer it with a good feeling or bad feeling about the character's fate, perhaps with varying grades of severity. This should be associated with a symbol to give the player something to watch for. For example, a character might see an "old crow" as a very good sign within the next day, or a "green cloak" as a bad omen for the coming year. The troupe should consider this an opportunity for the dreaming character's player to request a story that he would like to see happen, by describing elements of a vision that the storyguide can bring to pass.
 
-> # Dream Guidelines
-> 
+> ### Dream Guidelines
+>
 > **General:** Treat the target as if it possessed the Premonitions Ability for the duration, with a score of (the base level of this effect / 5).
-> 
+>
 > **Level 1:** Allow the target to use one sense at a distance.
-> 
+>
 > **Level 2:** Allow the target to use two senses at a distance.
-> 
+>
 > Allow the target to communicate mentally.
-> 
+>
 > **Level 3:** Allow the target to use all senses at a distance.
-> 
+>
 > Allow the target to understand the meaning of spoken sounds.
-> 
+>
 > **Level 4:** Allow the caster to answer a question about the target's likely future in the next minute.
-> 
+>
 > Allow the target to speak in the caster's native language.
-> 
+>
 > **Level 5:** Allow the caster to answer a question about the target's likely future in the next hour.
-> 
-> Allow the caster to read the target's
-> 
-> surface thoughts.
-> 
+>
+> Allow the caster to read the target's surface thoughts.
+>
 > **Level 10:** Allow the caster to answer a question about the target's likely future in the next day.
-> 
+>
 > Allow the caster to read the target's memories of the past day.
-> 
+>
 > **Level 15:** Allow the caster to answer a question about the target's likely future in the next month.
-> 
+>
 > Allow the caster to read all of the target's memories.
-> 
+>
 > **Level 20:** Allow the caster to answer a question about the target's likely future in the next season. (Ritual)
-> 
+>
 > **Level 25:** Allow the caster to answer a question about the target's likely future in the next year. (Ritual)
-> 
+>
 > **Level 30:** Allow the caster to answer a question about the target's likely future in the next decade. (Ritual)
-> 
+>
 > **Level 35:** Allow the caster to answer a question about the target's likely future in the next century. (Ritual)
 
-**Words that Live in Song** Enchantment/Dream 20
+##### Words that Live in Song
 
+Enchantment/Dream 20 <br>
 R: Touch, D: While, T: Group
 
 The caster of the rite clasps hands with one of the targets, and begins a song in his native language. For as long as the song lasts, everyone in the group can understand the lyrics to the song, and can contribute to it by singing their own words.
 
 (Base 4, +1 Touch, +1 While, +2 Group)
 
-Evocation/Dream 30
+##### The Reflecting Pool
 
-R: Sympathy, D: Aura, T: Medium, Ritual After this rite has been performed, anyone can look into the pool and perceive events as they transpire at another location, described by the caster during the casting. It is often possible for the person looking into the pool to change this location, if he has strong faerie sympathy with another place.
+Evocation/Dream 30 <br>
+R: Sympathy, D: Aura, T: Medium, Ritual
 
-(Base 1, +4 Sympathy, +4 Aura, +1 Medium)
+After this rite has been performed, anyone can look into the pool and perceive events as they transpire at another location, described by the caster during the casting. It is often possible for the person looking into the pool to change this location, if he has strong faerie sympathy with another place.
 
-#### Vision of the Oracles
+(Base 1, +4 Symbol, +4 Aura, +1 Medium)
 
-Empathy/Dream 30
+##### Vision of the Oracles
 
+Empathy/Dream 30 <br>
 R: Prop, D: Mom, T: Ind, Ritual
 
 The caster places a coin against the target's forehead, and concentrates upon a question posed by the target. The caster then experiences a brief, fleeting faerie vision related to that question that concerns potential events in the next year.
@@ -7106,7 +7059,7 @@ Grant gives the caster the power to bless (or curse) a target with the supernatu
 
 Some Grant effects give the target faerie sympathy in the form of Sympathy Traits. Note that like Sympathy Traits gained through sympathetic influence, these Traits are temporary and cannot be increased, and do not affect the character's Faerie Rank (see Chapter 5: Touches of Faerie, Sympathetic Influence).
 
-### Red Sky at Dawn, Blue Sky at Dusk
+##### Red Sky at Dawn, Blue Sky at Dusk
 
 Empathy/Grant General
 
@@ -7116,42 +7069,41 @@ The caster tints a Faerie aura with one of his Sympathy Traits for the duration,
 
 (Base effect, +1 Touch, +2 Mid, +4 Bound)
 
-> # Grant Guidelines
-> 
+> ### Grant Guidelines
+>
 > **General:** The target faerie regains a number of Faerie Might Points equal to (the base level of this effect + 5) for the duration. (Ritual)
-> 
+>
 > The target gains, as a faerie power, a non-ritual effect that the caster is capable of casting, the level of which must be less than or equal to half (the level of this effect + 15). This costs the target the granted effect's magnitude in Might Points to activate, and has an Initiative of (the target's Quickness – the magnitude of this effect). (Ritual)
-> 
+>
 > **Level 3:** The target gains one of the caster's Sympathy Traits for the duration, with a maximum score of +1 or –1.
-> 
+>
 > **Level 5:** Grant the target a Warping Point. Each additional magnitude grants an additional Warping Point.
-> 
+>
 > The target gains one of the caster's Sympathy Traits for the duration, with a maximum score of +2 or –2.
-> 
+>
 > **Level 10:** The target gains a Minor Flaw for the duration. (Ritual)
-> 
+>
 > The target Boundary gains a temporary Faerie aura of 1 for the duration. Each additional magnitude increases the level of the aura by 1. Note that casting this with Duration: Aura does not work unless the entire boundary is already covered by another sort of aura, because that duration requires an aura to sustain the effect. (Ritual)
-> 
+>
 > **Level 15:** The target gains a Minor Virtue for the duration. (Ritual)
-> 
+>
 > The target gains one of the caster's Sympathy Traits for the duration, with a maximum score of +3 or –3.
-> 
+>
 > **Level 25:** The target gains one of the caster's Sympathy Traits for the duration, with a maximum score of +4 or –4.
-> 
+>
 > **Level 30:** The target gains a Major Flaw for the duration. (Ritual)
-> 
+>
 > The target Boundary, which must include a Faerie aura, temporarily becomes a Faerie regio for the duration. Note that casting this with Duration: Aura does not work, because the rite creates the aura in the regio as part of the effect. (Ritual)
-> 
+>
 > **Level 35:** The target gains one of the caster's Sympathy Traits for the duration, with a maximum score of +5 or –5.
-> 
+>
 > **Level 45:** The target gains a Major Virtue for the duration. (Ritual)
-> 
+>
 > The target gains one of the caster's Sympathy Traits for the duration, with a maximum score of +6 or –6.
 
-### Know Then the Calloused Touch of Faerie Hands
+##### Know Then the Calloused Touch of Faerie Hands
 
-Evocation/Grant 30
-
+Evocation/Grant 30 <br>
 R: Voice, D: Mom, T: Ind
 
 The target immediately gains 5 Warping Points — 4 from this effect and 1 from being exposed to a Level-30 rite. For a character who has never experienced Warping, unless the target has some connection to a supernatural realm, this typically increases his Warping Score to 1 and this gives him a Minor Flaw appropriate to his circumstances, such as Fear or Disfigured.
@@ -7160,10 +7112,9 @@ Unlike the effects of other faerie rites this is a permanent effect, as Warping 
 
 (Base 20, +2 Voice)
 
-### A Proper Blessing
+##### A Proper Blessing
 
-Enchantment/Grant 40
-
+Enchantment/Grant 40 <br>
 R: Touch, D: Hidden, T: Ind, Ritual
 
 The target gains the Puissant Faerie Lore Virtue for as long as he keeps hidden a stone given to him by the caster, typically in his shoe or inside his hat. This is a Charmed Virtue; to make use of it, the target must perform a secret ceremonial charm that is taught to him by the caster during the rite. As with all Charmed Virtues, if the secrecy surrounding this charm is ever broken, the effect fails until the caster can fashion a new one for the target, by recasting the rite.
@@ -7174,44 +7125,43 @@ The target gains the Puissant Faerie Lore Virtue for as long as he keeps hidden 
 
 Portage is the power to travel across the sky in the blink of an eye, or put a girdle around the earth in forty minutes. It transports the target and anything attached to it from one place to another by means of the phenomenon known as faerie trods — a Hermetic term to describe areas of space that connect one place to another, like the paths between different levels of regiones. These short-cuts take no time at all to traverse, so that an outsider who watches such a traveler might see him disappear and immediately reappear several paces away. To the traveler himself, of course, this journey appears seamless.
 
-> # Portage Guidelines
-> 
+> ### Portage Guidelines
+>
 > **General:** Transport the target through a regio boundary to a regio with a level less than or equal to ((the base level of this effect + 15) / 5). For example, a base Level 20 effect would allow the target to pass through a regio boundary into a Level-7 regio.
-> 
+>
 > Transport the target out of a regio through a boundary less than or equal to ((the base level of this effect + 15) / 5). For example, a base-Level-20 effect would allow the target to leave through a Level-7 regio boundary.
-> 
+>
 > Transport the target into the Faerie Realm through a regio boundary with a level equal to (13 – ((the base level of this effect + 15) / 5)). For example, a base-Level-20 effect would allow the target to pass into Arcadia through a Level-6 regio boundary.
-> 
+>
 > Transport the target out of the Faerie Realm into a regio with a level less than or equal to (13 – ((the base level of this effect + 15) / 5)). For example, a base-Level-20 effect would allow the target to return to a Level-6 regio.
-> 
+>
 > **Level 5:** Instantly transport the target to anything within range associated with one of the caster's Sympathy Traits. Prevent the target from traveling out of the range of the effect, as determined when the rite is cast. For example, a Range: Touch effect would prevent the target from moving from the spot where the caster performed the rite, even if the caster leaves the area.
-> 
+>
 > **Level 10:** Instantly transport the target anywhere within range of this effect. Cause the target to travel as faeries do; for the duration he becomes able to ignore Fatigue penalties, but unable to expend Fatigue levels.
-> 
+>
 > **Level 15:** Double or halve the target's natural movement speed for the duration.
 
-**Leap of the Shadows**
+##### Leap of the Shadows
 
-Evocation/Portage 20 R: Sight, D: Mom, T: Ind
+Evocation/Portage 20 <br>
+R: Sight, D: Mom, T: Ind
 
 The caster causes any target he can see to move immediately to a place within the shadows. This requires a Sympathy Trait associated with darkness or shadow to enact.
 
 (Base 5, +3 Sight)
 
-### Hearth Prison
+##### Hearth Prison
 
-Enchantment/Portage 40
-
+Enchantment/Portage 40 <br>
 R: Touch, D: Aura, T: Room, Ritual
 
 All those within the room at the time of casting are prevented from leaving the room for the duration. If the rite is performed within a supernatural aura, this is essentially a permanent effect, though the targets may be able to escape through the Faerie Realm or otherwise departing the mortal realm without actually leaving the room's confines.
 
 (Base 5, +1 Touch, +4 Aura, +2 Room)
 
-**The Urgent Messenger**
+##### The Urgent Messenger
 
-Empathy/Portage 25
-
+Empathy/Portage 25 <br>
 R: Touch, D: While, T: Ind
 
 For as long as the target is traveling, his movement rate is doubled.
@@ -7224,14 +7174,18 @@ Ware allows the caster to take responsibility for the target and put it under hi
 
 While all rites require a Sympathy Trait that is applicable to the target, many of these effects require the caster to have two applicable Sympathy Traits — one to affect the target, and one to describe what the target is protected against. Use both of these Traits to determine the maximum level of the effect. These faerie wards are more effective in keeping away subjects with which the caster has positive sympathy than they are at warding away subjects with which the caster has negative sympathy. Like magical wards, the effect must penetrate to affect a subject with Magic Resistance.
 
-**Release the Spellbound Servant** Empathy/Ware General R: Touch, D: Hour+1, T: Ind, Ritual
+##### Release the Spellbound Servant
+
+Empathy/Ware General <br>
+R: Touch, D: Hour+1, T: Ind, Ritual
 
 For the duration, the target is freed from a single supernatural effect, as if the duration of the effect had ended, so long as the level of this rite equals or exceeds the level of the effect. This protection lasts for an hour and a day, at which point the suppressed effect returns.
 
 (Base effect, +1 Touch, +2 Hour+1)
 
-**Sovereign Silence of Opposition** Evocation/Ware General
+##### Sovereign Silence of Opposition
 
+Evocation/Ware General <br>
 R: Touch, D: Not, T: Ind
 
 For as long as the target does not speak, or until a month has passed, no creature with a Might Score less than or equal to the level of this effect may harm the target or cause the target to be harmed by its actions. This includes affecting the target with its powers, even if those powers seem to be beneficial.
@@ -7240,42 +7194,45 @@ This requires that the caster possesses a Sympathy Trait appropriate to the subj
 
 (Base effect, +1 Touch, +2 Not)
 
-**The Eternal Parry** Enchantment/Ware 25 R: Per, D: While, T: Ind
+##### The Eternal Parry
+
+Enchantment/Ware 25 <br>
+R: Per, D: While, T: Ind
 
 The caster wields a blade while performing a dance, and from then on he receives a +3 bonus to his Defense for as long as he continues to brandish his weapon. The effect ends the moment he sheathes it, drops it, or stops fighting.
 
 (Base 20, +1 While)
 
-> # Ware Guidelines
-> 
+> ### Ware Guidelines
+>
 > **General:** Suppress a supernatural effect on the target for the duration, if the level of the effect is less than or equal to (the base level of this effect + 15). This may affect a Hermetic Longevity Ritual, though it must be suppressed for at least half the year or the target will still receive its benefits. (Ritual)
-> 
+>
 > Ward the target against anything associated with one of the caster's positive Sympathy Traits, with Faerie Might no greater than (the base level of this effect + 20).
-> 
+>
 > Ward the target against anything associated with one of the caster's positive Sympathy Traits with Divine, Faerie, Infernal, or Magic Might no greater than (the base level of this effect + 15).
-> 
+>
 > Ward the target against anything opposed by one of the caster's negative Sympathy Traits, with Faerie Might no greater than (the base level of this effect + 5).
-> 
+>
 > Ward the target against anything opposed by one of the caster's negative Sympathy Traits, with Divine, Faerie, Infernal, or Magic Might no greater than the base level of this effect.
-> 
+>
 > Ward the target against anything associated with any of the caster's Sympathy Traits, with Faerie Might no greater than the base level of this effect.
-> 
+>
 > Ward the target against anything associated with any of the caster's Sympathy Traits, with Divine, Faerie, Infernal, or Magic Might no greater than (the base level of this effect – 5).
-> 
+>
 > Ward the target against anything that is not associated with any of the caster's Sympathy Traits, with Faerie Might no greater than (the base level of this effect – 10).
-> 
+>
 > Ward the target against anything that is not associated with any of the caster's Sympathy Traits, with Divine, Faerie, Infernal, or Magic Might no greater than (the base level of this effect – 15).
-> 
+>
 > **Level 1:** Ward the target against all mundane things associated with one of the caster's positive Sympathy Traits.
-> 
+>
 > **Level 4:** Ward the target against all mundane things opposed by one of the caster's negative Sympathy Traits.
-> 
+>
 > **Level 5:** Make the target more resistant to physical damage for the duration (+1 Soak). Each additional magnitude increases this bonus by one.
-> 
+>
 > Ward the target against all mundane things associated with any of the caster's Sympathy Traits.
-> 
+>
 > **Level 10:** Increase the target's natural defenses for the duration (+1 Dfn). Each additional magnitude increases this bonus by 1.
-> 
+>
 > **Level 15:** Ward the target against all mundane things that are not associated with any of the caster's Sympathy Traits.
 
 ### Weal
@@ -7284,64 +7241,72 @@ This Power represents the faerie ability to shrug off damage relatively quickly,
 
 Weal also affects age, making living targets less likely to suffer the ravages of time, and can cause a target to regress in years for the duration. This effect cannot cause a character to revert to childhood, nor can it affect a character who has not yet reached physical maturity.
 
-> # Weal Guidelines
-> 
+> ### Weal Guidelines
+>
 > **General:** Give the target a bonus to Recovery rolls and a penalty to Aging rolls, or a bonus to Aging rolls and a penalty to Recovery rolls, equal to ((3 + magnitude) x 3) as long as this effect is active for at least half of the time period. This Recovery penalty does not cause wounds to worsen, though it does prevent them from healing normally.
-> 
+>
 > **Level 1:** Give the target a +1 bonus to Recovery rolls and a +1 penalty to Aging rolls, or a –1 bonus to Aging rolls and a –1 penalty to Recovery rolls.
-> 
+>
 > Reduce a physically mature target's apparent age by one year for the duration. Each additional magnitude removes another year. (Ritual)
-> 
+>
 > **Level 2:** Give the target a +3 bonus to Recovery rolls and a +3 penalty to Aging rolls, or a –3 bonus to Aging rolls and a –3 penalty to Recovery rolls.
-> 
+>
 > **Level 3:** Give the target a +6 bonus to Recovery rolls and a +6 penalty to Aging rolls, or a –6 bonus to Aging rolls and a –6 penalty to Recovery rolls.
-> 
+>
 > **Level 4:** Give the target a +9 bonus to Recovery rolls and a +9 penalty to Aging rolls, or a –9 bonus to Aging rolls and a –9 penalty to Recovery rolls.
-> 
+>
 > Prevent the target's wounds from worsening for the duration.
-> 
+>
 > Delay all of the character's natural Aging and Recovery rolls until after the effect ends. (Ritual)
-> 
+>
 > **Level 5:** Heal a Light wound for the duration.
-> 
+>
 > **Level 10:** Heal a Medium wound for the duration.
-> 
+>
 > **Level 15:** Heal a Heavy wound for the duration.
-> 
+>
 > Reduce the interval in which a single wound heals naturally by one step for the duration. For example, a Heavy wound would heal as a Medium wound, and a Medium wound as a Light wound. For a Light or Incapacitating wound, the target can make an immediate recovery roll, with no worsening possible. (Ritual)
-> 
+>
 > **Level 20:** Heal an Incapacitating wound for the duration.
-> 
+>
 > Reduce the interval in which a single wound heals naturally by two steps.
-> 
+>
 > **Level 25:** Heal all of the target's wounds for the duration.
-> 
+>
 > Reduce the interval in which a single wound heals naturally by three steps. Restore the target to the semblance of life for the duration. (Ritual)
-> 
+>
 > **Level 30:** Reduce the interval in which a single wound heals naturally by four steps. Reduce the interval in which all of the target's wounds heal naturally by one step. (Ritual)
-> 
+>
 > **Level 35:** Reduce the interval in which all of the target's wounds heal naturally by two steps. (Ritual)
-> 
+>
 > **Level 40:** Reduce the interval in which all of the target's wounds heal naturally by three steps. (Ritual)
-> 
+>
 > **Level 45:** Reduce the interval in which all of the target's wounds heal naturally by four steps. (Ritual)
-> 
+>
 
-**The Endless Summer** Empathy/Weal General R: Touch, D: Year+1, T: Ind, Ritual
+##### The Endless Summer
+
+Empathy/Weal General
+
+R: Touch, D: Year+1, T: Ind, Ritual
 
 For the duration of the effect, the target receives a bonus to Aging rolls, equal to (3 x (the magnitude of this effect – 2)). For example, a Level-25 effect would subtract 9 from Aging rolls. This also negatively affects Recovery rolls made during the period by the same amount. This effect must remain active for at least half of the period before the roll is made, so the rite must be performed no later than summer to affect a character's Aging roll for that year.
 
 (Base level, +1 Touch, +4 Year+1)
 
-**Stir the Body** Evocation/Weal 20
+##### Stir the Body
 
+Evocation/Weal 20 <br>
 R: Touch, D: Mom, T: Ind, Ritual
 
 The target, who must be either incapacitated or must have suffered a Light wound, may make an immediate Recovery roll. If the results are negative, treat them as no change.
 
 (Base 15, +1 Touch)
 
-**The Faerie Shade** Enchantment/Weal 50 R: Touch, D: Aura, T: Ind, Ritual
+##### The Faerie Shade
+
+Enchantment/Weal 50 <br>
+R: Touch, D: Aura, T: Ind, Ritual
 
 This rite brings the target back from the dead, restoring life to a corpse. The target remembers everything it knew up to the moment of its death, and can make new memories, but cannot learn anything or gain experience. Many believe that the body is animated by the spirit of a faerie, rather than the lost soul, and in support of this theory the person returned to life is often found to have a very different personality.
 
@@ -7351,18 +7316,18 @@ This rite brings the target back from the dead, restoring life to a corpse. The 
 
 Faerie rites allow faerie wizards to damage a target directly, like the faeries whose power they channel. Consequently, Woe can cause grave injuries with greater ease than Hermetic magic. However, because of the universal properties of faerie rites, this damage immediately goes away as soon as the effect wears off. Those who wield this power thus usually seek to harass and delude their quarry with their rites rather than simply destroying them. And of course, it is generally much easier to simply cut off their enemies' heads once they are disoriented.
 
-**Curse of the Festering Bruise**
+##### Curse of the Festering Bruise
 
-Evocation/Woe 20
-
+Evocation/Woe 20 <br>
 R: Touch, D: Moon, T: Medium
 
 This rite is cast on a weapon of some kind — typically an arrowhead or a knife — and targets the person struck by it. One of this target's wounds (probably the one caused by the weapon) heals as an Incapacitating wound for the duration of the effect. This means that the target must make a Recovery roll at sunrise and sunset, with the normal risk of death or a worsened condition, but is not actually incapacitated. Once the immediate danger has passed, the wound will remain a Heavy wound until the rite's duration ends, at which time it reverts to the level of wound it was previously.
 
 (Base 3, +1 Touch, +3 Moon, +1 Medium)
 
-**Touch of the Merciless Lover** Empathy/Woe 25
+##### Touch of the Merciless Lover
 
+Empathy/Woe 25 <br>
 R: Touch, D: Hour+1, T: Ind
 
 The caster brushes against the target, and the target immediately wastes away and dies. When the effect's duration ends, the target is restored to life, waking in exactly the same physical state as before the spell took effect, assuming no additional damage has been dealt to his body. However, if the corpse is buried or hanged, the target will likely suffocate upon reawakening. If it is destroyed during the interim, the target might still return but as a faerie ghost or spirit.
@@ -7371,54 +7336,57 @@ While under the effects of this rite, the target may undergo something similar t
 
 (Base 10, +1 Touch, +2 Hour+1)
 
-**Gaze of Gray Years** Enchantment/Woe 30 R: Eye, D: Held, T: Ind
+##### Gaze of Gray Years
+
+Enchantment/Woe 30 <br>
+R: Eye, D: Held, T: Ind
 
 The caster performs a work of grim and chilling significance, and then concentrates until he can look his target directly in the eye to release the effect. That person, who must be at least 35 years of age, must immediately make an Aging roll. As an additional effect, this rite includes a curse that gives the target a +15 penalty to this roll. This is generally powerful enough to cause the target to gain a Decrepitude Point and suffer an Aging crisis, and since this is a natural consequence of age, these effects are not undone when the duration ends.
 
 (Base 15, +1 Eye, +1 Held, +1 additional effect)
 
-> # Woe Guidelines
-> 
+> ### Woe Guidelines
+>
 > **General:** Give the target a penalty to Recovery or Aging rolls equal to ((3 + magnitude) x 3).
-> 
+>
 > **Level 1:** Give the target a –1 penalty to Recovery rolls or a +1 penalty to Aging rolls.
-> 
+>
 > Cause the target to lose a Fatigue level for the duration.
-> 
+>
 > Increase the interval in which a single wound heals naturally by one step for the duration. For example, a Light wound heals as a Medium wound, a Medium wound as a Heavy wound, and a Heavy wound as an Incapacitating wound. Incapacitating wounds do not heal — if the effect lasts for more than half the recovery time, the target will simply die instead.
-> 
+>
 > **Level 2:** Give the target a –3 penalty to Recovery rolls or a +3 penalty to Aging rolls.
-> 
+>
 > Cause a Light wound to the target for the duration.
-> 
+>
 > Increase the interval in which a single wound heals naturally by two steps for the duration.
-> 
+>
 > **Level 3:** Give the target a –6 penalty to Recovery rolls or a +6 penalty to Aging rolls.
-> 
+>
 > Cause a Medium wound to the target for the duration.
-> 
+>
 > Increase the interval in which a single wound heals naturally by three steps for the duration.
-> 
+>
 > Force the target to make a Recovery roll, with no improvement possible.
-> 
+>
 > **Level 4:** Give the target a –9 penalty to Recovery rolls or a +9 penalty to Aging rolls.
-> 
+>
 > Cause a Heavy wound to the target for the duration.
-> 
+>
 > **Level 5:** Cause an Incapacitating wound to the target for the duration.
-> 
+>
 > Increase the interval in which all of the target's wounds heal naturally by one step for the duration. (Ritual)
-> 
+>
 > **Level 10:** Cause a deadly wound to the target for the duration.
-> 
+>
 > Increase the interval in which all of the target's wounds heal naturally by two steps for the duration. (Ritual)
-> 
+>
 > **Level 15:** Force the target to make an Aging roll.
-> 
+>
 > Increase the interval in which all of the target's wounds heal naturally by three steps for the duration. (Ritual)
-> 
+>
 > (Bonding, Captivating, and Dismissing) are exclusively Faerie powers.
-> 
+>
 > When using any of these arts, a roll of 1 on the stress die gives the character an experience point in an applicable Sympathy Trait used to affect the faerie, and a botch removes an experience point, just as when using Sympathy Traits as specializations.
 
 ## Faerie Bargaining
@@ -7441,18 +7409,18 @@ To summon a faerie, a summoner must have an appropriate Sympathy Trait, positive
 
 The summoner must then mentally prepare himself for a few minutes and expend a Fatigue level (if he cannot expend Fatigue, he cannot perform the summoning). The player decides the strength of the faerie he will attempt to summon, which cannot exceed the maximum Might Score determined by his applicable Sympathy Traits, and makes a roll: a stress die + Presence + Summoning + his Faerie Rank + the aura modifier.
 
-**Summoning Total: stress die + Presence + Summoning + Faerie Rank + aura Maximum Might** 
+**Summoning Total: stress die + Presence + Summoning + Faerie Rank + aura Maximum Might**
 
 **Score: (Sympathy Traits x 5)**
 
->## Summoning Faeries
-> 
+> ### Summoning Faeries
+>
 > There are at least three other Supernatural Abilities in Mythic Europe that may be used to summon faeries, and since all of them originate from the same art practiced by sorcerers long before the birth of Christ, they use very similar concepts. The differences are mostly in how they target faeries and other supernatural beings, as summarized below. To help distinguish them, each version of Summoning might have a parenthetical in front of it, suggesting its focus. For example, faerie summoning from the Ars Fabulosa might be called (Faerie) Summoning, since it only affects beings of its particular realm.
-> 
+>
 > **(Spirit) Summoning:** This Art calls an incorporeal spirit to the summoner, generally one associated with the realm of power that gives the summoner this power, though demons are also especially likely. If the summoning is successful, the spirit is bound in a circle until released by the summoner. Spirit Summoning is always tainted with the influence of the Infernal, and thus infernal versions are most common, but it may be associated with the Faerie or Magic realms instead. The related arts (Ablating, Binding, and Commanding) are all Infernal. (*Realms of Power: The Infernal*, pages 114-115.)
-> 
+>
 > **(Elemental) Summoning:** Some applications of this type of hedge magic summon an elemental being associated with a specific element (Aquam, Auram, Ignem, or Terram). This being can come from any realm, including Faerie, and is typically held within a container where it remains under the summoner's control until released. The power is most commonly Magic, though versions associated with other realms are possible. The related Elementalist Arts (Controlling, Divining, and Refining) are always aligned with Magic. *(Hedge Magic*, Chapter 2: Elementalists, Summoning)
-> 
+>
 > **Sihr:** This Art can summon and bind jinn, including faerie jinn, if the targets have been properly researched by a Hermetic Sihr. It is a Magic power, thought to be very similar to the Elemental version of Summoning, though perhaps Faerie, Infernal, or even Divine versions also exist. (*Houses of Hermes: Societates*, pages 135-136.)
 
 No matter what the Summoning Total, a faerie will appear, even on a botch. If there is a mundane object nearby that is associated with the Sympathy Traits used in the summoning, the faerie could appear by animating that object, or else it might simply emerge from somewhere in the surrounding environment, like from behind a tree or out of the ground. If the player does botch, the faerie will be hostile to the summoner, or perhaps unbound by the terms of any bargain they make. Or perhaps the summoner calls an angel or a demon by mistake, or a faerie that appears to be a different faerie, or is more or less powerful than the summoner intended.
@@ -7486,14 +7454,14 @@ If the bond is tied to an object instead of a person, the object requires a char
 
 A character may only benefit from a single bond at any given time, and activating a second bond destroys the first. Either the faerie or the bearer may also break the bond at will, though faeries rarely do this if it would go against the terms of a bargain. It is possible to bond with a faerie without its permission to do so, assuming the summoner can overcome its resistance, but there is nothing stopping the faerie from ending the effect immediately, if it does not believe the arrangement will be to its benefit.
 
->## Faerie Bargains
-> 
+> ### Faerie Bargains
+>
 > Faeries have a special etiquette all of their own, as anyone with Faerie Lore might know, and a great deal of it has to do with how faeries make bargains. Faeries naturally value vitality, as discussed in Chapter 1: Nature of Faerie, but incognizant faeries may not realize that it is vitality they want. Accordingly, summoning a random faerie within range, even though it avoids the need to Penetrate Magic Resistance, is a risk, because the summoner does not know what this faerie thinks it wants. Intelligence + Faerie Lore rolls against an Ease Factor of 12 or higher may allow the character to work out exactly what a faerie wants after a short period of trial bargaining. It is safer to research a faerie, find an Arcane Connection, and then summon that faerie, but that is not always possible. On the other side, if the summoner does not know what a faerie can do, it is hard to make a reasonable request.
-> 
+>
 > Players are encouraged to roleplay the bargaining session, and try to come to an agreement in character. If a player accidentally commits a breach of etiquette, such as saying "thank you" or acting above their station, the storyguide may allow the player to make an Intelligence + Faerie Lore roll versus an appropriate Ease Factor to see whether or not the character would have actually made that mistake. A particularly bad social gaffe might make it impossible for the characters to ever come to terms, and end the bargaining session immediately.
-> 
+>
 > If after a certain period of time the players cannot come to an agreement, say after a few minutes, you can quickly resolve the bargaining session with a contested Communication + Bargain roll, modified by the character's Faerie Rank. Note that applicable Sympathy Traits may also apply as a specialization to this Ability.
-> 
+>
 > Summoners generally bring beer, milk, gemstones, or other vitality-rich items with them when they travel, to offer in bargains; careful choice of Sympathy traits can make it likely that such items will be acceptable. Typical requests they might make of faeries include: service, such as fighting with the summoner against an enemy, using its powers to bless the summoner, or allowing the summoner to affect it with his other bargaining powers; permission to travel through lands owned by the faerie, or to harvest vis or other resources from it; a pact of non-aggression with the summoner and his community or his traveling companions; or the promise to owe the summoner a favor, to come and give aid when next called upon. Most faeries try to avoid long-term commitments, as they restrict their ability to gain vitality. Incognizant or narrowly cognizant faeries may, however, accept long-term commitments that suit them perfectly. They still expect substantial compensation from the summoner, however.
 
 ### Captivating
@@ -7522,7 +7490,7 @@ Summoners who have studied the art of Dismissing have the power to undo supernat
 
 Dismissing has three uses:
 
-- The summoner can cancel any effect produced by the powers of a being with a Might Score, by exceeding the level of the effect on his Dismissing Total and penetrating the being's Magic Resistance. The summoner can also deflect the use of a being's power before it takes effect, if he beats the being's Initiative Total on a Quickness + Finesse stress roll. (If the summoner has Finesse, he can add his highest applicable Sympathy Trait to his score.) Just as magi can fast-cast spells, a summoner can try to dismiss multiple effects in one round, but he suffers a cumulative –6 penalty for each one. 
+- The summoner can cancel any effect produced by the powers of a being with a Might Score, by exceeding the level of the effect on his Dismissing Total and penetrating the being's Magic Resistance. The summoner can also deflect the use of a being's power before it takes effect, if he beats the being's Initiative Total on a Quickness + Finesse stress roll. (If the summoner has Finesse, he can add his highest applicable Sympathy Trait to his score.) Just as magi can fast-cast spells, a summoner can try to dismiss multiple effects in one round, but he suffers a cumulative –6 penalty for each one.
 - Dismissing can end the duration of any effects that target a being with a Might Score, if he penetrates that being's Magic Resistance and exceeds the level of the cancelled effect on his Dismissing Total.
 - The summoner can release a being with a Might Score from the terms of an agreement that has supernatural force, such as a bargain made between a summoner and a faerie. To do this, the summoner must exceed the creature's Might Score on his Dismissing Total, and must penetrate its Magic Resistance. Many believe that through this process the summoner takes the debt upon himself, freeing the being from its obligation.
 
@@ -7592,24 +7560,24 @@ Appropriation is the theft of stories. Faerie is a setting that allows troupes t
 
 Medieval storytellers would use topical material to comment on the political situation of their day, hidden beneath a layer of stock characters and set in a distant land. Storyguides should steal ideas and characters from modern literature. Similarly, storyguides who take inspiration from modern social and political controversies are following an ancient tradition of folk storytelling.
 
->## Mistakes To Avoid
-> 
+> ### Mistakes To Avoid
+>
 > Several traditional ways of telling faerie stories do not work well in roleplaying games. In brief these are:
-> 
->### Catalog of the Fantastic
-> 
+>
+> #### Catalog of the Fantastic
+>
 > Some authors of faerie stories merely describe a cavalcade of marvelous things. Faerie is a good place to develop emotionally resonant settings, but unless the setting bears some relationship to the plot, and the plot is driven by the desires of the player characters, catalogs of the fantastic reduce the player characters to an audience.
-> 
->### Cuteness
-> 
+>
+> #### Cuteness
+>
 > Diminutive faeries with lisps and names that sound like the simple sounds that babies make are an Edwardian reaction to the harshness of the Victorian world. They fail, in a roleplaying sense, because the plots of roleplaying games are about conflict, and baby faeries do not fit that milieu, except as victims.
-> 
->### Genuineness
-> 
+>
+> #### Genuineness
+>
 > Authors who write about fairy tales can become very strident about which version of a story precedes the others, and about the division between genuine folk tales and literary retellings. Storyguides should not be too concerned about telling the "genuine" version of a faerie tale. Two stories that share the same motifs are not the same story: color, atmosphere, and detail matter and need to be tailored to the players. For game purposes, the versions of Red Riding Hood where she is saved by a woodcutter, eaten by the wolf, and seduces the wolf are all good material. Which version of a story is the best depends on the troupe, and the saga.
-> 
->#### It Was All a Dream
-> 
+>
+> #### It Was All a Dream
+>
 > Faerie stories are often allegorical, which makes them dream-like. It can be tempting for the story to have been a dream. This cheapens the accomplishments of the player characters, unless the dream has ongoing consequences in the saga. Faerie stories should be meaningful.
 
 ## Use Other Stories
@@ -7620,15 +7588,15 @@ Search the books in this book's bibliography for stories the troupe has not hear
 
 Faeries are very diverse, which helps to hide the fact that they play few roles in stories. The following lists include characters from popular, modern fairy tales, to demonstrate each role. Faeries often:
 
-### Create the problem that forces the player characters to act ...
+**Create the problem that forces the player characters to act ...**
 
 - The Witch in *Rapunzel* steals a child from a family with a magical pact that involves eating fairy food, and keeps her in a tower. Rapunzel develops magical powers, including tears that can permanently heal injuries and hair that grows at an alarming rate. She is likely a potent source of Corpus or Creo vis.
 - The insulted faerie in *Sleeping Beauty* curses her to prick her finger, suffering a wound, and then dying. This is commuted to just sending her entire community into a regio to sleep for a hundred years.
-- The magician in The Glass Coffin enchants the lands, turns the princes into animals, and seals the princess in a glass coffin when she refuses to marry him. 
+- The magician in The Glass Coffin enchants the lands, turns the princes into animals, and seals the princess in a glass coffin when she refuses to marry him.
 - The dwarf in *Snow White, Rose Red* curses a prince to take bear shape by stealing his money.
 - Eris, in *The Illiad*, pitches the entire world into war, because she thinks it amusing.
 
-### Are servants of player characters ...
+**Are servants of player characters ...**
 
 - The djinni from *Aladdin and the Wonderful Lamp* grants wishes.
 - Dick Whittington's Cat and Puss in Boots both help their masters become undeservedly rich.
@@ -7636,14 +7604,14 @@ Faeries are very diverse, which helps to hide the fact that they play few roles 
 - Any brownie or house goblin does chores.
 - Dwarfs act as squires to great warriors in Arthurian tales.
 
-### Grant a useful item, or can teach a useful skill, after the characters are tested ...
+**Grant a useful item, or can teach a useful skill, after the characters are tested ...**
 
 - Cinderella's helper (whether a godmother, ghost of her mother, or magical birds) provides her with, at least, one dress and set of shoes.
 - The elves in the *Shoemaker and the Elves* make shoes.
 - Dwarfs make the weapons of deserving heroes and gods in Norse mythology.
 - A Lady of the Lake is the guardian of Excalibur and gives it to Arthur, while another guards three magic shields, which she gives to Lancelot.
 
-### Allow the characters to travel to complete the story ...
+**Allow the characters to travel to complete the story ...**
 
 - Djinni from *Aladdin and the Wonderful Lamp* allow him to fly through the world.
 - Cinderella's helper (godmother, ghost of her mother, or magical birds) provides her with a coach.
@@ -7651,32 +7619,32 @@ Faeries are very diverse, which helps to hide the fact that they play few roles 
 - The valkyries in Norse myth carry the dead to their conclusion.
 - Some pixies create dust that allows others to fly.
 
-### Embody a threat that must be overcome ...
+**Embody a threat that must be overcome ...**
 
-- Many faeries want to eat the heroes, like the giant in *Jack the Giant Killer,* the witch in *Hansel and Gretel*, the troll in the *Three Billy Goats Gruff*, the wolf in *Red Riding Hood* or the *Three Little Pigs*, or just about any other story.
+- Many faeries want to eat the heroes, like the giant in *Jack the Giant Killer*, the witch in *Hansel and Gretel*, the troll in the *Three Billy Goats Gruff*, the wolf in *Red Riding Hood* or the *Three Little Pigs*, or just about any other story.
 - Others want to capture the heroes. The Snow Queen steals Kay, and imprisons him. Calypso, in *The Odyssey*, wants to keep Odysseus from ever becoming famous or going home.
 
-### Are the thing that must be aided ...
+**Are the thing that must be aided ...**
 
-- Any number of cursed princes, like the Beast from *Beauty and the Beast*, the frog in *Frog Prince*, the prince in *The Hut in the Forest,* and the bear in *Snow White and Rose Red.*
+- Any number of cursed princes, like the Beast from *Beauty and the Beast*, the frog in *Frog Prince*, the prince in *The Hut in the Forest*, and the bear in *Snow White and Rose Red.*
 - Any number of princesses that must be saved from monsters or evil knights.
 - The animals in *The Hut in the Forest.*
 - The lion with the thorn in his paw in *Aesop's Fables.*
 
-### Are the givers of final rewards ...
+**Are the givers of final rewards ...**
 
 - The welcome fairies in *Sleeping Beauty.*
 - Any marriageable prince, or king with a daughter.
 - Any faerie that rewards the good daughter and punishes the evil one.
 - The cailleach that grants sovereignty of Ireland after testing the courage of a man.
 
-### Play several of these roles at various parts of the story ...
+**Play several of these roles at various parts of the story ...**
 
 - Rumplestiltzkin provides service, and the chance to marry a prince, but becomes a threat.
 - The Beast from *Beauty and the Beast* is initially a threat, then needs to be helped, and gives rewards.
 - The Frog Prince serves the princess (by getting back her lost ball), then becomes a moral test, needs to be helped, and grants rewards.
 
-### Are the heroes of stories (though this is more uncommon) ...
+**Are the heroes of stories (though this is more uncommon) ...**
 
 - The Little Mermaid deliberately reverses traditional stories, with the mermaid losing her voice, then her life, in love for a mortal.
 - The Bremen Town Musicians.
@@ -7692,11 +7660,11 @@ A good tip when planning a story is to give each of the three basic stages of th
 
 *Example (based on emotions): The thesis is symbolized by Loyalty — a character hears that a faerie ally is in trouble, and pledges her support. The antithesis is Revenge — the faerie is not in trouble; he has faked his situation to avenge a former slight against the character. The synthesis is Courage — the character must weather the storm of the faerie's wrath to reveal that he has been misled by an evil-doer.*
 
-*Example (based on planetary symbolism): The thesis is Mercury — a message is received by a character from an old friend. The antithesis is Mars — old*  *rivalries have lead to open conflict, and the friend hopes that the characters can provide a level head. The synthesis is Venus — getting the opposing parties to remember their love for each other will resolve the story. Alternatively, the synthesis could be Saturn (only death of one of the parties will resolve the situation); or Jupiter (the characters must appeal to authority figures to achieve resolution).*
+*Example (based on planetary symbolism): The thesis is Mercury — a message is received by a character from an old friend. The antithesis is Mars — old rivalries have led to open conflict, and the friend hopes that the characters can provide a level head. The synthesis is Venus — getting the opposing parties to remember their love for each other will resolve the story. Alternatively, the synthesis could be Saturn (only death of one of the parties will resolve the situation); or Jupiter (the characters must appeal to authority figures to achieve resolution).*
 
 Having decided on the overall themes of the thesis, antithesis, and synthesis, the next stage is to flesh out the six components of the story.
 
-##### The Hook
+#### The Hook
 
 The hook is the device that drags the characters into the action. Hooks often present themselves as being connected to a Story or Personality Flaw of a key character — a widow appeals to the charity of a Compassionate character, a Mentor asks that a character performs a small task for him, etc. However, not all stories derive from the characters themselves; they may result from prior escapades or the Flaws of storyguide characters who interfere with the players.
 
@@ -7762,11 +7730,11 @@ The donor grants the hero a magical gift or power that is vital to the execution
 
 Examples: Fafnir (in the *Saga of the Nibelungs*); Ceridwen (in the story of Gwion Bach, the witch whose cauldron gives him magical powers)
 
->## The Thirty Six Dramatic Situations
-> There are a number of modern manuals on literary style that offer advice to aspiring authors, and a storyguide would do well to dip into such sources when planning a faerie story. One of the most useful is Thirty-Six Dramatic Situations by Georges Polti, which propounds that there are thirty six primal emotions that drive all dramatic plots in literature. 
-> 
+> ### The Thirty Six Dramatic Situations
+> There are a number of modern manuals on literary style that offer advice to aspiring authors, and a storyguide would do well to dip into such sources when planning a faerie story. One of the most useful is Thirty-Six Dramatic Situations by Georges Polti, which propounds that there are thirty six primal emotions that drive all dramatic plots in literature.
+>
 > Too many plots in roleplaying games devolve to one of two situations — in Polti’s scheme, numbers 9 (A Daring Enterprise) and 12 (Obtaining). By identifying new plots, excellent inspiration for faerie stories can be gained, particularly if the listed dynamic elements are interpreted metaphorically rather than literally. Adultery is about betrayal of a sacred oath, which encompasses more than just the wedding vows; “Kinsmen,” who feature in many of these situations, can be fellow members of one’s House, or the Order; and a “Conflict with a God” can represent any man’s battle against an undefeatable concept such as Love or Truth.
-> 
+>
 > | Dramatic Situation | Dynamic Elements |
 > |--------------------|------------------|
 > | 1. Supplication | Persecutor, Supplicant, Power in Authority |
@@ -7937,9 +7905,7 @@ Briggs, Katharine. *A Dictionary of Fairies*. Penguin: London, 1977.
 
 Briggs, Katharine. *Abbey Lubbers, Banshees & Boggarts: An Illustrated Encyclopedia of Fairies*. Pantheon Books: New York: 1979.
 
-Gerritsen, Willem and van Melle, Anthony
-
-(Eds). *A Dictionary of Medieval Heroes*. Boydell Press: Woodbridge, 1998.
+Gerritsen, Willem and van Melle, Anthony (Eds). *A Dictionary of Medieval Heroes*. Boydell Press: Woodbridge, 1998.
 
 Palsson, Hermann and Edwards, Paul (Tr). *Seven Viking Romances*. Penguin: London, 1985.
 
@@ -7954,5 +7920,3 @@ Rose, Carol. *Giants, Monsters, and Dragons: an Encyclopedia of Folklore, Legend
 Synge, Ursula. *Kalevala*. Bodley Head: London, 1977.
 
 Wheeler, Post. *Russian Wonter Tales*. A&C Black: London, 1912.
-
-
