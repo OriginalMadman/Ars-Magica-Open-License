@@ -4365,8 +4365,8 @@ Some Tremere magi are skilled at controlling dreams. Many people in Mythic Europ
 > **Reputations:** Vampire +5
 >
 > **Combat:** n/a, Moro attack only by stealth.
-
-**Soak:** 0, immune to normal weapons.
+>
+> **Soak:** 0, immune to normal weapons.
 >
 > **Fatigue:** Tireless
 >
