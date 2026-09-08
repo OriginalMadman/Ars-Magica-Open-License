@@ -452,9 +452,7 @@ A prospective Primus must meet several qualifications. First, he must be a magus
 
 > ## Glaucon, magus Trianomae and Seeker
 >
-> **Characteristics:** Int +3, Per +3, Pre 0, Com +1, Str 0, Sta
->
-> +1, Dex -1, Qik 0
+> **Characteristics:** Int +3, Per +3, Pre 0, Com +1, Str 0, Sta +1, Dex -1, Qik 0
 >
 > **Size:** 0
 >
