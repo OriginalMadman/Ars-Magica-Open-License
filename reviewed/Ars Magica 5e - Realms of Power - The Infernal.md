@@ -4048,8 +4048,7 @@ Mythic Companions have a special Free Virtue that describes what makes them uniq
 > #### Major, Tainted
 >
 > - Amorphous
-> - Command
-> - Animals
+> - Command Animals
 > - Demonic Blood
 > - Hermetic Sorcery
 > - Immune to Disease
