@@ -506,7 +506,7 @@ A prospective Primus must meet several qualifications. First, he must be a magus
 >
 > *Pierce the Magic Veil* (InVi 20) +17
 >
-*The Invisible Eye Revealed* (InVi 20) +17
+> *The Invisible Eye Revealed* (InVi 20) +17
 >
 > **Notes:** Glaucon is a Seeker who specializes in scouring mountainous areas looking for ancient Mercurian temples. Casting spells is painful for Glaucon, and he believes that finding an older source of magic will help him understand the excruciating nature of his Gift. Glaucon shuns other magi of his House, hoping to avoid the regular responsibilities of magi Trianomae. The Tenentes Occultorum are annoyed at Glaucon because he is reluctant to reveal the specific locations of his travels, particular the location of his secret vis source.
 >

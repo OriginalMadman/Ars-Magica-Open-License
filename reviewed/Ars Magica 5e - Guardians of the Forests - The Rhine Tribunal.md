@@ -1495,7 +1495,7 @@ Durenmar, the domus magna of House Bonisagus and the oldest covenant in the Orde
 >
 >Since the site has never been found, or at least no-one has ever told of its finding, its exact nature is a matter of speculation. Bonisagus magi of the lineage of Hercynius believed in the existence of a site that the Mercurian priests, and later Bonisagus, were seeking. Some magi prophesize that one will be destined to discover the glade and will be granted godlike powers. Alternatively, the original spirit might have dwindled entirely and have been replaced by that of a powerful Hermetic maga passed into Final Twilight, perhaps even the Founder Merinita, who waits patiently to reveal her secrets to one who is deemed worthy.
 
->**STORY SEED: THE GLADE'S SECRETS**<br>
+> #### STORY SEED: THE GLADE'S SECRETS
 >Once the site is discovered, ascent of the waterfalls may become a long-term goal for a magus who wishes to explore the Forest Paths. In order to complete the ascent, the spirit should assign the magus a series of Sacrifices and Quests of increasing difficulty. For example, the Sacrifices might involve successively losing parts of their Hermetic magic (acquisition of Hermetic Flaws), and each Quest might be to gather an artifact from another forest.
 
 ### History
@@ -3743,7 +3743,7 @@ The magi may take a liking to the island — if the castle were to be rebuilt, i
 >**Personality Traits:** Arrogant +3, Greedy +3, Scheming +2 <br>
 >**Reputations:** Little More than a Thug 2 (Local)<br>
 >**Combat:**<br>
-*Fist*: Init -1, Attack +1, Defense +1, Damage 0<br>
+>*Fist*: Init -1, Attack +1, Defense +1, Damage 0<br>
 >**Soak:** 0<br>
 >**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious<br>
 >**Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)<br>
@@ -3788,7 +3788,7 @@ The prosperous town of Oberwesel lies two miles downstream from Kaub, on the lef
 >*Short Sword*: Init +3, Attack +10, Defense +8, Damage +6<br>
 >*Thrown Knife*: Init +2, Attack +7, Defense +6, Damage +3<br>
 >*Dagger*: Init +2, Attack +7, Defense +5, Damage +4<br>
-*Fist*: Init +2, Attack +4, Defense +4, Damage +1<br>
+>*Fist*: Init +2, Attack +4, Defense +4, Damage +1<br>
 >**Soak:** +1<br>
 >**Fatigue Levels:** OK, 0, -1, -3, -5, Unconscious<br>
 >**Wound Penalties**: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)<br>
