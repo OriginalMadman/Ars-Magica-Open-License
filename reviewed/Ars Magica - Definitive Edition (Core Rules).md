@@ -19313,7 +19313,7 @@ A zephyrus' body is composed entirely of air. It is capable of moving through la
 > R. Voice, D. Mom, T. Ind.<br>
 > The cohesiveness of a base Individual of Terram is lost, making it melt as if heated strongly, although the power imparts no heat to the object. Armor drips off its wearer, swords collapse like melting butter, and so forth. At the end of the round, the matter resolidifies into its new shape. If the item is enchanted, the elemental's Penetration must exceed five times the total pawns of vis invested. The moisture of living bodies prevents them from such a devastating effect, nevertheless, hair, toenails, teeth, claws, and bone are all affected, inflicting +15 damage and ignoring protection from armor.<br>
 > MuTe(Aq, Co, An) 25 (Base 3, +2 Voice, +2 affect metal, +2 affect humans and animals)
-
+>
 > *Jupiter's Touch*, 1 point, Init equal to (Qik – 1), Auram<br>
 > R: Touch, D: Mom, T: Ind
 > The touch of the elemental causes a flash of coruscating lightning, inflicting +30 damage. This power is suitable for a lightning or storm elemental.<br>
@@ -22400,9 +22400,9 @@ Pure troupe style does, however, require a group of players all of whom are comf
 
 So, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the players (see page 178), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
 
-### The Pure Fantasy Saga
-
 Research needn't involve books and libraries. You can search on the internet, ask questions on discussion forums, or watch historical documentaries on television. This is, after all, a game, so you should research the things you find interesting, in a way you find enjoyable.
+
+### The Pure Fantasy Saga
 
 You can set your saga in a pure fantasy world. You might adapt a published one to include the Order of Hermes, or create your own. The advantage is that you don't have to worry about historical facts at all, and can have exactly the setting you want. The disadvantage is that the setting of **Ars Magica** has even influenced the mechanics, so you will find that you have to adapt or ignore a lot of the game material.
 
