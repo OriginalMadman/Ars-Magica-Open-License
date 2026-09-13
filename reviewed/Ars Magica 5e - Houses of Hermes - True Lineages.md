@@ -2649,7 +2649,7 @@ This ritual can only be cast on a willing subject. At the end of the ritual, the
 
 **Ease Factor:** 18
 
-#### The Will of Alatheia
+##### The Will of Alatheia
 
 **PeCo, R:** Voice, **D:** Spec, **T:** Ind
 
