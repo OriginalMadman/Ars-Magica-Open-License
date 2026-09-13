@@ -787,7 +787,7 @@ The sins necessary to activate this form of infernal influence vary depending up
 
 Note that tarnished auras create an easy way for characters to gain Confidence, since they encourage a particular sin and automatically give characters that trait. Simply spending a season in a tarnished aura is usually sufficient for a character without an appropriate Personality Flaw to earn a Confidence Point, as the character feels compelled to indulge himself in appropriately sinful acts while he is there. He can even claim that "the Devil made him do it" after he repents his actions; the Infernal allows this as it encourages characters to return and sin again.
 
-# Chapter 3 : The Devil and the Origin of Demons
+# Chapter 3: The Devil and the Origin of Demons
 
 *And when We said to the angels: Make obeisance to Adam; they made obeisance, but Iblis refused. He said: Why should I make obeisance to him whom You have created of dust?*
 
@@ -865,7 +865,7 @@ Legends from all three major Divine religions tell of the wickedness of the huma
 
 However, God's predictions were as infallible as ever. Semyaza and Azael (or Harut and Marut, in the Qur'an) descended upon the earth with a host called the Watchers (also called Grigori). They mixed with the children of men, and soon sinned and transgressed through temptation by the Devil. They taught mankind the practices of sorcery and warfare, and took mortal wives to father children who were giants, 300 cubits high. When the sinning angels tried to return to Heaven they were refused admission by five archangels (Michael, Gabriel, Raphael, Uriel, and Suryal) and rebuffed by the Divine light, falling down to earth to became ministers and satellites of the Devil. The children who were born of mortal mothers and angelic fathers were of neither race, but had an intermediate nature, and were called the Nephilim (See *Realms of Power: The Divine*, Chapter 3: Blessed by God). They were not received by man, just as their parents had been refused admission into Heaven, and became the terrestrial demons upon their death (see Chapter 4: The Infernal Legions).
 
-# Chapter 4 : The Infernal Legions
+# Chapter 4: The Infernal Legions
 
 *The whole earth has been corrupted through the works of Azazel: to him ascribe all sin.*
 
@@ -1631,7 +1631,7 @@ Corrupters are usually able to rein in their impulses towards impatience, for co
 > | Watchers (Family) | 40 | Deluders | — | Deceiver (Chapter 6) |
 > | Xaphan, Forge-man of Hell | 15 | Aerial Powers | — | Destroyer (Chapter 7) |
 
-# Chapter 5 : Demons as Corrupters
+# Chapter 5: Demons as Corrupters
 
 #### Adramelech, King of Fire
 
@@ -2318,7 +2318,7 @@ Diabolists have many uses for Valefar. His Powers assist conspiracy, and he is o
 >
 > (Effect: Base 4, +1 Touch, +3 Structure, +1 In requisite)
 
-# Chapter 6 : Demons as Deceivers
+# Chapter 6: Demons as Deceivers
 
 #### Andrew, an Infernal Ghost
 
@@ -2891,7 +2891,7 @@ Premnemosyne is a demon of acedia, the spiritual version of the sin of sloth. Sh
 
 Premnemosyne is currently active in a small town in the Rhineland, ruled by a nobleman under diabolic influence. She spreads folktales about a hero who will come to cast him down, so that people are tempted to wait for a savior who will never come.
 
-# Chapter 7 : Demons as Destroyers
+# Chapter 7: Demons as Destroyers
 
 #### Architectus, Demon Builder
 
@@ -3831,7 +3831,7 @@ Xaphan claims he suggested to Satan that, given the rebellion had failed, he sho
 
 Xaphan avoids combat where possible, evading his enemies, and incinerate their homes while they sleep. Xaphan hates and fears smiths, who have stolen his invention, the bellows, and turned it to human use.
 
-# Chapter 8 : Corrupted Beasts
+# Chapter 8: Corrupted Beasts
 
 Corrupted beasts can become so in a number of different ways. Some are mundane beasts corrupted directly by the power of a demon, while others are born corrupted after a coupling between a demon and a beast. Creatures that dwell in an Infernal aura become corrupted by the very nature of the area; this may only become apparent in the offspring of animals moving into a weak Infernal aura, but is a result of Infernal Warping in stronger auras. Certain Infernal auras (see Chapter 1: The Infernal
 
@@ -3965,7 +3965,7 @@ Kick: Init +1, Attack +13, Defense +5, Damage +12
 
 This horse is one of three created by an Infernalist magus in a tribunal at the fringes of the Order by repeated applications of a tainted version of *Steed of Vengeance* (MuAn 35). There were many failures before he successfully created these three corrupted beasts. Because the untainted version of the spell is wellknown, he is able to use the steeds in front of other magi with impunity.
 
-# Chapter 9 : Infernal Characters
+# Chapter 9: Infernal Characters
 
 Almost as frightening as the creatures aligned with the Infernal realm are those mortals who follow the Devil, by choice or by chance, for they gain many new Supernatural Powers that they may use in Hell's service, though they may also inherit supernatural hindrances associated with their Infernal allegiance. They also learn new skills that aid them in practicing evil, and over time they may even themselves become creatures of the Infernal realm.
 
@@ -5029,7 +5029,7 @@ Devil Children may take three more points of Virtues at no cost (to balance the 
 >
 > Malachi can be introduced to a saga through the release of a demon close to the characters' covenant. He first appears as an ambitious young man with a remarkable instinct for the emotions of others, and the characters may initially believe that he truly is destined to become a leader of men.
 
-# Chapter 10 : The Maleficia
+# Chapter 10: The Maleficia
 
 The evil powers that most infernalists practice are called the **maleficia** (plural, roughly "evil crafts"). This term refers to Infernal effects that resemble Hermetic spells, which require two Supernatural Abilities to cast: a **Method**, which describes what the infernalist must do to bring about the effect and also determines which Characteristic applies to his total, and a **Power**, which describes the sorts of effects that this activity produces. These combine together in a formula very similar to that of Hermetic magic.
 
@@ -5792,7 +5792,7 @@ This leaves him with ten points of Flaws to spend, which balance out as many as 
 >
 > All of Richard's Infernal Blessings are Infernal Powers, which include the following Minor Virtues: Affinity with Artes Liberales, Affinity with Teaching, Affinity with Theology, Great Communication, Great Intelligence (x2), Improved Characteristics (x6), Puissant Artes Liberales, Puissant Teaching, and Puissant Theology. He has been designed with more Story Flaws than are usually allowed, to represent the unique qualities of his upbringing at Glastonbury Abbey, and two additional Minor Flaws, which he has gained through Infernal Warping (Delusion and Corrupted Abilities).
 
-# Chapter 11 : Ars Goetia
+# Chapter 11: Ars Goetia
 
 *When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.*
 
@@ -6021,7 +6021,7 @@ In addition, the character receives **one** of these Minor Virtues at no cost:
 
 If the character takes the Major Flaw Diabolic Past or the Major Virtue Demonic Blood, he may substitute another Minor Virtue in place of this one.
 
-# Chapter 12 : Black Magic
+# Chapter 12: Black Magic
 
 Magic that is concerned with the Infernal realm is often called **nigromancy** (sometimes confused with "necromancy"), meaning "black magic." Hermetic magi usually refer to it as "diabolism," as it is essentially magic that deals with devils, and "dark magic" is another common title. All of these terms essentially describe magic that deals with demons in some way, though it is important to note that metaphysically, black magic is still part of the Magic realm, even though it is often tainted by the Infernal. That is, it is still Hermetic magic, not an Infernal Power.
 
@@ -6326,7 +6326,7 @@ The False Gift has no cost, like its magical counterpart, though it requires the
 >
 > Releganta does not know that Rasus is an infernalist, and she does not really know what that means. As far as she has seen, he does not deal with devils, but ghosts and spirits. After she swears her Hermetic Oath at Tribunal, evidence of her former master's evil deeds may come to light, and if so, he will flee the assembly of magi with the other revealed infernalists of their covenant. She might go with him, or he might leave her behind. If she remains, she will be under great suspicion and watched carefully because of her infamous master, though apart from her magic seeming unholy to those with Divine powers, there is nothing obviously Infernal about her.
 
-# Chapter 13 : Infernal Traditions
+# Chapter 13: Infernal Traditions
 
 *So when you recite the Qur'an, seek refuge with Allah from the accursed Shaitan,*
 
