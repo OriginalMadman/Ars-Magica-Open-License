@@ -666,9 +666,7 @@ Narrowly cognizant faeries are aware that they need something from humans, and a
 > - Faeries are angels that did not aid God during the Satanic Rebellion, but did not actively rebel. They fell from Heaven, but did not fall all the way to Hell.
 > - Faeries are the descendants of Cain. When Cain was banished to the Land of Nod, he went to Arcadia.
 > - Faeries are the dead of the pagans.
-> - Faeries are the spirits of unbaptized
->
-> - children.
+> - Faeries are the spirits of unbaptized children.
 > - Faeries are the spirits of those who died, incomplete, as they crossed a border.
 > - Faeries are the power of human dreams, art, and vision made manifest.
 > - Faeries are spirits that treat humans as prey, feeding on spiritual essences.
@@ -5769,7 +5767,7 @@ Damage statistics above do not include the Constant Damaging Effect power, which
 
 *Size +6:* –1 (1-11), –3 (12-22), –5 (23-33), Incapacitated (34-44), Dead (45+)
 
-*Size +8:* –1 (1-13), –3 (14-26), –5 (27-39), Incapacitated (37-52) Dead (53+)
+*Size +8:* –1 (1-13), –3 (14-26), –5 (27-39), Incapacitated (40-52), Dead (53+)
 
 **Powers:**
 
@@ -7040,7 +7038,7 @@ The caster of the rite clasps hands with one of the targets, and begins a song i
 ##### The Reflecting Pool
 
 Evocation/Dream 30 <br>
-R: Sympathy, D: Aura, T: Medium, Ritual
+R: Symbol, D: Aura, T: Medium, Ritual
 
 After this rite has been performed, anyone can look into the pool and perceive events as they transpire at another location, described by the caster during the casting. It is often possible for the person looking into the pool to change this location, if he has strong faerie sympathy with another place.
 

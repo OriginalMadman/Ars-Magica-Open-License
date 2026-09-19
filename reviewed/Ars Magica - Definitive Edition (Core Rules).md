@@ -7803,7 +7803,7 @@ By sensing passions, the character can often recognize incorporeal spirits. You 
 
 In addition, this Ability allows the character to Sense Holiness and Unholiness in a limited fashion, much like the Sense Holiness and Unholiness Ability. She can tell that something is either holy or unholy, but she cannot distinguish between the two. She feels the emotional presence associated with the Divine or the Infernal, but cannot pinpoint its supernatural origin. Thus, she might mistake a demon with a fair shape for an angel, or a fearsome-looking angel for a demon. By identifying the target's primary emotions or desires, however, you can usually get a good idea of which realm the target is associated with, assuming the character can penetrate its Magic Resistance.
 
-Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness.
+Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness.<br>
 *Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
 
 #### Shapeshifter\*
@@ -10231,9 +10231,9 @@ House Ex Miscellanea is not at all unified, consisting of many different magical
 
 This tradition commands magic which Hermetic Theory finds very hard: the summoning and control of wild creatures. Every apprentice of this tradition was abandoned by his master in areas of wilderness at a very young age, where he had to fend for himself. During this time he developed a particular affinity for a specific group of animals, which forever shapes his magic. Due to this unusual training, all Beast Masters also have the Virtues of Animal Ken and a Minor Magical Focus with a specific group of animals. They are never taught how to turn into animal form, or how to harm animals, which results in the Incompatible Arts Flaw (MuCo & PeAn). They must take at least one more Flaw to balance their Virtues, and then have only 8 points of Flaws available to them to buy another 8 points of Virtues.
 
-*Major Non-Hermetic Virtue:* Summon Animals
-*Minor Hermetic Virtue:* Inoffensive to Animals
-*Major Hermetic Flaw:* Study Requirement
+*Major Non-Hermetic Virtue:* Summon Animals<br>
+*Minor Hermetic Virtue:* Inoffensive to Animals<br>
+*Major Hermetic Flaw:* Study Requirement<br>
 *Required Virtues and Flaws:* Animal Ken, Minor Magical Focus; Incompatible Arts.
 
 #### Summon Animals
@@ -19313,7 +19313,7 @@ A zephyrus' body is composed entirely of air. It is capable of moving through la
 > R. Voice, D. Mom, T. Ind.<br>
 > The cohesiveness of a base Individual of Terram is lost, making it melt as if heated strongly, although the power imparts no heat to the object. Armor drips off its wearer, swords collapse like melting butter, and so forth. At the end of the round, the matter resolidifies into its new shape. If the item is enchanted, the elemental's Penetration must exceed five times the total pawns of vis invested. The moisture of living bodies prevents them from such a devastating effect, nevertheless, hair, toenails, teeth, claws, and bone are all affected, inflicting +15 damage and ignoring protection from armor.<br>
 > MuTe(Aq, Co, An) 25 (Base 3, +2 Voice, +2 affect metal, +2 affect humans and animals)
-
+>
 > *Jupiter's Touch*, 1 point, Init equal to (Qik – 1), Auram<br>
 > R: Touch, D: Mom, T: Ind
 > The touch of the elemental causes a flash of coruscating lightning, inflicting +30 damage. This power is suitable for a lightning or storm elemental.<br>
@@ -22400,9 +22400,9 @@ Pure troupe style does, however, require a group of players all of whom are comf
 
 So, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the players (see page 178), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
 
-### The Pure Fantasy Saga
-
 Research needn't involve books and libraries. You can search on the internet, ask questions on discussion forums, or watch historical documentaries on television. This is, after all, a game, so you should research the things you find interesting, in a way you find enjoyable.
+
+### The Pure Fantasy Saga
 
 You can set your saga in a pure fantasy world. You might adapt a published one to include the Order of Hermes, or create your own. The advantage is that you don't have to worry about historical facts at all, and can have exactly the setting you want. The disadvantage is that the setting of **Ars Magica** has even influenced the mechanics, so you will find that you have to adapt or ignore a lot of the game material.
 

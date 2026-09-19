@@ -452,9 +452,7 @@ A prospective Primus must meet several qualifications. First, he must be a magus
 
 > ## Glaucon, magus Trianomae and Seeker
 >
-> **Characteristics:** Int +3, Per +3, Pre 0, Com +1, Str 0, Sta
->
-> +1, Dex -1, Qik 0
+> **Characteristics:** Int +3, Per +3, Pre 0, Com +1, Str 0, Sta +1, Dex -1, Qik 0
 >
 > **Size:** 0
 >
@@ -508,7 +506,7 @@ A prospective Primus must meet several qualifications. First, he must be a magus
 >
 > *Pierce the Magic Veil* (InVi 20) +17
 >
-*The Invisible Eye Revealed* (InVi 20) +17
+> *The Invisible Eye Revealed* (InVi 20) +17
 >
 > **Notes:** Glaucon is a Seeker who specializes in scouring mountainous areas looking for ancient Mercurian temples. Casting spells is painful for Glaucon, and he believes that finding an older source of magic will help him understand the excruciating nature of his Gift. Glaucon shuns other magi of his House, hoping to avoid the regular responsibilities of magi Trianomae. The Tenentes Occultorum are annoyed at Glaucon because he is reluctant to reveal the specific locations of his travels, particular the location of his secret vis source.
 >
@@ -2651,7 +2649,7 @@ This ritual can only be cast on a willing subject. At the end of the ritual, the
 
 **Ease Factor:** 18
 
-#### The Will of Alatheia
+##### The Will of Alatheia
 
 **PeCo, R:** Voice, **D:** Spec, **T:** Ind
 
@@ -3458,7 +3456,7 @@ Fortune smiles upon you, often protecting you from the random consequences of ad
 
 You can understand and speak any language as long as you are communicating directly with someone else who is fluent in that language. Others who hear your words and who understand that language can understand what you are saying. You cannot carry on a conversation in multiple languages, but you can act as a translator for two or more people who do not have this virtue.
 
-### Great Bearer
+#### Great Bearer
 
 *Minor, Heroic*
 
@@ -3512,7 +3510,7 @@ You can remember, word for word, any short messages you have heard or read in th
 
 You are descended from the Mutantum lineage, and can thus invent formulaic spells and magic items that take advantage of Boosting, Harnessing and Tethering (see Mutantum Magic, under Magic, above). You may also take the Tamed Magic virtue, and half of your starting spells may be "tamed" versions of common spells. Most characters with Mutantum Magic belong to House Mercere and consider themselves Mutantes, and all of them must be descended by blood from the Founder or one of his ancestors.
 
-### Mythic (Characteristic)
+#### Mythic (Characteristic)
 
 *Minor, Heroic*
 
@@ -4367,8 +4365,8 @@ Some Tremere magi are skilled at controlling dreams. Many people in Mythic Europ
 > **Reputations:** Vampire +5
 >
 > **Combat:** n/a, Moro attack only by stealth.
-
-**Soak:** 0, immune to normal weapons.
+>
+> **Soak:** 0, immune to normal weapons.
 >
 > **Fatigue:** Tireless
 >

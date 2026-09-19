@@ -1802,7 +1802,7 @@ Combat Statistics are calculated as normal (see ArM5, page 171), using the Natur
 >
 > **Otter:** The otter has a playful and frivolous disposition, but is nevertheless the enemy of crocodiles, which he climbs inside and eats. *Virtues & Flaws: Ferocity (against water creatures), Puissant Swim; Carefree. Qualities: Amphibious, Pursuit Predator. (phlegmatic with melancholic aspect)*
 >
-> **Partridge**; The female partridge secures protective coloration by clever Camouflage, hiding their eggs from predators and her husband, who is a disgusting creature consumed by lust. As a devoted mother, the partridge feigns injury to distract foxes from her young. *Virtues & Flaws: Puissant Stealth; Fragile Constitution. Qualities: Camouflage, Timid. (sanguine)*
+> **Partridge:** The female partridge secures protective coloration by clever Camouflage, hiding their eggs from predators and her husband, who is a disgusting creature consumed by lust. As a devoted mother, the partridge feigns injury to distract foxes from her young. *Virtues & Flaws: Puissant Stealth; Fragile Constitution. Qualities: Camouflage, Timid. (sanguine)*
 >
 > **Salmon:** A wise fish who feeds on the nuts of the hazel bush. Some say that the salmon is the oldest creature on earth. *Virtues & Flaws: Improved Characteristics, Intuition, Unaging; Compassionate (Minor). Qualities: Aquatic, Slippery. (phlegmatic)*
 >

@@ -200,7 +200,7 @@ Copyright 2005, 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repro
 - &emsp;Traditions
 - &emsp;Mythic Companions: Perfecti
 - &emsp;Grog Templates
-    - &emsp;Companion Templates
+- &emsp;Companion Templates
 - Ars Notoria
 - &emsp;Finding a Text
 - &emsp;Studying the Text

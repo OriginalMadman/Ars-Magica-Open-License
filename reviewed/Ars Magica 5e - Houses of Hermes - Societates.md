@@ -2415,7 +2415,7 @@ Magi do not really understand how lacunae form. The following theories might all
 - Lacunae occur when a single activity, of any type, occurs in an area so often that the spirit of the area becomes accustomed to it, and assists. This is why some bakeries, for example, seem to produce bread that is consistently (but non-magically) excellent, regardless of the skill level of the chief baker.
 - Many lacunae are inexplicable: the reason for their existence is lost to history. Gifted children seem strangely attracted to such places.
 
-*Realmsof Power: Magic* will include additional information on how magical spaces form.
+*Realms of Power: Magic* will include additional information on how magical spaces form.
 
 > ## Finding New Lacunae
 >
