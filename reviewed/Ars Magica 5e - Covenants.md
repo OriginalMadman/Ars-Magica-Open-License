@@ -4338,7 +4338,7 @@ On the night of each new moon, the device calls up a powerful thunderstorm, and 
 
 The entire mechanism must be continuously maintained, as many of its components are fragile and not easily replaced. This requires the occasional dedication of an entire season of work, though the Lab Texts of the long-dead Tremere can be used to guide the magus who keeps up the device. It seems that some non-Hermetic techniques were used in its construction, making the whole enchantment very difficult to reproduce.
 
-#3# The Peak of Storms
+### The Peak of Storms
 
 **by Paul Tevis**
 
