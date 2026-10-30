@@ -3569,7 +3569,7 @@ This is a Supernatural Virtue, and you cannot lose it when being trained as a ma
 
 #### Berserk
 *Minor, General*<br>
-You are capable of entering a blinding rage when in combat or frustrating situations. You automatically gain the Personality Trait Angry +2 (or more, at your option). Any time you take a wound or wound an enemy, roll a stress die and add your Angry score. A roll of 9+ means you go berserk. The storyguide can also call for a roll when you are strongly frustrated. You may deliberately try to go berserk. In this case, you only need a 6+ when you take a wound or wound an enemy, or a 9+ if you have not been wounded or caused a wound. While berserk, you get +2 to Attack and Soak scores, but suffer a -2 penalty to Defense. While berserk, you cannot retreat, hesitate to attack, or give guarter. If you are still berserk when there are no enemies present, you attack your friends. You may roll once per round to calm down if you desire, requiring a stress die + Perception – Angry against an Ease Factor of 6. You may learn Martial Abilities at character creation.
+You are capable of entering a blinding rage when in combat or frustrating situations. You automatically gain the Personality Trait Angry +2 (or more, at your option). Any time you take a wound or wound an enemy, roll a stress die and add your Angry score. A roll of 9+ means you go berserk. The storyguide can also call for a roll when you are strongly frustrated. You may deliberately try to go berserk. In this case, you only need a 6+ when you take a wound or wound an enemy, or a 9+ if you have not been wounded or caused a wound. While berserk, you get +2 to Attack and Soak scores, but suffer a -2 penalty to Defense. While berserk, you cannot retreat, hesitate to attack, or give quarter. If you are still berserk when there are no enemies present, you attack your friends. You may roll once per round to calm down if you desire, requiring a stress die + Perception – Angry against an Ease Factor of 6. You may learn Martial Abilities at character creation.
 
 #### Blood Of The Nephilim
 *Major, Supernatural*<br>
@@ -4701,7 +4701,7 @@ For one commodity, and products manufactured from it, the character never fails 
 
 #### Perfectus
 *Minor, Social Status*<br>
-You are one of the leaders of the Cathar heretics, found mainly in southern France. Your responsibilities include preaching the Gospel, abstaining from eating meat and dairy produce, from sex and romance, and from other acts that ensuare you in the sinful world. You should normally take the Flaw: Vow to represent your solemn religious obligations. You may not take the Wealthy Virtue, as you are supported by the tithes and contributions of your congregations. As a heretic you are at great risk from the Church, which will execute you if you are caught and refuse to recant your beliefs. Due to your training, you may take Academic Abilities during character creation. You may take the Purity and Transcendence Supernatural Abilities from Realms of Power: The Divine Revised Edition (page 53) if your character has the True Faith Virtue, but these are not free Virtues. You may, however, take them as Virtues, as normal. More details on the Cathars can be found in Faith and Flame, from page 13.
+You are one of the leaders of the Cathar heretics, found mainly in southern France. Your responsibilities include preaching the Gospel, abstaining from eating meat and dairy produce, from sex and romance, and from other acts that ensnare you in the sinful world. You should normally take the Flaw: Vow to represent your solemn religious obligations. You may not take the Wealthy Virtue, as you are supported by the tithes and contributions of your congregations. As a heretic you are at great risk from the Church, which will execute you if you are caught and refuse to recant your beliefs. Due to your training, you may take Academic Abilities during character creation. You may take the Purity and Transcendence Supernatural Abilities from Realms of Power: The Divine Revised Edition (page 53) if your character has the True Faith Virtue, but these are not free Virtues. You may, however, take them as Virtues, as normal. More details on the Cathars can be found in Faith and Flame, from page 13.
 
 > #### Example
 >
@@ -6023,7 +6023,7 @@ The character is extremely attached to a parent or child. Where he goes, she goe
 
 #### Dhimmi
 *Minor, General*<br>
-You are a non-Muslim living under Muslim rule. If you are adult and male, you must pay the jizya head tax, and all dhimmis must abide by certain social restrictions (described in the sourcebooks for these areas of Mythic Europe — see Realms of Power: The Divine Revised Edition, The Cradle and the Crescent, Between Sand and Sea, and Lands of the Nile), in return for which they receive tolerance and protection from the Muslim authorities. The actual amount a dhimmi has to pay in iizva varies, but rarely exceeds a dinar (a gold coin) per year.
+You are a non-Muslim living under Muslim rule. If you are adult and male, you must pay the jizya head tax, and all dhimmis must abide by certain social restrictions (described in the sourcebooks for these areas of Mythic Europe — see Realms of Power: The Divine Revised Edition, The Cradle and the Crescent, Between Sand and Sea, and Lands of the Nile), in return for which they receive tolerance and protection from the Muslim authorities. The actual amount a dhimmi has to pay in jizya varies, but rarely exceeds a dinar (a gold coin) per year.
 
 #### Diabolic Past
 *Major, Story*<br>
@@ -8259,7 +8259,7 @@ The powerful covenant of Aedes Mercurii in the Provençal Tribunal has two sites
 
 Most motte and bailey castles have been strengthened since their creation with stonework. A problem for a nobleman planning improvements is that the motte dominates the bailey, and so cannot be ignored, but is not strong enough to hold a stone tower keep of the style found in more modern castles. They usually build a shell keep.
 
-A shell keep is a stone wall, usually two stories high, that replaces the wooden palisade atop the motte. The wall is thin compared to other fortifications, between eight and fifteen feet, and has a crenelated walkway. Some structures like this are so large that it is not clear if they are a shell keep or a small inner bailey: Restormel in Cornwall is 40 vards across. Within its ring, buildings are constructed. These are usually wooden, or thin stone, and lack defensive use, but are far more spacious, airy and comfortable to live in than those of a conventional keep. The center of the ring of buildings is usually a courtyard.
+A shell keep is a stone wall, usually two stories high, that replaces the wooden palisade atop the motte. The wall is thin compared to other fortifications, between eight and fifteen feet, and has a crenelated walkway. Some structures like this are so large that it is not clear if they are a shell keep or a small inner bailey: Restormel in Cornwall is 40 yards across. Within its ring, buildings are constructed. These are usually wooden, or thin stone, and lack defensive use, but are far more spacious, airy and comfortable to live in than those of a conventional keep. The center of the ring of buildings is usually a courtyard.
 
 The wooden palisade around the bailey has also been replaced, by a thick stone wall about thirty feet high. This has a crenelated walk. Entry to the castle now lies through the lowest story of a square tower, two stories high.
 
@@ -10644,7 +10644,7 @@ Once you have designed the effect that you want to invest in your device, you ha
 
 - If the effect you are investing mimics a spell with casting requisites, those requisites apply to your Lab Total.
 
-- If any of the bonuses listed on the "Shape and Material Bonuses Table" for the material or shape of the device you are using matches the effect being invested, thoses bonuses are added to your Lab Total. For example, if you were enchanting a lamp to constantly produce magical light, you would add +7 to your Lab Total. Your total bonus from the shape and material of the device may not exceed your Magic Theory score. This represents the ability of the magus to tie all the correspondences into the enchantment.
+- If any of the bonuses listed on the "Shape and Material Bonuses Table" for the material or shape of the device you are using matches the effect being invested, those bonuses are added to your Lab Total. For example, if you were enchanting a lamp to constantly produce magical light, you would add +7 to your Lab Total. Your total bonus from the shape and material of the device may not exceed your Magic Theory score. This represents the ability of the magus to tie all the correspondences into the enchantment.
 - For each effect already in the device that has a Technique and/or Form in common with the effect being invested, add +1 to your Lab Total. The bonus is +1 per preexisting effect, even if it matches both the Technique and Form.
 - If you know a spell that is similar to the effect you are instilling, add the magnitude of the spell to your Lab Total. You only get this bonus for the highest-level applicable spell.
 
@@ -11092,7 +11092,7 @@ If an apprentice fails three gauntlets, the Quaesitores set the fourth and subse
 
 ## Arcane Experimentation
 
-The preceding rules assume that you are being careful with your alaboratory work and staying safely within the bounds of what you know how to do. If you wish, however, you can test your limits and experiment with new and possibly dangerous techniques. You can experiment when inventing a spell, creating any magical enchantment (device or familiar), or investigating an enchantment. In any case, you have the chance to perform feats that are normally beyond your capabilities, but you also run the risk of failing utterly, perhaps dangerously.
+The preceding rules assume that you are being careful with your laboratory work and staying safely within the bounds of what you know how to do. If you wish, however, you can test your limits and experiment with new and possibly dangerous techniques. You can experiment when inventing a spell, creating any magical enchantment (device or familiar), or investigating an enchantment. In any case, you have the chance to perform feats that are normally beyond your capabilities, but you also run the risk of failing utterly, perhaps dangerously.
 
 ### The Experimental Premise
 
@@ -12267,7 +12267,7 @@ If the target spirit is in Mythic Europe, a Formulaic (or Spontaneous) spell is 
 >
 > ### Persistence of Containers
 >
-> The standard Ars Magica rules also use an intuitive definition of whether a container still exists to be the target of a spell. If the same container still exists, then the target still exists. An island does not cease to exist when the tide rises or falls, unless a causeway ioins it to the mainland at low tide. A room does not cease to exist when the door is opened, but a room inside a tent does cease to exist when the tent is packed away. Containers can move if they are still the same thing while, and after, moving. Note that certain choices of container make spells vulnerable: if a Room is just a tent, the spell can be ended by collapsing the tent, while if a Boundary is just a fence, the spell can be ended by pulling down any part of the fence. Containers can get larger or smaller, but spells do end if the container becomes too big for the spell to affect.
+> The standard Ars Magica rules also use an intuitive definition of whether a container still exists to be the target of a spell. If the same container still exists, then the target still exists. An island does not cease to exist when the tide rises or falls, unless a causeway joins it to the mainland at low tide. A room does not cease to exist when the door is opened, but a room inside a tent does cease to exist when the tent is packed away. Containers can move if they are still the same thing while, and after, moving. Note that certain choices of container make spells vulnerable: if a Room is just a tent, the spell can be ended by collapsing the tent, while if a Boundary is just a fence, the spell can be ended by pulling down any part of the fence. Containers can get larger or smaller, but spells do end if the container becomes too big for the spell to affect.
 >
 > Circles and Boundaries require some extra comment. A circle is a different circle if its size changes, or if it is transferred to a different surface. Circles are very vulnerable, which offsets the power of Ring Duration and Circle Target. If a Boundary is nothing more than the thing marking the border, then it is as vulnerable as a circle, and cannot be moved, altered, or expanded. If a Boundary is something like "the waterline of this island" or "the wall around this covenant", then it is much less vulnerable, and may change with natural changes in the thing.
 
@@ -14548,7 +14548,7 @@ Rego Ignem botches normally result in the fire doing exactly what the caster doe
 
 ##### Tremulous Vault of the Torch's Flame
 R: Voice, D: Mom T: Ind<br>
-Causes a fire to guiver a few seconds and then make a leap of up to 10 feet in any direction. A Targeting roll is required to hit a specific target. The flame stays at the spot it hits if it can burn there (see rules for fire damage on page 407). Otherwise, it simply scorches the spot and goes out (doing +5 damage).<br>
+Causes a fire to quiver a few seconds and then make a leap of up to 10 feet in any direction. A Targeting roll is required to hit a specific target. The flame stays at the spot it hits if it can burn there (see rules for fire damage on page 407). Otherwise, it simply scorches the spot and goes out (doing +5 damage).<br>
 (Base 3, +2 Voice)
 
 #### LEVEL 10
@@ -17146,7 +17146,7 @@ Partial armor covers the vital areas only, and generally consists of a hauberk (
 
 **Cudgel:** A heavy, two-handed club.
 
-**Farm Implement:** Many farm implements such as rakes, scythes, and mattocks can be used as improvised weapons. They are characterized by awkardness and a tendency to break under the rigors of combat. As improvised weapons, farm implements are less effective even than other Inexpensive weapons.
+**Farm Implement:** Many farm implements such as rakes, scythes, and mattocks can be used as improvised weapons. They are characterized by awkwardness and a tendency to break under the rigors of combat. As improvised weapons, farm implements are less effective even than other Inexpensive weapons.
 
 **Flail:** A two-handed, heavier version of the common threshing flail, this weapon is effective and easy to make. Treat a smaller, one-handed flail as a "mace and chain."
 
