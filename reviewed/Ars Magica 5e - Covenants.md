@@ -1,7 +1,7 @@
 # Covenants
 A sourcebook for Ars Magica 5th Edition.
 
-> *Open License Markdown version by applejuice1965 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> *Open License Markdown version by applejuice1965, coleste & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: Text manually fixed, all official Errata included.]*
 >

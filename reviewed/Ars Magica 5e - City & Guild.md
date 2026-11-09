@@ -1,8 +1,7 @@
-
 # City & Guild
 A sourcebook about life in the cities and towns of Mythic Europe for Ars Magica Fifth Edition.
 
-> *Open License Markdown version by YairRezek & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> *Open License Markdown version by YairRezek, coleste & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: First manual edit complete, including Errata. Still needs second editing pass.]*
 >

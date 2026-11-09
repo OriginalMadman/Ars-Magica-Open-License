@@ -1,7 +1,7 @@
 # Dies Irae: A Book of Wrathful Days
 A sourcebook about world-ending threats for Ars Magica Fifth Edition
 
-> *Open License Markdown version YR & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> *Open License Markdown version YairRezek, coleste & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
 > *[Completion state: Whole book manually fixed, Errata included. Still awaiting second review.]*
 >
