@@ -4155,7 +4155,7 @@ This spell allows the caster to see any creatures of the Magic realm within his 
 >
 > **Abilities:** Folk Ken 4 (rivalries), Intrigue 6+2 (competition)
 >
-> #### Powers:
+> **Powers:**
 >
 > *Incorporeal*, 0 points, Init Constant, Mentem: The spirit is both invisible and intangible, and cannot be influenced by the physical world. Magic may only directly target the spirit if the caster can sense its existence. The physical characteristics of the spirit are only used when dealing with other incorporeal creatures.
 >
@@ -5466,7 +5466,7 @@ Sihr is used to summon a jinni, and provide mystic power to the bargain that pla
 >
 > **Abilities:** Arabic 4 (negotiation), Athletics 3 (leaping), Great Weapon 3 (great sword), Penetration 4 (heat), Second Sight 4 (jinni)
 >
-> #### Powers:
+> **Powers:**
 >
 > *Crafter of Fire*, 1–3 points, Init 0, Ignem: duplicates any non-Ritual Creo Ignem or Muto Ignem spell less than or equal to 15th level at a cost of 1 Might point per magnitude of the effect.
 >

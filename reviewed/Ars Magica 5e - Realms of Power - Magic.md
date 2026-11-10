@@ -3774,6 +3774,8 @@ ReAn(Co) 20 (Base 5, +1 Eye, +1 Conc, +1 Requisite): Greater Power (20 levels, â
 
 **Appearance:** A grey owl with very large iceblue eyes.
 
+The Owl can fly silently and has exceptional senses. It can see equally well at night or during the day. The Owl knows the woods very well and monitors the activities within them closely. The Owl questions the animals throughout the forest and shares what information she gathers, although most non-magical animals have little interest in her news.
+
 The Owl can understand human speech. She generally avoids direct contact with humans, but is curious and will monitor them when they enter her wood. Because the Owl is only able to carry on a conversation with other intelligent animals, she is often bored and starved for conversation. She occasionally talks with magi who enter the wood, as she finds them more receptive to carrying on a discussion with a talking owl than others.
 
 The owl's skull may be Enriched by boiling it in water with rare oils and sage until no flesh remains. The skull must then be kept at the highest point on the tallest tree in the forest in which the owl lived for one season. After that period, while the skull is hung around a character's neck, she possesses the Gift of Tongues Virtue.
@@ -3913,7 +3915,6 @@ When the **Woodpecker of Virtue** perches on a tree, any nails or wedges driven 
 > - A wise old elephant witnessed longago events of great interest to the magi. The characters must first find the proper elephant. Then the **Elephant of Virtue** insists they give it a mandrake root before it will cooperate.
 >
 > - A **Fox of Virtue** wants to get inside the covenant, but the *Aegis of the Hearth* keeps it out. So the fox pretends to be dead, hoping to be carried inside, where it then revives to wreak mischief.
-The Owl can fly silently and has exceptional senses. It can see equally well at night or during the day. The Owl knows the woods very well and monitors the activities within them closely. The Owl questions the animals throughout the forest and shares what information she gathers, although most non-magical animals have little interest in her news.
 >
 > - The magi befriend a sharp-eyed **Goat of Virtue** and convince it to keep a lookout for strangers in their territory. A rival covenant that is fond of trespassing makes an accusation of magical scrying.
 >
@@ -6914,7 +6915,7 @@ Ghosts can be designed as any Season. Like living humans, they cannot choose Abi
 >
 > Most other creeds, including Judaism, Islam, and the Eastern Church, do not accept the concept of Purgatory. Ghosts who (in life) belonged to those faiths never claim to come from Purgatory, though they may say they come from limbo or some other place. Magi are divided on what this means. Some (generally those from outside the Western Church) say it's because Purgatory does not really exist. Others say that Purgatory exists, but only those of the "true" faith go there. Still others say that studying ghosts on earth can never be conclusive because there is no way to tell whether the ghosts are delusional. A more extreme view is that some, or even all, ghosts are actually demons in disguise, who invent lies so people will doubt their religion's teachings.
 >
-What is clear is that when a ghost asks for prayers or masses, providing these things usually enables the ghost to pass on to whatever its eternal fate may be. Whether this is because they actually work, or because the ghost only believes they will work, is of little practical importance.
+> What is clear is that when a ghost asks for prayers or masses, providing these things usually enables the ghost to pass on to whatever its eternal fate may be. Whether this is because they actually work, or because the ghost only believes they will work, is of little practical importance.
 >
 From the point of view of an **Ars Magica** Fifth Edition game, the powers, personality, and role of a ghost within the story are more important than its metaphysical status. Exactly what happens to a person's spirit after death can be left mysterious. It should be pointed out that folk traditions regarding ghosts do not coincide precisely with theological doctrine. Who is to say whether the scholarly writings of bishops, or the tales of old village women, are closer to the truth?
 
@@ -8416,7 +8417,7 @@ Boars vary greatly in size, from eight stone (112 pounds) to more than thirty st
 
 **Natural Weapons:** Large horns: Init +2, Atk +3, Def +2, Dam +3. The bull's tough hide has a Protection of +2.
 
-**Appearance:.** These statistics are for a bull of the Spanish type, which is black in color, weighs about eighty stone (1120 pounds), and has sharp, inward-curving horns and a hump on its back.
+**Appearance:** These statistics are for a bull of the Spanish type, which is black in color, weighs about eighty stone (1120 pounds), and has sharp, inward-curving horns and a hump on its back.
 
 There are many breeds of cattle in Mythic Europe, some of them larger than this specimen. Most breeds in Mythic Europe are short and broad-bodied and have long horns. They may be black, white, tan, red, or brown in color. Some breeds have a coat of shaggy fur. Pliny the Elder writes of magical bulls that live in India, but the statistics here are for a mundane bull.
 

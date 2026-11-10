@@ -33,7 +33,7 @@ This book describes the magic and activities necessary to transform Mythic Europ
 
 **Additional Art:** *Astrology & Astronomy.* Mineola, NY: Dover Publications, Inc., 2006. *Castles.* Mineola, NY: Dover Publications, Inc., 2007. *Medieval Illustrations.* Mineola, NY: Dover Publications, Inc., 2001. *Medieval Life & People.* Mineola, NY: Dover Publications, Inc., 2007.
 
-**Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves 
+**Ars Magica Fifth Edition Trade Dress:** J. Scott Reeves
 
 **Publisher's Special Thanks**: Jerry Corrick & the gang at the Source.
 
@@ -59,9 +59,9 @@ Copyright © 2013–2015 Trident, Inc. d/b/a Atlas Games. All rights reserved. R
 Digital Version 1.0
 
 # Contents
-**Credits** 
+**Credits**
 
-**Contents** 
+**Contents**
 
 **Introduction**  
 Planning for Long Sagas  
@@ -98,7 +98,7 @@ How to Bring About Change
 &emsp;The Grand Tribunal  
 &emsp;&emsp;In Favor of Change  
 &emsp;&emsp;Against the Change  
-&emsp;&emsp;Undecided   
+&emsp;&emsp;Undecided  
 How Politics Affects Change  
 &emsp;Mundane Allies & Enemies  
 &emsp;&emsp;Kings and Nobles  
@@ -140,7 +140,7 @@ Using Magic for Political Leverage
 &emsp;&emsp;Binding Agreements  
 &emsp;&emsp;Inheritance  
 &emsp;Protection from Invasion  
-Stories of the Fourth Estate   
+Stories of the Fourth Estate  
 &emsp;Interest From Other Magical Traditions  
 &emsp;&emsp;Hostility  
 &emsp;&emsp;Cessation of Hostility  
@@ -208,10 +208,10 @@ Mystical Features
 &emsp;Ritual Wards and Other Boundary Spells  
 &emsp;&emsp;Other Boundary Spells  
 Location: The North Sea  
-&emsp;Comparatively Shallow   
-&emsp;&emsp;Story Ideas for the Shallow Sea   
-&emsp;Surrounded by Turbulent Kingdoms   
-&emsp;Picking a Nobleman as King   
+&emsp;Comparatively Shallow  
+&emsp;&emsp;Story Ideas for the Shallow Sea  
+&emsp;Surrounded by Turbulent Kingdoms  
+&emsp;Picking a Nobleman as King  
 &emsp;&emsp;Frederick II, The Holy Roman Emperor  
 &emsp;&emsp;Isabella II, Queen of Jerusalem  
 &emsp;&emsp;Philip Augustus of France  
@@ -254,24 +254,24 @@ Scrying as a Means of Correspondence
 &emsp;&emsp;The Ear for a Distant Voice  
 &emsp;Example Device: The Hermetic Speculum  
 &emsp;&emsp;Description  
-&emsp;&emsp;Summoning the Image of the Distant   
+&emsp;&emsp;Summoning the Image of the Distant  
 &emsp;&emsp;The Scrier Spied  
 &emsp;Example Device: The Effigy of the Errant Image  
-&emsp;&emsp;Description   
+&emsp;&emsp;Description  
 &emsp;&emsp;The Wandering Eidolon  
 &emsp;“I Will Not Use Magic to Scry...”  
 &emsp;Why it May Not Work: Lack of Penetration  
 &emsp;Societal Impacts  
 &emsp;&emsp;Saga Seed: A Scrying Society  
-The Copying of a Book   
+The Copying of a Book  
 &emsp;Limitations of Hermetic Theory  
 &emsp;&emsp;There is No Art that Covers Knowledge  
 &emsp;&emsp;Magic Can Neither Read Nor Understand  
 &emsp;Copying a Single Page  
 &emsp;&emsp;The First Furrow Guides the Second  
 &emsp;&emsp;The Copyist’s Puissant Quill  
-&emsp;Copying an Entire Book   
-&emsp;&emsp;Resonances   
+&emsp;Copying an Entire Book  
+&emsp;&emsp;Resonances  
 &emsp;&emsp;Binding  
 &emsp;Example Device: The Superb Scrinium  
 &emsp;&emsp;Description  
@@ -305,7 +305,7 @@ Travel in the Blink of an Eye
 &emsp;Example Device: Phylactery of the Cautious Maga  
 &emsp;&emsp;Description  
 &emsp;&emsp;Acquire the Connection  
-&emsp;&emsp;Flee to Safe Refuge   
+&emsp;&emsp;Flee to Safe Refuge  
 &emsp;&emsp;Summoning the Distant Image  
 &emsp;New Spells for Very Fast Travel  
 &emsp;&emsp;Mercury’s Winged Sandals  
@@ -330,7 +330,7 @@ Creating Wealth With Magic
 &emsp;&emsp;A Harvest of Figs  
 &emsp;&emsp;Nourish the Displaced Vines  
 &emsp;Reducing Covenant Costs  
-&emsp;&emsp;Fill the Capacious Silo   
+&emsp;&emsp;Fill the Capacious Silo  
 &emsp;&emsp;Work of a Hundred Querns  
 &emsp;&emsp;The Elfin Baker  
 &emsp;&emsp;Storage and Life of Magically-Created Grain  
@@ -360,9 +360,9 @@ The Magus as Inventor
 &emsp;The Sale of Enchantments  
 &emsp;Why Hasn’t This Happened Already?  
 &emsp;&emsp;No-One Thought of it Before  
-&emsp;&emsp;It Didn’t Catch On   
+&emsp;&emsp;It Didn’t Catch On  
 &emsp;&emsp;Insufficient Supply  
-&emsp;&emsp;The Order Lacks a Single Voice   
+&emsp;&emsp;The Order Lacks a Single Voice  
 Magic as an Agent of Social Change  
 &emsp;Social Consequences  
 &emsp;&emsp;I Want One  
@@ -433,16 +433,16 @@ Dexithea: a Telechine
 An Aspect of Phorcys  
 Story Seed: A Spare Farthing  
 Story Seeds: Faerie Kings  
-Manannan Mac Lir   
+Manannan Mac Lir  
 Manannan Mac Lir cont.  
-Treasures of Manannan   
-Tursus   
-Auvekoejaks   
-Strategies For Players Feeling Swamped By Choice   
+Treasures of Manannan  
+Tursus  
+Auvekoejaks  
+Strategies For Players Feeling Swamped By Choice  
 Story Seed: Faerie Tribes  
 Elemental Spirit of the Waves  
-Story Seeds For Turbulent Kingdoms   
-Story Seed: The Coronation   
+Story Seeds For Turbulent Kingdoms  
+Story Seed: The Coronation  
 Story Seeds for the Hermetic Borderland  
 Story Seeds for Theological Matters  
 A Note on The Powers of Demons  
@@ -643,7 +643,7 @@ As with any arc introduced to the saga, the player covenant is key, so it is rec
 >- Introduce the difficulties of living close to yet apart from society (see *Leveraging Hooks, Boons, and Story Flaws* and *A Growing Awareness*)
 >- Determine the rights and responsibilities in society that the magi want to take on
 >- Support test cases at Tribunal and push for lenient and good judgment (see *Supporting Test Cases*)
--> Undertake the business of politics to persuade others to the cause (see *The Tools of Politics*)
+>- Undertake the business of politics to persuade others to the cause (see *The Tools of Politics*)
 >- Return to Tribunal to seek *clarification* on the Peripheral Code in favor of integrating with society
 >- Negotiate with the nobility and the Church to secure the intended rights (see *The Tools of Politics*)
 >- Take the results to another Tribunal to gain wider support.
@@ -719,7 +719,7 @@ Individual magi or companions also draw the mundane world towards the Order of H
 
 **Dependent** (**ArM5**, page 53): While many of the other hooks have relied upon a noble or church connection, the Dependent Story Flaw is considerably more open. The dependent character is usually weak, which is an opportunity to show the poorer strata of Mythic Europe's society. Such a dependent can be used to demonstrate the effects of failing harvest, illness and plague, and the effects of poor governance. And this is the moral background against which the Order's non-interference can be judged.
 
-**Enemies** (**ArM5**, page 53): Nobles and senior clergy make for effective enemies, but the resolution of these stories does not need to involve violence or death. Presenting a character with an enemy and letting them fi nd common ground is just as rewarding. In the context of this transformation, it forms proof that differences can be set aside and the Order and society can fi nd common ground.
+**Enemies** (**ArM5**, page 53): Nobles and senior clergy make for effective enemies, but the resolution of these stories does not need to involve violence or death. Presenting a character with an enemy and letting them find common ground is just as rewarding. In the context of this transformation, it forms proof that differences can be set aside and the Order and society can find common ground.
 
 **Favors** (**ArM5**, page 54): There are few Story Flaws that can so directly engage the covenant in mundane affairs as the Favors Flaw. Having benefitted from the actions of others in the past, the character is now beholden to respond in kind. Whether magus or companion, the fulfillment of the debt may include the use of magic, either directly or indirectly. In any case, it will most likely involve covenant resources, which immediately implicates the covenant.
 
@@ -836,15 +836,15 @@ Keeping track of these for each Tribunal is an unwieldy task but the general cha
 
 The characterizations above are broad and do not reflect the feelings of each individual, which are of course all determined by both the storyguide and the players. They do at least provide default starting positions from which individuals must be persuaded, and this should be useful when dealing with such characters within stories. Storyguides should determine how widely understood these opinions are but any Order of Hermes Lore rolls required should be against an Ease Factor of 6, or 9 at the outside.
 
-The leanings of covenants, gilds, septs, lineages, or cults are for individual troupes to determine but given the increasingly secret nature of these organizations rolls against Order of Hermes Lore will require higher Ease Factors, and rolls against specifi c House or Cult Lores may be required instead.
+The leanings of covenants, gilds, septs, lineages, or cults are for individual troupes to determine but given the increasingly secret nature of these organizations rolls against Order of Hermes Lore will require higher Ease Factors, and rolls against specific House or Cult Lores may be required instead.
 
 ### The Grand Tribunal
 
-Eventually, the matter is brought to the Grand Tribunal, likely not for the fi rst time, and the player characters once again become central to the cause. Political alliances need to be forged and arguments need to be won, as changing or clarifying the Code is not done lightly.
+Eventually, the matter is brought to the Grand Tribunal, likely not for the first time, and the player characters once again become central to the cause. Political alliances need to be forged and arguments need to be won, as changing or clarifying the Code is not done lightly.
 
-This being the Grand Tribunal, the politics of the event should be paramount. No matter how good the preparatory work, the decisions here are made essentially by the seniors of the Houses. It is these senior magi, archmages, and primi that the player magi must infl uence.
+This being the Grand Tribunal, the politics of the event should be paramount. No matter how good the preparatory work, the decisions here are made essentially by the seniors of the Houses. It is these senior magi, archmages, and primi that the player magi must influence.
 
-As described in **ArM5**, page 14, three representatives from each Tribunal attend the Grand Tribunal held at Durenmar, in addition to the twelve Primi. Either the player magi must get themselves selected to attend the Grand Tribunal or they must fi nd a champion in one of those magi who are to attend. If they can fi nd this champion, they may appear before the Grand Tribunal to argue their case.
+As described in **ArM5**, page 14, three representatives from each Tribunal attend the Grand Tribunal held at Durenmar, in addition to the twelve Primi. Either the player magi must get themselves selected to attend the Grand Tribunal or they must find a champion in one of those magi who are to attend. If they can find this champion, they may appear before the Grand Tribunal to argue their case.
 
 If the player characters can gain admittance to the Grand Tribunal, they may succeed in convincing the most senior of their Order. And if they do, the Order changes.
 
@@ -1163,13 +1163,13 @@ There is no special experience point benefit from taking a debate to trial, alth
 >
 >**Characteristics:** Int +3, Per –1, Pre –2, Com +3, Str –1, Sta –1, Dex –1, Qik –1
 >
->**Size:** 0 
+>**Size:** 0
 >
->**Age:** 130 (75) 
+>**Age:** 130 (75)
 >
->**Decrepitude:** 3 
+>**Decrepitude:** 3
 >
->**Warping Score:** 8 (20) 
+>**Warping Score:** 8 (20)
 >
 >**Confidence Score:** 1 (3)
 >
@@ -1212,7 +1212,7 @@ There is no special experience point benefit from taking a debate to trial, alth
 >
 >*Cheating the Reaper* (CrCo 30/+48)
 >
->*The Leap of Homecoming* (ReCo 35/+30) 
+>*The Leap of Homecoming* (ReCo 35/+30)
 >
 >*Converse with Plant and Tree* (InHe 25/+28)
 >
@@ -1226,7 +1226,7 @@ There is no special experience point benefit from taking a debate to trial, alth
 >
 >*Frosty Breath of the Spoken Lie* (InMe 20/+40)
 >
->*Posing the Silent Question* (InMe 20/+40) 
+>*Posing the Silent Question* (InMe 20/+40)
 >
 >*Peering into the Mortal Mind* (InMe 30/+40)
 >
@@ -1236,11 +1236,11 @@ There is no special experience point benefit from taking a debate to trial, alth
 >
 >*Stone Tell of the Mind that Sits* (InTe 30*/*+24)
 >
->*Odor of Lingering Magic* (InVi 30/+31) 
+>*Odor of Lingering Magic* (InVi 30/+31)
 >
 >*Piercing the Magical Veil* (InVi 20/+31)
 >
->\*\*\* Personal versions of spells first presented in *Houses of Hermes: True Lineages* 
+>\*\*\* Personal versions of spells first presented in *Houses of Hermes: True Lineages*
 >
 >**Vis:** Austerius has little need for vis outside of the laboratory as he rarely casts spells. He can draw on considerable sums of vis of all arts when needed, however
 >
@@ -1266,13 +1266,13 @@ There is no special experience point benefit from taking a debate to trial, alth
 >
 >**Characteristics:** Int +2, Per +2, Pre 0, Com 0, Str 0, Sta 0, Dex +1, Qik 0
 >
->**Size:** 0 
+>**Size:** 0
 >
->**Age:** 75 (50) 
+>**Age:** 75 (50)
 >
->**Decrepitude:** 0 
+>**Decrepitude:** 0
 >
->**Warping Score:** 6 (15) 
+>**Warping Score:** 6 (15)
 >
 >**Confidence Score:** 1 (3)
 >
@@ -1556,7 +1556,7 @@ The year of those who work the lands turns with the seasons. They have seasons o
 
 The following magical effects are useful to both covenants and mundanes alike as they allow the fields and orchards to provide their normal yields out of season and to reduce wastage due to failed crops or illness among the livestock.
 
-##### The Unexpected Blossom 
+##### The Unexpected Blossom
 ReHe 40<br>
 **R:** Touch, **D:** Momentary, **T:** Group
 
@@ -1582,7 +1582,7 @@ While *The Unexpected Blossom* makes a group of trees blossom, it must have matu
 
 Similar spells to these might be used to bring animals to maturity over the course of a single night:
 
-##### A Herd By Morning 
+##### A Herd By Morning
 CrAn 45<br>
 **R:** Touch, **D:** Sun, **T:** Group
 
@@ -1619,7 +1619,7 @@ The Target is based on Room +1, as described in **ArM5**, page 114.
 ##### Wolves in Sheeps' Clothing
 **MuAn 48**<br>
 **Pen:** 1/day, +0<br>
-**R:** Touch, **D:** Diameter, **T:** Special 
+**R:** Touch, **D:** Diameter, **T:** Special
 
 As an alternative to simply striking the wolf dead, this effect, also triggered by Sight of the Wolf, changes the sheep within the enclosure such
 
@@ -1675,7 +1675,7 @@ Alternatively, magi of House Merinita may be called upon to bring human and faer
 
 Inheritance is a deadly serious matter for those of noble blood as questions of blood can decide between wealth and servitude. Potential heirs can swear upon relics and give testimony and account of why they should stand next in line to inherit, but the final decision is usually a matter of judgment. However, assuming the mundane parties choose to trust in wizards, Hermetic magic can assist even here. The following spells are designed specifically with questions of inheritance in mind and additional variants may be possible for Merinita using the Bloodline target (**ArM5**, page 92).
 
-##### From This Line Descended 
+##### From This Line Descended
 InCo 30<br>
 **R:** Arcane Connection, **D:** Momentary, **T:** Individual
 
@@ -1685,7 +1685,7 @@ This spell reveals whether the target represented by the Arcane Connection is de
 
 ##### Divining the True Heir
 **InCo 20**<br>
-**R:** Touch, **D:** Momentary, **T:** Group 
+**R:** Touch, **D:** Momentary, **T:** Group
 
 With the various claimants present the magus casts the spell upon the group and learns the relative relationships between the targets of the spell and the target bloodline as represented by an Arcane Connection or known member of the familial line.
 
@@ -1695,7 +1695,7 @@ Again, this spell is limited as it cannot differentiate between legitimate and i
 
 (Base 5, +1 Touch, +2 Group)
 
-##### Summoning the Ancestor Spirit 
+##### Summoning the Ancestor Spirit
 ReCo 45<br>
 **R:** Arcane Connection, **D:** Ring, **T:** Individual, ritual
 
@@ -1713,9 +1713,9 @@ Should the magus wish it, he may also be able to command other information from 
 
 Hermetic magic allows for powerful warding effects that can protect places and individuals from harm.
 
-##### The Impassable River 
+##### The Impassable River
 ReCo 60<br>
-**R:** Touch, **D:** Moon, **T:** Special, Ritual 
+**R:** Touch, **D:** Moon, **T:** Special, Ritual
 
 This ritual turns a river into a magical boundary that cannot be crossed by man, woman, or child. It cannot be crossed from either side and those who try may reach midway before they are turned back. Neither bridges nor fords offer any opportunity to cross. They are, however, left unharmed by the magic and they may be used once the spell ends. Variants can be created with the Until (condition) duration or Year, though both of these increase the level by one magnitude.
 
@@ -1737,9 +1737,9 @@ Use of this spell allows the magus to withdraw major bridges from the enemy, con
 
 (Base 3, +1 Touch, +1 Concentration, +3 Structure, +1 Stone, +1 size)
 
-##### The Wizard's Chevauchee 
+##### The Wizard's Chevauchee
 PeHe 50<br>
-**R:** Sight, **D:** Momentary, **T:** Group 
+**R:** Sight, **D:** Momentary, **T:** Group
 
 Wizards should not be angered. With this spell, the caster lays waste to any and all living plants that he can see, for around sixty acres. As a free cosmetic effect the plants are consumed by a magical fire that races across the ground as the caster shifts his gaze. The fire is selective and leaves dead plants, wood, and all other things untouched.
 
@@ -1967,7 +1967,7 @@ A tall cylinder is suitable for living in the deeper parts of the North Sea, and
 >
 >##### Permanent Wall of Protecting Stone
 >CrTe 20<br>
->**R:** Touch, **D:** Mom, **T:** Ind, Ritual 
+>**R:** Touch, **D:** Mom, **T:** Ind, Ritual
 >
 >Creates a wall 25 paces long, 4 paces high, and 1 pace thick, which is a total of 100 cubic paces of stone. Vis is used to prevent the wall disappearing after the spell ends. Walls made in this way are made of single pieces of unmortared stone, which gives them far greater durability than conventional walls, unless the caster has a sigil that degrades their composition.
 >
@@ -1975,7 +1975,7 @@ A tall cylinder is suitable for living in the deeper parts of the North Sea, and
 >
 >##### Efficient & Permanent Wall of Protecting Stone
 >CrTe 20<br>
->**R:** Touch, **D:** Mom, **T:** Ind, Ritual 
+>**R:** Touch, **D:** Mom, **T:** Ind, Ritual
 >
 >Creates a wall from a single piece of unmortared stone, which gives it far greater durability than conventional walls, unless the caster has a sigil which degrades its composition. Vis is used to prevent the wall disappearing after the spell ends.
 >
@@ -1985,7 +1985,7 @@ A tall cylinder is suitable for living in the deeper parts of the North Sea, and
 >
 >##### An Expansive & Permanent Wall of Protecting Stone
 >CrTe 30<br>
->**R:** Touch, **D:** Mom, **T:** Ind, Ritual 
+>**R:** Touch, **D:** Mom, **T:** Ind, Ritual
 >
 >As *Permanent Wall of Protecting Stone*, earlier, but with four additional magnitudes spent on size. This creates one million cubic paces of stone, which is sufficient for a wall 30 paces high, 2 paces thick, and just under 9.5 miles in length.
 >
@@ -1993,7 +1993,7 @@ A tall cylinder is suitable for living in the deeper parts of the North Sea, and
 >
 >##### The Wedding Ring of Gaea
 >CrTe 35<br>
->**R:** Touch, **D:** Mom, **T:** Ind, Ritual 
+>**R:** Touch, **D:** Mom, **T:** Ind, Ritual
 >
 >As *Wall of Permanent Protecting Stone*, earlier, but with five additional magnitudes spent on size. This creates ten million (10,000,000) cubic paces of stone, and a circular wall 30 paces high, 2 paces thick, and just over 94.5 miles long.
 >
@@ -2191,7 +2191,7 @@ Magi who are highly skilled in Creo Terram might, in theory, create the superfic
 
 Roads have three basic forms in medieval Europe: packed earth, gravel, and paved. Hard packed roads effectively create themselves, as the users and their draft animals pack the earth. In Hermetic magic, gravel is treated as stone, so there's no particular advantage in creating gravel roads. This leaves only paved roads, but in Hermetic magic it is easier to create a road out of a single piece of stone than out of individual pieces.
 
-##### A Network Reminiscent of Rome 
+##### A Network Reminiscent of Rome
 CrTe 20<br>
 **R:** Touch, **D:** Mom, **T:** Individual, Ritual
 
@@ -2287,7 +2287,7 @@ Having created an island the player characters need to develop it, so that it is
 
 Forests and fields can be created with a single spell, since both are within the purview of Herbam spells. If the characters wish to create them separately, they can use the spells below.
 
-##### The Creation of a Forest 
+##### The Creation of a Forest
 CrHe 40<br>
 **R:** Touch **D:** Momentary, **T:** Group, Ritual
 
@@ -2297,7 +2297,7 @@ An added magnitude allows the magus to precisely mix the varieties of plant he c
 
 (Base 1, +1 Touch, +2 big initial individual, +2 Group, +3 size)
 
-##### The Creation of Acorns Aplenty 
+##### The Creation of Acorns Aplenty
 CrHe 20<br>
 **R:** Touch **D:** Momentary, **T:** Group, Ritual
 
@@ -2329,7 +2329,7 @@ There are no native animals on the island, unless the sigil of the creating maga
 
 Larger animals may be introduced by magi, but may also be introduced by faeries.
 
-##### A Pile of Rotting Beef 
+##### A Pile of Rotting Beef
 CrAn 35<br>
 **R:** Touch, **D:** Sun, **T:** Group
 
@@ -2352,9 +2352,9 @@ Magi wanting to absolutely ensure they have bees can add a Perdo requisite, to m
 >
 >##### A Careful Removal of a Perfect Landscape
 >**ReTe 35\*** Ritual<br>
->**R:** Touch, **D:** Moon, **T:** Boundary\* 
+>**R:** Touch, **D:** Moon, **T:** Boundary\*
 >
->This spell slices off a piece of the countryside, and allows the magus to float it through the air, at the speed of a running horse. The magus can ride on the piece of land, if he wishes. 
+>This spell slices off a piece of the countryside, and allows the magus to float it through the air, at the speed of a running horse. The magus can ride on the piece of land, if he wishes.
 >
 >(Base 3, +1 Touch, +3 Moon, +4 Boundary, \* remember to add further magnitudes to increase Boundary size.)
 
@@ -2380,7 +2380,7 @@ Magi wanting to absolutely ensure they have bees can add a Perdo requisite, to m
 >
 >##### The Second Remove of the Giant's Dance
 >**ReTe 35,** Ritual<br>
->**R:** Touch, **D:** Moon, **T:** Structure 
+>**R:** Touch, **D:** Moon, **T:** Structure
 >
 >This spell allows the magus to uproot a structure and float it through the air, at the speed of a running horse. The magus can ride the structure, if it is sufficiently strong to take his weight.
 >
@@ -2454,7 +2454,7 @@ Magic auras develop in four main ways. Areas of great natural beauty develop aur
 >**Size:** +6<br>
 >**Virtues and Flaws:** Magic Spirit; Daimon; 2 x Great Characteristic, 5 x Improved Characteristics; Magical Monster, Supernatural Nuisance; No Fatigue, Proud (minor)<br>
 >**Qualities and Inferiorities\*:** 2 x Focus Powers (Crafter of From and Master of Form), 5 x Gigantic, Ritual Power (Enliven the Gross Water); Aquam Resistance, 3 x Improved Attack, 2 x Improved Damage, 2 x Improved Initiative <br>
-\* 6 spare Qualities<br>
+>\* 6 spare Qualities<br>
 >**Combat:**<br>
 >*Torch*: Init+2, Attack +21, Dedense +13, Damage +27\*\*<br>
 >*2 claw feet* Init 0, Attack +21, Defense +13, Damage +24<br>
@@ -2509,13 +2509,13 @@ Other sources have a more obscure origin, like ambergris and amber, washing asho
 
 >#### Story Seed: A Spare Farthing
 >
->The greatest treasure with a link to the North Sea is that of King John. His baggage train was lost in a tidal surge as his forces crossed the Wash, just over three years ago. No part of the treasure has been recovered, save one tiny piece. A little, fl at crown, a hand span across and made of gold, was found by a laborer in the bog. It was perhaps the golden rim of a cup. This element of the hoard might act as an Arcane Connection to the rest. Sadly, the Redcap who heard the story of the fi nd, from the reed cutter, says that man sold it to a passing merchant for a farthing. How do the characters fi nd the merchant?
+>The greatest treasure with a link to the North Sea is that of King John. His baggage train was lost in a tidal surge as his forces crossed the Wash, just over three years ago. No part of the treasure has been recovered, save one tiny piece. A little, flat crown, a hand span across and made of gold, was found by a laborer in the bog. It was perhaps the golden rim of a cup. This element of the hoard might act as an Arcane Connection to the rest. Sadly, the Redcap who heard the story of the find, from the reed cutter, says that man sold it to a passing merchant for a farthing. How do the characters find the merchant?
 
 >#### Story Seeds: Faerie Kings
 >
 >The player characters may wish to attract a powerful faerie to the island. This great being is able to maintain some control over the many minor spirits which follow settlers to the new land. If the player characters do not appoint a mortal king, it is possible that a faerie simply usurps that role.
 >
->In nearby inserts two faerie kings are detailed: the fi rst must be courted, the second comes as an invader. Manannan Mac Lir is an Irish faerie sovereign known to anyone familiar with the faerie lore of Ireland or the Isle of Man. Tursus is a ferocious god of nortern merfolk, likely to accompany waves of invading Norse.
+>In nearby inserts two faerie kings are detailed: the first must be courted, the second comes as an invader. Manannan Mac Lir is an Irish faerie sovereign known to anyone familiar with the faerie lore of Ireland or the Isle of Man. Tursus is a ferocious god of nortern merfolk, likely to accompany waves of invading Norse.
 
 >#### Manannan Mac Lir
 >Sometimes thought of as the god of the Isle of Man, Manannan was, before the coming of Saint Patrick, the god of Irish sailors. Faeries claiming the role have been found in many areas around the Irish Sea, responding to stories bought by Irish traders or settlers. When Manannan was cast out of the Isle of Man by Saint Patrick, a faerie set up a court on the Isle of Arran. The faerie wizard-king no longer dwells there, having withdrawn to Faerie centuries ago. The island is now claimed by a clutch of Criamon magi who study regiones. The covenant on the Isle of Arran can, however, show the player characters the path to Mannanan's realm, which is called Tir Tairngire (the Land of Promise), or Emain Ablach (the Isle of Apples, or the Isle of Women, or Avalon, depending on your translation).
@@ -2790,9 +2790,9 @@ There are three considerations for magi wanting to use the island's wall as a Bo
 - Some wards need a marked boundary between the thing they are protecting and the outside. An example of this is *The Shrouded Glen*, which only works if the victim crosses the ward before they see the island. Similarly spells which make the sea rough, or control the winds, need a second marked Boundary, outside the walls, to act as their target.
 - The basic Boundary is only 100 paces wide, so islands created using the methods described in this chapter require spells with additional magnitudes for the size of their targets. As examples, a circular island with a diameter of 3 miles requires 2 added magnitudes, a 30 mile diameter island requires 3 added magnitudes, and a 300 mile wide island requires 4 added magnitudes.
 
-##### The Command of Every Beast 
+##### The Command of Every Beast
 ReAn 20\*, Ritual<br>
-**R:** Touch, **D:** Conc., **T:** Boundary 
+**R:** Touch, **D:** Conc., **T:** Boundary
 
 This spell allows the magus to give a command to every beast on the island. Commands for large groups of animals can be no longer than a sentence, because there are simply too many minds to control.
 
@@ -2802,9 +2802,9 @@ A level 25 version has **D:** Sun.
 
 ##### The Eyes of Every Beast
 **InAn 40\*,** Ritual<br>
-**R:** Touch, **D:** Conc., **T:** Boundary 
+**R:** Touch, **D:** Conc., **T:** Boundary
 
-This spell allows the magus to sense what the animals of the island are seeing. A magus who is not looking for a particular thing can simply ramble through the impressions of nearby animals. A magus seeking a particular thing in these perceptions must make a Perception + Awareness roll vs. an Ease Factor of 12 to fi nd what he seeks.
+This spell allows the magus to sense what the animals of the island are seeing. A magus who is not looking for a particular thing can simply ramble through the impressions of nearby animals. A magus seeking a particular thing in these perceptions must make a Perception + Awareness roll vs. an Ease Factor of 12 to find what he seeks.
 
 A level 45 version lasts a day.
 
@@ -2822,7 +2822,7 @@ A variant of *Demon's Eternal Oblivion* (**ArM5**, page 160) designed to destroy
 **PeIm 45**, Ritual<br>
 **R:** Touch, **D:** Sun, **T:** Boundary\*, **Req:** Rego
 
-Makes the wall, and everything within it, invisible, no matter what the residents of the island do. The residents can see the contents of the island, so long as they do not step outside the Boundary. Enemies who 
+Makes the wall, and everything within it, invisible, no matter what the residents of the island do. The residents can see the contents of the island, so long as they do not step outside the Boundary. Enemies who
 still reach the walls are able to see the contents of the island normally once the Boundary has been crossed.
 
 \* Remember to add further magnitudes to increase Boundary size.
@@ -2839,7 +2839,7 @@ Wakens and mobilizes every tree on the island, forcing them to follow simple com
 
 ##### Remembered Messages
 **MuMe 20\*,** Ritual<br>
-**R:** Touch, **D:** Sun, **T:** Boundary 
+**R:** Touch, **D:** Sun, **T:** Boundary
 
 To use this spell successfully requires a little preparation, because each target needs to be prepared with a memory that can be altered with little trouble. For example, at sporting or cultural events, everyone may be asked to repeat the recipe for sea urchin soup, or memorize a string of flags.
 
@@ -2901,7 +2901,7 @@ Adds +3 to the Soak score of all humans on the island, for the rest of the day o
 >**Soak:** +15 (Strange scale armor) <br>
 >**Wound Penalties**: –1 (1–8), –3 (8–16), –5 (17–24), Incapacitated (25–32), Dead (33+)<br>
 >**Pretenses (as Abilities):** Athletics 4 (long-distance running), Awareness 3 (noises), Thrown 5 (javelin), Brawl 2 (kick), Carouse 2 (drinking), Chirurgy 2 (centaurs)\*, Craft: any 1, Faerie Speech 4 (oratory), Hunt 2 (humans), Single Weapon 5 (club or lance), Survival (grassland) 2<br>
-\* Like most faeries, centaurs heal supernaturally quickly. They don't, however, notice.<br>
+>\* Like most faeries, centaurs heal supernaturally quickly. They don't, however, notice.<br>
 >**Equipment:** Weapons<br>
 >**Vis:** 1 pawn Animal, coral encrusted armor.<br>
 >**Appearance:** Like all centaurs these are a composite of horse and human, joined so that the human torso emerges where the neck of the horse would usually connect. They differ in that they are more heavily armored than the rest of their kind, and have amphibious traits.
@@ -3476,7 +3476,7 @@ Characters who create a floating island must find a way to steer it. If they hav
 >
 >The island of Delos, in the Aegean Sea, was once a floating island. Zeus, lord of Olympus, tethered it to the sea floor with, depending on which source you prefer, great chains or thick pillars. Player characters intent on creating a floating island may wish to go to Delos, to see how it comes to float. Is it natural, is it the handiwork of ancient spellcasters, or is it the creation of creatures with supernatural powers? Delos is the meeting place of the Theban Tribunal, so characters may find collaborators in their research, or locals who do not want the mysteries of their region exposed to outsider eyes.
 
-#### Steering A Vast Stone Dish 
+#### Steering A Vast Stone Dish
 ReTe 40<br>
 **R:** Touch, **D:** Ring, **T:** Circle
 
@@ -3523,7 +3523,7 @@ This device could be expanded in scope by linking several quills together, each 
 Two perfectly matched goose quills from the left wing; each is a snowy white feather. The quills are equipped with silver nibs for greater endurance, as a quill otherwise has a limited lifespan. Each quill is a Lesser Enchantment, each using two pawns of vis. The Arcane Connection to the other quill was fixed with a further pawn of vis. If this enchantment is modified it can potentially be used to write multiple books at once, although not being able to see the remote text makes for poor quality reproductions. Substitute the character's Finesse score for Profession: Scribe, but with a –3 penalty, and reduce the Quality of any remotelywritten text by 3 points.
 
 ##### Twinning the Quill
-**ReAn 19 Pen** 0, 12/day<br> 
+**ReAn 19 Pen** 0, 12/day<br>
 **R:** Arc, **D:** Conc, **T:** Ind
 
 When the effect is triggered, any movements of the enchanted quill are exactly mirrored by the other, which is usually left atop a sheet of parchment with an open inkwell in a precisely defined position. Errors must be crossed out rather than scraped from the parchment in the usual fashion. A concentration roll is required every few sentences. Arrangements are usually made to change the parchment and refill the inkwell.
@@ -3539,7 +3539,7 @@ Invented by Atrox of Tytalus, this device allows him to issue orders to any of h
 A simple silver knife, as commonly carried for eating or for trimming quills. This item was made as a Lesser Enchantment with three pawns of vis.
 
 ##### **The Writing on the Wall**
-**CrIm 22 Pen** 0, 3/day<br> 
+**CrIm 22 Pen** 0, 3/day<br>
 **R:** Arc, **D:** Sun, **T:** Ind
 
 The effect is triggered by writing a message with the tip of the knife on a suitable flat surface; in the past Atrox has employed ink on a parchment, carved his message on a tavern table, and cut an order into the flesh of a defeated enemy. The knife must be in contact with an Arcane Connection to a location during the writing. The message appears at that location, and persists until the sun next rises or sets. Because of Atrox's sigil, the message appears to be written in blood.
@@ -3575,7 +3575,7 @@ This effect is used to signify to the recipient that the device's owner has used
 (Base 1, +4 Arc, +3 6/day)
 
 ##### The Ear for a Distant Voice
-**InIm 12 Pen** 0, 3/day<br> 
+**InIm 12 Pen** 0, 3/day<br>
 **R:** Arc, **D:** Conc, **T:** Ind
 
 The user of the device can hear the voice of the person to whom she has an Arcane Connection. She cannot hear anything else from the vicinity of the target other than his voice. The effect is triggered by touching the earring with the forefinger while holding an Arcane Connection to a person or place in the same hand.
@@ -3593,7 +3593,7 @@ If used to scry upon someone who has a Hermetic Speculum themselves, *The Scrier
 A sphere of rock crystal filled with flaws, creating many mirror-like surfaces within the body of the crystal. A small crystal is traditionally mounted on a chain worn at the belt; for an enchanted device this chain is often made of silver. Larger crystal spheres are too unwieldy to carry like this, and are instead provided with a stand on which they sit; these stands can be made of orangewood, which provides a +5 bonus to sight-related effects (*Houses of Hermes: Mystery Cults*, page 137). Because flawed rock crystal is enchanted as hard stone, a chainborn crystal would be a small object prepared with eight pawns of vis, and a free standing Speculum is a medium object needing twelve pawns of vis. Five of these pawns have been used up.
 
 ##### Summoning the Image of the Distant
-**InIm 17 Pen** 0, 3/day<br> 
+**InIm 17 Pen** 0, 3/day<br>
 **R:** Arc, **D:** Conc, **T:** Ind
 
 The wielder of the device can see and hear the individual to whom she has an Arcane Connection, provided he has no Magic Resistance. The images are divorced from any surroundings or other beings in the vicinity.
@@ -3603,7 +3603,7 @@ The effect is normally triggered by rubbing the item with the thumb or palm whil
 (Base 2, +4 Arc, +1 Conc; +2 3/day)
 
 ##### The Scrier Spied
-**InVi 29 Pen** 0, constant effect<br> 
+**InVi 29 Pen** 0, constant effect<br>
 **R:** Per, **D:** Sun, **T:** Smell
 
 This spell operates like *The Invisible Eye Revealed* (**ArM5**, page 157): the Speculum responds whenever a spell of 30th level or lower is used to spy on whoever is carrying it. Note that this spell can detect the presence of scrying spells that have failed to Penetrate its bearer's Magic Resistance because it can "smell" such spells within a three pace radius of its location. A detected scrying spell is signaled by a soft golden light filling the crystal; this is a cosmetic effect indicating that the power has been triggered.
@@ -3675,7 +3675,7 @@ There have been several public scandals revealed by the Specula and other scryin
 >In a world where scrying devices are common, magi might have interest in spells or technology that hinders scrying. Remaining within an *Aegis of the Hearth* is a good way of foiling spies, but this is not always practical. The following spell can form a basis for an industry based around confounding the new magical technology.
 >
 >##### **Safeguard the Clandestine Conversation**
->**Mu(Re)Im 10<br> 
+>**Mu(Re)Im 10<br>
 >R:** Touch, **D:** Ring, **T:** Circle
 >
 >The visual and auditory species produced by anyone within the circle drawn by the caster as he casts the spell are muddled to any observers who were not present in the circle at the time of casting; this includes those scrying on the target from a remote location. Those inside the circle can still see and hear each other normally, due to the Rego requisite that causes the spell to only affect the species streaming in certain directions. The nature of the muddled images varies according to the design of the spell, but usually includes the inventor's sigil, and leaves those within unidentifiable by their appearance or sound.
@@ -3719,7 +3719,7 @@ The Technique of Intellego is sometimes mistakenly seen as the Art of Knowledge.
 Perhaps the simplest way to magically reproduce a text is to use Rego craft magic (see Insert) to duplicate the efforts of a copyist. Having a copy of the work to be copied present is essential, as is a stack of clean parchment (or other writing medium) and ink appropriate to the medium. Rego craft magic does not require quills, blotting powder, or other accoutrements of the copyist's craft; these items are not integrated into the finished manuscript and therefore not needed by the magic. As discussed earlier, magic cannot read, so the process of copying a page of text is a two stage process. A spell is first employed to lay an image of the text to be copied over a blank page, and then the Rego craft magic spell causes ink to follow the image's impression.
 
 ##### The First Furrow Guides the Second
-**Cr(In)Im 25<br> 
+**Cr(In)Im 25<br>
 R:** Voice, **D:** Sun, **T:** Group
 
 This spell lays the image of a book's page over the top of a blank sheet, so that a scribe can trace the page's content. This creates identical copies of books. Used repeatedly over the course of a season, it can assist in the creation of copies of Hermetic books, allowing an unskilled magus to copy books even without having the Profession: Scribe Ability. (Note: this spell's description has been modified from when it first appeared in *Covenants*, page 97, where it erroneously implies that a magus without Profession: Scribe has a –3 penalty to any totals requiring that Ability)
@@ -3792,7 +3792,7 @@ The Scrinium has been prepared for enchantment with 12 pawns of vis (the highest
 
 ##### The First Furrow Guides the Second
 **Cr(In)Im 22**<br>
-**Pen** 0, 3 uses per day<br> 
+**Pen** 0, 3 uses per day<br>
 **R:** Touch, **D:** Conc, **T:** Group
 
 This enchantment has the same operation as the spell of the same name, described earlier, except with respect to Range and Duration. Each casting is sufficient for an entire text, since the created illusion affects a moving image. It is triggered when an open book is placed on the lefthand marble slab; an additional command word could be included if desired. To use the item correctly, the back cover of the book should be opened (else the book will be copied and bound in reverse).
@@ -3801,7 +3801,7 @@ This enchantment has the same operation as the spell of the same name, described
 
 ##### The Lector's Deft Hand
 **ReHe(An) 15**<br>
-**Pen** 0, unlimited uses per day<br> 
+**Pen** 0, unlimited uses per day<br>
 **R:** Touch, **D:** Mom, **T:** Ind
 
 This enchantment turns a page of any book placed on the left-hand marble slab. It can turn pages of paper, papyrus, and other plant-based materials as well as parchment and vellum. It is triggered when a sheet of parchment is placed on the right-hand slab (that is, after the *Stack the Decorated Page* effect has acted).
@@ -3810,7 +3810,7 @@ This enchantment turns a page of any book placed on the left-hand marble slab. I
 
 ##### The Copyist's Puissant Quill
 **ReAq 15**<br>
-**Pen** 0, unlimited uses per day<br> 
+**Pen** 0, unlimited uses per day<br>
 **R:** Voice, **D:** Mom, **T:** Group
 
 This enchantment has the same operation as the spell of the same name, described earlier, and acts on the topmost sheet of the middle stack of blank pages. It is triggered when a page of the book on the left-hand marble slab is turned (that is, after the *Lector's Deft Hand* effect has acted).
@@ -3819,7 +3819,7 @@ This enchantment has the same operation as the spell of the same name, described
 
 ##### Stack the Decorated Page
 **ReHe(An) 20**<br>
-**Pen** 0, unlimited uses per day<br> 
+**Pen** 0, unlimited uses per day<br>
 **R:** Voice, **D:** Mom, **T:** Ind
 
 This enchantment moves a sheet of parchment, paper, or other animal or plantderived writing medium from the stack on the middle marble slab and places it on the right-hand slab. Note that the pages produced by the Scrinium are totally dry; there is no wet ink. It is triggered when the topmost sheet on the middle stack has been written on (that is, after the *Copyist's Puissant Quill* effect has acted).
@@ -3830,7 +3830,7 @@ This enchantment moves a sheet of parchment, paper, or other animal or plantderi
 **ReHe(An) 7 Pen** 0, 3 uses per day<br>
 **R:** Touch, **D:** Mom, **T:** Group
 
-This enchantment binds up to 800 individual sheets into a book. The enchantment fails if any of the materials necessary pieces of a codex are missing. It is triggered by tapping three times the stack of fi nished sheets to be bound. The operator of the device must have an Intelligence + Finesse of at least 6 to successfully bind the book. If you are using the extended rules for book creation (*Covenants*, page 88), then readers of a book bound with this enchantment can claim the +1 quality bonus for sound binding.
+This enchantment binds up to 800 individual sheets into a book. The enchantment fails if any of the materials necessary pieces of a codex are missing. It is triggered by tapping three times the stack of finished sheets to be bound. The operator of the device must have an Intelligence + Finesse of at least 6 to successfully bind the book. If you are using the extended rules for book creation (*Covenants*, page 88), then readers of a book bound with this enchantment can claim the +1 quality bonus for sound binding.
 
 (Base 1, +1 Touch, +2 Group, +1 requisite; +2 3/day)
 
@@ -3838,11 +3838,11 @@ This enchantment binds up to 800 individual sheets into a book. The enchantment 
 
 In theory, Laboratory Texts can be copied with magic in exactly the same way as books on Abilities and Arts. Naturally, an exact duplicate of the text is made, so if a Laboratory Text is still written in its author's personal code, this will be replicated in the copy. A Laboratory Text is usually much shorter than other books (approximately one page per level of the effect), although it may not be written as a typical codex but take a more unusual form. It may be that a magus does not have the capacity to magically copy a book due to the form that it takes. For example, many magi scribe their laboratory texts into wax tablets, some use metal sheets and an enchanted stylus, still others cover the walls of the laboratory themselves with chalk notation.
 
-Laboratory Texts are a lot less forgiving than a book on an Ability or an Art. The Laboratory Text must be copied exactly without the slightest deviation, else it is corrupted and useless. Pages where the Finesse roll fails must be repeated, and a single botched page corrupts the entire Laboratory Text; something which will only be discovered when the Laboratory Text is used (wasting the season). If using Rego craft magic to duplicate Laboratory Texts, then consider that a professional scribe could copy fi ve levels of effects a day; 120 levels in a month, and 360 levels in a season. Using the earlier table, you would need a Finesse Total of 11 or more to copy a month's worth of Laboratory Texts fl awlessly page by page, or a Finesse Total of 14 or more to copy a season's worth in the same manner.
+Laboratory Texts are a lot less forgiving than a book on an Ability or an Art. The Laboratory Text must be copied exactly without the slightest deviation, else it is corrupted and useless. Pages where the Finesse roll fails must be repeated, and a single botched page corrupts the entire Laboratory Text; something which will only be discovered when the Laboratory Text is used (wasting the season). If using Rego craft magic to duplicate Laboratory Texts, then consider that a professional scribe could copy five levels of effects a day; 120 levels in a month, and 360 levels in a season. Using the earlier table, you would need a Finesse Total of 11 or more to copy a month's worth of Laboratory Texts flawlessly page by page, or a Finesse Total of 14 or more to copy a season's worth in the same manner.
 
 >#### Optional Rule: Hazardous Laboratory Texts
 >
->Rather than requiring flawless copying of every page of a Laboratory Text, the troupe could decide that errors introduced into Laboratory Texts do not make the Text useless, but can introduce unwanted effects into the product of the season of work. If the magically-copied Laboratory Text was created with insuffi cient Finesse, then whenever it is used, the magus must make an extra roll on the Experimentation Table (**ArM5**, page 109) with a risk modifi er equal to half the number of pages spoiled per ten pages total. Thus if four pages in ten were spoiled, the risk modifi er is +2. If a copy is made of the copy with magic, then the users of the second generation copy must make two extra Experimentation rolls, each potentially with its own risk modifi er. This option makes magical copying of Laboratory Texts possible, but often undesirable.
+>Rather than requiring flawless copying of every page of a Laboratory Text, the troupe could decide that errors introduced into Laboratory Texts do not make the Text useless, but can introduce unwanted effects into the product of the season of work. If the magically-copied Laboratory Text was created with insufficient Finesse, then whenever it is used, the magus must make an extra roll on the Experimentation Table (**ArM5**, page 109) with a risk modifier equal to half the number of pages spoiled per ten pages total. Thus if four pages in ten were spoiled, the risk modifier is +2. If a copy is made of the copy with magic, then the users of the second generation copy must make two extra Experimentation rolls, each potentially with its own risk modifier. This option makes magical copying of Laboratory Texts possible, but often undesirable.
 
 >#### Optional Rule: No Magical Copying of Laboratory Texts
 >
@@ -4038,13 +4038,13 @@ Transports up to one small hundred crates or equivalent volume of goods (100 cub
 **PeVi General**<br>
 **R:** Touch, **D:** Ring, **T:** Circle
 
-This spell cancels the casting of any spell of instant transportation within a circle drawn at the time of casting, or to a person within the circle. It also prevents the area within the circle from being the destination of such a spell. The spell fails and the intended target does not move. The spell can only cancel spells of a level less than the (level of this spell + 5 + stress die (no botch)). Thus a 25th level version of this spell is always suffi cient to block a *Seven-League Stride*, and might block *The Leap of Homecoming* if the stress die result is 5 or more. If the transport spell is of non-Hermetic origin then you should estimate its level based on Hermetic guidelines. If the caster of the affected spell is within the circle, then this spell must Penetrate Magic Resistance to have the desired effect.
+This spell cancels the casting of any spell of instant transportation within a circle drawn at the time of casting, or to a person within the circle. It also prevents the area within the circle from being the destination of such a spell. The spell fails and the intended target does not move. The spell can only cancel spells of a level less than the (level of this spell + 5 + stress die (no botch)). Thus a 25th level version of this spell is always sufficient to block a *Seven-League Stride*, and might block *The Leap of Homecoming* if the stress die result is 5 or more. If the transport spell is of non-Hermetic origin then you should estimate its level based on Hermetic guidelines. If the caster of the affected spell is within the circle, then this spell must Penetrate Magic Resistance to have the desired effect.
 
 (Base effect, +1 Touch, +2 Ring)
 
 ### Example Device: The Gate of Countless Vistas
 
-This rather grand-sounding device is typical of an enchantment with powers of instant transportation designed for a sanctum, covenant, castle, or so forth. It is unusual in that it is enchanted with multiple copies of the same enchantment, each designed specifi cally for a different user of the device. In this manner, magi can avoid warping from the powerful mystical effect while remaining able to benefi t from the enchantment's effects. Naturally, as covenants grow, more potential users of the device arise, and an old covenant might have a chamber dedicated to its numerous Gates of Countless Vistas. While a magus cannot benefit from the Laboratory Text of another, since each enchantment is designed for a different person, they do get a small bonus to their Lab Total for every version of the enchantment already in the device (**ArM5**, page 99).
+This rather grand-sounding device is typical of an enchantment with powers of instant transportation designed for a sanctum, covenant, castle, or so forth. It is unusual in that it is enchanted with multiple copies of the same enchantment, each designed specifically for a different user of the device. In this manner, magi can avoid warping from the powerful mystical effect while remaining able to benefit from the enchantment's effects. Naturally, as covenants grow, more potential users of the device arise, and an old covenant might have a chamber dedicated to its numerous Gates of Countless Vistas. While a magus cannot benefit from the Laboratory Text of another, since each enchantment is designed for a different person, they do get a small bonus to their Lab Total for every version of the enchantment already in the device (**ArM5**, page 99).
 
 If there are multiple covenants with similar devices, common practice would be to only provide allies with Arcane Connections to a particular room — and this would not be the room containing the covenant's own Gate of Countless Vistas. Rather, it would be a room with a sturdy lock, or else one with no door at all, but a magic device to open up a portal. This room is often placed outside of the destination covenant's *Aegis of the Hearth*. One never knows how long allies will remain allies, or how securely they maintain the Arcane Connections to other covenants.
 
@@ -4139,7 +4139,7 @@ As the spell of the same name (**ArM5**, page 145); using the Arcane Connection 
 Not all magical transportation has to be in the blink of an eye. There are other means of travel that, while not instant, are still faster than anything currently available in Mythic Europe. This section includes a few spells which could act as inspiration for devices permitting other modes of transport.
 
 ##### Mercury's Winged Sandals
-**ReCo 20**<br> 
+**ReCo 20**<br>
 **R:** Per, **D:** Conc, **T:** Ind
 
 The caster can fly. He must make an Intelligence + Finesse roll to change direction or speed; with an Ease Factor related to his current speed — Ease Factor 3 for walking pace, Ease Factor 9 at moderate speed, Ease Factor 12 at maximum speed.
@@ -4162,7 +4162,7 @@ The extra magnitudes have been added to this spell by analogy with the Rego Corp
 
 ##### Vessel of the Clouds
 **ReHe 30**<br>
-**R:** Touch, **D:** Sun, **T:** Ind 
+**R:** Touch, **D:** Sun, **T:** Ind
 
 Imbues a small boat such as a coracle with the power of flight. The boat and all its contents are lifted into the air, and the caster may make Intelligence + Finesse rolls to change direction or speed. For typical Ease Factors, see *The Woolen Steed of Araby*, earlier. The maximum speed is forty miles an hour.
 
@@ -4175,7 +4175,7 @@ The extra magnitudes have been added to this spell by analogy with the Rego Corp
 (Base 3, + 1 Touch, +2 Sun, +1 unsupported surface, +1 for any direction, +2 for increased speed)
 
 ##### The Chariot of Zeus
-**MuCo(Au) 30**<br> 
+**MuCo(Au) 30**<br>
 **R:** Per, **D:** Mom, **T:** Ind
 
 Transforms the caster into a thunderbolt (equivalent to an insubstantial object). In this form he can move literally at the speed of lightning to any location he can see. There must be an unobstructed path between the caster and his destination. Upon arrival the caster transforms back into his normal shape with a mighty crack of thunder. Anyone within 2 paces of his destination must make a Size stress roll against an Ease Factor of 6 to remain standing. The caster can choose the location of another person as his destination, in which case he inflicts +30 damage to that individual and arrives standing next to her. If he strikes a building he arrives on the roof, and the building must make a stress check (*City & Guild*, page 77) or take six damage levels; wooden buildings catch fire even if they survive.
@@ -4272,7 +4272,7 @@ Magi wishing to improve their financial situation should therefore look outside 
 >
 >##### Boundless Wealth of the Oceans
 >**CrAn 20**<br>
->**R:** Touch, **D:** Mom, **T:** Group, Ritual 
+>**R:** Touch, **D:** Mom, **T:** Group, Ritual
 >
 >Creates 3,000 pounds of pearls, equivalent to over one million pearls about half an inch in diameter. These are remarkably large pearls, each one about a quarter of an ounce in weight. Good quality sea pearls usually sell for about three Mythic Pounds per ounce (*Covenants*, page 141). Each pearl is identical to its fellows, and is somehow marked by the sigil of the caster.
 >
@@ -4280,7 +4280,7 @@ Magi wishing to improve their financial situation should therefore look outside 
 >
 >##### The Wealth of Croesus
 >**CrTe 30**<br>
->**R:** Touch, **D:** Mom, **T:** Group, Ritual 
+>**R:** Touch, **D:** Mom, **T:** Group, Ritual
 >
 >Creates 13,000 silver pennies, amounting to 650 Mythic Pounds. The magus's sigil is incorporated into the design on the obverse and reverse of each coin. An Intelligence + Finesse roll allows the caster to match the design otherwise to that of a specific realm's coinage; an Ease Factor of 9 means that only an expert would notice the difference.
 >
@@ -4342,7 +4342,7 @@ This spell brings a plant from seed to maturity over the course of a day. The pl
 
 ##### Nourish the Displaced Vines
 **CrHe 19**<br>
-**Pen** 0, constant effect<br> 
+**Pen** 0, constant effect<br>
 **R:** Touch, **D:** Sun, **T:** Group
 
 Permits up to a hundred plants of Size +3 (or an equivalent volume, such as a thousand plants of Size +0 or ten trees of Size +6) to grow well regardless of the climate and soil conditions, although they may still be affected by disease. The plants must be growing close enough to each other for their roots or branches to touch, else they are not considered to be part of the same group.
@@ -4365,7 +4365,7 @@ Magi could replace the wage cost with magically-created silver (see earlier), bu
 
 ##### Fill the Capacious Silo
 **CrHe 20**<br>
-**R:** Touch, **D:** Mom, **T:** Group, Ritual 
+**R:** Touch, **D:** Mom, **T:** Group, Ritual
 
 Creates a silo of grain. A base Individual of Herbam is about twenty bushels of grain, so this spell creates about twenty thousand bushels, or 30 tons of grain (640 bushels to a ton). This would fill a cylindrical silo 8 paces in diameter and 20 paces high, or a barn 20 paces by 10 paces to a depth of 15 feet. This spell is underoptimized, in that it could create a hundred times more grain for the same spell level (since all Ritual spells have a minimum level of 20); however, that amount of grain would be virtually impossible to store. In a time of famine, that may not be a difficulty.
 
@@ -4480,7 +4480,7 @@ The majority of mechanical power in Mythic Europe is supplied by the labor of pe
 The Order of Hermes has a new source of power available for general use, typified by the Hermetic Generans (see below). Costing just two pawns of vis as a Lesser Enchantment, this device can be manufactured by even junior magi if a Laboratory Text is made available to them.
 
 ##### The Hermetic Generans ReTe 15
-**Pen** 0, 1/day<br> 
+**Pen** 0, 1/day<br>
 **R:** Touch, **D:** Conc, **T:** Ind
 
 This enchantment takes the shape of a thick disc of iron connected to a rod. This rod can be connected to a gear wheel or cuff which can be slipped over any axis. Once triggered, the device imparts strong motion; this would normally be in a straight line, but because it is tethered to the wheel or axis, it generates rotation instead. Assuming it is sufficiently attached, the Hermetic Generans can do as much work as a person or animal with a Strength of +5 (approximately one horse-power). It continues to turn until commanded to stop by the person who activated it, or until the sun sets. Naturally, the device could be designed to provide truly constant motion, but this would prevent it from ever being shut off. If nothing else, storage of such devices could be amusing.
@@ -4647,7 +4647,7 @@ Creating Invested items or lesser enchantments with a limited lifespan (**ArM5**
 
 #### Charged Items
 
-One solution to the constraint of vis is to formulate the magical technology as a Charged Item. Once a Laboratory Text for the Charged Item exists, manufacture rates are increased for those capable of completing the project, and no vis is required for completion. The biggest diffi culty with this approach is meeting the demand, especially once the technology has spread beyond the local area. Such problems can be solved through a good distribution network, or local magi who can manufacture charges in return for a share of the profi ts. However, a big advantage is the likelihood of repeat custom; once the charge has been used, the buyer needs another one.
+One solution to the constraint of vis is to formulate the magical technology as a Charged Item. Once a Laboratory Text for the Charged Item exists, manufacture rates are increased for those capable of completing the project, and no vis is required for completion. The biggest difficulty with this approach is meeting the demand, especially once the technology has spread beyond the local area. Such problems can be solved through a good distribution network, or local magi who can manufacture charges in return for a share of the profits. However, a big advantage is the likelihood of repeat custom; once the charge has been used, the buyer needs another one.
 
 #### A Hermetic Workforce
 
@@ -4855,7 +4855,7 @@ The rise in availability of magical technologies that can enact massive destruct
 >
 >**Flambeau**: Mostly unchanged by technological magic, although a new school of magical combat has been developed that specifically concentrates on the destruction or interruption of magical devices.
 >
->**Guernicus**: Unchanged, although somewhat emasculated. The House fought long and hard to enforce the Oath and stifle change; now defeated it fears it has lost the respect of the Order. 
+>**Guernicus**: Unchanged, although somewhat emasculated. The House fought long and hard to enforce the Oath and stifle change; now defeated it fears it has lost the respect of the Order.
 >
 >**Jerbiton**: Has concerned itself with the aesthetics of technology, developing new art forms based on magical devices that transform the populace through their appreciation.
 >

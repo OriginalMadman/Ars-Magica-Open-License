@@ -2034,11 +2034,14 @@ Unless she is fluent (Language Ability 5 or better), use of a character's social
 
 As one travels further from home, one encounters changes in language which might make conversing difficult. A native speaker knows his own language at a score of 5, and may have a specialty in his own dialect, for an overall score of 6. He can sometimes communicate with a speaker of a different language, depending on how closely related the two languages are:
 
-**SITUATION:** Same language, different dialect<br>**PENALTY:** –1 penalty to both speakers
+**SITUATION:** Same language, different dialect<br>
+**PENALTY:** –1 penalty to both speakers
 
-**SITUATION:** Closely related languages<br>**PENALTY:** –2 penalty to both speakers
+**SITUATION:** Closely related languages<br>
+**PENALTY:** –2 penalty to both speakers
 
-**SITUATION:** Distantly-related languages<br>**PENALTY:** –3 penalty to both speakers
+**SITUATION:** Distantly-related languages<br>
+**PENALTY:** –3 penalty to both speakers
 
 For example, a speaker of French (Norman) can talk with a native of Paris who speaks French (Orleanais), with a –1 penalty. He can talk with a native of Provence with a –2 penalty, since French and Occitan (the language of Provence) are closely related. He can even communicate basic information with speakers of Castilian, at a –3 penalty.
 

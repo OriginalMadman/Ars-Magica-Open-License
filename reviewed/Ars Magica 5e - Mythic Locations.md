@@ -1012,7 +1012,7 @@ When the sick use the baths, the process differs depending on how wealthy the ba
 >
 >**Equipment:** Perfume, a smile and a large, fluffy towel.
 >
-*>*Vis:** 4 pawns Aquam, testicles.
+>**Vis:** 4 pawns Aquam, testicles.
 >
 >**Appearance:** A handsome man, with a charming manner, a spare glass of wine, and a fascinating rumor to share.
 
@@ -1180,7 +1180,7 @@ Player characters may wish to replicate the device for several reasons:
 >
 >The bath-house or outer buildings may also contain other, secret rooms. These may include:
 >
--> Private rooms for patrons, sumptuously furnished and used for assignations, or meetings. Player characters may break into these rooms to steal Arcane Connections, or may be may be invited to them by a potentate who wishes to impress.
+>- Private rooms for patrons, sumptuously furnished and used for assignations, or meetings. Player characters may break into these rooms to steal Arcane Connections, or may be may be invited to them by a potentate who wishes to impress.
 >- Storerooms for criminals. The baths are an excellent distribution point for contraband items, as carts are expected to make deliveries to the baths, and many people are expected to visit them regularly.
 >- Religious rooms. The baths may have chapels, or even temples, to saints, pagan gods, demons, or spirits. These may be abandoned, converted to other functions, used for simple worship, or employed for Mystagogic Initiations.
 >- Living quarters: Creatures from most realms find it more comfortable to reside in auras of their realm. Such beings may have claimed rooms in the bath complex as domiciles.
@@ -2258,7 +2258,9 @@ Official House Mercere records list him as giving his home covenant as the place
 >
 >A corrupted tree does not fight using the usual rules. The tree waits for an opportune moment when a lone individual is distracted, just below its branches, or even resting up against the trunk. It then makes a surprise attack to grapple or immobilize the victim and proceed to digest his body. Content with one victim, most trees try to fend off other people by striking them with its branches. The multiple branches do not attack as a group, and only one branch attacks each victim at a time. Due to the sheer size and toughness of the tree, only heavy, sharp-edged weapons stand a chance of hurting it. Living wood counts as "barely flammable," requiring Ignem spells of base 10, or fire damage of +15. The storyguide needs to use common sense regarding other spell attacks. *Crystal Dart* works, but *Piercing Shaft of Wood* can't hurt it. Most of its attacks cause Deprivation from lack of air, for which rules can be found in *ArM5,* page 180.
 >
->#### Corrupted Oak, Willow, or Pine Infernal Might: 10 (Herbam)
+>#### Corrupted Oak, Willow, or Pine
+>
+>**Infernal Might:** 10 (Herbam)
 >
 >**Characteristics:** Int 0, Per 0, Pre –6, Com –3, Str +5, Stm +5, Dex –2, Qik –3
 >
@@ -3737,7 +3739,7 @@ The characters can meet any Christian soul in Purgatory. Those of non-Christian 
 >
 >As he handles a lot representing someone who wishes to enter the Purgatory of Saint Patrick, the recipient receives a vision telling him whether or not to choose it. The recipient can examine more lots for the duration of the power. This power might defeat any attempt to magically tamper with the lots, depending on how the tampering is done.
 >
-(Base 10, +1 Office)
+>(Base 10, +1 Office)
 >
 >##### Then a spirit passed before my face; the hair of my flesh stood up
 >
@@ -5664,7 +5666,7 @@ Up in the darkness of the ceiling, near where the rats nest, is a small balcony 
 >
 >**Faerie Might**: 30 (Animal)
 >
->**Characterstics**: Int +1, Per +1, Pre -2, Com -5, Str -11, Sta +1, Dex +2, Qik +5
+>**Characteristics**: Int +1, Per +1, Pre -2, Com -5, Str -11, Sta +1, Dex +2, Qik +5
 >
 >**Size**: -7
 >
@@ -5767,7 +5769,7 @@ White truffles grow on the roots of oak, hazel, poplar, and beech trees. The bes
 >#### Uncommon Knowledge
 >
 >- Characters with scores in Magic Lore may know the following: An enriched Truffle of Virtue protects crops for a year and ensures a bountiful harvest. The process for enriching a truffle of vis requires an animal with Magic Might to devour it, then its scat is spread under trees that will produce truffles the next year. There are multiple types of truffles that contain vis. Some truffles are awakened. Awakened truffles may be found in large isolated forests within a Magic aura. Awakened truffles have Magic Might and often guard truffles in Magic forests. Some regiones are only accessible during specific, usually astronomically significant, days.
-- Characters with Area Lore scores may know specific locations where truffles can be found. A Philosophiae score grants the character knowledge about more truffles, with black and white truffles being the most likely, followed by Burgundy and Bohemian truffles, and lastly desert truffles.
+>- Characters with Area Lore scores may know specific locations where truffles can be found. A Philosophiae score grants the character knowledge about more truffles, with black and white truffles being the most likely, followed by Burgundy and Bohemian truffles, and lastly desert truffles.
 >
 >#### Rare Knowledge
 >

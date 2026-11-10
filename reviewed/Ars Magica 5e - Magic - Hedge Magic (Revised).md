@@ -2294,7 +2294,7 @@ The coven was not entirely destroyed, however, and mistress Greta escaped the st
 
 > ### Matilda
 >
-> Characteristics: Int +3, Per +1, Pre +2 Com 0, Str –1, Sta 0, Dex +1, Qik 0
+> Characteristics: Int +3, Per +1, Pre +2, Com 0, Str –1, Sta 0, Dex +1, Qik 0
 >
 > Size: 0
 >
@@ -6039,7 +6039,7 @@ Early practitioners of this mystery will rapidly notice the similarity to certam
 
 > ### Rothiger in Wolf Form
 >
-> Characteristics: Int 0, Per 1, Pre -2, Com 0, Str 0, Sta +3, Dex +2, Qik +2
+> Characteristics: Int 0, Per +1, Pre -2, Com 0, Str 0, Sta +3, Dex +2, Qik +2
 >
 > Size: -1
 >
@@ -6946,8 +6946,7 @@ Naudiz is a very negative rune, meaning hardship, trouble, and adversity, often 
 >
 > General: Delay the resolution of another supernatural effect no greater than the level of this effect, putting it off for as long as this rune lasts, and casting it when this spell is broken. This spell must include the runes for the held effect as well as Naudiz. For example, to delay an Ansuz effect of Level 20, the rune spell must be Naudiz (Ansuz) 20 or less.
 >
-> General: Bind an active rune spell of Level less than or equal to this one, so that the duration lasts as long as the runes used in this spell. The spell must include the runes for the bound effect as well as Naudiz. For example, to bind a Fehu (Ansuz) effect of
-Level 15, the rune spell must be Naudiz (Fehu, Ansuz) 15 or greater.
+> General: Bind an active rune spell of Level less than or equal to this one, so that the duration lasts as long as the runes used in this spell. The spell must include the runes for the bound effect as well as Naudiz. For example, to bind a Fehu (Ansuz) effect of Level 15, the rune spell must be Naudiz (Fehu, Ansuz) 15 or greater.
 >
 > Level 20: Cause a target to feel a deep despair, which makes him unable to use Confidence Points for the duration of the spell.
 

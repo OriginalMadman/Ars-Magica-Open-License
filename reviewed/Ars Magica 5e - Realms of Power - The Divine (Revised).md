@@ -4347,7 +4347,7 @@ Saints are Divine creatures, as detailed in the Realms chapter of **Ars Magica**
 >
 > **Divine Might:** variable, see below
 >
-> **Characteristics:** Int +5, Per +5, Pre +5, Com +5, Str n/a, Stm n/a, Dex n/a, Qik n/a
+> **Characteristics:** Int +5, Per +5, Pre +5, Com +5, Str n/a, Sta n/a, Dex n/a, Qik n/a
 >
 > **Size:** 0
 >
