@@ -3,9 +3,31 @@
 *Compiled by Patrick M. Murphy, with input from Jackson Eflin and Kyle Stoneman*<br>
 *v2.0, October 2026 — A Mad Irishman Production*
 
-> *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0"). Ars Magica Open License Logo ©2024 Trident, Inc. The Ars Magica Open License Logo, Ars Magica, and Mythic Europe are trademarks of Trident, Inc., and are used with permission. Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
->
-> *Markdown version extracted from the PDF (v2.0).*
+## Markdown Version Specifics
+
+Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
+Visit the github for the latest revision of this document and the complete texts of all official Ars Magica Open License books. 
+
+*Forgotten Magic of Hermes* is a fan compilation by Patrick M. Murphy (a Mad Irishman Production), with input from Jackson Eflin and Kyle Stoneman, presenting spells from earlier-edition Ars Magica publications in Definitive Edition terms. While this extracted text is complete and provided completely free under the Open License, we recommend getting the original PDF and the author's other Ars Magica resources from https://www.mad-irishman.com
+
+*[Completion state: Done. Extracted from the v2.0 PDF (October 2026) with a dedicated parser; all 451 spells checked for complete structure (Arts and level, R/D/T, Base, Source), the text compared word for word against the PDF, and the Spells Index rebuilt with links to every spell. As a fan compilation it has no official errata; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others.]*
+
+*Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+## Issues from Original
+
+The following corrections have been applied to the text of this markdown version.
+
+### Official Errata
+
+This is a fan compilation; there is no official errata.
+
+### Misspellings Corrected
+
+| Page | Original | Corrected |
+| --- | --- | --- |
+| 66 | mapbased | map-based |
+| 70 | Imáginem | Imaginem |
 
 **Caveat Lector:** This is a good faith attempt to collect and present in Ars Magica Definitive Edition terms spells from official previous edition Ars Magica publications—albeit to varying degrees of consideration—with an eye towards making them available under the Ars Magica Open License. Therefore, there are almost certainly still issues, and some spells may remain problematic (e.g., *Eyes of the Past*), so Troupes should carefully consider their validity at the game table.
 
@@ -1067,7 +1089,7 @@ You can summon any water elemental to which you have an Arcane Connection. You m
 ReAq 45<br>
 **R:** Voice, **D:** Sun, **T:** Bound, Ritual
 
-One body of water up to a halfmile in diameter freezes.
+One body of water up to a half-mile in diameter freezes.
 
 (Base 3, +2 Voice, +2 Sun, +4 Boundary, +2 size)<br>
 **Source:** *Ars Magica First Edition*, page 75
@@ -1370,7 +1392,7 @@ ReAu 20<br>
 This spell allows the caster to shape a room-sized volume of fog or other ground-level gases within range into any shape desired, which is held as long as the caster maintains concentration. The wind will not undo the figure, but if the fog is dissipating naturally, your figure will dissipate as well. If the duration is extended with vis, the figure holds its shape until the spell expires or the fog dissipates, whichever comes first.
 
 (Base 3, +3 Sight, +1 Concentration, +1 precision)<br>
-**Source:** Wi*zard’s Grimoire Revised Edition*, page 158
+**Source:** *Wizard’s Grimoire Revised Edition*, page 158
 
 ### Bind Spirits of the Air
 
@@ -2516,7 +2538,7 @@ CrIg(Au,Te) 35<br>
 **R:** Voice, **D:** Mom, **T:** Group<br>
 **Requisites:** Auram, Terram
 
-This spell creates a cloud of redhot ash as if from a volcanic eruption. The cloud initially occupies an area seven paces in diameter and does +20 damage. For each round after the first, the cloud spreads another three paces in diameter, but drops in damage by five. The cloud dissipates on its own after three rounds, although it can be dispersed more quickly by a stiff wind.
+This spell creates a cloud of red-hot ash as if from a volcanic eruption. The cloud initially occupies an area seven paces in diameter and does +20 damage. For each round after the first, the cloud spreads another three paces in diameter, but drops in damage by five. The cloud dissipates on its own after three rounds, although it can be dispersed more quickly by a stiff wind.
 
 (Base 15, +2 Voice, +2 Group, requisites free)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 164
@@ -2569,7 +2591,7 @@ InIg(An/Co/He) 10
 
 **R:** Sight, **D:** Mom, **T:** Ind
 
-Through this spell the caster can gauge the length of time a being can survive without protection in a frigid environment. The period can be sensed in terms of days, hours, or mere minutes. The spell can also gauge how long the victim of an icecreating spell has to live. The spell has casting requisites of Auram (if used to gauge weather conditions) or Aquam (if a cold body of water is involved), as well as Animal, Corpus, or Herbam depending on the being.
+Through this spell the caster can gauge the length of time a being can survive without protection in a frigid environment. The period can be sensed in terms of days, hours, or mere minutes. The spell can also gauge how long the victim of an ice-creating spell has to live. The spell has casting requisites of Auram (if used to gauge weather conditions) or Aquam (if a cold body of water is involved), as well as Animal, Corpus, or Herbam depending on the being.
 
 (Base 2, +3 Sight, +1 requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 164
