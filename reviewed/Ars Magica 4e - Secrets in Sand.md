@@ -6,6 +6,32 @@
 
 **by Niall Christie**
 
+## Markdown Version Specifics
+
+Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
+Visit the github for the latest revision of this document and the complete texts of all official Ars Magica Open License books. 
+
+While this extracted text is complete and provided completely free under the Open License, we highly recommend downloading the original illustrated PDF, bonus material for *Blood and Sand: The Levant Tribunal* (Ars Magica Fourth Edition, 2002), which Atlas Games provides as a free resource: https://www.atlas-games.com/pdf_storage/secretsinsand.pdf
+
+*[Completion state: Done. All text extracted from the original PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. No official errata exist; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; illustrations are not included.]*
+
+*Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+## Issues from Original
+
+The following corrections have been applied to the text of this markdown version.
+
+### Official Errata
+
+No official errata are listed for this book on Atlas Games' errata pages ([5th edition](https://atlas-games.com/arsmagica/arm5errata), [4th edition](https://atlas-games.com/arm4/armerrata)).
+
+### Misspellings Corrected
+
+| Page | Original | Corrected |
+| --- | --- | --- |
+| 5 | page @@ | unfilled page reference (left as printed) |
+| 14 | landtorn | land torn |
+
 ## Contents
 
 - [Introduction](#introduction)
@@ -664,7 +690,7 @@ All powers may be used an unlimited number of times. The talisman’s powers are
 AN **ARS MAGICA** SOURCEBOOK OF THE NEAR EAST<br>
 BY NIALL G. F. CHRISTIE
 
-Welcome to a land of contrasts, from the lofty mountains of Asia Minor to the luxuriant green of the Nile valley, from ageless cities to young kingdoms, from bustling sea ports to impregnable castles. Welcome to a land-torn between religious wars and tortuous politics, theater of the clash between East and West, a place where two cultures collide. Welcome to a land of wonders, haunted by stone memories of lost civilizations, inhabited by powerful sorcerers, home to the finest scholars of both worlds. Welcome to a land of opportunities, where the lucky and strong can achieve fame and riches beyond measure, but where the corpses of the weak and the slow litter the ground.
+Welcome to a land of contrasts, from the lofty mountains of Asia Minor to the luxuriant green of the Nile valley, from ageless cities to young kingdoms, from bustling sea ports to impregnable castles. Welcome to a land torn between religious wars and tortuous politics, theater of the clash between East and West, a place where two cultures collide. Welcome to a land of wonders, haunted by stone memories of lost civilizations, inhabited by powerful sorcerers, home to the finest scholars of both worlds. Welcome to a land of opportunities, where the lucky and strong can achieve fame and riches beyond measure, but where the corpses of the weak and the slow litter the ground.
 
 *Blood and Sand* is the guide to the Hermetic tribunal of the Levant. It details the mundane and Hermetic geography and history of the area, shaped by Islam and the Crusades. It describes the mundane and magical inhabitants of the region, be they emirs in mighty castles or traders in the Latin states, magi of Hermes or Muslim sorcerers, jinn or naddahas. From the Ark of the Covenant to the criminal underworld of Acre, this book provides everything you need for a saga set in this most volatile of Hermetic tribunals.
 

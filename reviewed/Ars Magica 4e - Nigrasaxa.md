@@ -6,6 +6,34 @@ An Introductory Mini-Saga for Ars Magica™
 
 *A free ready-to-play saga including introductory characters and explanatory notes for first-time Storyguides*
 
+## Markdown Version Specifics
+
+Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
+Visit the github for the latest revision of this document and the complete texts of all official Ars Magica Open License books. 
+
+While this extracted text is complete and provided completely free under the Open License, we highly recommend downloading the original illustrated PDF, a free introductory mini-saga for Ars Magica Fourth Edition (1998), which Atlas Games provides as a free resource: https://www.atlas-games.com/pdf_storage/nigrasaxa.pdf
+
+*[Completion state: Done. All text extracted from the original PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. The character sheet check-box tracks are written as plain lists. No official errata exist; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; illustrations are not included.]*
+
+*Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+## Issues from Original
+
+The following corrections have been applied to the text of this markdown version.
+
+### Official Errata
+
+No official errata are listed for this book on Atlas Games' errata pages ([5th edition](https://atlas-games.com/arsmagica/arm5errata), [4th edition](https://atlas-games.com/arm4/armerrata)).
+
+### Misspellings Corrected
+
+| Page | Original | Corrected |
+| --- | --- | --- |
+| 1 | Nirgasaxa | Nigrasaxa |
+| 3 | half chain mai | half chain mail |
+| 3 | Enduring Constitution +1 Inspirational +1 (punctuation) | Enduring Constitution +1, Inspirational +1 |
+| 7 | tell the his player | tell his player |
+
 > *Ars Magica, Mythic Europe, and Covenants are trademarks of Trident, Inc. Atlas Games is a trademark of Trident, Inc. and John Nephew. Order of Hermes and Tremere are trademarks of White Wolf, Inc., used with permission. ©1998 Trident Inc. This Mini-Saga may be distributed freely for personal use either in print or electronically as long as this notice remains intact.*
 
 Welcome to *Nigrasaxa,* a three-part mini-saga that provides an extended introduction to **Ars Magica** Fourth Edition. *Nigrasaxa* works in tandem with the *Promises,* *Promises* Jump Start Kit to teach new players the basics of the game. Although *Nigrasaxa* does not continue the story presented in *Promises, Promises,* it assumes the level of familiarity with **Ars** **Magica** that *Promises, Promises* provides.
@@ -78,7 +106,7 @@ The interlude between the second and third parts provides another opportunity to
 
 The third part, “The Tribunal,” introduces the players to Hermetic politics.
 
-In addition to the scenario material, *Nigrasaxa* contains six pregenerated characters and statistical background on Nirgasaxa itself. In addition to having copies of these available for your players, you might also want to have a few copies of the rule and background briefings from *Promises, Promises* handy.
+In addition to the scenario material, *Nigrasaxa* contains six pregenerated characters and statistical background on Nigrasaxa itself. In addition to having copies of these available for your players, you might also want to have a few copies of the rule and background briefings from *Promises, Promises* handy.
 
 It should be easy to play through this entire kit in three sessions, and you may be able to do it in two.
 
@@ -171,9 +199,9 @@ When the characters have finished asking questions, Maximianus tells them to go 
 >**Fatigue:** +1<br>
 >**Fatigue levels:** OK, 0/0, 0, –2, –4, Unc.<br>
 >**Body levels:** OK, 0/0, 0, –2, –4, Incap.<br>
->**Virtues and Flaws:** Landed Knight +5, Enduring Constitution +1 Inspirational +1, Large +1, Tough +1, Dark Secret –1, Deep Sleeper –1, Dependent (Mathilda) –1, Expenses –1, Favors (to Maximianus and Nigrasaxa) –1, Lycanthrope –2, Poor Hearing –1<br>
+>**Virtues and Flaws:** Landed Knight +5, Enduring Constitution +1, Inspirational +1, Large +1, Tough +1, Dark Secret –1, Deep Sleeper –1, Dependent (Mathilda) –1, Expenses –1, Favors (to Maximianus and Nigrasaxa) –1, Lycanthrope –2, Poor Hearing –1<br>
 >**Abilities:** Athletics 3, Awareness 3, Brawling 2, Church Lore 1, England Lore 1, Etiquette 2, Folk Ken 3, Guile 4, Hunt 3, Intrigue 2, Leadership 3, Longshaft Weapon 4, Ride 4, Shield and Weapon 4, Speak English 5, Suffolk Lore 2<br>
->**Equipment:** Most things he wants. When armored, he wears half chain mai, and carries a kite shield, longsword, and lance. When escorting the magi, he is wearing the sword and carrying his shield.<br>
+>**Equipment:** Most things he wants. When armored, he wears half chain mail, and carries a kite shield, longsword, and lance. When escorting the magi, he is wearing the sword and carrying his shield.<br>
 >**Encumbrance:** 0 (–4\*)<br>
 >
 >*\* These statistics apply when fully armored*
@@ -274,7 +302,7 @@ The faerie forest is very dry, as if after several weeks without rain in summer.
 
 This path forms part of a maze. Do not bother with a map; the maze shifts as the characters pass through it. Let them map it, and even let the players do so, but the map will be no use. It will be helpful if they still have an arcane connection to Mathilda, as this can tell them which way to go. If they didn't explicitly say they were bringing it, let each character make an Intelligence roll. If any character gets 6+, he remembered to pocket the arcane connection. If no one does, let them come up with alternative strategies. If these don't work, they will eventually be collected by faeries from the clearing and led there. This appearance of incompetence will hurt their case if they try to use their presence as evidence that the girl is wanted by her family.
 
-The only way to get through the maze is to use magic to break through the walls. Physical force might work, but none of the magi are strong enough. If they have an arcane connection to Mathilda, or come up with a good alternative strategy, they can find the direction in which they need to be heading, and make paths that go that way. Intéllego Corpus 10, with the arcane connection, gives them a direction to the girl. They can get through the walls in a number of ways. Rego or Perdo Herbam is the most obvious option, and level 10 will suffice to make a hole large enough for the characters to pass through. Using Creo Ignem to burn through is a bad idea, as it would probably set the whole forest on fire. Quite apart from the damage this would do to the characters, it would really annoy the faeries. If no one thinks of this on his own, Morlen thinks of it, so you should tell the his player. If they go ahead anyway, they will need to use Rego or Perdo Ignem to damp down the fires after they’ve been set, or risk being caught up in a firestorm. If that happens, the faeries rescue them, put out the fires, and dump them outside the forest with asses' ears. They will then have to explain to Lord Robert just what has happened to his daughter.
+The only way to get through the maze is to use magic to break through the walls. Physical force might work, but none of the magi are strong enough. If they have an arcane connection to Mathilda, or come up with a good alternative strategy, they can find the direction in which they need to be heading, and make paths that go that way. Intéllego Corpus 10, with the arcane connection, gives them a direction to the girl. They can get through the walls in a number of ways. Rego or Perdo Herbam is the most obvious option, and level 10 will suffice to make a hole large enough for the characters to pass through. Using Creo Ignem to burn through is a bad idea, as it would probably set the whole forest on fire. Quite apart from the damage this would do to the characters, it would really annoy the faeries. If no one thinks of this on his own, Morlen thinks of it, so you should tell his player. If they go ahead anyway, they will need to use Rego or Perdo Ignem to damp down the fires after they’ve been set, or risk being caught up in a firestorm. If that happens, the faeries rescue them, put out the fires, and dump them outside the forest with asses' ears. They will then have to explain to Lord Robert just what has happened to his daughter.
 
 ### The Straw Men
 
