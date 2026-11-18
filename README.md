@@ -23,8 +23,8 @@ You'll want to start with the the *Ars Magica - Definitive Edition \(Core Rules\
 
 **Update: The markdown version of *Ars Magica Definitive Edition \(Core Rules\).md* now has clickable convenience links for TOC, All Virtues & Flaws, Complete Spells Index, Spell Guidelines Index, Bestiary Index, and Traditional Index. Should be a breeze to navigate.** 
 <br/>
-**Update 2: Definitive Edition is now also available in split files so it can be directly read here on GitHub. You'll find it here: [/reviewed/Ars Magica - Definitive Edition - Split Chapters/](/reviewed/Ars Magica - Definitive Edition - Split Chapters/). 
-
+<br/>
+**Update 2: Definitive Edition is now also available in split files so it can be directly read here on GitHub. You'll find it here: [**/reviewed/Ars Magica - Definitive Edition - Split Chapters/**](/reviewed/Ars\ Magica\ -\ Definitive\ Edition\ -\ Split\ Chapters/).** 
 <br/>
 <br/>
 
