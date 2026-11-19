@@ -58,9 +58,9 @@ Of course, the full PDFs or Physical books are much nicer with layout, pictures,
 
 
 > Ars Magica in other languages:
-> [German: Ars Magica Open License German](https://github.com/garin1000/Ars-Magica-Open-License-German) — A German-language translation project for Ars Magica resources under the Open Game License.
-> [Japanese: Ars Magica: Definitive Edition](https://github.com/arsmagica-jp/DefinitiveEdition) — A Japanese translation repository for the Ars Magica Definitive Edition, released under the CC BY-SA 4.0 open license.
-> [Simplified Chinese: Ars Magica Translated Resources in Chinese](https://github.com/AgClWilde/Ars-Magica-Translated-Resources-in-Chinese) — An ongoing Simplified Chinese translation project covering the Definitive Edition core rules, character sheets, supplements, and other resources.
+> - [German: Ars Magica Open License German](https://github.com/garin1000/Ars-Magica-Open-License-German) — A German-language translation project for Ars Magica resources under the Open Game License.
+> - [Japanese: Ars Magica: Definitive Edition](https://github.com/arsmagica-jp/DefinitiveEdition) — A Japanese translation repository for the Ars Magica Definitive Edition, released under the CC BY-SA 4.0 open license.
+> - [Simplified Chinese: Ars Magica Translated Resources in Chinese](https://github.com/AgClWilde/Ars-Magica-Translated-Resources-in-Chinese) — An ongoing Simplified Chinese translation project covering the Definitive Edition core rules, character sheets, supplements, and other resources.
 <br/>
 <br/>
 <br/>
