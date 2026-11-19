@@ -50,12 +50,20 @@ UPDATE: It's also been made available as markdown in the [**/3rd-party**](/3rd-p
 <br/>
 <br/>
 <br/>
-**License:** All text of Ars Magica 5th Edition and its sourcebooks (53 books total) has been released under an open license:
+**License:** All text of Ars Magica 5th Edition and its sourcebooks, as well as select 3rd and 4th edition material has been released under an open license:
 *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")*
 https://www.atlas-games.com/arsmagica/openars
 
 Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
-
+<br/>
+<br/>
+<br/>
+> Ars Magica Open License projects in other languages:
+> - [German: Ars Magica Open License German](https://github.com/garin1000/Ars-Magica-Open-License-German) — A German-language translation project for Ars Magica resources under the Open Game License.
+> - [Japanese: Ars Magica: Definitive Edition](https://github.com/arsmagica-jp/DefinitiveEdition) — A Japanese translation repository for the Ars Magica Definitive Edition, released under the CC BY-SA 4.0 open license.
+> - [Simplified Chinese: Ars Magica Translated Resources in Chinese](https://github.com/AgClWilde/Ars-Magica-Translated-Resources-in-Chinese) — An ongoing Simplified Chinese translation project covering the Definitive Edition core rules, character sheets, supplements, and other resources.
+> - **Spanish**: Holocubierta released multiple books under language license. Only Finis Terrae has been Open Licensed so far. You'll find it in this repository in both Spanish and English, under [**/3rd-party**](/3rd-party/).
+> - **Swedish:** TBA (in the works)
 <br/>
 <br/>
 <br/>
