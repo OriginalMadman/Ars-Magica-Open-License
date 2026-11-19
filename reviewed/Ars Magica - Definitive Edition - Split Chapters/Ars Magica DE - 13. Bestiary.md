@@ -46,7 +46,7 @@ The Penetration of a creature's powers depends on the creature's Might Score and
 
 **CREATURE POWER PENETRATION: Might Score – (5 x Might Point cost of the power) + Penetration Bonus**
 
-The Penetration Bonus is calculated in exactly the same way as for Hermetic magi (see [page 219](<Ars Magica DE - 7. Hermetic Magic.md#penetration>)), so if the creature does not have the Penetration Ability, it is zero.
+The Penetration Bonus is calculated in exactly the same way as for Hermetic magi (see [page 219](<Ars Magica DE - 07. Hermetic Magic.md#penetration>)), so if the creature does not have the Penetration Ability, it is zero.
 
 Some creature powers can be dispelled, if they have continuing effects. Their effective level is equal to the Might Score of the creature.
 
@@ -70,7 +70,7 @@ The format for a creature is very similar to the format for a character, and use
 
 **Confidence Score:** The creature's Confidence Score, with the number of Confidence Points in brackets. Important creatures, just like important characters, have Confidence.
 
-**Virtues and Flaws:** All the creature's Virtues and Flaws, if it has any. These are all described in Virtues and Flaws, starting on [page 61](<Ars Magica DE - 4. Virtues and Flaws.md#chapter-4-virtues-and-flaws>). If the creature has a Social Status, this comes first. Otherwise, the list starts with the Major Virtues, in alphabetical order, followed by Minor Virtues, alphabetically, Major Flaws, alphabetically, and Minor Flaws, also arranged in alphabetical order. A very few creatures do have The Gift, in which case it appears first, as normal. Only creatures with Magic Might can have The Gift, as it is an ability tied specifically to the Magic Realm.
+**Virtues and Flaws:** All the creature's Virtues and Flaws, if it has any. These are all described in Virtues and Flaws, starting on [page 61](<Ars Magica DE - 04. Virtues and Flaws.md#chapter-4-virtues-and-flaws>). If the creature has a Social Status, this comes first. Otherwise, the list starts with the Major Virtues, in alphabetical order, followed by Minor Virtues, alphabetically, Major Flaws, alphabetically, and Minor Flaws, also arranged in alphabetical order. A very few creatures do have The Gift, in which case it appears first, as normal. Only creatures with Magic Might can have The Gift, as it is an ability tied specifically to the Magic Realm.
 
 **Personality Traits:** The creature's personality traits, and scores.
 
@@ -1047,7 +1047,7 @@ A caladrius will not absorb a terminal illness (its Lesser Immunity would not pr
 
 > ### Essential Traits
 >
-> Essential traits are possessed by some creatures affected by the Magic Realm, and indicate features of their being that are part of their essential nature. Magic cannot, therefore, make them act against those traits. They are indicated with an asterisk in the character statistics; for more details, see *Realms of Power: Magic*, [page 54](<Ars Magica DE - 3. Characters.md#page-54>).
+> Essential traits are possessed by some creatures affected by the Magic Realm, and indicate features of their being that are part of their essential nature. Magic cannot, therefore, make them act against those traits. They are indicated with an asterisk in the character statistics; for more details, see *Realms of Power: Magic*, [page 54](<Ars Magica DE - 03. Characters.md#page-54>).
 
 <!-- p. 444 --><a id="page-444"></a>
 
@@ -1617,7 +1617,7 @@ Notes: A creature born of storms, it can be devastating if roused. Its Shapeshif
 
 ### Fire Elementals
 
-Fire elementals, or phlegethi (singular phlegethus, meaning "burners"), also go by a host of other names, such as ignigena (Latin for "fireborn"), vulcans, rolamandri, salamanders (not to be confused with the Beasts of Virtue), and aethnici (a term also used for fiery demons; see *Realms of Power: The Infernal*, [page 67](<Ars Magica DE - 4. Virtues and Flaws.md#page-67>)). They are uncommon on earth, for they can only rarefy from naturally occurring sources of flame — usually lightning strikes, but occasionally earth-fires, certain natural alchemical reactions, or the fire from the upper atmosphere. Feeding a naturally lit fire with fuel does not inhibit rarefication, and once formed, a fire elemental can consume normal fuel. A fire elemental is often short-lived, lasting as long as it has fuel, and prone to sudden movements of remarkable speed. Man's fascination for fire is often enhanced when viewing fire elementals, and they can easily beguile those who stare too deeply.
+Fire elementals, or phlegethi (singular phlegethus, meaning "burners"), also go by a host of other names, such as ignigena (Latin for "fireborn"), vulcans, rolamandri, salamanders (not to be confused with the Beasts of Virtue), and aethnici (a term also used for fiery demons; see *Realms of Power: The Infernal*, [page 67](<Ars Magica DE - 04. Virtues and Flaws.md#page-67>)). They are uncommon on earth, for they can only rarefy from naturally occurring sources of flame — usually lightning strikes, but occasionally earth-fires, certain natural alchemical reactions, or the fire from the upper atmosphere. Feeding a naturally lit fire with fuel does not inhibit rarefication, and once formed, a fire elemental can consume normal fuel. A fire elemental is often short-lived, lasting as long as it has fuel, and prone to sudden movements of remarkable speed. Man's fascination for fire is often enhanced when viewing fire elementals, and they can easily beguile those who stare too deeply.
 
 A phlegethus appears as a collection of flames that move contrary to nature. Each flame is actually a tetrahedron; sometimes these pyramids may be stretched long and thin, while at other times they may be low and flat. The motivations and instincts of a fire elemental are basic: they desire to burn, to consume cold and replace it with heat, and to escape confinement.
 
@@ -1723,7 +1723,7 @@ Vis: None. Magi cannot render other characters' Ghostly Warders down for vis.
 
 Appearance: An older peasant woman, rather gaunt, dressed in simple but well-repaired clothes and carrying the tools used in some part of daily life. This may be a distaff and spindle, or a pot, or a broom; it changes from time to time. Note that she is invisible to characters without an appropriate Virtue.
 
-This Ghostly Warder (see the Magical Warder Virtue, [page 93](<Ars Magica DE - 4. Virtues and Flaws.md#magical-warder>)) was the character's mother, aunt, or possibly grandmother. She still gives him all the advice he received as a child, such as to wear warm clothes and stay away from the river, but she is also quite perceptive, both about people and about mundane events.
+This Ghostly Warder (see the Magical Warder Virtue, [page 93](<Ars Magica DE - 04. Virtues and Flaws.md#magical-warder>)) was the character's mother, aunt, or possibly grandmother. She still gives him all the advice he received as a child, such as to wear warm clothes and stay away from the river, but she is also quite perceptive, both about people and about mundane events.
 
 ### A Typical Giant
 
@@ -2011,7 +2011,7 @@ Medieval tales and illustrations depict both corpse-like walking dead and animat
 >
 > A corpse animated by demonic possession or a Magic spirit's Manifestation power has a Might score equal to the cost of that power. It uses the possessing spirit's Confidence score, if any. The controlling spirit may be able to use its powers through the possessed corpse (depending on the description of the possessing power).
 >
-> *Realms of Power: The Infernal* includes rules for demons who can animate corpses on [page 75](<Ars Magica DE - 4. Virtues and Flaws.md#page-75>).
+> *Realms of Power: The Infernal* includes rules for demons who can animate corpses on [page 75](<Ars Magica DE - 04. Virtues and Flaws.md#page-75>).
 >
 > Regardless of how the corpse is animated, its unarmed attacks can be blocked by Magic Resistance.
 
@@ -2907,7 +2907,7 @@ Demons may be summoned and compelled by Hermetic Magic, although the Oath of Her
 
 #### Demonic Weaknesses
 
-All demons are vulnerable to expressions of God's power, whether this is the sacraments of a faith, a prayer from a devout follower, or the relic of a saint. Relics, as supremely holy items, are anathema to demons, as described in the Realms chapter ([page 419](<Ars Magica DE - 12. Realms.md#page-419>)). A character who has a focus for her prayers (such as a rosary, a phylactery or so forth) and who successfully invokes God's aid to defeat a demon (see *Realms of Power: The Divine*, [page 41](<Ars Magica DE - 3. Characters.md#page-41>)) gains twice the usual bonus. Any object which is an intrinsic part of Divine worship, but not actually a relic in its own right (such as a Church bible, the Host, the scrolls of the Torah) is a Vulnerability (see below) of all demons.
+All demons are vulnerable to expressions of God's power, whether this is the sacraments of a faith, a prayer from a devout follower, or the relic of a saint. Relics, as supremely holy items, are anathema to demons, as described in the Realms chapter ([page 419](<Ars Magica DE - 12. Realms.md#page-419>)). A character who has a focus for her prayers (such as a rosary, a phylactery or so forth) and who successfully invokes God's aid to defeat a demon (see *Realms of Power: The Divine*, [page 41](<Ars Magica DE - 03. Characters.md#page-41>)) gains twice the usual bonus. Any object which is an intrinsic part of Divine worship, but not actually a relic in its own right (such as a Church bible, the Host, the scrolls of the Torah) is a Vulnerability (see below) of all demons.
 
 <!-- p. 478 --><a id="page-478"></a>
 
@@ -3239,7 +3239,7 @@ Vis: 5 pawns of Auram vis prava, left behind as black sand when dispersed.
 
 Appearance: Usually manifests as a giant shapeless vortex of raging black sand using its Auram powers. To those with Second Sight, a giant humanoid shadow can be discerned within the sandstorm.
 
-This wild desert storm spirit, or buran, once plagued the small village of Yenghissar along the route to Khashgar, bringing devastation to the crops and herd animals every seven years. It is now bound by an Infernally-aligned sahir using the Goetic Art of Binding (see *Realms of Power: The Infernal*, [page 117](<Ars Magica DE - 4. Virtues and Flaws.md#page-117>)). A speechless, destructive force of fury incarnate, it rages to be released and constantly strives to create elemental havoc around the thoughtless sahir who has trapped it within his ancestral sword.
+This wild desert storm spirit, or buran, once plagued the small village of Yenghissar along the route to Khashgar, bringing devastation to the crops and herd animals every seven years. It is now bound by an Infernally-aligned sahir using the Goetic Art of Binding (see *Realms of Power: The Infernal*, [page 117](<Ars Magica DE - 04. Virtues and Flaws.md#page-117>)). A speechless, destructive force of fury incarnate, it rages to be released and constantly strives to create elemental havoc around the thoughtless sahir who has trapped it within his ancestral sword.
 
 Unlike many other corrupt jinn, the buran lacks the Coagulation and Obsession powers common to most demons and is an insubstantial spirit, unable to affect the physical world except through its magic. It is an example of an Infernal storm spirit likely to be found in the Taklamakan Desert, although much stronger and less powerful creatures also exist (see *The Cradle and the Crescent*, Chapter 9: On the Silk Road and Beyond...). Many travelers' tales tell of companions fallen behind who are tempted off the track by the illusions created by these demons.
 

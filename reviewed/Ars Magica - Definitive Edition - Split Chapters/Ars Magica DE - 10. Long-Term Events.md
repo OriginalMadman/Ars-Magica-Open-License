@@ -195,7 +195,7 @@ Magi can study the Hermetic Arts from raw vis. This requires one pawn of vis of 
 
 **VIS SOURCE QUALITY: Stress Die + Aura Bonus**
 
-If the stress die double botches, the maga may enter Wizard's Twilight (see [page 228](<Ars Magica DE - 7. Hermetic Magic.md#wizards-twilight>)). The number of botch dice equals the number of pawns of vis used in study.
+If the stress die double botches, the maga may enter Wizard's Twilight (see [page 228](<Ars Magica DE - 07. Hermetic Magic.md#wizards-twilight>)). The number of botch dice equals the number of pawns of vis used in study.
 
 Studying from raw vis does not require a Hermetic laboratory; it can, in principle, be done anywhere. Most magi do study raw vis in their laboratory, though.
 
@@ -300,7 +300,7 @@ A character must have a score of at least 1 in Magic Theory in order to copy a b
 
 ### Acquisition
 
-The Order of Hermes supports a vibrant book trade with two main branches: sale of finished books, and scribal hospitality. Sale of books occurs through the Redcap system, supplemented by exchanges that occur at Tribunal meetings. The use of magic to support the Redcap network is considered more fully in Houses of Hermes: True Lineages, [page 101](<Ars Magica DE - 4. Virtues and Flaws.md#page-101>). Scribal hospitality occurs when a magus is allowed to copy from the library of a covenant to which he does not belong. Hospitality is usually offered in exchange for a payment or service.
+The Order of Hermes supports a vibrant book trade with two main branches: sale of finished books, and scribal hospitality. Sale of books occurs through the Redcap system, supplemented by exchanges that occur at Tribunal meetings. The use of magic to support the Redcap network is considered more fully in Houses of Hermes: True Lineages, [page 101](<Ars Magica DE - 04. Virtues and Flaws.md#page-101>). Scribal hospitality occurs when a magus is allowed to copy from the library of a covenant to which he does not belong. Hospitality is usually offered in exchange for a payment or service.
 
 #### The Sale of Hermetic Books
 
@@ -356,7 +356,7 @@ House Tremere is eager to sell, or buy, copies of excellent books. A difficulty 
 
 ## Learning Supernatural Abilities
 
-Only characters with The Gift (see [page 63](<Ars Magica DE - 4. Virtues and Flaws.md#the-gift>)) can learn Supernatural Abilities associated with the Magic realm using these rules, but the teacher need not have The Gift (although, obviously, he must have the Supernatural Ability). Other realms have different conditions, described in the appropriate Realms of Power sourcebook.
+Only characters with The Gift (see [page 63](<Ars Magica DE - 04. Virtues and Flaws.md#the-gift>)) can learn Supernatural Abilities associated with the Magic realm using these rules, but the teacher need not have The Gift (although, obviously, he must have the Supernatural Ability). Other realms have different conditions, described in the appropriate Realms of Power sourcebook.
 
 Supernatural abilities can only be taught if they have an associated Ability, in game terms. Thus, Shapeshifter can be taught, but Unaging cannot. The initial teaching in a supernatural ability must be by Training or Teaching, as described earlier. Once the character knows the Ability, it may be advanced normally.
 
@@ -364,7 +364,7 @@ In order to learn a supernatural ability, the student must reach a score of at l
 
 **SUPERNATURAL ABILITY SOURCE QUALITY: Normal Source Quality – Total Score in Supernatural Abilities**
 
-If the student has had the Hermetic Arts opened (see [page 206](<Ars Magica DE - 7. Hermetic Magic.md#the-hermetic-arts>)), he must subtract 15 or the sum of all his Art scores, whichever is higher, from the Source Quality.
+If the student has had the Hermetic Arts opened (see [page 206](<Ars Magica DE - 07. Hermetic Magic.md#the-hermetic-arts>)), he must subtract 15 or the sum of all his Art scores, whichever is higher, from the Source Quality.
 
 *For example, a character has Shapeshifter 3, Dowsing 4, and The Gift. He wants to learn Animal Ken. He must find a character who is willing to teach it to him, despite his Gift, and who can manage a Source Quality of at least 12. If the character has also been opened to the Hermetic Arts, but still has scores of 0 in all of them, he needs to find a teacher who can manage a Source Quality of 27 (15 for the Arts, +3 for Shapeshifter, +4 for Dowsing, +5 for the number of experience points he needs to gain). This is effectively impossible.*
 
@@ -469,7 +469,7 @@ If several characters issue an animal with contradictory commands, it will prefe
 
 > ### Animal Ken
 >
-> A character with Animal Ken ([page 159](<Ars Magica DE - 5. Abilities.md#animal-ken>)) can speak to animals, including some magical beasts. Such a character can attempt to reason with any animal (regardless of whether it is tamed or not) using his Animal Handling Ability, and so convince it to perform a task. This does not result in a tamed animal, merely an animal that has decided to obey a particular instruction. If an animal is tamed, the character may issue more complex commands to it. The animal is no more likely to obey these commands, but it may allow the character to better utilize an animal as a scout or informant. Another important use of Animal Ken is to convince an animal that is balking at performing some dangerous task that the task is not dangerous after all.
+> A character with Animal Ken ([page 159](<Ars Magica DE - 05. Abilities.md#animal-ken>)) can speak to animals, including some magical beasts. Such a character can attempt to reason with any animal (regardless of whether it is tamed or not) using his Animal Handling Ability, and so convince it to perform a task. This does not result in a tamed animal, merely an animal that has decided to obey a particular instruction. If an animal is tamed, the character may issue more complex commands to it. The animal is no more likely to obey these commands, but it may allow the character to better utilize an animal as a scout or informant. Another important use of Animal Ken is to convince an animal that is balking at performing some dangerous task that the task is not dangerous after all.
 
 ## Changing Reputations
 
@@ -671,7 +671,7 @@ Characters begin aging in the Winter after they turn 35. Every year, a character
 
 As a high roll generally indicates more serious effects of age, a high Longevity Ritual modifier and a high Living Conditions modifier both indicate longer life.
 
-A Longevity Ritual is effective until the character suffers a crisis. When the crisis occurs, the ritual assures that the character survives, but its power is spent, and the focal ritual must be performed again (see [page 261](<Ars Magica DE - 8. Laboratory.md#page-261>)).
+A Longevity Ritual is effective until the character suffers a crisis. When the crisis occurs, the ritual assures that the character survives, but its power is spent, and the focal ritual must be performed again (see [page 261](<Ars Magica DE - 08. Laboratory.md#page-261>)).
 
 A character under the influence of a Longevity Ritual should roll on the table no matter what his age, but treats all rolls of 10 or more as rolls of 9 until he reaches the age of 35. His apparent age may be younger than his actual age, but he is at no risk of actually aging before any other characters. At the player's and storyguide's discretion, this may also apply to characters with modifiers to the aging roll from other sources.
 

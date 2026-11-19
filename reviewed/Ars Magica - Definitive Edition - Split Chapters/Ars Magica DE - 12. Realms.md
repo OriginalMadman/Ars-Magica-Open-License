@@ -91,7 +91,7 @@ Characters with supernatural abilities other than Hermetic magic also have Penet
 
 **CHARACTER PENETRATION: Effect Roll – Ease Factor + Penetration Bonus + Aura Modifier**
 
-The Penetration bonus is calculated in the same way as for Hermetic magi (see Penetration, [page 215](<Ars Magica DE - 7. Hermetic Magic.md#page-215>)). Thus, creatures and characters without the Penetration Ability have a Penetration bonus of zero.
+The Penetration bonus is calculated in the same way as for Hermetic magi (see Penetration, [page 215](<Ars Magica DE - 07. Hermetic Magic.md#page-215>)). Thus, creatures and characters without the Penetration Ability have a Penetration bonus of zero.
 
 <!-- p. 413 --><a id="page-413"></a>
 
@@ -101,7 +101,7 @@ The Magic realm is often characterized as 'the way the world could be'. Magical 
 
 ### Magical Creatures
 
-Many magical creatures look like particularly fine specimens of mundane things, and although they may have surprising abilities, such as intelligence or the ability to move, these abilities are always suitable to the kind of creature in question. The abilities of magical creatures are explicable, at least after the event, in terms of the abilities of the mundane version, although those abilities may be somewhat hidden. For example, goat's blood can dissolve diamonds, but this ability is only obvious in magical goats. Magical animals, so-called beasts of virtue (see *Realms of Power: Magic*, [pages 55–68](<Ars Magica DE - 3. Characters.md#page-55>)), are the most obvious magical creatures, but there are also magical plants, most notably among the trees, and elementals, described in the Bestiary chapter. On the whole, magical animals tend to be more intelligent and have more personality than magical plants, which in turn are superior to elementals in those respects. Some magical creatures are shapechangers, and some of these can take on human form. The human form is almost never the natural form of a shapechanger who belongs to the Magic realm, however. The shapechangers are wolves who can become human, and so on.
+Many magical creatures look like particularly fine specimens of mundane things, and although they may have surprising abilities, such as intelligence or the ability to move, these abilities are always suitable to the kind of creature in question. The abilities of magical creatures are explicable, at least after the event, in terms of the abilities of the mundane version, although those abilities may be somewhat hidden. For example, goat's blood can dissolve diamonds, but this ability is only obvious in magical goats. Magical animals, so-called beasts of virtue (see *Realms of Power: Magic*, [pages 55–68](<Ars Magica DE - 03. Characters.md#page-55>)), are the most obvious magical creatures, but there are also magical plants, most notably among the trees, and elementals, described in the Bestiary chapter. On the whole, magical animals tend to be more intelligent and have more personality than magical plants, which in turn are superior to elementals in those respects. Some magical creatures are shapechangers, and some of these can take on human form. The human form is almost never the natural form of a shapechanger who belongs to the Magic realm, however. The shapechangers are wolves who can become human, and so on.
 
 The Magic realm also encompasses a wide range of spirits. Some are spirits of natural substances, such as water and fire. These are generally classed with elementals, although there is a difference in that elementals are essentially physical, while spirits of the elements are essentially spiritual. Since spirits of the elements can generally create the physical element, this distinction is only of importance to Hermetic magi deciding which Form to use to affect a creature. Other magic spirits include spirits of natural places and natural phenomena, such as the spirit of a mountain or of storms. Many powerful magical spirits can take on any form they wish, including human form, and some have powers based on several aspects of the Magic realm. These spirits are normally completely indifferent to human beings, but some enter into mutually profitable arrangements, particularly with humans who are affiliated to the Magic realm in the first place.
 
@@ -171,7 +171,7 @@ Infernal areas are among the most vile places in the world. Growth of natural pl
 
 Travelers in or near Infernal areas often find themselves in foul moods. Outlaws on nearby roads act in particularly harsh fashion—the effects of demonic influence in high concentration. Old wounds, especially those received through malevolence, hurt anew. Old conflicts and personality clashes are remembered again, and possibly re-enacted. Of greater concern to magi, Infernal auras interfere with the use of magic.
 
-Infernal auras can be detected by magic, unless an infernal creature is actively hiding their existence. They also tend to reduce in strength during the day, and particularly on holy days, and to increase in power at night. Infernal auras are particularly strong on Easter Saturday, the day between the Crucifixion and the Resurrection. More detail can be found in *Realms of Power: The Infernal*, [pages 10–17](<Ars Magica DE - 2. The Order of Hermes.md#page-10>).
+Infernal auras can be detected by magic, unless an infernal creature is actively hiding their existence. They also tend to reduce in strength during the day, and particularly on holy days, and to increase in power at night. Infernal auras are particularly strong on Easter Saturday, the day between the Crucifixion and the Resurrection. More detail can be found in *Realms of Power: The Infernal*, [pages 10–17](<Ars Magica DE - 02. The Order of Hermes.md#page-10>).
 
 #### Sources of Infernal Auras
 
@@ -211,7 +211,7 @@ Sites of Faerie aura take as many forms as their inhabitants. They might contain
 
 Regardless of the danger, magi often risk entering Faerie areas in pursuit of magical power. They are places rich in vis — reason enough to challenge many perils, particularly for a magus deprived of magical resources.
 
-Faerie auras tend to vary in strength depending on how closely the surrounding world matches the nature of the faeries within. Thus, a Faerie aura inhabited by beautiful faeries of light would reduce in power during winter and at night, and reach its full power on bright summer days. An aura inhabited by faerie miners would lose strength if there were no miners nearby, but return to full power if a mine was opened. More details on Faerie auras can be found in *Realms of Power: Faerie*, [pages 14–18](<Ars Magica DE - 2. The Order of Hermes.md#page-14>).
+Faerie auras tend to vary in strength depending on how closely the surrounding world matches the nature of the faeries within. Thus, a Faerie aura inhabited by beautiful faeries of light would reduce in power during winter and at night, and reach its full power on bright summer days. An aura inhabited by faerie miners would lose strength if there were no miners nearby, but return to full power if a mine was opened. More details on Faerie auras can be found in *Realms of Power: Faerie*, [pages 14–18](<Ars Magica DE - 02. The Order of Hermes.md#page-14>).
 
 #### Sources of Faerie Auras
 
@@ -239,7 +239,7 @@ Regardless of opinions, it cannot be denied that the Divine realm has an influen
 
 At its best, the Dominion allows the human soul to express its deepest beauty. At its worst, the Church is a repressive force that treads on liberal thought. It makes sense, then, that it is the Church which is the driving force behind the Crusades while it produces the most delightful music, the most enchanting art, and the most transcendent philosophy.
 
-The power of the Church and the boundaries it imposes on the Order of Hermes cause some magi to scorn the Divine. Some magi find pagan religions, based as they are on Faerie or Magical power, more congenial, while others simply have as little as possible to do with religion. Nevertheless, many magi are Christians, with a scattering of Jews and a significant number of Muslims in those tribunals which extend over Islamic lands. Some magi even have True Faith (see [page 113](<Ars Magica DE - 4. Virtues and Flaws.md#true-faith>)), which does not seem to hinder their magic.
+The power of the Church and the boundaries it imposes on the Order of Hermes cause some magi to scorn the Divine. Some magi find pagan religions, based as they are on Faerie or Magical power, more congenial, while others simply have as little as possible to do with religion. Nevertheless, many magi are Christians, with a scattering of Jews and a significant number of Muslims in those tribunals which extend over Islamic lands. Some magi even have True Faith (see [page 113](<Ars Magica DE - 04. Virtues and Flaws.md#true-faith>)), which does not seem to hinder their magic.
 
 More detail about the supernatural aspects of the Divine can be found in *Realms of Power: The Divine Revised Edition* along with information about the three most important Divine religions in Mythic Europe: Christianity, Islam, and Judaism.
 
@@ -259,7 +259,7 @@ Higher Divine auras are very limited in extent. The chapel holding the relics of
 
 <!-- p. 419 --><a id="page-419"></a>
 
-Particular Divine auras may depart from these guidelines, as God makes them where and how He wants. However, the guidelines given here are the ones that He normally seems to follow. While He could withdraw all of the Divine aura from a cathedral, He almost never does so. For more details on Divine auras, see *Realms of Power: The Divine Revised Edition*, [pages 10–17](<Ars Magica DE - 2. The Order of Hermes.md#page-10>).
+Particular Divine auras may depart from these guidelines, as God makes them where and how He wants. However, the guidelines given here are the ones that He normally seems to follow. While He could withdraw all of the Divine aura from a cathedral, He almost never does so. For more details on Divine auras, see *Realms of Power: The Divine Revised Edition*, [pages 10–17](<Ars Magica DE - 02. The Order of Hermes.md#page-10>).
 
 ### True Faith
 
@@ -275,7 +275,7 @@ A character with Faith Points but no True Faith Score does not benefit from Magi
 
 Each dawn, you regain a number of Faith Points up to your True Faith Score, although if you already have more Faith Points than your True Faith Score, you do not gain additional Points.
 
-For more details on True Faith, see *Realms of Power: The Divine Revised Edition*, [page 56](<Ars Magica DE - 3. Characters.md#page-56>).
+For more details on True Faith, see *Realms of Power: The Divine Revised Edition*, [page 56](<Ars Magica DE - 03. Characters.md#page-56>).
 
 ### Relics
 
@@ -287,7 +287,7 @@ Relics are physical objects that, in some way, house part of the power of the Di
 
 <!-- p. 420 --><a id="page-420"></a>
 
-In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here; more can be found on [pages 88 and 89](<Ars Magica DE - 4. Virtues and Flaws.md#page-88>) of *Realms of Power: The Divine Revised Edition*.
+In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here; more can be found on [pages 88 and 89](<Ars Magica DE - 04. Virtues and Flaws.md#page-88>) of *Realms of Power: The Divine Revised Edition*.
 
 > #### Sample Relic Powers
 >
@@ -375,7 +375,7 @@ Hermetic magi would love to be able to create regiones at will, but they have ye
 
 ## Vis Sources
 
-Raw vis (see [page 212](<Ars Magica DE - 7. Hermetic Magic.md#raw-vis>)) can often be found in supernatural auras. Sometimes it is found in the bodies of creatures with Might, sometimes it is found in plants, or rocks, or even in the breeze. Often, once the vis has been gathered, it does not get replaced naturally. Sometimes, however, it is possible to take a certain number of pawns of vis from a place every year. These places are known as vis sources, and they are among a covenant's most important assets.
+Raw vis (see [page 212](<Ars Magica DE - 07. Hermetic Magic.md#raw-vis>)) can often be found in supernatural auras. Sometimes it is found in the bodies of creatures with Might, sometimes it is found in plants, or rocks, or even in the breeze. Often, once the vis has been gathered, it does not get replaced naturally. Sometimes, however, it is possible to take a certain number of pawns of vis from a place every year. These places are known as vis sources, and they are among a covenant's most important assets.
 
 A vis source can produce vis associated with any Art, but a single vis source normally produces a single kind of vis. Vis sources can also produce any amount of vis, although sources providing more than six pawns per year are rare. Some vis sources produce a varying number of pawns each year, but normally somewhere between one and ten.
 
@@ -396,8 +396,8 @@ The vis produced by a vis source needs to be gathered. Sometimes this is a simpl
 
 > ### Tainted Vis
 >
-> Vis found in non-Magic auras may be tainted by its aura of origin. Faerie vis is generally safe for magi to use, although sometimes it may have strange side effects. It does not, however, tend to distort spells or have bad effects on the magi using it. More details can be found in *Realms of Power: Faerie*, [pages 18–19](<Ars Magica DE - 2. The Order of Hermes.md#page-18>).
+> Vis found in non-Magic auras may be tainted by its aura of origin. Faerie vis is generally safe for magi to use, although sometimes it may have strange side effects. It does not, however, tend to distort spells or have bad effects on the magi using it. More details can be found in *Realms of Power: Faerie*, [pages 18–19](<Ars Magica DE - 02. The Order of Hermes.md#page-18>).
 >
 > Divine vis makes most magi nervous. First, gathering it often has the potential to annoy the Church. Second, using it in magic seems somehow sacrilegious to many magi, who'd rather not invite Divine retribution.
 >
-> Infernal vis is avoided by all sensible magi. It tends to twist any project to evil ends, and slowly corrupt a magus's personality as he works with it. At the very least, using Infernally tainted vis adds twice as many botch dice as usual to spellcasting, and requires a roll on the experimental results chart for an enchanted item. Magi should be very wary of discoveries made while working with Infernal vis. For information on just how bad it can get, see *Realms of Power: The Infernal*, [pages 18–19](<Ars Magica DE - 2. The Order of Hermes.md#page-18>).
+> Infernal vis is avoided by all sensible magi. It tends to twist any project to evil ends, and slowly corrupt a magus's personality as he works with it. At the very least, using Infernally tainted vis adds twice as many botch dice as usual to spellcasting, and requires a roll on the experimental results chart for an enchanted item. Magi should be very wary of discoveries made while working with Infernal vis. For information on just how bad it can get, see *Realms of Power: The Infernal*, [pages 18–19](<Ars Magica DE - 02. The Order of Hermes.md#page-18>).

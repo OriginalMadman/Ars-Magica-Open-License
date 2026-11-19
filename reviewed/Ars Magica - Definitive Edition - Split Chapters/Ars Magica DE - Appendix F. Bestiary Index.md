@@ -27,7 +27,7 @@
 | Fimus, Warrior Demon | Infernal | Terram | 10 | [484](<Ars Magica DE - 13. Bestiary.md#fimus-warrior-demon>) |
 | Fire Elemental, A | Magic | Ignem | 15 | [456](<Ars Magica DE - 13. Bestiary.md#a-fire-elemental>) |
 | Gabriel, the Archangel of Prophecy | Divine | Mentem | 100 | [455](<Ars Magica DE - 13. Bestiary.md#gabriel-the-archangel-of-prophecy>) |
-| Ghostly Warder | Magic | Mentem | 10 | [489](<Ars Magica DE - 4. Virtues and Flaws.md#ghostly-warder>) |
+| Ghostly Warder | Magic | Mentem | 10 | [489](<Ars Magica DE - 04. Virtues and Flaws.md#ghostly-warder>) |
 | Great Lezi | Faerie | Herbam | 40 | [473](<Ars Magica DE - 13. Bestiary.md#great-lezi>) |
 | Gydryty-kom the Giant | Magic | Auram | 40 | [447](<Ars Magica DE - 13. Bestiary.md#gydryty-kom-the-giant>) |
 | Hipta the Nurse | Magic | Animal | 15 | [447](<Ars Magica DE - 13. Bestiary.md#hipta-the-nurse>) |

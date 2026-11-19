@@ -29,24 +29,24 @@ While this extracted text is complete and provided completely free under the Ope
 ### Markdown Version Quick Convenience Links
 
 [Table of Contents](#table-of-contents)<br>
-[Detailed Character Creation](<Ars Magica DE - 3. Characters.md#detailed-character-creation>)<br>
-[List of Virtues](<Ars Magica DE - 4. Virtues and Flaws.md#list-of-virtues>)<br>
-[List of Flaws](<Ars Magica DE - 4. Virtues and Flaws.md#list-of-flaws>)<br>
-[Ability List](<Ars Magica DE - 5. Abilities.md#ability-list>)<br>
+[Detailed Character Creation](<Ars Magica DE - 03. Characters.md#detailed-character-creation>)<br>
+[List of Virtues](<Ars Magica DE - 04. Virtues and Flaws.md#list-of-virtues>)<br>
+[List of Flaws](<Ars Magica DE - 04. Virtues and Flaws.md#list-of-flaws>)<br>
+[Ability List](<Ars Magica DE - 05. Abilities.md#ability-list>)<br>
 
-[Arcane Experimentation](<Ars Magica DE - 8. Laboratory.md#arcane-experimentation>)<br>
-[Spell Design](<Ars Magica DE - 9. Spells.md#spell-design>)<br>
+[Arcane Experimentation](<Ars Magica DE - 08. Laboratory.md#arcane-experimentation>)<br>
+[Spell Design](<Ars Magica DE - 09. Spells.md#spell-design>)<br>
 
-[Animal Spells](<Ars Magica DE - 9. Spells.md#animal-spells>)<br>
-[Aquam Spells](<Ars Magica DE - 9. Spells.md#aquam-spells>)<br>
-[Auram Spells](<Ars Magica DE - 9. Spells.md#auram-spells>)<br>
-[Corpus Spells](<Ars Magica DE - 9. Spells.md#corpus-spells>)<br>
-[Herbam Spells](<Ars Magica DE - 9. Spells.md#herbam-spells>)<br>
-[Ignem Spells](<Ars Magica DE - 9. Spells.md#ignem-spells>)<br>
-[Imaginem Spells](<Ars Magica DE - 9. Spells.md#imaginem-spells>)<br>
-[Mentem Spells](<Ars Magica DE - 9. Spells.md#mentem-spells>)<br>
-[Terram Spells](<Ars Magica DE - 9. Spells.md#terram-spells>)<br>
-[Vim Spells](<Ars Magica DE - 9. Spells.md#vim-spells>)<br>
+[Animal Spells](<Ars Magica DE - 09. Spells.md#animal-spells>)<br>
+[Aquam Spells](<Ars Magica DE - 09. Spells.md#aquam-spells>)<br>
+[Auram Spells](<Ars Magica DE - 09. Spells.md#auram-spells>)<br>
+[Corpus Spells](<Ars Magica DE - 09. Spells.md#corpus-spells>)<br>
+[Herbam Spells](<Ars Magica DE - 09. Spells.md#herbam-spells>)<br>
+[Ignem Spells](<Ars Magica DE - 09. Spells.md#ignem-spells>)<br>
+[Imaginem Spells](<Ars Magica DE - 09. Spells.md#imaginem-spells>)<br>
+[Mentem Spells](<Ars Magica DE - 09. Spells.md#mentem-spells>)<br>
+[Terram Spells](<Ars Magica DE - 09. Spells.md#terram-spells>)<br>
+[Vim Spells](<Ars Magica DE - 09. Spells.md#vim-spells>)<br>
 
 [Reference Guide](<Ars Magica DE - Appendix D. Reference Guide.md#reference-guide>)<br>
 [Combat Rules Reference](<Ars Magica DE - Appendix D. Reference Guide.md#combat-rules>)<br>
@@ -58,7 +58,9 @@ While this extracted text is complete and provided completely free under the Ope
 [Bestiary Index](<Ars Magica DE - Appendix F. Bestiary Index.md#bestiary-index>)<br>
 [Traditional Index](<Ars Magica DE - Appendix G. Traditional Index.md#traditional-index>)<br>
 
-*Page numbers: every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N (for example [page 222](<Ars Magica DE - 7. Hermetic Magic.md#page-222>)). Page references in the text link to the named section where one matches, otherwise to the page.*
+*Page numbers: every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N (for example [page 222](<Ars Magica DE - 07. Hermetic Magic.md#page-222>)). Page references in the text link to the named section where one matches, otherwise to the page.*
+
+*Obsidian: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. Install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 ## Issues from Original
 
@@ -457,15 +459,15 @@ And I love that you now have this amazing edition in your hands. Enjoy!
 **Memorials**<br>
 **Preface**<br>
 **Table of Illustrations**<br>
-[**Chapter 1: Introduction**](<Ars Magica DE - 1. Introduction.md#chapter-1-introduction>)<br>
-[**Chapter 2: The Order of Hermes**](<Ars Magica DE - 2. The Order of Hermes.md#chapter-2-the-order-of-hermes>)<br>
-[**Chapter 3: Characters**](<Ars Magica DE - 3. Characters.md#chapter-3-characters>)<br>
-[**Chapter 4: Virtues and Flaws**](<Ars Magica DE - 4. Virtues and Flaws.md#chapter-4-virtues-and-flaws>)<br>
-[**Chapter 5: Abilities**](<Ars Magica DE - 5. Abilities.md#chapter-5-abilities>)<br>
-[**Chapter 6: Covenants**](<Ars Magica DE - 6. Covenants.md#chapter-6-covenants>)<br>
-[**Chapter 7: Hermetic Magic**](<Ars Magica DE - 7. Hermetic Magic.md#chapter-7-hermetic-magic>)<br>
-[**Chapter 8: Laboratory**](<Ars Magica DE - 8. Laboratory.md#chapter-8-laboratory>)<br>
-[**Chapter 9: Spells**](<Ars Magica DE - 9. Spells.md#chapter-9-spells>)<br>
+[**Chapter 1: Introduction**](<Ars Magica DE - 01. Introduction.md#chapter-1-introduction>)<br>
+[**Chapter 2: The Order of Hermes**](<Ars Magica DE - 02. The Order of Hermes.md#chapter-2-the-order-of-hermes>)<br>
+[**Chapter 3: Characters**](<Ars Magica DE - 03. Characters.md#chapter-3-characters>)<br>
+[**Chapter 4: Virtues and Flaws**](<Ars Magica DE - 04. Virtues and Flaws.md#chapter-4-virtues-and-flaws>)<br>
+[**Chapter 5: Abilities**](<Ars Magica DE - 05. Abilities.md#chapter-5-abilities>)<br>
+[**Chapter 6: Covenants**](<Ars Magica DE - 06. Covenants.md#chapter-6-covenants>)<br>
+[**Chapter 7: Hermetic Magic**](<Ars Magica DE - 07. Hermetic Magic.md#chapter-7-hermetic-magic>)<br>
+[**Chapter 8: Laboratory**](<Ars Magica DE - 08. Laboratory.md#chapter-8-laboratory>)<br>
+[**Chapter 9: Spells**](<Ars Magica DE - 09. Spells.md#chapter-9-spells>)<br>
 [**Chapter 10: Long-Term Events**](<Ars Magica DE - 10. Long-Term Events.md#chapter-10-long-term-events>)<br>
 [**Chapter 11: Obstacles**](<Ars Magica DE - 11. Obstacles.md#chapter-11-obstacles>)<br>
 [**Chapter 12: Realms**](<Ars Magica DE - 12. Realms.md#chapter-12-realms>)<br>

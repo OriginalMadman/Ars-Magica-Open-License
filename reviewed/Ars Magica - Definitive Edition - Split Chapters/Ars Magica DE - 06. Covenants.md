@@ -12,7 +12,7 @@ Although the covenant concept has an influence, it isn't all-defining. Many stor
 
 ## Aegis of the Hearth
 
-The spell *Aegis of the Hearth* ([page 370](<Ars Magica DE - 9. Spells.md#aegis-of-the-hearth>)) is one of the most important spells in the Order of Hermes. While Parma Magica gives individuals magic resistance, *Aegis of the Hearth* (often just 'the Aegis') gives it to a whole covenant. The number of Hermetic covenants with no Aegis at all can most likely be counted on the fingers of one hand, and most covenants want to have the strongest Aegis that they can manage. Thus, if none of the player characters start knowing the spell, you should include it in the covenant library, probably as both a Lab Text and a casting tablet (see later), and make learning it a high priority for someone. Casting the Aegis from a casting tablet is possible, but it is risky in the long-term. Note that if the covenant includes magi who are older than the player characters, the player characters need not be able to cast it.
+The spell *Aegis of the Hearth* ([page 370](<Ars Magica DE - 09. Spells.md#aegis-of-the-hearth>)) is one of the most important spells in the Order of Hermes. While Parma Magica gives individuals magic resistance, *Aegis of the Hearth* (often just 'the Aegis') gives it to a whole covenant. The number of Hermetic covenants with no Aegis at all can most likely be counted on the fingers of one hand, and most covenants want to have the strongest Aegis that they can manage. Thus, if none of the player characters start knowing the spell, you should include it in the covenant library, probably as both a Lab Text and a casting tablet (see later), and make learning it a high priority for someone. Casting the Aegis from a casting tablet is possible, but it is risky in the long-term. Note that if the covenant includes magi who are older than the player characters, the player characters need not be able to cast it.
 
 <!-- p. 174 --><a id="page-174"></a>
 
@@ -233,7 +233,7 @@ The first choice is the level of power within the covenant that is accessible to
 | High        | 1250–2500    | No limit      | 50 years    |
 | Legendary   | 2500+        | No limit      | 100 years   |
 
-*Maximum Level:* The highest level of a single Lab Text or a single effect in an enchanted device. In the case of a device, the level includes all modifications (see Magical Enchantments on [page 252](<Ars Magica DE - 8. Laboratory.md#enchantments>) for more details).
+*Maximum Level:* The highest level of a single Lab Text or a single effect in an enchanted device. In the case of a device, the level includes all modifications (see Magical Enchantments on [page 252](<Ars Magica DE - 08. Laboratory.md#enchantments>) for more details).
 
 *Minimum Age:* The minimum number of years that have passed since the foundation of the covenant.
 
@@ -241,7 +241,7 @@ Note that this is the power that the player magi can access at will. An autumn c
 
 ### Resources
 
-Resources are very important to magi, as they determine how quickly they can learn and improve their Arts and other magical abilities. Books are described in the Long-Term Events chapter ([page 379](<Ars Magica DE - 10. Long-Term Events.md#books-1>)), Lab Texts and Casting Tablets in the Laboratory chapter ([page 262](<Ars Magica DE - 8. Laboratory.md#laboratory-texts>)), and vis and its uses in the Hermetic Magic, Laboratory, and Long-Term Events chapters. Enchanted items are described in the Laboratory chapter ([page 274](<Ars Magica DE - 8. Laboratory.md#page-274>)).
+Resources are very important to magi, as they determine how quickly they can learn and improve their Arts and other magical abilities. Books are described in the Long-Term Events chapter ([page 379](<Ars Magica DE - 10. Long-Term Events.md#books-1>)), Lab Texts and Casting Tablets in the Laboratory chapter ([page 262](<Ars Magica DE - 08. Laboratory.md#laboratory-texts>)), and vis and its uses in the Hermetic Magic, Laboratory, and Long-Term Events chapters. Enchanted items are described in the Laboratory chapter ([page 274](<Ars Magica DE - 08. Laboratory.md#page-274>)).
 
 ### Library
 
@@ -281,7 +281,7 @@ Five levels of Lab Texts cost one Build Point. See the power level table on [pag
 
 ### Casting Tablets
 
-Casting Tablets allow magi to cast Formulaic or Ritual spells that they do not know (see [page 263](<Ars Magica DE - 8. Laboratory.md#casting-tablets>)). Not all covenants have such things, and those that do normally have them for spells that they do not need very often. Some covenants cast their Aegis of the Hearth from a Casting Tablet, but that is rather risky.
+Casting Tablets allow magi to cast Formulaic or Ritual spells that they do not know (see [page 263](<Ars Magica DE - 08. Laboratory.md#casting-tablets>)). Not all covenants have such things, and those that do normally have them for spells that they do not need very often. Some covenants cast their Aegis of the Hearth from a Casting Tablet, but that is rather risky.
 
 Five levels of Casting Tablets cost two Build Points, and use the same level limits as Lab Texts.
 
@@ -289,7 +289,7 @@ Five levels of Casting Tablets cost two Build Points, and use the same level lim
 
 ### Vis
 
-Vis sources, which provide vis every year, are extremely valuable resources for a covenant. Vis stocks are also useful, and most covenants try to have some in store for emergencies. See [page 212](<Ars Magica DE - 7. Hermetic Magic.md#page-212>) for more information on raw vis, and [page 422](<Ars Magica DE - 12. Realms.md#page-422>) for information on vis sources.
+Vis sources, which provide vis every year, are extremely valuable resources for a covenant. Vis stocks are also useful, and most covenants try to have some in store for emergencies. See [page 212](<Ars Magica DE - 07. Hermetic Magic.md#page-212>) for more information on raw vis, and [page 422](<Ars Magica DE - 12. Realms.md#page-422>) for information on vis sources.
 
 *Vis Sources:* Vis sources cost five Build Points for every pawn of vis available each year.
 
@@ -309,19 +309,19 @@ An enchanted item costs two Build Points for every five levels of effect, includ
 
 Specialists are non-magus NPC members of the covenant with useful skills. They are defined only by the abilities they use to serve the covenant, rather than by a full character sheet, and can include guards as well as teachers and craftsmen. Characters created as grogs or companions need not be paid for with Build Points.
 
-**Teachers:** A teacher bought with Build Points is employed by the covenant, and available to teach as directed by the magi two seasons per year. The cost is the sum of his Communication and Teaching total and his highest score in the Abilities he will teach. Teachers cannot have The Gift, and thus cannot teach the Hermetic Arts. They may have other Supernatural Abilities, however. Their Abilities are limited by their age, as for newly created characters (see [page 48](<Ars Magica DE - 3. Characters.md#abilities-1>)).
+**Teachers:** A teacher bought with Build Points is employed by the covenant, and available to teach as directed by the magi two seasons per year. The cost is the sum of his Communication and Teaching total and his highest score in the Abilities he will teach. Teachers cannot have The Gift, and thus cannot teach the Hermetic Arts. They may have other Supernatural Abilities, however. Their Abilities are limited by their age, as for newly created characters (see [page 48](<Ars Magica DE - 03. Characters.md#abilities-1>)).
 
 <!-- p. 181 --><a id="page-181"></a>
 
 **TEACHER COST: Communication + Teaching + Highest Ability Score**
 
-**SCORE LIMITS: By age (see [page 48](<Ars Magica DE - 3. Characters.md#page-48>))**
+**SCORE LIMITS: By age (see [page 48](<Ars Magica DE - 03. Characters.md#page-48>))**
 
 *Others:* Other kinds of specialist are less expensive, costing a number of Build Points equal to their highest score in the Ability they use to serve the covenant. Their Ability scores are initially limited by age, as for teachers.
 
 **SPECIALIST COST: Highest Ability Score**
 
-**SCORE LIMIT: By age (see [page 48](<Ars Magica DE - 3. Characters.md#page-48>))**
+**SCORE LIMIT: By age (see [page 48](<Ars Magica DE - 03. Characters.md#page-48>))**
 
 ### Hooks
 
@@ -409,7 +409,7 @@ The powerful covenant of Aedes Mercurii in the Provençal Tribunal has two sites
 
 **Important Building:** The covenant has an additional large and important building, not mentioned in another Boon. This Boon may be taken multiple times, indicating a new structure each time. These buildings do not normally require the Castle Hook.
 
-**Prestige:** The covenant, and its members, are well-regarded. This may be as a result of previous actions, such as defeating a monster, or because of continuing features of the covenant, such as a superb library. The covenant has a Reputation score of 3 (see [page 28](<Ars Magica DE - 3. Characters.md#reputations>)). This Boon may be taken multiple times, with the prestige applying to a different group each time.
+**Prestige:** The covenant, and its members, are well-regarded. This may be as a result of previous actions, such as defeating a monster, or because of continuing features of the covenant, such as a superb library. The covenant has a Reputation score of 3 (see [page 28](<Ars Magica DE - 03. Characters.md#reputations>)). This Boon may be taken multiple times, with the prestige applying to a different group each time.
 
 **Regio:** The covenant is located in a Magical regio which can be entered in several ways. The covenant may take measures to limit entry into the regio, but these are never perfect. The lost covenant of Val Negra, in the Provençal Tribunal, was one of the first covenants of the Order, founded by Flambeau himself, but it suffered greatly in the Schism War and now even its precise location is lost. It is generally believed to have been in a regio, and to have been lost because people forgot how to enter it (*Faith & Flame*, Chapter 9).
 
@@ -453,7 +453,7 @@ This Boon includes one of the minor keep Boons given earlier (shell or tower).
 
 The covenant of Montverte in the Normandy Tribunal occupies such a castle, and uses it as a base for raiding, as permitted by the Peripheral Code of that tribunal. They share the castle with its mundane lord, an arrangement that draws great suspicion. So far, however, the magi have managed to convince the Tribunal that they do not interfere in the lord's mundane affairs ([*The Lion and the Lily*, page 58](<../Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#magi>)).
 
-**Prestige:** The covenant is famous. Its members are well-treated, as far as the Gift permits, and people are reluctant to cross the covenant openly. Within the Order, this would apply to domus magnae, or to the oldest and most powerful covenants. A covenant that repeatedly aided and defended its mundane neighbors could get such a reputation in the mundane world, although that level of activity would draw the attention of the Quaesitores. The covenant has a Reputation score of 9 (see [page 28](<Ars Magica DE - 3. Characters.md#reputations>)). This Boon may be taken several times, with the prestige applying to a different group each time.
+**Prestige:** The covenant is famous. Its members are well-treated, as far as the Gift permits, and people are reluctant to cross the covenant openly. Within the Order, this would apply to domus magnae, or to the oldest and most powerful covenants. A covenant that repeatedly aided and defended its mundane neighbors could get such a reputation in the mundane world, although that level of activity would draw the attention of the Quaesitores. The covenant has a Reputation score of 9 (see [page 28](<Ars Magica DE - 03. Characters.md#reputations>)). This Boon may be taken several times, with the prestige applying to a different group each time.
 
 **Regio:** The covenant is located in a Magical regio which can only be entered if people are guided by a native. The oppidum of Tablinum, in the Transylvanian Tribunal, is a storehouse of information and artefacts under the control of House Tremere. It exists in numerous regiones, which can only be entered by the use of spells, all of which require the possession of an Arcane Connection to the regio in question. Fortunately, the head of the oppidum, known as the curator (currently Nestor of Tremere) has a collection of these Arcane Connections ([*Against the Dark*, page 58](<../Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#arcane-connections>)).
 

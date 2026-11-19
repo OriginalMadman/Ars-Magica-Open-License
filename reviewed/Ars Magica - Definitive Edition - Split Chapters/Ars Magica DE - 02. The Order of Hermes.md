@@ -110,7 +110,7 @@ The House is divided into six clans. Clan Arelie is concerned with remembering t
 
 The Prima of the House is Falke, and its domus magna is Crintera, in the Rhine Tribunal, described in [*Guardians of the Forests*, page 92](<../Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#crintera>). The former Primus, Archmagus Urgen, is the chief of Clan Midusulf, and still important in the House, sitting on its council and residing at Crintera.
 
-This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery (see [page 233](<Ars Magica DE - 7. Hermetic Magic.md#bjornaer--the-heartbeast>)).
+This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery (see [page 233](<Ars Magica DE - 07. Hermetic Magic.md#bjornaer--the-heartbeast>)).
 
 ### House Bonisagus
 
@@ -130,7 +130,7 @@ Even among the Mystery Cults, House Criamon is difficult for outsiders to compre
 
 Its Prima is Muscaria, who is resident at the domus magna, the Cave of Twisting Shadows in the Tribunal of the Greater Alps. She is a young and intensely practical maga, little like the common image of her House. Important past magi include Vederis, who wrote the Travels of Fedoso, an allegorical, or at least esoteric, text that is popular in the House and beyond, and Abdkypris, who found important links between the Mysteries of the House and the beliefs of the Sufis, a tradition within Islam. St Nerius (see [*Realms of Power: The Divine "Revised Edition"*, page 91](<../Ars Magica 5e - Realms of Power - The Divine (Revised).md#saint-nerius>)), a magus famous for his Christian devotion and sanctity, is generally said to have been a member of House Criamon.
 
-This House is a Mystery Cult, and the Mystery at the heart of the cult is the Enigma (see [page 235](<Ars Magica DE - 7. Hermetic Magic.md#criamon--the-enigma>)).
+This House is a Mystery Cult, and the Mystery at the heart of the cult is the Enigma (see [page 235](<Ars Magica DE - 07. Hermetic Magic.md#criamon--the-enigma>)).
 
 <!-- p. 14 --><a id="page-14"></a>
 
@@ -170,7 +170,7 @@ The Prima of the House is the Archmaga Bilera, a maga with a long history of fin
 
 ### House Jerbiton
 
-House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift ([page 82](<Ars Magica DE - 4. Virtues and Flaws.md#gentle-gift>)) is particularly common in this House.
+House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift ([page 82](<Ars Magica DE - 04. Virtues and Flaws.md#gentle-gift>)) is particularly common in this House.
 
 Many members of other Houses believe that followers of Jerbiton are too closely bound to the mundane powers to be trusted. On the other hand, Jerbiton magi fear that members of the Order have become isolated from humanity, risking bloody conflict with the mundanes. They try energetically to heal this rift, and pursue aesthetic and Classical knowledge with a passion. The fall of Constantinople to the Fourth Crusade in 1204 has inspired the Primus, Andru, to rally the House to its original values, the defense of civilization, a call that the younger generation of magi have heeded. The domus magna of House Jerbiton is Valnastium, in the Tribunal of the Greater Alps. Two historically important Primi were Petrus, in the tenth century, who advocated life within mundane communities, and Mattieus, in the twelfth, who believed that Jerbiton should live with other magi and serve as their ambassadors to the mundanes. These two philosophies remain strong within the House.
 
@@ -206,7 +206,7 @@ The current Primus is Handri, who lives at the domus magna of Irencillia in the 
 
 Lucian the Scholar is an elder magus who lives in the covenant of Aegea, on the floor of the Aegean Sea in the Theban Tribunal. He is renowned for his deep knowledge of the literary traditions of the Byzantine Empire and ancient Greece, and is rumored to have been Initiated into secrets of story magic (see [*The Sundered Eagle*, page 81](<../Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#the-byzantine-empire>)). Dama, the Praeco of the Provençal Tribunal, was born in 993. She fell into Twilight in 1061, but emerged 19 years later, and remains active today. She is one of only two members of the covenant of Mimizan, and is rumored to lead a Mystery Cult that is not part of House Merinita (see [*Faith & Flame*, pages 29](<../Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md#merinita>) and 64).
 
-House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see [page 236](<Ars Magica DE - 7. Hermetic Magic.md#merinita--faerie-magic>)).
+House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see [page 236](<Ars Magica DE - 07. Hermetic Magic.md#merinita--faerie-magic>)).
 
 ### House Tremere
 
@@ -216,7 +216,7 @@ House Tremere is considered one of the more sensible and stable Houses, providin
 
 House Tremere is a true lineage. All of its members can trace a chain back through their masters and their masters' masters, and so on, back to Tremere the Founder. It is not possible to join the House from outside. Certamen, a safe method of magical dueling between magi, was invented by Tremere the Founder, and his House retains a great deal of interest in it.
 
-In addition, Tremere magi hold their filii's voting sigils (see [page 224](<Ars Magica DE - 7. Hermetic Magic.md#sigils>)) until the filius beats the parens in certamen, or until the parens dies. If a Tremere magus who does not hold his own sigil trains an apprentice, the new magus' sigil is held by the parens of the training magus, assuming that that magus holds his own sigil. If he does not, the sigil is passed back up the chain until it reaches a magus who does hold his own sigil. As a result of this custom, House Tremere's votes are concentrated in a very limited number of hands.
+In addition, Tremere magi hold their filii's voting sigils (see [page 224](<Ars Magica DE - 07. Hermetic Magic.md#sigils>)) until the filius beats the parens in certamen, or until the parens dies. If a Tremere magus who does not hold his own sigil trains an apprentice, the new magus' sigil is held by the parens of the training magus, assuming that that magus holds his own sigil. If he does not, the sigil is passed back up the chain until it reaches a magus who does hold his own sigil. As a result of this custom, House Tremere's votes are concentrated in a very limited number of hands.
 
 The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see [*Against the Dark*, page 21](<../Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md>)). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see [*Against the Dark*, page 30](<../Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#prima>)). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see [*Guardians of the Forests*, page 84](<../Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>)).
 
@@ -244,7 +244,7 @@ Every eighteen years, the House holds a grand Contest, at which enchanted items 
 
 The Primus of House Verditius is chosen by strict primogeniture: the eldest living filius of the previous Primus becomes Primus. There is almost no opposition to this in the House, as most magi do not care who their Primus is, and appreciate a system that means they need not worry about choosing a new one. The current Primus is Stouritus, who does not live at the domus magna of Verdi in the Roman Tribunal. He is a member of the covenant of Ingasia in the Theban Tribunal, and would like it to become the domus magna so that there would be no need for him to move (see [*The Sundered Eagle*, page 86](<../Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#ingasia>)).
 
-House Verditius is a Mystery Cult, and all members are initiated into the Outer Mystery of Verditius Magic (See [page 240](<Ars Magica DE - 7. Hermetic Magic.md#verditius--verditius-magic>)).
+House Verditius is a Mystery Cult, and all members are initiated into the Outer Mystery of Verditius Magic (See [page 240](<Ars Magica DE - 07. Hermetic Magic.md#verditius--verditius-magic>)).
 
 <!-- p. 18 --><a id="page-18"></a>
 
@@ -272,7 +272,7 @@ The Peripheral Code consists of all decisions made in Tribunal since the foundat
 
 In theory, the only penalty for breaking the Code is death. In practice, Tribunals only rarely impose that, instead settling for vis fines, time spent in service, or other lesser punishments. These punishments are backed up by the ultimate sanction, however, and refusing to submit to the punishment imposed by a Tribunal is always taken as reason for the death penalty. This is enforced by declaring a Wizard's March, which casts the offender from the Order and thus deprives him of the Code's protection. This is called 'Renouncing', and magi subject to a Wizard's March are known as 'renounced magi'. Since the criminal's possessions are, by tradition, granted to those who kill him, powerful magi are often interested in helping to hunt down the offenders.
 
-Much more information about the Peripheral Code and its enforcement can be found in *Houses of Hermes: True Lineages*, starting from [page 45](<Ars Magica DE - 3. Characters.md#page-45>).
+Much more information about the Peripheral Code and its enforcement can be found in *Houses of Hermes: True Lineages*, starting from [page 45](<Ars Magica DE - 03. Characters.md#page-45>).
 
 <!-- p. 19 --><a id="page-19"></a>
 

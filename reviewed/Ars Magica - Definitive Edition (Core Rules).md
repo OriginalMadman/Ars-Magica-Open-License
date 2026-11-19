@@ -60,6 +60,8 @@ While this extracted text is complete and provided completely free under the Ope
 
 *Page numbers: every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N (for example [page 222](#page-222)). Page references in the text link to the named section where one matches, otherwise to the page.*
 
+*Obsidian: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. Install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
+
 ## Issues from Original
 
 The following corrections have been applied to the text of this markdown version. They combine the community issues list kept by OriginalMadman, the reports in the Atlas Games forum thread "Errata for ArM5DE" ([https://forum.atlas-games.com/t/errata-for-arm5de/177565](https://forum.atlas-games.com/t/errata-for-arm5de/177565)) and related threads, and the errors found when this edition was re-checked page by page against the PDF. Errors from the earlier text extraction (misread letters such as "Safe Narbor", "no eves" or "Oreatures", dropped words, merged lines) were also corrected; they are not printed errors and are not listed. Page numbers are printed pages.

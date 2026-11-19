@@ -40,7 +40,7 @@ Knowledge of Magic Theory and the magical Arts is important to magi — so much 
 
 ### Fixing Arcane Connections
 
-A magus who has an active Arcane Connection (see [page 219](<Ars Magica DE - 7. Hermetic Magic.md#arcane-connections>)) may make it permanent by spending a season of laboratory work and one pawn of Vim vis. The connection must be active at the beginning of the season, but need not be such as to naturally last for the whole season. This activity must be performed in a laboratory, even though it is not based on a Lab Total.
+A magus who has an active Arcane Connection (see [page 219](<Ars Magica DE - 07. Hermetic Magic.md#arcane-connections>)) may make it permanent by spending a season of laboratory work and one pawn of Vim vis. The connection must be active at the beginning of the season, but need not be such as to naturally last for the whole season. This activity must be performed in a laboratory, even though it is not based on a Lab Total.
 
 ### Vis
 
@@ -94,11 +94,11 @@ Even when you learn a spell from a teacher, it is your Wizard's Sigil that manif
 
 Inventing a spell by yourself is more difficult than learning one, but of course you don't need a teacher to do it. First, decide the effects of the spell you wish to invent; you may pick a spell described in the Spells chapter to invent, invent a variant of a spell listed there, or make up something completely on your own.
 
-If you want to duplicate an existing spell, use the statistics given for it in the Spells chapter, but include your wizard's sigil (see "Sigils" on [page 224](<Ars Magica DE - 7. Hermetic Magic.md#sigils>)).
+If you want to duplicate an existing spell, use the statistics given for it in the Spells chapter, but include your wizard's sigil (see "Sigils" on [page 224](<Ars Magica DE - 07. Hermetic Magic.md#sigils>)).
 
-If you create a variant of a spell in the Spells chapter (change its Range, say, or allow it to affect a different kind of Target), first refer to the spell that you are basing your spell on. Then determine whether you are changing the spell's Range, Duration, Target, or a combination of those. The new spell's level is determined based on how radically the new spell is different from the old one. The method for determining the new spell's level is described under "Changing Ranges, Durations, and Targets" on [page 303](<Ars Magica DE - 9. Spells.md#changing-ranges-durations-and-targets>).
+If you create a variant of a spell in the Spells chapter (change its Range, say, or allow it to affect a different kind of Target), first refer to the spell that you are basing your spell on. Then determine whether you are changing the spell's Range, Duration, Target, or a combination of those. The new spell's level is determined based on how radically the new spell is different from the old one. The method for determining the new spell's level is described under "Changing Ranges, Durations, and Targets" on [page 303](<Ars Magica DE - 09. Spells.md#changing-ranges-durations-and-targets>).
 
-When you invent a completely new spell you must describe it fully, both in terms of its mechanics (Range, Duration, and Target) and how it fits into the medieval paradigm. You must make sure that it takes into account the limits of magic (see [page 210](<Ars Magica DE - 7. Hermetic Magic.md#limits-of-magic>)). To determine the new spell's level, you must first determine its Technique and Form. This should be a matter of common sense. Next, refer to the general guidelines for that Technique/Form combination, found in the Spells chapter. This will provide a list of what sorts of effects correspond to each spell level. Determine the final level of the spell by referring to the guidelines "Changing Ranges, Durations, and Targets" on [page 303](<Ars Magica DE - 9. Spells.md#changing-ranges-durations-and-targets>).
+When you invent a completely new spell you must describe it fully, both in terms of its mechanics (Range, Duration, and Target) and how it fits into the medieval paradigm. You must make sure that it takes into account the limits of magic (see [page 210](<Ars Magica DE - 07. Hermetic Magic.md#limits-of-magic>)). To determine the new spell's level, you must first determine its Technique and Form. This should be a matter of common sense. Next, refer to the general guidelines for that Technique/Form combination, found in the Spells chapter. This will provide a list of what sorts of effects correspond to each spell level. Determine the final level of the spell by referring to the guidelines "Changing Ranges, Durations, and Targets" on [page 303](<Ars Magica DE - 09. Spells.md#changing-ranges-durations-and-targets>).
 
 Once you have determined the specifics of the spell you are trying to invent, you must determine if you can actually invent it. Then, you must figure out how long it will take. You can only invent a spell if your Lab Total exceeds the spell's level. You get a bonus for knowing a similar spell (+1 per five levels of the highest level similar spell — see "Similar Spells" on [page 260](#similar-spells)). Any requisites that the new spell has also count in calculating your Lab Total. For each point that your Lab Total exceeds the spell's level, you accumulate one point per season. When you accumulate points equal to the level of the spell, you invent it.
 
@@ -108,7 +108,7 @@ It is also possible to invent a spell based on another magus's Laboratory Text (
 
 > #### Example: Inventing Spells
 >
-> Tillitus of House Bonisagus wants to invent some warding spells, as minor mystical creatures seem to give him a lot of trouble. General wards of this sort are Rego Vim (see [page 370](<Ars Magica DE - 9. Spells.md#general-14>)), and can be invented at any level. Semita Errabunda, Tillitus's covenant, has a Magic aura of 5, and Tillitus himself has Intelligence +5, Magic Theory 3, +2 for Puissant Magic Theory, his free Bonisagus Virtue, Rego 5, and Vim 5. Thus, his Rego Vim Lab Total is 25.
+> Tillitus of House Bonisagus wants to invent some warding spells, as minor mystical creatures seem to give him a lot of trouble. General wards of this sort are Rego Vim (see [page 370](<Ars Magica DE - 09. Spells.md#general-14>)), and can be invented at any level. Semita Errabunda, Tillitus's covenant, has a Magic aura of 5, and Tillitus himself has Intelligence +5, Magic Theory 3, +2 for Puissant Magic Theory, his free Bonisagus Virtue, Rego 5, and Vim 5. Thus, his Rego Vim Lab Total is 25.
 > 
 > Consulting the Spells chapter, Matt, Tillitus's player, sees that a separate spell must be invented for each of the four Realms. He decides to start by inventing a good ward against magical creatures. He picks level 20, as this is less than his Lab Total.
 >
@@ -405,7 +405,7 @@ As long as you succeed in finding powers, you keep rolling to find more in that 
 
 If you botch an investigation roll, many results can arise, and the storyguide makes the final decision based on the situation. You could misinterpret a power, thinking it does something different from its actual function. You could misread the triggering action of a power, making it useless to you. Or you could somehow disturb the enchanted item, setting off its powers. If you survive an investigation botch, your season ends there. However, you may approach the device again next season to properly identify the power that confounded you.
 
-Magi sometimes use the Waiting Spell (see [page 372](<Ars Magica DE - 9. Spells.md#page-372>)) to guard their enchanted devices. The spell held in waiting is often released on anyone who magically examines the item. The Waiting Spell is not invested into the device, but cast on it for protection. You therefore cannot detect a Waiting Spell in your preliminary investigations of an item. If you do not cast a spell to detect a Waiting Spell, discovering it often means tripping it. Beware.
+Magi sometimes use the Waiting Spell (see [page 372](<Ars Magica DE - 09. Spells.md#page-372>)) to guard their enchanted devices. The spell held in waiting is often released on anyone who magically examines the item. The Waiting Spell is not invested into the device, but cast on it for protection. You therefore cannot detect a Waiting Spell in your preliminary investigations of an item. If you do not cast a spell to detect a Waiting Spell, discovering it often means tripping it. Beware.
 
 ## Similar Spells
 
@@ -506,7 +506,7 @@ When casting from a tablet, determine the magus's Casting Total according to the
 | –21 to –30 | Spell cast. Gain a Warping point. Lose four Fatigue levels. |
 | –31 or less | Gain Warping points equal to the magnitude of the spell, lose five Fatigue levels. If the caster gains two or more Warping Points, he must check for Twilight. |
 
-Magi can only author Casting Tablets for spells they have mastered (see [page 225](<Ars Magica DE - 7. Hermetic Magic.md#spell-mastery>)), although anyone can copy tablets written by others. A character spending a season as an author or copyist may create Laboratory Texts or Casting Tablets from the same pool of levels. Casting Tablets do not aid magi to learn spells the way Laboratory Texts do.
+Magi can only author Casting Tablets for spells they have mastered (see [page 225](<Ars Magica DE - 07. Hermetic Magic.md#spell-mastery>)), although anyone can copy tablets written by others. A character spending a season as an author or copyist may create Laboratory Texts or Casting Tablets from the same pool of levels. Casting Tablets do not aid magi to learn spells the way Laboratory Texts do.
 
 ### Translating Laboratory Texts
 
@@ -726,7 +726,7 @@ A member of House Bonisagus may claim another magus's apprentice at any time, bu
 
 A magus may choose to pass an apprentice on to a second magus, provided that both magi agree to the transfer. The apprentice's consent is not required.
 
-Use the rules in the Experience and Advancement section of the Long-Term Events chapter to train your apprentice, remembering that you must spend at least one season a year directly teaching. Keep in mind that you should try to impart a broad base of skills — refer to the guidelines in the Characters chapter ([page 25](<Ars Magica DE - 3. Characters.md#chapter-3-characters>)) to give you an idea of what level of apprentice competence you should be shooting for.
+Use the rules in the Experience and Advancement section of the Long-Term Events chapter to train your apprentice, remembering that you must spend at least one season a year directly teaching. Keep in mind that you should try to impart a broad base of skills — refer to the guidelines in the Characters chapter ([page 25](<Ars Magica DE - 03. Characters.md#chapter-3-characters>)) to give you an idea of what level of apprentice competence you should be shooting for.
 
 Since an apprentice without a Parma Magica would normally suffer a –3 penalty to all totals due to the effect of The Gift, the Order has ruled that failing to extend your Parma Magica to cover your apprentice during training is a violation of the requirement to train your apprentice properly. If your score in Parma Magica is three or less, it does not give you any bonus to Magic Resistance while shared, but it still deadens the effect of The Gift.
 
@@ -738,7 +738,7 @@ While the magus must personally provide the minimum one season per year, he may 
 
 One of your seasons of teaching must be spent training the apprentice in the basics of Hermetic magic, and you can teach nothing else in that season. Thus, in this season the apprentice gains a score of 0 in all fifteen Hermetic Arts, but learns nothing else. This is referred to as 'opening the Arts'.
 
-If you have a score of less than five in any Art when you open them, your apprentice automatically has a Deficiency (see [pages 125 and 272](<Ars Magica DE - 4. Virtues and Flaws.md#page-125>)) in that Art. Giving an apprentice Deficiencies in this way is normally treated as a Low Crime by the Tribunals of the Order, and attracts a great deal of social stigma. As a result, few magi train an apprentice until they have a score of five or higher in all Arts. (Note that this is far from the only way that an apprentice can gain a Deficiency, and most of the other ways are not under the master's control, and thus not Low Crimes.) You may teach Magic Theory before opening the Arts, but you may not teach Arts or spells.
+If you have a score of less than five in any Art when you open them, your apprentice automatically has a Deficiency (see [pages 125 and 272](<Ars Magica DE - 04. Virtues and Flaws.md#page-125>)) in that Art. Giving an apprentice Deficiencies in this way is normally treated as a Low Crime by the Tribunals of the Order, and attracts a great deal of social stigma. As a result, few magi train an apprentice until they have a score of five or higher in all Arts. (Note that this is far from the only way that an apprentice can gain a Deficiency, and most of the other ways are not under the master's control, and thus not Low Crimes.) You may teach Magic Theory before opening the Arts, but you may not teach Arts or spells.
 
 > #### Opening the Arts in House Ex Miscellanea
 >
@@ -754,7 +754,7 @@ Once the Arts are Opened, the apprentice character has a 0 in each of the five T
 
 #### Teaching Hermetic Virtues
 
-Teaching a Hermetic Virtue combines aspects of learning a Supernatural Ability ([page 159](<Ars Magica DE - 5. Abilities.md#page-159>)) with learning a Mystery Cult Virtue ([page 387](<Ars Magica DE - 10. Long-Term Events.md#page-387>)). The instructor, typically an apprentice's parens, generates a Teaching Source Quality total that is compared to a required target level. Both teacher and student must be Gifted individuals trained in Hermetic Magic Theory. A magus cannot teach a Gifted hedge wizard a Hermetic Virtue because the two men do not understand magic in the same way. At the end of a season's instruction, the parens generates a Teaching Source Quality just as if he were teaching an Ability or an Art.
+Teaching a Hermetic Virtue combines aspects of learning a Supernatural Ability ([page 159](<Ars Magica DE - 05. Abilities.md#page-159>)) with learning a Mystery Cult Virtue ([page 387](<Ars Magica DE - 10. Long-Term Events.md#page-387>)). The instructor, typically an apprentice's parens, generates a Teaching Source Quality total that is compared to a required target level. Both teacher and student must be Gifted individuals trained in Hermetic Magic Theory. A magus cannot teach a Gifted hedge wizard a Hermetic Virtue because the two men do not understand magic in the same way. At the end of a season's instruction, the parens generates a Teaching Source Quality just as if he were teaching an Ability or an Art.
 
 **TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus**
 
@@ -786,7 +786,7 @@ For over half of the Houses, it takes 10 seasons of one-to-one interactions with
 
 This rule pertains to seven of the twelve Houses: all four True Lineages, and three of the Societates. The fourth Societas, House Ex Miscellanea, is a special case because an apprentice of a House Ex Miscellanea magus receives a package of House Virtues and Flaws: one Minor Hermetic Virtue, one Major non-Hermetic Virtue, and one Major Hermetic Flaw. Because there are several types of Ex Miscellanea magi, the troupe should decide if an apprentice of a specific tradition learns the House Virtues and Flaws through one-on-one association or through a process similar to a Mystery Initiation like the Mystery Cult Houses.
 
-An apprentice of a magus of a Mystery Cult gains the free House Virtue by undergoing an Initiation to learn the House's Outer Mystery. House Verditius Initiates an apprentice immediately following the opening of an apprentice's Arts. House Bjornaer Initiates an apprentice's Heartbeast at some point during apprenticeship, at the Ritual of Twelve Years (see *Houses of Hermes: Mystery Cults*, [page 16](<Ars Magica DE - 2. The Order of Hermes.md#page-16>)). Houses Criamon and Merinita Initiate apprentices at various times, usually dependent on the master. Initiation into a House's Outer Mystery takes a season.
+An apprentice of a magus of a Mystery Cult gains the free House Virtue by undergoing an Initiation to learn the House's Outer Mystery. House Verditius Initiates an apprentice immediately following the opening of an apprentice's Arts. House Bjornaer Initiates an apprentice's Heartbeast at some point during apprenticeship, at the Ritual of Twelve Years (see *Houses of Hermes: Mystery Cults*, [page 16](<Ars Magica DE - 02. The Order of Hermes.md#page-16>)). Houses Criamon and Merinita Initiate apprentices at various times, usually dependent on the master. Initiation into a House's Outer Mystery takes a season.
 
 The apprentice must learn the same free House Virtue that his parens knows. In a House where there is a choice of House Virtues, the parens can decide which House Virtue is acquired, if he has both. House Flambeau, for example, has the choice of Puissant Perdo or Puissant Ignem. If the master has both Virtues, he can choose either as the apprentice's House Virtue.
 
@@ -794,7 +794,7 @@ The apprentice must learn the same free House Virtue that his parens knows. In a
 
 Few apprentices purposefully gain Hermetic Flaws. A player can always select a Hermetic Flaw at character generation, and while this will develop sometime during the child character's life, that is different from gaining a Hermetic Flaw after creating the character. Hermetic Flaws acquired after character generation affect a character as soon as they are gained, their effects manifesting immediately. Hermetic magi have not found a way to remove Hermetic Flaws, and once gained a Hermetic Flaw is permanent, barring a story.
 
-The two most common ways characters gain Hermetic Flaws are through learning Hermetic Virtues, and as a consequence of game play. As mentioned previously, it is easier to learn a Hermetic Virtue from a teacher if that teacher includes a Hermetic Flaw in the process. Hermetic magi do not fully understand why this is so, but like Mystery Cult Initiations, tainting the learning process with an incurred liability makes instruction easier. The second way characters gain Hermetic Flaws is through play. Uncontrolled Temporary Twilight episodes are a frequent cause, bestowing Hermetic Flaws on an apprentice in the same way they grant Hermetic Flaws to a magus ([page 230](<Ars Magica DE - 7. Hermetic Magic.md#page-230>)). Gaining a Hermetic Deficiency Flaw during the opening of the Arts is another path to receiving a new Flaw during play. Some Supernatural creatures have the power to grant Minor and Major Flaws, and while these aren't always Hermetic, they can be. These Flaws are not necessarily permanent and many are temporary inconveniences. *Realms of Power: Magic* and *Realms of Power: Faerie* have details and example creatures.
+The two most common ways characters gain Hermetic Flaws are through learning Hermetic Virtues, and as a consequence of game play. As mentioned previously, it is easier to learn a Hermetic Virtue from a teacher if that teacher includes a Hermetic Flaw in the process. Hermetic magi do not fully understand why this is so, but like Mystery Cult Initiations, tainting the learning process with an incurred liability makes instruction easier. The second way characters gain Hermetic Flaws is through play. Uncontrolled Temporary Twilight episodes are a frequent cause, bestowing Hermetic Flaws on an apprentice in the same way they grant Hermetic Flaws to a magus ([page 230](<Ars Magica DE - 07. Hermetic Magic.md#page-230>)). Gaining a Hermetic Deficiency Flaw during the opening of the Arts is another path to receiving a new Flaw during play. Some Supernatural creatures have the power to grant Minor and Major Flaws, and while these aren't always Hermetic, they can be. These Flaws are not necessarily permanent and many are temporary inconveniences. *Realms of Power: Magic* and *Realms of Power: Faerie* have details and example creatures.
 
 <!-- p. 273 --><a id="page-273"></a>
 
@@ -938,7 +938,7 @@ When investigating an enchanted item by experimenting on it, you take risks not 
 | 1–3  | The spell or effect is reduced in range, duration, target, or potency.                                                                                  |
 | 4–6  | The spell or effect's range, duration, target, or potency is increased.                                                                                 |
 | 7–8  | The use of the spell or effect is restricted. For example, it fails to work in certain circumstances, like when it is raining.                          |
-| 9–10 | The actual effect of your experiment is modified. For example, a spell like *Curse of Circe* ([page 335](<Ars Magica DE - 9. Spells.md#page-335>)) turns the target into a goat instead of a pig.    |
+| 9–10 | The actual effect of your experiment is modified. For example, a spell like *Curse of Circe* ([page 335](<Ars Magica DE - 09. Spells.md#page-335>)) turns the target into a goat instead of a pig.    |
 | 11+  | The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar.  |
 
 ## Arcane Discovery
@@ -993,7 +993,7 @@ If your stabilization season succeeds, you gain one breakthrough point per magni
 
 **SUCCESSFUL STABILIZATION SEASON: Magnitudes of Stabilized Discovery = Breakthrough Points**
 
-As a side effect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight ([page 228](<Ars Magica DE - 7. Hermetic Magic.md#wizards-twilight>)). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
+As a side effect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight ([page 228](<Ars Magica DE - 07. Hermetic Magic.md#wizards-twilight>)). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
 
 **WARPING POINTS GAINED: The magnitude of the Stabilized Discovery – a simple die**
 
@@ -1515,7 +1515,7 @@ If you find that the laboratory has more than the allowed number of Specializati
 
 > #### Build Point Cost for Starting Laboratories
 >
-> If using the Customized Covenant Creation rules ([page 178](<Ars Magica DE - 6. Covenants.md#customized-covenant-creation>)), the baseline is that there is one standard laboratory (Size 0, Refinement 0) for each member of the covenant. Extra (spare) labs cost 50 Build Points each. For each magus that completely lacks a lab, 50 Build Points are gained. To determine the Build Point cost of labs which are either larger or smaller than average, multiply their Size Characteristics by 20.
+> If using the Customized Covenant Creation rules ([page 178](<Ars Magica DE - 06. Covenants.md#customized-covenant-creation>)), the baseline is that there is one standard laboratory (Size 0, Refinement 0) for each member of the covenant. Extra (spare) labs cost 50 Build Points each. For each magus that completely lacks a lab, 50 Build Points are gained. To determine the Build Point cost of labs which are either larger or smaller than average, multiply their Size Characteristics by 20.
 >
 > One or more labs might start out with Minor or Major Virtues, if they have sufficient space (or if they are balanced with Flaws). Each Minor Virtue costs 10 Build Points and each Major Virtue costs 20 Build Points. Free Virtues and all Flaws do not cost any Build Points. Note that starting laboratories with negative Size need to take one or more Flaws (Minor or Major) automatically.
 >
@@ -1523,7 +1523,7 @@ If you find that the laboratory has more than the allowed number of Specializati
 >
 > It is suggested that labs for starting magi in a Spring covenant should begin with few or no Virtues or Flaws. Only those Virtues and Flaws which are intrinsic to the structure or location should be taken. For example, if the lab is underground, the Subterranean Flaw should be taken. At the storyguide's option, a small number of Free Virtues and an equal number of Free Flaws may be taken, provided that the Upkeep does not increase beyond 0. If the covenant has the Wealth Boon, on the other hand, then Free Virtues which require only an increase to Upkeep may be taken without a corresponding Free Flaw, if desired. With the Poverty Hook, it is suggested that the average Upkeep score for all labs should not be higher than –2 (if Minor) or –5 (if Major) — take a sufficient number of Flaws accordingly.
 >
-> Labs in established covenants, on the other hand, especially Autumn or Winter covenants, might have more Virtues and Flaws, as might the labs of experienced magi. The storyguide should determine the labs of starting magi in an established covenant. For example, they might have one or more Supernatural Virtues and Flaws. For experienced magi, the Build Point total of the lab's Virtues should be subtracted from their experience point total, instead of from the covenant's Build Point total, assuming they were responsible for the improvements. This is due to the time required to achieve the Virtues; each Minor Virtue, taking one season, costs 10 points, and each Major Virtue, taking two seasons, costs 20 points, according to the rules for generating magi after apprenticeship (see [page 50](<Ars Magica DE - 3. Characters.md#page-50>)).
+> Labs in established covenants, on the other hand, especially Autumn or Winter covenants, might have more Virtues and Flaws, as might the labs of experienced magi. The storyguide should determine the labs of starting magi in an established covenant. For example, they might have one or more Supernatural Virtues and Flaws. For experienced magi, the Build Point total of the lab's Virtues should be subtracted from their experience point total, instead of from the covenant's Build Point total, assuming they were responsible for the improvements. This is due to the time required to achieve the Virtues; each Minor Virtue, taking one season, costs 10 points, and each Major Virtue, taking two seasons, costs 20 points, according to the rules for generating magi after apprenticeship (see [page 50](<Ars Magica DE - 03. Characters.md#page-50>)).
 
 <!-- p. 292 --><a id="page-292"></a>
 
@@ -1533,7 +1533,7 @@ Just as for characters, Virtues for labs reflect some kind of merit, improvement
 
 Most laboratory Virtues and Flaws can only be taken once — those few that can be taken multiple times are asterisked in the list below. Two of these Virtues in particular, Feature and Magic Item, come in a multitude of types and are described in more detail later. The storyguide may always adjust the benefits of particular Virtues and Flaws as she sees fit, and is encouraged to devise new ones in consultation with the players.
 
-The Covenants supplement includes a wider range of Virtues and Flaws (from [page 113](<Ars Magica DE - 4. Virtues and Flaws.md#page-113>)), expanding on those given here.
+The Covenants supplement includes a wider range of Virtues and Flaws (from [page 113](<Ars Magica DE - 04. Virtues and Flaws.md#page-113>)), expanding on those given here.
 
 #### Virtues
 
@@ -1795,7 +1795,7 @@ Below are listed some example Features, together with the possible Specializatio
 
 > #### The Sanctum
 > 
-> Any member of the Order of Hermes may designate an area as their "sanctum," and most choose to designate their laboratory and living quarters. A decision of the First Tribunal means that a magus in another's sanctum has no legal protection from the owner of the sanctum and may be attacked or killed without legal consequences. There is a strong convention against entering a sanctum without permission, but the Peripheral Code on these points differs between Tribunals. See *Houses of Hermes: True Lineages* for more details—particularly [pages 46–47, 62](<Ars Magica DE - 3. Characters.md#page-46>), and 71. A ruling of the Grand Tribunal of 997 requires a sanctum to be marked by a circle inscribed within a square, with lines joining the square's opposite corners.
+> Any member of the Order of Hermes may designate an area as their "sanctum," and most choose to designate their laboratory and living quarters. A decision of the First Tribunal means that a magus in another's sanctum has no legal protection from the owner of the sanctum and may be attacked or killed without legal consequences. There is a strong convention against entering a sanctum without permission, but the Peripheral Code on these points differs between Tribunals. See *Houses of Hermes: True Lineages* for more details—particularly [pages 46–47, 62](<Ars Magica DE - 03. Characters.md#page-46>), and 71. A ruling of the Grand Tribunal of 997 requires a sanctum to be marked by a circle inscribed within a square, with lines joining the square's opposite corners.
 
 <!-- p. 298 --><a id="page-298"></a>
 

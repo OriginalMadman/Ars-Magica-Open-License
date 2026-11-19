@@ -9,7 +9,7 @@
 
 Abilities represent the things that a character has learned over the course of her life. They increase over the course of a saga, as people continue learning all the time.
 
-Abilities are normally used by adding Characteristic + Ability + die roll, and meeting or exceeding an Ease Factor. In principle, any Characteristic can be used with any Ability, but some pairings are rare; Strength + Order of Hermes Lore, for example, is unlikely to be called upon very often. The appropriate Characteristic should be chosen based on the descriptions of the Characteristics given in the Characters chapter ([page 27](<Ars Magica DE - 3. Characters.md#characteristic-descriptions>)), although the rules for magic and combat specify the pairings for a number of important situations.
+Abilities are normally used by adding Characteristic + Ability + die roll, and meeting or exceeding an Ease Factor. In principle, any Characteristic can be used with any Ability, but some pairings are rare; Strength + Order of Hermes Lore, for example, is unlikely to be called upon very often. The appropriate Characteristic should be chosen based on the descriptions of the Characteristics given in the Characters chapter ([page 27](<Ars Magica DE - 03. Characters.md#characteristic-descriptions>)), although the rules for magic and combat specify the pairings for a number of important situations.
 
 ## Specializations
 
@@ -58,7 +58,7 @@ Characters may only gain Martial Abilities during character generation if they a
 
 ### Spell Mastery Abilities
 
-Spell Mastery Abilities can only be taken by magi, as they concern the casting of Formulaic and Ritual spells in Hermetic magic. They are described in the Hermetic Magic chapter, on [page 225](<Ars Magica DE - 7. Hermetic Magic.md#page-225>).
+Spell Mastery Abilities can only be taken by magi, as they concern the casting of Formulaic and Ritual spells in Hermetic magic. They are described in the Hermetic Magic chapter, on [page 225](<Ars Magica DE - 07. Hermetic Magic.md#page-225>).
 
 <!-- p. 159 --><a id="page-159"></a>
 
@@ -350,7 +350,7 @@ You have the ability to find things nearby through the use of a dowsing rod (usu
 *Specialties:* searching for a particular kind of thing (water, gold, etc.), searching in a particular kind of place. (Supernatural)
 
 #### Embitterment\*
-You can cause one person to hate another. This Ability is described in the Hermetic Magic chapter, page [245](<Ars Magica DE - 7. Hermetic Magic.md#embitterment>).
+You can cause one person to hate another. This Ability is described in the Hermetic Magic chapter, page [245](<Ars Magica DE - 07. Hermetic Magic.md#embitterment>).
 
 #### Enchanting (Ability)\*
 When you set your mind to it, you can influence others with a particular performance ability. For a specific effect, you must use words that people can understand. You can calm the grieving with tunes alone, but you need lyrics to convince peasants to rise up against the local lord. General effects work on animals, but specific effects only work on creatures that can understand words. When you use Enchanting Ability, roll a die (stress or simple, depending on the situation) and add Communication and Enchanting Ability. An Ease Factor of 9 will calm the upset, 12 will win someone's love, 15 will incite a riot, and a 24 might win back a soul from the Prince of Darkness. If you botch, you inspire an unwanted emotion.
@@ -361,10 +361,10 @@ You should also roll for the quality of the performance, but the magical effect 
 *Specialties:* a particular emotion, a particular sort of person. (Supernatural)
 
 #### Enigmatic Wisdom\*
-The understanding that Criamon magi have of the Enigma. It is described in the Hermetic Magic chapter, on page [236](<Ars Magica DE - 7. Hermetic Magic.md#enigmatic-wisdom>). (Arcane)
+The understanding that Criamon magi have of the Enigma. It is described in the Hermetic Magic chapter, on page [236](<Ars Magica DE - 07. Hermetic Magic.md#enigmatic-wisdom>). (Arcane)
 
 #### Entrancement\*
-You have the power to control another's will. By staring deeply into someone's eyes for several seconds — generally impossible in combat — you can verbally command the person to perform a certain task. Roll Presence + Entrancement against the target's Stamina roll. The person being controlled may get a bonus to resist at the option of the storyguide, according to the table below. Hermetic magi get their normal Mentem Magic Resistance, and get the normal Stamina roll if the effect penetrates Calculate Penetration using an Ease Factor of 6 + the victim's bonus. The blind, and people with their eyes closed, are immune; see [page 303](<Ars Magica DE - 9. Spells.md#page-303>) for more guidelines on making eye contact. However, it is not possible to look away while being Entranced unless you win the opposed roll.
+You have the power to control another's will. By staring deeply into someone's eyes for several seconds — generally impossible in combat — you can verbally command the person to perform a certain task. Roll Presence + Entrancement against the target's Stamina roll. The person being controlled may get a bonus to resist at the option of the storyguide, according to the table below. Hermetic magi get their normal Mentem Magic Resistance, and get the normal Stamina roll if the effect penetrates Calculate Penetration using an Ease Factor of 6 + the victim's bonus. The blind, and people with their eyes closed, are immune; see [page 303](<Ars Magica DE - 09. Spells.md#page-303>) for more guidelines on making eye contact. However, it is not possible to look away while being Entranced unless you win the opposed roll.
 
 <!-- p. 165 --><a id="page-165"></a>
 
@@ -387,7 +387,7 @@ Familiarity with faerie powers, weaknesses, motivations, and areas.<br>
 *Specialties:* faerie forests, faerie mounds, specific types of faeries. (Arcane)
 
 #### Faerie Magic\*
-The connection to the power of the Faerie realm possessed by Merinita magi. It cannot be learned by other characters, even if they have access to Arcane Abilities. It is described in the Hermetic Magic chapter, on page [236](<Ars Magica DE - 7. Hermetic Magic.md#merinita--faerie-magic>). (Arcane)
+The connection to the power of the Faerie realm possessed by Merinita magi. It cannot be learned by other characters, even if they have access to Arcane Abilities. It is described in the Hermetic Magic chapter, on page [236](<Ars Magica DE - 07. Hermetic Magic.md#merinita--faerie-magic>). (Arcane)
 
 #### Finesse
 Manipulating your spells and performing special feats with them. You would use this Ability to position objects delicately or to target spells.<br>
@@ -410,7 +410,7 @@ Telling convincing lies, as well as feigning emotion, belief, or frame of mind. 
 *Specialties:* particular sorts of deception, lying to authority, fast talk, elaborate lies. (General)
 
 #### Heartbeast\*
-The ability shared by all Bjornaer magi to take the form of their heartbeast. It is described in the Hermetic Magic chapter, on page [233](<Ars Magica DE - 7. Hermetic Magic.md#bjornaer--the-heartbeast>). This Ability cannot be learned by non-Bjornaer characters, even if they have access to Arcane Abilities. (Arcane)
+The ability shared by all Bjornaer magi to take the form of their heartbeast. It is described in the Hermetic Magic chapter, on page [233](<Ars Magica DE - 07. Hermetic Magic.md#bjornaer--the-heartbeast>). This Ability cannot be learned by non-Bjornaer characters, even if they have access to Arcane Abilities. (Arcane)
 
 #### Hex\*
 The character has the power to bring about injury or ruin upon her enemies. There are three ways for her to activate this power: by making eye contact with her victim and proclaiming her purpose loud enough for him to hear, by tracing temporary occult signs and symbols on her target that indicate the dark fate she intends, or by acquiring an Arcane Connection to her target and fashioning a recognizable representation that can channel the effect through sympathetic magic.
@@ -595,7 +595,7 @@ Knowledge of the legends, history, structure, operation, and goals of the specif
 *Specialties:* personalities, history, politics. (General)
 
 #### Parma Magica\*
-Protection from magic. This is a special ritual (not a Ritual spell) that takes about two minutes to perform. It lets you add 5 times your Parma Magica score to your Magic Resistance until the next sunrise or sunset, whichever comes first. You may suppress your Parma Magica temporarily by concentrating; this is equivalent to sustaining a Concentration duration spell. (See [page 215](<Ars Magica DE - 7. Hermetic Magic.md#page-215>)). Parma Magica does not require concentration while it is active.
+Protection from magic. This is a special ritual (not a Ritual spell) that takes about two minutes to perform. It lets you add 5 times your Parma Magica score to your Magic Resistance until the next sunrise or sunset, whichever comes first. You may suppress your Parma Magica temporarily by concentrating; this is equivalent to sustaining a Concentration duration spell. (See [page 215](<Ars Magica DE - 07. Hermetic Magic.md#page-215>)). Parma Magica does not require concentration while it is active.
 
 You may also protect one other person for each point in Parma Magica, with their consent. You must touch each person to start the protection, and it lasts as long as at least one character can see the other. The magus may cancel the protection at will, at any distance. While a magus is protecting others, his effective Parma Magica score is reduced by 3 points, both for himself and for the other people he is protecting. If the magus has a Parma Magica score of 3 or lower, his Parma Magica provides each character, including himself, with a Magic Resistance of 0. In the magus's case, this is added to his Form resistance, and a magus protected by another magus's Parma Magica may also add his Form resistance.
 
@@ -606,7 +606,7 @@ Parma Magica can only be learned by Gifted characters, although they learn it as
 *Specialties:* protection from any specific Form. (Arcane)
 
 #### Penetration
-Getting your spell through the target's Magic Resistance. See page [215](<Ars Magica DE - 7. Hermetic Magic.md#penetration-total>) for full Penetration rules.<br>
+Getting your spell through the target's Magic Resistance. See page [215](<Ars Magica DE - 07. Hermetic Magic.md#penetration-total>) for full Penetration rules.<br>
 *Specialties:* any one Art. (Arcane)
 
 #### Persona\*
@@ -657,7 +657,7 @@ The character can sense the personality and desires of an intelligent being by r
 
 Through careful examination, the character can also recognize passions in people within the general area, allowing her to hone in on the most powerful source of emotion within sight, usually the character with the highest (or lowest) Personality Trait. This requires a 12 or better on the Sense Passions roll.
 
-The character can also tell when an aura has a tarnish (see *Realms of Power: The Infernal*, [page 13](<Ars Magica DE - 2. The Order of Hermes.md#page-13>)) or temper (see *Realms of Power: The Divine Revised Edition*, [page 38](<Ars Magica DE - 3. Characters.md#page-38>)) and its type or types by overcoming an Ease Factor of 6.
+The character can also tell when an aura has a tarnish (see *Realms of Power: The Infernal*, [page 13](<Ars Magica DE - 02. The Order of Hermes.md#page-13>)) or temper (see *Realms of Power: The Divine Revised Edition*, [page 38](<Ars Magica DE - 03. Characters.md#page-38>)) and its type or types by overcoming an Ease Factor of 6.
 
 By sensing passions, the character can often recognize incorporeal spirits. You may treat Sense Passions as Second Sight when attempting to recognize the presence of invisible or bodiless beings. However, this does not allow her to see through illusions, even illusions of strong emotions, and she cannot actually see the spirits, merely sense their proximity.
 
@@ -681,7 +681,7 @@ Sneaking about without being seen or heard, also hiding in one place. This inclu
 *Specialties:* hide, sneak, shadowing, urban areas, natural areas. (General)
 
 #### Summon Animals\*
-You can summon animals. This Ability is described in the Hermetic Magic chapter, on page [243](<Ars Magica DE - 7. Hermetic Magic.md#summon-animals>).
+You can summon animals. This Ability is described in the Hermetic Magic chapter, on page [243](<Ars Magica DE - 07. Hermetic Magic.md#summon-animals>).
 
 #### Survival
 Finding food, water, shelter, a direct route, and relative safety in the wilderness (a very dangerous place in Mythic Europe). This Ability covers such mundane tasks as building a fire and cooking food without implements.<br>
@@ -714,7 +714,7 @@ Fighting at range using weapons which are thrown.<br>
 *Specialties:* any one weapon. (Martial)
 
 #### Whistle Up The Wind\*
-You can create wind by whistling. This Ability is described in the Hermetic Magic chapter, on [page 246](<Ars Magica DE - 7. Hermetic Magic.md#page-246>).
+You can create wind by whistling. This Ability is described in the Hermetic Magic chapter, on [page 246](<Ars Magica DE - 07. Hermetic Magic.md#page-246>).
 
 #### Wilderness Sense\*
 You are mystically attuned to the ways of the wilderness. A Perception + Wilderness Sense roll against an Ease Factor of 9 lets you determine the direction of north, the upcoming weather, or the presence of natural hazards or resources. One roll will only reveal one piece of information.<br>

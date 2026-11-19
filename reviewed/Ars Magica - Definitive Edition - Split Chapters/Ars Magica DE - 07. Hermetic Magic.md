@@ -22,7 +22,7 @@ The capacity to work magic is known as The Gift among Hermetic magi. Only people
 
 The Gift is very rare, appearing in perhaps one person in a few thousand. Magi have many theories as to the cause of The Gift, but none of these are generally accepted.
 
-The Gift has a strong emotional effect on those around the Gifted person, making them suspicious and mistrustful of the Gifted individual, inspiring envy. As a result, social interactions are very difficult for the Gifted. Some Hermetic magi have the Gentle Gift (a Virtue, see [page 82](<Ars Magica DE - 4. Virtues and Flaws.md#gentle-gift>)), which does not affect people in this way, while others have the Blatant Gift (a Flaw, see [page 120](<Ars Magica DE - 4. Virtues and Flaws.md#blatant-gift>)), which has much more intense effects. The Gift also bothers mundane animals, which avoid the Gifted individual as far as possible. The Gift only affects those in the presence of the Gifted individual. Letters from a Gifted individual do not have this effect, nor does a messenger from such an individual, unless the messenger himself has The Gift.
+The Gift has a strong emotional effect on those around the Gifted person, making them suspicious and mistrustful of the Gifted individual, inspiring envy. As a result, social interactions are very difficult for the Gifted. Some Hermetic magi have the Gentle Gift (a Virtue, see [page 82](<Ars Magica DE - 04. Virtues and Flaws.md#gentle-gift>)), which does not affect people in this way, while others have the Blatant Gift (a Flaw, see [page 120](<Ars Magica DE - 04. Virtues and Flaws.md#blatant-gift>)), which has much more intense effects. The Gift also bothers mundane animals, which avoid the Gifted individual as far as possible. The Gift only affects those in the presence of the Gifted individual. Letters from a Gifted individual do not have this effect, nor does a messenger from such an individual, unless the messenger himself has The Gift.
 
 <!-- p. 204 --><a id="page-204"></a>
 
@@ -34,7 +34,7 @@ Note that those interacting with Gifted people do not actually think that they h
 
 The Gift only has its effects if the maga comes to the attention of someone, just like a reputation. If a Gifted maga dresses unostentatiously, keeps to the middle of the group, does not appear to be the leader, and doesn't talk to anyone, then the group *should* be able to travel without suffering from people's reactions to The Gift, as long as the maga behaves herself. The Blatant Gift makes this a lot harder; these precautions reduce people's reactions to those inspired by the normal Gift.
 
-People do not get used to The Gift, even if they have lived with magi all their lives. They can, however, get used to individuals with The Gift, just as long association overrides the effects of reputation. The mundane members of a covenant can be assumed to be used to the resident magi, and to react to them as appropriate to their actual behavior (see [page 186](<Ars Magica DE - 6. Covenants.md#page-186>), in the Covenant chapter, for rules for this). Nevertheless, they will be suspicious of visiting magi.
+People do not get used to The Gift, even if they have lived with magi all their lives. They can, however, get used to individuals with The Gift, just as long association overrides the effects of reputation. The mundane members of a covenant can be assumed to be used to the resident magi, and to react to them as appropriate to their actual behavior (see [page 186](<Ars Magica DE - 06. Covenants.md#page-186>), in the Covenant chapter, for rules for this). Nevertheless, they will be suspicious of visiting magi.
 
 <!-- p. 205 --><a id="page-205"></a>
 
@@ -122,7 +122,7 @@ Hermetic magi have a score in each Art. Your scores in the Arts represent your a
 
 These bonuses do not stack. If it seems like two would apply to a given hazard, use only the higher bonus.
 
-In the following two sections, each of the Arts is listed with its common two-letter abbreviation, its translation from Latin, a general description, and its Hermetic pronunciation. More detailed descriptions of what a magus can do with various Technique Form combinations are given in the Spells chapter on [page 313](<Ars Magica DE - 9. Spells.md#technique-and-form>).
+In the following two sections, each of the Arts is listed with its common two-letter abbreviation, its translation from Latin, a general description, and its Hermetic pronunciation. More detailed descriptions of what a magus can do with various Technique Form combinations are given in the Spells chapter on [page 313](<Ars Magica DE - 09. Spells.md#technique-and-form>).
 
 ### Techniques
 
@@ -134,7 +134,7 @@ The kind of thing that something is depends on its form. Natural things, such as
 
 Artificial things, such as bread, swords and books, have complex forms. Their forms are combinations of several natural forms put together in a particular way. Creating an artificial thing by magic requires some skill on the part of the magus, reflected by his Finesse Ability. An Int + Finesse roll is made to determine how good the created thing is. Further, a magus can only create something he knows about. Any magus can create bread or cloth, but in order to create an elaborate mosaic depicting the foundation of the Order of Hermes the caster would need to know what it should depict. If he was wrong, the mosaic would also be wrong. Similar considerations apply to repairing artificial things.
 
-A magus need not be able to create an artificial item by mundane means in order to create it by magic; he only needs to be somewhat familiar with it. A magically created item will always be the right sort of thing unless the magus botches his Finesse roll. Thus, unless the magus botches, magically created cloth will always be a whole piece and keep people warm, but it might not be very attractive if he rolled badly. For further details, see Craft Magic on [page 306](<Ars Magica DE - 9. Spells.md#page-306>).
+A magus need not be able to create an artificial item by mundane means in order to create it by magic; he only needs to be somewhat familiar with it. A magically created item will always be the right sort of thing unless the magus botches his Finesse roll. Thus, unless the magus botches, magically created cloth will always be a whole piece and keep people warm, but it might not be very attractive if he rolled badly. For further details, see Craft Magic on [page 306](<Ars Magica DE - 09. Spells.md#page-306>).
 
 A magus can also use Creo to make something a better example of its kind, even if it isn't actually injured or damaged. Thus, Creo can make a horse as swift as the fastest horse, or a man as strong as the strongest man. Creo cannot make a horse able to run as fast as the wind, because no ordinary horse can do that, nor can it make a man strong enough to lift a castle. Since maturation involves becoming a better example of your kind, Creo magic can make something mature quickly. Aging after maturation involves becoming a worse example of your kind, and thus is covered by Perdo.
 
@@ -164,7 +164,7 @@ Pronounced 'MOO-toe.'
 
 #### Perdo (Pe) "I Destroy"
 
-Perdo makes things worse examples of the kind of thing they are. It is the opposite of Creo. Perdo magic can simply destroy things, removing them completely from existence, or it can destroy aspects of a thing. Thus, Perdo Corpus could remove a person's weight, while leaving the rest of his properties intact, and Perdo Ignem could make a fire unable to burn anything. Perdo alone can only destroy the whole of a natural property; making fire able to burn only wood would be Perdo with a Muto requisite (see [page 311](<Ars Magica DE - 9. Spells.md#requisites>) for requisites), Perdo destroying the ability to burn anything, and Muto granting the ability to burn only wood, a property that fire cannot naturally have.
+Perdo makes things worse examples of the kind of thing they are. It is the opposite of Creo. Perdo magic can simply destroy things, removing them completely from existence, or it can destroy aspects of a thing. Thus, Perdo Corpus could remove a person's weight, while leaving the rest of his properties intact, and Perdo Ignem could make a fire unable to burn anything. Perdo alone can only destroy the whole of a natural property; making fire able to burn only wood would be Perdo with a Muto requisite (see [page 311](<Ars Magica DE - 09. Spells.md#requisites>) for requisites), Perdo destroying the ability to burn anything, and Muto granting the ability to burn only wood, a property that fire cannot naturally have.
 
 Perdo magic is easier if the thing can naturally lose the property destroyed. Thus, it is easier to kill a person than to remove his weight while leaving his other properties intact, because the first can occur naturally while the second cannot. Further, destroying properties that a thing cannot naturally lose falls under the Limit of Essential Nature (see [page 210](#the-limit-of-essential-nature)), and thus cannot be permanent; the destroyed properties return by themselves at the end of the spell's duration.
 
@@ -176,7 +176,7 @@ Pronounced 'PARE-doe.'
 
 The Art of Rego allows a maga to change the state of a thing to some other state that the individual thing can naturally have. Thus, since all things can naturally have any location, Rego magic allows a maga to move things around. Rego can also make a tree blossom out of season, put a person to sleep, shape a piece of stone into a statue, or weave thread into a tunic. It cannot make an animal appear young again, because mature animals cannot naturally become young (although Muto could do this). Rego also cannot make an animal old, because aging is decay away from the form (so Perdo could do this). Similarly, although Rego can make a tree bear fruit out of season, that fruit would not contain seeds, as the seeds are separate substances (potential trees), and thus creating them would require Creo. Equally, Rego cannot turn a brown dog black, because while dogs can naturally be black, the brown dog in question cannot naturally take on that color.
 
-Mundane craftsmen can only change something's state to another state that the thing can naturally have. Thus, most changes that a mundane craftsman can make can also be made by Rego magic. In this case, a Finesse roll is required to determine the quality of the outcome. Rego can make changes that a mundane craftsman cannot make, however, when the craftsman is limited simply by available tools, time, or skill. On the other hand, mundane craftsmen can use their tools to simply damage or destroy things, and Rego magic cannot do that: it falls under Perdo. Rego magic could be used to control an axe to cut a tree down, but it could not be used to cut the tree down directly — that would be Perdo. Once the tree was cut down, however, Rego magic could shape the wood into planks. For more details, see Craft Magic on [page 306](<Ars Magica DE - 9. Spells.md#page-306>).
+Mundane craftsmen can only change something's state to another state that the thing can naturally have. Thus, most changes that a mundane craftsman can make can also be made by Rego magic. In this case, a Finesse roll is required to determine the quality of the outcome. Rego can make changes that a mundane craftsman cannot make, however, when the craftsman is limited simply by available tools, time, or skill. On the other hand, mundane craftsmen can use their tools to simply damage or destroy things, and Rego magic cannot do that: it falls under Perdo. Rego magic could be used to control an axe to cut a tree down, but it could not be used to cut the tree down directly — that would be Perdo. Once the tree was cut down, however, Rego magic could shape the wood into planks. For more details, see Craft Magic on [page 306](<Ars Magica DE - 09. Spells.md#page-306>).
 
 Pronounced 'RAY-go.'
 
@@ -274,7 +274,7 @@ Pronounced 'WEEM.'
 
 #### The Elemental Forms
 
-Aquam, Auram, Ignem, and Terram are the elemental forms, dealing with the non-living things in the world. Often, a thing falls under more than one of these Arts. Thus, molten lava is basically Terram, because it is a form of rock, but its liquidity is governed by Aquam and its heat by Ignem. Similarly, ice is basically Aquam, being a form of water, but its solidity is covered by Terram and its coldness by Ignem. As a rule, simple creation or destruction of a non-living thing needs only the basic Art, without requisites (see [page 311](<Ars Magica DE - 9. Spells.md#requisites>)). Thus, to create ice you need only Creo Aquam. However, affecting the aspects and properties of a thing might use the other Arts. Thus, making ice warm would require Creo Ignem. A Creo Aquam spell with an Ignem requisite could create warm ice — still solid, but warm. Alternatively, a magus could simply create warmth, and allow it to naturally melt the ice.
+Aquam, Auram, Ignem, and Terram are the elemental forms, dealing with the non-living things in the world. Often, a thing falls under more than one of these Arts. Thus, molten lava is basically Terram, because it is a form of rock, but its liquidity is governed by Aquam and its heat by Ignem. Similarly, ice is basically Aquam, being a form of water, but its solidity is covered by Terram and its coldness by Ignem. As a rule, simple creation or destruction of a non-living thing needs only the basic Art, without requisites (see [page 311](<Ars Magica DE - 09. Spells.md#requisites>)). Thus, to create ice you need only Creo Aquam. However, affecting the aspects and properties of a thing might use the other Arts. Thus, making ice warm would require Creo Ignem. A Creo Aquam spell with an Ignem requisite could create warm ice — still solid, but warm. Alternatively, a magus could simply create warmth, and allow it to naturally melt the ice.
 
 Mist is a kind of air, so its basic form is Auram, but its dampness means that it is also affected by Aquam in certain respects. Weather phenomena are all basically Auram, including rain storms, but a spell to affect the rain alone would be Aquam. Hail storms, then, are basically Auram, but the hail stones are basically Aquam with elements of Ignem and Terram.
 
@@ -316,11 +316,11 @@ Hermetic magic is incapable of creating anything permanently without raw vis. Th
 
 #### The Limit of Energy
 
-Hermetic magic cannot restore one's physical energy (Fatigue levels), nor can it restore Confidence (see [page 29](<Ars Magica DE - 3. Characters.md#confidence>)). Most magi think that this is a flaw in Hermetic theory.
+Hermetic magic cannot restore one's physical energy (Fatigue levels), nor can it restore Confidence (see [page 29](<Ars Magica DE - 03. Characters.md#confidence>)). Most magi think that this is a flaw in Hermetic theory.
 
 #### The Limit of Experience
 
-Hermetic magic cannot create skills or knowledge in a person by manipulating their mind, nor can it transfer such things (Abilities, in game terms) from one person to another. This is widely believed to be a flaw in Hermetic theory, although a few magi have suggested that it is a flaw in their understanding of Abilities. Hermetic magic can create much simpler things of the same general type as Abilities, which would support the latter interpretation. (This is discussed in more detail in *Houses of Hermes: Societates*, [pages 68–69](<Ars Magica DE - 4. Virtues and Flaws.md#page-68>).)
+Hermetic magic cannot create skills or knowledge in a person by manipulating their mind, nor can it transfer such things (Abilities, in game terms) from one person to another. This is widely believed to be a flaw in Hermetic theory, although a few magi have suggested that it is a flaw in their understanding of Abilities. Hermetic magic can create much simpler things of the same general type as Abilities, which would support the latter interpretation. (This is discussed in more detail in *Houses of Hermes: Societates*, [pages 68–69](<Ars Magica DE - 04. Virtues and Flaws.md#page-68>).)
 
 #### The Limit of the Infernal
 
@@ -368,7 +368,7 @@ Most magi would like to believe that this derives from the Limit of the Divine, 
 
 Raw magic power, known as vis (pronounced 'WEES'), is sometimes found stored in and partially constituting some physical substance. This can occur either because a magus has trapped it there or because it was deposited there by natural magical processes. Vis trapped in some substance is called raw vis, and magi have many uses for it.
 
-Raw vis is always associated with a particular Technique or Form. Thus, there is Ignem vis, Creo vis, Imaginem vis— even Vim vis. Raw vis invariably exists in some kind of matter appropriate to the Technique or Form to which it corresponds. Animal vis might be found in blood, skins, or horns; Herbam vis in plant fiber or sap; Terram vis in crystals; and so on. When raw vis is used its power is permanently lost. When this happens its substance often changes — dissolving, withering, crumbling, shriveling, or otherwise degrading — in whatever way is appropriate to it. This normally does not happen if the vis has been magically transferred to another receptacle (see [page 250](<Ars Magica DE - 8. Laboratory.md#vis>)), and never happens to such artificial receptacles.
+Raw vis is always associated with a particular Technique or Form. Thus, there is Ignem vis, Creo vis, Imaginem vis— even Vim vis. Raw vis invariably exists in some kind of matter appropriate to the Technique or Form to which it corresponds. Animal vis might be found in blood, skins, or horns; Herbam vis in plant fiber or sap; Terram vis in crystals; and so on. When raw vis is used its power is permanently lost. When this happens its substance often changes — dissolving, withering, crumbling, shriveling, or otherwise degrading — in whatever way is appropriate to it. This normally does not happen if the vis has been magically transferred to another receptacle (see [page 250](<Ars Magica DE - 08. Laboratory.md#vis>)), and never happens to such artificial receptacles.
 
 Raw vis can be used in many applications. Examples include strengthening a spell, performing a ritual, creating a magical enchantment, or aiding in the study of the magical Art to which it corresponds. Because of its utility, vis is greatly prized by magi. They often use it as a form of currency, measuring it in units called pawns. Ten pawns are said to make a rook, while ten rooks make a queen. A queen of vis is a legendary quantity, and it would be highly unlikely for a given magus to possess even a sizable fraction of such an amount.
 
@@ -388,7 +388,7 @@ If the generation of the casting total involves rolling a stress die, a botch is
 
 ### Spell Basics
 
-All Hermetic spells have a Technique, Form, and Level. The Technique and Form are determined by the kind of effect that the spell has, while the Level is determined by how powerful that effect is. Spells also have a magnitude, which is equal to the level divided by five, rounded up. These terms are discussed in more detail in the remainder of this chapter and in the introduction to the Spells chapter, [page 301](<Ars Magica DE - 9. Spells.md#chapter-9-spells>).
+All Hermetic spells have a Technique, Form, and Level. The Technique and Form are determined by the kind of effect that the spell has, while the Level is determined by how powerful that effect is. Spells also have a magnitude, which is equal to the level divided by five, rounded up. These terms are discussed in more detail in the remainder of this chapter and in the introduction to the Spells chapter, [page 301](<Ars Magica DE - 09. Spells.md#chapter-9-spells>).
 
 ### Formulaic Magic
 
@@ -634,7 +634,7 @@ Arcane Connections must be stored carefully, or else they become links to differ
 | Months           | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile. |
 | Years            | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile. |
 | Decades          | Body part. |
-| Indefinite       | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' in the Laboratory chapter, [page 250](<Ars Magica DE - 8. Laboratory.md#fixing-arcane-connections>)). |
+| Indefinite       | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' in the Laboratory chapter, [page 250](<Ars Magica DE - 08. Laboratory.md#fixing-arcane-connections>)). |
 
 ## Penetration
 
@@ -783,7 +783,7 @@ A maga may want to cast a spell that affects something else, and only indirectly
 
 The die is a stress die if the maga is under stress, a simple die otherwise. Treat the total as an attack total (see Combat on [page 393](<Ars Magica DE - 11. Obstacles.md#combat>)). If the 'attack' hits, the spell effect is in the right place; what effect this has depends on the spell. The magus does not generate an Attack Advantage even if the spell inflicts damage; the damage is determined by rolling a stress die and adding the spell's damage bonus, and comparing it to the target's Soak Total + stress die.
 
-If the direct target of the spell is a basic Individual for the Form in question (see [page 310](<Ars Magica DE - 9. Spells.md#page-310>)), there is no bonus to the aiming roll. For every step larger, and thus for every magnitude added to the spell, the aiming roll gets a +6 bonus. It is hard to miss a single person when you create a pit the size of a church.
+If the direct target of the spell is a basic Individual for the Form in question (see [page 310](<Ars Magica DE - 09. Spells.md#page-310>)), there is no bonus to the aiming roll. For every step larger, and thus for every magnitude added to the spell, the aiming roll gets a +6 bonus. It is hard to miss a single person when you create a pit the size of a church.
 
 For extreme cases, the troupe should use its judgment and may change the bonus. For example, a basic Individual in Auram could be a cloud 100 paces across, which should grant a large bonus to aiming, while a gemstone created two steps larger than a basic Individual is still only 10 inches or so across, and so should probably grant no bonus at all.
 
@@ -845,7 +845,7 @@ For every level in the Mastery Ability, the maga may also choose one special abi
 
 #### Adaptive Casting
 
-You may use your mastery score and all the special abilities associated with it whenever you cast a similar spell (as defined in the Laboratory chapter, [page 260](<Ars Magica DE - 8. Laboratory.md#similar-spells>)). If you have two or more mastery Abilities that apply to a single spell (because you have mastered two or more spells that are similar to the spell you are casting) you may only use the score of one Ability, and the special abilities taken for that mastery Ability. For example, if you have mastered *Demon's Eternal Oblivion* 30 with a score of 3, and the abilities Adaptive, Fast Casting, and Penetration, and *Demon's Eternal Oblivion* 25 with a score of 4 and the abilities Adaptive, Quiet Casting twice, and Still Casting, you must use the score of 3 if you want to use the Penetration ability, and the score of 4 if you want to use the Still Casting ability, and you cannot use the Penetration ability with the score of 4.
+You may use your mastery score and all the special abilities associated with it whenever you cast a similar spell (as defined in the Laboratory chapter, [page 260](<Ars Magica DE - 08. Laboratory.md#similar-spells>)). If you have two or more mastery Abilities that apply to a single spell (because you have mastered two or more spells that are similar to the spell you are casting) you may only use the score of one Ability, and the special abilities taken for that mastery Ability. For example, if you have mastered *Demon's Eternal Oblivion* 30 with a score of 3, and the abilities Adaptive, Fast Casting, and Penetration, and *Demon's Eternal Oblivion* 25 with a score of 4 and the abilities Adaptive, Quiet Casting twice, and Still Casting, you must use the score of 3 if you want to use the Penetration ability, and the score of 4 if you want to use the Still Casting ability, and you cannot use the Penetration ability with the score of 4.
 
 #### Ceremonial Casting
 
@@ -863,7 +863,7 @@ Add the caster's Mastery score to all Concentration rolls related to the spell. 
 
 #### Magic Resistance
 
-Your Magic Resistance is doubled against the mastered spell, and against any spells or powers that count as similar. (See 'Similar Spells', [page 260](<Ars Magica DE - 8. Laboratory.md#similar-spells>))
+Your Magic Resistance is doubled against the mastered spell, and against any spells or powers that count as similar. (See 'Similar Spells', [page 260](<Ars Magica DE - 08. Laboratory.md#similar-spells>))
 
 #### Multiple Casting
 
@@ -1455,7 +1455,7 @@ Hubris increases over time, building like an Ability. Hubris cannot be deliberat
 | 3                       | Selling or manufacturing for another a greater enchanted device.                                                                                        |
 | 6                       | Selling or manufacturing for another an attuned item.                                                                                                   |
 | 1/Magnitude<br>of Might | Selling an automaton.                                                                                                                                   |
-| 1                       | Winning the apprentice category of the Contest (see Houses of Hermes: Mystery Cults, [page 116](<Ars Magica DE - 4. Virtues and Flaws.md#page-116>)).                                                         |
+| 1                       | Winning the apprentice category of the Contest (see Houses of Hermes: Mystery Cults, [page 116](<Ars Magica DE - 04. Virtues and Flaws.md#page-116>)).                                                         |
 | 3                       | Winning the journeymen category of the Contest.                                                                                                         |
 | 6                       | Winning the master category of the Contest.                                                                                                             |
 | 1                       | Learning a new minor House<br>Inner Mystery.                                                                                                            |
@@ -1475,7 +1475,7 @@ Soon after Fenistour invented casting tools, allowing Verditius magi to cast For
 
 The magus may enchant his casting tools to mirror certain effects of mastered spells, as well as allowing casting bonuses when he uses them. This is a laboratory process, requiring a season spent working in a Hermetic laboratory. Each casting tool can only be enchanted once, even if it has more than one property, and the magus must be able to finish the enchantment in a single season as if he were creating a lesser enchanted device. Enchanted casting tools cannot be instilled with other magical powers, and cannot be used as a base for a lesser or greater enchanted item.
 
-To enchant a casting tool compare the magus's Technique and Form Lab Total to the level of the spell that the casting tool is associated with. A casting tool is closely linked to the spell through the Verditius Mysteries, and so the magus may carve Verditius runes into the casting tool, adding his Philosophiae score to the Lab Total, even if the tool would not normally have a Shape or Material bonus for that spell. If the magus has a Craft Ability that could include making the tools, you may also add his Craft score. Because enchanted casting tools become permanent Arcane Connections to the magus, add his Hubris Personality score to the Lab Total. The magus also receives a bonus for knowing the spell in the first place, adding the magnitude of the spell to the Lab Total, much like the bonus received from knowing a similar spell ([page 260](<Ars Magica DE - 8. Laboratory.md#similar-spells>)). The Lab Total must double the level of the spell plus any additional powers the magus wishes to instill.
+To enchant a casting tool compare the magus's Technique and Form Lab Total to the level of the spell that the casting tool is associated with. A casting tool is closely linked to the spell through the Verditius Mysteries, and so the magus may carve Verditius runes into the casting tool, adding his Philosophiae score to the Lab Total, even if the tool would not normally have a Shape or Material bonus for that spell. If the magus has a Craft Ability that could include making the tools, you may also add his Craft score. Because enchanted casting tools become permanent Arcane Connections to the magus, add his Hubris Personality score to the Lab Total. The magus also receives a bonus for knowing the spell in the first place, adding the magnitude of the spell to the Lab Total, much like the bonus received from knowing a similar spell ([page 260](<Ars Magica DE - 08. Laboratory.md#similar-spells>)). The Lab Total must double the level of the spell plus any additional powers the magus wishes to instill.
 
 <!-- p. 243 --><a id="page-243"></a>
 
@@ -1547,7 +1547,7 @@ In the thirteenth century, Gifted Nemthengacha have been systematically accepted
 
 #### Powers
 
-Like every Ex Miscellanea character, a magus of the Nemthengacha tradition receives a free Major non-Hermetic Virtue, a compulsory Major Flaw, and a free Minor Hermetic Virtue. The Major Non-Hermetic Virtue is Embitterment, a new Major Supernatural Ability. Embitterment is similar to Entrancement ([page 164](<Ars Magica DE - 5. Abilities.md#embitterment>)), but the effects are more specific and potent. Due to this focus, Nemthengacha find it difficult to control other emotions in a target's mind, which spills over into other aspects of Hermetic magic. Each has the Major Hermetic Flaw: Deficient Technique Rego. Since Embitterment depends solely on the Nemthenga's voice, his magic is less dependent on gestures than other Hermetic magi. He receives the Minor Hermetic Virtue: Subtle Magic, at no cost.
+Like every Ex Miscellanea character, a magus of the Nemthengacha tradition receives a free Major non-Hermetic Virtue, a compulsory Major Flaw, and a free Minor Hermetic Virtue. The Major Non-Hermetic Virtue is Embitterment, a new Major Supernatural Ability. Embitterment is similar to Entrancement ([page 164](<Ars Magica DE - 05. Abilities.md#embitterment>)), but the effects are more specific and potent. Due to this focus, Nemthengacha find it difficult to control other emotions in a target's mind, which spills over into other aspects of Hermetic magic. Each has the Major Hermetic Flaw: Deficient Technique Rego. Since Embitterment depends solely on the Nemthenga's voice, his magic is less dependent on gestures than other Hermetic magi. He receives the Minor Hermetic Virtue: Subtle Magic, at no cost.
 
 **Major Non-Hermetic Virtue:** Embitterment
 

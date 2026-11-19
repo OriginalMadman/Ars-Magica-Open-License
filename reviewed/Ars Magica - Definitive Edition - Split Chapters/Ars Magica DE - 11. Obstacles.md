@@ -93,7 +93,7 @@ Each further +1 size adds +1 to each wound range. For every 5 + size points by w
 >
 > The wolf rolls a 5 for his attack, for an Attack Total of 16. Ignatio rolls a 6 for his defense, for a Defense Total of 17. He fends the wolf off with his shield, and is unharmed.
 >
-> Then Ignatio attacks, and rolls a 0. He now has to check for a botch (see [page 227](<Ars Magica DE - 7. Hermetic Magic.md#page-227>)). The storyguide decides that the standard one botch die should be rolled, as there are no special circumstances calling for more botch dice. Fortunately for Ignatio, he rolls a 4 and doesn't botch. His Attack Total is thus 12, since the zero he rolled on his stress die just counts as a zero. The wolf rolls defense, and also gets a 0. He also rolls one botch die and gets a 1, so Polandrus also managed to avoid botching. The wolf's Defense Total is only 9, so Ignatio has an Attack Advantage of 3. This means that he does his base 7 plus his Attack Advantage of 3 = 10 points of damage. Polandrus has a Soak of +6, so 4 points get through. Since Polandrus's Size is –1, looking up the damage vs. Polandrus's Size on the Damage Table ([page 404](#damage-table-1)) results in a Light Wound. Polandrus now gains a –1 Wound Penalty to all actions.
+> Then Ignatio attacks, and rolls a 0. He now has to check for a botch (see [page 227](<Ars Magica DE - 07. Hermetic Magic.md#page-227>)). The storyguide decides that the standard one botch die should be rolled, as there are no special circumstances calling for more botch dice. Fortunately for Ignatio, he rolls a 4 and doesn't botch. His Attack Total is thus 12, since the zero he rolled on his stress die just counts as a zero. The wolf rolls defense, and also gets a 0. He also rolls one botch die and gets a 1, so Polandrus also managed to avoid botching. The wolf's Defense Total is only 9, so Ignatio has an Attack Advantage of 3. This means that he does his base 7 plus his Attack Advantage of 3 = 10 points of damage. Polandrus has a Soak of +6, so 4 points get through. Since Polandrus's Size is –1, looking up the damage vs. Polandrus's Size on the Damage Table ([page 404](#damage-table-1)) results in a Light Wound. Polandrus now gains a –1 Wound Penalty to all actions.
 > 
 > In the next round, Polandrus attacks again. He rolls a 6, which, with the Wound Penalty, only yields an Attack Total of 16. Ignatio rolls a 7, for a Defense Total of 18. Safe, again.
 >
@@ -197,7 +197,7 @@ By expending a Fatigue level you can add a bonus equal to your Combat Ability to
 
 #### Magic
 
-Magi may wish to use magic in combat. They may cast spells at their place in the initiative order, but since spells have no initiative modifier this is based on their Quickness alone. A magus Fast Casting a spell (see [page 217](<Ars Magica DE - 7. Hermetic Magic.md#fast-casting>)) acts in immediate response to another action, and thus not at a particular initiative point.
+Magi may wish to use magic in combat. They may cast spells at their place in the initiative order, but since spells have no initiative modifier this is based on their Quickness alone. A magus Fast Casting a spell (see [page 217](<Ars Magica DE - 07. Hermetic Magic.md#fast-casting>)) acts in immediate response to another action, and thus not at a particular initiative point.
 
 It takes approximately one combat round to cast a spell, unless it is fast-cast. Thus, a magus cannot cast more than one normal spell in a single round, but may also cast a fast-cast spell, or cast only fast-cast spells. A very fast magus may be able to cast more than one fast-cast spell, but this is beyond most magi.
 
@@ -481,7 +481,7 @@ Partial armor covers the vital areas only, and generally consists of a hauberk (
 
 ## Encumbrance
 
-Characters who are carrying a great deal of equipment are hindered in many of their actions. This is represented by subtracting the character's Encumbrance score from the relevant rolls. Most athletic activities are penalized, as is spell casting (see [page 213](<Ars Magica DE - 7. Hermetic Magic.md#casting-spells>)), but, in combat, Attack and Defense are not, as long as the Encumbrance is largely due to weapons and armor.
+Characters who are carrying a great deal of equipment are hindered in many of their actions. This is represented by subtracting the character's Encumbrance score from the relevant rolls. Most athletic activities are penalized, as is spell casting (see [page 213](<Ars Magica DE - 07. Hermetic Magic.md#casting-spells>)), but, in combat, Attack and Defense are not, as long as the Encumbrance is largely due to weapons and armor.
 
 Encumbrance is calculated in two stages. Heavy or bulky items have a Load value (listed in the Armor and Weapons tables on [pages 400 and 401](#armor-table)). Add up the total Load that a character is carrying, and use it to calculate the character's Burden. Burden increases when Load reaches the level for that Burden, so that a character with a Load of 9 has a Burden of 3.
 
@@ -509,7 +509,7 @@ Each Fatigue level above Winded has a penalty associated with it (except for Unc
 
 ### Short-Term Fatigue
 
-Characters are normally Fresh until they perform some strenuous action, such as engaging in combat, casting Spontaneous spells, or sprinting. Brief strenuous actions require a Fatigue roll: roll Stamina – Encumbrance on a stress die against an Ease Factor of 6. Failure means the loss of one Short-Term Fatigue level. A botch costs two. Combat and magic use have different rules for Fatigue loss that replace those given here. See [pages 213, 231](<Ars Magica DE - 7. Hermetic Magic.md#page-213>), and 397.
+Characters are normally Fresh until they perform some strenuous action, such as engaging in combat, casting Spontaneous spells, or sprinting. Brief strenuous actions require a Fatigue roll: roll Stamina – Encumbrance on a stress die against an Ease Factor of 6. Failure means the loss of one Short-Term Fatigue level. A botch costs two. Combat and magic use have different rules for Fatigue loss that replace those given here. See [pages 213, 231](<Ars Magica DE - 07. Hermetic Magic.md#page-213>), and 397.
 
 #### Recovery from Short-Term Fatigue
 
@@ -620,9 +620,9 @@ More detail on medicine is given in *Art and Academe*, Chapter 4.
 
 #### Healing Spells
 
-Certain Creo Corpus rituals can heal wounds immediately, without requiring a roll (see *The Chirurgeon's Healing Touch* on [page 332](<Ars Magica DE - 9. Spells.md#the-chirurgeons-healing-touch>)).
+Certain Creo Corpus rituals can heal wounds immediately, without requiring a roll (see *The Chirurgeon's Healing Touch* on [page 332](<Ars Magica DE - 09. Spells.md#the-chirurgeons-healing-touch>)).
 
-Other Creo Corpus spells provide a bonus to the Recovery roll (see *Purification of the Festering Wound* on [page 332](<Ars Magica DE - 9. Spells.md#purification-of-the-festering-wounds>)). This bonus adds to any bonus due to medical attention. These spells must be in effect for the whole of the recovery period, either because their duration exceeds the recovery period, or because they are recast. They can cause Warping (see [page 389](<Ars Magica DE - 10. Long-Term Events.md#warping>)).
+Other Creo Corpus spells provide a bonus to the Recovery roll (see *Purification of the Festering Wound* on [page 332](<Ars Magica DE - 09. Spells.md#purification-of-the-festering-wounds>)). This bonus adds to any bonus due to medical attention. These spells must be in effect for the whole of the recovery period, either because their duration exceeds the recovery period, or because they are recast. They can cause Warping (see [page 389](<Ars Magica DE - 10. Long-Term Events.md#warping>)).
 
 ## Other Perils
 

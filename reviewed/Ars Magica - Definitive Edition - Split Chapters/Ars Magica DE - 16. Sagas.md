@@ -162,7 +162,7 @@ Even the simplest troupe-style play avoids these problems, as every player has a
 
 ### Alternative Characters
 
-In this version of troupe-style play each player has two or more characters, but only plays one of them in a given session. At least one character should be a magus, and at least one should be a companion (see [page 25](<Ars Magica DE - 3. Characters.md#chapter-3-characters>)). There is nothing to stop a player having two magi and four companions, if he can cope with only playing each character once every six sessions or so, and with the book-keeping of keeping each character up to date.
+In this version of troupe-style play each player has two or more characters, but only plays one of them in a given session. At least one character should be a magus, and at least one should be a companion (see [page 25](<Ars Magica DE - 03. Characters.md#chapter-3-characters>)). There is nothing to stop a player having two magi and four companions, if he can cope with only playing each character once every six sessions or so, and with the book-keeping of keeping each character up to date.
 
 If you play this way, it is essential that a player's characters have good reasons not to go on adventures together. They may dislike each other, but this is not essential. Instead, one player's companion could be closely linked to another player's magus, or the two characters could have very different interests.
 
@@ -218,7 +218,7 @@ Pure troupe style does, however, require a group of players all of whom are comf
 
 ## Researching a Setting
 
-So, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the players (see [page 178](<Ars Magica DE - 6. Covenants.md#page-178>)), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
+So, you've decided you want to run an **Ars Magica** saga. What now? You need to create the covenant, probably with the co-operation of the players (see [page 178](<Ars Magica DE - 06. Covenants.md#page-178>)), and then you need to put it somewhere. There are a number of options for this, and none is better or worse than the others. You can even switch between them during a saga, either doing more research, or deliberately including more non-historical elements.
 
 <!-- p. 531 --><a id="page-531"></a>
 

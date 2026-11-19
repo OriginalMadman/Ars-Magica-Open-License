@@ -18,7 +18,7 @@ Flaws come in two broad types. General, Hermetic, and Supernatural Flaws hinder 
 
 Note that Flaws are not 'things you would not want to have were you the character'. They may be things you would very much like to have, but because they are a hindrance or a story hook, they still count as Flaws. This means that some characters may be extremely keen to keep their Flaws. Even more so, a game Flaw need not be a moral flaw, and a game Virtue need not be a moral virtue. Indeed, most moral virtues work well as Personality or Story Flaws, because they get the character involved in stories.
 
-Some Flaws, such as Blind or Mute, could be fixed using Hermetic magic. A character with easy access to such magic can only take such a Flaw if there is some reason why it cannot be fixed, such as that it is part of a character's Essential Nature (see [page 210](<Ars Magica DE - 7. Hermetic Magic.md#page-210>)). In general, characters cannot take Flaws which will quickly be removed in play.
+Some Flaws, such as Blind or Mute, could be fixed using Hermetic magic. A character with easy access to such magic can only take such a Flaw if there is some reason why it cannot be fixed, such as that it is part of a character's Essential Nature (see [page 210](<Ars Magica DE - 07. Hermetic Magic.md#page-210>)). In general, characters cannot take Flaws which will quickly be removed in play.
 
 > ### Choosing Flaws
 >
@@ -109,13 +109,13 @@ There are several specific types of Virtue and Flaw. These are described here, a
 
 ### The Gift
 
-The Gift is a special Virtue, because it has no cost. The character suffers all the penalties of The Gift, just as magi do (see [page 203](<Ars Magica DE - 7. Hermetic Magic.md#the-gift>)), but can be taught Supernatural Abilities without having to take the corresponding Virtues (see [page 383](<Ars Magica DE - 10. Long-Term Events.md#page-383>) for rules). Most importantly, the character can be taught Hermetic Magic, so all magi must have this Virtue. A character with The Gift, even if he is not a magus, may take Hermetic Virtues and Flaws which relate to intrinsic ability rather than background or training.
+The Gift is a special Virtue, because it has no cost. The character suffers all the penalties of The Gift, just as magi do (see [page 203](<Ars Magica DE - 07. Hermetic Magic.md#the-gift>)), but can be taught Supernatural Abilities without having to take the corresponding Virtues (see [page 383](<Ars Magica DE - 10. Long-Term Events.md#page-383>) for rules). Most importantly, the character can be taught Hermetic Magic, so all magi must have this Virtue. A character with The Gift, even if he is not a magus, may take Hermetic Virtues and Flaws which relate to intrinsic ability rather than background or training.
 
 <!-- p. 64 --><a id="page-64"></a>
 
 Characters may take Virtues that grant Supernatural Abilities without taking The Gift, and such characters do not suffer the penalties imposed by The Gift. However, such characters may not learn new Supernatural Abilities in the course of the saga, although they may improve the ones they already have. It is possible for unGifted characters to Initiate new Supernatural Abilities through a Mystery Cult, but even this is harder for them than for the Gifted.
 
-Characters who have The Gift may start play with a single Supernatural Ability, without having to take any other Virtue, but if they wish to learn others they must find opportunities to do so in the course of the saga. They may also take Virtues granting Supernatural Abilities if they wish to have more Abilities at character creation. Note that it is harder for a character with Supernatural Abilities to become a Hermetic magus (see Training Your Apprentice on [page 270](<Ars Magica DE - 8. Laboratory.md#training-your-apprentice>)), so you may not wish to take any such abilities if you plan for the character to become an apprentice. The ability to cast Hermetic magic is the single supernatural ability possessed by Hermetic magi in virtue of The Gift; again, they may take more Supernatural Ability Virtues if they wish.
+Characters who have The Gift may start play with a single Supernatural Ability, without having to take any other Virtue, but if they wish to learn others they must find opportunities to do so in the course of the saga. They may also take Virtues granting Supernatural Abilities if they wish to have more Abilities at character creation. Note that it is harder for a character with Supernatural Abilities to become a Hermetic magus (see Training Your Apprentice on [page 270](<Ars Magica DE - 08. Laboratory.md#training-your-apprentice>)), so you may not wish to take any such abilities if you plan for the character to become an apprentice. The ability to cast Hermetic magic is the single supernatural ability possessed by Hermetic magi in virtue of The Gift; again, they may take more Supernatural Ability Virtues if they wish.
 
 Grogs can never have The Gift, as a character with The Gift is too important to be a grog. As a rule, companions should only have The Gift if they are intended to become magi, or if they are members of one of the other magical traditions described in **Ars Magica 5th Edition** supplements. Troupes should not allow any other Gifted characters unless they are absolutely sure that they want them.
 
@@ -625,7 +625,7 @@ You digest the instruction of others quite easily. You get a +6 bonus to Lab Tot
 
 #### Affinity with Ability
 *Minor, General*<br>
-All Advancement Totals for one Ability are increased by half, rounded up, as are any experience points you put in that Ability at character creation. You may only take this Virtue once for a given Ability, but may take it again for different Abilities. If you take this Virtue for an Ability, you may exceed the normal age-based cap during character generation (see [page 48](<Ars Magica DE - 3. Characters.md#page-48>)) by two points for that Ability.
+All Advancement Totals for one Ability are increased by half, rounded up, as are any experience points you put in that Ability at character creation. You may only take this Virtue once for a given Ability, but may take it again for different Abilities. If you take this Virtue for an Ability, you may exceed the normal age-based cap during character generation (see [page 48](<Ars Magica DE - 03. Characters.md#page-48>)) by two points for that Ability.
 
 #### Affinity with Art
 *Minor, Hermetic*<br>
@@ -669,7 +669,7 @@ The character is able to take on any human form, so long as it does not identifi
 
 #### Animal Ken
 *Minor, Supernatural*<br>
-You can communicate with animals as if they were human beings. Choosing this Virtue confers the Ability Animal Ken 1 ([page 159](<Ars Magica DE - 5. Abilities.md#animal-ken>)).
+You can communicate with animals as if they were human beings. Choosing this Virtue confers the Ability Animal Ken 1 ([page 159](<Ars Magica DE - 05. Abilities.md#animal-ken>)).
 
 #### Apprentice
 *Free, Social Status*<br>
@@ -695,7 +695,7 @@ You have risen to enjoy the status and privilege associated with the most import
 
 #### Aristotelian Training
 *Minor, General*<br>
-The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<../Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11](<Ars Magica DE - 2. The Order of Hermes.md#page-11>) of *Art and Academe*). This Virtue is compatible with Puissant Artes Liberales.
+The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<../Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11](<Ars Magica DE - 02. The Order of Hermes.md#page-11>) of *Art and Academe*). This Virtue is compatible with Puissant Artes Liberales.
 
 #### Atlantean Magic
 *Minor, Hermetic*<br>
@@ -755,7 +755,7 @@ Bee Kings are never stung by any variety of biting insect. An attacking bee swar
 
 Note that, in Mythic Europe, bees have kings, not queens, but a female character with this Virtue may choose to call herself a Bee Queen.
 
-This is a Supernatural Virtue, and you cannot lose it when being trained as a magus (see [page 269](<Ars Magica DE - 8. Laboratory.md#page-269>)). If your master cannot preserve the ability, you cannot be trained.
+This is a Supernatural Virtue, and you cannot lose it when being trained as a magus (see [page 269](<Ars Magica DE - 08. Laboratory.md#page-269>)). If your master cannot preserve the ability, you cannot be trained.
 
 #### Berserk
 *Minor, General*<br>
@@ -773,7 +773,7 @@ You age incredibly slowly, and may live for hundreds of years. You need make an 
 
 Due to your great size, you must eat vast amounts of food (equal to what three normal people would eat in a day), and have the Minor Personality Flaw Greedy (which counts as one of your normal Flaws). If you go without food for even a single day you fall into a deep slumber, a kind of supernatural hibernation. You will starve to death in (2 + your Divine Might) days unless you are fed your own body weight in food. After awakening, you suffer a number of lost Long-Term Fatigue Levels equal to the number of days you went without food. (Note that this Virtue does not itself grant Divine Might; see Strong Angelic Heritage, later.)
 
-You may not take The Gift or True Faith, Hermetic Virtues or Flaws, Methods or Powers (see *Realms of Power: The Divine, Revised Edition*, [pages 46–56](<Ars Magica DE - 3. Characters.md#page-46>)), Virtues such as Giant, Mythic, or Faerie Blood, Flaws such as Age Quickly or Lycanthrope, or Virtues or Flaws that affect your Size. A descendant of the Nephilim without Divine Might could, in theory, learn supernatural powers (other than Divine Methods and Powers) from any realm, but that is very rare. Magi and Grogs may not take this Virtue.
+You may not take The Gift or True Faith, Hermetic Virtues or Flaws, Methods or Powers (see *Realms of Power: The Divine, Revised Edition*, [pages 46–56](<Ars Magica DE - 03. Characters.md#page-46>)), Virtues such as Giant, Mythic, or Faerie Blood, Flaws such as Age Quickly or Lycanthrope, or Virtues or Flaws that affect your Size. A descendant of the Nephilim without Divine Might could, in theory, learn supernatural powers (other than Divine Methods and Powers) from any realm, but that is very rare. Magi and Grogs may not take this Virtue.
 
 #### Book Learner
 *Minor, General*<br>
@@ -815,7 +815,7 @@ This Virtue is compatible with the Baccalaureus and Priest Virtues. Characters w
 
 #### Cautious Sorcerer
 *Minor, Hermetic*<br>
-You are very careful with magic, and are less likely to fail spectacularly if you do fail. You roll three fewer botch dice when casting spells (whether ritual, formulaic, or spontaneous), and when working in the laboratory. This Virtue may not reduce the number of botch dice rolled below one. However, its effects are applied before any other effects which reduce botch dice, such as Spell Mastery (see [page 225](<Ars Magica DE - 7. Hermetic Magic.md#spell-mastery>)), and they may reduce the number of botch dice to zero.
+You are very careful with magic, and are less likely to fail spectacularly if you do fail. You roll three fewer botch dice when casting spells (whether ritual, formulaic, or spontaneous), and when working in the laboratory. This Virtue may not reduce the number of botch dice rolled below one. However, its effects are applied before any other effects which reduce botch dice, such as Spell Mastery (see [page 225](<Ars Magica DE - 07. Hermetic Magic.md#spell-mastery>)), and they may reduce the number of botch dice to zero.
 
 #### Cautious with (Ability)
 *Minor, General*<br>
@@ -823,7 +823,7 @@ You are very careful with a specific Ability, and are less likely to fail specta
 
 #### Clan Ilfetu
 *Minor, Hermetic*<br>
-The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see [*The Mysteries Revised Edition*, page 58](<../Ars Magica 5e - The Mysteries (Revised).md#chapter-7-divination--augury>)); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes: Mystery Cults*, [page 12](<Ars Magica DE - 2. The Order of Hermes.md#page-12>), for more details on House Bjornaer and the role of Clan Ilfetu.
+The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see [*The Mysteries Revised Edition*, page 58](<../Ars Magica 5e - The Mysteries (Revised).md#chapter-7-divination--augury>)); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes: Mystery Cults*, [page 12](<Ars Magica DE - 02. The Order of Hermes.md#page-12>), for more details on House Bjornaer and the role of Clan Ilfetu.
 
 <!-- p. 74 --><a id="page-74"></a>
 
@@ -843,7 +843,7 @@ The character has the ability to mentally command mundane examples of a species 
 *Free, Supernatural*<br>
 This supernatural power is granted to characters by either the pope, or the Divine directly. It is an inherent benefit of Church office. Most characters with this Virtue also have the Senior Clergy Social Status Virtue.
 
-The character has a power equivalent to the Hermetic spell *Aura of Rightful Authority* ([page 357](<Ars Magica DE - 9. Spells.md#aura-of-rightful-authority>)), but with Voice Range; this power has no cost, and no Penetration. The character also has a Magic Resistance and a Soak bonus that depend upon his rank in the Church. If the character carries a relic, this Magic Resistance is added to that of the relic.
+The character has a power equivalent to the Hermetic spell *Aura of Rightful Authority* ([page 357](<Ars Magica DE - 09. Spells.md#aura-of-rightful-authority>)), but with Voice Range; this power has no cost, and no Penetration. The character also has a Magic Resistance and a Soak bonus that depend upon his rank in the Church. If the character carries a relic, this Magic Resistance is added to that of the relic.
 
 *Pope:* Magic Resistance 25, Soak bonus +5.
 
@@ -855,7 +855,7 @@ The character has a power equivalent to the Hermetic spell *Aura of Rightful Aut
 
 Papal legates are the representatives of the pope. If the legatus missus — a lower grade with limited powers — delays or deviates from his mission, then his Commanding Aura ceases to work until he completes penance. The Commanding Aura is also lost when a legatus missus completes his mission.
 
-Some lay rulers ordained by the pope (mostly kings and emperors) also have a Commanding Aura. See *Realms of Power: The Divine, Revised Edition*, [page 42](<Ars Magica DE - 3. Characters.md#page-42>).
+Some lay rulers ordained by the pope (mostly kings and emperors) also have a Commanding Aura. See *Realms of Power: The Divine, Revised Edition*, [page 42](<Ars Magica DE - 03. Characters.md#page-42>).
 
 #### Common Sense
 *Minor, General*<br>
@@ -909,13 +909,13 @@ The storyguide must keep the prophecy in mind and give fair warning of items rel
 
 #### Deft Form
 *Minor, Hermetic*<br>
-You are particularly skilled with one Form. You suffer no penalty to the Casting Total casting spells in that Form when using non-standard voicings/gestures (see [page 216](<Ars Magica DE - 7. Hermetic Magic.md#page-216>)), including using no voice or gestures because you are in a non-human form. Voice Range spells still have a Range based on how loudly you are speaking.
+You are particularly skilled with one Form. You suffer no penalty to the Casting Total casting spells in that Form when using non-standard voicings/gestures (see [page 216](<Ars Magica DE - 07. Hermetic Magic.md#page-216>)), including using no voice or gestures because you are in a non-human form. Voice Range spells still have a Range based on how loudly you are speaking.
 
 #### Demonic Blood
 *Major, Supernatural, Tainted*<br>
 The character has a demon as a parent, and was conceived for a specific task by her Infernal mother or father. Because of this, she is an Infernal being and possesses an Infernal Might (Corpus) score of 5. This grants her Magic Resistance. Her body also contains one pawn of Corpus vis, which can only be extracted once she is dead. She is immune to Warping of any kind, need not eat or drink, and cannot produce a child; however, she suffers the natural urges associated with these activities, and may be required to make Personality rolls to overcome her desires.
 
-She has up to 30 levels of Infernal Powers that may be invoked by spending Might Points. Design the effects using Hermetic spell guidelines, or the maleficia guidelines (see *Realms of Power: The Infernal*, Chapter 10: The Maleficia), taking into account the Powers of the demon parent. The Might cost for each Power is equal to its magnitude divided by two, rounded down (but always at least one point). These may be constant effects designed in the usual fashion (Sun duration, two uses per day, and an Environmental Trigger; see [page 257](<Ars Magica DE - 8. Laboratory.md#page-257>)); her Might Pool is always reduced by the cost of such a Power, and she cannot turn these Powers off. The Initiative total of each Power is the character's Quickness.
+She has up to 30 levels of Infernal Powers that may be invoked by spending Might Points. Design the effects using Hermetic spell guidelines, or the maleficia guidelines (see *Realms of Power: The Infernal*, Chapter 10: The Maleficia), taking into account the Powers of the demon parent. The Might cost for each Power is equal to its magnitude divided by two, rounded down (but always at least one point). These may be constant effects designed in the usual fashion (Sun duration, two uses per day, and an Environmental Trigger; see [page 257](<Ars Magica DE - 08. Laboratory.md#page-257>)); her Might Pool is always reduced by the cost of such a Power, and she cannot turn these Powers off. The Initiative total of each Power is the character's Quickness.
 
 She may be unaware of her true heritage, in which case she probably has either the Delusion or Manufactured Ignorance Flaw to explain her remarkable capabilities. She has the close attention of Hell, and thus should offset this Virtue with a Story Flaw to reflect that attention, such as, Tragic Life. The character may learn Infernal Lore during character creation without needing to take the Arcane Lore Minor Virtue.
 
@@ -961,7 +961,7 @@ This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest V
 
 > #### Animal Characters
 >
-> An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in [*Grogs*, page 136](<../Ars Magica 5e - Social - Grogs.md>), but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly *Realms of Power: Faerie* ([page 50](<Ars Magica DE - 3. Characters.md#page-50>)) and *Realms of Power: Magic* (Chapter 5).
+> An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in [*Grogs*, page 136](<../Ars Magica 5e - Social - Grogs.md>), but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly *Realms of Power: Faerie* ([page 50](<Ars Magica DE - 03. Characters.md#page-50>)) and *Realms of Power: Magic* (Chapter 5).
 
 #### Domestic Animal
 *Free, Social Status, animals only*<br>
@@ -969,7 +969,7 @@ The character is an animal who is the property of a covenant or character, and i
 
 #### Dowsing
 *Minor, Supernatural*<br>
-You have the ability to find things nearby through the use of a dowsing rod (usually a forked stick) and your own intuitive sense. Choosing this Virtue confers the Ability Dowsing 1 ([page 164](<Ars Magica DE - 5. Abilities.md#dowsing>)).
+You have the ability to find things nearby through the use of a dowsing rod (usually a forked stick) and your own intuitive sense. Choosing this Virtue confers the Ability Dowsing 1 ([page 164](<Ars Magica DE - 05. Abilities.md#dowsing>)).
 
 #### Dust Devil
 *Minor, Supernatural*<br>
@@ -1015,7 +1015,7 @@ This is the same as the Knight Virtue, though due to the rather different upbrin
 
 #### Enchanting (Ability)
 *Minor, Supernatural*<br>
-When you set your mind to it, you can magically induce emotions and beliefs in others with a particular kind of artistic expression: music, dance, drawing, storytelling, even craftwork. Choosing this Virtue confers the Ability Enchanting (Ability) 1 ([page 164](<Ars Magica DE - 5. Abilities.md#enchanting-ability>)).
+When you set your mind to it, you can magically induce emotions and beliefs in others with a particular kind of artistic expression: music, dance, drawing, storytelling, even craftwork. Choosing this Virtue confers the Ability Enchanting (Ability) 1 ([page 164](<Ars Magica DE - 05. Abilities.md#enchanting-ability>)).
 
 #### Enduring Constitution
 *Minor, General*<br>
@@ -1027,7 +1027,7 @@ The effects of your spells tend to last longer than usual (though Concentration,
 
 #### The Enigma
 *Minor, Hermetic*<br>
-You have been initiated into the Outer Mystery of The Enigma (see [page 235](<Ars Magica DE - 7. Hermetic Magic.md#page-235>)), and thus are a member of House Criamon. You have a score of 1 in Enigmatic Wisdom. Note that all Criamon magi get this Virtue free at character creation.
+You have been initiated into the Outer Mystery of The Enigma (see [page 235](<Ars Magica DE - 07. Hermetic Magic.md#page-235>)), and thus are a member of House Criamon. You have a score of 1 in Enigmatic Wisdom. Note that all Criamon magi get this Virtue free at character creation.
 
 #### Enticer of Multitudes
 *Minor, General, Tainted*<br>
@@ -1035,7 +1035,7 @@ The character has a version of the Inspirational Virtue that can only be used to
 
 #### Entrancement
 *Major, Supernatural*<br>
-You have the power to control another's will by staring into their eyes and giving them a verbal command. Choosing this Virtue confers the Ability Entrancement 1 ([page 164](<Ars Magica DE - 5. Abilities.md#entrancement>)).
+You have the power to control another's will by staring into their eyes and giving them a verbal command. Choosing this Virtue confers the Ability Entrancement 1 ([page 164](<Ars Magica DE - 05. Abilities.md#entrancement>)).
 
 #### Eunuch
 *Minor, Social Status*<br>
@@ -1043,11 +1043,11 @@ You have been educated and trained to serve the Byzantine nobility as a courtier
 
 #### Exotic Casting
 *Minor, Hermetic*<br>
-The magus uses non-Hermetic methods to cast Hermetic spells. While he still needs to employ obvious ritual actions, these are not the same words and gestures taught as part of Magic Theory within the Order, and other magi who are unfamiliar with the magus's tradition find it very hard to recognize which spell he is casting. Any attempt to determine the Form of his magical effect ([page 217](<Ars Magica DE - 7. Hermetic Magic.md#page-217>)) is made against an Ease Factor of 15, without the magnitude of the effect being subtracted from this Ease Factor as normal. If the character has any Supernatural Abilities, then he uses the same methods to cast his Hermetic magic as he does to use his non-Hermetic magic. The magus cannot choose to use the standard Hermetic methods instead of those of his native tradition, but can choose to reduce or forgo words and gestures in the usual fashion ([page 216](<Ars Magica DE - 7. Hermetic Magic.md#words-and-gestures>)).
+The magus uses non-Hermetic methods to cast Hermetic spells. While he still needs to employ obvious ritual actions, these are not the same words and gestures taught as part of Magic Theory within the Order, and other magi who are unfamiliar with the magus's tradition find it very hard to recognize which spell he is casting. Any attempt to determine the Form of his magical effect ([page 217](<Ars Magica DE - 07. Hermetic Magic.md#page-217>)) is made against an Ease Factor of 15, without the magnitude of the effect being subtracted from this Ease Factor as normal. If the character has any Supernatural Abilities, then he uses the same methods to cast his Hermetic magic as he does to use his non-Hermetic magic. The magus cannot choose to use the standard Hermetic methods instead of those of his native tradition, but can choose to reduce or forgo words and gestures in the usual fashion ([page 216](<Ars Magica DE - 07. Hermetic Magic.md#words-and-gestures>)).
 
 #### Extractor of (Form) Vis
 *Minor, Hermetic*<br>
-The magus can extract (Form) vis from a Magic aura, but only if the features of the aura exemplify the Form. For example, an aura on the shores of a lake might exemplify Aquam, an aura at a burial-site exemplifies Corpus, etc. Extracting vis in this way is a Laboratory activity; the magus extracts a number of pawns of Vis equal to a tenth of his Creo Vim (Form) Lab Total (round up). Obviously, he needs to have a Laboratory in the aura too, and, of course, the magus can choose to extract Vim vis instead (see [page 250](<Ars Magica DE - 8. Laboratory.md#vis>)). This Virtue may be taken multiple times (once for each Form).
+The magus can extract (Form) vis from a Magic aura, but only if the features of the aura exemplify the Form. For example, an aura on the shores of a lake might exemplify Aquam, an aura at a burial-site exemplifies Corpus, etc. Extracting vis in this way is a Laboratory activity; the magus extracts a number of pawns of Vis equal to a tenth of his Creo Vim (Form) Lab Total (round up). Obviously, he needs to have a Laboratory in the aura too, and, of course, the magus can choose to extract Vim vis instead (see [page 250](<Ars Magica DE - 08. Laboratory.md#vis>)). This Virtue may be taken multiple times (once for each Form).
 
 #### Eye of Hephaestus
 *Minor, Supernatural*<br>
@@ -1095,7 +1095,7 @@ This Virtue makes you a Faerie Doctor and a Mythic Companion ([page 63](#mythic-
 
 #### Faerie Magic
 *Minor, Hermetic*<br>
-You have been initiated into the Outer Mystery of Faerie Magic (see [page 236](<Ars Magica DE - 7. Hermetic Magic.md#page-236>)), and thus are a member of House Merinita. You have the Ability Faerie Magic 1. Note that all Merinita magi gain this Virtue for free at character generation.
+You have been initiated into the Outer Mystery of Faerie Magic (see [page 236](<Ars Magica DE - 07. Hermetic Magic.md#page-236>)), and thus are a member of House Merinita. You have the Ability Faerie Magic 1. Note that all Merinita magi gain this Virtue for free at character generation.
 
 #### Faerie-Raised Magic
 *Major, Hermetic*<br>
@@ -1107,7 +1107,7 @@ Because of this, he can teach himself spells outside of the laboratory. You may 
 
 To invent a spell in this way, the magus's Technique + Form + Intelligence + Magic Theory must at least equal (the spell's level – 10), and you must spend a number of experience points equal to (the spell magnitude + 4). Spells of level 5 or less cost their level in experience points (but always at least 1). For example, a level 2 spell costs 2 experience points, and a Level 15 spell costs 7 experience points. The magus cannot invent Ritual spells in this way.
 
-If the magus already knows a spell that is similar to one he wishes to invent (see Similar Spells, [page 260](<Ars Magica DE - 8. Laboratory.md#similar-spells>)), any experience points you spend towards learning that spell are increased by one-half, rounded up. This means that a level 25 spell would cost 6 experience points instead of 9, for example.
+If the magus already knows a spell that is similar to one he wishes to invent (see Similar Spells, [page 260](<Ars Magica DE - 08. Laboratory.md#similar-spells>)), any experience points you spend towards learning that spell are increased by one-half, rounded up. This means that a level 25 spell would cost 6 experience points instead of 9, for example.
 
 This Virtue also includes the Virtue Spell Improvisation. That is, you may add the magnitude of a known Formulaic spell as a bonus to your character's Casting Total when spontaneously casting a spell that is similar to it.
 
@@ -1241,7 +1241,7 @@ You are a minor member (possibly illegitimate) of a noble family. You do not sta
 
 #### Ghostly Warder
 *Major, General*<br>
-A ghost watches over you. It might be a grandparent, a childhood friend, or anyone else who cares for you enough to stay around after death. The ghost is invisible and silent to all but you and those with Second Sight (see [page 170](<Ars Magica DE - 5. Abilities.md#second-sight>)). It can see and hear what is going on around you and makes an excellent spy, since it can leave your presence once per day for up to half an hour. However, death does not leave people in their normal state of mind, so the ghost probably has some quirks that make it less than dependable — it might even encourage you to join it on the other side. The ghost has 300 experience points in various Abilities that it can use to advise you, and ghosts may take any Abilities. See [page 457](<Ars Magica DE - 13. Bestiary.md#page-457>) for an example of a ghostly warder. This is a more specific version of Magical Warder (see later), and is an example of that Virtue.
+A ghost watches over you. It might be a grandparent, a childhood friend, or anyone else who cares for you enough to stay around after death. The ghost is invisible and silent to all but you and those with Second Sight (see [page 170](<Ars Magica DE - 05. Abilities.md#second-sight>)). It can see and hear what is going on around you and makes an excellent spy, since it can leave your presence once per day for up to half an hour. However, death does not leave people in their normal state of mind, so the ghost probably has some quirks that make it less than dependable — it might even encourage you to join it on the other side. The ghost has 300 experience points in various Abilities that it can use to advise you, and ghosts may take any Abilities. See [page 457](<Ars Magica DE - 13. Bestiary.md#page-457>) for an example of a ghostly warder. This is a more specific version of Magical Warder (see later), and is an example of that Virtue.
 
 #### The Gift
 *Free, Special*<br>
@@ -1341,7 +1341,7 @@ The drawback is that when you die, all of your spells and magic items sputter ou
 
 #### Heartbeast
 *Minor, Hermetic*<br>
-You have been initiated into the Outer Mystery of the Heartbeast (see [page 233](<Ars Magica DE - 7. Hermetic Magic.md#page-233>)), and thus are a member of House Bjornaer. You start with the Ability Heartbeast 1. Note that all Bjornaer magi gain this Virtue for free at character creation.
+You have been initiated into the Outer Mystery of the Heartbeast (see [page 233](<Ars Magica DE - 07. Hermetic Magic.md#page-233>)), and thus are a member of House Bjornaer. You start with the Ability Heartbeast 1. Note that all Bjornaer magi gain this Virtue for free at character creation.
 
 #### Hermetic Experience
 *Minor, General*<br>
@@ -1363,7 +1363,7 @@ The character has the ability to curse her enemies, making dire predictions abou
 *Minor, Supernatural*<br>
 The character always knows precisely how to get from where she is to a number of locations equal to her Intelligence Score (a minimum of 1). To add a location to the character's repertoire she must be at that location, the location must be open to the air (so it cannot be inside, for example), and the player must make an Intelligence + Concentration Roll against an Ease Factor of 6. If this would increase the number of known locations beyond the character's limit, then another location must be "forgotten."
 
-In addition, the character has a fixed Arcane Connection to locations that she knows, which may be exploited in the usual ways ([page 219](<Ars Magica DE - 7. Hermetic Magic.md#arcane-connections>)). This Arcane Connection is an artifact of the mind, and so may not be given to another character.
+In addition, the character has a fixed Arcane Connection to locations that she knows, which may be exploited in the usual ways ([page 219](<Ars Magica DE - 07. Hermetic Magic.md#arcane-connections>)). This Arcane Connection is an artifact of the mind, and so may not be given to another character.
 
 #### Imbued with the Spirit of (Form)
 *Minor, Hermetic*<br>
@@ -1373,7 +1373,7 @@ Whenever casting a spell or performing a Laboratory Activity that requires vis o
 
 Note that studying vis is not a Laboratory activity, so the magus may not substitute Fatigue Levels for vis when studying.
 
-For example, a magus casting an Enchantment of the Scrying Pool ritual (InAq 30, [page 322](<Ars Magica DE - 9. Spells.md#enchantment-of-the-scrying-pool>)), requires 6 pawns of some combination of Intellego and Aquam vis. If the magus is Imbued with the Spirit of Aquam, he may tire himself (losing three Long-Term Fatigue Levels), and reduce the vis requirement by 3.
+For example, a magus casting an Enchantment of the Scrying Pool ritual (InAq 30, [page 322](<Ars Magica DE - 09. Spells.md#enchantment-of-the-scrying-pool>)), requires 6 pawns of some combination of Intellego and Aquam vis. If the magus is Imbued with the Spirit of Aquam, he may tire himself (losing three Long-Term Fatigue Levels), and reduce the vis requirement by 3.
 
 <!-- p. 86 --><a id="page-86"></a>
 
@@ -1383,7 +1383,7 @@ The character is marked as the property of a very powerful demon, and the lesser
 
 #### Immunity to Cold
 *Minor, Supernatural*<br>
-Normal cold does not harm you, nor does it make you feel uncomfortable. You do not need warm environments to remain healthy. Extreme, magically created cold, such as the effect of *Wizard's Icy Grip* ([page 346](<Ars Magica DE - 9. Spells.md#wizards-icy-grip>)), still affects you normally.
+Normal cold does not harm you, nor does it make you feel uncomfortable. You do not need warm environments to remain healthy. Extreme, magically created cold, such as the effect of *Wizard's Icy Grip* ([page 346](<Ars Magica DE - 09. Spells.md#wizards-icy-grip>)), still affects you normally.
 
 #### Improved Characteristics
 *Minor, General*<br>
@@ -1403,7 +1403,7 @@ The character develops new skills extremely quickly on his own. When he is study
 
 #### Induction
 *Major, Supernatural*<br>
-The character has the supernatural power to make people experience things that are not there. She gains the Supernatural Ability Induction ([page 166](<Ars Magica DE - 5. Abilities.md#induction>)) with a score of 1.
+The character has the supernatural power to make people experience things that are not there. She gains the Supernatural Ability Induction ([page 166](<Ars Magica DE - 05. Abilities.md#induction>)) with a score of 1.
 
 #### Ineslemen
 *Minor, Social Status*<br>
@@ -1441,7 +1441,7 @@ Invention comes naturally to you. You get +3 to your Lab Total if you are not us
 
 #### Jack-of-All-Trades
 *Minor, General*<br>
-The character is capable of turning his hand to almost anything. He suffers no additional botch dice for attempting an Ability roll for an Ability that he has no score in (see [page 157](<Ars Magica DE - 5. Abilities.md#page-157>)). If it is an asterisked Ability, then he can attempt a roll as if he had a score of zero with three extra botch dice, if and only if he is normally able to take Abilities of that type. Characters without this Virtue cannot even attempt rolls on an asterisked Ability without at least one experience point in it. For example, he must have a Virtue permitting him to take Arcane Abilities to attempt an unskilled Magic Lore roll. Some Abilities are excepted from this Virtue, including those that are not rolled (such as Parma Magica or Penetration), and all Supernatural Abilities (which require a specific Virtue for each Ability, rather than the type). The troupe may make other exceptions on a case-by-case basis, but this Virtue is supposed to allow the character to attempt things that would normally require training.
+The character is capable of turning his hand to almost anything. He suffers no additional botch dice for attempting an Ability roll for an Ability that he has no score in (see [page 157](<Ars Magica DE - 05. Abilities.md#page-157>)). If it is an asterisked Ability, then he can attempt a roll as if he had a score of zero with three extra botch dice, if and only if he is normally able to take Abilities of that type. Characters without this Virtue cannot even attempt rolls on an asterisked Ability without at least one experience point in it. For example, he must have a Virtue permitting him to take Arcane Abilities to attempt an unskilled Magic Lore roll. Some Abilities are excepted from this Virtue, including those that are not rolled (such as Parma Magica or Penetration), and all Supernatural Abilities (which require a specific Virtue for each Ability, rather than the type). The troupe may make other exceptions on a case-by-case basis, but this Virtue is supposed to allow the character to attempt things that would normally require training.
 
 #### Journeyman
 *Minor, Social Status*<br>
@@ -1591,7 +1591,7 @@ You may boost your Formulaic or Ritual spell casting totals by expending additio
 
 #### Life-Linked Spontaneous Magic
 *Major, Hermetic*<br>
-You can do more with spontaneous magic than most magi at the cost of your own life energy. When you decide to use this ability in casting a spontaneous spell, you declare the level of effect you wish to produce before rolling. This level may include a number of levels of Penetration (see [page 169](<Ars Magica DE - 5. Abilities.md#penetration>)). For example, you can choose to cast a level 10 effect at level 20, to give a Penetration of 10 plus your Penetration score.
+You can do more with spontaneous magic than most magi at the cost of your own life energy. When you decide to use this ability in casting a spontaneous spell, you declare the level of effect you wish to produce before rolling. This level may include a number of levels of Penetration (see [page 169](<Ars Magica DE - 05. Abilities.md#penetration>)). For example, you can choose to cast a level 10 effect at level 20, to give a Penetration of 10 plus your Penetration score.
 
 Roll to cast a Fatiguing Spontaneous spell. If your result after division is higher than the level you declared, you spend only one Fatigue level as usual. If your result after division is less than the level you declared, you must expend one additional Fatigue level per five points (or fraction thereof) by which you missed the target level. If you run out of Fatigue levels, you take a wound. The number of levels still needed for the spell is treated as the amount by which a Damage total exceeds your Soak, and you take the corresponding wound. You can kill yourself this way.
 
@@ -1645,11 +1645,11 @@ You begin with 25 more starting levels of magic items than you would otherwise, 
 
 #### Magic Sensitivity
 *Minor, Supernatural*<br>
-You are often able to identify a place or object as magical. However, your sensitivity makes you more susceptible to magical effects: subtract your Magic Sensitivity score from your Magic Resistance. Choosing this Virtue confers the Ability Magic Sensitivity 1 ([page 168](<Ars Magica DE - 5. Abilities.md#magic-sensitivity>)).
+You are often able to identify a place or object as magical. However, your sensitivity makes you more susceptible to magical effects: subtract your Magic Sensitivity score from your Magic Resistance. Choosing this Virtue confers the Ability Magic Sensitivity 1 ([page 168](<Ars Magica DE - 05. Abilities.md#magic-sensitivity>)).
 
 #### Magical Memory
 *Minor, Hermetic*<br>
-Your memory has been developed to remember magical rather than mundane things. You need not keep laboratory texts (see [page 262](<Ars Magica DE - 8. Laboratory.md#laboratory-texts>)) of your creations to get the benefit of a Lab Text when reproducing them. If you have created an effect by following another magus's Lab Text once, you may get the same benefit in future without needing to have the text available.
+Your memory has been developed to remember magical rather than mundane things. You need not keep laboratory texts (see [page 262](<Ars Magica DE - 08. Laboratory.md#laboratory-texts>)) of your creations to get the benefit of a Lab Text when reproducing them. If you have created an effect by following another magus's Lab Text once, you may get the same benefit in future without needing to have the text available.
 
 <!-- p. 93 --><a id="page-93"></a>
 
@@ -1775,7 +1775,7 @@ The character manages the kennels for a noble patron, and is responsible for the
 
 #### Mastered Spells
 *Minor, Hermetic*<br>
-You have fifty experience points to spend on mastering spells that you know. (See [page 225](<Ars Magica DE - 7. Hermetic Magic.md#page-225>) for rules on mastering spells.) You may take this Virtue if you also have Flawless Magic, to give you more experience points to spend on mastering your spells. You may take this Virtue multiple times.
+You have fifty experience points to spend on mastering spells that you know. (See [page 225](<Ars Magica DE - 07. Hermetic Magic.md#page-225>) for rules on mastering spells.) You may take this Virtue if you also have Flawless Magic, to give you more experience points to spend on mastering your spells. You may take this Virtue multiple times.
 
 <!-- p. 97 --><a id="page-97"></a>
 
@@ -1821,9 +1821,9 @@ The character is in command of a ship, and a crew. The character has sufficient 
 
 #### Mercurian Magic
 *Major, Hermetic*<br>
-Your magical lineage and traditions are from the Roman priests of Mercury, which predate the Order of Hermes, making you especially skilled with Ritual Magic and magic used in conjunction with others. In addition to your standard spell allocation, you also know Wizard's Vigil ([page 370](<Ars Magica DE - 9. Spells.md#wizards-vigil>)) at a level equal to the highest level of Ritual spell that you know, and should you invent or learn a Ritual spell of higher level, you automatically invent a Wizard's Vigil spell of the same level, without needing to spend extra time.
+Your magical lineage and traditions are from the Roman priests of Mercury, which predate the Order of Hermes, making you especially skilled with Ritual Magic and magic used in conjunction with others. In addition to your standard spell allocation, you also know Wizard's Vigil ([page 370](<Ars Magica DE - 09. Spells.md#wizards-vigil>)) at a level equal to the highest level of Ritual spell that you know, and should you invent or learn a Ritual spell of higher level, you automatically invent a Wizard's Vigil spell of the same level, without needing to spend extra time.
 
-When casting a spell using Wizard's Vigil ([page 370](<Ars Magica DE - 9. Spells.md#wizards-vigil>)) or other spells, such as Wizard's Communion ([page 369](<Ars Magica DE - 9. Spells.md#wizards-communion>)), with the same function, you may add your Mastery score ([page 225](<Ars Magica DE - 7. Hermetic Magic.md#page-225>)) in the spell being cast and your Mastery score in Wizard's Vigil to the effective level of the Wizard's Vigil.
+When casting a spell using Wizard's Vigil ([page 370](<Ars Magica DE - 09. Spells.md#wizards-vigil>)) or other spells, such as Wizard's Communion ([page 369](<Ars Magica DE - 09. Spells.md#wizards-communion>)), with the same function, you may add your Mastery score ([page 225](<Ars Magica DE - 07. Hermetic Magic.md#page-225>)) in the spell being cast and your Mastery score in Wizard's Vigil to the effective level of the Wizard's Vigil.
 
 Finally, any Ritual spells which you cast have only half the usual vis requirement. If cast as part of a Wizard's Vigil, all the participants need to have this Virtue to gain this benefit.
 
@@ -1876,7 +1876,7 @@ A muse possesses that rare beauty that encourages others to rise to worthiness. 
 
 #### Mystical Choreography
 *Minor, Hermetic*<br>
-The magus's skill at manipulating the shape and movement of the body allows him to reduce the amount of time required to perform Ceremonial Magic. The character performs ceremonies as per [page 217](<Ars Magica DE - 7. Hermetic Magic.md#page-217>), but requires only five minutes per magnitude. If the character has a prepared space, no matter how temporary, this falls to one minute per magnitude.
+The magus's skill at manipulating the shape and movement of the body allows him to reduce the amount of time required to perform Ceremonial Magic. The character performs ceremonies as per [page 217](<Ars Magica DE - 07. Hermetic Magic.md#page-217>), but requires only five minutes per magnitude. If the character has a prepared space, no matter how temporary, this falls to one minute per magnitude.
 
 This Virtue is particularly important to those Jerbiton magi who use ceremonial casting to overcome the penalties associated with the Dominion.
 
@@ -1886,7 +1886,7 @@ You are a blood descendant of either a wizard of legend (possibly one of the Twe
 
 Your potent Gift means that you do not lose Fatigue levels if your Casting Total falls short of the level of a formulaic spell by ten points or less, although you do lose Fatigue if the spell fails completely. When casting Ritual spells, lose three fewer Fatigue levels than normal. This means that you lose no Fatigue levels if you succeed, or fail by ten points or less. You must expend Fatigue normally to cast Spontaneous magic, and if you fail to cast a Formulaic spell you lose the normal number of Fatigue levels.
 
-Additionally, you may choose one special magic feat which you can invoke at will and cancel at will, as often as you like. Invoking this feat takes as long as fast-casting a Mastered Formulaic spell (see [page 213](<Ars Magica DE - 7. Hermetic Magic.md#casting-spells>)), and requires the same level of concentration. The effect should be designed as a non-Ritual Hermetic effect, with a level + Penetration limited as below. The Penetration of the effect is not modified by the magus's Penetration Ability score, and cannot be negative, so that the highest possible level of the effect is 30.
+Additionally, you may choose one special magic feat which you can invoke at will and cancel at will, as often as you like. Invoking this feat takes as long as fast-casting a Mastered Formulaic spell (see [page 213](<Ars Magica DE - 07. Hermetic Magic.md#casting-spells>)), and requires the same level of concentration. The effect should be designed as a non-Ritual Hermetic effect, with a level + Penetration limited as below. The Penetration of the effect is not modified by the magus's Penetration Ability score, and cannot be negative, so that the highest possible level of the effect is 30.
 
 | Invocation                | Level + Penetration |
 | --------------------------- | --------------------- |
@@ -1943,7 +1943,7 @@ For one commodity, and products manufactured from it, the character never fails 
 
 #### Perfectus
 *Minor, Social Status*<br>
-You are one of the leaders of the Cathar heretics, found mainly in southern France. Your responsibilities include preaching the Gospel, abstaining from eating meat and dairy produce, from sex and romance, and from other acts that ensnare you in the sinful world. You should normally take the Flaw: Vow to represent your solemn religious obligations. You may not take the Wealthy Virtue, as you are supported by the tithes and contributions of your congregations. As a heretic you are at great risk from the Church, which will execute you if you are caught and refuse to recant your beliefs. Due to your training, you may take Academic Abilities during character creation. You may take the Purity and Transcendence Supernatural Abilities from *Realms of Power: The Divine Revised Edition* ([page 53](<Ars Magica DE - 3. Characters.md#page-53>)) if your character has the True Faith Virtue, but these are not free Virtues. You may, however, take them as Virtues, as normal. More details on the Cathars can be found in [*Faith and Flame*, from page 13](<../Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md#the-cathars>).
+You are one of the leaders of the Cathar heretics, found mainly in southern France. Your responsibilities include preaching the Gospel, abstaining from eating meat and dairy produce, from sex and romance, and from other acts that ensnare you in the sinful world. You should normally take the Flaw: Vow to represent your solemn religious obligations. You may not take the Wealthy Virtue, as you are supported by the tithes and contributions of your congregations. As a heretic you are at great risk from the Church, which will execute you if you are caught and refuse to recant your beliefs. Due to your training, you may take Academic Abilities during character creation. You may take the Purity and Transcendence Supernatural Abilities from *Realms of Power: The Divine Revised Edition* ([page 53](<Ars Magica DE - 03. Characters.md#page-53>)) if your character has the True Faith Virtue, but these are not free Virtues. You may, however, take them as Virtues, as normal. More details on the Cathars can be found in [*Faith and Flame*, from page 13](<../Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md#the-cathars>).
 
 <!-- p. 101 --><a id="page-101"></a>
 
@@ -2017,7 +2017,7 @@ The character may adopt one or more flawless disguises, changing both his physic
 >
 > Most people do not recognize performing an Ability as spellcasting, so the performer may act more openly than most magi; even other Hermetic magi do not automatically recognize his actions.
 >
-> If a Hermetic magus contemplates Fast Casting to oppose a spell and the caster is using Hermetic words and gestures, a magus may determine the Form automatically ([page 217](<Ars Magica DE - 7. Hermetic Magic.md#words-and-gestures>)). In other circumstances, the magus must work the Form out.
+> If a Hermetic magus contemplates Fast Casting to oppose a spell and the caster is using Hermetic words and gestures, a magus may determine the Form automatically ([page 217](<Ars Magica DE - 07. Hermetic Magic.md#words-and-gestures>)). In other circumstances, the magus must work the Form out.
 >
 > **DETERMINING THE FORM OF A MAGICAL EFFECT: Stress Die + Perception + Awareness vs. 15 – effect magnitude**
 >
@@ -2059,7 +2059,7 @@ By staring intently at people you make them feel uneasy, as if you are peering i
 >
 > ##### Potent Spells
 >
-> A Potent spell has a bonus known as its Potency, which is arrived at by combining one or more Casting Items into the design of the spell. Casting Items use the factors given in the Shape and Material Bonus table ([page 282](<Ars Magica DE - 8. Laboratory.md#page-282>)): each Casting Item provides one bonus. (If more than one bonus is possible, the spell design states which one is used.)
+> A Potent spell has a bonus known as its Potency, which is arrived at by combining one or more Casting Items into the design of the spell. Casting Items use the factors given in the Shape and Material Bonus table ([page 282](<Ars Magica DE - 08. Laboratory.md#page-282>)): each Casting Item provides one bonus. (If more than one bonus is possible, the spell design states which one is used.)
 >
 > **POTENCY SCORE:** Sum of Bonus from each Casting Item
 >
@@ -2107,7 +2107,7 @@ Owning such a powerful relic is a great responsibility, and your character shoul
 
 #### Premonitions
 *Minor, Supernatural*<br>
-You intuitively sense whenever something is wrong, or is likely to go wrong soon. Choosing this Virtue confers the Ability Premonitions 1 ([page 170](<Ars Magica DE - 5. Abilities.md#premonitions>)).
+You intuitively sense whenever something is wrong, or is likely to go wrong soon. Choosing this Virtue confers the Ability Premonitions 1 ([page 170](<Ars Magica DE - 05. Abilities.md#premonitions>)).
 
 #### Prestigious Student
 *General, Minor*<br>
@@ -2163,11 +2163,11 @@ Using a mixture of acrobatics, climbing and dodging, this character can run thro
 
 #### Redcap
 *Major, Social Status*<br>
-Although you do not have The Gift and cannot work Hermetic magic, you are a full member of the Order of Hermes and of House Mercere (see [page 15](<Ars Magica DE - 2. The Order of Hermes.md#house-mercere>)). There are Gifted members of House Mercere, but they do not take this Virtue, taking the Hermetic Magus Social Status ([page 85](#hermetic-magus)) instead.
+Although you do not have The Gift and cannot work Hermetic magic, you are a full member of the Order of Hermes and of House Mercere (see [page 15](<Ars Magica DE - 02. The Order of Hermes.md#house-mercere>)). There are Gifted members of House Mercere, but they do not take this Virtue, taking the Hermetic Magus Social Status ([page 85](#hermetic-magus)) instead.
 
-You deliver messages for the Order, and you possess a number of enchanted devices to help you do this. A newly-Gauntleted Redcap has enchanted devices with fifty levels of effect, including modifications to the level due to factors such as the number of uses per day (see the Laboratory chapter, [page 256](<Ars Magica DE - 8. Laboratory.md#page-256>), for details).
+You deliver messages for the Order, and you possess a number of enchanted devices to help you do this. A newly-Gauntleted Redcap has enchanted devices with fifty levels of effect, including modifications to the level due to factors such as the number of uses per day (see the Laboratory chapter, [page 256](<Ars Magica DE - 08. Laboratory.md#page-256>), for details).
 
-These levels are invariably split between two or more effects useful for delivering messages. New Redcaps are never given items capable of killing, wounding, or ensorcelling large numbers of mundanes; the risk of abuse bringing trouble on the Order is too great. These will be upgraded and replaced in return for good service, on average an extra two levels per year. You are trained in a similar manner to magi, and may take Academic, Arcane, and Martial Abilities during character generation. You have spent fifteen years as an apprentice, and gained a total of 300 experience points in those fifteen years. (See Detailed Character Creation, [page 43](<Ars Magica DE - 3. Characters.md#detailed-character-creation>).) In addition, you have the Well-Traveled Virtue ([page 116](#well-traveled)) at no cost. When you start to age, a magus with a Lab Total of at least fifty will devise a Longevity Ritual (see [page 261](<Ars Magica DE - 8. Laboratory.md#longevity-rituals>)) for you free of charge, if you wish. If you make suitable contacts in the course of the saga, this ritual may be devised by a more powerful magus. Redcaps created some years past Gauntlet get improved enchanted devices, as described above, and, if applicable, a Longevity Ritual.
+These levels are invariably split between two or more effects useful for delivering messages. New Redcaps are never given items capable of killing, wounding, or ensorcelling large numbers of mundanes; the risk of abuse bringing trouble on the Order is too great. These will be upgraded and replaced in return for good service, on average an extra two levels per year. You are trained in a similar manner to magi, and may take Academic, Arcane, and Martial Abilities during character generation. You have spent fifteen years as an apprentice, and gained a total of 300 experience points in those fifteen years. (See Detailed Character Creation, [page 43](<Ars Magica DE - 03. Characters.md#detailed-character-creation>).) In addition, you have the Well-Traveled Virtue ([page 116](#well-traveled)) at no cost. When you start to age, a magus with a Lab Total of at least fifty will devise a Longevity Ritual (see [page 261](<Ars Magica DE - 08. Laboratory.md#longevity-rituals>)) for you free of charge, if you wish. If you make suitable contacts in the course of the saga, this ritual may be devised by a more powerful magus. Redcaps created some years past Gauntlet get improved enchanted devices, as described above, and, if applicable, a Longevity Ritual.
 
 You are supported by your covenant, so you cannot take the Wealthy Virtue or Poor Flaw. You may not take The Gift. You must spend two seasons per year delivering messages for the Order. Your other two seasons are, however, genuinely free, and you may do whatever you wish. This Virtue is available to male and female characters.
 
@@ -2211,7 +2211,7 @@ The character has been trained extensively in the criminal arts, and has 50 addi
 
 #### Second Sight
 *Minor, Supernatural*<br>
-You are able to see through illusionary concealment and disguise, including invisibility, and can also see naturally invisible things such as spirits and the boundaries between regio levels (see [page 421](<Ars Magica DE - 12. Realms.md#page-421>)). Choosing this Virtue confers the Ability Second Sight 1 ([page 170](<Ars Magica DE - 5. Abilities.md#second-sight>)).
+You are able to see through illusionary concealment and disguise, including invisibility, and can also see naturally invisible things such as spirits and the boundaries between regio levels (see [page 421](<Ars Magica DE - 12. Realms.md#page-421>)). Choosing this Virtue confers the Ability Second Sight 1 ([page 170](<Ars Magica DE - 05. Abilities.md#second-sight>)).
 
 #### Secondary Insight
 *Minor, Hermetic*<br>
@@ -2225,7 +2225,7 @@ You can see in complete darkness. Other than that, your eyesight is not more acu
 
 #### Self-Confident
 *Minor, General*<br>
-You have firm confidence in your own abilities, and have a Confidence Score of two. You also start with five Confidence Points, rather than the usual three. (See [page 52](<Ars Magica DE - 3. Characters.md#page-52>) for Confidence rules.)
+You have firm confidence in your own abilities, and have a Confidence Score of two. You also start with five Confidence Points, rather than the usual three. (See [page 52](<Ars Magica DE - 03. Characters.md#page-52>) for Confidence rules.)
 
 #### Senior Bard
 *Minor, Social Status*<br>
@@ -2251,11 +2251,11 @@ The character has been a prosperous guild master for a number of years and has r
 
 #### Sense Holiness and Unholiness
 *Minor, Supernatural*<br>
-You are able to feel the presence of good and evil. In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you. Choosing this Virtue confers the Ability Sense Holiness and Unholiness 1 ([page 170](<Ars Magica DE - 5. Abilities.md#sense-holiness-and-unholiness>)).
+You are able to feel the presence of good and evil. In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you. Choosing this Virtue confers the Ability Sense Holiness and Unholiness 1 ([page 170](<Ars Magica DE - 05. Abilities.md#sense-holiness-and-unholiness>)).
 
 #### Sense Passions
 *Major, Supernatural*<br>
-The character can see into the hearts and minds of others, learning their weaknesses, fears, and evil thoughts. This gives her the Supernatural Ability Sense Passions at 1 ([page 170](<Ars Magica DE - 5. Abilities.md#page-170>)).
+The character can see into the hearts and minds of others, learning their weaknesses, fears, and evil thoughts. This gives her the Supernatural Ability Sense Passions at 1 ([page 170](<Ars Magica DE - 05. Abilities.md#page-170>)).
 
 #### Shadchan
 *Minor, Social Status*<br>
@@ -2271,7 +2271,7 @@ As a shamash, the character must have the Educated (Hebrew) Virtue.
 
 #### Shapeshifter
 *Major, Supernatural*<br>
-You may change your shape into that of one or more mundane animals. Choosing this Virtue confers the Ability Shapeshifter 1 ([page 171](<Ars Magica DE - 5. Abilities.md#shapeshifter>)).
+You may change your shape into that of one or more mundane animals. Choosing this Virtue confers the Ability Shapeshifter 1 ([page 171](<Ars Magica DE - 05. Abilities.md#shapeshifter>)).
 
 <!-- p. 108 --><a id="page-108"></a>
 
@@ -2331,7 +2331,7 @@ You are able to perform magic better in certain uncommon situations (such as dur
 
 #### Spell Improvisation
 *Minor, Hermetic*<br>
-The magus may add the magnitude of a Formulaic spell he knows as a bonus to his Casting Total when Spontaneously casting a spell that is similar to it (see Similar Spells, [page 260](<Ars Magica DE - 8. Laboratory.md#similar-spells>)). This includes fast-casting a spell that is the same as or very similar to one of his Formulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case you add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
+The magus may add the magnitude of a Formulaic spell he knows as a bonus to his Casting Total when Spontaneously casting a spell that is similar to it (see Similar Spells, [page 260](<Ars Magica DE - 08. Laboratory.md#similar-spells>)). This includes fast-casting a spell that is the same as or very similar to one of his Formulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case you add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
 
 #### Spirit Votary
 *Free, Mythic Companion*<br>
@@ -2357,7 +2357,7 @@ You are a divine being and possess a Divine Might (Corpus) score equal to your a
 
 <!-- p. 110 --><a id="page-110"></a>
 
-You have up to thirty levels of holy powers that may be invoked by spending Might points. Design the powers' effects using the Hermetic spell guidelines (or the guidelines for Holy Powers in *Realms of Power: The Divine Revised Edition*, from [page 46](<Ars Magica DE - 3. Characters.md#page-46>)). The Might cost for each power is equal to its magnitude divided by two (rounded down, but always at least one point). The Initiative score of the power is your Quickness.
+You have up to thirty levels of holy powers that may be invoked by spending Might points. Design the powers' effects using the Hermetic spell guidelines (or the guidelines for Holy Powers in *Realms of Power: The Divine Revised Edition*, from [page 46](<Ars Magica DE - 03. Characters.md#page-46>)). The Might cost for each power is equal to its magnitude divided by two (rounded down, but always at least one point). The Initiative score of the power is your Quickness.
 
 You may take this Virtue multiple times. Each additional time you take it increases by thirty the number of levels of holy powers you may invoke, but has no other effect; in particular, it does not increase your Divine Might.
 
@@ -2554,7 +2554,7 @@ People are often attracted to you. You get +3 on Communication and Presence roll
 
 #### Verditius Magic
 *Minor, Hermetic*<br>
-You have been initiated into the Outer Mystery of Verditius Magic (see [page 240](<Ars Magica DE - 7. Hermetic Magic.md#verditius--verditius-magic>)), and thus are a member of House Verditius. Note that all Verditius magi gain this Virtue for free at character creation.
+You have been initiated into the Outer Mystery of Verditius Magic (see [page 240](<Ars Magica DE - 07. Hermetic Magic.md#verditius--verditius-magic>)), and thus are a member of House Verditius. Note that all Verditius magi gain this Virtue for free at character creation.
 
 <!-- p. 115 --><a id="page-115"></a>
 
@@ -2590,7 +2590,7 @@ You can create winds by whistling. This Virtue grants a score of 1 in the Supern
 
 #### Wilderness Sense
 *Minor, Supernatural*<br>
-You are mystically attuned to the ways of the wilderness. Choosing this Virtue confers the Ability Wilderness Sense 1 ([page 172](<Ars Magica DE - 5. Abilities.md#wilderness-sense>)).
+You are mystically attuned to the ways of the wilderness. Choosing this Virtue confers the Ability Wilderness Sense 1 ([page 172](<Ars Magica DE - 05. Abilities.md#wilderness-sense>)).
 
 #### Wisdom from Ignorance
 *Minor, Supernatural*<br>
@@ -3061,7 +3061,7 @@ You have information that some powerful person would prefer kept hidden. You rec
 
 #### Blatant Gift
 *Major, Hermetic*<br>
-People immediately realize that there is something strange about you, even if they do not know you are a magus. Animals are extremely disturbed, frightened, and possibly enraged by your presence. You suffer a –6 penalty on all interaction rolls with normal people and animals, and should see [page 203](<Ars Magica DE - 7. Hermetic Magic.md#page-203>) for further discussion of this Flaw's effects.
+People immediately realize that there is something strange about you, even if they do not know you are a magus. Animals are extremely disturbed, frightened, and possibly enraged by your presence. You suffer a –6 penalty on all interaction rolls with normal people and animals, and should see [page 203](<Ars Magica DE - 07. Hermetic Magic.md#page-203>) for further discussion of this Flaw's effects.
 
 #### Blatant Magical Air
 *Major, Supernatural*<br>
@@ -3109,7 +3109,7 @@ The character is constantly aware that her supernatural powers may only be tempo
 
 #### Brutal Artist
 *Minor, Hermetic*<br>
-This Flaw is only available to magi of House Jerbiton. The magus creates and enjoys art that is ugly, according to his Housemates. He suffers a –3 penalty on social rolls with Jerbiton magi, and cannot develop a positive Reputation in the House, because his mind is so obviously disturbed. This restricts his involvement in the leagues (see *Houses of Hermes: Societates*, [page 53](<Ars Magica DE - 3. Characters.md#page-53>)). Over time, the character might convince his sodales that his work is not ugly, but this requires stories, much as removing any other Flaw.
+This Flaw is only available to magi of House Jerbiton. The magus creates and enjoys art that is ugly, according to his Housemates. He suffers a –3 penalty on social rolls with Jerbiton magi, and cannot develop a positive Reputation in the House, because his mind is so obviously disturbed. This restricts his involvement in the leagues (see *Houses of Hermes: Societates*, [page 53](<Ars Magica DE - 03. Characters.md#page-53>)). Over time, the character might convince his sodales that his work is not ugly, but this requires stories, much as removing any other Flaw.
 
 #### Busybody
 *Minor, Personality*<br>
@@ -3135,7 +3135,7 @@ You were castrated before puberty, leaving you beardless and somewhat effeminate
 
 #### Ceremonial Spontaneous Magic
 *Minor, Hermetic*<br>
-You need time and effort to focus your Spontaneous magic. You can only cast Spontaneous spells using the rules for Ceremonial Casting ([page 217](<Ars Magica DE - 7. Hermetic Magic.md#spontaneous-spells>)). This Flaw is not compatible with Difficult Spontaneous Magic or Weak Spontaneous Magic.
+You need time and effort to focus your Spontaneous magic. You can only cast Spontaneous spells using the rules for Ceremonial Casting ([page 217](<Ars Magica DE - 07. Hermetic Magic.md#spontaneous-spells>)). This Flaw is not compatible with Difficult Spontaneous Magic or Weak Spontaneous Magic.
 
 #### Chaotic Magic
 *Major, Hermetic*<br>
@@ -3186,7 +3186,7 @@ The maga may actively concentrate in order to suppress this automatic magic enti
 
 In order to cast Ceremonial or Ritual magic the maga must make a Concentration roll as described above. One attempt can be made every 15 minutes, a successful attempt sufficient to cover the duration of the casting. Nevertheless, the maga suffers a number of additional botch dice equal to her Warping Score.
 
-The constant expression of magic also makes laboratory work inherently risky. Any laboratory the maga works in is treated as having a free Flaw providing a Safety penalty of –3 (see [page 288](<Ars Magica DE - 8. Laboratory.md#safety>)).
+The constant expression of magic also makes laboratory work inherently risky. Any laboratory the maga works in is treated as having a free Flaw providing a Safety penalty of –3 (see [page 288](<Ars Magica DE - 08. Laboratory.md#safety>)).
 
 Penalties from foreign auras, or from effects such as Aegis of the Hearth, may dampen the constant expression. Where the penalty reduces the casting total to 0, no magic is expressed.
 
@@ -3482,7 +3482,7 @@ You are scared of something that you are likely to encounter fairly often. Its p
 
 #### Feral Scent
 *Minor, General*<br>
-Perhaps due to his beast blood or feral upbringing, the character has the strong natural smell of a wild animal. Humans tend to avoid being too close to him, and may be on edge in his vicinity without knowing why. He may well spook domesticated animals if he surprises them. He suffers a –1 penalty to social interactions (which stacks with the penalties imposed by The Gift, if he has it), and develops a negative Reputation of Unclean at level 2. However, if he has Initiated the Sensory Magic Mystery (described in *Houses of Hermes: Mystery Cults*, [page 27](<Ars Magica DE - 3. Characters.md#page-27>)), any spells he casts with a Scent Target have twice their normal area of effect.
+Perhaps due to his beast blood or feral upbringing, the character has the strong natural smell of a wild animal. Humans tend to avoid being too close to him, and may be on edge in his vicinity without knowing why. He may well spook domesticated animals if he surprises them. He suffers a –1 penalty to social interactions (which stacks with the penalties imposed by The Gift, if he has it), and develops a negative Reputation of Unclean at level 2. However, if he has Initiated the Sensory Magic Mystery (described in *Houses of Hermes: Mystery Cults*, [page 27](<Ars Magica DE - 03. Characters.md#page-27>)), any spells he casts with a Scent Target have twice their normal area of effect.
 
 #### Feral Upbringing
 *Minor, General*<br>
@@ -4121,7 +4121,7 @@ The character is prone to keeping secrets from his sodales. He rarely explains w
 
 #### Seeker
 *Minor, Personality*<br>
-You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15](<Ars Magica DE - 2. The Order of Hermes.md#page-15>) of *Houses of Hermes: True Lineages*.
+You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15](<Ars Magica DE - 02. The Order of Hermes.md#page-15>) of *Houses of Hermes: True Lineages*.
 
 #### Servant of the (Land)
 *Major, Story*<br>
@@ -4315,9 +4315,9 @@ You may not take this Flaw more than once; characters who are Unbearable to more
 
 #### Uncertain Faith
 *Minor, General*<br>
-Whether through a flaw in the character's understanding of doctrine, a moral turmoil, the disheartening absolution of repeated sins, or exposure to conflicting philosophies, he finds it hard to fully express devotion to his faith. Some element of doubt stands between him and the Divine, and all rolls for holy influence, tempering an aura, invoking God's aid, or invoking a saint or baraka (see *Realms of Power: The Divine Revised Edition*, [pages 38–41, 87](<Ars Magica DE - 3. Characters.md#page-38>), and 103) suffer a –3 penalty.
+Whether through a flaw in the character's understanding of doctrine, a moral turmoil, the disheartening absolution of repeated sins, or exposure to conflicting philosophies, he finds it hard to fully express devotion to his faith. Some element of doubt stands between him and the Divine, and all rolls for holy influence, tempering an aura, invoking God's aid, or invoking a saint or baraka (see *Realms of Power: The Divine Revised Edition*, [pages 38–41, 87](<Ars Magica DE - 03. Characters.md#page-38>), and 103) suffer a –3 penalty.
 
-The character also has an "Uncertain Faith" Personality Trait at +1 that describes this conflict or doubt, which always provides demons with an opportunity to sow further doubt through their Obsession power (*Realms of Power: The Infernal*, [page 31](<Ars Magica DE - 3. Characters.md#page-31>)).
+The character also has an "Uncertain Faith" Personality Trait at +1 that describes this conflict or doubt, which always provides demons with an opportunity to sow further doubt through their Obsession power (*Realms of Power: The Infernal*, [page 31](<Ars Magica DE - 03. Characters.md#page-31>)).
 
 Supernatural Abilities originating from the Divine, including Methods and Powers, are not penalized. This Flaw is not compatible with the True Faith Virtue.
 

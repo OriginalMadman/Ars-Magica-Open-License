@@ -13,7 +13,7 @@
 
 ### Ease Factors
 
-*Fifth Edition p7, Definitive Edition [p8](<Ars Magica DE - 1. Introduction.md#ease-factor>)*
+*Fifth Edition p7, Definitive Edition [p8](<Ars Magica DE - 01. Introduction.md#ease-factor>)*
 
 | Ease Factor | Difficulty | Description |
 |-------------|------------|-------------|
@@ -88,7 +88,7 @@
 
 ### Confidence
 
-*p19, [p29](<Ars Magica DE - 3. Characters.md#confidence>)*
+*p19, [p29](<Ars Magica DE - 03. Characters.md#confidence>)*
 
 #### Spending Confidence
 
@@ -109,13 +109,13 @@ Award one point at the end of a session for each of the following that a charact
 
 ### Reputation
 
-*p19, [p28-29](<Ars Magica DE - 3. Characters.md#reputations>), [p386](<Ars Magica DE - 10. Long-Term Events.md#changing-reputations>)*
+*p19, [p28-29](<Ars Magica DE - 03. Characters.md#reputations>), [p386](<Ars Magica DE - 10. Long-Term Events.md#changing-reputations>)*
 
 #### Changing Reputations
 
 - Gain a Reputation of 1 by performing a noteworthy action.
 - Increase Reputations by treating them as Abilities, and each noteworthy action as an experience point.
-- Reduce a Reputation by creating a new Reputation (see Definitive Edition, [page 28](<Ars Magica DE - 3. Characters.md#reputations>)).
+- Reduce a Reputation by creating a new Reputation (see Definitive Edition, [page 28](<Ars Magica DE - 03. Characters.md#reputations>)).
 
 #### Reputation Ease Factors
 
@@ -130,7 +130,7 @@ Award one point at the end of a session for each of the following that a charact
 
 ### Magic Sensitivity
 
-*p45, [p168](<Ars Magica DE - 5. Abilities.md#magic-sensitivity>)*
+*p45, [p168](<Ars Magica DE - 05. Abilities.md#magic-sensitivity>)*
 
 | Sensing | Ease Factor |
 |---------|-------------|
@@ -141,7 +141,7 @@ Award one point at the end of a session for each of the following that a charact
 
 ### Second Sight
 
-*p67, [p170](<Ars Magica DE - 5. Abilities.md#second-sight>)*
+*p67, [p170](<Ars Magica DE - 05. Abilities.md#second-sight>)*
 
 **REGIO SIGHT ROLL: Perception + Appropriate Ability + Stress Die**
 
@@ -541,7 +541,7 @@ If you're making up a new spell …
 
 **CEREMONIAL CASTING TIME:** 15 minutes per magnitude
 
-*See Definitive Edition [page 218](<Ars Magica DE - 7. Hermetic Magic.md#page-218>) for Ceremonial props and ritual spaces.*
+*See Definitive Edition [page 218](<Ars Magica DE - 07. Hermetic Magic.md#page-218>) for Ceremonial props and ritual spaces.*
 
 <!-- p. 545 --><a id="page-545"></a>
 
@@ -723,7 +723,7 @@ Cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide
 
 #### Base Individuals
 
-*p117–162, [p314-372](<Ars Magica DE - 9. Spells.md#volumes-and-targets>)*
+*p117–162, [p314-372](<Ars Magica DE - 09. Spells.md#volumes-and-targets>)*
 
 Animal: a pony-sized animal, Size +1 or lower.
 
@@ -926,7 +926,7 @@ FAMILIAR BONDING COST: 1 pawn vis per five levels or fraction of the binding Lab
 
 #### Teaching Hermetic Virtues
 
-*p106, [p271](<Ars Magica DE - 8. Laboratory.md#teaching-hermetic-virtues>)*
+*p106, [p271](<Ars Magica DE - 08. Laboratory.md#teaching-hermetic-virtues>)*
 
 TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus
 

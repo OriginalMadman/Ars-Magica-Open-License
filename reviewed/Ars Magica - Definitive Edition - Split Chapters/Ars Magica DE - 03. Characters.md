@@ -14,7 +14,7 @@ Most players of Ars Magica have at least two characters, and often more, althoug
 
 A magus (feminine maga, plural magi, feminine plural magae) is a powerful wizard, even when he has only just finished his training. Magi rule the covenant around which a saga revolves, and have the potential to become as powerful as any human being can. A magus player character belongs to a single player, who has complete control over that character's decisions.
 
-Although magi are very powerful, they are also limited in important ways by The Gift, their ability to work magic (see pages [63](<Ars Magica DE - 4. Virtues and Flaws.md#the-gift>) and [203](<Ars Magica DE - 7. Hermetic Magic.md#the-gift>)). This means that there are some things that only non-magi can do effectively. In addition, magi are rarely skilled at anything other than magic, which means that they need help in everyday affairs.
+Although magi are very powerful, they are also limited in important ways by The Gift, their ability to work magic (see pages [63](<Ars Magica DE - 04. Virtues and Flaws.md#the-gift>) and [203](<Ars Magica DE - 07. Hermetic Magic.md#the-gift>)). This means that there are some things that only non-magi can do effectively. In addition, magi are rarely skilled at anything other than magic, which means that they need help in everyday affairs.
 
 ### Companions
 
@@ -50,11 +50,11 @@ This section outlines the way that the game rules describe characters.
 
 ### Size
 
-All Ars Magica characters have a Size score. However, almost all adult human characters have the same Size score, 0, as this represents an average adult human. Every three points of Size represents a ten-fold increase or decrease in mass, and adult humans can range from Size –2 to Size +2, if they take appropriate Virtues or Flaws. The effects of this are described in the Virtues and Flaws chapter, [page 61](<Ars Magica DE - 4. Virtues and Flaws.md#chapter-4-virtues-and-flaws>). Size is more important for non-human creatures, and is discussed in detail in the Bestiary chapter, [page 426](<Ars Magica DE - 13. Bestiary.md#chapter-13-bestiary>).
+All Ars Magica characters have a Size score. However, almost all adult human characters have the same Size score, 0, as this represents an average adult human. Every three points of Size represents a ten-fold increase or decrease in mass, and adult humans can range from Size –2 to Size +2, if they take appropriate Virtues or Flaws. The effects of this are described in the Virtues and Flaws chapter, [page 61](<Ars Magica DE - 04. Virtues and Flaws.md#chapter-4-virtues-and-flaws>). Size is more important for non-human creatures, and is discussed in detail in the Bestiary chapter, [page 426](<Ars Magica DE - 13. Bestiary.md#chapter-13-bestiary>).
 
 ### Virtues and Flaws
 
-Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies, obsessions, and aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on [page 61](<Ars Magica DE - 4. Virtues and Flaws.md#chapter-4-virtues-and-flaws>).
+Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies, obsessions, and aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on [page 61](<Ars Magica DE - 04. Virtues and Flaws.md#chapter-4-virtues-and-flaws>).
 
 <!-- p. 27 --><a id="page-27"></a>
 
@@ -100,11 +100,11 @@ Quickness indicates reaction speed and reflexes, and helps determine who acts fi
 
 ### Abilities
 
-Abilities are a character's learned skills. They usually do increase during the course of a saga. Characters in **Ars Magica** can choose from a wide range of Abilities, listed in the Abilities chapter starting on [page 157](<Ars Magica DE - 5. Abilities.md#chapter-5-abilities>), which are divided into five types: General Abilities, which can be learned by anyone, and Academic Abilities, Arcane Abilities, Martial Abilities, and Supernatural Abilities. A character can only learn Academic, Arcane, or Martial Abilities if he has an appropriate Virtue or Flaw, or is a magus.
+Abilities are a character's learned skills. They usually do increase during the course of a saga. Characters in **Ars Magica** can choose from a wide range of Abilities, listed in the Abilities chapter starting on [page 157](<Ars Magica DE - 05. Abilities.md#chapter-5-abilities>), which are divided into five types: General Abilities, which can be learned by anyone, and Academic Abilities, Arcane Abilities, Martial Abilities, and Supernatural Abilities. A character can only learn Academic, Arcane, or Martial Abilities if he has an appropriate Virtue or Flaw, or is a magus.
 
 Supernatural Abilities are even more limited, and a character can only learn one if she meets certain special conditions. The most common is the possession of the Virtue granting that Supernatural Ability, but The Gift allows characters to learn such Abilities, and other supplements describe other ways to access them. Unless a character has a feature that specifically says she can learn a Supernatural Ability, she cannot.
 
-Finally, Spell Mastery Abilities are only available to Hermetic magi, and are described on [page 158](<Ars Magica DE - 7. Hermetic Magic.md#spell-mastery>).
+Finally, Spell Mastery Abilities are only available to Hermetic magi, and are described on [page 158](<Ars Magica DE - 07. Hermetic Magic.md#spell-mastery>).
 
 <!-- p. 28 --><a id="page-28"></a>
 
@@ -205,7 +205,7 @@ Each template is presented in the same format, described below.
 
 **Confidence Score:** The character's Confidence Score, with the number of Confidence Points in parentheses. Grogs don't have Confidence, so this line is omitted.
 
-**Virtues and Flaws:** All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on [page 61](<Ars Magica DE - 4. Virtues and Flaws.md#chapter-4-virtues-and-flaws>). The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
+**Virtues and Flaws:** All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on [page 61](<Ars Magica DE - 04. Virtues and Flaws.md#chapter-4-virtues-and-flaws>). The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
 
 **Personality Traits:** The character's Personality Traits, and scores.
 
@@ -221,15 +221,15 @@ Each template is presented in the same format, described below.
 
 **Abilities:** All of the character's Abilities, in alphabetical order. The format is Ability X (Z) (specialization), where X is the score in the Ability and Z is the number of experience points acquired towards the next level. If the Ability is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Ability), and Z is the number of experience points acquired towards the next level.
 
-**Arts:** The character's scores in the Hermetic Arts, in the format Art X (Z), where X is the score and Z the number of experience points acquired towards the next level. If the Art is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Art), and Z is the number of experience points acquired towards the next level. The Arts are named according to the standard abbreviations, described on [page 206](<Ars Magica DE - 7. Hermetic Magic.md#the-hermetic-arts>). Non-magi have no scores in the Arts, and this section is omitted.
+**Arts:** The character's scores in the Hermetic Arts, in the format Art X (Z), where X is the score and Z the number of experience points acquired towards the next level. If the Art is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Art), and Z is the number of experience points acquired towards the next level. The Arts are named according to the standard abbreviations, described on [page 206](<Ars Magica DE - 07. Hermetic Magic.md#the-hermetic-arts>). Non-magi have no scores in the Arts, and this section is omitted.
 
-**Twilight Scars:** Long lasting effects of Wizard's Twilight. Only applicable to Hermetic magi, and described in detail on [page 229](<Ars Magica DE - 7. Hermetic Magic.md#wizards-twilight>).
+**Twilight Scars:** Long lasting effects of Wizard's Twilight. Only applicable to Hermetic magi, and described in detail on [page 229](<Ars Magica DE - 07. Hermetic Magic.md#wizards-twilight>).
 
 **Equipment**: The character's stuff.
 
 **Encumbrance**: The character's Encumbrance, with the character's Burden in parentheses. The rules for Encumbrance are on [page 403](<Ars Magica DE - 11. Obstacles.md#encumbrance>).
 
-**Spells Known:** A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Hermetic Magic chapter, [page 225](<Ars Magica DE - 7. Hermetic Magic.md#spell-mastery>)). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from [page 301](<Ars Magica DE - 9. Spells.md#chapter-9-spells>).
+**Spells Known:** A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Hermetic Magic chapter, [page 225](<Ars Magica DE - 07. Hermetic Magic.md#spell-mastery>)). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from [page 301](<Ars Magica DE - 09. Spells.md#chapter-9-spells>).
 
 **Customization Notes:** Some notes on the character, and what can easily be changed if you want to customize it.
 
@@ -703,14 +703,14 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Transformation of the Ravenous Beast to the Torpid Toad](<Ars Magica DE - 9. Spells.md#transformation-of-the-ravenous-beast-to-the-torpid-toad>) (MuAn 25/+19)
-- [Agony of the Beast](<Ars Magica DE - 9. Spells.md#agony-of-the-beast>) (PeAn 15/+12)
-- [Circle of Beast Warding](<Ars Magica DE - 9. Spells.md#circle-of-beast-warding>) (ReAn 5/+10)
-- [Viper's Gaze](<Ars Magica DE - 9. Spells.md#vipers-gaze>) (ReAn 15/+10)
-- [Eyes of the Cat](<Ars Magica DE - 9. Spells.md#eyes-of-the-cat>) (MuCo(An) 5/+19)
-- [Gift of the Bear's Fortitude](<Ars Magica DE - 9. Spells.md#gift-of-the-bears-fortitude>) (MuCo 25/+19)
-- [The Wound that Weeps](<Ars Magica DE - 9. Spells.md#the-wound-that-weeps>) (PeCo 15/+12)
-- [Lifting the Dangling Puppet](<Ars Magica DE - 9. Spells.md#lifting-the-dangling-puppet>) (ReCo 15/+10)
+- [Transformation of the Ravenous Beast to the Torpid Toad](<Ars Magica DE - 09. Spells.md#transformation-of-the-ravenous-beast-to-the-torpid-toad>) (MuAn 25/+19)
+- [Agony of the Beast](<Ars Magica DE - 09. Spells.md#agony-of-the-beast>) (PeAn 15/+12)
+- [Circle of Beast Warding](<Ars Magica DE - 09. Spells.md#circle-of-beast-warding>) (ReAn 5/+10)
+- [Viper's Gaze](<Ars Magica DE - 09. Spells.md#vipers-gaze>) (ReAn 15/+10)
+- [Eyes of the Cat](<Ars Magica DE - 09. Spells.md#eyes-of-the-cat>) (MuCo(An) 5/+19)
+- [Gift of the Bear's Fortitude](<Ars Magica DE - 09. Spells.md#gift-of-the-bears-fortitude>) (MuCo 25/+19)
+- [The Wound that Weeps](<Ars Magica DE - 09. Spells.md#the-wound-that-weeps>) (PeCo 15/+12)
+- [Lifting the Dangling Puppet](<Ars Magica DE - 09. Spells.md#lifting-the-dangling-puppet>) (ReCo 15/+10)
 
 Customization Notes: The Bjornaer is much more comfortable with animals than with people, and may think of him or herself as just as much animal as human. The combination of Blatant Gift and Inoffensive to Animals means that she gets along better with animals than with people. Ways of the Forest should be changed to a terrain appropriate to the actual heartbeast; a wolf is assumed for the example. Both Major Flaws can be changed freely, and while Deficient Form (Ignem) is very common in House Bjornaer, there is no particular reason for your character to have it. Note that Quiet and Subtle Magic allow the magus to cast in his heartbeast form without any penalty.
 
@@ -754,11 +754,11 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Charge of the Angry Winds](<Ars Magica DE - 9. Spells.md#charge-of-the-angry-winds>) (CrAu 15/+24)
-- [Clouds of Rain and Thunder](<Ars Magica DE - 9. Spells.md#clouds-of-rain-and-thunder>) (CrAu 25/+24)
-- [Clouds of Summer Snow](<Ars Magica DE - 9. Spells.md#clouds-of-summer-snow>) (CrAu 25/+24)
-- [The Incantation of Lightning](<Ars Magica DE - 9. Spells.md#the-incantation-of-lightning>) (CrAu 35/+24)
-- [Purification of the Festering Wounds](<Ars Magica DE - 9. Spells.md#purification-of-the-festering-wounds>) (CrCo 20/+16)
+- [Charge of the Angry Winds](<Ars Magica DE - 09. Spells.md#charge-of-the-angry-winds>) (CrAu 15/+24)
+- [Clouds of Rain and Thunder](<Ars Magica DE - 09. Spells.md#clouds-of-rain-and-thunder>) (CrAu 25/+24)
+- [Clouds of Summer Snow](<Ars Magica DE - 09. Spells.md#clouds-of-summer-snow>) (CrAu 25/+24)
+- [The Incantation of Lightning](<Ars Magica DE - 09. Spells.md#the-incantation-of-lightning>) (CrAu 35/+24)
+- [Purification of the Festering Wounds](<Ars Magica DE - 09. Spells.md#purification-of-the-festering-wounds>) (CrCo 20/+16)
 
 Customization Notes: The Bonisagus is most likely Driven to make some great discovery in magic. He or she is a so-called 'lab rat', a magus happier in his laboratory than in the outside world. However, the favors he owes and his drive to discover are likely to push him out. Similarly, enchanted items are very useful to him, but he is bad at making them for himself. That also tends to drive him into stories. This concept is built around the Virtues and the Driven Flaw; the other Flaws can be changed easily. He can also take two additional Minor Flaws, or make Driven Major, and take two additional Minor Virtues to balance them. Similarly, the Arts in which the character has an Affinity can be changed, but that also requires changing the spells he knows.
 
@@ -804,13 +804,13 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Phantasm of the Talking Head](<Ars Magica DE - 9. Spells.md#phantasm-of-the-talking-head>) (CrIm 10/+8)
-- [Aura of Ennobled Presence](<Ars Magica DE - 9. Spells.md#aura-of-ennobled-presence>) (MuIm 10/+8)
-- [Piercing the Faerie Veil](<Ars Magica DE - 9. Spells.md#piercing-the-faerie-veil>) (InVi 20/+18)
-- [Piercing the Magical Veil](<Ars Magica DE - 9. Spells.md#piercing-the-faerie-veil>) (InVi 20/+18) (see Piercing the Faerie Veil)
-- [Unraveling the Fabric of Imaginem](<Ars Magica DE - 9. Spells.md#unravelling-the-fabric-of-form>) (PeVi 20/+16)
-- [Wind of Mundane Silence](<Ars Magica DE - 9. Spells.md#wind-of-mundane-silence>) (PeVi 20/+16)
-- [Circular Ward Against Demons](<Ars Magica DE - 9. Spells.md#circular-ward-against-demons>) (ReVi 20/+16)
+- [Phantasm of the Talking Head](<Ars Magica DE - 09. Spells.md#phantasm-of-the-talking-head>) (CrIm 10/+8)
+- [Aura of Ennobled Presence](<Ars Magica DE - 09. Spells.md#aura-of-ennobled-presence>) (MuIm 10/+8)
+- [Piercing the Faerie Veil](<Ars Magica DE - 09. Spells.md#piercing-the-faerie-veil>) (InVi 20/+18)
+- [Piercing the Magical Veil](<Ars Magica DE - 09. Spells.md#piercing-the-faerie-veil>) (InVi 20/+18) (see Piercing the Faerie Veil)
+- [Unraveling the Fabric of Imaginem](<Ars Magica DE - 09. Spells.md#unravelling-the-fabric-of-form>) (PeVi 20/+16)
+- [Wind of Mundane Silence](<Ars Magica DE - 09. Spells.md#wind-of-mundane-silence>) (PeVi 20/+16)
+- [Circular Ward Against Demons](<Ars Magica DE - 09. Spells.md#circular-ward-against-demons>) (ReVi 20/+16)
 
 Customization Notes: The Criamon does not have her maximum allowance of Flaws, so could take an additional Major Flaw or three Minor Flaws, with corresponding Virtues, if desired. Her Charm and Folk Ken scores could be moved into other Abilities available in the first five years of life (see the Detailed Character Creation rules, [page 43](#detailed-character-creation)), possibly also moving her good Presence score as well.
 
@@ -855,13 +855,13 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Wall of Protecting Stone](<Ars Magica DE - 9. Spells.md#wall-of-protecting-stone>) (CrTe 25/+35)
-- [The Crystal Dart](<Ars Magica DE - 9. Spells.md#the-crystal-dart>) (Mu(Re)Te 10/+27)
-- [Rock of Viscid Clay](<Ars Magica DE - 9. Spells.md#rock-of-viscid-clay>) (MuTe 15/+27)
-- [Earth that Breaks No More](<Ars Magica DE - 9. Spells.md#earth-that-breaks-no-more>) (MuTe 20/+27)
-- [Obliteration of the Metallic Barrier](<Ars Magica DE - 9. Spells.md#obliteration-of-the-metallic-barrier>) (Pe(Re)Te 20/+22)
-- [The Earth's Carbuncle](<Ars Magica DE - 9. Spells.md#the-earths-carbuncle>) (Re(Mu)Te 15/+27)
-- [Hands of the Grasping Earth](<Ars Magica DE - 9. Spells.md#hands-of-the-grasping-earth>) (Re(Mu)Te 15/+23)
+- [Wall of Protecting Stone](<Ars Magica DE - 09. Spells.md#wall-of-protecting-stone>) (CrTe 25/+35)
+- [The Crystal Dart](<Ars Magica DE - 09. Spells.md#the-crystal-dart>) (Mu(Re)Te 10/+27)
+- [Rock of Viscid Clay](<Ars Magica DE - 09. Spells.md#rock-of-viscid-clay>) (MuTe 15/+27)
+- [Earth that Breaks No More](<Ars Magica DE - 09. Spells.md#earth-that-breaks-no-more>) (MuTe 20/+27)
+- [Obliteration of the Metallic Barrier](<Ars Magica DE - 09. Spells.md#obliteration-of-the-metallic-barrier>) (Pe(Re)Te 20/+22)
+- [The Earth's Carbuncle](<Ars Magica DE - 09. Spells.md#the-earths-carbuncle>) (Re(Mu)Te 15/+27)
+- [Hands of the Grasping Earth](<Ars Magica DE - 09. Spells.md#hands-of-the-grasping-earth>) (Re(Mu)Te 15/+23)
 
 <!-- p. 39 --><a id="page-39"></a>
 
@@ -907,11 +907,11 @@ Equipment: Wizardly robes, smelling slightly of smoke.
 Encumbrance: 0 (0)
 
 Spells Known: 
-- [Palm of Flame](<Ars Magica DE - 9. Spells.md#palm-of-flame>) (CrIg 5/+41)
-- [Pilum of Fire](<Ars Magica DE - 9. Spells.md#pilum-of-fire>) (CrIg 20/+41)
-- [Arc of Fiery Ribbons](<Ars Magica DE - 9. Spells.md#arc-of-fiery-ribbons>) (CrIg 25/+41)
-- [Ball of Abysmal Flame](<Ars Magica DE - 9. Spells.md#ball-of-abysmal-flame>) (CrIg 35/+41)
-- [Circle of Encompassing Flames](<Ars Magica DE - 9. Spells.md#circle-of-encompassing-flames>) (CrIg 35/+41)
+- [Palm of Flame](<Ars Magica DE - 09. Spells.md#palm-of-flame>) (CrIg 5/+41)
+- [Pilum of Fire](<Ars Magica DE - 09. Spells.md#pilum-of-fire>) (CrIg 20/+41)
+- [Arc of Fiery Ribbons](<Ars Magica DE - 09. Spells.md#arc-of-fiery-ribbons>) (CrIg 25/+41)
+- [Ball of Abysmal Flame](<Ars Magica DE - 09. Spells.md#ball-of-abysmal-flame>) (CrIg 35/+41)
+- [Circle of Encompassing Flames](<Ars Magica DE - 09. Spells.md#circle-of-encompassing-flames>) (CrIg 35/+41)
 
 Customization Notes: The Flambeau is very much a one-trick pony. He can throw fire at opponents extremely effectively. His focused Arts and Magical Focus mean that he has some Penetration even for powerful spells. However, he is much weaker if he tries to do anything else. Wrathful and Enemies can be swapped out for other Flaws with no trouble, to break the stereotype a bit, as can his Greater Immunity. He can take another Minor Flaw, and balancing Minor Virtue.
 
@@ -956,12 +956,12 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Physician's Eye](<Ars Magica DE - 9. Spells.md#physicians-eye>) (InCo 5/+20)
-- [Eyes of the Eagle](<Ars Magica DE - 9. Spells.md#eyes-of-the-eagle>) (InIm 25/+21)
-- [Summoning the Distant Image](<Ars Magica DE - 9. Spells.md#summoning-the-distant-image>) (InIm 25/+21)
-- [Invisibility of the Standing Wizard](<Ars Magica DE - 9. Spells.md#invisibility-of-the-standing-wizard>) (PeIm 15/+8)
-- [Frosty Breath of the Spoken Lie](<Ars Magica DE - 9. Spells.md#frosty-breath-of-the-spoken-lie>) (InMe 20/ +21)
-- [Peering Into the Mortal Mind](<Ars Magica DE - 9. Spells.md#peering-into-the-mortal-mind>) (InMe 30/+21)
+- [Physician's Eye](<Ars Magica DE - 09. Spells.md#physicians-eye>) (InCo 5/+20)
+- [Eyes of the Eagle](<Ars Magica DE - 09. Spells.md#eyes-of-the-eagle>) (InIm 25/+21)
+- [Summoning the Distant Image](<Ars Magica DE - 09. Spells.md#summoning-the-distant-image>) (InIm 25/+21)
+- [Invisibility of the Standing Wizard](<Ars Magica DE - 09. Spells.md#invisibility-of-the-standing-wizard>) (PeIm 15/+8)
+- [Frosty Breath of the Spoken Lie](<Ars Magica DE - 09. Spells.md#frosty-breath-of-the-spoken-lie>) (InMe 20/ +21)
+- [Peering Into the Mortal Mind](<Ars Magica DE - 09. Spells.md#peering-into-the-mortal-mind>) (InMe 30/+21)
 
 Customization Notes: If the Guernicus lies (says something she believes to be untrue as if it were true), she cannot use any magic until the sun next rises or sets. Anyone who wants to tell a lie in her presence soon after she casts a spell (within two minutes or so) must make a relevant Personality Trait check against an Ease Factor equal to the magnitude of the spell cast. If the check fails, he cannot bring himself to lie, although he can remain silent. The Guernicus could take four more points of Flaws, and corresponding Virtues.
 
@@ -1005,16 +1005,16 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Phantasm of the Talking Head](<Ars Magica DE - 9. Spells.md#phantasm-of-the-talking-head>) (CrIm 10/+16)
-- [Phantasm of the Human Form](<Ars Magica DE - 9. Spells.md#phantasm-of-the-human-form>) (CrIm 25/+16)
-- [Discern Own Illusions](<Ars Magica DE - 9. Spells.md#discern-own-illusions>) (InIm 15/+11)
-- [Taste of the Spices and Herbs](<Ars Magica DE - 9. Spells.md#taste-of-the-spices-and-herbs>) (MuIm 5/+16)
-- [Aura of Ennobled Presence](<Ars Magica DE - 9. Spells.md#aura-of-ennobled-presence>) (MuIm 10/+16)
-- [Notes of a Delightful Sound](<Ars Magica DE - 9. Spells.md#notes-of-a-delightful-sound>) (MuIm 10/+16)
-- [Disguise of the Transformed Image](<Ars Magica DE - 9. Spells.md#disguise-of-the-transformed-image>) (MuIm 15/+16)
-- [Illusion of Cool Flames](<Ars Magica DE - 9. Spells.md#illusion-of-cool-flames>) (PeIm 10/+6)
-- [Illusion of the Shifted Image](<Ars Magica DE - 9. Spells.md#illusion-of-the-shifted-image>) (ReIm 10/+16)
-- [Wizard's Sidestep](<Ars Magica DE - 9. Spells.md#wizards-sidestep>) (ReIm 10/+16)
+- [Phantasm of the Talking Head](<Ars Magica DE - 09. Spells.md#phantasm-of-the-talking-head>) (CrIm 10/+16)
+- [Phantasm of the Human Form](<Ars Magica DE - 09. Spells.md#phantasm-of-the-human-form>) (CrIm 25/+16)
+- [Discern Own Illusions](<Ars Magica DE - 09. Spells.md#discern-own-illusions>) (InIm 15/+11)
+- [Taste of the Spices and Herbs](<Ars Magica DE - 09. Spells.md#taste-of-the-spices-and-herbs>) (MuIm 5/+16)
+- [Aura of Ennobled Presence](<Ars Magica DE - 09. Spells.md#aura-of-ennobled-presence>) (MuIm 10/+16)
+- [Notes of a Delightful Sound](<Ars Magica DE - 09. Spells.md#notes-of-a-delightful-sound>) (MuIm 10/+16)
+- [Disguise of the Transformed Image](<Ars Magica DE - 09. Spells.md#disguise-of-the-transformed-image>) (MuIm 15/+16)
+- [Illusion of Cool Flames](<Ars Magica DE - 09. Spells.md#illusion-of-cool-flames>) (PeIm 10/+6)
+- [Illusion of the Shifted Image](<Ars Magica DE - 09. Spells.md#illusion-of-the-shifted-image>) (ReIm 10/+16)
+- [Wizard's Sidestep](<Ars Magica DE - 09. Spells.md#wizards-sidestep>) (ReIm 10/+16)
 
 Customization Notes: The Jerbiton took Puissant Music as his free House-related Virtue. He is designed as a social creature who sees himself as an artist in music and magic. He can take up to three points more of Flaws, with the corresponding Virtues. Note that he has the Gentle Gift, and thus can interact with mundanes without any penalty.
 
@@ -1060,11 +1060,11 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Jupiter's Resounding Blow](<Ars Magica DE - 9. Spells.md#jupiters-resounding-blow>) (CrAu 10/+26)
-- [Clouds of Rain and Thunder](<Ars Magica DE - 9. Spells.md#clouds-of-rain-and-thunder>) (CrAu 25/+35)
-- [Clouds of Summer Snow](<Ars Magica DE - 9. Spells.md#clouds-of-summer-snow>) (CrAu 25/+35)
-- [Pull of the Skybound Winds](<Ars Magica DE - 9. Spells.md#pull-of-the-skybound-winds>) (CrAu 30/+26)
-- [Wings of the Soaring Wind](<Ars Magica DE - 9. Spells.md#wings-of-the-soaring-wind>) (Cr(Re)Au 30/+27)
+- [Jupiter's Resounding Blow](<Ars Magica DE - 09. Spells.md#jupiters-resounding-blow>) (CrAu 10/+26)
+- [Clouds of Rain and Thunder](<Ars Magica DE - 09. Spells.md#clouds-of-rain-and-thunder>) (CrAu 25/+35)
+- [Clouds of Summer Snow](<Ars Magica DE - 09. Spells.md#clouds-of-summer-snow>) (CrAu 25/+35)
+- [Pull of the Skybound Winds](<Ars Magica DE - 09. Spells.md#pull-of-the-skybound-winds>) (CrAu 30/+26)
+- [Wings of the Soaring Wind](<Ars Magica DE - 09. Spells.md#wings-of-the-soaring-wind>) (Cr(Re)Au 30/+27)
 
 Customization Notes: The Mercere can take another three points of Flaws and as many points of Virtues. He is quite capable of traveling alone, and probably prefers to do so. By moving scores from Hunt and Stealth into social Abilities such as Charm, he can be made more likely to travel with a group.
 
@@ -1108,13 +1108,13 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Phantasmal Animal](<Ars Magica DE - 9. Spells.md#phantasmal-animal>) (CrIm 20/+17)
-- [Phantasm of the Human Form](<Ars Magica DE - 9. Spells.md#phantasm-of-the-human-form>) (CrIm 25/+17)
-- [Image Phantom](<Ars Magica DE - 9. Spells.md#image-phantom>) (MuIm 20/+17)
-- [Veil of Invisibility](<Ars Magica DE - 9. Spells.md#veil-of-invisibility>) (PeIm 20/+14)
-- [Wizard's Sidestep](<Ars Magica DE - 9. Spells.md#wizards-sidestep>) (ReIm 10/+17)
-- [Panic of the Trembling Heart](<Ars Magica DE - 9. Spells.md#panic-of-the-trembling-heart>) (CrMe 15/+9)
-- [The Call to Slumber](<Ars Magica DE - 9. Spells.md#the-call-to-slumber>) (ReMe 10/+9)
+- [Phantasmal Animal](<Ars Magica DE - 09. Spells.md#phantasmal-animal>) (CrIm 20/+17)
+- [Phantasm of the Human Form](<Ars Magica DE - 09. Spells.md#phantasm-of-the-human-form>) (CrIm 25/+17)
+- [Image Phantom](<Ars Magica DE - 09. Spells.md#image-phantom>) (MuIm 20/+17)
+- [Veil of Invisibility](<Ars Magica DE - 09. Spells.md#veil-of-invisibility>) (PeIm 20/+14)
+- [Wizard's Sidestep](<Ars Magica DE - 09. Spells.md#wizards-sidestep>) (ReIm 10/+17)
+- [Panic of the Trembling Heart](<Ars Magica DE - 09. Spells.md#panic-of-the-trembling-heart>) (CrMe 15/+9)
+- [The Call to Slumber](<Ars Magica DE - 09. Spells.md#the-call-to-slumber>) (ReMe 10/+9)
 
 Customization Notes: The Merinita can take another three points of Flaws and as many Virtues. The type of Strong Faerie Blood can also be changed easily. They might look younger than 25, due to the influence of Strong Faerie Blood, but need not.
 
@@ -1160,14 +1160,14 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Circling Winds of Protection](<Ars Magica DE - 9. Spells.md#circling-winds-of-protection>) (Cr(Re)Au 20/+16)
-- [Rain of Stones](<Ars Magica DE - 9. Spells.md#rain-of-stones>) (MuAu(Te) 20/+16)
-- [Pilum of Fire](<Ars Magica DE - 9. Spells.md#pilum-of-fire>) (CrIg 20/+16)
-- [Soothe the Raging Flames](<Ars Magica DE - 9. Spells.md#soothe-the-raging-flames>) (PeIg 20/+16)
-- [Seal the Earth](<Ars Magica DE - 9. Spells.md#seal-the-earth>) (CrTe 15/+16)
-- [The Miner's Keen Eye](<Ars Magica DE - 9. Spells.md#the-miners-keen-eye>) (InTe 20/+16)
-- [Earth that Breaks No More](<Ars Magica DE - 9. Spells.md#earth-that-breaks-no-more>) (MuTe 20/+16)
-- [Pit of the Gaping Earth](<Ars Magica DE - 9. Spells.md#pit-of-the-gaping-earth>) (PeTe 15/+16)
+- [Circling Winds of Protection](<Ars Magica DE - 09. Spells.md#circling-winds-of-protection>) (Cr(Re)Au 20/+16)
+- [Rain of Stones](<Ars Magica DE - 09. Spells.md#rain-of-stones>) (MuAu(Te) 20/+16)
+- [Pilum of Fire](<Ars Magica DE - 09. Spells.md#pilum-of-fire>) (CrIg 20/+16)
+- [Soothe the Raging Flames](<Ars Magica DE - 09. Spells.md#soothe-the-raging-flames>) (PeIg 20/+16)
+- [Seal the Earth](<Ars Magica DE - 09. Spells.md#seal-the-earth>) (CrTe 15/+16)
+- [The Miner's Keen Eye](<Ars Magica DE - 09. Spells.md#the-miners-keen-eye>) (InTe 20/+16)
+- [Earth that Breaks No More](<Ars Magica DE - 09. Spells.md#earth-that-breaks-no-more>) (MuTe 20/+16)
+- [Pit of the Gaping Earth](<Ars Magica DE - 09. Spells.md#pit-of-the-gaping-earth>) (PeTe 15/+16)
 
 Customization Notes: The Tremere can take three more points of Flaws, and a similar number of Virtues. At the moment, he is a social and political creature, but the score in one of those Abilities could be moved into a Martial Ability to make him more of a fighter. Elemental Magic makes it difficult to move Art scores around. Initially, he was assigned scores of Aq 3, Au 6, Ig 6, and Te 6.
 
@@ -1213,11 +1213,11 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Pains of the Perpetual Worry](<Ars Magica DE - 9. Spells.md#pains-of-the-perpetual-worry>) (CrMe 20/+16)
-- [Posing the Silent Question](<Ars Magica DE - 9. Spells.md#posing-the-silent-question>) (InMe 20/+16)
-- [Trust of Childlike Faith](<Ars Magica DE - 9. Spells.md#trust-of-childlike-faith>) (PeMe 10/+11)
-- [Aura of Rightful Authority](<Ars Magica DE - 9. Spells.md#aura-of-rightful-authority>) (ReMe 20+16)
-- [Scent of Peaceful Slumber](<Ars Magica DE - 9. Spells.md#scent-of-peaceful-slumber>) (ReMe 20/+16)
+- [Pains of the Perpetual Worry](<Ars Magica DE - 09. Spells.md#pains-of-the-perpetual-worry>) (CrMe 20/+16)
+- [Posing the Silent Question](<Ars Magica DE - 09. Spells.md#posing-the-silent-question>) (InMe 20/+16)
+- [Trust of Childlike Faith](<Ars Magica DE - 09. Spells.md#trust-of-childlike-faith>) (PeMe 10/+11)
+- [Aura of Rightful Authority](<Ars Magica DE - 09. Spells.md#aura-of-rightful-authority>) (ReMe 20+16)
+- [Scent of Peaceful Slumber](<Ars Magica DE - 09. Spells.md#scent-of-peaceful-slumber>) (ReMe 20/+16)
 
 Customization Notes: The Tytalus can take up to three more points of Flaws, and a similar number of Virtues.
 
@@ -1263,13 +1263,13 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-- [Seal the Earth](<Ars Magica DE - 9. Spells.md#seal-the-earth>) (CrTe 15/+23)
-- [Touch of Midas](<Ars Magica DE - 9. Spells.md#touch-of-midas>) (CrTe 20/+25)
-- [Wall of Protecting Stone](<Ars Magica DE - 9. Spells.md#wall-of-protecting-stone>) (CrTe 25/+23)
-- [The Crystal Dart](<Ars Magica DE - 9. Spells.md#the-crystal-dart>) (Mu(Re)Te 10/+21)
-- [Edge of the Razor](<Ars Magica DE - 9. Spells.md#edge-of-the-razor>) (MuTe 20/+21)
-- [Pit of the Gaping Earth](<Ars Magica DE - 9. Spells.md#pit-of-the-gaping-earth>) (PeTe 15/+19)
-- [Hands of the Grasping Earth](<Ars Magica DE - 9. Spells.md#hands-of-the-grasping-earth>) (Re(Mu)Te 15/+21)
+- [Seal the Earth](<Ars Magica DE - 09. Spells.md#seal-the-earth>) (CrTe 15/+23)
+- [Touch of Midas](<Ars Magica DE - 09. Spells.md#touch-of-midas>) (CrTe 20/+25)
+- [Wall of Protecting Stone](<Ars Magica DE - 09. Spells.md#wall-of-protecting-stone>) (CrTe 25/+23)
+- [The Crystal Dart](<Ars Magica DE - 09. Spells.md#the-crystal-dart>) (Mu(Re)Te 10/+21)
+- [Edge of the Razor](<Ars Magica DE - 09. Spells.md#edge-of-the-razor>) (MuTe 20/+21)
+- [Pit of the Gaping Earth](<Ars Magica DE - 09. Spells.md#pit-of-the-gaping-earth>) (PeTe 15/+19)
+- [Hands of the Grasping Earth](<Ars Magica DE - 09. Spells.md#hands-of-the-grasping-earth>) (Re(Mu)Te 15/+21)
 
 Customization Notes: The Verditius can take another three Minor Flaws, or one Major, and balancing Virtues. In addition, her Craft Abilities can be changed for different crafts without changing the concept much. Finally, not everyone descended from dwarfs is as small as they are, so that Flaw could be swapped for others without affecting the character on a fundamental level.
 
@@ -1316,7 +1316,7 @@ Much more information about playing child characters is provided in *Apprentices
 > ### Detailed Character Creation Summary
 >
 > 1. **Pick a character concept.**
-> 2. **Hermetic Magi Only: Pick a House.** (See [page 13](<Ars Magica DE - 2. The Order of Hermes.md#the-houses-of-hermes-1>))
+> 2. **Hermetic Magi Only: Pick a House.** (See [page 13](<Ars Magica DE - 02. The Order of Hermes.md#the-houses-of-hermes-1>))
 > 3. **Pick Virtues and Flaws.** Minor Virtues and Flaws are worth one point, Major Virtues and Flaws three points each.
 >     - *Grogs:* Up to three Minor Flaws, and the same number of Minor Virtues.
 >     - *Companions and Magi:* Up to ten points of Flaws, and the same number of points of Virtues.
@@ -1340,7 +1340,7 @@ If the character is not a magus, but is intended to be a central character in th
 
 ### Magi Only: Hermetic House
 
-The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on [page 13](<Ars Magica DE - 2. The Order of Hermes.md#house-bjornaer>), and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
+The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on [page 13](<Ars Magica DE - 02. The Order of Hermes.md#house-bjornaer>), and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
 
 > #### Example: Darius of Flambeau
 >
@@ -1350,7 +1350,7 @@ The next step in creating a Hermetic magus is choosing his House. The twelve Hou
 
 As many Virtues and Flaws deal with the character's place in the story, the rules for them differ the most between the character types.
 
-All characters must take a Social Status. There are a number of default Social Statuses that cost no points; see [page 65](<Ars Magica DE - 4. Virtues and Flaws.md#social-statuses-by-culture>). In particular, all Hermetic magi take the Social Status Hermetic Magus, which costs no points. No other characters may take this Status, because they are not, after all, Hermetic magi.
+All characters must take a Social Status. There are a number of default Social Statuses that cost no points; see [page 65](<Ars Magica DE - 04. Virtues and Flaws.md#social-statuses-by-culture>). In particular, all Hermetic magi take the Social Status Hermetic Magus, which costs no points. No other characters may take this Status, because they are not, after all, Hermetic magi.
 
 Grogs are somewhat limited in their choice of Virtues and Flaws, to ensure that they remain minor characters. They may have up to three points of Flaws, and a corresponding number of Virtues. Grogs should have only Minor Virtues and Flaws. In addition, grogs may not have The Gift (having The Gift makes you an important character), and may not have Story Flaws, as those Flaws make characters central to stories, and that is not the role of the grogs.
 
@@ -1358,11 +1358,11 @@ Companions may, in principle, choose any Virtues and Flaws. They may have up to 
 
 Companions who do not have The Gift may not choose Hermetic Virtues or Flaws. Companions may have The Gift, and thus take Hermetic Virtues or Flaws. However, this should be extremely unusual; the main reason for creating such a companion is that you want to play through the apprenticeship of a magus. The Gift is, however, free, even if taken by a companion. Bear in mind that, unless the character can get access to magical training, it is almost entirely a Flaw, because of its effects on social interactions.
 
-Mythic Companions get more Virtues for their Flaws, as described in the rules on [page 63](<Ars Magica DE - 4. Virtues and Flaws.md#virtues-and-flaws-rules-and-guidelines>).
+Mythic Companions get more Virtues for their Flaws, as described in the rules on [page 63](<Ars Magica DE - 04. Virtues and Flaws.md#virtues-and-flaws-rules-and-guidelines>).
 
 Like companions, magi may take up to ten points of Flaws, and the same number of points of Virtues. Major Virtues and Flaws cost three points each, Minor ones one point. All magi must have The Gift. Without it, they cannot work magic, and thus cannot be magi. In addition, all magi should have at least one Hermetic Flaw. Nobody fits perfectly into Hermetic theory.
 
-The rules for taking Virtues and Flaws are summarized in the Virtues and Flaws chapter, on [page 61](<Ars Magica DE - 4. Virtues and Flaws.md#chapter-4-virtues-and-flaws>).
+The rules for taking Virtues and Flaws are summarized in the Virtues and Flaws chapter, on [page 61](<Ars Magica DE - 04. Virtues and Flaws.md#chapter-4-virtues-and-flaws>).
 
 #### Choosing Virtues and Flaws
 
@@ -1380,22 +1380,22 @@ The second concerns social status. If you want your character to be a knight, wi
 
 > #### Hermetic Houses Summary
 >
-> The Hermetic Houses are described in more detail starting on [page 12](<Ars Magica DE - 2. The Order of Hermes.md#the-houses-of-hermes-1>). Members of each House get a particular benefit at character creation, listed in the following table.
+> The Hermetic Houses are described in more detail starting on [page 12](<Ars Magica DE - 02. The Order of Hermes.md#the-houses-of-hermes-1>). Members of each House get a particular benefit at character creation, listed in the following table.
 >
 > | House          | Type         | Description   | Benefit  |
 > | -------------- | ------------ | ----------------------------------------------------------- | ----------------------------------------------------------------- |
-> | Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast ([page 85](<Ars Magica DE - 4. Virtues and Flaws.md#heartbeast>)), beginning score of 1 in Heartbeast Ability. |
+> | Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast ([page 85](<Ars Magica DE - 04. Virtues and Flaws.md#heartbeast>)), beginning score of 1 in Heartbeast Ability. |
 > | Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians). |
-> | Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma ([page 78](<Ars Magica DE - 4. Virtues and Flaws.md#the-enigma>)), beginning score of 1 in Enigmatic Wisdom. |
+> | Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma ([page 78](<Ars Magica DE - 04. Virtues and Flaws.md#the-enigma>)), beginning score of 1 in Enigmatic Wisdom. |
 > | Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance. |
 > | Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.  |
 > | Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.  |
 > | Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship, arts, or mundane interaction. |
 > | Mercere        | True Lineage | Messengers of the Order                                     | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are created as companions, and take the Redcap Major Status Virtue. Gifted Redcaps take the Hermetic Magus Status Virtue, and do not take the Redcap Major Status Virtue. |
-> | Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic ([page 79](<Ars Magica DE - 4. Virtues and Flaws.md#faerie-magic>)), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.  |
+> | Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic ([page 79](<Ars Magica DE - 04. Virtues and Flaws.md#faerie-magic>)), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.  |
 > | Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen). |
 > | Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.  |
-> | Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic ([page 114](<Ars Magica DE - 4. Virtues and Flaws.md#verditius-magic>)).  |
+> | Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic ([page 114](<Ars Magica DE - 04. Virtues and Flaws.md#verditius-magic>)).  |
 
 <!-- p. 47 --><a id="page-47"></a>
 
@@ -1460,7 +1460,7 @@ Your character's age determines the maximum score she can have in any Ability at
 
 #### Early Childhood
 
-In the first five years of life, characters gain 75 experience points in their native language (see [page 167](<Ars Magica DE - 5. Abilities.md#page-167>) for the Language Ability), which normally gives them a score of 5, and 45 experience points to divide between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim. You do not need to put points into all of these Abilities; choose the ones that best fit your conception of the character. This represents what the character picks up as she plays as a child.
+In the first five years of life, characters gain 75 experience points in their native language (see [page 167](<Ars Magica DE - 05. Abilities.md#page-167>) for the Language Ability), which normally gives them a score of 5, and 45 experience points to divide between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim. You do not need to put points into all of these Abilities; choose the ones that best fit your conception of the character. This represents what the character picks up as she plays as a child.
 
 > #### Sample Childhoods
 >
@@ -1551,7 +1551,7 @@ Magi must have the following minimum Abilities: Parma Magica 1, Magic Theory 1, 
 >
 > Do not forget that casting totals add a Technique and Form together, and that you will get a higher total by splitting experience between a Technique and a Form than by putting all the experience points in one or the other.
 >
-> The highest level spell you can learn is equal to Technique + Form + Intelligence + Magic Theory +3, where the Technique and Form are the Technique and Form of the spell in question. If the spell has requisites (see [page 311](<Ars Magica DE - 9. Spells.md#requisites>)), they apply to this total as well. This is the appropriate Lab Total, assuming an aura modifier of +3, and thus any Virtues and Flaws your character has apply to this total if they would apply to a Lab Total in play.
+> The highest level spell you can learn is equal to Technique + Form + Intelligence + Magic Theory +3, where the Technique and Form are the Technique and Form of the spell in question. If the spell has requisites (see [page 311](<Ars Magica DE - 09. Spells.md#requisites>)), they apply to this total as well. This is the appropriate Lab Total, assuming an aura modifier of +3, and thus any Virtues and Flaws your character has apply to this total if they would apply to a Lab Total in play.
 
 #### Magus Only — After Apprenticeship
 
@@ -1576,7 +1576,7 @@ For each season that your magus spends working on a lab project, the character l
 >
 > Darius will be out of apprenticeship when the saga starts, so Niall takes him further. For the eight years from 26 to 33, inclusive, he just lumps all the experience points together. This gives him 240 experience points to spend in various ways. First, he spends 25 exp raising Parma Magica to 3, as a magus-hunter needs decent Magic Resistance. Then he spends 5 exp on Great Weapon 1, and gives Darius a spear. Next, he spends 88 exp to raise Corpus to 13. He reasons that Darius wants to devise his own Longevity Ritual, and have a decent Penetration with PeCo spells. Next, he goes for a bit more versatility, spending 30 exp to raise Creo to 10, 60 exp to raise all of Aquam, Ignem, Imaginem, Mentem, Terram, Vim to 4, and 1 exp each on Rego and Intellego, for scores of 1 in each. That leaves him 30 exp, which he spends on *Winter's Icy Touch* and a level 20 version of *Rusted Decay of Ten-Score Years* (PeTe 10, Target increased to Group = +2 Magnitudes). Again, he needs to pick a mastery ability for the spell.
 >
-> Niall then decides that Darius will spend the next year in the laboratory, so he gains no experience points in that year. See the Laboratory Chapter from [page 249](<Ars Magica DE - 8. Laboratory.md#chapter-8-laboratory>) for details of these activities. Season 1: Opens spear haft (staff) for enchantment (8 pawns vis); Season 2: Attunes spear haft as a talisman; Season 3: Creates Longevity Ritual (7 pawns vis, Lab Total 35, for a +7 bonus against aging); Season 4: Instill the talisman with the effect *'The Wound that Weeps'* (PeCo 15), with 0 penetration and 50 uses per day. Open the talisman to the attunement "+4 Destroy things at a distance", because a spear is still basically the shape of a staff.
+> Niall then decides that Darius will spend the next year in the laboratory, so he gains no experience points in that year. See the Laboratory Chapter from [page 249](<Ars Magica DE - 08. Laboratory.md#chapter-8-laboratory>) for details of these activities. Season 1: Opens spear haft (staff) for enchantment (8 pawns vis); Season 2: Attunes spear haft as a talisman; Season 3: Creates Longevity Ritual (7 pawns vis, Lab Total 35, for a +7 bonus against aging); Season 4: Instill the talisman with the effect *'The Wound that Weeps'* (PeCo 15), with 0 penetration and 50 uses per day. Open the talisman to the attunement "+4 Destroy things at a distance", because a spear is still basically the shape of a staff.
 >
 > From this point, Niall advances Darius a year at a time, because aging results might have an impact on his study and development. In Darius's 35th year he spends 15 exp on Hunt 2, 5 exp on Civil and Canon Law 1, and 10 exp on raising Animal to 4. At this point, Niall decides that Darius would have risked suffering a Twilight, as he is the sort of magus who is likely to botch from time to time. Darius has a Warping Score of 2, with five Warping Points left over, because he is ten years out of apprenticeship. He makes the roll to control the magic, and succeeds, so that Darius does not actually go into Twilight at this point.
 >
@@ -1586,7 +1586,7 @@ For each season that your magus spends working on a lab project, the character l
 
 Older magi can learn spells more quickly than these guidelines suggest. You may therefore want to use these rules to have a magus learn spells as a lab project if you are advancing him more than forty years or so beyond apprenticeship.
 
-Remember that you should also make aging rolls for the character each year from the age of 35. Thus you will probably want your magus to have acquired a Longevity Ritual (see [page 261](<Ars Magica DE - 8. Laboratory.md#longevity-rituals>)) by then. Some skilled magi offer their services creating Longevity Rituals for others, and you may decide that your character has bargained for one such ritual, especially if you are not interested in studying the Arts of Creo or Corpus. The precise details of such bargains and the bonus given by the resulting ritual should be agreed with the storyguide.
+Remember that you should also make aging rolls for the character each year from the age of 35. Thus you will probably want your magus to have acquired a Longevity Ritual (see [page 261](<Ars Magica DE - 08. Laboratory.md#longevity-rituals>)) by then. Some skilled magi offer their services creating Longevity Rituals for others, and you may decide that your character has bargained for one such ritual, especially if you are not interested in studying the Arts of Creo or Corpus. The precise details of such bargains and the bonus given by the resulting ritual should be agreed with the storyguide.
 
 *Magi of Hermes* contains 15 magi detailed with full statistics immediately after apprenticeship and every 15 years thereafter, including details of any spells they invented or magic items they created. These can serve as a source of ideas, or be used as-is in the saga, even as player characters.
 
