@@ -44,7 +44,7 @@ https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker*
 EDIT: YR7 of that project is now helping with this and the plan is to convert from Markdown to Mediawiki for redcap.org once files are polished up a bit more.
 <br/>
 
-**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381 <br/>
+**Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - [**The Ars Magica Chronology**](https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381) <br/>
 UPDATE: It's also been made available as markdown in the [**/3rd-party**](/3rd-party/) folder here.
 <br/>
 
