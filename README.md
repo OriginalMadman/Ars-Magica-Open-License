@@ -36,9 +36,7 @@ This write-once, publish-anywhere model means the canonical open-license text ca
 
 You can straight open a markdown in google docs, word, (modern) notepad - or use Visual Code, Typora, Notepad++ (with plugin) etc or copy paste as-is to Websites (like GitHub), Blogs (WordPress, Medium), Notes (Notion, Obsidian), Chats (Slack, Discord), and Forums (Like https://forum.atlas-games.com/c/games-discussion/ars-magica/15 ) as they all support Markdown natively.
 <br/>
-<br/>
 > *Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
-<br/>
 <br/>
 <br/>
 **Note:** *The excellent folks at redcap.org also have a project to provide these materials to the public on their wiki. However the project seems to have slow progress as of late, and at a less complete stage than this (redcap team is welcome to grab anything here to help of course).
