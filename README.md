@@ -38,28 +38,27 @@ You can straight open a markdown in google docs, word, (modern) notepad - or use
 <br/>
 > *Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 <br/>
-<br/>
 
 **Note:** *The excellent folks at redcap.org also have a project to provide these materials to the public on their wiki. However the project seems to have slow progress as of late, and at a less complete stage than this (redcap team is welcome to grab anything here to help of course).
 https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker*
 EDIT: YR7 of that project is now helping with this and the plan is to convert from Markdown to Mediawiki for redcap.org once files are polished up a bit more.
 <br/>
-<br/>
 
 **Shameless Plug:** If you are here for Ars Magica content, you're very likely to appreciate my other project - *The Ars Magica Chronology:* https://forum.atlas-games.com/t/the-ars-magica-chronology-project-200-pages-timeline-of-the-order-and-the-history-of-magic/171381 <br/>
 UPDATE: It's also been made available as markdown in the [**/3rd-party**](/3rd-party/) folder here.
-<br/>
 <br/>
 
 **License:** All text of Ars Magica 5th Edition and its sourcebooks, as well as select 3rd and 4th edition material has been released under an open license:
 *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")*
 https://www.atlas-games.com/arsmagica/openars
+<br/>
+<br/>
 
-Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
+**Support Atlas Games:** Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
 <br/>
 <br/>
-<br/>
-> Ars Magica Open License projects in other languages:
+
+> ** Ars Magica Open License projects in other languages:**
 > - [German: Ars Magica Open License German](https://github.com/garin1000/Ars-Magica-Open-License-German) — A German-language translation project for Ars Magica resources under the Open Game License.
 > - [Japanese: Ars Magica: Definitive Edition](https://github.com/arsmagica-jp/DefinitiveEdition) — A Japanese translation repository for the Ars Magica Definitive Edition, released under the CC BY-SA 4.0 open license.
 > - [Simplified Chinese: Ars Magica Translated Resources in Chinese](https://github.com/AgClWilde/Ars-Magica-Translated-Resources-in-Chinese) — An ongoing Simplified Chinese translation project covering the Definitive Edition core rules, character sheets, supplements, and other resources.
