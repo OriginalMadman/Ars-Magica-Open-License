@@ -185,13 +185,13 @@ Digital Edition Version 1.0
   - [Using the Runes](#using-the-runes)
   - [Rune Descriptions](#rune-descriptions)
   - [Freyr’s Aett](#freyrs-aett)
-  - [Heimdall’s Aett](#heimdalls-aett)
-  - [Tyr’s Aett](#tyrs-aett)
+  - [Heimdall’s Aett](#heimdalls-aett-1)
+  - [Tyr’s Aett](#tyrs-aett-1)
 - [Chapter 7: Other Magic Systems](#chapter-7-other-magic-systems)
   - [Finnish Wind Wizards](#finnish-wind-wizards)
-  - [Starting Abilities](#starting-abilities)
-  - [Virtues and Flaws](#virtues-and-flaws)
-  - [Starting Magic](#starting-magic)
+  - [Starting Abilities](#starting-abilities-1)
+  - [Virtues and Flaws](#virtues-and-flaws-1)
+  - [Starting Magic](#starting-magic-1)
   - [Tying Knots](#tying-knots)
   - [Casting a Spell](#casting-a-spell)
   - [The Price of Failure](#the-price-of-failure)
@@ -2193,6 +2193,8 @@ Jarl Togsvig’s family has ruled the lands around his home fjord for many gener
 
 Togsvig is married to Ragnhild, the daughter of a local hersar and now Togsvig’s vassal. Ragnhild is considerably younger than her husband, having just reached her late-30s. The couple have been married for 20 years and have four children: sons Thorbjorn (19) and Rolf (14), and daughters Astrid (16) and Ingrid (11). Thorbjorn is the designated heir, and has spent the last three years at school in Trondheim, learning how to read and write, as well as other subjects. Astrid, who has reached the age of consent, has yet to marry and this is causing her father some heartache.
 
+Unbeknownst to Togsvig, Astrid has been cavorting with his vitki, Hogni. Were this to become common knowledge, one of two outcomes is likely. The jarl could demand Hogni marry her, but as Astrid would be of more use married to some nobleman to forge an alliance this is unlikely. A more likely outcome is that Hogni will be punished, possibly by branding, and Astrid sent to a monastery. One member of the hird has discovered the affair, and has decided to make a little extra money by blackmailing Hogni.
+
 > ### Mika Hakinnen, Finnish Wind Wizard
 >
 > (Sample Magical Character)
@@ -2308,8 +2310,6 @@ Togsvig is married to Ragnhild, the daughter of a local hersar and now Togsvig�
 > *Eindridi has been trained in the ways of the skald by his father, also a skald, and has spent many years memorizing poems and stories. His tales always attract a good audience and only last year Jarl Togsvig appointed Eindridi to his hall. Since then he’s had the jarl’s protection and has been rewarded well for his talents. He has been trying to get close to Mika the Finn to learn the stories of his people, but has had little success.*
 
 <!-- p. 77 --><a id="page-77"></a>
-
-Unbeknownst to Togsvig, Astrid has been cavorting with his vitki, Hogni. Were this to become common knowledge, one of two outcomes is likely. The jarl could demand Hogni marry her, but as Astrid would be of more use married to some nobleman to forge an alliance this is unlikely. A more likely outcome is that Hogni will be punished, possibly by branding, and Astrid sent to a monastery. One member of the hird has discovered the affair, and has decided to make a little extra money by blackmailing Hogni.
 
 ### The Jarl’s Stead
 

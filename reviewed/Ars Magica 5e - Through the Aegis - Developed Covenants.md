@@ -19,7 +19,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0311
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -427,6 +427,20 @@ The covenant is described through the following Boons and Hooks, details of whic
 
 **Poverty (Minor Resource Hook):** The covenant is young, with few resources. It has the Minor variant of the Poverty Hook and starts with a single *Lesser* Income Source, providing 40 Mythic Pounds per year. The magi may need to resolve that early on as the covenant currently runs a deficit.
 
+<!-- p. 13 --><a id="page-13"></a>
+
+## Magi
+
+Six magi sail the Northern Seas, two of which are experienced and represent the driving forces behind the covenant, while the remaining four are young and starting out in their magical careers. These four younger magi make for good player characters as none have taken familiars, enchanted talismans, or significantly modified their laboratories, leaving players with scope in those areas.
+
+#### Carles Magnus of House Tytlaus
+
+Carles grew up hearing tales of Hermetic daring, of magi pushing against the limits of magic, each other, and the natural order of the world itself. His master was itinerant, however, and his apprenticeship was spent traveling between Tribunals, but it was at sea that he was happiest. Something about it suited his magic and temperament and he eventually earned great wealth through pragmatic piracy and acquiring things for other magi that they could never get for themselves. This has given him something of a reputation, not always for the good.
+
+Carles has ambitions to found his own Tribunal of the Northern Seas, with himself as its Praeco. Through the last forty years, he has developed a daring plan and his flotilla covenant is the first stage. His Tribunal will encompass all the waters between the shores of Hibernia, Stonehenge, Loch Leaglean, the Rhine, Normandy, and Provençal, and all the lands beneath the seas, and the sky above.
+
+Giving the covenant members a degree of freedom is part of his strategy. He intends them to gain their own followers, larger or more numerous ships, to control shipping lanes, etc. In essence, he wants them to outgrow his covenant and leave to found their own.
+
 #### Carles Magnus
 
 Characteristics: Int +1, Per 0, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik 0
@@ -639,20 +653,6 @@ Attunements:
 - Sword: +4 harm human and animal bodies
 - Topaz: +4 leadership
 - Topaz: +4 strength, courage, pride
-
-<!-- p. 13 --><a id="page-13"></a>
-
-## Magi
-
-Six magi sail the Northern Seas, two of which are experienced and represent the driving forces behind the covenant, while the remaining four are young and starting out in their magical careers. These four younger magi make for good player characters as none have taken familiars, enchanted talismans, or significantly modified their laboratories, leaving players with scope in those areas.
-
-#### Carles Magnus of House Tytlaus
-
-Carles grew up hearing tales of Hermetic daring, of magi pushing against the limits of magic, each other, and the natural order of the world itself. His master was itinerant, however, and his apprenticeship was spent traveling between Tribunals, but it was at sea that he was happiest. Something about it suited his magic and temperament and he eventually earned great wealth through pragmatic piracy and acquiring things for other magi that they could never get for themselves. This has given him something of a reputation, not always for the good.
-
-Carles has ambitions to found his own Tribunal of the Northern Seas, with himself as its Praeco. Through the last forty years, he has developed a daring plan and his flotilla covenant is the first stage. His Tribunal will encompass all the waters between the shores of Hibernia, Stonehenge, Loch Leaglean, the Rhine, Normandy, and Provençal, and all the lands beneath the seas, and the sky above.
-
-Giving the covenant members a degree of freedom is part of his strategy. He intends them to gain their own followers, larger or more numerous ships, to control shipping lanes, etc. In essence, he wants them to outgrow his covenant and leave to found their own.
 
 > ### Covenant Summary
 >
@@ -1597,11 +1597,88 @@ Given their importance, each ship’s captain is bought as a Specialist from the
 
 Each sea captain costs 5 Build Points.
 
+#### Ship’s Captain
+
+Characteristics: Int +1, Per 0, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik 0
+
+Size: 0
+
+Age: 35 (35)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence: 1 (3)
+
+Virtues and Flaws: Merchant Adventurer\*; Ways of the Sea; Arcane Lore, Inspirational, Vernacular Education\*; (one of Favors, Feud, Fury, or Plagued by Supernatural Entity), Overconfident
+
+\* Virtue from City & Guild
+
+Personality Traits: *As per the individual*
+
+Combat:
+- Dodge: Init –1, Attack N/A, Defense +3, Damage N/A
+- Fist: Init –1, Attack +3, Defense +3, Damage +0
+- Kick: Init –2, Attack +3, Defense +2, Damage +3
+- Bludgeon: Init –2, Attack +6, Defense +4, Damage +2
+- Dagger: Init –1, Attack +5, Defense +3, Damage +3
+
+Soak: +1
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Normandy Coast 3 (coves), Artes Liberales 2 (astronomy), Athletics 2 (aboard ship), Awareness 3 (weather), Bargain 4 (grains), Brawl 3 (Bludgeon), Carouse 3 (drinking songs), Organization Lore: Covenant of the Northern Seas 1 (personalities), Dominion Lore 1 (saints), English 3 (naval terms), Faerie Lore 2 (sea faeries), Low German 4 (Flemish), Folk Ken 3 (port authorities), Guile 4 (lying about cargo), Latin 3 (hermetic usage), Leadership 3 (crewmen), Magic Lore 3 (sea monsters), French 5 (Norman), Order of Hermes Lore 2 (covenants), Profession: Sea Captain 5 (Normandy coast), Stealth 2 (hide), Swim 2 (oceans)
+
+Equipment: Quilted Armor, dagger
+
+Encumbrance: 2 (2)
+
+Appearance: *As per the individual*
+
 #### Sailor
 
 The Sailors Free Choice Covenant Boon describes the main body of the covenfolk. As per the description of the Boon, each sailor costs the covenant a penny each day. At around a dozen sailors per ship, across six ships, that’s a total of 6 shillings each day and around 110 Mythic Pounds per year.
 
 These sailors do not have a Build Point cost as they have little bearing on play beyond carrying out duties on board the ships.
+
+#### Sailor of the Northern Seas
+
+Characteristics: Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +1
+
+Age: 25 (25)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Virtues and Flaws: Covenfolk; Tough; Compulsion (Dockside Vices)
+
+Personality Traits: Vulgar +2, Brave +1, Loyal to their Captain +1
+
+Combat:
+- Dodge: Init +1, Attack N/A, Defense +5, Damage N/A
+- Fist: Init +1, Attack +7, Defense +6, Damage +1
+- Kick: Init +0, Attack +6, Defense +4, Damage +4
+- Bludgeon: Init +0, Attack +8, Defense +5, Damage +3
+- Dagger: Init +1, Attack +8, Defense +5, Damage +4
+- Knife: Init +1, Attack +7, Defense +5, Damage +3
+
+Soak: +5
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Coast 3 (coves), Athletics 2 (aboard ship), Awareness 3 (at sea), Brawl 4 (Fist), Carouse 3 (getting drunk), English 3 (tavern talk), Low German 4 (Flemish), Folk Ken 2 (prostitutes), Guile 2 (shifting blame), French 5 (Norman), Profession: Sailor 4 (rough weather), Swim 3 (calm waters)
+
+Equipment: Quilted Armor, knife, dagger
+
+Encumbrance: 1 (2)
+
+Appearance: Sunburned arms and faces, calloused hands, and weathered clothing.
 
 #### Specialists
 
@@ -1709,83 +1786,6 @@ However, the current source of income is from trade; transporting goods from one
 > Sailing with the covenant for a season, Maris of Tytalus tells tales of an immense whale that brings a magical aura to the surface each time it breaches. A ship tacking alongside can benefit from that aura for a while. Is this just a tall tale of the sea or has Maris discovered a powerful resource? Pressing Maris for more information, Carles asks for volunteers to hunt down the whale and discover the source of its power.
 
 The covenant has a little time to decide, but the magi of the Norther Seas need to determine how they are going to keep the Northern Seas crews paid, ensure the ships are maintained, and buy the all-important devices and equipment used in Hermetic laboratories. Their trade income is there to be developed and piracy is still being debated. The covenant does have its own reserves of silver, a sizable sum in fact, which should support the covenant for a while, but before long the young covenant will need to earn its keep.
-
-#### Sailor of the Northern Seas
-
-Characteristics: Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +1
-
-Age: 25 (25)
-
-Decrepitude: 0
-
-Warping Score: 0 (0)
-
-Virtues and Flaws: Covenfolk; Tough; Compulsion (Dockside Vices)
-
-Personality Traits: Vulgar +2, Brave +1, Loyal to their Captain +1
-
-Combat:
-- Dodge: Init +1, Attack N/A, Defense +5, Damage N/A
-- Fist: Init +1, Attack +7, Defense +6, Damage +1
-- Kick: Init +0, Attack +6, Defense +4, Damage +4
-- Bludgeon: Init +0, Attack +8, Defense +5, Damage +3
-- Dagger: Init +1, Attack +8, Defense +5, Damage +4
-- Knife: Init +1, Attack +7, Defense +5, Damage +3
-
-Soak: +5
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Coast 3 (coves), Athletics 2 (aboard ship), Awareness 3 (at sea), Brawl 4 (Fist), Carouse 3 (getting drunk), English 3 (tavern talk), Low German 4 (Flemish), Folk Ken 2 (prostitutes), Guile 2 (shifting blame), French 5 (Norman), Profession: Sailor 4 (rough weather), Swim 3 (calm waters)
-
-Equipment: Quilted Armor, knife, dagger
-
-Encumbrance: 1 (2)
-
-Appearance: Sunburned arms and faces, calloused hands, and weathered clothing.
-
-#### Ship’s Captain
-
-Characteristics: Int +1, Per 0, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik 0
-
-Size: 0
-
-Age: 35 (35)
-
-Decrepitude: 0
-
-Warping Score: 0 (0)
-
-Confidence: 1 (3)
-
-Virtues and Flaws: Merchant Adventurer\*; Ways of the Sea; Arcane Lore, Inspirational, Vernacular Education\*; (one of Favors, Feud, Fury, or Plagued by Supernatural Entity), Overconfident
-
-\* Virtue from City & Guild
-
-Personality Traits: *As per the individual*
-
-Combat:
-- Dodge: Init –1, Attack N/A, Defense +3, Damage N/A
-- Fist: Init –1, Attack +3, Defense +3, Damage +0
-- Kick: Init –2, Attack +3, Defense +2, Damage +3
-- Bludgeon: Init –2, Attack +6, Defense +4, Damage +2
-- Dagger: Init –1, Attack +5, Defense +3, Damage +3
-
-Soak: +1
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Normandy Coast 3 (coves), Artes Liberales 2 (astronomy), Athletics 2 (aboard ship), Awareness 3 (weather), Bargain 4 (grains), Brawl 3 (Bludgeon), Carouse 3 (drinking songs), Organization Lore: Covenant of the Northern Seas 1 (personalities), Dominion Lore 1 (saints), English 3 (naval terms), Faerie Lore 2 (sea faeries), Low German 4 (Flemish), Folk Ken 3 (port authorities), Guile 4 (lying about cargo), Latin 3 (hermetic usage), Leadership 3 (crewmen), Magic Lore 3 (sea monsters), French 5 (Norman), Order of Hermes Lore 2 (covenants), Profession: Sea Captain 5 (Normandy coast), Stealth 2 (hide), Swim 2 (oceans)
-
-Equipment: Quilted Armor, dagger
-
-Encumbrance: 2 (2)
-
-Appearance: *As per the individual*
 
 #### Study and Laboratory Work
 
@@ -2052,24 +2052,6 @@ This demon of wrath has possessed one of the crew, placing a portion of its Migh
 
 This possessing spirit could be in any of the crew. It can hide safe and secure within its host, shielded even from the scourging effects of relics. For this reason it is not specified on which ship the demon sails or even whether the demon has joined the covenant at this point.
 
-#### Captain Folpert Berlensis
-
-Captain Folpert Berlensis ([*Tales of Mythic Europe*, page 43](<Ars Magica 5e - Tales of Mythic Europe.md#captain-folpert-berlensis>)), master and owner of the mundane vessel *La Main Blanche*, is engaged in Hermetic trade in some small way. He is known to the magi along the Normandy and Rhine coast and can often be encountered transporting esoteric cargoes. Lacking the insight that a magus can bring to such services, he nonetheless takes trade that the Northern Seas might on occasion prefer for itself.
-
-With Folpert so well-known to the Order, acts of piracy against him and his vessel would hardly be wise, but they do sail the same waters and encounters are inevitable.
-
-#### Waddenzee
-
-The covenant of Waddenzee in the Rhine Tribunal are rivals to the Northern Seas by virtue of operating their piracy in waters sailed by Carles and his followers. Although the covenant itself is housed on land, the magi of Waddenzee are notorious pirates and may not think twice about trying to take from the Northern Seas.
-
-If things were different, Waddenzee, with its reliance on ships, would make an ideal partner to Carles in founding a new Tribunal, but he cannot in all conscience include them in his plans for fear of the aggression and plunder that might follow.
-
-#### Oculus Septentrionalis
-
-The Rhine covenant of Oculus Septentrionalis was founded with the intention of extending the Rhine Tribunal’s reach northwards. While this has stalled, the covenant, along with others of similar mind, are examining the possibility of seceding from the Rhine and forming their own Tribunal. At first glance, this looks like a good fit for the Northern Seas. However, these covenants, and Oculus in particular, would bring too much history and politics to the venture to secure a decent start.
-
-However, Estrid Danesson of House Ex Miscellanea is a young magus and has a lifestyle very similar to those of the Northern Seas. It may be possible to persuade Estrid to leave Oculus and join the Northern Seas, which would bring new knowledge to the covenant, if only Estrid’s wife could be persuaded to leave her current life to start a new one.
-
 #### Feliadexter
 
 Order: Tempters
@@ -2123,6 +2105,24 @@ Appearance: Feliadexter’s true form is that of a spindly bony man with rips te
 The possessing spirit of Feliadexter has a Possession Pool of 15, which should be used in place of the Might Score listed above. Points from this Possession Pool are not regained.
 
 His Possession power has no other Might cost other than the points Feliadexter chooses to place within the host. This means that the demon can jump between hosts with no loss of power and, as the part has the powers of the whole, even split off further possessing spirits and place them within additional crewmembers.
+
+#### Captain Folpert Berlensis
+
+Captain Folpert Berlensis ([*Tales of Mythic Europe*, page 43](<Ars Magica 5e - Tales of Mythic Europe.md#captain-folpert-berlensis>)), master and owner of the mundane vessel *La Main Blanche*, is engaged in Hermetic trade in some small way. He is known to the magi along the Normandy and Rhine coast and can often be encountered transporting esoteric cargoes. Lacking the insight that a magus can bring to such services, he nonetheless takes trade that the Northern Seas might on occasion prefer for itself.
+
+With Folpert so well-known to the Order, acts of piracy against him and his vessel would hardly be wise, but they do sail the same waters and encounters are inevitable.
+
+#### Waddenzee
+
+The covenant of Waddenzee in the Rhine Tribunal are rivals to the Northern Seas by virtue of operating their piracy in waters sailed by Carles and his followers. Although the covenant itself is housed on land, the magi of Waddenzee are notorious pirates and may not think twice about trying to take from the Northern Seas.
+
+If things were different, Waddenzee, with its reliance on ships, would make an ideal partner to Carles in founding a new Tribunal, but he cannot in all conscience include them in his plans for fear of the aggression and plunder that might follow.
+
+#### Oculus Septentrionalis
+
+The Rhine covenant of Oculus Septentrionalis was founded with the intention of extending the Rhine Tribunal’s reach northwards. While this has stalled, the covenant, along with others of similar mind, are examining the possibility of seceding from the Rhine and forming their own Tribunal. At first glance, this looks like a good fit for the Northern Seas. However, these covenants, and Oculus in particular, would bring too much history and politics to the venture to secure a decent start.
+
+However, Estrid Danesson of House Ex Miscellanea is a young magus and has a lifestyle very similar to those of the Northern Seas. It may be possible to persuade Estrid to leave Oculus and join the Northern Seas, which would bring new knowledge to the covenant, if only Estrid’s wife could be persuaded to leave her current life to start a new one.
 
 <!-- p. 29 --><a id="page-29"></a>
 
@@ -2778,11 +2778,6 @@ Joia has completely changed the nature of the covenant in attempting to create t
 
 <!-- p. 39 --><a id="page-39"></a>
 
-- City
-- Covenant
-- Major River
-- Road
-
 > ### The Legend of Jardin
 >
 > Most in the Tribunal know of Jardin by reputation, as a place of strange customs, odd magi, and traditional ways, and some say one of the customs is an evil one. Even the Redcaps prefer not to tarry too long, for it is rumored that to come here and stay three nights ensures one will glimpse one’s heart’s true desire. It is said that hidden with the gardens are entrances to the fabled Garden of Love, which Andreas Capellanus has hinted at in his writings. The mysteries of that regio are so profound and dangerous that many a brave maga has set out to explore her heart, never to return. Some are intrigued and seek out the place, but many magi have little interest in such things. The legends are wrong, but the truth is even stranger.
@@ -2837,6 +2832,16 @@ It is Serena who perhaps poses the greatest danger to the covenant, for while sh
 **Faerie Regio (Minor Hook):** Because the regio of the Garden of Love is a Faerie regio, it counts as a Minor Hook in addition to the Major Hook for the regio itself.
 
 **Road (Minor Hook):** The covenant stands on the main road from Cahors to Toulouse, which is busy all day. Being on a rise only a mile from the road, with large stone walls and the impressive library building and tower, it attracts all manner of visitors. Weary travelers seek safety and a bed for the night, knights seek adventure in the Garden of Love, magi call by seeking refuge from the dust of the road, and priests arrive to question the beliefs of the inhabitants in the attempt to root out heresy. As such the covenant must deal with unexpected guests on a regular basis, and special arrangements are in place to prevent the magi being unduly disturbed.
+
+## Magi
+
+There are currently six magi on the Council of Jardin, listed here in order of precedence as established by the Charter (see later).
+
+### Joia du Lua of House Jerbiton
+
+Joia du Lua poses as chatelaine, and is a renowned patron of troubadours and advocate of Occitanian culture. It was she who, inspired by the songs of the troubadours, found a way to recreate the mythical Garden of Love, and in her attempt to protect the South she has allowed many to quest for their Heart’s Desire within the regio (see later). On occasion this has led to disaster, as the quester has returned changed terribly by their experiences within, or not returned at all. The magi have taken action to cover up these incidents, or selectively change the memories of the victims of the garden. Joia’s passionate support of Occitan culture extends to political support for Count Raimond, and a so far passive opposition to the claims of the French monarchy, the de Montfort family, and the crusaders. She thinks nothing of sheltering faidits, those dispossessed by the fighting, as long as they share her patriotism for the County of Toulouse. Her hostility to the French extended to poor treatment directed at Beatriz, her French-born apprentice, and sooner or later she will bring the attention of hostile armies upon the covenant, just as befell Bellaquin in 1202 or Lariander in 1209.
+
+Joia inspires many lovers in fin amor, but has never consummated any of her romances. To do so would be a breach of the noble ideals of romantic love. Nonetheless her beauty, based more upon her enchanting personality than physical looks, is such that vain women detest her, and for this reason she has the Envied Beauty Flaw (see Houses of Hermes: Societates, [page 56](#page-56)). Joia’s magic manifests her sigil of the delicate perfume of summer flowers.
 
 #### Joia du Lua of House Jerbiton
 
@@ -2974,30 +2979,6 @@ As per the spell of the same name in **ArM5**, 137
 
 (Base 4, +1 Touch, +2 Sun)
 
-## Magi
-
-There are currently six magi on the Council of Jardin, listed here in order of precedence as established by the Charter (see later).
-
-### Joia du Lua of House Jerbiton
-
-Joia du Lua poses as chatelaine, and is a renowned patron of troubadours and advocate of Occitanian culture. It was she who, inspired by the songs of the troubadours, found a way to recreate the mythical Garden of Love, and in her attempt to protect the South she has allowed many to quest for their Heart’s Desire within the regio (see later). On occasion this has led to disaster, as the quester has returned changed terribly by their experiences within, or not returned at all. The magi have taken action to cover up these incidents, or selectively change the memories of the victims of the garden. Joia’s passionate support of Occitan culture extends to political support for Count Raimond, and a so far passive opposition to the claims of the French monarchy, the de Montfort family, and the crusaders. She thinks nothing of sheltering faidits, those dispossessed by the fighting, as long as they share her patriotism for the County of Toulouse. Her hostility to the French extended to poor treatment directed at Beatriz, her French-born apprentice, and sooner or later she will bring the attention of hostile armies upon the covenant, just as befell Bellaquin in 1202 or Lariander in 1209.
-
-Joia inspires many lovers in fin amor, but has never consummated any of her romances. To do so would be a breach of the noble ideals of romantic love. Nonetheless her beauty, based more upon her enchanting personality than physical looks, is such that vain women detest her, and for this reason she has the Envied Beauty Flaw (see Houses of Hermes: Societates, [page 56](#page-56)). Joia’s magic manifests her sigil of the delicate perfume of summer flowers.
-
-### Lexora of House Bjornaer
-
-Lexora is the second maga of Jardin, a position that never ceases to infuriate her. She was apprenticed to Androcles before he came to the covenant, and even though she is slightly older than Joia and was Gauntleted at the same time, Joia takes precedence through her family connections. Lexora is immensely proud, and refuses to accept she is second in anything; she schemes to seize the position of first maga, and disagrees on principle with anything Joia proposes. She spends increasing amounts of time roaming the region in her lioness Heartbeast form, engaging in physical combat as a way of dealing with the frustration of life at home. She has Initiated the Bjornaer Mystery of Sensory Magic (*Houses of Hermes: Mystery Cults*, [page 27](#page-27)) and soon plans to take another Initiation, perhaps traveling to Crintera to learn the mysteries of Clan Maruhs, to which she belongs (*Houses of Hermes: Mystery Cults*, [page 12](#page-12)).
-
-She hates with a passion Joia’s corruption of the Bjornaer magical site, and despises the Garden of Love and the faeries within it. The site was an ancestor site of Clan Maruhs, wherein occasionally Panthera the Terrible, a Great Beast of the clan, was to be found, redtoothed and gnawing upon the remains of one of the lycanthropes who plagued the region in past centuries. Joia has effectively destroyed the site, by taming it to a story and making the wild hilltop woods a garden, an artifact of humanity, and for this sacrilege alone Lexora could have grown to hate her, even if she did not take the position of pack leader that Lexora feels is rightfully hers. Despite these issues, the two grew up together and their bickering is currently that of siblings, who would unite in the face of an external threat.
-
-She dislikes the covenant autocrat, Serena, and is the only maga present who realizes the threat Joia’s niece represents to the future of the Covenant. While caring nothing for matters of religion beyond her own vague Graeco-Roman paganism culled from her reading in the classics and her interest in the mysteries of House Bjornaer, she suspects that Serena sympathizes with the Crusade. Lexora is too proud to bow to God or man, and her pride is a tragic flaw that will probably prove her undoing.
-
-Xenophanes is not fond of Lexora. Only the friendship between his familiar Hypatia and Lexora keeps the two on speaking terms. Ahenobarbus agrees with Lexora that the covenant is weak and needs to build up its defenses in the face of the mundane threats of the Crusade and wars, but has a strong personal dislike for her as his key ally is Serena. Further, while he accepts she would be a better leader than Joia, he favors a defensive, rather than aggressive, approach to the enemies without, and finds Lexora arrogant and hard to cope with.
-
-<!-- p. 42 --><a id="page-42"></a>
-
-Lexora’s casting sigil is warm sunlight. When viewed by Intellego Vim magics, the effects of her spells have a dazzling golden aura, and objects or people affected by her may feel the warmth of the sun, or appear brighter than usual.
-
 #### Story Seeds for Joia
 
 Despite Lexora’s ambitions for leadership, in many senses Joia is Jardin: she created the covenant in its present form, completely changing the legacy of Humbert and Androcles. Almost every Jardin story involves Joia’s presence or schemes.
@@ -3015,6 +2996,20 @@ Joia often hosts ‘entertainments’ in the Summer Garden for young noblemen an
 It was long assumed by many that Joia would marry the man who courted her most assiduously, and who she called “her perfect knight”: the younger Raimond of Toulouse, heir to the title of Count of Toulouse. Joia is friends with Count Raimond, and was very fond of his son, and vice versa, but in 1211, for political reasons, Raimond was married to Sancha of Aragon, the daughter of Alfonso II of Aragon, hence ensuring the firm support of Aragon for the Southern cause that had been threatened by the death of King Pedro II at the Battle of Muret. Joia, however, took the disappointment well, and it is said that Raimond still courts her in a chaste manner.
 
 One day while out riding with a hawking party, however, Joia comes across a handsome young knight who joins the party, and for perhaps the first time becomes completely enraptured, to the point where all her game playing and chaste devotion to fin amor are threatened by her feelings for this man, with whom she spends several days traveling before asking him back to Jardin as an honored guest with the rest of the group. Once he arrives Alyssa immediate recognizes the youth as Amalric VI de Montfort, claimant of the title of Count of Toulouse after his father’s death, and younger brother of Simon de Montfort, the current heir to the de Montfort estates. His mother Alix and father (also Simon) were the greatest enemies the South has faced, and led the Albigensian crusade; Amalric’s father was killed besieging Toulouse, which the family still claim as a possession despite the triumphant return of Raimond VI. Joia believes her Heart’s Desire is the defense of the south, and she is entertaining a young English knight who is a mortal enemy to her cause and all her friends. Strangely, she seems unwilling to take any action against him, though deeply conflicted and now confused. Can the magi save Joia, or even Toulouse, from this random shot of Cupid’s arrow?
+
+### Lexora of House Bjornaer
+
+Lexora is the second maga of Jardin, a position that never ceases to infuriate her. She was apprenticed to Androcles before he came to the covenant, and even though she is slightly older than Joia and was Gauntleted at the same time, Joia takes precedence through her family connections. Lexora is immensely proud, and refuses to accept she is second in anything; she schemes to seize the position of first maga, and disagrees on principle with anything Joia proposes. She spends increasing amounts of time roaming the region in her lioness Heartbeast form, engaging in physical combat as a way of dealing with the frustration of life at home. She has Initiated the Bjornaer Mystery of Sensory Magic (*Houses of Hermes: Mystery Cults*, [page 27](#page-27)) and soon plans to take another Initiation, perhaps traveling to Crintera to learn the mysteries of Clan Maruhs, to which she belongs (*Houses of Hermes: Mystery Cults*, [page 12](#page-12)).
+
+She hates with a passion Joia’s corruption of the Bjornaer magical site, and despises the Garden of Love and the faeries within it. The site was an ancestor site of Clan Maruhs, wherein occasionally Panthera the Terrible, a Great Beast of the clan, was to be found, redtoothed and gnawing upon the remains of one of the lycanthropes who plagued the region in past centuries. Joia has effectively destroyed the site, by taming it to a story and making the wild hilltop woods a garden, an artifact of humanity, and for this sacrilege alone Lexora could have grown to hate her, even if she did not take the position of pack leader that Lexora feels is rightfully hers. Despite these issues, the two grew up together and their bickering is currently that of siblings, who would unite in the face of an external threat.
+
+She dislikes the covenant autocrat, Serena, and is the only maga present who realizes the threat Joia’s niece represents to the future of the Covenant. While caring nothing for matters of religion beyond her own vague Graeco-Roman paganism culled from her reading in the classics and her interest in the mysteries of House Bjornaer, she suspects that Serena sympathizes with the Crusade. Lexora is too proud to bow to God or man, and her pride is a tragic flaw that will probably prove her undoing.
+
+Xenophanes is not fond of Lexora. Only the friendship between his familiar Hypatia and Lexora keeps the two on speaking terms. Ahenobarbus agrees with Lexora that the covenant is weak and needs to build up its defenses in the face of the mundane threats of the Crusade and wars, but has a strong personal dislike for her as his key ally is Serena. Further, while he accepts she would be a better leader than Joia, he favors a defensive, rather than aggressive, approach to the enemies without, and finds Lexora arrogant and hard to cope with.
+
+<!-- p. 42 --><a id="page-42"></a>
+
+Lexora’s casting sigil is warm sunlight. When viewed by Intellego Vim magics, the effects of her spells have a dazzling golden aura, and objects or people affected by her may feel the warmth of the sun, or appear brighter than usual.
 
 <!-- p. 43 --><a id="page-43"></a>
 
@@ -3584,16 +3579,6 @@ Ahenobarbus must answer to Protendus of Aedes Mercurii as his regional commander
 
 Ahenobarbus’ sigil manifests as zig zag lines, and even his Circle spells have sharp and jagged edges when viewed by Intellego Vim magics.
 
-### Alyssa, Maga Trianomae
-
-Alyssa was born into a noble family from the Narbonne region, with whom she still has some contact despite being taken as an apprentice at the age of nine. Alyssa is a cheery soul, quite happy traveling around France and Iberia, trying to sort out local problems and contact Islamic wizards. Her Gentle Gift means she is welcomed when traveling among nobles, and allows her to try to contact non-Hermetic wizards without immediately being hated. Her frequent meddling has caused resentment at a couple of covenants, which has led to a reputation spreading in the Order.
-
-She came to Jardin in 1214, following the civil war that had broken out at the covenant of Tolosa Paratge where she had been previously resident. As the most recent arrival, she has little influence on council. Given that her interests lie almost entirely outside the covenant (in particular, seeking a reconciliation between the Hermetic Cathars and their enemies at Toulouse), she has paid little heed to the growing tensions within her new home, and usually votes on council to support Xenophanes on any given issue. She is fully aware he is not at all bright, but she has a soft spot for exotic magi and those from unusual backgrounds, and, like Xenophanes, has much sympathy for the Cathar faith. She has little time for Ahenobarbus because of his relationship with Serena, whom she actively dislikes for her cruelty to the covenfolk, but a great deal of respect for Lexora. Indeed, she might well back the Bjornaer in a leadership bid against Joia. Ultimately Alyssa’s aim is to ensure peace and stability for the covenant, and avoid any conflicts. She has seen only too clearly where that can lead.
-
-Alyssa’s sigil manifests as the smell of goat’s cheese.
-
-<!-- p. 49 --><a id="page-49"></a>
-
 #### Ahenobarbus of Tremere
 
 Characteristics: Int +3, Per 0, Pre 0, Com +1, Str 0, Sta +2 (1), Dex +1, Qik –1
@@ -3810,64 +3795,13 @@ Beatriz suspects the shapeshifters with whom she is obsessed, but the truth is s
 
 If the curse is lifted Galhart and Nec still have strong feelings for each other, but are stuck as different species. Can the magi help with this problem?.
 
-## Notable Covenfolk
+### Alyssa, Maga Trianomae
 
-Some of the most important of the mundane inhabitants of Jardin are described here, but the troupe should supplement them to develop their own themes.
+Alyssa was born into a noble family from the Narbonne region, with whom she still has some contact despite being taken as an apprentice at the age of nine. Alyssa is a cheery soul, quite happy traveling around France and Iberia, trying to sort out local problems and contact Islamic wizards. Her Gentle Gift means she is welcomed when traveling among nobles, and allows her to try to contact non-Hermetic wizards without immediately being hated. Her frequent meddling has caused resentment at a couple of covenants, which has led to a reputation spreading in the Order.
 
-### Companions
+She came to Jardin in 1214, following the civil war that had broken out at the covenant of Tolosa Paratge where she had been previously resident. As the most recent arrival, she has little influence on council. Given that her interests lie almost entirely outside the covenant (in particular, seeking a reconciliation between the Hermetic Cathars and their enemies at Toulouse), she has paid little heed to the growing tensions within her new home, and usually votes on council to support Xenophanes on any given issue. She is fully aware he is not at all bright, but she has a soft spot for exotic magi and those from unusual backgrounds, and, like Xenophanes, has much sympathy for the Cathar faith. She has little time for Ahenobarbus because of his relationship with Serena, whom she actively dislikes for her cruelty to the covenfolk, but a great deal of respect for Lexora. Indeed, she might well back the Bjornaer in a leadership bid against Joia. Ultimately Alyssa’s aim is to ensure peace and stability for the covenant, and avoid any conflicts. She has seen only too clearly where that can lead.
 
-Only one of the companions associated with Jardin is detailed here. The others include a Jewish banker from Cahors, a romantic troubadour enraptured with Joia, and a dispossessed knight (a faidit) who has taken to little more than banditry in opposition to the Crusade, who often escapes his pursuers by hiding within the covenant walls.
-
-#### Serena Montdumerc, the Other Lady of Jardin
-
-The niece of Joia, Serena is the last of the Montdumerc line and heir to the title of lady of Jardin once her aunt Joia dies. She serves as the covenant autocrat, and takes out her frustration at being little more than a glorified servant to the magi upon the covenfolk. She is vain, and bitterly resents Joia’s beauty.
-
-<!-- p. 52 --><a id="page-52"></a>
-
-<!-- p. 53 --><a id="page-53"></a>
-
-Her threats of horrible punishments and abuse of the covenfolk have tuned many against her, but few dare stand up to her. Recently she has moved into the tower, where she possesses rooms on the ground floor, and has a troubled relationship with Ahenobarbus. She likes to think she plans to use him as a pawn in her revenge, and she feels she could never truly love a magus, but the affection between the two is genuine.
-
-Serena costs 6 build points.
-
-#### Serena, Autocrat of Jardin
-
-Characteristics: Int 0, Per 0, Pre +3, Com +1, Str 0, Sta 0, Dex 0, Qik 0
-
-Size: –1
-
-Age: 31 (31)
-
-Decrepitude: 0
-
-Warping Score: 0 (0)
-
-Virtues and Flaws: Wealthy; Gentlewoman, Inspirational, Puissant Ability (Profession: Autocrat), Social Contacts (French knights), Strong-Willed, Temporal Influence; Ambitious, Difficult Underlings; Covenant Upbringing, Envious, Small Frame
-
-Personality Traits: Ambitious +6, Envious +3, Proud +2.
-
-Heart’s Desire: To reclaim her rightful home and title as lady of Belfort du Quercy from the magi.
-
-Reputations: None
-
-Combat:
-- Dodge: Init +0, Attack n/a, Defense +0, Damage n/a
-- Fist: Init +0, Attack +0, Defense +0, Damage +0
-- Kick: Init –1, Attack +0, Defense –1, Damage +3
-
-Soak: +0
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+)
-
-Abilities: Area Lore: County of Toulouse 2 (5) (nobility), Awareness 2 (attractive knights), Bargain 2 (wine), Charm 4 (suitors), Civil and Canon Law 2 (manorial rights), Concentration 2 (brooding), Etiquette 5 (nobility), Folk Ken 1 (covenfolk’s failings), French 3 (noble), Guile 3 (lying to magi), Hunt 2 (falconry), Intrigue 6 (causing distrust), Latin 4 (Hermetic usage), Leadership 3 (covenfolk), Music 2 (singing), Organization Lore: Church 1 (heresy), Organization Lore: Jardin 2 (politics), Organization Lore: Order of Hermes 1 (Provençal Quaesitors), Profession: Autocrat 4+2 (threats of punishment), Ride 2 (fast escapes), Occitan 5 (romantic poetry).
-
-Equipment: Noble clothing in the latest styles.
-
-Encumbrance: 0 (0)
-
-Appearance: With pale skin and auburn hair, Serena is a great beauty who physically resembles Joia, but is still outshone by the older woman.
+Alyssa’s sigil manifests as the smell of goat’s cheese.
 
 #### Alyssa, Maga Trianomae
 
@@ -4023,6 +3957,67 @@ It is notable that every time Alyssa has had a chance to kill or utterly defeat 
 ##### Story Seed: A Hint of Lavender
 
 Fauconrouge converses with other hawks from time to time, and has recently learned that the Isles d’ Yf have become home to a group of Muslim wizards, seemingly practicing Hermetic magic. The region was for centuries blighted by the rogue Moorish covenant known as Fraxinetum, who were defeated by the alliance that became the Coenobium (see Faith and Flame: The Provençal Tribunal). Whoever these secretive Moorish magi may be, Alyssa is determined to seek them out in her role as a maga Trianomae, and help them gain official recognition as a Provençal covenant. It has not occurred to her yet that neither they, House Flambeau, nor the powerful federation of covenants called the Coenobium may fully appreciate her plans, and that she is rushing headlong in to a potentially dangerous situation.
+
+<!-- p. 49 --><a id="page-49"></a>
+
+## Notable Covenfolk
+
+Some of the most important of the mundane inhabitants of Jardin are described here, but the troupe should supplement them to develop their own themes.
+
+### Companions
+
+Only one of the companions associated with Jardin is detailed here. The others include a Jewish banker from Cahors, a romantic troubadour enraptured with Joia, and a dispossessed knight (a faidit) who has taken to little more than banditry in opposition to the Crusade, who often escapes his pursuers by hiding within the covenant walls.
+
+#### Serena Montdumerc, the Other Lady of Jardin
+
+The niece of Joia, Serena is the last of the Montdumerc line and heir to the title of lady of Jardin once her aunt Joia dies. She serves as the covenant autocrat, and takes out her frustration at being little more than a glorified servant to the magi upon the covenfolk. She is vain, and bitterly resents Joia’s beauty.
+
+<!-- p. 52 --><a id="page-52"></a>
+
+<!-- p. 53 --><a id="page-53"></a>
+
+Her threats of horrible punishments and abuse of the covenfolk have tuned many against her, but few dare stand up to her. Recently she has moved into the tower, where she possesses rooms on the ground floor, and has a troubled relationship with Ahenobarbus. She likes to think she plans to use him as a pawn in her revenge, and she feels she could never truly love a magus, but the affection between the two is genuine.
+
+Serena costs 6 build points.
+
+#### Serena, Autocrat of Jardin
+
+Characteristics: Int 0, Per 0, Pre +3, Com +1, Str 0, Sta 0, Dex 0, Qik 0
+
+Size: –1
+
+Age: 31 (31)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Virtues and Flaws: Wealthy; Gentlewoman, Inspirational, Puissant Ability (Profession: Autocrat), Social Contacts (French knights), Strong-Willed, Temporal Influence; Ambitious, Difficult Underlings; Covenant Upbringing, Envious, Small Frame
+
+Personality Traits: Ambitious +6, Envious +3, Proud +2.
+
+Heart’s Desire: To reclaim her rightful home and title as lady of Belfort du Quercy from the magi.
+
+Reputations: None
+
+Combat:
+- Dodge: Init +0, Attack n/a, Defense +0, Damage n/a
+- Fist: Init +0, Attack +0, Defense +0, Damage +0
+- Kick: Init –1, Attack +0, Defense –1, Damage +3
+
+Soak: +0
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+)
+
+Abilities: Area Lore: County of Toulouse 2 (5) (nobility), Awareness 2 (attractive knights), Bargain 2 (wine), Charm 4 (suitors), Civil and Canon Law 2 (manorial rights), Concentration 2 (brooding), Etiquette 5 (nobility), Folk Ken 1 (covenfolk’s failings), French 3 (noble), Guile 3 (lying to magi), Hunt 2 (falconry), Intrigue 6 (causing distrust), Latin 4 (Hermetic usage), Leadership 3 (covenfolk), Music 2 (singing), Organization Lore: Church 1 (heresy), Organization Lore: Jardin 2 (politics), Organization Lore: Order of Hermes 1 (Provençal Quaesitors), Profession: Autocrat 4+2 (threats of punishment), Ride 2 (fast escapes), Occitan 5 (romantic poetry).
+
+Equipment: Noble clothing in the latest styles.
+
+Encumbrance: 0 (0)
+
+Appearance: With pale skin and auburn hair, Serena is a great beauty who physically resembles Joia, but is still outshone by the older woman.
 
 ## Grogs
 
@@ -4962,6 +4957,8 @@ In 1220 there is one magus (location unknown) in the line of Tessa and two known
 
 <!-- p. 71 --><a id="page-71"></a>
 
+There is an unknown number of magi in the line of Bastards, who are the Gifted children of unGifted Branchidae who have lost contact with the ancestral family at Didyma. Such magi could be in any Hermetic House, unaware of their Branchidae birth-right.
+
 > ### Branchidae Tradition Virtues
 >
 > Gifted members of the Branchidae have the following Virtues and Flaws, in addition to usual allocation of Virtues and Flaws. Developing these Virtues and Flaws is a part of Opening the Arts for Branchidae.
@@ -4976,8 +4973,6 @@ In 1220 there is one magus (location unknown) in the line of Tessa and two known
 >
 > This Hermetic Virtue allows the character to interpret an oracle’s visions. A Branchidae apprentice acquires this Virtue when his Arts are opened, and the Branchidae know of no other way to transmit the Virtue. However, Apollo Didyma may be able to grant the Virtue to other characters. For details, see later.
 
-There is an unknown number of magi in the line of Bastards, who are the Gifted children of unGifted Branchidae who have lost contact with the ancestral family at Didyma. Such magi could be in any Hermetic House, unaware of their Branchidae birth-right.
-
 ### Recent History
 
 Since 1132 the covenant has been under the leadership of Alexander. He inherited the title of Patriarch when, after an absence of five consecutive solstices, his parens Jason was deemed lost to Final Twilight. The title of Patriarch is held by the oldest resident Branchidae at Didyma, and Alexander is the fourth Patriarch (following Soteria, Basil, and Jason). Alexander was a young magus (in his early 40s) when Jason died and there were elder non-resident Branchidae magi, Damen and Tessa, who could have returned to rule over Apollo’s sacred spring. Although the details are now obscure, Alexander somehow prevented Damen and Tessa from returning to Didyma. Both elder Branchidae have since reputedly entered Final Twilight (several decades ago), and so Alexander’s reign as Patriarch is now without apparent challenge. His filia Nikola (herself now an old woman) should be the next Matriarch (if she outlives Alexander), although there may be potential challengers among the filii of Damen and Tessa.
@@ -4987,6 +4982,33 @@ Under Alexander, the covenant has become a steadily more blatant presence in the
 The last Wizard War fought at the covenant was in 1110, when Hector (House Merinita) was killed by his filius Achillios. The dispute nominally involved a laboratory containing a large forge (now William’s laboratory), but Hector or Achillios may have had secret Merinita cultic motivations too. Achillios left the covenant soon afterward, joining House Verditius at the covenant of Ingasia. Achillios entered Final Twilight in 1170.
 
 <!-- p. 72 --><a id="page-72"></a>
+
+> ### Map Key: Miletos
+>
+> 1. Delphinion (Covenant Residence)
+> 2. Covenant Warehouses
+> 3. Lion Harbor
+> 4. Theater Harbor
+> 5. Fortress
+> 6. Sea Gate
+> 7. Agora (Market Place)
+> 8. Synagogue
+> 9. Bishop’s Palace
+> 10. Western Agora (Arab Market)
+> 11. Sacred Gate
+> 12. Lion Gate
+
+In 1165, an unusual, Giant Blooded, young boy appeared on the Sacred Way. The boy claimed to be the son of Zeus, and was quickly found be Gifted with a strong vein of faerie blood. A Didyma resident magus, Nicodemus of House Merinita, named the boy Herakles and took him as his apprentice. Herakles continues to reside at Didyma, and is reputed to be the incarnation of his Olympian namesake. Nicodemus entered Final Twilight in 1207.
+
+Herakles’ reputation as the demigod was firmly established in the minds of the citizens of Miletos when Panormos (a port town a mile west of Didyma) was plagued in the early 1200s by attacks from sea-monsters. Praying to the saints achieved little, so the elders of Panormos approached Didyma for guidance. The impetuous Herakles promptly volunteered to slay the monsters and led the other younger magi of the covenant, two Branchidae sisters Lydia and Cora, out into a sea boiling with thrashing sea-monsters. Eventually, in 1205 Herakles slew the last of the monsters, depositing the bloody severed heads of a dozen fearsome creatures in Panormos’ agora. Tragically, both Lydia and Cora were drowned in the quest, although Lydia’s body was never recovered. The sisters’ mother, Nikola (House Branchidae), blames this fatal escapade on Herakles.
+
+While Herakles was slaying sea-monsters, great political changes were occurring in the secular world. Between 1204 and 1205 Constantinople was besieged and eventually over-run by Latin crusaders, and with its capital lost the Byzantine court fled to the city of Nicaea. Miletos (in the extreme southwest of the new Empire of Nicaea) also received wealthy refugees from Constantinople, among whom was the young Jerbiton maga, Ariane. She was a daughter of a wealthy family and she had lived and was educated among the now exiled imperial elites. Alexander welcomed Ariane, aware that her secular influence may help the covenant in the years to come, and although she is incapable of interpreting the Branchidae prophecies Ariane has converted to paganism, participating in the worship of Apollo Didyma. Ariane remains at Didyma.
+
+The fall of Constantinople also preceded the arrival of the Flambeau magus William of Normandy. William followed in the wake of the crusader armies (or so he says), and after the siege he adventured in the Anatolian mountains, hunting and slaying mythic creatures. While happily engaged in the pursuit of a snake-legged giant (a child of the titan Typhon) William met and befriended Herakles who, having recovered from the sea-monster quest, was likewise hunting Typhon’s spawn. William returned with Herakles to Didyma and has been an official resident of the covenant since 1210. Although William claims to have not directly participated in the siege of Constantinople, Ariane is very suspicious and fearful of him.
+
+<!-- p. 73 --><a id="page-73"></a>
+
+After the deaths of Cora and Lydia, in 1205, the Branchidae were in crisis, as there were no Gifted Branchidae heirs (in the resident lineage, at least) to follow Alexander and Nikola. Fortunately, in 1211, the clever and Gifted Aoede was born. She is now the apprentice of Alexander.
 
 > ### Prophecies and the Oracle
 >
@@ -5024,29 +5046,6 @@ The last Wizard War fought at the covenant was in 1110, when Hector (House Merin
 >
 > The Branchidae, generally, do not lie about the content of the prophecies. This is because the Branchidae are pagans for whom faithfully transmitting the prophecies of Apollo Didyma is an aspect of religious belief. If the Branchidae do nonetheless lie about a prophecy, then no Prophecy Point is associated with knowing the false prophecy (which is unlikely to be obvious in-character).
 
-1. Delphinion (Covenant Residence)
-2. Covenant Warehouses
-3. Lion Harbor
-4. Theater Harbor
-5. Fortress
-6. Sea Gate
-7. Agora (Market Place)
-8. Synagogue
-9. Bishop’s Palace
-10. Western Agora (Arab Market)
-11. Sacred Gate
-12. Lion Gate
-
-In 1165, an unusual, Giant Blooded, young boy appeared on the Sacred Way. The boy claimed to be the son of Zeus, and was quickly found be Gifted with a strong vein of faerie blood. A Didyma resident magus, Nicodemus of House Merinita, named the boy Herakles and took him as his apprentice. Herakles continues to reside at Didyma, and is reputed to be the incarnation of his Olympian namesake. Nicodemus entered Final Twilight in 1207.
-
-Herakles’ reputation as the demigod was firmly established in the minds of the citizens of Miletos when Panormos (a port town a mile west of Didyma) was plagued in the early 1200s by attacks from sea-monsters. Praying to the saints achieved little, so the elders of Panormos approached Didyma for guidance. The impetuous Herakles promptly volunteered to slay the monsters and led the other younger magi of the covenant, two Branchidae sisters Lydia and Cora, out into a sea boiling with thrashing sea-monsters. Eventually, in 1205 Herakles slew the last of the monsters, depositing the bloody severed heads of a dozen fearsome creatures in Panormos’ agora. Tragically, both Lydia and Cora were drowned in the quest, although Lydia’s body was never recovered. The sisters’ mother, Nikola (House Branchidae), blames this fatal escapade on Herakles.
-
-While Herakles was slaying sea-monsters, great political changes were occurring in the secular world. Between 1204 and 1205 Constantinople was besieged and eventually over-run by Latin crusaders, and with its capital lost the Byzantine court fled to the city of Nicaea. Miletos (in the extreme southwest of the new Empire of Nicaea) also received wealthy refugees from Constantinople, among whom was the young Jerbiton maga, Ariane. She was a daughter of a wealthy family and she had lived and was educated among the now exiled imperial elites. Alexander welcomed Ariane, aware that her secular influence may help the covenant in the years to come, and although she is incapable of interpreting the Branchidae prophecies Ariane has converted to paganism, participating in the worship of Apollo Didyma. Ariane remains at Didyma.
-
-The fall of Constantinople also preceded the arrival of the Flambeau magus William of Normandy. William followed in the wake of the crusader armies (or so he says), and after the siege he adventured in the Anatolian mountains, hunting and slaying mythic creatures. While happily engaged in the pursuit of a snake-legged giant (a child of the titan Typhon) William met and befriended Herakles who, having recovered from the sea-monster quest, was likewise hunting Typhon’s spawn. William returned with Herakles to Didyma and has been an official resident of the covenant since 1210. Although William claims to have not directly participated in the siege of Constantinople, Ariane is very suspicious and fearful of him.
-
-<!-- p. 73 --><a id="page-73"></a>
-
 > ### Covenant Summary
 >
 > Didyma was built with a budget of 2575 Build Points, distributed as described below.
@@ -5061,8 +5060,6 @@ The fall of Constantinople also preceded the arrival of the Flambeau magus Willi
 > | Specialists and Teachers | 58 |
 > | Vis Sources and Stocks | 249 |
 > | Total | 2575 |
-
-After the deaths of Cora and Lydia, in 1205, the Branchidae were in crisis, as there were no Gifted Branchidae heirs (in the resident lineage, at least) to follow Alexander and Nikola. Fortunately, in 1211, the clever and Gifted Aoede was born. She is now the apprentice of Alexander.
 
 ## Boons & Hooks
 
@@ -5087,6 +5084,12 @@ The covenant is described through the following Boons and Hooks:
 **City (Miletos) (Major Hook):** The bustling city of Miletos is 10 miles north of Didyma, and pretty much anything in Mythic Europe can be sourced from its seething ports. If a rare good cannot be immediately purchased, city merchants can find a source within a season - for a price. On the other hand, close proximity to civilization means that the covenant cannot easily hide from mundane scrutiny and is thus liable to be enveloped by crises that affect the city, such as wars, politics, and famine (Covenants, [page 23](#page-23)). Currently, the negative impacts of the city are minimized, due to the covenant’s ally (the Metropolitan) and it’s Right (which gives the covenant a clear position in the legal and administrative life of Miletos). However, should these ameliorating circumstances be lost, then the covenant’s relationship with the city may drastically change.
 
 <!-- p. 74 --><a id="page-74"></a>
+
+**Monster (Major Hook, Unknown):** A powerful demon sleeps in the rocks beneath the covenant. Its previous awakenings were responsible for earthquakes at the site. (Covenants, [page 9](#the-covenants)).
+
+**Crumbling (Minor Hook):** Even the newest parts of the temple structure were built hundreds of years ago, and parts are on the brink of collapse. (Covenants, [page 15](#page-15)).
+
+**Faerie Aura (Minor Hook):** The Didyma aura is a faerie aura (level 4). (Covenants, [page 10](#page-10)).
 
 > ### Didyma Magi
 >
@@ -5132,12 +5135,6 @@ The covenant is described through the following Boons and Hooks:
 >
 > **Aoede:** Ex Miscellanea, Branchidae. Apprentice of Alexander. Great-grand daughter of Alexander. Scheduled to gauntlet at Didyma in 1231. Current resident.
 
-**Monster (Major Hook, Unknown):** A powerful demon sleeps in the rocks beneath the covenant. Its previous awakenings were responsible for earthquakes at the site. (Covenants, [page 9](#the-covenants)).
-
-**Crumbling (Minor Hook):** Even the newest parts of the temple structure were built hundreds of years ago, and parts are on the brink of collapse. (Covenants, [page 15](#page-15)).
-
-**Faerie Aura (Minor Hook):** The Didyma aura is a faerie aura (level 4). (Covenants, [page 10](#page-10)).
-
 ## Magi
 
 The magi at Didyma are Alexander and Nikola (Ex Miscellanea, both Branchidae), Ariane (Jerbiton), Herakles (Merinita), and William (Flambeau). Alexander’s young apprentice, Aoede, also lives at the covenant. William is a metoikos (resident foreigner) in the Tribunal, and since 1210 has been the guest of Herakles (see [The Sundered Eagle, page 25](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md>)). This means William cannot hold offices in the Tribunal, although he may still vote. William’s status as a guest applies to his Tribunal status: he is considered a full covenant resident under the covenant’s charter. The other magi are all normal members of the Theban Tribunal. Nikola serves as an arche in the current Tribunal Council of Magistrates, and she is a member of the Treasury Council (see [The Sundered Eagle, page 25](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#the-council-of-magistrates>)).
@@ -5145,6 +5142,10 @@ The magi at Didyma are Alexander and Nikola (Ex Miscellanea, both Branchidae), A
 Alexander, Nikola, Araine, and Aoede are all pagans who, like a number of the covenfolk, dress in the robes of ancient pagan priests and priestesses. Alexander is an ancient, bulky, bearded mass and he disconcertingly vibrates and pulses with a palpable aura. He is the leader (Patriarch) of the covenant and although he now rarely leaves the temple complex, his plotting is responsible for the covenant’s current security with regard to its secular and ecclesiastic neighbors. Alexander’s young apprentice, Aoede is a nervous nine year old girl, who shyly orbits behind him. Nikola, a tall distinguished woman who carries sadness deep in her blank Twilight-scarred eyes, is the stateswoman and military leader (Strategos) of the covenant. She is a prolific correspondent with other Theban Tribunal officials and Redcaps, and others often meet with her on Tribunal business. Nikola is always interested in discussing Tribunal affairs with visitors. Ariane is a slender middle-aged woman, and the temple she has converted to a laboratory is shrouded in thick black drapes that grant only fleeting glimpses of the secrets concealed within. Although reclusive, Ariane is friendly toward characters who trouble to learn about her, but she is fearful and mistrustful of Latin magi. In her role as covenant Chancellor, Ariane extensively uses The Intangible Tunnel to scry on the covenant’s interests and resources, and her familiar, the cat Chloris (a patient, but unpredictable, observer from many of the covenant’s dark corners) keeps Ariane inconsistently informed about the activities of visiting magi. Ariane is typically accompanied by one or more of her handmaidens: a trio of blind women who arrange her mundane affairs.
 
 Herakles is strong, giant-blooded magus, and it is common knowledge in the city of Miletos that he is the terrifying incarnation of his namesake. Herakles believes this too, and is exceedingly reckless in his determination to breathe life into his Olympian reputation. He is good friends with the Norman magus William, and the pair often hunt either faerie creatures along the Sacred Way or the monstrous children of the Titans who dwell in the wild Anatolian mountains. William is a Latin knight topped with a burst of red hair that pops and sparks with static discharges. Despite his alien appearance, William is well-liked by mundanes, as he has the Gentle Gift, and he leads a small group of veteran Frankish mercenaries, who are experienced in both mundane fighting and the pursuit of exotic supernatural quarry.
+
+William’s familiar is a large hunting falcon named Torvus, who from his wheeling, soaring vantage provides William with piercing tactical surveillance that extends for miles.
+
+A very knowledgeable visitor may recognize that that the pagan priestly regalia worn at Didyma is actually closer to ancient Roman than ancient Greek tradition. This is because the pagans of Didyma, despite claiming (and believing) to constitute a continuous cult spanning two thousand years, have in fact been periodically reinvented after interruptions by Persian, Greek, and Roman conquests, Christian oppression, and other disasters. The most recent reinvention was after the Christian occupation of the site that ended in the 8th century. The pagans of Didyma are thus effectively a second-hand reflection of ancient stories about the oracle cult, created by the faerie Apollo Didyma, who is himself a fantastic mirror of human narratives. This subtle distinction is really only accessible, and meaningful, to characters who are either very well informed about the interaction between faeries and stories or have genuine supernatural knowledge of the distant past. Even native Greeks only know about the practices of their ancient ancestors via surviving stories and depictions on ancient monuments and artifacts, which are frequently not complete, have uncertain dates, and represent a confusing mixture of practices from many native and foreign cultures. Even the extant temples (statues, mosaics, etc) at Didyma were mostly actually constructed under Roman occupation in the first century AD..
 
 ### Aoede of House Ex Miscellanea
 
@@ -5897,10 +5898,6 @@ Appearance: Chloris is a small, innocuous, tortoiseshell cat, and Ariane’s fam
 
 The Familiar Bond was forged with an InAn Lab Total of 26. The Cords are: +1 Gold, +1 Silver, +2 Bronze.
 
-William’s familiar is a large hunting falcon named Torvus, who from his wheeling, soaring vantage provides William with piercing tactical surveillance that extends for miles.
-
-A very knowledgeable visitor may recognize that that the pagan priestly regalia worn at Didyma is actually closer to ancient Roman than ancient Greek tradition. This is because the pagans of Didyma, despite claiming (and believing) to constitute a continuous cult spanning two thousand years, have in fact been periodically reinvented after interruptions by Persian, Greek, and Roman conquests, Christian oppression, and other disasters. The most recent reinvention was after the Christian occupation of the site that ended in the 8th century. The pagans of Didyma are thus effectively a second-hand reflection of ancient stories about the oracle cult, created by the faerie Apollo Didyma, who is himself a fantastic mirror of human narratives. This subtle distinction is really only accessible, and meaningful, to characters who are either very well informed about the interaction between faeries and stories or have genuine supernatural knowledge of the distant past. Even native Greeks only know about the practices of their ancient ancestors via surviving stories and depictions on ancient monuments and artifacts, which are frequently not complete, have uncertain dates, and represent a confusing mixture of practices from many native and foreign cultures. Even the extant temples (statues, mosaics, etc) at Didyma were mostly actually constructed under Roman occupation in the first century AD..
-
 ## Notable Covenfolk
 
 Didyma’s covenfolk are mostly Greek. Most are members of the Branchidae family and were born at the covenant, which is a substantial village, but others are from Miletos or other villages in the region. A few Frankish mercenaries form a tiny but boisterous minority.
@@ -6134,26 +6131,6 @@ Callista represents the covenant in Miletos and liaises on behalf of the magi wi
 
 She is an arche (a grog leader) and her husband, Cleon, is a Miletos tax official.
 
-#### Philip: Arche and Turb Captain
-
-Philip is one of two turb captains (the other is Sebasten, husband of the maga Ariane), and he’s well-liked. Philip is an unGifted Branchidae, and his grandfather was a faerie goblin who served Nicodemus, parens of Herakles. Philip is very serious and dedicated to the turb, but frequently finds the women of the covenant try to distract him from his duties. Unfortunately, his reserve with the women only causes them to redouble their attentions.
-
-### Ella the Oracle
-
-As oracle, Ella is accorded respect by the other covenfolk, and she has no other duties at the covenant. On the other hand, Ella is hypersensitive to whispers that she freeloads on her role as oracle, and thus likes to talk up the importance of her oracle duties. A younger woman, Julia, also has visions and thus sometimes serves as oracle. Ella is jealous and wary of being usurped by Julia.
-
-Ella’s Greater Malediction is that via her oracle duties she has become addicted to consuming vis, and suffers Deprivation ([**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#greater-malediction>) / [Definitive Edition, page 132](<Ars Magica - Definitive Edition (Core Rules).md#greater-malediction>)) if she cannot consume vis. The check time is one month, and the lost Fatigue levels are Long-Term Fatigue levels that can only be regained after she has consumed a pawn of vis.
-
-#### Niketas Metropolitan of Miletos
-
-Niketas is the politically powerful metropolitan (archbishop) of Miletos. He is a companion and ally of covenant, but his close relationship with the covenant is not well known, even at the covenant. Of course, Niketas does not actually live at the covenant, but at his Episcopal Palace (in Miletos). See External Relationships, later, for more details.
-
-<!-- p. 83 --><a id="page-83"></a>
-
-### Grogs
-
-There are over 100 grogs and other specialists living at the covenant. These include:
-
 #### Callista
 
 Characteristics: Int +1, Per +1, Pre +2, Com +1, Str 0, Sta 0, Dex 0, Qik +1
@@ -6195,23 +6172,9 @@ Vis: None.
 
 Appearance: A tall woman with long black, curled hair slowly fading to gray.
 
-#### Ariane’s Blind Maidens
+#### Philip: Arche and Turb Captain
 
-Ariane’s Restriction prevents her casting when seen by unGifted people. As a result, she shuns the covenfolk, except her three servants, who were blinded so as to not interfere with her magic. This may seem cruel, but Ariane (educated alongside eunuchs in Constantinople) blandly views her servant’s blindings as a component of office. Generally, the covenfolk respect and admire the sacrifice made by Ariane’s blind maidens.
-
-Ariane’s blind maidens are Magarethe (who was Ariane’s servant at Constantinople) and Nicola and Eleni (who were young girls blinded soon after Ariane arrived at Didyma 16 years ago).
-
-#### The Turb
-
-The turb consists of 18 fighters (The Standard Soldier; [**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)), and two leaders. Philip is one of the leaders (see Companions), The Grizzled Veteran ([**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#the-grizzled-veteran>) / [Definitive Edition, page 31](<Ars Magica - Definitive Edition (Core Rules).md#the-grizzled-veteran>)) is used for the other (Sebasten). There are also four Frankish mercenaries. Usually, two bands, each of four men, are based at the Miletos warehouses (one band on-duty, the other off-duty), with the remainder at the covenant. The warehouse fighters serve in Miletos for a week, before trading places with a covenant band. The Frankish mercenaries are treated like the other bands and take a turn at warehouse duty.
-
-#### William’s Frankish Mercenaries
-
-William of Normandy is accompanied by a band of four grizzly-bearded, troublemaking Franks, named Marcel, Thomas, Alain, and Guy. The mercenaries are not bad men and are loyal to the covenant and William. However, they cannot communicate well with the other covenfolk and thus spend far too much down-time drinking together and drunkenly shouting at their Greek allies. It is not due to lack of opportunity to learn that the mercenaries cannot speak Greek well. They just have not bothered to learn anything beyond the rudiments.
-
-<!-- p. 84 --><a id="page-84"></a>
-
-Game statistics are provided for Marcel; the others are similar. The mercenaries often help William to hunt monsters and can fight together as a trained group led by William (group bonus +18). Alternatively, one of the mercenaries can lead the others (group bonus +9).
+Philip is one of two turb captains (the other is Sebasten, husband of the maga Ariane), and he’s well-liked. Philip is an unGifted Branchidae, and his grandfather was a faerie goblin who served Nicodemus, parens of Herakles. Philip is very serious and dedicated to the turb, but frequently finds the women of the covenant try to distract him from his duties. Unfortunately, his reserve with the women only causes them to redouble their attentions.
 
 #### Philip
 
@@ -6276,6 +6239,120 @@ As the Hermetic spell ([**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#herme
 
 (Base 2, +1 Touch, +1 Diameter, +3 Hearing; +5 24 uses)
 
+### Ella the Oracle
+
+As oracle, Ella is accorded respect by the other covenfolk, and she has no other duties at the covenant. On the other hand, Ella is hypersensitive to whispers that she freeloads on her role as oracle, and thus likes to talk up the importance of her oracle duties. A younger woman, Julia, also has visions and thus sometimes serves as oracle. Ella is jealous and wary of being usurped by Julia.
+
+Ella’s Greater Malediction is that via her oracle duties she has become addicted to consuming vis, and suffers Deprivation ([**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#greater-malediction>) / [Definitive Edition, page 132](<Ars Magica - Definitive Edition (Core Rules).md#greater-malediction>)) if she cannot consume vis. The check time is one month, and the lost Fatigue levels are Long-Term Fatigue levels that can only be regained after she has consumed a pawn of vis.
+
+#### Ella the Oracle
+
+Characteristics: Int +1, Per +2(1), Pre +1, Com +2(1), Str 0, Sta 0, Dex +1, Qik +1(1)
+
+Size: 0
+
+Age: 44 (43)
+
+Decrepitude: 0 (3)
+
+Warping Score: 1 (6)
+
+Confidence: 1 (3)
+
+Virtues and Flaws: Custos; Improved Characteristics, Intuition, Lightning Reflexes, Premonitions, Protection (Apollo Didyma), Second Sight, Tough; Greater Malediction (vis addicted), Envious; Fear (snakes)\*, Oversensitive (accusations of free-loading), Visions
+
+\* due to Warping
+
+Personality Traits: Envious +6
+
+Reputations: Oracle 3 (local)
+
+Combat:
+- Dodge: Init +1, Attack na, Defense +6, Damage na
+
+Soak: +3
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Miletos 3 (Didyma), Athletics 2 (running), Awareness 3 (movement), Brawl 4 (dodge), Charm 3 (pagans), Etiquette 2 (Didyma), Faerie Lore 3 (Olympians), Folk Ken 4 (covenfolk), Guile 4 (covenfolk), Intrigue 4 (Didyma), Leadership 2 (covenfolk), Living Language: Romaic Greek 5 (archaic), Organization Lore: Didyma 4 (history), Organization Lore: Order of Hermes 1 (future), Premonitions 7 (Didyma), Second Sight 7 (faeries)
+
+Equipment: Hooded stola of a pagan priestess.
+
+Encumbrance: 0 (0)
+
+Vis: None.
+
+Appearance: Ella is a pampered middle-aged woman with a shaved scalp that shows off her shapely head.
+
+#### Niketas Metropolitan of Miletos
+
+Niketas is the politically powerful metropolitan (archbishop) of Miletos. He is a companion and ally of covenant, but his close relationship with the covenant is not well known, even at the covenant. Of course, Niketas does not actually live at the covenant, but at his Episcopal Palace (in Miletos). See External Relationships, later, for more details.
+
+<!-- p. 83 --><a id="page-83"></a>
+
+### Grogs
+
+There are over 100 grogs and other specialists living at the covenant. These include:
+
+#### Ariane’s Blind Maidens
+
+Ariane’s Restriction prevents her casting when seen by unGifted people. As a result, she shuns the covenfolk, except her three servants, who were blinded so as to not interfere with her magic. This may seem cruel, but Ariane (educated alongside eunuchs in Constantinople) blandly views her servant’s blindings as a component of office. Generally, the covenfolk respect and admire the sacrifice made by Ariane’s blind maidens.
+
+Ariane’s blind maidens are Magarethe (who was Ariane’s servant at Constantinople) and Nicola and Eleni (who were young girls blinded soon after Ariane arrived at Didyma 16 years ago).
+
+#### Magarethe: Archon and Servant of Ariane
+
+Characteristics: Int +1, Per +1(1), Pre 0, Com +1, Str –2(2), Sta –1(1), Dex +1, Qik –1(1)
+
+Size: 0
+
+Age: 60 (60)
+
+Decrepitude: 2 (0)
+
+Warping Score: 4 (3)
+
+Virtues and Flaws: Custos; Common Sense, Premonitions; Blind, Incomprehensible\*, Offensive to Animals\*.
+
+\* Due to Warping
+
+Personality Traits: Loyal +3
+
+Reputations: Wise Custos 3 (local)
+
+Combat:
+- Fist: Init –1, Attack +1, Defense –1, Damage –2
+
+Soak: –1
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Constantinople 4 (secrets), Area Lore: Miletos 3 (Didyma), Awareness 6 (hearing), Charm 4 (men), Dead Language: Latin 2 (Hermetic usage), Etiquette 3 (Hermetic), Folk Ken 5 (magi), Guile 4 (magi), Intrigue 6 (covenant), Leadership 4 (covenfolk), Living Language: French 1 (Norman), Living Language: Romaic Greek 5 (cursing), Music 3 (singing), Organization Lore: Didyma 4 (relationships), Premonitions 7 (Ariane), Profession: Servant 5 (Ariane), Stealth 3 (urban), Teaching 2 (covenfolk)
+
+Equipment: simple tunic/robe.
+
+Encumbrance: 0 (0)
+
+Vis: None.
+
+Appearance: Magarethe is an old but agile woman now bent by years, whose eyes were burnt out in Constantinople 35 years ago, in order to serve Ariane. Magarethe is very loyal to Ariane and also respected among the covenfolk. As a result, she is the current leader of the covenfolk. She has a lot of Warping due to the vicissitudes of a life-time of service to magi.
+
+#### The Turb
+
+The turb consists of 18 fighters (The Standard Soldier; [**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)), and two leaders. Philip is one of the leaders (see Companions), The Grizzled Veteran ([**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#the-grizzled-veteran>) / [Definitive Edition, page 31](<Ars Magica - Definitive Edition (Core Rules).md#the-grizzled-veteran>)) is used for the other (Sebasten). There are also four Frankish mercenaries. Usually, two bands, each of four men, are based at the Miletos warehouses (one band on-duty, the other off-duty), with the remainder at the covenant. The warehouse fighters serve in Miletos for a week, before trading places with a covenant band. The Frankish mercenaries are treated like the other bands and take a turn at warehouse duty.
+
+#### William’s Frankish Mercenaries
+
+William of Normandy is accompanied by a band of four grizzly-bearded, troublemaking Franks, named Marcel, Thomas, Alain, and Guy. The mercenaries are not bad men and are loyal to the covenant and William. However, they cannot communicate well with the other covenfolk and thus spend far too much down-time drinking together and drunkenly shouting at their Greek allies. It is not due to lack of opportunity to learn that the mercenaries cannot speak Greek well. They just have not bothered to learn anything beyond the rudiments.
+
+<!-- p. 84 --><a id="page-84"></a>
+
+Game statistics are provided for Marcel; the others are similar. The mercenaries often help William to hunt monsters and can fight together as a trained group led by William (group bonus +18). Alternatively, one of the mercenaries can lead the others (group bonus +9).
+
 #### Marcel the Mercenary
 
 Characteristics: Int 0, Per +2(1), Pre 0, Com –2(1), Str +1, Sta +2(1), Dex +2(1), Qik +2(2)
@@ -6320,45 +6397,6 @@ Vis: None.
 
 Appearance: A hardy Frankish warrior. After years of Hermetic service, little surprises Marcel, who has fought demons, giants, serpents and many other fantastic abominations. Perhaps because of his bravery, Marcel is very sensitive to accusations of cowardice. Despite communication problems, he is married to Lyra, the beautiful young daughter of a goat farmer whose farm is located an hour’s walk from the covenant. Lyra lives with Marcel at the covenant.
 
-#### Magarethe: Archon and Servant of Ariane
-
-Characteristics: Int +1, Per +1(1), Pre 0, Com +1, Str –2(2), Sta –1(1), Dex +1, Qik –1(1)
-
-Size: 0
-
-Age: 60 (60)
-
-Decrepitude: 2 (0)
-
-Warping Score: 4 (3)
-
-Virtues and Flaws: Custos; Common Sense, Premonitions; Blind, Incomprehensible\*, Offensive to Animals\*.
-
-\* Due to Warping
-
-Personality Traits: Loyal +3
-
-Reputations: Wise Custos 3 (local)
-
-Combat:
-- Fist: Init –1, Attack +1, Defense –1, Damage –2
-
-Soak: –1
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Constantinople 4 (secrets), Area Lore: Miletos 3 (Didyma), Awareness 6 (hearing), Charm 4 (men), Dead Language: Latin 2 (Hermetic usage), Etiquette 3 (Hermetic), Folk Ken 5 (magi), Guile 4 (magi), Intrigue 6 (covenant), Leadership 4 (covenfolk), Living Language: French 1 (Norman), Living Language: Romaic Greek 5 (cursing), Music 3 (singing), Organization Lore: Didyma 4 (relationships), Premonitions 7 (Ariane), Profession: Servant 5 (Ariane), Stealth 3 (urban), Teaching 2 (covenfolk)
-
-Equipment: simple tunic/robe.
-
-Encumbrance: 0 (0)
-
-Vis: None.
-
-Appearance: Magarethe is an old but agile woman now bent by years, whose eyes were burnt out in Constantinople 35 years ago, in order to serve Ariane. Magarethe is very loyal to Ariane and also respected among the covenfolk. As a result, she is the current leader of the covenfolk. She has a lot of Warping due to the vicissitudes of a life-time of service to magi.
-
 ### Specialists and Other Covenfolk
 
 There are 58 BP worth of specialists at Didyma.
@@ -6370,47 +6408,6 @@ There are 58 BP worth of specialists at Didyma.
 <!-- p. 85 --><a id="page-85"></a>
 
 **Abbas**: A strongman and master stonemason, he organizes repairs on the crumbling covenant. Com 0. Craft: Stonemason 6 (temples), Teaching 2 (apprentices). (8 BP)
-
-#### Ella the Oracle
-
-Characteristics: Int +1, Per +2(1), Pre +1, Com +2(1), Str 0, Sta 0, Dex +1, Qik +1(1)
-
-Size: 0
-
-Age: 44 (43)
-
-Decrepitude: 0 (3)
-
-Warping Score: 1 (6)
-
-Confidence: 1 (3)
-
-Virtues and Flaws: Custos; Improved Characteristics, Intuition, Lightning Reflexes, Premonitions, Protection (Apollo Didyma), Second Sight, Tough; Greater Malediction (vis addicted), Envious; Fear (snakes)\*, Oversensitive (accusations of free-loading), Visions
-
-\* due to Warping
-
-Personality Traits: Envious +6
-
-Reputations: Oracle 3 (local)
-
-Combat:
-- Dodge: Init +1, Attack na, Defense +6, Damage na
-
-Soak: +3
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Miletos 3 (Didyma), Athletics 2 (running), Awareness 3 (movement), Brawl 4 (dodge), Charm 3 (pagans), Etiquette 2 (Didyma), Faerie Lore 3 (Olympians), Folk Ken 4 (covenfolk), Guile 4 (covenfolk), Intrigue 4 (Didyma), Leadership 2 (covenfolk), Living Language: Romaic Greek 5 (archaic), Organization Lore: Didyma 4 (history), Organization Lore: Order of Hermes 1 (future), Premonitions 7 (Didyma), Second Sight 7 (faeries)
-
-Equipment: Hooded stola of a pagan priestess.
-
-Encumbrance: 0 (0)
-
-Vis: None.
-
-Appearance: Ella is a pampered middle-aged woman with a shaved scalp that shows off her shapely head.
 
 #### Specialists
 
@@ -7510,6 +7507,10 @@ The Seljuk Sultanate of Rum (in the south east corner of the Theban Tribunal) in
 
 Due to his stretched resources, Miletos’ Strategos has difficulty maintaining order in the slum, and there is also a regional food shortage due to the influx of hungry refugees. Eventually, chasing rumors of the oracles’ wealth, a mob of several hundred starving refugees walk along the Sacred road to the Didyma temple complex and demand to be fed by the covenant.
 
+In anticipation of further attacks, the Strategos begins to draft a militia from the Miletos hinterland. He expects Didyma’s turb to enlist, and the covenant to provide magical assistance. Meanwhile, a well-known Arab merchant who lives in Panormos, Omar Allaid, travels down the Sacred Road to Didyma. Omar is acting as an emissary of the Seljuk Sultanate and offers to allow the Didyma pagans a license to continue their pagan worship under new Muslim overlords, but only if they provide magic assistance for an upcoming sea-borne assault on Miletos.
+
+The covenant must choose whether to support the Miletos Strategos, or Omar Allaid. Both military leaders are skeptical of claims that the “Code of Hermes” prevents interference. If the magi do nonetheless claim neutrality, then regardless of whether Muslim or Greek forces prevail, the magi will quickly find that their pagan-cult is outlawed by the victors.
+
 > ### Moving Didyma to Other Tribunals
 >
 > Didyma can be moved to other locations that border the Mediterranean (including the Rome Tribunal, parts of the Iberian Tribunal, North Africa and the Middle East), as it is plausible for an ancient temple to Apollo to have been built in such locales. The Language, Area Lore Abilities, and other region-specific details of the characters should be adjusted as appropriate.
@@ -7517,10 +7518,6 @@ Due to his stretched resources, Miletos’ Strategos has difficulty maintaining 
 > The demon Agamenoth can lie slumbering beneath the covenant wherever it is located, but the other external relationships of the covenant will need to be rethought depending on its new locale.
 >
 > The covenant’s pagan practices are tolerated by the local ecclesiastical and secular authorities. This situation could arise anywhere in Mythic Europe as it really depends on the personalities of the local authorities. Note that in the case of the ecclesiastics this situation has arisen because of deliberate manipulation by the covenant to cause the election of favorable clergy; this can potentially happen anywhere in Mythic Europe. Alternatively, the covenant could be moved into a secret regio or merely be very remote and isolated. Such isolation might also allow the pagan cult to flourish, but may reduce the impact of the nearby city upon the covenant, and may reduce the opportunity for the covenant to collect income via the city.
-
-In anticipation of further attacks, the Strategos begins to draft a militia from the Miletos hinterland. He expects Didyma’s turb to enlist, and the covenant to provide magical assistance. Meanwhile, a well-known Arab merchant who lives in Panormos, Omar Allaid, travels down the Sacred Road to Didyma. Omar is acting as an emissary of the Seljuk Sultanate and offers to allow the Didyma pagans a license to continue their pagan worship under new Muslim overlords, but only if they provide magic assistance for an upcoming sea-borne assault on Miletos.
-
-The covenant must choose whether to support the Miletos Strategos, or Omar Allaid. Both military leaders are skeptical of claims that the “Code of Hermes” prevents interference. If the magi do nonetheless claim neutrality, then regardless of whether Muslim or Greek forces prevail, the magi will quickly find that their pagan-cult is outlawed by the victors.
 
 <!-- p. 100 --><a id="page-100"></a>
 
@@ -7619,6 +7616,12 @@ The covenant is described through the following Boons and Hooks:
 
 **Dwindling Resource (Minor Hook):** For years, the walls of Longmist have produced raw Vim vis. But the yield has recently been falling. Whether this is because the aura is generating less vis or the covenfolk have become less adept at finding it isn’t clear. This Hook applies to the From the Very Walls Themselves vis source as described later. From the start of play, the source loses 10% of its yield each year.
 
+<!-- p. 103 --><a id="page-103"></a>
+
+**Faerie Court (Minor Hook):** The kings and princes of the Túatha Dé Danann take an active interest in the magi of Longmist, especially Conchobor and those who support him. They provide service to Conchobor, including maintaining a watch over the Cathach, but they frequently ask for service in return.
+
+**Superiors (Minor Hook):** The younger magi have few rights over the covenant’s resources. Requests for access or use must be put before the council and an inquorate council or veto from an elder means that the resource may be withheld. Negotiation and service is often required.
+
 > ### Hibernia
 >
 > For much of its existence, Hibernia was paid little notice by the continent and its magi were received with slight regard. All that changed when the English crossed the sea and wrested control of Ireland from its High King. With this change in mundane politics, the Order looked again at Hibernia and found a land rich in Magical auras and vis. Over the last fifty years, magi from across the sea have come to Hibernia to claim land and form new covenants, something that has caused much concern to the elders of Hibernia, who fear that they will ultimately be displaced.
@@ -7645,12 +7648,6 @@ The covenant is described through the following Boons and Hooks:
 >
 > The humans native to Ireland in 1220 are the Sons of Mil. Mil was a knight whose sons were prophesied to rule over Ireland. His armies, led by druids, eventually defeated the Túatha Dé Danann and drove them underground, out of the sunlight and into the night.
 
-<!-- p. 103 --><a id="page-103"></a>
-
-**Faerie Court (Minor Hook):** The kings and princes of the Túatha Dé Danann take an active interest in the magi of Longmist, especially Conchobor and those who support him. They provide service to Conchobor, including maintaining a watch over the Cathach, but they frequently ask for service in return.
-
-**Superiors (Minor Hook):** The younger magi have few rights over the covenant’s resources. Requests for access or use must be put before the council and an inquorate council or veto from an elder means that the resource may be withheld. Negotiation and service is often required.
-
 ## Magi
 
 The six magi of Longmist consist of two elder magi, both in excess of 100 years of age, and four younger magi, each no older than 35. The generation between these two has been lost, either to Twilight or death.
@@ -7673,91 +7670,11 @@ He has written a number of polemic texts that stress the independence of his Ord
 
 <!-- p. 104 --><a id="page-104"></a>
 
-> ### Covenant Summary
->
-> Longmist was built with a budget of 2165 Build Points, distributed as described below.
->
-> | Resource | Build Points |
-> |---|---|
-> | Enchanted Devices & Laboratories | 502 |
-> | Library & Laboratory Texts | 1089 |
-> | Money & Wealth | 30 |
-> | Specialists & Teachers | 286 |
-> | Vis Sources & Stocks | 278 |
->
-> Most of the covenant’s vis is in the form of stocks built up across the centuries rather than in a reliable yearly income.
-
-> ### Past Magi
->
-> Many magi have called Longmist home, but only six remain. So what happened to the others? Here are some notable magi, the years they were active at Longmist, and notes on their fates.
->
-> | Magus | Years | Notes |
-> |---|---|---|
-> | Niall of the Younger House | 927 – 1011 | Founder of Longmist, negotiated peace with the druids. |
-> | Fergus of Merinita | 927 – 1014 | Founder of Longmist, forged the alliance with the Túatha Dé Danann. |
-> | Hannewalt on Bar | 937 – 1049 | First of the Tytalus lineage to join Longmist. He came from England and brought with him magic and rituals for perceiving and crossing boundaries. |
-> | Marcus Cordo of Flambeau | 967 – 1002 | The only Flambeau to have joined Longmist, killed along with his apprentice during the Bjornaer raid that claimed the shield of Cú Chulainn. |
-> | Cearnach of Verditius | 978 – 1064 | Faerie-blooded smith who brought the Verditius lineage to Longmist. Wielded the blade that took the Bjornaer pelt that now serves as the covenant’s Cathach. Retired to Verdi on training an apprentice to continue the line. |
-> | Astwick of Bonisagus | 1027 – 1070 | Suspected of sharing the covenant’s magical secrets with others. He was ultimately forced from the covenant, but he took his written works and researches with him, spending the rest of his days cloistered in Durenmar. While he trained an apprentice during his years at Longmist, no remnant of his lineage remains. |
-> | Faventinus of Verditius | 1087 – 1164 | Creator of the Bronze Man automaton that stands in the covenant courtyard. It was once assumed that his magic died with him when he succumbed to Final Twilight. |
-> | Calvacius of Tytalus | 1125 – 1218 | Parens to Mícheál Amhreaidh, he disappeared from the covenant two years ago. Conchobor’s investigations showed that Calvacius had fallen into Final Twilight. |
-> | Tadhg an Tuir of Verditius | 1128 – 1218 | Parens to the Cailleach, Tadhg died nearly two years ago after his Longevity Ritual failed. He suffered an aging crisis from which no magic could pull him back. He is buried at Qui Sonant Pro Quieto. |
-
 As covenant Propraetor, he has final say over the covenant’s external relationships with mundanes, druids and hedge wizards, other covenants, and so on. He has used this influence to close down relations with magi and covenants taking a lenient view on the influx of foreign magi in the last 50 years, becoming a major contributor to the covenant’s continued isolation.
 
 Away from politics, his Corrguineach lineage (Houses of Hermes: Societates, [page 109](#page-109)) means he is well-versed in the summoning of spirits, which he employs as his eyes, ears, and agents. He has a number of Aegis tokens that he uses for this purpose, granted to the spirits and retained in his sanctum. In addition, he is Longmist’s specialist in Corpus and the covenant’s crafter of Longevity Rituals, Laboratory Texts for which can be found in the library.
 
 A vain man, Lugh swathes himself in youthful illusion through an enchantment in his talisman. He has read in the Lebor Feasa Runda that those who drink of the well called Tobar Segais, on the plain of Mag Mell, on the island of Tir Na nÓg, ruled by the giant Fomórach, will live forever. His age hangs heavy upon him, and he may soon look to his filius to fetch him some of that water. He currently benefits from a +13 Longevity Ritual bonus, but he is aware that his age is outstripping his ability to hold nature at bay.
-
-#### Conchobor Crosach of House Merinita
-
-While Lugh lives at the top of the tower, Conchobor has his sanctum and laboratory beneath ground amid the cellars and the cisterns, and it has been many years since he has left the covenant. It is here that he holds council with Túatha Dé Danann princes and ambassadors, deep underground away from the light. Conchobor considers that these links to the Túatha Dé Danann make him Longmist’s natural leader.
-
-As with Lugh, Conchobor is an isolationist, but his concerns stop at the covenant gates; let Hibernia look to itself and let those who would assault Longmist look to their chances. He is allied with the Túatha Dé Danann and shares their enmity toward the Fir Bolg and the distorted giant Fomorach.
-
-He can be a demanding man and deeply suspicious of the motives of his fellow magi. A Twilight episode stripped his Parma Magica’s power to protect him from the social effects of The Gift, meaning he quickly became suspicious and distrustful of magi and their kind.
-
-Conchobor is also the covenant’s Praefectus, which gives him nominal charge over the security of the covenant’s lands outside the Aegis of the Hearth. In recent years, he has been extending this influence to cover any resources originating outside the covenant, including its vis sources and stocks.
-
-His Nature Lore (Underworld) Virtue (as per *Houses of Hermes: Mystery Cults*, [page 103](#page-103)) covers all the tunnels beneath Longmist and the extended valley, and all the creatures and faeries found within.
-
-He benefits from a +12 Longevity Ritual bonus.
-
-#### The Younger Magi
-
-There are four younger magi at Longmist. These are designed to be taken up as player characters and all are within a few years’ age from each other.
-
-#### Cailleach Dhé Dherg of House Verditius
-
-With her red hair, Cailleach Dhé Dherg is a striking presence in the covenant, though often admonished for going about with her hair uncovered. She is referred to as the Cailleach by magi and covenfolk alike. She is the only maga currently at Longmist, and in fact her apprenticeship there was the cause of much argument between the elder magi of the time. Her parens, Tadhg an Tuir, held firm against the Longmist council, despite their approaches to magi of House Bonisagus.
-
-She is fascinated by the bronze man standing in the covenant’s courtyard. It is the result of Verditius mysteries and she wants to learn how to repair and awaken it, something she anticipates will take her beyond the covenant walls; as her parens realized, Longmist has little future in isolation. The bronze man is close to being irreparable, so time is now of the essence and the outside world beckons.
-
-The Cailleach has spent the last two years investing time into both her laboratory and her new talisman. Her laboratory now has a great forge capable of withstanding magically-intense temperatures and she has refined it to suit her own way of working. Lugh-éccnaid has seen her handiwork and is not impressed, believing that her design strays from that expected of a Longmist maga.
-
-The Cailleach spent some of her macgnímartha as a laboratory assistant to an itinerant magus of House Verditius called Peter, time she spent learning more of her House’s secrets ahead of her Initiations.
-
-#### Dara Connachtach of The Younger House
-
-The youngest of the magi and the most recently gauntleted, Dara is often treated as an inexperienced junior, despite being just three years younger than the Cailleach.
-
-Once apprenticed to Lugh, Dara is one of the Corrguineach (Houses of Hermes: Societates, [page 109](#page-109)), and as such he summons, bargains with, and controls elemental spirits. He has also spent some time among the druids of Connacht and even the Fir Bolg.
-
-> ### Designing Your Own Magi
->
-> You could create your own magi instead of using the four younger magi described here, and there are specific story roles that could be filled:
->
-> The maga **Cailleach Dhé Dherg** provides an impetus to explore Longmist’s Verditius heritage and could be a focus for rebuilding the covenant’s magical assets.
->
-> The magus **Dara Connachtach** provide a cultural link back to Connacht, providing reasons for either exploring that province outright or at least in reestablishing links to the hedge wizards and druids who live there.
->
-> As a member of **House Merinita**, Eochaid Dubh provides an obvious link between the covenant and the faeries found across the valley and beyond.
->
-> **Mícheál Amhreaidh** has a responsibility to the covenant. He represents covenant tradition as passed down through the generations. As such, he is an obvious future leader, one who may need to balance progress with tradition.
->
-> These places within the covenant’s story are independent of whether the individual magi want to maintain their seclusion or participate again within the Tribunal and they are independent of their view of the magi arriving from the continent. Magi with strong views on those subjects also enhance story potential at Longmist.
-
-<!-- p. 105 --><a id="page-105"></a>
 
 #### Lugh-éccnaid
 
@@ -7911,39 +7828,49 @@ Attunements:
 - Staff: +4 Control things at a distance
 - Staff: +4 Destroy things at a distance
 
-<!-- p. 106 --><a id="page-106"></a>
+> ### Covenant Summary
+>
+> Longmist was built with a budget of 2165 Build Points, distributed as described below.
+>
+> | Resource | Build Points |
+> |---|---|
+> | Enchanted Devices & Laboratories | 502 |
+> | Library & Laboratory Texts | 1089 |
+> | Money & Wealth | 30 |
+> | Specialists & Teachers | 286 |
+> | Vis Sources & Stocks | 278 |
+>
+> Most of the covenant’s vis is in the form of stocks built up across the centuries rather than in a reliable yearly income.
 
-During his macgnímartha or “beardless years”, he took to traveling with a man called Brea, schooled in spirits. Against his advice, and at the prompting of bravado, Dara summoned a spirit that he could not then control. The spirit, angry and powerful, attacked the pair. While Dara ran and escaped the druid lost his life to the spirit. Dara has not told anyone within Longmist of this secret shame.
+> ### Past Magi
+>
+> Many magi have called Longmist home, but only six remain. So what happened to the others? Here are some notable magi, the years they were active at Longmist, and notes on their fates.
+>
+> | Magus | Years | Notes |
+> |---|---|---|
+> | Niall of the Younger House | 927 – 1011 | Founder of Longmist, negotiated peace with the druids. |
+> | Fergus of Merinita | 927 – 1014 | Founder of Longmist, forged the alliance with the Túatha Dé Danann. |
+> | Hannewalt on Bar | 937 – 1049 | First of the Tytalus lineage to join Longmist. He came from England and brought with him magic and rituals for perceiving and crossing boundaries. |
+> | Marcus Cordo of Flambeau | 967 – 1002 | The only Flambeau to have joined Longmist, killed along with his apprentice during the Bjornaer raid that claimed the shield of Cú Chulainn. |
+> | Cearnach of Verditius | 978 – 1064 | Faerie-blooded smith who brought the Verditius lineage to Longmist. Wielded the blade that took the Bjornaer pelt that now serves as the covenant’s Cathach. Retired to Verdi on training an apprentice to continue the line. |
+> | Astwick of Bonisagus | 1027 – 1070 | Suspected of sharing the covenant’s magical secrets with others. He was ultimately forced from the covenant, but he took his written works and researches with him, spending the rest of his days cloistered in Durenmar. While he trained an apprentice during his years at Longmist, no remnant of his lineage remains. |
+> | Faventinus of Verditius | 1087 – 1164 | Creator of the Bronze Man automaton that stands in the covenant courtyard. It was once assumed that his magic died with him when he succumbed to Final Twilight. |
+> | Calvacius of Tytalus | 1125 – 1218 | Parens to Mícheál Amhreaidh, he disappeared from the covenant two years ago. Conchobor’s investigations showed that Calvacius had fallen into Final Twilight. |
+> | Tadhg an Tuir of Verditius | 1128 – 1218 | Parens to the Cailleach, Tadhg died nearly two years ago after his Longevity Ritual failed. He suffered an aging crisis from which no magic could pull him back. He is buried at Qui Sonant Pro Quieto. |
 
-He respects and fears his parens, and knows about the books that Lugh has written, but does not share Lugh’s view of the Order.
+#### Conchobor Crosach of House Merinita
 
-#### Eochaid Dubh of House Merinita
+While Lugh lives at the top of the tower, Conchobor has his sanctum and laboratory beneath ground amid the cellars and the cisterns, and it has been many years since he has left the covenant. It is here that he holds council with Túatha Dé Danann princes and ambassadors, deep underground away from the light. Conchobor considers that these links to the Túatha Dé Danann make him Longmist’s natural leader.
 
-Once apprenticed to Conchobor, Eochaid is an accomplished illusionist, and he has so far eschewed the Merinita Mysteries in favor of improving his understanding of Imaginem. Uncertain how much further he has to travel on that path, he is now coming round to the idea of learning more about his Merinita heritage.
+As with Lugh, Conchobor is an isolationist, but his concerns stop at the covenant gates; let Hibernia look to itself and let those who would assault Longmist look to their chances. He is allied with the Túatha Dé Danann and shares their enmity toward the Fir Bolg and the distorted giant Fomorach.
 
-Eochaid is easily led and has a weakness for music and carousing. He is frequently forced to eat his meals separately from the other magi as punishment for joining the covenfolk in their carouse.
+He can be a demanding man and deeply suspicious of the motives of his fellow magi. A Twilight episode stripped his Parma Magica’s power to protect him from the social effects of The Gift, meaning he quickly became suspicious and distrustful of magi and their kind.
 
-He has no talisman or familiar, but he has enhanced his laboratory in preparation. He has gained the attention of a mundane magpie that frequently visits him while he works. Eochaid risks further punishment by bringing scraps of food to his chambers for the bird, but he considers the company to be worth it.
+Conchobor is also the covenant’s Praefectus, which gives him nominal charge over the security of the covenant’s lands outside the Aegis of the Hearth. In recent years, he has been extending this influence to cover any resources originating outside the covenant, including its vis sources and stocks.
 
-He spent much of his macgnímartha as a drunkard, carousing his way around Hibernia. His drinking combined with the effect of The Gift upon his drinking partners placed him in harm’s way more than once.
+His Nature Lore (Underworld) Virtue (as per *Houses of Hermes: Mystery Cults*, [page 103](#page-103)) covers all the tunnels beneath Longmist and the extended valley, and all the creatures and faeries found within.
 
-Although familiar with the Túatha Dé Danann, he does not trust their motives.
-
-#### Mícheál Amhreaidh of House Tytalus
-
-Mícheál is the covenant’s Censor, or master of rituals, and in a covenant that strongly promotes communal spell-casting, Mícheál leads the communions.
-
-Unlike the other magi of Longmist, who are all nominally Christian, Mícheál has been taught a different path, one of veneration to the goddess Domnu. Rationally, he understands the power of the Dominion and understands that the entity he knows as Domnu is one of the primal Kosmokrators (*Realms of Power: Magic*, [page 109](#page-109)) and as such subject to a greater power, but through years of tuition and study he accepts his faith in her power.
-
-He believes that the old magics of Ireland hold promise for the future and would like one day to see them integrated with Magic Theory, if not by his hand then perhaps under his sponsorship.
-
-His future talisman is a circlet of silver, into which are embedded numerous jewels and precious stones, a crown purportedly from the old times. It has been owned by generations of the covenant’s Censors, each disenchanting it before passing it to the next so that they may attune it as their own talisman. Mícheál views his wardship of the crown as an honor and is keen to design his own effects one day to increase its growing lore.
-
-<!-- p. 107 --><a id="page-107"></a>
-
-He spent his macgnímartha traveling between old pagan sites across Hibernia, and his devotion to the old religion is known across the Tribunal. A decisive moment happened during this time: he was found and set-upon by Longmist’s traditional enemies; a covenant of Bjornaer magi. Gravely wounded, he was eventually rescued by a Fir Bolg war band. He has held a deep antipathy for all Bjornaer magi since then.
-
-His role as Censor makes him responsible for ensuring that the other younger magi behave as expected.
+He benefits from a +12 Longevity Ritual bonus.
 
 #### Conchobor
 
@@ -8104,23 +8031,19 @@ It has been designed with a base effect of 4; we are using the base effect norma
 
 (Effect: Base 4, +1 Touch, +2 Sun, +1 Special Target; Modifications: +2 for 6/day, +8 for +16 Penetration)
 
-## Notable Covenfolk
+#### The Younger Magi
 
-Longmist has few covenfolk. Most are growing old without issue and slowly succumbing to Warping. Those who remain have split loyalties, and while they nominally function together, Longmist’s descent into winter means that little is done without explicit guidance from the magi.
+There are four younger magi at Longmist. These are designed to be taken up as player characters and all are within a few years’ age from each other.
 
-### Companions
+#### Cailleach Dhé Dherg of House Verditius
 
-Given the covenant’s isolation, there are only two companion characters currently associated with Longmist.
+With her red hair, Cailleach Dhé Dherg is a striking presence in the covenant, though often admonished for going about with her hair uncovered. She is referred to as the Cailleach by magi and covenfolk alike. She is the only maga currently at Longmist, and in fact her apprenticeship there was the cause of much argument between the elder magi of the time. Her parens, Tadhg an Tuir, held firm against the Longmist council, despite their approaches to magi of House Bonisagus.
 
-#### Bran in Gai Móir
+She is fascinated by the bronze man standing in the covenant’s courtyard. It is the result of Verditius mysteries and she wants to learn how to repair and awaken it, something she anticipates will take her beyond the covenant walls; as her parens realized, Longmist has little future in isolation. The bronze man is close to being irreparable, so time is now of the essence and the outside world beckons.
 
-Bran is the turb captain responsible for ensuring that the grogs carry out their duties. He is distrustful of Conchobor’s allies so naturally favors Lugh.
+The Cailleach has spent the last two years investing time into both her laboratory and her new talisman. Her laboratory now has a great forge capable of withstanding magically-intense temperatures and she has refined it to suit her own way of working. Lugh-éccnaid has seen her handiwork and is not impressed, believing that her design strays from that expected of a Longmist maga.
 
-He is married to Ailbhe, a woman eight years his junior, but they are childless. Bran blames the magi, suspecting that they have enchanted him in some way. As he is not yet subject to a Longevity Ritual, their childlessness is nothing to do with that particular enchantment. As loyal as he has been, his resentment is growing and he might soon confront them. When he does, the magi may feel the need to research fertility magic in order to help.
-
-He has been trained in the Clesa by Úathach of the Túatha Dé Danann. These supernatural feats of martial prowess have been used in Ireland since before the times of Cú Chulainn in the age of legend. More details on the Clesa can be found in The Contested Isle: The Hibernian Tribunal.
-
-<!-- p. 108 --><a id="page-108"></a>
+The Cailleach spent some of her macgnímartha as a laboratory assistant to an itinerant magus of House Verditius called Peter, time she spent learning more of her House’s secrets ahead of her Initiations.
 
 #### The Cailleach
 
@@ -8233,7 +8156,15 @@ Attunements:
 - Lamp: +7 Produce light
 - Lamp: +4 Create fire
 
-<!-- p. 109 --><a id="page-109"></a>
+#### Dara Connachtach of The Younger House
+
+The youngest of the magi and the most recently gauntleted, Dara is often treated as an inexperienced junior, despite being just three years younger than the Cailleach.
+
+Once apprenticed to Lugh, Dara is one of the Corrguineach (Houses of Hermes: Societates, [page 109](#page-109)), and as such he summons, bargains with, and controls elemental spirits. He has also spent some time among the druids of Connacht and even the Fir Bolg.
+
+During his macgnímartha or “beardless years”, he took to traveling with a man called Brea, schooled in spirits. Against his advice, and at the prompting of bravado, Dara summoned a spirit that he could not then control. The spirit, angry and powerful, attacked the pair. While Dara ran and escaped the druid lost his life to the spirit. Dara has not told anyone within Longmist of this secret shame.
+
+He respects and fears his parens, and knows about the books that Lugh has written, but does not share Lugh’s view of the Order.
 
 #### Dara Connachtach
 
@@ -8306,6 +8237,36 @@ As per Demon’s Eternal Oblivion, described in [**ArM5**, page 160](<Ars Magica
 
 (Base, +2 Voice)
 
+> ### Designing Your Own Magi
+>
+> You could create your own magi instead of using the four younger magi described here, and there are specific story roles that could be filled:
+>
+> The maga **Cailleach Dhé Dherg** provides an impetus to explore Longmist’s Verditius heritage and could be a focus for rebuilding the covenant’s magical assets.
+>
+> The magus **Dara Connachtach** provide a cultural link back to Connacht, providing reasons for either exploring that province outright or at least in reestablishing links to the hedge wizards and druids who live there.
+>
+> As a member of **House Merinita**, Eochaid Dubh provides an obvious link between the covenant and the faeries found across the valley and beyond.
+>
+> **Mícheál Amhreaidh** has a responsibility to the covenant. He represents covenant tradition as passed down through the generations. As such, he is an obvious future leader, one who may need to balance progress with tradition.
+>
+> These places within the covenant’s story are independent of whether the individual magi want to maintain their seclusion or participate again within the Tribunal and they are independent of their view of the magi arriving from the continent. Magi with strong views on those subjects also enhance story potential at Longmist.
+
+<!-- p. 105 --><a id="page-105"></a>
+
+<!-- p. 106 --><a id="page-106"></a>
+
+#### Eochaid Dubh of House Merinita
+
+Once apprenticed to Conchobor, Eochaid is an accomplished illusionist, and he has so far eschewed the Merinita Mysteries in favor of improving his understanding of Imaginem. Uncertain how much further he has to travel on that path, he is now coming round to the idea of learning more about his Merinita heritage.
+
+Eochaid is easily led and has a weakness for music and carousing. He is frequently forced to eat his meals separately from the other magi as punishment for joining the covenfolk in their carouse.
+
+He has no talisman or familiar, but he has enhanced his laboratory in preparation. He has gained the attention of a mundane magpie that frequently visits him while he works. Eochaid risks further punishment by bringing scraps of food to his chambers for the bird, but he considers the company to be worth it.
+
+He spent much of his macgnímartha as a drunkard, carousing his way around Hibernia. His drinking combined with the effect of The Gift upon his drinking partners placed him in harm’s way more than once.
+
+Although familiar with the Túatha Dé Danann, he does not trust their motives.
+
 #### Eochaid Dubh
 
 Characteristics: Int +2, Per 0, Pre 0, Com 0, Str 0, Sta +1, Dex +2, Qik 0
@@ -8365,35 +8326,21 @@ Spells Known:
 
 \*\* Major Magical Focus applied
 
-<!-- p. 110 --><a id="page-110"></a>
+#### Mícheál Amhreaidh of House Tytalus
 
-#### Éamonn Cruittire
+Mícheál is the covenant’s Censor, or master of rituals, and in a covenant that strongly promotes communal spell-casting, Mícheál leads the communions.
 
-Éamonn Cruittire mac Aindileas Uí hEódhasa comes from the line of Baile Uí Eódhasa, magical Ulaidh bards, or filídh. Like his forefathers, he has the power to enchant others through his storytelling, a power that has been passed from father to son. He has spent many years memorizing stories, mostly of ancient battles, feuds, and conflicts, and taking them to the people of Ulaid.
+Unlike the other magi of Longmist, who are all nominally Christian, Mícheál has been taught a different path, one of veneration to the goddess Domnu. Rationally, he understands the power of the Dominion and understands that the entity he knows as Domnu is one of the primal Kosmokrators (*Realms of Power: Magic*, [page 109](#page-109)) and as such subject to a greater power, but through years of tuition and study he accepts his faith in her power.
 
-Éamonn’s family have long been associated with Longmist, an association he values highly, but while he finds Conchobor unsettling, he distrusts Lugh far more. The young bard views the magi with some confusion and condescension; he is unable to understand their adherence to their staid way of life, and scornful of their dismissal of music in their tower. Still, he has great affection for the remaining villagers who serve Longmist, and he is happy to continue his association while they remain. In addition, he enjoys the influence he has over his friend Eochaid.
+He believes that the old magics of Ireland hold promise for the future and would like one day to see them integrated with Magic Theory, if not by his hand then perhaps under his sponsorship.
 
-### Teachers
+His future talisman is a circlet of silver, into which are embedded numerous jewels and precious stones, a crown purportedly from the old times. It has been owned by generations of the covenant’s Censors, each disenchanting it before passing it to the next so that they may attune it as their own talisman. Mícheál views his wardship of the crown as an honor and is keen to design his own effects one day to increase its growing lore.
 
-There are two covenfolk particularly useful as teachers or trainers. These are the monk Columb Brathair and the blacksmith Cathal Gobha. They cost 183 Build Points between them.
+<!-- p. 107 --><a id="page-107"></a>
 
-#### Columb Brathair, The Penitent Monk
+He spent his macgnímartha traveling between old pagan sites across Hibernia, and his devotion to the old religion is known across the Tribunal. A decisive moment happened during this time: he was found and set-upon by Longmist’s traditional enemies; a covenant of Bjornaer magi. Gravely wounded, he was eventually rescued by a Fir Bolg war band. He has held a deep antipathy for all Bjornaer magi since then.
 
-A fallen priest, Columb’s diabolic excesses were finally discovered by Calvacius and Tadhg an Tuir of Longmist. He threw himself on their mercy and, for reasons that remain unclear, the magi stayed their hand and brought him back to the covenant where he now acts as priest and confessor.
-
-He is 70 years old, though he appears 65, with the protection of a Longevity Ritual with a –4 bonus. He has Communication of +1, Teaching (Infernal Lore) of 6, and both Infernal and Dominion Lore of 8. He costs 15 Build Points. The library contains a Laboratory Text for his Longevity Ritual. As described below, a further 108 Build Points were spent to outfit his chapel.
-
-#### Cathal Gobha, the Blacksmith
-
-Cathal is 40 years old and has been under the protection of a Longevity Ritual for the last five years. Warping has made him Offensive to Animals, so he tends to leave any farrier work to his son for fear of spooking the horses. Unfortunately, consistent with the sense of lethargy across the covenant, Cathal’s forge is rarely active.
-
-<!-- p. 111 --><a id="page-111"></a>
-
-He has Communication of 1, Teaching (Blacksmith) of 6, and a Craft: Blacksmith of 8. He costs 15 Build Points. The library contains a Laboratory Text for his Longevity Ritual.
-
-His workshop costs 45 Build Points as it has been enhanced to provide an Innovation Score of +3 and a Raw Materials Score of +2, both of which are added to the craftsman’s Workshop Total as described in [City & Guild, page 65](<Ars Magica 5e - City & Guild.md#workshop-innovation>). This allows him to create Superior quality goods.
-
-His son (Cináed mac Cathail) is his only apprentice. See below for more details on Cináed.
+His role as Censor makes him responsible for ensuring that the other younger magi behave as expected.
 
 #### Mícheál Amhreaidh
 
@@ -8478,6 +8425,22 @@ Spells Known:
 > | Piercing the Faerie Veil | InVi20 | [**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#piercing-the-faerie-veil>) / [Definitive Edition, page 367](<Ars Magica - Definitive Edition (Core Rules).md#piercing-the-faerie-veil>) |
 > | Haunt of the Living Ghost | CrIm35 | [**ArM5**, page 144](<Ars Magica 5e - Core Rules.md#haunt-of-the-living-ghost>) / [Definitive Edition, page 348](<Ars Magica - Definitive Edition (Core Rules).md#haunt-of-the-living-ghost>) |
 
+## Notable Covenfolk
+
+Longmist has few covenfolk. Most are growing old without issue and slowly succumbing to Warping. Those who remain have split loyalties, and while they nominally function together, Longmist’s descent into winter means that little is done without explicit guidance from the magi.
+
+### Companions
+
+Given the covenant’s isolation, there are only two companion characters currently associated with Longmist.
+
+#### Bran in Gai Móir
+
+Bran is the turb captain responsible for ensuring that the grogs carry out their duties. He is distrustful of Conchobor’s allies so naturally favors Lugh.
+
+He is married to Ailbhe, a woman eight years his junior, but they are childless. Bran blames the magi, suspecting that they have enchanted him in some way. As he is not yet subject to a Longevity Ritual, their childlessness is nothing to do with that particular enchantment. As loyal as he has been, his resentment is growing and he might soon confront them. When he does, the magi may feel the need to research fertility magic in order to help.
+
+He has been trained in the Clesa by Úathach of the Túatha Dé Danann. These supernatural feats of martial prowess have been used in Ireland since before the times of Cú Chulainn in the age of legend. More details on the Clesa can be found in The Contested Isle: The Hibernian Tribunal.
+
 #### Bran in Gai Móir
 
 Characteristics: Int 0, Per 0, Pre 0, Com 0, Str +1, Sta 0, Dex +2, Qik +2
@@ -8527,6 +8490,87 @@ Appearance: Bran is a tall man, long-limbed and standing a head taller than most
 Faeborchless is a Cles learned from Úathach, a faerie resident at the Hibernian covenant of Leth Cuinn. This gives Bran the power to throw his shield or weapon in such a way that he can defend a number of characters equal to his Single or Great Weapon Ability, as appropriate.
 
 He must make a Dexterity + Single/ Great Weapon feat check against an Ease Factor of 9. If successful, the characters are defended and his shield or weapons return to his hands. If the roll fails, he must retrieve his weapons, which could potentially leave him defenseless.
+
+<!-- p. 108 --><a id="page-108"></a>
+
+<!-- p. 109 --><a id="page-109"></a>
+
+<!-- p. 110 --><a id="page-110"></a>
+
+#### Éamonn Cruittire
+
+Éamonn Cruittire mac Aindileas Uí hEódhasa comes from the line of Baile Uí Eódhasa, magical Ulaidh bards, or filídh. Like his forefathers, he has the power to enchant others through his storytelling, a power that has been passed from father to son. He has spent many years memorizing stories, mostly of ancient battles, feuds, and conflicts, and taking them to the people of Ulaid.
+
+Éamonn’s family have long been associated with Longmist, an association he values highly, but while he finds Conchobor unsettling, he distrusts Lugh far more. The young bard views the magi with some confusion and condescension; he is unable to understand their adherence to their staid way of life, and scornful of their dismissal of music in their tower. Still, he has great affection for the remaining villagers who serve Longmist, and he is happy to continue his association while they remain. In addition, he enjoys the influence he has over his friend Eochaid.
+
+#### Éamonn Cruittire
+
+Characteristics: Int +1, Per 0, Pre +2, Com +3, Str –1, Sta 0, Dex 0, Qik 0
+
+Size: 0
+
+Age: 27 (27)
+
+Decrepitude: 0
+
+Warping Score: 0 (4)
+
+Confidence: 1 (3)
+
+Virtues and Flaws: Bard\*; Bardic Education\*\*, Enchanting Storytelling\*\*\*, Free Expression, Sidhe Blood; Dependent\*\*\*\*; Carefree
+
+Personality Traits: Confident +3, Friendly +2, Extroverted +1
+
+Combat:
+
+- Dodge: Init +0, Attack n/a, Defense +2, Damage n/a
+- Fist: Init +0, Attack +3, Defense +3, Damage –1
+- Knife: Init +0, Attack +3, Defense +2, Damage +1
+- Bludgeon: Init –1, Attack +4, Defense +2, Damage +1
+
+Soak: 0
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Ulaid 3 (personalities), Art of Memory 3 (poetry), Awareness 3 (alertness), Brawl 2 (fist), Carouse 2 (drinking songs), Charm 4 (first impressions), Enchanting Storytelling 5 (love), Folk Ken 3 (peasants), Gaelic 5 (storytelling), Legerdemain 4 (“magic” tricks), Organization Lore: Covenant of Longmist 1 (personalities), Organization Lore: Uí hEódhasa 1 (history), Poet 2 (The Ulaidh Cycle), Storyteller 5 (heroic battles), Survival 1 (roadside)
+
+Equipment: Good quality clothes
+
+Encumbrance: 1 (1)
+
+Appearance: Éamonn is a handsome young man who clearly carries the refinement of the Sidhe in his blood. With his sparkling blue eyes, bouncy blond hair, and easy smile, he is every father’s nightmare and every husband’s fear.
+
+\* *The Contested Isle: The Hibernian Tribunal*, [page 117](#page-117)
+
+\*\* *The Contested Isle: The Hibernian Tribunal*, [page 116](#page-116)
+
+\*\*\* *The Contested Isle: The Hibernian Tribunal*, [page 116](#page-116). Functionally identical to Enchanting Music, but using stories instead of music.
+
+\*\*\*\* His mother has depended on Éamonn for money since an illness left her weak some years ago, so without Éamonn she may lose her home.
+
+### Teachers
+
+There are two covenfolk particularly useful as teachers or trainers. These are the monk Columb Brathair and the blacksmith Cathal Gobha. They cost 183 Build Points between them.
+
+#### Columb Brathair, The Penitent Monk
+
+A fallen priest, Columb’s diabolic excesses were finally discovered by Calvacius and Tadhg an Tuir of Longmist. He threw himself on their mercy and, for reasons that remain unclear, the magi stayed their hand and brought him back to the covenant where he now acts as priest and confessor.
+
+He is 70 years old, though he appears 65, with the protection of a Longevity Ritual with a –4 bonus. He has Communication of +1, Teaching (Infernal Lore) of 6, and both Infernal and Dominion Lore of 8. He costs 15 Build Points. The library contains a Laboratory Text for his Longevity Ritual. As described below, a further 108 Build Points were spent to outfit his chapel.
+
+#### Cathal Gobha, the Blacksmith
+
+Cathal is 40 years old and has been under the protection of a Longevity Ritual for the last five years. Warping has made him Offensive to Animals, so he tends to leave any farrier work to his son for fear of spooking the horses. Unfortunately, consistent with the sense of lethargy across the covenant, Cathal’s forge is rarely active.
+
+<!-- p. 111 --><a id="page-111"></a>
+
+He has Communication of 1, Teaching (Blacksmith) of 6, and a Craft: Blacksmith of 8. He costs 15 Build Points. The library contains a Laboratory Text for his Longevity Ritual.
+
+His workshop costs 45 Build Points as it has been enhanced to provide an Innovation Score of +3 and a Raw Materials Score of +2, both of which are added to the craftsman’s Workshop Total as described in [City & Guild, page 65](<Ars Magica 5e - City & Guild.md#workshop-innovation>). This allows him to create Superior quality goods.
+
+His son (Cináed mac Cathail) is his only apprentice. See below for more details on Cináed.
 
 ### Specialists
 
@@ -8670,53 +8714,6 @@ Propraetor: Responsible for maintaining relations with outside covenants, nobles
 <!-- p. 114 --><a id="page-114"></a>
 
 Magi holding one of these roles gains an additional vote at council upon matters pertaining to their responsibilities. A quorate council must be convened to elect a magus to one of these roles. The candidate(s) may not themselves vote, and the matter is treated as falling within the responsibility of each of the roles described above, allowing holders to cast a second vote.
-
-#### Éamonn Cruittire
-
-Characteristics: Int +1, Per 0, Pre +2, Com +3, Str –1, Sta 0, Dex 0, Qik 0
-
-Size: 0
-
-Age: 27 (27)
-
-Decrepitude: 0
-
-Warping Score: 0 (4)
-
-Confidence: 1 (3)
-
-Virtues and Flaws: Bard\*; Bardic Education\*\*, Enchanting Storytelling\*\*\*, Free Expression, Sidhe Blood; Dependent\*\*\*\*; Carefree
-
-Personality Traits: Confident +3, Friendly +2, Extroverted +1
-
-Combat:
-
-- Dodge: Init +0, Attack n/a, Defense +2, Damage n/a
-- Fist: Init +0, Attack +3, Defense +3, Damage –1
-- Knife: Init +0, Attack +3, Defense +2, Damage +1
-- Bludgeon: Init –1, Attack +4, Defense +2, Damage +1
-
-Soak: 0
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Ulaid 3 (personalities), Art of Memory 3 (poetry), Awareness 3 (alertness), Brawl 2 (fist), Carouse 2 (drinking songs), Charm 4 (first impressions), Enchanting Storytelling 5 (love), Folk Ken 3 (peasants), Gaelic 5 (storytelling), Legerdemain 4 (“magic” tricks), Organization Lore: Covenant of Longmist 1 (personalities), Organization Lore: Uí hEódhasa 1 (history), Poet 2 (The Ulaidh Cycle), Storyteller 5 (heroic battles), Survival 1 (roadside)
-
-Equipment: Good quality clothes
-
-Encumbrance: 1 (1)
-
-Appearance: Éamonn is a handsome young man who clearly carries the refinement of the Sidhe in his blood. With his sparkling blue eyes, bouncy blond hair, and easy smile, he is every father’s nightmare and every husband’s fear.
-
-\* *The Contested Isle: The Hibernian Tribunal*, [page 117](#page-117)
-
-\*\* *The Contested Isle: The Hibernian Tribunal*, [page 116](#page-116)
-
-\*\*\* *The Contested Isle: The Hibernian Tribunal*, [page 116](#page-116). Functionally identical to Enchanting Music, but using stories instead of music.
-
-\*\*\*\* His mother has depended on Éamonn for money since an illness left her weak some years ago, so without Éamonn she may lose her home.
 
 ### Life at Longmist
 
@@ -9073,6 +9070,38 @@ Erratically Mobile (Minor Site Hook): The Clan moves frequently, sometimes stayi
 
 Infamous (Minor External Relations Hook): The Clan Mac Tire is well-known by other covenants across Hibernia.
 
+#### Income
+
+The Clan makes what money it needs primarily from robbery, raiding, and in hiring its services to other magi and covenants. Their grogs are proficient enough thieves that they earn enough to pay for the provisions the covenant needs.
+
+#### Mobile Laboratories
+
+Each of the Mac Tire magi has a similar laboratory designed to be packed away for easy transport by the team of servants and soldiers in their employ. As these laboratories usually include the magus’ living quarters they have significant downsides, something that the younger magi in the covenant frequently complain about.
+
+**Names Added to Sanctum Marker:** None
+
+**Characteristics:** Size +0 (0), Refinement +0, General Quality +0, Upkeep –1, Safety –2, Warping +0, Health –5, Aesthetics –3
+
+**Virtues & Flaws:** Lesser Feature (cauldron), Living Quarters, Mobile, Specimens, Servant; Hovel
+
+**Specializations:** +1 Animal, +2 Experimentation, +1 Mentem
+
+The servant (with Intelligence +2) is a learned clerk who sees to the needs of the magi in their laboratories. He does a good job for the magi but his loyalty is born of fear rather than attachment.
+
+### Mundane Relations
+
+The days of entertaining kings and princes are long since gone. There are no hunts in the nearby woodland, no trade in enchanted items, and nobody comes seeking the wisdom of the druids any more. The only mundane relations now are through the goods sold at market, the travelers over the toll bridge, and the jealous eyes of those who weigh up the grogs that guard the bridge and think that they could take it from them. If the magi of Longmist are not careful, they may soon find their grogs overrun and the toll-bridge lost.
+
+The market town of Inniskil is the closest the covenant gets to interacting with the outside world. Fish is sold at the market by the covenant’s teamsters, and this funds the purchase of food and other supplies. Some of the merchants know the nature of the covenant, but most believe it is some kind of monastery or hermitage.
+
+### Ruadan mac Goibhniu
+
+Ruadan is a prince and druid of the Túatha Dé Danann, descended from Goibhniu the smith of ancient legend. He has the same power of crafting and enchantment as his forebear, but it is his counsel that benefits the covenant more than his magic. He acts as a mediator between the covenant and the faerie world, providing guidance on the covenant’s interactions with the fae. His soldiers are also responsible for guarding the covenant’s cathach against raids from other covenants.
+
+His right to sit at the council is enshrined in the covenant charter and his principal ally is Conchobor. Like Conchobor, he calls for the isolation of the valley to be maintained and to let the world outside do as it will. In fact, where his counsel is sought upon various matters, he takes the line that maintains the covenant’s isolation.
+
+While he rarely plots against the covenant as a whole, he has in the past worked against individual magi where their activities might either take them away from the valley or bring others to it. His reasons are currently unknown.
+
 #### Ruadan mac Goibhniu
 
 Ruadan mac Goibhniu is not designed as a player character.
@@ -9147,38 +9176,6 @@ R: Touch, D: Moon, T: Individual<br>
 Poisons the target’s mind with inconsolable loss that lasts for a Moon. The effects are debilitating, requiring a Personality Roll against Ease Factor 9 to hold the thoughts back for a day. Failure imposes a –3 penalty on all totals.
 
 (Effect: Base 4, +1 Touch, +3 Moon; Modifications: +25 for +50 Penetration)
-
-#### Income
-
-The Clan makes what money it needs primarily from robbery, raiding, and in hiring its services to other magi and covenants. Their grogs are proficient enough thieves that they earn enough to pay for the provisions the covenant needs.
-
-#### Mobile Laboratories
-
-Each of the Mac Tire magi has a similar laboratory designed to be packed away for easy transport by the team of servants and soldiers in their employ. As these laboratories usually include the magus’ living quarters they have significant downsides, something that the younger magi in the covenant frequently complain about.
-
-**Names Added to Sanctum Marker:** None
-
-**Characteristics:** Size +0 (0), Refinement +0, General Quality +0, Upkeep –1, Safety –2, Warping +0, Health –5, Aesthetics –3
-
-**Virtues & Flaws:** Lesser Feature (cauldron), Living Quarters, Mobile, Specimens, Servant; Hovel
-
-**Specializations:** +1 Animal, +2 Experimentation, +1 Mentem
-
-The servant (with Intelligence +2) is a learned clerk who sees to the needs of the magi in their laboratories. He does a good job for the magi but his loyalty is born of fear rather than attachment.
-
-### Mundane Relations
-
-The days of entertaining kings and princes are long since gone. There are no hunts in the nearby woodland, no trade in enchanted items, and nobody comes seeking the wisdom of the druids any more. The only mundane relations now are through the goods sold at market, the travelers over the toll bridge, and the jealous eyes of those who weigh up the grogs that guard the bridge and think that they could take it from them. If the magi of Longmist are not careful, they may soon find their grogs overrun and the toll-bridge lost.
-
-The market town of Inniskil is the closest the covenant gets to interacting with the outside world. Fish is sold at the market by the covenant’s teamsters, and this funds the purchase of food and other supplies. Some of the merchants know the nature of the covenant, but most believe it is some kind of monastery or hermitage.
-
-### Ruadan mac Goibhniu
-
-Ruadan is a prince and druid of the Túatha Dé Danann, descended from Goibhniu the smith of ancient legend. He has the same power of crafting and enchantment as his forebear, but it is his counsel that benefits the covenant more than his magic. He acts as a mediator between the covenant and the faerie world, providing guidance on the covenant’s interactions with the fae. His soldiers are also responsible for guarding the covenant’s cathach against raids from other covenants.
-
-His right to sit at the council is enshrined in the covenant charter and his principal ally is Conchobor. Like Conchobor, he calls for the isolation of the valley to be maintained and to let the world outside do as it will. In fact, where his counsel is sought upon various matters, he takes the line that maintains the covenant’s isolation.
-
-While he rarely plots against the covenant as a whole, he has in the past worked against individual magi where their activities might either take them away from the valley or bring others to it. His reasons are currently unknown.
 
 #### Giants
 
@@ -9295,6 +9292,70 @@ If it can be coaxed back to its normal functioning, the device can follow instru
 
 The Bronze Man costs 48 Build Points. Similar automata had been created to open and close the main gates on command, but these are broken. There was once also a bronze bull, the prize of Longmist’s herd, but that has not been seen for many years.
 
+#### The Bronze Man
+
+The automaton has been opened with 17 pawns of vis and a total of 14 pawns have been used to invest the device with enchantments, leaving up to thirty levels that could still be invested into the device.
+
+Each of the invested powers operates as a constant effect, but the automaton responds to commands and is able to suspend operation of these powers.
+
+Magic Might: 17 (6)
+
+Characteristics: Int 0, Per 0, Pre 0, Com 0, Str +1, Sta 0, Dex +1, Qik 0
+
+Size: +2
+
+Combat:
+
+- Dodge: Init 0, Attack n/a, Defense 0, Damage n/a
+- Fist: Init 0, Attack +1, Defense 0, Damage +1
+- Bludgeon: Init 0, Attack +3, Defense 0, Damage +3
+
+Soak: +25 (bonus applied to Damage Checks, as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md>))
+
+Damage Levels: 4 (as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md>))
+
+Abilities: Craft: Blacksmith 5
+
+Powers:
+
+##### Freedom of Movement
+
+ReTe(Me) 29<br>
+Pen +0, Constant Effect<br>
+R: Personal, D: Sun, T: Part<br>
+The automaton is able to walk to places as directed by a human controller or to meet the needs of any other instructions. For such a large device, the automaton is careful to avoid causing damage to people or things around it.
+
+(Effect: Base 5, +2 Sun, +1 Part, +1 Mentem requisite; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
+
+##### Dexterity of the Master
+
+CrTe 29<br>
+Pen +0, Constant Effect<br>
+R: Personal, D: Sun, T: Part<br>
+This power gives the automaton a Dexterity of +1 as per the description in *Houses of Hermes: Mystery Cults*, [page 130](#page-130).
+
+(Effect: Base 10, +2 Sun, +1 Part; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
+
+##### Strength of the Master
+
+CrTe 29<br>
+Pen +0, Constant Effect<br>
+R: Personal, D: Sun, T: Part<br>
+This power gives the automaton a Strength of +1 as per the description in *Houses of Hermes: Mystery Cults*, [page 130](#page-130).
+
+(Effect: Base 10, +2 Sun, +1 Part; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
+
+##### The Master At Work
+
+ReTe(Me) 49<br>
+Pen +0, Constant Effect<br>
+R: Personal, D: Sun, T: Part<br>
+The automaton has been invested with the Craft: Blacksmith Ability to a score of 5.
+
+(Effect: Base 5, +2 Sun, +1 Part, +1 Mentem requisite, +4 for a score of 5; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
+
+Further information on the powers detailed above and their costs is available in *Houses of Hermes: Mystery Cults*, [page 129](#page-129).
+
 ##### The Observance Bell
 
 There was a time when the covenfolk did not have to wake at all hours and ring the great bell for their masters’ convenience. Once upon a time, magic did that task for them, but the magic in the bell died nearly forty years ago. Nobody is quite sure why and as long as there are covenfolk to ring the bell by hand the magi have expressed no interest in finding out.
@@ -9365,40 +9426,6 @@ Texts marked with an asterisk are written in vernacular Gaelic. All other texts 
 
 <!-- p. 124 --><a id="page-124"></a>
 
-> ### The Blade that Slew the Wolf
->
-> This great sparra, a traditional Irish ax, is the weapon that slew Ualgrimm, giving Longmist its Cathach. Its laboratory texts are now lost. The sparra stands five feet tall, and has a long gently curved haft of rowan wood, and a narrow protruding iron head, which is etched with Irish knotwork and Hermetic symbols inlaid with silver. It has seen the ministrations of a skilled Verditius, which has improved its combat statistics.
->
-> Hannewalt of Tytalus created the sparra and his sigil expresses in these effects through an arc of mist that trails the head when it is swung.
->
-> Bran is currently the only man able to wield the sparra to good effect, but he is not routinely armed with it.
->
-> The sparra has the following combat statistics:
->
-> | Ability | Init | Atk | Dfn | Dam | Str | Load |
-> | --- | --- | --- | --- | --- | --- | --- |
-> | Great Sparra | Great | +1 | +10 | 0 | +11 | +12 |
->
-> ##### Death with Each Blow
->
-> PeAn 38<br>
-> Pen +40, 6/day<br>
-> R: Touch, D: Momentary, T: Individual<br>
-> If the effect penetrates a beast’s Magic Resistance, it is instantly struck with a Medium wound in addition to any wound that the ax blow itself causes.
->
-> (Base 10, +1 Touch; +3 6/day, +20 for +40 Penetration)
->
-> ##### Dull the Stamina of the Wolf
->
-> PeAn 31<br>
-> Pen +40, 6/day<br>
-> R: Touch, D: Momentary, T: Individual<br>
-> Triggered when the linked *Death with Each Blow* effect penetrates, this effect fatigues the target animal, causing the beast to lose a Fatigue Level.
->
-> (Base 4, +1 Touch; +3 triggered by Death with Each Blow, +3 for 6/day, +20 for +40 Penetration)
->
-> The sparra costs 28 Build Points.
-
 Aelfric, *De Initio Creaturae*, Dominion Lore Tractatus, Quality 9. Part of a volume that also provides a Tractatus on Infernal Lore. (9BP)
 
 The Monks of Llancarfan, *The Llancarfan Saints’ Lives*, Dominion Lore Tractatus, Quality 6. As a twelfth-century book, this is evidence that trade was still occurring in the last fifty or so years. (6BP)
@@ -9447,69 +9474,39 @@ Cearnach of Verditius, *Magister Crystállum Pilum*, The Crystal Dart Spell Mast
 
 Marcus Cordo, *Multa Partum Vulnera*, The Wound that Weeps Spell Mastery, Quality 8. (8BP)
 
-#### The Bronze Man
-
-The automaton has been opened with 17 pawns of vis and a total of 14 pawns have been used to invest the device with enchantments, leaving up to thirty levels that could still be invested into the device.
-
-Each of the invested powers operates as a constant effect, but the automaton responds to commands and is able to suspend operation of these powers.
-
-Magic Might: 17 (6)
-
-Characteristics: Int 0, Per 0, Pre 0, Com 0, Str +1, Sta 0, Dex +1, Qik 0
-
-Size: +2
-
-Combat:
-
-- Dodge: Init 0, Attack n/a, Defense 0, Damage n/a
-- Fist: Init 0, Attack +1, Defense 0, Damage +1
-- Bludgeon: Init 0, Attack +3, Defense 0, Damage +3
-
-Soak: +25 (bonus applied to Damage Checks, as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md>))
-
-Damage Levels: 4 (as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md>))
-
-Abilities: Craft: Blacksmith 5
-
-Powers:
-
-##### Freedom of Movement
-
-ReTe(Me) 29<br>
-Pen +0, Constant Effect<br>
-R: Personal, D: Sun, T: Part<br>
-The automaton is able to walk to places as directed by a human controller or to meet the needs of any other instructions. For such a large device, the automaton is careful to avoid causing damage to people or things around it.
-
-(Effect: Base 5, +2 Sun, +1 Part, +1 Mentem requisite; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
-
-##### Dexterity of the Master
-
-CrTe 29<br>
-Pen +0, Constant Effect<br>
-R: Personal, D: Sun, T: Part<br>
-This power gives the automaton a Dexterity of +1 as per the description in *Houses of Hermes: Mystery Cults*, [page 130](#page-130).
-
-(Effect: Base 10, +2 Sun, +1 Part; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
-
-##### Strength of the Master
-
-CrTe 29<br>
-Pen +0, Constant Effect<br>
-R: Personal, D: Sun, T: Part<br>
-This power gives the automaton a Strength of +1 as per the description in *Houses of Hermes: Mystery Cults*, [page 130](#page-130).
-
-(Effect: Base 10, +2 Sun, +1 Part; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
-
-##### The Master At Work
-
-ReTe(Me) 49<br>
-Pen +0, Constant Effect<br>
-R: Personal, D: Sun, T: Part<br>
-The automaton has been invested with the Craft: Blacksmith Ability to a score of 5.
-
-(Effect: Base 5, +2 Sun, +1 Part, +1 Mentem requisite, +4 for a score of 5; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
-
-Further information on the powers detailed above and their costs is available in *Houses of Hermes: Mystery Cults*, [page 129](#page-129).
+> ### The Blade that Slew the Wolf
+>
+> This great sparra, a traditional Irish ax, is the weapon that slew Ualgrimm, giving Longmist its Cathach. Its laboratory texts are now lost. The sparra stands five feet tall, and has a long gently curved haft of rowan wood, and a narrow protruding iron head, which is etched with Irish knotwork and Hermetic symbols inlaid with silver. It has seen the ministrations of a skilled Verditius, which has improved its combat statistics.
+>
+> Hannewalt of Tytalus created the sparra and his sigil expresses in these effects through an arc of mist that trails the head when it is swung.
+>
+> Bran is currently the only man able to wield the sparra to good effect, but he is not routinely armed with it.
+>
+> The sparra has the following combat statistics:
+>
+> | Ability | Init | Atk | Dfn | Dam | Str | Load |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Great Sparra | Great | +1 | +10 | 0 | +11 | +12 |
+>
+> ##### Death with Each Blow
+>
+> PeAn 38<br>
+> Pen +40, 6/day<br>
+> R: Touch, D: Momentary, T: Individual<br>
+> If the effect penetrates a beast’s Magic Resistance, it is instantly struck with a Medium wound in addition to any wound that the ax blow itself causes.
+>
+> (Base 10, +1 Touch; +3 6/day, +20 for +40 Penetration)
+>
+> ##### Dull the Stamina of the Wolf
+>
+> PeAn 31<br>
+> Pen +40, 6/day<br>
+> R: Touch, D: Momentary, T: Individual<br>
+> Triggered when the linked *Death with Each Blow* effect penetrates, this effect fatigues the target animal, causing the beast to lose a Fatigue Level.
+>
+> (Base 4, +1 Touch; +3 triggered by Death with Each Blow, +3 for 6/day, +20 for +40 Penetration)
+>
+> The sparra costs 28 Build Points.
 
 <!-- p. 125 --><a id="page-125"></a>
 
@@ -10094,6 +10091,8 @@ Stories center around the Clan’s attempts to retrieve Ualgrimm’s pelt, throu
 
 Given his traumatic personal experience with the Clan, Mícheál should be a central character in stories concerning the Clan mac Tire.
 
+Stories around the Clan mac Tire arise from the Contested Resource Hook.
+
 > ### Loyalty
 >
 > The covenfolk are currently surprisingly loyal, with a Prevailing Loyalty value of 0. Using the rules on age 36 of Covenants, we get a base loyalty of –42.5 based on the Gifts of the member magi, which is modified to zero as the covenant has been around for so long and the covenfolk have grown up around their influence. The only one of the three mundane offices that have been filled is that of the Turb Captain and he provides a +5 bonus. The covenant has a zero Living Conditions bonus for covenfolk, however, as the covenant is particularly austere it does impose a –1 penalty. This gives a total of 4 loyalty points, which is not quite enough to buy a Loyalty Score of one.
@@ -10110,8 +10109,6 @@ Given his traumatic personal experience with the Clan, Mícheál should be a cen
 > Furthermore, zero is simply the prevailing loyalty. Across numerous interactions with Lugh and Conchobor, not to mention the younger magi, the covenfolk may find themselves ignored or abused, each of which reduces their loyalty.
 >
 > In order to reverse this trend, the covenant can employ a steward and a chamberlain, both of whom help to improve the prevailing loyalty.
-
-Stories around the Clan mac Tire arise from the Contested Resource Hook.
 
 #### Alliance with the Túatha Dé Danann
 
@@ -10132,6 +10129,8 @@ Eochaid, The Cailleach, and Dara specifically all have views at odds with both L
 The Cailleach, if she is to repair the bronze man, needs to find a Verditius master to teach her the mystery of automatons and for that she needs to venture outside of Longmist. Eochaid can see little value in the persistent adherence to the rule and may challenge the control the covenant has over what they study and even how they conduct themselves.
 
 <!-- p. 133 --><a id="page-133"></a>
+
+These stories arise from the Seclusion and Superiors Hooks.
 
 > ### Covenant Finances
 >
@@ -10167,8 +10166,6 @@ The Cailleach, if she is to repair the bronze man, needs to find a Verditius mas
 > Longmist is located in the north-east of Hibernia, in the land of the Ulaidh, but with a little work the covenant can be moved to another Tribunal. The central themes discussed at the start of this chapter can also be adapted. For instance, the division within the covenant between embracing the outsiders and preparing for conflict with them can be replaced with both sides of the Harmonist-Wilderist debate prevalent in the Rhine. Their isolation may come from relocating the covenant to the cold Alpine mountains, or to the Holy Land.
 >
 > The Cathach has a particular importance in Hibernia, but even in other Tribunals, the retention of the pelt of a slain Bjornaer magus is a provocative act. Those who consider themselves Ualgrimm’s descendants still want to avenge this insult and still work toward reclaiming the trophy, either through their own powers or through allies.
-
-These stories arise from the Seclusion and Superiors Hooks.
 
 #### Expelling Foreign Magi from Hibernia
 
@@ -10229,11 +10226,6 @@ At the turn of the millennium Autumn approached, and the Schism War was the cove
 Toward the end of the 12th century, Collem Leonis was seen by outsiders as entering Winter, but the dwindling number of resident magi did not realize this until later. When they did, they worked arduously, but to no avail, to push back to Autumn, and several of them simply gave up and relocated. Those who remained represented Houses Bonisagus, Bjornaer, Flambeau, and Tremere, and they agreed to train one last generation of apprentices and then leave those youngsters the reins. Ferra never took an apprentice, as she entered a long Twilight episode soon after the plan was set in motion. As the apprentices approached their respective gauntlets, the old magi saw a major threat building up from the portal: a known Norse lindorm had grown large enough to dare attack. After his filius Tiberius swore the Code, the ever-valiant Scipio entered the portal for one glorious last stand, never to be heard from again. As the feared attack of the lindorm failed to come, he was credited with success. Freki’s mater Oda retired to Crintera, but she occasionally lets her displeasure be known. Baliana’s pater Marcellus took to the roads, but spends the colder parts of the year in Durenmar. Julia’s pater Renardus retired to Coeris. Upon returning from Twilight Ferra decided to stay on at Collem Leonis in a purely advisory capacity to live out her final years.
 
 <!-- p. 135 --><a id="page-135"></a>
-
-- City
-- Covenant
-- Major River
-- Road
 
 The young generation took on the challenge of taking over a degenerating ruin, hoping that the decaying shell hid gems of old lore and power. As the Tribunal of 1221 approaches, they hope to suffer little political interference or resistance, allowing them to concentrate on rebuilding, finding the old resources, and consolidating the power of the once-proud Collem Leonis covenant of Sauerland. They need to find their niche in the internal politics of their centuries-old covenant, and learn to live with the single old and powerful magus who wants to mold his successors according to a strategy planned without the participation of the new generation.
 
@@ -10851,10 +10843,6 @@ Geri is a local lad, quiet to the point of being sullen and with a dark view on 
 
 Paul has served Collem Leonis for quite a few years and is the sort of archetypal grog who seems to always be on watch when something odd happens or an important visitor arrives. There is also a tendency for him to always accompany the magi on those expeditions which turn out to be sufficiently dramatic to be remembered afterward. He is a skilled fighter and an even more apt sentry, with the endurance and discipline to stay awake and fully alert all night long.
 
-#### The Rest of the Turb
-
-Statistics for the remaining grogs can be taken from the templates in [**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#grogs>) / [Definitive Edition, page 26](<Ars Magica - Definitive Edition (Core Rules).md#grogs>), or Grogs, pages 87–143. The latest potential recruit is the feisty, redheaded tomboy Erika, 13-year-old daughter of Johanna the Autocrat, who enjoys roughing it and fighting, and certainly has a flair for it.
-
 #### Paul the Spearman
 
 Characteristics: Int –1, Per +2, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1
@@ -10898,6 +10886,10 @@ Equipment: Quilted armor, Dagger, Short spear
 Encumbrance: 1 (2)
 
 Appearance: A nondescript grog wearing a faded green tunic with the covenant’s symbol prominently displayed on its chest. He looks fit, perceptive, and disciplined. His left arm is often bandaged or set in a sling, forcing him to perform most tasks one handed.
+
+#### The Rest of the Turb
+
+Statistics for the remaining grogs can be taken from the templates in [**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#grogs>) / [Definitive Edition, page 26](<Ars Magica - Definitive Edition (Core Rules).md#grogs>), or Grogs, pages 87–143. The latest potential recruit is the feisty, redheaded tomboy Erika, 13-year-old daughter of Johanna the Autocrat, who enjoys roughing it and fighting, and certainly has a flair for it.
 
 <!-- p. 144 --><a id="page-144"></a>
 
@@ -11094,10 +11086,6 @@ Faeries pretending to be various Nordic gods roam the area influencing how the v
 
 The Ability Area Lore: Collem Leonis Portals covers knowledge of both the history and properties of the Magic and Faerie regiones. Characters can study this Ability from the records of previous events and research by earlier magi. This is the method that was used to keep watch and predict events before they unfurled, so as to be better prepared. A character actively keeping watch decides on the period she wants to cover, and how long she will spend looking for signs. The watcher makes a stress roll of Int + Area Lore: Collem Leonis Portals against an Ease Factor of 15, but higher results yield additional information and details. A number of modifiers also apply as outlined later. The results of a successful roll are shown on the table.
 
-> ### Is This Really Jotunheim?
->
-> Maybe. There are magical giants, a tie to Norway, and physical similarities. Many of the giants know runic magic, and the leaders are full-fledged Vitkar as described in [Hedge Magic Revised Edition, pages 120–141](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#vitkar-magic>). The giants also refer to themselves as “Jotunn”. Earlier magi at Collem Leonis have seen no reason to doubt their assessment.
-
 Prediction Roll: Stress Roll of Int + Area Lore: Collem Leonis Portals
 
 Modifiers:
@@ -11122,6 +11110,10 @@ Modifiers:
 Characters with Premonitions may attempt to learn about the portals using their Supernatural Ability. Use the same Ease Factors, but with no modifiers. Characters with Visions may receive visions about the portals, at the storyguide’s discretion.
 
 Monitoring the portals in this way does not need any magical ability, and is a poor use of a maga’s time. Unfortunately, at present there is no one in the covenant who understands the portals well enough to even attempt predictions.
+
+> ### Is This Really Jotunheim?
+>
+> Maybe. There are magical giants, a tie to Norway, and physical similarities. Many of the giants know runic magic, and the leaders are full-fledged Vitkar as described in [Hedge Magic Revised Edition, pages 120–141](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#vitkar-magic>). The giants also refer to themselves as “Jotunn”. Earlier magi at Collem Leonis have seen no reason to doubt their assessment.
 
 #### Magical Regio: Jotunheim
 
@@ -11743,6 +11735,10 @@ Agnes is a minor forest spirit who was bound voluntarily to Holzstein’s labora
 
 This strangely shaped yew tree looks like a person. Two trunks form his legs, a mass of tangled branches constitute his body, a stump where the top snapped off long ago has facial features, and his arms are made up of long branches with smaller growths only where his talon-like fingers reach out. Golden resin spills out from cracks, which can be harvested at the end of each season for 2 pawns of Corpus vis each time. The Man in the Woods is worth 40 Build Points.
 
+> ### Story Seed: Lost Laboratory
+>
+> The Man in the Woods was a source of Corpus vis for the covenant, and is recorded, along with Holzstein’s remote laboratory, and its transfer to his descendants. Research in the records is enough to reveal the general location, but not details of how to enter the regio, nor of what lies within. A research roll that beats an Ease Factor of 15 hints that there was some sort of allied spirit, but the records have no details on Agnes. She initially uses her powers to dissuade characters from entering, although she avoids harming, much less killing, them. If she is treated well and politely, she can easily be talked around. If not, collecting the vis is difficult, and the laboratory cannot be used.
+
 #### The Armoire of Excess
 
 The device is a large, intricately carved cabinet of flawless walnut wood, a work of art in itself. It has been prepared with 10 paws of vis, 6 of which are used for the single effect listed here. The armoire is worth 22 Build Points.
@@ -11750,10 +11746,6 @@ The device is a large, intricately carved cabinet of flawless walnut wood, a wor
 This item has not been lost, exactly. Rather, something became stuck between one of the doors and its frame, making it impossible to open. As the two doors must be opened together to activate the magic, it can no longer be used. This happened decades ago; the servants were too scared of breaking the item to try to fix it, and the magi were too wrapped up in their own concerns. The cabinet is now used to store other things, and none of the current servants even remember what it used to do.
 
 The covenant records reveal the existence of this item, and Intellego Vim is the fastest way to find it, once the magi know that they should be looking.
-
-> ### Story Seed: Lost Laboratory
->
-> The Man in the Woods was a source of Corpus vis for the covenant, and is recorded, along with Holzstein’s remote laboratory, and its transfer to his descendants. Research in the records is enough to reveal the general location, but not details of how to enter the regio, nor of what lies within. A research roll that beats an Ease Factor of 15 hints that there was some sort of allied spirit, but the records have no details on Agnes. She initially uses her powers to dissuade characters from entering, although she avoids harming, much less killing, them. If she is treated well and politely, she can easily be talked around. If not, collecting the vis is difficult, and the laboratory cannot be used.
 
 <!-- p. 157 --><a id="page-157"></a>
 
@@ -11795,6 +11787,8 @@ A Second Spring covenant features many elements similar to a Spring setting: the
 ### Covenant Themes
 
 Collem Leonis’ main theme is of an old and once-powerful place with a sense of purpose and a common cause for the magi to work together on. Metaphorically speaking, the young magi find themselves on the parapet of a ruined tower, gazing over a land of possibilities and great wonder. On the horizon loom other powers, with the potential to become allies, enemies, rivals, or possibly spell doom. If the magi put too much emphasis on rebuilding relationships, the hall falls to ruin and they have nowhere to retreat if they meet stiff opposi- tion. Too much emphasis on their home allows other forces to monopolize the area, and the covenant may be left with nothing.
+
+The uncontrolled portals tie the covenant in to the unexplored frontier of Scandinavia, good for exploring the lands, searching for the Order of Odin or other traditions, hunting for vis or magical beasts, and researching the regiones themselves. In the local area the expansion of the mundane population creates potential for more interaction with the nobility, the church, and the guilds of bustling towns. At the same time, the forgotten covenant steps from the mists of time into a struggle to claim a place and a purpose among the current Rhine covenants, most of which are much younger but more powerful.
 
 <!-- p. 158 --><a id="page-158"></a>
 
@@ -11839,8 +11833,6 @@ Collem Leonis’ main theme is of an old and once-powerful place with a sense of
 > Gorm can alter the appearance of his followers to look less like Norse warriors from several centuries ago and more like current, local forces, and he wears any heraldry they ask him to, acting out any identity they choose. Cunning plans, deception, and show of force may deter any enemies or rivals who are currently engaging in plots or campaigns that the covenant would like to disrupt without taking direct action themselves.
 
 <!-- p. 159 --><a id="page-159"></a>
-
-The uncontrolled portals tie the covenant in to the unexplored frontier of Scandinavia, good for exploring the lands, searching for the Order of Odin or other traditions, hunting for vis or magical beasts, and researching the regiones themselves. In the local area the expansion of the mundane population creates potential for more interaction with the nobility, the church, and the guilds of bustling towns. At the same time, the forgotten covenant steps from the mists of time into a struggle to claim a place and a purpose among the current Rhine covenants, most of which are much younger but more powerful.
 
 ### Player Character Roles at Collem Leonis
 

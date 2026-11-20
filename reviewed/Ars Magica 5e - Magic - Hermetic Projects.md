@@ -2666,15 +2666,15 @@ After the season spent constructing the gallery and improving the drainage (to r
 
 **Specializations:** +10 Ships, +1 Enchanting Items, +1 Rego, +1 Auram
 
+This is the last stage in the construction of the Hermetic Shipyard, a task that has taken 11 seasons, assuming one each for the Soak and the Wheel, from breaking the ground on the new shipyard to completing the gallery.
+
+The laboratory suffers for its specialization, with penalties to Safety, Health, and Aesthetics, but these could be further improved with additional work. The final build cost for this laboratory is 214 points.
+
 > ### The Shipyard as Mundane Workshop
 >
 > While the magus improves his laboratory to enhance its magical qualities, the craftsman improves the mundane aspects of his workshop to improve the quality of his craftsmanship. But a Hermetic shipwright is concerned not only about enchantment, but also about the quality of the vessels his shipyard produces. Ideally, the magus will want to improve both aspects of his shipyard.
 >
 > As the magus accounts for his time differently to a mundane craftsman, in seasons of activity rather than Labor Points, it is most convenient to have a mundane shipwright work with the magus. This mundane shipwright can be treated as a specialist supported by the magus or his covenant. The mundane shipwright earns Labor Points as described in *City & Guild*, and the excess, beyond those required to sustain him, can be put to improving the workshop or shipyard in this case.
-
-This is the last stage in the construction of the Hermetic Shipyard, a task that has taken 11 seasons, assuming one each for the Soak and the Wheel, from breaking the ground on the new shipyard to completing the gallery.
-
-The laboratory suffers for its specialization, with penalties to Safety, Health, and Aesthetics, but these could be further improved with additional work. The final build cost for this laboratory is 214 points.
 
 ## The Hermetic Shipwright
 

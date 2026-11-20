@@ -15,7 +15,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0291
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -286,14 +286,6 @@ Aedh reveals his story to the magi, honestly telling them all he knows. He is an
 The situation in Ulster is tense. The English occupiers of conquered Ulster are preparing for an invasion. Not against the indigenous Irish, but against Hugh de Lacy, another English lord returning to reclaim the earldom of Ulster. Aedh’s father, Cathal Ua Conchobair (anglicized Cathal O’Connor), plans to ally with de Lacy. Aedh planned to lead a group of warriors against the English garrison of Dundrum. The castle is being renovated and is particularly vulnerable. He had a force gathered, but the witch caused them to turn against Aedh. He gathered another, smaller force, but on the eve of the attack the same witch visited him and led him away. Thinking she was offering some type of recompense or bargain, he followed, only to arrive at the covenant. If he can return as quickly as he left, he can still attack Dundrum while it is being renovated, and asks the characters for their help.
 
 The prince leads the assembled characters to a place previously unnoticed by the covenant — a giant tree that acts as a portal to a peripheral area of the Magic Realm. The group travels a path through two magical boundaries into the Twilight Void, and eventually into the province of Ulster on the eastern shore of Northern Ireland.
-
-- Dundrum
-- Barracks Hall
-- Stable
-- Tower Keep
-- Dundrum Castle
-- The Pool of Wisdom
-- Dundrum Bay
 
 <!-- p. 9 --><a id="page-9"></a>
 
@@ -2941,6 +2933,10 @@ Encumbrance: 4 (4)
 
 Appearance: Hermann usually appears dressed in the Hospitaller uniform, consisting of a black, tightly fitting monk habit with an eight-pointed white cross sewn on the breast and mantle. He also wears a white coif over his head, or on more formal occasions, a white skull-cap that covers his ears. When traveling or in cold weather, Hermann wears a black cloak with the white cross embroidered on the breast. Hermann is privileged to possess a full suit of mail armor; most of the brother-knights and brother-sergeants have only half-suits, since the best armor is sent to the Holy Land.
 
+Hermann is a fearsome warrior, although now that he is aging, he is not as quick on his feet as he once was. A blow to the head during a skirmish in the Holy Land several years ago has severely impaired his hearing, although he is able to compensate by reading people’s lips and body language. Hermann is a humble man, and is truly pious. His veneration of the poor is sincere, and he sees his own poverty as a holy thing.
+
+Hermann also benefits from a Magic Resistance of 30 due to the relic of St. Ubaldesca he carries on his person (see nearby insert box for more details). He is aware of the relic’s mass-healing power, but does not call upon it frivolously.
+
 <!-- p. 75 --><a id="page-75"></a>
 
 #### St. Ubaldesca
@@ -2978,10 +2974,6 @@ St. Ubaldesca generally performs a miracle once a year on her feast day — typi
 > ### The Finger Bone of St. Ubaldesca
 >
 > The relic carried by Hermann of Cologne is a finger bone of St. Ubaldesca from the hand that first miraculously turned water into wine. As a major relic, it has a power that it can regularly bestow upon its owner. It has a True Faith score of 3 and a Divine Might of 30, which grants Hermann a Magic Resistance score of 30 when he carries the relic. It also possesses the *Mass Healing* power of St. Ubaldesca. Like all relics, the finger bone radiates an aura that is anathema to infernal beings with a radius of 30 feet. Infernal creatures with an Infernal Might of less than 30 are unable to enter the radius, and infernal creatures that can approach the relic take +30 damage each round that they remain close to the relic.
-
-Hermann is a fearsome warrior, although now that he is aging, he is not as quick on his feet as he once was. A blow to the head during a skirmish in the Holy Land several years ago has severely impaired his hearing, although he is able to compensate by reading people’s lips and body language. Hermann is a humble man, and is truly pious. His veneration of the poor is sincere, and he sees his own poverty as a holy thing.
-
-Hermann also benefits from a Magic Resistance of 30 due to the relic of St. Ubaldesca he carries on his person (see nearby insert box for more details). He is aware of the relic’s mass-healing power, but does not call upon it frivolously.
 
 #### Prior Fulk of Tyre
 
@@ -3359,22 +3351,6 @@ Eleanor has the trust of a number of the Hospitallers, so could be a potential a
 
 <!-- p. 83 --><a id="page-83"></a>
 
-> ### Eleanor’s Magical Devices
->
-> Eleanor of Mercere carries the following items:
->
-> ##### Ring of Highland Ken
-> InTe 25<br>
-> Pen 0, constant effect<br>
-> R: Touch, D: Sun, T: Vision<br>
-> This ring, when worn, works as the Hermetic spell *Eyes of the Treacherous Terrain*, [**ArM5** page 153](<Ars Magica 5e - Core Rules.md#eyes-of-the-treacherous-terrain>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#eyes-of-the-treacherous-terrain>). This ring was a gift from her parens when she completed her Gauntlet.
->
-> ##### St. Peter’s Rhombus
-> PeVi 35<br>
-> Pen 0, 1/day<br>
-> R: Voice, D: Mom, T: Room<br>
-> As per *Wind of Mundane Silence*, [**ArM5** page 161](<Ars Magica 5e - Core Rules.md#wind-of-mundane-silence>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#wind-of-mundane-silence>), with a level 15 effect. This magical device was named for St. Peter, who according to legend dispelled the magic of Simon Magus. The rhombus must be whirled or spun in the air to activate the device. It was given to Eleanor by a grateful arch-magus several months before she became ill.
-
 Characteristics: Int +1 Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex 0, Qik 0
 
 Size: 0
@@ -3413,6 +3389,22 @@ Appearance: Eleanor is a sandy-haired young woman with a slender build and brill
 Eleanor can turn into a lynx thanks to her Skinchanger Virtue. Her traits when transformed as a lynx are modified as follows (for more details, see *Houses of Hermes: Mystery Cults*, [pages 38-43](#page-38)): Increase Dex and Qik to +2, decrease Size to –1, gain a +3 bonus to all rolls involving jumping, when using the senses of smell and hearing, and gain a +2 to all Hunt rolls. Eleanor would only transform into a lynx while in an urban area if her life were severely threatened and she needed to escape.
 
 Note that due to her illness, Eleanor is recovering from the equivalent of a Medium Wound. She is almost better, with only a few weeks left to her recovery, but still suffers from a –3 wound penalty.
+
+> ### Eleanor’s Magical Devices
+>
+> Eleanor of Mercere carries the following items:
+>
+> ##### Ring of Highland Ken
+> InTe 25<br>
+> Pen 0, constant effect<br>
+> R: Touch, D: Sun, T: Vision<br>
+> This ring, when worn, works as the Hermetic spell *Eyes of the Treacherous Terrain*, [**ArM5** page 153](<Ars Magica 5e - Core Rules.md#eyes-of-the-treacherous-terrain>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#eyes-of-the-treacherous-terrain>). This ring was a gift from her parens when she completed her Gauntlet.
+>
+> ##### St. Peter’s Rhombus
+> PeVi 35<br>
+> Pen 0, 1/day<br>
+> R: Voice, D: Mom, T: Room<br>
+> As per *Wind of Mundane Silence*, [**ArM5** page 161](<Ars Magica 5e - Core Rules.md#wind-of-mundane-silence>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#wind-of-mundane-silence>), with a level 15 effect. This magical device was named for St. Peter, who according to legend dispelled the magic of Simon Magus. The rhombus must be whirled or spun in the air to activate the device. It was given to Eleanor by a grateful arch-magus several months before she became ill.
 
 ## Expected Sequence of Play
 
@@ -3506,14 +3498,16 @@ The Priory of St. Ubaldesca is supported by a large number of farms and industri
 
 The Dominion aura in the priory varies from 3 to 5. Most of the priory complex has a rating of 4, with the refectory and stables having a Dominion of 3, and the chapel having an aura of 5. The aura has a Kind Temper (see *Realms* *of Power: The Divine*, [page 38-39](#page-38)), which invokes the feelings of love and goodwill in people. This has the effect of giving all people in the aura a “Divine Personality Trait” of “Kind” with a rating of +1, which adds to all Personality Trait rolls involving kindness, care, mercy, forgiveness, and generosity. It also acts as a penalty to all Personality Trait rolls that are associated with Envy (such as jealousy, cruelty, gossip, and gruffness).
 
-1. Keep
-2. Stables
-3. Chapel
-4. Hall
-5. Cells
-6. Nunnery
-7. Hospital
-8. Rectory
+> ### Map Key: Priory of St. Ubaldesca
+>
+> 1. Keep
+> 2. Stables
+> 3. Chapel
+> 4. Hall
+> 5. Cells
+> 6. Nunnery
+> 7. Hospital
+> 8. Rectory
 
 <!-- p. 87 --><a id="page-87"></a>
 
@@ -3639,19 +3633,21 @@ When he is able, Enrico immediately sends a servant to warn the Hospitallers of 
 
 There are several options available in negotiation with the Hospitallers, some more fruitful than others. The characters may, for example, seek assistance from the local secular authorities — the town’s mayor or lord — or the bishop. Alternatively, they may try to seek an audience with Priory Constable Hermann to see if they can bargain back their property.
 
-1. Foyer
-2. Reception Room
-3. Private Meeting Room
-4. Study
-5. Courtyard
-6. Kitchen
-7. Servants’ Quarters
-8. Storage
-9. Clerical Room
-10. Warehouse
-11. Master Bedroom
-12. Change Room
-13. Balcony
+> ### Map Key: Enrico’s House & Warehouse
+>
+> 1. Foyer
+> 2. Reception Room
+> 3. Private Meeting Room
+> 4. Study
+> 5. Courtyard
+> 6. Kitchen
+> 7. Servants’ Quarters
+> 8. Storage
+> 9. Clerical Room
+> 10. Warehouse
+> 11. Master Bedroom
+> 12. Change Room
+> 13. Balcony
 
 <!-- p. 91 --><a id="page-91"></a>
 
@@ -3948,6 +3944,8 @@ Lord Michael is the more ostentatiously difficult of these two. A graying warrio
 
 <!-- p. 101 --><a id="page-101"></a>
 
+In short, he’s an intellectually unremarkable ruffian in the clothes of a nobleman. He has clerks and lawyers working to undermine Martha’s position, but their lack of immediate success and lengthy explanations merely make him more impatient. Anyone seeming to work against his claim will trigger his anger, though he can keep it in check for a short period, and he has a number of thuggish soldiers at his command.
+
 > ### Dealing with the Neighbors
 >
 > The two hostile lords both command significant military forces, so direct assault isn’t likely to work against either of them, and wouldn’t be wise. Even if the characters could muster sufficient strength, a direct attack by mundane forces that injures or kills an acknowledged local lord will trigger a response from his overlord, other lords, and maybe even the crown; it looks like insurrection, and feudal lords are supposed to aid their vassals. If there’s any hint of magic involved, the response will receive very effective aid from the church, and Asmorn won’t be the only Quaesitor to show up asking pointed questions. If anyone mentions such ideas, Martha dismisses them as *stupid*. Characters who look set on such a course should hear grumbling from grogs and rational arguments from allies; the storyguide may also have Asmorn appear before the characters do anything too final, and explicitly warn them off.
@@ -3955,8 +3953,6 @@ Lord Michael is the more ostentatiously difficult of these two. A graying warrio
 > Michael and Roger might be deterred or even eliminated by more subtle means, including magic, but this could still be dangerous; Michael is tough and bull-headed, while Roger is shrewd, and neither is a coward. They also both have heirs, friends, or cronies who would seek to avenge them. A blatant magical attack would probably be catastrophic for Martha’s cause; a plausible accusation of sorcery could destroy her, and no one would believe that the assault wasn’t her idea. And *any* magic risks drawing the ire of Asmorn.
 >
 > Of course, Michael and Roger don’t like or trust *each other*. They may ally to deal with a shared problem, but they may also be played off. The idea that Martha was using sorcery would definitely unite them, though. Each hopes that the other will weaken and distract Martha without achieving anything conclusive, so they’re unwilling to act against each other unless one of them looks close to final victory.
-
-In short, he’s an intellectually unremarkable ruffian in the clothes of a nobleman. He has clerks and lawyers working to undermine Martha’s position, but their lack of immediate success and lengthy explanations merely make him more impatient. Anyone seeming to work against his claim will trigger his anger, though he can keep it in check for a short period, and he has a number of thuggish soldiers at his command.
 
 #### Lord Roger
 
@@ -5389,13 +5385,13 @@ The one thing that Herbert finds remarkable and worthwhile in the village is the
 
 <!-- p. 140 --><a id="page-140"></a>
 
+Several months ago, Herbert accidentally dropped the reliquary, which broke off a valuable jewel fixed prominently on top. He tried to reattach it, but has since hidden the gem and hides the damaged face of the reliquary. He is too afraid to seek anyone’s help to fix it, since he believes that the villagers would be furious with him. The gem itself is hidden under his mattress.
+
 > ### Setup
 >
 > This scenario requires that there be a suitably sized village close to the covenant, or within the covenant’s sphere of influence and interest. Nevertheless, the action could take place in larger villages, or even a town, with some changes.
 >
 > Similarly, Peter’s background and involvement in the Fourth Crusade is not necessary, especially if the troupe’s saga is set at an alternative time to the standard Ars Magica date of 1220. If set earlier, Peter could be a crusader returned from one of the earlier crusades. Similarly, Peter could have been a participant in the Reconquista so that the reliquary could be the magical device of a Muslim wizard, or he might have been a soldier in the Albigensian Crusade so the reliquary could come from a magus in the Provencal Tribunal.
-
-Several months ago, Herbert accidentally dropped the reliquary, which broke off a valuable jewel fixed prominently on top. He tried to reattach it, but has since hidden the gem and hides the damaged face of the reliquary. He is too afraid to seek anyone’s help to fix it, since he believes that the villagers would be furious with him. The gem itself is hidden under his mattress.
 
 Characteristics: Int +1, Per +2, Pre 0, Com +1, Str –1, Sta 0, Dex 0, Qik 0
 
@@ -5533,10 +5529,6 @@ Appearance: Michael has greasy shoulder-length hair, which is prematurely gray. 
 
 See the nearby insert for explanations of Michael’s Infernal Powers. Due to his Infernal Blessing Virtue, Michael has a Magic Resistance of 15. Michael’s Witch Marks Flaw is the cause of his older appearance.
 
-#### Benedict, Cultist
-
-Brought up on the streets of a nearby city, Benedict was an orphan who fell into the company of a desperate group of city thugs and thieves. He quickly became a heavy drinker and is prone to fits of rage. He committed his first murder over a misunderstanding, after finding his then-partner in the room of a fellow gang-member, killing them both. Since that day, he has sunk even lower; he became one of the leading heavies for an extortionist, who was being enthralled by a demon. Benedict was himself drawn into the demon’s influence.
-
 > ### Michael’s Maleficia
 >
 > Michael’s infernal powers — called maleficia — focus on controlling the weather and making bad weather worse. Although Michael’s powers are diverse (they are similar to Hermetic spontaneous magic), he does have a few maleficia that he relies on regularly. Troupes with access to *Realms of Power: The Infernal* should refer to [page 108](#page-108) for more details.
@@ -5581,6 +5573,10 @@ Brought up on the streets of a nearby city, Benedict was an orphan who fell into
 > With this power, the light of the moon and starlight at night is darkened to almost nothing, shrouding the land in darkness. With all natural light mostly extinguished, only artificial light can illuminate the affected land.
 >
 > (Base 2, +1 Touch, +2 Sun, +4 Boundary)
+
+#### Benedict, Cultist
+
+Brought up on the streets of a nearby city, Benedict was an orphan who fell into the company of a desperate group of city thugs and thieves. He quickly became a heavy drinker and is prone to fits of rage. He committed his first murder over a misunderstanding, after finding his then-partner in the room of a fellow gang-member, killing them both. Since that day, he has sunk even lower; he became one of the leading heavies for an extortionist, who was being enthralled by a demon. Benedict was himself drawn into the demon’s influence.
 
 <!-- p. 143 --><a id="page-143"></a>
 
@@ -6335,10 +6331,6 @@ These spirits of illness have a power, Diseased Possession (described in the nea
 
 Marsh Crows are cowardly, and obey if commanded by a more-powerful demon or its agent. They have an incredible knowledge of Medicine and are, if controlled, superb teachers of the subject. Becoming the student of a Marsh Crow, however, corrupts the student’s Medicine Ability (*Realms of Power: The Infernal*, [page 87](#page-87)).
 
-> ### New Power: Diseased Possession
->
-> *Diseased Possession*, 4 points, Init +2, Mentem: If this power penetrates, the Might points spent from the demon’s Might Pool enter the possessed target. The victim receives a Disease Avoidance roll, which, if successful, immediately expels the demon. The symptoms of the demon’s disease manifest immediately, but otherwise it progresses and is treated like a natural disease. These demons of disease must use all of their Might when possessing a target, as the demon must retain at least 1 point of Might in reserve to maintain possession of the victim. The demon cannot refresh the Might points used to possess the victim from its usual Might pool. If the demon is exorcized or destroyed with magic, the symptoms of the disease cease immediately, although any damage caused by the disease remains. The demon is expelled if the victim is cured of the disease by medical or magical means. See [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md>) for more details.
-
 Characteristics: Int –1, Per +1, Pre –3, Com 0, Str –3, Sta +1, Dex +3, Qik +3
 
 Order: Tempters
@@ -6380,6 +6372,10 @@ Vis: The left claw of a Marsh Crow provides 1 pawn of Corpus vis.
 <!-- p. 160 --><a id="page-160"></a>
 
 Appearance: Ragged crows with leering human eyes, they are never seen individually. They prefer to remain at a distance when in physical form, and are often seen as dark shapes flitting in the distance. Their presence on the marsh is unusual, as they usually remain close to Infernal auras. On an Intelligence + Area (Romney Marsh) Lore + Simple Die against an Ease Factor of 9, characters will find the presence of the crows strange as they are not natural marsh birds.
+
+> ### New Power: Diseased Possession
+>
+> *Diseased Possession*, 4 points, Init +2, Mentem: If this power penetrates, the Might points spent from the demon’s Might Pool enter the possessed target. The victim receives a Disease Avoidance roll, which, if successful, immediately expels the demon. The symptoms of the demon’s disease manifest immediately, but otherwise it progresses and is treated like a natural disease. These demons of disease must use all of their Might when possessing a target, as the demon must retain at least 1 point of Might in reserve to maintain possession of the victim. The demon cannot refresh the Might points used to possess the victim from its usual Might pool. If the demon is exorcized or destroyed with magic, the symptoms of the disease cease immediately, although any damage caused by the disease remains. The demon is expelled if the victim is cured of the disease by medical or magical means. See [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md>) for more details.
 
 ### The Vengeful Dead
 

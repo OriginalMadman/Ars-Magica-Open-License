@@ -7,7 +7,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0269
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Stat blocks and spells keep their fourth-edition fields and values; formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Stat blocks and spells keep their fourth-edition fields and values; formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -1969,6 +1969,12 @@ There are said to be 112 tribes of *jinn*, spread throughout the earth; it is th
 
 <!-- p. 88 --><a id="page-88"></a>
 
+***Shaytan*:** *Shaytans* are very ugly, and most members of the clan are infernally corrupted. Indeed, Iblis himself is also known by the name Shaytan. The *shaytans* control humans, tempting them to acts of evil or forcing them into situations of danger. However, among their number there are a few who, conscious of the behavior of most of their tribe, dedicate themselves to helping those in need. Common powers include Control Person, Control Element and Curse. Common Virtues and Flaws include Higher Purpose (+1), Compulsion (–1) — to good or evil, Disfigured (–1) and Driving Goal (–1) — to serve good or evil.
+
+<!-- p. 89 --><a id="page-89"></a>
+
+***Ghul*:** *Ghuls* (f. *ghula*) are almost invariably evil, and often infernally corrupted. Few have embraced Islam or any other faith. They are often carnivorous, with a particular taste for human flesh. They frequently take the shape of other creatures or objects, and will attempt to draw a human close to them before revealing their true nature and attacking. It is said that they must be killed with a single blow, for a second blow will restore them to life. Common powers include Shapechange to Animal and Shapechange to Object. Common Virtues and Flaws include Lightning Reflexes (+2), Compulsion (–1) or Weakness (–1) — eating human flesh, and Feral Upbringing (–3). Storyguides may wish to give some the power to be restored from injury by a second blow. See “al-Qatil” above for one version of this power.
+
 > ### Sample Jinn
 >
 > #### Amirat al-Jabal, Lady Emir of the Mountain
@@ -2005,9 +2011,7 @@ There are said to be 112 tribes of *jinn*, spread throughout the earth; it is th
 >
 > By accident, the characters harm one of Amirat al-Jabal’s charges. Furious, she hunts the characters down, seeking revenge or compensation. Her power makes her a dangerous opponent in combat, so negotiation would seem to be the preferable option. How will the characters talk their way out of this one?
 
-***Shaytan*:** *Shaytans* are very ugly, and most members of the clan are infernally corrupted. Indeed, Iblis himself is also known by the name Shaytan. The *shaytans* control humans, tempting them to acts of evil or forcing them into situations of danger. However, among their number there are a few who, conscious of the behavior of most of their tribe, dedicate themselves to helping those in need. Common powers include Control Person, Control Element and Curse. Common Virtues and Flaws include Higher Purpose (+1), Compulsion (–1) — to good or evil, Disfigured (–1) and Driving Goal (–1) — to serve good or evil.
-
-<!-- p. 89 --><a id="page-89"></a>
+<!-- p. 90 --><a id="page-90"></a>
 
 > ### Al-Qatil, The Slayer
 >
@@ -2050,10 +2054,6 @@ There are said to be 112 tribes of *jinn*, spread throughout the earth; it is th
 > #### Story Seed: A Rogue Element
 >
 > Al-Qatil disguises himself as a normal soldier and infiltrates the covenant’s grogs. He spreads discord among them, provoking internal strife and sowing the seeds of rebellion. To prevent a mutiny, the characters will have to investigate the problem and deal with the cause.
-
-***Ghul*:** *Ghuls* (f. *ghula*) are almost invariably evil, and often infernally corrupted. Few have embraced Islam or any other faith. They are often carnivorous, with a particular taste for human flesh. They frequently take the shape of other creatures or objects, and will attempt to draw a human close to them before revealing their true nature and attacking. It is said that they must be killed with a single blow, for a second blow will restore them to life. Common powers include Shapechange to Animal and Shapechange to Object. Common Virtues and Flaws include Lightning Reflexes (+2), Compulsion (–1) or Weakness (–1) — eating human flesh, and Feral Upbringing (–3). Storyguides may wish to give some the power to be restored from injury by a second blow. See “al-Qatil” above for one version of this power.
-
-<!-- p. 90 --><a id="page-90"></a>
 
 ### The Naddaha
 
@@ -2339,6 +2339,24 @@ Sharaf al-Din ‘Umar is the head of Aedes Veritatis. He became the head of the 
 
 <!-- p. 104 --><a id="page-104"></a>
 
+Physically, ‘Umar comes across as an unassuming man, of medium height and build, with black hair and a full beard. However, he is an eloquent speaker, and when he opens his mouth, few do not listen. ‘Umar dresses in black robes belted with a white sash, and wears a white turban on his head. He never goes anywhere without his staff, which carries enchantments of instantaneous travel and protection against weapons. As his mater was before him, ‘Umar is an elementalist and a devout Sunni Muslim. His concentration on the elements has caused him difficulty with some of the other Hermetic arts, most particularly Vim. When he was forced to remake his longevity potion for the second time, some years ago, he was only able to give it sufficient power by seeking out some rare and unusual ingredients. He realizes that this may become an ongoing problem, and so the continued search for unusual ingredients has become a personal quest.
+
+‘Umar has a secret, unknown even to his sodales at Aedes Veritatis. He is both a member of the Order of Hermes and a servant of the Ayyubid sultans. Should this ever be discovered by the Order, ‘Umar is likely to be Renounced. However, he is a powerful magus, and is likely to enlist the aid of other Muslim non-Hermetic magi, should this ever happen, so such Renunciation may not result in his death.
+
+> ### Story Seed: A Shadow from the Past
+>
+> Early on in his career ‘Umar was attacked by a Crusader magus, whom he defeated and killed. According to the Code of Hermes ‘Umar could be said to be guilty of a High Crime, slaying one of his sodales, and unfortunately there were no other witnesses to testify to the fact that ‘Umar was acting in self-defense. The covenant of Foothold (see below) learns of this ghost in ‘Umar’s past (maybe even from the Crusader magus’ ghost itself!) and seeks the player characters’ aid to capture him and make him answer to the quaesitores and the tribunal. Ultimately, they want him to be Renounced, which will weaken the counter-crusading magi. Will the characters follow the letter of the law and aid the magi from Foothold, or refuse to aid what is quite obviously a political maneuver?
+
+##### Amber the Golden
+
+Amber of Tremere joined the covenant in 1188, shortly after the Battle of Hattin and the reconquest of Jerusalem by the Muslims. She is now the second most senior member of the covenant, and a firm friend of ‘Umar’s. By nature she is fiercely independent, and so it is ironic that fate seems to have entwined her life with those of others. In addition to ‘Umar, her life is bound up with that of her parens, Catullus of Tremere, who treats her as his protegée, and her cat familiar, Luigi. Amber joined the covenant of Aedes Veritatis as she objected to House Tremere’s policy of support of the Crusades, which represented a control to which her independent spirit was not willing to submit. This brought her into disrepute with the senior members of the house, and it is only through the intervention of Catullus, himself a senior member of Coeris covenant, that she has not been “disciplined.” However, Catullus is now edging towards Final Twilight, so Amber will need to seek other allies soon. As for Luigi, he chose her as much as she chose him, and they support each other without cramping each others’ style.
+
+Physically, Amber is a strange-looking woman. Once, while making a potion during her apprenticeship, she mistakenly mixed two incompatible reagents. The resulting explosion sent her into temporary twilight, and left her with gold-colored skin, hair and eyes. She is of below-average height and lithe build. As a result of the bonding process with Luigi, her pupils are slitted. She has a natural aptitude with magic involving felines, and her general demeanor is equally cat-like. Amber usually wears a loose red robe, which is easy to remove when shapechanging, something that she does frequently. Her preferred forms are those of a cat or a leopard, and she has invented spells that allow her to adopt both. Luigi is an average-size cat, but his white fur is tipped with gold.
+
+##### Wardat al-Quds
+
+Wardat al-Quds is described in Chapter 6, on [page 67](#page-67).
+
 > ### Aedes Veritatis Statistics
 >
 > **Symbol:** A stylised house with the Arabic word *haqq* (Truth, or What is Right) in it
@@ -2423,24 +2441,6 @@ Sharaf al-Din ‘Umar is the head of Aedes Veritatis. He became the head of the 
 >
 > **Total Scores:** +62, –28
 
-Physically, ‘Umar comes across as an unassuming man, of medium height and build, with black hair and a full beard. However, he is an eloquent speaker, and when he opens his mouth, few do not listen. ‘Umar dresses in black robes belted with a white sash, and wears a white turban on his head. He never goes anywhere without his staff, which carries enchantments of instantaneous travel and protection against weapons. As his mater was before him, ‘Umar is an elementalist and a devout Sunni Muslim. His concentration on the elements has caused him difficulty with some of the other Hermetic arts, most particularly Vim. When he was forced to remake his longevity potion for the second time, some years ago, he was only able to give it sufficient power by seeking out some rare and unusual ingredients. He realizes that this may become an ongoing problem, and so the continued search for unusual ingredients has become a personal quest.
-
-‘Umar has a secret, unknown even to his sodales at Aedes Veritatis. He is both a member of the Order of Hermes and a servant of the Ayyubid sultans. Should this ever be discovered by the Order, ‘Umar is likely to be Renounced. However, he is a powerful magus, and is likely to enlist the aid of other Muslim non-Hermetic magi, should this ever happen, so such Renunciation may not result in his death.
-
-> ### Story Seed: A Shadow from the Past
->
-> Early on in his career ‘Umar was attacked by a Crusader magus, whom he defeated and killed. According to the Code of Hermes ‘Umar could be said to be guilty of a High Crime, slaying one of his sodales, and unfortunately there were no other witnesses to testify to the fact that ‘Umar was acting in self-defense. The covenant of Foothold (see below) learns of this ghost in ‘Umar’s past (maybe even from the Crusader magus’ ghost itself!) and seeks the player characters’ aid to capture him and make him answer to the quaesitores and the tribunal. Ultimately, they want him to be Renounced, which will weaken the counter-crusading magi. Will the characters follow the letter of the law and aid the magi from Foothold, or refuse to aid what is quite obviously a political maneuver?
-
-##### Amber the Golden
-
-Amber of Tremere joined the covenant in 1188, shortly after the Battle of Hattin and the reconquest of Jerusalem by the Muslims. She is now the second most senior member of the covenant, and a firm friend of ‘Umar’s. By nature she is fiercely independent, and so it is ironic that fate seems to have entwined her life with those of others. In addition to ‘Umar, her life is bound up with that of her parens, Catullus of Tremere, who treats her as his protegée, and her cat familiar, Luigi. Amber joined the covenant of Aedes Veritatis as she objected to House Tremere’s policy of support of the Crusades, which represented a control to which her independent spirit was not willing to submit. This brought her into disrepute with the senior members of the house, and it is only through the intervention of Catullus, himself a senior member of Coeris covenant, that she has not been “disciplined.” However, Catullus is now edging towards Final Twilight, so Amber will need to seek other allies soon. As for Luigi, he chose her as much as she chose him, and they support each other without cramping each others’ style.
-
-Physically, Amber is a strange-looking woman. Once, while making a potion during her apprenticeship, she mistakenly mixed two incompatible reagents. The resulting explosion sent her into temporary twilight, and left her with gold-colored skin, hair and eyes. She is of below-average height and lithe build. As a result of the bonding process with Luigi, her pupils are slitted. She has a natural aptitude with magic involving felines, and her general demeanor is equally cat-like. Amber usually wears a loose red robe, which is easy to remove when shapechanging, something that she does frequently. Her preferred forms are those of a cat or a leopard, and she has invented spells that allow her to adopt both. Luigi is an average-size cat, but his white fur is tipped with gold.
-
-##### Wardat al-Quds
-
-Wardat al-Quds is described in Chapter 6, on [page 67](#page-67).
-
 <!-- p. 105 --><a id="page-105"></a>
 
 ### Domus Pacis
@@ -2463,11 +2463,11 @@ Tau of Flambeau is the ruling Praeco of the tribunal, having been appointed to t
 
 At the start of his career Tau was apprenticed to a travelling Flambeau magus named Sigma, who unfortunately vanished into Final Twilight just before his filius was due to take his Gauntlet, while travelling to a covenant in Scotland. Tau found his way to the object of his master’s travels, the House of Hermes’ Wisdom, and after a short time was sent on his Gauntlet to find the nearest Flambeau gathering by the head of the covenant. After being recognized as a fully-fledged magus, he spent many years at a covenant in the Greater Alps, but his interest was piqued by the plans of a younger member of the covenant, Aurora of Jerbiton, who proposed to found a new covenant in the Levant. Tau accompanied Aurora to the area, and helped her found Domus Pacis. Despite his seniority, Tau was content to remain in the background, rather than claim the covenant’s leadership. However, when Aurora moved on to the Hermetic Embassy, she persuaded Tau to take over, and he has remained in this position of power ever since.
 
+In his youth, Tau was a vigorous, dashing fellow, and something of that still remains, even though age has made him a bit slower, and in particular has severely impaired his hearing. He now appears to be in his seventies. His curly hair is silver, collar-length with a goatee beard, and he has laughing eyes and a friendly smile. Tau dresses in well fitting, good quality clothes, including a leather tunic, britches and shiny black boots. A shortsword hangs at his side.
+
 > ### Story Seed: The Italian Job
 >
 > Esther asks the characters to carry an important shipment of goods from Domus Pacis to a covenant in the Roman Tribunal. She offers tempting rewards, but refuses to reveal what the contents of the shipment is. Will the characters take the risk?
-
-In his youth, Tau was a vigorous, dashing fellow, and something of that still remains, even though age has made him a bit slower, and in particular has severely impaired his hearing. He now appears to be in his seventies. His curly hair is silver, collar-length with a goatee beard, and he has laughing eyes and a friendly smile. Tau dresses in well fitting, good quality clothes, including a leather tunic, britches and shiny black boots. A shortsword hangs at his side.
 
 ##### Felix
 
@@ -2476,6 +2476,14 @@ While it might be said that all magi are unusual, in at least one respect Felix 
 Felix is a slightly plump, friendly-looking man of slightly below-average height. His right leg is badly malformed, meaning that he rarely stands up completely straight. He has aquiline features and medium brown colored hair, graying at the temples. He usually dresses in plain brown robes and carries a walking staff. Although skilled with weapons, he rarely carries any, as his injury makes it difficult to fight, and combat holds little excitement for him now anyway.
 
 <!-- p. 107 --><a id="page-107"></a>
+
+##### Esther
+
+Esther is the most recent arrival at Dar al-Salam, having joined the covenant in 1197, but she has fast become its most valued member. This is primarily due to her obsessive interest in Levantine trade. Through the medium of mercantile contacts, Esther has amassed considerable wealth, for both herself and the covenant, and this trade has become its primary source of income. Under Esther’s administration, the covenant acts as a channel for goods passing between the Middle East and Europe, and more specifically the Levant and Roman Tribunals. However, her activities are also a potential source of concern, for she has made a serious enemy of the magi of al-Arama (see below) through her efforts. In addition, she has been lining her own pocket by selling powerful magical devices to both the Muslim and Latin nobility, something forbidden by the Peripheral Code. Should the quaesitores ever find out about this, it could cause problems for both Esther and her sodales at the covenant.
+
+<!-- p. 108 --><a id="page-108"></a>
+
+Esther is an attractive woman, of medium height and build, with short blonde hair and pale skin. Her accent is distinctively English. She normally dresses in simple white robes, over which she wears a blue hooded cloak, which she has enchanted with a variety of powers. She wears a plain gold circlet on her head, and a number of tools and spell foci hang from her belt. Her demeanor is friendly but professional. Most of her magic is specialized in making her work and commercial activities easier. She is not above using underhand methods, like subtle mind magics, to get the better end of a deal.
 
 > ### Domus Pacis Statistics
 >
@@ -2530,14 +2538,6 @@ Felix is a slightly plump, friendly-looking man of slightly below-average height
 >
 > **Total Scores:** +37, –25
 
-##### Esther
-
-Esther is the most recent arrival at Dar al-Salam, having joined the covenant in 1197, but she has fast become its most valued member. This is primarily due to her obsessive interest in Levantine trade. Through the medium of mercantile contacts, Esther has amassed considerable wealth, for both herself and the covenant, and this trade has become its primary source of income. Under Esther’s administration, the covenant acts as a channel for goods passing between the Middle East and Europe, and more specifically the Levant and Roman Tribunals. However, her activities are also a potential source of concern, for she has made a serious enemy of the magi of al-Arama (see below) through her efforts. In addition, she has been lining her own pocket by selling powerful magical devices to both the Muslim and Latin nobility, something forbidden by the Peripheral Code. Should the quaesitores ever find out about this, it could cause problems for both Esther and her sodales at the covenant.
-
-<!-- p. 108 --><a id="page-108"></a>
-
-Esther is an attractive woman, of medium height and build, with short blonde hair and pale skin. Her accent is distinctively English. She normally dresses in simple white robes, over which she wears a blue hooded cloak, which she has enchanted with a variety of powers. She wears a plain gold circlet on her head, and a number of tools and spell foci hang from her belt. Her demeanor is friendly but professional. Most of her magic is specialized in making her work and commercial activities easier. She is not above using underhand methods, like subtle mind magics, to get the better end of a deal.
-
 ### Foothold
 
 #### General Description
@@ -2548,9 +2548,11 @@ The covenant is located on a hill ten miles east of the coast of the Kingdom of 
 
 <!-- p. 109 --><a id="page-109"></a>
 
-> ### Story Seed: Sins of the Father
->
-> Rufus has discovered something about one of the characters’ parentes, which is not only embarrassing, but may also lead to the parens’s execution under the dictates of the Code of Hermes. Worse still, he has obtained proof of what he has discovered. The character’s parens contacts the character and companions, seeking aid. Will they help? The parens may offer a tempting reward. Perhaps Rufus could be “persuaded” to remain silent about the matter, or maybe they could steal the evidence from him. What can they do to solve the problem?
+The covenant itself consists of a two-story, stone keep surrounded by a yard, itself surrounded by a strong stone wall with battlements and a parapet. Grogs and servants live in both levels of the keep, while the magi live only on the upper story. Among the specialists of the covenant are two fishermen and a merchant, who ensure that the covenant is kept supplied through trade in fish and what little wood is felled. The servants and grogs are mostly French, and mostly dedicated to their masters and their cause. However, there have been some mutterings of discontent from the ranks, and it may be that the magi will have to deal with these before long.
+
+<!-- p. 110 --><a id="page-110"></a>
+
+Foothold has both allies and enemies in the tribunal. It is seen as the leader of the Crusader faction, as a consequence of which it is supported by other Crusader covenants, but is viewed with hostility by Aedes Veritatis and the other covenants opposing the Crusades. It also has a bad reputation among the quaesitores, who view it as a particular threat to the rather unstable peace, and suspect its magi of continued crusading activity. Finally, magi serving the Ayyubids also recognize the threat posed by the covenant, and so they have planted a number of scrying devices there. Using these, they hope to be forewarned of any sudden attacks by Foothold or its allies. It may well be that if the Treaty of Baghdad is ever broken, Foothold will be the first casualty of the renewed conflict.
 
 > ### Foothold Statistics
 >
@@ -2605,12 +2607,6 @@ The covenant is located on a hill ten miles east of the coast of the Kingdom of 
 >
 > **Total Scores:** +21, –47
 
-The covenant itself consists of a two-story, stone keep surrounded by a yard, itself surrounded by a strong stone wall with battlements and a parapet. Grogs and servants live in both levels of the keep, while the magi live only on the upper story. Among the specialists of the covenant are two fishermen and a merchant, who ensure that the covenant is kept supplied through trade in fish and what little wood is felled. The servants and grogs are mostly French, and mostly dedicated to their masters and their cause. However, there have been some mutterings of discontent from the ranks, and it may be that the magi will have to deal with these before long.
-
-<!-- p. 110 --><a id="page-110"></a>
-
-Foothold has both allies and enemies in the tribunal. It is seen as the leader of the Crusader faction, as a consequence of which it is supported by other Crusader covenants, but is viewed with hostility by Aedes Veritatis and the other covenants opposing the Crusades. It also has a bad reputation among the quaesitores, who view it as a particular threat to the rather unstable peace, and suspect its magi of continued crusading activity. Finally, magi serving the Ayyubids also recognize the threat posed by the covenant, and so they have planted a number of scrying devices there. Using these, they hope to be forewarned of any sudden attacks by Foothold or its allies. It may well be that if the Treaty of Baghdad is ever broken, Foothold will be the first casualty of the renewed conflict.
-
 #### Magi
 
 ##### Guillaume de Bourne
@@ -2624,6 +2620,10 @@ Guillaume is a large, stockily-built man with black hair, a thin moustache and a
 Unlike his colleague, Rufus de Clary’s zeal for conflict with the Muslims is not driven by piety, but rather by fear. As a child Rufus was subjected to unspeakable horrors and abuse by his parents, who were diabolists, before he was rescued by his master Gilles de Clary. Rufus still fears that there are demons after his soul, and so he has become obsessed with gaining magical power with which to protect himself from them. He believes that if the Order expands into Muslim territory it will be able to take over the magical riches of the area, of which he intends to secure his own share. In this way, for Rufus, the ends justify the means. However, in debate Rufus adopts the apparent view that the Crusade should go on for the good of the Order, not revealing what lies at the root of his enthusiasm.
 
 Rufus is handsome, slim man with a slight stoop, very pale blond hair and very deep blue eyes. He wears robes the same shade of blue as his eyes, and a silver pendant engraved with the symbol of House Tytalus. He is cunning and manipulative, and is not above sacrificing others for his own ends. His abilities to work magic without words or gestures and to read lips have made him privy to many secrets, and several magi fear the consequences, should he ever obtain proof of what he knows about them.
+
+> ### Story Seed: Sins of the Father
+>
+> Rufus has discovered something about one of the characters’ parentes, which is not only embarrassing, but may also lead to the parens’s execution under the dictates of the Code of Hermes. Worse still, he has obtained proof of what he has discovered. The character’s parens contacts the character and companions, seeking aid. Will they help? The parens may offer a tempting reward. Perhaps Rufus could be “persuaded” to remain silent about the matter, or maybe they could steal the evidence from him. What can they do to solve the problem?
 
 ### The Hermetic Embassy
 
@@ -2645,11 +2645,27 @@ Aurora is now 102, and an archmaga of considerable power. However, she is also b
 
 Aurora is a slim woman who appears to be in her late sixties. She has long, red hair streaked with gray. She dresses in bright, tastefully cut, multicolored robes. Although the lines in her face are becoming more marked, she is still a very attractive woman, and many a younger magus has fallen in love with her, though she has never allowed these crushes to progress further. Aurora has had only one apprentice, Macha, who is now a fully-fledged maga of the Order and a member of a covenant in Hibernia. She shares her mater’s magical interests, though she leans more towards Mentem than Corpus.
 
+> ### Story Seeds: Aurora of Jerbiton
+>
+> #### Rescue Mission
+>
+> As has been described earlier, in 1258 the Mongols take Baghdad and put the caliph and a number of important Muslim magi to death. If it is still in the city, the Hermetic Embassy is also a casualty of the onslaught. Most of the members are killed, but Aurora, now older and weaker, is taken prisoner by the Mongol shamans. Representatives from Magvillus, worried that she might be forced to give up secrets about the Order, send the player characters on a mission to rescue her, or kill her if this proves impossible. They will have to proceed very carefully if they are to succeed in this mission to the heart of enemy territory. In addition, if they choose the second option, they will have to justify their actions to the quaesitores upon their return.
+>
+> #### The Archmage’s Challenge
+>
+> Like all archmages, Aurora had to defeat a challenge before she could be accepted as such. In her case, she solved a riddle set for her by a Criamon archmage, Emerich of the Rhine Tribunal. The riddle involved, “What may never be used in combat?” had the surprisingly straightforward answer of “Nothing.” Now that Aurora is an archmage, it would be possible for ambitious characters to challenge her for the title, should they wish to do so. Storyguides should decide for themselves what her challenge is. It could form the basis for a story, or alternatively provide a leitmotif reflecting the nature of the saga.
+
 ##### Spiral
 
 Spiral is the other member of the Hermetic Embassy. Although keen to help with the preservation of peace between the Order and the Muslims, his primary interest is in deciphering the mysteries of Islamic magic. Unfortunately his worldview, particularly his understanding of magic, is rather idiosyncratic, as a result of which he finds it difficult to communicate with the practitioners of Islamic magic with whom he has come into contact. The Sufis of Baghdad, in particular, view him as being a wise man, but understand very little of what he says. His difficulties with communication also mean that should Aurora pass into Final Twilight, he will not be equal to the task of continuing the diplomatic relations between the Order and the Muslims. Spiral is nothing if he is not enthusiastic, and so is unaware of his own limitations.
 
 <!-- p. 112 --><a id="page-112"></a>
+
+Spiral’s primary magical specialty is in Intéllego Vim, and in the early years of his career as a magus he pursued his studies of these Arts with almost fanatical devotion, only spending time studying Corpus to enable him to create a powerful longevity potion, in order to give himself more time for the study of Intéllego Vim. However, more recently he has mellowed, and has realized that both Mentem and Imáginem magics would be useful for his greater objective of understanding Islamic magic. In addition, aspects of the various other Arts have also piqued his interest. He is currently broadening the range of his studies.
+
+<!-- p. 113 --><a id="page-113"></a>
+
+In appearance, Spiral is a slightly disturbing figure. Tall and almost skeletally thin, he gives the impression of being all wrists, elbows, knees and ankles. His face is covered in spiral tattoos, while his blond hair is long, wild, unkempt and unwashed. He dresses in simple robes, which are usually torn and ragged from neglect.
 
 > ### The Hermetic Embassy Statistics
 >
@@ -2703,22 +2719,6 @@ Spiral is the other member of the Hermetic Embassy. Although keen to help with t
 > **Laboratories:** Average (0)
 >
 > **Total Scores:** +20, –48
-
-Spiral’s primary magical specialty is in Intéllego Vim, and in the early years of his career as a magus he pursued his studies of these Arts with almost fanatical devotion, only spending time studying Corpus to enable him to create a powerful longevity potion, in order to give himself more time for the study of Intéllego Vim. However, more recently he has mellowed, and has realized that both Mentem and Imáginem magics would be useful for his greater objective of understanding Islamic magic. In addition, aspects of the various other Arts have also piqued his interest. He is currently broadening the range of his studies.
-
-<!-- p. 113 --><a id="page-113"></a>
-
-> ### Story Seeds: Aurora of Jerbiton
->
-> #### Rescue Mission
->
-> As has been described earlier, in 1258 the Mongols take Baghdad and put the caliph and a number of important Muslim magi to death. If it is still in the city, the Hermetic Embassy is also a casualty of the onslaught. Most of the members are killed, but Aurora, now older and weaker, is taken prisoner by the Mongol shamans. Representatives from Magvillus, worried that she might be forced to give up secrets about the Order, send the player characters on a mission to rescue her, or kill her if this proves impossible. They will have to proceed very carefully if they are to succeed in this mission to the heart of enemy territory. In addition, if they choose the second option, they will have to justify their actions to the quaesitores upon their return.
->
-> #### The Archmage’s Challenge
->
-> Like all archmages, Aurora had to defeat a challenge before she could be accepted as such. In her case, she solved a riddle set for her by a Criamon archmage, Emerich of the Rhine Tribunal. The riddle involved, “What may never be used in combat?” had the surprisingly straightforward answer of “Nothing.” Now that Aurora is an archmage, it would be possible for ambitious characters to challenge her for the title, should they wish to do so. Storyguides should decide for themselves what her challenge is. It could form the basis for a story, or alternatively provide a leitmotif reflecting the nature of the saga.
-
-In appearance, Spiral is a slightly disturbing figure. Tall and almost skeletally thin, he gives the impression of being all wrists, elbows, knees and ankles. His face is covered in spiral tattoos, while his blond hair is long, wild, unkempt and unwashed. He dresses in simple robes, which are usually torn and ragged from neglect.
 
 ## Other Covenants
 

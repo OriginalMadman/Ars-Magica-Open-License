@@ -199,14 +199,14 @@ I’d like to thank all of the people who helped make this publication possible.
   - [Estáncia-es-Karida](#estáncia-es-karida)
   - [Location](#location-2)
   - [Inhabitants](#inhabitants-2)
-  - [Fortress](#fortress)
+  - [Fortress](#fortress-1)
   - [Outside Relations](#outside-relations-2)
   - [Obligations](#obligations-1)
   - [Story Ideas for Estáncia-es-Karida](#story-ideas-for-estáncia-es-karida)
   - [Jaferiya](#jaferiya)
   - [Location](#location-3)
   - [Inhabitants](#inhabitants-3)
-  - [Fortress](#fortress-1)
+  - [Fortress](#fortress-2)
   - [Outside Relations](#outside-relations-3)
   - [Mystical Attributes](#mystical-attributes-2)
   - [Mundane Resources](#mundane-resources-1)
@@ -248,11 +248,9 @@ And yet, though Iberians are isolated and victimized by their land, in some ways
 
 The Magi of Iberia are representative of the peninsula’s isolation-invasion dichotomy. Iberia’s first wizards, belonging to the Cult of Mercury, came in the age of conquest, marching along side Roman armies, helping to establish a system of rule. With the fall of Rome the priests of Mercury diminished but never completely disappeared. The Roman tradition therefore lived on in only a few individuals.
 
-The Order of Hermes emerged in Iberia much the way Mercury had. Flambeau led the invasion into Iberia and established the rule of the Order. However, where Magi elsewhere in Mythic Europe sought to flee the restrictions of mundane society, the first Iberian Covenants relished mundane society, being founded in or near cities. Only after founding urban Covenants did Hermetic Magi move into the interior, traveling on Roman roads. Many Magi found their
+The Order of Hermes emerged in Iberia much the way Mercury had. Flambeau led the invasion into Iberia and established the rule of the Order. However, where Magi elsewhere in Mythic Europe sought to flee the restrictions of mundane society, the first Iberian Covenants relished mundane society, being founded in or near cities. Only after founding urban Covenants did Hermetic Magi move into the interior, traveling on Roman roads. Many Magi found their metropolitan lives incompatible with the lives of surrounding people. Thus, more in keeping with the rest of Mythic Europe’s Magi, Iberia’s wizards moved into rural areas, seeking places where studies could go uninterrupted. Once there, Magi became independent, relying less and less upon the rest of the Order. Indeed, many advocated a break from the Order, but followers of Flambeau, always numerous in the Tribunal, kept the idea from becoming reality. Without actually breaking from the Order the Tribunal became, over time, one of the most independent.
 
 <!-- p. 7 --><a id="page-7"></a>
-
-metropolitan lives incompatible with the lives of surrounding people. Thus, more in keeping with the rest of Mythic Europe’s Magi, Iberia’s wizards moved into rural areas, seeking places where studies could go uninterrupted. Once there, Magi became independent, relying less and less upon the rest of the Order. Indeed, many advocated a break from the Order, but followers of Flambeau, always numerous in the Tribunal, kept the idea from becoming reality. Without actually breaking from the Order the Tribunal became, over time, one of the most independent.
 
 It is in this prison-like land of a fiery people that characters now find themselves, perhaps as inhabitants of the land, contributing to its nature, or as travelers, experiencing the land’s unique nature firsthand.
 
@@ -306,11 +304,9 @@ Hannibal’s success against the Romans and his eventual defeat is well known. W
 
 ## Roman Domination
 
-The first portions of the peninsula to fall to Roman conquest were the eastern and southern, bordering on the Mediterranean. These areas had already seen the culture of the Phœnicians and Greeks, and had long been trading with various Mediterranean cultures. The people of the coasts were accustomed to differing viewpoints and, while there were some uprisings among the cities of the region, they soon settled
+The first portions of the peninsula to fall to Roman conquest were the eastern and southern, bordering on the Mediterranean. These areas had already seen the culture of the Phœnicians and Greeks, and had long been trading with various Mediterranean cultures. The people of the coasts were accustomed to differing viewpoints and, while there were some uprisings among the cities of the region, they soon settled under Roman domination. It’s been suggested that coastal natives submitted too easily, as if by the work of some controlling force. . .
 
 <!-- p. 10 --><a id="page-10"></a>
-
-under Roman domination. It’s been suggested that coastal natives submitted too easily, as if by the work of some controlling force. . .
 
 The conquest of the central plateau regions, in contrast, was far from easy for the Romans. For over 150 years, the inland’s secluded tribes stayed true to their old ways and defied Rome. Some of these people were mere shepherds and shamans, who had constant contact with ancestors and the old ways themselves. The inland tribes’ success against the Romans lay more in their knowledge of the land than in any military genius. The natives formed small bands and ambushed Roman columns, disappearing into the hills before the Romans could strike back. It is from this era and land that the word *guerrilla*, meaning “little war,” comes. These tactics took their toll on the morale of the Roman legions. Eventually, Roman soldiers refused to fight if sent to serve on the peninsula, forcing Roman governors to acknowledge the independence of small native nations. Not until 33 B.C. did the Romans fully subdue the peninsula, usurping the old spirits with foreign deities.
 
@@ -320,11 +316,9 @@ Roads connecting Hispania’s cities had a secondary effect: while commerce pass
 
 Between the two opposed classes were city dwellers. They were enchanted with, almost compelled to, the culture and elegance of the Romans (enchanted and compelled being appropriate terms). They imitated and assimilated Roman culture and passed it onto the rural farmers and shepherds. Through the cities, the language and religion of Rome conquered the peninsula as assuredly, and as slowly, as her legions did. The system of roads served as the skeleton on which the colony was built.
 
-Gradually, the people of Hispania lost (or were drained of) spirit and became fully Romanized. The colony was considered the flower of the Empire and many left to study at Rome (where
+Gradually, the people of Hispania lost (or were drained of) spirit and became fully Romanized. The colony was considered the flower of the Empire and many left to study at Rome (where the Dark Ways had particular strength). Emperors Trajan and Hadrian, though of Roman blood, were raised on the peninsula and Emperor Marcus Aurelius was of genuine Hispanic blood. Furthermore, the people of the colony distinguished themselves as poets and philosophers. Indeed, in the 13th century House Criamon prizes many of the complex poems written by these people, claiming the poems embody the people’s fury, and even immortal spirits! The young people of Hispania also looked to the glory of Rome with longing eyes and became increasingly Roman. In A.D. 212, Emperor Carcalla recognized the contributions and attitudes of the Hispanian people by granting her cities full citizenship, with all privileges that entailed. In effect, the people of the peninsula were offered full access to Rome’s decadence, the better for Hell to claim corrupt souls.
 
 <!-- p. 11 --><a id="page-11"></a>
-
-the Dark Ways had particular strength). Emperors Trajan and Hadrian, though of Roman blood, were raised on the peninsula and Emperor Marcus Aurelius was of genuine Hispanic blood. Furthermore, the people of the colony distinguished themselves as poets and philosophers. Indeed, in the 13th century House Criamon prizes many of the complex poems written by these people, claiming the poems embody the people’s fury, and even immortal spirits! The young people of Hispania also looked to the glory of Rome with longing eyes and became increasingly Roman. In A.D. 212, Emperor Carcalla recognized the contributions and attitudes of the Hispanian people by granting her cities full citizenship, with all privileges that entailed. In effect, the people of the peninsula were offered full access to Rome’s decadence, the better for Hell to claim corrupt souls.
 
 ## Coming of Christianity
 
@@ -344,11 +338,9 @@ The Visigoths, however, did not intend to remain subservient to Rome. They used 
 
 ### Visigothic Rule
 
-The Visigoths enjoyed success in their military endeavors on the peninsula. Before long, Visigothic chieftains, having run out of enemies, fell to the temptation of greed and fought
+The Visigoths enjoyed success in their military endeavors on the peninsula. Before long, Visigothic chieftains, having run out of enemies, fell to the temptation of greed and fought amongst themselves for land. This conquest of Hispania followed a pattern exactly opposite to those of earlier invasions. The Visigoths first conquered the high central plateau and the cities of the coasts remained in contact with the legitimate Empire (Rome and then Constantinople).
 
 <!-- p. 12 --><a id="page-12"></a>
-
-amongst themselves for land. This conquest of Hispania followed a pattern exactly opposite to those of earlier invasions. The Visigoths first conquered the high central plateau and the cities of the coasts remained in contact with the legitimate Empire (Rome and then Constantinople).
 
 The Visigothic conquests were distinguished by their tremendous violence, almost as an outlet for pent-up evil, particularly against those that did not share the Arian faith. The violence of the Visigoths was not limited to the conquered. Many Visigothic kings ascended the throne after the preceding king was assassinated. Ironically, that violence was eventually contained to Iberia as the Franks drove the Visigoths out of Gaul, forcing them to relocate their capital to Spain’s Toledo. The Franks condemned the Visigoths to live in the very prison they had created.
 
@@ -1683,6 +1675,54 @@ To establish one’s identity as a Magus to the staff of the Silver Rooster, a v
 
 There are very few people occupying Barcelona Covenant. To the casual observer these folk seem nothing more than inn workers and operators. Keep in mind that the Covenant is actually a meeting place for the city’s few Magi.
 
+<!-- p. 77 --><a id="page-77"></a>
+
+### Grogs
+
+Barcelona Covenant does not maintain a regular turb of Grogs. A group of bruisers with nothing to do but hang around the Silver Rooster would attract attention. The Covenant therefore maintains relations with a few select *almogàvers*, but only hires them when Magi feel a need for physical protection. The Magi usually hire these bodyguards through agents, typically Andreau or Matteu, but occasionally meet with them in disguise to hire them personally. These rough people are unaware of the Covenant’s existence. They are, however, concerned with their honor and defend Magi that hire them with their lives.
+
+### Companions
+
+The following people are those with specialized skills that Barcelona’s Magi regularly rely upon. These tend to life at the Silver Rooster, and largely live in the Covenant proper beneath the inn.
+
+#### Andreau, the Innkeeper
+
+Andreau is a slightly rotund *consor*. He understands people and manipulates them with flair and ease. He is jovial, middle-aged, and good with a dagger. Andreau is losing his hearing but still enjoys talking with customers. He has learned to spot Magi who travel to Barcelona and quickly provides them opportunity to present themselves. Andreau looks after Vicent, the groom (see below), treating him like a son.
+
+<!-- p. 78 --><a id="page-78"></a>
+
+Andreau enjoys flattery about how he cooks and runs the inn.
+
+Andreau owns a simple silver ring that reveals the motive of a person. It can be used six times a day. Andreau must twist the ring (as if fidgeting) and stare into the subject’s eyes. The ring Penetrates Magic Resistance on a stress roll modified by +15, based on the Mentem Form. The ring only works for those to whom it is given in good faith. So, if the ring is stolen the thief does not find out it is magical. For purposes of investigating the ring in the lab, treat its power as Level 15.
+
+#### Matteu, the Bouncer
+
+Matteu the bouncer, also a *consor*, usually stands near the door to the inn. His right and left fists are nicknamed “lighting” and “thunder,” respectively. *Almogàvers* come here to test themselves against him. Farusca has hinted that Matteu should take a couple falls so he can lose his reputation and stop attracting attention, but he is too proud. Besides, he needs to keep in practice.
+
+<!-- p. 79 --><a id="page-79"></a>
+
+Matteu’s face is covered with small scars that he’s picked up in fights. He has experienced true love but lost it. His fiancée, Maria, died after contracting the pox several years ago. Since then Matteu has been somber.
+
+Matteu wears a copper bracelet which calms the person into whose eyes he looks and says, *“Why don’t you calm down?”* The effect Penetrates those with Magic Resistance on a stress roll, modified by +20, using the Mentem Form. The bracelet can be used three times a day. It only works for those to whom it is freely given. When investigating the item’s power in the lab, assume it to be Level 15.
+
+> ### Matteu the Bouncer
+>
+> Characteristics: Intelligence 0, Perception (alert for trouble) +1, Strength (broad chest) +5, Stamina (hearty) +3, Presence (scarred) –3, Communication (somber) –2, Dexterity (fluid movements) +2, Quickness (darting) +1
+>
+> Age: 25
+>
+> Size: 0
+>
+> Virtues and Flaws: Knack with Punch (+4 to punch combat scores, as totaled below) +2, Disfigured (–3 to Presence rolls) –1, Lost Love –1
+>
+> Abilities: Speak Catalan/Provençal (intimidation terms) 4, Dodge (unarmed melee) 4, Alertness (trouble) 2, Athletics (jumps) 2, Brawl (punches) 6, Intimidation (prospective brawlers) 5, Diplomacy (easing confrontations) 1, Legend Lore (great brawlers) 2
+>
+> Confidence: 4
+>
+> Reputation: Unbeatable (bar fighters) 3
+>
+> Personality Traits: Brave +2, Loyal +2, Proud of Strength +3, Sullen +3
+
 > ### Andreau the Innkeeper
 >
 > Characteristics: Intelligence (clever) +1, Perception (trained eye) +2, Strength (large biceps) +1, Stamina (corpulent) +1, Presence 0, Communication (expressive) +1, Dexterity 0, Quickness (fat) –1
@@ -1709,25 +1749,6 @@ There are very few people occupying Barcelona Covenant. To the casual observer t
 >
 > Other Combat Totals: Dodge Defense +1 (7 Action), Soak +1 (7 Action), Fatigue +1
 
-<!-- p. 77 --><a id="page-77"></a>
-
-> ### Matteu the Bouncer
->
-> Characteristics: Intelligence 0, Perception (alert for trouble) +1, Strength (broad chest) +5, Stamina (hearty) +3, Presence (scarred) –3, Communication (somber) –2, Dexterity (fluid movements) +2, Quickness (darting) +1
->
-> Age: 25
->
-> Size: 0
->
-> Virtues and Flaws: Knack with Punch (+4 to punch combat scores, as totaled below) +2, Disfigured (–3 to Presence rolls) –1, Lost Love –1
->
-> Abilities: Speak Catalan/Provençal (intimidation terms) 4, Dodge (unarmed melee) 4, Alertness (trouble) 2, Athletics (jumps) 2, Brawl (punches) 6, Intimidation (prospective brawlers) 5, Diplomacy (easing confrontations) 1, Legend Lore (great brawlers) 2
->
-> Confidence: 4
->
-> Reputation: Unbeatable (bar fighters) 3
->
-> Personality Traits: Brave +2, Loyal +2, Proud of Strength +3, Sullen +3
 >
 > Weapons and Armor:
 >
@@ -1739,19 +1760,15 @@ There are very few people occupying Barcelona Covenant. To the casual observer t
 >
 > \* Assuming Speed, Attack Bonus, and Weapon Damage are zero, for ease of play.
 
-### Grogs
+#### Vicent, the Groom
 
-Barcelona Covenant does not maintain a regular turb of Grogs. A group of bruisers with nothing to do but hang around the Silver Rooster would attract attention. The Covenant therefore maintains relations with a few select *almogàvers*, but only hires them when Magi feel a need for physical protection. The Magi usually hire these bodyguards through agents, typically Andreau or Matteu, but occasionally meet with them in disguise to hire them personally. These rough people are unaware of the Covenant’s existence. They are, however, concerned with their honor and defend Magi that hire them with their lives.
+Years ago, when Andreau was traveling through the Pyrenees, a strange, naked boy came out of the woods and approached his campfire. Andreau offered him food, and the boy followed Andreau back to Barcelona, where Andreau named him Vicent and taught him how to tend horses. Vicent could apparently understand Catalan from the start, but he has never spoken a word. When Magi have delved into his mind, they have found it confusing and the contact disturbing. The general consensus is that Vicent is a mortal taken by faeries as a child.
 
-### Companions
+Vicent looked ten years old when Andreau found him about fifteen years ago. Vicent now looks somewhere between fourteen and thirty, depending on the light in which he is seen. He generally has bare legs, feet, and arms.
 
-The following people are those with specialized skills that Barcelona’s Magi regularly rely upon. These tend to life at the Silver Rooster, and largely live in the Covenant proper beneath the inn.
+Vicent spends most of his time alone in the stables, tending the horses with love and care. Sometimes, late at night, he comes into the inn and listens to Andreau talk. If a large brawl breaks out in the Silver Rooster, Vicent smells blood and charges, frenzied, into the melee. He is especially wild when defending Andreau.
 
-#### Andreau, the Innkeeper
-
-Andreau is a slightly rotund *consor*. He understands people and manipulates them with flair and ease. He is jovial, middle-aged, and good with a dagger. Andreau is losing his hearing but still enjoys talking with customers. He has learned to spot Magi who travel to Barcelona and quickly provides them opportunity to present themselves. Andreau looks after Vicent, the groom (see below), treating him like a son.
-
-<!-- p. 78 --><a id="page-78"></a>
+Vicent is unfamiliar with society beyond the Silver Rooster.
 
 > ### Vicent the Groom
 >
@@ -1781,23 +1798,17 @@ Andreau is a slightly rotund *consor*. He understands people and manipulates the
 >
 > \* Assuming Speed, Attack Bonus, and Weapon Damage are zero, for ease of play.
 
-Andreau enjoys flattery about how he cooks and runs the inn.
+#### Pol, Farusca’s Assistant
 
-Andreau owns a simple silver ring that reveals the motive of a person. It can be used six times a day. Andreau must twist the ring (as if fidgeting) and stare into the subject’s eyes. The ring Penetrates Magic Resistance on a stress roll modified by +15, based on the Mentem Form. The ring only works for those to whom it is given in good faith. So, if the ring is stolen the thief does not find out it is magical. For purposes of investigating the ring in the lab, treat its power as Level 15.
+Pol was discovered by Farusca, head of the Covenant, in the waterfront district of the city. Pol had been a slave of Arabs, put to work entertaining Moslem warriors, but was liberated with the southern movement of the Reconquista. However, his life as a freeman was little better, being forced to beg and perform for money in Barcelona’s alleys. Farusca recognized the unfortunate man’s latent magic, but his deformity somehow precluded him from becoming a Magus, so Farusca continued to employ him as a servant.
 
-#### Matteu, the Bouncer
+Pol is eager to help and please. He makes himself out to be comical, to trick potential enemies into underestimating him. Actually, Pol is clever, observant, and capable of defending himself and Farusca. Characters who foolhardily threaten Farusca may find their kidneys suddenly removed from behind.
 
-Matteu the bouncer, also a *consor*, usually stands near the door to the inn. His right and left fists are nicknamed “lighting” and “thunder,” respectively. *Almogàvers* come here to test themselves against him. Farusca has hinted that Matteu should take a couple falls so he can lose his reputation and stop attracting attention, but he is too proud. Besides, he needs to keep in practice.
+<!-- p. 80 --><a id="page-80"></a>
 
-<!-- p. 79 --><a id="page-79"></a>
+Pol has occasionally spied or run messages above ground, but is too valuable to risk casually (and his frequent appearance on the streets might attract attention to the Covenant beneath the Silver Rooster). Pol accompanies Farusca to Tribunals, where his sharp senses and quiet feet can be decidedly useful.
 
-Matteu’s face is covered with small scars that he’s picked up in fights. He has experienced true love but lost it. His fiancée, Maria, died after contracting the pox several years ago. Since then Matteu has been somber.
-
-Matteu wears a copper bracelet which calms the person into whose eyes he looks and says, *“Why don’t you calm down?”* The effect Penetrates those with Magic Resistance on a stress roll, modified by +20, using the Mentem Form. The bracelet can be used three times a day. It only works for those to whom it is freely given. When investigating the item’s power in the lab, assume it to be Level 15.
-
-#### Vicent, the Groom
-
-Years ago, when Andreau was traveling through the Pyrenees, a strange, naked boy came out of the woods and approached his campfire. Andreau offered him food, and the boy followed Andreau back to Barcelona, where Andreau named him Vicent and taught him how to tend horses. Vicent could apparently understand Catalan from the start, but he has never spoken a word. When Magi have delved into his mind, they have found it confusing and the contact disturbing. The general consensus is that Vicent is a mortal taken by faeries as a child.
+Sadly, even Farusca’s employment of Pol is somewhat abusive, using him for her own purposes and denying his rights. Pol grows bored with living underground, but is too loyal to Farusca to complain.
 
 > ### Pol, Farusca’s Assistant
 >
@@ -1829,19 +1840,25 @@ Years ago, when Andreau was traveling through the Pyrenees, a strange, naked boy
 >
 > Fatigue Levels: OK, –3, –5, Unconscious
 
-Vicent looked ten years old when Andreau found him about fifteen years ago. Vicent now looks somewhere between fourteen and thirty, depending on the light in which he is seen. He generally has bare legs, feet, and arms.
+### Magi
 
-Vicent spends most of his time alone in the stables, tending the horses with love and care. Sometimes, late at night, he comes into the inn and listens to Andreau talk. If a large brawl breaks out in the Silver Rooster, Vicent smells blood and charges, frenzied, into the melee. He is especially wild when defending Andreau.
+The following four people are the Jerbiton Magi of Barcelona Covenant. Each has a personal life well beyond the Covenant itself, but all still wield considerable political power in the Iberian Tribunal, no doubt a result of their unique rights to the peninsula’s greatest city.
 
-Vicent is unfamiliar with society beyond the Silver Rooster.
+#### Farusca of Jerbiton, Head of the Covenant
 
-#### Pol, Farusca’s Assistant
+Farusca takes her position as head of the Covenant very seriously. She knows she has the position only because the older Magi have better things to do with their time, but she still considers it an honor to be a member of Barcelona Covenant. Since she took over as head of the Covenant in 1186, Farusca has managed to avoid many potential incidents.
 
-Pol was discovered by Farusca, head of the Covenant, in the waterfront district of the city. Pol had been a slave of Arabs, put to work entertaining Moslem warriors, but was liberated with the southern movement of the Reconquista. However, his life as a freeman was little better, being forced to beg and perform for money in Barcelona’s alleys. Farusca recognized the unfortunate man’s latent magic, but his deformity somehow precluded him from becoming a Magus, so Farusca continued to employ him as a servant.
+Farusca has seen several Magi come to Barcelona from “less civilized” areas and fall apart under the stress of hiding their identities. Farusca greets all new Magi with the assumption that they too will break the masquerade and endanger the Covenant. She therefore treats all visiting Magi with suspicion and disgust. However, discreet Magi soon win her respect and trust; the harsh image she presents to newcomers is partly a show designed to coerce others into caution.
 
-Pol is eager to help and please. He makes himself out to be comical, to trick potential enemies into underestimating him. Actually, Pol is clever, observant, and capable of defending himself and Farusca. Characters who foolhardily threaten Farusca may find their kidneys suddenly removed from behind.
+Farusca believes that the weak link in the Covenant’s secrecy is Carles, one of her fellow Magi. The dreadful eye carved over the door of his book shop draws unwanted attention. Carles says he puts on an occult image to draw attention away from himself, since no true Magus would make such a display. Farusca correctly identifies this as self-deception.
 
-<!-- p. 80 --><a id="page-80"></a>
+<!-- p. 81 --><a id="page-81"></a>
+
+If Farusca could find a capable Magus to take her place as head of the Covenant, she would enter Barcelonan society as a wealthy widow from Languedoc. She lives in what she considers the most beautiful city in the world, but spends almost all her time in a hole in the ground.
+
+Farusca wears a bronze ring on her right ring finger. If she clenches her fist and says *“Shatter, shatter,”* the shard of Tyritescus’s heart, kept beneath the Covenant’s laboratory (see below), will be struck by a strong Perdo Terram force. Farusca used a bit of powder scraped off the crystal when making the ring, so believes the spell will bypass any magic resistance the shard may have, but won’t be sure until she tries it. The spell can only be cast once.
+
+Farusca carries what she calls the Wand of the Silent Witness. The wand casts the spell *Clenching Grasp of the Crushed Heart* once a day. The device Penetrates Magic Resistance on a stress roll, modified by +35.
 
 > ### Farusca
 >
@@ -1889,30 +1906,6 @@ Pol is eager to help and please. He makes himself out to be comical, to trick po
 >
 > Other Combat Totals: Dodge Defense –3 (3 Action), Soak +0 (6 Action), Fatigue +0
 
-Pol has occasionally spied or run messages above ground, but is too valuable to risk casually (and his frequent appearance on the streets might attract attention to the Covenant beneath the Silver Rooster). Pol accompanies Farusca to Tribunals, where his sharp senses and quiet feet can be decidedly useful.
-
-Sadly, even Farusca’s employment of Pol is somewhat abusive, using him for her own purposes and denying his rights. Pol grows bored with living underground, but is too loyal to Farusca to complain.
-
-### Magi
-
-The following four people are the Jerbiton Magi of Barcelona Covenant. Each has a personal life well beyond the Covenant itself, but all still wield considerable political power in the Iberian Tribunal, no doubt a result of their unique rights to the peninsula’s greatest city.
-
-#### Farusca of Jerbiton, Head of the Covenant
-
-Farusca takes her position as head of the Covenant very seriously. She knows she has the position only because the older Magi have better things to do with their time, but she still considers it an honor to be a member of Barcelona Covenant. Since she took over as head of the Covenant in 1186, Farusca has managed to avoid many potential incidents.
-
-Farusca has seen several Magi come to Barcelona from “less civilized” areas and fall apart under the stress of hiding their identities. Farusca greets all new Magi with the assumption that they too will break the masquerade and endanger the Covenant. She therefore treats all visiting Magi with suspicion and disgust. However, discreet Magi soon win her respect and trust; the harsh image she presents to newcomers is partly a show designed to coerce others into caution.
-
-Farusca believes that the weak link in the Covenant’s secrecy is Carles, one of her fellow Magi. The dreadful eye carved over the door of his book shop draws unwanted attention. Carles says he puts on an occult image to draw attention away from himself, since no true Magus would make such a display. Farusca correctly identifies this as self-deception.
-
-<!-- p. 81 --><a id="page-81"></a>
-
-If Farusca could find a capable Magus to take her place as head of the Covenant, she would enter Barcelonan society as a wealthy widow from Languedoc. She lives in what she considers the most beautiful city in the world, but spends almost all her time in a hole in the ground.
-
-Farusca wears a bronze ring on her right ring finger. If she clenches her fist and says *“Shatter, shatter,”* the shard of Tyritescus’s heart, kept beneath the Covenant’s laboratory (see below), will be struck by a strong Perdo Terram force. Farusca used a bit of powder scraped off the crystal when making the ring, so believes the spell will bypass any magic resistance the shard may have, but won’t be sure until she tries it. The spell can only be cast once.
-
-Farusca carries what she calls the Wand of the Silent Witness. The wand casts the spell *Clenching Grasp of the Crushed Heart* once a day. The device Penetrates Magic Resistance on a stress roll, modified by +35.
-
 #### Carles of Jerbiton, the Scribe
 
 Carles is one of the “free” Magi of Barcelona Covenant, devoting most of his time to his own pursuits, outside the Silver Rooster. He is a thin, sunken-eyed man who runs a shop that buys and sells books, specializing in the rare and occult. The shop is called Books of the Eye. Carles never sells actual Hermetic texts to non-Hermetic people, but does a good trade in what he calls “pseudo-magical conjecture.” His position as a dealer in the occult gives him the opportunity to keep track of potentially interesting books that pass through the city.
@@ -1923,9 +1916,39 @@ To identify oneself as a Magus at Carles’s shop, a character must say, *“Do 
 
 Carles wears a carved coral pendant that looks like an eye. The item allows him to cast the equivalent of *Quench the Rippling Flames* (Perdo Ignem Level 5) ten times a day. Carles takes few chances with his books.
 
-#### Noscur, Carles’s Familiar
-
-Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousing and exploring Carles’s shop. He also wanders outside, but prefers to be around books. The Street of Books, where Carles’s shop is located, is Noscur’s territory, and he fights other toms for it.
+> Magic Might: None
+>
+> Vital Statistics: Size –3, Intelligence (creative) +1, Perception (night vision) +5, Strength (thin muscles) –3, Stamina 0, Presence (vicious) –1, Communication 0, Dexterity (always lands on feet) +3, Quickness (swift) +3
+>
+> Virtues and Flaws: None
+>
+> Personality Traits: Curious +4, Brave +3, Likes the Bizarre +3
+>
+> Reputation: Great Mouser (cats) 1
+>
+> Confidence: 3
+>
+> Combat Totals:
+>
+> - Bite & Claw Totals: First Strike +5, Attack +5, Damage –3
+>
+> Body Levels: OK, –3, Incapacitated
+>
+> Fatigue Levels: OK, –3, Unconscious
+>
+> Dodge Defense +7 (13 Action), Soak –2 (4 Action), Fatigue +0
+>
+> Encumbrance: 0
+>
+> Abilities: Speak Catalan/Provençal (animal names) 2, Stealth (hunting) 6, Perfect Balance (narrow perches) 3
+>
+> Powers: None
+>
+> Bond Cords: Bronze Cord (body) 1, Silver Cord (mind) 3, Golden Cord (magic) 1
+>
+> Bond Qualities: Mental Communication (within 100 pace range)
+>
+> Vis: None
 
 <!-- p. 82 --><a id="page-82"></a>
 
@@ -1936,6 +1959,13 @@ Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousin
 > Age: 77 (looks 55)
 >
 > Size: 0
+>
+
+#### Noscur, Carles’s Familiar
+
+Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousing and exploring Carles’s shop. He also wanders outside, but prefers to be around books. The Street of Books, where Carles’s shop is located, is Noscur’s territory, and he fights other toms for it.
+
+> ### Noscur, Carles’ Cat Familiar
 >
 > Virtues and Flaws: Book Learner (treat books studied as 2 levels higher than they are) +1, Gentle Gift (no –3 to social rolls) +1, Knack (+4 with languages) +2, Necessary Condition (must hold book to cast spells) –1, Gangling –2, Over-Confident –2
 >
@@ -1974,42 +2004,6 @@ Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousin
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +1 (7 Action), Fatigue +1
 
-> ### Noscur, Carles’ Cat Familiar
->
-> Magic Might: None
->
-> Vital Statistics: Size –3, Intelligence (creative) +1, Perception (night vision) +5, Strength (thin muscles) –3, Stamina 0, Presence (vicious) –1, Communication 0, Dexterity (always lands on feet) +3, Quickness (swift) +3
->
-> Virtues and Flaws: None
->
-> Personality Traits: Curious +4, Brave +3, Likes the Bizarre +3
->
-> Reputation: Great Mouser (cats) 1
->
-> Confidence: 3
->
-> Combat Totals:
->
-> - Bite & Claw Totals: First Strike +5, Attack +5, Damage –3
->
-> Body Levels: OK, –3, Incapacitated
->
-> Fatigue Levels: OK, –3, Unconscious
->
-> Dodge Defense +7 (13 Action), Soak –2 (4 Action), Fatigue +0
->
-> Encumbrance: 0
->
-> Abilities: Speak Catalan/Provençal (animal names) 2, Stealth (hunting) 6, Perfect Balance (narrow perches) 3
->
-> Powers: None
->
-> Bond Cords: Bronze Cord (body) 1, Silver Cord (mind) 3, Golden Cord (magic) 1
->
-> Bond Qualities: Mental Communication (within 100 pace range)
->
-> Vis: None
-
 <!-- p. 83 --><a id="page-83"></a>
 
 > ### The Books of the Eye
@@ -2029,6 +2023,20 @@ Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousin
 > **Magical Defenses** — *Waiting Spells* to knock out those who break in are on every entrance to the shop. The spell has a Penetration factor of +20 and operates on the Mentem Form. Victims who fail a Magic Resistance roll fall unconscious for 1d10 Rounds.
 
 <!-- p. 84 --><a id="page-84"></a>
+
+#### *Franç Severél of Jerbiton, the Merchant*
+
+Franç is a powerful member of the Covenant, but mortal life has drawn him from magic over the years. Twenty years ago he came to Barcelona and established himself as a merchant and patron of the arts. His business, mostly selling oil and fish, is now tended by underlings, and Franç is free to enjoy a life of wealth and artistic luxury.
+
+If Franç were found to be a Magus, he would have to give up his highly-prized lifestyle. He has slain seven people who seemed to be learning too much about him, and he has barred several Magi whose careless displays of magic in the city have attracted the attention of the nobility and Church. To protect his identity from incompetents, Franç forbids Farusca and Carles from telling visitors that he is a Magus, at least until visitors prove themselves trustworthy.
+
+Franç’s adoption of mortal life includes religion. He attends Mass weekly, always in the cathedral, and considers himself a Christian. Naturally, he does not agree with all Church doctrine, which includes prohibitions against magic. He considers doctrine something added to religion by fallible humans. The Mass, with its self-purification and the partaking of the Divine, is central to his faith.
+
+Franç lives inside the city walls, no mean accomplishment for a merchant. His stone house has an ample garden with a high wall surrounding it. Franç has seven unimaginative and uncurious servants, and a Turkish slave. Franç treats the slave well but the servants do not.
+
+As a wealthy bachelor, Franç is much sought after by young ladies of status. If he ever finds a woman strong enough to accept him as a Magus, he will marry.
+
+Franç has scruples against using magic directly against competitors, but does use spells to tell where various ships, carrying his goods, are in the Mediterranean. In his sanctum he has a map of the seas, with wooden markers to indicate the locations of various ships. If someone were to find this map, suspicions of Franç would rise since there’s no normal way to immediately know when a ship docks in Alexandria.
 
 > ### Franç Severél
 >
@@ -2078,21 +2086,15 @@ Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousin
 >
 > Other Combat Totals: Dodge Defense –1 (5 Action), Soak +1 (7 Action), Fatigue +1
 
-#### *Franç Severél of Jerbiton, the Merchant*
-
-Franç is a powerful member of the Covenant, but mortal life has drawn him from magic over the years. Twenty years ago he came to Barcelona and established himself as a merchant and patron of the arts. His business, mostly selling oil and fish, is now tended by underlings, and Franç is free to enjoy a life of wealth and artistic luxury.
-
-If Franç were found to be a Magus, he would have to give up his highly-prized lifestyle. He has slain seven people who seemed to be learning too much about him, and he has barred several Magi whose careless displays of magic in the city have attracted the attention of the nobility and Church. To protect his identity from incompetents, Franç forbids Farusca and Carles from telling visitors that he is a Magus, at least until visitors prove themselves trustworthy.
-
-Franç’s adoption of mortal life includes religion. He attends Mass weekly, always in the cathedral, and considers himself a Christian. Naturally, he does not agree with all Church doctrine, which includes prohibitions against magic. He considers doctrine something added to religion by fallible humans. The Mass, with its self-purification and the partaking of the Divine, is central to his faith.
-
-Franç lives inside the city walls, no mean accomplishment for a merchant. His stone house has an ample garden with a high wall surrounding it. Franç has seven unimaginative and uncurious servants, and a Turkish slave. Franç treats the slave well but the servants do not.
-
-As a wealthy bachelor, Franç is much sought after by young ladies of status. If he ever finds a woman strong enough to accept him as a Magus, he will marry.
-
-Franç has scruples against using magic directly against competitors, but does use spells to tell where various ships, carrying his goods, are in the Mediterranean. In his sanctum he has a map of the seas, with wooden markers to indicate the locations of various ships. If someone were to find this map, suspicions of Franç would rise since there’s no normal way to immediately know when a ship docks in Alexandria.
-
 <!-- p. 85 --><a id="page-85"></a>
+
+#### *Matlus of Jerbiton, the Old Nut*
+
+Much as Franç now plays the part of a mortal in Barcelona, Matlus played the same role from 1139 to 1182. Merchants still occasionally talk about “Louis” the cloth merchant, whose luck and apparent agelessness are legendary. Matlus’s revealing insights into society have made him well-read in the Order, and a cult figure for a small group of Jerbiton Magi. Matlus’s last apprentice, Agorsila, follows him around recording what he says (even though she is now a full Magus), trying to preserve as much of his wisdom as possible before he passes on. Old age and repeated Twilights have not been kind to Matlus, and he has lost his mind’s keen edge. However, what he lacks in piercing intelligence he makes up for in heartfelt and idiosyncratic opinion. Despite the sometimes rambling nature of Matlus’s words, Agorsila does not consider herself worthy to edit them.
+
+Excerpts from Matlus’s records may be found in the Chapter Four. Characters may find records of these monologues, or they might meet Matlus and hear him spout these collections of dubious wisdom.
+
+Matlus is Praeco of the Iberian Tribunal and presides from a Covenant in the foothills of the Pyrenees, so as to avoid disturbing Barcelona Covenant’s masquerade. Matlus still returns to Barcelona from time to time, though, drawn by nostalgia. Afraid of his Final Twilight, he refuses to disguise himself magically, and sometimes forgets how dangerous it is to be a Magus in a large city. Matlus has a grasp of human action on a societal level, but the personal motivations of individuals confuse him. Farusca wishes Matlus would stay out of Barcelona, but he is too popular in House Jerbiton for her to give him orders.
 
 > ### Matlus
 >
@@ -2137,14 +2139,6 @@ Franç has scruples against using magic directly against competitors, but does u
 > Encumbrance: 0
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak –2 (4 Action), Fatigue –2
-
-#### *Matlus of Jerbiton, the Old Nut*
-
-Much as Franç now plays the part of a mortal in Barcelona, Matlus played the same role from 1139 to 1182. Merchants still occasionally talk about “Louis” the cloth merchant, whose luck and apparent agelessness are legendary. Matlus’s revealing insights into society have made him well-read in the Order, and a cult figure for a small group of Jerbiton Magi. Matlus’s last apprentice, Agorsila, follows him around recording what he says (even though she is now a full Magus), trying to preserve as much of his wisdom as possible before he passes on. Old age and repeated Twilights have not been kind to Matlus, and he has lost his mind’s keen edge. However, what he lacks in piercing intelligence he makes up for in heartfelt and idiosyncratic opinion. Despite the sometimes rambling nature of Matlus’s words, Agorsila does not consider herself worthy to edit them.
-
-Excerpts from Matlus’s records may be found in the Chapter Four. Characters may find records of these monologues, or they might meet Matlus and hear him spout these collections of dubious wisdom.
-
-Matlus is Praeco of the Iberian Tribunal and presides from a Covenant in the foothills of the Pyrenees, so as to avoid disturbing Barcelona Covenant’s masquerade. Matlus still returns to Barcelona from time to time, though, drawn by nostalgia. Afraid of his Final Twilight, he refuses to disguise himself magically, and sometimes forgets how dangerous it is to be a Magus in a large city. Matlus has a grasp of human action on a societal level, but the personal motivations of individuals confuse him. Farusca wishes Matlus would stay out of Barcelona, but he is too popular in House Jerbiton for her to give him orders.
 
 <!-- p. 86 --><a id="page-86"></a>
 
@@ -2424,6 +2418,18 @@ Dona Galinda is a woman of the people. In the evenings she entertains guests wit
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +2 (8 Action), Fatigue +2
 
+### Magi
+
+There are seven Magi at Duresca, all Quaesitoris. Baruch is their leader and final arbiter in any decision. He is therefore the most important in the place.
+
+#### *Baruch, follower of Guernicus, Head Quaesitor of Iberia*
+
+Baruch became the leading Quaesitor of Iberia in 1189 after the Final Twilight of his predecessor. Baruch inherited a Tribunal filled with strife. Its mundane population warred constantly and Magi of the Order, not just those of the peninsula, were involved in the mundane disputes. The confusion of the time was exacerbated by Baruch’s relative youth. Fortunately, the support of Barcelona Covenant and Baruch’s gradual experience allowed him to make an impact upon Tribunal affairs. Establishing a policy of strict Traditionalism (conservative and strict rule interpretation), Baruch began to impose heavy penalties upon those who “stretched” the Code. He also established good relations with individual Magi of various Covenants who acted as enforcers for Quaesitor judgement. Under Baruch’s guidance, the Quaesitoris of Iberia have become more strict in their interpretations of the Code, and have grown more powerful.
+
+<!-- p. 95 --><a id="page-95"></a>
+
+Baruch is not completely the hard-nosed Quaesitor he appears to be. Raised and apprenticed in Provençal, he has enjoyed the best of French culture. He looks down upon those who seek to destroy mundane civilization and has friends among Magi of House Jerbiton. Baruch is known to write poetry and is a dignified and pleasant host. Indeed, he favors people who appear cultured.
+
 > ### Baruch, Head Quaesitor
 >
 > Characteristics: Intelligence (intuitive) +2, Perception (eye for detail) +2, Strength (athletic) +1, Stamina 0, Presence (domineering) +1, Communication (loud voice) +1, Dexterity (awkward) –1, Quickness 0
@@ -2473,18 +2479,6 @@ Dona Galinda is a woman of the people. In the evenings she entertains guests wit
 > Encumbrance: 0
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +0 (6 Action), Fatigue +0
-
-### Magi
-
-There are seven Magi at Duresca, all Quaesitoris. Baruch is their leader and final arbiter in any decision. He is therefore the most important in the place.
-
-#### *Baruch, follower of Guernicus, Head Quaesitor of Iberia*
-
-Baruch became the leading Quaesitor of Iberia in 1189 after the Final Twilight of his predecessor. Baruch inherited a Tribunal filled with strife. Its mundane population warred constantly and Magi of the Order, not just those of the peninsula, were involved in the mundane disputes. The confusion of the time was exacerbated by Baruch’s relative youth. Fortunately, the support of Barcelona Covenant and Baruch’s gradual experience allowed him to make an impact upon Tribunal affairs. Establishing a policy of strict Traditionalism (conservative and strict rule interpretation), Baruch began to impose heavy penalties upon those who “stretched” the Code. He also established good relations with individual Magi of various Covenants who acted as enforcers for Quaesitor judgement. Under Baruch’s guidance, the Quaesitoris of Iberia have become more strict in their interpretations of the Code, and have grown more powerful.
-
-<!-- p. 95 --><a id="page-95"></a>
-
-Baruch is not completely the hard-nosed Quaesitor he appears to be. Raised and apprenticed in Provençal, he has enjoyed the best of French culture. He looks down upon those who seek to destroy mundane civilization and has friends among Magi of House Jerbiton. Baruch is known to write poetry and is a dignified and pleasant host. Indeed, he favors people who appear cultured.
 
 #### *Other Magi*
 
@@ -2636,6 +2630,12 @@ As all Covenants are, Estáncia-es-Karida is occupied and maintained by many dif
 
 <!-- p. 101 --><a id="page-101"></a>
 
+<!-- p. 102 --><a id="page-102"></a>
+
+#### Custodes
+
+Estáncia-es-Karida maintains three distinct turbs of Grogs. All the Covenant’s *custodes* come from Berber tribes and while they are loyal to the Covenant, they have deep rivalries with each other. Each band of *custodes* vies to prove itself the best of the Covenant’s protectors. The three turbs are the Red Lions, Golden Hawks, and Green Horses. These warriors respectively provide infantry, archery, and cavalry for the Covenant’s defense, together providing ample protection against mundane aggression. Each turb has roughly 25 members and lodges in its own barracks within the Covenant. The secondary responsibility of the Red Lions is the guarding of the Magi’s residence. The Golden Hawks have the added responsibility of manning the Covenant gate and walls. The Green Horses are responsible for the maintenance of all the Covenant’s steeds.
+
 > ### Three Sample *Custodes* of Estáncia-es-Karida
 >
 > #### Malik of the Red Lions
@@ -2723,12 +2723,6 @@ As all Covenants are, Estáncia-es-Karida is occupied and maintained by many dif
 > Encumbrance: 1
 >
 > Other Combat Totals: Dodge Defense +4 (10 Action), Soak +5 (11 Action), Fatigue +2
-
-<!-- p. 102 --><a id="page-102"></a>
-
-#### Custodes
-
-Estáncia-es-Karida maintains three distinct turbs of Grogs. All the Covenant’s *custodes* come from Berber tribes and while they are loyal to the Covenant, they have deep rivalries with each other. Each band of *custodes* vies to prove itself the best of the Covenant’s protectors. The three turbs are the Red Lions, Golden Hawks, and Green Horses. These warriors respectively provide infantry, archery, and cavalry for the Covenant’s defense, together providing ample protection against mundane aggression. Each turb has roughly 25 members and lodges in its own barracks within the Covenant. The secondary responsibility of the Red Lions is the guarding of the Magi’s residence. The Golden Hawks have the added responsibility of manning the Covenant gate and walls. The Green Horses are responsible for the maintenance of all the Covenant’s steeds.
 
 ### Companions
 
@@ -3141,6 +3135,24 @@ The few covenfolk that provide for the day-to-day running of Jaferiya are, if an
 >
 > Other Combat Totals: Dodge Defense +7 (13 Action), Soak +8 (14 Action), Fatigue +2
 
+### Grogs
+
+The Grogs that remain at Jaferiya are a particularly sorry lot. They fulfill the basic duties expected of their profession, but only out of fear for the Magi, having almost no loyalty to the Covenant. The Magi, with their demonic connections, provide the kinds of rewards that appease the base folk of the turb, so those that remain do not desert the Covenant. Most of the Grogs’ off-duty time is spent drinking, gambling, and brawling. The Grogs occasionally exploit their positions to bully villagers but are not usually allowed to leave the Covenant. In general the Grogs are disorganized and do not fight cohesively. Their morale is very poor.
+
+<!-- p. 111 --><a id="page-111"></a>
+
+### Companions
+
+There are very few Companions operating within or for the Magi of Jaferiya. Most abandoned the Covenant when signs of the Infernal became obvious, to pursue their own lives elsewhere. Those *consortis* that remain are under the direct control of the Magi.
+
+#### Ferdinand Manet, Autocrat of Jaferiya
+
+Ferdinand Manet has been charged with daily Covenant operations. His work grows easier as the Covenant slides into depravity. No longer does Ferdinand need to worry about maintenance of the grounds or the livelihood of the covenfolk. He is free to explore his own desires. Ferdinand has succumbed to the sin of gluttony. Of the many factors required for the efficient running of a Covenant, Ferdinand concerns himself primarily with food. He rules the kitchen staff tyrannically, constantly demanding more succulent delicacies and more surprising presentations. Ferdinand partakes of his primary pleasure with gusto. Those watching him eat may be fascinated or repulsed, depending on their proclivities. For Ferdinand, food is the goal of life and the highest of achievements. When talking to visitors he always uses idioms that refer to food and foodstuffs (*“apple of my eye,” “feeling my oats,” “gentle as a lamb”*), and orders his world around meals (*“after lunch,” “before dinner,” “during breakfast”*).
+
+Due to his position in the Covenant, Ferdinand has accumulated a great deal of personal wealth. He dresses in ostentatious and elaborate clothing, always having at least two servants nearby to carry out his every whim. A large portion of his wealth is devoted to acquiring golden food services. He has a large collection of goblets, plates, knives and other implements adorned or made entirely of gold. Ferdinand believes such settings improve the taste of his food. The Magi allow him this extravagance because worldly matters do not concern them. They also enjoy watching the fat man squirm when they casually destroy things he values.
+
+Although Ferdinand may seem a ridiculous figure on first glance, he is in no way incompetent or unintelligent. He allows visitors to retain their first impression of him to better observe their plans, and is perceptive and diligent in rooting out threats posed to his masters.
+
 > ### Ferdinand Manet
 >
 > Characteristics: Intelligence (astute) +1, Perception (alert) +2, Strength (flabby muscles) –2, Stamina (obese) –2, Presence (multiple chins) –1, Communication (pandering) +1, Dexterity (fat fingered) –1, Quickness (lumbering) –3
@@ -3171,29 +3183,21 @@ The few covenfolk that provide for the day-to-day running of Jaferiya are, if an
 >
 > Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
 
-### Grogs
-
-The Grogs that remain at Jaferiya are a particularly sorry lot. They fulfill the basic duties expected of their profession, but only out of fear for the Magi, having almost no loyalty to the Covenant. The Magi, with their demonic connections, provide the kinds of rewards that appease the base folk of the turb, so those that remain do not desert the Covenant. Most of the Grogs’ off-duty time is spent drinking, gambling, and brawling. The Grogs occasionally exploit their positions to bully villagers but are not usually allowed to leave the Covenant. In general the Grogs are disorganized and do not fight cohesively. Their morale is very poor.
-
-<!-- p. 111 --><a id="page-111"></a>
-
-### Companions
-
-There are very few Companions operating within or for the Magi of Jaferiya. Most abandoned the Covenant when signs of the Infernal became obvious, to pursue their own lives elsewhere. Those *consortis* that remain are under the direct control of the Magi.
-
-#### Ferdinand Manet, Autocrat of Jaferiya
-
-Ferdinand Manet has been charged with daily Covenant operations. His work grows easier as the Covenant slides into depravity. No longer does Ferdinand need to worry about maintenance of the grounds or the livelihood of the covenfolk. He is free to explore his own desires. Ferdinand has succumbed to the sin of gluttony. Of the many factors required for the efficient running of a Covenant, Ferdinand concerns himself primarily with food. He rules the kitchen staff tyrannically, constantly demanding more succulent delicacies and more surprising presentations. Ferdinand partakes of his primary pleasure with gusto. Those watching him eat may be fascinated or repulsed, depending on their proclivities. For Ferdinand, food is the goal of life and the highest of achievements. When talking to visitors he always uses idioms that refer to food and foodstuffs (*“apple of my eye,” “feeling my oats,” “gentle as a lamb”*), and orders his world around meals (*“after lunch,” “before dinner,” “during breakfast”*).
-
-Due to his position in the Covenant, Ferdinand has accumulated a great deal of personal wealth. He dresses in ostentatious and elaborate clothing, always having at least two servants nearby to carry out his every whim. A large portion of his wealth is devoted to acquiring golden food services. He has a large collection of goblets, plates, knives and other implements adorned or made entirely of gold. Ferdinand believes such settings improve the taste of his food. The Magi allow him this extravagance because worldly matters do not concern them. They also enjoy watching the fat man squirm when they casually destroy things he values.
-
-Although Ferdinand may seem a ridiculous figure on first glance, he is in no way incompetent or unintelligent. He allows visitors to retain their first impression of him to better observe their plans, and is perceptive and diligent in rooting out threats posed to his masters.
-
 ### Magi
 
 The Magi of Jaferiya, under Rasus, are all much younger than their leader. Some of them are even his own *filii*. Most of the lesser Magi are active diabolists. (Rasus believes he has not fallen under Hell’s sway and does not participate in overtly diabolical activities.) Active diabolical Magi believe Rasus knows of and condones their activities, but none of them discuss their activities with their leader. On the other hand, some of the Magi who have recently become diabolists believe Rasus holds special rituals that only the most worthy and loyal are allowed to attend.
 
+The lesser Magi of Jaferiya are typical followers of Flambeau. While a few follow Rasus’s devotion to the art of destruction, most prefer power in flame. As a group the Magi are brash and headstrong, believing they can defeat any challengers. The Flambeau playfully test each other in contests of magic. The countryside and people of Tanámes suffer more from these contests than Rasus’s minions do. The lesser Magi also compete for the favor of the demons they serve; each is willing to go to greater depths if it means an advantage over competitors. In spite of this constant rivalry, Jaferiya’s band of Magi is fairly tightknit.
+
 <!-- p. 112 --><a id="page-112"></a>
+
+#### Rasus, follower of Flambeau
+
+The leader of the Magi of Jaferiya is Rasus, *filius* of the Arch Mage Karandos, and specialist in the Art of Perdo. He is a dark, brooding man with a piercing stare. His hair runs to grey on the ends but otherwise is a rich brown. Rasus is massive, presenting a formidable figure. He is civil with guests but often seems preoccupied. He does not answer questions of a personal nature and few ask them of him.
+
+Rasus is plagued by demons and began dealing with them some time ago to gain relief from their torment. The demons that torment him must be able to survive the threat of his magic. The demons that have survived his attacks are among the most powerful and subtle in Hell. When one of them finally wins Rasus’s soul, the Magus will be elevated into the ranks of devilkind.
+
+Rasus controls the activities of Jaferiya’s Magi with an iron will. He allows them to torment local villagers, and to vent their passions while close to home, but only allows those he considers trustworthy to stray far from the Covenant without supervision. Rasus’s ultimate goal, the reason he risks his immortal soul in dealings with demons, is the complete elimination of the Islamic peoples. He has cultivated relationships with the leaders of the Reconquista and supports them as much as he can without alerting the Quaesitoris (at least until revealed as a member of the Shadow Flambeau).
 
 > ### Rasus
 >
@@ -3252,17 +3256,11 @@ The Magi of Jaferiya, under Rasus, are all much younger than their leader. Some 
 >
 > Other Combat Totals: Dodge Defense +4 (10 Action), Soak +3 (9 Action), Fatigue +3
 
-The lesser Magi of Jaferiya are typical followers of Flambeau. While a few follow Rasus’s devotion to the art of destruction, most prefer power in flame. As a group the Magi are brash and headstrong, believing they can defeat any challengers. The Flambeau playfully test each other in contests of magic. The countryside and people of Tanámes suffer more from these contests than Rasus’s minions do. The lesser Magi also compete for the favor of the demons they serve; each is willing to go to greater depths if it means an advantage over competitors. In spite of this constant rivalry, Jaferiya’s band of Magi is fairly tightknit.
-
-#### Rasus, follower of Flambeau
-
-The leader of the Magi of Jaferiya is Rasus, *filius* of the Arch Mage Karandos, and specialist in the Art of Perdo. He is a dark, brooding man with a piercing stare. His hair runs to grey on the ends but otherwise is a rich brown. Rasus is massive, presenting a formidable figure. He is civil with guests but often seems preoccupied. He does not answer questions of a personal nature and few ask them of him.
-
-Rasus is plagued by demons and began dealing with them some time ago to gain relief from their torment. The demons that torment him must be able to survive the threat of his magic. The demons that have survived his attacks are among the most powerful and subtle in Hell. When one of them finally wins Rasus’s soul, the Magus will be elevated into the ranks of devilkind.
-
-Rasus controls the activities of Jaferiya’s Magi with an iron will. He allows them to torment local villagers, and to vent their passions while close to home, but only allows those he considers trustworthy to stray far from the Covenant without supervision. Rasus’s ultimate goal, the reason he risks his immortal soul in dealings with demons, is the complete elimination of the Islamic peoples. He has cultivated relationships with the leaders of the Reconquista and supports them as much as he can without alerting the Quaesitoris (at least until revealed as a member of the Shadow Flambeau).
-
 <!-- p. 113 --><a id="page-113"></a>
+
+#### Metron
+
+Metron is one of Rasus’s favorite young Magi. He is devious and knows the ways of intrigue well. He always hints at meanings greater than the face value of his words. He attempts to confuse opponents so they do not know what to expect. If it comes down to it, Metron has every Flambeau’s arsenal of offensive options and isn’t afraid to use them.
 
 > ### Metron
 >
@@ -3310,23 +3308,9 @@ Rasus controls the activities of Jaferiya’s Magi with an iron will. He allows 
 >
 > Other Combat Totals: Dodge Defense +2 (8 Action), Soak +0 (6 Action), Fatigue +0
 
-#### Metron
-
-Metron is one of Rasus’s favorite young Magi. He is devious and knows the ways of intrigue well. He always hints at meanings greater than the face value of his words. He attempts to confuse opponents so they do not know what to expect. If it comes down to it, Metron has every Flambeau’s arsenal of offensive options and isn’t afraid to use them.
-
 #### Relegare
 
 Relegare has been corrupted by a demon of Lust and has given herself over to that sin. She speaks slowly and gazes longingly at those she interacts with.
-
-## Fortress
-
-*Note: This description of Jaferiya pre-dates its exposure as a Covenant of diabolists.*
-
-*For the layout of the Covenant, see the Jaferiya map.*
-
-Jaferiya stands upon a rocky hill, in the stark landscape surrounding the village of Tanámes. A meager stream runs its path south of the Covenant, facing the gates. Upon entering the Covenant, the first thing that strikes the visitor is the enormous hourglass set in the center of the courtyard. This device of glass and bronze gleams in the sun and slowly marks the passage of time, the great destroyer. The glass is marked with several lines and actually measures a period of 12 hours. The Covenant has built its schedule around the hourglass. The watches of the Grogs and the servants’ shifts are expressed in terms of marks on the glass: “At the mark past dawn,” is when the night watch is over; “At the turning for the evening,” is when councils begin; “Mid-mark,” is a synonym for midnight. When traveling, the Magi of Jaferiya carry miniature replicas of the glass to keep time. These are particularly useful in timing long-distance communication spells and rituals.
-
-<!-- p. 114 --><a id="page-114"></a>
 
 > ### Relegare
 >
@@ -3372,6 +3356,16 @@ Jaferiya stands upon a rocky hill, in the stark landscape surrounding the villag
 > Encumbrance: 0
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +2 (8 Action), Fatigue +2
+
+## Fortress
+
+*Note: This description of Jaferiya pre-dates its exposure as a Covenant of diabolists.*
+
+*For the layout of the Covenant, see the Jaferiya map.*
+
+Jaferiya stands upon a rocky hill, in the stark landscape surrounding the village of Tanámes. A meager stream runs its path south of the Covenant, facing the gates. Upon entering the Covenant, the first thing that strikes the visitor is the enormous hourglass set in the center of the courtyard. This device of glass and bronze gleams in the sun and slowly marks the passage of time, the great destroyer. The glass is marked with several lines and actually measures a period of 12 hours. The Covenant has built its schedule around the hourglass. The watches of the Grogs and the servants’ shifts are expressed in terms of marks on the glass: “At the mark past dawn,” is when the night watch is over; “At the turning for the evening,” is when councils begin; “Mid-mark,” is a synonym for midnight. When traveling, the Magi of Jaferiya carry miniature replicas of the glass to keep time. These are particularly useful in timing long-distance communication spells and rituals.
+
+<!-- p. 114 --><a id="page-114"></a>
 
 Once fully arrived in the courtyard, visitors to Jaferiya are greeted by the Autocrat, Ferdinand. Their horses are led to the stables in the far western area of the courtyard while visitors are made comfortable in the guest quarters, just east of the main courtyard. The central building of the Covenant abuts the castle’s northern wall and spans most of its length. The building is made of the same brick as the walls, in a Mythic European, not Arabic, style. The walls of the Covenant proper do not reach the height of the outer walls, and they are pierced with many tall windows. Outbuildings are built with lower floors of brick and upper floors of timber. Roofs are tiled and slant into the central courtyard. In the small square between the guests’ building and the ruined tower, there is a garden. It is sheltered from the sun except during the noon hours, so is nearly void of plants. A small fountain runs in the garden and several benches make it an enjoyable place for rest while awaiting an audience with the masters of Jaferiya. Any restful feelings, however, are quickly disturbed by visions of the fire-scarred tower that seems to loom over the secluded garden.
 

@@ -331,7 +331,7 @@ www.atlas-games.com
 - [Appendix I: Shamans](#appendix-i-shamans)
   - [Shaman Characters](#shaman-characters)
   - [The Spirit World](#the-spirit-world)
-  - [Shamanic Powers](#shamanic-powers)
+  - [Shamanic Powers](#shamanic-powers-1)
   - [The Fetch](#the-fetch)
   - [Shamans in Sagas](#shamans-in-sagas)
   - [The Mongol Shamans](#the-mongol-shamans)
@@ -1335,9 +1335,7 @@ Pope Gregory IX was not pleased by Baldwin’s report and sent him back with enh
 > Half Brother/Sister<br>
 > Sergeant
 
-Baldwin fled to Rome and charged the Knights of the Sword with disobedience, rebellion, and heresy. The Pope was furious. He relieved Baldwin of his authority and ordered William of Modena back to Livonia. William arrived in 1234 and instituted a new division of estates, giving more to the Knights and establishing Bishoprics in Oesel and
-
-Curland. He brought the feuding parties to terms and got Master Folkwin reinstated.
+Baldwin fled to Rome and charged the Knights of the Sword with disobedience, rebellion, and heresy. The Pope was furious. He relieved Baldwin of his authority and ordered William of Modena back to Livonia. William arrived in 1234 and instituted a new division of estates, giving more to the Knights and establishing Bishoprics in Oesel and Curland. He brought the feuding parties to terms and got Master Folkwin reinstated.
 
 <!-- p. 44 --><a id="page-44"></a>
 
@@ -2206,7 +2204,7 @@ Second, the presiding Volkhv receives the Ritual Total of the Great Ritual as a 
 
 Finally, the Volkhv’s Magic Resistance increases by the full amount of the Ritual Total until dawn of the next day. This is not affected by spending from the pool of power, as described above.
 
-Volkhvy who participate in (but do not preside over) a Great Ritual automatically
+Volkhvy who participate in (but do not preside over) a Great Ritual automatically remain in Communion until sunset, receive a pool of power equal half the Ritual Total which must be used by sunset or lost, and have their Magic Resistance increased by half the Ritual Total until sunset.
 
 > ### Traditional Aftermath Activities
 >
@@ -2219,8 +2217,6 @@ Volkhvy who participate in (but do not preside over) a Great Ritual automaticall
 > #### Prophecy
 >
 > The prophecies delivered during Aftermath are often given even more weight than prophecies performed at other times by the members of a pagan community. Members of the community often want to know if good times or ill are headed for the community as a whole. The highest level of prophecy reaches a theoretical level of 108 (a crucial question concerning matters a millennium in the future of concern to many nations). Accordingly, if a Volkhv needs to pursue answers to questions affecting exceptional time limits, areas, or importance, he will wait until a Great Ritual Aftermath.
-
-remain in Communion until sunset, receive a pool of power equal half the Ritual Total which must be used by sunset or lost, and have their Magic Resistance increased by half the Ritual Total until sunset.
 
 <!-- p. 74 --><a id="page-74"></a>
 
@@ -2561,6 +2557,12 @@ Weaknesses: Vulnerability to Iron
 
 Vis: 15 Herbam
 
+<!-- p. 86 --><a id="page-86"></a>
+
+### *Polevik*
+
+Polevik (also known as Polevoi) are field spirits. Commonly they are less powerful than Leshy, but in certain regions, especially south Russia, certain of them have attained very great power and some are even worshipped as minor divinities. Polevik are often but not exclusively female, and may appear more or less human depending on the season and the circumstances of the encounter. The hue and the color of their clothing can change from bright green (spring), through deep green (summer), auburn or gold (autumn), to white or gray (winter). Sometimes grass grows on a Polevik’s head rather than hair. Their bodies may be the hue of freshly turned earth and their eyes may resemble glittering stones. The Polevik were always asked for their blessings by the Slavs, but they could be capricious, and if offended, dangerous. Polevik are highly tolerant of iron. The practices of plowing the earth and reaping grain with iron tools may have accustomed them to this metal.
+
 #### Polevik
 
 Faerie Might: 20+
@@ -2593,12 +2595,6 @@ Powers:<br>
 *Faerie Powers:* Bless 8, Control Element: Herbam 5, Control Fertility 16, Curse 8, Healing 4
 
 Vis: 7 Herbam
-
-<!-- p. 86 --><a id="page-86"></a>
-
-### *Polevik*
-
-Polevik (also known as Polevoi) are field spirits. Commonly they are less powerful than Leshy, but in certain regions, especially south Russia, certain of them have attained very great power and some are even worshipped as minor divinities. Polevik are often but not exclusively female, and may appear more or less human depending on the season and the circumstances of the encounter. The hue and the color of their clothing can change from bright green (spring), through deep green (summer), auburn or gold (autumn), to white or gray (winter). Sometimes grass grows on a Polevik’s head rather than hair. Their bodies may be the hue of freshly turned earth and their eyes may resemble glittering stones. The Polevik were always asked for their blessings by the Slavs, but they could be capricious, and if offended, dangerous. Polevik are highly tolerant of iron. The practices of plowing the earth and reaping grain with iron tools may have accustomed them to this metal.
 
 ### *Vodyanoi*
 
@@ -2867,12 +2863,6 @@ Vis: 3 Intéllego
 
 Every Slavic clan has its animal mascots, and most pagan villages are attended by one or more of these fabulous animals. Such animals are always larger than their mundane counterparts, are Intelligent rather than Cunning, and can usually talk comprehensibly if not eloquently. The villagers or clanmembers often turn to these animals for advice and guidance, and always deal with these totem animals with courtesy and respect — possibly even outright worship. These animals often give gifts of prophecy; in many cases their simple appearance is an important omen.
 
-### Strukis: The Great Pike
-
-Strukis the Pike is the king of fish and lord of the water faeries. This belief is especially powerful in Poland, near lake Strukhalis. The Pike’s dominion over all the fish of the world fails for only one hour in the year, during which he sleeps and dreams prophetic dreams. Strukis has great wisdom, since knowledge is borne to him from all the streams and lakes of the Slavic world, but he is miserly and greedy for slaves. Anyone entering his realm or palace stands a very good chance of being seized and enslaved. Strukis should be played as a magical faerie animal who can take the form of a great faerie lord, rather than as a faerie lord who can assume the form of an animal.
-
-<!-- p. 90 --><a id="page-90"></a>
-
 #### Totem Example: Bear
 
 Faerie Might: 15-20
@@ -2907,6 +2897,12 @@ Powers:
 Weaknesses: Vulnerability to Iron
 
 Vis: 8 Animál, 3 Vim
+
+### Strukis: The Great Pike
+
+Strukis the Pike is the king of fish and lord of the water faeries. This belief is especially powerful in Poland, near lake Strukhalis. The Pike’s dominion over all the fish of the world fails for only one hour in the year, during which he sleeps and dreams prophetic dreams. Strukis has great wisdom, since knowledge is borne to him from all the streams and lakes of the Slavic world, but he is miserly and greedy for slaves. Anyone entering his realm or palace stands a very good chance of being seized and enslaved. Strukis should be played as a magical faerie animal who can take the form of a great faerie lord, rather than as a faerie lord who can assume the form of an animal.
+
+<!-- p. 90 --><a id="page-90"></a>
 
 #### Strukis
 
@@ -2946,26 +2942,6 @@ Vis: 15 Aquam, 5 Mentem, 5 Intéllego
 
 The Firebird, called Zhar–Ptitsa, is the most widely known, magically potent, and elusive of the legendary Slavic animals. Physically it takes the form of the cassowary, and dwells in the garden of the sun in the uttermost East. Here it feeds on golden apples and other fruits that blaze as brightly as gems. A single feather from its wing can light the interior of a palace feast hall brighter than full sunlight, though no one experiences any danger or pain in looking at the Firebird. The Firebird has never shown any true intelligence, but it is a cunning thief, with an eye for gems, fruit, or other bright, sweet things. The Firebird is typically encountered only in areas of very potent regiones with nearby access to Arcadia. It is one of those exceptionally rare faeries so powerful it can generate gateways to Arcadia at need (which makes it hard to catch, or to keep once caught).
 
-<!-- p. 91 --><a id="page-91"></a>
-
-### Semargl
-
-Semargl is among the strangest of all the chimaeric beasts of legend. He has the head, body, and limbs of a dog, the wings and tail of an eagle, and is feathered from head to tail. Semargl is swift, voracious, and cunning. He is a servant of the gods, though his duties remain a mystery. Possibly, like Hermes and Mercury, he is their messenger.
-
-## Animal Princes
-
-All of the different species of animals have their own courts and princes. These are in many ways similar to the courts of other faeries, though animal princes and their “vassals” are much less likely to mimic the culture of humans in the way that the faeries of most Slavic courts do. Instead, they concern themselves with the issues of importance to their species.
-
-The courts of the animal princes are only encountered deep within faerie regiones. Even then, it is far more likely that any animal prince encountered makes its true home in Arcadia.
-
-Animal princes and their courtiers are fully-intelligent shapechangers who can assume human guise at will. They have noble natures and behave graciously with guests. Some of them, particularly the princes of the eagles, hawks, and falcons, are known to have wooed human princesses. The alliances result are often highly advantageous to human princes.
-
-In game terms, treat animal princes as atypical Faerie Lords with appropriately adjusted powers and abilities.
-
-## Monsters
-
-Outside the realm of Slavic religious mythology, other forces lurk. Some are also seen in western folklore — dragons, ogres, and the like — but a few are peculiar to the Slavic peoples. Many of the following creatures are found in the far north-western Carpathian mountains (the Tatras), and consequently infest the southern Polish border.
-
 #### Zhar-Ptitsa: The Firebird
 
 Faerie Might: 50
@@ -2995,6 +2971,12 @@ Powers:
 Weaknesses: Discomfort from Iron
 
 Vis: 30 Ignem
+
+<!-- p. 91 --><a id="page-91"></a>
+
+### Semargl
+
+Semargl is among the strangest of all the chimaeric beasts of legend. He has the head, body, and limbs of a dog, the wings and tail of an eagle, and is feathered from head to tail. Semargl is swift, voracious, and cunning. He is a servant of the gods, though his duties remain a mystery. Possibly, like Hermes and Mercury, he is their messenger.
 
 #### Semargl
 
@@ -3026,6 +3008,20 @@ Weaknesses: Vulnerable to Iron
 
 Vis: 10 Animál, 10 Auram
 
+## Animal Princes
+
+All of the different species of animals have their own courts and princes. These are in many ways similar to the courts of other faeries, though animal princes and their “vassals” are much less likely to mimic the culture of humans in the way that the faeries of most Slavic courts do. Instead, they concern themselves with the issues of importance to their species.
+
+The courts of the animal princes are only encountered deep within faerie regiones. Even then, it is far more likely that any animal prince encountered makes its true home in Arcadia.
+
+Animal princes and their courtiers are fully-intelligent shapechangers who can assume human guise at will. They have noble natures and behave graciously with guests. Some of them, particularly the princes of the eagles, hawks, and falcons, are known to have wooed human princesses. The alliances result are often highly advantageous to human princes.
+
+In game terms, treat animal princes as atypical Faerie Lords with appropriately adjusted powers and abilities.
+
+## Monsters
+
+Outside the realm of Slavic religious mythology, other forces lurk. Some are also seen in western folklore — dragons, ogres, and the like — but a few are peculiar to the Slavic peoples. Many of the following creatures are found in the far north-western Carpathian mountains (the Tatras), and consequently infest the southern Polish border.
+
 ### Poludnica
 
 Poludnica are common in Poland. They are revenant spirits, either of pagan souls who have not gone to Arcadia, or of Christians who were improperly buried or slain by evil faeries such as a Vodyanoi. Poludnica have no physical form and seldom communicate clearly. They can inflict close relatives with prophetic or maddening dreams, or bring warnings of approaching tragedies.
@@ -3045,6 +3041,10 @@ Personality Traits: Disturbed +2
 Powers:
 
 *Faerie Powers:* Fear 2, Prophecy 3
+
+### Strzyga
+
+Strzyga are Polish changelings or halflings. They are born with two full sets of teeth and also have two spirits: one human, the other faerie. Even proper baptism is no cure for the devilish nature of the Strzyga, for the holy water only touches the human spirit and the soul. A Strzyga can lead a long, apparently normal life, marry, have children and die, all without demonstrating exceptional evil. After death, however, when the soul has gone to its reward and the human spirit is at rest, the evil spirit rouses and sends the body out to live as a vampire or crossroads murderer. Unlike traditional vampires, Strzyga do not suck blood. They are more prone to strangling, and enjoy inhaling the last dying breaths of their victims, from which they can gain more Faerie Might.
 
 #### Strzyga
 
@@ -3080,10 +3080,6 @@ Weaknesses: Vulnerability to Iron
 
 Vis: 3 Perdo, 2 Vim
 
-### Strzyga
-
-Strzyga are Polish changelings or halflings. They are born with two full sets of teeth and also have two spirits: one human, the other faerie. Even proper baptism is no cure for the devilish nature of the Strzyga, for the holy water only touches the human spirit and the soul. A Strzyga can lead a long, apparently normal life, marry, have children and die, all without demonstrating exceptional evil. After death, however, when the soul has gone to its reward and the human spirit is at rest, the evil spirit rouses and sends the body out to live as a vampire or crossroads murderer. Unlike traditional vampires, Strzyga do not suck blood. They are more prone to strangling, and enjoy inhaling the last dying breaths of their victims, from which they can gain more Faerie Might.
-
 ### Dragons
 
 The Dragons are the worst of the monsters that inhabit the northern Carpathians. One of these ferocious beasts was slain by the legendary polish hero Krakus; the site of this event later became the city of Krakow. However, even Krakus could not slay it in battle, and was forced to rely on an alchemical trick to destroy it.
@@ -3091,20 +3087,6 @@ The Dragons are the worst of the monsters that inhabit the northern Carpathians.
 Slavic dragons are similar to those found in central Mythic Europe. They’re four-limbed firebreathing creatures with serpentine bodies and bat wings. Slavic dragons fall into two broad categories. The dragon Krakus killed was of the first type: physically powerful, hungry, and resilient, but not intelligent. The second type is altogether subtler. It is still physically dangerous, but much more intelligent, magically gifted, and vicious.
 
 Most dragons in other parts of Europe are allied with the Realm of Magic. It is unknown whether these Slavic dragons bear any relation to those dragons, because while their forms are similar, these hail from faerie. It is almost certainly the burning passion of a magus somewhere to find out.
-
-### Ogres and Giants
-
-Ogres, giants, and trolls are called dziwozony in Poland and norka in Russia. There are too many varieties of these creatures to detail here, but they do have certain common characteristics: great size, superhuman strength, low intelligence, and vulnerability to Christian rituals and relics. They often have power over earth and a rocky invulnerability to many weapons. They are typically not seriously bothered by iron. Frequently these monsters have the ability to shapechange into the most common element in their environment (rock, earth, water, or mud) and to move through it effortlessly. It is also common to find that they have very acute senses and can detect (often by smell) the presence of mortals. Some have senses so acute they can identify nationality by scent.
-
-<!-- p. 93 --><a id="page-93"></a>
-
-It is not uncommon to encounter these monsters in groups of siblings, and to find that the siblings have an ever-increasing number of heads. Thus, if there is a group of three giants preying on a city, the first may have three heads, the second six, and the last nine. The more heads one of these monsters has, the harder it will be to kill. As a rule of thumb, assume five points of Might per head.
-
-### Zluidni
-
-Zluidni are the smallest, most common, and most spiteful of all the Slavic dark faeries. There are too many varieties to even begin cataloging them, but certain common attributes can be noted. Zluidni are physically small (of Size –2 to –4), misshapen or chimaeric in appearance, and have limited shapeshifting powers. Regardless of the form they take, however, some malformation or distortion always gives them away.
-
-Zluidni are found in urban, rural, and wilderness areas equally. Their powers typically allow minor cursing and the use of glamour and possession in order to play small, vicious jokes. They are not usually capable of a physical act of murder, but are known for leading unwary travelers astray or causing enmity and feuds in a community. A good Domovoi is more than a match for any number of Zluidni, and wouldn’t tolerate them near his home for an instant.
 
 #### Dragon (Marauding)
 
@@ -3176,7 +3158,13 @@ Weaknesses: Vulnerability to Iron
 
 Vis: 5 Ignem, 15 Perdo, 15 Vim
 
-<!-- p. 94 --><a id="page-94"></a>
+### Ogres and Giants
+
+Ogres, giants, and trolls are called dziwozony in Poland and norka in Russia. There are too many varieties of these creatures to detail here, but they do have certain common characteristics: great size, superhuman strength, low intelligence, and vulnerability to Christian rituals and relics. They often have power over earth and a rocky invulnerability to many weapons. They are typically not seriously bothered by iron. Frequently these monsters have the ability to shapechange into the most common element in their environment (rock, earth, water, or mud) and to move through it effortlessly. It is also common to find that they have very acute senses and can detect (often by smell) the presence of mortals. Some have senses so acute they can identify nationality by scent.
+
+<!-- p. 93 --><a id="page-93"></a>
+
+It is not uncommon to encounter these monsters in groups of siblings, and to find that the siblings have an ever-increasing number of heads. Thus, if there is a group of three giants preying on a city, the first may have three heads, the second six, and the last nine. The more heads one of these monsters has, the harder it will be to kill. As a rule of thumb, assume five points of Might per head.
 
 #### Three-Headed Giant
 
@@ -3211,6 +3199,14 @@ Powers:
 Weaknesses: Discomfort from Iron
 
 Vis: 6 Terram, 4 Perdo
+
+### Zluidni
+
+Zluidni are the smallest, most common, and most spiteful of all the Slavic dark faeries. There are too many varieties to even begin cataloging them, but certain common attributes can be noted. Zluidni are physically small (of Size –2 to –4), misshapen or chimaeric in appearance, and have limited shapeshifting powers. Regardless of the form they take, however, some malformation or distortion always gives them away.
+
+Zluidni are found in urban, rural, and wilderness areas equally. Their powers typically allow minor cursing and the use of glamour and possession in order to play small, vicious jokes. They are not usually capable of a physical act of murder, but are known for leading unwary travelers astray or causing enmity and feuds in a community. A good Domovoi is more than a match for any number of Zluidni, and wouldn’t tolerate them near his home for an instant.
+
+<!-- p. 94 --><a id="page-94"></a>
 
 ## The Infernal
 
@@ -3371,6 +3367,12 @@ At first these were trivial. The “nomads” living on the borders of Slavic Ea
 
 Then the wyrms appeared, not just in Slavic Earth, but in the clan lands of Slavic Hell too. These creatures were unlike anything seen in Slavic Arcadia before. Serpentine, these creatures have massive jaws, manes, and horns, often gold and silver or ebony in color. They have four limbs and terrible claws and fly through the air though they are wingless. They do not breath flame, but travel with thunder and lightning and strange magics.
 
+These creatures are the spirits of the Mongols, come to ravage the spirits and dreams of the Slavs. In the time since their first appearance they have attacked the very roots of the World Tree, swarming into the clan lands in vast numbers. They have destroyed three princedoms in Slavic Earth and have made a blasted wasteland of the ground there.
+
+In the future, war will become general in Slavic Earth, and the first signs of real damage to the World Tree will emerge. The Slavs as a people are about to suffer a terrible blow, one that will greatly hasten the end of Slavic paganism. The Mongols are going to butcher vast numbers of believers in Mythic Europe and slay many Volkhvy who will never pass on their knowledge and beliefs. If this tragedy is permitted to occur there will ultimately be no full recovery. Slavic Arcadia will be ravaged as the forces of Mongolian spirits and Shamanic magic sweep across it, and the first signs are already plain to see.
+
+How this Onslaught, as it has come to be called, affects Mythic Europe and your saga is up to you. Although these activities may simply be the reverberations of events in Mythic Europe, you might decide that the cause and effect are actually the other way around. Whatever you decide, the events of the Onslaught should be tied in with your decisions about the inspiration and goals of the Mongol conquest in Mythic Europe, which will be discussed in Chapter 6.
+
 <!-- p. 100 --><a id="page-100"></a>
 
 #### Onslaught Dragon
@@ -3405,12 +3407,6 @@ Powers:
 Weaknesses: Vulnerability to Iron
 
 Vis: 10 Auram, 10 Aquam, 10 Perdo, 10 Vim
-
-These creatures are the spirits of the Mongols, come to ravage the spirits and dreams of the Slavs. In the time since their first appearance they have attacked the very roots of the World Tree, swarming into the clan lands in vast numbers. They have destroyed three princedoms in Slavic Earth and have made a blasted wasteland of the ground there.
-
-In the future, war will become general in Slavic Earth, and the first signs of real damage to the World Tree will emerge. The Slavs as a people are about to suffer a terrible blow, one that will greatly hasten the end of Slavic paganism. The Mongols are going to butcher vast numbers of believers in Mythic Europe and slay many Volkhvy who will never pass on their knowledge and beliefs. If this tragedy is permitted to occur there will ultimately be no full recovery. Slavic Arcadia will be ravaged as the forces of Mongolian spirits and Shamanic magic sweep across it, and the first signs are already plain to see.
-
-How this Onslaught, as it has come to be called, affects Mythic Europe and your saga is up to you. Although these activities may simply be the reverberations of events in Mythic Europe, you might decide that the cause and effect are actually the other way around. Whatever you decide, the events of the Onslaught should be tied in with your decisions about the inspiration and goals of the Mongol conquest in Mythic Europe, which will be discussed in Chapter 6.
 
 <!-- p. 101 --><a id="page-101"></a>
 
@@ -4103,6 +4099,8 @@ Her goals (in approximately this order of importance) are:
 
 Though Malincka believes she knows *what* happens in a Volkhv Great Ritual, in order to control it she must first understand *how* it happens. Therefore she has been creating ever more powerful InVi spells. Simultaneously, she is pursuing methods of creating and manipulating auras using a blend of Hermetic and Volkhv methods. She has also encouraged her community to pursue more direct methods. The revived cult of Hermes was her idea though she has played relatively little part in promoting it. Her reasoning is that while a great faerie power is necessary to the aura tempering process, Hermetic magi must not use a Slavic deity, for this will merely lead to a situation where they are locked into Volkhv techniques and results. She needs a new god, one willing to work with and through a Hermetic system, and able to help raise and temper a Hermetic magic aura. She speculates that a great faerie will be willing to assume this role, for though she does not know what benefit faerie gods derive from human worship, she believes they must derive some real and tangible increase in power from such attention.
 
+However, Malincka is not a fool. She slaves at her InVi, MuVi, and CrVi spells because she knows that the new religion is dangerously uncontrolled. If she cannot understand and control the magical energies that create the Slavic aura then who knows what fearsome end might result?
+
 #### Malincka Capcek, Follower of Bonisagus
 
 Characteristics: Int +4, Per +2, Pre –1, Com +1, Str –1, Sta 0, Dex +2, Qik +1
@@ -4224,8 +4222,6 @@ Spells
 
 <!-- p. 126 --><a id="page-126"></a>
 
-However, Malincka is not a fool. She slaves at her InVi, MuVi, and CrVi spells because she knows that the new religion is dangerously uncontrolled. If she cannot understand and control the magical energies that create the Slavic aura then who knows what fearsome end might result?
-
 ### *Nastassia Baramov*
 
 Nastassia is Malincka’s second-in-command, and supplies the force of character necessary to support Malincka’s rather abstract vision. Nastassia is an oddity for a Bjornaer maga. She has a powerful leaning toward Ignem magic, which shows up in several of her abilities, and her personality. In fact, aside from her strong commitment to Malincka’s goals, Nastassia has one overriding obsession, the Firebird.
@@ -4301,18 +4297,6 @@ Spells
 - *Prison of Flames* (MuIg 15)
 - *Trapping the Fire* (MuIg 25)
 
-### *Rehamchi Danichev*
-
-Rehamchi is the local senior Volkhv. As far as he is concerned he is teaching the Hermetic magi the truth about the world, and how to worship it properly. He therefore privately regards himself as the leader of the community. Certainly he is the one who conducts all the rituals and celebrations, except for the new ones, which Nastassia leads. He has a tolerant sense of amusement for the overall project. The idea of finding a new god is rather foolish, really, and the gods themselves will tend to be more amused than offended by such mortal silliness.
-
-<!-- p. 128 --><a id="page-128"></a>
-
-This basic difference of opinion aside, Rehamchi gets on well with the magi and has learned enough Latin and Hermetic Magic Theory to qualify as an Ex Miscellanea magus. Two things, however, do reach him deeply. For one, it was Nastassia who discerned the fact that he had a Swallow heart-beast and taught him how to release it. He was puzzled as to how a “Latin witch” could manage to see such a thing in him. Secondly there is the young girl, Stennya. She has been preaching the coming of Hermes for about two years now, and he is beginning to believe that she is having a genuine revelation. For now he is content to teach his companions and await developments. Perhaps, though, he may eventually seek guidance through a major Prophecy.
-
-### *Lelya Danichev*
-
-Lelya is Rehamchi’s daughter. As she was brought up among Hermetic magi her grasp of Hermetic methods is much firmer than her father’s, and she is more genuinely enthusiastic about Malincka’s project. She is Stennya’s step-mother and keen to see the girl’s powers develop. Lelya is impatient to assert herself within the Order of Hermes. She intends to attend the next tribunal meeting, and wants to enter a motion condemning the existing attitude of Hermetic magi towards Volkhvy in general. She is also intent upon extracting some revenge for the Pripet raid, and has been practicing certámen diligently over the last three years with the rather foolish notion of forcing a formal apology.
-
 > ### Echo of the Firebird
 >
 > This is the latest version of Nastassia’s personal heart-beast altering spell.
@@ -4322,23 +4306,13 @@ Lelya is Rehamchi’s daughter. As she was brought up among Hermetic magi her gr
 > R: Per, D: Sun, T: Ind<br>
 > This spell alters any avian heart-beast towards an idealized Firebird form. The heart-beast gains 1 point in Size, its Attacks and Damage increase by +5 and +8 respectively, and its Soak increases by +15. Wounds and fatigue suffered inflict no penalty until unconsciousness, incapacitation, or death. The appearance of the heart-beast becomes near-perfect. Feathers, talons, and beak assume a supernatural, ruddy-golden gleam and in flight appear to trail wisps of flame. The form radiates heat; anyone standing within 3 paces can feel a billow of warmth while touching it with a naked hand is like touching a torch flame. This spell is not cumulative with *Form of the Avenging Beast.*
 
-### *Yakim ibn Rassur*
+### *Rehamchi Danichev*
 
-Born in Great Bulgar, Yakim was sold to Greek merchants at an early age and taken to Constantinople. There he was recognized as Gifted by one of the most notoriously vicious old Flambeau magi of the Theban tribunal. Yakim bears the marks of his master’s cruelty in the form of welts and scars across his back. After passing his gauntlet he fled Constantinople, vowing never to return. For a year or so he rode with the Cuman tribesmen, returning to Great Bulgar in 1203. There he had the good fortune to fall in with the great Muslim scholar Haroun Hashemi, with whom Yakim spent six years learning Theology, Medicine, and Philosophy. He also experienced a profound change of personality, regaining his youthful enthusiasm. He still returns to Great Bulgar at least once a year.
+Rehamchi is the local senior Volkhv. As far as he is concerned he is teaching the Hermetic magi the truth about the world, and how to worship it properly. He therefore privately regards himself as the leader of the community. Certainly he is the one who conducts all the rituals and celebrations, except for the new ones, which Nastassia leads. He has a tolerant sense of amusement for the overall project. The idea of finding a new god is rather foolish, really, and the gods themselves will tend to be more amused than offended by such mortal silliness.
 
-In 1209, Yakim met Malincka, and was sufficiently intrigued to visit Thousand Caves. He joined the covenant in 1211 and fit in well. For a Flambeau magus he is surprisingly outgoing and genial. His philosophical expertise has made him Malincka’s main theoretical partner.
+<!-- p. 128 --><a id="page-128"></a>
 
-### *Basyl Karrimichi*
-
-Basyl is the least useful of all the Thousand Caves magi for Malincka’s purposes. His basic mindset is frivolous. He is a prankster, and can seldom pass up the opportunity for witty play or practical jokes. Even his attitude to faerie is light-hearted. He has many friends there, but persistently refuses to get involved in serious research or study.
-
-<!-- p. 129 --><a id="page-129"></a>
-
-There is only one aspect of Basyl’s character which can force him into a more serious mood: his tendency to have prophetic visions. Basyl’s visions are very intense, and leave him exhausted. They tend to strike either at the peak of his powers or at the trough (his magic cycles over a considerable range each season). It is Basyl who has, over the last five years or so, begun to report visions of “the coming of Hermes,” but so baroque and twisted is the content of his visions that noone has succeeded in making sense of them.
-
-### *Narina Cheminov*
-
-Narina was stolen at the age of 6 by her parens, a very elderly Bjornaer magus, who lived the last twenty five years of his life as a virtual hermit in the Urals, with only Narina and a few equally elderly servants as companions. When she was 15 he began teaching her in a thoroughly Bjornaer tradition. Her understanding of Hermetic magic is eccentric, and she is very poor with certain common Hermetic abilities (Penetration, Finesse, and Certámen). This is balanced by powerful animal-related and wilderness skills, as well as Healing abilities.
+This basic difference of opinion aside, Rehamchi gets on well with the magi and has learned enough Latin and Hermetic Magic Theory to qualify as an Ex Miscellanea magus. Two things, however, do reach him deeply. For one, it was Nastassia who discerned the fact that he had a Swallow heart-beast and taught him how to release it. He was puzzled as to how a “Latin witch” could manage to see such a thing in him. Secondly there is the young girl, Stennya. She has been preaching the coming of Hermes for about two years now, and he is beginning to believe that she is having a genuine revelation. For now he is content to teach his companions and await developments. Perhaps, though, he may eventually seek guidance through a major Prophecy.
 
 #### Rehamchi Danichev, Magus Ex Miscellanea
 
@@ -4406,9 +4380,31 @@ Spells
 - *Hunt for the Wild Herb* (InHe 15)
 - *Wizard’s Side-step* (ReIm 10)
 
-<!-- p. 130 --><a id="page-130"></a>
+### *Lelya Danichev*
+
+Lelya is Rehamchi’s daughter. As she was brought up among Hermetic magi her grasp of Hermetic methods is much firmer than her father’s, and she is more genuinely enthusiastic about Malincka’s project. She is Stennya’s step-mother and keen to see the girl’s powers develop. Lelya is impatient to assert herself within the Order of Hermes. She intends to attend the next tribunal meeting, and wants to enter a motion condemning the existing attitude of Hermetic magi towards Volkhvy in general. She is also intent upon extracting some revenge for the Pripet raid, and has been practicing certámen diligently over the last three years with the rather foolish notion of forcing a formal apology.
+
+### *Yakim ibn Rassur*
+
+Born in Great Bulgar, Yakim was sold to Greek merchants at an early age and taken to Constantinople. There he was recognized as Gifted by one of the most notoriously vicious old Flambeau magi of the Theban tribunal. Yakim bears the marks of his master’s cruelty in the form of welts and scars across his back. After passing his gauntlet he fled Constantinople, vowing never to return. For a year or so he rode with the Cuman tribesmen, returning to Great Bulgar in 1203. There he had the good fortune to fall in with the great Muslim scholar Haroun Hashemi, with whom Yakim spent six years learning Theology, Medicine, and Philosophy. He also experienced a profound change of personality, regaining his youthful enthusiasm. He still returns to Great Bulgar at least once a year.
+
+In 1209, Yakim met Malincka, and was sufficiently intrigued to visit Thousand Caves. He joined the covenant in 1211 and fit in well. For a Flambeau magus he is surprisingly outgoing and genial. His philosophical expertise has made him Malincka’s main theoretical partner.
+
+### *Basyl Karrimichi*
+
+Basyl is the least useful of all the Thousand Caves magi for Malincka’s purposes. His basic mindset is frivolous. He is a prankster, and can seldom pass up the opportunity for witty play or practical jokes. Even his attitude to faerie is light-hearted. He has many friends there, but persistently refuses to get involved in serious research or study.
+
+<!-- p. 129 --><a id="page-129"></a>
+
+There is only one aspect of Basyl’s character which can force him into a more serious mood: his tendency to have prophetic visions. Basyl’s visions are very intense, and leave him exhausted. They tend to strike either at the peak of his powers or at the trough (his magic cycles over a considerable range each season). It is Basyl who has, over the last five years or so, begun to report visions of “the coming of Hermes,” but so baroque and twisted is the content of his visions that noone has succeeded in making sense of them.
+
+### *Narina Cheminov*
+
+Narina was stolen at the age of 6 by her parens, a very elderly Bjornaer magus, who lived the last twenty five years of his life as a virtual hermit in the Urals, with only Narina and a few equally elderly servants as companions. When she was 15 he began teaching her in a thoroughly Bjornaer tradition. Her understanding of Hermetic magic is eccentric, and she is very poor with certain common Hermetic abilities (Penetration, Finesse, and Certámen). This is balanced by powerful animal-related and wilderness skills, as well as Healing abilities.
 
 Narina’s time at the covenant has been hard as she makes the difficult adjustment to communal life. She is now beginning to develop a fuller suite of normal abilities (she could not read Latin when she arrived ten years ago). She is the friend of all local animals, and much more attuned to the natural life around her than is Nastassia. Narina, of all the Thousand Caves magi, actively hates Pripet Maior most intensely. The attack of 1217 severely disturbed the local animals, an offense for which she will never forgive them.
+
+<!-- p. 130 --><a id="page-130"></a>
 
 ### *Otto Rattstein*
 
@@ -4595,6 +4591,22 @@ Miya’s home is a massive reed palace of sculpted ledges, domes, and towers. It
 
 The only hole in the spell relates to Miya herself. On the one hand it doesn’t affect her directly, and she retains a formidable arsenal of magics. On the other, the animals know she is their benefactress. Their many generations of life in the covenant have rendered them more intelligent and larger than normal animals; they will defend her.
 
+Miya’s home is, by default, the place where visiting Redcaps and emissaries are most likely to meet a cordial welcome. Miya herself is a sweet, incredibly ancient lady, lacking malice, but with little understanding of the world that now surrounds her beloved marsh and animals.
+
+<!-- p. 137 --><a id="page-137"></a>
+
+### *Lev Deniki*
+
+Unlike Vlachs and Casimi, Lev Deniki appears to be a pleasant, restrained man. He is rational in conversation and apparently moderate in his views. This, however, is a mask. Lev is unquestionably the most deadly of the three. His heart-beast is a water serpent, and he epitomizes the characteristics of stealth, subtlety, and lethal venom.
+
+Lev meets and talks with any visitors to the covenant. If he decides they are dangerous, he ambushes them as they leave the swamp, for he is quite mad. Lev has become afflicted by a mounting paranoia. The world exists for him only in shades of threat and danger. Nowhere is safe. Lev’s fears are consuming, and at base he is a coward. Strong initial resistance to his attack will cause him to flee, and if cornered or trapped, he can easily be intimidated.
+
+### *Stolitzya “The Swimmer”*
+
+The last member of Pripet Maior covenant is Stolitzya. This near-legendary Bjornaer maga went into Final Twilight over forty years ago, permanently assuming her heart-beast shape, a great black-backed turtle augmented with formidable Muto spells, and imbued with magical energy from a century and a half of longevity potion use.
+
+The Pripet Maior magi believe Stolitzya is still alive, living in the heart of the swamp, its *de facto* queen. The last independent sighting was about fifteen years ago, when Susan of Wicklow claims to have spotted Stolitzya, her shell so huge it resembled a submerged island, her massive head and encrusted beak big as a house. Susan of Wicklow is not generally known for flights of irresponsible imagination, but whether Stolitzya truly does survive within the swamp is a question each troupe should answer for itself.
+
 #### Stolitzya “The Swimmer”
 
 Characteristics: Cun +5, Per +2, Str +7, Sta +3, Pre +4, Com –5, Dex –3, Qik –3
@@ -4646,22 +4658,6 @@ Whips vegetation and water within 300 yards into a maelstrom of violence that do
 
 *Speech*, ReAn5, 1 point:<br>
 Stolitzya can, at will, still speak human languages. Her attention, however, is hard to engage.
-
-<!-- p. 137 --><a id="page-137"></a>
-
-Miya’s home is, by default, the place where visiting Redcaps and emissaries are most likely to meet a cordial welcome. Miya herself is a sweet, incredibly ancient lady, lacking malice, but with little understanding of the world that now surrounds her beloved marsh and animals.
-
-### *Lev Deniki*
-
-Unlike Vlachs and Casimi, Lev Deniki appears to be a pleasant, restrained man. He is rational in conversation and apparently moderate in his views. This, however, is a mask. Lev is unquestionably the most deadly of the three. His heart-beast is a water serpent, and he epitomizes the characteristics of stealth, subtlety, and lethal venom.
-
-Lev meets and talks with any visitors to the covenant. If he decides they are dangerous, he ambushes them as they leave the swamp, for he is quite mad. Lev has become afflicted by a mounting paranoia. The world exists for him only in shades of threat and danger. Nowhere is safe. Lev’s fears are consuming, and at base he is a coward. Strong initial resistance to his attack will cause him to flee, and if cornered or trapped, he can easily be intimidated.
-
-### *Stolitzya “The Swimmer”*
-
-The last member of Pripet Maior covenant is Stolitzya. This near-legendary Bjornaer maga went into Final Twilight over forty years ago, permanently assuming her heart-beast shape, a great black-backed turtle augmented with formidable Muto spells, and imbued with magical energy from a century and a half of longevity potion use.
-
-The Pripet Maior magi believe Stolitzya is still alive, living in the heart of the swamp, its *de facto* queen. The last independent sighting was about fifteen years ago, when Susan of Wicklow claims to have spotted Stolitzya, her shell so huge it resembled a submerged island, her massive head and encrusted beak big as a house. Susan of Wicklow is not generally known for flights of irresponsible imagination, but whether Stolitzya truly does survive within the swamp is a question each troupe should answer for itself.
 
 ## Leczyca Covenant
 

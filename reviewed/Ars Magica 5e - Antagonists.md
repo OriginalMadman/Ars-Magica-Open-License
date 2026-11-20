@@ -17,7 +17,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0303
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -377,6 +377,50 @@ Mother to the legitimate children, and very much part of Geoffroi’s household,
 
 It may be important to track the ages of the above children as details of Geoffroi’s family have the potential to provide unscrupulous or cunning characters with leverage with which they can influence Geoffroi’s behavior.
 
+#### The Lady Ysabeau
+
+Ysabeau is Geoffroi’s loyal wife and mother to his three legitimate children. As a minor supporting character she has few Virtues and Flaws listed but storyguides should feel free to enhance the character if they want to make her more prominent.
+
+Characteristics: Int +1, Per 0, Pre +2, Com +2, Str –1, Sta –1, Dex +2, Qik –1
+
+Size: 0
+
+Age: 25 (25)
+
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: Gentlewoman; Educated, Privileged Upbringing, Temporal Influence; Dependent; Humble
+
+Personality Traits: Humble +2, Protective +2, Honest +1
+
+Reputations: Geoffroi’s wife 3 (within the county)
+
+Combat:
+- Dodge: Init –1, Attack N/A, Defense –1, Damage N/A
+- Fist: Init –1, Attack +2, Defense –1, Damage –1
+
+Soak: –1
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Animal Handling 1 (horses), Area Lore: Arques 2 (personalities), Artes Liberales 2 (music), Awareness 2 (alertness), Carouse 2 (staying sober), Charm 5 + 1\* (first impressions), Etiquette 5 (nobility), Folk Ken 2 (nobles), Guile 3 (avoiding offence), Latin 4 (church ceremonies), Leadership 2 (servants), Local Language 3 (local dialect), Music 3 (sing), Norman French 5 (Arques dialect), Organization Lore: Household 3 (personalities), Ride 3 (recreation)
+
+Equipment: Elegant Gown, superior quality gold necklace
+
+Encumbrance: 0 (0)
+
+Appearance: Ysabeau is an attractive young woman who carries herself with confidence around her staff but is both humble and demure in front of her husband and visitors to the court. She is always dressed elegantly and one of her favored possessions is a superior quality golden necklace, a recent gift from her husband.
+
+Throughout the covenant’s dealings with Geoffroi and his court, Ysabeau’s priority is the protection of her children. She loves her husband but as his obsession with the supernatural gathers pace she can be persuaded to favor her children’s future over that of her husband.
+
+Ysabeau knows of Guillaume, Geoffroi’s eldest illegitimate son, but does not know of François.
+
+\* The +1 bonus is granted by the superior quality gold necklace she wears. This applies to all first impression Charm rolls.
+
 ## Geoffroi’s Court
 
 Geoffroi’s court at first looks much like the courts of other nobles of wealth and rank. But even before his obsession with magic, it is clear that he has an eye for the unusual. His arms and armor, for instance, are of superior quality, an indication that he is prepared to pay for the best.
@@ -384,6 +428,51 @@ Geoffroi’s court at first looks much like the courts of other nobles of wealth
 The key theme for this antagonist is the accumulation of magical resources. As such, every time Geoffroi is introduced into a story after his initial encounter, either as antagonist, protagonist, or supporting character, he should have some obviously new magical accoutrement to which he is keen to draw attention. Geoffroi himself will certainly draw parallels with Sicily: scholars from multiple cultures — or in this case magical traditions — welcomed and working within the same court.
 
 The two key mundane members of Geoffroi’s court are his steward Claude, and Geoffroi’s wife Ysabeau. Claude is loyal to his master to the bitter end and cannot be turned by mundane means. But Ysabeau’s primary concern is for the safety and prosperity of her children and she could potentially be a weak link to be exploited by the player characters.
+
+#### Claude de Fécamp
+
+Claude is Geoffroi’s steward, a trusted retainer tasked with many of Geoffroi’s affairs. The players are often as likely to encounter Claude as they are to encounter Geoffroi himself.
+
+Characteristics: Int +2, Per +2, Pre –1, Com 0, Str 0, Sta +1, Dex –1, Qik –1
+
+Divine Resistance: 15
+
+Size: 0
+
+Age: 28 (28)
+
+Warping Score: 0 (4)
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: Clerk; Guardian Angel; Clear Thinker, Sharp Ears, Strong-Willed; Oath of Fealty; Missing Hand, Noncombatant, Temperate, Weak Characteristics
+
+Personality Traits: Loyal +3, Taciturn +2, Frivolous –1
+
+Reputations: Geoffroi’s right-hand man 2 (within Geoffroi’s court)
+
+Combat:
+- Dodge: Init –4, Attack N/A, Defense –4, Damage N/A
+
+Soak: +1/+6\*
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Arques 3 (personalities), Area Lore: Local 1 (geography), Artes Liberales 2 (logic), Profession: Steward 4 (noble manors), Church Lore 3 (personalities), Local Language 5 (local dialect), Etiquette 2 (nobility), Folk Ken 3 (nobles), Guile 2 (discerning lies about his master), Intrigue 2 (alliances), Latin 4 (academic usage), Leadership 2 (household staff), Norman French 5 (County of Rouen dialect), Philosophiae 2 (moral philosophy), Theology 3 (biblical knowledge)
+
+Equipment: A simple habit in the style of a monk, wooden crucifix, pouch of money usually filled with sufficient for most expenses.
+
+Encumbrance: 0 (0)
+
+Appearance: Claude is of average height and slight build. His head is shaved clean and his face is long and dour. But his most distinctive feature is his right arm, missing at the elbow. He wears his habit with the right sleeve folded and pinned to fully contain what remains.
+
+Claude de Fécamp was schooled at a Benedictine monastery, but has been part of Geoffroi’s household for the last six years. His first year with the baron was a troubled time, and Claude resented both his master’s wealth and his own subservient position. He angered many, treated others with contempt and scant regard, and made few friends. One evening he was set upon by persons unknown. He was severely beaten and would have been killed but for Divine intervention. An angel enfolded him in its light and confronted Claude with the mistakes that had brought him so low.
+
+This event changed Claude’s life forever. He reaffirmed his loyalty to Geoffroi, put aside his wayward habits, and dedicated himself to his duties. And in return, the angel promised that Claude would be protected from the world so long as he remained true. Those in Geoffroi’s household now barely remember Claude as he was and only pay respect to the man he has become: loyal and temperate.
+
+\* Claude’s soak score includes the +5 bonus granted by his guardian angel. This same guardian angel also grants Claude a magic resistance of +15 aligned with the Divine while he acts in accordance with God’s ineffable will.
 
 <!-- p. 11 --><a id="page-11"></a>
 
@@ -439,95 +528,6 @@ Others touched by magic, but less powerful than those above and unlikely to have
 - A **blind beggar cursed with prophetic visions** that haunt his dreams. What he would give for one sight to be exchanged for another.
 - A **young boy who sees ghosts**, and the mother who spirited him away from their frightened village.
 - A **faerie-touched armorer** with exceptional skill, who needs somewhere to work, funds to refine his workshop, and someone to deal with the faerie that continually tries to steal back its tools.
-
-#### The Lady Ysabeau
-
-Ysabeau is Geoffroi’s loyal wife and mother to his three legitimate children. As a minor supporting character she has few Virtues and Flaws listed but storyguides should feel free to enhance the character if they want to make her more prominent.
-
-Characteristics: Int +1, Per 0, Pre +2, Com +2, Str –1, Sta –1, Dex +2, Qik –1
-
-Size: 0
-
-Age: 25 (25)
-
-Warping Score: 0 (0)
-
-Confidence Score: 1 (3)
-
-Virtues and Flaws: Gentlewoman; Educated, Privileged Upbringing, Temporal Influence; Dependent; Humble
-
-Personality Traits: Humble +2, Protective +2, Honest +1
-
-Reputations: Geoffroi’s wife 3 (within the county)
-
-Combat:
-- Dodge: Init –1, Attack N/A, Defense –1, Damage N/A
-- Fist: Init –1, Attack +2, Defense –1, Damage –1
-
-Soak: –1
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Animal Handling 1 (horses), Area Lore: Arques 2 (personalities), Artes Liberales 2 (music), Awareness 2 (alertness), Carouse 2 (staying sober), Charm 5 + 1\* (first impressions), Etiquette 5 (nobility), Folk Ken 2 (nobles), Guile 3 (avoiding offence), Latin 4 (church ceremonies), Leadership 2 (servants), Local Language 3 (local dialect), Music 3 (sing), Norman French 5 (Arques dialect), Organization Lore: Household 3 (personalities), Ride 3 (recreation)
-
-Equipment: Elegant Gown, superior quality gold necklace
-
-Encumbrance: 0 (0)
-
-Appearance: Ysabeau is an attractive young woman who carries herself with confidence around her staff but is both humble and demure in front of her husband and visitors to the court. She is always dressed elegantly and one of her favored possessions is a superior quality golden necklace, a recent gift from her husband.
-
-Throughout the covenant’s dealings with Geoffroi and his court, Ysabeau’s priority is the protection of her children. She loves her husband but as his obsession with the supernatural gathers pace she can be persuaded to favor her children’s future over that of her husband.
-
-Ysabeau knows of Guillaume, Geoffroi’s eldest illegitimate son, but does not know of François.
-
-\* The +1 bonus is granted by the superior quality gold necklace she wears. This applies to all first impression Charm rolls.
-
-#### Claude de Fécamp
-
-Claude is Geoffroi’s steward, a trusted retainer tasked with many of Geoffroi’s affairs. The players are often as likely to encounter Claude as they are to encounter Geoffroi himself.
-
-Characteristics: Int +2, Per +2, Pre –1, Com 0, Str 0, Sta +1, Dex –1, Qik –1
-
-Divine Resistance: 15
-
-Size: 0
-
-Age: 28 (28)
-
-Warping Score: 0 (4)
-
-Confidence Score: 1 (3)
-
-Virtues and Flaws: Clerk; Guardian Angel; Clear Thinker, Sharp Ears, Strong-Willed; Oath of Fealty; Missing Hand, Noncombatant, Temperate, Weak Characteristics
-
-Personality Traits: Loyal +3, Taciturn +2, Frivolous –1
-
-Reputations: Geoffroi’s right-hand man 2 (within Geoffroi’s court)
-
-Combat:
-- Dodge: Init –4, Attack N/A, Defense –4, Damage N/A
-
-Soak: +1/+6\*
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Arques 3 (personalities), Area Lore: Local 1 (geography), Artes Liberales 2 (logic), Profession: Steward 4 (noble manors), Church Lore 3 (personalities), Local Language 5 (local dialect), Etiquette 2 (nobility), Folk Ken 3 (nobles), Guile 2 (discerning lies about his master), Intrigue 2 (alliances), Latin 4 (academic usage), Leadership 2 (household staff), Norman French 5 (County of Rouen dialect), Philosophiae 2 (moral philosophy), Theology 3 (biblical knowledge)
-
-Equipment: A simple habit in the style of a monk, wooden crucifix, pouch of money usually filled with sufficient for most expenses.
-
-Encumbrance: 0 (0)
-
-Appearance: Claude is of average height and slight build. His head is shaved clean and his face is long and dour. But his most distinctive feature is his right arm, missing at the elbow. He wears his habit with the right sleeve folded and pinned to fully contain what remains.
-
-Claude de Fécamp was schooled at a Benedictine monastery, but has been part of Geoffroi’s household for the last six years. His first year with the baron was a troubled time, and Claude resented both his master’s wealth and his own subservient position. He angered many, treated others with contempt and scant regard, and made few friends. One evening he was set upon by persons unknown. He was severely beaten and would have been killed but for Divine intervention. An angel enfolded him in its light and confronted Claude with the mistakes that had brought him so low.
-
-This event changed Claude’s life forever. He reaffirmed his loyalty to Geoffroi, put aside his wayward habits, and dedicated himself to his duties. And in return, the angel promised that Claude would be protected from the world so long as he remained true. Those in Geoffroi’s household now barely remember Claude as he was and only pay respect to the man he has become: loyal and temperate.
-
-\* Claude’s soak score includes the +5 bonus granted by his guardian angel. This same guardian angel also grants Claude a magic resistance of +15 aligned with the Divine while he acts in accordance with God’s ineffable will.
 
 ## Aims and Motivations
 
@@ -2340,6 +2340,27 @@ If the characters make a direct and overt move against the bishop or the diocese
 >
 > Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city. For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.(Revelations 22: 14–15).
 
+#### St. John the Apostle
+
+Divine Might: 75
+
+Areas of Veneration: Authors, booksellers, friendships, against burns & poisoning, tanners
+
+Feast: December 27
+
+Attributes: Chalice with a serpent, book, eagle
+
+Powers: Curse of Drowning (see relic, earlier), Expel Demons, Grant Visions, Heal Burns, Ignis Domini, Purge Poison (see later), Raise the Dead, Terrify the Unbeliever, Turn Back the Missile (see relic, earlier)
+
+*Grant Visions*, 2 points, Init +0, Imaginem:<br>
+The target of this power receives a true vision of the future, although it is clouded in mystical allegory. An Intelligence + Divine Lore of Ease Factor 9 permits a rough interpretation; if a higher roll is achieved, then more is revealed.
+
+*Heal Burns*, 2 points, Init +0, Corpus:<br>
+This power heals any non-lethal wound caused by fire.
+
+*Purge Poison*, 1 point, Init +0, Corpus:<br>
+This power drives poison from a person, causing them to vomit it forth. The target is healed of any non-lethal wound or fatigue caused by the poison, and takes no further damage.
+
 <!-- p. 61 --><a id="page-61"></a>
 
 ### Extreme Measures
@@ -2381,27 +2402,6 @@ Having employed his most powerful spiritual weapon, the bishop turns to the most
 The bishop turns to the Church Knights only after he has tried excommunication. By calling in the Knights, Bishop Orris is contemplating the spilling of blood; while he hopes that the mere reputation of the Templars will prove sufficient to force compliance, he is also aware that he must be prepared to follow through on his threat and condone military action against the covenant.
 
 The Church Knights arrive in the city with a great deal of pomp. The city folk know why they have been called in, and greet them with enthusiasm — by this stage, the negative Reputation of the characters is well-established. The knights come in force; in addition to the commander, there are at least five other knights, plus a dozen or more brother sergeants. The exact size of the force should be tailored to the perceived forces of the covenant, prior to any desertions thanks to the excommunication. The Church Knights have at least as many brother sergeants as there were grogs in the turb, and a number of brother knights equal to the number of companions. *The Church* contains the statistics for brother sergeants and brother knights (pages 126–127); otherwise, use the templates in **Ars Magica Fifth Edition**. The Church Knights are the same as the Knight companion template ([**ArM5**, page 23](<Ars Magica 5e - Core Rules.md#companion-templates>) / [Definitive Edition, page 33](<Ars Magica - Definitive Edition (Core Rules).md#companion-templates>)), and fight as a trained group with the commander as leader, who has a Leadership Ability of 5. The brother sergeants have the Standard Soldier grog template ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#grog-templates>) / [Definitive Edition, page 31](<Ars Magica - Definitive Edition (Core Rules).md#grog-templates>)), except for the leader of each trained group of five men, who is a Grizzled Veteran ([**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#grog-templates>) / [Definitive Edition, page 31](<Ars Magica - Definitive Edition (Core Rules).md#grog-templates>)). It is highly likely that each knight has a relic with a Faith of at least 1.
-
-#### St. John the Apostle
-
-Divine Might: 75
-
-Areas of Veneration: Authors, booksellers, friendships, against burns & poisoning, tanners
-
-Feast: December 27
-
-Attributes: Chalice with a serpent, book, eagle
-
-Powers: Curse of Drowning (see relic, earlier), Expel Demons, Grant Visions, Heal Burns, Ignis Domini, Purge Poison (see later), Raise the Dead, Terrify the Unbeliever, Turn Back the Missile (see relic, earlier)
-
-*Grant Visions*, 2 points, Init +0, Imaginem:<br>
-The target of this power receives a true vision of the future, although it is clouded in mystical allegory. An Intelligence + Divine Lore of Ease Factor 9 permits a rough interpretation; if a higher roll is achieved, then more is revealed.
-
-*Heal Burns*, 2 points, Init +0, Corpus:<br>
-This power heals any non-lethal wound caused by fire.
-
-*Purge Poison*, 1 point, Init +0, Corpus:<br>
-This power drives poison from a person, causing them to vomit it forth. The target is healed of any non-lethal wound or fatigue caused by the poison, and takes no further damage.
 
 #### Against the Covenant
 
@@ -2821,6 +2821,16 @@ It is quite possible that Galerius will discover evidence of suspicious activity
 
 <!-- p. 74 --><a id="page-74"></a>
 
+### Bodyguard
+
+Galerius is a skilled investigator, but he is not well-equipped to defend himself. He frequently works with a young Tremere maga named Ingrid who serves as a bodyguard. Ingrid’s superiors have assigned her to help the Quaesitores when they ask.
+
+In a sense, Ingrid is like a very junior Hoplite, though she would not use that word to describe herself. Galerius calls on Ingrid when he feels a need for protection and assistance, but doesn’t want to call on a full-fledged Hoplite. The two magi have worked together several times before. Ingrid is weak in investigative skills and spells, so she usually doesn’t contribute directly to the investigation.
+
+In combat, Ingrid usually tries *The Crystal Dart* first, but if she runs into trouble penetrating Magic Resistance, she falls back on indirect spells such as *Invisible Sling of Vilano* and *Pit of the Gaping Earth*. Her spell mastery of *Wizard’s Leap* lets her teleport as a fastcast defense to avoid magical or mundane attacks. If Ingrid can obtain both an Arcane Connection and a sympathetic connection to her opponent, she can get a high enough Penetration Total to try her favorite attack spells: *Invocation of Weariness* and *Grip of the Choking Hand*. She likes these spells because they’re non-lethal, meaning she’s unlikely to be charged with a high crime, even if she attacks with insufficient cause.
+
+Exactly when and how often Ingrid accompanies Galerius is for the storyguide to decide. Ingrid is useful for deterring the player characters from attacking or harassing Galerius. On the other hand, if the players make a bad decision and find their characters in a fight, Ingrid is not as deadly as an actual Hoplite.
+
 ### Ingrid of House Tremere
 
 Characteristics: Int +2, Per 0, Pre 0, Com 0, Str 0, Sta +2, Dex 0, Qik +1
@@ -2885,16 +2895,6 @@ Talisman Attunements: Ash +2 harm people, Wand +4 destroy things at a distance
 Appearance: When working with Galerius, Ingrid poses as his wife or daughter, and tries to blend into the background, keeping her eyes open and her mouth shut. She wears finely made but unassuming dress with a minimum of jewelry. A closer look reveals that she’s not a typical mundane woman: her wiry, athletic build would be out of place for almost any social class. She keeps her talisman concealed in the sleeve of her dress and has a habit of fingering it.
 
 Ingrid is a junior maga of House Tremere who does not yet possess her voting sigil. She often accompanies Galerius as a bodyguard when Galerius must travel through dangerous areas or investigate violent crimes. Ingrid remains by Galerius’ side; if there is a need for someone to perform an errand, Galerius sends his familiar or a mundane servant. Ingrid tries to keep a low profile, but her Gift sometimes makes this difficult. Ingrid uses her Christian name because it can’t be used as a sympathetic connection to her.
-
-### Bodyguard
-
-Galerius is a skilled investigator, but he is not well-equipped to defend himself. He frequently works with a young Tremere maga named Ingrid who serves as a bodyguard. Ingrid’s superiors have assigned her to help the Quaesitores when they ask.
-
-In a sense, Ingrid is like a very junior Hoplite, though she would not use that word to describe herself. Galerius calls on Ingrid when he feels a need for protection and assistance, but doesn’t want to call on a full-fledged Hoplite. The two magi have worked together several times before. Ingrid is weak in investigative skills and spells, so she usually doesn’t contribute directly to the investigation.
-
-In combat, Ingrid usually tries *The Crystal Dart* first, but if she runs into trouble penetrating Magic Resistance, she falls back on indirect spells such as *Invisible Sling of Vilano* and *Pit of the Gaping Earth*. Her spell mastery of *Wizard’s Leap* lets her teleport as a fastcast defense to avoid magical or mundane attacks. If Ingrid can obtain both an Arcane Connection and a sympathetic connection to her opponent, she can get a high enough Penetration Total to try her favorite attack spells: *Invocation of Weariness* and *Grip of the Choking Hand*. She likes these spells because they’re non-lethal, meaning she’s unlikely to be charged with a high crime, even if she attacks with insufficient cause.
-
-Exactly when and how often Ingrid accompanies Galerius is for the storyguide to decide. Ingrid is useful for deterring the player characters from attacking or harassing Galerius. On the other hand, if the players make a bad decision and find their characters in a fight, Ingrid is not as deadly as an actual Hoplite.
 
 ### Requesting Cooperation
 
@@ -3085,16 +3085,6 @@ In five short years, Hannelore is transformed from a spoiled child into a powerf
 
 This antagonist relies on several Infernal powers for her to be effective, and to get the most out of stories using Hannelore, it is recommended that the storyguide has access to a copy of *Realms of Power: The Infernal*.
 
-### Variations on a Theme
-
-Hannelore’s actions are described as being directed at a player character, but she could instead target a prominent storyguide character whom the characters are motivated to rescue from her clutches. Other variations on Hannelore include:
-
-#### Different Motivations
-
-As written, this story is about love perverted by the Infernal into a twisted mockery of what it should be. However, other motivations can be put into play with very little work if there is no suitable player character as a love interest for Hannelore. The two principle alternatives are avarice and envy. Should Hannelore be driven by avarice, she has witnessed a magus’ use of power (or heard rumors of an event), and seeks that power for herself. She does not wish to be with the character forever, but instead to be trained by him. Of course, lacking The Gift, this is impossible, and her rage drives the rest of the story. If envy is her motivation, then Hannelore is consumed by the need to possess magical power, and if the magus will not share his magic, then he must be forced to relinquish it to her. Avarice and envy drive similar stories; the main difference is that an avaricious Hannelore is angry with the character for not giving her magic, while the envious Hannelore wants to take the character’s magic from him (or her, of course).
-
-<!-- p. 81 --><a id="page-81"></a>
-
 #### Hannelore the Diabolist
 
 Hannelore has been designed with more Virtues than is normally permitted at character generation, but she has nothing that a player character could not achieve through a similar dedication to Hellish forces. Infernal powers are notorious for lavishing their victims with gifts and powers, if it achieves their aims. As a consequence, Hannelore has received demonic tutelage in the Infernal arts, equivalent to taking the Mentored by Demons Virtue (*Realms of Power: The Infernal*, [page 86](#page-86)) 5 times, for an extra 50 experience points per year. She has also undergone prolonged Vituperations that have resulted in the Self-Confident Virtue (i.e., a Confidence Score of 2) and Aging Points.
@@ -3165,8 +3155,6 @@ Hannelore has several sources of vis available to her. These do not count as Per
 - She has replaced the relic in her father’s chapel with a fake and similarly profaned the real one;
 - Once a year on Lammas Eve, a sulfurous spring on her father’s estate belches forth vis, but a local witch coven has collected this since time immemorial;
 - One of the books in her father’s library (see later) has a number of glass beads on the cover, each one of which contains a pawn of vis.
-
-<!-- p. 82 --><a id="page-82"></a>
 
 > ### Hannelore’s Maleficia
 >
@@ -3300,6 +3288,18 @@ Hannelore has several sources of vis available to her. These do not count as Per
 > The victim of this terrible curse suffers –6 to all rolls involving the Ride Ability, and 6 additional botch die whenever 0 is rolled. This, and similar curses affecting other Abilities, are the means by which Hannelore disposes of unwanted suitors.
 >
 > (Base effect, +1 Eye, +2 Sun)
+
+### Variations on a Theme
+
+Hannelore’s actions are described as being directed at a player character, but she could instead target a prominent storyguide character whom the characters are motivated to rescue from her clutches. Other variations on Hannelore include:
+
+#### Different Motivations
+
+As written, this story is about love perverted by the Infernal into a twisted mockery of what it should be. However, other motivations can be put into play with very little work if there is no suitable player character as a love interest for Hannelore. The two principle alternatives are avarice and envy. Should Hannelore be driven by avarice, she has witnessed a magus’ use of power (or heard rumors of an event), and seeks that power for herself. She does not wish to be with the character forever, but instead to be trained by him. Of course, lacking The Gift, this is impossible, and her rage drives the rest of the story. If envy is her motivation, then Hannelore is consumed by the need to possess magical power, and if the magus will not share his magic, then he must be forced to relinquish it to her. Avarice and envy drive similar stories; the main difference is that an avaricious Hannelore is angry with the character for not giving her magic, while the envious Hannelore wants to take the character’s magic from him (or her, of course).
+
+<!-- p. 81 --><a id="page-81"></a>
+
+<!-- p. 82 --><a id="page-82"></a>
 
 <!-- p. 83 --><a id="page-83"></a>
 
@@ -4558,17 +4558,13 @@ The Dragon Abbot is a reformed evildoer, saintly and enigmatic in demeanor, avoi
 
 Given its wide and varied knowledge garnered from the memories of thousands of people, the dragon often remembers the resting place of an important relic it hadn’t previously recognized. Armed with these locations, its servants depart the abbey to recover the religious artifacts. The abbey certainly hands the objects over to the local bishop to be appropriately stored or distributed, but not before the dragon orders monks to parade the items through the area, inspiring faith and promoting the good works of saints. It does this to build community spirit, which often rallies around a relic, and to allow the common people to benefit from the presence of the relic, be it miraculous or mundane.
 
-Over the course of countless raids and ambushes, the dragon also built up a number of hoards, one for every lair as it traveled. Each one is packed with sacks and chests of coinage, jewelry, and weapons, plus whatever objects within its victims’ possession interested it. Before the creature departed each lair, it buried these troves for retrieval at a later point. Now, when it knows it will require a windfall to fund a particular project, the dragon sends a member of the abbey out to collect what the brother can. Knowing these journeys could take considerable time due to the distances the servant must travel, the abbot takes this into account when designing its plans. A trusted clergyman or a penitent knight is usually given both a mule and a gift of stamina
+Over the course of countless raids and ambushes, the dragon also built up a number of hoards, one for every lair as it traveled. Each one is packed with sacks and chests of coinage, jewelry, and weapons, plus whatever objects within its victims’ possession interested it. Before the creature departed each lair, it buried these troves for retrieval at a later point. Now, when it knows it will require a windfall to fund a particular project, the dragon sends a member of the abbey out to collect what the brother can. Knowing these journeys could take considerable time due to the distances the servant must travel, the abbot takes this into account when designing its plans. A trusted clergyman or a penitent knight is usually given both a mule and a gift of stamina from the dragon’s blood to ensure he can recover the treasure and make the return journey alone.
 
 <!-- p. 115 --><a id="page-115"></a>
 
-from the dragon’s blood to ensure he can recover the treasure and make the return journey alone.
-
-The abbot then uses the riches to build and renovate churches, fund missions, and foremost, improve the lot of local communities. New and refurbished churches reinforce the importance of the Church as an organization, and through them, the importance of the Divine. Church construction draws the congregation together and provides opportunities for employment while possibly improving infrastructure, like bridges, walls, or wells. New missions provide succor to the poor while attracting eager labor and establishing new footholds for expanding the abbey’s reach and influence, while also bringing greater glory to God. Additionally, a share of this recovered wealth is spent bettering the lives of the common folk. The dragon manages this by sponsoring seasonal fairs ([*City and Guild*, page 106](<Ars Magica 5e - City & Guild.md#fairs>) has more on fairs) at the abbey and then quietly refunding table fees to peasants, paying for repairs on community goods like plows and wagons, or funding the purchase of such equipment or livestock when none exists. Additionally, excess monies are used to sponsor apprenticeships with craftsmen and professionals, paying for the necessary costs with the understanding that the future craftsmen will return to their home regions and add
+The abbot then uses the riches to build and renovate churches, fund missions, and foremost, improve the lot of local communities. New and refurbished churches reinforce the importance of the Church as an organization, and through them, the importance of the Divine. Church construction draws the congregation together and provides opportunities for employment while possibly improving infrastructure, like bridges, walls, or wells. New missions provide succor to the poor while attracting eager labor and establishing new footholds for expanding the abbey’s reach and influence, while also bringing greater glory to God. Additionally, a share of this recovered wealth is spent bettering the lives of the common folk. The dragon manages this by sponsoring seasonal fairs ([*City and Guild*, page 106](<Ars Magica 5e - City & Guild.md#fairs>) has more on fairs) at the abbey and then quietly refunding table fees to peasants, paying for repairs on community goods like plows and wagons, or funding the purchase of such equipment or livestock when none exists. Additionally, excess monies are used to sponsor apprenticeships with craftsmen and professionals, paying for the necessary costs with the understanding that the future craftsmen will return to their home regions and add to their local economies when their education is complete. The abbot prefers this sort of assistance because of its long-term nature and community focus.
 
 <!-- p. 116 --><a id="page-116"></a>
-
-to their local economies when their education is complete. The abbot prefers this sort of assistance because of its long-term nature and community focus.
 
 Finally, the abbot realizes the importance of good intelligence. Utilizing its *Taste of Memory* power, the dragon reaps great benefits through the consumption of trained birds — by eating the birds when they return, it learns what the animal saw or heard, what the conditions somewhere were, and what the relative strength of an enemy group was. Because the birds are naturally trained and nonmagical, there is no interference from the Parma (although neither the birds nor the dragon know of the Parma). In order to execute this strategy, the abbot orders the monks to maintain pigeon aviaries. The birds also provide supplemental income and foodstuffs. Occasionally, the dragon eats dogs or cats for this purpose, and offers a small prayer of thanksgiving before doing so.
 
@@ -4676,11 +4672,9 @@ Possible hooks aren’t limited to creatures. A growing Divine aura might reduce
 
 As the abbot’s plans progress, the influx of wealth and devout craftsmen into the region likely begins to change the nature of the surrounding communities. As magi and covenfolk travel throughout the area, they may notice this transformation. At first, they may not care about the arrival of additional masons or carpenters, or the new projects funded by the abbey’s coin. However, this is just a more subtle barometer of the increasing Divine aura, as the additional infrastructure and improved quality of life encourages the population to greater acts of devotion and worship. The covenant may not immediately connect the cause and effect until they attempt to acquire some of these craftsmen for their own projects, or negotiate the education of apprentices and find them unwilling to train or work for anyone but the abbey. What might initially seem an annoyance may become a more desperate situation as aspects of the covenant fall into disrepair, or as the magi are forced to take time away from important research or personal projects to travel significant distances in order to obtain the expertise they need.
 
-This monopolization of labor and resources could also cause friction between the local nobility and the abbey. A clever nobleman, or one who has previously cooperated with the covenant, might seek out the covenant in frustration over the growing power of a secretive and seemingly incorruptible abbot who operates through subordinates and grows more popular every day. The magi might be asked to clandestinely act against the abbey in exchange for some form of limited autonomy or relief from regular feudal obligations — the sort of freedom nearly every covenant eagerly desires may be too great a reward to ignore. Only after they accept the arrangement and put their own plans in motion will they begin to discover the scope of the dragon’s actions and the nature of their foe. Worse yet, the nobleman is unlikely to accept failure, and what had initially begun as a simple plot to quickly “deal” with a Church official may spiral into something far greater as the frustrated lord threatens the magi with civil punishment for unacceptably slow progress. If the magi are reckless, this situation carries the additional possibility of the covenant being brought up on charges at Tribunal for serving as court wizards to a mundane lord in violation of the Hermetic Code. The player characters must carefully conceal their operations not only from the Dragon Abbot but other members of the Order in the area, who may arrive to discuss the changing environment with their neighbors. The fading Magic aura could become the least pressing of their worries as they face an impending trial at Tribunal, either attempting to find a Quaesitor advocate willing to take their case, or
+This monopolization of labor and resources could also cause friction between the local nobility and the abbey. A clever nobleman, or one who has previously cooperated with the covenant, might seek out the covenant in frustration over the growing power of a secretive and seemingly incorruptible abbot who operates through subordinates and grows more popular every day. The magi might be asked to clandestinely act against the abbey in exchange for some form of limited autonomy or relief from regular feudal obligations — the sort of freedom nearly every covenant eagerly desires may be too great a reward to ignore. Only after they accept the arrangement and put their own plans in motion will they begin to discover the scope of the dragon’s actions and the nature of their foe. Worse yet, the nobleman is unlikely to accept failure, and what had initially begun as a simple plot to quickly “deal” with a Church official may spiral into something far greater as the frustrated lord threatens the magi with civil punishment for unacceptably slow progress. If the magi are reckless, this situation carries the additional possibility of the covenant being brought up on charges at Tribunal for serving as court wizards to a mundane lord in violation of the Hermetic Code. The player characters must carefully conceal their operations not only from the Dragon Abbot but other members of the Order in the area, who may arrive to discuss the changing environment with their neighbors. The fading Magic aura could become the least pressing of their worries as they face an impending trial at Tribunal, either attempting to find a Quaesitor advocate willing to take their case, or preparing their own defense. Both options potentially distract the characters from the still-growing influence of the Dragon Abbot and from their own research.
 
 <!-- p. 118 --><a id="page-118"></a>
-
-preparing their own defense. Both options potentially distract the characters from the still-growing influence of the Dragon Abbot and from their own research.
 
 The abbot also has the potential to limit a covenant’s access to other resources — grogs may take on vows and go on crusade, regional supplies are redirected for abbey construction projects, covenfolk might desert for pilgrimages, scholars and craftsmen refuse to work with men of questionable repute, and texts once available for loan are gathered and locked away deep within the abbey.
 
@@ -5248,36 +5242,6 @@ Undistinguished characters have a Pretense of 6 in skills of primary importance 
 
 Each Undistinguished Servant is still being created, and so is incomplete. Parts of its body are missing or transparent. Each does, however, have a perfectly rendered human face. Every Undistinguished Faerie has a symbolic object, which contains vis, wedged in its head. None can smash a mirror, or attack a person carrying one.
 
-#### The Hazy Servants
-
-The Hazy Servants are faeries that the Queen of Gold and Glass has never molded to suit a role. They flit about the edges of her court, taking on supplementary roles as required by her whims, and by the deeds of nearby humans. In their natural shape they look a little like humans seen in the distance, blurred by smoke or fog. Hazy faeries may snap into a shape if a more powerful creature pays them sufficient attention.
-
-Hazy Servants change their characteristics regularly, because their roles are fluid. Use any suitable NPC from any **Ars Magica** supplement. Add 10 points of Faerie Might. Select powers from the list for the Distinguished Knight or Queen of Gold and Glass. Each Hazy Servant loses focus if others cease to pay it attention. Player characters may notice the slight delay between noticing these faeries and their snapping into focus. Hazy faeries, uniquely among the Queen’s servants, can smash mirrors, although they appear to die when they do this. Hazy faeries cannot abide bright, clear light, and flee from it.
-
-<!-- p. 131 --><a id="page-131"></a>
-
-#### The Shadowy Minions
-
-The Queen’s Shadowy Minions are little more than afterthoughts or plans, given life by her glamor and the fear of humans. Shadows lack substance, and cannot touch objects or attack people. They can, however, acts as spies. Their appearance can frighten people into altering their behavior, dogs into barking, and horses into bolting. Shadowy Minions have a Might of 1, and no powers.
-
-### Negotiations
-
-The Queen may be convinced to cease her meddling in several non-violent ways.
-
-#### Too Boring to Manipulate
-
-Perhaps the least satisfactory ending, and yet one which players can most easily engineer, is for the characters to steadfastly refuse to take the bait. The Queen leaves the player characters alone if it becomes clear to her that they want to spend their entire lives hiding in their laboratories. She does not want a servant who is a recluse.
-
-#### Too Clever to Manipulate
-
-Characters are considered too clever to victimize if they discover the Queen’s involvement in stories, and strike back. In addition to her challenges for the player characters, the Queen ceaselessly plays similar games with other mortals, to mold her various minions. Player characters who intervene repeatedly in these games can force the Queen to come to terms with them.
-
-#### Too Dangerous to Manipulate
-
-If the characters develop the ability to destroy powerful faeries, and the Queen knows about it through her spies, she arranges a final confrontation through the Distinguished Ambassador. During this talk, she negotiates a perpetual peace between her agents and the player characters. There are other magi in Mythic Europe, and she’s happy to target them instead if the player characters become too much trouble. As part of this agreement, she will request the aid of the magi to acquire the symbolic objects of their replacements.
-
-It’s far easier for magi to openly enter the *Aegis* of her new victims and take an appropriate object than for her to wait for her new victims to leave on expedition. The player characters need to leave a common mirror in the place of the stolen object, so she is linked to the beginning of this new iteration of the story. When explaining this, the Queen describes how she captured the symbolic objects of the player characters.
-
 #### Undistinguished Warriors
 
 If the wizards try to raid the Queen’s court, they are resisted by her Undistinguished Warriors. Undistinguished Warriors are not suitable as player characters.
@@ -5328,6 +5292,36 @@ Equipment: Armor of magical scales of faerie iron.
 Vis: 4 pawns Imaginem, a rusty piece from human–sized armor.
 
 Appearance: These soldiers are each slightly different from each other: one is a bowman, one a spearman, one a swordsman, and so on. Some are amputees, although the absence of a leg does not limit their mobility, and the lack of a hand does not prevent them manipulating their arms. Many are missing pieces of their heads.
+
+#### The Hazy Servants
+
+The Hazy Servants are faeries that the Queen of Gold and Glass has never molded to suit a role. They flit about the edges of her court, taking on supplementary roles as required by her whims, and by the deeds of nearby humans. In their natural shape they look a little like humans seen in the distance, blurred by smoke or fog. Hazy faeries may snap into a shape if a more powerful creature pays them sufficient attention.
+
+Hazy Servants change their characteristics regularly, because their roles are fluid. Use any suitable NPC from any **Ars Magica** supplement. Add 10 points of Faerie Might. Select powers from the list for the Distinguished Knight or Queen of Gold and Glass. Each Hazy Servant loses focus if others cease to pay it attention. Player characters may notice the slight delay between noticing these faeries and their snapping into focus. Hazy faeries, uniquely among the Queen’s servants, can smash mirrors, although they appear to die when they do this. Hazy faeries cannot abide bright, clear light, and flee from it.
+
+<!-- p. 131 --><a id="page-131"></a>
+
+#### The Shadowy Minions
+
+The Queen’s Shadowy Minions are little more than afterthoughts or plans, given life by her glamor and the fear of humans. Shadows lack substance, and cannot touch objects or attack people. They can, however, acts as spies. Their appearance can frighten people into altering their behavior, dogs into barking, and horses into bolting. Shadowy Minions have a Might of 1, and no powers.
+
+### Negotiations
+
+The Queen may be convinced to cease her meddling in several non-violent ways.
+
+#### Too Boring to Manipulate
+
+Perhaps the least satisfactory ending, and yet one which players can most easily engineer, is for the characters to steadfastly refuse to take the bait. The Queen leaves the player characters alone if it becomes clear to her that they want to spend their entire lives hiding in their laboratories. She does not want a servant who is a recluse.
+
+#### Too Clever to Manipulate
+
+Characters are considered too clever to victimize if they discover the Queen’s involvement in stories, and strike back. In addition to her challenges for the player characters, the Queen ceaselessly plays similar games with other mortals, to mold her various minions. Player characters who intervene repeatedly in these games can force the Queen to come to terms with them.
+
+#### Too Dangerous to Manipulate
+
+If the characters develop the ability to destroy powerful faeries, and the Queen knows about it through her spies, she arranges a final confrontation through the Distinguished Ambassador. During this talk, she negotiates a perpetual peace between her agents and the player characters. There are other magi in Mythic Europe, and she’s happy to target them instead if the player characters become too much trouble. As part of this agreement, she will request the aid of the magi to acquire the symbolic objects of their replacements.
+
+It’s far easier for magi to openly enter the *Aegis* of her new victims and take an appropriate object than for her to wait for her new victims to leave on expedition. The player characters need to leave a common mirror in the place of the stolen object, so she is linked to the beginning of this new iteration of the story. When explaining this, the Queen describes how she captured the symbolic objects of the player characters.
 
 #### Too Involved in Other Realms to Manipulate
 

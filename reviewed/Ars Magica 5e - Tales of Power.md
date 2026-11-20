@@ -17,7 +17,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0304
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -353,6 +353,71 @@ Besides his skills with Mentem spells, Alyates can also create flawless magical 
 
 Alyates knows that another wizard, a member of the Augustan Brotherhood named Buonacorsus, lives in Rome. After a few casual inquiries, Alyates assumes this wizard is more charlatan than magician, and is unconcerned by his presence. Alyates will use this knowledge if it serves him (see “Catching Alyates” later).
 
+#### Alyates of House Jerbiton
+
+Characteristics: Int 0, Per 0, Pre +3, Com +3, Str –2 (1), Sta –1, Dex –1, Qik +2
+
+Size: 0
+
+Age: 90 (47)
+
+Decrepitude: 0 (1)
+
+Warping Score: 7 (1)
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: The Gift; Hermetic Magus; Gentle Gift; Affinity with Mentem, Educated, Improved Characteristics, Persona\*, Premonitions, Puissant Mentem; Driven (to destroy the pope), Dark Secret (not actually dead, and an Oath breaker); Susceptibility to Faerie Power, Visions
+
+Personality Traits: Cynical +3, Egotistical +2, Rigid +2
+
+Reputations: As Malgarita: Successful Manager 3 (merchants of Rome)
+
+Combat:
+- Dodge: Init +2, Attack n/a, Defense +2, Damage n/a
+
+Soak: +3
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Inc (16–20), Dead (21+)
+
+Abilities: Animal Handling 2 (horses), Area Lore: Constantinople 3 (city covenants), Area Lore: Rome 3 (abandoned temples), Artes Liberales 3 (grammar), Awareness 2 (determining magical effect), Bargain 2 (books), Code of Hermes 3 (mundane interactions), Concentration 5 (spell concentration), Etiquette 2 (court), Finesse 5 (Mentem), Folk Ken 2 (priests), Greek 5 (witticisms), Guile 2 (elaborate lies), Italian 4 (merchant slang), Latin 4 (Hermetic usage), Magic Theory 8 (Mentem), Organization Lore: Order of Hermes 1 (politics), Parma Magica 6 (Corpus), Penetration 5 (Mentem), Personae 2 (Malgarita and one other), Philosophiae 2 (ceremonial magic), Premonitions 3 (personal danger), Scribe 2 (copying lab texts)
+
+Arts: Cr 18, In 5, Mu 5, Pe 15, Re 16; An 5, Aq 5, Au 5, Co 18, He 5, Ig 5, Im 5, Me 27+3, Te 5, Vi 7
+
+Twilight Scars: Elongated forehead
+
+Equipment: Clothing typical of his current persona
+
+Encumbrance: 0 (0)
+
+Spells Known:
+- Curse of the Unruly Tongue (ReCo 5/+33)
+- Meet Me at Midnight (CrMe 15/+47)
+- Rising Ire (CrMe 15/+47)
+- Convince a Man He Has an Enemy (CrMe 20/+47)
+- Memory of the Distant Dream (CrMe 20/+47)
+- Weight of a Thousand Hells (CrMe 25/+47)
+- Perception of the Conflicting Motives (InMe 15/+34)
+- Posing the Silent Question (InMe 20/+34)
+- Borrow the Ears of Another (InMe 30/+34)
+- Borrow the Eyes of Another (InMe 30/+34)
+- Peering into the Mortal Mind (InMe 30/+34)
+- Loss of but a Moment’s Memory (PeMe 15/+44)
+- Loss of a Lasting Day’s Memory (PeMe 20/+44)
+- Blessing of Childlike Bliss (PeMe 25/+44)
+- Passion’s Lost Feeling (PeMe 25/+44)
+- Black Whisper (PeMe 40/+48)
+- The Call to Slumber (ReMe 20/+45)
+- Trust Me (ReMe 20/+45) (*Houses of Hermes: True Lineages*, [page 73](#page-73))
+- Aura of Inconsequence (ReMe 25/+49) (*Houses of Hermes: True Lineages*, [page 73](#page-73))
+- Forcing the Undecided’s Decision (ReMe 35/+45)
+- Enslave the Mortal Mind (ReMe 40/+45)
+- Shroud Magic (MuVi 20/+11)
+
+Appearance: Alyates is an average-sized man with dark hair and a full beard, dressed in ostentatious robes of blue and gold. Malgarita is a stocky woman with large hips and shoulders, a crooked nose, and graying hair, dressed in the traditional clothes of a fishmonger.
+
 ##### Meet Me at Midnight
 
 CrMe 15<br>
@@ -419,71 +484,6 @@ This magical silver bracelet instantly transports the wearer to a location to wh
 
 (Effect: Base 35, +1 Touch; +2 frequency)
 
-#### Alyates of House Jerbiton
-
-Characteristics: Int 0, Per 0, Pre +3, Com +3, Str –2 (1), Sta –1, Dex –1, Qik +2
-
-Size: 0
-
-Age: 90 (47)
-
-Decrepitude: 0 (1)
-
-Warping Score: 7 (1)
-
-Confidence Score: 1 (3)
-
-Virtues and Flaws: The Gift; Hermetic Magus; Gentle Gift; Affinity with Mentem, Educated, Improved Characteristics, Persona\*, Premonitions, Puissant Mentem; Driven (to destroy the pope), Dark Secret (not actually dead, and an Oath breaker); Susceptibility to Faerie Power, Visions
-
-Personality Traits: Cynical +3, Egotistical +2, Rigid +2
-
-Reputations: As Malgarita: Successful Manager 3 (merchants of Rome)
-
-Combat:
-- Dodge: Init +2, Attack n/a, Defense +2, Damage n/a
-
-Soak: +3
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Inc (16–20), Dead (21+)
-
-Abilities: Animal Handling 2 (horses), Area Lore: Constantinople 3 (city covenants), Area Lore: Rome 3 (abandoned temples), Artes Liberales 3 (grammar), Awareness 2 (determining magical effect), Bargain 2 (books), Code of Hermes 3 (mundane interactions), Concentration 5 (spell concentration), Etiquette 2 (court), Finesse 5 (Mentem), Folk Ken 2 (priests), Greek 5 (witticisms), Guile 2 (elaborate lies), Italian 4 (merchant slang), Latin 4 (Hermetic usage), Magic Theory 8 (Mentem), Organization Lore: Order of Hermes 1 (politics), Parma Magica 6 (Corpus), Penetration 5 (Mentem), Personae 2 (Malgarita and one other), Philosophiae 2 (ceremonial magic), Premonitions 3 (personal danger), Scribe 2 (copying lab texts)
-
-Arts: Cr 18, In 5, Mu 5, Pe 15, Re 16; An 5, Aq 5, Au 5, Co 18, He 5, Ig 5, Im 5, Me 27+3, Te 5, Vi 7
-
-Twilight Scars: Elongated forehead
-
-Equipment: Clothing typical of his current persona
-
-Encumbrance: 0 (0)
-
-Spells Known:
-- Curse of the Unruly Tongue (ReCo 5/+33)
-- Meet Me at Midnight (CrMe 15/+47)
-- Rising Ire (CrMe 15/+47)
-- Convince a Man He Has an Enemy (CrMe 20/+47)
-- Memory of the Distant Dream (CrMe 20/+47)
-- Weight of a Thousand Hells (CrMe 25/+47)
-- Perception of the Conflicting Motives (InMe 15/+34)
-- Posing the Silent Question (InMe 20/+34)
-- Borrow the Ears of Another (InMe 30/+34)
-- Borrow the Eyes of Another (InMe 30/+34)
-- Peering into the Mortal Mind (InMe 30/+34)
-- Loss of but a Moment’s Memory (PeMe 15/+44)
-- Loss of a Lasting Day’s Memory (PeMe 20/+44)
-- Blessing of Childlike Bliss (PeMe 25/+44)
-- Passion’s Lost Feeling (PeMe 25/+44)
-- Black Whisper (PeMe 40/+48)
-- The Call to Slumber (ReMe 20/+45)
-- Trust Me (ReMe 20/+45) (*Houses of Hermes: True Lineages*, [page 73](#page-73))
-- Aura of Inconsequence (ReMe 25/+49) (*Houses of Hermes: True Lineages*, [page 73](#page-73))
-- Forcing the Undecided’s Decision (ReMe 35/+45)
-- Enslave the Mortal Mind (ReMe 40/+45)
-- Shroud Magic (MuVi 20/+11)
-
-Appearance: Alyates is an average-sized man with dark hair and a full beard, dressed in ostentatious robes of blue and gold. Malgarita is a stocky woman with large hips and shoulders, a crooked nose, and graying hair, dressed in the traditional clothes of a fishmonger.
-
 ### Buonacorsus of the Augustan Brotherhood
 
 Buonacorsus is a senior member of the Augustan Brotherhood, a group of non-Hermetic wizards who want to increase the emperor’s political importance (see Rival Magic, Chapter 3). After years of thought, Buonacorsus devised a plan to make the Church subservient to the emperor. Knowing that the Italian popolo (the common people) would never accept a world without a religious leader, Buonacorsus planned to replace the current pope with a man loyal to the emperor. Because Virgilian magic, the magic of the Augustan Brotherhood, targets areas and not people, devising a method to magically kill the pope was difficult. After studying the pope’s personal habits and spending many years in Rome to invent city-specific rites, Buonacorsus finally devised a plan. He enchanted a stone statue to make a building unbearably hot, hoping that long-term heat exposure would kill those inside. While not every pope likes to stay in Rome, especially during the humid summer, the current pope did. Buonacorsus hoped that the man’s reluctance to leave the city would be his downfall. He paid workmen to move the statue inside the pope’s residence. Days later, the pope died.
@@ -491,6 +491,54 @@ Buonacorsus is a senior member of the Augustan Brotherhood, a group of non-Herme
 Buonacorsus wants Goffredo da Castiglione, a Ghibelline, elected pope. Buonacorsus knew that the traditional location for papal elections in Rome was the Septizodium, and he ordered his team of workers to move his awakened statue to the building. He also cast A Murder is Planned and Suffer the Judgment of Jericho rites on the Septizodium. The first rite indicates that things are going as planned, that his rites are still in effect as long as the crows use the roof as their roost. The second brings the building down if the wrong cardinal is selected. He then cast the rite A Murderous Assault Will Befall You. Though the rite will have a poor Penetration total and may fail, Buonacorsus still hopes it succeeds, and that the ensuing racket of cawing crows will alert him if Hermetic wizards have entered Rome.
 
 Thus prepared, Buonacorsus sits in his secret hiding place in the Colosseum, using his powers of divination to follow the events in the Septizodium. He can accurately divine the daily happenings of any character with a Reputation of 4 or higher. Either Castiglione will be selected pope, or the cardinals will all die.
+
+#### Buonacorsus of the Augustan Brotherhood
+
+Characteristics: Int +2, Per +3, Pre 0, Com +4, Str 0, Sta –3, Dex +1, Qik –2
+
+Size: 0
+
+Age: 104 (39)
+
+Decrepitude: 3 (15)
+
+Warping Score: 7 (4)
+
+Confidence Score: 1 (7)
+
+Virtues and Flaws: The Gift; Court Wizard; Affinity with Virgilian Theory, Educated, Generous Master, Great Communication, Unaging; Enemies (the Guelphs); Clumsy, Susceptibility to Infernal Power
+
+Personality Traits: Persistent +3, Cowardly +2, Patient +2
+
+Combat:
+- Dodge: Init –2, Attack n/a, Defense +2, Damage n/a
+- Fist: Init –2, Attack +4, Defense +1, Damage 0
+
+Soak: –3
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Inc (16–20), Dead (21+)
+
+Abilities: Animo 9 (stone statues), Artes Liberales 4 (rhetoric), Brawl 3 (dodge), Charm 2 (royal superiors), Civil and Canon Law 2 (papal conclaves), Etiquette 1 (court dinners), Finesse 4 (controlling rites), Folk Ken 2 (imperial retainers), Guile 1 (lying to women), Italian 5 (enunciation), Intrigue 2 (Neapolitan nobility), Latin 5 (Virgilian nuances), Organization Lore: Augustan Brotherhood 3 (personalities), Organization Lore: Order of Hermes 1 (current practices), Penetration 6 (School of the Stones rites), Philosophiae 2 (ethics), Profession: Scribe 3 (preparing materials), Sortes Virgilianae 6 (questions about Rome), Stealth 5 (fleeing), Virgilian Theory 7 (School of Stones)
+
+Schools: School of Boreas 0, School of the Naiads 1, School of Prometheus 9, School of the Stones 14, School of the Sylvan Dryads 0, School of Vigilant Bees 10
+
+Equipment: Scholarly robes, a copy of Virgil’s Aeneid
+
+Encumbrance: 0 (0)
+
+Rites Known:
+- A Murder Is Planned 15 (School of the Vigilant Bees, Ease Factor 21) Casting Score +29
+- A Murderous Assault Will Befall You 15 (School of the Vigilant Bees, Ease Factor 33) Casting Score +29
+- Escape the Gloomy Places 6 (School of Prometheus, Ease Factor 18) Casting Score +19
+- Stony Protection of the Hearth 12 (School of the Stones, Ease Factor 18) Casting Score +30
+- Suffer the Judgment of Jericho 20 (School of the Stones, Ease Factor 21) Casting Score +38
+- Summer’s Sweltering Heat 17 (School of Prometheus, Ease Factor 30) Casting Score +30
+- The Hounds’ Bay of Recognition 8 (School of Vigilant Bees, Ease Factor 15) Casting Score +22
+- The Soldiers’ Secret Ambush 14 (School of the Stones, Ease Factor 21) Casting Score +32
+
+Appearance: Hirsute and swarthy, Buonacorsus looks at first glance like a seedy Mediterranean farmer, slightly overweight with a dishonest gleam in his eye. He wears a simple white linen tunic and straw hat.
 
 ##### A Murder Is Planned
 
@@ -599,54 +647,6 @@ This rite protects the warded area by causing a group of ten long swords to magi
 The rite is triggered when anyone besides Buonacorsus enters the warded room. Its magic must Penetrate the trigger’s Magic Resistance to activate and to strike the target with the resulting enchanted swords.
 
 (Base 6, +3 Diameter, +3 Room, +6 Metal, +3 for a group of swords)
-
-#### Buonacorsus of the Augustan Brotherhood
-
-Characteristics: Int +2, Per +3, Pre 0, Com +4, Str 0, Sta –3, Dex +1, Qik –2
-
-Size: 0
-
-Age: 104 (39)
-
-Decrepitude: 3 (15)
-
-Warping Score: 7 (4)
-
-Confidence Score: 1 (7)
-
-Virtues and Flaws: The Gift; Court Wizard; Affinity with Virgilian Theory, Educated, Generous Master, Great Communication, Unaging; Enemies (the Guelphs); Clumsy, Susceptibility to Infernal Power
-
-Personality Traits: Persistent +3, Cowardly +2, Patient +2
-
-Combat:
-- Dodge: Init –2, Attack n/a, Defense +2, Damage n/a
-- Fist: Init –2, Attack +4, Defense +1, Damage 0
-
-Soak: –3
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Inc (16–20), Dead (21+)
-
-Abilities: Animo 9 (stone statues), Artes Liberales 4 (rhetoric), Brawl 3 (dodge), Charm 2 (royal superiors), Civil and Canon Law 2 (papal conclaves), Etiquette 1 (court dinners), Finesse 4 (controlling rites), Folk Ken 2 (imperial retainers), Guile 1 (lying to women), Italian 5 (enunciation), Intrigue 2 (Neapolitan nobility), Latin 5 (Virgilian nuances), Organization Lore: Augustan Brotherhood 3 (personalities), Organization Lore: Order of Hermes 1 (current practices), Penetration 6 (School of the Stones rites), Philosophiae 2 (ethics), Profession: Scribe 3 (preparing materials), Sortes Virgilianae 6 (questions about Rome), Stealth 5 (fleeing), Virgilian Theory 7 (School of Stones)
-
-Schools: School of Boreas 0, School of the Naiads 1, School of Prometheus 9, School of the Stones 14, School of the Sylvan Dryads 0, School of Vigilant Bees 10
-
-Equipment: Scholarly robes, a copy of Virgil’s Aeneid
-
-Encumbrance: 0 (0)
-
-Rites Known:
-- A Murder Is Planned 15 (School of the Vigilant Bees, Ease Factor 21) Casting Score +29
-- A Murderous Assault Will Befall You 15 (School of the Vigilant Bees, Ease Factor 33) Casting Score +29
-- Escape the Gloomy Places 6 (School of Prometheus, Ease Factor 18) Casting Score +19
-- Stony Protection of the Hearth 12 (School of the Stones, Ease Factor 18) Casting Score +30
-- Suffer the Judgment of Jericho 20 (School of the Stones, Ease Factor 21) Casting Score +38
-- Summer’s Sweltering Heat 17 (School of Prometheus, Ease Factor 30) Casting Score +30
-- The Hounds’ Bay of Recognition 8 (School of Vigilant Bees, Ease Factor 15) Casting Score +22
-- The Soldiers’ Secret Ambush 14 (School of the Stones, Ease Factor 21) Casting Score +32
-
-Appearance: Hirsute and swarthy, Buonacorsus looks at first glance like a seedy Mediterranean farmer, slightly overweight with a dishonest gleam in his eye. He wears a simple white linen tunic and straw hat.
 
 ## Planetary Divinities
 
@@ -1047,12 +1047,14 @@ Ancient ruins abound in both halves of Rome, sticking up like the bones of a fal
 
 <!-- p. 22 --><a id="page-22"></a>
 
-- 1. Piazza dei Satiri
-- 2. The Septizodium
-- 3. Circus Maximus
-- 4. The Colosseum
-- 5. The Temple of Mercury
-- 6. Vardian’s Tomb
+> ### Map Key: City of Rome
+>
+> - 1. Piazza dei Satiri
+> - 2. The Septizodium
+> - 3. Circus Maximus
+> - 4. The Colosseum
+> - 5. The Temple of Mercury
+> - 6. Vardian’s Tomb
 
 A major pilgrimage destination and housing many holy buildings, Rome has many areas with powerful Divine auras. But Rome is also a busy city, home to many, many people, and, like other large cities in Mythic Europe, it is a conglomeration of supernatural auras pockmarked with regiones. Areas important to this adventure have specific auras listed later, but storyguides can use the following rules of thumb for other auras in Rome. Most streets and buildings along the Tiber have a Divine aura of 3, which dips to 2 at night. The Trastevere, famous for criminal and illegal activities, has a Divine aura of 2 during the day and an Infernal aura of 2 at night (when the Divine aura dips to 1 and the Infernal aura overrides it). The Vatican has a higher Divine aura, perhaps 4 or 5 depending on exact locations. The vineyard city has a Divine aura of 1 throughout the day which disappears at night. Rome has approximately 400 churches, ranging from huge cathedrals to small parish churches, whose Divine auras range from 4 to 9, depending on the church’s importance.
 
@@ -1480,13 +1482,11 @@ While the bottle is sealed, the ‘afrit is in the Magic Realm, not literally in
 
 There is no easy way for anyone other than the ‘afrit bound into the bottle to use the bottle as a path to the Magic Realm. However, Hermetic research may be able to find a way, particularly if you want to make access to the City of Brass easy in your saga.
 
-As a further complication, Solomon bound many spirits besides jinn, including ghosts, demons, and even ancient non-Hermetic sorcerers. He also used objects other than bottles, notably oil lamps and rings; these often need to be rubbed to summon the jinni. Beings other than ‘afarit await the sum-
+As a further complication, Solomon bound many spirits besides jinn, including ghosts, demons, and even ancient non-Hermetic sorcerers. He also used objects other than bottles, notably oil lamps and rings; these often need to be rubbed to summon the jinni. Beings other than ‘afarit await the summons in different supernatural realms, and the nature of that realm may make some eager to be summoned, even if they must serve.
 
 <!-- p. 42 --><a id="page-42"></a>
 
 <!-- p. 43 --><a id="page-43"></a>
-
-mons in different supernatural realms, and the nature of that realm may make some eager to be summoned, even if they must serve.
 
 Other types of enchanted binding exist. Bottles created by lesser wizards are greatly inferior and follow different rules. Hermetic magi have a Muto Vim spell called The Wicked Jar (*Realms of Power: Infernal*, [page 122](#page-122)), and Hermetic Sahir may develop a similar spell called Jar of Suleiman. There are also Hermetic Spirit Mysteries and the Goetic Art of Binding. All of these forms of magic function according to their own rules, but none duplicate all the powers of King Solomon’s bottles. Indeed, the spirit may well be able to act however it wishes once released. Lesser enchantments would explain stories in which a trapped jinni is released from a bottle only to destroy his releaser.
 
@@ -1612,6 +1612,76 @@ Each ‘afrit needs only a name and a Minor Personality Flaw for individual dist
 
 <!-- p. 45 --><a id="page-45"></a>
 
+### A Note on Jinn
+
+Many of the antagonists in this adventure are Magic jinn, a type of spirit common to Islamic folklore. ‘Afarit are a type of jinni, often aligned with the Form Ignem but not always. As beings of the Magic realm, ‘afarit and jinn are uninterested in the affairs of mankind and indifferent to the words of the Prophet. At best they fear the Divine and give token reverence, but many are outright pagans with heathen habits. When corporeal, jinn are fond of luxury and indulge in extravagant eating and drinking, wearing scandalous clothing, and displaying immodest manners.
+
+<!-- p. 46 --><a id="page-46"></a>
+
+Jinn of the wild are elemental spirits of the land, usually tied to some natural feature such as an oasis, a mountain, or a stretch of desert. This sort of jinni is a true genius loci. As such, it cannot venture far from the land it is bound to unless it forms a magical bargain or is somehow coerced. These are the sorts of jinn that are of the most interest to the Sahirs (both Hermetic and non-Hermetic), and are easy to identify as jinn using Magic Lore or an appropriate Area Lore. These wild spirits are the most primal manifestation of the jinn. By comparison, the bottled jinn seem tamed by civilization.
+
+All Jinn have the Free Virtue of Magic Spirit (Jinni), which includes the effects of Magical Air. All Jinni also have the Major Virtue of Ways of the (Land) plus the Major Flaw of Greater Malediction: Bound by Bargains. Since these two are universal to all jinn, the ‘afarit presented here have taken these as a Major Quality and a Major Inferiority. This is to make it easy to create a wide variety of different ‘afrit characters based on a simple template and some notes on specific individuals (Characteristics, Virtues, Flaws, and any additional Abilities &/or Powers). Magical Characters are able to take General and Supernatural Virtues and Flaws as Qualities and Inferiorities. A bottled jinni must take Greater Malediction (Bound in Bottle) as a Major Flaw.
+
+Jinn often possess a wide variety of powers, including taking material form, flying, invisibility, and conjuring wealth and other items. Jinn also often possess powers with one or more elemental Forms (matching the alignment of its Might score). The template presents powers typical of an ‘afrit from the City of Brass, and other common powers of higher ranking ‘afrit are described in individual entries.
+
+<!-- p. 47 --><a id="page-47"></a>
+
+Not all jinn are aligned with the Magic Realm. There are Faerie Jinn, as mentioned, but there are also Jinn affiliated with the Infernal Realm. Further details, as well as guidelines for creating jinn aligned to other supernatural realms and additional examples, are provided in *The Cradle and the Crescent*, Chapter four.
+
+### The Corporeal Forms of Jinn
+
+The corporeal form of a jinni is considered part of its Essential Nature. It can maintain this form indefinitely and dissolve it at will. Though created by magic, it is considered a natural body and not repelled by Magic Resistance. Indeed, jinn can mate with humans and produce children with magical blood. While in corporeal form, a jinni must eat, breathe, and sleep, just like a human being, and killing the corporeal body destroys the jinni. A jinni knows this weakness and will change into its spirit form to avoid death.
+
+The jinn presented here have the Variable Power Virtue and Restricted Power Flaw in conjunction with the power Donning the Corporeal Veil (*Realms of Power: Magic*, [page 102](#page-102)). This links the power to the Shapeshifter Ability (taken as a Major Quality), allowing the jinni to manifest in a number of additional forms equal to the Ability score. The jinni doesn’t need to roll to switch forms; it simply discards one form and manifests in the shape desired. Each form is considered part of the jinni’s Essential Nature. The power isn’t limited to just animal shapes. Jinn may choose variants such as an elemental form, a more regal (or more humble) version of their normal self, or even an inanimate object. The jinni can vary the size of its manifestation, from as large as its base size + Shapeshifter score, to as small as base size – twice Shapeshifter score. So, for example, an ‘afrit with a Size of +1 and a score of 3 in Shapeshifter can appear as large as Size +4 or as small as Size –5.
+
+<!-- p. 48 --><a id="page-48"></a>
+
+> ### Travel in the Desert
+>
+> The sun burns hot in the deserts, meaning that characters need to take precautions against heat and sunstroke. This includes covering their skin to avoid sunburn and carrying adequate supplies of water to stave off dehydration. The Deprivation check time for lack of water is reduced in the desert to 4 hours, while the sunlight does +1 non-combat damage if skin is left exposed (see [**ArM5**, pages 180–181](<Ars Magica 5e - Core Rules.md#combat>) / [Definitive Edition, page 393](<Ars Magica - Definitive Edition (Core Rules).md#combat>)). Powerful magi can easily protect themselves from the heat and their thirst by using magic such as the Ward against Heat and Flames or Ritual magic to create water. However, some magi may lack these capabilities and there are also the companions, grogs, and pack animals to consider.
+>
+> Another (usually natural) hazard is dry quicksands, which can swallow a man and his mount in seconds. If a character steps on one of these, he begins to sink immediately and is pulled under within two rounds. Death from suffocation follows if he is not rescued (again, see [**ArM5**, pages 180–181](<Ars Magica 5e - Core Rules.md#page-180>) / [Definitive Edition, page 406](<Ars Magica - Definitive Edition (Core Rules).md#disease-table>)). A character who is caught in an area of dry quicksand may make a Strength or Quickness stress roll against an Ease Factor of 9 in the first round to leap or pull himself free before he sinks a significant distance, with a botch indicating that his arms are trapped in the following round. Thereafter it is up to his companions to help him escape its clutches, though if his arms are free he may assist in the second round, reducing any further Ease Factors that he may have to roll against by 3. Thereafter he is pulled under and not be able to help.
+
+The Restricted Power Flaw has the effect that, no matter what the alternate form, there is always some tell-tale sign of the jinni’s true identity. Beast forms have certain distinct similarities and contribute features to other shapes. An elemental form may take the shape of the jinni or bear his likeness somehow. Even an alternate human form still exhibits a signature quirk or carries a trademark object. The jinni cannot lie about his identity, though he may introduce himself by any one of the different parts of his true name, use a recognized nickname, or spell the name backwards.
+
+#### Jawal the Mighty, ‘Afrit of the Brass Bottle
+
+Magic Might: 25
+
+Modified Characteristics: Str +4, Sta +3
+
+Modified Virtues & Flaws: add Improved Characteristics (x2), Great Strength, Overconfident (major); plus Reckless
+
+Modified Qualities & Inferiorities: Add Greater Power, Improved Powers (x2), Lesser Power, and Remove Reduced Abilities (x4)
+
+Personality Traits: Overconfident +3, Reckless +3, Brave +2, Crafty +2 (Communication), Loyal –1
+
+Combat: Add +1 to Attack and Defense, and +2 to Damage
+
+Soak: +3
+
+Modified Abilities: Brawl 5 (wrestle), Charm 2 (first impressions), Concentration 3 (powers), Faerie Lore 1 (Arabic), Finesse 4 (precision), Magic Lore 4 (jinn), Penetration 5 (Domination), Single Weapon 5 (scimitar)
+
+Modified & Additional Powers:
+
+*Fiery Aura of the ‘Afrit*, Init +3
+
+*Smite with Fire*, 0 points, Init –5
+
+Vis: 5 Ignem
+
+Appearance: Jawal appears as a large muscular man, with dark red skin and gleaming yellow eyes. He is bald save for a long tail of coal black hair that reaches from his head to his feet. His ears are pointed and he has a wicked grin of jagged teeth. He is clothed in nothing but smoke and jewelry.
+
+## Dramatis Personae
+
+The City of Brass features a number of significant characters, most of whom are Jinn. See the Typical ‘Afrit information on the previous pages for character templates and special rules governing ‘afrit in play..
+
+<!-- p. 49 --><a id="page-49"></a>
+
+### Afdal-Kathir, the Malik’s Champion
+
+Afdal-Kathir is the Malik’s nephew. He is the court’s champion and commander of the city’s garrison. Afdal is desperately in love with his cousin Amina, who wants nothing to do with him.
+
 #### Afdal-Kathir, the Malik’s Champion
 
 Magic Might: 40 (Ignem)
@@ -1650,6 +1720,10 @@ Vis: 8 pawns of Ignem vis
 
 Appearance: Afdal-Kathir’s handsomeness appeals to the wrong sort of lady. He dresses in finery and caries himself with a regal demeanor.
 
+### Amina, the Malik’s Daughter
+
+The Malik’s daughter is a cunning speaker but famously proud and self-confident. She is a powerful ‘afrit in her own right.
+
 #### Amina, the Malik’s Daughter
 
 Magic Might: 35 (Ignem)
@@ -1687,6 +1761,10 @@ Amina has the additional forms of a serpent and a beautiful young maiden.
 Vis: 2 pawns of Rego and 5 pawns of Ignem
 
 Appearance: In her preferred form, as a maiden, Amina’s appearance is flawless, but still horrifying. If Amina is in sight, but not the focus of attention, viewers seem to glimpse hideous deformities or monstrous features, but when they look to check, they see nothing but a beautiful young woman. Similarly, if they are concentrating on part of her body, such as her face or hands, they catch glimpses of horrors in other parts of her body, which are not there when they look.
+
+### Za’al-Zoresh the Grand-Vizier
+
+Za’al-Zoresh is the Malik’s cousin, seer, and advisor. He is always scheming to gain more power, sometimes in conflict with the Malik’s interests. However, he seeks not to usurp the throne, but to increase his own influence and authority.
 
 #### Za’al-Zoresh, the Grand-Vizier
 
@@ -1728,21 +1806,9 @@ Vis: 4 Intellego, 6 Ignem
 
 Appearance: Za’al-Zoresh appears scholarly, with flowing robes and a long white beard.
 
-### A Note on Jinn
+### Ihab Ia’ara, an ‘Afrit Merchant
 
-Many of the antagonists in this adventure are Magic jinn, a type of spirit common to Islamic folklore. ‘Afarit are a type of jinni, often aligned with the Form Ignem but not always. As beings of the Magic realm, ‘afarit and jinn are uninterested in the affairs of mankind and indifferent to the words of the Prophet. At best they fear the Divine and give token reverence, but many are outright pagans with heathen habits. When corporeal, jinn are fond of luxury and indulge in extravagant eating and drinking, wearing scandalous clothing, and displaying immodest manners.
-
-<!-- p. 46 --><a id="page-46"></a>
-
-Jinn of the wild are elemental spirits of the land, usually tied to some natural feature such as an oasis, a mountain, or a stretch of desert. This sort of jinni is a true genius loci. As such, it cannot venture far from the land it is bound to unless it forms a magical bargain or is somehow coerced. These are the sorts of jinn that are of the most interest to the Sahirs (both Hermetic and non-Hermetic), and are easy to identify as jinn using Magic Lore or an appropriate Area Lore. These wild spirits are the most primal manifestation of the jinn. By comparison, the bottled jinn seem tamed by civilization.
-
-All Jinn have the Free Virtue of Magic Spirit (Jinni), which includes the effects of Magical Air. All Jinni also have the Major Virtue of Ways of the (Land) plus the Major Flaw of Greater Malediction: Bound by Bargains. Since these two are universal to all jinn, the ‘afarit presented here have taken these as a Major Quality and a Major Inferiority. This is to make it easy to create a wide variety of different ‘afrit characters based on a simple template and some notes on specific individuals (Characteristics, Virtues, Flaws, and any additional Abilities &/or Powers). Magical Characters are able to take General and Supernatural Virtues and Flaws as Qualities and Inferiorities. A bottled jinni must take Greater Malediction (Bound in Bottle) as a Major Flaw.
-
-Jinn often possess a wide variety of powers, including taking material form, flying, invisibility, and conjuring wealth and other items. Jinn also often possess powers with one or more elemental Forms (matching the alignment of its Might score). The template presents powers typical of an ‘afrit from the City of Brass, and other common powers of higher ranking ‘afrit are described in individual entries.
-
-<!-- p. 47 --><a id="page-47"></a>
-
-Not all jinn are aligned with the Magic Realm. There are Faerie Jinn, as mentioned, but there are also Jinn affiliated with the Infernal Realm. Further details, as well as guidelines for creating jinn aligned to other supernatural realms and additional examples, are provided in *The Cradle and the Crescent*, Chapter four.
+Ihab travels about the city with a floating cart of wondrous items. For trinkets of minor power, he accepts payment in vis or trade for a Hermetic item. Exotic and powerful items demand higher prices, such as dangerous quests or subtly insidious bargains. The nature of a special item should be determined by the storyguide as fits the needs of the story at this point; something to help the characters do something they cannot do on their own, or something cursed that hinders the characters and creates further complications.
 
 ### Ihab Ia’ara, an ‘Afrit Merchant
 
@@ -1757,6 +1823,12 @@ Modified Abilities: Bargain 4+2 (sell), Brawl 3 (wrestle), Charm 2 (wit), Faerie
 Equipment: Fine robes, jewelry, knife, cart of mysterious wares.
 
 Appearance: Ihab has red skin and the devilish appearance common for an ‘afrit, yet his demeanor instantly indicates his role as a merchant. He dresses in fine silk robes and wears many jewels.
+
+### Al-Malik ‘Izz-Doresh al-Dahish ibn El-A’mash al-’Afrit
+
+Al Malik I’zz-Doresh al-Dahish ibn El-A’mash al-’Afrit, called “the Malik” for short, is the sultan of the City of Brass. A powerful Named Spirit, the Malik is a Daimon, and can manifest his Aspect in different forms. The Basalt Pillar on the Forgotten Road (see later) is another aspect of the Daimon, and displays identical facial features to the physical ‘afrit aspect. Because of Solomon’s powerful magic, even a normally unbindable Daimonic Aspect like the Malik could be bound. One of the Malik’s Aspects is bound in the Basalt Pillar and cannot be discarded — it cannot leave its prison in the mundane realm although the Daimon itself is free to move within the Magic Realm. If questioned in his different Aspects, the Malik will not lie about his identity, but he answers cryptically and elusively.
+
+The Malik has not attempted to manifest an Aspect outside of the Magic Realm and the City of Brass, and does not know whether he can. He can discard the Aspect in the City of Brass and form a new one after a day, appearing upon his red carnelian throne in his palace. This allows him to create an Aspect with a refilled Might pool, and to manifest with a different set of powers if he so chooses. One example of an alternate power is the ability to bind spirits, as in the case of the ghost of King Kush. The locus of the Malik Aspect consists of the streets and walls of the City of Brass, the Palace, and all public buildings.
 
 #### Al-Malik ‘Izz-Doresh al-Dahish ibn El-A’mash al-’Afrit
 
@@ -1838,78 +1910,6 @@ Vis: 5 Rego, 10 Ignem
 
 Appearance: The Malik has black skin and long red hair like a horse’s tail. He has two eyes like burning coal and a third eye that looks like a lynx’s eye in the middle of his forehead. With the legs and torso of a man, the Malik has two pairs of arms, one human and one lion. He has a pair of huge, vulture-like wings.
 
-### The Corporeal Forms of Jinn
-
-The corporeal form of a jinni is considered part of its Essential Nature. It can maintain this form indefinitely and dissolve it at will. Though created by magic, it is considered a natural body and not repelled by Magic Resistance. Indeed, jinn can mate with humans and produce children with magical blood. While in corporeal form, a jinni must eat, breathe, and sleep, just like a human being, and killing the corporeal body destroys the jinni. A jinni knows this weakness and will change into its spirit form to avoid death.
-
-The jinn presented here have the Variable Power Virtue and Restricted Power Flaw in conjunction with the power Donning the Corporeal Veil (*Realms of Power: Magic*, [page 102](#page-102)). This links the power to the Shapeshifter Ability (taken as a Major Quality), allowing the jinni to manifest in a number of additional forms equal to the Ability score. The jinni doesn’t need to roll to switch forms; it simply discards one form and manifests in the shape desired. Each form is considered part of the jinni’s Essential Nature. The power isn’t limited to just animal shapes. Jinn may choose variants such as an elemental form, a more regal (or more humble) version of their normal self, or even an inanimate object. The jinni can vary the size of its manifestation, from as large as its base size + Shapeshifter score, to as small as base size – twice Shapeshifter score. So, for example, an ‘afrit with a Size of +1 and a score of 3 in Shapeshifter can appear as large as Size +4 or as small as Size –5.
-
-<!-- p. 48 --><a id="page-48"></a>
-
-> ### Travel in the Desert
->
-> The sun burns hot in the deserts, meaning that characters need to take precautions against heat and sunstroke. This includes covering their skin to avoid sunburn and carrying adequate supplies of water to stave off dehydration. The Deprivation check time for lack of water is reduced in the desert to 4 hours, while the sunlight does +1 non-combat damage if skin is left exposed (see [**ArM5**, pages 180–181](<Ars Magica 5e - Core Rules.md#combat>) / [Definitive Edition, page 393](<Ars Magica - Definitive Edition (Core Rules).md#combat>)). Powerful magi can easily protect themselves from the heat and their thirst by using magic such as the Ward against Heat and Flames or Ritual magic to create water. However, some magi may lack these capabilities and there are also the companions, grogs, and pack animals to consider.
->
-> Another (usually natural) hazard is dry quicksands, which can swallow a man and his mount in seconds. If a character steps on one of these, he begins to sink immediately and is pulled under within two rounds. Death from suffocation follows if he is not rescued (again, see [**ArM5**, pages 180–181](<Ars Magica 5e - Core Rules.md#page-180>) / [Definitive Edition, page 406](<Ars Magica - Definitive Edition (Core Rules).md#disease-table>)). A character who is caught in an area of dry quicksand may make a Strength or Quickness stress roll against an Ease Factor of 9 in the first round to leap or pull himself free before he sinks a significant distance, with a botch indicating that his arms are trapped in the following round. Thereafter it is up to his companions to help him escape its clutches, though if his arms are free he may assist in the second round, reducing any further Ease Factors that he may have to roll against by 3. Thereafter he is pulled under and not be able to help.
-
-The Restricted Power Flaw has the effect that, no matter what the alternate form, there is always some tell-tale sign of the jinni’s true identity. Beast forms have certain distinct similarities and contribute features to other shapes. An elemental form may take the shape of the jinni or bear his likeness somehow. Even an alternate human form still exhibits a signature quirk or carries a trademark object. The jinni cannot lie about his identity, though he may introduce himself by any one of the different parts of his true name, use a recognized nickname, or spell the name backwards.
-
-#### Jawal the Mighty, ‘Afrit of the Brass Bottle
-
-Magic Might: 25
-
-Modified Characteristics: Str +4, Sta +3
-
-Modified Virtues & Flaws: add Improved Characteristics (x2), Great Strength, Overconfident (major); plus Reckless
-
-Modified Qualities & Inferiorities: Add Greater Power, Improved Powers (x2), Lesser Power, and Remove Reduced Abilities (x4)
-
-Personality Traits: Overconfident +3, Reckless +3, Brave +2, Crafty +2 (Communication), Loyal –1
-
-Combat: Add +1 to Attack and Defense, and +2 to Damage
-
-Soak: +3
-
-Modified Abilities: Brawl 5 (wrestle), Charm 2 (first impressions), Concentration 3 (powers), Faerie Lore 1 (Arabic), Finesse 4 (precision), Magic Lore 4 (jinn), Penetration 5 (Domination), Single Weapon 5 (scimitar)
-
-Modified & Additional Powers:
-
-*Fiery Aura of the ‘Afrit*, Init +3
-
-*Smite with Fire*, 0 points, Init –5
-
-Vis: 5 Ignem
-
-Appearance: Jawal appears as a large muscular man, with dark red skin and gleaming yellow eyes. He is bald save for a long tail of coal black hair that reaches from his head to his feet. His ears are pointed and he has a wicked grin of jagged teeth. He is clothed in nothing but smoke and jewelry.
-
-## Dramatis Personae
-
-The City of Brass features a number of significant characters, most of whom are Jinn. See the Typical ‘Afrit information on the previous pages for character templates and special rules governing ‘afrit in play..
-
-<!-- p. 49 --><a id="page-49"></a>
-
-### Afdal-Kathir, the Malik’s Champion
-
-Afdal-Kathir is the Malik’s nephew. He is the court’s champion and commander of the city’s garrison. Afdal is desperately in love with his cousin Amina, who wants nothing to do with him.
-
-### Amina, the Malik’s Daughter
-
-The Malik’s daughter is a cunning speaker but famously proud and self-confident. She is a powerful ‘afrit in her own right.
-
-### Za’al-Zoresh the Grand-Vizier
-
-Za’al-Zoresh is the Malik’s cousin, seer, and advisor. He is always scheming to gain more power, sometimes in conflict with the Malik’s interests. However, he seeks not to usurp the throne, but to increase his own influence and authority.
-
-### Ihab Ia’ara, an ‘Afrit Merchant
-
-Ihab travels about the city with a floating cart of wondrous items. For trinkets of minor power, he accepts payment in vis or trade for a Hermetic item. Exotic and powerful items demand higher prices, such as dangerous quests or subtly insidious bargains. The nature of a special item should be determined by the storyguide as fits the needs of the story at this point; something to help the characters do something they cannot do on their own, or something cursed that hinders the characters and creates further complications.
-
-### Al-Malik ‘Izz-Doresh al-Dahish ibn El-A’mash al-’Afrit
-
-Al Malik I’zz-Doresh al-Dahish ibn El-A’mash al-’Afrit, called “the Malik” for short, is the sultan of the City of Brass. A powerful Named Spirit, the Malik is a Daimon, and can manifest his Aspect in different forms. The Basalt Pillar on the Forgotten Road (see later) is another aspect of the Daimon, and displays identical facial features to the physical ‘afrit aspect. Because of Solomon’s powerful magic, even a normally unbindable Daimonic Aspect like the Malik could be bound. One of the Malik’s Aspects is bound in the Basalt Pillar and cannot be discarded — it cannot leave its prison in the mundane realm although the Daimon itself is free to move within the Magic Realm. If questioned in his different Aspects, the Malik will not lie about his identity, but he answers cryptically and elusively.
-
-The Malik has not attempted to manifest an Aspect outside of the Magic Realm and the City of Brass, and does not know whether he can. He can discard the Aspect in the City of Brass and form a new one after a day, appearing upon his red carnelian throne in his palace. This allows him to create an Aspect with a refilled Might pool, and to manifest with a different set of powers if he so chooses. One example of an alternate power is the ability to bind spirits, as in the case of the ghost of King Kush. The locus of the Malik Aspect consists of the streets and walls of the City of Brass, the Palace, and all public buildings.
-
 <!-- p. 50 --><a id="page-50"></a>
 
 ## Expected Sequence of Play
@@ -1931,6 +1931,48 @@ In 1220, Egypt is in Ayubbid hands, ruled by the sultan’s son and viceroy al-M
 Once the characters arrive in Alexandria they have no trouble getting supplies for a planned trip into the desert. They do have trouble finding a local guide, especially if they make it known that they will be traveling off the usual trade routes in search of a city believed to exist only in legend.
 
 <!-- p. 51 --><a id="page-51"></a>
+
+#### Al-Bawiti
+
+Regardless of where the characters began their journey, the last bastion of civilization before entering the desert is the village of Al–Bawiti. Though the weather is hot, this is not yet the desert. These are dry plains and grassland.
+
+The rural folk are nomadic goat herders, and have a few sources of water that they guard jealously. Al-Bawiti is the characters’ last opportunity to rest, load up on supplies, and gain information.
+
+This leg of the journey can be glossed over if desired. However, if the storyguide needs to find a way to occupy companion and grog characters, he can use this as way to give them the chance to shine. They can speak with the locals and gain added information that may be helpful in their quest, such as the best direction to travel, landmarks to look for, dangers to avoid or the location of a blessed oasis, and bits of the original tale. If the characters are itching for a fight, have them encounter a group of nomadic bandits.
+
+<!-- p. 52 --><a id="page-52"></a>
+
+<!-- p. 53 --><a id="page-53"></a>
+
+#### As-Sahara-al-Gharbiyah
+
+This is the Egyptian Sahara, the western desert. The weather is blistering hot and dangerously dry. It takes a month to reach the next stage of their journey, the Marble Palace. If the characters have some sort of advantage, such as directions from the locals in Al-Bawiti or someone possessing a Virtue such as Way of the Land: Desert, then it takes half as long. Unless special precautions are taken and specifically mentioned, water supplies run out.
+
+### Encounters in the Desert
+
+The following encounters may be used to make the trip through the desert more interesting and exciting. The Desert Bandits encounter can be used as a warm-up combat. The Blessed Oasis can be used if the expedition is in sore need of aid and comfort, and should be reached before anyone suffers lethal injury from the sun. The Scorching Sand is used to inject an element of real danger.
+
+<!-- p. 54 --><a id="page-54"></a>
+
+<!-- p. 55 --><a id="page-55"></a>
+
+> ### Verses of Woe and Weeping
+>
+> *“Here was a people whom, after their works, thou shalt see wept over for their lost dominion; (…) Death hath destroyed them and disunited them, and in the dust they have lost what they amassed…”*
+>
+> — inscribed on the outer entrance of the Marble Palace in classical Greek
+>
+> The architecture and sculpture is classical Greek style, and there are verses of poetry inscribed in Greek over every entrance and doorway. These are the verses that caused Emir Musa to weep so profusely in the original tale, and they might have the same effects on characters who acquired the Despair Personality Trait from the aura alignment.
+>
+> Each time a character reads one of these verses or hears it being read aloud, roll a simple die and add the character’s Despair Personality Trait. If the total is 9 or more he begins to weep uncontrollably. The powerful non–Hermetic effect has a Penetration of 60 and a non-standard Duration. The Ease Factor required to recover from weeping is (3 x the character’s Despair trait). The player rolls a stress die modified by the character’s strongest appropriate Personality trait (for example, Carefree, Cheerful, or Optimistic would add to the roll; Compassionate, Depressed, or Pessimistic would subtract from it). If the roll succeeds, the character stops weeping. If the roll botches, the character weeps hysterically for several minutes and looses a Fatigue level.
+>
+> The Despair trait and the Weeping Verses do not affect supernatural creatures with a Might score affiliated with the Magic Realm, and cannot contradict an Essential Virtue. Those affiliated with the Divine (such as those who possess True Faith or possess Holy Powers) weep only momentarily, but recover immediately if they proclaim that only God is eternal in Arabic, Greek, or Hebrew.
+>
+> Another prominent verse from the original tale was inscribed upon the Tablet of Iron, mentioned previously. This was the lid covering the sarcophagus of King Kush, and was removed by Emir Musa as a trophy of the expedition to be given as a gift to his caliph to remind him of the mortality of the great kingdoms of man. This careless action in turn leads to the “King’s Ransom” plot.
+
+#### The Desert Bandits
+
+The trails of North Africa are plagued by bandits who prey upon travelers and merchant caravans. Berber and Arab nomads form gangs of a dozen or more, supporting their tribes through thievery and plunder. A favored tactic is for one of their number to infiltrate a party posing as a fellow traveler or a laborer. He then steers the party into an ambush and robs them blind. The infiltrator may be discovered beforehand to give the characters an advantage, or the infiltration aspect can be discarded and you can have bandits simply jump the characters at some point where terrain is well suited for an ambush. Use the statistics given for ‘Umar, a typical desert bandit, and adjust the size of the gang to suit the combat prowess of the expedition. To give the bandits an advantage, grant one of them possession of a Brass Bottle and command over an ‘afrit with Magic Might 15.
 
 #### ‘Umar, a Desert Bandit
 
@@ -1966,6 +2008,18 @@ Equipment: Knife, short sword and camel
 Encumbrance: 0
 
 Appearance: ‘Umar might disguise himself as a pilgrim, merchant, hermit, or laborer to infiltrate a group of travelers. His goal is to lead them into an ambush set by his fellows.
+
+#### The Blessed Oasis
+
+The Blessed Oasis is easily mistaken for a mirage, and the storyguide may wish to tease the players by making it seem ever on the horizon, so that the characters arrive there suddenly when they have grown weary of chasing it.
+
+The Blessed Oasis is a lush garden located in the middle of the desert, around the edges of a small pond of fresh sweet water. The air is fragrant and pleasant, and is invigorating to breathe. Intellego magic reveals that there is a level 5 Faerie aura during the day, and a latent level 4 Magic aura. At night the Magic aura waxes to a strength of 5 and the Faerie aura wanes to a strength of 4. The supernatural properties of this aura restore all lost fatigue levels to a character who spends a full night and day resting at the oasis. Also, recovery rolls for disease and injury are greatly hastened, and one recovery roll can be made for each disease and injury after sleeping here for a single night.
+
+<!-- p. 56 --><a id="page-56"></a>
+
+The Oasis is inhabited by a jinni named Da’ud, the genius loci and caretaker of the pond and garden. He is the spirit of the invigorating cool breeze that protects the pond from evaporation and helps nourish the garden. Da’ud is a friendly and helpful jinni. He has heard the words of the Prophet and believes that it is his duty to aid the faithful. He can provide the characters with refreshment and nourishment from the garden, and he has the power to fabricate material goods out of thin air.
+
+He also has a habit of showing off his knowledge and cannot help but let information slip from his lips. He is happy to tell the characters how to get to the Marble Palace and everything he knows about it. On their own it would take a week, but if the characters follow his directions they get there in three days. If Da’ud joins the expedition, he can lead them there in a single day.
 
 #### Da’ud, Jinni of the Oasis
 
@@ -2036,17 +2090,15 @@ Appearance: Da’ud appears as a jovial nobleman dressed in finery and jewels.
 
 Da’ud is the caretaker of the Blessed Oasis, a location in the middle of the Egyptian Sahara that attracts lost wanderers. He assists the needy and is helpful to others who treat him with respect. He does expect to be rewarded for his service, but he never mentions it. It doesn’t need to be anything extravagant; something as simple as a poem or a minor token of appreciation will suffice. If none is given, the wanderers will not be able to locate the oasis again.
 
-#### Al-Bawiti
+#### The Scorching Sand
 
-Regardless of where the characters began their journey, the last bastion of civilization before entering the desert is the village of Al–Bawiti. Though the weather is hot, this is not yet the desert. These are dry plains and grassland.
+In this encounter, the characters face the threat of a severe sandstorm, a natural hazard that carries with it a supernatural menace. The sandstorm picks up slowly as the characters travel, at first being a mild annoyance, then building to obscure vision, and eventually increasing to the point of inflicting a stress die + 5 points of damage per round of exposure to it. The sandstorm is completely natural and Magic Resistance provides no protection, although Auram or Terram Form Bonuses add to a magus’ Soak roll. On the other hand, as it is completely natural, Rego Auram and Rego Terram spells can provide complete protection.
 
-The rural folk are nomadic goat herders, and have a few sources of water that they guard jealously. Al-Bawiti is the characters’ last opportunity to rest, load up on supplies, and gain information.
+During the storm, a character spots a massive dark cloud in the distance. Extending from the ground to the sky all along the horizon, the sheer wall of whirling sand is headed their way. This is a magically created sandstorm, although the characters are unlikely to realize that fact as they desperately seek shelter. A malicious jinni named Sorash D’resh al-Zawba’a, also known as the Wrath of Scorching Sand, is generating the magical sandstorm.
 
-This leg of the journey can be glossed over if desired. However, if the storyguide needs to find a way to occupy companion and grog characters, he can use this as way to give them the chance to shine. They can speak with the locals and gain added information that may be helpful in their quest, such as the best direction to travel, landmarks to look for, dangers to avoid or the location of a blessed oasis, and bits of the original tale. If the characters are itching for a fight, have them encounter a group of nomadic bandits.
+Sorash is using his *Lord of the Desert* Focus Power to create a Very Severe weather Phenomenon (CrAu(Te) 35; Base 5, +1 Touch, +2 Concentration, +2 size, +1 Terram). Although awe inspiring, a storm this massive is not unnatural for this terrain. Once it hits, the magical storm lasts for a full minute (10 rounds), and inflicts +30 damage per round on all those exposed to it. This storm represents the upper limit of Sorash’s Focus Power, and the Penetration is only 7 (his Penetration Ability score, adding Finesse because of the Penetration Mastery).
 
-<!-- p. 52 --><a id="page-52"></a>
-
-<!-- p. 53 --><a id="page-53"></a>
+Though it appears to the characters that the sandstorm is moving towards them, they are actually moving towards it, even if they remain stationary. What they are experiencing is a mobile regio boundary, and Sorash is the genius loci of that boundary. A Magic aura suddenly rises up at a strength of 6 (this adds to his Penetration, but also adds to Parma Magica-based Magic Resistance). Sorash attacks those who cross the boundary simply because he is malicious. After the storm, he may attempt to harass the characters further. This is an opportunity for the magi to overpower him and coerce him, and he can be forced to take them directly to the Marble Palace.
 
 #### Sorash D’resh al-Zawba’a
 
@@ -2120,58 +2172,6 @@ Vis: If the corporeal form of Sorash is killed, he leaves behind a whirling colu
 Appearance: In the form of a man, Sorash appears as a ragged desert nomad with tattered clothing and a weather-beaten face. He can also take the form of a desert jackal, a vulture, or a whirlwind of sand.
 
 Sorash is an angry jinni, a member of the wrath-driven Zawba’a tribe. He is not as bloodthirsty as his brethren, though he is just as cruel and merciless. He serves the Malik of the City of Brass by guarding the Regio boundary that separates the Marble Palace from the Egyptian Sahara. He cannot be willingly convinced to help the characters, the best they can hope for is an agreement not to harm them, but he does not let them pass unless they defeat him. If coerced, he can lead them to the Marble Palace which leads to the City of Brass, but he begs to go no further (he is weakened outside of his native environment).
-
-#### As-Sahara-al-Gharbiyah
-
-This is the Egyptian Sahara, the western desert. The weather is blistering hot and dangerously dry. It takes a month to reach the next stage of their journey, the Marble Palace. If the characters have some sort of advantage, such as directions from the locals in Al-Bawiti or someone possessing a Virtue such as Way of the Land: Desert, then it takes half as long. Unless special precautions are taken and specifically mentioned, water supplies run out.
-
-### Encounters in the Desert
-
-The following encounters may be used to make the trip through the desert more interesting and exciting. The Desert Bandits encounter can be used as a warm-up combat. The Blessed Oasis can be used if the expedition is in sore need of aid and comfort, and should be reached before anyone suffers lethal injury from the sun. The Scorching Sand is used to inject an element of real danger.
-
-<!-- p. 54 --><a id="page-54"></a>
-
-<!-- p. 55 --><a id="page-55"></a>
-
-> ### Verses of Woe and Weeping
->
-> *“Here was a people whom, after their works, thou shalt see wept over for their lost dominion; (…) Death hath destroyed them and disunited them, and in the dust they have lost what they amassed…”*
->
-> — inscribed on the outer entrance of the Marble Palace in classical Greek
->
-> The architecture and sculpture is classical Greek style, and there are verses of poetry inscribed in Greek over every entrance and doorway. These are the verses that caused Emir Musa to weep so profusely in the original tale, and they might have the same effects on characters who acquired the Despair Personality Trait from the aura alignment.
->
-> Each time a character reads one of these verses or hears it being read aloud, roll a simple die and add the character’s Despair Personality Trait. If the total is 9 or more he begins to weep uncontrollably. The powerful non–Hermetic effect has a Penetration of 60 and a non-standard Duration. The Ease Factor required to recover from weeping is (3 x the character’s Despair trait). The player rolls a stress die modified by the character’s strongest appropriate Personality trait (for example, Carefree, Cheerful, or Optimistic would add to the roll; Compassionate, Depressed, or Pessimistic would subtract from it). If the roll succeeds, the character stops weeping. If the roll botches, the character weeps hysterically for several minutes and looses a Fatigue level.
->
-> The Despair trait and the Weeping Verses do not affect supernatural creatures with a Might score affiliated with the Magic Realm, and cannot contradict an Essential Virtue. Those affiliated with the Divine (such as those who possess True Faith or possess Holy Powers) weep only momentarily, but recover immediately if they proclaim that only God is eternal in Arabic, Greek, or Hebrew.
->
-> Another prominent verse from the original tale was inscribed upon the Tablet of Iron, mentioned previously. This was the lid covering the sarcophagus of King Kush, and was removed by Emir Musa as a trophy of the expedition to be given as a gift to his caliph to remind him of the mortality of the great kingdoms of man. This careless action in turn leads to the “King’s Ransom” plot.
-
-#### The Desert Bandits
-
-The trails of North Africa are plagued by bandits who prey upon travelers and merchant caravans. Berber and Arab nomads form gangs of a dozen or more, supporting their tribes through thievery and plunder. A favored tactic is for one of their number to infiltrate a party posing as a fellow traveler or a laborer. He then steers the party into an ambush and robs them blind. The infiltrator may be discovered beforehand to give the characters an advantage, or the infiltration aspect can be discarded and you can have bandits simply jump the characters at some point where terrain is well suited for an ambush. Use the statistics given for ‘Umar, a typical desert bandit, and adjust the size of the gang to suit the combat prowess of the expedition. To give the bandits an advantage, grant one of them possession of a Brass Bottle and command over an ‘afrit with Magic Might 15.
-
-#### The Blessed Oasis
-
-The Blessed Oasis is easily mistaken for a mirage, and the storyguide may wish to tease the players by making it seem ever on the horizon, so that the characters arrive there suddenly when they have grown weary of chasing it.
-
-The Blessed Oasis is a lush garden located in the middle of the desert, around the edges of a small pond of fresh sweet water. The air is fragrant and pleasant, and is invigorating to breathe. Intellego magic reveals that there is a level 5 Faerie aura during the day, and a latent level 4 Magic aura. At night the Magic aura waxes to a strength of 5 and the Faerie aura wanes to a strength of 4. The supernatural properties of this aura restore all lost fatigue levels to a character who spends a full night and day resting at the oasis. Also, recovery rolls for disease and injury are greatly hastened, and one recovery roll can be made for each disease and injury after sleeping here for a single night.
-
-<!-- p. 56 --><a id="page-56"></a>
-
-The Oasis is inhabited by a jinni named Da’ud, the genius loci and caretaker of the pond and garden. He is the spirit of the invigorating cool breeze that protects the pond from evaporation and helps nourish the garden. Da’ud is a friendly and helpful jinni. He has heard the words of the Prophet and believes that it is his duty to aid the faithful. He can provide the characters with refreshment and nourishment from the garden, and he has the power to fabricate material goods out of thin air.
-
-He also has a habit of showing off his knowledge and cannot help but let information slip from his lips. He is happy to tell the characters how to get to the Marble Palace and everything he knows about it. On their own it would take a week, but if the characters follow his directions they get there in three days. If Da’ud joins the expedition, he can lead them there in a single day.
-
-#### The Scorching Sand
-
-In this encounter, the characters face the threat of a severe sandstorm, a natural hazard that carries with it a supernatural menace. The sandstorm picks up slowly as the characters travel, at first being a mild annoyance, then building to obscure vision, and eventually increasing to the point of inflicting a stress die + 5 points of damage per round of exposure to it. The sandstorm is completely natural and Magic Resistance provides no protection, although Auram or Terram Form Bonuses add to a magus’ Soak roll. On the other hand, as it is completely natural, Rego Auram and Rego Terram spells can provide complete protection.
-
-During the storm, a character spots a massive dark cloud in the distance. Extending from the ground to the sky all along the horizon, the sheer wall of whirling sand is headed their way. This is a magically created sandstorm, although the characters are unlikely to realize that fact as they desperately seek shelter. A malicious jinni named Sorash D’resh al-Zawba’a, also known as the Wrath of Scorching Sand, is generating the magical sandstorm.
-
-Sorash is using his *Lord of the Desert* Focus Power to create a Very Severe weather Phenomenon (CrAu(Te) 35; Base 5, +1 Touch, +2 Concentration, +2 size, +1 Terram). Although awe inspiring, a storm this massive is not unnatural for this terrain. Once it hits, the magical storm lasts for a full minute (10 rounds), and inflicts +30 damage per round on all those exposed to it. This storm represents the upper limit of Sorash’s Focus Power, and the Penetration is only 7 (his Penetration Ability score, adding Finesse because of the Penetration Mastery).
-
-Though it appears to the characters that the sandstorm is moving towards them, they are actually moving towards it, even if they remain stationary. What they are experiencing is a mobile regio boundary, and Sorash is the genius loci of that boundary. A Magic aura suddenly rises up at a strength of 6 (this adds to his Penetration, but also adds to Parma Magica-based Magic Resistance). Sorash attacks those who cross the boundary simply because he is malicious. After the storm, he may attempt to harass the characters further. This is an opportunity for the magi to overpower him and coerce him, and he can be forced to take them directly to the Marble Palace.
 
 > ### A King’s Ransom
 >
@@ -2852,6 +2852,37 @@ Stats are given for a few of the major and important characters in the village. 
 
 Born to impoverished parents and raised under trying conditions on the lowest rungs of society in the local area, Dieter is used to fighting for everything. Around the age of 10, he was orphaned, and a kind old priest took him in and schooled him alongside the more privileged children he was tutoring. Already an unscrupulous child, Dieter missed no opportunity to use the old priest to his own benefit. In the end, Dieter clawed his way up out of the gutter and was allowed to serve in a somewhat special way. His demeanor was unsuited to the monastic life, and his aggressive approach to serving the Lord resulted in his less established position as a wandering religious man. He has been granted a leave of absence by the bishop, allowing him to reside in the village prior to the church being built. He is meant to take care of the flock but actually travels quite a bit to recruit more workers. Once the church is finished, he presides as priest, but continues occasional recruitment expeditions. His forceful and heartfelt sermons, as well as his habit of instilling loyalty in others, are useful to the Church as a whole. His superiors move him around a lot, or use him for specific and unconventional missions, to avoid trouble in established communities. If the story is set in the Theban Tribunal, he is called Alexios Kouvanos, or Maurice Arrante if in Normandy.
 
+### Dieter von Brandhöfen, Priest
+
+Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex –1, Qik 0
+
+Size: 0
+
+Age: 33 (33)
+
+Decrepitude: 0
+
+Warping: 0
+
+Virtues and Flaws: Priest; License of Absence, Well-traveled; Driven (Spread the Dominion), Supernatural Nuisance (Faeries),Vow of Celibacy
+
+Personality Traits: Pious –1, Loyal to Relisius +2, Selfish +2
+
+Reputations: None
+
+Combat:
+- Dodge: Init 0, Attack n/a, Defense +2, Damage n/a
+
+Soak: +0 (Stamina)
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Local 5 (churches), Artes Liberales 2 (rhetoric), Brawl 1 (dodge), Charm 5 (parishioners), Civil and Canon Law 1 (regulations for the clergy), Dominion Lore 3 (angels), Etiquette 3 (Church), Folk Ken 6 (people he has recruited), German 5 (preaching), Intrigue 1 (parishes) Latin 4 (the Bible), Organization Lore: The Church 3 (local diocese), Theology: Christian 2 (debate)
+
+Equipment: Travel clothes fit for a clergyman, priest’s vestments
+
+Encumbrance: 0
+
 #### Axel Gusseisen, Engineer
 
 Axel is a good-humored and pragmatic engineer from the mountainous southern part of Germany. Originally trained as a mason, he has studied the theory of his profession. As a result, he is highly qualified in the fields of construction, road works, damming, and draining, as well as basic mechanics. He surrounds himself with able-bodied and bright youths trained as masons, carpenters, wheelwrights, well-diggers, and the like, and tries to form them in his image by raising their knowledge from the levels of crafting to engineering.
@@ -2948,37 +2979,6 @@ No significant changes, except that he has no guild affiliation or rank.
 #### Thebes Tribunal
 
 Timian needs to have spent enough time to gain Social Contacts, but less time than Iselin has needed to gain power over the Faerie leaders. His concept as a native of north-western Europe can be retained or he can be changed to a faerie magus from Greek culture. Replace Speak German with Speak Greek and change the speciality of Faerie Lore from High Faeries to Olympian gods. He does not, however, need to have achieved citizenship, and has consequently not served as an arche.
-
-### Dieter von Brandhöfen, Priest
-
-Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex –1, Qik 0
-
-Size: 0
-
-Age: 33 (33)
-
-Decrepitude: 0
-
-Warping: 0
-
-Virtues and Flaws: Priest; License of Absence, Well-traveled; Driven (Spread the Dominion), Supernatural Nuisance (Faeries),Vow of Celibacy
-
-Personality Traits: Pious –1, Loyal to Relisius +2, Selfish +2
-
-Reputations: None
-
-Combat:
-- Dodge: Init 0, Attack n/a, Defense +2, Damage n/a
-
-Soak: +0 (Stamina)
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Local 5 (churches), Artes Liberales 2 (rhetoric), Brawl 1 (dodge), Charm 5 (parishioners), Civil and Canon Law 1 (regulations for the clergy), Dominion Lore 3 (angels), Etiquette 3 (Church), Folk Ken 6 (people he has recruited), German 5 (preaching), Intrigue 1 (parishes) Latin 4 (the Bible), Organization Lore: The Church 3 (local diocese), Theology: Christian 2 (debate)
-
-Equipment: Travel clothes fit for a clergyman, priest’s vestments
-
-Encumbrance: 0
 
 ## Locations
 
@@ -3415,39 +3415,6 @@ Roll: 6+<br>
 Roll: 9+<br>
 **Result:** King John welcomed Eustace to his court and gifted him 30 galleys, taking Eustace’s daughter as hostage to the brigand’s good behavior. Eustace used this fleet to ravage the coasts of Normandy from 1204 to 1211, seizing Sark as an advanced base for resupply. John rewarded Eustace with substantial lands near Whichelsea, and with a great palace in London, costing just less than 500 pounds. Eustace thought the palace in London insufficiently grand, so he pulled it down and built a more ostentatious one, to John’s annoyance. The two later fell out, and Eustace now works for the French king instead.
 
-> ### A Note on the Powers of Demons
->
-> Many demons have powers which are variants of those gathered in this insert.
->
-> *Coagulation*, 1 point, Init –1, Corpus:<br>
-> Allows demons to manufacture a solid body from the ambient, unformed matter of the universe. They may only take the form described in their Appearance. Manifesting takes (Might) rounds, but dissolving again requires only one round of concentration. A demon in spiritual form may not use its physical Characteristics. Demons are forced to abandon this form on Holy Saturday.
->
-> *Contagious Obsession:* 1 point per victim, Init 0, Mentem:<br>
-> If a person succumbs to the Obsession power, described later, then that person becomes a carrier. If they frighten another person, that person must make the same Personality roll given in the Obsession power or become afraid and also become a carrier. Each new victim costs the demon a Might point, and the contagiousness ceases when the demon runs out of Might, or when a day passes in which no new victim is infected.
->
-> *Envisioning;* 1 point, Init +0, Mentem:<br>
-> The demon uses this power to appear in, and distort, the dreams of mortals.
->
-> *Form of Wickedness*, 2 points, Init –1, Mentem:<br>
-> This power allows the demon to manufacture a form of pure sin. The demon can only hold this form for a single round, and then must either fade into its spiritual form, or take a host body. This shadowy body is indescribable and terrible, and forces the ten closest people, if they lack sufficient Magic Resistance, to succumb to the sin that the demon represents.
->
-> *Obsession*, 1 to 3 points, Init –5, Vim:<br>
-> When a person is committing a sinful thought or dead, the demon may impose its Obsession Trait if this Power defeats Magic Resistance. This gives the person a temporary Personality trait of equal to the number of points spent, and at the next opportunity they must make a roll, opposed by any suitable Personality trait, to prevent them doing something self-degrading. If the Obsession fails, the temporary trait is lost. If it succeeds, the trait is acquired permanently.
-
-> ### A Note on the Weaknesses of Demons
->
-> Each demon in this chapter has a Weakness listed. Characters know this weakness if they are aware the demon exists, consult a relevant source, and make an Intelligence + Infernal Lore roll against an Ease factor of 9 + (Might / 5).
->
-> If the weakness is a material, then in the presence of their weakness these demons must flee. They cannot regain Might while their weakness is present. If the weakness is a protected group, the demon cannot harm members of that group.
-
-> ### A Note on Tainted Vis
->
-> Detailed information on tainted vis can be found in *Realms of Power: The Infernal*, on [pages 18 and 19](#page-18). Those troupes not using that set of rules might instead assume that all tainted vis:
->
-> - Adds 5 instead of 2 to casting totals.
-> - Adds three botch dice per pawn, for non-Infernally aligned users.
-> - Causes a temporary Personality trait of 1, in a sin appropriate to the original demon, in any person who carries the tainted vis for a year. This trait becomes permanent if the carrier successfully acts on the Trait.
-
 <!-- p. 91 --><a id="page-91"></a>
 
 <!-- p. 92 --><a id="page-92"></a>
@@ -3599,6 +3566,39 @@ Stephen is not designed as an adversary to the player characters: he is a resour
 ### Demons
 
 The demons that appear over the next few pages can be found in many of the sites which the characters visit during the story, and so are described here. Other demons, specific to sites, are detailed in the descriptions of those locations.
+
+> ### A Note on the Powers of Demons
+>
+> Many demons have powers which are variants of those gathered in this insert.
+>
+> *Coagulation*, 1 point, Init –1, Corpus:<br>
+> Allows demons to manufacture a solid body from the ambient, unformed matter of the universe. They may only take the form described in their Appearance. Manifesting takes (Might) rounds, but dissolving again requires only one round of concentration. A demon in spiritual form may not use its physical Characteristics. Demons are forced to abandon this form on Holy Saturday.
+>
+> *Contagious Obsession:* 1 point per victim, Init 0, Mentem:<br>
+> If a person succumbs to the Obsession power, described later, then that person becomes a carrier. If they frighten another person, that person must make the same Personality roll given in the Obsession power or become afraid and also become a carrier. Each new victim costs the demon a Might point, and the contagiousness ceases when the demon runs out of Might, or when a day passes in which no new victim is infected.
+>
+> *Envisioning;* 1 point, Init +0, Mentem:<br>
+> The demon uses this power to appear in, and distort, the dreams of mortals.
+>
+> *Form of Wickedness*, 2 points, Init –1, Mentem:<br>
+> This power allows the demon to manufacture a form of pure sin. The demon can only hold this form for a single round, and then must either fade into its spiritual form, or take a host body. This shadowy body is indescribable and terrible, and forces the ten closest people, if they lack sufficient Magic Resistance, to succumb to the sin that the demon represents.
+>
+> *Obsession*, 1 to 3 points, Init –5, Vim:<br>
+> When a person is committing a sinful thought or dead, the demon may impose its Obsession Trait if this Power defeats Magic Resistance. This gives the person a temporary Personality trait of equal to the number of points spent, and at the next opportunity they must make a roll, opposed by any suitable Personality trait, to prevent them doing something self-degrading. If the Obsession fails, the temporary trait is lost. If it succeeds, the trait is acquired permanently.
+
+> ### A Note on the Weaknesses of Demons
+>
+> Each demon in this chapter has a Weakness listed. Characters know this weakness if they are aware the demon exists, consult a relevant source, and make an Intelligence + Infernal Lore roll against an Ease factor of 9 + (Might / 5).
+>
+> If the weakness is a material, then in the presence of their weakness these demons must flee. They cannot regain Might while their weakness is present. If the weakness is a protected group, the demon cannot harm members of that group.
+
+> ### A Note on Tainted Vis
+>
+> Detailed information on tainted vis can be found in *Realms of Power: The Infernal*, on [pages 18 and 19](#page-18). Those troupes not using that set of rules might instead assume that all tainted vis:
+>
+> - Adds 5 instead of 2 to casting totals.
+> - Adds three botch dice per pawn, for non-Infernally aligned users.
+> - Causes a temporary Personality trait of 1, in a sin appropriate to the original demon, in any person who carries the tainted vis for a year. This trait becomes permanent if the carrier successfully acts on the Trait.
 
 ## Expected Sequence of Play
 
@@ -4041,6 +4041,16 @@ The nobleman to whom this palace was given is a servant of Fruitio. He has a gre
 
 Characters who uncover the secrets of the London palace might gain the assistance of the demons here, since they are opposed to Eustace’s sponsor. The demons can predict the future, in a limited way, and so they know the characters are coming. They send a servant to attempt to parley, and to offer assistance like the location of Stephen Crabbe, the whereabouts of the sect in Winchelsea, and the state of Eustace’s preparation. The demons are, however, corrupt beings, and expect assistance to further taint the family they are corrupting in exchange for their aid.
 
+The London demons may, if the player characters seem willing to sin, pass them to a more powerful demon. If the player characters perform a terrible sin for Rahab, the Prince of the Primordial Sea, he promises to reveal the True Name of Eustace’s sponsor. The sin can be anything that’s personal for the player characters. If the storyguide cannot think of something better, then Rahab requests that the characters smash down a section of the defending cliffs of Sark, so that the demon can flood the island and kill all of the people there. Cunning characters might trick the demon out of its information, but if they do so, it becomes a recurring enemy.
+
+Rahab is not intended as a combatant in this scenario, so his statistics are not given here. They are found on [pages 74 and 75 of *Realms of Power: The Infernal*](<Ars Magica 5e - Realms of Power - The Infernal.md>).
+
+If the characters confront the demons, Fruitio and Ossa do not allow themselves to be destroyed. The demons frame the battle so that the characters accidentally kill many of the members of the family the demons are corrupting, and their servants. Fruitio then takes pains to appear to be vanquished, even calling in other spirits to provide illusions. Fruitio and Ossa simply take spiritual form and hide in cavities about the palace. These boltholes are inaccessible without magic or crews of demolitionists. While waiting for the player characters to go away, the demons recover their Might swiftly, due to the palace’s Infernal aura.
+
+Victorious characters find a forged set of Eustace’s diaries in the library of the house. These give a method of contacting Stephen Crabbe, the location of the Infernal aura in Winchelsea on which Eustace’s house there was built, and information about the desecration of Samer.
+
+The library also contains an excellent work on Infernal Lore, which allows the characters to research the weaknesses of Eustace’s allies. At the storyguide’s discretion it may also contain the True Name of Eustace’s sponsor. A True Name acts as an Arcane Connection, granting a +5 bonus on the caster’s Penetration multiplier when attempting to bypass the specified creature’s Magic Resistance.
+
 ### Fruitio: The Whisperer of Names
 
 Order: A Master of the Spirits of Deceit
@@ -4162,81 +4172,7 @@ Appearance: Ossa is an elegant governess and companion who accompanies the famil
 
 This demon is a professional sycophant. She has been recruited to corrupt this family by Fruitio, mostly because the nobleman, who heads the family, was so careful to protect them in his agreement with the senior demon.
 
-> ### Corrupted Vermin
->
-> The Corrupted Vermin of Samer are small animals that have been polluted by the aura of the place. Corrupted animals have:
->
-> - Infernal Might of 5
-> - Presence of –6
-> - A single sinful Personality Trait of +6
-> - The Tainted with Evil Flaw.
-> - They gain any one Major Virtue.
->
-> The monks call the vermin to aid them when they expect battle. The vermin usually attack in swarms.
-
-> ### Abandoned by Its Saint
->
-> Saint Magloire was granted the right to proselytize these islands in 565 after healing a nobleman with a claim to the island. Stories vary: he either brought disciples with him and founded a monastery, or came as a hermit but was rapidly surrounded by followers seeking healing and spiritual guidance. He founded a monastery and his followers cultivated the surrounding land.
->
-> In 850, a Breton nobleman offered land to a group of monks on the condition that they brought the relics of a worthy saint to his domain. These monks decided to retrieve the relics of Saint Magloire. The people of Sark attempted to prevent their removal, but the saint aided the Breton monks with various miracles, thereby demonstrating his strong desire to leave Sark.
->
-> Saint Magloire is still venerated on Sark, and considered its special protector. But even before Eustace arrived, the island was considered a haven for pirates, robbers, murderers and cannibals, so there are few who pray to him.
->
-> Particularly pious characters may find this saint willing to answer their prayers for the liberation of Sark.
-
 <!-- p. 102 --><a id="page-102"></a>
-
-### The Demonic Monks of Samer
-
-Order: Tempters, Masters of Corrupted Vermin
-
-Infernal Might: 10 (Animal)
-
-Characteristics: Int +2, Per +1, Pre +1, Com +2, Str +2, Sta +2, Dex +1, Qik +1
-
-Size: 0
-
-Confidence Score: 3 (3)
-
-Virtues and Flaws: Weak-willed
-
-Personality Traits: Selfish +5
-
-Combat:
-
-- Bite: Init +1, Attack +12, Defense +9, Damage +5\*
-- 2 huge claws: Init +1, Attack +14, Defense +14, Damage +6\*
-
-These creatures release a venomous filth into wounds that necrotizes flesh. Any injury from one of these claws requires a Stamina roll against an Ease Factor of 6, or death results in (1+simple die) rounds. This filth may be drawn out and destroyed with incense, in which case it causes no damage, but costs a Fatigue level. The venom of the demons is not resisted by Parma Magica.
-
-Soak: +3
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Inc (16–20), Dead (21+)
-
-Abilities: Many, including Brawl 7 (claws)
-
-Powers:
-
-*Chant of the False Monks:* 2 points, Init –2, Mentem.<br>
-The chant of the false monks creates a powerful dread in a character, forcing him to make a Personality trait roll of 6 or higher before he can enter a church. If the roll succeeds, the curse is broken. If it fails, the character will not attempt to enter a church again for at least a week, and must again make the roll to enter the church. The chant affects everyone who can hear the chant if it is used by a group of monks simultaneously, but individual monks can only affect a single victim per use of the power. The group variant of the song can cause Warping, and is used to make new Corrupted Vermin.
-
-*Coagulation*, 1 point, Init –1, Corpus.
-
-*Envisioning*; 1 point, Init +0, Mentem.
-
-*Obsession*, 1 to 3 points, Init –5, Vim: Disparaging.
-
-Equipment: Monastic cowl
-
-Weakness: Abhorrent material (incense)
-
-Vis: 1 pawn each of Rego and Animal vis sordida in cowl
-
-Appearance: Superficially like black-robed monks, these demons are skeletal, and have the skulls of dogs for heads. Their hands are great scythe-like claws, usually hidden up the sleeves of their robes.
-
-These demons take their shape to mock the piety of the original inhabitants of the monastery. They dwell in the parts of the building which have Infernal auras, and commit atrocities to spread the taint. The shadowy cowls the demons wear allows them to pass, in limited circumstances, for true monks.
 
 ### Elemental Spirit of the Channel
 
@@ -4349,21 +4285,85 @@ This Virtue allows multiple combat bonuses, but only if the character with the V
 
 <!-- p. 104 --><a id="page-104"></a>
 
-The London demons may, if the player characters seem willing to sin, pass them to a more powerful demon. If the player characters perform a terrible sin for Rahab, the Prince of the Primordial Sea, he promises to reveal the True Name of Eustace’s sponsor. The sin can be anything that’s personal for the player characters. If the storyguide cannot think of something better, then Rahab requests that the characters smash down a section of the defending cliffs of Sark, so that the demon can flood the island and kill all of the people there. Cunning characters might trick the demon out of its information, but if they do so, it becomes a recurring enemy.
-
-Rahab is not intended as a combatant in this scenario, so his statistics are not given here. They are found on [pages 74 and 75 of *Realms of Power: The Infernal*](<Ars Magica 5e - Realms of Power - The Infernal.md>).
-
-If the characters confront the demons, Fruitio and Ossa do not allow themselves to be destroyed. The demons frame the battle so that the characters accidentally kill many of the members of the family the demons are corrupting, and their servants. Fruitio then takes pains to appear to be vanquished, even calling in other spirits to provide illusions. Fruitio and Ossa simply take spiritual form and hide in cavities about the palace. These boltholes are inaccessible without magic or crews of demolitionists. While waiting for the player characters to go away, the demons recover their Might swiftly, due to the palace’s Infernal aura.
-
-Victorious characters find a forged set of Eustace’s diaries in the library of the house. These give a method of contacting Stephen Crabbe, the location of the Infernal aura in Winchelsea on which Eustace’s house there was built, and information about the desecration of Samer.
-
-The library also contains an excellent work on Infernal Lore, which allows the characters to research the weaknesses of Eustace’s allies. At the storyguide’s discretion it may also contain the True Name of Eustace’s sponsor. A True Name acts as an Arcane Connection, granting a +5 bonus on the caster’s Penetration multiplier when attempting to bypass the specified creature’s Magic Resistance.
-
 #### Samer
 
 Despite the misbehavior of the monks, this ruined monastery has — in parts — retained its Divine aura. Actions forced on people with magic are not voluntary and so are not sins. In other areas it is crumbling away, in part because the creatures that dwell here sharpen their claws on its walls and carve great scratches in the stones. Eustace placed guardians here to kill enemies who began investigating his past, but he assumed that these would be noblemen from the court of the Count of Boulogne, and so the creatures are not formidable to experienced Hermetic magi.
 
 Characters who defeat the demons of Samer attract the thanks and attention of the local priesthood. Some senior churchmen know where the mortal monks of Samer now reside. These early victims of Eustace can describe his methods and powers, allowing the player characters to develop counter-measures. If the characters negotiate skillfully with the churchmen, they may be given assistance to determine the weaknesses of Eustace’s demons, be provided blessings which aid in their eventual battle, or even be granted the use of a relic.
+
+### The Demonic Monks of Samer
+
+Order: Tempters, Masters of Corrupted Vermin
+
+Infernal Might: 10 (Animal)
+
+Characteristics: Int +2, Per +1, Pre +1, Com +2, Str +2, Sta +2, Dex +1, Qik +1
+
+Size: 0
+
+Confidence Score: 3 (3)
+
+Virtues and Flaws: Weak-willed
+
+Personality Traits: Selfish +5
+
+Combat:
+
+- Bite: Init +1, Attack +12, Defense +9, Damage +5\*
+- 2 huge claws: Init +1, Attack +14, Defense +14, Damage +6\*
+
+These creatures release a venomous filth into wounds that necrotizes flesh. Any injury from one of these claws requires a Stamina roll against an Ease Factor of 6, or death results in (1+simple die) rounds. This filth may be drawn out and destroyed with incense, in which case it causes no damage, but costs a Fatigue level. The venom of the demons is not resisted by Parma Magica.
+
+Soak: +3
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Inc (16–20), Dead (21+)
+
+Abilities: Many, including Brawl 7 (claws)
+
+Powers:
+
+*Chant of the False Monks:* 2 points, Init –2, Mentem.<br>
+The chant of the false monks creates a powerful dread in a character, forcing him to make a Personality trait roll of 6 or higher before he can enter a church. If the roll succeeds, the curse is broken. If it fails, the character will not attempt to enter a church again for at least a week, and must again make the roll to enter the church. The chant affects everyone who can hear the chant if it is used by a group of monks simultaneously, but individual monks can only affect a single victim per use of the power. The group variant of the song can cause Warping, and is used to make new Corrupted Vermin.
+
+*Coagulation*, 1 point, Init –1, Corpus.
+
+*Envisioning*; 1 point, Init +0, Mentem.
+
+*Obsession*, 1 to 3 points, Init –5, Vim: Disparaging.
+
+Equipment: Monastic cowl
+
+Weakness: Abhorrent material (incense)
+
+Vis: 1 pawn each of Rego and Animal vis sordida in cowl
+
+Appearance: Superficially like black-robed monks, these demons are skeletal, and have the skulls of dogs for heads. Their hands are great scythe-like claws, usually hidden up the sleeves of their robes.
+
+These demons take their shape to mock the piety of the original inhabitants of the monastery. They dwell in the parts of the building which have Infernal auras, and commit atrocities to spread the taint. The shadowy cowls the demons wear allows them to pass, in limited circumstances, for true monks.
+
+> ### Corrupted Vermin
+>
+> The Corrupted Vermin of Samer are small animals that have been polluted by the aura of the place. Corrupted animals have:
+>
+> - Infernal Might of 5
+> - Presence of –6
+> - A single sinful Personality Trait of +6
+> - The Tainted with Evil Flaw.
+> - They gain any one Major Virtue.
+>
+> The monks call the vermin to aid them when they expect battle. The vermin usually attack in swarms.
+
+> ### Abandoned by Its Saint
+>
+> Saint Magloire was granted the right to proselytize these islands in 565 after healing a nobleman with a claim to the island. Stories vary: he either brought disciples with him and founded a monastery, or came as a hermit but was rapidly surrounded by followers seeking healing and spiritual guidance. He founded a monastery and his followers cultivated the surrounding land.
+>
+> In 850, a Breton nobleman offered land to a group of monks on the condition that they brought the relics of a worthy saint to his domain. These monks decided to retrieve the relics of Saint Magloire. The people of Sark attempted to prevent their removal, but the saint aided the Breton monks with various miracles, thereby demonstrating his strong desire to leave Sark.
+>
+> Saint Magloire is still venerated on Sark, and considered its special protector. But even before Eustace arrived, the island was considered a haven for pirates, robbers, murderers and cannibals, so there are few who pray to him.
+>
+> Particularly pious characters may find this saint willing to answer their prayers for the liberation of Sark.
 
 <!-- p. 105 --><a id="page-105"></a>
 
@@ -4770,11 +4770,9 @@ As the refugees from the assault begin arriving at the player covenant, Lucia’
 
 Lucia was apprenticed to a magus in the turbulent Lombardy region. She watched as the cities around her fought to gain influence, to protect resources, and most importantly to secure freedom and self-determination. This intrigued her, and she began to compare these struggles to those going on within the Order of Hermes. She found the Order lacking: why, she wondered, is the Order content to live in contrived awkward peace? Why should the resources of a weak covenant be protected from those who have the might to claim them? It is not so in the mundane world, so why should it be within the Order?
 
-She first tried to bring her Calliclean philosophy to a cabal of Tytalus magi, but her extreme aims met with disapproval, not because the idea was unattractive to certain like-minded individuals but because the risks and dangers were considered too great. Ironically, given the events to come, Lucia’s parens, Maximus Severis, the last member of Castello del Selvaggio (Castle of the Selvaggio Family), was present. He and Lucia recognized each other, and he was
+She first tried to bring her Calliclean philosophy to a cabal of Tytalus magi, but her extreme aims met with disapproval, not because the idea was unattractive to certain like-minded individuals but because the risks and dangers were considered too great. Ironically, given the events to come, Lucia’s parens, Maximus Severis, the last member of Castello del Selvaggio (Castle of the Selvaggio Family), was present. He and Lucia recognized each other, and he was particularly outspoken against the plan. So Lucia resolved to find other allies and to repay her parens for his failure to support her.
 
 <!-- p. 113 --><a id="page-113"></a>
-
-particularly outspoken against the plan. So Lucia resolved to find other allies and to repay her parens for his failure to support her.
 
 Avedutus’ rejection of his House’s traditional role attracted her, and he soon saw the potential in her plan: if they succeeded they would rewrite the Order’s creed, and if they failed they would achieve a glorious end. The Verditius then found Al-’Aqrab, a magus largely ostracized due to his spiteful nature and the repeated conflicts he brought upon himself. Without a covenant and forced to eke out his magical existence in the deserts of North Africa, Al-’Aqrab saw the chance to change his circumstances. Patronus was the last to join. Attracted to trouble like a crow to carrion, Patronus had been watching Lucia for some time and he sensed that something big was about to happen. On the verge of becoming a faerie and leaving his mortal life behind him, the prospect of bringing a shift to the Order seemed to him the perfect symbol of change that he needed.
 
@@ -4850,11 +4848,9 @@ The four magi of the Trattato are caught in a spiral. Their arrogance, delusions
 
 Lucia wants to control people and material wealth. She wants to rule, and as a child it was already apparent to her that Mythic Europe does not like to see women rule. Her initial delight at the openness of the Order of Hermes soon turned to contempt for its refusal to let one maga rule over another. She resolved to prove that she could rule both magi and mundanes.
 
-Among mundanes, she is the archetypal seductress, the woman in red, the femme fatale: ambitious, manipulative, mock-vulnerable, and deadly. She is willing and able to use her sexuality to lead others astray and bend them to her will. Lucia is naturally attractive, and a mistress of subtle Mentem magic, so this form of rulership comes easily to her. She has mastered a number of spells that promote amorous desire in her targets, fascination in those around her, and ad-
+Among mundanes, she is the archetypal seductress, the woman in red, the femme fatale: ambitious, manipulative, mock-vulnerable, and deadly. She is willing and able to use her sexuality to lead others astray and bend them to her will. Lucia is naturally attractive, and a mistress of subtle Mentem magic, so this form of rulership comes easily to her. She has mastered a number of spells that promote amorous desire in her targets, fascination in those around her, and adoration in those who follow her, and her powers are strengthened by her magical focus in seduction magic.
 
 <!-- p. 116 --><a id="page-116"></a>
-
-oration in those who follow her, and her powers are strengthened by her magical focus in seduction magic.
 
 Among magi, on the other hand, she wants to rule openly, respected and feared by the Order, and holding authority by her own power. She avoids using magic on magi as much as possible, as her sigil is an embarrassment to her in this context, and relies on her allies far more than she is willing to admit. To compensate, Lucia often assumes an authority she does not really have, and can lose her temper when challenged. If you choose to have her develop new spells over the course of this story, she focuses on Ignem or Corpus spells that she believes will allow her to attack her foes (the player characters) directly. She makes sensible choices based on what she knows of the player characters’ strengths and weaknesses.
 
@@ -4920,18 +4916,6 @@ Casting Sigil: A sense of arousal is felt by her targets or by those detecting t
 \+ Includes talisman bonuses
 
 Lucia possesses a distracting beauty, especially to mundanes with little chance to resist her enchantments. Gifted with the ability to cast silently *and* without gestures, her preferred spells all use the Eye range. These gifts make detecting her spell-casting difficult and she commonly employs any number of minor spontaneous Mentem effects to ensure she gets her way. Among magi, she dresses and behaves so that her beauty is striking rather than alluring, and reinforces her aura of authority. She relies on her considerable social skill rather than magic, at least to begin with.
-
-#### Avedutus Fabri of House Verditius
-
-Avedutus has long railed against a docile Order. He watches the mundane world, with its kings and conquests, and has concluded the world is all the better for it. He is blind to the suffering that wars bring, seeing only the glory of fighting for a cause.
-
-His Formulaic magic is hampered by the pain caused by spellcasting, as a result of which he has learned very few spells. He relies instead upon the effects enchanted into his arms and armor.
-
-His personal weaknesses are his pride, arrogance, and willingness to be led by Lucia. But he has magical vulnerabilities too. Unusually, his casting tools are too large to be used on the move. He needs an anvil and a selection of hammers and other blacksmithing tools to be able to cast his magic. He also suffers from the Weak Magic Resistance Flaw ([**ArM5**, page 61](<Ars Magica 5e - Core Rules.md#weak-magic-resistance>) / [Definitive Edition, page 152](<Ars Magica - Definitive Edition (Core Rules).md#weak-magic-resistance>)), which applies when the caster is touching these casting tools; a rare situation, but given Avedutus’ frequent separation from them this can be exploited by his enemies.
-
-He sees his craft as a means to an end, not an end in and of itself. His thrill comes from the battlefield and his art is expressed in the arms and armor that he carries and wears. The hubris common to his House is expressed on the battlefield, not in the workshop. Avedutus is in league with an armorer by the name of Alle Deudati, a merchant called upon to lend an air of Hermetic legality to any sales of enchanted items. He also trained an apprentice in earlier years, who can be found living outside the Tribunal.
-
-<!-- p. 117 --><a id="page-117"></a>
 
 > ### Lucia’s Grimoire and Items
 >
@@ -5019,33 +5003,15 @@ He sees his craft as a means to an end, not an end in and of itself. His thrill 
 >
 > (Base 3, +1 Concentration, +3 Hearing; +3 for 6 uses per day)
 
-#### Mutationis Patronus of House Merinita
+#### Avedutus Fabri of House Verditius
 
-Patronus is a Merinita magus taken to the edge of turning into a creature fully of the Faerie Realm. Initiated into the Inner Merinita Mystery of Becoming, he has already transformed his body and his mind with only his spirit to go, for which he needs a significant Faerie aura, and time and resources to develop a suitable laboratory.
+Avedutus has long railed against a docile Order. He watches the mundane world, with its kings and conquests, and has concluded the world is all the better for it. He is blind to the suffering that wars bring, seeing only the glory of fighting for a cause.
 
-But he is one of the two distinct weak links within the covenant. His concern is simply change for change’s sake. He has no loyalty to Lucia or the other magi. Almost as a faerie might take vitality from invoking and promoting given situations, so Patronus gladly sees his companions achieve their aims while already anticipating their eventual downfall.
+His Formulaic magic is hampered by the pain caused by spellcasting, as a result of which he has learned very few spells. He relies instead upon the effects enchanted into his arms and armor.
 
-Unknown to Avedutus, he is fully aware of the Verditius’ weaknesses regarding his casting tools, and it is information that he may be willing to part with should he need to protect himself in the future.
+His personal weaknesses are his pride, arrogance, and willingness to be led by Lucia. But he has magical vulnerabilities too. Unusually, his casting tools are too large to be used on the move. He needs an anvil and a selection of hammers and other blacksmithing tools to be able to cast his magic. He also suffers from the Weak Magic Resistance Flaw ([**ArM5**, page 61](<Ars Magica 5e - Core Rules.md#weak-magic-resistance>) / [Definitive Edition, page 152](<Ars Magica - Definitive Edition (Core Rules).md#weak-magic-resistance>)), which applies when the caster is touching these casting tools; a rare situation, but given Avedutus’ frequent separation from them this can be exploited by his enemies.
 
-#### Al-’Aqrab of Ex Miscellanea
-
-From a lineage of Ex Miscellanea ritualists, the Tunisian Al-’Aqrab gains his true power through the magical efforts of others. This does not imply an altruistic streak. In truth, he must struggle to contain his envious and selfish nature that would otherwise see him take the spoils at the expense of his colleagues.
-
-He has lived long enough that rumors have collected around him. He seems to appear at the heart of some trouble or other and then disappear to nobody knows where, like a scorpion sinking back into the sand. If the magi recognize this, his scorpion-like nature could be exploited to weaken his covenant.
-
-<!-- p. 118 --><a id="page-118"></a>
-
-## Expected Sequence of Play
-
-The story begins when the player magi are approached by Giuliano, heir to the dukedom of Casalmaggiore, asking for help against a magical force that threatens to steal his throne. This force turns out to be the first of the rogue covenant members that the magi meet across this story. The player covenant has the choice to either involve themselves in opposition to Hermetic magi, or to avoid potential interference in mundane affairs and leave the dukedom to its fate.
-
-Soon after this, a nearby covenant, Castello del Selvaggio, falls to Avedutus, the spoils of Wizard War, and with a number of refugee covenfolk arriving at their gates the player covenant sees the plans of their Hermetic enemies becoming clear: capture and hold.
-
-<!-- p. 119 --><a id="page-119"></a>
-
-<!-- p. 120 --><a id="page-120"></a>
-
-The final act sees the magi of the Trattato set their sights on the player covenant and the Duca di Casalmaggiore set his sights on the nearby city of Verona.
+He sees his craft as a means to an end, not an end in and of itself. His thrill comes from the battlefield and his art is expressed in the arms and armor that he carries and wears. The hubris common to his House is expressed on the battlefield, not in the workshop. Avedutus is in league with an armorer by the name of Alle Deudati, a merchant called upon to lend an air of Hermetic legality to any sales of enchanted items. He also trained an apprentice in earlier years, who can be found living outside the Tribunal.
 
 #### Avedetus Fabri
 
@@ -5240,37 +5206,15 @@ He also has a number of damaging spells and rituals that he is able to cast from
 >
 > (Base 2, +1 Touch, +2 metal, +2 complexity)
 
-## Act One: Rain on the Wind
+<!-- p. 117 --><a id="page-117"></a>
 
-This act introduces the covenant of *Trattato* as Lucia attempts to ensure the succession of her chosen pawn to a position of wealth and influence.
+#### Mutationis Patronus of House Merinita
 
-### The Succession
+Patronus is a Merinita magus taken to the edge of turning into a creature fully of the Faerie Realm. Initiated into the Inner Merinita Mystery of Becoming, he has already transformed his body and his mind with only his spirit to go, for which he needs a significant Faerie aura, and time and resources to develop a suitable laboratory.
 
-After the death of the Duca di Casalmaggiore, his two nephews vie for his vacant throne. Federico is on the verge of succeeding in his claim, assisted by the horoscopes of the court astrologer and the wiles of his Hermetic lover. But his twin, Giuliano, is the firstborn and has the legitimate claim despite lacking political influence. And so Giuliano turns to the Order for assistance, in the knowledge that he needs to fight the magic in his brother’s employ with magic of his own.
+But he is one of the two distinct weak links within the covenant. His concern is simply change for change’s sake. He has no loyalty to Lucia or the other magi. Almost as a faerie might take vitality from invoking and promoting given situations, so Patronus gladly sees his companions achieve their aims while already anticipating their eventual downfall.
 
-#### A Ducal Request
-
-Giuliano and his entourage arrive at the player covenant without warning and demand audience. He firmly asserts his rank and refuses to be put off, citing a matter of grave urgency. When presented to the magi, or their senior representatives, he demands their assistance in exposing his brother’s lies and trickery.
-
-He contests that his uncle’s throne is his by right as he is the firstborn twin, but that the court astrologer, Hieronymous, has persuaded the court that a great calamity will befall the dukedom unless an heir is elected by a council of nobles and princes. He believes that Hieronymous’ magic is being turned to his brother’s aid and wishes to prove it. He also tells of a woman who is beguiling the court in order to secure his brother’s claim to the ducal throne.
-
-<!-- p. 121 --><a id="page-121"></a>
-
-Asked why the covenant should help him, Giuliano is forthright; because he asks it of them. If, as is likely, the covenant requires more convincing, he says because he believes the woman, Lucia, to be one of them and that he knows enough of the Order to know that what she is doing is wrong. And if yet more inducement is required, he offers the income of a sizable fief to them for as long as his reign should last, assuming his brother’s trickery is exposed and his claim discredited.
-
-If the magi themselves refuse to help him, he suggests that they must at least have associates, learned in magic and astrology, who could at least guide him in these matters. This presents the covenant with the opportunity to use its companions and grogs to first gather information and second earn a new source of income. Giuliano escorts any willing to help him to Casalmaggiore as members of his retinue.
-
-At this stage, the magi may decide to decline to help Giuliano in any way. In this case Giuliano leaves vowing some ill-defined revenge at some ambiguous time in the future, Federico is elected, and his brother is exiled to some small estate where he turns to taxing his vassals hard out of frustration and spite.
-
-#### The Court of Casalmaggiore
-
-The heart of the Casalmaggiore region is a palace of white stonework, fortified yet elegant, and surrounded by orchards and villages. It sits on the river Po to the southwest of Verona, and there are several bridges that span the river, ensuring a steady stream of merchants and commerce and making Casalmaggiore an important and wealthy place. The court is covered by a level 2 Dominion aura.
-
-<!-- p. 122 --><a id="page-122"></a>
-
-With the election of the new duke due to take place tomorrow, the town of Casalmaggiore is busy with numerous knights, merchants, clerics, and others gathered to witness or participate in the election and coronation. There is nowhere left to stay in the town, but Giuliano offers the magi and companions one of several standing chambers within the palace. Their grogs join the other lower retainers and sleep in whatever space is given to them, most likely on floors or in outbuildings.
-
-Giuliano is greeted by loyal courtiers who receive his magical guests with a degree of trepidation and distrust, with the magi overhearing some of their misgivings.
+Unknown to Avedutus, he is fully aware of the Verditius’ weaknesses regarding his casting tools, and it is information that he may be willing to part with should he need to protect himself in the future.
 
 #### Mutationis Patronus
 
@@ -5336,22 +5280,6 @@ Spells Known:
 Casting Sigil: Visible strands of light and stars stream from his fingertips to the targets of his spells. His spell residues give off tiny sparkles when investigated.
 
 Appearance: Since the rites of Becoming he has appeared as a juvenile boy. He is small for his apparent age and has unkempt ginger hair and a band of golden freckles across his nose. Due to warping his eyes also glitter and shimmer with gold and silver. He is dressed differently every time he is encountered, sometimes as a ragged child and sometimes like a miniature prince, but he always wears the red sash denoting his membership of the Trattato. Strikingly, he only talks through a mask that he brings to his face each time he wishes to speak.
-
-#### The Eve of Succession
-
-The action takes place from six in the evening onwards, during celebrations for Giuliano’s return to the city and the politicking of the election. This gives the magi, or their unGifted companions, the chance to mingle and judge the mood of the room. In particular, this is the scene in which the players meet Lucia and Avedutus.
-
-Lucia and Avedutus recognize any magi present, unless they are attempting to disguise themselves and their nature, and treat them with caution. If you introduced the magi of the *Trattato* at Tribunal ahead of this story the player magi automatically recognize them given their distinctive looks. Lucia is not best-pleased at being seen by magi in her seductive guise.
-
-The evening is accompanied by music from a troupe of musicians, and the intrigues proceed amid the dancing. It seems that both factions are hard at work and characters engaging in Intrigue may learn the following:
-
-<!-- p. 123 --><a id="page-123"></a>
-
-- Giuliano’s relationship with one Nanino da Bologna, a young male student in his retinue, is being called into question.
-- There are suspicions that the old Duke met his end before his time (as the storyguide, you are free to decide whether there is any truth in this and by whose hand he may have died).
-- Giuliano did much offend his uncle, hence his long absence from the court.
-- Federico and Lucia are to be wed, though the news is to be kept secret until after the election.
-- Giuliano has betrayed his brother by attempting to steal the Lady Lucia away from him.
 
 > ### Patronus’ Talisman and Grimoire
 >
@@ -5443,20 +5371,6 @@ The evening is accompanied by music from a troupe of musicians, and the intrigue
 >
 > (Base effect, +2 Voice)
 
-It is here that Hieronymous and Lucia can be seen in frequent conversation with Federico. Avedutus is on constant guard and does not, without permission from Lucia, allow strangers to impose upon Lucia.
-
-At ten in the evening, a fanfare is sounded and Hieronymous announces that the election must now take place.
-
-#### A Meeting of Hermetic Minds
-
-Lucia claims to be at court for simply social reasons, and is open that she maintains a sanctum nearby and therefor has a connection to the court. She also attempts to shift any suspicion of wrongdoing onto Hieronymous. She “suspects” him to be manipulating the election, but that she has taken care to ensure that no magic is used to influence the result one way or the other. A lie, obviously, but this is left to the magi to determine. She even offers a mockwarning that they should take care lest they be accused of meddling in mundane affairs.
-
-If challenged on her relationship with either of the brothers, she seeds misdirection with truth and simply asks how a woman is supposed to secure land from an egotistical noble with delusions of grandeur.
-
-<!-- p. 124 --><a id="page-124"></a>
-
-<!-- p. 125 --><a id="page-125"></a>
-
 > ### Patronus’ Faeries
 >
 > The following faeries are summoned into existence by Patronus’ spells.
@@ -5545,115 +5459,11 @@ If challenged on her relationship with either of the brothers, she seeds misdire
 >
 > *Houses of Hermes: Mystery Cults* ([pages 94–95](#page-94)) provides guidelines for the Merinita mystery of Animae Magic, the ability to spontaneously create faeries from the raw matter surrounding the caster. Two considerations should be applied when using this magic. Firstly, faeries created through ritual magic in this way may be permanent and may have a Might Score, but they do not contain raw vis. The vis is actively sustaining the faerie from the moment it is created. Once that faerie dies, the vis finally dissipates. Secondly, the total Might Score of all faeries summoned by the spell must be added to the level when the spell is invented. So a spell to create a single faerie with a Might Score of 5 must add 5 to the spell level. A spell to create a group of 10 similar faeries must add 50 to the spell level.
 
-Avedutus is characteristically unwilling to discuss anything pertaining to the court or their presence, but it is clear that he views Giuliano as an arrogant brat. He is not rude but he defers to Lucia on any matters pertaining to Federico. Other than that, if he is engaged in harmless conversation he is relaxed.
+#### Al-’Aqrab of Ex Miscellanea
 
-#### Influencing the Election
+From a lineage of Ex Miscellanea ritualists, the Tunisian Al-’Aqrab gains his true power through the magical efforts of others. This does not imply an altruistic streak. In truth, he must struggle to contain his envious and selfish nature that would otherwise see him take the spoils at the expense of his colleagues.
 
-The storyguide should assume that Federico’s faction controls ten of the votes to Giuliano’s two. This means that they need to influence four votes in order to force an even split, which places the deciding vote in the hands of Hieronymous. Taking five votes away from Federico secures the election for Giuliano.
-
-Unless the magi have already met the electors and discussed their positions, they do not know how many votes are actually controlled by each faction. Known supporters of Federico may be identified as follows, which starts to reveal the weight of support he has gained.
-
-**Communication + Intrigue + stress die**
-
-| Roll | Assessment |
-| --- | --- |
-| Botch | Giuliano already has enough support despite Federico’s efforts |
-| 0–2 | Identify two known Federico supporters |
-| 3–5 | Identify four known Federico supporters |
-| 6–8 | Identify six known Federico supporters |
-| 9–10 | Identify eight known Federico supporters |
-| 11+ | Identify Giuliano’s supporters |
-
-In order to secure Giuliano’s election the magi must influence five votes. The magi could achieve this a number of ways:
-
-<!-- p. 126 --><a id="page-126"></a>
-
-<!-- p. 127 --><a id="page-127"></a>
-
-<!-- p. 128 --><a id="page-128"></a>
-
-- Use Mentem magic on Federico’s supporters
-- Control or replace Hieronymous
-- Expose Hieronymous’ false horoscopes
-- Discredit Federico directly
-
-Exposing Hieronymous’ deceit may influence enough votes, but the magi are free to take their own path and the storyguide should apply the results of their actions as a gain in votes.
-
-The electors described in the nearby insert should be used by the storyguide to portray the election. They present roleplaying opportunities for the magi to use intrigue and persuasion or direct application of magic to discover their reasons for supporting Federico and to provide counter offers.
-
-> ### Al-’Aqrab’s Talisman and Grimoire
->
-> Al-’Aqrab’s talisman is his knife, which he stole from the tomb of a Persian merchant who reputedly poisoned his rivals. He gave the weapon the name *Humat*, or venom.
->
-> ##### The Riches of Carthage
->
-> CrTe 20<br>
-> R: Touch, D: Momentary, T: Individual, Ritual<br>
-> As the Touch of Midas ritual ([**ArM5**, page 153](<Ars Magica 5e - Core Rules.md#touch-of-midas>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#touch-of-midas>)) but creates a lump of silver instead of gold, which is easier to slip into the local economy.
->
-> (Base 15, +1 Touch, ritual)
->
-> ##### The Fate of Carthage
->
-> PeTe 45<br>
-> R: Arcane Connection, D: Momentary, T: Boundary, Ritual<br>
-> Over the course of a season, any crops or livestock farmed on the affected land suffer as though being starved. Deprivation checks at three-day intervals may be unwieldy for use across the season, so it is reasonable to assume that harvests fail and livestock dies unless food is brought in from outside the affected area. As a rule of thumb, assume that the income from the affected land halves each season, with the effect being noticed after the first week. The effect is permanent and the soil cannot support life until healed in some way.
->
-> The base level of 5 is used as the spell is destroying only a single aspect of the soil, namely the ability to nourish crops and animals. The high vis cost of this ritual is compensated by the ability to strike unseen from afar.
->
-> (Base 5, +4 Arcane Connection, +4 Boundary, Ritual)
->
-> ##### Humat
->
-> This old curved dagger has been opened with 10 pawns of vis and has the following effect:
->
-> ##### Humat’s Gift
->
-> CrAq 50<br>
-> R: Touch, D: Sun, T: Individual<br>
-> Pen +0, 1/day<br>
-> Once per day, *Humat* can be made to give up its venom, at which point a single dose of lethal poison drips from the blade’s tip. The venom has an Ease Factor of 9, as explained in [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>). Failing the associated Stamina check results in death.
->
-> This effect has no Penetration, so the poison cannot affect those protected by any level of Magic Resistance from any realm or source.
->
-> When Al-’Aqrab enchanted this effect he attuned *Humat* with a +3 bonus to poisoning.
->
-> (Base 25, +1 Touch, +2 Sun, +2 for potency)
->
-> ##### Breaking the Shield
->
-> PeVi 25<br>
-> R: Sight, D: Momentary, T: Individual<br>
-> This spell is designed to permanently cancel an existing *Aegis of the Hearth* ritual with a level less than 30 (i.e. the level of this spell +1 magnitude) + a Stress Die, bringing its magical protection to an abrupt end.
->
-> As this spell is cast against an Aegis, the effect must first penetrate the level of that Aegis. This version of the spell has been designed to tear down at least a sixth magnitude Aegis, and so must penetrate a resistance of at least 30. To help with this feat, Al-’Aqrab has taught versions of the *Wizards Communion* spell to the other magi in his new covenant, which helps them to cast their spells and Rituals at sufficiently high level and penetration.
->
-> Casting this spell requires that Al-’Aqrab be within sight of the target’s boundary, though of course the Aegis itself does not need to be made visible.
->
-> (Base effect, +3 Sight)
-
-> ### The Manner of the Election
->
-> A local candlemaker provides a number of identical balls of wax, one for each of the eligible courtiers. Twelve of these balls contain a piece of parchment onto which is written the word “elector.” Hieronymous draws these balls of wax from a large velvet bag, presenting them to each of the courtiers in turn. When they have all been given, the balls are broken open and the twelve courtiers finding the parchment are the nominated electors. You can consider this to have been done during the previous week and the electors chosen unless the players want to somehow influence this aspect of the process.
->
-> Of course, Lucia has already subtly influenced the election process. She has passed the date and location of birth of the major members of the court to Hieronymous. With this information, Hieronymous has cast their nativity horoscopes and determined which of them naturally lean towards his patron Federico. By targeting those who support Giuliano, he has been able to produce false charts showing a calamity befalling them or their families should Giuliano succeed his uncle. These charts, obviously fake on a Simple Intelligence + Artes Liberales roll against Ease Factor 9, can be found in Hieronymous’ laboratory should the players decide to look.
->
-> #### The Electors
->
-> This insert lists the twelve courtiers selected to elect the new Duke. To keep track of the interactions between these twelve and the player characters, storyguides may want to prepare a set of cards representing the electors for use by the players. When interacting with these characters, roleplaying should be used to discover their motives. Use of the Intrigue ability is appropriate when talking *about* them with others. Assume an Ease Factor of 9 to discover the elector’s basic situation. Working with or through Giuliano grants a +3 bonus to these rolls.
->
-> - **Donato Damiani** is a minor prince of Padua with little wealth of his own, which he supplements through access to Federico’s coffers. Unbothered by morals, he supports Federico from the fear that his funds may dry up under another regime. He has little interest in any subject, but can always recall an anecdote about something, somewhere, or someone. His vote can be bought through promises of financial security.
-> - **Berto Bossi** is a wealthy and influential guild leader. Promised more control over taxes that favor Casalmaggiore merchants and discriminate against those from other cities and regions, he is a firm supporter of Federico.
-> - The mercenary lord **Pietro Trevison** has a grudge against Verona over monies he believes he is owed. He has a little land, but he is anticipating Federico’s ambitions in the area and believes he could become a wealthy man through supporting him.
-> - **Piero Giudetti**, a rumbustious local landowner, supports Federico out of principle; when the old Duke was ill, Federico remained in Casalmaggiore while Giuliano wasted his time abroad.
-> - Gullible, brow-beaten, and politically naive, **Cola Polani** votes the same way as his overbearing neighbor Piero Giudetti and is happy to defer to his reasoning. But if he could be granted courage, suggestions that Hieronymous has been meddling in the election could shift his vote.
-> - **Allesandro dalle Boccole** is tantalized by the prospect of his daughter marrying into money. Hieronymous has promised him that should Federico be elected he will marry within a month. And he has cast the young woman’s horoscope, which shows that she is destined for greatness. He has not heard rumors linking Federico with Lucia.
-> - The weasel-faced merchant **Maffeo Marano** has much to hide. He is a crook and a swindler, which Hieronymous has discovered thanks to Lucia’s magic. He has been promised amnesty and pardon for his activities under Federico, but exposure and punishment under Giuliano.
-> - The Lady **Rosanella di Campo** speaks on behalf of her ailing husband, who Hieronymous has assured her will survive into old age should the will of the stars be done and Federico made Duke. She had no opinion before, and while she objects to the imposition she dare not cross the fates.
-> - **Simonetto Domenico** is a poor knight with a small fief who has fought alongside Giuliano and should, by all rights favor him. But Hieronymous has warned him of the increasing poverty foretold in the stars should Giuliano gain power.
-> - Genuinely undecided, the youthful **Lorenzo Di Pigli** has recently lost his father and inherited his lands. He is astute enough to recognize that Federico is apparently more popular, but he can be persuaded to either side. He is determined to back the winning side.
-> - **Leonardo Cobiancho** is an elderly distant uncle, a successful soldier in his day who doesn’t hold with astrology. He is quite vocal about his disdain for magi supporting any faction. Favoring Giuliano, he can see the trouble that Federico might bring to Casalmaggiore. Suggestions that Giuliano is underhanded and treacherous shift his vote.
-> - **Monsignor d’Este** is the Bishop of Casalmaggiore and dislikes Federico. If you are using the *Realms of Power: The Divine* supplement, rules for Holy Influence are on [page 38](#page-38). Assume that Monsignor d’Este has a Presence of 2 and a Leadership of 4 for the purposes of these rules. He is surrounded by his own entourage and does not take kindly to strangers approaching him directly. Questions as to Giuliano’s morals lessen the Bishop’s support.
+He has lived long enough that rumors have collected around him. He seems to appear at the heart of some trouble or other and then disappear to nobody knows where, like a scorpion sinking back into the sand. If the magi recognize this, his scorpion-like nature could be exploited to weaken his covenant.
 
 #### Al-’Aqrab
 
@@ -5715,6 +5525,192 @@ Casting Sigil: His targets are slightly seared by magical venom. It has no lasti
 Appearance: Al-’Aqrab is aged and weather-beaten and his dark skin is lined and thin. His head and face are swathed in a ragged turban and veil, a motif that extends to the rest of his clothes. He wears a sash of red tied around his middle in place of a belt, the mark of the Trattato.
 
 Though not a member of a true Mercurian cult, Al-’Aqrab possesses the Mercurian Magic Virtue; an unusual trait found in the lineage of wizards of which he is the last. Its effects ensure that he is a focus for ritual magic within the Trattato. He also masters many of his spells with the disguised casting (*Houses of Hermes: True Lineages*, [page 99](#page-99)) spell mastery, which makes identifying him as the caster much harder.
+
+> ### Al-’Aqrab’s Talisman and Grimoire
+>
+> Al-’Aqrab’s talisman is his knife, which he stole from the tomb of a Persian merchant who reputedly poisoned his rivals. He gave the weapon the name *Humat*, or venom.
+>
+> ##### The Riches of Carthage
+>
+> CrTe 20<br>
+> R: Touch, D: Momentary, T: Individual, Ritual<br>
+> As the Touch of Midas ritual ([**ArM5**, page 153](<Ars Magica 5e - Core Rules.md#touch-of-midas>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#touch-of-midas>)) but creates a lump of silver instead of gold, which is easier to slip into the local economy.
+>
+> (Base 15, +1 Touch, ritual)
+>
+> ##### The Fate of Carthage
+>
+> PeTe 45<br>
+> R: Arcane Connection, D: Momentary, T: Boundary, Ritual<br>
+> Over the course of a season, any crops or livestock farmed on the affected land suffer as though being starved. Deprivation checks at three-day intervals may be unwieldy for use across the season, so it is reasonable to assume that harvests fail and livestock dies unless food is brought in from outside the affected area. As a rule of thumb, assume that the income from the affected land halves each season, with the effect being noticed after the first week. The effect is permanent and the soil cannot support life until healed in some way.
+>
+> The base level of 5 is used as the spell is destroying only a single aspect of the soil, namely the ability to nourish crops and animals. The high vis cost of this ritual is compensated by the ability to strike unseen from afar.
+>
+> (Base 5, +4 Arcane Connection, +4 Boundary, Ritual)
+>
+> ##### Humat
+>
+> This old curved dagger has been opened with 10 pawns of vis and has the following effect:
+>
+> ##### Humat’s Gift
+>
+> CrAq 50<br>
+> R: Touch, D: Sun, T: Individual<br>
+> Pen +0, 1/day<br>
+> Once per day, *Humat* can be made to give up its venom, at which point a single dose of lethal poison drips from the blade’s tip. The venom has an Ease Factor of 9, as explained in [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>). Failing the associated Stamina check results in death.
+>
+> This effect has no Penetration, so the poison cannot affect those protected by any level of Magic Resistance from any realm or source.
+>
+> When Al-’Aqrab enchanted this effect he attuned *Humat* with a +3 bonus to poisoning.
+>
+> (Base 25, +1 Touch, +2 Sun, +2 for potency)
+>
+> ##### Breaking the Shield
+>
+> PeVi 25<br>
+> R: Sight, D: Momentary, T: Individual<br>
+> This spell is designed to permanently cancel an existing *Aegis of the Hearth* ritual with a level less than 30 (i.e. the level of this spell +1 magnitude) + a Stress Die, bringing its magical protection to an abrupt end.
+>
+> As this spell is cast against an Aegis, the effect must first penetrate the level of that Aegis. This version of the spell has been designed to tear down at least a sixth magnitude Aegis, and so must penetrate a resistance of at least 30. To help with this feat, Al-’Aqrab has taught versions of the *Wizards Communion* spell to the other magi in his new covenant, which helps them to cast their spells and Rituals at sufficiently high level and penetration.
+>
+> Casting this spell requires that Al-’Aqrab be within sight of the target’s boundary, though of course the Aegis itself does not need to be made visible.
+>
+> (Base effect, +3 Sight)
+
+<!-- p. 118 --><a id="page-118"></a>
+
+## Expected Sequence of Play
+
+The story begins when the player magi are approached by Giuliano, heir to the dukedom of Casalmaggiore, asking for help against a magical force that threatens to steal his throne. This force turns out to be the first of the rogue covenant members that the magi meet across this story. The player covenant has the choice to either involve themselves in opposition to Hermetic magi, or to avoid potential interference in mundane affairs and leave the dukedom to its fate.
+
+Soon after this, a nearby covenant, Castello del Selvaggio, falls to Avedutus, the spoils of Wizard War, and with a number of refugee covenfolk arriving at their gates the player covenant sees the plans of their Hermetic enemies becoming clear: capture and hold.
+
+<!-- p. 119 --><a id="page-119"></a>
+
+<!-- p. 120 --><a id="page-120"></a>
+
+The final act sees the magi of the Trattato set their sights on the player covenant and the Duca di Casalmaggiore set his sights on the nearby city of Verona.
+
+## Act One: Rain on the Wind
+
+This act introduces the covenant of *Trattato* as Lucia attempts to ensure the succession of her chosen pawn to a position of wealth and influence.
+
+### The Succession
+
+After the death of the Duca di Casalmaggiore, his two nephews vie for his vacant throne. Federico is on the verge of succeeding in his claim, assisted by the horoscopes of the court astrologer and the wiles of his Hermetic lover. But his twin, Giuliano, is the firstborn and has the legitimate claim despite lacking political influence. And so Giuliano turns to the Order for assistance, in the knowledge that he needs to fight the magic in his brother’s employ with magic of his own.
+
+#### A Ducal Request
+
+Giuliano and his entourage arrive at the player covenant without warning and demand audience. He firmly asserts his rank and refuses to be put off, citing a matter of grave urgency. When presented to the magi, or their senior representatives, he demands their assistance in exposing his brother’s lies and trickery.
+
+He contests that his uncle’s throne is his by right as he is the firstborn twin, but that the court astrologer, Hieronymous, has persuaded the court that a great calamity will befall the dukedom unless an heir is elected by a council of nobles and princes. He believes that Hieronymous’ magic is being turned to his brother’s aid and wishes to prove it. He also tells of a woman who is beguiling the court in order to secure his brother’s claim to the ducal throne.
+
+<!-- p. 121 --><a id="page-121"></a>
+
+Asked why the covenant should help him, Giuliano is forthright; because he asks it of them. If, as is likely, the covenant requires more convincing, he says because he believes the woman, Lucia, to be one of them and that he knows enough of the Order to know that what she is doing is wrong. And if yet more inducement is required, he offers the income of a sizable fief to them for as long as his reign should last, assuming his brother’s trickery is exposed and his claim discredited.
+
+If the magi themselves refuse to help him, he suggests that they must at least have associates, learned in magic and astrology, who could at least guide him in these matters. This presents the covenant with the opportunity to use its companions and grogs to first gather information and second earn a new source of income. Giuliano escorts any willing to help him to Casalmaggiore as members of his retinue.
+
+At this stage, the magi may decide to decline to help Giuliano in any way. In this case Giuliano leaves vowing some ill-defined revenge at some ambiguous time in the future, Federico is elected, and his brother is exiled to some small estate where he turns to taxing his vassals hard out of frustration and spite.
+
+#### The Court of Casalmaggiore
+
+The heart of the Casalmaggiore region is a palace of white stonework, fortified yet elegant, and surrounded by orchards and villages. It sits on the river Po to the southwest of Verona, and there are several bridges that span the river, ensuring a steady stream of merchants and commerce and making Casalmaggiore an important and wealthy place. The court is covered by a level 2 Dominion aura.
+
+<!-- p. 122 --><a id="page-122"></a>
+
+With the election of the new duke due to take place tomorrow, the town of Casalmaggiore is busy with numerous knights, merchants, clerics, and others gathered to witness or participate in the election and coronation. There is nowhere left to stay in the town, but Giuliano offers the magi and companions one of several standing chambers within the palace. Their grogs join the other lower retainers and sleep in whatever space is given to them, most likely on floors or in outbuildings.
+
+Giuliano is greeted by loyal courtiers who receive his magical guests with a degree of trepidation and distrust, with the magi overhearing some of their misgivings.
+
+#### The Eve of Succession
+
+The action takes place from six in the evening onwards, during celebrations for Giuliano’s return to the city and the politicking of the election. This gives the magi, or their unGifted companions, the chance to mingle and judge the mood of the room. In particular, this is the scene in which the players meet Lucia and Avedutus.
+
+Lucia and Avedutus recognize any magi present, unless they are attempting to disguise themselves and their nature, and treat them with caution. If you introduced the magi of the *Trattato* at Tribunal ahead of this story the player magi automatically recognize them given their distinctive looks. Lucia is not best-pleased at being seen by magi in her seductive guise.
+
+The evening is accompanied by music from a troupe of musicians, and the intrigues proceed amid the dancing. It seems that both factions are hard at work and characters engaging in Intrigue may learn the following:
+
+<!-- p. 123 --><a id="page-123"></a>
+
+- Giuliano’s relationship with one Nanino da Bologna, a young male student in his retinue, is being called into question.
+- There are suspicions that the old Duke met his end before his time (as the storyguide, you are free to decide whether there is any truth in this and by whose hand he may have died).
+- Giuliano did much offend his uncle, hence his long absence from the court.
+- Federico and Lucia are to be wed, though the news is to be kept secret until after the election.
+- Giuliano has betrayed his brother by attempting to steal the Lady Lucia away from him.
+
+It is here that Hieronymous and Lucia can be seen in frequent conversation with Federico. Avedutus is on constant guard and does not, without permission from Lucia, allow strangers to impose upon Lucia.
+
+At ten in the evening, a fanfare is sounded and Hieronymous announces that the election must now take place.
+
+#### A Meeting of Hermetic Minds
+
+Lucia claims to be at court for simply social reasons, and is open that she maintains a sanctum nearby and therefor has a connection to the court. She also attempts to shift any suspicion of wrongdoing onto Hieronymous. She “suspects” him to be manipulating the election, but that she has taken care to ensure that no magic is used to influence the result one way or the other. A lie, obviously, but this is left to the magi to determine. She even offers a mockwarning that they should take care lest they be accused of meddling in mundane affairs.
+
+If challenged on her relationship with either of the brothers, she seeds misdirection with truth and simply asks how a woman is supposed to secure land from an egotistical noble with delusions of grandeur.
+
+<!-- p. 124 --><a id="page-124"></a>
+
+<!-- p. 125 --><a id="page-125"></a>
+
+Avedutus is characteristically unwilling to discuss anything pertaining to the court or their presence, but it is clear that he views Giuliano as an arrogant brat. He is not rude but he defers to Lucia on any matters pertaining to Federico. Other than that, if he is engaged in harmless conversation he is relaxed.
+
+#### Influencing the Election
+
+The storyguide should assume that Federico’s faction controls ten of the votes to Giuliano’s two. This means that they need to influence four votes in order to force an even split, which places the deciding vote in the hands of Hieronymous. Taking five votes away from Federico secures the election for Giuliano.
+
+Unless the magi have already met the electors and discussed their positions, they do not know how many votes are actually controlled by each faction. Known supporters of Federico may be identified as follows, which starts to reveal the weight of support he has gained.
+
+**Communication + Intrigue + stress die**
+
+| Roll | Assessment |
+| --- | --- |
+| Botch | Giuliano already has enough support despite Federico’s efforts |
+| 0–2 | Identify two known Federico supporters |
+| 3–5 | Identify four known Federico supporters |
+| 6–8 | Identify six known Federico supporters |
+| 9–10 | Identify eight known Federico supporters |
+| 11+ | Identify Giuliano’s supporters |
+
+In order to secure Giuliano’s election the magi must influence five votes. The magi could achieve this a number of ways:
+
+<!-- p. 126 --><a id="page-126"></a>
+
+<!-- p. 127 --><a id="page-127"></a>
+
+<!-- p. 128 --><a id="page-128"></a>
+
+- Use Mentem magic on Federico’s supporters
+- Control or replace Hieronymous
+- Expose Hieronymous’ false horoscopes
+- Discredit Federico directly
+
+Exposing Hieronymous’ deceit may influence enough votes, but the magi are free to take their own path and the storyguide should apply the results of their actions as a gain in votes.
+
+The electors described in the nearby insert should be used by the storyguide to portray the election. They present roleplaying opportunities for the magi to use intrigue and persuasion or direct application of magic to discover their reasons for supporting Federico and to provide counter offers.
+
+> ### The Manner of the Election
+>
+> A local candlemaker provides a number of identical balls of wax, one for each of the eligible courtiers. Twelve of these balls contain a piece of parchment onto which is written the word “elector.” Hieronymous draws these balls of wax from a large velvet bag, presenting them to each of the courtiers in turn. When they have all been given, the balls are broken open and the twelve courtiers finding the parchment are the nominated electors. You can consider this to have been done during the previous week and the electors chosen unless the players want to somehow influence this aspect of the process.
+>
+> Of course, Lucia has already subtly influenced the election process. She has passed the date and location of birth of the major members of the court to Hieronymous. With this information, Hieronymous has cast their nativity horoscopes and determined which of them naturally lean towards his patron Federico. By targeting those who support Giuliano, he has been able to produce false charts showing a calamity befalling them or their families should Giuliano succeed his uncle. These charts, obviously fake on a Simple Intelligence + Artes Liberales roll against Ease Factor 9, can be found in Hieronymous’ laboratory should the players decide to look.
+>
+> #### The Electors
+>
+> This insert lists the twelve courtiers selected to elect the new Duke. To keep track of the interactions between these twelve and the player characters, storyguides may want to prepare a set of cards representing the electors for use by the players. When interacting with these characters, roleplaying should be used to discover their motives. Use of the Intrigue ability is appropriate when talking *about* them with others. Assume an Ease Factor of 9 to discover the elector’s basic situation. Working with or through Giuliano grants a +3 bonus to these rolls.
+>
+> - **Donato Damiani** is a minor prince of Padua with little wealth of his own, which he supplements through access to Federico’s coffers. Unbothered by morals, he supports Federico from the fear that his funds may dry up under another regime. He has little interest in any subject, but can always recall an anecdote about something, somewhere, or someone. His vote can be bought through promises of financial security.
+> - **Berto Bossi** is a wealthy and influential guild leader. Promised more control over taxes that favor Casalmaggiore merchants and discriminate against those from other cities and regions, he is a firm supporter of Federico.
+> - The mercenary lord **Pietro Trevison** has a grudge against Verona over monies he believes he is owed. He has a little land, but he is anticipating Federico’s ambitions in the area and believes he could become a wealthy man through supporting him.
+> - **Piero Giudetti**, a rumbustious local landowner, supports Federico out of principle; when the old Duke was ill, Federico remained in Casalmaggiore while Giuliano wasted his time abroad.
+> - Gullible, brow-beaten, and politically naive, **Cola Polani** votes the same way as his overbearing neighbor Piero Giudetti and is happy to defer to his reasoning. But if he could be granted courage, suggestions that Hieronymous has been meddling in the election could shift his vote.
+> - **Allesandro dalle Boccole** is tantalized by the prospect of his daughter marrying into money. Hieronymous has promised him that should Federico be elected he will marry within a month. And he has cast the young woman’s horoscope, which shows that she is destined for greatness. He has not heard rumors linking Federico with Lucia.
+> - The weasel-faced merchant **Maffeo Marano** has much to hide. He is a crook and a swindler, which Hieronymous has discovered thanks to Lucia’s magic. He has been promised amnesty and pardon for his activities under Federico, but exposure and punishment under Giuliano.
+> - The Lady **Rosanella di Campo** speaks on behalf of her ailing husband, who Hieronymous has assured her will survive into old age should the will of the stars be done and Federico made Duke. She had no opinion before, and while she objects to the imposition she dare not cross the fates.
+> - **Simonetto Domenico** is a poor knight with a small fief who has fought alongside Giuliano and should, by all rights favor him. But Hieronymous has warned him of the increasing poverty foretold in the stars should Giuliano gain power.
+> - Genuinely undecided, the youthful **Lorenzo Di Pigli** has recently lost his father and inherited his lands. He is astute enough to recognize that Federico is apparently more popular, but he can be persuaded to either side. He is determined to back the winning side.
+> - **Leonardo Cobiancho** is an elderly distant uncle, a successful soldier in his day who doesn’t hold with astrology. He is quite vocal about his disdain for magi supporting any faction. Favoring Giuliano, he can see the trouble that Federico might bring to Casalmaggiore. Suggestions that Giuliano is underhanded and treacherous shift his vote.
+> - **Monsignor d’Este** is the Bishop of Casalmaggiore and dislikes Federico. If you are using the *Realms of Power: The Divine* supplement, rules for Holy Influence are on [page 38](#page-38). Assume that Monsignor d’Este has a Presence of 2 and a Leadership of 4 for the purposes of these rules. He is surrounded by his own entourage and does not take kindly to strangers approaching him directly. Questions as to Giuliano’s morals lessen the Bishop’s support.
 
 #### Accusations and Successions
 

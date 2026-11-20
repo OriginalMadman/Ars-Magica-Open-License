@@ -17,7 +17,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0310
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -1420,12 +1420,6 @@ No Muslim nobleman would ever hire pirates, officially. Pirates are scum, and ar
 
 <!-- p. 41 --><a id="page-41"></a>
 
-Key
-
-- City/Town/Ruin
-- Oasis
-- Road/Trail
-
 ## Punic and Roman Sites
 
 The Phoenicians and Romans both established numerous colonies along the Mediterranean and Atlantic coasts of Africa. The Punic communities grew first, favoring rocky promontories overlooking deep natural harbors, optimal for the seafaring culture’s explorers, merchants, and navies. These towns grew over the course of seven hundred years, trading and growing, becoming a part of the landscape and building the nation that would draw the ire of what would become the greatest empire since Alexander. The rivalry between Rome and Carthage became so rancorous that the Roman Senator, Cato the Elder, ended every speech to the Senate with the comment, “*Carthago delenda est*” — Carthage ought to be destroyed. Their first war began in 264 BC, with the ascendant Rome supporting a usurping band of mercenaries against the dominant naval power of the Mediterranean at the time, Carthage. Twenty-three years of conflict left the Republic the new lord of the western waves and Carthage preoccupied with repulsing independent mercenaries who were attempting to overrun Sicily. They clashed again in 218 BC, in 17 years of conflict that saw Hannibal march elephants into Italy. Ultimately, a lack of reinforcements allowed Rome to survive and endure. Fifty years later, Rome took the role of aggressor, culminating in the siege and destruction of the city of Carthage itself. The conquering Roman legions filled the vacuum left in the wake of of the Punic empire’s demise, occupying its former colonies. The Republic enlarged most of these settlements, using the newly incorporated provinces of Numidia and Mauretania as a favored region for retired legionnaires. Fresh arrivals developed the countryside, subdividing the coast into Mauretania Tingitana, Mauretania Caesariensis, Numidia, and Africa Proconsularis, or Cyrenaica. Many weathered the tribulations of the Empire to succumb to the ravages of the Vandals, only to be reconquered by Bellisarius and then later claimed by the Islamic expansion.
@@ -1468,12 +1462,6 @@ The region which would later be called “The Tell” saw a large number of colo
 This was the region most densely colonized by the Phoenicans and Romans, and the majority of the area had already been seized after the Romans crushed Carthage at the end of the Third Punic War. Rome annexed the rest of Numidia after the Berber client king died and civil war erupted. Rome now governed all of the coast from the Pillars of Heracles to Alexandria, and would later claim Egypt. Numidia consisted mostly of the eastern Tell and Tunisia. It included Carthage, Constantine, Soussa, Bouna, Tbessa and ruins like Lambaesis and Tamagudi. These sites are discussed further later.
 
 <!-- p. 43 --><a id="page-43"></a>
-
-Key
-
-- City/Town/Ruin
-- Oasis
-- Road/Trail
 
 #### Cyrenaica
 
@@ -2360,10 +2348,6 @@ Even within the harsh environment, places exist where water bubbles up from the 
 > Sandstorms and dust-storms may suffocate travelers or even strip the flesh from their bones. These may be natural, created by the magic of malevolent sorcerers or the manifestations of elemental jinn. Some may even be witches in disguise.
 >
 > Various other desert jinn and demons seek to harm unwary travelers. In some cases they may use powers that affect the mind or conjure illusions, presenting travelers with visions of lush, palm-filled oases where they may quench their thirsts. A character may only realize that she has been deceived when she takes her first long draught of water, only to find her mouth full of sand.
-
-- City/Town/Ruin
-- Oasis
-- Road/Trail
 
 Each of the regions of the Great Desert contains these terrains. There are the Fezzan, the Central Desert, the Tanezrouft Desert in the west, and the Ténéré Desert in the south. Some claim the Fezzan and Ténéré Deserts join with the fabled Nubian Desert, but most consider these to be the thirst-induced ravings of men driven mad by vicious *iinn*.
 
@@ -4573,6 +4557,12 @@ ReCo 5 (Base 2, +1 Eye, +1 Conc, +1 to affect both legs): Lesser Power (5 levels
 >
 > Stories are told of the existence of the Plinian races, although they rarely fulfill any specific role in those stories other than as a wonder to behold. Nevertheless, a storyguide might prefer to use some or all of the monstrous races presented here as faeries rather than Magic Humans. This is a simple process, as most Magic Qualities have analogs amongst the Faerie Virtues. Faerie Powers are calculated the same way as Magic Powers. Faerie monstrous races will mostly be Incognizant of their status.
 
+### Faerie Bouda
+
+In folklore, werehyenas have the following characteristics: larger than a normal size (Size +1 at least, Large), hairy and hunch-backed with hind legs shorter than forelimbs (Disfigure, Repellant and/or Hunchback) and glowing red eyes (Piercing Gaze).
+
+Many North African *jinn,* both Faerie and Infernal, have the ability to assume the form of a hyena and are often confused with magical *bouda*. Another form of the *bouda* is detailed below, a Dark Faerie creature found from Morocco to the Sudan that wears human shape during the day and reverts back to its hyena form at night. Although only narrowly cognizant, these Faerie *bouda* are intelligent and develop Pretenses to fit into the village societies they secretly plague, mimicking the magical *bouda*.
+
 #### Faerie Bouda (Werehyena)
 
 These nocturnal predators of North Africa are renowned as grave-robbers but assume the role of blacksmiths, healers or wizards during the day. Unlike many Faerie creatures they appear to suffer pain, fatigue and hunger like their human neighbors.
@@ -4641,12 +4631,6 @@ The Faerie Blood template reflects a character descended from a Faerie *bouda* o
 **Other Virtues and Flaws:** Entrancement, Puissant Guile, Skinchanger (hyena); Disfigured, Feral Scent
 
 **Appearance:** Hairless except for back, hunch-backed, always have red eyes
-
-### Faerie Bouda
-
-In folklore, werehyenas have the following characteristics: larger than a normal size (Size +1 at least, Large), hairy and hunch-backed with hind legs shorter than forelimbs (Disfigure, Repellant and/or Hunchback) and glowing red eyes (Piercing Gaze).
-
-Many North African *jinn,* both Faerie and Infernal, have the ability to assume the form of a hyena and are often confused with magical *bouda*. Another form of the *bouda* is detailed below, a Dark Faerie creature found from Morocco to the Sudan that wears human shape during the day and reverts back to its hyena form at night. Although only narrowly cognizant, these Faerie *bouda* are intelligent and develop Pretenses to fit into the village societies they secretly plague, mimicking the magical *bouda*.
 
 ### Folk Witch Bouda
 

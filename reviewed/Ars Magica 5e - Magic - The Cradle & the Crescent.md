@@ -19,7 +19,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0298
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -2569,61 +2569,15 @@ These creatures often live in groups like humans and mimic the behavior and cult
 
 Most of these Faerie-aligned jinn share the following Virtues and Flaws in addition to those noted earlier for all jinn: Eidolon, Loosely Material, Intangible Flesh, and Traditional Ward (Bismillah Invocation), or rarely, Sovereign Ward (Bismillah Invocation). These jinn commonly have powers associated with illusions, flight, shape changing (into animals, whirlwinds or other humans), and travel, rather than the elemental-themed powers of their Magic cousins. Many Faerie jinn suffer from the Minor Flaws Dutybound (Bedouin hospitality), Vulnerable to Brass, Vulnerable Magic (mua’addhin’s call) and/or Vulnerable to Folk Tradition. Unlike most other faeries, Faerie jinn possess True Names as noted earlier, even if they have a low Might Score.
 
+The minor Faerie jinn known as jann are highly dependent on human interaction and differ from their cousins in that they must have a physical form, although every janni can transform into at least one other shape, usually an animal. Such lesser Faerie jinn have the following Virtues and Flaws: Humanoid Form, Pass as Human, Dutybound (Bedouin hospitality), Restricted Might Recovery, Traditional Ward: Bismillah Invocation.
+
+Examples of Faerie jinn with details of some of the Virtues, Flaws and powers mentioned earlier include the Bottles of Suleiman, Faerie ghulas, Hesaan the racehorse, and the janni Mythic Companion-level character, Jumayl, detailed nearby.
+
+Faerie jinni counterparts to many European faeries exist within the Mythic Middle East and can be adapted for use in a saga set in the Mythic Middle East, see the Faerie Bestiary of *Realms of Power: Faeries*, [pages 70–83](#page-70), for further details.
+
 <!-- p. 66 --><a id="page-66"></a>
 
 <!-- p. 67 --><a id="page-67"></a>
-
-### Bali’ al-Ard, a Bedouin Racehorse
-
-Beloved by his master, a young Bedouin sahir named Salih al-Kamil, this jinni takes the form of an exceptional Arabian stallion renowned for his racing ability. His magical travel powers and lack of fatigue allow him to cheat during the dust and confusion of longer desert races. This gives his master great status and pride, feeding his need for Vitality, but is also the source of continual harassment from horse breeders wishing to mate their mares in the hope of producing talented offspring. As they are unaware of the Faerie nature of the horse, such suitors do not realize that time out at stud deprives his master of his magical aid and that such unions will always be unsuccessful in producing foals.
-
-#### Bali’ al-Ard
-
-Faerie Might: 5 (Animal)
-
-Characteristics: Int –2, Per 0, Pre +2, Com –4, Str +4, Sta +3, Dex +1, Qik +5 (racing)\*
-
-\* Denotes the specialty for Mythic Quickness.
-
-Size: +2
-
-Confidence Score: 1 (3)
-
-Virtues and Flaws: Jinni, Faerie Beast; Greater Power; Great Quickness x2, Improved Characteristics, Mythic Quickness (racing)\*, Personal Power x2, Reputation as Confidence; Curse of Venus, Greater Malediction (keep any bargain made); Proud (Minor), Incognizant, Traditional Ward (Bismillah Invocation), Tragic Intelligence (easily tricked)
-
-\* Although a Heroic Virtue, this Virtue is allowed, being integral to the Faerie racehorse concept.
-
-Qualities: Domesticated, Fast Runner, Herd Animal, Imposing Appearance x3
-
-Personality Traits: Proud +3, Loyal +2, Brave +1
-
-Reputations: Magnificent racehorse 3 (local)
-
-Combat:
-
-- Hooves: Init +6, Attack +3, Defense +4, Damage +5
-
-Soak: +3
-
-Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+)
-
-Pretenses: Arabic 5 (horses), Athletics 6 (racing), Awareness 3 (bad footing), Theology: Islam 1 (jinn)
-
-Powers:
-
-*Drinker of the Wind*, 1 points, Init +1, Animal; This power instantly transports ’ al-Ard from one location to another within seven leagues that he can see or has an Arcane Connection to. As *Seven League Stride* but as a non-Hermetic effect allows the rider to accompany him to fulfill his racehorse role. Greater Power, 30 spell levels, 2 Intricacy points spent on Initiative and 2 Intricacy points spent on reduced Might cost.
-
-*Immateriality*, 3 points, Init +2, Imaginem; Makes him immaterial until sunrise or nightfall. Personal Power, 40 spell levels, 1 Intricacy point spent on Initiative, and 1 Intricacy point spent on reduced Might cost
-
-Equipment: exceptional quality tack and harness, coppery gold horseshoes
-
-Vis: 1 pawn of Animal vis, copper horseshoe
-
-Appearance: Bali’ al-Ard (Arabic, “The Swallower of the Ground”), appears as a magnificent example of an Arabian stallion, a breed famed throughout the Mythic Middle East and even in far-off Europe.
-
-This jinni can only assume animal form although he is able to become immaterial. He is an example of a potential khadim (servant spirit) of a beginning unGifted sahir with only limited scores in the Solomonic Arts. See Chapter 3: The Order of Suleiman for more details of khadim and sahir.
-
-Bali is not balanced for use as a starting player character and is based on an Arabian racing horse — essentially a modified courser. Like all horses he gains a +3 to running rolls.
 
 > ### Bottles of Suleiman, Slaves of the King
 >
@@ -2682,11 +2636,57 @@ Bali is not balanced for use as a starting player character and is based on an A
 >
 > Bottles of Suleiman is not suitable as player characters due to their unbalanced power and their limited independent potential in stories. Only an exceptionally experienced sahira would be able to bind this powerful version as a spirit companion using the khadim bond, although lesser examples of this type of jinn may be attractive to younger sahira. This jinni is primarily inspired by the stories “The Fisherman and the Jinni” and “The City of Brass.”
 
-The minor Faerie jinn known as jann are highly dependent on human interaction and differ from their cousins in that they must have a physical form, although every janni can transform into at least one other shape, usually an animal. Such lesser Faerie jinn have the following Virtues and Flaws: Humanoid Form, Pass as Human, Dutybound (Bedouin hospitality), Restricted Might Recovery, Traditional Ward: Bismillah Invocation.
+### Bali’ al-Ard, a Bedouin Racehorse
 
-Examples of Faerie jinn with details of some of the Virtues, Flaws and powers mentioned earlier include the Bottles of Suleiman, Faerie ghulas, Hesaan the racehorse, and the janni Mythic Companion-level character, Jumayl, detailed nearby.
+Beloved by his master, a young Bedouin sahir named Salih al-Kamil, this jinni takes the form of an exceptional Arabian stallion renowned for his racing ability. His magical travel powers and lack of fatigue allow him to cheat during the dust and confusion of longer desert races. This gives his master great status and pride, feeding his need for Vitality, but is also the source of continual harassment from horse breeders wishing to mate their mares in the hope of producing talented offspring. As they are unaware of the Faerie nature of the horse, such suitors do not realize that time out at stud deprives his master of his magical aid and that such unions will always be unsuccessful in producing foals.
 
-Faerie jinni counterparts to many European faeries exist within the Mythic Middle East and can be adapted for use in a saga set in the Mythic Middle East, see the Faerie Bestiary of *Realms of Power: Faeries*, [pages 70–83](#page-70), for further details.
+#### Bali’ al-Ard
+
+Faerie Might: 5 (Animal)
+
+Characteristics: Int –2, Per 0, Pre +2, Com –4, Str +4, Sta +3, Dex +1, Qik +5 (racing)\*
+
+\* Denotes the specialty for Mythic Quickness.
+
+Size: +2
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: Jinni, Faerie Beast; Greater Power; Great Quickness x2, Improved Characteristics, Mythic Quickness (racing)\*, Personal Power x2, Reputation as Confidence; Curse of Venus, Greater Malediction (keep any bargain made); Proud (Minor), Incognizant, Traditional Ward (Bismillah Invocation), Tragic Intelligence (easily tricked)
+
+\* Although a Heroic Virtue, this Virtue is allowed, being integral to the Faerie racehorse concept.
+
+Qualities: Domesticated, Fast Runner, Herd Animal, Imposing Appearance x3
+
+Personality Traits: Proud +3, Loyal +2, Brave +1
+
+Reputations: Magnificent racehorse 3 (local)
+
+Combat:
+
+- Hooves: Init +6, Attack +3, Defense +4, Damage +5
+
+Soak: +3
+
+Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+)
+
+Pretenses: Arabic 5 (horses), Athletics 6 (racing), Awareness 3 (bad footing), Theology: Islam 1 (jinn)
+
+Powers:
+
+*Drinker of the Wind*, 1 points, Init +1, Animal; This power instantly transports ’ al-Ard from one location to another within seven leagues that he can see or has an Arcane Connection to. As *Seven League Stride* but as a non-Hermetic effect allows the rider to accompany him to fulfill his racehorse role. Greater Power, 30 spell levels, 2 Intricacy points spent on Initiative and 2 Intricacy points spent on reduced Might cost.
+
+*Immateriality*, 3 points, Init +2, Imaginem; Makes him immaterial until sunrise or nightfall. Personal Power, 40 spell levels, 1 Intricacy point spent on Initiative, and 1 Intricacy point spent on reduced Might cost
+
+Equipment: exceptional quality tack and harness, coppery gold horseshoes
+
+Vis: 1 pawn of Animal vis, copper horseshoe
+
+Appearance: Bali’ al-Ard (Arabic, “The Swallower of the Ground”), appears as a magnificent example of an Arabian stallion, a breed famed throughout the Mythic Middle East and even in far-off Europe.
+
+This jinni can only assume animal form although he is able to become immaterial. He is an example of a potential khadim (servant spirit) of a beginning unGifted sahir with only limited scores in the Solomonic Arts. See Chapter 3: The Order of Suleiman for more details of khadim and sahir.
+
+Bali is not balanced for use as a starting player character and is based on an Arabian racing horse — essentially a modified courser. Like all horses he gains a +3 to running rolls.
 
 #### Pre-Islamic Jinn
 
@@ -2938,6 +2938,8 @@ Ghulas are not designed as player characters. The version represented here diffe
 
 An Infernal ghul (fem., ghula, pl., ghuls or ghilan) is a degenerate jinni, a corrupt and cannibalistic creature of the night. They are believed to be descendants of a depraved tribe of primitive jinn given over to the Infernal. Solitary by nature, they haunt cemeteries, garbage pits and slums preying on the weak or feeding off carrion. Hideous to behold, they often disguise themselves in heavy robes as lost travelers, women in distress, or kindly dervishes to waylay travelers with the aid of their powers of deception and mimicry.
 
+All ghuls can assume the form of at least one scavenger native to their area, dog, hyena, jackal or vulture, and excel at assuming the forms of humans to conceal their debased nature. They disdain weapons and hunt and fight with claw like nails and jagged teeth. Folklore tells that many ghuls, if wounded with a weapon but not killed outright with a single blow, will be healed when struck a second blow, making them dangerous opponents for lone victims.
+
 <!-- p. 74 --><a id="page-74"></a>
 
 <!-- p. 73 --><a id="page-73"></a>
@@ -2984,7 +2986,25 @@ An Infernal ghul (fem., ghula, pl., ghuls or ghilan) is a degenerate jinni, a co
 >
 > You may wish to introduce into your saga a misguided Sufi tradition, made up of individuals who respect Iblis for his refusal to bow down to Adam, assuming that it was his love for Allah that motivated his decision not to bow to anyone but his God. Such heretical mystics could comprise a Misguided Infernal Tradition of unwitting diabolists similar to the Luciferans. The mystical powers of such Infernal Sufis could be reflected by the Favoured Abilities: Incantation, Effusion, Phantasm and Ceremony. (See *Realms of Power: The Infernal*, [pages 127–131](#page-127)). Posing as a holy man, a Dark Sufi may contact a Criamon character, seeking to lead the magus into corruption.
 
-All ghuls can assume the form of at least one scavenger native to their area, dog, hyena, jackal or vulture, and excel at assuming the forms of humans to conceal their debased nature. They disdain weapons and hunt and fight with claw like nails and jagged teeth. Folklore tells that many ghuls, if wounded with a weapon but not killed outright with a single blow, will be healed when struck a second blow, making them dangerous opponents for lone victims.
+### Qareen
+
+The Messenger of Allah said, ‘There is not one of you who does not have a jinni appointed to be his constant companion.’ They said, ‘And you too, O Messenger of Allah?’ He said, ‘Me too, but Allah has helped me and he has submitted, so that he only helps me to do good.’
+
+— Ibn Mas’ood
+
+And whosoever turns away blindly from the remembrance of the Most Gracious (Allah) (i.e., this *Qur’an* and adoration of Allah), We appoint for him a Shaitan (“Satan — devil — unruly — defiant”) to be a Qareen (a companion) to him.
+
+— *The Qur’an*
+
+*Qareen* is the Arabic name for a spirit believed to be assigned to an individual Muslim as a “constant companion” — a personal tempter, intent on enticing him to sin. According to the hadith, every human has a jinni appointed to accompany him through life and test him, tempting him away from the path of God. Considered part of the tribe of Shaitan, such qareen are dark Faerie creatures akin to the shedim demons of Judaism (*Realms of Power: Infernal*, [page 57](#page-57)). Most characters are unaware of their qareen, but some have more irksome companions reflected by possession of Major Story Flaw Plagued by Supernatural Entity (Qareen), or possible the Minor Story Flaw Faerie Friend. Most of these jinn are playful and mischievous rather than corrupting and provoke stories of temptation, reflection and forbearance. Nearly all qareen belong to the Faerie Realm, but some have become corrupted and have become aligned to the Infernal, transforming into true demons. There are no Divine or Magic Realm aligned qareen.
+
+<!-- p. 75 --><a id="page-75"></a>
+
+Each of these companion spirits has slightly different powers but shares the typical Weaknesses of jinn (detailed earlier). Examples of the powers of an Infernal qareen are given later — Faerie qareen have almost identical base powers, only a differing Realm alignment and motivation for testing their chosen victim. Unlike many other jinn, a qareen cannot assume physical form as they either lack the Coagulation power of most demons or the Donning the Corporeal Veil power common to many faeries.
+
+Some qareen have additional powers — the qareen that accompanied the ancient Arabian *kahin* (pre-Islamic “seers”) are believed to possess the following powers or their Faerie equivalents: *The Serpent’s Oracle, Trust of the Innocent* and *Forked Tongue of the Serpent* — powers normally attributed to the Spirits of Deceit (See *Realms of Power: The Infernal*, [page 38](#page-38)).
+
+A qareen is left powerless if its victim makes a concerted positive effort to throw off the malevolent jinni’s influence. This requires the spending of a point of Faith (perhaps a point of Faith acquired by repenting of the sins committed while influenced by the qareen). Confidence alone is not enough to shake off the influence of the companion shaitan, unlike the Jewish shedim. In effect a qareen is a special form of Infernal or Faerie genius loci with a locus linked to its assigned human companion allowing it to travel the world.
 
 > ### A Typical Demonic Qareen
 >
@@ -3015,26 +3035,6 @@ All ghuls can assume the form of at least one scavenger native to their area, do
 > The companion of a qareen cannot act directly against it without extreme provocation; it would be akin to attacking one’s own mother. The victim may be as angry as they like with the jinni, but actually physically opposing it requires a huge effort of will, and the expenditure of a Confidence point, which must be repeated every time the victim wants to renew his attacks.
 >
 > Appearance: A qareen is an incorporeal spirit, appearing to those with Second Sight or means to see the invisible as a pallid reflection of its chosen companion. To its victim, a qareen uses its powers to appear either pleasing or terrifying depending on its motivations and schemes. Unlike many other demons, it lacks the *Coagulation* power and cannot form a physical body.
-
-### Qareen
-
-The Messenger of Allah said, ‘There is not one of you who does not have a jinni appointed to be his constant companion.’ They said, ‘And you too, O Messenger of Allah?’ He said, ‘Me too, but Allah has helped me and he has submitted, so that he only helps me to do good.’
-
-— Ibn Mas’ood
-
-And whosoever turns away blindly from the remembrance of the Most Gracious (Allah) (i.e., this *Qur’an* and adoration of Allah), We appoint for him a Shaitan (“Satan — devil — unruly — defiant”) to be a Qareen (a companion) to him.
-
-— *The Qur’an*
-
-*Qareen* is the Arabic name for a spirit believed to be assigned to an individual Muslim as a “constant companion” — a personal tempter, intent on enticing him to sin. According to the hadith, every human has a jinni appointed to accompany him through life and test him, tempting him away from the path of God. Considered part of the tribe of Shaitan, such qareen are dark Faerie creatures akin to the shedim demons of Judaism (*Realms of Power: Infernal*, [page 57](#page-57)). Most characters are unaware of their qareen, but some have more irksome companions reflected by possession of Major Story Flaw Plagued by Supernatural Entity (Qareen), or possible the Minor Story Flaw Faerie Friend. Most of these jinn are playful and mischievous rather than corrupting and provoke stories of temptation, reflection and forbearance. Nearly all qareen belong to the Faerie Realm, but some have become corrupted and have become aligned to the Infernal, transforming into true demons. There are no Divine or Magic Realm aligned qareen.
-
-<!-- p. 75 --><a id="page-75"></a>
-
-Each of these companion spirits has slightly different powers but shares the typical Weaknesses of jinn (detailed earlier). Examples of the powers of an Infernal qareen are given later — Faerie qareen have almost identical base powers, only a differing Realm alignment and motivation for testing their chosen victim. Unlike many other jinn, a qareen cannot assume physical form as they either lack the Coagulation power of most demons or the Donning the Corporeal Veil power common to many faeries.
-
-Some qareen have additional powers — the qareen that accompanied the ancient Arabian *kahin* (pre-Islamic “seers”) are believed to possess the following powers or their Faerie equivalents: *The Serpent’s Oracle, Trust of the Innocent* and *Forked Tongue of the Serpent* — powers normally attributed to the Spirits of Deceit (See *Realms of Power: The Infernal*, [page 38](#page-38)).
-
-A qareen is left powerless if its victim makes a concerted positive effort to throw off the malevolent jinni’s influence. This requires the spending of a point of Faith (perhaps a point of Faith acquired by repenting of the sins committed while influenced by the qareen). Confidence alone is not enough to shake off the influence of the companion shaitan, unlike the Jewish shedim. In effect a qareen is a special form of Infernal or Faerie genius loci with a locus linked to its assigned human companion allowing it to travel the world.
 
 > ### Story Seed: A Pious Companion?
 >
@@ -4264,14 +4264,6 @@ Much of the peninsula is dotted with oases, around which villages and towns have
 
 The inhabitants of Arabia consist of a mixture of settled townsfolk, many of whom cultivate crops for a living, and Bedouin nomads who wander with their families and flocks, trading with the townsfolk or working as guides and caravan guards on the network of trade and pilgrimage routes that cross the area. Periodically tensions flare up between townsfolk and nomads, but for the most part relations are peaceful. One influential factor here is the religion of Islam, which most people follow in one form or another, although there are also many Christians and Jews living throughout the region.
 
-**Map Key**
-
-- City / Town
-- Mythic Site
-- Realm Border
-- Mountains
-- Desert
-
 <!-- p. 103 --><a id="page-103"></a>
 
 The inhabited parts of Arabia are generally ruled by local dynasties, most of whom owe nominal allegiance to the Abbasid caliph of Baghdad. The Hijaz, ‘Asir, and Yemen are divided between members of the Ayyubid family ((ay-YOO-bids), the family of Salah al-Din (Saladin)), with the Hijaz falling under the nominal control of the sultan of Egypt (al-Kamil Muhammad, r. 1218–38), while ‘Asir and Yemen are controlled more directly by the sultan of Yemen (al-Mas’ud Yusuf, r. 1215–1229).
@@ -4361,6 +4353,8 @@ Bedouin characters may have Personality Traits or Personality Flaws that reflect
 
 Many Faerie jinn mimic aspects of Bedouin culture, particularly the less powerful creatures referred to as jann. Most of the nomadic tribes have jinnblooded elders, are advised by wandering sahir viziers accompanied by powerful ‘afrit or marid servants, and count families of true Faerie jann among their blood kinsmen. Such jinn most often take the shapes of animals beloved of the tribes: camels, falcons, saluqi hounds, or the noble Arabian horses. The ancient Jurhumite tribe, former rulers of Mecca in pre-Islamic times, contains only dark Faerie jann-blooded members and still refuses to submit to Islam. Several other tribes from the ancient times are believed to live on in Bedouin memory as clans of Faerie jinn, such as the Jadis, the tribe of Tasm and the Thamudites
 
+Regardless of whether he is human or jinn, Muslim or pagan, a member of a Bedouin clan owes absolute loyalty to his clan first, his family second.
+
 <!-- p. 105 --><a id="page-105"></a>
 
 > ### Saluqi
@@ -4404,8 +4398,6 @@ Many Faerie jinn mimic aspects of Bedouin culture, particularly the less powerfu
 > A group of magi or sahirs wishing to settle a pair of uniquely shaped rock outcrops in a remote Magic aura inadvertently offend the local Bedouin tribe, who consider the stones ‘ashiras and thus part of their tribe. Their legends tell of two giants, Aja and Salma, banished lovers who dwelt for five hundred years at the site, slowly transforming into the vaguely human-shaped stone sentinels of today. The tribe fears that the wizards will awaken the spirits of the ossified giants or draw the attention of the dark Faerie and Infernal jinn that haunt the outcrops at night.
 >
 > To settle in the area or access vis from the site, the characters must not only deal with the representatives of the local tribe, but also the evil jinn that haunt it. Frequent magical activity may awaken the sleeping giants, who may not respond favorably to the interlopers depending on whether they are elementals, demons, pre-Islamic jinn or even cursed humans.
-
-Regardless of whether he is human or jinn, Muslim or pagan, a member of a Bedouin clan owes absolute loyalty to his clan first, his family second.
 
 #### Bedouin Wizards
 
@@ -4533,6 +4525,38 @@ Non-Muslims are not permitted to come within the *harams* ((HA-ramz); sing. *har
 
 <!-- p. 110 --><a id="page-110"></a>
 
+> ### Map Key: Medina
+>
+> - 1. Mosque of the Prophet
+> - 2. Houses of ‘Umar and Abu Bakr
+> - 3. Mosque of Abu Bakr
+> - 4. Mosque of Quba’
+> - 5. Battlefield of Uhud
+> - 6. Cemetery of al-Gharqad
+
+> ### Map Key: Mosque of the Prophet
+>
+> - 1. Tomb of the Prophet
+> - 2. Tomb of Fatima
+> - 3. Gate of Gabriel
+> - 4. Gate of the Women
+> - 5. Mihrab
+> - 6. Women’s Prayer Place
+> - 7. Gate of al-Majidi
+> - 8. Gate of Mercy
+> - 9. Gate of Peace
+> - 10. Minbar
+> - 11. Rawda
+> - 12. Prophet’s Mihrab
+> - 13. Mihrab of ‘Uthman
+> - 14. Tomb of ‘Umar
+> - 15. Tunnel to House of Abu Bakr
+> - 16. Tomb of Abu Bakr
+> - 17. Platforms
+> - 18. Well
+> - 19. Fatima’s Orchard
+> - 20. Courtyard
+
 Whatever approach you take, a visit to the holy cities, for a Muslim or a non-Muslim, should be an intensely religious experience. These are, after all, cities where God intervened directly and frequently in human affairs, and such concentrated divine attention has left a legacy of holiness that affects all who visit. As one result of this, the harams bear Dominion auras of 3, and the Dominion auras in the cities themselves are usually 4 and often even higher. Fighting and the taking of life (except slaughtering animals for food or destruction of savage or diseased animals) is forbidden in the haram areas of the two holy cities. Unless otherwise noted, all Muslim Dominion auras within these areas bear a Calm Temper Trait at a score of +3 (see *Realms of Power: The Divine*, [pages 38-39](#page-38)). Transgressors may be struck down with a visible manifestation of God’s ire, even for minor infringements — reports of impious travelers provoking instances of the Curses *Ignis Domini, Smiting of the Lord*, or *Swallowed Alive and Sent to Hell* are well-known, albeit rare (see *Realms of Power: The Divine*, [page 89](#page-89)).
 
 ### Medina
@@ -4540,38 +4564,6 @@ Whatever approach you take, a visit to the holy cities, for a Muslim or a non-Mu
 Medina, *Madinat al-Nabi* ((ma-DEE-nat un-NA-bee), “the City of the Prophet”), is the second holy city of Islam and is situated on a flat plain cradled between several mountains and ancient lava flows, the junction of a number of valleys and passes through the mountains. The soil is unusually fertile, and a variety of fruits and cereals are grown here. The city is surrounded by strong walls with watchtowers built by the sultan of Syria, Nur al-Din (r. 1146–1174), in 1162. The governor currently owes allegiance to the sultan of Egypt, although the city is largely left to run its own affairs. The city has traditionally been home to a large number of religious scholars; the famous jurist Malik ibn Anas (d. 795), who founded the major Sunni school of law that became known as the school of the Malikis ((MEH-li-keez), “the followers of Malik”), is one of those who lived and worked here.
 
 Dominion auras in Medina are one point higher than they would be elsewhere, and the city is the site of numerous mosques, shrines, and other historical sites.
-
-**Medina**
-
-- 1. Mosque of the Prophet
-- 2. Houses of ‘Umar and Abu Bakr
-- 3. Mosque of Abu Bakr
-- 4. Mosque of Quba’
-- 5. Battlefield of Uhud
-- 6. Cemetery of al-Gharqad
-
-**Mosque of the Prophet**
-
-- 1. Tomb of the Prophet
-- 2. Tomb of Fatima
-- 3. Gate of Gabriel
-- 4. Gate of the Women
-- 5. Mihrab
-- 6. Women’s Prayer Place
-- 7. Gate of al-Majidi
-- 8. Gate of Mercy
-- 9. Gate of Peace
-- 10. Minbar
-- 11. Rawda
-- 12. Prophet’s Mihrab
-- 13. Mihrab of ‘Uthman
-- 14. Tomb of ‘Umar
-- 15. Tunnel to House of Abu Bakr
-- 16. Tomb of Abu Bakr
-- 17. Platforms
-- 18. Well
-- 19. Fatima’s Orchard
-- 20. Courtyard
 
 <!-- p. 111 --><a id="page-111"></a>
 
@@ -4649,35 +4641,33 @@ On the northern edge of Mecca is the cemetery of al-Ma’la, where many of the P
 
 The mosque has since become the apparent center of jinn worship of God, and they continue to gather publicly at this place, so that at prayer times, and especially at the Friday noon prayer, it bustles with Faerie jinn of all manner of shapes and sizes. Even the mosque officials are undisguised jinn.
 
-Unspoken convention requires that all jinn attending prayers avoid assuming forms that are too monstrous or so large as
+Unspoken convention requires that all jinn attending prayers avoid assuming forms that are too monstrous or so large as to take up too much space in the mosque. A few humans also attend prayers at the mosque, interacting freely with its supernatural inhabitants. Respectful mortals, including sahirs and other wizards, are always welcomed, if sometimes a bit overenthusiastically. The mosque has a Faerie Aura of 4 which rises to 5 when the jinn are attending prayers.
 
 <!-- p. 113 --><a id="page-113"></a>
 
-to take up too much space in the mosque. A few humans also attend prayers at the mosque, interacting freely with its supernatural inhabitants. Respectful mortals, including sahirs and other wizards, are always welcomed, if sometimes a bit overenthusiastically. The mosque has a Faerie Aura of 4 which rises to 5 when the jinn are attending prayers.
+> ### Map Key: Mecca
+>
+> - 1. Mosque of the Haram and Ka’ba
+> - 2. Grave of Abu Lahab
+> - 3. Graveyard
+> - 4. Palace of the Sharifs
+> - 5. Path of Thorns
+> - 6. Al-Marwa
+> - 7. Al-Safa
+> - 8. Al-Ma’la Cemetery and Mosque of the Jinn
+> - M - Market
+> - ◉ - Fortification
 
-**Mecca**
-
-- 1. Mosque of the Haram and Ka’ba
-- 2. Grave of Abu Lahab
-- 3. Graveyard
-- 4. Palace of the Sharifs
-- 5. Path of Thorns
-- 6. Al-Marwa
-- 7. Al-Safa
-- 8. Al-Ma’la Cemetery and Mosque of the Jinn
-- M - Market
-- ◉ - Fortification
-
-**Mosque of the Haram, 1220**
-
-- 1. Ka’ba
-- 2. Hatim/Hijr Isma’il
-- 3. Maqam Ibrahim
-- 4. Zamzam Enclosure
-- 5. Gate of the Banu Shayba
-- 6. Colonnaded Arcades
-- 7. House of Maliki Jurisprudents
-- 8. Dar al-Nadwa (House of Counsel)
+> ### Map Key: Mosque of the Haram, 1220
+>
+> - 1. Ka’ba
+> - 2. Hatim/Hijr Isma’il
+> - 3. Maqam Ibrahim
+> - 4. Zamzam Enclosure
+> - 5. Gate of the Banu Shayba
+> - 6. Colonnaded Arcades
+> - 7. House of Maliki Jurisprudents
+> - 8. Dar al-Nadwa (House of Counsel)
 
 ### Ta’if
 
@@ -4947,18 +4937,11 @@ The terrain of this region is divided broadly into three zones. In Iraq and much
 
 Most of the inhabitants of these regions are Muslims, although there are also significant populations of Christians and Jews. The majority of people live in the cities, towns, and villages that cover the area, but the desert areas are home to a mix of wandering nomads and settled communities at oases.
 
-**Map Key**
-
-- City / Town
-- Mythic Site
-- Realm Border
-- Mountains
-- River
-- Swamp
-
-1. Dayr ‘Aqul
-2. Dayr Qunna
-3. Dayr Hizqil
+> ### Map Key: Mesopotamia
+>
+> 1. Dayr ‘Aqul
+> 2. Dayr Qunna
+> 3. Dayr Hizqil
 
 #### Aladlammu and Apsasu
 
@@ -5209,44 +5192,44 @@ However, Baghdad has declined greatly since the old days. Repeated fires, floods
 
 Every summer, many of the streets and most of the open land on the south side of Baghdad fills with stalls and tents in an enormous fair. This event is well-attended by merchants and travelers from all over the Mythic Middle East, and typically lasts most of the season. It is said that all manner of goods and services may be found at this event, including unique items and entertainments brought by strange men from fantastic lands. Visitors are cautioned to maintain a clear idea of what they seek before they go exploring, for there are said to be many vendors who appear only when their wares are especially desired, or who lure unwary travelers into their tents where they disappear forever. The summer bazaar is the site of the yearly meeting of the Suhhar Sulayman (Chapter 3: Order of Suleiman: The Majlis al-Suleiman).
 
-**Baghdad**
-
-1. Tomb & Mosque of Abu Hanifa
-2. Rusafa Mosque
-3. Palace of al-Mahdi
-4. Bab al-Sham (Syrian Gate)
-5. Bab al-Khurasan (Khurasan Gate)
-6. Dar al-Mamlaka Palace
-7. Mosque of the Sultan
-8. Al-Khuld Palace
-9. Bab al-Dhahab Palace & Mosque
-10. Bab al-Zafariyya (Zafariyya Gate)
-11. Bab al-Sultan (Gate of the Sultan)
-12. Bab al-Kufa (Kufa Gate)
-13. Bab al-Basra (Basra Gate)
-14. Al-Mustansiriyya Religious College
-15. Al-Thalatha’ Market
-16. Al-Nizamiyya Religious College
-17. Mosque of the Caliphs
-18. Bab al-Halaba (Halaba Gate)
-19. Old Bridge
-20. Caliph’s Palace
-21. New Bridge
-22. Bab al-Basaliyya (Basaliyya Gate)
-
-- A: Shammasiyya Quarter
-- B: Abu Hanifa Quarter
-- C: Al-Harbiyya Quarter
-- D: Rusafa Quarter
-- E: Bab al-Basra Quarter
-- F: Mukharrim Quarter
-- G: Karkh Quarter
-- H: Zafariyya Quarter
-- I: Nahr al-Mus’alla Quarter
-- J: Qurayya Quarter
-- K: Al-Ma’muniyya Quarter
-- L: Bab al-’Azaj Quarter
-- M: The Round City
+> ### Map Key: Baghdad
+>
+> 1. Tomb & Mosque of Abu Hanifa
+> 2. Rusafa Mosque
+> 3. Palace of al-Mahdi
+> 4. Bab al-Sham (Syrian Gate)
+> 5. Bab al-Khurasan (Khurasan Gate)
+> 6. Dar al-Mamlaka Palace
+> 7. Mosque of the Sultan
+> 8. Al-Khuld Palace
+> 9. Bab al-Dhahab Palace & Mosque
+> 10. Bab al-Zafariyya (Zafariyya Gate)
+> 11. Bab al-Sultan (Gate of the Sultan)
+> 12. Bab al-Kufa (Kufa Gate)
+> 13. Bab al-Basra (Basra Gate)
+> 14. Al-Mustansiriyya Religious College
+> 15. Al-Thalatha’ Market
+> 16. Al-Nizamiyya Religious College
+> 17. Mosque of the Caliphs
+> 18. Bab al-Halaba (Halaba Gate)
+> 19. Old Bridge
+> 20. Caliph’s Palace
+> 21. New Bridge
+> 22. Bab al-Basaliyya (Basaliyya Gate)
+>
+> - A: Shammasiyya Quarter
+> - B: Abu Hanifa Quarter
+> - C: Al-Harbiyya Quarter
+> - D: Rusafa Quarter
+> - E: Bab al-Basra Quarter
+> - F: Mukharrim Quarter
+> - G: Karkh Quarter
+> - H: Zafariyya Quarter
+> - I: Nahr al-Mus’alla Quarter
+> - J: Qurayya Quarter
+> - K: Al-Ma’muniyya Quarter
+> - L: Bab al-’Azaj Quarter
+> - M: The Round City
 
 #### The Dar al-Hikma
 
@@ -5768,33 +5751,25 @@ Persia stretches from the Tigris River in the west to the Oxus River in the nort
 
 Persians are linguistically and ethnically different from the Arabs to the west. The majority of the population is found outside the great cities. Most are tenants, sharing their crops with their landlords, who tend to live in the towns. The low rainfall for most of the region results in a reliance on irrigation, through the use of underground water channels called *qanats*, which require constant and skilled maintenance. A significant minority of the population is nomadic or semi-nomadic; principally the Lurs of the Zagros mountains and the Ghuzz of Khurasan. Most of the provinces are ruled by a dynasty of Seljuk Turks who have sworn loyalty to the current shah; these rulers are either *atabegs* or *mamluks*. The atabegs were originally provincial governors who were tutors of Seljuk princes, but by the 13th century are semi-autonomous princes in their own right. The mamluks are raised as slave-soldiers to be utterly loyal to their masters, and placed in territories as direct subordinates of the sultan.
 
-Map Key:
-
-- City / Town
-- Mythic Site
-- Realm Border
-- Mountains
-- River
-- Desert
-- Oasis
-
-Mazandaran:
-
-- a Gilan
-- b Daylam
-- c Tabaristan
-- d Gurgan
-
-e Qumis
-
-f Khuzistan
-
-1. Lamasar
-2. Alamut
-3. Qazvin
-4. Maimun Diz
-5. Rayy
-6. Mt. Damavand
+> ### Map Key: Persia
+>
+> Mazandaran:
+>
+> - a Gilan
+> - b Daylam
+> - c Tabaristan
+> - d Gurgan
+>
+> e Qumis
+>
+> f Khuzistan
+>
+> 1. Lamasar
+> 2. Alamut
+> 3. Qazvin
+> 4. Maimun Diz
+> 5. Rayy
+> 6. Mt. Damavand
 
 <!-- p. 141 --><a id="page-141"></a>
 
@@ -6823,22 +6798,15 @@ Invaded by the triumphant Arabs under Qutayba in the seventh century, Transoxian
 
 The region has a history of loose pastoralist domination and local dynasties centered on riverine oases. No single authority has ruled the borderlands between the pastoralist nomads and the urban settlers since the ancient Turk Empire, although this is about to change as a new nomad empire descends from the east.
 
-**Map Key**
-
-- City / Town
-- Mythic Site
-- Realm Border
-- Mountains
-- River
-- Desert
-
-Regions on the map:
-
-- a: Khwarazm
-- b: Sogdiana
-- c: Farghana
-- d: Bactria
-- e: Badakhshan
+> ### Map Key: Transoxiana and the East
+>
+> Regions on the map:
+>
+> - a: Khwarazm
+> - b: Sogdiana
+> - c: Farghana
+> - d: Bactria
+> - e: Badakhshan
 
 ### The Great Rivers
 

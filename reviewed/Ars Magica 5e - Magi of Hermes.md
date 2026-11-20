@@ -21,7 +21,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0292
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -3740,10 +3740,6 @@ This spell makes every bee in the hive passive for a day. This means that the gr
 
 Waste removal in the covenant involves a combination of three enchantments. The first was to design the covenant so that every bed chamber had its own private privy, with a long shaft that leads down into a room on the ground floor. The shafts are kept clean by the water vines; every time a grog or magus uses his privy, he just activates the vines and water rushes down the shaft, carrying the waste with it to the bottom chamber. The liquid is then reabsorbed into the earth and tree, while the rest of the waste is dealt with by a large enchanted stone circle that surrounds the walls of the room where the waste is disposed of. The enchanted ring has a constant effect upon it, which lets it continue to mix the dirt, waste, and plant matter over and over again throughout the night. Nature takes its course, and within a few weeks to a month the room is full of natural fertilizer. Grogs are then sent down there every now and then to add fresh dirt or remove some of the compost for use or trade with the surrounding farms.
 
-> ### Enchanting Giant Plants
->
-> A magus cannot enchant something that does not fit in his laboratory. Gwidion can get around this with his plants by enchanting them while they are young and small, and then using magic to make them much larger once the enchantment is complete. In many cases, the magic to make the plants large is part of the enchantment. In others, it is allowed for in the initial enchantment, so that it does not count as damage to the item.
-
 Vis spent to open: 16
 
 ##### Mixed Compost
@@ -3754,6 +3750,10 @@ R: Touch, D: Sun, T: Circle<br>
 This effect to mixes the dirt, waste, and plant material at night until it becomes natural compost. The compost is then removed during the day and fresh dirt is added.
 
 (Base 5, +1 Touch, +2 Sun, +2 Circle, +1 Corpus Requisite, +1 Herbam Requisite, +3 lvls environmental trigger (sunset).)
+
+> ### Enchanting Giant Plants
+>
+> A magus cannot enchant something that does not fit in his laboratory. Gwidion can get around this with his plants by enchanting them while they are young and small, and then using magic to make them much larger once the enchantment is complete. In many cases, the magic to make the plants large is part of the enchantment. In others, it is allowed for in the initial enchantment, so that it does not count as damage to the item.
 
 ### Rings of Basketed Transport
 
@@ -8045,6 +8045,57 @@ Appearance: Now looking like a man in his mid-fifties, with his twisted and boun
 
 Activities in the last 15 years: Much of Petalichus’ time during this period was spent crafting his numerologist’s book, copies of which he supplied to the Cononites cult. His ambitious nature also asserted itself and he created a number of items with overtly offensive aims. As Petalichus approached his seventieth year, he finally bested his age-old enemy Solar Magnus while both were scouring Canterbury for an ancient text. His future is uncertain from this point onward, though his friends within the Cononites may exploit their connections and influence in his defense.
 
+#### Familiar: Idmon the Spider
+
+Characteristics: Int –3, Per –2, Pre –5, Com –6, Str –10, Sta +1, Dex +3, Qik +4
+
+Magic Might: 10 (Animal)
+
+Size: –6
+
+Natural Qualities: Ambush Predator, Grapple, Loathsome Appearance, Venomous
+
+Virtues and Flaws: True Friend (Petalichus), Piercing Gaze; Envious (Minor)
+
+Personality Traits: Sinister +2, Loyal (Petalichus) +3
+
+Reputations: None
+
+Combat:
+- Dodge: Init +4, Attack N/A, Defense +7, Damage N/A
+- Teeth: Init +4, Attack +10, Defense +9, Damage –9
+- Grapple: Init +4, Attack +6, Defense +7, Damage N/A
+
+Soak: +1
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5)
+
+Abilities: Awareness 4 (prey), Brawl 3 (teeth), Climb 5 (webs), Hunt 4 (insects), Greek 5 (magical terms), Latin 4 (Hermetic usage), Penetration 4 (Mentem), Stealth 4 (stalking), Survival 3 (home area), Weaver 5 (webs)
+
+Powers:
+
+*Panic of the Trembling Heart* (CrMe 15) 2 points, Init +3
+
+*Weaver’s Trap of Webs* (CrAn 35) 4 points, Init +1
+
+Vis: 1 pawn of Rego in its legs.
+
+Gold Cord: 2, Silver Cord: 1, Bronze Cord: 2
+
+Bond Powers:
+
+*Mental Communication*, as per the level 15 effect in [**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#levels>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#levels>). This effect works on both Idmon and Petalichus.
+
+*Shared Senses*, as per the level 30 effect in [**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#levels>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#levels>). Only Idmon’s senses are shared with Petalichus.
+
+Appearance: Idmon is an unnaturally large, fragile-looking spider with long, angular legs jutting out from a smooth armored body. Idmon’s many eyes glitter and they reflect the bright patterns that cover its carapace.
+
+Petalichus named his familiar Idmon after the father of Arachne, but if the spider has a true name it has not yet revealed it even to Petalichus. Idmon often travels with Petalichus, but is aware of his physical limitations so prefers to remain close to his master. However, on many occasions the magus sends his familiar out into the night to find and retrieve an Arcane Connection to a new target.
+
+Petalichus found his familiar somewhat late in life, when he was into his mid-fifties.
+
 ## New Spells
 
 Petalichus has developed these spells.
@@ -8259,57 +8310,6 @@ As the spell listed in [**ArM5**, page 155](<Ars Magica 5e - Core Rules.md#spell
 MuMe 4<br>
 R: Eye, D: Sun, T: Ind<br>
 As the spell listed in [**ArM5**, page 149](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
-
-#### Familiar: Idmon the Spider
-
-Characteristics: Int –3, Per –2, Pre –5, Com –6, Str –10, Sta +1, Dex +3, Qik +4
-
-Magic Might: 10 (Animal)
-
-Size: –6
-
-Natural Qualities: Ambush Predator, Grapple, Loathsome Appearance, Venomous
-
-Virtues and Flaws: True Friend (Petalichus), Piercing Gaze; Envious (Minor)
-
-Personality Traits: Sinister +2, Loyal (Petalichus) +3
-
-Reputations: None
-
-Combat:
-- Dodge: Init +4, Attack N/A, Defense +7, Damage N/A
-- Teeth: Init +4, Attack +10, Defense +9, Damage –9
-- Grapple: Init +4, Attack +6, Defense +7, Damage N/A
-
-Soak: +1
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5)
-
-Abilities: Awareness 4 (prey), Brawl 3 (teeth), Climb 5 (webs), Hunt 4 (insects), Greek 5 (magical terms), Latin 4 (Hermetic usage), Penetration 4 (Mentem), Stealth 4 (stalking), Survival 3 (home area), Weaver 5 (webs)
-
-Powers:
-
-*Panic of the Trembling Heart* (CrMe 15) 2 points, Init +3
-
-*Weaver’s Trap of Webs* (CrAn 35) 4 points, Init +1
-
-Vis: 1 pawn of Rego in its legs.
-
-Gold Cord: 2, Silver Cord: 1, Bronze Cord: 2
-
-Bond Powers:
-
-*Mental Communication*, as per the level 15 effect in [**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#levels>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#levels>). This effect works on both Idmon and Petalichus.
-
-*Shared Senses*, as per the level 30 effect in [**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#levels>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#levels>). Only Idmon’s senses are shared with Petalichus.
-
-Appearance: Idmon is an unnaturally large, fragile-looking spider with long, angular legs jutting out from a smooth armored body. Idmon’s many eyes glitter and they reflect the bright patterns that cover its carapace.
-
-Petalichus named his familiar Idmon after the father of Arachne, but if the spider has a true name it has not yet revealed it even to Petalichus. Idmon often travels with Petalichus, but is aware of his physical limitations so prefers to remain close to his master. However, on many occasions the magus sends his familiar out into the night to find and retrieve an Arcane Connection to a new target.
-
-Petalichus found his familiar somewhat late in life, when he was into his mid-fifties.
 
 ## Enchanted Items
 
@@ -9752,6 +9752,89 @@ Activities in the last 15 years: He spends eight seasons inventing new spells, 1
 > - Scipio instructs his second apprentice in some of his new silly spells, but the young one uses them to embarrass a mundane lord in front of his men. Scipio seeks out other magi who can deal with this, as he’s afraid solving the problem on his own would bring him to the Quaesitores’ attention.
 > - His *Image of the Lady* spell becomes highly sought after by many covenants. The players’ covenant still has none, so they’ll need to find this notorious artist to get their hands on some of his useful creations.
 
+#### Familiar: Felix the Lucky Fox
+
+Magic Might: 10 (Imaginem)
+
+Characteristics: Int +2, Per 0, Pre +2, Com +3, Str –3, Sta 0, Dex +2, Qik +4
+
+Size: –2
+
+Age: n/a
+
+Confidence Score: 2 (5)
+
+Virtues and Flaws: Magic Animal; Magical Friend; Great Quickness, Luck, Perfect Balance, Puissant Guile, Self-Confident, Well-Traveled; Wanderlust, Greedy (minor), Nocturnal
+
+Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x3), Lesser Power, Personal Power; Reduced Attack
+
+Personality Traits: Fox +3, Wanderlust +5, Greedy +3, Carefree +2
+
+Combat:
+- Bite: Init +4, Attack +5, Defense +7, Damage –2
+
+Soak: 0
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10–12), Dead (13+)
+
+Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 1 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 5+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 2 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
+
+Bond Scores: Bronze +1, Silver +2, Gold +2
+
+Powers:
+
+*Perfect Liar*, 4 points, Init +1, Corpus:<br>
+(R: Voice, D: Sun, T: Group) Felix grants himself or someone else a +3 bonus on all Guile rolls. MuCo 20 (base 2, +2 Voice, +2 Sun, +2 Group): Lesser Power (20 levels, +1 Init)
+
+*Grant Luck*, 5 points, Init –6, Imaginem:<br>
+(R: Touch, D: Mom, T: Ind, Ritual) Felix gives some of his luck to the target, granting him the Luck Virtue. No Hermetic equivalent: Ritual Power
+
+*Human Form*, 1 point, Init +2, Corpus:<br>
+(R: Per, D: Sun, T: Ind) Gives the fox the body of a human. MuCo 20 (base 10, +2 Sun): Personal Power (20 levels, –1 Might cost)
+
+Familiar Powers: none
+
+Vis: 2 pawns of Imaginem vis located in his twisted tail.
+
+Appearance: A small red fox with an exceptionally long, twisted tail. When he transforms into a human he speaks with a smooth voice, has red hair with a red beard, green eyes, and normal stature.
+
+Felix stepped into this world with an intense urge to wander, visit the humans, and take part in their lives. In the great city of Paris he improved his skill at lying, gambling, and thieving, and felt as though he was now perfect. But the time away from his Magic aura weakened his powers, and he also attracted some demons who wanted to make him a member of their realm. But luckily Scipio (30 years out of his Gauntlet) found him before he was lured away, saving him from losing more of his powers and becoming Infernal. After this, both traveled to many countries, adventuring and getting into a great deal of trouble that they both survived thanks to their immense luck.
+
+#### Felix +15 Years
+
+Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x4), Lesser Power, Personal Power; Reduced Attack
+
+Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 5+2 (5) (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 4 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
+
+#### Felix +30 Years
+
+Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x5), Lesser Power, Personal Power (2x); Reduced Attack
+
+Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 6+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 5 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
+
+Powers:
+
+*Sight Beyond Sight*, 1 point, Animal:<br>
+(R: Per, D: Conc, T: Vision): All five senses operate at a distance, as far as he can see. This gives him supernatural awareness of everything that occurs, and it is exceptionally difficult to catch him by surprise, InIm 30 (base 5, +1 Conc, +4 Vision): Personal Power x 2 (20 levels, –2 Might cost, +2 Init)
+
+Familiar Powers: Shared Senses
+
+#### Felix +45 Years
+
+Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x6), Lesser Power, Personal Power (2x); Reduced Attack
+
+Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 4 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 6+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 4 (forest), Magic Theory 5 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
+
+Bond Scores: Bronze +1, Silver +3, Gold +3
+
+#### Felix +60 Years
+
+Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x8), Lesser Power, Personal Power (2x); Reduced Attack
+
+Abilities: Athletics 4 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 4 (drinking), Charm 3 (first impressions), Folk Ken 4 (peasants), Guile 7+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 4 (picking pockets), Magical Lore 4 (forest), Magic Theory 6 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
+
 ## New Spells
 
 Scipio has developed these spells.
@@ -10010,89 +10093,6 @@ R: Voice, D: Concentration, T: Individual<br>
 The target’s body is shaken by loud, uncontrollable laughter that makes normal breathing or acting nearly impossible. Every round the target must make a Stamina roll against an Ease Factor of 6, or lose a Fatigue level. If this spell lasts longer than one hour, the target may suffer from an imbalance of his sanguine humor, causing the symptoms of a disease.
 
 (Base 15, +2 Voice, +1 Concentration)
-
-#### Familiar: Felix the Lucky Fox
-
-Magic Might: 10 (Imaginem)
-
-Characteristics: Int +2, Per 0, Pre +2, Com +3, Str –3, Sta 0, Dex +2, Qik +4
-
-Size: –2
-
-Age: n/a
-
-Confidence Score: 2 (5)
-
-Virtues and Flaws: Magic Animal; Magical Friend; Great Quickness, Luck, Perfect Balance, Puissant Guile, Self-Confident, Well-Traveled; Wanderlust, Greedy (minor), Nocturnal
-
-Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x3), Lesser Power, Personal Power; Reduced Attack
-
-Personality Traits: Fox +3, Wanderlust +5, Greedy +3, Carefree +2
-
-Combat:
-- Bite: Init +4, Attack +5, Defense +7, Damage –2
-
-Soak: 0
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10–12), Dead (13+)
-
-Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 1 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 5+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 2 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
-
-Bond Scores: Bronze +1, Silver +2, Gold +2
-
-Powers:
-
-*Perfect Liar*, 4 points, Init +1, Corpus:<br>
-(R: Voice, D: Sun, T: Group) Felix grants himself or someone else a +3 bonus on all Guile rolls. MuCo 20 (base 2, +2 Voice, +2 Sun, +2 Group): Lesser Power (20 levels, +1 Init)
-
-*Grant Luck*, 5 points, Init –6, Imaginem:<br>
-(R: Touch, D: Mom, T: Ind, Ritual) Felix gives some of his luck to the target, granting him the Luck Virtue. No Hermetic equivalent: Ritual Power
-
-*Human Form*, 1 point, Init +2, Corpus:<br>
-(R: Per, D: Sun, T: Ind) Gives the fox the body of a human. MuCo 20 (base 10, +2 Sun): Personal Power (20 levels, –1 Might cost)
-
-Familiar Powers: none
-
-Vis: 2 pawns of Imaginem vis located in his twisted tail.
-
-Appearance: A small red fox with an exceptionally long, twisted tail. When he transforms into a human he speaks with a smooth voice, has red hair with a red beard, green eyes, and normal stature.
-
-Felix stepped into this world with an intense urge to wander, visit the humans, and take part in their lives. In the great city of Paris he improved his skill at lying, gambling, and thieving, and felt as though he was now perfect. But the time away from his Magic aura weakened his powers, and he also attracted some demons who wanted to make him a member of their realm. But luckily Scipio (30 years out of his Gauntlet) found him before he was lured away, saving him from losing more of his powers and becoming Infernal. After this, both traveled to many countries, adventuring and getting into a great deal of trouble that they both survived thanks to their immense luck.
-
-#### Felix +15 Years
-
-Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x4), Lesser Power, Personal Power; Reduced Attack
-
-Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 5+2 (5) (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 4 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
-
-#### Felix +30 Years
-
-Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x5), Lesser Power, Personal Power (2x); Reduced Attack
-
-Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 6+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 5 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
-
-Powers:
-
-*Sight Beyond Sight*, 1 point, Animal:<br>
-(R: Per, D: Conc, T: Vision): All five senses operate at a distance, as far as he can see. This gives him supernatural awareness of everything that occurs, and it is exceptionally difficult to catch him by surprise, InIm 30 (base 5, +1 Conc, +4 Vision): Personal Power x 2 (20 levels, –2 Might cost, +2 Init)
-
-Familiar Powers: Shared Senses
-
-#### Felix +45 Years
-
-Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x6), Lesser Power, Personal Power (2x); Reduced Attack
-
-Abilities: Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 4 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 6+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 4 (forest), Magic Theory 5 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
-
-Bond Scores: Bronze +1, Silver +3, Gold +3
-
-#### Felix +60 Years
-
-Magical Qualities and Inferiorities: Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x8), Lesser Power, Personal Power (2x); Reduced Attack
-
-Abilities: Athletics 4 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 4 (drinking), Charm 3 (first impressions), Folk Ken 4 (peasants), Guile 7+2 (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 4 (picking pockets), Magical Lore 4 (forest), Magic Theory 6 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
 
 ## Enchanted Items
 

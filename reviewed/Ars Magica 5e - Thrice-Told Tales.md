@@ -26,7 +26,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0312
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -502,12 +502,13 @@ The 53-year life of this covenant was plagued with small scale Infernal attacks,
 
 <!-- p. 13 --><a id="page-13"></a>
 
-Key:
-- 1\. Fountain
-- 2\. Fountain
-- 3\. Fountain
-- Covered Walkway
-- Lemure Nest
+> ### Map Key: The Ruins of Ombres L’assomption
+>
+> - 1\. Fountain
+> - 2\. Fountain
+> - 3\. Fountain
+> - Covered Walkway
+> - Lemure Nest
 
 > ### *On Isometric Figures* (Cultists of Zenodorus)
 >
@@ -1314,16 +1315,6 @@ If the Grass Crown has been destroyed or lost, the colossus attacks the local to
 
 The Colossus Neronis is accompanied by demons and cultists as necessary to make a challenging, but not overwhelming, encounter for the players. This is Nero’s full strength, and it is weak. Demons have no patience, and the emperor has moved too soon.
 
-Key
-
-- Entrance
-- Cultist
-- Ladder Up
-- Arrow Slit
-- Ladder Down
-- Crown Anchor Pinning
-- Area Open to Level Below
-
 #### Manes: The Oarsmen of the Itius
 
 Use the statistics for Manes: Lost Souls of Ombres L’assomption, in Story I, earlier, with the following changes.
@@ -1818,6 +1809,14 @@ Stepping into the next level, with an Infernal aura of 3, the characters see a l
 
 Near the center of the room lie the bodies of Crispus and two shield grogs, savagely torn asunder, limbs scattered across the floor. The magus’ body has been badly mauled, but it is not in pieces like his two former shield grogs. Besides his traveling clothes and oak staff, he has four hardened acorns in a pouch, each a pawn of Creo vis. The two grogs have been torn to pieces and their martial equipment scattered. Their long swords and chainmail are potential loot. Two long spears lie nearby, their heads broken off, and can be used in combat as staffs.
 
+A magus may be powerful enough to cast the spell *Whispers through the Black* *Gate*. If so, he can speak with Crispus’ ghost by talking to Crispus’ corpse. The ghost says that he was curious about the site after discovering it in the Templeport church rolls. He quickly ascertained that it was Infernal, and hoped to slay as many demons as he could. The revenants were too much for his group, and he hoped to rest and regain lost fatigue before tackling them again. He warns the party that some foul beast leaped from the shadows and killed him while he was reading the inscription on the back wall, but he did not get a good look at the creature. The grogs’ corpses have been rent asunder and are not complete enough to act as a target for the spell.
+
+Words are inscribed waist-high along the back wall, on the other side of the pit. The Latin inscription praises Crom Dubh, extolling his power and expressing his terrible wrath. Above the inscription are several bas-relief sculptures of dragons, battles, lions, and warriors. Each scene is bordered, so that all ten carvings are separated into individual pieces of art. Slightly off center to the right is a carving of three knights wearing full chainmail and sitting astride three armored horses. Directly beneath the carving the inscription mentions Crom Dubh’s generals, “terrible captains three, who each lead sixty and six legions to the woe and wailing of their foes.” If human blood is splashed on the carving and the inscription, the narrow section of wall beneath it shimmers and is replaced by a black mist, the boundary to the next and last regio level. Again, Hermetic magic and Second Sight can spot this boundary.
+
+At some point, ideally as the magi stand engrossed, the Aillén Trechenn attacks, striking from the shadows.
+
+The Aillén Trechenn is trapped within this regio, held here by the same miraculous power that holds the Red Knights imprisoned (see following). As the characters enter, it swishes around the ceiling in spiritual form, sizing up its opponents and preparing for the best time to strike. The upper reaches of the room are likely lost in shadow. When the time is right, when the intruders seem the most vulnerable, it materializes perched on an upper shelf. It screeches once or twice, using its *Whose Ears have* *heard heard the Master’s Call* power, and after deafening one or two targets plunges through the air and attacks.
+
 #### Tadhg
 
 Characteristics: Int –3, Per 0, Pre –2, Com –2, Str +1, Sta +1, Dex +2, Qik –2
@@ -1854,14 +1853,6 @@ The boy has Second Sight, and for story purposes automatically sees the regio th
 
 Tadhg’s Characteristics and Size have been modified due to his age. His low Intelligence does not mean that he is stupid, rather that he makes the same mistake over and over again and does not learn from his failures.
 
-A magus may be powerful enough to cast the spell *Whispers through the Black* *Gate*. If so, he can speak with Crispus’ ghost by talking to Crispus’ corpse. The ghost says that he was curious about the site after discovering it in the Templeport church rolls. He quickly ascertained that it was Infernal, and hoped to slay as many demons as he could. The revenants were too much for his group, and he hoped to rest and regain lost fatigue before tackling them again. He warns the party that some foul beast leaped from the shadows and killed him while he was reading the inscription on the back wall, but he did not get a good look at the creature. The grogs’ corpses have been rent asunder and are not complete enough to act as a target for the spell.
-
-Words are inscribed waist-high along the back wall, on the other side of the pit. The Latin inscription praises Crom Dubh, extolling his power and expressing his terrible wrath. Above the inscription are several bas-relief sculptures of dragons, battles, lions, and warriors. Each scene is bordered, so that all ten carvings are separated into individual pieces of art. Slightly off center to the right is a carving of three knights wearing full chainmail and sitting astride three armored horses. Directly beneath the carving the inscription mentions Crom Dubh’s generals, “terrible captains three, who each lead sixty and six legions to the woe and wailing of their foes.” If human blood is splashed on the carving and the inscription, the narrow section of wall beneath it shimmers and is replaced by a black mist, the boundary to the next and last regio level. Again, Hermetic magic and Second Sight can spot this boundary.
-
-At some point, ideally as the magi stand engrossed, the Aillén Trechenn attacks, striking from the shadows.
-
-The Aillén Trechenn is trapped within this regio, held here by the same miraculous power that holds the Red Knights imprisoned (see following). As the characters enter, it swishes around the ceiling in spiritual form, sizing up its opponents and preparing for the best time to strike. The upper reaches of the room are likely lost in shadow. When the time is right, when the intruders seem the most vulnerable, it materializes perched on an upper shelf. It screeches once or twice, using its *Whose Ears have* *heard heard the Master’s Call* power, and after deafening one or two targets plunges through the air and attacks.
-
 <!-- p. 37 --><a id="page-37"></a>
 
 #### The Obsidian Throne Room Regio
@@ -1871,6 +1862,10 @@ The final regio is a chamber shaped like the one before, a large room with alcov
 The ten alcoves contain terracotta pots full of gold armbands, ancient Roman coins, jeweled brooches, rings, and necklaces. Sacrificed by pagan kings long ago, they have been collected into a sizable treasure equal to 500 Mythic pounds.
 
 The bas-relief carvings loom in silent witness behind the characters. Three demons, generals of Crom Dubh that were bested and bound by the saint, are imprisoned in the sculpture of the three mounted knights. Intellego Vim detection spells show that a Divine miracle of the 9th magnitude keeps these fiends contained. They have very little power at this point, trapped as they are in the carving. Touching any of the gold in the clay pots breaks the demons’ supernatural bindings, a weakness in the saint’s miraculous binding power. Once a character picks up one of the glittering armbands or sparkling brooches the demons are released. They immediately return to Hell, screaming as they go. While they are undetectable in their spiritual form, their screams are heard by all.
+
+Looking at the bas-relief carving of the three mounted knights, a successful Perception + Awareness simple roll versus an Ease Factor of 6 indicates that the sculpture is changed, its lines dulled and its overall appearance marred. Aesthetically, it is noticeably different from its neighboring sculptures. If the Perception + Awareness roll was 12 or higher, the observer notices a fine Latin scrawl etched into each knight figure. Each is the True Name of the demon, a considerable advantage for those who a little later meet the knights in combat when they come back for adventure two, “Red Knights Return.”
+
+If the magi never enter this regio level, they do not release the knights, and one of the storyguide characters does it offstage. Likely candidates are Uallachán, exploring the mound for Infernal Lore, Tadhg exploring what he thinks is an empty mound, or one of the barons, looking for the mound’s rumored gold.
 
 #### Bog Revenant
 
@@ -1917,10 +1912,6 @@ Appearance: A mound revenant is a pale, emaciated, animated corpse. It has long,
 Bog revenants are mad, ravening fiends intent on slaughter. A revenant does not spare a wounded target, and continues to attack until the target is dead. Up to five revenants can fight as an untrained group.
 
 A bog revenant cannot touch butter, medieval Ireland’s main export. If your saga is set elsewhere, select a common foodstuff from the area to act as the demon’s weakness.
-
-Looking at the bas-relief carving of the three mounted knights, a successful Perception + Awareness simple roll versus an Ease Factor of 6 indicates that the sculpture is changed, its lines dulled and its overall appearance marred. Aesthetically, it is noticeably different from its neighboring sculptures. If the Perception + Awareness roll was 12 or higher, the observer notices a fine Latin scrawl etched into each knight figure. Each is the True Name of the demon, a considerable advantage for those who a little later meet the knights in combat when they come back for adventure two, “Red Knights Return.”
-
-If the magi never enter this regio level, they do not release the knights, and one of the storyguide characters does it offstage. Likely candidates are Uallachán, exploring the mound for Infernal Lore, Tadhg exploring what he thinks is an empty mound, or one of the barons, looking for the mound’s rumored gold.
 
 ### The Return Trip
 
@@ -2924,54 +2915,6 @@ The players may roll Int + Organization Lore: Order of Hermes when the magi firs
 >
 > If the player magi include a Quaesitor the simplest approach is to make this an official mission. Eutropia may be assigned to assist if her specialist skills would be useful, but she need not appear at all.
 
-## The Town
-
-This settlement is a chartered town consisting of two distinct parts. To one side is the old town, with the market square, church, and other official buildings. Bordering this are the houses of the original population of fishermen and farmers with gardens and plots of farmland. To the other side are the new neighborhoods containing the workshops, offices, and storehouses of the growing town. This is where the fire started, in one of the blacksmith’s shops. The town has a Dominion rating of 2, higher inside the church and the graveyard.
-
-A charter from the presiding lord grants the town trading rights and the right to form a guild, and allows the senior masters of this to form a town council. This council effectively runs the town, plans the town’s growth, and arranges night patrols to watch for fires or theft.
-
-The direct as well as collateral damage of the fire is clearly visible. Although the fire was contained and stopped 3 or 4 months ago, there are still many poor, hungry, homeless, and desperate. As some workshops were destroyed, all trades involved in supplying those shops with raw materials or selling their finished product suffered as well. The livelihood of many families was destroyed, and the ensuing panic and rioting did not help the situation. The townfolk are naturally wary of strangers and if not approached with caution they become withdrawn and uninformative, especially if subjected to Gifted individuals.
-
-### Aftermath
-
-Following the fire, the town faced hunger and poverty, but within a fortnight the archdeacon made a visit outside his normal schedule, accompanied by some of his canons. One canon gave an extraordinary evening sermon of such excellent quality that the participating townspeople left with renewed faith in the Lord. The following morning builders working to restore damaged buildings found a granary thought empty to be filled with grain, and several warehouses filled with timber, metal ingots, and bolts of cloth. This verged on the miraculous and averted the looming hunger, provided materials to rebuild homes and businesses, and allowed craftsmen to produce goods and merchants to sell them. God’s grace favored these humble professionals, who toiled together with great success.
-
-<!-- p. 63 --><a id="page-63"></a>
-
-### Observing the Inhabitants
-
-When the townsfolk are first approached individuals are not very talkative and retreat to their fellows to form groups. A Perception + Folk Ken roll against an Ease Factor of 9 reveals that the people fall into one of two categories. The larger group is positive and pious; they support each other but are initially reserved. Once they have spoken with other members from their group, individuals are more self assured and speak more freely to the visiting strangers. They are steadily rebuilding the town’s businesses. The other, smaller, group is the opposite; they are gloomy, bicker and threaten each other, and almost fight amongst themselves. They all appear to be hiding something.
-
-Once player characters start asking around in various groups, rolls of Communication + appropriate social Ability against an Ease Factor of 12 reveal more information, opinions, and witness accounts. Different abilities are appropriate depending on the situation: Charm generally makes people talkative, Carouse works well among the sinful people in the alehouse, Intrigue works for a more devious approach, a Profession is good for the relevant vocation, Leadership works if a characters takes charge or acts with authority, for example by hiring people or set up business. The townsfolk are naturally curious as to why the player characters are asking around, so apply a –3 to +3 modifiers depending on how appropriate their cover story is. Strangers who just happen to be passing through fall at the low end, while stories about future business and trade or references to previous visits give a bonus.
-
-<!-- p. 64 --><a id="page-64"></a>
-
-#### Pious and Successful Group
-
-The pious individuals are almost all trained craftsmen, merchants, or other providers of professional services. Spirits are high among them, and they attribute it all to the grace of God. The turning point for their crisis was the visit from the archdeacon, and the lucky breaks they had following that with finding the resources unharmed by the fire. They humbly but readily tell stories about success of their fellow pious townsfolk, but are reluctant to talk about the responsibility of specific people for the fire, or about those who are not doing so well.
-
-> ### What Caused the Fire?
->
-> The fire was a completely natural tragedy, caused by a chain of events in which no single one involved bad intent or gross irresponsibility. See section ‘Observing the Inhabitants’ for further information about people and groups.
->
-> Somehow all three of the blacksmiths’ actions affected the outcome. In Matheus’ workshop the embers and hot ashes had been put in an earthenware container at the end of the work day, but not removed. A cat belonging to Andreas chasing a mouse knocked the lid off. A draft from a window improperly shuttered by Lucas — because Andreas had not fixed it — blew an ember out of the pot. It landed in pile of straw that Matheus should have had swept up, but he was waiting until Lucas removed his crate. Here the flames grew until Lucas’ wooden crate caught fire, and the flames subsequently spread to the whole house. The unseasonably dry weather cause the fire to grow rapidly. As these details are not known until magic is used to investigate, the three neighboring blacksmiths do not know in which of their shops the fire started.
->
-> But not all the blame lies with the blacksmiths. The guild members acting as night watchmen underestimated their duties and responsibilities, and had insufficient manpower, discipline and knowledge to prevent this tragedy. The night patrols were forced to cut corners to cover the whole neighborhood, and as their first visit to the blacksmith’s shops at the end of the work day showed the forges properly put out they skipped their next rounds here. The third tier of blame lies with the town council, which is responsible for planning for emergencies. And in this they failed miserably.
->
-> The pious group in the Town keep the facts secret because this series of unprofessional actions might jeopardize the trading rights granted by the town’s charter, which specifically states the responsibilities of the council. The sinful group, on the other hand, keep quiet for fear of being singled out as directly responsible for certain events and punished for them, especially since a lot of them were directly involved by being the proprietors of the workshops where the fire started, being on fire watch during the night, or taking part in the unsuccessful effort to stop the fire.
-
-#### Sinful and Unsuccessful Group
-
-Most of the sinful group is made up of seedier and suspicious-looking inhabitants working in taverns and brothels, or engaged in criminal activities. It also encompasses some of the dirtier and heavier crafts, especially those involving forges, kilns, or other fires. This includes bakers, potters, blacksmiths, and coincidentally a lot of unskilled workers employed as night watchmen by the guild. Reluctantly, they admit to not being avid churchgoers, and that they also did not attend the special service held while the archdeacon visited. The blacksmiths all accuse each other of responsibility for the fire, behind their neighbors’ backs. Some lay the blame on the night watchmen or the flawed fire response. A few people truly believe they have been cursed and hint that the visiting clergymen may have been praying to the wrong god. They all refuse to elaborate upon the matter if asked directly.
-
-If both groups are questioned and the specific facts of success and misfortune analyzed, it seems the sinners have suffered no higher frequency of bad luck than could be expected. A series of unfortunate events simply resulted in a situation all but impossible to turn around. However, the pious group shows skill at rebuilding beyond what anyone, including themselves, expect, and seem to have unnaturally good luck. In addition to this, they help each other, so that even the least skilled person eventually turns his misfortune around.
-
-#### The Town Council
-
-The council consists of the most influential and wealthy craft, service and trade masters leading their respective groups in the guild (see insert nearby). They are busy leading the rebuilding effort for their own business as well as planning the Town’s regrowth. They are harder to get access to than most other townsfolk, but the potential for bringing in new trade is a great incentive, and a clever cover story wins their time. The merchants, builders, and clothiers are part of the pious group, and their leaders tell similar stories. However the smiths are at a low point, as the fire destroyed the neighborhood containing most of their members’ workshops. The rest of the council is putting pressure on the Master Smith to get his members cooperating rather than sowing discord. The Master Boatman has conflicting reports, since his members are split between the pious and sinful groups. Overall, the council is interested in working together to rebuild the Town, and to avoid the mistakes of the past.
-
-<!-- p. 65 --><a id="page-65"></a>
-
 #### Quaesitor Eutropia of Guernicus
 
 Eutropia is a junior Quaesitor who was born in these parts but trained in a neighboring Tribunal. Her pater is a Quaesitor of significance back home, and so great things are expected of her. Intensively training by a true master has not only formed her into an impressive specialized investigator, but also left her highly ambitious and, unfortunately, with a bit of an inferiority complex. She asked to be assigned to a region away from her pater’s influence, where she could make her own name. She readily involves other magi in her plans to achieve greatness and is not beyond asking for help to cover the multitude of areas where her skills fail her. However, her impressive talent for investigating magical and other supernatural effects means she avoids the most routine Quaesitorial investigations, interrogations, and dry judicial matters. Eutropia sees the strange occurrences in the Town as a great opportunity to make her name, and is now giving this matter her full attention. She is loyal to the Order, wants to right wrongs, and to keep relations with the mundane world smooth. She will not casually break the Code, but her ambition may lead to her to justify bending the rules, at least to herself.
@@ -3035,6 +2978,54 @@ Vis: 12 pawns of Vim vis in the form of silver spheres of crystal, carried in a 
 
 Appearance: Eutropia is slightly plump young woman with a nice smile, reddish brown straight hair, and gray eyes. Among mundanes she tries to fade into the background in hooded robes, but inevitably draws attention to herself as the cut and quality of her clothes set her apart from everyone.
 
+## The Town
+
+This settlement is a chartered town consisting of two distinct parts. To one side is the old town, with the market square, church, and other official buildings. Bordering this are the houses of the original population of fishermen and farmers with gardens and plots of farmland. To the other side are the new neighborhoods containing the workshops, offices, and storehouses of the growing town. This is where the fire started, in one of the blacksmith’s shops. The town has a Dominion rating of 2, higher inside the church and the graveyard.
+
+A charter from the presiding lord grants the town trading rights and the right to form a guild, and allows the senior masters of this to form a town council. This council effectively runs the town, plans the town’s growth, and arranges night patrols to watch for fires or theft.
+
+The direct as well as collateral damage of the fire is clearly visible. Although the fire was contained and stopped 3 or 4 months ago, there are still many poor, hungry, homeless, and desperate. As some workshops were destroyed, all trades involved in supplying those shops with raw materials or selling their finished product suffered as well. The livelihood of many families was destroyed, and the ensuing panic and rioting did not help the situation. The townfolk are naturally wary of strangers and if not approached with caution they become withdrawn and uninformative, especially if subjected to Gifted individuals.
+
+### Aftermath
+
+Following the fire, the town faced hunger and poverty, but within a fortnight the archdeacon made a visit outside his normal schedule, accompanied by some of his canons. One canon gave an extraordinary evening sermon of such excellent quality that the participating townspeople left with renewed faith in the Lord. The following morning builders working to restore damaged buildings found a granary thought empty to be filled with grain, and several warehouses filled with timber, metal ingots, and bolts of cloth. This verged on the miraculous and averted the looming hunger, provided materials to rebuild homes and businesses, and allowed craftsmen to produce goods and merchants to sell them. God’s grace favored these humble professionals, who toiled together with great success.
+
+<!-- p. 63 --><a id="page-63"></a>
+
+### Observing the Inhabitants
+
+When the townsfolk are first approached individuals are not very talkative and retreat to their fellows to form groups. A Perception + Folk Ken roll against an Ease Factor of 9 reveals that the people fall into one of two categories. The larger group is positive and pious; they support each other but are initially reserved. Once they have spoken with other members from their group, individuals are more self assured and speak more freely to the visiting strangers. They are steadily rebuilding the town’s businesses. The other, smaller, group is the opposite; they are gloomy, bicker and threaten each other, and almost fight amongst themselves. They all appear to be hiding something.
+
+Once player characters start asking around in various groups, rolls of Communication + appropriate social Ability against an Ease Factor of 12 reveal more information, opinions, and witness accounts. Different abilities are appropriate depending on the situation: Charm generally makes people talkative, Carouse works well among the sinful people in the alehouse, Intrigue works for a more devious approach, a Profession is good for the relevant vocation, Leadership works if a characters takes charge or acts with authority, for example by hiring people or set up business. The townsfolk are naturally curious as to why the player characters are asking around, so apply a –3 to +3 modifiers depending on how appropriate their cover story is. Strangers who just happen to be passing through fall at the low end, while stories about future business and trade or references to previous visits give a bonus.
+
+<!-- p. 64 --><a id="page-64"></a>
+
+#### Pious and Successful Group
+
+The pious individuals are almost all trained craftsmen, merchants, or other providers of professional services. Spirits are high among them, and they attribute it all to the grace of God. The turning point for their crisis was the visit from the archdeacon, and the lucky breaks they had following that with finding the resources unharmed by the fire. They humbly but readily tell stories about success of their fellow pious townsfolk, but are reluctant to talk about the responsibility of specific people for the fire, or about those who are not doing so well.
+
+> ### What Caused the Fire?
+>
+> The fire was a completely natural tragedy, caused by a chain of events in which no single one involved bad intent or gross irresponsibility. See section ‘Observing the Inhabitants’ for further information about people and groups.
+>
+> Somehow all three of the blacksmiths’ actions affected the outcome. In Matheus’ workshop the embers and hot ashes had been put in an earthenware container at the end of the work day, but not removed. A cat belonging to Andreas chasing a mouse knocked the lid off. A draft from a window improperly shuttered by Lucas — because Andreas had not fixed it — blew an ember out of the pot. It landed in pile of straw that Matheus should have had swept up, but he was waiting until Lucas removed his crate. Here the flames grew until Lucas’ wooden crate caught fire, and the flames subsequently spread to the whole house. The unseasonably dry weather cause the fire to grow rapidly. As these details are not known until magic is used to investigate, the three neighboring blacksmiths do not know in which of their shops the fire started.
+>
+> But not all the blame lies with the blacksmiths. The guild members acting as night watchmen underestimated their duties and responsibilities, and had insufficient manpower, discipline and knowledge to prevent this tragedy. The night patrols were forced to cut corners to cover the whole neighborhood, and as their first visit to the blacksmith’s shops at the end of the work day showed the forges properly put out they skipped their next rounds here. The third tier of blame lies with the town council, which is responsible for planning for emergencies. And in this they failed miserably.
+>
+> The pious group in the Town keep the facts secret because this series of unprofessional actions might jeopardize the trading rights granted by the town’s charter, which specifically states the responsibilities of the council. The sinful group, on the other hand, keep quiet for fear of being singled out as directly responsible for certain events and punished for them, especially since a lot of them were directly involved by being the proprietors of the workshops where the fire started, being on fire watch during the night, or taking part in the unsuccessful effort to stop the fire.
+
+#### Sinful and Unsuccessful Group
+
+Most of the sinful group is made up of seedier and suspicious-looking inhabitants working in taverns and brothels, or engaged in criminal activities. It also encompasses some of the dirtier and heavier crafts, especially those involving forges, kilns, or other fires. This includes bakers, potters, blacksmiths, and coincidentally a lot of unskilled workers employed as night watchmen by the guild. Reluctantly, they admit to not being avid churchgoers, and that they also did not attend the special service held while the archdeacon visited. The blacksmiths all accuse each other of responsibility for the fire, behind their neighbors’ backs. Some lay the blame on the night watchmen or the flawed fire response. A few people truly believe they have been cursed and hint that the visiting clergymen may have been praying to the wrong god. They all refuse to elaborate upon the matter if asked directly.
+
+If both groups are questioned and the specific facts of success and misfortune analyzed, it seems the sinners have suffered no higher frequency of bad luck than could be expected. A series of unfortunate events simply resulted in a situation all but impossible to turn around. However, the pious group shows skill at rebuilding beyond what anyone, including themselves, expect, and seem to have unnaturally good luck. In addition to this, they help each other, so that even the least skilled person eventually turns his misfortune around.
+
+#### The Town Council
+
+The council consists of the most influential and wealthy craft, service and trade masters leading their respective groups in the guild (see insert nearby). They are busy leading the rebuilding effort for their own business as well as planning the Town’s regrowth. They are harder to get access to than most other townsfolk, but the potential for bringing in new trade is a great incentive, and a clever cover story wins their time. The merchants, builders, and clothiers are part of the pious group, and their leaders tell similar stories. However the smiths are at a low point, as the fire destroyed the neighborhood containing most of their members’ workshops. The rest of the council is putting pressure on the Master Smith to get his members cooperating rather than sowing discord. The Master Boatman has conflicting reports, since his members are split between the pious and sinful groups. Overall, the council is interested in working together to rebuild the Town, and to avoid the mistakes of the past.
+
+<!-- p. 65 --><a id="page-65"></a>
+
 ### The Town Church
 
 The church itself is at least a century old and by no means impressive, but it is well kept. With the recent growth of the Town it is rapidly becoming too small. The lack of space further reduces the least pious inhabitants’ inclination to attend sermons. Otherwise, it is as churches should be, with a minor relic beneath the altar, creating a Dominion aura of 4 inside.
@@ -3060,6 +3051,44 @@ It is quite easy to get him talking, and he readily speaks about the recent cris
 > Warfare or bandits are a bit different, as this crisis is obviously not due to innocent mistakes. While the dead have been buried with church rites, any captured or injured combatants can be interrogated by mundane and magical means. The warfare may have arisen from a typical noble dispute, but in any case investigation finds no evidence of magical influence on the main parties, nor of magical help for either side.
 
 The priest lives alone in a small house next to the church. He has no housekeeper; instead he is helped occasionally by volunteers from among his flock. The house has a front room with a hearth, a cot, and a chest for Charles’ belongings. The back room is what he grandiosely calls his study. It is merely a cramped room with a small desk and a chest of books, plus some floor space for sleeping pallets. His letters are all on administrative matters, and the chest holds the church missal, a Bible, and a poor quality Latin learning aid. The characters may want to search the room to see whether the archdeacon and canons left any evidence. Such a search reveals a torn piece of parchment slipped down behind the desk. It is a fragment of letter in an unknown hand describing, almost to the word, the conversation between Eutropia and the senior Quaesitor who gave her this task. It features neither sender’s name nor a seal, but the recipient is the Archdeacon Petrus. The letter is over one month old, and so no longer viable as an Arcane Connection.
+
+#### Father Charles
+
+Characteristics: Int +1 (1), Per +2 (2), Pre +1, Com +2 (2), Str 0, Sta 0, Dex –1 (1), Qik 0
+
+Size: 0
+
+Age: 45 (45)
+
+Decrepitude: 0 (4)
+
+Warping Score: 0
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: Priest; Inspirational, Social Contacts (Archdeacon); Compassionate (minor), Motion Sickness, Vow (celibacy)
+
+Personality Traits: Compassionate +3, Pious +2, Talkative +2, Loyal +1
+
+Reputations: None
+
+Combat:
+
+- Dodge: Init 0, Attack n/a, Defense 0, Damage n/a
+
+Soak: 0
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Town 5 (history), Artes Liberales 2 (rhetoric), Awareness 3 (noticing changes), Charm 3 (church goers), Etiquette 3 (Church), Folk Ken 5 (people he knows well), Latin 5 (the Bible), Leadership 4 (preaching), Local Language 5 (preaching), Music 3 (sing), Organization Lore: Church 4 (local diocese), Profession: Herbalism 4 (treating fever), Ride 2 (distance), Teaching 1 (religious subjects), Theology 4 (debate)
+
+Equipment: Priest’s garb, leather apron for gardening
+
+Encumbrance: 0
+
+Appearance: Charles is a tall, thin man — almost lanky. His ever-youthful looks have only recently been marred by crow’s feet at his eyes and thinning, graying hair.
 
 <!-- p. 66 --><a id="page-66"></a>
 
@@ -3111,47 +3140,57 @@ If asked why he thought the fire was of magical origin he answers simply that st
 
 After the meeting Eutropia says that Michael followed the archdeacon away from the meeting, and overheard him telling his scribe that he should await a report from their informant in the Order. If the letter was found in the Town, Eutropia ordered Michael to do this; otherwise he acted on his own initiative. Without the letter, there is no proof that the informant has broken the Code, but the matter is still very suspicious, and motivates Eutropia’s next actions.
 
-### Investigation Concluded
+#### Archdeacon Petrus
 
-As the investigation is concluded life resumes its normal course. However, the player magi and their young Quaesitor ally know of a zealous archdeacon and his Hermetic informer, just waiting for an incident to complain about.
-
-#### Father Charles
-
-Characteristics: Int +1 (1), Per +2 (2), Pre +1, Com +2 (2), Str 0, Sta 0, Dex –1 (1), Qik 0
+Characteristics: Int +3 (3), Per –2, Pre –1, Com +3 (3), Str 0, Sta 0, Dex 0, Qik –1 (1)
 
 Size: 0
 
-Age: 45 (45)
+Age: 50 (50)
 
-Decrepitude: 0 (4)
+Decrepitude: 1 (2)
 
 Warping Score: 0
 
 Confidence Score: 1 (3)
 
-Virtues and Flaws: Priest; Inspirational, Social Contacts (Archdeacon); Compassionate (minor), Motion Sickness, Vow (celibacy)
+Virtues and Flaws: Senior Clergy; Wealthy; Ceremony, Educated, Guardian Angel, Relic, Strong Willed, Temporal Influence; Dependent (Servants of God), Pious; Higher Purpose (Reconcile Order of Hermes with society), Obese, Palsied Hands, Arthritis
 
-Personality Traits: Compassionate +3, Pious +2, Talkative +2, Loyal +1
+Personality Traits: Pious +6, Meddlesome +3, Proud +1
 
-Reputations: None
+Reputations: Worker of wonders 3 (Ecclesiastical)
 
 Combat:
 
-- Dodge: Init 0, Attack n/a, Defense 0, Damage n/a
+- Dodge: Init –3, Attack n/a, Defense 0, Damage n/a
 
-Soak: 0
+Soak: +5 (Guardian Angel)
 
 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
 
 Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 
-Abilities: Area Lore: Town 5 (history), Artes Liberales 2 (rhetoric), Awareness 3 (noticing changes), Charm 3 (church goers), Etiquette 3 (Church), Folk Ken 5 (people he knows well), Latin 5 (the Bible), Leadership 4 (preaching), Local Language 5 (preaching), Music 3 (sing), Organization Lore: Church 4 (local diocese), Profession: Herbalism 4 (treating fever), Ride 2 (distance), Teaching 1 (religious subjects), Theology 4 (debate)
+Abilities: Area Lore: Diocese 4 (churches), Artes Liberales 5 (debate), Brawl 2 (dodge), Ceremony 4 (Invocation), Charm 5 (debate), Civil and Canon Law 5 (ordination), Concentration 4 (Ceremony), Dominion Lore 2 (saints), Folk Ken 6 (magi), Guile 5 (debate), Intrigue 6 (debate), Latin 5 (preaching), Leadership 4 (debate), Local Language 5 (arguing), Music 2 (composing), Organization Lore: Church 4 (ordination), Organization Lore: Order of Hermes 2 (personalities), Teaching 2 (Latin), Theology 5 (Biblical knowledge)
 
-Equipment: Priest’s garb, leather apron for gardening
+Powers:
+
+*Magic Resistance 25.* The Archdeacon has a Magic Resistance of 25 granted by the Divine Realm, from a combination of an angel (as per the Virtue Guardian Angel) — summoned and bound by the holy mystics — and a piece of the True Cross (as per the Virtue Relic). Remember to modify the Resistance by the Dominion aura, and to subtract three times the aura from the casting totals of magic effects.
+
+Equipment: Archdeacon’s vestments
 
 Encumbrance: 0
 
-Appearance: Charles is a tall, thin man — almost lanky. His ever-youthful looks have only recently been marred by crow’s feet at his eyes and thinning, graying hair.
+Appearance: Petrus is a fat, balding man with a mouthful of bad teeth. But with a straight back, fierce eyes, and a firm voice, he is still an imposing man, especially clad in his clerical robes and backed up by his aides.
+
+The Archdeacon Petrus is not designed as a player character, and his Virtues and Flaws do not balance. His relic and guardian angel are the results of his achievements within the church and with the Servants of God.
+
+In Petrus’ youth he often assisted his bishop in the consecration of new churches following mundane expansion into the wild, and traveled the lands a great deal. During one of these ventures he angered woodland faeries by trying to banish them with prayers, but it opened his mind to the existence of other realms. His moves up the career ladder were due solely to his personal skills and influence; he did not meet Hugo until he was already archdeacon, although the magus led Petrus to include the holy mystics in his chapter of canons.
+
+Archdeacon Petrus knows of the Order of Hermes, and that the magi are not all heretics and diabolists, being like most of humanity with elements of both good and bad. But just as he feels his own position gives him great responsibilities to help humankind, so too does the great power of the magi. He despises magi using power for their own gain, especially when it is at the cost of innocent mundanes. Hugo led him to believe the crisis of the great fire on the Town was caused by meddling magi, and that this was an opening to approach the Order and let them know they are being watched. His great wish is for the Order of Hermes to seek to harmonize their magic with the Dominion, and he will do his part to further their acceptance among the church and the mundanes. At first he will work only behind the scenes, but in time, as magi convert to holy magic, he intends to step into the open, hoping he will have been elevated in clerical rank to hold more political power among nobles and the church both. He feels personally responsible for the entire organization of the Servants of God, which is still growing in numbers as well as power. While he readily uses connections to the bishop as deterrent he has no real power to mobilize him, and the bishop does not appear in these stories. The storyguide may choose to include the bishop if this fits her saga and play style better, but it is beyond the scope of this book.
+
+### Investigation Concluded
+
+As the investigation is concluded life resumes its normal course. However, the player magi and their young Quaesitor ally know of a zealous archdeacon and his Hermetic informer, just waiting for an incident to complain about.
 
 <!-- p. 68 --><a id="page-68"></a>
 
@@ -3304,61 +3343,52 @@ If the visit to the crypt does not end with diplomatic solution with the mystics
 >
 > Equipment: Bludgeon, quilted hauberk.
 
-#### Archdeacon Petrus
+#### Holy Mystic
 
-Characteristics: Int +3 (3), Per –2, Pre –1, Com +3 (3), Str 0, Sta 0, Dex 0, Qik –1 (1)
+Characteristics: Int +2, Per 0, Pre 0, Com +3, Str –1, Sta 0, Dex –1, Qik 0
 
 Size: 0
 
-Age: 50 (50)
+Age: 35 (35)
 
-Decrepitude: 1 (2)
+Decrepitude: 0
 
-Warping Score: 0
+Warping Score: 1 (1)
 
 Confidence Score: 1 (3)
 
-Virtues and Flaws: Senior Clergy; Wealthy; Ceremony, Educated, Guardian Angel, Relic, Strong Willed, Temporal Influence; Dependent (Servants of God), Pious; Higher Purpose (Reconcile Order of Hermes with society), Obese, Palsied Hands, Arthritis
+Virtues and Flaws: Priest; Invocation, [Holy Power]; Arcane Lore, Divine Ceremony, Puissant [Holy Power]; Dark Secret: Involved with Wizards; Offensive to Demons, See Description
 
-Personality Traits: Pious +6, Meddlesome +3, Proud +1
+Personality Traits: Pious +4
 
-Reputations: Worker of wonders 3 (Ecclesiastical)
+Reputations:
 
 Combat:
+- Dodge: Init 0, Attack n/a, Defense 0, Damage n/a
 
-- Dodge: Init –3, Attack n/a, Defense 0, Damage n/a
-
-Soak: +5 (Guardian Angel)
+Soak: +1
 
 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
 
 Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 
-Abilities: Area Lore: Diocese 4 (churches), Artes Liberales 5 (debate), Brawl 2 (dodge), Ceremony 4 (Invocation), Charm 5 (debate), Civil and Canon Law 5 (ordination), Concentration 4 (Ceremony), Dominion Lore 2 (saints), Folk Ken 6 (magi), Guile 5 (debate), Intrigue 6 (debate), Latin 5 (preaching), Leadership 4 (debate), Local Language 5 (arguing), Music 2 (composing), Organization Lore: Church 4 (ordination), Organization Lore: Order of Hermes 2 (personalities), Teaching 2 (Latin), Theology 5 (Biblical knowledge)
+Abilities: Area Lore: Diocese 3 (churches), Artes Liberales 2 (debate), Ceremony 5 (Invocation), Civil and Canon Law 3 (canon court), Concentration 3 (Holy Powers), Dominion Lore 3 (angels), [Holy Power]\* 5+2 (Invocation), Infernal Lore 2 (demons), Invocation 5 (in Ceremony), Latin 5 (Church usage), Local Language 5 (preaching), Magic Lore 1 (magical effects), Organization Lore: Church 4 (politics), Teaching 3 (academics), Theology 3 (debate)
 
-Powers:
+\* Each of the three holy mystics knows a different one of the following Holy Powers: Adjuration, Blessing, or Wonders
 
-*Magic Resistance 25.* The Archdeacon has a Magic Resistance of 25 granted by the Divine Realm, from a combination of an angel (as per the Virtue Guardian Angel) — summoned and bound by the holy mystics — and a piece of the True Cross (as per the Virtue Relic). Remember to modify the Resistance by the Dominion aura, and to subtract three times the aura from the casting totals of magic effects.
-
-Equipment: Archdeacon’s vestments
+Equipment: Clerical robes,
 
 Encumbrance: 0
 
-Appearance: Petrus is a fat, balding man with a mouthful of bad teeth. But with a straight back, fierce eyes, and a firm voice, he is still an imposing man, especially clad in his clerical robes and backed up by his aides.
+Appearance: Middle aged men with clerical robes, neatly groomed, slightly below average height.
 
-The Archdeacon Petrus is not designed as a player character, and his Virtues and Flaws do not balance. His relic and guardian angel are the results of his achievements within the church and with the Servants of God.
-
-In Petrus’ youth he often assisted his bishop in the consecration of new churches following mundane expansion into the wild, and traveled the lands a great deal. During one of these ventures he angered woodland faeries by trying to banish them with prayers, but it opened his mind to the existence of other realms. His moves up the career ladder were due solely to his personal skills and influence; he did not meet Hugo until he was already archdeacon, although the magus led Petrus to include the holy mystics in his chapter of canons.
-
-Archdeacon Petrus knows of the Order of Hermes, and that the magi are not all heretics and diabolists, being like most of humanity with elements of both good and bad. But just as he feels his own position gives him great responsibilities to help humankind, so too does the great power of the magi. He despises magi using power for their own gain, especially when it is at the cost of innocent mundanes. Hugo led him to believe the crisis of the great fire on the Town was caused by meddling magi, and that this was an opening to approach the Order and let them know they are being watched. His great wish is for the Order of Hermes to seek to harmonize their magic with the Dominion, and he will do his part to further their acceptance among the church and the mundanes. At first he will work only behind the scenes, but in time, as magi convert to holy magic, he intends to step into the open, hoping he will have been elevated in clerical rank to hold more political power among nobles and the church both. He feels personally responsible for the entire organization of the Servants of God, which is still growing in numbers as well as power. While he readily uses connections to the bishop as deterrent he has no real power to mobilize him, and the bishop does not appear in these stories. The storyguide may choose to include the bishop if this fits her saga and play style better, but it is beyond the scope of this book.
+The three holy mystics Gabriel, Michael, and Raphael have very similar game statistics, but each has a different set of three Minor Flaws. Gabriel has Busybody, Clumsy, and No Sense of Direction. Michael has Carefree, Lingering Injury (**Grogs,** page 81), and Missing Ear. Raphael has Arthritis, Motion Sickness, and Temperate. When Fabianus found them, he was surprised that they had each taken the name of a different archangel, and he believes that it is a sign that they should work together. Over the years they have been taught by Fabianus and guided toward texts on the subject of their Holy Methods and Powers. They know Fabianus only under the name Hugo, but do know that he is a Hermetic magus — he is the source of their knowledge of the Order of Hermes — from a minority practicing Holy Magic, and that he works with the archdeacon. They are all ordained priests, but their duties for the church are kept to a minimum so they have time to work for Fabianus. The majority of their time is devoted to matters important for both their duties as canons and the grand harmonization project.
 
 ### Resolution and Legal Matters
 
-If the investigation of the crypt drew unwanted attention, or caused material damage or bodily harm, the Order soon after faces an enraged archdeacon. He demands justice, penance by the guilty parties, and stricter enforcement of the rules to ensure that this does not happen again. He hints it is within his power to suggest to the bishop here and in other dioceses to enforce a hard line against magic. Such a situation would certainly count as “bringing ruin on my sodales.” The Order will certainly investigate, and if the player characters can be shown to be responsible, they will be punished at Tribunal. The archdeacon is careful to ask that they be given the chance to make good the damage they have done, rather than being Marched, but has less influence over the course of Hermetic justice than he thinks. If they are Marched, the archdeacon offers them sanctuary, in return for their support;
+If the investigation of the crypt drew unwanted attention, or caused material damage or bodily harm, the Order soon after faces an enraged archdeacon. He demands justice, penance by the guilty parties, and stricter enforcement of the rules to ensure that this does not happen again. He hints it is within his power to suggest to the bishop here and in other dioceses to enforce a hard line against magic. Such a situation would certainly count as “bringing ruin on my sodales.” The Order will certainly investigate, and if the player characters can be shown to be responsible, they will be punished at Tribunal. The archdeacon is careful to ask that they be given the chance to make good the damage they have done, rather than being Marched, but has less influence over the course of Hermetic justice than he thinks. If they are Marched, the archdeacon offers them sanctuary, in return for their support; this possibility is touched on later. In any event, these matters are raised at Tribunal, which must also deal with Fabianus and the mystics themselves, if they have survived.
 
 <!-- p. 74 --><a id="page-74"></a>
-
-this possibility is touched on later. In any event, these matters are raised at Tribunal, which must also deal with Fabianus and the mystics themselves, if they have survived.
 
 ### Staying in the Shadows
 
@@ -3443,47 +3473,6 @@ One way to run the political game could be to run small stories before the Tribu
 > - Spells may not be cast with words or gestures, resulting in a –15 penalty, although Virtues like Subtle Magic or Deft Form still apply to offset these. The magus can substitute prayer for Hermetic procedures, requiring a simple roll of Presence + Theology against an Ease Factor of 15.
 > - Holy magi may use the special divine Ranges, Durations, and Target parameters found in *Realms of Power: The Divine Revised Edition,* [page 68](#page-68). They do not need to use vis in rituals, but may substitute one long-term Fatigue level for every three pawns. This fatigue is not regained during the duration of the effect.
 > - Provided the magus has the necessary Methods and Powers he may use the guidelines for Miraculous Effects from *Realms of Power: The Divine Revised Edition,* [pages 46–56](#page-46), using the most appropriate Hermetic Technique and Form instead. They may even surpass Hermetic limits in certain ways, although this requires that the spell be a Ritual.
-
-#### Holy Mystic
-
-Characteristics: Int +2, Per 0, Pre 0, Com +3, Str –1, Sta 0, Dex –1, Qik 0
-
-Size: 0
-
-Age: 35 (35)
-
-Decrepitude: 0
-
-Warping Score: 1 (1)
-
-Confidence Score: 1 (3)
-
-Virtues and Flaws: Priest; Invocation, [Holy Power]; Arcane Lore, Divine Ceremony, Puissant [Holy Power]; Dark Secret: Involved with Wizards; Offensive to Demons, See Description
-
-Personality Traits: Pious +4
-
-Reputations:
-
-Combat:
-- Dodge: Init 0, Attack n/a, Defense 0, Damage n/a
-
-Soak: +1
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Diocese 3 (churches), Artes Liberales 2 (debate), Ceremony 5 (Invocation), Civil and Canon Law 3 (canon court), Concentration 3 (Holy Powers), Dominion Lore 3 (angels), [Holy Power]\* 5+2 (Invocation), Infernal Lore 2 (demons), Invocation 5 (in Ceremony), Latin 5 (Church usage), Local Language 5 (preaching), Magic Lore 1 (magical effects), Organization Lore: Church 4 (politics), Teaching 3 (academics), Theology 3 (debate)
-
-\* Each of the three holy mystics knows a different one of the following Holy Powers: Adjuration, Blessing, or Wonders
-
-Equipment: Clerical robes,
-
-Encumbrance: 0
-
-Appearance: Middle aged men with clerical robes, neatly groomed, slightly below average height.
-
-The three holy mystics Gabriel, Michael, and Raphael have very similar game statistics, but each has a different set of three Minor Flaws. Gabriel has Busybody, Clumsy, and No Sense of Direction. Michael has Carefree, Lingering Injury (**Grogs,** page 81), and Missing Ear. Raphael has Arthritis, Motion Sickness, and Temperate. When Fabianus found them, he was surprised that they had each taken the name of a different archangel, and he believes that it is a sign that they should work together. Over the years they have been taught by Fabianus and guided toward texts on the subject of their Holy Methods and Powers. They know Fabianus only under the name Hugo, but do know that he is a Hermetic magus — he is the source of their knowledge of the Order of Hermes — from a minority practicing Holy Magic, and that he works with the archdeacon. They are all ordained priests, but their duties for the church are kept to a minimum so they have time to work for Fabianus. The majority of their time is devoted to matters important for both their duties as canons and the grand harmonization project.
 
 ## Story III: Tribunal
 
@@ -4061,46 +4050,6 @@ Further, removing the enchantments does not restore the memories that have been 
 
 Galafre may seem like a charming figure, but the charm is entirely superficial, and his vile acts could easily cause a major problem for the Order of Hermes, as well as being morally repugnant. Of course he does not see things this way; he would argue that all seductions are based on deceit and trickery, and his fathering the child was an unintended result of a simple seduction gone wrong. Furthermore did Merlin the Magician not change the appearance of Uther Pendragon so he could lie with the Countess who became Arthur’s mother? He may go further, slipping in to blasphemy as he protests that our Lord was engendered upon the Virgin by the Holy Spirit, and that he should not be judged. The problem is that Galafre really believes that his actions were acceptable and reasonable, and can manage any level of self-deceit to justify himself. He is utterly irresponsible, and always convinced he was in the right and is the victim of persecution by others.
 
-## Part Two: Lhude Sing Cuccu!
-
-Five to eight years have passed since the events of the previous story, as suits the needs of your saga. (This story assumes that Valentin is at the castle — if he now lives with the magi, adapt the haunting to occur when he is with them, but somehow traveling outside the *Aegis of the Hearth.*)
-
-Little Valentin has grown up to be a delightful young boy, and Lady Gracia and her husband still reside in the castle at Montcuq. However, things have once again become difficult there, and once again Lady Gracia seeks assistance from the magi. The castle is in uproar; mysterious voices announce peoples’ secrets, strange knocking noises echo from the walls and an exorcist sent by the bishop of Cahors was hurled bodily into a dung heap! And somehow Valentin is at the center of all this — his toys come to life, his wooden horse races around the castle without a rider, he was found sound asleep balanced on the edge of the battlements, and on one occasion he seemed to fly up in the air during a meal in the Great Hall. Word is spreading that the child is bewitched. Lady Gracia realizes she must seek help, and after the Bishop’s exorcist, Jorda, failed to assist, and indeed fled in terror, to whom can she turn but the magi?
-
-The characters probably suspect that Valentin is Gifted, as the disturbances are similar to the experiences they all had before they learned how to control their Gift and were adopted as apprentices. They may even consider Valentin to be a potential apprentice worthy of adoption. Sadly the disturbances are actually caused by faeries, unconnected with Galafre and the troubadour Vital. Neither of those two is present in Montcuq for this story, but it likely that if they are alive after the first story the magi are expecting to find them involved, and various red herrings may distract them from the real cause of events.
-
-<!-- p. 92 --><a id="page-92"></a>
-
-> ### Sir Vital’s Lute
->
-> If Sir Vital is slain his body is reduced to an old coat, a pair of boots, some straw and sticks, and two bright brass buttons. However his lute remains, containing seven pawns of Faerie Imaginem vis, and if anyone picks it up they immediately realize it is faerie. It confers the Supernatural Ability Enchanting Music 3 (or a +3 bonus to characters who have it) on the wielder, and while it remains intact it Sir Vital can reform his body. If destroyed, he reforms before the third part of the story, and the lute returns to his possession. If the vis is used the lute crumbles to dust, and Sir Vital is not able to return, in which case it may be another faerie, perhaps his brother who returns to continue the story later, having taken on the role.
-
-Identifying the faeries and stopping the “haunting” should prove to be straightforward, but unfortunately the faeries return until the correct way of dealing with them is discovered.
-
-### A Redcap Arrives
-
-The story begins on a beautiful early autumn afternoon when the grogs on duty at the covenant see dust on the horizon heralding a rider approaching the covenant at great speed. As the figure approaches it is possible to make out that it is female, and wearing the distinctive headgear of a Redcap. It is Jacobella, a friend of Lady Gracia and a Redcap from the Roman Tribunal who often brings messages to this one. She is clearly in a great hurry. Once she arrives she leaps off her horse, leaving the exhausted beast to be stabled and watered by the grogs, and demands an immediate audience with any magi who can be disturbed. She stresses this is an important matter, and asks for by name the magi who traveled to Montcuq in the first part.
-
-She delivers any messages she has picked up on her travels for the covenant, then relates the events that have brought her here in such a hurry. Lady Gracia sent her, because it seems that the castle, particularly young Valentin, is bewitched. It would take too long to relate all the incidents that have occurred, but as far as Jacobella knows it all began about ten days ago. The Comte mentioned hearing a scratching noise, that he put down to rats in the walls, and so the lazy ginger tomcat from the stables was brought into the tower and allowed to sniff around. On reaching the private upper stories however he fluffed, hissed and retreated sharply back to his stable, and has refused to be tempted back in to the tower, even for trout!
-
-For three days the scratching continued, and then loud knocking sounds began, a whole flurry of taps. The noises mainly occurred upstairs, but soon were heard in the Great Hall, and then all over the castle. The guards were spooked, and the Comte called Father Tomas in to say prayers. Then five days ago things became far worse, as objects began to move around, and things set down vanished, only to be found hours later exactly where they had been put down. That night the first stones began to appear from nowhere, striking guards on duty as if thrown from the town, and the guard was doubled and sent out on fruitless patrols to find the perpetrators.
-
-Soon stones and other objects were flying around at all times of day and night, and one evening just three days ago Jacobella arrived and was shown to her room, only to be bombarded by stones that seemed to fall through the ceiling! That night things became unbearable — the toys in Valentin’s room began to dance, his hobby horse raced around the castle on its own, and two of the guards deserted and fled the castle, swearing it was haunted. And then, just after midnight the voices started, loudly crying out the secret thoughts of all present, spreading malicious gossip and claiming to be the ghost of Galafre, come for revenge, and accusing servants of all manner of dreadful things. Even Jacobella was not immune, the voices claiming she was remiss in her duties — “you are no Belin!” — and accusing her of having cheated many a magi in their vis deals. Jacobella could take no more, and on seeing Valentin rise in to the air, apparently quite unconcerned, at breakfast, she rushed to Lady Gracia and asked permission to fetch the magi. Gracia did not hesitate, and asked her to ride forth at once, to tell the covenant her son was bewitched and plead with them to come immediately.
-
-<!-- p. 93 --><a id="page-93"></a>
-
-If the magi do not think of it, Jacobella can raise the possibility that the boy is Gifted, and this could be the first manifestations of his Gift, in episodes called ‘turbulences’ by the Order (see [*Apprentices*, page 12](<Ars Magica 5e - Magic - Apprentices.md>)).
-
-#### Questioning Jacobella
-
-Questioning Jacobella is an obvious first line of inquiry, but she actually knows little more than she has told. She can detail a few specific incidents she saw with her own eyes, like Valentin rising in to the air, and the shower of pebbles that seemed to fall through the roof and bombard her. She lacks Second Sight, so saw nothing, but she notes that events seem to occur equally during the day and at night, though at night they may be slightly more violent.
-
-Father Tomas said prayers and sprinkled holy water through the castle, but has not performed a full exorcism rite, as he insists that the bishop of Cahors must authorize such a ritual. An Intelligence + Canon & Civil Law roll against an Ease Factor of 9 shows that this is correct, as the priest is not an exorcist, and a bishop’s authority is always required. A 12 reveals that exorcism rites are usually directed at persons, not places, and that the next thing usually done after a blessing is to celebrate Mass in a room within the ‘haunted’ building, and repeat this until things calm down.
-
-If asked about the voices, Jacobella says that they seem to come from out of the air, or sometimes from within the walls, are always male but vary in accent and intonation, and always have an odd quality, as if they were played on a pipe organ, or created by some artificial means. They never sound natural like a Creo Imaginem effect, which can be made to perfectly imitate human speech, and they are often punctuated with loud sighs and groans. They constantly lie and spread utterly malicious untruths and gossip. She has noticed one thing: events rarely occur when Lady Gracia is in a room. This has made her suspicious of the comtess.
-
-Jacobella is, however, hiding something. Perception + Folk Ken against an Ease Factor of 9 reveals she is holding something back, and a roll of 12+ reveals that she is embarrassed and worried by something the voices have said. In fact, she knows that the “voices” can apparently read her mind, and that the things they have said about her have been true in the main, while slanted to make things sound as bad as possible. An Intelligence + Organization Lore: Order of Hermes roll against an Ease Factor of 15 reveals that Jacobella has in the past been accused of sharp practice in vis dealings, and of failing to deliver messages promptly and on time, and that once she was brought before Tribunal after her failure to deliver a declaration of Wizard’s War had disastrous results. Fortunately, on that occasion the reason was that she had been shipwrecked, and unable to escape the coast of North Africa in time, but Jacobella’s reputation has been tarnished since the death of Otto of Tytalus in a Wizard’s War he knew nothing of.
-
 ### Galafre of Merinita
 
 Characteristics: Int 0, Per –2, Pre +1, Com +2, Str 0, Sta +2, Dex +2, Qik 0
@@ -4165,6 +4114,46 @@ Spells Known:
 - Confusion of the Numbed Will (ReMe 15/+28)
 - Loss of But a Moment’s Memory (PeMe 15/+33)
 - Posing the Silent Question (InMe 20/+28)
+
+## Part Two: Lhude Sing Cuccu!
+
+Five to eight years have passed since the events of the previous story, as suits the needs of your saga. (This story assumes that Valentin is at the castle — if he now lives with the magi, adapt the haunting to occur when he is with them, but somehow traveling outside the *Aegis of the Hearth.*)
+
+Little Valentin has grown up to be a delightful young boy, and Lady Gracia and her husband still reside in the castle at Montcuq. However, things have once again become difficult there, and once again Lady Gracia seeks assistance from the magi. The castle is in uproar; mysterious voices announce peoples’ secrets, strange knocking noises echo from the walls and an exorcist sent by the bishop of Cahors was hurled bodily into a dung heap! And somehow Valentin is at the center of all this — his toys come to life, his wooden horse races around the castle without a rider, he was found sound asleep balanced on the edge of the battlements, and on one occasion he seemed to fly up in the air during a meal in the Great Hall. Word is spreading that the child is bewitched. Lady Gracia realizes she must seek help, and after the Bishop’s exorcist, Jorda, failed to assist, and indeed fled in terror, to whom can she turn but the magi?
+
+The characters probably suspect that Valentin is Gifted, as the disturbances are similar to the experiences they all had before they learned how to control their Gift and were adopted as apprentices. They may even consider Valentin to be a potential apprentice worthy of adoption. Sadly the disturbances are actually caused by faeries, unconnected with Galafre and the troubadour Vital. Neither of those two is present in Montcuq for this story, but it likely that if they are alive after the first story the magi are expecting to find them involved, and various red herrings may distract them from the real cause of events.
+
+<!-- p. 92 --><a id="page-92"></a>
+
+> ### Sir Vital’s Lute
+>
+> If Sir Vital is slain his body is reduced to an old coat, a pair of boots, some straw and sticks, and two bright brass buttons. However his lute remains, containing seven pawns of Faerie Imaginem vis, and if anyone picks it up they immediately realize it is faerie. It confers the Supernatural Ability Enchanting Music 3 (or a +3 bonus to characters who have it) on the wielder, and while it remains intact it Sir Vital can reform his body. If destroyed, he reforms before the third part of the story, and the lute returns to his possession. If the vis is used the lute crumbles to dust, and Sir Vital is not able to return, in which case it may be another faerie, perhaps his brother who returns to continue the story later, having taken on the role.
+
+Identifying the faeries and stopping the “haunting” should prove to be straightforward, but unfortunately the faeries return until the correct way of dealing with them is discovered.
+
+### A Redcap Arrives
+
+The story begins on a beautiful early autumn afternoon when the grogs on duty at the covenant see dust on the horizon heralding a rider approaching the covenant at great speed. As the figure approaches it is possible to make out that it is female, and wearing the distinctive headgear of a Redcap. It is Jacobella, a friend of Lady Gracia and a Redcap from the Roman Tribunal who often brings messages to this one. She is clearly in a great hurry. Once she arrives she leaps off her horse, leaving the exhausted beast to be stabled and watered by the grogs, and demands an immediate audience with any magi who can be disturbed. She stresses this is an important matter, and asks for by name the magi who traveled to Montcuq in the first part.
+
+She delivers any messages she has picked up on her travels for the covenant, then relates the events that have brought her here in such a hurry. Lady Gracia sent her, because it seems that the castle, particularly young Valentin, is bewitched. It would take too long to relate all the incidents that have occurred, but as far as Jacobella knows it all began about ten days ago. The Comte mentioned hearing a scratching noise, that he put down to rats in the walls, and so the lazy ginger tomcat from the stables was brought into the tower and allowed to sniff around. On reaching the private upper stories however he fluffed, hissed and retreated sharply back to his stable, and has refused to be tempted back in to the tower, even for trout!
+
+For three days the scratching continued, and then loud knocking sounds began, a whole flurry of taps. The noises mainly occurred upstairs, but soon were heard in the Great Hall, and then all over the castle. The guards were spooked, and the Comte called Father Tomas in to say prayers. Then five days ago things became far worse, as objects began to move around, and things set down vanished, only to be found hours later exactly where they had been put down. That night the first stones began to appear from nowhere, striking guards on duty as if thrown from the town, and the guard was doubled and sent out on fruitless patrols to find the perpetrators.
+
+Soon stones and other objects were flying around at all times of day and night, and one evening just three days ago Jacobella arrived and was shown to her room, only to be bombarded by stones that seemed to fall through the ceiling! That night things became unbearable — the toys in Valentin’s room began to dance, his hobby horse raced around the castle on its own, and two of the guards deserted and fled the castle, swearing it was haunted. And then, just after midnight the voices started, loudly crying out the secret thoughts of all present, spreading malicious gossip and claiming to be the ghost of Galafre, come for revenge, and accusing servants of all manner of dreadful things. Even Jacobella was not immune, the voices claiming she was remiss in her duties — “you are no Belin!” — and accusing her of having cheated many a magi in their vis deals. Jacobella could take no more, and on seeing Valentin rise in to the air, apparently quite unconcerned, at breakfast, she rushed to Lady Gracia and asked permission to fetch the magi. Gracia did not hesitate, and asked her to ride forth at once, to tell the covenant her son was bewitched and plead with them to come immediately.
+
+<!-- p. 93 --><a id="page-93"></a>
+
+If the magi do not think of it, Jacobella can raise the possibility that the boy is Gifted, and this could be the first manifestations of his Gift, in episodes called ‘turbulences’ by the Order (see [*Apprentices*, page 12](<Ars Magica 5e - Magic - Apprentices.md>)).
+
+#### Questioning Jacobella
+
+Questioning Jacobella is an obvious first line of inquiry, but she actually knows little more than she has told. She can detail a few specific incidents she saw with her own eyes, like Valentin rising in to the air, and the shower of pebbles that seemed to fall through the roof and bombard her. She lacks Second Sight, so saw nothing, but she notes that events seem to occur equally during the day and at night, though at night they may be slightly more violent.
+
+Father Tomas said prayers and sprinkled holy water through the castle, but has not performed a full exorcism rite, as he insists that the bishop of Cahors must authorize such a ritual. An Intelligence + Canon & Civil Law roll against an Ease Factor of 9 shows that this is correct, as the priest is not an exorcist, and a bishop’s authority is always required. A 12 reveals that exorcism rites are usually directed at persons, not places, and that the next thing usually done after a blessing is to celebrate Mass in a room within the ‘haunted’ building, and repeat this until things calm down.
+
+If asked about the voices, Jacobella says that they seem to come from out of the air, or sometimes from within the walls, are always male but vary in accent and intonation, and always have an odd quality, as if they were played on a pipe organ, or created by some artificial means. They never sound natural like a Creo Imaginem effect, which can be made to perfectly imitate human speech, and they are often punctuated with loud sighs and groans. They constantly lie and spread utterly malicious untruths and gossip. She has noticed one thing: events rarely occur when Lady Gracia is in a room. This has made her suspicious of the comtess.
+
+Jacobella is, however, hiding something. Perception + Folk Ken against an Ease Factor of 9 reveals she is holding something back, and a roll of 12+ reveals that she is embarrassed and worried by something the voices have said. In fact, she knows that the “voices” can apparently read her mind, and that the things they have said about her have been true in the main, while slanted to make things sound as bad as possible. An Intelligence + Organization Lore: Order of Hermes roll against an Ease Factor of 15 reveals that Jacobella has in the past been accused of sharp practice in vis dealings, and of failing to deliver messages promptly and on time, and that once she was brought before Tribunal after her failure to deliver a declaration of Wizard’s War had disastrous results. Fortunately, on that occasion the reason was that she had been shipwrecked, and unable to escape the coast of North Africa in time, but Jacobella’s reputation has been tarnished since the death of Otto of Tytalus in a Wizard’s War he knew nothing of.
 
 ### Arriving in Montcuq
 
@@ -4780,33 +4769,6 @@ Galera is contracted in marriage to Rufus. The House considers Galera and Rufus 
 
 The dreams began after she heard of her arranged betrothal several years ago. The man she met in her dreams promised to give her back what had been taken from her. He called himself Atorcoppe but she barely flinched when he revealed he had once been Damhan-Allaidh, the Order’s ancient enemy. The nocturnal visitor promised her the revenge she so dearly sought against those who had belittled her and treated her as a second-class member of the Order. What’s more, he claimed he could restore her Gift. All she had to do was to steal something from the fiancé she had yet to meet.
 
-## Prequel: Introducing Rufus
-
-The first story has more impact if the player characters are already acquainted with Rufus. In most tribunals each Redcap has an itinerary consisting of a few, geographically-close covenants that are visited in one trip. Rufus could be a new Redcap following the retirement of the covenant’s regular messenger, or else he could be a temporary replacement for the incumbent, who could be recovering from an illness or seconded to a different task.
-
-The storyguide may wish to run a short story involving Rufus in order to acquaint the player characters with him and develop an attachment to his friendly manner and cheerful demeanor. If he becomes friends with the player characters they may learn of his upcoming marriage to Galera (whom he is yet to meet).
-
-Some example stories include:
-
-- Upon arriving at the covenant (or a village near the covenant), Rufus sees a young girl playing and grabs her and starts shaking her, shouting all the time. He had a dream (that is, a vision) the last night that the girl was trapped in a stone box with snakes and toads. He is convinced that the girl at the covenant is a faerie changeling and asks the player characters to exonerate his behavior by helping him uncover the truth.
-- Rufus turns up at the covenant badly beaten. He was attacked by bandits close to the player characters’ covenant and all of his belongings stolen, including his enchantments. He is most concerned about retrieving a medal bearing the likeness of his betrothed. The ale-wife of a nearby village has been informing an outlaw group about rich-looking travelers in exchange for a portion of any plunder.
-- The player characters are in dire straits: outnumbered in a fight, trapped in a cave, or some other hopeless situation. Rufus arrives with just the help they need to save the day, following a vision he had about their predicament.
-- Rufus enters a village contest hosted by the local lord and wins a side of bacon, a whole goose and a barrel of wine in a feat of endurance (helped by his innate resistance to pain). He offers a share of his winnings to the covenant’s grogs if they will help him fetch it from the village. When they arrive, the villagers are unwilling to allow the prizes to go to a stranger. The grogs must help Rufus ‘negotiate’ (steal) his winnings from the villagers.
-
-The point of these stories is to develop some sympathy for Rufus, motivating the characters to find him when he later goes missing. Introducing his Visions Flaw provides context for his later actions.
-
-<!-- p. 110 --><a id="page-110"></a>
-
-## Story I: A Tale of Two Redcaps
-
-This story opens with a scheduled visit from Rufus. This only needs to be brought to the attention of the player characters if they have some messages due or anything to dispatch. Rufus leaves after the customary three days to continue his rounds. The storyguide could employ one of the story seeds mentioned above if he wants to make the visit more memorable, or if more bonding between the player characters and Rufus is needed.
-
-### Rufus’s Vision
-
-Unbeknown to the player characters, Rufus has a vision (from his Flaw of the same name) on his last night at the characters’ covenant. It is centered around an heirloom that once belonged to his ancestor Giaro. In his vision, Rufus foresaw that if he should leave the covenant without his claw necklace then things would go very badly for himself; however, if he left wearing it as usual then things would go very badly for the Order of Hermes. Faced with a difficult decision, his loyalty to the Order won over concerns of his own personal safety and he decided to hide the necklace in the guest room in which he was staying. He has no idea of the significance of the object.
-
-<!-- p. 111 --><a id="page-111"></a>
-
 #### Galera, Redcap of House Mercere
 
 Characteristics: Int –1, Per +2, Pre +1, Com 0, Str +1, Sta +2, Dex +3, Qik –2
@@ -4863,6 +4825,33 @@ Encumbrance (combat): 1 (2); (non combat): 3 (4)
 Vis: none
 
 Appearance: A sharp-featured athletic woman with short blonde hair. She wears a long blue overtunic; this is a little short for a woman’s gown and her white hose can be seen beneath. On the road she dons a boiled leather cuirass. She has a short brown hooded cape that conceals the short sword at her side. She drops her pack and spare weapons when in combat, reducing her Encumbrance. Galera keeps her red cap in a pouch, donning it only when she greets magi. She tends to activate her *Crystal Ring* at the same time.
+
+## Prequel: Introducing Rufus
+
+The first story has more impact if the player characters are already acquainted with Rufus. In most tribunals each Redcap has an itinerary consisting of a few, geographically-close covenants that are visited in one trip. Rufus could be a new Redcap following the retirement of the covenant’s regular messenger, or else he could be a temporary replacement for the incumbent, who could be recovering from an illness or seconded to a different task.
+
+The storyguide may wish to run a short story involving Rufus in order to acquaint the player characters with him and develop an attachment to his friendly manner and cheerful demeanor. If he becomes friends with the player characters they may learn of his upcoming marriage to Galera (whom he is yet to meet).
+
+Some example stories include:
+
+- Upon arriving at the covenant (or a village near the covenant), Rufus sees a young girl playing and grabs her and starts shaking her, shouting all the time. He had a dream (that is, a vision) the last night that the girl was trapped in a stone box with snakes and toads. He is convinced that the girl at the covenant is a faerie changeling and asks the player characters to exonerate his behavior by helping him uncover the truth.
+- Rufus turns up at the covenant badly beaten. He was attacked by bandits close to the player characters’ covenant and all of his belongings stolen, including his enchantments. He is most concerned about retrieving a medal bearing the likeness of his betrothed. The ale-wife of a nearby village has been informing an outlaw group about rich-looking travelers in exchange for a portion of any plunder.
+- The player characters are in dire straits: outnumbered in a fight, trapped in a cave, or some other hopeless situation. Rufus arrives with just the help they need to save the day, following a vision he had about their predicament.
+- Rufus enters a village contest hosted by the local lord and wins a side of bacon, a whole goose and a barrel of wine in a feat of endurance (helped by his innate resistance to pain). He offers a share of his winnings to the covenant’s grogs if they will help him fetch it from the village. When they arrive, the villagers are unwilling to allow the prizes to go to a stranger. The grogs must help Rufus ‘negotiate’ (steal) his winnings from the villagers.
+
+The point of these stories is to develop some sympathy for Rufus, motivating the characters to find him when he later goes missing. Introducing his Visions Flaw provides context for his later actions.
+
+<!-- p. 110 --><a id="page-110"></a>
+
+## Story I: A Tale of Two Redcaps
+
+This story opens with a scheduled visit from Rufus. This only needs to be brought to the attention of the player characters if they have some messages due or anything to dispatch. Rufus leaves after the customary three days to continue his rounds. The storyguide could employ one of the story seeds mentioned above if he wants to make the visit more memorable, or if more bonding between the player characters and Rufus is needed.
+
+### Rufus’s Vision
+
+Unbeknown to the player characters, Rufus has a vision (from his Flaw of the same name) on his last night at the characters’ covenant. It is centered around an heirloom that once belonged to his ancestor Giaro. In his vision, Rufus foresaw that if he should leave the covenant without his claw necklace then things would go very badly for himself; however, if he left wearing it as usual then things would go very badly for the Order of Hermes. Faced with a difficult decision, his loyalty to the Order won over concerns of his own personal safety and he decided to hide the necklace in the guest room in which he was staying. He has no idea of the significance of the object.
+
+<!-- p. 111 --><a id="page-111"></a>
 
 ### Galera’s Arrival
 
@@ -5520,101 +5509,6 @@ There are several ways in which the player characters can get involved. In the f
 
 The assassin is a spider-giant hybrid called an inspiderwiht. Although naturally twenty feet tall, an inspiderwiht can shrink itself to the size of a mouse, and subtracts its Size from all stealth rolls. Furthermore, they are capable of perfect silence, which grants another +6 bonus. It is therefore likely that the inspiderwiht is able to successfully creep up on the characters. It has orders to only kill those on the list of names it has been given, and constantly mutters that list of names over and over once battle is enjoined. Once it locates someone on its list using the *Know the Name* power, it attacks with great ferocity. Note that due to Magic Resistance, it is unlikely to identify magi as its targets, although if it hears another character use a name on its list it switches targets immediately. Characters should be in battle with it long enough to hear it recite the full list a few times, and note the inclusion of ‘Simon son of Galera’ amongst the names.
 
-#### Reunion with Simon
-
-Hopefully, the player characters realize that Simon is in danger. There could be more of these monsters out there, and they clearly want him dead for a reason. This should be sufficient impetus to contact Simon’s master or travel to his covenant. They will learn, either in a return letter or from Simon himself, that Simon has been beset by bad dreams harking back to the time he was with his mother. He has questions for the player characters about the ruined fort in which they found Rufus: he can describe it perfectly despite not remembering ever being there. He was about five years old at the time of the first story, and staying alone at one of the many houses rented by his mother.
-
-If the characters use spells to improve Simon’s memory, they find them ineffective. They might assume that the memories have been deliberately removed; but in this case it is the influence of Damhan-Allaidh’s mind control. He asks if the characters could take him to the ruined fort, to see if anything there manages to prompt his memory. His master is in favor of this; he can spare Simon for a season, and would rather the boy resolves any issues of his murky past.
-
-### Return to the Ruined Fort
-
-On the road to the ruined fort, the player characters have the opportunity to reacquaint themselves with Simon. When they last saw him he was a frightened boy; now he is a young man of surprising intelligence with a confident manner. He has an inquiring mind, and engages any player magus willing to debate with him in a discussion on almost any subject other than his mother. He already knows the basics – that she tortured and murdered another redcap, and tried to ruin the player characters – but Damhan-Allaidh has been whispering sordid details about his mother’s life into his head for over two years, in an attempt to demoralize the boy and break his spirit.
-
-<!-- p. 129 --><a id="page-129"></a>
-
-The ruined fort is much as the player characters remember it. Gloom hangs over the stones like a funereal shroud, and light fails to penetrate its murky shadows. There is no evidence of any monstrous spiders here; the only arachnids that remain are normal sized. However, their presence might make players paranoid and characters nervous, so the storyguide should mention them at every opportunity.
-
-Simon feels that he has been here before, and leads the characters confidently to the large cavern containing the ravine. He knows that a chamber lies beyond, and asks the player characters to help him cross. The absence of the monstrous spiders has left the ravine without a bridge. It is ten paces wide and fifteen paces deep. Prepared characters may have had their grogs carry ropes and grapnels, or else they may have to rely upon magic.
-
-The chamber where Rufus died is just as the characters left it, although Simon can describe exactly what it looked like when the characters first came here. If the player characters did not resolve matters with Rufus’s ghost (for example, if he doesn’t know that Galera is dead) then he still haunts this chamber, and has become a vengeful spirit bitter with his betrayal by both his fiancée and the player characters.
-
-Having inspected every inch of the chamber, Simon then suggests following the river at the bottom of the ravine upstream. It is unlikely that the player characters explored here when they were here last, and Simon is not sure why he wants to do so now. Climbing to the bottom of the ravine and struggling against the icy torrent of water in cramped conditions and pitch darkness may be challenge enough, but there are further perils here.
-
-- There are no riverbanks, and the characters must slog upstream along the stream bed. The water is two to three feet deep in most places, and icy cold. The player characters must make Deprivation rolls with an interval of three hours to fight off exhaustion and hypothermia from the cold water. Since all characters are partially submerged in the water, they suffer a –3 penalty to these rolls. If characters become soaked through they suffer a –6 penalty instead. Due to the slippery conditions, rolls involving physical activity have three extra botch dice.
-- Unseen beneath the foaming water are deep potholes cut out by stones caught in the swirling current. The lead character is certain to fall into the first of these; whether she is followed in depends on the reactions of those following. Characters submerged in a pothole must make a Strength + Swim roll against an Ease Factor of 6 to fight the strong current sufficiently to catch a breath, else they begin to drown. The character’s Burden, rather than Encumbrance, acts as a penalty on this roll.
-- The characters find themselves at the base of a subterranean waterfall. It rises fifteen paces over a horizontal distance of ten paces. Climbing over the slippery rocks while water cascades over the top is physically demanding, requiring a Strength + Athletics roll against an Ease Factor of 12. If the characters have ropes then once one is in place subsequent characters have a +3 bonus to the climbing roll. A character can be hauled up by other characters: this requires a total Strength of +3, and the dragged character suffers +0 damage from the bumps and scrapes he receives.
-- The channel through which the stream runs narrows dramatically. Make a Dexterity + Athletics roll, with an Ease Factor of 6 + (3 x Size) to get through the gap. Failure indicates the character cannot get through without help, a botch indicates the character has become wedged tight. Help can be provided from lamp oil or similar, which allows the character a +3 to the roll. A character pulling or pushing another can also add +3 to the stuck character’s roll, but the character in the gap suffers +3 damage from abrasion and bruising. A wedged character might be able to be pulled free by a strong character, although the damage taken increases by the puller’s Strength.
-
-<!-- p. 130 --><a id="page-130"></a>
-
-In addition to these natural hazards, there may be some denizens of the long-abandoned mines and subterranean tunnels that do not appreciate the intrusion into their home. Examples of such creatures include an elemental that has rarefied from an untapped seam of silver or the ghosts of a trapped mine team.
-
-#### Simon
-
-Characteristics: Int +4, Per 0, Pre 0, Com +2, Str –2, Sta +1, Dex 0, Qik 0
-
-Size: 0
-
-Age: 15 (15)
-
-Decrepitude: 0
-
-Warping Score: 0 (0)
-
-Confidence Score: 2 (5)
-
-Virtues and Flaws: The Gift; Free Expression, Great Intelligence, Self-Confident, Strong-Willed; Plagued by Supernatural Entity; Unpredictable Magic
-
-Personality Traits: Preoccupied +2, Independent +1, Likable +1
-
-Reputations: Son of a Marched Redcap 1 (Hermetic)
-
-Combat:
-- Dodging: Init 0, Attack n/a, Defense +2, Damage n/a
-
-Soak: +1
-
-Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
-
-Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-Abilities: Area Lore: Local 2 (roads), Artes Liberales 1 (deciphering handwriting), Athletics 1 (slippery conditions), Awareness 1 (spiders), Brawl 1 (dodge), Concentration 1(5) (Muto), Finesse 2 (Creo), Folk Ken 1 (adults), Latin 3 (5) (Hermetic), Magic Lore 2 (spiders), Magic Theory 2 (10) (Muto), Music 2 (peasant reels), Native Language\* 5 (local dialect), Organization Lore: Order of Hermes 1 (5) (House Mercere), Stealth 1 (woodland)
-
-\* Note that this should be the same language and dialect as spoken by Galera
-
-Arts: Cr 2, In 0, Mu 5, Pe 0, Re 3; An 0, Aq 0, Au 0, Co 3, He 0, Ig 0, Im 2(2), Me 0, Te 2(2), Vi 0
-
-Twilight Scars: none
-
-Equipment: Good quality clothes, secret keepsake of his mother
-
-Encumbrance: 0 (0)
-
-Spells Known: none yet
-
-Appearance: For those who knew Galera, Simon bears a strong resemblance to his mother, with the same sharp features and blond hair. His intelligence is evident since he is a confident speaker, especially when talking about magic. He loves to sing, and does so frequently when he thinks he is alone.
-
-Simon has been designed with four points of Virtues and Flaws. He should be finished with further Virtues and Flaws appropriate to his parens and eventual House, and his free House Virtue. If he has been trained by a player character, then his Abilities and Arts should be calculated in the usual way rather than using those here.
-
-#### Galera’s Hidey-Hole
-
-Simon eventually spots a side tunnel leading from the stream, situated about ten feet from the water’s surface. This would be easy to miss: it is only because Simon somehow knew it was there that he managed to find it. After a few twists and turns the tunnel leads to a small chamber, clearly a natural cave that has been enlarged and had the floor leveled. A niche holds the remnants of a straw mattress, and an escritoire (traveler’s writing desk) sits on the floor. This contains an inkstone, some scraps of parchment, and other materials used by scribes. There is a crude box containing the decade-old remains of food, and a few other personal effects such as children’s toys. The walls of the cave are plastered with parchment. Some have been nailed in place, others pasted there.
-
-<!-- p. 131 --><a id="page-131"></a>
-
-Everything in the room is coated with black mold, which releases clouds of black spores when disturbed, which can cause choking (make a Stamina roll against an Ease Factor of 6 or else lose a Fatigue level). The spores are also flammable, and make open flames flare. The mold has left the writing on the parchment illegible in places. It is up to the storyguide how much of the information below has been lost, and how difficult it is to interpret the rest.
-
-Simon remembers being here as a child: the toys are his, and he recalls playing with them while his mother worked. He also remembers something traumatic happening to him here; his mother was not present and he remembers calling for her. The detail escapes him, however. This is where Galera tried to make sense of Damhan-Allaidh’s plans. Bear in mind that not all (or indeed any) of this information needs to be true — Galera was prone to fantasies, and some of this is how she intended to help her master, but written as if he had already agreed to it. This is an excellent opportunity for the player characters to learn plot points that they may have missed, or to glean more details on the hidden history of Damhan-Allaidh. Other information here could include:
-
-- Pages from a Scottish magus Bonisagus called Domhnull Beg who has made a study of ancient Pictish magician-priests and their gods;
-- Reports from a Hibernian magus regarding external souls amongst heathen Cruithnigh magicians;
-- Diary entries from Galera recording her joy when Atorcoppe referred to her son as “a precious boy”;
-- Details of a stone circle with an unusual alignment scouted out by Galera.
-
-Galera had all the information she needed to piece together her master’s true plan, but never managed to work out the threat to her son since her unstable intellect was clouded by devotion to her master. However, Damhan-Allaidh can see it laid out here on the walls, and must take steps to remove it. He takes control of Simon, and contrives an accident, such as tripping over something on the floor and dropping a lantern, spreading burning oil everywhere. Alternatively he might destroy key information while ostensibly trying to get it off the wall. After this ‘accident’, the player characters might be suspicious of Simon, but the boy (now back in control) can truthfully say he didn’t do it, while unable to say that it was due to his unwelcome passenger.
-
-If they haven’t already planned to do so, Simon suggests to the player characters that they investigate the stone circle mentioned in Galera’s notes since it is not too far from here. Once again, this is Damhan-Allaidh in control. If they need an extra push, ‘Simon’ might mention that perhaps they will find Damhan-Allaidh’s external soul at this ancient monument.
-
 #### Inspiderwiht
 
 Magic Might: 28 (Corpus)
@@ -5673,6 +5567,101 @@ Appearance: This horrid hybrid of human and spider is equally at home on two, fo
 The inspiderwihten are a clan of giants who were allies of Damhan-Allaidh during his war with Pralix. They still honor an ancient bond of fealty to the sorcerer.
 
 Inspiderwihten throw weighted sticky ropes in combat, which coil around body parts and grip tight. If a rope hits with an Attack Advantage of 6, then it manages to catch a limb in the coils of the rope, preventing the character from using one hand, denying him either his weapon or his shield, or limiting spellcasting gestures. If the Attack Advantage is 9 or more, then the rope has caught the opponent around the neck (begin making deprivation rolls) or torso (pinning arms to sides and preventing attacks, defenses, or spellcasting gestures). The ropes may be cut with edged weapons by rolling a stress die and adding the Weapon Damage modifier; this is opposed against a stress roll plus the rope’s Soak of 8. Success means than the rope has been cut, failure means the rope’s Soak has been reduced by 1.
+
+#### Reunion with Simon
+
+Hopefully, the player characters realize that Simon is in danger. There could be more of these monsters out there, and they clearly want him dead for a reason. This should be sufficient impetus to contact Simon’s master or travel to his covenant. They will learn, either in a return letter or from Simon himself, that Simon has been beset by bad dreams harking back to the time he was with his mother. He has questions for the player characters about the ruined fort in which they found Rufus: he can describe it perfectly despite not remembering ever being there. He was about five years old at the time of the first story, and staying alone at one of the many houses rented by his mother.
+
+If the characters use spells to improve Simon’s memory, they find them ineffective. They might assume that the memories have been deliberately removed; but in this case it is the influence of Damhan-Allaidh’s mind control. He asks if the characters could take him to the ruined fort, to see if anything there manages to prompt his memory. His master is in favor of this; he can spare Simon for a season, and would rather the boy resolves any issues of his murky past.
+
+#### Simon
+
+Characteristics: Int +4, Per 0, Pre 0, Com +2, Str –2, Sta +1, Dex 0, Qik 0
+
+Size: 0
+
+Age: 15 (15)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence Score: 2 (5)
+
+Virtues and Flaws: The Gift; Free Expression, Great Intelligence, Self-Confident, Strong-Willed; Plagued by Supernatural Entity; Unpredictable Magic
+
+Personality Traits: Preoccupied +2, Independent +1, Likable +1
+
+Reputations: Son of a Marched Redcap 1 (Hermetic)
+
+Combat:
+- Dodging: Init 0, Attack n/a, Defense +2, Damage n/a
+
+Soak: +1
+
+Fatigue Levels: OK, 0, –1, –3, –5, Unconscious
+
+Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
+
+Abilities: Area Lore: Local 2 (roads), Artes Liberales 1 (deciphering handwriting), Athletics 1 (slippery conditions), Awareness 1 (spiders), Brawl 1 (dodge), Concentration 1(5) (Muto), Finesse 2 (Creo), Folk Ken 1 (adults), Latin 3 (5) (Hermetic), Magic Lore 2 (spiders), Magic Theory 2 (10) (Muto), Music 2 (peasant reels), Native Language\* 5 (local dialect), Organization Lore: Order of Hermes 1 (5) (House Mercere), Stealth 1 (woodland)
+
+\* Note that this should be the same language and dialect as spoken by Galera
+
+Arts: Cr 2, In 0, Mu 5, Pe 0, Re 3; An 0, Aq 0, Au 0, Co 3, He 0, Ig 0, Im 2(2), Me 0, Te 2(2), Vi 0
+
+Twilight Scars: none
+
+Equipment: Good quality clothes, secret keepsake of his mother
+
+Encumbrance: 0 (0)
+
+Spells Known: none yet
+
+Appearance: For those who knew Galera, Simon bears a strong resemblance to his mother, with the same sharp features and blond hair. His intelligence is evident since he is a confident speaker, especially when talking about magic. He loves to sing, and does so frequently when he thinks he is alone.
+
+Simon has been designed with four points of Virtues and Flaws. He should be finished with further Virtues and Flaws appropriate to his parens and eventual House, and his free House Virtue. If he has been trained by a player character, then his Abilities and Arts should be calculated in the usual way rather than using those here.
+
+### Return to the Ruined Fort
+
+On the road to the ruined fort, the player characters have the opportunity to reacquaint themselves with Simon. When they last saw him he was a frightened boy; now he is a young man of surprising intelligence with a confident manner. He has an inquiring mind, and engages any player magus willing to debate with him in a discussion on almost any subject other than his mother. He already knows the basics – that she tortured and murdered another redcap, and tried to ruin the player characters – but Damhan-Allaidh has been whispering sordid details about his mother’s life into his head for over two years, in an attempt to demoralize the boy and break his spirit.
+
+<!-- p. 129 --><a id="page-129"></a>
+
+The ruined fort is much as the player characters remember it. Gloom hangs over the stones like a funereal shroud, and light fails to penetrate its murky shadows. There is no evidence of any monstrous spiders here; the only arachnids that remain are normal sized. However, their presence might make players paranoid and characters nervous, so the storyguide should mention them at every opportunity.
+
+Simon feels that he has been here before, and leads the characters confidently to the large cavern containing the ravine. He knows that a chamber lies beyond, and asks the player characters to help him cross. The absence of the monstrous spiders has left the ravine without a bridge. It is ten paces wide and fifteen paces deep. Prepared characters may have had their grogs carry ropes and grapnels, or else they may have to rely upon magic.
+
+The chamber where Rufus died is just as the characters left it, although Simon can describe exactly what it looked like when the characters first came here. If the player characters did not resolve matters with Rufus’s ghost (for example, if he doesn’t know that Galera is dead) then he still haunts this chamber, and has become a vengeful spirit bitter with his betrayal by both his fiancée and the player characters.
+
+Having inspected every inch of the chamber, Simon then suggests following the river at the bottom of the ravine upstream. It is unlikely that the player characters explored here when they were here last, and Simon is not sure why he wants to do so now. Climbing to the bottom of the ravine and struggling against the icy torrent of water in cramped conditions and pitch darkness may be challenge enough, but there are further perils here.
+
+- There are no riverbanks, and the characters must slog upstream along the stream bed. The water is two to three feet deep in most places, and icy cold. The player characters must make Deprivation rolls with an interval of three hours to fight off exhaustion and hypothermia from the cold water. Since all characters are partially submerged in the water, they suffer a –3 penalty to these rolls. If characters become soaked through they suffer a –6 penalty instead. Due to the slippery conditions, rolls involving physical activity have three extra botch dice.
+- Unseen beneath the foaming water are deep potholes cut out by stones caught in the swirling current. The lead character is certain to fall into the first of these; whether she is followed in depends on the reactions of those following. Characters submerged in a pothole must make a Strength + Swim roll against an Ease Factor of 6 to fight the strong current sufficiently to catch a breath, else they begin to drown. The character’s Burden, rather than Encumbrance, acts as a penalty on this roll.
+- The characters find themselves at the base of a subterranean waterfall. It rises fifteen paces over a horizontal distance of ten paces. Climbing over the slippery rocks while water cascades over the top is physically demanding, requiring a Strength + Athletics roll against an Ease Factor of 12. If the characters have ropes then once one is in place subsequent characters have a +3 bonus to the climbing roll. A character can be hauled up by other characters: this requires a total Strength of +3, and the dragged character suffers +0 damage from the bumps and scrapes he receives.
+- The channel through which the stream runs narrows dramatically. Make a Dexterity + Athletics roll, with an Ease Factor of 6 + (3 x Size) to get through the gap. Failure indicates the character cannot get through without help, a botch indicates the character has become wedged tight. Help can be provided from lamp oil or similar, which allows the character a +3 to the roll. A character pulling or pushing another can also add +3 to the stuck character’s roll, but the character in the gap suffers +3 damage from abrasion and bruising. A wedged character might be able to be pulled free by a strong character, although the damage taken increases by the puller’s Strength.
+
+<!-- p. 130 --><a id="page-130"></a>
+
+In addition to these natural hazards, there may be some denizens of the long-abandoned mines and subterranean tunnels that do not appreciate the intrusion into their home. Examples of such creatures include an elemental that has rarefied from an untapped seam of silver or the ghosts of a trapped mine team.
+
+#### Galera’s Hidey-Hole
+
+Simon eventually spots a side tunnel leading from the stream, situated about ten feet from the water’s surface. This would be easy to miss: it is only because Simon somehow knew it was there that he managed to find it. After a few twists and turns the tunnel leads to a small chamber, clearly a natural cave that has been enlarged and had the floor leveled. A niche holds the remnants of a straw mattress, and an escritoire (traveler’s writing desk) sits on the floor. This contains an inkstone, some scraps of parchment, and other materials used by scribes. There is a crude box containing the decade-old remains of food, and a few other personal effects such as children’s toys. The walls of the cave are plastered with parchment. Some have been nailed in place, others pasted there.
+
+<!-- p. 131 --><a id="page-131"></a>
+
+Everything in the room is coated with black mold, which releases clouds of black spores when disturbed, which can cause choking (make a Stamina roll against an Ease Factor of 6 or else lose a Fatigue level). The spores are also flammable, and make open flames flare. The mold has left the writing on the parchment illegible in places. It is up to the storyguide how much of the information below has been lost, and how difficult it is to interpret the rest.
+
+Simon remembers being here as a child: the toys are his, and he recalls playing with them while his mother worked. He also remembers something traumatic happening to him here; his mother was not present and he remembers calling for her. The detail escapes him, however. This is where Galera tried to make sense of Damhan-Allaidh’s plans. Bear in mind that not all (or indeed any) of this information needs to be true — Galera was prone to fantasies, and some of this is how she intended to help her master, but written as if he had already agreed to it. This is an excellent opportunity for the player characters to learn plot points that they may have missed, or to glean more details on the hidden history of Damhan-Allaidh. Other information here could include:
+
+- Pages from a Scottish magus Bonisagus called Domhnull Beg who has made a study of ancient Pictish magician-priests and their gods;
+- Reports from a Hibernian magus regarding external souls amongst heathen Cruithnigh magicians;
+- Diary entries from Galera recording her joy when Atorcoppe referred to her son as “a precious boy”;
+- Details of a stone circle with an unusual alignment scouted out by Galera.
+
+Galera had all the information she needed to piece together her master’s true plan, but never managed to work out the threat to her son since her unstable intellect was clouded by devotion to her master. However, Damhan-Allaidh can see it laid out here on the walls, and must take steps to remove it. He takes control of Simon, and contrives an accident, such as tripping over something on the floor and dropping a lantern, spreading burning oil everywhere. Alternatively he might destroy key information while ostensibly trying to get it off the wall. After this ‘accident’, the player characters might be suspicious of Simon, but the boy (now back in control) can truthfully say he didn’t do it, while unable to say that it was due to his unwelcome passenger.
+
+If they haven’t already planned to do so, Simon suggests to the player characters that they investigate the stone circle mentioned in Galera’s notes since it is not too far from here. Once again, this is Damhan-Allaidh in control. If they need an extra push, ‘Simon’ might mention that perhaps they will find Damhan-Allaidh’s external soul at this ancient monument.
 
 ### At the Stones
 

@@ -7,7 +7,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0270
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Stat blocks and spells keep their fourth-edition fields and values; formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Stat blocks and spells keep their fourth-edition fields and values; formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -2421,9 +2421,7 @@ The spirit is intelligent and can be asked to restrict access to the gateways in
 
 Ealasaid of House Ex Miscellanea reconstructed the required rituals as Hermetic thaumaturgy. If the player characters manage to recover her notes and grimoires they may be able to make their own gateways.
 
-The first step is to find a block of unquarried stone. It needs to be cut free in a ritual manner and transported to a Hermetic lab without being seen or touched by ritually unclean people. The block then needs then to be cut in two and each piece opened for enchantment as an invested device. Each stone must then be invested with a level 40 Rego Vim effect. This
-
-effect both calls the serpent and helps open a bridge to the spirit world for the serpent. This enables the serpent to ferry people while remaining incorporeal. Given that the serpent is huge this is an important practicality.
+The first step is to find a block of unquarried stone. It needs to be cut free in a ritual manner and transported to a Hermetic lab without being seen or touched by ritually unclean people. The block then needs then to be cut in two and each piece opened for enchantment as an invested device. Each stone must then be invested with a level 40 Rego Vim effect. This effect both calls the serpent and helps open a bridge to the spirit world for the serpent. This enables the serpent to ferry people while remaining incorporeal. Given that the serpent is huge this is an important practicality.
 
 The next step is to summon an earth serpent of the appropriate type. Although there are sixty of these spirits, each has an individual name and each needs its own summoning ritual. Ealasaid identified the names of 16 of these daemons and created spells to conjure three of them. These are in her and Macomb’s grimoire, each at level 55.
 
@@ -2444,6 +2442,34 @@ As a side effect of this ritual, the two gatestones can no longer be used as arc
 ### Serpent of Thoth
 
 These serpents burrowed through the earth creating secret tunnels and finding hidden caves for their master. They would also bury secret things in these most hidden places. There is no place within the Magical, Faerie and Mundane Realms that is unknown to them. The priests of Thoth used them to help build temples in the most remote and secret places.
+
+#### Serpent of Thoth
+
+Magic Might: 40
+
+Characteristics: Int 0, Per +2, Per 0, Com 0, Str +8, Sta +8, Dex +1, Qik +5
+
+Size: +6
+
+Personality Traits: Determined +3, Touchy +3, Knowledgeable +3
+
+Fatigue levels: Tireless
+
+Body levels: OK, 0, 0, 0, –1, –1, –1, –3, –3, –5, –5, Banished
+
+Powers:
+
+*Movement*, 1 point:<br>
+The Serpent can transport itself to any point within the Mundane, Magic or Faerie Realms.
+
+*Gateway*, 0 points or 5 points:<br>
+The Serpent can bridge the gap between the mundane and magical realms, allowing it to swallow or regurgitate people and objects while remaining incorporeal. The presence of a magical archway, trilithon or similar structure allows the spirit to do this without spending might. Without a magical archway or similar structure this power costs 5 might points.
+
+*Knowledge of the Subterranean*, InTe 40, 3 points:<br>
+See or hear anything occurring under the earth, or know the location of anything buried in the earth.
+
+*Strong willed*:<br>
+No magic can compel a spirit of this type to act against its will.
 
 ## Saga Advice
 
@@ -2481,34 +2507,6 @@ Vindolanda should quickly gain vis sources for Rego and Vim. Apart from vis gain
 The first is via their local Redcap who visits De Panne. As he travels around the tribunal he will attempt to exchange the vis. However, this takes a year for each exchange. He will not be happy carrying around rooks of vis and will refuse to exchange more than 9 pawns at a time. Additionally he will charge a pawn for every three exchanged.
 
 Alternatively the magi may like to haggle for exchanges at the annual Galdramen Hreppur meeting. Icelandic magicians do not recognize vis in Hermetic terms, but understand rough correspondences. For example, Fire vis, Illusion vis, Warding vis, Weather vis.
-
-#### Serpent of Thoth
-
-Magic Might: 40
-
-Characteristics: Int 0, Per +2, Per 0, Com 0, Str +8, Sta +8, Dex +1, Qik +5
-
-Size: +6
-
-Personality Traits: Determined +3, Touchy +3, Knowledgeable +3
-
-Fatigue levels: Tireless
-
-Body levels: OK, 0, 0, 0, –1, –1, –1, –3, –3, –5, –5, Banished
-
-Powers:
-
-*Movement*, 1 point:<br>
-The Serpent can transport itself to any point within the Mundane, Magic or Faerie Realms.
-
-*Gateway*, 0 points or 5 points:<br>
-The Serpent can bridge the gap between the mundane and magical realms, allowing it to swallow or regurgitate people and objects while remaining incorporeal. The presence of a magical archway, trilithon or similar structure allows the spirit to do this without spending might. Without a magical archway or similar structure this power costs 5 might points.
-
-*Knowledge of the Subterranean*, InTe 40, 3 points:<br>
-See or hear anything occurring under the earth, or know the location of anything buried in the earth.
-
-*Strong willed*:<br>
-No magic can compel a spirit of this type to act against its will.
 
 ## Saga Timeline
 
@@ -3250,26 +3248,6 @@ After the infernal creatures are banished or killed, providing a Christian buria
 
 If the magi have followed Hetep to the site, then the Sea Temple gatestone will have already been excavated and set up.
 
-## Other Sancta
-
-There are at least two other sancta of Vindolanda. The first is the **Sea Temple Sanctum**, which belonged to Ealasaid. She kept its real-world location a secret from the members of her covenant. Only she knew that it was situated near the Isle of Lundy, under the sea between Devon and Wales.
-
-The **Glyder Fawr Sanctum** belonged to Macomb, Ealasaid’s former apprentice. Before Pralix’s arrival in Britain, Ealasaid filia Morwena had fled her home in Wales after threats from Díedne magi. When the members of Vindolanda established their own sancta far from the main covenant site, Ealasaid decided to reclaim her ancestral lands, which were close to Cad Gadu (Domus Magna of House Ex Miscellanea). Her first sanctum was built under Glyder Fawr, which she left to her filius Macomb when she moved to the Sea Temple.
-
-The peak of Glyder Fawr lies north of the Welsh mountain Yy Wydda (Snowdon), about 10 miles east of the port of Caernarfon, off the pass of Llanberis. Glyder Fawr is just under a thousand paces above sea level and the sanctum lies about 100 paces beneath the peak, within its powerful +7 magical aura. Access to the passageway is via a cave system farther down the southern side of the mountain. The entrance to the sanctum via Macomb’s lab is blocked for about 10 paces and Macomb’s lab is impassable.
-
-<!-- p. 95 --><a id="page-95"></a>
-
-The Glyder Fawr site possessed an extremely strong magical aura, ideal for Macomb and Ealasaid’s ritual magic. They advised Victor on the design of a temple to further enhance the site’s potential. The resulting structure surpassed their expectations. However, the aura proved too strong for servants to stay safely and so the covenfolk did not use the quarters here. Macomb’s apprentice was using one closet at the time of Damhan-allaidh’s attack.
-
-When Damhan-allaidh attacked this site Macomb was quickly slain. Macomb’s apprentice managed to call a number of elemental spirits and commanded them to attack. The ensuing fight brought most of the sanctum down and forced Damhan-allaidh to retreat. However, Macomb’s apprentice was dead at that point.
-
-The most likely way in which the characters will reach Glyder Fawr is through the gatestone in Old Vindolanda. Two of the earth elementals summoned by Macomb’s apprentice remain at the site. Cadell is eager to engage intruders in combat, but will not make any unprovoked attack. Enan is more considered and will attempt to persuade the party to leave without violence. Both are good-natured and unless the player characters appear seriously to threaten them, they will refrain from lethal force. If the magi can convince the spirits that they are members of Vindolanda the spirits will welcome them and report on their battle with Damhan-allaidh. If the magi wish to reoccupy the site, Enan will bring up the matter of the rent. One pawn each per year was the original deal made with Vindolanda, but the spirits are not beyond reasoning with. They will start at over six hundred pawns (one per year each) and can be bargained down to around sixty pawns payable over the next decade. For a suitable consideration they may be persuaded to restore the site to its former glory as well.
-
-<!-- p. 96 --><a id="page-96"></a>
-
-Liam’s sanctum does not occur in this saga, nor does Iain’s original sanctum. The storyguide should feel free to add these (and any other) sancta to Vindolanda. However, being gruagachan neither required a laboratory.
-
 #### Ammon, Master of the Hidden Revels, Torturer of the Dead
 
 Characteristics: Int +1, Per +1, Pre –6, Com +0, Str +8, Sta +12, Dex +3, Qik +0
@@ -3336,6 +3314,26 @@ Each rat swarm contains about a hundred individuals. When attacked by a swarm of
 | Total (full armor with helm and gauntlets) | –6 + Stress Die |
 
 Anyone being attacked by the swarm will be able to kill a number of rats equal to his Brawl + Dex each round. As soon as over half the rats have been killed, the swarm will retreat. Spells that affect areas like *Arc of Fiery Ribbons* may be able to kill the entire swarm if placed correctly. However, using such spells while the swarm is attacking would certainly include the victim in the effect (you better hope your sodalis’s Parma is up to the job).
+
+## Other Sancta
+
+There are at least two other sancta of Vindolanda. The first is the **Sea Temple Sanctum**, which belonged to Ealasaid. She kept its real-world location a secret from the members of her covenant. Only she knew that it was situated near the Isle of Lundy, under the sea between Devon and Wales.
+
+The **Glyder Fawr Sanctum** belonged to Macomb, Ealasaid’s former apprentice. Before Pralix’s arrival in Britain, Ealasaid filia Morwena had fled her home in Wales after threats from Díedne magi. When the members of Vindolanda established their own sancta far from the main covenant site, Ealasaid decided to reclaim her ancestral lands, which were close to Cad Gadu (Domus Magna of House Ex Miscellanea). Her first sanctum was built under Glyder Fawr, which she left to her filius Macomb when she moved to the Sea Temple.
+
+The peak of Glyder Fawr lies north of the Welsh mountain Yy Wydda (Snowdon), about 10 miles east of the port of Caernarfon, off the pass of Llanberis. Glyder Fawr is just under a thousand paces above sea level and the sanctum lies about 100 paces beneath the peak, within its powerful +7 magical aura. Access to the passageway is via a cave system farther down the southern side of the mountain. The entrance to the sanctum via Macomb’s lab is blocked for about 10 paces and Macomb’s lab is impassable.
+
+<!-- p. 95 --><a id="page-95"></a>
+
+The Glyder Fawr site possessed an extremely strong magical aura, ideal for Macomb and Ealasaid’s ritual magic. They advised Victor on the design of a temple to further enhance the site’s potential. The resulting structure surpassed their expectations. However, the aura proved too strong for servants to stay safely and so the covenfolk did not use the quarters here. Macomb’s apprentice was using one closet at the time of Damhan-allaidh’s attack.
+
+When Damhan-allaidh attacked this site Macomb was quickly slain. Macomb’s apprentice managed to call a number of elemental spirits and commanded them to attack. The ensuing fight brought most of the sanctum down and forced Damhan-allaidh to retreat. However, Macomb’s apprentice was dead at that point.
+
+The most likely way in which the characters will reach Glyder Fawr is through the gatestone in Old Vindolanda. Two of the earth elementals summoned by Macomb’s apprentice remain at the site. Cadell is eager to engage intruders in combat, but will not make any unprovoked attack. Enan is more considered and will attempt to persuade the party to leave without violence. Both are good-natured and unless the player characters appear seriously to threaten them, they will refrain from lethal force. If the magi can convince the spirits that they are members of Vindolanda the spirits will welcome them and report on their battle with Damhan-allaidh. If the magi wish to reoccupy the site, Enan will bring up the matter of the rent. One pawn each per year was the original deal made with Vindolanda, but the spirits are not beyond reasoning with. They will start at over six hundred pawns (one per year each) and can be bargained down to around sixty pawns payable over the next decade. For a suitable consideration they may be persuaded to restore the site to its former glory as well.
+
+<!-- p. 96 --><a id="page-96"></a>
+
+Liam’s sanctum does not occur in this saga, nor does Iain’s original sanctum. The storyguide should feel free to add these (and any other) sancta to Vindolanda. However, being gruagachan neither required a laboratory.
 
 ## Kerlingarfjoll Valley
 
@@ -4392,6 +4390,12 @@ Assuming the magi succeed, Hetep is imprisoned and the Magic Realm saved. Setna 
 
 If the Stelae are uncorrupted then the magi could gain untold power and fame. The storyguide might want to consider which Hermetic Limits are merely Hermetic and which are limits of Magic, but from this point he must shape the saga himself.
 
+### The Obsidian Temple
+
+Within the city of Geirrodargard lies an ancient ziggurat, its purpose and origin forgotten by the troll residents. The summit chamber is the entrance to a Temple, within which the god Thoth hid the first magical writings. This temple does not exist in the mundane realm, nor in a regio, but instead in a section of the Magic Realm itself, the magical cognate of Arcadia or Heaven. The realm has a +10 magic aura, and those with magical abilities may find minor manifestations of their powers spontaneously erupting from them. The exact level of weirdness in the Magic Realm is left up to the storyguide. Although the Obsidian Temple resides in a part of the Realm of Magic, it is completely cut off from it, and there is no way in which a character can pass from the Temple into another part of the Realm. If a character attempts this they should be warned by Setna. If they persist, the Twilight Void is all that exists beyond the Temple walls, spelling (at least) an automatic temporary Twilight episode for the over-curious magus.
+
+Three golden statues in the form of winged sphinxes guard this entrance, and they animate to combat any threats. Beyond the automata there are seven gates. The first is made of iron, the second of bronze, the third of wood, the fourth of ivory, the fifth of ebony, the sixth of silver and the seventh of gold. Beyond the gold gate lies the sanctum of the stelae, on which the very roots of magic are inscribed.
+
 #### The Golden Sphinxes
 
 Characteristics: Int +3, Per +5, Pre +3, Com +3, Str +15, Sta +20, Dex 15, Qik +10
@@ -4427,12 +4431,6 @@ The automata can speak and understand any language.
 Roleplaying Notes: The automata are aware of Setna’s fate and the corruption of the stelae. If the magi think to explain themselves, the automata will let them pass and even defend them as they make their way through the doorways.
 
 Vis: If destroyed they can be harvested for 50 pawns of Vim vis each. Alternatively, they may be studied to learn the secrets of liquid fire and true intelligence in automata (see *The Mysteries*).
-
-### The Obsidian Temple
-
-Within the city of Geirrodargard lies an ancient ziggurat, its purpose and origin forgotten by the troll residents. The summit chamber is the entrance to a Temple, within which the god Thoth hid the first magical writings. This temple does not exist in the mundane realm, nor in a regio, but instead in a section of the Magic Realm itself, the magical cognate of Arcadia or Heaven. The realm has a +10 magic aura, and those with magical abilities may find minor manifestations of their powers spontaneously erupting from them. The exact level of weirdness in the Magic Realm is left up to the storyguide. Although the Obsidian Temple resides in a part of the Realm of Magic, it is completely cut off from it, and there is no way in which a character can pass from the Temple into another part of the Realm. If a character attempts this they should be warned by Setna. If they persist, the Twilight Void is all that exists beyond the Temple walls, spelling (at least) an automatic temporary Twilight episode for the over-curious magus.
-
-Three golden statues in the form of winged sphinxes guard this entrance, and they animate to combat any threats. Beyond the automata there are seven gates. The first is made of iron, the second of bronze, the third of wood, the fourth of ivory, the fifth of ebony, the sixth of silver and the seventh of gold. Beyond the gold gate lies the sanctum of the stelae, on which the very roots of magic are inscribed.
 
 ### The Doorways
 

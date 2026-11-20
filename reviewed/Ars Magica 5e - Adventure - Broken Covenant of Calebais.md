@@ -17,7 +17,7 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0275
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed with the character or creature they belong to (after its description, before its story seeds), inserts after the paragraph they interrupt, and text broken by a box or page break is joined back up. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (map keys that list places are kept as Map Key inserts; legends that only explain map symbols are dropped).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
 
@@ -661,20 +661,6 @@ IV. Saint Augustus was an abbot known for finding lost relics, and he may lend h
 
 Sir Gilbert is careful to show deference to God, despite his bravery. Each week he returns to the abbey to confess his sins and hear Mass, and he sets aside time every night to pray and give thanks for his blessings. This sort of behavior may grate on wizards’ nerves, but as he believes himself tolerant of their eccentricities, he will be very offended if they do not show him similar courtesy. Insulting his faith or the Church is one of the few ways characters can make him angry enough to attack them.
 
-##### Luc
-
-Luc is Sir Gilbert’s personal and spiritual guide, an old friend of his family who has taken it upon himself to protect the knight from the intangible dangers of the world. He has much academic and arcane knowledge that he has learned from study and experience, and he doesn’t have a great deal of pragmatism. Luc speaks four languages passably well, including Latin, but he is not as comfortable talking as he is listening, a quirk left over from living in silence as a hermit for seven years.
-
-<!-- p. 22 --><a id="page-22"></a>
-
-<!-- p. 21 --><a id="page-21"></a>
-
-He loves to be in charge, yet has very strong religious beliefs and a strong desire to do right. If his authority is challenged he will never willingly back down, but if his need for respect is appeased, he is quite easy to deal with and can be quite charming. He carries a bronze pendant, which he has been told contains a sliver of the True Cross. He clutches it when he is afraid, and fingers it when he is unsure. It is probably a fake, but he draws spiritual strength from it anyway.
-
-Luc will intensely distrust characters with The Gift. If Sir Gilbert seems too friendly with them, Luc will compensate with extreme hostility. He will assume the magi have somehow enchanted his lord, and take steps to remove him from their influence if he determines it to be necessary.
-
-If questioned about his personal interest in the ruins of Calebais, he will speak of secrets to be found “in the hill,” secrets about which he admits he knows nothing. If he begins to trust the characters, he will tell them about a story he heard of an evil spirit that lived under the hill, who plotted against the king. He would like to guide Sir Gilbert to fight and defeat such a base enemy.
-
 #### Sir Gilbert
 
 Characteristics: Int –1, Per –3, Pre 0, Com +2, Str +3, Sta +2, Dex +1, Qik +1
@@ -712,6 +698,20 @@ Encumbrance: 1 with lance, sword, and shield; 0 with sword and shield only
 Appearance: Sir Gilbert is a large, burly man who appears slightly unkempt, his hair mussed and his beard slightly untrimmed. He nevertheless has polite manners despite his unrestrained demeanor. He is tall with blue, childlike eyes and straw-colored hair.
 
 Roleplaying Tips: Imagine a friendly, slightly overbearing country sheriff; strap on a sword, and you have Sir Gilbert. He is pleasant company, very good in a fight, and yet still strangely humble. He is pious, but he is also good-naturedly tolerant of things that are strange to him. The characters should find they like him, even if they would normally be at odds with such a figure. Though he is something of a caricature, try to roleplay him as honestly as you can.
+
+##### Luc
+
+Luc is Sir Gilbert’s personal and spiritual guide, an old friend of his family who has taken it upon himself to protect the knight from the intangible dangers of the world. He has much academic and arcane knowledge that he has learned from study and experience, and he doesn’t have a great deal of pragmatism. Luc speaks four languages passably well, including Latin, but he is not as comfortable talking as he is listening, a quirk left over from living in silence as a hermit for seven years.
+
+<!-- p. 22 --><a id="page-22"></a>
+
+<!-- p. 21 --><a id="page-21"></a>
+
+He loves to be in charge, yet has very strong religious beliefs and a strong desire to do right. If his authority is challenged he will never willingly back down, but if his need for respect is appeased, he is quite easy to deal with and can be quite charming. He carries a bronze pendant, which he has been told contains a sliver of the True Cross. He clutches it when he is afraid, and fingers it when he is unsure. It is probably a fake, but he draws spiritual strength from it anyway.
+
+Luc will intensely distrust characters with The Gift. If Sir Gilbert seems too friendly with them, Luc will compensate with extreme hostility. He will assume the magi have somehow enchanted his lord, and take steps to remove him from their influence if he determines it to be necessary.
+
+If questioned about his personal interest in the ruins of Calebais, he will speak of secrets to be found “in the hill,” secrets about which he admits he knows nothing. If he begins to trust the characters, he will tell them about a story he heard of an evil spirit that lived under the hill, who plotted against the king. He would like to guide Sir Gilbert to fight and defeat such a base enemy.
 
 #### Luc, Sir Gilbert’s Adviser
 
@@ -901,6 +901,29 @@ The dryad cannot break her agreement under any circumstances. However, she can e
 
 If threatened, the dryad can bend the forest to her will, but it is unlikely that she will need to do so since she appears at will and is always insubstantial. Nevertheless, if she is somehow destroyed, the effects of the Veil will end, and all the crops in the region will suffer a terrible disease and waste away, causing seven years of famine. While they may not know the reason, the people in the village may come to blame the characters for this, as their troubles will have started “just after those strange folk came through here,” and the characters may subsequently gain a poor reputation that could make its way to the convent in Chapter Three.
 
+#### The Dryad
+
+Faerie Might: 25 (Herbam)
+
+Characteristics: Int 0, Per +3, Pre +3, Com +1, Str 0, Sta +2, Dex +2, Qik +2
+
+Personality Traits: Lonely +3, Protective +2, Kind +1
+
+Powers:
+
+*Control Herbam*, 0 points, +5, Herbam:<br>
+The dryad can control plants within the Veil, causing them to respond to her command. This is equivalent to a sixth magnitude Hermetic effect.
+
+*Infatuation*, 1 point, +0, Mentem:<br>
+By drawing her spirit close to a mortal, the dryad can cause intense desire for her and a willingness to do her will.
+
+*Insubstantial Form*, 0 points, +5, Imaginem:<br>
+The dryad cannot be affected by physical things, though she also cannot affect them. This is the only way she can manifest as long as she is bound to Calebais.
+
+Vis: The dryad has no vis, since her magical essence is part of the enchantment of the wood.
+
+Appearance: The dryad is old, white-haired, and wise, but still beautiful and earthy. She wears a living gown of leaves and flowers.
+
 <!-- p. 26 --><a id="page-26"></a>
 
 ##### Red Fox
@@ -1009,29 +1032,6 @@ The dryad is not here; she is bound to the fountain in the covenant and her imag
 
 If the characters combine the dryad’s hospitality with that of the satyrs (wine and meat, or fruit with mead, or any other combination), both curses will be lifted and the afflicted characters will suffer no further ill effects; they will find that they can easily leave the faerie regio. The two curses counter each other, for one speeds mortal blood and the other slows it down. This is the method by which they can free the satyrs’ captive, if they have otherwise dealt with the threat the faeries pose to the village, and it is perhaps the only way that they can circumvent the penalty for accepting the faeries’ gifts.
 
-#### The Dryad
-
-Faerie Might: 25 (Herbam)
-
-Characteristics: Int 0, Per +3, Pre +3, Com +1, Str 0, Sta +2, Dex +2, Qik +2
-
-Personality Traits: Lonely +3, Protective +2, Kind +1
-
-Powers:
-
-*Control Herbam*, 0 points, +5, Herbam:<br>
-The dryad can control plants within the Veil, causing them to respond to her command. This is equivalent to a sixth magnitude Hermetic effect.
-
-*Infatuation*, 1 point, +0, Mentem:<br>
-By drawing her spirit close to a mortal, the dryad can cause intense desire for her and a willingness to do her will.
-
-*Insubstantial Form*, 0 points, +5, Imaginem:<br>
-The dryad cannot be affected by physical things, though she also cannot affect them. This is the only way she can manifest as long as she is bound to Calebais.
-
-Vis: The dryad has no vis, since her magical essence is part of the enchantment of the wood.
-
-Appearance: The dryad is old, white-haired, and wise, but still beautiful and earthy. She wears a living gown of leaves and flowers.
-
 ## Options: The Mystery
 
 I. The characters may somehow sneak women into the abbey, which could have the effect of profaning the services, for it is strictly against the Cistercian Rule to say Mass while women are present. This could create a chink through which evil forces can penetrate this fortress of holiness. The divine aura may weaken, and the site could become more vulnerable to infernal attacks. Because of their flouting of tradition, the characters may discover that they have helped a demon gain a hold on the abbey and corrupt it. This demon would probably also be interested in tracking down the characters and corrupting them too, in thanks for their aid, since they seem to be ripe fruit for plucking.
@@ -1115,44 +1115,6 @@ Hrools from different groups often have territorial fights, but these conflicts 
 They act differently when defending their homes, however. There, they will liberally use Confidence to represent their ferocity, and fight without regard for casualties or pain. Those who intend to challenge them must take into account not only their cleverness but also their spirit. They scream barely intelligible threats and intimidate their attackers with heinous and desperate acts of violence. They spit and curse and bite opponents in the face, even attacking their opponents’ weapons to break them. The Hrools have such a strong loathing for people who attack dens that other tribes might even hear their cries and come to their aid.
 
 If a battle is taking place near the well (in the garden or in front of Ierimyra’s quarters, for example), two or three adult Hrools will charge their opponents and try to push them in, riding along for the plunge into the water. Then they simply dive down to the submerged rooms and swim back up through the flooded stairways, as they can hold their breath for several minutes at a time. This tactic is an effective action for the non-warrior Hrools to use, as they can fight as a group to receive a bonus to their attack. They can also throw rocks or try to trip up characters by sneaking around behind them and clawing at their clothing or rifling through their packs.
-
-#### Elementals
-
-Some of the wizards at Calebais practiced magic that allowed them to bind spirits into physical objects, and Mormulus’s Veil is one example of this. Other magi at the covenant experimented with similar forms of sorcery before their demise, and left behind several creatures known as “elementals,” so called within the Order because they are typically made from one of the four elements: water, air, fire, or earth. These raw materials are magically animated with a supernatural presence that might be called alive, or at least aware. While rules for summoning and controlling these creatures are beyond the scope of this adventure, here are some guidelines for dealing with those that the characters might encounter.
-
-Firstly, as elementals are magical, they can be dispelled. A Perdo Vim spell, or Perdo with the appropriate Form, will decrease an elemental’s Might just as *Demon’s Eternal Oblivion* affects a demon or *Lay to Rest the Haunting Spirit* affects a ghost, eventually destroying the animating force and leaving the body an empty shell. Similarly, elementals may be warded away with Rego (Form), essentially creating magical versions of *Ward Against Faeries of the Waters* (et al) or *Circular Ward Against Demons*.
-
-Secondly, elementals are bound to the physical realm by the material which gives them form. Breaking apart an elemental body has the same effect as dismembering flesh: cause enough damage and the being is destroyed. This can be done with physical attacks, pummeling or cutting apart an elemental, or by using Perdo magic with the appropriate Form to damage it. Warding against attacks or taking control of this material is also possible with Rego. Use the Animal guidelines for suggested effects of the different Techniques at different spell levels.
-
-Finally, as each of the elements naturally opposes the others, so elementals may be disrupted with other elements, much like medieval doctors affect a bodily humor by manipulating its opposite. For example, Creo Ignem can cause water to evaporate, and Creo Aquam can extinguish flames. These effects can also be duplicated with Muto in the elemental’s Form; Muto Terram can turn earth into dust, and Muto Auram can disperse a storm. Treat each of these spells as Perdo effects of half their level when determining how much damage they cause an elemental.
-
-Like any magically animated thing, elementals have an inexplicable sense of their surroundings. That is, while they cannot see or hear (they have no eyes or ears), part of the magic that binds them allows them to perceive their environment. How elementals do this might be characterized by their element: earth and air elementals sense movement across the ground or through the air, while fire and water elementals sense changes in temperature. As long as they are within their element, they are considered part of that element and can sense everything foreign that comes into contact with it.
-
-When elementals are summoned and bound, they are given a purpose. This is the essence of their existence; it is all that they do. The commands can be simple, such as “guard this room,” or more complex, such as “obey my instructions.” They have no mind, so they cannot reason or become frightened, and if they somehow break their bonds, like a deluge or an avalanche they will proceed to destroy whatever is in their path. Elementals without purpose are simply powerful forces of nature unleashed.
-
-<!-- p. 35 --><a id="page-35"></a>
-
-Elementals that are defeated (but not dispelled) may leave behind raw vis appropriate to their form.
-
-#### Ghosts
-
-Calebais is haunted by the ghosts of many of its former inhabitants, disembodied spirits still confined to earth because of their actions in life, or because of a supernatural desire to complete some task left unfinished. Many ghosts are dark, sinister souls, living tormented existences beside the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in making others share their suffering. Others may be of good heart and seek only to put right what their passing made wrong, or were made ghosts simply because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.
-
-The appearance of ghosts can also vary, from seeming completely substantial, so real that they even feel solid, to a luminous haze in the air with only vague similarities to the human form. All ghosts at Calebais can become invisible at will, hidden from those who cannot perceive the spirit world, but only a few come close to a state resembling solidity; most remain translucent and rippled, like a reflection in deep water. As they spend their Might Pool, they also lose their clarity, fading away completely when exhausted.
-
-Apart from coming to terms with their non-corporeal nature, ghosts cannot learn or change; they are trapped with the mindset and skills they had when they died. They may be able to teach others some of what they knew, but the distance of the grave combined with the difficulty of maintaining their existence means that they tend to forget what they are doing very easily. Characters studying from a ghost must start over each day, reintroducing themselves every time. This will be frustrating for the characters and for the ghost, and should be more trouble than it is worth.
-
-Many ghosts do not realize they are dead, and refuse to believe those who say that they are. Only ghosts who accept their nature and have become used to their incorporeal forms can move through solid walls, ignore Fatigue penalties or wounds, or in any way act as if they were not living, breathing humans. Ghosts are solid to one another, of course, and interact in all ways as if they were flesh and blood. For most ghosts, the physical world is as real as ever, except that people seem to play tricks on them or do not always see them.
-
-Ghostly magi can also cast spells, just as they did in life. The ghosts of Calebais are described with some spells to represent their specialties, to give you ideas of what they might do, but they also have suggested Arts for spontaneous magic, and you should give them other spells that you think that they would have learned before death. These spells are not physical and cannot affect the physical world, but they are realistic illusions. A Perdo Corpus spell might cause a flash of pain, while a Creo Aquam spell might cause a powerful chill as ghostly waters rush past. However, Imaginem, Mentem, and Vim magics still affect the living normally, as can some Animal (animal minds) and Ignem (light) effects.
-
-Most ghosts also have some sort of magical power to affect the physical world, even if it is only a mundane activity appropriate to their duties and desires in life. Ghostly magi typically have the power to make their spells “real,” affecting the living as if their magic were cast in the flesh. These powers often cost them some of their Magic Might to activate, but they gain this back over time, and a day is typically sufficient to bring them back to full strength. If they lose all their temporary Might points, or are injured or killed by magic or other ghosts, they will return after a day or so, as whole as before, with no memory of what happened. Permanently destroying a ghost is extremely difficult.
-
-<!-- p. 36 --><a id="page-36"></a>
-
-However, every ghost has fetters that bind it to life. When ghosts deal with the tasks they left unfinished, or address whatever circumstances prevent them from passing on, they fade away forever. This should be a very rare occurrence, worthy of more than a simple declaration; you should describe the process in detail, portraying a vivid event. A ghost leaving the confines of the mortal world is an awe-inspiring affair. Treat this scene with the reverence it deserves, and make it memorable.
-
-When they pass on, ghosts can leave raw vis behind. This vis is often as ghostly as they were, tied to a spiritual memento of the haunting, though there are magical ways to harvest this vis. A Muto Mentem spell with a physical requisite can make the item and the vis temporarily solid. Rego Mentem can transport ghostly objects, and Rego Vim can siphon the vis into some other container. Finally, even if they cannot move it, magi can always use ghostly vis simply by touching it.
 
 #### Adult Hrool
 
@@ -1264,6 +1226,44 @@ By standing on their hind legs and hissing, ermine Hrools can drive away a ghost
 Vis: 3 Rego
 
 Appearance: Ermine Hrools are leaner and spindlier than their weasel-like counterparts, with pure white fur and pink eyes. Many wear golden wire crowns bent around their heads, with a green gemstone shaped like an eye at their foreheads. They wear almost comical attempts at wizard robes gnawed from tattered tapestry remains, and wrap rings of bark or sculpted stone around their claws or through holes poked in their ears.
+
+#### Elementals
+
+Some of the wizards at Calebais practiced magic that allowed them to bind spirits into physical objects, and Mormulus’s Veil is one example of this. Other magi at the covenant experimented with similar forms of sorcery before their demise, and left behind several creatures known as “elementals,” so called within the Order because they are typically made from one of the four elements: water, air, fire, or earth. These raw materials are magically animated with a supernatural presence that might be called alive, or at least aware. While rules for summoning and controlling these creatures are beyond the scope of this adventure, here are some guidelines for dealing with those that the characters might encounter.
+
+Firstly, as elementals are magical, they can be dispelled. A Perdo Vim spell, or Perdo with the appropriate Form, will decrease an elemental’s Might just as *Demon’s Eternal Oblivion* affects a demon or *Lay to Rest the Haunting Spirit* affects a ghost, eventually destroying the animating force and leaving the body an empty shell. Similarly, elementals may be warded away with Rego (Form), essentially creating magical versions of *Ward Against Faeries of the Waters* (et al) or *Circular Ward Against Demons*.
+
+Secondly, elementals are bound to the physical realm by the material which gives them form. Breaking apart an elemental body has the same effect as dismembering flesh: cause enough damage and the being is destroyed. This can be done with physical attacks, pummeling or cutting apart an elemental, or by using Perdo magic with the appropriate Form to damage it. Warding against attacks or taking control of this material is also possible with Rego. Use the Animal guidelines for suggested effects of the different Techniques at different spell levels.
+
+Finally, as each of the elements naturally opposes the others, so elementals may be disrupted with other elements, much like medieval doctors affect a bodily humor by manipulating its opposite. For example, Creo Ignem can cause water to evaporate, and Creo Aquam can extinguish flames. These effects can also be duplicated with Muto in the elemental’s Form; Muto Terram can turn earth into dust, and Muto Auram can disperse a storm. Treat each of these spells as Perdo effects of half their level when determining how much damage they cause an elemental.
+
+Like any magically animated thing, elementals have an inexplicable sense of their surroundings. That is, while they cannot see or hear (they have no eyes or ears), part of the magic that binds them allows them to perceive their environment. How elementals do this might be characterized by their element: earth and air elementals sense movement across the ground or through the air, while fire and water elementals sense changes in temperature. As long as they are within their element, they are considered part of that element and can sense everything foreign that comes into contact with it.
+
+When elementals are summoned and bound, they are given a purpose. This is the essence of their existence; it is all that they do. The commands can be simple, such as “guard this room,” or more complex, such as “obey my instructions.” They have no mind, so they cannot reason or become frightened, and if they somehow break their bonds, like a deluge or an avalanche they will proceed to destroy whatever is in their path. Elementals without purpose are simply powerful forces of nature unleashed.
+
+<!-- p. 35 --><a id="page-35"></a>
+
+Elementals that are defeated (but not dispelled) may leave behind raw vis appropriate to their form.
+
+#### Ghosts
+
+Calebais is haunted by the ghosts of many of its former inhabitants, disembodied spirits still confined to earth because of their actions in life, or because of a supernatural desire to complete some task left unfinished. Many ghosts are dark, sinister souls, living tormented existences beside the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in making others share their suffering. Others may be of good heart and seek only to put right what their passing made wrong, or were made ghosts simply because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.
+
+The appearance of ghosts can also vary, from seeming completely substantial, so real that they even feel solid, to a luminous haze in the air with only vague similarities to the human form. All ghosts at Calebais can become invisible at will, hidden from those who cannot perceive the spirit world, but only a few come close to a state resembling solidity; most remain translucent and rippled, like a reflection in deep water. As they spend their Might Pool, they also lose their clarity, fading away completely when exhausted.
+
+Apart from coming to terms with their non-corporeal nature, ghosts cannot learn or change; they are trapped with the mindset and skills they had when they died. They may be able to teach others some of what they knew, but the distance of the grave combined with the difficulty of maintaining their existence means that they tend to forget what they are doing very easily. Characters studying from a ghost must start over each day, reintroducing themselves every time. This will be frustrating for the characters and for the ghost, and should be more trouble than it is worth.
+
+Many ghosts do not realize they are dead, and refuse to believe those who say that they are. Only ghosts who accept their nature and have become used to their incorporeal forms can move through solid walls, ignore Fatigue penalties or wounds, or in any way act as if they were not living, breathing humans. Ghosts are solid to one another, of course, and interact in all ways as if they were flesh and blood. For most ghosts, the physical world is as real as ever, except that people seem to play tricks on them or do not always see them.
+
+Ghostly magi can also cast spells, just as they did in life. The ghosts of Calebais are described with some spells to represent their specialties, to give you ideas of what they might do, but they also have suggested Arts for spontaneous magic, and you should give them other spells that you think that they would have learned before death. These spells are not physical and cannot affect the physical world, but they are realistic illusions. A Perdo Corpus spell might cause a flash of pain, while a Creo Aquam spell might cause a powerful chill as ghostly waters rush past. However, Imaginem, Mentem, and Vim magics still affect the living normally, as can some Animal (animal minds) and Ignem (light) effects.
+
+Most ghosts also have some sort of magical power to affect the physical world, even if it is only a mundane activity appropriate to their duties and desires in life. Ghostly magi typically have the power to make their spells “real,” affecting the living as if their magic were cast in the flesh. These powers often cost them some of their Magic Might to activate, but they gain this back over time, and a day is typically sufficient to bring them back to full strength. If they lose all their temporary Might points, or are injured or killed by magic or other ghosts, they will return after a day or so, as whole as before, with no memory of what happened. Permanently destroying a ghost is extremely difficult.
+
+<!-- p. 36 --><a id="page-36"></a>
+
+However, every ghost has fetters that bind it to life. When ghosts deal with the tasks they left unfinished, or address whatever circumstances prevent them from passing on, they fade away forever. This should be a very rare occurrence, worthy of more than a simple declaration; you should describe the process in detail, portraying a vivid event. A ghost leaving the confines of the mortal world is an awe-inspiring affair. Treat this scene with the reverence it deserves, and make it memorable.
+
+When they pass on, ghosts can leave raw vis behind. This vis is often as ghostly as they were, tied to a spiritual memento of the haunting, though there are magical ways to harvest this vis. A Muto Mentem spell with a physical requisite can make the item and the vis temporarily solid. Rego Mentem can transport ghostly objects, and Rego Vim can siphon the vis into some other container. Finally, even if they cannot move it, magi can always use ghostly vis simply by touching it.
 
 ### Voices in the Dark
 
@@ -2065,6 +2065,24 @@ A heavy curtain hangs in tatters before the entrance to Mormulus’s laboratory,
 >
 > This part of the story can take as long as you like; if the players don’t seem to be enjoying themselves, cut it short, but if they are really interested, let yourself go wild. Don’t let the game get out of control, of course. Underneath the chaos, everything should make sense (if only to you) so that you can explain everything after the scene is over. All in all, the secret to running this part of the story is to have fun with it. It may be hard to manage, but it will be well worth the effort.
 
+<!-- p. 60 --><a id="page-60"></a>
+
+##### Mormulus
+
+Mormulus was an energetic, youthful magus in life, and his vibrant energy has carried over to his ghostly existence. He rarely questions himself and takes joy in watching the unraveling of the illusionary world about him. If questioned about the reality of the images in his room, he will laugh and say, “But all of life is an illusion, don’t you know that?” The new images and scenes that the characters bring in with them will delight him; if he can, he will try to manipulate the illusions to keep the characters in his chambers as long as possible. He won’t answer questions about the Bell or the covenant.
+
+His corpse is lost somewhere within the room, and he does not remember that he has died. After many decades in his room of illusions, he has a hard time separating truth from fiction. He may periodically lose interest in the characters, even after they explain things to him, because he still is in the habit of treating everything as illusions that he can ignore or change when he grows bored with them. If the characters can get him to recognize that he is wearing a diadem, he may take them more seriously, since he knows that one of the crown’s powers allows him to see through his illusions. This may cause him to question if there is something wrong with the effect, and ultimately realize that he is not actually wearing his diadem, giving the real one to the characters.
+
+Mormulus is fascinated with the role he played in destroying the covenant. He mulls the events over and over in his mind and often reenacts the deaths of his *sodales* and *custodes* in an attempt to feel something, but he has never felt any emotion concerning what happened. For some reason, his heart and mind feel empty. Until he can feel remorse over his tragic mistake, he cannot pass on to the next world. This is not likely to happen unless the characters play through the events of the Sundering with him to find something that he can recognize as “real,” and then bring what remains of it to him. For example, he may remember that it was Paulo who killed him, or realize how he has abandoned the dryad, or he may feel sorry for his *sodales* when he learns what happened to them. When he confronts the consequences of his detachment, he will overcome it. This should take him a very long time and a lot of thought; characters will probably have to leave and return several times to redeem him. In fact, it is better saved as a loose end for characters who return to the ruins after the Bell is recovered.
+
+Until then, you can let your imagination and creativity carry you, because the whole room is constantly filled with some kind of illusion. These can take any form, including entire landscapes that extend to the horizon, and can change in the blink of an eye (but don’t do this too often — players will become very confused if you abuse this effect). The settings can be weird and exotic, such as a faerie palace on a mountaintop, or strangely mundane, as a deserted city street. However, there are never people that the characters can interact with in the illusion, unless it is Mormulus himself playing the part.
+
+Mormulus can sense things about the characters, and he works this knowledge into his enchantment. If you would like to develop this scene into an entire session, have all the players secretly write down some event that was important in their characters’ pasts: events that might be in the backs of their minds while they are exploring the ruins. Also note powerful scenes that have happened since they entered Calebais, or scenes that you suspect will happen later and you would like to foreshadow. Take these ideas and mix them up with all the things that Mormulus is thinking about (the early days of the covenant, the Sundering, his Veil and the dryad, the Bell of Ibyn) to create a web of confusion and illusion worthy of a master storyteller.
+
+Go through each idea for a landscape in turn, but have them fade smoothly from one to another. Don’t simply go from caverns to the ocean; instead tell the characters that they find a pool in the caverns, and as they look into it they find themselves mesmerized by their reflections, the patterns in the water and the soft tinkling of the ripples, which grow bigger and louder until they find themselves tossed and turned by the waves of the sea.
+
+The floor is pitted and cracked from the great damage to the level below, but this will never be visible as it is always incorporated into the illusion. Characters may be able to feel their way around different objects; they will not affect the environment of the room directly, though they may also play a part in the illusion. If the characters close their eyes and crawl about the floor, they may be able to feel out these items, but even then it will be difficult, because the wizard’s spells also affect the sensation of touch.
+
 #### Mormulus, Magister of Illusion
 
 Magic Might: 60 (Mentem)
@@ -2109,24 +2127,6 @@ Vis: 12 Imaginem in the ghostly version of his diadem, if he can be made to feel
 Appearance: Mormulus is a vivid image of a magus with a multi-colored robe, wild hair, and a confident though strangely detached demeanor. While he may look very young, he has more than a century of experience in his eyes. He wears a thin wire crown with a green gem at his forehead.
 
 Roleplaying Tips: When the characters meet the true Mormulus, never pay attention to any one person for a very long time and even while listening, constantly look away from them into the living world of illusion that surrounds you. Play his dazed, confused qualities as thickly as you can.
-
-<!-- p. 60 --><a id="page-60"></a>
-
-##### Mormulus
-
-Mormulus was an energetic, youthful magus in life, and his vibrant energy has carried over to his ghostly existence. He rarely questions himself and takes joy in watching the unraveling of the illusionary world about him. If questioned about the reality of the images in his room, he will laugh and say, “But all of life is an illusion, don’t you know that?” The new images and scenes that the characters bring in with them will delight him; if he can, he will try to manipulate the illusions to keep the characters in his chambers as long as possible. He won’t answer questions about the Bell or the covenant.
-
-His corpse is lost somewhere within the room, and he does not remember that he has died. After many decades in his room of illusions, he has a hard time separating truth from fiction. He may periodically lose interest in the characters, even after they explain things to him, because he still is in the habit of treating everything as illusions that he can ignore or change when he grows bored with them. If the characters can get him to recognize that he is wearing a diadem, he may take them more seriously, since he knows that one of the crown’s powers allows him to see through his illusions. This may cause him to question if there is something wrong with the effect, and ultimately realize that he is not actually wearing his diadem, giving the real one to the characters.
-
-Mormulus is fascinated with the role he played in destroying the covenant. He mulls the events over and over in his mind and often reenacts the deaths of his *sodales* and *custodes* in an attempt to feel something, but he has never felt any emotion concerning what happened. For some reason, his heart and mind feel empty. Until he can feel remorse over his tragic mistake, he cannot pass on to the next world. This is not likely to happen unless the characters play through the events of the Sundering with him to find something that he can recognize as “real,” and then bring what remains of it to him. For example, he may remember that it was Paulo who killed him, or realize how he has abandoned the dryad, or he may feel sorry for his *sodales* when he learns what happened to them. When he confronts the consequences of his detachment, he will overcome it. This should take him a very long time and a lot of thought; characters will probably have to leave and return several times to redeem him. In fact, it is better saved as a loose end for characters who return to the ruins after the Bell is recovered.
-
-Until then, you can let your imagination and creativity carry you, because the whole room is constantly filled with some kind of illusion. These can take any form, including entire landscapes that extend to the horizon, and can change in the blink of an eye (but don’t do this too often — players will become very confused if you abuse this effect). The settings can be weird and exotic, such as a faerie palace on a mountaintop, or strangely mundane, as a deserted city street. However, there are never people that the characters can interact with in the illusion, unless it is Mormulus himself playing the part.
-
-Mormulus can sense things about the characters, and he works this knowledge into his enchantment. If you would like to develop this scene into an entire session, have all the players secretly write down some event that was important in their characters’ pasts: events that might be in the backs of their minds while they are exploring the ruins. Also note powerful scenes that have happened since they entered Calebais, or scenes that you suspect will happen later and you would like to foreshadow. Take these ideas and mix them up with all the things that Mormulus is thinking about (the early days of the covenant, the Sundering, his Veil and the dryad, the Bell of Ibyn) to create a web of confusion and illusion worthy of a master storyteller.
-
-Go through each idea for a landscape in turn, but have them fade smoothly from one to another. Don’t simply go from caverns to the ocean; instead tell the characters that they find a pool in the caverns, and as they look into it they find themselves mesmerized by their reflections, the patterns in the water and the soft tinkling of the ripples, which grow bigger and louder until they find themselves tossed and turned by the waves of the sea.
-
-The floor is pitted and cracked from the great damage to the level below, but this will never be visible as it is always incorporated into the illusion. Characters may be able to feel their way around different objects; they will not affect the environment of the room directly, though they may also play a part in the illusion. If the characters close their eyes and crawl about the floor, they may be able to feel out these items, but even then it will be difficult, because the wizard’s spells also affect the sensation of touch.
 
 ##### Ierimyra’s Laboratory
 
@@ -2623,34 +2623,6 @@ Granorda needs to feel exonerated for her involvement in the Sundering. She allo
 
 Now, Granorda is also obsessed with her death and her physical remains. She is intimately aware of the power magi have over the spirits and the flesh of the dead, and is frightened beyond reason that her corpse will be violated or destroyed. She cannot help it — she suspects everyone of coveting her remains, and of desiring to commit foul acts with them. She feels incredibly helpless in this regard and is desperate to protect herself. If the characters can somehow seal her grave, she will pass on as soon as she gives up her ties to Calebais. One way for characters to help her with this is to convince her that they would do great good with the Bell. If she believes them, and if they swear an oath not to disturb her corpse, she will give them her blessing and thanks, and soon go to her eternal rest. However, even if she had been their “leader,” the other magi will certainly object to this, and they will fight twice as hard to prevent the characters from taking the Bell without their consent.
 
-<!-- p. 73 --><a id="page-73"></a>
-
-##### Crenvalus
-
-Crenvalus has a distinct dislike of not being in control of a situation, and in life he took great pleasure in manipulating the actions of other people. It was his constant efforts to take charge of the covenant and his repeated squabbles with Ornath that precipitated the Sundering, and his ill-planned vengeance that made him finally realize he was also unfit to rule. Yet when he realized that death was not the end for him, he found he could not bear the thought of anyone else ruling Calebais, or else he decided he really wanted to continue after all, and acted to ensure that no one would ever disturb the covenant again.
-
-Though he has many weaknesses, Crenvalus was basically a good man who tried hard to preserve the honor of the covenant and the Order of Hermes. Anger comes quickly to him, however, and he has never practiced much restraint. He is also half-mad; though it may not be apparent at first, his extreme paranoia and xenophobia will eventually manifest with sudden and violent ferocity.
-
-> ### The Ghosts
->
-> The ghosts of three of the magi may be found in this area, either gathered together in the Burial Chamber or moving throughout the caverns. They are each trying to seize control of Calebais from the others while watching over their once mighty covenant’s last great treasure, the Bell of Ibyn.
->
-> Try to emphasize their interactions as you play them. They have haunted these caverns for fifty years, and have had plenty of time to explore each other’s personalities and weaknesses. They know themselves far too well, and for the most part they hate each other. Each would like to put the blame for the Sundering on the others, and they periodically re-enact ghostly battles to achieve temporary dominance. On any given day, any one of the three may be nominally “in charge” of the covenant, though of course this distinction is childish and serves no purpose other than to feed that wizard’s ego. The other ghosts will reluctantly yield to their leader, but they will also undermine his or her authority at every opportunity.
-
-When the characters arrive, Crenvalus will decide that Larine betrayed them. During the events that follow, he may curse her, and this is vital to the story as it reveals the name of the nun who sent the characters his message. If you don’t think the players will get the hint, you can have Crenvalus begin to talk to Larine, as if she could actually hear him, or even become convinced that one of the characters is Larine. His last words might be something like, “Curse you, Larine! May you suffer forever if you have given them the key to our mighty Bell!” If this doesn’t make the characters curious enough to track her down, nothing will.
-
-If asked about the skeleton in the portal, Crenvalus will try to remain calm and explain that there was an accident; a companion was helping him carry bodies of the fallen to a mass grave, he will say, and became trapped in the doorway. He could not help him because he was already dead by then. He will then quickly change the subject. If David has come with the characters, there will be no time for talk, as a battle will begin immediately once David sees him and begins using his command powers. If confronted and killed by his hand, both Crenvalus and David will be laid to rest, free to go to wherever their spirits ultimately belong.
-
-##### Uderzus
-
-Hot-tempered and cynical, when Uderzus first meets the characters, he will probably size them up and ask, “Well, what are you waiting for? Don’t you know how to loot a treasure trove?” He likes people who are able to accomplish things, and will scorn those who fail. He may indirectly warn the characters that they face more danger here than they think, but after that he will simply wait and watch to see how they deal with it.
-
-If he happens to be the “leader” when the characters arrive, he will feel it is his duty to hinder the party. He will create illusions using both Imaginem and Mentem to misdirect the characters, laughing with glee when they fall for one of his tricks, and giving short, constructive praise when they see through them. If Uderzus is not in charge of things, he will watch from a safe distance, cheering on the characters, and enjoying the show. He will make liberal use of his lance in battle if the characters insist on attacking him, and will sow great confusion among their ranks with spells like *Well Without Light*.
-
-Uderzus believes Calebais failed because nobody but him was able to do anything productive, and he died early on during a surprise attack on his sanctum. He still has questions about the Sundering, and will not rest until they have been answered to his satisfaction. Firstly, he does not know the details of David’s death, but is suspicious of Crenvalus’s “accident.” Secondly, while he knows that Pitsdim caused the most damage to the covenant, he wonders why the other magi (especially Granorda and Crenvalus) did not settle their differences to deal with their common enemy. Finally, he believes that Crenvalus did something terrible to the covenant, some great and disastrous spell, but does not know what it was, because it happened after he and Granorda died and Crenvalus will not speak of it.
-
-<!-- p. 74 --><a id="page-74"></a>
-
 #### Granorda, Magister of Death
 
 Magic Might: 45 (Mentem)
@@ -2702,39 +2674,23 @@ Appearance: Long black hair and a disheveled, dirty black gown are the most prom
 
 Roleplaying Tips: Be calm, never lose your cool, and until you have made up your mind, treat people with respect. Be interested in good-looking men. Speak with a slight lisp and practice dainty, careful mannerisms. Glance away often, as if worried about something, but refuse to explain if caught. Trust no one, for you have been betrayed before. If you decide that someone is vile and contemptible, you must get rid of that person as quickly as possible.
 
-##### Burial Chamber
+<!-- p. 73 --><a id="page-73"></a>
 
-This chamber contains 22 different corpses hidden beneath the water, five of which are incomplete (only arms, heads, or the like). Characters wading into the room will invariably run against the strangely well-preserved bodies, but they might not realize what they are at first, and are likely to be distracted by the three ghosts (Granorda, Crenvalus, and Uderzus) that they will probably encounter here.
+##### Crenvalus
 
-When they first enter this cavern, they interrupt a discussion (or battle) between the magi to determine who will lead the covenant today. Regardless of the outcome, Crenvalus will eventually see the characters and begin speaking to them. Uderzus, too, will see them (probably before Crenvalus), but unless he is the leader he will remain silent. Crenvalus politely invites them into the chamber, stepping back to make room for them, and magnanimously introduces himself and his two *sodales*. Uderzus will make a rude comment or two about the characters, warning them through his demeanor that the situation is dangerous, but Crenvalus will soon regain control of the conversation. Granorda says nothing and tries to overcome her natural anxiety about visitors, watching them closely to see that they don’t somehow trick her or make any sudden moves. She will be interested in them, because she wonders if with their help she would be able to break the stalemate that exists here. Crenvalus does his best to keep talking, and keep the characters talking, continuing conversation for as long as possible before making his move, since his only aims are to find out what they know and then see them dead.
+Crenvalus has a distinct dislike of not being in control of a situation, and in life he took great pleasure in manipulating the actions of other people. It was his constant efforts to take charge of the covenant and his repeated squabbles with Ornath that precipitated the Sundering, and his ill-planned vengeance that made him finally realize he was also unfit to rule. Yet when he realized that death was not the end for him, he found he could not bear the thought of anyone else ruling Calebais, or else he decided he really wanted to continue after all, and acted to ensure that no one would ever disturb the covenant again.
 
-<!-- p. 75 --><a id="page-75"></a>
+Though he has many weaknesses, Crenvalus was basically a good man who tried hard to preserve the honor of the covenant and the Order of Hermes. Anger comes quickly to him, however, and he has never practiced much restraint. He is also half-mad; though it may not be apparent at first, his extreme paranoia and xenophobia will eventually manifest with sudden and violent ferocity.
 
-The questions he asks are intended to stall the characters while subtly convincing Granorda that they are a threat and intend to desecrate her grave. For instance, he might say something like “Naturally, you’ve come here to find valuable resources for your studies?” or “Tell me what you would do with the magic that remains in our covenant, if we allowed you to harvest it.” The players should be thinking of vis, while Granorda is thinking of her corpse. Uderzus watches this play carefully, but does not interfere. As he speaks, Crenvalus moves towards the characters, focusing on the one he believes to be the most dangerous. When the time is right, and Granorda has been worked into a state near terror, he suddenly shouts, “I see it all now — they want to defile your corpse with unspeakable acts and hideous experiments! *Quickly, Granorda, wake the dead, wake the dead before it’s too late!*”
+> ### The Ghosts
+>
+> The ghosts of three of the magi may be found in this area, either gathered together in the Burial Chamber or moving throughout the caverns. They are each trying to seize control of Calebais from the others while watching over their once mighty covenant’s last great treasure, the Bell of Ibyn.
+>
+> Try to emphasize their interactions as you play them. They have haunted these caverns for fifty years, and have had plenty of time to explore each other’s personalities and weaknesses. They know themselves far too well, and for the most part they hate each other. Each would like to put the blame for the Sundering on the others, and they periodically re-enact ghostly battles to achieve temporary dominance. On any given day, any one of the three may be nominally “in charge” of the covenant, though of course this distinction is childish and serves no purpose other than to feed that wizard’s ego. The other ghosts will reluctantly yield to their leader, but they will also undermine his or her authority at every opportunity.
 
-<!-- p. 76 --><a id="page-76"></a>
+When the characters arrive, Crenvalus will decide that Larine betrayed them. During the events that follow, he may curse her, and this is vital to the story as it reveals the name of the nun who sent the characters his message. If you don’t think the players will get the hint, you can have Crenvalus begin to talk to Larine, as if she could actually hear him, or even become convinced that one of the characters is Larine. His last words might be something like, “Curse you, Larine! May you suffer forever if you have given them the key to our mighty Bell!” If this doesn’t make the characters curious enough to track her down, nothing will.
 
-If the characters have been courteous and respectful, and if some of them are very handsome or have Virtues like Venus’s Blessing, Granorda might hesitate long enough for the characters to interject and convince her that they seek no such thing. If they have been threatening, have Flaws that detract from their appearance or are simply not very attractive, or if you and the players just want to play a climactic fight, battle ensues.
-
-Crenvalus will attempt to possess the senior wizard of the group, his spirit rushing through the (hopefully) open mouth. If that fails, he will try to take over other wizards on subsequent rounds. If he succeeds, each round that character fails to regain control he will use his new body to cast spells, using up the character’s Fatigue levels instead of his Might. Once the character is nearly unconscious, he will use the body destructively, making it leap against other characters, dive underwater, or hit itself.
-
-<!-- p. 77 --><a id="page-77"></a>
-
-Granorda, meanwhile, raises the water-logged corpses from the water (this does not include her own, which is encased in a coffin at the back of the room or in another part of the burial chambers). Suddenly, all around the characters, partially decomposed bodies will rise from the black, icy waters, moaning and spreading their withered arms menacingly. These corpses are soft and pulpy, not tough like corpses buried in the ground, so they are not very powerful. Still, it will be a deadly fight. Consider:
-
-I. The corpses, 17 full and 5 partial, rise from all around the party, ahead and behind, assuming the characters have come to the center of the room. They will probably be outnumbered. The first round, just have one corpse attack each character, but after that they should start ganging up.
-
-II. Various independent body parts (including those caused by the fight) move through the water, grasping, biting or kicking the characters’ legs. This attack is mostly ineffectual, but it can be very creepy and demoralizing.
-
-III. This section of the ruins is not magically lit, so the party may be depending upon torches or lanterns to see, which will go out if dropped into the water or the bearer is pulled down.
-
-IV. Characters should suffer a –3 on Attack and Defense rolls, due to the poor fighting conditions. These circumstances include at least three extra botch dice for any 0s rolled, taking into account fighting in water, the cold temperature, bad air, limited visibility, and the partial body parts that may trip or pull characters down. Botches probably mean that the character loses his footing and is pulled down.
-
-V. Unconscious or Incapacitated characters are likely to drown if they are not rescued immediately, as they will fall underwater, and the corpses will try to hold them down.
-
-VI. Crenvalus will continue to try and possess magi, keeping them off-balance and using his powers whenever he has a firm hold.
-
-If the players are doing badly, Granorda might end her spell, intending to speak sharply to the characters after properly chastising them. Uderzus might also intervene, driving Crenvalus back with his lance and casting *Wind of Mundane Silence*, berating the characters for allowing things to reach this point. If he is overpowered, Crenvalus will go completely mad, and charge out of the room shouting “Larine has brought our doom; let us bury this covenant and our pitiful dead forever!” He will race out of the vaults, intending to make his way to the surface and shake the entire covenant to pieces, but he will settle for the tunnel. If the characters don’t stop him, he will cause another earthquake that could collapse the treasure chambers, and will certainly release the deluge described above.
+If asked about the skeleton in the portal, Crenvalus will try to remain calm and explain that there was an accident; a companion was helping him carry bodies of the fallen to a mass grave, he will say, and became trapped in the doorway. He could not help him because he was already dead by then. He will then quickly change the subject. If David has come with the characters, there will be no time for talk, as a battle will begin immediately once David sees him and begins using his command powers. If confronted and killed by his hand, both Crenvalus and David will be laid to rest, free to go to wherever their spirits ultimately belong.
 
 #### Crenvalus, Magister of Control
 
@@ -2791,6 +2747,14 @@ Vis: 10 Rego in his ghostly staff, if killed by David
 Appearance: Crenvalus is a long, lanky, sinewy apparition with dark, bronzed skin and thick, heavy eyebrows. His white hair cascades across his head like a lion’s mane, but his eyes are narrow and suspicious, and his smile should seem tense, like a trap ready to spring. He wears simple, well-made robes that are neither humble nor kingly, and carries a plain wooden staff.
 
 Roleplaying Tips: Ensure that every other thing you say is an order of some kind, though not necessarily malicious or pompous (“Get me a chair; my feet grow weary.”) React poorly to those who don’t show you proper respect, and reject anything that sounds like a command. Give your eyes a haunted look, and stop moving them only when you speak, but take care never to look at a player directly, staring instead at a point directly behind them. You are crazier than you seem; let that slip occasionally. Start to lose it if questioned about David and the magical portal. When you can’t take it any more, start screaming (and actually scream, to shock the players), “I should be in charge! I was the last! I survived! I was the best!” Slowly regain your composure, and then begin again.
+
+##### Uderzus
+
+Hot-tempered and cynical, when Uderzus first meets the characters, he will probably size them up and ask, “Well, what are you waiting for? Don’t you know how to loot a treasure trove?” He likes people who are able to accomplish things, and will scorn those who fail. He may indirectly warn the characters that they face more danger here than they think, but after that he will simply wait and watch to see how they deal with it.
+
+If he happens to be the “leader” when the characters arrive, he will feel it is his duty to hinder the party. He will create illusions using both Imaginem and Mentem to misdirect the characters, laughing with glee when they fall for one of his tricks, and giving short, constructive praise when they see through them. If Uderzus is not in charge of things, he will watch from a safe distance, cheering on the characters, and enjoying the show. He will make liberal use of his lance in battle if the characters insist on attacking him, and will sow great confusion among their ranks with spells like *Well Without Light*.
+
+Uderzus believes Calebais failed because nobody but him was able to do anything productive, and he died early on during a surprise attack on his sanctum. He still has questions about the Sundering, and will not rest until they have been answered to his satisfaction. Firstly, he does not know the details of David’s death, but is suspicious of Crenvalus’s “accident.” Secondly, while he knows that Pitsdim caused the most damage to the covenant, he wonders why the other magi (especially Granorda and Crenvalus) did not settle their differences to deal with their common enemy. Finally, he believes that Crenvalus did something terrible to the covenant, some great and disastrous spell, but does not know what it was, because it happened after he and Granorda died and Crenvalus will not speak of it.
 
 #### Uderzus, Magister of Perception
 
@@ -2850,6 +2814,42 @@ Vis: 9 Vim left in his ghostly lance, if his questions are satisfactorily answer
 Appearance: Uderzus is short and squat; he is missing his left hand and has difficulty standing up straight. His ghostly image is very solid and quite realistic. He has flame-red hair in patches, but other parts are white and gray. His burlap tunic is scorched and ripped, and he leans against his seven foot lance, the last foot of which has broken and splintered at the end.
 
 Roleplaying Tips: Purse not only your lips but your whole face. Laugh happily when others fail, but give grudging admiration when they succeed. Practice grimaces in the mirror and perfect a series of taunts. Don’t forget to have trouble positioning the lance you always have with you, and remember that you are stronger than you appear. When faced with characters casting Creo or Rego spells at you, aggressively swing the lance to point at them and haughtily stop them in their tracks.
+
+<!-- p. 74 --><a id="page-74"></a>
+
+##### Burial Chamber
+
+This chamber contains 22 different corpses hidden beneath the water, five of which are incomplete (only arms, heads, or the like). Characters wading into the room will invariably run against the strangely well-preserved bodies, but they might not realize what they are at first, and are likely to be distracted by the three ghosts (Granorda, Crenvalus, and Uderzus) that they will probably encounter here.
+
+When they first enter this cavern, they interrupt a discussion (or battle) between the magi to determine who will lead the covenant today. Regardless of the outcome, Crenvalus will eventually see the characters and begin speaking to them. Uderzus, too, will see them (probably before Crenvalus), but unless he is the leader he will remain silent. Crenvalus politely invites them into the chamber, stepping back to make room for them, and magnanimously introduces himself and his two *sodales*. Uderzus will make a rude comment or two about the characters, warning them through his demeanor that the situation is dangerous, but Crenvalus will soon regain control of the conversation. Granorda says nothing and tries to overcome her natural anxiety about visitors, watching them closely to see that they don’t somehow trick her or make any sudden moves. She will be interested in them, because she wonders if with their help she would be able to break the stalemate that exists here. Crenvalus does his best to keep talking, and keep the characters talking, continuing conversation for as long as possible before making his move, since his only aims are to find out what they know and then see them dead.
+
+<!-- p. 75 --><a id="page-75"></a>
+
+The questions he asks are intended to stall the characters while subtly convincing Granorda that they are a threat and intend to desecrate her grave. For instance, he might say something like “Naturally, you’ve come here to find valuable resources for your studies?” or “Tell me what you would do with the magic that remains in our covenant, if we allowed you to harvest it.” The players should be thinking of vis, while Granorda is thinking of her corpse. Uderzus watches this play carefully, but does not interfere. As he speaks, Crenvalus moves towards the characters, focusing on the one he believes to be the most dangerous. When the time is right, and Granorda has been worked into a state near terror, he suddenly shouts, “I see it all now — they want to defile your corpse with unspeakable acts and hideous experiments! *Quickly, Granorda, wake the dead, wake the dead before it’s too late!*”
+
+<!-- p. 76 --><a id="page-76"></a>
+
+If the characters have been courteous and respectful, and if some of them are very handsome or have Virtues like Venus’s Blessing, Granorda might hesitate long enough for the characters to interject and convince her that they seek no such thing. If they have been threatening, have Flaws that detract from their appearance or are simply not very attractive, or if you and the players just want to play a climactic fight, battle ensues.
+
+Crenvalus will attempt to possess the senior wizard of the group, his spirit rushing through the (hopefully) open mouth. If that fails, he will try to take over other wizards on subsequent rounds. If he succeeds, each round that character fails to regain control he will use his new body to cast spells, using up the character’s Fatigue levels instead of his Might. Once the character is nearly unconscious, he will use the body destructively, making it leap against other characters, dive underwater, or hit itself.
+
+<!-- p. 77 --><a id="page-77"></a>
+
+Granorda, meanwhile, raises the water-logged corpses from the water (this does not include her own, which is encased in a coffin at the back of the room or in another part of the burial chambers). Suddenly, all around the characters, partially decomposed bodies will rise from the black, icy waters, moaning and spreading their withered arms menacingly. These corpses are soft and pulpy, not tough like corpses buried in the ground, so they are not very powerful. Still, it will be a deadly fight. Consider:
+
+I. The corpses, 17 full and 5 partial, rise from all around the party, ahead and behind, assuming the characters have come to the center of the room. They will probably be outnumbered. The first round, just have one corpse attack each character, but after that they should start ganging up.
+
+II. Various independent body parts (including those caused by the fight) move through the water, grasping, biting or kicking the characters’ legs. This attack is mostly ineffectual, but it can be very creepy and demoralizing.
+
+III. This section of the ruins is not magically lit, so the party may be depending upon torches or lanterns to see, which will go out if dropped into the water or the bearer is pulled down.
+
+IV. Characters should suffer a –3 on Attack and Defense rolls, due to the poor fighting conditions. These circumstances include at least three extra botch dice for any 0s rolled, taking into account fighting in water, the cold temperature, bad air, limited visibility, and the partial body parts that may trip or pull characters down. Botches probably mean that the character loses his footing and is pulled down.
+
+V. Unconscious or Incapacitated characters are likely to drown if they are not rescued immediately, as they will fall underwater, and the corpses will try to hold them down.
+
+VI. Crenvalus will continue to try and possess magi, keeping them off-balance and using his powers whenever he has a firm hold.
+
+If the players are doing badly, Granorda might end her spell, intending to speak sharply to the characters after properly chastising them. Uderzus might also intervene, driving Crenvalus back with his lance and casting *Wind of Mundane Silence*, berating the characters for allowing things to reach this point. If he is overpowered, Crenvalus will go completely mad, and charge out of the room shouting “Larine has brought our doom; let us bury this covenant and our pitiful dead forever!” He will race out of the vaults, intending to make his way to the surface and shake the entire covenant to pieces, but he will settle for the tunnel. If the characters don’t stop him, he will cause another earthquake that could collapse the treasure chambers, and will certainly release the deluge described above.
 
 #### Corpses
 

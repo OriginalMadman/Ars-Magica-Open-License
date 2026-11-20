@@ -229,7 +229,7 @@ Digital Version 1.0
 - [Chapter Eight: Arelat](#chapter-eight-arelat)
   - [The Legacy of Fraxinetum](#the-legacy-of-fraxinetum)
   - [The Rhone Valley](#the-rhone-valley)
-  - [Avignon](#avignon)
+  - [Avignon](#avignon-1)
   - [Beaucaire](#beaucaire)
   - [Tarascon](#tarascon)
   - [Arles](#arles)
@@ -253,8 +253,8 @@ Digital Version 1.0
   - [Aix Les Bains](#aix-les-bains)
   - [The Coenobium Rhodanien](#the-coenobium-rhodanien)
 - [Chapter Nine: The Lost Covenant of Val-Negra](#chapter-nine-the-lost-covenant-of-val-negra)
-  - [History](#history)
-  - [Setting & Description](#setting--description)
+  - [History](#history-8)
+  - [Setting & Description](#setting--description-1)
   - [Sites of Interest](#sites-of-interest)
   - [The Aerie Clan](#the-aerie-clan)
   - [Lifecycle of the Aerie](#lifecycle-of-the-aerie)
@@ -1464,13 +1464,13 @@ Raimond is a Cathar Good Man, and sworn to the faith, though his theurgical beli
 
 The covenfolk of Tolosa Paratge are equally divided between the White and Black factions. Most reside within the mundane city, but given the current state of civil war between the magi some half dozen grogs and a dozen or so covenfolk are currently besieged in the regio. Some of their colleagues remain at large in the city and are attempting to formulate a rescue plan, and they may well approach magi from outside the city, or send Redcaps, to try to gain assistance for their faction. The covenfolk frequently engage in violence on the city streets, and many mundane citizens are caught up in these skirmishes, often becoming actively involved.
 
-## The Rest of the County
-
-While the city of Toulouse dominates its county, it is not the only inhabited location, nor the only place of importance.
-
 > ### Story Seed: The Borrowed Book
 >
 > The situation at Tolosa Paratge has long since passed the normal limits imposed upon magi by the Code. Furthermore, both sides are clearly guilty of depriving each other of their magical resources. So far, however, the Quaesitors have not acted. This is due in part to the great respect held for the covenant, but is mainly because no one on either side has so far brought a case. Visitors to Toulouse are treated with wary respect by both sides, but neither exactly encourage visits, being wrapped up in their own conflicts. When it becomes clear however that a valuable text was borrowed before the conflict started, and is now somewhere at Tolosa Paratge, the characters are sent to fetch it back. Can they help bring peace to the troubled covenant, or will they be drawn into the conflicts?
+
+## The Rest of the County
+
+While the city of Toulouse dominates its county, it is not the only inhabited location, nor the only place of importance.
 
 <!-- p. 42 --><a id="page-42"></a>
 
@@ -1510,29 +1510,23 @@ This small Trencavel town on the River Agout holds a cathedral dedicated to St. 
 
 Lavaur is today a crusader stronghold, held by Gui de Lucy. The meadow where the Cathars were burned has become a field of ashes, where no grass or wild flowers grow, and the atrocity has led to the growth of an Infernal aura of strength 6.
 
+> ### Story Seed: The Ghost of Na Geralda
+>
+> Lavaur is still haunted by a well known ghost, that of the beautiful and learned noblewoman Na Geralda who was murdered by the crusaders. Her spirit can manifest physically, and is dressed in fashionable noble dress, with no obvious signs of the trauma that led to her horrific death. She attempts to seduce suitable candidates into a *fin amor*, only revealing her ghostly state some way into the courtship, and then pleading with her lover to give her bones a proper burial. None so far have dared, and if refused she appears as a hideous mutilated corpse showing the horrible scars of her murder, and terrifies her unfaithful lover. The crusaders are aware that the death of Na Geralda was an atrocity, and wish her bones and memory to remain undisturbed so any who do try to lay the ghost to rest face the anger of Gui de Lucy and his men. The crusaders can not see the ghost (no one is sure why) and they do not believe the stories.
+
 <!-- p. 43 --><a id="page-43"></a>
 
 ## Cahors
 
 The city of Cahors is notorious for its moneylenders, whose usury has brought condemnation from the Church. The Jewish quarter houses some of these great moneylenders, but by no means all. Twenty years ago, at the insistence of the Church, Toulouse outlawed the mortgage and loan agreements that had been common in the region for centuries, and Cahors has taken over as the place to go to raise money fast. The towns around Cahors are primarily dedicated to the production of the superb local “black wine” (actually a deep red), which is exported all over Mythic Europe. Vineyards can be found on almost every south facing slope, and many are surmounted by castles.
 
-### Montcuq and Lolmie
-
-A stronghold of Catharism, the town of Montcuq has a small castle that fell to de Montfort in the summer of 1212, and was then granted to Count Raimond’s brother Baudouin who had joined the crusaders, against his kin. Baudouin was captured at the nearby Château Lolmie in 1214 when his men betrayed him to two of Raimond’s knights; he was abducted naked from his bedchamber and taken swiftly, slung on horseback, to Montcuq, which had returned to the Toulousain cause. He was hanged for treason as his brother watched approvingly a few days later at Montauban.
-
-### Morlhon le Haut
-
-The Morlhon family had a history of crusading in the Holy Land, and it was while on crusade that Odo de Morlhon had a vision that told him to build a religious establishment dedicated to the Holy Sepulchre. On his return he did so, founding the monastery now under the rule of Cluny at the nearby town of Villeneuve. Despite this the crusaders, on taking the castle, made the lord a *faidit*, and his titles are still held by the de Montfort family. When the crusaders captured the castle and town in 1214 they found seven Waldensians, and although the Waldensians were not to be declared heretics until the Fourth Lateran Council in 1215 the papal legate had all seven burned in the market place anyway. Orthodoxy was no protection during the crusade, as the Lord of Morlhon found when he was dispossessed by the agents of the Church his family had served so faithfully. Pons de Morlhon has become a companion of the Ostal des Exiles covenant (see later), and is counseled by the angry ghosts of the seven Waldensian martyrs.
-
-<!-- p. 44 --><a id="page-44"></a>
-
-> ### Story Seed: The Ghost of Na Geralda
->
-> Lavaur is still haunted by a well known ghost, that of the beautiful and learned noblewoman Na Geralda who was murdered by the crusaders. Her spirit can manifest physically, and is dressed in fashionable noble dress, with no obvious signs of the trauma that led to her horrific death. She attempts to seduce suitable candidates into a *fin amor*, only revealing her ghostly state some way into the courtship, and then pleading with her lover to give her bones a proper burial. None so far have dared, and if refused she appears as a hideous mutilated corpse showing the horrible scars of her murder, and terrifies her unfaithful lover. The crusaders are aware that the death of Na Geralda was an atrocity, and wish her bones and memory to remain undisturbed so any who do try to lay the ghost to rest face the anger of Gui de Lucy and his men. The crusaders can not see the ghost (no one is sure why) and they do not believe the stories.
-
 > ### Story Seed: A Rare Vintage
 >
 > Cahors Black is not just a very fine wine; a few flasks, when properly made, contain a potent source of Spell-like vis (see *Realms of Power: Magic*, [page 121](#page-121)). A moneylender who runs the risk of being ruined by an unwise loan to a local noble offers the wine, which he has realized has extraordinary properties, to any person who can enforce his mortgage agreement and recover his money, or payments from the noble. The noble lives in Toulouse, and claims that the payment agreement is illegal (as it now is in that city) and that the debt is canceled. In 1201 existing agreements were honored as the law abolished them, but this agreement was made after mortgages were made illegal. It may take a ruling of the capitouls or the bishop to resolve — is even this special vis really worth it?
+
+### Montcuq and Lolmie
+
+A stronghold of Catharism, the town of Montcuq has a small castle that fell to de Montfort in the summer of 1212, and was then granted to Count Raimond’s brother Baudouin who had joined the crusaders, against his kin. Baudouin was captured at the nearby Château Lolmie in 1214 when his men betrayed him to two of Raimond’s knights; he was abducted naked from his bedchamber and taken swiftly, slung on horseback, to Montcuq, which had returned to the Toulousain cause. He was hanged for treason as his brother watched approvingly a few days later at Montauban.
 
 > ### Story Seed: The Traitors of Lolmie
 >
@@ -1540,9 +1534,11 @@ The Morlhon family had a history of crusading in the Holy Land, and it was while
 >
 > The curse is as a unique Invocation/Cursing effect of level 60, powered by the dying man’s fury at the betrayal and terrible curse and his death agonies. The Range is special, and effects those who had sworn fealty to Baudouin and subsequently betrayed him, the Duration is until the sin of treachery is confessed and forgiven, and the Target is Group plus an additional magnitude to effect all thirty members of the garrison. (Base 5, +4 as Communion, +4 as Forsaken, +2 Group; see *Realms of Power: the Divine Revised Edition,* [pages 50 and 68](#page-50), and *Realms of Power: the Infernal,* [page 103](#page-103)) Whether the curse effect is actually Divine or Infernal is best decided by the storyguide.
 
-> ### Story Seed: St. John’s Eve
->
-> Near Castle Puivert lies a tranquil lake. On the shore is a rock shaped like a throne, where the chatelaines of the castle were often serenaded by troubadour visitors. On Midsummer’s night, if an original composition is sung in praise of a lady’s beauty while she sits upon the throne, the lock of her hair she grants the troubadour contains four pawns of Rego vis. However the local faerie lady of the lake is known to become jealous of such attentions, and sometimes floods the site, the waves stealing away the lady, her handmaidens, and the troubadour to an underwater regio where they are all forced to serve the faerie of the lake. When Lambert de Thury and his men return home one midsummer from a late hunt, they find the castle strangely empty, with no sign of his wife and staff. Can the characters solve the mystery, and get Lady de Thury back?
+### Morlhon le Haut
+
+The Morlhon family had a history of crusading in the Holy Land, and it was while on crusade that Odo de Morlhon had a vision that told him to build a religious establishment dedicated to the Holy Sepulchre. On his return he did so, founding the monastery now under the rule of Cluny at the nearby town of Villeneuve. Despite this the crusaders, on taking the castle, made the lord a *faidit*, and his titles are still held by the de Montfort family. When the crusaders captured the castle and town in 1214 they found seven Waldensians, and although the Waldensians were not to be declared heretics until the Fourth Lateran Council in 1215 the papal legate had all seven burned in the market place anyway. Orthodoxy was no protection during the crusade, as the Lord of Morlhon found when he was dispossessed by the agents of the Church his family had served so faithfully. Pons de Morlhon has become a companion of the Ostal des Exiles covenant (see later), and is counseled by the angry ghosts of the seven Waldensian martyrs.
+
+<!-- p. 44 --><a id="page-44"></a>
 
 ### Montauban
 
@@ -1551,6 +1547,10 @@ Here Baudouin, Raimond’s brother, was hanged for his treason from a walnut tre
 ### Puivert
 
 Castle Puivert stands in a verdant valley on a low hill in heavily wooded country. The site of a famous meeting of the Cathars in 1170, it is renowned for both its heresy and its warm welcome and generosity to troubadours. Formerly the possession of Bernard of Congost, it fell to de Montfort in 1210 and is now ruled by the crusader Lambert de Thury.
+
+> ### Story Seed: St. John’s Eve
+>
+> Near Castle Puivert lies a tranquil lake. On the shore is a rock shaped like a throne, where the chatelaines of the castle were often serenaded by troubadour visitors. On Midsummer’s night, if an original composition is sung in praise of a lady’s beauty while she sits upon the throne, the lock of her hair she grants the troubadour contains four pawns of Rego vis. However the local faerie lady of the lake is known to become jealous of such attentions, and sometimes floods the site, the waves stealing away the lady, her handmaidens, and the troubadour to an underwater regio where they are all forced to serve the faerie of the lake. When Lambert de Thury and his men return home one midsummer from a late hunt, they find the castle strangely empty, with no sign of his wife and staff. Can the characters solve the mystery, and get Lady de Thury back?
 
 ### Bruniquel
 
@@ -1584,6 +1584,10 @@ Almost all the population were expelled following the fall of the city, but most
 
 The cathedral holds the tomb of the city’s conqueror, Simon de Montfort. It is in the Romanesque style, though some of the crusaders are considering renovating it as a Gothic church. The cathedral is beset with the problems facing the diocese — the northern lords prefer clergy who have come with them on the crusade over the local churchmen, resulting in many clergy losing their positions and siding with the Trencavel claimant. The bishop, Gui de Vaux-de-Cernay, was appointed in 1212 to replace Bishop Bernard Raimond de Roquefort, who was dismissed for his sympathy with the Cathars (who included his mother and brother), but Bernard still claims the diocese and contests the legality of Gui’s appointment.
 
+> ### Story Seed: An Unrepentant Bishop?
+>
+> On the feast of Saint Nazarius (June 12th) a great service is held in the cathedral. Before the sacrament is administered, a suddenly troubled Bishop Gui calls out to the congregation that he is a usurper, and demands that Bishop Raimond be brought to officiate, handing him his mitre and vestments. Immediately after the Mass, Gui is bundled away by the crusaders and taken to the castle. At sunset he announces that he was bewitched and accuses Bishop Raimond of sorcery. Raimond flees and his friends call upon the characters to investigate and save him. Can they establish the truth?
+
 ### Auriac
 
 This is the site of ancient, long abandoned gold mines. Stories of strange creatures lurking in the ancient tunnels frighten locals. Nuggets of gold can still be found in the ancient shafts, but the supernatural horrors that must be defeated to recover them may outweigh the value of the Terram vis that can be recovered. Within the mines a Faerie aura of 4 is home to *follets*, stone-throwing fae who delight in collapsing tunnels upon intruders. Looking like the goblins of the north, they live in a feudal society under two rival counts, one in each of the mines, and fight a grim war with each other.
@@ -1602,19 +1606,11 @@ The lords of Lastours were firm supporters of the Trencavel, but Na Loba was bla
 
 The castle at Cabaret is one of the three strongest fortifications of the region.
 
-> ### Story Seed: An Unrepentant Bishop?
->
-> On the feast of Saint Nazarius (June 12th) a great service is held in the cathedral. Before the sacrament is administered, a suddenly troubled Bishop Gui calls out to the congregation that he is a usurper, and demands that Bishop Raimond be brought to officiate, handing him his mitre and vestments. Immediately after the Mass, Gui is bundled away by the crusaders and taken to the castle. At sunset he announces that he was bewitched and accuses Bishop Raimond of sorcery. Raimond flees and his friends call upon the characters to investigate and save him. Can they establish the truth?
-
-<!-- p. 46 --><a id="page-46"></a>
-
 > ### Story Seed: The Daughters of Na Loba
 >
 > While they await the return of Cabaret, Na Loba’s three daughters still have a strong claim to the three castles of Lastours. Having effectively been freed of their Trencavel overlords, the daughters do not wait passively for husbands and suitors, but instead use their dark charms and seductive allure to attempt to entrap good husbands. Only the stupidest of peasants believes the whispered stories that they are really werewolves. Anyone voicing the story soon vanishes, victim of the undoubted vindictiveness of the three heiresses and of Na Loba, who is still a formidable politician and mistress of intrigue. They are currently traveling around the country, seeking powerful allies to reclaim their birthright.
 
-> ### Story Seed: The Scrabbling Dead
->
-> It is said the garrison soldiers buried alive at Puisserguier still try to claw their way to the surface, and at night their corpses can be heard scratching at the loose earth and rock that holds them down. If they were to emerge they would undoubtedly seek vengeance upon the living. Soon they will emerge, unless a way is found to bury them deeper, or to put their spirits at peace. The moat has a strength 4 Infernal aura.
+<!-- p. 46 --><a id="page-46"></a>
 
 ### Montlaur
 
@@ -1631,6 +1627,10 @@ This castle was once a Cathar stronghold famous for the generosity it offered tr
 ### Puisserguier
 
 When a prominent northern knight slew a local lord who had joined the crusade in a quarrel, de Montfort decided that justice must prevail, and by the customary punishment of the south had the murderer buried alive, despite the protests of his fellow crusaders. It was not enough. Unsatisfied, the murdered southerner’s nephew changed sides, and burned the castle of Puisserguier he had been entrusted with, having the garrison of fifty northern soldiers thrown in the dry moat then buried alive under rocks. The two knights were taken to Minerve, where they were blinded, their noses, lips and ears were cut off, and they were then turned out, one falling into a latrine and drowning, one reaching Carcassonne.
+
+> ### Story Seed: The Scrabbling Dead
+>
+> It is said the garrison soldiers buried alive at Puisserguier still try to claw their way to the surface, and at night their corpses can be heard scratching at the loose earth and rock that holds them down. If they were to emerge they would undoubtedly seek vengeance upon the living. Soon they will emerge, unless a way is found to bury them deeper, or to put their spirits at peace. The moat has a strength 4 Infernal aura.
 
 ### Castelnaudry
 
@@ -2005,6 +2005,8 @@ This small town serves as the starting point for many English pilgrims seeking t
 
 Hundreds of dolmens litter the fens and marshes of the Médoc, each with a Faerie aura of 1 to 5. Most of them serve as homes for the faeries that call the region home and serve the Queen of Rosefleur as she torments travelers on the pilgrimage. More powerful creatures lair at sites with stronger auras.
 
+Collectively called Dames Blanches, these faeries include the courtly fae, nymphs, and sirens common through the area, along with a few trolls and fauns. They often try to lure pilgrims from their journey and either eat them (in the case of the trolls), or encourage them to live in the wilderness, where the victims often (unintentionally) die of exposure. Others simply request assistance in some small task or a few moments of dancing in order to allow travelers to pass unmolested, tormenting those who refuse. These faeries take forms ubiquitous and commonly known throughout Mythic Europe, making their stories familiar to pilgrims of any nation.
+
 <!-- p. 56 --><a id="page-56"></a>
 
 > ### Story Seed: The Hero’s True Panoply
@@ -2020,8 +2022,6 @@ Hundreds of dolmens litter the fens and marshes of the Médoc, each with a Faeri
 > ### The Helen of Gaul
 >
 > First married at the age of 12, Isabella of Angoulême was once the Queen of England, the widow of King John and the mother of both fourteen year-old King Henry III and eleven year-old Richard, High Sheriff of Berkshire and future Holy Roman Emperor. Eleanor of Aquitane approved of her, and the English people called her “Messalina,” “The Helen of Gaul,” and a “siren,” although her beauty infatuated them. She married Hugh without waiting to receive the consent of the king’s council in England, a required procedure for a former queen of England. Traditionally, the council not only chose the queen dowager’s second husband, but decided whether she should be allowed to marry at all. Isabella’s defiance caused the council to confiscate her dower lands and stop the payment of her pension. Isabella and her husband retaliated by threatening to keep the ten year-old Princess Joan, King Henry’s sister and the promised wife of King Alexander II of Scotland, in France—perhaps hidden away in Castle Rudel under the watchful eye of the Lord of Blaye. Isabella will have another nine children with Hugh over the next fourteen years, and her notorious beauty never fades. Does faerie blood run in her veins, or has Isabella struck a bargain with Oriande la Fée, and if so, at what price? Does she conspire with Ducaru of Stella Durus (see Chapter 7: Narbonnais) to secure her legacy and bloodline with his machinations?
-
-Collectively called Dames Blanches, these faeries include the courtly fae, nymphs, and sirens common through the area, along with a few trolls and fauns. They often try to lure pilgrims from their journey and either eat them (in the case of the trolls), or encourage them to live in the wilderness, where the victims often (unintentionally) die of exposure. Others simply request assistance in some small task or a few moments of dancing in order to allow travelers to pass unmolested, tormenting those who refuse. These faeries take forms ubiquitous and commonly known throughout Mythic Europe, making their stories familiar to pilgrims of any nation.
 
 ### Rosefleur
 
@@ -2092,6 +2092,10 @@ Oriande delights in tormenting wandering knights and pilgrims, causing them to f
 
 Once the playthings of this faerie queen become faeries themselves, she generally loses interest in them. She has hosted many magi in her court as refugees, vassals or allies, including Maugris and Dama. Dama, in particular, spent a long period there while pursuing the mysteries of Story Magic.
 
+> ### Story Seed: Ill-Met By Moonlight
+>
+> Oriande is an archetypal Faerie Queen, and may fulfill such a role in many different stories set in the area. For example, Oberon (see [*The Lion and the Lily*, page 72](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#oberon>)) may consort with her, or perhaps quarrel with her over a child from the covenant. The Boar King (see [*The Lion and the Lily*, page 119](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#the-boar-king>)) might seek her hand and deem the magi or their companions as appropriate challenges to demonstrate his devotion. Alternatively, she might choose to meddle with a knight on a quest, waylaying and tempting him much like the faeries in Arthurian legends. She might manufacture problems for nearby settlements, or take hostages whom she vows to release if certain items are returned to her or certain activities completed. She claims to have Ogier the Dane’s sword, Cortana, in her possession as a result of just such trickery. A favorite tactic is to direct a lesser faerie to provoke a group of travelers into hostilities, then appear in the aftermath and demand missives be delivered to other faerie nobility in the region as reparations for the harm inflicted upon her subjects. She then shadows these messengers, manufacturing challenges along the way to gain vitality.
+
 <!-- p. 58 --><a id="page-58"></a>
 
 ## Knightly Matters
@@ -2107,10 +2111,6 @@ There are one hundred commanderies of the Knights Templar in Languedoc, with 27 
 Depending on a facility’s nature— whether it watches over pilgrims, generates revenue, or both—anywhere from six to fifty brother-knights, an equal number of brother-sergeants and at least one chaplain priest form the garrison. Many of these warriors have participated in campaigns in France and Iberia, as well as crusades, and the commander is selected from among them by a vote of the members. One commander, called a tutor, is selected from local commanders to oversee operations within a country. The leader of the Templars claims the title of grand master. The current grand master is Peter de Montaigu, a native of Auvergne. His brother, Guerrin de Montaigu, is the grand master of the Knights Hospitaller. There are normally three Templar masters in the Tribunal. Giraud Brochard is the master of Aquitane and Guillaume d’Ailly, the Master of Provence and Spain. The Master of the Province and Bailiwick of Provence died in 1219. Historically, the post remained vacant until 1229.
 
 <!-- p. 59 --><a id="page-59"></a>
-
-> ### Story Seed: Ill-Met By Moonlight
->
-> Oriande is an archetypal Faerie Queen, and may fulfill such a role in many different stories set in the area. For example, Oberon (see [*The Lion and the Lily*, page 72](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#oberon>)) may consort with her, or perhaps quarrel with her over a child from the covenant. The Boar King (see [*The Lion and the Lily*, page 119](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#the-boar-king>)) might seek her hand and deem the magi or their companions as appropriate challenges to demonstrate his devotion. Alternatively, she might choose to meddle with a knight on a quest, waylaying and tempting him much like the faeries in Arthurian legends. She might manufacture problems for nearby settlements, or take hostages whom she vows to release if certain items are returned to her or certain activities completed. She claims to have Ogier the Dane’s sword, Cortana, in her possession as a result of just such trickery. A favorite tactic is to direct a lesser faerie to provoke a group of travelers into hostilities, then appear in the aftermath and demand missives be delivered to other faerie nobility in the region as reparations for the harm inflicted upon her subjects. She then shadows these messengers, manufacturing challenges along the way to gain vitality.
 
 Commanderies often operate in the same manner as abbeys and monasteries. For example, Montsaunès Commandery, fifty miles southwest of Toulouse, supervises dependencies and satellites throughout the Toulouse area. The Commandery of St. Marcet and the Boudrac Commandery are both dependents and the knight commander also oversees smaller posts including those of Escanecrabe, Figarol, Lestelle de Saint-Martory, Mazeres-sur-Salat, and Saint-Jean Plante. The Templars at Montsaunès also manage possessions in the towns of Arbon, Guau, Laffite-Toupière, Salies-du- Sala, St. Martory, Saint-Gaudens, Soueich, and Valentine.
 
@@ -2227,6 +2227,12 @@ The former covenant site was near a series of caves and six small, pyramidal mon
 
 Rebuilt in the mid-tenth century by Basques and Viking settlers, Bayonne is a major shipbuilding port and whaling center in Aquitaine. Construction of its great cathedral of St. Mary of Bayonne began in 1213 and still continues, while the completed crypts now house the relics of the city’s patron saint, Leon de Carentan, beheaded by Vikings in the ninth century. The incomplete cathedral has a Divine aura of 2, which rises to 3 on the saint’s feast day of March 1st.
 
+Bayonne gained a charter from King John in 1215, granting it a mayor, jurors, councilors, and advisors. This freed it from feudal obligations to the count of Labourd. The count has lived about ten miles east, in Ustaritz, ever since Richard the Lionhearted crushed the local lords in 1177 for participating in a rebellion against King Henry and then remained to occupy Bayonne until 1199.
+
+Regardless of who ruled them, the Basque people have lived in this region since before the Romans arrived. Their traditions and culture form the very core and personality of the land. They are expert whalers and capable warriors, and even have a population of roughly fifteen folk witches, or Sorginak (singular: “sorgina,” See Chapter 6: Pyrenees) scattered amongst the various villages and townships of Gascony, and the Basque Country of the Pyrenees.
+
+Although far more mundane than the coven of folk witches, the whalers of Bayonne are also a sophisticated and well-organized community. Excellent shipbuilders and sailors, they watch the coastal waters from high towers, called “vigias,” and launch a flotilla of small boats into the water at the first signs of local whales, or “sarda.” Then, armed with harpoons and throwing spears, they pursue the animals. After driving one to the shallows, they harvest it for meat and natural products. They have honed this deadly craft for nearly 200 years, and are considered second to none. The bones of Whales of Virtue hold Animal vis, while the baleen (a long series of thin plates in the whale’s mouth) contains Aquam vis.
+
 <!-- p. 62 --><a id="page-62"></a>
 
 #### Matagot
@@ -2286,16 +2292,6 @@ R: Voice, D: Sun, T: Ind<br>
 Vis: There are three pawns of Animal vis in the Matagot’s tail.
 
 Appearance: A large, dark calico cat flecked with gold, but with tufted ears and dark eyes with a vicious look. Note that the matagot is a specific sort of magical creature, and not a magic cat lineage.
-
-> ### Story Seed: Feed Me
->
-> The Sorginak know of the Lou Carcolh (see opposite page) which lives the hills near Bayonne, at the edge of the mountains, and they avoid the creature. It does not seem to roam too far from its cavern lair and attacks mostly pilgrims when it does. This steady stream of easy meals might be enough to placate the creature for now, but the witches are aware of the threat and closely monitor the situation. Occasionally, troublesome knights, interfering magi, or foolish bandits are led to the cave by one of the folk witches, both to supplement the monstrous beast’s appetite and to eliminate problems. It just so happens the characters have arrived asking too many questions… questions with answers held in the Lou Carcolh’s cave.
-
-Bayonne gained a charter from King John in 1215, granting it a mayor, jurors, councilors, and advisors. This freed it from feudal obligations to the count of Labourd. The count has lived about ten miles east, in Ustaritz, ever since Richard the Lionhearted crushed the local lords in 1177 for participating in a rebellion against King Henry and then remained to occupy Bayonne until 1199.
-
-Regardless of who ruled them, the Basque people have lived in this region since before the Romans arrived. Their traditions and culture form the very core and personality of the land. They are expert whalers and capable warriors, and even have a population of roughly fifteen folk witches, or Sorginak (singular: “sorgina,” See Chapter 6: Pyrenees) scattered amongst the various villages and townships of Gascony, and the Basque Country of the Pyrenees.
-
-Although far more mundane than the coven of folk witches, the whalers of Bayonne are also a sophisticated and well-organized community. Excellent shipbuilders and sailors, they watch the coastal waters from high towers, called “vigias,” and launch a flotilla of small boats into the water at the first signs of local whales, or “sarda.” Then, armed with harpoons and throwing spears, they pursue the animals. After driving one to the shallows, they harvest it for meat and natural products. They have honed this deadly craft for nearly 200 years, and are considered second to none. The bones of Whales of Virtue hold Animal vis, while the baleen (a long series of thin plates in the whale’s mouth) contains Aquam vis.
 
 <!-- p. 63 --><a id="page-63"></a>
 
@@ -2370,6 +2366,10 @@ Encumbrance: 0 (0)
 Vis: There are five pawns of Animal vis in the lou carcolh’s tentacles
 
 Appearance: This strange creature appears to be an enormous, dragon-headed snail, with a beard of nearly a score of tentacles extending implausibly far to grasp prey and pull it toward a maw filled with forearm-sized teeth. A thick shell covered in lumps the size of a man’s head forms its carapace, while its pebbly hide easily turns most weapons.
+
+> ### Story Seed: Feed Me
+>
+> The Sorginak know of the Lou Carcolh (see opposite page) which lives the hills near Bayonne, at the edge of the mountains, and they avoid the creature. It does not seem to roam too far from its cavern lair and attacks mostly pilgrims when it does. This steady stream of easy meals might be enough to placate the creature for now, but the witches are aware of the threat and closely monitor the situation. Occasionally, troublesome knights, interfering magi, or foolish bandits are led to the cave by one of the folk witches, both to supplement the monstrous beast’s appetite and to eliminate problems. It just so happens the characters have arrived asking too many questions… questions with answers held in the Lou Carcolh’s cave.
 
 <!-- p. 64 --><a id="page-64"></a>
 
@@ -2467,6 +2467,8 @@ Set at the foot of the Pyrenees, Pau and the county of Béarn are often torn bet
 
 Tarbes is the capital of the county of Bigorre, and nominally ruled by Guy de Montfort by marriage to Petronilla de Bigorre. Tarbes currently sees very little noble supervision while Guy pursues the Albigensian Crusade and Petronilla lives in Poitiers to avoid reprisals. With no established seneschal, the municipalities maintain order as best they can with the assistance of the bishop and local clergy. The city spreads across the left bank of the Adour river as six walled villages surrounding the bishop’s palace and cathedral.
 
+Legends state that the Queen of Ethiopia, Tharbis, a Cushite woman Moses spurned, founded Tharbes. While the oldest ruins are Roman, an ancient ring and a polished walking staff of African Moringa wood have been passed down from bishop to bishop. The staff currently rests in the offices of the bishop, a curiosity he doesn’t use but keeps nearby. The ring is a simple loop of gold set with amber and kept in a small soapstone box. When some one gifts the ring and tells the recipient to think of a subject, the ring causes the recipient to slowly forget that subject. Intelligence checks are made every full moon against an Ease Factor of 7 (+1 per failed check). After five failed checks, the ring’s wearer forgets the subject matter. This is a non-Hermetic effect, requiring an Intellego Mentem lab total of 30 and at least a season of research to decipher. Intellego magics reveal that the ring contains four pawns of Mentem vis. It acts as an arcane connection to the spirit of Tharbis for those with the proper magics. Knowledge of the ring’s power was lost when one of the bishops gave it to his successor on his deathbed, telling him to never forget its power.
+
 <!-- p. 66 --><a id="page-66"></a>
 
 #### Sarda Whale
@@ -2508,8 +2510,6 @@ Appearance: Most consider this enormous fish to be quite strange, with a sweet s
 > ### Story Seed: Time Is Short
 >
 > The current count, William Raymond, is an old man who rules from Tarbes while his son William administers Pau. The count’s rights to Pau are contested because his brother’s widow, Petronilla de Bigorre, married Guy de Montfort—Simon de Montfort’s son. If your saga follows history, this conflict finds resolution in April of 1220, when Guy de Montfort is killed in a Crusade-related skirmish with the forces of the count of Toulouse near Castelnaudary, a market town in the Toulousain. If the characters forge an agreement with the younger William and engineer or even execute this skirmish, they might find a way to establish a covenant in the towers overlooking the river fjord. In exchange for guarding the crossing, maintaining the village, and collecting reasonable tolls, William would ignore their curious behavior and could focus on supporting his father’s politics. However, this relationship is dangerously close to serving as a court wizards, and might prove troublesome if charges are brought against them at Tribunal.
-
-Legends state that the Queen of Ethiopia, Tharbis, a Cushite woman Moses spurned, founded Tharbes. While the oldest ruins are Roman, an ancient ring and a polished walking staff of African Moringa wood have been passed down from bishop to bishop. The staff currently rests in the offices of the bishop, a curiosity he doesn’t use but keeps nearby. The ring is a simple loop of gold set with amber and kept in a small soapstone box. When some one gifts the ring and tells the recipient to think of a subject, the ring causes the recipient to slowly forget that subject. Intelligence checks are made every full moon against an Ease Factor of 7 (+1 per failed check). After five failed checks, the ring’s wearer forgets the subject matter. This is a non-Hermetic effect, requiring an Intellego Mentem lab total of 30 and at least a season of research to decipher. Intellego magics reveal that the ring contains four pawns of Mentem vis. It acts as an arcane connection to the spirit of Tharbis for those with the proper magics. Knowledge of the ring’s power was lost when one of the bishops gave it to his successor on his deathbed, telling him to never forget its power.
 
 ## Lourdes
 
@@ -2734,6 +2734,10 @@ Discovering what happened to the last two Chief Quaesitors lies at the heart of 
 
 When Senex failed to attend the 1214 Tribunal, Tibaut became acting Chief Quaesitor, a position confirmed when Senex remained absent for two years. He investigated Castra Solis and learned Senex told no one his destination before he last departed. Tibaut entered Senex’s sanctum and discovered the first threads of the cult investigation in laboratory notes. After another season of research, he knew a cult was the focus of his predecessor’s last investigation, but he didn’t know which one, or why. He became convinced that Senex was dead, and he shared this suspicion with Beatrice, his filia. In 1217 he began investigating cults within the Tribunal, though he was hampered by the events of the Albigensian Crusade. Tibaut considered the members of the Hermetic mystery cults, the Cathars, possibly the Sorginak, as suspects. He sent sealed correspondence to Beatrice via an Iberian Redcap, attempting to leave a secure trail. Ambushed by Crusader camp followers, the Redcap perished from his injuries in the wilderness along the Via Domitia; the letter remains in his satchel.
 
+Tibaut continued his investigation, but an offhand comment from Luc of Ara Maxima Nova alerted Dama to his intentions. The fellow Merinita complained about the Quaesitor’s pressing questions regarding incidents with any members of the clergy or pilgrims using the Via Domitia. Luc and Tibaut fought a Certamen over the answers. While Luc lost, he provided the most cursory replies and later told Dama what arts to avoid when challenging Tibaut to Certamen. Realizing the route Tibaut likely traveled, she gathered Maju and prepared an ambush as the Guernicus neared the road to Foix. The attack occurred within an abandoned house; feigning an emergency, she lured him inside where Maju waited in a viper form. The Praeco shattered Tibaut’s Parma Magica with *Revoke the Protection of Bonisagus*, but Maju’s poison failed to quickly incapacitate the Quaesitor. He burst from the house and into the road before collapsing. The pair attempted to retrieve him, but fate intervened. A large group of Crusader knights witnessed the man’s collapse and rode to aid him.
+
+Divinely Blessed and resistant to Dama’s magics, they carried the dying Tibaut to the nearby Abbey of Saint Hilaire, thinking him to be a monk. The monks said that Tibaut was not one of theirs, but took him in anyway. In their care, he succumbed to the poison. As they thought about events afterwards, the Crusaders formed the belief that Tibaut had been a Cathar, and returned to raid the abbey in retribution for the monks’ activities. The monks of St. Hilaire have occasional contact with some of the Tribunal’s Redcaps, trading various goods in exchange for bookmaking materials or blank quires. Through this route, the news of the death eventually traveled back to Castra Solis, which attempted to make arrangements to recover the man’s effects. They met with no success as his body already lay buried in the Abbey’s cemetery and the monks remained in a state of disarray after the Crusaders’ attack. Tibaut’s belongings sit locked in a chest in the abbot’s office, as the Albigensian Crusade remains particularly active in the region. When he failed to meet Beatrice at their agreed upon time, she approached Dama with her suspicions regarding Tibaut’s possible demise. Maintaining her composure, the Praeco suggested Beatrice fulfill his office until the matter could discussed at Tribunal in 1221. Honored by this suggestion, Beatrice accepted the post and Dama informed the Redcaps.
+
 <!-- p. 72 --><a id="page-72"></a>
 
 #### The Serpent
@@ -2809,10 +2813,6 @@ Appearance: As Dama’s familiar, Maju often appears as a small, winged faerie s
 
 Maju has played a very long game with Dama. It started as part of the pagan religion of the Gauls, then subverted the pagan religion of the Basques in the region (Maju often takes the form of a snake and has Dama call it Sugaar when dealing with Basques, and many of the folk witches who serve Dama believe they are the god and goddess of their faith). Eventually, the sins the creature perpetuates will taint it so deeply that it will transform into an infernal being. Until then, Maju is trying to corrupt both Christianity and the Order of Hermes. It does this by setting up conflict between men and women, making women think they have a special, purer version of their faith than the mens’. Through Dama’s cult the creature has taken aim at the Virgin Mary. To Maju, the Black Madonna represents a dark feminine goddess in perfect opposition to the masculine God of the Dominion, who is different and more exalted. It seeks to make women desire glory beyond their place in the Christian hierarchy, to want to teach and preach, and to worship Mary (or multiple Marys) instead of Christ. To do this, it teaches great power to those who serve it. Like the serpent of Genesis, it corrupts mankind through Eve with forbidden fruit.
 
-Tibaut continued his investigation, but an offhand comment from Luc of Ara Maxima Nova alerted Dama to his intentions. The fellow Merinita complained about the Quaesitor’s pressing questions regarding incidents with any members of the clergy or pilgrims using the Via Domitia. Luc and Tibaut fought a Certamen over the answers. While Luc lost, he provided the most cursory replies and later told Dama what arts to avoid when challenging Tibaut to Certamen. Realizing the route Tibaut likely traveled, she gathered Maju and prepared an ambush as the Guernicus neared the road to Foix. The attack occurred within an abandoned house; feigning an emergency, she lured him inside where Maju waited in a viper form. The Praeco shattered Tibaut’s Parma Magica with *Revoke the Protection of Bonisagus*, but Maju’s poison failed to quickly incapacitate the Quaesitor. He burst from the house and into the road before collapsing. The pair attempted to retrieve him, but fate intervened. A large group of Crusader knights witnessed the man’s collapse and rode to aid him.
-
-Divinely Blessed and resistant to Dama’s magics, they carried the dying Tibaut to the nearby Abbey of Saint Hilaire, thinking him to be a monk. The monks said that Tibaut was not one of theirs, but took him in anyway. In their care, he succumbed to the poison. As they thought about events afterwards, the Crusaders formed the belief that Tibaut had been a Cathar, and returned to raid the abbey in retribution for the monks’ activities. The monks of St. Hilaire have occasional contact with some of the Tribunal’s Redcaps, trading various goods in exchange for bookmaking materials or blank quires. Through this route, the news of the death eventually traveled back to Castra Solis, which attempted to make arrangements to recover the man’s effects. They met with no success as his body already lay buried in the Abbey’s cemetery and the monks remained in a state of disarray after the Crusaders’ attack. Tibaut’s belongings sit locked in a chest in the abbot’s office, as the Albigensian Crusade remains particularly active in the region. When he failed to meet Beatrice at their agreed upon time, she approached Dama with her suspicions regarding Tibaut’s possible demise. Maintaining her composure, the Praeco suggested Beatrice fulfill his office until the matter could discussed at Tribunal in 1221. Honored by this suggestion, Beatrice accepted the post and Dama informed the Redcaps.
-
 ### Schemes of the Present
 
 This leaves Beatrice as the temporary Chief Quaesitor until her confirmation at the next Tribunal, and Dama extremely paranoid about her cult’s activities. She doesn’t know who else is aware of the investigations, but she secured the tacit political support of Alazais and the Coenobium when she secretly provided a Longevity Ritual to the Chief Redcap’s close mundane companion. Dama believes the covenant’s clout will easily derail any motion she needs buried at least once, and she stores this influence against need. She does not know if Tibaut managed to confide in the knights or the monks of the abbey before dying. She wants to grow her cult, and cement its gains, but worries about whom to initiate. Maju pushes her to bring more Sorginak into the fold, looking to corrupt their beliefs in Mari and Sugaar while syncretizing them with the followers of the Black Madonna in small coastal villages, and subverting the male domination of the Church. The faerie points out her failing Longevity Ritual; these last few years took their toll and that she no longer looks as young as she once did. It needles her about her estranged relationship with her filia, Marie, and about the small, isolated nature of Mimizan in the shadow of Oriande Le Fee’s Rosefleur. “Time is running out,” it hisses and Dama may leave no legacy behind if she cannot increase cult membership to a self-sustaining level. Aggressive recruitment may alert the Church to her activities, involve a player character folk witch in the conspiracy, or drive the Sorginak to seek out political allies or Trianoma magi willing to thwart or distract the Praeco.
@@ -2859,25 +2859,25 @@ Ferdinand III, the son of the current king of Leon, rules the kingdom of Castile
 >
 > This made Sancho VII and Alphonso VIII cousins by blood, brothers-in-law by marriage, and alternately foes and allies on the battlefield—fully displaying the kind of complicated political-familial relationships common to the region in this era.
 
+#### Pamplona
+
+Located on the right bank of the Arga river, Pamplona enjoys a rich income provided by the influx of pilgrims traveling through its lands on the Way of St. James. The routes from the Tunnel Way and Roncevaux Pass continue through the lands of Pamplona. People take pride in facilitating the journey of the devout to Compostella. Heavily fortified after hundreds of years of conflict, Pamplona has a reputation as “a bit of a fortress,” a city with high walls where people speak slowly and keep to their own business. A large number of ethnic Basques and Occitan immigrants make their home in Pamplona and the Provençal style of wandering trobairitz is quite popular. Despite its status as the capital of Navarre, most local authority comes from the bishop, the king’s brother Ramiro, as Sancho VII retired to the monastery of Tudela after the Battle of Las Navas de Tolosa in 1212. Ramiro’s sister, the Regent Blanca of Navarre, normally focuses her attention on military affairs to the south.
+
 > ### Story Seed: A Timeless Monk
 >
 > Near Pamplona, the Cistercian monastery of San Salvador of Leyre is famous for its former abbot, St. Virila. The abbot sat entranced for 300 years listening to the song of a nightingale in order to better contemplate eternity.
 >
 > Renowned as early as 920, he awoke unaged and unaware of the passage of time. Was he possibly a forerunner of the pious magi, and do his relics—entombed beneath the monastery— hold any secrets?
 
-> ### Story Seed: The Bitter Lord
->
-> Frustrated at what he considers the theft of his ancestral birthright, the count of Labourd entertains the idea of turning to the sorginak for revenge. He plans to buy their services, using them to curse, intimidate, and blackmail the officials of Bayonne into submission. Then, when the situation becomes unbearable, he will offer to intercede on their behalf, in exchange for their fealty.
-
-#### Pamplona
-
-Located on the right bank of the Arga river, Pamplona enjoys a rich income provided by the influx of pilgrims traveling through its lands on the Way of St. James. The routes from the Tunnel Way and Roncevaux Pass continue through the lands of Pamplona. People take pride in facilitating the journey of the devout to Compostella. Heavily fortified after hundreds of years of conflict, Pamplona has a reputation as “a bit of a fortress,” a city with high walls where people speak slowly and keep to their own business. A large number of ethnic Basques and Occitan immigrants make their home in Pamplona and the Provençal style of wandering trobairitz is quite popular. Despite its status as the capital of Navarre, most local authority comes from the bishop, the king’s brother Ramiro, as Sancho VII retired to the monastery of Tudela after the Battle of Las Navas de Tolosa in 1212. Ramiro’s sister, the Regent Blanca of Navarre, normally focuses her attention on military affairs to the south.
-
 #### County of Labourd
 
 From the shores of the Bay of Biscay to the peak of Mount Rhune at the eastern edge of Lower Navarre, Labourd is considered the cultural center of the Basque people. Many unGifted folk witches, or sorginak, live in the numerous towns and villages and frequently travel to Rhune to hold the witches’ sabbat of akelarre (see the section on sorginak later in this chapter) in or around the stone circles, dolmens, and ancient burial mounds that litter its slopes. The seven-headed, flying, fire-breathing dragon Lehen Sugea supposedly sleeps deep within the mountain, which has a Magic aura of 4. At least one coven of sorginak operates around the capital of Ustariz and travels to Rhune for their Friday akelarre in the form of ravens.
 
 The count of Labourd lost his rights to Bayonne, historically a part of the domain, after participating in the revolt against King Henry II. Richard the Lionheart crushed the count’s forces, occupied Bayonne for thirty years, and granted it a charter which King John then reaffirmed. Given Bayonne’s strong trade relationships with Cornwall and Aquitaine, there is little chance the count will recover those rights.
+
+> ### Story Seed: The Bitter Lord
+>
+> Frustrated at what he considers the theft of his ancestral birthright, the count of Labourd entertains the idea of turning to the sorginak for revenge. He plans to buy their services, using them to curse, intimidate, and blackmail the officials of Bayonne into submission. Then, when the situation becomes unbearable, he will offer to intercede on their behalf, in exchange for their fealty.
 
 <!-- p. 77 --><a id="page-77"></a>
 
@@ -2923,6 +2923,10 @@ Nuno Sanche also rules Cerdagne, or what remains after Raymond Roger I of Foix i
 
 Nestled deep in the mountains of the Pyrenees, many remote villages in this quiet county become completely isolated after winter storms close the routes beyond their valleys. Its ruler is Roger I de Pallars, the brother of the count of Comminges. He married the countess in 1217, but she is distant and uninterested in matters of rulership, preferring to study scripture. Roger I is an active participant in the Albigensian Crusade, fighting against the Cathars. He pays little attention to Pallars, and there is nearly no noble oversight of the land.
 
+> ### Story Seed: Looking for a Lord
+>
+> A covenant established in one of Pallars’ many valleys or ruined keeps would have little concern regarding mundane interference both for their remote nature and for the limited governance — at least for a while. This situation remains unchanged until Roger II succeeds as count in 1234, becoming much more involved in regional politics and potentially taking an interest in any pet administrators or pretenders. In the interim, however, the covenant might see some competition for vis sites from the Basque sorginak or Dama’s cult.
+
 <!-- p. 78 --><a id="page-78"></a>
 
 #### Counties of Jaca, Sobrarbe and Ribagorza
@@ -2938,6 +2942,10 @@ Considered a combined territory since the tenth century, when the marriage of th
 The count of Urgell, Ermengol VIII, died in 1208. He successfully defended the region against the incursions of Raymond Roger I, the count of Foix, starting in 1195. The count eventually captured Raymond Roger I in 1203 and turned him over to the bishop, who in turn gave him to Pedro II of Aragon. The king released the count of Foix in anticipation of the coming conflict of the Albigensian Crusade and actually added to Foix’s lands to ensure Raymond Roger’s loyalty.
 
 Elvira, the count’s widow, continues to rule from La Seu d’Urgell since Ermengol’s death, but her poor health means she is not expected to survive beyond the winter of 1220. She is desperately grooming their daughter, Aurembiaix, to succeed her. The countess married Aurembiaix to Álvaro Pérez de Castro, a Castilian noble, in 1212, in an attempt to strengthen Aurembiaix’s position.
+
+> ### Story Seed: Contested County
+>
+> The count of Ager, Urgell’s cousin, claims Aurembiaix cannot inherit the county and threatens to take control of the county by force upon the countess’ death. If your saga follows history, Guerau IV de Cabrera seizes Urgell in the winter of 1220 and Aurembiaix flees into exile, attempting to find a way to recover her birthright. She might become a Companion within a covenant, or act as a potential patron. In 1228, James I took an interest in her and had her marriage annulled on grounds of consanguinity. She then became James’ concubine and he confirmed her rights of inheritance in exchange for the town of Lleida.
 
 ### Andorra
 
@@ -2974,14 +2982,6 @@ Covered in pine forests and icy glaciers, Mount Perditu is the tallest mountain 
 ### Breach of Roland
 
 The Breach of Roland is a gap 40 paces wide with 100 pace-high cliffs, located in the opening above the circus of Gavarnie. Supposedly cut by Roland in an attempt to destroy his fabled sword Durendal as he bled to death from a terrible wound, the Breach is actually over 100 miles from Roncevaux. Inexplicably, the Breach has an aura of 2 which is randomly Magic or Divine, suggesting something very unusual.
-
-> ### Story Seed: Looking for a Lord
->
-> A covenant established in one of Pallars’ many valleys or ruined keeps would have little concern regarding mundane interference both for their remote nature and for the limited governance — at least for a while. This situation remains unchanged until Roger II succeeds as count in 1234, becoming much more involved in regional politics and potentially taking an interest in any pet administrators or pretenders. In the interim, however, the covenant might see some competition for vis sites from the Basque sorginak or Dama’s cult.
-
-> ### Story Seed: Contested County
->
-> The count of Ager, Urgell’s cousin, claims Aurembiaix cannot inherit the county and threatens to take control of the county by force upon the countess’ death. If your saga follows history, Guerau IV de Cabrera seizes Urgell in the winter of 1220 and Aurembiaix flees into exile, attempting to find a way to recover her birthright. She might become a Companion within a covenant, or act as a potential patron. In 1228, James I took an interest in her and had her marriage annulled on grounds of consanguinity. She then became James’ concubine and he confirmed her rights of inheritance in exchange for the town of Lleida.
 
 ### The Mallos de Riglos
 
@@ -3308,20 +3308,6 @@ Personality Traits: Pious +3, Calm +2, Nurturing +2, Patient +2
 
 Leonarda is from Aragon, on the far side of the Pyrenees, but learned of the many caves and their paintings from a fellow Criamon during a visit to the Cave of Twisting Shadows shortly after her Gauntlet. Deciding she wanted to seek a new route for her path, and believing there was ancient wisdom to be found within the first homes of mankind, she set out to establish a sanctum in one of these caves. After wandering for some time, she found Niaux, and began her research. Over time, she established a relationship with the villagers, and they were happy to receive her help on many occasions. Leonarda’s specialties are Creo, Rego, Corpus, and Vim, and she used these talents to create the relationships which have kept the covenant so well-informed. In exchange for twice-annual visits, Leonarda performed a Longevity Ritual and provided the Redcap Embeth with a pair of boots which allow her to perform a Leap of Homecoming. Embeth occasionally points interested Criamon to Niaux, but only after interviewing them and conferring with Leonarda.
 
-> ### Story Seeds for Miniata Sophia
->
-> A number of issues could draw player characters into interacting with Miniata Sophia.
->
-> #### Multiplicity of Wisdom
->
-> A magus seeking the mysteries of Fertility magic ([*Ancient Magic*, page 54](<Ars Magica 5e - Magic - Ancient Magic.md#iv-fertility-magic>)) might try to discover the location of Miniata Sophia after interacting with members at Tribunal. The Criamon value their privacy, however, and require a very close and trusting relationship before they permit an outsider to visit even the covenfolk in Niaux. A fellow member of the Order arriving by chance, however, would not be turned away—simply asked to make a promise never to reveal the site’s location. It is possible that Louis VII may attempt to seize the town as a strategic resource in 1226–1227, when the count of Foix challenges Louis’ attempt to enforce the king’s royal rights on the area. The royal French forces may include inquisitors seeking out Cathar heretics, especially since the count of Foix is married to a Cathar.
->
-> Once a magus does visit the cave, investigation reveals a regio exists. Easily accessible via magic on the new moon, equinoxes, and solstices, it leads into a very ancient magical version of the cave, where antediluvian shamans dance and drum while painting further pictographs on the walls. The only “accidental” method of entry is to be drumming or painting on the cavern walls by firelight on a solstice. The Criamon sometimes visit this regio to perform the final initiation into The Avenue of Adulation and the Station of Expression.
->
-> #### Aptly Put
->
-> An issue involving the resources of the covenant is slated for the coming Tribunal, and it looks like defending the characters’ position requires the backing of Miniata Sophia. The magi must find a way to convince the Criamon of the morally apt nature of their position — or reveal the immoral basis of their opposition. Doing so means digging up the dirt and investigating the motivations of their opponents through the sort of social interaction only possible in a place where all the magi are present — the Tribunal itself! Can the magi discover what they need to gain the support of Leonarda and her fellow Criamon before the matter is brought to vote? Do they have the legal acumen and debating skills necessary to delay the Tribunal proceedings or bring about a stalemate?
-
 #### Tumbarius, Follower of Criamon
 
 Age: 40 (Apparent age: 40)
@@ -3343,6 +3329,20 @@ The second son of merchant from Aachen, Hans was initially enrolled in a seminar
 ### Covenfolk
 
 Quite unusually, there are no dedicated grogs at Miniata Sophia. The Criamon feel they do not need them. The village itself is under the protection of Arnaud de Miglos, the local viscount and vassal of Foix, who keeps a garrison within his castle. The villagers of Niaux, who (mostly indirectly) supply the covenfolk, have always paid their taxes on time and adequately, and in doing so have never drawn undue attention. A few of the covenfolk are the sort of hunting specialists who could serve as grogs, if absolutely necessary, but they primarily help augment the covenfolks’ diet and serve as sentries only by virtue of their wide-ranging duties. There are a couple of better trained, widely-traveled covenfolk who occasionally venture abroad for items desired by the magi, but more often than not, this insular community continues to operate in quiet seclusion, regularly delivering small quantities of iron mined from the hills and processed into ingots or rod stock.
+
+> ### Story Seeds for Miniata Sophia
+>
+> A number of issues could draw player characters into interacting with Miniata Sophia.
+>
+> #### Multiplicity of Wisdom
+>
+> A magus seeking the mysteries of Fertility magic ([*Ancient Magic*, page 54](<Ars Magica 5e - Magic - Ancient Magic.md#iv-fertility-magic>)) might try to discover the location of Miniata Sophia after interacting with members at Tribunal. The Criamon value their privacy, however, and require a very close and trusting relationship before they permit an outsider to visit even the covenfolk in Niaux. A fellow member of the Order arriving by chance, however, would not be turned away—simply asked to make a promise never to reveal the site’s location. It is possible that Louis VII may attempt to seize the town as a strategic resource in 1226–1227, when the count of Foix challenges Louis’ attempt to enforce the king’s royal rights on the area. The royal French forces may include inquisitors seeking out Cathar heretics, especially since the count of Foix is married to a Cathar.
+>
+> Once a magus does visit the cave, investigation reveals a regio exists. Easily accessible via magic on the new moon, equinoxes, and solstices, it leads into a very ancient magical version of the cave, where antediluvian shamans dance and drum while painting further pictographs on the walls. The only “accidental” method of entry is to be drumming or painting on the cavern walls by firelight on a solstice. The Criamon sometimes visit this regio to perform the final initiation into The Avenue of Adulation and the Station of Expression.
+>
+> #### Aptly Put
+>
+> An issue involving the resources of the covenant is slated for the coming Tribunal, and it looks like defending the characters’ position requires the backing of Miniata Sophia. The magi must find a way to convince the Criamon of the morally apt nature of their position — or reveal the immoral basis of their opposition. Doing so means digging up the dirt and investigating the motivations of their opponents through the sort of social interaction only possible in a place where all the magi are present — the Tribunal itself! Can the magi discover what they need to gain the support of Leonarda and her fellow Criamon before the matter is brought to vote? Do they have the legal acumen and debating skills necessary to delay the Tribunal proceedings or bring about a stalemate?
 
 ## The Basques
 
@@ -3763,6 +3763,10 @@ If she fails, she undergoes Catharsis. If she botches, she cannot Assimilate Cat
 
 <!-- p. 98 --><a id="page-98"></a>
 
+If successful, the sorgina Assimilates Catharsis, achieving Epiphany. Unsuccessful Assimilation results in Debasement. Either way, Catharsis is accompanied by an ecstatic reaction. The sorgina is incapacitated with intense sensation and cannot comprehend the world around her. This leaves her vulnerable until she manages to control her ecstasy. The time necessary to control the sensations is not based upon Assimilation success or failure. Rather, ecstasy lasts one hour per point of her Warping Score. She may attempt to gather her wits by force of will, by spending a point of Confidence and using Second Sight to discern reality. Rolling a Stress Die + Perception + Second Sight, subtract that many hours from the recovery time. If the result is 0 or less, the sorgina regains control instantly. She is not confused, and is not forced to make any Concentration rolls. If the attempt botches, multiply the time by (1 + the number of botches). Cathartic Ecstasy lasting extremely long periods of time can have detrimental effects, such as Long-Term Fatigue and deprivation.
+
+Once the sorgina reaches a Warping Score of 10, she becomes one of the laminak and is no longer human. Laminak are river fae who live near the edge of settlements, unable to step on hallowed ground, but performing tasks such as plowing and bridge building in the night. Seven sorginak laminak supposedly directly serve Mari. Once fully transformed into laminak, the storyguide assumes control of the character. Suggestions for Epiphany and Debasement are as follows.
+
 > ### Tradition Ex Miscellanea: Hermetic Sorginak
 >
 > Occasionally, a sorgina will be trained Hermetically by one of the few magi belonging to the descendants of the coven which managed the Hermetic integration of sorgina powers. They tend to aggressively protect their secrets and look down upon other sorginak, knowing they are far more powerful than their sisters. This creates jealous rivalries which occasionally erupt with fatal results. When such a feud involves only sorginak, neither party tends to involve Quasitors or Redcaps; they feel it is “sorginak business.”
@@ -3778,10 +3782,6 @@ If she fails, she undergoes Catharsis. If she botches, she cannot Assimilate Cat
 > **Major Hermetic Flaw:** Necessary Condition (Potions, Euskara Incantations, and Fetishes)
 >
 > **Minor Hermetic Virtue:** Exotic Casting
-
-If successful, the sorgina Assimilates Catharsis, achieving Epiphany. Unsuccessful Assimilation results in Debasement. Either way, Catharsis is accompanied by an ecstatic reaction. The sorgina is incapacitated with intense sensation and cannot comprehend the world around her. This leaves her vulnerable until she manages to control her ecstasy. The time necessary to control the sensations is not based upon Assimilation success or failure. Rather, ecstasy lasts one hour per point of her Warping Score. She may attempt to gather her wits by force of will, by spending a point of Confidence and using Second Sight to discern reality. Rolling a Stress Die + Perception + Second Sight, subtract that many hours from the recovery time. If the result is 0 or less, the sorgina regains control instantly. She is not confused, and is not forced to make any Concentration rolls. If the attempt botches, multiply the time by (1 + the number of botches). Cathartic Ecstasy lasting extremely long periods of time can have detrimental effects, such as Long-Term Fatigue and deprivation.
-
-Once the sorgina reaches a Warping Score of 10, she becomes one of the laminak and is no longer human. Laminak are river fae who live near the edge of settlements, unable to step on hallowed ground, but performing tasks such as plowing and bridge building in the night. Seven sorginak laminak supposedly directly serve Mari. Once fully transformed into laminak, the storyguide assumes control of the character. Suggestions for Epiphany and Debasement are as follows.
 
 #### Epiphany
 
@@ -4057,23 +4057,23 @@ These groups, places, and professions represent aspects of life common within Na
 
 Beginning with the Umayyad conquest of Iberia in the eighth century, through the 12th century and to the present day, Moorish pirates have roamed the waters between the Straits of Gibraltar and Sicily like wolves. Primarily based in the Maghreb, from cities like Algiers, Marrakech, or Tangier, they plunder Christian Iberia, southern France, in particular Narbonnais, Italy and Sicily. They also operate out of the nearby Balearic Islands, with a brief cessation in 1115 after the Balearic Crusade, only to resume in the following year. Recently, the Italian city-states, the Norman Sicilians, and the Spanish kingdoms of Aragon and Castile have increased their grip on the Western Mediterranean, but they have not eliminated the pirate threat. One cannot journey from the Catalan Sea into the Ligurian or Sea of Sardinia without threat of attack and fear of slavery, which encourages travel in collected flotillas of vessels for added safety. As discussed in [*City and Guild* (page 87](<Ars Magica 5e - City & Guild.md>)), this area can be passed by Moorish vessels, magical assistance, or with a story.
 
+> ### Story Seed: A Pirate’s Life
+>
+> A particularly brutal corsair has taken to raiding along the coast. Not content to simply attack trading vessels, he lands with groups of reavers to attack caravans and pilgrims. In one of these raids, he captures covenfolk out on business, possibly a companion or associate bound for the covenant with correspondence. In order to avoid a life of slavery, the hostage explains to the pirates that the covenant will pay a ransom, and so the slavers send a message to the covenant. However, the ship’s captain has fueled the crew’s recent successes by striking a bargain with a jinn known as “Howling Knife of the Dunes.” The jinn knows of the Order and promises the kidnappers wealth beyond measure if they can capture one magus in particular. It seems the jinn has a second master—who have the characters angered?
+
 <!-- p. 105 --><a id="page-105"></a>
 
 ### Jewish Scholars
 
 Arles, Montpellier, and Narbonne hold yeshivas, or Jewish religious schools, as described in *Realms of Power: The Divine Revised Edition* ([pages 129–130](#page-129)), interpreting and recording Talmudic thought. Several respected rabbinical authorities and kabbalist mystics studied in Narbonne, including Moses ha-Darshan in the 11th century and Moses ben Joseph ben Merwan ha-Levi, who many considered one of the foremost Jewish mystics of his age, in the 12th. Referred to as Hachmei Provence, or “the wise of Provence,” these yeshivas helped establish the literary styles and pedigree which still endure as a scholastic standard within the Jewish religious community.
 
-### Knights of the Order of Aubrac
-
-A small group of knights dedicated to guarding pilgrims traveling southwest along the Way of St. James to Compostela, and southeast toward Rome, was established in Aubrac at the Dômerie d’Aubrac in the 11th century and adopted the rule of St. Augustine in 1162. It maintains a number of satellite hospitals, called “commanderies,” in the communes of Bozouls, Millau, Nazac, and Rodez. The Order of Aubrac maintains a competitive rivalry with the Hospitallers, who would like to absorb them, but have been unsuccessful thus far.
-
-> ### Story Seed: A Pirate’s Life
->
-> A particularly brutal corsair has taken to raiding along the coast. Not content to simply attack trading vessels, he lands with groups of reavers to attack caravans and pilgrims. In one of these raids, he captures covenfolk out on business, possibly a companion or associate bound for the covenant with correspondence. In order to avoid a life of slavery, the hostage explains to the pirates that the covenant will pay a ransom, and so the slavers send a message to the covenant. However, the ship’s captain has fueled the crew’s recent successes by striking a bargain with a jinn known as “Howling Knife of the Dunes.” The jinn knows of the Order and promises the kidnappers wealth beyond measure if they can capture one magus in particular. It seems the jinn has a second master—who have the characters angered?
-
 > ### Story Seed: The Rampaging Golem
 >
 > Servants of skilled kabbalists, Divinely blessed golems rarely act beyond the scope of their direction. However, when the grandson of the mystic who created it is unjustly lynched by a mob for a crime he did not commit (perhaps the handiwork of a nearby demon, infernally tainted Jinn, or faerie looking to stir up trouble), the golem is overwhelmed and begins to rampage. Seeking vengeance for the terrible wrong, it refuses to stop beating its way through the populace until finds the true culprit.
+
+### Knights of the Order of Aubrac
+
+A small group of knights dedicated to guarding pilgrims traveling southwest along the Way of St. James to Compostela, and southeast toward Rome, was established in Aubrac at the Dômerie d’Aubrac in the 11th century and adopted the rule of St. Augustine in 1162. It maintains a number of satellite hospitals, called “commanderies,” in the communes of Bozouls, Millau, Nazac, and Rodez. The Order of Aubrac maintains a competitive rivalry with the Hospitallers, who would like to absorb them, but have been unsuccessful thus far.
 
 ### Traveling Troubadours
 
@@ -4171,6 +4171,15 @@ Appearance: Dressed like a male Maghrebi pirate with a grinning and handsome cou
 
 The Jinn Corsair often barters with mortals who seek him for a term of protective service. He takes this duty seriously; his success is a matter of some pride, and he has only lost a charge twice. Once to a dragon, and once at the hands of a Hermetic magus—perhaps it was one of the magi from the covenant?
 
+> ### Story Seed: Vis from the Stream
+>
+> Marcella’s project has been ongoing for years. The potential ramifications of her research could significantly change the economy of the Order as vis becomes much more abundant in locations tied to ancient nature spirits. Marcella isn’t looking to kill the genii loci or Daimons, but skim vis from spirits, finding a way to “bleed” them, creating a renewable resource. The situation at Toulouse would probably provide insight, but she refuses to risk herself in such a volatile location. She has not yet determined a way to link an urban population to a Daimon, or how to invoke an Aspect for collection without alerting the Daimon, or how to draw vis from a spirit’s locus without disturbing it. She is experimenting with various ideas that address these concerns, but keeps her progress a tightly held secret. The next steps in Marcella’s research might include:
+>
+> - A ritual incorporating aspects of Wizard’s Communion and requiring the participation of magi with high scores in Muto and Rego techniques and elemental Forms. Guided by Marcella, success might forge a persistent link to the magic spirit of the Aude, allowing the Bonisagus to harvest in a manner similar to distilling Vim vis but with a greater yield. Unfortunately, this success might be tempered by the Daimon’s awareness and loathing of the connection.
+> - An extended negotiation with the spirit over the course of a collaborative ritual led by Marcella, where an Aspect of the Daimon undergoes the equivalent of a willing sacrifice which somehow strengthens its bond with the locus of the town over time while providing the magi with vis through a short-term loss of Might.
+> - A ritual which results in the ceremonial murder of the spirit of the Aude River, yielding a single bolus of vis determined by the storyguide. The consequences of this action eventually lead to the silting of the waterway and the decline of Narbonne as a port.
+> - Searching for and attempting to recover the Roman watermill complex of Barbegal. This would bring her into conflict with the Coenobium’s political aims. To avoid this complication, she is willing to trade texts and connections in exchange for discreet investigation by a third party, like the player characters.
+
 #### Giacoma of Bonisagus Filius Marcella
 
 Age: 28 (Apparent age: 28)
@@ -4188,15 +4197,6 @@ Personality Traits: Dignified +3, Courageous +2, Foolhardy +2
 The third son of a minor Norman lord who was fostered with his uncle, a petty knight, Renaud has fought in Iberia, the Albigensian Crusade, and even the Third Crusade shortly after his Gauntlet. He firmly believes in the concept of “mens sana in corpore sano,” — a healthy mind in a healthy body. He trains with the grogs, serving as their mercenary captain, and his battlefield experience only reinforces his reputation as a capable warrior and magus. Several close brushes with jinn in Iberia and a bad experience with the nobles executing the Albigensian Crusade left Renaud recently soured and looking for inspiration. A discussion at Tribunal with Jean Marie about the troubadour movement in the area inspired him to join Stella Durus. From here, he can investigate Roman ruins and local universities for bits of Mithraic lore while experiencing the very core of the troubadour movement. In fact, he has suggested becoming a troubadour patron twice to his fellow magi, and may personally retain one despite the perceived risks. The wisdom of bringing a wandering storyteller within the walls of the covenant seems questionable at this time, and so far, he has been dissuaded despite his role as magus in charge of defenses, but who knows for how long.
 
 <!-- p. 108 --><a id="page-108"></a>
-
-> ### Story Seed: Vis from the Stream
->
-> Marcella’s project has been ongoing for years. The potential ramifications of her research could significantly change the economy of the Order as vis becomes much more abundant in locations tied to ancient nature spirits. Marcella isn’t looking to kill the genii loci or Daimons, but skim vis from spirits, finding a way to “bleed” them, creating a renewable resource. The situation at Toulouse would probably provide insight, but she refuses to risk herself in such a volatile location. She has not yet determined a way to link an urban population to a Daimon, or how to invoke an Aspect for collection without alerting the Daimon, or how to draw vis from a spirit’s locus without disturbing it. She is experimenting with various ideas that address these concerns, but keeps her progress a tightly held secret. The next steps in Marcella’s research might include:
->
-> - A ritual incorporating aspects of Wizard’s Communion and requiring the participation of magi with high scores in Muto and Rego techniques and elemental Forms. Guided by Marcella, success might forge a persistent link to the magic spirit of the Aude, allowing the Bonisagus to harvest in a manner similar to distilling Vim vis but with a greater yield. Unfortunately, this success might be tempered by the Daimon’s awareness and loathing of the connection.
-> - An extended negotiation with the spirit over the course of a collaborative ritual led by Marcella, where an Aspect of the Daimon undergoes the equivalent of a willing sacrifice which somehow strengthens its bond with the locus of the town over time while providing the magi with vis through a short-term loss of Might.
-> - A ritual which results in the ceremonial murder of the spirit of the Aude River, yielding a single bolus of vis determined by the storyguide. The consequences of this action eventually lead to the silting of the waterway and the decline of Narbonne as a port.
-> - Searching for and attempting to recover the Roman watermill complex of Barbegal. This would bring her into conflict with the Coenobium’s political aims. To avoid this complication, she is willing to trade texts and connections in exchange for discreet investigation by a third party, like the player characters.
 
 #### Jean Marie, Follower of Jerbiton
 
@@ -4304,10 +4304,6 @@ Personality Traits: Calm +2, Curious +2, Dedicated +2
 
 With Luc since the beginning through a chance fostering, Etienne is primarily responsible for the maintenance and administration of Ara Maxima Nova as well as for interactions with visitors. An Animal, Herbam, Muto and Rego specialist, he contributes by keeping the structures in superior condition with an almost obsessive attention to detail. Stocky and taciturn with dark features and a piercing gaze, Etienne is a former lover of Luc, but ended the relationship when Luc married Miriam. While he is an active member of the cult, he has no desire to seek its innermost secrets. Rather, he wants to remain close to Luc and support the mystagogue’s search for wisdom in anyway possible. Blessed with the Gentle Gift, he has a weakness for sweets and a good game of chess, often making excuses to enter Perpignan looking for both. Outside specific cult initiations, Etienne remains celibate and makes no effort to seek companionship. He does feel the time is right to begin training an apprentice, and intends to search for one very soon.
 
-> ### Story Seed: The Expedition
->
-> Using the material presented in chapter 7 of *Ancient Magic*, a storyguide could easily create a joint venture between Ara Maxima Nova and the players’ covenant, where the wealthy covenant funds an expedition driven by information gathered by the troupe’s magi. Should a storm, created by the dragon which embodies the fierce currents, separate the groups’ sailing vessels or cause a shipwreck as the group arrives, then separated groups could explore the islands for their secrets while attempting to find other survivors and a route home. Divided groups might even conflict with one another for control of the Hesperides after reuniting.
-
 <!-- p. 112 --><a id="page-112"></a>
 
 #### Jeanne of Merinita
@@ -4329,6 +4325,10 @@ The youngest magus of Ara Maxima Nova and the only one originally from outside o
 ### Covenfolk
 
 Ara Maxima Nova regularly recruits new covenfolk from peasants seeking new lives in the town proper of Perpignan, including those seeking respite from the Reconquista to the south. Despite occasional arguments about the practice, Etienne even supplements some personnel needs with slaves from Arab merchants. Many who work in the vineyard or cork operations have no idea of the masters they serve. A dedicated cadre of covenfolk work within the main structure, dutifully tending the specialized needs of the magi. Drawn from servants who show promise and loyalty, these covenfolk are well-cared for and generously compensated. However, covenant policy rarely allows them to travel any great distances — Luc wishes to keep his cult secret and has no desire to take unnecessary risks. The exceptions to this rule are, of course, the fairly small turb of well-trained grogs who accompany magi afield, work foremen, and those who negotiate with merchants in Perpignan.
+
+> ### Story Seed: The Expedition
+>
+> Using the material presented in chapter 7 of *Ancient Magic*, a storyguide could easily create a joint venture between Ara Maxima Nova and the players’ covenant, where the wealthy covenant funds an expedition driven by information gathered by the troupe’s magi. Should a storm, created by the dragon which embodies the fierce currents, separate the groups’ sailing vessels or cause a shipwreck as the group arrives, then separated groups could explore the islands for their secrets while attempting to find other survivors and a route home. Divided groups might even conflict with one another for control of the Hesperides after reuniting.
 
 <!-- p. 113 --><a id="page-113"></a>
 
@@ -4389,6 +4389,8 @@ Travel from Macon to Arles takes about 3 weeks due to the river’s navigational
 ## Avignon
 
 This town has dominated southern Provence since its commune was established in 1129. Considered semi-independent of the Holy Roman Empire and holding no allegiance to the local Catalan count of Provence, it is one of the central sites of the Coenobium (see section later for further details).
+
+The Order of Canons of St. Rufus, the patron saint of Avignon, maintain an abbey, church and hospice just outside Avignon, near the Rhone. The grounds have a Divine aura of 3.
 
 <!-- p. 116 --><a id="page-116"></a>
 
@@ -4462,8 +4464,6 @@ Vis: 3 Imaginem in eyes
 Appearance: In its true form, the creature is a greenish-black worm with a long sinuous body girt with webbed legs like a flamingo and vestigial fin-like wings of blue lace.
 
 The statistics above represent a small adult drac, just grown into maturity. Their strong illusory powers allow them to move silently, become invisible, and change their appearance readily in human form.
-
-The Order of Canons of St. Rufus, the patron saint of Avignon, maintain an abbey, church and hospice just outside Avignon, near the Rhone. The grounds have a Divine aura of 3.
 
 ### Pont Saint-Bénezet
 
@@ -4581,6 +4581,8 @@ The stronghold of Baux was razed in 1162 at the end of a long conflict known as 
 
 Beneath the plateau of Les Baux lies the infamous Val d’Enfer, a rocky valley associated with a weak Infernal aura of 2, known for the many sinister caves that line the gorge. These caves provide entrances to a Tartaran regio. The regio is the lair of the lesser demons of pride and ambition that have spurred on the Baussenque lords into conflict over the preceding centuries.
 
+Carved into the rock beneath the valley is the Tremais, a roughly hewn sculpture depicting three figures commonly thought to represent Saints Lazarus, Mary Magdalene and Martha. The location is considered a minor pilgrimage site with a Divine aura of 4 but the Christian shrine lies within a larger Faerie aura of 2, as the original pre-Christian sculpture was dedicated to the Roman commander Marius, his wife, and the Syrian sibyl Martha before being adopted by missionaries seeking to convert the local populace.
+
 <!-- p. 120 --><a id="page-120"></a>
 
 > ### Story Seeds: Arles
@@ -4647,11 +4649,11 @@ Vis: There are four pawns of Animal vis in the Tarasque’s carapace.
 
 Appearance: The tarasque resembles a scaly, winged oxen with a vaguely reptilian lion’s head, six legs, a tortoise-like carapace, and a leathery tail. The full body of the creature measures roughly 15 paces long. Its legs end in heavy, sharply curved talons, and its great maw sports sword-like teeth. Wisps of pale gray smoke curl from its nostrils and open mouth.
 
-Carved into the rock beneath the valley is the Tremais, a roughly hewn sculpture depicting three figures commonly thought to represent Saints Lazarus, Mary Magdalene and Martha. The location is considered a minor pilgrimage site with a Divine aura of 4 but the Christian shrine lies within a larger Faerie aura of 2, as the original pre-Christian sculpture was dedicated to the Roman commander Marius, his wife, and the Syrian sibyl Martha before being adopted by missionaries seeking to convert the local populace.
-
 ## The Camargue
 
 This swampy triangle between the deltas is formed by the two terminal branches of the Rhone. Trinquetaille, the unwalled suburb of Arles on the right bank of the Grande Rhone, provides entry to the Camargue marshes to the south. It is the site of the Coenobium’s Factory, a series of seemingly mundane warehouses that house the bulk of the covenant’s magically produced mundane wealth.
+
+Although nominally only visitors to the Coenobium, the two Bjornaer magi who permanently dwell on the outskirts of the town spend most of their time within the marshlands of the Camargue. The diminutive Bubulcus roams the swamps astride his bull Animal Companion, usually in his egret Heartbeast form, and is the more sociable of the pair. Elornis One-Leg spends at least a season a year in his North African homeland or traveling through dreams. Descended from a line of African diviners, his Heartbeast is that of a greater flamingo. Both magi are aware of the legendary horses of the Camargue led by the Great Stallion but contact is minimal (See *Realms of Power: Magic*, [pages 59–60](#page-59)).
 
 <!-- p. 121 --><a id="page-121"></a>
 
@@ -4706,8 +4708,6 @@ Appearance: A very tall, brutishly strong man with heavily clawed hands and a he
 > Some claim the ogre can be placated by leaving him a skin of wine and a sheep for each wagon or herd to cross the Pont Flavian, or with a simple sack of coins. Those who attempt to sneak across or damage the bridge are often waylaid and eaten. A Redcap, unfamiliar with the area and trying to deliver correspondence to the covenant, found himself captured by the ogre. In a panicked attempt to barter for his life, he promised the ogre that the magi would pay a ransom for his freedom—whatever the ogre desired, be it ten head of cattle, a great lump of gold, a wagon loaded with full wine casks. Unwilling to surrender his prisoner or leave the bridge, the ogre captured the next shepherd to wander nearby. The ogre made the Redcap give directions to the covenant, telling the lad he would eat a sheep for every day beyond the fourth it took the shepherd to return, and swore he’d eat the boy himself if he failed to return with the wizards.
 >
 > So how will the magi react when a random sheepherder arrives at their doorstep unannounced, telling them they must come to see the ogre of Pont Flavian, and perhaps pay the ransom for a Redcap they have never met? The ogre is not foolish, either. He has hidden the Redcap in a secret oubliette only he knows and has the strength to open. If the Ogre is killed before the Redcap’s ransom is paid, the Mercere will likely rot in an unconsecrated grave, lost in the hills. Complicating matters, the ogre claims to be the cousin of the Boar King ([*The Lion and the Lily*, page 120](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#the-boar-king>)), declaring his noble kinsman will avenge any wrong committed against him.
-
-Although nominally only visitors to the Coenobium, the two Bjornaer magi who permanently dwell on the outskirts of the town spend most of their time within the marshlands of the Camargue. The diminutive Bubulcus roams the swamps astride his bull Animal Companion, usually in his egret Heartbeast form, and is the more sociable of the pair. Elornis One-Leg spends at least a season a year in his North African homeland or traveling through dreams. Descended from a line of African diviners, his Heartbeast is that of a greater flamingo. Both magi are aware of the legendary horses of the Camargue led by the Great Stallion but contact is minimal (See *Realms of Power: Magic*, [pages 59–60](#page-59)).
 
 <!-- p. 122 --><a id="page-122"></a>
 
@@ -4774,10 +4774,6 @@ Just outside St Gilles on the banks of the Rhone lies the scene of Peter of Cast
 
 <!-- p. 124 --><a id="page-124"></a>
 
-> ### Story Seed: The Green Magi in the Trees
->
-> Visitors who spend the night sleeping beneath the boughs of Yf report dreaming of green robed magi who disappear into the shadows whispering threats of vengeance. The Diedne of Yf used this site for their pagan rituals, but unlike their fellows further north, it was the Moors sponsored by Fraxinetum rather than the local Flambeau who spilled their blood amidst the groves. Characters who investigate the area looking to speak with pre-Schism War ghosts or uncover clues about their non-Hermetic secrets arouse the suspicion of the Chief Quaesitor elect and her Mercurian allies if they attempt to settle at the site.
-
 ## Orange
 
 Originally the Celtic oppidum Arausio, then later a colony for the veterans of Caesar’ Gallic War, this town has been ruled by the Les Baux family since the breakup of the Kingdom of Arles in 1033. Emperor Frederick I promoted the former county to a minor principality in 1163 as he passed through. The current count, Raymond I, still claims the viceroyalty of Arles since his troubadour father William’s death in 1218 in the depths of an Avignon prison. His power is greatly limited by the strong influence of the local commune.
@@ -4805,6 +4801,10 @@ Its current viscount, Hugh III of Les Baux has close connections with the repres
 These four small islands off the coast of Marseilles are uninhabited. The two largest, Pomegues and Ratonneau, are frequently used as moorings for smugglers, pirates, and Saracen raiders from their eastern nest in the Hyeres archipelago. The tiniest island, Tiboulain, is completely uninhabited. The remaining Isle d’Yf is covered by small Magic aura of strength 3 centered on the ancient grove of yew trees that give the outcrop its name.
 
 The youngest branches of the oldest yew each contain a pawn of Extraordinary Intellego vis that, if burnt, gives the bearer of the wooden brand the power to invoke the ability to communicate with the spirits of the dead as though casting the spell, *Whispers Through the Black Gate* ([**ArM5**, page 130](<Ars Magica 5e - Core Rules.md#whispers-through-the-black-gate>) / [Definitive Edition, page 333](<Ars Magica - Definitive Edition (Core Rules).md#whispers-through-the-black-gate>)). Up to half a dozen branches can be harvested each year on All Soul’s Eve, but each branch can only be used once.
+
+> ### Story Seed: The Green Magi in the Trees
+>
+> Visitors who spend the night sleeping beneath the boughs of Yf report dreaming of green robed magi who disappear into the shadows whispering threats of vengeance. The Diedne of Yf used this site for their pagan rituals, but unlike their fellows further north, it was the Moors sponsored by Fraxinetum rather than the local Flambeau who spilled their blood amidst the groves. Characters who investigate the area looking to speak with pre-Schism War ghosts or uncover clues about their non-Hermetic secrets arouse the suspicion of the Chief Quaesitor elect and her Mercurian allies if they attempt to settle at the site.
 
 ## Toulon
 
@@ -4838,6 +4838,8 @@ Between Hyeres and Frejus lies this geological anomaly of granite, a stark contr
 
 The original site of the covenant of Fraxinetum (see earlier for further details) lies almost inaccessible within the billowing crystalline summits of the region. Before the raider magi were forced to flee the consequences of their excessive mundane interference, this village above St Tropez amidst an encircling forest of cork, oak and chestnuts was their base.
 
+Still dominated by the ruins of the old covenant fort, the razed site retains a Magic aura of 4. A palisade of densely packed ash trees created by the Herbam specialists surrounds the former covenant grounds. Remnants of the defensive rituals of the magi animate the larger ash trees to repel intruders that pass the outer perimeter, giving rise to stories of ghosts haunting the area and keeping the local peasants from looting the Hermetic ruins.
+
 <!-- p. 126 --><a id="page-126"></a>
 
 > ### The Pirate Isles
@@ -4866,6 +4868,16 @@ The original site of the covenant of Fraxinetum (see earlier for further details
 >
 > The finished amulet grants the Major Virtue Greater Immunity (one major disease) to any wearer without Magic Resistance so long as he or she can smell the herb’s scent (equivalent to a Necessary Condition). The herb’s magic only lasts a single year and it confers Warping Points on the wearer as a constant effect of Low Power ([**ArM5**, page 168](<Ars Magica 5e - Core Rules.md#warping-points-and-constant-effects>) / [Definitive Edition, page 391](<Ars Magica - Definitive Edition (Core Rules).md#warping-points-and-constant-effects>)). If mounted above the lintel of a room, the amulet grants its protection to those in the chamber beyond while they recover within.
 
+## Mount Ventoux
+
+The “Home of the Winds,” this bald mountain marks the northern boundary of Provence and dominates the surrounding plains, and has long had an evil reputation as the source of the *Mistral*, the famous wind of Provence. Various chapels are built on its lower slopes, including a pair of chapels and a guard tower at Beumont-du-Ventoux and the large monastery of Notre-Dame-du-Groseau. Further north lies the Source du Groseau, a magical spring pouring from the cliff-face dedicated to the Celtic spring-deity Groselos and a potential source of Aquam vis.
+
+The upper slopes of the mountain are covered by a strong Magic aura of level 7 that rises into a regio of level 9 as a climber ascends to the gravelly summit. The wind is constantly blowing here, reaching frightening speeds and preventing any vegetation from taking hold.
+
+<!-- p. 127 --><a id="page-127"></a>
+
+The regio above the peak is home to numerous air spirits of varying Might ruled by a greater Daimon referred to as Ventoux. This elder spirit periodically looses his lesser kin to wreak havoc on the surrounding countryside, adding substance to the folktales of the hill as a source of malevolent spirits.
+
 > ### Story Seed: The Mistral
 >
 > Stories can be blown in by the winds when they come from a magical source.
@@ -4883,18 +4895,6 @@ The original site of the covenant of Fraxinetum (see earlier for further details
 > The storyguide may decide that either the daimon Ventoux or the Faerie lord Mistrau is better represented by an Infernal spirit that seeks to corrupt both Hermetic and hedge elementalist traditions. Player magi drawn to Mount Ventoux by its legends may then be readily deceived they are dealing with a Faerie rather than an Infernal entity and be led into corruption. Using an Infernal pact, the demon hopes to spread his influence beyond the Rhone Valley and create a miasma of corruption that will eventually infect all elementalist traditions throughout the Order.
 >
 > In this scenario, Mistrau is a similarly named demon of the Order of Aerial Powers of similar Might to his Faerie counterpart. To date, the demon has been partly contained by the prayers and hymns of the nearby monks of Notre-Dame-du-Groseau.
-
-Still dominated by the ruins of the old covenant fort, the razed site retains a Magic aura of 4. A palisade of densely packed ash trees created by the Herbam specialists surrounds the former covenant grounds. Remnants of the defensive rituals of the magi animate the larger ash trees to repel intruders that pass the outer perimeter, giving rise to stories of ghosts haunting the area and keeping the local peasants from looting the Hermetic ruins.
-
-## Mount Ventoux
-
-The “Home of the Winds,” this bald mountain marks the northern boundary of Provence and dominates the surrounding plains, and has long had an evil reputation as the source of the *Mistral*, the famous wind of Provence. Various chapels are built on its lower slopes, including a pair of chapels and a guard tower at Beumont-du-Ventoux and the large monastery of Notre-Dame-du-Groseau. Further north lies the Source du Groseau, a magical spring pouring from the cliff-face dedicated to the Celtic spring-deity Groselos and a potential source of Aquam vis.
-
-The upper slopes of the mountain are covered by a strong Magic aura of level 7 that rises into a regio of level 9 as a climber ascends to the gravelly summit. The wind is constantly blowing here, reaching frightening speeds and preventing any vegetation from taking hold.
-
-<!-- p. 127 --><a id="page-127"></a>
-
-The regio above the peak is home to numerous air spirits of varying Might ruled by a greater Daimon referred to as Ventoux. This elder spirit periodically looses his lesser kin to wreak havoc on the surrounding countryside, adding substance to the folktales of the hill as a source of malevolent spirits.
 
 ## Forcalquier
 
@@ -5043,6 +5043,10 @@ The large warehouse that stores the Coenobium’s mundane wealth is likewise oft
 
 Although dominated by Houses Jerbiton and Mercere, some of the associated magi belong to other Hermetic Houses such as Bonisagus (especially the politically minded Trianomae branch), Ex Miscellanea, Verditius, and even Flambeau. As most of the non-Mercere magi belong to Societates that have loose membership requirements, the actual House of a magus matters less to Alazais than his having an agreeable personality and demonstrating a commitment to the covenant’s goals as a whole. Each magus has his own agenda and interests but there is a surprising degree of cooperation and tolerance despite the rampant nepotism — perhaps aided by the fact that only a few of the magi are ever gathered in the same place at one time.
 
+Currently there are over two dozen predominantly Jerbiton magi registered as consuls, or voting members of the covenant. Nearly a dozen other magi are considered permanent guests and up to half a dozen Redcaps may be staying at any one time. Very few of these magi live in the city permanently, and most of the non-Jerbiton or non-Mercere magi have their own sancta or places of residence outside of Avignon and Arles, using the shared covenant chambers reached from beneath the Pont St Benezet when staying in Avignon or the chambers beneath Alazais’s auberge when visiting Arles.
+
+While not an official member, Beatrice of Guernicus, the Chief Quaesitor elect of Provençal dwells within the nearby ruins of Glanum. She has shown no intent of leaving the Coenobium’s hinterland, at least not until the next Tribunal meeting is confirmed. Beatrice is detailed further in Chapter 5: Gascony.
+
 > ### Is the Coenobium in Good Taste?
 >
 > The Jerbiton and affiliated magi of the Coenobium consider that they strive to live tastefully, according to the philosophy of their House (see *Houses of Hermes: Societates,* [pages 44–51](#page-44)), but to other Jerbiton their pragmatic approach of magically dominating the nobility, mundane resources, and hedge wizards of their hinterland may seem ugly. The Coenobium consuls counter that their highly organized management of their magical and mundane resources allows them the opportunity to live more tastefully by freeing up their time to engage in leisure, intrigue, travel, and the practice of good etiquette. By generously offering hospitality to specialist magi who perform the less tasteful tasks of running a covenant such as defense, magical research, and the maintenance of their mundane resources, they hope to encourage their sodales to learn from their example and move away from the traditions of the more unpleasant Founders that dominate much of the Order’s contemporary culture.
@@ -5053,10 +5057,6 @@ Although dominated by Houses Jerbiton and Mercere, some of the associated magi b
 >
 > An exception is the ever-shifting midstream island of Barthelasse, extending upstream from the arches of the Pont St Benezet. It is effectively a large lacuna with a Magic aura of 2, rising to 3 at its northern tip. Beneath the lightly wooded island lies the council rooms and guest quarters of the covenant, covered by the main *Aegis of the Hearth* that is renewed at the summer instead of winter solstice, unlike most other covenants. Further details of lacunae and using magic in urban settings within the Dominion are found in *Houses of Hermes: Societates*, [pages 57–60](#page-57).
 
-Currently there are over two dozen predominantly Jerbiton magi registered as consuls, or voting members of the covenant. Nearly a dozen other magi are considered permanent guests and up to half a dozen Redcaps may be staying at any one time. Very few of these magi live in the city permanently, and most of the non-Jerbiton or non-Mercere magi have their own sancta or places of residence outside of Avignon and Arles, using the shared covenant chambers reached from beneath the Pont St Benezet when staying in Avignon or the chambers beneath Alazais’s auberge when visiting Arles.
-
-While not an official member, Beatrice of Guernicus, the Chief Quaesitor elect of Provençal dwells within the nearby ruins of Glanum. She has shown no intent of leaving the Coenobium’s hinterland, at least not until the next Tribunal meeting is confirmed. Beatrice is detailed further in Chapter 5: Gascony.
-
 #### Alazais of Mercere, Chief Redcap and First Consul of the Coenobium
 
 Age: 59 (Apparent Age: 27)
@@ -5064,6 +5064,10 @@ Age: 59 (Apparent Age: 27)
 Personality Traits: Ambitious +6, Wily +3, Patient +2
 
 Claiming descent from Helen of Troy, the First Consul and Chief Redcap wears a tragic mask once favored by classical actors. She never removes her mask except in the presence of magi or her lover, an unGifted folk witch ally of the Coenobium for whom she has obtained a long-lasting Longevity Ritual at great cost with help from the Praeco, Dama. Rumor has it that she was once attacked with alchemical acid by a former suitor, leaving her face hideously scarred but none of the other magi will either confirm or deny this.
+
+UnGifted, she nevertheless makes much of a claim to be directly descended from the Founder Mercere though his granddaughter, using it to engender respect amongst Redcaps and the Jerbiton magi alike. Alazais’s leadership has seen an increasing number of non-Jerbiton magi being accepted as semipermanent or permanent guests and the adoption of a number of lesser hedge wizards as nominal Redcaps.
+
+Although careful to maintain the appearance of never voting openly in council meetings, she quietly pulls the strings behind the scenes, maneuvering the might of the Coenobium to further her own goals. She is careful to maintain the guise of encouraging the Jerbiton magi to seek beauty and leave the mundane tasks of running the covenant to their supposed inferiors.
 
 <!-- p. 132 --><a id="page-132"></a>
 
@@ -5074,10 +5078,6 @@ Claiming descent from Helen of Troy, the First Consul and Chief Redcap wears a t
 > The network of folk-witches, cunning folk, faerie doctors, and herbalists relies on the wider covenant for protection from the mundane authorities and Hermetic aggression. In return they provide a network of unGifted informants and agents throughout the southern coast and Alpine foothills that helps protect the covenant’s extensive mundane interests while allowing the magi to remain within the letter of the Code. The allied masques also harvest and protect vis sources in the area, provide minor protective amulets and charms to the covenfolk and other agents of the covenant, and increase the magi’s influence over the mundane folk of the local area.
 >
 > The Coenobium may be an appropriate base for troupes wishing to try their hand at a non-Hermetic saga.
-
-UnGifted, she nevertheless makes much of a claim to be directly descended from the Founder Mercere though his granddaughter, using it to engender respect amongst Redcaps and the Jerbiton magi alike. Alazais’s leadership has seen an increasing number of non-Jerbiton magi being accepted as semipermanent or permanent guests and the adoption of a number of lesser hedge wizards as nominal Redcaps.
-
-Although careful to maintain the appearance of never voting openly in council meetings, she quietly pulls the strings behind the scenes, maneuvering the might of the Coenobium to further her own goals. She is careful to maintain the guise of encouraging the Jerbiton magi to seek beauty and leave the mundane tasks of running the covenant to their supposed inferiors.
 
 #### Nicodemus Ex Miscellanea
 
@@ -5119,6 +5119,8 @@ This disgraced Terram master hoplite, hailing from beyond the Provençal Tribuna
 
 At the unexpected insistence of Primus Andru of Jerbiton, she has been grudgingly accepted into House Jerbiton and given a chance to reform. The exact details of her pardon are uncertain, but she appears bound to the provision that she use her talents to support the stability of the Coenobium. Her less martial Housemates may pursue their concepts of Beauty and Taste, but they do so with minimal disruption from magical threats due to her efforts.
 
+Xiphos claims descent from a legendary Guernicus Terrae-magus known as Adamantius, and has almost complete mastery over metal and blades.
+
 <!-- p. 133 --><a id="page-133"></a>
 
 > ### Saga Seeds: Joining the Coenobium
@@ -5142,8 +5144,6 @@ At the unexpected insistence of Primus Andru of Jerbiton, she has been grudgingl
 > In the aftermath of the Wizard’s War against the magi of Fraxinetum and the rise of the Coenobium, many of the former covenant sites of the founding magi were abandoned as the community closed ranks and established itself. Some locations have been restored or converted into chapters occupied by a single magus but there are still many eligible resources that need attention.
 >
 > Reclaiming the Alpine sites or the nearby Barbegal mill-complex are both projects that would readily attract a sponsor. Either would be a great boon to the Coenobium, which has some difficulty accessing sites with high Magic auras. Magi who establish a chapter house under the patronage of one of the existing consuls and demonstrate their worth, will be in a good position to petition for official membership or even declare themselves independent of the Coenobium.
-
-Xiphos claims descent from a legendary Guernicus Terrae-magus known as Adamantius, and has almost complete mastery over metal and blades.
 
 #### Lavandarius the Pralician, Ex Miscellanea
 
@@ -5343,44 +5343,6 @@ The Iron Door, magically protected by a powerful ward yet physically easy to ope
 
 The Adulteration is not in any sense actually Flambeau, who is long dead or passed into Final Twilight. Though it believes it is the Founder, it is naught but a horrific shadow of the great magus who once was. If released, it causes havoc and horror, devastating the countryside driven by pure angst and wrath. It is a crazed, psychopathic magical construct, built from the mistakes, the base desires, and the failings of the Founder.
 
-> ### A Covenant of Ghosts
->
-> The catacombs house corpses of many ancient magi, and some of their ghosts walk these halls. They are keys to its legacy, but in death their memories are faded and distorted.
->
-> One of these is a Living Ghost, Archmagus Abaddon of Tytalus. A powerful necromancer, he was one of the two who subdued the Adulteration and resealed the Iron Door. He took the responsibility of guarding it and protecting Val-Negra from outsiders, sacrificing himself to maintain his post for eternity. As the last magus of Val-Negra, the Aerie Clan serves him devotedly.
->
-> It is Abaddon who sustains the Aegis of the Hearth over the covenant, employing the Mystery of Hermetic Empowerment and often binding the ghosts of past members. This knowledge may shock and outrage players initially, but in truth these ghosts volunteer for the effort and need no coercion. Abaddon has several specialized laboratories hidden in the catacombs. Using Lab Texts, he is able to craft the item in a single season, and the spirits he employs can empower the devices two or three times before they must be dismissed. The vis available for his enchantments is such that he can continue this for centuries, for not only was Val-Negra rich, the Haruspex makes sure he is well supplied to maintain his duty. Abaddon also maintains vigil over the Iron Door, making sure the ward is not disrupted and ready to recast it if needed.
->
-> If you want to flesh out his details, refer to The Mysteries: Revised Edition [pages 64–74](#page-64) for rules concerning Hermetic Spirit Magic and the Living Ghost. Abaddon can be a resource for magi seeking such knowledge, and may possess a few unique mysteries as well. He has many useful spells stored in his Talisman and is free to create other items as desired. Storyguides are encouraged to be creative thinking of ways he might employ his magic, for he is reputed to be one of the most powerful necromancers in the Order of Hermes.
->
-> Abaddon is intended as a roleplaying challenge, with an idiosyncratic personality that can frustrate and amuse players. He is obsessed with his duty as guardian of the Iron Door, but he is a Tytalus through and through and enjoys befuddling and annoying visitors. His haunt is the whole of Val-Negra, and he prefers to mimic a semblance of life by conjuring and possessing a strong young body (which he dissolves if needed). Direct confrontation with Abaddon should probably be unnecessary. In fact, though he may be initially suspicious of visitors, he is willing to trust them (to an extent) and will grant them Casting Tokens for the Aegis. He may even ask them to help cast a more powerful one over the covenant or request assistance for many varied neglected tasks. Abaddon can also be a hook for a saga revolving around the restoration of Val-Negra.
->
-> Magic Might: 50 (Mentem)
->
-> Personality Traits: Eclectic +5, Obsessed +3, Ruthless +2
->
-> Reputations: Hermetic Prestige 4, Necromancer 3 (Hermetic)
-
-<!-- p. 140 --><a id="page-140"></a>
-
-### The Grand Library
-
-This is a great chamber filled with charred oak tables which once held many books, many of which were burned in the Diedne assault when one immolated herself here. The ashes, if reconstituted, may yield rare and powerful books. However, most that could be salvaged were taken when the covenant was abandoned.
-
-### Inirelte’s Tower
-
-The third largest tower was built by the Prima Inirelte, and wasn’t filled with labs following her death. It was once enchanted as her Talisman using the Mystery of Hermetic Geometry (see [*The Mysteries Revised Edition*, page 92](<Ars Magica 5e - The Mysteries (Revised).md>)). The tower has three floors. Inirelte’s sanctum, on the top floor, still contains a small library of ancient Hermetic books preserved by powerful magic — and even more powerful magical traps.
-
-### The Catacombs
-
-Beneath Val-Negra lies an extensive and complicated system of caves and catacombs. Here can be found numerous specialized labs, small libraries, a few rooms dedicated to arcane purposes, and other mysterious chambers. Most eerie, however, are the tombs of Val-Negra’s magi and the final resting places of several Primi of House Flambeau. The dry conditions have mummified their mortal remains.
-
-### The Shrine of the Aerie
-
-Deep within the Catacombs lies the Shrine of the Aerie, their most important religious site. The cavern containing it is utterly awe inspiring; crystalline strata flash with color, the roar of a waterfall at one end sounds musical and imposing, and carvings created by generations of Aerie are of intense beauty. The atmosphere is very relaxing, inspiring visitors to sit down and forget their cares (storyguides may require an appropriate Personality Trait roll, but there is no magical effect).
-
-<!-- p. 141 --><a id="page-141"></a>
-
 #### The Adulteration of Flambeau (Malignancy, Autumn)
 
 Magic Might: 65 (Ignem)
@@ -5447,6 +5409,44 @@ Grants awareness of everything that happens within the innermost regio of Val-Ne
 The Adulteration can fly through the air in any direction simply by concentrating. If distracted, control is lost but the power holds the Adulteration aloft indefinitely. **ReIg 15** **R:** Per, **D:** Sun, **T:** Ind (Base 4, +2 Sun, +1 Constant): Greater Power (15 levels); Improved Power (-2 Might cost, +2 Init)
 
 Appearance: If perceived or manifested the Adulteration appears as a deeply tanned, bald man in his late 50’s. If angry, it begins to smolder and smoke and releases bits of ash, bursting into an immolated form when furious and ready to attack. It truly believes it is the Founder Flambeau, trapped within the regio. It usually manifests in human form, but may conceal itself and interact via its Eidolon. It loathes Moors and sahirs, and immediately attacks if confronted by such individuals. Imprisonment confuses it and it strives to escape, though it doesn’t understand how the door prevents it from leaving.
+
+> ### A Covenant of Ghosts
+>
+> The catacombs house corpses of many ancient magi, and some of their ghosts walk these halls. They are keys to its legacy, but in death their memories are faded and distorted.
+>
+> One of these is a Living Ghost, Archmagus Abaddon of Tytalus. A powerful necromancer, he was one of the two who subdued the Adulteration and resealed the Iron Door. He took the responsibility of guarding it and protecting Val-Negra from outsiders, sacrificing himself to maintain his post for eternity. As the last magus of Val-Negra, the Aerie Clan serves him devotedly.
+>
+> It is Abaddon who sustains the Aegis of the Hearth over the covenant, employing the Mystery of Hermetic Empowerment and often binding the ghosts of past members. This knowledge may shock and outrage players initially, but in truth these ghosts volunteer for the effort and need no coercion. Abaddon has several specialized laboratories hidden in the catacombs. Using Lab Texts, he is able to craft the item in a single season, and the spirits he employs can empower the devices two or three times before they must be dismissed. The vis available for his enchantments is such that he can continue this for centuries, for not only was Val-Negra rich, the Haruspex makes sure he is well supplied to maintain his duty. Abaddon also maintains vigil over the Iron Door, making sure the ward is not disrupted and ready to recast it if needed.
+>
+> If you want to flesh out his details, refer to The Mysteries: Revised Edition [pages 64–74](#page-64) for rules concerning Hermetic Spirit Magic and the Living Ghost. Abaddon can be a resource for magi seeking such knowledge, and may possess a few unique mysteries as well. He has many useful spells stored in his Talisman and is free to create other items as desired. Storyguides are encouraged to be creative thinking of ways he might employ his magic, for he is reputed to be one of the most powerful necromancers in the Order of Hermes.
+>
+> Abaddon is intended as a roleplaying challenge, with an idiosyncratic personality that can frustrate and amuse players. He is obsessed with his duty as guardian of the Iron Door, but he is a Tytalus through and through and enjoys befuddling and annoying visitors. His haunt is the whole of Val-Negra, and he prefers to mimic a semblance of life by conjuring and possessing a strong young body (which he dissolves if needed). Direct confrontation with Abaddon should probably be unnecessary. In fact, though he may be initially suspicious of visitors, he is willing to trust them (to an extent) and will grant them Casting Tokens for the Aegis. He may even ask them to help cast a more powerful one over the covenant or request assistance for many varied neglected tasks. Abaddon can also be a hook for a saga revolving around the restoration of Val-Negra.
+>
+> Magic Might: 50 (Mentem)
+>
+> Personality Traits: Eclectic +5, Obsessed +3, Ruthless +2
+>
+> Reputations: Hermetic Prestige 4, Necromancer 3 (Hermetic)
+
+<!-- p. 140 --><a id="page-140"></a>
+
+### The Grand Library
+
+This is a great chamber filled with charred oak tables which once held many books, many of which were burned in the Diedne assault when one immolated herself here. The ashes, if reconstituted, may yield rare and powerful books. However, most that could be salvaged were taken when the covenant was abandoned.
+
+### Inirelte’s Tower
+
+The third largest tower was built by the Prima Inirelte, and wasn’t filled with labs following her death. It was once enchanted as her Talisman using the Mystery of Hermetic Geometry (see [*The Mysteries Revised Edition*, page 92](<Ars Magica 5e - The Mysteries (Revised).md>)). The tower has three floors. Inirelte’s sanctum, on the top floor, still contains a small library of ancient Hermetic books preserved by powerful magic — and even more powerful magical traps.
+
+### The Catacombs
+
+Beneath Val-Negra lies an extensive and complicated system of caves and catacombs. Here can be found numerous specialized labs, small libraries, a few rooms dedicated to arcane purposes, and other mysterious chambers. Most eerie, however, are the tombs of Val-Negra’s magi and the final resting places of several Primi of House Flambeau. The dry conditions have mummified their mortal remains.
+
+### The Shrine of the Aerie
+
+Deep within the Catacombs lies the Shrine of the Aerie, their most important religious site. The cavern containing it is utterly awe inspiring; crystalline strata flash with color, the roar of a waterfall at one end sounds musical and imposing, and carvings created by generations of Aerie are of intense beauty. The atmosphere is very relaxing, inspiring visitors to sit down and forget their cares (storyguides may require an appropriate Personality Trait roll, but there is no magical effect).
+
+<!-- p. 141 --><a id="page-141"></a>
 
 ## The Aerie Clan
 

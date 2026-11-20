@@ -83,7 +83,7 @@ Next, you should look through the **Ars Magica** rulebook. You certainly don't n
   - [Getting Started](#getting-started)
   - [The Meeting](#the-meeting)
 - [The Covenant of Nigrasaxa](#the-covenant-of-nigrasaxa)
-  - [The Library](#the-library)
+  - [The Library](#the-library-1)
   - [Vis](#vis)
   - [Ariel, Follower of Flambeau](#ariel-follower-of-flambeau)
   - [Caltis, Follower of Tremere](#caltis-follower-of-tremere)
