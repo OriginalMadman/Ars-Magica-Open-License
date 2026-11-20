@@ -1,4 +1,4 @@
-<!-- p. 1 -->
+<!-- p. 1 --><a id="page-1"></a>
 
 # The Grand Grimoire of Hermetic Spells
 
@@ -10,6 +10,8 @@ Visit the github for the latest revision of this document and the complete texts
 *The Grand Grimoire of Hermetic Spells* is a fan compilation (2021) of every Hermetic spell published in the Ars Magica Fifth Edition line, organized like the core rulebook. While this extracted text is complete and provided completely free under the Open License, we highly recommend the official Ars Magica books the spells come from (each spell lists its source), available from Atlas Games: https://atlas-games.com/arsmagica
 
 *[Completion state: Done. The original PDF renders most of its text as images, so every page was transcribed from the page images, using the PDF's partial text layer only as a draft. All 1,320 spells and all LEVEL headings were checked against the PDF's bookmarks; formatting follows the Definitive Edition markdown conventions, keeping the book's LEVEL headings. The Spell Index was rebuilt with links to every spell (page numbers refer to the PDF). R/D/T punctuation normalised and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others.]*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -53,11 +55,11 @@ This is a fan compilation of spells from official Ars Magica Fifth Edition books
 | 241 | Circular Ward Against Faerie Spirits | `R Touch, D Ring, T Circle` | `R: Touch, D: Ring, T: Circle` |
 | 246 | A Day's Grace | `R: Touch D: Hours T: Ind` | `R: Touch, D: Hours, T: Ind` |
 
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
 ## Contents
 
@@ -149,7 +151,7 @@ Finally, there is one original spell in this document that has not appeared in a
 
 Enjoy!
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 ## The Art of Animal
 
@@ -160,7 +162,7 @@ Enjoy!
 ##### Boundless Wealth of the Oceans
 CrAn 20<br>
 R: Touch, D: Mom, T: Group, Ritual<br>
-Creates 3,000 pounds of pearls, equivalent to over one million pearls about half an inch in diameter. These are remarkably large pearls, each one about a quarter of an ounce in weight. Good quality sea pearls usually sell for about three Mythic Pounds per ounce (*Covenants*, page 141). Each pearl is identical to its fellows, and is somehow marked by the sigil of the caster.
+Creates 3,000 pounds of pearls, equivalent to over one million pearls about half an inch in diameter. These are remarkably large pearls, each one about a quarter of an ounce in weight. Good quality sea pearls usually sell for about three Mythic Pounds per ounce ([*Covenants*, page 141](<Ars Magica 5e - Covenants.md>)). Each pearl is identical to its fellows, and is somehow marked by the sigil of the caster.
 
 (Base 5, +1 Touch, +2 Group)<br>
 Source: *Transforming Mythic Europe*, 117
@@ -213,7 +215,7 @@ Creates a beetle. All invertebrates are referred to as "worms" in Mythic Europe.
 (Base 5, +1 Touch, +2 Sun)<br>
 Source: *Magi of Hermes*, 82
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
 #### LEVEL 25
 
@@ -277,7 +279,7 @@ Creates a *gardcorps* — a calf-length traveling robe with voluminous sleeves. 
 (Base 5, +1 Touch, +2 Sun, +2 treated and processed)<br>
 Source: *Magi of Hermes*, 56
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 #### LEVEL 35
 
@@ -298,7 +300,7 @@ Cr(Mu)An 35<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
 Req: Muto<br>
 Special: Requires Hermetic Metamorphosis Virtue<br>
-This spell can only be successfully cast by those with the Hermetic Metamorphosis Virtue. It requires the immobilized body of the recipient animal, and the donor organ. If the donor derives from another animal, it too must be immobilized. During the casting of the spell, the caster removes the organ from the donor and grafts it to the recipient. The spell resizes the organ (if necessary) and joins up the blood supply and internal organs. The type of organs that can be transplanted are functional units of the animal — its head, pair of hind legs, tail, pair of hands, heart, and so forth. A replacement organ involves the removal of the recipient's organ and putting the donor organ in its place. If the caster wishes he may take the recipient's original organ and put it in the space left on the donor, but this requires two surgical rolls (see below), one for each animal. A transposed organ involves the recipient gaining an organ without removing something first; for example, giving it a pair of wings or a second head. The donor animal (if any) dies as a result of this type of surgery. Magical surgery of this type can be purely anatomical, or else confer a Virtue from the donor to the recipient. An anatomical change can grant the recipient a new ability (such as flight) or a Quality (see *Houses of Hermes: Mystery Cults*, pages 40–43). A Virtue can be any General Virtue that derives from the body of the animal; such as Keen Vision, Long-Winded, or Tough. A donor who loses a Virtue due to this spell receives the Enfeebled Flaw if it survives the surgery. The ritual surgery performed as part of the magical actions of casting this spell needs to be performed accurately to ensure the success of the spell. This requires a Dexterity + Chirurgy roll against an Ease Factor of 9. If the organ is transposed rather than replaced, the Ease Factor has a +3 modifier. If the surgery grants a Virtue rather than an anatomical change, the Ease Factor has an additional +3 modifier. If the surgery roll fails then the animal dies soon after the casting of the spell. If the surgery roll botches, then the spell creates some dreadful monster instead. *Example: Marcus wishes to swap the head of a lion and an eagle in his first step to creating a griffin. Eagles have the Keen Vision Virtue, so this is more than simple anatomical surgery. To successfully implant the eagle's head on the lion's body, his surgery roll has an Ease Factor of 12. He needs only a 9 to successfully implant the lion's head on the eagle's body, but the lion-headed eagle that results suffers from the Enfeebled Flaw. The spell compensates for the vast difference in size between the two heads.*
+This spell can only be successfully cast by those with the Hermetic Metamorphosis Virtue. It requires the immobilized body of the recipient animal, and the donor organ. If the donor derives from another animal, it too must be immobilized. During the casting of the spell, the caster removes the organ from the donor and grafts it to the recipient. The spell resizes the organ (if necessary) and joins up the blood supply and internal organs. The type of organs that can be transplanted are functional units of the animal — its head, pair of hind legs, tail, pair of hands, heart, and so forth. A replacement organ involves the removal of the recipient's organ and putting the donor organ in its place. If the caster wishes he may take the recipient's original organ and put it in the space left on the donor, but this requires two surgical rolls (see below), one for each animal. A transposed organ involves the recipient gaining an organ without removing something first; for example, giving it a pair of wings or a second head. The donor animal (if any) dies as a result of this type of surgery. Magical surgery of this type can be purely anatomical, or else confer a Virtue from the donor to the recipient. An anatomical change can grant the recipient a new ability (such as flight) or a Quality (see [*Houses of Hermes: Mystery Cults*, pages 40–43](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)). A Virtue can be any General Virtue that derives from the body of the animal; such as Keen Vision, Long-Winded, or Tough. A donor who loses a Virtue due to this spell receives the Enfeebled Flaw if it survives the surgery. The ritual surgery performed as part of the magical actions of casting this spell needs to be performed accurately to ensure the success of the spell. This requires a Dexterity + Chirurgy roll against an Ease Factor of 9. If the organ is transposed rather than replaced, the Ease Factor has a +3 modifier. If the surgery grants a Virtue rather than an anatomical change, the Ease Factor has an additional +3 modifier. If the surgery roll fails then the animal dies soon after the casting of the spell. If the surgery roll botches, then the spell creates some dreadful monster instead. *Example: Marcus wishes to swap the head of a lion and an eagle in his first step to creating a griffin. Eagles have the Keen Vision Virtue, so this is more than simple anatomical surgery. To successfully implant the eagle's head on the lion's body, his surgery roll has an Ease Factor of 12. He needs only a 9 to successfully implant the lion's head on the eagle's body, but the lion-headed eagle that results suffers from the Enfeebled Flaw. The spell compensates for the vast difference in size between the two heads.*
 
 (Base 25, +1 Touch, +1 Muto requisite)<br>
 Source: *Magi of Hermes*, 83
@@ -319,7 +321,7 @@ This spell heals any animal disease, instantly easing the beast's suffering. St 
 (Base 25, +1 Touch, +1 size adjustment)<br>
 Source: *Dies Irae*, 102
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
 ##### Weaver's Trap of Webs
 CrAn 35<br>
@@ -387,7 +389,7 @@ Calls a swarm of locusts or other destructive insects upon an area, which destro
 (Base 5, +1 Touch, +3 Moon, +2 Group, +2 size, for a swarm weighing as much as one thousand pigs, +1 extra effect from requisite, ritual because it has a really major effect)<br>
 Source: *Ars Magica Fifth Edition*, 117
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 ##### Twinning the Tome
 Cr(In)An(Te) 50<br>
@@ -405,7 +407,7 @@ Source: *Houses of Hermes – True Lineages*, 101
 CrAn(Me, Vi) 60<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
 Req: Mentem, Vim<br>
-This ritual spell creates a magical wolf, as described in *Ars Magica Fifth Edition*, page 193. Once created, the wolf is not naturally friendly with the caster, and instantly reacts according to its own motivations.
+This ritual spell creates a magical wolf, as described in [*Ars Magica Fifth Edition*, page 193](<Ars Magica 5e - Core Rules.md#ritual-spells>) / [Definitive Edition, page 311](<Ars Magica - Definitive Edition (Core Rules).md#ritual-spells>). Once created, the wolf is not naturally friendly with the caster, and instantly reacts according to its own motivations.
 
 (Base 50, +1 Touch, +1 Mentem requisite)<br>
 Source: *Hermetic Projects*, 126
@@ -416,7 +418,7 @@ Source: *Hermetic Projects*, 126
 CrAn(Co, Ig, Me, Vi) 80<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
 Req: Corpus, Ignem, Mentem, Vim<br>
-This spell creates a dragon, which has the same statistics and powers as Stellatus (*Ars Magica Fifth Edition*, page 194). This dragon is not actually Stellatus, who is an individual, but the creature mirrors his powers and Abilities.
+This spell creates a dragon, which has the same statistics and powers as Stellatus ([*Ars Magica Fifth Edition*, page 194](<Ars Magica 5e - Core Rules.md#stellatus-the-dragon>) / [Definitive Edition, page 465](<Ars Magica - Definitive Edition (Core Rules).md#stellatus-the-dragon>)). This dragon is not actually Stellatus, who is an individual, but the creature mirrors his powers and Abilities.
 
 (Base 50, +1 Touch, +2 Size increase, +3 Corpus, Ignem, and Mentem requisites)<br>
 Source: *Hermetic Projects*, 127
@@ -429,7 +431,7 @@ This spell returns a mundane animal of up to Size +1 to life.
 (Base 75, +1 Touch)<br>
 Source: *Hermetic Projects*, 130
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 ### Intellego Animal Spells
 
@@ -507,7 +509,7 @@ This spell allows the magus to check every book in a room for a physical or hist
 (Base 5, +1 Touch, +1 requisite, +2 Room)<br>
 Source: *Covenants*, 100
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
 ##### Determine the Location of the Absent Volume
 In(Cr)An(Im) 25<br>
@@ -559,7 +561,7 @@ This spell allows a magus to read the thoughts of an animal, and give it directi
 (Base 5, +4 Arcane Connection, +2 Sun, +1 extra effect from requisite.)<br>
 Source: *Houses of Hermes – True Lineages*, 139
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 ### Muto Animal Spells
 
@@ -619,7 +621,7 @@ As *Gift of the Bear's Fortitude*, but for animals.
 (Base 5, +2 Sun)<br>
 Source: *Calebais – The Broken Covenant*, 61
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 ##### Growth of the Creeping Things
 MuAn 15<br>
@@ -672,7 +674,7 @@ Reduces the size of an animal by 2. This modifies Strength by –4, reduces the 
 (Base: 4, +2 Voice, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 119
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 ##### Fatal Register
 Mu(Re, In)An 20<br>
@@ -724,7 +726,7 @@ The target animal reverts to a feral form and throws off all its training and do
 (Base 4, +1 Touch, +3 Moon)<br>
 Source: *Magi of Hermes*, 83
 
-<!-- p. 15 -->
+<!-- p. 15 --><a id="page-15"></a>
 
 #### LEVEL 25
 
@@ -776,7 +778,7 @@ This spell allows Alexander to turn a group of people, and their Animal-based eq
 (Base 20, +1 Touch, +2 Sun)<br>
 Source: *Magi of Hermes*, 13
 
-<!-- p. 16 -->
+<!-- p. 16 --><a id="page-16"></a>
 
 ##### Steed of Vengeance
 MuAn 35<br>
@@ -829,7 +831,7 @@ The requisite is free because it is part of the guideline and required for the e
 (Base 25, +1 Touch, +2 Sun, +1 Size, free requisite)<br>
 Source: *Hermetic Projects*, 15
 
-<!-- p. 17 -->
+<!-- p. 17 --><a id="page-17"></a>
 
 ##### The Transformed Folio
 MuAn 45<br>
@@ -840,7 +842,7 @@ This changes all the pages of a book into those of a different book for the dura
 (Base 1, +1 Touch, +4 Year, +2 Group, +5 intricacy; Boosted, Harnessed)<br>
 Source: *Houses of Hermes – True Lineages*, 102
 
-<!-- p. 18 -->
+<!-- p. 18 --><a id="page-18"></a>
 
 ### Perdo Animal Spells
 
@@ -924,7 +926,7 @@ The garment, tapestry, or other item is disassembled carefully with all knots un
 (Base 4, +1 Touch, +1 Herbam requisite)<br>
 Source: *Magi of Hermes*, 99
 
-<!-- p. 19 -->
+<!-- p. 19 --><a id="page-19"></a>
 
 #### LEVEL 15
 
@@ -992,7 +994,7 @@ When casting this spell, you commonly make an abrupt snapping motion with your h
 (Base 15, +2 Voice)<br>
 Source: *Ars Magica Fifth Edition*, 120
 
-<!-- p. 20 -->
+<!-- p. 20 --><a id="page-20"></a>
 
 #### LEVEL 30
 
@@ -1024,7 +1026,7 @@ This spell reduces an animal to its components. A dead sheep, for example, becom
 (Base 30, +1 Eye, +1 destruction of alimentary contents, +0 cosmetic requisite)<br>
 Source: *Covenants*, 96
 
-<!-- p. 21 -->
+<!-- p. 21 --><a id="page-21"></a>
 
 ### Rego Animal Spells
 
@@ -1072,7 +1074,7 @@ The caster converts up to 10 fleeces into wool. The wool is cleaned, carded, and
 (Base 1, +1 Touch, +2 Group)<br>
 Source: *Magi of Hermes*, 57
 
-<!-- p. 22 -->
+<!-- p. 22 --><a id="page-22"></a>
 
 #### LEVEL 5
 
@@ -1124,7 +1126,7 @@ The caster inscribes a circle that no normal beast will cross.
 (Base 2, +1 Touch, +2 Ring)<br>
 Source: *Ars Magica Fifth Edition*, 120
 
-<!-- p. 23 -->
+<!-- p. 23 --><a id="page-23"></a>
 
 ##### The Even Hand of The Determined Weaver
 Re(Cr)An 5<br>
@@ -1132,7 +1134,7 @@ R: Touch, D: Mom, T: Part<br>
 Req: Creo<br>
 Like *The Weaver's Subtle Art* (below), this spell makes a lasting change to a tapestry or other item made from cloth (whether made from wool, cotton, silk, or linen). Any geometric shape or regular line in or on the item, or even the shape of the item itself, can be made even and precise. The Creo requisite ensures that the lines and shapes affected by this spell are perfect examples of their type.
 
-This spell is used to enhance items, especially when making Excellent-quality wares, or Items of Quality as per the Verditius House Mystery detailed in *Houses of Hermes: Mystery Cults*, page 124.
+This spell is used to enhance items, especially when making Excellent-quality wares, or Items of Quality as per the Verditius House Mystery detailed in [*Houses of Hermes: Mystery Cults*, page 124](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>).
 
 The application of this spell alone is not enough to raise the true quality of an item (it cannot be made more hardy or more richly colored, for instance), but it is enough to aid spells that require certain mathematical resonances.
 
@@ -1148,7 +1150,7 @@ ReAn 5<br>
 R: Sight, D: Conc, T: Ind<br>
 This spell uses a target's clothes against him, twisting them into cords that then strangle the target for as long as the caster keeps concentrating.
 
-Using the deprivation rules in *Ars Magica Fifth Edition*, page 180, the target must make a Stamina check every 5 rounds. Additionally, the target can attempt a Strength + Athletics stress roll against the caster's Dexterity + Finesse Simple roll in order to break the grip of the clothes. If the character is being helped, use the highest Strength + Athletics score and add 1 for each other person helping.
+Using the deprivation rules in [*Ars Magica Fifth Edition*, page 180](<Ars Magica 5e - Core Rules.md#deprivation>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#deprivation>), the target must make a Stamina check every 5 rounds. Additionally, the target can attempt a Strength + Athletics stress roll against the caster's Dexterity + Finesse Simple roll in order to break the grip of the clothes. If the character is being helped, use the highest Strength + Athletics score and add 1 for each other person helping.
 
 The target can attempt a Brave Personality Trait roll against an Ease Factor of 9 in order to perform an action other than attempting to free himself from the grip of his own clothes.
 
@@ -1169,7 +1171,7 @@ A Herbam casting requisite is required for tapestries using plant-based thread.
 (Base 1, +1 Touch, +1 Part, +1 for size, +1 for Finesse)<br>
 Source: *Magi of Hermes*, 101
 
-<!-- p. 24 -->
+<!-- p. 24 --><a id="page-24"></a>
 
 #### LEVEL 10
 
@@ -1182,7 +1184,7 @@ This is an Average task for a mundane spinner, so the caster must make a Percept
 
 Failing the roll results in a badly spun fleece, probably with flecks of dirt still clinging to the thread. A botched roll ruins the fleece outright, though this may not be immediately apparent.
 
-See *Covenants*, page 49 for more on Rego Craft Magic.
+See [*Covenants*, page 49](<Ars Magica 5e - Covenants.md>) for more on Rego Craft Magic.
 
 (Base 3, +1 Touch, +2 Group)<br>
 Source: *Magi of Hermes*, 100
@@ -1203,7 +1205,7 @@ The caster makes a Perception + Finesse (precision) + stress die and compares th
 
 It is a harder task to create patterned cloth. A simple repeating pattern adds +3 to the Ease Factor, while an image or words woven into the cloth adds +6.
 
-See *City & Guild*, page 67 for more on item quality. A Herbam casting requisite is required for work involving cotton or linen.
+See [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md>) for more on item quality. A Herbam casting requisite is required for work involving cotton or linen.
 
 (Base 3, +1 Touch, +2 Group)<br>
 Source: *Magi of Hermes*, 100
@@ -1216,7 +1218,7 @@ This spell makes a misplaced book fly swiftly to rest on its lectern, in an open
 (Base 1, +4 Arcane Connection, +1 Concentration)<br>
 Source: *Covenants*, 100
 
-<!-- p. 25 -->
+<!-- p. 25 --><a id="page-25"></a>
 
 ##### Hide to Parchment
 ReAn 10<br>
@@ -1265,7 +1267,7 @@ Makes an animal afraid of the target by preying upon its instinctive fears, caus
 (Base 5, +1 Eye, +1 Concentration)<br>
 Source: *Ars Magica Fifth Edition*, 120
 
-<!-- p. 26 -->
+<!-- p. 26 --><a id="page-26"></a>
 
 ##### Soothing Voice of the Stableman
 ReAn 15<br>
@@ -1311,12 +1313,12 @@ Source: *Covenants*, 97
 ##### Endurance of the Lion
 ReAn 20<br>
 R: Per, D: Diam, T: Ind (+1 Size)<br>
-As *Endurance of the Berserkers* (*Ars Magica Fifth Edition* page 134), but works in animal form. Lexora's eyes take on a golden sheen as the spell takes effect, and her fur grows warm as if in direct sunlight.
+As *Endurance of the Berserkers* ([*Ars Magica Fifth Edition* page 134](<Ars Magica 5e - Core Rules.md#endurance-of-the-berserkers>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#endurance-of-the-berserkers>)), but works in animal form. Lexora's eyes take on a golden sheen as the spell takes effect, and her fur grows warm as if in direct sunlight.
 
 (Base 10, +1 Diameter, +1 Size)<br>
 Source: *Through the Aegis*, 43
 
-<!-- p. 27 -->
+<!-- p. 27 --><a id="page-27"></a>
 
 ##### Fury of the Charging Bull
 ReAn 20<br>
@@ -1382,7 +1384,7 @@ No faerie animal whose Faerie Might is equal or less to the level of the spell c
 (As ward guideline)<br>
 Source: *Magi of Hermes*, 57
 
-<!-- p. 28 -->
+<!-- p. 28 --><a id="page-28"></a>
 
 #### LEVEL 25
 
@@ -1435,12 +1437,12 @@ Source: *Through the Aegis*, 43
 ##### Constraint of the Strangling Vestments
 ReAn 35<br>
 R: Voice, D: Diam, T: Group<br>
-The target's clothes develop a life of their own, and tighten around their owner's limbs rendering him unable to move. This spell only affects clothes of wool, leather, and fur. The constricting clothing makes it very hard for the wearer to breathe, and he risks strangulation; causing him to make a Deprivation roll (*Ars Magica Fifth Edition*, pages 180–181) every 30 seconds (or 5 combat rounds). Since Rego Animal lacks a guideline for making an animal product move with a purpose, the Rego Herbam guidelines have been used as an analogy.
+The target's clothes develop a life of their own, and tighten around their owner's limbs rendering him unable to move. This spell only affects clothes of wool, leather, and fur. The constricting clothing makes it very hard for the wearer to breathe, and he risks strangulation; causing him to make a Deprivation roll ([*Ars Magica Fifth Edition*, pages 180–181](<Ars Magica 5e - Core Rules.md#deprivation>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#deprivation>)) every 30 seconds (or 5 combat rounds). Since Rego Animal lacks a guideline for making an animal product move with a purpose, the Rego Herbam guidelines have been used as an analogy.
 
 (Base 10, +2 Voice, +1 Diameter, +2 Group)<br>
 Source: *Magi of Hermes*, 57
 
-<!-- p. 29 -->
+<!-- p. 29 --><a id="page-29"></a>
 
 ##### Summon the Eldritch Bond
 ReAn 35<br>
@@ -1463,7 +1465,7 @@ Source: *Covenants*, 100
 ##### Voice of the King
 ReAn 40<br>
 R: Voice, D: Diam, T: Group<br>
-This spell works much as *Commanding the Harnessed Beast* (*Ars Magica Fifth Edition*, page 120), with the exception that it is designed exclusively to work on whole swarms of bees (a swarm of bees weighs less than a pig, so no size adjustment is necessary). Bees are fairly intelligent as insects go, but they're still just insects, so vague or overly complex commands are not likely to be very effective. The bees will probably still attempt the task even if they don't understand it. Note that usurping the king bee's authority can anger the hive once the spell wears off.
+This spell works much as *Commanding the Harnessed Beast* ([*Ars Magica Fifth Edition*, page 120](<Ars Magica 5e - Core Rules.md#commanding-the-harnessed-beast>) / [Definitive Edition, page 320](<Ars Magica - Definitive Edition (Core Rules).md#commanding-the-harnessed-beast>)), with the exception that it is designed exclusively to work on whole swarms of bees (a swarm of bees weighs less than a pig, so no size adjustment is necessary). Bees are fairly intelligent as insects go, but they're still just insects, so vague or overly complex commands are not likely to be very effective. The bees will probably still attempt the task even if they don't understand it. Note that usurping the king bee's authority can anger the hive once the spell wears off.
 
 (Base 15, +2 Voice, +1 Diameter, +1 Group)<br>
 Source: *Magi of Hermes*, 38
@@ -1486,7 +1488,7 @@ This spell commands a silk handkerchief to strangle an enemy for whom the magus 
 (Base 25, +1 Touch, +2 Sun, +1 commands in addition to transport)<br>
 Source: *Houses of Hermes – True Lineages*, 139
 
-<!-- p. 30 -->
+<!-- p. 30 --><a id="page-30"></a>
 
 ##### Pages of the Unfinished Story
 Re(In)An 45<br>
@@ -1507,7 +1509,7 @@ An equivalent Herbam spell could be used to gather text written on paper or papy
 (Base 20, +1 Touch, +3 Structure, +1 Intellego Requisite)<br>
 Source: *Hermetic Projects*, 90
 
-<!-- p. 31 -->
+<!-- p. 31 --><a id="page-31"></a>
 
 ## The Art of Aquam
 
@@ -1562,12 +1564,12 @@ Source: *Ars Magica Fifth Edition*, 121
 CrAq(Co) 20<br>
 R: Touch, D: Diam, T: Part<br>
 Req: Corpus<br>
-This spell fills the target's lungs with water, causing him to experience the sensation of drowning. The character begins to suffer deprivation due to lack of air (see *Ars Magica Fifth Edition*, page 180), but as the spell only lasts for Diameter duration (two minutes), the character is unlikely to die unless the spell is repeatedly cast on him.
+This spell fills the target's lungs with water, causing him to experience the sensation of drowning. The character begins to suffer deprivation due to lack of air (see [*Ars Magica Fifth Edition*, page 180](<Ars Magica 5e - Core Rules.md#deprivation>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#deprivation>)), but as the spell only lasts for Diameter duration (two minutes), the character is unlikely to die unless the spell is repeatedly cast on him.
 
 (Base 4, +1 Touch, +1 Diameter, +1 Part, +1 Corpus requisite)<br>
 Source: *Hermetic Projects*, 86
 
-<!-- p. 32 -->
+<!-- p. 32 --><a id="page-32"></a>
 
 ##### Mighty Torrent of Water
 CrAq 20<br>
@@ -1621,7 +1623,7 @@ As long as you concentrate, the stream remains at flood levels. Anyone caught ne
 (Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)<br>
 Source: *Ars Magica Fifth Edition*, 121
 
-<!-- p. 33 -->
+<!-- p. 33 --><a id="page-33"></a>
 
 #### LEVEL 50
 
@@ -1633,7 +1635,7 @@ This Ritual permanently increases the strength of an Aquam boundary in the Magic
 (Base 10, +1 Touch, +4 Bound, +3 maximum level)<br>
 Source: *Realms of Power – Magic*, 27
 
-<!-- p. 34 -->
+<!-- p. 34 --><a id="page-34"></a>
 
 ### Intellego Aquam Spells
 
@@ -1704,7 +1706,7 @@ As *Eyes of the Bat*, but senses the displacement of water to see in the ocean's
 (Base 4, +1 Touch, +2 Sun, +2 Size)<br>
 Source: *Magi of Hermes*, 75
 
-<!-- p. 35 -->
+<!-- p. 35 --><a id="page-35"></a>
 
 ##### Voice of the Lake
 InAq 25<br>
@@ -1725,7 +1727,7 @@ Turns a body of water into a scrying pool. Innately magical people (including mo
 (Special spell)<br>
 Source: *Ars Magica Fifth Edition*, 122
 
-<!-- p. 36 -->
+<!-- p. 36 --><a id="page-36"></a>
 
 ### Muto Aquam Spells
 
@@ -1787,7 +1789,7 @@ Allows the caster to mold water as if it were clay. The shaping procedure is don
 (Base 4, +2 Voice, +2 Sun)<br>
 Source: *Guardians of the Forest*, 96
 
-<!-- p. 37 -->
+<!-- p. 37 --><a id="page-37"></a>
 
 ##### The Guardian of the Tombs
 MuCo(An) 20<br>
@@ -1823,7 +1825,7 @@ Source: *Guardians of the Forest*, 96
 ##### Neptune's Imprisoning Arms
 MuAq 30<br>
 R: Voice, D: Sun, T: Group<br>
-Operates like *Trap of the Entwining Vines* (*Ars Magica Fifth Edition*, page 135), but the 'vines' are made from water, which takes on a semi-solid form for the duration of this spell. The 'vines' can hold still a small rowing boat, or up to 6 people.
+Operates like *Trap of the Entwining Vines* ([*Ars Magica Fifth Edition*, page 135](<Ars Magica 5e - Core Rules.md#trap-of-the-entwining-vines>) / [Definitive Edition, page 339](<Ars Magica - Definitive Edition (Core Rules).md#trap-of-the-entwining-vines>)), but the 'vines' are made from water, which takes on a semi-solid form for the duration of this spell. The 'vines' can hold still a small rowing boat, or up to 6 people.
 
 (First presented in Guardians of the Forests.)
 
@@ -1852,7 +1854,7 @@ Ruins a body of water up to the size of a small lake, making it unfit for natura
 (Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)<br>
 Source: *Ars Magica Fifth Edition*, 122
 
-<!-- p. 38 -->
+<!-- p. 38 --><a id="page-38"></a>
 
 #### LEVEL 65
 
@@ -1864,7 +1866,7 @@ Propitiates the Queen of Winter, who then allows the Baltic Sea to thaw that yea
 (Base 15, +2 Voice, +4 Year, +4 Boundary, Ritual)<br>
 Source: *Guardians of the Forest*, 96
 
-<!-- p. 39 -->
+<!-- p. 39 --><a id="page-39"></a>
 
 ### Perdo Aquam Spells
 
@@ -1947,7 +1949,7 @@ This project removes the naturally-occurring aether from within the waters of a 
 (Base 15, +1 Touch, +3 Moon, +1 Part, +3 Size)<br>
 Source: *Dies Irae*, 41
 
-<!-- p. 40 -->
+<!-- p. 40 --><a id="page-40"></a>
 
 ### Rego Aquam Spells
 
@@ -2006,7 +2008,7 @@ The magus requires an Intelligence + Finesse roll of 9+ for the diagram to be le
 (Base 3, +1 Touch, +2 for highly unnatural control)<br>
 Source: *Houses of Hermes – True Lineages*, 139
 
-<!-- p. 41 -->
+<!-- p. 41 --><a id="page-41"></a>
 
 ##### Thought Distinctly Burned
 ReAq 10<br>
@@ -2059,7 +2061,7 @@ ReAq 20<br>
 R: Voice, D: Sun, T: Part<br>
 Freeze a circular portion of a body of water into solid ice. Anyone wading or swimming in the water is trapped in the ice. Magic Resistance does not prevent the ice from surrounding a character and holding her fast. The area affected by the spell is the same size as a base Individual: a roughly bowl-shaped volume about five paces across and two paces deep at the center.
 
-Since the ice is magical, it only inflicts cold damage if it penetrates Magic Resistance. Rules for cold damage are given in *Ars Magica Fifth Edition*, page 181; the ice created by this spell inflicts a base damage of +1. Characters who are completely encased in ice begin to suffocate (see *Ars Magica Fifth Edition*, page 180).
+Since the ice is magical, it only inflicts cold damage if it penetrates Magic Resistance. Rules for cold damage are given in [*Ars Magica Fifth Edition*, page 181](<Ars Magica 5e - Core Rules.md#page-181>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#injuries>); the ice created by this spell inflicts a base damage of +1. Characters who are completely encased in ice begin to suffocate (see [*Ars Magica Fifth Edition*, page 180](<Ars Magica 5e - Core Rules.md#page-180>) / [Definitive Edition, page 406](<Ars Magica - Definitive Edition (Core Rules).md#disease-table>)).
 
 A trapped character may break free of the ice by making a Strength roll. Characters may also chop their way out of the ice using tools or weapons, but this takes time. Magic, including Perdo Aquam or Creo Ignem spells, may be able to free a character instantly.
 
@@ -2076,7 +2078,7 @@ A trapped character may break free of the ice by making a Strength roll. Charact
 (Base 3, +2 Voice, +2 Sun, +1 Part)<br>
 Source: *Houses of Hermes – Societates*, 35
 
-<!-- p. 42 -->
+<!-- p. 42 --><a id="page-42"></a>
 
 ##### Swallowed by the Mist
 ReAq 20<br>
@@ -2089,7 +2091,7 @@ Source: *Magi of Hermes*, 75
 ##### Ward Against Water
 ReAq 20<br>
 R: Touch, D: Ring, T: Circle<br>
-No water may enter or leave the protected circle. Characters who are wearing wet clothing or perspiring are slowed when entering or leaving a protected area as the excess liquid is stripped from their bodies and possessions. Hermanus cast this ward using forceless casting (*Houses of Hermes: True Lineages* page 72), so the ward surrounding his laboratory complex has a Penetration of zero, allowing liquids carried by magi and creatures with Magic Resistance to pass through unimpeded.
+No water may enter or leave the protected circle. Characters who are wearing wet clothing or perspiring are slowed when entering or leaving a protected area as the excess liquid is stripped from their bodies and possessions. Hermanus cast this ward using forceless casting ([*Houses of Hermes: True Lineages* page 72](<Ars Magica 5e - Houses of Hermes - True Lineages.md#forceless-casting>)), so the ward surrounding his laboratory complex has a Penetration of zero, allowing liquids carried by magi and creatures with Magic Resistance to pass through unimpeded.
 
 (Base 5, +1 Touch, +2 Ring)<br>
 Source: *Legends of Hermes*, 108
@@ -2147,7 +2149,7 @@ Parts a body of water, revealing a dry path 5 paces wide along the bottom. Very 
 (Base 10, +1 Touch, +1 Concentration, +2 Group)<br>
 Source: *Ars Magica Fifth Edition*, 124
 
-<!-- p. 43 -->
+<!-- p. 43 --><a id="page-43"></a>
 
 ##### Waves of Drowning and Smashing
 ReAq 30<br>
@@ -2211,7 +2213,7 @@ From a large body of water you form a waterspout that moves under your mental di
 (Base 10, +2 Voice, +1 Concentration, +2 Group)<br>
 Source: *Ars Magica Fifth Edition*, 124
 
-<!-- p. 44 -->
+<!-- p. 44 --><a id="page-44"></a>
 
 ##### Wringing Free the Tears of Zeus
 ReAq 35<br>
@@ -2248,12 +2250,12 @@ ReAq 50<br>
 R: Touch, D: Mom, T: Part, Ritual<br>
 This spell sculpts a tower out of hot bubbling lava. The resulting tower is solid and rigid, but if its foundations remain in lava, then the tower will dissolve back into the bulk within a day. The Part target is required, because the spell does not use all the available lava.
 
-The tower is about the same size and dimensions as the one created by the spell *Conjuring the Mystic Tower* (see *Ars Magica Fifth Edition*, page 153). A Finesse roll against an Ease Factor of 15 is required to ensure that the tower is well made; failure means that the lava takes a solid but malformed shape.
+The tower is about the same size and dimensions as the one created by the spell *Conjuring the Mystic Tower* (see [*Ars Magica Fifth Edition*, page 153](<Ars Magica 5e - Core Rules.md#conjuring-the-mystic-tower>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#conjuring-the-mystic-tower>)). A Finesse roll against an Ease Factor of 15 is required to ensure that the tower is well made; failure means that the lava takes a solid but malformed shape.
 
 (Base 3, +1 Touch, +1 Part, +6 size, +3 elaborate design)<br>
 Source: *Hermetic Projects*, 19
 
-<!-- p. 45 -->
+<!-- p. 45 --><a id="page-45"></a>
 
 ## The Art of Auram
 
@@ -2332,7 +2334,7 @@ This spell creates a rainbow up to seven miles long. It only works outdoors.
 (Base 2, +1 Touch, +2 Sun, +2 very unnatural fashion)<br>
 Source: *Magi of Hermes*, 122
 
-<!-- p. 46 -->
+<!-- p. 46 --><a id="page-46"></a>
 
 ##### Broom of the Winds
 CrAu 15<br>
@@ -2389,7 +2391,7 @@ Creates clouds that drop snow over an area about a mile across. The clouds gathe
 (Base 2, +3 Sight, +1 Concentration, +2 Group, +1 Size)<br>
 Source: *Ars Magica Fifth Edition*, 126
 
-<!-- p. 47 -->
+<!-- p. 47 --><a id="page-47"></a>
 
 #### LEVEL 30
 
@@ -2439,7 +2441,7 @@ A lightning bolt shoots forth from your outstretched hand in the direction you a
 (Base 5, +2 Voice, +4 unnatural)<br>
 Source: *Ars Magica Fifth Edition*, 126
 
-<!-- p. 48 -->
+<!-- p. 48 --><a id="page-48"></a>
 
 #### LEVEL 40
 
@@ -2461,7 +2463,7 @@ This spell creates an immense storm, 40 or more miles wide, of hurricane intensi
 (Base 5, +3 Sight, +2 Sun, +2 Group, +5 size)<br>
 Source: *Ars Magica Fifth Edition*, 126
 
-<!-- p. 49 -->
+<!-- p. 49 --><a id="page-49"></a>
 
 ### Intellego Auram Spells
 
@@ -2521,7 +2523,7 @@ You can move about confidently in complete darkness by sensing air and its bound
 (Base 4, +2 Sun, +3 Hearing)<br>
 Source: *Ars Magica Fifth Edition*, 127
 
-<!-- p. 50 -->
+<!-- p. 50 --><a id="page-50"></a>
 
 ### Muto Auram Spells
 
@@ -2591,7 +2593,7 @@ Developed as an all-purpose utility spell, *Conjure From the Mist* turns a large
 (Base 4, +2 Sun, +1 Part, +2 Voice, +2 size, +1 Intricate)<br>
 Source: *Magi of Hermes*, 28
 
-<!-- p. 51 -->
+<!-- p. 51 --><a id="page-51"></a>
 
 ##### Infernal Smoke of Death
 MuAu 40<br>
@@ -2623,7 +2625,7 @@ Turns rain into droplets of oil. The rain of oil continues as long as the storm 
 (Base 4, +3 Sight, +2 Sun, +5 size)<br>
 Source: *Ars Magica Fifth Edition*, 128
 
-<!-- p. 52 -->
+<!-- p. 52 --><a id="page-52"></a>
 
 ### Perdo Auram Spells
 
@@ -2678,7 +2680,7 @@ In Ferramentum's version of this spell, the clouds clear from the sky in an orde
 (Base 10, +3 Sight, +2 Group, +2 size)<br>
 Source: *Ars Magica Fifth Edition*, 128
 
-<!-- p. 53 -->
+<!-- p. 53 --><a id="page-53"></a>
 
 ### Rego Auram Spells
 
@@ -2705,7 +2707,7 @@ Source: *Apprentices*, 48
 ##### Wizard's Breath Stolen
 ReAu 4<br>
 R: Touch, D: Mom, T: Ind<br>
-This spell traps the breath of a character and seals it into a glass phial held by the caster. The target's breath is a shortlived Arcane Connection to him (lasts hours; *Ars Magica Fifth Edition* page 84), but if the caster can quickly get to a Laboratory, he can fix the Arcane Connection.
+This spell traps the breath of a character and seals it into a glass phial held by the caster. The target's breath is a shortlived Arcane Connection to him (lasts hours; [*Ars Magica Fifth Edition* page 84](<Ars Magica 5e - Core Rules.md#page-84>) / [Definitive Edition, page 219](<Ars Magica - Definitive Edition (Core Rules).md#arcane-connections>)), but if the caster can quickly get to a Laboratory, he can fix the Arcane Connection.
 
 This spell must Penetrate the Magic Resistance of the target to be effective.
 
@@ -2766,7 +2768,7 @@ Wards against sandstorms by repelling the breezes that carry dust. It is powerfu
 (Base 10, +1 Touch, +2 Ring)<br>
 Source: *Magi of Hermes*, 12
 
-<!-- p. 54 -->
+<!-- p. 54 --><a id="page-54"></a>
 
 #### LEVEL 30
 
@@ -2818,7 +2820,7 @@ Note that the spell is powerful enough to lift a storm across a harbor, but the 
 (Base 5, +2 Voice, +2 Sun, +2 Group, +2 size)<br>
 Source: *Hermetic Projects*, 74
 
-<!-- p. 55 -->
+<!-- p. 55 --><a id="page-55"></a>
 
 ## The Art of Corpus
 
@@ -2852,7 +2854,7 @@ R: Touch, D: Mom, T: Part, Ritual<br>
 This spell creates a human head, complete with skin, eyes, teeth, and hair. The particulars of the head's appearance are up to the spell's inventor. Castor of Sicily's version of the spell makes created heads look like his own. The spell is named after Salome, the stepdaughter of King Herod, who asked for and received the head of John the Baptist, according to Biblical history.
 
 (Base 5, +1 Touch, +1 Part: however the lowest level a ritual can be is 20)<br>
-Base Level Interpretation: According to *Magi of Hermes*, page 84, the base level to create part of a corpse is the same as the base level to create the whole corpse, adjusted by the increased Target: Part.<br>
+Base Level Interpretation: According to [*Magi of Hermes*, page 84](<Ars Magica 5e - Magi of Hermes.md#page-84>), the base level to create part of a corpse is the same as the base level to create the whole corpse, adjusted by the increased Target: Part.<br>
 Source: *Hermetic Projects*, 103
 
 ##### Circle of Recovery
@@ -2904,7 +2906,7 @@ The target is cured of a Light Wound caused by poison or disease. This spell doe
 (Base 15, +1 Touch)<br>
 Source: *Ars Magica Fifth Edition*, 129
 
-<!-- p. 56 -->
+<!-- p. 56 --><a id="page-56"></a>
 
 ##### Purification of the Festering Wounds
 CrCo 20<br>
@@ -2949,7 +2951,7 @@ Source: *Houses of Hermes – Societates*, 100
 ##### Widening the River Styx
 CrCo 20<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
-Resolves a minor crisis caused by aging (see *Ars Magica Fifth Edition*, page 170). The target still requires rest for the remainder of the season to recover fully.
+Resolves a minor crisis caused by aging (see [*Ars Magica Fifth Edition*, page 170](<Ars Magica 5e - Core Rules.md#aging>) / [Definitive Edition, page 391](<Ars Magica - Definitive Edition (Core Rules).md#aging>)). The target still requires rest for the remainder of the season to recover fully.
 
 Aurulentus successfully used this spell to probe the exact effects Hermetic magic can have during an Aging Crisis for his research.
 
@@ -2982,7 +2984,7 @@ A limb that has been detached from the body can be reattached, but any decay tha
 (Base 25, +1 Touch, –1 since old limb needed)<br>
 Source: *Ars Magica Fifth Edition*, 129
 
-<!-- p. 57 -->
+<!-- p. 57 --><a id="page-57"></a>
 
 #### LEVEL 30
 
@@ -3010,7 +3012,7 @@ CrCo 30<br>
 R: Touch, D: Sun, T: Ind<br>
 The spell removes all pain not exceeding the pain of a light wound from the target. As soon as the spell duration ends, the pain will return if the source still exists.
 
-Aurulentus uses this spell to ease the pains of his wife. His version is specifically designed for his wife, such that she does not gain Warping from this spell (see *Ars Magica Fifth Edition*, page 168). Frequent use of this spell often leads to an addiction, as the return of all the minor pains a human tends to ignore after the effect expires is overwhelming. The spell is not powerful enough to remove the pains of childbirth, Aurulentus uses the spell *Ease the Suffering of Childbirth* for this measure.
+Aurulentus uses this spell to ease the pains of his wife. His version is specifically designed for his wife, such that she does not gain Warping from this spell (see [*Ars Magica Fifth Edition*, page 168](<Ars Magica 5e - Core Rules.md#warping>) / [Definitive Edition, page 228](<Ars Magica - Definitive Edition (Core Rules).md#warping>)). Frequent use of this spell often leads to an addiction, as the return of all the minor pains a human tends to ignore after the effect expires is overwhelming. The spell is not powerful enough to remove the pains of childbirth, Aurulentus uses the spell *Ease the Suffering of Childbirth* for this measure.
 
 (Base 15, +1 Touch, +2 Sun)<br>
 Source: *Magi of Hermes*, 20
@@ -3034,12 +3036,12 @@ Source: *Hermetic Projects*, 117
 ##### Enter the Domain of Eir
 CrCo 30<br>
 R: Touch, D: Mom, T: Circle, Ritual<br>
-Named after Eir the Norse goddess of healing. People within the circle have all their wounds improved by one step, and Light wounds are thus completely healed. Guideline from *Houses of Hermes: Societates*, page 100.
+Named after Eir the Norse goddess of healing. People within the circle have all their wounds improved by one step, and Light wounds are thus completely healed. Guideline from [*Houses of Hermes: Societates*, page 100](<Ars Magica 5e - Houses of Hermes - Societates.md>).
 
 (Base 25, +1 Touch)<br>
 Source: *Through the Aegis*, 153
 
-<!-- p. 58 -->
+<!-- p. 58 --><a id="page-58"></a>
 
 ##### Gentle Caress of Aesclepius
 CrCo 30<br>
@@ -3052,7 +3054,7 @@ Source: *Houses of Hermes – Societates*, 100
 ##### Traveler's Respite
 CrCo 30<br>
 R: Touch, D: Mom, T: Group, Ritual<br>
-This ritual spell restores one Long-Term Fatigue level to up to 10 individuals. Note that as this is a Ritual spell, the caster will lose at least one Long-Term Fatigue level himself, and possibly more if his Casting Total is low (see *Ars Magica Fifth Edition* page 81).
+This ritual spell restores one Long-Term Fatigue level to up to 10 individuals. Note that as this is a Ritual spell, the caster will lose at least one Long-Term Fatigue level himself, and possibly more if his Casting Total is low (see [*Ars Magica Fifth Edition* page 81](<Ars Magica 5e - Core Rules.md#long-term-fatigue>) / [Definitive Edition, page 404](<Ars Magica - Definitive Edition (Core Rules).md#long-term-fatigue>)).
 
 (Base: 15, +1 Touch, +2 Group)<br>
 Note: This spell is listed as a possible laboratory project that may be produced from Insights gained from researching Folk Witch magic.<br>
@@ -3102,7 +3104,7 @@ This ritual breaks the Hermetic Limit of Aging.
 (Base Effect, non-Hermetic)<br>
 Source: *Mythic Locations*, 97
 
-<!-- p. 59 -->
+<!-- p. 59 --><a id="page-59"></a>
 
 #### LEVEL 50
 
@@ -3162,7 +3164,7 @@ Each of the four variations of this ritual permanently increases one of the subj
 (Base 55, +1 Touch)<br>
 Source: *Houses of Hermes – True Lineages*, 103
 
-<!-- p. 60 -->
+<!-- p. 60 --><a id="page-60"></a>
 
 #### LEVEL 65
 
@@ -3199,7 +3201,7 @@ In any case, the revived person is not truly alive and is unable to gain experie
 (Base 70, +1 Touch, no addition for requisite)<br>
 Source: *Ars Magica Fifth Edition*, 129
 
-<!-- p. 61 -->
+<!-- p. 61 --><a id="page-61"></a>
 
 ### Intellego Corpus Spells
 
@@ -3218,7 +3220,7 @@ Source: *Ars Magica Fifth Edition*, 130
 ##### Convergence of Place
 InCo 4<br>
 R: Touch, D: Mom, T: Ind<br>
-This spell, which can use an astrolabe, determines the current celestial location of the target. This is sufficient information to calculate a daily horoscope for the target, for a +1 Sympathetic Connection; Int + Artes Liberales (astronomy) roll against an Ease Factor of 9 (see *Ars Magica Fifth Edition*, page 84). Calculating the horoscope itself takes an hour.
+This spell, which can use an astrolabe, determines the current celestial location of the target. This is sufficient information to calculate a daily horoscope for the target, for a +1 Sympathetic Connection; Int + Artes Liberales (astronomy) roll against an Ease Factor of 9 (see [*Ars Magica Fifth Edition*, page 84](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>)). Calculating the horoscope itself takes an hour.
 
 This spell must Penetrate the Magic Resistance of the target to be effective. This spell is intended to be cast through an *Intangible Tunnel*.
 
@@ -3271,7 +3273,7 @@ A Momentary duration version of this spell would actually be sufficient to deter
 (Base 3, +1 Touch, +1 Concentration)<br>
 Source: *Hermetic Projects*, 84
 
-<!-- p. 62 -->
+<!-- p. 62 --><a id="page-62"></a>
 
 ##### Sense of the Lodestone
 InCo 5<br>
@@ -3286,7 +3288,7 @@ Source: *Through the Aegis*, 79
 ##### Convergence of Birth
 InCo 10<br>
 R: Touch, D: Mom, T: Ind<br>
-This spell, which can use an astrolabe, determines the birth place and time of the target. This is sufficient information to calculate the nativity horoscope of the target, for a +2 Sympathetic Connection; Int + Artes Liberales (astronomy) roll against an Ease Factor of 9 (see *Ars Magica Fifth Edition*, page 84). Calculating the horoscope itself takes a day.
+This spell, which can use an astrolabe, determines the birth place and time of the target. This is sufficient information to calculate the nativity horoscope of the target, for a +2 Sympathetic Connection; Int + Artes Liberales (astronomy) roll against an Ease Factor of 9 (see [*Ars Magica Fifth Edition*, page 84](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>)). Calculating the horoscope itself takes a day.
 
 This spell must Penetrate the Magic Resistance of the target to be effective. This spell is intended to be cast through an *Intangible Tunnel*.
 
@@ -3314,7 +3316,7 @@ Source: *Through the Aegis*, 78
 ##### Parental Inquisitiveness
 InCo 10<br>
 R: Touch, D: Mom, T: Part<br>
-Determines the sex of an unborn child. Hermetic magic can only distinguish the unborn child as a Part of the mother from the second trimester of pregnancy onwards (see *Ancient Magic*, page 55), so this spell will fail if cast in the first trimester of pregnancy.
+Determines the sex of an unborn child. Hermetic magic can only distinguish the unborn child as a Part of the mother from the second trimester of pregnancy onwards (see [*Ancient Magic*, page 55](<Ars Magica 5e - Magic - Ancient Magic.md#hermetic-magic-and-mother-and-child>)), so this spell will fail if cast in the first trimester of pregnancy.
 
 (Base 4, +1 Touch, +1 Part)<br>
 Source: *Magi of Hermes*, 21
@@ -3343,7 +3345,7 @@ The Numerologist instantly divines the number of people in a group. The spell al
 (Base 2, +2 Voice, +2 Group)<br>
 Source: *The Mysteries*, 93
 
-<!-- p. 63 -->
+<!-- p. 63 --><a id="page-63"></a>
 
 #### LEVEL 15
 
@@ -3414,7 +3416,7 @@ The caster senses the Fatigue status of the target (winded, weary, tired, etc.).
 Note: This spell is listed as a possible laboratory project that may be produced from Insights gained from researching Folk Witch magic.<br>
 Source: *Hedge Magic*, 51
 
-<!-- p. 64 -->
+<!-- p. 64 --><a id="page-64"></a>
 
 ##### Pull of Blood
 InCo 20<br>
@@ -3466,7 +3468,7 @@ A Dexterity + Craft roll of 9 is required to create the figurine depicting the q
 Note: This spell is listed as a possible laboratory project that may be produced from Insights gained from researching Defixio Magic.<br>
 Source: *Ancient Magic*, 45
 
-<!-- p. 65 -->
+<!-- p. 65 --><a id="page-65"></a>
 
 ##### From This Line Descended
 InCo 30<br>
@@ -3508,7 +3510,7 @@ This spell gives a brief insight into the targets' physical condition. It applie
 (Base 10, +4 *Adelphixis*, +2 Group)<br>
 Source: *Houses of Hermes – Societates*, 123
 
-<!-- p. 66 -->
+<!-- p. 66 --><a id="page-66"></a>
 
 ### Muto Corpus Spells
 
@@ -3572,7 +3574,7 @@ Source: *Legends of Hermes*, 106
 ##### Forging the Bone Cover
 MuCo 5<br>
 R: Touch, D: Conc, T: Ind<br>
-This spell changes the inelastic nature of bone, making it elastic and able to be reshaped under pressure. The skull becomes as pliable as clay for the duration of the spell. Once this spell is cast, a human skull can be pressed into a book-shaped wooden frame. When the spell ends, the skull reverts to its inelastic property, but retains its new shape. If later used in an enchanted item, the reshaped skull still gives the magus the same Shape & Material bonus (*Ars Magica Fifth Edition*, page 110).
+This spell changes the inelastic nature of bone, making it elastic and able to be reshaped under pressure. The skull becomes as pliable as clay for the duration of the spell. Once this spell is cast, a human skull can be pressed into a book-shaped wooden frame. When the spell ends, the skull reverts to its inelastic property, but retains its new shape. If later used in an enchanted item, the reshaped skull still gives the magus the same Shape & Material bonus ([*Ars Magica Fifth Edition*, page 110](<Ars Magica 5e - Core Rules.md#enchanted-items>) / [Definitive Edition, page 180](<Ars Magica - Definitive Edition (Core Rules).md#enchanted-items>)).
 
 (Base 3, +1 Touch, +1 Concentration)<br>
 Base Level Interpretation: A base level 1 Muto Terram spell will change one property of dirt. The base level to create dirt is Creo Terram 1, and the base level to create stone is base level 3. A base level 3 Muto Terram would change one property of stone. Bone is harder than dirt but softer than stone, so a base level 1 would not be enough, but base level 3 would. Thus: Muto Corpus base level 3, change one property of bone.<br>
@@ -3587,7 +3589,7 @@ The target gains the slippery, slimy skin of an eel, which gives him a +6 bonus 
 (Base 2, +1 Touch, +2 Sun, requisite free)<br>
 Source: *Magi of Hermes*, 85
 
-<!-- p. 67 -->
+<!-- p. 67 --><a id="page-67"></a>
 
 ##### Sure-Footedness of the Crag-Leaper
 MuCo(An) 5<br>
@@ -3633,12 +3635,12 @@ Up to ten men of Size +1 become capable of running as fast as a horse. Hugh uses
 (Base 2, +1 Touch, +1 Concentration, +2 Group)<br>
 Source: *Magi of Hermes*, 49
 
-<!-- p. 68 -->
+<!-- p. 68 --><a id="page-68"></a>
 
 ##### Blood of My Enemy
 MuCo 10<br>
 R: Per, D: Sun, T: Part<br>
-The caster of this spell eats a small piece of bread dipped in the blood of another character, although any Arcane Connection to the other character will work. The spell changes the blood of the character so that he becomes a blood relative of the character from whom the consumed blood came. This effect only lasts for the duration of this spell. This does not stop the character from also being a blood relative to his natural relations. Being a blood relative is worth a +1 Sympathetic Connection (*Ars Magica Fifth Edition*, page 84).
+The caster of this spell eats a small piece of bread dipped in the blood of another character, although any Arcane Connection to the other character will work. The spell changes the blood of the character so that he becomes a blood relative of the character from whom the consumed blood came. This effect only lasts for the duration of this spell. This does not stop the character from also being a blood relative to his natural relations. Being a blood relative is worth a +1 Sympathetic Connection ([*Ars Magica Fifth Edition*, page 84](<Ars Magica 5e - Core Rules.md#sympathetic-connections>) / [Definitive Edition, page 220](<Ars Magica - Definitive Edition (Core Rules).md#sympathetic-connections>)).
 
 This spell is possible because, although being a blood relative is a part of a character's essential nature, Muto spells can violate a character's essential nature (turn a man into a wolf, for example); the character's true essential nature merely returns when the Muto spell ends.
 
@@ -3702,7 +3704,7 @@ Shrinks a person's arm to half its original length and makes it pudgy, like an i
 (Base 3, +2 Voice, +2 Sun, +1 Part)<br>
 Source: *Ars Magica Fifth Edition*, 131
 
-<!-- p. 69 -->
+<!-- p. 69 --><a id="page-69"></a>
 
 ##### Eyes of the Housecats
 MuCo(An) 20<br>
@@ -3747,7 +3749,7 @@ R: Touch, D: Year, T: Ind, Ritual<br>
 Req: Animal<br>
 During the casting of this ritual spell, the target's heart is cut out and replaced with the heart of a bull. The surgery causes no damage as long as the spell is cast correctly, and it grants the target the Reserves of Strength Virtue throughout the duration of the spell. At the end of the year, the caster can replace the original heart of the target with no ill effects if it has been preserved sufficiently well. If this is not done, the target dies.
 
-This spell results from an Insight (see *Ancient Magic*, pages 8–9) Marcus received after investigating the catacombs under the ruined palace of Knossos. There he found ritual objects belonging to the Minoan Cult of the Bull who practiced a magic similar to that he was trying to achieve. His ability to read the memories of a sacrificial knife (thanks to the third station of the Path of Seeming, see *Houses of Hermes: Mystery Cults*, pages 64–65) gave him the requisite insight to allow him to invent this non-standard spell. He has created an enchanted item called a Canopic Jar to preserve the heart of his experimental subjects (see Enchantments, below).
+This spell results from an Insight (see [*Ancient Magic*, pages 8–9](<Ars Magica 5e - Magic - Ancient Magic.md#insight>)) Marcus received after investigating the catacombs under the ruined palace of Knossos. There he found ritual objects belonging to the Minoan Cult of the Bull who practiced a magic similar to that he was trying to achieve. His ability to read the memories of a sacrificial knife (thanks to the third station of the Path of Seeming, see [*Houses of Hermes: Mystery Cults*, pages 64–65](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#the-path-of-seeming>)) gave him the requisite insight to allow him to invent this non-standard spell. He has created an enchanted item called a Canopic Jar to preserve the heart of his experimental subjects (see Enchantments, below).
 
 (Base 2, +1 Touch, +4 Year; level 20 due to ritual effect)<br>
 Source: *Magi of Hermes*, 84
@@ -3771,7 +3773,7 @@ Your flesh becomes resistant to physical damage. You get +3 to your Soak. Your f
 (Base 15, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 131
 
-<!-- p. 70 -->
+<!-- p. 70 --><a id="page-70"></a>
 
 ##### Shape of the Woodland Prowler
 MuCo(An) 25<br>
@@ -3836,13 +3838,13 @@ The target of this spell gains the head of a bull. The target's capacity to spea
 (Base 10, +1 Touch, +2 Sun, +1 Part)<br>
 Source: *Magi of Hermes*, 85
 
-<!-- p. 71 -->
+<!-- p. 71 --><a id="page-71"></a>
 
 ##### The Chariot of Zeus
 MuCo(Au) 30<br>
 R: Per, D: Mom, T: Ind<br>
 Req: Auram<br>
-Transforms the caster into a thunderbolt (equivalent to an insubstantial object). In this form he can move literally at the speed of lightning to any location he can see. There must be an unobstructed path between the caster and his destination. Upon arrival the caster transforms back into his normal shape with a mighty crack of thunder. Anyone within 2 paces of his destination must make a Size stress roll against an Ease Factor of 6 to remain standing. The caster can choose the location of another person as his destination, in which case he inflicts +30 damage to that individual and arrives standing next to her. If he strikes a building he arrives on the roof, and the building must make a stress check (*City & Guild*, page 77) or take six damage levels; wooden buildings catch fire even if they survive.
+Transforms the caster into a thunderbolt (equivalent to an insubstantial object). In this form he can move literally at the speed of lightning to any location he can see. There must be an unobstructed path between the caster and his destination. Upon arrival the caster transforms back into his normal shape with a mighty crack of thunder. Anyone within 2 paces of his destination must make a Size stress roll against an Ease Factor of 6 to remain standing. The caster can choose the location of another person as his destination, in which case he inflicts +30 damage to that individual and arrives standing next to her. If he strikes a building he arrives on the roof, and the building must make a stress check ([*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md>)) or take six damage levels; wooden buildings catch fire even if they survive.
 
 The Duration of this spell cannot be extended beyond Momentary, since bolts of lightning exist only for a moment; furthermore it can only be used outside. Note also that, no matter what your ruling on casting requisites for Rego spells, Muto spells definitely require them.
 
@@ -3887,7 +3889,7 @@ You turn yourself into an ivy plant about 12 feet long or high. You can sense on
 (Base 25, +2 Sun)<br>
 Source: *Legends of Hermes*, 81
 
-<!-- p. 72 -->
+<!-- p. 72 --><a id="page-72"></a>
 
 ##### Stance of the Patient Tree
 MuCo(He) 35<br>
@@ -3902,7 +3904,7 @@ Source: *Ars Magica Fifth Edition*, 131
 MuCo 35<br>
 R: Touch, D: Year, T: Unborn Child, Ritual<br>
 Special: Requires Fertility Ritual Magic Virtue<br>
-This Ritual spell freezes the development of an unborn child for a year. The spell does not damage either the child or the mother — although the mother may be seriously inconvenienced by a delayed late-term pregnancy — but both mother and child gain Warping Points due to being under the influence of a constant, high-power mystical effect (see *Ars Magica Fifth Edition*, page 167).
+This Ritual spell freezes the development of an unborn child for a year. The spell does not damage either the child or the mother — although the mother may be seriously inconvenienced by a delayed late-term pregnancy — but both mother and child gain Warping Points due to being under the influence of a constant, high-power mystical effect (see [*Ars Magica Fifth Edition*, page 167](<Ars Magica 5e - Core Rules.md#warping-points-and-constant-effects>) / [Definitive Edition, page 391](<Ars Magica - Definitive Edition (Core Rules).md#warping-points-and-constant-effects>)).
 
 The spell can be cast at yearly intervals in order to delay a pregnancy for years, or even decades, and versions of this spell with other durations could be used to delay a birth until an astrologically favorable moment.
 
@@ -3930,15 +3932,15 @@ You turn yourself into a thick, cohesive mist of approximately human size. You c
 (Base 30, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 131
 
-<!-- p. 73 -->
+<!-- p. 73 --><a id="page-73"></a>
 
 ##### Form of the Zephyr
 MuCo(Au) 40<br>
 R: Per, D: Sun, T: Ind<br>
 Req: Auram<br>
-Transforms the caster into a strong gale wind. She flies at 50 miles an hour, but can increase this speed to that of a violent storm wind — 75 miles per hour — by expending a Long Term Fatigue level. She can travel at this increased speed for no more than an hour without expending another Fatigue level. This ability to gust is intrinsic to the type of wind into which the caster turns, much as the *Cloak of Mist* (*Ars Magica Fifth Edition*, page 131) allows the caster to seep through cracks like natural mist. Note that because this spell turns the caster into a gale wind, she cannot travel any more slowly than 50 miles an hour. A different spell (of the same level) is needed to turn into a more gentle wind. The caster inhales a gust of wind to cast this spell, and can end the spell and transform back into human form by letting this captured wind free.
+Transforms the caster into a strong gale wind. She flies at 50 miles an hour, but can increase this speed to that of a violent storm wind — 75 miles per hour — by expending a Long Term Fatigue level. She can travel at this increased speed for no more than an hour without expending another Fatigue level. This ability to gust is intrinsic to the type of wind into which the caster turns, much as the *Cloak of Mist* ([*Ars Magica Fifth Edition*, page 131](<Ars Magica 5e - Core Rules.md#ability-types>) / [Definitive Edition, page 158](<Ars Magica - Definitive Edition (Core Rules).md#ability-types>)) allows the caster to seep through cracks like natural mist. Note that because this spell turns the caster into a gale wind, she cannot travel any more slowly than 50 miles an hour. A different spell (of the same level) is needed to turn into a more gentle wind. The caster inhales a gust of wind to cast this spell, and can end the spell and transform back into human form by letting this captured wind free.
 
-While in the form of a wind, she can attempt to bowl over any object her size or smaller; this requires making roll of Strength + Concentration + stress die against the target's Stamina + stress die. The defender may add Athletics to their roll if they are braced for the attack. If the caster's roll exceeds her opponent's, then the target is knocked off his feet and flung backwards one foot for every point of the difference. As a violent storm wind, the target is instead flung three feet per point of the difference. Falling damage (*Ars Magica Fifth Edition* page 181) is inflicted on those knocked over; hitting an obstruction before the full distance flung back is reached counts as falling onto a hard surface (such as a wall) or a soft surface (such as a haystack). Knocking over inanimate objects has an Ease Factor of 9 + (3 x its Size).
+While in the form of a wind, she can attempt to bowl over any object her size or smaller; this requires making roll of Strength + Concentration + stress die against the target's Stamina + stress die. The defender may add Athletics to their roll if they are braced for the attack. If the caster's roll exceeds her opponent's, then the target is knocked off his feet and flung backwards one foot for every point of the difference. As a violent storm wind, the target is instead flung three feet per point of the difference. Falling damage ([*Ars Magica Fifth Edition* page 181](<Ars Magica 5e - Core Rules.md#page-181>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#injuries>)) is inflicted on those knocked over; hitting an obstruction before the full distance flung back is reached counts as falling onto a hard surface (such as a wall) or a soft surface (such as a haystack). Knocking over inanimate objects has an Ease Factor of 9 + (3 x its Size).
 
 (Base 30, +2 Sun)<br>
 Source: *Transforming Mythic Europe*, 113
@@ -3979,7 +3981,7 @@ You turn yourself into water, one pint for every pound of your weight. As water,
 (Base 30, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 131
 
-<!-- p. 74 -->
+<!-- p. 74 --><a id="page-74"></a>
 
 #### LEVEL 45
 
@@ -4037,7 +4039,7 @@ The original horoscope reasserts itself at the end of the spell's duration. The 
 (Base 30, +1 Touch, +4 Year)<br>
 Source: *Dies Irae*, 41
 
-<!-- p. 75 -->
+<!-- p. 75 --><a id="page-75"></a>
 
 #### LEVEL 60
 
@@ -4081,12 +4083,12 @@ Source: *Hermetic Projects*, 15
 Mu(Re)Co(Ig, Te) 85<br>
 R: Touch, D: Year, T: Group, Ritual<br>
 Req: Rego, Ignem, Terram<br>
-This ritual changes the blood of a Group of up to 100 individuals into lava. This has the same effect on each member of the Group as the ritual *Dragon's Blood*. This is an efficient way (in terms of vis) of protecting an entire covenant from the heat hazards of living in a covenant located in a volcano — although each person will take 6 Warping points every year (see *Ars Magica Fifth Edition*, page 168).
+This ritual changes the blood of a Group of up to 100 individuals into lava. This has the same effect on each member of the Group as the ritual *Dragon's Blood*. This is an efficient way (in terms of vis) of protecting an entire covenant from the heat hazards of living in a covenant located in a volcano — although each person will take 6 Warping points every year (see [*Ars Magica Fifth Edition*, page 168](<Ars Magica 5e - Core Rules.md#covenants>) / [Definitive Edition, page 18](<Ars Magica - Definitive Edition (Core Rules).md#covenants>)).
 
 (Base 25, +1 Touch, +4 Year, +2 Group, +1 size, +1 Ignem requisite, +1 Rego requisite, +2 intense heat)<br>
 Source: *Hermetic Projects*, 15
 
-<!-- p. 76 -->
+<!-- p. 76 --><a id="page-76"></a>
 
 ### Perdo Corpus Spells
 
@@ -4131,7 +4133,7 @@ Source: *Ancient Magic*, 56
 ##### Chastise the Unruly Antagonist
 PeCo 10<br>
 R: Eye, D: Conc, T: Ind<br>
-The target is overcome by intense pain. If the target tries to engage in activities that require concentration while under the effect of this spell, a successful Concentration roll against an Ease Factor of 9 is required (*Ars Magica Fifth Edition*, page 82). The dreadful effect of punishment lasts as long as the caster concentrates.
+The target is overcome by intense pain. If the target tries to engage in activities that require concentration while under the effect of this spell, a successful Concentration roll against an Ease Factor of 9 is required ([*Ars Magica Fifth Edition*, page 82](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>)). The dreadful effect of punishment lasts as long as the caster concentrates.
 
 In Tolides' version of this spell, it appears as if the victim is wrapped in bands of darkness that tear at his flesh.
 
@@ -4156,7 +4158,7 @@ Obviously, there are other techniques for communicating with a ghost. However, *
 (Base 5, +1 Touch)<br>
 Source: *Hermetic Projects*, 85
 
-<!-- p. 77 -->
+<!-- p. 77 --><a id="page-77"></a>
 
 ##### When Fortuna Blinks
 PeCo 10<br>
@@ -4207,7 +4209,7 @@ Source: *Hermetic Projects*, 86
 ##### Inner Darkness Unleashed
 PeCo 20<br>
 R: Sight, D: Mom, T: Ind<br>
-The effect of this spell is similar to *The Wound That Weeps* (*Ars Magica Fifth Edition*, page 133), though its cosmetic component and modified Range make it appear somewhat differently.
+The effect of this spell is similar to *The Wound That Weeps* ([*Ars Magica Fifth Edition*, page 133](<Ars Magica 5e - Core Rules.md#similar-spells>) / [Definitive Edition, page 260](<Ars Magica - Definitive Edition (Core Rules).md#similar-spells>)), though its cosmetic component and modified Range make it appear somewhat differently.
 
 A wound opens on the body of the affected target, releasing black, oozing liquid similar to oil or tar. As it flows, the black substance is gradually replaced by the victim's normal blood flow, effectively creating a Light Wound.
 
@@ -4240,12 +4242,12 @@ The target ages 5 years. Determine effects normally. This spell does not work on
 (Base 15, +2 Voice)<br>
 Source: *Ars Magica Fifth Edition*, 133
 
-<!-- p. 78 -->
+<!-- p. 78 --><a id="page-78"></a>
 
 ##### Blind the Insurgent Pack
 PeCo 25<br>
 R: Voice, D: Mom, T: Group<br>
-Black, oily tears appear in the eyes of all individuals of the affected Group, burning and blurring their vision. With their eyesight blurred, and all sources of light reduced to unrecognizable sparkles, affected targets are considerably hindered while performing actions that depend on eyesight. They are subject to a –3 penalty to all rolls that involve sight (see Poor Eyesight Flaw, *Ars Magica Fifth Edition*, page 58). If left to themselves, the victims' blurred vision heals as a Light Wound.
+Black, oily tears appear in the eyes of all individuals of the affected Group, burning and blurring their vision. With their eyesight blurred, and all sources of light reduced to unrecognizable sparkles, affected targets are considerably hindered while performing actions that depend on eyesight. They are subject to a –3 penalty to all rolls that involve sight (see Poor Eyesight Flaw, [*Ars Magica Fifth Edition*, page 58](<Ars Magica 5e - Core Rules.md#poor-eyesight>) / [Definitive Edition, page 141](<Ars Magica - Definitive Edition (Core Rules).md#poor-eyesight>)). If left to themselves, the victims' blurred vision heals as a Light Wound.
 
 (Base 5, +2 Voice, +2 Group, free cosmetic effect)<br>
 Source: *Magi of Hermes*, 132
@@ -4312,7 +4314,7 @@ Inflicts an Incapacitating wound to one target.
 (Base 20, +2 Voice)<br>
 Source: *Guardians of the Forest*, 60
 
-<!-- p. 79 -->
+<!-- p. 79 --><a id="page-79"></a>
 
 ##### Incantation of the Milky Eyes
 PeCo 30<br>
@@ -4387,7 +4389,7 @@ Used only once during the Cult's association with the Order of Hermes, this spel
 (Base 30, +4 *Adelphixis*)<br>
 Source: *Houses of Hermes – Societates*, 123
 
-<!-- p. 80 -->
+<!-- p. 80 --><a id="page-80"></a>
 
 #### LEVEL 55
 
@@ -4399,7 +4401,7 @@ Starts a plague in a city or other Boundary. Everyone within the boundary is aff
 (Base 20, +3 Sight, +4 Bound)<br>
 Source: *Ars Magica Fifth Edition*, 133
 
-<!-- p. 81 -->
+<!-- p. 81 --><a id="page-81"></a>
 
 ### Rego Corpus Spells
 
@@ -4479,7 +4481,7 @@ Throws a person 15 feet in the air or 25 feet in any direction, causing falling 
 (Base 4, +2 Voice)<br>
 Source: *Calebais – The Broken Covenant*, 75
 
-<!-- p. 82 -->
+<!-- p. 82 --><a id="page-82"></a>
 
 #### LEVEL 15
 
@@ -4527,7 +4529,7 @@ Source: *Houses of Hermes – Mystery Cults*, 29
 ##### Retreat Into the Shell of Shadow
 ReCo 15<br>
 R: Per, D: Mom, T: Ind<br>
-The caster instantly transports himself to any location he can see, not more than 50 paces distant. A puff of black, quickly dissolving vapor is all that is left behind once the caster vanishes and reappears at the destination. If the initial point or endpoint of the leap is Warded, or if the caster's magic is resisted, that resistance must be overcome much the same as when targeting a Warded area (see *Aegis of the Hearth*, *Ars Magica Fifth Edition*, page 161).
+The caster instantly transports himself to any location he can see, not more than 50 paces distant. A puff of black, quickly dissolving vapor is all that is left behind once the caster vanishes and reappears at the destination. If the initial point or endpoint of the leap is Warded, or if the caster's magic is resisted, that resistance must be overcome much the same as when targeting a Warded area (see *Aegis of the Hearth*, [*Ars Magica Fifth Edition*, page 161](<Ars Magica 5e - Core Rules.md#aegis-of-the-hearth>) / [Definitive Edition, page 173](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>)).
 
 Tolides developed this spell to retreat into the shadow of a dark corner. If the endpoint of the transportation is exposed to unclouded daylight, Tolides must make a Concentration roll against an Ease Factor of 9 to gracefully reach his destination. A failure usually means that he tumbles and falls, is disorientated, or is enfeebled, whereas a botch calls for more-dramatic results to reflect his malediction. Note that this quirk is not a flaw of the spell, but an effect of Tolides' Susceptibility to Sunlight.
 
@@ -4542,7 +4544,7 @@ The caster instantly moves to a location she can see within 50 paces. If a Dexte
 (Base 15)<br>
 Source: *Through the Aegis*, 79
 
-<!-- p. 83 -->
+<!-- p. 83 --><a id="page-83"></a>
 
 ##### The Promenade of Caesar
 ReCo 15<br>
@@ -4585,16 +4587,16 @@ ReCo 20<br>
 R: Eye, D: Sun, T: Ind<br>
 Cast by a master on his apprentice, this spell allows the master to control the apprentice's movements for a day. The caster can suspend the spell, allowing the apprentice to continue with a task or exercise, and then resume control in order to help the apprentice through a particularly complex task or to correct his student and show how something should be done. The apprentice learns at a much deeper level by having his own actions controlled from within, rather than simply being guided from without.
 
-This spell is designed to assist with the training of physical skills, notably craft skills. Each season a master uses this spell to instruct an apprentice, he can add 1 to his Training Source Quality (see *Ars Magica Fifth Edition*, page 164).
+This spell is designed to assist with the training of physical skills, notably craft skills. Each season a master uses this spell to instruct an apprentice, he can add 1 to his Training Source Quality (see [*Ars Magica Fifth Edition*, page 164](<Ars Magica 5e - Core Rules.md#apprentices>) / [Definitive Edition, page 21](<Ars Magica - Definitive Edition (Core Rules).md#apprentices>)).
 
 This version was developed generations ago within Petallichus' line of Verditius weavers, though others certainly exist elsewhere within House Verditius and perhaps also in other Houses.
 
-Two seasons of using this spell on an apprentice counts as one year of being under a constant magical effect as per *Ars Magica Fifth Edition*, page 168, and inflicts 1 Warping point in that year.
+Two seasons of using this spell on an apprentice counts as one year of being under a constant magical effect as per [*Ars Magica Fifth Edition*, page 168](<Ars Magica 5e - Core Rules.md#apprentices>) / [Definitive Edition, page 21](<Ars Magica - Definitive Edition (Core Rules).md#apprentices>), and inflicts 1 Warping point in that year.
 
 (Base 4, +1 Eye, +2 Sun, +1 control over fine movements)<br>
 Source: *Magi of Hermes*, 101
 
-<!-- p. 84 -->
+<!-- p. 84 --><a id="page-84"></a>
 
 ##### It will be health to your flesh, and strength to you bones
 ReCo 20<br>
@@ -4630,7 +4632,7 @@ ReCo 20<br>
 R: Touch, D: Ring, T: Arcane Circle<br>
 A variant on a warding theme, this spell cast with an Arcane Circle target both imprisons people within its bounds and prevents them from crossing into the Arcane Circle.
 
-The Arcane Circle target is usable by those who know the Hermetic Geometry Mystery, and allows the caster to draw a circle at his location while calculating and casting against a sympathetically identical circle in a remote location (see *The Mysteries Revised Edition*, page 95).
+The Arcane Circle target is usable by those who know the Hermetic Geometry Mystery, and allows the caster to draw a circle at his location while calculating and casting against a sympathetically identical circle in a remote location (see [*The Mysteries Revised Edition*, page 95](<Ars Magica 5e - The Mysteries (Revised).md#location>)).
 
 Those with Resistance (through Parma or Might) are not confined or restricted unless this spell Penetrates that resistance. Arcane Connections to a named target may be used in order to increase the Penetration as normal, though the increased Penetration is only valid against that named target.
 
@@ -4655,12 +4657,12 @@ Transfers bodily energy from you to any target who is at a lower Fatigue level t
 (Base 15, +1 Touch)<br>
 Source: *Ars Magica Fifth Edition*, 134
 
-<!-- p. 85 -->
+<!-- p. 85 --><a id="page-85"></a>
 
 ##### The Protesting Adversary Held Still
 ReCo 20<br>
 R: Voice, D: Conc, T: Ind<br>
-The affected target is held fast and still for as long as the caster concentrates. Being held means that the target is unable to move his body, including his limbs, fingers, eyes, and lips. A magus who tries to cast spells while under the effect of this spell is likely to be subject to a penalty to his casting total, unless the intended magical effect does not require words and gestures (*Ars Magica Fifth Edition*, page 83).
+The affected target is held fast and still for as long as the caster concentrates. Being held means that the target is unable to move his body, including his limbs, fingers, eyes, and lips. A magus who tries to cast spells while under the effect of this spell is likely to be subject to a penalty to his casting total, unless the intended magical effect does not require words and gestures ([*Ars Magica Fifth Edition*, page 83](<Ars Magica 5e - Core Rules.md#casting-spells>) / [Definitive Edition, page 213](<Ars Magica - Definitive Edition (Core Rules).md#casting-spells>)).
 
 In Tolides' version of this spell, small ripples of darkness quiver over the body of the target that seem to function as ropes, holding his victim in place.
 
@@ -4715,7 +4717,7 @@ The Intellego requisite is required to distinguish between the different sorts o
 (Base 10, +1 Touch, +1 Part, +1 requisite)<br>
 Source: *Hermetic Projects*, 88
 
-<!-- p. 86 -->
+<!-- p. 86 --><a id="page-86"></a>
 
 ##### Sever the Unwanted Limb
 ReCo 25<br>
@@ -4774,12 +4776,12 @@ Source: *Magi of Hermes*, 22
 ##### It's Raining Men
 ReCo 30<br>
 R: Voice, D: Mom, T: Group<br>
-Instantly transports the targets five paces upwards into the air, after which they drop to the ground. This breaks up any military formation and inflicts damage as per the rules in *Ars Magica Fifth Edition*, page 181. This spell was commissioned by a Tytalus magus who commanded a cavalry group and used the spell to break up spearmen lines just before charging into them. The Group target only allows for ten men to be thrust upwards, but this is usually enough to form a small breakthrough that a cavalry charge can exploit.
+Instantly transports the targets five paces upwards into the air, after which they drop to the ground. This breaks up any military formation and inflicts damage as per the rules in [*Ars Magica Fifth Edition*, page 181](<Ars Magica 5e - Core Rules.md#page-181>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#injuries>). This spell was commissioned by a Tytalus magus who commanded a cavalry group and used the spell to break up spearmen lines just before charging into them. The Group target only allows for ten men to be thrust upwards, but this is usually enough to form a small breakthrough that a cavalry charge can exploit.
 
 (Base 10, +2 Voice, +2 Group)<br>
 Source: *Magi of Hermes*, 22
 
-<!-- p. 87 -->
+<!-- p. 87 --><a id="page-87"></a>
 
 ##### Seven-League Stride
 ReCo 30<br>
@@ -4815,7 +4817,7 @@ Source: *Covenants*, 104
 ReCo(Me) 35<br>
 R: Voice, D: Sun, T: Ind<br>
 Req: Mentem<br>
-A variant of *Awaken the Slumbering Corpse* (*Ars Magica Fifth Edition*, page 134), this spell allows a caster to control a corpse through mental, rather than verbal, commands.
+A variant of *Awaken the Slumbering Corpse* ([*Ars Magica Fifth Edition*, page 134](<Ars Magica 5e - Core Rules.md#awaken-the-slumbering-corpse>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#awaken-the-slumbering-corpse>)), this spell allows a caster to control a corpse through mental, rather than verbal, commands.
 
 (Base 10, +2 Voice, +2 Day, +1 Mentem requisite)<br>
 Source: *Hermetic Projects*, 97
@@ -4848,7 +4850,7 @@ The caster does not need to be within the circle. Note the spell is powerful eno
 (Base 30, +1 Touch)<br>
 Source: *Through the Aegis*, 79
 
-<!-- p. 88 -->
+<!-- p. 88 --><a id="page-88"></a>
 
 ##### Seven Leagues Travel
 ReCo 35<br>
@@ -4890,7 +4892,7 @@ Source: *Hermetic Projects*, 116
 ##### Licking the Blade
 ReCo 40<br>
 R: Sight, D: Mom, T: Ind<br>
-When casting this spell, the caster holds a glass phial in one hand. When cast, the spell instantly transports a quantity of spilled blood that the caster can see and is within one league (3 miles) into the phial. The blood can be used as a +3 Arcane Connection to the character(s) from which it came. The Arcane Connection lasts for years (see *Ars Magica Fifth Edition*, page 84).
+When casting this spell, the caster holds a glass phial in one hand. When cast, the spell instantly transports a quantity of spilled blood that the caster can see and is within one league (3 miles) into the phial. The blood can be used as a +3 Arcane Connection to the character(s) from which it came. The Arcane Connection lasts for years (see [*Ars Magica Fifth Edition*, page 84](<Ars Magica 5e - Core Rules.md#arcane-connections>) / [Definitive Edition, page 219](<Ars Magica - Definitive Edition (Core Rules).md#arcane-connections>)).
 
 If the blood comes from a mixture of individuals, it must be sorted using a spell such as *Division According to Blood* before it can be used as an Arcane Connection. The exception is that the unsorted blood can be used as an Arcane Connection for effects that use a Group target to affect the entire group from which the blood came.
 
@@ -4904,12 +4906,12 @@ Source: *Hermetic Projects*, 87
 ##### Return to the Flow
 ReCo 40<br>
 R: Per, D: Mom, T: Ind<br>
-This spell instantly transports Trajan to a point that he has an Arcane Connection to. He often uses his tattoos as the Arcane Connections for this spell; his tattoos are fixed Arcane Connections to the river (see character insert of Trajan in *Hooks*, page 78).
+This spell instantly transports Trajan to a point that he has an Arcane Connection to. He often uses his tattoos as the Arcane Connections for this spell; his tattoos are fixed Arcane Connections to the river (see character insert of Trajan in [*Hooks*, page 78](<Ars Magica 5e - Hooks.md#the-river>)).
 
 (Base 35, +1 size modifier)<br>
 Source: *Hooks*, 79
 
-<!-- p. 89 -->
+<!-- p. 89 --><a id="page-89"></a>
 
 ##### The Morphean Gate
 Re(Mu)Co(Me) 40<br>
@@ -4951,7 +4953,7 @@ ReCo 45<br>
 R: Arc, D: Ring, T: Ind, Ritual<br>
 One way of determining the rightful heir to an inheritance is to defer to someone or something that already knows the answer. The magic realm is replete with spirits representing every aspect of God's creation including, conceivably, spirits of a given bloodline.
 
-Magical spirits of blood can be summoned through the form of Corpus using a base 15 effect as explained in *The Mysteries Revised Edition*, page 28. This is something that all magi can do and is not reliant on any Mystery initiations.
+Magical spirits of blood can be summoned through the form of Corpus using a base 15 effect as explained in [*The Mysteries Revised Edition*, page 28](<Ars Magica 5e - The Mysteries (Revised).md>). This is something that all magi can do and is not reliant on any Mystery initiations.
 
 The caster often prepares a warding circle and then summons the target spirit into that circle. The Arcane Connection used must intimately relate to the target bloodline; a crown for a royal line, a sword passed from father to son, earth from a family estate, and so on. Once summoned, the spirit can be questioned or commanded as normal and if it is powerful enough it should have knowledge of the true heir to the line.
 
@@ -4960,7 +4962,7 @@ Should the magus wish it, he may also be able to command other information from 
 (Base 15, +4 Arcane Connection, +2 Ring)<br>
 Source: *Transforming Mythic Europe*, 44
 
-<!-- p. 90 -->
+<!-- p. 90 --><a id="page-90"></a>
 
 ##### The Messenger's Shortcut
 ReCo(An) 45<br>
@@ -4998,7 +5000,7 @@ ReCo 60<br>
 R: Touch, D: Moon, T: Special, Ritual<br>
 This ritual turns a river into a magical boundary that cannot be crossed by man, woman, or child. It cannot be crossed from either side and those who try may reach midway before they are turned back. Neither bridges nor fords offer any opportunity to cross. They are, however, left unharmed by the magic and they may be used once the spell ends. Variants can be created with the Until (condition) duration or Year, though both of these increase the level by one magnitude.
 
-Magi can create spells with nonstandard Targets quite freely, though they are generally not as optimized as if they had first researched the required Target parameter. In this case, a river is a special form of boundary and the target is particular to this spell so the parameter is treated as Boundary +1, as described in *Ars Magica Fifth Edition*, page 114.
+Magi can create spells with nonstandard Targets quite freely, though they are generally not as optimized as if they had first researched the required Target parameter. In this case, a river is a special form of boundary and the target is particular to this spell so the parameter is treated as Boundary +1, as described in [*Ars Magica Fifth Edition*, page 114](<Ars Magica 5e - Core Rules.md#forms>) / [Definitive Edition, page 208](<Ars Magica - Definitive Edition (Core Rules).md#forms>).
 
 This ritual is designed to protect lands from invasion or to place a barrier in war's path by disrupting the ability of one side or the other to travel. Magi working with nobles involved in the dispute may cast such things, even uninvited, to prevent the loss of life and to give parties the opportunity to talk. The unscrupulous may use this to cut off lines of retreat, hemming enemies in and preventing their escape.
 
@@ -5014,7 +5016,7 @@ Cast into a flame, this ward prevents a person of a bloodline from crossing the 
 (Base 15, +1 Touch, +3 Fire, +4 Boundary, +1 Intellego Requisite)<br>
 Source: *Through the Aegis*, 97
 
-<!-- p. 91 -->
+<!-- p. 91 --><a id="page-91"></a>
 
 ## The Art of Herbam
 
@@ -5035,7 +5037,7 @@ Source: *Apprentices*, 45
 ##### Circle of Eternal Spring
 CrHe 4<br>
 R: Touch, D: Ring, T: Circle<br>
-This spell ensures that all plants within the circle grow well. It has the same effect as *The Bountiful Feast* (*Ars Magica Fifth Edition*, page 135), but is based on Ring Duration and Circle Target.
+This spell ensures that all plants within the circle grow well. It has the same effect as *The Bountiful Feast* ([*Ars Magica Fifth Edition*, page 135](<Ars Magica 5e - Core Rules.md#the-bountiful-feast>) / [Definitive Edition, page 339](<Ars Magica - Definitive Edition (Core Rules).md#the-bountiful-feast>)), but is based on Ring Duration and Circle Target.
 
 (Base 1, +1 Touch, +2 Ring)<br>
 Source: *Magi of Hermes*, 38
@@ -5084,7 +5086,7 @@ Affects any plant, not just vines, but it was designed by Joia to protect the gr
 (Base 1, +1 Touch, +3 Moon)<br>
 Source: *Through the Aegis*, 40
 
-<!-- p. 92 -->
+<!-- p. 92 --><a id="page-92"></a>
 
 #### LEVEL 10
 
@@ -5154,7 +5156,7 @@ Causes strong, woody vines to grow rapidly from fertile earth. The vines cover a
 (Base 1, +2 Voice, +2 Sun, +2 Group)<br>
 Source: *Ars Magica Fifth Edition*, 135
 
-<!-- p. 93 -->
+<!-- p. 93 --><a id="page-93"></a>
 
 #### LEVEL 20
 
@@ -5228,7 +5230,7 @@ This spell creates 100,000 oak galls. Magi, even in inhospitable climates, can u
 (Base 1, +1 Touch, +2 Group, +4 size)<br>
 Source: *Covenants*, 96
 
-<!-- p. 94 -->
+<!-- p. 94 --><a id="page-94"></a>
 
 ##### The Creation of Acorns Aplenty
 CrHe 20<br>
@@ -5291,7 +5293,7 @@ Coats a wooden weapon with a venom that inflicts +10 damage.
 (Base 10, +1 Touch, +2 Sun)<br>
 Source: *Legends of Hermes*, 81
 
-<!-- p. 95 -->
+<!-- p. 95 --><a id="page-95"></a>
 
 ##### Wall of Living Wood
 CrHe 25<br>
@@ -5340,7 +5342,7 @@ This ritual, which must be cast at noon on the day after the winter solstice, at
 (Base 1, +1 Touch, +4 Year, +4 Bound, +1 Size (for a total of +4 Size, including the +3 from the guideline, so that the area affected is up to about 6 miles across))<br>
 Source: *Ars Magica Fifth Edition*, 135
 
-<!-- p. 96 -->
+<!-- p. 96 --><a id="page-96"></a>
 
 #### LEVEL 40
 
@@ -5348,7 +5350,7 @@ Source: *Ars Magica Fifth Edition*, 135
 Cr(Mu)He(Te) 40<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
 Req: Muto, Terram<br>
-This ritual is normally cast on an acorn from an oak tree and it works like the spell *Conjuring the Mystic Tower* (*Ars Magica Fifth Edition*, page 153) with the exception that it utilizes a tree rather than stone. The tree springs from the ground in moments, towering to its full height of around eighty feet. The tree is still alive, but it has chambers within, complete with earthen floors and earthen hearths for fires. The magus decides the shape and design of the chambers when casting the spell. If the tree dies, the tower remains, now being a dead tree.
+This ritual is normally cast on an acorn from an oak tree and it works like the spell *Conjuring the Mystic Tower* ([*Ars Magica Fifth Edition*, page 153](<Ars Magica 5e - Core Rules.md#conjuring-the-mystic-tower>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#conjuring-the-mystic-tower>)) with the exception that it utilizes a tree rather than stone. The tree springs from the ground in moments, towering to its full height of around eighty feet. The tree is still alive, but it has chambers within, complete with earthen floors and earthen hearths for fires. The magus decides the shape and design of the chambers when casting the spell. If the tree dies, the tower remains, now being a dead tree.
 
 (Base 3, +1 Touch, +3 Size, +3 Elaborate, +1 Terram Requisite, +1 Muto Requisite)<br>
 Source: *Magi of Hermes*, 39
@@ -5391,7 +5393,7 @@ A Terram requisite is required to mend or replace bolts, nails, and other fixtur
 (Base 3, +1 Touch, +3 Structure, +2 for treated and processed Herbam, +3 intricacy, +1 Terram requisite)<br>
 Source: *Hermetic Projects*, 65
 
-<!-- p. 97 -->
+<!-- p. 97 --><a id="page-97"></a>
 
 ##### The Wooden Horde
 CrHe 45<br>
@@ -5415,7 +5417,7 @@ Creo magic brings a thing closer to its ideal, and being a mature plant is more 
 (Base 15, +1 Touch, +2 Sun, +2 Group, +2 size)<br>
 Source: *Transforming Mythic Europe*, 41
 
-<!-- p. 98 -->
+<!-- p. 98 --><a id="page-98"></a>
 
 ### Intellego Herbam Spells
 
@@ -5487,7 +5489,7 @@ The caster can see into the Twilight Void through the vestige of a wooden struct
 (Base 10, +1 Touch, +3 Str)<br>
 Source: *Realms of Power – Magic*, 27
 
-<!-- p. 99 -->
+<!-- p. 99 --><a id="page-99"></a>
 
 ### Muto Herbam Spells
 
@@ -5569,7 +5571,7 @@ All the clothes worn by one person that are made out of animal or plant products
 (Base 3, +2 Voice, +2 Group, +1 Animal requisite)<br>
 Source: *Magi of Hermes*, 124
 
-<!-- p. 100 -->
+<!-- p. 100 --><a id="page-100"></a>
 
 ##### Razor Thorns
 MuHe(Te) 25<br>
@@ -5609,7 +5611,7 @@ This spell makes all the grass and leaves of a group of plants as sharp as a swo
 (Base 4, +2 Voice, +2 Sun, +2 Group)<br>
 Source: *Magi of Hermes*, 39
 
-<!-- p. 101 -->
+<!-- p. 101 --><a id="page-101"></a>
 
 #### LEVEL 35
 
@@ -5630,7 +5632,7 @@ R: Touch, D: Year +1, T: Str, Ritual, Faerie<br>
 Req: Terram<br>
 This spell changes a building and the building's contents into a large rock of hard igneous stone for a year and a day. The rock is typically significantly smaller than the altered building (having approximately the same mass as the building), and is buried to the depth of the building's foundation. If there is any material containing animal products in the building (such as leather or wool), then the spell must be cast with an Animal casting requisite or the spell will not function. Over the duration of the spell, the target building and its contents age normally but do not suffer decay in any other respect; Thus no mold or water damage affect the building's contents, but foodstuffs that have been aged for a year and a day would still be far from appetizing.
 
-Lambert has traded to acquire a casting tablet (*Covenants* page 89) of the spell Locked Storehouse; he does not know the spell himself. The casting tablet specifies the use of three pawns of Muto vis and six pawns of Terram vis.
+Lambert has traded to acquire a casting tablet ([*Covenants* page 89](<Ars Magica 5e - Covenants.md#casting-tablets>)) of the spell Locked Storehouse; he does not know the spell himself. The casting tablet specifies the use of three pawns of Muto vis and six pawns of Terram vis.
 
 (Base 4, +1 Touch, +4 Year+1, +3 Structure, +1 complexity)<br>
 Source: *Magi of Hermes*, 65
@@ -5641,7 +5643,7 @@ Source: *Magi of Hermes*, 65
 MuHe(Me) 55<br>
 R: Voice, D: Year, T: Group, Ritual<br>
 Req: Mentem<br>
-This spell works exactly as the spell, *Stir the Slumbering Tree* (*Ars Magica Fifth Edition*, page 137), only it is used to awaken multiple plants at once rather than one or two at a time. Once raised, the plants have a state of consciousness that resembles that of a human. The plants can see and hear what's going on around them and at a normal human level of perception. Such plants tend to share some mental attributes or personality traits with the caster. The plants can rearrange their leaves, stems, or branches over the course of several hours, though too slowly for people to observe the movement from second to second. The size bonus enables the spell to awaken an entire forest grove in one go.
+This spell works exactly as the spell, *Stir the Slumbering Tree* ([*Ars Magica Fifth Edition*, page 137](<Ars Magica 5e - Core Rules.md#stir-the-slumbering-tree>) / [Definitive Edition, page 341](<Ars Magica - Definitive Edition (Core Rules).md#stir-the-slumbering-tree>)), only it is used to awaken multiple plants at once rather than one or two at a time. Once raised, the plants have a state of consciousness that resembles that of a human. The plants can see and hear what's going on around them and at a normal human level of perception. Such plants tend to share some mental attributes or personality traits with the caster. The plants can rearrange their leaves, stems, or branches over the course of several hours, though too slowly for people to observe the movement from second to second. The size bonus enables the spell to awaken an entire forest grove in one go.
 
 (Base 4, +2 Voice, +4 Year, +2 Group, +2 Size)<br>
 Source: *Magi of Hermes*, 39
@@ -5657,7 +5659,7 @@ Turns a previously normal forest into a haunted and dangerous place. The trees b
 (Base 4, +1 Touch, +4 Year, +2 Group, +5 size)<br>
 Source: *Ars Magica Fifth Edition*, 137
 
-<!-- p. 102 -->
+<!-- p. 102 --><a id="page-102"></a>
 
 ### Perdo Herbam Spells
 
@@ -5737,7 +5739,7 @@ Rots and destroys a large amount of dead wood, up to the amount found in a woode
 (Base 4, +2 Voice, +2 Group, +1 size)<br>
 Source: *Ars Magica Fifth Edition*, 138
 
-<!-- p. 103 -->
+<!-- p. 103 --><a id="page-103"></a>
 
 #### LEVEL 30
 
@@ -5780,7 +5782,7 @@ There can be little excuse for casting this spell and even less for enchanting i
 (Base 5, +3 Sight, +4 size)<br>
 Source: *Transforming Mythic Europe*, 45
 
-<!-- p. 104 -->
+<!-- p. 104 --><a id="page-104"></a>
 
 ### Rego Herbam Spells
 
@@ -5817,12 +5819,12 @@ ReHe 4<br>
 R: Touch, D: Mom, T: Ind<br>
 Given an amount of linen or cotton cloth, the caster forms it into a garment according to her specifications. Typical garments made with this spell are the chainse or braies (see the Clothing of the Thirteenth Century insert in *Magi of Hermes*) which are traditionally made of linen. A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 9 for clothes of standard quality since it represents a day's work done in an instant. If the Finesse roll fails the caster is left with a useless pile of scraps of cloth. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items).
 
-If starting with raw flax or cotton fibers, this spell would have needed to use the level 5 Rego Herbam guideline "treat and process items made of plant products" given in *Covenants*, page 51. Julia has no need for this version, since her Faerie Blood allows her to effect the transformation from fiber to cloth anyway.
+If starting with raw flax or cotton fibers, this spell would have needed to use the level 5 Rego Herbam guideline "treat and process items made of plant products" given in [*Covenants*, page 51](<Ars Magica 5e - Covenants.md#rego-herbam-guidelines>). Julia has no need for this version, since her Faerie Blood allows her to effect the transformation from fiber to cloth anyway.
 
 (Base 3, +1 Touch)<br>
 Source: *Magi of Hermes*, 58
 
-<!-- p. 105 -->
+<!-- p. 105 --><a id="page-105"></a>
 
 #### LEVEL 5
 
@@ -5884,14 +5886,14 @@ Deflects a single blow of any weapon made of wood, up to the size of a two-hande
 (Base 4, +2 Voice)<br>
 Source: *Ars Magica Fifth Edition*, 138
 
-<!-- p. 106 -->
+<!-- p. 106 --><a id="page-106"></a>
 
 ##### Rough-Hewn Servant
 ReHe 10<br>
 R: Touch, D: Mom, T: Ind<br>
 This is a spell for carving a statue from a single block of wood. The piece of wood can be no larger than one cubic pace. This spell requires a Perception + Finesse roll. If this is botched the statue is ruined. If the roll exceeds the Ease Factor of 6, then the statue is serviceable, if not particularly pretty, and can be animated with the *Carved Assassin* spell. If the roll is not successful, then a statue is created, but it is too fragile or too blockish to use effectively with the *Carved Assassin* spell.
 
-(Base 5 (see *Covenants*, page 50), +1 Touch)<br>
+(Base 5 (see [*Covenants*, page 50](<Ars Magica 5e - Covenants.md>)), +1 Touch)<br>
 Source: *Tales of Mythic Europe*, 55
 
 #### LEVEL 15
@@ -5945,7 +5947,7 @@ Takes a length of wood that you designate and hurls it at a target (a Targeting 
 (Base 3, +2 Voice, +1 Concentration, +1 Muto requisite)<br>
 Source: *Ars Magica Fifth Edition*, 138
 
-<!-- p. 107 -->
+<!-- p. 107 --><a id="page-107"></a>
 
 ##### Then I was the craftsman at his side. I was filled with delight day after day
 ReHe 15<br>
@@ -5959,9 +5961,9 @@ Source: *The Contested Isle – The Hibernian Tribunal*, 67
 ##### Work of a Hundred Querns
 ReHe 15<br>
 R: Touch, D: Mom, T: Group<br>
-This spell uses Rego craft magic to transform up to 10 bushels of grain into flour. The caster must make an Intelligence + Finesse roll against an Ease Factor of 6 to obtain usable flour, but this is of the poorest quality with pieces of husk still within the bran-heavy flour. An Ease Factor of 12 generates fine white flour instead. An advantage of this spell is that no grit from the millstones end up in the flour regardless of its quality. In Mythic Europe, the right to mill flour is usually protected by law (*Lords of Men*, page 77), and using this spell could get the magus into a lot of trouble; however, it will save them the cost of employing a miller.
+This spell uses Rego craft magic to transform up to 10 bushels of grain into flour. The caster must make an Intelligence + Finesse roll against an Ease Factor of 6 to obtain usable flour, but this is of the poorest quality with pieces of husk still within the bran-heavy flour. An Ease Factor of 12 generates fine white flour instead. An advantage of this spell is that no grit from the millstones end up in the flour regardless of its quality. In Mythic Europe, the right to mill flour is usually protected by law ([*Lords of Men*, page 77](<Ars Magica 5e - Lords of Men.md#mills>)), and using this spell could get the magus into a lot of trouble; however, it will save them the cost of employing a miller.
 
-The guideline used was published in *Covenants* (page 51), and permits items made of plant products to be treated.
+The guideline used was published in [*Covenants* (page 51](<Ars Magica 5e - Covenants.md>)), and permits items made of plant products to be treated.
 
 (Base 4, +1 Touch, +2 Group)<br>
 Source: *Transforming Mythic Europe*, 120
@@ -6001,14 +6003,14 @@ Like *Free the Striding Tree*, but R: Personal, D: Sun, and with only one Size m
 (Base 5, +1 Sun, +1 size)<br>
 Source: *Legends of Hermes*, 81
 
-<!-- p. 108 -->
+<!-- p. 108 --><a id="page-108"></a>
 
 ##### Mend Thy Broken Strings
 ReHe 20<br>
 R: Touch, D: Mom, T: Ind<br>
 With all the required parts and/or materials of a musical instrument present, the caster uses Rego magic to repair it, including re-stringing, straightening warped wood, or any other fix that could be applied by a craftsman. The spell cannot repair splintered or broken wood, but it can reassemble or replace old parts if new materials are available. The spell cannot create any required materials that are not present.
 
-This spell uses the Rego Craft Magic rules from *Covenants*, page 49, and so the results of the spell depend on the magus's Finesse as described in the table.
+This spell uses the Rego Craft Magic rules from [*Covenants*, page 49](<Ars Magica 5e - Covenants.md#rego-craft-magic>), and so the results of the spell depend on the magus's Finesse as described in the table.
 
 | Task | Complexity | Finesse Roll |
 |---|---|---|
@@ -6036,7 +6038,7 @@ ReHe 20<br>
 R: Touch, D: Mom, T: Group<br>
 This spell uses Rego craft magic to create a batch of 12 dozen loaves of bread in an instant from sufficient raw ingredients of flour, water, and yeast. The spell can even use raw grain rather than flour; if used at its maximum capacity it requires 10 bushels of either. Making basic bread is a Simple (Ease Factor 3) task for a baker, so the magus must make an Intelligence + Finesse roll against an Ease Factor of 6 to succeed; otherwise the result is an inedible mess of spoiled dough. If this roll achieves an Ease Factor of 9 the bread is particularly good; an Ease Factor of 12 produces pandemayne, the finest white table bread.
 
-The guideline used was published in *Covenants* (page 51), and permits items made of plant products to be treated and processed. A similar spell – *The Elfin Brewer* – can create 12 dozen pints of ale from grain, water, yeast, and gruit (herbs used for flavor).
+The guideline used was published in [*Covenants* (page 51](<Ars Magica 5e - Covenants.md>)), and permits items made of plant products to be treated and processed. A similar spell – *The Elfin Brewer* – can create 12 dozen pints of ale from grain, water, yeast, and gruit (herbs used for flavor).
 
 (Base 5, +1 Touch, +2 Group)<br>
 Source: *Transforming Mythic Europe*, 121
@@ -6049,14 +6051,14 @@ This spell collects a tremendous weight of wood, grass, straw, and other plant m
 (Base 3, +2 Voice, +2 Group, +1 size of group)<br>
 Source: *Tales of Mythic Europe*, 55
 
-<!-- p. 109 -->
+<!-- p. 109 --><a id="page-109"></a>
 
 #### LEVEL 25
 
 ##### Carved Assassin
 ReHe 25<br>
 R: Touch, D: Sun, T: Ind<br>
-This highly useful spell animates a wooden object so that it follows simple commands, and solves simple problems, without the direct oversight of the magus. The object must be wooden, and no larger than a pace square. Severin often makes statues that suit his needs with the *Rough- Hewn Servant* spell, also given in *Tales of Mythic Europe*, page 55.
+This highly useful spell animates a wooden object so that it follows simple commands, and solves simple problems, without the direct oversight of the magus. The object must be wooden, and no larger than a pace square. Severin often makes statues that suit his needs with the *Rough- Hewn Servant* spell, also given in [*Tales of Mythic Europe*, page 55](<Ars Magica 5e - Tales of Mythic Europe.md#rough-hewn-servant>).
 
 (Base 10, +1 Touch, +2 Sun)<br>
 Source: *Tales of Mythic Europe*, 55
@@ -6098,7 +6100,7 @@ If the magus chooses inappropriate wood (such as green, unseasoned wood), the sp
 (Base 5, +1 Touch, +2 Group, +1 flexibility)<br>
 Source: *Covenants*, 51
 
-<!-- p. 110 -->
+<!-- p. 110 --><a id="page-110"></a>
 
 ##### The Treacherous Spear
 ReHe 25<br>
@@ -6150,7 +6152,7 @@ In an effort to protect his grogs, Gwidion developed this spell after discoverin
 (Base 15, +1 Touch, +2 Ring)<br>
 Source: *Magi of Hermes*, 40
 
-<!-- p. 111 -->
+<!-- p. 111 --><a id="page-111"></a>
 
 ##### The Unseen Shipwright
 ReHe(Te) 30<br>
@@ -6158,7 +6160,7 @@ R: Touch, D: Mom, T: Group<br>
 Req: Terram<br>
 The magus selects a pile of wood and formed iron fixtures, and the spell cuts, carves, and joins the wood into the hull of a target ship, repairing splits and holes under the magus' direction. The worst damage is repaired first so that the vessel is always left seaworthy and the repairs are practically seamless.
 
-A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on *Covenants*, page 49, is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel). The magus must have appropriate materials to hand in order to make repairs.
+A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on [*Covenants*, page 49](<Ars Magica 5e - Covenants.md>), is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel). The magus must have appropriate materials to hand in order to make repairs.
 
 (Base 5, +1 Touch, +2 Group, +1 size, +1 flexibility)<br>
 Source: *Hermetic Projects*, 64
@@ -6188,7 +6190,7 @@ Recreating this spell provides 9 points towards integrating *True Understanding 
 (Base 10, +4 Vi representing each of the Realms)<br>
 Source: *Legends of Hermes*, 27
 
-<!-- p. 112 -->
+<!-- p. 112 --><a id="page-112"></a>
 
 #### LEVEL 35
 
@@ -6226,7 +6228,7 @@ The spell is named for Phereclus, a master shipbuilder of Greek antiquity.
 (Base 5, +1 Touch, +2 Group, +3 Size, +1 intricacy)<br>
 Source: *Hermetic Projects*, 63
 
-<!-- p. 113 -->
+<!-- p. 113 --><a id="page-113"></a>
 
 ##### The Unexpected Blossom
 ReHe 40<br>
@@ -6282,7 +6284,7 @@ Wakens and mobilizes every tree on the island, forcing them to follow simple com
 (Base 10, +1 Touch, +2 Sun, +4 Bound, +2 size of plants)<br>
 Source: *Transforming Mythic Europe*, 74
 
-<!-- p. 114 -->
+<!-- p. 114 --><a id="page-114"></a>
 
 ##### Ward against Natural Imbalances of Nutrition
 ReHe 55<br>
@@ -6292,7 +6294,7 @@ This ritual spell keeps natural plant diseases from a sizable crop field. It doe
 (Base 5, +1 Touch, +4 Year, +4 Boundary, +1 size)<br>
 Source: *Dies Irae*, 86
 
-<!-- p. 115 -->
+<!-- p. 115 --><a id="page-115"></a>
 
 ## The Art of Ignem
 
@@ -6360,7 +6362,7 @@ The caster's fingers burn the target, leaving a brand in the shape of the caster
 (Base 4, +1 Touch)<br>
 Source: *Hermetic Projects*, 84
 
-<!-- p. 116 -->
+<!-- p. 116 --><a id="page-116"></a>
 
 #### LEVEL 10
 
@@ -6424,7 +6426,7 @@ This spell causes the caster's body and personal effects to shine with the brigh
 (Base 5, +1 Diameter, +1 exceptionally intense light)<br>
 Source: *Magi of Hermes*, 110
 
-<!-- p. 117 -->
+<!-- p. 117 --><a id="page-117"></a>
 
 ##### Test of the Flames
 CrIg 15<br>
@@ -6491,7 +6493,7 @@ This demonstrates greater power than simple CrIg spells that just create light; 
 (Base 1, +1 Touch, +3 Moon, +4 Boundary)<br>
 Source: *Dies Irae*, 40
 
-<!-- p. 118 -->
+<!-- p. 118 --><a id="page-118"></a>
 
 #### LEVEL 30
 
@@ -6542,7 +6544,7 @@ The caster creates six walls of fire within the range of his spell. Each wall is
 (Base 15, + 1 Concentration, +2 Group)<br>
 Source: *Magi of Hermes*, 111
 
-<!-- p. 119 -->
+<!-- p. 119 --><a id="page-119"></a>
 
 #### LEVEL 45
 
@@ -6583,7 +6585,7 @@ An early version of this spell was found in the lab notes of Flambeau himself. S
 (Base 40, +2 Size)<br>
 Source: *Houses of Hermes – Societates*, 37
 
-<!-- p. 120 -->
+<!-- p. 120 --><a id="page-120"></a>
 
 ### Intellego Ignem Spells
 
@@ -6653,7 +6655,7 @@ Allows you to converse with a fire, commonly very chaotic and distractible. Prom
 (Base 20, +2 Voice, +1 Concentration)<br>
 Source: *Ars Magica Fifth Edition*, 141
 
-<!-- p. 121 -->
+<!-- p. 121 --><a id="page-121"></a>
 
 ### Muto Ignem Spells
 
@@ -6712,7 +6714,7 @@ Turns a fire into a swarm of fireballs, each the size of a large insect, that fl
 (Base 2, +2 Voice, +1 Concentration, +1 Rego requisite)<br>
 Source: *Ars Magica Fifth Edition*, 141
 
-<!-- p. 122 -->
+<!-- p. 122 --><a id="page-122"></a>
 
 #### LEVEL 15
 
@@ -6720,7 +6722,7 @@ Source: *Ars Magica Fifth Edition*, 141
 Mu(Pe)Ig 15<br>
 R: Touch, D: Mom, T: Ind<br>
 Req: Perdo<br>
-This spell momentarily alters a fire so that rather than radiating heat, it radiates an icy cold. The colors of the target fire change from oranges and yellows to violets and blues. Any fire affected by this spell does cold damage rather than heat damage for the moment of the spell's duration. *Boreal Flames* does not function on fires that are so hot that they do more than +15 damage. This spell was specifically designed to alter a casting of *Pilum of Fire*. *Boreal Flames* may be cast in conjunction with another spell; to do so the caster must make an Intelligence + Concentration roll against an Ease Factor of 15 (per *Ars Magica Fifth Edition*, page 82). Ranulf uses *Boreal Flames* in conjunction with *The Patient Spell*, as doing so eliminates the need for such a formidable feat of concentration.
+This spell momentarily alters a fire so that rather than radiating heat, it radiates an icy cold. The colors of the target fire change from oranges and yellows to violets and blues. Any fire affected by this spell does cold damage rather than heat damage for the moment of the spell's duration. *Boreal Flames* does not function on fires that are so hot that they do more than +15 damage. This spell was specifically designed to alter a casting of *Pilum of Fire*. *Boreal Flames* may be cast in conjunction with another spell; to do so the caster must make an Intelligence + Concentration roll against an Ease Factor of 15 (per [*Ars Magica Fifth Edition*, page 82](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>)). Ranulf uses *Boreal Flames* in conjunction with *The Patient Spell*, as doing so eliminates the need for such a formidable feat of concentration.
 
 (Base 4, + 1 Touch, +2 intensity of flames)<br>
 Source: *Magi of Hermes*, 111
@@ -6765,7 +6767,7 @@ This is a spell Alexander designed to avenge a personal slight. This spell trans
 (Base 10, +1 Touch, +3 Moon, requisite free)<br>
 Source: *Magi of Hermes*, 13
 
-<!-- p. 123 -->
+<!-- p. 123 --><a id="page-123"></a>
 
 ##### Sublimation of Flame
 MuIg(Au) 30<br>
@@ -6802,7 +6804,7 @@ Turns a fire up to the size of a small house into ice. The ice forms beautiful s
 (Base 5, +2 Voice, +2 Sun, +2 size)<br>
 Source: *Ars Magica Fifth Edition*, 142
 
-<!-- p. 124 -->
+<!-- p. 124 --><a id="page-124"></a>
 
 ### Perdo Ignem Spells
 
@@ -6819,7 +6821,7 @@ Source: *Magi of Hermes*, 14
 ##### Chill Touch of Exposure
 PeIg 5<br>
 R: Touch, D: Mom, T: Ind<br>
-The target shivers like an unwanted baby left alone in a cold and frosty dell, losing a Fatigue level. Repeated casting of this spell can cause the character to eventually become unconscious; this usually takes 5 castings. Mastering this spell with the Multiple Casting mastery can reduce the time that this takes. Once the target is unconscious, additional castings of the spell increase the length of time that the target naturally remains unconscious (see *Ars Magica Fifth Edition*, page 179)
+The target shivers like an unwanted baby left alone in a cold and frosty dell, losing a Fatigue level. Repeated casting of this spell can cause the character to eventually become unconscious; this usually takes 5 castings. Mastering this spell with the Multiple Casting mastery can reduce the time that this takes. Once the target is unconscious, additional castings of the spell increase the length of time that the target naturally remains unconscious (see [*Ars Magica Fifth Edition*, page 179](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>))
 
 If the target is unconscious at either sunrise or sunset, then his Parma Magica will go down.
 
@@ -6829,7 +6831,7 @@ Source: *Hermetic Projects*, 84
 ##### Chill Touch of Exposure
 PeIg 5<br>
 R: Touch, D: Mom, T: Ind<br>
-The target shivers like an unwanted baby left alone in a cold and frosty dell. The target loses a Fatigue level. Repeated casting of this spell can cause the character to eventually become unconscious; this usually takes 5 castings (see *Ars Magica Fifth Edition*, page 178). Ariane has learned this spell to cast down an Intangible Tunnel.
+The target shivers like an unwanted baby left alone in a cold and frosty dell. The target loses a Fatigue level. Repeated casting of this spell can cause the character to eventually become unconscious; this usually takes 5 castings (see [*Ars Magica Fifth Edition*, page 178](<Ars Magica 5e - Core Rules.md#page-178>) / [Definitive Edition, page 403](<Ars Magica - Definitive Edition (Core Rules).md#encumbrance>)). Ariane has learned this spell to cast down an Intangible Tunnel.
 
 (Base 4, +1 Touch)<br>
 Source: *Through the Aegis*, 79
@@ -6872,7 +6874,7 @@ Causes the target to feel a chill and lose body heat. The target loses a Fatigue
 (Base 4, +2 Voice)<br>
 Source: *Ars Magica Fifth Edition*, 142
 
-<!-- p. 125 -->
+<!-- p. 125 --><a id="page-125"></a>
 
 #### LEVEL 15
 
@@ -6930,7 +6932,7 @@ The spell must be targeted at an object, individual, or other specific point in 
 (Base 3, +2 Voice, +1 Diameter, +1 Part, +1 Size)<br>
 Source: *Magi of Hermes*, 133
 
-<!-- p. 126 -->
+<!-- p. 126 --><a id="page-126"></a>
 
 ##### Quench the Raging Conflagration
 PeIg 20<br>
@@ -6996,7 +6998,7 @@ The sun is eclipsed within the target area, making it as dark as night. The dark
 (Base 2, +1 Touch, +1 Diameter, +4 Bound, +3 size)<br>
 Source: *Ars Magica Fifth Edition*, 142
 
-<!-- p. 127 -->
+<!-- p. 127 --><a id="page-127"></a>
 
 #### LEVEL 45
 
@@ -7005,12 +7007,12 @@ PeIg 45<br>
 R: Touch, D: Year, T: Bound, Ritual<br>
 This ritual creates a domain of darkness in the designated Boundary, which can cover an area with a diameter of nearly 1000 paces. No natural light that is brighter than a soft evening glow is ever shed within its Boundary, regardless of the season or time of day. Due to the continuous lack of sun, the whole area becomes cold and uncomfortable for living beings. Warm air from outside is not actively resisted, but almost never reaches the center of the domain. Even fires created by mundane or magical means appear weak, and only dimly lit. Plants within the Boundary turn to leafless caricatures of life sooner or later. Note that a Boundary requires a well-defined border, such as the tree line of a grove, the cliffs of a steep valley, or the shore of an island.
 
-A brief note on the specific use of this spell that should not to be mistaken for traits or side-effects of the spell itself: The area affected by *Domain of Darkness* provides a haven for all creatures that shun the light. It represents Tolides' latest attempt to establish some sort of abode in a domain of his own. Because the affected Boundary is inhabited by a practicing diabolist, and the ritual needed to cast the spell is often powered by Infernal vis, the aura of the Boundary slowly but steadily accumulates more and more traits of Infernal Warping. For example, animals that stay inside the domain for an extended period of time are likely to turn into Corrupted Beasts — repellent aberrations of nature (*Realms of Power: The Infernal*, page 77). One day, the affected Boundary might even become a regio of its own, which is exactly what Tolides has planned.
+A brief note on the specific use of this spell that should not to be mistaken for traits or side-effects of the spell itself: The area affected by *Domain of Darkness* provides a haven for all creatures that shun the light. It represents Tolides' latest attempt to establish some sort of abode in a domain of his own. Because the affected Boundary is inhabited by a practicing diabolist, and the ritual needed to cast the spell is often powered by Infernal vis, the aura of the Boundary slowly but steadily accumulates more and more traits of Infernal Warping. For example, animals that stay inside the domain for an extended period of time are likely to turn into Corrupted Beasts — repellent aberrations of nature ([*Realms of Power: The Infernal*, page 77](<Ars Magica 5e - Realms of Power - The Infernal.md#chapter-8-corrupted-beasts>)). One day, the affected Boundary might even become a regio of its own, which is exactly what Tolides has planned.
 
 (Base 2, +1 Touch, +4 Year, +4 Boundary, +2 Size)<br>
 Source: *Magi of Hermes*, 133
 
-<!-- p. 128 -->
+<!-- p. 128 --><a id="page-128"></a>
 
 ### Rego Ignem Spells
 
@@ -7056,7 +7058,7 @@ This spell sometimes encloses an entire laboratory, but is of limited usefulness
 (Base 4, +1 Touch, +2 Ring)<br>
 Source: *Covenants*, 104
 
-<!-- p. 129 -->
+<!-- p. 129 --><a id="page-129"></a>
 
 #### LEVEL 20
 
@@ -7110,7 +7112,7 @@ This spell causes a fire to explode outwards from its source along the ground, a
 (Base 10 (4 + 2 magnitudes for the intensity of the fire), +3 Sight)<br>
 Source: *Ars Magica Fifth Edition*, 143
 
-<!-- p. 130 -->
+<!-- p. 130 --><a id="page-130"></a>
 
 ##### Discriminating Flames
 ReIg 25<br>
@@ -7164,7 +7166,7 @@ Summons the target airy spirit associated with Ignem into the caster's presence.
 (Base: 15, +4 Arcane Connection)<br>
 Source: *Through the Aegis*, 105
 
-<!-- p. 131 -->
+<!-- p. 131 --><a id="page-131"></a>
 
 ##### Unified Flame
 ReIg 35<br>
@@ -7207,7 +7209,7 @@ This spell conglomerates other wards into a single working. It holds at bay many
 (As *Ward Against Curious Scullion*, +4 requisites)<br>
 Source: *Covenants*, 104
 
-<!-- p. 132 -->
+<!-- p. 132 --><a id="page-132"></a>
 
 ## The Art of Imaginem
 
@@ -7264,7 +7266,7 @@ This illusion creates a Roman soldier. The soldier responds to the mental direct
 (Base 1 (illusion affecting 1 sense), +1 Touch, +1 Concentration, +2 coordinate complex movements of the illusion, +1 Rego requisite.)<br>
 Source: *Apprentices*, 58
 
-<!-- p. 133 -->
+<!-- p. 133 --><a id="page-133"></a>
 
 ##### Fooling the Eye
 CrIm 10<br>
@@ -7320,7 +7322,7 @@ Creates illusionary music from a direction that the caster specifies. A full tro
 (Base 1, +2 Voice, +1 Concentration, +2 change at command, +1 intricacy)<br>
 Source: *Magi of Hermes*, 22
 
-<!-- p. 134 -->
+<!-- p. 134 --><a id="page-134"></a>
 
 #### LEVEL 20
 
@@ -7375,7 +7377,7 @@ Makes an image of a clothed and equipped person that can make noise. Under your 
 (Base 2, +2 Voice, +2 Sun, +2 move at your command, +1 intricacy)<br>
 Source: *Ars Magica Fifth Edition*, 144
 
-<!-- p. 135 -->
+<!-- p. 135 --><a id="page-135"></a>
 
 ##### The First Furrow Guides the Second
 Cr(In)Im 25<br>
@@ -7390,7 +7392,7 @@ Source: *Covenants*, 97
 Cr(In)Im 25<br>
 R: Voice, D: Sun, T: Group<br>
 Req: Intellego<br>
-This spell lays the image of a book's page over the top of a blank sheet, so that a scribe can trace the page's content. This creates identical copies of books. Used repeatedly over the course of a season, it can assist in the creation of copies of Hermetic books, allowing an unskilled magus to copy books even without having the Profession: Scribe Ability. (Note: this spell's description has been modified from when it first appeared in *Covenants*, page 97, where it erroneously implies that a magus without Profession: Scribe has a –3 penalty to any totals requiring that Ability)
+This spell lays the image of a book's page over the top of a blank sheet, so that a scribe can trace the page's content. This creates identical copies of books. Used repeatedly over the course of a season, it can assist in the creation of copies of Hermetic books, allowing an unskilled magus to copy books even without having the Profession: Scribe Ability. (Note: this spell's description has been modified from when it first appeared in [*Covenants*, page 97](<Ars Magica 5e - Covenants.md#spells>), where it erroneously implies that a magus without Profession: Scribe has a –3 penalty to any totals requiring that Ability)
 
 (Base 1, +2 Voice, +2 Sun, +2 Group, +1 changes as pages turn, +1 requisite)<br>
 Source: *Transforming Mythic Europe*, 100
@@ -7433,7 +7435,7 @@ A copy of the object given substance appears by the side of the entranced body o
 (Base 25, +1 Touch)<br>
 Source: *The Mysteries*, 109
 
-<!-- p. 136 -->
+<!-- p. 136 --><a id="page-136"></a>
 
 ##### To Mark With Umbrage
 CrIm 30<br>
@@ -7485,13 +7487,13 @@ This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a
 (Base 10, +1 Touch, +2 Sun, +1 Mentem requisite, +1 copy of someone, +1 moving parts)<br>
 Source: *Magi of Hermes*, 124
 
-<!-- p. 137 -->
+<!-- p. 137 --><a id="page-137"></a>
 
 ##### Image of the Lady
 CrIm(Me) 40<br>
 R: Touch, D: Ring, T: Circle<br>
 Req: Mentem<br>
-Similar to *Book of Images* and the spell *The Shadow of Human Life* (*Ars Magica Fifth Edition*, page 144) this spell creates an image of a person, which can also make sounds, within a ring that serves as a frame. This image has limited freedom and a simulated intellect. He or she cannot learn Abilities, but can remember a story told while casting the spell. Such an image can also work as a guard or similar. In Scipio's home covenant these pictures hang on almost every wall, working as advisors for slow grogs, as monitors in the kitchens, or as sentries. Due to experimentation, Scipio's version of this spell creates images that need to sleep and eat illusionary meals.
+Similar to *Book of Images* and the spell *The Shadow of Human Life* ([*Ars Magica Fifth Edition*, page 144](<Ars Magica 5e - Core Rules.md#the-shadow-of-human-life>) / [Definitive Edition, page 349](<Ars Magica - Definitive Edition (Core Rules).md#the-shadow-of-human-life>)) this spell creates an image of a person, which can also make sounds, within a ring that serves as a frame. This image has limited freedom and a simulated intellect. He or she cannot learn Abilities, but can remember a story told while casting the spell. Such an image can also work as a guard or similar. In Scipio's home covenant these pictures hang on almost every wall, working as advisors for slow grogs, as monitors in the kitchens, or as sentries. Due to experimentation, Scipio's version of this spell creates images that need to sleep and eat illusionary meals.
 
 (Base 2, +1 Touch, +2 Sun, +1 intricacy, +6 Mentem requisite, for a very elaborate effect)<br>
 Source: *Magi of Hermes*, 124
@@ -7519,12 +7521,12 @@ Source: *Magi of Hermes*, 125
 CrIm(Me) 45<br>
 R: Touch, D: Year, T: Bound, Ritual<br>
 Req: Mentem<br>
-Similar to *The Shrouded Glen* (*Ars Magica Fifth Edition*, page 152), this spell enchants the Boundary in which the ritual is cast so that anyone moving through it is not only subtly diverted, but believes the space within the Boundary is filled with the image of the terrain of the caster's choice, usually identical to the area surrounding it. This image affects the senses of sight, touch, and hearing.
+Similar to *The Shrouded Glen* ([*Ars Magica Fifth Edition*, page 152](<Ars Magica 5e - Core Rules.md#the-shrouded-glen>) / [Definitive Edition, page 358](<Ars Magica - Definitive Edition (Core Rules).md#the-shrouded-glen>)), this spell enchants the Boundary in which the ritual is cast so that anyone moving through it is not only subtly diverted, but believes the space within the Boundary is filled with the image of the terrain of the caster's choice, usually identical to the area surrounding it. This image affects the senses of sight, touch, and hearing.
 
 (Base 3, +1 Touch, +4 Year, +4 Boundary, +1 Mentem Req.)<br>
 Source: *Dies Irae*, 69
 
-<!-- p. 138 -->
+<!-- p. 138 --><a id="page-138"></a>
 
 ### Intellego Imaginem Spells
 
@@ -7582,7 +7584,7 @@ The magus can see and hear the nearest person on the road he is traveling.
 (Base 2, +2 Road, +1 Concentration)<br>
 Source: *Magi of Hermes*, 125
 
-<!-- p. 139 -->
+<!-- p. 139 --><a id="page-139"></a>
 
 #### LEVEL 10
 
@@ -7654,7 +7656,7 @@ You can hear what is happening in the place you designate. You must have an Arca
 (Base 1, +4 Arcane Connection, +1 Concentration, +2 Room)<br>
 Source: *Ars Magica Fifth Edition*, 145
 
-<!-- p. 140 -->
+<!-- p. 140 --><a id="page-140"></a>
 
 ##### The Scrying Pool
 InIm 20<br>
@@ -7714,7 +7716,7 @@ While using this spell, the magus can see and hear what's happening in a distant
 (Base 2, +4 Arcane Connection, +2 Sun, +2 Group)<br>
 Source: *Magi of Hermes*, 40
 
-<!-- p. 141 -->
+<!-- p. 141 --><a id="page-141"></a>
 
 ### Muto Imaginem Spells
 
@@ -7780,7 +7782,7 @@ It may be possible to apply the spell to the spoken word, perhaps to an orator o
 (Base 1, +3 Sight, +1 Concentration)<br>
 Source: *Magi of Hermes*, 140
 
-<!-- p. 142 -->
+<!-- p. 142 --><a id="page-142"></a>
 
 ##### Taste of the Spices and Herbs
 MuIm 5<br>
@@ -7819,7 +7821,7 @@ Source: *Houses of Hermes – Societates*, 96
 ##### Aura of Childlike Innocence
 MuIm 10<br>
 R: Touch, D: Sun, T: Ind<br>
-This spell is a variant of *Aura of Ennobled Presence*, except that it causes the target to appear more guileless, gullible, and naïve. The character gets a +3 to rolls to deflect suspicion or convince others of his innocence. To those affected by the caster's Gift, his apparent innocence and unblemished honor appears sanctimonious and self-righteous (originally in *Houses of Hermes: Societates*, page 96).
+This spell is a variant of *Aura of Ennobled Presence*, except that it causes the target to appear more guileless, gullible, and naïve. The character gets a +3 to rolls to deflect suspicion or convince others of his innocence. To those affected by the caster's Gift, his apparent innocence and unblemished honor appears sanctimonious and self-righteous (originally in [*Houses of Hermes: Societates*, page 96](<Ars Magica 5e - Houses of Hermes - Societates.md>)).
 
 (Base 3, +1 Touch, +2 Sun)<br>
 Source: *Magi of Hermes*, 91
@@ -7842,7 +7844,7 @@ Aurulentus used this spell on his daughters to test whether their suitors were r
 (Base 3, +1 Touch, +2 Sun)<br>
 Source: *Magi of Hermes*, 22
 
-<!-- p. 143 -->
+<!-- p. 143 --><a id="page-143"></a>
 
 ##### Notes of a Delightful Sound
 MuIm 10<br>
@@ -7914,7 +7916,7 @@ This spell makes the traces of sweat left by a person visible, by transforming t
 (Base 2, +3 Sight, +1 Concentration, +2 Group)<br>
 Source: *Houses of Hermes – Societates*, 65
 
-<!-- p. 144 -->
+<!-- p. 144 --><a id="page-144"></a>
 
 ##### Image Phantom
 MuIm 20<br>
@@ -7979,7 +7981,7 @@ You change the targets' smell (up to 100 people) in such a disgusting and awful 
 (Base 1, +2 Voice, +2 Sun, +2 Group, +1 size, +2 very "detailed" smell)<br>
 Source: *Magi of Hermes*, 125
 
-<!-- p. 145 -->
+<!-- p. 145 --><a id="page-145"></a>
 
 #### LEVEL 35
 
@@ -8010,7 +8012,7 @@ This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) turns a n
 (Base 10, +2 Voice, +3 Fire, +1 Mentem requisite, +1 moving parts)<br>
 Source: *Magi of Hermes*, 125
 
-<!-- p. 146 -->
+<!-- p. 146 --><a id="page-146"></a>
 
 ### Perdo Imaginem Spells
 
@@ -8082,7 +8084,7 @@ Due to his Quiet Magic, this limitation doesn't impair Tolides much, unless he w
 (Base 3, +1 Touch, +1 Diameter, +2 Room)<br>
 Source: *Magi of Hermes*, 133
 
-<!-- p. 147 -->
+<!-- p. 147 --><a id="page-147"></a>
 
 ##### Hiding the Ill-Bred Bard
 PeIm 15<br>
@@ -8152,7 +8154,7 @@ Causes a Group of creatures to become invisible. Any affected character who move
 (Base 4, +1 Touch, +2 Sun, +2 Group)<br>
 Source: *Ars Magica Fifth Edition*, 146
 
-<!-- p. 148 -->
+<!-- p. 148 --><a id="page-148"></a>
 
 ##### Invisible Arms
 Pe(Cr)Im 25<br>
@@ -8176,7 +8178,7 @@ Makes the wall, and everything within it, invisible, no matter what the resident
 (Base 4, +1 Touch, +2 Sun, +4 Bound, +1 requisite, +1 changing image)<br>
 Source: *Transforming Mythic Europe*, 74
 
-<!-- p. 149 -->
+<!-- p. 149 --><a id="page-149"></a>
 
 ### Rego Imaginem Spells
 
@@ -8238,7 +8240,7 @@ Make a disembodied spirit of Imaginem obey the caster so long as she can coerce 
 (Base 5, +2 Voice, +1 Diam)<br>
 Source: *Legends of Hermes*, 65
 
-<!-- p. 150 -->
+<!-- p. 150 --><a id="page-150"></a>
 
 #### LEVEL 25
 
@@ -8289,7 +8291,7 @@ Moves the image of any bounded structure or set of structures the size of a cast
 (Base 10, +2 Voice, +2 Sun, +4 Bound)<br>
 Source: *Ars Magica Fifth Edition*, 147
 
-<!-- p. 151 -->
+<!-- p. 151 --><a id="page-151"></a>
 
 ## The Art of Mentem
 
@@ -8365,7 +8367,7 @@ This spell creates a thought in the imagination of the target, causing him to lo
 (Base 4, +3 Sight)<br>
 Source: *Art & Academe*, 32
 
-<!-- p. 152 -->
+<!-- p. 152 --><a id="page-152"></a>
 
 ##### Meet Me at Midnight
 CrMe 15<br>
@@ -8406,7 +8408,7 @@ This spell inserts a recollection of the caster into the target's memory. The me
 
 The nature and context of the memory is determined when the spell is cast.
 
-Even fond or favorable memories are not enough to counteract the effects of The Gift, but the guidelines in *Ars Magica Fifth Edition*, page 76, give an idea how the memory of an established relationship influences behavior.
+Even fond or favorable memories are not enough to counteract the effects of The Gift, but the guidelines in [*Ars Magica Fifth Edition*, page 76](<Ars Magica 5e - Core Rules.md#the-gift>) / [Definitive Edition, page 63](<Ars Magica - Definitive Edition (Core Rules).md#the-gift>), give an idea how the memory of an established relationship influences behavior.
 
 In later years, Yestin mastered this spell such that he can cast it both quietly and without the normal Hermetic gestures.
 
@@ -8433,7 +8435,7 @@ This ritual may create loci outside and above the normal limit of five per room,
 (Base 5, +1 Touch, minimum 20 for Ritual Magic)<br>
 Source: *The Mysteries*, 27
 
-<!-- p. 153 -->
+<!-- p. 153 --><a id="page-153"></a>
 
 ##### Convince a Man he has an Enemy
 CrMe 20<br>
@@ -8483,7 +8485,7 @@ Magically created loci may exceed the limit on loci in memory: count them separa
 (base 5, +3 Moon)<br>
 Source: *The Mysteries*, 26
 
-<!-- p. 154 -->
+<!-- p. 154 --><a id="page-154"></a>
 
 ##### Gossip of the Marketplace
 Cr(Re)Me 20<br>
@@ -8505,9 +8507,9 @@ Source: *Ars Magica Fifth Edition*, 148
 ##### Orpheus' Ballad
 CrMe 20<br>
 R: Voice, D: Mom, T: Group<br>
-The spell creates a momentary flash of intense unnatural fear, despair, and woe in the minds of the assailants, attacking their estimation (*Art & Academe*, page 32). Each target in turn, starting from the target closest to the caster, attempts a Brave Personality Roll against an Ease Factor of 9 or flees the scene. This roll is modified by –1 for each other member of the group who fails his roll; the more who flee, the less resolve the others have.
+The spell creates a momentary flash of intense unnatural fear, despair, and woe in the minds of the assailants, attacking their estimation ([*Art & Academe*, page 32](<Ars Magica 5e - Art & Academe.md#estimation>)). Each target in turn, starting from the target closest to the caster, attempts a Brave Personality Roll against an Ease Factor of 9 or flees the scene. This roll is modified by –1 for each other member of the group who fails his roll; the more who flee, the less resolve the others have.
 
-The magic of the spell is carried on the caster's own scream, and extends out as far as the caster's voice would normally carry at a high volume (in excess of 50 paces). The magic of the spell affects the group of individuals in front of and closest to the caster. The individuals must still constitute a group as per *Ars Magica Fifth Edition*, page 113.
+The magic of the spell is carried on the caster's own scream, and extends out as far as the caster's voice would normally carry at a high volume (in excess of 50 paces). The magic of the spell affects the group of individuals in front of and closest to the caster. The individuals must still constitute a group as per [*Ars Magica Fifth Edition*, page 113](<Ars Magica 5e - Core Rules.md#groups>) / [Definitive Edition, page 395](<Ars Magica - Definitive Edition (Core Rules).md#groups>).
 
 Yestin devised the spell after he was set upon by brigands along the road from Winchester to the Isle of Oxney near Rye. He was lucky to escape their clutches after their first meeting, and ensured that he was prepared for their next. The spell is named for all the grief suffered by Orpheus, who lost so much on leaving the underworld.
 
@@ -8547,7 +8549,7 @@ The victims of this spell are overcome with a terrible fear of the source of the
 (Base 4, Diameter +1, Spectacle +3)<br>
 Source: *Through the Aegis*, 43
 
-<!-- p. 155 -->
+<!-- p. 155 --><a id="page-155"></a>
 
 ##### The Subtle Burn of Desire
 CrMe 20<br>
@@ -8589,7 +8591,7 @@ The Library of Durenmar is permanently enchanted to prevent this Ritual from bei
 (Base 5, +4 magnitude for complexity)<br>
 Source: *The Mysteries*, 27
 
-<!-- p. 156 -->
+<!-- p. 156 --><a id="page-156"></a>
 
 ##### My New Best Friend
 Cr(Mu)Me 25<br>
@@ -8632,7 +8634,7 @@ The caster must either have an Arcane Connection to, or otherwise be able to sen
 (Base 3, +3 Veil, +1 Concentration, + Group)<br>
 Source: *Ancient Magic*, 32
 
-<!-- p. 157 -->
+<!-- p. 157 --><a id="page-157"></a>
 
 ##### To Sing of Good Meat and Drink
 CrMe 25<br>
@@ -8694,7 +8696,7 @@ Characters who are already affected by this ritual do not gain additional benefi
 (Base Effect, non-Hermetic)<br>
 Source: *Mythic Locations*, 99
 
-<!-- p. 158 -->
+<!-- p. 158 --><a id="page-158"></a>
 
 ##### The Irresistible Pressgang
 CrMe 35<br>
@@ -8742,7 +8744,7 @@ Often cast at a midwinter gathering of the covenant under the pretense of a cele
 (Base 4, +2 Voice, +4 Year, +2 Group, +2 Size)<br>
 Source: *Covenants*, 41
 
-<!-- p. 159 -->
+<!-- p. 159 --><a id="page-159"></a>
 
 #### LEVEL 60
 
@@ -8754,7 +8756,7 @@ Each of the four variations of this ritual permanently increases one of the subj
 (Base 55, +1 Touch)<br>
 Source: *Houses of Hermes – True Lineages*, 103
 
-<!-- p. 160 -->
+<!-- p. 160 --><a id="page-160"></a>
 
 ### Intellego Mentem Spells
 
@@ -8825,7 +8827,7 @@ Tabanus casts this spell with considerable caution and minimal Penetration, so a
 (Base 5, +1 Touch, +2 Room)<br>
 Source: *Guardians of the Forest*, 21
 
-<!-- p. 161 -->
+<!-- p. 161 --><a id="page-161"></a>
 
 ##### Posing the Silent Question
 InMe 20<br>
@@ -8856,7 +8858,7 @@ Source: *Magi of Hermes*, 92
 ##### Music of the Unwanted Attention
 InMe 25<br>
 R: Per, D: Mom, T: Hearing<br>
-The caster is able to sense anyone who is currently aware of her. A person's attention, regardless how fleeting, is heard as a musical chime, and each individual is represented by a different tone. She doesn't detect any information about them other than they are aware of her existence. The information gained from this spell is only relevant for the moment that the spell is cast, and is only applicable to those who have an active interest in the caster's presence. This spell operates by interrogating the common sense (see *Art & Academe*, page 33) for images of the caster.
+The caster is able to sense anyone who is currently aware of her. A person's attention, regardless how fleeting, is heard as a musical chime, and each individual is represented by a different tone. She doesn't detect any information about them other than they are aware of her existence. The information gained from this spell is only relevant for the moment that the spell is cast, and is only applicable to those who have an active interest in the caster's presence. This spell operates by interrogating the common sense (see [*Art & Academe*, page 33](<Ars Magica 5e - Art & Academe.md#common-sense>)) for images of the caster.
 
 (Base 10, +3 Hearing)<br>
 Source: *Magi of Hermes*, 92
@@ -8869,7 +8871,7 @@ You can understand the speech of those within the target area. Perception or Com
 (Base 5, +1 Concentration, +3 Hearing)<br>
 Source: *Ars Magica Fifth Edition*, 149
 
-<!-- p. 162 -->
+<!-- p. 162 --><a id="page-162"></a>
 
 #### LEVEL 30
 
@@ -8892,7 +8894,7 @@ Source: *Art & Academe*, 33
 ##### Borrow the Eyes of Another
 InMe 30<br>
 R: Arc, D: Conc, T: Ind<br>
-The caster can see through the eyes of anyone to whom he has an Arcane Connection (*Art & Academe*, page 33). Similarly, the spell *Borrow the Ears of Another* lets the caster hear through the ears of anyone to whom he has an Arcane Connection.
+The caster can see through the eyes of anyone to whom he has an Arcane Connection ([*Art & Academe*, page 33](<Ars Magica 5e - Art & Academe.md>)). Similarly, the spell *Borrow the Ears of Another* lets the caster hear through the ears of anyone to whom he has an Arcane Connection.
 
 (Base 5, +4 Arcane Connection, +1 Concentration)<br>
 Source: *Tales of Power*, 12
@@ -8908,7 +8910,7 @@ Source: *Houses of Hermes – True Lineages*, 73
 ##### Familial Secrets
 InMe 30<br>
 R: Per, D: Mom, T: Bloodline, Faerie<br>
-By casting this spell, the magus learns what all of his descendants believe to be the answer to a question chosen by the magus at the time of casting. This spell functions in a manner similar to the spell *Posing the Silent Question* (*Ars Magica Fifth Edition* page 149). It is not always obvious to the caster which answer came from which descendant. To be certain which descendant a particular answer came from, the caster must typically make a Perception + Awareness roll against an Ease Factor of 3 plus the number of descendants that are affected by the spell (this Ease Factor can be higher if the caster is unfamiliar with some of his or her descendants). The caster does not need to possess Arcane Connections to his descendants for this spell to function. This spell works through the connection of blood. Lambert specifically designed *Familial Secrets* to not Warp members of his bloodline (*Ars Magica Fifth Edition* page 92).
+By casting this spell, the magus learns what all of his descendants believe to be the answer to a question chosen by the magus at the time of casting. This spell functions in a manner similar to the spell *Posing the Silent Question* ([*Ars Magica Fifth Edition* page 149](<Ars Magica 5e - Core Rules.md#posing-the-silent-question>) / [Definitive Edition, page 354](<Ars Magica - Definitive Edition (Core Rules).md#posing-the-silent-question>)). It is not always obvious to the caster which answer came from which descendant. To be certain which descendant a particular answer came from, the caster must typically make a Perception + Awareness roll against an Ease Factor of 3 plus the number of descendants that are affected by the spell (this Ease Factor can be higher if the caster is unfamiliar with some of his or her descendants). The caster does not need to possess Arcane Connections to his descendants for this spell to function. This spell works through the connection of blood. Lambert specifically designed *Familial Secrets* to not Warp members of his bloodline ([*Ars Magica Fifth Edition* page 92](<Ars Magica 5e - Core Rules.md#page-92>)).
 
 (Base 15, +3 Bloodline)<br>
 Source: *Magi of Hermes*, 66
@@ -8929,7 +8931,7 @@ You can thoroughly probe and understand the contents of the mind of the target, 
 (Base 25, +1 Eye)<br>
 Source: *Ars Magica Fifth Edition*, 149
 
-<!-- p. 163 -->
+<!-- p. 163 --><a id="page-163"></a>
 
 ##### Revelation of a Hundred Sinful Thoughts
 InMe 30<br>
@@ -8980,7 +8982,7 @@ InMe 30<br>
 R: Road, D: Diam, T: Group, Faerie<br>
 The caster learns the number, state of consciousness, direction and distance to the nearest group of minds on the road he is on in one direction (apart from any group that the caster is in). The caster continues to sense this information for the duration of the spell.
 
-This spell and similar magics are common among members of House Merinita. Road Range provides practitioners of Faerie Magic with a tool that can cast spells at very long ranges fairly easily. Such spells, however, can not be cast on targets that are not sensed because of the law of Arcane Connections (*Ars Magica Fifth Edition* page 80). *Tread of Fellow Travelers* allows the caster to sense targets and thereby cast other spells of Range Road upon them. (Members of House Merinita have developed similar spells using other Hermetic Forms).
+This spell and similar magics are common among members of House Merinita. Road Range provides practitioners of Faerie Magic with a tool that can cast spells at very long ranges fairly easily. Such spells, however, can not be cast on targets that are not sensed because of the law of Arcane Connections ([*Ars Magica Fifth Edition* page 80](<Ars Magica 5e - Core Rules.md#arcane-connections>) / [Definitive Edition, page 219](<Ars Magica - Definitive Edition (Core Rules).md#arcane-connections>)). *Tread of Fellow Travelers* allows the caster to sense targets and thereby cast other spells of Range Road upon them. (Members of House Merinita have developed similar spells using other Hermetic Forms).
 
 (Base 5, +2 Road, +1 Diameter, +2 Group)<br>
 Source: *Magi of Hermes*, 66
@@ -8990,12 +8992,12 @@ Source: *Magi of Hermes*, 66
 ##### Oath Breaker's Confession
 InMe 35<br>
 R: Eye, D: Bargain/Mom, T: Ind, Faerie<br>
-Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target and only takes effect if the target breaks her part of the bargain within one year (*Ars Magica Fifth Edition* page 92). If it should come to pass that the target of *Oath Breaker's Confession* breaks her agreement, then the caster instantly becomes aware that the bargain has been broken and also learns exactly why and how the target believes that she broke the agreement.
+Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target and only takes effect if the target breaks her part of the bargain within one year ([*Ars Magica Fifth Edition* page 92](<Ars Magica 5e - Core Rules.md#bargain>) / [Definitive Edition, page 161](<Ars Magica - Definitive Edition (Core Rules).md#bargain>)). If it should come to pass that the target of *Oath Breaker's Confession* breaks her agreement, then the caster instantly becomes aware that the bargain has been broken and also learns exactly why and how the target believes that she broke the agreement.
 
 (Base 15, +1 Eye, +3 Momentary & Bargain)<br>
 Source: *Magi of Hermes*, 67
 
-<!-- p. 164 -->
+<!-- p. 164 --><a id="page-164"></a>
 
 ##### Opinions of the Masses
 InMe 35<br>
@@ -9021,7 +9023,7 @@ This spell was developed by a *magos* who wanted to hear his True Love's voice a
 (Base 15, +4 *Adelphixis*, +4 Year, +1 Creo to send words)<br>
 Source: *Houses of Hermes – Societates*, 123
 
-<!-- p. 165 -->
+<!-- p. 165 --><a id="page-165"></a>
 
 ### Muto Mentem Spells
 
@@ -9038,7 +9040,7 @@ Source: *Ars Magica Fifth Edition*, 149
 ##### Recollection of Memories Never Quite Lived
 MuMe 4<br>
 R: Eye, D: Sun, T: Ind<br>
-As the spell listed in *Ars Magica Fifth Edition*, page 149.
+As the spell listed in [*Ars Magica Fifth Edition*, page 149](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 Source: *Magi of Hermes*, 102
 
@@ -9081,7 +9083,7 @@ Anyone hearing the caster's battle cry is heartened by its tone, and receives a 
 (Base 3, +1 Diameter, +3 Sound)<br>
 Source: *Houses of Hermes – Mystery Cults*, 29
 
-<!-- p. 166 -->
+<!-- p. 166 --><a id="page-166"></a>
 
 ##### Enchantment of the Pedestrian Pigeon
 MuMe 15<br>
@@ -9110,7 +9112,7 @@ Source: *Hooks*, 37
 ##### The Generous Patron
 MuMe 15<br>
 R: Voice, D: Sun, T: Ind<br>
-This spell changes the common sense (see *Art and Academe*, page 33) of the target. He cannot estimate the true worth of his belongings and is likely to give more of them for less.
+This spell changes the common sense (see [*Art and Academe*, page 33](<Ars Magica 5e - Art & Academe.md#common-sense>)) of the target. He cannot estimate the true worth of his belongings and is likely to give more of them for less.
 
 (Base 3, +2 Voice, +2 Sun)<br>
 Source: *Magi of Hermes*, 126
@@ -9148,7 +9150,7 @@ The spiritual traveler appears in the dream with his clothes, a dream copy of hi
 (Base: 15, +1 Dream duration)<br>
 Source: *The Mysteries*, 104
 
-<!-- p. 167 -->
+<!-- p. 167 --><a id="page-167"></a>
 
 #### LEVEL 25
 
@@ -9165,7 +9167,7 @@ Source: *Houses of Hermes – Societates*, 70
 ##### The Unbidden Task
 MuMe 25<br>
 R: Eye, D: Moon, T: Ind<br>
-This spell creates a simple prospective memory in the target, which repeats itself so often that the target infers a reason for the memory. Simple memories, like, "I need to leave the back door unlocked tomorrow night" draw out reasonable inferences like, "because his lordship is sneaking out for a night on the town after her ladyship falls asleep." Characters cannot be convinced to do things that are dangerous unless the character regularly faces that sort of danger as part of his profession. *Houses of Hermes: Societates* page 70.
+This spell creates a simple prospective memory in the target, which repeats itself so often that the target infers a reason for the memory. Simple memories, like, "I need to leave the back door unlocked tomorrow night" draw out reasonable inferences like, "because his lordship is sneaking out for a night on the town after her ladyship falls asleep." Characters cannot be convinced to do things that are dangerous unless the character regularly faces that sort of danger as part of his profession. [*Houses of Hermes: Societates* page 70](<Ars Magica 5e - Houses of Hermes - Societates.md>).
 
 (Base 5, +1 Eye, +3 Moon)<br>
 Source: *Hooks*, 37
@@ -9175,7 +9177,7 @@ Source: *Hooks*, 37
 ##### Apollo's Fearful Gaze
 MuMe 30<br>
 R: Voice, D: Sun, T: Ind<br>
-This horrific spell rewrites the target's common sense, so that light induces pain signals (*Art and Academe*, page 33). The brighter the light, the stronger the pain sensed. Note that the pain isn't caused by any wounds, and will disappear as soon as the spell ends, or when the target is no longer exposed to light.
+This horrific spell rewrites the target's common sense, so that light induces pain signals ([*Art and Academe*, page 33](<Ars Magica 5e - Art & Academe.md#common-sense>)). The brighter the light, the stronger the pain sensed. Note that the pain isn't caused by any wounds, and will disappear as soon as the spell ends, or when the target is no longer exposed to light.
 
 | Light Source | Penalty |
 |---|---|
@@ -9205,7 +9207,7 @@ This spell alters the victim's memories of their dreams, so that they recall a p
 (Base 3, +4 Arcane Connection, +3 Moon)<br>
 Source: *Houses of Hermes – True Lineages*, 140
 
-<!-- p. 168 -->
+<!-- p. 168 --><a id="page-168"></a>
 
 ##### Mind of the Beast
 MuMe(An) 30<br>
@@ -9261,7 +9263,7 @@ This spell causes a group of intelligent beings in the Mentem province of the Tw
 (Base 15, +1 Touch, +1 Diameter, +2 Group)<br>
 Source: *Realms of Power – Magic*, 27
 
-<!-- p. 169 -->
+<!-- p. 169 --><a id="page-169"></a>
 
 #### LEVEL 40
 
@@ -9309,7 +9311,7 @@ The spiritual travelers appear in the dream with their clothes, a dream copy of 
 (Base: 30, +1 Touch, +1 Dream duration)<br>
 Source: *The Mysteries*, 104
 
-<!-- p. 170 -->
+<!-- p. 170 --><a id="page-170"></a>
 
 ##### Vision of the Haunting Spirits
 MuMe(Im) 40<br>
@@ -9363,7 +9365,7 @@ This spell makes the metal accouterments for an army of ghosts, up to 10,000 str
 (Base 25, +1 Touch, +3 Moon, +2 Group, +3 size)<br>
 Source: *Houses of Hermes – True Lineages*, 140
 
-<!-- p. 171 -->
+<!-- p. 171 --><a id="page-171"></a>
 
 ### Perdo Mentem Spells
 
@@ -9429,7 +9431,7 @@ Causes the target to forget one word of your choosing. The target cannot remembe
 (Base 3, +1 Eye, +1 Diam)<br>
 Source: *Ars Magica Fifth Edition*, 150
 
-<!-- p. 172 -->
+<!-- p. 172 --><a id="page-172"></a>
 
 #### LEVEL 10
 
@@ -9444,7 +9446,7 @@ Source: *Houses of Hermes – Societates*, 69
 ##### Breaking the Captain's Baton
 PeMe 10<br>
 R: Voice, D: Mom, T: Ind<br>
-The target ceases to be able to coordinate a squad of soldiers as a Trained Group. The memories required to use that skill are removed and do not return when the spell ends, but can be regained with simple demonstration and practice, requiring time but not experience. The target is aware that he has forgotten how to lead warriors in battle. Unless another member of the group is able to take over as leader, the squad fights as an Untrained Group instead. This is a less efficient version of *Dissolving the Wall of Shields* (*Houses of Hermes: Societates*, page 70) since it targets only the current leader rather than the entire squad.
+The target ceases to be able to coordinate a squad of soldiers as a Trained Group. The memories required to use that skill are removed and do not return when the spell ends, but can be regained with simple demonstration and practice, requiring time but not experience. The target is aware that he has forgotten how to lead warriors in battle. Unless another member of the group is able to take over as leader, the squad fights as an Untrained Group instead. This is a less efficient version of *Dissolving the Wall of Shields* ([*Houses of Hermes: Societates*, page 70](<Ars Magica 5e - Houses of Hermes - Societates.md#dissolving-the-wall-of-shields>)) since it targets only the current leader rather than the entire squad.
 
 (Base 4, +2 Voice)<br>
 Source: *Magi of Hermes*, 50
@@ -9493,7 +9495,7 @@ Removes up to five continuous minutes from a target's memory, leaving a blank. Y
 (Base 10, +1 Eye)<br>
 Source: *Ars Magica Fifth Edition*, 151
 
-<!-- p. 173 -->
+<!-- p. 173 --><a id="page-173"></a>
 
 ##### The Twice-Gifted Coin
 PeMe 15<br>
@@ -9553,7 +9555,7 @@ Reduces an adult mind to a child's level. The target solves problems, reasons, a
 (Base 10, +1 Eye, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 151
 
-<!-- p. 174 -->
+<!-- p. 174 --><a id="page-174"></a>
 
 ##### Passion's Lost Feeling
 PeMe 25<br>
@@ -9618,7 +9620,7 @@ This spell prevents the target group from falling asleep by quelling the inclina
 (Base 5, +1 Touch, +3 Moon, +2 Group)<br>
 Source: *Art & Academe*, 34
 
-<!-- p. 175 -->
+<!-- p. 175 --><a id="page-175"></a>
 
 #### LEVEL 40
 
@@ -9652,7 +9654,7 @@ Source: *Houses of Hermes – Mystery Cults*, 29
 ##### Mind Cleansed of Treachery
 PeMe 45<br>
 R: Eye, D: Bargain/Mom, T: Ind, Faerie<br>
-Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target, and only takes effect if the target breaks his part of the bargain (*Ars Magica Fifth Edition* page 92). If it should come to pass that the target of this spell breaks the agreement within a year of the date when the deal was made, then the target's memory is destroyed, removing every stored idea that the target possesses and his sense of identity. All General Abilities (including languages) are retained, but knowledge of Academic, Arcane, Martial, and Supernatural Abilities are lost, as are all Arts. The target's imagination, which stores images, is not affected, so he recognizes the faces of people he knows, places he has been, and songs he has heard, but lacks all knowledge about those things such as names, locations, emotional importance, and so forth. Lambert secured a Lab Text for this spell from the Merinita who developed it, in exchange for a copy of the Lab Text for *Oath Breaker's Confession*. Lambert wanted to have a spell that provided a profoundly serious consequence for breaking an agreement, and the creator of *Mind Cleansed of Treachery* wished to acquire a spell that left its targets in a condition that could still be negotiated with.
+Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target, and only takes effect if the target breaks his part of the bargain ([*Ars Magica Fifth Edition* page 92](<Ars Magica 5e - Core Rules.md#bargain>) / [Definitive Edition, page 161](<Ars Magica - Definitive Edition (Core Rules).md#bargain>)). If it should come to pass that the target of this spell breaks the agreement within a year of the date when the deal was made, then the target's memory is destroyed, removing every stored idea that the target possesses and his sense of identity. All General Abilities (including languages) are retained, but knowledge of Academic, Arcane, Martial, and Supernatural Abilities are lost, as are all Arts. The target's imagination, which stores images, is not affected, so he recognizes the faces of people he knows, places he has been, and songs he has heard, but lacks all knowledge about those things such as names, locations, emotional importance, and so forth. Lambert secured a Lab Text for this spell from the Merinita who developed it, in exchange for a copy of the Lab Text for *Oath Breaker's Confession*. Lambert wanted to have a spell that provided a profoundly serious consequence for breaking an agreement, and the creator of *Mind Cleansed of Treachery* wished to acquire a spell that left its targets in a condition that could still be negotiated with.
 
 (Base 25, +1 Eye, +3 Momentary & Bargain)<br>
 Source: *Magi of Hermes*, 67
@@ -9667,7 +9669,7 @@ This spell wipes the memory of the target clean, removing every stored idea and 
 (Base 25, +1 Touch, +4 Year)<br>
 Source: *Art & Academe*, 34
 
-<!-- p. 176 -->
+<!-- p. 176 --><a id="page-176"></a>
 
 #### LEVEL 65
 
@@ -9679,7 +9681,7 @@ You curse a place, be it a valley, town, city, or covenant. The curse gradually 
 (Base 4, +1 Touch, +3 Moon, +4 Bound, +5 size)<br>
 Source: *Ars Magica Fifth Edition*, 151
 
-<!-- p. 177 -->
+<!-- p. 177 --><a id="page-177"></a>
 
 ### Rego Mentem Spells
 
@@ -9759,7 +9761,7 @@ Confuses a person, who must make an Intelligence stress roll to take any direct 
 (Base 4, +1 Eye, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 151
 
-<!-- p. 178 -->
+<!-- p. 178 --><a id="page-178"></a>
 
 #### LEVEL 20
 
@@ -9827,7 +9829,7 @@ Compels target to pass on an implanted piece of information.
 (Base 3, +1 Eye, +2 Sun, +1 Rego req, +2 complexity)<br>
 Source: *Through the Aegis*, 141
 
-<!-- p. 179 -->
+<!-- p. 179 --><a id="page-179"></a>
 
 ##### Lay Your Burdens on Me
 ReMe 20<br>
@@ -9842,9 +9844,9 @@ For each subsequent day that the spell is cast on the target, the Ease Factor in
 
 If the personality check fails, the target falls prey to his conscience and seeks someone to confide in. That person may not necessarily be the caster of the spell, and will most likely be someone the target feels he can trust.
 
-The Infernal and the Dominion have a strong impact on this spell, dealing as they do with the moral aspects of human life. If the target spends time in the Dominion, the light of the Lord helps to release the truth and the level of the aura is subtracted from the target's roll. The aura's Temper (see *Realms of Power: The Divine*, page 38) also has an effect with Brave, Wise, Strong, or Just Tempers, increasing the aura's effect by 1.
+The Infernal and the Dominion have a strong impact on this spell, dealing as they do with the moral aspects of human life. If the target spends time in the Dominion, the light of the Lord helps to release the truth and the level of the aura is subtracted from the target's roll. The aura's Temper (see [*Realms of Power: The Divine*, page 38](<Ars Magica 5e - Realms of Power - The Divine (Revised).md#tempers>)) also has an effect with Brave, Wise, Strong, or Just Tempers, increasing the aura's effect by 1.
 
-If the target spends the duration of the spell within an Infernal aura, the corrupting influence of the aura reinforces the target's resolve to keep the secret. The level of the aura is added to the target's roll. The Storyguide may impose a further bonus to the roll based on any Tarnish or Corruption of the Infernal aura (see *Realms of Power: The Infernal*, page 13).
+If the target spends the duration of the spell within an Infernal aura, the corrupting influence of the aura reinforces the target's resolve to keep the secret. The level of the aura is added to the target's roll. The Storyguide may impose a further bonus to the roll based on any Tarnish or Corruption of the Infernal aura (see [*Realms of Power: The Infernal*, page 13](<Ars Magica 5e - Realms of Power - The Infernal.md#infernal-auras>)).
 
 Yestin invented this spell as a means to more easily solve those mysteries that the spirit Taliesin led him into; mysteries often solved by knowing what those involved wished to hide.
 
@@ -9883,7 +9885,7 @@ This spell is designed for a magus to cast upon himself at the start of a day's 
 (Base 10, +2 Sun)<br>
 Source: *Covenants*, 122
 
-<!-- p. 180 -->
+<!-- p. 180 --><a id="page-180"></a>
 
 ##### Trust Me
 ReMe 20<br>
@@ -9924,7 +9926,7 @@ Source: *Art & Academe*, 34
 ##### Voices from Hollow Spaces
 ReMe 25<br>
 R: Voice, D: Ring, T: Ind.<br>
-This spell is found in *Houses of Hermes: True Lineages*, page 140. It binds a ghost — which needs to be present or have been summoned previously — to a place or portable object. The necromancer needs other ways to convince or compel the ghost to subsequently do his bidding.
+This spell is found in [*Houses of Hermes: True Lineages*, page 140](<Ars Magica 5e - Houses of Hermes - True Lineages.md#spells>). It binds a ghost — which needs to be present or have been summoned previously — to a place or portable object. The necromancer needs other ways to convince or compel the ghost to subsequently do his bidding.
 
 (Base 5, +2 Voice, +2 Ring)<br>
 Source: *Through the Aegis*, 137
@@ -9939,7 +9941,7 @@ Androcles developed this spell, and instils a sense of subservience to authority
 (Base 4, Diameter +1, Spectacle +4)<br>
 Source: *Through the Aegis*, 43
 
-<!-- p. 181 -->
+<!-- p. 181 --><a id="page-181"></a>
 
 ##### Burning Issue of the Day
 ReMe 30<br>
@@ -9989,7 +9991,7 @@ The target will truthfully and willingly relate his involvement in anything the 
 (Base 20, +1 Eye, +1 Concentration)<br>
 Source: *Houses of Hermes – True Lineages*, 73
 
-<!-- p. 182 -->
+<!-- p. 182 --><a id="page-182"></a>
 
 ##### Visions of the Infernal Terrors
 ReMe 30<br>
@@ -10055,7 +10057,7 @@ This spell summons the ghost of a specific person in the world of the dead. The 
 (Base 15, +3 Veil, +1 Concentration)<br>
 Source: *Ancient Magic*, 33
 
-<!-- p. 183 -->
+<!-- p. 183 --><a id="page-183"></a>
 
 ##### Veil of Haunting Terror
 ReMe 35<br>
@@ -10121,14 +10123,14 @@ Similar spells exist for summoning the spirits of other emotions.
 (Base 15 [see *The Mysteries Revised Edition*, page 28], +4 Arcane Connection, +1 Concentration)<br>
 Source: *Houses of Hermes – Societates*, 99
 
-<!-- p. 184 -->
+<!-- p. 184 --><a id="page-184"></a>
 
 ##### Summon the Spirit of Man
 ReMe 40<br>
 R: Arc, D: Conc, T: Ind<br>
 Calls a disembodied Mentem spirit if the magus has an Arcane Connection or knows the non-magical name of the spirit. Elemental material of the type associated with the spirit serves as an Arcane Connection to any Mentem spirit which resides in the area.
 
-*Summon the Spirit of Man* is a lesser, nonritual version of *Incantation of Summoning the Dead* (*Ars Magica Fifth Edition*, page 152), which can only affect a ghost which is actively haunting something, so many dead spirits remain unaffected by this call. It can affect any ghost that the caster has previously summoned by magic.
+*Summon the Spirit of Man* is a lesser, nonritual version of *Incantation of Summoning the Dead* ([*Ars Magica Fifth Edition*, page 152](<Ars Magica 5e - Core Rules.md#incantation-of-summoning-the-dead>) / [Definitive Edition, page 358](<Ars Magica - Definitive Edition (Core Rules).md#incantation-of-summoning-the-dead>)), which can only affect a ghost which is actively haunting something, so many dead spirits remain unaffected by this call. It can affect any ghost that the caster has previously summoned by magic.
 
 (Base 15, +4 Arcane Connection, +1 Concentration)<br>
 Source: *Legends of Hermes*, 65
@@ -10163,7 +10165,7 @@ This spell switches the minds (but not the souls) of two creatures. A new body g
 (Base 20, +1 Touch, +4 Year, +2 Group)<br>
 Source: *Ars Magica Fifth Edition*, 152
 
-<!-- p. 185 -->
+<!-- p. 185 --><a id="page-185"></a>
 
 #### LEVEL 65
 
@@ -10175,7 +10177,7 @@ A spell used on ancient battlefields to call up the pagan dead. This spell grant
 (Base 15, +1 Touch, +3 Moon, +2 Group, +3 size: up to 10,000 ghosts, + 1 summon and control)<br>
 Source: *Houses of Hermes – True Lineages*, 141
 
-<!-- p. 186 -->
+<!-- p. 186 --><a id="page-186"></a>
 
 ## The Art of Terram
 
@@ -10212,7 +10214,7 @@ Source: *Ars Magica Fifth Edition*, 152
 ##### Sword from the Unseen Scabbard
 CrTe 15<br>
 R: Touch, D: Diam, T: Ind<br>
-Conjure a steel longsword. The sword only lasts for two minutes — about 20 combat rounds — but that is usually long enough to defend oneself in a single skirmish. The magically created sword must penetrate in order to harm opponents who have Magic Resistance. Note that creating artificial things with magic requires an Intelligence + Finesse roll (*Ars Magica Fifth Edition*, page 77). An Ease Factor of 6 is sufficient to make a sword of mediocre, but serviceable, workmanship.
+Conjure a steel longsword. The sword only lasts for two minutes — about 20 combat rounds — but that is usually long enough to defend oneself in a single skirmish. The magically created sword must penetrate in order to harm opponents who have Magic Resistance. Note that creating artificial things with magic requires an Intelligence + Finesse roll ([*Ars Magica Fifth Edition*, page 77](<Ars Magica 5e - Core Rules.md#finesse>) / [Definitive Edition, page 165](<Ars Magica - Definitive Edition (Core Rules).md#finesse>)). An Ease Factor of 6 is sufficient to make a sword of mediocre, but serviceable, workmanship.
 
 (Base 5, +1 Touch, +1 Diameter)<br>
 Source: *Houses of Hermes – Societates*, 37
@@ -10241,14 +10243,14 @@ Due to the Hermetic restriction which makes all rituals level 20 spells, there's
 (Base 3, +1 Touch, + 4 size)<br>
 Source: *Transforming Mythic Europe*, 61
 
-<!-- p. 187 -->
+<!-- p. 187 --><a id="page-187"></a>
 
 ##### Basalt Cage
 CrTe 20<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
 This ritual creates a large cage made out of basalt stone with a single gate (also made of basalt) that can be opened and shut. The cage is large enough to hold ten man-sized creatures. Individuals in the cage may find it difficult to escape, if the gate is somehow locked or barred. However, the main purpose of the ritual is to create a cage which is subsequently enchanted as an item with the effect *The Entrapped Flame*.
 
-Note that, if your character is talented at Rego magics, he may find it easier to use a Rego Terram craft effect to sculpt such a cage from a hunk of basalt. However, remember to consider that the magus must make a Finesse roll against an Ease Factor of 24 to succeed in casting such a Rego craft effect, as it would be hard for a mundane craftsman to sculpt such an item and it would take him a long time to do so (see *Covenants* page 49).
+Note that, if your character is talented at Rego magics, he may find it easier to use a Rego Terram craft effect to sculpt such a cage from a hunk of basalt. However, remember to consider that the magus must make a Finesse roll against an Ease Factor of 24 to succeed in casting such a Rego craft effect, as it would be hard for a mundane craftsman to sculpt such an item and it would take him a long time to do so (see [*Covenants* page 49](<Ars Magica 5e - Covenants.md#rego>)).
 
 (Base 3, +1 Touch, +1 Size, +1 complex structure, +2 minimum level of a ritual)<br>
 Source: *Hermetic Projects*, 24
@@ -10288,12 +10290,12 @@ CrTe 20<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
 Creates a wall 25 paces long, 4 paces high, and 1 pace thick, which is a total of 100 cubic paces of stone. Vis is used to prevent the wall disappearing after the spell ends. Walls made in this way are made of single pieces of unmortared stone, which gives them far greater durability than conventional walls, unless the caster has a sigil that degrades their composition.
 
-(As *Ars Magica Fifth Edition* page 153, modified for permanent creation of walls. The level rises from 10 to 20 because all Rituals have a minimum level of 20 as per *Ars Magica Fifth Edition*, page 114, so magi could increase the Range or Size without cost.
+(As [*Ars Magica Fifth Edition* page 153](<Ars Magica 5e - Core Rules.md#page-153>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#level-20-30>), modified for permanent creation of walls. The level rises from 10 to 20 because all Rituals have a minimum level of 20 as per [*Ars Magica Fifth Edition*, page 114](<Ars Magica 5e - Core Rules.md#levels>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#levels>), so magi could increase the Range or Size without cost.
 
 (Base 3, +1 Touch, +2 size))<br>
 Source: *Transforming Mythic Europe*, 55
 
-<!-- p. 188 -->
+<!-- p. 188 --><a id="page-188"></a>
 
 ##### Sculpt the Stone Machine
 CrTe 20<br>
@@ -10323,7 +10325,7 @@ Source: *The Mysteries*, 108
 ##### The Riches of Carthage
 CrTe 20<br>
 R: Touch, D: Mom, T: Ind, Ritual<br>
-As the Touch of Midas ritual (*Ars Magica Fifth Edition*, page 153) but creates a lump of silver instead of gold, which is easier to slip into the local economy.
+As the Touch of Midas ritual ([*Ars Magica Fifth Edition*, page 153](<Ars Magica 5e - Core Rules.md#touch-of-midas>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#touch-of-midas>)) but creates a lump of silver instead of gold, which is easier to slip into the local economy.
 
 (Base 15, +1 Touch, ritual)<br>
 Source: *Tales of Power*, 126
@@ -10353,7 +10355,7 @@ The dagger can be used as either a thrown or melee weapon. It is less useful in 
 (Base 5, +1 Touch, +2 elaborate design)<br>
 Source: *Hermetic Projects*, 88
 
-<!-- p. 189 -->
+<!-- p. 189 --><a id="page-189"></a>
 
 ##### Touch of Midas
 CrTe 20<br>
@@ -10421,7 +10423,7 @@ An added magnitude allows the magus to create a series of cottages which are non
 (Base 3, +1 Touch, +4 size, +2 complexity)<br>
 Source: *Transforming Mythic Europe*, 61
 
-<!-- p. 190 -->
+<!-- p. 190 --><a id="page-190"></a>
 
 ##### Silvery Scales of the Knight
 CrTe(An) 30<br>
@@ -10472,7 +10474,7 @@ An elaborately carved tower, formed from a single block of stone, rises out of t
 (Base 3, +1 Touch, +4 size, +3 elaborate design)<br>
 Source: *Ars Magica Fifth Edition*, 153
 
-<!-- p. 191 -->
+<!-- p. 191 --><a id="page-191"></a>
 
 ##### Craft the Mechanism
 Cr(In)Te 35<br>
@@ -10539,7 +10541,7 @@ As *Wall of Permanent Protecting Stone*, earlier, but with five additional magni
 (Base 3, +1 Touch, +7 size)<br>
 Source: *Transforming Mythic Europe*, 55
 
-<!-- p. 192 -->
+<!-- p. 192 --><a id="page-192"></a>
 
 #### LEVEL 45
 
@@ -10576,7 +10578,7 @@ Casting this spell creates a preternatural tether of 1 and adds +1 to the aura v
 (Base 3, +1 Touch, +7 size, +3 elaborate design)<br>
 Source: *Hermetic Projects*, 40
 
-<!-- p. 193 -->
+<!-- p. 193 --><a id="page-193"></a>
 
 #### LEVEL 55
 
@@ -10591,7 +10593,7 @@ Creo magic that creates artificial things, such as this huge tower, requires an 
 
 The +7 magnitudes for size creates a circular tower of two levels, 2,000 feet in diameter, standing 40 feet above ground level. The high modifier for the elaborate design is required for the precise placement of the foundations, a hugely important factor in a tower this large.
 
-Casting this ritual causes a +1 preternatural tether, as per *Realms of Power: Magic*, page 10. If the site has no supernatural aura, this creates a level one Magic aura.
+Casting this ritual causes a +1 preternatural tether, as per [*Realms of Power: Magic*, page 10](<Ars Magica 5e - Realms of Power - Magic.md#preternatural-tethers>). If the site has no supernatural aura, this creates a level one Magic aura.
 
 (Base 3, +1 Touch, +7 size, +4 elaborate design)<br>
 Source: *Hermetic Projects*, 39
@@ -10610,7 +10612,7 @@ The volcano region can be up to 20 miles in diameter (though the crater will be 
 (Base 3, +1 Touch, +13 Size)<br>
 Source: *Hermetic Projects*, 13
 
-<!-- p. 194 -->
+<!-- p. 194 --><a id="page-194"></a>
 
 ### Intellego Terram Spells
 
@@ -10687,7 +10689,7 @@ The caster holds a piece of stone in her hands and receives a brief mental image
 (Base 4, + 5 Arc)<br>
 Source: *Ancient Magic*, 36
 
-<!-- p. 195 -->
+<!-- p. 195 --><a id="page-195"></a>
 
 ##### The Wisdom of Sleep
 InTe(Vi) 25<br>
@@ -10721,12 +10723,12 @@ InTe 30<br>
 R: Touch, D: Conc, T: Ind<br>
 The caster plunges his hands into lava (which will cause damage if he is not protected) and communes with the spirit of the volcano. If the volcano's spirit is a creature with Might, then this spell needs to penetrate its Magic Resistance.
 
-The length of time a conversation with a volcano spirit takes is highly variable, and depends on the activity of the volcano. The spell allows the caster to perceive and participate in the conversation at either great speed or very slowly, as appropriate. A conversation of a few simple sentences with a dormant volcano could take many days, and would therefore require either a spell with a different duration or magical effects similar to *Maintaining the Demanding Spell* (*Ars Magica Fifth Edition*, page 162) in order to maintain the Concentration duration. On the other hand, a long multi-faceted discourse with an active volcano can be conducted in a fraction of a round.
+The length of time a conversation with a volcano spirit takes is highly variable, and depends on the activity of the volcano. The spell allows the caster to perceive and participate in the conversation at either great speed or very slowly, as appropriate. A conversation of a few simple sentences with a dormant volcano could take many days, and would therefore require either a spell with a different duration or magical effects similar to *Maintaining the Demanding Spell* ([*Ars Magica Fifth Edition*, page 162](<Ars Magica 5e - Core Rules.md#maintaining-the-demanding-spell>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#maintaining-the-demanding-spell>)) in order to maintain the Concentration duration. On the other hand, a long multi-faceted discourse with an active volcano can be conducted in a fraction of a round.
 
 (Base 20, +1 Touch, +1 Concentration)<br>
 Source: *Hermetic Projects*, 25
 
-<!-- p. 196 -->
+<!-- p. 196 --><a id="page-196"></a>
 
 ##### Listen to the Bells
 InTe 30<br>
@@ -10767,7 +10769,7 @@ Source: *Houses of Hermes – True Lineages*, 141
 ##### Speech of the Warding Ring
 InTe 35<br>
 R: Touch, D: Sun, T: Ind<br>
-*Stone Tell of the Mind that Sits* (*Ars Magica Fifth Edition*, page 153), the most popular Hermetic spell for interrogating rocks, does not work on the stone jacket of the island solely because the spell's target is limited to a square pace cubic in size. Characters using this spell can speak with far larger stones.
+*Stone Tell of the Mind that Sits* ([*Ars Magica Fifth Edition*, page 153](<Ars Magica 5e - Core Rules.md#stone-tell-of-the-mind-that-sits>) / [Definitive Edition, page 360](<Ars Magica - Definitive Edition (Core Rules).md#stone-tell-of-the-mind-that-sits>)), the most popular Hermetic spell for interrogating rocks, does not work on the stone jacket of the island solely because the spell's target is limited to a square pace cubic in size. Characters using this spell can speak with far larger stones.
 
 (Base 20, +1 Touch, +2 Sun. This spell uses the wall, but a mind is an Individual target.)<br>
 Source: *Transforming Mythic Europe*, 77
@@ -10790,7 +10792,7 @@ As *Stone Tell of the Mind that Sits*, but can be used on even metal objects. Th
 (Base 30, +1 Touch, +2 Sun)<br>
 Source: *Houses of Hermes – True Lineages*, 74
 
-<!-- p. 197 -->
+<!-- p. 197 --><a id="page-197"></a>
 
 #### LEVEL 50
 
@@ -10812,7 +10814,7 @@ As *Dream of the Mind that Sits*, but can be used on even metal objects. The coo
 (Base 40, +1 Touch, +2 Sun)<br>
 Source: *Houses of Hermes – True Lineages*, 74
 
-<!-- p. 198 -->
+<!-- p. 198 --><a id="page-198"></a>
 
 ### Muto Terram Spells
 
@@ -10879,7 +10881,7 @@ This spell enlarges an inanimate object originally no bigger than a large chest.
 (Base 4, +1 Touch, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 154
 
-<!-- p. 199 -->
+<!-- p. 199 --><a id="page-199"></a>
 
 ##### Rock of Viscid Clay
 MuTe 15<br>
@@ -10954,7 +10956,7 @@ The stone in a section of wall momentarily becomes as permeable as mist, allowin
 (Base 10, +1 Touch, +1 Part, +1 affect stone)<br>
 Source: *Magi of Hermes*, 93
 
-<!-- p. 200 -->
+<!-- p. 200 --><a id="page-200"></a>
 
 #### LEVEL 30
 
@@ -10997,7 +10999,7 @@ This spell transmutes an object of stone, wood, or soil, or part of some such ob
 (Base 5, + 2 Voice, +2 Sun, +1 part, +1 to affect stone, +1 Herbam requisite)<br>
 Source: *Magi of Hermes*, 113
 
-<!-- p. 201 -->
+<!-- p. 201 --><a id="page-201"></a>
 
 #### LEVEL 45
 
@@ -11027,7 +11029,7 @@ The spell is based on the Muto Terram guideline that increases the volume of an 
 (Base 4, +1 Touch, +2 Sun, +2 Group, +1 Size, +1 affect glass, +3 increased shrinking effect)<br>
 Source: *Hermetic Projects*, 89
 
-<!-- p. 202 -->
+<!-- p. 202 --><a id="page-202"></a>
 
 ### Perdo Terram Spells
 
@@ -11097,7 +11099,7 @@ If the target breaks the bargain made when this spell is cast, then his sword (o
 (Base 2, +1 Touch, +3 Bargain, +2 affect Metal)<br>
 Source: *Through the Aegis*, 78
 
-<!-- p. 203 -->
+<!-- p. 203 --><a id="page-203"></a>
 
 ##### Carve Domain
 PeTe 20<br>
@@ -11168,7 +11170,7 @@ Render a suit of metal armor nearly weightless. Armor made from metal-reinforced
 (Base 5, +1 Touch, +2 Sun, +2 affect metal)<br>
 Source: *Houses of Hermes – Societates*, 38
 
-<!-- p. 204 -->
+<!-- p. 204 --><a id="page-204"></a>
 
 ##### Sudden Well
 PeTe 30<br>
@@ -11208,7 +11210,7 @@ The base level of 5 is used as the spell is destroying only a single aspect of t
 (Base 5, +4 Arcane Connection, +4 Boundary, Ritual)<br>
 Source: *Tales of Power*, 126
 
-<!-- p. 205 -->
+<!-- p. 205 --><a id="page-205"></a>
 
 ### Rego Terram Spells
 
@@ -11247,7 +11249,7 @@ Source: *The Mysteries*, 96
 Re(Cr)Te 4<br>
 R: Touch, D: Mom, T: Ind<br>
 Req: Creo<br>
-As the spell described in *The Mysteries Revised Edition*, page 96.
+As the spell described in [*The Mysteries Revised Edition*, page 96](<Ars Magica 5e - The Mysteries (Revised).md>).
 
 (Base 2, +1 stone, +1 Touch)<br>
 Source: *Magi of Hermes*, 102
@@ -11275,7 +11277,7 @@ Source: *Art & Academe*, 133
 ##### The Unseen Arm
 ReTe 5<br>
 R: Voice, D: Conc, T: Ind<br>
-As the spell listed in *Ars Magica Fifth Edition*, page 155.<br>
+As the spell listed in [*Ars Magica Fifth Edition*, page 155](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).<br>
 Source: *Magi of Hermes*, 102
 
 ##### Unseen Arm
@@ -11286,7 +11288,7 @@ Slowly moves a nonliving thing, like a mug, instrument, or small pouch of coins;
 (Base 2, +2 Voice, +1 Concentration)<br>
 Source: *Ars Magica Fifth Edition*, 155
 
-<!-- p. 206 -->
+<!-- p. 206 --><a id="page-206"></a>
 
 ##### The Wizard's Parry
 ReTe 5<br>
@@ -11309,7 +11311,7 @@ Source: *Magi of Hermes*, 50
 ##### Invisible Sling of Vilano
 ReTe 10<br>
 R: Touch, D: Mom, T: Ind<br>
-Hurl a stone (of a size that could be thrown with a mundane sling) at a target within range. Unlike the standard version of *Wielding the Invisible Sling* (*Ars Magica Fifth Edition*, page 155), this spell hurls the stone as a projectile. An aiming roll is required to hit the intended target, but if it succeeds, Magic Resistance offers no protection. The stone inflicts +5 damage on impact and has a range increment of 20 paces.
+Hurl a stone (of a size that could be thrown with a mundane sling) at a target within range. Unlike the standard version of *Wielding the Invisible Sling* ([*Ars Magica Fifth Edition*, page 155](<Ars Magica 5e - Core Rules.md#wielding-the-invisible-sling>) / [Definitive Edition, page 363](<Ars Magica - Definitive Edition (Core Rules).md#wielding-the-invisible-sling>)), this spell hurls the stone as a projectile. An aiming roll is required to hit the intended target, but if it succeeds, Magic Resistance offers no protection. The stone inflicts +5 damage on impact and has a range increment of 20 paces.
 
 (Base 5, +1 Touch)<br>
 Source: *Houses of Hermes – Societates*, 38
@@ -11346,7 +11348,7 @@ Turns a single piece of prepared iron into a blade, the quality determined by th
 (Base 2, +1 Touch, +2 metal, +1 complexity)<br>
 Source: *Tales of Power*, 120
 
-<!-- p. 207 -->
+<!-- p. 207 --><a id="page-207"></a>
 
 ##### The Unseen Porter
 ReTe 10<br>
@@ -11363,7 +11365,7 @@ As the caster walks, this spell shifts the earth underfoot allowing him to trave
 
 This spell has little effect on soft or muddy paths, as the earth must still be able to bear the target's weight. The spell is potent enough to move stones and cobbles in the road.
 
-A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. *City & Guild*, page 85, provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
+A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. [*City & Guild*, page 85](<Ars Magica 5e - City & Guild.md>), provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
 
 (Base 2, +1 Touch, +1 Concentration, +1 Part, +1 stone)<br>
 Source: *Magi of Hermes*, 141
@@ -11397,7 +11399,7 @@ The caster may use cast this spell while awake to send objects into his own drea
 (Base 15)<br>
 Source: *The Mysteries*, 109
 
-<!-- p. 208 -->
+<!-- p. 208 --><a id="page-208"></a>
 
 ##### Hand of the Antiquarian
 ReTe 15<br>
@@ -11421,7 +11423,7 @@ ReTe 15<br>
 R: Voice, D: Conc, T: Ind<br>
 Move a stone through the air as fast as a bird flies. When the caster stops concentrating, the stone immediately falls to the ground.
 
-The spell's name suggests one of its common applications: dropping a heavy rock onto someone. Because the stone falls naturally, such an attack is not subject to Magic Resistance. Instead, an aiming roll is required to hit the intended target (see *Ars Magica Fifth Edition*, page 86). Attacking with this spell normally takes two rounds: one to move the stone over the target, and another to aim and release it.
+The spell's name suggests one of its common applications: dropping a heavy rock onto someone. Because the stone falls naturally, such an attack is not subject to Magic Resistance. Instead, an aiming roll is required to hit the intended target (see [*Ars Magica Fifth Edition*, page 86](<Ars Magica 5e - Core Rules.md#aiming>) / [Definitive Edition, page 223](<Ars Magica - Definitive Edition (Core Rules).md#aiming>)). Attacking with this spell normally takes two rounds: one to move the stone over the target, and another to aim and release it.
 
 Damage inflicted depends mainly on the size of the stone: +5 for a stone the size of a man's fist, +10 for a typical building- stone, up to +21 for a large boulder (see also the Impact Table on page 181 of *Ars Magica Fifth Edition*). Particularly large stones can damage structures as well as creatures.
 
@@ -11433,7 +11435,7 @@ Source: *Houses of Hermes – Societates*, 38
 ##### Retrieve the Bloodied Arrow
 ReTe 15<br>
 R: Voice, D: Mom, T: Ind<br>
-This spell causes a small object to be transported from any point within 50 paces (and within Voice Range) to the magus' hand. Casting requisites may be needed if the object is not mostly part of the Terram Form. The spell's name derives from its use by the School of Raghallach to retrieve a missile or thrown weapon that has wounded an opponent, even if it is still piercing the victim. By retrieving the weapon the magus has a sample of the opponent's blood, which is an Arcane Connection that lasts years (+3 bonus to Penetration Multiplier). This spell uses a guideline first published in *Magi of Hermes*, page 92.
+This spell causes a small object to be transported from any point within 50 paces (and within Voice Range) to the magus' hand. Casting requisites may be needed if the object is not mostly part of the Terram Form. The spell's name derives from its use by the School of Raghallach to retrieve a missile or thrown weapon that has wounded an opponent, even if it is still piercing the victim. By retrieving the weapon the magus has a sample of the opponent's blood, which is an Arcane Connection that lasts years (+3 bonus to Penetration Multiplier). This spell uses a guideline first published in [*Magi of Hermes*, page 92](<Ars Magica 5e - Magi of Hermes.md#page-92>).
 
 (Base 4, +2 Voice, +1 transport 50 paces)<br>
 Source: *The Contested Isle – The Hibernian Tribunal*, 62
@@ -11463,7 +11465,7 @@ Earth and stone is excavated from a circular ditch around the caster to create a
 (Base 3, +1 Touch, +1 Part, +1 Size, +1 affect stone)<br>
 Source: *Magi of Hermes*, 50
 
-<!-- p. 209 -->
+<!-- p. 209 --><a id="page-209"></a>
 
 ##### The Spell of Wrought Iron
 ReTe 15<br>
@@ -11478,7 +11480,7 @@ ReTe 15<br>
 R: Touch, D: Mom, T: Group<br>
 The spell transforms raw pig-iron from a furnace into plain bars of wrought iron, as if a blacksmith had worked the iron in his forge. The magus must succeed in a Perception + Finesse roll to work the bars and separate out the slag. The task is normally Easy (6) for a blacksmith, so the base Ease Factor is 9. Failure means the iron and inclusions do not separate; a botch means that the inclusions go unnoticed, and the iron is flawed and cracks under strain.
 
-As the spell presented in *Covenants*, page 51.
+As the spell presented in [*Covenants*, page 51](<Ars Magica 5e - Covenants.md#spells>).
 
 (Base 2, +1 Touch, +2 Group, +2 metal)<br>
 Source: *Tales of Power*, 120
@@ -11519,7 +11521,7 @@ The base level for this effect is that for a very unnatural motion. However, for
 (Base 4, +2 Voice, +1 affect restrained objects, +1 for 50 paces transportation)<br>
 Source: *Magi of Hermes*, 93
 
-<!-- p. 210 -->
+<!-- p. 210 --><a id="page-210"></a>
 
 ##### Perfection of the Well-Designed Chamber
 Re(Cr)Te(He) 20<br>
@@ -11569,7 +11571,7 @@ The Mystery of Hermetic Architecture teaches how to enchant this effect into a b
 (Base 2, +1 stone, +1 Touch, +3 Structure, +1 Herbam req.)<br>
 Source: *The Mysteries*, 96
 
-<!-- p. 211 -->
+<!-- p. 211 --><a id="page-211"></a>
 
 ##### The Phantom Blacksmith
 ReTe 20<br>
@@ -11613,7 +11615,7 @@ R: Touch, D: Mom, T: Bound, Ritual<br>
 Req: Aquam<br>
 Some waterways, especially those near estuaries, are surrounded by marshland. However, there are techniques for building up and draining the land. This can take many seasons of work, with a large team of laborers working in very difficult conditions. The draining of marshland through the digging of drainage channels and the building of dykes is known as inning. This ritual allows the magus to drain an area 300 by 300 paces to the point that it is dry and stable, as though a season had been spent inning the land. The Aquam requisite is used to move the standing water outside the spell boundary, which makes the inning work easier than normal.
 
-This spell uses the rules for Rego Craft Magic (*Covenants*, page 49) and as such the magus must make a Perception + Finesse roll to determine the success and quality of his work. In this case, the Ease Factor is 15 (base 9 + 6 for a season's work). Failure means that, while the drainage ditches may have been dug, they are either too shallow or too few to drain the land. If left, the land is likely to remain waterlogged and building on it is impossible.
+This spell uses the rules for Rego Craft Magic ([*Covenants*, page 49](<Ars Magica 5e - Covenants.md#rego-craft-magic>)) and as such the magus must make a Perception + Finesse roll to determine the success and quality of his work. In this case, the Ease Factor is 15 (base 9 + 6 for a season's work). Failure means that, while the drainage ditches may have been dug, they are either too shallow or too few to drain the land. If left, the land is likely to remain waterlogged and building on it is impossible.
 
 (Base 2, +1 Touch, +4 Boundary, +1 Size, +1 Aquam requisite)<br>
 Source: *Hermetic Projects*, 56
@@ -11626,7 +11628,7 @@ This spell lifts all loose rocks and pebbles in a 15-pace radius about the targe
 (Base 4, +2 Voice, +1 Diameter, +1 Part, +1 size)<br>
 Source: *Against the Dark*, 31
 
-<!-- p. 212 -->
+<!-- p. 212 --><a id="page-212"></a>
 
 ##### Creeping Earth
 ReTe 25<br>
@@ -11674,7 +11676,7 @@ However, if the building is floating (through the *Repulsion of Earth* effect, f
 (Base 3, +1 Touch, +1 Diameter, +3 Structure, +1 affect stone)<br>
 Source: *Hermetic Projects*, 18
 
-<!-- p. 213 -->
+<!-- p. 213 --><a id="page-213"></a>
 
 ##### The Prodigal Returns
 ReTe 25<br>
@@ -11699,7 +11701,7 @@ ReTe 30<br>
 R: Sight, D: Mom, T: Group<br>
 This spell causes a vast cloud of sharp shards of glass fly to a point in the sky, and then fall to the earth. From a distance, as the light refracts through the plunging glass, it looks like a curious sort of localized rain. The area covered by the falling glass is about 10 paces across, and anyone in (or passing through) the area takes +10 damage. If a wound is caused, blood from the victim falls onto the earth.
 
-This is an Aimed spell that consequently bypasses Magic Resistance, and there is a +12 bonus to the Aiming roll to hit due to the number of glass shards (see *Ars Magica Fifth Edition*, page 86). This Aiming bonus is for a cloud of shards that contains 100 cubic paces of glass. If the cloud of shards contains only 10 cubic paces, the Aiming bonus is reduced to only +6. Remember to count Defense bonuses because of shields.
+This is an Aimed spell that consequently bypasses Magic Resistance, and there is a +12 bonus to the Aiming roll to hit due to the number of glass shards (see [*Ars Magica Fifth Edition*, page 86](<Ars Magica 5e - Core Rules.md#magic-resistance>) / [Definitive Edition, page 221](<Ars Magica - Definitive Edition (Core Rules).md#magic-resistance>)). This Aiming bonus is for a cloud of shards that contains 100 cubic paces of glass. If the cloud of shards contains only 10 cubic paces, the Aiming bonus is reduced to only +6. Remember to count Defense bonuses because of shields.
 
 This spell requires that the caster has large collection of sharp glass shards, which need to be mundane in order to bypass Magic Resistance in this way. The shards could be created using a momentary Creo Terram ritual (such as *The Shattered Goblet*), or they could be acquired from a mundane craftsman, although this is probably more expensive and inconvenient for most magi. As long as the fallen glass shards remain within Sight range of the caster, the same shards can be used to cast the effect again in a subsequent round.
 
@@ -11711,14 +11713,14 @@ ReTe 30<br>
 R: Touch, D: Conc, T: Str<br>
 This spell lifts a stone bridge, including its foundations, clear of the river and places it in some spot that the magus can see.
 
-A Perception + Finesse Stress roll is required against a base Ease Factor of 9. Larger bridges, up to the maximum size manageable with this variant, increase the Ease Factor by +3. Failing the roll means one check for damage as per *City & Guild*, page 77, for each point by which the casting roll failed.
+A Perception + Finesse Stress roll is required against a base Ease Factor of 9. Larger bridges, up to the maximum size manageable with this variant, increase the Ease Factor by +3. Failing the roll means one check for damage as per [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md>), for each point by which the casting roll failed.
 
 Use of this spell allows the magus to withdraw major bridges from the enemy, controlling their ability to cross rivers in numbers.
 
 (Base 3, +1 Touch, +1 Concentration, +3 Structure, +1 Stone, +1 size)<br>
 Source: *Transforming Mythic Europe*, 45
 
-<!-- p. 214 -->
+<!-- p. 214 --><a id="page-214"></a>
 
 ##### Earth Shock
 ReTe 30<br>
@@ -11780,7 +11782,7 @@ Creates a chasm that runs from the ground in front of your feet towards some tar
 (Base 3, +2 Voice, +1 Part, +4 size, +1 fancy effect)<br>
 Source: *Ars Magica Fifth Edition*, 156
 
-<!-- p. 215 -->
+<!-- p. 215 --><a id="page-215"></a>
 
 ##### Rapacious Hand of the Highwayman
 ReTe 35<br>
@@ -11849,13 +11851,13 @@ Once the spell has been cast there is no active magical effect; the eruption is 
 (Base 2, +1 Touch, +1 Part, +8 Size, +1 affect Volcano (same as stone))<br>
 Source: *Hermetic Projects*, 13
 
-<!-- p. 216 -->
+<!-- p. 216 --><a id="page-216"></a>
 
 ##### Cargo of Angel's Wings
 ReTe(He) 45<br>
 R: Arc, D: Mom, T: Ind<br>
 Req: Herbam<br>
-The caster transports the target object to the location of an Arcane Connection. Hermanus used this spell to obtain vis and Arcane Connections from the location of the Wooden Mannequin that he used to explore the world without leaving his laboratory. In order to use this spell from a distance, Hermanus employed a spell similar to *Opening the Intangible Tunnel* (*Ars Magica Fifth Edition* page 162) in conjunction with the casting tablet.
+The caster transports the target object to the location of an Arcane Connection. Hermanus used this spell to obtain vis and Arcane Connections from the location of the Wooden Mannequin that he used to explore the world without leaving his laboratory. In order to use this spell from a distance, Hermanus employed a spell similar to *Opening the Intangible Tunnel* ([*Ars Magica Fifth Edition* page 162](<Ars Magica 5e - Core Rules.md#opening-the-intangible-tunnel>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#opening-the-intangible-tunnel>)) in conjunction with the casting tablet.
 
 (Base 35, +1 requisite, +1 Touch)<br>
 Source: *Legends of Hermes*, 119
@@ -11909,7 +11911,7 @@ The volcano region can be up to 20 miles in diameter (although the crater will b
 (Base 3, +1 Touch, +13 Size, +1 affect a volcano (equivalent to affecting stone))<br>
 Source: *Hermetic Projects*, 16
 
-<!-- p. 217 -->
+<!-- p. 217 --><a id="page-217"></a>
 
 #### LEVEL 75
 
@@ -11921,7 +11923,7 @@ Creates a magical portal through which people, animals, and objects can travel a
 (Mercurian Ritual)<br>
 Source: *Ars Magica Fifth Edition*, 156
 
-<!-- p. 218 -->
+<!-- p. 218 --><a id="page-218"></a>
 
 ## The Art of Vim
 
@@ -11970,7 +11972,7 @@ Versions of this spell also exist for all standard Targets. Diameter duration is
 (Base, +1 Touch, +1 Diameter)<br>
 Source: *Houses of Hermes – True Lineages*, 74
 
-<!-- p. 219 -->
+<!-- p. 219 --><a id="page-219"></a>
 
 ##### Shell of False Determinations
 CrVi Gen<br>
@@ -12033,7 +12035,7 @@ The target of the spell becomes tainted with magic as most magi are. Beasts and 
 (Base 3, +2 Voice, +2 Sun)<br>
 Source: *Ars Magica Fifth Edition*, 157
 
-<!-- p. 220 -->
+<!-- p. 220 --><a id="page-220"></a>
 
 #### LEVEL 20
 
@@ -12088,7 +12090,7 @@ The target of the spell gains four Warping Points and, if a Hermetic magus, must
 (Base 20, +2 Voice)<br>
 Source: *Ars Magica Fifth Edition*, 157
 
-<!-- p. 221 -->
+<!-- p. 221 --><a id="page-221"></a>
 
 #### LEVEL 35
 
@@ -12096,7 +12098,7 @@ Source: *Ars Magica Fifth Edition*, 157
 Cr(Mu)Vi 35<br>
 R: Voice, D: Mom, T: Ind<br>
 Req: Muto<br>
-Similar to the common spell *The Enigma's Gift* (*Ars Magica Fifth Edition*, page 157), this spell causes the target to gain four Warping Points. However, in the case of characters with a specific response to Warping, the effect of these points is to force the target to undergo the Witch Moon just as if the affected target were a member of the Folk Witch hedge tradition, as described in *Hedge Magic: Revised Edition*, page 42. Enduring the Witch Moon is automatic. This replaces the normal effects of gaining two or more Warping Points, which for Hermetic magi is a roll for Twilight.
+Similar to the common spell *The Enigma's Gift* ([*Ars Magica Fifth Edition*, page 157](<Ars Magica 5e - Core Rules.md#similar-spells>) / [Definitive Edition, page 260](<Ars Magica - Definitive Edition (Core Rules).md#similar-spells>)), this spell causes the target to gain four Warping Points. However, in the case of characters with a specific response to Warping, the effect of these points is to force the target to undergo the Witch Moon just as if the affected target were a member of the Folk Witch hedge tradition, as described in *Hedge Magic: Revised Edition*, page 42. Enduring the Witch Moon is automatic. This replaces the normal effects of gaining two or more Warping Points, which for Hermetic magi is a roll for Twilight.
 
 This effect is inspired by observing the Witch Moon endured by a subject Folk Witch.
 
@@ -12140,7 +12142,7 @@ The temple shell must be built to the same plan as the ruined temple (just the t
 (Base Effect, non-Hermetic)<br>
 Source: *Mythic Locations*, 99
 
-<!-- p. 222 -->
+<!-- p. 222 --><a id="page-222"></a>
 
 ##### The Great Discord
 CrVi 55<br>
@@ -12162,7 +12164,7 @@ To determine whether the aura increases two criteria must be met: the caster mus
 
 If this ritual is cast using *Wizard's Communion* then only the leader of the ritual must kill herself, and only the values of her Art Scores are significant.
 
-If a character learns of this ritual it may occur to her (Intelligence + Order of Hermes Lore roll against an Ease Factor of 3) that the reputed sacrifice of Trianoma to increase the aura of Durenmar may have been a version of this ritual (see *Houses of Hermes: True Lineages*, page 8).
+If a character learns of this ritual it may occur to her (Intelligence + Order of Hermes Lore roll against an Ease Factor of 3) that the reputed sacrifice of Trianoma to increase the aura of Durenmar may have been a version of this ritual (see [*Houses of Hermes: True Lineages*, page 8](<Ars Magica 5e - Houses of Hermes - True Lineages.md>)).
 
 (Base Effect, non-Hermetic)<br>
 Source: *Mythic Locations*, 99
@@ -12196,7 +12198,7 @@ There is no way of discerning that the ritual does not work, other than by readi
 (Base Effect, non-Hermetic)<br>
 Source: *Mythic Locations*, 99
 
-<!-- p. 223 -->
+<!-- p. 223 --><a id="page-223"></a>
 
 ### Intellego Vim Spells
 
@@ -12248,7 +12250,7 @@ You can tell what Art a supply of raw vis is connected to. To you, the vis appea
 (Base 4, +1 Touch)<br>
 Source: *Ars Magica Fifth Edition*, 158
 
-<!-- p. 224 -->
+<!-- p. 224 --><a id="page-224"></a>
 
 #### LEVEL 10
 
@@ -12303,7 +12305,7 @@ Note that this ritual does not need to Penetrate to have an effect.
 (Base Effect, non-Hermetic)<br>
 Source: *Mythic Locations*, 100
 
-<!-- p. 225 -->
+<!-- p. 225 --><a id="page-225"></a>
 
 ##### Detect the Gift
 InVi 20<br>
@@ -12324,7 +12326,7 @@ Source: *Hedge Magic*, 6
 ##### Numbness of The Gift
 InVi 20<br>
 R: Per, D: Conc, T: Touch<br>
-When the caster places his hand on another character who has The Gift, his hand feels numb. This spell was initially invented to detect Gifted hedge wizards, and was first described in *Hedge Magic*, page 6.
+When the caster places his hand on another character who has The Gift, his hand feels numb. This spell was initially invented to detect Gifted hedge wizards, and was first described in [*Hedge Magic*, page 6](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>).
 
 Source: *Apprentices*, 33
 
@@ -12363,7 +12365,7 @@ Source: *The Mysteries*, 51
 ##### This Heart of Darkness
 InVi 20<br>
 R: Touch, D: Mom, T: Room<br>
-Cast within an Infernal aura, this spell reveals whether actions taken within this room were responsible for drawing in the Infernal. This could be through a personal evil or sin, or an Infernal ritual. Any event that induces a corruption roll (*Realms of Power: The Infernal*, page 11) taints the location and is equivalent to a tether. This spell cannot provide information about the evil that took place, nor even how long ago it was committed.
+Cast within an Infernal aura, this spell reveals whether actions taken within this room were responsible for drawing in the Infernal. This could be through a personal evil or sin, or an Infernal ritual. Any event that induces a corruption roll ([*Realms of Power: The Infernal*, page 11](<Ars Magica 5e - Realms of Power - The Infernal.md#corruption>)) taints the location and is equivalent to a tether. This spell cannot provide information about the evil that took place, nor even how long ago it was committed.
 
 (Base 5, +1 Touch, +2 Room)<br>
 Source: *Legends of Hermes*, 17
@@ -12377,7 +12379,7 @@ This spell allows the caster to see any Herbam miasmas in the area.
 (Base 3, +1 Concentration, +4 Vision)<br>
 Source: *Dies Irae*, 101
 
-<!-- p. 226 -->
+<!-- p. 226 --><a id="page-226"></a>
 
 #### LEVEL 25
 
@@ -12433,7 +12435,7 @@ Source: *Through the Aegis*, 140
 ##### Stench of Magic
 InVi 25<br>
 R: Per, D: Conc, T: Smell<br>
-The caster can smell the presence of spell traces down to magnitude zero. See Detecting Spell Traces insert in *Hooks*, page 83.
+The caster can smell the presence of spell traces down to magnitude zero. See Detecting Spell Traces insert in [*Hooks*, page 83](<Ars Magica 5e - Hooks.md#detecting-spell-traces>).
 
 (Base 10, +1 Concentration, +2 Smell)<br>
 Source: *Hooks*, 82
@@ -12448,7 +12450,7 @@ Reports all aspects of the astrological conditions (minute, hour, day, sign, pla
 (Base 10, +4 Arcane Connection)<br>
 Source: *The Mysteries*, 51
 
-<!-- p. 227 -->
+<!-- p. 227 --><a id="page-227"></a>
 
 ##### Flesh Crawls at the Intangible Touch
 InVi 30<br>
@@ -12496,7 +12498,7 @@ The caster can detect all active magical effects. Spells appear as glowing light
 (Base 5, +1 Diameter, +4 Vision)<br>
 Source: *Hermetic Projects*, 83
 
-<!-- p. 228 -->
+<!-- p. 228 --><a id="page-228"></a>
 
 ##### Sense of the Lingering Magic
 InVi 30<br>
@@ -12554,7 +12556,7 @@ Note that a general Intellego Vim spell to detect magic might be used to provide
 (Base 5, +1 Diameter, +4 Vision, +3 detailed information)<br>
 Source: *Hermetic Projects*, 83
 
-<!-- p. 229 -->
+<!-- p. 229 --><a id="page-229"></a>
 
 #### LEVEL 50
 
@@ -12566,7 +12568,7 @@ Used by the most experienced Quaesitors, this spell allows the magus to spot act
 (Base 10, +1 Concentration, +4 Vision, +3 Details)<br>
 Source: *Houses of Hermes – True Lineages*, 75
 
-<!-- p. 230 -->
+<!-- p. 230 --><a id="page-230"></a>
 
 ### Muto Vim Spells
 
@@ -12575,7 +12577,7 @@ Source: *Houses of Hermes – True Lineages*, 75
 ##### Day of Communion
 MuVi Gen<br>
 R: Voice, D: Sun, T: Group.<br>
-This spell is a *Wizard's Communion* as found in *Ars Magica Fifth Edition*, page 160, but with a longer duration. In accordance with the errata for Muto Vim such spells need a duration at least as long as the casting of the target spell. As Rituals are minimum level 20 and take 15 minutes per magnitude to cast, a Muto Vim spell needs to last one hour or more, making Duration: Concentration impractical. All the magi in the group must add together the (level-2 magnitudes) of the *Day of Communion* they are casting. This number must exceed twice the level of the specified ritual being cast. As no more than one magus may join the group for each magnitude of the ritual being cast, this means that this spell is largely useless below level 20. It is highly useful for casting an efficient *Aegis of the Hearth*, which is no exception to the rule that all spells directly affecting targets must Penetrate.
+This spell is a *Wizard's Communion* as found in [*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>), but with a longer duration. In accordance with the errata for Muto Vim such spells need a duration at least as long as the casting of the target spell. As Rituals are minimum level 20 and take 15 minutes per magnitude to cast, a Muto Vim spell needs to last one hour or more, making Duration: Concentration impractical. All the magi in the group must add together the (level-2 magnitudes) of the *Day of Communion* they are casting. This number must exceed twice the level of the specified ritual being cast. As no more than one magus may join the group for each magnitude of the ritual being cast, this means that this spell is largely useless below level 20. It is highly useful for casting an efficient *Aegis of the Hearth*, which is no exception to the rule that all spells directly affecting targets must Penetrate.
 
 (Base effect, with two magnitudes devoted to the Duration.)<br>
 Source: *Through the Aegis*, 137
@@ -12592,7 +12594,7 @@ Source: *Realms of Power – The Infernal*, 122
 ##### Facilitate the Stifled (Form) Spell
 MuVi Gen<br>
 R: Touch, D: Mom, T: Ind<br>
-This spell is cast at the same time as another formulaic spell (see *Ars Magica Fifth Edition*, page 159) whose level must be less than twice the level of this spell. If successfully cast, the targeted spell may be cast with no penalty to the casting total due to reduced or absent gestures and/or voice. While this Muto Vim spell requires gestures and voice as normal, the casting total of the follow-up spell is not penalized, and thus difficult spells at the limit of a magus's ability have a greater chance of success when in restricted circumstances, without incurring fatigue loss. If the targeted spell has Range Voice, the volume used to cast this spell determines the actual range. There are ten versions of this spell, each affecting spells of one of the Hermetic Forms. This spell is particularly useful to Bjornaer magi who wish to maintain the appearance of mundane animals yet still cast spells.
+This spell is cast at the same time as another formulaic spell (see [*Ars Magica Fifth Edition*, page 159](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>)) whose level must be less than twice the level of this spell. If successfully cast, the targeted spell may be cast with no penalty to the casting total due to reduced or absent gestures and/or voice. While this Muto Vim spell requires gestures and voice as normal, the casting total of the follow-up spell is not penalized, and thus difficult spells at the limit of a magus's ability have a greater chance of success when in restricted circumstances, without incurring fatigue loss. If the targeted spell has Range Voice, the volume used to cast this spell determines the actual range. There are ten versions of this spell, each affecting spells of one of the Hermetic Forms. This spell is particularly useful to Bjornaer magi who wish to maintain the appearance of mundane animals yet still cast spells.
 
 (Base effect, +1 Touch)<br>
 Source: *Houses of Hermes – Mystery Cults*, 36
@@ -12614,7 +12616,7 @@ You cast this spell as another spell of a level less than this one is cast. The 
 **Note:** This spell is listed as a possible laboratory project that may be produced from Insights gained from researching Grigori Magic.<br>
 Source: *Ancient Magic*, 67
 
-<!-- p. 231 -->
+<!-- p. 231 --><a id="page-231"></a>
 
 ##### Mirror of Opposition (Form)
 MuVi Gen<br>
@@ -12627,7 +12629,7 @@ Source: *Ars Magica Fifth Edition*, 159
 ##### Passing the Reins of Corpus
 MuVi Gen<br>
 R: Touch, D: Mom, T: Ind<br>
-Cast at the same time as another spell, this spell lets the caster pass control of the first spell to another person. The level of the affected spell must be less than the level +1 magnitude of *Passing the Reins of (Form)*, and it only works on spells with Duration longer than Momentary. The spell does not change the target of the affected spell. As with other Muto Vim spells, the caster must succeed at an Intelligence + Concentration roll against an Ease Factor of 9 (*Ars Magica Fifth Edition*, page 159).
+Cast at the same time as another spell, this spell lets the caster pass control of the first spell to another person. The level of the affected spell must be less than the level +1 magnitude of *Passing the Reins of (Form)*, and it only works on spells with Duration longer than Momentary. The spell does not change the target of the affected spell. As with other Muto Vim spells, the caster must succeed at an Intelligence + Concentration roll against an Ease Factor of 9 ([*Ars Magica Fifth Edition*, page 159](<Ars Magica 5e - Core Rules.md#muto-vim-spells>) / [Definitive Edition, page 368](<Ars Magica - Definitive Edition (Core Rules).md#muto-vim-spells>)).
 
 (Base effect, +1 Touch)<br>
 Source: *Hermetic Projects*, 97
@@ -12667,7 +12669,7 @@ This spell splits another spell (whose level must not exceed the level of this s
 **Note:** The line in italics above was removed in the errata.<br>
 Source: *Ars Magica Fifth Edition*, 159
 
-<!-- p. 232 -->
+<!-- p. 232 --><a id="page-232"></a>
 
 ##### The Wicked Jar
 MuVi Gen<br>
@@ -12704,7 +12706,7 @@ The Target of the targeted spell increases by one category; all targets affected
 (Base effect, +2 Voice)<br>
 Source: *Magi of Hermes*, 113
 
-<!-- p. 233 -->
+<!-- p. 233 --><a id="page-233"></a>
 
 ##### Wizard's Reach (Form)
 MuVi Gen<br>
@@ -12719,7 +12721,7 @@ Source: *Ars Magica Fifth Edition*, 160
 ##### Wizard's Communion
 MuVi 5<br>
 R: Voice, D: Mom, T: Group<br>
-These Mercurian "rituals" translate to *Wizard's Communion* (*Ars Magica Fifth Edition*, page 160). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals.
+These Mercurian "rituals" translate to *Wizard's Communion* ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>)). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals.
 
 Obviously, as *Wizard's Communion* already exists in the Hermetic repertoire there is little point translating this text. The fact that there are already existing Hermetic versions suggests that another magus has translated similar rituals gathered from another site. Perhaps this was some of the work that Bonisagus did at Aventine Hill.
 
@@ -12731,7 +12733,7 @@ Source: *Mythic Locations*, 100
 ##### Wizard's Communion
 MuVi 10<br>
 R: Voice, D: Mom, T: Group<br>
-These Mercurian "rituals" translate to *Wizard's Communion* (*Ars Magica Fifth Edition*, page 160). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals.
+These Mercurian "rituals" translate to *Wizard's Communion* ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>)). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals.
 
 Obviously, as *Wizard's Communion* already exists in the Hermetic repertoire there is little point translating this text. The fact that there are already existing Hermetic versions suggests that another magus has translated similar rituals gathered from another site. Perhaps this was some of the work that Bonisagus did at Aventine Hill.
 
@@ -12752,7 +12754,7 @@ Source: *Guardians of the Forest*, 73
 ##### Wizard's Communion
 MuVi 20<br>
 R: Voice, D: Mom, T: Group<br>
-These Mercurian "rituals" translate to *Wizard's Communion* (*Ars Magica Fifth Edition*, page 160). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals.
+These Mercurian "rituals" translate to *Wizard's Communion* ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>)). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals.
 
 Obviously, as *Wizard's Communion* already exists in the Hermetic repertoire there is little point translating this text. The fact that there are already existing Hermetic versions suggests that another magus has translated similar rituals gathered from another site. Perhaps this was some of the work that Bonisagus did at Aventine Hill.
 
@@ -12764,12 +12766,12 @@ Source: *Mythic Locations*, 100
 ##### Wizard's Vigil
 MuVi 40<br>
 R: Voice, D: Sun, T: Group<br>
-When *Wizard's Communion* (*Ars Magica Fifth Edition*, page 160) is used to assist casting, the *Wizard's Communion* effect must last for the whole casting time of the effected spell. *Wizard's Vigil* is a version of *Wizard's Communion* with Sun Duration for use with Ritual spells, as for rituals the casting time is 15 minutes per magnitude. For the purposes of calculating the effect *Wizard's Vigil* is treated as a *Wizard's Communion* two magnitudes lower. The version known by Alexander is therefore treated as a level 30 *Wizard's Communion*. Some of the other magi know versions of a different level.
+When *Wizard's Communion* ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>)) is used to assist casting, the *Wizard's Communion* effect must last for the whole casting time of the effected spell. *Wizard's Vigil* is a version of *Wizard's Communion* with Sun Duration for use with Ritual spells, as for rituals the casting time is 15 minutes per magnitude. For the purposes of calculating the effect *Wizard's Vigil* is treated as a *Wizard's Communion* two magnitudes lower. The version known by Alexander is therefore treated as a level 30 *Wizard's Communion*. Some of the other magi know versions of a different level.
 
 (Base 30, +2 Sun)<br>
 Source: *Through the Aegis*, 75
 
-<!-- p. 234 -->
+<!-- p. 234 --><a id="page-234"></a>
 
 ### Perdo Vim Spells
 
@@ -12831,12 +12833,12 @@ This spell operates against a demon that is currently possessing a human (see Ch
 (Base effect +2 Voice)<br>
 Source: *Realms of Power – The Infernal*, 122
 
-<!-- p. 235 -->
+<!-- p. 235 --><a id="page-235"></a>
 
 ##### Fumigant of Minor Demons
 PeVi Gen<br>
 R: Touch, D: Mom, T: Bound\*, Ritual<br>
-A variant of *Demon's Eternal Oblivion* (*Ars Magica Fifth Edition*, page 160) designed to destroy all of the minor infernal spirits on the island. The demons affected have a Might equal to the spell's level –25, lower if the Boundary is larger.
+A variant of *Demon's Eternal Oblivion* ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#demons-eternal-oblivion>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>)) designed to destroy all of the minor infernal spirits on the island. The demons affected have a Might equal to the spell's level –25, lower if the Boundary is larger.
 
 \* Remember to add further magnitudes to increase Boundary size.
 
@@ -12887,7 +12889,7 @@ There are ten versions of this spell, one for each Hermetic Form (see New Guidel
 (Base effect, +2 Voice, +1 Diam)<br>
 Source: *The Contested Isle – The Hibernian Tribunal*, 62
 
-<!-- p. 236 -->
+<!-- p. 236 --><a id="page-236"></a>
 
 ##### Revoke the Protection of (Realm)
 PeVi Gen<br>
@@ -12956,7 +12958,7 @@ This spell will cancel the effects of any one spell of a specified Form whose le
 (Base effect, +2 Voice)<br>
 Source: *Ars Magica Fifth Edition*, 161
 
-<!-- p. 237 -->
+<!-- p. 237 --><a id="page-237"></a>
 
 ##### Wind of Mundane Silence
 PeVi Gen<br>
@@ -12997,7 +12999,7 @@ Obviously, this spell is only really useful for attacking other magi. Thus, some
 
 Like all spells, this spell must Penetrate to be effective. Higher-level versions of this are possible for attacking targets with greater Parma Magica scores.
 
-Note that this spell uses the Perdo Vim guideline, which dispels magic effects of a specific type (*Ars Magica Fifth Edition*, page 160). Parma Magica is an example of a magical effect of a specific type, which all Hermetic magi are familiar with. This is why *Wind of Mundane Silence* (*Ars Magica Fifth Edition*, page 161), which dispels *all* magical effects is effective against Parma Magica. This spell does not dispel Magic Resistance generated via other sources, nor is this spell effective against any other sorts of magic.
+Note that this spell uses the Perdo Vim guideline, which dispels magic effects of a specific type ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#perdo-vim-guidelines>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#perdo-vim-guidelines>)). Parma Magica is an example of a magical effect of a specific type, which all Hermetic magi are familiar with. This is why *Wind of Mundane Silence* ([*Ars Magica Fifth Edition*, page 161](<Ars Magica 5e - Core Rules.md#wind-of-mundane-silence>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#wind-of-mundane-silence>)), which dispels *all* magical effects is effective against Parma Magica. This spell does not dispel Magic Resistance generated via other sources, nor is this spell effective against any other sorts of magic.
 
 (Base 5, +1 Touch)<br>
 Source: *Hermetic Projects*, 85
@@ -13012,12 +13014,12 @@ A black tentacle, similar to a writhing whip, lashes out from the caster's palm 
 (Base effect, +2 Voice, free cosmetic effect)<br>
 Source: *Magi of Hermes*, 133
 
-<!-- p. 238 -->
+<!-- p. 238 --><a id="page-238"></a>
 
 ##### Dreadful Bane of the Fae
 PeVi 10<br>
 R: Voice, D: Mom, T: Ind<br>
-As per *Demon's Eternal Oblivion* (*Ars Magica Fifth Edition*, page 160), but affects faeries. This version strips 10 from the Might Score if it penetrates Magic Resistance.
+As per *Demon's Eternal Oblivion* ([*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#demons-eternal-oblivion>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>)), but affects faeries. This version strips 10 from the Might Score if it penetrates Magic Resistance.
 
 (Base effect, +2 Voice)<br>
 Source: *Tales of Power*, 123
@@ -13025,7 +13027,7 @@ Source: *Tales of Power*, 123
 ##### Lash the Wayward Spirit
 PeVi 10<br>
 R: Voice, D: Mom, T: Ind<br>
-As per *Demon's Eternal Oblivion*, described in *Ars Magica Fifth Edition*, page 160, but for magical spirits.
+As per *Demon's Eternal Oblivion*, described in [*Ars Magica Fifth Edition*, page 160](<Ars Magica 5e - Core Rules.md#demons-eternal-oblivion>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>), but for magical spirits.
 
 (Base, +2 Voice)<br>
 Source: *Through the Aegis*, 109
@@ -13035,7 +13037,7 @@ Source: *Through the Aegis*, 109
 ##### Belittle the Ferocious Warlock
 PeVi 20<br>
 R: Sight, D: Diam, T: Ind<br>
-Upon penetrating the Magic Resistance of the target, the spell reduces the casting total of the affected victim by 5 levels. The evocation does not hinder the movement or senses of the target in any way, but merely affects all magic that is cast. Note that this spell must be fast cast if it is supposed to take effect before the opponent can act in the first round. (See *Ars Magica Fifth Edition*, pages 83 and 87.)
+Upon penetrating the Magic Resistance of the target, the spell reduces the casting total of the affected victim by 5 levels. The evocation does not hinder the movement or senses of the target in any way, but merely affects all magic that is cast. Note that this spell must be fast cast if it is supposed to take effect before the opponent can act in the first round. (See [*Ars Magica Fifth Edition*, pages 83](<Ars Magica 5e - Core Rules.md#page-83>) / [Definitive Edition, page 216](<Ars Magica - Definitive Edition (Core Rules).md#non-ritual-spells>) and 87.)
 
 In Tolides' version of the spell, it appears as if the target is trapped in a dark cocoon of semi-transparent, wildly writhing vapor.
 
@@ -13080,7 +13082,7 @@ Casting this spell requires that Al-'Aqrab be within sight of the target's bound
 (Base effect, +3 Sight)<br>
 Source: *Tales of Power*, 126
 
-<!-- p. 239 -->
+<!-- p. 239 --><a id="page-239"></a>
 
 #### LEVEL 30
 
@@ -13103,7 +13105,7 @@ This spell destroys the Arcane Connection between two items.
 (Base 30, +1 Touch)<br>
 Source: *Dies Irae*, 103
 
-<!-- p. 240 -->
+<!-- p. 240 --><a id="page-240"></a>
 
 ### Rego Vim Spells
 
@@ -13137,12 +13139,12 @@ The *Aegis* is typically cast on the winter solstice, since magical auras can be
 (Base effect)<br>
 Source: *Ars Magica Fifth Edition*, 161
 
-<!-- p. 241 -->
+<!-- p. 241 --><a id="page-241"></a>
 
 ##### Arcane Seal
 ReVi Gen<br>
 R: Touch, D: Sun, T: Ind<br>
-This spell can be cast on a magical tunnel created by an *Intangible Tunnel*-style of effect, but it may only be cast by the magus who originally cast the *Intangible Tunnel* effect, because this spell uses the "suppress own spell" guideline (see *Ars Magica Fifth Edition*, page 161).
+This spell can be cast on a magical tunnel created by an *Intangible Tunnel*-style of effect, but it may only be cast by the magus who originally cast the *Intangible Tunnel* effect, because this spell uses the "suppress own spell" guideline (see [*Ars Magica Fifth Edition*, page 161](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>)).
 
 The tunnel is sealed for the duration of this spell, and spells can no longer be cast through the tunnel in either direction.
 
@@ -13158,7 +13160,7 @@ ReVi Gen<br>
 R: Voice, D: Sun, T: Ind<br>
 This spell suppresses a magical tunnel created by Hermetic Vim magic, if the level of the magical tunnel creating spell is less than or equal to half the level of this spell + 1 magnitude. For the duration of this spell, spells can no longer be cast through the tunnel, in either direction. When this spell expires, or it is ended some other way, the tunnel may be used again (if it has not expired in the meantime).
 
-It is a good idea to master this spell taking the Fast Casting mastery (*Ars Magica Fifth Edition*, page 87).
+It is a good idea to master this spell taking the Fast Casting mastery ([*Ars Magica Fifth Edition*, page 87](<Ars Magica 5e - Core Rules.md#casting-spells>) / [Definitive Edition, page 213](<Ars Magica - Definitive Edition (Core Rules).md#casting-spells>)).
 
 This spell can be cast at either end of the magical tunnel. However, note that, without the aid of magical senses, only the original caster of the magical tunnel can target it. Of course, the *Break the Siege* effect is a spell, and can be dispelled itself. However, the *Break the Siege* spell is only present at the end which it was cast at. There is nothing to dispel at the other end.
 
@@ -13197,7 +13199,7 @@ Causes the apparent Infernal aura of strength equal to (ritual magnitude – 9) 
 (Base, +1 Touch, +4 Year, +4 Boundary)<br>
 Source: *Legends of Hermes*, 18
 
-<!-- p. 242 -->
+<!-- p. 242 --><a id="page-242"></a>
 
 ##### Guttering of the Home-Fires
 ReVi Gen<br>
@@ -13249,7 +13251,7 @@ The target of this spell cannot use any curse magic with a level less than or eq
 (Base effect, +2 Voice, +2 Sun)<br>
 Source: *Houses of Hermes – Societates*, 129
 
-<!-- p. 243 -->
+<!-- p. 243 --><a id="page-243"></a>
 
 ##### Suppressing the Wizard's Handiwork
 ReVi Gen<br>
@@ -13316,12 +13318,12 @@ Note that, despite the name of this spell, a Diameter duration spell actually la
 (Base effect, +4 Arcane Connection, +1 Diameter)<br>
 Source: *Hermetic Projects*, 80
 
-<!-- p. 244 -->
+<!-- p. 244 --><a id="page-244"></a>
 
 ##### The Patient Spell
 ReVi Gen<br>
 R: Touch, D: Conc, T: Ind<br>
-When this spell is cast in conjunction with a second spell (requiring an Intelligence + Concentration roll against an Ease Factor of 9), the other spell is delayed in taking effect until the caster ceases concentration on *The Patient Spell*. The target spell can be of no higher level than the level of *The Patient Spell*. A spell held using *The Patient Spell* may be released to interrupt an action in the same manner as a fast cast spell, requiring the same "fast casting" roll of Quickness + Finesse (*Ars Magica Fifth Edition* page 83).
+When this spell is cast in conjunction with a second spell (requiring an Intelligence + Concentration roll against an Ease Factor of 9), the other spell is delayed in taking effect until the caster ceases concentration on *The Patient Spell*. The target spell can be of no higher level than the level of *The Patient Spell*. A spell held using *The Patient Spell* may be released to interrupt an action in the same manner as a fast cast spell, requiring the same "fast casting" roll of Quickness + Finesse ([*Ars Magica Fifth Edition* page 83](<Ars Magica 5e - Core Rules.md#casting-spells>) / [Definitive Edition, page 213](<Ars Magica - Definitive Edition (Core Rules).md#casting-spells>)).
 
 Ranulf uses *The Patient Spell* to provide himself with an opportunity to cast *Boreal Flames* with *Pilum of Fire*. Maintaining concentration on *The Patient Spell* while casting another spell requires an Intelligence + Concentration roll against an Ease Factor of 9 to perform successfully; this is easier than normal, because the spell is designed for this use.
 
@@ -13360,14 +13362,14 @@ This spell has a duration of Moon. A confident magus might cast this spell immed
 (Base effect, +4 Arcane Connection, +3 Moon)<br>
 Source: *Hermetic Projects*, 80
 
-<!-- p. 245 -->
+<!-- p. 245 --><a id="page-245"></a>
 
 ##### Wrappings of Metaphysical Iron
 ReVi Gen<br>
 R: Touch, D: Sun, T: Ind<br>
 This spell wards an object from being touched or manipulated by faeries or faerie magic. Faeries with Might greater than the spell's level are not restrained by this spell, nor are faeries that resist the spell's Penetration.
 
-Lambert's version of this spell was developed from laboratory notes made by a Merinita magus with the virtue of Spell Potency (*The Mysteries Revised Edition* page 31 or *Houses of Hermes: Mystery Cults* page 6) concerning faeries. Lambert is unable to cast this spell unless he wraps an iron chain around the protected item at the time of the casting. Due to the influence of the iron chain, this spell is cast with a Potency Bonus of +7. Lambert finds that faeries rarely confront him about his use of this spell when he casts it on goods that he brings into their lands, but they become exceedingly displeased by the spell when it is used upon any item that is native to their home.
+Lambert's version of this spell was developed from laboratory notes made by a Merinita magus with the virtue of Spell Potency ([*The Mysteries Revised Edition* page 31](<Ars Magica 5e - The Mysteries (Revised).md>) or [*Houses of Hermes: Mystery Cults* page 6](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#merinita-mysteries>)) concerning faeries. Lambert is unable to cast this spell unless he wraps an iron chain around the protected item at the time of the casting. Due to the influence of the iron chain, this spell is cast with a Potency Bonus of +7. Lambert finds that faeries rarely confront him about his use of this spell when he casts it on goods that he brings into their lands, but they become exceedingly displeased by the spell when it is used upon any item that is native to their home.
 
 (Base Effect, no modifier Ring to Sun)<br>
 Source: *Magi of Hermes*, 68
@@ -13377,7 +13379,7 @@ Source: *Magi of Hermes*, 68
 ##### Cleanse the Verminous Vis
 ReVi 15<br>
 R: Touch, D: Mom, T: Ind<br>
-This spell is used to make vis of Infernal provenance safe for use by a Hermetic magus. It transfers the vis from its original physical form into a item of the magus's choosing, which is touched to the original vis. This item must be of sufficient shape and material (*Ars Magica Fifth Edition*, page 97) to be able to contain the vis transferred into it. However, this spell does not operate quite how the Venatores think that it does: vis which is heavily corrupted by the Infernal still contains a measure of its taint. Vis prava becomes vis sordida, vis sordida becomes vis infesta, and only vis infesta becomes normal vis (see Chapter 1: The Infernal Realm, Infernal Vis in *Realms of Power – The Infernal*). Note that casting this spell also incurs the extra botch dice inherent in handling Infernal vis, even though the Infernal vis is not consumed in its casting.
+This spell is used to make vis of Infernal provenance safe for use by a Hermetic magus. It transfers the vis from its original physical form into a item of the magus's choosing, which is touched to the original vis. This item must be of sufficient shape and material ([*Ars Magica Fifth Edition*, page 97](<Ars Magica 5e - Core Rules.md#shape-and-material>) / [Definitive Edition, page 254](<Ars Magica - Definitive Edition (Core Rules).md#shape-and-material>)) to be able to contain the vis transferred into it. However, this spell does not operate quite how the Venatores think that it does: vis which is heavily corrupted by the Infernal still contains a measure of its taint. Vis prava becomes vis sordida, vis sordida becomes vis infesta, and only vis infesta becomes normal vis (see Chapter 1: The Infernal Realm, Infernal Vis in *Realms of Power – The Infernal*). Note that casting this spell also incurs the extra botch dice inherent in handling Infernal vis, even though the Infernal vis is not consumed in its casting.
 
 (Base 10, +1 Touch)<br>
 Source: *Realms of Power – The Infernal*, 122
@@ -13416,7 +13418,7 @@ The length of the caster's journey through the Twilight Void is reduced by three
 (Base 20)<br>
 Source: *Realms of Power – Magic*, 28
 
-<!-- p. 246 -->
+<!-- p. 246 --><a id="page-246"></a>
 
 #### LEVEL 25
 
@@ -13433,7 +13435,7 @@ Source: *The Mysteries*, 40
 ##### A Day's Grace
 ReVi 30<br>
 R: Touch, D: Hours, T: Ind<br>
-Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see *The Mysteries Revised Edition*, page 49).
+Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see [*The Mysteries Revised Edition*, page 49](<Ars Magica 5e - The Mysteries (Revised).md>)).
 
 The suppressed spell can have a level up to 25 and may be Spontaneous, Ceremonial or Formulaic. Ritual spells are too complex to be suppressed by this spell although should a version of this spell be designed as a Ritual that should be possible.
 
@@ -13451,9 +13453,9 @@ ReVi 50<br>
 R: Touch, D: Year, T: Room, Ritual<br>
 This spell allows a subsumed aura to manifest by temporarily suppressing an apparent Dominion aura of strength less than or equal to three. It has a Room Target and so produces a localized effect, ideal for mimicking a weak lacuna. If there are any other auras present, the strongest of these manifests.
 
-Casting this ritual creates a preternatural tether of level one and provides a +1 yearly aura modifier, both as described in *Realms of Power: Magic*, page 10.
+Casting this ritual creates a preternatural tether of level one and provides a +1 yearly aura modifier, both as described in [*Realms of Power: Magic*, page 10](<Ars Magica 5e - Realms of Power - Magic.md#yearly-aura-modifier>).
 
-This laboratory text is for a level 50 ritual but the effect is general. By re-creating the spell from this laboratory text, the maga accumulates 10 points towards researching Confluence of the Realms (see *Legends of Hermes*). To do this, Conciatta's own code must first be broken (*Ars Magica Fifth Edition*, page 102), which requires at least a season working with the text to decode it. The only available casting tablet for this spell is the one written into the cellar fresco.
+This laboratory text is for a level 50 ritual but the effect is general. By re-creating the spell from this laboratory text, the maga accumulates 10 points towards researching Confluence of the Realms (see *Legends of Hermes*). To do this, Conciatta's own code must first be broken ([*Ars Magica Fifth Edition*, page 102](<Ars Magica 5e - Core Rules.md#page-102>) / [Definitive Edition, page 262](<Ars Magica - Definitive Edition (Core Rules).md#using-laboratory-texts>)), which requires at least a season working with the text to decode it. The only available casting tablet for this spell is the one written into the cellar fresco.
 
 (Base 15, +1 Touch, +4 Year, +2 Room)<br>
 Source: *Legends of Hermes*, 26
@@ -13468,7 +13470,7 @@ The *Magna Claustra* (Latin: Great Barrier) protects an area from the Great Pest
 (Base 50, +1 Touch, +4 Year, +4 Boundary)<br>
 Source: *Dies Irae*, 103
 
-<!-- p. 247 -->
+<!-- p. 247 --><a id="page-247"></a>
 
 ## The Art of Aethera
 
@@ -13545,7 +13547,7 @@ This effect has a number of advantages over the much lower level equivalent CrIg
 (Base 10, +3 Sight, +1 Concentration, +1 intensity)<br>
 Source: *Dies Irae*, 42
 
-<!-- p. 248 -->
+<!-- p. 248 --><a id="page-248"></a>
 
 ### Perdo Aethera
 

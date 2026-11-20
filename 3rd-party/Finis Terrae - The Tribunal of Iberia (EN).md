@@ -1,14 +1,14 @@
-<!-- p. 1 -->
+<!-- p. 1 --><a id="page-1"></a>
 
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
 # The Iberian Tribunal: Finis Terrae
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 ## Markdown Version Specifics
 
@@ -18,6 +18,8 @@ Visit the github for the latest revision of this document and the complete texts
 This is an English translation of *El Tribunal de Iberia: Finis Terrae*, published in Spanish by Holocubierta Ediciones under CC BY-SA 4.0. While this text is complete and provided completely free, we highly recommend to buy the illustrated Spanish book and/or its digital PDF directly from Holocubierta Ediciones: https://www.holocubierta.com
 
 *[Completion state: Done. Spanish text extracted from the official PDF and every page cleaned and checked against the page images, then translated into English with AI assistance. Ars Magica terminology is mapped to official English names through a project glossary checked against the Definitive Edition, Houses of Hermes: True Lineages, Mystery Cults and Societates, and Realms of Power: Magic; a short list of terms whose official names could not be confirmed is kept in the project glossary. Page references point to the Spanish edition. Remaining: review by a fluent reader; maps and illustrations are not included.]*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.* *The translation is shared under the same license.*
 
@@ -76,9 +78,9 @@ Ars Magica, Mythic Europe, Covenants, Guardians of the Forests, Houses of Hermes
 
 Óscar's acknowledgments: to Irene, for encouraging me to follow my passions (even though Finis Terrae has no section on food and wizards), and for always wanting to hear one more story; to my father, for telling me stories from the Bible when I was knee-high to a grasshopper and giving me (if nothing else) the reading bug; to my mother, wherever you are; to all of you who encouraged me to write this book when not even I believed in myself; and to Mario, for inviting me to embark on this adventure, in which I have received far more than I have given: it has been an unforgettable journey, and it has been an honor to travel it with you.
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 ## Table of Contents
 
@@ -177,7 +179,7 @@ Ars Magica, Mythic Europe, Covenants, Guardians of the Forests, Houses of Hermes
 
 ---
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
 # I. Introduction
 
@@ -199,9 +201,9 @@ The book opens with this introduction and devotes the following chapter to munda
 
 #### On the Story Seeds
 
-Numerous story seeds are presented throughout the book. Although they can be used with the game's canonical starting date in mind (that is, 1220), unless a different date is indicated, they are also designed to be used from the time periods in which they are set. For example, if you wanted to set the start of your saga at the beginning of the Umayyad Caliphate, you could use all the seeds presented up to that date (clearly defined in the second section, or what would be up to the subsection on the Arabization of the Iberian Tribunal in the third section, page 74); what's more, some of the seeds fit better in the era with which they are contemporary, such as those concerning the *mayús* (see page 286).
+Numerous story seeds are presented throughout the book. Although they can be used with the game's canonical starting date in mind (that is, 1220), unless a different date is indicated, they are also designed to be used from the time periods in which they are set. For example, if you wanted to set the start of your saga at the beginning of the Umayyad Caliphate, you could use all the seeds presented up to that date (clearly defined in the second section, or what would be up to the subsection on the Arabization of the Iberian Tribunal in the third section, [page 74](#page-74)); what's more, some of the seeds fit better in the era with which they are contemporary, such as those concerning the *mayús* (see [page 286](#page-286)).
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 #### On Canonical Mythic Europe
 
@@ -229,7 +231,7 @@ As for Hebrew names, we have respected the spelling that appears in the translat
 
 The Arabic naming system is somewhat complex, so a brief guide follows. The personal name is known as the *ism*, and it usually contains religious references. Thus we have, for example, the name ʿAbd Allāh, which means "slave of God," or ʿAbd al-Raḥmān, which means "slave of the Merciful," or, outside the theological sphere, Ŷaʿfar, which means "stream." Next comes the *nasab*, which sets out the individual's male ancestry, that is, the name of the father, grandfather and so on, joined by the word *ibn* (or *ḅint* for women), meaning "son/daughter of," or in the case of magi, the name of the *parens* and those before them (the Order does not restrict the *nasab* to male Hermetic ancestry). Naturally, those magi of Iberia who belong to the True Lineages of Hermes can trace their lineage back to the Founders, and bear truly long names. The third part of the name is the *nisba*, which indicates the individual's tribal, family or professional affiliation, as for example al-Umawī (meaning "the Umayyad") or al-Qurṭubī (which refers to the city where one lives or from which one comes, in this case "the Cordoban"). A name may bear several *nisbas*, and more can be added over time. Thus, for example, we might have ʿAbd Allāh ibn Ŷaʿfar al-Qurṭubī. Names may also bear another element called the *kunya*, in which the word *abū*, meaning "father," appears linked to the name of a son, to a family tradition, or to a particular virtue or quality. Thus, for example, Abū Ŷaʿfar would be "father of Ŷaʿfar." Some magi of the Peninsula have even come to be known by the apprentices they had, so that history has remembered them this way and their names reflect it, as might be the case with Abū Ǧamīla, for example. Finally, the name may contain a nickname or *laqab*, which may refer to a physical trait (such as al-Ṣagīr, meaning "the small") or to an honorific title, such as those borne by the caliphs. For example, ʿAbd al-Raḥmān bore the epithet al-Nāṣir, meaning "the conqueror."
 
-With the cultural revolution of Ǧamīla (see page 75), the magi of the Peninsula began to adopt Arabic names. Many of these names appear in the book, sometimes as *laqab*, *ism* or *nisba* (or a combination of all of them), depending on how their bearers came to be known. Below is a table of the *nisbas* (in their feminine and masculine forms) of the Hermetic Houses, a nomenclature most magi of the Tribunal tend to prefer over the one used in the rest of the Order beyond the borders of Iberia.
+With the cultural revolution of Ǧamīla (see [page 75](#page-75)), the magi of the Peninsula began to adopt Arabic names. Many of these names appear in the book, sometimes as *laqab*, *ism* or *nisba* (or a combination of all of them), depending on how their bearers came to be known. Below is a table of the *nisbas* (in their feminine and masculine forms) of the Hermetic Houses, a nomenclature most magi of the Tribunal tend to prefer over the one used in the rest of the Order beyond the borders of Iberia.
 
 | House | Feminine Nisba | Masculine Nisba |
 | --- | --- | --- |
@@ -248,7 +250,7 @@ With the cultural revolution of Ǧamīla (see page 75), the magi of the Peninsul
 | Tytalus | al-Tŷtaliyya | al-Tŷtalī |
 | Verditius | al-Verditiyya | al-Verditī |
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 #### On the Mythic Dīnār
 
@@ -262,7 +264,7 @@ To adapt the existing nomenclature for money in Ars Magica, and without going in
 | --- | --- | --- |
 | Mythic Pound | 20 | 150 |
 
-To give a few examples from the bibliography: in the tenth century, a merchant earned about 5.5 dīnārs a year, and a house might cost around 10 dīnārs; in the eleventh century, during the taifa kingdoms, the last Zirid king of Granada, ʿAbd Allāh (see page 36), paid an initial sum of 30,000 mithqals to Alfonso VI of Leon to avoid being attacked by the Christian armies, and undertook to pay 10,000 mithqals a year to maintain the agreement. On that basis, the figure in Mythic Pounds would be an initial 1,500 pounds (the value of a castle and a half!) and some 500 pounds a year.
+To give a few examples from the bibliography: in the tenth century, a merchant earned about 5.5 dīnārs a year, and a house might cost around 10 dīnārs; in the eleventh century, during the taifa kingdoms, the last Zirid king of Granada, ʿAbd Allāh (see [page 36](#page-36)), paid an initial sum of 30,000 mithqals to Alfonso VI of Leon to avoid being attacked by the Christian armies, and undertook to pay 10,000 mithqals a year to maintain the agreement. On that basis, the figure in Mythic Pounds would be an initial 1,500 pounds (the value of a castle and a half!) and some 500 pounds a year.
 
 #### On the Climate of Iberia
 
@@ -292,9 +294,9 @@ This book offers abundant information and ideas for you to fit into your saga. T
 
 We hope you enjoy reading it and the cultural richness of Iberia.
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 # II. Mythic History
 
@@ -329,7 +331,7 @@ In Iberia, all the Muslim rulers (Umayyads, taifa petty kings, Almoravids and Al
 
 To Islam, Christians and Jews are the People of the Book (*ahl al-Kitāb*), that is, readers of the revealed book. As descendants of Abraham, Christians and Jews must be respected, as dictated by the word *ḏimma*, which means both "protection" and "contract." The protected, that is, the dhimmis, may not be converted by force; they may live among Muslims and are allowed to practice their religion as long as they do not insult Islam, which is punishable by death. Dhimmis are subject to far heavier taxes than Muslims, and must pay the *ǧizya* (a head tax, or capitation) and the *jarāŷ* (on the lands they hold). Muslims, in contrast, must fund the holy war through an annual tax, must pay for their lands (if they have any) and must pay the tithe (*ʿušr*), ranging from 5% to 10% of the produce of their earnings in general (however, the obligation to pay lapses after a year, and minors, slaves, the insane and those unable to fend for themselves are exempt).
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 The contract of the *ḏimma* restricts the participation of non-Muslims in the social and economic life of the city. In general, the status of dhimmis is inferior: their testimony against Muslims is not valid, they may not hold processions or public demonstrations, they may not ring church bells, and they may not practice certain trades or professions or, barring exceptions, hold administrative, political or military office. Furthermore, they may not dress like Muslims, ride noble mounts (such as horses) or carry weapons. Nonetheless, they are guaranteed their lives, freedom of religion and possession of their property, and under Islamic law they may have their own leaders and courts so that they can be judged by their own laws and customs.
 
@@ -363,7 +365,7 @@ In Islam there is no separation between the powers of Church and State; the cali
 >
 > [^p13-I]: Excerpt from *The Book of the Ŷihād* by Averroes (Spanish translation by Carlos Quirós).
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 Each day, on a rotating basis, the *qādī* must gather the fuqahāʾ in his court (where the *hākim* must be present so that the qadi can consult him on the day's cases) to take their counsel and make his rulings more just. There must be no more than four of these advisors: two from the *qādī*'s court and two from the Great Mosque.
 
@@ -399,7 +401,7 @@ The Jews share many similarities with the Muslims: both have temples without ima
 
 The Jews lived under oppression once the Visigothic king Reccared adopted Christianity in the sixth century. Later, the decisions of King Sisebut in the eighth century (who decreed that they must convert to Christianity and receive baptism if they did not wish to live as slaves) drove them to help the Muslims in the conquest of Iberia, which allowed them to live in a favorable and tolerant climate after the arrival of the Umayyads. After long centuries of sorrow and persecution, they were at last able to flourish under the pact of the *ḏimma* in cities such as Granada, Saragossa, Tarragona, Jaén, Seville, Almería, Barcelona and Lucena. Indeed, Lucena was inhabited exclusively by Jews until 1148, and it had an important rabbinical school and a house of *fatà* (eunuchs, on whom the Jews operated with great care) destined for the harems of al-Andalus, where they served as spies, guards and go-betweens in harem politics.
 
-<!-- p. 15 -->
+<!-- p. 15 --><a id="page-15"></a>
 
 > #### Oremos pro perfidis iuadeis
 >
@@ -415,7 +417,7 @@ The Jews lived under oppression once the Visigothic king Reccared adopted Christ
 >
 > [^p15-III]: Excerpt from a poem by Álbaro of Cordoba in which he attacks the unbelief of the Jews, urging them to acknowledge that Christ is the Messiah. Spanish translation by Miguel Rodríguez-Pantoja, which reads: *Away with the perfidious sect of pagan errors, / away with the perfidious sect that engenders monsters: / behold, the heights shine with the sign of Christ*; taken from "Los mozárabes y sus poemas en el siglo ix" (in *Los mozárabes. Historia cultura y religión de los cristianos de al Ándalus*).
 
-<!-- p. 16 -->
+<!-- p. 16 --><a id="page-16"></a>
 
 With the fall of Toledo and the invasion of the Almoravids, the Jews lost their status. The Almoravids considered the sultans of the taifa kingdoms corrupt and impious, and imposed Islamic orthodoxy and purity of custom. They barred Jews from positions of responsibility in public bodies and expelled those who held positions of power. For this reason, the Jews emigrated en masse to the Christian kingdoms, where the monarchs welcomed them warmly. One example is the *Carta inter Christianos et Iudaeos*, promulgated by Alfonso VI, king of Castile and Leon, which laid down that Jews were to be treated much like Christians. Not for nothing did this king have as his physician Yūsuf ben Ferruziel, called Cidiello by the Christians, who was the monarch's favorite at the court of Toledo.
 
@@ -443,13 +445,13 @@ With the coming of the Almohads, nearly all the Jews who remained emigrated from
 >
 > Lastly, the Jews have their own cemetery and are buried with the head toward the west and the feet toward the east, so that at the moment of the resurrection their faces will be turned toward Jerusalem. If the aljama is small and has no cemetery, the Jews must bury their dead in another town that has one (bear in mind that moving corpses can be difficult on the roads of thirteenth-century Iberia).
 
-<!-- p. 17 -->
+<!-- p. 17 --><a id="page-17"></a>
 
 The Christian monarchs benefited greatly from this, for a cultural elite was arriving in their kingdoms that could help them organize the vast resettled lands they had on their hands. Among them were also great merchants and craftsmen, some so rich that they could advance money to the monarchs in times of severe financial crisis (so that they could keep fighting the Muslims). Moreover, the Jews also spoke and wrote Arabic (as well as Aramaic, Latin and the Romance languages), which made them perfect intermediaries in dealings with the Muslim kings. In Aragon, Jewish money financed the campaigns to conquer Valencia, and Alfonso VIII of Castile took out a loan from the Jew Joseph ben Salomón ben Shoshan to fund the military campaign that ended in the great victory of Las Navas de Tolosa.
 
 Although under civil law Jews may not hold positions of authority over Christians, they have wielded great power among the monarchs, in Castile as well as in Leon and Aragon.
 
-In 1220, in the kingdom of Castile (for in Aragon and Navarre the aljamas are autonomous), the king appoints a rabbi or chief judge who has authority over all the Jews of his kingdom and serves as intermediary between them and the Crown, since all Jews are the king's property (and the aljamas ultimately depend on the monarch); the Crown therefore protects them. In the tenth century, the fuero of Castrojeriz (see page 32) states: "whoever kills a Jew shall pay the same fine as whoever kills a Christian."
+In 1220, in the kingdom of Castile (for in Aragon and Navarre the aljamas are autonomous), the king appoints a rabbi or chief judge who has authority over all the Jews of his kingdom and serves as intermediary between them and the Crown, since all Jews are the king's property (and the aljamas ultimately depend on the monarch); the Crown therefore protects them. In the tenth century, the fuero of Castrojeriz (see [page 32](#page-32)) states: "whoever kills a Jew shall pay the same fine as whoever kills a Christian."
 
 > #### The Jews in Iberia
 >
@@ -478,7 +480,7 @@ The Mozarabs have three civil authorities: a *comes*, who exercises the authorit
 
 The Christians who do not live under the influence of Islam, north of the Central System, are organized around a court or *palatium* that does not reside permanently in any one place. It is an itinerant court, usually made up of high-ranking personages such as clerics, Jews, magnates and knights (nobles), in which the king holds absolute power. In his absence, the *alférez* (the royal standard-bearer, at the head of the royal guard) leads the army. At court, the scribes draft the royal ordinances, which are reviewed by a notary; the alcalde performs his duties as the court's judge; and the majordomo (a post held by members of powerful lineages) directs a number of household officers, such as the treasurers, the huntsmen and the chaplains.
 
-<!-- p. 18 -->
+<!-- p. 18 --><a id="page-18"></a>
 
 For all his omnipotence, the king is advised in his government by a council or curia (called the *Curia Regis* in Leon and Castile) made up of powerful and prominent figures. Its members advise the king and can authorize (by a signature with power of attorney) royal documents that have been reviewed by the court's notaries. There is thus an ordinary curia, made up of the royal family, the court officers, the magnates and the clergy (the king summons this curia to decide on the affairs of the Crown and to hear appeals brought by lesser powers), and an extraordinary curia which, besides the members of the ordinary curia, includes the aristocracy, the bishops, the abbots and the masters of the military orders, as well as the representatives of the cities (the extraordinary curia deals with the oaths of the heirs to the throne, the marriages of monarchs and declarations of war, and serves as a court of justice).
 
@@ -498,13 +500,13 @@ The *concilium* also decides on the exploitation of common resources, such as wo
 >
 > The Mozarabs of the Peninsula inherited the Visigothic office and, owing to its influence, called their breviary the *Officium Isidori et Leandri*. In 924, amid suspicions that it diverged from the Roman rite, Pope John X sent a legate to Iberia to confirm the conformity of the Mozarabic rite. Although the legate found no significant differences, the Holy See tried without success to introduce the Roman rite, and tried again in the mid-eleventh century with the same result (although it did succeed in introducing it in Aragon in 1071, as King Sancho I Ramírez had to make his fledgling kingdom a fief of the Holy See to secure his control over it).
 >
-> When the reform promoted by Pope Gregory VII began (see page 39), the Gothic-Mozarabic rite and office were censured. In 1088, Urban II confirmed in the bull *Cunctis Sanctorum* the primacy of the archbishopric of Toledo (of the Roman office) over the other churches of Iberia. The pope, however, failed to establish the Roman rite throughout the Peninsula because of opposition from the prelates and the Christian people of some cities. Although the Mozarabs of Aragon accepted the rite unanimously, the same did not happen in other kingdoms. When the bishop of Coimbra (in the kingdom of Portugal), Gonçalo Pais, tried to impose the Roman rite on the Mozarabs, they rebelled, and the pope had to intervene with a bull urging the citizens to obey him. Tension between the two Churches increased after the murder of the Mozarabic bishop during the conquest of Lisbon and after the arrival of the relics of Saint Vincent in the city in 1173.
+> When the reform promoted by Pope Gregory VII began (see [page 39](#page-39)), the Gothic-Mozarabic rite and office were censured. In 1088, Urban II confirmed in the bull *Cunctis Sanctorum* the primacy of the archbishopric of Toledo (of the Roman office) over the other churches of Iberia. The pope, however, failed to establish the Roman rite throughout the Peninsula because of opposition from the prelates and the Christian people of some cities. Although the Mozarabs of Aragon accepted the rite unanimously, the same did not happen in other kingdoms. When the bishop of Coimbra (in the kingdom of Portugal), Gonçalo Pais, tried to impose the Roman rite on the Mozarabs, they rebelled, and the pope had to intervene with a bull urging the citizens to obey him. Tension between the two Churches increased after the murder of the Mozarabic bishop during the conquest of Lisbon and after the arrival of the relics of Saint Vincent in the city in 1173.
 >
 > The Mozarabic liturgy has remained in use in Toledo and Lisbon up to 1220, as well as in some monasteries outside the ordinary jurisdiction and in Mozarabic churches under Muslim rule, for example in Valencia (where the liturgy is still celebrated in the church of the Holy Sepulcher) and Majorca (in the church of Santa Eulalia in Palma and the underground sanctuary of San Martín in La Alcudia), where the Christian monarchs have been unable to suppress it. The Mozarabs, however, have been dwindling over the years, and by 1220 few remain, for nearly all have ended up accepting either the Latin Roman rite or Islam.
 >
 > In game terms, the Mozarabic rite is considered a specialty of the Academic Ability Theology.
 
-<!-- p. 19 -->
+<!-- p. 19 --><a id="page-19"></a>
 
 In the mid-twelfth century, the councils began to be divided into administrative districts (*sexmos*, *cuartos*, *ochavos*) to make them easier to run. As a result, villages throughout the kingdom have been grouped into territorial units.
 
@@ -530,7 +532,7 @@ In the mid-twelfth century, the councils began to be divided into administrative
 >
 > Elipandus always upheld a stance of collaboration with the Muslims and showed his wish to remain connected with the culture of the East. His Church was the Mozarabic Church, the same one that was opposed and finally eliminated by the Church of Rome. After his death, at the beginning of the ninth century, the Adoptionist doctrine began to lose strength until it disappeared completely from Iberia.
 
-<!-- p. 20 -->
+<!-- p. 20 --><a id="page-20"></a>
 
 ## The Umayyad Emirate
 
@@ -574,7 +576,7 @@ The Umayyad prince ʿAbd al-Raḥmān I (fair-haired,[^p20-9] and called the Fal
 
 Although the Arabs were a minority, they held the most important posts in government and ruled the frontier regions of al-Andalus. The Berbers formed the largest group (they had made up the bulk of the armies during the invasion of Iberia in 711) and worked the land. The Arabs, who considered themselves superior, also treated them with contempt. The native inhabitants who had converted to Islam were called *musālim*. Like the Berbers, they were scorned by the Arabs. In time the *musālim* came to outnumber the Berbers, since their children, the *muwalladūn* (muwallads), were born Muslim. Another group ʿAbd al-Raḥmān had to deal with were the Christians living in al-Andalus, whom the Muslims called *mustaʿribūn* (Mozarabs); they still practiced their religion and were not hostile to the Muslims. Over time they came to use Arabic as their mother tongue and adopted many Arab customs. Finally, the smallest group were the Jews.
 
-<!-- p. 21 -->
+<!-- p. 21 --><a id="page-21"></a>
 
 > #### The Great Mosque of Cordoba
 >
@@ -588,7 +590,7 @@ Although the Arabs were a minority, they held the most important posts in govern
 >
 > The *miḥrāb* is entered through an arch leading to a small heptagonal chamber with a domed, fluted ceiling like a seashell. Here the word of God revealed in the Qurʾan is recited: the word, deposited in and transmitted from within the *miḥrāb*, is transmuted as it reaches the listeners, crystallizing within them as though it were a pearl. Facing the *miḥrāb* is the *maqsura*, the space reserved for the caliph.
 >
-> The great mosque is a space open to all. There teachers give lessons explaining the faith, always standing, always beside the same column, and always from memory. Around them lie many mats where their students, or anyone who wishes to listen, may sit. It is also where the qadi dispenses justice and where citizens' petitions and complaints are heard. All activity, however, stops at the call to prayer from the minaret (see the sidebar on page 12).
+> The great mosque is a space open to all. There teachers give lessons explaining the faith, always standing, always beside the same column, and always from memory. Around them lie many mats where their students, or anyone who wishes to listen, may sit. It is also where the qadi dispenses justice and where citizens' petitions and complaints are heard. All activity, however, stops at the call to prayer from the minaret (see the sidebar on [page 12](#page-12)).
 >
 > [^p21-VI]: Fragment of *In Praise of Spanish Islam* by Al-Šaqundī (Ibn Abī ʿĀmir is Almanzor; Spanish translation by E. García Gómez).
 
@@ -596,13 +598,13 @@ Although the Arabs were a minority, they held the most important posts in govern
 
 The first Umayyad emir of al-Andalus was not only a great statesman but also a cultivated man of letters. During his reign he used poetry as a means to instruct while delighting in the values and ideals of his rule; panegyrics were the most important form of political propaganda (his panegyrist was the first Andalusi poet, Abū-l-Majšī). Thus, from ʿAbd al-Raḥmān I onward, the Andalusi Umayyad family promoted not only the import, copying and making of books (always in contact with the Arab East) but also the founding of libraries.
 
-ʿAbd al-Raḥmān I was succeeded by his son, Hišām I. Hišām went down in history as a holy man who always dressed humbly in simple clothes. During his reign he spent much time among the sick in the suburbs of Cordoba, beyond the city walls, tending to them at the expense of the state treasury. Apart from the revolts he faced on taking the throne, his short reign was prosperous and peaceful, just as the court magus, Al-Ḍabbī (see page 74), had foretold. During his rule he clothed Cordoba in culture, ordered the city's Roman bridge rebuilt, and waged *ŷihād* against the Christian kingdoms.
+ʿAbd al-Raḥmān I was succeeded by his son, Hišām I. Hišām went down in history as a holy man who always dressed humbly in simple clothes. During his reign he spent much time among the sick in the suburbs of Cordoba, beyond the city walls, tending to them at the expense of the state treasury. Apart from the revolts he faced on taking the throne, his short reign was prosperous and peaceful, just as the court magus, Al-Ḍabbī (see [page 74](#page-74)), had foretold. During his rule he clothed Cordoba in culture, ordered the city's Roman bridge rebuilt, and waged *ŷihād* against the Christian kingdoms.
 
 Hišām I's son, Al-Ḥakam I, would be remembered as the most bloodthirsty and despotic of the Umayyads. He is said to have had a great passion for drink, even though the Qurʾan forbids it (the abundance of vineyards in al-Andalus was always a great temptation for the country's entire ruling class), and for this he was nicknamed "the Drunkard."
 
 Al-Ḥakam I made his protégé, the Christian Goth Rabí ben Teodoulfo, commander of Cordoba's armies, and greatly enlarged the mercenary forces created by ʿAbd al-Raḥmān I. For his personal protection he surrounded himself with a powerful Slavic guard known as "the mutes," since they could not speak Arabic. During his reign he raised taxes and harshly repressed every popular rebellion, among which the following stand out:
 
-<!-- p. 22 -->
+<!-- p. 22 --><a id="page-22"></a>
 
 - the Revolt of the Suburb of Cordoba, in which Berbers and muwalladūn demanded equality with the Arabs, who considered themselves superior and entitled to more rights. It was put down on the emir's orders and carried out by Rabí ben Teodoulfo. The suburb was razed, more than 3,000 Cordobans were executed, and hundreds of families (the chronicles speak of a quarter of Cordoba's population) were deported to Fez, Alexandria and the island of Crete;
 
@@ -630,11 +632,11 @@ With the accession of ʿAbd al-Raḥmān II (one of Al-Ḥakam I's nineteen sons
 
 Among the courtiers who served him, two stood out: the influential muwallad and chief of the eunuchs, Abū-l-Fath Nasr, who died when the emir ordered him to drink the poison he himself had had prepared for his master (the muwallad was involved in a conspiracy over the succession to the throne); and the singing slave girl, woman of letters and scribe Qalam (from the Arabic for "reed pen"), of Basque origin and educated in the school of Medina.
 
-Despite the stability of his government, ʿAbd al-Raḥmān II had to face the movement of the voluntary martyrs (see the sidebar on page 24) and, abroad, the attacks of the Scandinavian Vikings, against whom he had a network of watchtowers built along the entire Andalusi coast (see page 286).
+Despite the stability of his government, ʿAbd al-Raḥmān II had to face the movement of the voluntary martyrs (see the sidebar on [page 24](#page-24)) and, abroad, the attacks of the Scandinavian Vikings, against whom he had a network of watchtowers built along the entire Andalusi coast (see [page 286](#page-286)).
 
 Of his more than 100 children, his daughter Bahaʾ (from the Arabic for "splendor") led an ascetic life devoted to copying Qurʾans, which became pious endowments (*habices*). ʿAbd al-Raḥmān II also had the mosque of Seville built and approved the construction and restoration of Cordoba's old Roman aqueducts to supply the capital with water.
 
-<!-- p. 23 -->
+<!-- p. 23 --><a id="page-23"></a>
 
 > #### Ziryāb
 >
@@ -662,7 +664,7 @@ During his reign, ʿAbd Allāh faced widespread rebellions that cost him control
 
 In his old age ʿAbd Allāh lived in fear of assassination, and so imprisoned and condemned many of his relatives. By his death most of al-Andalus had slipped from Umayyad control, and the Fatimid Caliphate had established itself in the Maghreb, making matters even harder for the dynasty that had been settled in Iberia for more than 150 years.
 
-<!-- p. 24 -->
+<!-- p. 24 --><a id="page-24"></a>
 
 > #### ʿUmar ibn Ḥafṣūn
 >
@@ -678,7 +680,7 @@ In his old age ʿAbd Allāh lived in fear of assassination, and so imprisoned an
 
 During the emirate of al-Andalus (756–912), the following Christian kingdoms existed in the north of the Peninsula (see below). They were forced to pay tribute to Cordoba and lived harassed by its summer raids, which Alfonso II of Asturias managed to curb. Later, with the crisis of the emirate, the Christian monarchs pushed their borders south, eroding the power of the Marches and limiting that of Cordoba itself.
 
-<!-- p. 25 -->
+<!-- p. 25 --><a id="page-25"></a>
 
 | Kingdoms | Years |
 | --- | --- |
@@ -713,7 +715,7 @@ Meanwhile, the influence of the Franks (of the Carolingian Empire) of Provence e
 
 The end of this period coincided with the reign of Alfonso III of Asturias (called *Hispaniae rex*). Alfonso freed dozens of strongholds from Muslim rule and pushed the Christian frontier south, fixing it on the line of the Duero and securing the settlements in the conquered lands. He also strengthened the crown's power over the nobility by binding the landowners to the monarchy. Alfonso also achieved a major milestone by defeating the rebel armies of the Umayyad prince Ibn al-Qitt at the so-called Day of Zamora (see the sidebar on the next page) during the crisis of the emirate.
 
-<!-- p. 26 -->
+<!-- p. 26 --><a id="page-26"></a>
 
 > #### The Day of Zamora
 >
@@ -741,7 +743,7 @@ During this period there were three Umayyad caliphs before the civil war of al-A
 | Al-Ḥakam II | 961–976 |
 | Hišām II | 976–1013 |
 
-<!-- p. 27 -->
+<!-- p. 27 --><a id="page-27"></a>
 
 > #### The Gold of *bilad al-Sūdān*
 >
@@ -767,25 +769,25 @@ During this period there were three Umayyad caliphs before the civil war of al-A
 
 [^p27-12]: This roughly corresponds to North Africa, in what would be Tunisia, eastern Algeria and western Libya.
 
-Of all the dangers he faced, the Fatimids were the worst, and to keep their armies from crossing the strait he had the coastal cities of al-Andalus and the naval base of Algeciras fortified. Moreover, to halt the spread in Iberia of heterodoxy akin to Fatimid ideology, he had the Masarrīs (see page 79) persecuted, along with anyone who might pose a political threat to his rule; in this he had the crucial support of the ulama, without whom he might well never have secured the throne.
+Of all the dangers he faced, the Fatimids were the worst, and to keep their armies from crossing the strait he had the coastal cities of al-Andalus and the naval base of Algeciras fortified. Moreover, to halt the spread in Iberia of heterodoxy akin to Fatimid ideology, he had the Masarrīs (see [page 79](#page-79)) persecuted, along with anyone who might pose a political threat to his rule; in this he had the crucial support of the ulama, without whom he might well never have secured the throne.
 
 ʿAbd al-Raḥmān III enlarged the mercenary army created by the first emir of Iberia, ʿAbd al-Raḥmān I, to serve the Umayyads. To fill its ranks and staff the palace services, he imported Slavic, Frankish and northern slaves (*ṣaqāliba*)[^p28-13] en masse, and with them he subjugated the Berber lords of the Middle, Lower and Upper Marches: Saragossa capitulated after being besieged by ʿAbd al-Raḥmān III; Toledo withstood a two-year siege before paying homage to the emir; and Mérida, having remained independent since the reign of the emir Muḥammad I, was forced to recognize the sovereignty of the central power once more. ʿAbd al-Raḥmān III was also the one who finally ended the rebellion of the Ḥafṣūnids.
 
 [^p28-13]: The *ṣaqāliba* were bought in the markets as children, so that they grew up according to Muslim customs. It was not unusual for them to earn their freedom on coming of age, thanks to their services.
 
-<!-- p. 28 -->
+<!-- p. 28 --><a id="page-28"></a>
 
 In 929, to make himself wholly independent of Baghdad and partly quell the political threat of the Fatimids, ʿAbd al-Raḥmān proclaimed himself *jalīfa rasul-Allah* ("caliph") and *amīr al-mu´minīn* ("prince of the believers"), and took the epithet "defender of the religion of God" (*al-Nāṣir li-dīn Allāh*). After nineteen years as emir, he claimed his right of blood as a descendant of the Umayyad caliphs of Damascus to confirm his independence from any higher Muslim authority. From then on, the public Friday prayer no longer asked blessings for the Abbasid caliph of Baghdad but for ʿAbd al-Raḥmān III.
 
 After pacifying his realm, ʿAbd al-Raḥmān III took Melilla and Ceuta. With them he could dominate the strait and exercise indirect control over much of the Maghreb. After all the measures ʿAbd al-Raḥmān III had taken to secure his power, al-Andalus knew the greatest unity in its entire history.
 
-The foreign policy of the Umayyads and of ʿAbd al-Raḥmān III changed after the terrible defeat suffered at the battle of Alhándega (see the sidebar on page 32). The Umayyad military machine proved neither functional nor flexible, so the caliphate abandoned the summer raids in which the emirs had always led their armies in person: although victory could add to their prestige, defeat carried greater physical and political danger.
+The foreign policy of the Umayyads and of ʿAbd al-Raḥmān III changed after the terrible defeat suffered at the battle of Alhándega (see the sidebar on [page 32](#page-32)). The Umayyad military machine proved neither functional nor flexible, so the caliphate abandoned the summer raids in which the emirs had always led their armies in person: although victory could add to their prestige, defeat carried greater physical and political danger.
 
 In his last years ʿAbd al-Raḥmān III did not exert himself as a warrior (nor would his son, Al-Ḥakam II), and he built his policy on three main pillars. First, he strengthened the Andalusi frontiers by fortifying and repairing strategic sites. Lacking garrisons for all the frontier fortresses, ʿAbd al-Raḥmān granted the frontier lineages control over the lands they held, making it hereditary (the heads of these families became kings in the taifa period). With this second pillar, al-Andalus could launch numerous localized attacks along the frontier. Finally, the third pillar consisted of putting truce before conflict, encouraging trade with distant cities (Franks, Catalans, Byzantines, etc.), and exerting influence over the Christian kingdoms, whose political and economic power was far inferior to the caliphate's. For example, after the death of Ramiro II of Leon, the internal disputes that followed weakened the Astur-Leonese kingdom, so ʿAbd al-Raḥmān III got the king of Leon, the queen of Navarre and the counts of Castile and Barcelona to recognize his hegemony and pay him annual tribute on pain of raids into their lands. Thus, during those years, ʿAbd al-Raḥmān came to act as mediator and arbiter in the investiture of some Christian monarchs.
 
-<!-- p. 29 -->
+<!-- p. 29 --><a id="page-29"></a>
 
-<!-- p. 30 -->
+<!-- p. 30 --><a id="page-30"></a>
 
 This diplomacy, unprecedented in al-Andalus (it would reach its height under Al-Ḥakam II), allowed the Franks to trade in Andalusi ports without fear of attack by Mediterranean pirates, the Christian counts and kings to visit Madīnat al-Zahrāʾ regularly, and economic and cultural exchanges with the city of Constantinople: ʿAbd al-Raḥmān III exchanged many embassies with the Byzantine emperor, and in one of them he received a Greek copy, written in gold and silver letters, of Dioscorides' medical work *De Materia Medica*, wonderfully bound and illustrated with drawings of medicinal plants. The emperor sent a monk named Nicholas to the court of Cordoba so that he and the caliph's counselor and physician, the Jew Ḥasdāy ibn Šaprūṭ, could translate it into Arabic. Such a book was of incalculable value, for like any other man the caliph suffered all manner of illnesses.
 
@@ -801,9 +803,9 @@ Al-Ḥakam II's rule was not free of struggle and conflict, however. In 966 the 
 
 [^p30-14]: The Umayyads used their court poets to spread propaganda for their rule and to vilify the Fatimids.
 
-[^p30-15]: On the other hand, by recovering a significant part of North Africa from the Fatimids, the Umayyads gained control of the cities that opened the way for the caravans of *bilad al-Sūdān*, so Cordoba received a great quantity of gold (see the sidebar on page 26).
+[^p30-15]: On the other hand, by recovering a significant part of North Africa from the Fatimids, the Umayyads gained control of the cities that opened the way for the caravans of *bilad al-Sūdān*, so Cordoba received a great quantity of gold (see the sidebar on [page 26](#page-26)).
 
-<!-- p. 31 -->
+<!-- p. 31 --><a id="page-31"></a>
 
 In 975, a year after the war in North Africa ended, Al-Ḥakam II had to face a rebellion by Leon, Castile and Navarre, which had besieged the castle of Gormaz on the upper Duero: the siege was broken in the summer of that same year and the Christian forces were scattered.
 
@@ -817,7 +819,7 @@ Once established in power, Al-Manṣūr let the young caliph Hišām II have eve
 
 Al-Manṣūr had the Great Mosque enlarged and a new city built east of Cordoba to serve as the seat of government and office of administration and finance. The new palace city, Madīnat al-Zaḥirāʾ, was raised in only two years; new markets were established there and state receptions held. Surrounded by walls, it saw the court's secretaries and ministers vie for the *ḥaŷib*'s favor to obtain land and plots within its precincts. The old city of Madīnat al-Zahrāʾ, the caliph's residence, ceased to be the destination of ambassadors from other realms, which contributed to Hišām's isolation. To justify his complete absence from affairs of state, the ministers announced that the caliph had devoted himself to piety and had handed full power over the realm to the *ḥaŷib* Al-Manṣūr.
 
-<!-- p. 32 -->
+<!-- p. 32 --><a id="page-32"></a>
 
 In 980, Al-Manṣūr ordered Hišām's palace precinct closed to all visitors, and its gates and passageways were sealed. Hišām thus never came to rule, living as a captive in his dazzling prison while Al-Manṣūr governed the realm in his name. To show his influence, Al-Manṣūr had his own name pronounced after Hišām's in the Friday midday prayer.
 
@@ -856,7 +858,7 @@ Sanŷul drank wine in public and lived a life given over to sin. His folly led h
 >
 > [^p32-XI]: The Night of Destiny is the 27th night of the month of Ramadan, the same night on which the revelation of the Qurʾan began (that is, when the Qurʾan came down to earth). It is a notable night of great celebration.
 
-<!-- p. 33 -->
+<!-- p. 33 --><a id="page-33"></a>
 
 The caliph Hišām II was freed by the great-grandson of ʿAbd al-Raḥmān III, the Hammudid Sulaymān al-Mustaʿīn, after the latter fought the armies of Al-Mahdī. However, instead of returning him to the throne, Sulaymān proclaimed himself caliph. Amid the chaos two opposing parties arose: the Hammudids of Malaga and Algeciras, and the supporters of Hišām, led by the ʿAbbādids of Seville. By then Hišām had been murdered, so to keep their hold on power the Sevillians used a double, a deception the poet Ibn Hazm criticized in his writings.
 
@@ -870,7 +872,7 @@ The caliph Hišām II was freed by the great-grandson of ʿAbd al-Raḥmān III,
 >
 > In their flight the Muslims were defeated, and the caliph himself was wounded. Among the treasures the Christians captured were the caliph's favorite coat of golden mail and a valuable Qurʾan. As punishment, when ʿAbd al-Raḥmān III returned to Cordoba, he had 300 officers of his army crucified.
 
-<!-- p. 34 -->
+<!-- p. 34 --><a id="page-34"></a>
 
 During the *fitna* more than ten men proclaimed themselves caliph, the city of Cordoba was besieged and sacked many times (to cope with the famine, what remained of Al-Ḥakam II's library was publicly auctioned off) and, finally, it became the capital of a taifa kingdom, witness to the last breath of the dynasty founded almost 300 years earlier by the Falcon of Qurayš, ʿAbd al-Raḥmān I.
 
@@ -902,7 +904,7 @@ The kingdoms of Leon and Asturias ended up governed by a single sovereign, Ramir
 >
 > In the Iberia of 1220, the *pardo* knights dominate the town councils, where they hold reserved seats. In payment for their rights they must take part in the war against the Muslims (the so-called *fonsado*) once a year and permanently defend the city they live in, which they may leave only between October and May (a season of almost obligatory truce), and only if they leave a substitute. Furthermore, the knights' sons inherit their fathers' status and privileges and, once they come of age, must take part in the war.
 >
-> [^p33-XII]: Fueros set down the laws of coexistence of the town councils (see "The Christians," page 16).
+> [^p33-XII]: Fueros set down the laws of coexistence of the town councils (see "The Christians," [page 16](#page-16)).
 >
 > [^p33-XIII]: *Infanzones* are knights of the lesser nobility.
 
@@ -912,7 +914,7 @@ The Christian monarchs also fought the Muslim armies: they pushed the frontier s
 
 Alliances among the Christian monarchs helped win the Battle of Alhándega (see the sidebar on the previous page) and, although they went so far as to form a coalition against Al-Manṣūr, the kingdoms did not offer unified resistance to the Muslim attacks until the arrival, in 1004, of Sancho III the Great, king of Pamplona, count of Aragon and a renowned warrior. Sancho created a league of Christian princes joined by the king of Leon, the count of Castile and the Cluniac order (charged with protecting pilgrims on the Way of Saint James). At the end of the caliphate, after the murder of the count of Castile, the Castilian nobles handed the county over to Sancho III, who ended his reign ruling the counties of Aragon, Castile, Álava, Sobrarbe and Ribagorza.
 
-The Christian monarchs also had to face the "Northmen" once again; Viking attacks on the Cantabrian coasts continued, sometimes with terrible battles inland which, as in the case of Portugal, cost the lives of two of its counts, Menendo Gonçalves and Alvito Nunes (see page 286).
+The Christian monarchs also had to face the "Northmen" once again; Viking attacks on the Cantabrian coasts continued, sometimes with terrible battles inland which, as in the case of Portugal, cost the lives of two of its counts, Menendo Gonçalves and Alvito Nunes (see [page 286](#page-286)).
 
 The Christian kingdoms began to develop their legal systems during the period of the Umayyad Caliphate. The *presura* (the old practice of peasants occupying frontier lands, whose owners had to defend themselves against Muslim attacks) gave way to settlement charters (*cartas pueblas*) or fueros that shaped the new Hispano-Christian society, based on grouping the territory into geographical districts. In addition, at the beginning of the eleventh century, the royal court of Alfonso V of Leon for the first time approved a set of laws to be obeyed both in the city of Leon and throughout the kingdom. In the Catalan counties, Abbot Oliba proclaimed the *Pau i Treva de Déu* at the synod of Toluges in response to the abuses committed by feudal nobles against the Church and the peasantry.
 
@@ -924,7 +926,7 @@ The Christian kingdoms began to develop their legal systems during the period of
 >
 > In 1030, Abbot Oliba managed to extend the period of peace from Thursday to Monday (and to extend the penalty of excommunication to counterfeiters and to those who assaulted merchants) and, although not all the Catalan counties embraced it at first, it reached the lands of Provence and won over the counts there. The count of Barcelona himself convened peace councils in his domains and eventually incorporated them into the *Usatges* of Barcelona (the civil law of the county of Barcelona). Thus the counts of Catalonia will use the *Pau i Treva de Déu* to keep their domains at peace until the end of the thirteenth century.
 
-<!-- p. 35 -->
+<!-- p. 35 --><a id="page-35"></a>
 
 ## The Taifa Kingdoms
 
@@ -977,7 +979,7 @@ At his court, Al-Muʿtaḍid appointed the famous poet Ibn Zaydūn as vizier and
 
 The poet king Al-Muʿtamid made Seville a true magnet for the poets of the Islamic West, the cradle of countless men of letters who carried poetry to its peak. It is said of him that, after the conquest of Cordoba, he went to wander the ruins of the palace city of Madīnat al-Zahrāʾ to admire its ancient, decaying splendor, an early instance of romantic evocation that also inspired many verses from the poets of his time.
 
-<!-- p. 36 -->
+<!-- p. 36 --><a id="page-36"></a>
 
 Seville always had a tense relationship with Alfonso VI of Leon, to whom it paid tribute intermittently throughout his reign. Under the fiscal and military pressure exerted by the Christian emperor, Al-Muʿtamid was the first of the taifa kings to write to the Almoravids asking for help. Although he knew that once in Iberia they might take his kingdom from him, he always preferred that possibility to the growing certainty that the Christian monarch would conquer his lands. Unfortunately, just as he had feared, the third time the Almoravids entered Iberia they resolved to conquer the taifa kingdoms and their riches.
 
@@ -1017,7 +1019,7 @@ Saragossa was ruled by the Tujibids until the corruption of their line led to th
 
 On the death of Al-Mustaʿīn, Saragossa was inherited by his son, Al-Muqtadir, who took the chance to seize control of the kingdom's other districts, governed by his four brothers.
 
-<!-- p. 37 -->
+<!-- p. 37 --><a id="page-37"></a>
 
 Al-Muqtadir brought the taifa of Saragossa to its greatest splendor. He had the beautiful *Qasr al-Jaʿfariya* (Arabic for "Palace of the Aljafería") built and used it as the seat of his court and a meeting place for an intellectual elite of al-Andalus in search of an atmosphere of tolerance and patronage. Poets, musicians, philosophers and mystics came together in Saragossa; *al-Jaʿfariya* saw the birth of the Islamic school of philosophy that embraced the rational thought of Aristotle, a cultural movement in which great scholars such as Avicenna, Avempace and Averroes took part.
 
@@ -1049,7 +1051,7 @@ The Berber sovereigns of Granada were always scorned by the poets of al-Andalus,
 
 The vast kingdom of Badajoz (seat of the Berber Afṭasids) was devastated as a result of its sultan's refusal to pay *parias* to the kingdom of Leon. To fight this taifa, the Christian king sought the help of the sultan of Toledo, who in turn called on the sultan of Seville. The wars that followed from this decision plunged the kingdom of Badajoz and its inhabitants into poverty. Badajoz lost many of its southern territories to the ʿAbbādids of Seville and, at the height of Seville's anti-Berber movement, it bore the brunt. To its misfortune, the struggles with Seville and Toledo weakened it still further.
 
-<!-- p. 38 -->
+<!-- p. 38 --><a id="page-38"></a>
 
 The princes of Badajoz were cultured men and lovers of poetry. As would happen with other taifa princes, Al-Muẓaffar ibn al-Afṭas took great interest in the image of his kingdom, and so he used poetry and panegyrist poets to publicize his rule favorably.
 
@@ -1065,7 +1067,7 @@ As a tributary of Leon, Al-Maʿmūn sheltered Alfonso VI when the latter lost hi
 
 On Al-Maʿmūn's death, the throne passed to Ibn Ḏū-l-Nūn's grandson, whom Alfonso VI forced to pay *parias*, to buy a fortress near Toledo for 150,000 mithqals, and to hand over 500 almudes of grain for every night Alfonso spent in Toledo. Under such fiscal pressure the taifa fell into poverty and lost its hold over Valencia and Cordoba. As a result, the sultan was forced to tax his subjects excessively, and in such dire straits they split into two factions: those who favored remaining under the protection of Alfonso VI (including Ibn Ḏū-l-Nūn's grandson) and those who favored seeking help from other Muslims. Since many held the Christian monarch to blame, the second faction prevailed, and Toledo asked for help from the taifa of Badajoz, which ended up annexing Toledo and exiling Ibn Ḏū-l-Nūn's grandson. However, once in power, the sultan of Badajoz, Al-Mutawakkil, merely occupied the capital to enrich himself and then fled. When Ibn Ḏū-l-Nūn's grandson returned to rule the city, Toledo was ripe for surrender. Alfonso VI conquered it peacefully in 1085: his entry into the city marked the beginning of the end of the taifa kingdoms.
 
-<!-- p. 39 -->
+<!-- p. 39 --><a id="page-39"></a>
 
 ### The Almoravids and the Taifa Kingdoms
 
@@ -1095,15 +1097,15 @@ The banishment of the princes of the taifa kingdoms was a hard blow for the poet
 
 [^p39-22]: Excerpt from a letter by Abū Muḥammad ibn ʿAbd al-Barr after the conquest of Barbastro by the Christians in 1064 (Spanish translation by Teresa Garulo, taken from *Arabic Literature of al-Andalus in the Eleventh Century*).
 
-During this period the first crusades against the Muslim kingdoms were proclaimed, the first military order in Europe was founded (see page 56), and the last Viking attack on Galicia took place, repelled thanks to the restoration of seven defensive towers known as *Castellum Honesti* or the Torres del Oeste. The taifa kingdoms also witnessed the birth of Rodrigo Díaz (the Cid; see the sidebar on page 40) and the growing popularity of pilgrimages by nobles to the Holy Land.
+During this period the first crusades against the Muslim kingdoms were proclaimed, the first military order in Europe was founded (see [page 56](#page-56)), and the last Viking attack on Galicia took place, repelled thanks to the restoration of seven defensive towers known as *Castellum Honesti* or the Torres del Oeste. The taifa kingdoms also witnessed the birth of Rodrigo Díaz (the Cid; see the sidebar on [page 40](#page-40)) and the growing popularity of pilgrimages by nobles to the Holy Land.
 
 As for the Church, at this time the Gregorian reform was introduced (giving rise to the concept of the Reconquest), and in Castile the Mozarabic rite was replaced by the Roman one, which bound Hispania to the Holy See. The inhabitants of Iberia saw bigamy and marriage to a brother's wife forbidden, and clerics were required to give up bearing arms and to leave their wives. In this period work began on the cathedral of Compostela, and the pope excommunicated the bishop of Iria Flavia for proclaiming his diocese an apostolic see without his permission.
 
-<!-- p. 40 -->
+<!-- p. 40 --><a id="page-40"></a>
 
 > #### The Gregorian Reform
 >
-> Promoted by Pope Gregory VII (1073–1085), the reform sought to carry out an ideological reinforcement to restore the rights of the Western Church and achieve peace among Christians through a universal Truce of God. To maintain unity, the reform created a new enemy, Islam, which led to the promotion of crusades in Iberia (see page 41).
+> Promoted by Pope Gregory VII (1073–1085), the reform sought to carry out an ideological reinforcement to restore the rights of the Western Church and achieve peace among Christians through a universal Truce of God. To maintain unity, the reform created a new enemy, Islam, which led to the promotion of crusades in Iberia (see [page 41](#page-41)).
 >
 > The Gregorian reform put an end to the Mozarabic Hispanic liturgy and allowed the pope to act as the organizing authority in Iberia, which the king of Castile and Leon, Alfonso VI, opposed. The reform also brought Frankish (Cluniac) clergy into Iberia and papal legates into Hispania; monasteries ceased to depend on the feudal lords of Hispania and came to depend on Rome.
 >
@@ -1146,7 +1148,7 @@ However, Sancho II always considered himself the sole legitimate heir to his fat
 
 Pursuing his hegemonic policy, Sancho II invaded Leon. His armies, led by his champion Rodrigo Díaz, defeated the Leonese forces, and Alfonso VI was imprisoned. However, thanks to the mediation of his sister Urraca, Alfonso was moved to the monastery of Sahagún, from which he escaped to take refuge at the vassal court of Toledo, under the protection of the sultan Al-Maʿmūn.
 
-<!-- p. 41 -->
+<!-- p. 41 --><a id="page-41"></a>
 
 Sancho II's coronation in Leon was not well received by the Leonese nobility. Many remained loyal to Alfonso VI and, to escape Sancho's wrath, took refuge in Zamora, the fief of Doña Urraca. When Sancho came to Zamora to subdue the city, he was killed by the thrust of a lance.
 
@@ -1180,7 +1182,7 @@ With control of almost all of northern Iberia, Alfonso VI adopted the title *Imp
 >
 > [^p41-XVI]: Excerpt from the *Cantar de mio Cid*, anonymous (Old Spanish text edited by Ramón Menéndez Pidal).
 
-<!-- p. 42 -->
+<!-- p. 42 --><a id="page-42"></a>
 
 ## The Crusades of Iberia
 
@@ -1190,7 +1192,7 @@ With control of almost all of northern Iberia, Alfonso VI adopted the title *Imp
 
 To understand the meaning of the Christian struggles against the Muslims in Iberia, the terms "crusade" and "reconquest" must be defined. A crusade is any military action whose aim is the defense of the Church and its interests, regardless of the place or the identity of the enemy; it therefore does not imply the liberation of the holy places, as the crusades overseas do. Crusades are directed by the popes, seek the spiritual salvation of the individual, and have a universal scope that affects all of Christendom. The reconquest, by contrast, is led by the Hispanic monarchs, aims to recover the lands and the Church their forebears lost, and is therefore a phenomenon that operates on a local scale.
 
-The crusades in Iberia were a consequence of Almoravid rigorism and the Gregorian reform of the eleventh century. From the time of Pope Alexander II (1061–1073), the Holy See's interest in Iberia took shape through the crusades. This pope already spoke of the *regnum Hispaniae* as the property of Saint Peter, which was a threat to the kings of the Peninsula, who saw their power endangered. Those monarchs were therefore quick to make holy war a Hispanic affair and to assert the power of the monarchy against pontifical power. Alfonso VI, for example, never submitted to the pope's authority and sought an alliance with the Cluniacs in Castile to prevent the Holy Father from intervening in his kingdom. To escape excommunication, the Castilian monarch declared himself a soldier of Christ, but not of Rome. Likewise, the creation of the military orders in Iberia (see page 56) and the nationalization of the local church were moves designed to keep Rome from meddling.
+The crusades in Iberia were a consequence of Almoravid rigorism and the Gregorian reform of the eleventh century. From the time of Pope Alexander II (1061–1073), the Holy See's interest in Iberia took shape through the crusades. This pope already spoke of the *regnum Hispaniae* as the property of Saint Peter, which was a threat to the kings of the Peninsula, who saw their power endangered. Those monarchs were therefore quick to make holy war a Hispanic affair and to assert the power of the monarchy against pontifical power. Alfonso VI, for example, never submitted to the pope's authority and sought an alliance with the Cluniacs in Castile to prevent the Holy Father from intervening in his kingdom. To escape excommunication, the Castilian monarch declared himself a soldier of Christ, but not of Rome. Likewise, the creation of the military orders in Iberia (see [page 56](#page-56)) and the nationalization of the local church were moves designed to keep Rome from meddling.
 
 The crusades are holy wars, so whoever takes part in one receives the pope's indulgence. Indulgences are not a sacrament (see *Ars Magica Fifth Edition*, page 301) and do not forgive sins; rather, they remit before God the temporal punishment that souls must expiate, whether on earth or in purgatory.
 
@@ -1198,7 +1200,7 @@ The first crusade was a consequence of the death of the king of Aragon, Ramiro I
 
 After the conquest, the crusaders massacred the population of Barbastro and seized a vast booty that included hundreds of Muslim maidens. In response, the Muslim population of the nearby cities murdered many Mozarabs.
 
-When news of the massacre reached Europe, the Benedictine monk Amatus of Montecassino condemned the crusaders' deeds and warned them of God's judgment. And although Barbastro returned to Muslim hands nine months later, the memory of the massacre endured. It was from this moment that the Christians first set out to reconquer the land and spread "the faith in Christ": before, they had always fought for booty or territorial conquest, and the struggle against the Muslims had never been sacralized (see "The Gregorian Reform," page 39).
+When news of the massacre reached Europe, the Benedictine monk Amatus of Montecassino condemned the crusaders' deeds and warned them of God's judgment. And although Barbastro returned to Muslim hands nine months later, the memory of the massacre endured. It was from this moment that the Christians first set out to reconquer the land and spread "the faith in Christ": before, they had always fought for booty or territorial conquest, and the struggle against the Muslims had never been sacralized (see "The Gregorian Reform," [page 39](#page-39)).
 
 The second crusade of Iberia took shape in 1068. At the time, the king of Aragon, Sancho I Ramírez, was politically isolated by the monarchs of Pamplona and Castile and by the Catalan nobility. Sancho sought help from Rome to break the blockade. Alexander II heeded his petition and reached an agreement with him: in exchange for becoming a vassal of the Holy See, recognizing Rome's direct superiority over the Aragonese bishoprics and admitting the Roman rite in the kingdom's monasteries, he was named *miles Sancti Petri*, which allowed Rome's armies to intervene in the kingdom. As a result, in 1073 Pope Gregory VII summoned all the *milites* of the Holy See to fight the Muslims and annex their lands to the kingdom of Aragon. Count Ebles II of Roucy (the king of Aragon's brother-in-law) came from Champagne to govern the conquered land and make it a fief of Rome. The crusade, however, was a failure, and almost all the Normans who had come to fight ended up settling in Aragon.
 
@@ -1206,7 +1208,7 @@ After the defeat suffered against the Almoravids at Sagrajas in 1086, Pope Victo
 
 At the beginning of the twelfth century the Catalans tried to conquer the Mediterranean cities with the pope's support, but both they and the Pisans (the foremost maritime power in Christendom) clashed with the Muslim pirates who plagued the western Mediterranean. In 1113, the Pisans persuaded Paschal II to call a crusade to conquer Majorca and free the Christian prisoners on the island. In 1114 the Pisans reached an agreement with Ramón Berenguer III, count of Barcelona, for his participation in what would be the fourth Hispanic crusade (though under Pisan right). The Pisan and Catalan armies and the soldiers of Rome, Lucca and southern France embarked in 100 ships and conquered Majorca in 1115, thus destroying an important nest of Muslim piracy. The crusaders freed the Christian captives and put every Muslim male living there to the sword. A year later, the Catalans learned that the Almoravids planned to assault the islands, so they abandoned their houses, burned them and departed. When the Almoravids arrived, they found the islands deserted.
 
-<!-- p. 43 -->
+<!-- p. 43 --><a id="page-43"></a>
 
 Two years later, in 1118, Alfonso I of Aragon and his friend, the veteran Gaston IV of Béarn, planned the conquest of Saragossa, and Alfonso I issued a call to all the kings of Christendom. When the news reached Rome, Pope Gelasius II granted a crusade bull to those who took part in the siege of the White City. The fifth crusade drew many Frankish, Gascon, Occitan, Catalan and Béarnais lords, who under the orders of Alfonso I (at the head of his own army of Aragonese, Riojans and Navarrese) besieged the city of Saragossa for more than six months. Because of the long siege, the bishop of Huesca had to pay out a large sum of money so that the crusaders would not abandon the enterprise, and Gelasius II promised them eternal life and absolution of all their sins. Saragossa fell in 1118, and Alfonso I agreed a surrender with the Banū Hūd that allowed the roughly 20,000 Muslims of the city to go on living there: the Muslims could leave for Islamic lands with their movable goods, or spend a year in the city and then reside in the suburbs, keeping their freedom and their trades as long as they paid the king a tithe of their income. Moreover, they could not be made slaves of the Jews nor be called up for forced labor (azofras). Many Muslims left, and since they carried their riches and goods with them, the Aragonese monarch granted them an escort so that no one could rob them.
 
@@ -1224,7 +1226,7 @@ The year 1212 marked the papacy's final estrangement from the Hispanic crusade, 
 
 Bear in mind that in 1220 the Hispanics consider crusaders depraved, cruel and cowardly folk, for whenever crusading armies gather, looting and rape always follow.
 
-<!-- p. 44 -->
+<!-- p. 44 --><a id="page-44"></a>
 
 Alfonso did not use his armies to seize Muslim cities or besiege castles, undertakings in which he would have had to spend great sums of money and would have lost many men; instead, he applied heavy fiscal pressure to strangle the taifa kings and so prepare their kingdoms for capitulation. As a demonstration of this policy, Toledo surrendered peacefully to the Castilian monarch. Alfonso entered the city through the Old Bisagra Gate and in 1085 returned the capital of the ancient Visigoths to the crown of Castile.
 
@@ -1242,7 +1244,7 @@ The Almoravids, or "the veiled ones,"[^p44-24] rigorously observed the Mālikī 
 
 [^p44-24]: The Almoravid ruling class (though not only they, but also the Berbers who had come from North Africa to fight the Christians) wore a kind of veil that covered the face (called the *liṯām*), and so they were known as "the veiled ones."
 
-<!-- p. 45 -->
+<!-- p. 45 --><a id="page-45"></a>
 
 | Caliphs | Years |
 | --- | --- |
@@ -1274,7 +1276,7 @@ The second taifas remained independent until the Almohads were firmly establishe
 
 During this period, the Christians faced the Almoravid troops arriving from Marrākeš. Although they lost important strongholds and suffered serious defeats, they shattered the reputation of the Muslim generals, encouraged their subjects to rebel and fragmented their fragile unity, already damaged by the Almohad movement.
 
-<!-- p. 46 -->
+<!-- p. 46 --><a id="page-46"></a>
 
 > #### The Pilgrims' Hospitals of Iberia
 >
@@ -1292,7 +1294,7 @@ During this period, the Christians faced the Almoravid troops arriving from Marr
 >
 > [^p46-XVIII]: Fragment of *The Treatise of Ibn ʿAbdūn* (Spanish translation by Emilio García Gómez and E. Levi-Provençal).
 
-<!-- p. 47 -->
+<!-- p. 47 --><a id="page-47"></a>
 
 During the Almoravid domination of al-Andalus, Compostela received the blessing of the pontiffs of Rome: Paschal II encouraged pilgrimage to the city, and the hospital of Santa Cristina at the Somport became one of the most important in Christendom, after the pilgrims' hospital of Jerusalem; furthermore, Calixtus II, by the bull *Omnipotentis dispositione*, made the city an archbishopric and instituted the Jacobean Holy Year (granting an indulgence[^p47-25] to pilgrims who reached Santiago in a year when the feast of Saint James, July 25, fell on a Sunday), so that the kingdom of Castile grew rich from the flow of pilgrims.
 
@@ -1319,7 +1321,7 @@ The son of Sancho I Ramírez, Pedro I of Aragon, king of Pamplona, Sobrarbe, Rib
 - In 1096 he took Huesca at the battle of Alcoraz thanks to the intervention of Saint George, his patron saint, making it his capital and moving the kingdom's diocese there from Jaca.
 - In 1101 he conquered Barbastro and attacked Saragossa, although he failed to take it. His armies bore the *vexillum Christi* and besieged the city with the crusaders' cry of "God wills it!"
 
-Pedro I took the crusader's vow, and although he wished to go to the Holy Land, he could never fulfill it because Pope Urban II forbade it (see "The Crusades Overseas," page 48). He obeyed this command because he needed the papacy to consolidate his crown against the imperialist advance of Alfonso VI.
+Pedro I took the crusader's vow, and although he wished to go to the Holy Land, he could never fulfill it because Pope Urban II forbade it (see "The Crusades Overseas," [page 48](#page-48)). He obeyed this command because he needed the papacy to consolidate his crown against the imperialist advance of Alfonso VI.
 
 > #### The Crusades Overseas
 >
@@ -1353,7 +1355,7 @@ When Ramiro had his only daughter, Petronila, the monarch of Leon proposed a mar
 
 [^p47-25]: To gain the indulgence one must make the pilgrimage to Santiago, and confess and take communion in the days immediately following.
 
-<!-- p. 48 -->
+<!-- p. 48 --><a id="page-48"></a>
 
 #### The County of Barcelona
 
@@ -1361,7 +1363,7 @@ The county of Barcelona absorbed the Frankish and Catalan counties of Cerdanya, 
 
 The expansion of the county of Barcelona culminated at the end of this period with the county's union with the kingdom of Aragon and the birth of the Crown of Aragon (1137) under the rule of Ramón Berenguer IV. He could not, however, recover Carcassonne, harried as he was by the Almoravid troops, whom he fought fiercely.
 
-During this period, and thanks to Pope Gelasius II, the county ended more than three centuries of obedience to the archbishopric of Narbonne and put into practice the *remença* (a payment the peasant had to make to his lord on leaving the land he worked; see the "*Ius Maletractandi*" sidebar, page 52) to stem the exodus of peasants to the newly conquered lands.
+During this period, and thanks to Pope Gelasius II, the county ended more than three centuries of obedience to the archbishopric of Narbonne and put into practice the *remença* (a payment the peasant had to make to his lord on leaving the land he worked; see the "*Ius Maletractandi*" sidebar, [page 52](#page-52)) to stem the exodus of peasants to the newly conquered lands.
 
 #### The Kingdoms of Leon and Castile
 
@@ -1379,7 +1381,7 @@ Alfonso VII obtained the vassalage of the king of Aragon, the counts of Barcelon
 >
 > As a vassal of Alfonso VII, he asked him for help to subdue the lords of Baeza, Jaén and Úbeda, who refused to pay him tribute. The emperor sent a group of Christian counts to his aid, and they laid waste to the rebel strongholds. In desperation, the insurgents surrendered to Zafadola in exchange for his protection against the counts' troops, who, despite the Hūdid's requests, did not stop their attacks and plundering. In an attempt to stop them, Zafadola gave them battle on the fields of al-Luŷŷ (near Albacete), where he was defeated and taken prisoner. Despite his title, Zafadola was murdered by the counts' soldiers in the camp where he was being held. With his death the line of the Banū Hūd came to an end, and with it Alfonso VII's aspirations of crowning his loyal ally as vassal king of all al-Andalus.
 
-<!-- p. 49 -->
+<!-- p. 49 --><a id="page-49"></a>
 
 #### The Kingdom of Pamplona
 
@@ -1389,9 +1391,9 @@ The kingdom of Pamplona was bound to that of Aragon until the death of Alfonso I
 
 The county of Portugal, having abandoned its ambitions to expand northward at the expense of Galicia, turned its gaze south to fight the Almoravids. To this end, Count Afonso Henriques built the fortress of Leiria, with which he tried to stabilize the region south of Coimbra, so often attacked by the Muslim hosts, and which he used to launch attacks against Santarém, which served as the rearguard for the Almoravid incursions. Although the fortress was soon taken and burned by the Muslims, the count set his sights beyond Coimbra and began to make war on the Muslims, which would eventually bring him victory at the decisive battle of Ourique in 1139, the moment from which the count began to appear in documents with the royal title (*Rex Portugallensis*).
 
-After Ourique, Guimarães ceased to be the nerve center of the county and Coimbra began to emerge, which increased the importance of the frontier knights and allowed a lesser nobility to gather in the area to increase its fortunes. Thanks to the victory of Ourique, the emperor Alfonso VII recognized the kingdom's independence and its king in 1143: thus was born the kingdom of Portugal. That same year, Afonso I Henriques sent the pope a letter of vassalage (known as *Claves regnum ceelorum*) in which he declared himself *miles Sancti Petri* (knight of Saint Peter) and placed himself in the pope's service, paying him an annual census in exchange for the protection of the kingdom (papal recognition, however, would not come until 1179, with the bull *Manifestis probatum est*; see page 53).
+After Ourique, Guimarães ceased to be the nerve center of the county and Coimbra began to emerge, which increased the importance of the frontier knights and allowed a lesser nobility to gather in the area to increase its fortunes. Thanks to the victory of Ourique, the emperor Alfonso VII recognized the kingdom's independence and its king in 1143: thus was born the kingdom of Portugal. That same year, Afonso I Henriques sent the pope a letter of vassalage (known as *Claves regnum ceelorum*) in which he declared himself *miles Sancti Petri* (knight of Saint Peter) and placed himself in the pope's service, paying him an annual census in exchange for the protection of the kingdom (papal recognition, however, would not come until 1179, with the bull *Manifestis probatum est*; see [page 53](#page-53)).
 
-<!-- p. 50 -->
+<!-- p. 50 --><a id="page-50"></a>
 
 ## The Almohad Dynasty
 
@@ -1419,7 +1421,7 @@ When the founder of the Almohad movement, Ibn Tūrmat, died, he was succeeded by
 
 After gaining control of North Africa and the Maghreb, the Almohads seized the Almoravid capital, Marrākeš, but it was not until 1160 that ʿAbd al-Muʾmin planned the final subjugation of al-Andalus, setting up his base of operations for the conquest at Gibraltar.
 
-When the Almohads took control of Muslim Iberia, ʿAbd al-Muʾmin decreed the forced conversion of all non-Muslims on pain of death (though in practice this was not always enforced) and confiscation of their property, for the Almohads did not recognize the protection of the dhimmis (see page 12). Consequently, Christians and Jews with the necessary means emigrated north; those who could not leave and embraced Islam went on living in their communities; those who refused were expelled or executed; and the rest lived under the strict observance of the Unitarians. Andalusi opposition to the Almohad regime then became clear and open.
+When the Almohads took control of Muslim Iberia, ʿAbd al-Muʾmin decreed the forced conversion of all non-Muslims on pain of death (though in practice this was not always enforced) and confiscation of their property, for the Almohads did not recognize the protection of the dhimmis (see [page 12](#page-12)). Consequently, Christians and Jews with the necessary means emigrated north; those who could not leave and embraced Islam went on living in their communities; those who refused were expelled or executed; and the rest lived under the strict observance of the Unitarians. Andalusi opposition to the Almohad regime then became clear and open.
 
 Broadly speaking, the Almohads preserved the administrative divisions of the Almoravids. However, when they made the caliphate hereditary, they introduced some changes: to reward the local support they had received against the Almoravids, they maintained the independence of the governors of al-Gharb, although they eventually annexed it to Seville in 1157–58. During the caliphate of Abū Yaʿqūb Yūsuf, they split it into two provinces again, though at times a single governor ruled both regions. The region of Malaga was initially joined to the province of Granada (which also governed Ceuta), but became independent during the caliphate of Abū Yaʿqūb Yūsuf II.
 
@@ -1427,7 +1429,7 @@ Broadly speaking, the Almohads preserved the administrative divisions of the Alm
 
 After subduing the kingdoms of the second taifas, the first Almohad caliph, ʿAbd al-Muʾmin, established his Iberian capital at Cordoba and appointed his two sons, Abū Yaʿqūb Yūsuf and Abū Saʿīd ʿUṯmān, governors of Seville and Granada, to rule the province of al-Andalus in his name. Although he left for Marrākeš to consolidate his rule in North Africa, he continued to send troops to Iberia to put an end to the Wolf King.
 
-<!-- p. 51 -->
+<!-- p. 51 --><a id="page-51"></a>
 
 > #### The Wolf King
 >
@@ -1439,13 +1441,13 @@ After subduing the kingdoms of the second taifas, the first Almohad caliph, ʿAb
 >
 > With hardly any allies left, Ibn Mardanīš died in Murcia in 1172, while the city was under siege by the Almohad armies of Seville. His son, following his father's advice, submitted to them and let them into the city in exchange for being named governor of Murcia. With its conquest, the Almohads managed to unite all of al-Andalus under their banner (except the Balearic Islands, the last Almoravid stronghold, which would also eventually fall).
 
-<!-- p. 52 -->
+<!-- p. 52 --><a id="page-52"></a>
 
 ʿAbd al-Muʾmin died unexpectedly, so the throne passed to his son, the governor of Seville, Abū Yaʿqūb Yūsuf. After his father's sudden death, the newly named caliph had to leave for the Maghreb to consolidate his power, and in his absence the Wolf King ravaged al-Andalus. The raids of the man from Peñíscola threatened the survival of the Almohad province of Iberia, so Abū Yaʿqūb Yūsuf put down the succession crisis in the Maghreb and returned to Seville to lead a military expedition and finish off the Wolf King for good.
 
 During his reign, Yūsuf moved the capital to Seville, and the city he had governed since the age of sixteen underwent a true urban revolution. He had a pontoon bridge built across the Guadalquivir, planned the construction of the Great Mosque (with room for 16,000 people), rebuilt the Roman aqueduct (seventeen kilometers long) to supply the city with drinking water, organized the province's farmland and ordered the building of the minaret for the Great Mosque (known as the Giralda), completed in 1184. Atop it was set a spectacular *yâmûr*: an architectural finial made of four spheres of pure gold, of decreasing size, threaded on a spire (the largest sphere was so enormous that part of one of the city gates had to be demolished to bring it in). In 1220, the gleam of the spheres can be seen from a day's journey away.
 
-Yūsuf lavished particular attention on Muslim philosophers and scientists, whom he always treated with great deference. Indeed, he was one of the foremost champions of the spread of Aristotelian thought in al-Andalus (and therefore in Mythic Europe), a factor that helped Averroes write his famous and excellent commentaries (see page 322).
+Yūsuf lavished particular attention on Muslim philosophers and scientists, whom he always treated with great deference. Indeed, he was one of the foremost champions of the spread of Aristotelian thought in al-Andalus (and therefore in Mythic Europe), a factor that helped Averroes write his famous and excellent commentaries (see [page 322](#page-322)).
 
 Yūsuf had to return to the Maghreb to set his domains in order, and the Christian monarchs took advantage of this to raid deep into the heart of al-Andalus. In the face of such incursions, the caliph returned to Iberia in 1184, chiefly to halt the Portuguese. However, he lost his life in the campaign of Santarém (Portugal), while withdrawing toward Seville.
 
@@ -1465,7 +1467,7 @@ After stabilizing the situation in the Maghreb in 1188, the caliph returned to I
 >
 > With this victory, the Christian kingdoms paved the way for the conquest and surrender of the Guadalquivir valley.
 
-<!-- p. 53 -->
+<!-- p. 53 --><a id="page-53"></a>
 
 Afterward, al-Manṣūr ordered the establishment of a defensive system for the entire frontier march of present-day Extremadura, since it was essential to the protection of Seville; he set its defensive center at Badajoz and restored the walls of Cáceres and Trujillo after conquering them in 1196. Two years later he fell ill and returned to Marrākeš, where he died in 1199.
 
@@ -1473,7 +1475,7 @@ After al-Manṣūr's death, his seventeen-year-old son Abū ʿAbd Allāh Muḥam
 
 ### The Christian Kingdoms under the Almohad Dynasty
 
-The Holy See wielded powerful influence over Mythic Iberia during the Almohad dominion of al-Andalus. Thanks to indulgences, many men-at-arms fought in God's name against the Muslims; united under a single banner, they won important battles and conquered strategic strongholds. During this time, as a sign of favor toward the Christian lords of Iberia, Pope Alexander III issued the bull *Regis aeterni*, which made perpetual the bull *Omnipotentis dispositione* granted by Callixtus II (see page 46). Also in this period, Saint Dominic de Guzmán of Burgos began to combat the Cathar heresy in the Languedoc (in southern France), and Saint Francis of Assisi (the Italian monk who founded the Franciscan Order) traveled to the Peninsula to walk the Way of Saint James, working many miracles on his wanderings through Iberia.
+The Holy See wielded powerful influence over Mythic Iberia during the Almohad dominion of al-Andalus. Thanks to indulgences, many men-at-arms fought in God's name against the Muslims; united under a single banner, they won important battles and conquered strategic strongholds. During this time, as a sign of favor toward the Christian lords of Iberia, Pope Alexander III issued the bull *Regis aeterni*, which made perpetual the bull *Omnipotentis dispositione* granted by Callixtus II (see [page 46](#page-46)). Also in this period, Saint Dominic de Guzmán of Burgos began to combat the Cathar heresy in the Languedoc (in southern France), and Saint Francis of Assisi (the Italian monk who founded the Franciscan Order) traveled to the Peninsula to walk the Way of Saint James, working many miracles on his wanderings through Iberia.
 
 During the Almohad dominion of al-Andalus (1145–1224), the following Christian kingdoms existed:
 
@@ -1489,7 +1491,7 @@ During the Almohad dominion of al-Andalus (1145–1224), the following Christian
 
 #### The Crown of Aragon
 
-After the death of Ramon Berenguer IV, his son Alfonso II ascended the throne of Aragon. Alfonso adopted the date of Christ's birth for dating the Crown's documents and summoned the first Cortes of Aragon, where he proclaimed the Peace and Truce of God (see page 33) throughout his territory. In this way he placed public order in the hands of the Crown and reduced the power of the nobility. To strengthen the monarchy still further, he decreed the royal peace, by which he protected holy places and roads and forbade waging war without a prior public challenge; in this edict he also limited reprisals between merchants of different cities and towns, preventing conflicts among his vassals.
+After the death of Ramon Berenguer IV, his son Alfonso II ascended the throne of Aragon. Alfonso adopted the date of Christ's birth for dating the Crown's documents and summoned the first Cortes of Aragon, where he proclaimed the Peace and Truce of God (see [page 33](#page-33)) throughout his territory. In this way he placed public order in the hands of the Crown and reduced the power of the nobility. To strengthen the monarchy still further, he decreed the royal peace, by which he protected holy places and roads and forbade waging war without a prior public challenge; in this edict he also limited reprisals between merchants of different cities and towns, preventing conflicts among his vassals.
 
 In 1179 the Third Lateran Council was held in Rome, where the Cathar heresy that had spread through Provence was condemned. As a result, the powerful Occitan lords Roger II Trencavel, viscount of Carcassonne and Béziers, and Bernat Ató III, viscount of Nîmes and Agde, turned to Alfonso II to try to protect themselves from the threat of excommunication. With their vassalage, Alfonso II's authority was recognized throughout southern France, from Béarn to the Alps. On his death, his titles were divided between his two sons: Pedro II inherited the kingdom of Aragon and the counties of Barcelona, Gerona, Osona, Besalú, Cerdanya, Conflent, Roussillon, Pallars Jussà and Ribagorza, while Alfonso II of Provence inherited the Occitan lands that lay apart from Catalonia.
 
@@ -1515,7 +1517,7 @@ In 1179 the Third Lateran Council was held in Rome, where the Cathar heresy that
 >
 > - **Tercería**: if the lord so wished, he could hand the management of his property to a peasant, who had to answer for any losses.
 
-<!-- p. 54 -->
+<!-- p. 54 --><a id="page-54"></a>
 
 The monarch of Aragon, Pedro II, was crowned in Rome by Pope Innocent III, becoming his vassal and enfeoffing the kingdom to the Holy See; the monarch therefore undertook to pay Rome an annual census. However, his relations with the pope broke down when Innocent III declared a crusade against the Cathars of Provence, all of them vassals of Pedro II; Pedro refused to carry out the crusade and was excommunicated. Despite his journeys to Rome and his constant pleas for clemency, Pedro could not change the dire fate of his domains in Occitania. The king of Aragon died defending Toulouse from the crusaders at the tragic battle of Muret. His body was taken to the monastery of Sigena (Huesca), but, being excommunicate, he was buried outside the consecrated ground. After his death, Aragon was plunged into a serious financial crisis and passed into the hands of Jaume I, a five-year-old boy who had lost both his parents. With the defeat at Muret, the Crown lost forever the Occitan lands that had been its fiefs, fixing its border at the Pyrenees.
 
@@ -1533,7 +1535,7 @@ After the death of Afonso I, his son Sancho I of Portugal ascended the throne, t
 
 During Sancho's reign, the conflicts with Leon flared up again after the separation of Teresa and Alfonso IX (see the "Interdicts" sidebar on the next page), and dragged on until 1200 with wars on both sides of the border. At the end of his reign, disputes began with the bishops of Porto and Coimbra, which would set off the monarchy's clashes with the Portuguese prelates.
 
-The next Portuguese monarch in the line of succession, after the death of Sancho I, was Afonso II of Portugal, who from the outset set about strengthening royal power with a series of innovative, centralizing measures (such as the *inquirições gerais* approved in 1220, which aimed to identify which properties in northern Portugal belonged to the Crown). However, his short reign was beset from the beginning by disputes over the lordships Sancho I had left to his daughters, the *infantas*, which set him at odds with the military orders and even with Alfonso IX of Leon, in a conflict that outlived him. He also inherited from his father the disputes with the Portuguese prelates, especially after the bishop of Coimbra went to the Fourth Lateran Council (see page 305) to denounce before the Holy See the old affronts he had suffered at the hands of the Crown. On his return, the king received him with violence, and his relationship with the Church soured to such a degree that Pope Honorius III ruled that the king's decisions to demand undue tribute from ecclesiastical institutions amounted to the enslavement of the Church. On the other hand, as his grandfather had done, Afonso made use of crusaders bound for the Holy Land to conquer the stronghold of Alcácer do Sal once and for all, in a crucial victory for Portugal.
+The next Portuguese monarch in the line of succession, after the death of Sancho I, was Afonso II of Portugal, who from the outset set about strengthening royal power with a series of innovative, centralizing measures (such as the *inquirições gerais* approved in 1220, which aimed to identify which properties in northern Portugal belonged to the Crown). However, his short reign was beset from the beginning by disputes over the lordships Sancho I had left to his daughters, the *infantas*, which set him at odds with the military orders and even with Alfonso IX of Leon, in a conflict that outlived him. He also inherited from his father the disputes with the Portuguese prelates, especially after the bishop of Coimbra went to the Fourth Lateran Council (see [page 305](#page-305)) to denounce before the Holy See the old affronts he had suffered at the hands of the Crown. On his return, the king received him with violence, and his relationship with the Church soured to such a degree that Pope Honorius III ruled that the king's decisions to demand undue tribute from ecclesiastical institutions amounted to the enslavement of the Church. On the other hand, as his grandfather had done, Afonso made use of crusaders bound for the Holy Land to conquer the stronghold of Alcácer do Sal once and for all, in a crucial victory for Portugal.
 
 #### The Kingdom of Leon
 
@@ -1543,7 +1545,7 @@ To halt the Portuguese advance, Fernando II forged an alliance with the Almohad 
 
 Taking advantage of Castile's weakness after the defeat at Alarcos, Alfonso IX signed a truce with the Almohads to obtain money and troops with which to invade the neighboring kingdom. However, he failed to defeat his cousin, Alfonso VIII of Castile, and, as a result of his pact, Pope Celestine III excommunicated him.
 
-<!-- p. 55 -->
+<!-- p. 55 --><a id="page-55"></a>
 
 When the child heir to the kingdom of Castile, Enrique I, died (see below), the crown fell to Berenguela, wife of Alfonso IX of Leon and daughter of Alfonso VIII of Castile. However, Alfonso IX ended up renouncing the Castilian crown and allowed his firstborn son, Fernando III, to take the title of king of Castile.
 
@@ -1569,7 +1571,7 @@ Hemmed in between two kingdoms more powerful than his own, and with no chance of
 
 On the death of Sancho VI, his son Sancho VII the Strong ascended the throne; he was said to stand more than two meters tall. His feats of arms in Gascony, alongside his friend King Richard of England, reached the ears of every monarch in Iberia. Sancho was recognized by the pope as *rex Navarrae*, which did not stop the monarch from ignoring the pope's requests that he give up the *parias* from the Almohads and begin waging war on them. Instead, he signed a perpetual peace with the Almohad caliph under which, in exchange for Sancho's help in Africa, the caliph undertook to hand over numerous domains in the Peninsula to him. Sancho VII fought for years in Africa in the service of the Almohads and, in his absence, the kings of Aragon and Castile signed an agreement to divide Navarre between them and attack his kingdom. Despite the help he had given the caliph, the Castilians conquered Vitoria and all of Álava, cutting Navarre off from the sea forever. Enraged, Sancho VII claimed the caliph's lands in Iberia, but the Almohad went back on his word, breaking the oath he had sworn. To try to mitigate this loss, Sancho signed a treaty of friendship with the king of England, John Lackland, which allowed Bayonne (France) to be used as a port of the kingdom of Navarre.
 
-<!-- p. 56 -->
+<!-- p. 56 --><a id="page-56"></a>
 
 Sancho VII received the homage of the lords beyond the Pyrenees at Agramont (in Gascony) and of twenty-seven other nobles of the land of Mixe and the viscounty of Soule, extending his borders northward. At home he followed his father's policy: by unifying taxes and pursuing a sound policy of collecting border dues and urban censuses (as well as his many raids against the Muslims, from which he took great plunder), he enriched the kingdom's coffers, which allowed him to invest in infrastructure and act as a moneylender. Indeed, he was able to lend large sums of money to the monarch of Aragon, Pedro II, who in exchange handed over to him the strongholds of Peña, Escó, Petilla de Aragón, Gallur and Trasmoz (of the Aragonese kingdom).
 
@@ -1583,7 +1585,7 @@ On turning fourteen, Alfonso was declared of age and began his reign. He married
 
 Alfonso VIII fixed the borders between Castile and Leon in the treaty of Fresno-Lavandera, in which his uncle Fernando II and the magnates and bishops of both kingdoms took part. The peace this treaty brought allowed them to raid the Almohad territories of al-Andalus. But with the death of his uncle and the coronation of his cousin, Alfonso IX, in Leon, Alfonso VIII achieved for the first time in history that Leon paid homage to Castile, reversing the balance of power between the two kingdoms. Castile then began an aggressive policy against its neighbors. In response, the monarchs under attack signed the Treaty of Huesca, attacked Castile and began a series of battles that ended with the mediation of Pope Celestine III (see the sidebar on the previous page).
 
-<!-- p. 57 -->
+<!-- p. 57 --><a id="page-57"></a>
 
 > #### The Treaty of Huesca
 >
@@ -1631,7 +1633,7 @@ Pursuing his expansionist policy, Alfonso VIII took advantage of the king of Nav
 >
 > In 1203, a Barcelona cloth merchant named Pedro Nolasco began to organize expeditions, at his own expense, to free Christian captives from Muslim hands. In 1218 the Virgin Mary appeared to him and commanded him to found a religious order to carry on his work. Jaume I of Aragon thus authorized the founding of the Order of Mercy, whose knights are ready to give their lives in exchange for the freedom of Christian captives and slaves.
 
-<!-- p. 58 -->
+<!-- p. 58 --><a id="page-58"></a>
 
 On the death of Alfonso VIII, his ten-year-old son Enrique I was crowned, becoming king of Castile and lord of Guipúzcoa. The young monarch never came to govern, for three years later he died when a roof tile fell on his head while he was playing. The crown passed to the boy's elder sister, Berenguela, who was the queen consort of the king of Leon (Alfonso IX). However, the monarchs of Leon ended up renouncing the crown in favor of their son Fernando. As a result, Fernando III took the title of king of Castile and ratified the peace that Alfonso VIII had signed with Leon, Navarre and Aragon. In 1219, Fernando III was knighted and married Beatrice of Swabia (of the Holy Roman Empire).
 
@@ -1649,7 +1651,7 @@ The Almohad caliph al-Muntanṣir has neglected the government of his realm and 
 
 In 1220, the governor and prince of Seville has ordered the construction of *Borg-al-Azajal* (the Torre del Oro, or Tower of Gold), to complete the defenses of the empire's splendid capital in the Peninsula.
 
-<!-- p. 59 -->
+<!-- p. 59 --><a id="page-59"></a>
 
 > #### Markets, Fairs and Souks
 >
@@ -1701,7 +1703,7 @@ Sancho VII the Strong, monarch of Navarre, continues his policy of expansion bey
 
 In Portugal, Afonso II the Fat has managed to stabilize his kingdom, which is free to fight the Muslims since it enjoys a peace treaty with the monarchs of Castile and Leon. However, he must contend with the Portuguese prelates, in a conflict that will end with his excommunication in mid-1220.
 
-<!-- p. 60 -->
+<!-- p. 60 --><a id="page-60"></a>
 
 ## Iberia beyond 1220
 
@@ -1719,7 +1721,7 @@ What follows is a very brief chronology of the most notable mundane events after
 
 > #### Story Seeds: The Thieving Pigeons
 >
-> When one of the covenant's magi is interrupted by a pigeon bursting into his study, he discovers that it is no ordinary bird, but a beast of virtue (see *Realms of Power: Magic*, page 69). After capturing it and looking into where it came from, he learns that one of the covenant's grogs bought it in the souk of the nearest city. Questioning the grog, he finds out that he bought it to steal a brooch from one of the local nobles and give it to a lady of the covenant with whom he is in love. Luckily for the magus, the grog didn't buy just one pigeon but half a dozen — all of them beasts of virtue!
+> When one of the covenant's magi is interrupted by a pigeon bursting into his study, he discovers that it is no ordinary bird, but a beast of virtue (see *Realms of Power: Magic*, [page 69](#page-69)). After capturing it and looking into where it came from, he learns that one of the covenant's grogs bought it in the souk of the nearest city. Questioning the grog, he finds out that he bought it to steal a brooch from one of the local nobles and give it to a lady of the covenant with whom he is in love. Luckily for the magus, the grog didn't buy just one pigeon but half a dozen — all of them beasts of virtue!
 >
 > When he goes with the grog to the souk stall where he bought them, he finds that it has been replaced by another selling donkeys. Where is the strange merchant who sold pigeons? Unfortunately, the sale of thieving pigeons is banned in the cities, and he has most likely been arrested by the ṣāḥib al-madīna. Will the characters arrive in time, before the merchant is executed? If so, where did he get the beasts of virtue? And, more importantly, has he managed to breed a magical lineage of pigeons? On the other hand, what if the grog had succeeded in stealing the coveted brooch? What if the lady had walked through the city wearing it? Could the magi be linked to the theft?
 
@@ -1733,11 +1735,11 @@ What follows is a very brief chronology of the most notable mundane events after
 >
 > - As a general rule (and again unlike the rest of Europe), the moats of Iberian fortresses are dry: no fortress beyond the Pyrenees fills them with water.
 
-<!-- p. 61 -->
+<!-- p. 61 --><a id="page-61"></a>
 
-<!-- p. 62 -->
+<!-- p. 62 --><a id="page-62"></a>
 
-<!-- p. 63 -->
+<!-- p. 63 --><a id="page-63"></a>
 
 # III. Hermetic History and Culture
 
@@ -1761,7 +1763,7 @@ Scattered though they were, there were few members of the Order in Europe, and m
 
 Of these four covenants, Salionca and Brigantia (both still inhabited today) were conceived by Flambeau as strongholds from which to coordinate the Order's expansion through the magical conquest of the broad lands of Iberia. For that reason, when the future founders of Salionca and Brigantia crossed the Pyrenees, they settled near the Ebro, not far from Val-Negra but at a sufficient distance to rule a vast region independent of the Founder's covenant. There they held a meeting of which no written record survives, since it was nothing more than a council of war to debate the best strategies for attacking the non-Hermetic enclaves known to the magi of that time; the site of Brigantia may also have been chosen at that point.
 
-<!-- p. 64 -->
+<!-- p. 64 --><a id="page-64"></a>
 
 > #### The Campaigns of Grimoald Niger
 >
@@ -1780,17 +1782,17 @@ Of these four covenants, Salionca and Brigantia (both still inhabited today) wer
 >
 > In the text, after coming down from the mountain, Grimoald and his band cross Roncesvalles and follow the old Roman road of the Ebro until they reach a cliff beside a river, where a white stone the size of a small table is described. Today it is fully accepted that this must have been the place Grimoald and his people chose to establish the stronghold of Salionca. From here the text describes how the company follows the Roman road across the land of the Vascones until it reaches Abelania, where the chronicler relates with hardly any embellishment how Grimoald stops to pray at the foot of the tomb of King Pelagius and his queen Gaudiosa. From this point on, various encounters with non-Hermetic sorcerers are described, possibly former members of the cult of Mercury or of the Roman cult of Mithras. The end of this part describes Grimoald's battle with the sorcerer Leuvigild, whom he managed to defeat after nine months of fighting. According to the chronicler, this victory was a great step forward for the Order in Iberia: "besides pacifying the lands nearest to Val-Negra, with the surrender of Leuvigild the rest of the sorcerers belonging to the old Roman cults throughout Iberia joined." Scholars of the treatise consider this assessment an exaggeration, although it is true that the old followers of Mercury on the Peninsula emigrated to Provence (their cult was revitalized at Val-Negra under the guidance of Priamitus of Mercere with the help of Apromor of Flambeau), where their legacy can still be found in 1220.
 >
-> After his struggle with Leuvigild, Grimoald and his band continue their journey until they reach the lands of the Pataric giants (see page 146), where, after a violent battle described in more than a hundred verses, the chronicler abruptly concludes with the triumph of the Flambeau over Equión, king of the giants. Without further ado, the narrative continues, amid geographical references now lost (although they are believed to have been in the old kingdom of Asturias), with the magical assault that Grimoald's Flambeau launched against the Astur vates, or augurs. In the narrative, the leader of the Astur hosts, a *hieroskópo* priest,[^p64-XX] is named Balaudos Petrocirios. Despite the importance of this encounter, the chronicler dispatches it in barely fifty verses; in his account, the confrontation ends at the beginning of the second year, when, at the summer solstice of 778, Grimoald slays Balaudos and leaves the fighting in the hands of one of his apprentices, whom he does not name, in order to press on westward.
+> After his struggle with Leuvigild, Grimoald and his band continue their journey until they reach the lands of the Pataric giants (see [page 146](#page-146)), where, after a violent battle described in more than a hundred verses, the chronicler abruptly concludes with the triumph of the Flambeau over Equión, king of the giants. Without further ado, the narrative continues, amid geographical references now lost (although they are believed to have been in the old kingdom of Asturias), with the magical assault that Grimoald's Flambeau launched against the Astur vates, or augurs. In the narrative, the leader of the Astur hosts, a *hieroskópo* priest,[^p64-XX] is named Balaudos Petrocirios. Despite the importance of this encounter, the chronicler dispatches it in barely fifty verses; in his account, the confrontation ends at the beginning of the second year, when, at the summer solstice of 778, Grimoald slays Balaudos and leaves the fighting in the hands of one of his apprentices, whom he does not name, in order to press on westward.
 >
-> The tale continues into the Galician lands, where, at the end of the world, Grimoald confronts what by all appearances are tempestarii (see page 299). This encounter is even briefer than the last. According to the chronicler, Grimoald destroys the leader of the tempestarii and annihilates all his followers, making possible the founding of the covenant of Brigantia, which he calls Geriona. Of course, the historical value of this encounter is slight, since the conflicts with the tempestarii dragged on until the end of the eighth century. With this encounter over, the copyist gives thanks to God and brings the first part of the chronicles of Grimoald Niger to a close.
+> The tale continues into the Galician lands, where, at the end of the world, Grimoald confronts what by all appearances are tempestarii (see [page 299](#page-299)). This encounter is even briefer than the last. According to the chronicler, Grimoald destroys the leader of the tempestarii and annihilates all his followers, making possible the founding of the covenant of Brigantia, which he calls Geriona. Of course, the historical value of this encounter is slight, since the conflicts with the tempestarii dragged on until the end of the eighth century. With this encounter over, the copyist gives thanks to God and brings the first part of the chronicles of Grimoald Niger to a close.
 >
-> In the second part of the book, the chronicler relates the journey of Grimoald and his companions-in-arms toward the south of Iberia. It mentions their passage through the city of Velegia and the region of the Bardulias, and their arrival on the banks of the river Durius. After they cross it, the tale focuses on describing several places of power and touches briefly on some encounters with non-Hermetic sorcerers whom Grimoald subdues without difficulty. This part concludes with the conquest of Augusta Emerita, where Grimoald defeats the worshippers of the daimons (see *Realms of Power: Magic*, page 106) of the second sphere in twenty-one days. The copyist adds the date on which he finished copying this part and appends an epilogue extolling the valor of the Flambeau over the rest of the Founders.
+> In the second part of the book, the chronicler relates the journey of Grimoald and his companions-in-arms toward the south of Iberia. It mentions their passage through the city of Velegia and the region of the Bardulias, and their arrival on the banks of the river Durius. After they cross it, the tale focuses on describing several places of power and touches briefly on some encounters with non-Hermetic sorcerers whom Grimoald subdues without difficulty. This part concludes with the conquest of Augusta Emerita, where Grimoald defeats the worshippers of the daimons (see *Realms of Power: Magic*, [page 106](#page-106)) of the second sphere in twenty-one days. The copyist adds the date on which he finished copying this part and appends an epilogue extolling the valor of the Flambeau over the rest of the Founders.
 >
 > The third part of the book is the shortest and recounts Grimoald's battles against the *saḥirs*. The style changes in these last pages, shifting from verse to rhymed prose (perhaps because of the death of the previous chronicler, or because it is an apocryphal text added later). The epic culminates with Grimoald's battle and victory against a dozen *jinn* at the Pillars of Hercules, described cursorily in fewer than a hundred lines. Its ending is ambiguous, for it hints that after his victory Grimoald fell into a Twilight from which he has yet to return: "he pursued the demons in their flight and vanished from the world." The book ends with a copyist's epilogue that Salionca never discloses with the copies it provides to visitors. The reason? They have never been willing to explain it.
 >
 > [^p64-XX]: Described by the Greek geographer Strabo (first century BC), they were a priestly caste of Asturias (augurs) charged with sacrificing prisoners of war and making predictions by studying their entrails, with powers of divination based on observing the flight of birds and lightning.
 
-<!-- p. 65 -->
+<!-- p. 65 --><a id="page-65"></a>
 
 ### De belli flambonis
 
@@ -1826,7 +1828,7 @@ Tancoystl of Diedne was charged with conveying the decision to the spiritual lea
 >
 > The history of the Basque and Navarrese witches is told in the sourcebook for the Provençal Tribunal (see the bibliography), since its borders encompass most of their lands. This witch tradition remained outside the Order when other minor traditions joined House Ex Miscellanea. Attempts to annex it failed, and in 1220 they are still not part of the Order of Hermes.
 
-<!-- p. 66 -->
+<!-- p. 66 --><a id="page-66"></a>
 
 > #### Ranemiro of Sahagún
 >
@@ -1840,7 +1842,7 @@ Tancoystl of Diedne was charged with conveying the decision to the spiritual lea
 >
 > With little to go on, Ranemiro followed the few leads Oderisio had left, and his inquiries took him to Piedmont, from where he reached Harco, domus magna of House Mercere (not far away, Flambeau was fighting the sorcerer Varstus in the Alps, and in Iberia, Grimoald and his band were blazing a path southward through the Peninsula). At Harco, Ranemiro was received by one of Mercere's sons, Priamitus, who, after conversing with him for a few days, granted him passage to Durenmar, where he was trained in the Arts and in Hermetic theory by the Founder Guernicus. When his apprenticeship was over, Ranemiro returned to Oviedo, where he began to devise a way to carry out his holy task.
 
-<!-- p. 67 -->
+<!-- p. 67 --><a id="page-67"></a>
 
 Their capitulation was a turning point for many other sorcerers of smaller traditions, for whom the peace with the vates served as an incentive to come to Duresca or Lucis to learn about the Order without running any risk. But it was not so with the tempestarii. In 785 Ranemiro was gravely wounded when he violated one of their sanctuaries, and Tancoystl had to take charge of the negotiations. Despite the warnings of Ágila (his prophecies foretold nothing but war), the Diedne maga kept drawing closer to them until she was accepted among the priests of the storms, at which point she managed to seat one of their elders across from Ranemiro, in 787, after he swore an oath to keep the cult's secrets. Four years later, the Peninsula's magi went to the Rhine Tribunal to announce the success of their negotiations. To the Flambeau's displeasure, the Tribunal was so pleased that the negotiations were extended by another ten years.
 
@@ -1852,9 +1854,9 @@ Ranemiro stepped aside to make way for the Flambeau and the Tremere of the Penin
 
 The magi attacked the northern settlements where they knew the sorcerers lived, but without bringing down a single tempestarius: it was as if they could foresee their movements. However, many innocent lives were taken, and when the tempestarii struck back, their response was terrible: storms ravaged the north of the Peninsula for months; lands were flooded, the sea grew so wild that it could not be sailed, Brigantia was destroyed, and Dehewint and two Tremere who had left the short-lived covenant of Prima died. The scale of the conflict drew the attention of the mundanes of the kingdom of Asturias, and Tancoystl again summoned the Peninsula's magi to her covenant of Duresca in the year 794.
 
-<!-- p. 68 -->
+<!-- p. 68 --><a id="page-68"></a>
 
-During the meeting Tancoystl and the former vates were accused of having collaborated with the tempestarii, and Ranemiro forced them to share the secrets of the storm sorcerers and to remain at Duresca. Using unorthodox methods, Ranemiro obtained from his old friend the information the magi of the Order craved: the location of the tempestarii's most important sanctuary and focus of power, on the western coast of Asturias. At the spring equinox of 794 the Peninsula's magi performed a ritual to devastate the beach where the tempestarii worshipped their gods, destroying the focus of their power and, possibly, the richest vis source in Iberia. The blow was decisive. After the battle, most of the tempestarii chose death over joining the Order; those who did join (mostly the young) entered House Diedne, so the inner mysteries of the tempestarii were lost, and the descendants of the survivors possess no more than a small fraction of their power (see page 299).
+During the meeting Tancoystl and the former vates were accused of having collaborated with the tempestarii, and Ranemiro forced them to share the secrets of the storm sorcerers and to remain at Duresca. Using unorthodox methods, Ranemiro obtained from his old friend the information the magi of the Order craved: the location of the tempestarii's most important sanctuary and focus of power, on the western coast of Asturias. At the spring equinox of 794 the Peninsula's magi performed a ritual to devastate the beach where the tempestarii worshipped their gods, destroying the focus of their power and, possibly, the richest vis source in Iberia. The blow was decisive. After the battle, most of the tempestarii chose death over joining the Order; those who did join (mostly the young) entered House Diedne, so the inner mysteries of the tempestarii were lost, and the descendants of the survivors possess no more than a small fraction of their power (see [page 299](#page-299)).
 
 ### The Expulsion of Ranemiro and the Disappearance of Lucis
 
@@ -1884,13 +1886,13 @@ When the news reached Duresca, the former tempestarii and vates of House Diedne 
 
 Four years after the death of the Founder Mercere, his son Priamitus (founder of the Hermetic cult of Mercury) and Priamitus's own son (a Mozarab Redcap named Don Šaybān) came to the Peninsula to embark on an ambitious plan: the construction of the first Mercer House on the Peninsula and of the Mercere portals. To that end they contacted Somnus of Tremere, of the covenant of Secunda, and the aged magus summoned all the Peninsula's magi in the year 822, this time fully emulating the meetings of the Rhine, in the hope of founding a regional Tribunal at the next Grand Tribunal (which would be the fifth, in 832).
 
-<!-- p. 69 -->
+<!-- p. 69 --><a id="page-69"></a>
 
 > #### The Portals of Iberia
 >
 > Priamitus of Mercere agreed with Somnus of Tremere, the Quaesitores and the leaders of all the Peninsula's covenants present at the meeting of 822 on the creation of five Mercere portals in Iberia. Priamitus made it a condition that all of them must connect to the Mercer House of Aedes Saturni, from which it would be possible to travel to Harco, the domus magna of his House, by means of a portal built for that purpose.
 >
-> Of the five portals, two were shut down during the Schism War, since they were not housed inside any covenant, and the Mercere disabled them after the events at the domus magna of House Bonisagus (see *Houses of Hermes: True Lineages*, page 87). The other three, located at the covenants of Duresca and Salionca (connected to the portal hall of Aedes Saturni) and at Aedes Saturni itself (connected to Harco), are still in operation today.
+> Of the five portals, two were shut down during the Schism War, since they were not housed inside any covenant, and the Mercere disabled them after the events at the domus magna of House Bonisagus (see *Houses of Hermes: True Lineages*, [page 87](#page-87)). The other three, located at the covenants of Duresca and Salionca (connected to the portal hall of Aedes Saturni) and at Aedes Saturni itself (connected to Harco), are still in operation today.
 >
 > All the pairs of portals in Iberia were numbered in the order of their creation, so the magi of the Tribunal know them by their ordinal names.
 >
@@ -1924,7 +1926,7 @@ The meeting held at Secunda focused on Priamitus's request for the founding of t
 
 During this historic meeting, the Peninsula's magi wrote once again in their own minutes, adding to the complexity of the seed of their Peripheral Code, which only strengthened the identity of the region's magi. But what was happening in Iberia was no isolated case: throughout Mythic Europe the other regions were also beginning to take shape. To regulate this new situation, the fifth Grand Tribunal of 832 set the intervals between Tribunal meetings from 836 onward: Grand Tribunals would meet every thirty-three years and regional Tribunals every seven. However, to the sorrow of the Peninsula's magi, the Grand Tribunal refused to create a regional Tribunal in Iberia, since they could not count on the members of Brigantia, whose covenant had recently been destroyed by the Vikings. Nevertheless, the Grand Tribunal ratified the creation of the Mercere portals and the founding of Aedes Saturni.
 
-<!-- p. 70 -->
+<!-- p. 70 --><a id="page-70"></a>
 
 With Don Šaybān established in Iberia, the Redcaps carried out the first census of the vis sources of the north of the Peninsula, with the help of the Diedne and the Guernicus of Iberia. Later, in 836, the Peninsula's magi met at Secunda to amend, yet again, the entry on the Iberian tax and to create a new ruling on vis sources:
 
@@ -1942,7 +1944,7 @@ When this news reached the ears of Tancoystl Ex Miscellanea, she summoned the Pe
 
 When, months later, a *filia* of Tancoystl died at the king's stake, the old Ex Miscellanea and other magae of Duresca (former tempestarii and vates) resolved to assassinate King Ramiro to put an end to his edict and so avenge the maga's death. However, the regicide was never carried out: seven days after the summer solstice of 845, the magae involved were ambushed and handed over to the king in Oviedo, who ordered an immense pyre built on the slopes of Mount Naranco, facing the Aula Regia of the Asturian court. Thus Tancoystl Ex Miscellanea, one of the first Hermetic inhabitants of Iberia and a former member of the Ordo Miscellanea, died at the stake together with her companions, and the Tremere cleared the ground still further for their bid for supremacy in the Order.
 
-<!-- p. 71 -->
+<!-- p. 71 --><a id="page-71"></a>
 
 The Asturian king's decree prompted some Asturian magi to leave for the south of the Peninsula, where they decided to try their luck in the lands of al-Andalus despite the danger of the *saḥirs*. This, together with the discord caused by Baldiccione's decisions (see below), contributed to the lack of a *quorum* at the Grand Tribunal of 865 for the official constitution of the Iberian Tribunal, since a good number of them took several lustra to settle down.
 
@@ -1952,7 +1954,7 @@ The Asturian king's decree prompted some Asturian magi to leave for the south of
 
 [^p71-29]: Excerpt from Ibn Ḥazm's *The Ring of the Dove* (Spanish translation by Emilio García Gómez).
 
-The Sundering of 848 (see *Houses of Hermes: True Lineages*, "The Last Founder," page 120) brought about the destruction of the minds of Somnus and Átropo, Tremere's lieutenants, when the plot of the Transylvanian magi was foiled. When the Quaesitor Qatr al-Nadà, who was in charge of the investigations carried out on the Peninsula, publicly announced the Tremere's treachery, she summoned the Peninsula's magi to the covenant of Dār Malīḥaʾ, which no Tremere attended. This meeting was the prelude to the Rhine meeting of 850, where Qatr al-Nadà raised the inclusion of a new ruling in the Code, called "On the Praeco" (see the next page), to prevent a repetition of what the Order had just been through. However, the Tribunal did not support the motion, which would finally be rejected outright at the Grand Tribunal of 865. Even so, this ruling would later be included after the official constitution of the Tribunal (see below).
+The Sundering of 848 (see *Houses of Hermes: True Lineages*, "The Last Founder," [page 120](#page-120)) brought about the destruction of the minds of Somnus and Átropo, Tremere's lieutenants, when the plot of the Transylvanian magi was foiled. When the Quaesitor Qatr al-Nadà, who was in charge of the investigations carried out on the Peninsula, publicly announced the Tremere's treachery, she summoned the Peninsula's magi to the covenant of Dār Malīḥaʾ, which no Tremere attended. This meeting was the prelude to the Rhine meeting of 850, where Qatr al-Nadà raised the inclusion of a new ruling in the Code, called "On the Praeco" (see the next page), to prevent a repetition of what the Order had just been through. However, the Tribunal did not support the motion, which would finally be rejected outright at the Grand Tribunal of 865. Even so, this ruling would later be included after the official constitution of the Tribunal (see below).
 
 ## The Days of Nuʿmān
 
@@ -1982,9 +1984,9 @@ Baldiccione resolved to seek Qatr al-Nadà's help in abolishing these laws on th
 
 The two judges brought the abolition of the Iberian Peripheral Code, and an end to hostilities with the *saḥirs* so as to achieve peace, before the Rhine Tribunal of 864. At the meeting, the assembly ruled in favor of both measures and resolved to seize the Iberian treasury at Aedes Saturni, which was stripped of the wealth it had accumulated over more than fifty years. Many of the northern magi of the Peninsula lodged complaints, led by the then *dictator* of Salionca, Ruiz Sánchez de Esco. The meeting was a disaster from the political standpoint Baldiccione sought, for not only did he earn the enmity of numerous covenants in Iberia for having stripped them of their identity at that Tribunal, but it ended up defining two factions on the Peninsula: those who favored war and those who did not.
 
-<!-- p. 72 -->
+<!-- p. 72 --><a id="page-72"></a>
 
-The Tribunal of 864 had its echo a year later, at the sixth Grand Tribunal. At that meeting the regional Tribunals of the Rhine, the West Franks, Lotharingia, Britain, Rome, Thebes, the Levant and the Greater Alps were constituted, but not that of Iberia. Many of the Peninsula's magi did not attend the assembly because of the schism caused by the decisions of Baldiccione and Qatr al-Nadà, so the *quorum* needed to constitute the Tribunal could not be established. On the other hand, and making up for the Hermetic diplomatic failure, the ceasefire with the *saḥirs* allowed negotiations to progress until, in 870, the Order signed its first truce with them, which was ratified by the Rhine Tribunal in 871. This was a time of peace and prosperity that culminated in the creation of the Isidorian Circle (see page 103).
+The Tribunal of 864 had its echo a year later, at the sixth Grand Tribunal. At that meeting the regional Tribunals of the Rhine, the West Franks, Lotharingia, Britain, Rome, Thebes, the Levant and the Greater Alps were constituted, but not that of Iberia. Many of the Peninsula's magi did not attend the assembly because of the schism caused by the decisions of Baldiccione and Qatr al-Nadà, so the *quorum* needed to constitute the Tribunal could not be established. On the other hand, and making up for the Hermetic diplomatic failure, the ceasefire with the *saḥirs* allowed negotiations to progress until, in 870, the Order signed its first truce with them, which was ratified by the Rhine Tribunal in 871. This was a time of peace and prosperity that culminated in the creation of the Isidorian Circle (see [page 103](#page-103)).
 
 ### The Grand Tribunal of 898
 
@@ -1994,7 +1996,7 @@ The peace of 871 allowed the Peninsula's magi to live free of the threat of the 
 
 In 899 the first Iberian Tribunal was held at Campus Stellae, with Baldiccione as Praeco and his *filius* Ṭāmis al-Išbīlī al-Gernikī as presiding Quaesitor. During the meeting the earlier minutes of the Peninsula were recovered and amended, the clause proposed by Qatr al-Nadà in 850 ("On the Praeco") was included, and new rules were approved. In addition, Durenmar handed over the treasury seized in 864, which was returned to the coffers of Aedes Saturni.
 
-***899 AD, On the Iberian Treasury*** *(Ṭāmis al-Išbīlī al-Gernikī)* The treasury of the Tribunal shall be kept at Aedes Saturni and shall be regulated and protected by a Flambeau and a Guernicus, who shall hold the titles of *praefectus praetorio* and *quaestor aerarii*, respectively (see "New Virtues and Flaws," page 305).
+***899 AD, On the Iberian Treasury*** *(Ṭāmis al-Išbīlī al-Gernikī)* The treasury of the Tribunal shall be kept at Aedes Saturni and shall be regulated and protected by a Flambeau and a Guernicus, who shall hold the titles of *praefectus praetorio* and *quaestor aerarii*, respectively (see "New Virtues and Flaws," [page 305](#page-305)).
 
 ***899 AD, On the Iberian Tax*** *(Ṭāmis al-Išbīlī al-Gernikī)* Any covenant of the Iberian Tribunal that can demonstrate its work on behalf of the Order may request a payment to defray the costs of its labors. To meet such demands, every covenant of the Tribunal must deliver to the Iberian treasury an amount of vis determined by the wealth of its declared sources[^p72-31].
 
@@ -2020,9 +2022,9 @@ Finally, a Quaesitor may never be Praeco.
 
 As a result of this last clause, Baldiccione agreed to renounce his title of Quaesitor so as to continue serving as Praeco and be able to bring the peace with the *saḥirs* to fruition.
 
-[^p72-32]: Note that this invalidates voting by proxy; see *Houses of Hermes: True Lineages*, page 55.
+[^p72-32]: Note that this invalidates voting by proxy; see *Houses of Hermes: True Lineages*, [page 55](#page-55).
 
-<!-- p. 73 -->
+<!-- p. 73 --><a id="page-73"></a>
 
 ### The End of the Truce with the Saḥirs and the Fall of Baldiccione
 
@@ -2038,7 +2040,7 @@ After long and tedious hours, the judges denounced a considerable embezzlement f
 
 After the statements and the quaesitorial interrogations, the assembly began debating whether or not to exile Baldiccione when Briatiz de Moncharro rose, bathed in tears, and blamed him for the death of her apprentice. Although the aged magus tried to reason with her and did everything he could to ease the Diedne's grief, the maga declared Wizard's War on him for the following full moon and killed Baldiccione at the end of that same year. His death also brought to a close what would come to be known as the days of Nuʿmān.
 
-<!-- p. 74 -->
+<!-- p. 74 --><a id="page-74"></a>
 
 > #### Baldiccione's Contribution to the Code
 >
@@ -2084,13 +2086,13 @@ After the statements and the quaesitorial interrogations, the assembly began deb
 >
 > With Finesse rolls of 6 or more, the target gains +1 to his social rolls. Bear in mind that the magus must know the perfume and be familiar with it (if he does not know it, he cannot emulate it). Furthermore, if the magus has been in contact with the perfume in question for less than a year, the Ease Factor rises by +3.
 >
-> This spell became popular in Ǧamīla's Iberia; her sigil is said to have been the scent of ambergris. Indeed, every magus of the Tribunal knows the story of a magus of that era named Abū-l-Walīd Muḥammad al-Ŷerbitonī, whom masters often use as a cautionary tale for their apprentices. According to the story, Abū-l-Walīd Muḥammad lacked the means to buy expensive perfumes, so he overused this spell throughout his life and brought on his Final Twilight at an early age (for another perfume-related spell, see page 3 of the *Códice Hermético*, the spell booklet included with Holocubierta's Spanish-edition Storyguide screen).
+> This spell became popular in Ǧamīla's Iberia; her sigil is said to have been the scent of ambergris. Indeed, every magus of the Tribunal knows the story of a magus of that era named Abū-l-Walīd Muḥammad al-Ŷerbitonī, whom masters often use as a cautionary tale for their apprentices. According to the story, Abū-l-Walīd Muḥammad lacked the means to buy expensive perfumes, so he overused this spell throughout his life and brought on his Final Twilight at an early age (for another perfume-related spell, see [page 3](#page-3) of the *Códice Hermético*, the spell booklet included with Holocubierta's Spanish-edition Storyguide screen).
 >
 > (Base 1, +1 Touch, +2 Sun)
 >
 > [^p74-XXI]: From Maimonides' *The Guide for the Perplexed* (Spanish translation by David Gonzalo Maeso).
 
-<!-- p. 75 -->
+<!-- p. 75 --><a id="page-75"></a>
 
 ## The Arabization of the Tribunal
 
@@ -2124,7 +2126,7 @@ During this period the magi of Iberia lived through a social revolution (which c
 >
 > [^p75-XXII]: From Maimonides' *The Guide for the Perplexed* (Spanish translation by David Gonzalo Maeso).
 
-<!-- p. 76 -->
+<!-- p. 76 --><a id="page-76"></a>
 
 ### Ǧamīla's Cultural Revolution
 
@@ -2160,15 +2162,15 @@ With the proclamation of ʿAbd al-Raḥmān III as caliph of al-Andalus, the fir
 >
 > Serving in such a capacity would be a violation of the Code of Hermes, but ignoring the summons of a powerful lord could cause him trouble (in Castile, royal wrath meant banishment from the kingdom). How did the mundane lord come to hear the magus's name and the location of the covenant? Could it be a ruse by one of his enemies?
 
-<!-- p. 77 -->
+<!-- p. 77 --><a id="page-77"></a>
 
-Ǧamīla brought the Eastern customs of al-Andalus to the Order. Magi began to adopt the Muslim ideal of the perfect man (see the "Ziryāb" sidebar, page 22), took to embroidering verses or spell formulas on their clothes, and to wearing perfumes as a symbol of power and influence. Thanks to her, covenants began to be built around gardens, as a representation of paradise, and the walls of *sancta* filled with verses alluding to the magical affinities of their owners. Under Ǧamīla the aesthetic aspects of magic were developed to the full, not merely its practical ones.
+Ǧamīla brought the Eastern customs of al-Andalus to the Order. Magi began to adopt the Muslim ideal of the perfect man (see the "Ziryāb" sidebar, [page 22](#page-22)), took to embroidering verses or spell formulas on their clothes, and to wearing perfumes as a symbol of power and influence. Thanks to her, covenants began to be built around gardens, as a representation of paradise, and the walls of *sancta* filled with verses alluding to the magical affinities of their owners. Under Ǧamīla the aesthetic aspects of magic were developed to the full, not merely its practical ones.
 
 Of course, these changes did not permeate the Iberian Tribunal evenly: the north of the Peninsula was much less receptive, although their influence was felt there too to a greater or lesser degree (with the possible exception of Salionca).
 
 ### The Peace with the Saḥirs
 
-The Tribunal resumed peace negotiations with the *saḥirs* in the year 920, once again with one of Apromor's followers, a magus of Brigantia, as ambassador. To spare him the fate of young Tareyja, the negotiator's identity was kept secret (and remains so to this day, though some students of the Tribunal's history claim to have inferred it from certain evidence; see "Harra," page 173), as were the meeting places of both parties.
+The Tribunal resumed peace negotiations with the *saḥirs* in the year 920, once again with one of Apromor's followers, a magus of Brigantia, as ambassador. To spare him the fate of young Tareyja, the negotiator's identity was kept secret (and remains so to this day, though some students of the Tribunal's history claim to have inferred it from certain evidence; see "Harra," [page 173](#page-173)), as were the meeting places of both parties.
 
 Thanks to the Tribunal's efforts, the negotiations proceeded almost without incident and, in less than five years, the judge Ṭāmis ibn Baldiccione al-Išbīlī al-Gernikī (founder of the covenant of Pico Sacro) and the judge Zaynab ḅint Qatr al-Nadà al-Gernikiyya (Quaesitor of the covenant of Dār Malīḥaʾ) summoned Ǧamīla to inform her that the *saḥirs* were prepared to make peace with the Order and become part of it. To formalize the agreement, Ǧamīla convened an extraordinary Tribunal at her covenant in the year 925. All the magi of the Tribunal attended the meeting, along with almost two dozen *saḥirs*, represented by the non-Hermetic sorcerer Al-Muzaffar. Before them all, Al-Muzaffar signed a peace agreement whose sole condition was that the Order should found no covenant in Africa for a period of 300 years (see the sidebar on the next page). When the Praeco and the Quaesitor signed on behalf of the Order, the *saḥirs* swore the Hermetic Oath and joined House Ex Miscellanea, adopting the *nisba* al-Praliḥī and al-Praliḥiyya (in honor of Pralix). The Tribunal, however, created no ruling of the Peripheral Code to reflect the *saḥirs*' request, which in time proved to be a mistake (see "*Non plus ultra*").
 
@@ -2188,7 +2190,7 @@ To understand these events we must go back a few years. After Briatiz de Monchar
 >
 > [^p77-XXIII]: For sagas set before the game's canonical starting date, bear in mind that the Templars were founded in Jerusalem in the year 1119, and the first donations to the order in the Peninsula do not appear until 1132 (or 1127–1129 according to other sources).
 
-<!-- p. 78 -->
+<!-- p. 78 --><a id="page-78"></a>
 
 Briatiz did not know quite what to do with the documents, so she called a council with the presiding Quaesitor Ṭāmis al-Išbīlī al-Gernikī, the judge Zaynab ḅint Qatr al-Nadà al-Gernikiyya, the *ductor* of the covenant of Brigantia, Al-Harqal al-Apromorī al-Flambī, and Arnau al-Merkerī, a member of the Mercer House of Aedes Saturni. At the meeting, Ṭāmis was able to confirm that the letters were in his master's hand; their contents, however, were too disconcerting to assume they were authentic, so they made copies of the documents and Ṭāmis requested an urgent hearing before the lower chamber of Magvillus.
 
@@ -2207,7 +2209,7 @@ In the years that followed, numerous copies of the Duresca manuscripts came to l
 >
 > The *saḥirs* might have imposed other conditions for joining the Order of Hermes. This point can be left open so that each gaming group may freely add whatever clauses it sees fit to flavor its saga.
 
-<!-- p. 79 -->
+<!-- p. 79 --><a id="page-79"></a>
 
 ***941 AD, On the Records of Iberia II*** *(Maryam al-Gernikiyya)* Amendment to "On the Records of Iberia" (899). The records of Iberia shall be kept at the covenant of Duresca.
 
@@ -2239,7 +2241,7 @@ The Criamon of Bayt al-Ḥikma began to use their magical knowledge and riches t
 
 When this news reached the court of Madīnat al-Zahrāʾ, where the Masarrī doctrines had been condemned less than twenty years before, an order was issued for the arrest of the Criamon of Bayt al-Ḥikma. And so the Kharijites were condemned by the Mālikī fuqahāʾ in the spring of 963, and seized by the caliph's authorities that same summer.
 
-<!-- p. 80 -->
+<!-- p. 80 --><a id="page-80"></a>
 
 When the magi of al-Andalus raised their voices to halt the execution, the Guernicus of Duresca reminded them that any action they took would be a violation of the Code and would put all the magi of Iberia in great danger. Reluctantly, the Praeco, ʿAbbās ibn Munḏīr al-Bonisagī, backed the Quaesitores of Duresca, for he did not wish to wreck the negotiations he was conducting with Al-Ḥakam II.
 
@@ -2249,19 +2251,19 @@ The Kharijites were crucified at the end of the summer of 963 on the roof terrac
 
 > #### Ibn Masarra
 >
-> Abū ʿAbd Allāh Muḥammad ibn Masarra al-Ŷabalī (see page 316) is considered the first Andalusi mystic (twice anathematized and persecuted by the Mālikī fuqahāʾ of Cordoba) and the instigator of a class revolution during the tenth century. His doctrines and thought were deeply influenced by the Greek philosophy of Plato, Plotinus and Empedocles, as well as by Sufism, a branch of Muslim mysticism. Although profoundly Gnostic, he believed that the theses of Plotinus concealed the keys to deciphering certain esoteric meanings of the Qurʾan. For Ibn Masarra, however, rational knowledge (*falsafa*, or human intellect) could not be considered superior to the knowledge revealed by God, for inner knowledge could only be attained through intuition and never through rational or philosophical discourse (and he therefore criticized the philosophers, for they followed the wrong path, that of rationality).
+> Abū ʿAbd Allāh Muḥammad ibn Masarra al-Ŷabalī (see [page 316](#page-316)) is considered the first Andalusi mystic (twice anathematized and persecuted by the Mālikī fuqahāʾ of Cordoba) and the instigator of a class revolution during the tenth century. His doctrines and thought were deeply influenced by the Greek philosophy of Plato, Plotinus and Empedocles, as well as by Sufism, a branch of Muslim mysticism. Although profoundly Gnostic, he believed that the theses of Plotinus concealed the keys to deciphering certain esoteric meanings of the Qurʾan. For Ibn Masarra, however, rational knowledge (*falsafa*, or human intellect) could not be considered superior to the knowledge revealed by God, for inner knowledge could only be attained through intuition and never through rational or philosophical discourse (and he therefore criticized the philosophers, for they followed the wrong path, that of rationality).
 >
 > According to his doctrine, to become one with the *Spharios* (or to attain recognition of the divine unity, which is the one and final truth), one had to read the book of the universe (which confirms everything set forth in the Revealed Book) with the eyes of thought.
 >
-> After Ibn Masarra fled to Africa with two of his apprentices, Ibn Abdullah al-Roʿayni founded a Masarrī school in Almería, whose members came to be known as "the madmen of Pechina." One of his apprentices, Ibn al-ʿArif, gathered all the followers of this school in the mountains of Almería and drew up rules for the spiritual life, which he entrusted to three of his disciples to spread: Abū Bakū al-Mallorquī took charge of preaching them in the *kūra* of Granada; Ibn Qasī spread them in the *kūra* of al-Gharb, where he created a kind of religious militia (see "Chazāʾir," page 230); and Ibn Barraŷán went off to the remote *kūra* of Seville to preach them.
+> After Ibn Masarra fled to Africa with two of his apprentices, Ibn Abdullah al-Roʿayni founded a Masarrī school in Almería, whose members came to be known as "the madmen of Pechina." One of his apprentices, Ibn al-ʿArif, gathered all the followers of this school in the mountains of Almería and drew up rules for the spiritual life, which he entrusted to three of his disciples to spread: Abū Bakū al-Mallorquī took charge of preaching them in the *kūra* of Granada; Ibn Qasī spread them in the *kūra* of al-Gharb, where he created a kind of religious militia (see "Chazāʾir," [page 230](#page-230)); and Ibn Barraŷán went off to the remote *kūra* of Seville to preach them.
 >
 > The school of Masarra's followers was condemned in Madīnat al-Zahrāʾ and its members were persecuted until it was finally dissolved.
 
 ### The Tribunal and the Umayyads
 
-The Praeco and Trianomae ʿAbbās ibn Munḏīr completed the cultural revolution begun by his lover, Ǧamīla. He made the Tribunal prosper through his relationship with the Umayyads and achieved an unprecedented milestone when, in 969, the Tribunal approved the use of the Great Mosque as a place of teaching for Hermetic magi with the Gentle Gift or their agents. Ibn Munḏīr drew on the Kharijites' good reputation to achieve this, with a speech that has often been studied by scholars of Hermetic law and was wielded as a thesis by the followers of Simprim in the twelfth century (see *Houses of Hermes: True Lineages*, page 46). An excerpt follows:
+The Praeco and Trianomae ʿAbbās ibn Munḏīr completed the cultural revolution begun by his lover, Ǧamīla. He made the Tribunal prosper through his relationship with the Umayyads and achieved an unprecedented milestone when, in 969, the Tribunal approved the use of the Great Mosque as a place of teaching for Hermetic magi with the Gentle Gift or their agents. Ibn Munḏīr drew on the Kharijites' good reputation to achieve this, with a speech that has often been studied by scholars of Hermetic law and was wielded as a thesis by the followers of Simprim in the twelfth century (see *Houses of Hermes: True Lineages*, [page 46](#page-46)). An excerpt follows:
 
-<!-- p. 81 -->
+<!-- p. 81 --><a id="page-81"></a>
 
 *[…] The Kharijites have not abandoned us, not while their teachings live on, not while we keep their memory alive. We must continue their work, but clearing the heresy from their doctrines, lest we provoke the wrath of mundanes and fall into violation of the Code of Hermes […].*
 
@@ -2271,11 +2273,11 @@ The Praeco and Trianomae ʿAbbās ibn Munḏīr completed the cultural revolutio
 
 ### Al-ʿIdwa:[^p81-35] Beyond the Pillars of Hercules
 
-The Tribunal's relations with the caliphate allowed the Order to spread into the protectorates al-Andalus had established in Africa and, although in 925 the Order had agreed not to occupy Africa for a period of 300 years, the magi of Iberia set out to explore the African continent all the same; their justification was that they did not wish to found a covenant *per se*, but a Mercer House, and the judges agreed that this did not constitute a violation of the treaty. And so, after the Tribunal of 976, a group of Redcaps led by the maga Umm al-Kirām al-Merkeriyya was sent to Africa. Their travels lasted five years and were recorded by a Redcap of Porta Pandere in a long *risāla* of epic character, which the Merinitae have more than once used as inspiration for organizing what they call the Great Game (see *Houses of Hermes: Mystery Cults*, page 146).
+The Tribunal's relations with the caliphate allowed the Order to spread into the protectorates al-Andalus had established in Africa and, although in 925 the Order had agreed not to occupy Africa for a period of 300 years, the magi of Iberia set out to explore the African continent all the same; their justification was that they did not wish to found a covenant *per se*, but a Mercer House, and the judges agreed that this did not constitute a violation of the treaty. And so, after the Tribunal of 976, a group of Redcaps led by the maga Umm al-Kirām al-Merkeriyya was sent to Africa. Their travels lasted five years and were recorded by a Redcap of Porta Pandere in a long *risāla* of epic character, which the Merinitae have more than once used as inspiration for organizing what they call the Great Game (see *Houses of Hermes: Mystery Cults*, [page 146](#page-146)).
 
 [^p81-35]: From the Arabic, "the other shore of the strait."
 
-<!-- p. 82 -->
+<!-- p. 82 --><a id="page-82"></a>
 
 > #### Bilad al-Sūdān
 >
@@ -2293,23 +2295,23 @@ The Tribunal's relations with the caliphate allowed the Order to spread into the
 >
 > From 1160 onward the Christian presence in the Maghreb increased, as the Almohad caliphs signed trade treaties with the republics of Genoa and Pisa. As a result, by the end of the twelfth century, Ceuta had become an important base of operations for the Genoese.
 >
-> While one of the magi of the characters' covenant is reviewing his autocrat's accounts of the income from their businesses in Ceuta, he discovers by chance that one of the gold coins holds vis, and not just any vis, but extraordinary vis (see *Realms of Power: Magic*, page 147). Puzzled, the magus examines the coin, on which the following can be read in Arabic:
+> While one of the magi of the characters' covenant is reviewing his autocrat's accounts of the income from their businesses in Ceuta, he discovers by chance that one of the gold coins holds vis, and not just any vis, but extraordinary vis (see *Realms of Power: Magic*, [page 147](#page-147)). Puzzled, the magus examines the coin, on which the following can be read in Arabic:
 >
 > **Obverse** *There is no god but the One God; none may be associated with Him.*[^p82-XXIV]
 >
 > **Reverse** *In the name of God this dinar was struck in the dār al-sikka of Madīnat al-Zahrāʾ.*
 >
-> Vis cannot be preserved in any manufactured object, yet this dinar belies it. Moreover, what path has the dinar, minted during the caliphate of al-Andalus, followed? Could more be obtained by following that trail? The characters will have to investigate the dinar and, with it, its history. Perhaps they will have to travel to their trading posts in Ceuta and track down the Genoese merchant who gave them the coin in order to find its twins. In the course of the story they will discover that all the caliphs' gold came from *bilad al-Sūdān*, where the destroyed Mercer House of Aedes Iris once stood. Their inquiries will lead them to the Mercer Houses of the Tribunal to investigate the transport of the gold (see the sidebar on page 26) and, finally, to the vis sources of the old covenant of Aedes Iris, where they may delve into, and even uncover, the secret that claimed the few Hermetic magi who reached those lands.
+> Vis cannot be preserved in any manufactured object, yet this dinar belies it. Moreover, what path has the dinar, minted during the caliphate of al-Andalus, followed? Could more be obtained by following that trail? The characters will have to investigate the dinar and, with it, its history. Perhaps they will have to travel to their trading posts in Ceuta and track down the Genoese merchant who gave them the coin in order to find its twins. In the course of the story they will discover that all the caliphs' gold came from *bilad al-Sūdān*, where the destroyed Mercer House of Aedes Iris once stood. Their inquiries will lead them to the Mercer Houses of the Tribunal to investigate the transport of the gold (see the sidebar on [page 26](#page-26)) and, finally, to the vis sources of the old covenant of Aedes Iris, where they may delve into, and even uncover, the secret that claimed the few Hermetic magi who reached those lands.
 >
 > [^p82-XXIV]: Spanish translation by José Luis de Villar.
 
-When Umm al-Kirām returned, the Tribunal approved the creation of the Mercer House of Aedes Iris (for more on the possible truthfulness of this *risāla*, take a look at the sidebar "The Mystery of *bilad al-Sūdān*" on page 272).
+When Umm al-Kirām returned, the Tribunal approved the creation of the Mercer House of Aedes Iris (for more on the possible truthfulness of this *risāla*, take a look at the sidebar "The Mystery of *bilad al-Sūdān*" on [page 272](#page-272)).
 
 Once fully established in Africa, the Tribunal approved the creation of a second Mercer House in the Peninsula, which the Mercere named Porta Pandere (subsidiary to Aedes Saturni). For communication between them, new Mercere portals were agreed upon and, to distinguish them from the first ones, they began numbering them from ten. Thus four new portals were built: *Decimus*, *Undecimus*, *Duodecimus* and *Tertius Decimus*. Nevertheless, until Porta Pandere was created, the Peninsula had no direct communication with Africa, for the Redcaps of Aedes Saturni did not wish to risk exposure to the possible repercussions of the Hermetic settlement in Africa.
 
 Aedes Iris opened the gold of *bilad al-Sūdān* to the coffers of the Tribunal, which began exporting great riches to Harco. This contributed to the economic rise of House Mercere in particular and of the Order in general. The magical horizon opened up by the first Hermetic expeditions to Africa helped the Tribunal's magical expansion and the mapping of numerous African vis sources by the Mercere of Aedes Iris… whose secrets died with them.
 
-<!-- p. 83 -->
+<!-- p. 83 --><a id="page-83"></a>
 
 ### The Corruption of House Tytalus
 
@@ -2339,7 +2341,7 @@ The Tribunal of 996 was a prelude to what was to come. Ibn Sahl al-Tremerī lash
 
 [^p83-38]: From Ibn Ḥazm's *The Ring of the Dove* (Spanish translation by Emilio García Gómez).
 
-<!-- p. 84 -->
+<!-- p. 84 --><a id="page-84"></a>
 
 Almost all the Hermetic scholars of Iberia consider that the events of the Schism War deserve a chapter of their own. During those years no ordinary Tribunal was held in the Peninsula; the consequences in Iberia were the tearing apart of the social fabric and the disintegration of the Tribunal.
 
@@ -2349,9 +2351,9 @@ The Guernicus then decided to put an end to the conflicts, and the Primus of the
 
 Thanks to the Tribunal's Redcaps, the most important bodies of Iberia were able to go to Magvillus to decide the fate of the two warring Houses. The Grand Tribunal decreed the expulsion of House Diedne and all its members and, when the news reached Iberia, the *ductor* of Mons Vindius, Tridio of Diedne, summoned the Diedne of the Tribunal to take refuge in his covenant. They did not fight alone in the Peninsula, however: the Flambeau of Brigantia stood at their side and joined them in the subsequent failed assaults on the covenants of Tertia, Duresca and Salionca, and in the war that ended with the destruction of Tremébriga, where the Praeco of the Tribunal, Ibn Sahl al-Tremerī, met his death.
 
-For her part, when the Trianomae Ḥafṣa ibn ʿAbbās al-Bonisagiyya of the Andalusi covenant of Dār Malīḥaʾ returned from the extraordinary Grand Tribunal of 1011, she issued a communiqué inviting all the covenants of Iberia to disregard the resolution passed there. To the surprise of the northern magi of the Peninsula, almost every covenant of al-Andalus endorsed this manifesto, and most of the *saḥirs*, fearing they would share the fate of House Diedne, stayed out of the conflict. And so, in the winter of 1012, virtually all the Andalusi covenants voted at an extraordinary tribunal to split from the Iberian Tribunal and form the Tribunal of al-Andalus, a decision many took following the prophecy made by Maslama, the head of the school of mathematics of Majrīṭ (see page 287). This meeting thus became the first Tribunal of al-Andalus (see below).
+For her part, when the Trianomae Ḥafṣa ibn ʿAbbās al-Bonisagiyya of the Andalusi covenant of Dār Malīḥaʾ returned from the extraordinary Grand Tribunal of 1011, she issued a communiqué inviting all the covenants of Iberia to disregard the resolution passed there. To the surprise of the northern magi of the Peninsula, almost every covenant of al-Andalus endorsed this manifesto, and most of the *saḥirs*, fearing they would share the fate of House Diedne, stayed out of the conflict. And so, in the winter of 1012, virtually all the Andalusi covenants voted at an extraordinary tribunal to split from the Iberian Tribunal and form the Tribunal of al-Andalus, a decision many took following the prophecy made by Maslama, the head of the school of mathematics of Majrīṭ (see [page 287](#page-287)). This meeting thus became the first Tribunal of al-Andalus (see below).
 
-While the magi of the south of the Peninsula kept out of the war, in the north the magi toiled in their struggle against the Diedne. After the ritual of the Curse of Thoth (see *Houses of Hermes: True Lineages*, page 82), however, the renegades began to lose a battle they had seemed certain to win, and their allies began to fall back with them. Thus the Flambeau of Salionca at last managed to subdue those of Brigantia, who were tried at Salionca in 1016, in a proceeding that came to be known as the Concord of Fire. At its conclusion the *ductor* of Brigantia was executed, and the rest of the covenant's magi were punished, placed under surveillance and pardoned in exchange for taking part in the next assault on Mons Vindius. Thanks to the Concord of Fire, the Order obtained all the information it needed to raze the last Diedne stronghold in the Peninsula in the autumn of 1016. Before he died, Tridio was able to witness two of his *filii* escaping to Nebula, from where they presumably fled to the covenant of the Diedne Primus, in Wales.
+While the magi of the south of the Peninsula kept out of the war, in the north the magi toiled in their struggle against the Diedne. After the ritual of the Curse of Thoth (see *Houses of Hermes: True Lineages*, [page 82](#page-82)), however, the renegades began to lose a battle they had seemed certain to win, and their allies began to fall back with them. Thus the Flambeau of Salionca at last managed to subdue those of Brigantia, who were tried at Salionca in 1016, in a proceeding that came to be known as the Concord of Fire. At its conclusion the *ductor* of Brigantia was executed, and the rest of the covenant's magi were punished, placed under surveillance and pardoned in exchange for taking part in the next assault on Mons Vindius. Thanks to the Concord of Fire, the Order obtained all the information it needed to raze the last Diedne stronghold in the Peninsula in the autumn of 1016. Before he died, Tridio was able to witness two of his *filii* escaping to Nebula, from where they presumably fled to the covenant of the Diedne Primus, in Wales.
 
 A year later, the Order saw the end of the war with the destruction of the last Diedne stronghold in all of Mythic Europe. The Order nonetheless went on hunting down the remaining renegades for several more years, which prolonged the conflict, albeit on a local scale.
 
@@ -2373,7 +2375,7 @@ During this period the following Praecones held office in Iberia and, although n
 | Bruto of Flambeau | 1018–1074 |
 | Yulyān ibn Muhŷa al-Bonisagī | 1081–1109 |
 
-<!-- p. 85 -->
+<!-- p. 85 --><a id="page-85"></a>
 
 ### The Tribunal of al-Andalus: Between Scylla and Charybdis[^p85-39]
 
@@ -2389,7 +2391,7 @@ Broadly speaking, the Tribunal of al-Andalus enjoyed a long period of well-being
 
 [^p85-40]: Poem from *The Treatise of Familiar Spirits and Demons* by Ibn Shuhayd (Spanish translation by Salvador Barberá).
 
-<!-- p. 86 -->
+<!-- p. 86 --><a id="page-86"></a>
 
 #### The First Tribunal of al-Andalus
 
@@ -2415,7 +2417,7 @@ Maslama's predictions came true, and many Andalusis saw the end of an era with t
 >
 > - The golden nightingale. Among the thousand-colored birds caged in the palace of Madīnat al-Zahrāʾ hid a precious mechanical device given by ʿAbbās ibn Munḏīr to the caliph Al-Ḥakam II. The courtiers played at finding it with their eyes closed among the other birds of the palace's great aviaries. Its song is said to have been so beautiful that it inspired memorable verses.
 >
-> - The great bronze griffin. More than a meter tall, the griffin, which the Arabs considered a protective and beneficent creature, had Kufic bands carved on its belly bearing the following message: "blessing, profit, joy, health and complete and lasting happiness be upon its owner." On the upper part of the forelegs the craftsmen engraved the figure of a lion, and on the hind legs that of an eagle. The wings and head were decorated with stylized feathers, and the body with incised circles. This true masterpiece formed part of the riches of the covenant of al-Zahrāʾ until it was bought by the Verditius of Ajabeba (see *Houses of Hermes: Mystery Cults*, page 233).
+> - The great bronze griffin. More than a meter tall, the griffin, which the Arabs considered a protective and beneficent creature, had Kufic bands carved on its belly bearing the following message: "blessing, profit, joy, health and complete and lasting happiness be upon its owner." On the upper part of the forelegs the craftsmen engraved the figure of a lion, and on the hind legs that of an eagle. The wings and head were decorated with stylized feathers, and the body with incised circles. This true masterpiece formed part of the riches of the covenant of al-Zahrāʾ until it was bought by the Verditius of Ajabeba (see *Houses of Hermes: Mystery Cults*, [page 233](#page-233)).
 >
 > - The peacock-shaped ewer was one of the many gifts the Praeco made to the caliph. This cast and chased bronze ewer, thirty-two centimeters tall, was decorated with plant motifs and had delicate plumage carved along its whole body. When tipped as if to pour, pure, crystal-clear water flowed from its beak; however, if the word *jamrun* was spoken first, a delicious white wine poured from the beak. If instead one said *nabīḏun ʾaḥmarun*, a spiced red wine flowed. Those who tasted it said it was even better than the wines of Malaga. This object is especially useful when its owner is in places where Qurʾanic law is strictly enforced, since that law forbids the drinking of wine.
 >
@@ -2423,7 +2425,7 @@ Maslama's predictions came true, and many Andalusis saw the end of an era with t
 >
 > - The mercury of the Hall of Kings. Unfortunately, the basin of mercury was lost at some point during the burning of the palatine city in the Cordoban civil war. The Verditius say that the mercury was enchanted with powerful Imaginem spells, which could create marvelous lights and atmospheres capable of swaying the most important decisions toward the caliph's interests. Its Penetration is said to have been so great that not even magi were safe from its influence.
 
-<!-- p. 87 -->
+<!-- p. 87 --><a id="page-87"></a>
 
 Ajabeba bought numerous Hermetic and mundane works, and the Praeco summoned its magi to Dār Malīḥaʾ to reach an agreement with them, for she planned that much of the Cordoban riches would go to a Great Hall that was to serve as a common space for all the magi of the new Tribunal of al-Andalus. However, the Verditius of Ajabeba did not appear. This only increased the tension between the Tribunal's magi and Ajabeba; it began to be said that the latter had sold magic items to the Diedne and Flambeau of Brigantia during the Schism War, something that, however, has never been proven.
 
@@ -2455,7 +2457,7 @@ Finally, to reinforce security and avoid attracting the attention of mundane pow
 
 In 1061, the Order forbade Hermetic magi to sell their magic items to mundane society without intermediaries. Moreover, one of House Verditius's edicts limited such sales to one magic item per year at most. For this reason the Verditius negotiated with the magi of al-Andalus an entry in the Peripheral Code that would improve their selling conditions under the protection of the law, and as a gesture of goodwill they gave them seven bronze and silver automata to guard the Tribunal of al-Andalus's flagship building. This also helped ease the tensions with the Verditius of Ajabeba that had lingered since the incident at the auctions of the riches of the Cordoban palatine cities. Thus the following entry of the Peripheral Code was approved:
 
-<!-- p. 88 -->
+<!-- p. 88 --><a id="page-88"></a>
 
 ***1068 AD, On the Exchange of Enchantments with Mundanes*** *(Danāʾ al-Gernikiyya)* A single magus may sell as many magical enchantments per year as he has clients under the rule of different mundane princes, and always through mundane intermediaries. That is, in a single year (as of the date this entry was approved), a magus may sell, for example, one item to a man of Granada, one to a man of Cordoba and one to a man of Valencia, since all three are subject to different mundane powers.
 
@@ -2481,11 +2483,11 @@ The meeting was tense on both sides and ended with an ultimatum from the Iberian
 
 The following year, the members of al-Andalus met in Saragossa for the next ordinary Tribunal. The Guernicus of al-Andalus advised the gathering to vote for the dissolution of the Tribunal, for a confrontation with the Order had to be avoided at all costs (the Schism War had ended barely fifty years before and was still very present in the magi's minds). Then, to everyone's surprise, Porta Pandere announced that if the Tribunal ruled for independence, the Mercere would stop providing their services, a stance which, however, Aedes Iris did not support. At the close of the meeting, the Praeco Al-ʿĀsmarun asked all those present to reflect on the matter until the next Tribunal.
 
-<!-- p. 89 -->
+<!-- p. 89 --><a id="page-89"></a>
 
 #### The Gregorian Reform
 
-The reform promoted by Pope Gregory VII (see page 39) brought about a change of mentality for the magi of the Tribunal. Rome had made a new enemy of the men and women alongside whom the magi had lived for years.
+The reform promoted by Pope Gregory VII (see [page 39](#page-39)) brought about a change of mentality for the magi of the Tribunal. Rome had made a new enemy of the men and women alongside whom the magi had lived for years.
 
 The Tribunal's *sodales* received this news with sorrow, and many began to foresee an unpromising future; after all, all the cultural enrichment they had experienced was owed almost entirely to the people on whom Rome had declared war. The Reform ominously foreshadowed the fate that seemed to await the Tribunal of al-Andalus.
 
@@ -2519,11 +2521,11 @@ Unlike al-Andalus, which had remained neutral during the Schism War, the magi of
 
 The Tribunal of 1018 was a meeting without a *quorum* held at Duresca, where those present decided to elect as the new Praeco (since Ibn Sahl al-Tremerī had died in the battle in which Tremébriga fell) the Peninsula's hero and survivor of the Schism War, Brutus of Flambeau. Brutus had destroyed the covenant of Mons Vindius and traveled to Stonehenge after taking part in the destruction of the Diedne covenant of Nebula, which was said to serve as a communication hub between the rebel covenants. When the Redcaps asked him to come back to attend the Tribunal of 1018, he did so with abundant spoils, which he stored in his covenant of Salionca, and on condition that he return to fight the renegades still hiding at Stonehenge once the Tribunal meeting was over.
 
-<!-- p. 90 -->
+<!-- p. 90 --><a id="page-90"></a>
 
 A descendant of Grimoald Niger, Brutus has had his deeds told to Flambeau apprentices for generations, and will for generations more. There is no Flambeau who does not know that name, and many apprentices end up taking it as their own in homage and out of respect for the hero of the Schism.
 
-As happened in the rest of Mythic Europe, the Iberian Tribunal granted greater freedoms to House Guernicus, which the Grand Tribunal would later ratify with the powers of cooperation and inquisitorial freedom (see *Houses of Hermes: True Lineages*, page 68).
+As happened in the rest of Mythic Europe, the Iberian Tribunal granted greater freedoms to House Guernicus, which the Grand Tribunal would later ratify with the powers of cooperation and inquisitorial freedom (see *Houses of Hermes: True Lineages*, [page 68](#page-68)).
 
 For their part, Duresca, Durato and Aedes Saturni took advantage of the absence of the Andalusi magi to lay the legislative foundations of the Tribunal, creating the Iberian Chamber and erasing historical memory: the Diedne records were removed from the minutes, and their symbols, history and legacy were destroyed; the locations of Mons Vindius and Nebula were deleted from the records kept by Aedes Saturni, and deliberately searching for them was made a low crime; their vis sources were distributed among those who had taken part in the Schism War.
 
@@ -2553,7 +2555,7 @@ After Brutus's departure, the negotiations for Iberian unity were taken over ent
 >
 > Their intention was always to prevent al-Andalus from officially constituting itself as an independent Tribunal, to which end Domingo Garcés used all his influence and resources. In this way, when al-Andalus returned to Iberia, it handed over part of its riches and, most importantly, had to abide by a law that none of its magi had approved.
 
-<!-- p. 91 -->
+<!-- p. 91 --><a id="page-91"></a>
 
 The Tribunal of 1081 was attended by the Praeco of al-Andalus, Al-ʿĀsmarun al-Ŷerbitonī, and was the longest meeting recorded in the entire history of Iberia; all those attending lost their season of study. It was a difficult meeting which Yulyān nevertheless conducted masterfully, managing to bring the Tribunal to a close without any altercation. At its conclusion, Iberia was able to issue its verdict and deliver the aforementioned ultimatum to the Tribunal of al-Andalus.
 
@@ -2595,7 +2597,7 @@ When the magi tried to reach the covenant by magic, they discovered that none of
 
 [^p91-43]: According to legend, Hercules carved this phrase at the Strait of Gibraltar to let all travelers know that there was no land beyond that point; it was the end of the known world.
 
-<!-- p. 92 -->
+<!-- p. 92 --><a id="page-92"></a>
 
 When the Redcaps of Porta Pandere reached the site more than a month later, they found no sign that anyone had survived, although they did discover that much farther north the African covenant of al-Minẓār had been raised without the Tribunal's permission, and had suffered no attack in its more than one hundred years of existence.
 
@@ -2631,7 +2633,7 @@ Seeking to achieve the perfect society (which they called *al-madīna al-fāḍi
 
 [^p92-44]: Fragment from *The Self-Taught Philosopher* by Ibn Ṭufayl (Spanish translation by Ángel González Palencia).
 
-<!-- p. 93 -->
+<!-- p. 93 --><a id="page-93"></a>
 
 When the number of perfect ones at ʾAlif reached twenty or so, the Iberian Chamber of 1150 (by which time Fawd was no longer Praeco) resolved to study the possible consequences for the Tribunal and the Order. At that meeting, those present came to a terrible conclusion: if the doctrines of the perfect ones kept attracting new followers, the Order could face a new schism. However, the meeting was attended by one of the founders of ʾAlif, Salāmān al-Gernikī, who helped them dismantle the philosophy the perfect ones had created and draft the following three points, derived from the doctrines of *al-madīna al-fāḍila*, to put an end to it:
 
@@ -2668,17 +2670,17 @@ During the exodus, two Praecones of very different attitudes were elected.
 >
 > [^p93-XXV]: Fragment from *The Decisive Treatise* by Averroes (Spanish translation by A. Yacine and P. Chabrera Calpe).
 
-<!-- p. 94 -->
+<!-- p. 94 --><a id="page-94"></a>
 
 ### The Tribunal and the Almohads
 
 The first Tribunal at which Munio Alfonso Garcés served as Praeco was the same one at which the *rosh yeshiva* of ʿÔlām wā-ʿed, Meʾir ibn Yosef al-Ŷerbitonī, reported the irretrievable loss of the covenant of Lucena. His account was the most notorious of the many that followed the arrival of the Almohads, and the one that would mark the beginning of the period of the exodus from al-Andalus.
 
-Munio was known in the Tribunal for the relations his covenant had with the Wolf King of the lands of *Xarq al-Andalus* (see page 50). His gifts as a leader and his analytical ability had earned him the title of Praeco and, after Meʾir ibn Yosef's account, he agreed that the Almohads could become a threat to the Tribunal in al-Andalus, since they did not recognize the protection of the dhimmis. To assess the situation, the Tribunal approved the creation of an embassy to approach the Almohads in the Peninsula, led by the Jew ʿEzraʾ ben Šēlomoh al-Bonisagī. Moreover, so that it might succeed, Munio Alfonso undertook not to meddle in the mundane conflicts between his protégé, the Wolf King, and the caliph Abū Yaʿqūb Yūsuf. As a consequence, the Wolf King fell and the Almohads took all of al-Andalus except the Balearic Islands.
+Munio was known in the Tribunal for the relations his covenant had with the Wolf King of the lands of *Xarq al-Andalus* (see [page 50](#page-50)). His gifts as a leader and his analytical ability had earned him the title of Praeco and, after Meʾir ibn Yosef's account, he agreed that the Almohads could become a threat to the Tribunal in al-Andalus, since they did not recognize the protection of the dhimmis. To assess the situation, the Tribunal approved the creation of an embassy to approach the Almohads in the Peninsula, led by the Jew ʿEzraʾ ben Šēlomoh al-Bonisagī. Moreover, so that it might succeed, Munio Alfonso undertook not to meddle in the mundane conflicts between his protégé, the Wolf King, and the caliph Abū Yaʿqūb Yūsuf. As a consequence, the Wolf King fell and the Almohads took all of al-Andalus except the Balearic Islands.
 
 The Tribunal lived in peace until Abū Yaʿqūb Yūsuf died a violent death and his son, Abū Yūsuf Yaʿqūb al-Manṣūr, was crowned. During his rule, all the progress made by the Hermetic ambassadors dissolved under pressure from the *fuqahāʾ*: in 1190, the qadi of Seville condemned practitioners of magic in the Great Mosque of al-ʿUdays. As a result, the covenants near the great population centers of al-Andalus were subjected to searches, and the Hermetic books and books of the ancient sciences that had not been hidden were burned. To resolve the crisis, the Tribunal of 1193 was attended by the Order's Tenens of Winter, who guided the meeting throughout and secured the approval of the Peripheral Code entry concerning mundane relations in al-Andalus, even though it might worsen the migration of the Andalusi magi. The Tribunal's resolution did not please Munio Alfonso Garcés, however, so he resigned his duties and another Praeco was elected at the close of the meeting.
 
-<!-- p. 95 -->
+<!-- p. 95 --><a id="page-95"></a>
 
 ***1193 AD, On Mundane Relations in al-Andalus*** *(Jayrān al-Gernikī)* No covenant or magus may enter into an agreement with a mundane party, whatever its terms. In addition, any agreement in progress must be handled by a Quaesitor, so that he may take the appropriate actions and recommend the course of action to follow at every step.
 
@@ -2710,7 +2712,7 @@ These are the entries approved during ʿEzraʾ's tenure, to be submitted for rev
 
 [^p95-45]: Note that this conflicts with the Tytalus cabal of the Shining Eye, which aims to have the Rhine Tribunal colonize North Africa.
 
-<!-- p. 96 -->
+<!-- p. 96 --><a id="page-96"></a>
 
 > #### Story Seeds: Calebais
 >
@@ -2723,7 +2725,7 @@ These are the entries approved during ʿEzraʾ's tenure, to be submitted for rev
 > - At the top of the meanders of the river Huso, a tributary of the Tagus, near the old Muslim town of Vascos.
 > - Atop the Cimbarra waterfall, in Sierra Morena (*Ŷabal al-ʿArus*).
 > - On the cliffs that form part of the present-day park of Calblanque (in the province of Murcia).
-> - In the depths of the lake of Carucedo (see page 136).
+> - In the depths of the lake of Carucedo (see [page 136](#page-136)).
 >
 > ##### Iberian Covenants That Could Become Calebais
 >
@@ -2734,9 +2736,9 @@ These are the entries approved during ʿEzraʾ's tenure, to be submitted for rev
 > - **Pico Sacro:** the location is perfect for Calebais. Erasing its Christian past, or developing it over time toward the concept of Calebais, would be simple.
 > - **Fafḥṣ al-Luŷŷ:** its mundane relations and its possible location on a hill make it a good candidate to embody the background and setting of Calebais, ignoring anything that distracts from this purpose.
 
-<!-- p. 97 -->
+<!-- p. 97 --><a id="page-97"></a>
 
-<!-- p. 98 -->
+<!-- p. 98 --><a id="page-98"></a>
 
 # IV. The Kingdom of Portugal
 
@@ -2744,7 +2746,7 @@ The nearly eighty years that have passed since the creation of Portugal in 1143 
 
 In 1220 the monarch of Portugal, Alfonso II the Fat, is thirty-five years old and enjoys complete freedom to expand his kingdom at the expense of the Muslims, thanks to the peace treaty he has signed with the monarchs of Castile and Leon. At present he is in conflict with the head of the Church in Portugal, the archbishop of Braga, Estévão Soares, who is fighting on behalf of Pope Honorius III after the Portuguese monarch was accused of demanding improper tribute from ecclesiastical institutions, thereby violating the immunities of the clergy, which in the pontiff's eyes amounted to the enslavement of the Church.
 
-As a result of this conflict, the monarch will be excommunicated in mid-1220; he will respond by issuing an order for the occupation and destruction of the archbishop's properties and by occupying and requisitioning the goods of the archiepiscopal church of Braga. Seeing his properties laid waste, Estévão will set out for Rome that same year, where, together with the pope, he will keep up the pressure on the Portuguese monarch, to the point of threatening to place the kingdom under interdict (see page 53). In the end, Alfonso II will yield to the pressure (above all because of his poor health) and Estévão will return to Braga in 1222. However, the monarch's death in 1223 will leave the damage done to the Church unresolved, and it will fall to his successor on the throne, Sancho II of Portugal, to answer for it.
+As a result of this conflict, the monarch will be excommunicated in mid-1220; he will respond by issuing an order for the occupation and destruction of the archbishop's properties and by occupying and requisitioning the goods of the archiepiscopal church of Braga. Seeing his properties laid waste, Estévão will set out for Rome that same year, where, together with the pope, he will keep up the pressure on the Portuguese monarch, to the point of threatening to place the kingdom under interdict (see [page 53](#page-53)). In the end, Alfonso II will yield to the pressure (above all because of his poor health) and Estévão will return to Braga in 1222. However, the monarch's death in 1223 will leave the damage done to the Church unresolved, and it will fall to his successor on the throne, Sancho II of Portugal, to answer for it.
 
 ## The Covenants of the Kingdom of Portugal
 
@@ -2769,7 +2771,7 @@ This regional unit is furrowed by rivers such as the Duero, the Mondego, the Lim
 >
 > This is the everyday language of the inhabitants of the northwest of Iberia, and the language sung in the noble courts of the north and northwest of the Peninsula (it will come to replace Latin as the political and administrative language of the territory in the last quarter of the thirteenth century). In 1220 it has the status of a literary language, a standing it has held since at least 1196, when João Soares de Paiva composed the oldest known troubadour song in this tongue. This troubadour of noble family, author of satirical poems and of *cantares de amigo*, was a contemporary of Alfonso I Henriques and frequented the court of Sancho I and Alfonso II (the present king of Portugal), as well as that of the king of Aragon, whose vassal he was. Indeed, many troubadours and minstrels frequented the courts of the first three kings of Portugal, among whom also deserves mention the troubadour of the house of Sousa, Garcia Mendes de Eixo, who served at the court of Sancho I.
 
-<!-- p. 99 -->
+<!-- p. 99 --><a id="page-99"></a>
 
 In this region lie the forests of Talhada, Mesão Frio and Uja (between the Duero and the mouth of the Vouga), where thieves and murderers take refuge and wild beasts abound (unfortunately for the region's Bjornaer, the forest of Alcobaça, in the Portuguese Extremadura, has been felled to make way for farming). These are not the only dangers the region's inhabitants face, however: in his will, Sancho I recorded how dangerous the moorlands with stagnant water were because of the swarms of mosquitoes.
 
@@ -2788,7 +2790,7 @@ In 1220 the northern region of Portugal has only one living covenant, the modest
 
 Serra da Lousã is a wholly atypical covenant for Iberia. It is made up entirely of *rusticani* magi, members of a minor tradition of House Ex Miscellanea that has practically no presence in the rest of Europe and is characterized by the magical skill with which its members can work various mundane materials. Settled in a small hamlet near the Alto de Trevim, the highest point in the range, the covenant's magi have been fully accepted by the nearby mundane population, with whom they actively cooperate, together forming a community of most unusual character.
 
-<!-- p. 100 -->
+<!-- p. 100 --><a id="page-100"></a>
 
 #### History
 
@@ -2796,7 +2798,7 @@ The Serra da Lousã has never been densely populated. Towns such as Lousã, Cerd
 
 Fadrique's line continued more or less unbroken until the middle of the eleventh century, when, at the height of the mundane struggle for territory, one of the covenant's apprentices, Hernando de Miranda, decided to offer his magical abilities in the service of the Christian lords who were fighting to expand southward. The magi of Serra da Lousã took an active part in the wars of the Coimbra region, but their ignorance of the most basic Hermetic laws earned them heavy fines when the magi of Duresca discovered their involvement. This, combined with the deaths of two of the magi in the fighting (Hernando himself among them), led the inhabitants of Serra da Lousã to abandon that course of action and withdraw once more into the mountains that were their home. Many local families then helped them to go unnoticed whenever some suspicious-looking visitor asked about the presence of witches or sorcerers in the range. The *rusticani* had decided to live with their backs to the world, and they were not going to change their minds.
 
-After that period, the only thing that drew them out of their isolation again was the intrusion of the mundane powers into the region when, after the final reconquest of Coimbra, the nearby castle of Lousã became the administrative center of the area. The castle, around which many legends had grown (see insert on page 102, "Story Seeds: Princess Peralta"), sought to take control of the surrounding lands, and joint action by the town council and the *rusticani* themselves was needed to reach an agreement with the castellan and so keep him from overly disrupting local traditions and customs.
+After that period, the only thing that drew them out of their isolation again was the intrusion of the mundane powers into the region when, after the final reconquest of Coimbra, the nearby castle of Lousã became the administrative center of the area. The castle, around which many legends had grown (see insert on [page 102](#page-102), "Story Seeds: Princess Peralta"), sought to take control of the surrounding lands, and joint action by the town council and the *rusticani* themselves was needed to reach an agreement with the castellan and so keep him from overly disrupting local traditions and customs.
 
 Today Serra da Lousã remains the same quiet, remote place it has been since its foundation. Not even the Redcaps visit it often, and many of them would have trouble even finding it. And that is just how its magi want it.
 
@@ -2812,7 +2814,7 @@ One last structure stands out on the Alto de Trevim, outside the main enclosure,
 
 Serra da Lousã is a very small covenant, and at any given time it has no more than three magi, all of them *rusticani*, representing three different generations, each of whom usually acts as master to the next youngest generation. The *rusticani* have hardly any hierarchy, as they are a scattered and very loosely organized tradition. In fact, calling Serra da Lousã a covenant is almost an exaggeration, as it can scarcely be described as one. The hamlet on the Alto de Trevim has hardly any fortifications or defenses, nor a library or treasury worthy of the name. The magi do, however, meet the minimum requirements to remain members of the Order, and indeed the covenant has an *Aegis of the Hearth*, cast each year by a Quaesitor who is paid in vis for doing so.
 
-<!-- p. 101 -->
+<!-- p. 101 --><a id="page-101"></a>
 
 The covenant's three magi hold three positions: the *mestre* acts as teacher, training a pupil known as the *jovem*. When his training ends, the *jovem* becomes the new *mestre*, and if his master remains at the covenant, the latter becomes known as the *velho*, and holds the greatest moral (though not actual) authority in the covenant. Serra da Lousã is not used to Hermetic guests, although its doors are not closed to them either. When such visits occur, the magi offer the hospitality expected of any Hermetic host, suited to the resources they have, no more and no less. Should those guests prove aggressive or hostile, the magi know they can count on all the inhabitants of the range to come to their aid if need be.
 
@@ -2830,7 +2832,7 @@ Facundo is the oldest inhabitant of Serra da Lousã. Although he is nearly eight
 
 Sesnando has trouble handling Facundo. On the one hand, the old man's age and experience make him a recognized and respected figure not only in the covenant but throughout the range. On the other hand, his ideas and reactions are often controversial, and Sesnando sometimes fears they may lead the covenant, and even the nearby villages, to make decisions they might come to regret. Sesnando dreams of the day when Facundo will keep his eternal promise to leave Serra da Lousã, return to his native village and spend the rest of his life there…
 
-<!-- p. 102 -->
+<!-- p. 102 --><a id="page-102"></a>
 
 ##### Ágata, *jovem*
 
@@ -2866,7 +2868,7 @@ Sesnando has trouble handling Facundo. On the one hand, the old man's age and ex
 >
 >**Appearance:** Ágata is a girl of barely seventeen springs whose innate beauty can be seen even through the grime that usually covers her face and the humble garments she wears. Her long black hair frames a finely featured face with a rustic touch, and her humble clothes are covered by the long leather apron she usually wears not only when working stone but also when attending the more theoretical lessons with her *parens*.
 
-<!-- p. 103 -->
+<!-- p. 103 --><a id="page-103"></a>
 
 The *mestre* had not intended to take an apprentice so soon, but the magical powers he sensed in Ágata were so strong that, although their specialties were completely different, Sesnando finally agreed. Besides, the girl was already of an age, and it would soon be too late to train her properly. Ágata was eleven when she joined the covenant, and she has spent the last six years trying to control her magical arts with uneven success, to the frustration of both herself and her master. Although Sesnando has managed to instill in her the rudiments of Bonisagus's magic theory and to channel her potential within Hermetic teaching (at least as the *rusticani* apply it), Ágata has such a whirlwind of magical energy within her that even the simplest effects often slip out of her control. The nine years of apprenticeship she has left will no doubt prove difficult.
 
@@ -2884,7 +2886,7 @@ What is clear is that Ágata has a potential that many Hermetic magi consider wa
 >
 > When the castle was occupied by Christian forces in the second half of the twelfth century, the legend came back to life, and many speak of screams and noises of no clear origin. In truth, Peralta's spirit still dwells in a small *regio* formed at the top of the castle tower, surrounded by the same treasures with which her father locked her away. What will the magi of Serra da Lousã do when one of the local peasants claims to have seen the princess herself begging to be freed from her eternal torment?
 
-<!-- p. 104 -->
+<!-- p. 104 --><a id="page-104"></a>
 
 As for Ágata, beyond the problems with her magic, she is very happy under Sesnando's tutelage. Just as the *mestre* did in his youth, he lets the girl visit her parents whenever she wishes, and they are more than content to see their daughter a couple of times a month and confirm that she is well. Ágata also has a curious relationship with Facundo, whom she admires both for his skill as a craftsman and for his deep convictions. Unlike the old man, the girl can tell the difference between belief and magic, but she thinks it is precisely the *velho*'s piety that gives his items their special touch, and she would like to have that same ability when investing magic in her creations.
 
@@ -2917,7 +2919,7 @@ Inverneira rose on a small islet in the middle of one of the many lakes in the P
 >
 > Almost 300 years have passed since the fall of Inverneira, but no one has dared to venture into its ruins. Perhaps the player magi would like to make a foray to the old islet in search of some remnant of the research the Circle carried out over fifty years.
 
-<!-- p. 105 -->
+<!-- p. 105 --><a id="page-105"></a>
 
 The covenant consisted of a small, square, Romanesque building that was almost reminiscent of a monastery, surrounded by a few outbuildings for the mundane population. The magi of Inverneira always lived in relative austerity, which meant that the few travelers who passed nearby sometimes took them for a religious community. Unfortunately, since the attack of the *saḥirs* more than three centuries ago, very few have ventured into the wind-lashed ruins of the building, which are the only remains of the community that once lived here.
 
@@ -2948,7 +2950,7 @@ The zeal and fervor of the magi of Langobriga led them to take part in the battl
 >
 > If someone were to speak with one of those descendants, or investigate the ruins of Langobriga, they might find more information about that vis source. The Peninsula has changed a great deal since then, and perhaps a journey to claim it would be more feasible today…
 
-<!-- p. 106 -->
+<!-- p. 106 --><a id="page-106"></a>
 
 #### Setting and Physical Description
 
@@ -2985,7 +2987,7 @@ The task of founding this new covenant fell to two magi, Parcus of Mercere and J
 
 The site the two magi chose for the covenant was a small range of hills not far from the city of Santarém, where, according to the ancient legends of the region, Abidis, ancestral king of the Lusitanians, had lived. The name they chose for the new covenant was Porta Pandere, in honor of the goddess Empanda, an epithet of the Roman Juno in her aspect as goddess of hospitality and charity. Porta Pandere was thus born as a place of refuge for those in need of protection, subsidiary to the principal Mercer House of Iberia, Aedes Saturni. The paranoia of the Catalan Mercere, however, had led them to view the Order's expansion into Africa with suspicion and to refuse any direct communication with that region by means of portals. The fact that Porta Pandere did have direct contact with Africa would clearly shape their relationship from the beginning, as would its ambivalent commitment to the pro-Andalusi movement that would cause the Hermetic schism in Iberia.
 
-<!-- p. 107 -->
+<!-- p. 107 --><a id="page-107"></a>
 
 After its founding, Porta Pandere began to make use of the volume of wealth arriving from Africa to increase its autonomy from Aedes Saturni and establish itself as a powerful covenant. It also supported the group of covenants that decided to break away from the north of Iberia to form an independent Tribunal. The combined economic power of Aedes Iris and Porta Pandere would in fact be one of the main driving forces of the new Tribunal. Thus, in 1012, at the first Tribunal of al-Andalus, the covenant was chosen as the seat of the Andalusi treasury, the equivalent of the funds held by the magi of the north. As at Aedes Saturni, the treasury would be guarded by two magi, holding the offices of *ḥárisun* and *jāzin*. That same year the so-called "Iberian tax" was abolished in the covenants of the Tribunal of al-Andalus, and it was decided to set up a mint at Porta Pandere to strike coin, taking advantage of the abundant flow of metal arriving from *bilad al-Sūdān*. Fundamental to all these maneuvers was the presence of Parcus, who in those years earned the nickname Parcus Pecunius for his relentless commercial mentality and his ingenuity in orchestrating Porta Pandere's economic hegemony over the whole south of Iberia. The loss of that economic power was also a hard blow for the magi of the north, and many accused the Mercere of treachery at a time when the whole Order was convulsed by the effects of the Schism War.
 
@@ -2995,9 +2997,9 @@ In the following decades Porta Pandere continued to prosper, always drawing on t
 
 That step came in 1082, when the foundations of the fledgling Tribunal began to crack. When the Guernicus of the new Tribunal, fearful of a repeat of the Schism War, suggested dissolving al-Andalus, Porta Pandere announced that it would not support the magi of the south if they insisted on their independence. The decision surprised friend and foe alike, and many sent emissaries to the covenant to make them change their minds. But Parcus had made his decision, and at the Tribunal of 1089 it was ratified. That decision was, together with the skillful intervention of the diplomats from the north, a key factor in the dissolution of the Tribunal of al-Andalus and the reunification of all the covenants of Iberia. Paradoxically, Aedes Iris maintained its support for independence, which led to a deterioration in relations between the two covenants. Although wealth from Africa would continue to arrive through the *Tertius Decimus* portal, the terms of trade grew steadily harsher. Porta Pandere's dazzling prosperity slowed in the following years as the dream of al-Andalus faded away for good. That slowdown became even more evident with the reunification of Iberia and the clause of 1116 under which the Tribunal's treasuries would be divided between Aedes Saturni and Porta Pandere, partly rekindling the rivalry between the two Mercer Houses that had been born half a century earlier.
 
-That prosperity was cut short for good by the inexplicable destruction of Aedes Iris on a fateful night in 1123. To this day no one knows what caused the disappearance of the Mercer House in Africa, but its consequences were immediate and devastating for Porta Pandere: without the metal arriving from Africa the mint no longer made sense, so the covenant closed its *dār al-sikka* at once. In that same decade the covenant also lost Parcus, when the Mercere was more than a century and a half old. His successor, son and apprentice, Paulo, lacked the gifts and ambition of his *parens* and was utterly overwhelmed by the turbulent situation of those years. Unfortunately for him, but fortunately for the covenant, another of Parcus's apprentices (and also his son), the young Alexander, decided to intervene, and over the years won the support of the covenant's other magi until in 1165 he managed to oust his own brother and take his place as *princeps* of the covenant (the year in which it obtained the title of dedicated covenant for the Hermetic Inn of Occelum Durii; see page 142). Alexander changed his name to Parcus Minor, revived his master's philosophy and embarked on an aggressive economic policy, using his Redcaps as pawns to establish a subtle network of control over information and wealth in the region.
+That prosperity was cut short for good by the inexplicable destruction of Aedes Iris on a fateful night in 1123. To this day no one knows what caused the disappearance of the Mercer House in Africa, but its consequences were immediate and devastating for Porta Pandere: without the metal arriving from Africa the mint no longer made sense, so the covenant closed its *dār al-sikka* at once. In that same decade the covenant also lost Parcus, when the Mercere was more than a century and a half old. His successor, son and apprentice, Paulo, lacked the gifts and ambition of his *parens* and was utterly overwhelmed by the turbulent situation of those years. Unfortunately for him, but fortunately for the covenant, another of Parcus's apprentices (and also his son), the young Alexander, decided to intervene, and over the years won the support of the covenant's other magi until in 1165 he managed to oust his own brother and take his place as *princeps* of the covenant (the year in which it obtained the title of dedicated covenant for the Hermetic Inn of Occelum Durii; see [page 142](#page-142)). Alexander changed his name to Parcus Minor, revived his master's philosophy and embarked on an aggressive economic policy, using his Redcaps as pawns to establish a subtle network of control over information and wealth in the region.
 
-<!-- p. 108 -->
+<!-- p. 108 --><a id="page-108"></a>
 
 Over the last century, Porta Pandere has tried to regain its hegemony in southern Iberia under the iron control of Parcus Minor. More than once it has tried to establish new Mercer Houses in Africa to recover its lost economic glory, without success so far. In 1220 it is negotiating with the covenant of al-Minẓār, but Gonçalvo has proved an insurmountable rival even for Parcus Minor's considerable diplomatic gifts. Now, with the year 1225 approaching, when the Order will at last be able to establish itself in Africa, Parcus is waiting on events, ready to grant the concession for the unopened portal at Porta Pandere to any covenant willing to send new riches to the Peninsula.
 
@@ -3023,7 +3025,7 @@ Finally, the titles of *ḥárisun* and *jāzin* are still kept, even though Por
 
 The Redcaps of the mundane community are for the most part more or less distant relatives of Parcus Pecunius's line who have not inherited his Gift. The family line has spread over the generations, sometimes mixing with natives of the region, until it has become a close-knit, peaceful community that takes advantage of Porta Pandere's material privileges to lead a very comfortable life.
 
-<!-- p. 109 -->
+<!-- p. 109 --><a id="page-109"></a>
 
 #### The Magi of Porta Pandere
 
@@ -3037,9 +3039,9 @@ Parcus is an expert in Mentem, and he does not hesitate to use his magic subtly 
 
 ##### Paulo of Mercere
 
-Paulo is the opposite of his younger brother. As limited as a magus as he is as a negotiator and diplomat, Parcus's firstborn took the loss of his position as *princeps* very badly and, although he still lives in the covenant, he has almost entirely given up playing any active part in its daily life. He has even set aside his Hermetic studies, so that, despite being six years older than Parcus Minor, his development as a magus lags far behind. Now an old man kept alive only by his Longevity Ritual, he has spent several years sunk in wasteful hedonism. Thus Paulo passes his time drinking, eating, consuming white poppy (see page 134) and enjoying the pleasures of the flesh.
+Paulo is the opposite of his younger brother. As limited as a magus as he is as a negotiator and diplomat, Parcus's firstborn took the loss of his position as *princeps* very badly and, although he still lives in the covenant, he has almost entirely given up playing any active part in its daily life. He has even set aside his Hermetic studies, so that, despite being six years older than Parcus Minor, his development as a magus lags far behind. Now an old man kept alive only by his Longevity Ritual, he has spent several years sunk in wasteful hedonism. Thus Paulo passes his time drinking, eating, consuming white poppy (see [page 134](#page-134)) and enjoying the pleasures of the flesh.
 
-<!-- p. 110 -->
+<!-- p. 110 --><a id="page-110"></a>
 
 Paulo has an innate affinity for Imaginem magic, and it is practically the only Art he has developed in recent decades, to the point of obsession. His laboratory is a fine example of this: a place teeming with illusions almost as perfect as reality itself, but which at the same time reveal Paulo's empty pretensions. Serving girls like houris able to play heavenly music, perfumes so intense they make the head spin, and images of distant, exotic places floating in the air like ethereal mirrors turn the *sanctum* into an extraordinary place.
 
@@ -3059,7 +3061,7 @@ Atanasio has also taken charge of improving the defenses of Porta Pandere's main
 
 Mauricio is the youngest member of the covenant. He arrived at Porta Pandere shortly before the last turn of the century, drawn by tales of the covenant's wealth and of the great number of art objects to be found there. In truth, his intention was to determine whether, among all those treasures, many of them obtained at the Cordoba auction in the eleventh century, there lay one of the lost devices that never turned up at the sale of objects (see Chapter III): the caliph's ring, a prodigious object credited with great powers that never went to auction because it had been concealed within some mundane object (many tales speak of a statue). Although he has no direct connection with either Ajabeba or al-Zahrāʾ, the tale of the caliph's ring reached Mauricio's ears during his training at Verdi, and once he had passed his Gauntlet he decided to travel to Porta Pandere to discover whether the ring was there. Parcus was quick to grasp the worth of the young and skillful magus and accepted his request.
 
-<!-- p. 111 -->
+<!-- p. 111 --><a id="page-111"></a>
 
 Since his arrival at the covenant, Mauricio has been trying to determine whether the ring is hidden in any of Porta Pandere's statues or other objects. So far he has not succeeded, but he has not given up, although he pursues the quest with ever less zeal, since he has found a better use for his Hermetic time: enchanting some of those same art objects with effects that may be useful to the covenant. His brilliance and finesse are not yet on a par with the masters of al-Zahrāʾ, but he certainly enjoys a privileged opportunity to work with materials of the finest quality.
 
@@ -3095,7 +3097,7 @@ Resurgens's activities have not been confined to trade in recent decades. Farouk
 Resurgens occupies an extensive plot on the bank of the Tagus where it meets the sea at Lisbon, in the area called Alfama do Mar, a few hundred meters from the Castle of Saint George, in the commercial heart of the city. The covenant is divided into two large sections: on one side is the main building, a two-story stone structure housing the magi's *sancta* and the other chambers usual in a covenant, and on the other the trading exchange, an enormous hall where most commercial transactions take place, which also has a nearby wharf of its own from which ships sail with goods in which Resurgens has a direct interest.
 
 Besides the *sancta*, the main structure contains the treasury and the magical library, all on the upper floor of a building whose façade is richly decorated with marbles brought from Italy and Mudéjar-style ornament. The ground floor is reserved for meeting rooms, the mundane library and, at the back, the barracks of the covenant's turb, which is not very large but is very well trained and equipped. As for the exchange, it is a great hall that only Farouk visits frequently, and from which shipments are prepared for various points of Mythic Europe.
-<!-- p. 112 -->
+<!-- p. 112 --><a id="page-112"></a>
 
 The main building and the exchange are both joined by a tunnel that leads up the hillside to one of the underground pools of the Alfama quarter, the source of the covenant's magic aura. Its waters have magical properties: they always keep a warm, pleasant temperature that has healing effects on those who bathe in them. The waters also generate a small amount of Ignem vis that is very welcome to the covenant.
 
@@ -3129,7 +3131,7 @@ The cofounder of Resurgens is over a hundred years old, but he remains in good s
 >
 > Hell's Mouth has an Infernal aura of 4, which rises to 5 at night and also on certain unholy dates. If you set your saga in this area, bear in mind that in 1220 the king of Portugal, Afonso II, is excommunicated and the pope has threatened to place the kingdom under interdict, which infernal agents could exploit.
 
-<!-- p. 113 -->
+<!-- p. 113 --><a id="page-113"></a>
 
 Farouk remains deeply in love with his wife Zuleima, despite all the time they have spent together. He is aware of his spouse's slow decline, but he tries to look the other way and ignore what it means both for the love of his life and for the covenant they began to build together. He knows that Final Twilight is not far off for her, but he intends to stay by her side until the very last moment, and he has even begun to consider leaving Lisbon with her while he still can, to see the countless places that Mythic Europe holds.
 
@@ -3213,9 +3215,9 @@ Since his arrival, Alonso has turned the covenant's turb of grogs into professio
 >
 > The underground pool beneath Resurgens is part of a system of springs that runs through the whole subsoil beneath the Alfama quarter. Several of them have been discovered in recent decades, and the medicinal properties of some have reached the ears of the nobility. The king of Portugal himself, Afonso II, may be considering channeling these springs to supply water to the whole city, something that would be a blessing for its inhabitants. But... what would happen when that channeling reached the spring that connects directly with Resurgens? Will the Jerbiton manage to keep access to the spring and its vis, or will they have to give it up to keep their good relations with the city's mundane powers?
 
-<!-- p. 114 -->
+<!-- p. 114 --><a id="page-114"></a>
 
-<!-- p. 115 -->
+<!-- p. 115 --><a id="page-115"></a>
 
 # V. The Kingdom of Leon
 
@@ -3250,13 +3252,13 @@ The covenants are scattered among the kingdom's large regional units (from west 
 
 [^p115-1]: Excerpt from the *Codex Calixtinus*, anonymous (Spanish translation by Millán Bravo Lozano).
 
-The regional unit of Galicia lies in the westernmost part of the kingdom. Its terrain is gentle, although many of its rivers have deep valleys, and a great number of rias (drowned estuaries) give the landscape a very distinctive character. Its coasts are washed by the Atlantic Ocean to the west and by the Cantabrian Sea to the north, which throughout its history has exposed it to attacks by the *al-Mayús* (see page 286) and Muslim pirates; indeed, at the beginning of the twelfth century the archbishop of Santiago, Gelmírez, brought engineers from Genoa and Pisa to build ships with which to fight piracy. It is said that from them the Galicians learned the art of seamanship.
+The regional unit of Galicia lies in the westernmost part of the kingdom. Its terrain is gentle, although many of its rivers have deep valleys, and a great number of rias (drowned estuaries) give the landscape a very distinctive character. Its coasts are washed by the Atlantic Ocean to the west and by the Cantabrian Sea to the north, which throughout its history has exposed it to attacks by the *al-Mayús* (see [page 286](#page-286)) and Muslim pirates; indeed, at the beginning of the twelfth century the archbishop of Santiago, Gelmírez, brought engineers from Genoa and Pisa to build ships with which to fight piracy. It is said that from them the Galicians learned the art of seamanship.
 
 Galicia is home to important town councils such as those of Compostela, Noya, Pontevedra and Ribadavia, among others, and to the south it borders the kingdom of Portugal.
 
 In Hermetic terms, Galicia has traditionally been densely populated, and in 1220 it is home to the covenants of Brigantia and Beit Midrash.
 
-<!-- p. 116 -->
+<!-- p. 116 --><a id="page-116"></a>
 
 ### Brigantia
 
@@ -3279,15 +3281,15 @@ Dehewint, a pagan magus from the kingdom of Gwynedd (Wales), crossed the Pyrenee
 
 In 792, after Ranemiro's failed negotiations with the tempestarii, Dehewint took command in order to crush the Galician wizards. The Welshman led the Flambeau and Tremere of the abandoned covenant of Prima, and together they laid waste to the places Ranemiro had marked as targets. However, only the wizards' families were there, and these they massacred. The tempestarii's response was terrible: Brigantia was swallowed by storms that lashed the coast for months, two of its Tremere lost their lives, and Dehewint died disemboweled when one of the ñuberus' lightning bolts pierced his body; nothing was left of the covenant but its foundations. It took years for Brigantia to be rebuilt by Dehewint's *filius*, the Zoroastrian Petrus of Flambeau, who together with the rest of the warriors of Iberia took part in the ritual that destroyed the tempestarii's center of power and ended with their surrender.
 
-<!-- p. 117 -->
+<!-- p. 117 --><a id="page-117"></a>
 
 To raise Brigantia once more, Petrus had to fight in several mundane wars, taking part in the Galician battles that pitted the armies of the emir of Cordoba, Hišām I, against the *mesnadas* of Alfonso II of Asturias. In this way Petrus won plentiful plunder with which to rebuild Brigantia, and many slaves to raise it. However, when the *mayús* attacked the coasts of Galicia at the beginning of the ninth century, Brigantia was assaulted and devastated a second time, which prevented its members from attending the fifth Grand Tribunal. Fortunately, the constant Viking attacks on the coast also had their bright side: mundanes moved away from the peninsula of Faro, so when Brigantia was rebuilt years later it was able to live entirely apart from society throughout the ninth and tenth centuries, and in relative seclusion until the beginning of the thirteenth, when the area began to be resettled.
 
 During the ninth century, Brigantia took part in the war against Damhan-Allaidh; when in 845 Ramiro I of Asturias ordered all the wizards of his kingdom burned, Petrus declared Wizard's War on Átropo of Tremere, who was responsible for it, and the magus died in that war. The leadership of Brigantia then passed to Eio, and the covenant's policy began to center on diplomacy.
 
-Thanks to the magae of Brigantia, the Order managed to make peace with the *saḥirs* in 925 (see page 76), after which Eio left the covenant in the hands of the Andalusi Al-Harqal al-Apromorī, who a few years later would be involved in the affair of the Duresca manuscripts and would be one of those chiefly responsible for spreading them after they were declared fraudulent.
+Thanks to the magae of Brigantia, the Order managed to make peace with the *saḥirs* in 925 (see [page 76](#page-76)), after which Eio left the covenant in the hands of the Andalusi Al-Harqal al-Apromorī, who a few years later would be involved in the affair of the Duresca manuscripts and would be one of those chiefly responsible for spreading them after they were declared fraudulent.
 
-The name of Brigantia appeared for the last time in the pages of the Tribunal's history during the Schism War. The covenant sided with the Diedne of Mons Vindius and Nebula, and took part in the attacks on Tertia, Duresca, Salionca and Tremébriga. For years the war went in the Diedne's favor until, for some reason, the druids began to falter (see page 83). The Flambeau of Brigantia were then subdued in 1016 and tried at Salionca, in a proceeding that became known as the Concord of Fire. After the trial, the *ductor* of Brigantia was executed and the rest of its magi punished. The covenant was placed under strict watch and the Tribunal seized its vis sources and stores, which plunged it into a deep Winter from which it emerged only with the arrival of three magi expelled from the covenant of Harra at the end of the twelfth century.
+The name of Brigantia appeared for the last time in the pages of the Tribunal's history during the Schism War. The covenant sided with the Diedne of Mons Vindius and Nebula, and took part in the attacks on Tertia, Duresca, Salionca and Tremébriga. For years the war went in the Diedne's favor until, for some reason, the druids began to falter (see [page 83](#page-83)). The Flambeau of Brigantia were then subdued in 1016 and tried at Salionca, in a proceeding that became known as the Concord of Fire. After the trial, the *ductor* of Brigantia was executed and the rest of its magi punished. The covenant was placed under strict watch and the Tribunal seized its vis sources and stores, which plunged it into a deep Winter from which it emerged only with the arrival of three magi expelled from the covenant of Harra at the end of the twelfth century.
 
 Brigantia has drawn on the vigor and power of the Andalusi magi to rise again, and it is now struggling to recover the vis sources taken from it in 1016. Meanwhile, it must deal with the considerable mundane growth taking place in the area since 1208, when Alfonso IX of Leon decided to refound the city of Corunna with inhabitants of O Burgo and Betanzos under the privileges of the fuero of Benavente (under which the city is free of vassalage to the Church and the nobles and answers only to the crown).
 
@@ -3311,7 +3313,7 @@ Finally, the newest building of Brigantia is *novo*, raised barely ten years ago
 
 Brigantia is a young democracy that has been transformed (both aesthetically and politically) by its new inhabitants. The Andalusis have filled it with wall hangings and carpets, and have perfumed it with sandalwood to recall their old home of Harra. Since their arrival, Brigantia has met every lunar year at night in the council chamber of *tŷ* to debate the covenant's affairs, dealing first with finances (when the annual budgets are approved), then with magical resources (when the vis is shared out), then with the plan of action toward the mundanes of Corunna and, lastly, with Hermetic matters (all of it in Arabic). Following tradition, every council is recorded in the so-called *Chronicle of Brigantia*, in which reliable information can be found from at least 1016 onward, for everything before the Concord of Fire was audited and altered by the magi of Salionca.
 
-<!-- p. 118 -->
+<!-- p. 118 --><a id="page-118"></a>
 
 Brigantia has a nominal leader who bears the title of *ductor*. This title is all the magi have kept of Brigantia's old political organization (albeit with restricted powers), and they did so in honor of the aged Ouro. The *ductor* is responsible for moderating the annual meetings and holds a casting vote that he cannot delegate. He also acts as spokesman at ordinary Tribunals. Otherwise, he has no additional privilege or responsibility.
 
@@ -3345,7 +3347,7 @@ Abū-l-Āfiya al-Apromorī is chiefly responsible for the rebirth of Brigantia. 
 
 Nāārun is Abū-l-Āfiya's *filius* and, like him, a lover of poetry and the sciences, although, unlike his master, he has a great sense of humor. Like Abū-l-Āfiya, he was expelled from Harra, which ended up saving his life. At present the young follower of Apromor is charged, together with Xana al-Merinitiyya, with overseeing the mundane growth of the new city of Corunna. Although the fieldwork is done mainly by his *sodalis* and their covenant companions, it is Nāārun who has to make the decisions so that the efforts of the Merinita and the rest are not in vain.
 
-<!-- p. 119 -->
+<!-- p. 119 --><a id="page-119"></a>
 
 ##### Xana al-Merinitiyya
 
@@ -3361,7 +3363,7 @@ The young Xana is the covenant's newest member. A native of Asturias recruited b
 >
 > [^p119-I]: This was the name of one of the islands of the Gadeira archipelago, in what is now the Bay of Cadiz.
 
-<!-- p. 120 -->
+<!-- p. 120 --><a id="page-120"></a>
 
 > #### The Cuélebre of the Naverón
 >
@@ -3402,11 +3404,11 @@ The young Xana is the covenant's newest member. A native of Asturias recruited b
 >**Vis:** 5 pawns of Aquam vis in the fangs.<br>
 >**Appearance:** Cuélebres are wyrms almost three meters long. Their bodies are as thick as a man, their wings membranous (like those of bats), and their scales so hard as to be impenetrable. They do, however, have a weak spot at the throat. If an attacker knows of this vulnerability and deliberately aims his blows at that spot, he suffers a –3 penalty to his attack and compares his damage total against a Soak of +3.
 >
-> This cuélebre is equivalent to a mature specimen of its kind. When young they have no wings, and when old they are so heavy that the ground sinks beneath them, so they usually depart for a province of the Magic Realm (see *Realms of Power: Magic*, page 29) called the mar Cuayada (Curdled Sea), where, according to legend (though magi tend to ignore such tales), great riches are to be found.
+> This cuélebre is equivalent to a mature specimen of its kind. When young they have no wings, and when old they are so heavy that the ground sinks beneath them, so they usually depart for a province of the Magic Realm (see *Realms of Power: Magic*, [page 29](#page-29)) called the mar Cuayada (Curdled Sea), where, according to legend (though magi tend to ignore such tales), great riches are to be found.
 >
 > Cuélebres delight in the fear of men, so they begin by hunting cattle to terrify them and then children to get their attention. Once panic has spread among the populace, the cuélebre picks some shepherd with whom to negotiate the delivery of animal or human sacrifices, under threat of destroying the church and the village where he lives. The cuélebre loathes speaking, for it knows only a few words and, although it is hard to understand (its hissing hampers its diction), it generally manages to convey a simple message about what it wants. Usually the terrified shepherd goes to the village with its message, and the villagers agree to leave the agreed head of cattle at a certain spot. The interval between sacrifices is purely a matter of trial and error: if it is too long, the cuélebre starts killing on its own account, and if it is too short, the offerings are usually not claimed until a day or two later.
 >
-> The fangs of cuélebres can be enriched (see *Realms of Power: Magic*, page 153) if they are left steeping in the creature's own blood and venom for a season. After that time the fangs will have partly dissolved, so the largest piece must be taken and wrapped in the hair of a pregnant woman until it forms a ball, which must then be bathed in water and left to dry. If this is done, anyone who carries these fangs gains the Virtue Lesser Immunity to the venom of cuélebres, serpents and basilisks.
+> The fangs of cuélebres can be enriched (see *Realms of Power: Magic*, [page 153](#page-153)) if they are left steeping in the creature's own blood and venom for a season. After that time the fangs will have partly dissolved, so the largest piece must be taken and wrapped in the hair of a pregnant woman until it forms a ball, which must then be bathed in water and left to dry. If this is done, anyone who carries these fangs gains the Virtue Lesser Immunity to the venom of cuélebres, serpents and basilisks.
 
 <!-- TODO: the asterisk after "Vanidosa" in the cuélebre box has no matching note in the PDF. -->
 
@@ -3414,7 +3416,7 @@ The young Xana is the covenant's newest member. A native of Asturias recruited b
 
 Šuʿlatun is a mature maga who was expelled from Harra for refusing to abandon her husband, Abū-l-Āfiya. Since her former covenant-mates perished at Alarcos, her relationship with her husband has been cold and distant; she no longer loves him. She believes that had they all gone to war, they would have won the battle and Harra would still be standing. Šuʿlatun hates the north of Iberia, so she uses her work for the covenant as an intermediary to keep abreast of the Almohad situation in al-Andalus, in the hope of returning to the *kūra* of Jaén, where she grew up.
 
-<!-- p. 121 -->
+<!-- p. 121 --><a id="page-121"></a>
 
 ### Beit Midrash
 
@@ -3433,11 +3435,11 @@ When the *rosh yeshiva* of the Lucena covenant, Meʾir ibn Yosef, announced the 
 
 The Tribunal of 1179 was marked by the dispute between the two covenants. Although Duresca tried to have them exiled, Šôfēṭ argued that there was no precedent in the Peripheral Code to justify its wish, and the Quaesitores of Duresca had to validate Beit Midrash's new location. Since then the Jewish covenant has been the target of constant attacks by Duresca: its resources have been expropriated, Duresca has meddled in the mundane politics of Monforte to try to ruin it, and it has incited others to challenge its members to Wizard's War. Beit Midrash, however, has held out stoically, and although it seems frozen in its Spring, it continues to advance little by little. What is more, to Duresca's exasperation, it has not yet lodged a single complaint.
 
-<!-- p. 122 -->
+<!-- p. 122 --><a id="page-122"></a>
 
 #### Setting and Physical Description
 
-Beit Midrash lies in a deep grove protected by one of the meanders of the Chalibe river, some six kilometers northwest of Monforte. This town has a thriving Jewish community, where the Sephardim do not live in an aljama but share the streets and squares with the Christians (although they do have a cluster of buildings around the rúa Vella where they keep their synagogue, *micvé*[^p122-5] and butcher's shop, very near the hill on which the fortress of the town's lord stands). Monforte holds licenses to hold fairs and markets (see page 58), so the magi of Beit Midrash generally need not travel to other towns to obtain their laboratory materials, which is especially advantageous.
+Beit Midrash lies in a deep grove protected by one of the meanders of the Chalibe river, some six kilometers northwest of Monforte. This town has a thriving Jewish community, where the Sephardim do not live in an aljama but share the streets and squares with the Christians (although they do have a cluster of buildings around the rúa Vella where they keep their synagogue, *micvé*[^p122-5] and butcher's shop, very near the hill on which the fortress of the town's lord stands). Monforte holds licenses to hold fairs and markets (see [page 58](#page-58)), so the magi of Beit Midrash generally need not travel to other towns to obtain their laboratory materials, which is especially advantageous.
 
 [^p122-5]: The Jewish ritual bath.
 
@@ -3465,7 +3467,7 @@ The archmage Raḥûm seeks to discredit Duresca through his own suffering. Alth
 
 Like his *amicus* Raḥûm, Šôfēṭ declined the invitation extended to him at Iššáh and chose not to follow the path of ʿEzraʾ ben Šēlomoh. Šôfēṭ seeks the same thing as Raḥûm: to establish a new order that will put an end to the corruption of a system that, after more than four centuries without change, has become obsolete. He also believes that the Order cannot be changed from within, which is why he gave up his title of Quaesitor at the beginning of the twelfth century. After meeting and learning from Maimonides, he began to write the foundations of a Hermetic law whose formal structure of legal reasoning rested on the operations (such as analogy and syllogism) that make up the core of Aristotelian metaphysics. However, after the doctrines of the *mutawaḥḥid*, or Perfects, were condemned at the Grand Tribunal of 1162, Šôfēṭ lost heart and chose not to publish his studies, which Raḥûm has still not forgiven him.
 
-<!-- p. 123 -->
+<!-- p. 123 --><a id="page-123"></a>
 
 ##### Ferraria al-Verditiyya
 
@@ -3473,7 +3475,7 @@ Trained at Ajabeba, Ferraria was still an apprentice when she heard the details 
 
 ##### ʿOg al-Praliḥī
 
-ʿOg Ex Miscellanea is a tempestarius (see page 299). His height of over two meters betrays his giant blood, inherited from the ancient pataricos of northern Iberia (see page 147). ʿOg came to the covenant after being manipulated into challenging Šôfēṭ to Wizard's War. It was not until he faced Raḥûm that he realized it: without words or magic, the archmage showed him the mistake he had made. To make amends, and as a token of honor, ʿOg asked to join the covenant, and Beit Midrash welcomed him as an equal.
+ʿOg Ex Miscellanea is a tempestarius (see [page 299](#page-299)). His height of over two meters betrays his giant blood, inherited from the ancient pataricos of northern Iberia (see [page 147](#page-147)). ʿOg came to the covenant after being manipulated into challenging Šôfēṭ to Wizard's War. It was not until he faced Raḥûm that he realized it: without words or magic, the archmage showed him the mistake he had made. To make amends, and as a token of honor, ʿOg asked to join the covenant, and Beit Midrash welcomed him as an equal.
 
 ʿOg converted to Judaism in 1212, after the pogrom in Toledo. Since then he has become what the Asturians call a *vedorio*, someone with the gift of the Calderín (see insert), able to see the spirits of the dead. No one in the covenant knows the cause of his new power, but Raḥûm considers it a sign from God for having embraced the true faith.
 
@@ -3499,7 +3501,7 @@ In her four years she has managed to buy a stone house on the rúa Vella in Monf
 
 Orraca was denounced by Duresca a couple of seasons ago; she was carrying an important message and lost it while playing chess at a hospice on the Way of Saint James. Although she fears being expelled from House Mercere at the ordinary Tribunal of 1221, she seldom stays sober long enough to worry about it.
 
-<!-- p. 124 -->
+<!-- p. 124 --><a id="page-124"></a>
 
 ### Lucis
 
@@ -3540,7 +3542,7 @@ After the disappearance of Lucis, Tello encouraged pilgrimage to the ruins of th
 
 The ruins of Lucis lie lost somewhere between the Eo, Masma, Alesancia and Mera rivers, surrounded by a not very dense forest of beech, chestnut, oak, yew and cork oak. Near the old walls is a small artificial lake that Ranemiro's people once used as a fishpond. The pool, fed by a natural stream, has stayed crystal clear over the centuries, and some trout and, at times, eels can be found in its waters.
 
-<!-- p. 125 -->
+<!-- p. 125 --><a id="page-125"></a>
 
 It is customary for pilgrims to spend seven nights among the ruins of Lucis to pray and meditate. At some point in the tenth century, a magus left his voting *sigil* as an offering on the spot where Ranemiro's private chapel had stood. Since then some have followed his example, although in the twelfth century they began to leave a symbolic object in its place.
 
@@ -3561,7 +3563,7 @@ In his early years, Baldiccione built bridges with the diocese of Iria Flavia, a
 
 When in 907 the *saḥirs* killed the apprentice of Briatiz de Moncharro of Diedne (the dean of Duresca), Briatiz declared Wizard's War on Baldiccione, holding him responsible for the death of her *filius*. Baldiccione died in that conflict and the covenant became a monastery. All its members (except Ṭāmis *filius* Baldiccione) left the Order behind to pursue their monastic life. In this way the covenant was absorbed by the diocese of Iria Flavia, which at that time was governed by Abbot Teodomiro.
 
-Years later, Baldiccione was linked to the supposedly fraudulent Duresca manuscripts, when Briatiz de Moncharro brought them to light in 937 (see page 76).
+Years later, Baldiccione was linked to the supposedly fraudulent Duresca manuscripts, when Briatiz de Moncharro brought them to light in 937 (see [page 76](#page-76)).
 
 #### Setting and Physical Description
 
@@ -3580,13 +3582,13 @@ What was once Campus Stellae is now a peaceful monastery inhabited by Benedictin
 >**Aura (type and strength):** Magic, strength 8<br>
 >**Reputations:** Dragon-Haunted (Hermetic) 2
 
-<!-- p. 126 -->
+<!-- p. 126 --><a id="page-126"></a>
 
 The covenant of Pico Sacro was founded by Baldiccione's first apprentice, a Mozarab from Seville named Ṭāmis. After his master's death, he left Campus Stellae (for he did not wish to turn his back on Hermetic life nor to shut himself away as a Benedictine monk in the monastery of Campus) and settled at a nearby place of power.
 
 #### History
 
-During its short life, Pico Sacro was a small covenant that never had more than two magi. Even so, it gained great renown in its early years thanks to the figure of its founder. Ṭāmis was not only one of Baldiccione's disciples; he also served many times as presiding Quaesitor, declined a seat in the upper chamber of Magvillus, brought about the peace with the *saḥirs* (continuing the work begun by his *parens*) and, despite his lineage, was one of those chiefly responsible for spreading the controversial Duresca manuscripts and one of the staunchest defenders of their authenticity. His principles and upright morals led him to defy Magvillus, which cost him his accreditation as a Quaesitor and possibly his life at the battle of Frías (see insert on page 78).
+During its short life, Pico Sacro was a small covenant that never had more than two magi. Even so, it gained great renown in its early years thanks to the figure of its founder. Ṭāmis was not only one of Baldiccione's disciples; he also served many times as presiding Quaesitor, declined a seat in the upper chamber of Magvillus, brought about the peace with the *saḥirs* (continuing the work begun by his *parens*) and, despite his lineage, was one of those chiefly responsible for spreading the controversial Duresca manuscripts and one of the staunchest defenders of their authenticity. His principles and upright morals led him to defy Magvillus, which cost him his accreditation as a Quaesitor and possibly his life at the battle of Frías (see insert on [page 78](#page-78)).
 
 After his death, Pico Sacro disappeared from Hermetic life. Its only inhabitant, Mariña Sanchiz Ex Miscellanea, shut herself away in the little covenant so as not to be drawn into the intrigues that had done away with Ṭāmis, and discreetly ran it until the Schism War broke out in 1010. Mariña then collaborated with the Tremere during the conflict, giving them her vis and allowing them to use Pico Sacro as a base of operations in their fight against the Diedne. However, it was not the renegades who put an end to the covenant, but an enormous dragon that until then had lain asleep beneath Pico Sacro. The beast awoke for unknown reasons and laid waste to the buildings and their inhabitants. Since then no one has ventured near the mountain where the covenant of Baldiccione's heir once stood, despite its powerful aura.
 
@@ -3602,15 +3604,15 @@ The imposing Pico Sacro lies less than a day's journey from Compostela and from 
 
 ## Asturias
 
-During the ninth and tenth centuries the Asturian kings began to organize their territory into administrative units called *mandationes*, *commisos* and districts (*alfoces*). Alongside these units appeared the village community, made up of a grouping of small family cells, each of which held the right (granted by the king) to work a small part of the whole. The fact that the villages could govern themselves allowed the *concilium* to emerge (see page 17).
+During the ninth and tenth centuries the Asturian kings began to organize their territory into administrative units called *mandationes*, *commisos* and districts (*alfoces*). Alongside these units appeared the village community, made up of a grouping of small family cells, each of which held the right (granted by the king) to work a small part of the whole. The fact that the villages could govern themselves allowed the *concilium* to emerge (see [page 17](#page-17)).
 
 In almost every village in Asturias there is a church that acts as its social center; until the Gregorian reform, it operated as a proprietary church under the control of the community (indeed, it provided an important source of income).
 
-The regional unit of Asturias stretches along the northern Cantabrian coast, from the Eo river to the Deva (a few kilometers east of the town council of Llanes), where it borders the kingdom of Castile. The terrain of Asturias is rugged: the imposing Cantabrian Mountains rise in its lands with peaks of over 2,500 meters, and it is crossed from north to south by watercourses such as the Narcea and the Nalón. Asturias holds important vis sources in its lands and, indeed, it was once home to what is believed to have been the richest of the entire Tribunal: the beach where the tempestarii worshiped their gods (see page 66). Needless to say, the most powerful covenant in the Tribunal, Duresca, has fed for centuries on the intrinsic power of this ancient region with its thousand-year-old magical tradition.
+The regional unit of Asturias stretches along the northern Cantabrian coast, from the Eo river to the Deva (a few kilometers east of the town council of Llanes), where it borders the kingdom of Castile. The terrain of Asturias is rugged: the imposing Cantabrian Mountains rise in its lands with peaks of over 2,500 meters, and it is crossed from north to south by watercourses such as the Narcea and the Nalón. Asturias holds important vis sources in its lands and, indeed, it was once home to what is believed to have been the richest of the entire Tribunal: the beach where the tempestarii worshiped their gods (see [page 66](#page-66)). Needless to say, the most powerful covenant in the Tribunal, Duresca, has fed for centuries on the intrinsic power of this ancient region with its thousand-year-old magical tradition.
 
 The territorial unit of Asturias is home to town councils such as those of Oviedo, Avilés, Pravia, Tineo and Llanes, among others. At present the only inhabited covenant in this whole territory is Duresca, the legislative center of Iberia.
 
-<!-- p. 127 -->
+<!-- p. 127 --><a id="page-127"></a>
 
 ### Duresca
 
@@ -3646,9 +3648,9 @@ The Guernicus of Duresca had to wait more than fifty years for the magi to begin
 
 House Guernicus emerged from the Schism strengthened, and Duresca, now in the hands of Iustum (another of the Guernicus who had come from Magvillus), had to deal with the independence of al-Andalus. Iustum worked with Durato and Aedes Saturni to project the Order's errors onto the magi of al-Andalus, who came to be blamed for the losses of the Schism. Furthermore, they knew how to profit from the absence of the Andalusi covenants during their secession by laying down the new legislative foundations of the Tribunal with the rulings "On the Iberian Chamber" (1018) and "On the Diedne Legacy" (1025), after which they began to plan the absorption of the Tribunal of al-Andalus. Finally, in 1025 Iustum obtained the status of dedicated covenant for Duresca, so that it could act swiftly against any Hermetic crime and prevent another Order-wide war from ever breaking out. Thus the covenant of the Quaesitores came to receive an annual endowment of 60% of the treasury in the Tribunal's common coffers.
 
-<!-- p. 128 -->
+<!-- p. 128 --><a id="page-128"></a>
 
-Duresca reached the height of its power in 1103, when it was handed the records of the Tribunal of al-Andalus and some Guernicus from the south (such as the distinguished judge Danāʾ al-Gernikiyya) joined its ranks, making it the sole sovereign of the Tribunal's legislative power. It went on to improve its position further: in 1123 it gained access to numerous African magical resources through the covenant of al-Minẓār; in 1151 it founded the pilgrims' hospital at Noreña (see insert on page 45) and took control of the Cordoban covenant of Jušjášun; in 1166 it wrested the custody of the hospital at Gares (and its pontage rights) from the Navarrese covenant of Andelos; and in 1179 it brought the hospital at Portomarín under its rule. Now Duresca hopes to close a deal in 1221 with the *triumvir* Nuño of Salionca and the Mercere of Aedes Saturni, by which it will obtain the right to work the salt pans of northern Castile (if the internal crisis it faces does not tear it apart first).
+Duresca reached the height of its power in 1103, when it was handed the records of the Tribunal of al-Andalus and some Guernicus from the south (such as the distinguished judge Danāʾ al-Gernikiyya) joined its ranks, making it the sole sovereign of the Tribunal's legislative power. It went on to improve its position further: in 1123 it gained access to numerous African magical resources through the covenant of al-Minẓār; in 1151 it founded the pilgrims' hospital at Noreña (see insert on [page 45](#page-45)) and took control of the Cordoban covenant of Jušjášun; in 1166 it wrested the custody of the hospital at Gares (and its pontage rights) from the Navarrese covenant of Andelos; and in 1179 it brought the hospital at Portomarín under its rule. Now Duresca hopes to close a deal in 1221 with the *triumvir* Nuño of Salionca and the Mercere of Aedes Saturni, by which it will obtain the right to work the salt pans of northern Castile (if the internal crisis it faces does not tear it apart first).
 
 > #### The Way of Saint James
 >
@@ -3673,7 +3675,7 @@ Duresca reached the height of its power in 1103, when it was handed the records 
 >
 > [^p128-II]: Excerpt from the letter of Calixtus II that serves as the prologue to the *Codex Calixtinus* (Spanish translation by M. Bravo Lozano).
 
-<!-- p. 129 -->
+<!-- p. 129 --><a id="page-129"></a>
 
 #### Setting and Physical Description
 
@@ -3703,7 +3705,7 @@ Some nine days to the southwest of Duresca lies the small hospital of Portomarí
 
 The magi keep Arcane Connections to a room in each of the three hospitals (always located on the first floor), which only members of the covenant may enter.
 
-<!-- p. 130 -->
+<!-- p. 130 --><a id="page-130"></a>
 
 Duresca uses the hospitals as a means of gathering information of every kind, since travelers from every corner of Mythic Europe pass through them. The hospitals are run by companions of the covenant (unless some magus wishes to take on that commitment) and staffed by grogs.
 
@@ -3715,7 +3717,7 @@ The *disceptator* acts as the covenant's representative at Tribunals and enjoys 
 
 In addition, and independently of the workings of the chamber, Duresca has the office of the *rector*: an independent counselor who may advise and influence the *disceptator* in private audiences. When the *rector* takes office, he must designate a successor without delay. This choice may be secret, recorded in a document attesting to it, or public, announced to the *disceptator*. Although the *rector* may give his opinion at meetings of the inner chamber, he has no vote.
 
-After the Schism War, the Iberian Tribunal passed the ruling "On the Iberian Chamber" (1018), under which Duresca is obliged to host in its halls a meeting of the powers of the Tribunal every ten years (see page 89). This meeting discusses the course the Tribunal as a whole is taking, examining the individual actions of each covenant and the points of friction between them, in an effort to achieve harmonious coexistence at the ordinary Tribunals. It also analyzes the situation of Iberia with respect to the Order and the mundane powers, in many cases setting out the measures needed for their approval at the ordinary Tribunals.
+After the Schism War, the Iberian Tribunal passed the ruling "On the Iberian Chamber" (1018), under which Duresca is obliged to host in its halls a meeting of the powers of the Tribunal every ten years (see [page 89](#page-89)). This meeting discusses the course the Tribunal as a whole is taking, examining the individual actions of each covenant and the points of friction between them, in an effort to achieve harmonious coexistence at the ordinary Tribunals. It also analyzes the situation of Iberia with respect to the Order and the mundane powers, in many cases setting out the measures needed for their approval at the ordinary Tribunals.
 
 Any Guernicus who wishes to join Duresca would do well to bear in mind that the covenant follows the conservative school of interpretation of the Code, and that any deviation from its policy will lead to rejection. If these requirements are met, the applicant must pass a difficult three-day theoretical examination and then carry out some kind of work for the covenant. For the other Houses entry is even harder: only those with good connections, or whose fame and reputation precede them, may join.
 
@@ -3739,9 +3741,9 @@ For clarity, the magi are described below in that order.
 
 Born to a Leonese noble family, Fortún was unanimously elected *disceptator* at the spring meeting of Duresca's inner chamber in 1187, inheriting the post from his colleague Jayrān. The then-young Fortún, a specialist in the Schism War rulings of the Peripheral Code, had already proven his talent at Magvillus, where he was apprenticed to the former Primus of the House, Arliandus. A passionate orator, Fortún could cite more than five hundred rulings from the Peripheral Codes of the various Tribunals of Mythic Europe and, as a conservative judge, he stood out among his peers and earned the respect of his *sodales* at Duresca.
 
-Like many others at Duresca, Fortún took a liking to chess and to consuming poppy latex (see insert on page 134) within a few years of becoming *disceptator*. Unlike the rest, however, Fortún cannot go a single day without it: his addiction kept him from attending the meeting of the Iberian Chamber in 1210 and the ordinary Tribunals of 1207 and 1214, and he may well miss the 1220 and 1221 meetings of both bodies too.
+Like many others at Duresca, Fortún took a liking to chess and to consuming poppy latex (see insert on [page 134](#page-134)) within a few years of becoming *disceptator*. Unlike the rest, however, Fortún cannot go a single day without it: his addiction kept him from attending the meeting of the Iberian Chamber in 1210 and the ordinary Tribunals of 1207 and 1214, and he may well miss the 1220 and 1221 meetings of both bodies too.
 
-<!-- p. 131 -->
+<!-- p. 131 --><a id="page-131"></a>
 
 > #### Fortún of Guernicus
 >**Characteristics:** Int –2(1), Per +3(1), Pre –1(1), Com +4(1), Str –1(1), Sta –1, Dex –2, Qik –3<br>
@@ -3817,7 +3819,7 @@ Like many others at Duresca, Fortún took a liking to chess and to consuming pop
 >
 >**Appearance:** Once brilliant, Fortún is now consumed by his addiction to the poppy, and although his position gives him access to the best longevity rituals, the drug has taken its toll in recent years, eroding his reason to the point of making him babble (Fortún makes one Aging roll per season because of his addiction). In 1220, Fortún looks like a toothless old man with the clear facial marks of an opium user, but his eyes have fared worst of all: their vacant gaze darts nervously in the darkness of his sunken sockets. Always clean-shaven and perfumed with ambergris, the decay he suffers has forced its way through the false pretense of his finery. His sparse, snow-white hair reveals a sweaty scalp that gleams under the lights of Duresca's luxurious halls. His skeletal limbs usually hang lifeless at his sides while the drug feeds on his body. Fortún is the very image of decadence, a sight that moves to pity those who once held him in esteem.
 
-<!-- p. 132 -->
+<!-- p. 132 --><a id="page-132"></a>
 
 Although some in the inner chamber have tried to remove him from office, until 1218 Fortún enjoyed the backing of his *parens* Arliandus, and those who challenged his authority ended up posted to some other covenant in Europe, generally against their will. In 1218, however, Arliandus met his Final Twilight, and since then the leadership of the House has been held by the archmage Bilera.
 
@@ -3853,19 +3855,19 @@ Mal Anda was a regular at the *disceptator*'s revels and, like him, addicted to 
 
 The Redcap Fróila arrived at Duresca barely four years ago to replace his uncle, who had grown too old to keep working at the covenant. Trained at Aedes Saturni, the young man has been dazzled by Duresca's wealth and Fortún's charisma. The *disceptator*'s closeness and the trust he has shown in him have led Fróila to devote himself entirely to the tasks Fortún gives him, and even to hold him in high regard. In 1220 he is a regular companion at play, and when he is at the covenant he is seldom seen doing anything but playing chess with the *disceptator*.
 
-<!-- p. 133 -->
+<!-- p. 133 --><a id="page-133"></a>
 
 Those who do not know Fróila might think him another Legiferi, but that is not really so. The young man's only failings have been his naivety and his eagerness to work; Fróila is just a boy seduced by power.
 
 ##### Archmage Sepsis of Tytalus
 
-Sepsis "the Dreaded," as she is known in the Tribunal, also holds the office of hoplite. The Tytalus maga lost her speech to leprosy (see insert on page 45), and she goes about wrapped in a shroud blackened by stains of sweat, dust and blood accumulated over the years.
+Sepsis "the Dreaded," as she is known in the Tribunal, also holds the office of hoplite. The Tytalus maga lost her speech to leprosy (see insert on [page 45](#page-45)), and she goes about wrapped in a shroud blackened by stains of sweat, dust and blood accumulated over the years.
 
 Sepsis is Duresca's armed fist, and many consider her cruel and wicked. The magi of the Tribunal say that her mere presence has prevented many Hermetic crimes, and that more than one person has vomited as the maga passed by.
 
 Sepsis is a calculating maga who enjoys the comforts Duresca provides her. Her support for Fortún is unconditional, at least as long as she can go on living such a life. She would certainly not give up her seat in the inner chamber for anything, although she would be willing to risk it to teach a lesson to the magi of al-Andalus, whom she hates above all things.
 
-<!-- p. 134 -->
+<!-- p. 134 --><a id="page-134"></a>
 
 > #### Archmage Sepsis of Tytalus
 >**Characteristics:** Int +2 (1), Per +1 (1), Pre –2 (2), Com –1, Str +1, Sta +1, Dex +1, Qik +1<br>
@@ -3983,7 +3985,7 @@ Sepsis is a calculating maga who enjoys the comforts Duresca provides her. Her s
 
 Catena is a brilliant smith and a fine ivory carver. Her mistress, Faŷrun al-Verditiyya, initiated her into the Mysteries of House Verditius at what was then her covenant, Aẓm Alfíl, which Catena left before Faŷrun was murdered.
 
-Catena has not stopped working since she arrived at Duresca. She has crafted all manner of devices for her *sodales*, and much of the covenant's magical defenses bear her mark. Thanks to her dedication, Catena enjoys a generous allowance of vis which, unlike her peers, she manages carefully so as to be able to carry out all her contrivances. Although she knows of Fortún's vices, she cannot forget the favors he has done her, and at Duresca she enjoys such abundant resources that her works can rival the crafts of Ajabeba. That is why Catena has always avoided the covenant's intrigues by taking refuge in her workshop, where she dreams of winning the competition held every eighteen years at Verdi (see *Houses of Hermes: Mystery Cults*, page 199).
+Catena has not stopped working since she arrived at Duresca. She has crafted all manner of devices for her *sodales*, and much of the covenant's magical defenses bear her mark. Thanks to her dedication, Catena enjoys a generous allowance of vis which, unlike her peers, she manages carefully so as to be able to carry out all her contrivances. Although she knows of Fortún's vices, she cannot forget the favors he has done her, and at Duresca she enjoys such abundant resources that her works can rival the crafts of Ajabeba. That is why Catena has always avoided the covenant's intrigues by taking refuge in her workshop, where she dreams of winning the competition held every eighteen years at Verdi (see *Houses of Hermes: Mystery Cults*, [page 199](#page-199)).
 
 Catena is an arrogant and proud maga, and it was precisely this that led her apprentice, Asur González, to leave Duresca and join Ajabeba.
 
@@ -3993,7 +3995,7 @@ Of all the magi of Duresca, Catena is the one who has shown the most interest in
 
 Pedro is an experienced Tremere magus who answers directly to Medea of Victrix, the House's Exarch for the Iberian and Provençal Tribunals. Pedro is charged with overseeing northern Iberia and reporting relevant events to his superior. He is also chiefly responsible for securing the pilgrims' hospitals that Duresca controls, and is on good terms with the primate of Toledo and the bishop of Compostela. Among his many other duties, he unravels the Tribunal conspiracies born at Duresca (thanks to his seat in the Iberian Chamber), and he has the authority to make decisions that have at times come to affect the whole Tribunal.
 
-<!-- p. 135 -->
+<!-- p. 135 --><a id="page-135"></a>
 
 The elderly Tremere does not hold with the *disceptator*'s dissolute life, and has so far stayed at his side to keep his own privileges. Naturally, if Fortún lost his power, Pedro would not be the only one to abandon him. Needless to say, Pedro has never tried the poppy, although he is a great lover of chess.
 
@@ -4015,7 +4017,7 @@ Bilanx was trained at Duresca by the eminent conservative judge Jayrān. Her rel
 
 Bilanx is the foremost critic of Fortún's corrupt regime, which she attacks harshly and always openly. Her defiant attitude has been a nuisance to almost everyone in the covenant (except perhaps her *amica*, Rayya), and, although she does not know it, in 1211 she came close to being expelled from it (which was prevented by her *parens*).
 
-<!-- p. 136 -->
+<!-- p. 136 --><a id="page-136"></a>
 
 Since Bilera's arrival, Bilanx has begun to lash out more forcefully against Fortún and Legiferi, which is starting to discomfit the silent Sepsis, so that the archmage will probably end up declaring Wizard's War on her.
 
@@ -4037,7 +4039,7 @@ Indicium is a great expert in Hermetic law: no one has ever managed to refute hi
 >
 > Duresca's trading relationship with the Andalusi covenant of Jušjášun will soon be a hundred years old. Back then, the magi of Jušjášun paid the Iberian tax with the only source they had: some white poppies from which a few pawns of Mentem vis could be extracted.
 >
-> When, some time later, those poppies found their way to Duresca by chance, one of its magi used them to brew an infusion to soothe his lung ailment, since the same flowers in their mundane form had proved ineffective. To his surprise, their effects cured him and plunged him into an extremely pleasurable ecstasy. In this way the magus grew fond of them and began to consume them purely for pleasure. So, when his supplies ran out, he traced their origin to the covenant of Jušjášun, with which Duresca signed a seven-year trade agreement shortly afterward. When that time had passed, even though Jušjášun doubled the price of the poppies, the agreement was renewed for fourteen more years, and when the deal expired again, Jušjášun tripled its price and Duresca paid it — though not without consequences: the Asturian covenant did away with the magi of Jušjášun and sent a Bonisagus to take possession of the covenant and research the poppy plantation. Thus, when the magus finally managed to double its yield, Duresca granted Jušjášun the status of dedicated covenant for its work in Hermetic research (see page 238 for more information).
+> When, some time later, those poppies found their way to Duresca by chance, one of its magi used them to brew an infusion to soothe his lung ailment, since the same flowers in their mundane form had proved ineffective. To his surprise, their effects cured him and plunged him into an extremely pleasurable ecstasy. In this way the magus grew fond of them and began to consume them purely for pleasure. So, when his supplies ran out, he traced their origin to the covenant of Jušjášun, with which Duresca signed a seven-year trade agreement shortly afterward. When that time had passed, even though Jušjášun doubled the price of the poppies, the agreement was renewed for fourteen more years, and when the deal expired again, Jušjášun tripled its price and Duresca paid it — though not without consequences: the Asturian covenant did away with the magi of Jušjášun and sent a Bonisagus to take possession of the covenant and research the poppy plantation. Thus, when the magus finally managed to double its yield, Duresca granted Jušjášun the status of dedicated covenant for its work in Hermetic research (see [page 238](#page-238) for more information).
 >
 > Against this background, when the player characters' magi come across the *disceptator*, Fortún of Guernicus, wandering near their covenant, they know at once that his presence is going to bring them trouble. Fortún is staggering, his pupils are fully dilated, he keeps stopping to vomit, and the skirts of what was once a spotless brocade robe are soiled with his own excrement. To complicate the encounter further, the Quaesitor believes that Bilera is pursuing him.
 >
@@ -4058,7 +4060,7 @@ Under the Peripheral Code ruling "On the Diedne Legacy" (1025), all information 
 
 Mons Vindius was the heir of Diedne Duresca. When Tancoystl joined the Ordo Miscellanea, the Diedne of Iberian tradition (former tempestarii and vates) joined it with her. Two of the covenant's old druids, however, left to avoid being expelled. They spent some years wandering the north of the Peninsula in search of a site on which to raise their new home, and on their travels they met a Frankish druid named Theudechild, who had arrived fleeing the laws of the *Capitularia Regum Francorum*. The woman told them she had been captured in Lyon on the orders of Bishop Agobard, and had received 200 lashes and a brand on her forehead. According to her account, druids were being persecuted in France. Moved by her story, the two magi took her in and founded Mons Vindius with her.
 
-The magi raised their covenant by magic beside a lake of glacial origin linked to many bodies of water scattered throughout Mythic Europe (see *Realms of Power: Magic*, page 137), with several nodes in the Peninsula (such as those near the covenants of Nebula and Ipagrum, also Diedne). Their covenant was constituted at the Rhine Tribunal of 822, at the same time as the Norman Bibracte and the Germanic Sirmium.
+The magi raised their covenant by magic beside a lake of glacial origin linked to many bodies of water scattered throughout Mythic Europe (see *Realms of Power: Magic*, [page 137](#page-137)), with several nodes in the Peninsula (such as those near the covenants of Nebula and Ipagrum, also Diedne). Their covenant was constituted at the Rhine Tribunal of 822, at the same time as the Norman Bibracte and the Germanic Sirmium.
 
 From the start, the Diedne of Mons Vindius lived discreetly, apart from the Order on their snowy peaks (though always in contact with the other members of their House), and when Ramiro I of Asturias ordered all wizards burned in 845, its magi gave shelter to some *sodales* of their House and pointed them to several places where there were other lakes with the same properties as theirs. Thanks to its isolation, the Asturian burnings never reached its halls.
 
@@ -4066,7 +4068,7 @@ Mons Vindius was not always inhabited solely by Diedne; its *sancta* housed ever
 
 When the Order expelled House Diedne in 1011, Tridio summoned all the Diedne of the Tribunal to Mons Vindius and sought support among the covenants with which he had been on good terms. Brigantia offered to fight at their side, and Laminium offered them refuge in al-Andalus. The rest of the magi, however, who only a few years before had been drinking with them, turned their backs on them. And so the Diedne, together with the Flambeau of Brigantia, attacked the powerful covenants in the north of the Tribunal. As a result, Tertia, Salionca and Duresca saw their *Aegis* breached, their vis sources ravaged and their libraries burned. They saved their fury for Tremébriga, however: the headquarters of the Tremere in the Peninsula was razed and all its inhabitants killed. As they fled, the Diedne sowed salt on its foundations.
 
-<!-- p. 137 -->
+<!-- p. 137 --><a id="page-137"></a>
 
 When it seemed the Diedne were going to win the war, the Order performed the ritual of *The Curse of Thoth*, and the tables turned. Tridio lost the Flambeau of Brigantia after the Concord of Fire, and the magi of the Order began to gain ground: the defenses of Mons Vindius fell in 1016, and only two Diedne managed to escape through Lake Enol to Nebula, and from there to the Glaslin at Stonehenge. There the only two surviving Diedne of Iberia continued the fight alongside their Primus, Llewelyn.
 
@@ -4093,12 +4095,12 @@ In the Bierzo are found the town councils (*concejos*) of Ponferrada, Villafranc
 
 > #### Story Seeds: Lake Carucedo
 >
-> In the region of the Bierzo, where a village once stood, lies Lake Carucedo. The local people say that Charlemagne destroyed the village and drowned its ruins, cursing the inhabitants. Although the old folk say that Roland's sword, the one known as Durandarte, lies in its dark waters, the Verditius deny the story, for they say it is held by the magi of the Confraternity of Roland (see *Houses of Hermes: Mystery Cults*, page 206).
+> In the region of the Bierzo, where a village once stood, lies Lake Carucedo. The local people say that Charlemagne destroyed the village and drowned its ruins, cursing the inhabitants. Although the old folk say that Roland's sword, the one known as Durandarte, lies in its dark waters, the Verditius deny the story, for they say it is held by the magi of the Confraternity of Roland (see *Houses of Hermes: Mystery Cults*, [page 206](#page-206)).
 >
 > The magi of Iberia have observed that roughly once a century an expedition is announced to explore (and plunder) the depths of Lake Carucedo, and everyone knows how it ends: no one returns from those waters. What secrets do the waters of the lake hold? Who or what rings the bells whose sound rises from those waters every year on Saint John's Eve?
 >
 
-<!-- p. 138 -->
+<!-- p. 138 --><a id="page-138"></a>
 
 ### Mare Iacum
 
@@ -4133,7 +4135,7 @@ Mare Iacum is a poor covenant; its scant resources are obtained by its grogs, wh
 
 Despite its age, Mare Iacum has always been a young covenant. With hardly any magical resources, the magi who grew up there spent only as much time as was strictly necessary before leaving for somewhere else, taking with them whatever little (or much) they had acquired. This has kept the covenant from prospering. Its lax charter permits this sort of behavior, and few magi who grew up at Mare Iacum have chosen to stay and watch the mundanes live better than they do (something too much to bear for the magi of the glorious Order of Hermes). Likewise, the few magi who have come to its gates have done so out of dire need and, once they have got back on their feet with the covenant's scant resources, have moved on.
 
-<!-- p. 139 -->
+<!-- p. 139 --><a id="page-139"></a>
 
 In 1220, Gudesteo is an old man and, although the magi performed a Longevity Ritual for him, he is in the twilight of his life. The magi do not know how Porta Pandere will react when he is gone; they are trying by every means to have his son attain his father's mastery, though so far they have made little progress.
 
@@ -4151,11 +4153,11 @@ Though at times she regrets having stayed at Mare Iacum, she shares those feelin
 
 ##### Ŷin-niy-yatun al-Merinitiyya
 
-The young Ŷin-niy-yatun came from al-Andalus to study the xanes with Vieya; the covenant's council welcomed her and gave her the last free *sanctum* it had, asking nothing in return. During her stay, however, she has never quite grown used to the privations of Mare Iacum, and she means to learn all she can from the water faeries and get Vieya to teach her the Major Arcadian Mystery of Metamorphosis (see *Houses of Hermes: Mystery Cults*, page 161) before she leaves.
+The young Ŷin-niy-yatun came from al-Andalus to study the xanes with Vieya; the covenant's council welcomed her and gave her the last free *sanctum* it had, asking nothing in return. During her stay, however, she has never quite grown used to the privations of Mare Iacum, and she means to learn all she can from the water faeries and get Vieya to teach her the Major Arcadian Mystery of Metamorphosis (see *Houses of Hermes: Mystery Cults*, [page 161](#page-161)) before she leaves.
 
 With every passing day Ŷin-niy-yatun finds Vieya's horrendous Latin accent and dreadful Arabic harder to bear. The smell of damp earth the old woman gives off disgusts her, and the little rituals she uses to protect herself and guard the covenant exasperate her. At the start of each day, the old woman checks that the boar's jawbone is on the covenant's small beehive and the laurel is still on the roof, makes sure the two milch cows still wear their seashells around their necks, asks about the chiastolite and the walnut with three seams she gave her two years ago (which, according to her, protect against witches, storms and the evil eye), and insists that she wear the *fascium* (a phallus-shaped amulet) for protection. To make matters worse, whenever she hears a dog howl or an owl hoot, or sees a crow fly on her right, Vieya foretells ill omens: "If only a moth would come into the house!" she then cries, as if that were a good thing. Ŷin-niy-yatun is tired of telling her to cast her Parma and renew the *Aegis*, because she cannot stand Vieya always giving the same answer: "Don't you want your friends to come into the house?"
 
-<!-- p. 140 -->
+<!-- p. 140 --><a id="page-140"></a>
 
 Lately, Ŷin-niy-yatun has begun to think she made a mistake, for she has serious doubts about Vieya's magical abilities and no longer believes that the old woman knows (or ever knew) the Mystery of Metamorphosis.
 
@@ -4163,7 +4165,7 @@ Lately, Ŷin-niy-yatun has begun to think she made a mistake, for she has seriou
 
 Xanino was a changeling, born of a xane and one of the men of the monastery of San Martín de Castañeda. He was nursed by Vieya as a baby (since the xanes have no milk in their breasts), and from his faerie heritage he retains his hideous, hairy appearance and some exceptional abilities that his master was able to preserve when he initiated him into the Arts.
 
-Although Vieya could have trained him, she handed him over to her *sodalis* Cresconio, who had helped her protect the child left by the faeries when his false mother discovered that her baby had been exchanged. Xanino was thus trained by a tempestarius and, like him, inherited his magical abilities (see page 299).
+Although Vieya could have trained him, she handed him over to her *sodalis* Cresconio, who had helped her protect the child left by the faeries when his false mother discovered that her baby had been exchanged. Xanino was thus trained by a tempestarius and, like him, inherited his magical abilities (see [page 299](#page-299)).
 
 In 1220, he has just passed his Gauntlet and for the moment has no need (or prospect) of leaving the covenant. Of all the magi of Mare Iacum, Xanino is the youngest.
 
@@ -4173,7 +4175,7 @@ In 1220, he has just passed his Gauntlet and for the moment has no need (or pros
 >
 > The xanes can leave the water for short periods, and they are customarily seen at night or on the morning of Saint John's Day in forest clearings, by waterfalls and in caves, where they like to pass the time dancing. Their treasures are always a lure for thieves and, when they are robbed, the xanes do what they can to recover their belongings. Usually, when the thief finds himself cornered, he hands the treasure over to the Church, for it is well known that the xanes abhor the name of God and the saints (which is why many small villages possess precious silver chalices they could never otherwise have obtained, as is the case with the parish of Santiago de Aguino, in southern Asturias).
 >
-> These faeries, associated with undines, have great knowledge of plants and use them to work enchantments, so it is not unusual to find them with aconite, opium poppy, wormwood, black poplar, angelica, celery, henbane, belladonna, sweet flag, hemp, hemlock, cinquefoil, ergot, foxglove, hellebore, thorn apple, nightshade, hound's-tongue, adder's-tongue, mandrake, fly agaric, bryony, parsley, white willow, yew or vervain, all of them herbs of virtue that can be enriched (see *Realms of Power: Magic* for some examples, page 154). In particular, they use *llanzuela* to heal the wounds of the men and women they love, and they fear rue, with which, so it is said, they can be disenchanted.
+> These faeries, associated with undines, have great knowledge of plants and use them to work enchantments, so it is not unusual to find them with aconite, opium poppy, wormwood, black poplar, angelica, celery, henbane, belladonna, sweet flag, hemp, hemlock, cinquefoil, ergot, foxglove, hellebore, thorn apple, nightshade, hound's-tongue, adder's-tongue, mandrake, fly agaric, bryony, parsley, white willow, yew or vervain, all of them herbs of virtue that can be enriched (see *Realms of Power: Magic* for some examples, [page 154](#page-154)). In particular, they use *llanzuela* to heal the wounds of the men and women they love, and they fear rue, with which, so it is said, they can be disenchanted.
 >
 > The xanes of the streams and waterfalls of *mare iacum* (the lake beside which the first covenant of that name was founded) were decimated by the men who came with the monks who restored the monastery of San Martín de Castañeda. In 1220 they number fewer than a dozen, which worries the kindly old Vieya. The only way she can think of to stop men from wiping them out altogether is to finish the men off first, which she is not prepared to do under any circumstances. Vieya places little faith in Ŷin-niy-yatun's help, so if there were a Merinita among the player characters, she might ask them for help in saving the xanes' folk, though she will also warn them that neither the xanes nor Mare Iacum have much to offer in return.
 
@@ -4183,7 +4185,7 @@ In 1220, he has just passed his Gauntlet and for the moment has no need (or pros
 >
 > Somehow (perhaps they discover these ruins on some expedition, or hear of them at some Tribunal or chess tournament), the player characters learn that there is an old temple near the ruins of Nemetobriga (the ancient capital of the Tibures tribe, *tiburi* in Latin). No one knows to whom it is dedicated, nor whether it was raised by a Hermetic magus. Perhaps they can discover to whom the altar was dedicated and learn the names of the ancient divinities, who, if the characters helped them return to the world, would shower them with gifts, though always in exchange for labors.
 
-<!-- p. 141 -->
+<!-- p. 141 --><a id="page-141"></a>
 
 ##### Cresconio Ex Miscellanea
 
@@ -4224,7 +4226,7 @@ In 1220, the two magi who came from al-Andalus are on the point of leaving, wear
 
 One of the main problems Septima Gemina will face is its proximity to Duresca. The venerable covenant will not allow them to settle so close to it, and although this reason might be enough to bring them closer to Beit Midrash, the relationship between Raḥûm and Gonçalvo (see the magi below) will not allow it, at least not on friendly terms.
 
-<!-- p. 142 -->
+<!-- p. 142 --><a id="page-142"></a>
 
 #### Setting and Physical Description
 
@@ -4260,7 +4262,7 @@ The two magi who joined Septima Gemina later do not see life as their three *sod
 >
 > [^p142-VI]: Poem from *The Treatise of Familiar Spirits and Demons* by Ibn Shuhayd (Spanish translation by Salvador Barberá).
 
-<!-- p. 143 -->
+<!-- p. 143 --><a id="page-143"></a>
 
 ## The Leonese Extremadura
 
@@ -4291,7 +4293,7 @@ After Vermuu's death, the Redcaps decided to abandon the site for good; they gat
 
 The former covenant of Occelum Durii shall be made available as a Hermetic inn for all members of the Tribunal. Porta Pandere shall be responsible for renewing the *Aegis of the Hearth* each year and for providing as many invitations as necessary to any member registered in the Iberian Tribunal. Likewise, any recognized companion or grog shall have the privilege of requesting lodging at Occelum Durii, whose ground shall always be free of disputes.
 
-<!-- p. 144 -->
+<!-- p. 144 --><a id="page-144"></a>
 
 #### Setting and Physical Description
 
@@ -4332,11 +4334,11 @@ Founded by former inhabitants of Mare Iacum, Salama has kept itself apart from t
 
 In 917, the members of Mare Iacum who had not wanted to attack the monks of San Martín de Castañeda gathered their things and set off for the Lower March of the Caliphate of Cordoba, whose capital was Badajoz. For two years Cisila and Bos searched for the right place to raise their covenant, for, being so close to the frontier and in the heart of *saḥir* territory (although by then the peace negotiations were well advanced), they did not want to attract unwanted attention. They named their covenant Salama, in honor of the ancient water divinity of those lands: an ancestral spirit from which flowed the vast power of the untouched sierra.
 
-<!-- p. 145 -->
+<!-- p. 145 --><a id="page-145"></a>
 
 After all they had been through, neither Cisila nor Bos had much desire to involve themselves in the affairs of the Order, so after attending the Tribunal of 920 to announce that they had founded the covenant, they never attended another. Indeed, according to the Redcaps of those days, their manners were so rough and their payments so meager that the Redcaps soon stopped calling at their door. Salama never allowed its vis sources to be registered, and it extended its domain over a perimeter of several kilometers all around. The covenant never paid the Iberian tax established by the ruling of 864 of the Peripheral Code, so that today its debt amounts to more than a queen of vis.
 
-With the founding of Ciudad Rodrigo and the resettlement of Ledesma in 1161, the covenant's outlying vis sources began to dwindle, so Salama, inhabited entirely by *feritarii* (see *Houses of Hermes: Mystery Cults*, page 33), committed the same offense as its forebears at Mare Iacum and attacked the settlements being resettled by mundanes. Because of its isolation, however, the Tribunal was unaware of these attacks, and the magi of Salama preyed on those lands at will. Their isolation also made it hard for them to obtain new apprentices, however (the few they had ended up leaving or dying), and the covenant began to age. The youngest magus of Salama, an Ex Miscellanea tempestarius named Ríḥun, died in 1218, a few months before Pope Honorius III granted crusading privileges to those who took part in the assault on Cáceres: the columns of the mundane armies ravaged one of the covenant's vis sources on their way to the city, and Ríḥun set out after them to overtake them. When the crusader troops were encamped before Cáceres, Ríḥun summoned a mighty storm that killed several dozen men and forced them to abandon the siege. Days later, however, he was murdered by a band of those same men, Gascon soldiers who had strayed into the covenant's domain on their way home.
+With the founding of Ciudad Rodrigo and the resettlement of Ledesma in 1161, the covenant's outlying vis sources began to dwindle, so Salama, inhabited entirely by *feritarii* (see *Houses of Hermes: Mystery Cults*, [page 33](#page-33)), committed the same offense as its forebears at Mare Iacum and attacked the settlements being resettled by mundanes. Because of its isolation, however, the Tribunal was unaware of these attacks, and the magi of Salama preyed on those lands at will. Their isolation also made it hard for them to obtain new apprentices, however (the few they had ended up leaving or dying), and the covenant began to age. The youngest magus of Salama, an Ex Miscellanea tempestarius named Ríḥun, died in 1218, a few months before Pope Honorius III granted crusading privileges to those who took part in the assault on Cáceres: the columns of the mundane armies ravaged one of the covenant's vis sources on their way to the city, and Ríḥun set out after them to overtake them. When the crusader troops were encamped before Cáceres, Ríḥun summoned a mighty storm that killed several dozen men and forced them to abandon the siege. Days later, however, he was murdered by a band of those same men, Gascon soldiers who had strayed into the covenant's domain on their way home.
 
 In 1220, officially there are only two magi resident at Salama, both *feritarii* and, like their forebears, devoted to preserving the ancestral spirit of the waters of the peak of Jálama. It is only a matter of time, however, before the Tribunal sends a delegation to settle the enormous debt they have accumulated, and the two worlds clash: that of the Order and that of Salama. The third, undeclared member is named Quercus Merinitae and is not even part of the Tribunal, although he may present himself publicly before it in the not-too-distant future.
 
@@ -4356,7 +4358,7 @@ Salama has no governing structure whatsoever. It keeps no minutes of any kind, n
 
 ##### Caronglo Bjornaer
 
-Bos's former apprentice, Caronglo, is a powerful ox who spends his days and nights roaming Salama's domain, making sure no mundane dares set foot in it and keeping watch on the nearby settlements. Caronglo needs neither provocation nor deeds; when he believes something may threaten Salama's ancestral spirit, he tries to destroy it at all costs. That is why the mundanes of the surrounding area take care not to go near the forests of the sierra. Caronglo considers his task so important that he does not usually attend the twelve-year gathering (see *Houses of Hermes: Mystery Cults*, page 39), for he fears that in his absence the mundanes might invade Salama's untouched land.
+Bos's former apprentice, Caronglo, is a powerful ox who spends his days and nights roaming Salama's domain, making sure no mundane dares set foot in it and keeping watch on the nearby settlements. Caronglo needs neither provocation nor deeds; when he believes something may threaten Salama's ancestral spirit, he tries to destroy it at all costs. That is why the mundanes of the surrounding area take care not to go near the forests of the sierra. Caronglo considers his task so important that he does not usually attend the twelve-year gathering (see *Houses of Hermes: Mystery Cults*, [page 39](#page-39)), for he fears that in his absence the mundanes might invade Salama's untouched land.
 
 If the magi of the Lucena covenant of ʿÔlām wā-ʿed could recognize him, they would remember that Caronglo was one of the eunuchs they raised, and that they sold him to Bos shortly before the Lucena covenant was razed. Caronglo does not want to remember those events and, should they ever become known, he would take revenge on those responsible (Caronglo's full character sheet can be found on page 76 of *Houses of Hermes: Mystery Cults*).
 
@@ -4364,7 +4366,7 @@ If the magi of the Lucena covenant of ʿÔlām wā-ʿed could recognize him, the
 
 The wild sow Sus is just as zealous as Caronglo. Like him, she roams the ground her companion does not cover, to prevent the mundane advance into the area. Unlike Caronglo, however, Sus is somewhat more sociable. Thanks to this, she was able to meet Quercus of Merinita on the way back from the last twelve-year gathering, held in 1215 at the covenant of Crintera. Quercus, who claimed to be a follower of the True Merinita, asked to accompany them to Salama so as to pursue his research in peace. His leaning toward nature, wholly removed from the outlook of House Merinita, earned him entry to Salama, where he still lives.
 
-<!-- p. 146 -->
+<!-- p. 146 --><a id="page-146"></a>
 
 ##### Quercus Merinitae
 
@@ -4376,11 +4378,11 @@ The naturalist magus has not stopped learning since then and, although he does n
 >
 > When, at one of the ordinary Tribunals, the player characters learn that the covenant of Salama owes a considerable debt to the Tribunal's coffers, they will surely want to know why they have to pay punctually while that covenant ignores its responsibility without the Quaesitores doing anything about it. What is more, they might raise the matter at the next Tribunal or try to persuade other covenants to protest jointly against Salama's "privilege," perhaps by not paying either. Alternatively, they might also offer to collect the debt on the Tribunal's behalf if they were allowed to keep a percentage as profit. Naturally, the last option will be the one the Quaesitores of Duresca favor most, for they will have no objection to letting others deal with something they find merely a nuisance.
 
-<!-- p. 147 -->
+<!-- p. 147 --><a id="page-147"></a>
 
 # VI. The Kingdom of Castile
 
-Since 1217 Castile has been ruled by the young Fernando III, son of Alfonso IX of Leon, who has brought his kingdom great stability thanks to the peace treaties he has signed with his father and with the monarchs of Aragon, Navarre and al-Andalus. Knighted barely a year ago, and recently married to Beatriz of Swabia, Fernando has not yet answered the call against the Muslims that Pope Honorius III issued in 1219 (see "The Crusades of Iberia," page 41). In fact, not until 1224 will Fernando III decide to fight to push the frontiers of his kingdom forward at the expense of the territories of the Almohad province of al-Andalus.
+Since 1217 Castile has been ruled by the young Fernando III, son of Alfonso IX of Leon, who has brought his kingdom great stability thanks to the peace treaties he has signed with his father and with the monarchs of Aragon, Navarre and al-Andalus. Knighted barely a year ago, and recently married to Beatriz of Swabia, Fernando has not yet answered the call against the Muslims that Pope Honorius III issued in 1219 (see "The Crusades of Iberia," [page 41](#page-41)). In fact, not until 1224 will Fernando III decide to fight to push the frontiers of his kingdom forward at the expense of the territories of the Almohad province of al-Andalus.
 
 The vast kingdom of Castile is bounded to the north by the Cantabrian Sea (from Fuenterrabía in the east to just beyond San Vicente de la Barquera in the west), to the south by the Andalusi province of the Almohad Empire (the city of Baeza lies at the very edge of its frontiers), to the west by the kingdom of Leon (the cities of Sahagún, Tordesillas, Béjar and Plasencia lie on the border), and to the east by the kingdom of Navarre (with the city of Logroño at the edge of the realm) and the Crown of Aragon (the cities of Molina and Moya are close to the frontier).
 
@@ -4420,7 +4422,7 @@ The region of Castile is the northernmost part of the kingdom and is home to the
 >
 > Such news is sure to spread quickly through the Tribunal, so if the characters do not hurry, they may not be the first to arrive. Will they set out at once to search the waters, or will they seek out the surviving whalers to look into what happened and so learn how to enter the *regio*?
 
-<!-- p. 148 -->
+<!-- p. 148 --><a id="page-148"></a>
 
 > #### The Patarico Giants
 >
@@ -4448,9 +4450,9 @@ The region of Castile is the northernmost part of the kingdom and is home to the
 >**Vis:** 3 pawns of Corpus vis in the skull<br>
 >**Appearance:** The pataricos (or ojáncanos, as they are also known) are one-eyed giants who relish human flesh and have an excellent sense of smell (thanks to the Keen Sense of Smell Virtue they have +3 to all relevant rolls), which they use to hunt down the humans who reach their island. They stand some six meters tall and dress in ragged skins torn from the bears that share the island with them. The pataricos are stubborn and dull-witted, and they fear water. Their greatest treasures are their flocks, which they tend with great care.
 >
-> These cyclopes are the descendants of the ancient giants who peopled Iberia, who, according to some sources, were ruled by Geryon (see page 118).
+> These cyclopes are the descendants of the ancient giants who peopled Iberia, who, according to some sources, were ruled by Geryon (see [page 118](#page-118)).
 
-<!-- p. 149 -->
+<!-- p. 149 --><a id="page-149"></a>
 
 The region of Castile borders on the Provençal Tribunal (indeed, the city of San Sebastián lies within the Provençal boundaries) and, as in any border region, disputes between Tribunals over the vis sources of the area are common. More than once the magi of Iberia have had to appear before the Provençal Tribunal, and no fewer disputes have had to be settled on Iberian soil. The storyguide should use this as a resource for creating stories that involve both Tribunals.
 
@@ -4479,7 +4481,7 @@ Salionca has always been on good terms with the nobles of the kingdom of Castile
 
 Flambeau conceived Salionca as a bastion for Hermetic expansion in the Peninsula. To that end, the magi Grimoald Niger, Clodio and Gunthar left Val-Negra and settled beside an ancient abandoned hillfort, not far from the Ebro, on the summit of a hill that commanded the surrounding landscape. They raised their covenant on an outcrop of salt from which a powerful and extensive magic aura emanated, and so they named their covenant Salionca.
 
-Salionca was a prominent covenant during the early years of Hermetic history in the Peninsula, years that, as described in the *Comentarii de Bello Iberico* (see page 63), abounded in heroic deeds performed by Grimoald Niger. Later, figures such as the controversial Ruiz Sánchez de Esco (the one who refused to accept the *saḥirs* in 925) and the archmage Bruto of Flambeau, hero of the Schism War and Praeco of the Tribunal, helped to feed its fame. However, when Bruto announced his retirement because of a strange illness, Salionca vanished from Hermetic life and entered the Winter in which it still finds itself. The truth is that the *dictator* who replaced Bruto after his death, Marco Gayo of Flambeau (of Clodio's lineage), did not prove to have the abilities that Bruto had once seen in him.
+Salionca was a prominent covenant during the early years of Hermetic history in the Peninsula, years that, as described in the *Comentarii de Bello Iberico* (see [page 63](#page-63)), abounded in heroic deeds performed by Grimoald Niger. Later, figures such as the controversial Ruiz Sánchez de Esco (the one who refused to accept the *saḥirs* in 925) and the archmage Bruto of Flambeau, hero of the Schism War and Praeco of the Tribunal, helped to feed its fame. However, when Bruto announced his retirement because of a strange illness, Salionca vanished from Hermetic life and entered the Winter in which it still finds itself. The truth is that the *dictator* who replaced Bruto after his death, Marco Gayo of Flambeau (of Clodio's lineage), did not prove to have the abilities that Bruto had once seen in him.
 
 Shortly after proclaiming himself *dictator* in 1185, Marco Gayo fell into Twilight during his contest for the title of archmage against the Tytalus of Duresca, Sepsis. Marco Gayo was struck down in the Cantabrian Mountains and, on the spot where he fell, his lover and former apprentice, Tito Octavio of Flambeau, raised a shelter to protect his body. In the absence of leadership, the triumvir Nuño Álvarez de Lara took over the government of Salionca, embezzling the covenant's resources to favor his family.
 
@@ -4487,7 +4489,7 @@ Unfortunately for Salionca, Nuño is Tito Octavio's only contact with the world,
 
 The embezzlement of the covenant's goods and its disastrous management drove the covenant's autocrat to leave, which in turn led many other inhabitants to go as well. So in these three years the covenant has lost almost its entire staff, and those who have not left are too affected by Warping to work. Without labor, the trade agreements with San Sebastián to sell salt in the city of Bruges (a voyage that takes six months) go unexploited, the cargoes that sailed down the Ebro have stopped, salt piles up in the storehouses, and the covenant's stony inhabitants cannot keep up. Moreover, to crown its misfortunes, none of the remaining mundanes is willing to take on the autocrat's work and responsibilities. In this situation, Nuño has begun negotiating with the Mercere of Aedes Saturni to sell them the distribution rights and one fifth of the working of Salionca's salt pans.
 
-<!-- p. 150 -->
+<!-- p. 150 --><a id="page-150"></a>
 
 In 1220, however, the young maga Pyra has persuaded the Redcap who regularly visits the covenant to tell her about the agreements reached between the triumvir and House Mercere. To tackle the problem, Pyra has informed the other members at a secret assembly of the Decemvirate, which resolved to depose the triumvir before the summer of 1221 (when the ordinary Iberian Tribunal will be held and Nuño will sell the working rights to House Mercere). The decemvirs know, however, that Duresca is involved, so they do not rule out asking another covenant for help before the Tribunal is held.
 
@@ -4499,7 +4501,7 @@ Over time the covenant grew. The original site is still preserved as the council
 
 The next most important building is the impressive structure that houses the magi's *sancta*, Salionca's treasure chamber and the pantheon of the *dictatores* (see below). For its protection, it was raised by magic in the shelter of the gorges of the river Oca. Its rooms rise impossibly from the sheer walls of the river cliffs, a sight that bears witness to Salionca's former might. Of the fifteen *sancta* in this building, only six are currently occupied. Here too the salt devours the rooms, turning them into uninviting, extremely dry chambers where at times it is hard to breathe. Warping affects not only the structures, however, but also the walls of the gorge: the surrounding rock is turning into salt which, being more brittle, has weakened the anchorage of the old buildings. For this reason, two of the *sancta* have already partly collapsed. The magi still remember with horror how the aged Jew Elifaz of Flambeau ended up crushed against the riverbed after an earth tremor hurled the first *sanctum* into the void in 1170.
 
-<!-- p. 151 -->
+<!-- p. 151 --><a id="page-151"></a>
 
 The rest of Salionca's buildings (three small villages) oversee the working of the magical salt pans and are spread over a radius of up to a hundred kilometers north of the covenant's *sancta* building, and even farther if one counts the fishing rights of the old covenant of Izaro, which Salionca still controls (see below).
 
@@ -4544,11 +4546,11 @@ As the years go by, the buildings are slowly transformed into blocks of saltpete
 >**Encumbrance:** 0 (3)<br>
 >**Appearance:** The soldiers of Salionca are imposing and fearsome, chosen from among the strongest and most intelligent children of the covenant. These grogs have taken part in numerous mundane battles against the neighboring kingdoms (above all defending the interests of the Laras), and so they are formidable warriors. Being affected by Warping, they are long-lived and show no infirmities; when they offer themselves for combat, they are like living statues that seem to feel neither fatigue nor pain. When the inhabitants of Salionca die, they turn into statues of salt, and a pawn of Ignem vis can be found in their bodies.
 
-<!-- p. 152 -->
+<!-- p. 152 --><a id="page-152"></a>
 
 In game terms, the aura follows the rules of the Warping to a Pattern Hook (see *Covenants*, page 15): the mineral kingdom within the aura is gradually transformed into rock salt (halite) and saltpeter, and the other kingdoms (vegetable and animal) are transmuted in the same way, though more slowly. In the tenth century one of the members of Salionca, Birbón of Flambeau, devoted many years to researching the aura. In his studies he concluded that the place would end up turning into one enormous salt pan, and he prophesied that at that moment the giants of the Peninsula would return.
 
-In game terms, the Flaws (all of supernatural origin) that the aura of Salionca grants to mundanes are as follows: Arthritis (on reaching a Warping Score of one), because of the hardening of the joints; Social Handicap (on reaching a Warping Score of three), because the skin turns whitish with pinkish iridescence; and Soul of Salt (on reaching a Warping Score of five; see "New Virtues and Flaws," page 305).
+In game terms, the Flaws (all of supernatural origin) that the aura of Salionca grants to mundanes are as follows: Arthritis (on reaching a Warping Score of one), because of the hardening of the joints; Social Handicap (on reaching a Warping Score of three), because the skin turns whitish with pinkish iridescence; and Soul of Salt (on reaching a Warping Score of five; see "New Virtues and Flaws," [page 305](#page-305)).
 
 #### Society and Customs
 
@@ -4579,7 +4581,7 @@ The promotion of the *magister equitum* to *dictator* is made by direct appointm
 
 Besides the mechanisms described for rising to power in Salionca, the covenant's members may always resort to usurpation, the means by which they can gain an occupied seat of higher rank: to do so, the petitioner must declare Wizard's War on the magus he wishes to overthrow.
 
-<!-- p. 153 -->
+<!-- p. 153 --><a id="page-153"></a>
 
 #### The Magi of Salionca
 
@@ -4603,7 +4605,7 @@ A few years later, Marco Gayo discovered that he was suffering from the same ill
 
 Tito Octavio has not left the body of his lover, Marco Gayo, since he found it on the high Cantabrian peaks. To shield it from the harsh weather, Tito had a shelter built where he could keep vigil over his former master. With hardly any experience, Tito found himself obliged to delegate all his power to his *parens*'s *amicus*, Nuño, in whom he trusts completely. Since then Tito has barely left the shelter, for fear of not being at his lover's side when he wakes. He cares little for the covenant, for he cannot help recalling the years when he was happy at Marco Gayo's side; compared with that happiness, the rest of the world is nothing but a gray smudge.
 
-In 1220, Tito realizes that many of his requests are postponed indefinitely and that he obtains practically nothing of what he asks for, so he suspects that the covenant must be going through a bad time — which, to tell the truth, does not worry him much either. Yet every year that passes makes it more likely that his lover has met Final Twilight, so he is determined to attend the Tribunal of 1221 to obtain the help needed to bring Gayo back (see insert on page 154).
+In 1220, Tito realizes that many of his requests are postponed indefinitely and that he obtains practically nothing of what he asks for, so he suspects that the covenant must be going through a bad time — which, to tell the truth, does not worry him much either. Yet every year that passes makes it more likely that his lover has met Final Twilight, so he is determined to attend the Tribunal of 1221 to obtain the help needed to bring Gayo back (see insert on [page 154](#page-154)).
 
 ##### Triumvir Nuño Álvarez de Lara of Flambeau, Follower of Apromor
 
@@ -4613,7 +4615,7 @@ After getting the *dictator* to challenge Sepsis, Nuño began meeting with the l
 
 Having invested all of Salionca's funds in a lost war for control of the throne of Castile, and accepting that Salionca will never leave its Winter, Nuño has reached an agreement with Aedes Saturni and Duresca. In exchange for the distribution rights and one fifth of the working of Salionca's salt pans, the Tribunal's coffers will rebuild the covenant of Harra and, after Nuño takes the office of *dictator*, he will dissolve Salionca and be named *ductor* of the new Harra. To further his interests, since 1217 Nuño has canceled all assemblies and forbidden the decemvirs to meet, in the hope that the Tribunal of 1221, when the agreement will be sealed, arrives without upsets.
 
-<!-- p. 154 -->
+<!-- p. 154 --><a id="page-154"></a>
 
 > #### Nuño Álvarez de Lara, Follower of Apromor
 >**Characteristics:** Int +4(2), Per +2(1), Pre +2, Com +2(1), Str 0, Sta +1(1), Dex –2, Qik 0<br>
@@ -4687,9 +4689,9 @@ The decemvir Pyra is Salionca's only hope. Of the whole assembly of the Decemvir
 
 ##### Decemvir Rescaldo of Flambeau
 
-The young Rescaldo is the *filius* of Birbón, one of the triumvirs who left for Harra and who perished at the battle of Alarcos (see page 94). Rescaldo is not very interested in politics and spends his seasons enjoying Salionca's magnificent library and improving his Arts, in the hope of fighting the Almohads one day. Despite his apparent indifference, Rescaldo supports Pyra, for he knows the consequences the deal Nuño intends to close may bring. If Salionca disappeared he would lose his home and, besides, who would not want to save the oldest covenant in the Tribunal, founded by Flambeau himself?
+The young Rescaldo is the *filius* of Birbón, one of the triumvirs who left for Harra and who perished at the battle of Alarcos (see [page 94](#page-94)). Rescaldo is not very interested in politics and spends his seasons enjoying Salionca's magnificent library and improving his Arts, in the hope of fighting the Almohads one day. Despite his apparent indifference, Rescaldo supports Pyra, for he knows the consequences the deal Nuño intends to close may bring. If Salionca disappeared he would lose his home and, besides, who would not want to save the oldest covenant in the Tribunal, founded by Flambeau himself?
 
-<!-- p. 155 -->
+<!-- p. 155 --><a id="page-155"></a>
 
 > #### Story Seeds: The Return of Marco Gayo
 >
@@ -4720,7 +4722,7 @@ Focus is the youngest magus in Salionca. He came to the covenant in 1195, after 
 >**Reputations:** Mundane Pacts (Iberian Tribunal) 6, *Studium generale* (Mythic Europe) 4<br>
 >**Votes:** 2
 
-The *studium generale* of Pallantia (see insert on page 55) is the most recent covenant in the kingdom of Castile. Yet despite its seventy years of existence, it has still not managed to leave behind a Spring that seems to threaten to turn into a premature Winter.
+The *studium generale* of Pallantia (see insert on [page 55](#page-55)) is the most recent covenant in the kingdom of Castile. Yet despite its seventy years of existence, it has still not managed to leave behind a Spring that seems to threaten to turn into a premature Winter.
 
 Its founder, a follower of the Muslim and Jewish "educational models" of the Peninsula, chose a broken key as its symbol to show that there is no need to uncover what is not hidden.
 
@@ -4730,7 +4732,7 @@ When Aldonza conceived the project for her covenant, she knew it was risky, for 
 
 The creation of Pallantia revitalized the cathedral school of Palencia. Aldonza and Osoro managed to attract great masters of theology and the liberal arts to the school and, for almost half a century, turned Pallantia into a place to which *parentes* could send their apprentices to receive basic formal schooling before becoming magi, in exchange for a token payment of vis. Pallantia also fostered some early discoveries of Gifted children, and at the ordinary Tribunal of 1200 the covenant obtained the status of dedicated covenant for the promotion of Hermetic education in Iberia, for which it received a certain magical and mundane remuneration to carry out its task.
 
-<!-- p. 156 -->
+<!-- p. 156 --><a id="page-156"></a>
 
 > #### Atomist Magic Theory
 >
@@ -4764,7 +4766,7 @@ Pallantia is set on the main street of Palencia, a few meters from the Visigothi
 
 The *studium generale* complex has a chapel where students may go to pray at any time, and rooms that can be rented throughout the school year. The *sancta* of Aldonza and Osoro lie near the river, where they enjoy a weak *lacuna* in which they can carry out their magical research without being hampered by the powerful Divine aura of the city.
 
-<!-- p. 157 -->
+<!-- p. 157 --><a id="page-157"></a>
 
 #### Society and Customs
 
@@ -4788,13 +4790,13 @@ As the driving force behind Pallantia, all she wants is to see its classrooms fu
 
 Aldonza knows that Osoro is sacrificing himself for her; he is a brilliant man, and it grieves her to see him give up his studies for the sake of teaching and the withered dream of Pallantia. Aldonza is aware of the letters Osoro receives every year with offers from other covenants and, although she knows it is a selfish feeling, she wishes with all her heart that Osoro will not leave, for that would mean the end of the covenant.
 
-<!-- p. 158 -->
+<!-- p. 158 --><a id="page-158"></a>
 
 ### Professor Osoro of Bonisagus of Burgos
 
 Osoro is a mature magus who has devoted his whole life to the study of Hermetic theory and who, like Aldonza, has the Gentle Gift. Many in Iberia consider him a genius, and they are not wrong: Osoro was the true architect of the pact with Alfonso, which brought Pallantia a brief Summer and also brought down the fines of the Quaesitores. Osoro, however, is neither ambitious nor spiteful, so he does not believe in revenge, nor has he any interest in proving his innocence, for there is no need to prove what anyone versed in logic could easily deduce.
 
-Since 1218 he has had to set aside his Hermetic research (see insert on page 155), on which he was working together with Marŷān al-Bonisagiyya of Dār Malīḥaʾ, because teaching takes up all his time. In response, his colleague has asked him to leave, and although Osoro knows that Pallantia's days are numbered, he cannot bring himself to abandon Aldonza. And so the man many Iberian scholars regard as the new Isidore spends his days humbly teaching the students who arrive each year in the lecture halls of the Palencia *studium generale*.
+Since 1218 he has had to set aside his Hermetic research (see insert on [page 155](#page-155)), on which he was working together with Marŷān al-Bonisagiyya of Dār Malīḥaʾ, because teaching takes up all his time. In response, his colleague has asked him to leave, and although Osoro knows that Pallantia's days are numbered, he cannot bring himself to abandon Aldonza. And so the man many Iberian scholars regard as the new Isidore spends his days humbly teaching the students who arrive each year in the lecture halls of the Palencia *studium generale*.
 
 > #### Story Seeds: Atomist Magic Theory
 >
@@ -4827,7 +4829,7 @@ Tertia was founded by the Hermetic sister of Somnus, for both had been trained a
 >
 > With Tertia's fall, the sources passed into the possession of Salionca, which has stopped harvesting them in recent years. If the player characters were to find out, they could try to exploit them. Furthermore, if Salionca were eventually to disappear, the source would become theirs. Of course, the characters need not know of the pact that Aedes Saturni and Duresca have made with Salionca, which could lead to an interesting situation between the characters' covenant and two of the most powerful covenants of the Tribunal.
 
-<!-- p. 159 -->
+<!-- p. 159 --><a id="page-159"></a>
 
 After Átropo's death, the Asturian nobility granted the rights to Clavijo to Fata *filia* Átropo of Tremere, who took the reins of Tertia after the Sundering. Fata continued the established policy toward the Qasī, so that when the Tremere of Tremébriga (Acutus and Tremula Flamma) arrived, she persuaded Musā ibn Musā to sell them a plot of his lands on which to build their covenant. With the founding of Tremébriga, however, Tertia was relegated to second place. Among its duties, Tertia was charged with maintaining relations with the Qasī, but when Musā's weak son, Lubb, swore allegiance to Ordoño I of Asturias, Tremébriga forced Tertia to concentrate on the Asturian Christians. In this way Fata succeeded in gaining the fortress of Clavijo and all its domains, which brought her great profit and influence.
 
@@ -4856,7 +4858,7 @@ When Geralla of Salionca volunteered, she took her apprentice Vitalis with her. 
 
 Izaro never had more than two magi in its ranks; subordinate as it was to the government of Salionca, its votes were cast as a bloc at Tribunals.
 
-<!-- p. 160 -->
+<!-- p. 160 --><a id="page-160"></a>
 
 At the beginning of the tenth century, Izaro became an important whaling port that helped to enrich Salionca still further. In 941, while the rest of the Tribunal was in turmoil over the Duresca manuscripts, Geralla tried to separate Izaro from Salionca. To do so, she took advantage of the period of instability Salionca was going through (the *Comitia Centuriata* was deserted, and barely a year had passed since the expelled and infamous *dictator* Ruiz Sánchez of Flambeau had been murdered) and challenged the only triumvir left in the covenant to Wizard's War. Unfortunately for Izaro, Geralla died in the confrontation, and Vitalis was left alone in charge of the covenant.
 
@@ -4917,9 +4919,9 @@ Vitalis had to prove his loyalty to Salionca, so he was made to sail to the nort
 
 The ruins of Izaro stand on a small, elongated island some five hundred meters long and nearly one hundred and fifty meters across at its widest point. The island has hardly any vegetation and is ringed by sea cliffs, which makes it difficult to reach on days of heavy seas. Izaro lies a kilometer and a half from the nearest point of the coast and on sunny days is clearly visible from the mainland. In 1220 nothing remains of Izaro but ruins.
 
-<!-- p. 161 -->
+<!-- p. 161 --><a id="page-161"></a>
 
-The covenant of Izaro has been plundered many times since Salionca decided to abandon it. The island was not emptied of people immediately, however, but gradually. Its last inhabitants did not leave until the end of the tenth century, when the few remaining families (descendants of Izaro's former inhabitants) were massacred by the *vikingr* (see page 286). Since then, some magi have scoured it in search of magical remains, and Spring magi have even tried to settle it, but Salionca has always managed to make them leave, as it does not want any covenant so close to one of its sources of income.
+The covenant of Izaro has been plundered many times since Salionca decided to abandon it. The island was not emptied of people immediately, however, but gradually. Its last inhabitants did not leave until the end of the tenth century, when the few remaining families (descendants of Izaro's former inhabitants) were massacred by the *vikingr* (see [page 286](#page-286)). Since then, some magi have scoured it in search of magical remains, and Spring magi have even tried to settle it, but Salionca has always managed to make them leave, as it does not want any covenant so close to one of its sources of income.
 
 In 1112, the Flambeau of Salionca held one of the House's gatherings at Izaro, and the apprentices had to manage as best they could to get there in the depths of autumn (indeed, one vanished during the crossing, and many blamed his loss on the serenas of the Cantabrian Sea).
 
@@ -4950,11 +4952,11 @@ The three magi took advantage of the resettlement of the area promoted by the Le
 
 After the conquest of Toledo and the improved defenses of the passes through the central mountains, the magi of Durato began to enjoy periods free of Muslim incursions into their lands. They then began to experience a certain magical and mundane prosperity. Durato specialized in raising sheep and introduced its wool into the English and Flemish markets.
 
-Durato was one of those chiefly responsible for holding the Tribunal together during the period known as "The Disintegration of the Iberian Tribunal." Domingo Garcés al-Trianomī, former apprentice of Ḥafṣa ibn ʿAbbās (the first Praeco of al-Andalus), attained the title of Autumn Tenens (see *Houses of Hermes: True Lineages*, page 13) and acted as mediator throughout the disintegration and at the decisive Tribunal of al-Andalus of 1089, working with the judges of Duresca and the Praecones of both Tribunals. Thanks to Durato, the Tribunal succeeded in having al-Andalus rejoin Iberia peacefully in 1103. In recognition of its work, Durato was rewarded with the title of dedicated covenant, and ever since it has continued to watch over the unity and stability of the Tribunal, always in collaboration with other covenants or groups of magi, such as Duresca, Dār Malīḥaʾ, the Mercer Houses and the Praecones.
+Durato was one of those chiefly responsible for holding the Tribunal together during the period known as "The Disintegration of the Iberian Tribunal." Domingo Garcés al-Trianomī, former apprentice of Ḥafṣa ibn ʿAbbās (the first Praeco of al-Andalus), attained the title of Autumn Tenens (see *Houses of Hermes: True Lineages*, [page 13](#page-13)) and acted as mediator throughout the disintegration and at the decisive Tribunal of al-Andalus of 1089, working with the judges of Duresca and the Praecones of both Tribunals. Thanks to Durato, the Tribunal succeeded in having al-Andalus rejoin Iberia peacefully in 1103. In recognition of its work, Durato was rewarded with the title of dedicated covenant, and ever since it has continued to watch over the unity and stability of the Tribunal, always in collaboration with other covenants or groups of magi, such as Duresca, Dār Malīḥaʾ, the Mercer Houses and the Praecones.
 
 At present Durato is focused on averting the Almohad threat, and it has become involved in mundane affairs to such an extent that, were it any other covenant, it would already have been expelled from the Order. In addition to the influence it wields in North Africa, in 1216, with the help of Dār Malīḥaʾ, it induced a group of important ulema in Seville to launch their campaign to discredit the Almohad rulers, so the maga Nazhūn believes the end of their dominion in the Peninsula is near.
 
-<!-- p. 162 -->
+<!-- p. 162 --><a id="page-162"></a>
 
 #### Setting and Physical Description
 
@@ -4976,7 +4978,7 @@ Throughout its existence, Durato has worked shoulder to shoulder with the Quaesi
 
 The maga Nazhūn, a native of Granada, was apprenticed to Domingo Garcés, so she learned the secrets of the craft by watching her master at work. Through his influence she was named Spring Tenens after passing her House's Gauntlet, and she now carries out the difficult task of neutralizing the Almohad threat and halting the exodus from Iberia, always with the help of the members of the Iberian Chamber, with whom she meets every ten years. Nazhūn must also deal with the other conflicts that arise across the Iberian lands, such as keeping what is happening at Duresca from coming to light, watching the movements of the covenant of ʾAlif, and coping with the constant violations committed by the Andalusi covenant of Chazāʾir, among other things.
 
-<!-- p. 163 -->
+<!-- p. 163 --><a id="page-163"></a>
 
 Nazhūn always travels with her apprentice, the still-child Saʿīd al-Tulaytulī, and with her *amicus*, the *frater* ʿUsfūr-al-Šawk al-Biŷornī, who is so useful to her in learning everything the winds of Iberia carry. Depending on the nature of her journeys, she may also be accompanied by the *fratres* Muʿāwiya or Vitiza, or by the archmage Danāʾ.
 
@@ -5010,7 +5012,7 @@ Muʿāwiya is Durato's resident Redcap. A native of al-Gharb, he was trained at 
 
 The young Muchāhid was Danāʾ's apprentice and, like his *parens*, he is charged with protecting the *fratres* and *sorores* of the covenant and Durato itself. Although he is still very young, he enjoys the protection afforded by the reputation of both Durato and his mistress. In any case, anyone wishing to attack the covenant had better hope that Muchāhid, and not Danāʾ, is the one on guard.
 
-<!-- p. 164 -->
+<!-- p. 164 --><a id="page-164"></a>
 
 ## The Transierra
 
@@ -5033,7 +5035,7 @@ The magi Efrddyl and Gwladus were trained at Duresca, where they lived their fir
 
 Efrddyl and Gwladus built another of Nebula's buildings beside the great lake of Gredos, in the shadow of the peak that would come to be called Almanzor, and raised numerous stone circles at many of the lakes of the range, which they used to perform their rites or to mark ancient places of power of the gods they worshipped.
 
-Nebula took little part in politics during its lifetime. Its name only began to be known when the Schism War broke out, for it helped destroy Tremébriga and took part in the failed attacks against Duresca, Tertia and Salionca. Nebula was the last Diedne covenant of the Tribunal to fall during the war. In the first days of winter of 1017, the forces of the Order, led by the hero and archmage Brutus of Flambeau, razed all its buildings and evaporated its lakes to prevent any other Diedne from escaping through them (see *Realms of Power: Magic*, page 137).
+Nebula took little part in politics during its lifetime. Its name only began to be known when the Schism War broke out, for it helped destroy Tremébriga and took part in the failed attacks against Duresca, Tertia and Salionca. Nebula was the last Diedne covenant of the Tribunal to fall during the war. In the first days of winter of 1017, the forces of the Order, led by the hero and archmage Brutus of Flambeau, razed all its buildings and evaporated its lakes to prevent any other Diedne from escaping through them (see *Realms of Power: Magic*, [page 137](#page-137)).
 
 #### Setting and Physical Description
 
@@ -5049,7 +5051,7 @@ The ruins of Nebula are scattered throughout the central mountain range, almost 
 >
 > At the next ordinary Tribunal (for example, that of 1221), the representative of Aedes Saturni recounts the disappearance of several Redcaps who were mapping the Sierra de Gredos. Anyone who succeeds at an Iberian Tribunal Lore roll of 6+ recalls the uncensored events of the Schism War and remembers how that whole area was once controlled by the Diedne. In exchange for a pawn or two of vis or a book (at the storyguide's discretion), the Tribunal asks for volunteers to investigate the mountains and find the missing Redcaps. If the player characters accept, what will they find in the mountains?
 
-<!-- p. 165 -->
+<!-- p. 165 --><a id="page-165"></a>
 
 ## Toledo
 
@@ -5075,13 +5077,13 @@ When the Christian monarch took the city, Rome succeeded in displacing the Mozar
 
 In 1220, although the Roman rite is the official one, the Mozarabs (who still speak Arabic) outnumber the Latin Castilians, and these in turn outnumber the Mudéjars (who may be free or slaves) and the muwalladūn, who are few in number. Rarer still are Muslims converted to Christianity and Berbers, and Arabs are wholly absent. Because of the large number of Mozarabs, the city has two royal *alcaldes* (assisted by ten nobles): one to deal with the affairs of the Latin Christians and the other with those of the Mozarabs. The Jews, for their part, live in their aljama (*madinat al-yahud*), in numbers somewhat greater than the Muslims.
 
-Moreover, in 1220 Toledo's commercial activity is such that it has no need of fairs (see page 58). In its markets one can find perfumers, bookbinders, spice merchants, potters, tailors, hosiers, cloth shearers, old-clothes dealers, shoemakers, saddlers, esparto workers, druggists, apothecaries (*alatares*), burnishers, moneychangers, smiths, dyers, velvet weavers, goldsmiths, butchers, fishmongers, scabbard makers, crossbow makers and armorers, which makes it a center of interest for all the magi of the Meseta, who can find their rare laboratory materials there without difficulty. Since its conquest, however, trade with al-Andalus has been increasingly restricted. Before 1085, the Toledans traded by mule train with Cordoba, Valencia and Murcia, exporting leather, livestock, weapons, horses, timber (which arrived down the Tagus), honey and rabbit skins, and importing textiles and jewels from the south. Over the years, however, the trade restrictions with the south of the Peninsula grew harsher. Thus in 1118 the export of hides and horses to al-Andalus was forbidden, and in 1138 Alfonso VII exempted Toledans who did not trade with al-Andalus from paying the tithe and the *portazgo* (or *portaticum*, the tax for bringing goods into the city).
+Moreover, in 1220 Toledo's commercial activity is such that it has no need of fairs (see [page 58](#page-58)). In its markets one can find perfumers, bookbinders, spice merchants, potters, tailors, hosiers, cloth shearers, old-clothes dealers, shoemakers, saddlers, esparto workers, druggists, apothecaries (*alatares*), burnishers, moneychangers, smiths, dyers, velvet weavers, goldsmiths, butchers, fishmongers, scabbard makers, crossbow makers and armorers, which makes it a center of interest for all the magi of the Meseta, who can find their rare laboratory materials there without difficulty. Since its conquest, however, trade with al-Andalus has been increasingly restricted. Before 1085, the Toledans traded by mule train with Cordoba, Valencia and Murcia, exporting leather, livestock, weapons, horses, timber (which arrived down the Tagus), honey and rabbit skins, and importing textiles and jewels from the south. Over the years, however, the trade restrictions with the south of the Peninsula grew harsher. Thus in 1118 the export of hides and horses to al-Andalus was forbidden, and in 1138 Alfonso VII exempted Toledans who did not trade with al-Andalus from paying the tithe and the *portazgo* (or *portaticum*, the tax for bringing goods into the city).
 
 #### The Pogroms of Toledo
 
 Sadly, the city of Toledo has witnessed three terrible attacks on its Jewish population by its other citizens. The first pogrom took place in 1108, after the defeat at Uclés: the populace blamed the Jews for it, for having bought Christian prisoners to sell as slaves. The second took place in 1175 and ended with the murder of the city's rabbi. The last occurred in 1212, when the European crusader armies attacked the aljama, and the knights of the city came to the aid of their Sephardic neighbors.
 
-<!-- p. 166 -->
+<!-- p. 166 --><a id="page-166"></a>
 
 > #### The Fall of Toledo (1085)
 >
@@ -5119,7 +5121,7 @@ Laminium was the first covenant founded entirely by members of House Ex Miscella
 
 A little more than ten years ago, the covenant's council decided to perform a ritual to increase the strength of the aura. After it was carried out, the fabric of the *regio* underwent no change, but a year later its inhabitants suffered a magical shock that sent them into Twilight (in some cases indefinitely) and hurled them, along with the covenant's buildings, into the highest level of the *regio* (see its description below). The magi who did not lose their sanity in the process discovered that this level had an aura of 9 and was apparently uninhabited, so they celebrated in grand style. In 1214, however, the level suffered what the covenant's elders call a pulse, and one of the magi and his *sanctum* vanished without a trace. Things grew worse four years later, when a second pulse brought forth an enormous mist serpent, and the magi had to flee the highest level of the *regio* to save their lives.
 
-<!-- p. 167 -->
+<!-- p. 167 --><a id="page-167"></a>
 
 The elders have been trying to return to the highest level since 1218, since that is where the covenant lies, but as they have no guide they cannot reach it. Furthermore, although they meant to stay on the level immediately below, it proved extremely dangerous, so the magi have been forced to eke out a living in the ruins left after the catastrophe, on the third level of the *regio*. The elders hope that in 1222 (when the next pulse is due) the serpent will disappear and a door will open to the highest level of the *regio*, to which end they have not ceased praying and sacrificing animals to their ancient gods.
 
@@ -5155,7 +5157,7 @@ The next maga in age is Sol Ex Miscellanea. Sol is a *saḥira*, and she was the
 
 Muŷāhid Ex Miscellanea is the last elder of Laminium and, like his companions, he too was gravely affected by the Twilight he underwent during the catastrophe. At first sight he does not seem to have lost his faculties: he still works in his ruined laboratory, he does not neglect his duties (such as lighting the bonfire on the central island that marks the start of the council of elders), and he goes on writing his research on the menhirs. Something in his perception has been unsettled, however: Muŷāhid reveres Anas
 
-<!-- p. 168 -->
+<!-- p. 168 --><a id="page-168"></a>
 
 > #### Nuʿum Ex Miscellanea
 >**Characteristics:** Int +3, Per –2, Pre +2, Com +1, Str +1, Sta +2, Dex +1, Qik +1<br>
@@ -5204,7 +5206,7 @@ Muŷāhid Ex Miscellanea is the last elder of Laminium and, like his companions,
 >
 > *Wizard's Sidestep* (ReIm 10/+19)
 >
-> *Suleimān's Wrath upon the Treacherous Jinni* (PeVi 25/+18; see page 299)
+> *Suleimān's Wrath upon the Treacherous Jinni* (PeVi 25/+18; see [page 299](#page-299))
 >
 > *Circular Ward against Jinn* (ReVi 30/+32)\*
 >
@@ -5217,7 +5219,7 @@ Muŷāhid Ex Miscellanea is the last elder of Laminium and, like his companions,
 >
 >**Appearance:** Nuʿum is a young woman of Arab descent with an androgynous beauty. Her skin is dark, almost jet-black; her eyes are dark (with exceedingly long lashes), her features angular and attractive, and her voice has the sweet timbre of a contralto. Although she has beautiful black hair, she always wears it short, in the style of the Castilian nobles, which, together with her build, her armor and her weapons, gives her the look of a handsome young man. Indeed, it is an image she feels comfortable with, for she abhors the garments that others might call "feminine."
 
-<!-- p. 169 -->
+<!-- p. 169 --><a id="page-169"></a>
 
 as a god. He has raised altars in his name and venerates his duck form to the point of prostrating himself whenever Anas addresses him.
 
@@ -5255,7 +5257,7 @@ The rest of the young magi, Ibn Muŷāhid Ex Miscellanea, Yulyān ibn Muŷāhid 
 >**Reputations:** Library (Iberian Tribunal) 6, Scribal Workshop (local) 3<br>
 >**Votes:** 8
 
-<!-- p. 170 -->
+<!-- p. 170 --><a id="page-170"></a>
 
 Iššáh (from the Andalusi Arabic for "chessboard square") was born after the fall of the caliphate and took root amid the disintegration of Iberia, together with the other covenants that made up the Tribunal of al-Andalus during the eleventh century.
 
@@ -5295,7 +5297,7 @@ The covenant's prestige grew still further when, at the ordinary Tribunal of 115
 
 The covenant of Iššáh lies within the walls of the city of Toledo. Close to the Alcántara gate, it uses the front of a scribal workshop to deal with mundane society. Because Iššáh engages in very little political activity, the covenant has been able to live without attracting unwanted attention. However, the "privileged" location chosen by ʿĀtika and Salāmān is not entirely convenient for its current occupants, who miss having a more powerful aura to draw upon in their Hermetic research, for Iššáh is cloaked only by a weak Magic aura of strength 4, which emanates from the ancient Mercurian sanctuary over which the covenant stands. To make matters worse, at Christmas and on Palm Sunday Toledo's Divine aura swallows Iššáh's feeble aura and nullifies all its magical defenses.
 
-<!-- p. 171 -->
+<!-- p. 171 --><a id="page-171"></a>
 
 The small workshop that serves as Iššáh's front stands on a narrow street. Once past the first mundane rooms, the covenant opens out and is arranged around a spectacular, light-filled inner courtyard planted with all kinds of ornamental plants (though without trees that might block the light the scribes need so badly). The great windows of Iššáh's large *scriptorium* face south onto this courtyard.
 
@@ -5305,7 +5307,7 @@ The small workshop that serves as Iššáh's front stands on a narrow street. On
 >
 > The fall of Toledo in 1085 gave Castile the treasure of the royal library of the Banū Ḏū-l-Nūn dynasty, the only one in the whole Peninsula devoted entirely to the sciences of the ancients. With such archives, the Cluniac monk Raymond de Sauvetat (named archbishop of Toledo in the twelfth century) began what would become the cultural reform that ushered in what might be considered the renaissance of the twelfth century.
 >
-> Raymond gathered and directed a group of translators, whom he lodged in rooms of the episcopal palace he had ordered built for that purpose. Following the translations made in Saragossa, Tarazona and Tudela during the first half of the twelfth century (and during the eleventh century at Ripoll; see page 205), Toledo took up the baton and produced the greatest number of translations of the books of philosophy, mathematics and classical knowledge that had reached the Peninsula after being copied in Baghdad. A great number of scholars came together in Toledo, working in two stages: first they translated from Arabic into the Romance tongue (generally a Jew or a Mozarab read the text and translated it aloud), and then another translator rendered the text into learned Latin or, from a certain point in the school's history onward, directly into Castilian. But it was not only translations: the sages who came to Toledo also sometimes left works of their own, almost always of great quality.
+> Raymond gathered and directed a group of translators, whom he lodged in rooms of the episcopal palace he had ordered built for that purpose. Following the translations made in Saragossa, Tarazona and Tudela during the first half of the twelfth century (and during the eleventh century at Ripoll; see [page 205](#page-205)), Toledo took up the baton and produced the greatest number of translations of the books of philosophy, mathematics and classical knowledge that had reached the Peninsula after being copied in Baghdad. A great number of scholars came together in Toledo, working in two stages: first they translated from Arabic into the Romance tongue (generally a Jew or a Mozarab read the text and translated it aloud), and then another translator rendered the text into learned Latin or, from a certain point in the school's history onward, directly into Castilian. But it was not only translations: the sages who came to Toledo also sometimes left works of their own, almost always of great quality.
 >
 > From its beginning in the mid-twelfth century to its end in the early thirteenth, the life of the school of translators passed through two distinct stages.
 >
@@ -5319,7 +5321,7 @@ The small workshop that serves as Iššáh's front stands on a narrow street. On
 >
 > - Johannes Hispalensis, who translated Abulmasar's books on astronomy *Introductorium maius* and *De magnis coniunctionibus et annorum revolutionibus*, as well as Avicenna's *Book of Healing*.
 >
-> - Hermann the Dalmatian. A Slavic cleric who translated Ptolemy's *Planisphere* with the commentaries of the mathematician Maslama (see page 287), and the *Introduction to Astronomy* of the Persian Albumasar, which had already been translated into Latin by Johannes Hispalensis.
+> - Hermann the Dalmatian. A Slavic cleric who translated Ptolemy's *Planisphere* with the commentaries of the mathematician Maslama (see [page 287](#page-287)), and the *Introduction to Astronomy* of the Persian Albumasar, which had already been translated into Latin by Johannes Hispalensis.
 >
 > ##### The Second Stage (Late Twelfth and Early Thirteenth Centuries)
 >
@@ -5335,7 +5337,7 @@ The small workshop that serves as Iššáh's front stands on a narrow street. On
 >
 > [^p171-XI]: Excerpt from *The Treatise of Ibn ʿAbdūn* (Spanish translation by Emilio García Gómez and E. Levi-Provençal).
 
-<!-- p. 172 -->
+<!-- p. 172 --><a id="page-172"></a>
 
 The magi's *sancta* are on the upper floor, as is the council chamber, and the great library lies in the cellars, where the books are more easily preserved. The chamber that holds Iššáh's countless tomes once housed the treasures of the Visigoths, and it is decorated with exquisite marble and jade. Moreover, this hall is protected by all manner of spells that keep its humidity and temperature constant and shield the precious codices from any outside agent (such as fire, water or vermin).
 
@@ -5349,7 +5351,7 @@ On the outskirts of Toledo, Iššáh keeps in working order the anaphoric clock 
 >
 > ##### The Mechanics of Chess
 >
-> Each player draws lots for color, red or black (red moves first), and may bring their own pieces (there is a whole Hermetic market for them; see *Houses of Hermes: True Lineages*, page 95). To resolve the match, each round the players make opposed rolls based on the following total, using the new Chess Ability described on page 310.
+> Each player draws lots for color, red or black (red moves first), and may bring their own pieces (there is a whole Hermetic market for them; see *Houses of Hermes: True Lineages*, [page 95](#page-95)). To resolve the match, each round the players make opposed rolls based on the following total, using the new Chess Ability described on [page 310](#page-310).
 >
 > **Chess Total:**
 >
@@ -5375,7 +5377,7 @@ When al-Dhahabī's former rector left the covenant, its members changed not only
 
 The *scriptorium* is in charge of copying the books, both Hermetic and mundane, that reach the covenant, and of their making (illumination, sewing, binding, creating resonances and so on), as well as the upkeep and manufacture of the materials needed to produce them. The *bibliotheca* is responsible for acquiring new manuscripts (by purchase or exchange), maintaining and preserving the books in the collection, keeping the covenant's catalogue up to date, and selling or recycling whichever volumes it sees fit. Lastly, the department of *oeconomia* handles the covenant's accounts (both Hermetic and mundane), and in its power lies the decision to approve or reject requests for money or vis from the other departments. This department is also charged with harvesting and maintaining Iššáh's vis sources.
 
-<!-- p. 173 -->
+<!-- p. 173 --><a id="page-173"></a>
 
 Besides renting out and selling books, Iššáh owns several hectares of vineyards (next to the vines that the Castilian monarchs own in the fields of Toledo), keeps a small fishery of eels, barbel and lampreys (on the river meadows of the Tagus), and holds the rights to work several mills on the Tagus (where they grind wheat, barley and rye from the local fields).
 
@@ -5387,7 +5389,7 @@ At Iššáh, all its inhabitants speak Arabic as their first language and Hebrew
 
 ##### Scriba maior Sitt Nasim al-Bagdadiyya al-Tremeriyya
 
-Sitt Nasim is the oldest maga of the covenant and a possible candidate for Praeco (see page 333). She came to the Tribunal at the end of the eleventh century, after founding, together with Anteo, the covenant of Victrix, home to her superior, the Exarch of Iberia and Provence, Medea of Tremere. Sitt Nasim holds five voting *sigils*: her own, those of three of her apprentices, and one belonging to her apprentice's apprentice, and in the not-too-distant future she will try to get those of her lineage who remain at Iššáh to move to other covenants.
+Sitt Nasim is the oldest maga of the covenant and a possible candidate for Praeco (see [page 333](#page-333)). She came to the Tribunal at the end of the eleventh century, after founding, together with Anteo, the covenant of Victrix, home to her superior, the Exarch of Iberia and Provence, Medea of Tremere. Sitt Nasim holds five voting *sigils*: her own, those of three of her apprentices, and one belonging to her apprentice's apprentice, and in the not-too-distant future she will try to get those of her lineage who remain at Iššáh to move to other covenants.
 
 She is currently head of the *scriptorium* department. As such, she is responsible for copying every book that reaches the covenant and for assessing which ones may be in greatest demand so that they can be improved, and thus exchanged or sold for larger quantities of vis or better enchanted items. Sitt Nasim runs the covenant's binding workshops, which employ more than fifty workers (binders, copyists, ink-makers and so on).
 
@@ -5407,7 +5409,7 @@ Abū Dulaf is the one who chooses the volumes for the winners of the chess tourn
 
 Al-Aʿmaš was Abū Dulaf's apprentice and, as with his master, his voting *sigil* is held by Sitt Nasim. The young Tremere spends little time at the covenant, for he is almost always coming and going from one place to another to acquire the books his master demands. And he does it rather well, partly thanks to his good looks, his melodious voice, his skill with the *būq* and his overflowing charisma.
 
-<!-- p. 174 -->
+<!-- p. 174 --><a id="page-174"></a>
 
 ##### Bibliothecarius minor Abraham ben David al-Bonisagī
 
@@ -5415,13 +5417,13 @@ Abraham ben David is a great writer; his reflections and lucidity are valuable e
 
 ##### Bibliothecaria minor Agar al-Merkeriyya
 
-The Redcap Agar is a native of Egypt. She was trained at Porta Pandere, and her love of chess (as well as her Jewish faith) brought her to the covenant of Iššáh. Agar works for the Order and, as such, serves as messenger for several covenants near Toledo. However, she also travels the whole Tribunal to show Iššáh's catalogue of books to the covenants she visits, or to obtain the books the *bibliothecarius maior* commissions from her. Although she usually carries a volume or two with her, she generally gathers the requests and wishes of the magi she visits to discuss them with Abū Dulaf and Meʾir ibn Yosef, so that the purchase or sale can be closed at the next Tribunal. Naturally, as a keen chess player (see *Houses of Hermes: True Lineages*, page 95), Agar never misses the chance to play a game of chess and, as a keen collector, she works on new pieces which she then sells to the magi who are still interested in them.
+The Redcap Agar is a native of Egypt. She was trained at Porta Pandere, and her love of chess (as well as her Jewish faith) brought her to the covenant of Iššáh. Agar works for the Order and, as such, serves as messenger for several covenants near Toledo. However, she also travels the whole Tribunal to show Iššáh's catalogue of books to the covenants she visits, or to obtain the books the *bibliothecarius maior* commissions from her. Although she usually carries a volume or two with her, she generally gathers the requests and wishes of the magi she visits to discuss them with Abū Dulaf and Meʾir ibn Yosef, so that the purchase or sale can be closed at the next Tribunal. Naturally, as a keen chess player (see *Houses of Hermes: True Lineages*, [page 95](#page-95)), Agar never misses the chance to play a game of chess and, as a keen collector, she works on new pieces which she then sells to the magi who are still interested in them.
 
 ##### Administrator maior Meʾir ibn Yosef al-Ŷerbitonī
 
 The former *rosh yeshiva* of Lucena, Meʾir ibn Yosef, is responsible for the covenant's mundane and magical wealth. As such, he is charged with obtaining the greatest return from each of Iššáh's holdings. Meʾir has just acquired the important vis sources that belonged to the recently vanished Harra, and the secret of how to exploit some of the sources of forgotten Laminium. Thanks to his work, Iššáh is about to enter its Autumn and, after enjoying a Summer of almost 200 years, it promises to be a glorious period.
 
-Meʾir is deeply involved in the Jewish affairs of the city of Toledo. In fact, he is one of the *dayaním* (see page 15) and still teaches at the city's *yeshiva* (Talmudic academy). During the pogrom of 1212, Meʾir was gravely wounded trying to defend his people. Since that year he has been weighing a move to another covenant, but for now he still prefers the refined life of Toledo to the ignorance of other, safer cities.
+Meʾir is deeply involved in the Jewish affairs of the city of Toledo. In fact, he is one of the *dayaním* (see [page 15](#page-15)) and still teaches at the city's *yeshiva* (Talmudic academy). During the pogrom of 1212, Meʾir was gravely wounded trying to defend his people. Since that year he has been weighing a move to another covenant, but for now he still prefers the refined life of Toledo to the ignorance of other, safer cities.
 
 ##### Administratrix minor Zaida al-Ŷerbitoniyya
 
@@ -5447,7 +5449,7 @@ Eio chose the name Harra for the ancient volcanic origin of the Campo de Calatra
 
 In the last quarter of the tenth century, Harra was chosen by the Tribunal to house the Mercere portal *Undecimus*, which linked it with Porta Pandere. As a result, the *praefectus praetorio* (or *ḥárisun*, as the office later came to be called) of the Portuguese Mercer House had to be chosen from among the Flambeau of the covenant of Harra, which thus became the first dedicated *saḥira* covenant (though always with a Flambeau presence).
 
-<!-- p. 175 -->
+<!-- p. 175 --><a id="page-175"></a>
 
 As Andalusis, the magi of Harra did not take part in the Schism War and voted in favor of the secession of al-Andalus. During "the Disintegration" almost all its members were already Flambeau, and years later the covenant became involved in mundane intrigues, supporting the figure of the Wolf King. However, while Munio Alfonso Garcés al-Flambī was Praeco, Harra set aside its mundane interests so that the Tribunal could negotiate with the Almohads, which worked until, in 1190, the magi were condemned in Seville. Then, at the close of the Tribunal of 1193, the members of Harra convened an unofficial Tribunal whose attendees swore to stop the followers of Ibn Tūrmat, and in 1195 the opportunity arose to fulfill their promise. The magi of Harra who did not go to Alarcos were expelled from the covenant, while those who did go died. After the battle of Alarcos, the covenant of Harra was destroyed.
 
@@ -5481,9 +5483,9 @@ When Maslama foretold the ruin of the caliphate (before the Corruption of House 
 
 Aẓm Alfíl was not officially constituted until the first Tribunal of al-Andalus, in 1012. Throughout its life it produced excellent work in ivory and continued the labor Faŷrun had carried out until then in the palatine city of Madīnat al-Zahrāʾ, from which she took her African contacts so that she could go on importing the precious ivory of the Maghreb.
 
-Faŷrun made works for emirs and kings and trained two apprentices: Catena (who left for Duresca after completing her Gauntlet) and ʾAbyaḍun. All manner of exquisite crafts came out of her workshops and made Aẓm Alfíl prosper, but its fortunes changed when one of Faŷrun's agents secured the trading rights of an important client of Ajabeba. Relations between the two covenants grew strained and several vendettas were declared (see *Houses of Hermes: Mystery Cults*, page 199), until presumably one of them ended Faŷrun's life while she was traveling across the Mediterranean toward Barcelona. When the news reached the covenant, ʾAbyaḍun wrote to the Primus and swore revenge, but he could not keep his word, for a few months later (in 1177) Alfonso VIII of Castile conquered Cuenca. Soon all the Muslims had to leave the city: his workshop assistants departed, and ʾAbyaḍun had to emigrate and abandon the forge.
+Faŷrun made works for emirs and kings and trained two apprentices: Catena (who left for Duresca after completing her Gauntlet) and ʾAbyaḍun. All manner of exquisite crafts came out of her workshops and made Aẓm Alfíl prosper, but its fortunes changed when one of Faŷrun's agents secured the trading rights of an important client of Ajabeba. Relations between the two covenants grew strained and several vendettas were declared (see *Houses of Hermes: Mystery Cults*, [page 199](#page-199)), until presumably one of them ended Faŷrun's life while she was traveling across the Mediterranean toward Barcelona. When the news reached the covenant, ʾAbyaḍun wrote to the Primus and swore revenge, but he could not keep his word, for a few months later (in 1177) Alfonso VIII of Castile conquered Cuenca. Soon all the Muslims had to leave the city: his workshop assistants departed, and ʾAbyaḍun had to emigrate and abandon the forge.
 
-<!-- p. 176 -->
+<!-- p. 176 --><a id="page-176"></a>
 
 After the conquest, Cuenca was resettled as a royal town (*realengo*), a hospital for captives run by the Order of Santiago was established, it was made an episcopal see, and it was granted the famous fuero of Cuenca, with 950 laws, among them the one stating that anyone who went on a raid (*algara*) against the Moors would receive a fifth of whatever was won by it.
 
@@ -5495,7 +5497,7 @@ At the foot of the high walls of the gorges of the Huécar river there are hollo
 >
 > Faŷrun's former apprentice, ʾAbyaḍun, left Cuenca in the most utter destitution. Since he departed, more than fifty years ago, no one has seen him again. The Verditius of Ajabeba suspect that he may have drowned trying to cross the Mediterranean to carry out his revenge, but this is no more than speculation. ʾAbyaḍun is the only one who remembers the ivory-working techniques of the Umayyad Caliphate, a craft that has been forgotten over the years. The characters' covenant might find some evidence of this Verditius, perhaps one of his works, and follow his trail until they reach him. Perhaps they can persuade him to join the covenant or, if he is dead, they might gather up and study all his magical treasures.
 
-<!-- p. 177 -->
+<!-- p. 177 --><a id="page-177"></a>
 
 # VII. The Kingdom of Navarre
 
@@ -5527,11 +5529,11 @@ Leaving aside the territories of the Provençal Tribunal, the kingdom of Navarre
 | Secunda | 810–848 |
 | Andelos | 1095–1165 |
 
-<!-- p. 178 -->
+<!-- p. 178 --><a id="page-178"></a>
 
 ## Tierra Estella
 
-Tierra Estella is divided from west to east by the course of the Arga river and is the westernmost region of Navarre, with cities such as Estella itself (an important stop on the Way of Saint James, see page 127), Inzura, Marañón, Los Arcos, Viana, Laguardia, Mendavia, Cárcar and Olite, among others. The north of the region is dominated by the Sierra de Urbasa and the Sierra de Andía, home to the kingdom's highest point (Beriáin, more than 1,400 meters above sea level) and to abundant forests of beech, oak and Portuguese oak. The south of the region has a gentler relief, dominated by the depression of the Ebro valley (whose course marks the border with the Crown of Aragon), which is dotted with numerous stands of holm oak, evergreen oak woods and kermes-oak thickets.
+Tierra Estella is divided from west to east by the course of the Arga river and is the westernmost region of Navarre, with cities such as Estella itself (an important stop on the Way of Saint James, see [page 127](#page-127)), Inzura, Marañón, Los Arcos, Viana, Laguardia, Mendavia, Cárcar and Olite, among others. The north of the region is dominated by the Sierra de Urbasa and the Sierra de Andía, home to the kingdom's highest point (Beriáin, more than 1,400 meters above sea level) and to abundant forests of beech, oak and Portuguese oak. The south of the region has a gentler relief, dominated by the depression of the Ebro valley (whose course marks the border with the Crown of Aragon), which is dotted with numerous stands of holm oak, evergreen oak woods and kermes-oak thickets.
 
 Although Tierra Estella has abundant vis sources (once in the hands of Salionca), the greatest riches lie in the lands to the north, in the Provençal Tribunal, which has led to more than one dispute over resources between the two Tribunals.
 
@@ -5546,7 +5548,7 @@ At present, the region of Tierra Estella is home to the covenant of al-Quṣṣ�
 >**Reputations:** Foreigners (Iberian Tribunal) 1<br>
 >**Votes:** 2 (3)
 
-The covenant of al-Quṣṣāṣ (Arabic for "the storytellers") is a young Merinita covenant whose members belong to the group known as the Keepers of the Thousand Tales (see *Houses of Hermes: Mystery Cults*, page 145).
+The covenant of al-Quṣṣāṣ (Arabic for "the storytellers") is a young Merinita covenant whose members belong to the group known as the Keepers of the Thousand Tales (see *Houses of Hermes: Mystery Cults*, [page 145](#page-145)).
 
 #### History
 
@@ -5556,7 +5558,7 @@ Although Oriolfi and Ibn ʿAbdūs had found a place in al-Andalus to raise their
 
 The members of al-Quṣṣāṣ began to travel the towns and cities of northern Navarre to hear their legends and so compile them. Having been raised on Eastern and Andalusi tales, the two magi struggled to adapt to their new surroundings and to get the measure of the faeries of the place where they lived. In the early years, Ibn ʿAbdūs misread a fable and ended up offending an important local faerie. The faerie laid a trap for him, and he ended up accused of a mundane crime, which led to his capture while he was resting at an inn in Estella. To keep Oriolfi from searching for him, the faeries threatened him and offered him a bargain: if he completed the training of Roderick, a Gifted child the faeries held captive, they would tell him where Ibn ʿAbdūs was. So Oriolfi agreed and trained the boy, who had the blood of giants, until, in 1214, he was made a magus and given the Hermetic name Ojarra.
 
-<!-- p. 179 -->
+<!-- p. 179 --><a id="page-179"></a>
 
 Although six years have passed since Ojarra swore the Code, the faeries have still not contacted Oriolfi. In fact, he will hear nothing from them until 1221, when he will receive a visit from a wolfish faerie who will tell him where Ibn ʿAbdūs is imprisoned. After more than thirty years, Oriolfi will go in search of him and, if possible, and if the Navarrese faeries and the judges of Duresca allow it, will flee with him back to al-Andalus, where perhaps his old allies, the faeries of the Valencian marshes, may be able to help them.
 
@@ -5590,7 +5592,7 @@ As members of the Keepers of the Thousand Tales, Oriolfi and the wolfish, gigant
 >
 > [^p179-XII]: Excerpt from the *Codex Calixtinus*, anonymous (Spanish translation by Millán Bravo Lozano).
 
-<!-- p. 180 -->
+<!-- p. 180 --><a id="page-180"></a>
 
 #### The Magi of al-Quṣṣāṣ
 
@@ -5658,9 +5660,9 @@ The young magus Ojarra, whom the faeries call "Handia," is one of the bastard so
 >
 > *Wizard's Reach (Animal)* (MuVi 15/+17)
 
-<!-- p. 181 -->
+<!-- p. 181 --><a id="page-181"></a>
 
-<!-- p. 182 -->
+<!-- p. 182 --><a id="page-182"></a>
 
 ### Andelos
 
@@ -5701,7 +5703,7 @@ The lands of Tudela[^p182-24] are the southernmost in the kingdom of Navarre, wi
 
 [^p182-24]: In the mid-thirteenth century the *merindades* of Tudela, Estella, Sangüesa and Pamplona will be created.
 
-<!-- p. 183 -->
+<!-- p. 183 --><a id="page-183"></a>
 
 At present, the region of Tudela is home to the covenant of Barda, which is in dispute over vis sources with the Aragonese covenant of Caium.
 
@@ -5736,7 +5738,7 @@ Barda is perched atop a broad, arid mesa surrounded by deep gullies. From its va
 
 Barda's largest building has room for only three *sancta*, since Yéñego did not think it would ever be occupied by more magi. Barda also has a *castellum aquae*, an impressive cistern that stores the water drawn from a well that only flows in spring, guarded by magical protections so that no one wastes a single drop. The covenant's last building belongs to the grogs: a humble but functional construction. Because of the difference in temperature between night and day, Ansour is in the habit of heating the covenant's chambers by magic, and as a result Barda is beginning to be affected by Warping.
 
-<!-- p. 184 -->
+<!-- p. 184 --><a id="page-184"></a>
 
 In 1220, Ansour keeps the few books Barda owns in his *sanctum*, since the covenant lacks a library and a council chamber (which Ansour plans to remedy by raising a magical building with the spell *Conjuring the Mystic Tower*, which he has managed to copy thanks to the covenant's surplus vis).
 
@@ -5774,9 +5776,9 @@ When Tages completed his apprenticeship, he knew he had traveled only half the r
 
 On his arrival at Barda in 1216, Tages's worst fears seemed confirmed. Ansour, for all his kindly manner and even kinder words, made his hair stand on end from the very first moment, although even now, several years later, he does not know whether he is judging the *ductor* unfairly. As for Šams, her dealings with the jinn rather unsettle someone as fond of peace and quiet as Tages. Yet the magus is also quite perceptive, and in the time he has spent at the covenant he has already seen enough suspicious things to understand Sitt Nasim's purpose in sending him there. Barda seems to have material resources far beyond what would be expected of such a covenant, and although Tages has not yet discovered where they come from, he knows that this is the key to taking control of the covenant and, with a little luck, getting rid of Ansour… if he can summon the courage to do it.
 
-<!-- p. 185 -->
+<!-- p. 185 --><a id="page-185"></a>
 
-<!-- p. 186 -->
+<!-- p. 186 --><a id="page-186"></a>
 
 Recently, Tages has met Stellatus, one of the Bjornaer followers of Caium, who seems determined to rouse his covenant from its torpor and uncover those responsible for the thefts from its vis sources. Stellatus has spoken with Tages on a couple of occasions, trying to draw out of him what part Barda might have played in those thefts, but the Tremere, unaware of all Ansour's machinations, has not yet begun to put two and two together…
 
@@ -5847,13 +5849,13 @@ In his first years, Somnus worked with Tello of Guernicus, *filius* of Ranemiro 
 
 By 822, Somnus had won the trust of many of his Peninsular *sodales*, and he finished writing his name into the history of Iberia when he acted as host for Priamitus's visit and, together with Tello, expanded the illegitimate Peripheral Code of the Peninsula, which granted the Mercere a series of privileges (still in force to this day). By that same year, Átropo had consolidated her relations with the Qasī of Arnedo and, thanks to them, was able a few years later to raise the covenant of Tertia, barely two days' journey to the west, to strengthen Tremere's plan to dominate the Order.
 
-In his eagerness to strengthen the trust the magi had placed in him, Somnus expanded the Peninsular pseudo-code again in 836, and managed to have one of the Quaesitores of Magvillus join the covenant to cover up each of the violations of the Code he committed over all those years. Secunda was involved, together with Tertia, in the summons issued in 845 by the king of Asturias, Ramiro I (see page 69), and was finally abandoned in 848, after Somnus and the rest of the covenant's members were nullified following the Sundering.
+In his eagerness to strengthen the trust the magi had placed in him, Somnus expanded the Peninsular pseudo-code again in 836, and managed to have one of the Quaesitores of Magvillus join the covenant to cover up each of the violations of the Code he committed over all those years. Secunda was involved, together with Tertia, in the summons issued in 845 by the king of Asturias, Ramiro I (see [page 69](#page-69)), and was finally abandoned in 848, after Somnus and the rest of the covenant's members were nullified following the Sundering.
 
 #### Setting and Physical Description
 
 Half a day's journey from Tudela, the ruins of Secunda lie beside a meander on the north bank of the Ebro, near a small river beach sheltered by abundant vegetation. In its day it was a majestic covenant with lush gardens where the magi could stroll beside the river. After the Sundering, its finest crafted works were plundered by other covenants, and the building was left abandoned and in ruins.
 
-<!-- p. 187 -->
+<!-- p. 187 --><a id="page-187"></a>
 
 In 1220, the old walls rise no more than a meter from the ground and have been overrun by the abundant, lush vegetation of the Ebro's floodplain; no one could tell that these stones once belonged to a powerful Tremere covenant.
 
@@ -5871,13 +5873,13 @@ In 1220, the old walls rise no more than a meter from the ground and have been o
 
 ## The Lordship of Albarracín
 
-The independent lordship of Albarracín is ruled by Don Pedro Fernández de Azagra (a vassal of the king of Aragon as lord of Estella), and, unlike the Crown of Aragon, some Muslims still live there. Albarracín has an active transhumant herding trade (see page 164) that stretches from the Sierra de Albarracín to the basins of the Júcar and the Segura, on a route twenty days long.
+The independent lordship of Albarracín is ruled by Don Pedro Fernández de Azagra (a vassal of the king of Aragon as lord of Estella), and, unlike the Crown of Aragon, some Muslims still live there. Albarracín has an active transhumant herding trade (see [page 164](#page-164)) that stretches from the Sierra de Albarracín to the basins of the Júcar and the Segura, on a route twenty days long.
 
 The lordship lies between the borders of the Crown of Aragon and Castile, and is crossed from east to west by the Guadalaviar river, the same river that encircles the hill on which the city and fortress of Albarracín are built. To the north and south, the region is guarded by mountain ranges under 2,000 meters high, where rivers such as the Tagus and the Júcar rise, and where towns such as Codoniat and Foya de la Grulla, among others, can be found.
 
 Despite its natural wealth and its vis sources, the lordship of Albarracín has never been home to a covenant (the nearest is the extinct Aẓm Alfíl, in Castile), so it could make a good starting place for player characters.
 
-<!-- p. 188 -->
+<!-- p. 188 --><a id="page-188"></a>
 
 # VIII. The Crown of Aragon
 
@@ -5914,7 +5916,7 @@ From a Hermetic point of view, the Crown can be divided into two great regions: 
 
 The kingdom of Aragon occupies the northwestern half of the Crown and stretches from the county of Ribagorza in the north to the city of Teruel in the south, and from Alcañiz in the east to Calatayud and Tudela, its two westernmost towns. The kingdom is dominated by the city of Saragossa, conquered from the Muslims in 1118, which soon became its capital. It is a city in whose streets the presence of Islam can still be clearly seen, full of contrasts and exotic sights. It was the former capital of the Upper March and is now the base from which the Christian monarchs wage their struggle against the Almohads. Rivaling Saragossa in importance is the city of Huesca, conquered by Pedro I in 1096, which in 1220 is still a town of great political and social significance, not only within the kingdom and the Crown but throughout the Peninsula.
 
-<!-- p. 189 -->
+<!-- p. 189 --><a id="page-189"></a>
 
 Aragon has always had an abundant Hermetic presence, and Saragossa in particular has hosted several covenants within its walls. Today, however, not a single inhabited covenant remains in the city. Even so, it is often visited by the many Redcaps who belong to the goliards, and who take advantage of the city's cosmopolitan character to conduct their business and trade information amid the bustle of its streets. It is one of the few places in all Iberia where goliards can still be found, for they have fallen into disgrace after enjoying great popularity in earlier decades. All manner of stories are told about these Redcaps, foremost among them one that astonished the city a couple of years ago, when the oliphant of Gaston of Béarn was stolen from the basilica of El Pilar for a few days, only to reappear later as if by magic. Although there is no conclusive proof, both the bishop of Saragossa and House Mercere itself suspect that the culprit may have been some unruly Redcap who wanted to play a cruel joke on the Church.
 
@@ -5929,7 +5931,7 @@ Outside Saragossa, almost all the Hermetic covenants that exist in 1220 occupy f
 >**Reputations:** Visionaries (Bjornaer magi) 3, Primitive (Iberian Tribunal) 2<br>
 >**Votes:** 4
 
-<!-- p. 190 -->
+<!-- p. 190 --><a id="page-190"></a>
 
 Caium is an exceedingly unusual covenant, for in more than four centuries of existence it has had almost no contact with the rest of the Tribunal. With a distant past closely tied to House Merinita, it is today an entirely Bjornaer covenant whose members form a fraternity devoted wholly and utterly to the study and investigation of a formidable magical resource.
 
@@ -5939,15 +5941,15 @@ After the founding of the Order of Hermes, many wizards came to Durenmar to join
 
 The group eventually reached the Ordesa valley, a mountainous, forested area south of the Pyrenees in the north of Huesca. However, after trying several possible sites without success, they moved further south until, drawn by the local legends, they came to the Moncayo, one of the highest peaks in the whole Iberian System. The mountain's origin varied from legend to legend: some said the Moncayo was born when a wizard of antiquity turned his three sons into three mountains, each taller than the last: the Moncayo, the Ocejón and the Alto Rey. Others said that in remote times the giant Cacus had taken refuge there, and was later slain by none other than Hercules. The Greek hero buried his enormous body beneath the mountain, which thus came to be known as Mons Cacus, the mountain of Cacus, or Moncayo. Whatever its origin, Didericus and Luitgarde soon found the ideal place to site their covenant. More than 1,000 meters up, in a narrow, hard-to-reach gorge surrounded by forest, they found an ancient cavern from which a strong magical aura emanated, and it was there that they finally decided to settle, at the end of the eighth century.
 
-After Quendalon's victory during the sad events of the House Divided, Didericus was accepted into House Bjornaer by Luitgarde, and little by little the Bjornaer followers gained ascendancy in the covenant. Luitgarde, a member of the Arelie clan (see *Houses of Hermes: Mystery Cults*, page 34), became Caium's sole leader, and it was she who made the discovery that would completely change the covenant's identity. At the end of the ninth century, while enlarging the original cave, the magi found an even older cavern with a powerful magical aura, its walls covered in cave paintings depicting ancient men worshipping what looked like a gigantic humanoid creature with goatlike features, including a pair of great horns. Luitgarde spent months studying those paintings and reached a startling conclusion: this creature was what popular folklore had eventually turned into Cacus, but it was no ordinary giant. She was convinced it was a chimera, one of the mythological beasts around which one of the greatest Mysteries of House Bjornaer revolves (see *Houses of Hermes: Mystery Cults*, page 58). And most important of all, it was a chimera with a human component, something considered impossible in Bjornaer doctrine. Convinced that the chimera's body might lie there, and that its spirit indeed still pervaded that chamber, Luitgarde made the cavern a sacred precinct and abandoned the conventional doctrines of the Arelie clan to devote all her studies to discovering and better understanding the chimera. She thus formed a fraternity wholly independent of the clan, yet one that still followed its original precepts of honoring the memory of the ancestors, and she decided the time had come to approach the Order to constitute her covenant, which would come to be known as Caium, after the name of the mountain, which is covered in snow for much of the year and which the Romans also knew as Mons Caium, the "hoary mountain."
+After Quendalon's victory during the sad events of the House Divided, Didericus was accepted into House Bjornaer by Luitgarde, and little by little the Bjornaer followers gained ascendancy in the covenant. Luitgarde, a member of the Arelie clan (see *Houses of Hermes: Mystery Cults*, [page 34](#page-34)), became Caium's sole leader, and it was she who made the discovery that would completely change the covenant's identity. At the end of the ninth century, while enlarging the original cave, the magi found an even older cavern with a powerful magical aura, its walls covered in cave paintings depicting ancient men worshipping what looked like a gigantic humanoid creature with goatlike features, including a pair of great horns. Luitgarde spent months studying those paintings and reached a startling conclusion: this creature was what popular folklore had eventually turned into Cacus, but it was no ordinary giant. She was convinced it was a chimera, one of the mythological beasts around which one of the greatest Mysteries of House Bjornaer revolves (see *Houses of Hermes: Mystery Cults*, [page 58](#page-58)). And most important of all, it was a chimera with a human component, something considered impossible in Bjornaer doctrine. Convinced that the chimera's body might lie there, and that its spirit indeed still pervaded that chamber, Luitgarde made the cavern a sacred precinct and abandoned the conventional doctrines of the Arelie clan to devote all her studies to discovering and better understanding the chimera. She thus formed a fraternity wholly independent of the clan, yet one that still followed its original precepts of honoring the memory of the ancestors, and she decided the time had come to approach the Order to constitute her covenant, which would come to be known as Caium, after the name of the mountain, which is covered in snow for much of the year and which the Romans also knew as Mons Caium, the "hoary mountain."
 
 From then on, the covenant's direction changed radically. Luitgarde spent the last years of her life almost entirely in the Tomb of Cacus, as the painted cavern came to be called, and in her final months she did not leave her wolf heartbeast form until she vanished without warning in 905, when she was more than 150 years old. Her doctrines lived on through the other members of the fraternity. Although the Tomb of Cacus has always been its heart, from then on the covenant expanded both underground, into new caverns, and onto the nearby slopes, where the more solitary magi carved small dwellings in the rock to house their laboratories and *sancta*. And although Caium has had little contact with the Order, for centuries it has been a place of pilgrimage for many Bjornaer magi, especially the Arelie who wished to learn more about the chimerae. Access to the Tomb of Cacus is strictly controlled, but the members of the fraternity have always been willing to pass on much of the knowledge accumulated over the years.
 
 Unfortunately, this scant contact with the Order has made Caium an oddity, living on the margins of many key events in Hermetic history and even of the protection the Order itself provides. The Schism War passed almost unnoticed on the Moncayo, save for the visit of a few fugitive Diedne from outside Iberia who sought refuge there before continuing their journey. Moreover, many of the vis sources the magi of Caium discovered in their first decades of exploring the Moncayo have been seized or stolen from them over the centuries. This has slowly sunk the covenant into a decadent Winter, with its members, all of them Bjornaer today, focused on the doctrines Luitgarde laid down more than three hundred years ago.
 
-In 1220, the covenant is at a crucial moment that may end in its destruction or lead to a new Spring. On the one hand, they are suffering the harassment of Barda (see insert on page 192), which, combined with their ignorance of the Order, prevents them from defending themselves before a Tribunal. On the other hand, Stellatus, an elderly Arelie magus from the Normandy Tribunal, has recently arrived at the covenant, and although Stellatus and Lacerta share Hermetic ancestors, they hold completely opposed philosophical views. Most importantly, Stellatus knows the Order well, so he could mount a defense that would allow Caium to survive Barda's harassment. However, Stellatus opposes the covenant's central policy and its obsessive study of the Tomb of Cacus, which may provoke a confrontation with Lacerta with unpredictable consequences…
+In 1220, the covenant is at a crucial moment that may end in its destruction or lead to a new Spring. On the one hand, they are suffering the harassment of Barda (see insert on [page 192](#page-192)), which, combined with their ignorance of the Order, prevents them from defending themselves before a Tribunal. On the other hand, Stellatus, an elderly Arelie magus from the Normandy Tribunal, has recently arrived at the covenant, and although Stellatus and Lacerta share Hermetic ancestors, they hold completely opposed philosophical views. Most importantly, Stellatus knows the Order well, so he could mount a defense that would allow Caium to survive Barda's harassment. However, Stellatus opposes the covenant's central policy and its obsessive study of the Tomb of Cacus, which may provoke a confrontation with Lacerta with unpredictable consequences…
 
-<!-- p. 191 -->
+<!-- p. 191 --><a id="page-191"></a>
 
 #### Setting and Physical Description
 
@@ -5959,7 +5961,7 @@ The main cave is some forty meters across and is divided into several chambers s
 
 One of the natural passages leads, through several twists and turns, to the Tomb of Cacus. The entrance to the passage is not only always guarded by a pair of grogs, but is also protected by several illusions and magical effects that will hamper any intruder. The Tomb is a much smaller cave than the main one, barely fifteen meters across, and a deathly silence always reigns within it. The paintings on the walls remain just as Luitgarde found them more than three centuries ago, and the only sign of human presence is a small circle marked out by stones on the floor, inside which lies the mystical paraphernalia of House Bjornaer; it is here that those who study the cave meditate on the Mystery. Only the leader of the fraternity and its most advanced members may enter the Tomb.
 
-<!-- p. 192 -->
+<!-- p. 192 --><a id="page-192"></a>
 
 Visitors are forbidden to enter, and the youngest members of the fraternity must earn the right to enjoy it by demonstrating their wisdom. No one has ever found the body of Cacus, chiefly because no one has looked for it: the Bjornaer followers believe the chimera long ago transcended the physical state and exists solely on the metaphysical plane.
 
@@ -5985,7 +5987,7 @@ Lacerta is the current leader of the fraternity. He is a magus in his nineties, 
 
 Natrix is Lacerta's *filius*, although he is radically different from his *parens*. He too follows Luitgarde's precepts, but he does not share her convictions about the chimera so deeply, probably because he has not experienced any Encounter while in the Tomb. Natrix is an affable, outgoing magus, and it is often he who welcomes visitors to the covenant and imparts the fraternity's wisdom to those who decide to stay and study here or wish to learn more of the Mysteries before continuing their journey. Only his efforts to maintain the most basic logistics of the covenant have kept it from falling into utter chaos, given Lacerta's neglect. His heartbeast is a long grass snake almost two meters in length, which can sometimes unsettle the other initiates somewhat, at least until they discover that he is as harmless in serpent form as in human form. Although Natrix has access to the Tomb of Cacus, he does not often visit it. He is aware of the changes it is working on his *parens* and is not sure he wants to follow the same path. Nevertheless, he is fiercely loyal to Lacerta, and that is why he is one of the chief opponents of Stellatus's reforming theories.
 
-<!-- p. 193 -->
+<!-- p. 193 --><a id="page-193"></a>
 
 ##### Capra Bjornaer
 
@@ -6014,11 +6016,11 @@ Under normal circumstances Stellatus would not have many options: although he is
 
 Mons Niger lies in the Sierra de Alcubierre, at the western end of the Monegros, atop the Dark Mountain (monte Oscuro), so called for the dense forests of black wood that cover its slopes. On the summit of the mountain rises a solitary, very tall tower, which commands unrivaled views over the uninhabited region. The tower is inhabited by only two magi, members of House Tytalus and descendants of those who occupied it in the eleventh century after it had been abandoned by its original occupants. The covenant has almost no dealings with the other covenants of the Tribunal, and many of Iberia's magi are not even aware that it exists.
 
-<!-- p. 194 -->
+<!-- p. 194 --><a id="page-194"></a>
 
 #### History
 
-The Sierra de Alcubierre has been as uninhabited as the rest of the Monegros since time immemorial. For that very reason, it has also occasionally been a refuge for highwaymen, criminals and others who did not wish to be troubled by mundane concerns. Perhaps that is why, during the Muslim invasion of the region in the first half of the eighth century, a pair of *saḥirs* settled on the mountaintop, drawn by its supernatural magical aura. It was they who, using powerful magic, raised the tower that still stands there today, of clearly eastern influence. Legend has it that to do so they enlisted the help of a formidable *jinni*, to whom, in exchange for its services, they granted freedom to roam the whole mountain, provided it did not interfere with the affairs of the tower's inhabitants and their servants (to learn more about the *jinn*, take a look at page 295).
+The Sierra de Alcubierre has been as uninhabited as the rest of the Monegros since time immemorial. For that very reason, it has also occasionally been a refuge for highwaymen, criminals and others who did not wish to be troubled by mundane concerns. Perhaps that is why, during the Muslim invasion of the region in the first half of the eighth century, a pair of *saḥirs* settled on the mountaintop, drawn by its supernatural magical aura. It was they who, using powerful magic, raised the tower that still stands there today, of clearly eastern influence. Legend has it that to do so they enlisted the help of a formidable *jinni*, to whom, in exchange for its services, they granted freedom to roam the whole mountain, provided it did not interfere with the affairs of the tower's inhabitants and their servants (to learn more about the *jinn*, take a look at [page 295](#page-295)).
 
 The *saḥirs* and their descendants occupied the tower for more than two centuries, far from the madding crowd thanks to the terrible stories about the creature that dwelt on the slopes of the Dark Mountain. However, when news began to arrive of the Christian invasion of the kingdoms west of Aragon, the *saḥirs* suddenly and inexplicably abandoned their home. Some say it was for fear that the Sierra de Alcubierre would also be conquered by the Christians, something quite impossible given how inhospitable the region is. Other stories point to a very different reason: the *jinni* that had until then been their guardian had begun to behave erratically and aggressively, probably influenced by the progressive deforestation of the region and its effect on the area's supernatural aura. For several decades the tower stood abandoned until, at the beginning of the eleventh century, two Tytalus magi who were brothers by blood, Gerardo and Guillermo, came to the area, drawn by the legends that told of a strange creature prowling the slopes of the Dark Mountain. Setting themselves the challenge of confronting the creature and taming it for their own benefit, the Tytalus not only achieved their aims (not without problems, it must be said), but also discovered the abandoned tower, still in fairly good condition, on the mountaintop. Indeed, inside it they found something that would serve them to subdue the *jinni* once and for all: a dark gem made of an unknown material, which they would call the "Black Heart."
 
@@ -6034,7 +6036,7 @@ Mons Niger lies atop the Dark Mountain, the second-highest summit in the Sierra 
 
 The covenant has few physical defenses because two factors protect it better than any wall: its remote location and the creature that dwells on the mountain's slopes. The *jinni* has reached a pact with the inhabitants of Mons Niger whereby it does not attack anyone who keeps to the path to the summit. However, the rest of the mountain is its domain, and it seldom shows mercy to any traveler who strays on the way up. Few survive an encounter with it.
 
-<!-- p. 195 -->
+<!-- p. 195 --><a id="page-195"></a>
 
 > #### Hashim, the *Jinni* of Mons Niger
 >**Magic Might:** 23 (Vim)<br>
@@ -6067,7 +6069,7 @@ The covenant has few physical defenses because two factors protect it better tha
 >
 >*Presence*, 0 points, Constant, Imaginem<br>
 >**R:** Arc, **D:** Sun, **T:** Ind<br>
->The *jinni* is aware of everything that happens at Mons Niger. Its only limitation is Mons Niger's current *Aegis of the Hearth*, which prevents it from seeing what the magi do in their tower. More information in *Realms of Power: Magic*, page 105.
+>The *jinni* is aware of everything that happens at Mons Niger. Its only limitation is Mons Niger's current *Aegis of the Hearth*, which prevents it from seeing what the magi do in their tower. More information in *Realms of Power: Magic*, [page 105](#page-105).
 >
 >InMe 30 (Base 2, +4 Arcane Connection, +2 Sun, +1 constant effect, +1 non-Hermetic effect): Greater Power (30 levels, –3 Might cost)
 >
@@ -6098,9 +6100,9 @@ The covenant has few physical defenses because two factors protect it better tha
 >
 > The tower remained abandoned for centuries… until the arrival of Guillermo and Gerardo of Tytalus. Thanks to their Parma Magica, the two Tytalus not only managed to repel the creature's attacks, but also discovered the tower and the Black Heart. The Tytalus restored the tower and investigated the heart, convinced that it had some connection with the creature, but they discovered only one of its powers, the one that allowed the *jinni* to be controlled. They then decided to take turns using the Heart, in the perverse game that Obstinatus and Oboediens still keep up today, centuries later. None of the magi has ever found the way into the *regio*. However, Scisco has recently discovered a hidden grotto in the tower's cellars, and is beginning to believe the Black Heart conceals more powers than it seems. Unfortunately, his magical ability is not yet enough to unravel those secrets, and so far he has also been unable to persuade his *parens* to spend time investigating the prodigious jewel anew.
 
-<!-- p. 196 -->
+<!-- p. 196 --><a id="page-196"></a>
 
-<!-- p. 197 -->
+<!-- p. 197 --><a id="page-197"></a>
 
 As for the tower proper, because of its magical origin each of its floors has a similar layout, with a central chamber surrounded by a stone staircase that runs up the whole interior of the tower, broken by various landings. Four of the floors are reserved for the magi's *sancta*, although only two of them are usually occupied; the other four floors hold the treasury, the library, the meeting room and, on the topmost floor, an observatory that opens onto the hollow part of the dome, at whose base an outer walkway runs all the way around the dome and allows the landscape to be observed for several kilometers around.
 
@@ -6132,7 +6134,7 @@ Oboediens is a magus in his nineties, the current champion of Hippias's philosop
 >
 > The Black Heart is as fragile as any similar jewel, and its destruction would have no effect other than those arising from the loss of its powers: no one could enter the *regio* or control the *jinni* with it, and, naturally, the creature's powers would no longer be affected by the Heart.
 
-<!-- p. 198 -->
+<!-- p. 198 --><a id="page-198"></a>
 
 ##### Obstinatus of Tytalus
 
@@ -6161,7 +6163,7 @@ The eighth century was a period of conflict throughout a newly founded Order of 
 
 The Tremere immediately decided to profit from the situation and soon reached an agreement with Husayn: in exchange for their help against Charlemagne's assault, they wanted a place in the city's underground passages, resources to establish their dwelling there, and peace to study undisturbed. The wali agreed and, for a month, the Frankish troops fought without managing to break the siege, facing all manner of adversities, many of them inexplicable to mere mundanes. The necromancers proved their ability to contribute to the city's defense without drawing attention, and only on rare occasions did they have to resort to their ghostly allies, with the result that when Charlemagne ordered the retreat on learning that the Saxons were invading Francia, stories of a supernatural flavor were already circulating among his troops. Thus Saragossa remained unconquered and the Tremere were able to claim their reward. After putting the agreement with Husayn into effect, the Tremere planned the official constitution of Prima for the Rhine meeting of 791 (at which the covenant of Branugurix in Normandy would be founded). However, they were unable to carry it out, for they had to abandon the covenant in 789.
 
-<!-- p. 199 -->
+<!-- p. 199 --><a id="page-199"></a>
 
 Although the city had a magical *regio* (which in the future would be used by the Unseen Tower), the Tremere preferred to settle underground after performing certain rituals that identified the spot where the ancient amphitheater of Caesaraugusta had once stood. The site was steeped in all the blood shed there in its day, much of it in honor of the Roman gods, and it still retained a faint magical aura. It was the perfect place for the necromancers, who partially restored the amphitheater and enlarged the underground spaces to house their laboratories and other chambers. They then threw themselves into a frenzy of warfare, taking part in many of the conflicts that shook the Tribunal during that decade and even aiding the wali of Saragossa again on a couple of occasions.
 
@@ -6188,7 +6190,7 @@ Prima once occupied a restored section of the ancient amphitheater that stood in
 
 In barely a century and a half of existence, the covenant of Tremébriga became one of the most powerful in Iberia. Founded by Tremere magi who came to the Upper March after the Sundering, Tremébriga was an example of the Tremere's ability to make the most of their resources while working at once for the Order and for their House (to which end they strove to restore their reputation, darkened as it was by the Sundering). Their involvement in the constant conflicts of the Upper March during their first decades, and their close ties first with the Banū Qasī and later with the Tujibids, strengthened their prosperity further still. However, the covenant was destroyed during the Schism War, at the very height of its power.
 
-<!-- p. 200 -->
+<!-- p. 200 --><a id="page-200"></a>
 
 #### History
 
@@ -6204,7 +6206,7 @@ Ibn Sahl was as faithful in his service to the Order as to his own House, and se
 
 During the chaotic years from 1010 to 1013, Tremébriga displayed a muscle and might unusual in so small a covenant. Its magical reserves were formidable, and it possessed not only abundant vis but also powerful magic items that made its few magi almost unstoppable in combat. The Tremere never forgave the Flambeau of Brigantia for siding with the Diedne, and in 1013 the final confrontation took place in Tremébriga's own halls, which were invaded by a Diedne contingent supported by the renegade Flambeau of Brigantia. The invaders arrived without warning, under cover of a potent illusion spell. Ibn Sahl and his companions, taken by surprise and sorely short of resources because of Porta Pandere's refusal to contribute to the war effort, fought with fire and sword through the corridors of their home and struck down many enemies, but their fate was sealed. The Diedne left no one standing (or so they believed), and after finishing off the Tremere they carried away all the considerable plunder they could gather, before setting fire to the interior of the tower. At dawn the next day, a plume of smoke was the only sign of Tremébriga's sorry end.
 
-<!-- p. 201 -->
+<!-- p. 201 --><a id="page-201"></a>
 
 #### Setting and Physical Description
 
@@ -6223,7 +6225,7 @@ Tremébriga stood where the Arba flows into the Ebro, in a fortified tower raise
 >**Aura (type and strength):** Magic, strength 6 (in the *regio*), Divine, strength 2 (in the cellars)<br>
 >**Reputations:** None
 
-<!-- p. 202 -->
+<!-- p. 202 --><a id="page-202"></a>
 
 The Unseen Tower was a modest covenant that stayed on the margins of Tribunal politics, but it made a decisive contribution to the advance of Bonisagus's Hermetic theory.
 
@@ -6258,11 +6260,11 @@ Although it was never a covenant in the strict sense, Qasr al-Surūr (Arabic for
 
 #### History
 
-During the second ordinary Tribunal of al-Andalus, in 1019, the magi present agreed to create a neutral place where they could hold their meetings and share their knowledge and discoveries. At first they considered Cordoba, but the instability of the city, then mired in civil war and not yet fully recovered from the plague that had ravaged it in 1011, led them to reject that option. The Praeco of the Tribunal, Ḥafṣa ibn ʿAbbās al-Bonisagiyya, decided to turn to the riadiins, the mathematicians of Madrid (see page 287), whom she had already consulted to learn what role to adopt during the Schism War. Maslama himself answered Ḥafṣa's request once again with an augury: the Great Hall should be raised in the capital of the Upper March, Saragossa, "in a magical lagoon near where the Tower of the Wise Woman stood and where the Palace of Joy would soon rise." The allusions were far from clear: the Tower of the Wise Woman might refer to the vanished covenant of Conciatta of Bonisagus, while the reference to the "Palace of Joy" was entirely ambiguous. All this baffled the magi of the Order. What could the riadiin mean by those words?
+During the second ordinary Tribunal of al-Andalus, in 1019, the magi present agreed to create a neutral place where they could hold their meetings and share their knowledge and discoveries. At first they considered Cordoba, but the instability of the city, then mired in civil war and not yet fully recovered from the plague that had ravaged it in 1011, led them to reject that option. The Praeco of the Tribunal, Ḥafṣa ibn ʿAbbās al-Bonisagiyya, decided to turn to the riadiins, the mathematicians of Madrid (see [page 287](#page-287)), whom she had already consulted to learn what role to adopt during the Schism War. Maslama himself answered Ḥafṣa's request once again with an augury: the Great Hall should be raised in the capital of the Upper March, Saragossa, "in a magical lagoon near where the Tower of the Wise Woman stood and where the Palace of Joy would soon rise." The allusions were far from clear: the Tower of the Wise Woman might refer to the vanished covenant of Conciatta of Bonisagus, while the reference to the "Palace of Joy" was entirely ambiguous. All this baffled the magi of the Order. What could the riadiin mean by those words?
 
 Ḥafṣa was not willing to take any risks, nor to waste any time. Taking the reference to the "lagoon" as an obvious metaphor for some kind of magical aura, she sent several magi to the city of Saragossa to examine it. Soon the Hermetic embassy located a powerful magical *lacuna* to the north of the city, not far from where the Unseen Tower had stood, on a site that was soon to be built upon. The magi got ahead of events and managed to acquire the land, on which they would raise their Great Hall. For this they turned to Al-Halifa Zuhayr, an architect of Slavic origin living in the city, whom they commissioned to build a luxurious small palace to house their great project. The palace would consist of a great open chamber furnished only with shelves, tables and chairs, which would run without interruption around the perimeter of the enclosure designed and built by Zuhayr. In that inner courtyard a fountain was built and palms and other plants were planted, and the garden was scattered with couches, cushions and armchairs, creating an idyllic setting in which the magi of the whole Tribunal could not only share their knowledge but also enjoy one another's company and debate arcane questions at their ease. That courtyard would be known as the forum of Ḥafṣa and, together with the Great Hall itself, would be the stage for the Tribunals of al-Andalus. On the upper floor a gallery was built from which the garden could be seen in all its splendor, and which gave access to the laboratories fitted out on the premises for anyone who wished to use them.
 
-<!-- p. 203 -->
+<!-- p. 203 --><a id="page-203"></a>
 
 In the Great Hall, Tribunals always began one day before the winter solstice; by then, those attending had to have taken part in the renewal of the *Aegis of the Hearth*. Then, between one Hermetic event and the next, banquets were held to the music of the artists present while knowledge, anecdotes and discoveries were shared.
 
@@ -6282,7 +6284,7 @@ The situation of the Great Hall changed utterly with the arrival of Al-Muqtadir 
 >
 > While one of the magi is carrying out arcane studies, perhaps related to some breakthrough or mystery connected with architecture or astrology, he discovers a diagram that bears an uncanny resemblance to the plan of the Aljafería. The texts clearly indicate that the place could be used as a site of study in which to advance the research significantly. But… how can one gain access to what was once the Great Hall? And, most importantly, how could its astrological and architectural resonances be repaired?
 
-<!-- p. 204 -->
+<!-- p. 204 --><a id="page-204"></a>
 
 But the history of the Great Hall was not free of controversy. In 1039 it was discovered that Yasmina al-Gernikiyya, an *al-gayʿyūrun* from Dār Malīḥaʾ, had used funds provided by Porta Pandere for personal projects and had never returned them to Qasr al-Surūr. She received a heavy fine and was barred from the office for life, and although she continued to carry out her duties as a Quaesitor, for some time there were suspicions that some more elaborate scheme hatched by her mother covenant lay behind her actions.
 
@@ -6311,7 +6313,7 @@ In 1118, Alfonso I the Battler conquered the Aragonese town of Belchite, known u
 
 In its scant century of life, Praesidium Abditus underwent a profound transformation, brought about chiefly by the formation in 1122, under the auspices of Alfonso I himself, of the Confraternity of Belchite. Guzmán Garcés contrived to join the confraternity at once, which led Iacobus to abandon the covenant when he saw it receive two more Flambeau magi and another Tremere. Galindo Sanz himself led the confraternity during its first years, with Guzmán as his right hand, and Guzmán kept his preeminent position even when the confraternity was absorbed into the Confraternity of Monreal a few years later. By then the covenant was entirely Flambeau, and much of the turb was made up of some of the many former criminals who had flocked to Belchite, whose presence always made Praesidium Abditus a rather ungovernable and chaotic place.
 
-<!-- p. 205 -->
+<!-- p. 205 --><a id="page-205"></a>
 
 During the second half of the twelfth century, the Flambeau of Praesidium Abditus took an active part in local conflicts. Skirting (and at times breaking) the limits of the Code of Hermes, Guzmán and his *sodales* took part in various clashes against Navarre and Castile, earning several fines from the Quaesitores and the enmity of the covenant of Victrix (see below). None of them imagined that the cause of their frenzied activity, and of the inexplicable unruliness of the turb, sprang from their own covenant: the body of the demon defeated there in antiquity had remained buried beneath the covenant's lands, generating an infernal aura that fostered anger and rage. This steadily eroded relations even among the covenant's own mundane inhabitants and drove the Flambeau to ever bolder acts; matters came to a head when, in 1193, they attended the Other Tribunal of Harra and swore common cause with other covenants to confront the Almohad threat. And so, when Guzmán's *filius* and the rest of the Flambeau set out in 1195 for the battle of Alarcos, where all of them would perish, the covenant disintegrated, sunk in the anarchy and disorder caused by clashing emotions.
 
@@ -6333,7 +6335,7 @@ Beneath the tower stretch cellars and small dungeons that saw almost no use whil
 
 Established in the eighth century, after the city of Gerona was freed from Muslim rule and handed over to Frankish control, the county of Gerona has traditionally been part of the county of Barcelona since the end of the ninth century, when Wifredo the Hairy received it from Louis II of France, the Stammerer. Despite that dependence, the county minted its own coinage and had its own viscounts. Today it is bounded to the north by the county of Empúries and by Besalú, to the west by the county of Osona and to the south by the county of Barcelona; to the east it borders the Mediterranean Sea.
 
-<!-- p. 206 -->
+<!-- p. 206 --><a id="page-206"></a>
 
 Gerona is the capital of the county and also its largest and most important town. Founded in the first century AD for its enviable strategic position, the city has passed through Roman, Visigothic, Muslim (for less than a century) and Carolingian rule, and perhaps for that reason it displays a cosmopolitan character in the thirteenth century, a time when the city reaches one of its greatest heights of splendor, thanks also to a population boom that forces it to expand in every direction and to build several bridges over the rivers that run through the city. Its Romanesque cathedral is dominated by the so-called Tapestry of Creation, a majestic linen tapestry of more than fifteen square meters depicting the creation of the world as described in the first chapters of Genesis.
 
@@ -6353,7 +6355,7 @@ Gerona is the capital of the county and also its largest and most important town
 >
 > But there was a third Bible, far less known, even though the quality of its script and illumination was comparable to that of the other two. The monk charged with illuminating all three, a young novice named Gualterus with great artistic aspirations, had been tempted by the powers of Hell, with whom he had struck a bargain to obtain his enormous talent in exchange for selling his soul, something no one in the monastery knew. But Gualterus also became an unwitting tool of the infernal forces, which influenced him in ever subtler ways while he was illuminating the third Bible. The miniatures included in that copy were rendered ambiguously, and one well versed in the dark arts could use those illuminations to work terrible enchantments and witchcraft. Oliba himself discovered the connotations of those illuminations when the book was already finished, and he decided to keep the text under lock and key to prevent it from falling into the wrong hands, reluctant as he was to destroy a work of art of such caliber. Since his death, the existence of that Bible has been known only to the successive abbots of Ripoll. Now, decades after it was written, the third Bible has been stolen from the monastery in inexplicable circumstances. The abbot, or one of the monks of the monastery on good terms with the characters' covenant, comes to ask them for help in locating the lost sacred text, fearing that the culprit may be some worshipper of Satan.
 
-<!-- p. 207 -->
+<!-- p. 207 --><a id="page-207"></a>
 
 Especially important is the city's Jewish community, which holds a special status in Gerona and will grow steadily throughout the thirteenth century. The Jews occupy an area near the cathedral, the so-called *Kahal Jueu*, in many cases in luxurious and monumental residences meant to convey the wealth of their occupants, a great many of whom are devoted to medicine and moneylending. Indeed, during the thirteenth century Gerona will at times be known as "the Mother of Israel."
 
@@ -6382,9 +6384,9 @@ The destruction of the splendid covenant of Lucena caused a diaspora of many mag
 
 From its beginnings, ʿĂrābôt was more concerned with spiritual than Hermetic matters. ʿEzraʾ was almost more philosopher than magus, and an ardent champion of the rationalist teachings of Maimonides. During the early years he had constant meetings with other *sodales*, to whom he tried to impart his convictions, and at times he even taught the children of local noble families, almost always with Abraham as intermediary. However, his presence soon drew the attention of the city's Kabbalistic circle, which at that moment was beginning an age of ideological splendor as it received, through Yiṣḥaq the Blind, who lived in the city for a time, the influence of the intellectual movements arising in Provence. For a couple of decades the Kabbalists watched ʿEzraʾ and ʿĂrābôt with suspicion, and were defeated time and again in their debates whenever they tried to refute his theses. But it was precisely one of the local Jewish intellectuals who would become his fiercest ideological adversary: ʿAzriʾel "the Holy," a disciple of Yiṣḥaq himself, who engaged in several heated debates with ʿEzraʾ during the last years of the twelfth century.
 
-<!-- p. 208 -->
+<!-- p. 208 --><a id="page-208"></a>
 
-<!-- p. 209 -->
+<!-- p. 209 --><a id="page-209"></a>
 
 In 1200, after the destruction of Harra and the death of the previous Praeco, ʿEzraʾ was named Praeco of Iberia at the Tribunal held at Aedes Saturni. A new era thus opened in the life of the venerable Bonisagus, who had believed he had reached a point at which he could devote himself to his philosophical disquisitions. But the new Praeco had to face the mass exodus of magi from al-Andalus that took place in those years. Accompanied by his inseparable Abraham, ʿEzraʾ has tried to concentrate on stemming the migration from Iberia, setting aside his debates and theses for a time. Unfortunately, he has not been able to do so as fully as he would like, for in the Kabbalistic circle of Gerona a new and formidable dialectical adversary has arisen: Naḥmanides, a former follower of Maimonides' theses who now embraces the Kabbalah with a fervor worthy of Yiṣḥaq himself.
 
@@ -6392,7 +6394,7 @@ In 1200, after the destruction of Harra and the death of the previous Praeco, ʿ
 
 ʿEzraʾ always wished to emulate the luxury and splendor of Lucena in Gerona. When he had the small palace built in which ʿĂrābôt would rise, he invested every last coin he had, yet obtained only a pale reflection of his former home: even so, it is an elegant two-story building with porticoes around a central courtyard, adorned with trees and plants, where ʿEzraʾ usually teaches his students when the weather and his time allow. The ground floor is taken up by common rooms, the mundane library, a small storeroom and a couple of small classrooms used when the weather is bad or the group of students is very large. The upper floor holds four *sancta* (one of them usually empty), the treasury and the arcane library. The whole structure stands within a powerful *lacuna* of strength 4 and is protected by an *Aegis of the Hearth* of the sixth magnitude.
 
-ʿĂrābôt also owns a second structure barely two streets from the main palace: baths that ʿEzraʾ had built, in the style and in imitation of those the Muslims used in al-Andalus, shortly after the palace was completed. The *lacuna* reappeared there even more intensely and, most interestingly, as the Bonisagus discovered, it was aligned with healing magic (see *Realms of Power: Magic*, page 16). ʿEzraʾ and Abraham have visited the baths often since they were built, retiring there to debate among the magically heated waters. Moreover, in 1193 the two magi opened the doors of the place to any citizens who wished to enter to shelter from the famine caused by the flooding of the Ter. That act not only saved many lives but also improved the covenant's reputation throughout the city, including among the mundane and ecclesiastical authorities, some of whom were themselves saved by taking refuge in the baths of ʿĂrābôt.
+ʿĂrābôt also owns a second structure barely two streets from the main palace: baths that ʿEzraʾ had built, in the style and in imitation of those the Muslims used in al-Andalus, shortly after the palace was completed. The *lacuna* reappeared there even more intensely and, most interestingly, as the Bonisagus discovered, it was aligned with healing magic (see *Realms of Power: Magic*, [page 16](#page-16)). ʿEzraʾ and Abraham have visited the baths often since they were built, retiring there to debate among the magically heated waters. Moreover, in 1193 the two magi opened the doors of the place to any citizens who wished to enter to shelter from the famine caused by the flooding of the Ter. That act not only saved many lives but also improved the covenant's reputation throughout the city, including among the mundane and ecclesiastical authorities, some of whom were themselves saved by taking refuge in the baths of ʿĂrābôt.
 
 #### Society and Customs
 
@@ -6408,7 +6410,7 @@ The life of ʿEzraʾ ben Šēlomoh al-Bonisagī was shattered in 1148 with the f
 
 All that changed in 1200 with his appointment as Praeco. Suddenly ʿEzraʾ not only had a purpose once more, but held an office that allowed him to pursue his dream, which was none other than to try, even from afar, to restore Lucena. Unfortunately, the bureaucratic and logistical realities of the office soon consumed all his time and have kept him from developing that plan beyond a few simple ideas floating in his head, already somewhat senile with age. What cannot be denied is that since his appointment he has been a new man, full of vitality and ready to fulfill his responsibilities for as long as the Order asks it of him. He even took an apprentice shortly after his appointment, Benjamín ben Judá, determined to perpetuate his lineage in a covenant in which he once did not even much believe.
 
-<!-- p. 210 -->
+<!-- p. 210 --><a id="page-210"></a>
 
 ### Abraham Sitjar of Jerbiton
 
@@ -6432,7 +6434,7 @@ The county continued to strengthen its power in later centuries and to grow in s
 
 In addition to the counties of Gerona and Osona already mentioned, the county of Barcelona also governs those of Berga, Besalú and Manresa. Barcelona is the capital of the county and also its most important town, although there are other notable cities, such as Lérida or Besalú.
 
-<!-- p. 211 -->
+<!-- p. 211 --><a id="page-211"></a>
 
 ### The City of Barcelona
 
@@ -6468,7 +6470,7 @@ Barcelona is home to the most important Mercer House in Iberia, an extensive cov
 
 The origin of Aedes Saturni is to be found in the Peninsular meeting of 822, where Priamitus of Mercere offered to establish the first Mercer House in Iberia, moved by his interest in discovering more about the region's Mercurian past. He was accompanied in his project by one of his sons, a Mozarabic Redcap without the Gift called Don Šaybān. After discussing it with the magi of the region and agreeing to take the project to the next Grand Tribunal, both parties undertook to buy a large building in Barcelona, inside the Roman wall that then bounded the city, at that time under the control of the Carolingian dynasty. Priamitus named the project Aedes Saturni and began to work with his son to build several Mercere portals in the Peninsula; he also entrusted his son with the first census of vis sources after the Grand Tribunal of 832 approved its construction.
 
-<!-- p. 212 -->
+<!-- p. 212 --><a id="page-212"></a>
 
 Priamitus was also a far-sighted magus, and, foreseeing that the city would prosper and become an important commercial hub in the Mediterranean, he considered it an ideal place from which the followers of Mercere could carry out their work, and not only in the service of the Order. Thus, in 878, Aedes Saturni lent a substantial sum to Wifred the Hairy to pay his troops in the struggle against Bernard of Gothia, then count of Barcelona, who had rebelled against Charles the Bald. Wifred would go on to become the first count of Barcelona truly independent of the Frankish kingdom. The nobility of Barcelona would not forget Aedes Saturni's help for decades, but this was not the only source of the covenant's economic prosperity: the Mercere of Barcelona managed to profit from numerous entries in the Iberian Peripheral Code, beginning with "On the Iberian Treasury" (899), which from its very inception made the covenant one of the nerve centers of Iberia.
 
@@ -6490,9 +6492,9 @@ Priamitus was also a far-sighted magus, and, foreseeing that the city would pros
 >
 > *Desperta, ferro!* ("Awake, iron!") is one of the most famous war cries of the almogavars, which they chant before going into battle to intimidate their enemies. In an encounter with a band of almogavars, the magi of the covenant watch in astonishment as many of their grogs, men hardened in a thousand battles, flee in terror on hearing the cry of the enemy warriors. After the inevitable reprimand to their soldiers, the magi may want to investigate, or perhaps hire, that company of almogavars. They are astounded when they discover that the troop's *almocadén*, an Aragonese named Balero, is chiefly responsible for that terror, thanks to a *coltell* that seems to be invested with a potent magical effect that sows fear in those who hear the two dreaded words as the knife is struck against a metal surface. How did Balero come by that knife? Is a covenant involved and, if so, has it broken the law?
 
-<!-- p. 213 -->
+<!-- p. 213 --><a id="page-213"></a>
 
-Throughout its history, the members of Aedes Saturni have taken an active part in many Hermetic tasks: they have served as a link of communication between magi, they have influenced the distribution of vis sources, and they have manipulated the Tribunal's *status quo* more or less subtly. Moreover, in recent years the covenant has more than once made use of the *víbria* company of almogavars (see insert on the previous page) to carry out all manner of raids, and in 1221 it will close an important deal with the triumvir of Salionca (see page 152).
+Throughout its history, the members of Aedes Saturni have taken an active part in many Hermetic tasks: they have served as a link of communication between magi, they have influenced the distribution of vis sources, and they have manipulated the Tribunal's *status quo* more or less subtly. Moreover, in recent years the covenant has more than once made use of the *víbria* company of almogavars (see insert on the previous page) to carry out all manner of raids, and in 1221 it will close an important deal with the triumvir of Salionca (see [page 152](#page-152)).
 
 At the beginning of the thirteenth century, Dulcia, the eldest Gifted Mercere maga of Aedes Saturni, entered Final Twilight and was replaced by the next most senior magus of the covenant, Arnau de Sant Vicenç, a native of Mataró, a Gifted Mercere who still holds the office of covenant leader today.
 
@@ -6514,7 +6516,7 @@ There are several notable underground chambers in Aedes Saturni. One is the hall
 >
 > The carrer de l'Estruc (a word meaning "fortune" or "witchcraft" in Old Catalan), outside Barcelona's Roman wall, is known throughout the city for the soothsayers, sorcerers and witches of every stripe found along the barely 200 meters of its length. The street has something of a bad reputation, for some rather unpleasant legends are told about it, but it is also a common place of visit for the more superstitious, who go there when they suffer some ill that cannot be remedied by mundane means… or when they want to cause some harm to another person. Many of those who live or work in the street are in fact swindlers, or simply people able to perform tricks with which to deceive the populace. Some of them, however, do possess some minor magical ability, although these are precisely the ones who tend to be least active. One of them is the *astruc* ("witch") Sacanera, an old man gifted with minor healing abilities who, they say, uses a black magic stone to work miracles.
 
-<!-- p. 214 -->
+<!-- p. 214 --><a id="page-214"></a>
 
 The treasury holds the common coffers of all the covenants of Iberia. It is a spacious chamber protected by a sturdy door of solid iron with several locks, enchanted with abundant defensive spells that can strike down any intruder who does not utter the words that allow safe entry. The covenant's treasurer is currently Martí, a Redcap only slightly younger than Yubal, endowed with a prodigious memory and an exceptional head for figures. Faustus of Flambeau also tends to spend a great deal of time in the treasury, and has his laboratory very close by.
 
@@ -6526,13 +6528,13 @@ It is also worth mentioning that in Aedes Saturni's establishment in the carrer 
 
 Aedes Saturni also has a building outside Barcelona, in the city of Tortosa, at the mouth of the Ebro. This town, which is enjoying a time of unusual prosperity since it was reconquered by Count Ramón Berenguer IV, now sees all manner of goods and products pass along the waters of the river: metals, cotton, alum, silk, timber, kermes, indigo, spices, sugar... The town had no Hermetic presence while it was Turtusha and ruled by the Muslims, but with the reconquest, Aedes Saturni opened a small establishment there, a moneylending house overseen by a Jewish Redcap, Simón the Fair, which serves as a cover for keeping a close eye on the river trade of the region. In addition, the covenant also holds certain rights of commercial exploitation in the area, granted by Templars sympathetic to the covenant of Victrix (see below).
 
-<!-- p. 215 -->
+<!-- p. 215 --><a id="page-215"></a>
 
 #### Society and Customs
 
 Almost since the beginning of its existence, Aedes Saturni has been governed by a rigid autocracy combined with a democracy. The upper council is usually made up of the Gifted Mercere magi and the current *quaestor aerarii*. Each of these magi has one vote, although the *quaestor aerarii* usually acts as an impartial witness and votes only on matters concerning the common coffers. Below that council there is a second tier made up of the covenant's non-Mercere magi, each of whom has half a vote, or, what amounts to the same thing, half the decision-making power of the Gifted Mercere. In this way plurality within the covenant is guaranteed, without ever forgetting that it is a Mercer House and that, therefore, the magi of that House must have a certain preeminence.
 
-The offices of *praefectus praetorio* and *quaestor aerarii* are traditional posts created more than four centuries ago, when in the year 822 it was agreed that the common resources of the Tribunal would be moved permanently to Aedes Saturni. The first is usually held by a Flambeau magus charged with personally protecting those resources (see the corresponding Flaw in the "New Virtues and Flaws" section, page 305). The duties of the *praefectus* are to protect at all times the common coffers kept at Aedes Saturni, even at the cost of his own life. The *praefectus* usually has his laboratory near the treasury and often takes charge of supervising its guards and even designing its protections. Just as holding the office is an honor for the magus in question, any damage to or theft from the coffers is an affront very difficult to wash away in the Tribunal. This is a title that stirs mixed feelings among the magi of Iberia: some value it for being temporary and for granting the holder a good reputation, while others consider it a waste of time (the title does, however, bring significant economic benefits to the home covenant of the magus who holds the office, as described in the new Flaw).
+The offices of *praefectus praetorio* and *quaestor aerarii* are traditional posts created more than four centuries ago, when in the year 822 it was agreed that the common resources of the Tribunal would be moved permanently to Aedes Saturni. The first is usually held by a Flambeau magus charged with personally protecting those resources (see the corresponding Flaw in the "New Virtues and Flaws" section, [page 305](#page-305)). The duties of the *praefectus* are to protect at all times the common coffers kept at Aedes Saturni, even at the cost of his own life. The *praefectus* usually has his laboratory near the treasury and often takes charge of supervising its guards and even designing its protections. Just as holding the office is an honor for the magus in question, any damage to or theft from the coffers is an affront very difficult to wash away in the Tribunal. This is a title that stirs mixed feelings among the magi of Iberia: some value it for being temporary and for granting the holder a good reputation, while others consider it a waste of time (the title does, however, bring significant economic benefits to the home covenant of the magus who holds the office, as described in the new Flaw).
 
 As for the *quaestor aerarii*, the office is usually held by a member of House Guernicus, and its role is much more administrative and, at the same time, more important than that of the *praefectus*, for it consists of making sure that no one improperly appropriates any of those funds, and that they are used just as each Tribunal determines. The *quaestor* is therefore both manager and watchman of the funds. Unlike the *praefectus*, the *quaestor*'s presence in the treasury is not so necessary, and he usually visits it only occasionally. Even so, he watches over the safety of the coffers at all times, for their integrity is key to the Tribunal. The conditions for the election and re-election of the *quaestor aerarii* are the same as those for the *praefectus praetorio*, as are the benefits in terms of reputation. While both magi hold their offices at Aedes Saturni, they are considered full members of the covenant, and as such they may draw on its resources.
 
@@ -6548,7 +6550,7 @@ It soon became clear that Dulcia had made the right decision. As a pupil, Arnau 
 
 For all these reasons, when Dulcia died a few years ago and Arnau put himself forward as her successor, several members of the House were outraged by the proposal. However, there could only be one decision: the only blemish on Arnau's record was precisely the one in which he had had no part: his origin outside the lineage of Mercere. The rest of his life had been marked by absolute commitment and devotion. So there was no doubt about his election within the covenant, and since his appointment as leader, Arnau has only redoubled his devotion. The covenant is more prosperous than ever, and although there are some who still regard him with suspicion within the covenant itself and occasionally try to undermine him covertly, very few in his inner circle doubt that he is the best person to guide the destiny of Aedes Saturni.
 
-<!-- p. 216 -->
+<!-- p. 216 --><a id="page-216"></a>
 
 > #### Arnau de Sant Vicenç
 >**Characteristics:** Int +3, Per +1, Pre +1, Com 0, Str 0, Sta +2, Dex 0, Qik –1<br>
@@ -6633,7 +6635,7 @@ For all these reasons, when Dulcia died a few years ago and Arnau put himself fo
 
 Filemón is a Bonisagus Seeker of Greek origin who came to Iberia from the Theban Tribunal after hearing rumors about the ruins of the temple of Mithras beneath Aedes Saturni. Since his arrival, a couple of decades ago, the Bonisagus has tried to unravel the mysteries of the ruins with rather little success, owing both to the deplorable state of the site and to his limitations with Intellego magic. Even so, he has not given up. Moreover, ever since he heard that the Toledan covenant of Iššáh possesses the ancient treasures of the Visigoths, he has also shown an interest in having its members share their secrets with him.
 
-<!-- p. 218 -->
+<!-- p. 218 --><a id="page-218"></a>
 
 Filemón is a man loyal to the covenant and will do whatever it takes to keep his privileged position so that he can go on researching the ruins.
 
@@ -6647,9 +6649,9 @@ He soon discovered that his indiscretions had spread through half the Tribunal a
 
 Once in Barcelona, Faustus did everything he could to continue the legacy of integrity and honor set by his *parens*. So far he has only partly succeeded. Faustus fulfills all his duties rigorously, guarding the treasury and accompanying Collegiata in all her dealings. It would never even cross his mind to take advantage of the office to steal a single pawn of vis. However, the temptation to snoop in a place like Aedes Saturni is very strong for him. The frantic comings and goings of the Redcaps, the constant exchanges of information in every room of the covenant and the complex financial transactions carried out by Yubal and his family are torture for Faustus, who cannot help listening to every conversation that takes place near him and keeping the juiciest details, which has occasionally led him to neglect his duties as guardian of the treasury. More than once Yubal has caught him "spying" and has lodged complaints with Arnau, whose only argument in reply is Faustus's efficiency in his official duties. The leader of Aedes Saturni trusts that Faustus will learn to control this flaw in his character and so become a guardian as long-serving and reliable as his own *parens*.
 
-<!-- p. 220 -->
+<!-- p. 220 --><a id="page-220"></a>
 
-<!-- p. 217 -->
+<!-- p. 217 --><a id="page-217"></a>
 
 > #### Faustus of Flambeau
 >**Characteristics:** Int +3, Per +1, Pre –1, Com 0, Str 0, Sta +2, Dex +1, Qik 0<br>
@@ -6741,11 +6743,11 @@ Aedes Saturni and Duresca have always had a very close relationship, especially 
 
 ##### Yubal of Mercere (Redcap)
 
-Yubal (also known as Yuval) is the leader of the Redcaps of Aedes Saturni, a veteran messenger with almost a century of experience behind him. Besides that, he is a seasoned businessman — not for nothing has he spent almost half that time as the public face of the mercantile house that serves as Aedes Saturni's mundane front, which is why many call it the House of Yubal. The Redcap had to step down from that position a little over five years ago, to avoid drawing too much attention because of his unusual longevity, and he now divides his time between overseeing the running of the business and hovering about the library, as well as making sure that messages between covenants are delivered punctually — not for nothing is he a member of the Followers of Belin (see *Houses of Hermes: True Lineages*, page 91).
+Yubal (also known as Yuval) is the leader of the Redcaps of Aedes Saturni, a veteran messenger with almost a century of experience behind him. Besides that, he is a seasoned businessman — not for nothing has he spent almost half that time as the public face of the mercantile house that serves as Aedes Saturni's mundane front, which is why many call it the House of Yubal. The Redcap had to step down from that position a little over five years ago, to avoid drawing too much attention because of his unusual longevity, and he now divides his time between overseeing the running of the business and hovering about the library, as well as making sure that messages between covenants are delivered punctually — not for nothing is he a member of the Followers of Belin (see *Houses of Hermes: True Lineages*, [page 91](#page-91)).
 
 Yubal is quiet and taciturn, and prone to fits of self-absorption from which it is increasingly hard to rouse him. They say that at such moments his memory drifts back to his younger years, when Queralt, the love of his life, was still alive. Unfortunately, those happy times now exist only in Yubal's memory, and he has never fully overcome that loss despite the years that have passed. Even so, when he has a job to do he does it impeccably, and he tolerates no irregularity in the workings of the Redcaps. From time to time, he still takes up his old magic staff and accompanies one of the younger messengers on their journeys, to experience once again the pleasure of traveling.
 
-<!-- p. 219 -->
+<!-- p. 219 --><a id="page-219"></a>
 
 > #### Yubal of Mercere
 >**Characteristics:** Int +2 (2), Per +1 (1), Pre +2, Com +1, Str 0, Sta 0, Dex 0, Qik –1<br>
@@ -6764,7 +6766,7 @@ Yubal is quiet and taciturn, and prone to fits of self-absorption from which it 
 >**Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)<br>
 >**Abilities:** Arabic 4 (trade terms), Great Weapon 5 (quarterstaff), Artes Liberales 4 (arithmetic), Awareness 4 (swindles), Athletics 3 (distance running), Castilian 3 (trade terms), Catalan 5 (trade terms), Chirurgy 4 (stitching wounds), Aedes Saturni Lore 4 (customs), Porta Pandere Lore 2 (portals), Aragon Lore 4 (geography), Barcelona Lore 5 (personalities), Majorca Lore 3 (geography), Navarre Lore 3 (geography), Toledo Lore 3 (personalities), Valencia Lore 3 (politics), Church Lore 2 (mendicant orders), Order of Hermes Lore 4 (Redcaps), Magic Lore 3 (creatures), Faerie Lore 3 (wayside sprites), Civil and Canon Law 4 (laws and customs of Barcelona), Folk Ken 2 (travelers), Guile 3 (business dealings), Charm 3 (first impressions), Teaching 4 (Bargain), Etiquette 4 (authorities), French 4 (flowery usage), Hebrew 4 (vocabulary), Intrigue 3 (House Mercere), Italian 3 (trade terms), Latin 5 (academic usage), Leadership 5 (Redcaps), Animal Handling 3 (horses), Medicine 2 (apothecary), Ride 3 (galloping), Music 2 (singing), Swim 3 (long distances), Brawl 4 (dodging), Philosophiae 3 (moral philosophy), Profession: Merchant 5 (procedures), Bargain 8 (hard bargaining), Stealth 3 (urban spaces), Carouse 2 (inns), Survival 4 (finding shelter), Theology 3 (patron saints), Magic Theory 3 (enchanting items)<br>
 >**Equipment:**<br>
->**Traveler's Cloak.** A threadbare, worn-looking woolen cloak that Yubal has been using almost since his first years as a Redcap, and which he now wears only when he has to make some long journey. It has the following powers: *Cloak of the Duck's Feathers*, like the Hermetic spell of the same name, but as a constant effect. (ReAq, Base 1, +2 Sun, +1 slightly unnatural control, +1 level for 2 uses per day, +3 levels environmental trigger, final effect level 8). *The Tireless Flight*, like the Hermetic spell of the same name (see *Houses of Hermes: True Lineages*, page 109), 3 uses per day (ReCo, Base 10, +1 Conc, +1 Touch, +1 slightly unnatural control, +2 levels for 3 uses per day, +5 levels for item maintains concentration, final effect level 32).<br>
+>**Traveler's Cloak.** A threadbare, worn-looking woolen cloak that Yubal has been using almost since his first years as a Redcap, and which he now wears only when he has to make some long journey. It has the following powers: *Cloak of the Duck's Feathers*, like the Hermetic spell of the same name, but as a constant effect. (ReAq, Base 1, +2 Sun, +1 slightly unnatural control, +1 level for 2 uses per day, +3 levels environmental trigger, final effect level 8). *The Tireless Flight*, like the Hermetic spell of the same name (see *Houses of Hermes: True Lineages*, [page 109](#page-109)), 3 uses per day (ReCo, Base 10, +1 Conc, +1 Touch, +1 slightly unnatural control, +2 levels for 3 uses per day, +5 levels for item maintains concentration, final effect level 32).<br>
 >**The Red Cap.** A cap of red leather that covers the top of Yubal's head, and which he wears almost all the time, even when he is at the covenant. It has the following powers: *Perception of the Conflicting Motives*, like the Hermetic spell of the same name, 6 uses per day. (InMe, Base 10, +1 Eye, +3 levels for 6 uses per day, final effect level 18). *Thoughts within Babble*, like the Hermetic spell of the same name, 6 uses per day. (InMe, Base 5, +1 Touch, +1 Conc, +3 Hearing, +3 levels for 6 uses per day, +5 levels for item maintains concentration, final effect level 38).<br>
 >**Faithful Staff.** A long staff of polished oak with plant decorations at both ends. Yubal uses it for support when he walks, although he also knows how to wield it well in combat. It has the following effects: *Transformation of the Thorny Staff*, like the Hermetic spell of the same name, 12 uses per day (MuHe, Base 3, +1 Conc, +4 levels for 12 uses per day, +5 levels for item maintains concentration, final effect level 13). *The Leap of Homecoming*, like the Hermetic spell of the same name, 2 uses per day (ReCo, Base 35, +1 Touch, +1 level for 2 uses per day, final effect level 41).<br>
 >**Ring of Discretion.** A discreet gold band that Yubal wears on his ring finger. Some Redcaps maintain that it is his betrothal ring from the late Queralt, who personally asked for it to be enchanted. It has the following powers: *Veil of Invisibility*, like the Hermetic spell of the same name, with adapted parameters and 6 uses per day. (PeIm, Base 4, +1 Touch, +1 Conc, +1 moving image, +3 levels for 6 uses per day, +5 levels for item maintains concentration, final effect level 23). *Image from the Wizard Torn*, like the Hermetic spell of the same name, with adapted parameters and 6 uses per day. (Re[In]Im, Base 15, +1 Touch, +1 Conc, +1 additional sense, +1 for requisite, +3 for 6 uses per day, +5 for item maintains concentration, final effect level 43)<br>
@@ -6778,7 +6780,7 @@ Yubal is quiet and taciturn, and prone to fits of self-absorption from which it 
 >
 > Whatever Filemón awakened has taken possession of the church's poor altar boy, whose days are numbered if the characters do nothing to remedy the situation. The creature in question is a faerie spirit that had been imprisoned beneath the ruins for centuries, and which might assume the identity of the Roman Mithras. Before doing so, however, it wants to get to know the new world around it better through the eyes of a human. And everyone knows that faerie curiosity knows no bounds…
 
-<!-- p. 221 -->
+<!-- p. 221 --><a id="page-221"></a>
 
 ### Zaloquia
 
@@ -6803,7 +6805,7 @@ When the troops of Alfonso II of Aragon finally conquered the region in 1162, th
 
 Zaloquia rose on the top of Mount Escornalbou, almost 650 meters high, whose slopes are covered in thick forest and whose summit commanded a superb view of the whole surrounding area. The covenant was built on the remains of an ancient Roman fortification, and at the height of its splendor it had a main fortress with four towers on the mountaintop. Zaloquia also extended underground, with a number of subterranean chambers that housed the treasury and the *sancta* of some of the magi. Almost the whole place was razed when the troops of Alfonso II retook the region in 1162, although some say that a few underground areas might still hold treasure or documents belonging to the old covenant. This is very hard to confirm, however, since where the covenant once stood there now rises a half-built Augustinian abbey, protected by an imposing adjoining castle. Not far from the site lies the small village of Segura, which grew up while the monastery and castle were being built.
 
-<!-- p. 222 -->
+<!-- p. 222 --><a id="page-222"></a>
 
 > #### Story Seeds: The Moorish Queen's Leap
 >
@@ -6834,13 +6836,13 @@ Although they were newcomers, Coeris provided them with all the information it h
 
 In those years Monzón was a defensive bastion that protected the kingdom's southern frontier and held back raids from the taifa of Lérida. By the time the fortress passed, in 1104, to the husband of doña Cristina Rodríguez (one of the Cid's daughters), Anteo and Sitt Nasim had already won the favor of the clergy and lesser nobility of the kingdom, so the Tremere maga was able to leave and join the Toledan covenant of al-Dhahabī (the future Iššáh), where Coeris had posted her. Anteo then became Exarch of Iberia and was left at the head of the Tremere of the Peninsula and Provence, just as the mundane situation was beginning to turn against them. In 1126 the covenant was attacked by the Muslim forces that took Monzón, and the Tremere of Victrix had to take refuge at Iššáh, which they did not leave until 1130, when the area was recovered by Alfonso I the Battler. But the peace did not last. In 1136 the covenant again witnessed the conquest of the town, although this time Anteo was able to save the situation with magic and there was no need to abandon it. Monzón thus remained in Muslim hands until 1141, when it was conquered by Ramón Berenguer IV, *princeps* of Aragon. With the Concord of Gerona of 1143 (see insert), Anteo turned his relationship with the Templars to Victrix's advantage. The Knights of the Temple renounced the will of Alfonso I in exchange for grants from the kingdom of Aragon in the form of commanderies and castles: the town of Monzón passed into their hands, they were granted customs rights, and they made the church of San Juan the commandery of Monzón. In return, Anteo helped them build their irrigation channels and a pilgrims' hospital, and work their lands. In time the Templars built a mint, and the commandery became the most powerful in the kingdom, to the profit and glory of Victrix.
 
-<!-- p. 223 -->
+<!-- p. 223 --><a id="page-223"></a>
 
 > #### The Templars in Iberia
 >
 > The first Templar in the Peninsula was Ramón Berenguer III, count of Barcelona. In 1126 he managed to have the Templars establish themselves in his county, and in 1130 he joined the order; the first Templar grant in the Peninsula, the castle of Grañena, followed in 1134 at the Count's request. But the order's power did not arrive until the settlement of the Concord of Gerona in 1143. In that settlement, the Templars rejected the will of Alfonso I the Battler in exchange for a series of concessions to the order, which in the end made possible its rise in the twelfth and thirteenth centuries. For example, Ramón Berenguer IV granted them a fifth of everything they helped to conquer, exempted them from paying tribute to the Church and the crown, and gave them autonomy of decision in military matters, the right to collect tithes, and the right to build castles, provided these were for fighting the Muslims. In addition, the Count ceded them several strongholds, including Monzón and Chalamera, over which they gained permanent rights of usufruct and exploitation (all these places were confirmed by Pope Eugenius III at the Lateran in 1150, and six years later Ramón Berenguer IV held a Concord at which he obtained from Pope Adrian IV a bull confirming all his concessions). Finally, the Concord laid down fines and punishments for anyone who wronged the Templars.
 >
-> The Templars and the count of Barcelona, Ramón Berenguer IV, were the protagonists of the conquest of Tortosa (see page 42). After the spoils were divided, the Genoese sold their share to the Temple, and in 1182 Alfonso II (son of Ramón Berenguer IV) also handed over his share, which was confirmed in 1202 by Pedro II the Catholic. By 1210 the power of the Templars was such that they had become moneylenders to the crown, issuing it written promissory notes.
+> The Templars and the count of Barcelona, Ramón Berenguer IV, were the protagonists of the conquest of Tortosa (see [page 42](#page-42)). After the spoils were divided, the Genoese sold their share to the Temple, and in 1182 Alfonso II (son of Ramón Berenguer IV) also handed over his share, which was confirmed in 1202 by Pedro II the Catholic. By 1210 the power of the Templars was such that they had become moneylenders to the crown, issuing it written promissory notes.
 >
 > The counts of Portugal, for their part, made donations to the order in its early years (such as the town and fortress of Soure, which the order would keep until its dissolution), with the aim of defending the southern frontier against the Almoravids. And they gave the order not only strongholds and towns but also vassals and properties, both in Portugal and in Galicia.
 >
@@ -6850,7 +6852,7 @@ Anteo met Final Twilight in the mid-twelfth century, and the maga Medea of Treme
 
 In 1220 Medea wields great power and enjoys a great reputation, for she has managed to draw close to the Order of the Temple in the Peninsula, and as Exarch she governs the Tremere of the Provençal and Iberian Tribunals (Pedro Gutiérrez of Duresca and Sitt Nasim of Iššáh report directly to her). She also controls the castle of Chalamera (under the commandery of Monzón), at the confluence of the Alcanadre and the Cinca, through which passes the secondary Catalan route of the Way of Saint James, and where its garrison (of between ten and fifteen Templars) is charged with protecting the roads. Her influence reaches a small church of the Order of the Temple dedicated to Saint James, beside the pilgrim road (near Chalamera), whose revenues are a constant source of dispute with the bishop of Lérida. Thanks to Medea, the Templars have ceded part of their rights to exploit the trade at the mouth of the Ebro and its important seaport to the covenant and Mercer House of Aedes Saturni, which has added to the general wealth of the Tribunal, and of Victrix in particular.
 
-<!-- p. 224 -->
+<!-- p. 224 --><a id="page-224"></a>
 
 #### Setting and Physical Description
 
@@ -6878,9 +6880,9 @@ Victrix is on good terms with the powers of the Tribunal and has always cooperat
 
 Medea is an elderly maga holding the title of archmage, who appears to be in her thirties thanks to a powerful Longevity Ritual. She is said to have been born in Pembroke, in the south of Wales, and to descend from a line of magae that the Tremere know as the lineage of Diana. Medea holds the office of Exarch of the Iberian and Provençal Tribunals and answers only to the Prima Poena; the Tremere of experienced rank report directly to her. When she speaks, she usually does so in a calm but firm tone that forces those present to lower their voices in order to hear her. For all her beauty, her features are unsettling, since she rarely moves anything but her mouth when she speaks and seldom blinks. Few magi have seen her so much as raise an eyebrow.
 
-<!-- p. 225 -->
+<!-- p. 225 --><a id="page-225"></a>
 
-<!-- p. 226 -->
+<!-- p. 226 --><a id="page-226"></a>
 
 Medea rules Victrix with an iron hand, and although her House comes first, her covenant does not lag far behind. Her relationship with the Temple has cost her more than one investigation by House Guernicus, from all of which she has emerged unscathed. For Medea, honor and one's given word are everything, as the powers of the Tribunal well know, and they always reserve one of the free seats in the Iberian Chamber for this implacable maga.
 
@@ -6918,7 +6920,7 @@ The Redcap Creúsa has served Victrix ever since she finished her apprenticeship
 >
 > [^p226-XV]: Excerpt from *The Guide for the Perplexed* by Maimonides (Spanish translation by David Gonzalo Maeso).
 
-<!-- p. 227 -->
+<!-- p. 227 --><a id="page-227"></a>
 
 # IX. The Almohad Empire
 
@@ -6952,7 +6954,7 @@ The covenants of the Almohad Empire are scattered between al-Andalus and North A
 | ʾAlif | 1130–Present | 0 (2) |
 | Chazāʾir | 1137–Present | 3 |
 
-<!-- p. 228 -->
+<!-- p. 228 --><a id="page-228"></a>
 
 | Ruined Covenants | Lifespan |
 | --- | --- |
@@ -6987,7 +6989,7 @@ Al-Gharb is bounded to the west and south by the Atlantic Ocean. To the north it
 
 Ŷezirat Tennyn (from the Arabic, "dragon island") is a seafaring covenant devoted to the exploration of the Green Sea (as the Arabs call the Atlantic) and to the search for the magical resources it holds. Although it is relatively young, in its almost one hundred years of existence it has reached strange lands, from which it has brought back curious specimens of animals, plants and minerals and, on occasion, extraordinary vis never seen before.
 
-<!-- p. 229 -->
+<!-- p. 229 --><a id="page-229"></a>
 
 Their exceptional knowledge of the ocean has earned its members a certain renown in the Tribunal and the Order. It would not be the first time that other magi have hired their services for ocean voyages or to reach some distant archipelago. While other vessels sail without losing sight of the coast (even the sailors of Barcelona, held to be the finest navigators in the Mediterranean), Ŷezirat Tennyn has spent months on the high seas and lived to tell the tale.
 
@@ -6995,7 +6997,7 @@ Their exceptional knowledge of the ocean has earned its members a certain renown
 
 Fāṭīma and Sankhambi were members of the Mercer House of Aedes Iris in the lands of the *bilad al-Sūdān*. When the two of them proposed exploring the Green Sea to obtain more magical resources, Porta Pandere, Aedes Iris and Aedes Saturni all agreed, and so they were given a fast ship and several men and women to help them handle the vessel and defend themselves against the pirates of the Atlantic.
 
-On their first voyages they sailed within sight of the coast and put in at every archipelago they came across. During those journeys they suffered numerous pirate attacks and discovered new vis sources and the portal at the Pillars of Hercules (see the covenant of Qasr Dār al-Muchaddad, page 250). Over the years, Fāṭīma proposed to Aedes Iris that they venture out into the open sea, and although the proposal was rejected at first, they were eventually granted a magical ship and a crew capable of enduring such a voyage. Fāṭīma and Sankhambi then put to sea, far from piracy and the known world, and discovered extraordinary things, all of them recorded in their precious logbooks (among the many wonders described is their encounter with the old woman of Jurāsān, who stood upright on the waters praising God while the waves caressed her legs).
+On their first voyages they sailed within sight of the coast and put in at every archipelago they came across. During those journeys they suffered numerous pirate attacks and discovered new vis sources and the portal at the Pillars of Hercules (see the covenant of Qasr Dār al-Muchaddad, [page 250](#page-250)). Over the years, Fāṭīma proposed to Aedes Iris that they venture out into the open sea, and although the proposal was rejected at first, they were eventually granted a magical ship and a crew capable of enduring such a voyage. Fāṭīma and Sankhambi then put to sea, far from piracy and the known world, and discovered extraordinary things, all of them recorded in their precious logbooks (among the many wonders described is their encounter with the old woman of Jurāsān, who stood upright on the waters praising God while the waves caressed her legs).
 
 At the end of their long voyage they reached a group of seven islands peopled by strange and learned folk, whose description matched the eternal Fortunate Isles (in Arabic, *al-jalidāt*), to which wise men and women go after they have passed on all their knowledge to the community. Each of the two largest islands had a column forty meters high, adorned with beautiful bronze statues and crowned by two human figures with their hands stretched out toward the sea; the sages of those lands told them that the figures pointed toward *Ŷezirat Tennyn*, the "dragon island," a magical place guarded by a terrible creature fallen from the lunar sphere that watched over immeasurable treasures of antiquity. On their return, laden with vis and riches, they found that Aedes Iris had been destroyed, so they set course for Porta Pandere, where Fāṭīma and Sankhambi were told of everything that had happened during their long absence (such as the resolution the Tribunal had passed in 1123). Despite the riches they brought, the Tribunal forbade them to return to *al-jalidāt*, and, after demanding that they hand over their sea charts, Porta Pandere took from them the magical ship that Aedes Iris had given them. It was then that Fāṭīma and Sankhambi decided to found their own covenant, which they named Ŷezirat Tennyn.
 
@@ -7013,7 +7015,7 @@ If no one helps them in the coming years, Ŷezirat Tennyn could fall back into i
 
 The interior of Ŷezirat Tennyn is luxurious and opulent: ceilings and walls are hung with carpets, and the common rooms are full of cushions, chairs and divans. The covenant is perfumed with the costly essence of ambergris, which the former founders traded in the port cities of Cadiz and Almería. Unfortunately for Manjuza and Darfílun, the founders did not record the sources of this perfume in any of the many navigation charts the covenant keeps, so although they have enough reserves to live comfortably for centuries, if they were to lose them they would be unable to restock.
 
-<!-- p. 230 -->
+<!-- p. 230 --><a id="page-230"></a>
 
 For all the covenant's luxury, if there is one thing its magi are proud of, it is their courtyard. Adorned with every kind of plant brought from impossible places, it has a pool at its center in which live two small blue fish from beyond *al-jalidāt*. The fish have proved to be extraordinarily long-lived and, although there is one of each sex, they seem to feel no need to breed, eat or sleep. The founders observed a close connection between the fish and the local weather. By paying attention to the hue of their skin, one can work out how far away the next storm is: when one is very close, their scales take on a deep, dull tone, whereas when there are none about they are turquoise. Although the founders never put to sea without them, they did not take them when they left in 1217, which only added to young Manjuza's bewilderment.
 
@@ -7031,11 +7033,11 @@ Until 1217, the covenant's magi went every four years to some small islands west
 
 ##### Darfílun al-Biŷornī
 
-Darfílun is a middle-aged Bjornaer from the east of al-Andalus whose heart-beast is a dolphin (see *Houses of Hermes: Mystery Cults*, page 82). He came to the covenant looking for a place near the sea that was far from the wars between Christians and Almohads, and Ŷezirat Tennyn met both requirements, at least until 1217. When its two founders left, leaving him alone with a newly made maga, Darfílun began to reconsider his choice. Nevertheless, he feels responsible for young Manjuza and he is a man of honor, so he has no intention of abandoning the covenant.
+Darfílun is a middle-aged Bjornaer from the east of al-Andalus whose heart-beast is a dolphin (see *Houses of Hermes: Mystery Cults*, [page 82](#page-82)). He came to the covenant looking for a place near the sea that was far from the wars between Christians and Almohads, and Ŷezirat Tennyn met both requirements, at least until 1217. When its two founders left, leaving him alone with a newly made maga, Darfílun began to reconsider his choice. Nevertheless, he feels responsible for young Manjuza and he is a man of honor, so he has no intention of abandoning the covenant.
 
 Although Manjuza believes that the founders put to sea in search of *Ŷezirat Tennyn*, Darfílun suspects that they actually sailed for *al-jalidāt*, to walk one last time through the lands they had fallen in love with in their youth, like two sages who have already given back to the world all that they have learned. Darfílun understands that *Ŷezirat Tennyn* was never the destination, only the way.
 
-<!-- p. 231 -->
+<!-- p. 231 --><a id="page-231"></a>
 
 ##### Manjuza al-Praliḥiyya
 
@@ -7068,9 +7070,9 @@ Ibn Qasī was expelled at the ordinary Iberian Tribunal of 1144 and executed by 
 
 The revolts begun by Ibn Qasī spread through the rest of al-Andalus after the death of the caliph Tāšufīn. Two years later, however, cities such as Cadiz, Cordoba, Jerez and Seville submitted to the sovereignty of the Almohad caliph. ʿUmar ibn Abī Ṭūṭ then led a pocket of resistance from Ṭabīra which, with the help of Munio Alfonso Garcés al-Flambī, managed to hold back the Almohad forces until 1150, when political pressure finally broke the mundane population. Ṭabīra signed its surrender at Salé and recognized Almohad sovereignty over its territory. A year later, however, ʿUmar ibn Abī Ṭūṭ and his covenant-mate, ʿAbd Allāh ibn ʿUbayd Allāh al-Praliḥī, rebelled against the Almohads once again. As a result, Ṭabīra remained independent until 1167, and during that period it surrounded itself with a mighty wall to defend itself against the armies of Seville. Although the city was taken again that same year, its inhabitants and the members of Chazāʾir managed to drive the Almohads out once more, and in 1220 the Almohads still control neither the city nor its port.
 
-Since ʿAbd Allāh's death at Alarcos (see page 94), ʿUmar has had to defend himself against numerous charges of mundane interference and to pay costly fines in vis and in time devoted to the Tribunal, which has hindered Chazāʾir's development to the point of sending it back into a bitter Spring.
+Since ʿAbd Allāh's death at Alarcos (see [page 94](#page-94)), ʿUmar has had to defend himself against numerous charges of mundane interference and to pay costly fines in vis and in time devoted to the Tribunal, which has hindered Chazāʾir's development to the point of sending it back into a bitter Spring.
 
-<!-- p. 232 -->
+<!-- p. 232 --><a id="page-232"></a>
 
 #### Setting and Physical Description
 
@@ -7094,9 +7096,9 @@ All the inhabitants of Chazāʾir speak Arabic among themselves, and although th
 
 ʿUmar abandoned the Ṣūfī precepts and House Criamon when his *parens* was executed by the Order's hoplites, and so he lost the stigmata on his skin. He considers Bayt al-Ḥikma a mistake, though a lesser one than the Order itself. ʿUmar is rebellious toward everything to do with the Code and, whenever he believes it stands in the way of his own survival, he ends up breaking it, which has earned him severe fines, ultimatums and reprimands from the judges and the Trianomae.
 
-<!-- p. 233 -->
+<!-- p. 233 --><a id="page-233"></a>
 
-After the disaster of Las Navas de Tolosa, Duresca issued a communiqué forbidding any magus or affiliate to go to the battlefield, not even the *quiñoneros*.[^p233-30] As was only to be expected, ʿUmar ignored the request and went to Jaén to investigate what had happened. From his inquiries he deduced that those responsible had been the *saḥirs* of the East, and although he never made his conclusions public, he did mention them to other magi, and the news spread throughout the Tribunal (see "The Destruction of Harra," page 174).
+After the disaster of Las Navas de Tolosa, Duresca issued a communiqué forbidding any magus or affiliate to go to the battlefield, not even the *quiñoneros*.[^p233-30] As was only to be expected, ʿUmar ignored the request and went to Jaén to investigate what had happened. From his inquiries he deduced that those responsible had been the *saḥirs* of the East, and although he never made his conclusions public, he did mention them to other magi, and the news spread throughout the Tribunal (see "The Destruction of Harra," [page 174](#harra)).
 
 [^p233-30]: The *quiñoneros* were royal officials charged with gathering, valuing and sharing out the spoils after a battle, and with counting the enemy's dead. To do so, they had to walk the battlefield and inspect it once the fighting was over.
 
@@ -7134,7 +7136,7 @@ In 1220 two things worry Guiomar. The first is the advance of the kingdom of Por
 >
 > Seville is a *kūra* of great private estates, since its governors have always seen to it that the viziers hold large personal farmlands. To estimate their harvests, Seville has the *jurrās* (singular *jāris*), officials who work during the month of June in the mills where the cereal grain is stored. The *jurrās* are paid by the owners of the estates and not by the state treasury (in Arabic, *bayt al-māl*), which breeds corruption in the office: landowners often pay more money to obtain better estimates, and the *jurrās* take the opportunity to enrich themselves. But it is not the only office prone to corruption: the magistrates charged with safeguarding the interests of the treasury, called *ʿummāl* (*ʿāmil* in the singular), work with the tax collectors, or *qubbād* (singular *qābid*), who, because of how easily they can grow rich at the people's expense, must be supervised by the city's *qādī* and by the *almojarife*. Indeed, the popularity of the government depends to a great extent on these measures of oversight.
 
-<!-- p. 234 -->
+<!-- p. 234 --><a id="page-234"></a>
 
 In 1220 Seville is the capital of the Almohad province of al-Andalus and the largest *kūra*, although, like the rest, its northern frontier has been falling back before the advances of the king of Leon, Alfonso IX.
 
@@ -7165,13 +7167,13 @@ When, at the beginning of the twelfth century, the *falāsifa* Ḥayy ibn Yaqẓ
 
 In 1130 the *nawābit* decided to build a covenant, ʾAlif, which grew steadily during its first two decades: from three magi they went to twenty, making it the greatest power in the Tribunal. However, the *nawābit* never voted at Tribunals: they merely gave their opinions without exercising their right to vote, which only deepened the concern of the other covenants. In 1150 the Iberian Chamber met to deal with the problem of the *mutawaḥḥid* and the perfect society, or *al-madīna al-fāḍila,* they wanted to build. To that end, it bribed one of ʾAlif's founding members: Salāmān al-Gernikī. In exchange for admission to Duresca, Salāmān helped them dismantle the philosophy of the perfect ones, attacked their doctrines from within, and the Chamber was able to study their weak points in order to dissect them at the Grand Tribunal of 1162.
 
-When Ḥayy and Absāl discovered Salāmān's corruption, they learned a bitter lesson: their perfect order was not safe from the corruption inherent in men; the *nābit* had shown that he was not always upright, and it had become plain that a single individual could ruin the society they wished to build. And so the traitor Salāmān won his seat in Duresca while Jayrān was *disceptator*, which allowed him to amass great riches (both mundane and magical) and gain a position of responsibility at the Tribunal's center of jurisprudence. He was an old man, however, and his fondness for the white poppy finally put him in the grave: he died before Fortún became *disceptator* (see "Duresca," page 126).
+When Ḥayy and Absāl discovered Salāmān's corruption, they learned a bitter lesson: their perfect order was not safe from the corruption inherent in men; the *nābit* had shown that he was not always upright, and it had become plain that a single individual could ruin the society they wished to build. And so the traitor Salāmān won his seat in Duresca while Jayrān was *disceptator*, which allowed him to amass great riches (both mundane and magical) and gain a position of responsibility at the Tribunal's center of jurisprudence. He was an old man, however, and his fondness for the white poppy finally put him in the grave: he died before Fortún became *disceptator* (see "Duresca," [page 126](#page-126)).
 
-<!-- p. 235 -->
+<!-- p. 235 --><a id="page-235"></a>
 
 The Grand Tribunal cut short ʾAlif's aspirations. The covenant was accused of having committed a high crime and could save itself only by handing over the copies of the code it was drafting and recanting it. As a result, most of the covenant's members left, and those who stayed set aside their Hermetic reformism and went back to working on the foundations of their philosophy, incorporating the ideas of Maimonides and Averroes.
 
-ʾAlif suffered another severe setback with the edict of 1190 issued by the Almohad caliph Abū Yūsuf Yaʿqūb al-Manṣūr (see page 92). To avoid persecution, almost all its members emigrated to the East in the hope of being able to build the perfect society in safety. ʾAlif was then left occupied only by its founders, and it was at that time that one of the Tribunal's magi denounced it in Seville. So it was that in 1193 the covenant was stormed by Almohad troops: they arrested all the mundanes, burned its library, poems and musical instruments, and ordered the building demolished. Dismayed, the two remaining magi had to flee and abandon their people to their fate. So as not to be found, they sought out a cave in which to spend their days and achieve union with the agent intellect (or the Enigma, as Absāl used to say).
+ʾAlif suffered another severe setback with the edict of 1190 issued by the Almohad caliph Abū Yūsuf Yaʿqūb al-Manṣūr (see [page 92](#page-92)). To avoid persecution, almost all its members emigrated to the East in the hope of being able to build the perfect society in safety. ʾAlif was then left occupied only by its founders, and it was at that time that one of the Tribunal's magi denounced it in Seville. So it was that in 1193 the covenant was stormed by Almohad troops: they arrested all the mundanes, burned its library, poems and musical instruments, and ordered the building demolished. Dismayed, the two remaining magi had to flee and abandon their people to their fate. So as not to be found, they sought out a cave in which to spend their days and achieve union with the agent intellect (or the Enigma, as Absāl used to say).
 
 #### Setting and Physical Description
 
@@ -7205,7 +7207,7 @@ The magi of ʾAlif were the scholars who named the events of the Hermetic histor
 
 [^p235-35]: Excerpt from *The Ring of the Dove* by Ibn Ḥazm (Spanish translation by Emilio García Gómez).
 
-<!-- p. 236 -->
+<!-- p. 236 --><a id="page-236"></a>
 
 ##### Nābit Absāl al-Criamonī
 
@@ -7217,7 +7219,7 @@ After enlightening their Hermetic brothers, the *mutawaḥḥid* withdrew from H
 >
 > *We cannot see the intellect in itself; rather, we contemplate it in the traces [it leaves] in other beings.*[^p236-XVI]
 >
-> When the Almohads destroyed ʾAlif, they burned all the Initiation Scripts for the Mystery of the Path of Negative Attributes and those containing the ritual of *al-madīna al-fāḍila*, written by Ḥayy ibn Yaqẓān in the covenant's early years. Their knowledge is now spread among the *nawābit* of the East and the West (that is, those who stayed at ʾAlif after the Grand Tribunal condemned their philosophy), all of them elderly. Despite having rejected it, the Order is in fact very interested in the Mystery that allows the minds of magi to be united and, it is said, raises them above the third circle (according to emanationist theory; see page 304). To all appearances, the ritual of the final milestone was achieved through a Hermetic breakthrough, since it breaches the lesser limit of the lunar sphere, and, although many consider the idea absurd, a few suspect that it might breach the Divine Limit, since it is based on non-Hermetic knowledge of interplanetary magic (see "The Astra Planeta" in *Realms of Power: Magic*, pages 112 and 113).
+> When the Almohads destroyed ʾAlif, they burned all the Initiation Scripts for the Mystery of the Path of Negative Attributes and those containing the ritual of *al-madīna al-fāḍila*, written by Ḥayy ibn Yaqẓān in the covenant's early years. Their knowledge is now spread among the *nawābit* of the East and the West (that is, those who stayed at ʾAlif after the Grand Tribunal condemned their philosophy), all of them elderly. Despite having rejected it, the Order is in fact very interested in the Mystery that allows the minds of magi to be united and, it is said, raises them above the third circle (according to emanationist theory; see [page 304](#page-304)). To all appearances, the ritual of the final milestone was achieved through a Hermetic breakthrough, since it breaches the lesser limit of the lunar sphere, and, although many consider the idea absurd, a few suspect that it might breach the Divine Limit, since it is based on non-Hermetic knowledge of interplanetary magic (see "The Astra Planeta" in *Realms of Power: Magic*, [pages 112 and 113](#page-112)).
 >
 > The Criamon of Barzaj do not believe in the theses of the *Perfect* and consider their quest selfish and therefore barren; although they would never admit it, they would rather this knowledge were lost to oblivion. The Order, however, does not see it that way, and so the Tribunal is interested in recovering it. Perhaps the characters will have to seek out the Perfect of the Tribunal and somehow persuade them to initiate them into that Path. Could the ideas of the Perfect be reborn within the Order?
 >
@@ -7240,7 +7242,7 @@ The *saḥirs* of al-ʿAbraj (Arabic for "the towers"), led by Aḥmad, joined t
 
 The only records of the location of al-ʿAbraj are kept at Salionca, but not even its current inhabitants would be able to find them, since they are more than three centuries old and may well have been damaged by the salt that is swallowing the covenant. Scholars of the Tribunal's Hermetic history place it between Mérida and Cáceres, on high ground close to al-Balat (the Vía de la Plata), because in the twelfth century a single reference bearing the name al-ʿAbraj was found in the basilica of Santa Lucía del Trampal. It must surely have served as a defensive bastion between the northern kingdoms and al-Andalus, and as a bulwark against an Order that could not bring the *saḥirs* to heel until 925.
 
-<!-- p. 237 -->
+<!-- p. 237 --><a id="page-237"></a>
 
 ### Ribāṭ Ŷibāl al-Raḥma
 
@@ -7257,7 +7259,7 @@ The ancient military and religious fortress (*ribāṭ*) of the mountains of mer
 
 #### History
 
-The *ribāṭ* north of Seville was the place from which the *saḥirs* set out who attacked the north of the Peninsula in 907. In their advance they destroyed the covenants of Inverneira and Ipagrum and damaged Occelum Durii, Fafḥṣ al-Luŷŷ and Duresca. The attack was a response to the breaking of the truce they had signed with the Hermetic magi after the destruction of the *ribāṭ* in northern Jaén, where the Hermetic envoy Tareyja al-Apromoriyya and the judge Qatr al-Nadà were negotiating with the *saḥirs*; all of them died that day. Although Al-Muzaffar al-Mursī had planned another attack, this time on Salionca, Ṭāmis ibn Baldiccione al-Išbīlī al-Gernikī and Zaynab ḅint Qatr al-Nadà secured a new truce that finally brought the longed-for peace between the *saḥirs* and the Order in 925. The only condition Al-Muzaffar imposed was a ban on founding Hermetic covenants in Africa for 300 years (see insert on page 77).
+The *ribāṭ* north of Seville was the place from which the *saḥirs* set out who attacked the north of the Peninsula in 907. In their advance they destroyed the covenants of Inverneira and Ipagrum and damaged Occelum Durii, Fafḥṣ al-Luŷŷ and Duresca. The attack was a response to the breaking of the truce they had signed with the Hermetic magi after the destruction of the *ribāṭ* in northern Jaén, where the Hermetic envoy Tareyja al-Apromoriyya and the judge Qatr al-Nadà were negotiating with the *saḥirs*; all of them died that day. Although Al-Muzaffar al-Mursī had planned another attack, this time on Salionca, Ṭāmis ibn Baldiccione al-Išbīlī al-Gernikī and Zaynab ḅint Qatr al-Nadà secured a new truce that finally brought the longed-for peace between the *saḥirs* and the Order in 925. The only condition Al-Muzaffar imposed was a ban on founding Hermetic covenants in Africa for 300 years (see insert on [page 77](#page-77)).
 
 Al-Muzaffar then joined the Order and turned his old fortress into a Hermetic covenant. During the first years he had to face some sporadic attacks by the Flambeau of Ruiz Sánchez de Esco, and he realized that joining the Order had made them weaker: from being ahead, they had ended up at the back of the line, ignored by an organization almost two centuries old.
 
@@ -7273,7 +7275,7 @@ When the Tribunal of al-Andalus was annexed to Iberia in 1103, the *ribāṭ* of
 >
 > When some magi of the Tribunal end up at the ruins of the *ribāṭ* of Ŷibāl al-Raḥma, they look on in dismay at the many desecrations it has suffered over the years. Weary of the Tribunal's passivity in the face of Flambeau violence against the *saḥirs*, they decide to take matters into their own hands and bring the case before the Tribunal, so as to have the harassment the *saḥirs* have endured over the centuries defined as an offense once and for all. In their plea they will have the support of the maga Šarīfah Muhŷa al-Praliḥiyya of the African covenant of al-Minẓār, who will become their chief representative. Will the player characters' magi support the initiative?
 
-<!-- p. 238 -->
+<!-- p. 238 --><a id="page-238"></a>
 
 #### Setting and Physical Description
 
@@ -7283,7 +7285,7 @@ The blackened ruins of Ŷibāl al-Raḥma lie on the southern slopes of the Sier
 >
 > *It was a sorrel horse with which battle was kindled as if by a brand of courage. Its coat was the color of the pomegranate flower; its ear, the shape of the myrtle leaf. And in the midst of its ruddy color a white star rose upon its brow, like the snowy bubbles that laugh in a glass of red wine.*[^p238-XVII]
 >
-> Some Criamon of the Tribunal believe that the wars between the Flambeau and the *saḥirs* during the first two centuries of the Order's existence brought about the creation of a terrible adulteration (see *Houses of Hermes: Mystery Cults*, page 99), which takes the form of a magnificent, tall, red-coated steed with a majestic gaze. The Iberian Criamon are convinced that this adulteration has been responsible for every war in which the Order has been embroiled, the Schism War included. According to them, the adulteration can only be resolved if the Order confronts its past and, as a whole, tries to change its bloody nature; the time has come for it to atone for its sins if it does not wish to meet a tragic end. Of course, any attempt to defeat it through violence would only feed it.
+> Some Criamon of the Tribunal believe that the wars between the Flambeau and the *saḥirs* during the first two centuries of the Order's existence brought about the creation of a terrible adulteration (see *Houses of Hermes: Mystery Cults*, [page 99](#page-99)), which takes the form of a magnificent, tall, red-coated steed with a majestic gaze. The Iberian Criamon are convinced that this adulteration has been responsible for every war in which the Order has been embroiled, the Schism War included. According to them, the adulteration can only be resolved if the Order confronts its past and, as a whole, tries to change its bloody nature; the time has come for it to atone for its sins if it does not wish to meet a tragic end. Of course, any attempt to defeat it through violence would only feed it.
 >
 > Of the few who have ever glimpsed the supposed sorrel horse, none has been able to prove that it is an adulteration. Nevertheless, more than twenty sightings have been recorded in recent years, which to the Criamon heralds the imminent arrival of the next global conflict, quite possibly the last, as they somberly add. Few magi outside House Criamon believe these stories, and the Christians accuse them of plagiarizing the rider of the red horse of the Apocalypse. Despite their discredit, the Criamon do not lose heart, and they seize on every Tribunal to make their *sodales* reflect on the violent history of the Order.
 >
@@ -7310,7 +7312,7 @@ The province borders the kingdom of Castile to the north, the *kūra* of Seville
 
 The covenant of Jušjášun (Arabic for "poppy") is small but tremendously rich. Today it is known for supplying white poppy to the entire Tribunal, a trade through which it began to grow wealthy in the early twelfth century and by which it earned the title of dedicated covenant at the ordinary Tribunal of 1158. Jušjášun, however, was not always rich, nor always interested in trading the small capsules of the poppy family.
 
-<!-- p. 239 -->
+<!-- p. 239 --><a id="page-239"></a>
 
 #### History
 
@@ -7340,7 +7342,7 @@ Al-Ŷannan (Arabic for "the gardener") is the *laqab* of this Valencian Bonisagu
 
 Al-Barrāḍ is likewise a *laqab*, the byname of a pre-Islamic Arab warrior whose violence gave rise to the saying: "you are more vehement than the attacks of Al-Barrāḍ."
 
-<!-- p. 240 -->
+<!-- p. 240 --><a id="page-240"></a>
 
 Al-Barrāḍ is a *saḥir* and a powerful soldier in Duresca's pay. His job is to defend Al-Ŷannan and the white poppy plantation. The magi of the Tribunal prefer to avoid this magus, for he has no honor and no scruples in carrying out his work. To many he is nothing but a hired killer, which only reinforces the image Duresca wishes to project of its faithful soldier.
 
@@ -7363,7 +7365,7 @@ During the early years of Lucis, Tello acted as intermediary between Ranemiro an
 
 Throughout the covenant's life, the rooms of Alma Mater served as classrooms for teaching theology, medicine and philosophy, and amid the comings and goings of people its inhabitants discovered several students with the Gift, whom they also trained in the Arts and Hermetic theory. During the revolt of the suburb in 818, Alma Mater had to take refuge in Secunda, where it remained a whole year before returning to Cordoba. Years later, when the tomb of the apostle Saint James was discovered, Alma Mater put on its festive best and made a pilgrimage there with its students, which eventually became a tradition and kept Alma Mater and Campus Stellae on good terms throughout its existence.
 
-Tello won great fame as a judge within the Order, and Alma Mater became a byword, which, it must be said, Somnus of Tremere did not hesitate to exploit for his own benefit. Tello's life changed at the Council of Cordoba of 839. The magus was deeply impressed by the speech of Esperaindeo (see "The Voluntary Martyrs," page 24), and his tolerance turned into intransigence. Tello took to crossing himself whenever he heard the call to prayer from the minarets and to arguing frequently with Qatr al-Nadà. The tensions between them erupted at the New Year council, when Tello's *filia*, María, sided with Qatr al-Nadà. Tello insulted her and told her she was defending a heretic who had converted to Islam. To settle the argument, Tello expelled both women from the covenant, and from that moment on he devoted his life to atoning for his sins and helping the Christians who lived subjugated by Islam.
+Tello won great fame as a judge within the Order, and Alma Mater became a byword, which, it must be said, Somnus of Tremere did not hesitate to exploit for his own benefit. Tello's life changed at the Council of Cordoba of 839. The magus was deeply impressed by the speech of Esperaindeo (see "The Voluntary Martyrs," [page 24](#page-24)), and his tolerance turned into intransigence. Tello took to crossing himself whenever he heard the call to prayer from the minarets and to arguing frequently with Qatr al-Nadà. The tensions between them erupted at the New Year council, when Tello's *filia*, María, sided with Qatr al-Nadà. Tello insulted her and told her she was defending a heretic who had converted to Islam. To settle the argument, Tello expelled both women from the covenant, and from that moment on he devoted his life to atoning for his sins and helping the Christians who lived subjugated by Islam.
 
 In 851 Tello ended up in prison for having accepted a girl of Muslim parents into his classes, and he had to recant before the *qādī* to win his freedom a year later. His submission, however, did not please Álbaro of Cordoba, who shamed him before the city's Christian community. So when, seven years later, Saint Eulogius was executed, Tello sank into a deep depression. That autumn, at the end of the afternoon prayer, the magus publicly accused Muḥammad of being a false prophet and was imprisoned. When asked to recant, he reaffirmed his opinion before the *qādī*, who had no choice but to sentence him to death.
 
@@ -7373,7 +7375,7 @@ The only magus left in Alma Mater departed after Tello's beheading in the autumn
 
 Alma Mater was sacked and burned during the *fitna*. Nothing of it remains. Other houses were raised on its foundations, so it is not even possible to tell where it was built, or whether it was bathed by the Divine aura that now lies over the area.
 
-<!-- p. 241 -->
+<!-- p. 241 --><a id="page-241"></a>
 
 ### Ipagrum
 
@@ -7404,7 +7406,7 @@ Ipagrum was the first covenant the *saḥirs* attacked before crossing the front
 >
 > [^p241-XVIII]: Excerpt from *De correctione rusticorum* by the sixth-century Hispanic bishop Martin of Braga (taken from A. Peña, 2004).
 
-<!-- p. 242 -->
+<!-- p. 242 --><a id="page-242"></a>
 
 #### Setting and Physical Description
 
@@ -7425,7 +7427,7 @@ The covenant of ʿÔlām wā-ʿed (Hebrew for "for ever and ever," in its sense 
 
 #### History
 
-The town of Lucena (in Arabic, al-Yusana), halfway between Cordoba, Granada and Malaga, based its economy on trade and viticulture, and was the most important Jewish enclave in al-Andalus until the arrival of the Almohads in 1148. During the caliphate the town stood on a cultural par with resplendent Cordoba, for its rabbinical academy came to enjoy more prestige than that of the former caliphal capital, and it was where the Iberian genius Moses ben Maimon studied (see page 321).
+The town of Lucena (in Arabic, al-Yusana), halfway between Cordoba, Granada and Malaga, based its economy on trade and viticulture, and was the most important Jewish enclave in al-Andalus until the arrival of the Almohads in 1148. During the caliphate the town stood on a cultural par with resplendent Cordoba, for its rabbinical academy came to enjoy more prestige than that of the former caliphal capital, and it was where the Iberian genius Moses ben Maimon studied (see [page 321](#page-321)).
 
 The Jews Malʾāk and Petuel took the risk of founding their covenant in their native Lucena when Ṭāmis ibn Baldiccione al-Išbīlī al-Gernikī announced in 920 that peace negotiations with the *saḥirs* were still under way. To buy the building they wanted (a modest property in the medina, bathed by a weak *lacuna*), the two magi had to take a loan from Aedes Saturni, which they extended a year later to purchase several lots of young slaves in Almería. Having brought them to Lucena, they operated on the males and separated the slaves by sex to educate them for ten years. On reaching maturity, the eunuchs were sold in the souks of Cordoba to work as servants in the harems, as administrators in the civil service or as soldiers in the army, and the women were delivered to serve in the palaces as scribes (for their delicate calligraphy), singers, dancers or musicians. At that time the trade in people from the land of the *ṣaqāliba*[^p242-39] was booming: slaves were carried down the Rhône to its mouth at Arles, and from there shipped by sea to al-Andalus. Their first investment yielded such profits that ʿÔlām wā-ʿed extended its influence to the cities of Barcelona and Almería, where the slave ships arrived from northern Europe. In time they began to trade in slaves from southern Provence and northern Iberia, since Basque women were especially coveted by the Cordoban upper classes. Their slaves became so famous that ʿÔlām wā-ʿed reached the cities of North Africa and the Mediterranean, and many Christian covenants in northern Iberia paid them in vis. In the markets and souks of al-Andalus, the slaves of ʿÔlām wā-ʿed fetched prices of more than 1,000 dīnārs.
 
@@ -7435,7 +7437,7 @@ In 974 the caliph Al-Ḥakam II engaged the services of ʿÔlām wā-ʿed and re
 
 After the Schism War, ʿÔlām wā-ʿed supported the independence of al-Andalus and, as the mundane powers rose and fell, showed a great capacity to adapt. Thus, when the *fitna* broke out, its finances did not suffer, thanks to its foreign trade; during the taifa kingdoms it was one of the main suppliers of eunuchs to the Zirid court of Granada; and with the arrival of the Almoravids it was able to buy its freedom, and its business was barely affected. In 1148, however, everything changed. The town of Lucena and the covenant were razed by the Almohads, and the magi had to flee in haste. Although they tried to return, they managed to recover only an insignificant part of all they had amassed in their two centuries of existence: the governor of Granada, Abū Saʿīd ʿUṯmān, took everything from them. The mundane Jews of Lucena did not escape unscathed either, and had to go into exile in Provence,[^p243-40] in the Christian kingdoms of Castile and Aragon and, above all, in the Islamic lands of the East and North Africa.
 
-<!-- p. 243 -->
+<!-- p. 243 --><a id="page-243"></a>
 
 When, at the Tribunal of 1151, Meʾir ibn Yosef al-Ŷerbitonī announced the destruction of ʿÔlām wā-ʿed, the Tribunal was left breathless, for it confirmed that no one was safe from the power of the Almohads. The magi of ʿÔlām wā-ʿed then dispersed among cities with a notable Jewish presence, such as Toledo (in the covenant of Iššáh), Gerona (where they founded the covenant of ʿĂrābôt) and Monforte (where they raised the unruly Beit Midrash).
 
@@ -7472,13 +7474,13 @@ When the caliph ʿAbd al-Raḥmān III built the palatine city of Madīnat al-Za
 
 ʿAbbās ibn Munḏīr was elected Praeco at the close of the tumultuous Tribunal of 941, a couple of days after formally founding his covenant, so he had to take on the difficult task of turning the small *almunia* he had acquired into a structure capable of hosting an entire Tribunal in only seven years. ʿAbbās almost regretted, then, having left the covenant of Qasr Dār al-Muchaddad.
 
-<!-- p. 244 -->
+<!-- p. 244 --><a id="page-244"></a>
 
 Making use of the relationships that he and the Praeco Ǧamīla al-Ŷerbitoniyya had established with certain dignitaries of the Umayyad court, he began to weave numerous intrigues and hand out numerous gifts to secure a small monthly stipend from the public treasury; and although he tried to approach ʿAbd al-Raḥmān III, to whom he gave a beautiful enchanted carving of Venus in 947, all he achieved, to his despair, was to have it placed over the southern gate of the city. Despite his income, ʿAbbās had to take a loan of almost 500,000 dīnārs from Aedes Saturni and from the Lucena covenant of ʿÔlām wā-ʿed in order to hold the sumptuous Tribunal of 948 at al-Zahrāʾ.
 
 ʿAbbās continued to rise at court, and he invented a genealogy making him a descendant of Abū Bakr (the first caliph chosen to govern the Islamic community after the death of the Prophet) to obtain his first audience in the halls of the palace of Madīnat al-Zahrāʾ. At that meeting Al-Ḥakam II took a liking to him, as much for his lineage as for his wisdom, and showered him with gifts. The caliph raised his stipend to 1,000 dīnārs a month (more than ten times that of the *ḥaŷib*!), granted him seventy *almudes* of wheat a month, and gave him a palace in the medina, lands for his *almunia* and slaves to work them, mounts, jewels, garments, tapestries and numerous books. ʿAbbās then used his influence to have the caliph sign an agreement with the covenant of ʿÔlām wā-ʿed to supply him with slaves and eunuchs. In return, the Lucena covenant forgave his debt and paid Aedes Saturni what ʿAbbās owed it.
 
-ʿAbbās arranged for one of his fellow covenant members, the eunuch Ṭalīd, to take charge of the caliph's library of learning (*jizanatu-hu l-ʿilmiya*); he founded an important workshop for copying Qurʾans, directed by the freedwoman and woman of letters ʿAʾisha ḅint Ahmad ibn Muḥammad ibn Qadim; and he set up an ivory workshop so that the exceptional Faŷrun al-Verditiyya (see "Aẓm Alfíl," page 174) could work the tusks the caliph brought from the Maghreb. In less than twenty years al-Zahrāʾ had acquired several stalls in the souk, public baths, mills and a small fleet of ships that it leased out to enrich itself. But the price was very high: at the end of 962, ʿAbbās denounced the Kharijites of the Almería covenant of Bayt al-Ḥikma in order to advance at court and achieve something unprecedented in the Order, the integration of the Tribunal into mundane society through the Peripheral Code ruling "On the Great Mosque of Cordoba" (969).
+ʿAbbās arranged for one of his fellow covenant members, the eunuch Ṭalīd, to take charge of the caliph's library of learning (*jizanatu-hu l-ʿilmiya*); he founded an important workshop for copying Qurʾans, directed by the freedwoman and woman of letters ʿAʾisha ḅint Ahmad ibn Muḥammad ibn Qadim; and he set up an ivory workshop so that the exceptional Faŷrun al-Verditiyya (see "Aẓm Alfíl," [page 174](#page-174)) could work the tusks the caliph brought from the Maghreb. In less than twenty years al-Zahrāʾ had acquired several stalls in the souk, public baths, mills and a small fleet of ships that it leased out to enrich itself. But the price was very high: at the end of 962, ʿAbbās denounced the Kharijites of the Almería covenant of Bayt al-Ḥikma in order to advance at court and achieve something unprecedented in the Order, the integration of the Tribunal into mundane society through the Peripheral Code ruling "On the Great Mosque of Cordoba" (969).
 
 After the death of Al-Ḥakam, however, ʿAbbās won the trust of the *ḥaŷib* Almanzor, though not for long. Despite his efforts to prevail, the approach of the end of the millennium (when many Christians predicted the end of the world) marked his fall. Before the turn of the century, the Redcaps of Aedes Saturni published the minutes of the meetings ʿAbbās had held with Al-Ḥakam in 962, and an anonymous figure denounced al-Zahrāʾ to the *fuqahāʾ* of Cordoba. The Praeco was condemned by the *qādī* in the Great Mosque and fled; the rest of the members scattered throughout the Tribunal. The covenant's riches were seized by the civil authorities of Cordoba and, with the fall of the palatine city, its halls were sacked and plundered.
 
@@ -7500,7 +7502,7 @@ The covenant of al-Zahrāʾ lies in ruins, both its old palace and its *almunia*
 
 [^p244-41]: Excerpt from *In Praise of Spanish Islam* by Al-Šaqundī (Spanish translation by Emilio García Gómez).
 
-<!-- p. 245 -->
+<!-- p. 245 --><a id="page-245"></a>
 
 After Seville, the *kūra* of Granada is the largest. To the north it borders the provinces of Seville, Cordoba and Jaén, to the west the Atlantic Ocean, to the south the Mediterranean Sea, and to the east the *kūra* of Murcia. Granada is crossed by the Sierra Nevada (*Ŷabal Šulayr*), which twelfth-century chroniclers said always had snow, winter or summer, and where the highest peak in Iberia rises, more than 3,700 meters high. In 1220 its slopes are dotted with farmsteads whose lands, watered by the Genil river, produce walnuts, apples and mulberries.
 
@@ -7529,15 +7531,15 @@ During her early years at Alma Mater, relations with Tello were not easy: the ma
 
 Since Tello had begun to neglect the affairs of the Order in favor of the Christian community of Cordoba, the judges of Dār Malīḥaʾ took over from him. Particularly noteworthy was their collaboration with Tancoystl Ex Miscellanea of Duresca, with whom they worked until his death in 845 to unmask the Tremere conspiracy, a task that culminated in 848 with the Sundering.
 
-From then on, Qatr al-Nadà concentrated on achieving peace with the *saḥirs* alongside Baldiccione, with whom she persuaded the *saḥirs* to sign their first truce with the Order in 870, and she worked for more than thirty years toward a peaceful union with the Muslim sorcerers. She did not, however, see her dream come true: Qatr al-Nadà was murdered in 907 by the Flambeau while meeting with the *saḥirs* in a *ribāṭ* in Jaén. On her death the covenant passed into the hands of her *filia* Zaynab (of the Banū Qurra, a notable family of Ronda) and María, who had converted to Islam under the name Maryam. Zaynab was responsible for continuing the negotiations with the *saḥirs* (which finally bore fruit in 925), and years later, during the scandal of the Duresca manuscripts, Maryam provided the evidence needed to declare them fraudulent at the Tribunal of 941. Maryam then left for Duresca, and Zaynab withdrew from political life for fear of ending up like her colleague Ṭāmis (see page 77).
+From then on, Qatr al-Nadà concentrated on achieving peace with the *saḥirs* alongside Baldiccione, with whom she persuaded the *saḥirs* to sign their first truce with the Order in 870, and she worked for more than thirty years toward a peaceful union with the Muslim sorcerers. She did not, however, see her dream come true: Qatr al-Nadà was murdered in 907 by the Flambeau while meeting with the *saḥirs* in a *ribāṭ* in Jaén. On her death the covenant passed into the hands of her *filia* Zaynab (of the Banū Qurra, a notable family of Ronda) and María, who had converted to Islam under the name Maryam. Zaynab was responsible for continuing the negotiations with the *saḥirs* (which finally bore fruit in 925), and years later, during the scandal of the Duresca manuscripts, Maryam provided the evidence needed to declare them fraudulent at the Tribunal of 941. Maryam then left for Duresca, and Zaynab withdrew from political life for fear of ending up like her colleague Ṭāmis (see [page 77](#page-77)).
 
 The covenant was revitalized by the arrival, at the end of the tenth century, of the Trianomae Ḥafṣa ibn ʿAbbās. The maga launched an ambitious project to improve the infrastructure of Dār Malīḥaʾ and extend its influence in Iberia. Within a few years the covenant had built an astronomical observatory near al-Ŷazīra al-Jaḍrāʾ, raised a spectacular building in the gorges of the Guadalhorce river (to which the magi moved), fitted out the old quarters of Dār Malīḥaʾ to serve as the seat of the Banū Qurra, opened a school of Mālikī law, acquired a building in Malaga, and widened its contacts among the Cordoban elite and the astrologers of Almanzor's court, taking advantage of its good relations with the covenant of al-Zahrāʾ, which was ruled by her *parens*, ʿAbbās.
 
-<!-- p. 246 -->
+<!-- p. 246 --><a id="page-246"></a>
 
 When the Schism War broke out shortly afterward, Ḥafṣa attended the extraordinary Grand Tribunal of 1011 and voted against the expulsion of House Diedne. When the meeting decided otherwise, she was consumed by frustration and issued a communiqué inviting all the covenants of Iberia not to respect the Order's verdict. Almost all the Andalusi magi backed her and, as a result, the Tribunal broke apart into two smaller units: Iberia and al-Andalus. Curiously, Ḥafṣa met the greatest resistance in her own covenant: her *filius*, Domingo Garcés, and two of its most eminent members, the musicians and poets Maʿbad and Al-Garīd al-Ŷerbitonī, left Dār Malīḥaʾ and went off to fight the Diedne.
 
-As the foremost representative of the Andalusi movement, Ḥafṣa was elected Praeco of the illegitimate Tribunal of al-Andalus, and Dār Malīḥaʾ hosted the first two Tribunals before they moved to the Great Hall of Saragossa. To reward the invaluable part the mathematicians of Madrid had played in its construction, in 1035 Ḥafṣa funded the school of mathematics and astronomy of Granada, founded by Asbay ibn Muḥammad, one of the disciples of Maslama (see page 287).
+As the foremost representative of the Andalusi movement, Ḥafṣa was elected Praeco of the illegitimate Tribunal of al-Andalus, and Dār Malīḥaʾ hosted the first two Tribunals before they moved to the Great Hall of Saragossa. To reward the invaluable part the mathematicians of Madrid had played in its construction, in 1035 Ḥafṣa funded the school of mathematics and astronomy of Granada, founded by Asbay ibn Muḥammad, one of the disciples of Maslama (see [page 287](#page-287)).
 
 Dār Malīḥaʾ also produced the second and last Praeco of al-Andalus, the charismatic poet Al-ʿĀsmarun al-Ŷerbitonī. During his tenure he persuaded Porta Pandere to approve the creation of the Mercere portal *Vicesimus*, and he contributed to the enrichment of the Tribunal through the Mercer House of Aedes Iris. He did not, however, manage to have the Order recognize the independence of al-Andalus, and he ended up supporting its reunification in 1089. With the return to Iberia, Dār Malīḥaʾ was pushed into the background under the strict watch of Duresca and Durato, though this did not stop it from continuing to set an example with its high moral standards and sound judicial practice.
 
@@ -7569,7 +7571,7 @@ To avoid the piracy of Majorca, the covenant has struck a deal with Ajabeba, alt
 
 Almería (al-Mariyyāt Baŷŷāna) received the title of city in 955, when ʿAbd al-Raḥmān III made it the capital of a *kūra*. Its souks offer a great variety of goods: Iraqi glass has been imported there since the ninth century (after Ziryāb made it fashionable), to be worked in its own workshops or in those of Murcia, Malaga or Seville. The city has more than 800 silk looms and the finest marble workshops, where the marble, once carved or polished, is called *mulūkī*. Dār Malīḥaʾ bought a building in the city's Christian exchange (within the walled enclosure), where Christian goods are distributed throughout the domains of al-Andalus.
 
-<!-- p. 247 -->
+<!-- p. 247 --><a id="page-247"></a>
 
 The covenant's other building in Almería, an astronomical observatory, was built by Ḥafṣa at the end of the tenth century on the highest peak of the Sierra de Alhamilla. The slender tower, twenty meters high, is crowned by a chamber with no entrances or exits: it can only be reached by means of magic. There lies the observatory, whose floors and walls are made of Iraqi glass worked in the workshops of Almería. The floor, inspired by the chamber King Solomon built for Bilkīs, imitates a lovely pool that shimmers in the starlight. On clear nights the magi can see the sky distinctly and take their measurements in the observatory's small study. In time the magi of Dār Malīḥaʾ built a laboratory there.
 
@@ -7583,7 +7585,7 @@ More than a hundred meters above the ground, between the sheer walls of the rive
 
 Only the members of Dār Malīḥaʾ (present and past) know the command word needed to work the door leading to the mirror room. Once the way is unlocked, a Magic Resistance of 20 or more is required to cross the threshold (because of a magical effect). Beyond the portal a staircase leads to a small square room, fifteen meters on a side, without windows or furniture, with a great mirror covering the whole of the wall on the left as one enters. The mirror is enchanted with a level 50 effect of *The Invisible Eye Revealed*
 
-<!-- p. 248 -->
+<!-- p. 248 --><a id="page-248"></a>
 
 (InVi) and works on anyone who looks into its surface with a Magic Resistance of 40 or less. It is also invested with a permanent *Lamp without Flame* effect (CrIg; Target Room), and with an effect similar to *Frosty Breath of the Spoken Lie* (InMe 20; with an effect Penetration of 50), which shows a murky reflection of those who lie when they speak. Finally, the mirror is linked to a tiara, usually worn by the covenant's Redcap, which lets the wearer record in writing whatever thoughts she wishes to share. On the first day the recorded messages are black; from then on they take on an ever redder hue until they vanish on the seventh day (the members of Dār Malīḥaʾ visit the room at least once a day to check that there are no new messages).
 
@@ -7637,13 +7639,13 @@ Traditionally, all the covenant's magi have been pacifists, and neither ambition
 >
 > ReMe 35<br>
 > R: Eye, D: Sun, T: Ind<br>
-> This spell is a variation of *The Penitent's Confession* (ReMe 30; see *Houses of Hermes: True Lineages*, page 79), but with Sun duration.
+> This spell is a variation of *The Penitent's Confession* (ReMe 30; see *Houses of Hermes: True Lineages*, [page 79](#page-79)), but with Sun duration.
 >
 > The name refers to the qaṭā, a bird the Arabs consider truthful because its call sounds like its name.
 >
 > (Base 20, +1 Eye, +2 Sun)
 
-<!-- p. 249 -->
+<!-- p. 249 --><a id="page-249"></a>
 
 Dār Malīḥaʾ has an extensive network of mundane contacts spread throughout Iberia and North Africa. To coordinate them it uses the services of Chamua, a Redcap who rides a beautiful Sevillian mare with a pearl-colored coat.
 
@@ -7681,11 +7683,11 @@ The Bjornaer Labwatun (from the Arabic for "lioness") was born in a coastal vill
 
 ##### Ḥannûn al-Criamonī
 
-Ḥannûn (from the Hebrew for "merciful") is the *filius* of Offilo, and despite his age he is still very childish (his favorite book is still *The Travels of Fedoso*; see *Houses of Hermes: Mystery Cults*, page 101).
+Ḥannûn (from the Hebrew for "merciful") is the *filius* of Offilo, and despite his age he is still very childish (his favorite book is still *The Travels of Fedoso*; see *Houses of Hermes: Mystery Cults*, [page 101](#page-101)).
 
 He spent the best years of his life with his inseparable friend, Al-Saraqusṭiyya, and now that she has drifted away from him, he resigns himself to walking his path alone. The void his friend has left is hard to fill, and he still cannot understand how, barely a few years ago, they could have sworn eternal friendship. In his despair, Ḥannûn committed a terrible crime of which he is still ashamed: he spied on his former friend's correspondence and discovered that she was writing to a member of Duresca. He now knows that her distance is due to a change of priorities, which has only tarnished the image he has of her.
 
-<!-- p. 250 -->
+<!-- p. 250 --><a id="page-250"></a>
 
 > #### Story Seeds: Dār Malīḥaʾ
 >
@@ -7701,7 +7703,7 @@ He spent the best years of his life with his inseparable friend, Al-Saraqusṭiy
 >
 > On one of their journeys, the characters meet a merchant carrying a caged lioness. The animal seems the very epitome of its kind, and the magi suspect it may be a magical creature. If they ask the merchant, he tells them that he found her in the forests of Malaga and that she has been bought by the king of Leon, Alfonso IX, to keep company with the old male he has at court. Attempts to detect magic reveal PeAn and ReAn enchantments on the ring around the animal's neck, but nothing more. A closer mundane examination (Perception + Awareness 9+), however, reveals that the metal is covered in runes betraying its magical manufacture (a Verditius can recognize them as the work of his House). The lioness, who is none other than Labwatun, roars loudly at the characters and is unaffected by the Gift. How was she captured? Where did the magic ring come from, and how did the king of Leon come by the lioness? Do the magi of Dār Malīḥaʾ know anything? The characters will have the chance to win the trust of one of the most powerful covenants of the Tribunal while investigating a possible mundane violation… by Ajabeba? Perhaps the Verditius will want to buy their silence!
 
-<!-- p. 251 -->
+<!-- p. 251 --><a id="page-251"></a>
 
 ##### Offilo al-Criamonī
 
@@ -7729,7 +7731,7 @@ Chamua knows that Al-Saraqusṭiyya is in contact with Lía of Duresca and, alth
 
 ##### Marŷān al-Bonisagiyya
 
-Marŷān is a learned maga who has contributed many advances to the covenant. For some years she has been working with Osoro of Pallantia (see page 157), although lately her colleague has neglected his studies to concentrate on teaching. Marŷān thinks this a waste, so she has invited him to found a covenant with her. Indeed, if he accepted, she would leave Dār Malīḥaʾ, much to the sorrow of her brothers and sisters.
+Marŷān is a learned maga who has contributed many advances to the covenant. For some years she has been working with Osoro of Pallantia (see [page 157](#page-157)), although lately her colleague has neglected his studies to concentrate on teaching. Marŷān thinks this a waste, so she has invited him to found a covenant with her. Indeed, if he accepted, she would leave Dār Malīḥaʾ, much to the sorrow of her brothers and sisters.
 
 ### Qasr Dār al-Muchaddad
 
@@ -7746,7 +7748,7 @@ A little more than a century after the founding of the Order, Ǧamīla created t
 
 The Cordoban Ǧamīla was taken to the Baghdad of the sorcerers when she was barely five years old. Her master trained her in the East, surrounded by every kind of luxury and with access to all the writings of the great Greek thinkers. After passing her Gauntlet, Ǧamīla set out on a long journey through the Middle East and North Africa which, almost three decades later, brought her to the city of Algiers, where she met one of the Redcaps of Aedes Saturni. When the Mercere told her that the Order had signed a truce with the *saḥirs*, she took ship for the Peninsula to continue her travels, unaware that she was heading for her final destination. On her arrival, Ǧamīla fell in love with the al-Andalus of the Umayyads and founded the covenant of Qasr Dār al-Muchaddad north of the medina of Elvira, which at that time had a large Jewish population. In those days she met the Trianomae ʿAbbās ibn Munḏīr, newly arrived from Durenmar, with whom she forged many alliances with the most powerful families of Cordoba and the governors of the *kuwar*. So busy were they that they spent hardly any time at the covenant, which, incidentally, saved them from being attacked when the *saḥir* truce was broken in 907. But the brutality of the attack changed her: Ǧamīla threw herself into Hermetic politics and was elected Praeco, demonstrating her commitment to the Tribunal in seeking peace with the *saḥirs*. She was the champion of the cultural revolution that bore her name in the tenth century and that gave the Tribunal its distinctive identity. Ǧamīla's popularity, however, ended in 941 with the affair of the Duresca manuscripts: at the height of the Tribunal, and under pressure from Magvillus's envoys, the maga chose to silence those who defended the authenticity of the manuscripts, which led ʿAbbās and other companions at Qasr Dār al-Muchaddad to abandon her. Ǧamīla died eight years later, practically alone. The covenant vanished from the Hermetic scene and, during the Schism War, supported the independence of al-Andalus. In time it sank into the Winter in which it remains trapped.
 
-<!-- p. 252 -->
+<!-- p. 252 --><a id="page-252"></a>
 
 The fate of Qasr Dār al-Muchaddad seemed to be inevitable oblivion until Fāṭīma and Sankhambi (the founders of Ŷezirat Tennyn) discovered the uncontrolled portal at the Pillars of Hercules. Aṣbag Ḏū l-Sayfayn al-Merinitī, one of the magi of Aedes Iris, then undertook to watch over it, but since the African covenant was too far away, he asked the covenants of Dār Malīḥaʾ and Qasr Dār al-Muchaddad for lodging during the ordinary Tribunal of 1123. Although the former turned down his request, the aged Jewish magus Hālôm, the sole resident of Qasr Dār al-Muchaddad, gave him leave to live in his covenant with complete freedom. And so, after the destruction of Aedes Iris, Aṣbag became a nominal member of Qasr Dār al-Muchaddad, which gladdened the aged Hālôm, who feared the covenant would disappear after his death.
 
@@ -7776,7 +7778,7 @@ In Hermetic matters, the covenant is an autocracy governed by the *pontifex*. To
 
 Aṣbag bears the noble *laqab* Ḏū l-Sayfayn, which means "he of the two swords." Descended from an Arab family of warriors, he came to Aedes Iris to help the Redcaps explore the African territories. When the portal of the Pillars of Hercules was discovered, however, Aṣbag volunteered to guard it. With the destruction of Aedes Iris he took up residence at Qasr Dār al-Muchaddad, where he was granted the title of *pontifex*.
 
-<!-- p. 253 -->
+<!-- p. 253 --><a id="page-253"></a>
 
 Aṣbag uses his influence with the faeries to enlist their help in watching the portal, and although he has not yet persuaded any Tribunal to grant them the status of dedicated covenant, he expects that things will change when some catastrophe occurs (one he trusts he will survive).
 
@@ -7801,13 +7803,13 @@ The very young Dánae of Tremere is the *filia* of Medea of Tremere of Victrix. 
 >**Aura (type and strength):** Magic, strength 7<br>
 >**Reputations:** Kharijite (Iberian Tribunal) 3, Gorgiastic (Iberian Criamon) 2
 
-The Criamon who founded this covenant left Barzaj when they were young and traveled to Baghdad, where they learned from the great masters at the House of Wisdom (in Arabic, Bayt al-Ḥikma), and from there they returned to Iberia to continue their studies, this time with the masters Aḥmed and Omar al-Harranī and the great Ibn Masarra (see page 79). This covenant was the seed of the Kharijite movement.
+The Criamon who founded this covenant left Barzaj when they were young and traveled to Baghdad, where they learned from the great masters at the House of Wisdom (in Arabic, Bayt al-Ḥikma), and from there they returned to Iberia to continue their studies, this time with the masters Aḥmed and Omar al-Harranī and the great Ibn Masarra (see [page 79](#page-79)). This covenant was the seed of the Kharijite movement.
 
 #### History
 
 The *amici* Muḥammad and Wāṣil were raised at Barzaj and, after passing their Gauntlets, continued on their path without the supervision of their *parentes*. In 857 they traveled to Baghdad to go on learning from the great sages of the Islamic world, and in their late-night conversations they decided to call their future covenant Bayt al-Ḥikma, inspired as they were by the tales of the East.
 
-When the *amici* returned to Iberia, they did not even bother to announce their arrival or to raise their covenant; they lived in Cordoba while they studied at the Great Mosque. It was not until the Tribunal of 913 that the presiding Quaesitor, Ṭāmis al-Gernikī, obliged them to build their covenant within seven years on pain of expulsion. By then the *amici* had already left Cordoba, and they chose as their home the lands bordering the desert, some thirty kilometers north of the coastal city of al-Mariyyāt Baŷŷāna (Almería), where, unbeknownst to them, a powerful *genius loci* dwelt (see *Realms of Power: Magic*, pages 117 and 118).
+When the *amici* returned to Iberia, they did not even bother to announce their arrival or to raise their covenant; they lived in Cordoba while they studied at the Great Mosque. It was not until the Tribunal of 913 that the presiding Quaesitor, Ṭāmis al-Gernikī, obliged them to build their covenant within seven years on pain of expulsion. By then the *amici* had already left Cordoba, and they chose as their home the lands bordering the desert, some thirty kilometers north of the coastal city of al-Mariyyāt Baŷŷāna (Almería), where, unbeknownst to them, a powerful *genius loci* dwelt (see *Realms of Power: Magic*, [pages 117 and 118](#page-117)).
 
 The covenant went unnoticed until the ordinary Tribunal of 948. After the scandal of the Duresca manuscripts, Muḥammad and Wāṣil called the magi of the Tribunal to disobedience and, in response to Magvillus's repression, Bayt al-Ḥikma declared that it would open its doors to every member of the Order who wished to study from its fabulous library, offering to teach any magus without asking anything in return. The Redcaps spread the news and, in barely seven years, Bayt al-Ḥikma became a center of learning for many magi of the Tribunal and the rest of Europe. The adherents of this social movement came to be called Kharijites.
 
@@ -7815,7 +7817,7 @@ When mundanes reached its gates, the Quaesitores grew alarmed. But that was not 
 
 [^p254-50]: *Rābiṭas* are a kind of hermitage where Muslims withdraw to lead an ascetic life (not to be confused with the *ribāṭ*). Some five kilometers from Almería stood the *rābiṭa* of ʿAmrūs, and near Granada were the *rābiṭas* of al-ʿUqāb, al-Maḥrūq and al-Liŷām. Farther afield, in Seville, stood the *rābiṭa* of Bāb ʿAmbar.
 
-<!-- p. 254 -->
+<!-- p. 254 --><a id="page-254"></a>
 
 #### Setting and Physical Description
 
@@ -7829,7 +7831,7 @@ The ruins of Bayt al-Ḥikma lie on the northern edges of the desert of al-Mariy
 >
 > The records of Duresca state that Bayt al-Ḥikma was raised around the year 913 on the edges of the desert. Yet in 1220 the ruins sit amid a landscape of hard sand and low scrub; the desert has advanced at least four kilometers since then. It seems that the *genius loci* is making its way across those lands, relentlessly drying up everything it touches.
 >
-> The storyguide may introduce the spirit of the place into the saga however she pleases. Perhaps the characters wish to settle nearby, or try to win the favor of some mundane lord whose lands are threatened by the advancing desert, or are simply looking for vis sources. In any case, the statistics on page 118 of the supplement *Realms of Power: Magic* can be used, or the storyguide can create her own. Of course, the desert can be the setting for many other stories.
+> The storyguide may introduce the spirit of the place into the saga however she pleases. Perhaps the characters wish to settle nearby, or try to win the favor of some mundane lord whose lands are threatened by the advancing desert, or are simply looking for vis sources. In any case, the statistics on [page 118](#page-118) of the supplement *Realms of Power: Magic* can be used, or the storyguide can create her own. Of course, the desert can be the setting for many other stories.
 
 ## Jaén
 
@@ -7851,7 +7853,7 @@ If your troupe is thinking of starting a saga in this area, the Sierra de Cazorl
 
 The *kūra* of Valencia borders the Crown of Aragon and the Catalan counties to the north, Jaén and the kingdom of Castile to the west, the *kūra* of Murcia to the south, and the Mediterranean Sea to the east. Almost all of it is mountainous, the mountains giving way only to the narrow coastal strip in the east. This province contains cities such as Vinaroz, Peñíscola, Chelva, Valencia, Denia, Sagunto and Ayora.
 
-<!-- p. 255 -->
+<!-- p. 255 --><a id="page-255"></a>
 
 Despite its exceptional land, the vis sources of this *kūra* have been in the hands of the Verditius of Ajabeba since the beginning of the tenth century, which, together with their well-known acts of piracy and the strong *saḥir* presence in the Order's early days, has kept most of the Peninsula's magi away. In 1220 it is home to no living covenant, perhaps awaiting resettlement with the coming conquests of Jaume I the Conqueror.
 
@@ -7870,7 +7872,7 @@ Ziyād al-Ŷerbitonī was a member of the Theban League, and when Jerbiton retur
 
 During the Schism War, Fafḥṣ al-Luŷŷ voted against the secession of al-Andalus and, as if under a curse, all its members perished fighting the Diedne. Its chambers stood empty once more until Yulyān ibn Muhŷa al-Bonisagī claimed them under the jurisdiction of the Tribunal of al-Andalus.
 
-The Bonisagus enjoyed the peace of the Tribunal until 1067 when, in exchange for numerous benefits and the office of Praeco, he handed the powers of Iberia first-hand information on everything that was happening in al-Andalus. Although his betrayal led to the peaceful reunification of the Tribunal in 1103, the magus earned the hatred of all his Andalusi *sodales*. Such was the pressure brought to bear on him that he ended up taking his own life. With his death the covenant plunged into Winter and, with little left to lose, his *filius* Maksan decided to ally himself with Zafadola (see page 47) in an attempt to take control of all the Almoravid domains of al-Andalus. But Fafḥṣ al-Luŷŷ had no luck on that occasion either: Maksan was denounced to Duresca by the Merinitae who lived with him, who abandoned him to his fate and went off to Navarre, where they founded the covenant of al-Quṣṣāṣ.
+The Bonisagus enjoyed the peace of the Tribunal until 1067 when, in exchange for numerous benefits and the office of Praeco, he handed the powers of Iberia first-hand information on everything that was happening in al-Andalus. Although his betrayal led to the peaceful reunification of the Tribunal in 1103, the magus earned the hatred of all his Andalusi *sodales*. Such was the pressure brought to bear on him that he ended up taking his own life. With his death the covenant plunged into Winter and, with little left to lose, his *filius* Maksan decided to ally himself with Zafadola (see [page 47](#page-47)) in an attempt to take control of all the Almoravid domains of al-Andalus. But Fafḥṣ al-Luŷŷ had no luck on that occasion either: Maksan was denounced to Duresca by the Merinitae who lived with him, who abandoned him to his fate and went off to Navarre, where they founded the covenant of al-Quṣṣāṣ.
 
 After Zafadola's death in 1146, the Tribunal expelled Maksan in 1151, and his covenant was plundered in accordance with Hermetic law and destroyed so that no other magus could ever live there again, for the Tribunal believed it was cursed.
 
@@ -7880,7 +7882,7 @@ The former site of Fafḥṣ al-Luŷŷ lies two days' journey east of the city o
 
 > #### Story Seeds: the Horses of Fafḥṣ al-Luŷŷ
 >
-> In the middle of the tenth century, the members of Fafḥṣ al-Luŷŷ took a liking to the horse races and jousts held in summer on the esplanade before the Azuda Gate of the alcázar of Cordoba. To achieve better times and hardier horses, the Jerbiton bought the finest stallions from the Cordoban stables and crossed them with mares of virtue from the marshes of the Guadalquivir. The magi obtained an exceptional breed of magic horses able to tolerate the Gift and the wounds suffered in combat. It is said that when the Tremere saw them they wished to emulate them, which is why the *vexillation* of the Burning Acorn strove to obtain similar mounts (see *Houses of Hermes: True Lineages*, page 129), though with poorer results. Certainly, if the texts these Jerbiton wrote on breeding those animals were found in 1220, they would be greatly coveted by the Tremere as well as by the Merinita and the Mercere. Could they somehow come into the hands of the player characters?
+> In the middle of the tenth century, the members of Fafḥṣ al-Luŷŷ took a liking to the horse races and jousts held in summer on the esplanade before the Azuda Gate of the alcázar of Cordoba. To achieve better times and hardier horses, the Jerbiton bought the finest stallions from the Cordoban stables and crossed them with mares of virtue from the marshes of the Guadalquivir. The magi obtained an exceptional breed of magic horses able to tolerate the Gift and the wounds suffered in combat. It is said that when the Tremere saw them they wished to emulate them, which is why the *vexillation* of the Burning Acorn strove to obtain similar mounts (see *Houses of Hermes: True Lineages*, [page 129](#page-129)), though with poorer results. Certainly, if the texts these Jerbiton wrote on breeding those animals were found in 1220, they would be greatly coveted by the Tremere as well as by the Merinita and the Mercere. Could they somehow come into the hands of the player characters?
 
 ## Murcia
 
@@ -7888,7 +7890,7 @@ The former site of Fafḥṣ al-Luŷŷ lies two days' journey east of the city o
 
 [^p255-54]: Excerpt from *In Praise of Spanish Islam* by Al-Šaqundī (Spanish translation by Emilio García Gómez).
 
-<!-- p. 256 -->
+<!-- p. 256 --><a id="page-256"></a>
 
 The *kūra* of Murcia is crossed by a range of gentle mountains whose highest peak reaches little more than 1,000 meters. To the north, in the valley of the Segura river, stretch extensive irrigated lands dotted with waterwheels and irrigation channels. To the south the terrain softens down to the coast, where there are broad beaches and an enormous coastal lagoon of salt water, separated from the Mediterranean by a tongue of sand more than twenty kilometers long.
 
@@ -7927,7 +7929,7 @@ When Criamon died, a few years after the Order's First Tribunal, two of his appr
 
 It was the apprentices of Lubnà and Jalaf who went to the Rhine Tribunal of 836 to declare the existence of their covenant, which they called Indal Eccius. After training a second generation of apprentices (who would become the Kharijites of Bayt al-Ḥikma), the founders returned to the Cave of Twisting Shadows and left their first apprentices in charge of the cave they called a covenant. The cycle repeated itself for a generation or so more, and Indal Eccius went on existing outside the political life of the Tribunal until the Kharijites Muḥammad and Wāṣil of Criamon turned against the Order after the scandal of the Duresca manuscripts. Then Taʿlab, a young magus of Indal Eccius, denounced them to the Praeco of Iberia, thus bringing about the end of the Kharijite movement. His betrayal, however, also caused a terrible adulteration to be created at the moment of his Final Twilight.
 
-<!-- p. 257 -->
+<!-- p. 257 --><a id="page-257"></a>
 
 When the Schism War broke out, the magi of Indal Eccius voted in favor of the secession of al-Andalus, for violence repelled them. By then most of the covenant's Criamon had embraced Ṣūfism, and they decided to rename their covenant Barzaj. In this time of prosperity, one of its members, Sibila al-Criamoniyya, returned from the *ʿālam al-mithāl* (see below) with a clue she believed was the key to solving the Enigma. The maga spent a year setting down her thoughts in a gallery on the third level of the *regio* and, in the autumn of 1073 (when Pope Gregory VII had launched his great reform movement), she summoned her *sodales* to tell them of her discovery. However, her finding was never passed on. Sibila died at the hands of Taʿlab's adulteration and vanished without a trace; she was its first victim. All that remained of her research was the enormous chamber the maga had used for her meditations, which came to be called Sibila's gallery and which became a place of perfect transmission (see below). Despite the years, Sibila's discovery remains hidden, and the Criamon have come to think that perhaps the answer does not lie in the meaning of the thousands of words that cover the gallery.
 
@@ -7941,11 +7943,11 @@ Barzaj did not return to the Hermetic life of the Tribunal until the maga Fawd �
 
 The second Tribunal with Fawd as Praeco (that is, in 1123) was marked by the conflict between Barzaj and the perfect ʾAlif. Ḥayy ibn Yaqẓān al-Bonisagī attacked the principles of the Ṣūfīs and insulted their philosophy before the assembly, which led the members of Barzaj to take a stand against him and criticize his rationalist ideas in turn, for as mystics they did not believe salvation could be reached through the pure intellectual act. The conflict between the two covenants lasted until 1162, when the Grand Tribunal condemned the doctrines of the magi of ʾAlif. Fawd, however, did not live to see it. The maga vanished at some point in 1147, consumed by Taʿlab's adulteration.
 
-<!-- p. 258 -->
+<!-- p. 258 --><a id="page-258"></a>
 
 After Fawd's disappearance, Barzaj once again withdrew from the political scene and kept its attention fixed on the search for the Enigma. The exodus from the Tribunal did not go unnoticed by the covenant, however. After the account given by Meʾir ibn Yosef al-Ŷerbitonī at the Tribunal of 1151, two members of Barzaj left for North Africa to live as hermits.
 
-In 1220, Barzaj is a peaceful covenant that keeps clear of the Tribunal's intrigues and still does not understand the origin of the adulteration of Taʿlab (see insert on page 261).
+In 1220, Barzaj is a peaceful covenant that keeps clear of the Tribunal's intrigues and still does not understand the origin of the adulteration of Taʿlab (see insert on [page 261](#page-261)).
 
 #### Setting and Physical Description
 
@@ -7965,7 +7967,7 @@ To reach the third level of the *regio* (strength 7), visitors must go back to t
 
 The last known level of the *regio* (strength 9) is reached by descending the great shaft that pierces the grotto, some 400 meters from the "entrance." The magi of Barzaj call it *ʿālam al-mithāl* (or "world of likenesses"), where pure images reign, the raw material of the creative imagination. The shaft, flooded with water, acts as a portal which, once crossed, reveals the mirror image of Barzaj, where the traveler passes from one world to another (*ʿabara iʿtibār*); that is, from the spoken material word to its unveiling. Here the apparent motion of the stars is represented with absolute precision, showing the whole of the luminaries regardless of the season in which the traveler enters. Without a spell to prevent condensation, however, life is impossible: the traveler has 5 + Stamina minutes to live before dying with waterlogged lungs. Those who manage to defeat the damp must still interpret the images that dwell in the cave. The magi of Barzaj who have been to this level describe it as "meeting oneself," for the grotto shows images related to the essence of its visitors and alters them with new ones; at this point the images can be lethal. Symbolism is fundamental on this level of the *regio*, for meanings are hidden from the human senses, and those who cannot interpret them cannot continue the journey. Visitors must make an Intelligence + Enigmatic Wisdom stress roll every hour and compare the result with the following table (note that the modifiers to the rolls apply only within a single journey; that is, the first roll of each journey is never modified):
 
-<!-- p. 259 -->
+<!-- p. 259 --><a id="page-259"></a>
 
 | Roll | Result |
 | --- | --- |
@@ -8011,9 +8013,9 @@ On the third level of the *regio*, the shaft is entirely flooded, which is not t
 
 [^p259-60]: *Ibidem*.
 
-<!-- p. 260 -->
+<!-- p. 260 --><a id="page-260"></a>
 
-Barzaj is a quasi-autocracy guided by the *ḏū al-ʿaynayn*, that is, by the one who has two eyes (see "The Ṣūfī Mystics" on page 303). This leader is no more than a figure who serves as a guide to the other magi who make up the mystical brotherhood (*ṭarīqa*) of Iberia. Normally the title is earned only by those who have reached the fourth Station of any Path, and only after returning from the *ʿālam al-mithāl* following forty days (*arbaʿniyya*) of spiritual retreat (*jalwa*), during which the aspirant usually brings back some clue about the Enigma (forty is an important number for Muslims since, among other things, it is the number of days souls remain in purgatory before being reunited with their creator). In theory, two magi of Barzaj could hold the same rank, but that has never happened in the covenant's history.
+Barzaj is a quasi-autocracy guided by the *ḏū al-ʿaynayn*, that is, by the one who has two eyes (see "The Ṣūfī Mystics" on [page 303](#page-303)). This leader is no more than a figure who serves as a guide to the other magi who make up the mystical brotherhood (*ṭarīqa*) of Iberia. Normally the title is earned only by those who have reached the fourth Station of any Path, and only after returning from the *ʿālam al-mithāl* following forty days (*arbaʿniyya*) of spiritual retreat (*jalwa*), during which the aspirant usually brings back some clue about the Enigma (forty is an important number for Muslims since, among other things, it is the number of days souls remain in purgatory before being reunited with their creator). In theory, two magi of Barzaj could hold the same rank, but that has never happened in the covenant's history.
 
 Those who review Barzaj's charter are often surprised to find the following clause: "magi bearing the title of *ḏū al-ʿaynayn* are the only ones empowered to decide on the affairs of the covenant, both internal and external." Barzaj adopted this form of government in 1103, after the Tribunal of al-Andalus was annexed to the Iberian Tribunal, because its members feared the covenant would fall into the hands of other Houses and be perverted. Although the model was criticized by some members, it was finally approved by the presiding Quaesitor at the ordinary Tribunal of 1109, the same year Fawd was elected Praeco. In practice, no magus of Barzaj has ever made use of the privileges that come with the title of *ḏū al-ʿaynayn*.
 
@@ -8051,7 +8053,7 @@ Unfortunately for Barzaj, Yehudá's contemptuous attitude toward the adulteratio
 
 #### Sālik, Crespo of Criamon
 
-<!-- p. 261 -->
+<!-- p. 261 --><a id="page-261"></a>
 
 Crespo is a magus of Castilian origin who came to Barzaj barely ten years ago and who, perhaps because of his youth, is fascinated by the adulteration. His dearest wish is to resolve it and, although he has no idea how to go about it, he usually volunteers for anything connected with the matter. For all his enthusiasm, Crespo is afraid to enter the higher levels of the *regio* for fear of meeting the angel of death, Asrāʾil, who according to Sunni angelology is responsible for carrying the souls of the dead to judgment, the threshold of their final destiny. These are mere superstitions, of course — or are they?
 
@@ -8116,7 +8118,7 @@ Wardatun knows little of Barzaj's history, but she believes its magi are wrong t
 
 ʿĀqīl abandoned the Path of Walking Backwards to follow the Twisting Path. Along the way he was seduced by the Rationalist doctrines of the perfect ones, and since 1162 he has dreamed of joining the magi of ʾAlif so that they might teach him what they have learned. Yet in the nearly sixty years that have passed since, he has not found the courage to leave Barzaj and set out on a new road.
 
-<!-- p. 262 -->
+<!-- p. 262 --><a id="page-262"></a>
 
 ʿĀqīl lives prey to his fears and dreads leaving his roots behind. If ʿĀqīl managed to uproot himself and join the perfect ones, the resolution of the adulteration would draw nearer, for he is a respected member of the covenant, and perhaps his departure and his acceptance of the perfect ones' philosophy might spur the other members to reflection. On the other hand, if Barzaj were to condemn his departure, the adulteration would grow more powerful and might end up swallowing another magus.
 
@@ -8150,7 +8152,7 @@ Majorca grows cereals, olives and vines, and has abundant pasture for livestock.
 
 The Balearic archipelago (in the waters of the Mediterranean) is made up of the Gymnesian Islands (Majorca, Minorca and Cabrera) and the Pityusic Islands (Ibiza and Formentera), with numerous islets around them. Majorca, the largest of the islands, has a mountain range in the north that rises above 1,000 meters at several points and, in the east, holds the largest city in the whole archipelago, called Palma by the Romans and Mallorca by the Muslims. Throughout the history of the Order (and almost from its earliest days), the archipelago has been home only to the controversial Ajabeba.
 
-<!-- p. 263 -->
+<!-- p. 263 --><a id="page-263"></a>
 
 ### Ajabeba
 
@@ -8179,9 +8181,9 @@ Hermongenes took ʿAyša as his apprentice and initiated her into the mysteries 
 
 Ajabeba remained secluded on its island and had little contact with the outside world. The two magi took on more apprentices and kept increasing their wealth through piracy in the Mediterranean and the many items wrought in their furnaces and workshops. Although the covenant faced some difficulties when the Umayyads conquered the island at the beginning of the tenth century, Ajabeba was able to recover, for it already had contacts in cities such as Barcelona, Arles, Valencia, Pisa, Pechina, Algiers, Almería, Melilla, Genoa and Cartagena, and it exploited the vis sources of the Valencian coast and of the volcanic islands of the Mediterranean (Columbretes, Blanāsīa, Grosa, and so on), which its pirates used as hiding places. Moreover, it was on good terms with the Fatimid caliphs (who had ruled Ifrīqiya since 916) and the Umayyad caliphs, to whom it sold its devices.
 
-<!-- p. 264 -->
+<!-- p. 264 --><a id="page-264"></a>
 
-During the reign of Al-Ḥakam II, Ajabeba negotiated free passage with the caliphate for ships bound for its harbors, and began acquiring rare copies of mundane and Hermetic books that swelled the library of this singular covenant. By then Ajabeba was known throughout the Tribunal for its extraordinary craftsmanship, from which many magi benefited. From Ajabeba came the artificers who built the marvelous automata of the palatine city of Madīnat al-Zahrāʾ and the other enchantments that filled those halls at the height of Umayyad splendor (see "The Verditius Devices of Cordoba," page 85).
+During the reign of Al-Ḥakam II, Ajabeba negotiated free passage with the caliphate for ships bound for its harbors, and began acquiring rare copies of mundane and Hermetic books that swelled the library of this singular covenant. By then Ajabeba was known throughout the Tribunal for its extraordinary craftsmanship, from which many magi benefited. From Ajabeba came the artificers who built the marvelous automata of the palatine city of Madīnat al-Zahrāʾ and the other enchantments that filled those halls at the height of Umayyad splendor (see "The Verditius Devices of Cordoba," [page 85](#page-85)).
 
 True to its policy of isolation, Ajabeba stayed on the sidelines during the Schism War and the secession of the Tribunal of al-Andalus, at least until 1061, when the Order ruled that Hermetic magi could no longer sell the items they created directly to mundane society, but had to use intermediaries without the Gift to do so. House Verditius then reduced to one per year the number of items a magus could sell to mundanes, which did not go down well at Ajabeba. Although the covenant had many contacts scattered through the most important port cities of the Mediterranean, it began negotiating with the Iberian Tribunal for an entry in the Peripheral Code that would soften the impact of the edict, but since no agreement was reached, Ajabeba turned to the illegitimate Tribunal of al-Andalus, where, in exchange for seven impressive automata destined for the Great Hall, the unofficial Tribunal introduced the entry "On the Exchange of Enchantments with Mundanes" (1068).
 
@@ -8189,7 +8191,7 @@ During the period of the taifa kingdoms, Ajabeba took advantage of the diversity
 
 In 1115, when the crusading armies of the Catalans and Pisans reached the island, the inhabitants of Ajabeba had to take refuge on the island of Grosa, off the coast of Murcia, which the Verditius used as a quarry to extract pawns of Ignem and Terram vis. Ajabeba's main building was razed by the Christian forces and, although they never reached the forge, the covenant suffered heavy losses. The arrival of the Almohads on the island in 1204 was also dramatic for Ajabeba, which once again had to abandon the covenant and take refuge on the island of Sardinia, where the magi of Verdi gave them shelter. This time, however, the covenant suffered no damage thanks to its magical defenses, and the magi of Ajabeba were able to return home having suffered no more than a few casualties among their mundane contacts.
 
-In 1220, Ajabeba is a powerful, independent covenant that houses the finest crafters of enchantments in the whole Tribunal, and although its networks of intermediaries are occasionally hampered by Durato's agents, its members are usually careful in this regard so as not to draw unwanted attention to themselves. Although in 1221 they hope to meet the founders of Ŷezirat Tennyn to reach an agreement with them, they will have to negotiate with Darfílun and Manjuza instead, for they are the only members left in that covenant (see page 229).
+In 1220, Ajabeba is a powerful, independent covenant that houses the finest crafters of enchantments in the whole Tribunal, and although its networks of intermediaries are occasionally hampered by Durato's agents, its members are usually careful in this regard so as not to draw unwanted attention to themselves. Although in 1221 they hope to meet the founders of Ŷezirat Tennyn to reach an agreement with them, they will have to negotiate with Darfílun and Manjuza instead, for they are the only members left in that covenant (see [page 229](#page-229)).
 
 #### Setting and Physical Description
 
@@ -8203,7 +8205,7 @@ The way out to the open sea from these two coves is guarded by the sphinxes, two
 
 Most of the covenant's vis sources lie on Mediterranean islands belonging to the *kūras* of Valencia and Murcia. To harvest them each year, Ajabeba keeps a series of refuges it can reach by means of the Arcane Connections stored in the covenant's treasure room. All these refuges have a small harbor where rowing boats can be tied up, and are guarded by mundane soldiers equipped with various magic items. The most notable refuges are the following:
 
-<!-- p. 265 -->
+<!-- p. 265 --><a id="page-265"></a>
 
 - A tower some twelve meters tall on the largest of the Columbretes islands (which is shaped like an open arch, a legacy of its former volcanic activity).
 - A large fortified building and a shipyard on the island of Blanāsīa (where there is an abandoned forge and a small mundane population affiliated with the covenant).
@@ -8222,11 +8224,11 @@ Ajabeba is a bureaucracy run by the heads of the covenant's three workshops, nam
 >
 > Among the instruments they make are the following: the karrīŷ (reed pipe), the ʿūd (lute), the rūṭa (rote), the rabāb (rebec), the qānūn (psaltery or harp), the kanīra (a kind of zither), the qitār (guitar), the šuqra (a baritone flute), the nūra (a triple flute), the būq (hornpipe), the duff (square frame drum), the aqwāl (a kind of drum), the yarā (pipe or shawm) and, of course, the ajabeba (a Moorish recorder).
 
-<!-- p. 266 -->
+<!-- p. 266 --><a id="page-266"></a>
 
 The title of master is conferred by the masters of each workshop and the investiture takes effect immediately. If no appointment has been made when a master dies, the title passes to the next most senior craftsman in the workshop. If there are no candidates, the workshop stands empty until someone takes it up. In this rare case, the first to join it is automatically named master.
 
-The workshops work in concert to produce the finest enchantments, but when it comes to the House competition (see *Houses of Hermes: Mystery Cults*, page 199), the magi shut themselves away in their workshops to work alone.
+The workshops work in concert to produce the finest enchantments, but when it comes to the House competition (see *Houses of Hermes: Mystery Cults*, [page 199](#page-199)), the magi shut themselves away in their workshops to work alone.
 
 To orchestrate the networks of mundane *venditores*, the council relies on the powerful figure of the autocrat of Ajabeba, who is usually a forge-companion of the magi. Curiously, the office of autocrat is inherited through the maternal line. In 1220 the autocrat is named Fajr.
 
@@ -8246,7 +8248,7 @@ When Layla became a maga, she specialized in making musical instruments and item
 
 In 1220, Layla is focused on acquiring the knowledge needed to be initiated into House Verditius's Inner Mystery of Harmonic Items. She is also worried, however, about reaching the level of experience needed to be named master carpenter, for her skill, though outstanding, cannot yet compete with that of her *parens*. These tribulations are not entirely unknown to her workshop *sodales*, who have devotedly kept helping her to improve. Layla's problem, though, is her lack of constancy in the laboratory: her creativity drives her to let herself be carried away by her fancies for a season every few years, and her introverted spirit compels her to withdraw now and then to some cove on the island, where there is room only for her daydreams, her prayers and her music. Even so, Muṣawwir is proud of her, for he enjoys her music as much as, or more than, the rest of her creations.
 
-<!-- p. 267 -->
+<!-- p. 267 --><a id="page-267"></a>
 
 > #### Layla al-Verditiyya
 >**Characteristics:** Int +2, Per +1, Pre +1, Com +2, Str –2, Sta +1, Dex +2, Qik +1<br>
@@ -8320,7 +8322,7 @@ Alfonso Téllez was trained at Verdi and is the youngest of Ajabeba's Verditius.
 
 Țarūb is a maga in her seventies who rose to the post of master without having been chosen. Her companions at Ajabeba are worried about her, for ever since her *filia* Ferraria left for the covenant of Beit Midrash, she has been trapped in an undying melancholy that shows in all her compositions. Since she has still not overcome her loss, the goldsmith's workshop still has no journeyman.
 
-<!-- p. 268 -->
+<!-- p. 268 --><a id="page-268"></a>
 
 Despite her tribulations, Țarūb is an exceptional cabinetmaker and, contrary to what one might expect, her work has not suffered from her melancholy; it has been heightened by that powerful sense of loss… which in the end might also bring her gloomy genius to a premature end.
 
@@ -8336,7 +8338,7 @@ Asur was the apprentice of Catena of Verditius, the craftswoman of Duresca. As s
 
 Asur left Duresca because of his stormy relationship with his *parens*, the oppressive atmosphere of the covenant, and the glorious fame of Ajabeba, where there was moreover no ivory craftsman. In fact, Asur is Țarūb's favorite, not only for his magnificent works of craftsmanship but also for his great gifts as a musician, which has poisoned his relationship with Rāʾiq, his workshop companion.
 
-<!-- p. 269 -->
+<!-- p. 269 --><a id="page-269"></a>
 
 > #### Story Seeds: Ajabeba
 >
@@ -8358,7 +8360,7 @@ Asur left Duresca because of his stormy relationship with his *parens*, the oppr
 >
 > Colada was the Cid's first famous sword: the Campeador took it in battle from the count of Barcelona, Berenguer Ramón the Fratricide. Tizón was a battle trophy won from the emir of Marrākeš, Búcar, when the Cid was defending Valencia against the Almoravid armies. According to tradition, both swords have the power to strike fear into enemies if wielded by someone worthy.
 >
-> If what is said is true, both swords are in Ajabeba and have been studied by its members over the years. While Colada was made by the Confraternity of Roland (see *Houses of Hermes: Mystery Cults*, page 206) and is comparable in power to Durandarte, the mysteries of Tizón have yet to be unveiled.
+> If what is said is true, both swords are in Ajabeba and have been studied by its members over the years. While Colada was made by the Confraternity of Roland (see *Houses of Hermes: Mystery Cults*, [page 206](#page-206)) and is comparable in power to Durandarte, the mysteries of Tizón have yet to be unveiled.
 >
 > [^p268-XXI]: Excerpt from the *Cantar de mio Cid*, anonymous (Old Spanish text edited by Ramón Menéndez Pidal).
 
@@ -8381,7 +8383,7 @@ Today, the only covenant still standing in Africa is the *saḥira* covenant of 
 >**Reputations:** Underhanded (Iberian Tribunal) 2<br>
 >**Votes:** 4
 
-<!-- p. 270 -->
+<!-- p. 270 --><a id="page-270"></a>
 
 Al-Minẓār (Arabic for "the mirror") was the project of two *saḥirs* who longed to escape the persecution of the Tribunal's Flambeau and the partiality of the magi of Iberia. They founded the covenant outside the law, and for more than a century they went unnoticed in almost complete Hermetic solitude. With the attacks that razed Aedes Iris, however, the Tribunal discovered the covenant and took control of it.
 
@@ -8423,9 +8425,9 @@ By 1220, Gonçalvo has lost hope that Duresca will send him a replacement or an 
 
 Šarīfah Muhŷa al-Praliḥiyya, a Fatimid and a descendant of Al-Ḥasan ibn ʿAlī ibn Abī Ṭālib (one of the Prophet's grandsons and the son of Fāṭīma), was brought up in the bosom of a powerful Cairo family, where she spent her childhood until one of the magi of al-Minẓār took her away.
 
-Šarīfah Muhŷa is the *filia* of the late Iliyās and, after Gonçalvo, is the oldest maga in the covenant. She is tired of living far from Iberia, and for years she has been involved in a movement for the full acceptance of *saḥirs* in the Peninsula (see insert on page 236). As for ʿAmrīl, although she suspects he is plotting something, she has not yet managed to find out what.
+Šarīfah Muhŷa is the *filia* of the late Iliyās and, after Gonçalvo, is the oldest maga in the covenant. She is tired of living far from Iberia, and for years she has been involved in a movement for the full acceptance of *saḥirs* in the Peninsula (see insert on [page 236](#page-236)). As for ʿAmrīl, although she suspects he is plotting something, she has not yet managed to find out what.
 
-<!-- p. 271 -->
+<!-- p. 271 --><a id="page-271"></a>
 
 In 1200, Šarīfah Muhŷa went to Egypt to help her people, for a great famine, brought on because the Nile had not risen that year, was ravaging the country. In those times food was so hard to come by that people ate rotting flesh and even went so far as to eat one another. By the time Šarīfah Muhŷa arrived, plague had struck the cities and villages so hard that Egypt was almost deserted.
 
@@ -8441,7 +8443,7 @@ In 1200, Šarīfah Muhŷa went to Egypt to help her people, for a great famine, 
 >
 > [^p271-XXIII]: Excerpt from *The Splendor of the Fruits of the Journey* by Ibn ʿArabī (Spanish translation by Carlos Varona Narvión).
 
-<!-- p. 272 -->
+<!-- p. 272 --><a id="page-272"></a>
 
 > #### The Nasnās
 >**Order:** Tempters (*shayatin*)<br>
@@ -8475,7 +8477,7 @@ In 1200, Šarīfah Muhŷa went to Egypt to help her people, for a great famine, 
 >**Vis:** 4 pawns of Corpus vis in its arm and its leg.<br>
 >**Appearance:** In Arab folklore, the nasnās is an apelike monster with a single foot and a single arm, which moves about in great leaps at high speed. The Arabs believe it was begotten by a demon called Shiqq and a human being, and it is said that its touch can kill mortals, who are flayed within seconds. The nasnās's body is covered with thick dark hair, with patches of even blacker hair spattering its back and limbs. Its hand and foot end in powerful claws, and its face, twisted into a terrible grimace, frames a great mouth of pointed teeth that opens within a bristling beard.
 
-<!-- p. 273 -->
+<!-- p. 273 --><a id="page-273"></a>
 
 ##### ʿAmrīl al-Muntaqim al-Praliḥī
 
@@ -8512,7 +8514,7 @@ The charter of Aedes Iris was ratified at the Tribunal of 983, which led to the 
 
 During its lifetime, Aedes Iris mapped many vis sources, which Umm al-Kirām kept secret, and indirectly controlled many places of importance for kilometers around (among its most notable holdings was the prosperous Maghrebi port city of Masrsā Farrūj). When the Schism War broke out, the African Mercer House stayed on the sidelines and supported the breakup of the Tribunal by joining the magi of al-Andalus, which led Porta Pandere to follow suit (wagging tongues claimed that the Redcaps of Iberia wanted to get their hands on the vis sources that Umm al-Kirām jealously guarded in the lands of *bilad al-Sūdān*, and so, even at the risk of upsetting the outcome of the Schism War, they joined the Tribunal of al-Andalus).
 
-<!-- p. 274 -->
+<!-- p. 274 --><a id="page-274"></a>
 
 Umm al-Kirām and Ibn Ḥawqal lived their best years in Africa and brought prosperity to the Tribunal of al-Andalus, sharing with it the riches they carried from *bilad al-Sūdān* so that the hated Iberian tax could be abolished. Their management of Aedes Iris was always exemplary, so much so that when the Almoravids reached Siŷilmāsa in 1055 they were able to adapt to the new circumstances without losing a single one of their privileges. Not without reason, the maga was one of the most beloved figures among the magi of al-Andalus.
 
@@ -8520,7 +8522,7 @@ In old age they withdrew from political life and, in their last days, were able 
 
 After the deaths of Umm al-Kirām and Ibn Ḥawqal, Porta Pandere wrote to the new head asking him to send to Lisbon the documents and maps showing the locations of Aedes Iris's vis sources. However, only a few vague notes and the locations of minor sources reached the Portuguese Mercer House. The head of Aedes Iris kept stalling until, in 1103, Porta Pandere sent a delegation to take over the covenant. To their surprise, the records of Umm al-Kirām and Ibn Ḥawqal were incomplete: rather vague at best and wholly nonexistent at worst. When they asked the head for an explanation, the Redcap replied that Umm al-Kirām and Ibn Ḥawqal had never shared that information with anyone. Porta Pandere put all the inhabitants of Aedes Iris on trial and placed a new head in charge. The Redcaps who had covered for Umm al-Kirām were abandoned in the desert without food or water, and the African covenant came under the direct tutelage of Porta Pandere.
 
-From then on the Redcaps tried, without success, to find the rich vis sources of *bilad al-Sūdān*, and after twenty years of fruitless searching the covenant was mysteriously destroyed (see page 90). All the Tribunal learned of that night was that the *Tertius Decimus* portal was hastily sealed. When the magi made use of their Arcane Connections to Aedes Iris, they discovered that these had been severed, and so they had to prepare and fund a costly expedition to reach Africa once more. When they reached their destination a year later, they saw that not only the Mercer House but also the city of Siŷilmāsa had been destroyed. With its disappearance, Porta Pandere stopped receiving the gold of *bilad al-Sūdān* and had to close its mint.
+From then on the Redcaps tried, without success, to find the rich vis sources of *bilad al-Sūdān*, and after twenty years of fruitless searching the covenant was mysteriously destroyed (see [page 90](#page-90)). All the Tribunal learned of that night was that the *Tertius Decimus* portal was hastily sealed. When the magi made use of their Arcane Connections to Aedes Iris, they discovered that these had been severed, and so they had to prepare and fund a costly expedition to reach Africa once more. When they reached their destination a year later, they saw that not only the Mercer House but also the city of Siŷilmāsa had been destroyed. With its disappearance, Porta Pandere stopped receiving the gold of *bilad al-Sūdān* and had to close its mint.
 
 #### Setting and Physical Description
 
@@ -8540,9 +8542,9 @@ The local mundanes made use of the ruins of Aedes Iris to build their own houses
 >
 > [^p274-XXV]: Poem from *The Treatise of Familiar Spirits and Demons* by Ibn Shuhayd (Spanish translation by Salvador Barberá). In the story, Xuhaid's familiar spirit is Zuhair ibn Numair, of the jinn tribe of Axya'.
 
-<!-- p. 275 -->
+<!-- p. 275 --><a id="page-275"></a>
 
-<!-- p. 276 -->
+<!-- p. 276 --><a id="page-276"></a>
 
 # X. Magical Traditions
 
@@ -8564,16 +8566,16 @@ Despite their ancestry, the distaurnanja are Christians (the Visigoths of the Pe
 
 When the Visigoths crossed Gaul and established their kingdom in the Peninsula, the distaurnanja were a minor tradition devoted to hunting the many wyverns that infested the Pyrenees. Before the arrival of the Muslims, the distaurnanja had already had a couple of encounters with the tempestarii and the sorginas, but being so few in number, they had given way before the power of the local wizards. After all, the seat of the distaurnanja had always been Toledo, and the north of the Peninsula was a distant place to them.
 
-With the coming of the Muslims, the Visigothic capital passed into the hands of the emirate, and the distaurnanja took part in the city's many revolts to win independence from Cordoba. It is said that the leader of the distaurnanja and several of his apprentices died on the Day of the Ditch (see page 21), which thinned their ranks and made their members far more secretive; they restricted knowledge of their arts to the sons, daughters, nieces and nephews of the distaurnanja, and only on rare occasions taught them to their closest friends.
+With the coming of the Muslims, the Visigothic capital passed into the hands of the emirate, and the distaurnanja took part in the city's many revolts to win independence from Cordoba. It is said that the leader of the distaurnanja and several of his apprentices died on the Day of the Ditch (see [page 21](#page-21)), which thinned their ranks and made their members far more secretive; they restricted knowledge of their arts to the sons, daughters, nieces and nephews of the distaurnanja, and only on rare occasions taught them to their closest friends.
 
 #### The Coming of the Order and After
-It seems unlikely that the distaurnanja were aware of the Order's arrival in the Peninsula. They must, however, have come into contact with it when Grimoald Niger reached Toledo (at least according to a small fragment of the *Comentarii de Bello Iberico* in which they are named; see page 63). According to the records, the distaurnanja rejected the offers of Val-Negra's emissaries, and the Flambeau responded by burning their three representatives. When the rest of the distaurnanja learned of the massacre, despite their warlike spirit, they fled the city and headed north. In Saragossa they discovered that the newborn Order was there to stay, and for years their contact was reduced to small, violent encounters with the Hermetic magi. The distaurnanja were no match for the Order, however, and they ended up scattering even further and cutting their gatherings and the transmission of their knowledge to the bare minimum.
+It seems unlikely that the distaurnanja were aware of the Order's arrival in the Peninsula. They must, however, have come into contact with it when Grimoald Niger reached Toledo (at least according to a small fragment of the *Comentarii de Bello Iberico* in which they are named; see [page 63](#page-63)). According to the records, the distaurnanja rejected the offers of Val-Negra's emissaries, and the Flambeau responded by burning their three representatives. When the rest of the distaurnanja learned of the massacre, despite their warlike spirit, they fled the city and headed north. In Saragossa they discovered that the newborn Order was there to stay, and for years their contact was reduced to small, violent encounters with the Hermetic magi. The distaurnanja were no match for the Order, however, and they ended up scattering even further and cutting their gatherings and the transmission of their knowledge to the bare minimum.
 
 [^p276-1]: Excerpt from *The Guide for the Perplexed* by Maimonides (Spanish translation by David Gonzalo Maeso).
 
-<!-- p. 277 -->
+<!-- p. 277 --><a id="page-277"></a>
 
-Some distaurnanja had the chance to settle the score at Alarcos, where the Flambeau of Harra had gone to fight (see page 94). Led by Arturo de Compostela, a small group of distaurnanja took advantage of the Muslim armies to attack their Hermetic enemies. They never had the chance to take their revenge, however: the magi had already been crushed by other, superior and unknown forces. Although the Christians lost the day at Alarcos, Arturo faced the future with hope for the first time: the Order was not omnipotent in Iberia, and the distaurnanja had to take advantage of its weakness to end the centuries of ostracism to which they had been subjected. And so Arturo traveled the Peninsula, telling the distaurnanja he knew what he had seen and inspiring them to begin training new members (indeed, one of them fought at Las Navas de Tolosa). In 1220, the distaurnanja seem ready to take on a more active role.
+Some distaurnanja had the chance to settle the score at Alarcos, where the Flambeau of Harra had gone to fight (see [page 94](#page-94)). Led by Arturo de Compostela, a small group of distaurnanja took advantage of the Muslim armies to attack their Hermetic enemies. They never had the chance to take their revenge, however: the magi had already been crushed by other, superior and unknown forces. Although the Christians lost the day at Alarcos, Arturo faced the future with hope for the first time: the Order was not omnipotent in Iberia, and the distaurnanja had to take advantage of its weakness to end the centuries of ostracism to which they had been subjected. And so Arturo traveled the Peninsula, telling the distaurnanja he knew what he had seen and inspiring them to begin training new members (indeed, one of them fought at Las Navas de Tolosa). In 1220, the distaurnanja seem ready to take on a more active role.
 
 #### Current Situation
 
@@ -8593,15 +8595,15 @@ Most of the distaurnanja live in northern Iberia, among the kingdoms of Leon, Ca
 
 Despite their lack of organization, there is one place that all the distaurnanja know: a cave hidden in the Montes de Toledo. On the walls of the cavern's deepest grottoes, the creed of the distaurnanja is carved in Gothic. If read by a distaurnanja with a score of 4 in Gothic and 5 or more in one of the tradition's Abilities, it can be used to initiate others, or himself, into the Virtues of Abjuration or Protective Bindings, provided he has a score of 3 in Distaurnanja Lore. Written as a symbolic parable detailing scenes from the Gothic Bible, the carving has made the cave a place of pilgrimage for the tradition's members. Nevertheless, a few distaurnanja (above all in the south) have never even visited it, despite knowing it exists.
 
-Likewise, since they lack structure, they also have few defined rituals. Even so, slaying a wyvern in the Pyrenees is usually considered the final test before one may train apprentices of one's own or be considered a master. Being a tradition of oral transmission, there are almost no written books on their magical arts (in fact, only some three *tractatus* and one low-Quality *summa* exist). Magi who wish to incorporate these powers into Hermetic theory (chiefly, they emulate Hermetic Perdo magic and Penetration) will have to achieve a minor breakthrough (see *Houses of Hermes: True Lineages*, page 29).
+Likewise, since they lack structure, they also have few defined rituals. Even so, slaying a wyvern in the Pyrenees is usually considered the final test before one may train apprentices of one's own or be considered a master. Being a tradition of oral transmission, there are almost no written books on their magical arts (in fact, only some three *tractatus* and one low-Quality *summa* exist). Magi who wish to incorporate these powers into Hermetic theory (chiefly, they emulate Hermetic Perdo magic and Penetration) will have to achieve a minor breakthrough (see *Houses of Hermes: True Lineages*, [page 29](#page-29)).
 
 The distaurnanja are not pagans, and they believe their abilities are a divine gift (although they belong to the Magic Realm). To them it would be unthinkable to create protections against angels or other divine creatures, although they are aware that many priests do not understand the origin of their magic. This situation forces them to keep their powers hidden (revealing them only to those they trust most) or to disguise them as blessings or prayers. When discovered by more zealous priests, most distaurnanja flee, preferring not to risk explaining their practices to the less tolerant; the Order is aware of the existence of some of these fugitive distaurnanja.
 
-<!-- p. 278 -->
+<!-- p. 278 --><a id="page-278"></a>
 
 #### Distaurnanja Magic
 
-The magical Abilities of the distaurnanja, Abjuration and Protective Bindings, are Accelerated Abilities (see page 309). A character with the Gift can learn these Abilities, which can also be acquired during character creation as Major Supernatural Virtues. The distaurnanja do not consider hedge wizards from other parts of the world with similar abilities (such as the columbae or the African settuten) to be part of their tradition. The distaurnanja are mostly of the lineage of the ancient Visigoths. This relative isolation means that no Gifted distaurnanja has yet been found who was trained as a Hermetic magus after learning Abjuration or Protective Bindings.
+The magical Abilities of the distaurnanja, Abjuration and Protective Bindings, are Accelerated Abilities (see [page 309](#page-309)). A character with the Gift can learn these Abilities, which can also be acquired during character creation as Major Supernatural Virtues. The distaurnanja do not consider hedge wizards from other parts of the world with similar abilities (such as the columbae or the African settuten) to be part of their tradition. The distaurnanja are mostly of the lineage of the ancient Visigoths. This relative isolation means that no Gifted distaurnanja has yet been found who was trained as a Hermetic magus after learning Abjuration or Protective Bindings.
 
 The powers of the distaurnanja are aligned with the Magic Realm.
 
@@ -8617,7 +8619,7 @@ Once the ribbon has been tied or fastened, the distaurnanja imbues his magic int
 
 The total represents the highest effect level the abjuration can cancel, or the highest creature Might it can affect; the abjuration total is also its Penetration Total, and indicates the number of Abjuration points it holds. When the abjuration cancels a spell or harms a creature, it loses a number of Abjuration points equal to the magnitude of the spell or the creature's Might. When it is used to attack a creature of the specified realm with a Might equal to or less than the total, a successful attack permanently reduces the creature's Might points by one fifth of the abjuration total (rounding up). Creatures reduced to Might 0 are destroyed. When the abjuration loses a number of Abjuration points equal to its total, it unravels and is destroyed. If the abjuration is used to attack a creature whose Might exceeds its total, the abjuration is also destroyed. The same happens if the abjuration tries to cancel a spell of a level higher than the abjuration total.
 
-<!-- p. 279 -->
+<!-- p. 279 --><a id="page-279"></a>
 
 Incorporating an Arcane Connection to a specific creature doubles the abjuration total, but further limits the abjuration's potential targets.
 
@@ -8651,7 +8653,7 @@ Thus, a distaurnanja with Protective Bindings 7 could have two protective bindin
 
 [^p279-2]: Excerpt from *Ghāyat al-Ḥakīm* (*Picatrix*) by al-Qurṭubī (English translation by Dan Attrell and David Porreca; Spanish translation by Mario Donaire).
 
-<!-- p. 280 -->
+<!-- p. 280 --><a id="page-280"></a>
 
 #### History
 
@@ -8661,7 +8663,7 @@ To avoid any conflict with the *saḥirs*, Petuel went to Egypt with the young M
 
 On his travels, al-Qurṭubī (his name as a magus) came to understand that Bonisagus's magic theory showed no regard for God, since it enjoyed its power irreverently and selfishly, and he concluded that the Gift had been perverted by the Order. In his view, the rejection that magi suffered because of the Gift was nothing but a warning from the Most High to mend their ways. On his return to Iberia, al-Qurṭubī joined the Kharijite covenant of Bayt al-Ḥikma, where he developed an alternative magic theory called *ṭillasm* (from the Arabic, "talisman"), which used the magical energy of the stars to work its magic, God willing. Al-Qurṭubī compiled his new magic theory in four voluminous books, which he titled *Ghāyat al-Ḥakīm* (see Appendix I).
 
-Quite apart from the social movement of Bayt al-Ḥikma (see page 78), when al-Qurṭubī finished his magic theory in 956, he underwent an ordeal to align his Gift with that of the stars, and left the Order together with his two *filii*. Al-Qurṭubī failed to gauge the consequences of his actions at the time: although the ritual had left him unable to cast Hermetic magic, he still knew the mysteries of the Parma Magica, and that is what ultimately cost him his life.
+Quite apart from the social movement of Bayt al-Ḥikma (see [page 78](#page-78)), when al-Qurṭubī finished his magic theory in 956, he underwent an ordeal to align his Gift with that of the stars, and left the Order together with his two *filii*. Al-Qurṭubī failed to gauge the consequences of his actions at the time: although the ritual had left him unable to cast Hermetic magic, he still knew the mysteries of the Parma Magica, and that is what ultimately cost him his life.
 
 Al-Qurṭubī initiated his two students into his magic theory, but he did not teach them Bonisagus's Parma Magica, since he considered it part of the "impious" Hermetic theory, and it was precisely this that saved their lives and allowed his knowledge to survive. In 964, a year after the Kharijites were condemned, the hoplites hunted down al-Qurṭubī and killed him as he was traveling by ship to Egypt. His tradition lived on in those two initiates, who, however, had not been able to learn from their master all the Rationalist secrets of a theory that had only just been born. Consequently, in 1220 the practitioners of this magic are few in number, since they need Gifted boys and girls in order to initiate them into their mysteries. Indeed, this factor (together with their characteristic humility) is essential to their survival, since if they recruited many aspirants, the Order would find itself competing with them for those born with the Gift and would surely end up annihilating them.
 
@@ -8669,15 +8671,15 @@ Although many members of al-Qurṭubī's lineage have continued to travel throug
 
 #### Philosophy
 
-These sorcerers belong to the magical tradition of Platonic Orientalism (see the insert "Emanationist Theory" on page 304), which holds that all magic derives from a single, imperishable tradition that unites all the sages of the known world and whose origins can be traced back to Plato, Pythagoras, Orpheus, Moses, Hermes Trismegistus, Enoch, Zoroaster and Adam. In reality, this "tradition of knowledge" is a manifestation of the mystical Platonic idealism of Antiquity, syncretized with the religions of the peoples conquered by Hellenism.
+These sorcerers belong to the magical tradition of Platonic Orientalism (see the insert "Emanationist Theory" on [page 304](#page-304)), which holds that all magic derives from a single, imperishable tradition that unites all the sages of the known world and whose origins can be traced back to Plato, Pythagoras, Orpheus, Moses, Hermes Trismegistus, Enoch, Zoroaster and Adam. In reality, this "tradition of knowledge" is a manifestation of the mystical Platonic idealism of Antiquity, syncretized with the religions of the peoples conquered by Hellenism.
 
 The magic of this tradition is based on natural magic rather than theurgic mysticism, and its foundations rest on Aristotle's *Theology* (translated in Baghdad in the ninth century, although it also has roots in Greek, Egyptian, Babylonian, Arabian and Indian natural philosophies), which was the principal Neoplatonic source in the medieval Arab world. This tradition manipulates the invisible flow of cosmic energy that radiates from the firmament of the stars and that, on its way to the Earth, passes through the planetary spheres, pervading everything in its path. According to the astral sorcerers, behind this "magical" energy there are spirits with whom the wise (that is, those of upright and pious life and great learning in natural philosophy and the liberal arts) can communicate by following complex rituals. Indeed, the fundamental basis of this theory regards the planetary powers as volitional forces that constitute the hidden mechanisms of a cosmos governed by the will of God.
 
-For the astral sorcerers, magic is a noble and hieratic art; it is the mark of the true mystic, not of the madman who has given himself over to infernal pacts (as the Hermetic magi have). The pursuit of magic must be a pure act aimed at knowing God and His creation, since He alone is above all things. For this reason, the impure and the foolish must not have access to this magic. Magic is thus the inevitable consequence of a fervent contemplative life, and its practitioners are required to show wisdom, ritual purity and discretion. Only upright people who are astrologically predisposed (see the insert "The Astronomers" on page 74) will be able to use this power.
+For the astral sorcerers, magic is a noble and hieratic art; it is the mark of the true mystic, not of the madman who has given himself over to infernal pacts (as the Hermetic magi have). The pursuit of magic must be a pure act aimed at knowing God and His creation, since He alone is above all things. For this reason, the impure and the foolish must not have access to this magic. Magic is thus the inevitable consequence of a fervent contemplative life, and its practitioners are required to show wisdom, ritual purity and discretion. Only upright people who are astrologically predisposed (see the insert "The Astronomers" on [page 74](#page-74)) will be able to use this power.
 
 This type of magic works through talismans (*telsam* in Latin, *ṭillasm* in Arabic), or "images," which channel stellar energy from the macrocosm to the microcosm. This magic is thus the art of binding spirits to matter, and so there is nothing "demonic" about it.
 
-<!-- p. 281 -->
+<!-- p. 281 --><a id="page-281"></a>
 
 > #### Cosmology
 >
@@ -8699,7 +8701,7 @@ Each planet governs its own set of plants, animals or minerals, but also its own
 
 The upright individual becomes wise by adhering to divine law; through his wisdom, the sage is naturally inclined to acquire knowledge and is drawn toward God's creation (through the study of the liberal arts, medicine and so on). The natural conclusion of leading an upright life while appreciating the natural order of creation (that is, loving God's creation) is thus a kind of gnosis (a holistic knowledge of Neoplatonic cosmology that places mortals as mediators between God and the material world). Once the knowledge of how the world is truly ordered (that is, its threefold division into matter, spirit and intellect) is revealed, one obtains the metaphysical framework within which to perform magical operations. For this reason, the astral sorcerers use the Artes Liberales Ability to initiate others into the Mystery of the Gift of the Zodiac.
 
-These magical operations are carried out through complex rituals in which a *ṭillasm* is made from sympathetic and Arcane Connections to summon the supralunar energy of the celestial spheres. To be able to work magic, the sorcerer must be initiated through the only Script al-Qurṭubī left behind, for which he must have one of the following Virtues: the Gift, Failed Apprentice, a suitable variant of Mythic Blood, or Latent Magical Ability. In addition, he may not have any of the following Flaws: Tainted with Evil, Infamous, Ambitious, Avaricious, Envious, Gluttonous, Wrathful, Lecherous, Hatred, Proud, Compulsion, Obsessed or Dark Secret. Once initiated, the sorcerer gains the Major Supernatural Virtue The Gift of the Zodiac, which grants him the Accelerated Ability Ṭillasm at 1 (see "New Abilities" on page 309).
+These magical operations are carried out through complex rituals in which a *ṭillasm* is made from sympathetic and Arcane Connections to summon the supralunar energy of the celestial spheres. To be able to work magic, the sorcerer must be initiated through the only Script al-Qurṭubī left behind, for which he must have one of the following Virtues: the Gift, Failed Apprentice, a suitable variant of Mythic Blood, or Latent Magical Ability. In addition, he may not have any of the following Flaws: Tainted with Evil, Infamous, Ambitious, Avaricious, Envious, Gluttonous, Wrathful, Lecherous, Hatred, Proud, Compulsion, Obsessed or Dark Secret. Once initiated, the sorcerer gains the Major Supernatural Virtue The Gift of the Zodiac, which grants him the Accelerated Ability Ṭillasm at 1 (see "New Abilities" on [page 309](#page-309)).
 
 ### Initiation into the Mystery of the Gift of the Zodiac
 
@@ -8711,7 +8713,7 @@ These magical operations are carried out through complex rituals in which a *ṭ
 
 [^p281-3]: Excerpt from *Ghāyat al-Ḥakīm* (*Picatrix*) by al-Qurṭubī (English translation by Dan Attrell and David Porreca; Spanish translation by Mario Donaire).
 
-<!-- p. 282 -->
+<!-- p. 282 --><a id="page-282"></a>
 
 #### The Rituals of the Zodiac
 
@@ -8768,7 +8770,7 @@ The bonuses may be the following.
 
 - **Sacrifices**. The most powerful act in the rituals is the sacrifice of animals (the animal to be sacrificed is determined by astrological influences, at the storyguide's discretion). This act creates a resonance upon the tangible world thanks to the solemnity of the sacrifice and to the force imparted by imposing human will upon the life of another being. The explanation for this lies in the powerful impact on the material world created by the sudden release of the animals' energy (called *rūḥāniyyāt*, or spiritual powers) when they are killed violently. The shock wave of the *rūḥāniyyāt* disturbs the universal harmony and affects the natural world, which allows it to be altered by magic. Animal sacrifices grant a bonus to the Casting Total equal to the creature's Size +1. A sorcerer can perform as many sacrifices during a ritual as his Ṭillasm score, and rolls one additional botch die per animal sacrificed. Animals smaller than Size 0 grant no bonus.
 
-<!-- p. 283 -->
+<!-- p. 283 --><a id="page-283"></a>
 
 - **Exceptional ingredients**. The sorcerer may have used quality ingredients (that is, three times as costly as normal ingredients) while making the talisman, which grants +5 to the Casting Total.
 
@@ -8790,7 +8792,7 @@ As true users of magic, the astral sorcerers are subject to Twilight, as set out
 
 #### Learning Conjurations
 
-The astral sorcerers take a season to learn any of the thirty conjurations that al-Qurṭubī codified (all of them collected in the *Ghāyat al-Ḥakīm*). To learn them, they need fulfill no requirement other than possessing The Gift of the Zodiac and having a laboratory (see "A Riadiin's Laboratory," page 288).
+The astral sorcerers take a season to learn any of the thirty conjurations that al-Qurṭubī codified (all of them collected in the *Ghāyat al-Ḥakīm*). To learn them, they need fulfill no requirement other than possessing The Gift of the Zodiac and having a laboratory (see "A Riadiin's Laboratory," [page 288](#page-288)).
 
 #### Laboratory Texts
 
@@ -8810,7 +8812,7 @@ All these conjurations (that is, determining the mansion of the Moon, the necess
 
 For benevolent rituals, the Moon must be safe from Saturn and Mars alike and from the rays of the Sun, and the reverse must hold to conjure malevolent rituals.
 
-<!-- p. 284 -->
+<!-- p. 284 --><a id="page-284"></a>
 
 ### Protect Travelers by Land (PeMe 35)
 
@@ -8862,7 +8864,7 @@ As long as any Magic Resistance is overcome, this conjuration makes affection bl
 
 This terrible conjuration shakes the earth beneath a city, causing collapses and great material damage, so it can injure many and kill as many more. For this reason, the sorcerer must be sure that the city and its inhabitants deserve such a punishment, or else he might bring misfortune down upon himself.
 
-<!-- p. 285 -->
+<!-- p. 285 --><a id="page-285"></a>
 
 With an Arcane Connection to something highly representative of the city, the sorcerer summons Mars to shake the foundations of the earth. At the end of the mansion of the Moon, the city suffers a terrible earthquake that damages the stone buildings and destroys everything else. The catastrophe takes no more than a few seconds to complete.
 
@@ -8904,7 +8906,7 @@ This is a very dangerous conjuration, since the economy of nations rests on agri
 
 This powerful ritual raises the category of a source of income by one, although never above "Abundant" (see *Covenants*, page 79). The talisman takes one lunar year to take effect, but thereafter the source of income yields its benefits naturally.
 
-<!-- p. 286 -->
+<!-- p. 286 --><a id="page-286"></a>
 
 Al-Qurṭubī once said that this conjuration should be performed only on those who deserved it, and never twice on the same business.
 
@@ -8949,7 +8951,7 @@ The crops take one lunar mansion to flourish, and they must be suited to the sow
 > | Make the Target Come to You as Soon as Possible | ReMe | 25 | *Nahaym, Caadalhacbia* |
 > | Cripple a Limb | PeCo | 20 | *Caadalhacbia* |
 
-<!-- p. 287 -->
+<!-- p. 287 --><a id="page-287"></a>
 
 ### Keep Vermin Out of a Place or Drive Them Out (ReAn 15)
 
@@ -9003,7 +9005,7 @@ During the history of the Order in the Iberian Peninsula, the Northmen (whom the
 
 - In the summer of 972 Viking ships were sighted for the last time, when Al-Ḥakam II was about to begin his North African campaign against the Berber leaders allied with the Fatimids. As had happened in 971, the caliphal forces found no trace of the Norse enemy. After two months patrolling the area, the Andalusi spies in the north of the Peninsula confirmed that the threat had left Galicia, and the troops returned to Cordoba without having seen battle.
 
-<!-- p. 288 -->
+<!-- p. 288 --><a id="page-288"></a>
 
 On many of these raids, the ships carried a vitkir, or Norse rune wizard, on board. The magi of Iberia had never had contact with this kind of magic, and for a time they were taken aback by these wizards and by the fact that their magic seemed to affect them differently from anything they had known until then. Reactions differed considerably between the north and south of the Peninsula: while in the north the Flambeau fought these strange wizards with fire and sword without asking many questions, in al-Andalus there were some who tried to come to terms and negotiate with the strangers in order to learn something more of their unusual magic. Unfortunately, many of the vitkir cared only for plunder and the gathering of booty, and turned a deaf ear to such requests. That evident hostility, and the mutual ignorance, soon gave rise to the belief in a so-called Order of Odin, an organization of Norse wizards comparable to the Order of Hermes, of which the vitkir would be the representatives. The existence of such a group has never been definitively confirmed.
 
@@ -9033,7 +9035,7 @@ After her father's death, Fāṭīma carried on his teachings and trained new ri
 
 The founding in 1217 of a Dominican friary in Madrid has posed an unexpected threat to the school. Founded by the preachers Suero Gómez and Pedro de Madrid, the friary is intensely active in philosophy, and voices have already begun to be heard branding some of the riadiins as pagans and frauds.
 
-<!-- p. 289 -->
+<!-- p. 289 --><a id="page-289"></a>
 
 #### Customs
 
@@ -9079,7 +9081,7 @@ Where the riadiins' talent shines brightest is in applying their astrological an
 >
 > [^p289-I]: From Ibn Shuhayd, taken from *The Treatise of Familiar Spirits and Demons* (Spanish translation by Salvador Barberá).
 
-<!-- p. 290 -->
+<!-- p. 290 --><a id="page-290"></a>
 
 Researching (or creating) the formula of any astrological chart requires the acquisition of experience points. When a character gains experience points in Artes Liberales, he may assign them, instead of to the score itself, to learning a formula based on that Ability. Once he has accumulated 5 experience points in that formula, he is considered to have learned it and may use it to create a physical version (an "empiric"). This is why some riadiins who concentrate their efforts on creating formulas build up a certain "disadvantage" compared with more abstract philosophers, which is reflected in their scores. The storyguide may limit which astrological chart formulas can be learned from a book according to its specific subject matter. Besides reading books, these experience points can also be obtained by practicing different combinations of the natural principles (that is, by investing in it the 5 experience points gained from a season of practice; see *Ars Magica Fifth Edition*, page 245). An empiricus can therefore learn a formula in a single season by this method. It does not matter if the level of the formula is beyond the empiricus's reach; he can still learn it, which is not the same as preparing it.
 
@@ -9099,7 +9101,7 @@ An astrological chart is an astrological formula designed to answer a specific q
 
 Using the astrological chart requires the target's natal horoscope, which means that the riadiin must know the place and date of birth (or of creation, in the case of an object, or of beginning, in the case of an event) of the target. Calculating the target's horoscope takes a day, but it need only be done once per target. If the chart has two targets ("Does Yasmin love Abdul?"), the horoscopes of each of them are needed. No astrological chart can affect more than two targets.
 
-<!-- p. 291 -->
+<!-- p. 291 --><a id="page-291"></a>
 
 #### Calculating the Natal Horoscope:
 
@@ -9199,7 +9201,7 @@ Chart Level 15
 
 The Moon's north node exemplifies beginnings, and Mercury represents craftsmanship. The position of both in an object's horoscope will reveal information about its maker: his complexion (and therefore his approximate appearance), occupation, interests and current location.
 
-<!-- p. 292 -->
+<!-- p. 292 --><a id="page-292"></a>
 
 ### Who Caused the Death of N?
 
@@ -9213,7 +9215,7 @@ From the horoscope of a deceased person, the astrologer can determine a single c
 
 Although ligatures and astrological charts are processes within reach of anyone versed in the liberal arts, the most brilliant riadiins are chosen by the group's leaders to have revealed to them the existence of a series of mysteries, ceremonies and private knowledge that make them especially skilled at carrying out their activities. Although they are not an esoteric order properly speaking, nor do they possess any "magical" power *per se*, these small mysteries enhance their astrological and divinatory skills. There is talk of additional mysteries known only to Maslama himself (and his daughter, Fāṭīma), which allowed him to make truly complex prophecies, but that knowledge was irretrievably lost long ago.
 
-As with all Mysteries (see *Houses of Hermes: Mystery Cults*, page 6), an initiate's advancement depends, among many other things, on his knowledge of the organization and its wisdom (represented in this case by the new Ability Riadiin Lore) and on the sacrifices (material, of time, or even spiritual) he is willing to make. Some options for this group's Mysteries are suggested below.
+As with all Mysteries (see *Houses of Hermes: Mystery Cults*, [page 6](#page-6)), an initiate's advancement depends, among many other things, on his knowledge of the organization and its wisdom (represented in this case by the new Ability Riadiin Lore) and on the sacrifices (material, of time, or even spiritual) he is willing to make. Some options for this group's Mysteries are suggested below.
 
 **First Outer Mystery:** Mystery of the Primary Qualities.
 
@@ -9247,7 +9249,7 @@ After Averroes's banishment to Marrākeš in the mid-twelfth century, the Cordob
 
 Although the *Kulliyyāt* has not yet been translated into Latin (it will be in the coming years, under the name *Colliget*), many students of the Cordoban master's work threw themselves headlong into studying this formidable text, some of them traveling to Seville, Cordoba or Marrākeš, where he was in exile, to consult him. The most brilliant of these students (or the luckiest, who enjoyed Averroes's own advice) were able to see beyond the separate texts and sections of the *Kulliyyāt*. Following one of the sage's maxims ("The visible can afford a glimpse of the invisible"), they managed to fit together the various pieces contained in the book to uncover a hidden philosophic science that allowed medicine to be taken further than anyone of that age thought possible. By combining certain ingredients named by Averroes in the right way, and applying his philosophical theories, his followers discovered that they could make medical preparations of prodigious power: they called them theriacs, also known as treacles, from the Arabic *tiryāq*, "remedy," and Averroes himself would go on to explore them further in the *Maqāla fīl-tiryāq*, or "Treatise on Theriac."
 
-<!-- p. 293 -->
+<!-- p. 293 --><a id="page-293"></a>
 
 Soon these privileged few had not only formed their own group (they called themselves the tiryāqi) but had begun to take Averroes's teachings further, researching new formulas for new theriacs, which they jealously guarded among themselves. Despite their valuable discoveries and creations, they very rarely shared either with anyone outside the group: they supplied theriacs only to those few men or women whose worth as philosophers, physicians or scholars they judged to make them deserving of their preparations. More than one qadi and more than one wealthy merchant have tried in vain over the last few decades to obtain one of these fabulous theriacs, although word of the small group's existence has not spread far, and its slight renown extends only through the southern half of the Peninsula.
 
@@ -9257,9 +9259,9 @@ The sage Averroes's most accomplished disciple, Abū‑l‑Haŷŷaŷ ibn Tumlūs
 
 The members of the tiryāqi can prepare theriacs, pharmaceutical remedies that many charlatans claim to know but that very few actually know how to make. The theriacs of the tiryāqi are philosophic preparations beneficial to the human body, described in books such as the *Kitāb al-Kulliyyāt fīl-ṭibb*, the *Maqāla fīl-tiryāq*, and other works both earlier and later. The tiryāqi take the human body, its humors and its elements as their focus and principal element, and only after many years of study are they able to prepare the most potent remedies this discipline allows. The basic Ability they use for all their philosophic activities is therefore Medicine.
 
-Note that any student of philosophy with medical knowledge and a suitable laboratory (whose conditions would be similar to those of the riadiins; see page 288) can create theriacs. The tiryāqi are simply able to prepare far more potent theriacs, although it is true that their field of work is not as broad: where other philosophers can create theriacs that are poisonous or harmful to men, the tiryāqi are devoted solely to preserving the health of the body. On the other hand, only the tiryāqi can create theriacs that grant bonuses to Aging rolls or that restore Fatigue, something that, were it discovered by the Order of Hermes, could lead to inevitable contact between the two groups, who until now have been unaware of each other's existence.
+Note that any student of philosophy with medical knowledge and a suitable laboratory (whose conditions would be similar to those of the riadiins; see [page 288](#page-288)) can create theriacs. The tiryāqi are simply able to prepare far more potent theriacs, although it is true that their field of work is not as broad: where other philosophers can create theriacs that are poisonous or harmful to men, the tiryāqi are devoted solely to preserving the health of the body. On the other hand, only the tiryāqi can create theriacs that grant bonuses to Aging rolls or that restore Fatigue, something that, were it discovered by the Order of Hermes, could lead to inevitable contact between the two groups, who until now have been unaware of each other's existence.
 
-<!-- p. 294 -->
+<!-- p. 294 --><a id="page-294"></a>
 
 > #### Base Guidelines for Theriacs
 >
@@ -9281,7 +9283,7 @@ Note that any student of philosophy with medical knowledge and a suitable labora
 
 ### Initiation into the Mystery of the Tiryāqi
 
-**Ease Factor:** 15 (Minor Virtue known to the mystagogue; see page 308)
+**Ease Factor:** 15 (Minor Virtue known to the mystagogue; see [page 308](#page-308))
 
 **Script Bonus:** +10
 
@@ -9289,7 +9291,7 @@ Note that any student of philosophy with medical knowledge and a suitable labora
 
 #### How Theriacs Work
 
-To create a theriac, the first step is to research its formula, which can be done in various ways, such as reading it in a book or practicing Medicine to discover it on one's own. In either case, the student may "sacrifice" 5 experience points to research the formula of a theriac instead of investing them in the Ability; although the storyguide could, and should, limit the number and variety of theriac formulas available in books. (For example, you can find information on the *Kitāb al-Kulliyyāt fīl-ṭibb*, and its statistics, on page 323, in the "Mundane Library" appendix, and decide that it contains one or more theriac formulas, which any reader willing to sacrifice the corresponding experience points would learn.)
+To create a theriac, the first step is to research its formula, which can be done in various ways, such as reading it in a book or practicing Medicine to discover it on one's own. In either case, the student may "sacrifice" 5 experience points to research the formula of a theriac instead of investing them in the Ability; although the storyguide could, and should, limit the number and variety of theriac formulas available in books. (For example, you can find information on the *Kitāb al-Kulliyyāt fīl-ṭibb*, and its statistics, on [page 323](#page-323), in the "Mundane Library" appendix, and decide that it contains one or more theriac formulas, which any reader willing to sacrifice the corresponding experience points would learn.)
 
 Once the formula of a theriac is known, preparing it requires a laboratory, at least one season, and a number of unusual ingredients and items that vary from formula to formula; for this reason, it is recommended that the tiryāqi have the Ability Profession: Apothecary, or know someone who does and can supply those ingredients. Research of the formula is based on the following total.
 
@@ -9307,7 +9309,7 @@ This preparation creates a laboratory text with all the details of the process, 
 
 **Example.** *The tiryāqi Raquel of Cordoba has managed to research the formula for the agrimony poultice (described on the next page), and now sets about preparing it in her laboratory. Her Lab Total is 22, while the poultice's level is 15. Therefore, unless she experiments, it would take her three seasons to create one dose of the poultice. However, once that first dose is complete, if she wished to prepare more she would automatically prepare five doses in a single season.*
 
-<!-- p. 295 -->
+<!-- p. 295 --><a id="page-295"></a>
 
 #### Potency of Theriacs
 
@@ -9375,7 +9377,7 @@ This is the most potent formula in the whole repertoire of the tiryāqi. With as
 >
 > Unlike what is described in the *Ars Magica* core rulebook, the base guidelines for theriacs divide recovery rolls into two types: those made for wounds and those made for diseases, since each has a different diagnosis, symptoms and treatment. That is why they are given as separate guidelines. If you decide to use this rule, you should also do the same with the Creo Corpus guidelines in the core rulebook that have similar effects, and decide, when inventing a spell, whether the bonus it grants applies to recovery from diseases or from wounds. If you decide not to use this rule, you can merge the theriac guidelines that affect diseases and wounds separately into a single guideline for each level.
 
-<!-- p. 296 -->
+<!-- p. 296 --><a id="page-296"></a>
 
 ## Ex Miscellanea Traditions
 
@@ -9417,7 +9419,7 @@ In the Umayyad emirate of the Iberian Peninsula, the *saḥirs* who murdered Fla
 >
 > [^p296-II]: Excerpt from *The Treatise of Familiar Spirits and Demons* by Ibn Shuhayd (Spanish translation by Salvador Barberá).
 
-<!-- p. 297 -->
+<!-- p. 297 --><a id="page-297"></a>
 
 #### Culture
 
@@ -9429,11 +9431,11 @@ This tradition is deeply rooted in the southern part of the Iberian Peninsula an
 
 *Saḥirs* often have to accept some obligation on the *jinn*'s behalf in order for them to enter their service, and they are bound to fulfill this duty for the length of the contract. The storyguide should make sure that at least one event related to this obligation occurs. If the *saḥir* fails to fulfill this duty, the contract is broken and the *jinni* becomes his enemy, which means temporarily gaining the Flaw Plagued by Supernatural Entity (*jinni*) or Supernatural Nuisance.
 
-Most of the *jinn* with which Hermetic *saḥirs* deal are aligned with the Magic Realm. Some practitioners of this magic specialize in faerie *jinn*. However, most of these *jinn* profess Islam, and that religion forbids one Muslim to enslave another. More worrying is that some spirits that appear to be *jinn* are really demons, although, fortunately for the *saḥirs*, infernal *jinn* are usually easy to identify by their bloodlust and brutality (there is more information on the *jinn* on page 110 of the *Realms of Power: Magic* supplement).
+Most of the *jinn* with which Hermetic *saḥirs* deal are aligned with the Magic Realm. Some practitioners of this magic specialize in faerie *jinn*. However, most of these *jinn* profess Islam, and that religion forbids one Muslim to enslave another. More worrying is that some spirits that appear to be *jinn* are really demons, although, fortunately for the *saḥirs*, infernal *jinn* are usually easy to identify by their bloodlust and brutality (there is more information on the *jinn* on [page 110](#page-110) of the *Realms of Power: Magic* supplement).
 
 #### Relations with Non-Hermetic Saḥirs
 
-Hermetic *saḥirs* have very little contact with the non-Hermetic branch of their tradition. Since almost 300 years have passed since the Iberian *saḥirs* placed themselves under the protection of the Order, a non-Hermetic *saḥir* will rarely be found in Iberia today. However, rumor has it that, after the Other Tribunal of Harra, some may have made their way into the Peninsula (see page 174).
+Hermetic *saḥirs* have very little contact with the non-Hermetic branch of their tradition. Since almost 300 years have passed since the Iberian *saḥirs* placed themselves under the protection of the Order, a non-Hermetic *saḥir* will rarely be found in Iberia today. However, rumor has it that, after the Other Tribunal of Harra, some may have made their way into the Peninsula (see [page 174](#harra)).
 
 Non-Hermetic *saḥirs* are believed to be members of an association of Muslim wizards similar to the Order of Hermes, though with much closer mundane ties. Non-Hermetic *saḥirs* have much greater control over the *jinn*. Instead of relying on contracts to win their favors, they can compel them if necessary. The powers that non-Hermetic *saḥirs* demand of their *jinn* include immortality, the healing of any ailment, instant transport, spying on others, transforming into something else, and even magic resistance. Hermetic *saḥirs* crave the knowledge of this magic, but all their attempts to contact their Levantine brethren have ended in hostility.
 
@@ -9447,7 +9449,7 @@ Certain Virtues are very useful to Hermetic *saḥirs*, above all Second Sight; 
 
 Before summoning a *jinni*, the prudent *saḥir* studies it to estimate its relative power. If the *saḥir* has the Virtue Second Sight, or a spell that lets him see spirits, this estimate takes only a round, since he can observe the *jinni* directly in its habitat. Without magical aid, the *saḥir* must use his knowledge of the local area to gather enough information about the spirit that dwells there. To do so, he must make an Intelligence + (Area) Lore roll against an Ease Factor of 6 to discover the center of its power, the form the *jinni* takes and its possible powers. This examination takes the *saḥir* about an hour. Once this preliminary investigation has been carried out, the *saḥir* may try to discern the *jinni*'s approximate Might from its appearance (if visible), its dwelling and his own knowledge of these matters. First he must decide whether the *jinni* is faerie, magical or infernal from its behavior and attitude (at this point the *saḥir* can rely only on his experience), and then make an Intelligence + appropriate Realm Lore roll (that is, Magic Lore, Dominion Lore, Infernal Lore or Faerie Lore) against an Ease Factor of 9. If he succeeds, the *saḥir* infers the magnitude of the *jinni*'s Might. If he fails, he cannot guess it, so summoning the *jinni* would be dangerous. If he botches, the inferred magnitude is determined by rolling a simple die. Note that choosing the correct Realm Lore is vital; if the player chooses wrongly, he adds nothing but his Intelligence to the roll. However, since the player need not have any experience with *jinn*, the storyguide should make the differences between their various kinds clear.
 
-<!-- p. 298 -->
+<!-- p. 298 --><a id="page-298"></a>
 
 **Assessing the Might of Jinn:** Intelligence + appropriate Realm Lore + stress die vs. Ease Factor 9
 
@@ -9465,7 +9467,7 @@ The *saḥir* generates a Summoning Total based on his Siḥr Ability. A success
 
 **Summoning Strength:** Summoning Total – Ease Factor
 
-<!-- p. 299 -->
+<!-- p. 299 --><a id="page-299"></a>
 
 A *saḥir* may spend more time on his summonings; for every additional fifteen minutes, the *saḥir* loses a Fatigue level after the summoning, adds one botch die to the summoning roll and gains a +2 bonus to the Penetration Total. *Saḥirs* take more time when summoning *jinn* whose Might is close to the limit of their Ability.
 
@@ -9510,7 +9512,7 @@ If the negotiation roll fails, no agreement is reached and the *jinni* is not ob
 >
 > \* The modifier applies per pawn spent above or below the standard cost.
 
-<!-- p. 300 -->
+<!-- p. 300 --><a id="page-300"></a>
 
 **Quality of a Jinni as a Source:** 3 × Might magnitude
 
@@ -9548,7 +9550,7 @@ Typical Virtues and Flaws: Special Circumstances (storms), Puissant Auram, Mythi
 
 #### History
 
-Before the Order of Hermes came to Iberia, before its very founding, and even before the Romanization of the Iberian Peninsula, there lived in the northern reaches of Iberia a group of wizards feared and hated in equal measure by the locals. They were descendants of the ancient worshipers of the god of thunder and storm, known in the regions of Galicia and Asturias as Nuberu (paired with the Celtic Taranis, the Roman Jupiter or the Germanic Wotan), and so these sorcerers were originally called *núberos*, although they should not be confused with the supernatural creatures of similar nature (see insert on page 301). They were unsettling and mysterious figures who from time to time appeared unexpectedly in the lives of the inhabitants of those regions, bearing cryptic messages and strange requests, only to vanish again just as swiftly. Their arrival was usually marked by violent storms and rain, and so, when the Romans reached the north of the Peninsula, they began to call them by the name by which the Order of Hermes would come to know them: *tempestarii*.
+Before the Order of Hermes came to Iberia, before its very founding, and even before the Romanization of the Iberian Peninsula, there lived in the northern reaches of Iberia a group of wizards feared and hated in equal measure by the locals. They were descendants of the ancient worshipers of the god of thunder and storm, known in the regions of Galicia and Asturias as Nuberu (paired with the Celtic Taranis, the Roman Jupiter or the Germanic Wotan), and so these sorcerers were originally called *núberos*, although they should not be confused with the supernatural creatures of similar nature (see insert on [page 301](#page-301)). They were unsettling and mysterious figures who from time to time appeared unexpectedly in the lives of the inhabitants of those regions, bearing cryptic messages and strange requests, only to vanish again just as swiftly. Their arrival was usually marked by violent storms and rain, and so, when the Romans reached the north of the Peninsula, they began to call them by the name by which the Order of Hermes would come to know them: *tempestarii*.
 
 The tempestarii lived all along the Cantabrian coast, and the common folk attributed strange powers to them, all of them related to storms: it was said that they could summon torrential rain, hail and snowfall, but some told of even more incredible feats, such as divining the future merely by watching the lightning fall from the sky, or even riding the storms to travel at great speed from one place to another. The Romans, who respected any wizard able to read omens or auguries in the elements of nature, had an ambivalent relationship with the tempestarii, fighting them (and executing them) when they resisted, yet going so far as to employ their services to learn the fate of their battles. The wizards survived the fall of the Roman Empire and are still present today, especially in the most rural parts of the region.
 
@@ -9556,9 +9558,9 @@ The tempestarii lived all along the Cantabrian coast, and the common folk attrib
 
 The arrival of the Order of Hermes brought a radical change for the tempestarii. The first Flambeau, and Grimoald Niger in particular, made the ancient priests one of their main targets during their expansion through the north of the Peninsula. However, the tempestarii put up formidable opposition to the Order, mounting an organized resistance with strong support from the very rural folk in whom they inspired such fear. Not a few Flambeau were struck down by their lightning in the duels between the two traditions.
 
-<!-- p. 301 -->
+<!-- p. 301 --><a id="page-301"></a>
 
-For a long time the tempestarii were a thorn in the Order's side, and it even tried diplomacy to subdue an enemy that proved unyielding. Some records speak of tempestarii attending the meetings held at the vanished covenant of Lucis, and of how they might perhaps have joined the Order. However, the negotiations grew complicated (as explained in Chapter III, see page 64), and in 792 the tempestarii presented a series of demands that the Order found unacceptable, dashing any possibility of alliance.
+For a long time the tempestarii were a thorn in the Order's side, and it even tried diplomacy to subdue an enemy that proved unyielding. Some records speak of tempestarii attending the meetings held at the vanished covenant of Lucis, and of how they might perhaps have joined the Order. However, the negotiations grew complicated (as explained in Chapter III, see [page 64](#page-64)), and in 792 the tempestarii presented a series of demands that the Order found unacceptable, dashing any possibility of alliance.
 
 The Flambeau of Brigantia took matters into their own hands and resolved to finish off the storm wizards once and for all. They prepared a great joint attack on their main centers of power but, surprisingly, the tempestarii were ready for them. Although some accused the maga Tancoystl of Diedne of having warned them (something that could never be proven), the *núberos* stood up to the Flambeau for months in a conflict that laid waste to entire regions. When the conflict threatened to spill over into the mundane sphere, in 794, it was decided to attack the main sanctuary of the tempestarii, which was also the most important vis source in northern Iberia: a beach on the western coast of Asturias. Almost all the magi of the Peninsula took part in a brutal attack that razed the beach. Stripped of one of their great sources of power, the vast majority of the tempestarii chose to fight on to the death rather than join the Order, and only a few agreed to convert and join the ranks of Duresca.
 
@@ -9578,7 +9580,7 @@ The few tempestarii who exist today try to keep alive the traditions they inheri
 
 Although almost no one in the Order knows it, the tempestarii maintain constant and stable communication with other traditions of a similar character scattered across Europe, such as the weather witches of Germany and the Saxon lands, or the lineage of Muj (from which Myanar descended), both within the Order of Hermes, or certain Transylvanian wizards in the distant Carpathians. It is even said that there have occasionally been conclaves attended by the leaders of these different traditions, although only they know what matters were discussed there.
 
-<!-- p. 302 -->
+<!-- p. 302 --><a id="page-302"></a>
 
 > #### The Ñuberu
 >
@@ -9600,7 +9602,7 @@ Although almost no one in the Order knows it, the tempestarii maintain constant 
 >
 > Although the ñuberu described here is magical in origin, faerie ñuberus also exist in the Peninsula, with powers and weaknesses very similar to these, which makes it very hard to tell one from the other. In fact, in the tenth century there was a tempestarius named Abel who postulated that his lineage might have a faerie origin, citing as proof the characteristics they shared with the ñuberus. Abel disappeared in the midst of a terrible storm off the coast of Galicia, supposedly while trying to contact one of the most powerful ñuberus of the area.
 
-<!-- p. 303 -->
+<!-- p. 303 --><a id="page-303"></a>
 
 > #### The Ñuberu
 >**Magic Might:** 19 (Auram)<br>
@@ -9627,7 +9629,7 @@ Although almost no one in the Order knows it, the tempestarii maintain constant 
 >
 >*The Ñuberu's Whims*, varies, Init –4, Auram<br>
 >R: Varies, D: Storm, T: Varies<br>
->The ñuberu can imitate any Hermetic Creo Auram effect of up to level 25, at a cost of one point per magnitude. The ñuberu can use this power only in the midst of a storm, and so all the effects it creates with it have a default duration of Storm (see *Realms of Power: Magic*, page 55).<br>
+>The ñuberu can imitate any Hermetic Creo Auram effect of up to level 25, at a cost of one point per magnitude. The ñuberu can use this power only in the midst of a storm, and so all the effects it creates with it have a default duration of Storm (see *Realms of Power: Magic*, [page 55](#page-55)).<br>
 >ReAu General: Focus Power (25 levels), Improved Powers (2 mastery points, maximum effect level increased by +10)
 >
 >*The Rider of the Winds*, 0 points, Init –1, Auram<br>
@@ -9669,7 +9671,7 @@ To summon a storm, the tempestarius must make a stress roll of Communication + T
 
 Summoning a storm also requires the expenditure of Auram vis, without which the natural forces cannot be controlled as the tempestarius wishes. The storm is centered on the place where the tempestarius stands when he summons it, and if he moves, it does not move with him. The storm takes a number of rounds equal to the Ease Factor to appear, and if summoned indoors, it breaks outside. Although the storm is summoned magically (and counts as a magical effect for the purposes of auras), once summoned it is entirely natural and need not penetrate any Magic Resistance to affect a target.
 
-<!-- p. 304 -->
+<!-- p. 304 --><a id="page-304"></a>
 
 The tempestarius can also move a storm (whether he summoned it or not) at a rate of one kilometer per Diameter. To do so, he must make a roll similar to the one above, but whose Ease Factor depends only on the size (and not the duration) of the storm. While it is being moved in this way, the storm does count as a supernatural effect for the purposes of Penetration.
 
@@ -9707,7 +9709,7 @@ In recent years the Tribunal has undergone a veritable philosophical revolution 
 
 [^p304-7]: Excerpt from *The Splendor of the Fruits of the Journey* by Ibn ʿArabī (Spanish translation by Carlos Varona Narvión).
 
-<!-- p. 305 -->
+<!-- p. 305 --><a id="page-305"></a>
 
 All the ṣūfīs of Iberia belong to a mystical community or brotherhood (*ṭarīqa*) where they can share teachings and knowledge in order to reach the state of purification needed to attain the original unity, or *tawḥīd*. To reach this state, the ṣūfīs follow a very strict ascetic life and hold to a very rigid morality, so they commit no crimes or sins and cannot accept gifts or alms from those who they do not know to have acquired them lawfully (for example, gifts from the civil authorities are always refused, for there is no ruler who is not a tyrant).
 
@@ -9745,13 +9747,13 @@ The ultimate goal of the one who walks the path of light is to reach the summit 
 >
 > - in the second, separated from the first tier by a barrier impassable to human perception, the divinity makes itself known through its Names (*al-malakūt*), through which everything exists in the mystery of the absolute secret;
 >
-> - in the third tier are the concrete or particular Essences (*aʿayān*), arising from the Names after the Holy Effusion (*al-fayḍ al-muqaddas*). This is the intermediate world, where forms have not yet taken shape, and where the Criamon of Barzaj believe the *regio* of their covenant lies (see page 255).
+> - in the third tier are the concrete or particular Essences (*aʿayān*), arising from the Names after the Holy Effusion (*al-fayḍ al-muqaddas*). This is the intermediate world, where forms have not yet taken shape, and where the Criamon of Barzaj believe the *regio* of their covenant lies (see [page 255](#page-255)).
 >
 > [^p305-III]: Excerpt from *On the Intellect* by Averroes (Spanish translation by Andrés Martínez Lorca).
 
-<!-- p. 306 -->
+<!-- p. 306 --><a id="page-306"></a>
 
-Given how closely their philosophies resemble each other, the Criamon are staunch followers of this mystical current, and many have found in Iberia the setting they need to devote themselves to the pursuit of the Enigma. At present the Iberian brood (whose heart is the covenant of Barzaj) follows the Path of Walking Backwards (see *Houses of Hermes: Mystery Cults*, page 120), although your troupe could develop another Path based on the philosophical concepts of the ṣūfīs. Bear in mind that, in 1220, the ideas of the ṣūfīs are persecuted by the Almohad fuqahāʾ.
+Given how closely their philosophies resemble each other, the Criamon are staunch followers of this mystical current, and many have found in Iberia the setting they need to devote themselves to the pursuit of the Enigma. At present the Iberian brood (whose heart is the covenant of Barzaj) follows the Path of Walking Backwards (see *Houses of Hermes: Mystery Cults*, [page 120](#page-120)), although your troupe could develop another Path based on the philosophical concepts of the ṣūfīs. Bear in mind that, in 1220, the ideas of the ṣūfīs are persecuted by the Almohad fuqahāʾ.
 
 #### The Kabbalistic Circle of Gerona
 
@@ -9775,7 +9777,7 @@ Many magi in Iberia revere these ideas and devote much of their study to philoso
 >
 > Although the council ended in 1216, its conclusions did not reach the Peninsula until 1228–1229, so their strict application does not clash with the canonical starting year of *Ars Magica* in the Iberian Tribunal.
 
-The magi of ʾAlif built on these theses to create a Mystery of their own (based on the Enigmatic Wisdom of House Criamon and on a Hermetic breakthrough), which they called the Path of Negative Attributes (see *Houses of Hermes: Mystery Cults*, page 123). This Path arose with the Rationalist movement led by the members of ʾAlif and the Perfect Order, and it has no representation in any other Tribunal. Although the Path of Negative Attributes might seem to have no brood (like the Path of Beacons), this is not so; its followers call it the agent intellect: the state of the solitary can raise a solid barrier against the discord of the world, based on the physical isolation of its members and on the search for the answer to the Enigma through the negation of its attributes, for the members of this Path hold that the nature of the Enigma can be revealed by no other method.
+The magi of ʾAlif built on these theses to create a Mystery of their own (based on the Enigmatic Wisdom of House Criamon and on a Hermetic breakthrough), which they called the Path of Negative Attributes (see *Houses of Hermes: Mystery Cults*, [page 123](#page-123)). This Path arose with the Rationalist movement led by the members of ʾAlif and the Perfect Order, and it has no representation in any other Tribunal. Although the Path of Negative Attributes might seem to have no brood (like the Path of Beacons), this is not so; its followers call it the agent intellect: the state of the solitary can raise a solid barrier against the discord of the world, based on the physical isolation of its members and on the search for the answer to the Enigma through the negation of its attributes, for the members of this Path hold that the nature of the Enigma can be revealed by no other method.
 
 ## New Abilities, Virtues and Flaws
 
@@ -9785,7 +9787,7 @@ Muslim and Jewish characters, whether of urban or rural origin, are generated in
 
 Muslim characters living in non-Muslim lands are generated in the same way as other Muslim characters, but they must take the Major Social Status Flaw Outsider to reflect their relationship with the local people around them.
 
-<!-- p. 307 -->
+<!-- p. 307 --><a id="page-307"></a>
 
 > #### New Virtues and Flaws
 >
@@ -9885,7 +9887,7 @@ This Virtue grants the character the Minor Virtues Unaging and Tough. However, t
 
 This Virtue grants the Accelerated Ability Protective Bindings at level 1.
 
-<!-- p. 308 -->
+<!-- p. 308 --><a id="page-308"></a>
 
 #### Bureaucrat
 
@@ -9937,9 +9939,9 @@ You belong to the council of elders of the aljama (which handles its internal af
 
 *Minor, Social Status*
 
-You belong to a military order, and it is your duty to be ready to fight the infidel at any time. You have sworn a lifelong vow of obedience, poverty and chastity, and are answerable only to your superiors and the pope. As a knight you must wear the symbol of your order on your surcoat (Calatrava, Santiago, etc.; see page 56) and, unless you are Poor, you may have high-quality weapons and armor and two horses. You may take Academic and Martial Abilities during character generation.
+You belong to a military order, and it is your duty to be ready to fight the infidel at any time. You have sworn a lifelong vow of obedience, poverty and chastity, and are answerable only to your superiors and the pope. As a knight you must wear the symbol of your order on your surcoat (Calatrava, Santiago, etc.; see [page 56](#page-56)) and, unless you are Poor, you may have high-quality weapons and armor and two horses. You may take Academic and Martial Abilities during character generation.
 
-<!-- p. 309 -->
+<!-- p. 309 --><a id="page-309"></a>
 
 #### Mystery of the Primary Qualities
 
@@ -9995,7 +9997,7 @@ This Virtue confers a score of 1 in the new Accelerated Supernatural Ability Tem
 
 *Minor, General*
 
-The character has been schooled in the wisdom of Averroes and the secrets of his books, such as the *Kitāb al-Kulliyyāt fīl-ṭibb* and the *Maqāla fīl-tiryāq*, as well as other related texts and authors. When preparing theriacs, the character may add twice his Medicine score (including Puissant, if he has it) to his Lab Total (instead of applying the score only once, as in conventional theriac making). Tiryāqi can only create theriacs based on the guidelines in the insert on page 293 and cannot create any harmful theriac; in exchange, they are the only known philosophers able to understand Averroes' texts well enough to create theriacs that grant bonuses to Aging rolls.
+The character has been schooled in the wisdom of Averroes and the secrets of his books, such as the *Kitāb al-Kulliyyāt fīl-ṭibb* and the *Maqāla fīl-tiryāq*, as well as other related texts and authors. When preparing theriacs, the character may add twice his Medicine score (including Puissant, if he has it) to his Lab Total (instead of applying the score only once, as in conventional theriac making). Tiryāqi can only create theriacs based on the guidelines in the insert on [page 293](#the-tiryāqi) and cannot create any harmful theriac; in exchange, they are the only known philosophers able to understand Averroes' texts well enough to create theriacs that grant bonuses to Aging rolls.
 
 ## Flaws
 
@@ -10017,7 +10019,7 @@ You are a eunuch, and so cannot father children. Whenever the operation was perf
 
 You have been excommunicated by the pope, so Christians are forbidden to eat or drink with you; they may not kiss you, greet you or speak with you (except about repentance), and when you die you cannot be buried in consecrated ground and no one may pray for your soul. This Flaw is only available to Christian characters, both male and female.
 
-<!-- p. 310 -->
+<!-- p. 310 --><a id="page-310"></a>
 
 > #### New Abilities
 >
@@ -10048,13 +10050,13 @@ Normally, this Flaw is only appropriate for grogs; companions and magi should ta
 
 *Minor, Story*
 
-You are charged with guarding the coffers of the Iberian Tribunal kept at the Mercer Houses of Aedes Saturni (*praefectus praetorio*) and Porta Pandere (*ḥárisun*, Arabic for "guardian"). You are most likely of House Flambeau (although since 1116 this has not been a requirement), and you live in one of the Mercer Houses or nearby. You were elected at a Tribunal and may hold the office for life, although your resignation may be demanded (if you neglect your responsibilities) and you may step down of your own accord at any time. As such, you are entitled to a seat in the Iberian Chamber (see page 89), and your covenant receives the status of dedicated covenant, so it receives an annual stipend of vis or is exempt from the Iberian Tribute (storyguide's choice).
+You are charged with guarding the coffers of the Iberian Tribunal kept at the Mercer Houses of Aedes Saturni (*praefectus praetorio*) and Porta Pandere (*ḥárisun*, Arabic for "guardian"). You are most likely of House Flambeau (although since 1116 this has not been a requirement), and you live in one of the Mercer Houses or nearby. You were elected at a Tribunal and may hold the office for life, although your resignation may be demanded (if you neglect your responsibilities) and you may step down of your own accord at any time. As such, you are entitled to a seat in the Iberian Chamber (see [page 89](#page-89)), and your covenant receives the status of dedicated covenant, so it receives an annual stipend of vis or is exempt from the Iberian Tribute (storyguide's choice).
 
 #### Quaestor Aerarii (Jāzin)
 
 *Minor, Story*
 
-You are charged with keeping the accounts of the coffers of the Iberian Tribunal kept at the Mercer Houses of Aedes Saturni (*quaestor aerarii*) and Porta Pandere (*jāzin*, Arabic for "treasurer"). You are most likely of House Guernicus (although since 1116 this has not been a requirement), and you live in one of the Mercer Houses or nearby. You were elected to the office at an ordinary Tribunal and may hold it for life, although your resignation may be demanded (if you neglect your responsibilities) and you may step down of your own accord at any time. As such, you are entitled to a seat in the Iberian Chamber (see page 89), and your covenant receives the status of dedicated covenant, so it receives an annual stipend of vis or is exempt from the Iberian Tribute (storyguide's choice).
+You are charged with keeping the accounts of the coffers of the Iberian Tribunal kept at the Mercer Houses of Aedes Saturni (*quaestor aerarii*) and Porta Pandere (*jāzin*, Arabic for "treasurer"). You are most likely of House Guernicus (although since 1116 this has not been a requirement), and you live in one of the Mercer Houses or nearby. You were elected to the office at an ordinary Tribunal and may hold it for life, although your resignation may be demanded (if you neglect your responsibilities) and you may step down of your own accord at any time. As such, you are entitled to a seat in the Iberian Chamber (see [page 89](#page-89)), and your covenant receives the status of dedicated covenant, so it receives an annual stipend of vis or is exempt from the Iberian Tribute (storyguide's choice).
 
 ## New Abilities
 
@@ -10064,7 +10066,7 @@ You are charged with keeping the accounts of the coffers of the Iberian Tribunal
 
 Abjuration is a kind of magic that can directly harm supernatural creatures or cancel their powers or active spells. To create an abjuration, a distaurnanja paints, sews, embroiders or otherwise inscribes his spell onto a strip of ribbon or other material, which he then wraps around a character, an object, a room or the hilt of a weapon.
 
-<!-- p. 311 -->
+<!-- p. 311 --><a id="page-311"></a>
 
 #### Chess\*
 
@@ -10072,7 +10074,7 @@ Abjuration is a kind of magic that can directly harm supernatural creatures or c
 
 This game, which the Arabs received from the Persians and spread through Christian Mythic Europe, is played on a board that represents the world, on which the cosmic cycles (which frame the foundations of Hermetic theory) appear in symbolic form: the four central squares stand for the four basic phases of every cycle (the seasons), the squares surrounding them correspond to the orbits of the sun and the twelve signs of the zodiac, while the outer squares of the board are mirrored in the twenty-eight mansions of the moon. On the board, moreover, the alternation of white and black is what distinguishes dawn from dusk.
 
-The tournament of Iššáh on page 171 gives an applied example of the rules for chess. For the different styles of chess, take a look at the insert on page 143 of *Houses of Hermes: True Lineages*.
+The tournament of Iššáh on [page 171](#page-171) gives an applied example of the rules for chess. For the different styles of chess, take a look at the insert on page 143 of *Houses of Hermes: True Lineages*.
 
 **Specialties:** first round, second round, ancient chess, prima or adventurer.
 
@@ -10104,7 +10106,7 @@ This Ability covers knowledge of the organization of the riadiins, their hierarc
 
 Islamic law, or *šarīʿa*, encompasses all legislation rooted in the Qurʾan, the sunna, the *iŷmāʿ* and the *qiyās*. In game terms, this Ability is the Muslim version of Civil and Canon Law.
 
-In Iberia the Mālikī version of Islamic law is taught, and it is independent of the rest of the eastern Islamic world. Mālikī law is based on ordering and regulating communal life so as to respect the social order, although, given its ambiguity, one must not only regulate but also improvise, for at times the strict application of justice is unjust (this subjectivity was partly curbed by the Almohads; see the insert "Islamic Law: The Mālikī School" on page 21). For this reason, every qadi must have a certain intuition about the facts and heed any presumption of innocence. In addition, the social repercussions of the trial must always be weighed, taking into account the harm or benefit the qadi's ruling may bring to the community. In practice this usually means that the more witnesses one has, the more likely one is to win a case.
+In Iberia the Mālikī version of Islamic law is taught, and it is independent of the rest of the eastern Islamic world. Mālikī law is based on ordering and regulating communal life so as to respect the social order, although, given its ambiguity, one must not only regulate but also improvise, for at times the strict application of justice is unjust (this subjectivity was partly curbed by the Almohads; see the insert "Islamic Law: The Mālikī School" on [page 21](#page-21)). For this reason, every qadi must have a certain intuition about the facts and heed any presumption of innocence. In addition, the social repercussions of the trial must always be weighed, taking into account the harm or benefit the qadi's ruling may bring to the community. In practice this usually means that the more witnesses one has, the more likely one is to win a case.
 
 Islamic law is an orientation, a guide to action with ethical and religious connotations, so if a judge knows little of the law, he must adhere to *taqlīd* (Arabic for "imitation": literal adherence to the law, applying it by analogy with the precedent case).
 
@@ -10154,7 +10156,7 @@ This is the Jewish equivalent of Christian theology. The main source of Jewish t
 
 This Accelerated Ability allows you to manufacture the talismans needed to cast astral magic (see above). Talismans must be crafted from the appropriate materials at the appropriate time and must be consecrated and strengthened with the proper rituals and sacrifices; only then can the sorcerer draw the celestial spirits down onto the image to work this kind of magic.
 
-<!-- p. 312 -->
+<!-- p. 312 --><a id="page-312"></a>
 
 # XI. Places of Power
 
@@ -10170,11 +10172,11 @@ The columns that support the temple pediment correspond to the columns on the mu
 
 Entering the temple is like entering a cave. The chamber lies in half-darkness, and the fires visibly dim inside it. In fact, this chamber is a gateway to other *regiones*, whose destination varies according to the visitor's wishes. Those who seek absolution or purification find at the far end a staircase descending into darkness until it reaches the Divine *regio* of purgatory. The way back is not always clear, and only those who have recently confessed or have lived without falling into sin return quickly. Travelers who follow in the footsteps of Hercules end up in the network of *regiones* that stretches across the distant Pyrenees, and may even come out on the Via Domitia, outside the shattered remains of Béziers. Wyverns lurk along these roads, however: greedy lizards that hunt travelers for food and to swell their motley hoards with their belongings.
 
-<!-- p. 313 -->
+<!-- p. 313 --><a id="page-313"></a>
 
 ### Vis Sources
 
-The emeralds of the tree of Pygmalion provide two vis sources when they are harvested on the last day of summer. Those gathered from the side of the tree facing the emerald column contain five pawns of Intellego vis. The fruits harvested from the side facing the golden column contain a total of five pawns of Rego vis. One pawn in five (of either kind of vis) is extraordinary vis that emulates lesser enchanted devices (see *Realms of Power: Magic*, page 147) with one of the following effects.
+The emeralds of the tree of Pygmalion provide two vis sources when they are harvested on the last day of summer. Those gathered from the side of the tree facing the emerald column contain five pawns of Intellego vis. The fruits harvested from the side facing the golden column contain a total of five pawns of Rego vis. One pawn in five (of either kind of vis) is extraordinary vis that emulates lesser enchanted devices (see *Realms of Power: Magic*, [page 147](#page-147)) with one of the following effects.
 
 #### Splinter of Atlas's Strength
 
@@ -10200,7 +10202,7 @@ Looking through this crystal, you can see clearly through the particles that clo
 >
 > A Jerbiton arrives at the covenant gate, terribly ill and certain of one thing: the temple of Sancti Petri is not only a gateway to the mythical Hesperides, but to anywhere at all, if the traveler performs the proper ritual. According to him, there is a site on the outskirts of Tangier that is paired with the Gaditan temple, and if one performs the proper ritual at both, one can go anywhere one wishes by setting out from the Peninsular temple. It worked for Hercules, Hanno and Hannibal, and it has worked for him. The magus's bulging eyes and dry cough unsettle the members of the covenant, but the promise of so longed-for a harbor could tempt anyone.
 
-<!-- p. 314 -->
+<!-- p. 314 --><a id="page-314"></a>
 
 ## The Tumulus of Zalamea
 
@@ -10222,7 +10224,7 @@ What remained was an enormous artificial mound (which eventually disappeared ben
 >
 > Shortly before it breathed its last, the ruins of Tartessian civilization and their inhabitants were trapped in an enormous Faerie *regio*. The only known entrance lies in the marshes at the mouth of the Guadalquivir, where it is said to be impossible to enter without a guide. Indeed, the fact that the temple of Zalamea has a Magic aura rather than a Faerie one could be a matter of debate for groups interested in such things. In any case, a faerie replica of the temple can be found in this *regio* and, at the storyguide's discretion, the answer to the tablets in the insert "Story Seeds: The Ritual Tablets" on the following page.
 >
-> [^p314-IV]: The name Tartessos is not attested within the culture it refers to; that is, none of the Tartessians ever called themselves by that name. In fact, the first mention of the name appears in the *Geryoneis* of Stesichorus of Himera, a poem about the encounter between Geryon (see page 118) and Hercules, which says that the giant was born beside the river called Tartessos, opposite the island of Erytheia. This river was later called the Baetis by the Romans and the Guadalquivir ("great river") by the Arabs.
+> [^p314-IV]: The name Tartessos is not attested within the culture it refers to; that is, none of the Tartessians ever called themselves by that name. In fact, the first mention of the name appears in the *Geryoneis* of Stesichorus of Himera, a poem about the encounter between Geryon (see [page 118](#page-118)) and Hercules, which says that the giant was born beside the river called Tartessos, opposite the island of Erytheia. This river was later called the Baetis by the Romans and the Guadalquivir ("great river") by the Arabs.
 >
 > [^p314-V]: From Book I of Herodotus's *Histories* (Spanish translation by Carlos Schrader García).
 
@@ -10232,7 +10234,7 @@ The tumulus of Zalamea lies less than ten kilometers north of the Muslim castle 
 
 Besides the powerful aura of the area, anyone searching for underground water (whether with the Dowsing Virtue or some other Hermetic effect designed for that purpose) will detect a vein of water running through the whole area. These two factors make the site an excellent spot for a covenant (at least from a geographical point of view, since, with the help of the Order of Alcántara, the area will be conquered in the 1230s by the forces of King Fernando III, who by then will rule not only over Castile but over Leon as well).
 
-<!-- p. 315 -->
+<!-- p. 315 --><a id="page-315"></a>
 
 Beneath the tumulus, the ruins of the complex are laid out around a courtyard paved with pressed red clay, in the center of which a deep well was dug to reach the vein of water mentioned above. The buildings and chambers around the courtyard face east (associated with the dawn and the creative forces of Astarte), and the whole complex is surrounded by a ditch four meters deep cut into the rock.
 
@@ -10252,9 +10254,9 @@ This source can provide up to five pawns of Animal vis, although the storyguide 
 >
 > The script combines a semi-alphabetic and semi-syllabic system, and uses signs that represent the guttural consonants and other semivowels of Semitic speech to represent vowels. It also invents new signs to complete the syllabic system beyond Phoenician, so even if the characters know Phoenician they will not be able to decipher the content, which will require much deeper research. If they manage to decipher it, it might represent an advance similar to the one Fenicil brought at the end of the ninth century.
 >
-> We leave it to each group to design this effect to suit their saga, although it should be of a power similar to that of Fenicil's rituals (see *Houses of Hermes: True Lineages*, page 81).
+> We leave it to each group to design this effect to suit their saga, although it should be of a power similar to that of Fenicil's rituals (see *Houses of Hermes: True Lineages*, [page 81](#page-81)).
 
-<!-- p. 316 -->
+<!-- p. 316 --><a id="page-316"></a>
 
 # Appendix I: Mundane Library
 
@@ -10306,7 +10308,7 @@ A mathematician, poet and astronomer from Ronda. In his laboratory he had a dome
 
 #### ʿAbd al-Wāḥid ibn Isāḥq al-Ḍabbī
 
-An Andalusi astronomer (possibly from Algeciras) of the caliph Al-Ḥakam I (here recast as a magus of the Order of Hermes; see page 74).
+An Andalusi astronomer (possibly from Algeciras) of the caliph Al-Ḥakam I (here recast as a magus of the Order of Hermes; see [page 74](#page-74)).
 
 ##### Al-urŷuza
 
@@ -10344,11 +10346,11 @@ This Cordoban is considered the founder of Andalusi historiography.
 
 **Description:** A compendium of the history of al-Andalus up to the tenth century.
 
-<!-- p. 317 -->
+<!-- p. 317 --><a id="page-317"></a>
 
 #### Álbaro of Cordoba
 
-A Mozarabic nobleman of Cordoba involved in the events of the voluntary martyrs (see page 24).
+A Mozarabic nobleman of Cordoba involved in the events of the voluntary martyrs (see [page 24](#page-24)).
 
 ##### Indiculus Luminosus
 
@@ -10358,7 +10360,7 @@ A Mozarabic nobleman of Cordoba involved in the events of the voluntary martyrs 
 
 #### Ibn Masarra
 
-A muwallad mystic, native of Cordoba (see page 79).
+A muwallad mystic, native of Cordoba (see [page 79](#page-79)).
 
 ##### Kitāb jawāss al-ḥurūf
 
@@ -10402,7 +10404,7 @@ Known as Al-Qurṭubī, he was an Andalusi scholar described by his contemporari
 
 *Summa* on Artes Liberales (astronomy), Level 5, Quality 9
 
-*For those initiated into astral magic (see page 278), this compendium gathers all the known conjurations of that tradition.*
+*For those initiated into astral magic (see [page 278](#page-278)), this compendium gathers all the known conjurations of that tradition.*
 
 **Description:** "The Goal of the Wise" is written according to ideas drawn from many places, such as Iberia, North Africa, Greece, Egypt, Nabataea, Arabia, Babylon, Persia, India and beyond, and its learning is encyclopedic. This compendium in four books reflects the personal needs, ambitions, fears and longings of magicians and their clients, and it binds together into a coherent framework the magic, philosophy and astrology of Antiquity with those of the Islamic culture of the Middle Ages.
 
@@ -10436,7 +10438,7 @@ A poetess of Umayyad blood who always refused to wear the veil (for which she wa
 
 **Description:** A collection of poems.
 
-<!-- p. 318 -->
+<!-- p. 318 --><a id="page-318"></a>
 
 ### The Taifa Kingdoms
 
@@ -10508,7 +10510,7 @@ This eminent Toledan botanist was born in 1050 and served at the court of the ta
 
 **Description:** The "Agricultural Anthology" is an impressive compendium of agronomy that Ibn Baṣṣāl wrote in Toledo.
 
-<!-- p. 319 -->
+<!-- p. 319 --><a id="page-319"></a>
 
 Its pages focus above all on the author's own observations, and so their approach is eminently practical. Later, in Seville, Ibn Baṣṣāl adapted his anthology to reduce its length (the abridged book, called *Kitāb al-qaṣd wa-l-bayān* or "The Concise and Clear Book," is a *tractatus* on Profession (Agronomist) of Quality 6, and will be translated into Castilian in the thirteenth century).
 
@@ -10604,7 +10606,7 @@ Considered the most influential of the Jewish scholars of the High Middle Ages, 
 
 The Avempace of the Latins was born in Saragossa and lived in Játiva, Almería, Granada, Oran and Fez (in exile), where he died, poisoned with an eggplant by a famous physician. This philosopher, scientist, physician, poet and musician (he fused Christian-style music with Arabic music in the form of the *muwaššaḥa*, and called it zajal) reached the Christians through Averroes' commentaries on Aristotle, despite having been the first to translate and comment on the Stagirite philosopher.
 
-<!-- p. 320 -->
+<!-- p. 320 --><a id="page-320"></a>
 
 ##### Kalam ʿala baʿa kitāb al-nabat
 
@@ -10676,7 +10678,7 @@ This Muslim jurist from Tortosa opposed Fatimid ideology and was a teacher in Al
 
 **Description:** The "Lamp of Princes" covers numerous anecdotes on royal conduct.
 
-<!-- p. 321 -->
+<!-- p. 321 --><a id="page-321"></a>
 
 #### Al-Fatḥ ibn Jāqān
 
@@ -10746,7 +10748,7 @@ Known to the Latins as Abubacer, the renowned polymath from Guadix practiced as 
 
 [^p321-20]: Excerpt from Ibn Ṭufayl's *The Self-Taught Philosopher* (Spanish translation by Ángel González Palencia).
 
-<!-- p. 322 -->
+<!-- p. 322 --><a id="page-322"></a>
 
 *Summa* on Philosophiae, Level 3, Quality 9
 
@@ -10782,7 +10784,7 @@ The Avenzoar of the Christians was born in Seville at the end of the eleventh ce
 
 **Description:** "The Book of Foods" discusses their properties and their applications in medicine.
 
-The book might contain one or more theriac formulas, described on page 293.
+The book might contain one or more theriac formulas, described on [page 293](#page-293).
 
 ##### Kitāb al-iqtiṣād fi islāh al-anfus wal-asḫsad
 
@@ -10812,7 +10814,7 @@ His writings clashed with (anti-rationalist) Jewish orthodoxy, and he was critic
 
 [^p322-21]: Excerpt from Maimonides' *The Guide for the Perplexed* (Spanish translation by David Gonzalo Maeso).
 
-<!-- p. 323 -->
+<!-- p. 323 --><a id="page-323"></a>
 
 *Summa* on Philosophiae, Level 4, Quality 9
 
@@ -10836,7 +10838,7 @@ His writings clashed with (anti-rationalist) Jewish orthodoxy, and he was critic
 
 *Tractatus* on Medicine, Quality 9
 
-**Description:** Every physician must have ties to philosophy (prevention is more important than cure, and the physician must be the one with a great moral code, for he must cure not a disease but a person). "The Regimen of Health" speaks of holistic remedies and psychosomatic responses, establishing a relationship between mental and physical health. The book might contain one or more theriac formulas, described on page 293.
+**Description:** Every physician must have ties to philosophy (prevention is more important than cure, and the physician must be the one with a great moral code, for he must cure not a disease but a person). "The Regimen of Health" speaks of holistic remedies and psychosomatic responses, establishing a relationship between mental and physical health. The book might contain one or more theriac formulas, described on [page 293](#page-293).
 
 #### Muḥammad ibn al-ʿArabī
 
@@ -10878,7 +10880,7 @@ The Averroes of the Latins was a philosopher (Aristotelian and Platonic) and a M
 
 Averroes wrote commentaries on Aristotle, but also on Ptolemy, Alexander of Aphrodisias, Nicolaus of Damascus, Galen, Al-Fārābī, Avicenna and Avempace. Thanks to his commentaries on the works of Aristotle, the ideas of the Stagirite philosopher were able to enter Europe.
 
-<!-- p. 324 -->
+<!-- p. 324 --><a id="page-324"></a>
 
 ##### Fasl al-maqa´l
 
@@ -10912,9 +10914,9 @@ Averroes wrote commentaries on Aristotle, but also on Ptolemy, Alexander of Aphr
 
 **Description:** "The Book of the Generalities of Medicine" was conceived as a manual of basic ideas, to serve as an introduction to medicine or to remind those already versed in it of its concepts. The work is divided into seven books: anatomy, physiology, pathology, semiotics, therapeutics, hygiene and medication.
 
-The book might contain one or more theriac formulas, described on page 293.
+The book might contain one or more theriac formulas, described on [page 293](#page-293).
 
-<!-- p. 325 -->
+<!-- p. 325 --><a id="page-325"></a>
 
 # Appendix II: Name Index
 
@@ -11124,7 +11126,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Gadeiras (archipelago) | 118 |
 | Wales | 83, 115, 164, 223 |
 
-<!-- p. 326 -->
+<!-- p. 326 --><a id="page-326"></a>
 
 | Name | Pages |
 | --- | --- |
@@ -11370,7 +11372,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Seville | 14, 19, 21, 22, 23, 26, 32, **34**, 35, 36, 38, 39, 40, 43, 47, 48, 49, 50, 51, 52, 57, 58, 59, 79, 92, 127, 161, 169, 174, 202, 226, 227, 230, **232**, 233, 234, 236, 237, 244, 245, 248, 249, 251, 253, 254, 286, 290, 291, 309, 315, 317, 318, 321, 322, 335 |
 | Sicily | 29, 317 |
 
-<!-- p. 327 -->
+<!-- p. 327 --><a id="page-327"></a>
 
 | Name | Pages |
 | --- | --- |
@@ -11584,7 +11586,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Almanzor (see Al-Manṣūr and Muḥammad ibn Abī ʿAmir) | 20, 21, **31**, 82, 85, 86, 106, 142, 243, 244, 287, 317 |
 | Allhāh | 11 |
 
-<!-- p. 328 -->
+<!-- p. 328 --><a id="page-328"></a>
 
 | Name | Pages |
 | --- | --- |
@@ -11833,7 +11835,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Nicolaus of Damascus | 322 |
 | Nuño Méndez | 39 |
 
-<!-- p. 329 -->
+<!-- p. 329 --><a id="page-329"></a>
 
 | Name | Pages |
 | --- | --- |
@@ -12090,7 +12092,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Diana of Tremere | 223 |
 | Didericus Bjornaer (formerly of Merinita) | 188, 189 |
 
-<!-- p. 330 -->
+<!-- p. 330 --><a id="page-330"></a>
 
 | Name | Pages |
 | --- | --- |
@@ -12312,7 +12314,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Yehudá al-Criamonī | **259** |
 | Yéñego of Flambeau | 182, 183 |
 
-<!-- p. 331 -->
+<!-- p. 331 --><a id="page-331"></a>
 
 | Name | Pages |
 | --- | --- |
@@ -12520,7 +12522,7 @@ Below you will find an index of geographical places (references to al-Andalus ha
 | Ŷezirat Tennyn | 226, **227-230**, 251, 263, 266, 334 |
 | Zaloquia | 187, **220-221** |
 
-<!-- p. 332 -->
+<!-- p. 332 --><a id="page-332"></a>
 
 # Appendix III: The Peripheral Code of Iberia in 1220
 
@@ -12556,7 +12558,7 @@ The Praeco shall be chosen at the close of each Tribunal from among the five eld
 
 Once the business of the Tribunal has been concluded, the presiding Quaesitor must ask the assembly whether it wishes to choose a new Praeco. In the vote, each member of the Tribunal has a single vote (Tremere without their voting sigils may vote, and those who hold their *filii*'s sigils may cast only their own),[^p332-28] and neither the Quaesitores, the Redcaps nor the Praeco may vote. The five candidates must be in full possession of their mental faculties, and may not all come from a single covenant or belong to the same House. Should that be the case, the youngest of them must be replaced by the next-eldest magus of the Tribunal. Furthermore, the five candidates may not excuse themselves from their obligations, and therefore may not decline the office; to do so is classed as a high crime and may therefore lead to the magus's expulsion.
 
-[^p332-28]: Note that this overrides the delegation of votes; see *Houses of Hermes: True Lineages*, page 55.
+[^p332-28]: Note that this overrides the delegation of votes; see *Houses of Hermes: True Lineages*, [page 55](#page-55).
 
 Finally, Quaesitores, archmagi and Primi may never be Praecones.
 
@@ -12590,7 +12592,7 @@ Any reference to or dissemination of the proven-fraudulent "Duresca manuscripts"
 
 Any magus with the Gentle Gift, or any of his agents, may claim a free column of the Great Mosque of Cordoba at which to teach Hermetic or mundane knowledge. The lessons must keep within the bounds of Mālikī doctrine so as not to violate the Code of Hermes. In any event, responsibility rests with the teacher, who must under no circumstances make his connection to the Order of Hermes known, on pain of expulsion. Naturally, lessons must be suspended for the day's prayers, and the teacher must always visit the ablution hall beforehand, in accordance with the precepts of Islamic law. If there are children present, the teacher shall be responsible for looking after them and for making sure they do not soil the mats on which the faithful prostrate themselves. Under no circumstances shall teachers be entitled to receive any payment for their lessons.
 
-<!-- p. 333 -->
+<!-- p. 333 --><a id="page-333"></a>
 
 #### 1018 AD, On the Iberian Chamber
 
@@ -12660,7 +12662,7 @@ The southern boundary of Iberia shall extend southward as far as the limits set 
 
 [^p333-29]: Note that this conflicts with the Tytalus cabal of the Shining Eye, which aims to have the Rhine Tribunal colonize North Africa.
 
-<!-- p. 334 -->
+<!-- p. 334 --><a id="page-334"></a>
 
 # Appendix IV: Covenants and Magae
 
@@ -12817,7 +12819,7 @@ This appendix compiles the inhabited covenants and their magae, in alphabetical 
 - ʿUsfūr-al-Šawk Bjornaer
 - Vitiza of Guernicus
 
-<!-- p. 335 -->
+<!-- p. 335 --><a id="page-335"></a>
 
 #### Duresca
 
@@ -12993,7 +12995,7 @@ This appendix compiles the inhabited covenants and their magae, in alphabetical 
 - Darfílun Bjornaer
 - Manjuza Ex Miscellanea
 
-<!-- p. 336 -->
+<!-- p. 336 --><a id="page-336"></a>
 
 # Appendix V: Index of Illustrations and Maps
 
@@ -13001,9 +13003,9 @@ This appendix compiles the inhabited covenants and their magae, in alphabetical 
 
 | Page | Illustration |
 | --- | --- |
-| *Cover and pages 2 and 3* | The Tribunals of Joy. |
-| *Chapter One* (page 6) | Nazhūn al-Bonisagiyya talking with her apprentice, Saʿīd al-Tulaytulī, and her covenant-mate ʿUsfūr-al-Šawk al-Biŷornī beside the walls of the city of Seville. |
-| *Chapter Two* (page 10) | the imām leading the prayer before the *miḥrāb* of the Great Mosque of Cordoba. |
+| *Cover and [pages 2 and 3](#page-2)* | The Tribunals of Joy. |
+| *Chapter One* ([page 6](#page-6)) | Nazhūn al-Bonisagiyya talking with her apprentice, Saʿīd al-Tulaytulī, and her covenant-mate ʿUsfūr-al-Šawk al-Biŷornī beside the walls of the city of Seville. |
+| *Chapter Two* ([page 10](#page-10)) | the imām leading the prayer before the *miḥrāb* of the Great Mosque of Cordoba. |
 | Page 14 | A group of Jews in a synagogue in Iberia. |
 | Page 23 | Ziryāb. |
 | Page 25 | The day of Zamora. |
@@ -13025,7 +13027,7 @@ This appendix compiles the inhabited covenants and their magae, in alphabetical 
 | Page 84 | The Verditius devices of Cordoba: the griffin, the ewer and the brazier. |
 | Page 93 | The death of the Flambeau on the fields of Calatrava. |
 | Page 95 | The broken covenant of Calebais. |
-| *Chapter Three* (page 96) | the maga Zaida al-Ŷerbitoniyya of Iššáh gazing at the Alcántara gate of the city of Toledo from the far side of the Tagus. |
+| *Chapter Three* ([page 96](#page-96)) | the maga Zaida al-Ŷerbitoniyya of Iššáh gazing at the Alcántara gate of the city of Toledo from the far side of the Tagus. |
 | Page 100 | The summit of the Serra da Lousã. |
 | Page 101 | Ágata (apprentice and future Ex Miscellanea). |
 | Page 108 | Parcus Minor in his laboratory. |
@@ -13056,7 +13058,7 @@ This appendix compiles the inhabited covenants and their magae, in alphabetical 
 | Page 266 | Layla al-Verditiyya. |
 | Page 268 | The covenant of al-Minẓār. |
 | Page 270 | The nasnās. |
-| *Chapter Four* (page 274) | God's creation of the angels, the *jinn* and humankind. |
+| *Chapter Four* ([page 274](#page-274)) | God's creation of the angels, the *jinn* and humankind. |
 | Page 277 | A distaurnanja fighting a wyvern in the Pyrenees. |
 | Page 284 | One of the astral sorcerers of Cordoba casting the conjuration *Destroy Cities and Villages* upon the city of Ávila. |
 | Page 289 | One of the riadiins of the school of Majrīṭ. |
@@ -13084,13 +13086,13 @@ This appendix compiles the inhabited covenants and their magae, in alphabetical 
 | Page 188 | Map of the Crown of Aragon. |
 | Page 227 | Map of al-Andalus. |
 
-<!-- p. 337 -->
+<!-- p. 337 --><a id="page-337"></a>
 
 # Appendix VI: Bibliography
 
 This bibliography includes both essays and books, with the Internet references added at the end. Entries are ordered alphabetically and then by year of publication, ignoring the article *al* and the prefixes *abū* and *ibn* in Arabic names. Years in parentheses with a superscript indicate the first edition of the book in question.
 
-- ABD AL KARIM, G., 1974, *La España musulmana en la obra de Yâqût (siglos xii-xiii) Repertorio enciclopédico de ciudades, castillos y lugares de al-Andalus. Extraído del Muğam Al-Buldān (Diccionario de los países)*. Cuadernos de Historia del Islam, no. 6; pages 14-354.
+- ABD AL KARIM, G., 1974, *La España musulmana en la obra de Yâqût (siglos xii-xiii) Repertorio enciclopédico de ciudades, castillos y lugares de al-Andalus. Extraído del Muğam Al-Buldān (Diccionario de los países)*. Cuadernos de Historia del Islam, no. 6; [pages 14-354](#page-14).
 
 - ʿABD ALLĀH, 2018 (1980ᴵ), *El siglo xi en 1.ª persona. Las «Memorias» de ʿAbd Allāh, último rey Zirí de Granada, destronado por los Almorávides (1090)*. Alianza editorial. Translation and notes by Évariste Leví-Provençal and Emilio García Gómez.
 
@@ -13118,7 +13120,7 @@ This bibliography includes both essays and books, with the Internet references a
 
 - ANONYMOUS, 2017 (2010ᴵ), *Cantar de Mio Cid*. Austral, Espasa Libros. Old text by Ramón Menéndez Pidal. Modern prose rendering by Alfonso Reyes. Foreword by Martín Riquer. Edition and reading guide by Juan Carlos Conde.
 
-- ARIZA ARMADA, A., 2018, «El tesorillo almohade de Moncarapacho (Algarbe, Portugal). Hallazgos de moneda de plata almohade, millareses y circulación monetaria ibérica». *Revista Numismática Hécate*, no. 5, pages 65-101.
+- ARIZA ARMADA, A., 2018, «El tesorillo almohade de Moncarapacho (Algarbe, Portugal). Hallazgos de moneda de plata almohade, millareses y circulación monetaria ibérica». *Revista Numismática Hécate*, no. 5, [pages 65-101](#page-65).
 
 - AVEMPACE (IBN BĀŶŶA), 2006, *Carta del adiós [Risālat al-waddāʿ] y otros tratados filosóficos*. Editorial Trotta. Translation and edition by Joaquín Lomba Fuentes.
 
@@ -13136,23 +13138,23 @@ This bibliography includes both essays and books, with the Internet references a
 
 - BOCCACCIO, G., 2007, *Los quince libros de la genealogía de los dioses paganos*. Centro de Lingüística Aplicada Atenea. Introduction, translation, notes and indexes by M.ª Consuelo Álvarez and Rosa M.ª Iglesias.
 
-- BOULLÓN AGRELO, A.I., 1993, *Galician female names in the Middle Ages (from 13th to 15th)*. Dieter Kremer (ed.) (2000): Onomastik. Akten des 18. Internationalen Kongresses für Namenforschung. Trier, 12.-17. April 1993. Band II. Namensysteme im interkulturellen Vergleich. Tübingen: Niemeyer, pages 122-135.
+- BOULLÓN AGRELO, A.I., 1993, *Galician female names in the Middle Ages (from 13th to 15th)*. Dieter Kremer (ed.) (2000): Onomastik. Akten des 18. Internationalen Kongresses für Namenforschung. Trier, 12.-17. April 1993. Band II. Namensysteme im interkulturellen Vergleich. Tübingen: Niemeyer, [pages 122-135](#page-122).
 
-- BRU CASTRO. M.A., 2013, *La ciudad hispanomusulmana de Vascos, un sistema defensivo complejo y articulado*, Nuevas investigaciones de jóvenes medievalistas, Lorca 2010. V Congreso Internacional de Jóvenes Medievalistas. Murcia, pages 53-68.
+- BRU CASTRO. M.A., 2013, *La ciudad hispanomusulmana de Vascos, un sistema defensivo complejo y articulado*, Nuevas investigaciones de jóvenes medievalistas, Lorca 2010. V Congreso Internacional de Jóvenes Medievalistas. Murcia, [pages 53-68](#page-53).
 
 - BURCKHARDT, T., 2014 (1977ᴵ), *La civilización hispano-árabe*, Alianza Editorial.
 
 - BURESI, P., HICHAM EL AALLAOUI, 2012, *Governing the Empire: Provincial Administration in the Almohad Caliphate (1224-1269).* Critical Edition, Translation, and Study of Manuscript 4752 of the Ḥasaniyya Library in Rabat Containing 77 Taqādīm («Appointments»). Brill, Studies in the History and Society of the Maghrib.
 
-<!-- p. 338 -->
+<!-- p. 338 --><a id="page-338"></a>
 
-- BURNETT, C., 2001, «The Coherence of the Arabic-Latin Translation Program in Toledo in the Twelfth Century». *Science in Context, Cambridge University Press*, no. 14(1/2), pages 249-288.
+- BURNETT, C., 2001, «The Coherence of the Arabic-Latin Translation Program in Toledo in the Twelfth Century». *Science in Context, Cambridge University Press*, no. 14(1/2), [pages 249-288](#page-249).
 
-- CAÑADA JUSTE, A., 1980, «Los Banu Qasī (714-924)». *Príncipe de Viana*, year 41, no. 158-159, pages 5-96.
+- CAÑADA JUSTE, A., 1980, «Los Banu Qasī (714-924)». *Príncipe de Viana*, year 41, no. 158-159, [pages 5-96](#page-5).
 
-- CARO GÓMEZ, J.A., ÁLVAREZ GARCÍA, G., RODRÍGUEZ VIDAL, J., 1999, «Memoria de los trabajos arqueológicos realizados en el abrigo y cueva de los Covachos (Almadén de la Plata), Sevilla». *Anuario arqueológico de Andalucía 1999*, vol. 2, 2002, (Actividades sistemáticas y puntuales), pages 248-258.
+- CARO GÓMEZ, J.A., ÁLVAREZ GARCÍA, G., RODRÍGUEZ VIDAL, J., 1999, «Memoria de los trabajos arqueológicos realizados en el abrigo y cueva de los Covachos (Almadén de la Plata), Sevilla». *Anuario arqueológico de Andalucía 1999*, vol. 2, 2002, (Actividades sistemáticas y puntuales), [pages 248-258](#page-248).
 
-- CASTIÑEIRAS, M., LORES OTZÉT, I., 2008, «Las Biblias de Rodes y Ripoll: una encrucijada del arte románico en Cataluña», in GUARDA, M., MANCHO, C. (eds.) *Les fons de la pintura Romànica*, Universitat de Barcelona, pages 219-261.
+- CASTIÑEIRAS, M., LORES OTZÉT, I., 2008, «Las Biblias de Rodes y Ripoll: una encrucijada del arte románico en Cataluña», in GUARDA, M., MANCHO, C. (eds.) *Les fons de la pintura Romànica*, Universitat de Barcelona, [pages 219-261](#page-219).
 
 - CELESTINO PÉREZ, S., LÓPEZ-RUIZ, C., 2020, *Tarteso y los fenicios de Occidente*. Editorial Almuzara.
 
@@ -13174,7 +13176,7 @@ This bibliography includes both essays and books, with the Internet references a
 
 - DAVIES, J., 2017 (2014ᴵ), *The Welsh Language, a History*. Gwasg Prifysgol Cymru (University of Wales Press).
 
-- DE ANTONIO RUBIO, M.ª G., 2009, «Judíos, conversos e inquisición en Galicia (siglos xi-xvii)». *Cuadernos de estudios gallegos*, no. 56(122), pages 171-189.
+- DE ANTONIO RUBIO, M.ª G., 2009, «Judíos, conversos e inquisición en Galicia (siglos xi-xvii)». *Cuadernos de estudios gallegos*, no. 56(122), [pages 171-189](#page-171).
 
 - DE JUAN GARCÍA, A., FERNÁNDEZ RODRÍGUEZ, M., 2007, *Alarcos, guía del parque arqueológico*. Junta de Comunidades de Castilla-La Mancha.
 
@@ -13196,9 +13198,9 @@ This bibliography includes both essays and books, with the Internet references a
 
 - FERNÁNDEZ DE NAVARRETE, M., 1986, *Españoles en las cruzadas*. Ediciones Polifemo.
 
-- GARCÍA ARÉVALO, T.M., CANO PÉREZ, M.J., 2016, «Documentos de regulación legal judía de la Lucena del siglo xi», *Cuadernos de Historia del Derecho*, no. 23, pages 339-352.
+- GARCÍA ARÉVALO, T.M., CANO PÉREZ, M.J., 2016, «Documentos de regulación legal judía de la Lucena del siglo xi», *Cuadernos de Historia del Derecho*, no. 23, [pages 339-352](#page-339).
 
-- GARCÍA DURÁN, L., 2016, «La intervención de Inocencio III en la política matrimonial de Felipe Augusto de Francia y Alfonso IX de León», *Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III*, no. 3, pages 221-245.
+- GARCÍA DURÁN, L., 2016, «La intervención de Inocencio III en la política matrimonial de Felipe Augusto de Francia y Alfonso IX de León», *Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III*, no. 3, [pages 221-245](#page-221).
 
 - GARCÍA FITZ, F., NOVOA PORTELA, F., 2014, *Cruzados en la reconquista*. Marcial Pons Historia.
 
@@ -13226,7 +13228,7 @@ This bibliography includes both essays and books, with the Internet references a
 
 - AL-IDRISI, MUHAMMAD B. MUHAMMAD AL-SARIF, 1799, *Descripcion de España de Xerif Aledris, conocido por el Nubiense*. Translation and notes by Don Josef Antonio Conde de la Real Biblioteca. Madrid: por D. Pedro Pereyra, en la Imprenta Real.
 
-<!-- p. 339 -->
+<!-- p. 339 --><a id="page-339"></a>
 
 - INTERPRETA CULTURA, 2009, *Caminos del Abad Oliba: Viaje a la Cataluña del año 1000*. Generalitat de Catalunya.
 
@@ -13240,7 +13242,7 @@ This bibliography includes both essays and books, with the Internet references a
 
 - IBN AL-KARDABŪS, 2017 (1993ᴵ), *Historia de al-Andalus (Kitāb al-Iktifāʾ)*. Ediciones Akal. Translation and notes by Felipe Maíllo Salgado.
 
-- KWIATKOWSKA, T., 2007, «The Sadness of the Woods is Bright: Deforestation and Conservation in the Middle Ages», *Medievalia*, no. 39, pages 40-47.
+- KWIATKOWSKA, T., 2007, «The Sadness of the Woods is Bright: Deforestation and Conservation in the Middle Ages», *Medievalia*, no. 39, [pages 40-47](#page-40).
 
 - LACARRA, J.M., 2000 (1975ᴵ), *Historia del reino de Navarra en la edad media*. Caja de Ahorros de Navarra.
 
@@ -13268,7 +13270,7 @@ This bibliography includes both essays and books, with the Internet references a
 
 - MUNTANER, R., 1860, *Crónica catalana*. Edition by Jaime Jepús.
 
-- OULD MOHAMED BABA, A-S., 2012, «Los proverbios árabes clásicos más usados». *Anaquel de Estudios Árabes*, vol. 23, pages 131-144.
+- OULD MOHAMED BABA, A-S., 2012, «Los proverbios árabes clásicos más usados». *Anaquel de Estudios Árabes*, vol. 23, [pages 131-144](#page-131).
 
 - PEDRO ALFONSO, 1980, *Disciplina clericalis*. Guara Editorial. Introduction and notes by María Jesús Lacarra; translation by Esperanza Ducay.
 
@@ -13288,23 +13290,23 @@ This bibliography includes both essays and books, with the Internet references a
 
 - ROS, A., LLAMUSÍ, J.L., SÁNCHEZ, J., 2014, *Cuevas hipogénicas en la Región de Murcia (España)*, Iberoamérica subterránea. I Congreso iberoamericano y V congreso español sobre cuevas turísticas. Editors: José María Calaforra and Juan José Durán, pages 405-416.
 
-- RUIZ DEL CASTILLO Y NAVASCUÉS, J., LÓPEZ LEIVA, C., GARCÍA VIÑAS, J. I., VILLARES MUYO, J. M., TOSTADO RIVERA, P., GARCÍA RODRÍGUEZ, C., 2006, «The Forest Map of Spain 1:200,000. Methodology and analysis of general results», *Investigación agraria. Sistemas y recursos forestales*, no.15, pages 24-39.
+- RUIZ DEL CASTILLO Y NAVASCUÉS, J., LÓPEZ LEIVA, C., GARCÍA VIÑAS, J. I., VILLARES MUYO, J. M., TOSTADO RIVERA, P., GARCÍA RODRÍGUEZ, C., 2006, «The Forest Map of Spain 1:200,000. Methodology and analysis of general results», *Investigación agraria. Sistemas y recursos forestales*, no.15, [pages 24-39](#page-24).
 
 - SAMSÓ, J., 2001, «Sobre el astrólogo Abd al-Wahid b. Istaq al-Dabbi (fl..c.788-c.852)». *Anaquel de Estudios Árabes*. Universidad de Barcelona, pages 657-669.
 
 - SÁNCHEZ FERLOSIO, R., 2008, *Industrias y andanzas de Alfanhuí*. Editorial Crítica. Edition by David Roas.
 
-- SÁNCHEZ-LÓPEZ, G., PLA RABES, S., *et al*., 2016, «Climate reconstruction for the last two millennia in central Iberia: The role of East Atlantic (EA), North Atlantic Oscillation (NAO) and their interplay over the Iberian Peninsula», *Quaternary Science Reviews*, no. 149, pages 135-150.
+- SÁNCHEZ-LÓPEZ, G., PLA RABES, S., *et al*., 2016, «Climate reconstruction for the last two millennia in central Iberia: The role of East Atlantic (EA), North Atlantic Oscillation (NAO) and their interplay over the Iberian Peninsula», *Quaternary Science Reviews*, no. 149, [pages 135-150](#page-135).
 
-- SHIRLEY, M., 2014, «Demography of the Order of Hermes»*, Sub Rosa, The Ars Magica Magazine,* no. 14, pages 24-33.
+- SHIRLEY, M., 2014, «Demography of the Order of Hermes»*, Sub Rosa, The Ars Magica Magazine,* no. 14, [pages 24-33](#page-24).
 
 - SHIRLEY, M., SMITH, A., 2005, *Guardians of the Forests: The Rhine Tribunal*. Atlas Games.
 
 - SIMONET, F.J., 2018, *Historia de los mozárabes en España*. Editorial Almuzara.
 
-- TORMO MARTÍN DE VIDALES, P., 1998, «El Islam y Toledo», *Tulaytula: Revista de la Asociación de Amigos del Toledo Islámico*, no. 1-2, pages 25-31.
+- TORMO MARTÍN DE VIDALES, P., 1998, «El Islam y Toledo», *Tulaytula: Revista de la Asociación de Amigos del Toledo Islámico*, no. 1-2, [pages 25-31](#page-25).
 
-<!-- p. 340 -->
+<!-- p. 340 --><a id="page-340"></a>
 
 - IBN ṬUFAYL, 2003 (1995ᴵ), *El filósofo autodidacto [Risalā Ḥayy ibn Yaqẓān]*. Editorial Trotta. Translation by Ángel González Palencia. Edition by Emilio Tornero.
 
@@ -13352,7 +13354,7 @@ This bibliography includes both essays and books, with the Internet references a
 - *Wikipedia* https://www.wikipedia.org
 - *Wiktionary* https://www.wiktionary.org
 
-<!-- p. 341 -->
+<!-- p. 341 --><a id="page-341"></a>
 
 # About The Iberian Tribunal
 
@@ -13377,4 +13379,4 @@ From the bottom of our hearts, thank you all.
 
 This book is yours.
 
-<!-- p. 342 -->
+<!-- p. 342 --><a id="page-342"></a>

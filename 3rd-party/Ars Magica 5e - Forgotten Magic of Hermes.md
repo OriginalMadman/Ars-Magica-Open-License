@@ -8,9 +8,11 @@
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
 Visit the github for the latest revision of this document and the complete texts of all official Ars Magica Open License books. 
 
-*Forgotten Magic of Hermes* is a fan compilation by Patrick M. Murphy (a Mad Irishman Production), with input from Jackson Eflin and Kyle Stoneman, presenting spells from earlier-edition Ars Magica publications in Definitive Edition terms. While this extracted text is complete and provided completely free under the Open License, we recommend getting the original PDF and the author's other Ars Magica resources from https://www.mad-irishman.com
+*Forgotten Magic of Hermes* is a fan compilation by Patrick M. Murphy (a Mad Irishman Production), with input from Jackson Eflin and Kyle Stoneman, presenting spells from earlier-edition Ars Magica publications in Definitive Edition terms. While this extracted text is complete and provided completely free under the Open License, we recommend getting the original PDF and the author’s other Ars Magica resources from https://www.mad-irishman.com
 
 *[Completion state: Done. Extracted from the v2.0 PDF (October 2026) with a dedicated parser; all 451 spells checked for complete structure (Arts and level, R/D/T, Base, Source), the text compared word for word against the PDF, and the Spells Index rebuilt with links to every spell. As a fan compilation it has no official errata; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others.]*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -100,7 +102,7 @@ This is a fan compilation; there is no official errata.
 
 ---
 
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
 # Animal Spells
 
@@ -202,7 +204,7 @@ Creates a wild elephant of immense strength.
 
 CrAn 40
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
 **R:** Touch, **D:** Sun, **T:** Ind, Animae Magic
 
@@ -275,7 +277,7 @@ The caster gets an image of the target animal’s master, if any. For example, a
 (Base 10, +2 Voice)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 153
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
 ### Heart of the Wild Beasts
 
@@ -350,7 +352,7 @@ MuAn(Me) 50<br>
 
 This spell gives one beast of the land or the air the form of a human being, along with the power of speech and a moderate degree of intelligence (though no education or knowledge of social graces). The general frame and nature of the animal is retained—large, powerfully-built breeds become burly men; birds become light and fragile people, perhaps with a penchant for music. Predators have a violent or at least aggressive disposition; prey animals become timid, often nervous people. The transformation is painful, and the beast is disoriented for a while before it becomes used to its new body. (The same is true upon transformation back to its original form). The creature retains no memories of its animal life when made human, and no vestige of its human memories or intellect when it reverts to its natural form. Although the target may be indistinguishable from a real person when thus transformed (even, possibly, to itself) its true nature is not changed, and it is affected by Animal, not Corpus, magics.
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 This spell was invented by Pietre—an extraordinary apprentice on his way to becoming a brilliant magus despite his youth and incomplete education—before he was expelled from the Order and disappeared. When Pietre cast this spell, the person was invariably formed with a dagger-shaped tattoo upon his forehead. This sigil remained on the beast even after it reverted to its natural form, though it could rarely be seen beneath fur or feathers.
 
@@ -418,7 +420,7 @@ ReAn 5<br>
 
 Dogs will not bark at the target when he approaches or passes by, but they may still take notice of the target normally (or bark at any other thing which attracts their attention). Particularly ferocious or dutiful dogs may still attack the target, though they will not bark. If the Spell Focus is employed, the weasel must be released into the wild without its tail, and the focus only remains useful as long as the weasel lives free. A higher magnitude version of this spell could elicit the silence of all manner of non-magical beasts.
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
 (Base 2, +2 Voice, +1 Diameter)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 154
@@ -495,7 +497,7 @@ ReAn 25<br>
 
 Draws all the edible natural fish within a body of water as far as the caster’s vision extends to his current location. The fish affected feel a compulsion to travel to the spot from wherever they are, but once they arrive are free to leave again. The drawback of the spell is that their natural enemies will also be attracted to the location by the proliferation of food, and will either devour large quantities of the affected fish, or in some cases, attack the caster or other beings in the area. The spell focus must be a whole fish skeleton, otherwise only sickly or wounded fish will answer the call.
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 (Base 2, +1 Touch, +2 Sun, +4 Boundary)<br>
 **Source:** *The Mythic Seas*, page 76
@@ -566,7 +568,7 @@ Re(Cr,Mu)An 40<br>
 
 The target of this spell may be any carcass, cooked or raw, of an animal up to Size +2. The carcass may have been partially dismembered or carved, but at least half of it must still be present and intact. In the round after the spell is cast the carcass sprouts body parts, all similar to its original features. Cooked carcasses sprout cooked limbs, plucked birds are bald, and so on. At the beginning of the next round, the creature rises and attacks any target the caster desires. Its attack ceases when it is destroyed, the caster loses concentration, or the target is slain.
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
 The beast has the same combat scores as when it was alive, except that its Soak is increased by +8 and its Damage by +5. It only has one Body level.
 
@@ -624,7 +626,7 @@ This spell brings tears to a person’s eyes, creating the appearance that a per
 CrAq 5<br>
 **R:** Voice, **D:** Mom, **T:** Ind
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 Creates water in a fire and puts it out if it is no larger than a bonfire. Causes a good deal of steam.
 
@@ -689,7 +691,7 @@ This spell creates a small amount of water around the target and freezes the wat
 (Base 4, +2 Voice, +2 Sun, +1 Rego requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 155
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 ### Ice Slide
 
@@ -767,7 +769,7 @@ Locates one person in the water within the range of the spell, whether the perso
 
 (Base 3, +3 Sight, +1 Concentration, +1 Part, requisite free)
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
 **Source:** *The Mythic Seas*, page 77
 
@@ -843,7 +845,7 @@ MuAq 20<br>
 
 When this spell is cast the caster pours a liquid from one container to another. The spell works as a magical filter, so that chosen aspects of the liquid remain in the original container. By means of this spell the caster can remove a poison, taste, color, smell, or other property known to be in the substance poured. The liquid properties left in the original container are more potent than before (because they are now less diluted), with effects determined by the nature of the property left behind. The liquid caught in the second is also purified or altered as desired.
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 (Base 3, +1 Touch, +2 Sun, +1 Part, +1 for flexibility)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 156
@@ -921,7 +923,7 @@ ReAq Gen<br>
 
 You form a magical ring around yourself. Any elemental of the type specific to the spell and with a Might less than or equal to the level of the spell is unable to enter the circle or harm those within it. The ring lasts as long as you remain in it.
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 (Base effect)<br>
 **Source:** *The Hidden Paths: Shamans*, page 58
@@ -1012,7 +1014,7 @@ ReAq(Ig) 25<br>
 **R:** Voice, **D:** Conc, **T:** Ind<br>
 **Requisite:** Ignem
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 Causes water in a circle ten paces across to boil with extreme heat. Any living thing caught in the area takes +12 damage every round and suffers a –3 modifier and an extra botch check to Swim rolls in the affected area. The area extends five paces downward so creatures caught in the scalding water cannot merely duck underneath to escape the pain. If a spell focus is used, it must be poured into the water where the spell is cast.
 
@@ -1072,7 +1074,7 @@ The origin of the spell is a mystery: until slightly less than a hundred years a
 (Base 10, +1 Touch, +1 Concentration, +3 Structure)<br>
 **Source:** *The Mythic Seas*, page 77
 
-<!-- p. 15 -->
+<!-- p. 15 --><a id="page-15"></a>
 
 ### Summon Spirits of the Water
 
@@ -1158,7 +1160,7 @@ This spell creates a circular wall of whirling winds around the target. Taking a
 
 Attacks through the prison, in either direction, suffer a –6 modifier to the Attack roll, and incur three extra botch dice. If a melee weapon is used, the wielder must make a Strength roll of 6+ to retain his grip on the weapon. If this roll to hold on botches, the weapon may be broken by the winds.
 
-<!-- p. 16 -->
+<!-- p. 16 --><a id="page-16"></a>
 
 (Base 3, +2 Voice, +1 Concentration, +2 unnatural, +1 Rego requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 158
@@ -1235,7 +1237,7 @@ The caster or target can hear anything spoken into a breeze or other air current
 InAu 35<br>
 **R:** Arc, **D:** Conc, **T:** Group
 
-<!-- p. 17 -->
+<!-- p. 17 --><a id="page-17"></a>
 
 This spell tells the caster the present weather conditions of any area to which the caster has an Arcane Connection. The Arcane Connection can be with the place or with a person there.
 
@@ -1317,7 +1319,7 @@ PeAu(An/Co) 10
 
 Takes a creature’s breath out of its lungs, causing panic and the instant loss of a Fatigue level, plus a second level unless a Stamina stress roll of 6+ is made. Casting requisite is Animal for beasts and Corpus for people. This spell cannot affect a target more than once a round.
 
-<!-- p. 18 -->
+<!-- p. 18 --><a id="page-18"></a>
 
 (Base 4, +2 Voice, requisite free)<br>
 **Source:** *Ars Magica Fourth Edition*, page 120
@@ -1411,7 +1413,7 @@ ReAu 30<br>
 
 This spell allows the caster to draw pictures with clouds. This is accomplished by rearranging current clouds rather than by creating new ones, so the amount of sky covered by clouds cannot be altered. This spell is useless if the sky is completely clear or completely overcast. The Spell Focus should be a drawing of the shape that the caster wants the cloud to assume. While concentrating, the caster can actively shape the clouds and hold them in the desired form. Once concentration ceases, the clouds begin to move normally, so images slowly blur and break up. This effect is visible for miles and cannot be hidden.
 
-<!-- p. 19 -->
+<!-- p. 19 --><a id="page-19"></a>
 
 (Base 3, +3 Sight, +1 Concentration, +2 Group, +1 precision)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 142
@@ -1480,7 +1482,7 @@ This ritual creates a small humanoid faerie no larger than Size –2. Since faer
 (Base 15, +1 Touch, +2 Sun, +10 levels for Might)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 142
 
-<!-- p. 20 -->
+<!-- p. 20 --><a id="page-20"></a>
 
 **Level 80**
 
@@ -1557,7 +1559,7 @@ MuCo 5<br>
 
 This spell removes all visible signs of age, making the target appear as young as desired. Only the target’s Size may not be changed. This effect is only superficial, and does not change any of the target’s physical traits. The change can be resisted with a Stamina roll of 6+ when cast on another.
 
-<!-- p. 21 -->
+<!-- p. 21 --><a id="page-21"></a>
 
 (Base 3, +2 Sun)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 158
@@ -1646,7 +1648,7 @@ The target’s weight is increased to that of a rock of similar size. Since the 
 (Base 3, +2 Voice, +1 Diameter, +1 Terram requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 160
 
-<!-- p. 22 -->
+<!-- p. 22 --><a id="page-22"></a>
 
 ### Titanomachy
 
@@ -1656,7 +1658,7 @@ MuCo 15<br>
 Turns you or someone you touch into a giant of a Size +6. Your Strength and Soak scores increase by +6, while your Defense decreases by 6. Opponents of Size +2 to +4 do half the normal levels of damage, and opponents of Size +5 or more do normal amounts of damage.
 
 (Base 4, +1 Concentration, +2 size)<br>
-**Source:** *The Mysteries*, page 144
+**Source:** [*The Mysteries*, page 144](<Ars Magica 5e - The Mysteries (Revised).md>)
 
 ### Beautiful as the Day is Long
 
@@ -1709,7 +1711,7 @@ MuCo(An) 25<br>
 As long as you concentrate, you can turn into any mundane land animal of your choosing ranging from a Size –4 to a Size +3. The transformation is instantaneous and can be performed any number of times. Each time you transform into a different animal, however, you must make a Stamina + Concentration roll of 9+ or the spell ends.
 
 (Base 10, +1 Concentration, +2 multiple changes)<br>
-**Source:** *The Mysteries*, page 144
+**Source:** [*The Mysteries*, page 144](<Ars Magica 5e - The Mysteries (Revised).md>)
 
 ### Curse of the Serpent
 
@@ -1721,7 +1723,7 @@ The target’s right arm is turned into a snake, which proceeds to attack the ta
 
 The snake does not suffer from fatigue, has a +10 Soak, and four Body levels. However, it suffers no penalties from wounds. If the snake is killed, the target has also succeeded in destroying his right arm, and the arm reverts to its normal, albeit mangled, form, and the target finds that he has sustained four Body levels in the process. (The target is considered to have the Missing Hand Flaw until some sort of healing is performed.) If the snake overcomes its host, it becomes an arm again.
 
-<!-- p. 23 -->
+<!-- p. 23 --><a id="page-23"></a>
 
 (Base 10, +1 Touch, +2 Sun, +1 Part, requisites free)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 160
@@ -1786,7 +1788,7 @@ MuCo(An) 40<br>
 
 The target’s skin becomes scaled, like that of a snake. These scales are patterned in different ways, depending on how the spell was researched and on the caster’s sigil. These scales make it impossible for the target to interact on a normal basis with mundanes who can see his skin. The scales grant a +5 Soak.
 
-<!-- p. 24 -->
+<!-- p. 24 --><a id="page-24"></a>
 
 (Base 25, +1 Touch, +2 Sun, requisite free)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 160
@@ -1855,7 +1857,7 @@ In order to cast this spell the user must possess an Arcane Connection to the ta
 (Base 5, +4 Arcane Connection)<br>
 **Source:** *A Midsummer Night’s Dream*, page 54
 
-<!-- p. 25 -->
+<!-- p. 25 --><a id="page-25"></a>
 
 ### Curse of Sterility
 
@@ -1947,7 +1949,7 @@ ReCo 15<br>
 
 The target is incapable of moving until the caster breaks concentration or eye contact is broken in some way. While this spell is in effect, the caster’s pupils become vertical slits, like a snake’s, and he does not blink. The target is allowed an Intelligence natural resistance roll against an ease factor of 6 to avoid being drawn in.
 
-<!-- p. 26 -->
+<!-- p. 26 --><a id="page-26"></a>
 
 (Base 5, +1 Eye, +1 Concentration)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 161
@@ -2029,7 +2031,7 @@ ReCo 25<br>
 
 The target must continue to eat throughout the duration of this spell. If no food is available, the target must seek it out, though if no food is available for more than a few moments, marginally edible substances will suffice (for example, leaves, uncooked meat, candles). In the spirit of the Roman vomitorium, if the victim regurgitates, he must continue to eat thereafter. This spell was the forebear of the more generally applied spell, *Perseverance of the Undaunted Ant* (ReCo 30).
 
-<!-- p. 27 -->
+<!-- p. 27 --><a id="page-27"></a>
 
 (Base 10, +2 Voice, +1 Concentration)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 162
@@ -2065,7 +2067,7 @@ This spell renders the target naturally buoyant and offers him control over air 
 (Base 10, +1 Touch, +2 Sun, +1 Auram requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 158
 
-### Master's Marionette
+### Master’s Marionette
 
 ReCo 35<br>
 **R:** Symbol, **D:** Conc, **T:** Ind, Ritual, Symbolic Magic
@@ -2093,12 +2095,12 @@ ReCo 40<br>
 
 This spell raises ten corpses as undead soldiers. One is chosen as the Champion, and is control of the other “soldiers.” These other nine are fairly weak creations, and cannot be given orders directly. Instead, they follow the will of their Champion, or if it is destroyed, then that of the most powerful Infernal creature within a hundred feet. The lesser skeletons cannot voluntarily move more than one hundred feet from their commander, and if they do so, or if there is no Infernal creature present, they attack the nearest living human. The champion obeys the orders of its creator, unless a creature with an Infernal Might of 20+ issues different commands.
 
-<!-- p. 28 -->
+<!-- p. 28 --><a id="page-28"></a>
 
 (Base 10, +2 Voice, +2 Sun, +2 Group)<br>
 **Source:** *Mistridge*, page 79
 
-### The Reveler's Jig
+### The Reveler’s Jig
 
 Re(In)Co(Im) 40<br>
 **R:** Voice, **D:** Sun, **T:** Ind<br>
@@ -2180,7 +2182,7 @@ CrHe 35<br>
 
 This spell creates an enchanted seed which, when planted, grows into a mature tree appropriate to the seed. The tree starts growing when the spell commences and reaches maturity at the end of the ritual. If the spell is interrupted, the tree stops growing at that point, and will have an intermediate size.
 
-<!-- p. 29 -->
+<!-- p. 29 --><a id="page-29"></a>
 
 (Base 15, +2 Voice, +2 Sun)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 162
@@ -2260,7 +2262,7 @@ Mu(Cr)He 20<br>
 
 A stick, staff, or log is brought back to life, forming a tree of the item’s size. That is, the item bears leaves; sprouts blossoms, fruit or seeds in appropriate seasons; and sheds these in autumn. If the spell is recast when its duration expires, the stick or staff’s existence as a living tree is perpetuated for another month. The tree does not need water or even light to survive. The tree does not grow naturally during its existence, and it lives even if not planted in the ground. If the spell is cast on an individual piece of wood used in a structure, the structure may become unstable or less weatherproof because of the growing leaves and fruit. If the duration is extended with raw vis the staff becomes a real, living tree again. Thus, in order to survive, it must be planted, have sunlight, and so forth.
 
-<!-- p. 30 -->
+<!-- p. 30 --><a id="page-30"></a>
 
 (Base 3, +1 Touch, +3 Moon, +1 Creo requisite)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 144
@@ -2328,7 +2330,7 @@ The caster points at a ship within the spell’s range and makes a stabbing moti
 (Base 4, +3 Sight, +1 Part)<br>
 **Source:** *The Mythic Seas*, page 78
 
-<!-- p. 31 -->
+<!-- p. 31 --><a id="page-31"></a>
 
 ## Rego Herbam
 
@@ -2403,7 +2405,7 @@ ReHe 40<br>
 
 The caster can cause a ship to violently jerk back and forth, damaging the vessel and hurling its crew about. Each exposed crew member must make a Dexterity + Athletics stress roll of 12+ every combat round or be hurled over the side. Even those who succeed suffer +5 damage every round as they are buffeted helplessly. Those below decks are not thrown overboard, but suffer +10 damage each round as they are slammed repeatedly into bulkheads, cargo, chests, and each other.
 
-<!-- p. 32 -->
+<!-- p. 32 --><a id="page-32"></a>
 
 Ostensibly created for use against pirates, this spell is more often used by rogue magi acting as pirates. The spell being so devastating—and magical resistance bypassed by the indirect nature of the attack—many magi who recognize it being used against them immediately surrender to their attackers.
 
@@ -2467,7 +2469,7 @@ When this spell is cast, the target’s body is charged with the power of Ignem.
 (Base 5, +1 Concentration, +1 Rego requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 164
 
-<!-- p. 33 -->
+<!-- p. 33 --><a id="page-33"></a>
 
 ### Warmth of the Hearth
 
@@ -2550,10 +2552,10 @@ CrIg 40<br>
 
 Invented by Roxanne of Flambeau’s mater Cara, this spell attacks the target with a ray of pure lumen hot enough to melt metal. If cast at night or in the dark the spell’s lumen partially dissipates into the air, causing bright flashes of light. Anyone within 10 paces of the caster or target must make a stress + Stamina roll of 3+ or be blinded for a round. In darkness, the *Pilum* does only +15 damage. During full daylight or its equivalent, however, the *Pilum* is completely invisible against the background lumen, and does +30 damage.
 
-<!-- p. 34 -->
+<!-- p. 34 --><a id="page-34"></a>
 
 (Base 25, +2 Voice, +1 additional effect)<br>
-**Source:** *The Mysteries*, page 81
+**Source:** [*The Mysteries*, page 81](<Ars Magica 5e - The Mysteries (Revised).md>)
 
 ### Lance of Solar Fury
 
@@ -2636,7 +2638,7 @@ Mu(Re)Ig 30<br>
 
 The targeted fire is projected onto some flat surface and becomes a painting. As a painting, however, it still burns its fuel (which remains wherever the fire was to begin with), the flames still dance, and it still gives off light and heat. However, the fire cannot burn anything real, including whatever it is painted on. The fire burns its fuel at a normal rate, and goes out once all its fuel is consumed, leaving a pile of ashes. Suitable Creo Ignem or Creo Herbam spells can renew the fire.
 
-<!-- p. 35 -->
+<!-- p. 35 --><a id="page-35"></a>
 
 (Base 4, +2 Voice, +3 Fire, +1 Rego requisite)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 145
@@ -2732,7 +2734,7 @@ ReIg 25<br>
 
 You can control a fire elemental if you can penetrate its Magic Resistance. A botch may mean the elemental attacks you to the best of its ability. If you try to bind an elemental again when its first binding wears off, you risk one extra botch roll for every day the elemental has been in your service.
 
-<!-- p. 36 -->
+<!-- p. 36 --><a id="page-36"></a>
 
 (Base 5, +2 Voice, +2 Sun)<br>
 **Source:** *The Hidden Paths: Shamans*, page 57
@@ -2807,7 +2809,7 @@ The sounds of lightly whispering chimes rings around the caster.
 (Base 1, +1 Concentration)<br>
 **Source:** *Ars Magica First Edition*, page 77
 
-<!-- p. 37 -->
+<!-- p. 37 --><a id="page-37"></a>
 
 ### Elaboration of the Conspicuous Sigil
 
@@ -2895,7 +2897,7 @@ Cr(In)Im 10<br>
 
 This spell is cast upon a specific place. While the spell is in effect, whenever any person but the caster comes within five paces of the spot, a loud, ghostly wail emanates from it. Anyone within earshot must make a Brave roll of 6+ or flee the area. Those who flee will only reluctantly return. Even those who make their rolls are uneasy about approaching further. Those who botch the trait roll keep running, making Fatigue rolls each round, until Unconscious or restrained.
 
-<!-- p. 38 -->
+<!-- p. 38 --><a id="page-38"></a>
 
 If this spell is cast within five paces of someone, the wail sounds immediately, but it is triggered again only when someone else approaches within five paces. The spell does not affect the caster, but can affect grogs and servants.
 
@@ -2953,7 +2955,7 @@ The caster takes command of his or her shadow and may animate it. For the durati
 
 The caster sees through his or her shadow’s “eyes,” and controls the actions of the shadow from up to one mile away. Composed of darkness alone, the shadow is insubstantial and may move in any area that has shadows, even faint ones. Not even magical wards can keep the thief out, as long as there are shadows to enter beyond those wards. Bright light is the only barrier that inhibits the shadow’s movement. The shadow cannot pass areas that are brightly lit or devoid of shadow.
 
-<!-- p. 39 -->
+<!-- p. 39 --><a id="page-39"></a>
 
 Although made of shadow, the thief can still be seen. In areas of moderate light, a successful Perception test is needed, rolled against a value of 12. In areas of darkness, the thief is effectively invisible.
 
@@ -3013,7 +3015,7 @@ This spell creates the image of a fully equipped army, including horses and all 
 
 InIm 5
 
-<!-- p. 40 -->
+<!-- p. 40 --><a id="page-40"></a>
 
 **R:** Sight, **D:** Conc, **T:** Ind
 
@@ -3090,7 +3092,7 @@ In(Mu)Im 30<br>
 
 With this ritual the caster creates a painting of a person, animal, or object that always shows the subject’s current surroundings. An Arcane Connection to the subject is required to cast this spell.
 
-<!-- p. 41 -->
+<!-- p. 41 --><a id="page-41"></a>
 
 The painting is created by the caster as part of the ritual. The painting need not be of high quality, but any Craft score the caster has in painting or drawing may be added to the spell casting roll.
 
@@ -3162,7 +3164,7 @@ MuIm 5<br>
 
 This spell can be cast on any musical instrument, and modifies the sounds from the target instrument so that it sounds like a different instrument. For example, a trumpet can sound like a harp, or a drum like a cymbal.
 
-<!-- p. 42 -->
+<!-- p. 42 --><a id="page-42"></a>
 
 (Base 1, +2 Voice, +2 Sun)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 167
@@ -3237,7 +3239,7 @@ MuIm(Au) 30<br>
 
 The spell allows the casting magus to alter the sounds created by falling rain, turning the shower into a piece of music. The magus must have some musical ability, and one’s level of proficiency is reflected in the final result (a score of 1 will allow only simple tunes, while a score of 7 will allow the creation of much more impressive pieces; die rolls with this score as a modifier are usually not appropriate, as the magus will usually have the time and means to correct any flaws in his work). A magus working with an actual score will increase both the speed in which he finishes the piece and his chances of creating a pleasing performance. After the magus has decided on the piece he wants to perform, he concentrates on altering the sounds created by the rain. He has the full spectrum of musical notes to choose from, and can alter tempos and volumes as well. The wizard will usually begin by creating the melody (this takes about 15 minutes of concentration for a melody of moderate complexity), and once this is finished, a clever magus can incorporate extra melodies, harmonies, and whatever else he deems pleasing by continuing his concentration. Once a given note has been “set” by the magus, it will continue to repeat itself at its designated place in the musical score. Therefore, it is not necessary to maintain concentration on a particular portion of the piece once it has been “set” to the caster’s satisfaction. The musical score created will last for the duration of the rain shower, repeating itself indefinitely unless it is altered by the casting magus. If the casting magus decides to break concentration, he can resume where he left off (or create a different song) with no penalty by simply resuming concentration. It should also be noted that not all of the raindrops have their sounds altered; those that do not hit ground (or leaf, or whatever) at an appropriate part of the song (on the half-beat, or whatever) are not integrated into the spell and therefore they create the same noises they normally would. Some magi prefer this natural background noise to their songs, while others like their music clear, crisp, and “unblemished.” The latter group must have a Perdo requisite to silence the sounds created by “unused” raindrops. It has been reported that actually being hit by a musical raindrop is a neat experience; however, it is not advised that one turn one’s ear skyward while within such rain (the triple fortes can be unforgiving if they hit an eardrum).
 
-<!-- p. 43 -->
+<!-- p. 43 --><a id="page-43"></a>
 
 (Base 1, +1 Touch, +2 Sun, +4 Boundary, +2 changes at command, requisite free)<br>
 **Source:** *Broken Covenant of Calebais Second Edition*, page 63
@@ -3291,7 +3293,7 @@ The target of this spell no longer casts a reflection in anything. The original 
 
 ReIm 15
 
-<!-- p. 44 -->
+<!-- p. 44 --><a id="page-44"></a>
 
 **R:** Per, **D:** Conc, **T:** Part
 
@@ -3368,7 +3370,7 @@ CrMe 15<br>
 
 This spell inspires utter fear in the target of a specific object, person, or place. On a failed Brave Personality Trait roll (against an ease factor of 9), the target can do nothing but flee in terror until out of sight of the feared thing. While fleeing, the target does almost anything to get away. Use Personality Traits to guide the specific actions taken by the target. If prevented from fleeing, the victim may cower in terror, curl up in a ball, or, if inherently violent, may turn and fight in a frenzy. Once the spell has expired, the target can again face the object of his fears, but without the fear. If the Brave roll botched, the target refuses to go near the thing for at least a month.
 
-<!-- p. 45 -->
+<!-- p. 45 --><a id="page-45"></a>
 
 (Base 4, +2 Voice, +1 Diameter)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 168
@@ -3424,7 +3426,7 @@ Cr(In)Me 40<br>
 
 This spell enchants an area so that all people visiting it imagine their greatest fears are present in the area, just outside their perception. Every snapping twig becomes the tread of a fearsome beast, but the beast is not actually heard. Every fleeting shadow becomes a deadly assailant, but he is never seen. Brave Personality Trait rolls, made against an ease factor of 9, are required of people attempting to enter or remain in the area. Rolls should be modified by the relative fear that the object strikes in the heart, and modified if the person knows that the area is being affected by a spell. If a Brave roll fails, the victim runs from the area and can only stop once the area is beyond sight. If a Brave roll botches, the victim runs in a panic, making Fatigue rolls each round; the victim continues running until Unconscious or physically restrained.
 
-<!-- p. 46 -->
+<!-- p. 46 --><a id="page-46"></a>
 
 (Base 4, +1 Touch, +3 Moon, +3 Structure, +1 Intellego requisite)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 168
@@ -3509,7 +3511,7 @@ InMe 25<br>
 
 The caster can sense fear in any human within smelling distance with this spell. The sense manifests as the smell of perspiration, but does not suggest why a person is afraid, how strong the fear is, or even—if many people are present—who specifically is afraid. The spell can be confounded if the caster is around people who are perspiring naturally.
 
-<!-- p. 47 -->
+<!-- p. 47 --><a id="page-47"></a>
 
 (Base 5, +2 Sun, +2 Smell)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 169
@@ -3576,7 +3578,7 @@ This spell allows a person to watch the dying soul or mind of a person or animal
 
 As well as allowing Felix Necromius of House Bonisagus (of Mistridge Covenant) to determine the probable destination of a person’s soul, he claims this spell is invaluable to his research. He certainly enjoys using this spell. As Felix invented the spell, the smell of rotting flesh lingers around any place where it is cast, and remains for several hours.
 
-<!-- p. 48 -->
+<!-- p. 48 --><a id="page-48"></a>
 
 (Base 25, +2 Voice, +1 Concentration, requisites free)<br>
 **Source:** *Mistridge*, page 102
@@ -3640,7 +3642,7 @@ This is a more subtle version of Contagious Laughter of the Faerie Festival. The
 (Base 3, +2 Voice, +2 Sun)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 149
 
-<!-- p. 49 -->
+<!-- p. 49 --><a id="page-49"></a>
 
 ### The New Liking
 
@@ -3719,7 +3721,7 @@ MuMe 30<br>
 
 Every one of the target’s Abilities changes in a random manner. To determine what effect the change has, two dice should be rolled. The first roll determines if the skill increases (on 1-5) or decreases (on 6-10). The second roll determines how much it changes. On a 1-5 the level changes by one, on a 6-8 it changes by two, and on a 9-10 it changes by three. When cast upon a magus, these changes may extend to the magical Arts as well. A Vim Requisite is required if scores in Magical Arts are to be changed.
 
-<!-- p. 50 -->
+<!-- p. 50 --><a id="page-50"></a>
 
 (Base 10, +2 Voice, +2 Sun)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 149
@@ -3794,7 +3796,7 @@ Mu(In)Me 40<br>
 
 The target of this spell gazes into a fire and sees the flames resolve into clear pictures. The caster has no control over what pictures are seen. They are drawn from the memory and subconscious of the target, the history of the fire’s fuel, and events that are happening or that might happen to the viewer. The storyguide should describe images seen, leaving the magus to discern their meaning.
 
-<!-- p. 51 -->
+<!-- p. 51 --><a id="page-51"></a>
 
 (Base 30, +1 Touch, +1 Concentration, requisite free)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 145
@@ -3870,7 +3872,7 @@ PeMe 30<br>
 
 A ritual variant of *Enchantment of Detachment*, that permits the calming of an individual to whom the caster has an Arcane Connection, no matter where the target might be.
 
-<!-- p. 52 -->
+<!-- p. 52 --><a id="page-52"></a>
 
 (Base 4, +4 Arcane Connection, +2 Sun)<br>
 **Source:** *The Bishop’s Staff*, page 36
@@ -3945,7 +3947,7 @@ ReMe 20<br>
 
 The target of this spell does one thing specified by the caster. The action must be such that, if the target were drunk, he might do it of his own accord. A guard, for example, would probably not kill a companion, but might decide to kiss him. The action must be one that can be accomplished fairly quickly, such as singing a drinking song or doing a handstand. Sometimes, if the caster knows a target’s emotions, he might elicit a violent or other strong response.
 
-<!-- p. 53 -->
+<!-- p. 53 --><a id="page-53"></a>
 
 (Base 15, +1 Eye)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 150
@@ -4007,7 +4009,7 @@ ReMe 30<br>
 
 This spell enchants some medium such as wine, meat, or candles. Those who then share the medium (for example, drink the wine, breathe the smoke from the candles) are then affected by the spell. They become slow to anger and willing to listen to those whose opinions differ. Add or subtract up to 3 points from rolls regarding agreeable communication, anger, intimidation, and so on, always adjusting a roll so that peaceful interaction is more likely. Strong prejudices or convictions, extenuating circumstances, or powerful motivations will cancel the effects of this spell on the individuals who have them. One casting of the spell enchants enough substance to affect six people. Reduce the effect if more than six people are affected, or if not all the substance is used. Never increase the effect, even if fewer than six people share the communion.
 
-<!-- p. 54 -->
+<!-- p. 54 --><a id="page-54"></a>
 
 Jerbiton magi often use this spell to facilitate dialogues between hostile people or just to make parties more pleasant.
 
@@ -4066,7 +4068,7 @@ As *The Necroreme* (ReMe[He] 45), but summons a ghostly crew to man the sails of
 
 (Base 15, +4 Arcane Connection, +2 Sun, +2 Group, +1 size, +1 complexity, requisite free)
 
-<!-- p. 55 -->
+<!-- p. 55 --><a id="page-55"></a>
 
 **Source:** *The Mythic Seas*, page 80
 
@@ -4164,7 +4166,7 @@ CrTe 25<br>
 
 The caster of this spell puts his hand in some place that cannot be seen by anyone, such as up his sleeve, and produces any simple object of non-noble material, such as iron, wood, or stone. A simple object is one that a skilled craftsman could create in a day’s work. Objects may not be larger than Size –2, and casting requisites are required if the tool has wooden or animal-based parts. If the object is intended to be a copy of another, only those who are familiar with the original can tell the difference.
 
-<!-- p. 56 -->
+<!-- p. 56 --><a id="page-56"></a>
 
 (Base 5, +1 Touch, +2 Sun, +1 flexibility)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 171
@@ -4226,7 +4228,7 @@ This highly complicated Ritual is designed to restore the balance of the forces 
 
 If another spell has existed someplace so long that it has become part of the nature of the area—a *Shrouded Glen* spell left in the middle of a Faerie forest for decades, for example—it can be affected by this spell. If a source of Infernal taint is present in the land, this spell will not affect it. The area the source creates may be diminished, but probably returns to its former state with time. If the source of taint is removed, however, *Healing the Land* hastens the retreat of any remaining Infernal power. Regiones that have had their foci (if they have any) removed or destroyed collapse or vanish sooner rather than later as a result of this spell.
 
-<!-- p. 57 -->
+<!-- p. 57 --><a id="page-57"></a>
 
 *Healing the Land* does not work instantly, but its effects qualify as Momentary rather than permanent. Areas that have already suffered— a region where a Flambeau has cast *Treading the Ashen Path*, for instance—begin to sprout new growth shortly after this spell is cast. Peasants suffering from a plague are not healed instantly, but fevers may break shortly after the spell is cast and the plague dies away to nothing. Clouds arriving to break a drought do so in a completely natural fashion, and do not rain in such quantities as to cause flash flooding.
 
@@ -4289,7 +4291,7 @@ InTe 20<br>
 
 The caster places her ear against a wall, and can listen in on any conversation taking place within five paces of any other part of that same wall.
 
-<!-- p. 58 -->
+<!-- p. 58 --><a id="page-58"></a>
 
 (Base 2, +2 Sun, +3 Hearing, +1 hear through intervening material)<br>
 **Source:** *Mistridge*, page 106
@@ -4365,7 +4367,7 @@ MuTe 15<br>
 
 This spell immediately removes all discoloration from a metal item, leaving it gleaming. It does so by changing the surface, not by removing it, so repeated applications do not wear the item away or obscure patterns on the surface. Despite the title of the spell, it works on all metals. If the metal is enameled or painted, the spell still works, but its effects are covered.
 
-<!-- p. 59 -->
+<!-- p. 59 --><a id="page-59"></a>
 
 If this spell is used on enchanted items, those items receive a magic resistance roll based on the level of the item’s greatest power.
 
@@ -4443,7 +4445,7 @@ MuTe(Aq) 30<br>
 
 This spell moistens soft earth so that it becomes as a swamp, over the entire area of effect of 1000 cubic spaces. Anyone standing in the area when the spell is cast must make a natural resistance roll using Quickness + Awareness – Encumbrance. A roll of 12+ means that the person can find a patch of solid ground; a roll of 6+ means that the person has gotten bogged down suffers a –1 Quickness penalty until freed. Those rolling less than 6 are mired in the swamp, suffering a –3 penalty to all subsequent Quickness and balance rolls. Botched resistance rolls mean that the person goes under and starts drowning (consult the Deprivation table for resolution). Others can help pull the victim up. Travel speeds in the swamp are reduced to three paces per round.
 
-<!-- p. 60 -->
+<!-- p. 60 --><a id="page-60"></a>
 
 (Base 3, +3 Sight, +2 Sun, +2 size, requisite free)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 172
@@ -4510,7 +4512,7 @@ PeTe 10<br>
 
 This spell can be cast on any vessel which holds liquid, up to the size of a barrel. The vessel then holds liquid only as long as it remains stationary. As soon as it is moved in any way it begins to leak. This version of the spell only works on earthenware or metal vessels. Similar versions exist for vessels made of animal products (Perdo Animal) or wood (Perdo Herbam).
 
-<!-- p. 61 -->
+<!-- p. 61 --><a id="page-61"></a>
 
 (Base 3, +1 Touch, +2 affect metal)<br>
 **Source:** *Wizard’s Grimoire Revised Edition*, page 172
@@ -4532,7 +4534,7 @@ This spell breaks the most vital buckle on the target’s person. The caster nee
 ReTe Gen<br>
 **R:** Per, **D:** Conc, **T:** Ind
 
-This enchantment effect enables an automaton to fly. *Daedalean Flight* is a well known enchantment effect for automata, with several variations contained in many tab texts. The base level of effect is 30 + (Size × 3). If the automaton can, not carry anything while flying, divide the base level of effect by 2. An automaton must be constructed with wings or the power of sympathetic magic is insufficient for flight. Unless *Daedalean Flight* is enchanted with the +5 Concentration effect (**ArM5** page 99/**ArMD** page 257), the automaton cannot use any other enchantment while flying.
+This enchantment effect enables an automaton to fly. *Daedalean Flight* is a well known enchantment effect for automata, with several variations contained in many tab texts. The base level of effect is 30 + (Size × 3). If the automaton can, not carry anything while flying, divide the base level of effect by 2. An automaton must be constructed with wings or the power of sympathetic magic is insufficient for flight. Unless *Daedalean Flight* is enchanted with the +5 Concentration effect ([**ArM5** page 99](<Ars Magica 5e - Core Rules.md#concentration>) / [Definitive Edition, page 162](<Ars Magica - Definitive Edition (Core Rules).md#concentration>)/**ArMD** page 257), the automaton cannot use any other enchantment while flying.
 
 The speed of the automaton’s flight is estimated by subtracting Size from Quickness: **Qik – Size**
 
@@ -4549,7 +4551,7 @@ Speed of a hawk 7 or more
 Speed of a dragon
 
 (Base 4, +1 Concentration)<br>
-**Source:** *The Mysteries*, page 50
+**Source:** [*The Mysteries*, page 50](<Ars Magica 5e - The Mysteries (Revised).md>)
 
 ### Ward Against Spirits of the Earth
 
@@ -4599,7 +4601,7 @@ Re(Mu)Te 20<br>
 
 The caster may move a statue by concentrating on it. The statue moves like a living being, but has no independent mind, and stops moving as soon as the caster ceases concentrating. The movement does not damage the stone of the statue, and it holds whatever position it was left in when the spell ceases. Since this spell may be used for surrogate combat, assume that a man-sized statue has a Soak of +15 and 10 Body levels, none of which cause penalties when lost. The statue attacks as if it were the caster, although with a –5 to Attack rolls and +15 Damage. The spell is not limited to humanoid statues; it can also animate statues of animals.
 
-<!-- p. 62 -->
+<!-- p. 62 --><a id="page-62"></a>
 
 (Base 3, +1 Touch, +1 Concentration, +1 complexity, +1 affect stone, +1 Muto requisite)<br>
 **Source:** *The Wizard’s Grimoire Revised Edition*, page 151
@@ -4670,7 +4672,7 @@ You can summon any earth elemental to which you have an Arcane Connection. You m
 
 (Base 15, +4 Arcane Connection)
 
-<!-- p. 63 -->
+<!-- p. 63 --><a id="page-63"></a>
 
 **Source:** *The Hidden Paths: Shamans*, page 58
 
@@ -4732,7 +4734,7 @@ If a member of the Order of Hermes skilled in Vim could put his hands on this sp
 InVi 2<br>
 **R:** Touch, **D:** Mom, **T:** Ind
 
-<!-- p. 64 -->
+<!-- p. 64 --><a id="page-64"></a>
 
 Allows the caster to determine if he is currently within an area with a Magical, Faerie, Infernal or Divine Aura. A separate version of this spell is required for each type.
 
@@ -4808,7 +4810,7 @@ InVi 10<br>
 
 You can tell whether an object is magical by concentrating on it. After a short time the object seems to vibrate softly if it is magical.
 
-<!-- p. 65 -->
+<!-- p. 65 --><a id="page-65"></a>
 
 (Base 5, +1 Touch)<br>
 **Source:** *Ars Magica Third Edition*, page 231
@@ -4893,7 +4895,7 @@ This spell can be cast on any living creature. If it has any magical ability, th
 
 InVi 30
 
-<!-- p. 66 -->
+<!-- p. 66 --><a id="page-66"></a>
 
 **R:** Arc, **D:** Conc, **T:** Ind
 
@@ -4952,7 +4954,7 @@ This spell is designed to undo faerie spells, powers, and curses affecting anima
 
 MuVi Gen
 
-<!-- p. 67 -->
+<!-- p. 67 --><a id="page-67"></a>
 
 **R:** Voice, **D:** Mom, **T:** Ind
 
@@ -5022,7 +5024,7 @@ This spell strips away hostile Hermetic Corpus magic affecting the target. Any s
 Pe(In)Vi Gen<br>
 **R:** Voice, **D:** Conc, **T:** Ind
 
-<!-- p. 68 -->
+<!-- p. 68 --><a id="page-68"></a>
 
 **Requisite:** Intellego
 
@@ -5090,7 +5092,7 @@ PeVi 40<br>
 
 Intoning this spell brings a blade of pale fire into existence in the caster’s hands. It exists only as long as there are physically manifested demons in the immediate area of the wielder (*i.e.,* within his sight), and it only harms the denizens of Hell. Against such foes, the blade has the following statistics: Initiative +7, Attack Bonus +6, Weapon Damage +22, Defense Bonus n/a, Strength n/a, Load 0, and Space 2. Finesse is used in place of any Weapon Skill to determine combat totals. The blade requires both hands, so spells cast while the sword is manifest are affected by the No Gestures penalty, if applicable.
 
-<!-- p. 69 -->
+<!-- p. 69 --><a id="page-69"></a>
 
 The magus Urich Vaughn of House Tytalus created this spell. It is said that he dabbled in the black arts, but escaped corruption and delivered retribution on his would-be despoilers. Some say he still battles the forces of Hell, and will help magi of like mind in the defeat of the demonic hordes, lending potent magic and considerable knowledge to the cause. Be warned, though, that some interpret the Code to prohibit attacks against demons, considering even those relations with Hell of one form or another.
 
@@ -5153,12 +5155,12 @@ The caster may magically move the boundary of a regio. Regiones have boundaries 
 
 Re(Pe)Vi(Co) 30
 
-<!-- p. 70 -->
+<!-- p. 70 --><a id="page-70"></a>
 
 **R:** Per, **D:** Sun, **T:** Ind<br>
 **Requisites:** Perdo, Corpus
 
-This spell allows you to draw raw vis directly from your own body, one pawn per magnitude of the spell. The only kinds of vis that may be conjured are Vim, Corpus, Imaginem, Mentem, Aquam, Auram and Ignem—all parts or aspects of a magus’ body. For every pawn extracted, you age one year and have to roll on the Aging chart (**ArM5** page 170/ **ArMD** page 391), with a –1 modifier for every pawn extracted at the time. Aging rolls are made even if your natural age is less than 35. Remember, your longevity potion ceases to function after your first failed Aging roll. Thus, the more pawns you draw from yourself, the greater the chance of doing yourself harm.
+This spell allows you to draw raw vis directly from your own body, one pawn per magnitude of the spell. The only kinds of vis that may be conjured are Vim, Corpus, Imaginem, Mentem, Aquam, Auram and Ignem—all parts or aspects of a magus’ body. For every pawn extracted, you age one year and have to roll on the Aging chart ([**ArM5** page 170](<Ars Magica 5e - Core Rules.md#aging-rolls>) / [Definitive Edition, page 551](<Ars Magica - Definitive Edition (Core Rules).md#aging-rolls>)/ **ArMD** page 391), with a –1 modifier for every pawn extracted at the time. Aging rolls are made even if your natural age is less than 35. Remember, your longevity potion ceases to function after your first failed Aging roll. Thus, the more pawns you draw from yourself, the greater the chance of doing yourself harm.
 
 Additional Casting Requisites: appropriate Form for the vis.
 
@@ -5186,7 +5188,7 @@ This spell creates a permanent point of entry from the mundane world to a corres
 
 The spell must be anchored to two objects which have some resemblance, however remote, to a door or gateway (such as a space between two sets of stately trees, between a pair of rock columns, or between a set of ever-burning, magical braziers). The “gates” must also exist on both the mundane and destination levels of the regio. Furthermore, the caster must invest six pawns of vis (in addition to the cost of the ritual), three pawns into each gateway, when establishing the gates. This vis must be of a kind appropriate to the gateways (for example, Herbam if the gates consist of trees).
 
-<!-- p. 71 -->
+<!-- p. 71 --><a id="page-71"></a>
 
 If either of the gateways for the spell is destroyed the tunnel between levels is dispelled. If either gate is destroyed, or the tunnel is dispelled, all vis invested in the gates is lost. Inhabitants of regiones do not usually appreciate dangers to their home, nor disturbances of their peace. They may therefore take an active role in destroying a gate or tormenting its creators. If a person is in the tunnel while a gate is destroyed, there is no telling what might happen to that person. He might be deposited in the regio level that still has a gate intact, or might be deposited elsewhere in the regio.
 
