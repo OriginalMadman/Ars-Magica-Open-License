@@ -54,7 +54,7 @@ https://www.atlas-games.com/arsmagica/openars
 <br/>
 <br/>
 
-**Support Atlas Games:** Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
+**Please Support Atlas Games:** Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher - after all they gave the community the great gift of Open License: https://www.atlas-games.com/arsmagica
 <br/>
 <br/>
 
