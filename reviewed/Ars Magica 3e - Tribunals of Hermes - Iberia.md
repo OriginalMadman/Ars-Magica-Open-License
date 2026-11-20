@@ -1,16 +1,21 @@
+<!-- p. 1 --><a id="page-1"></a>
+
 # Tribunals of Hermes: Iberia
 A guide to the war-torn lands of Spain, for Ars Magica 3rd Edition
 
-### Forsaken Land
+<!-- back cover -->
 
-Trapped between harsh mountains and turbulent seas, the Hermetic Tribunal of Iberia is fated, nay, condemned, to isolation. Here, on the Spanish peninsula, the Order of Hermes has established itself amongst a resolute people who struggle against their imprisonment and against savage invaders who seek to conquer what little they have. Even Iberia's Magi contribute to her wars, fighting amongst themselves for magic, territory, and revenge. Here, in this bleak, war-torn land, you may find your destiny or your doom.
+<!-- transcribed from the 130-page scan of the print edition (ww0750), which the digital edition does not include -->
 
-### Forsaken Hope
+## Forsaken Land
 
-The Tribunals of Hermes: Iberia™ is the first in a series of Ars Magica Third Edition™ setting supplements. This book provides extensive background into both the mundane and magical realms of Mythic Europe's Spanish peninsula. Not only do you get everything you need to tell stories here, but you may choose from several fully developed Covenants, or may create your own home on this desperate, forlorn coast.
+Trapped between harsh mountains and turbulent seas, the Hermetic Tribunal of Iberia is fated, nay, condemned, to isolation. Here, on the Spanish peninsula, the Order of Hermes has established itself amongst a resolute people who struggle against their imprisonment and against savage invaders who seek to conquer what little they have. Even Iberia’s Magi contribute to her wars, fighting amongst themselves for magic, territory, and revenge. Here, in this bleak, war-torn land, you may find your destiny or your doom.
 
-ISBN 1-56504-045-7<br>
-WW 0750 $12.00
+## Forsaken Hope
+
+The Tribunals of Hermes: Iberia™ is the first in a series of Ars Magica Third Edition™ setting supplements. This book provides extensive background into both the mundane and magical realms of Mythic Europe’s Spanish peninsula. Not only do you get everything you need to tell stories here, but you may choose from several fully developed Covenants, or may create your own home on this desperate, forlorn coast.
+
+<!-- markdown specifics -->
 
 ## Markdown Version Specifics
 
@@ -22,6 +27,8 @@ While this extracted text is complete and provided completely free under the Ope
 *[Completion state: Done. The original digital edition is a scanned book with an unreliable OCR text layer, so every page was transcribed from the page images, with a second scan consulted for unclear passages (the back cover is taken from that scan). Completeness was cross-checked paragraph by paragraph against an earlier community transcription. Stat blocks and spells keep their third-edition fields and values, laid out in Definitive Edition markdown style. No official errata are available online for third edition; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and map keys are not included.]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -45,10 +52,11 @@ No official errata for this Third Edition book are available from Atlas Games ([
 | 79 | Pol is is | Pol is |
 | 116 | kick ups | kicks up |
 
+### Other Notes
 
-<!-- p. 1 -->
+The back cover text was transcribed from the 130-page scan of the print edition; the digital edition used for the rest of the book does not include it.
 
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
 ## Credits
 
@@ -128,25 +136,17 @@ I’d like to thank all of the people who helped make this publication possible.
 - The Minneapolis Public Libraries.
 - The subscribers to *Redcap*.
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 ## Contents
 
-- [Tribunals of Hermes: Iberia](#tribunals-of-hermes-iberia)
-    - [Forsaken Land](#forsaken-land)
-    - [Forsaken Hope](#forsaken-hope)
-  - [Markdown Version Specifics](#markdown-version-specifics)
-  - [Issues from Original](#issues-from-original)
-    - [Official Errata](#official-errata)
-    - [Misspellings Corrected](#misspellings-corrected)
   - [Credits](#credits)
   - [Special Thanks](#special-thanks)
   - [Acknowledgements](#acknowledgements)
-  - [Contents](#contents)
 - [Chapter One: Introduction](#chapter-one-introduction)
   - [Overview](#overview)
   - [Theme and Nature](#theme-and-nature)
@@ -157,131 +157,40 @@ I’d like to thank all of the people who helped make this publication possible.
   - [Roman Domination](#roman-domination)
   - [Coming of Christianity](#coming-of-christianity)
   - [Visigothic Kings](#visigothic-kings)
-    - [Visigothic Rule](#visigothic-rule)
-    - [Intrigue and Succession](#intrigue-and-succession)
   - [The Triumph of Islam](#the-triumph-of-islam)
-    - [Establishment](#establishment)
-    - [The Umayyah Dynasty](#the-umayyah-dynasty)
-    - [The Caliphate of Córdova](#the-caliphate-of-córdova)
   - [Accomplishments of Arab Iberia](#accomplishments-of-arab-iberia)
   - [Reconquista](#reconquista)
-    - [Turning the Tide](#turning-the-tide)
-    - [El Cid](#el-cid)
-    - [Crusade Against the Moors](#crusade-against-the-moors)
-    - [The Knights of Christ](#the-knights-of-christ)
-    - [Las Navas de Tolosa](#las-navas-de-tolosa)
-    - [The Albigensian Crusade](#the-albigensian-crusade)
-    - [Portugal](#portugal)
-    - [Union of Castile and León](#union-of-castile-and-león)
-    - [Crusades of Jaume I](#crusades-of-jaume-i)
-    - [After the Crusades: Castile](#after-the-crusades-castile)
-    - [After the Crusades: Aragon](#after-the-crusades-aragon)
 - [Chapter Three: Hermetic History](#chapter-three-hermetic-history)
   - [Mercurial Magic](#mercurial-magic)
-    - [Growth in Hispania](#growth-in-hispania)
-    - [Victory of Christianity](#victory-of-christianity)
   - [Magic Before the Order of Hermes](#magic-before-the-order-of-hermes)
-  - [Islam's Magic](#islams-magic)
+  - [Islam’s Magic](#islams-magic)
   - [Flambeau](#flambeau)
-    - [Flambeau Among the Franks](#flambeau-among-the-franks)
-    - [Flambeau at the Founding](#flambeau-at-the-founding)
-    - [Flambeau's Death](#flambeaus-death)
   - [The Early Order of Hermes](#the-early-order-of-hermes)
-    - [Descent into Schism](#descent-into-schism)
-    - [After the Schism](#after-the-schism)
-    - [The Rise of Roman Covenants](#the-rise-of-roman-covenants)
-    - [Shades of the Schism](#shades-of-the-schism)
   - [The Flaming Shadow](#the-flaming-shadow)
-    - [The Tribunal of 1207](#the-tribunal-of-1207)
-    - [Shadow Wars](#shadow-wars)
-    - [The Battle](#the-battle)
-    - [The Tribunal of 1214](#the-tribunal-of-1214)
-    - [To the Fall of Granada](#to-the-fall-of-granada)
 - [Chapter Four: Iberian Landscape](#chapter-four-iberian-landscape)
   - [The Aragon/Catalan Crown](#the-aragoncatalan-crown)
-    - [Culture](#culture)
   - [Barcelona](#barcelona)
-    - [People](#people)
-    - [Around Barcelona](#around-barcelona)
-    - [Power and Politics](#power-and-politics)
-    - [Time](#time)
-    - [Language](#language)
-    - [The Fine Arts](#the-fine-arts)
   - [Demons in Barcelona](#demons-in-barcelona)
-    - [Tyritescus, the Betrayer](#tyritescus-the-betrayer)
-    - [Tyritescus in Hell](#tyritescus-in-hell)
-    - [Corruption](#corruption)
-    - [Tyritescus’s Plots](#tyritescuss-plots)
   - [Humans in Hell’s Service](#humans-in-hells-service)
-    - [David the Apothecary](#david-the-apothecary)
-      - [Demon Humors](#demon-humors)
-    - [Father Cucufas](#father-cucufas)
-    - [Spain’s Crusaders](#spains-crusaders)
-      - [Lay Members](#lay-members)
-      - [Priests](#priests)
-      - [Chaplains](#chaplains)
-      - [Knights of the Inner Circle, the Heretics](#knights-of-the-inner-circle-the-heretics)
-      - [Knights of the Black Rose, the Diabolic Knights](#knights-of-the-black-rose-the-diabolic-knights)
   - [The Church in Barcelona](#the-church-in-barcelona)
-    - [Bishop Berenguer de Palau](#bishop-berenguer-de-palau)
-    - [Other Clergy](#other-clergy)
-    - [The Bishop’s Palace](#the-bishops-palace)
-    - [The Bishop’s Guards](#the-bishops-guards)
-    - [The Bishop’s Books](#the-bishops-books)
-      - [The Prophecies of Marc](#the-prophecies-of-marc)
   - [Jews in Barcelona](#jews-in-barcelona)
-    - [Restrictions on Jews](#restrictions-on-jews)
-    - [Rights of Jews](#rights-of-jews)
   - [Galicia](#galicia)
-    - [Culture](#culture-1)
   - [Santiago de Compestela](#santiago-de-compestela)
-    - [The Local Knights](#the-local-knights)
   - [High Plateau](#high-plateau)
-    - [Culture](#culture-2)
-    - [Government](#government)
   - [Toledo](#toledo)
-    - [Around Toledo](#around-toledo)
-    - [Power and Politics](#power-and-politics-1)
   - [Andalusia](#andalusia)
-    - [Culture](#culture-3)
-    - [Government](#government-1)
   - [Córdova](#córdova)
 - [Chapter Five: Covenants of Iberia](#chapter-five-covenants-of-iberia)
   - [Barcelona](#barcelona-1)
   - [Location](#location)
-    - [The Silver Rooster](#the-silver-rooster)
   - [Inhabitants](#inhabitants)
-    - [Grogs](#grogs)
-    - [Companions](#companions)
-      - [Andreau, the Innkeeper](#andreau-the-innkeeper)
-      - [Matteu, the Bouncer](#matteu-the-bouncer)
-      - [Vicent, the Groom](#vicent-the-groom)
-      - [Pol, Farusca’s Assistant](#pol-faruscas-assistant)
-    - [Magi](#magi)
-      - [Farusca of Jerbiton, Head of the Covenant](#farusca-of-jerbiton-head-of-the-covenant)
-      - [Carles of Jerbiton, the Scribe](#carles-of-jerbiton-the-scribe)
-      - [Noscur, Carles’s Familiar](#noscur-carless-familiar)
-      - [*Franç Severél of Jerbiton, the Merchant*](#franç-severél-of-jerbiton-the-merchant)
-      - [*Matlus of Jerbiton, the Old Nut*](#matlus-of-jerbiton-the-old-nut)
   - [Covenant Description](#covenant-description)
-    - [The Covenant Proper](#the-covenant-proper)
-    - [Lowest Level](#lowest-level)
   - [Outside Relations](#outside-relations)
   - [Mystical Attributes](#mystical-attributes)
-    - [Tyritescus’s Heart](#tyritescuss-heart)
   - [Story Ideas for Barcelona Covenant](#story-ideas-for-barcelona-covenant)
   - [Duresca](#duresca)
   - [Location](#location-1)
   - [Inhabitants](#inhabitants-1)
-    - [Grogs](#grogs-1)
-      - [Custodes](#custodes)
-    - [Companions](#companions-1)
-      - [*Alfonso de Suero, Autocrat of Duresca*](#alfonso-de-suero-autocrat-of-duresca)
-      - [*Dona Galinda de Gracia, Hostess of the Silver Scales*](#dona-galinda-de-gracia-hostess-of-the-silver-scales)
-    - [Magi](#magi-1)
-      - [*Baruch, follower of Guernicus, Head Quaesitor of Iberia*](#baruch-follower-of-guernicus-head-quaesitor-of-iberia)
-      - [*Other Magi*](#other-magi)
-    - [Fortress](#fortress)
   - [Outside Relations](#outside-relations-1)
   - [Mystical Attributes](#mystical-attributes-1)
   - [Mundane Resources](#mundane-resources)
@@ -290,52 +199,22 @@ I’d like to thank all of the people who helped make this publication possible.
   - [Estáncia-es-Karida](#estáncia-es-karida)
   - [Location](#location-2)
   - [Inhabitants](#inhabitants-2)
-    - [Covenfolk](#covenfolk)
-      - [Custodes](#custodes-1)
-    - [Companions](#companions-2)
-      - [Isalinad a’Fatihal, Autocrat of Estáncia-es-Karida](#isalinad-afatihal-autocrat-of-estáncia-es-karida)
-    - [Magi](#magi-2)
-      - [Terril Adan, Magus Ex Miscellanea](#terril-adan-magus-ex-miscellanea)
-      - [Alvar Dawla, Follower of Criamon](#alvar-dawla-follower-of-criamon)
-      - [Yusuf Abdul-Qadir](#yusuf-abdul-qadir)
-  - [Fortress](#fortress-1)
-    - [Key to Wizard’s House](#key-to-wizards-house)
-    - [Key to the Underground](#key-to-the-underground)
+  - [Fortress](#fortress)
   - [Outside Relations](#outside-relations-2)
   - [Obligations](#obligations-1)
   - [Story Ideas for Estáncia-es-Karida](#story-ideas-for-estáncia-es-karida)
   - [Jaferiya](#jaferiya)
   - [Location](#location-3)
   - [Inhabitants](#inhabitants-3)
-    - [Covenfolk](#covenfolk-1)
-    - [Grogs](#grogs-2)
-    - [Companions](#companions-3)
-      - [Ferdinand Manet, Autocrat of Jaferiya](#ferdinand-manet-autocrat-of-jaferiya)
-    - [Magi](#magi-3)
-      - [Rasus, follower of Flambeau](#rasus-follower-of-flambeau)
-      - [Metron](#metron)
-      - [Relegare](#relegare)
-  - [Fortress](#fortress-2)
+  - [Fortress](#fortress-1)
   - [Outside Relations](#outside-relations-3)
   - [Mystical Attributes](#mystical-attributes-2)
   - [Mundane Resources](#mundane-resources-1)
   - [Story Ideas for Jaferiya](#story-ideas-for-jaferiya)
 - [Appendix: Iberian Tribunal Vocations](#appendix-iberian-tribunal-vocations)
   - [Grog Vocations](#grog-vocations)
-    - [Guerrilla](#guerrilla)
-    - [Clothier](#clothier)
-    - [Lady’s Trainer](#ladys-trainer)
-    - [Fuero, Village Farmer](#fuero-village-farmer)
   - [Companion Vocations](#companion-vocations)
-    - [Almogáver](#almogáver)
-    - [Astrologer](#astrologer)
-    - [Moorish Warrior](#moorish-warrior)
-    - [Jewish Doctor](#jewish-doctor)
   - [Magus Vocations](#magus-vocations)
-    - [Crusader of House Flambeau](#crusader-of-house-flambeau)
-    - [Weaver of House Verditius](#weaver-of-house-verditius)
-    - [Moslem of House Ex Miscellanea](#moslem-of-house-ex-miscellanea)
-    - [Sufi of House Criamon](#sufi-of-house-criamon)
 
 ---
 
@@ -353,7 +232,7 @@ Although **Iberia** picks up where **The Order of Hermes** and **Mythic Europe**
 
 What does all this mean in terms of this book’s content? Well, **The Tribunals of Hermes: Iberia** begins by providing a brief account of Spanish history, concentrating on epic events that have forged the features of 13th century Spain. To a large extent these events involve as much historical accuracy as they do legend and folklore. This book also accounts for the early days of the Order of Hermes, not just in terms of the Tribunal itself, but in terms of early Spain’s ties to the Roman Order of Mercury. Of course, Iberia’s many Covenants are also discussed, with emphasis placed on the more influential and powerful. However, minor Covenants are also discussed, and if you do not set any part of your Saga at a larger Covenant, these lesser Covenants can be developed to suit your story needs.
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
 Also provided are accounts of supernatural places and people in Iberia. Covenants are not the only places housing the mystical. Finally, this book offers suggestions for many varied Sagas, not just stories, that you can use to express the Iberian experience. Thus, this book offers just about everything you need to bring Mythic Iberia to life.
 
@@ -371,7 +250,7 @@ The Magi of Iberia are representative of the peninsula’s isolation-invasion di
 
 The Order of Hermes emerged in Iberia much the way Mercury had. Flambeau led the invasion into Iberia and established the rule of the Order. However, where Magi elsewhere in Mythic Europe sought to flee the restrictions of mundane society, the first Iberian Covenants relished mundane society, being founded in or near cities. Only after founding urban Covenants did Hermetic Magi move into the interior, traveling on Roman roads. Many Magi found their
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 metropolitan lives incompatible with the lives of surrounding people. Thus, more in keeping with the rest of Mythic Europe’s Magi, Iberia’s wizards moved into rural areas, seeking places where studies could go uninterrupted. Once there, Magi became independent, relying less and less upon the rest of the Order. Indeed, many advocated a break from the Order, but followers of Flambeau, always numerous in the Tribunal, kept the idea from becoming reality. Without actually breaking from the Order the Tribunal became, over time, one of the most independent.
 
@@ -409,9 +288,9 @@ Idries Shah, *Tales of the Dervishes*, New York, 1970.
 
 Hannah Lynch, *Toledo, the Story of an Old Spanish Capital*, London, 1898.
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 # Chapter Two: Mythic History
 
@@ -429,7 +308,7 @@ Hannibal’s success against the Romans and his eventual defeat is well known. W
 
 The first portions of the peninsula to fall to Roman conquest were the eastern and southern, bordering on the Mediterranean. These areas had already seen the culture of the Phœnicians and Greeks, and had long been trading with various Mediterranean cultures. The people of the coasts were accustomed to differing viewpoints and, while there were some uprisings among the cities of the region, they soon settled
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 under Roman domination. It’s been suggested that coastal natives submitted too easily, as if by the work of some controlling force. . .
 
@@ -443,7 +322,7 @@ Between the two opposed classes were city dwellers. They were enchanted with, al
 
 Gradually, the people of Hispania lost (or were drained of) spirit and became fully Romanized. The colony was considered the flower of the Empire and many left to study at Rome (where
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
 the Dark Ways had particular strength). Emperors Trajan and Hadrian, though of Roman blood, were raised on the peninsula and Emperor Marcus Aurelius was of genuine Hispanic blood. Furthermore, the people of the colony distinguished themselves as poets and philosophers. Indeed, in the 13th century House Criamon prizes many of the complex poems written by these people, claiming the poems embody the people’s fury, and even immortal spirits! The young people of Hispania also looked to the glory of Rome with longing eyes and became increasingly Roman. In A.D. 212, Emperor Carcalla recognized the contributions and attitudes of the Hispanian people by granting her cities full citizenship, with all privileges that entailed. In effect, the people of the peninsula were offered full access to Rome’s decadence, the better for Hell to claim corrupt souls.
 
@@ -467,7 +346,7 @@ The Visigoths, however, did not intend to remain subservient to Rome. They used 
 
 The Visigoths enjoyed success in their military endeavors on the peninsula. Before long, Visigothic chieftains, having run out of enemies, fell to the temptation of greed and fought
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 amongst themselves for land. This conquest of Hispania followed a pattern exactly opposite to those of earlier invasions. The Visigoths first conquered the high central plateau and the cities of the coasts remained in contact with the legitimate Empire (Rome and then Constantinople).
 
@@ -489,7 +368,7 @@ Wamba is also remarkable among Visigothic kings for being one of the few not det
 
 Some years after Wamba’s rule, a new king, Roderic, was brought to the throne. Roderic’s reign was short lived, but spawned many legends. Since the time of Wamba, whenever
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 Visigothic kings ascended the throne they commissioned a lock to be made. Each lock was placed on the iron gate guarding Wamba’s talisman. Roderic, however, declared Wamba’s warning a jest. His advisors warned him to leave the gate secure but Roderic was fired by curiosity. Perhaps the demons who had years before infected the throne now had their way with Roderic, inspiring his thoughts toward sin.
 
@@ -513,7 +392,7 @@ By the end of the summer, Târik had conquered nearly half of the Iberian penins
 
 Mûsa, Târik’s commander, was jealous of his underling’s success. He feared that word of Târik’s great accomplishments would reach the Caliph of Damascus and that Târik would be promoted. Accordingly, Mûsa, with 10,000 troops, crossed the brief stretch of sea between Africa and Iberia. With his force Mûsa attacked the great cities that Târik had avoided. After a few victories, Mûsa moved to meet his follower. Târik knew Mûsa would claim the glory of conquering the peninsula and also feared that Mûsa would present the Table of Solomon to the Caliph, claiming to have won it himself. Târik therefore broke off one of the Table’s numerous feet and secreted it as proof that he won the Table.
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 Târik met Mûsa near Toledo. Mûsa immediately imprisoned Târik and had him whipped for refusing orders to halt his advances. Mûsa took command of the entire invading force and continued the conquest of Spain. The Visigoths, deprived of any central leadership, quickly fell to the Moslem invaders. Many areas pledged their fealty to Mûsa to be spared from battle. By the end of 713 Mûsa held all the lands of the peninsula, save for a strip along the Pyrenees (in the vicinity of Santiago).
 
@@ -535,7 +414,7 @@ In A.D. 750, the Umayyah family, who controlled the Caliphate in Damascus, was a
 
 In the years and under rulers that followed ‘Abd-al-Rahmân’s reign, Iberia again fell into unrest. Civil war ran high as rule of the land fragmented into regional pockets. Religious conflicts also arose, Arabic groups accusing others of straying from Allah. Furthermore, where Christians in Iberia were tolerated, and many began to adopt Moslem practices in their religion, a religious revolt arose. Zealous Christians called for the shucking of Moslem strictures and went so far as to condemn Allah. By Moslem law these people had to be executed, but their deaths only spread their movement as the sacrificed were recognized as martyrs in the name of Christ.
 
-<!-- p. 15 -->
+<!-- p. 15 --><a id="page-15"></a>
 
 Thus these devout Christians followed in the footsteps of Christ and his disciples. The spread of Christianity back into Iberia began in earnest.
 
@@ -561,7 +440,7 @@ In later years more free schools were opened and a university was founded in Có
 
 Not surprisingly, Moslem scholarly endeavors inevitably benefitted industry. Eastern advances in agriculture allowed the introduction of rice, cotton, oranges, pomegranates and other crops into the fertile southeastern portions of the peninsula. Furthermore, the raising of silkworms and making of silk, originally a monopoly of the Chinese, was introduced by the Moslems and it thrived in the region. Toledo, like Damascus, was known the world over for the quality of its swords, and the art of tanning and embossing leather rose to new heights in Iberia. The Caliphate received most of its revenue from import and export duties on these and other industries.
 
-<!-- p. 16 -->
+<!-- p. 16 --><a id="page-16"></a>
 
 However, regardless of its relative enlightenment, even the Caliphate of Córdova fell, both to internal squabbles and to wars against both Christians and Arabs. In the Caliphate’s place arose city-states ruled by *reyes de taifas*, or party kings. These petty states warred with each other and with growing Christian states to the north. The city-states were rescued briefly on two occasions by Berber invasions. The first was led by the Almoravids, in 1086. These harsh desert warriors stayed past their welcome and proceeded to conquer lands of Iberia for themselves. However, the Almoravids quickly succumbed to the pleasures and decadence of Iberian civilization and were ousted by the Almohads in 1145. Shortly after the Almohad arrival the Christian states to the north woke from their own internal squabbling and began serious reconquest of Iberia. The story of the Moors’ last sigh belongs to the Christians and is told under *Reconquista*, below.
 
@@ -583,7 +462,7 @@ Moslem contributions also play a telling role in the harder sciences. Geographic
 
 The medical advances of Moslems in Iberia are well known. Tota, the Queen Regent of Navarre defeated by ‘Abd-al-Rahmân III in A.D. 939, later appeared in the Moslem’s court with her grandson, the ex-King of León, known as Sancho the Fat. The two sought Arabic medical advice. The Caliph’s physicians were able to relieve Sancho of the excessive corpulence which had cost him the crown of León. Physicians later chronicle the surgical knowledge of their time, and great works of pharmacy and herbalism are written by Iberian Moslems.
 
-<!-- p. 17 -->
+<!-- p. 17 --><a id="page-17"></a>
 
 Characters in Iberia, like Tota, might find themselves at a loss to find a cure for a disease. Salvation might lie with Moslem surgeons and herbalists, but relying upon them requires a break from traditional Christian doctrine, which forbids dissections and desecration of the human body. The question is, which is more valuable, continued life or religious devotion?
 
@@ -593,7 +472,7 @@ The fall of Toledo in 1085 was a great blow to the Moslem government and led to 
 
 The knowledge of the Arabs is passed on to the Western world through those scholars who come to the Toledo school. Michael of Chester, one of many scholars who visits from the British Isles, helps to complete the first Latin translation of Islam’s Koran. The French Abbot of Cluny, Peter the Venerable, sponsors the translation. His abbey, which houses a number of Iberian monks, becomes a major center for the distribution of Arabic learning. Indeed, the intellectual growth that flourishes in southern France of the 13th century can be traced to the Iberian city of Toledo.
 
-<!-- p. 18 -->
+<!-- p. 18 --><a id="page-18"></a>
 
 > ### Legends of the Reconquista
 >
@@ -611,7 +490,7 @@ After the successful Moslem invasion of Iberia, many Visigoths retreated to the 
 
 Early in the 8th century, the activities of meager Christian forces, gathered in northern Iberia, were limited to raids that even now typify the region. The Christian nobility laid claim to Iberia, but could not take genuine action until the Moslem leadership faltered, and that only occurred many years after the Arabs had taken over. In alliance with Charlemagne, Christian rebels attempted to drive the Moslems southward, but their effort largely failed. However, the Franks built many castles in the Pyrenees, placed under Spanish command, intended to keep the Moors at bay in Iberia. Many of these castles still stand in the 13th century, some still used and expanded upon. Others are forgotten in their mountain retreats and are now occupied by all kinds of creatures or inbred group of defenders, still awaiting Moslem attack.
 
-<!-- p. 19 -->
+<!-- p. 19 --><a id="page-19"></a>
 
 Probably the isolated Christians’ greatest enemy was (and is) their own discord. Most of their efforts to reclaim Iberia were hampered by their own infighting. This dissent may have been fostered by the subtle magicks of Moslem sorcerers, or perhaps by Infernal manipulation.
 
@@ -637,7 +516,7 @@ The first of el Cid’s conquests was the city of Castejon. He fell upon the cit
 
 El Cid entered the service of the Moorish King of Saragossa. While in that service, he sometimes fought against Christian foes of his new lord but never against Alfonso of Castile. The King of Saragossa sent el Cid against the Kingdom of Valencia. For three years, el Cid captured cities around Valencia. Finally, he laid siege to Valencia itself and the city surrendered in 1090.
 
-<!-- p. 20 -->
+<!-- p. 20 --><a id="page-20"></a>
 
 > ### Legends of the Reconquista
 >
@@ -663,9 +542,9 @@ El Cid then presented his next charge. He had given the *Infantes* 3,000 marks o
 
 Finally, el Cid brought up the issue of his dishonored daughters and demanded redress by combat. The *Infantes* replied, saying they had done no wrong. They claimed the daughters of el Cid were not worthy of their station, that they had cast the women aside in favor of brides of equal birth. The arguments continued, with el Cid and his supporters deriding the *Infantes’s* claims to noble birth by relating their cowardice. The *Infantes* replied, saying their alliance with the Cid, formed through marriage, held no parity and in leaving his daughters they upheld their honor and right. A rude lord joined the *Infantes,* saying that el Cid should return to his lands and no longer bother the assembled nobles. Then spoke the King: *“Enough of words, ye have my leave to fight. The challenged and the challengers, and God defend the right.”*
 
-<!-- p. 21 -->
+<!-- p. 21 --><a id="page-21"></a>
 
-<!-- p. 22 -->
+<!-- p. 22 --><a id="page-22"></a>
 
 The duel was set for three weeks hence, in the lands of Carrion. El Cid, reluctantly, had to return to Valencia to manage his affairs there. In his stead, he gave the great swords Colada and Tizon to two of his followers so they might battle the *Infantes.* The rude count who spoke against el Cid was also included in the battle, so a third of the Cid’s men stayed behind. In three weeks the battle was joined on the field of honor. El Cid’s men comported themselves in a heroic fashion. In quick succession, they unhorsed the *Infantes* and subdued or killed the men. Indeed, one of the counts was cut down as he tried to flee, proving that el Cid was in the right. His daughters were later betrothed to the kings of Navarre and Aragon-Catalonia, bringing honor to the name of the Campeador.
 
@@ -679,7 +558,7 @@ The Almoravids originated as a harsh desert tribe who saw the lush Iberian count
 
 Before the crusade could be launched, however, the Christians had to agree on who would lead it. After considerable turmoil in the early 12th century, Alfonso VII, King of Castile took power over much of Iberia’s Christian lands. Regrettably, when he died in 1157, Alfonso divided his realm into the kingdoms of Castile and León. The two brother kings fought amongst themselves, but their children, under Alfonso VIII, smoothed relations before the turn of the 12th century. Alfonso was instrumental in gathering Christian forces to finally turn the tide of war against the Moslems. After a series of small victories he challenged the Moslems’ ruler to a battle. The Moslems accepted and Alfonso appealed to the rulers of León and Navarre for aid. They promised to attend but on the day of the battle were absent and Alfonso’s Christians were routed.
 
-<!-- p. 23 -->
+<!-- p. 23 --><a id="page-23"></a>
 
 It is after such a defeat, and after minor skirmishes with the kings who had abandoned him, that Alfonso VIII prepares for further crusader attacks upon the Moors. And this, of course, brings us to the 13th century, when your Saga takes up the fate of God’s crusaders in Iberia.
 
@@ -705,7 +584,7 @@ See *The Battle,* in Chapter Three, for more information on events at Las Navas 
 
 The battle of Las Navas de Tolosa is a resounding victory for Christian kingdoms of Iberia. For the Aragon-Catalan Crown, however, it is a brief diversion. Rei En Pere II, King Peter of Aragon-Catalan, holds lands to the north which are threatened by French crusaders attacking Cathars in southern France. The French fight the Albigensian Crusade (see *Mistridge* and *A Midsummer Night’s Dream* for more information on and stories set in the crusade). French soldiers display incredible cruelty in their battles. From Barcelona, Pere appeals to the Pope to stop the temporal designs of Simon de Montfort, leader of the crusading force. The Pope convinces Pere to accept the French leader as his vassal in the lands that Montfort has captured.
 
-<!-- p. 24 -->
+<!-- p. 24 --><a id="page-24"></a>
 
 When Montfort continues his aggressive actions against the territory of the Aragon-Catalan crown, Pere declares war on him. Pere meets Simon de Montfort in battle at Muret. The night before the battle Pere drinks heavily and secludes himself with a woman. In the morning he is too weak to stand at Mass. Nevertheless, he takes the front rank in the battle and is killed. Guards seeking the woman after the battle fail to find her, but do discover her shawl. It is stained with blood and smells of brimstone.
 
@@ -721,7 +600,7 @@ In truth, in the 13th century, the Castilian King hopes that by attacking the Mo
 
 The death of Alfonso VIII in 1214 brings Henry I to the throne of Castile. In an effort to solidify relations between Castile and León, Alfonso’s daughter, Berenguela is married to Alfonso IX of León, by whom she has a son, Ferdinand. Pope Innocent III annuls the marriage on the grounds that the two have a blood tie, as evidenced by the deformity their son who is never seen in public.
 
-<!-- p. 25 -->
+<!-- p. 25 --><a id="page-25"></a>
 
 When Henry I of Castile dies in 1217, Berenguela is proclaimed Queen of Castile. She grants her throne to her son who, as Ferdinand III, proves a greater monarch than even his grandfather, Alfonso VIII. The question is, how does Ferdinand apparently change in appearance, miraculously alleviated of his disfiguration. The wizard rumored to be in his court, and at Ferdinand’s side at all times, might explain the sudden change.
 
@@ -739,7 +618,7 @@ After his ascension in 1213, Rei En Jaume I of Aragon-Catalonia, son of Peter, h
 
 What is little known is that Jaume sent out a call to the vilest people of his kingdom, offering a huge reward to the one who could assassinate Montfort. Apparently one of those killers reached the target, for Montfort’s body showed no signs of death by battle. Indeed, he was found dead in his quarters, poisoned, left with a cringing young boy, the victim of his latest perverse exploit. On hearing of Montfort’s death, Jaume is said to have smiled, which he had not done since the day of his recovery from the crusaders years before.
 
-<!-- p. 26 -->
+<!-- p. 26 --><a id="page-26"></a>
 
 Without pressure from the French to the north, Jaume is able to heed his people’s wishes for territorial expansion. In 1229 he captures the island of Majorca, which had long been a stronghold of Moslems and pirates. Working in secret, he then puts the pirates under his employ, allowing them to raid other states, collecting a piece of the action. By 1235 Jaume captures all of the Balearic Islands and distributes the lands among his followers. In 1238, Jaume captures Valencia and earns his honorific, “the Conqueror.” More than simply a conqueror, however, Jaume demonstrates the ability to administrate. While Castile begins to founder economically, Jaume’s kingdom prospers by the parceling out of small lands to the people of the region, rather than by concentrating large tracts of land in the hands of a few.
 
@@ -757,21 +636,21 @@ After the death of Jaume I in 1276, Pere III gains the Aragon-Catalan crown. He 
 
 Events then fall into place to bring Pere III into contention for the dominance of Sicily. First, Pere refuses to be a vassal to the Pope, repudiating the arrangement of his grandfather, Pere II. Second, he marries the daughter of King Manfred of Sicily. When the Papacy wins Sicily from the Hohenstaufen Holy Roman Emperors, Manfred backs the losing side. The Pope, therefore, offers the Kingdom of Sicily as fief to a French prince, Charles of Anjou. Charles has Manfred put to death and proceeds to rule in a tyrannical fashion. The people of Sicily believe that Charles kills his enemies and has them cooked for his Sunday dinner. Not surprisingly, the populace invites Pere III to help them. Pere III invades Sicily in 1282 and is master of the island a short time later. The Pope excommunicates Pere III and proclaims a crusade against him. Indeed, the Pope condones the actions of theurgists, who bring demons upon Pere on the Church’s behalf. Pere III dies in 1285 at Infernal hands, but not before offering to return Sicily to the Pope to save his soul.
 
-<!-- p. 28 -->
+<!-- p. 28 --><a id="page-28"></a>
 
-<!-- p. 29 -->
+<!-- p. 29 --><a id="page-29"></a>
 
-<!-- p. 27 -->
+<!-- p. 27 --><a id="page-27"></a>
 
 # Chapter Three: Hermetic History
 
-This Chapter discusses the birth and growth of the Order of Hermes in Spain, forming what is now the Iberian Tribunal. The history of the Order in Iberia goes as far back as the Roman era, when it existed as the Cult of Mercury. Indeed, having experienced almost every stage of the Order of Hermes's development, the Iberian Tribunal is something of a microcosm of the larger Order's history.
+This Chapter discusses the birth and growth of the Order of Hermes in Spain, forming what is now the Iberian Tribunal. The history of the Order in Iberia goes as far back as the Roman era, when it existed as the Cult of Mercury. Indeed, having experienced almost every stage of the Order of Hermes’s development, the Iberian Tribunal is something of a microcosm of the larger Order’s history.
 
 ## Mercurial Magic
 
-The Cult of Mercury was a strong force in the Roman Empire. While it wasn't widely popular, it served an important purpose. The priests of Mercury considered themselves responsible for the wealth and well-being of the Empire. Their powerful rituals were focused on the continuation of Roman structure. Much of their wisdom has been lost but Magi of the Order of Hermes search for it to gain a deeper understanding of magic and its place in the order of the universe.
+The Cult of Mercury was a strong force in the Roman Empire. While it wasn’t widely popular, it served an important purpose. The priests of Mercury considered themselves responsible for the wealth and well-being of the Empire. Their powerful rituals were focused on the continuation of Roman structure. Much of their wisdom has been lost but Magi of the Order of Hermes search for it to gain a deeper understanding of magic and its place in the order of the universe.
 
-One of the longest-lasting elements of the Roman Empire was influenced by the priests of Mercury. The Mercurial cult needed massive numbers of priests to complete their most complex rituals. More priests involved in rituals meant more power could be invested into rituals. As the Empire expanded, the priests of Mercury spread with it. Soon there were not enough priests in any one place to complete important rituals. The priests worked to establish mystical connections between their temples, allowing far-flung priests to combine their power. Since these rituals supported and protected the Empire, the Empire put great effort into aiding its priests, though did not widely admit to doing so. The leadership of Rome, with the aid of Mercury's priests, developed the system of roads that the Romans are well-known for. Apart from the mundane advantages that permanent roads offered, they allowed for long-lasting mystical connections between distant temples. With the network of roads extending from Rome across the Empire, priests in every corner could join in rituals to strengthen the state.
+One of the longest-lasting elements of the Roman Empire was influenced by the priests of Mercury. The Mercurial cult needed massive numbers of priests to complete their most complex rituals. More priests involved in rituals meant more power could be invested into rituals. As the Empire expanded, the priests of Mercury spread with it. Soon there were not enough priests in any one place to complete important rituals. The priests worked to establish mystical connections between their temples, allowing far-flung priests to combine their power. Since these rituals supported and protected the Empire, the Empire put great effort into aiding its priests, though did not widely admit to doing so. The leadership of Rome, with the aid of Mercury’s priests, developed the system of roads that the Romans are well-known for. Apart from the mundane advantages that permanent roads offered, they allowed for long-lasting mystical connections between distant temples. With the network of roads extending from Rome across the Empire, priests in every corner could join in rituals to strengthen the state.
 
 Priests of Mercury played an important part in the colonization of Iberia. With the threat of Hannibal and other Carthagenian forces, Rome called upon all its assets to defend the Empire. Priests of Mercury marched alongside the legions in the second assault on the peninsula, adding their magic to the force of arms. The relatively quick defeat of Carthage on the peninsula was a reflection of the skill and power of the Mercurial priests.
 
@@ -779,25 +658,25 @@ However, the priests' weaknesses were demonstrated in the campaign against the I
 
 Once a system of Iberian roads developed, however, the priests of Mercury made a large contribution to the conquest of peninsula. With connections to their power base in Rome, they were able to influence events further from the city. The primitive wizards of the indigenous population were no match for the power of the priests of Mercury. Most simply migrated out of Iberia or hid until the colony was better established and more stable. Once the colony was established, the cult began to expand its network of temples and recruit new members. A network of followers, including some native wizards, was established to provide funding and initiates for the priesthood.
 
-<!-- p. 30 -->
+<!-- p. 30 --><a id="page-30"></a>
 
 ### Growth in Hispania
 
-The wealth of the Iberian peninsula attracted the priests of Mercury. Their need for expensive materials to perform rituals required a large financial base. Roman businessmen flocked to exploit the wealth of the peninsula. Since these businessmen also shipped and provided the materials needed by the cult, they enjoyed the protection and aid of the priests of Mercury. The import and export of a wide variety of goods was controlled almost exclusively by Romans in Hispania. The Cult of Mercury itself had interests in some shipping companies, limiting their dependance on the merchants. However, the demands of maintaining the ritual activities of the cult prevented priests from completely divesting themselves of dependance on Rome's merchants. The wealthy inhabitants of the new colony also added to the strength of the Hispanian cult. The *seniores* in their villas were strong supporters of Roman culture in general and supported the cult with funds and followers.
+The wealth of the Iberian peninsula attracted the priests of Mercury. Their need for expensive materials to perform rituals required a large financial base. Roman businessmen flocked to exploit the wealth of the peninsula. Since these businessmen also shipped and provided the materials needed by the cult, they enjoyed the protection and aid of the priests of Mercury. The import and export of a wide variety of goods was controlled almost exclusively by Romans in Hispania. The Cult of Mercury itself had interests in some shipping companies, limiting their dependance on the merchants. However, the demands of maintaining the ritual activities of the cult prevented priests from completely divesting themselves of dependance on Rome’s merchants. The wealthy inhabitants of the new colony also added to the strength of the Hispanian cult. The *seniores* in their villas were strong supporters of Roman culture in general and supported the cult with funds and followers.
 
 As Iberian cities developed and grew, the Cult of Mercury built new temples, connected them by roads, and solicited new initiates. One of the requirements of entering the priesthood was Roman citizenship. At first, Hispanian members of the Cult of Mercury were limited to those of Roman blood. Later, other important Hispanians were granted citizenship and became eligible for membership. In A.D. 212, Emperor Carcalla granted citizenship to all people in Hispanian cities, greatly increasing the number of people eligible for priesthood. The cult still appealed mostly to the businessmen, bureaucrats, and the owners of vast estates, though, leaving the common people almost completely out of the sect. In spite of this restriction, the number of non-Roman priests in the cult swelled. With the arcane connection to Rome solidified by the network of roads, the priests of Mercury in Hispania added significant strength to rituals in Rome.
 
 ### Victory of Christianity
 
-When Christianity came to Iberia, the common people enthusiastically joined the new religion. Christianity swayed the populace by offering them direct experience of God's grace. The missionaries learned of the people's exclusion from the Roman religion and began to openly oppose Roman cults. Some early Christians paid a high price for this opposition and Iberia contributed its share of martyrs to the early Christian cause.
+When Christianity came to Iberia, the common people enthusiastically joined the new religion. Christianity swayed the populace by offering them direct experience of God’s grace. The missionaries learned of the people’s exclusion from the Roman religion and began to openly oppose Roman cults. Some early Christians paid a high price for this opposition and Iberia contributed its share of martyrs to the early Christian cause.
 
-<!-- p. 31 -->
+<!-- p. 31 --><a id="page-31"></a>
 
-As Christianity gained popularity, the priests of Mercury saw it as a challenge to the order they strived to maintain. The elders of the priesthood claimed that the new religion was destroying Rome and should be wiped out. As the power of the Mercurial cult continued to dwindle over the centuries, this doctrine was modified. Some members initially suggested that a flaw of Hispanian blood made the people accept the new religion. These priests thought the flaw could be overcome and the people brought into the cults of Rome. The idea of a flaw in Hispanian blood eventually became widely accepted by the cult. Later, a particularly hard-line patriarch of the cult forwarded the notion that the powerful Mercurial rituals were not functioning properly because they were being performed by non-Romans. The declining power of their rituals, this patriarch decided, was not due to the new religion but to the fact that the cult had accepted non-Romans among its number. Non-Roman priests in Hispania were therefore expelled and some killed. Unfortunately, this reduced the number of priests available for the performance of rituals and the power of the cult's magic continued to decline.
+As Christianity gained popularity, the priests of Mercury saw it as a challenge to the order they strived to maintain. The elders of the priesthood claimed that the new religion was destroying Rome and should be wiped out. As the power of the Mercurial cult continued to dwindle over the centuries, this doctrine was modified. Some members initially suggested that a flaw of Hispanian blood made the people accept the new religion. These priests thought the flaw could be overcome and the people brought into the cults of Rome. The idea of a flaw in Hispanian blood eventually became widely accepted by the cult. Later, a particularly hard-line patriarch of the cult forwarded the notion that the powerful Mercurial rituals were not functioning properly because they were being performed by non-Romans. The declining power of their rituals, this patriarch decided, was not due to the new religion but to the fact that the cult had accepted non-Romans among its number. Non-Roman priests in Hispania were therefore expelled and some killed. Unfortunately, this reduced the number of priests available for the performance of rituals and the power of the cult’s magic continued to decline.
 
 Soon, the Cult of Mercury fell into obscurity in Hispania. Christianity eventually won out, becoming the official religion of Rome in the 4th century. By that time, the Cult of Mercury was very small in the province. Some of its members had left and, along with some of those expelled, joined the new religion, becoming priests there as they had been in the cult. The long decline of the cult was coming to a conclusion. By the time the Visigoths sacked Rome in 410, little was left and in 412 the cult was officially disbanded.
 
-Former priests of Mercury in Iberia contributed to the development of the nascent Christian Church. Indeed, many claim the Church's rituals owe their foundations to the Roman Cult of Mercury. In particular, the Mass is said to reflect the influence of former Mercurial priests. Divine power invested in Christian priests allows them to turn simple wine and bread into the blood and body of Christ, through the ritual of the Mass. By consuming these foods, followers are connected to the power of the Divine. That connection allows priests to maintain a mystical connection to the people who partake of the Mass. The power of the Divine thereby spreads throughout the populace, allowing Christian priests to use Divine power to aid their flock. Such a spread of power from a ritual through a medium is akin to the powers spread by Mercurial rituals, along Roman roads. It is ironic to think that the Dominion, which currently plagues members of the Order of Hermes, may have developed from the same roots as the Order.
+Former priests of Mercury in Iberia contributed to the development of the nascent Christian Church. Indeed, many claim the Church’s rituals owe their foundations to the Roman Cult of Mercury. In particular, the Mass is said to reflect the influence of former Mercurial priests. Divine power invested in Christian priests allows them to turn simple wine and bread into the blood and body of Christ, through the ritual of the Mass. By consuming these foods, followers are connected to the power of the Divine. That connection allows priests to maintain a mystical connection to the people who partake of the Mass. The power of the Divine thereby spreads throughout the populace, allowing Christian priests to use Divine power to aid their flock. Such a spread of power from a ritual through a medium is akin to the powers spread by Mercurial rituals, along Roman roads. It is ironic to think that the Dominion, which currently plagues members of the Order of Hermes, may have developed from the same roots as the Order.
 
 ## Magic Before the Order of Hermes
 
@@ -809,19 +688,19 @@ It may be that from Visigoth wizards' dealings with mundanes, the modern Order o
 
 Ultimately, when Visigoth kings grew so arrogant that they ignored wizardly advice, and the rising Dominion of the Church interfered with their work, Visigothic sorcerers withdrew completely from the society they had helped build. By this time perhaps a score of wizards remained in Iberia. They felt little if any remorse in abandoning those who had forsaken them.
 
-## Islam's Magic
+## Islam’s Magic
 
 As the Visigoths were embroiled in civil war, the forces of the Islamic empire fell upon Iberia and began their conquest. Initially, only military forces landed. When the Visigoths regrouped and prepared for battle with the invading armies, the Islamic forces brought up their reserves and began to employ other resources. Islamic sorcerers held the advantage in conquering the fertile peninsula. The magic of these sorcerers was largely attuned to the contact and control of djinn, proud spirits of elements.
 
-<!-- p. 32 -->
+<!-- p. 32 --><a id="page-32"></a>
 
-With the assistance of djinn, Arab sorcerers were (and are) able to fashion magnificent items of power, known for their beauty as well as mystical attributes. Only the sorcerers with the most powerful wills could control these proud and fierce creatures. Once controlled, djinn made powerful servants, able to fashion items with a skill beyond human comprehension, and able to work tirelessly at speeds outstripping the fastest human. The disappearance of King Roderic of the Visigoths at the first large battle between the Arabs and Visigoths is believed the work of Arabic sorcerers. It's said that, fearing their tide of invasion might be stopped by combined Visigoth forces, Moslem sorcerers, eager to reap the wealth of the peninsula, had their djinn abduct Roderic and cast his corpse into the river, well away from the battle. Indeed, if this legend is true, that of Roderic's lingering spirit might also be true.
+With the assistance of djinn, Arab sorcerers were (and are) able to fashion magnificent items of power, known for their beauty as well as mystical attributes. Only the sorcerers with the most powerful wills could control these proud and fierce creatures. Once controlled, djinn made powerful servants, able to fashion items with a skill beyond human comprehension, and able to work tirelessly at speeds outstripping the fastest human. The disappearance of King Roderic of the Visigoths at the first large battle between the Arabs and Visigoths is believed the work of Arabic sorcerers. It’s said that, fearing their tide of invasion might be stopped by combined Visigoth forces, Moslem sorcerers, eager to reap the wealth of the peninsula, had their djinn abduct Roderic and cast his corpse into the river, well away from the battle. Indeed, if this legend is true, that of Roderic’s lingering spirit might also be true.
 
 As the Arabs moved up the peninsula, the actions of their sorcerers and djinn continued. It was djinn that caused the storm which allowed invaders to gain Córdova without great conflict. But even the powerful sorcerers of Islam and their djinn faced limits on the peninsula. The Dominion, growing in the land for several centuries, frustrated Arab sorcerers and their servants in much the same way it plagues Magi of Hermes in the 13th century.
 
-The nobility of the Arabs, however, understood the importance of their sorcerers and the danger posed should the sorcerers grow angry with the Dominion's continued existence. The Arab nobility took it upon themselves to conquer Iberian cities and throw down their icons of the Church, turning altar decorations into lamps for mosques. Arab leaders also patronized sorcerers, setting up libraries and laboratories for them to study.
+The nobility of the Arabs, however, understood the importance of their sorcerers and the danger posed should the sorcerers grow angry with the Dominion’s continued existence. The Arab nobility took it upon themselves to conquer Iberian cities and throw down their icons of the Church, turning altar decorations into lamps for mosques. Arab leaders also patronized sorcerers, setting up libraries and laboratories for them to study.
 
-The society that invading Arabs structured was also favorable to sorcerers. The nobility admired learning and favored teachers and artists among their courts. Christians within conquered territories were restricted as well, to avoid Christian and sorcerer confrontations. Here Moslem rulers had to walk a fine line, though. They didn't want their armies to believe the Christian Dominion could endanger Arab sorcerers, but the Arab nobility equally feared inciting the Church, bringing the full wrath of the Dominion upon them. (Of course, that did eventually happen.) Early in Iberia's Arabic conquest, Christians were therefore allowed to pursue their religion, but had to pay a special tax. The tax kept Christians from affording great edifices, believed to help spread the Dominion. Thus, the loyalty of Moslem sorcerers was preserved and the Christian Dominion was subtly subdued.
+The society that invading Arabs structured was also favorable to sorcerers. The nobility admired learning and favored teachers and artists among their courts. Christians within conquered territories were restricted as well, to avoid Christian and sorcerer confrontations. Here Moslem rulers had to walk a fine line, though. They didn’t want their armies to believe the Christian Dominion could endanger Arab sorcerers, but the Arab nobility equally feared inciting the Church, bringing the full wrath of the Dominion upon them. (Of course, that did eventually happen.) Early in Iberia’s Arabic conquest, Christians were therefore allowed to pursue their religion, but had to pay a special tax. The tax kept Christians from affording great edifices, believed to help spread the Dominion. Thus, the loyalty of Moslem sorcerers was preserved and the Christian Dominion was subtly subdued.
 
 Ironically, to utilize their powers, Moslem sorcerers in Iberia also had to contend with some followers of Islam. If sorcerers professed to follow Mohammed they were in the paradoxical position of practicing an art considered heretical by Arab orthodoxy. If sorcerers did not subscribe to the Moslem religion, they were subject to the restrictive laws that kept Christian influence under control. Thus, while sorcerers enjoyed the favor of the nobility, orthodox leaders of the Islamic religion preached against them. In the civil disorders that occasionally sprang up, Islamic sorcerers fared poorly at the hands of riotous mobs. They were often driven from cities, had their homes destroyed, and were occasionally killed.
 
@@ -837,75 +716,75 @@ One of the magical Moslem sects of the 12th and 13th centuries that is popular i
 
 Nuinsil of Criamon first discovered the nature of the Sufis' teachings during his journeys to Arabia, in the early 11th century. The nature of the Sufis' teachings appeals to enigmatic Criamon Magi, and the Criamon seem to have much to offer the Moslems. While most of the Order knows little of Sufi power, some of the skills exhibited by its followers seem to duplicate Hermetic magic (maybe taught by Criamon Magi in exchange for foreign insights?). Tales told by the Sufis, and by others about the Sufis, imply that the Sufis have powers kept secret from the Order. Most, however, view them as crackpot hedge wizards, given to speaking in riddles. Maybe the truth of the Sufis' enigma lies in their riddles, and only Criamon Magi can truly decipher the extent of Sufi power.
 
-<!-- p. 33 -->
+<!-- p. 33 --><a id="page-33"></a>
 
 ## Flambeau
 
-The Iberian history of House Flambeau has its roots in the Roman period. It was on the peninsula that the House's founder was born and lived much of his life. It was also here that he died.
+The Iberian history of House Flambeau has its roots in the Roman period. It was on the peninsula that the House’s founder was born and lived much of his life. It was also here that he died.
 
-Little is known of the specifics of Flambeaú's family history; Flambeau was not given to great writings of his past. What we do know is passed on by current members of House Flambeau and is sure to have grown some in the telling. Members of the House tell that Flambeau's vulgar family was named Seneca (though some think these historians seek to draw connection to the famous Senecas of Córdova), and that they had mercantile business in the *Provencia Hispania* Ulterior Lusitania. This region of the Roman province covered most of southwestern Iberia, and House Flambeau claims "ancestral" lands near Badajoz. The Covenant of Jaferiya is said to have been founded on the site of one of the villas that Flambeau's vulgar family lost to invading Moslems. From all accounts, it seems that the Seneca family was prosperous and happy throughout the Roman rule of Iberia.
+Little is known of the specifics of Flambeaú’s family history; Flambeau was not given to great writings of his past. What we do know is passed on by current members of House Flambeau and is sure to have grown some in the telling. Members of the House tell that Flambeau’s vulgar family was named Seneca (though some think these historians seek to draw connection to the famous Senecas of Córdova), and that they had mercantile business in the *Provencia Hispania* Ulterior Lusitania. This region of the Roman province covered most of southwestern Iberia, and House Flambeau claims "ancestral" lands near Badajoz. The Covenant of Jaferiya is said to have been founded on the site of one of the villas that Flambeau’s vulgar family lost to invading Moslems. From all accounts, it seems that the Seneca family was prosperous and happy throughout the Roman rule of Iberia.
 
 When the barbarian tribes first entered Iberia, the Senecas suffered. The tribes plundered the fields and took land indiscriminately from its rightful owners. Like most wealthy landowners, however, the family persevered. Though they often had to battle the barbarian kings that held sway over the land, the Senecas were able to retain most of their land and maintain their trade contacts. In fact, under Visigothic rule the Seneca family flourished, enjoying new privileges of their high social class. The family intermarried with the Visigothic nobility and extended their holdings. Soon, according to House Flambeau, the family was among the most influential in Iberian politics. They possessed the right to vote for the sovereign of the Visigoths and even put up their own candidate on more than one occasion.
 
-Flambeau, himself, was born Reculed Annaeus Senecas, in 698. Of his young life next to nothing is known. The turmoil of the period left him little time for childhood pleasures. As soon as he could stand, he began training as a warrior. When Reculed was but twelve years of age, civil war swept the land as the Visigoth King, Witiza, attempted to put his son on the throne against the objections of the nobility. In the fighting that followed, the young Reculed was spirited to a family villa in a more central part of the peninsula. This departure from family estates on the southern coast proved fortunate as the armies of Tārik ibn-Ziyād invaded in 711. While the family's southern holdings were quickly overrun, more northern ones held out for several years. In 712, the young Reculed was taken from his family by a wizard fleeing from the invading army. Reculed did not willingly abandon his family, but the mysterious wizard felt he had need of the Gift that was expressing itself in the young noble, and convinced the young Reculed to accompany him.
+Flambeau, himself, was born Reculed Annaeus Senecas, in 698. Of his young life next to nothing is known. The turmoil of the period left him little time for childhood pleasures. As soon as he could stand, he began training as a warrior. When Reculed was but twelve years of age, civil war swept the land as the Visigoth King, Witiza, attempted to put his son on the throne against the objections of the nobility. In the fighting that followed, the young Reculed was spirited to a family villa in a more central part of the peninsula. This departure from family estates on the southern coast proved fortunate as the armies of Tārik ibn-Ziyād invaded in 711. While the family’s southern holdings were quickly overrun, more northern ones held out for several years. In 712, the young Reculed was taken from his family by a wizard fleeing from the invading army. Reculed did not willingly abandon his family, but the mysterious wizard felt he had need of the Gift that was expressing itself in the young noble, and convinced the young Reculed to accompany him.
 
-The wizard was Delendar, Flambeau's teacher and a great practitioner of the destructive arts of magic. He schooled Reculed with a haste born of desperation. Delendar had seen the power of Arabic sorcerers and felt the forces that currently ruled the land had little chance of standing against them. His magic was based on the Mercurial tradition though it had undergone centuries of permutation. Still bound by the philosophy that more practitioners provided more power, Delendar struggled to impart his knowledge on the young man. Reculed proved a quick study; his sharp mind gave him insight into the structure of magic and he often made intuitive leaps beyond the anticipation of his master. Reculed's early study of the arts of war in turn proved invaluable to Delendar. Delendar knew magic but his only knowledge of fighting came from ancient texts of strategy. Reculed was thus able to incorporate his knowledge of war into his magic. The two wizards therefore struck up a relationship of equality, one greater than any between master and apprentice. Born out of necessity, their relationship became that of father and son.
+The wizard was Delendar, Flambeau’s teacher and a great practitioner of the destructive arts of magic. He schooled Reculed with a haste born of desperation. Delendar had seen the power of Arabic sorcerers and felt the forces that currently ruled the land had little chance of standing against them. His magic was based on the Mercurial tradition though it had undergone centuries of permutation. Still bound by the philosophy that more practitioners provided more power, Delendar struggled to impart his knowledge on the young man. Reculed proved a quick study; his sharp mind gave him insight into the structure of magic and he often made intuitive leaps beyond the anticipation of his master. Reculed’s early study of the arts of war in turn proved invaluable to Delendar. Delendar knew magic but his only knowledge of fighting came from ancient texts of strategy. Reculed was thus able to incorporate his knowledge of war into his magic. The two wizards therefore struck up a relationship of equality, one greater than any between master and apprentice. Born out of necessity, their relationship became that of father and son.
 
-<!-- p. 34 -->
+<!-- p. 34 --><a id="page-34"></a>
 
 Even before officially finishing his learning, Reculed accompanied Delendar onto the battlefield. They lent their magic to the efforts of Christian nobility resisting the advances of invading armies, but to little avail. They were but two men, and even their great power could not be expressed across the entirety of the peninsula. The Moslem armies steadily advanced. Once the pair of wizards had been identified, they faced challenges from their counterparts in war. It was in these battles that Reculed began his fascination with fire magics. Such spells thrilled the young wizard and added greatly to the visibility of his efforts. As the exploits of Delendar and his young student became renowned among wizards of the time, their mere presence put an end to Moslem attacks. But Moslem leaders eventually grew impatient with their impeded advance and with losses suffered at the hands of the two wizards. Moslem leaders therefore gathered sorcerers from the farthest reaches of the peninsula and gave them the task of stopping the troublesome wizards.
 
-In 730, Delendar and his young student became involved in a battle between Christian and Islamic forces, waged in the foothills of the Pyrenees. The meager Christian force, bolstered by the magic of the Magi, held off the Islamic forces for several days. The Christians and wizards were entrenched in a cave, planning their counter-attack. They did not hope to win the day but hoped to break Islamic lines to join their fellows some distance to the west. As they mounted their attack, the wizards struck a series of decisive blows and a gap appeared in Islamic lines. The Christians poured through and on to freedom. The two wizards, however, were not so lucky. Moslem sorcerers and their djinn fell upon the pair. They in turn were separated by the great breath of a djinn, and enchantments fell on them with such rapidity that they could not regain their ground. Reculed was knocked over a ridge and fell into a valley below. While he frantically scrambled up the hill, the sorcerers concentrated their power on Delendar. The mighty Magus stood firm, his beard and robes blowing in the mystical winds that assaulted him. All around, enchantments and creatures disappeared without sound. Even the sorcerers that beset him, the best on the peninsula, were not safe from Delendar's destructive magic.
+In 730, Delendar and his young student became involved in a battle between Christian and Islamic forces, waged in the foothills of the Pyrenees. The meager Christian force, bolstered by the magic of the Magi, held off the Islamic forces for several days. The Christians and wizards were entrenched in a cave, planning their counter-attack. They did not hope to win the day but hoped to break Islamic lines to join their fellows some distance to the west. As they mounted their attack, the wizards struck a series of decisive blows and a gap appeared in Islamic lines. The Christians poured through and on to freedom. The two wizards, however, were not so lucky. Moslem sorcerers and their djinn fell upon the pair. They in turn were separated by the great breath of a djinn, and enchantments fell on them with such rapidity that they could not regain their ground. Reculed was knocked over a ridge and fell into a valley below. While he frantically scrambled up the hill, the sorcerers concentrated their power on Delendar. The mighty Magus stood firm, his beard and robes blowing in the mystical winds that assaulted him. All around, enchantments and creatures disappeared without sound. Even the sorcerers that beset him, the best on the peninsula, were not safe from Delendar’s destructive magic.
 
-Before long, however, the sheer number of Moslem sorcerers overwhelmed Delendar. The sorcerers pummeled him, draining his vitality, finally taking his life. Reculed regained the top of the hill in time to see his master torn asunder by magical winds. His rage, funnelled through the powerful magic he was taught by Delendar, served as the agent of Reculed's revenge. Only the most powerful and quick-thinking of the Islamic sorcerers escaped his wrath. In a few short minutes Reculed stood alone on the wind-blown hill, the crash of mighty magicks now silent as he stood over the broken body of his mentor.
+Before long, however, the sheer number of Moslem sorcerers overwhelmed Delendar. The sorcerers pummeled him, draining his vitality, finally taking his life. Reculed regained the top of the hill in time to see his master torn asunder by magical winds. His rage, funnelled through the powerful magic he was taught by Delendar, served as the agent of Reculed’s revenge. Only the most powerful and quick-thinking of the Islamic sorcerers escaped his wrath. In a few short minutes Reculed stood alone on the wind-blown hill, the crash of mighty magicks now silent as he stood over the broken body of his mentor.
 
 ### Flambeau Among the Franks
 
-Some say Reculed's spirit was broken that day, that he could no longer bring himself to fight after the death of his master. Those that have been trained in his tradition, however, tell a different story. As he stood on that hill, they say, he felt two types of grief. He felt the grief of a son for the death of a father, but also felt the despair of a general who had seen a prime legion decimated. The war was not lost but never again would a fighter like this one walk the land. No matter what the young wizard thought, he left Iberia and crossed the Pyrenees into the lands of the Franks. While living among these fierce people, he took to using the name Flambeau, reflecting his preference for fire magicks.
+Some say Reculed’s spirit was broken that day, that he could no longer bring himself to fight after the death of his master. Those that have been trained in his tradition, however, tell a different story. As he stood on that hill, they say, he felt two types of grief. He felt the grief of a son for the death of a father, but also felt the despair of a general who had seen a prime legion decimated. The war was not lost but never again would a fighter like this one walk the land. No matter what the young wizard thought, he left Iberia and crossed the Pyrenees into the lands of the Franks. While living among these fierce people, he took to using the name Flambeau, reflecting his preference for fire magicks.
 
-<!-- p. 35 -->
+<!-- p. 35 --><a id="page-35"></a>
 
-Life north of the Pyrenees did not end Flambeau's battles against invading Moslems. When they, too, crossed the rugged Pyrenees, Flambeau met them in battle. At the turning point of the Moslem invasion — the battle of Tours — Flambeau made a telling contribution to the fight. Moslem texts tell of Frankish forces led by Charles Martel meeting the invaders in a valley some distance from Tours. When the Moslems ordered an all-out attack, the Franks formed a hollow square and stood as firm and inflexible as a wall of ice. From within this redoubt their archers were able to deliver severe blows to the Moslem cavalry. Flambeau's magic bound the warriors of the Frankish force into their defensive positions. With the added strength of magic, the lines held against the invaders' assault and the Franks carried the day.
+Life north of the Pyrenees did not end Flambeau’s battles against invading Moslems. When they, too, crossed the rugged Pyrenees, Flambeau met them in battle. At the turning point of the Moslem invasion — the battle of Tours — Flambeau made a telling contribution to the fight. Moslem texts tell of Frankish forces led by Charles Martel meeting the invaders in a valley some distance from Tours. When the Moslems ordered an all-out attack, the Franks formed a hollow square and stood as firm and inflexible as a wall of ice. From within this redoubt their archers were able to deliver severe blows to the Moslem cavalry. Flambeau’s magic bound the warriors of the Frankish force into their defensive positions. With the added strength of magic, the lines held against the invaders' assault and the Franks carried the day.
 
-Flambeau lived well among the barbarian Franks. Their fiery temperament and love of battle matched his own predilections. Among the Franks, Flambeau gained more experience on the battlefield, and even commanded a band of mercenaries for a season. But the mundane desires and demands of a warrior's life soon dragged on Flambeau's spirit. He set out on his own with that knowledge he had gained in warfare. The death of his master still hung heavy on Flambeau's heart and he worked toward avenging himself upon the sorcerers who had slain his lord.
+Flambeau lived well among the barbarian Franks. Their fiery temperament and love of battle matched his own predilections. Among the Franks, Flambeau gained more experience on the battlefield, and even commanded a band of mercenaries for a season. But the mundane desires and demands of a warrior’s life soon dragged on Flambeau’s spirit. He set out on his own with that knowledge he had gained in warfare. The death of his master still hung heavy on Flambeau’s heart and he worked toward avenging himself upon the sorcerers who had slain his lord.
 
-Knowing that his skills were, as yet, unequal to the task of directly opposing Islamic sorcerers, Flambeau set out to hone them against opponents in Mythic Europe. While some say he hunted and slew over fifty wizards across Mythic Europe, just for the challenge, Flambeau's followers know he was testing and sharpening his skills in preparation for the day that he would challenge those who had slain Delendar. It was during this period of preparation that Flambeau was contacted by Trianoma and was told of her idea for the Order of Hermes.
+Knowing that his skills were, as yet, unequal to the task of directly opposing Islamic sorcerers, Flambeau set out to hone them against opponents in Mythic Europe. While some say he hunted and slew over fifty wizards across Mythic Europe, just for the challenge, Flambeau’s followers know he was testing and sharpening his skills in preparation for the day that he would challenge those who had slain Delendar. It was during this period of preparation that Flambeau was contacted by Trianoma and was told of her idea for the Order of Hermes.
 
 ### Flambeau at the Founding
 
-Flambeau was skeptical upon first hearing of the nascent Order. His only contact with wizards other than his master had been in competition. He did not see how trust could be developed among the disparate traditions of Mythic Europe's wizards. Trianoma persevered and, after a particularly annoying interview, had the opportunity to demonstrate the power of the *Parma Magica*, as developed by Bonisagus. Seeing his spell blunted by the mystical shield that protected Trianoma, Flambeau believed in the possibility of an order. Of course, he still had doubts and chafed at Trianoma's talk of a code of conduct, being protective and proud of his independence. But, in gatherings with the other founders at Durenmar, Flambeau found kindred spirits among them. Tytalus's love of battle and Tremere's ideas of structure fit well with Flambeau's plans for the Order's development. The pressure of these three, and the threat posed by Flambeau in particular, assured the inclusion of provisions for legalized Wizard's War within the Code. Flambeau feared that Islamic sorcerers might hear of the Order and, fearing his retribution, swear to the Code to escape his revenge.
+Flambeau was skeptical upon first hearing of the nascent Order. His only contact with wizards other than his master had been in competition. He did not see how trust could be developed among the disparate traditions of Mythic Europe’s wizards. Trianoma persevered and, after a particularly annoying interview, had the opportunity to demonstrate the power of the *Parma Magica*, as developed by Bonisagus. Seeing his spell blunted by the mystical shield that protected Trianoma, Flambeau believed in the possibility of an order. Of course, he still had doubts and chafed at Trianoma’s talk of a code of conduct, being protective and proud of his independence. But, in gatherings with the other founders at Durenmar, Flambeau found kindred spirits among them. Tytalus’s love of battle and Tremere’s ideas of structure fit well with Flambeau’s plans for the Order’s development. The pressure of these three, and the threat posed by Flambeau in particular, assured the inclusion of provisions for legalized Wizard’s War within the Code. Flambeau feared that Islamic sorcerers might hear of the Order and, fearing his retribution, swear to the Code to escape his revenge.
 
-Once the Order of Hermes was formed in 767, Flambeau set out to regain his family's ancestral lands and to avenge the death of his teacher. When it became clear that the other founders would not join him, he set out to train apprentices. His first was Apromor, who preferred the arts of destruction to his master's taste for fire. Flambeau taught his apprentice in the manner that he had been taught, upon the battlefield. The pair scoured the breadth of Mythic Europe for hedge wizards and sorcerers that had not joined the Order of Hermes. While many of these minor spell casters joined upon hearing from its formidable "ambassadors," others held proudly to their traditions and died at the hands of Flambeau, his apprentice, or other founders.
+Once the Order of Hermes was formed in 767, Flambeau set out to regain his family’s ancestral lands and to avenge the death of his teacher. When it became clear that the other founders would not join him, he set out to train apprentices. His first was Apromor, who preferred the arts of destruction to his master’s taste for fire. Flambeau taught his apprentice in the manner that he had been taught, upon the battlefield. The pair scoured the breadth of Mythic Europe for hedge wizards and sorcerers that had not joined the Order of Hermes. While many of these minor spell casters joined upon hearing from its formidable "ambassadors," others held proudly to their traditions and died at the hands of Flambeau, his apprentice, or other founders.
 
-After five years of effort, Flambeau realized he could not form the army of powerful Magi he needed to vanquish all of Islam's sorcerers. Furthermore, foes to test his apprentices against were growing few and far between. Though Apromor advanced quickly in his studies, Flambeau knew he himself could never replace the fallen Delendar. Flambeau examined his surroundings to find a solution. The sanctuary of Bonisagus, at Durenmar, drew his attention. There the magical genius behind *Parma Magica* was systematically schooling apprentices in his theory of magic. Taking this as a cue, Flambeau gathered his apprentices and some young, excitable Magi from other Houses and set out for the Pyrenees. There he searched for a place of power, where his Magi could learn not only from Bonisagus's theory but from their environment as well. Flambeau realized that if truly powerful Magi could not be raised, then many of lesser power could. Flambeau found a suitable place in a high river valley and there founded the Covenant of Val-Negra. From this perch Flambeau hoped to strike out against the invading Moslems and destroy them once and for all.
+After five years of effort, Flambeau realized he could not form the army of powerful Magi he needed to vanquish all of Islam’s sorcerers. Furthermore, foes to test his apprentices against were growing few and far between. Though Apromor advanced quickly in his studies, Flambeau knew he himself could never replace the fallen Delendar. Flambeau examined his surroundings to find a solution. The sanctuary of Bonisagus, at Durenmar, drew his attention. There the magical genius behind *Parma Magica* was systematically schooling apprentices in his theory of magic. Taking this as a cue, Flambeau gathered his apprentices and some young, excitable Magi from other Houses and set out for the Pyrenees. There he searched for a place of power, where his Magi could learn not only from Bonisagus’s theory but from their environment as well. Flambeau realized that if truly powerful Magi could not be raised, then many of lesser power could. Flambeau found a suitable place in a high river valley and there founded the Covenant of Val-Negra. From this perch Flambeau hoped to strike out against the invading Moslems and destroy them once and for all.
 
-### Flambeau's Death
+### Flambeau’s Death
 
 After the founding of Val-Negra, Flambeau endured many frustrations in his plan to destroy Islamic invaders in his home country. He constantly battled Guernicus and the other early Quaesitoris, who said his aid of Christian forces in Iberia was in direct violation of the Code to which he had sworn. Flambeau was not often given to arguing, instead following a policy of listening to and then ignoring others' imperious commands. When he did argue with the Quaesitoris he pointed out that he took the Code to mean that any interference in mundane affairs should not bring ruin upon others of the Order. He would then point out that charred Moslems only ruined the air about them, having no effect upon the Order. The Quaesitoris were not suitably impressed and, backed by the leaders of other Houses, officially decreed that Flambeau should abandon overt support of Christians in Iberia. Flambeau, not to be denied his revenge, continued his support but learned the difficult lesson of hiding his actions from the Quaesitoris.
 
-Flambeau's best chance to regain his stolen ancestral lands came late in the 8th century. The leaders of several states, led by the governor of Barcelona, invited Emperor Charlemagne to enter their country and stop the advances of 'Abd-al-Rahmān I. Flambeau heard of the impending campaign and made plans to join Charlemagne's army. The Quaesitoris heard of the campaign as well and, knowing Flambeau's feelings on the subject, sent him a letter informing him that a delegation of Quaesitoris would be staying at Val-Negra during the summer of 777, ostensibly to add copies of the Peripheral Code to the Covenant's library. Unable to participate in the attack himself, Flambeau sent some of his best *filia* to join Charlemagne's force, spending his own time "entertaining" the Quaesitor delegation. When, later that winter, Flambeau learned of the Christians' failure at Saragossa and of Charlemagne's retreat from Iberia, the Magus's fury knew no bounds. The Magi he had sent described the magic of Islamic sorcerers, how they prevented a sustained attack upon the city. Flambeau blamed himself for the defeat and, in his rage, probably would have killed his apprentices if he had not been daily reminded of the Code's tenants.
+Flambeau’s best chance to regain his stolen ancestral lands came late in the 8th century. The leaders of several states, led by the governor of Barcelona, invited Emperor Charlemagne to enter their country and stop the advances of 'Abd-al-Rahmān I. Flambeau heard of the impending campaign and made plans to join Charlemagne’s army. The Quaesitoris heard of the campaign as well and, knowing Flambeau’s feelings on the subject, sent him a letter informing him that a delegation of Quaesitoris would be staying at Val-Negra during the summer of 777, ostensibly to add copies of the Peripheral Code to the Covenant’s library. Unable to participate in the attack himself, Flambeau sent some of his best *filia* to join Charlemagne’s force, spending his own time "entertaining" the Quaesitor delegation. When, later that winter, Flambeau learned of the Christians' failure at Saragossa and of Charlemagne’s retreat from Iberia, the Magus’s fury knew no bounds. The Magi he had sent described the magic of Islamic sorcerers, how they prevented a sustained attack upon the city. Flambeau blamed himself for the defeat and, in his rage, probably would have killed his apprentices if he had not been daily reminded of the Code’s tenants.
 
-<!-- p. 36 -->
+<!-- p. 36 --><a id="page-36"></a>
 
-In 788, upon hearing of 'Abd-al-Rahmān's death, Flambeau finally set out to have his revenge. Ironically, the Quaesitoris could find no fault in Flambeau's actions. Hermetic Magi that lived within lands controlled by 'Abd-al-Rahmān defied the Order of Hermes, and presented a threat to all Iberia. Flambeau gathered a select group about him, drew heavily from Val-Negra's stores of *vis*, and went south. With the Moslems in political disorder, Flambeau found little difficulty in convincing Christian leaders to mount an offensive.
+In 788, upon hearing of 'Abd-al-Rahmān’s death, Flambeau finally set out to have his revenge. Ironically, the Quaesitoris could find no fault in Flambeau’s actions. Hermetic Magi that lived within lands controlled by 'Abd-al-Rahmān defied the Order of Hermes, and presented a threat to all Iberia. Flambeau gathered a select group about him, drew heavily from Val-Negra’s stores of *vis*, and went south. With the Moslems in political disorder, Flambeau found little difficulty in convincing Christian leaders to mount an offensive.
 
-The army to which Flambeau attached himself faced little resistance until they were in Iberia's deep south. In the mountains of the central plateau, they met their first strong patrol. Flambeau's force easily defeated the Moslems and he made sure that some cavalry escaped, to bring word of his magic to their superiors. Within two weeks Flambeau got his wish. A strong force of Arabs, accompanied by a sorcerous contingent, met the Christian army in a wide valley. Unfortunately, Flambeau had not chosen his mundane allies wisely. At the prospect of opposing magicks, half the force fled the field. While Flambeau and his fellows easily handled the Islamic sorcerers' magicks, the Moslem armies pressed dangerously close and the Magi were forced to retreat. The remains of the force took refuge in a tower in a mountain pass.
+The army to which Flambeau attached himself faced little resistance until they were in Iberia’s deep south. In the mountains of the central plateau, they met their first strong patrol. Flambeau’s force easily defeated the Moslems and he made sure that some cavalry escaped, to bring word of his magic to their superiors. Within two weeks Flambeau got his wish. A strong force of Arabs, accompanied by a sorcerous contingent, met the Christian army in a wide valley. Unfortunately, Flambeau had not chosen his mundane allies wisely. At the prospect of opposing magicks, half the force fled the field. While Flambeau and his fellows easily handled the Islamic sorcerers' magicks, the Moslem armies pressed dangerously close and the Magi were forced to retreat. The remains of the force took refuge in a tower in a mountain pass.
 
-At the tower, Flambeau positioned his infantry a short distance away and assigned one of his three remaining followers to support them. The troops were to hold mundane forces at bay while Flambeau and the others prepared for the onslaught of magic expected from Moslem sorcerers. They had not long to wait. The pursuing Moslems poured into the valley and formed their lines some distance from Flambeau's defense. The Islamic sorcerers began their enchantments and called upon the services of their enslaved djinn. Storm clouds rolled over the mountain tops and wind began to howl through the valley. With the thunder of the storm echoing the thunder of their great drums, the Moslems rode on the attack.
+At the tower, Flambeau positioned his infantry a short distance away and assigned one of his three remaining followers to support them. The troops were to hold mundane forces at bay while Flambeau and the others prepared for the onslaught of magic expected from Moslem sorcerers. They had not long to wait. The pursuing Moslems poured into the valley and formed their lines some distance from Flambeau’s defense. The Islamic sorcerers began their enchantments and called upon the services of their enslaved djinn. Storm clouds rolled over the mountain tops and wind began to howl through the valley. With the thunder of the storm echoing the thunder of their great drums, the Moslems rode on the attack.
 
-Blasts of fire struck the Moslem lines as Flambeau's minions struck from the top of the tower. Moslem sorcerers whipped winds around those on the tower, demanding the Magi's attention. Moslem soldiers quickly recovered and renewed their assault. They charged and were repulsed by force of arms and magic. Methodically, the units reformed and charged, again and again, each time gaining a small amount of ground as Christian defenders fell back.
+Blasts of fire struck the Moslem lines as Flambeau’s minions struck from the top of the tower. Moslem sorcerers whipped winds around those on the tower, demanding the Magi’s attention. Moslem soldiers quickly recovered and renewed their assault. They charged and were repulsed by force of arms and magic. Methodically, the units reformed and charged, again and again, each time gaining a small amount of ground as Christian defenders fell back.
 
-Meanwhile, the battle of magic had begun in earnest. While djinn harried Flambeau and his followers, they retaliated with fire and destruction, the storm growing all the while. Suddenly one of Flambeau's Magi was cast off the tower by attacking djinn, leaving Flambeau's right flank open. The surviving Magi moved back to back for protection. The younger Magus was seized by a powerful djinn. Flambeau magically flailed at the mighty spirit, but it tore his follower asunder and scattered the remains to the wind.
+Meanwhile, the battle of magic had begun in earnest. While djinn harried Flambeau and his followers, they retaliated with fire and destruction, the storm growing all the while. Suddenly one of Flambeau’s Magi was cast off the tower by attacking djinn, leaving Flambeau’s right flank open. The surviving Magi moved back to back for protection. The younger Magus was seized by a powerful djinn. Flambeau magically flailed at the mighty spirit, but it tore his follower asunder and scattered the remains to the wind.
 
 On the ground below the defending mundane forces were hard pressed. They had taken severe losses and the magical pressures weighing on the Magus supporting them were far beyond his ability. The few defenders left were forced against the tower. Flambeau looked over the valley and saw himself alone against the sorcerers and warriors that remained. In despair and anger he struck out, brilliant bolts of flame filling the valley, many foes falling before his wrath. As just one Magus, however, Flambeau could not contain them all.
 
-Lightning from the storm, directed by sorcerers across the valley, began to strike Flambeau. He fought back with fire and stood firm, protected by his *Parma Magica*. Seeing the lack of effect their spells had, the sorcerers switched targets and attacked the tower itself. Powerful bolts struck the edifice, shaking it to its foundations. Thunder rolled and cracked through the valley as the tower began to tremble and sway. The defenders at its base made a last attempt to save themselves, running toward the valley floor. Sensing his imminent destruction, Flambeau gathered his remaining vis and prepared his final spell. As the tower fell, Flambeau's voice echoed through the valley, the clouds of the storm broke and sunlight filled the valley. The collapsing tower roared a last peal of thunder and raised a wave of dust as it fell to the ground. In its wake silence reigned.
+Lightning from the storm, directed by sorcerers across the valley, began to strike Flambeau. He fought back with fire and stood firm, protected by his *Parma Magica*. Seeing the lack of effect their spells had, the sorcerers switched targets and attacked the tower itself. Powerful bolts struck the edifice, shaking it to its foundations. Thunder rolled and cracked through the valley as the tower began to tremble and sway. The defenders at its base made a last attempt to save themselves, running toward the valley floor. Sensing his imminent destruction, Flambeau gathered his remaining vis and prepared his final spell. As the tower fell, Flambeau’s voice echoed through the valley, the clouds of the storm broke and sunlight filled the valley. The collapsing tower roared a last peal of thunder and raised a wave of dust as it fell to the ground. In its wake silence reigned.
 
-<!-- p. 37 -->
+<!-- p. 37 --><a id="page-37"></a>
 
-Delendos, the Magus set to protect mundane forces on the ground, crawled from the ruins to find no other living creature in the valley. Beaten, burned and broken, he hobbled back to Val-Negra. There he told of Flambeau's demise. An expedition was formed to investigate the site. They found the ruined tower and other things described by Delendos. Of Flambeau they could find nothing. Both mundane and magical searches turned up no trace of the fiery founder. The pass still holds the ruins of the tower and they are attraction for individual members of House Flambeau who seek inspiration before a coming battle.
+Delendos, the Magus set to protect mundane forces on the ground, crawled from the ruins to find no other living creature in the valley. Beaten, burned and broken, he hobbled back to Val-Negra. There he told of Flambeau’s demise. An expedition was formed to investigate the site. They found the ruined tower and other things described by Delendos. Of Flambeau they could find nothing. Both mundane and magical searches turned up no trace of the fiery founder. The pass still holds the ruins of the tower and they are attraction for individual members of House Flambeau who seek inspiration before a coming battle.
 
-Flambeau's last spell, as described by his *filius* Delendos, has become something of a legend within the Order, especially among members of House Flambeau. Some followers of Flambeau habitually carry enormous amounts of vis, sometimes as much as three rooks, to be used in such a final, all-consuming spell. The device typically used to store this *vis* has come to be known by Flambeau Magi as the *fons et origo*. In a rare insight among followers of Flambeau, this means "source and origin." The amount of vis, and the fact that the Magus using it is typically fatigued, virtually guarantees that the force of the magic used will overcome the caster. The Magus typically uses this vis as a last strike at enemies, when all else seems lost.
+Flambeau’s last spell, as described by his *filius* Delendos, has become something of a legend within the Order, especially among members of House Flambeau. Some followers of Flambeau habitually carry enormous amounts of vis, sometimes as much as three rooks, to be used in such a final, all-consuming spell. The device typically used to store this *vis* has come to be known by Flambeau Magi as the *fons et origo*. In a rare insight among followers of Flambeau, this means "source and origin." The amount of vis, and the fact that the Magus using it is typically fatigued, virtually guarantees that the force of the magic used will overcome the caster. The Magus typically uses this vis as a last strike at enemies, when all else seems lost.
 
 ## The Early Order of Hermes
 
@@ -917,69 +796,69 @@ During this period of shuffling borders and poor leadership, many young Magi mig
 
 ### Descent into Schism
 
-As a result of the Order's political decay in the 9th century and in beginning of the 10th, Wizard's Wars became popular. Without constant threat of reprimand, old rivalries flared up and new ones broke out. Like adolescents testing their restrictions, young Magi pushed their elders. They often died in the conflicts they provoked and many promising Magi fell to the sin of pride. The Iberian Tribunal, with a large population of Flambeau, was particularly plagued by Wizard's Wars. The Quaesitoris in Iberia began to restrict Wizard's Wars and regulated their conduct. They passed measures restricting Wizard's Wars to certain seasons, and allowing Magi receiving notice of a War to refuse participation, appealing instead for intervention from the Quaesitoris (the last policy being implemented Order-wide). These restrictions were enforced by a strict cadre of Quaesitoris operating within the Tribunal.
+As a result of the Order’s political decay in the 9th century and in beginning of the 10th, Wizard’s Wars became popular. Without constant threat of reprimand, old rivalries flared up and new ones broke out. Like adolescents testing their restrictions, young Magi pushed their elders. They often died in the conflicts they provoked and many promising Magi fell to the sin of pride. The Iberian Tribunal, with a large population of Flambeau, was particularly plagued by Wizard’s Wars. The Quaesitoris in Iberia began to restrict Wizard’s Wars and regulated their conduct. They passed measures restricting Wizard’s Wars to certain seasons, and allowing Magi receiving notice of a War to refuse participation, appealing instead for intervention from the Quaesitoris (the last policy being implemented Order-wide). These restrictions were enforced by a strict cadre of Quaesitoris operating within the Tribunal.
 
-When scrolls were uncovered at Duresca Covenant in 937, revealing a plot by the founder of House Quaesitor to take control of the Order and use it as a tool to govern the world, outrage rippled through the Order. Iberia, in the center of the conflict, suffered most. Members of House Flambeau, and others chafing under the restrictive rules of the Quaesitoris, began to disregard the judiciaries' directives, especially in regard to Wizard's War. House Quaesitor dispatched several members to Duresca to investigate the scrolls and determine their authenticity. Of the eight Quaesitoris sent to Duresca, only five arrived. They included Quaesitor members of Houses Flambeau, Tytalus, Jerbiton, and two of House Guernicus. The other three died *en route* to the Covenant but the manner of their deaths was never discovered.
+When scrolls were uncovered at Duresca Covenant in 937, revealing a plot by the founder of House Quaesitor to take control of the Order and use it as a tool to govern the world, outrage rippled through the Order. Iberia, in the center of the conflict, suffered most. Members of House Flambeau, and others chafing under the restrictive rules of the Quaesitoris, began to disregard the judiciaries' directives, especially in regard to Wizard’s War. House Quaesitor dispatched several members to Duresca to investigate the scrolls and determine their authenticity. Of the eight Quaesitoris sent to Duresca, only five arrived. They included Quaesitor members of Houses Flambeau, Tytalus, Jerbiton, and two of House Guernicus. The other three died *en route* to the Covenant but the manner of their deaths was never discovered.
 
-<!-- p. 38 -->
+<!-- p. 38 --><a id="page-38"></a>
 
-The surviving Magi studied the scrolls and limited their distribution for the next three years. At a special Tribunal the evidence of the investigating Quaesitoris was presented and the scrolls were declared fraudulent. Many have complained that the Quaesitoris and the Praeco of the Iberian Tribunal acted in concert, to silence fighting factions. The original scrolls have since been destroyed but unofficial copies remain hidden in some Covenants, and may yet again shake the foundations of the Order. The issue of the scrolls served to not only breed mistrust between Magi in the Order, but also undermined the authority of the Quaesitoris, and generated some hostility toward the Iberian Tribunal. Indeed, some members of Houses Tremere and Tytalus, whether in the Iberian Tribunal or not, still view Iberia's leaders with suspicion.
+The surviving Magi studied the scrolls and limited their distribution for the next three years. At a special Tribunal the evidence of the investigating Quaesitoris was presented and the scrolls were declared fraudulent. Many have complained that the Quaesitoris and the Praeco of the Iberian Tribunal acted in concert, to silence fighting factions. The original scrolls have since been destroyed but unofficial copies remain hidden in some Covenants, and may yet again shake the foundations of the Order. The issue of the scrolls served to not only breed mistrust between Magi in the Order, but also undermined the authority of the Quaesitoris, and generated some hostility toward the Iberian Tribunal. Indeed, some members of Houses Tremere and Tytalus, whether in the Iberian Tribunal or not, still view Iberia’s leaders with suspicion.
 
-The Quaesitoris that came to investigate the Duresca scrolls stayed on in that Covenant. They eventually assumed membership and invited other members of their House to join. Duresca's turb of Grogs was expanded and some were even replaced with those from other Covenants, loyal to Quaesitoris. Original members of the Covenant were allowed to remain but their *filii* were frequently sent on dangerous missions; many decided to move to other Covenants. Over the course of several decades, the Quaesitoris came to dominate Duresca. The Covenant now serves as the center of House Quaesitor in the Iberian Tribunal (see *Duresca* in Chapter Five). The Covenant's tendency toward manipulation and intrigue only justifies Tribunal wariness of Iberian Quaesitoris. Some Magi whisper that the Quaesitoris of Duresca actually guard some terrible truth.
+The Quaesitoris that came to investigate the Duresca scrolls stayed on in that Covenant. They eventually assumed membership and invited other members of their House to join. Duresca’s turb of Grogs was expanded and some were even replaced with those from other Covenants, loyal to Quaesitoris. Original members of the Covenant were allowed to remain but their *filii* were frequently sent on dangerous missions; many decided to move to other Covenants. Over the course of several decades, the Quaesitoris came to dominate Duresca. The Covenant now serves as the center of House Quaesitor in the Iberian Tribunal (see *Duresca* in Chapter Five). The Covenant’s tendency toward manipulation and intrigue only justifies Tribunal wariness of Iberian Quaesitoris. Some Magi whisper that the Quaesitoris of Duresca actually guard some terrible truth.
 
-When, in the Schism War, House Tremere declared Wizard's War on all of House Díedne, the Quaesitoris backed them by Renouncing House Díedne. The Quaesitoris, including those of Iberia, were desperate to regain hold of the Order's laws (but maybe desperate to draw attention from themselves as well). House Flambeau and other scattered Magi joined House Tremere in the war against Díedne. Some of Díedne's strongest Covenants were located in the northwestern part of Iberia, primarily in Galicia. Given that many Flambeau Magi were already located in Iberia, fighting the Moslems, it's not surprising that Flambeau were largely responsible for the destruction of Spain's Díedne wizards. If any single action jeopardized the Christian reconquest of Iberian lands, it may have been the Schism War, for Magus in-fighting actually undermined the Christian offensive; Christian Magi and peasants were killed, and Moslem sorcerers were allowed opportunity to galvanize their defenses.
+When, in the Schism War, House Tremere declared Wizard’s War on all of House Díedne, the Quaesitoris backed them by Renouncing House Díedne. The Quaesitoris, including those of Iberia, were desperate to regain hold of the Order’s laws (but maybe desperate to draw attention from themselves as well). House Flambeau and other scattered Magi joined House Tremere in the war against Díedne. Some of Díedne’s strongest Covenants were located in the northwestern part of Iberia, primarily in Galicia. Given that many Flambeau Magi were already located in Iberia, fighting the Moslems, it’s not surprising that Flambeau were largely responsible for the destruction of Spain’s Díedne wizards. If any single action jeopardized the Christian reconquest of Iberian lands, it may have been the Schism War, for Magus in-fighting actually undermined the Christian offensive; Christian Magi and peasants were killed, and Moslem sorcerers were allowed opportunity to galvanize their defenses.
 
-What Díedne wizards of Iberia survived the war cannot be said. Certainly many were killed, but more powerful members in Iberia disappeared, as the House's leaders did. If the Díedne ever rise again, their vengeance on the Order may prove particularly harsh in Iberia, where the violent Flambeau still reside in some numbers. What effect a Díedne resurgence might have on the success of the Reconquista is another unanswerable question. It's assured that the Díedne would care little for the mundanes' war, so would exact revenge without consideration for political ramifications.
+What Díedne wizards of Iberia survived the war cannot be said. Certainly many were killed, but more powerful members in Iberia disappeared, as the House’s leaders did. If the Díedne ever rise again, their vengeance on the Order may prove particularly harsh in Iberia, where the violent Flambeau still reside in some numbers. What effect a Díedne resurgence might have on the success of the Reconquista is another unanswerable question. It’s assured that the Díedne would care little for the mundanes' war, so would exact revenge without consideration for political ramifications.
 
-<!-- p. 39 -->
+<!-- p. 39 --><a id="page-39"></a>
 
 ### After the Schism
 
-In a backlash against the violence of the Schism War, the Quaesitoris, now backed by the power of Houses Tremere and Flambeau, slowly began to move the Order toward peace. Many young Magi, disillusioned by the actions of their *parens* and *parens's* contemporaries, set out to found Covenants of their own. House Jerbiton came to the forefront of Hermetic politics at this time. Their connections to mortal powers aided the Order's attempts to sooth the mundane populace, especially after the Schism's blatant use of mystical force. Relations with monasteries were also carefully cultivated and nurtured by Magi of Jerbiton. The Covenant of Barcelona was founded at this time, after the ruins of a Roman temple of Mercury were found within the city. Two followers of Jerbiton quickly secured title to the land.
+In a backlash against the violence of the Schism War, the Quaesitoris, now backed by the power of Houses Tremere and Flambeau, slowly began to move the Order toward peace. Many young Magi, disillusioned by the actions of their *parens* and *parens’s* contemporaries, set out to found Covenants of their own. House Jerbiton came to the forefront of Hermetic politics at this time. Their connections to mortal powers aided the Order’s attempts to sooth the mundane populace, especially after the Schism’s blatant use of mystical force. Relations with monasteries were also carefully cultivated and nurtured by Magi of Jerbiton. The Covenant of Barcelona was founded at this time, after the ruins of a Roman temple of Mercury were found within the city. Two followers of Jerbiton quickly secured title to the land.
 
 Construction of the Covenant, and the inn used to disguise it, was finished in 1014. The Magi who founded the Covenant invited others to visit and experience the culture blossoming in their fair city. However, the founders also learned the necessity of secrecy when operating in the city, so restricted their invitations to Magi they could trust.
 
-Shortly after its founding, the Covenant of Barcelona found itself in conflict with a sorcerous organization within the city. The Kabbalah, a Jewish mystical sect previously unknown to the Order of Hermes, objected to some of the Magi's actions, claiming they endangered the welfare of the Kabbalah and the rest of the Jewish population. Local Christians were more than willing to blame any seemingly diabolic activity on the Jews and the Magi's activities sparked retribution against the Jewish community. Though the conflict initially flared (at one point the Magi of Barcelona and members of the Kabbalah engaged in a mystic battle in the streets of the city), cooler heads prevailed. Reminded of the destruction of the recent Schism War, the Magi of Barcelona made peace with the Kabbalists. In 1018, they escorted representatives of the Kabbalah to Tribunal and successfully negotiated a pact of non-interference between the Order and the Jews. This pact marks the first time that the Order of Hermes chose to live with non-Hermetic wizards. Earlier, any such wizards would have been assimilated or destroyed.
+Shortly after its founding, the Covenant of Barcelona found itself in conflict with a sorcerous organization within the city. The Kabbalah, a Jewish mystical sect previously unknown to the Order of Hermes, objected to some of the Magi’s actions, claiming they endangered the welfare of the Kabbalah and the rest of the Jewish population. Local Christians were more than willing to blame any seemingly diabolic activity on the Jews and the Magi’s activities sparked retribution against the Jewish community. Though the conflict initially flared (at one point the Magi of Barcelona and members of the Kabbalah engaged in a mystic battle in the streets of the city), cooler heads prevailed. Reminded of the destruction of the recent Schism War, the Magi of Barcelona made peace with the Kabbalists. In 1018, they escorted representatives of the Kabbalah to Tribunal and successfully negotiated a pact of non-interference between the Order and the Jews. This pact marks the first time that the Order of Hermes chose to live with non-Hermetic wizards. Earlier, any such wizards would have been assimilated or destroyed.
 
 Though the Covenant of Barcelona had a small membership (only eight Magi at its most crowded) it began to build great influence within the Iberian Tribunal. The city of Barcelona had great resources of knowledge and had access to the trade routes of the Mediterranean. Trading these resources for favors and cultivating close ties with Iberian Quaesitoris, Barcelona earned political power that far outstripped its membership. Magi of House Jerbiton that did not wish to live with the secrecy of an urban Covenant established Covenants in nearby areas. This allowed them to visit the fair city and still maintain freedom from the restrictions that Magi of Barcelona imposed. House Jerbiton eventually became the most populous House in the lands of the Aragon-Catalan crown.
 
-In time, Magi belonging to Houses other than Jerbiton and Covenants other than Barcelona became jealous of Aragon-Catalan Magi. They threatened to come to Barcelona and take what they wanted of the city, in spite of the Covenant's objections. In Tribunal they also claimed that the Covenant of Barcelona, by being located within a mundane city, was violating the Code of Hermes and unduly meddling in the affairs of mortals. The Magi of Barcelona, in response, objected to Magi entering their city without proper safeguards of secrecy and subtlety.
+In time, Magi belonging to Houses other than Jerbiton and Covenants other than Barcelona became jealous of Aragon-Catalan Magi. They threatened to come to Barcelona and take what they wanted of the city, in spite of the Covenant’s objections. In Tribunal they also claimed that the Covenant of Barcelona, by being located within a mundane city, was violating the Code of Hermes and unduly meddling in the affairs of mortals. The Magi of Barcelona, in response, objected to Magi entering their city without proper safeguards of secrecy and subtlety.
 
-This issue came to a head at the Val-Negra Tribunal of 1072. In arguments that lasted for several hours, representatives of Barcelona detailed their mundane relations within the city, and detailed those actions of other Magi that they objected to in the city. Barcelona's enemies, in turn, argued that it was Barcelona's attempt to restrict access to the city's resources that necessitated objectionable actions from those who entered.
+This issue came to a head at the Val-Negra Tribunal of 1072. In arguments that lasted for several hours, representatives of Barcelona detailed their mundane relations within the city, and detailed those actions of other Magi that they objected to in the city. Barcelona’s enemies, in turn, argued that it was Barcelona’s attempt to restrict access to the city’s resources that necessitated objectionable actions from those who entered.
 
-In response to accusations of mundane interference, the Magi of Barcelona called for a reading of the Code, from the presiding Quaesitor. At the quotation of, *"Nor will I interfere with the affairs of mundanes and thereby bring ruin upon my sodalis,"* the Magi pointed out that the abjuration was to not bring ruin upon their *sodalis*. Indeed, Flambeau himself had used this interpretation to justify actions that were damaging to the Order, more damaging than mere attendance at parties and discussion of poetry with counts. The Magi of the Tribunal eventually agreed with the Barcelonan position and granted the Covenant jurisdiction over the city, and over all Magi that would enter it. In return the Covenant promised to keep peace between Magus and mortal, and to serve the Order's interests in the city. The Covenant has continued without formal opposition ever since.
+In response to accusations of mundane interference, the Magi of Barcelona called for a reading of the Code, from the presiding Quaesitor. At the quotation of, *"Nor will I interfere with the affairs of mundanes and thereby bring ruin upon my sodalis,"* the Magi pointed out that the abjuration was to not bring ruin upon their *sodalis*. Indeed, Flambeau himself had used this interpretation to justify actions that were damaging to the Order, more damaging than mere attendance at parties and discussion of poetry with counts. The Magi of the Tribunal eventually agreed with the Barcelonan position and granted the Covenant jurisdiction over the city, and over all Magi that would enter it. In return the Covenant promised to keep peace between Magus and mortal, and to serve the Order’s interests in the city. The Covenant has continued without formal opposition ever since.
 
 ### The Rise of Roman Covenants
 
-The confusion that reigned in the mundane world after the death of Ferdinand I of Castile in 1065 was reflected in the Order of Hermes. While Ferdinand's heirs squabbled over his legacy, the Magi of the Order fought among themselves. These battles were largely about involvement in mundane affairs. Magi of House Flambeau often argued among themselves over which mundane ruler to support against the Moslems. As Alfonso VI gained prominence in Castile, followers of Flambeau set aside their differences to aid him. Although they were limited in what support they could offer, the Magi were able to guarantee the delivery of Toledo into Alfonso's hands.
+The confusion that reigned in the mundane world after the death of Ferdinand I of Castile in 1065 was reflected in the Order of Hermes. While Ferdinand’s heirs squabbled over his legacy, the Magi of the Order fought among themselves. These battles were largely about involvement in mundane affairs. Magi of House Flambeau often argued among themselves over which mundane ruler to support against the Moslems. As Alfonso VI gained prominence in Castile, followers of Flambeau set aside their differences to aid him. Although they were limited in what support they could offer, the Magi were able to guarantee the delivery of Toledo into Alfonso’s hands.
 
 As the fundamentalist Almoravids stabilized the frontier, they initially brought a new intolerance to the lands of the Moslems. Many Islamic sorcerers were forced to flee the land subdued by these fanatical Mohammedans. The information they brought north with them was welcomed by some Magi and many Moslem sorcerers were accepted into the Order of Hermes. Magi of the Order did not escape the Almoravid invasion unscathed, though; some of the more southerly Covenants were destroyed. The actions and attitudes of these conquerors spawned widespread hatred among members of the Order. While House Flambeau remained in the forefront of opposition to the Moslems, they were no longer alone in the fight.
 
-<!-- p. 40 -->
+<!-- p. 40 --><a id="page-40"></a>
 
-Magi of House Flambeau redoubled their efforts to oust the Almoravid invaders, and were supported by sympathizers to their cause. Indeed, many Magi were loathe to report actions of House Flambeau against Moorish forces. Not only did sympathetic Magi covertly support House Flambeau's aims, they also feared retribution from the powerful House.
+Magi of House Flambeau redoubled their efforts to oust the Almoravid invaders, and were supported by sympathizers to their cause. Indeed, many Magi were loathe to report actions of House Flambeau against Moorish forces. Not only did sympathetic Magi covertly support House Flambeau’s aims, they also feared retribution from the powerful House.
 
-However, members of House Jerbiton and those Moslem sorcerers who had joined the Order were upset at the freedoms House Flambeau enjoyed with the Almoravid invasion. They took a longer view of the Iberian situation and recognized the culturing influence the peninsula was having upon the Almoravids, that outright war with them might not be necessary. With the support of House Jerbiton, the Grand Tribunal of 1096 sought to establish peace by redefining the boundaries of the Tribunals, placing Val-Negra within the Provençal Tribunal. This move limited House Flambeau's power within the Iberian Tribunal and effectively curtailed House Flambeau's interference in mundane affairs.
+However, members of House Jerbiton and those Moslem sorcerers who had joined the Order were upset at the freedoms House Flambeau enjoyed with the Almoravid invasion. They took a longer view of the Iberian situation and recognized the culturing influence the peninsula was having upon the Almoravids, that outright war with them might not be necessary. With the support of House Jerbiton, the Grand Tribunal of 1096 sought to establish peace by redefining the boundaries of the Tribunals, placing Val-Negra within the Provençal Tribunal. This move limited House Flambeau’s power within the Iberian Tribunal and effectively curtailed House Flambeau’s interference in mundane affairs.
 
 Though House Flambeau could not alter the decision of the Grand Tribunal, they did not fully respect it. Many members of Flambeau left Val-Negra to join Covenants in Iberia. Without the prestige and power of that elder Covenant, however, they did not wield the political power they had in the past. Many Flambeau Magi settled for venting their anger on a personal level. In particular, Moslem sorcerers who had joined the Order after fleeing the Almoravids were subjected to frequent attacks by members of House Flambeau. The violence of House Flambeau galvanized their opponents, in much the same way the initial intolerance of the Almoravids drew the Christian states out of their long slumber.
 
 ### Shades of the Schism
 
-The conflict between Iberia's Flambeau and those they opposed continued to escalate. Finally, in 1118, the two sides met in direct conflict. Magi of House Flambeau worked with the leaders of the Kingdom of Aragon, during the mundanes' attack on Saragossa. A few Moslem Hermetic Magi prepared to defend the city in order to preserve the library it contained. In the battle Flambeau Magi held the upper hand. The Moslem Magi's defensive efforts proved futile. Though no formal Wizard's War had been declared, the Moslem Hermetic Magi fell in the battle.
+The conflict between Iberia’s Flambeau and those they opposed continued to escalate. Finally, in 1118, the two sides met in direct conflict. Magi of House Flambeau worked with the leaders of the Kingdom of Aragon, during the mundanes' attack on Saragossa. A few Moslem Hermetic Magi prepared to defend the city in order to preserve the library it contained. In the battle Flambeau Magi held the upper hand. The Moslem Magi’s defensive efforts proved futile. Though no formal Wizard’s War had been declared, the Moslem Hermetic Magi fell in the battle.
 
-In the aftermath, many Magi of the Order expressed their outrage at the actions of Flambeau. A special Tribunal was called to deliver the Order's justice upon the Magi. Though the Code of Hermes specifically prohibits the killing of another member of the Order, the evidence against the Flambeau Magi was scant. In the end, no evidence could be produced that indicated Flambeau Magi were directly responsible for the death of Moslem Hermetic Magi at Saragossa. Advocates of the deceased Magi argued that the Code also forbade interference in mundane affairs, that which brought ruin upon others of the Order. The Flambeau responded by saying the deceased Magi were interfering in mundane affairs themselves, bringing ruin upon themselves.
+In the aftermath, many Magi of the Order expressed their outrage at the actions of Flambeau. A special Tribunal was called to deliver the Order’s justice upon the Magi. Though the Code of Hermes specifically prohibits the killing of another member of the Order, the evidence against the Flambeau Magi was scant. In the end, no evidence could be produced that indicated Flambeau Magi were directly responsible for the death of Moslem Hermetic Magi at Saragossa. Advocates of the deceased Magi argued that the Code also forbade interference in mundane affairs, that which brought ruin upon others of the Order. The Flambeau responded by saying the deceased Magi were interfering in mundane affairs themselves, bringing ruin upon themselves.
 
-<!-- p. 41 -->
+<!-- p. 41 --><a id="page-41"></a>
 
 In the end, the Tribunal refused to order the execution of the attacking Flambeau, but did order them to return all loot they had gained to Covenants of the fallen Magi. After the Tribunal the Iberian Quaesitoris issued a blanket decree ordering that no Magi of the Order would provide aid to a mundane power *"overtly or with any sort of magic that can be detected by mortals."* This ruling limited the activities of Magi supporting Christian armies, as well as limiting those opposing the Christians. And yet, the ruling did not altogether stop impassioned Magi.
 
-In the wake of the Quaesitoris's ruling, the polarity of the opposing sides increased. The southern Iberian Covenant of Estáncia-es-Karida was the first to define itself as a "Roman" Covenant. Its members believed that Moslems who ruled the southern portion of the peninsula were the true inheritors of Rome's glory. They said the shaky Germanic alliance that called itself the Holy Roman Empire could not compare to the achievements of Mohammed's followers. In spirit and culture, the Moslems were considered to be leading the way toward a rebirth of the Roman empire. Covenants that supported the Moslems called themselves "Roman" Covenants.
+In the wake of the Quaesitoris’s ruling, the polarity of the opposing sides increased. The southern Iberian Covenant of Estáncia-es-Karida was the first to define itself as a "Roman" Covenant. Its members believed that Moslems who ruled the southern portion of the peninsula were the true inheritors of Rome’s glory. They said the shaky Germanic alliance that called itself the Holy Roman Empire could not compare to the achievements of Mohammed’s followers. In spirit and culture, the Moslems were considered to be leading the way toward a rebirth of the Roman empire. Covenants that supported the Moslems called themselves "Roman" Covenants.
 
 Those who opposed these Magi believed the Moslems were barbarians, and that they now attacked the rightful rulers of the land. Just as Rome was sacked by barbarians, it was feared Covenants and cities of the north would be similarly destroyed. Covenants that supported Christian states defined themselves as "Reconquista" Covenants. A dichotomy was therefore set up in Iberia that has survived for decades.
 
 Meanwhile, the Almoravids became used to the luxury of southern Iberia, as Magi with foresight had previously predicted. Indeed, the Almoravids became corrupted by it. However, the Almohads, a Berber tribe recently converted to Islam, were expanding their territories to the south of the Almoravids. In 1147 the Almohads captured the Almoravid capital of Seville. This new wave of fundamentalist Moslems spread support for Reconquista Covenants. During the rise of the Almohads, the Covenant of Jaferiya rose to power under the leadership of Rasus, a follower of Flambeau (see *Jaferiya*, in Chapter Five).
 
-While Barcelona worked for peace between Reconquista and Roman Covenants, Jaferiya secretly provided support to Christian armies. The restrictions of the Quaesitoris limited their activities, though, so Jaferiya's efforts made little immediate difference in the peninsula's reconquest. In Tribunal meetings, the question of how much support to provide to Reconquista efforts was hotly debated. Neither the Roman nor Reconquista Covenants could gather enough support to force their views upon the others. For years a tenuous stability has been maintained, right into the 13th century.
+While Barcelona worked for peace between Reconquista and Roman Covenants, Jaferiya secretly provided support to Christian armies. The restrictions of the Quaesitoris limited their activities, though, so Jaferiya’s efforts made little immediate difference in the peninsula’s reconquest. In Tribunal meetings, the question of how much support to provide to Reconquista efforts was hotly debated. Neither the Roman nor Reconquista Covenants could gather enough support to force their views upon the others. For years a tenuous stability has been maintained, right into the 13th century.
 
 ## The Flaming Shadow
 
@@ -987,17 +866,17 @@ The following material is background that you may incorporate into a Saga set in
 
 ### The Tribunal of 1207
 
-The Tribunal meeting of 1207 changes the state of the Iberian Tribunal and sends shock waves throughout the Order. In the years before the Tribunal, many new Covenants spring up in Iberia. The years of relative peace and growing wealth of the Christian states attracts many Magi. And, Moslem areas still hold a fascination for those who seek knowledge that might be languishing in Arabic libraries. The atmosphere of the Tribunal is one of enthusiasm from new Magi, and enthusiasm from older Magi who wonder how the newcomers will fit into Iberia's political spectrum.
+The Tribunal meeting of 1207 changes the state of the Iberian Tribunal and sends shock waves throughout the Order. In the years before the Tribunal, many new Covenants spring up in Iberia. The years of relative peace and growing wealth of the Christian states attracts many Magi. And, Moslem areas still hold a fascination for those who seek knowledge that might be languishing in Arabic libraries. The atmosphere of the Tribunal is one of enthusiasm from new Magi, and enthusiasm from older Magi who wonder how the newcomers will fit into Iberia’s political spectrum.
 
-The Tribunal starts with minor controversy during the roll call. Terrace, a Magus of Jerbiton and second in seniority to the Praeco, is not in the council chamber, though he has been seen at the Tribunal site, just the day before the meeting. Matlus of Jerbiton, a member of the Barcelona Covenant and Praeco, calls the rest of the roll and petitions the Tribunal to allow him to hold Terrace's sigil until Terrace returns. Out of respect for older Magi, the Tribunal votes to accept this proposal, given the restriction that Matlus can not use Terrace's sigil to vote. Matlus agrees and opens the Tribunal with a characteristically rambling speech, welcoming new Magi to the Tribunal and expressing personal enthusiasm for the influx of new blood.
+The Tribunal starts with minor controversy during the roll call. Terrace, a Magus of Jerbiton and second in seniority to the Praeco, is not in the council chamber, though he has been seen at the Tribunal site, just the day before the meeting. Matlus of Jerbiton, a member of the Barcelona Covenant and Praeco, calls the rest of the roll and petitions the Tribunal to allow him to hold Terrace’s sigil until Terrace returns. Out of respect for older Magi, the Tribunal votes to accept this proposal, given the restriction that Matlus can not use Terrace’s sigil to vote. Matlus agrees and opens the Tribunal with a characteristically rambling speech, welcoming new Magi to the Tribunal and expressing personal enthusiasm for the influx of new blood.
 
-When business matters are listed, the usual topics arise: disputes over rights to sources of *vis*, calls for Covenants to join together in action against the Moors, calls for them to act together against the Christians, and individual disputes that had not been resolved elsewhere. The Tribunal continues long into the evening with Magi making good progress on most issues. Matlus saves for last the troublesome and divisive issue of the Order's role in the mortals' war. Arguments occupy the majority of the Tribunal's remaining time. Matlus ends the discussion, calling for a vote, when the chamber door suddenly bursts open.
+When business matters are listed, the usual topics arise: disputes over rights to sources of *vis*, calls for Covenants to join together in action against the Moors, calls for them to act together against the Christians, and individual disputes that had not been resolved elsewhere. The Tribunal continues long into the evening with Magi making good progress on most issues. Matlus saves for last the troublesome and divisive issue of the Order’s role in the mortals' war. Arguments occupy the majority of the Tribunal’s remaining time. Matlus ends the discussion, calling for a vote, when the chamber door suddenly bursts open.
 
-Terrace stumbles in, clothing torn and charred. Many Magi rush to his aid, some tending to his wounds, others trying to determine the nature of the elder's distress. After regaining his breath, Terrace waves the Magi away, impatiently saying that he brings terrible news. After receiving the Tribunal's attention, he reveals his whereabouts for the past day.
+Terrace stumbles in, clothing torn and charred. Many Magi rush to his aid, some tending to his wounds, others trying to determine the nature of the elder’s distress. After regaining his breath, Terrace waves the Magi away, impatiently saying that he brings terrible news. After receiving the Tribunal’s attention, he reveals his whereabouts for the past day.
 
 Terrace reports that for months he received strange reports from merchants and pilgrims passing his Covenant. They spoke of midnight-black horses roaming the land, disappearing into foul-smelling clouds when chased. Bandit activity has also been on the rise and Terrace suspected diabolic implications. Normally he would have reported this information to the Quaesitoris but the reports all centered around one of Iberia’s Covenants. Not knowing the extent of any Magus’s involvement, he was loathe to falsely implicate anyone, so traveled to the Covenant by mystical means. Though he knew it was prohibited by the Code of Hermes, he stole into the Covenant and sought confirmation or denial of his worst fears. He found there confirmation, the Magi of the Covenant dealing with devils to the imperilment of their immortal souls.
 
-<!-- p. 42 -->
+<!-- p. 42 --><a id="page-42"></a>
 
 The Magi of the Tribunal cry out in shock at this revelation and demand the name of the Covenant that has so disgraced and endangered the Order. With a pale complexion and trembling voice, Terrace looks over the assembled Magi and speaks only one word: *“Jaferiya.”*
 
@@ -1017,7 +896,7 @@ Karandos keeps himself from the edge of Final Twilight by sheer force of will. A
 
 For the next seven years, the Iberian Tribunal is thrown into tumult. Most Magi who had fought the Schism War are now either dead or passed into Twilight, but the memory of the war lingers. Like House Tytalus before it, all members of House Flambeau come under scrutiny. The Quaesitoris, who had trusted many members of Flambeau as their enforcers, are now quick to investigate other members of the House. These investigations do turn up more diabolic members, but there is no apparent connection to the Magi of Jaferiya. Members of House Flambeau rail against invasions of their privacy and often suggest that all Houses in the Tribunal be subject to scrutiny. Some Quaesitoris take this suggestion and perform their investigations on entire Covenants, but the practice is not widespread.
 
-<!-- p. 43 -->
+<!-- p. 43 --><a id="page-43"></a>
 
 Meanwhile, news of House Flambeau’s corruption in Iberia circulates throughout the Order. House Tytalus speaks most harshly against Flambeau Magi, perhaps relishing the chance to turn the eye of suspicion on another House. Across Mythic Europe, small bands of Magi come together to travel to Iberia, seeking to destroy Magi of Jaferiya. Many “bounty hunters” are from House Tytalus. Perhaps the most numerous outpouring, however, comes from House Flambeau itself. Karandos’s cry for all true followers of Flambeau to seek out and destroy the errant Magi of Jaferiya draws many to Iberia.
 
@@ -1031,7 +910,7 @@ The renegade Magi become known as the Shadow Flambeau. Rasus and the most subtle
 
 The Shadow Flambeau aid Christian armies at the battle of Las Navas de Tolosa. Posing as a shepherd who knows the area, one of the lesser Magi of Jaferiya leads the army into the mountains of the Sierra Morena. Mists fall upon the gathering and Rasus opens a new pass through the mountains, allowing the Christians to pass without being seen by the Moslem force. Meanwhile, other followers of Rasus use magicks to display “heavenly” sights to the army. By the time the army gains the field, where the Moors are encamped, they believe they have been led through the mountains by an angel (see *Las Navas de Tolosa*, in Chapter Two, for more information).
 
-<!-- p. 44 -->
+<!-- p. 44 --><a id="page-44"></a>
 
 > ### Death of the Praeco
 >
@@ -1047,7 +926,7 @@ Shadow Flambeau participate in these raids but also pursue the destruction of an
 
 Given the ravaging of the Shadow Flambeau since 1207, the Tribunal of 1214 is sparsely attended. Both Roman and Reconquista Covenants are represented but their great debate does not dominate this Tribunal. From the first, the actions of the Shadow Flambeau are the topic of discussion. Members of Roman Covenants are enraged at the actions of the renegades. Members of Reconquista Covenants, however, are in the precarious position of supporting the results of the Shadow Flambeau’s actions, while detesting the agents of those actions. Given continued differences, Magi at the meeting cannot agree on any concerted action against the Renounced Magi.
 
-<!-- p. 45 -->
+<!-- p. 45 --><a id="page-45"></a>
 
 Still, the danger of letting the Shadow Flambeau run loose is evident. The battle of Las Navas de Tolosa, but two years earlier, is ample evidence of the lengths that Shadow Flambeau will go to in pursuit of their goals. The alliance between Shadow Flambeau and mundane military forces also poses a serious problem. Since the Shadow Flambeau know the locations of Iberia’s Covenants, and Iberia’s Magi repeatedly fail to find the Flambeau, the Shadow Flambeau have a serious advantage. If the Tribunal should act to oppose them, the Shadow Flambeau could easily disclose the locations of Covenants to mundane allies. The result would be the destruction of the Iberian Tribunal.
 
@@ -1069,9 +948,9 @@ In exposing diabolic Magi to Catholic rulers of Spain, the Order of Hermes makes
 
 The efforts of the Inquisition bring about the destruction of Estáncia-es-Karida in 1357. As the forces of the Church close upon the besieged Covenant, Magi and other inhabitants flee through their Hermes Portal. The last person in Estáncia-es-Karida, a Magus specializing in Terram magicks, destroys the Portal to prevent the Inquisition from tracing his fellows, and then collapses the buildings of the Covenant upon himself.
 
-<!-- p. 46 -->
+<!-- p. 46 --><a id="page-46"></a>
 
-<!-- p. 47 -->
+<!-- p. 47 --><a id="page-47"></a>
 
 # Chapter Four: Iberian Landscape
 
@@ -1093,7 +972,7 @@ The eastern coast has a low region bordering the Mediterranean but it is a narro
 
 In Aragon, the differences of the classes are quite marked. The nobility are privileged feudal lords with power over the servile classes. Lords have the right to kill their serfs. Serfs are tied to the land they live on and are bought and sold with that land. The people of Aragon live in communal family groups. Married couples move into the house of the groom.
 
-<!-- p. 48 -->
+<!-- p. 48 --><a id="page-48"></a>
 
 > ### Avira Cepheus on Aragon-Catalonia
 >
@@ -1105,9 +984,9 @@ The politics of Aragon-Catalonia are also similar to those of Castile. One diffe
 
 The Kingdom of Aragon-Catalonia has a strong mercantile trade. Until the capture of Valencia, Aragon-Catalonia has only limited agricultural resources, but its industry and commerce make it wealthy. Catalan ships trade in every part of the Mediterranean. Principal relationships, and rivalries, are with Italy. Trade treaties between Pisa and Genoa and the Aragon-Catalan crown are quite common. The reign of Jaume I brings a new age of commercial trade and Jaume is responsible for establishing commercial representatives, or consuls, in foreign countries. These consuls are empowered to adjudicate the commerce of citizens of Aragon-Catalonia. They resolve disputes and represent their countrymen’s interests in foreign courts. As several of these agents are in league with the Dark, they also ensure that Iberian activities abroad spread the Shadow.
 
-<!-- p. 49 -->
+<!-- p. 49 --><a id="page-49"></a>
 
-<!-- p. 50 -->
+<!-- p. 50 --><a id="page-50"></a>
 
 > ### Matlus on Horses
 >
@@ -1141,7 +1020,7 @@ Several dense neighborhoods are gathered around churches and monasteries on the 
 > | Holidays | 4 or 5 |
 > | Day between Good Friday and Easter | 1 |
 
-<!-- p. 51 -->
+<!-- p. 51 --><a id="page-51"></a>
 
 The docks are the scene of constant activity: loading, unloading, selling, trading, and hiring. Work continues throughout the night, though more slowly. The docks are the poorest and most dangerous part of the city, filled with indigent transients, drunken sailors, escaped slaves, desperate foreigners, and assorted criminals.
 
@@ -1161,7 +1040,7 @@ Foreigners from all the lands of the Mediterranean live here. Some are wealthy m
 
 Half of Barcelona’s population is under thirteen years of age, and thus that portion is largely free of Infernal influence (demons tempt the young, but their usual naiveté often invalidates sins performed; ignorance is bliss). However, disease takes a heavy toll, especially among infants and children. Once they survive childhood, Barcelonans have a decent chance of exceeding sixty years of age (but often with the help of the Infernal).
 
-<!-- p. 52 -->
+<!-- p. 52 --><a id="page-52"></a>
 
 ### Around Barcelona
 
@@ -1187,7 +1066,7 @@ The Spanish crusading orders are relative newcomers to Barcelonan politics. They
 
 People in Barcelona, especially those in business and law, need an efficient system to coordinate their actions and to meet at the right time. To this end, they are very aware of the position of the sun and stars. They use these to calculate hours but usually use hours in relation to dawn, dusk, noon, or midnight. They say, *“An hour before noon,”* for instance, rather than *“eleven o’clock.”* In less advanced areas, people use much more informal time keeping methods, such as *“late morning some time,”* or *“around noon.”*
 
-<!-- p. 53 -->
+<!-- p. 53 --><a id="page-53"></a>
 
 The most important work is done between dawn and dusk, when the gates to the inner city are open and the sun makes time keeping easy. Overcast nights are called “party nights” because those who had dates for specific times have no way to tell time and often consider appointments cancelled. The phrase is used ironically by thieves, for whom the lack of moon and starlight is a great boon.
 
@@ -1205,7 +1084,7 @@ Sculptors and painters work mainly for the Church. The style popular in Barcelon
 
 As they pervade all reaches of Mythic Europe, Spain, and Barcelona in particular, is infested by the forces of the Infernal. Demons find Barcelona attractive because its relatively enlightened (adult) populace, given Jewish, Arabic, and Hermetic influence, is capable of thought beyond the typical primal urge. Adult Barcelonans therefore offer demons a greater challenge than does the average Mythic European. Barcelonans need to be subtly coaxed toward sin, requiring clever trickery. Their educated minds are also capable of imagining all forms of sin and corruption, offering entertainment to the demons who fulfill citizens’ whims. It comes as no surprise, then, that Barcelona contains the most twisted souls of the whole Iberian Tribunal.
 
-<!-- p. 54 -->
+<!-- p. 54 --><a id="page-54"></a>
 
 > ### Matlus on Demons
 >
@@ -1229,7 +1108,7 @@ Tyritescus has the right to torment all lost souls that come to and originate fr
 
 Tyritescus is a very intelligent devil but has access to very little intellectual stimulation. His smartest servitor, Hesst, is more cunning than high-minded. Frankly, Tyritescus has no one to talk to. In the past he held a series of conversations with Matlus, the Praeco of the Iberian Tribunal, about the history of Barcelona. He originally intended these conversations as a ploy to corrupt Matlus, but Tyritescus came to enjoy them in their own right, given Matlus’s keen intellect and thoughtful inquiries. Given the chance, Tyritescus gladly has similar conversations with anyone smart enough and brave (foolhardy?) enough to talk to him.
 
-<!-- p. 55 -->
+<!-- p. 55 --><a id="page-55"></a>
 
 > ### Tyritescus
 >
@@ -1295,7 +1174,7 @@ As the Master of Betrayal, Tyritescus has a special ability regarding those he c
 
 Anyone who breaks all five ties suffers –5 on all rolls to resist the magic of Tyritescus and his minions. In addition, Magi who break these ties get only half their normal Magic Resistance against the demons’ powers, and the demons get double their normal Resistance against corrupted Magi’s magic. Since many Magi have already broken their ties with family and Church, they are already on the way to corruption.
 
-<!-- p. 56 -->
+<!-- p. 56 --><a id="page-56"></a>
 
 > ### Hesst, Tyritescus’s Chief Spy
 >
@@ -1365,7 +1244,7 @@ With this goal, Tyritescus directly opposes the goals of Sucelcus and Iernolaca,
 
 - To subvert the Magi of Barcelona Covenant and retrieve the lost section of his heart (see Chapter Five). To this end Tyritescus tries many subtle schemes to get Magi, any Magi, to cooperate with him or his devils in any way, no matter how small. The standing, uneasy truce between the Covenant and Tyritescus (according to which he does not reveal the Magi’s presence and they do not destroy the shard of his heart) is a weakness for Tyritescus, but it can also be the first step toward establishing, even forcing, some kind of cooperation between the parties.
 
-<!-- p. 57 -->
+<!-- p. 57 --><a id="page-57"></a>
 
 ## Humans in Hell’s Service
 
@@ -1385,7 +1264,7 @@ Hesst has taught David how to distill the humors of demons into potent magical p
 
 **Phlegm** — Makes a gray, clumpy powder that instills laziness. To resist falling asleep requires a Stamina stress roll of 6+, rolled every hour over eight hours (after which the humor is passed). If the roll fails the victim falls asleep for about eight hours. If the roll Botches, the victim passes out for about 24 hours. All physical actions, and those that require concentration, that are performed while Stamina rolls are made to stay awake suffer a –3 modifier. This penalty applies to Fatigue rolls as well, but not to Stamina rolls to remain awake (they are based on a full Stamina score).
 
-<!-- p. 58 -->
+<!-- p. 58 --><a id="page-58"></a>
 
 **Yellow Bile** — Makes one angry and violent. Depending on the person and situation, the anger might be expressed as argumentativeness, a brawl, or a fight to the death. The victim essentially has the Hatred Passion, rated three. Pick a particular object of hatred that’s appropriate to the situation. Hatred passes as soon as the victim loses a Confidence Point through the activation of the Passion, or eight hours pass, whichever comes first.
 
@@ -1411,7 +1290,7 @@ Iernolaca doesn’t know about the Magi living in Barcelona. But, even if she di
 
 These are members of the Spanish crusader orders who are neither knights nor clergy, mostly menial servants and occasional scribes. Others are members in name only, who donate money and land to the orders. Lay members of Santiago can often be found running errands for knights, pushing their way through crowds, demanding to be served before others, insulting “inferiors,” and generally taking advantage of their connection to the knights. Some live in the knights’ fortress, others in their own homes.
 
-<!-- p. 59 -->
+<!-- p. 59 --><a id="page-59"></a>
 
 One lay member of Santiago, Na Joana Trenat, is a noble widow with a mansion on a hill north of Barcelona. She is also a member of Tyritescus’s Infernal coven. In an arrangement between Tyritescus and Iernolaca, both Tyritescus’s coven and Iernolaca’s diabolic knights convene at Trenat’s mansion. The coven and knights never meet at the same time, and Joana is the only coven member who knows about the crusaders’ diabolic connections. Joana is an honorary member of the Knights of the Black Rose (see below). In a decisive dispute her loyalty could switch to the knights. (Tyritescus, the devil of betrayal, can never instill loyalty in his followers.)
 
@@ -1443,7 +1322,7 @@ The Bishop oversees the religious life of Barcelona and nearby towns. His work i
 
 Religiously, his views are orthodox and typical, though he believes especially strongly that ideal government is at one with the will of the Church. Berenguer’s main opposition is to the Pope, whom he does not want to declare a crusade against the heretics in Languedoc, at least not yet. Berenguer knows King Pere is doomed to die there, fighting against crusaders, having read the Prophecies of Marc (see below). Berenguer wants to delay crusade until the King has captured more lands to the south and until Pere has a son old enough to rule in his stead.
 
-<!-- p. 60 -->
+<!-- p. 60 --><a id="page-60"></a>
 
 The Bishop’s greatest weakness is his blindness to others’ faults if they strongly favor reconquest. However, he also has an inclination toward young girls, particularly those of peasants, whom he finds earthy and exotic. If caught in a rendezvous, his actions can be used to blackmail him.
 
@@ -1459,7 +1338,7 @@ Characters can meet Barcelona’s priests while performing almost any function i
 
 **Father Josep** is a middle-aged man who seems a very typical priest. His functions as a priest, especially performing the Sacraments, are all he looks for in life. Though he seems quite mild-mannered, he is unshakeable in opposition to all deviation from the orthodox teachings and laws of the Church. He is opposed to Magi, but being so caught up in his Church duties is somewhat distant from the world, and might not recognize the heretic he is so opposed to. Josep has three True Faith points and four Piety Ability score points.
 
-<!-- p. 61 -->
+<!-- p. 61 --><a id="page-61"></a>
 
 > ### Bishops of the 13th Century
 >
@@ -1502,7 +1381,7 @@ The Bishop keeps the books in a long chest, hidden in a secret compartment in th
 
 Indeed, Farusca of Barcelona Covenant might try to gain access to the records upon Berenguer’s death. With the death of the Bishop, his palace is not occupied. Servants and guards still inhabit the place, and a presumptuous priest might try to take over the Bishop’s quarters, but private rooms are less likely to be used. Furthermore, priests of Barcelona might not know of the books until the Archbishop arrives to install a new bishop, passing on a copy of the chest’s key. A combination of few people in the palace and the chance to study the books before they’re missed may be too tempting for Magi, Farusca included, to pass up.
 
-<!-- p. 62 -->
+<!-- p. 62 --><a id="page-62"></a>
 
 Of the Bishop’s records, one scroll contains a list of people suspected of practicing magic of some kind or another, each with a note describing suspected crimes. The list was started long ago, and the first few hundred names are all crossed out, most with the note *“mortuus”* (“dead”) next to them. At the end of the list, however, are some twenty names of living people. Among them are David the Apothecary, *“a Jew whose potions are not always what he claims they are.”* Also here is Carles of the Eye, who *“has an unhealthy interest in books best left in the hands of the wise.”* The other names are mostly mountebanks who sell fake charms, old women who style themselves witches, sellers of strange books and poultices, and one lunatic whose ramblings have a disturbingly demonic tone. These names could lead to interesting stories of your invention, or they could prove dead ends, since the truly powerful are too cautious to be found on this list. It would be truly alarming if characters, who manage to get their hands on the records, find their own names written therein.
 
@@ -1512,7 +1391,7 @@ The book about the Jews in Barcelona tells of their growing importance in the ci
 
 Another set of books records the actions of Tyritescus. Its first entries were written by Barcelona’s first bishop. The Church, over the centuries, has developed an accurate picture of who they are up against and Bishop Berenguer knows that Tyritescus has started covens from time to time. The last known coven was destroyed in 1014. Berenguer does not, however, know anything about the current coven. These old books describe Tyritescus and Hesst, as well as recording scattered notes about servitors, peons, and the black magic that Hesst regularly teaches to diabolists. Characters who read this book gain two Experience Points in Occult Lore, allowing up to a maximum Ability score of seven. Readers also find important details about Tyritescus, such as his and his followers’ ability to loosen and sunder bonds, the tell-tale horns on his head, the unmistakable description of Hesst, a brief description of his enemy Buniserga, his use of demonic humors, and the useful fact that Tyritescus has never been able to inspire loyalty in any of his demonic or human followers, except for Hesst. Characters with this knowledge are more prepared to see through and overcome Tyritescus’s schemes.
 
-<!-- p. 63 -->
+<!-- p. 63 --><a id="page-63"></a>
 
 Another scroll records information about the Order of Hermes, including all the times when Magi were known to be in Barcelona. The bishops have generally believed that Magi have moved through the city but have never resided here. The scroll records approximately one incident per twenty years. A major part of the scroll is a summary of what an 11th century bishop learned during repeated talks with a Magus of House Jerbiton. The two met regularly to exchange information and to encourage cooperation and mutual understanding, but the bishop’s successor would not deal with Magi. No Magus has since been so daring as to establish a dialogue with a bishop. The general consensus of the bishops is that Magi should stay out of Barcelona.
 
@@ -1544,7 +1423,7 @@ Among Jews, the poor are as common as among Christians, but only educated, wealt
 
 Barcelonan Christians hold an ambivalent attitude toward Jews. On one hand, Jews are indispensable to the running of the city; merchants and nobles who work with them generally like the individual Jews they know. On the other hand, Jews are portrayed as the villains in the stories of Jesus, Mary, and others. Many Christians have a hard time imagining and understanding the two thousand miles and one thousand years that separate the moneylender down the street and a Pharisee. Christians also regard the idea that Jesus was a Jew as madness. In addition, it irks many Christians, especially the uneducated, the lazy, and the poor, that this “inferior” race can produce so many wealthy, talented professionals. In the presence of so many Jews, some Barcelonans have become more tolerant than Christians in other lands; others have become more hateful. Indeed, in terms of stories, the duality of Christian charity and persecution can be expressed by using the unfortunate Jew.
 
-<!-- p. 64 -->
+<!-- p. 64 --><a id="page-64"></a>
 
 In the 13th century, the menorah, not the Star of David, is the symbol of Judaism. The six-pointed star, like the five-pointed Star of Solomon, is a magical symbol, especially among the Moors.
 
@@ -1572,7 +1451,7 @@ Galicia is indicated on the *Iberia* map.
 
 The people of Galicia are an independent and solitary breed. Their ancestors were of Celtic stock and they share some of that race’s superstitious predilection. Every grain bin is carved on its end with the cross, to invoke the protection of God against thieving mice (although the cross also has religious applications much older than Christianity). It’s rumored that Galicia is one of the most prominent places in Iberia to find ancient magical traditions, like shamanism. Though a pleasant people, Galicians live apart from one another. Each valley has its small stone house with a plume of blue smoke rising from its chimney. House shamanism is common.
 
-<!-- p. 65 -->
+<!-- p. 65 --><a id="page-65"></a>
 
 When the Moslems first attempted invasion in Galicia, they found the people stubborn and dangerously familiar with their land. The mountaineers of Galicia are among the few Christians in Iberia to never have known Moslem rule. As a result, their interests lie in their fields and farms, not in the great cities of the peninsula.
 
@@ -1594,7 +1473,7 @@ The cathedral houses many of the pilgrims who journey to it. The press of human 
 
 The city of Santiago is arrayed around its cathedral. Immediately to the north is the palace of the Archbishop. It was built by Archbishop Gelmírez. Gelmírez was also responsible for raising Santiago to an archbishopric. During the construction of the cathedral Gelmírez discovered a deed dating from the 9th century, which promised the shrine of Saint James an annual tribute of one bushel of corn for every acre recaptured from the Moors. This deed is still enforced and is a major source of income for the shrine and the city. Whether this deed is legitimate, or was forged to raise money for the city, has yet to be proven, and those who have suggested forgery have quietly disappeared (those corrupt among the Knights of Santiago use the deed’s profits to fund their activities).
 
-<!-- p. 66 -->
+<!-- p. 66 --><a id="page-66"></a>
 
 Furthermore, as previously suggested, Santiago might not be the genuine place of Saint James’s burial. The legend may have been fabricated to inspire Christian devotion and to rally support against the Moors. Certainly the profits of pilgrimage alone may have motivated the lie about James’s resting place. Corrupted members of the Knights of Santiago take definite steps against anyone suggesting the city’s status is false.
 
@@ -1606,7 +1485,7 @@ Santiago is the home base of the Knights of Santiago, who began their order as p
 
 The central plateau of Iberia is like a castle rising from the sea. The passes into the highlands are few and well-guarded. The region occupies the space from the Cantabrian mountains to the Sierra Morena, making up the largest part of the Iberian Tribunal. Near the center of the region, the Sierra de Guadarama splits the plateau into roughly two sections. North and west of the Sierra de Guadarama is the Kingdom of León. The land of León rises toward the Cantabrian mountains and the area of Galicia. It is marked by hills that grow rougher and more fertile as one proceeds northwest. The Duero River runs through the Kingdom of León and provides both a nourishing source of water and a natural border. Away from the cities, people tend to live on isolated farms that are ranged around a central village. Distance from the Moslem frontier has lessened the need for the security of close neighbors.
 
-<!-- p. 67 -->
+<!-- p. 67 --><a id="page-67"></a>
 
 > ### Avira Cepheus on Old Castile
 >
@@ -1632,7 +1511,7 @@ Men on the plateau tend to live in the marketplaces and fields, spending a good 
 
 Two forms of marriage are recognized among the people of the high plateau. The first is the *bendición*, which is accompanied by religious ceremony and the blessing of the Church. The other is the wedding *á yuras*, which is a simple contract between parties under oath. A third form of union, not recognized as wedlock, is that of *barraganía*, or concubinage. *Barraganía* is a permanent and faithful relationship that usually involves single parties. Many clergymen enter into *barraganía* despite efforts to prevent the practice. With all of these forms of union it’s not surprising that divorce is condoned.
 
-<!-- p. 68 -->
+<!-- p. 68 --><a id="page-68"></a>
 
 > ### Avira Cepheus on León
 >
@@ -1646,7 +1525,7 @@ The towns of the high plateau are organized along a general pattern. A local ass
 
 Justice is primarily the right of the kings but the alcaldes of the towns exercise civil and often criminal jurisdiction. Kings may punish local judges, even removing them from office, but the kings’ threat does not prevent abuses. Appeals from local courts go to the kings, who have first right to try cases of murder, assault on a woman, robbery, and other serious crimes. The kings are advised by a group of people they appoint, but the final decision is theirs. Tests of the hot iron, hot water, and battle are employed, and torture is sometimes used as a means of acquiring evidence. Punishments include mutilation, stoning, burning, starvation, and other atrocities. On the other hand, payment of a sum of money in place of punishment is allowed — with wars being pressed against the Moslems, able men are valuable to the plateau states. However, convicted criminals are not free from the private vengeance of victims’ families.
 
-<!-- p. 69 -->
+<!-- p. 69 --><a id="page-69"></a>
 
 ## Toledo
 
@@ -1674,7 +1553,7 @@ The third entrance to Toledo is the Puerto del Cambrón, on the western edge of 
 > | Holidays: | 6 |
 > | Day between Good Friday and Easter: | 2 |
 
-<!-- p. 70 -->
+<!-- p. 70 --><a id="page-70"></a>
 
 > ### Matlus on Moors
 >
@@ -1694,7 +1573,7 @@ For the layout of the city, see map of *Toledo*.
 
 The city of Toledo is not the capital of Castile, but is nearly as important in the political life of the King. Toledo is the center of the Iberian Church and has been since the days of the Visigoths. Even while under Moslem domination, the Church was allowed to operate out of Toledo and maintained its influence on the affairs of the country. The Archbishop of Toledo wields tremendous power and is very nearly the ruler of Castile. The King travels to Toledo for coronation and the Archbishop is frequently his confessor and advisor. At the start of the 13th century the Archbishop of Toledo is Rodrigo Jiménez de Rada. He is known as an accomplished soldier as well as a powerful clergyman (and to those in diabolic circles, a theurgist who intends to subvert Castile’s King and acquire temporal power himself, using the King as a puppet).
 
-<!-- p. 71 -->
+<!-- p. 71 --><a id="page-71"></a>
 
 Toledo serves as the forward base for attacks on Moslems to the south. The city’s strategic position and central location make it a natural place to muster armies. Numerous military orders have castles and convents near the city. Of these the Order of Calatrava are the most numerous. The castle of Calatrava itself is just sixty miles south of Toledo. The order holds half a dozen castles in the immediate area and has holdings within the city. Within 25 miles of Toledo are castles held by the Hospitallers and by the order of Santiago. These crusading orders have a great deal of influence on the rulers of Toledo. (Indeed, the Knights of Santiago are corrupt here as elsewhere, and the Archbishop of the city uses them as his special guard.) Much of the various knights’ land has been granted directly by the King and is free from many taxes. They are among the most wealthy land holders and demand certain privileges to maintain their wealth. For fear of appearing opposed to Christian ideals, the council of Toledo does not resist the crusaders’ demands. Thus, the Knights of Santiago have even greater influence in the city.
 
@@ -1708,7 +1587,7 @@ The climate is warm year round, being moderated by the Mediterranean. Despite th
 
 The region of Andalusia is depicted on the *Iberia* map.
 
-<!-- p. 72 -->
+<!-- p. 72 --><a id="page-72"></a>
 
 ### Culture
 
@@ -1732,15 +1611,15 @@ Near the Guadalquivir River sits the great mosque of Córdova. Originally built 
 
 Next to the mosque is the palace of Córdova’s ruler. This was originally the Caliph but now Córdova is subject to Seville and a *qa’id* or governor lives in the palace. The *qa’id* is a regular figure at evening prayers. The cool of the early evening has become a time to approach the governor, in the streets, with concerns or problems.
 
-<!-- p. 73 -->
+<!-- p. 73 --><a id="page-73"></a>
 
 The city’s mosque is built on the edge of the city’s Jewish quarter. The university of Córdova also makes its home near the mosque. The combination of these factors makes the southwestern portion of the city the center of intellectual pursuit. North of this area, Christians have their own quarter. Theirs is centered around a small church and is generally poor. Ironically, Christians here are treated as Jews are in Christendom.
 
 The layout of the city is depicted on the *Córdova* map.
 
-<!-- p. 74 -->
+<!-- p. 74 --><a id="page-74"></a>
 
-<!-- p. 75 -->
+<!-- p. 75 --><a id="page-75"></a>
 
 # Chapter Five: Covenants of Iberia
 
@@ -1780,7 +1659,7 @@ The volatile nature of the Tribunal’s Flambeau Magi usually prevents them from
 
 The Barcelona Covenant is unusual in that its members live in a major city. Raw vis is scarce within the confines of the Dominion, so the Covenant is small. The few Magi, however, revel in the diversity, art, wealth, and sophistication that only a city like Barcelona can offer. In order to maintain their secrecy, the Magi of Barcelona Covenant live separate lives, coming together infrequently. They have legal Hermetic jurisdiction over the city, supervising members of the Order who visit. The Magi use members of House Mercere to communicate this fact to other Covenants. Any Covenant within reasonable traveling distance of Barcelona, or any that asks House Mercere for information on the city, is told of restrictions on the city and of how to contact the Covenant and its Magi.
 
-<!-- p. 76 -->
+<!-- p. 76 --><a id="page-76"></a>
 
 Upholding its promise to keep the peace and maintain order in Barcelona, the Covenant has petitioned for and gained special rights, such as jurisdiction over all Magi, their friends, and hirelings in the city. The Barcelona Magi routinely command Magi who visit the city, prohibiting or demanding certain actions. Obstinate and independent visitors sometimes object to such treatment, even taking their issues up at Tribunal, but usually to little effect.
 
@@ -1830,7 +1709,7 @@ There are very few people occupying Barcelona Covenant. To the casual observer t
 >
 > Other Combat Totals: Dodge Defense +1 (7 Action), Soak +1 (7 Action), Fatigue +1
 
-<!-- p. 77 -->
+<!-- p. 77 --><a id="page-77"></a>
 
 > ### Matteu the Bouncer
 >
@@ -1872,7 +1751,7 @@ The following people are those with specialized skills that Barcelona’s Magi r
 
 Andreau is a slightly rotund *consor*. He understands people and manipulates them with flair and ease. He is jovial, middle-aged, and good with a dagger. Andreau is losing his hearing but still enjoys talking with customers. He has learned to spot Magi who travel to Barcelona and quickly provides them opportunity to present themselves. Andreau looks after Vicent, the groom (see below), treating him like a son.
 
-<!-- p. 78 -->
+<!-- p. 78 --><a id="page-78"></a>
 
 > ### Vicent the Groom
 >
@@ -1910,7 +1789,7 @@ Andreau owns a simple silver ring that reveals the motive of a person. It can be
 
 Matteu the bouncer, also a *consor*, usually stands near the door to the inn. His right and left fists are nicknamed “lighting” and “thunder,” respectively. *Almogàvers* come here to test themselves against him. Farusca has hinted that Matteu should take a couple falls so he can lose his reputation and stop attracting attention, but he is too proud. Besides, he needs to keep in practice.
 
-<!-- p. 79 -->
+<!-- p. 79 --><a id="page-79"></a>
 
 Matteu’s face is covered with small scars that he’s picked up in fights. He has experienced true love but lost it. His fiancée, Maria, died after contracting the pox several years ago. Since then Matteu has been somber.
 
@@ -1962,7 +1841,7 @@ Pol was discovered by Farusca, head of the Covenant, in the waterfront district 
 
 Pol is eager to help and please. He makes himself out to be comical, to trick potential enemies into underestimating him. Actually, Pol is clever, observant, and capable of defending himself and Farusca. Characters who foolhardily threaten Farusca may find their kidneys suddenly removed from behind.
 
-<!-- p. 80 -->
+<!-- p. 80 --><a id="page-80"></a>
 
 > ### Farusca
 >
@@ -2026,7 +1905,7 @@ Farusca has seen several Magi come to Barcelona from “less civilized” areas 
 
 Farusca believes that the weak link in the Covenant’s secrecy is Carles, one of her fellow Magi. The dreadful eye carved over the door of his book shop draws unwanted attention. Carles says he puts on an occult image to draw attention away from himself, since no true Magus would make such a display. Farusca correctly identifies this as self-deception.
 
-<!-- p. 81 -->
+<!-- p. 81 --><a id="page-81"></a>
 
 If Farusca could find a capable Magus to take her place as head of the Covenant, she would enter Barcelonan society as a wealthy widow from Languedoc. She lives in what she considers the most beautiful city in the world, but spends almost all her time in a hole in the ground.
 
@@ -2048,7 +1927,7 @@ Carles wears a carved coral pendant that looks like an eye. The item allows him 
 
 Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousing and exploring Carles’s shop. He also wanders outside, but prefers to be around books. The Street of Books, where Carles’s shop is located, is Noscur’s territory, and he fights other toms for it.
 
-<!-- p. 82 -->
+<!-- p. 82 --><a id="page-82"></a>
 
 > ### Carles
 >
@@ -2131,7 +2010,7 @@ Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousin
 >
 > Vis: None
 
-<!-- p. 83 -->
+<!-- p. 83 --><a id="page-83"></a>
 
 > ### The Books of the Eye
 >
@@ -2149,7 +2028,7 @@ Noscur is a thin, black cat with some gray hairs. He spends a lot of time mousin
 >
 > **Magical Defenses** — *Waiting Spells* to knock out those who break in are on every entrance to the shop. The spell has a Penetration factor of +20 and operates on the Mentem Form. Victims who fail a Magic Resistance roll fall unconscious for 1d10 Rounds.
 
-<!-- p. 84 -->
+<!-- p. 84 --><a id="page-84"></a>
 
 > ### Franç Severél
 >
@@ -2213,7 +2092,7 @@ As a wealthy bachelor, Franç is much sought after by young ladies of status. If
 
 Franç has scruples against using magic directly against competitors, but does use spells to tell where various ships, carrying his goods, are in the Mediterranean. In his sanctum he has a map of the seas, with wooden markers to indicate the locations of various ships. If someone were to find this map, suspicions of Franç would rise since there’s no normal way to immediately know when a ship docks in Alexandria.
 
-<!-- p. 85 -->
+<!-- p. 85 --><a id="page-85"></a>
 
 > ### Matlus
 >
@@ -2267,7 +2146,7 @@ Excerpts from Matlus’s records may be found in the Chapter Four. Characters ma
 
 Matlus is Praeco of the Iberian Tribunal and presides from a Covenant in the foothills of the Pyrenees, so as to avoid disturbing Barcelona Covenant’s masquerade. Matlus still returns to Barcelona from time to time, though, drawn by nostalgia. Afraid of his Final Twilight, he refuses to disguise himself magically, and sometimes forgets how dangerous it is to be a Magus in a large city. Matlus has a grasp of human action on a societal level, but the personal motivations of individuals confuse him. Farusca wishes Matlus would stay out of Barcelona, but he is too popular in House Jerbiton for her to give him orders.
 
-<!-- p. 86 -->
+<!-- p. 86 --><a id="page-86"></a>
 
 ## Covenant Description
 
@@ -2291,7 +2170,7 @@ The lock on the room’s door is sound and sophisticated. A *Waiting Spell* on t
 
 **Private Room** — A room with tapestries on the walls and a long, polished table that seats up to twelve. A simple but strong bolt holds the door. At the far end of the room is a secret trap door, fashioned by a Verditius Magus. The trap door is normally invisible, but appears if one makes the standard “Rego” gesture with the right hand and an “opening” gesture with the left. Anyone can use these gestures, as the door responds to the gestures themselves, not the magic that they usually direct. A Magus who sees Andreau open the door might think he is actually casting a spell. The door disappears again as soon as it’s closed, or in a few moments, whichever passes first. Below the trap door is a wooden ladder that leads to the subterranean chambers of the Covenant.
 
-<!-- p. 87 -->
+<!-- p. 87 --><a id="page-87"></a>
 
 **Upper Rooms** — These are all basically the same, with bolt locks, chamber pots, and glassless windows. Since the locks are simple bolts, patrons cannot lock doors while they’re out. For this reason, Matteu only allows guests in the upper floor. Even so, only the naive leave valuables here.
 
@@ -2311,7 +2190,7 @@ The lock on the room’s door is sound and sophisticated. A *Waiting Spell* on t
 
 Two copper bells and one silver one hang on stands in one corner. The larger copper bell rings in response to Andreau’s alarm. The other copper bell rings in response to Matteu’s alarm, and the silver bell in response to Vicent.
 
-<!-- p. 88 -->
+<!-- p. 88 --><a id="page-88"></a>
 
 ### Lowest Level
 
@@ -2329,7 +2208,7 @@ Near one wall is a free-standing arch, actually a Hermes Portal that takes trave
 
 All Hermetic visitors to Barcelona are under jurisdiction of Barcelona Covenant, and as such must put up with the demands of the Covenant’s Magi. Would-be visitors are instructed by members of House Mercere to report to Farusca at the Silver Rooster upon arrival. Visiting Magi are also told that the Covenant requires payment of one pawn of *vis* from each Magus and another pawn for each five non-Magi (or fraction thereof) that visit the city. A group of two Magi and six non-Magi has to pay four pawns. The variety of raw *vis* does not matter. Magi invited to the city by members of its Covenant are free of this charge.
 
-<!-- p. 89 -->
+<!-- p. 89 --><a id="page-89"></a>
 
 Farusca takes a lock of hair from anyone she does not trust (which includes all first-time visitors to Barcelona) and keeps the lock until the person leaves the city, though she never takes hair from Quaesitoris. Farusca informs visitors that she uses the locks to watch the characters’ activities and send assistance if the characters get in trouble. Since Farusca specifies this use when she takes the hair, and since it is ostensibly for the good of visitors (who might need her help), her watching the characters is not considered spying and therefore is not against the Code. Anyone that will not relinquish a lock of hair is asked to leave Barcelona. Since the Arcane Connection from hair grows weak over a relatively short period, most Magi do not object to Farusca’s request.
 
@@ -2377,7 +2256,7 @@ If the crystal is destroyed, Tyritescus cannot regenerate Might Points on earth 
 
 - Matlus comes to Barcelona, perhaps alone, but definitely confused. The characters are asked to encourage him to leave, and to watch over him until he does so. Having a group of characters guarding a senile, stubborn, powerful Magus in a potentially dangerous place like Barcelona should present several humorous and frustrating moments.
 
-<!-- p. 90 -->
+<!-- p. 90 --><a id="page-90"></a>
 
 - Rumors spread throughout the city that a mysterious woman is miraculously curing the halt, blind, feebleminded, and dumb, all of whom abound in the city. The ill are leaving the hospitals and leper houses *en masse* to look for the healer, and the afflicted begin pouring into the city. Because the woman never comes to the cathedral to acknowledge her connection to the Church, the Bishop declares her a magician who takes the souls of those she heals. The city’s *Veguer* and King Peter send spies to find the woman and bring her into their respective political camps. Farusca wants the characters to figure out what’s going on.
 
@@ -2415,7 +2294,7 @@ Duresca maintains a small way station on the road to Santiago de Compestela. The
 
 The Covenant is a half day’s travel north of the road and the trail is well marked. Upon entering the valley that contains the Covenant, the trail turns to the west and the Covenant walls come into view on the north face of the valley. The original structure of Duresca was too small to suit the needs of the Quaesitoris of the Iberian Tribunal. They have added to the structure, but signs of the original remain. The newer section is closer to the entrance of the valley and sprawls up the valley’s face.
 
-<!-- p. 91 -->
+<!-- p. 91 --><a id="page-91"></a>
 
 ## Inhabitants
 
@@ -2431,7 +2310,7 @@ The Covenant supports a number of craftsmen. The Covenant is the sole client of 
 
 When the Quaesitoris took control of Duresca centuries ago they divided the turb into three sections. The largest of groups is the New Guard. Of the 75 current *custodes,* 35 are New Guards. New Guards travel with the Quaesitoris when they leave the Covenant. Their armor is covered with a white surcoat and they bear Latin crosses upon their left breast. Though these crosses do not end in the point of a sword, as those of the Knights of Santiago do, the distinction is minor and disguises the nature of those the Grogs guard. Most of these guards know how to ride and mounted patrols often accompany traveling Magi.
 
-<!-- p. 92 -->
+<!-- p. 92 --><a id="page-92"></a>
 
 The second largest group of *custodes* is the Home Guard. A third of the turb of *custodes* are members of the Home Guard. The Home Guard is charged with the defense of the Covenant itself. They man the walls and act as sentries at its gates. Many of these guards are older members of the turb, considered one step from retirement. The Home Guard is no less vigilant than the others and, if anything, their experience and age make them more careful in the defense of their homes. The Home Guard wear dark blue tunics decorated with the silver scale symbol of the Quaesitoris.
 
@@ -2479,7 +2358,7 @@ Alfonso is an average man in many ways. Average height, average weight, average 
 
 Alfonso wears a silver pendant that protects his mind from unwanted intrusion or influence. It works continuously as a mental ward (Rego Mentem Level 25) that must be penetrated before any mystical force can affect Alfonso’s thoughts.
 
-<!-- p. 93 -->
+<!-- p. 93 --><a id="page-93"></a>
 
 > ### Alfonso de Suero
 >
@@ -2519,7 +2398,7 @@ Galinda believes she would have fewer troubles if she had a husband to look afte
 
 Dona Galinda is a woman of the people. In the evenings she entertains guests with song and is not bashful about sharing a cup of wine with weary travelers. She enjoys talking with people and learning of the places they come from. She keeps most troublemakers in line, with a stern voice and harsh glare, calling upon the powers of Heaven if necessary. When a pilgrim or knight gets out of hand she is capable of wrestling him out of the inn.
 
-<!-- p. 94 -->
+<!-- p. 94 --><a id="page-94"></a>
 
 > ### Dona Galinda de Gracia
 >
@@ -2603,7 +2482,7 @@ There are seven Magi at Duresca, all Quaesitoris. Baruch is their leader and fin
 
 Baruch became the leading Quaesitor of Iberia in 1189 after the Final Twilight of his predecessor. Baruch inherited a Tribunal filled with strife. Its mundane population warred constantly and Magi of the Order, not just those of the peninsula, were involved in the mundane disputes. The confusion of the time was exacerbated by Baruch’s relative youth. Fortunately, the support of Barcelona Covenant and Baruch’s gradual experience allowed him to make an impact upon Tribunal affairs. Establishing a policy of strict Traditionalism (conservative and strict rule interpretation), Baruch began to impose heavy penalties upon those who “stretched” the Code. He also established good relations with individual Magi of various Covenants who acted as enforcers for Quaesitor judgement. Under Baruch’s guidance, the Quaesitoris of Iberia have become more strict in their interpretations of the Code, and have grown more powerful.
 
-<!-- p. 95 -->
+<!-- p. 95 --><a id="page-95"></a>
 
 Baruch is not completely the hard-nosed Quaesitor he appears to be. Raised and apprenticed in Provençal, he has enjoyed the best of French culture. He looks down upon those who seek to destroy mundane civilization and has friends among Magi of House Jerbiton. Baruch is known to write poetry and is a dignified and pleasant host. Indeed, he favors people who appear cultured.
 
@@ -2623,7 +2502,7 @@ For the layout of the Covenant, see the *Duresca* map.
 
 **C Stables** — These large stables hold the best of the Covenant’s horses and have plenty of room for mounts of visitors as well. A few of the horses are trained to carry Magi. The structure is built of brick and is meant to serve as a secondary defense if the gate is breached by attackers. The second floor of the building stores hay and other feeds for animals, and serves as quarters for grooms and stableboys.
 
-<!-- p. 96 -->
+<!-- p. 96 --><a id="page-96"></a>
 
 **D Guest House** — This long building is divided into rooms that all open on the garden, which is an extension of the surrounding courtyard. There are two floors of rooms. Stairs at either end of the building make the second floor accessible.
 
@@ -2643,7 +2522,7 @@ For the layout of the Covenant, see the *Duresca* map.
 
 **L Infirmary** — This building used to be the barracks for the Grogs, capable of housing 30 comfortably. Now it serves as a place for injured Grogs, allowing them to recuperate from the trials of combat.
 
-<!-- p. 97 -->
+<!-- p. 97 --><a id="page-97"></a>
 
 **M Grogs’ Barracks** — This building housed the old masters of Duresca. When the Quaesitoris took over and expanded the Covenant they moved to new lodgings, leaving this building to the Grogs. Where Magi once lived in luxury, three or four Grogs now share a single suite. The fine furnishings of many rooms still remain. The officers of the turb have commandeered the best of the quarters for themselves.
 
@@ -2681,7 +2560,7 @@ Duresca’s arcane library is generally good. Holdings of magical Arts are at le
 
 The mundane library of Duresca is excellent but the volume of its works is limited. As the Quaesitoris adjudicate all Tribunals, they have good records of those meetings’ events. Several past members of the Covenant have written commentaries upon Tribunal decisions, relating them to Hermetic law and the practices reported from other Tribunals. The most famous of these commentaries is the anonymous *Locus Standi.* This work, whose title translates as “Recognized Position” and is often used in court, dates from the late 11th century. It is used by Transitionalists to further their position of flexible and changing interpretations of the Code. The author of *Locus Standi* relates the way the Code of Hermes was interpreted in various Tribunals. The author searched Quaesitor records for similar cases and recorded the way that each Tribunal ruled those cases. Comments of the Primus of House Guernicus are also listed for some cases. The work is a varied tapestry of decisions. The author does not advocate a particular position.
 
-<!-- p. 98 -->
+<!-- p. 98 --><a id="page-98"></a>
 
 Other works in Duresca’s mundane library include detailed descriptions of Iberia’s nobility, and accounts of some of the land’s history. Descriptions of the mundane world become less accurate as they deal with lands further from Duresca, but at least offer a good overview of the region. Also included are works on the officers and districts of Iberia’s Church.
 
@@ -2729,9 +2608,9 @@ As more Magi frequented the cities of al-Andalus, they came in contact with Mosl
 
 During the Schism War the Magi of Estáncia-es-Karida were able to keep themselves distant from main areas of conflict. While some Magi of House Flambeau took advantage of the confusion, to press attacks on Moslem sorcerers in Iberia, the Covenant of Estáncia-es-Karida survived scattered attacks on its members with the help of improved defenses.
 
-<!-- p. 99 -->
+<!-- p. 99 --><a id="page-99"></a>
 
-<!-- p. 100 -->
+<!-- p. 100 --><a id="page-100"></a>
 
 After the Schism War, the politics of the Iberian Tribunal changed dramatically. Followers of Jerbiton within Estáncia-es-Karida saw the aftermath of the war as a field of opportunity. Some of them set out to found new Covenants further north and west, to provide a stable influence for the Tribunal in those regions. Their knowledge of mundane ways and skill in dealing with Magi and mundanes made the Magi indispensable in the Schism’s aftermath, when mundanes were suddenly alerted to wizards among them.
 
@@ -2755,7 +2634,7 @@ As befits their surroundings, the inhabitants of Estáncia-es-Karida are a mix o
 
 As all Covenants are, Estáncia-es-Karida is occupied and maintained by many different covenfolk, who have both Christian and Arabic beliefs. These people perform manual labors, those with specialized skills, like glassblowers, being treated with higher regard and considered equal to Grogs in their own right.
 
-<!-- p. 101 -->
+<!-- p. 101 --><a id="page-101"></a>
 
 > ### Three Sample *Custodes* of Estáncia-es-Karida
 >
@@ -2845,7 +2724,7 @@ As all Covenants are, Estáncia-es-Karida is occupied and maintained by many dif
 >
 > Other Combat Totals: Dodge Defense +4 (10 Action), Soak +5 (11 Action), Fatigue +2
 
-<!-- p. 102 -->
+<!-- p. 102 --><a id="page-102"></a>
 
 #### Custodes
 
@@ -2897,7 +2776,7 @@ Terril Adan is a stocky, balding man who dresses in rich brown robes of the Arab
 
 Since coming to the Covenant, Terril has quickly become a motivating force within Estáncia-es-Karida. The destruction of his first Covenant galvanized Terril’s sentiment against the Christian Reconquista. He now works within Hermetic politics to stop all Hermetic aid to Christians, even favoring the aid of Moslem armies to preserve their lands and Covenants. Terril’s opposition to the Reconquista borders upon irrationality.
 
-<!-- p. 103 -->
+<!-- p. 103 --><a id="page-103"></a>
 
 > ### Terril Adan
 >
@@ -2956,7 +2835,7 @@ Alvar is the leader of the group of Criamon Magi that inhabit the underground ar
 
 It is rumored that Alvar Dawla is very close to Final Twilight and may be murdered by his compatriots so his ghost can be consulted after his passing. There are those who contend that this has already happened, that Alvar Dawla’s ghost is so powerful that it can continue its previous functions on the earth without the assistance or coercion of others. In either case, Alvar Dawla appears to have advanced so far toward the Enigma that he can no longer communicate in a practical sense.
 
-<!-- p. 104 -->
+<!-- p. 104 --><a id="page-104"></a>
 
 > ### Alvar Dawla
 >
@@ -3020,7 +2899,7 @@ Yusuf is not a member of the Order of Hermes. He is instead a Sufi dervish who i
 
 In return for his valuable writings, Yusuf has been allowed to study the Hermetic texts of the Covenant. He has learned a small portion of Hermetic theory and has applied it to his own knowledge of the workings of the world. Yusuf’s new philosophy combines ibn-‘Arabi’s views with the practical application of Hermetic magic. According to Yusuf, Hermetic magic crudely affects Allah’s dreams, bringing about phenomenal results. However, Magi who practice Hermetic magic are, in Yusuf’s opinion, misdirected, acting against Allah’s conscious will. Yusuf believes that a right-minded person, who is in tune with Allah’s desires, can produce even greater effects than Hermetic Magi. He is still working through the paradox of Magi being part of Allah’s will and dream but acting against Allah’s will. If he should ever solve this paradox and complete his formulation, combining Hermetic magic and Moslem mysticism, the results may shake the Order and Mythic Europe.
 
-<!-- p. 105 -->
+<!-- p. 105 --><a id="page-105"></a>
 
 > ### Yusuf Abdul-Qadir
 >
@@ -3076,7 +2955,7 @@ Within the central garden is the entrance to the underground of the Covenant. Th
 
 The covenfolk live in two buildings on opposite sides of the central garden. Though no decree from the Magi prevents the groups from mingling, the servants’ day-to-day duties keep them apart. In the northeast corner of the Covenant are housed the servants who take care of the needs of the Magi themselves. Also here are the cooks and bakers. In the southwest corner are housed more menial laborers, those who work in the Covenant’s olive groves and tend its animals. The artisans who provide physical goods for the Covenant also live and work in this area. On the western edge of the garden is the Covenant’s great hall where feasts, meetings, and festivals are held. In this building, all members of the Covenant gather and mix freely.
 
-<!-- p. 106 -->
+<!-- p. 106 --><a id="page-106"></a>
 
 ### Key to Wizard’s House
 
@@ -3110,7 +2989,7 @@ The precise layout of the Wizard’s House can be found on the map of the same n
 
 14 — The labs and sanctum of Teráh. Teráh is the only Magus with personal labs in the house. Other Magi use the laboratory building near the house.
 
-<!-- p. 107 -->
+<!-- p. 107 --><a id="page-107"></a>
 
 15 — A small chamber for the guards that watch the stairs from the western entrance.
 
@@ -3158,7 +3037,7 @@ For the layout of this area, see *The Underground of Estáncia-es-Karida* map.
 
 14 — A large stone bath dominates this chamber. An odd blue-green light reflects off the water and gives the room an otherworldly atmosphere. Thick towels are provided for petitioners.
 
-<!-- p. 108 -->
+<!-- p. 108 --><a id="page-108"></a>
 
 ## Outside Relations
 
@@ -3178,7 +3057,7 @@ In order to keep their fortress and lands, the Magi of Estáncia-es-Karida make 
 
 - Estáncia-es-Karida brings a great Sufi mystic to Tribunal and attempts to have him recognized as a Magus of the Order. Flambeau Magi object to the Moslem sorcerer and may attempt to kill him. The Covenant asks the characters for help in protecting the visitor and in getting their petition recognized by the Tribunal.
 
-<!-- p. 109 -->
+<!-- p. 109 --><a id="page-109"></a>
 
 ## Jaferiya
 
@@ -3224,7 +3103,7 @@ A few of the village’s more independent people express defiance of Jaferiya’
 
 The road out of Tanámes winds up a hill towards the castle that is the Covenant of Jaferiya. The road approaches the edifice from the north and faces a stark wall of brick, with stone towers standing sentinel. The dusky red of the brick is reminiscent of the mountain sunset behind the castle, while the pale stone of the towers stands in stark relief. A traveler to Jaferiya circles the castle to the left, following the road toward the gate. As you round the corner, the first thing to strike you is the tower in the most eastern portion of the castle. Here the regular, even appearance of the walls and towers is interrupted by a structure that stands half in ruins. On closer examination it is apparent that the top portion of the tower, nearly one third its original height, has been twisted by the force of an explosion. The sooty signature of flame still clings to the rocks and the tower seems to cant wildly over the road.
 
-<!-- p. 110 -->
+<!-- p. 110 --><a id="page-110"></a>
 
 ## Inhabitants
 
@@ -3296,7 +3175,7 @@ The few covenfolk that provide for the day-to-day running of Jaferiya are, if an
 
 The Grogs that remain at Jaferiya are a particularly sorry lot. They fulfill the basic duties expected of their profession, but only out of fear for the Magi, having almost no loyalty to the Covenant. The Magi, with their demonic connections, provide the kinds of rewards that appease the base folk of the turb, so those that remain do not desert the Covenant. Most of the Grogs’ off-duty time is spent drinking, gambling, and brawling. The Grogs occasionally exploit their positions to bully villagers but are not usually allowed to leave the Covenant. In general the Grogs are disorganized and do not fight cohesively. Their morale is very poor.
 
-<!-- p. 111 -->
+<!-- p. 111 --><a id="page-111"></a>
 
 ### Companions
 
@@ -3314,7 +3193,7 @@ Although Ferdinand may seem a ridiculous figure on first glance, he is in no way
 
 The Magi of Jaferiya, under Rasus, are all much younger than their leader. Some of them are even his own *filii*. Most of the lesser Magi are active diabolists. (Rasus believes he has not fallen under Hell’s sway and does not participate in overtly diabolical activities.) Active diabolical Magi believe Rasus knows of and condones their activities, but none of them discuss their activities with their leader. On the other hand, some of the Magi who have recently become diabolists believe Rasus holds special rituals that only the most worthy and loyal are allowed to attend.
 
-<!-- p. 112 -->
+<!-- p. 112 --><a id="page-112"></a>
 
 > ### Rasus
 >
@@ -3383,7 +3262,7 @@ Rasus is plagued by demons and began dealing with them some time ago to gain rel
 
 Rasus controls the activities of Jaferiya’s Magi with an iron will. He allows them to torment local villagers, and to vent their passions while close to home, but only allows those he considers trustworthy to stray far from the Covenant without supervision. Rasus’s ultimate goal, the reason he risks his immortal soul in dealings with demons, is the complete elimination of the Islamic peoples. He has cultivated relationships with the leaders of the Reconquista and supports them as much as he can without alerting the Quaesitoris (at least until revealed as a member of the Shadow Flambeau).
 
-<!-- p. 113 -->
+<!-- p. 113 --><a id="page-113"></a>
 
 > ### Metron
 >
@@ -3447,7 +3326,7 @@ Relegare has been corrupted by a demon of Lust and has given herself over to tha
 
 Jaferiya stands upon a rocky hill, in the stark landscape surrounding the village of Tanámes. A meager stream runs its path south of the Covenant, facing the gates. Upon entering the Covenant, the first thing that strikes the visitor is the enormous hourglass set in the center of the courtyard. This device of glass and bronze gleams in the sun and slowly marks the passage of time, the great destroyer. The glass is marked with several lines and actually measures a period of 12 hours. The Covenant has built its schedule around the hourglass. The watches of the Grogs and the servants’ shifts are expressed in terms of marks on the glass: “At the mark past dawn,” is when the night watch is over; “At the turning for the evening,” is when councils begin; “Mid-mark,” is a synonym for midnight. When traveling, the Magi of Jaferiya carry miniature replicas of the glass to keep time. These are particularly useful in timing long-distance communication spells and rituals.
 
-<!-- p. 114 -->
+<!-- p. 114 --><a id="page-114"></a>
 
 > ### Relegare
 >
@@ -3500,9 +3379,9 @@ Visitors meeting with Magi are greeted in the great audience hall of the main bu
 
 The council room is kept off limits to the mundane population of the Covenant and to visitors unless they are escorted in. Any apprentices training at the Covenant are given the task of overseeing the regular cleaning of the room and of escorting visitors to it. The room has low benches of stone situated around the walls; the central area is kept clear. The tiled floor marks three circles in the center of the room. The first circle, marked with red tiles, is the largest and encompasses the other two. The largest is called the Circle of Speaking. When addressing the Covenant’s Magi, one stands within this circle. Conversely, anything said while outside the circle is ignored and goes officially unrecognized in council. The other two circles, one distinguished by white tiles and the other by black, are respectively called the Circle of the Promoter and the Circle of the Adversary. Whenever, during a council, more than one person steps into the Circle of Speaking to forward thoughts to the rest of the Magi, the leader of the Covenant designates a Promoter and an Adversary. They speak in turn until the issue is resolved. If no resolution can be reached through the deliberations of the council, the Promoter and Adversary engage in *Certámen* (always using the Arts of Creo Ignem) to resolve the matter of contention.
 
-<!-- p. 115 -->
+<!-- p. 115 --><a id="page-115"></a>
 
-<!-- p. 116 -->
+<!-- p. 116 --><a id="page-116"></a>
 
 A door leads from the council chamber to the arcane library. The library of Jaferiya is well-rounded and reflects the predilections of the Covenant’s Magi. A door to the left of that leading into the library opens on the Covenant’s vis stores. This door is kept locked and only Rasus, leader of Jaferiya, has a key. A *Waiting Spell* rests on the door that triggers a fiery death for anyone not knowing the proper ritual of opening. (The spell has a Penetration factor of +20, modified by a stress die, and does +20 Damage to anyone within five paces of the door, without damaging the door itself.)
 
@@ -3532,7 +3411,7 @@ In contrast to its relations with the nobility, the Covenant treats the peasantr
 
 Since Rasus has gained power at Jaferiya, the Covenant has maintained distant relations with other Covenants of the Tribunal. Jaferiya fully supports the Reconquista faction of the Tribunal. The Magi are therefore accepted as grudging allies during Tribunal meetings. Other Covenants do not always agree with the methods of Jaferiya’s Magi (those methods they know about, that is) but do support the final purpose behind those actions, counting upon Jaferiya’s votes during Tribunal meetings. As of yet, the true extent of Jaferiya’s diabolical activity has not been widely discovered. Most of the Magi’s questionable actions have been passed off as the excesses of membership in House Flambeau. Sooner or later, though, Magi of the Iberian Tribunal will learn what Rasus and his minions are up to (and so may begin the Shadow Flambeau plot).
 
-<!-- p. 117 -->
+<!-- p. 117 --><a id="page-117"></a>
 
 ## Mystical Attributes
 
@@ -3592,9 +3471,9 @@ As the Covenant of Jaferiya gradually fell under the sway of Hell, the effects o
 >
 > Vis: 3 Ignem in Hooves
 
-<!-- p. 118 -->
+<!-- p. 118 --><a id="page-118"></a>
 
-<!-- p. 119 -->
+<!-- p. 119 --><a id="page-119"></a>
 
 # Appendix: Iberian Tribunal Vocations
 
@@ -3602,7 +3481,7 @@ Barcelona, Duresca, Jaferiya, and Estáncia-es-Karida are but four Covenants in 
 
 Just as Covenants in the Iberian Tribunal are not bound by any limitations, neither are the characters that you may play there. Thus, you may create any character you like, just as you may create any Covenant. However, there are some character types that are common and unique to the Tribunal. The following are basic character Vocations, just like those provided in the *Ars Magica* rulebook. Feel free to use these characters as players’ characters, or as the basis for people that players’ characters meet. As usual, these Vocations are open to alteration as required; you are encouraged to specialize them to suit your Saga.
 
-<!-- p. 120 -->
+<!-- p. 120 --><a id="page-120"></a>
 
 ## Grog Vocations
 
@@ -3664,7 +3543,7 @@ You’ve been your own person for most of your life. Folks in your village calle
 
 *“It is not anything magical. Plain common sense, that’s all.”*
 
-<!-- p. 121 -->
+<!-- p. 121 --><a id="page-121"></a>
 
 ### Lady’s Trainer
 
@@ -3724,7 +3603,7 @@ When the King of León needed people to populate land captured from the Moors, y
 
 *“I remember the houses of my village burning. The women were screaming but the men stood firm. Most of them died but none of them ran.”*
 
-<!-- p. 122 -->
+<!-- p. 122 --><a id="page-122"></a>
 
 ## Companion Vocations
 
@@ -3786,7 +3665,7 @@ You learned astrology at the university of Córdova and it was during your studi
 
 *“Your life was laid out from the moment of your birth. The stars know the passage of your brief time upon this world.”*
 
-<!-- p. 123 -->
+<!-- p. 123 --><a id="page-123"></a>
 
 ### Moorish Warrior
 
@@ -3846,7 +3725,7 @@ You have left the *aljama*, the Jewish community, perhaps to escape the contempt
 
 *“The Christians are such hypocrites. They pass laws to cause us harm but they can not live without us. Without my skills, and those of others like me, their world would cease to be.”*
 
-<!-- p. 124 -->
+<!-- p. 124 --><a id="page-124"></a>
 
 ## Magus Vocations
 
@@ -3896,7 +3775,7 @@ Age: 31
 
 Virtues & Flaws: Strong-Willed +1, Extra Arts +1, Gentle Gift +1, Subtle Magic +2, Quiet Magic +2, Enduring Magic +3, Verditius Magic –1, Necessary Condition (must turn spindle) –1, Soft-Hearted –1, Restriction (common; when without yarn or thread) –5, Incomprehensible –2
 
-<!-- p. 125 -->
+<!-- p. 125 --><a id="page-125"></a>
 
 Abilities: Speak Latin 5, Magic Theory 5, Speak Own Language 4, *Parma Magica* 3, Craft — Weaving 3, Scribe Latin 3, Verditius Magic 3, Evaluate (cloth) 3, Hermes Lore 2, Hermes History 2, Alertness 2, Folk Ken 2, Bargain 2
 
@@ -3951,7 +3830,7 @@ Your master joined the Order of Hermes because it was the only way for him to pr
 
 *“The Order is no better than the knights who destroy those that are different from them. When my people ruled this land we all lived together. There were difficulties but no person was an enemy because he did not belong.”*
 
-<!-- p. 126 -->
+<!-- p. 126 --><a id="page-126"></a>
 
 ### Sufi of House Criamon
 

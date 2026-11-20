@@ -1,5 +1,24 @@
 # Thrice-Told Tales
 
+<!-- back cover -->
+
+Drop a stone into a pool…<br>
+and watch the ripples spread
+
+A prince saves a princess and they marry. But then they have a daughter, and perhaps the faeries are still interested.
+
+A saint raises the dead and stops a war, and years later the wealth of the pilgrimage site nurtures a hive of diabolists.
+
+A maga recovers a mighty enchantment, and her apprentice accidentally opens a gate to a regio.
+
+### Actions Have Consequences
+
+This *Ars Magica* book contains five sequences of three stories each — issues and situations that cannot be fully resolved in a single story, but which return to draw the characters back in years later.
+
+These thrice-told tales weave Divine, Infernal, Faerie, and Magic threads into the tapestry of your saga.
+
+<!-- markdown specifics -->
+
 ## Markdown Version Specifics
 
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
@@ -7,9 +26,11 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0312
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; ArM5 references link to the matching section of the Definitive Edition, whose page numbers differ). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -433,7 +454,7 @@ If the characters offer to help, Dium is grateful, and offers them whatever rema
 
 > ### Plinth and Stylobate Cult Member Creation
 >
-> As the Brotherhood is based on a group of stonemasons, its members all have some ability in that craft or profession. Most members also have some training in a bow skill, due to the founder’s love of archery. Use The Specialist (**ArM5**, page 21) or The Tough Guy ([**ArM5**, page 22](<Ars Magica - Definitive Edition (Core Rules).md#the-tough-guy>)) for general laborers, and The Rogue or The Witch ([**ArM5**, page 23](<Ars Magica - Definitive Edition (Core Rules).md#the-tough-guy>)) for Plinth characters. As these characters have Major Virtues and Flaws, they must be companions, rather than grogs.
+> As the Brotherhood is based on a group of stonemasons, its members all have some ability in that craft or profession. Most members also have some training in a bow skill, due to the founder’s love of archery. Use The Specialist ([**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#the-specialist>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-specialist>)) or The Tough Guy ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#the-tough-guy>) / [Definitive Edition, page 33](<Ars Magica - Definitive Edition (Core Rules).md#the-tough-guy>)) for general laborers, and The Rogue or The Witch ([**ArM5**, page 23](<Ars Magica 5e - Core Rules.md#the-tough-guy>) / [Definitive Edition, page 33](<Ars Magica - Definitive Edition (Core Rules).md#the-tough-guy>)) for Plinth characters. As these characters have Major Virtues and Flaws, they must be companions, rather than grogs.
 >
 > #### Stylobate
 >
@@ -496,7 +517,7 @@ The area around the covenant has an Infernal aura of 1 by night, but this is ove
 
 #### The Perfidious Aura
 
-The Infernal auras near Ombres are Perfidious auras, as described in *Realms of Power: the Infernal*, [pages 15–17](#page-15). In addition to the standard modifications to supernatural powers (**ArM5**, page 183), the aura has the following effects.
+The Infernal auras near Ombres are Perfidious auras, as described in *Realms of Power: the Infernal*, [pages 15–17](#page-15). In addition to the standard modifications to supernatural powers ([**ArM5**, page 183](<Ars Magica 5e - Core Rules.md#supernatural>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#supernatural>)), the aura has the following effects.
 
 Recovery rolls suffer a penalty equal to the aura’s strength, and diseases never improve within the aura; the best that can happen is that they stabilize.
 
@@ -658,17 +679,17 @@ Using the ambient, unformed matter of the universe, a specific form is forged fo
 *Envisioning*, 1 or 5 points, Init 0, Mentem:<br>
 This power allows one of two dream-like powers. At a cost of 1 point, the demon appears in a target’s dream. The dream itself is gradually imposed upon and twisted to take a darker and more frightening tone. The demon speaks through figures in the dream. At at a cost of 5 points, the demon forces the target into a waking dream. The waking dream is a powerful hallucination of whatever the demon desires. The shocking aspects stun the victim for a round, requiring a Brave Personality roll (Ease Factor 9) to avoid an extreme reaction (retching, convulsions, abject terror). Demons use this power to manipulate the dream states of their victims. It also serves as a method to provide visions to a victim, with the end goal of leading them into corruption through a desire to obsess and hoard some object.
 
-*Enslave the Mortal Mind*, 8 points, Init +0, Mentem. See **ArM5**, page 152.
+*Enslave the Mortal Mind*, 8 points, Init +0, Mentem. See [**ArM5**, page 152](<Ars Magica 5e - Core Rules.md#page-152>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#coerce-the-spirits-of-the-night>).
 
 *Grasp and Crush the Good Intent*, 2 points, Init +0, Vim:<br>
 This effect is the same as as a Mastered, Fast Cast *Unravelling the Fabric of Vim*, level 10.
 
-*Kinesis*, 5 points, Init 0, Terram. See **ArM5**, page 193
+*Kinesis*, 5 points, Init 0, Terram. See [**ArM5**, page 193](<Ars Magica 5e - Core Rules.md#page-193>) / [Definitive Edition, page 442](<Ars Magica - Definitive Edition (Core Rules).md#creatures-of-magic>)
 
 *Obsession* (hoarding one item), 1–3 points, Init –5, Vim:<br>
 This power is used only when there is a chink in the armor of virtue, through the indulgence in a venial sin. This allows the demon to impose its particular sin upon the target. Magic Resistance must be Penetrated, as normal. The victim is assaulted with sinful thoughts and acquires a Personality Trait to represent this. This Personality Trait has a score equal to the number of points used by the demon to activate the power. This becomes the target’s Obsession Trait. (*Realms of Power: the Infernal,* [page 32](#page-32))
 
-*Wreaths of Foul Smoke*, 2 points, Init +0, Auram. See **ArM5**, page 125.
+*Wreaths of Foul Smoke*, 2 points, Init +0, Auram. See [**ArM5**, page 125](<Ars Magica 5e - Core Rules.md#page-125>) / [Definitive Edition, page 325](<Ars Magica - Definitive Edition (Core Rules).md#level-40-1>).
 
 Equipment: Hoards a specific item (daggers, horse shoes, parchment etc) in a specific location.
 
@@ -740,7 +761,7 @@ Add the Angry +3 trait to DuPurin’s combat rolls. DuPurin stirs his anger up s
 *Incorporeal*, 0 points, Init Constant, Mentem.
 
 *Lord of the Structure*, 5 points, Init +5, Terram:<br>
-This power is much like the spell *Lord of the Trees* ([**ArM5**, page 139](<Ars Magica - Definitive Edition (Core Rules).md#lord-of-the-trees>)), but Terram based with Herbam requisites. Doors slam into people, gates fall, and shackles fixed to the wall whip out at anyone within range. This power can move anything that is both permanently attached to the structure, and normally capable of being moved. The maximum size is an area of 10 common rooms. The Duration of this effect is Concentration.
+This power is much like the spell *Lord of the Trees* ([**ArM5**, page 139](<Ars Magica 5e - Core Rules.md#lord-of-the-trees>) / [Definitive Edition, page 343](<Ars Magica - Definitive Edition (Core Rules).md#lord-of-the-trees>)), but Terram based with Herbam requisites. Doors slam into people, gates fall, and shackles fixed to the wall whip out at anyone within range. This power can move anything that is both permanently attached to the structure, and normally capable of being moved. The maximum size is an area of 10 common rooms. The Duration of this effect is Concentration.
 
 *Obsession* (obedience to DuPurin), 1-3 points, Init –5, Vim. See Lemures, earlier.
 
@@ -800,7 +821,7 @@ The Black Dog becomes engulfed in shadow flames of darkness. The beast itself is
 *Straight Chase*, 1 point, Init +2, Animal:<br>
 The dogs pass through mundane solid objects and walls when in pursuit of a target. Duration: Diameter.
 
-*Terrifying Howl*, 3 points, Init +2, Animal. See **ArM5**, page 193.
+*Terrifying Howl*, 3 points, Init +2, Animal. See [**ArM5**, page 193](<Ars Magica 5e - Core Rules.md#page-193>) / [Definitive Edition, page 442](<Ars Magica - Definitive Edition (Core Rules).md#creatures-of-magic>).
 
 *Venomous Bite*, 2 points, Init +5, Aquam:<br>
 This is a paralysis toxin causing 2 levels of Fatigue, resisted by a Stamina roll against an Ease Factor of 9.
@@ -851,7 +872,7 @@ Powers:
 *Envisioning*, 1 or 5 points, Init 0, Mentem. See Lemures, earlier.
 
 *Fraudulent Desire*, 3 points, Init +0, Mentem:<br>
-Functions as *Rising Ire* ([**ArM5**, page 148](<Ars Magica - Definitive Edition (Core Rules).md#rising-ire>)), but creates a strong avaricious desire.
+Functions as *Rising Ire* ([**ArM5**, page 148](<Ars Magica 5e - Core Rules.md#rising-ire>) / [Definitive Edition, page 353](<Ars Magica - Definitive Edition (Core Rules).md#rising-ire>)), but creates a strong avaricious desire.
 
 *Obsession* (inspire followers for Father Carth), 1–3 points, Init –5, Vim. See Lemures, earlier.
 
@@ -954,12 +975,12 @@ Abilities: Area Lore: Lands of Ombres 2 (job-related), Local Language 5 (peasant
 Powers:
 
 *Eudaimone*, 3 points, Init +0, Mentem (at night only):<br>
-This power is similar to *Enchantment of Detachment* ([**ArM5**, page 150](<Ars Magica - Definitive Edition (Core Rules).md#enchantment-of-detachment>)), but only suppresses sinful personality traits.
+This power is similar to *Enchantment of Detachment* ([**ArM5**, page 150](<Ars Magica 5e - Core Rules.md#enchantment-of-detachment>) / [Definitive Edition, page 356](<Ars Magica - Definitive Edition (Core Rules).md#enchantment-of-detachment>)), but only suppresses sinful personality traits.
 
 *Immanis*, 3 points, Init +0, Vim (daylight hours only):<br>
 This power allows a blessing that promotes good fortune in the form of +1 Confidence a single, defined task.
 
-*Kinesis*, 5 points, Init +0, Terram. See **ArM5**, page 193.
+*Kinesis*, 5 points, Init +0, Terram. See [**ArM5**, page 193](<Ars Magica 5e - Core Rules.md#page-193>) / [Definitive Edition, page 442](<Ars Magica - Definitive Edition (Core Rules).md#creatures-of-magic>).
 
 *Incorporeal*, 0 points, Init constant, Corpus
 
@@ -1071,7 +1092,7 @@ Leo-grade Revenants have the Powers of the Corax-grade Revenants. They also have
 
 *Leo’s Batillum*, 2 points, Init +1, Ignem: Creates a shovel’s worth of small red-hot coals that are ‘tossed’ onto a single, specific target (Damage +10). The coals last for a Diameter.
 
-*Thunder of the Leo*, 2 points, Init +1, Auram: The revenant roars, affecting the target as *Jupiter’s Resounding Blow* ([**ArM5**, page 125](<Ars Magica - Definitive Edition (Core Rules).md#jupiters-resounding-blow>)).
+*Thunder of the Leo*, 2 points, Init +1, Auram: The revenant roars, affecting the target as *Jupiter’s Resounding Blow* ([**ArM5**, page 125](<Ars Magica 5e - Core Rules.md#jupiters-resounding-blow>) / [Definitive Edition, page 326](<Ars Magica - Definitive Edition (Core Rules).md#jupiters-resounding-blow>)).
 
 Corax Revenants: These ‘ravens’ travel between the Mythraeum in Level 1 and the Itius in Level 2. These creatures are also under the Pater’s control.
 
@@ -1163,7 +1184,7 @@ Powers:
 
 *Fury of the False Veneer*, 2 points, Init +0, Imaginem. See DuPurin, earlier.
 
-*Incorporeal Darkness*, 0 points, Init constant, Vim. As the *Incorporeal* Power, but creates shadows as the spell *Gloom of Evening*. See **ArM5**, page 142.
+*Incorporeal Darkness*, 0 points, Init constant, Vim. As the *Incorporeal* Power, but creates shadows as the spell *Gloom of Evening*. See [**ArM5**, page 142](<Ars Magica 5e - Core Rules.md#page-142>) / [Definitive Edition, page 345](<Ars Magica - Definitive Edition (Core Rules).md#level-20-20>).
 
 *Infatuation*, 4 points, Init +0, Imaginem:<br>
 The spirit ‘speaks’ with a voice so rich with lustful promises that a strong desire to approach washes over the target group (up to 10 people). Characters may resist the lure with an Intelligence stress roll against an Ease Factor of 9. Those affected do whatever is necessary to reach the demon in as straight a path as possible: leaping off bridges, steering ships into the rocks, or climbing cliffs. They will not take obviously suicidal actions, but they will take insane risks, and do not care about risks to others.
@@ -1658,7 +1679,7 @@ If asked, Tadhg will guide the magi to the mound within an hour, considering it 
 
 ### The Mound
 
-The mound is hidden in an Infernal regio with an aura of 1, the same strength as the Infernal aura in the bog. Those with Second Sight can see the regio boundary on a successful Perception + Second Sight + stress die roll against an Ease Factor of 5. Hermetic Intellego Vim spells can also spot the regio boundary (see [**ArM5** page 158](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-spells>), *Piercing the Faerie* *Veil,* for equivalent spells), and once the boundary is spotted a character can easily enter the regio. Those without such capabilities cannot see the boundary or find the mound. However, the boundary opens at sunrise and sunset, letting anyone view and thus enter the mound’s regio. It only stays open for two minutes, but that should be enough time for the group to get through.
+The mound is hidden in an Infernal regio with an aura of 1, the same strength as the Infernal aura in the bog. Those with Second Sight can see the regio boundary on a successful Perception + Second Sight + stress die roll against an Ease Factor of 5. Hermetic Intellego Vim spells can also spot the regio boundary (see [**ArM5** page 158](<Ars Magica 5e - Core Rules.md#intellego-vim-spells>) / [Definitive Edition, page 366](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-spells>), *Piercing the Faerie* *Veil,* for equivalent spells), and once the boundary is spotted a character can easily enter the regio. Those without such capabilities cannot see the boundary or find the mound. However, the boundary opens at sunrise and sunset, letting anyone view and thus enter the mound’s regio. It only stays open for two minutes, but that should be enough time for the group to get through.
 
 Approximately 350 feet in diameter and 40 feet high, the mound is a hill rising above the mire. Its slopes are overgrown with weeds and black thorn bushes, and a pair of stunted willows stands on the top like horns atop the devil’s head. The original entrance to the mound was destroyed centuries ago. Crispus reopened the entrance, and the evidence of rocks and stones piled around the dark opening is apparent. The interior passageway is lined with six-foot tall stones on both walls and ceiling. The tunnel runs straight for 100 feet before ending in a small room with three alcoves. The alcove across the tunnel holds a bench-like pedestal with a small depression in its otherwise flat top. The alcoves to the left and right are empty. This area once served as a minor sacrificial site for the cult, where small items and foodstuffs were offered to the god by individual supplicants.
 
@@ -2193,7 +2214,7 @@ The war has not yet spread to the surrounding territory and is currently contain
 
 #### Hard Men and Cruel Mistresses
 
-On the way to Templeport the characters meet a group of warriors and their camp women, desperadoes drawn to the Red Knights’ banner. The warriors are soldiers (**ArM5**, page 22) and reek of sour wine and sweat. The women are noncombatant prostitutes, runaways, and thieves. While the soldiers are ready to fight, this is not necessarily a combat encounter, and rather shows the lasciviousness and moral depravity of those heeding the Red Knights’ call.
+On the way to Templeport the characters meet a group of warriors and their camp women, desperadoes drawn to the Red Knights’ banner. The warriors are soldiers ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)) and reek of sour wine and sweat. The women are noncombatant prostitutes, runaways, and thieves. While the soldiers are ready to fight, this is not necessarily a combat encounter, and rather shows the lasciviousness and moral depravity of those heeding the Red Knights’ call.
 
 The group is not large, a dozen at most. They attack only if they have numerical supremacy, and run off at the first sign of magic or stiff resistance. If questioned they say that they, like several other mercenary groups, are heading into the bog to join the Red Lord’s army. They aren’t clear on who the Red Lord is, but know that he is neither McGovern or McTiernan, and that he pays well and promptly. They have been told to camp near the border of the bog and wait for the Red Lord’s envoy to come to get them. This encounter shows that there is another party active in the area, one who uses the bog as a headquarters, and that it is not the McGoverns or the McTiernans who started hostilities.
 
@@ -2249,7 +2270,7 @@ A square black tower sits in the center of the created regio, which has an Infer
 
 A narrow circular staircase is recessed into the right-hand wall and leads to the floors above. The second floor contains a large parlor and two private bedrooms. The parlor is dark, lit only by candles placed haphazardly around the room. Couches, chairs, and tables block vision and obscure the characters’ view. Shadowy figures skulk around the perimeter of the room. No one is supposed to be here without the Red Knights’ permission, and the seneschals in charge know this. Emerging from the shadows, the seneschals confront the magi and ask who they are and why they are here.
 
-The only acceptable response is that the characters have arrived to do the Red Knights’ bidding, although they must refer to a Red Knight by name. It is unlikely that the characters will know this. The mercenary captains refer to the Knights as “the great lords” but do not know individual names, and this informality will not appease the seneschals. They demand that the characters leave immediately. If they refuse, the seneschals call the room’s guards and melee ensues. Use the standard soldier template for the guards and the specialist template for the seneschals ([**ArM5** pages 21 – 22](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)). There are as many seneschals as main player characters (magi and companions), and as many guards as grogs.
+The only acceptable response is that the characters have arrived to do the Red Knights’ bidding, although they must refer to a Red Knight by name. It is unlikely that the characters will know this. The mercenary captains refer to the Knights as “the great lords” but do not know individual names, and this informality will not appease the seneschals. They demand that the characters leave immediately. If they refuse, the seneschals call the room’s guards and melee ensues. Use the standard soldier template for the guards and the specialist template for the seneschals ([**ArM5** pages 21 – 22](<Ars Magica 5e - Core Rules.md#the-standard-soldier>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)). There are as many seneschals as main player characters (magi and companions), and as many guards as grogs.
 
 The sounds of melee do not bring the mercenaries below rushing upstairs. They are used to hearing commotion from above, and while the sound of melee alarms them, they do not ascend the stairs. They remain alert, however, and may interfere with the characters’ exit.
 
@@ -2451,7 +2472,7 @@ That evening Uallachán skulks to the new church, and under the light of a ring 
 
 There is a chance that Uallachán is stopped before this point. Suspicious player characters may spy on him, magically or simply by following him, and if successful see him sneak to the church, light the candles, and start drawing a summoning circle. Any magus who sees this circle, drawn with compressed sticks made of charcoal and Uallachán’s blood, knows what it is. It takes him 30 minutes to draw the circle, plenty of time for a watcher to run and get the magi. If apprehended at this point, Uallachán uses his Incantation/Psychomachia powers to control shield grogs and make them attack their magi masters, then flee in the confusion. He uses the vis in the revenant heads to bolster the strength of his maleficia.
 
-The magi have a chance to interrupt Uallachán’s summoning if they arrive in time. Because of the close connection to the mound and its original residents, it only takes the diabolist three rounds to summon a Red Knight. At the end of the third round, check Uallachán’s Summoning Total to see if he is successful (see insert). If disturbed during the summoning, Uallachán needs to make a successful Stamina + Concentration + stress die check against an Ease Factor based on the type of interruption (see [**ArM5**, page 82](<Ars Magica - Definitive Edition (Core Rules).md#stress-die>)). If he successfully summons a Red Knight while under attack, he orders the demon to protect him. While under no obligation to the diabolist, the Red Knight joins the fray for the sheer pleasure of it.
+The magi have a chance to interrupt Uallachán’s summoning if they arrive in time. Because of the close connection to the mound and its original residents, it only takes the diabolist three rounds to summon a Red Knight. At the end of the third round, check Uallachán’s Summoning Total to see if he is successful (see insert). If disturbed during the summoning, Uallachán needs to make a successful Stamina + Concentration + stress die check against an Ease Factor based on the type of interruption (see [**ArM5**, page 82](<Ars Magica 5e - Core Rules.md#stress-die>) / [Definitive Edition, page 7](<Ars Magica - Definitive Edition (Core Rules).md#stress-die>)). If he successfully summons a Red Knight while under attack, he orders the demon to protect him. While under no obligation to the diabolist, the Red Knight joins the fray for the sheer pleasure of it.
 
 <!-- p. 51 --><a id="page-51"></a>
 
@@ -2563,7 +2584,7 @@ If Uallachán succeeds undetected, the summoned Red Knight marches down the moun
 
 > ### Pádraig’s Entrancement
 >
-> There is a chance that Pádraig will use his Entrancement Ability in play. Rules for using Entrancement can be found in **ArM5**, page 65. To resist, the target gets a Stamina + stress die roll, with a bonus based on the specifics of the command. The marriage proposal is a questionable command. Not believing what a Gifted character says in an innocuous command. Attacking a superior is a dangerous command. Gillisa McGovern has a Stamina +2, and the feebler Hugh McTiernan has a Stamina of 0. Pádraig’s Entrancement is an Infernal power and receives a bonus in an Infernal aura.
+> There is a chance that Pádraig will use his Entrancement Ability in play. Rules for using Entrancement can be found in [**ArM5**, page 65](<Ars Magica 5e - Core Rules.md#entrancement>) / [Definitive Edition, page 78](<Ars Magica - Definitive Edition (Core Rules).md#entrancement>). To resist, the target gets a Stamina + stress die roll, with a bonus based on the specifics of the command. The marriage proposal is a questionable command. Not believing what a Gifted character says in an innocuous command. Attacking a superior is a dangerous command. Gillisa McGovern has a Stamina +2, and the feebler Hugh McTiernan has a Stamina of 0. Pádraig’s Entrancement is an Infernal power and receives a bonus in an Infernal aura.
 
 The Red Knight may be too powerful for the group. In this case, the demon kills its target and, fulfilling its order, leaves the mundane realm. Following tomorrow’s Mass, Uallachán promises to hold a funeral instead of a wedding.
 
@@ -2573,7 +2594,7 @@ If the wedding is still on, Father Pádraig and Father Uallachán are in the chu
 
 Father Uallachán leads the Mass. To those with scores in Theology, everything seems normal. The church has been consecrated previously, and the Mass is the Dominion rite that will give the area a Dominion aura (*Realms of Power: The Divine Revised Edition*, [page 11](#page-11)). Midway through, his back to the crowd, Uallachán stops the Mass and starts his summoning ritual, which takes five rounds to complete. Father Pádraig, if present, notices the change but does nothing. Tadhg and Fiona stand unaware, unable to tell the difference between a Latin Mass and the Latin summoning incantations. A keen observer sees Uallachán take the Red Knight’s sword from the alter, or the revenant heads if he was unable to get the sword, on a Perception + Awareness roll against an Ease Factor of 12 (remember that the viewer is looking through the small slits in the rood screen).
 
-The magi have a chance to stop the ritual. If they are in the front of the nave, noticing Uallachán switching from the Mass to the summoning ritual requires a successful Perception + Awareness stress roll against an Ease Factor of 12. Raise the Ease Factor to 15 if they are near the middle of the room, and to 18 if they are standing in the rear. To catch the shift from Mass to the summoning ritual the listener must speak Latin and must succeed with an Intelligence + Theology simple roll against an Ease Factor of 6. Once the ritual has been noticed, there are many ways to interrupt his summoning by breaking his concentration, from a spectacular spell to a simple shove. Use the concentration rules (**ArM5**, page 82).
+The magi have a chance to stop the ritual. If they are in the front of the nave, noticing Uallachán switching from the Mass to the summoning ritual requires a successful Perception + Awareness stress roll against an Ease Factor of 12. Raise the Ease Factor to 15 if they are near the middle of the room, and to 18 if they are standing in the rear. To catch the shift from Mass to the summoning ritual the listener must speak Latin and must succeed with an Intelligence + Theology simple roll against an Ease Factor of 6. Once the ritual has been noticed, there are many ways to interrupt his summoning by breaking his concentration, from a spectacular spell to a simple shove. Use the concentration rules ([**ArM5**, page 82](<Ars Magica 5e - Core Rules.md#concentration>) / [Definitive Edition, page 162](<Ars Magica - Definitive Edition (Core Rules).md#concentration>)).
 
 If they succeed, he is surely at their mercy, his strength lying in his Ars Goetia and not in direct confrontations. Uallachán asks for an ecclesiastical trial. The barons pause, and if not influenced by the player characters agree, bundling the priest in chains and dragging him off with Pádraig. Uallachán is the more dangerous of the two. As soon as he is able he draws a summoning circle and conjures demons for aid. Until he is slain he continues to be a thorn in the barons’ side.
 
@@ -2593,7 +2614,7 @@ Anticipate a wild melee, as the player characters fight Crom Dubh’s deluded an
 
 Of the approximately 200 guests, half are soldiers, and half of them have followed their baron to join Crom Dubh. Aided by a handful of revenants and a Red Knight or two, they have the advantage in the fight. Don’t concentrate on the overall melee, focus on the player characters. Do they fight or do they flee? Or do they chase Crom Dubh into his hole and attack him?
 
-If they fight, treat the warriors as standard soldiers (**ArM5**, page 22), who brought their axes but left heater shields and scale mail in their tents. Five untrained solders and one supernatural entity — use your best judgment based on the player characters’ capabilities whether this is a revenant or a Red Knight — rush the magi. If the magi win, send a second and then third group, which should include Red Knights. If they defeat those groups, assume that the remaining warriors allied with Crom Dubh have also been defeated.
+If they fight, treat the warriors as standard soldiers ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)), who brought their axes but left heater shields and scale mail in their tents. Five untrained solders and one supernatural entity — use your best judgment based on the player characters’ capabilities whether this is a revenant or a Red Knight — rush the magi. If the magi win, send a second and then third group, which should include Red Knights. If they defeat those groups, assume that the remaining warriors allied with Crom Dubh have also been defeated.
 
 If they flee, give the players the chance to make heroic decisions even though their characters are in flight: a knight threatens a helpless woman, Fiona trips and hangs from the edge of the chasm, Tadhg is hard pressed by a revenant. Give them some small measure of victory so that their retreat doesn’t leave a sour taste in their mouths. Naturally, they will return better prepared to deal with Crom Dubh and his minions.
 
@@ -2889,7 +2910,7 @@ The players may roll Int + Organization Lore: Order of Hermes when the magi firs
 >
 > #### A Quaesitorial Investigation
 >
-> The default assumption is that House Guernicus assigns the junior Quaesitor Eutropia to look into the matter, and ask the player covenant to assist with their superior local knowledge. The magi are not suspects, but this is a delicate matter and helping to get to the bottom of it will defuse future accusations that political enemies might raise. The main task is to determine whether the disastrous events are completely natural, or show signs of supernatural interference. Eutropia is intended to provide abilities that the player magi lack, rather than taking the lead in the investigation. Given the nature of the investigation, she has been designed as an expert in examining supernatural effects and residues. If the player magi are fully competent in this area, instead use the basic Guernicus template in **ArM5**, page 26 for a more generally skilled Quaesitor. If the player characters are completely lacking in social skills, Eutropia could be redesigned to fill that role, although it would be harder to explain why she, in particular, was sent.
+> The default assumption is that House Guernicus assigns the junior Quaesitor Eutropia to look into the matter, and ask the player covenant to assist with their superior local knowledge. The magi are not suspects, but this is a delicate matter and helping to get to the bottom of it will defuse future accusations that political enemies might raise. The main task is to determine whether the disastrous events are completely natural, or show signs of supernatural interference. Eutropia is intended to provide abilities that the player magi lack, rather than taking the lead in the investigation. Given the nature of the investigation, she has been designed as an expert in examining supernatural effects and residues. If the player magi are fully competent in this area, instead use the basic Guernicus template in [**ArM5**, page 26](<Ars Magica 5e - Core Rules.md#magi>) / [Definitive Edition, page 25](<Ars Magica - Definitive Edition (Core Rules).md#magi>) for a more generally skilled Quaesitor. If the player characters are completely lacking in social skills, Eutropia could be redesigned to fill that role, although it would be harder to explain why she, in particular, was sent.
 >
 > Magi who are active in politics and follow the workings of the Order know in advance that the archdeacon is behind the complaint. The Quaesitores give the player characters notice before Eutropia arrives, and the schedule for the story has the player magi arrive in the Town between two and four months after the fire. On the other hand they may be very proactive and events may unfurl more quickly after the crisis, especially if the Town is a location in active use by the magi. The base magnitudes needed to sense magical effects may need adjustment if the schedule is very different from that envisaged.
 >
@@ -3162,9 +3183,9 @@ Edward’s knowledge and attitude to magi are described in his stat block, found
 
 > ### Magical Investigation
 >
-> Intellego magic such as *Tales of the Ashes* InIg5 ([**ArM5**, page 141](<Ars Magica - Definitive Edition (Core Rules).md#tales-of-the-ashes>)) used in the blacksmith’s shop shows how the fire started, revealing it as a non-supernatural event. Uncovering the series of unfortunate events described in the earlier insert What is Really Happening would need several spells, and some luck. Speaking with inanimate objects is tedious and difficult to pull off with spontaneous magic, and investigators need to find a relatively unharmed object to communicate with. The cat and mouse involved make excellent witnesses (as far as their limited intelligence allows) but finding these exact animals is like finding the needle in the proverbial haystack. They are still in the area, but many rats and mice roam the ruins since there are scraps of food to find and places to hide, which bring in cats hunting them.
+> Intellego magic such as *Tales of the Ashes* InIg5 ([**ArM5**, page 141](<Ars Magica 5e - Core Rules.md#tales-of-the-ashes>) / [Definitive Edition, page 345](<Ars Magica - Definitive Edition (Core Rules).md#tales-of-the-ashes>)) used in the blacksmith’s shop shows how the fire started, revealing it as a non-supernatural event. Uncovering the series of unfortunate events described in the earlier insert What is Really Happening would need several spells, and some luck. Speaking with inanimate objects is tedious and difficult to pull off with spontaneous magic, and investigators need to find a relatively unharmed object to communicate with. The cat and mouse involved make excellent witnesses (as far as their limited intelligence allows) but finding these exact animals is like finding the needle in the proverbial haystack. They are still in the area, but many rats and mice roam the ruins since there are scraps of food to find and places to hide, which bring in cats hunting them.
 >
-> For more detail the magi need spells more powerful and specific than this, especially if they want to check for any supernatural effects in other locations than the ruins of the smithies. Intellego Vim spells ([**ArM5**, page 158–159](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-spells>) and *Houses of Hermes: True Lineages,* [pages 71 and 75](#page-71)) reveal supernatural effects, as well as details depending if the spell is powerful enough.
+> For more detail the magi need spells more powerful and specific than this, especially if they want to check for any supernatural effects in other locations than the ruins of the smithies. Intellego Vim spells ([**ArM5**, page 158–159](<Ars Magica 5e - Core Rules.md#intellego-vim-spells>) / [Definitive Edition, page 366](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-spells>) and *Houses of Hermes: True Lineages,* [pages 71 and 75](#page-71)) reveal supernatural effects, as well as details depending if the spell is powerful enough.
 >
 > - While still blessed, the townspeople are affected by an ongoing, powerful non-Hermetic and Divine effect of 13th magnitude, detectable with a Base 1 Intellego Vim spell. This effect causes Warping due to being a powerful as well as a continuous supernatural effect. The citizens of the town gained 1 Warping point when it was cast, as well as 1 per season and 1 per full year affected. The Duration (Fast) is unlikely to last more than a month, and definitively no more than a single season. Once the effect is over — when the casting mystic ends his fast — the residue drops to half magnitude. As Duration: Fast is equivalent to Moon, the residue decays a further magnitude with each passing month. This means that the residue reaches magnitude 0 seven months after the mystic stops fasting, giving ample time for investigating magi to discern it.
 >
@@ -3185,7 +3206,7 @@ Edward’s knowledge and attitude to magi are described in his stat block, found
 > Invocation, Adjuration, Level 30<br>
 > R: Voice, D: Grace, T: Ind<br>
 >
-> Theologians say that every person has a guardian angel, though few can sense it and even fewer notice any intervention from it. This effect petitions a guardian angel to protect a target, effectively granting the Virtue of the same name from [**ArM5**, page 43](<Ars Magica - Definitive Edition (Core Rules).md#guardian-angel>), although the angel may choose to intervene more directly as well. This effect needs to Penetrate the Angel’s Magic Resistance in order to work. See Zurfiel, the Guardian Angel of Fabianus, for an example of such a creature.
+> Theologians say that every person has a guardian angel, though few can sense it and even fewer notice any intervention from it. This effect petitions a guardian angel to protect a target, effectively granting the Virtue of the same name from [**ArM5**, page 43](<Ars Magica 5e - Core Rules.md#guardian-angel>) / [Definitive Edition, page 84](<Ars Magica - Definitive Edition (Core Rules).md#guardian-angel>), although the angel may choose to intervene more directly as well. This effect needs to Penetrate the Angel’s Magic Resistance in order to work. See Zurfiel, the Guardian Angel of Fabianus, for an example of such a creature.
 >
 > (Base 4, +2 Voice, +4 Grace)
 >
@@ -3537,7 +3558,7 @@ The punishment for scrying needs to fit the damage done or the actual intent, un
 
 #### Spreading Parma Magica
 
-The gravity of spreading the secret of Parma Magica, mentioned in brief on [**ArM5** page 66](<Ars Magica - Definitive Edition (Core Rules).md#parma-magica>), requires enforcing the Join or Die policy on the student as well as Marching the magus teaching it. However this only refers to outsiders! Fabianus argues that he never had any intentions of disseminating the Order’s secrets to outsiders. He taught it prematurely to his apprentice, because he saw a need for it and as protest against the usual practice. His apprentice would eventually become fully accepted magus and no harm would be done. He assures the Tribunal that had any risk appeared — the apprentice strayed away or the book gone missing — he would have taken responsibility and worked diligently to remedy any harm done. But nothing did happen, and thanks to the early introduction of Parma Magica the apprentice had the chance to learn from tutors other than his parens, to broaden his horizons.
+The gravity of spreading the secret of Parma Magica, mentioned in brief on [**ArM5** page 66](<Ars Magica 5e - Core Rules.md#parma-magica>) / [Definitive Edition, page 169](<Ars Magica - Definitive Edition (Core Rules).md#parma-magica>), requires enforcing the Join or Die policy on the student as well as Marching the magus teaching it. However this only refers to outsiders! Fabianus argues that he never had any intentions of disseminating the Order’s secrets to outsiders. He taught it prematurely to his apprentice, because he saw a need for it and as protest against the usual practice. His apprentice would eventually become fully accepted magus and no harm would be done. He assures the Tribunal that had any risk appeared — the apprentice strayed away or the book gone missing — he would have taken responsibility and worked diligently to remedy any harm done. But nothing did happen, and thanks to the early introduction of Parma Magica the apprentice had the chance to learn from tutors other than his parens, to broaden his horizons.
 
 There is no doubt that Fabianus taught Parma Magica to someone who had not sworn the Code, so in this case there is clearly space to call for a March. However, the person in question was Fabianus’s apprentice, so things are not so clear-cut. While some magi would demand severe punishment, others would want to see this made into standard practice, both for the safety of the apprentice, and to enable other tutors to work effectively. Most magi would not see this as automatically requiring a March, many might look for a lighter punishment, and some might hope to change the Peripheral Code by acquitting him altogether.
 
@@ -3683,7 +3704,7 @@ Abilities: Awareness 6 (alertness), Concentration 5 (angelic powers), Infernal L
 Powers:
 
 *Guardian Angel*, 5 points, Init +0, Vim:<br>
-Zurfiel can grant Soak +5 and Magic Resistance 15 to a pious person in his charge, mimicking the Virtue of the same name in [**ArM5**, page 43](<Ars Magica - Definitive Edition (Core Rules).md#magic-resistance>). While doing this, Zurfiel gains a limited access to the target’s thoughts.
+Zurfiel can grant Soak +5 and Magic Resistance 15 to a pious person in his charge, mimicking the Virtue of the same name in [**ArM5**, page 43](<Ars Magica 5e - Core Rules.md#magic-resistance>) / [Definitive Edition, page 221](<Ars Magica - Definitive Edition (Core Rules).md#magic-resistance>). While doing this, Zurfiel gains a limited access to the target’s thoughts.
 
 *Holy Light*, 1 point, Init +12, Ignem:<br>
 By emitting a searing, white light, Zurfiel blinds any onlookers, unless they succeed in a Stamina stress roll against an Ease Factor of 9 each round. The power has Duration: Diameter, but may be canceled at will.
@@ -4239,7 +4260,7 @@ Silently ask the target what the deepest, darkest secret they are trying to hide
 Allows a strange voice to come from Hork’s current location, and talk for diameter duration. He uses this to reveal secrets or tell lies about who he is and what he wants, or to sing in an eerie and horrible manner. These, however, are horribly (and fortunately) garbled by Hork’s Incomprehensible nature making them hard to understand. (Base 1; +1 Touch, +1 Diameter, + 1 intelligible speech; 4 levels)
 
 *Lift the Unwilling Victim*, 1 point, Init –3, Corpus.<br>
-As Lift the Dangling Puppet, **ArM5**, page 134. (Base 5, +1 Touch, +1 Concentration; Intricacy cost –1 15 levels)
+As Lift the Dangling Puppet, [**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#page-134>) / [Definitive Edition, page 337](<Ars Magica - Definitive Edition (Core Rules).md#rego-corpus-guidelines>). (Base 5, +1 Touch, +1 Concentration; Intricacy cost –1 15 levels)
 
 *The Rush of Freezing Air* 1 point, Init –3 (Auram).<br>
 Causes a freezing blast of cold air to rush forth from where Hork is standing, and howl around the building until it dissipates naturally. Mainly a cosmetic effect, but useful to scare people and break the concentration of spell casters. (Base 2; Touch +1, Diameter +1; 4 levels.)
@@ -4251,7 +4272,7 @@ Chills a room to make it freezing cold. Anyone entering the room notices the icy
 Weeping and sobbing seem to emanate from every surface of the room, mournful voices wailing in a cacophony of unsettling misery. (Base 1; +1 Touch, +1 Diameter, + 2 Room; Intricacy cost –1; 10 levels)
 
 *The Shadowy Chamber*, 0 points, Init –3, Ignem.<br>
-A room is affected as by Gloom of Evening, [**ArM5** page 142](<Ars Magica - Definitive Edition (Core Rules).md#gloom-of-evening>) (Base 2, +1 Touch, +1 Diameter, +2 Room; Intricacy cost –1; 15 levels)
+A room is affected as by Gloom of Evening, [**ArM5** page 142](<Ars Magica 5e - Core Rules.md#gloom-of-evening>) / [Definitive Edition, page 346](<Ars Magica - Definitive Edition (Core Rules).md#gloom-of-evening>) (Base 2, +1 Touch, +1 Diameter, +2 Room; Intricacy cost –1; 15 levels)
 
 *Eidolon*, 1 point, Init –4, Imaginem.<br>
 Hork can use this power to create an illusory image of his true horrific form. He appears as an ugly muscular man with ragged moth’s wings that wave constantly in a non-existent breeze, and a bunch of deadly nightshade where his head should be, with two burning coals for eyes. (Base 2; +2 move as directed, +1 Touch, +2 Sun, +1 intricacy of effect, +1 Intricacy point to reduce cost. 25 levels, Lesser Power.)
@@ -4358,7 +4379,7 @@ Causes all within a room to smell an overwhelming disgusting sweet cloying smell
 Causes ten pebbles per round to form on the ceiling and fall naturally, doing –5 damage (owing to small size) to all below for a period of two minutes. The pebbles vanish at the expiry of the effect. Causes a great deal of noise and distress, but surprisingly little damage. (Base 3, +1 Touch, +2 Group, +1 Diameter, 2 Intricacy points to reduce Might cost. 30 levels. Greater Power.)
 
 *The Sudden Terror*, 1 point, Init +6, Mentem.<br>
-As *Panic of the Trembling Heart*, [**ArM5** page 148](<Ars Magica - Definitive Edition (Core Rules).md#panic-of-the-trembling-heart>), but Range: Touch. (Base 4, +1 Touch, +2 Sun, 1 Intricacy point to reduce Might cost. 20 levels; part of same Greater Power as *Rain of Pebbles* above.)
+As *Panic of the Trembling Heart*, [**ArM5** page 148](<Ars Magica 5e - Core Rules.md#panic-of-the-trembling-heart>) / [Definitive Edition, page 353](<Ars Magica - Definitive Edition (Core Rules).md#panic-of-the-trembling-heart>), but Range: Touch. (Base 4, +1 Touch, +2 Sun, 1 Intricacy point to reduce Might cost. 20 levels; part of same Greater Power as *Rain of Pebbles* above.)
 
 *Eidolon*, 1 point, Init +7, Imaginem.<br>
 The faerie can manifest an illusory form, always a horrific and deformed animal with human features, which can be seen and heard, and that can move and speak as directed by the faerie, until it has no further use for it, at which point it vanishes. Each of the seven faeries has a form in which it appears, which are described under Appearance. (Base 2; +2 move as directed, +1 Touch, +2 Sun, +1 intricacy of effect, +1 Intricacy point to reduce cost. 25 levels, Lesser Power.)
@@ -4729,7 +4750,7 @@ Galera is contracted in marriage to Rufus. The House considers Galera and Rufus 
 > Damhan-Allaidh’s spirit form has a Magic Might of 40, aligned to Corpus. His principal power is that of Possession. The spirit of Damhan-Allaidh also possesses an External Soul. This Virtue normally protects a person from dying ([*Hedge Magic Revised Edition*, page 56](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), but it also prevents the dissipation of a spirit. Atorcoppe cannot be destroyed by reducing his Magic Might score to zero. If this happens he instead acquires a Minor Magic Inferiority in return for restoring his Might score to 1. His Might then slowly regenerates back to its former level.
 >
 > *Possession*, variable points, Init –(Might cost), Mentem:<br>
-> To initiate this power, Damhan-Allaidh must spend 4 Might points and successfully Penetrate any Magic Resistance of the target. If successful, the spirit of Damhan-Allaidh takes up residence within a being. When Damhan-Allaidh is in direct control then the power can be detected with appropriate magic, and his spirit might be seen by characters with Second Sight; but at other times there is nothing to detect except a spell residue (**ArM5**, page 158). The inhabited body is not protected by Damhan-Allaidh’s Magic Resistance, but neither is it stopped by magical wards unless the spirit is in direct control. Damhan-Allaidh can control his host’s actions by spending Might points. For each attempt, roll a die for Damhan-Allaidh and add the number of Might points he is spending (minimum 1). If the host resists the control, the Ease Factor is equal to applicable Personality Traits and bonuses for Virtues such as Strong-Willed, plus a bonus equal to the nature of the attempted action (use the same modifiers for Entrancement, [**ArM5** page 65](<Ars Magica - Definitive Edition (Core Rules).md#strong-willed>)). If the host does not resist, then the Ease Factor is 0. If Damhan-Allaidh’s roll is successful, then the host performs the desired action. While possessing a host, Damhan-Allaidh can use any of his own powers and regenerate Might, but cannot access the powers or spells of the host. He can also talk directly into the mind of his host without spending Might points. He can end the possession at any time, And it also ends if he runs out of Might points. ReMe 40 (Base 15, +1 Touch, +2 Sun, +1 constant, +1 flexibility of control). Greater Power (40 levels)
+> To initiate this power, Damhan-Allaidh must spend 4 Might points and successfully Penetrate any Magic Resistance of the target. If successful, the spirit of Damhan-Allaidh takes up residence within a being. When Damhan-Allaidh is in direct control then the power can be detected with appropriate magic, and his spirit might be seen by characters with Second Sight; but at other times there is nothing to detect except a spell residue ([**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>)). The inhabited body is not protected by Damhan-Allaidh’s Magic Resistance, but neither is it stopped by magical wards unless the spirit is in direct control. Damhan-Allaidh can control his host’s actions by spending Might points. For each attempt, roll a die for Damhan-Allaidh and add the number of Might points he is spending (minimum 1). If the host resists the control, the Ease Factor is equal to applicable Personality Traits and bonuses for Virtues such as Strong-Willed, plus a bonus equal to the nature of the attempted action (use the same modifiers for Entrancement, [**ArM5** page 65](<Ars Magica 5e - Core Rules.md#strong-willed>) / [Definitive Edition, page 110](<Ars Magica - Definitive Edition (Core Rules).md#strong-willed>)). If the host does not resist, then the Ease Factor is 0. If Damhan-Allaidh’s roll is successful, then the host performs the desired action. While possessing a host, Damhan-Allaidh can use any of his own powers and regenerate Might, but cannot access the powers or spells of the host. He can also talk directly into the mind of his host without spending Might points. He can end the possession at any time, And it also ends if he runs out of Might points. ReMe 40 (Base 15, +1 Touch, +2 Sun, +1 constant, +1 flexibility of control). Greater Power (40 levels)
 >
 > #### Pictish Necromancy
 >
@@ -4974,9 +4995,9 @@ The storyguide should decide how many spiders are involved in the attack against
 
 > ### Cob’s Band
 >
-> Cob’s ruffians should be treated as Standard Soldiers (**ArM5**, page 22), except that they are wearing metal reinforced leather armor and so have a Soak of +4 (in partial armor) or +6 (in full armor) and their Encumbrance is 0 (or 1 in full armor). There are seven men in all, who divide into two Trained Groups in combat: Cob (who has a Leadership of 3) leads one group and his brother Talbot (Leadership 2) leads the other.
+> Cob’s ruffians should be treated as Standard Soldiers ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)), except that they are wearing metal reinforced leather armor and so have a Soak of +4 (in partial armor) or +6 (in full armor) and their Encumbrance is 0 (or 1 in full armor). There are seven men in all, who divide into two Trained Groups in combat: Cob (who has a Leadership of 3) leads one group and his brother Talbot (Leadership 2) leads the other.
 >
-> The ruffians may resort to dirty tricks such as trying to trip, disarm, or grapple opponents; see **ArM5** page 175 or [*Lords of Men* page 133 – 134](<Ars Magica 5e - Lords of Men.md>) for more details. They have practiced using these tricks when fighting as a Trained Group and can use their Group Bonus to assist any of these special effects.
+> The ruffians may resort to dirty tricks such as trying to trip, disarm, or grapple opponents; see [**ArM5** page 175](<Ars Magica 5e - Core Rules.md#page-175>) / [Definitive Edition, page 398](<Ars Magica - Definitive Edition (Core Rules).md#scuffle-effects>) or [*Lords of Men* page 133 – 134](<Ars Magica 5e - Lords of Men.md>) for more details. They have practiced using these tricks when fighting as a Trained Group and can use their Group Bonus to assist any of these special effects.
 
 In the fight against the spiders, Galera employs her enchanted bow to precisely place arrows to help out hard-pressed characters (its Penetration is sufficiently high to damage the spiders). While she knows this place and what it conceals, she desires to be seen helping the characters in order to allay suspicion. If the player characters were lead here by a captive ruffian, he is equally targeted by the spiders.
 
@@ -5044,7 +5065,7 @@ Only those bitten by the spider (those who have taken a wound from either the bi
 With this power, the spider can create all manner of threads, ropes and nets. Each use of this power can create a rope strong enough to support the creature’s weight, or webbing that requires a Strength roll of Ease Factor 9 (or a sharp implement) to escape. CrAn 25 (Base 5, +1 Touch, +2 Sun, +1 flexibility) Lesser Power (25 levels, –5 Might cost from Improved Powers)
 
 *Weave the Silken Shroud*, 2 points, Init –2, Animal:<br>
-as *The Weaver’s Trap of Webs* ([**ArM5** page 117](<Ars Magica - Definitive Edition (Core Rules).md#weavers-trap-of-webs>)) but Range: Touch. Creo Animal 30 (Base 5, +1 Touch, +2 Sun, +2 Group) Greater Power (30 levels, –1 Might cost, +3 Init)
+as *The Weaver’s Trap of Webs* ([**ArM5** page 117](<Ars Magica 5e - Core Rules.md#weavers-trap-of-webs>) / [Definitive Edition, page 316](<Ars Magica - Definitive Edition (Core Rules).md#weavers-trap-of-webs>)) but Range: Touch. Creo Animal 30 (Base 5, +1 Touch, +2 Sun, +2 Group) Greater Power (30 levels, –1 Might cost, +3 Init)
 
 Vis: 4 pawns of Animal, in fangs
 
@@ -5111,7 +5132,7 @@ The first order of business should be to find out more about Rufus’s heirloom.
 
 #### Damhan-Allaidh
 
-All apprentices are taught the basic history of Damhan-Allaidh, as recounted in **ArM5**, page 10. To learn more, characters may have to consult specialists, or research among annals of the history of the Order of Hermes. A detailed history of Damhan-Allaidh, such as that that can be revealed through a dedicated search, is provided as an appendix.
+All apprentices are taught the basic history of Damhan-Allaidh, as recounted in [**ArM5**, page 10](<Ars Magica 5e - Core Rules.md#apprentices>) / [Definitive Edition, page 21](<Ars Magica - Definitive Edition (Core Rules).md#apprentices>). To learn more, characters may have to consult specialists, or research among annals of the history of the Order of Hermes. A detailed history of Damhan-Allaidh, such as that that can be revealed through a dedicated search, is provided as an appendix.
 
 ### Actions of the Antagonists
 
@@ -5291,7 +5312,7 @@ At worst, the magi may need to fight their way free or face summary judgment. At
 
 #### A Battle in the Village
 
-If the characters provoke a fight, the lord’s men enter combat to protect their liege. His protectors consist of one or more knights (use the Companion Template from [**ArM5**, page 22](<Ars Magica - Definitive Edition (Core Rules).md#companion-templates>)); the exact number depends on the importance of the lord. A landed knight may be attended by one or two knights banneret; a baron may have four or more. These are supplemented by men-at-arms (use the Grog Template for the Standard Soldier from [**ArM5**, page 21](<Ars Magica - Definitive Edition (Core Rules).md#grog-templates>)). Either side may take advantage of the setting during this battle; there are plenty of places in which to hide or provide cover amongst the huts and livestock sheds.
+If the characters provoke a fight, the lord’s men enter combat to protect their liege. His protectors consist of one or more knights (use the Companion Template from [**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#companion-templates>) / [Definitive Edition, page 33](<Ars Magica - Definitive Edition (Core Rules).md#companion-templates>)); the exact number depends on the importance of the lord. A landed knight may be attended by one or two knights banneret; a baron may have four or more. These are supplemented by men-at-arms (use the Grog Template for the Standard Soldier from [**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#grog-templates>) / [Definitive Edition, page 31](<Ars Magica - Definitive Edition (Core Rules).md#grog-templates>)). Either side may take advantage of the setting during this battle; there are plenty of places in which to hide or provide cover amongst the huts and livestock sheds.
 
 Lord Abel’s men are ordered to bring the player characters in alive if possible; assuming that the characters hear this instruction, they have an advantage over their opponents. The lord’s men begin by concentrating on non-lethal combat and try to separate out the most dangerous-looking opponent and overwhelming him while another group keeps the rest of the characters occupied. Once one of their number suffers serious injury, or in the face of magical opposition, the men abandon deliberate attempts to preserve lives and do their best to defeat their opponents in the shortest time. It will be down to the lord’s chirurgeon to ensure that there is someone left for questioning. Any captives will be imprisoned for at least a week before Lord Abel tries them for their crimes.
 
@@ -5307,7 +5328,7 @@ Unfortunately for Galera, she has run afoul of her own schemes. She herself has 
 
 > ### The Morbid Ague
 >
-> A disease caused by corruption of the sanguine humor by the stench of rotting bodies and the sour smell of spider venom. Characters contracting the disease begin to display symptoms after a few days. They suffer a continuous fever and discolored blemishes on the skin with radiating lines that vaguely resemble spiders; these itch dreadfully. Should the character perform an action that risks worsening their symptoms (**ArM5** page 179; equivalent to a Wound Penalty of –3), they must also make a Stamina + Concentration roll of Ease Factor 6 to avoid fainting.
+> A disease caused by corruption of the sanguine humor by the stench of rotting bodies and the sour smell of spider venom. Characters contracting the disease begin to display symptoms after a few days. They suffer a continuous fever and discolored blemishes on the skin with radiating lines that vaguely resemble spiders; these itch dreadfully. Should the character perform an action that risks worsening their symptoms ([**ArM5** page 179](<Ars Magica 5e - Core Rules.md#page-179>); equivalent to a Wound Penalty of –3), they must also make a Stamina + Concentration roll of Ease Factor 6 to avoid fainting.
 >
 > These symptoms amount to a Serious Disease Penalty (equivalent to a Medium Wound). Characters can make Disease Recovery Rolls every week: a result of 15 or better results in improvement, a 9 is required to remain stable. If using the rules for diseases from *Art & Academe*, the Morbid Ague has a Severity of 11.
 
@@ -5345,7 +5366,7 @@ Whether it happens at Lord Abel’s Castle or at her local hideout, the player c
 
 The player characters probably cannot easily get access to Galera without magic. Asking Lord Abel for permission to speak with her, given that she is a suspected witch, is a good way to enhance their own suspicious reputations with Lord Abel and may damage their own case. If they are really determined, a forceful group of magi could abduct or murder Galera from Lord Abel’s custody, and this can be allowed without doing damage to the following story, as long as the characters later encounter Simon. However, such actions should not be free from repercussions, not least with the Order for interfering with a local noble.
 
-If the player characters choose this route, their biggest challenge is likely to be Lord Abel’s guards rather than anything that Galera can bring to the fight. In addition to his mesnie knights, Lord Abel has access to a small number of men-at-arms (use the statistics for Standard Soldiers ([**ArM5** page 22](<Ars Magica - Definitive Edition (Core Rules).md#number-of-uses>)) and plenty of thick stone walls and heavy oaken doors.
+If the player characters choose this route, their biggest challenge is likely to be Lord Abel’s guards rather than anything that Galera can bring to the fight. In addition to his mesnie knights, Lord Abel has access to a small number of men-at-arms (use the statistics for Standard Soldiers ([**ArM5** page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)) and plenty of thick stone walls and heavy oaken doors.
 
 While divested of her bow and anything that looks like a weapon, Galera still has a selection of enchantments at her disposal (see nearby insert for her updated character sheet). She can use the *Innocuous Blade* to destroy a lock or bar on a gaol cell and the *Oil for the Eager Wick* and *Prometheus’s Gift* to start a fire as a distraction. If you prefer you can have her escape, and face the characters at her hideout instead.
 
@@ -5395,7 +5416,7 @@ If she believes the characters are in hot pursuit she stages her defense here on
 > ##### Locket of the Proximate Presence
 > ReIm 18<br>
 > Pen 0, 6/day<br>
-> This small mirrored locket, when opened, creates an effect similar to The Wizard’s Sidestep ([**ArM5** page 147](<Ars Magica - Definitive Edition (Core Rules).md#wizards-sidestep>)) on the wearer.
+> This small mirrored locket, when opened, creates an effect similar to The Wizard’s Sidestep ([**ArM5** page 147](<Ars Magica 5e - Core Rules.md#wizards-sidestep>) / [Definitive Edition, page 352](<Ars Magica - Definitive Edition (Core Rules).md#wizards-sidestep>)) on the wearer.
 >
 > (Base 2, +1 Touch, +1 Conc, +1 changing image, +1 moved image matches change; +5 item maintains concentration, +3 6/day)
 >
@@ -5416,7 +5437,7 @@ If she believes the characters are in hot pursuit she stages her defense here on
 > ##### Oil for the Eager Wick
 > CrAq 13<br>
 > Pen 0, 6/day<br>
-> This vial has a sprinkler in the bung. It is filled with mundane oil, which then becomes a carrier for the effect through Tethered magic. When the liquid touches a porous surface it creates flammable oil just like Creeping Oil ([**ArM5**, page 121](<Ars Magica - Definitive Edition (Core Rules).md#creeping-oil>)), enough to soak a person’s clothes or cover an area two paces in diameter. If ignited, the oil burns with nonmagical flames for three rounds, inflicting +6 damage on the first round, +3 in the second round, and +0 in the third. If used on a person’s clothes, the flames inflict +12, +6, and +0 damage instead.
+> This vial has a sprinkler in the bung. It is filled with mundane oil, which then becomes a carrier for the effect through Tethered magic. When the liquid touches a porous surface it creates flammable oil just like Creeping Oil ([**ArM5**, page 121](<Ars Magica 5e - Core Rules.md#creeping-oil>) / [Definitive Edition, page 321](<Ars Magica - Definitive Edition (Core Rules).md#creeping-oil>)), enough to soak a person’s clothes or cover an area two paces in diameter. If ignited, the oil burns with nonmagical flames for three rounds, inflicting +6 damage on the first round, +3 in the second round, and +0 in the third. If used on a person’s clothes, the flames inflict +12, +6, and +0 damage instead.
 >
 > (Base 3, +1 Touch, +2 Sun; +3 6/day, Tethered)
 >
@@ -6023,7 +6044,7 @@ The rune magician draws this rune script in his own blood, taking a Medium wound
 
 ### K, Calc, “Chalk”
 
-Calc is the rune of remembrance. Its shape represents a chalice used to toast heroes and lords. This rune can be used in a rune script to create a repository of knowledge on a subject governed by the target rune. Thus Calc (Raido) could act as a repository on Area Lore, and Calc (Perth) could store Magic Lore or even Rune Magic. Once the repository has been created it must be filled by the caster; this process is identical to a character writing a summa or tractatus (ArM5, page 165), including the time taken. A tractatus written in this manner counts toward the maximum number of tractatus that an author can write. The completed runescript looks no different to any other at first glance, but if studied reveals the presence of hidden depths, unfolding in the mind as if staring into murky water. Anyone in possession of the repository can study the knowledge contained therein, as if it were a text of the appropriate type, as long as they are capable of reading runes. Calc rune scripts can also be used to preserve smaller amounts of knowledge, such as a hero’s story imparted to anyone touching his grave marker.
+Calc is the rune of remembrance. Its shape represents a chalice used to toast heroes and lords. This rune can be used in a rune script to create a repository of knowledge on a subject governed by the target rune. Thus Calc (Raido) could act as a repository on Area Lore, and Calc (Perth) could store Magic Lore or even Rune Magic. Once the repository has been created it must be filled by the caster; this process is identical to a character writing a summa or tractatus ([ArM5, page 165](<Ars Magica 5e - Core Rules.md#tractatus>) / [Definitive Edition, page 380](<Ars Magica - Definitive Edition (Core Rules).md#tractatus>)), including the time taken. A tractatus written in this manner counts toward the maximum number of tractatus that an author can write. The completed runescript looks no different to any other at first glance, but if studied reveals the presence of hidden depths, unfolding in the mind as if staring into murky water. Anyone in possession of the repository can study the knowledge contained therein, as if it were a text of the appropriate type, as long as they are capable of reading runes. Calc rune scripts can also be used to preserve smaller amounts of knowledge, such as a hero’s story imparted to anyone touching his grave marker.
 
 As a target, Calc can represent any repository of knowledge, including memories, books, poems, and gravestones.
 

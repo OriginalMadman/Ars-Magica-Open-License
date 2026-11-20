@@ -1,4 +1,4 @@
-<!-- p. 1 -->
+<!-- p. 1 --><a id="page-1"></a>
 
 # Secrets in Sand
 
@@ -14,6 +14,8 @@ Visit the github for the latest revision of this document and the complete texts
 While this extracted text is complete and provided completely free under the Open License, we highly recommend downloading the original illustrated PDF, bonus material for *Blood and Sand: The Levant Tribunal* (Ars Magica Fourth Edition, 2002), which Atlas Games provides as a free resource: https://www.atlas-games.com/pdf_storage/secretsinsand.pdf
 
 *[Completion state: Done. All text extracted from the original PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. No official errata exist; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; illustrations are not included.]*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -75,7 +77,7 @@ Given the current atmosphere in the East, it is understandable that the majority
 
 There are three Hermetic Virtues and Flaws specifically associated with the Islamic Tradition, available to all magi at character creation. They are as follows:
 
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
 #### +1 Virtue: Islamic Magic
 
@@ -109,7 +111,7 @@ Instead of starting scores in Speak and Scribe Latin, you have starting scores i
 >
 > These restrictions are similar to those placed on Hermetic use of Faerie magic (WGRE, page 136).
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
 > #### Sample Islamic Spell: Convocation of Faithful
 >
@@ -139,7 +141,7 @@ This section contains statistics for the following magi, described in *Blood and
 Sharaf al-Din ‘Umar of House Jerbiton<br>
 Amber the Golden of House Tremere
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
 **From Domus Pacis:**<br>
 Felix of House Guernicus<br>
@@ -188,7 +190,7 @@ Statistics are not given for Tau of House Flambeau, Aurora Borealis of House Jer
 > a) Talisman — attunements (not included in spell totals): Repel things +2, Project bolts and missiles +3, Control things at a distance +4, Destroy things at a distance +4<br>
 > b) Repels all wooden and metal weapons which come within Reach (R: Reach, D: *Sura*, T: Group). Works 6 times/day. Activated by tapping the staff on the ground twice in quick succession (Level rationale: Repel wooden and metal weapons (ReHe(Te) 25), replace D: Concentration with *Sura*, increase target to Group +10 = ReHe(Te) 35).<br>
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 > c) Casts The Seven League Stride (R: Per., D: *Shahada*, T: Ind). Works 6 times/day. Activated by tapping the staff on the ground three times in quick succession (Level rationale: *The Seven League Stride* (ReCo 35), replace D: Mom. with *Shahada* = ReCo 35).<br>
 > 2. Brass sigil ring<br>
@@ -232,7 +234,7 @@ Statistics are not given for Tau of House Flambeau, Aurora Borealis of House Jer
 > Voice of the Lake (R: Touch, D: *Sura*, T: Spec. — InAq 25/28)<br>
 > Eyes of the Bat (R: Per./Touch, D: Spec., T: Spec. — InAu 25/27)<br>
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
 > Heat of Hell’s Impending Doom (R: Per., D: *Qira’a*/Moon, T: Minaret — Mu(Re)Au(Ig) 30/25)<br>
 > Stone Tell of the Mind that Sits (R: Reach/Voice, D: *Salat*, T: Small — InTe 35/29)<br>
@@ -294,7 +296,7 @@ Statistics are not given for Tau of House Flambeau, Aurora Borealis of House Jer
 > Shape of the Woodland Prowler (MuCo(An) 25/32)<br>
 > Strings of the Unwilling Marionette (ReCo 25/28)<br>
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 > Gift of the Bear’s Fortitude (MuCo(An) 25/32)<br>
 > Cloak of Black Feathers (MuCo(An, Au) 30/24)<br>
@@ -360,7 +362,7 @@ Turns a cat into a leopard. The cat may transform itself back at will. Amber of 
 > **Characteristics:** Int +4, Per +4, Pre 0, Com 0, Str +2, Sta +3, Dex 0, Qik –2<br>
 > **Age:** 48 (Apparent 45)<br>
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
 > **Afflictions:** Stiff joints (1), Visibly aging (0), Loss of hearing (0)<br>
 > **Size:** 0<br>
@@ -427,7 +429,7 @@ Turns a cat into a leopard. The cat may transform itself back at will. Amber of 
 > **Body levels:** OK, 0, –1, –3, –5, Incapacitated<br>
 > **Abilities:** Awareness 2 (Urban Settings), Bargain 4 (Magic Items), Carouse 2 (Stay Sober), Charm 3 (Asking Favors), Concentration 3 (Long Periods), Craft: Armory 2 (Chain-mail), Craft: Clothiery 4 (Cloaks), Craft: Jewelry-making (Rings) 3, Craft: Weapon-smithing 2 (Swords), Etiquette 2 (Merchants), Finesse 2 (Precision), Folk Ken 3 (Merchants), Forgery 3 (Letters), Guile 3 (Selling), Hermes Lore 2 (Famous Magic Items), Hermetic Law 1 (Magic Items), Intrigue 3 (Trade), Legend Lore 1 (Famous Magic Items), Levant Lore 3 (Mercantile Quarters), Magic Theory 7 (Items), Parma Magica 3 (Vim), Penetration 2 (Mentem), Scribe Latin 2 (Lab Texts), Speak Arabic 2 (Merchant Classes), Speak English 4 (Colorful Phrases), Speak Latin 5 (Catching Nuances), Verditius Magic 5 (Vim)<br>
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 > **Arts:** Cr 10, In 11, Mu 10, Pe 10, Re 10; An 5, Aq 5, Au 5, Co 10, He 7; Ig 5, Im 9, Me 10, Te 10, Vi 11<br>
 > **Twilight Points:** 3<br>
@@ -481,7 +483,7 @@ Turns a cat into a leopard. The cat may transform itself back at will. Amber of 
 > **Personality Traits:** Overconfident +3, Pious +3, Brave +3, Hot-tempered +2<br>
 > **Reputations:** Great warrior +2, with Crusader magi, Threat to peace +2, with Quaesitores<br>
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 > **Combat:**
 >
@@ -546,7 +548,7 @@ Turns a cat into a leopard. The cat may transform itself back at will. Amber of 
 > **Personality Traits:** Power-hungry +3, Manipulative +3, Heartless +2, Vulnerable +1<br>
 > **Reputations:** Dangerous +2, with magi about whom he knows secrets, Threat to peace +2, with Quaesitores<br>
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
 > **Combat:**
 >
@@ -646,7 +648,7 @@ Turns a cat into a leopard. The cat may transform itself back at will. Amber of 
 > Masking the Odor of Magic (PeVi 35/43)<br>
 > Aegis of the Hearth (ReVi 35/47)<br>
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 > Circular Ward Against Demons (ReVi 35/44)<br>
 > Maintaining the Demanding Spell (ReVi 35/44)<br>
@@ -674,7 +676,7 @@ During the reign of the caliph Harun al-Rashid, Husn Maryam was a Muslim princes
 
 1. **Engraved with a travel bed.** When the picture is rubbed, and the words, “In the name of Sulayman, o carnelian, I order you to bring me a traveling bed,” are spoken, a traveling bed appears, complete with cushions and covers. When the bead is held with this face upwards, and the words, “Carnelian, o carnelian, I conjure you, in the name of Sulayman, to rise with us,” are spoken, the bed rises into the air, and carries those upon it wherever they direct it. The bed’s movement is controlled by moving the face of the carnelian (storyguides may wish to impose Dexterity rolls). The bed remains in existence until it is dismissed, at which point it disappears. (Level rationales: Create a bed with covers and cushions, R. Reach, D. approx. Sun, T. Ind. = CrHe(An) 20, control the bed, R. Reach, D. approx. *Qira’a*, T. Ind. = ReHe 25).
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 2. **Engraved with a pavilion.** When this face is held towards the holder, and the words, “In the name of Sulayman, o carnelian, let a pavilion be set up here,” are spoken, a large pavilion appears, with curtains and floor mats. This pavilion remains until it is dismissed. (Level rationale: Create a pavilion with curtains and mats, R. Reach, D. approx. Sun, T. Str. = CrHe 25).
 3. **Engraved with a tree.** When this face is pointed downwards, and the words, “By virtue of the names of God, let trees spring up here, with a large river by their side,” are spoken, a group of trees appears, with a river flowing past them. The river appears to rise from the ground 100 paces away, and to disappear into it again 100 paces away in the other direction. The water of the river is not only refreshing, but also provides genuine sustenance. The river and trees remain until dismissed. (Level rationale: Create a body of water and a group of trees, R. Reach, D. approx. Sun, T. approx. Minaret = CrAq(He) 45).
@@ -683,7 +685,7 @@ During the reign of the caliph Harun al-Rashid, Husn Maryam was a Muslim princes
 
 All powers may be used an unlimited number of times. The talisman’s powers are extremely powerful, breaking many Hermetic limits, and it contains more powers than a Hermetic mage could instill. Thus the item is likely to be sought by many Hermetic magi. Such magi are likely to go to great lengths to obtain it, and may be prepared to slay those who oppose them. Due to its utterly non-Hermetic composition, the levels listed under the rationales for all its powers are doubled for purposes of investigation.
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 ## Blood and Sand: The Levant Tribunal
 

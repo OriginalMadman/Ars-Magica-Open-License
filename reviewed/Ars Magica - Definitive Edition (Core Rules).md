@@ -1,5 +1,5 @@
 # Ars Magica Definitive Edition
-The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
+The extensively revised and expanded deluxe version of Ars Magica 5th Edition, the Benchmark Roleplaying Game of Magicians and Covenants in 13th Century Mythic Europe.
 
 <!-- back cover -->
 
@@ -23,6 +23,8 @@ While this extracted text is complete and provided completely free under the Ope
 *[Completion state: Done. This is a new PDF extraction (v2) merged with the previous markdown version (v1), keeping all its manual fixes, headings and links, and re-checked page by page against the official PDF (January 2026 release): every page compared with its page image and word for word, with punctuation, against the PDF text. Text missing from the earlier extraction was restored, guideline tables and stat blocks were brought back to the printed wording, minus signs are en dashes as printed, and every printed page carries a page comment and anchor. All internal page references and references to other Ars Magica books are linked (other books by file name in this repository). Validated forum errata applied (see Issues from Original below). Remaining: full pass review by others; the character sheet, maps and art are not included.]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -59,8 +61,6 @@ While this extracted text is complete and provided completely free under the Ope
 [Traditional Index](#traditional-index)<br>
 
 *Page numbers: every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N (for example [page 222](#page-222)). Page references in the text link to the named section where one matches, otherwise to the page.*
-
-*Obsidian: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. Install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 ## Issues from Original
 
@@ -3738,7 +3738,7 @@ You have risen to enjoy the status and privilege associated with the most import
 
 #### Aristotelian Training
 *Minor, General*<br>
-The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11](#page-11) of *Art and Academe*). This Virtue is compatible with Puissant Artes Liberales.
+The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11 of *Art and Academe*](<Ars Magica 5e - Art & Academe.md>)). This Virtue is compatible with Puissant Artes Liberales.
 
 #### Atlantean Magic
 *Minor, Hermetic*<br>
@@ -7164,7 +7164,7 @@ The character is prone to keeping secrets from his sodales. He rarely explains w
 
 #### Seeker
 *Minor, Personality*<br>
-You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15](#page-15) of *Houses of Hermes: True Lineages*.
+You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15 of *Houses of Hermes: True Lineages*](<Ars Magica 5e - Houses of Hermes - True Lineages.md>).
 
 #### Servant of the (Land)
 *Major, Story*<br>
@@ -18682,7 +18682,7 @@ Relics are physical objects that, in some way, house part of the power of the Di
 
 <!-- p. 420 --><a id="page-420"></a>
 
-In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here; more can be found on [pages 88 and 89](#page-88) of *Realms of Power: The Divine Revised Edition*.
+In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here; more can be found on [pages 88 and 89 of *Realms of Power: The Divine Revised Edition*](<Ars Magica 5e - Realms of Power - The Divine (Revised).md>).
 
 > #### Sample Relic Powers
 >

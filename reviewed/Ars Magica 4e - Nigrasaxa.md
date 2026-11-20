@@ -1,4 +1,4 @@
-<!-- p. 1 -->
+<!-- p. 1 --><a id="page-1"></a>
 
 # Nigrasaxa: An Ars Magica Mini-Saga
 
@@ -14,6 +14,8 @@ Visit the github for the latest revision of this document and the complete texts
 While this extracted text is complete and provided completely free under the Open License, we highly recommend downloading the original illustrated PDF, a free introductory mini-saga for Ars Magica Fourth Edition (1998), which Atlas Games provides as a free resource: https://www.atlas-games.com/pdf_storage/nigrasaxa.pdf
 
 *[Completion state: Done. All text extracted from the original PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. The character sheet check-box tracks are written as plain lists. No official errata exist; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; illustrations are not included.]*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -42,9 +44,9 @@ You’ll probably want to purchase a copy of **Ars Magica** Fourth Edition befor
 
 If you’re not planning to be the storyguide for *Nigrasaxa,* you should stop reading now. You’ll only spoil your fun.
 
-As *Nigrasaxa’s* storyguide, the first thing you should do is read through *Nigrasaxa* in its entirety, including all of the handouts and all of the player characters. You might want to start by reading the description of the covenant of Nigrasaxa on page 18. It’s located at the end of this scenario because it’s intended to be copied and given out with the other player handouts, but it’s must-read information for you, too.
+As *Nigrasaxa’s* storyguide, the first thing you should do is read through *Nigrasaxa* in its entirety, including all of the handouts and all of the player characters. You might want to start by reading the description of the covenant of Nigrasaxa on [page 18](#the-covenant-of-nigrasaxa). It’s located at the end of this scenario because it’s intended to be copied and given out with the other player handouts, but it’s must-read information for you, too.
 
-Next, you should look through the **Ars Magica** rulebook. You certainly don't need to be able to recite it from memory, but you should know where things are. Make sure you take a good look at the Introduction (page 4) and Hermetic Magic (page 64) chapters. You should also have a good grasp on the rules presented in *Promises, Promises.* After that, you’re ready to go!
+Next, you should look through the **Ars Magica** rulebook. You certainly don't need to be able to recite it from memory, but you should know where things are. Make sure you take a good look at the Introduction ([page 4](#page-4)) and Hermetic Magic (page 64) chapters. You should also have a good grasp on the rules presented in *Promises, Promises.* After that, you’re ready to go!
 
 ## Contents
 
@@ -110,13 +112,13 @@ In addition to the scenario material, *Nigrasaxa* contains six pregenerated char
 
 It should be easy to play through this entire kit in three sessions, and you may be able to do it in two.
 
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
 ## I: One Small Favor
 
 ### Summary
 
-Our story starts in early the summer of 1221 AD when a local lord comes to the covenant to ask for its help in finding his daughter, who has gone missing. Maximianus (the covenant’s leader— see the handout on page 18) orders all the player magi to go and help him, telling them they need to know their neighbors. The lord takes the characters back to his manor, and explains the problem.
+Our story starts in early the summer of 1221 AD when a local lord comes to the covenant to ask for its help in finding his daughter, who has gone missing. Maximianus (the covenant’s leader— see the handout on [page 18](#page-18)) orders all the player magi to go and help him, telling them they need to know their neighbors. The lord takes the characters back to his manor, and explains the problem.
 
 As the characters head for the place where the girl was last seen, they must pass through a village. The local parish priest has an exaggerated fear of magic, and is trying to stir the villagers up against the covenant. The villagers are scared of the magi, who must negotiate their way out of any difficulties that arise.
 
@@ -159,7 +161,7 @@ Henry is thirteen years old and has been at the covenant all his life, as his mo
 >**Equipment:** Normal clothes<br>
 >**Encumbrance:** 0
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
 He knows nothing about Lord Robert, beyond the fact that he is the lord of the nearest manor to the covenant, and has just turned up at the covenant. He knows nothing at all about why he is here.
 
@@ -206,7 +208,7 @@ When the characters have finished asking questions, Maximianus tells them to go 
 >
 >*\* These statistics apply when fully armored*
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
 #### Lord Robert
 
@@ -236,7 +238,7 @@ If they calm her down, they can get a more accurate version of events. The child
 
 The characters can also talk to William, who confirms the latter part of Hilda's story. He is a man in his late twenties, rather ugly but fairly confident when talking to the magi. He thinks Hilda is probably telling the truth, as she has always been honest as far as he knows.
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 If the characters talk to Robert again, he vouches for the character of his servants, and confirms he has no enemies who would be interested in kidnapping his youngest daughter. He also subtly suggests that the characters should be off looking for the girl rather than pestering him, as it is getting late.
 
@@ -264,7 +266,7 @@ He might be right, as well. He is standing in the church, which has a Dominion a
 
 The magi are unlikely to convince Father Geoffrey that they are not in league with the devil. However, he has little in the way of evidence, and if they can argue their case well enough, he concedes ground, grudgingly, as he realizes he cannot bring the rest of the village with him in his beliefs. Although he continues looking for evidence, that has no effect on the course of this story.
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
 ### The Hole
 
@@ -298,7 +300,7 @@ The journey to the forest is uneventful, taking the characters across farmland a
 
 The faerie forest is very dry, as if after several weeks without rain in summer. The trees are still in leaf, but there is a brittle feeling about everything, and it is obviously highly flammable. This is strange, since the weather has been rather rainy for that last month. Further, despite the dryness, there is a great abundance of undergrowth and creepers. In fact, there is a clear path between the trees, but this is hemmed in on either side by walls of vegetation.
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 This path forms part of a maze. Do not bother with a map; the maze shifts as the characters pass through it. Let them map it, and even let the players do so, but the map will be no use. It will be helpful if they still have an arcane connection to Mathilda, as this can tell them which way to go. If they didn't explicitly say they were bringing it, let each character make an Intelligence roll. If any character gets 6+, he remembered to pocket the arcane connection. If no one does, let them come up with alternative strategies. If these don't work, they will eventually be collected by faeries from the clearing and led there. This appearance of incompetence will hurt their case if they try to use their presence as evidence that the girl is wanted by her family.
 
@@ -324,7 +326,7 @@ They will, however, immediately be approached by a larger faerie, Demissel, who 
 
 The magi may take several approaches. They could try to fight their way through. If they suggest this, point out that there are several other fay lounging around the clearing, eating and playing games. They are outnumbered at least three to one, and it is likely that most of the faeries have some form of magical ability. Morlen thinks they would probably lose if they tried to fight. If they fight anyway, the fay bind them with plants and spider webs and dump them outside the wood. They will spend an unpleasant couple of days bound there before Eleanor Sworder, sent by Maximianus, lets them out. They will also have no chance of getting Mathilda back, and will have to explain this to Lord Robert.
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
 Some form of negotiation is a more promising approach. They could offer to trade something for Mathilda's return. Morlen knows that faeries tend to like creative offerings, and magical ones would be gladly received. An imaginative performance with spontaneous magic might be acceptable, or a promise of some future magical or artistic service. Let the players lead the negotiating, and have the faeries try to get as much as they can. However, do not make them so unyielding that the players are tempted to give up. Rolls may be required if the characters are trying to convince the faeries that they are skilled. Demonstrations of spontaneous magic, or rolls of Com + Skill for mundane abilities, would be appropriate. The characters could also have planned in advance and brought some artistic item with them. There will be some available at the covenant and Lord Robert's manor, if the characters can convince the Lord or Maximianus to let them take them.
 
@@ -344,7 +346,7 @@ Leaving the forest, with or without Mathilda, is easy; a straight path leads fro
 
 Lastly, you should award the characters with an experience point or two for their efforts in rescuing Mathilda. Refer to “Story Experience” on page 186 of the fourth edition rulebook as a guideline. The players, of course, will want to know how they can spend these. Refer to the “Using Experience Points” and “Spending Story Experience” sections on page 186 for answers to these questions.
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 ## First Interlude
 
@@ -352,7 +354,7 @@ When the characters have returned to the covenant, things quiet down for two sea
 
 You will have to guide the players through the rules, as they are relatively complex. Make sure that you understand them properly, first. You’ll want to have read through the “Basic Laboratory Activities” (page 80) and “Experience and Advancement” (page 185) sections of the fourth edition rulebook.
 
-Tell the players about four options: studying Arts from vis (page 190), studying Arts from the library (pages 188-190), studying spells from the library (page 80), and researching spells (pages 80-82). Make sure you pass out information on Nigrasaxa’s library and vis stores (pages 18-19 of this mini-saga). Make sure that they understand the different kinds of books in Nigrasaxa's library, and what vis they have. If a player wants to have his magus study a mundane Knowledge from one of the texts, that is fine. You should discourage the players from having their characters make enchanted items, however — the rules for this are complex, and the process usually takes many seasons.
+Tell the players about four options: studying Arts from vis (page 190), studying Arts from the library (pages 188-190), studying spells from the library (page 80), and researching spells (pages 80-82). Make sure you pass out information on Nigrasaxa’s library and vis stores ([pages 18-19](#the-library-1) of this mini-saga). Make sure that they understand the different kinds of books in Nigrasaxa's library, and what vis they have. If a player wants to have his magus study a mundane Knowledge from one of the texts, that is fine. You should discourage the players from having their characters make enchanted items, however — the rules for this are complex, and the process usually takes many seasons.
 
 When everyone has decided what to do, help them follow the appropriate procedures for calculating the relevant statistics and revising their scores. Check their calculations to make sure they are including everything.
 
@@ -372,7 +374,7 @@ When they have completed two seasons of study, move on to the next chapter. Note
 >
 > AG0256 • ISBN 1-887801-66-9 • $14.95 US
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 ## II: Maximianus’ Final Twilight
 
@@ -406,7 +408,7 @@ William of Thanet, the autocrat (that is, the individual who looks after the mun
 
 William (who has no magical abilities) has been at the covenant ever since it was founded, and has run the daily operations very efficiently. He has very little respect for the player magi, feeling that they cannot properly organize themselves, let alone the covenant, and that he should be in charge in this hour of crisis. Unfortunately, he doesn't have the faintest idea of how to deal with the manifestations resulting from Maximianus's Twilight, and the player magi must overrule him if they are to get anything useful done.
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
 The following account covers William's planned course of action. The characters will arrive at some point during it, most likely, and from that point on William is likely to find it harder to continue with his plans.
 
@@ -452,7 +454,7 @@ These images are identical. Whatever one does, the other also does, and anything
 
 The flames spread out from the body to fill the corridor, so that it is not possible to see what is happening on
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 the other side. They also block all sound, and form a magical barrier to any attempt to use Intéllego magic on the space beyond. They do not radiate heat, however.
 
@@ -486,7 +488,7 @@ When they have led the first group out, it would be a good idea to check William
 
 For some reason, the fires are picking on Eleanor. (This is probably due to Maximianus's attitude toward her, although it could indicate particular favor as much as particular dislike. Twilight effects rarely make good sense. It doesn't matter for this scenario, and you can choose whichever fits your purposes if you continue playing in Nigrasaxa.) She is in the main grog barracks on the third floor, dodging bolts and deflecting them with her shield. She has been hit a few times, and she cannot get past the bolts to leave.
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 Freeing her is relatively easy with the use of magic. ReIg 15 will suffice to get the bolts out of her way, although the caster will have to maintain this until the characters leave the private tower, as the bolts follow them.
 
@@ -540,7 +542,7 @@ Frederick has barricaded himself into a room. The door is shut, and has furnitur
 
 The magi will have to convince Frederick that they can protect him from the bolts of fire. This will not be easy, as he is new to the covenant and not terribly familiar with the power of magic. The easiest way, therefore, is to
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 demonstrate magic to him. ReHe 15 will open the door despite his barricade, and other showy magic could then convince him of the power of the magi.
 
@@ -572,7 +574,7 @@ The characters will probably succeed in rescuing the covenfolk, and the manifest
 
 The characters will now have some sort of reputation with the covenfolk. Try to play this up in their interactions with them. If they handled things well and tactfully, they probably have good reputations. Efficient but ruthless work gains them respect mingled with fear. Complete no-hopers will be viewed with pity by William and Eleanor, who probably help them out of respect for Maximianus's memory, unless they were insulted during the events.
 
-<!-- p. 15 -->
+<!-- p. 15 --><a id="page-15"></a>
 
 ## Second Interlude
 
@@ -580,13 +582,13 @@ After Maximianus's Twilight, the characters get another season of research. This
 
 At the end of this season, a Redcap arrives at the covenant, bearing the announcement of the next tribunal, to be held at the end of the following season at the covenant of Blackthorn. There is little news of the rest of the tribunal, although you might want to mention some of the more public issues that will be raised at tribunal. The Redcap mentions that questions are being raised about their dealings with faeries and the local nobility.
 
-For more information about Redcaps, refer to “House Mercere” on page 19 of the fourth edition rulebook. For more information about who will be present at the tribunal and what might be discussed, refer to the descriptions of those who will be attending on page 17.
+For more information about Redcaps, refer to “House Mercere” on [page 19](#page-19) of the fourth edition rulebook. For more information about who will be present at the tribunal and what might be discussed, refer to the descriptions of those who will be attending on [page 17](#page-17).
 
 After the Redcap's visit, the characters have another season of research.
 
-The characters will also have to decide who will represent them at the tribunal. Get them to send two representatives. The other players will play non-player characters (see “The Tribunal,” on page 16).
+The characters will also have to decide who will represent them at the tribunal. Get them to send two representatives. The other players will play non-player characters (see “The Tribunal,” on [page 16](#page-16)).
 
-For more information on tribunals, both as geographical areas and as gatherings of wizards, refer to page 234 of the fourth edition rulebook. If you are lucky enough to possess or have access to *The Wizard’s Grimoire Revised Edition* (a supplement for **Ars Magica**) you can get an even more in-depth background on the subject on pages 19-24 of that book.
+For more information on tribunals, both as geographical areas and as gatherings of wizards, refer to page 234 of the fourth edition rulebook. If you are lucky enough to possess or have access to *The Wizard’s Grimoire Revised Edition* (a supplement for **Ars Magica**) you can get an even more in-depth background on the subject on [pages 19-24](#page-19) of that book.
 
 #### Perceval, the Redcap
 
@@ -605,7 +607,7 @@ He knows a lot about how tribunals work, and offers to explain to the magi, sinc
 > *The Wizard’s Grimoire, Revised Edition*<br>
 > AG0258 • ISBN 1-887801-68-5• $22.95 US
 
-<!-- p. 16 -->
+<!-- p. 16 --><a id="page-16"></a>
 
 ## III: The Tribunal
 
@@ -635,7 +637,7 @@ One of your main jobs during “The Tribunal” will be to answer out-of-charact
 >
 > We hope that once you have played this mini-saga you will want to keep on playing **Ars Magica**. The pregenerated characters provided here are significantly more powerful than starting magi, so you may wish to start a new saga with your own characters. Even if you do, there is nothing to stop you using the covenant of Nigrasaxa as your home base. It could easily be moved to anywhere in Europe without changing many details. Even if you don't like the covenant as described, you might still want to use some elements, such as the library.
 
-<!-- p. 17 -->
+<!-- p. 17 --><a id="page-17"></a>
 
 #### Edward of Schola Pythagoranis
 
@@ -693,7 +695,7 @@ Your library is superb, and you are willing to give the magi of Nigrasaxa up to 
 
 **Web:** members.aol.com/atlasgames
 
-<!-- p. 18 -->
+<!-- p. 18 --><a id="page-18"></a>
 
 ## The Covenant of Nigrasaxa
 
@@ -736,7 +738,7 @@ The covenant is located in Suffolk, in the Stonehenge Tribunal. You have only re
 - *Health and Healing,* by Maximianus of Bonisagus (summa on Medicine, level 6, quality 9)
 - *On the Order,* by Deusdeditur of Bonisagus (summa on Hermes Lore, level 4, quality 8)
 
-<!-- p. 19 -->
+<!-- p. 19 --><a id="page-19"></a>
 
 - *The Balance of Humors,* Volume I, by Maximianus of Bonisagus (liber quaestionum on Medicine, target 0, quality 12)
 - *The Balance of Humors,* Volume II, by Maximianus of Bonisagus (liber quaestionum on Medicine, target 2, quality 12)
@@ -833,7 +835,7 @@ This is the total amount of vis in the covenant. Any distribution must be agreed
 
 This year's harvests have been included in the totals listed under “Stores,” above.
 
-<!-- p. 20 -->
+<!-- p. 20 --><a id="page-20"></a>
 
 ### Ariel, Follower of Flambeau
 
@@ -885,7 +887,7 @@ A dozen multi-hued ribbons of flame leap from your hands and fly out 15 paces, c
 
 The yellow diamond has associations with the Sun.
 
-<!-- p. 21 -->
+<!-- p. 21 --><a id="page-21"></a>
 
 ##### Burst of the Sweeping Flames
 
@@ -980,7 +982,7 @@ Casting Total: +16
 
 Takes a creature's breath out of its lungs, causing panic and the instant loss of a Fatigue level, plus a second level unless a Stamina stress roll of 6+ is made. Casting requisite is Animál for beasts and Corpus for people. This spell cannot effect a target more than once a round.
 
-<!-- p. 22 -->
+<!-- p. 22 --><a id="page-22"></a>
 
 ### Caltis, Follower of Tremere
 
@@ -1051,7 +1053,7 @@ Casting Total: +20
 
 Turns a volume of packed dirt up to the size of a Room into stone.
 
-<!-- p. 23 -->
+<!-- p. 23 --><a id="page-23"></a>
 
 ##### Eyes of the Treacherous Terrain
 
@@ -1119,7 +1121,7 @@ Casting Total: +20
 
 Like *Unseen Arm* (ReTe 5), but it can carry large objects such as crates. Roughly speaking, it has the capabilities of a very strong person (Str +5). The heavier the object is, the slower the unseen porter moves. If delicacy is required, high Finesse stress rolls (12+ or so) are needed. The spell can only carry inanimate objects, and cannot carry you. It also cannot lift things more than 6 feet above the ground. The focus must be from a valued serving platter. Casting requisites of an appropriate Form for target are required.
 
-<!-- p. 24 -->
+<!-- p. 24 --><a id="page-24"></a>
 
 ### Herrit, Follower of Tytalus
 
@@ -1182,7 +1184,7 @@ Casting Total: +23
 
 You can control the physical movements of a person, such as walking, standing, and turning. If the target resists the control, the movements are jerky. The target can yell, but you can prevent intelligible speech by controlling the target's mouth. The target must be conscious to be moved about. A Strength stress roll of 12+ allows resistance, rolled each round.
 
-<!-- p. 25 -->
+<!-- p. 25 --><a id="page-25"></a>
 
 ##### Aura of Rightful Authority
 
@@ -1276,7 +1278,7 @@ Casting Total: +23
 
 Allows the target to float vertically to any height, carrying up to 50 pounds, and rising as fast as smoke rises, slower if carrying a heavy load. The target cannot move horizontally through this spell.
 
-<!-- p. 26 -->
+<!-- p. 26 --><a id="page-26"></a>
 
 ### Morlen, Follower of Merinita
 
@@ -1338,7 +1340,7 @@ Casting Total: +21
 
 Any one thing, including a living thing, can be made to appear as if it were something else of approximately the same shape and size. The illusion cannot be cast on things that have a shape or size improper to the final appearance, and is broken if anyone, including the target, takes an action that suggests it is something other than what it seems to be. For instance, a person has to curl up to be made to look like a rock; the person's standing up or being touched shows the illusion to be false and ends the spell.
 
-<!-- p. 27 -->
+<!-- p. 27 --><a id="page-27"></a>
 
 ##### Clouds of Thunderous Might
 
@@ -1422,7 +1424,7 @@ Casting Total: +16
 
 Tells you whether a liquid you hold or touch is poisonous, just as a pearl sometimes does. Not surprisingly, having a pearl present makes it very hard to fail when casting this spell.
 
-<!-- p. 28 -->
+<!-- p. 28 --><a id="page-28"></a>
 
 ### Siffed, Follower of Criamon
 
@@ -1489,7 +1491,7 @@ Casting Total: +22
 
 The main emotion influencing a character at the time of casting is replaced by its opposite over the next minute. The new emotion is felt as strongly as the original, but lacks justification and can therefore be talked out of someone. Intelligence stress roll of 9+ to resist.
 
-<!-- p. 29 -->
+<!-- p. 29 --><a id="page-29"></a>
 
 ##### Memory of the Distant Dream
 
@@ -1573,7 +1575,7 @@ Casting Total: +19
 
 The target loses judgment and believes almost any passable lie for the duration of the spell. An Intelligence stress roll of 6+ is allowed to resist. Truly incredible lies allow easier resistance rolls.
 
-<!-- p. 30 -->
+<!-- p. 30 --><a id="page-30"></a>
 
 ### Thamik, Follower of Verditius
 
@@ -1628,7 +1630,7 @@ Causes a tree to move under your mental command. The tree can move its branches 
 
 If you botch a Concentration roll to maintain control, the tree attacks you, having been awakened and disturbed by this spell. The violet amethyst aids this spell because it is the stone of Jupiter and thus aids in the command of others.
 
-<!-- p. 31 -->
+<!-- p. 31 --><a id="page-31"></a>
 
 ##### Converse with Plant and Tree
 

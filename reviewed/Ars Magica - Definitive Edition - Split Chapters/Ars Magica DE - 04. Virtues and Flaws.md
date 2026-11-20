@@ -695,7 +695,7 @@ You have risen to enjoy the status and privilege associated with the most import
 
 #### Aristotelian Training
 *Minor, General*<br>
-The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<../Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11](<Ars Magica DE - 02. The Order of Hermes.md#page-11>) of *Art and Academe*). This Virtue is compatible with Puissant Artes Liberales.
+The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<../Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11 of *Art and Academe*](<../Ars Magica 5e - Art & Academe.md>)). This Virtue is compatible with Puissant Artes Liberales.
 
 #### Atlantean Magic
 *Minor, Hermetic*<br>
@@ -4121,7 +4121,7 @@ The character is prone to keeping secrets from his sodales. He rarely explains w
 
 #### Seeker
 *Minor, Personality*<br>
-You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15](<Ars Magica DE - 02. The Order of Hermes.md#page-15>) of *Houses of Hermes: True Lineages*.
+You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15 of *Houses of Hermes: True Lineages*](<../Ars Magica 5e - Houses of Hermes - True Lineages.md>).
 
 #### Servant of the (Land)
 *Major, Story*<br>

@@ -1,5 +1,13 @@
 # Tales of Mythic Europe
 
+<!-- back cover -->
+
+Mythic Europe is a place of heroism and cowardice, honor and betrayal, wonder and horror. Introduce this full range of possibility into your saga’s stories with *Tales of Mythic Europe*, a collection of short adventures for **Ars Magica Fifth Edition**.
+
+From a ship plagued by a faerie, to a noblewoman plagued by her neighbors. From a village facing a feud, to a town facing unnatural murders. From the godly machinations of churchmen, to the diabolic machinations of demons. Combat, politics, magic, and mystery fill the stories in *Tales of Mythic Europe*, to help you reach the furthest limits of Mythic Europe in your own game.
+
+<!-- markdown specifics -->
+
 ## Markdown Version Specifics
 
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
@@ -7,9 +15,11 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0291
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; ArM5 references link to the matching section of the Definitive Edition, whose page numbers differ). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -22,7 +32,7 @@ The following corrections have been applied to the text of this markdown version
 Source: [Ars Magica Fifth Edition Errata, Atlas Games](https://atlas-games.com/arsmagica/arm5errata).
 
 - **Faerie Speech (p. 6):** description replaced with the errata text (faeries converse in their audience’s language without needing to Penetrate); the old Penetration formula and the note on doubling the Penetration Pretense were removed with it.
-- **The Champion’s Portion (p. 30):** *Aura of Ennobled Presence* ([**ArM5**, page 145](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-ennobled-presence>)) replaced with *Aura of Rightful Authority* ([**ArM5**, page 151](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-ennobled-presence>)).
+- **The Champion’s Portion (p. 30):** *Aura of Ennobled Presence* ([**ArM5**, page 145](<Ars Magica 5e - Core Rules.md#aura-of-ennobled-presence>) / [Definitive Edition, page 350](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-ennobled-presence>)) replaced with *Aura of Rightful Authority* ([**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#aura-of-ennobled-presence>) / [Definitive Edition, page 350](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-ennobled-presence>)).
 - **Chirurgeon’s Healing Touch (p. 54):** Fast Casting replaced with Multiple Casting in Severin’s mastery abilities.
 - **Carnivorous House (p. 55):** level changed to 40 (spell and Severin’s spell list), "+1 Touch" added to the calculation.
 - **Carved Assassin (p. 55):** level changed to 25 (spell and Severin’s spell list), breakdown changed to (Base 10, +1 Touch, +2 Sun).
@@ -789,7 +799,7 @@ Once on the path in the Twilight Void, the group needs a leader to guide them. I
 
 The leader intuitively knows how long the journey will take. If she decides that her speed is too slow, someone else can lead by concentrating on the path and guiding the group. In this case, the new leader makes a stress die + Stamina + Concentration + Herbam Form bonus + 15 (specific location bonus). Since time does not pass in the Twilight Void, meaning that travelers do not age, need to eat, or require sleep, the new leader can maintain concentration of the length of the journey.
 
-Walking off the path is very similar to entering Temporary Twilight, and is explained in *Realms of Power: The Magic Realm*. Travel should be rapid enough that players won’t desire to wander off the path, especially when the storyguide describes it as eerie, nerve-rattling, and frightening. If a PC persists, have her undergo an immediate Temporary Twilight, using the rules in **ArM5**, page 88.
+Walking off the path is very similar to entering Temporary Twilight, and is explained in *Realms of Power: The Magic Realm*. Travel should be rapid enough that players won’t desire to wander off the path, especially when the storyguide describes it as eerie, nerve-rattling, and frightening. If a PC persists, have her undergo an immediate Temporary Twilight, using the rules in [**ArM5**, page 88](<Ars Magica 5e - Core Rules.md#page-88>) / [Definitive Edition, page 228](<Ars Magica - Definitive Edition (Core Rules).md#warping>).
 
 As they move along the path, have each PC besides the leader make a Stamina + Concentration + stress die roll against an Ease Factor of 15. Tell the first player who fails the roll that her character’s attention has wandered. The character notices a rapidly growing vine and lags behind the group to watch it. Tendrils swirl and swoop as the vine grows higher, and it suddenly lashes out at the PC to entwine it. The PC can avoid the vine with a Quickness – Encumbrance + stress die roll against an Ease Factor of 12. Characters who botched the initial Stamina + Concentration roll do not get a chance to avoid the vine and are instantly caught. The vine continues to grow, pushing shoots through the character’s skin in an effort to sap his vigor. A trapped character loses a Fatigue Level per round unless he succeeds with a Stamina + stress die roll against an Ease Factor of 12. Once a character falls unconscious, the vine will take root in the PC. Each round thereafter it does +5 damage to the character. The PC is allowed a Soak + stress die roll against the damage, ignoring armor benefits. A character may break free with a Strength + stress die roll of 15. Other PCs can help the trapped character by cutting him loose. Consider all such attacks successful. Roll a PC’s Damage + stress die against the vine’s Soak of 5 + a stress die. The vine is Size 0. Once it has accumulated enough damage to render it Incapacitated (just like a regular Size 0 creature), the vine is cut apart and the trapped character is freed.
 
@@ -801,7 +811,7 @@ To the left of the path through the Herbam Province is a multi-colored smear tha
 
 When the PCs reach the Crossing, they can step through it, from the Herbam Province and into the Aquam Province. This change does not affect the length of the journey. The Crossing is a favorite hunting ground for a sea-cat, who lies in wait for those walking through, lurking nearly submerged in the crashing waves. Its motivation is simple; it is a predator and anything small than it is prey. This sudden violence sets the tone for the scenario.
 
-A PC must make a Perception + Awareness + stress die against an Ease Factor of 18 to see the sea-cat before it pounces. Those who notice the cat can act accordingly. Those who fail are surprised by the beast. The sea-cat will exert itself on its first round of combat, and may use Ferocity points as Confidence points in the fight. A surprised defender may not exert on her Defense roll during the first round. To leap back through the hole and escape, use the Disengagement rules (**ArM5**, page 173). The Crossing is only wide enough to allow one character at a time to pass through, but does not impede them otherwise. The other PCs may jump into the Aquam Province to save their fellow. The sea-cat will not follow a character through the Crossing.
+A PC must make a Perception + Awareness + stress die against an Ease Factor of 18 to see the sea-cat before it pounces. Those who notice the cat can act accordingly. Those who fail are surprised by the beast. The sea-cat will exert itself on its first round of combat, and may use Ferocity points as Confidence points in the fight. A surprised defender may not exert on her Defense roll during the first round. To leap back through the hole and escape, use the Disengagement rules ([**ArM5**, page 173](<Ars Magica 5e - Core Rules.md#page-173>) / [Definitive Edition, page 396](<Ars Magica - Definitive Edition (Core Rules).md#group-damage>)). The Crossing is only wide enough to allow one character at a time to pass through, but does not impede them otherwise. The other PCs may jump into the Aquam Province to save their fellow. The sea-cat will not follow a character through the Crossing.
 
 #### Sea-cat
 
@@ -838,7 +848,7 @@ Abilities: Athletics 7 (climbing), Awareness 6 (prey), Brawl 9 (claws), Stealth 
 Powers:
 
 *Stench of Putridity*, 1 point, Init +2, Auram.<br>
-At will, the sea-cat can exude a noxious stench that mimics the effects of *Wreaths of Foul Smoke* ([**ArM5**, page 125](<Ars Magica - Definitive Edition (Core Rules).md#wreaths-of-foul-smoke>)). The sea-cat is itself immune to the malodorous vapors.
+At will, the sea-cat can exude a noxious stench that mimics the effects of *Wreaths of Foul Smoke* ([**ArM5**, page 125](<Ars Magica 5e - Core Rules.md#wreaths-of-foul-smoke>) / [Definitive Edition, page 326](<Ars Magica - Definitive Edition (Core Rules).md#wreaths-of-foul-smoke>)). The sea-cat is itself immune to the malodorous vapors.
 
 (Base 3, +2 Sun, excess mastery points increase Init.)
 
@@ -906,7 +916,7 @@ Abilities: Awareness 5 (spying), Brawl 7 (dodge), Irish 3 (songs), Music 3 (sing
 Powers:
 
 *The Gift of Wisdom*, 4 points, Init –14, Mentem.<br>
-This power is exactly like the Hermetic spell, *Gift of Reason* ([**ArM5**, page 148](<Ars Magica - Definitive Edition (Core Rules).md#gift-of-reason>)). Using it permanently drains 4 points from Fintan’s Might score.
+This power is exactly like the Hermetic spell, *Gift of Reason* ([**ArM5**, page 148](<Ars Magica 5e - Core Rules.md#gift-of-reason>) / [Definitive Edition, page 354](<Ars Magica - Definitive Edition (Core Rules).md#gift-of-reason>)). Using it permanently drains 4 points from Fintan’s Might score.
 
 Vis: 1 pawn Aquam in right eye
 
@@ -1188,7 +1198,7 @@ Appearance: A Welsh bowman dresses similarly to an Irish kern, except he’ll we
 
 Welsh bowmen do not fight in trained groups, but usually form up as an untrained group. Their maximum size is six.
 
-First split the skirmishers into groups, using the rules provided on page 172 of **ArM5**. To facilitate play, the groups must all be the same type of generic soldier. Thus, a knight won’t form with a group of bowmen, nor a fénnid with a group of kerns. For convenience, the leader should also be the vanguard (**ArM5**, page 175). The maximum size of each group is equal to the Leadership score of the leader, so you will have to split a force into several groups. A force of 22 fénneda, for example, can be split into 5 groups of 4 (the leader’s Leadership score) and 1 group of 2. Untrained groups are limited in size to 6.
+First split the skirmishers into groups, using the rules provided on page 172 of **ArM5**. To facilitate play, the groups must all be the same type of generic soldier. Thus, a knight won’t form with a group of bowmen, nor a fénnid with a group of kerns. For convenience, the leader should also be the vanguard ([**ArM5**, page 175](<Ars Magica 5e - Core Rules.md#page-175>) / [Definitive Edition, page 398](<Ars Magica - Definitive Edition (Core Rules).md#scuffle-effects>)). The maximum size of each group is equal to the Leadership score of the leader, so you will have to split a force into several groups. A force of 22 fénneda, for example, can be split into 5 groups of 4 (the leader’s Leadership score) and 1 group of 2. Untrained groups are limited in size to 6.
 
 Men combine to form groups, either trained or untrained, and groups combine to form a **warband**. A warband is led by a captain, who can command as many groups as his Presence + Leadership score. The group that the leader leads counts as one of the groups. Aedh, for example, can lead a warband of 6 groups of his own fian, with each group consisting of 4 men. This warband of twenty four men acts as a single opponent in skirmish combat, making one Attack roll and one Defense roll for the entire assemblage. The same rules for a group of men apply to a warband of groups. Warbands can be either trained or untrained. A trained warband adds the sum of its combat abilities as a bonus to the leader’s Combat Totals. The maximum bonus is equal to the leader’s Presence + Leadership total. Group damage is split as evenly as possible.
 
@@ -1269,7 +1279,7 @@ Walking through the portal stones’ archway, the PCs arrive inside the Dún Rud
 
 > ### The Champion’s Portion
 >
-> The champion’s portion is the best cut of meat from the bull: a section of the hindquarters and the tail. It is worth 5 pawns of Animal vis. It also has a magical property that the wearer will be able to invoke if the tail is draped around the waist or shoulders and prominently displayed. Three times a day the wearer can cast an enhanced version of *Aura of Rightful Authority* ([**ArM5**, page 151](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>)), which has a Range of Voice and a Target of Group, augmented to include 100 individuals. While not as powerful as Aedh claims, the champion’s portion does grant its owner the capability to lead 100 men. The champion’s portion loses this power if its vis is drained off.
+> The champion’s portion is the best cut of meat from the bull: a section of the hindquarters and the tail. It is worth 5 pawns of Animal vis. It also has a magical property that the wearer will be able to invoke if the tail is draped around the waist or shoulders and prominently displayed. Three times a day the wearer can cast an enhanced version of *Aura of Rightful Authority* ([**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#aura-of-rightful-authority>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>)), which has a Range of Voice and a Target of Group, augmented to include 100 individuals. While not as powerful as Aedh claims, the champion’s portion does grant its owner the capability to lead 100 men. The champion’s portion loses this power if its vis is drained off.
 
 The regio is large, perhaps five square miles, in the center of which sits the fort. The landscape is hilly, covered with stunted trees and thickly growing brambles, the entire area filled with wispy mist that flows sporadically. A multitude of hidden ravines and toothy crags cover the landscape, which is overall a broken, rough place.
 
@@ -1404,7 +1414,7 @@ Vis: 4 pawns Corpus in hair.
 
 Appearance: Scáth is twenty feet tall and weights 5 tons. He is hideous looking, with an ugly, wrinkled face, bushy eyebrows, and a shorn patch of black hair atop his head. His arms and legs are fat and puffy, and he wears a dun-colored tunic that barely covers his ample rump.
 
-Scáth’s favorite attack is to grab an individual and hurl him at another opponent. To grab an individual, Scáth must succeed with a fist attack, meaning he has to have an Attack Advantage over his opponent (see grappling, **ArM5**, page 174). This attack will not do damage to the grabbed individual. The next round, Scáth throws him, making a thrown stone attack against a second opponent. If the thrown individual hits the second target, apply the Damage generated by the attack to both thrown and struck individuals. If the attack misses, the thrown individual still takes +12 damage.
+Scáth’s favorite attack is to grab an individual and hurl him at another opponent. To grab an individual, Scáth must succeed with a fist attack, meaning he has to have an Attack Advantage over his opponent (see grappling, [**ArM5**, page 174](<Ars Magica 5e - Core Rules.md#page-174>) / [Definitive Edition, page 399](<Ars Magica - Definitive Edition (Core Rules).md#combat-complex-example>)). This attack will not do damage to the grabbed individual. The next round, Scáth throws him, making a thrown stone attack against a second opponent. If the thrown individual hits the second target, apply the Damage generated by the attack to both thrown and struck individuals. If the attack misses, the thrown individual still takes +12 damage.
 
 A grabbed character will be dropped if Scáth takes a Medium Wound while holding him. The grabbed character may make an attack, but at a penalty equal to the Attack Advantage of the attack that grabbed him.
 
@@ -1444,7 +1454,7 @@ In the thirteenth century, Gifted Nemthengacha have been systematically accepted
 
 ### Powers
 
-Like every Ex Miscellanea character, a magus of the Nemthengacha tradition receives a free Major non-Hermetic Virtue, a compulsory Major Flaw, and a free Minor Hermetic Virtue. The Major non-Hermetic Virtue is Embitterment, a new Major Supernatural Ability. Embitterment is similar to Entrancement (**ArM5**, page 65), but the effects are more specific and potent. Due to this focus, Nemthengacha find it difficult to control other emotions in a target’s mind, which spills over into other aspects of Hermetic magic. Each has the Major Hermetic Flaw: Deficient Technique Rego. Since Embitterment depends solely on the Nemthenga’s voice, his magic is less dependent on gestures than other Hermetic magi. He receives the Minor Hermetic Virtue: Subtle Magic at no cost.
+Like every Ex Miscellanea character, a magus of the Nemthengacha tradition receives a free Major non-Hermetic Virtue, a compulsory Major Flaw, and a free Minor Hermetic Virtue. The Major non-Hermetic Virtue is Embitterment, a new Major Supernatural Ability. Embitterment is similar to Entrancement ([**ArM5**, page 65](<Ars Magica 5e - Core Rules.md#entrancement>) / [Definitive Edition, page 78](<Ars Magica - Definitive Edition (Core Rules).md#entrancement>)), but the effects are more specific and potent. Due to this focus, Nemthengacha find it difficult to control other emotions in a target’s mind, which spills over into other aspects of Hermetic magic. Each has the Major Hermetic Flaw: Deficient Technique Rego. Since Embitterment depends solely on the Nemthenga’s voice, his magic is less dependent on gestures than other Hermetic magi. He receives the Minor Hermetic Virtue: Subtle Magic at no cost.
 
 ### Embitterment
 
@@ -1595,7 +1605,7 @@ Pretenses: Animal Handling 1 (sheep), Awareness 6 (guarding), Brawl 5 (dodge), C
 Powers:
 
 *The Eyes of Argos*, 3 points, Init –4, Imaginem:<br>
-This power mimics a level-40 version of the Hermetic spell *Discern the Images of Truth and Falsehood*, ([**ArM5**, page 144](<Ars Magica - Definitive Edition (Core Rules).md#discern-the-images-of-truth-and-falsehood>)).
+This power mimics a level-40 version of the Hermetic spell *Discern the Images of Truth and Falsehood*, ([**ArM5**, page 144](<Ars Magica 5e - Core Rules.md#discern-the-images-of-truth-and-falsehood>) / [Definitive Edition, page 349](<Ars Magica - Definitive Edition (Core Rules).md#discern-the-images-of-truth-and-falsehood>)).
 
 (Base effect 35, +1 Conc. Intricacy points reduce Might cost by 2.)
 
@@ -1914,7 +1924,7 @@ From the docks, the group must climb into a small rowboat, called a “gig,” t
 
 ### The Ship
 
-*La main blanche* is a medium-sized vessel, able to ply rivers and seacoasts as well as hazard the open sea. She is a cog, a flat-bottomed vessel common to the northern seas of Mythic Europe. In sailor’s parlance, she is either a small cog or a large hulk. Cogs are described on [page 84](#page-84) of *City & Guild*; a hulk is a smaller vessel, more streamlined and narrower than the tubby cog, although both types of ships are very similar. She measures 22 yards long from stem to stern (front to back), and her deck is 8 yards wide at its waist. Two raised decks or “castles” sit at stem and stern, which provide shelter for the passengers, who will spend the entire journey above deck. The forecastle is approximately 7 yards square and juts out over the bow. The stern castle is 9 yards square, extending slightly over the gunwales and stern. Both castles have closed wooden railings surrounding them, their names obviously taken from the fortress. Stairs allow access to both upper decks. The area underneath the decks is not closed in, only covered, making the sides open and exposed. While some privacy exists for passengers staying under the stern castle, it is minimal.
+*La main blanche* is a medium-sized vessel, able to ply rivers and seacoasts as well as hazard the open sea. She is a cog, a flat-bottomed vessel common to the northern seas of Mythic Europe. In sailor’s parlance, she is either a small cog or a large hulk. Cogs are described on [page 84 of *City & Guild*](<Ars Magica 5e - City & Guild.md>); a hulk is a smaller vessel, more streamlined and narrower than the tubby cog, although both types of ships are very similar. She measures 22 yards long from stem to stern (front to back), and her deck is 8 yards wide at its waist. Two raised decks or “castles” sit at stem and stern, which provide shelter for the passengers, who will spend the entire journey above deck. The forecastle is approximately 7 yards square and juts out over the bow. The stern castle is 9 yards square, extending slightly over the gunwales and stern. Both castles have closed wooden railings surrounding them, their names obviously taken from the fortress. Stairs allow access to both upper decks. The area underneath the decks is not closed in, only covered, making the sides open and exposed. While some privacy exists for passengers staying under the stern castle, it is minimal.
 
 <!-- p. 46 --><a id="page-46"></a>
 
@@ -2141,15 +2151,15 @@ Equipment: Damaged clothes, pouch of ancient yet new coins. Rapidly makes a staf
 Encumbrance: 0 (0)
 
 Spells Known:
-- Ward Against the Beasts of Legend (ReAn 30/+21) [**ArM5**, page 120](<Ars Magica - Definitive Edition (Core Rules).md#ward-against-the-beasts-of-legend>)
-- Ward Against Rain (ReAu 10/+21), [**ArM5**, page 128](<Ars Magica - Definitive Edition (Core Rules).md#ward-against-rain>)
-- Bridge of Wood (CrHe 20 /+24) [**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#bridge-of-wood>)
-- Wall of Thorns (CrHe 20/+24) [**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#wall-of-thorns>).
-- Intuition of the Forest (InHe 10/+16) [**ArM5**, page 136](<Ars Magica - Definitive Edition (Core Rules).md#intuition-of-the-forest>)
-- Interrogate Object (InHe 25/+16) This is *Converse With Plant and Tree* ([**ArM5**, page 136](<Ars Magica - Definitive Edition (Core Rules).md#converse-with-plant-and-tree>)), but renamed during the war and generally used to talk with human-made objects. Functionally the spells are identical.
+- Ward Against the Beasts of Legend (ReAn 30/+21) [**ArM5**, page 120](<Ars Magica 5e - Core Rules.md#ward-against-the-beasts-of-legend>) / [Definitive Edition, page 319](<Ars Magica - Definitive Edition (Core Rules).md#ward-against-the-beasts-of-legend>)
+- Ward Against Rain (ReAu 10/+21), [**ArM5**, page 128](<Ars Magica 5e - Core Rules.md#ward-against-rain>) / [Definitive Edition, page 330](<Ars Magica - Definitive Edition (Core Rules).md#ward-against-rain>)
+- Bridge of Wood (CrHe 20 /+24) [**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#bridge-of-wood>) / [Definitive Edition, page 339](<Ars Magica - Definitive Edition (Core Rules).md#bridge-of-wood>)
+- Wall of Thorns (CrHe 20/+24) [**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#wall-of-thorns>) / [Definitive Edition, page 339](<Ars Magica - Definitive Edition (Core Rules).md#wall-of-thorns>).
+- Intuition of the Forest (InHe 10/+16) [**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#intuition-of-the-forest>) / [Definitive Edition, page 340](<Ars Magica - Definitive Edition (Core Rules).md#intuition-of-the-forest>)
+- Interrogate Object (InHe 25/+16) This is *Converse With Plant and Tree* ([**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#converse-with-plant-and-tree>) / [Definitive Edition, page 340](<Ars Magica - Definitive Edition (Core Rules).md#converse-with-plant-and-tree>)), but renamed during the war and generally used to talk with human-made objects. Functionally the spells are identical.
 - Thaumaturgical Transformation of Plants to Iron (MuHe(Te) 20/+15)
-- Plant’s Withering Bane (PeHe 20/+22) [**ArM5**, page 137](<Ars Magica - Definitive Edition (Core Rules).md#plants-withering-bane>)
-- The Great Rot (PeHe 25/+21) [**ArM5**, page 138](<Ars Magica - Definitive Edition (Core Rules).md#the-great-rot>)
+- Plant’s Withering Bane (PeHe 20/+22) [**ArM5**, page 137](<Ars Magica 5e - Core Rules.md#plants-withering-bane>) / [Definitive Edition, page 341](<Ars Magica - Definitive Edition (Core Rules).md#plants-withering-bane>)
+- The Great Rot (PeHe 25/+21) [**ArM5**, page 138](<Ars Magica 5e - Core Rules.md#the-great-rot>) / [Definitive Edition, page 341](<Ars Magica - Definitive Edition (Core Rules).md#the-great-rot>)
 - Acorns for Amusement (ReHe 5/+40), Mastery 4 (Multiple Casting, Penetration, Quiet Casting, Still Casting)
 - Rickety Stack (ReHe 5/+36)
 - Enemies All Aquiver (ReHe 10/+36)
@@ -2158,15 +2168,15 @@ Spells Known:
 - Tangle of Wood and Thorns (ReHe 15/+36)
 - Carved Assassin (ReHe 25/+36)
 - Tomb of Kaineus (ReHe 20/+40) Mastery 4 (Multiple Casting, Penetration, Silent Casting, Still Casting)
-- Ward Against the Faeries of the Wood (ReHe 20/+36) [**ArM5**, page 138](<Ars Magica - Definitive Edition (Core Rules).md#ward-against-faeries-of-the-wood>)
+- Ward Against the Faeries of the Wood (ReHe 20/+36) [**ArM5**, page 138](<Ars Magica 5e - Core Rules.md#ward-against-faeries-of-the-wood>) / [Definitive Edition, page 342](<Ars Magica - Definitive Edition (Core Rules).md#ward-against-faeries-of-the-wood>)
 - The Treacherous Spear (ReHe 25/+36)
 - Carnivorous House (ReHe 40/+36)
 - Free the Striding Tree (ReHe 35/+36) Level is raised for Sun duration.
-- Chirurgeon’s Healing Touch (CrCo20/+18), Mastery 3 (Multiple Casting, Still Casting, Quiet Casting, [ArM5, page 129](<Ars Magica - Definitive Edition (Core Rules).md#the-chirurgeons-healing-touch>)
-- Purification of the Festering Wounds (CrCo20/+15) [**ArM5**, page 129](<Ars Magica - Definitive Edition (Core Rules).md#purification-of-the-festering-wounds>)
-- The Earth Split Asunder (ReTe 30/+29) [**ArM5**, page 156](<Ars Magica - Definitive Edition (Core Rules).md#the-earth-split-asunder>).
-- Circular Ward Against Demons (ReVi 25/+21) [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>)
-- Watching Ward (ReVi25/+21) [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>)
+- Chirurgeon’s Healing Touch (CrCo20/+18), Mastery 3 (Multiple Casting, Still Casting, Quiet Casting, [ArM5, page 129](<Ars Magica 5e - Core Rules.md#the-chirurgeons-healing-touch>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#the-chirurgeons-healing-touch>)
+- Purification of the Festering Wounds (CrCo20/+15) [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#purification-of-the-festering-wounds>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#purification-of-the-festering-wounds>)
+- The Earth Split Asunder (ReTe 30/+29) [**ArM5**, page 156](<Ars Magica 5e - Core Rules.md#the-earth-split-asunder>) / [Definitive Edition, page 364](<Ars Magica - Definitive Edition (Core Rules).md#the-earth-split-asunder>).
+- Circular Ward Against Demons (ReVi 25/+21) [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#circular-ward-against-demons>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>)
+- Watching Ward (ReVi25/+21) [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#watching-ward>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>)
 
 Appearance: Severin looks like a man who was once healthy, but has been harried and tortured for months. He is thin, pale, and has fresh scars on his limbs. His hair is blonde, but initially very short, since it has been shaved off by his tormentor. His cloak is still marked with the spiral of his House, but it is unusual. The spiral he wears is yellow, and he will replace it with gold when he can. It turns the opposite way of that usually seen by player characters. Characters who make an Intelligence + House Tytalus Lore roll against an Ease Factor of 6, or an Intelligence + Order of Hermes Lore roll against an Ease Factor of 9, know that his spiral shows he is a Hippian, a member of the small group of Tytalus magi who think that their basic impulses should be limited by sensible rules. If the player succeeds in the roll above by 6 points, then the character knows that the gold spiral was used only very briefly, during the appropriate historical period for the conflict in which Severin was taken. Severin’s familiar is a woodpecker. They were bound when Severin was far younger, and so it has few powers. The cords have a Strength of +1 each. They have the Shared Senses (sight) and Mental Communication powers.
 
@@ -2808,7 +2818,7 @@ By the early thirteenth century, the Knights of the Order of St John of Jerusale
 
 > ### How Much Do the Hospitallers Know About the Order?
 >
-> The answer to this question depends a lot on the assumptions made for your individual saga. The Saga chapter in **ArM5** (pages 216-217) deals with this issue.
+> The answer to this question depends a lot on the assumptions made for your individual saga. The Saga chapter in [**ArM5** (pages 216-217](<Ars Magica 5e - Core Rules.md#page-216>)) deals with this issue.
 >
 > The Hospitallers (and other military orders) as an order could have quite formal links with the Order of Hermes, through the activities of House Jerbiton and the Quaesitors, perhaps even purchasing magical devices from magi in the Tribunal of Rome to be used for the crusades. In this case, characters like Hermann and Prior Fulk may have a vague idea of the nature and capabilities of Hermetic magic.
 >
@@ -3072,7 +3082,7 @@ A Hospitaller priory requires a large number of support staff, priests, doctors,
 
 <!-- p. 77 --><a id="page-77"></a>
 
-There are some 20 brother-knights stationed at the Priory of St. Ubaldesca, with a similar number of brother-sergeants-at-arms. The priory also has five medical experts — two doctors, called theorici, and three surgeons, called practici. There are 15 sisters — Hospitaller nuns — living in a separate cloister to the Hospitaller brothers, and 20 or so other nurses, who are paid servants of the Order. Several confraters – experienced knights returned from crusades — also live in the priory, but they are not subject to the Hospitaller Rule. The confraters are middle-aged or elderly, but still formidable fighters if need calls (use the Knight companion template in [**ArM5**, page 23](<Ars Magica - Definitive Edition (Core Rules).md#companion-templates>)).
+There are some 20 brother-knights stationed at the Priory of St. Ubaldesca, with a similar number of brother-sergeants-at-arms. The priory also has five medical experts — two doctors, called theorici, and three surgeons, called practici. There are 15 sisters — Hospitaller nuns — living in a separate cloister to the Hospitaller brothers, and 20 or so other nurses, who are paid servants of the Order. Several confraters – experienced knights returned from crusades — also live in the priory, but they are not subject to the Hospitaller Rule. The confraters are middle-aged or elderly, but still formidable fighters if need calls (use the Knight companion template in [**ArM5**, page 23](<Ars Magica 5e - Core Rules.md#companion-templates>) / [Definitive Edition, page 33](<Ars Magica - Definitive Edition (Core Rules).md#companion-templates>)).
 
 Supporting all of these are 70 or so servants, most of whom are not Hospitallers. Only some ten of the servants are brother-sergeants-at-service — servants who have taken vows — and they are the administrative specialists in the priory.
 
@@ -3357,13 +3367,13 @@ Eleanor has the trust of a number of the Hospitallers, so could be a potential a
 > InTe 25<br>
 > Pen 0, constant effect<br>
 > R: Touch, D: Sun, T: Vision<br>
-> This ring, when worn, works as the Hermetic spell *Eyes of the Treacherous Terrain*, [**ArM5** page 153](<Ars Magica - Definitive Edition (Core Rules).md#eyes-of-the-treacherous-terrain>). This ring was a gift from her parens when she completed her Gauntlet.
+> This ring, when worn, works as the Hermetic spell *Eyes of the Treacherous Terrain*, [**ArM5** page 153](<Ars Magica 5e - Core Rules.md#eyes-of-the-treacherous-terrain>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#eyes-of-the-treacherous-terrain>). This ring was a gift from her parens when she completed her Gauntlet.
 >
 > ##### St. Peter’s Rhombus
 > PeVi 35<br>
 > Pen 0, 1/day<br>
 > R: Voice, D: Mom, T: Room<br>
-> As per *Wind of Mundane Silence*, [**ArM5** page 161](<Ars Magica - Definitive Edition (Core Rules).md#wind-of-mundane-silence>), with a level 15 effect. This magical device was named for St. Peter, who according to legend dispelled the magic of Simon Magus. The rhombus must be whirled or spun in the air to activate the device. It was given to Eleanor by a grateful arch-magus several months before she became ill.
+> As per *Wind of Mundane Silence*, [**ArM5** page 161](<Ars Magica 5e - Core Rules.md#wind-of-mundane-silence>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#wind-of-mundane-silence>), with a level 15 effect. This magical device was named for St. Peter, who according to legend dispelled the magic of Simon Magus. The rhombus must be whirled or spun in the air to activate the device. It was given to Eleanor by a grateful arch-magus several months before she became ill.
 
 Characteristics: Int +1 Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex 0, Qik 0
 
@@ -3593,7 +3603,7 @@ If the characters try to walk through the gates, the guards are likely to stop t
 
 Of course, they immediately offer any sick members of the troupe a bed in the hospital; they also offer food or clothes to the characters if they appear tired, hungry, or poverty-stricken. Sick (or shamming) characters are taken to the hospital, where they are given confession and communion immediately by a brother-priest, who also assigns them to a bed. Servants see to their comfort immediately, and a physician visits them within several minutes of their arrival. Gifted (and Blatantly Gifted) characters are kept separate from other patients.
 
-In the hospital, the characters meet the Redcap Eleanor (see **ArM5** page 19 for rules on reputation, if they have not already met Eleanor). She may also recognize them, and in any case engages them in conversation to find out what they are doing at the priory.
+In the hospital, the characters meet the Redcap Eleanor (see [**ArM5** page 19](<Ars Magica 5e - Core Rules.md#redcap>) / [Definitive Edition, page 105](<Ars Magica - Definitive Edition (Core Rules).md#redcap>) for rules on reputation, if they have not already met Eleanor). She may also recognize them, and in any case engages them in conversation to find out what they are doing at the priory.
 
 When in the priory, the characters also notice the novice Henry. Companions or magi who do not have their Parma Magica active will notice The Gift in him. Henry is found in or around the stables, where he is tending to the horses. Observant characters notice that he seems to speak to the horses, and they appear to do what he asks.
 
@@ -3729,7 +3739,7 @@ Should a great many Hospitallers be suddenly or savagely wounded or incapacitate
 
 <!-- p. 94 --><a id="page-94"></a>
 
-There is also the complication of the presence of the Redcap Eleanor, who is recovering in the hospital. Eleanor is afforded some measure of protection from magic thanks to her magical device. If the characters enter the hospital, they may recognize her or know her through reputation (see **ArM5**, page 19). Likewise, Eleanor may recognize the characters; if so, she tries to stop the characters from continuing the attack, or, failing that, she helps protect the hospital’s patients and other civilians from any collateral damage. If she is injured by any of the characters in the attack, she will prosecute them at the next Tribunal (and receives a great deal of support from House Mercere). If she is killed, House Mercere puts a great deal of effort into learning who was responsible, and the covenant is likely to face serious repercussions.
+There is also the complication of the presence of the Redcap Eleanor, who is recovering in the hospital. Eleanor is afforded some measure of protection from magic thanks to her magical device. If the characters enter the hospital, they may recognize her or know her through reputation (see [**ArM5**, page 19](<Ars Magica 5e - Core Rules.md#reputations>) / [Definitive Edition, page 28](<Ars Magica - Definitive Edition (Core Rules).md#reputations>)). Likewise, Eleanor may recognize the characters; if so, she tries to stop the characters from continuing the attack, or, failing that, she helps protect the hospital’s patients and other civilians from any collateral damage. If she is injured by any of the characters in the attack, she will prosecute them at the next Tribunal (and receives a great deal of support from House Mercere). If she is killed, House Mercere puts a great deal of effort into learning who was responsible, and the covenant is likely to face serious repercussions.
 
 A group of determined magi, or companions with the aid of destructive magical devices, should be able to make short work of the Hospitallers. Only Priory Constable Hermann and Prior Fulk are awarded any measure of protection from magic, and their first aim will be to protect or aid fallen brothers, rather than go into a suicidal rush against their attackers.
 
@@ -3739,7 +3749,7 @@ The following issues might result from this scenario.
 
 ### Enrico
 
-Enrico can continue to be a thorn in the side of the covenant. If he was badly treated by the characters, he turns on them, trying to get influential mundanes to become antagonistic towards the covenant. For example, he could spread rumors about their godlessness or pagan beliefs, try to spoil relationships the covenant develops with other merchants and otherwise act as the Rival covenant Hook (see **ArM5**, page 73-74).
+Enrico can continue to be a thorn in the side of the covenant. If he was badly treated by the characters, he turns on them, trying to get influential mundanes to become antagonistic towards the covenant. For example, he could spread rumors about their godlessness or pagan beliefs, try to spoil relationships the covenant develops with other merchants and otherwise act as the Rival covenant Hook (see [**ArM5**, page 73-74](<Ars Magica 5e - Core Rules.md#covenants>) / [Definitive Edition, page 18](<Ars Magica - Definitive Edition (Core Rules).md#covenants>)).
 
 ### The Priory
 
@@ -4153,7 +4163,7 @@ Bartholomew has been severely Warped by the magic of the flute. From the flute, 
 > PeVi 58<br>
 > Pen +5, Unlimited<br>
 > R: Touch, D: Performance, T: Ind<br>
-> Due to the distorting effects of the flute’s music, any person who plays the flute is granted a limited form of Magic Resistance. This effect is similar to the Hermetic spell *Unravelling the Fabric of (Form)* ([**ArM5**, page 161](<Ars Magica - Definitive Edition (Core Rules).md#unravelling-the-fabric-of-form>)), except that it affects all forms, and will cancel spells of level 20 or less. This power will only protect the flutist from one spell per round.
+> Due to the distorting effects of the flute’s music, any person who plays the flute is granted a limited form of Magic Resistance. This effect is similar to the Hermetic spell *Unravelling the Fabric of (Form)* ([**ArM5**, page 161](<Ars Magica 5e - Core Rules.md#unravelling-the-fabric-of-form>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#unravelling-the-fabric-of-form>)), except that it affects all forms, and will cancel spells of level 20 or less. This power will only protect the flutist from one spell per round.
 >
 > (Effect: Non-Hermetic, base 40, +1 Performance)
 >
@@ -4177,7 +4187,7 @@ Bartholomew has been severely Warped by the magic of the flute. From the flute, 
 > PeMe(An) 73<br>
 > Pen +35, Unlimited<br>
 > R: Voice, D: Mom, T: Group<br>
-> This power causes all who hear the music to be driven irrevocably mad. The madness caused by this power is cumulative, and it takes a short time of listening for the full effects to manifest. Hearing the flute’s music for only a moment causes dread. Listening for longer than ten rounds creates a morbid fascination with the music, creating a permanent Personality Trait of “Obsessed with the flute’s music” +1. Every ten rounds thereafter, the Obsessed Personality Trait increases by 1. After a minute, the listener becomes repulsed and terrified by the music, as though he were permanently affected by the spell *Black Whisper* ([**ArM5**, page 150](<Ars Magica - Definitive Edition (Core Rules).md#black-whisper>)). This power affects both animals and people. Deaf targets are completely unaffected by this power.
+> This power causes all who hear the music to be driven irrevocably mad. The madness caused by this power is cumulative, and it takes a short time of listening for the full effects to manifest. Hearing the flute’s music for only a moment causes dread. Listening for longer than ten rounds creates a morbid fascination with the music, creating a permanent Personality Trait of “Obsessed with the flute’s music” +1. Every ten rounds thereafter, the Obsessed Personality Trait increases by 1. After a minute, the listener becomes repulsed and terrified by the music, as though he were permanently affected by the spell *Black Whisper* ([**ArM5**, page 150](<Ars Magica 5e - Core Rules.md#black-whisper>) / [Definitive Edition, page 356](<Ars Magica - Definitive Edition (Core Rules).md#black-whisper>)). This power affects both animals and people. Deaf targets are completely unaffected by this power.
 >
 > The player of the flute suffers from the obsessions created by this power and is also driven insane. The flutist, however, is not driven suicidally insane, but rather develops a pathological hatred of all music other than that of the flute (this effect becomes a part of the flutist’s essential nature through the Warping effects of the Disharmony power).
 >
@@ -4195,7 +4205,7 @@ Bartholomew has been severely Warped by the magic of the flute. From the flute, 
 > MuCo 45<br>
 > Pen 0, Unlimited<br>
 > R: Touch, D: Performance, T: Ind<br>
-> This optional power grants the flutist supernatural strength, granting a +5 bonus to Strength- and Stamina-related totals. It further allows the flute player to act as if he had the Reserves of Strength Virtue ([**ArM5**, page 48](<Ars Magica - Definitive Edition (Core Rules).md#reserves-of-strength>)).
+> This optional power grants the flutist supernatural strength, granting a +5 bonus to Strength- and Stamina-related totals. It further allows the flute player to act as if he had the Reserves of Strength Virtue ([**ArM5**, page 48](<Ars Magica 5e - Core Rules.md#reserves-of-strength>) / [Definitive Edition, page 106](<Ars Magica - Definitive Edition (Core Rules).md#reserves-of-strength>)).
 >
 > (Effect: Non-Hermetic, base 25, +1 Touch, +1 Performance)
 >
@@ -4417,11 +4427,11 @@ Magical investigation is made difficult because of the time that has passed sinc
 
 ##### Intellego Animal
 
-Spells such as *Opening the Tome of the Animal’s Mind* (see [**ArM5**, page 118](<Ars Magica - Definitive Edition (Core Rules).md#opening-the-tome-of-the-animals-mind>)) reveal a hazy memory of terrifying music coming from where Paul died. Most animals remember fleeing the area. If the characters succeed in the Perception + Finesse roll, they get an image of a man playing a flute, but the memories were too long ago for the animals to remember other details. Animal spells using the base level 20 guideline (“thoroughly probe the mind of a beast”) also show a man in a plain dark cloak and hood playing a flute. The animal flees after hearing the music, so can reveal no other details. If the animal being spoken to is a predator, then it also remembers the man’s scent.
+Spells such as *Opening the Tome of the Animal’s Mind* (see [**ArM5**, page 118](<Ars Magica 5e - Core Rules.md#opening-the-tome-of-the-animals-mind>) / [Definitive Edition, page 317](<Ars Magica - Definitive Edition (Core Rules).md#opening-the-tome-of-the-animals-mind>)) reveal a hazy memory of terrifying music coming from where Paul died. Most animals remember fleeing the area. If the characters succeed in the Perception + Finesse roll, they get an image of a man playing a flute, but the memories were too long ago for the animals to remember other details. Animal spells using the base level 20 guideline (“thoroughly probe the mind of a beast”) also show a man in a plain dark cloak and hood playing a flute. The animal flees after hearing the music, so can reveal no other details. If the animal being spoken to is a predator, then it also remembers the man’s scent.
 
 ##### Intellego Auram
 
-Spells using the base level 15 guideline (“speak with air”, **ArM5** page 127) cast in the area where Paul died reveal only a memory of the music from the flute. The poor memory of the air means that the music does not affect the spellcasting character who hears it. It sounds like a haunting and eerie whistle.
+Spells using the base level 15 guideline (“speak with air”, [**ArM5** page 127](<Ars Magica 5e - Core Rules.md#level-guidelines>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#level-guidelines>)) cast in the area where Paul died reveal only a memory of the music from the flute. The poor memory of the air means that the music does not affect the spellcasting character who hears it. It sounds like a haunting and eerie whistle.
 
 ##### Intellego Corpus
 
@@ -4429,11 +4439,11 @@ Intellego Corpus spells are stymied by the fact that Paul has received a church 
 
 ##### Intellego Herbam
 
-Spells such as *Converse with Plant and Tree* (and others using the base level 15 guideline, [**ArM5** page 136](<Ars Magica - Definitive Edition (Core Rules).md#converse-with-plant-and-tree>)) are not very helpful — a great deal of time has passed since the murder took place. The trees near where Paul fell remember him running madly through the woods and falling, while those a distance away remember a second man (Bartholomew, though the footprints do not reveal this) walking and making terrible sounds. Smaller plants have no memory of what occurred.
+Spells such as *Converse with Plant and Tree* (and others using the base level 15 guideline, [**ArM5** page 136](<Ars Magica 5e - Core Rules.md#converse-with-plant-and-tree>) / [Definitive Edition, page 340](<Ars Magica - Definitive Edition (Core Rules).md#converse-with-plant-and-tree>)) are not very helpful — a great deal of time has passed since the murder took place. The trees near where Paul fell remember him running madly through the woods and falling, while those a distance away remember a second man (Bartholomew, though the footprints do not reveal this) walking and making terrible sounds. Smaller plants have no memory of what occurred.
 
 ##### Intellego Terram
 
-Casting the spell *Stone Tell of the Mind that Sits* or Intellego Terram spells using the base level 20 guideline (see [**ArM5**, page 153](<Ars Magica - Definitive Edition (Core Rules).md#stone-tell-of-the-mind-that-sits>)) reveals that Paul wandered off the track, madly ran through the forest, and stumbled over a root and fell. Casting this spell a distance away will give more details — the second man’s weight (average for an adult man) and that he stood still there for several minutes while Paul was running about.
+Casting the spell *Stone Tell of the Mind that Sits* or Intellego Terram spells using the base level 20 guideline (see [**ArM5**, page 153](<Ars Magica 5e - Core Rules.md#stone-tell-of-the-mind-that-sits>) / [Definitive Edition, page 360](<Ars Magica - Definitive Edition (Core Rules).md#stone-tell-of-the-mind-that-sits>)) reveals that Paul wandered off the track, madly ran through the forest, and stumbled over a root and fell. Casting this spell a distance away will give more details — the second man’s weight (average for an adult man) and that he stood still there for several minutes while Paul was running about.
 
 ### Baldwin’s Murder
 
@@ -4469,7 +4479,7 @@ Because Baldwin has not been buried yet, Intellego Corpus and Mentem spells can 
 
 ##### Intellego Auram
 
-Casting Intellego Auram spells in Baldwin’s house using the base level 15 guideline reveals that several nights ago frightening music was played in the house. The air in the house also remembers a conversation between Baldwin and someone else. The characters may be able to determine whose voice it is if they hear Bartholomew’s voice, or use Intellego Imaginem to remember the voice exactly (see the Intellego Imaginem base level 1 guidelines, [**ArM5** page 45](<Ars Magica - Definitive Edition (Core Rules).md#intellego-imaginem-guidelines>)). Baldwin addresses the guest as his friend, but does not name him.
+Casting Intellego Auram spells in Baldwin’s house using the base level 15 guideline reveals that several nights ago frightening music was played in the house. The air in the house also remembers a conversation between Baldwin and someone else. The characters may be able to determine whose voice it is if they hear Bartholomew’s voice, or use Intellego Imaginem to remember the voice exactly (see the Intellego Imaginem base level 1 guidelines, [**ArM5** page 45](<Ars Magica 5e - Core Rules.md#intellego-imaginem-guidelines>) / [Definitive Edition, page 349](<Ars Magica - Definitive Edition (Core Rules).md#intellego-imaginem-guidelines>)). Baldwin addresses the guest as his friend, but does not name him.
 
 ##### Intellego Corpus
 
@@ -4485,7 +4495,7 @@ Intellego Herbam spells only work if cast on the furniture, broken instruments, 
 
 > ### And the Murderer Is …
 >
-> It is possible that the characters convince the villagers to undergo magical investigation (or cast it on them without their knowledge), and cast an Intellego Mentem spell on everyone in the village to discover who the murderer is. This would require a spell using the base level 25 guideline (**ArM5** page 149) to uncover, since Bartholomew does not reflect on his murders. If each villager is individually questioned, it only requires a base level 15 spell to uncover that he is responsible. The question needs to be specific however (such as “Did you kill Paul or Baldwin?”). Mentem magic will not detect any guilt from Bartholomew, since he feels none. He also does not think about his murders more than a few hours in advance, so using magic to sense motive will also not work.
+> It is possible that the characters convince the villagers to undergo magical investigation (or cast it on them without their knowledge), and cast an Intellego Mentem spell on everyone in the village to discover who the murderer is. This would require a spell using the base level 25 guideline ([**ArM5** page 149](<Ars Magica 5e - Core Rules.md#level-guidelines>) / [Definitive Edition, page 301](<Ars Magica - Definitive Edition (Core Rules).md#level-guidelines>)) to uncover, since Bartholomew does not reflect on his murders. If each villager is individually questioned, it only requires a base level 15 spell to uncover that he is responsible. The question needs to be specific however (such as “Did you kill Paul or Baldwin?”). Mentem magic will not detect any guilt from Bartholomew, since he feels none. He also does not think about his murders more than a few hours in advance, so using magic to sense motive will also not work.
 >
 > In any case, it is entirely possible that the characters discover Bartholomew. If they take him to justice, they need to prove that it was him — he will not admit to it (unless controlled by magic, or threatened with death), and he is well liked by the villagers, local priest, and lord.
 >
@@ -5152,7 +5162,7 @@ The storyguide can use the Children to focus the story. Most have been visited b
 
 #### Local Lord
 
-Pellew’s group of faeries doesn’t want the Vikings to be defeated too easily: they want the villagers to win, but to be terrified and heroic first. They only involve the local lord if the player characters respond with feeble forces. If the faeries allow the lord to respond personally, and he has a small retinue, just use the template for a knight companion on [page 23](#page-23) of **ArM5**, supported by a handful of grogs from pages 21 and 22. A more-powerful lord may send several knights.
+Pellew’s group of faeries doesn’t want the Vikings to be defeated too easily: they want the villagers to win, but to be terrified and heroic first. They only involve the local lord if the player characters respond with feeble forces. If the faeries allow the lord to respond personally, and he has a small retinue, just use the template for a knight companion on [page 23 of **ArM5**](<Ars Magica 5e - Core Rules.md#page-23>) / [Definitive Edition, page 34](<Ars Magica - Definitive Edition (Core Rules).md#the-knight>), supported by a handful of grogs from pages 21 and 22. A more-powerful lord may send several knights.
 
 The reeve for the village, the local man who acts as the lord’s overseer in his absence, has already tried to reach the lord. He has been diverted into Faerie by Pellew’s faction. They release him if they think it useful that he reach his lord. The defending faeries have no interest in opposing magi if they attempt to contact the lord. They can spirit away the lord easily if the magi and the lord separate, even for a moment.
 
@@ -5192,7 +5202,7 @@ The area can also provide material for the construction of traps in other parts 
 
 **Ropes:** As many as needed.
 
-**Smokehouse Equipment:** Those sealed inside an active smokehouse suffer Air Deprivation as per ArM5 page 180. Though the Vikings are unlikely to be tricked into entering a fish smoke hut, characters can use the equipment in the huts to create similar environments in other places. As an example, the richest cottage in town has a cellar, where its owner stores wine and beer. A group of Vikings barricaded into the cellar could be killed with smoking equipment ignited with a fuse of tarred rope.
+**Smokehouse Equipment:** Those sealed inside an active smokehouse suffer Air Deprivation as per [ArM5 page 180](<Ars Magica 5e - Core Rules.md#equipment>) / [Definitive Edition, page 52](<Ars Magica - Definitive Edition (Core Rules).md#equipment>). Though the Vikings are unlikely to be tricked into entering a fish smoke hut, characters can use the equipment in the huts to create similar environments in other places. As an example, the richest cottage in town has a cellar, where its owner stores wine and beer. A group of Vikings barricaded into the cellar could be killed with smoking equipment ignited with a fuse of tarred rope.
 
 #### Mill
 
@@ -5535,7 +5545,7 @@ Brought up on the streets of a nearby city, Benedict was an orphan who fell into
 >
 > Infernalists can also perform ritual sacrifices to increase the potency of their malefica. Sacrificing an animal grants a +4 to his total, sacrificing a black animal grants a +6 bonus, sacrificing a human grants a +8 bonus, and sacrificing an innocent human grants a +10 bonus.
 >
-> Maleficia are like other supernatural powers for the purposes of Magic Resistance, and are considered Vim effects for the purposes of Form bonuses. Maleficia are also affected by Realm Interaction modifiers (see [**ArM5**, page 183](<Ars Magica - Definitive Edition (Core Rules).md#realm-interaction>)).
+> Maleficia are like other supernatural powers for the purposes of Magic Resistance, and are considered Vim effects for the purposes of Form bonuses. Maleficia are also affected by Realm Interaction modifiers (see [**ArM5**, page 183](<Ars Magica 5e - Core Rules.md#realm-interaction>) / [Definitive Edition, page 410](<Ars Magica - Definitive Edition (Core Rules).md#realm-interaction>)).
 >
 > ##### Flying on the Devil’s Breath
 > Debauchery/Effusion, Level 20<br>
@@ -5752,11 +5762,11 @@ This is the simplest way for storyguides to get their troupe involved in the sto
 
 ### Traveling to the Village
 
-When traveling to the village, there is a noticeable change several miles from the center of the Infernal aura. Natural plant growth is stunted and sickly, trees twist in an unnatural and disturbing fashion, and animals are aggressive. Minor infernal spirits, such as those of sickness or misfortune, also flit around, unseen to all but those with Second Sight or Sense Holiness and Unholiness (or those with appropriate Intellego spells). Spending a significant period of time in the aura may well see characters with no Magic Resistance fall ill, or suffer an unlikely accident. Characters with the Sense Holiness and Unholiness Ability may sense the Infernal aura, with an Ease Factor of 9 (see [**ArM5**, page 67](<Ars Magica - Definitive Edition (Core Rules).md#sense-holiness-and-unholiness>)).
+When traveling to the village, there is a noticeable change several miles from the center of the Infernal aura. Natural plant growth is stunted and sickly, trees twist in an unnatural and disturbing fashion, and animals are aggressive. Minor infernal spirits, such as those of sickness or misfortune, also flit around, unseen to all but those with Second Sight or Sense Holiness and Unholiness (or those with appropriate Intellego spells). Spending a significant period of time in the aura may well see characters with no Magic Resistance fall ill, or suffer an unlikely accident. Characters with the Sense Holiness and Unholiness Ability may sense the Infernal aura, with an Ease Factor of 9 (see [**ArM5**, page 67](<Ars Magica 5e - Core Rules.md#sense-holiness-and-unholiness>) / [Definitive Edition, page 107](<Ars Magica - Definitive Edition (Core Rules).md#sense-holiness-and-unholiness>)).
 
 Upon entering the aura, the characters find lies easily coming to their lips. Personality Traits such as Loyal, Humble, and Trusting are reduced by the level of the aura. Rebellious or treacherous grogs or companions may be inspired to betray the covenant or the characters (or betray their trust somehow; for example, by not doing their bidding, stealing money, or revealing the magi to the villagers).
 
-Characters with Second Sight or Sense Holiness and Unholiness may detect infernal spirits in the village whispering malevolent thoughts, hiding in wait for unsuspecting villagers to cause some misfortune, or trying to possess the villagers and cause sickness. See **ArM5**, page 67 for the details of how these Abilities work.
+Characters with Second Sight or Sense Holiness and Unholiness may detect infernal spirits in the village whispering malevolent thoughts, hiding in wait for unsuspecting villagers to cause some misfortune, or trying to possess the villagers and cause sickness. See [**ArM5**, page 67](<Ars Magica 5e - Core Rules.md#page-67>) / [Definitive Edition, page 104](<Ars Magica - Definitive Edition (Core Rules).md#premonitions>) for the details of how these Abilities work.
 
 ### Exploring the Village
 
@@ -5814,9 +5824,9 @@ The only remarkable feature of the church is its altar, on which stands the magn
 
 Hermetic magi and characters with Order of Hermes Lore make a Perception + Order of Hermes Lore + simple die against an Ease Factor of 9 when they see the reliquary. Those who succeed notice that the reliquary has several distinctive features characteristic of Hermetic magical devices. Characters with Philosophiae can make a Perception + Philosophiae + simple die roll against an Ease Factor of 12 to notice that the symbols and images on the reliquary relate to warding off or trapping a demon (and some are in fact Verditius Runes, disguised as Christian symbols). The symbols (although not the Runes) are entirely orthodox in nature, although they are Eastern Orthodox, rather than Western.
 
-Characters with Sense Holiness and Unholiness can sense a great evil power emanating from the reliquary, with a Perception + Sense Holiness and Unholiness + aura stress roll against an Ease Factor of 15. If standing within a few feet, the Ease Factor drops to 9, and if the character touches the reliquary, the Ease Factor is only 1. There is no need to Penetrate the Magic Resistance of the trapped demon in this case, due to the nature of the demon’s corrupting power. (Note that the Sense Holiness and Unholiness is affected by Realm Interaction modifiers; see **ArM5**, page 183).
+Characters with Sense Holiness and Unholiness can sense a great evil power emanating from the reliquary, with a Perception + Sense Holiness and Unholiness + aura stress roll against an Ease Factor of 15. If standing within a few feet, the Ease Factor drops to 9, and if the character touches the reliquary, the Ease Factor is only 1. There is no need to Penetrate the Magic Resistance of the trapped demon in this case, due to the nature of the demon’s corrupting power. (Note that the Sense Holiness and Unholiness is affected by Realm Interaction modifiers; see [**ArM5**, page 183](<Ars Magica 5e - Core Rules.md#page-183>) / [Definitive Edition, page 410](<Ars Magica - Definitive Edition (Core Rules).md#realm-auras>)).
 
-Intellego Vim magic reveals that the reliquary is magical, although it cannot reveal its invested powers (see **ArM5**, page 158). Characters who examine the reliquary will need to spend a season in the laboratory investigating it to find out its properties (see **ArM5**, page 100).
+Intellego Vim magic reveals that the reliquary is magical, although it cannot reveal its invested powers (see [**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#magic>) / [Definitive Edition, page 397](<Ars Magica - Definitive Edition (Core Rules).md#magic-1>)). Characters who examine the reliquary will need to spend a season in the laboratory investigating it to find out its properties (see [**ArM5**, page 100](<Ars Magica 5e - Core Rules.md#page-100>) / [Definitive Edition, page 254](<Ars Magica - Definitive Edition (Core Rules).md#enchanted-item-example>)).
 
 #### Talking to Father Herbert
 
@@ -5863,7 +5873,7 @@ The reliquary, which sits on the church’s altar, is about two feet tall and a 
 > ReVi 45<br>
 > Pen +42, Constant Effect<br>
 > R: Special, D: Sun, T: Ind<br>
-> This magical device traps any one Infernal spirit within the reliquary, making it unable to move beyond the boundaries of the box. The effect is activated when the door is closed, and ended if the door is reopened. This effect cannot draw a spirit into the reliquary; the item’s creator used a spell for that. The effect must Penetrate, and thus can, normally, affect a creature with an Infernal Might of 41 or lower. However, both Magic Resistance and Penetration are affected by the local aura ([**ArM5**, page 183](<Ars Magica - Definitive Edition (Core Rules).md#magic-resistance-and-penetration>)); in a Divine or Magic aura, the affected Might is effectively increased by twice the aura, while in an Infernal aura it is decreased by twice the aura. The demon currently held is weak enough to be restrained in any Infernal aura, but the crafter was not sure of that.
+> This magical device traps any one Infernal spirit within the reliquary, making it unable to move beyond the boundaries of the box. The effect is activated when the door is closed, and ended if the door is reopened. This effect cannot draw a spirit into the reliquary; the item’s creator used a spell for that. The effect must Penetrate, and thus can, normally, affect a creature with an Infernal Might of 41 or lower. However, both Magic Resistance and Penetration are affected by the local aura ([**ArM5**, page 183](<Ars Magica 5e - Core Rules.md#magic-resistance-and-penetration>) / [Definitive Edition, page 411](<Ars Magica - Definitive Edition (Core Rules).md#magic-resistance-and-penetration>)); in a Divine or Magic aura, the affected Might is effectively increased by twice the aura, while in an Infernal aura it is decreased by twice the aura. The demon currently held is weak enough to be restrained in any Infernal aura, but the crafter was not sure of that.
 >
 > (Base 4 (by analogy with ReCo), +2 Special (based on Touch), +2 Sun; +1 2/day, +3 environmental trigger, +21 Penetration)
 >
@@ -5872,7 +5882,7 @@ The reliquary, which sits on the church’s altar, is about two feet tall and a 
 > PeVi 60<br>
 > Pen +22, Constant Effect<br>
 > R: Touch, D: Sun, T: Ind<br>
-> This enchanted gem suppresses the supernatural powers of a single infernal creature touching it, up to level 20 (or powers from creatures with a Might score of 20 or less; see **ArM5**, page 191). The gem actually reaches the inside of the reliquary, through a tiny hole, thus touching the demon within.
+> This enchanted gem suppresses the supernatural powers of a single infernal creature touching it, up to level 20 (or powers from creatures with a Might score of 20 or less; see [**ArM5**, page 191](<Ars Magica 5e - Core Rules.md#page-191>)). The gem actually reaches the inside of the reliquary, through a tiny hole, thus touching the demon within.
 >
 > (Base 30, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger, +11 Penetration)
 >
@@ -6511,7 +6521,7 @@ Depending on where the rumors are sought, Communication + Carouse or Intrigue ar
 >
 > Symptoms: Bouts of high fever, chills, and sweating accompanied by nausea, abdominal cramps, fatigue, and muscle pain.
 >
-> Marsh sickness has been described above in accordance with the disease rules in *Art & Academe*. If you do not have those on hand, use the disease rules in the core rulebook (**ArM5**, page 180) and treat this disease as a Medium Wound.
+> Marsh sickness has been described above in accordance with the disease rules in *Art & Academe*. If you do not have those on hand, use the disease rules in the core rulebook ([**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#no-hands>) / [Definitive Edition, page 139](<Ars Magica - Definitive Edition (Core Rules).md#no-hands>)) and treat this disease as a Medium Wound.
 >
 > To avoid contracting the disease, the character must make a Disease Avoidance roll.
 >
@@ -6533,7 +6543,7 @@ On searching the marsh, the covenant’s agents will find the burial ground if t
 
 The Romney Marsh is a large open expanse of waterlogged flatlands, run through with waterways and boggy reed beds. Play upon the cold and the wet and the way the wind carries people’s voices away. The marsh should be an uncomfortable place, and should be as palpable a character as Brother Daniel or Tobias Mahl.
 
-Any characters with Ways of the Marsh (**ArM5**, page 50) gain the usual +3 bonus on many rolls throughout this story.
+Any characters with Ways of the Marsh ([**ArM5**, page 50](<Ars Magica 5e - Core Rules.md#page-50>) / [Definitive Edition, page 113](<Ars Magica - Definitive Edition (Core Rules).md#troupe-upbringing>)) gain the usual +3 bonus on many rolls throughout this story.
 
 #### Traveling and Working in the Wetlands
 
@@ -6549,7 +6559,7 @@ Those working in the marsh for season or more receive a –2 living conditions p
 
 #### Visiting the Abbey
 
-The monks are cordial, if a little unprepared for unannounced visitors. For notes on how those with The Gift are received, refer to **ArM5**, page 76. If the nature of the covenant is known to the abbey, assume that Daniel and Tobias are also aware of it.
+The monks are cordial, if a little unprepared for unannounced visitors. For notes on how those with The Gift are received, refer to [**ArM5**, page 76](<Ars Magica 5e - Core Rules.md#the-gift>) / [Definitive Edition, page 63](<Ars Magica - Definitive Edition (Core Rules).md#the-gift>). If the nature of the covenant is known to the abbey, assume that Daniel and Tobias are also aware of it.
 
 Visitors concerned with the marsh are led to the common room and asked to wait. After a while Daniel will bustle in, dropping wax tablets in his wake. The other monks look on with derision as Daniel stoops to clear up after himself.
 
@@ -6725,7 +6735,7 @@ Illness spreads from the marsh to the nearby towns of Rye and Winchelsea. At thi
 >
 > #### The Chapel Bell
 >
-> Tobias commissioned the chapel bell from the bellfounder Hugh of Gloucester, one of the demon Mammon’s other devotees. Hugh’s craft aligned the bell to the Infernal, with the result that infernal spirits hear the voice of Hell in its chimes and may be drawn to the sound. Characters with Sense Holiness and Unholiness ([**ArM5**, page 67](<Ars Magica - Definitive Edition (Core Rules).md#sense-holiness-and-unholiness>)) may hear the ringing of the bell as an Unholy sound, discordant and unGodly.
+> Tobias commissioned the chapel bell from the bellfounder Hugh of Gloucester, one of the demon Mammon’s other devotees. Hugh’s craft aligned the bell to the Infernal, with the result that infernal spirits hear the voice of Hell in its chimes and may be drawn to the sound. Characters with Sense Holiness and Unholiness ([**ArM5**, page 67](<Ars Magica 5e - Core Rules.md#sense-holiness-and-unholiness>) / [Definitive Edition, page 107](<Ars Magica - Definitive Edition (Core Rules).md#sense-holiness-and-unholiness>)) may hear the ringing of the bell as an Unholy sound, discordant and unGodly.
 
 <!-- p. 167 --><a id="page-167"></a>
 

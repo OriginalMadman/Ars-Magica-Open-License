@@ -1,5 +1,15 @@
 # Tales of Power
 
+<!-- back cover -->
+
+Hermetic magi grow powerful in their age. They can defeat mundane armies single-handed, challenge spirits of fire in their lair, and drive the servants of Hell from their strongholds. No place in Mythic Europe is too distant, and no barrier can keep them out. From the popes and kings who rule to the peasants who till the soil, none may deny a magus for long. Why, then, would magi stay closeted in their laboratories?
+
+## With great power comes great stories.
+
+This book contains five stories aimed at powerful magi, covering themes from political intrigue to a war with an Infernalist and his undead minions. When your magi need something more than another vis hunt to motivate them, *Tales of Power* has the answer.
+
+<!-- markdown specifics -->
+
 ## Markdown Version Specifics
 
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
@@ -7,9 +17,11 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0304
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; ArM5 references link to the matching section of the Definitive Edition, whose page numbers differ). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -392,7 +404,7 @@ Pen +52, 3/day<br>
 R: Arc, D: Conc, T: Ind<br>
 The Cup of Carbonius is a gold chalice that creates a mystical link from the activator to the target, using the Hermetic spell Opening the Intangible Tunnel. The owner places an Arcane Connection inside the cup and triggers it with a command word, at which point the cup activates the spell. The created link stays open as long as the owner desires, with the cup itself maintaining the concentration needed to keep the link active.
 
-The owner, or anyone else who can peer into the cup and see the Arcane Connection, can cast spells through the link. Only spells of level 30 or lower can be cast through the cup at the target. The cup’s power must Penetrate the target’s Magic Resistance to establish the link, and every successive spell must also Penetrate. The cup’s Penetration was determined in its creation; any spell cast through the cup’s mystical link must determine its Penetration in the usual way. Remember that the Arcane Connection used also adds a modifier to a spell’s Penetration multiplier ([**ArM5**, page 84](<Ars Magica - Definitive Edition (Core Rules).md#arcane-connections>)). Only Hermetic spells can be cast through the mystical link, and just as with the spell Opening the Intangible Tunnel, spells can be cast back through the cup, from the target to the bearer.
+The owner, or anyone else who can peer into the cup and see the Arcane Connection, can cast spells through the link. Only spells of level 30 or lower can be cast through the cup at the target. The cup’s power must Penetrate the target’s Magic Resistance to establish the link, and every successive spell must also Penetrate. The cup’s Penetration was determined in its creation; any spell cast through the cup’s mystical link must determine its Penetration in the usual way. Remember that the Arcane Connection used also adds a modifier to a spell’s Penetration multiplier ([**ArM5**, page 84](<Ars Magica 5e - Core Rules.md#arcane-connections>) / [Definitive Edition, page 219](<Ars Magica - Definitive Edition (Core Rules).md#arcane-connections>)). Only Hermetic spells can be cast through the mystical link, and just as with the spell Opening the Intangible Tunnel, spells can be cast back through the cup, from the target to the bearer.
 
 This is a powerful effect and causes Warping to the target. Because this effect is so strong, of much greater magnitude than any spell that can be cast through it, Carbonius’ sigil is the strongest lingering identifier.
 
@@ -534,7 +546,7 @@ Penetration is a concern. Once elected, the pope will have a Divine Resistance o
 
 School of Prometheus, Ease Factor 27<br>
 R: Touch, D: Sun, T: Structure<br>
-This Rite makes the warded area hot, humid, and uncomfortable. Anyone trapped inside the area for a day must make a deprivation check (see **ArM5**, page 180).
+This Rite makes the warded area hot, humid, and uncomfortable. Anyone trapped inside the area for a day must make a deprivation check (see [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#deprivation>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#deprivation>)).
 
 <!-- p. 16 --><a id="page-16"></a>
 
@@ -1086,7 +1098,7 @@ The Septizodium has a Faerie aura of 5. The main room on the ground floor is als
 
 > ### A Man Is His Reputation
 >
-> Much can be gleaned from a man’s Reputation. As storyguide you should be prepared to use the Reputation rules found in **ArM5**, page 19. Most of the storyguide characters have an Ecclesiastical Reputation. According to the rules, only an ecclesiastic should be allowed to make a stress die + Reputation to see if he has heard of the person in question. However, since the ecclesiastics in question are so important, allow any character to make a Reputation roll. Increase the necessary Ease Factor by 3 for non-ecclesiastical characters. For example, a magus from Ireland needs to match an Ease Factor of 15 to have heard of Annibaldi (Whole Church), while a magus from the Lazi region would need a 12 (same province), and a magus from Rome would need a 9 (same diocese).
+> Much can be gleaned from a man’s Reputation. As storyguide you should be prepared to use the Reputation rules found in [**ArM5**, page 19](<Ars Magica 5e - Core Rules.md#reputations>) / [Definitive Edition, page 28](<Ars Magica - Definitive Edition (Core Rules).md#reputations>). Most of the storyguide characters have an Ecclesiastical Reputation. According to the rules, only an ecclesiastic should be allowed to make a stress die + Reputation to see if he has heard of the person in question. However, since the ecclesiastics in question are so important, allow any character to make a Reputation roll. Increase the necessary Ease Factor by 3 for non-ecclesiastical characters. For example, a magus from Ireland needs to match an Ease Factor of 15 to have heard of Annibaldi (Whole Church), while a magus from the Lazi region would need a 12 (same province), and a magus from Rome would need a 9 (same diocese).
 >
 > If a character has more than one Reputation players should check for each Reputation individually. It could happen that a character knows one Reputation about a man and not a second.
 >
@@ -1156,7 +1168,7 @@ The main gates are guarded by a garrison of twenty soldiers, professional men-at
 
 The guards know that the emperor has called off the siege. Like their adversaries, they wait for the College of Cardinals to select the next pope. They are naturally concerned about the outcome — an aggressive pope means a return to the siege, while a moderate pope means an end to the current conflict — but until the cardinals choose their man the guards have little to do. While the siege is on hiatus the city operates as usual and the guards monitor the steady flow of traffic.
 
-The soldiers notice armed men and step out of the shadowy gateway to bar their path. Scanning the strangers with their eyes, the Orsini guards are looking for imperial soldiers, men who might serve as the emperor’s spies. They generally know their enemy, and even though the imperial army is not homogenous, the Roman guards have encountered enough distinct groups serving the empire to recognize them. They can tell a Guelph from a Ghibelline on a Perception + Folk Ken + simple roll against an Ease Factor of 6. Use the stats for a Standard Soldier ([**ArM5**, page 22](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)) for the Orsini guards. If this roll succeeds the guards are able to tell that the character is not a Ghibelline.
+The soldiers notice armed men and step out of the shadowy gateway to bar their path. Scanning the strangers with their eyes, the Orsini guards are looking for imperial soldiers, men who might serve as the emperor’s spies. They generally know their enemy, and even though the imperial army is not homogenous, the Roman guards have encountered enough distinct groups serving the empire to recognize them. They can tell a Guelph from a Ghibelline on a Perception + Folk Ken + simple roll against an Ease Factor of 6. Use the stats for a Standard Soldier ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#the-standard-soldier>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)) for the Orsini guards. If this roll succeeds the guards are able to tell that the character is not a Ghibelline.
 
 <!-- p. 28 --><a id="page-28"></a>
 
@@ -1288,7 +1300,7 @@ The demon, diabolists, and Alyates react to the magi’s involvement. Annibaldi 
 
 <!-- p. 33 --><a id="page-33"></a>
 
-As Oriens talks with cardinals upstairs, Annibaldi readies the second part of his plan. When lunch is delivered Annibaldi offers to bring one of the elder cardinals his lunch. As he puts the food on a plate he will discretely poison it. The poison is fatal, equivalent to an asp’s bite (**ArM5**, page 180). Pick one of the elder Ghibelline cardinals besides Castiglione, starting with Somercotes. If Annibaldi succeeds he poisons another the next day, hoping to remove the Ghibellines one after another, ending with Castiglione. After two days of this ploy, Annibaldi and Oriens convince all of the cardinals other than the leaders to vote for Annibaldi.
+As Oriens talks with cardinals upstairs, Annibaldi readies the second part of his plan. When lunch is delivered Annibaldi offers to bring one of the elder cardinals his lunch. As he puts the food on a plate he will discretely poison it. The poison is fatal, equivalent to an asp’s bite ([**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#poisons>) / [Definitive Edition, page 406](<Ars Magica - Definitive Edition (Core Rules).md#poisons>)). Pick one of the elder Ghibelline cardinals besides Castiglione, starting with Somercotes. If Annibaldi succeeds he poisons another the next day, hoping to remove the Ghibellines one after another, ending with Castiglione. After two days of this ploy, Annibaldi and Oriens convince all of the cardinals other than the leaders to vote for Annibaldi.
 
 Alyates gets frantic once other magi become involved. He is convinced that the magi know that he was manipulating the old pope to fight against the emperor. While collecting Arcane Connections from cardinals might not be breaking the Code of Hermes, manipulating Bonaventura while he is electing a pope definitely is. Alyates is no longer content to collect one Arcane Connection a day, and instructs Bonaventura to collect as many as he can. Each time this suggestion is implanted in Bonaventura’s consciousness, Alyates’ sigil flashes. Bonaventura then takes articles of clothing from the cardinals and toss them from the balcony. In his Malgarita persona Alyates scrambles around the plaza snatching up falling Arcane Connections. He knows when the vote will be cast and retreats to his sanctum prior to that to cast spells on those to whom he has an Arcane Connection. Player characters watching the voting would then see each cardinal’s eyes flash purple, as Alyates implants the suggestion in each to vote for Bonaventura.
 
@@ -1836,9 +1848,9 @@ The jinn presented here have the Variable Power Virtue and Restricted Power Flaw
 
 > ### Travel in the Desert
 >
-> The sun burns hot in the deserts, meaning that characters need to take precautions against heat and sunstroke. This includes covering their skin to avoid sunburn and carrying adequate supplies of water to stave off dehydration. The Deprivation check time for lack of water is reduced in the desert to 4 hours, while the sunlight does +1 non-combat damage if skin is left exposed (see [**ArM5**, pages 180–181](<Ars Magica - Definitive Edition (Core Rules).md#non-combat-damage>)). Powerful magi can easily protect themselves from the heat and their thirst by using magic such as the Ward against Heat and Flames or Ritual magic to create water. However, some magi may lack these capabilities and there are also the companions, grogs, and pack animals to consider.
+> The sun burns hot in the deserts, meaning that characters need to take precautions against heat and sunstroke. This includes covering their skin to avoid sunburn and carrying adequate supplies of water to stave off dehydration. The Deprivation check time for lack of water is reduced in the desert to 4 hours, while the sunlight does +1 non-combat damage if skin is left exposed (see [**ArM5**, pages 180–181](<Ars Magica 5e - Core Rules.md#combat>) / [Definitive Edition, page 393](<Ars Magica - Definitive Edition (Core Rules).md#combat>)). Powerful magi can easily protect themselves from the heat and their thirst by using magic such as the Ward against Heat and Flames or Ritual magic to create water. However, some magi may lack these capabilities and there are also the companions, grogs, and pack animals to consider.
 >
-> Another (usually natural) hazard is dry quicksands, which can swallow a man and his mount in seconds. If a character steps on one of these, he begins to sink immediately and is pulled under within two rounds. Death from suffocation follows if he is not rescued (again, see **ArM5**, pages 180–181). A character who is caught in an area of dry quicksand may make a Strength or Quickness stress roll against an Ease Factor of 9 in the first round to leap or pull himself free before he sinks a significant distance, with a botch indicating that his arms are trapped in the following round. Thereafter it is up to his companions to help him escape its clutches, though if his arms are free he may assist in the second round, reducing any further Ease Factors that he may have to roll against by 3. Thereafter he is pulled under and not be able to help.
+> Another (usually natural) hazard is dry quicksands, which can swallow a man and his mount in seconds. If a character steps on one of these, he begins to sink immediately and is pulled under within two rounds. Death from suffocation follows if he is not rescued (again, see [**ArM5**, pages 180–181](<Ars Magica 5e - Core Rules.md#page-180>) / [Definitive Edition, page 406](<Ars Magica - Definitive Edition (Core Rules).md#disease-table>)). A character who is caught in an area of dry quicksand may make a Strength or Quickness stress roll against an Ease Factor of 9 in the first round to leap or pull himself free before he sinks a significant distance, with a botch indicating that his arms are trapped in the following round. Thereafter it is up to his companions to help him escape its clutches, though if his arms are free he may assist in the second round, reducing any further Ease Factors that he may have to roll against by 3. Thereafter he is pulled under and not be able to help.
 
 The Restricted Power Flaw has the effect that, no matter what the alternate form, there is always some tell-tale sign of the jinni’s true identity. Beast forms have certain distinct similarities and contribute features to other shapes. An elemental form may take the shape of the jinni or bear his likeness somehow. Even an alternate human form still exhibits a signature quirk or carries a trademark object. The jinni cannot lie about his identity, though he may introduce himself by any one of the different parts of his true name, use a recognized nickname, or spell the name backwards.
 
@@ -2756,7 +2768,7 @@ Petrus is the senior active agent in Relisius’ plans, and although he wholehea
 
 Relisius and Petrus are backed up by quite a few other magi in the Soterist circle, all of whom support Relisius’ philosophy. They’re not all involved in his current plan; about a dozen select magi know of it — and they only know what Relisius believes they need to know. These additional magi are his underlings and are younger and less experienced in Hermetic terms than him. Rather than including full stats for a lot of magi who may or may not be used in this story, the following section outlines magi he is likely to have included in his plans and suggests how to create them.
 
-With the Soterist movement being most popular among the Latin Houses, the magi are most likely to be from the Houses Bonisagus, Jerbiton, and Guernicus. They could also include some Flambeau who want their religion spread with force, or Tytali who are in it for the conflict and challenges. The storyguide should prepare some of these magi for use in certain events and confrontations during the course of the story. She can use the magus templates from [**ArM5**, pages 24–28](<Ars Magica - Definitive Edition (Core Rules).md#magus-templates>), as a base, and then advance them 30–50 years post-Gauntlet. This involves quite a bit of work, but if *Magi of Hermes* is available, statistics for magi of suitable ages can be taken from that book. Bear in mind that statistics are not needed unless the player characters directly confront an agent, so you need not generate all magi in advance.
+With the Soterist movement being most popular among the Latin Houses, the magi are most likely to be from the Houses Bonisagus, Jerbiton, and Guernicus. They could also include some Flambeau who want their religion spread with force, or Tytali who are in it for the conflict and challenges. The storyguide should prepare some of these magi for use in certain events and confrontations during the course of the story. She can use the magus templates from [**ArM5**, pages 24–28](<Ars Magica 5e - Core Rules.md#magus-templates>) / [Definitive Edition, page 37](<Ars Magica - Definitive Edition (Core Rules).md#magus-templates>), as a base, and then advance them 30–50 years post-Gauntlet. This involves quite a bit of work, but if *Magi of Hermes* is available, statistics for magi of suitable ages can be taken from that book. Bear in mind that statistics are not needed unless the player characters directly confront an agent, so you need not generate all magi in advance.
 
 Relisius has made sure he is well covered for most contingencies and has done his recruiting accordingly. He has included magi able to work craft magic with wood and stone, as well as for engineering and affecting the earth and terrain. Much depends on secrecy, on delicately executed plans, and on control and knowledge of the human mind, so he employs specialists in Mentem and Imaginem magic. Control of the weather and other elements of nature is also vital, as is the ability to heal people or animals and ensure their comfortable and healthy lives. In order for the magi to function as a coherent group and allow for communication of reports back to Relisius and orders from him they need at least one magus with *Leap of Homecoming*, *Haunt of the Living Ghost*, or a similar spell. Ideas for a few such magi are given here.
 
@@ -3168,7 +3180,7 @@ A Dark Huntsman can transform his spear – wherever it may be within his sight 
 
 The power must be activated as he attacks in melee or throw the spear; it continues to cause the victim +10 damage each round. Anyone approaching within 3 paces suffers +5 damage from the thorns.
 
-Use the rules for Wall of Thorns ([**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#wall-of-thorns>)) regarding damaging it or forcing one’s way through. The thorny bush is protected by the Huntsman’s Magic Resistance, as it is a part of his glamour. The Huntsman can approach his spear safely to pick it up again.
+Use the rules for Wall of Thorns ([**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#wall-of-thorns>) / [Definitive Edition, page 339](<Ars Magica - Definitive Edition (Core Rules).md#wall-of-thorns>)) regarding damaging it or forcing one’s way through. The thorny bush is protected by the Huntsman’s Magic Resistance, as it is a part of his glamour. The Huntsman can approach his spear safely to pick it up again.
 
 Appearance: Dark Huntsmen look like stocky humans, except that they have no mouths, and their eyes radiate a mixture of infinite sadness and vengeful spite. Their hands have elongated fingers with sharp talons for nails. They too dress in black and dark greens.
 
@@ -3222,7 +3234,7 @@ Most player magi are likely to investigate the appearance of a village that thre
 
 Even simple Intellego Mentem magic reveals these facts more quickly than questioning the villagers. Using scrying magic, as mentioned earlier, uncovers the occasional visits of Dieter and Axel. Since the villagers make up a small and closely-knit group, infiltrating them is very difficult, although magically assisted disguise helps. The covenant could also arrange for one of their agents to be recruited; Dieter has no way of checking this, and the Soterists may not be given any reason to be suspicious.
 
-If the magi use Intellego Vim magic, the guidelines from [**ArM5**, page 158](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-guidelines>) and *Houses of Hermes: True Lineages*, [pages 74–75](#page-74) apply. All the lower magnitude effects and the short-lived magic are hard to detect, unless the player magi are on the scene almost immediately. Enchanted items could yield a lot of information if stolen and investigated in the laboratory. Similarly, the powerful Animal and Herbam spells lasting whole days give the investigating magi something to work with. If the magi can determine the sigils associated with the effects, they can tie them to particular magi. The items are supplied by the Soterists, while the powerful and indiscreet Animal and Herbam spells are cast by the Wächter faction. In order to be able to use this knowledge, the characters need to know which magi have these sigils. The storyguide decides how difficult it is to do this. It may require nothing more than an Organization Lore: Order of Hermes roll, or it may require getting access to Quaesitorial records. The knowledge gained serves to identify at least some of the major magi from one or both of the factions. Early in the story, this forms the basis for a case at the next scheduled Tribunal; later on, it may allow the player characters to persuade the Quaesitores to formally intervene.
+If the magi use Intellego Vim magic, the guidelines from [**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#intellego-vim-guidelines>) / [Definitive Edition, page 366](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-guidelines>) and *Houses of Hermes: True Lineages*, [pages 74–75](#page-74) apply. All the lower magnitude effects and the short-lived magic are hard to detect, unless the player magi are on the scene almost immediately. Enchanted items could yield a lot of information if stolen and investigated in the laboratory. Similarly, the powerful Animal and Herbam spells lasting whole days give the investigating magi something to work with. If the magi can determine the sigils associated with the effects, they can tie them to particular magi. The items are supplied by the Soterists, while the powerful and indiscreet Animal and Herbam spells are cast by the Wächter faction. In order to be able to use this knowledge, the characters need to know which magi have these sigils. The storyguide decides how difficult it is to do this. It may require nothing more than an Organization Lore: Order of Hermes roll, or it may require getting access to Quaesitorial records. The knowledge gained serves to identify at least some of the major magi from one or both of the factions. Early in the story, this forms the basis for a case at the next scheduled Tribunal; later on, it may allow the player characters to persuade the Quaesitores to formally intervene.
 
 The woods surrounding the village are more or less constantly patrolled by Relisius’ grogs using invisibility devices (Veil of Invisibility PeIm 24 Touch/ Sun/Ind, Penetration +0, 2 uses/day, environmental trigger: sunrise/sunset). Sometimes, younger magi might patrol the area themselves; otherwise they use devices or spells to keep tabs on the village at regular intervals. If invisible grogs observe magi, the magus casting the invisibility spell has probably broken the Code on scrying, and the magi may clearly do so. However, even if the magi have solid proof, this is not a serious offense, as the offenders were not targeting places the magi were known to be, and its legal resolution must wait for the next scheduled Tribunal.
 
@@ -3879,7 +3891,7 @@ Powers:
 Debauched
 
 *Possession;* variable points, Init –2, Mentem:<br>
-Allows the demon to take control of human, and in this case, animal hosts. The rules for this are complex and can be found on [pages 32 and 33](#page-32) of *Realms of Power: The Infernal*, but for the purposes of this scenario, the demons each entirely possess a single ape, and control that ape absolutely, having worn down their Personality traits with the Obsession power. A demon that gives an ape a command which the ape feels is likely to cause it to die must spend Might to force its host to follow the instruction. This is an opposed roll of stress die + Might spent against its Personality trait roll of stress + 3. If characters use magic to give the Ape other powerful traits, these may also be used to oppose the demon’s control.
+Allows the demon to take control of human, and in this case, animal hosts. The rules for this are complex and can be found on [pages 32 and 33 of *Realms of Power: The Infernal*](<Ars Magica 5e - Realms of Power - The Infernal.md>), but for the purposes of this scenario, the demons each entirely possess a single ape, and control that ape absolutely, having worn down their Personality traits with the Obsession power. A demon that gives an ape a command which the ape feels is likely to cause it to die must spend Might to force its host to follow the instruction. This is an opposed roll of stress die + Might spent against its Personality trait roll of stress + 3. If characters use magic to give the Ape other powerful traits, these may also be used to oppose the demon’s control.
 
 *Walking Dead,* 3 points, Init –4, Corpus or Animal.<br>
 The mockery may animate any corpse not given proper burial. It can animate ape corpses since they are so perfect for mocking humans, provided they have not been dismembered. The physical attacks of the animated body reflect those of the body in life. They are blocked by Magic Resistance.
@@ -4248,7 +4260,7 @@ Combat:
 
 \* Includes Ways of the Waters (+3) Each round the elemental can split this attack into as many attacks as it chooses, retaining the same Init and Defense for each smaller pseudopod, but dividing the Attack and Damage pools as it wishes. Decide the division before the Attack roll is made.
 
-\*\* Water elementals can only cause Scuffle damage (see [**ArM5**, page 175](<Ars Magica - Definitive Edition (Core Rules).md#water-elementals>))
+\*\* Water elementals can only cause Scuffle damage (see [**ArM5**, page 175](<Ars Magica 5e - Core Rules.md#page-175>) / [Definitive Edition, page 398](<Ars Magica - Definitive Edition (Core Rules).md#scuffle-effects>))
 
 Soak: +12
 
@@ -4264,7 +4276,7 @@ Powers:
 Duplicates any Creo Aquam or Rego Aquam spell of level 35 or below at the cost of 1 Might point per magnitude of the spell.
 
 *Drown*, 0 points, Init –2, Aquam.<br>
-After a successful melee attack the elemental can engulf a target smaller than Size 12, necessitating a deprivation roll ([**ArM5**, pages 180-181](<Ars Magica - Definitive Edition (Core Rules).md#targets-and-sizes>)). Each victim may attempt to escape each round by Grappling (**ArM5**, page 171).
+After a successful melee attack the elemental can engulf a target smaller than Size 12, necessitating a deprivation roll ([**ArM5**, pages 180-181](<Ars Magica 5e - Core Rules.md#targets-and-sizes>) / [Definitive Edition, page 310](<Ars Magica - Definitive Edition (Core Rules).md#targets-and-sizes>)). Each victim may attempt to escape each round by Grappling ([**ArM5**, page 171](<Ars Magica 5e - Core Rules.md#page-171>)).
 
 Vis: 7 pawns Aquam, body
 
@@ -4307,7 +4319,7 @@ Pretenses: Brawl 5 (prey), but may use the Pretenses or abilities of the host.
 Powers:
 
 *Possession*, 1 or more points, Init +2, Mentem:<br>
-If this power Penetrates, the victim is possessed by the Red Maid and is under her direct control. Any attempt to force the victim to act contrary to her nature, or to use any of the host’s own magical powers requires that the Red Maid spends Might. A supernatural power (including spell-casting) requires 1 Might point per magnitude to produce. A questionable action that is contrary to the nature of the host requires the Red Maid to exceed the possessed being’s Personality Trait roll on a stress die + Might points spent. The storyguide may give a modifier to the Personality Trait roll based on the nature of the command (see the Entrancement power, [**ArM5**, page 65](<Ars Magica - Definitive Edition (Core Rules).md#personality-traits>), for suggestions). Both Might costs must be met if the use of a supernatural power is also contrary to the victim’s nature. If the Red Maid is in direct control of her host’s actions, the host acquires her Magic Resistance, but is also affected by wards that would normally exclude her. If the host is acting under her own free will, then she does not benefit from the Red Maid’s Magic Resistance, but may also walk through wards with impunity.
+If this power Penetrates, the victim is possessed by the Red Maid and is under her direct control. Any attempt to force the victim to act contrary to her nature, or to use any of the host’s own magical powers requires that the Red Maid spends Might. A supernatural power (including spell-casting) requires 1 Might point per magnitude to produce. A questionable action that is contrary to the nature of the host requires the Red Maid to exceed the possessed being’s Personality Trait roll on a stress die + Might points spent. The storyguide may give a modifier to the Personality Trait roll based on the nature of the command (see the Entrancement power, [**ArM5**, page 65](<Ars Magica 5e - Core Rules.md#personality-traits>) / [Definitive Edition, page 28](<Ars Magica - Definitive Edition (Core Rules).md#personality-traits>), for suggestions). Both Might costs must be met if the use of a supernatural power is also contrary to the victim’s nature. If the Red Maid is in direct control of her host’s actions, the host acquires her Magic Resistance, but is also affected by wards that would normally exclude her. If the host is acting under her own free will, then she does not benefit from the Red Maid’s Magic Resistance, but may also walk through wards with impunity.
 
 This power’s costs are not based on the Hermetic system of magic: it is based on material in *Realms of Power: Magic*.
 
@@ -4339,7 +4351,7 @@ This Virtue allows multiple combat bonuses, but only if the character with the V
 
 The London demons may, if the player characters seem willing to sin, pass them to a more powerful demon. If the player characters perform a terrible sin for Rahab, the Prince of the Primordial Sea, he promises to reveal the True Name of Eustace’s sponsor. The sin can be anything that’s personal for the player characters. If the storyguide cannot think of something better, then Rahab requests that the characters smash down a section of the defending cliffs of Sark, so that the demon can flood the island and kill all of the people there. Cunning characters might trick the demon out of its information, but if they do so, it becomes a recurring enemy.
 
-Rahab is not intended as a combatant in this scenario, so his statistics are not given here. They are found on [pages 74 and 75](#page-74) of *Realms of Power: The Infernal.*
+Rahab is not intended as a combatant in this scenario, so his statistics are not given here. They are found on [pages 74 and 75 of *Realms of Power: The Infernal*](<Ars Magica 5e - Realms of Power - The Infernal.md>).
 
 If the characters confront the demons, Fruitio and Ossa do not allow themselves to be destroyed. The demons frame the battle so that the characters accidentally kill many of the members of the family the demons are corrupting, and their servants. Fruitio then takes pains to appear to be vanquished, even calling in other spirits to provide illusions. Fruitio and Ossa simply take spiritual form and hide in cavities about the palace. These boltholes are inaccessible without magic or crews of demolitionists. While waiting for the player characters to go away, the demons recover their Might swiftly, due to the palace’s Infernal aura.
 
@@ -4915,7 +4927,7 @@ Avedutus has long railed against a docile Order. He watches the mundane world, w
 
 His Formulaic magic is hampered by the pain caused by spellcasting, as a result of which he has learned very few spells. He relies instead upon the effects enchanted into his arms and armor.
 
-His personal weaknesses are his pride, arrogance, and willingness to be led by Lucia. But he has magical vulnerabilities too. Unusually, his casting tools are too large to be used on the move. He needs an anvil and a selection of hammers and other blacksmithing tools to be able to cast his magic. He also suffers from the Weak Magic Resistance Flaw ([**ArM5**, page 61](<Ars Magica - Definitive Edition (Core Rules).md#weak-magic-resistance>)), which applies when the caster is touching these casting tools; a rare situation, but given Avedutus’ frequent separation from them this can be exploited by his enemies.
+His personal weaknesses are his pride, arrogance, and willingness to be led by Lucia. But he has magical vulnerabilities too. Unusually, his casting tools are too large to be used on the move. He needs an anvil and a selection of hammers and other blacksmithing tools to be able to cast his magic. He also suffers from the Weak Magic Resistance Flaw ([**ArM5**, page 61](<Ars Magica 5e - Core Rules.md#weak-magic-resistance>) / [Definitive Edition, page 152](<Ars Magica - Definitive Edition (Core Rules).md#weak-magic-resistance>)), which applies when the caster is touching these casting tools; a rare situation, but given Avedutus’ frequent separation from them this can be exploited by his enemies.
 
 He sees his craft as a means to an end, not an end in and of itself. His thrill comes from the battlefield and his art is expressed in the arms and armor that he carries and wears. The hubris common to his House is expressed on the battlefield, not in the workshop. Avedutus is in league with an armorer by the name of Alle Deudati, a merchant called upon to lend an air of Hermetic legality to any sales of enchanted items. He also trained an apprentice in earlier years, who can be found living outside the Tribunal.
 
@@ -4994,7 +5006,7 @@ He sees his craft as a means to an end, not an end in and of itself. His thrill 
 > PeIm 16<br>
 > Pen: +0, 2/day<br>
 > R: Personal, D: Concentration, T: Individual<br>
-> Effects as per the spell described in **ArM5**, page 146.
+> Effects as per the spell described in [**ArM5**, page 146](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 >
 > (Base 4, +1 Concentration, +1 for changing image; +1 for 2 uses per day, +5 device maintains concentration)
 >
@@ -5120,7 +5132,7 @@ He also has a number of damaging spells and rituals that he is able to cast from
 > MuCo 25<br>
 > R: Personal, D: Sun, T: Individual<br>
 > Pen: +0, 1/day<br>
-> Makes the wearer’s skin tough and resistant to damage, providing a +3 to Soak, as described in **ArM5**, page 131.
+> Makes the wearer’s skin tough and resistant to damage, providing a +3 to Soak, as described in [**ArM5**, page 131](<Ars Magica 5e - Core Rules.md#tough>) / [Definitive Edition, page 113](<Ars Magica - Definitive Edition (Core Rules).md#tough>).
 >
 > (Base 15, +2 Sun)
 >
@@ -5129,7 +5141,7 @@ He also has a number of damaging spells and rituals that he is able to cast from
 > CrCo 5<br>
 > R: Personal, D: Sun, T: Individual<br>
 > Pen: +0, 1/day<br>
-> As per the spell effect described on **ArM5**, page 129.
+> As per the spell effect described on [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 >
 > (Base 3, +2 Sun)
 >
@@ -5138,7 +5150,7 @@ He also has a number of damaging spells and rituals that he is able to cast from
 > ReIg 20<br>
 > R: Personal, D: Sun, T: Individual<br>
 > Pen: +0, 1/day<br>
-> As per the spell effect described on **ArM5**, page 143, this spell keeps heat and flames away from the wearer, which provides a +15 Soak bonus against heat or flame damage.
+> As per the spell effect described on [**ArM5**, page 143](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>), this spell keeps heat and flames away from the wearer, which provides a +15 Soak bonus against heat or flame damage.
 >
 > (Base 4, +2 for up to +15 damage, +2 Sun)
 >
@@ -5184,7 +5196,7 @@ He also has a number of damaging spells and rituals that he is able to cast from
 >
 > Perhaps Avedutus’ biggest handicap is the makeup of his casting tools. In order to cast any Formulaic or Ritual magic Avedutus needs an anvil and his selection of hammers and other metalworking tools; as he casts, he strikes a strip of iron or bronze. He accommodates these casting tools in a tall wagon pulled by stout oxen and driven by a downtrodden grog. The sides of the wagon fold down completely, allowing Avedutus to use the wagon as a raised platform, able to cast spells at Sight and Voice range. Given that his Parma Magica is weakened by anyone holding his casting tools, the wagon is built from solid oak and straps of iron. It is kept locked and his squire has the large iron key.
 >
-> Avedutus has cast a Watching Ward ([**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>)) upon the wagon, which triggers a Ball of Abysmal Flame when the lock is broken or removed without using the key. The effect has a Penetration of +36 and deals +30 damage, targeting the individual who triggered the spell.
+> Avedutus has cast a Watching Ward ([**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#watching-ward>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>)) upon the wagon, which triggers a Ball of Abysmal Flame when the lock is broken or removed without using the key. The effect has a Penetration of +36 and deals +30 damage, targeting the individual who triggered the spell.
 >
 > ##### The Hammer Falls
 >
@@ -5427,7 +5439,7 @@ The evening is accompanied by music from a troupe of musicians, and the intrigue
 >
 > PeVi 10<br>
 > R: Voice, D: Momentary, T: Individual<br>
-> As per Demon’s Eternal Oblivion ([**ArM5**, page 160](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>)), but affects faeries. This version strips 10 from the Might Score if it penetrates Magic Resistance.
+> As per Demon’s Eternal Oblivion ([**ArM5**, page 160](<Ars Magica 5e - Core Rules.md#demons-eternal-oblivion>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>)), but affects faeries. This version strips 10 from the Might Score if it penetrates Magic Resistance.
 >
 > (Base effect, +2 Voice)
 
@@ -5577,7 +5589,7 @@ The electors described in the nearby insert should be used by the storyguide to 
 >
 > CrTe 20<br>
 > R: Touch, D: Momentary, T: Individual, Ritual<br>
-> As the Touch of Midas ritual ([**ArM5**, page 153](<Ars Magica - Definitive Edition (Core Rules).md#touch-of-midas>)) but creates a lump of silver instead of gold, which is easier to slip into the local economy.
+> As the Touch of Midas ritual ([**ArM5**, page 153](<Ars Magica 5e - Core Rules.md#touch-of-midas>) / [Definitive Edition, page 359](<Ars Magica - Definitive Edition (Core Rules).md#touch-of-midas>)) but creates a lump of silver instead of gold, which is easier to slip into the local economy.
 >
 > (Base 15, +1 Touch, ritual)
 >
@@ -5600,7 +5612,7 @@ The electors described in the nearby insert should be used by the storyguide to 
 > CrAq 50<br>
 > R: Touch, D: Sun, T: Individual<br>
 > Pen +0, 1/day<br>
-> Once per day, *Humat* can be made to give up its venom, at which point a single dose of lethal poison drips from the blade’s tip. The venom has an Ease Factor of 9, as explained in [**ArM5**, page 180](<Ars Magica - Definitive Edition (Core Rules).md#ease-factor>). Failing the associated Stamina check results in death.
+> Once per day, *Humat* can be made to give up its venom, at which point a single dose of lethal poison drips from the blade’s tip. The venom has an Ease Factor of 9, as explained in [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>). Failing the associated Stamina check results in death.
 >
 > This effect has no Penetration, so the poison cannot affect those protected by any level of Magic Resistance from any realm or source.
 >
@@ -5932,7 +5944,7 @@ Al-’Aqrab is more forthcoming about what the *Trattato* hope to gain if asked 
 
 Neither Al-’Aqrab nor Patronus accept certamen, seemingly uncaring at the potential loss of face and remind the visiting magi that they have the duke’s men in residence, should they wish for any unpleasantness.
 
-Any confrontation with Patronus and Al-’Aqrab includes Al-’Aqrab calling for guards. You can assume 15 standard soldiers (as per **ArM5**, page 22) armed with crossbows (add the following line to the standard soldier statistics):
+Any confrontation with Patronus and Al-’Aqrab includes Al-’Aqrab calling for guards. You can assume 15 standard soldiers (as per [**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)) armed with crossbows (add the following line to the standard soldier statistics):
 
 <!-- p. 134 --><a id="page-134"></a>
 
@@ -6142,7 +6154,7 @@ When the Casalmaggiore army arrives, the duke concentrates his force on the sout
 
 The nature of the battle and siege rules puts the troupe players at the heart of the engagement. Where the troupe abandons the defending force to its fate, the defending city loses that discrete engagement. In this case, the city must defend against escalade and prevent the besieging enemy from scaling the walls. The players may place any combination of magi, companions, or grogs at the wall. Doing so allows them to influence the outcome.
 
-This is played as a combat encounter, with the troupe characters forming one or more combat group defending the wall against twice their number of untrained combat groups consisting of standard soldiers ([**ArM5**, page 22](<Ars Magica - Definitive Edition (Core Rules).md#untrained-group>)). The attacking soldiers take a round reaching the top of the wall, during which they are vulnerable to missile attacks and unable to make attack rolls against the troupe characters. On reaching the top, they attempt to gain a foothold on the battlements. The troupe characters benefit from the standard +3 bonus for fighting from higher ground during this round. The attackers cannot disengage from combat here and fight to the death. No side has higher-ground advantage during subsequent rounds but the top of the walls counts as hazardous terrain and adds +2 botch dice to any botches.
+This is played as a combat encounter, with the troupe characters forming one or more combat group defending the wall against twice their number of untrained combat groups consisting of standard soldiers ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#untrained-group>) / [Definitive Edition, page 396](<Ars Magica - Definitive Edition (Core Rules).md#untrained-group>)). The attacking soldiers take a round reaching the top of the wall, during which they are vulnerable to missile attacks and unable to make attack rolls against the troupe characters. On reaching the top, they attempt to gain a foothold on the battlements. The troupe characters benefit from the standard +3 bonus for fighting from higher ground during this round. The attackers cannot disengage from combat here and fight to the death. No side has higher-ground advantage during subsequent rounds but the top of the walls counts as hazardous terrain and adds +2 botch dice to any botches.
 
 <!-- p. 138 --><a id="page-138"></a>
 
@@ -6152,7 +6164,7 @@ This is played as a combat encounter, with the troupe characters forming one or 
 >
 > - **Garrison:** Verona has a +4 weight of numbers bonus, which ensures that a *significant* combat event only happens once per season. While the besieging army initiates many attacks through the season, the large resident garrison easily absorbs most of the pressure.
 > - **Defenses:** The city has superior defenses, provided by the strong city walls, and a +3 defense bonus. This bonus multiplied by the city’s size modifier of 4 means that the walls have a total of 12 damage levels. The strength of the walls means that any checks against enemy artillery happen at a rate of one per month, or three per season. Verona, given its frequent trouble with its neighbors, has an accomplished siege engineer with an Intelligence of 3 and a Profession: Siege Engineer Ability score of 5.
-> - **Supplies:** Situated on a river, Verona has a superior supply line. Under blockade it must make a supplies check only once per season and does so with a siege conditions bonus of +5. It is also allowed three failed rolls before the city is starved. At this point, troupe characters must make the standard deprivation checks against starvation as described in **ArM5**, page 180.
+> - **Supplies:** Situated on a river, Verona has a superior supply line. Under blockade it must make a supplies check only once per season and does so with a siege conditions bonus of +5. It is also allowed three failed rolls before the city is starved. At this point, troupe characters must make the standard deprivation checks against starvation as described in [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#deprivation>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#deprivation>).
 >
 > Once the siege digs in, the duke’s strategy is to blockade the city, deploying his army to surround Verona’s southern and western walls and crossing the river to stockade the east.
 
@@ -6168,7 +6180,7 @@ This is played as a combat encounter, with the troupe characters forming one or 
 
 At any time before the engagement is won, the troupe may withdraw their characters from the engagement, their retreat being covered by their allies. But this concedes the section to the enemy, giving them the foothold they need to secure the wall. If this happens, the city cannot reclaim it without help from the troupe.
 
-It is worth noting that these combat actions pose little threat to well-prepared magi, which is as it should be, but spellcasting may be hampered by the need for Concentration rolls. During battle, magi must make Concentration rolls against an Ease Factor of 9 in order to cast any spell, as described in [**ArM5**, page 82](<Ars Magica - Definitive Edition (Core Rules).md#ease-factor>), and they are always cast with stress dice.
+It is worth noting that these combat actions pose little threat to well-prepared magi, which is as it should be, but spellcasting may be hampered by the need for Concentration rolls. During battle, magi must make Concentration rolls against an Ease Factor of 9 in order to cast any spell, as described in [**ArM5**, page 82](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>), and they are always cast with stress dice.
 
 If the magi are not able to raise the siege during this initial engagement, either through negotiating an accord, routing the army, or breaking Lucia’s hold over the duke, then the siege digs in and events play out on a seasonal basis.
 

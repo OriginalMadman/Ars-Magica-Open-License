@@ -1,5 +1,17 @@
 # Through the Aegis: Developed Covenants
 
+<!-- back cover -->
+
+The covenant is the heart of an *Ars Magica* saga.
+
+It protects what’s dear, supplies what’s crucial, and hides what must remain secret, even through the ages. And each one changes over time, from the poverty and enthusiasm of Spring, through the glory of Summer, to the stability and power of Autumn, ending with the decline of Winter… or not, as many covenants renew their youth, flowering into Spring once more.
+
+## There’s No Place Like Home
+
+*Through the Aegis* provides five fully detailed covenants for your *Ars Magica* saga. There’s one for each season, each set in a different Tribunal. Each includes fully detailed magi, regional and local maps, and fully stocked libraries. Use them as bases for player character magi, as antagonists in your stories, or as inspiration for your own exceptional creations!
+
+<!-- markdown specifics -->
+
 ## Markdown Version Specifics
 
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
@@ -7,9 +19,11 @@ Visit the github for the latest revision of this document and the complete texts
 
 While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the illustrated physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0311
 
-*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; ArM5 references link to the matching section of the Definitive Edition, whose page numbers differ). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
+*[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Formatting follows the Definitive Edition markdown conventions (stat blocks, spells, inserts, tables); framed stat boxes are placed at the end of the section they interrupt, and inserts after the paragraph they interrupt. Every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N; page references in the text link to the page, and references to other Ars Magica books link to those books (by file name in this repository; references to ArM5 link to the page in the Fifth Edition Core Rules, followed by a link to the same section in the Definitive Edition). Official errata applied and clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps, art and art captions are not included (printed map keys are kept).]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -204,7 +218,7 @@ Each covenant can be used as inspiration for your own saga, as a place to visit,
 
 Although these covenants have each been strongly integrated into a particular location and Tribunal, all can be used wherever your saga is set. However, your troupe will need to modify the location and Tribunal-specific content accordingly.
 
-The characters detailed for the covenants have in some cases been generated season-by-season, taking into account the character’s duties and the resources available at the covenant. The experience totals of such characters may thus vary slightly from that expected via the Detailed Character Creation method ([**ArM5**, page 32](<Ars Magica - Definitive Edition (Core Rules).md#detailed-character-creation>)). Life-events such as Twilight may also cause the Virtues and Flaws of some characters to be either unbalanced or to exceed the normal allotment. When this applies it has been noted.
+The characters detailed for the covenants have in some cases been generated season-by-season, taking into account the character’s duties and the resources available at the covenant. The experience totals of such characters may thus vary slightly from that expected via the Detailed Character Creation method ([**ArM5**, page 32](<Ars Magica 5e - Core Rules.md#detailed-character-creation>) / [Definitive Edition, page 43](<Ars Magica - Definitive Edition (Core Rules).md#detailed-character-creation>)). Life-events such as Twilight may also cause the Virtues and Flaws of some characters to be either unbalanced or to exceed the normal allotment. When this applies it has been noted.
 
 When existing communal covenant resources, such as enchanted items, have been acquired or made by the current residents, then these have been effectively paid for twice: once in terms of seasons of work, and once in terms of covenant build points. On the other hand, resources personal to a magus, such as talismans and some enchanted items, have not been paid for out of the covenant build point budget. Generally, if a magus would likely take a resource with him if he left the covenant, it has been considered a personal resource. However, sometimes, it has been necessary to make an arbitrary decision as to whether a particular resource is communal or personal.
 
@@ -510,7 +524,7 @@ Carles has learned some spells not in the core **ArM5** rulebook. These are:
 
 MuAq 25<br>
 R: Voice, D: Sun, T: Group<br>
-Operates like *Trap of the Entwining Vines* ([**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#trap-of-the-entwining-vines>)), but the ‘vines’ are made from water, which takes on a semi-solid form for the duration of this spell. The ‘vines’ can hold still a small rowing boat, or up to 6 people.
+Operates like *Trap of the Entwining Vines* ([**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#trap-of-the-entwining-vines>) / [Definitive Edition, page 339](<Ars Magica - Definitive Edition (Core Rules).md#trap-of-the-entwining-vines>)), but the ‘vines’ are made from water, which takes on a semi-solid form for the duration of this spell. The ‘vines’ can hold still a small rowing boat, or up to 6 people.
 
 (First presented in *Guardians of the Forests*.)
 
@@ -586,7 +600,7 @@ Carles’ talisman is a *kilij*, a single–edged sword with curved iron blade. 
 ReAq 30<br>
 Pen +0, 1/day<br>
 R: Sight, D: Momentary, T: Individual<br>
-As per the spell of the same name in **ArM5**, page 124.
+As per the spell of the same name in [**ArM5**, page 124](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Effect: Base 10, +3 Sight, +1 size)
 
@@ -604,7 +618,7 @@ The caster is instantly transported up to 50 paces in any direction, provided he
 PeCo 30<br>
 Pen +24, 6/day<br>
 R: Voice, D Momentary, T: Individual<br>
-As the spell described in **ArM5**, page 133.
+As the spell described in [**ArM5**, page 133](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Effect: Base 5, +2 Voice; Modifications: +3 for 6/day, +12 for +24 Penetration)
 
@@ -613,7 +627,7 @@ As the spell described in **ArM5**, page 133.
 PeTe 20<br>
 Pen +24, 6/day<br>
 R: Touch, D: Momentary, T: Individual<br>
-As the spell described in **ArM5**, page 155. This effect is triggered in combat, when it strikes an opponent’s metal weapon or armor. If the effect penetrates, it rusts the target through and weapons become little more than bludgeons and armor drops to the next protection value as per the table in [**ArM5**, page 176](<Ars Magica - Definitive Edition (Core Rules).md#weapons-and-armor>).
+As the spell described in [**ArM5**, page 155](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). This effect is triggered in combat, when it strikes an opponent’s metal weapon or armor. If the effect penetrates, it rusts the target through and weapons become little more than bludgeons and armor drops to the next protection value as per the table in [**ArM5**, page 176](<Ars Magica 5e - Core Rules.md#armor-table>) / [Definitive Edition, page 400](<Ars Magica - Definitive Edition (Core Rules).md#armor-table>).
 
 (Effect: Base 2, +1 Touch, +2 metal; Modifications: +3 for 6/day, +12 for +24 Penetration)
 
@@ -947,13 +961,13 @@ The palimpsest (once an old journal belonging to her master) and other writing p
 
 Matilda has a penchant for charged devices, particularly scrolls that she can either use herself without going to the trouble of spell-casting or to give to grogs and let them sort themselves out. She has developed the following scrolls, for which she retains the laboratory texts:
 
-3 scrolls of *Bind Wounds* (as per **ArM5**, page 129), CrCo 10 (+0 penetration)
+3 scrolls of *Bind Wounds* (as per [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#wounds>) / [Definitive Edition, page 404](<Ars Magica - Definitive Edition (Core Rules).md#wounds>)), CrCo 10 (+0 penetration)
 
-1 scroll of *Pilum of Fire* (as per [**ArM5**, page 140](<Ars Magica - Definitive Edition (Core Rules).md#pilum-of-fire>)), CrIg 20 (+20 penetration)
+1 scroll of *Pilum of Fire* (as per [**ArM5**, page 140](<Ars Magica 5e - Core Rules.md#pilum-of-fire>) / [Definitive Edition, page 344](<Ars Magica - Definitive Edition (Core Rules).md#pilum-of-fire>)), CrIg 20 (+20 penetration)
 
-1 scroll of *Circular Ward Against Demons* (as per [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>)), ReVi 15 (+20 penetration)
+1 scroll of *Circular Ward Against Demons* (as per [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#circular-ward-against-demons>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>)), ReVi 15 (+20 penetration)
 
-2 scrolls of *Wreaths Of Foul Smoke* (as per [**ArM5**, page 125](<Ars Magica - Definitive Edition (Core Rules).md#wreaths-of-foul-smoke>)) CrAu 10 (+0 penetration)
+2 scrolls of *Wreaths Of Foul Smoke* (as per [**ArM5**, page 125](<Ars Magica 5e - Core Rules.md#wreaths-of-foul-smoke>) / [Definitive Edition, page 326](<Ars Magica - Definitive Edition (Core Rules).md#wreaths-of-foul-smoke>)) CrAu 10 (+0 penetration)
 
 These are activated by opening them and speaking the illuminated trigger word or phrase written upon the scroll in Latin.
 
@@ -1343,7 +1357,7 @@ Appearance: Laszlo has mid-length white hair and long angular features. He remai
 
 ## Grogs
 
-The description of a base covenant in **ArM5**, page 71 provides for *about* one grog (*fighter*) per magus and *about* two other servants of various trades or professions. The servants are likely to include clerks and cabin-boys to fetch and carry for the magus. These are not detailed here and you should consider the Urchin statistics in [*Apprentices*, page 30](<Ars Magica 5e - Magic - Apprentices.md>) for any young cabin-boys in the fleet.
+The description of a base covenant in [**ArM5**, page 71](<Ars Magica 5e - Core Rules.md#covenants>) / [Definitive Edition, page 18](<Ars Magica - Definitive Edition (Core Rules).md#covenants>) provides for *about* one grog (*fighter*) per magus and *about* two other servants of various trades or professions. The servants are likely to include clerks and cabin-boys to fetch and carry for the magus. These are not detailed here and you should consider the Urchin statistics in [*Apprentices*, page 30](<Ars Magica 5e - Magic - Apprentices.md>) for any young cabin-boys in the fleet.
 
 Of the named grogs described nearby, you can assume that each of the covenant’s six magi have one on board their ship with them. Players may like to decide among themselves which of these grogs they claim.
 
@@ -1648,7 +1662,7 @@ Encumbrance: 4 (5)
 
 Appearance: Despite his years, his well-trained arms and shoulders still fill his armor well. His beard may be gray, his eyes a little rheumy, and he may be a little hard of hearing, but he has a lightness to his step and ready smile.
 
-Thrice-Dead Ned benefits from a Stamina of 4 +3 for Rapid Convalescence in all Wound Recovery Rolls, as detailed in [**ArM5**, page 179](<Ars Magica - Definitive Edition (Core Rules).md#rapid-convalescence>). He does however have some Aging Points against a few of his characteristics, which puts him at risk during each winter.
+Thrice-Dead Ned benefits from a Stamina of 4 +3 for Rapid Convalescence in all Wound Recovery Rolls, as detailed in [**ArM5**, page 179](<Ars Magica 5e - Core Rules.md#rapid-convalescence>) / [Definitive Edition, page 105](<Ars Magica - Definitive Edition (Core Rules).md#rapid-convalescence>). He does however have some Aging Points against a few of his characteristics, which puts him at risk during each winter.
 
 Ned isn’t clever, but he isn’t stupid either. He knows he’s getting on a bit and prefers to use his crossbow from range, reloading while others keep danger at bay. Ned uses the Crossbow Ability from [*Lords of Men*, page 138](<Ars Magica 5e - Lords of Men.md>), and spans his crossbow using a belt hook.
 
@@ -2129,7 +2143,7 @@ The following enchanted devices are available. Unless otherwise stated, the trou
 MuAq 24<br>
 Pen: +0, Constant Effect<br>
 R: Touch, D: Sun, T: Part<br>
-This brooch affects the wearer as per the Lungs of the Fish spell described in [**ArM5**, page 122](<Ars Magica - Definitive Edition (Core Rules).md#lungs-of-the-fish>). The effect is constantly active and so the user simply needs to wear it to benefit.
+This brooch affects the wearer as per the Lungs of the Fish spell described in [**ArM5**, page 122](<Ars Magica 5e - Core Rules.md#lungs-of-the-fish>) / [Definitive Edition, page 323](<Ars Magica - Definitive Edition (Core Rules).md#lungs-of-the-fish>). The effect is constantly active and so the user simply needs to wear it to benefit.
 
 The covenant has only one of these at present but the Laboratory Text is available.
 
@@ -2294,9 +2308,9 @@ Niall ex Miscellanea, *A Discussion on Auras and Their Effects on Our Spells and
 
 The covenant has just two casting tablets at present at a cost of 18 Build Points.
 
-Felix of Tytalus, *The Severed Limb Made Whole*, CrCo 25, [**ArM5**, page 129](<Ars Magica - Definitive Edition (Core Rules).md#the-severed-limb-made-whole>). (10BP)
+Felix of Tytalus, *The Severed Limb Made Whole*, CrCo 25, [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#the-severed-limb-made-whole>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#the-severed-limb-made-whole>). (10BP)
 
-Felix of Tytalus, *Chirurgeons Healing Touch*, CrCo 20, **ArM5**, page 129. (8BP)
+Felix of Tytalus, *Chirurgeons Healing Touch*, CrCo 20, [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#tytalus>) / [Definitive Edition, page 42](<Ars Magica - Definitive Edition (Core Rules).md#tytalus>). (8BP)
 
 #### Laboratory Texts
 
@@ -2304,49 +2318,49 @@ Many of the covenant’s magi brought their own Laboratory Texts with them when 
 
 Laboratory Texts are also available for the devices described above, Carles’ talisman, and the scrolls developed by Matilda Page.
 
-Matilda Page, *Wreaths of Foul Smoke Charged Device*, CrAu 25, [**ArM5**, page 125](<Ars Magica - Definitive Edition (Core Rules).md#wreaths-of-foul-smoke>). (5BP)
+Matilda Page, *Wreaths of Foul Smoke Charged Device*, CrAu 25, [**ArM5**, page 125](<Ars Magica 5e - Core Rules.md#wreaths-of-foul-smoke>) / [Definitive Edition, page 326](<Ars Magica - Definitive Edition (Core Rules).md#wreaths-of-foul-smoke>). (5BP)
 
-Matilda Page, *Bind Wound Charged Device*, CrCo 10, [**ArM5**, page 129](<Ars Magica - Definitive Edition (Core Rules).md#bind-wound>). (2BP)
+Matilda Page, *Bind Wound Charged Device*, CrCo 10, [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#bind-wound>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#bind-wound>). (2BP)
 
-Matilda Page, *Pilum of Fire Charged Device*, CrIg 30, [**ArM5**, page 140](<Ars Magica - Definitive Edition (Core Rules).md#pilum-of-fire>). (6BP)
+Matilda Page, *Pilum of Fire Charged Device*, CrIg 30, [**ArM5**, page 140](<Ars Magica 5e - Core Rules.md#pilum-of-fire>) / [Definitive Edition, page 344](<Ars Magica - Definitive Edition (Core Rules).md#pilum-of-fire>). (6BP)
 
-Matilda Page, *Circular Ward Against Demons Charged Device*, ReVi 25 [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>). (5BP)
+Matilda Page, *Circular Ward Against Demons Charged Device*, ReVi 25 [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#circular-ward-against-demons>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>). (5BP)
 
-Quintana of Verdi, *Broach of Lungs of the Fish Device Effect*, MuAq 24, [**ArM5**, page 122](<Ars Magica - Definitive Edition (Core Rules).md#lungs-of-the-fish>). (5BP)
+Quintana of Verdi, *Broach of Lungs of the Fish Device Effect*, MuAq 24, [**ArM5**, page 122](<Ars Magica 5e - Core Rules.md#lungs-of-the-fish>) / [Definitive Edition, page 323](<Ars Magica - Definitive Edition (Core Rules).md#lungs-of-the-fish>). (5BP)
 
 Discipulus Theo of Verdi, *The Freshwater Barrel Device Effect*, PeAq 20. (4BP)
 
 Discipulus Theo of Verdi, *The Master’s Chart Device Effect*, Re(In)He 19. (4BP)
 
-Felix of Tytalus, *The Incantation Of Lightning*, CrAu 35, [**ArM5**, page 126](<Ars Magica - Definitive Edition (Core Rules).md#the-incantation-of-lightning>). (7BP)
+Felix of Tytalus, *The Incantation Of Lightning*, CrAu 35, [**ArM5**, page 126](<Ars Magica 5e - Core Rules.md#the-incantation-of-lightning>) / [Definitive Edition, page 327](<Ars Magica - Definitive Edition (Core Rules).md#the-incantation-of-lightning>). (7BP)
 
-Felix of Tytalus, *Clouds Of Thunderous Might*, ReAu 30, [**ArM5**, page 128](<Ars Magica - Definitive Edition (Core Rules).md#clouds-of-thunderous-might>). (6BP)
+Felix of Tytalus, *Clouds Of Thunderous Might*, ReAu 30, [**ArM5**, page 128](<Ars Magica 5e - Core Rules.md#clouds-of-thunderous-might>) / [Definitive Edition, page 330](<Ars Magica - Definitive Edition (Core Rules).md#clouds-of-thunderous-might>). (6BP)
 
-Carles Magnus, *Bind Wound*, CrCo 10, [**ArM5**, page 129](<Ars Magica - Definitive Edition (Core Rules).md#bind-wound>). (2BP)
+Carles Magnus, *Bind Wound*, CrCo 10, [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#bind-wound>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#bind-wound>). (2BP)
 
-Carles Magnus, *The Inexorable Search*, InCo 20, [**ArM5**, page 131](<Ars Magica - Definitive Edition (Core Rules).md#the-inexorable-search>). (4BP)
+Carles Magnus, *The Inexorable Search*, InCo 20, [**ArM5**, page 131](<Ars Magica 5e - Core Rules.md#the-inexorable-search>) / [Definitive Edition, page 333](<Ars Magica - Definitive Edition (Core Rules).md#the-inexorable-search>). (4BP)
 
-Felix of Tytalus, *Cloak Of Black Feathers*, MuCo 30, [**ArM5**, page 131](<Ars Magica - Definitive Edition (Core Rules).md#cloak-of-black-feathers>). (6BP)
+Felix of Tytalus, *Cloak Of Black Feathers*, MuCo 30, [**ArM5**, page 131](<Ars Magica 5e - Core Rules.md#cloak-of-black-feathers>) / [Definitive Edition, page 334](<Ars Magica - Definitive Edition (Core Rules).md#cloak-of-black-feathers>). (6BP)
 
 Carles Magnus, *In Christ’s Footsteps*, ReCo 5, [*Guardians of the Forests*, page 96](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>). (1BP)
 
-Hilde Oddfish, *Endurance of the Berserkers*, ReCo 15, [**ArM5**, page 134](<Ars Magica - Definitive Edition (Core Rules).md#endurance-of-the-berserkers>). (3BP)
+Hilde Oddfish, *Endurance of the Berserkers*, ReCo 15, [**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#endurance-of-the-berserkers>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#endurance-of-the-berserkers>). (3BP)
 
-Felix of Tytalus, *The Leap Of Homecoming*, ReCo 35, [**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#the-leap-of-homecoming>). (7BP)
+Felix of Tytalus, *The Leap Of Homecoming*, ReCo 35, [**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#the-leap-of-homecoming>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#the-leap-of-homecoming>). (7BP)
 
-Carles Magnus, *Lamp without Flame*, CrIg 10, [**ArM5**, page 140](<Ars Magica - Definitive Edition (Core Rules).md#lamp-without-flame>). (2BP)
+Carles Magnus, *Lamp without Flame*, CrIg 10, [**ArM5**, page 140](<Ars Magica 5e - Core Rules.md#lamp-without-flame>) / [Definitive Edition, page 344](<Ars Magica - Definitive Edition (Core Rules).md#lamp-without-flame>). (2BP)
 
-Matilda Page, *Pilum of Fire*, CrIg 20, [**ArM5**, page 140](<Ars Magica - Definitive Edition (Core Rules).md#pilum-of-fire>). (4BP)
+Matilda Page, *Pilum of Fire*, CrIg 20, [**ArM5**, page 140](<Ars Magica 5e - Core Rules.md#pilum-of-fire>) / [Definitive Edition, page 344](<Ars Magica - Definitive Edition (Core Rules).md#pilum-of-fire>). (4BP)
 
-Felix of Tytalus, *Conjuration Of The Indubitable Cold*, PeIg 25, [**ArM5**, page 142](<Ars Magica - Definitive Edition (Core Rules).md#conjuration-of-the-indubitable-cold>). (5BP)
+Felix of Tytalus, *Conjuration Of The Indubitable Cold*, PeIg 25, [**ArM5**, page 142](<Ars Magica 5e - Core Rules.md#conjuration-of-the-indubitable-cold>) / [Definitive Edition, page 346](<Ars Magica - Definitive Edition (Core Rules).md#conjuration-of-the-indubitable-cold>). (5BP)
 
-Felix of Tytalus, *Haunt Of The Living Ghost*, CrIm 35, [**ArM5**, page 154](<Ars Magica - Definitive Edition (Core Rules).md#haunt-of-the-living-ghost>). (7BP)
+Felix of Tytalus, *Haunt Of The Living Ghost*, CrIm 35, [**ArM5**, page 154](<Ars Magica 5e - Core Rules.md#haunt-of-the-living-ghost>) / [Definitive Edition, page 348](<Ars Magica - Definitive Edition (Core Rules).md#haunt-of-the-living-ghost>). (7BP)
 
-Tibor Milos, *Piercing the Magical Veil*, InVi 20, **ArM5**, page 158. (4BP)
+Tibor Milos, *Piercing the Magical Veil*, InVi 20, [**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#page-158>) / [Definitive Edition, page 366](<Ars Magica - Definitive Edition (Core Rules).md#intellego-vim-guidelines>). (4BP)
 
-Tibor Milos, *Circular Ward Against Demons*, ReVi 15, [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>). (3BP)
+Tibor Milos, *Circular Ward Against Demons*, ReVi 15, [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#circular-ward-against-demons>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>). (3BP)
 
-Felix of Tytalus, *Aegis of the Hearth*, ReVi 30, [**ArM5**, page 161](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>). (6BP)
+Felix of Tytalus, *Aegis of the Hearth*, ReVi 30, [**ArM5**, page 161](<Ars Magica 5e - Core Rules.md#aegis-of-the-hearth>) / [Definitive Edition, page 173](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>). (6BP)
 
 ### Vis Sources
 
@@ -3311,7 +3325,7 @@ Attunement Bonuses: +3 Terram; +5 Darkness; +2 Harvesting
 PeIg 25<br>
 Pen +0, 1/day<br>
 R: Touch, D: Sun, T: Structure<br>
-As per the spell of the same name in **ArM5**, page 142.
+As per the spell of the same name in [**ArM5**, page 142](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Base 3, Touch +1, Sun +2, Structure +3)
 
@@ -3384,19 +3398,19 @@ Bond Powers:
 Powers:
 
 *Aura of Rightful Authority*, 2 points, Penetration 0, Init +2, Mentem, R: Eye D: Sun, T: Individual.<br>
-Inclines humans to obey orders and helps them overcome the shock of talking cats. (See **ArM5**, page 151)
+Inclines humans to obey orders and helps them overcome the shock of talking cats. (See [**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#page-151>) / [Definitive Edition, page 356](<Ars Magica - Definitive Edition (Core Rules).md#loss-of-but-a-moments-memory>))
 
 *Humans Are Easily Misplaced*, Corpus, 0 points, Penetration, +10 Init –3, R: Arc D: Concentration, T: Individual<br>
-*A version of The Inexorable Search* ([**ArM5**, page 131](<Ars Magica - Definitive Edition (Core Rules).md#the-inexorable-search>)) The maps cats use are a mixture of scents and textures, and make little sense to humans. This power requires an Arcane Connection, so Hypatia scent marks humans she wishes to find again by rubbing on them (4 Mastery points spent on reducing Might cost)
+*A version of The Inexorable Search* ([**ArM5**, page 131](<Ars Magica 5e - Core Rules.md#the-inexorable-search>) / [Definitive Edition, page 333](<Ars Magica - Definitive Edition (Core Rules).md#the-inexorable-search>)) The maps cats use are a mixture of scents and textures, and make little sense to humans. This power requires an Arcane Connection, so Hypatia scent marks humans she wishes to find again by rubbing on them (4 Mastery points spent on reducing Might cost)
 
 *Master of the Undergrowth*, Herbam, 2 points, Init +0, R: Touch, D: Sun, T: Group<br>
-A feline version of *Intuition of the Forest* ([**ArM5**, page 136](<Ars Magica - Definitive Edition (Core Rules).md#intuition-of-the-forest>))
+A feline version of *Intuition of the Forest* ([**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#intuition-of-the-forest>) / [Definitive Edition, page 340](<Ars Magica - Definitive Edition (Core Rules).md#intuition-of-the-forest>))
 
 *Pass the Unyielding Portal*, Herbam, 1 point, Initiative +2, R: Touch, D: Diameter, T: Individual<br>
-A feline version of the spell of the same name, used when no humans are available to open doors. (See **ArM5**, page 137).
+A feline version of the spell of the same name, used when no humans are available to open doors. (See [**ArM5**, page 137](<Ars Magica 5e - Core Rules.md#page-137>) / [Definitive Edition, page 340](<Ars Magica - Definitive Edition (Core Rules).md#muto-herbam-guidelines>)).
 
 *Prying Eyes*, Imaginem, 1 point, Initiative +2, Penetration +5, R: Touch, D: Concentration, T: Room<br>
-This effect is used to look inside a building and rooms. Note that a cat on a roof can see through it. The human version is on [page 144](#page-144) of **ArM5**.
+This effect is used to look inside a building and rooms. Note that a cat on a roof can see through it. The human version is on [page 144 of **ArM5**](<Ars Magica 5e - Core Rules.md#page-144>) / [Definitive Edition, page 348](<Ars Magica - Definitive Edition (Core Rules).md#creo-imaginem-guidelines>).
 
 *The Wise Guide*, Mentem, 0 points, Penetration +10, Initiative +2, R: Voice, D: Concentration, T: Group.<br>
 Subtly influences Xenophanes to act in wise and sensible ways as if he had the Common Sense Virtue. There is no compulsion to follow this advice, but Xenophanes generally does. The power does not cause Warping as it was tailored to Xenophanes as part of the familiar bond. ReMe30 (Base 5, +2 Voice, +1 Concentration, +2 Group, 3 Mastery points used to reduce cost, 1 to improve Init.).
@@ -3509,7 +3523,7 @@ Total Pawns Invested: 7; Total Effect Levels: 54;
 MuIm 14<br>
 Pen +0, 12/day<br>
 R: Personal, D: Sun, T: Individual<br>
-As per the spell Disguise Of The New Visage [**ArM5**, page 146](<Ars Magica - Definitive Edition (Core Rules).md#disguise-of-the-new-visage>). Beatriz tends to change her physical appearance at whim, with often minor alterations in hairstyle or complexion throughout the day. Outside the covenant she never appears as Beatriz, always adopting a different appearance as a form of disguise. She almost never uses the effect at night, and does not use it when she is alone in her sanctum, so she is not constantly under the effect, and does not gain Warping from it. She does her best to use the effect whenever she is with other people, however.
+As per the spell Disguise Of The New Visage [**ArM5**, page 146](<Ars Magica 5e - Core Rules.md#disguise-of-the-new-visage>) / [Definitive Edition, page 334](<Ars Magica - Definitive Edition (Core Rules).md#disguise-of-the-new-visage>). Beatriz tends to change her physical appearance at whim, with often minor alterations in hairstyle or complexion throughout the day. Outside the covenant she never appears as Beatriz, always adopting a different appearance as a form of disguise. She almost never uses the effect at night, and does not use it when she is alone in her sanctum, so she is not constantly under the effect, and does not gain Warping from it. She does her best to use the effect whenever she is with other people, however.
 
 (Effect: Base 4, +2 Sun, 4 Levels 12 Uses a day)
 
@@ -3518,7 +3532,7 @@ As per the spell Disguise Of The New Visage [**ArM5**, page 146](<Ars Magica - D
 InVi 25<br>
 Pen +0, 1/day<br>
 R: Personal, D: Concentration, T: Touch<br>
-As per the spell of the same name in **ArM5**, page 157. Beatriz often feels others are hostile to her, and this effect reveals scrying magic up to level 50. She uses it infrequently, but sometimes when out and about the covenant, so if Jardin were being spied upon magically Beatriz would probably be the first to realize and notify the other magi.
+As per the spell of the same name in [**ArM5**, page 157](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). Beatriz often feels others are hostile to her, and this effect reveals scrying magic up to level 50. She uses it infrequently, but sometimes when out and about the covenant, so if Jardin were being spied upon magically Beatriz would probably be the first to realize and notify the other magi.
 
 (Effect: Base 20, +1 Concentration)
 
@@ -3527,7 +3541,7 @@ As per the spell of the same name in **ArM5**, page 157. Beatriz often feels oth
 InCo(Me) 15<br>
 Pen +0, 1/day<br>
 R: Touch, D: Concentration, T: Individual<br>
-As per the spell of the same name in **ArM5**, page 130.
+As per the spell of the same name in [**ArM5**, page 130](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Effect: Base 5, +1 Concentration, +1 Touch,)
 
@@ -3703,13 +3717,13 @@ Abilities: Area Lore: Cahors 6 (covenant lands), Area Lore: Coeris Region 6 (pac
 Powers:
 
 *Theft of Voice*, 1 point, Init +10, Mentem<br>
-Nec can steal the voice of any human with whom she makes eye contact. The effect lasts until the next sunrise. As The Captive Voice, [**ArM5** page 147](<Ars Magica - Definitive Edition (Core Rules).md#the-captive-voice>).
+Nec can steal the voice of any human with whom she makes eye contact. The effect lasts until the next sunrise. As The Captive Voice, [**ArM5** page 147](<Ars Magica 5e - Core Rules.md#the-captive-voice>) / [Definitive Edition, page 352](<Ars Magica - Definitive Edition (Core Rules).md#the-captive-voice>).
 
 *Eyes Like Lanterns,* 1 point, Init +7, Mentem<br>
 Nec can paralyze a victim with terror if she maintains eye contact and the victim fails a Brave personality trait roll against an Ease Factor of 9. The victim may test each round if attacked, shaken or otherwise distracted, requiring a roll against an Ease Factor of 6 to break the effect. (Base 4, +1 Eye, +1 Conc: ReMe 10)
 
 *Leave No Trace,* 0 points, Init +2, Terram<br>
-While running Nec leaves no tracks upon the earth. As The Trackless Step, [**ArM5** page 155](<Ars Magica - Definitive Edition (Core Rules).md#trackless-step>).
+While running Nec leaves no tracks upon the earth. As The Trackless Step, [**ArM5** page 155](<Ars Magica 5e - Core Rules.md#trackless-step>) / [Definitive Edition, page 363](<Ars Magica - Definitive Edition (Core Rules).md#trackless-step>).
 
 Vis: 2 pawns, Animal, in her tail.
 
@@ -3734,7 +3748,7 @@ Total Pawns Invested: 9; Total Effect Levels: 86.
 ReMe 47<br>
 Pen +64, 24/day<br>
 R: Touch, D: Sun, T: Individual<br>
-Touch Range variant of Call To Slumber as in [**ArM5**, page 151](<Ars Magica - Definitive Edition (Core Rules).md#the-call-to-slumber>).
+Touch Range variant of Call To Slumber as in [**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#the-call-to-slumber>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#the-call-to-slumber>).
 
 (Effect: Base 4, +2 Voice, +32 for penetration, +5 for 24 uses/day)
 
@@ -3743,7 +3757,7 @@ Touch Range variant of Call To Slumber as in [**ArM5**, page 151](<Ars Magica - 
 ReCo 39<br>
 Pen +8, 1/day<br>
 R: Personal, D: Momentary, T: Individual<br>
-As Leap of Homecoming [**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#the-leap-of-homecoming>). The wand’s base contains an Arcane Connection to Ahenobarbus’ laboratory.
+As Leap of Homecoming [**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#the-leap-of-homecoming>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#the-leap-of-homecoming>). The wand’s base contains an Arcane Connection to Ahenobarbus’ laboratory.
 
 (Effect: Base 35, +4 levels Penetration)
 
@@ -3760,7 +3774,7 @@ Ahenobarbus has prepared two of these invested devices, in the form of small iro
 ReMe 44<br>
 Pen +0, 2/day, Environmental Trigger<br>
 R: Touch, D: Sun, T: Individual<br>
-As Enslavement of the Mortal Mind in ArM5, page 152, but with range Touch instead of Eye. The person wearing this small iron collar is completely unable to formulate desires, interests, emotions and activities, and responds willingly to suggestions and commands, as they have no will of their own. Once freed he can fully recall all that transpired while collared and will almost certainly seek revenge.
+As Enslavement of the Mortal Mind in [ArM5, page 152](<Ars Magica 5e - Core Rules.md#page-152>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#coerce-the-spirits-of-the-night>), but with range Touch instead of Eye. The person wearing this small iron collar is completely unable to formulate desires, interests, emotions and activities, and responds willingly to suggestions and commands, as they have no will of their own. Once freed he can fully recall all that transpired while collared and will almost certainly seek revenge.
 
 #### Story Seeds for Ahenobarbus and Nec
 
@@ -4952,11 +4966,11 @@ In 1220 there is one magus (location unknown) in the line of Tessa and two known
 >
 > Gifted members of the Branchidae have the following Virtues and Flaws, in addition to usual allocation of Virtues and Flaws. Developing these Virtues and Flaws is a part of Opening the Arts for Branchidae.
 >
-> **Major Supernatural Virtue:** Death Prophecy ([**ArM5**, page 41](<Ars Magica - Definitive Edition (Core Rules).md#supernatural-major>))
+> **Major Supernatural Virtue:** Death Prophecy ([**ArM5**, page 41](<Ars Magica 5e - Core Rules.md#supernatural-major>) / [Definitive Edition, page 67](<Ars Magica - Definitive Edition (Core Rules).md#supernatural-major>))
 >
 > **Minor Hermetic Virtue:** Branchidae Prophecy
 >
-> **Major Hermetic Flaw:** Weak Spontaneous Magic ([**ArM5**, page 61](<Ars Magica - Definitive Edition (Core Rules).md#weak-spontaneous-magic>))
+> **Major Hermetic Flaw:** Weak Spontaneous Magic ([**ArM5**, page 61](<Ars Magica 5e - Core Rules.md#weak-spontaneous-magic>) / [Definitive Edition, page 153](<Ars Magica - Definitive Edition (Core Rules).md#weak-spontaneous-magic>))
 >
 > #### Minor Hermetic Virtue: Branchidae Prophecy
 >
@@ -4980,7 +4994,7 @@ The last Wizard War fought at the covenant was in 1110, when Hector (House Merin
 >
 > #### The Oracle’s Vision
 >
-> Petitioning Apollo Didyma requires the Branchidae to first decide the subject of the prophecy. The subject can be an individual, a place, a bloodline (**ArM5**, page 93), or a nation. The Branchidae then prepares a draught of water from the Sacred Spring (which is at the covenant), into which he must transfer a pawn of vis (of any Art). Preparing the potion takes only the length of time required to transfer the pawn of vis: one day if performed in a laboratory ([**ArM5**, page 94](<Ars Magica - Definitive Edition (Core Rules).md#vis-transfer>)), perhaps quicker if the transfer is effected with ReVi spells. The prepared potion is consumed by the oracle, causing her to enter a trance, which lasts about an hour. Afterwards she recites the vision.
+> Petitioning Apollo Didyma requires the Branchidae to first decide the subject of the prophecy. The subject can be an individual, a place, a bloodline ([**ArM5**, page 93](<Ars Magica 5e - Core Rules.md#page-93>)), or a nation. The Branchidae then prepares a draught of water from the Sacred Spring (which is at the covenant), into which he must transfer a pawn of vis (of any Art). Preparing the potion takes only the length of time required to transfer the pawn of vis: one day if performed in a laboratory ([**ArM5**, page 94](<Ars Magica 5e - Core Rules.md#vis-transfer>) / [Definitive Edition, page 250](<Ars Magica - Definitive Edition (Core Rules).md#vis-transfer>)), perhaps quicker if the transfer is effected with ReVi spells. The prepared potion is consumed by the oracle, causing her to enter a trance, which lasts about an hour. Afterwards she recites the vision.
 >
 > - The oracle must have the Visions Supernatural Flaw, but she need not be Gifted.
 > - If the prophecy subject is an individual the Branchidae must also have an Arcane Connection to that subject.
@@ -5304,7 +5318,7 @@ When the caster places his hand on another character who has The Gift his hand f
 
 MuVi 40<br>
 R: Voice, D: Sun, T: Group<br>
-When Wizard’s Communion ([**ArM5**, page 160](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>)) is used to assist casting, the Wizard’s Communion effect must last for the whole casting time of the effected spell. Wizard’s Vigil is a version of Wizard’s Communion with Sun Duration for use with Ritual spells, as for rituals the casting time is 15 minutes per magnitude. For the purposes of calculating the effect Wizard’s Vigil is treated as a Wizard’s Communion two magnitudes lower. The version known by Alexander is therefore treated as a level 30 Wizard’s Communion. Some of the other magi know versions of a different level.
+When Wizard’s Communion ([**ArM5**, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>)) is used to assist casting, the Wizard’s Communion effect must last for the whole casting time of the effected spell. Wizard’s Vigil is a version of Wizard’s Communion with Sun Duration for use with Ritual spells, as for rituals the casting time is 15 minutes per magnitude. For the purposes of calculating the effect Wizard’s Vigil is treated as a Wizard’s Communion two magnitudes lower. The version known by Alexander is therefore treated as a level 30 Wizard’s Communion. Some of the other magi know versions of a different level.
 
 (Base 30, +2 Sun)
 
@@ -5334,7 +5348,7 @@ Pen: +0, 24/day<br>
 R: Touch, D: Sun, T: Individual<br>
 Transforms a stick into a writhing snake.
 
-The snake is Size –4, has a Soak of +2, and attacks with fangs (Init +3, Attack +11, Defense +10, Damage –7). The snake is venomous so any wound it causes may be poisoned; Ease Factor 6, Light Wound ([**ArM5**, page 180](<Ars Magica - Definitive Edition (Core Rules).md#ease-factor>)).
+The snake is Size –4, has a Soak of +2, and attacks with fangs (Init +3, Attack +11, Defense +10, Damage –7). The snake is venomous so any wound it causes may be poisoned; Ease Factor 6, Light Wound ([**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#ease-factors>) / [Definitive Edition, page 539](<Ars Magica - Definitive Edition (Core Rules).md#ease-factors>)).
 
 (Base 10, +1 Touch, +2 Sun; +5 24 uses per day)
 
@@ -5382,7 +5396,7 @@ Combat:
 - Grapple: Init +3, Attack +9, Defense +8, Damage n/a
 - Fangs: Init +3, Attack +9, Defense +8, Damage +1\*
 
-\* Mileta can inject venom into any fang wound she causes (Ease Factor 9, Incapacitating Wound; **ArM5**, page 180).
+\* Mileta can inject venom into any fang wound she causes (Ease Factor 9, Incapacitating Wound; [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#page-180>) / [Definitive Edition, page 406](<Ars Magica - Definitive Edition (Core Rules).md#disease-table>)).
 
 Soak: +4 (Sta + Bronze Cord)
 
@@ -5395,21 +5409,21 @@ Abilities: Artes Liberales 1 (logic), Awareness 4 (food), Brawl 4 (grapple), Con
 Powers:
 
 *Aura of Rightful Authority*, 0 Points, Init +5, Mentem:<br>
-As the Hermetic spell (**ArM5**, page 151). Greater Power (20 levels, –2 Might Cost, +4 Init)
+As the Hermetic spell ([**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Greater Power (20 levels, –2 Might Cost, +4 Init)
 
 *Awaken the Slumbering Corpse*, 0 Points, Init +2, Corpus:<br>
-As the Hermetic spell (**ArM5**, page 134), except Range: Touch, and Duration: Sun. Greater Power (25 levels, –3 Might Cost, +2 Init)
+As the Hermetic spell ([**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)), except Range: Touch, and Duration: Sun. Greater Power (25 levels, –3 Might Cost, +2 Init)
 
 *Human Shape*, 1 Point, Init +1, Corpus:<br>
 Mileta transforms into a tall, skeletal-thin, hairless woman; she retains her fangs. She is of both Corpus and Animal Form when so transformed. (R: Personal, D: Sun, T: Individual) Personal Power (20 levels, –1 Might Cost; *Realms of Power: Magic*, p 39)
 
-*Location* (both ways): Invested in familiar bond (**ArM5**, page 105).
+*Location* (both ways): Invested in familiar bond ([**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#familiars>) / [Definitive Edition, page 265](<Ars Magica - Definitive Edition (Core Rules).md#familiars>)).
 
 *Shadow Form*, 0 Points, Init +1, Animal:<br>
 If Mileta enters a shadow big enough to cover her, she can transform into a shadow. As shadow she has +4 to Stealth and cannot be damaged by physical attacks. (R: Personal, D: Concentration, T: Individual) Greater Power (30 levels, –3 Might Cost, +1 Init)
 
 *Vipers Gaze*, 1 Point, Init –3, Animal, Corpus:<br>
-As the Hermetic spell (**ArM5**, page 120), but also targets humans (Corpus). Lesser Power (15 levels, –2 Might Cost
+As the Hermetic spell ([**ArM5**, page 120](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)), but also targets humans (Corpus). Lesser Power (15 levels, –2 Might Cost
 
 Equipment: None; black hooded toga in human shape.
 
@@ -5519,7 +5533,7 @@ Talisman powers:
 PeCo 25<br>
 Pen: +0, Unlimited uses<br>
 R: Voice, D: Momentary, T: Individual<br>
-As the Hermetic spell (**ArM5**, page 133). Has no Penetration as the intention is to intimidate mundanes.
+As the Hermetic spell ([**ArM5**, page 133](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Has no Penetration as the intention is to intimidate mundanes.
 
 (Base 5, +2 Voice; +10 Unlimited)
 
@@ -5601,7 +5615,7 @@ Abilities: Area Lore: Miletos 3 (Didyma), Artes Liberales 2 (astronomy), Athleti
 
 Arts: Cr 8, In 9, Mu 7, Pe 8, Re 9; An 6, Aq 7, Au 7, Co 8, He 5, Ig 6, Im 5, Me 5, Te 8, Vi 9
 
-Twilight Scars: A booming voice; Voice Range at Loud is 60 paces, Firm is 30 paces. He cannot use Quiet, and No Voice is as normal (see **ArM5**, page 83).
+Twilight Scars: A booming voice; Voice Range at Loud is 60 paces, Firm is 30 paces. He cannot use Quiet, and No Voice is as normal (see [**ArM5**, page 83](<Ars Magica 5e - Core Rules.md#page-83>) / [Definitive Edition, page 216](<Ars Magica - Definitive Edition (Core Rules).md#non-ritual-spells>)).
 
 Casting Sigil: Heat. Herakles’ spell effects cause the ambient temperature to rise slightly (usually only about one degree, but more for high magnitude effects).
 
@@ -5791,7 +5805,7 @@ The caster does not need to be within the circle. Note the spell is powerful eno
 
 PeIg 5<br>
 R: Touch, D: Momentary, T: Individual<br>
-The target shivers like an unwanted baby left alone in a cold and frosty dell. The target loses a Fatigue level. Repeated casting of this spell can cause the character to eventually become unconscious; this usually takes 5 castings (see **ArM5**, page 178). Ariane has learned this spell to cast down an Intangible Tunnel.
+The target shivers like an unwanted baby left alone in a cold and frosty dell. The target loses a Fatigue level. Repeated casting of this spell can cause the character to eventually become unconscious; this usually takes 5 castings (see [**ArM5**, page 178](<Ars Magica 5e - Core Rules.md#page-178>) / [Definitive Edition, page 403](<Ars Magica - Definitive Edition (Core Rules).md#encumbrance>)). Ariane has learned this spell to cast down an Intangible Tunnel.
 
 (Base 4, +1 Touch)
 
@@ -5858,22 +5872,22 @@ Abilities: Area Lore: Constantinople 1 (alleys), Area Lore: Miletos 3 (alleys), 
 Powers:
 
 *Cat’s Leap*, 0 Points, Init +2, Animal:<br>
-Personal Range, Animal version of Gift of the Frog’s Legs ([**ArM5**, page 134](<Ars Magica - Definitive Edition (Core Rules).md#gift-of-the-frogs-legs>)). Personal Power (15 Levels, –2 Might Cost)
+Personal Range, Animal version of Gift of the Frog’s Legs ([**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#gift-of-the-frogs-legs>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#gift-of-the-frogs-legs>)). Personal Power (15 Levels, –2 Might Cost)
 
 *Eyes for Power*, 0 Points, Init +6, Vim:<br>
 Chloris can see vis (R: Personal, D: Constant, T: Vision). Personal Power x2 (20 Levels, –2 Might Cost, +4 Init)
 
 *Leap of Homecoming*, 1 Point: Init +0, Animal:<br>
-Animal version of the Hermetic spell ([**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#animal-an-animal>)). Personal Power x2 (35 Levels, –3 Might Cost)
+Animal version of the Hermetic spell ([**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#animal-an-animal>) / [Definitive Edition, page 208](<Ars Magica - Definitive Edition (Core Rules).md#animal-an-animal>)). Personal Power x2 (35 Levels, –3 Might Cost)
 
 *Mental Communication*:<br>
-(both ways) Invested in familiar bond (**ArM5**, page 105).
+(both ways) Invested in familiar bond ([**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#familiars>) / [Definitive Edition, page 265](<Ars Magica - Definitive Edition (Core Rules).md#familiars>)).
 
 *Prying Eyes*, 0 Point: Init +5, Imaginem:<br>
-As the Hermetic spell (**ArM5**, page 144). Lesser Power (5 Levels, –1 Might Cost, +3 Init)
+As the Hermetic spell ([**ArM5**, page 144](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Lesser Power (5 Levels, –1 Might Cost, +3 Init)
 
 *Whispers Through the Black Gate*, 1 Points: Init –2, Corpus:<br>
-As the Hermetic spell (**ArM5**, page 130). (15 Levels, –2 Might Cost)
+As the Hermetic spell ([**ArM5**, page 130](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). (15 Levels, –2 Might Cost)
 
 Equipment: Leather collar stamped with Ariane’s sigil and studded with tiny stones. The stones are fixed Arcane Connections to: three points on the Sacred Way (the covenant terminus, the Panormos junction, a point two miles south of Miletos), the Delphinion (in Miletos), the Lion Gate (in Miletos), and an alley-way near Xylinites (in Constantinople). There is room for another six studs.
 
@@ -6013,7 +6027,7 @@ These arrows are charged items, activated when the arrow is shot from a bow. A b
 
 #### William’s Crusade Armor
 
-William’s Talisman is an iron-wrought eagle welded to a steel breastplate. Only the iron eagle (small/metal) is actually enchanted, but as it is a part of armor, it benefits from the shape bonuses of armor (see **ArM5**, page 97). The talisman has been opened with 15 pawns of vis (8 slots used).
+William’s Talisman is an iron-wrought eagle welded to a steel breastplate. Only the iron eagle (small/metal) is actually enchanted, but as it is a part of armor, it benefits from the shape bonuses of armor (see [**ArM5**, page 97](<Ars Magica 5e - Core Rules.md#armor>) / [Definitive Edition, page 399](<Ars Magica - Definitive Edition (Core Rules).md#armor>)). The talisman has been opened with 15 pawns of vis (8 slots used).
 
 <!-- p. 82 --><a id="page-82"></a>
 
@@ -6046,7 +6060,7 @@ Wards against faerie creatures of Might 15 or less.
 ReCo 25<br>
 Pen: +0, 24/day<br>
 R: Touch, D: Diameter, T: Individual<br>
-As the Hermetic spell (**ArM5**, page 134), except with Diameter duration.
+As the Hermetic spell ([**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)), except with Diameter duration.
 
 (Base 10, +1 Touch, +1 Diameter; +5 24 uses)
 
@@ -6087,22 +6101,22 @@ Abilities: Area Lore: Constantinople 1 (from above), Area Lore: Normandy 3 (from
 Powers:
 
 *Location*:<br>
-(both ways) Invested in familiar bond (**ArM5**, page 105).
+(both ways) Invested in familiar bond ([**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#familiars>) / [Definitive Edition, page 265](<Ars Magica - Definitive Edition (Core Rules).md#familiars>)).
 
 *Mental Communication*:<br>
-(both ways) Invested in familiar bond (**ArM5**, page 105).
+(both ways) Invested in familiar bond ([**ArM5**, page 105](<Ars Magica 5e - Core Rules.md#familiars>) / [Definitive Edition, page 265](<Ars Magica - Definitive Edition (Core Rules).md#familiars>)).
 
 *Sailor’s Foretaste of the Morrow*: 3 points, Init +2, Auram:<br>
-As the Hermetic spell (**ArM5**, page 127). Lesser Power (20 Levels; –1 Might Cost)
+As the Hermetic spell ([**ArM5**, page 127](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Lesser Power (20 Levels; –1 Might Cost)
 
 *Shriek of the Impending Shafts*: 0 points, Init +4, Herbam:<br>
-As the Hermetic spell (**ArM5**, page 136). Personal Power (15 Levels; –2 Might Cost)
+As the Hermetic spell ([**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Personal Power (15 Levels; –2 Might Cost)
 
 *Sight of the True Form*: 0 points, Init +4, Corpus:<br>
-Equivalent to the Hermetic spell at level 15, but constant effect (**ArM5**, page 130). Personal Power\*2 (30 Levels; –3 Might Cost, +1 Init)
+Equivalent to the Hermetic spell at level 15, but constant effect ([**ArM5**, page 130](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Personal Power\*2 (30 Levels; –3 Might Cost, +1 Init)
 
 *The Cloudless Sky Returned*: 4 points, Init +1, Auram:<br>
-As the Hermetic spell (**ArM5**, page 128). Greater Power (45 Levels, –1 Might Cost)
+As the Hermetic spell ([**ArM5**, page 128](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). Greater Power (45 Levels, –1 Might Cost)
 
 Equipment: None.
 
@@ -6128,7 +6142,7 @@ Philip is one of two turb captains (the other is Sebasten, husband of the maga A
 
 As oracle, Ella is accorded respect by the other covenfolk, and she has no other duties at the covenant. On the other hand, Ella is hypersensitive to whispers that she freeloads on her role as oracle, and thus likes to talk up the importance of her oracle duties. A younger woman, Julia, also has visions and thus sometimes serves as oracle. Ella is jealous and wary of being usurped by Julia.
 
-Ella’s Greater Malediction is that via her oracle duties she has become addicted to consuming vis, and suffers Deprivation ([**ArM5**, page 180](<Ars Magica - Definitive Edition (Core Rules).md#greater-malediction>)) if she cannot consume vis. The check time is one month, and the lost Fatigue levels are Long-Term Fatigue levels that can only be regained after she has consumed a pawn of vis.
+Ella’s Greater Malediction is that via her oracle duties she has become addicted to consuming vis, and suffers Deprivation ([**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#greater-malediction>) / [Definitive Edition, page 132](<Ars Magica - Definitive Edition (Core Rules).md#greater-malediction>)) if she cannot consume vis. The check time is one month, and the lost Fatigue levels are Long-Term Fatigue levels that can only be regained after she has consumed a pawn of vis.
 
 #### Niketas Metropolitan of Miletos
 
@@ -6189,7 +6203,7 @@ Ariane’s blind maidens are Magarethe (who was Ariane’s servant at Constantin
 
 #### The Turb
 
-The turb consists of 18 fighters (The Standard Soldier; **ArM5**, page 22), and two leaders. Philip is one of the leaders (see Companions), The Grizzled Veteran ([**ArM5**, page 21](<Ars Magica - Definitive Edition (Core Rules).md#the-grizzled-veteran>)) is used for the other (Sebasten). There are also four Frankish mercenaries. Usually, two bands, each of four men, are based at the Miletos warehouses (one band on-duty, the other off-duty), with the remainder at the covenant. The warehouse fighters serve in Miletos for a week, before trading places with a covenant band. The Frankish mercenaries are treated like the other bands and take a turn at warehouse duty.
+The turb consists of 18 fighters (The Standard Soldier; [**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)), and two leaders. Philip is one of the leaders (see Companions), The Grizzled Veteran ([**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#the-grizzled-veteran>) / [Definitive Edition, page 31](<Ars Magica - Definitive Edition (Core Rules).md#the-grizzled-veteran>)) is used for the other (Sebasten). There are also four Frankish mercenaries. Usually, two bands, each of four men, are based at the Miletos warehouses (one band on-duty, the other off-duty), with the remainder at the covenant. The warehouse fighters serve in Miletos for a week, before trading places with a covenant band. The Frankish mercenaries are treated like the other bands and take a turn at warehouse duty.
 
 #### William’s Frankish Mercenaries
 
@@ -6249,7 +6263,7 @@ This bronze helm is an invested item made by the magus Nicodemus for his goblin 
 InCo(Me) 20<br>
 Pen +0, 24/day<br>
 R: Eye, D: Concentration, T: Individual<br>
-By looking into the eyes of a corpse the wearer can speak to the deceased’s spirit (similar to Whispers Through the Black Gate; **ArM5**, page 130).
+By looking into the eyes of a corpse the wearer can speak to the deceased’s spirit (similar to Whispers Through the Black Gate; [**ArM5**, page 130](<Ars Magica 5e - Core Rules.md#page-130>) / [Definitive Edition, page 333](<Ars Magica - Definitive Edition (Core Rules).md#intellego-corpus-guidelines>)).
 
 (Base 5, +1 Eye, +1 Concentration, free requisite; + 5 24 uses)
 
@@ -6258,7 +6272,7 @@ By looking into the eyes of a corpse the wearer can speak to the deceased’s sp
 InHe 20<br>
 Pen +0, 24/day<br>
 R: Touch, D: Diameter, T: Hearing<br>
-As the Hermetic spell (**ArM5**, page 136).
+As the Hermetic spell ([**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)).
 
 (Base 2, +1 Touch, +1 Diameter, +3 Hearing; +5 24 uses)
 
@@ -6699,7 +6713,7 @@ The sphinx knows the direction and distance to her quarry. (Lesser Power; 25 spe
 (Base 3, +4 Arcane, +1 Concentration; +5 one intricacy points to reduce Might Cost)
 
 *Shriek of the Impending Shafts*, 0 points, Init –4, Herbam:<br>
-As per the Hermetic spell (**ArM5**, page 136). (Personal Power; 25 spell levels)
+As per the Hermetic spell ([**ArM5**, page 136](<Ars Magica 5e - Core Rules.md#hermetic>) / [Definitive Edition, page 64](<Ars Magica - Definitive Edition (Core Rules).md#hermetic>)). (Personal Power; 25 spell levels)
 
 (Base 2, +2 Sun, +3 Hearing; +10 two intricacy points to reduce Might Cost)
 
@@ -6707,7 +6721,7 @@ Equipment: None.
 
 Vis: 4 pawns of Auram in wings.
 
-Appearance: The sphinx has a lion’s body from which grows the upper torso and head of a woman (like a feline centaur), and she has the wings of an eagle. The sphinx hunts lone travelers on the Sacred Way, but avoids groups. Her favored tactic is to swoop onto her prey, grab him (successful grapple), gain altitude, and then drop him from a height. Each round, carrying a character, she gains 20 feet in altitude, and a falling character takes +1 Damage per two feet he falls (see **ArM5**, page 181).
+Appearance: The sphinx has a lion’s body from which grows the upper torso and head of a woman (like a feline centaur), and she has the wings of an eagle. The sphinx hunts lone travelers on the Sacred Way, but avoids groups. Her favored tactic is to swoop onto her prey, grab him (successful grapple), gain altitude, and then drop him from a height. Each round, carrying a character, she gains 20 feet in altitude, and a falling character takes +1 Damage per two feet he falls (see [**ArM5**, page 181](<Ars Magica 5e - Core Rules.md#page-181>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#injuries>)).
 
 The sphinx’s Sovereign Ward means that she cannot harm a character who solves her riddle, and she must offer a riddle if a character requests one.
 
@@ -6817,10 +6831,10 @@ Abilities: Area Lore: Constantinople 1 (churches), Area Lore: Miletos 5 (churche
 Powers:
 
 *Commanding Aura*:<br>
-Equivalent to the Hermetic spell Aura of Rightful Authority ([**ArM5**, page 151](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>)), but with Voice Range, with no cost and no Penetration. Commanding Aura also gives Niketas a Magic Resistance of 10 and a Soak bonus of +2.
+Equivalent to the Hermetic spell Aura of Rightful Authority ([**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#aura-of-rightful-authority>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>)), but with Voice Range, with no cost and no Penetration. Commanding Aura also gives Niketas a Magic Resistance of 10 and a Soak bonus of +2.
 
 *Saint Nikephoros’ Journey*, 3 Faith points, Init +2, Corpus:<br>
-Equivalent to the Hermetic spell Leap of Homecoming ([**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#the-leap-of-homecoming>)).
+Equivalent to the Hermetic spell Leap of Homecoming ([**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#the-leap-of-homecoming>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#the-leap-of-homecoming>)).
 
 Equipment: Relic of Saint Nikephoros (ring), crosier (crooked staff), pallium (scarf), clerical robes.
 
@@ -6893,7 +6907,7 @@ Agamenoth can duplicate any named Hermetic Creo, Muto, or Rego Terram non-ritual
 Agamenoth can move through earth (or stone) without penalty.
 
 *Obsession*, 1 point, Init –5, Vim:<br>
-Whenever a character sins in his presence, Agamenoth can infect the character with the Personality Trait: Fury +1; see Realms of Power: Infernal [page 31](#page-31). Whenever a botch is rolled for a character with this trait, roll an additional number of botch die equal to the value of the Personality Trait. If these die botch, the character enters a furious rage (see Fury, **ArM5** page 54).
+Whenever a character sins in his presence, Agamenoth can infect the character with the Personality Trait: Fury +1; see Realms of Power: Infernal [page 31](#page-31). Whenever a botch is rolled for a character with this trait, roll an additional number of botch die equal to the value of the Personality Trait. If these die botch, the character enters a furious rage (see Fury, [**ArM5** page 54](<Ars Magica 5e - Core Rules.md#fury>) / [Definitive Edition, page 131](<Ars Magica - Definitive Edition (Core Rules).md#fury>)).
 
 *Recalcitrance*, 0 points, Init, Constant:<br>
 for any Hermetic Rego effect, including wards (and equivalent supernatural powers of any realm), Agamenoth is treated as if his Might is 60.
@@ -7045,7 +7059,7 @@ The Dredge is used at Miletos to dredge the Lion Harbor, which otherwise fills w
 ReTe 15<br>
 Pen: +0, 24/day<br>
 R: Touch, D: Concentration, T: Individual<br>
-These handles are activated when clamped to the side of a heavy object, and allow the user to easily move the object (as if he had Str + 5; similar to The Unseen Porter, [**ArM5**, page 156](<Ars Magica - Definitive Edition (Core Rules).md#the-unseen-porter>)) These assist moving loads at the Miletos warehouses.
+These handles are activated when clamped to the side of a heavy object, and allow the user to easily move the object (as if he had Str + 5; similar to The Unseen Porter, [**ArM5**, page 156](<Ars Magica 5e - Core Rules.md#the-unseen-porter>) / [Definitive Edition, page 363](<Ars Magica - Definitive Edition (Core Rules).md#the-unseen-porter>)) These assist moving loads at the Miletos warehouses.
 
 (Base 3, +1 Touch, +1 Concentration; +5 item maintains concentration, +5 24 uses per day)
 
@@ -7056,9 +7070,9 @@ Pen: +0, Unlimited<br>
 R: Touch, D: Concentration, T: Individual<br>
 An active Defender Sword allows the wielder to automatically “parry” incoming blows from metal weapons. The wielder must be aware of the incoming attack, so he can still be stabbed in the back. However, in normal melee he can automatically “parry” any number of blows in a round.
 
-The wielder must maintain concentration to use the item, but maintaining his awareness of incoming melee blows does not require a Concentration roll (as that is how the item is designed to be used). On the other hand, if the wielder attempts to do something else in the round he must make a Concentration roll (see **ArM5**, page 82). Maintaining concentration while attacking in the same round requires a Concentration roll against an Ease Factor of 15.
+The wielder must maintain concentration to use the item, but maintaining his awareness of incoming melee blows does not require a Concentration roll (as that is how the item is designed to be used). On the other hand, if the wielder attempts to do something else in the round he must make a Concentration roll (see [**ArM5**, page 82](<Ars Magica 5e - Core Rules.md#no-hands>) / [Definitive Edition, page 139](<Ars Magica - Definitive Edition (Core Rules).md#no-hands>)). Maintaining concentration while attacking in the same round requires a Concentration roll against an Ease Factor of 15.
 
-The Didyma turb often fight in pairs, and one grog uses a Defender Sword to defend his partner (see **ArM5**, page 173). The defended grog can thus freely attack, while the defender “parries” all the blows aimed at the pair.
+The Didyma turb often fight in pairs, and one grog uses a Defender Sword to defend his partner (see [**ArM5**, page 173](<Ars Magica 5e - Core Rules.md#grogs>) / [Definitive Edition, page 26](<Ars Magica - Definitive Edition (Core Rules).md#grogs>)). The defended grog can thus freely attack, while the defender “parries” all the blows aimed at the pair.
 
 The covenant has ten of these swords. Five are usually carried by the warehouse garrison, while the others are kept at the covenant.
 
@@ -7522,7 +7536,7 @@ Agamenoth is unlikely to be able to penetrate the covenant’s Aegis with his po
 
 Identifying and locating Agamenoth is difficult as he lives underground, and has little reason to surface, so the player characters will have to be very cunning to hunt him down or to even realize that he is present at all. The first hint may be the stench of sulfur among the ruined buildings which should be recognized as an infernal presence, but this may be misidentified as a casting sigil (unless investigated further with InVi magic).
 
-His many centuries slumbering mean that Agamenoth is not as well known as his rank of demon prince suggests. However, any character with an Infernal Lore Ability Score can check against an Ease Factor of 12 on Agamenoth’s Reputation (see [**ArM5**, page 19](<Ars Magica - Definitive Edition (Core Rules).md#reputation-ease-factors>)). Mileta (Alexander’s familiar, herself once a demon) recognizes the stench of Agamenoth in the wreckage of the earthquakes, but is reluctant to reveal this directly, for fear of provoking questions about her origins. However, Mileta might suggest that Apollo is petitioned for information. If he meets her, Agamenoth likewise recognizes Mileta’s demonic past, and he has no compunction against using this knowledge to cause trouble for her. Ancient church records in Miletos also contain references to Agamenoth’s presence.
+His many centuries slumbering mean that Agamenoth is not as well known as his rank of demon prince suggests. However, any character with an Infernal Lore Ability Score can check against an Ease Factor of 12 on Agamenoth’s Reputation (see [**ArM5**, page 19](<Ars Magica 5e - Core Rules.md#reputation-ease-factor>)). Mileta (Alexander’s familiar, herself once a demon) recognizes the stench of Agamenoth in the wreckage of the earthquakes, but is reluctant to reveal this directly, for fear of provoking questions about her origins. However, Mileta might suggest that Apollo is petitioned for information. If he meets her, Agamenoth likewise recognizes Mileta’s demonic past, and he has no compunction against using this knowledge to cause trouble for her. Ancient church records in Miletos also contain references to Agamenoth’s presence.
 
 #### Didyma as a Background Covenant
 
@@ -7850,7 +7864,7 @@ Lugh’s talisman is a slender staff of rowan wood that has developed a lustrous
 ReHe 13<br>
 Pen +0, Unlimited<br>
 R: Personal, D: Momentary, T: Individual<br>
-The staff draws a geometrically-perfect standard-sized circle in the ground without the need for the magus to guide the staff, particularly useful when concentrating on other spells or preparing to cast a Circle spell. Note that a magus must still trace the circle by hand to actually cast a Ring or Circle spell (**ArM5**, page 112).
+The staff draws a geometrically-perfect standard-sized circle in the ground without the need for the magus to guide the staff, particularly useful when concentrating on other spells or preparing to cast a Circle spell. Note that a magus must still trace the circle by hand to actually cast a Ring or Circle spell ([**ArM5**, page 112](<Ars Magica 5e - Core Rules.md#no-hands>) / [Definitive Edition, page 139](<Ars Magica - Definitive Edition (Core Rules).md#no-hands>)).
 
 (Effect: Base 3; Modifications: +10 Unlimited Use)
 
@@ -7859,7 +7873,7 @@ The staff draws a geometrically-perfect standard-sized circle in the ground with
 ReCo 40<br>
 Pen +20, Unlimited<br>
 R: Voice, D: Concentration, T: Individual<br>
-As per the spell in **ArM5**, page 134.
+As per the spell in [**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Effect: Base 4, +2 Voice, +1 Concentration; Modifications: +5 Device maintains concentration, +10 Unlimited Use, +10 for +20 penetration)
 
@@ -7868,7 +7882,7 @@ As per the spell in **ArM5**, page 134.
 PeCo 40<br>
 Pen +20, Unlimited<br>
 R: Voice, D: Momentary, T: Individual<br>
-As per the spell in **ArM5**, page 133.
+As per the spell in [**ArM5**, page 133](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Effect: Base 10 +2 Voice; Modifications: +10 Unlimited Use, +10 for +20 penetration)
 
@@ -7877,7 +7891,7 @@ As per the spell in **ArM5**, page 133.
 InCo(Me) 25<br>
 Pen +0, Unlimited<br>
 R: Touch, D: Concentration, T: Individual<br>
-As per the spell in **ArM5**, page 130.
+As per the spell in [**ArM5**, page 130](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>).
 
 (Effect: Base 5, +1 Touch, +1 Concentration; Modifications: +10 Unlimited Use)
 
@@ -8288,7 +8302,7 @@ Spells Known:
 
 PeVi 10<br>
 R: Voice, D: Momentary, T: Individual<br>
-As per Demon’s Eternal Oblivion, described in [**ArM5**, page 160](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>), but for magical spirits.
+As per Demon’s Eternal Oblivion, described in [**ArM5**, page 160](<Ars Magica 5e - Core Rules.md#demons-eternal-oblivion>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>), but for magical spirits.
 
 (Base, +2 Voice)
 
@@ -8457,12 +8471,12 @@ Spells Known:
 >
 > | Effect | Level | Details |
 > | --- | --- | --- |
-> | Aura of Rightful Authority | ReM20 | [**ArM5**, page 151](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>) |
-> | Strings of the Unwilling Marionette | ReCo 25 | [**ArM5**, page 135](<Ars Magica - Definitive Edition (Core Rules).md#strings-of-the-unwilling-marionette>) |
-> | Calm the Motion of the Heart | PeMe15 | [**ArM5**, page 150](<Ars Magica - Definitive Edition (Core Rules).md#calm-the-motion-of-the-heart>) |
-> | Sense the Lingering Magic | InVi30 | [**ArM5**, page 158](<Ars Magica - Definitive Edition (Core Rules).md#sense-of-the-lingering-magic>) |
-> | Piercing the Faerie Veil | InVi20 | [**ArM5**, page 158](<Ars Magica - Definitive Edition (Core Rules).md#piercing-the-faerie-veil>) |
-> | Haunt of the Living Ghost | CrIm35 | [**ArM5**, page 144](<Ars Magica - Definitive Edition (Core Rules).md#haunt-of-the-living-ghost>) |
+> | Aura of Rightful Authority | ReM20 | [**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#aura-of-rightful-authority>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>) |
+> | Strings of the Unwilling Marionette | ReCo 25 | [**ArM5**, page 135](<Ars Magica 5e - Core Rules.md#strings-of-the-unwilling-marionette>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#strings-of-the-unwilling-marionette>) |
+> | Calm the Motion of the Heart | PeMe15 | [**ArM5**, page 150](<Ars Magica 5e - Core Rules.md#calm-the-motion-of-the-heart>) / [Definitive Edition, page 356](<Ars Magica - Definitive Edition (Core Rules).md#calm-the-motion-of-the-heart>) |
+> | Sense the Lingering Magic | InVi30 | [**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#sense-of-the-lingering-magic>) / [Definitive Edition, page 367](<Ars Magica - Definitive Edition (Core Rules).md#sense-of-the-lingering-magic>) |
+> | Piercing the Faerie Veil | InVi20 | [**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#piercing-the-faerie-veil>) / [Definitive Edition, page 367](<Ars Magica - Definitive Edition (Core Rules).md#piercing-the-faerie-veil>) |
+> | Haunt of the Living Ghost | CrIm35 | [**ArM5**, page 144](<Ars Magica 5e - Core Rules.md#haunt-of-the-living-ghost>) / [Definitive Edition, page 348](<Ars Magica - Definitive Edition (Core Rules).md#haunt-of-the-living-ghost>) |
 
 #### Bran in Gai Móir
 
@@ -8537,7 +8551,7 @@ Although a capable scribe, the 39-year old Maghnus is slovenly by nature and thi
 #### New Flaw: Poor Living Conditions
 
 *Minor, General*<br>
-Either because of this character’s own poor living conditions or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character’s base Living Conditions Modifier as per **ArM5**, page 170.
+Either because of this character’s own poor living conditions or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character’s base Living Conditions Modifier as per [**ArM5**, page 170](<Ars Magica 5e - Core Rules.md#living-conditions>).
 
 In the case of the Longmist grogs, their poor living conditions arises from days spent away from the covenant, living off the land and exposed to the elements.
 
@@ -8625,7 +8639,7 @@ The covenant also employs four laborers and four teamsters who are responsible f
 
 The covenant has a small turb of six grogs, captained by Bran in Gai Móir. For the most part, the grogs spend their days on the toll-bridge that forms an important part of the covenant’s income, escorting supply runs to market, and occasionally standing guard at the covenant itself. There is rarely any bother on the mundane front, but they are called upon now and then to dissuade hungry giants who wander into Longmist’s shrouded valley.
 
-At the start of 1220, the grogs fight as a trained group ([**ArM5**, page 173](<Ars Magica - Definitive Edition (Core Rules).md#trained-groups>)) and their preferred weapons are spear and sparra.
+At the start of 1220, the grogs fight as a trained group ([**ArM5**, page 173](<Ars Magica 5e - Core Rules.md#trained-group>) / [Definitive Edition, page 396](<Ars Magica - Definitive Edition (Core Rules).md#trained-group>)) and their preferred weapons are spear and sparra.
 
 ## Covenant Organization
 
@@ -9614,13 +9628,13 @@ Conchobor Crosach, *Libro Scientia*, Vim Tractatus, Quality 11. Looks at Vim’s
 
 Casting tablets worth 32 Build Points for the following spells are available in the library. There were more, but many have been lost or damaged through the years.
 
-Hannewalt of Tytalus, *Aegis of the Hearth*, ReVi 60, [**ArM5**, page 161](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>). (12BP)
+Hannewalt of Tytalus, *Aegis of the Hearth*, ReVi 60, [**ArM5**, page 161](<Ars Magica 5e - Core Rules.md#aegis-of-the-hearth>) / [Definitive Edition, page 173](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>). (12BP)
 
-Hannewalt of Tytalus, *Watching Ward*, ReVi 60, [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>). (12BP)
+Hannewalt of Tytalus, *Watching Ward*, ReVi 60, [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#watching-ward>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>). (12BP)
 
 Each of the above casting tablets have a spell level of 30 plus a matching Penetration.
 
-Hannewalt of Tytalus, *Disenchant*, PeVi 40, **ArM5**, page 160. (8BP)
+Hannewalt of Tytalus, *Disenchant*, PeVi 40, [**ArM5**, page 160](<Ars Magica 5e - Core Rules.md#tytalus>) / [Definitive Edition, page 42](<Ars Magica - Definitive Edition (Core Rules).md#tytalus>). (8BP)
 
 #### Laboratory Texts
 
@@ -9636,27 +9650,27 @@ Hannewalt of Tytalus, *Disenchant*, PeVi 40, **ArM5**, page 160. (8BP)
 
 *Piaras’ Longevity Ritual*, CrCo 40 (8BP)
 
-*Wizard’s Communion*, MuVi 10, 15, 20, 30, and 40, [**ArM5**, page 160](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>) (23BP)
+*Wizard’s Communion*, MuVi 10, 15, 20, 30, and 40, [**ArM5**, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>) (23BP)
 
-*Demon’s Eternal Oblivion* and similar spells against Magic and Faerie beasts, PeVi 15, [**ArM5**, page 160](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>) (9BP)
+*Demon’s Eternal Oblivion* and similar spells against Magic and Faerie beasts, PeVi 15, [**ArM5**, page 160](<Ars Magica 5e - Core Rules.md#demons-eternal-oblivion>) / [Definitive Edition, page 370](<Ars Magica - Definitive Edition (Core Rules).md#demons-eternal-oblivion>) (9BP)
 
-*Circular Ward against Demons*, ReVi 10, 20, and 25, [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>) (11BP)
+*Circular Ward against Demons*, ReVi 10, 20, and 25, [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#circular-ward-against-demons>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#circular-ward-against-demons>) (11BP)
 
-*Opening the Intangible Tunnel*, ReVi 30 and 35, [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#opening-the-intangible-tunnel>) (13BP)
+*Opening the Intangible Tunnel*, ReVi 30 and 35, [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#opening-the-intangible-tunnel>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#opening-the-intangible-tunnel>) (13BP)
 
-*Unseen Arm and Unseen Porter*, ReTe Various, [**ArM5**, pages 155](<Ars Magica - Definitive Edition (Core Rules).md#unseen-arm>) & 156 (3BP)
+*Unseen Arm and Unseen Porter*, ReTe Various, [**ArM5**, pages 155](<Ars Magica 5e - Core Rules.md#unseen-arm>) / [Definitive Edition, page 362](<Ars Magica - Definitive Edition (Core Rules).md#unseen-arm>) & 156 (3BP)
 
-*Prying Eyes*, *Summoning the Distant Image*, *Veil of Invisibility*, and *Wizard’s Sidestep*, Various Imaginem, [**ArM5**, pages 144](<Ars Magica - Definitive Edition (Core Rules).md#summoning-the-distant-image>) to 147 (12BP)
+*Prying Eyes*, *Summoning the Distant Image*, *Veil of Invisibility*, and *Wizard’s Sidestep*, Various Imaginem, [**ArM5**, pages 144](<Ars Magica 5e - Core Rules.md#summoning-the-distant-image>) / [Definitive Edition, page 349](<Ars Magica - Definitive Edition (Core Rules).md#summoning-the-distant-image>) to 147 (12BP)
 
-*Notes of a Delightful Sound*, *Disguise of the Transformed Image*, and *Disguise of the New Visage*, Various, [**ArM5**, pages 131](<Ars Magica - Definitive Edition (Core Rules).md#disguise-of-the-new-visage>), 145, & 146 (8BP)
+*Notes of a Delightful Sound*, *Disguise of the Transformed Image*, and *Disguise of the New Visage*, Various, [**ArM5**, pages 131](<Ars Magica 5e - Core Rules.md#disguise-of-the-new-visage>) / [Definitive Edition, page 334](<Ars Magica - Definitive Edition (Core Rules).md#disguise-of-the-new-visage>), 145, & 146 (8BP)
 
-*Bind Wound*, *Chirurgeon’s Healing Touch*, and *Incantation of the Body Made Whole*, CrCo Various, [**ArM5**, page 129](<Ars Magica - Definitive Edition (Core Rules).md#incantation-of-the-body-made-whole>) (14BP)
+*Bind Wound*, *Chirurgeon’s Healing Touch*, and *Incantation of the Body Made Whole*, CrCo Various, [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#incantation-of-the-body-made-whole>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#incantation-of-the-body-made-whole>) (14BP)
 
-*Sense of Faerie Power*, *Sense of Magical Power*, *Piercing the Faerie Veil*, and *Piercing the Magical Veil*, InVi Various, [**ArM5**, pages 157](<Ars Magica - Definitive Edition (Core Rules).md#sense-of-magical-power>) & 158 (10BP)
+*Sense of Faerie Power*, *Sense of Magical Power*, *Piercing the Faerie Veil*, and *Piercing the Magical Veil*, InVi Various, [**ArM5**, pages 157](<Ars Magica 5e - Core Rules.md#sense-of-magical-power>) / [Definitive Edition, page 366](<Ars Magica - Definitive Edition (Core Rules).md#sense-of-magical-power>) & 158 (10BP)
 
-*Watching Ward*, ReVi 30, [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>) (6BP)
+*Watching Ward*, ReVi 30, [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#watching-ward>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#watching-ward>) (6BP)
 
-*Aegis of the Hearth*, ReVi 30, [**ArM5**, page 161](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>) (6BP)
+*Aegis of the Hearth*, ReVi 30, [**ArM5**, page 161](<Ars Magica 5e - Core Rules.md#aegis-of-the-hearth>) / [Definitive Edition, page 173](<Ars Magica - Definitive Edition (Core Rules).md#aegis-of-the-hearth>) (6BP)
 
 *Divine the Heavens’ Aspect* device effect, InVi 29 (5BP)
 
@@ -9674,9 +9688,9 @@ All effects required to create The Bronze Bull Verditius automaton, Various, *Ho
 
 *Tie The Threads That Bind* (Bronze Bull), ReVi 32, *Houses of Hermes: Mystery Cults*, [page 130](#page-130) (7BP)
 
-*Shroud Magic*, MuVi 20, [**ArM5**, page 159](<Ars Magica - Definitive Edition (Core Rules).md#shroud-magic>) (4BP)
+*Shroud Magic*, MuVi 20, [**ArM5**, page 159](<Ars Magica 5e - Core Rules.md#shroud-magic>) / [Definitive Edition, page 368](<Ars Magica - Definitive Edition (Core Rules).md#shroud-magic>) (4BP)
 
-*Maintaining the Demanding Spell*, ReV 25, [**ArM5**, page 162](<Ars Magica - Definitive Edition (Core Rules).md#maintaining-the-demanding-spell>) (5BP)
+*Maintaining the Demanding Spell*, ReV 25, [**ArM5**, page 162](<Ars Magica 5e - Core Rules.md#maintaining-the-demanding-spell>) / [Definitive Edition, page 372](<Ars Magica - Definitive Edition (Core Rules).md#maintaining-the-demanding-spell>) (5BP)
 
 *Balance of the Honest Merchant*, InTe 8, see nearby box, (2BP)
 
@@ -9684,7 +9698,7 @@ All effects required to create The Bronze Bull Verditius automaton, Various, *Ho
 
 *Cearnach’s Distant Twin*, various, see nearby box (31BP)
 
-*Endurance of the Berserkers*, ReCo 15, [**ArM5**, page 134](<Ars Magica - Definitive Edition (Core Rules).md#endurance-of-the-berserkers>), (3BP)
+*Endurance of the Berserkers*, ReCo 15, [**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#endurance-of-the-berserkers>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#endurance-of-the-berserkers>), (3BP)
 
 ### Vis Stocks
 
@@ -9779,7 +9793,7 @@ Each pawn of vis scattered on the ground, whether that is earth, stone, sand, or
 > MuIm 45<br>
 > Pen +0, Unlimited<br>
 > R: Arcane Connection, D: Concentration, T: Individual<br>
-> This effect changes all species emitted by the target figure into those normally emitted by the device’s user. A Finesse roll is required, as described in **ArM5**, page 143 but the device creator gains a +3 to this roll.
+> This effect changes all species emitted by the target figure into those normally emitted by the device’s user. A Finesse roll is required, as described in [**ArM5**, page 143](<Ars Magica 5e - Core Rules.md#finesse>) / [Definitive Edition, page 165](<Ars Magica - Definitive Edition (Core Rules).md#finesse>) but the device creator gains a +3 to this roll.
 >
 > Cearnach’s original version of this effect included one experimental side-effect; the image is mirrored such that a scar on the left hand appears on the right. The movement of the image is unaffected, however.
 >
@@ -9818,7 +9832,7 @@ Each dose of the balm contains four pawns of Creo vis, costing 4 Build Points. I
 
 #### The Ax of Cú Roí mac Dáire
 
-This ax, seemingly too large for a normal man to wield, is a faerie weapon. Supposedly once belonging to the Ulaidh king Cú Roí mac Dáire, this great ax is imbued with the strength and skill to use it. The weapon statistics are as the regular Pole Ax in **ArM5**, page 176, but any man, woman, or child with a Brave Personality Trait of +3 or more benefits from the Heroic Combat pretense and may use the Ax one-handed as though they had the appropriate Ability score of 10. The ax replaces the normal +1 Strength requirement with the +3 Brave Personality Trait requirement. This effect has a Penetration of +10, which must penetrate the wielder’s Magic Resistance and not that possessed by potential targets.
+This ax, seemingly too large for a normal man to wield, is a faerie weapon. Supposedly once belonging to the Ulaidh king Cú Roí mac Dáire, this great ax is imbued with the strength and skill to use it. The weapon statistics are as the regular Pole Ax in [**ArM5**, page 176](<Ars Magica 5e - Core Rules.md#page-176>) / [Definitive Edition, page 400](<Ars Magica - Definitive Edition (Core Rules).md#armor-table>), but any man, woman, or child with a Brave Personality Trait of +3 or more benefits from the Heroic Combat pretense and may use the Ax one-handed as though they had the appropriate Ability score of 10. The ax replaces the normal +1 Strength requirement with the +3 Brave Personality Trait requirement. This effect has a Penetration of +10, which must penetrate the wielder’s Magic Resistance and not that possessed by potential targets.
 
 The ax contains ten pawns of Mentem accrued faerie vis and the item costs 10 Build Points.
 
@@ -9927,7 +9941,7 @@ Some seasons, he finds a piece of worked iron of extreme purity that gives off i
 CrIg 14<br>
 Pen +0, constant effect<br>
 R: Personal, D: Sun, T: Ind<br>
-As per the Heat of the Searing Forge spell in [**ArM5**, page 140](<Ars Magica - Definitive Edition (Core Rules).md#heat-of-the-searing-forge>).
+As per the Heat of the Searing Forge spell in [**ArM5**, page 140](<Ars Magica 5e - Core Rules.md#heat-of-the-searing-forge>) / [Definitive Edition, page 344](<Ars Magica - Definitive Edition (Core Rules).md#heat-of-the-searing-forge>).
 
 (Effect: Base 4, +2 Sun; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
 
@@ -9939,7 +9953,7 @@ As per the Heat of the Searing Forge spell in [**ArM5**, page 140](<Ars Magica -
 
 *Six pawns of Creo each year*
 
-In a ritual described in the Lebor Feasa Runda, on the night of Beltane, the covenant convenes on land outside the Aegis and lights a large fire built from staves of willow, hazel, alder, birch, rowan, yew, elm, oak, and ash. An individual passed three times through the smoke of the needfire benefits from an effect similar to Cheating The Reaper with a Penetration of +10, [**ArM5**, page 129](<Ars Magica - Definitive Edition (Core Rules).md#cheating-the-reaper>). This applies to any living being, whether human, animal, Fir Bolg, or otherwise.
+In a ritual described in the Lebor Feasa Runda, on the night of Beltane, the covenant convenes on land outside the Aegis and lights a large fire built from staves of willow, hazel, alder, birch, rowan, yew, elm, oak, and ash. An individual passed three times through the smoke of the needfire benefits from an effect similar to Cheating The Reaper with a Penetration of +10, [**ArM5**, page 129](<Ars Magica 5e - Core Rules.md#cheating-the-reaper>) / [Definitive Edition, page 332](<Ars Magica - Definitive Edition (Core Rules).md#cheating-the-reaper>). This applies to any living being, whether human, animal, Fir Bolg, or otherwise.
 
 This is pre-Hermetic magic and once the manner of making the needfire is known, it can be lit year after year, but only within a Magical aura, and the Aegis of the Hearth suppresses the effect. Where the restorative effects of the needfire are not called upon, the charred remains of the staves contain Creo vis.
 
@@ -9970,7 +9984,7 @@ The source of these stones falls outside of lands recognized by the Tribunal and
 ReTe 14<br>
 Pen +0, constant effect<br>
 R: Personal, D: Sun, T: Ind<br>
-Each stone has a power similar to the Unseen Porter spell in [**ArM5**, page 154](<Ars Magica - Definitive Edition (Core Rules).md#similar-spells>), that affects the stone itself. The stones are seemingly not impeded by objects placed above it, and they have the power to hold things aloft. It takes a strong man to move one of the stones but once moved it remains where it was put, without any visible means of support.
+Each stone has a power similar to the Unseen Porter spell in [**ArM5**, page 154](<Ars Magica 5e - Core Rules.md#similar-spells>) / [Definitive Edition, page 260](<Ars Magica - Definitive Edition (Core Rules).md#similar-spells>), that affects the stone itself. The stones are seemingly not impeded by objects placed above it, and they have the power to hold things aloft. It takes a strong man to move one of the stones but once moved it remains where it was put, without any visible means of support.
 
 (Effect: Base 3, +2 Sun, +1 Stone; Modifications: +1 for 2/day, +3 triggered at sunrise/set)
 
@@ -10006,7 +10020,7 @@ The hunt is now rarely conducted. It is also conducted outside lands recognized 
 
 30 Build Points have been spent on wealth, and this equates to 300 Mythic Pounds in monetary value. Very little of this is in the form of actual money as whatever is gained through the income sources is soon spent on running the covenant. Instead, there are large tapestries that once kept the walls insulated, and there is fine linen, silk, velvet, and fur bedding, glass for the windows, fine silver plates and cutlery. All these things hark back to the days when the covenant would entertain princes and receive gifts in exchange for their hospitality. None of this is used. It has all been stored away as the finery and comfort is considered a distraction.
 
-Longmist has a +1 Living Standards Modifier as appropriate for a Winter covenant (**ArM5**, page 170). However, the covenant’s vast store of wealth can be turned into an additional +1 if it is used as intended. Doing so requires a magus to spend a season dedicated to overseeing the installation of the glass back into the windows, the hanging of the tapestries, and so on, ensuring that the other trappings of wealth are used.
+Longmist has a +1 Living Standards Modifier as appropriate for a Winter covenant ([**ArM5**, page 170](<Ars Magica 5e - Core Rules.md#covenants>) / [Definitive Edition, page 18](<Ars Magica - Definitive Edition (Core Rules).md#covenants>)). However, the covenant’s vast store of wealth can be turned into an additional +1 if it is used as intended. Doing so requires a magus to spend a season dedicated to overseeing the installation of the glass back into the windows, the hanging of the tapestries, and so on, ensuring that the other trappings of wealth are used.
 
 <!-- p. 131 --><a id="page-131"></a>
 
@@ -10374,7 +10388,7 @@ This spell is found in Houses of Hermes: True Lineages, [page 140](#page-140). I
 
 MuVi Gen<br>
 R: Voice, D: Sun, T: Group<br>
-This spell is a Wizard’s Communion as found in [ArM5, page 160](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>), but with a longer duration. In accordance with the errata for Muto Vim such spells need a duration at least as long as the casting of the target spell. As Rituals as minimum are level 20 and take 15 minutes per magnitude to cast, a Muto Vim spell needs to last one hour or more, making Duration: Concentration impractical. All the magi in the group must add together the (level–2 magnitudes) of the Day of Communion they are casting. This number must exceed twice the level of the specified ritual being cast. As no more than one magus may join the group for each magnitude of the ritual being cast, this means that this spell is largely useless below level 20. It is highly useful for casting an efficient Aegis of the Hearth, which is no exception to the rule that all spells directly affecting targets must Penetrate.
+This spell is a Wizard’s Communion as found in [ArM5, page 160](<Ars Magica 5e - Core Rules.md#wizards-communion>) / [Definitive Edition, page 369](<Ars Magica - Definitive Edition (Core Rules).md#wizards-communion>), but with a longer duration. In accordance with the errata for Muto Vim such spells need a duration at least as long as the casting of the target spell. As Rituals as minimum are level 20 and take 15 minutes per magnitude to cast, a Muto Vim spell needs to last one hour or more, making Duration: Concentration impractical. All the magi in the group must add together the (level–2 magnitudes) of the Day of Communion they are casting. This number must exceed twice the level of the specified ritual being cast. As no more than one magus may join the group for each magnitude of the ritual being cast, this means that this spell is largely useless below level 20. It is highly useful for casting an efficient Aegis of the Hearth, which is no exception to the rule that all spells directly affecting targets must Penetrate.
 
 (Base effect, with two magnitudes devoted to the Duration.)
 
@@ -10387,7 +10401,7 @@ The Dominator is an invested device in the form of a sturdy yew staff set with p
 ReMe 44<br>
 Pen 30, 12/day<br>
 R: Voice, D: Conc, T: Ind<br>
-Effect is that of the spell of the same name, found in **ArM5**, page 152. Activated by pointing at the intended target while twisting it clockwise and saying “I dominate”.
+Effect is that of the spell of the same name, found in [**ArM5**, page 152](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). Activated by pointing at the intended target while twisting it clockwise and saying “I dominate”.
 
 (Effect: Base 5, +2 Voice, +1 Conc; Modifications +4 uses/day +5 item maintains concentration; +15 Penetration)
 
@@ -10763,7 +10777,7 @@ The severely depleted personnel roster of Collem Leonis means that there are ver
 
 Johanna is the steward, chamberlain, and in every way the manager of Collem Leonis, and a very independent woman indeed. As the daughter of a lesser noble from the vicinity of Dortmund she had the privilege of an education with a private tutor from the cathedral school. However, this only left her wanting more and with a burning desire for freedom and independence. After crossing paths with Scipio of Flambeau — the pater of Tiberius — she ran away to Collem Leonis at the age of 15 to avoid the crushing yoke of being female in the feudal system. After briefly fearing that this would be the crisis that destroyed the covenant, the magi managed to negotiate an uneasy settlement, and the girl was taken under the tutelage of Joachim, the autocrat at the time. Her first years were very turbulent, as she not only had to learn the ropes of managing a covenant, and what kind of people magi were and what they did, but also bore a child by a father unknown. Everyone thinks (correctly) that Tiberius is the father, as the two always had a friendly relationship. Nothing has ever been confirmed nor denied, and no one ever gave the matter much attention, assuming that they already knew the story. After only a few years she was thrust without warning into leadership when Joachim suddenly disappeared, along with a great deal of books and magical resources. Naturally, Joachim’s legacy was marred by this crooked end, and to the present day this mystery has not been solved (see the Story Seed: Sins of the Predecessor, later). Johanna’s daughter, Erika, grew up in this strange place, heavily influenced by the supernatural. Though not of her mother’s scholarly disposition, she shares her tendencies toward freedom and equality between the genders.
 
-For game statistics use the Female Scholar template found in [**ArM5**, page 22](<Ars Magica - Definitive Edition (Core Rules).md#the-female-scholar>) with the following changes: Increase age to 31, add Profession: Chamberlain 4 (inspire loyalty), Profession: Steward 4 (mediating), Area Lore: Sauerland 4 (geography), Organization Lore: Covenant of Collem Leonis 4 (history), and spread the remaining 130 experience points as desired on key abilities, or on adding Organization Lore: Order of Hermes, Realm Lores, or even Code of Hermes.
+For game statistics use the Female Scholar template found in [**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#the-female-scholar>) / [Definitive Edition, page 33](<Ars Magica - Definitive Edition (Core Rules).md#the-female-scholar>) with the following changes: Increase age to 31, add Profession: Chamberlain 4 (inspire loyalty), Profession: Steward 4 (mediating), Area Lore: Sauerland 4 (geography), Organization Lore: Covenant of Collem Leonis 4 (history), and spread the remaining 130 experience points as desired on key abilities, or on adding Organization Lore: Order of Hermes, Realm Lores, or even Code of Hermes.
 
 <!-- p. 143 --><a id="page-143"></a>
 
@@ -10827,11 +10841,11 @@ The turb consists of a modest five fighting grogs led reluctantly by Francois th
 
 #### Francois the Grog Captain
 
-Francois was brought to Collem Leonis from Normandy by Tiberius only a few years ago, and still struggles with the local language. He is a specialist fighter and has picked up enough leadership skills to serve adequately as a sergeant. However, the shortage of manpower led to his promotion to Grog Captain. For stats use the Specialist template on **ArM5**, page 21 except switch Single Weapon for Great Weapon (greatsword), switch Bargain for Leadership, and add High German 3 (grogs), with experience points gained from raising his age to 20.
+Francois was brought to Collem Leonis from Normandy by Tiberius only a few years ago, and still struggles with the local language. He is a specialist fighter and has picked up enough leadership skills to serve adequately as a sergeant. However, the shortage of manpower led to his promotion to Grog Captain. For stats use the Specialist template on [**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#the-specialist>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-specialist>) except switch Single Weapon for Great Weapon (greatsword), switch Bargain for Leadership, and add High German 3 (grogs), with experience points gained from raising his age to 20.
 
 #### Geri the Hunter
 
-Geri is a local lad, quiet to the point of being sullen and with a dark view on life. What sets him apart form other hunters is that he possesses Second Sight, but this is kept mostly a secret as such a thing usually causes fear in others or raises suspicions. Use the Hunter template on **ArM5**, page 21 with the following changes: Add Afflicted Tongue, add Second Sight, and raise age by at least one year to improve the ability.
+Geri is a local lad, quiet to the point of being sullen and with a dark view on life. What sets him apart form other hunters is that he possesses Second Sight, but this is kept mostly a secret as such a thing usually causes fear in others or raises suspicions. Use the Hunter template on [**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#the-hunter>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-hunter>) with the following changes: Add Afflicted Tongue, add Second Sight, and raise age by at least one year to improve the ability.
 
 #### Paul the Spearman
 
@@ -10839,7 +10853,7 @@ Paul has served Collem Leonis for quite a few years and is the sort of archetypa
 
 #### The Rest of the Turb
 
-Statistics for the remaining grogs can be taken from the templates in **ArM5**, page 21, or Grogs, pages 87–143. The latest potential recruit is the feisty, redheaded tomboy Erika, 13-year-old daughter of Johanna the Autocrat, who enjoys roughing it and fighting, and certainly has a flair for it.
+Statistics for the remaining grogs can be taken from the templates in [**ArM5**, page 21](<Ars Magica 5e - Core Rules.md#grogs>) / [Definitive Edition, page 26](<Ars Magica - Definitive Edition (Core Rules).md#grogs>), or Grogs, pages 87–143. The latest potential recruit is the feisty, redheaded tomboy Erika, 13-year-old daughter of Johanna the Autocrat, who enjoys roughing it and fighting, and certainly has a flair for it.
 
 #### Paul the Spearman
 
@@ -11123,7 +11137,7 @@ The magi have discovered two local ways into this regio. Most simply, it can be 
 
 Once inside, moving between the levels is achieved by braving the difficult terrain, be it vertical cliff faces, frozen mountains, scorching desert, or endless ocean. Indeed, some earlier magi have suggested that there is only one level to the regio, and that the strength of the aura varies from place to place within it. Others argued that the strength of the aura defines a regio level. Whether this debate is more than semantic remains to be seen.
 
-The lower level has a number of exits that lead to uninhabited parts of Norway. These are easy to use from within the regio, and can be used to enter the regio, following the normal rules for crossing regio boundaries (**ArM5**, page 189). Exiting back to Sauerland is only possible while the portal is open. Transportation magic works within the regio, and can take characters out through the portal to Sauerland while the portal is open. If the portal closes while people are inside, the only options are to leave via Norway, or to wait inside for the portal to open once more.
+The lower level has a number of exits that lead to uninhabited parts of Norway. These are easy to use from within the regio, and can be used to enter the regio, following the normal rules for crossing regio boundaries ([**ArM5**, page 189](<Ars Magica 5e - Core Rules.md#regio>)). Exiting back to Sauerland is only possible while the portal is open. Transportation magic works within the regio, and can take characters out through the portal to Sauerland while the portal is open. If the portal closes while people are inside, the only options are to leave via Norway, or to wait inside for the portal to open once more.
 
 #### Faerie Regio: Midgard
 
@@ -11255,7 +11269,7 @@ A variant of the spell Aura of Ennobled Presence, which causes the target to app
 ReMe 40<br>
 Pen 32, 12/day<br>
 R: Eye, D: Sun, T: Ind<br>
-A variant of the spell Aura of Rightful Authority ([**ArM5**, page 151](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>)), causing the target to accept the caster as an equal. This defuses a situation where the target is of higher rank and makes him open to negotiation. Tacitus of Tremere preferred this version as it is less risky compared to forcing orders on high-standing mundanes. His notes on the item also remark that the Penetration is sufficient to affect an archbishop with his Commanding Presence power (Realms of Power: The Divine, [page 42–43](#page-42)) while inside a cathedral, where the Dominion protects him even further. Activated by looking the target in the eye, bowing slightly and speaking the words “Greetings my equal”.
+A variant of the spell Aura of Rightful Authority ([**ArM5**, page 151](<Ars Magica 5e - Core Rules.md#aura-of-rightful-authority>) / [Definitive Edition, page 357](<Ars Magica - Definitive Edition (Core Rules).md#aura-of-rightful-authority>)), causing the target to accept the caster as an equal. This defuses a situation where the target is of higher rank and makes him open to negotiation. Tacitus of Tremere preferred this version as it is less risky compared to forcing orders on high-standing mundanes. His notes on the item also remark that the Penetration is sufficient to affect an archbishop with his Commanding Presence power (Realms of Power: The Divine, [page 42–43](#page-42)) while inside a cathedral, where the Dominion protects him even further. Activated by looking the target in the eye, bowing slightly and speaking the words “Greetings my equal”.
 
 (Effect: Base 5, +1 Eye, +2 Sun; Modifications +4 uses/day; +16 Penetration)
 
@@ -11270,7 +11284,7 @@ This heavy longspear is made from a sturdy ash wood shaft reinforced by bands of
 PeAn 40<br>
 Pen 20, 24/day<br>
 R: Voice, D: Mom, T: Ind<br>
-As the spell of the same name found in **ArM5**, page 119. The effect works on animals up to Size +7. Activated by making a swinging motion toward the target while saying the word “blunt”.
+As the spell of the same name found in [**ArM5**, page 119](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). The effect works on animals up to Size +7. Activated by making a swinging motion toward the target while saying the word “blunt”.
 
 (Effect: Base 5, +2 Voice +2 Size; Modifications +5 uses/day; +10 Penetration)
 
@@ -11279,7 +11293,7 @@ As the spell of the same name found in **ArM5**, page 119. The effect works on a
 PeCo 40<br>
 Pen 20, 24/day<br>
 R: Voice, D: Mom, T: Ind<br>
-As the spell of the same name found in **ArM5**, page 133. The effect works on humanoid bodies up to Size +4, as Pamprepius hated having his Corpus spells circumvented by giant-blooded enemies. Activated by making a stabbing motion toward the target while uttering the word “weariness”.
+As the spell of the same name found in [**ArM5**, page 133](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). The effect works on humanoid bodies up to Size +4, as Pamprepius hated having his Corpus spells circumvented by giant-blooded enemies. Activated by making a stabbing motion toward the target while uttering the word “weariness”.
 
 (Effect: Base 10, +2 Voice, +1 Size; Modifications +5 uses/day; +10 Penetration)
 
@@ -11301,7 +11315,7 @@ The user has an instant sense of all creatures touching the ground within 1000 p
 InAu 34<br>
 Pen 0, 12/day<br>
 R: Touch, D: Sun, T: Hearing<br>
-As the spell of the same name found in **ArM5**, page 127. It is activated by closing one’s eyes and tilting one’s head rapidly once each to the left and to the right.
+As the spell of the same name found in [**ArM5**, page 127](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). It is activated by closing one’s eyes and tilting one’s head rapidly once each to the left and to the right.
 
 (Effect: Base 4, +1 Touch +1 Conc +3 Hearing; Modifications +5 maintains concentration, +4 uses/day)
 
@@ -11314,7 +11328,7 @@ Amadeus of Bonisagus made this enchanted gold circlet for his much-appreciated a
 InIm 30<br>
 Pen 0, 24/day<br>
 R: Arcane, D: Concentration, T: Ind<br>
-As the spell of the same name found in **ArM5**, page 145. It is activated by touching the circlet with both hands while crossing the arms. Amadeus noted that the use of this effect without the following one could constitute scrying if a magus is present.
+As the spell of the same name found in [**ArM5**, page 145](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). It is activated by touching the circlet with both hands while crossing the arms. Amadeus noted that the use of this effect without the following one could constitute scrying if a magus is present.
 
 (Effect: Base 2, +4 Arc, +1 Conc, +2 Room; Modifications +5 uses/day)
 
@@ -11323,7 +11337,7 @@ As the spell of the same name found in **ArM5**, page 145. It is activated by to
 CrIm 25<br>
 Pen 0, 24/day<br>
 R: Arcane, D: Concentration, T: Ind<br>
-As the spell of the same name found in **ArM5**, page 145. It is activated by touching the circlet with one hand at the forehead and one at the back.
+As the spell of the same name found in [**ArM5**, page 145](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>). It is activated by touching the circlet with one hand at the forehead and one at the back.
 
 (Effect: Base 2, +4 Arc, +1 Diam, +1 intelligible speech; Modifications +5 uses/day)
 
@@ -11630,7 +11644,7 @@ Augusta of Bonisagus, *The Purest of all Arts*, Vim Summa, Level 14 Quality 16 (
 
 #### Diabolical Books
 
-The Goetic Arts and how to learn them are described in Realms of Power: The Infernal, [pages 114–119](#page-114), and 126. They can be learned as Supernatural Abilities (as described in [**ArM5**, page 166](<Ars Magica - Definitive Edition (Core Rules).md#supernatural-abilities>)) by anybody, even the unGifted, provided that the character is touched by the Infernal. This may be as little as a single Warping point from an Infernal source. Note that Goetic Arts follow the Art progression scale, and that since Hedge Magic was published this mechanic has been referred to as Accelerated Abilities.
+The Goetic Arts and how to learn them are described in Realms of Power: The Infernal, [pages 114–119](#page-114), and 126. They can be learned as Supernatural Abilities (as described in [**ArM5**, page 166](<Ars Magica 5e - Core Rules.md#supernatural-abilities>) / [Definitive Edition, page 159](<Ars Magica - Definitive Edition (Core Rules).md#supernatural-abilities>)) by anybody, even the unGifted, provided that the character is touched by the Infernal. This may be as little as a single Warping point from an Infernal source. Note that Goetic Arts follow the Art progression scale, and that since Hedge Magic was published this mechanic has been referred to as Accelerated Abilities.
 
 Author unknown, *Howls from the Deep*, Goetic Summoning Summa, Level 15, Quality 15 (30 Build Points)
 
@@ -11892,7 +11906,7 @@ The lindorm’s blood is magically transformed into a sticky, corrosive venom as
 The lindorm may forego a bite attack and instead spew forth a sticky, venomous liquid on a target within 15 paces. The attack hits the target automatically and if it Penetrates does +25 damage. The venom may spill onto nearby targets (such as other fighters in a group) for +12 damage unless they succeed in Qik–Enc roll versus an Ease Factor of 9.
 
 *Constriction* (non-magical):<br>
-The lindorm can “constrict” targets of lower Size than itself, and can even affect multiple opponents simultaneously provided that the sum of their Sizes does not exceed +7. Targets must be successfully grappled one at a time, using the rules for “Non-Lethal Combat”, [**ArM5**, page 174](<Ars Magica - Definitive Edition (Core Rules).md#non-lethal-combat>). Victims suffer Deprivation from air as long as they are constricted, **ArM5**, page 180. For targets of Size +2 or lower, the lindorm actually rolls over them, trapping them under its body, as they are too small for it to wrap around them effectively.
+The lindorm can “constrict” targets of lower Size than itself, and can even affect multiple opponents simultaneously provided that the sum of their Sizes does not exceed +7. Targets must be successfully grappled one at a time, using the rules for “Non-Lethal Combat”, [**ArM5**, page 174](<Ars Magica 5e - Core Rules.md#non-lethal-combat>) / [Definitive Edition, page 397](<Ars Magica - Definitive Edition (Core Rules).md#non-lethal-combat>). Victims suffer Deprivation from air as long as they are constricted, [**ArM5**, page 180](<Ars Magica 5e - Core Rules.md#deprivation>) / [Definitive Edition, page 407](<Ars Magica - Definitive Edition (Core Rules).md#deprivation>). For targets of Size +2 or lower, the lindorm actually rolls over them, trapping them under its body, as they are too small for it to wrap around them effectively.
 
 *Magical Senses*, 0 points, always on, Vim.<br>
 The lindorm’s supernatural sense of smell can find any auras, vis, enchanted devices, creatures with Might, or Gifted people within a mile. It is drawn to then in order to consume the vis, rest in the aura, fight rival beasts, or capture Gifted individuals.

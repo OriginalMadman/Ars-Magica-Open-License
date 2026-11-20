@@ -1,5 +1,8 @@
+<!-- p. 1 --><a id="page-1"></a>
+
 # Ultima Thule: Mythic Scandinavia
-A sourcebook to the violent lands of Mythic Scandinavia, for Ars Magica 4th Edition
+
+by Paul Williams
 
 ## Markdown Version Specifics
 
@@ -11,6 +14,8 @@ While this extracted text is complete and provided completely free under the Ope
 *[Completion state: Done. All text extracted from the official PDF, every page cleaned and checked against the page images, and the result compared word for word against the PDF text. Rune glyphs, printed in a runic font, are given as Unicode Elder Futhark characters. Stat blocks and spells keep their fourth-edition fields and values, laid out in Definitive Edition markdown style. No official errata are listed for this book; clear misspellings corrected (see Issues from Original below). Remaining: full pass review by others; maps and art are not included.]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings.*
+
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -44,9 +49,7 @@ No official errata are listed for this book on Atlas Games' errata page for 4th 
 | 140 | Novogrod | Novgorod |
 | 142 | annullment | annulment |
 
-<!-- p. 1 -->
-
-<!-- p. 2 -->
+<!-- p. 2 --><a id="page-2"></a>
 
 ## Credits
 
@@ -91,38 +94,23 @@ www.atlas-games.com
 
 Digital Edition Version 1.0
 
-<!-- p. 3 -->
+<!-- p. 3 --><a id="page-3"></a>
 
-<!-- p. 4 -->
+<!-- p. 4 --><a id="page-4"></a>
 
 ## Contents
 
-- [Ultima Thule: Mythic Scandinavia](#ultima-thule-mythic-scandinavia)
-  - [Markdown Version Specifics](#markdown-version-specifics)
-  - [Issues from Original](#issues-from-original)
-    - [Official Errata](#official-errata)
-    - [Misspellings Corrected](#misspellings-corrected)
   - [Credits](#credits)
-  - [Contents](#contents)
 - [Chapter 1: Introduction](#chapter-1-introduction)
   - [The Beginning](#the-beginning)
   - [Overview](#overview)
 - [Chapter 2: Mythic Scandinavia](#chapter-2-mythic-scandinavia)
   - [The Lands of Scandinavia](#the-lands-of-scandinavia)
   - [Norway](#norway)
-    - [Norwegian Towns](#norwegian-towns)
-    - [Norwegian History](#norwegian-history)
   - [Sweden](#sweden)
-    - [Swedish Towns](#swedish-towns)
-    - [Swedish History](#swedish-history)
   - [Denmark](#denmark)
-    - [Danish Towns](#danish-towns)
-    - [Danish History](#danish-history)
   - [Iceland](#iceland)
-    - [Icelandic History](#icelandic-history)
   - [Greenland](#greenland)
-    - [Greenlandic History](#greenlandic-history)
-    - [The Westernmost Islands](#the-westernmost-islands)
   - [The Vikings in England](#the-vikings-in-england)
   - [Ireland](#ireland)
   - [Scotland](#scotland)
@@ -132,39 +120,11 @@ Digital Edition Version 1.0
   - [The Baltic Lands](#the-baltic-lands)
   - [Russia](#russia)
   - [Mythic Realms](#mythic-realms)
-    - [Alfheim](#alfheim)
-    - [Asgard](#asgard)
-    - [Iarnwood](#iarnwood)
-    - [Jotunheim](#jotunheim)
-    - [Muspellheim](#muspellheim)
-    - [Myrkwood](#myrkwood)
-    - [Nifleheim](#nifleheim)
-    - [Outer Ocean](#outer-ocean)
-    - [Svartalfheim](#svartalfheim)
-    - [Trollheim](#trollheim)
-    - [Yggdrasil, the World Tree](#yggdrasil-the-world-tree)
-- [Chapter 3: Norse Society \& Culture](#chapter-3-norse-society--culture)
+- [Chapter 3: Norse Society & Culture](#chapter-3-norse-society--culture)
   - [Rig the Walker](#rig-the-walker)
   - [Social Class](#social-class)
-    - [Thralls](#thralls)
-    - [Carls](#carls)
-    - [Nobles](#nobles)
-    - [Konungr](#konungr)
-      - [*The Life of a King*](#the-life-of-a-king)
-    - [The Hird](#the-hird)
   - [Personal Virtues](#personal-virtues)
-    - [Honor](#honor)
-    - [Loyalty](#loyalty)
-    - [Courage](#courage)
-    - [Hospitality](#hospitality)
-    - [Insults and Boasts](#insults-and-boasts)
-    - [The Thing](#the-thing)
   - [Recreation](#recreation)
-    - [Glima Wrestling](#glima-wrestling)
-    - [Archery](#archery)
-    - [Javelin Throwing](#javelin-throwing)
-    - [Swimming](#swimming)
-    - [Knattleikr](#knattleikr)
   - [Storytelling](#storytelling)
   - [Family and the Clan](#family-and-the-clan)
   - [The Blood Feud](#the-blood-feud)
@@ -184,23 +144,10 @@ Digital Edition Version 1.0
   - [Religion](#religion)
   - [The Old Faith](#the-old-faith)
   - [Public Ceremonies](#public-ceremonies)
-    - [The Temple at Uppsala](#the-temple-at-uppsala)
   - [The Major Blötar](#the-major-blötar)
-    - [Yule](#yule)
-    - [Thorri](#thorri)
-    - [Disablöt](#disablöt)
-    - [Sigrblöt](#sigrblöt)
-    - [Midsummer](#midsummer)
-    - [Hlafblöt](#hlafblöt)
-    - [Winternights (Alfablöt or Freysblöt)](#winternights-alfablöt-or-freysblöt)
   - [Personal Worship](#personal-worship)
-    - [Cult of Odin](#cult-of-odin)
-    - [Cult of Thor](#cult-of-thor)
-    - [Cult of Freyr](#cult-of-freyr)
-    - [Goddess Cults](#goddess-cults)
   - [The Gods of the Norse](#the-gods-of-the-norse)
   - [Christianity](#christianity)
-    - [The Effects of Christianity](#the-effects-of-christianity)
   - [The Order of Odin](#the-order-of-odin)
   - [Warfare](#warfare)
   - [Organizational Structure](#organizational-structure)
@@ -212,13 +159,7 @@ Digital Edition Version 1.0
   - [Characters](#characters)
   - [Norse Spell Casters](#norse-spell-casters)
   - [Vitkir](#vitkir)
-    - [Starting Abilities](#starting-abilities)
-    - [Starting Magic](#starting-magic)
-    - [Virtues and Flaws](#virtues-and-flaws)
-    - [Required Virtue](#required-virtue)
-    - [Forbidden Virtues and Flaws](#forbidden-virtues-and-flaws)
   - [Seithkona](#seithkona)
-    - [Fylgjur](#fylgjur)
   - [Shamans](#shamans)
   - [Wind Wizards](#wind-wizards)
   - [Norse Grogs and Companions](#norse-grogs-and-companions)
@@ -227,124 +168,41 @@ Digital Edition Version 1.0
   - [Abilities](#abilities)
   - [Changed Abilities](#changed-abilities)
   - [New Abilities](#new-abilities)
-    - [Exceptional Talent](#exceptional-talent)
-    - [Academic Knowledge](#academic-knowledge)
-    - [Arcane Knowledges](#arcane-knowledges)
-    - [Casual Knowledge](#casual-knowledge)
-    - [Wilderness Skill](#wilderness-skill)
   - [Forbidden Abilities](#forbidden-abilities)
-    - [Rare Abilities](#rare-abilities)
   - [Changed Virtues](#changed-virtues)
-    - [Variable Virtues](#variable-virtues)
-    - [+1 General Virtues](#1-general-virtues)
-    - [+3/+5 General Virtue](#35-general-virtue)
-    - [+1 Hermetic Virtues](#1-hermetic-virtues)
-    - [+4 Hermetic Virtues](#4-hermetic-virtues)
   - [Changed Flaws](#changed-flaws)
-    - [–1 General Flaw](#1-general-flaw)
-    - [–2 Hermetic Flaw](#2-hermetic-flaw)
   - [New Virtues and Flaws](#new-virtues-and-flaws)
-    - [+2 Virtue](#2-virtue)
-    - [+3 Virtues](#3-virtues)
-    - [Variable Flaw](#variable-flaw)
-    - [–1 Flaw](#1-flaw)
   - [Jarl Togsvig’s Lands](#jarl-togsvigs-lands)
-    - [The Jarl’s Family](#the-jarls-family)
-    - [The Jarl’s Stead](#the-jarls-stead)
-    - [Adventures on Jarl Togsvig’s Lands](#adventures-on-jarl-togsvigs-lands)
 - [Chapter 5: Norse Magic](#chapter-5-norse-magic)
   - [Runic Magic](#runic-magic)
   - [Single Runes](#single-runes)
-    - [Boosting Runes](#boosting-runes)
   - [Rune Scripts](#rune-scripts)
   - [Rune Bindings](#rune-bindings)
-  - [Learning \& Teaching Runes](#learning--teaching-runes)
-    - [Learning Through Sacrifice](#learning-through-sacrifice)
+  - [Learning & Teaching Runes](#learning--teaching-runes)
   - [Apprentices](#apprentices)
-- [Chapter 6: Runes \& Their Power](#chapter-6-runes--their-power)
+- [Chapter 6: Runes & Their Power](#chapter-6-runes--their-power)
   - [Runic Power](#runic-power)
   - [Using the Runes](#using-the-runes)
-    - [Lasting Effects](#lasting-effects)
   - [Rune Descriptions](#rune-descriptions)
   - [Freyr’s Aett](#freyrs-aett)
-    - [Fe (FAY): Cattle](#fe-fay-cattle)
-    - [Ur (OOR): Auroch](#ur-oor-auroch)
-    - [Thurs (THURZ): Thorn Bush](#thurs-thurz-thorn-bush)
-    - [Ass (AHSS): Mouth](#ass-ahss-mouth)
-    - [Reith (RAYTH): Cart Wheel](#reith-rayth-cart-wheel)
-    - [Kaun (KOWN): Torch](#kaun-kown-torch)
-    - [Gipt (GIPT): Gift](#gipt-gipt-gift)
-    - [Vend (VEND): Joy](#vend-vend-joy)
   - [Heimdall’s Aett](#heimdalls-aett)
-    - [Hagall (HAH-gall): Hail](#hagall-hah-gall-hail)
-    - [Nauthr (now-THER): Necessity](#nauthr-now-ther-necessity)
-    - [Iss (EES): Ice](#iss-ees-ice)
-    - [Jera (YEA-rah): Harvest](#jera-yea-rah-harvest)
-    - [Yr (EAR): Yew Tree](#yr-ear-yew-tree)
-    - [Perta (PER-tah): Dice Cup](#perta-per-tah-dice-cup)
-    - [Ihwar (ih-WORE): Elk](#ihwar-ih-wore-elk)
-    - [Sól (SOHL): The Sun](#sól-sohl-the-sun)
   - [Tyr’s Aett](#tyrs-aett)
-    - [Tyr (TEER): The God Tyr](#tyr-teer-the-god-tyr)
-    - [Bjarkan (BYAR-kan): Birch Tree](#bjarkan-byar-kan-birch-tree)
-    - [Ior (YOR): Horse](#ior-yor-horse)
-    - [Mathr (math-ER): Mankind](#mathr-math-er-mankind)
-    - [Lög (log-ER): Water](#lög-log-er-water)
-    - [Yngvi (UHNG-vee): The God Yngvi](#yngvi-uhng-vee-the-god-yngvi)
-    - [Dagr (DAG-er): Day](#dagr-dag-er-day)
-    - [Othal (OTH-all): A Possession](#othal-oth-all-a-possession)
 - [Chapter 7: Other Magic Systems](#chapter-7-other-magic-systems)
   - [Finnish Wind Wizards](#finnish-wind-wizards)
-  - [Starting Abilities](#starting-abilities-1)
-  - [Virtues and Flaws](#virtues-and-flaws-1)
-    - [Forbidden Virtues and Flaws](#forbidden-virtues-and-flaws-1)
-  - [Starting Magic](#starting-magic-1)
+  - [Starting Abilities](#starting-abilities)
+  - [Virtues and Flaws](#virtues-and-flaws)
+  - [Starting Magic](#starting-magic)
   - [Tying Knots](#tying-knots)
   - [Casting a Spell](#casting-a-spell)
-    - [Spell-Casting Speed](#spell-casting-speed)
   - [The Price of Failure](#the-price-of-failure)
   - [Learning the Chants](#learning-the-chants)
   - [Dwarven Magic](#dwarven-magic)
   - [Finding Lesser Items](#finding-lesser-items)
-    - [Payment](#payment)
-    - [Inheriting a Lesser Item](#inheriting-a-lesser-item)
   - [Hermetic Magic](#hermetic-magic)
   - [Parma Magica](#parma-magica)
   - [Sun Duration Spells](#sun-duration-spells)
   - [Vis in Scandinavia](#vis-in-scandinavia)
 - [Chapter 8: Norse Bestiary](#chapter-8-norse-bestiary)
-    - [Alfar](#alfar)
-    - [Auroch](#auroch)
-      - [Auroch](#auroch-1)
-    - [Draugr](#draugr)
-      - [Draugr](#draugr-1)
-    - [Dverge](#dverge)
-    - [Faeries in General](#faeries-in-general)
-    - [Nykr](#nykr)
-    - [Havmand](#havmand)
-    - [Nisse](#nisse)
-    - [Swan Maidens](#swan-maidens)
-    - [Giants in General](#giants-in-general)
-    - [Cliff Giant](#cliff-giant)
-      - [Cliff Giant](#cliff-giant-1)
-    - [Frost Giant](#frost-giant)
-      - [Frost Giant](#frost-giant-1)
-    - [Fire Giant](#fire-giant)
-      - [Fire Giant](#fire-giant-1)
-    - [Jotun](#jotun)
-    - [Other Giants](#other-giants)
-    - [Hagbui (Barrow-Dweller)](#hagbui-barrow-dweller)
-      - [Hagbui](#hagbui)
-    - [Huldafolk](#huldafolk)
-    - [Orm](#orm)
-      - [Orm](#orm-1)
-    - [Troll](#troll)
-      - [Troll](#troll-1)
-    - [Trow](#trow)
-      - [Trow](#trow-1)
-      - [Kunal Trow](#kunal-trow)
-    - [Volva](#volva)
-    - [Valkyries](#valkyries)
 - [Chapter 9: Adventure Seeds](#chapter-9-adventure-seeds)
   - [The Covenant of Heorot](#the-covenant-of-heorot)
   - [Things Best Forgotten](#things-best-forgotten)
@@ -356,10 +214,6 @@ Digital Edition Version 1.0
   - [The End](#the-end)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
-    - [*Myths and Legends*](#myths-and-legends)
-    - [*Runes*](#runes)
-    - [*General Reference*](#general-reference)
-    - [*Internet Sources*](#internet-sources)
 - [Index](#index)
 
 ---
@@ -378,7 +232,7 @@ Digital Edition Version 1.0
 
 *When they had grown, the sons of Bor slew the giant Ymir and the rush of his blood drowned all the giants except Bergelmi and his wife, who escaped in a boat to a land they would name Jotunheim.*
 
-<!-- p. 5 -->
+<!-- p. 5 --><a id="page-5"></a>
 
 *In the middle of the Ginnugagap, the sons of Bor threw Ymir’s body, creating the lands of men and the gods. The earth was formed from his flesh, the mountains from his bones, the rocks from his teeth, the forests from his hair, the sea from his blood, and the heavens from Ymir’s skull, positioning four dwarves (who sprang full-formed from the giant’s flesh) named Nordi (North), Austri (East), Suthri (South), and Vestri (West) at its corners to hold it in place. Sparks from Muspellheim were placed within the skull and they became the stars.*
 
@@ -398,7 +252,7 @@ By the 13th century, when written records become more plentiful, Scandinavia had
 
 The aim of *Ultima Thule* is two-fold: to present Mythic Scandinavia, a land of rune magic, monstrous trolls, and great adventure; and to tell the true story of the Norse culture.
 
-Throughout *Ultima Thule* some terms in Icelandic (the nearest living language to Old Norse) are used for flavor, but the English equivalents are given in parentheses. Many spellings have been simplified for convenience. Explanations for terms in **bold print** appear in the Glossary, beginning on page 133.
+Throughout *Ultima Thule* some terms in Icelandic (the nearest living language to Old Norse) are used for flavor, but the English equivalents are given in parentheses. Many spellings have been simplified for convenience. Explanations for terms in **bold print** appear in the Glossary, beginning on [page 133](#glossary).
 
 > ### Aura Interactions
 >
@@ -413,7 +267,7 @@ Throughout *Ultima Thule* some terms in Icelandic (the nearest living language t
 > | Faerie | + (aura) |
 > | Infernal | – (aura) |
 
-<!-- p. 6 -->
+<!-- p. 6 --><a id="page-6"></a>
 
 # Chapter 2: Mythic Scandinavia
 
@@ -435,7 +289,7 @@ Norway’s climate was surprisingly mild for its location. In the summer months,
 
 The vast majority of the Norwegian population lived along the coast or in the hospitable areas of the south. Norway had one large town, central Trondheim, situated on a fertile plain, and at times laid claim to the region surrounding Oslo in the south, which usually was Danish territory.
 
-<!-- p. 7 -->
+<!-- p. 7 --><a id="page-7"></a>
 
 ### Norwegian Towns
 
@@ -449,7 +303,7 @@ The vast majority of the Norwegian population lived along the coast or in the ho
 
 Southern and central Norway was first unified in 875 by Harald Finehair, the king of Vestfold. Harald was followed by his son, the sinisterly named Erik Bloodaxe, who was ousted because of his cruel nature and the harshness of his rule. Erik left for greener pastures, and for a while was king of York, England. The new Norwegian monarch was Erik’s brother, Haakon, who had been brought up by the English king Athelstan. Although a Christian, Haakon allowed the Norwegians to maintain their old religion and was a cautious ruler. Unfortunately family history returned to haunt Haakon and he was slain fighting an alliance of Erik Bloodaxe’s son, Harald Graycloak, and the Danes.
 
-<!-- p. 8 -->
+<!-- p. 8 --><a id="page-8"></a>
 
 For the next decade southern Norway fell under Danish rule as Harald became ruler. Northern Tröndel attacked the south in 970, killing Harald, and placing Jarl Haakon (who still submitted to Danish overlordship) in power.
 
@@ -459,7 +313,7 @@ In 1015 Olaf Haraldsson, another descendent of Harald Finehair, became king and 
 
 While Canute the Great was ruling England, his illegitimate son Svein and Svein’s English mother assumed power in Norway, on Canute’s behalf. In 1035 their unpopular rule was ended by St. Olaf’s son Magnus the Good. Magnus proved a competent leader and following the death of Harde-Canute he also became king of Denmark. In 1044 his father’s half-brother, Harald Hardrade, returned home from Russia and demanded a share of the throne. Magnus agreed and Harald became sole ruler when Magnus died without issue. Harald is most famous for his unsuccessful invasion of England of 1066, the virtual end of the Viking Age.
 
-<!-- p. 9 -->
+<!-- p. 9 --><a id="page-9"></a>
 
 > ### Kings of Norway
 >
@@ -529,11 +383,11 @@ Sweden has one town of international note, Uppsala in Svealand, and a number of 
 > | Eric Knutsson | 1210 - 1216 |
 > | John I Sverkersson | 1216 - “present” |
 
-<!-- p. 10 -->
+<!-- p. 10 --><a id="page-10"></a>
 
 ### Swedish Towns
 
-**Uppsala:** Uppsala has been the spiritual and educational capital of Sweden since the early Viking Age. The temple was described by Adam of Bremen (see “The Old Faith” on page 47) during his travels though Sweden and formed the center of pagan resistance to the advance of Christianity. By the end of the 11th century its power as a pagan religious center had declined and the temple was demolished. Uppsala was made a bishopric in 1164. The prestige of the city was increased by the presence of Saint Erik, who founded one of the ruling dynasties.
+**Uppsala:** Uppsala has been the spiritual and educational capital of Sweden since the early Viking Age. The temple was described by Adam of Bremen (see “The Old Faith” on [page 47](#the-old-faith)) during his travels though Sweden and formed the center of pagan resistance to the advance of Christianity. By the end of the 11th century its power as a pagan religious center had declined and the temple was demolished. Uppsala was made a bishopric in 1164. The prestige of the city was increased by the presence of Saint Erik, who founded one of the ruling dynasties.
 
 In 1220 Uppsala remains a Christian stronghold infiltrated by pagan beliefs. Many of the locals are Christians by baptism, but still hold ties to the old faith.
 
@@ -545,11 +399,11 @@ Although the names of several kings from the 9th century are known, the extent o
 
 German missionaries arrived in Sweden to convert the populace in the late 9th century. At this same time Skåne, the southern part of Sweden, was conquered by the Danes and became part of their kingdom. Constant military pressure from Denmark and Norway in the 10th century forced the Swedes to unify under one ruler, Olaf Skottkonung (Tax-King), in 994, but a single ruler did not mean a united country, and many petty kings still had control over small sections of the country. Olaf was a Christian, although much of the population, especially the Svear, still practiced the old faith at that time.
 
-By 1020 the Christian faith had begun to spread throughout the populace, but did not become the state religion until late in the 11th century, with the pagan temple at Uppsala being destroyed in 1080 (but see “The Temple at Uppsala” on page 47). After 1060 Sweden was weakened by internal disputes between rival dynasties and the **Landthings** became the most powerful institutions in the land. Rulership by the kings was only fully restored in 1120.
+By 1020 the Christian faith had begun to spread throughout the populace, but did not become the state religion until late in the 11th century, with the pagan temple at Uppsala being destroyed in 1080 (but see “The Temple at Uppsala” on [page 47](#the-temple-at-uppsala)). After 1060 Sweden was weakened by internal disputes between rival dynasties and the **Landthings** became the most powerful institutions in the land. Rulership by the kings was only fully restored in 1120.
 
 At the start of the 13th century Sweden is a land of two peoples; Christian kings rule the country, but many of the rural areas still practice the old ways. The current king, John Sverkersson, is in some ways the puppet of the powerful jarl Ulf Fasi.
 
-<!-- p. 11 -->
+<!-- p. 11 --><a id="page-11"></a>
 
 ## Denmark
 
@@ -561,7 +415,7 @@ Denmark’s climate was temperate, with mild winters and warm summers. Rainfall 
 
 Denmark was Scandinavia’s gateway to the rest of Europe, and Danes had more political and cultural contact with the rest of the world than Norwegians and especially Swedes. European influences often reached Denmark first before spreading to the rest of Scandinavia.
 
-Denmark’s southern border was marked by the Danevirke, an earthenwork wall and series of fortifications (see “The Danevirke” on page 60). Constructed early in the Viking Era and improved in later years, the wall stretched some 25 miles from Hedeby to the Rivers Rheide and Treene.
+Denmark’s southern border was marked by the Danevirke, an earthenwork wall and series of fortifications (see “The Danevirke” on [page 60](#the-danevirke)). Constructed early in the Viking Era and improved in later years, the wall stretched some 25 miles from Hedeby to the Rivers Rheide and Treene.
 
 The main towns in southern Denmark were Århus, Lund, Roskilde, Veborg, Ribe, and Schlesweig, as well as Oslo and Skara on the main Scandinavian peninsula. Hedeby had had its heyday and was all but abandoned by 1220.
 
@@ -594,13 +448,13 @@ The main towns in southern Denmark were Århus, Lund, Roskilde, Veborg, Ribe, an
 > | Canute IV | 1182 - 1202 |
 > | Valdemar II Sejr | 1202 - “present” |
 
-<!-- p. 12 -->
+<!-- p. 12 --><a id="page-12"></a>
 
 ### Danish Towns
 
 **Ribe:** Established as a bishopric in 948 by Harald Bluetooth, Ribe is a center of Danish trade, peopled by fearless sailors who are actively recruited by seafaring magi who can cope with the high incidence of the Berserk Virtue among the population. The fierce independence of Ribe has kept the encroachments of German traders at bay.
 
-Members of the Order of Hermes have attempted to establish covenants in Ribe on more than one occasion, but each has met with disaster of one kind or another and been abandoned. Many suspect the secretive Order of Odin (see page 57) to be behind the “accidents.”
+Members of the Order of Hermes have attempted to establish covenants in Ribe on more than one occasion, but each has met with disaster of one kind or another and been abandoned. Many suspect the secretive Order of Odin (see [page 57](#the-order-of-odin)) to be behind the “accidents.”
 
 **Lund:** Situated to the south of Sweden, Lund was founded by the Danish king Canute the Great as the capital of Danish territory in Skåne. Lund was granted a bishopric in 1060, and in 1103 was granted the archbishopric for all of Scandinavia. In the early 13th century, Lund is an important center for Christian learning, having a cathedral and six monasteries within a day’s ride.
 
@@ -624,7 +478,7 @@ By 1042 the situation had begun to change, and Magnus the Good, a Norwegian, gai
 
 Between 1074 and 1134 Denmark’s history was dominated by King Svein II and his sons’ attempts to reunify the kingdom. The period was marked by power struggles and various kings accepted land from the Holy Roman Emperor. In 1104 Christianity became the national church, with Pope Urban II granting Denmark recognition as an independent province under the rule of Lund.
 
-<!-- p. 13 -->
+<!-- p. 13 --><a id="page-13"></a>
 
 Valdemar I defeated his rivals in 1157 and unified the country. Under his guidance a strong army was formed and an effective government established. Valdemar II expanded Denmark to include the Baltic and Slavonic lands to the east, as well as many towns of northern Germany. Holy crusades were declared against the Wends and Denmark gained Pomerania and Estonia (although actual control of Estonia reached just as far as Danish troops could march from their coastal forts). German weakness saw the Holy Roman Emperor grant Denmark full control over the Slav lands north of the Elbe in 1214. As most of these gains were made at the expense of Germany, there would be considerable enmity between the two nations for decades. Denmark then turned its expansionist eyes toward northern Russia.
 
@@ -638,9 +492,9 @@ In 870 A.D. the first Vikings, Norwegians led by a man named Ingolf, landed on I
 
 The early settlers discovered the hard way that it was an unforgiving country. However, the area around Reykjavik (Bay of Smoke; named for the steam rising from numerous hot springs), which was first settled by Ingolf, offered reasonable living conditions.
 
-Around the year 900, Ingolf’s son, Thorsteinn, and other local chieftains organized the Kjalarnes **Thing**. As had been the tradition in Norway, the Thing was a public meeting open to all men of free birth, and was responsible for making laws, and resolving legal disputes. As Iceland’s population grew, the nation was divided into four districts, each with its own **Landthing** and three or four smaller, local Things, and a national **Allthing** was established (see “The Thing” on page 33). The leaders of these gatherings were known as **gothar** (singular: gothi), and were the heads of local chieftain families. It is important to note that these families did not rule in the same way as the nobles had back in Norway; the class boundaries in Iceland, although present, were much more relaxed and less formal. Each Icelandic landholder had to pledge himself to one of the gothar, but not necessarily the one closest to his home, so a gothi’s political power depended on his personal prestige.
+Around the year 900, Ingolf’s son, Thorsteinn, and other local chieftains organized the Kjalarnes **Thing**. As had been the tradition in Norway, the Thing was a public meeting open to all men of free birth, and was responsible for making laws, and resolving legal disputes. As Iceland’s population grew, the nation was divided into four districts, each with its own **Landthing** and three or four smaller, local Things, and a national **Allthing** was established (see “The Thing” on [page 33](#the-thing)). The leaders of these gatherings were known as **gothar** (singular: gothi), and were the heads of local chieftain families. It is important to note that these families did not rule in the same way as the nobles had back in Norway; the class boundaries in Iceland, although present, were much more relaxed and less formal. Each Icelandic landholder had to pledge himself to one of the gothar, but not necessarily the one closest to his home, so a gothi’s political power depended on his personal prestige.
 
-<!-- p. 14 -->
+<!-- p. 14 --><a id="page-14"></a>
 
 In the year 1000, the Allthing accepted Christianity on behalf of the country. The decision was not taken lightly, and there was pressure from the Norwegian king, Olaf Tryggvason, who threatened Icelanders living in Norway. To speed the process of conversion, some concessions were granted. Christian authorities turned a blind eye to infanticide, the eating of horsemeat, and the continued (private) worship of the old gods. The first Icelandic bishop was Isleif, who was consecrated in 1056 in the German town of Bremen.
 
@@ -666,7 +520,7 @@ Shortly after the foundation of the settlements on Greenland, a ship coming to G
 
 Other Greenlanders made trips west: some returned claiming to have had encounters with hostile natives they called Skraelings, others claimed to have established temporary fishing camps on the more comfortable islands. Those who never returned from those westward journeys were assumed to have either died in encounters with Skraelings, continued exploring further south and west, or to have established permanent colonies. Whatever the answer, by the mid-11th century those voyages of exploration ceased.
 
-<!-- p. 15 -->
+<!-- p. 15 --><a id="page-15"></a>
 
 ## The Vikings in England
 
@@ -676,7 +530,7 @@ In 865, the Great Army from Denmark, Ireland, and the Continent landed in East A
 
 In 877, the Vikings made another attack on Wessex, and this time they succeeded in forcing Alfred into hiding in the marshes. Twelve months later he returned with an army and the Vikings were defeated. The Dane leader, Guthrum, agreed to be baptized along with 30 of his nobles and Alfred acted as Guthrum’s godfather. After nearly two decades the Norse held three of the four British kingdoms. Guthrum’s last act before he died was to agree on a boundary between the English and Danish lands. The Danish portion became known as the Danelaw (because the Danes could make their own laws) and the English were required to pay regular tribute. Alfred’s children slowly pushed northwards and in 920 succeeded in retaking Northumbria. Further advances were made, and by 954 England had a single king ruling a single kingdom, and he was English.
 
-<!-- p. 16 -->
+<!-- p. 16 --><a id="page-16"></a>
 
 In 980, the Vikings returned, raiding the south and west coasts. The armies of the Norse looted England for many years before Svein Forkbeard succeeded in becoming king. His son, Canute the Great, ruled England, Norway, and Denmark for a brief period of time. In 1018, the situation was so stable in England, although it had a foreign ruler, that Canute’s army was disbanded.
 
@@ -696,7 +550,7 @@ The second phase saw huge areas of Ireland plundered by large bands of Vikings. 
 
 From 916 to 980, fresh waves of invaders arrived, mainly from England and the Isle of Man. By 917, the Viking base at Dublin had been re-established and the Vikings were once more in control of the country. At the Battle of Tara in 980, the Vikings’ supremacy was smashed by an Irish coalition. After that, the Vikings in Ireland paid tribute to Irish kings.
 
-<!-- p. 17 -->
+<!-- p. 17 --><a id="page-17"></a>
 
 The fourth and final phase, between 980 and 1170, saw the remaining Vikings fully integrated into Irish culture. Although many still had Norse names, they were more Celtic than Norse. In 1170 the Normans, descendants of another Viking colony, conquered the island.
 
@@ -712,7 +566,7 @@ After Norwegians took control of the major islands, Danes invading from England 
 
 The Isle of Man is located in the Irish Sea between England, Ireland, and Scotland. At the end of the 8th century, the isle was invaded and later settled by the Vikings. From there the Norse launched raids against the nearby coasts. At its height, the Kingdom of Man covered most of the western isles and a few isolated peninsulas on the Scottish mainland. Norse was the native language of the rulers of the island, but many of the farmers spoke a heavily accented version of Gaelic. (For more on the Isle of Man, see the **Ars Magica** supplement *The Fallen Angel*.)
 
-<!-- p. 18 -->
+<!-- p. 18 --><a id="page-18"></a>
 
 > ### Earls of Orkney
 >
@@ -765,7 +619,7 @@ In 1002, King Athelred of England married Emma, sister of Richard II, Rollo’s 
 
 In 1066, William the Conqueror, Duke of Normandy, defeated an English army at Hastings and became King of England. William was a French-Norman, all links with his Scandinavian heritage having effectively disappeared. By 1204, Normandy was conquered by King Phillip Augustus of France, ending the Viking presence in France.
 
-<!-- p. 19 -->
+<!-- p. 19 --><a id="page-19"></a>
 
 ## Finland
 
@@ -777,7 +631,7 @@ The northernmost regions of Finland, Norway, and Russia were inhabited by the Sa
 
 Ottar, who served at the court of Alfred the Great, the English king who liberated his country from the Danes, was a Sami and he wrote a great deal about his native lands. He also boasted that he owned 800 reindeer, several of which were decoy animals used to lure wild reindeer away from their herds so that they could be caught.
 
-Among the Sami’s natural talents were hunting, skiing, the herding of reindeer (including training decoys), and a wide knowledge of their local area. The Sami didn’t practice the rune magic of the Norse, nor the wind magic of the Finns, but instead had their own tribal shamans (see page 64).
+Among the Sami’s natural talents were hunting, skiing, the herding of reindeer (including training decoys), and a wide knowledge of their local area. The Sami didn’t practice the rune magic of the Norse, nor the wind magic of the Finns, but instead had their own tribal shamans (see [page 64](#shamans)).
 
 Christian missionaries who entered the lands of the Sami rarely took the time to learn their language, and they were rarely made welcome by the Sami.
 
@@ -791,7 +645,7 @@ In the early 11th century peaceful relations between Scandinavia and the Baltic 
 
 Immediately after the turn of the 13th century King Valdemar II of Denmark expanded his country’s realm to include the Baltic and Slavonic lands to the east. The Wends who inhabited the area were pagans and crusades were called against them. With the help of the military order the Knights of the Sword, and the support of the bishop of Riga, Vladimir seized Pomerania and Estonia, the Holy Roman emperor granting Denmark full control over the Slav lands north of the Elbe in 1214.
 
-<!-- p. 20 -->
+<!-- p. 20 --><a id="page-20"></a>
 
 ## Russia
 
@@ -801,9 +655,9 @@ The Rus organized systems to collect the region’s natural wealth, eventually e
 
 Rus power in Russia lasted until the early 12th century, by which time the Scandinavian Rus had lost their Viking roots and considered themselves Russians. A more detailed history of the Rus can be found in *The Dragon and the Bear*, the Novgorod Tribunal sourcebook.
 
-<!-- p. 21 -->
+<!-- p. 21 --><a id="page-21"></a>
 
-<!-- p. 22 -->
+<!-- p. 22 --><a id="page-22"></a>
 
 > ### Timeline of the Norse
 >
@@ -867,15 +721,15 @@ Rus power in Russia lasted until the early 12th century, by which time the Scand
 > | 1202 | Valdemar II granted the title “king of the Danes and the Slavs” by Frederick II. |
 > | 1217 | Norwegian civil war ends when Sverri’s grandson, Haakon Haakonsson, recognized king throughout Norway. |
 
-<!-- p. 23 -->
+<!-- p. 23 --><a id="page-23"></a>
 
 ## Mythic Realms
 
-In Norse pagan belief, alongside the mundane kingdoms of Norwegians, Danes ,and Swedes were a host of mythic realms inhabited by gods, giants, and monstrous creatures (see the Norse Bestiary, beginning on page 115), all of which were as real to the Northmen as the mundane kingdoms to the west, south, and east of Scandinavia.
+In Norse pagan belief, alongside the mundane kingdoms of Norwegians, Danes ,and Swedes were a host of mythic realms inhabited by gods, giants, and monstrous creatures (see the Norse Bestiary, beginning on [page 115](#chapter-8-norse-bestiary)), all of which were as real to the Northmen as the mundane kingdoms to the west, south, and east of Scandinavia.
 
 In reality, these lands are located within Arcadia (the Realm of Faerie), accessible to dwellers in Midgard (the mundane world of men) through a number of faerie regios located in isolated Scandinavian locales. If one can find the secret location of Yggdrasil, the World Tree, any of these realms can be accessed, as its twisted roots and branches extend into all the mythological Norse lands.
 
-Surrounding Midgard are Asgard (home of the Aesir gods), Vanaheim (home of the Vanir gods), Alfheim (home of the light elves), Nifleheim (land of ice), Jotunheim (land of giants), Muspellheim (land of the fire), and Svartalfheim (land of the dark elves). Despite the physical differences and internal distances between these lands, all are located in a portion of Arcadia dominated by the powerful faerie beings who are the Norse deities, an area that can be called Norse Arcadia. Other regions within the Realm of Faerie can be reached from Norse Arcadia, most easily Slavic Arcadia (see *The Dragon and The Bear*, Slavic Faerie, page 82) which has its own world tree with roots and branches intertwined with those of Yggdrasil.
+Surrounding Midgard are Asgard (home of the Aesir gods), Vanaheim (home of the Vanir gods), Alfheim (home of the light elves), Nifleheim (land of ice), Jotunheim (land of giants), Muspellheim (land of the fire), and Svartalfheim (land of the dark elves). Despite the physical differences and internal distances between these lands, all are located in a portion of Arcadia dominated by the powerful faerie beings who are the Norse deities, an area that can be called Norse Arcadia. Other regions within the Realm of Faerie can be reached from Norse Arcadia, most easily Slavic Arcadia (see *The Dragon and The Bear*, Slavic Faerie, [page 82](#page-82)) which has its own world tree with roots and branches intertwined with those of Yggdrasil.
 
 ### Alfheim
 
@@ -891,7 +745,7 @@ Along with numerous lesser buildings and dwellings, there are 12 great halls in 
 
 Surrounding Asgard is a great wall, impregnable by the enemies of the Aesir, the giants. Connecting Asgard to Midgard is **Bifröst** (Quivering Roadway), mundanely known as the rainbow, a bridge that can only be traversed by the gods and their steeds (with Thor dismounting to walk across, as his thunderous chariot might otherwise destroy the bridge).
 
-<!-- p. 24 -->
+<!-- p. 24 --><a id="page-24"></a>
 
 ### Iarnwood
 
@@ -905,7 +759,7 @@ Jotunheim is the fearsome land of the giants, situated some distance east of Asg
 
 In the furthest southern reaches of Norse Arcadia lies the fiery land of Muspellheim, home to a race of fire giants. Prophecy states that, at the end of time, the fire giants will swarm across Midgard, burning all as they go, and that their entrance into Asgard will shatter Bifröst, signaling the end of the Norse world, Ragnarök.
 
-<!-- p. 25 -->
+<!-- p. 25 --><a id="page-25"></a>
 
 The fringes of this land are intolerably hot and dangerous to man, and as one advances into the land the fires and other hazards become fiercer until even the gods cannot survive it. A giant with a flaming sword is always present at the borders of Muspellheim to meet interlopers, no matter how they have enter the realm.
 
@@ -925,7 +779,7 @@ Hela’s domain within Nifleheim is the hall *Eljudnir* (Damp with Sleet), with 
 
 Far to the west of the inhabited lands of Norse Arcadia lies the great Outer Ocean. It was into here that Odin threw Loki’s offspring Jörmungandr, the Midgard Serpent. Food was so plentiful in the ocean that the serpent grew to such a size that it encircled the world, its back rising out of the water in humps to form a ring of islands around the ocean, its mouth clamped onto its own tail to complete the circle. No mortal sailor in his right mind enters these waters.
 
-<!-- p. 26 -->
+<!-- p. 26 --><a id="page-26"></a>
 
 ### Svartalfheim
 
@@ -947,7 +801,7 @@ Four harts, Dain, Davalin, Durathor, and Duneyr, nibble Yggdrasil’s buds. Wher
 
 It was from the trunk of Yggdrasil that Odin was hanged in order to gain the secret of the runes.
 
-<!-- p. 27 -->
+<!-- p. 27 --><a id="page-27"></a>
 
 # Chapter 3: Norse Society & Culture
 
@@ -971,7 +825,7 @@ It is likely that, in the early years of Viking expansion, many raids were condu
 
 The Roman Catholic Church was opposed to slavery, especially when Christians were the slaves of Christians and, upon conversion, many pagan chieftains freed their Christian thralls as an act of piety and humbleness before God. Although the Church couldn’t stamp out slavery, in later periods the trade in Christian slaves became a crime.
 
-<!-- p. 28 -->
+<!-- p. 28 --><a id="page-28"></a>
 
 Wealthy landowners and noblemen had many slaves to work their land, and even the smallest free hold had at least one thrall to perform menial chores. Heavy labor was the standard duty of most farm thralls; they herded cattle, tended pigs, cut wood, spread manure on fields, and were responsible for harvesting crops. Female slaves (**ambatt**) were responsible for churning milk, milking cows, and cooking meals for the landowners. Thralls with valued skills, such as carpenters and metalworkers, enjoyed a better life, as did beautiful women, who were often kept purely for show.
 
@@ -985,7 +839,7 @@ Thralls could be given their freedom outright by their masters, or by being perm
 
 In some areas a freed thrall could become a carl after living in the area for many years, while other areas only gave the status of carl to his children or his children’s children.
 
-<!-- p. 29 -->
+<!-- p. 29 --><a id="page-29"></a>
 
 ### Carls
 
@@ -1015,13 +869,13 @@ Hersar received their authority from their king, as well as a land grant. The po
 
 The hersar were expected to lead men in battle, collect tributes due the konung (including the guest tax when a king visited the region), enforce his royal decrees, and influence the choosing of local lawspeakers.
 
-<!-- p. 30 -->
+<!-- p. 30 --><a id="page-30"></a>
 
 Whereas hersar were local powers, jarls were second only in power to kings. They wielded great power and authority, and controlled huge geographical areas. In the Viking Age, many jarls were independent of kings, but in Christian times they fell increasingly under royal power, as much for their own welfare as out of loyalty to the crown.
 
 Jarls kept large households and ruled large districts. They had dozens of huscarls at their disposal and could, in times of need, raise large armies from among their dependents. Indeed, they were sworn to protect those who had sworn allegiance to them. Jarls were rarely granted control of cities or towns, as these lucrative tax sources were reserved for the king and his favorites.
 
-Retainers who left their families to permanently live with and work for a noble become part of the lord’s **hird** (household staff, or, quite literally, “herd”); see page 31.
+Retainers who left their families to permanently live with and work for a noble become part of the lord’s **hird** (household staff, or, quite literally, “herd”); see [page 31](#page-31).
 
 At the height of the Viking Age, Norway had around 100 hersar and 16 jarls. Sweden had similar numbers and Denmark, being far smaller than the other Scandinavian countries, although it had the greatest population, had much fewer. The colonies of Orkney and the Isle of Man had only a single jarl each, and perhaps a dozen hersar.  On the Isle of Man, the jarl titled himself king and had the full authority of the position.  The Shetlands were ruled by a few hersar and a single jarl.
 
@@ -1039,9 +893,9 @@ Upon the Church’s entry into Scandinavian politics insistence was made that il
 
 Konungr kept great wealth around them and had many skalds to sing their praises. These songs were not hollow boasts, for a king was expected to lead his men from the front in battle, often leading to short-lived kings.
 
-<!-- p. 31 -->
+<!-- p. 31 --><a id="page-31"></a>
 
-Upon death, a king hoped to go to Valhalla and spend eternity with men of similar social status. In pagan times, kings were buried in large mounds along with ornately carved weapons and precious artifacts. Many mounds were warded with magical traps and in some cases a **hagbui** (grave undead; see page 121) was placed within the mound.
+Upon death, a king hoped to go to Valhalla and spend eternity with men of similar social status. In pagan times, kings were buried in large mounds along with ornately carved weapons and precious artifacts. Many mounds were warded with magical traps and in some cases a **hagbui** (grave undead; see [page 121](#page-121)) was placed within the mound.
 
 In Christian times, kings were no longer protected by hagbui; the sanctity of a Christian burial was considered sufficient. A burial mound full of grave goods was replaced by a simple interment, followed by the erection of a rune-carved memorial stone in the graveyard, at a prominent location (such as a bridge or crossroads), or as part of the walls of a church.
 
@@ -1063,7 +917,7 @@ While many members of the hird traveled with the king, others held permanent pos
 
 The king was always in contact with his hird via messengers, although once per year, normally at Yuletide, the entire hird gathered at the lord’s hall. New members could be appointed at any time by the king or jarl, but the hird could veto the decision.
 
-<!-- p. 32 -->
+<!-- p. 32 --><a id="page-32"></a>
 
 ## Personal Virtues
 
@@ -1105,7 +959,7 @@ The archetypal Viking was a fierce and courageous man, willing to fight any fair
 
 The Vikings were far from welcome in the countries of northern Europe, but in their own countries they greatly respected strangers who came to their doors. A traveler who arrived at a Norseman’s house could reasonably expect to be greeted cordially and invited in for food and shelter. The safety of the guest was also the host’s responsibility. The visitor had certain obligations himself; he was expected to tell his host if he was an outlaw or was involved in a blood feud, and he was to leave any weapons at the door, although he could carry a knife to eat with.
 
-<!-- p. 33 -->
+<!-- p. 33 --><a id="page-33"></a>
 
 A host wasn’t supposed to ask his guest the reason for his travels, but tradition dictated that the guest would divulge this on his own during the meal, unless he had something to hide.
 
@@ -1135,7 +989,7 @@ The Things were semi-democratic assemblies that could pass laws and make judgeme
 
 The leader of a Thing was known as the Lawspeaker and he was elected by the carls in attendance. His task was to make sure that the laws were made known to the assembly at the start of the Thing and that the proceedings were in accordance with those laws. The Lawspeaker was expected to remember at least one third of the laws of the country.
 
-<!-- p. 34 -->
+<!-- p. 34 --><a id="page-34"></a>
 
 While officially, the position held little weight outside of the Thing, especially as a new Lawspeaker could be elected at each gathering, in practice certain respected men would be elected Lawspeaker repeatedly, gaining a certain amount of prestige throughout the community even away from the Things.
 
@@ -1149,7 +1003,7 @@ The jury’s job was to help both parties reach an agreement as to what a suitab
 
 If a man was killed, his family would be entitled to compensation called **weregeld** (man-price). The weregeld was the value placed on a man’s life based on his social class, influence, and holdings.
 
-<!-- p. 35 -->
+<!-- p. 35 --><a id="page-35"></a>
 
 > ### Holmganga
 >
@@ -1188,7 +1042,7 @@ The Thing normally lasted for several days and was an excuse for other festiviti
 >
 > A married woman or widow had a weregeld equal to her husband’s, while unmarried women were worth half their father’s value.
 
-<!-- p. 36 -->
+<!-- p. 36 --><a id="page-36"></a>
 
 ## Recreation
 
@@ -1214,7 +1068,7 @@ Living so intimately with the sea, Scandinavians found swimming to be a normal p
 
 Three common types of swimming contest were water wrestling, where the idea was to keep an opponent’s head under water until he surrendered; distance swimming, where the swimmers swam out to sea, the winner being the last one to turn back to shore; and regular swimming races.
 
-<!-- p. 37 -->
+<!-- p. 37 --><a id="page-37"></a>
 
 ### Knattleikr
 
@@ -1236,9 +1090,9 @@ Until the arrival of Christianity, illegitimate children were accepted as part o
 
 Clans were groups of families tied together by blood or by marriage, forming an extended family unit. A crime committed by a single clan member cast shame on every clan member, no matter how tenuous the relationship between them.
 
-The clan had some highly useful benefits. If a weregeld (see page 35) had to be paid, every clan member was expected to contribute to the sum. The exact amount owed by any family member was governed by a system of shares: the murderer paid the largest share to the victim’s immediate heirs, his brothers paid a brother’s share to the victim’s brothers, and so on. Arguments over who should pay what were common, and in some cases led to bad blood between families within clans. If a clan member was murdered and vengeance was sought the entire clan was expected to help in whatever way it could. The men often formed posses to find and dispatch their own justice to the offender before he could be brought before the Thing. A large clan could dominate a local Thing and would become a separate power unto itself, even rivalling that of a jarl or konung.
+The clan had some highly useful benefits. If a weregeld (see [page 35](#weregeld)) had to be paid, every clan member was expected to contribute to the sum. The exact amount owed by any family member was governed by a system of shares: the murderer paid the largest share to the victim’s immediate heirs, his brothers paid a brother’s share to the victim’s brothers, and so on. Arguments over who should pay what were common, and in some cases led to bad blood between families within clans. If a clan member was murdered and vengeance was sought the entire clan was expected to help in whatever way it could. The men often formed posses to find and dispatch their own justice to the offender before he could be brought before the Thing. A large clan could dominate a local Thing and would become a separate power unto itself, even rivalling that of a jarl or konung.
 
-<!-- p. 38 -->
+<!-- p. 38 --><a id="page-38"></a>
 
 > ### The Origin of Poetry
 >
@@ -1270,7 +1124,7 @@ Sexual crimes, committed by either a man or woman, were harshly punished. In 11t
 
 In pagan Scandinavia, unwanted children were left in the wilderness to die. The Church banned this practice, except in the case of deformed babies, but the old custom was still carried out, especially in rural areas where the hold of the Church was weak. Children were given toys that reflected the world into which they would grow: toy ships and weapons for boys, miniature looms and cooking utensils for girls. Childhood ended early in the Norse lands, and from an early age children were taught skills which would be useful to them in their adult life.
 
-<!-- p. 39 -->
+<!-- p. 39 --><a id="page-39"></a>
 
 ## Marriage
 
@@ -1290,7 +1144,7 @@ The Church did not require that a couple be married on church grounds or by a pr
 
 Until 1215, the Church disallowed marriages between kin closer than seven degrees of relationship, a measure of consanguinity that would include sixth cousins, for example. A prohibition that extensive proved unworkable for obvious reasons, and in 1215 it was reduced to the fourth degree, with marriage to third cousins (which would still be invalid by this measure) permissible with special dispensation from the Church.
 
-<!-- p. 40 -->
+<!-- p. 40 --><a id="page-40"></a>
 
 ## Fostering
 
@@ -1312,7 +1166,7 @@ Scandinavians had no family names. Every child was given a first name only. Most
 
 People of renown, or those who traveled to other parts of the Scandinavian world, sometimes added the place of their birth or fame to their name. Some Norsemen were best known by nicknames describing personality or physical traits. Not all nicknames were complimentary, and the person generally had little choice about the nickname given him by others.
 
-<!-- p. 41 -->
+<!-- p. 41 --><a id="page-41"></a>
 
 ## Daily Life
 
@@ -1324,7 +1178,7 @@ The floor of the stead was dirt, covered with straw, and sometimes scented to ma
 
 Along one long wall of the house, normally that wall opposite the door, was a wooden bench that extended for the length of the house. This area was used for eating and general seating, and also served as a sleeping platform. The master of the house and his wife had a section at one end of the platform, and they had a wooden bed which could be lifted and used as storage space. The other sleeping areas were generally wooden frames filled with sleeping furs. Brothers and sisters generally shared a sleeping area until they reached puberty. It was not unusual in large families to find brothers sharing a single bed, and sisters another. The sleeping areas could be sectioned off with curtains if more privacy was desired.
 
-<!-- p. 42 -->
+<!-- p. 42 --><a id="page-42"></a>
 
 Thralls either slept on the floor of their master’s stead, or were given their own huts. These were cramped wooden or turf affairs with thatched roofs. They had little room for furniture, and even less for personal belongings.
 
@@ -1352,7 +1206,7 @@ The Norsemen enjoyed several different alcoholic beverages. Beer was extremely c
 
 Fresh meat available in Scandinavia included lamb, beef, pork, venison, rabbit, bear, squirrel, walrus, and a variety of birds. Scandinavians preserved meats for transportation or storage over long winters by salting, smoking, drying, and pickling. A variety of herbs and spices, including salt imported from France and spices from as far afield as Constantinople, were used in the process. Meat was cooked by boiling or roasting on spits, as well as by being placed in a wood-lined pit and cooked by stones heated in a fire.
 
-<!-- p. 43 -->
+<!-- p. 43 --><a id="page-43"></a>
 
 The Norse did not grow many vegetables, as the Scandinavian soil and geography prohibited it. Beans and peas were exceptions, and wild fruits, berries, and nuts were used to supplement the diet.  Apples were sometimes grown in orchards.
 
@@ -1368,7 +1222,7 @@ The most stylish of Scandinavian clothing was also practical. The simplest garme
 
 Footwear consisted of shoes, or ankle- or knee-high boots. The most common material for a shoe’s upper was goat-skin, and the sole, normally thick leather, was separate and stitched to the upper. A strap held the shoe to the foot. The strap could have a buckle, depending on the wealth of the owner, and wrapped around the entire foot, rather than being a part of the shoe itself.
 
-<!-- p. 44 -->
+<!-- p. 44 --><a id="page-44"></a>
 
 Most clothes were  made of wool or linen, although other fabrics were sometimes imported. Silk was a rare commodity in Scandinavia and only the wealthy could afford to purchase it from merchants who had traveled to Constantinople. Fur was used for cloaks or trim. Clothes were often dyed with natural dyes, walnut being a favorite as brown was a popular color. Blues and greens were also used, but mainly for small garments and trim.
 
@@ -1390,7 +1244,7 @@ The only coin commonly minted was the silver **pfenning** (penny), but there wer
 
 Within Scandinavia, the professional manufacture of goods began in the 10th century, at roughly the same time that market towns began to grow and prosper. At that time common people could afford professionally-made items as easily as they could local items. As the heyday of Vikings raiders passed, Scandinavian traders took over the same sea routes, traveling not only to the distant corners of the Norse world, but to every part of Europe and even to northern Africa.
 
-<!-- p. 45 -->
+<!-- p. 45 --><a id="page-45"></a>
 
 Frequently imported items included swords and mail from the Frankish empire, wine, grain, silk from the East, furs, spices and salt, glassware and pottery. Locally, Scandinavians could trade for leather wares, textiles, foodstuffs, and forged iron tools. Within reason, Scandinavian merchants could acquire any product manufactured in Europe or the distant East.
 
@@ -1400,7 +1254,7 @@ Scandinavia exported a wide range of products, such as furs, hides, Baltic amber
 
 Standard Norse ship construction followed a set pattern for both warships and cargo ships. First, a keel was laid, across which were placed wooden ribs which would strengthen the ship by joining its sides together across the middle. Curved planks of wood ran from bow to stern, each overlapping its neighbor with the gaps between them stuffed with animal hair to make them watertight. Where possible, the planks were cut from naturally curved trees so they didn’t have to be forced into place. The planks were lashed together (instead of being nailed), and this flexible construction allowed a Viking ship to bend in rough seas instead of breaking during storms. Sometimes the stem-post of a warship was carved into a dragon head or other image, but this was not common practice.
 
-<!-- p. 46 -->
+<!-- p. 46 --><a id="page-46"></a>
 
 A Viking ship was steered with a large oar attached to the right (starboard: “steer board”) side of the stern; a single man could steer the ship under normal conditions. Power came from square-cut sails and from oars pulled by crewmen in shifts. The mast could be lowered and raised for safety during storms, and to allow ships to approach vessels with less visibility. To secure the ship at night, large iron anchors were dropped overboard.
 
@@ -1506,7 +1360,7 @@ As the Viking Age came to an end, dragon-ships gave way to ships sporting bigger
 > *Total Tonnage*: 70<br>
 > *Cargo Capacity*: 10
 
-<!-- p. 47 -->
+<!-- p. 47 --><a id="page-47"></a>
 
 ## Religion
 
@@ -1534,7 +1388,7 @@ Before Christianity became Sweden’s official religion, all Swedes were require
 
 Unbeknownst to the Christians, this did not stop the pagan ceremonies at Uppsala. The power of the place could not be so easily dismissed, and a faerie regio sprang up on the spot, within which an echo of the pagan temple still stood, occupying the same ground as the Christian church. The faerie regio could only be entered at one point, through a remnant of the sacred grove of trees in a Christian cemetery adjacent to the church, and only at Yuletime.
 
-<!-- p. 48 -->
+<!-- p. 48 --><a id="page-48"></a>
 
 On dusk of the first night of Yule, the faerie aura of the first level of the regio increases to 5, overcoming the level 4 Dominion aura of the cemetery, and allowing pagans to enter the regio (the base ease factor to enter the regio is (2 x the regio’s aura of 5) + 6, or a total of 16 on a stress die roll, but pagans have a +5 on their roll). At the dawn after the 13th day of Yule, the faerie aura weakens to 3, trapping within the regio any who had not left in a timely fashion.
 
@@ -1544,7 +1398,7 @@ Every ninth Yule, at the time of the major sacrifice in the sacred grove, the bo
 
 ### Yule
 
-Celebrated at the winter solstice, Yule lasted 13 nights, the march-space between one year and another, the border where the worlds overlapped. All that happened between the first sunset and the last dawn of Yule was mightier than at any other time of the year. Yule was particularly the time to swear oaths on the praise cup, or the holy boar, an animal sacrificed to Freyr (or Freyja). While all oaths were holy (see “Honor” on page 32), those spoken on Yule nights were the holiest of all.
+Celebrated at the winter solstice, Yule lasted 13 nights, the march-space between one year and another, the border where the worlds overlapped. All that happened between the first sunset and the last dawn of Yule was mightier than at any other time of the year. Yule was particularly the time to swear oaths on the praise cup, or the holy boar, an animal sacrificed to Freyr (or Freyja). While all oaths were holy (see “Honor” on [page 32](#honor)), those spoken on Yule nights were the holiest of all.
 
 Odin was the most important of the Yule gods, and it was at this time that the lord of the gods traveled on his eight-legged horse, Sleipnir, across Midgard, delivering gifts to warriors who had impressed him over the year, sometimes dropping the gifts through the chimney hole in a stead’s roof. In imitation, a lord would often invite his dependents to his hall to reward them for their loyalty and hard work over the past year, and exchanging gifts was common at Yuletime among all classes. Skadi and Ullr, as deities of snow and ice, also had important functions at Yule.
 
@@ -1554,7 +1408,7 @@ The Church adopted the Yule tradition, merging it with the celebration of Christ
 
 Held near the end of January, Thorri was a lesser blöt celebrating the fact that the nights were getting shorter again. Ritual dramas portraying how Thor defeated various frost giants were appropriate at this time of year, symbolizing the retreat of winter.
 
-<!-- p. 49 -->
+<!-- p. 49 --><a id="page-49"></a>
 
 ### Disablöt
 
@@ -1586,7 +1440,7 @@ This feast marked the end of harvest and the change from summer into winter. It 
 >
 > **The Drama.** Myths were commonly reenacted at blötar. The choice of story portrayed depended on the time of year and the purpose of the sacrifice.
 
-<!-- p. 50 -->
+<!-- p. 50 --><a id="page-50"></a>
 
 ## Personal Worship
 
@@ -1608,7 +1462,7 @@ The bersarkr was the ultimate symbol of the Odin cult. Immune to pain in battle 
 
 Thor was worshipped by the ordinary men of the community in his guise of friend of mankind, sworn to protect worshippers from harm; his symbol, the hammer, was a ubiquitous talisman among the pagan Norse, used on boundary stones, at the birth of a child, at weddings, and on stones to commemorate the dead. Thor’s image was carved on the pillars next to the highseat of houses, and he was prayed to for good weather, good fortune, and protection. The blow of a hammer on an anvil was used to seal oaths, and he presided over the Thing in pagan times; even in Christian times the Thing was traditionally opened on a Thursday — Thor’s day.
 
-<!-- p. 51 -->
+<!-- p. 51 --><a id="page-51"></a>
 
 ### Cult of Freyr
 
@@ -1618,7 +1472,7 @@ Freyr symbolized fertility, and a number of wild or powerful animals were sacred
 
 The cults of the goddesses cannot be ignored. The Great Goddess, the Earth Mother, called variously Nerthus, Jord, and Frigga (all three possibly the same person) was an object of veneration, but her worship was often secret and restricted to women. As queen of heaven, she saw all, and her worshippers could have the gift of prophecy. The sagas tell of shrines in deep woods and wagons carrying her image as in the worship of Freyr.
 
-Freyja, the sister of Freyr, was most often seen as looking up from the underworld rather than down from heaven. Her followers practiced **seithr**, the “unclean” magic of women (see page 63).
+Freyja, the sister of Freyr, was most often seen as looking up from the underworld rather than down from heaven. Her followers practiced **seithr**, the “unclean” magic of women (see [page 63](#page-63)).
 
 ## The Gods of the Norse
 
@@ -1636,13 +1490,13 @@ Listed on the following pages are descriptions of the most important Norse gods;
 >
 > Many Seekers firmly believe that there are still Old Ones who have not disappeared from the world, and the stories of Odin donning a disguise and walking among mortal men causes great excitement to them, despite the fact that there are no reports of the All-Father on Earth since Christian churches began dotting the countryside.
 
-<!-- p. 52 -->
+<!-- p. 52 --><a id="page-52"></a>
 
 **Baldur:** Hailed as the most beautiful of the gods, Baldur, the son of Odin and Frigga, was also the god of justice. In response to a vision in which Baldur was slain, his mother extracted a promise from all things on Earth, both living and unliving, that they would not harm her son. Only mistletoe was excluded, as Frigga thought it too insignificant to be dangerous. One day the other gods took to throwing things at Baldur to test his invulnerability, and Loki gave a spear of mistletoe to the blind god Hodur to throw. The spear struck and killed Baldur.
 
 Baldur had a chance at resurrection if only everything on Earth, living and unliving, wept for Baldur, but despite almost universal despair, the giantess Thaukt (actually Loki in disguise) refused to weep, so Baldur was destined to remain in Eljudnir until the end of the world.
 
-At Baldur’s funeral, Odin placed his magical ring Draupnir on the pyre and whispered the word “Rebirth” into his ear, symbolizing what was to come after Ragnarök (see “The End,” on page 131).
+At Baldur’s funeral, Odin placed his magical ring Draupnir on the pyre and whispered the word “Rebirth” into his ear, symbolizing what was to come after Ragnarök (see “The End,” on [page 131](#the-end)).
 
 Baldur possessed a magical boat known as *Hringhorn* (Curved Prow).
 
@@ -1672,7 +1526,7 @@ Heimdall could see for hundreds of miles perfectly in light or dark, could hear 
 
 Aside from his magical horn, Heimdall also possessed a magic sword, Höfud.
 
-<!-- p. 53 -->
+<!-- p. 53 --><a id="page-53"></a>
 
 **Hela:** A child of Loki by the giantess Angurboda, and sister to the Fenris Wolf and the Midgard Serpent, Hela was banished from Asgard by Odin and became ruler of Nifleheim, a frozen wasteland and domain of the dead unclaimed by Odin or the other gods.
 
@@ -1702,7 +1556,7 @@ Odin delighted in mixing with mortals while in disguise, although he was often r
 
 Odin had two ravens, *Hugin* (thought) and *Munin* (memory), that flew around the world and reported all they saw and heard to him. His horse, Sleipnir, had eight legs and was the fastest steed in existence, capable of traveling through air and even to the underworld. Each of Sleipnir’s teeth had a different rune engraved upon it. Amongst Odin’s other animal companions were two wolves, *Freki* (Gluttonous) and *Geri* (Greedy), who sat next to his throne.
 
-<!-- p. 54 -->
+<!-- p. 54 --><a id="page-54"></a>
 
 Odin possessed Gungnir, a spear that never missed its target, and Draupnir, a magic arm ring that formed nine non-magical gold duplicates of itself every night. He also had a magic whetstone that could make weapons dangerously sharp.
 
@@ -1726,7 +1580,7 @@ Thor was a great enemy of the giants and had many adventures in Jotunheim. Stran
 
 **Vidar:** The silent son of Odin, he was rarely worshipped openly. He lived away from the other gods, but always kept a horse saddled so that he could speed to avenge his father’s death at Ragnarök, using a great leather boot crafted from the scraps of leather left on the floors of cobblers throughout Mythic Scandinavia. In the reborn world afterward, he will be known as a god of vengeance.
 
-<!-- p. 55 -->
+<!-- p. 55 --><a id="page-55"></a>
 
 ## Christianity
 
@@ -1746,7 +1600,7 @@ The first churches in Denmark were erected around 870 in Hedeby and Ribe. By 948
 
 The conversion of Norway began when Harald Finehair sent his son Haakon to be fostered by the Christian English king, Athelstan in the late 9th century. In 995, King Olaf Tryggvasson began a crusade of conversion and brought English bishops to Norway to help. Although many noblemen were baptized, resistance came from the common people. Slow expansion followed and by the early 13th century most coastal areas had been successfully converted, leaving only the rougher and almost impassable interior pagan.
 
-<!-- p. 56 -->
+<!-- p. 56 --><a id="page-56"></a>
 
 > ### The Bible and the Myths
 >
@@ -1774,7 +1628,7 @@ Many noblemen found their power weakened by the new faith. The Church preferred 
 
 Similarly, vitki were banned from using their pagan magics on pain of public flogging, but many Christian noblemen kept them handy as advisors, and as magical aides in case the power of the Christian god failed.
 
-<!-- p. 57 -->
+<!-- p. 57 --><a id="page-57"></a>
 
 The common man received less material aid than noblemen when converting to Christianity, but missionaries also gave him hope, telling him that all men were equal, and that by living a good life he could reach Heaven. Slaves were freed and prisoners redeemed, allowing them to attain a better afterlife than their pagan gods would have granted them.
 
@@ -1797,7 +1651,7 @@ Some magi living in tribunals close to Scandinavia (and Sinus Wodinis, the House
 > - The Order of Odin never existed and it is a combination of other mundane forces that are keeping the Order of Hermes out of Scandinavia: prejudice, paranoia, climatic difficulties, the region’s isolation from southern European politics and culture, a lack of recruits because of the local preference for magic based in its cultural heritage, and so on.
 > - The Order of Odin didn’t exist in the past, but the encroachments of the Order of Hermes have convinced some vitki to create their own organization for protection. How can this fledgling order hope to survive in the face of the established and powerful enemy approaching from the south? And is this new order behind the troubles besetting Sinus Wodinis (as described on page 62 of *The Mythic Seas*)?
 
-<!-- p. 58 -->
+<!-- p. 58 --><a id="page-58"></a>
 
 ## Warfare
 
@@ -1811,7 +1665,7 @@ The lowest form of professional warrior were the **gestr**, who were little more
 
 There were also three types of specialist warrior; the **bersarkr**, **ulfednar**, and **svinfylking**. The bersarkr (“bear-shirts”) were fierce warriors, dedicated to their lord and to Odin, and capable of literally going berserk in combat. They normally fought in groups. The ulfednar (wolf-warriors) had similar attributes as the bersarkr (and were also dedicated to Odin), but did not enter such a battle rage and generally fought alone. Many of these warriors were rumored to be able to assume the form of wolves. The svinfylking (boar-warriors) were trained to fight in a wedge formation reminiscent of a boar’s head and often acted as scouts. Although the svinfylking were not dedicated as a group to Freyr, some would ask for his blessing before battle.
 
-<!-- p. 59 -->
+<!-- p. 59 --><a id="page-59"></a>
 
 When there were no wars to fight, the members of the hird patrolled their master’s land watching for bandits or attackers, kept the peace in villages, and trained new recruits. More lucrative duties included bodyguard duty to their master, or escorting him or his family members on journeys.
 
@@ -1835,7 +1689,7 @@ Armor was an expensive and rare commodity, often imported and rarely buried with
 
 Compared to the rest of Europe, Norse settlements were almost devoid of fortifications. Market towns and harbors were protected by low ramparts, circular or semi-circular in shape, built using fill from the excavation of exterior ditches. Wooden palisades ran along the tops of the ramparts. Timber-lined gateways completed the structures. If an area was attacked, men and animals could be taken inside the rampart and the gates closed. Independent fortified buildings and castles were unheard of until the late 12th century, and were rare in the 13th.
 
-<!-- p. 60 -->
+<!-- p. 60 --><a id="page-60"></a>
 
 Fjords, beaches, and narrow river channels were strategically blocked with underwater wooden stakes or large stones to prevent landings by enemy forces. Some river channels were permanently blocked in this way, and pilots had to know their way through the defenses or risk running aground.
 
@@ -1861,7 +1715,7 @@ The svinfylking formed their boar-head battle formation with two champions fight
 
 Whoever was leading the attack rode at the front of the army accompanied by his most loyal and trusted huscarls. His position in battle was marked by his battle standard, which was carried by a huscarl who had proven himself courageous and fiercely loyal in battle. The standard bearer’s job was vital, for if the standard fell the army would fear that its leader was dead or captured, and might withdraw from the field.
 
-<!-- p. 61 -->
+<!-- p. 61 --><a id="page-61"></a>
 
 # Chapter 4: Character Creation
 
@@ -1875,9 +1729,9 @@ If taking the first option, it must be remembered that, while the characters in 
 
 If the second option is picked, native Norse characters can fill the magus, companion, and grog roles. The magus is replaced by a Norse vitki or Finnish wind wizard who, while less powerful, will receive much more respect in Norse society than a magus would elsewhere in Mythic Europe. Companions represent people who have made names for themselves, whether that be as skalds, important warriors (huscarls), or even as the jarl’s favorite juggler. Lastly, there are the grogs: professional warriors (dreng), carl farmers, a craftsman’s apprentices, or, rarely, thralls. Even a huscarl could be a grog, accepting a position of willing servitude because of loyalty to a lord.
 
-The third option will perhaps be the least confusing to the average player, but will also make less use of the opportunities presented by the Norse culture and political situation. If a mixed Norse/Hermetic covenant is being assembled, Norse vitkir and Finnish wind wizards can take mystic companion slots. (Mystic companions can occupy either a player’s companion or magus slot, at the troupe’s option. A more complete discussion can be found in *Hedge Magic*, pages 31 - 32)
+The third option will perhaps be the least confusing to the average player, but will also make less use of the opportunities presented by the Norse culture and political situation. If a mixed Norse/Hermetic covenant is being assembled, Norse vitkir and Finnish wind wizards can take mystic companion slots. (Mystic companions can occupy either a player’s companion or magus slot, at the troupe’s option. A more complete discussion can be found in [*Hedge Magic*, pages 31 - 32](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>))
 
-<!-- p. 62 -->
+<!-- p. 62 --><a id="page-62"></a>
 
 ## Norse Spell Casters
 
@@ -1899,7 +1753,7 @@ Unlike a Hermetic magus, a vitki is brought up to represent his people and to de
 
 A Norse vitki does not use magic like Hermetic magus, but instead taps into the mystic power of the ancient runes, which were first used by the god Odin. Each vitki starts with the knowledge of all 24 runes at a rudimentary level; a score of 0 with each rune. The vitki has 50 points to spend on learning more about specific runes and these are spent in a manner similar to that of magi purchasing their Arts (see ArM4 page 60).
 
-For further information on the runes and how to use them, see the Performing Norse Magic and Runes and Their Powers chapters. Descriptions of the magical abilities of a vitki are detailed below in the “New Abilities” section beginning on page 69.
+For further information on the runes and how to use them, see the Performing Norse Magic and Runes and Their Powers chapters. Descriptions of the magical abilities of a vitki are detailed below in the “New Abilities” section beginning on [page 69](#new-abilities).
 
 ### Virtues and Flaws
 
@@ -1909,7 +1763,7 @@ Not all the standard **Ars Magica** Virtues and Flaws are open to a vitki, while
 
 **Patron** (variable): Whether it be a powerful jarl, a clan chief’s warband, or a small fishing village, the vitki has attached himself to an individual or community that provides him with the basics of life (food, shelter, and warmth) in return for favors and aid in times of need. It is the vitki’s lot in life to aid those in need, and his apprenticeship has prepared him for such service. The vitki is generally regarded as a counsellor to his patron and may be called upon to give advice or help pass judgement at a Thing.
 
-<!-- p. 63 -->
+<!-- p. 63 --><a id="page-63"></a>
 
 Unlike the Patron Virtue on ArM4 page 44, the cost of a vitki’s patron depends on its size and status, as shown below.
 
@@ -1963,13 +1817,13 @@ Due to the nature of vitkir, they may take the –1 Flaw: Magical Air (ArM4 47),
 *In sorrow fall asleep.*<br>
 — From the *Havamal*
 
-The seithkonur (singular seithkona) practice **seithr**: witchcraft. They are almost exclusively female; the rare male practitioners are called seithmathr and must be Transvestites (a –2 Flaw; see WGRE, page 66). Seithr is seen as unclean magic by the Norse: while rune-use was a gift of the god Odin, seithr was taught to women by Gullveig (“Goldbranch”), a goddess (some say giantess) so wicked that she introduced greed to the gods, sparking the war between the Aesir and the Vanir. The Aesir eventually had her burned three times, but she was so evil that the clean flames would not consume her flesh.
+The seithkonur (singular seithkona) practice **seithr**: witchcraft. They are almost exclusively female; the rare male practitioners are called seithmathr and must be Transvestites (a –2 Flaw; see WGRE, [page 66](#page-66)). Seithr is seen as unclean magic by the Norse: while rune-use was a gift of the god Odin, seithr was taught to women by Gullveig (“Goldbranch”), a goddess (some say giantess) so wicked that she introduced greed to the gods, sparking the war between the Aesir and the Vanir. The Aesir eventually had her burned three times, but she was so evil that the clean flames would not consume her flesh.
 
 Despite this appalling reputation, the seithkonur are consulted more frequently by the Norse than any other magical practitioners; despite the fact that they are forced to keep their powers a secret from the authorities, somehow the common folk seem to know where to find them when a need develops, and they maintain the seithkonur’s secret out of self-interest.
 
-In most respects, the seithkonur are identical to the cunning-folk of *Hedge Magic*, and their magic is a consequence of a long association with faeries (the landvaettir). Instead of the Visions Exceptional Ability, a seithkona makes use of a *fylgja*, an animal spirit that tends to attach itself to certain families. She can borrow the shape of her fylgja and, while her body goes into a sleep-like state, she can travel abroad in spiritual form. This ability is covered by the Exceptional Talent Hamfarir, detailed on page 73. The fylgja can also come to the seithkona in dreams to warn her of danger. In this respect they grant the witch the Talent of Premonitions — see “Changed Virtues,” page 71. However, they also possess a Bad Reputation as witches, which begins at a level of 2.
+In most respects, the seithkonur are identical to the cunning-folk of *Hedge Magic*, and their magic is a consequence of a long association with faeries (the landvaettir). Instead of the Visions Exceptional Ability, a seithkona makes use of a *fylgja*, an animal spirit that tends to attach itself to certain families. She can borrow the shape of her fylgja and, while her body goes into a sleep-like state, she can travel abroad in spiritual form. This ability is covered by the Exceptional Talent Hamfarir, detailed on [page 73](#page-73). The fylgja can also come to the seithkona in dreams to warn her of danger. In this respect they grant the witch the Talent of Premonitions — see “Changed Virtues,” [page 71](#changed-virtues). However, they also possess a Bad Reputation as witches, which begins at a level of 2.
 
-<!-- p. 64 -->
+<!-- p. 64 --><a id="page-64"></a>
 
 Many seithkona have preserved the knowledge of the rituals of worship associated with the Vanir, and may be priestesses of Freyja.
 
@@ -1985,7 +1839,7 @@ The *fylgjur* (singular: fylgja) are animal spirits that attach themselves to ce
 
 Fylgjur are, for the most part, invisible and immaterial. Those who can see them (characters with Second Sight or Faerie Sight, for example) say that they always take the form of an animal, and they are attracted to persons who have characteristics of that animal. The fylgjur of seithkonur are most often falcons, cats, and hares — the animals associated with the goddess Freyja.
 
-Fylgjur usually have Magic Mights of about 10, and rarely have any significant powers. They are roughly as intelligent as children, but have little ability to interact with the physical world. They are also unable to speak. The only people who can feel them (should the fylgjur wish it) are those to whom they have attached themselves, which, in game terms, are represented by two Virtues: Hamfarir (page 73) and Premonitions (page 71).
+Fylgjur usually have Magic Mights of about 10, and rarely have any significant powers. They are roughly as intelligent as children, but have little ability to interact with the physical world. They are also unable to speak. The only people who can feel them (should the fylgjur wish it) are those to whom they have attached themselves, which, in game terms, are represented by two Virtues: Hamfarir ([page 73](#page-73)) and Premonitions ([page 71](#page-71)).
 
 ## Shamans
 
@@ -1997,9 +1851,9 @@ Characters who can shapechange, normally found in shamanic tribes across the wor
 
 ## Wind Wizards
 
-Another possible magic-using character type is the Finnish wind wizard, an outsider to both Norse and mainland European society. Details about this character type are found in the Other Magic Systems chapter, beginning on page 107.
+Another possible magic-using character type is the Finnish wind wizard, an outsider to both Norse and mainland European society. Details about this character type are found in the Other Magic Systems chapter, beginning on [page 107](#chapter-7-other-magic-systems).
 
-<!-- p. 65 -->
+<!-- p. 65 --><a id="page-65"></a>
 
 ## Norse Grogs and Companions
 
@@ -2021,7 +1875,7 @@ Most of the social classes linked to Flaws in the **Ars Magica** rulebook are no
 
 **Mendicant** (+1): As the Church continues to push into the heartland of Scandinavia, more and more mendicants are moving among the population, spreading the word of God. There is no difference between the mendicants in Scandinavia and those found elsewhere.
 
-<!-- p. 66 -->
+<!-- p. 66 --><a id="page-66"></a>
 
 **Smithr** (+1): You have a reputation as a craftsman. You are considered to be part of the carl class, but command a great deal of respect because of your talents. Accomplished blacksmiths and ship-builders are especially honored, though other trades of note are rune-carvers (making memorial stones), masons, and woodcarvers — basically any manual trade. You begin play with the Reputation “Skilled” at level 2, but you had better have the skill to back this up or it will quickly be lost.
 
@@ -2029,19 +1883,19 @@ Most of the social classes linked to Flaws in the **Ars Magica** rulebook are no
 
 **Skald** (+2): Skalds are the poets and storytellers of the Norse and respected members of a community. Their ability to memorize thousands of lines of poetry is legendary, and they can recite long passages at will.
 
-A skald character gains the new Virtue Audio Eidetic Memory (see page 73) as part of being a skald. He also begins the game with an automatic level in Storytelling, representing a small repertoire of tales. If the character has any Play (Instrument) skill, he begins the game with an appropriate instrument.
+A skald character gains the new Virtue Audio Eidetic Memory (see [page 73](#2-virtue)) as part of being a skald. He also begins the game with an automatic level in Storytelling, representing a small repertoire of tales. If the character has any Play (Instrument) skill, he begins the game with an appropriate instrument.
 
 **Landsmathr** (+2): As one of the landsmenn you are a part of the lowest rank of the ruling class. You must be able to maintain and field 40 armed men in the levy. This position is not hereditary, but is gained through an oath of loyalty to the king. This Virtue is similar to the Lesser Noble Virtue.
 
 **Butescarl** (+2): A mercenary leader paid by a town so that its citizens do not have to take part in the king’s host. This is the equivalent of the Mercenary Virtue.
 
-**Styrimathr** (+2): You are captain of a ship. You have little actual wealth, as it is tied up in your ship, although with it you have the potential to gain money through trade or piracy. You may choose either a Snekke or Smabyrding (see pages 45 - 46) as your beginning ship. You have a crew of 8 to 12, all of whom are sailors, not soldiers, and who must be paid for their services. You must hire a separate fighting force to protect your possessions. Your social rank is that of carl.
+**Styrimathr** (+2): You are captain of a ship. You have little actual wealth, as it is tied up in your ship, although with it you have the potential to gain money through trade or piracy. You may choose either a Snekke or Smabyrding (see [pages 45 - 46](#page-45)) as your beginning ship. You have a crew of 8 to 12, all of whom are sailors, not soldiers, and who must be paid for their services. You must hire a separate fighting force to protect your possessions. Your social rank is that of carl.
 
 **Bryti** (+3): You are a steward of the royal estates. You receive a wage of 40 pfennig a month, and wield the authority of the king in most matters (as the Temporal Influence Virtue). You are often looked upon as a neutral, mediating in disputes.
 
 **Gothi** (+3): You are a chieftain; the leader of a district. This contains at least one major settlement, and probably several smaller ones. In pagan lands, you are responsible for conducting the public rituals of the local gods. Your position is not hereditary, but you are elected into the office for life. You do not own the land that you oversee, but have possession of a large family farm, which generates about 500 pfennig per year. You must perform the duties of a magistrate quarterly at the Thing.
 
-<!-- p. 67 -->
+<!-- p. 67 --><a id="page-67"></a>
 
 **Hersar** (+4): You possess a lordship at the king’s pleasure. The lands you own are yours by grant from the king, and are handed back upon your death for redistribution. Apart from that, you have all the benefits and obligations of the Landed Knight Virtue.
 
@@ -2069,7 +1923,7 @@ Most grogs are carls at the lower end of the social class. Because thralls were 
 
 **Svinfylking** (+1): You are one of the boar-warriors, a group of fighters known for their wedge formation in battle, with two champions at the *rami*, or snout, of the wedge. You are trained in the skills of disguise and escape, and make a superlative scout. Rolls involving Rogue and Survival Skills in selected areas receive a +3 modifier. Examples might include wilderness survival in a particular terrain, stealth, and disguising yourself at a moment’s notice.
 
-<!-- p. 68 -->
+<!-- p. 68 --><a id="page-68"></a>
 
 ## Abilities
 
@@ -2087,7 +1941,7 @@ Vitkir and Finnish wind wizards with the Storytelling skill can use it to teach 
 
 **Lectio**: There are virtually no books written in Norse runes. However, with the coming of the Church, books written in Latin have made their way to many of the large towns and cities and it is now possible to study these at several monasteries around Mythic Scandinavia. Books in Arabic and Greek are also available in the larger cities, having been imported from Byzantium (Miklagard) and the Holy Land.
 
-<!-- p. 69 -->
+<!-- p. 69 --><a id="page-69"></a>
 
 ## New Abilities
 
@@ -2110,7 +1964,7 @@ The table in the insert shows the length of time a character may remain in shape
 > | 15 - 20 | 18 - 23 | One week |
 > | 21 or more | 24 or more | One month |
 
-<!-- p. 70 -->
+<!-- p. 70 --><a id="page-70"></a>
 
 ### Academic Knowledge
 
@@ -2122,9 +1976,9 @@ The table in the insert shows the length of time a character may remain in shape
 
 To successfully read the meaning, the vitki must make a Perception + Rune Casting roll against an ease factor determined by using the examples in the Divination Virtue on ArM4 page 45. A botched roll results in the vitki completely misinterpreting the answer. (Perception)
 
-**Rune Script**: The easiest way to invoke the power of multiple runes is to make a rune script. This involves writing a group of runes onto a piece of bark, a leaf, or similar perishable material, to invoke their power. See “Rune Scripts” on page 81 for more details. (Intelligence)
+**Rune Script**: The easiest way to invoke the power of multiple runes is to make a rune script. This involves writing a group of runes onto a piece of bark, a leaf, or similar perishable material, to invoke their power. See “Rune Scripts” on [page 81](#rune-scripts) for more details. (Intelligence)
 
-**Rune Binding**: A way to make semi-permanent magic items using the runes is to create a rune binding. A rune binding is either a physical object designed to resemble certain runes or a pattern carved into an object. See “Rune Bindings” on page 83 for more details. (Intelligence)
+**Rune Binding**: A way to make semi-permanent magic items using the runes is to create a rune binding. A rune binding is either a physical object designed to resemble certain runes or a pattern carved into an object. See “Rune Bindings” on [page 83](#rune-bindings) for more details. (Intelligence)
 
 ### Casual Knowledge
 
@@ -2150,7 +2004,7 @@ The following abilities cannot be learned by starting Norse characters. Some can
 
 **Parma Magica** (ArM4 55)
 
-<!-- p. 71 -->
+<!-- p. 71 --><a id="page-71"></a>
 
 ### Rare Abilities
 
@@ -2182,7 +2036,7 @@ The following abilities are rare among Norse characters, unless they’ve spent 
 
 **Alchemy**: Alchemy cannot be learned by Norse characters who have not had contact, whether first or second hand, with the culture of the Arabs, who invented the process. (ArM4 40)
 
-**Premonitions**: To the Norse, one’s fylgja is responsible for warning against danger. Someone fortunate enough to be in touch with her fylgja knows how to heed its warnings. This is the equivalent of the Premonitions Virtue on page 42 of ArM4, manifested differently in the Northlands.
+**Premonitions**: To the Norse, one’s fylgja is responsible for warning against danger. Someone fortunate enough to be in touch with her fylgja knows how to heed its warnings. This is the equivalent of the Premonitions Virtue on [page 42](#page-42) of ArM4, manifested differently in the Northlands.
 
 There are three ways that a person might receive a warning from her fylgja. The first is that it might appear to her in a dream involving a particular animal indicating that her fylgja is trying to tell her something. Fylgjur might also appear during the day in the form of animals that no one else can see, occasionally in a situation resembling in a symbolic way the dangerous event. The final way that a fylgja might help its owner with a warning is to get under her feet and trip her up. Should a person stumble for no apparent reason, her fylgja may be trying to tell her something. This last is the only way that a fylgja can affect the physical world. (ArM4 42)
 
@@ -2210,7 +2064,7 @@ There are three ways that a person might receive a warning from her fylgja. The 
 >
 > **Duration**: A character may increase the lifespan of the rune binding (beyond a base of two years) by purchasing extra years at the cost of 1 Virtue point per year.
 
-<!-- p. 72 -->
+<!-- p. 72 --><a id="page-72"></a>
 
 ### +3/+5 General Virtue
 
@@ -2242,7 +2096,7 @@ All other benefits and penalties remain the same as for Giant Blood. New Cost: +
 
 **Short-Lived Runes**: Your rune bindings do not last as long as normal, and function at one magnitude of Iss lower than normal. So, a rune binding with an Iss 20 rune in it lasts for only the duration of a normal Iss 15-level rune, one season rather than one year.
 
-<!-- p. 73 -->
+<!-- p. 73 --><a id="page-73"></a>
 
 ## New Virtues and Flaws
 
@@ -2264,9 +2118,9 @@ The hamfaring seithkona can remain out of her body a number of hours equal to he
 
 **Audio Eidetic Memory**: Similar to Visual Eidetic Memory (ArM4 45), you have an excellent memory for words and noises and can memorize thousands of lines of prose. When trying to recall a general conversation or other noise, the character gains a +3 bonus. More exact details can be remembered on a similar roll but with a +6 bonus.
 
-**Exceptional Talent: Shapechanging**: The ability to change from human form into that of another creature. Gives the character the Shapechange talent at level 1. Only vitki and characters with the Latent Magic Virtue may take this Virtue. The exact description of this skill is detailed above, at page 69.
+**Exceptional Talent: Shapechanging**: The ability to change from human form into that of another creature. Gives the character the Shapechange talent at level 1. Only vitki and characters with the Latent Magic Virtue may take this Virtue. The exact description of this skill is detailed above, at [page 69](#page-69).
 
-<!-- p. 74 -->
+<!-- p. 74 --><a id="page-74"></a>
 
 **Raven of Odin** (Hrafn Odin): You have made a name for yourself for your wisdom, advice, and sense of justice, and have been chosen as a Raven of Odin. Like the quaesitor in the Order of Hermes, you are awarded special privileges, such as free board at the homes of noblemen, the right to question a nobleman’s decisions, and protection from the law for minor infractions, but you’re expected to be able to deal with legal matters and give advice when called upon.
 
@@ -2325,7 +2179,7 @@ You are likely to be attacked or ambushed by opposing clansmen, and your family 
 
 **Forbidden Rune**: Through some quirk of fate, you are absolutely unable to learn one specific rune. This Flaw can be taken more than once, and is only open to vitki.
 
-<!-- p. 75 -->
+<!-- p. 75 --><a id="page-75"></a>
 
 ## Jarl Togsvig’s Lands
 
@@ -2337,7 +2191,7 @@ Jarl Togsvig’s lands consist of his personal stead and three fishing villages 
 
 Jarl Togsvig’s family has ruled the lands around his home fjord for many generations and he is proud to say that his great-great-great-grandfather fought at the Battle of Stamford Bridge, the last great Viking raid into Europe (albeit one in which the Vikings were defeated). Togsvig is still active, although he is now in his 50th year. Once a good warrior, he contents himself with running his demesne, hunting, and teaching his sons the arts of war and politics.
 
-Togsvig is married to Ragnhild, the daughter of a local hersar and now Togsvig's vassal. Ragnhild is considerably younger than her husband, having just reached her late-30s. The couple have been married for 20 years and have four children: sons Thorbjorn (19) and Rolf (14), and daughters Astrid (16) and Ingrid (11). Thorbjorn is the designated heir, and has spent the last three years at school in Trondheim, learning how to read and write, as well as other subjects. Astrid, who has reached the age of consent, has yet to marry and this is causing her father some heartache.
+Togsvig is married to Ragnhild, the daughter of a local hersar and now Togsvig’s vassal. Ragnhild is considerably younger than her husband, having just reached her late-30s. The couple have been married for 20 years and have four children: sons Thorbjorn (19) and Rolf (14), and daughters Astrid (16) and Ingrid (11). Thorbjorn is the designated heir, and has spent the last three years at school in Trondheim, learning how to read and write, as well as other subjects. Astrid, who has reached the age of consent, has yet to marry and this is causing her father some heartache.
 
 > ### Mika Hakinnen, Finnish Wind Wizard
 >
@@ -2375,7 +2229,7 @@ Togsvig is married to Ragnhild, the daughter of a local hersar and now Togsvig's
 >
 > *Born in Finland, Mika traveled through Scandinavia until he reached the Jotunheim Mountains. The mountains are some of the wildest terrain he’s ever encountered and he feels at home camped under the stars. The local lord, Jarl Togsvig, has asked for his aid on several occasions and he maintains good relations with the jarl and his people. Because of his dislike of buildings and his upbringing, he has located a cave high in the mountains that he calls home. he is very much the outsider, and is likely to remain that way in the close-knit Nordic community, although Eindridi the skald has made attempts to get to know him.*
 
-<!-- p. 76 -->
+<!-- p. 76 --><a id="page-76"></a>
 
 > ### Vandrard the Unruly, Bersarkr
 >
@@ -2453,17 +2307,17 @@ Togsvig is married to Ragnhild, the daughter of a local hersar and now Togsvig's
 >
 > *Eindridi has been trained in the ways of the skald by his father, also a skald, and has spent many years memorizing poems and stories. His tales always attract a good audience and only last year Jarl Togsvig appointed Eindridi to his hall. Since then he’s had the jarl’s protection and has been rewarded well for his talents. He has been trying to get close to Mika the Finn to learn the stories of his people, but has had little success.*
 
-<!-- p. 77 -->
+<!-- p. 77 --><a id="page-77"></a>
 
 Unbeknownst to Togsvig, Astrid has been cavorting with his vitki, Hogni. Were this to become common knowledge, one of two outcomes is likely. The jarl could demand Hogni marry her, but as Astrid would be of more use married to some nobleman to forge an alliance this is unlikely. A more likely outcome is that Hogni will be punished, possibly by branding, and Astrid sent to a monastery. One member of the hird has discovered the affair, and has decided to make a little extra money by blackmailing Hogni.
 
 ### The Jarl’s Stead
 
-The jarl's longhouse is similar in design to the smaller houses of carls, but on a larger scale. Much of the area is given over to a feasting hall, where the jarl, his family, and the dreng eat their meals. As is common in Scandinavia, his tinglith, his advisors, and his skald also make the common area their bedroom, having sleeping spaces along the walls with storage space underneath. Personal space is a rare commodity in such tight-knit communities, and this keeps them close to their lord in case of trouble or if he should wish to speak to them.
+The jarl’s longhouse is similar in design to the smaller houses of carls, but on a larger scale. Much of the area is given over to a feasting hall, where the jarl, his family, and the dreng eat their meals. As is common in Scandinavia, his tinglith, his advisors, and his skald also make the common area their bedroom, having sleeping spaces along the walls with storage space underneath. Personal space is a rare commodity in such tight-knit communities, and this keeps them close to their lord in case of trouble or if he should wish to speak to them.
 
 At the back of the hall are the rooms of Togsvig and Ragnhild, and his three children (Thorbjorn being in far-off Trondheim). In most carls’ houses, everyone sleeps in one area divided only by blankets or drapes, but Togsvig is wealthy enough to have a little privacy. Other rooms include the treasury, a storeroom, and the rooms of the jarl’s most trusted bodyguards.
 
-Outside the main hall are several other buildings, notably the storage hut, the food store, the animal house, several workshops, the vitki's house, and the thralls' hut. Although Togsvig pays lip-service to the Hvitachrist, he still believes in the power of the old gods and maintains a number of non-Christian thralls. He maintains a boat house on the fjord housing a snekke and a knarr. Fields, maintained by the slaves, contain barley, flax, wheat, rye, and vegetables. Other necessary foodstuffs (especially fish) are gathered from the local villages, although fresh meat comes from hunting or from the jarl's stocks of cows.
+Outside the main hall are several other buildings, notably the storage hut, the food store, the animal house, several workshops, the vitki’s house, and the thralls' hut. Although Togsvig pays lip-service to the Hvitachrist, he still believes in the power of the old gods and maintains a number of non-Christian thralls. He maintains a boat house on the fjord housing a snekke and a knarr. Fields, maintained by the slaves, contain barley, flax, wheat, rye, and vegetables. Other necessary foodstuffs (especially fish) are gathered from the local villages, although fresh meat comes from hunting or from the jarl’s stocks of cows.
 
 Among the craftsmen who live at the stead are a carpenter, a blacksmith, and a potter. There is also a longhouse for the 70 members of the jarl’s dreng, who eat in the main hall, but have their own quarters for sleeping, to differentiate them from the tinglith.
 
@@ -2475,7 +2329,7 @@ Among the craftsmen who live at the stead are a carpenter, a blacksmith, and a p
 
 **A Mysterious Illness**: Togsvig has been cursed with an illness by a vitki of one of his enemies. As the curse strengthens, the jarl grows weaker, and he is now near death. His wife orders members of his hird to find the culprit and force him to reverse his magic.
 
-<!-- p. 78 -->
+<!-- p. 78 --><a id="page-78"></a>
 
 > ### Bodvar Akisson, Huscarl
 >
@@ -2549,9 +2403,9 @@ Among the craftsmen who live at the stead are a carpenter, a blacksmith, and a p
 >
 > Encumbrance: –1
 >
-> *Fridgeir owns a small farm on Jarl Togsvig's lands which barely keeps him and his family alive. He spends more time with his dog than he does his wife, although he loves her dearly, and this is the source of gossip. Once or twice he’s been called up to fight when his lands were raided, and he keeps his trusty spear handy. Not a true warrior, he has few dealings with the members of the jarl's hird.*
+> *Fridgeir owns a small farm on Jarl Togsvig’s lands which barely keeps him and his family alive. He spends more time with his dog than he does his wife, although he loves her dearly, and this is the source of gossip. Once or twice he’s been called up to fight when his lands were raided, and he keeps his trusty spear handy. Not a true warrior, he has few dealings with the members of the jarl’s hird.*
 
-<!-- p. 79 -->
+<!-- p. 79 --><a id="page-79"></a>
 
 # Chapter 5: Norse Magic
 
@@ -2565,7 +2419,7 @@ Single runes can be created on almost any surface (even scratched into shifting 
 
 Each vitki will have his own style of carving and his own ritual incantations to make the rune power manifest itself. Many of these styles are passed from master to apprentice in a line dating back to the beginning of the Viking Age. Still, all users of a particular rune for a particular purpose will follow similar patterns.
 
-<!-- p. 80 -->
+<!-- p. 80 --><a id="page-80"></a>
 
 ## Single Runes
 
@@ -2607,7 +2461,7 @@ If the runic effect manages to break through an opponent’s defenses, the damag
 
 The levels of rune scripts and rune bindings can be boosted in the same way, with the reminder that the levels have to be boosted when the script or binding is created, not when it’s used.
 
-<!-- p. 81 -->
+<!-- p. 81 --><a id="page-81"></a>
 
 ## Rune Scripts
 
@@ -2638,7 +2492,7 @@ Scripts designed to affect persons, buildings, or constructs can either be place
 > | Tens of miles | +15 |
 > | Hundreds of miles | +20 |
 
-<!-- p. 82 -->
+<!-- p. 82 --><a id="page-82"></a>
 
 > ### Examples of Rune Scripts
 >
@@ -2674,9 +2528,9 @@ Scripts designed to affect persons, buildings, or constructs can either be place
 >
 > Thurs gives the house additional armor to withstand the attacks of the trolls. The house is only worth a few dozen pennies, so the Othal rune is not very high. The range modifier is +15 because Thorbjorn’s house is some 20 miles from his current location. Because it is ranged, Thorbjorn need only carry this rune script himself, or even bury it is a safe place, rather than placing it in his home.
 
-<!-- p. 83 -->
+<!-- p. 83 --><a id="page-83"></a>
 
-The ease factor when creating a rune script is increased by an amount dependent on the range of the target at the time of casting (see the insert on page 81).
+The ease factor when creating a rune script is increased by an amount dependent on the range of the target at the time of casting (see the insert on [page 81](#page-81)).
 
 Whereas Hermetic magi require arcane connections to remotely target spells, vitkir need only know the exact name or location of the target, or an extremely accurate description, for their spells to work.
 
@@ -2711,7 +2565,7 @@ Most rune bindings can be used a limited number of times per day, and the higher
 > | 20 | 1 season | 1 year | 1 month |
 > | 25 | 1 year | 10 years | 1 season |
 
-<!-- p. 84 -->
+<!-- p. 84 --><a id="page-84"></a>
 
 A rune binding is an extremely personal item and can only be used by the person or object for whom it was made, unless the vitki who manufactured it left those details deliberately vague. Likewise, the binding only works when worn, carried, or placed inside by the intended target — rune bindings cannot be remotely targeted.
 
@@ -2754,9 +2608,9 @@ Secondly, knowledge of the runes can be increased through private study with ano
 
 To learn from a teacher takes one season, regardless of the experience or quality of the teacher. Unlike learning Hermetic Arts through Disputatio, the lessons are based on knowledge and not a question-and-answer arrangement. The student must still generate a Study Total equal to the tutor’s Communication + Storytelling + the student’s Intelligence + 6. The experience gained equals the Study Total. The maximum gain in one season is three full levels. The increase may not bring the student’s score to a higher value than that of the tutor, and only one pupil per season can be instructed by that tutor.
 
-<!-- p. 85 -->
+<!-- p. 85 --><a id="page-85"></a>
 
-The third, and final, method is to use the substance known to Hermetic magi as vis and to vitkir as *makt* (see page 114). Although vitkir have few other uses for vis, they know that it contains power that can enable them to achieve knowledge of the runes.
+The third, and final, method is to use the substance known to Hermetic magi as vis and to vitkir as *makt* (see [page 114](#page-114)). Although vitkir have few other uses for vis, they know that it contains power that can enable them to achieve knowledge of the runes.
 
 Vitkir gather vis from faerie sites or from the corpses of supernatural creatures. Vitkir cannot detect vis through magic, nor do they harvest it as Hermetic magi do. However, unlike Cunning Folk, the vitkir can use raw vis, a point that may bring them into conflict with Hermetic magi who hear of this practice. In order to locate vis, the vitki must roll a quality die + Perception + Legend Lore + Magic Might (of the creature) if the vis comes from a creature, or + Perception + Faerie Lore + magical/faerie aura if the area is a faerie haunt. The ease factor of either roll is 24+.
 
@@ -2783,7 +2637,7 @@ The vitki must reenact the ritual sacrifice of Odin by being hanged from an ash 
 > **Casting rune binding**<br>
 > Intelligence + Scribe Runes + total of (specific) Rune Lores involved + Rune Binding + Aura + any modifiers + stress die (ease factor: sum of difficulty of all runic effects + modifiers)
 
-<!-- p. 86 -->
+<!-- p. 86 --><a id="page-86"></a>
 
 As he is defenseless, loyal guards are normally placed around the sacrificial place. If the vitki’s body is moved or wounded, or has magic cast on it, the ritual is disrupted and he must make a stressed Stamina roll of 9+ to avoid taking two Body levels of non-Soakable damage. If the roll botches, the vitki also suffers permanent mental damage, such as gaining a delusion or compulsion.
 
@@ -2807,7 +2661,7 @@ If the vitki successfully completes the dedication rite, he gains the Virtue Spe
 
 If the roll fails, the vitki learns no knowledge and has performed the sacrifice for nothing. A botch can spell disaster for a vitki; the vitki suffers a massive shock as he perceives knowledge he wasn’t ready for and suffers a Mental Flaw as a result. The specific Flaw should be decided between the storyguide and the player, but should generally be worth no more than 3 points (Delusion, Compulsion, Fears, and Terrors fit well).
 
-<!-- p. 87 -->
+<!-- p. 87 --><a id="page-87"></a>
 
 This ritual can only be attempted at Yuletime, the traditional time for oath-taking, with the vitki hanging himself from the tree just before the end of the old year so that he hangs upon the tree over the changing of the years.
 
@@ -2823,11 +2677,11 @@ In order to train a *laering* (apprentice), a vitki must have a minimum of 5 in 
 
 The vitki must dedicate one season per year to training his laering, and each year the laering gains 4 experience points towards his vitki abilities. If the master is particularly generous, he may spend more time teaching his laering; for every extra season spent this way, the laering gains an extra 3 experience points to place amongst his vitki abilities.
 
-The apprentice vitki can spend his points in any way he desires, with the understanding that he won’t complete his apprenticeship until he has reached the minimum Ability levels for a starting vitki (see page 62), and with the restriction that he can only raise rune scores above 0 for runes that his master has at level 5 or more.
+The apprentice vitki can spend his points in any way he desires, with the understanding that he won’t complete his apprenticeship until he has reached the minimum Ability levels for a starting vitki (see [page 62](#page-62)), and with the restriction that he can only raise rune scores above 0 for runes that his master has at level 5 or more.
 
 The laering will also travel with his master learning the arts of communication, negotiation, and social interaction that will form a major part of his life once he is released from apprenticeship (gaining 5 experience points to spend on these Abilities).
 
-<!-- p. 88 -->
+<!-- p. 88 --><a id="page-88"></a>
 
 # Chapter 6: Runes & Their Power
 
@@ -2860,7 +2714,7 @@ The laering will also travel with his master learning the arts of communication,
 >
 > Many runes have standardized effects. This table lists common runic statistics based on the levels at which they are cast. Magnitude is often used as a bonus to Attribute or Ability rolls. Monetary Amount comes into play in conjunction with runes concerned with wealth. Creature Size sometimes determines how powerful a rune must be to affect a certain animal or beast.
 
-One of Odin’s gifts to mankind were the 24 runic letters known as the Futhark (after the word spelled by the first six – see appendix page 130), which could be used by the average man in monumental inscriptions, business correspondence, or in decorating objects, and by the initiated (vitkir, singular: vitki) to perform magical feats. In order to penetrate the mystery of the runes, Odin used his own spear to impale himself on the World Tree, Yggdrasil, hanging for nine days until the secrets revealed themselves to him. The sacrifice was painful, even for a god, and reenacting the sacrifice can give the vitki additional insight into rune use (see “Learning Through Sacrifice” on page 85).
+One of Odin’s gifts to mankind were the 24 runic letters known as the Futhark (after the word spelled by the first six – see appendix [page 130](#page-130)), which could be used by the average man in monumental inscriptions, business correspondence, or in decorating objects, and by the initiated (vitkir, singular: vitki) to perform magical feats. In order to penetrate the mystery of the runes, Odin used his own spear to impale himself on the World Tree, Yggdrasil, hanging for nine days until the secrets revealed themselves to him. The sacrifice was painful, even for a god, and reenacting the sacrifice can give the vitki additional insight into rune use (see “Learning Through Sacrifice” on [page 85](#learning-through-sacrifice)).
 
 ## Using the Runes
 
@@ -2870,7 +2724,7 @@ A number of effects are common to a number of runes, and those are summarized on
 
 The power level of the rune measures how difficult it is to create, as well as the amount of power contained within the rune.
 
-<!-- p. 89 -->
+<!-- p. 89 --><a id="page-89"></a>
 
 Adding a second runic enchantment to an already increased Ability or Attribute cannot double a runic effect. Thus, if a vitki has a rune binding that increases his Strength, no other enchantment can add to this, although a second runic enchantment will work if it is of higher level than the original by replacing the original. The same applies to Attributes and Abilities that add to a single die roll; if a vitki has bonuses to his Perception Attribute and his Awareness Ability, only the highest bonus applies to a roll that uses Perception + Awareness.
 
@@ -2890,7 +2744,7 @@ Below are the descriptions of the runes and the powers that they access. This is
 
 Players and storyguide must remember that the runes invoke subtle powers, not the spectacular effects of Hermetic magic, and they generally cannot go against the laws of nature.
 
-The runes are split into three groups known as **aetts**, each dedicated to a different god and containing eight runes. The majority of runic effects are beneficial, and these are created by scribing the rune in the upright position shown in the tables on pages 91 and 130. Some negative effects can be generated by scribing the rune in an inverted, or “trolled,” orientation.
+The runes are split into three groups known as **aetts**, each dedicated to a different god and containing eight runes. The majority of runic effects are beneficial, and these are created by scribing the rune in the upright position shown in the tables on [pages 91 and 130](#page-91). Some negative effects can be generated by scribing the rune in an inverted, or “trolled,” orientation.
 
 While all the runes are useful in certain situations, a number of them (including Iss, Nauthr, Dagr, and Yr) are of particular importance, as they are necessary for the crafting of effective rune scripts and bindings.
 
@@ -2900,11 +2754,11 @@ While all the runes are useful in certain situations, a number of them (includin
 
 This rune means wealth earned through expenditure of energy, in terms of cattle as well as movable wealth. Fe is the rune of Freyr, the god of fertility, in itself a form of wealth.
 
-**Upright:** There are two ways to profit through use of this rune: by using other abilities to either take or win the money, or through investment or chance finding. The Rune Effects Table on page 88 shows the size of monetary rewards that can be gained or found using the Fe rune.
+**Upright:** There are two ways to profit through use of this rune: by using other abilities to either take or win the money, or through investment or chance finding. The Rune Effects Table on [page 88](#rune-effects-table) shows the size of monetary rewards that can be gained or found using the Fe rune.
 
 The wealth granted by this rune can be in money or cattle, but not in lands or goods such as weapons: the Othal rune covers them. Unless Dagr is used in conjunction with Fe in a binding, wealth gained by way of this rune is fleeting: almost as quickly as the caster gains his wealth he will either lose it or find it necessary to spend it.
 
-<!-- p. 90 -->
+<!-- p. 90 --><a id="page-90"></a>
 
 When trying to *detect* wealth, a bonus equal to Fe’s magnitude can be added to Perception rolls, and can be added to Communication, Presence, Area Lore, or Legend Lore rolls (for discovering information about treasure) at the storyguide’s discretion.
 
@@ -2932,7 +2786,7 @@ When Fe is used to remotely target an animal, the Size of the animal that can be
 >
 > - At the start of a battle a vitki is asked to give combat bonuses to his fellow warriors. Not having specialized in combat runes, he realizes that the bows of most of the warriors are made of yew wood, and the player asks the storyguide if the vitki can use the Yr rune (which represents a yew tree) to aid them. The storyguide rules that the connection is strong, but reminds the player that the vitki will either have to cast an individual Yr rune for every archer, or create a script of binding with an area of effect large enough to encompass all the vitki’s allies, but not so large as to also grant bonuses to those of his enemies who also carry yew bows.
 
-<!-- p. 91 -->
+<!-- p. 91 --><a id="page-91"></a>
 
 Fe also means something fought for, rather than gained, and indicates a triumph over opposition, and Fe’s magnitude can be added as a bonus on a single die roll to overcome an opponent, whether it be a man, group, or natural obstacle.
 
@@ -2983,7 +2837,7 @@ Fe can also mean emotional turmoil and a penalty equal to the rune’s magnitude
 > | Dagr (ᛞ) | Day | growth, speed, light, time |
 > | Othal (ᛟ) | A Possession | family, inheritance, protecting goods, curses, acting alone |
 
-<!-- p. 92 -->
+<!-- p. 92 --><a id="page-92"></a>
 
 ### Ur (OOR): Auroch
 
@@ -2993,7 +2847,7 @@ The auroch is a large and powerful breed of cattle that roams Mythic Scandinavia
 
 The magnitude of the Ur rune can be added as a bonus to someone’s Strength or Stamina Attribute, or to the Bravery Personality Trait.
 
-A magnitude bonus can be applied to rolls involving wild animals. At level 15 or above, Ur can be used to speak with wild or magical animals. Each invocation of the rune can be used for only one of the three types of beast: land, air, and sea. When Ur is used to remotely target an animal, the Size of the animal that can be affected is determined by the Rune Effects Table on page 88.
+A magnitude bonus can be applied to rolls involving wild animals. At level 15 or above, Ur can be used to speak with wild or magical animals. Each invocation of the rune can be used for only one of the three types of beast: land, air, and sea. When Ur is used to remotely target an animal, the Size of the animal that can be affected is determined by the Rune Effects Table on [page 88](#rune-effects-table).
 
 In its aspect of vitality, the Ur rune can be used to resist the effects of natural aging. It cannot be used to *slow* aging; it just helps the user better weather its effects. If the rune has been worn for at least a year (as part of a rune binding) the power of the rune can be used to offset any one specific affliction (with the exception of Decrepitude points) the character may have that deals with his physical well-being, reducing it in intensity by an amount equal to the rune’s magnitude.
 
@@ -3007,7 +2861,7 @@ The willpower aspect of Ur allows difficult tasks to be achieved through guts an
 
 Sudden and unexpected turns of events also fall within Ur’s realm, and it can be used to give a penalty equal to its magnitude to die rolls for activities at which the victim would normally expect to succeed.
 
-<!-- p. 93 -->
+<!-- p. 93 --><a id="page-93"></a>
 
 ### Thurs (THURZ): Thorn Bush
 
@@ -3047,15 +2901,15 @@ Ass represents speech. The Vikings had an oral culture, and the ability to speak
 > | 20 | Target creature’s common name (as opposed to its true name) |
 > | 25 | A secret about the target creature. In order to know any secrets, the creature’s common name must first be deduced by some means. |
 
-<!-- p. 94 -->
+<!-- p. 94 --><a id="page-94"></a>
 
 With this rune invoked, a student can determine the level of a potential teacher’s instructional abilities, such as Disputatio or Storytelling (of a skald or vitki).
 
 Ass symbolizes wisdom and when using it illusions equal to or lower in power than the rune’s power level can be see as illusions; the user cannot dispel the illusion, but he will know that what he’s seeing is in some way unreal.
 
-Ass is also a rune of limited divination, especially regarding names. This rune can be used to determine certain basic facts about a target. (If the target has a Might score, then the level of the rune plus a stress die must be higher than that Might before any knowledge can be gained.) The insert on page 93 shows what information is gained.
+Ass is also a rune of limited divination, especially regarding names. This rune can be used to determine certain basic facts about a target. (If the target has a Might score, then the level of the rune plus a stress die must be higher than that Might before any knowledge can be gained.) The insert on [page 93](#page-93) shows what information is gained.
 
-Finally, Ass is linked to the female seers known as volva (see page 123). The grave marker of a volva will feature no writing except a single Ass rune, and her spirit can be summoned from the grave through use of the rune.
+Finally, Ass is linked to the female seers known as volva (see [page 123](#volva)). The grave marker of a volva will feature no writing except a single Ass rune, and her spirit can be summoned from the grave through use of the rune.
 
 **Trolled:** When used trolled, Ass can symbolize lies, cheating, and misinformation, adding a bonus equal to its magnitude to Communication or Guile (for example) when trying to lie to another person.
 
@@ -3095,11 +2949,11 @@ Kaun can also be used to penetrate illusions with levels less than or equal to t
 
 In its aspects of sight and the power of the mind, Kaun can be used to resist some specific effects of natural aging, helping the user better weather its effects. If the rune has been worn for at least a year (as part of a rune binding) the power of the rune can be used to offset any one sight-affecting affliction the character may have, or any affliction affecting understanding or reasoning capabilities, reducing it in intensity by an amount equal to the rune’s magnitude.
 
-<!-- p. 95 -->
+<!-- p. 95 --><a id="page-95"></a>
 
 Kaun can be used to resist the effects of cold, a bonus equal to its magnitude being added to Natural Resistance or double that as a bonus to Soak cold-based attacks. The doubled magnitude can also be applied as a bonus to Soak against attacks by wild animals.
 
-The Kaun rune itself can be made to glow in a radius of paces equal to the rune’s level, and a brightness as shown on the table on page 94.
+The Kaun rune itself can be made to glow in a radius of paces equal to the rune’s level, and a brightness as shown on the table on [page 94](#page-94).
 
 **Trolled**: The reversed Kaun can be used to lower a victim’s Perception-based rolls by an amount equal to the rune’s magnitude. The rune cannot create cold-based effects, but it can lower a victim’s tolerance to them by reducing Natural Resistance and Soak totals by the magnitude penalty in cold conditions, or against cold-based attacks.
 
@@ -3125,7 +2979,7 @@ Vend is a rune of happiness and joy, and has links to the concept of a reward, b
 
 People sharing the burden of a task receive a bonus equal to the rune’s magnitude with two limits: the number of people who can receive a bonus is equal to the vitki’s Vend
 
-<!-- p. 96 -->
+<!-- p. 96 --><a id="page-96"></a>
 
 Rune Lore score, and the rune must be cast at 5 levels per person involved. Vend can also be used in conjunction with other runes to impart bonuses from those other runes on two people who are co-operating without having to cast the runes in question multiple times.
 
@@ -3157,7 +3011,7 @@ Nauthr means hardship, trouble, and unforeseen adversity, but also gives strengt
 
 **Upright**: A bonus equal to Nauthr’s magnitude can be applied to rolls involving enduring hardship, including resisting torture or overcoming illness. As overcoming a hardship often takes time, Nauthr can be applied to Patient, Cautious, or similar Personality Trait rolls as well.
 
-<!-- p. 97 -->
+<!-- p. 97 --><a id="page-97"></a>
 
 Long and arduous tasks can be very tiring and often a person will give up. With Nauthr the target receives a number of Confidence Points equal to one less than the rune’s magnitude to aid him in tasks at which he has failed at least twice in succession. A bonus equal to the magnitude can also be added to combat rolls against exceptionally persistent foes.
 
@@ -3167,7 +3021,7 @@ Relationships that are having trouble getting started can be aided by Nauthr’s
 
 When added to other runes in a binding or script, or cast on a script or binding that is already in force, Nauthr delays the ending of that effect by an amount starting at 25% of the normal time at level 5, with that delay doubling for every 5-point increase in level (that is, +50% at level 10, +100% at level 15, and so on). Along with extending the duration of a magical effect, this also changes the way in which the effect disappears; where normally a magical effect disappears in an instant once its duration is exceeded, under the influence of Nauthr, the effect gradually fades over the course of its extended lifespan, becoming less and less potent as time goes by until the effect finally shrinks to nothing.
 
-Natural events already in place can be extended using a single Nauthr rune; no rune script is necessary. This is one of the very few cases where a single rune’s power lasts more than one round. Nauthr could be used to delay death by extending the time a patient has before making a survival roll when Incapacitated, or how long a storm lasts before fading, but it could not affect movement rates (for that, see the Hagall rune on page 96).
+Natural events already in place can be extended using a single Nauthr rune; no rune script is necessary. This is one of the very few cases where a single rune’s power lasts more than one round. Nauthr could be used to delay death by extending the time a patient has before making a survival roll when Incapacitated, or how long a storm lasts before fading, but it could not affect movement rates (for that, see the Hagall rune on [page 96](#page-96)).
 
 Nauthr can be used to cause a penalty (equal its magnitude) to any roll that the target has already failed once and is attempting a second time. Its delaying effects can be used to extend recovery times, or the duration of hostile weather or negative emotions.
 
@@ -3177,9 +3031,9 @@ Iss means “ice” and symbolizes not only physical ice, and its hidden dangers
 
 **Upright**: Iss can be used to create ice (if the temperature is already below freezing) which causes all who tread upon it to make a Dexterity + Athletics roll with an ease factor equal to half the rune’s power level to avoid slipping. Iss also protects one from cold, allowing the vitki to either add a bonus equal to its magnitude to Natural Resistance rolls, or use the magnitude to help Soak cold-based damage.
 
-<!-- p. 98 -->
+<!-- p. 98 --><a id="page-98"></a>
 
-The Iss rune determines the amount of time that a rune binding may last. (For further details see the section on Rune Bindings on page 83.) Iss can also be used to extend the duration of an existing magical effect by the same amounts as Nauthr can *delay* the end of an effect, but in the case of an Iss extension there is no gradual fading of the effect; it stays at full potency for its entire extended duration. For this purpose, treat the level of Iss as one magnitude lower than that at which it is actually cast (that is, casting Iss at level 10 on an existing binding will only extend it’s duration by 25 percent, the same amount as a Nauthr rune cast at level 5).
+The Iss rune determines the amount of time that a rune binding may last. (For further details see the section on Rune Bindings on [page 83](#rune-bindings).) Iss can also be used to extend the duration of an existing magical effect by the same amounts as Nauthr can *delay* the end of an effect, but in the case of an Iss extension there is no gradual fading of the effect; it stays at full potency for its entire extended duration. For this purpose, treat the level of Iss as one magnitude lower than that at which it is actually cast (that is, casting Iss at level 10 on an existing binding will only extend it’s duration by 25 percent, the same amount as a Nauthr rune cast at level 5).
 
 Iss can also be used to cool a relationship by giving the victim a penalty equal to the rune’s magnitude to social rolls involving his partner. Using multiple Iss runes to have more than one party in a relationship cool to the others will undoubtedly speed up the process of cooling or ending a relationship. Relationships ended through Iss use require great effort to rekindle.
 
@@ -3213,9 +3067,9 @@ The planting of a yew tree in a graveyard was a pre-Christian custom, the tree s
 
 **Upright**: When involved in a task that requires patience or endurance, the vitki may invoke the rune to gain a bonus to his next die roll equal to the rune’s magnitude.
 
-<!-- p. 99 -->
+<!-- p. 99 --><a id="page-99"></a>
 
-Yr can be used to increase the duration of a rune binding or script when it is originally created, beyond the limits set by the Iss rune in the binding. (For more details, see “Rune Bindings” on page 83.)
+Yr can be used to increase the duration of a rune binding or script when it is originally created, beyond the limits set by the Iss rune in the binding. (For more details, see “Rune Bindings” on [page 83](#rune-bindings).)
 
 Warriors can use Yr in two ways to try to avoid death: they can add the level of the rune to Soak rolls, or they can apply a bonus to recovery rolls equal to the rune’s magnitude.
 
@@ -3245,9 +3099,9 @@ A little known power of Perta is that of detecting poison. When carved onto a dr
 > | 20 | Painless birth, and healthy baby (no physical Flaws over –2) |
 > | 25 | Painless birth, and healthy baby (no physical Flaws) |
 
-<!-- p. 100 -->
+<!-- p. 100 --><a id="page-100"></a>
 
-Perta can be used to ease childbirth and grant a healthy child. The rune must be in place for the entire pregnancy to guarantee a healthy child. The table on page 99 shows the effects depending on the rune’s power.
+Perta can be used to ease childbirth and grant a healthy child. The rune must be in place for the entire pregnancy to guarantee a healthy child. The table on [page 99](#page-99) shows the effects depending on the rune’s power.
 
 The rune can also be used to conceal facts or to make secrets harder to uncover by subtracting Perta’s magnitude from Legend Lore, Perception, or even Charm rolls, depending on how the target is trying to uncover information. Perta can also penalize Gambling rolls.
 
@@ -3269,7 +3123,7 @@ With regard to hunting, Ihwar grants a magnitude bonus to rolls involving huntin
 
 The harmony aspect of Ihwar grants bonuses to Communication, Etiquette, and Diplomacy rolls, decreasing the chance of an accidental blunder causing a scene. Anyone wishing to create a disturbance can be afflicted with a penalty on Attack rolls or social abilities used to disrupt a proceeding.
 
-<!-- p. 101 -->
+<!-- p. 101 --><a id="page-101"></a>
 
 **Trolled**: Just as the upright Ihwar rune can grant protection, when trolled Ihwar can remove it. A penalty equal to the rune’s magnitude can be applied to a victim’s Soak roll. Alternatively, half the rune’s level can be subtracted from the target’s current magical protection score, including the Might score of a magical creature. Of course, the rune has to first overcome the existing magical protection before it can have its effect.
 
@@ -3283,7 +3137,7 @@ Sól is a symbol of victory, a sign of light overcoming darkness, and good defea
 
 The sun can symbolize health and energy, and Sól can be used to aid recovery rolls and to resist Fatigue loss, the rune’s magnitude being used as a bonus. This bonus can also be added to a target’s Strength Attribute.
 
-As a rune associated with the sun, Sól can be made to glow brightly, much as does Kaun, as per the table on page 94.
+As a rune associated with the sun, Sól can be made to glow brightly, much as does Kaun, as per the table on [page 94](#page-94).
 
 With sunlight comes heat, and Sól can be used to melt through snow and ice a half-inch thick at level 5, a few inches at level 10, a pace at level 15, a few paces at level 20, and up to 10 paces at level 25. Without Iss, the ice or snow refreezes naturally, while with Iss it stays melted until the rune’s power fades.
 
@@ -3303,7 +3157,7 @@ Tyr also protects those who volunteer for quests. During the quest the wearer ma
 
 Because of its association with truth, the Tyr rune’s magnitude can be added to business transaction rolls (such as Bargaining) as long as the user is being truthful in the bargaining. In legal proceedings, the bonus can be applied to rolls designed to discover the truth, whether that is helpful or damaging to the user’s case.
 
-<!-- p. 102 -->
+<!-- p. 102 --><a id="page-102"></a>
 
 **Trolled**: When competing against other people (including in combat), Tyr can be used to give a penalty equal to the rune’s magnitude to an opponent’s die rolls.
 
@@ -3335,7 +3189,7 @@ Bjarkan can be used to create a debilitating (but not deadly) illness in a perso
 
 At level 10 Bjarkan can prevent the pregnancy of a woman, although it cannot be used to end an existing pregnancy. To be fully effective at preventing pregnancy, the rune must be continually worn.
 
-<!-- p. 103 -->
+<!-- p. 103 --><a id="page-103"></a>
 
 ### Ior (YOR): Horse
 
@@ -3355,7 +3209,7 @@ The Mathr rune refers to mankind, and covers some acts that are typically human 
 
 **Upright**: This rune grants a bonus equal to its magnitude to rolls involving communication with other humans, including communicating with large numbers, such as giving speeches. At level 15 Mathr can be used to provide a score of 2 in the language of a foreigner if it is unknown to the vitki. At level 20, the score rises to 4. The vitki retains no knowledge of the language once the rune has exhausted its power.
 
-Mathr also deals with foreign places, and its magnitude can be used as a bonus to Area Lore rolls or rolls involving foreign customs, such as Etiquette, Theology, or even Bargaining. If the vitki possess no ability in the skill required he still receives the bonus but is also subject to the standard penalties on page 51 of ArM4.
+Mathr also deals with foreign places, and its magnitude can be used as a bonus to Area Lore rolls or rolls involving foreign customs, such as Etiquette, Theology, or even Bargaining. If the vitki possess no ability in the skill required he still receives the bonus but is also subject to the standard penalties on [page 51](#page-51) of ArM4.
 
 A character may use Mathr to grant a bonus equal to its magnitude to rolls involving a duty he has been given. For instance, a guard might increase his Perception or Awareness to spot intruders, or his Stamina to avoid falling asleep. A ship’s steersman could improve his Boating score to avoid hitting rocks. Only one Attribute or Ability may be chosen per use of the rune.
 
@@ -3377,7 +3231,7 @@ A rune script designed to affect a remote human target must have Mathr in it. Th
 > | 20 | Landsmathr, Gothi, Hersar |
 > | 25 | Jarl, Konung |
 
-<!-- p. 104 -->
+<!-- p. 104 --><a id="page-104"></a>
 
 **Trolled**: One power of the trolled Mathr rune is a bonus that can be gained for rolls involving cruelty to fellow humans. The rune’s magnitude is added to physical torture rolls or those inflicting emotional trauma on the subject. The Cruel Personality Trait can also be increased through this rune.
 
@@ -3409,7 +3263,7 @@ The rune’s aspect of mutability allows the vitki to modify solid objects. At l
 
 A bonus equal to Lög’s magnitude can be added to attempts to seduce women by increasing Presence, Communication, Charm, Folk Ken, or other related Abilities. It also gives an equal number of botch dice if the attempt goes wrong. Other non-combat rolls used when dealing with women (such as Bargain and Etiquette) can also benefit from the bonus.
 
-<!-- p. 105 -->
+<!-- p. 105 --><a id="page-105"></a>
 
 ### Yngvi (UHNG-vee): The God Yngvi
 
@@ -3431,7 +3285,7 @@ Dagr means day, and was thus equated with the sun, light, and life, especially i
 
 **Upright**: Dagr can be used to speed time as it relates to a specific event. Events that are going to happen naturally, such as a storm that is already building, happen in a reduced time: 80% of normal at level 5, 60% at level 10, 40% at level 15, 20% at level 20, and within a few minutes or seconds at level 25. Events that will happen naturally, but not within the lifetime of the vitki, such as a stone wall turning to sand, can be made to occur in a fixed time: one year at level 5, one season at level 10, one month at level 15, one week at level 20 and one day at level 25.
 
-The Dagr rune itself can be made to glow in a radius in paces equal to the rune’s level, and a brightness as shown on the Kaun table on page 94.
+The Dagr rune itself can be made to glow in a radius in paces equal to the rune’s level, and a brightness as shown on the Kaun table on [page 94](#page-94).
 
 One of Dagr’s major powers is that of growth, and it can be used to cause a man, beast, or plant to increase in size. The rune cannot be used on its own for this purpose, as the target needs to be clearly defined by the Mathr rune for people, the Ur rune for animals, or the Thurs rune for plants. Dagr will cause living creatures to grow up to +1 Size per 5 levels of the rune. Plants grow +25% of normal size at level 5, with that growth level doubling for every 5-point increase in level (that is, +50% at level 10, +100% at level 15, and so on); unlike Jera, Dagr targets individual plants not entire fields.
 
@@ -3447,7 +3301,7 @@ Animals and people that gain Size also gain the side-effects that go with it: in
 > | 20 | Jarl’s stead |
 > | 25 | Small fortress |
 
-<!-- p. 106 -->
+<!-- p. 106 --><a id="page-106"></a>
 
 ### Othal (OTH-all): A Possession
 
@@ -3457,7 +3311,7 @@ Othal represents property or possessions, especially those that have been in a f
 
 Othal’s magnitude can be used as a bonus to rolls involving defending the vitki’s family. A home protected by this rune has its Soak increased by an amount equal to the power level of the rune. Likewise, a man defending his family or home from attackers may use Othal’s magnitude to add to any of his Combat Totals.
 
-The rune can be used to gain a good inheritance or secure a good job, each with a value equal to 10 times that in the Monetary Amounts column of the Rune Effects Table on page 88. Othal doesn’t guarantee instant access (the inheritance will occur only at its natural time, and may come in stages in the form of multiple small inheritances), nor a lasting success (a business may collapse). For the most part, the inheritance will be in the form of land or goods, not coin or cattle.
+The rune can be used to gain a good inheritance or secure a good job, each with a value equal to 10 times that in the Monetary Amounts column of the Rune Effects Table on [page 88](#rune-effects-table). Othal doesn’t guarantee instant access (the inheritance will occur only at its natural time, and may come in stages in the form of multiple small inheritances), nor a lasting success (a business may collapse). For the most part, the inheritance will be in the form of land or goods, not coin or cattle.
 
 Othal can also be used to protect grave goods, providing a bonus equal to the rune’s magnitude to traps or other protections in non-Christian burial chambers.
 
@@ -3475,7 +3329,7 @@ Not all of Othal’s trolled aspects are negative for the target. One of a troll
 >
 > The power of resurrection was unknown to all but the gods. Necromancers (who were not vitkir but a separate magical tradition) had the power to reanimate corpses, but these were twisted parodies of the former self, used as servants or tomb guardians.
 
-<!-- p. 107 -->
+<!-- p. 107 --><a id="page-107"></a>
 
 # Chapter 7: Other Magic Systems
 
@@ -3491,7 +3345,7 @@ A wind wizard begins play with the following basic Abilities: Speak Finnish 5, P
 
 Starting Experience: Age + 5
 
-<!-- p. 108 -->
+<!-- p. 108 --><a id="page-108"></a>
 
 ## Virtues and Flaws
 
@@ -3551,7 +3405,7 @@ A Hermetic magus attacked by a wind wizard’s Chants can use his Parma Magica i
 
 A starting wind wizard has a total of 50 experience points to divide between the four Chants. Normal experience points cannot be spent on these during character generation.
 
-<!-- p. 109 -->
+<!-- p. 109 --><a id="page-109"></a>
 
 ## Tying Knots
 
@@ -3571,7 +3425,7 @@ In order to extend the range, duration, or target of a spell, the wind wizard ma
 >
 > If the Finnish wind wizard Yngvi has a length of rope with seven knots on it, he may cast a single magnitude-7 (Level 35 in Hermetic terms) spell, or he may cast a 5th magnitude spell and use the remaining two knots to boost his casting total. He cannot cast two 4th magnitude spells from this length of rope, as that would require a total of eight knots on the piece of rope, nor can he cast a 7th magnitude spell and add a knot from another rope to boost his casting total.
 
-<!-- p. 110 -->
+<!-- p. 110 --><a id="page-110"></a>
 
 ### Spell-Casting Speed
 
@@ -3615,7 +3469,7 @@ The second method is to contact the spirits of the air and ask for instruction. 
 
 The last method is slow but is generally easy to accomplish: knowledge through experience. When a character receives experience points, he may spend them on increasing his Chants. The usual restrictions to spending experience apply.
 
-<!-- p. 111 -->
+<!-- p. 111 --><a id="page-111"></a>
 
 ## Dwarven Magic
 
@@ -3651,7 +3505,7 @@ Characters who seek out dwarves for their magic are often frustrated by failure.
 >
 > **Skidbladnir:** Freyr’s boat, which is large enough to hold all of the gods and their weapons, but can be folded like a cloth when not in use. As soon as the sail is hoisted a breeze rises to propel it. Created by the sons of Ivaldi.
 
-<!-- p. 112 -->
+<!-- p. 112 --><a id="page-112"></a>
 
 Once a hero reaches the dwarven realms he still has to locate a dwarf who will construct an item for him. A mortal who merely asks what items the dwarves have for sale will be expelled from Nithavellir by powerful magic (often to a land far from his home), and will never be able to find the way back. Particularly insistent or obnoxious mortals will also be cursed with a –1 or –2 General Flaw.
 
@@ -3659,7 +3513,7 @@ If the adventurer locates a willing dwarf, he must tell him what he wishes creat
 
 The actual creation of a dwarven magic item is, to mortal eyes at least, surprisingly simple. The main components required are a forge and a lump of a single substance which forms the major part of the item to be constructed. For example, the Cloak of Shadows (see insert) would need a bundle of cloth. The dwarven artificer then places the item in the forge and begins to pump the bellows, reciting ancient litanies of enchantment as he does so. After a pre-set time, calculated with painstaking accuracy by the dwarf using charts and strange instruments, he apparently simply ceases his work and removes the completed item from the forge. This description is obviously very simplified, but the exact mechanics are irrelevant as no mortal can recreate such a procedure.
 
-<!-- p. 113 -->
+<!-- p. 113 --><a id="page-113"></a>
 
 > ### Examples of Lesser Items
 >
@@ -3705,7 +3559,7 @@ In the case of a permanently enchanted item, it cannot be used by anyone after t
 >
 > **Seven years of service:** The mortal is required to work the dwarf’s bellows for seven years, becoming progressively more dwarf-like in appearance over time.
 
-<!-- p. 114 -->
+<!-- p. 114 --><a id="page-114"></a>
 
 ## Hermetic Magic
 
@@ -3727,7 +3581,7 @@ Although some of the mundane Scandinavian creatures contain amounts of makt, vit
 
 To vitkir, the amount of makt in Scandinavia, although declining, has always been low and they see no crisis in the situation. Some Hermetic magi who visited Scandinavia reported the same low vis volumes, leading some to the conclusion that the Order of Odin was harvesting it on a large scale for the use of the Norse wizards.
 
-<!-- p. 115 -->
+<!-- p. 115 --><a id="page-115"></a>
 
 # Chapter 8: Norse Bestiary
 
@@ -3768,7 +3622,7 @@ Powers: Ferocity (protecting the herd) 4, Awareness (smell intruder) 2
 
 Vis: 2 pawns of Animál vis in their horns.
 
-<!-- p. 116 -->
+<!-- p. 116 --><a id="page-116"></a>
 
 ### Draugr
 
@@ -3819,15 +3673,15 @@ Vis: 4 pawns of Perdo vis in its arms.
 
 ### Dverge
 
-In Norse mythology the word alfar is used to describe three different groups: the light and dark elves (see page 115), and the dverge, or dwarves.
+In Norse mythology the word alfar is used to describe three different groups: the light and dark elves (see [page 115](#page-115)), and the dverge, or dwarves.
 
 The dverge are the alfar most commonly encountered by humans. They are the dwarves of legend who created such magical artifacts as Thor’s hammer Mjollnir and Odin’s spear Gungnir.
 
 The dverge sprang into existence in the body of the slain giant Ymir just as maggots spontaneously appear in spoiled meat. Because of their heritage they are condemned to live under the earth, never to see the light of day. Dverge resemble short, deformed humans with long beards. When working, they wear long aprons that reach the floor ,intentionally hiding their feet from view. It is rumored that their feet are those of crows.
 
-The greatest artificers known, the dverge produce magic items of legendary status, as well as more mundane items. Some of their creations are cursed, bringing ruin and despair to the wielders. For more information on dverge-made magic items, see “Dwarven Magic” on page 111.
+The greatest artificers known, the dverge produce magic items of legendary status, as well as more mundane items. Some of their creations are cursed, bringing ruin and despair to the wielders. For more information on dverge-made magic items, see “Dwarven Magic” on [page 111](#dwarven-magic).
 
-<!-- p. 117 -->
+<!-- p. 117 --><a id="page-117"></a>
 
 ### Faeries in General
 
@@ -3837,7 +3691,7 @@ There are a variety of faeries living within Mythic Scandinavia and in nearby No
 
 These fresh-water faeries reside in rivers, lakes, and small ponds. The nykr are roughly human in size, with bodies that are half-human and half-fish, and both sexes are represented (nykr meaning “nude”). They can shapechange to human form to travel on land but leave distinctive, wet footprints when they do so. The females are often extremely attractive and attempt to lure men into their abodes for their amusement by promising them sexual favors.
 
-A few of the nykr are related to the kelpie (see *Faeries* Revised Edition, page 101) and can transform into black or gray horses. These malevolent faeries lure humans onto their backs and then ride at full gallop over the edges of cliffs or into deep water, where the hapless victims often drown.
+A few of the nykr are related to the kelpie (see *Faeries* Revised Edition, [page 101](#page-101)) and can transform into black or gray horses. These malevolent faeries lure humans onto their backs and then ride at full gallop over the edges of cliffs or into deep water, where the hapless victims often drown.
 
 A nykr can be pacified by offering a black lamb as a sacrifice. If the nykr appreciates the sacrifice it may agree to instruct a human in the playing of musical instruments, or teach him stories of distant lands. It is said that some of the greatest skalds learned their art from these creatures, but it is also believed by some that these skalds lost their souls as a result. The music of a nykr is said to be able to charm humans, as per the Virtue Enchanting Music.
 
@@ -3853,7 +3707,7 @@ Havmand are seldom hostile to humans. Those fishermen who respect the sea or mak
 
 Nisse are similar to the faerie creatures called brownies and can be recognized by their red caps (not to be confused with the malicious faeries of Scotland). Nisse live on farms, where they help by performing minor chores and bringing good luck to the farmer and his family. The nisse dislike being pestered, preferring to complete their tasks alone. Nisse who are persistently interrupted leave the farm never to return. Leaving a set of clothes for nisse also causes them to leave, although not through displeasure; so valued are the clothes that the nisse leaves to show his fine adornments to others of his kind. In return for their help, the nisse help themselves to small items from the farm, normally a few drops of milk from a cow’s teats or the odd vegetable.
 
-<!-- p. 118 -->
+<!-- p. 118 --><a id="page-118"></a>
 
 A variety of nisse, known as kabbelgatt, make their homes not on farms but on ships. They bring good luck and help with small tasks, such as mending small rips in sails or replacing worn out nails.
 
@@ -3907,7 +3761,7 @@ Cliff giants have limited powers over earth and stone. They can cast any Terram 
 
 Vis: 10 pawns of Corpus vis in body, 3 pawns of Terram vis in bones
 
-<!-- p. 119 -->
+<!-- p. 119 --><a id="page-119"></a>
 
 ### Frost Giant
 
@@ -3979,7 +3833,7 @@ Fire giants wield a wide variety of powers connected to the element of fire. A f
 
 Vis: 14 pawns of Ignem vis in body.
 
-<!-- p. 120 -->
+<!-- p. 120 --><a id="page-120"></a>
 
 ### Jotun
 
@@ -3987,9 +3841,9 @@ The Jotun are the inhabitants of Jotunheim, the land of giants found to the east
 
 These giants are monstrous beings, generally averaging 90 feet tall and striking terror into mortals. Their powers are capable of destroying humans with little effort. For these reasons, and the fact that these giants rarely leave their homeland, statistics have not been included.
 
-The *Lion of the North* sourcebook lists statistics for highland giants on page 125; a jotun’s characteristics are higher than these. Jotun dislike meddling mortals, and it is quite likely that any character who annoys one of these giants will meet a swift end.
+The *Lion of the North* sourcebook lists statistics for highland giants on [page 125](#page-125); a jotun’s characteristics are higher than these. Jotun dislike meddling mortals, and it is quite likely that any character who annoys one of these giants will meet a swift end.
 
-<!-- p. 121 -->
+<!-- p. 121 --><a id="page-121"></a>
 
 ### Other Giants
 
@@ -4081,7 +3935,7 @@ The *huldafolk* (hidden people) are not a single breed, their name being a colle
 
 Nearly all huldafolk are curious about humans and human ways. Sexes are hard to differentiate in huldafolk, but they seem to have sexual natures for some are attracted to male humans and others to females. Some merely enjoy watching their chosen humans as they perform their daily tasks, but some go a step further, luring their chosen humans through portals into Arcadia itself. Those taken are sometimes released, although the strange distortion of time in faerie land means that they could return days, years, or centuries after they are taken. Irrespective of how much time has passed, those who do return are never the same: some gain strange magical abilities, other are struck dumb so they can never describe what they witnessed, while yet others are simply driven insane.
 
-A few varieties of huldafolk are detailed in the first edition of the *Faeries* sourcebook (Dames Vertes on page 58, Dominae Albae on page 59, and The Host on page 73), but there are countless other faerie types represented in this category.
+A few varieties of huldafolk are detailed in the first edition of the *Faeries* sourcebook (Dames Vertes on [page 58](#page-58), Dominae Albae on [page 59](#page-59), and The Host on [page 73](#page-73)), but there are countless other faerie types represented in this category.
 
 ### Orm
 
@@ -4089,7 +3943,7 @@ The dragons of Scandinavia are known as orms, and they are predominantly flightl
 
 Two other dragons living in the lands of the Norse are simply monstrous in size and powers, and no mortal has ever seen them. The first is Jörmungandr, the Midgard Serpent, a child of Loki that was thrown into the sea by Odin when it was still young, but which has now grown so that it surrounds the world, the spines on its back rising from the waters to form a ring of islands encircling the world ocean. When Ragnarök comes, Jörmungandr will swim ashore, spewing foul poison across the world. Thor will battle him and slay him, but will be killed in turn by Jörmungandr’s dying breath.
 
-<!-- p. 122 -->
+<!-- p. 122 --><a id="page-122"></a>
 
 The second major dragon is Nidhogg, the black dragon that sits beneath Yggdrasil and gnaws at the roots. Until Ragnarök, Nidhogg cannot sever the roots but when he does so the tree will shake and all mankind will know that the end is near.
 
@@ -4169,7 +4023,7 @@ Around one in 100 trolls has formidable magical powers. These trolls often ally 
 
 Vis: 5 pawns of Corpus vis in body.
 
-<!-- p. 123 -->
+<!-- p. 123 --><a id="page-123"></a>
 
 ### Trow
 
@@ -4237,7 +4091,7 @@ To find a pagan burial site with a volva dwelling within it, a vitki must roll a
 
 To summon a volva a vitki must locate a grave marker engraved solely with the Ass rune, for it is this marker that is the volva’s link to the material world. Songs of summoning must then be sung in a pre-determined order. These songs are almost forgotten in Christian Scandinavia and only vitkir with Legend Lore 4 or higher know them by heart. Other vitkir must roll a quality die + Intelligence + Legend Lore + against an ease factor of 12+ to know them and the order in which they must be sung. After the songs have been sung the vitki must face north and inscribe an Ass rune on the grave itself.
 
-<!-- p. 124 -->
+<!-- p. 124 --><a id="page-124"></a>
 
 To determine if the incantation has worked, the vitki rolls a stress die + Intelligence + Sing + Ass Lore + Norse Theology with an ease factor of 21+. On a botch the vitki has made a terrible blunder, awakening a draugr from its centuries-long sleep.
 
@@ -4257,7 +4111,7 @@ A warrior visited by a valkyrie is assured an afterlife in Valhalla, whether he 
 
 Some valkyries have names no different than normal Norsewomen, but most have names highlighting their status as divine warrior maidens and minor death goddesses: Hlökk (Din of Battle), Guth (Conflict), Randgrith (Shield-Destroyer).
 
-<!-- p. 125 -->
+<!-- p. 125 --><a id="page-125"></a>
 
 # Chapter 9: Adventure Seeds
 
@@ -4267,7 +4121,7 @@ Note: a Norse-flavored scenario, “The Golden Ship,” can be found in the firs
 
 ## The Covenant of Heorot
 
-Although nominally part of the Novgorod Tribunal, the only Hermetic presence in the whole of Scandinavia is Sinus Wodinis on the southern coast of Norway and that was thought destroyed until recently (see *The Mythic Seas*, page 62, for more details).
+Although nominally part of the Novgorod Tribunal, the only Hermetic presence in the whole of Scandinavia is Sinus Wodinis on the southern coast of Norway and that was thought destroyed until recently (see *The Mythic Seas*, [page 62](#page-62), for more details).
 
 However, just after the meeting of the Rhine Tribunal in 1214 A.D., three magi decided to establish a covenant on the island of Zealand, in the Kingdom of Denmark. They chose as their site the ruined town of Lethra, abandoned at some time during the 6th century. Lethra was once the royal seat of the Danish kings, and it used to be a thriving town near the middle of the island, just south of the Isefjord. The main covenant building has been erected in the middle of Lethra, at the site of the king’s own hall, and takes its name from it: Heorot.
 
@@ -4275,7 +4129,7 @@ Heorot was the hall of the semi-legendary King Hrothgar in the 6th century, and 
 
 The magus Signum Irruptus of House Criamon had visited the region, and discovered a magical aura at the site of Heorot. At the Rhine Tribunal of 1214 A.D. he met Theoderich of House Jerbiton, to whom he mentioned his plan to found a covenant on Zealand. The third magus on the expedition to Zealand was Pancrestis of Bonisagus, a close friend of Theoderich. The three magi contracted laborers from Århus on the Danish mainland to reconstruct Heorot according to Signum’s mystic vision of what the great feast hall had been like. They also built laboratories and houses for the covenfolk and grogs they brought with them. All three magi are reasonably powerful: Signum is the eldest, at nearly 80 years old, and the other two are only a decade or so younger.
 
-<!-- p. 126 -->
+<!-- p. 126 --><a id="page-126"></a>
 
 > ### Covenant of Heorot Story Ideas
 >
@@ -4299,7 +4153,7 @@ Theoderich of Ausberg, a member of House Jerbiton, is a historian and a necroman
 
 Pancrestis of House Bonisagus was eager to come to Denmark to search for evidence of the existence of the Order of Odin. He had heard tales about rune magic and shapeshifting, and followed these stories to Denmark. He has become disillusioned with his mission; he saw it as a chance to make a major breakthrough in Hermetic magic (the integration of another system of magic) but has failed to find a single example of such a wizard. Pancrestis’ search has not been far-reaching, though. He has failed to penetrate Scandinavia beyond its most southerly towns due to his great fear of the wilderness.
 
-<!-- p. 127 -->
+<!-- p. 127 --><a id="page-127"></a>
 
 ## Things Best Forgotten
 
@@ -4311,7 +4165,7 @@ The current winter is particularly bad, so bad in fact that Helga’s tomb has o
 
 The location of Helga’s tomb is all but forgotten now, but diligent research may turn up some clues that allow the characters to locate it and defeat the draugr.
 
-<!-- p. 128 -->
+<!-- p. 128 --><a id="page-128"></a>
 
 ## Strangers in a Strange Land
 
@@ -4339,25 +4193,25 @@ Once introduced to the vitki, they explain that someone has been stealing their 
 
 The attacks only occur at night and then only when the sky is clouded over. The farmers will only mention this if specifically questioned about the time of the attacks; otherwise they assumed that the vitki already knows this (he *is* a wizard).
 
-<!-- p. 129 -->
+<!-- p. 129 --><a id="page-129"></a>
 
-The area of the summer pastures looks a little unusual in that it is dotted with similarly-sized pits. These are the effects of *Pit of the Gaping Earth* spells. There is no magical trace to be found, as the faeries that caused them used their natural powers to produce the holes (see “Trow,” on pages 122 and 123).
+The area of the summer pastures looks a little unusual in that it is dotted with similarly-sized pits. These are the effects of *Pit of the Gaping Earth* spells. There is no magical trace to be found, as the faeries that caused them used their natural powers to produce the holes (see “Trow,” on [pages 122 and 123](#page-122)).
 
 Careful examination of the ground shows cattle tracks interspersed with human-sized footprints all around the area. However, the earth along all the main tracks away from the area is extremely rough, and it will require a Perception + Hunt roll of ease 5+ to determine that the paths were not cut up by cattle hooves, nor by human feet — the trow used their Terram powers to cover their tracks.
 
 If the troupe elects to wait for an attack, they will have to wait for three nights before the conditions are right for the trow to attack. They can hurry this up by using magic to create clouds over the moon if they so wish.
 
-Once the conditions are right, a band of seven normal trow and one kunal trow launches a raid (see page 123 for stats). Any guards that can be seen by the light of campfires or such like will be targets for *Pit of the Gaping Earth* spells, one per guard. If the guards appear heavily armed, then the trow follow up with an *Earth’s Carbuncle* spell after the guards have fallen into pits. This magical attack will take most characters out of the fight for several rounds. The trow only want cattle, and will not kill the guards unless forced, for they consider themselves part of the same community as the villagers (and therefore entitled to some cows on occasion).
+Once the conditions are right, a band of seven normal trow and one kunal trow launches a raid (see [page 123](#kunal-trow) for stats). Any guards that can be seen by the light of campfires or such like will be targets for *Pit of the Gaping Earth* spells, one per guard. If the guards appear heavily armed, then the trow follow up with an *Earth’s Carbuncle* spell after the guards have fallen into pits. This magical attack will take most characters out of the fight for several rounds. The trow only want cattle, and will not kill the guards unless forced, for they consider themselves part of the same community as the villagers (and therefore entitled to some cows on occasion).
 
 Four trow will try to keep the troupe busy by using their earth powers (*Rampart of Protecting Earth*, and so on) and by feigning melee attacks, while the others try to lead the cattle off.
 
 If the heroes manage to capture a trow, they can force him to cooperate by threatening to hold him above ground until daybreak. He will explain the trows’ “right” to take the cattle, and will claim that they have paid for this right by protecting the cattle and villagers during the summers on the mountain slopes. If pressed, the villagers will admit that their cattle have been remarkably free of predators during the summers. An arrangement can certainly be worked out.
 
-<!-- p. 130 -->
+<!-- p. 130 --><a id="page-130"></a>
 
 # Appendix 1: Runes
 
-The table displayed here lists the twenty-four Nordic runes and their corresponding translations in English, along with a pronunciation guide.  These may be used to enhance any campaign, or as a reference for the “Norse Magic” and “Runes & Their Power” chapters. See pages 89 - 106 for more information on their powers, including the runic power summary table on page 91.
+The table displayed here lists the twenty-four Nordic runes and their corresponding translations in English, along with a pronunciation guide.  These may be used to enhance any campaign, or as a reference for the “Norse Magic” and “Runes & Their Power” chapters. See [pages 89 - 106](#page-89) for more information on their powers, including the runic power summary table on [page 91](#runic-power-summary).
 
 > ### Nordic Runes
 >
@@ -4388,7 +4242,7 @@ The table displayed here lists the twenty-four Nordic runes and their correspond
 > | ᛟ | Othal | OTH-all | a possession |
 > | ᛞ | Dagr | DAG-er | day |
 
-<!-- p. 131 -->
+<!-- p. 131 --><a id="page-131"></a>
 
 # Appendix 2: The End
 
@@ -4410,7 +4264,7 @@ The table displayed here lists the twenty-four Nordic runes and their correspond
 
 *On the Plain of Vigrid, Odin would meet the Fenris Wolf and be devoured. Mighty Thor, strongest of all the gods, would fight and slay Jörmungandr, but the poison of the Midgard Serpent, being lethal to all, would fell Thor before he could take nine steps. Freyr would fight Surt and be slain in a combat he could have won had he not given away his magic sword.*
 
-<!-- p. 132 -->
+<!-- p. 132 --><a id="page-132"></a>
 
 *Garm would break free and strike at Tyr, the two foes slaying each other although Tyr might have survived if he had not lost his sword hand to Fenrir.*
 
@@ -4424,7 +4278,7 @@ The table displayed here lists the twenty-four Nordic runes and their correspond
 
 ***The end is a new beginning.***
 
-<!-- p. 133 -->
+<!-- p. 133 --><a id="page-133"></a>
 
 # Glossary
 
@@ -4476,7 +4330,7 @@ The table displayed here lists the twenty-four Nordic runes and their correspond
 
 *Glima (GLIMMER)*: A form of wrestling.
 
-<!-- p. 134 -->
+<!-- p. 134 --><a id="page-134"></a>
 
 *Gothi (goh-THEE)*: An Icelandic chieftain. The leader of a political district. Plural: *Gothar (goh-THAR)*.
 
@@ -4514,7 +4368,7 @@ The table displayed here lists the twenty-four Nordic runes and their correspond
 
 “Island slaves had fewer rights than born freeman. *Lith (LITH)*: “Crew”; collective name for a group of warriors, especially those serving a lord. Since Scandinavian geography made it easier to travel by sea than by land for any but the smallest of distances, the warriors would also likely form a ship’s crew. *Lithsmathr (LITHS-mah-thur)*: “Crewmaster”; a professional soldier and member of a king’s hird. In charge of the warriors on a ship. *Ljossalfar (LOSS-ALF-ar)*: “Light Elves”; the inhabitants of Alfheim. The *Makt (MACKed)*: “Power”; vis. *Midgard (MID-guard)*: “The Middle Realm”; between Asgard and Nifleheim (heaven and hell), the realm of men. *Muspellheim (MUS-pel-hem)*: A fiery realm in the extreme south of Norse Arcadia. Home to a race of fire giants. *Myrkwood (MURK-wood)*: “Black Forest”; a location in both Norse Arcadia and in Germany south of Denmark.
 
-<!-- p. 135 -->
+<!-- p. 135 --><a id="page-135"></a>
 
 *Naglfar (NAHGEL-far)*: “Nail-Farer”; a ship constructed of the finger and toe nails of dead men that will sail at Ragnarök.
 
@@ -4552,7 +4406,7 @@ The table displayed here lists the twenty-four Nordic runes and their correspond
 
 “Land of personal guard. Also known by the Saxon term *huscarl* (housecarl). *Ulfednar (UL-fed-nar)*: Akin to the bersarkr, the ulfednar wore wolf skins and fought alone. *Ultima Thule (UL-ti-ma THOO-lee)*: “Utmost North”; a term used by Classical writers and the Order of Hermes for Scandinavia. *Thule* itself may once have referred to an island in the North Atlantic, such as one of the Faeroes or Shetlands, or even Iceland. (“Scandinavia” was derived from the area of Skåne in southern Sweden sometimes held by Denmark.) *Valhalla (VAHL-HAUL-a)*: Odin’s drinking hall, home to the einherjar, warriors chosen to fight alongside the gods at Ragnarök. *Valkyrie (VAHL-kere-ee)*: Odin’s shield maidens. Women who invisibly roamed battlefields choosing the worthy from among the slain to reside in Valhalla. *Vanaheim (VAH-NAH-hem)*: The home of the Vanir gods. *Vanir (va-NEAR)*: The lesser and earlier pantheon of Norse gods. See also *Aesir*. *Viking (VYE-king)*: Term used beginning in 9th century England to describe Scandinavian pirates. The most popular explanation for the term is that it meant “to go raiding.” Another possibility is that it referred to the inhabitants of Viken, in Oslo Fjord, implying that the men of that area were especially active in England. *Vitkir (VIT-kear)*: A magician who uses the runes. *Volva (VOL-vah)*: A seeress, sometimes living but often a spirit in nature. *Weregeld (WEER-gehld)*: “Man Price”; a sum paid to the family of a murdered man by the guilty party. *Yggdrasil (IG-drah-zill)*: “Terrible One’s Steed”; the tree of the universe, with roots and branches that touched all worlds. Odin hanged himself from the tree to gain the wisdom of the runes (“Terrible One” being one of his names, and “steed” used in the same sense as “gallows”). *Ymir (YUH-mere)*: The first frost giant, from whose body the world was created.
 
-<!-- p. 136 -->
+<!-- p. 136 --><a id="page-136"></a>
 
 # Bibliography
 
@@ -4608,7 +4462,7 @@ http://Viking.no/, The Viking Network, 1996
 
 http://www.ringnett.no/home/bjornstad/index.html
 
-<!-- p. 137 -->
+<!-- p. 137 --><a id="page-137"></a>
 
 # Index
 
@@ -4717,7 +4571,7 @@ http://www.ringnett.no/home/bjornstad/index.html
 - civil and canon law 71
 - clans and family 37 - 40
 
-<!-- p. 138 -->
+<!-- p. 138 --><a id="page-138"></a>
 
 - class, social 27 - 31, 65 - 67
   - and women 38
@@ -4862,7 +4716,7 @@ http://www.ringnett.no/home/bjornstad/index.html
 - gestr 58, 67, 133
 - Giallar Horn 52, 131
 
-<!-- p. 139 -->
+<!-- p. 139 --><a id="page-139"></a>
 
 - giant 24 - 25, 118
   - clay 121
@@ -5004,7 +4858,7 @@ http://www.ringnett.no/home/bjornstad/index.html
   - speed 110
   - tying 109
 
-<!-- p. 140 -->
+<!-- p. 140 --><a id="page-140"></a>
 
 - knowledge
   - academic 70
@@ -5139,7 +4993,7 @@ http://www.ringnett.no/home/bjornstad/index.html
 - Othal 83, 106
 - Outer Ocean 25
 
-<!-- p. 141 -->
+<!-- p. 141 --><a id="page-141"></a>
 
 - outlaw 35
 - Overview 5
@@ -5279,7 +5133,7 @@ http://www.ringnett.no/home/bjornstad/index.html
 - Strangers in a Strange Land 128
 - styrimathr 66, 135
 
-<!-- p. 142 -->
+<!-- p. 142 --><a id="page-142"></a>
 
 - Summer Pastures, The 128 - 129
 - summoning chant 108
@@ -5415,4 +5269,4 @@ http://www.ringnett.no/home/bjornstad/index.html
 - Yr 54, 81, 83, 98 - 99
 - Yule 31, 47 - 48
 
-<!-- p. 143 -->
+<!-- p. 143 --><a id="page-143"></a>

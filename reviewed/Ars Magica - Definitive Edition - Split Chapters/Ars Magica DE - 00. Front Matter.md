@@ -60,7 +60,7 @@ While this extracted text is complete and provided completely free under the Ope
 
 *Page numbers: every printed page is marked with an HTML comment `<!-- p. N -->` and an anchor, so `#page-N` jumps to printed page N (for example [page 222](<Ars Magica DE - 07. Hermetic Magic.md#page-222>)). Page references in the text link to the named section where one matches, otherwise to the page.*
 
-*Obsidian: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. Install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
+*Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 
 ## Issues from Original
 
