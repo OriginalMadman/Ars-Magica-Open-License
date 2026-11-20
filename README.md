@@ -34,7 +34,7 @@ Markdown's greatest practical strength for open-license content is that it is a 
 
 This write-once, publish-anywhere model means the canonical open-license text can stay clean and unencumbered, while feeding any wanted derivatives in the easiest possible manner (compare this with copy/pasting from PDF (everyone’s favorite…?), trying to convert .docx formats or manually reformatting plain text headings and tables).
 
-You can straight open a markdown in google docs, word, (modern) notepad - or use Visual Code, Typora, Notepad++ (with plugin) etc or copy paste as-is to Websites (like GitHub), Blogs (WordPress, Medium), Notes (Notion, Obsidian), Chats (Slack, Discord), and many forums (Like the [**Offical Atlas Games Ars Magica Forum**](https://forum.atlas-games.com/c/games-discussion/ars-magica/15)) as they all support Markdown natively.
+You can straight open a markdown in google docs, word, (modern) notepad - or use Visual Code, Typora, Notepad++ (with plugin) etc or copy paste as-is to Websites (like GitHub), Blogs (WordPress, Medium), Notes (Notion, Obsidian), Chats (Slack, Discord), and many forums (Like the official  [**Atlas Games Ars Magica Forum**](https://forum.atlas-games.com/c/games-discussion/ars-magica/15)) as they tend to support Markdown natively.
 <br/>
 > *Obsidian users: links use GitHub-style anchors (`#heading-name`, `#page-N`), which Obsidian does not follow on its own. This is a known limitation with no good solution for vanilla Obsidian. You can install the community plugin [GFM Heading Links](https://community.obsidian.md/plugins/gfm-heading-links) to make the internal links and page links work.*
 <br/>
