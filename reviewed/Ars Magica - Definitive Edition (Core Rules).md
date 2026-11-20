@@ -5131,7 +5131,7 @@ By staring intently at people you make them feel uneasy, as if you are peering i
 <!-- p. 104 --><a id="page-104"></a>
 
 #### Potent Magic
-*Minor or Major, Hermetic*<br>
+*Major or Minor, Hermetic*<br>
 The maga's magic is particularly attuned to a narrow field, much as in a Magical Focus. The benefits of Potent Magic are compatible with a Magical Focus; unlike a Magical Focus, a maga may have more than one area of Potent Magic, although only one Potent Magic Virtue applies to any single activity.
 
 Potent Magic provides the maga with a bonus in her field of magic, and permits her to devise Potent spells that gain a casting bonus from the sympathetic magic in shapes and materials. Potent Magic can be taught as an alternative to a Magical Focus.
@@ -7760,7 +7760,7 @@ Care and use of animals, including raising, tending, grooming, and healing them.
 
 #### Animal Ken\*
 You can communicate with animals as if they were human beings. Treat your score in Animal Ken as your score in a language that the animal speaks fluently in order to determine how well you can communicate, and you can use Animal Handling as a substitute for any social abilities affecting humans. Beyond this, this Ability has no effect on the attitude of animals to you, or you to animals. Other people cannot understand your communication with the animals.<br>
-*Specialties*: a particular type of animal, a particular type of communication. (Supernatural)
+*Specialties:* a particular type of animal, a particular type of communication. (Supernatural)
 
 #### (Area) Lore\*
 Knowledge of one particular region, covenant, or even a village. It includes knowing where things are in the immediate area, local history and legends, and the centers of power in the region. The smaller the region, the more detailed your knowledge.<br>
@@ -7824,15 +7824,15 @@ Using bows and arrows.<br>
 
 #### Brawl
 Fighting hand-to-hand without weapons, or with the sorts of improvised weapons you just pick up, including knives. Brawl is also the Ability used to dodge attacks if you have no Martial Abilities.<br>
-*Specialties:* punches, grapples, knives, dodging.(General)
+*Specialties:* punches, grapples, knives, dodging. (General)
 
 #### Carouse
 The ability to enjoy oneself without suffering adverse effects. A person with this skill can, for example, consume prodigious amounts of alcohol without passing out. The skill also covers a familiarity with acceptable behavior, balancing enjoyment and moderation. With this Ability, a person is able to have fun and gain friends among the lower classes nearly anywhere, even among those of a different culture.<br>
-*Specialties*: power drinking, drinking songs, games of chance, staying sober. (General)
+*Specialties:* power drinking, drinking songs, games of chance, staying sober. (General)
 
 #### Charm
 Enticing, fascinating, and endearing others to you, but only on a personal basis. It can be used to win someone over emotionally, especially romantically.<br>
-*Specialties*: courtly love, first impressions, being witty. (General)
+*Specialties:* courtly love, first impressions, being witty. (General)
 
 #### Chirurgy (kie-RUHR-gee)\*
 This is Middle Ages-style surgery, used to help others recover from physical damage. It encompasses tending and binding wounds of all varieties, and the necessary but brutal skill of cauterization. See [page 405](#page-405) for rules.<br>
@@ -8152,7 +8152,7 @@ Knowledge of what magic is and how it works, used primarily in the laboratory. M
 
 #### Medicine\*
 Medicine is the formal study of the body and its diseases. Medical practice is based on the theory of the four humors: blood, phlegm, yellow bile, and black bile. Diseases are often caused by imbalances among them, hence such practices as bloodletting, to restore the balance. Medicine also deals with treating poisons and the results of starvation and the like, but not with treating wounds (see Chirurgy, above). The auctores are Galen and Hippocrates, in many works. It is important to note that medieval medical theory is basically true in Mythic Europe.<br>
-*Specialties*: anatomy, apothecary, physician. (Academic)
+*Specialties:* anatomy, apothecary, physician. (Academic)
 
 #### Music
 The ability to sing, play musical instruments, and compose new music.<br>
