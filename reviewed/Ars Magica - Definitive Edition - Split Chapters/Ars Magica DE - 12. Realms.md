@@ -287,7 +287,7 @@ Relics are physical objects that, in some way, house part of the power of the Di
 
 <!-- p. 420 --><a id="page-420"></a>
 
-In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here; more can be found on [pages 88 and 89 of *Realms of Power: The Divine Revised Edition*](<../Ars Magica 5e - Realms of Power - The Divine (Revised).md>).
+In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here; more can be found on [pages 88 and 89 of *Realms of Power: The Divine Revised Edition*](<../Ars Magica 5e - Realms of Power - The Divine (Revised).md#page-88>).
 
 > #### Sample Relic Powers
 >

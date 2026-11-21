@@ -3147,7 +3147,7 @@ Encumbrance: 0 (0)
 
 Appearance: A handsome young woman, with dark wavy hair that she keeps uncovered and deep green eyes. She prefers gowns of red velvet, and nearly always wears a fur cloak, since she easily catches a chill. Hannelore has a rich voice, unusually deep for a woman; many have commented that this is her most attractive feature.
 
-Her Warping Score is particularly high, because she takes Warping points to fuel her magic (see the description of Incantation on [page 104 of *Realms of Power: The Infernal*](<Ars Magica 5e - Realms of Power - The Infernal.md>)), and she is under several continuing mystical effects (see Hannelore’s Maleficia, later). See *Realms of Power: The Infernal* for more details on Incantation, Vituperation, and some of her Virtues and Flaws.
+Her Warping Score is particularly high, because she takes Warping points to fuel her magic (see the description of Incantation on [page 104 of *Realms of Power: The Infernal*](<Ars Magica 5e - Realms of Power - The Infernal.md#page-104>)), and she is under several continuing mystical effects (see Hannelore’s Maleficia, later). See *Realms of Power: The Infernal* for more details on Incantation, Vituperation, and some of her Virtues and Flaws.
 
 Hannelore has several sources of vis available to her. These do not count as Personal Vis Sources because gaining the vis is not automatic — she must steal to get them, contest them with others, or there is a finite supply. Some examples are:
 
