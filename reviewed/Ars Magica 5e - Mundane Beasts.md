@@ -79,7 +79,7 @@ Each species of beast has certain Virtues and Flaws that are common to all membe
 
 Exceptional beasts may also take individual Virtues or Flaws that set them apart from others of their kind. Any individual Virtues a beast takes must be balanced with individual Flaws, just as for human characters.
 
-Qualities are features of the animal that affect its capabilities. See [Houses of Hermes: Mystery Cults (pages 40-43](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) for a list of Qualities and their effects.
+Qualities are features of the animal that affect its capabilities. See [Houses of Hermes: Mystery Cults (pages 40-43](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-40>)) for a list of Qualities and their effects.
 
 ## New Virtues for Beasts
 

@@ -7164,7 +7164,7 @@ The character is prone to keeping secrets from his sodales. He rarely explains w
 
 #### Seeker
 *Minor, Personality*<br>
-You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15 of *Houses of Hermes: True Lineages*](<Ars Magica 5e - Houses of Hermes - True Lineages.md>).
+You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on [page 15 of *Houses of Hermes: True Lineages*](<Ars Magica 5e - Houses of Hermes - True Lineages.md#page-15>).
 
 #### Servant of the (Land)
 *Major, Story*<br>

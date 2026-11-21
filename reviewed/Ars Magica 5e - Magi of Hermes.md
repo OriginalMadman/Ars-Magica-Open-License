@@ -702,7 +702,7 @@ Design Notes: Alexander’s design totals are: Abilities: 935 + 210 = 1145 Total
 
 ## Alexander’s Animal Shapes
 
-The following animal shapes are generic. To modify them to suit a particular human, see the rules on [page 23 of *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>). The animals given below also reflect the daily experience of people who live in North Africa. Campaigns for which North Africa is a distant and legendary place may choose to make these animals more dangerous, for example by allowing cobras to spit venom, scorpions to kill more readily with their stingers, and crocodiles to snap people in half more easily.
+The following animal shapes are generic. To modify them to suit a particular human, see the rules on [page 23 of *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-23>). The animals given below also reflect the daily experience of people who live in North Africa. Campaigns for which North Africa is a distant and legendary place may choose to make these animals more dangerous, for example by allowing cobras to spit venom, scorpions to kill more readily with their stingers, and crocodiles to snap people in half more easily.
 
 ### Asp (Egyptian Cobra)
 
@@ -5218,7 +5218,7 @@ Voting Sigil: Lambert’s voting sigil is a wooden dowel carved into a caduceus.
 
 > ### Initiation into the Mystery of Arcadian Travel
 >
-> Lambert has undergone initiation into the Minor Virtue of Arcadian travel through the group of Merinitae called the Wayfarers, using the script presented on [page 80 of *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>). During his Ordeal of Initiation, he made his way from Bayeux cathedral into a Faerie regio in the forested hills of Bayeux County, while being pursued by faerie boars. As a result of his initiation, Lambert has acquired the Virtue Arcadian Travel and the Flaw Fear (swine). Also, Bayeux cathedral functions as a permanent Arcane Connection to Lambert.
+> Lambert has undergone initiation into the Minor Virtue of Arcadian travel through the group of Merinitae called the Wayfarers, using the script presented on [page 80 of *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-80>). During his Ordeal of Initiation, he made his way from Bayeux cathedral into a Faerie regio in the forested hills of Bayeux County, while being pursued by faerie boars. As a result of his initiation, Lambert has acquired the Virtue Arcadian Travel and the Flaw Fear (swine). Also, Bayeux cathedral functions as a permanent Arcane Connection to Lambert.
 >
 > When using Arcadian Travel, Lambert creates charms with the skill Profession (storyteller). Lambert sets sections of his stories down on paper to serve as objects associated with the charm.
 
@@ -9933,14 +9933,14 @@ Creates the images and sounds of a story sung by the bard, which change along wi
 ##### Cage of Bronze
 CrIm 30<br>
 R: Voice, D: Sun, T: Individual<br>
-This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) creates a big bronze cage around the target, capturing it (if a targeting Finesse roll succeeds).
+This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-101>)) creates a big bronze cage around the target, capturing it (if a targeting Finesse roll succeeds).
 
 (Base 10, +2 Voice, +2 Sun)
 
 ##### Phantasmal Horse
 CrIm 30<br>
 R: Touch, D: Sun, T: Individual<br>
-This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) creates a magical and beautiful riding horse. Due to their faerie nature, such horses are always strangely colored or behave in some other ridiculous way. Scipio’s horses are always red and curious.
+This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-101>)) creates a magical and beautiful riding horse. Due to their faerie nature, such horses are always strangely colored or behave in some other ridiculous way. Scipio’s horses are always red and curious.
 
 (Base 10, +1 Touch, +2 Sun, +1 moving parts)
 
@@ -9954,7 +9954,7 @@ This spell is similar to *Told Story*, but instead of creating a small stage as 
 ##### Doppelganger
 CrIm(Me) 40<br>
 R: Touch, D: Sun, T: Individual<br>
-This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) creates a person’s doppelganger, with some limited freedom and simulated intellect. It may act independently but is under the caster’s control. Like all Glamour spells, the doppelganger has substance and can act as something that really exists.
+This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-101>)) creates a person’s doppelganger, with some limited freedom and simulated intellect. It may act independently but is under the caster’s control. Like all Glamour spells, the doppelganger has substance and can act as something that really exists.
 
 (Base 10, +1 Touch, +2 Sun, +1 Mentem requisite, +1 copy of someone, +1 moving parts)
 
@@ -9972,7 +9972,7 @@ Due to experimentation, Scipio’s version of this spell creates images that nee
 ##### Garden of Eden
 CrIm 45<br>
 R: Voice, D: Concentration, T: Part<br>
-This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) creates a nearly perfect world around the caster, in which everything is so beautiful that it almost hurts the eye. Most human beings, many animals, and even some faeries lose any desire to fight or argue. While casting, the magus makes a Finesse roll, the result of which is the Ease Factor of a Personality Trait roll to resist this effect. Appropriate Personality Traits would be anger, hatred, violent, and so on. This spell needs to Penetrate to work.
+This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-101>)) creates a nearly perfect world around the caster, in which everything is so beautiful that it almost hurts the eye. Most human beings, many animals, and even some faeries lose any desire to fight or argue. While casting, the magus makes a Finesse roll, the result of which is the Ease Factor of a Personality Trait roll to resist this effect. Appropriate Personality Traits would be anger, hatred, violent, and so on. This spell needs to Penetrate to work.
 
 (Base 10, +2 Voice, +1 Concentration, +1 Part, +1 size, +2 extremely beautiful and detailed surroundings)
 
@@ -10021,14 +10021,14 @@ You change the targets’ smell (up to 100 people) in such a disgusting and awfu
 ##### Blessing the Merchant’s Lineage
 MuIm 35<br>
 R: Touch, D: Until (Baptism), T: Bloodline, Ritual<br>
-This spell changes all members of a bloodline so that they look more trustworthy, their voices are softer if needed, and they seem to be smiling whenever appropriate. This gives the whole bloodline a +3 on rolls that involve gaining trust or convincing others. But if anyone in the bloodline gets baptized the duration ends, so this spell is usually only used by pagans. It uses the Spell Timing mystery (see [page 100 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)).
+This spell changes all members of a bloodline so that they look more trustworthy, their voices are softer if needed, and they seem to be smiling whenever appropriate. This gives the whole bloodline a +3 on rolls that involve gaining trust or convincing others. But if anyone in the bloodline gets baptized the duration ends, so this spell is usually only used by pagans. It uses the Spell Timing mystery (see [page 100 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-100>)).
 
 (Base 3, +1 Touch, +4 Until, +3 Bloodline)
 
 ##### Servant of Fire
 MuIm(Ig,Me) 45<br>
 R: Voice, D: Fire, T: Individual<br>
-This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) turns a normal fire into a human servant. He has a simple intellect and is good for only simple tasks, but has no possibility of learning or free will. The servant must eat a lot of wood or other flammable materials, otherwise the fire will burn out, ending the spell. As long as the servant eats enough, however, the spell continues.
+This Glamour spell (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-101>)) turns a normal fire into a human servant. He has a simple intellect and is good for only simple tasks, but has no possibility of learning or free will. The servant must eat a lot of wood or other flammable materials, otherwise the fire will burn out, ending the spell. As long as the servant eats enough, however, the spell continues.
 
 This spell has a minor side effect from experimentation that makes the servant sing instead of speaking normally.
 
@@ -10106,7 +10106,7 @@ A bag made from dragon leather. It is a lesser enchanted device made with experi
 MuIm 20<br>
 Pen +0, +2/day, constant effect<br>
 R: Personal, D: Sun, T: Ind<br>
-The Glamour enchantment (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md>)) inside this bag makes the space inside it far bigger than it should be. More than 200 liters would fit into it, but because the weight isn’t reduced there is still a limit on the wielder. You could put a whole human body inside this bag, if you could bear its weight. If you’re searching for something inside it, you could be forced to crawl into it.
+The Glamour enchantment (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#page-101>)) inside this bag makes the space inside it far bigger than it should be. More than 200 liters would fit into it, but because the weight isn’t reduced there is still a limit on the wielder. You could put a whole human body inside this bag, if you could bear its weight. If you’re searching for something inside it, you could be forced to crawl into it.
 
 (Base 10, +2 Sun, +2 Room; +1 2/day, +3 environmental trigger for total of 34 levels)
 
