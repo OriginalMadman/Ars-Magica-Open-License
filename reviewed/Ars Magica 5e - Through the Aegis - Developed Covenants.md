@@ -5898,16 +5898,6 @@ Appearance: Chloris is a small, innocuous, tortoiseshell cat, and Ariane’s fam
 
 The Familiar Bond was forged with an InAn Lab Total of 26. The Cords are: +1 Gold, +1 Silver, +2 Bronze.
 
-## Notable Covenfolk
-
-Didyma’s covenfolk are mostly Greek. Most are members of the Branchidae family and were born at the covenant, which is a substantial village, but others are from Miletos or other villages in the region. A few Frankish mercenaries form a tiny but boisterous minority.
-
-### Companions
-
-Companions associated with the covenant include: Callista, the covenant’s representative at Miletos; Philip, a turb leader; Ella, the oracle; and the local metropolitan, Niketas.
-
-<!-- p. 81 --><a id="page-81"></a>
-
 #### William of Normandy: House Flambeau
 
 Characteristics: Int 0, Per +2(2), Pre 1(1), Com 0, Str +1(1), Sta +1(1), Dex +1(1), Qik +2(2)
@@ -6124,6 +6114,16 @@ Appearance: A brown falcon with a three foot wing-span, Torvus is a hoarder of f
 Torvus is a fast flyer and has a +3 bonus to rolls involving speed.
 
 The Familiar Bond was forged with an InAu Lab Total of 20. The Cords are: +1 Gold, 0 Silver, +2 Bronze.
+
+## Notable Covenfolk
+
+Didyma’s covenfolk are mostly Greek. Most are members of the Branchidae family and were born at the covenant, which is a substantial village, but others are from Miletos or other villages in the region. A few Frankish mercenaries form a tiny but boisterous minority.
+
+### Companions
+
+Companions associated with the covenant include: Callista, the covenant’s representative at Miletos; Philip, a turb leader; Ella, the oracle; and the local metropolitan, Niketas.
+
+<!-- p. 81 --><a id="page-81"></a>
 
 #### Callista: Arche and Representative in Miletos
 
@@ -8592,13 +8592,6 @@ Although married to the farmer Cormac, she has been cuckolding him with Fearghal
 
 Although a capable scribe, the 39-year old Maghnus is slovenly by nature and this is evident in his own appearance and that of his workshop. He is particularly skillful with languages, however, and is able to read, write, and speak Latin, Greek, Gaelic, French, and German with similar fluency. With a Dexterity of +1 and a Profession: Scribe of 7, he costs 7 Build Points.
 
-#### New Flaw: Poor Living Conditions
-
-*Minor, General*<br>
-Either because of this character’s own poor living conditions or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character’s base Living Conditions Modifier as per [**ArM5**, page 170](<Ars Magica 5e - Core Rules.md#living-conditions>).
-
-In the case of the Longmist grogs, their poor living conditions arises from days spent away from the covenant, living off the land and exposed to the elements.
-
 #### Piaras, the Percamenarius
 
 Piaras is a morose man and has little desire for company. However, the vellum he produces is of the highest quality and other covenants have sometimes called upon his services.
@@ -8624,6 +8617,18 @@ Longmist once maintained notable kennels and stables and, in the days when the c
 Aged 36, he frequently commits adultery with Úna the Herbalist. With no wife of his own and seemingly no prospect of one, it is a sin for which he is willing to forgive himself.
 
 He has a Dexterity of +2, an Animal Handling score of 7, and costs 7 Build Points.
+
+### Servants
+
+There are twelve servants in all and none live within the tower in the regio, instead living in the small village surrounding the old tower in the mundane world. There are eight women and four men. The women tend to the chores around the tower and work the kitchens, while the men are little more than laborers, usually working under the direction of the specialists described above.
+
+The covenant also employs four laborers and four teamsters who are responsible for general lifting, carrying, and other chores, and securing provisions for the covenant.
+
+### Grogs
+
+The covenant has a small turb of six grogs, captained by Bran in Gai Móir. For the most part, the grogs spend their days on the toll-bridge that forms an important part of the covenant’s income, escorting supply runs to market, and occasionally standing guard at the covenant itself. There is rarely any bother on the mundane front, but they are called upon now and then to dissuade hungry giants who wander into Longmist’s shrouded valley.
+
+At the start of 1220, the grogs fight as a trained group ([**ArM5**, page 173](<Ars Magica 5e - Core Rules.md#trained-group>) / [Definitive Edition, page 396](<Ars Magica - Definitive Edition (Core Rules).md#trained-group>)) and their preferred weapons are spear and sparra.
 
 #### Longmist Grog
 
@@ -8673,17 +8678,12 @@ The Longmist grogs lack leadership capability in themselves, which means that wh
 
 They are loyal to the covenant, more through habit than desire, but they are also lazy, and while they may often complain about how much work they are told to do, they are rarely pushed.
 
-### Servants
+#### New Flaw: Poor Living Conditions
 
-There are twelve servants in all and none live within the tower in the regio, instead living in the small village surrounding the old tower in the mundane world. There are eight women and four men. The women tend to the chores around the tower and work the kitchens, while the men are little more than laborers, usually working under the direction of the specialists described above.
+*Minor, General*<br>
+Either because of this character’s own poor living conditions or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character’s base Living Conditions Modifier as per [**ArM5**, page 170](<Ars Magica 5e - Core Rules.md#living-conditions>).
 
-The covenant also employs four laborers and four teamsters who are responsible for general lifting, carrying, and other chores, and securing provisions for the covenant.
-
-### Grogs
-
-The covenant has a small turb of six grogs, captained by Bran in Gai Móir. For the most part, the grogs spend their days on the toll-bridge that forms an important part of the covenant’s income, escorting supply runs to market, and occasionally standing guard at the covenant itself. There is rarely any bother on the mundane front, but they are called upon now and then to dissuade hungry giants who wander into Longmist’s shrouded valley.
-
-At the start of 1220, the grogs fight as a trained group ([**ArM5**, page 173](<Ars Magica 5e - Core Rules.md#trained-group>) / [Definitive Edition, page 396](<Ars Magica - Definitive Edition (Core Rules).md#trained-group>)) and their preferred weapons are spear and sparra.
+In the case of the Longmist grogs, their poor living conditions arises from days spent away from the covenant, living off the land and exposed to the elements.
 
 ## Covenant Organization
 
