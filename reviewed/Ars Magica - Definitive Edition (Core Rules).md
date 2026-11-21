@@ -157,6 +157,9 @@ Source: *DE markdown v1* = the issues list from previous markdown version; *foru
 - "snake–like" (p. 480) is set as "snake-like".
 - Missing full stops at the ends of some table cells, list items and abbreviations are added (e.g. p. 542 "separately.", p. 543 "Reinf.", "Std.").
 - The Spells Index uses the standard two-letter Art abbreviations ("ReVi", "PeVi", "CrVi") where the printed index has "ReVim" and similar (about 25 rows).
+- Virtue and Flaw type lines follow one order: size first, and "Major or Minor" for Virtues and Flaws that come in both sizes. The book prints "Minor or Major" for Potent Magic (p. 112), Magian Lineage (p. 100), Outsider (p. 148) and Beloved Rival (p. 128), against "Major or Minor" in about 30 other entries, and "General, Minor" for Prestigious Student (p. 112). The Potent Magic change comes from a community pull request by bllflt to the previous markdown version (OriginalMadman/Ars-Magica-Open-License #92) — thanks!
+- The type lines of the five Corrupted Beast Virtues and Flaws in the Bestiary (Corrupted Beast, Demonic Weakness, Horrifying Appearance, Greater and Lesser Infernal Power, pp. 494–495) are set in italics, as printed and as everywhere else, with the description following directly.
+- "*Specialties*:" with the colon outside the italics is set as "*Specialties:*", as in the rest of the Abilities chapter (Animal Ken, Carouse, Charm, Medicine, Sense Passions), and a missing space before "(General)" is added under Brawl (from the same pull request, plus Sense Passions).
 - Headings set in capitals are given in Title Case (see the note above).
 
 ### Index Corrections
@@ -4675,7 +4678,7 @@ You perform well in situations where luck is more of a factor than skill or tale
 The character is employed by a university to watch over the students and ensure that they speak only Latin in their colleges and hostels. He is a member of the urban community where the university is located. He may begin play with scores in Latin or Artes Liberales, although a score of more than 1 in Artes Liberales would be rare. He may live with the students if he is unmarried, but if he has a family then he lives with them, possessing keys to the students' housing to allow unannounced entry. It would be very unusual for such a character to be female, but it is not impossible.
 
 #### Magian Lineage
-*Minor or Major, General*<br>
+*Major or Minor, General*<br>
 This Virtue makes the character a true blood descendent of the Median tribe of Magians, the original priestly caste of Persia. Many mobeds, the priests of Zoroastrianism, possess this Virtue, either Minor or Major, but it is not a requisite. Details about Mythic Zoroastrianism can be found in *The Cradle and the Crescent*, Chapter 5.
 
 *Minor:* Your character's lineage is weak, although he or she is still ethnically Magian, and gains a strong constitution due to his purity. The character gains a –1 bonus to Aging rolls and a +3 bonus to resist the effects of disease.
@@ -5153,7 +5156,7 @@ Owning such a powerful relic is a great responsibility, and your character shoul
 You intuitively sense whenever something is wrong, or is likely to go wrong soon. Choosing this Virtue confers the Ability Premonitions 1 ([page 170](#premonitions-1)).
 
 #### Prestigious Student
-*General, Minor*<br>
+*Minor, General*<br>
 The character is a son of a nobleman or a prosperous merchant, matriculated in a university that specializes in either Civil Law or Medicine. He has a small group of retainers with him, two or three servants who attend to his needs while at the university. He was trained in Artes Liberales and Latin by a private tutor, and may purchase Academic Abilities at character generation. The character must take a Social Status Virtue to reflect where he is in the educational process.
 
 #### Priest
@@ -6083,7 +6086,7 @@ Something about the character's supernatural nature weakens him in relatively co
 <!-- p. 120 --><a id="page-120"></a>
 
 #### Beloved Rival
-*Minor or Major, Story*<br>
+*Major or Minor, Story*<br>
 For a Minor Story Flaw, the character has a rival who is both fiercely protective of him and obsessed with opposing him at every turn. For Tytalan magi, this rival is usually an older maga, most likely the magus's former teacher, or possibly an elder apprentice of the character's master. Much like the Enemies Flaw, the rival periodically causes trouble for the magus; however, she jealously guards the privilege of making the magus's life a misery, and often steps in to remove obstacles that are not of her own making. The rival genuinely believes that her opposition benefits her victim, and desires to see him prosper through adversity.
 
 If the character takes on the role of the beloved rival for another character, then this is a Major Flaw. The character generates stories by causing trouble for their rival, and also has to react when someone else tries to harm them.
@@ -6993,7 +6996,7 @@ You have been outlawed, and must live by your wits outside society. You may take
 You command a small group (three to six persons) of outlaws. Your followers look up to you and do what you tell them within reason. However, you must occasionally stick up for the group or one of its members, as well as provide for them. You often have to deal with challenges to your leadership in one form or another. You are well known as an outlaw in the local area, with a Reputation level of 3. You are actively sought by the local lord, sheriff, or other such official. You may take Martial Abilities at character generation. Grogs may not take this Flaw.
 
 #### Outsider
-*Minor or Major, Social Status*<br>
+*Major or Minor, Social Status*<br>
 You belong to a group that is both readily identifiable and distrusted or disliked. Examples in most of Europe include Jews, North Africans, and Arabs. For sagas set in Egypt, this Flaw is appropriate for Europeans.
 
 If you live in society, take the Major version. You are shunned and often persecuted because of this, and your life and freedom may occasionally be in peril. You have a bad Reputation of level 1 to 3 (depending upon how easy it is to identify you) among members of the dominant social group of your area.
@@ -8249,7 +8252,7 @@ By sensing passions, the character can often recognize incorporeal spirits. You 
 In addition, this Ability allows the character to Sense Holiness and Unholiness in a limited fashion, much like the Sense Holiness and Unholiness Ability. She can tell that something is either holy or unholy, but she cannot distinguish between the two. She feels the emotional presence associated with the Divine or the Infernal, but cannot pinpoint its supernatural origin. Thus, she might mistake a demon with a fair shape for an angel, or a fearsome-looking angel for a demon. By identifying the target's primary emotions or desires, however, you can usually get a good idea of which realm the target is associated with, assuming the character can penetrate its Magic Resistance.
 
 Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness.<br>
-*Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
+*Specialties:* auras, emotions, Personality Traits, in a general area. (Supernatural)
 
 #### Shapeshifter\*
 You may change your shape into that of a mundane animal from the size of a robin (–10) to that of a bear (+2). This requires a few seconds' (one round's) concentration, and a roll of Stamina + Shapeshifter against an Ease Factor of 9. Changing back to human form requires the same concentration, and the same roll.
@@ -22225,22 +22228,19 @@ To create the game statistics of a Corrupt Beast, start with the statistics of a
 
 ##### Corrupted Beast
 
-Minor Supernatural Flaw, animals only
-
+*Minor Supernatural Flaw, animals only*<br>
 The creature has been corrupted by Infernal power, and has acquired an Infernal Might of 5. The negative side of its character is brought to the fore, and it acquires one sinful Personality Trait at +6, such as Violent, Gluttonous or Lustful. As part of the corruption, the beast acquires some sort of disgusting or repellent appearance, decreasing its Presence to –6. However, should the animal make any attempt to scare or intimidate an opponent, this should be treated as a Presence of +6. Despite this deformity, it is possible (although difficult) to pass the animal off as a natural member of its species. Finally, the creature acquires the Tainted with Evil Flaw which affects the reactions of both humans and other animals towards it. Corrupted Beasts do not react negatively to The Gift.
 
 <!-- p. 487 --><a id="page-487"></a>
 
 ##### Demonic Weakness
 
-Minor Supernatural Flaw, Corrupted Beasts only
-
+*Minor Supernatural Flaw, Corrupted Beasts only*<br>
 The beast has a weakness similar to that of a demon. Corrupt Beasts cannot have the Ordering or Compulsion Weaknesses.
 
 ##### Horrifying Appearance
 
-Major Supernatural Flaw, Corrupted Beasts only
-
+*Major Supernatural Flaw, Corrupted Beasts only*<br>
 The creature is hideously deformed in some way, and this deformity causes a major hindrance to its life. These deformities may have some minor side benefit (a creature without a skeleton can seep through cracks, for example), but prevent the animal from ever being passed off as a member of its original species.
 
 > ##### Example Horrifying Appearances
@@ -22257,16 +22257,14 @@ The creature is hideously deformed in some way, and this deformity causes a majo
 
 ##### Greater Infernal Power
 
-Major Supernatural Virtue, Corrupted Beasts only
-
+*Major Supernatural Virtue, Corrupted Beasts only*<br>
 Choosing this Virtue adds 5 to the Infernal Might of the Corrupt Beast. The creature has an Infernal Power which it may activate by spending points from its Might Pool. Design the effect as if it were a Hermetic spell, or an Infernal Power, if you have *Realms of Power: The Infernal*. The level of effect cannot exceed the Corrupted Beast's (Infernal Might + 10).
 
 A Greater Power typically costs its magnitude in Might points to activate, and has an Init bonus equal to Qik + magnitude. A power is a Greater Infernal Power if it requires a Penetration total to work. Corrupt Beasts may have this Virtue more than once, each for a different power. Infernal Might increases for each Power acquired.
 
 ##### Lesser Infernal Power
 
-Minor Supernatural Virtue, Corrupted Beasts only
-
+*Minor Supernatural Virtue, Corrupted Beasts only*<br>
 Choosing this Virtue adds 2 to the Infernal Might of the Corrupt Beast. The creature has an Infernal Power which either affects it constantly or may be activated by spending points from its Might Pool. Design the effect as if it were a Hermetic spell, or an Infernal Power if you have *Realms of Power: The Infernal*, but adjust the level for Constant Effect or Maintaining Concentration if appropriate (ignoring other Effect Modifications). The level of effect cannot exceed the Corrupted Beast's Infernal Might. A Minor power typically costs 0–2 Might points to activate, and has an Init bonus equal to magnitude. A Lesser Infernal Power cannot have a Penetration Total; if the power would have to exceed the Magic Resistance of a target to operate (even if they do not have any Magic Resistance), then it is a Greater Power instead. Corrupt Beasts may have this Virtue more than once, each for a different power. Infernal Might increases for each Power acquired.
 
 #### Demonic Steed

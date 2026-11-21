@@ -157,6 +157,9 @@ Source: *DE markdown v1* = the issues list from previous markdown version; *foru
 - "snake–like" (p. 480) is set as "snake-like".
 - Missing full stops at the ends of some table cells, list items and abbreviations are added (e.g. p. 542 "separately.", p. 543 "Reinf.", "Std.").
 - The Spells Index uses the standard two-letter Art abbreviations ("ReVi", "PeVi", "CrVi") where the printed index has "ReVim" and similar (about 25 rows).
+- Virtue and Flaw type lines follow one order: size first, and "Major or Minor" for Virtues and Flaws that come in both sizes. The book prints "Minor or Major" for Potent Magic (p. 112), Magian Lineage (p. 100), Outsider (p. 148) and Beloved Rival (p. 128), against "Major or Minor" in about 30 other entries, and "General, Minor" for Prestigious Student (p. 112). The Potent Magic change comes from a community pull request by bllflt to the previous markdown version (OriginalMadman/Ars-Magica-Open-License #92) — thanks!
+- The type lines of the five Corrupted Beast Virtues and Flaws in the Bestiary (Corrupted Beast, Demonic Weakness, Horrifying Appearance, Greater and Lesser Infernal Power, pp. 494–495) are set in italics, as printed and as everywhere else, with the description following directly.
+- "*Specialties*:" with the colon outside the italics is set as "*Specialties:*", as in the rest of the Abilities chapter (Animal Ken, Carouse, Charm, Medicine, Sense Passions), and a missing space before "(General)" is added under Brawl (from the same pull request, plus Sense Passions).
 - Headings set in capitals are given in Title Case (see the note above).
 
 ### Index Corrections

@@ -1632,7 +1632,7 @@ You perform well in situations where luck is more of a factor than skill or tale
 The character is employed by a university to watch over the students and ensure that they speak only Latin in their colleges and hostels. He is a member of the urban community where the university is located. He may begin play with scores in Latin or Artes Liberales, although a score of more than 1 in Artes Liberales would be rare. He may live with the students if he is unmarried, but if he has a family then he lives with them, possessing keys to the students' housing to allow unannounced entry. It would be very unusual for such a character to be female, but it is not impossible.
 
 #### Magian Lineage
-*Minor or Major, General*<br>
+*Major or Minor, General*<br>
 This Virtue makes the character a true blood descendent of the Median tribe of Magians, the original priestly caste of Persia. Many mobeds, the priests of Zoroastrianism, possess this Virtue, either Minor or Major, but it is not a requisite. Details about Mythic Zoroastrianism can be found in *The Cradle and the Crescent*, Chapter 5.
 
 *Minor:* Your character's lineage is weak, although he or she is still ethnically Magian, and gains a strong constitution due to his purity. The character gains a –1 bonus to Aging rolls and a +3 bonus to resist the effects of disease.
@@ -2088,7 +2088,7 @@ By staring intently at people you make them feel uneasy, as if you are peering i
 <!-- p. 104 --><a id="page-104"></a>
 
 #### Potent Magic
-*Minor or Major, Hermetic*<br>
+*Major or Minor, Hermetic*<br>
 The maga's magic is particularly attuned to a narrow field, much as in a Magical Focus. The benefits of Potent Magic are compatible with a Magical Focus; unlike a Magical Focus, a maga may have more than one area of Potent Magic, although only one Potent Magic Virtue applies to any single activity.
 
 Potent Magic provides the maga with a bonus in her field of magic, and permits her to devise Potent spells that gain a casting bonus from the sympathetic magic in shapes and materials. Potent Magic can be taught as an alternative to a Magical Focus.
@@ -2110,7 +2110,7 @@ Owning such a powerful relic is a great responsibility, and your character shoul
 You intuitively sense whenever something is wrong, or is likely to go wrong soon. Choosing this Virtue confers the Ability Premonitions 1 ([page 170](<Ars Magica DE - 05. Abilities.md#premonitions>)).
 
 #### Prestigious Student
-*General, Minor*<br>
+*Minor, General*<br>
 The character is a son of a nobleman or a prosperous merchant, matriculated in a university that specializes in either Civil Law or Medicine. He has a small group of retainers with him, two or three servants who attend to his needs while at the university. He was trained in Artes Liberales and Latin by a private tutor, and may purchase Academic Abilities at character generation. The character must take a Social Status Virtue to reflect where he is in the educational process.
 
 #### Priest
@@ -3040,7 +3040,7 @@ Something about the character's supernatural nature weakens him in relatively co
 <!-- p. 120 --><a id="page-120"></a>
 
 #### Beloved Rival
-*Minor or Major, Story*<br>
+*Major or Minor, Story*<br>
 For a Minor Story Flaw, the character has a rival who is both fiercely protective of him and obsessed with opposing him at every turn. For Tytalan magi, this rival is usually an older maga, most likely the magus's former teacher, or possibly an elder apprentice of the character's master. Much like the Enemies Flaw, the rival periodically causes trouble for the magus; however, she jealously guards the privilege of making the magus's life a misery, and often steps in to remove obstacles that are not of her own making. The rival genuinely believes that her opposition benefits her victim, and desires to see him prosper through adversity.
 
 If the character takes on the role of the beloved rival for another character, then this is a Major Flaw. The character generates stories by causing trouble for their rival, and also has to react when someone else tries to harm them.
@@ -3950,7 +3950,7 @@ You have been outlawed, and must live by your wits outside society. You may take
 You command a small group (three to six persons) of outlaws. Your followers look up to you and do what you tell them within reason. However, you must occasionally stick up for the group or one of its members, as well as provide for them. You often have to deal with challenges to your leadership in one form or another. You are well known as an outlaw in the local area, with a Reputation level of 3. You are actively sought by the local lord, sheriff, or other such official. You may take Martial Abilities at character generation. Grogs may not take this Flaw.
 
 #### Outsider
-*Minor or Major, Social Status*<br>
+*Major or Minor, Social Status*<br>
 You belong to a group that is both readily identifiable and distrusted or disliked. Examples in most of Europe include Jews, North Africans, and Arabs. For sagas set in Egypt, this Flaw is appropriate for Europeans.
 
 If you live in society, take the Major version. You are shunned and often persecuted because of this, and your life and freedom may occasionally be in peril. You have a bad Reputation of level 1 to 3 (depending upon how easy it is to identify you) among members of the dominant social group of your area.

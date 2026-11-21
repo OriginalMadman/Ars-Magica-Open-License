@@ -3424,22 +3424,19 @@ To create the game statistics of a Corrupt Beast, start with the statistics of a
 
 ##### Corrupted Beast
 
-Minor Supernatural Flaw, animals only
-
+*Minor Supernatural Flaw, animals only*<br>
 The creature has been corrupted by Infernal power, and has acquired an Infernal Might of 5. The negative side of its character is brought to the fore, and it acquires one sinful Personality Trait at +6, such as Violent, Gluttonous or Lustful. As part of the corruption, the beast acquires some sort of disgusting or repellent appearance, decreasing its Presence to –6. However, should the animal make any attempt to scare or intimidate an opponent, this should be treated as a Presence of +6. Despite this deformity, it is possible (although difficult) to pass the animal off as a natural member of its species. Finally, the creature acquires the Tainted with Evil Flaw which affects the reactions of both humans and other animals towards it. Corrupted Beasts do not react negatively to The Gift.
 
 <!-- p. 487 --><a id="page-487"></a>
 
 ##### Demonic Weakness
 
-Minor Supernatural Flaw, Corrupted Beasts only
-
+*Minor Supernatural Flaw, Corrupted Beasts only*<br>
 The beast has a weakness similar to that of a demon. Corrupt Beasts cannot have the Ordering or Compulsion Weaknesses.
 
 ##### Horrifying Appearance
 
-Major Supernatural Flaw, Corrupted Beasts only
-
+*Major Supernatural Flaw, Corrupted Beasts only*<br>
 The creature is hideously deformed in some way, and this deformity causes a major hindrance to its life. These deformities may have some minor side benefit (a creature without a skeleton can seep through cracks, for example), but prevent the animal from ever being passed off as a member of its original species.
 
 > ##### Example Horrifying Appearances
@@ -3456,16 +3453,14 @@ The creature is hideously deformed in some way, and this deformity causes a majo
 
 ##### Greater Infernal Power
 
-Major Supernatural Virtue, Corrupted Beasts only
-
+*Major Supernatural Virtue, Corrupted Beasts only*<br>
 Choosing this Virtue adds 5 to the Infernal Might of the Corrupt Beast. The creature has an Infernal Power which it may activate by spending points from its Might Pool. Design the effect as if it were a Hermetic spell, or an Infernal Power, if you have *Realms of Power: The Infernal*. The level of effect cannot exceed the Corrupted Beast's (Infernal Might + 10).
 
 A Greater Power typically costs its magnitude in Might points to activate, and has an Init bonus equal to Qik + magnitude. A power is a Greater Infernal Power if it requires a Penetration total to work. Corrupt Beasts may have this Virtue more than once, each for a different power. Infernal Might increases for each Power acquired.
 
 ##### Lesser Infernal Power
 
-Minor Supernatural Virtue, Corrupted Beasts only
-
+*Minor Supernatural Virtue, Corrupted Beasts only*<br>
 Choosing this Virtue adds 2 to the Infernal Might of the Corrupt Beast. The creature has an Infernal Power which either affects it constantly or may be activated by spending points from its Might Pool. Design the effect as if it were a Hermetic spell, or an Infernal Power if you have *Realms of Power: The Infernal*, but adjust the level for Constant Effect or Maintaining Concentration if appropriate (ignoring other Effect Modifications). The level of effect cannot exceed the Corrupted Beast's Infernal Might. A Minor power typically costs 0–2 Might points to activate, and has an Init bonus equal to magnitude. A Lesser Infernal Power cannot have a Penetration Total; if the power would have to exceed the Magic Resistance of a target to operate (even if they do not have any Magic Resistance), then it is a Greater Power instead. Corrupt Beasts may have this Virtue more than once, each for a different power. Infernal Might increases for each Power acquired.
 
 #### Demonic Steed
