@@ -1077,7 +1077,7 @@ A True Name is a secret name that is an expression of the spiritual essence of a
 
 The True Name of a Daimon is also an indefinite duration Arcane Connection to all of its Aspects, although a magus needs to specify which Aspect a spell is intended to target. If the Arcane Connection is being used to increase the Penetration of a spell that is being targeted by other means, the target is already specified, but this may be more difficult for a spell at Arcane Connection range.
 
-Synthemata are signs, symbols, or passwords that link a magician to a supernatural creature; any being with a Might score has synthemata, regardless of whether they also have a True Name. Theurgic spells include these magical words in the formula of incantation; while granting no actual power, they are necessary for the correct operation of this magic, and remain a secret of the craft. Some magi and hedge wizards have the ability to work the correct synthemata into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in [*The Mysteries Revised Edition*, pages 86–88](<../Ars Magica 5e - The Mysteries (Revised).md>). Knowing the True Name of a creature adds 5 to all lab totals to research synthemata for that same being.
+Synthemata are signs, symbols, or passwords that link a magician to a supernatural creature; any being with a Might score has synthemata, regardless of whether they also have a True Name. Theurgic spells include these magical words in the formula of incantation; while granting no actual power, they are necessary for the correct operation of this magic, and remain a secret of the craft. Some magi and hedge wizards have the ability to work the correct synthemata into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in [*The Mysteries Revised Edition*, pages 86–88](<../Ars Magica 5e - The Mysteries (Revised).md#page-86>). Knowing the True Name of a creature adds 5 to all lab totals to research synthemata for that same being.
 
 #### Aneirin the Bard
 
@@ -1133,7 +1133,7 @@ Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Banished (13+)
 Powers:
 
 *Augury*, varies, Init +5, Mentem:<br>
-By using this power Chnoubis is able to perform auguries as the Virtue Divination & Augury (see [*The Mysteries Revised Edition*, page 58](<../Ars Magica 5e - The Mysteries (Revised).md#chapter-7-divination--augury>)), with each Might Point allowing ten levels of success. If you do not have access to *The Mysteries Revised Edition*, this power allows Chnoubis to duplicate the effects of any Hermetic Intellego spell, and costs 1 point for every ten levels of the spell.
+By using this power Chnoubis is able to perform auguries as the Virtue Divination & Augury (see [*The Mysteries Revised Edition*, page 58](<../Ars Magica 5e - The Mysteries (Revised).md#chapter-seven-divination--augury>)), with each Might Point allowing ten levels of success. If you do not have access to *The Mysteries Revised Edition*, this power allows Chnoubis to duplicate the effects of any Hermetic Intellego spell, and costs 1 point for every ten levels of the spell.
 
 *Aura of Rightful Authority*, 4 points, Init +5, Mentem:<br>
 Equivalent to the ReMe20 Hermetic spell.

@@ -653,7 +653,7 @@ The pagan trappings of the cult are seen by many as foolish or even blasphemous 
 
 Within House Flambeau, the flamines and other Mercurians tend to emphasize gods with martial or civic aspects, such as Mars, Apollo, Minerva, or Jupiter. They look back on Imperial Rome as a bringer of civilization, prosperity, and enlightenment; many of them regard the Order of Hermes as having inherited this role. Just as the ancient cult supported the Roman state, the Flambeau branch of the Cult of Mercury seeks to guide and support the Order.
 
-Other Hermetic groups are said to have an interest in Roman ceremonies and culture, such as the Mystery Cult called the Neo-Mercurians (see [*The Mysteries*, page 114](<Ars Magica 5e - The Mysteries (Revised).md#chapter-14-mystery-cults>)), or the holy societas Sol Invicti (see *The Divine*, page 71). Many believe that they are somehow related, so that a magus who proves himself in the Cult of Mercury might be invited to join one of the others.
+Other Hermetic groups are said to have an interest in Roman ceremonies and culture, such as the Mystery Cult called the Neo-Mercurians (see [*The Mysteries*, page 114](<Ars Magica 5e - The Mysteries (Revised).md#chapter-fourteen-mystery-cults>)), or the holy societas Sol Invicti (see *The Divine*, page 71). Many believe that they are somehow related, so that a magus who proves himself in the Cult of Mercury might be invited to join one of the others.
 
 ### Societas Flambonis: The Mithraians
 
@@ -4967,7 +4967,7 @@ Crateuas’s potions worked better than Mithridates could have imagined. When Mi
 >
 > The Greeks founded temples dedicated to Aesculapius across the Grecian peninsula and Asia Minor. The temples were usually located near a mineral spring and were often filled with art and treasure from grateful patients. They also tended to have nurseries for breeding the snakes that symbolized Aesculapius’s powers and were used extensively in healing ceremonies.
 >
-> Pharmacopoeians are keenly interested in recovering Crateuas’s herbal and preventing it from falling into the hands of others. They believe that a dedicated researcher could uncover the secrets of the Root-Cutter Virtue with access to the text. It is left to the storyguide’s discretion whether these fears are well founded, but if they are true, each volume of the herbal provides a source of Insight to anyone attempting to make a Breakthrough to replicate the Root-Cutter Virtue. (See [*Ancient Magic*, page 7](<Ars Magica 5e - Magic - Ancient Magic.md>) for the applicable rules).
+> Pharmacopoeians are keenly interested in recovering Crateuas’s herbal and preventing it from falling into the hands of others. They believe that a dedicated researcher could uncover the secrets of the Root-Cutter Virtue with access to the text. It is left to the storyguide’s discretion whether these fears are well founded, but if they are true, each volume of the herbal provides a source of Insight to anyone attempting to make a Breakthrough to replicate the Root-Cutter Virtue. (See [*Ancient Magic*, page 7](<Ars Magica 5e - Magic - Ancient Magic.md#page-7>) for the applicable rules).
 
 ### Culture
 

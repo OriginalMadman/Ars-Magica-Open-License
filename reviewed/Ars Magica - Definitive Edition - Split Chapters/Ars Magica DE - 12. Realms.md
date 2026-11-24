@@ -305,7 +305,7 @@ Miracles are the direct intervention of God in the world. As such, they can do a
 >
 > Excommunication cancels these benefits (but only if the excommunication is God's will). Those listed here also have a Penetration 0 Aura of Rightful Authority extending to Voice Range. Roughly speaking, a legatus a latere is a cleric authorized to act on behalf of the Pope, with his power. A legatus missus has the same authorization, but for a single purpose.
 >
-> For more details, see [*The Church*, page 31](<../Ars Magica 5e - The Church.md>).
+> For more details, see [*The Church*, page 31](<../Ars Magica 5e - The Church.md#page-31>).
 >
 > - Pope 25
 > - Cardinal or Legatus a latere 20

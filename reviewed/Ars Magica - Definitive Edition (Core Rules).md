@@ -888,7 +888,7 @@ The House has an important philosophical split between Traditionalists, who beli
 
 <!-- p. 15 --><a id="page-15"></a>
 
-The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/Transitionalist debate. She resides at the domus magna of the House, Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedyosmos in the Theban Tribunal. Hedyosmos is located in a labyrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see [*The Sundered Eagle*, page 66](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md>)).
+The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/Transitionalist debate. She resides at the domus magna of the House, Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedyosmos in the Theban Tribunal. Hedyosmos is located in a labyrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see [*The Sundered Eagle*, page 66](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#page-66>)).
 
 ### House Jerbiton
 
@@ -940,7 +940,7 @@ House Tremere is a true lineage. All of its members can trace a chain back throu
 
 In addition, Tremere magi hold their filii's voting sigils (see [page 224](#sigils)) until the filius beats the parens in certamen, or until the parens dies. If a Tremere magus who does not hold his own sigil trains an apprentice, the new magus' sigil is held by the parens of the training magus, assuming that that magus holds his own sigil. If he does not, the sigil is passed back up the chain until it reaches a magus who does hold his own sigil. As a result of this custom, House Tremere's votes are concentrated in a very limited number of hands.
 
-The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see [*Against the Dark*, page 21](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md>)). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see [*Against the Dark*, page 30](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#prima>)). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see [*Guardians of the Forests*, page 84](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>)).
+The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see [*Against the Dark*, page 21](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#page-21>)). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see [*Against the Dark*, page 30](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#prima>)). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see [*Guardians of the Forests*, page 84](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#page-84>)).
 
 <!-- p. 17 --><a id="page-17"></a>
 
@@ -3741,7 +3741,7 @@ You have risen to enjoy the status and privilege associated with the most import
 
 #### Aristotelian Training
 *Minor, General*<br>
-The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11 of *Art and Academe*](<Ars Magica 5e - Art & Academe.md>)). This Virtue is compatible with Puissant Artes Liberales.
+The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11 of *Art and Academe*](<Ars Magica 5e - Art & Academe.md#page-11>)). This Virtue is compatible with Puissant Artes Liberales.
 
 #### Atlantean Magic
 *Minor, Hermetic*<br>
@@ -3869,7 +3869,7 @@ You are very careful with a specific Ability, and are less likely to fail specta
 
 #### Clan Ilfetu
 *Minor, Hermetic*<br>
-The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see [*The Mysteries Revised Edition*, page 58](<Ars Magica 5e - The Mysteries (Revised).md#chapter-7-divination--augury>)); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes: Mystery Cults*, [page 12](#page-12), for more details on House Bjornaer and the role of Clan Ilfetu.
+The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see [*The Mysteries Revised Edition*, page 58](<Ars Magica 5e - The Mysteries (Revised).md#chapter-seven-divination--augury>)); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes: Mystery Cults*, [page 12](#page-12), for more details on House Bjornaer and the role of Clan Ilfetu.
 
 <!-- p. 74 --><a id="page-74"></a>
 
@@ -4007,7 +4007,7 @@ This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest V
 
 > #### Animal Characters
 >
-> An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in [*Grogs*, page 136](<Ars Magica 5e - Social - Grogs.md>), but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly *Realms of Power: Faerie* ([page 50](#page-50)) and *Realms of Power: Magic* (Chapter 5).
+> An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in [*Grogs*, page 136](<Ars Magica 5e - Social - Grogs.md#page-136>), but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly *Realms of Power: Faerie* ([page 50](#page-50)) and *Realms of Power: Magic* (Chapter 5).
 
 #### Domestic Animal
 *Free, Social Status, animals only*<br>
@@ -4131,7 +4131,7 @@ Type of Faerie Blood (pick one, or create a similar one):
 
 *Sidhe Blood:* You are descended from one of the noble fay who rule the lands of Summer and Sunlight. Because of the striking and unusual qualities of your nature add +1 to your Presence, but not to more than +3. Many mortals may consider you fascinating or alluring.
 
-*Spinnen Blood:* A character who has Spinnen Blood can convert his or her own body weight of fiber into cloth per day, simply by touching it. Old cloth, or products made of cloth fibers, can be unwoven using the same ability, but this counts toward the maximum weight of cloth a character can alter per day. Some Spinnen, particularly those who have served as companions to magi, create other useful objects, like tents, ropes, or sails in lieu of the same weight of cloth. These characters are from a single family line that originated near Ghent; see [*The Lion and the Lily*, page 97](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md>), for details of how most of the family live.
+*Spinnen Blood:* A character who has Spinnen Blood can convert his or her own body weight of fiber into cloth per day, simply by touching it. Old cloth, or products made of cloth fibers, can be unwoven using the same ability, but this counts toward the maximum weight of cloth a character can alter per day. Some Spinnen, particularly those who have served as companions to magi, create other useful objects, like tents, ropes, or sails in lieu of the same weight of cloth. These characters are from a single family line that originated near Ghent; see [*The Lion and the Lily*, page 97](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#page-97>), for details of how most of the family live.
 
 *Undine Blood:* The undines are the faeries of the water, and you get a +2 bonus to any action taken underwater, which will partially offset any penalty applied.
 
@@ -4353,7 +4353,7 @@ This Virtue may be associated with any supernatural realm. If you have access to
 
 #### Greater Purifying Touch
 *Major, Supernatural*<br>
-You can, with a touch and the expenditure of a Fatigue level, cure a single serious disease. This disease should be either life-threatening or seriously disabling, and should be one from which people do not normally recover by themselves. You must choose the disease that you can cure when you take this Virtue, and you can only cure that disease. You can only choose a disease, not other types of injury or misfortune. See [page 406](#page-406) for more information on diseases, and [*Art and Academe*, page 45](<Ars Magica 5e - Art & Academe.md>) for more detail.
+You can, with a touch and the expenditure of a Fatigue level, cure a single serious disease. This disease should be either life-threatening or seriously disabling, and should be one from which people do not normally recover by themselves. You must choose the disease that you can cure when you take this Virtue, and you can only cure that disease. You can only choose a disease, not other types of injury or misfortune. See [page 406](#page-406) for more information on diseases, and [*Art and Academe*, page 45](<Ars Magica 5e - Art & Academe.md#page-45>) for more detail.
 
 #### Guardian Angel
 *Major, General*<br>
@@ -4513,7 +4513,7 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 >
 > Made by the Mortuary Society of Kassala, this dust has powdered gold as its main component, with myrrh and other spices making up the rest. Twenty handfuls contain about a Mythic Pound's worth of gold dust. Kassalan Dust is necessary for Kassalan Exorcism, but grants no bonus. A handful also adds +3 to uses of the Corpse Magic Supernatural Ability to command a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society.
 >
-> More details on the Kassalan Mortuary Society can be found in [*Lands of the Nile*, from page 88](<Ars Magica 5e - Lands of the Nile - Egypt, Ethiopia & Nubia.md>).
+> More details on the Kassalan Mortuary Society can be found in [*Lands of the Nile*, from page 88](<Ars Magica 5e - Lands of the Nile - Egypt, Ethiopia & Nubia.md#page-88>).
 
 <!-- p. 88 --><a id="page-88"></a>
 
@@ -4625,7 +4625,7 @@ This Virtue may be associated with any supernatural realm. If you have access to
 
 #### Lesser Purifying Touch
 *Minor, Supernatural*<br>
-You can, with a touch and the expenditure of a Fatigue level, heal a specific illness. This illness should be one that people often recover from on their own, or one that is not particularly serious. You can only choose an illness, not an injury or other misfortune. See [page 406](#page-406) for rules on diseases, and [*Art and Academe*, page 45](<Ars Magica 5e - Art & Academe.md>) for more detail.
+You can, with a touch and the expenditure of a Fatigue level, heal a specific illness. This illness should be one that people often recover from on their own, or one that is not particularly serious. You can only choose an illness, not an injury or other misfortune. See [page 406](#page-406) for rules on diseases, and [*Art and Academe*, page 45](<Ars Magica 5e - Art & Academe.md#page-45>) for more detail.
 
 #### License of Absence
 *Major, General*<br>
@@ -6492,7 +6492,7 @@ The character has studied for a specific university license and failed his final
 
 #### The Falling Evil
 *Major, General*<br>
-The character occasionally suffers convulsions and blackouts. Convulsions occur randomly and infrequently; for any given event, the storyguide should secretly roll a stress die, and if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm causes random movements and hallucinations, leaving the character temporarily Incapacitated. She collapses to the ground and twitches, and you can make a Stamina roll against an Ease Factor of 9 every round; success means that the convulsion ends, although the character is reduced to the Dazed Fatigue level following a fit. The Falling Evil is usually caused by possession by demons ([*Art & Academe*, page 48](<Ars Magica 5e - Art & Academe.md>)), but that form of the illness is usually temporary in nature. The character does not seem to have a disease, and cannot naturally recover from this affliction. It may be that it stems from a different source. In Ancient Greece and Rome, it was called the "divine illness," as it was believed that the gods spoke to those who had such fits.
+The character occasionally suffers convulsions and blackouts. Convulsions occur randomly and infrequently; for any given event, the storyguide should secretly roll a stress die, and if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm causes random movements and hallucinations, leaving the character temporarily Incapacitated. She collapses to the ground and twitches, and you can make a Stamina roll against an Ease Factor of 9 every round; success means that the convulsion ends, although the character is reduced to the Dazed Fatigue level following a fit. The Falling Evil is usually caused by possession by demons ([*Art & Academe*, page 48](<Ars Magica 5e - Art & Academe.md#page-48>)), but that form of the illness is usually temporary in nature. The character does not seem to have a disease, and cannot naturally recover from this affliction. It may be that it stems from a different source. In Ancient Greece and Rome, it was called the "divine illness," as it was believed that the gods spoke to those who had such fits.
 
 #### False Power
 *Major, Supernatural, Tainted*<br>
@@ -6735,7 +6735,7 @@ The character's magic is easily distracted, and it stutters and starts. Spells t
 
 #### Independent Craftsman
 *Minor, General*<br>
-This character has his own way of working and doesn't like other people getting in his way. This character always treats his Leadership and Craft or Profession Abilities as three levels lower when working with others on a given task. For Craftsmen, this means that whether he is working as an assistant or working with assistants his Craft Ability has a penalty of –3. This affects the number of assistants he can employ in the workshop and the benefit that he provides when working as an assistant. If you are not using the rules in [*City and Guild* (page 73](<Ars Magica 5e - City & Guild.md>)), treat this is a Personality Flaw.
+This character has his own way of working and doesn't like other people getting in his way. This character always treats his Leadership and Craft or Profession Abilities as three levels lower when working with others on a given task. For Craftsmen, this means that whether he is working as an assistant or working with assistants his Craft Ability has a penalty of –3. This affects the number of assistants he can employ in the workshop and the benefit that he provides when working as an assistant. If you are not using the rules in [*City and Guild* (page 73](<Ars Magica 5e - City & Guild.md#page-73>)), treat this is a Personality Flaw.
 
 #### Indiscreet
 *Major, Story*<br>
@@ -7079,7 +7079,7 @@ You are bad at learning new things. Subtract 3 from all Advancement Totals deriv
 
 #### Primitive Equipment
 *Minor, General*<br>
-The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a –1 penalty to Attack and Defense if using inappropriate weapons, and a –1 penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md>)) is raised by 1–3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation ([*City & Guild*, page 65](<Ars Magica 5e - City & Guild.md#workshop-innovation>)). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
+The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a –1 penalty to Attack and Defense if using inappropriate weapons, and a –1 penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md#page-67>)) is raised by 1–3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation ([*City & Guild*, page 65](<Ars Magica 5e - City & Guild.md#workshop-innovation>)). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
 
 #### Primogeniture Lineage
 *Minor, Story and Hermetic*<br>
@@ -8653,7 +8653,7 @@ This Hook could be Unknown, if the obligations were incurred by other members of
 
 **Hermetic Politics:** The covenant is engaged in the elaborate game of trading of favors that passes for politics in some Hermetic tribunals. When the saga begins, the covenant owes favors to three other covenants, but is owed three favors as well. The Coenobium Rhodanien, in the Provençal Tribunal, is notorious for its involvement in Hermetic politics, preventing the foundation of any covenants that it does not control over a substantial area of the tribunal ([*Faith & Flame*, page 128](<Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md#the-tribunal-of-1207>)).
 
-**Monster:** A powerful supernatural creature lives near the covenant. The creature can be aligned with any realm, and should be too powerful for the player characters to defeat at the beginning of the campaign. This Hook may be Unknown. Circulus Ruber, the oldest covenant in the Hibernian Tribunal, is plagued by a Cailleach, an evil faerie hag who would love to tear the tower down, but cannot breach its Aegis of the Hearth. She takes her frustration out on travelers to and from the covenant ([*The Contested Isle*, page 81](<Ars Magica 5e - The Contested Isle - The Hibernian Tribunal.md>)).
+**Monster:** A powerful supernatural creature lives near the covenant. The creature can be aligned with any realm, and should be too powerful for the player characters to defeat at the beginning of the campaign. This Hook may be Unknown. Circulus Ruber, the oldest covenant in the Hibernian Tribunal, is plagued by a Cailleach, an evil faerie hag who would love to tear the tower down, but cannot breach its Aegis of the Hearth. She takes her frustration out on travelers to and from the covenant ([*The Contested Isle*, page 81](<Ars Magica 5e - The Contested Isle - The Hibernian Tribunal.md#page-81>)).
 
 **Poverty:** The covenant has only one Lesser source of income, with little or no surplus. This may suffice for day to day matters, but resources for major expenses require a story. This Hook can be Unknown, but probably not for very long
 
@@ -8691,7 +8691,7 @@ The temporal and spiritual authorities of an area cannot ignore a covenant that 
 
 **Regio:** There is a regio on the covenant site, although the covenant is not in it. The magi do not know everything that is in the regio, and inhabitants of some sort occasionally come out and cause problems. If the regio is not magical, that counts as an additional Minor Hook.
 
-**Rival:** Someone or some group is working to destroy the covenant, and has the resources for this to be possible. Thus, the rival must be of comparable power to the covenant. The Scholomance, in the Transylvanian Tribunal, is a school for future apprentices, agents, and companions. However, it is in a regio that is not always accessible, and has gained a reputation as a school for sorcerers, run by the devil himself. A papal legate has been ordered to investigate these rumors, and has established himself in the area ([*Against the Dark*, page 91](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md>)).
+**Rival:** Someone or some group is working to destroy the covenant, and has the resources for this to be possible. Thus, the rival must be of comparable power to the covenant. The Scholomance, in the Transylvanian Tribunal, is a school for future apprentices, agents, and companions. However, it is in a regio that is not always accessible, and has gained a reputation as a school for sorcerers, run by the devil himself. A papal legate has been ordered to investigate these rumors, and has established himself in the area ([*Against the Dark*, page 91](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#page-91>)).
 
 **Road:** The covenant is on an important mystical trail of some kind, so that supernatural creatures, from one or more realms, often turn up at the covenant. The covenant of Didyma, in the Theban Tribunal, is linked to the city of Miletos by the Sacred Way. This is an important mundane road, but also a major route from the faerie realm to the mundane world, and faeries often appear on it (*Through the Aegis*, Chapter 4).
 
@@ -8747,7 +8747,7 @@ The great tower of the covenant is surrounded by a courtyard, which contains woo
 
 #### Major Boons
 
-**Aura:** The aura of a limited area of the covenant increases by one point. It is only worth taking this if the aura of the whole covenant is already 5, as this then allows the covenfolk to live and work mostly outside the level 6 (or higher) aura, and thus avoid Warping. The covenant of Hedyosmos, in the Theban Tribunal, is built in a labyrinth of caves of steadily increasing Magic aura. Rumor has it that there is a gateway to the Magic Realm, the Underworld, or both in the strongest area of the aura. The magi of the covenant are famed for their mastery of magic of the earth, the dead, and curses, and light and speech are forbidden in common areas, giving the covenant a sinister reputation ([*The Sundered Eagle*, page 66](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md>)).
+**Aura:** The aura of a limited area of the covenant increases by one point. It is only worth taking this if the aura of the whole covenant is already 5, as this then allows the covenfolk to live and work mostly outside the level 6 (or higher) aura, and thus avoid Warping. The covenant of Hedyosmos, in the Theban Tribunal, is built in a labyrinth of caves of steadily increasing Magic aura. Rumor has it that there is a gateway to the Magic Realm, the Underworld, or both in the strongest area of the aura. The magi of the covenant are famed for their mastery of magic of the earth, the dead, and curses, and light and speech are forbidden in common areas, giving the covenant a sinister reputation ([*The Sundered Eagle*, page 66](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#page-66>)).
 
 **Curtain Walls and Mural Towers (requires Castle):** A curtain wall is a crenelated wall around the bailey. The wall is around thirty feet high and between eight and twenty feet thick. It has an exterior of dressed stones and is filled with a rubble core. Mural towers protect a curtain wall.
 
@@ -18292,7 +18292,7 @@ Since most people do not have access to medical attention, a disease with an Eas
 
 Note that a type of disease can have any Ease Factor and Wound type, as they come in varying strengths.
 
-More detailed rules for diseases are provided in [*Art and Academe*, pages 45–51](<Ars Magica 5e - Art & Academe.md>).
+More detailed rules for diseases are provided in [*Art and Academe*, pages 45–51](<Ars Magica 5e - Art & Academe.md#page-45>).
 
 #### Disease Table
 
@@ -18305,7 +18305,7 @@ More detailed rules for diseases are provided in [*Art and Academe*, pages 45–
 
 #### Poisons
 
-Poisons come in many forms, derived from plants, animals, and minerals. The Ease Factor for the initial Stamina check is at least 3, as nothing weaker counts as a poison, and can range as high as 15. Poisons can inflict fatal wounds from the beginning. Poisons are treated as injuries for recovery purposes and the details of Recovery rolls. More information on poisons can also be found in [*Art and Academe*, particularly pages 64–65](<Ars Magica 5e - Art & Academe.md>).
+Poisons come in many forms, derived from plants, animals, and minerals. The Ease Factor for the initial Stamina check is at least 3, as nothing weaker counts as a poison, and can range as high as 15. Poisons can inflict fatal wounds from the beginning. Poisons are treated as injuries for recovery purposes and the details of Recovery rolls. More information on poisons can also be found in [*Art and Academe*, particularly pages 64–65](<Ars Magica 5e - Art & Academe.md#page-64>).
 
 #### Poison Table
 
@@ -18703,7 +18703,7 @@ Miracles are the direct intervention of God in the world. As such, they can do a
 >
 > Excommunication cancels these benefits (but only if the excommunication is God's will). Those listed here also have a Penetration 0 Aura of Rightful Authority extending to Voice Range. Roughly speaking, a legatus a latere is a cleric authorized to act on behalf of the Pope, with his power. A legatus missus has the same authorization, but for a single purpose.
 >
-> For more details, see [*The Church*, page 31](<Ars Magica 5e - The Church.md>).
+> For more details, see [*The Church*, page 31](<Ars Magica 5e - The Church.md#page-31>).
 >
 > - Pope 25
 > - Cardinal or Legatus a latere 20
@@ -19881,7 +19881,7 @@ A True Name is a secret name that is an expression of the spiritual essence of a
 
 The True Name of a Daimon is also an indefinite duration Arcane Connection to all of its Aspects, although a magus needs to specify which Aspect a spell is intended to target. If the Arcane Connection is being used to increase the Penetration of a spell that is being targeted by other means, the target is already specified, but this may be more difficult for a spell at Arcane Connection range.
 
-Synthemata are signs, symbols, or passwords that link a magician to a supernatural creature; any being with a Might score has synthemata, regardless of whether they also have a True Name. Theurgic spells include these magical words in the formula of incantation; while granting no actual power, they are necessary for the correct operation of this magic, and remain a secret of the craft. Some magi and hedge wizards have the ability to work the correct synthemata into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in [*The Mysteries Revised Edition*, pages 86–88](<Ars Magica 5e - The Mysteries (Revised).md>). Knowing the True Name of a creature adds 5 to all lab totals to research synthemata for that same being.
+Synthemata are signs, symbols, or passwords that link a magician to a supernatural creature; any being with a Might score has synthemata, regardless of whether they also have a True Name. Theurgic spells include these magical words in the formula of incantation; while granting no actual power, they are necessary for the correct operation of this magic, and remain a secret of the craft. Some magi and hedge wizards have the ability to work the correct synthemata into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in [*The Mysteries Revised Edition*, pages 86–88](<Ars Magica 5e - The Mysteries (Revised).md#page-86>). Knowing the True Name of a creature adds 5 to all lab totals to research synthemata for that same being.
 
 #### Aneirin the Bard
 
@@ -19937,7 +19937,7 @@ Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Banished (13+)
 Powers:
 
 *Augury*, varies, Init +5, Mentem:<br>
-By using this power Chnoubis is able to perform auguries as the Virtue Divination & Augury (see [*The Mysteries Revised Edition*, page 58](<Ars Magica 5e - The Mysteries (Revised).md#chapter-7-divination--augury>)), with each Might Point allowing ten levels of success. If you do not have access to *The Mysteries Revised Edition*, this power allows Chnoubis to duplicate the effects of any Hermetic Intellego spell, and costs 1 point for every ten levels of the spell.
+By using this power Chnoubis is able to perform auguries as the Virtue Divination & Augury (see [*The Mysteries Revised Edition*, page 58](<Ars Magica 5e - The Mysteries (Revised).md#chapter-seven-divination--augury>)), with each Might Point allowing ten levels of success. If you do not have access to *The Mysteries Revised Edition*, this power allows Chnoubis to duplicate the effects of any Hermetic Intellego spell, and costs 1 point for every ten levels of the spell.
 
 *Aura of Rightful Authority*, 4 points, Init +5, Mentem:<br>
 Equivalent to the ReMe20 Hermetic spell.
@@ -24151,7 +24151,7 @@ Award one point at the end of a session for each of the following that a charact
 | Major Cold (–20ºF/–29ºC) | 30 minutes |
 | Critical Cold (–40ºF/–40ºC) | 15 minutes |
 
-*\* Cold is in [Rival Magic, page 105](<Ars Magica 5e - Magic - Rival Magic.md>).*
+*\* Cold is in [Rival Magic, page 105](<Ars Magica 5e - Magic - Rival Magic.md#page-105>).*
 
 <!-- p. 542 --><a id="page-542"></a>
 

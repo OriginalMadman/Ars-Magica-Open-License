@@ -695,7 +695,7 @@ You have risen to enjoy the status and privilege associated with the most import
 
 #### Aristotelian Training
 *Minor, General*<br>
-The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<../Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11 of *Art and Academe*](<../Ars Magica 5e - Art & Academe.md>)). This Virtue is compatible with Puissant Artes Liberales.
+The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals (see [*Art and Academe*, page 103](<../Ars Magica 5e - Art & Academe.md#grammar>), for details). A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (as described on [page 11 of *Art and Academe*](<../Ars Magica 5e - Art & Academe.md#page-11>)). This Virtue is compatible with Puissant Artes Liberales.
 
 #### Atlantean Magic
 *Minor, Hermetic*<br>
@@ -823,7 +823,7 @@ You are very careful with a specific Ability, and are less likely to fail specta
 
 #### Clan Ilfetu
 *Minor, Hermetic*<br>
-The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see [*The Mysteries Revised Edition*, page 58](<../Ars Magica 5e - The Mysteries (Revised).md#chapter-7-divination--augury>)); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes: Mystery Cults*, [page 12](<Ars Magica DE - 02. The Order of Hermes.md#page-12>), for more details on House Bjornaer and the role of Clan Ilfetu.
+The character is a member of Clan Ilfetu within House Bjornaer, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see [*The Mysteries Revised Edition*, page 58](<../Ars Magica 5e - The Mysteries (Revised).md#chapter-seven-divination--augury>)); if so, that Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus. See *Houses of Hermes: Mystery Cults*, [page 12](<Ars Magica DE - 02. The Order of Hermes.md#page-12>), for more details on House Bjornaer and the role of Clan Ilfetu.
 
 <!-- p. 74 --><a id="page-74"></a>
 
@@ -961,7 +961,7 @@ This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest V
 
 > #### Animal Characters
 >
-> An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in [*Grogs*, page 136](<../Ars Magica 5e - Social - Grogs.md>), but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly *Realms of Power: Faerie* ([page 50](<Ars Magica DE - 03. Characters.md#page-50>)) and *Realms of Power: Magic* (Chapter 5).
+> An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in [*Grogs*, page 136](<../Ars Magica 5e - Social - Grogs.md#page-136>), but players should feel free to simply use the statistics for a mundane animal given in Chapter 13. Supernatural animals are more complex, and rules for them are given in the Realms of Power supplements, particularly *Realms of Power: Faerie* ([page 50](<Ars Magica DE - 03. Characters.md#page-50>)) and *Realms of Power: Magic* (Chapter 5).
 
 #### Domestic Animal
 *Free, Social Status, animals only*<br>
@@ -1085,7 +1085,7 @@ Type of Faerie Blood (pick one, or create a similar one):
 
 *Sidhe Blood:* You are descended from one of the noble fay who rule the lands of Summer and Sunlight. Because of the striking and unusual qualities of your nature add +1 to your Presence, but not to more than +3. Many mortals may consider you fascinating or alluring.
 
-*Spinnen Blood:* A character who has Spinnen Blood can convert his or her own body weight of fiber into cloth per day, simply by touching it. Old cloth, or products made of cloth fibers, can be unwoven using the same ability, but this counts toward the maximum weight of cloth a character can alter per day. Some Spinnen, particularly those who have served as companions to magi, create other useful objects, like tents, ropes, or sails in lieu of the same weight of cloth. These characters are from a single family line that originated near Ghent; see [*The Lion and the Lily*, page 97](<../Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md>), for details of how most of the family live.
+*Spinnen Blood:* A character who has Spinnen Blood can convert his or her own body weight of fiber into cloth per day, simply by touching it. Old cloth, or products made of cloth fibers, can be unwoven using the same ability, but this counts toward the maximum weight of cloth a character can alter per day. Some Spinnen, particularly those who have served as companions to magi, create other useful objects, like tents, ropes, or sails in lieu of the same weight of cloth. These characters are from a single family line that originated near Ghent; see [*The Lion and the Lily*, page 97](<../Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#page-97>), for details of how most of the family live.
 
 *Undine Blood:* The undines are the faeries of the water, and you get a +2 bonus to any action taken underwater, which will partially offset any penalty applied.
 
@@ -1307,7 +1307,7 @@ This Virtue may be associated with any supernatural realm. If you have access to
 
 #### Greater Purifying Touch
 *Major, Supernatural*<br>
-You can, with a touch and the expenditure of a Fatigue level, cure a single serious disease. This disease should be either life-threatening or seriously disabling, and should be one from which people do not normally recover by themselves. You must choose the disease that you can cure when you take this Virtue, and you can only cure that disease. You can only choose a disease, not other types of injury or misfortune. See [page 406](<Ars Magica DE - 11. Obstacles.md#page-406>) for more information on diseases, and [*Art and Academe*, page 45](<../Ars Magica 5e - Art & Academe.md>) for more detail.
+You can, with a touch and the expenditure of a Fatigue level, cure a single serious disease. This disease should be either life-threatening or seriously disabling, and should be one from which people do not normally recover by themselves. You must choose the disease that you can cure when you take this Virtue, and you can only cure that disease. You can only choose a disease, not other types of injury or misfortune. See [page 406](<Ars Magica DE - 11. Obstacles.md#page-406>) for more information on diseases, and [*Art and Academe*, page 45](<../Ars Magica 5e - Art & Academe.md#page-45>) for more detail.
 
 #### Guardian Angel
 *Major, General*<br>
@@ -1467,7 +1467,7 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 >
 > Made by the Mortuary Society of Kassala, this dust has powdered gold as its main component, with myrrh and other spices making up the rest. Twenty handfuls contain about a Mythic Pound's worth of gold dust. Kassalan Dust is necessary for Kassalan Exorcism, but grants no bonus. A handful also adds +3 to uses of the Corpse Magic Supernatural Ability to command a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society.
 >
-> More details on the Kassalan Mortuary Society can be found in [*Lands of the Nile*, from page 88](<../Ars Magica 5e - Lands of the Nile - Egypt, Ethiopia & Nubia.md>).
+> More details on the Kassalan Mortuary Society can be found in [*Lands of the Nile*, from page 88](<../Ars Magica 5e - Lands of the Nile - Egypt, Ethiopia & Nubia.md#page-88>).
 
 <!-- p. 88 --><a id="page-88"></a>
 
@@ -1579,7 +1579,7 @@ This Virtue may be associated with any supernatural realm. If you have access to
 
 #### Lesser Purifying Touch
 *Minor, Supernatural*<br>
-You can, with a touch and the expenditure of a Fatigue level, heal a specific illness. This illness should be one that people often recover from on their own, or one that is not particularly serious. You can only choose an illness, not an injury or other misfortune. See [page 406](<Ars Magica DE - 11. Obstacles.md#page-406>) for rules on diseases, and [*Art and Academe*, page 45](<../Ars Magica 5e - Art & Academe.md>) for more detail.
+You can, with a touch and the expenditure of a Fatigue level, heal a specific illness. This illness should be one that people often recover from on their own, or one that is not particularly serious. You can only choose an illness, not an injury or other misfortune. See [page 406](<Ars Magica DE - 11. Obstacles.md#page-406>) for rules on diseases, and [*Art and Academe*, page 45](<../Ars Magica 5e - Art & Academe.md#page-45>) for more detail.
 
 #### License of Absence
 *Major, General*<br>
@@ -3446,7 +3446,7 @@ The character has studied for a specific university license and failed his final
 
 #### The Falling Evil
 *Major, General*<br>
-The character occasionally suffers convulsions and blackouts. Convulsions occur randomly and infrequently; for any given event, the storyguide should secretly roll a stress die, and if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm causes random movements and hallucinations, leaving the character temporarily Incapacitated. She collapses to the ground and twitches, and you can make a Stamina roll against an Ease Factor of 9 every round; success means that the convulsion ends, although the character is reduced to the Dazed Fatigue level following a fit. The Falling Evil is usually caused by possession by demons ([*Art & Academe*, page 48](<../Ars Magica 5e - Art & Academe.md>)), but that form of the illness is usually temporary in nature. The character does not seem to have a disease, and cannot naturally recover from this affliction. It may be that it stems from a different source. In Ancient Greece and Rome, it was called the "divine illness," as it was believed that the gods spoke to those who had such fits.
+The character occasionally suffers convulsions and blackouts. Convulsions occur randomly and infrequently; for any given event, the storyguide should secretly roll a stress die, and if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm causes random movements and hallucinations, leaving the character temporarily Incapacitated. She collapses to the ground and twitches, and you can make a Stamina roll against an Ease Factor of 9 every round; success means that the convulsion ends, although the character is reduced to the Dazed Fatigue level following a fit. The Falling Evil is usually caused by possession by demons ([*Art & Academe*, page 48](<../Ars Magica 5e - Art & Academe.md#page-48>)), but that form of the illness is usually temporary in nature. The character does not seem to have a disease, and cannot naturally recover from this affliction. It may be that it stems from a different source. In Ancient Greece and Rome, it was called the "divine illness," as it was believed that the gods spoke to those who had such fits.
 
 #### False Power
 *Major, Supernatural, Tainted*<br>
@@ -3689,7 +3689,7 @@ The character's magic is easily distracted, and it stutters and starts. Spells t
 
 #### Independent Craftsman
 *Minor, General*<br>
-This character has his own way of working and doesn't like other people getting in his way. This character always treats his Leadership and Craft or Profession Abilities as three levels lower when working with others on a given task. For Craftsmen, this means that whether he is working as an assistant or working with assistants his Craft Ability has a penalty of –3. This affects the number of assistants he can employ in the workshop and the benefit that he provides when working as an assistant. If you are not using the rules in [*City and Guild* (page 73](<../Ars Magica 5e - City & Guild.md>)), treat this is a Personality Flaw.
+This character has his own way of working and doesn't like other people getting in his way. This character always treats his Leadership and Craft or Profession Abilities as three levels lower when working with others on a given task. For Craftsmen, this means that whether he is working as an assistant or working with assistants his Craft Ability has a penalty of –3. This affects the number of assistants he can employ in the workshop and the benefit that he provides when working as an assistant. If you are not using the rules in [*City and Guild* (page 73](<../Ars Magica 5e - City & Guild.md#page-73>)), treat this is a Personality Flaw.
 
 #### Indiscreet
 *Major, Story*<br>
@@ -4033,7 +4033,7 @@ You are bad at learning new things. Subtract 3 from all Advancement Totals deriv
 
 #### Primitive Equipment
 *Minor, General*<br>
-The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a –1 penalty to Attack and Defense if using inappropriate weapons, and a –1 penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see [*City & Guild*, page 67](<../Ars Magica 5e - City & Guild.md>)) is raised by 1–3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation ([*City & Guild*, page 65](<../Ars Magica 5e - City & Guild.md#workshop-innovation>)). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
+The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a –1 penalty to Attack and Defense if using inappropriate weapons, and a –1 penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see [*City & Guild*, page 67](<../Ars Magica 5e - City & Guild.md#page-67>)) is raised by 1–3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation ([*City & Guild*, page 65](<../Ars Magica 5e - City & Guild.md#workshop-innovation>)). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
 
 #### Primogeniture Lineage
 *Minor, Story and Hermetic*<br>

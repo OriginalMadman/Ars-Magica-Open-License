@@ -4143,7 +4143,7 @@ Soon stones and other objects were flying around at all times of day and night, 
 
 <!-- p. 93 --><a id="page-93"></a>
 
-If the magi do not think of it, Jacobella can raise the possibility that the boy is Gifted, and this could be the first manifestations of his Gift, in episodes called ‘turbulences’ by the Order (see [*Apprentices*, page 12](<Ars Magica 5e - Magic - Apprentices.md>)).
+If the magi do not think of it, Jacobella can raise the possibility that the boy is Gifted, and this could be the first manifestations of his Gift, in episodes called ‘turbulences’ by the Order (see [*Apprentices*, page 12](<Ars Magica 5e - Magic - Apprentices.md#page-12>)).
 
 #### Questioning Jacobella
 
@@ -4736,7 +4736,7 @@ Galera is contracted in marriage to Rufus. The House considers Galera and Rufus 
 >
 > #### Powers as a Spirit
 >
-> Damhan-Allaidh’s spirit form has a Magic Might of 40, aligned to Corpus. His principal power is that of Possession. The spirit of Damhan-Allaidh also possesses an External Soul. This Virtue normally protects a person from dying ([*Hedge Magic Revised Edition*, page 56](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), but it also prevents the dissipation of a spirit. Atorcoppe cannot be destroyed by reducing his Magic Might score to zero. If this happens he instead acquires a Minor Magic Inferiority in return for restoring his Might score to 1. His Might then slowly regenerates back to its former level.
+> Damhan-Allaidh’s spirit form has a Magic Might of 40, aligned to Corpus. His principal power is that of Possession. The spirit of Damhan-Allaidh also possesses an External Soul. This Virtue normally protects a person from dying ([*Hedge Magic Revised Edition*, page 56](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-56>)), but it also prevents the dissipation of a spirit. Atorcoppe cannot be destroyed by reducing his Magic Might score to zero. If this happens he instead acquires a Minor Magic Inferiority in return for restoring his Might score to 1. His Might then slowly regenerates back to its former level.
 >
 > *Possession*, variable points, Init –(Might cost), Mentem:<br>
 > To initiate this power, Damhan-Allaidh must spend 4 Might points and successfully Penetrate any Magic Resistance of the target. If successful, the spirit of Damhan-Allaidh takes up residence within a being. When Damhan-Allaidh is in direct control then the power can be detected with appropriate magic, and his spirit might be seen by characters with Second Sight; but at other times there is nothing to detect except a spell residue ([**ArM5**, page 158](<Ars Magica 5e - Core Rules.md#spells>) / [Definitive Edition, page 251](<Ars Magica - Definitive Edition (Core Rules).md#spells>)). The inhabited body is not protected by Damhan-Allaidh’s Magic Resistance, but neither is it stopped by magical wards unless the spirit is in direct control. Damhan-Allaidh can control his host’s actions by spending Might points. For each attempt, roll a die for Damhan-Allaidh and add the number of Might points he is spending (minimum 1). If the host resists the control, the Ease Factor is equal to applicable Personality Traits and bonuses for Virtues such as Strong-Willed, plus a bonus equal to the nature of the attempted action (use the same modifiers for Entrancement, [**ArM5** page 65](<Ars Magica 5e - Core Rules.md#strong-willed>) / [Definitive Edition, page 110](<Ars Magica - Definitive Edition (Core Rules).md#strong-willed>)). If the host does not resist, then the Ease Factor is 0. If Damhan-Allaidh’s roll is successful, then the host performs the desired action. While possessing a host, Damhan-Allaidh can use any of his own powers and regenerate Might, but cannot access the powers or spells of the host. He can also talk directly into the mind of his host without spending Might points. He can end the possession at any time, And it also ends if he runs out of Might points. ReMe 40 (Base 15, +1 Touch, +2 Sun, +1 constant, +1 flexibility of control). Greater Power (40 levels)
@@ -4787,7 +4787,7 @@ Virtues and Flaws: Redcap; Improved Characteristics, Latent Magical Ability, Mag
 
 \* House Virtue
 
-\*\* [*Grogs*, page 77](<Ars Magica 5e - Social - Grogs.md>) (a zero is automatically a botch when using Bows Ability; roll botch dice as normal)
+\*\* [*Grogs*, page 77](<Ars Magica 5e - Social - Grogs.md#page-77>) (a zero is automatically a botch when using Bows Ability; roll botch dice as normal)
 
 Personality Traits: Jealous of The Gift +5, Impulsive +2, Loyal to Atorcoppe +1
 
@@ -4974,7 +4974,7 @@ The ruined fort has been the hideout for Galera and Atorcoppe. Galera brought Ru
 
 #### A Web-Shrouded Ruin
 
-Atorcoppe and Galera made their lair in a forgotten ruin in a particularly dark part of the forest, where there is a Magic aura of 3. The entire aura has much deeper shadows than would be expected given the light sources; even during bright daylight, the trees around the fort provide heavy concealment (equivalent to a moonless night, [*Lords of Men* page 130](<Ars Magica 5e - Lords of Men.md>)). Sources of light do not seem to penetrate deep into the darkness and improve visibility only slightly within one to five paces, depending on the brightness of the light.
+Atorcoppe and Galera made their lair in a forgotten ruin in a particularly dark part of the forest, where there is a Magic aura of 3. The entire aura has much deeper shadows than would be expected given the light sources; even during bright daylight, the trees around the fort provide heavy concealment (equivalent to a moonless night, [*Lords of Men* page 130](<Ars Magica 5e - Lords of Men.md#page-130>)). Sources of light do not seem to penetrate deep into the darkness and improve visibility only slightly within one to five paces, depending on the brightness of the light.
 
 The exterior of the ruin and the trees around it are the home of a number of monstrous spiders summoned by Atorcoppe. The spiders are extremely sensitive to approaching game, and as they detect creatures approaching they silently move into ambush positions, relying on their camouflage and the darkness to conceal them.
 
@@ -4986,7 +4986,7 @@ The storyguide should decide how many spiders are involved in the attack against
 >
 > Cob’s ruffians should be treated as Standard Soldiers ([**ArM5**, page 22](<Ars Magica 5e - Core Rules.md#page-22>) / [Definitive Edition, page 32](<Ars Magica - Definitive Edition (Core Rules).md#the-standard-soldier>)), except that they are wearing metal reinforced leather armor and so have a Soak of +4 (in partial armor) or +6 (in full armor) and their Encumbrance is 0 (or 1 in full armor). There are seven men in all, who divide into two Trained Groups in combat: Cob (who has a Leadership of 3) leads one group and his brother Talbot (Leadership 2) leads the other.
 >
-> The ruffians may resort to dirty tricks such as trying to trip, disarm, or grapple opponents; see [**ArM5** page 175](<Ars Magica 5e - Core Rules.md#page-175>) / [Definitive Edition, page 398](<Ars Magica - Definitive Edition (Core Rules).md#scuffle-effects>) or [*Lords of Men* page 133 – 134](<Ars Magica 5e - Lords of Men.md>) for more details. They have practiced using these tricks when fighting as a Trained Group and can use their Group Bonus to assist any of these special effects.
+> The ruffians may resort to dirty tricks such as trying to trip, disarm, or grapple opponents; see [**ArM5** page 175](<Ars Magica 5e - Core Rules.md#page-175>) / [Definitive Edition, page 398](<Ars Magica - Definitive Edition (Core Rules).md#scuffle-effects>) or [*Lords of Men* page 133 – 134](<Ars Magica 5e - Lords of Men.md#page-133>) for more details. They have practiced using these tricks when fighting as a Trained Group and can use their Group Bonus to assist any of these special effects.
 
 In the fight against the spiders, Galera employs her enchanted bow to precisely place arrows to help out hard-pressed characters (its Penetration is sufficiently high to damage the spiders). While she knows this place and what it conceals, she desires to be seen helping the characters in order to allay suspicion. If the player characters were lead here by a captive ruffian, he is equally targeted by the spiders.
 
@@ -5335,7 +5335,7 @@ If the characters attempt to gain access to Galera once they discover where she 
 
 Lord Abel hears Galera’s case first and then that of the player characters. In most parts of Mythic Europe, a lord retains right of justice over any crime committed on his lands, although regional variations do exist. An ecclesiastical lord can only judge crimes against morality or people who claim privilege of clergy, and may call upon a royal official or local nobleman to act as the judge. Laws and legal procedure vary greatly by region; in England, for example, trial by combat can be requested. Key to any formal legal process is testimony, which can be delivered in person, by proxy, or by written statement. Juries may be appointed to investigate and gather testimony, and the characters or their representatives may be free to do the same. Testimony establishes the factual issues of the case and includes hearsay, rumor, and omens as “facts”.
 
-Depending upon their current status, the characters may be free to attend Galera’s hearing and might even present testimony or enter a plea that she be turned over to the Order of Hermes to receive justice for past crimes. They may wish to accuse her of the crime for which they themselves have been accused, but it is physically impossible for her to have been present in the village at the time of the deaths since she was committing the act of witchcraft for which she was arrested. Informing the court of the capabilities of wizards to lay enchantments or affect places without being present may not be a wise move for the player characters; the Order likes to keep the nobility ignorant of the precise powers of its members in order to avoid a widespread panic (see [*Lords of Men* page 40](<Ars Magica 5e - Lords of Men.md>) for more information).
+Depending upon their current status, the characters may be free to attend Galera’s hearing and might even present testimony or enter a plea that she be turned over to the Order of Hermes to receive justice for past crimes. They may wish to accuse her of the crime for which they themselves have been accused, but it is physically impossible for her to have been present in the village at the time of the deaths since she was committing the act of witchcraft for which she was arrested. Informing the court of the capabilities of wizards to lay enchantments or affect places without being present may not be a wise move for the player characters; the Order likes to keep the nobility ignorant of the precise powers of its members in order to avoid a widespread panic (see [*Lords of Men* page 40](<Ars Magica 5e - Lords of Men.md#page-40>) for more information).
 
 Galera’s case is unlikely to go well. Within most of Christendom, a woman is not allowed to speak at court unless granted permission by her husband or father; Galera has neither, nor does she have witnesses who can speak in her defense. With no contrary evidence presented, she is probably sentenced to corporal punishment of some degree, which is carried out immediately.
 
@@ -5869,7 +5869,7 @@ Pralix never rejoined the Order. She remained in Cad Gadu — the new name for h
 
 Damhan-Allaidh is the last surviving rune wizard who has knowledge of the Saxon runes. Knowledge of these runes was lost when the Ordo Miscellanea exterminated every last Saxon rune wizard in Britain. Any vitki Damhan-Allaidh trains is Opened to all the Runes he himself knows; he can also perform a minor initiation into the Saxon runes for vitkir who already know the 24 runes of the Elder Futhark.
 
-Note that Saxon vitkir had their own names for the Elder Futhark ([*Hedge Magic Revised Edition*, page 139](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), but the standard names are used here for ease of reference.
+Note that Saxon vitkir had their own names for the Elder Futhark ([*Hedge Magic Revised Edition*, page 139](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-139>)), but the standard names are used here for ease of reference.
 
 ### A, Ac, “Oak”
 

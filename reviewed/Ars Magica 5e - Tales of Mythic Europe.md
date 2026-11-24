@@ -1916,7 +1916,7 @@ From the docks, the group must climb into a small rowboat, called a “gig,” t
 
 ### The Ship
 
-*La main blanche* is a medium-sized vessel, able to ply rivers and seacoasts as well as hazard the open sea. She is a cog, a flat-bottomed vessel common to the northern seas of Mythic Europe. In sailor’s parlance, she is either a small cog or a large hulk. Cogs are described on [page 84 of *City & Guild*](<Ars Magica 5e - City & Guild.md>); a hulk is a smaller vessel, more streamlined and narrower than the tubby cog, although both types of ships are very similar. She measures 22 yards long from stem to stern (front to back), and her deck is 8 yards wide at its waist. Two raised decks or “castles” sit at stem and stern, which provide shelter for the passengers, who will spend the entire journey above deck. The forecastle is approximately 7 yards square and juts out over the bow. The stern castle is 9 yards square, extending slightly over the gunwales and stern. Both castles have closed wooden railings surrounding them, their names obviously taken from the fortress. Stairs allow access to both upper decks. The area underneath the decks is not closed in, only covered, making the sides open and exposed. While some privacy exists for passengers staying under the stern castle, it is minimal.
+*La main blanche* is a medium-sized vessel, able to ply rivers and seacoasts as well as hazard the open sea. She is a cog, a flat-bottomed vessel common to the northern seas of Mythic Europe. In sailor’s parlance, she is either a small cog or a large hulk. Cogs are described on [page 84 of *City & Guild*](<Ars Magica 5e - City & Guild.md#page-84>); a hulk is a smaller vessel, more streamlined and narrower than the tubby cog, although both types of ships are very similar. She measures 22 yards long from stem to stern (front to back), and her deck is 8 yards wide at its waist. Two raised decks or “castles” sit at stem and stern, which provide shelter for the passengers, who will spend the entire journey above deck. The forecastle is approximately 7 yards square and juts out over the bow. The stern castle is 9 yards square, extending slightly over the gunwales and stern. Both castles have closed wooden railings surrounding them, their names obviously taken from the fortress. Stairs allow access to both upper decks. The area underneath the decks is not closed in, only covered, making the sides open and exposed. While some privacy exists for passengers staying under the stern castle, it is minimal.
 
 <!-- p. 46 --><a id="page-46"></a>
 
@@ -2248,7 +2248,7 @@ Appearance: Severin looks like a man who was once healthy, but has been harried 
 > R: Touch, D: Mom, T: Ind<br>
 > This is a spell for carving a statue from a single block of wood. The piece of wood can be no larger than one cubic pace. This spell requires a Perception + Finesse roll. If this is botched the statue is ruined. If the roll exceeds the Ease Factor of 6, then the statue is serviceable, if not particularly pretty, and can be animated with the *Carved Assassin* spell. If the roll is not successful, then a statue is created, but it is too fragile or too blockish to use effectively with the *Carved Assassin* spell.
 >
-> (Base 5 (see [*Covenants*, page 50](<Ars Magica 5e - Covenants.md>)), +1 Touch)
+> (Base 5 (see [*Covenants*, page 50](<Ars Magica 5e - Covenants.md#page-50>)), +1 Touch)
 >
 > ##### Tomb of Kaineus
 > ReHe 20<br>
@@ -4147,7 +4147,7 @@ Bartholomew has been severely Warped by the magic of the flute. From the flute, 
 >
 > Performance Abilities include: Music, Charm, Guile, and Carouse (see [*The Mysteries Revised Edition*, page 29](<Ars Magica 5e - The Mysteries (Revised).md#performance-abilities>) for more information).
 >
-> This originally appeared in [*The Mysteries Revised Edition*, page 29-30](<Ars Magica 5e - The Mysteries (Revised).md>).
+> This originally appeared in [*The Mysteries Revised Edition*, page 29-30](<Ars Magica 5e - The Mysteries (Revised).md#page-29>).
 
 > ### The Flute
 >
@@ -6031,7 +6031,7 @@ Hermetic symbols of Rego, Perdo, and Vim.
 >
 > Characters who get the chance to examine the reliquary in a Hermetic laboratory are almost certain to become suspicious. Any magus who could create the effect that suppresses the demon’s powers could easily destroy the demon with *Demon’s Eternal Oblivion*, and even if he had to create the spell it would take less time than enchanting the object. Even characters who do not examine the reliquary in such detail could make worrying inferences from their knowledge of Magic Theory. They may, therefore, want to research the item’s background.
 >
-> To research this information, the character must make an Intelligence + Order of Hermes Lore + simple dice against an Ease Factor of 21. This total can be modified depending on the size of the covenant’s library: +5 for a peerless collection on Order of Hermes Lore; +4 for a specialized collection; +3 for a collection with a particular interest in the history of the Order of Hermes; + 2 for a library with no particular interest in the Order of Hermes; and +1 for a library with few books on the subject. (See [*Covenants*, page 98](<Ars Magica 5e - Covenants.md>) for more information on research.)
+> To research this information, the character must make an Intelligence + Order of Hermes Lore + simple dice against an Ease Factor of 21. This total can be modified depending on the size of the covenant’s library: +5 for a peerless collection on Order of Hermes Lore; +4 for a specialized collection; +3 for a collection with a particular interest in the history of the Order of Hermes; + 2 for a library with no particular interest in the Order of Hermes; and +1 for a library with few books on the subject. (See [*Covenants*, page 98](<Ars Magica 5e - Covenants.md#page-98>) for more information on research.)
 >
 > The results of the research, should the character succeed against the Ease Factor, reveals that the reliquary was crafted a hundred years ago, by a Verditius magus called John Philosymeon, famed for his pugilistic attitude towards the Infernal and mastery of the Art of Rego. There is, however, no mention of this reliquary; the characters must rely on descriptions of John’s sigil and the like.
 >
@@ -6375,7 +6375,7 @@ Appearance: Ragged crows with leering human eyes, they are never seen individual
 
 > ### New Power: Diseased Possession
 >
-> *Diseased Possession*, 4 points, Init +2, Mentem: If this power penetrates, the Might points spent from the demon’s Might Pool enter the possessed target. The victim receives a Disease Avoidance roll, which, if successful, immediately expels the demon. The symptoms of the demon’s disease manifest immediately, but otherwise it progresses and is treated like a natural disease. These demons of disease must use all of their Might when possessing a target, as the demon must retain at least 1 point of Might in reserve to maintain possession of the victim. The demon cannot refresh the Might points used to possess the victim from its usual Might pool. If the demon is exorcized or destroyed with magic, the symptoms of the disease cease immediately, although any damage caused by the disease remains. The demon is expelled if the victim is cured of the disease by medical or magical means. See [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md>) for more details.
+> *Diseased Possession*, 4 points, Init +2, Mentem: If this power penetrates, the Might points spent from the demon’s Might Pool enter the possessed target. The victim receives a Disease Avoidance roll, which, if successful, immediately expels the demon. The symptoms of the demon’s disease manifest immediately, but otherwise it progresses and is treated like a natural disease. These demons of disease must use all of their Might when possessing a target, as the demon must retain at least 1 point of Might in reserve to maintain possession of the victim. The demon cannot refresh the Might points used to possess the victim from its usual Might pool. If the demon is exorcized or destroyed with magic, the symptoms of the disease cease immediately, although any damage caused by the disease remains. The demon is expelled if the victim is cured of the disease by medical or magical means. See [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md#page-45>) for more details.
 
 ### The Vengeful Dead
 
@@ -6737,7 +6737,7 @@ Illness spreads from the marsh to the nearby towns of Rye and Winchelsea. At thi
 
 ## Rewards and Consequences
 
-Apart from suitable Confidence and experience points for each character taking part (5 to 10 experience points should be available depending on how many sessions the story took), the covenant itself may pick up various rewards. If handled well, the abbey itself may become a Local Ally ([*Covenants*, page 21](<Ars Magica 5e - Covenants.md>)).
+Apart from suitable Confidence and experience points for each character taking part (5 to 10 experience points should be available depending on how many sessions the story took), the covenant itself may pick up various rewards. If handled well, the abbey itself may become a Local Ally ([*Covenants*, page 21](<Ars Magica 5e - Covenants.md#page-21>)).
 
 If the covenant chooses to use Chichester as leverage against the abbey, they will find the Bishop of Chichester eager to use his new friends again, and will have gained the antipathy of Battle Abbey.
 

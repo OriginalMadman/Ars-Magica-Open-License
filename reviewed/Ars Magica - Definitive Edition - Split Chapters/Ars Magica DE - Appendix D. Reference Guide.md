@@ -266,7 +266,7 @@ Award one point at the end of a session for each of the following that a charact
 | Major Cold (–20ºF/–29ºC) | 30 minutes |
 | Critical Cold (–40ºF/–40ºC) | 15 minutes |
 
-*\* Cold is in [Rival Magic, page 105](<../Ars Magica 5e - Magic - Rival Magic.md>).*
+*\* Cold is in [Rival Magic, page 105](<../Ars Magica 5e - Magic - Rival Magic.md#page-105>).*
 
 <!-- p. 542 --><a id="page-542"></a>
 

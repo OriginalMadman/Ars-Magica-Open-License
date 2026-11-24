@@ -438,7 +438,7 @@ This spell allows the caster to implant a complex suggestion into the target’s
 
 InMe 30<br>
 R: Arc, D: Conc, T: Ind<br>
-The caster can see through the eyes of anyone to whom he has an Arcane Connection ([*Art & Academe*, page 33](<Ars Magica 5e - Art & Academe.md>)).
+The caster can see through the eyes of anyone to whom he has an Arcane Connection ([*Art & Academe*, page 33](<Ars Magica 5e - Art & Academe.md#page-33>)).
 
 Similarly, the spell Borrow the Ears of Another lets the caster hear through the ears of anyone to whom he has an Arcane Connection.
 
@@ -566,7 +566,7 @@ Like other Virgilian rites, the magic must Penetrate the Magic Resistance of bot
 
 School of Prometheus, Ease Factor 15<br>
 R: Touch, D: Diam, T: Structure<br>
-Similar to He enters among them, veiled in shadows (see [Rival Magic, page 60](<Ars Magica 5e - Magic - Rival Magic.md>)), this rite dims all light within a room and adds +3 to Stealth rolls. The triggering action is when anyone in the warded area yells “Omnis sonus excitat!” (“Every sound alarms!”)
+Similar to He enters among them, veiled in shadows (see [Rival Magic, page 60](<Ars Magica 5e - Magic - Rival Magic.md#page-60>)), this rite dims all light within a room and adds +3 to Stealth rolls. The triggering action is when anyone in the warded area yells “Omnis sonus excitat!” (“Every sound alarms!”)
 
 <!-- p. 15 --><a id="page-15"></a>
 
@@ -6210,7 +6210,7 @@ The blockade starts to bite as resupply becomes harder. The population are reduc
 
 #### Illness
 
-Months of deprivation take their toll on the population. An outbreak of flux ([*Art & Academe*, page 47](<Ars Magica 5e - Art & Academe.md>)) drives across the city. The magi must find a way to cure or contain the disease. Failure reduces the city’s siege conditions bonus by one and sees an increase in event frequency.
+Months of deprivation take their toll on the population. An outbreak of flux ([*Art & Academe*, page 47](<Ars Magica 5e - Art & Academe.md#page-47>)) drives across the city. The magi must find a way to cure or contain the disease. Failure reduces the city’s siege conditions bonus by one and sees an increase in event frequency.
 
 #### Morale
 

@@ -522,7 +522,7 @@ Spells Known:
 
 F Major Magical Focus applied
 
-† [*Guardians of the Forests*, page 96](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>)
+† [*Guardians of the Forests*, page 96](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#page-96>)
 
 ‡ *Houses of Hermes: Societates*, [page 37](#page-37)
 
@@ -751,7 +751,7 @@ Spells Known:
 - Demon’s Eternal Oblivion (PeVi 10/+20), Mastery 1 (penetration)
 - Dreadful Bane of the Fae (PeVi 10/+20), Mastery 1 (penetration) †
 
-† [*Guardians of the Forests*, page 60](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>).
+† [*Guardians of the Forests*, page 60](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#page-60>).
 
 Hilde has not enchanted any items since her unhappy apprenticeship as he is wedded to a Bjornaer sense of purity; she relies on herself and her magic only.
 
@@ -1091,7 +1091,7 @@ Andrew finds magic harder when not touching his target, but he has control over 
 
 As helpful as he is, he is often unprepared for the basics. His satchel contains many things that might once have served a purpose or might spark a conversation, but almost never contains what he needs. Luckily, he has no difficulty imposing upon the generosity of others.
 
-He has a passion for poetry and intends to record his adventures in the form of *chansons de gesta*, epic poems concerning heroic deeds, as described in [*Art & Academe*, page 117](<Ars Magica 5e - Art & Academe.md>). These typically take a season to create and a summary of the rules is provided below.
+He has a passion for poetry and intends to record his adventures in the form of *chansons de gesta*, epic poems concerning heroic deeds, as described in [*Art & Academe*, page 117](<Ars Magica 5e - Art & Academe.md#page-117>). These typically take a season to create and a summary of the rules is provided below.
 
 Andrew knows Matilda from their shared background in Stonehenge and he quite likes the strange bookish woman. In fact, he’d quite like to see if Matilda’s magic can help improve his own poetry in the way that magically refining books improves them as a study source.
 
@@ -1357,7 +1357,7 @@ Appearance: Laszlo has mid-length white hair and long angular features. He remai
 
 ## Grogs
 
-The description of a base covenant in [**ArM5**, page 71](<Ars Magica 5e - Core Rules.md#covenants>) / [Definitive Edition, page 18](<Ars Magica - Definitive Edition (Core Rules).md#covenants>) provides for *about* one grog (*fighter*) per magus and *about* two other servants of various trades or professions. The servants are likely to include clerks and cabin-boys to fetch and carry for the magus. These are not detailed here and you should consider the Urchin statistics in [*Apprentices*, page 30](<Ars Magica 5e - Magic - Apprentices.md>) for any young cabin-boys in the fleet.
+The description of a base covenant in [**ArM5**, page 71](<Ars Magica 5e - Core Rules.md#covenants>) / [Definitive Edition, page 18](<Ars Magica - Definitive Edition (Core Rules).md#covenants>) provides for *about* one grog (*fighter*) per magus and *about* two other servants of various trades or professions. The servants are likely to include clerks and cabin-boys to fetch and carry for the magus. These are not detailed here and you should consider the Urchin statistics in [*Apprentices*, page 30](<Ars Magica 5e - Magic - Apprentices.md#page-30>) for any young cabin-boys in the fleet.
 
 Of the named grogs described nearby, you can assume that each of the covenant’s six magi have one on board their ship with them. Players may like to decide among themselves which of these grogs they claim.
 
@@ -1741,7 +1741,7 @@ Appearance: Despite his years, his well-trained arms and shoulders still fill hi
 
 Thrice-Dead Ned benefits from a Stamina of 4 +3 for Rapid Convalescence in all Wound Recovery Rolls, as detailed in [**ArM5**, page 179](<Ars Magica 5e - Core Rules.md#rapid-convalescence>) / [Definitive Edition, page 105](<Ars Magica - Definitive Edition (Core Rules).md#rapid-convalescence>). He does however have some Aging Points against a few of his characteristics, which puts him at risk during each winter.
 
-Ned isn’t clever, but he isn’t stupid either. He knows he’s getting on a bit and prefers to use his crossbow from range, reloading while others keep danger at bay. Ned uses the Crossbow Ability from [*Lords of Men*, page 138](<Ars Magica 5e - Lords of Men.md>), and spans his crossbow using a belt hook.
+Ned isn’t clever, but he isn’t stupid either. He knows he’s getting on a bit and prefers to use his crossbow from range, reloading while others keep danger at bay. Ned uses the Crossbow Ability from [*Lords of Men*, page 138](<Ars Magica 5e - Lords of Men.md#page-138>), and spans his crossbow using a belt hook.
 
 <!-- p. 23 --><a id="page-23"></a>
 
@@ -1779,7 +1779,7 @@ However, the current source of income is from trade; transporting goods from one
 >
 > Whichever way you approach it, Magestones provide a means of giving each magus in the covenant a valuable magical aura.
 >
-> See [*Guardians of the Forests*, page 70](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>) for more details on Magestones.
+> See [*Guardians of the Forests*, page 70](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#page-70>) for more details on Magestones.
 
 > ### Story Seed: The Magical Whale
 >
@@ -1839,7 +1839,7 @@ The oldest two magi, Carles and Hilde, supplied the majority of the covenant res
 
 ## Covenant Site
 
-The covenant has few true buildings as it is based on a flotilla of ships. Each ship in the covenant is either a cog or hulk up to size +8 (as per [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md>)) and has a base value of 52 Mythic Pounds for a ship of *Standard* construction, 104 Mythic Pounds for a ship of *Superior* construction, or 260 Mythic Pounds for a ship of *Excellent* construction, which provide a total of 6, 9, and 12 Damage Levels respectively.
+The covenant has few true buildings as it is based on a flotilla of ships. Each ship in the covenant is either a cog or hulk up to size +8 (as per [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md#page-77>)) and has a base value of 52 Mythic Pounds for a ship of *Standard* construction, 104 Mythic Pounds for a ship of *Superior* construction, or 260 Mythic Pounds for a ship of *Excellent* construction, which provide a total of 6, 9, and 12 Damage Levels respectively.
 
 ### Life on Board Ship
 
@@ -1855,7 +1855,7 @@ The crew typically sleep on deck, weather permitting, or find space below deck a
 
 #### Risk of Damage
 
-As per the rules in [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md>), each of the ships has a number of Damage Levels. Every time the ship is exposed to an explicit danger there is a chance that the ship may be damaged, losing one of these Damage Levels. These dangers include magical accident or explosion, attack by a sea monster, violent storms or swells, running aground, or collision with another vessel.
+As per the rules in [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md#page-77>), each of the ships has a number of Damage Levels. Every time the ship is exposed to an explicit danger there is a chance that the ship may be damaged, losing one of these Damage Levels. These dangers include magical accident or explosion, attack by a sea monster, violent storms or swells, running aground, or collision with another vessel.
 
 #### Laboratories
 
@@ -2342,7 +2342,7 @@ Carles Magnus, *The Inexorable Search*, InCo 20, [**ArM5**, page 131](<Ars Magic
 
 Felix of Tytalus, *Cloak Of Black Feathers*, MuCo 30, [**ArM5**, page 131](<Ars Magica 5e - Core Rules.md#cloak-of-black-feathers>) / [Definitive Edition, page 334](<Ars Magica - Definitive Edition (Core Rules).md#cloak-of-black-feathers>). (6BP)
 
-Carles Magnus, *In Christ’s Footsteps*, ReCo 5, [*Guardians of the Forests*, page 96](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>). (1BP)
+Carles Magnus, *In Christ’s Footsteps*, ReCo 5, [*Guardians of the Forests*, page 96](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#page-96>). (1BP)
 
 Hilde Oddfish, *Endurance of the Berserkers*, ReCo 15, [**ArM5**, page 134](<Ars Magica 5e - Core Rules.md#endurance-of-the-berserkers>) / [Definitive Edition, page 338](<Ars Magica - Definitive Edition (Core Rules).md#endurance-of-the-berserkers>). (3BP)
 
@@ -3679,7 +3679,7 @@ Virtues and Flaws: Magic Animal\*; Magical Friend\*; Improved Characteristics x 
 
 \*\* From familiar bond.
 
-\*\*\* From [*Grogs*, page 77](<Ars Magica 5e - Social - Grogs.md>).
+\*\*\* From [*Grogs*, page 77](<Ars Magica 5e - Social - Grogs.md#page-77>).
 
 Magical Qualities and Inferiorities: Gigantic, Greater Power; Improved Abilities x 4, Improved Attack x 2, Improved Damage x 3, Improved Defense x 2, Improved Fatigue x 3, Improved Initiative, Improved Powers x 4, Improved Soak, Minor Virtue (Tough); Reduced Might x 8
 
@@ -5069,7 +5069,7 @@ The covenant is described through the following Boons and Hooks:
 
 **Powerful Ally (Metropolitan of Miletos) (Major Boon):** Niketas, the Metropolitan of Miletos, is an ally of the covenant. (Covenants, [page 21](#page-21)).
 
-**Edifice (Temple to Apollo) (Minor Boon):** The magnificent temples to the old pagan gods at Didyma are well-known. Most locals consider the temples part of the region’s heritage and (even if not pagan) admire the beauty of the buildings, although, of course, a few extremists hate the pagan structures. The temples have been destroyed and rebuilt several times over the centuries, but most date from a rebuilding ordered by the Emperor Trajan in 100 AD. ([*Covenants*, page 14](<Ars Magica 5e - Covenants.md>)).
+**Edifice (Temple to Apollo) (Minor Boon):** The magnificent temples to the old pagan gods at Didyma are well-known. Most locals consider the temples part of the region’s heritage and (even if not pagan) admire the beauty of the buildings, although, of course, a few extremists hate the pagan structures. The temples have been destroyed and rebuilt several times over the centuries, but most date from a rebuilding ordered by the Emperor Trajan in 100 AD. ([*Covenants*, page 14](<Ars Magica 5e - Covenants.md#page-14>)).
 
 **Increased Aura (Minor Boon):** The aura at the covenant is 4 (but a Faerie aura, see later). (Covenants, [page 8](#page-8)).
 
@@ -5137,7 +5137,7 @@ The covenant is described through the following Boons and Hooks:
 
 ## Magi
 
-The magi at Didyma are Alexander and Nikola (Ex Miscellanea, both Branchidae), Ariane (Jerbiton), Herakles (Merinita), and William (Flambeau). Alexander’s young apprentice, Aoede, also lives at the covenant. William is a metoikos (resident foreigner) in the Tribunal, and since 1210 has been the guest of Herakles (see [The Sundered Eagle, page 25](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md>)). This means William cannot hold offices in the Tribunal, although he may still vote. William’s status as a guest applies to his Tribunal status: he is considered a full covenant resident under the covenant’s charter. The other magi are all normal members of the Theban Tribunal. Nikola serves as an arche in the current Tribunal Council of Magistrates, and she is a member of the Treasury Council (see [The Sundered Eagle, page 25](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#the-council-of-magistrates>)).
+The magi at Didyma are Alexander and Nikola (Ex Miscellanea, both Branchidae), Ariane (Jerbiton), Herakles (Merinita), and William (Flambeau). Alexander’s young apprentice, Aoede, also lives at the covenant. William is a metoikos (resident foreigner) in the Tribunal, and since 1210 has been the guest of Herakles (see [The Sundered Eagle, page 25](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#page-25>)). This means William cannot hold offices in the Tribunal, although he may still vote. William’s status as a guest applies to his Tribunal status: he is considered a full covenant resident under the covenant’s charter. The other magi are all normal members of the Theban Tribunal. Nikola serves as an arche in the current Tribunal Council of Magistrates, and she is a member of the Treasury Council (see [The Sundered Eagle, page 25](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#the-council-of-magistrates>)).
 
 Alexander, Nikola, Araine, and Aoede are all pagans who, like a number of the covenfolk, dress in the robes of ancient pagan priests and priestesses. Alexander is an ancient, bulky, bearded mass and he disconcertingly vibrates and pulses with a palpable aura. He is the leader (Patriarch) of the covenant and although he now rarely leaves the temple complex, his plotting is responsible for the covenant’s current security with regard to its secular and ecclesiastic neighbors. Alexander’s young apprentice, Aoede is a nervous nine year old girl, who shyly orbits behind him. Nikola, a tall distinguished woman who carries sadness deep in her blank Twilight-scarred eyes, is the stateswoman and military leader (Strategos) of the covenant. She is a prolific correspondent with other Theban Tribunal officials and Redcaps, and others often meet with her on Tribunal business. Nikola is always interested in discussing Tribunal affairs with visitors. Ariane is a slender middle-aged woman, and the temple she has converted to a laboratory is shrouded in thick black drapes that grant only fleeting glimpses of the secrets concealed within. Although reclusive, Ariane is friendly toward characters who trouble to learn about her, but she is fearful and mistrustful of Latin magi. In her role as covenant Chancellor, Ariane extensively uses The Intangible Tunnel to scry on the covenant’s interests and resources, and her familiar, the cat Chloris (a patient, but unpredictable, observer from many of the covenant’s dark corners) keeps Ariane inconsistently informed about the activities of visiting magi. Ariane is typically accompanied by one or more of her handmaidens: a trio of blind women who arrange her mundane affairs.
 
@@ -5766,7 +5766,7 @@ Spells Known:
 
 Vis: None.
 
-Appearance: Ariane is an attractive, slender woman, who usually dresses in a thin white stola (female toga equivalent) and she is the covenant’s Chancellor. She is the daughter of a wealthy Constantinople merchant and was trained in the eunuch school at the politically powerful Jerbiton covenant of Xylinites (in Constantinople). Ariane (a Gifted child with a wealthy father) was eagerly accepted by the Jerbiton, despite her gender. Everything then changed for her when Constantinople fell. Ariane’s father was killed, as was her parens, Theoderic, and Ariane fled into exile, heading for Miletos with one of her father’s trading partners. Xylinites is now a Criamon covenant; see [The Sundered Eagle, page 101](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md>).
+Appearance: Ariane is an attractive, slender woman, who usually dresses in a thin white stola (female toga equivalent) and she is the covenant’s Chancellor. She is the daughter of a wealthy Constantinople merchant and was trained in the eunuch school at the politically powerful Jerbiton covenant of Xylinites (in Constantinople). Ariane (a Gifted child with a wealthy father) was eagerly accepted by the Jerbiton, despite her gender. Everything then changed for her when Constantinople fell. Ariane’s father was killed, as was her parens, Theoderic, and Ariane fled into exile, heading for Miletos with one of her father’s trading partners. Xylinites is now a Criamon covenant; see [The Sundered Eagle, page 101](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#page-101>).
 
 Ariane was welcomed and invited to join Didyma by Alexander, and she has since converted to paganism, but still has contacts in the exiled imperial court at Nicaea, as many powerful eunuchs were her former classmates at Xylinites. Ariane is distressed by the presence of Franks at the covenant, and wishes that William would return to Normandy.
 
@@ -6922,7 +6922,7 @@ Appearance: Agamenoth appears either as a gigantic black mound of earth and rock
 
 ### Hermetic Relationships
 
-Theban covenants must have specific purpose (see [The Sundered Eagle, page 27](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md>)); Didyma’s is to make and interpret prophecies. Historically, the covenant helped the Tribunal to avoid much damage during the Schism War, and magi embarking upon important ventures still sometimes travel to Didyma for a prophecy.
+Theban covenants must have specific purpose (see [The Sundered Eagle, page 27](<Ars Magica 5e - The Sundered Eagle - The Theban Tribunal.md#page-27>)); Didyma’s is to make and interpret prophecies. Historically, the covenant helped the Tribunal to avoid much damage during the Schism War, and magi embarking upon important ventures still sometimes travel to Didyma for a prophecy.
 
 > ### Story Seed: The Children of Olympos
 >
@@ -7473,7 +7473,7 @@ Unbeknown to Nestor, these wards were accidentally destroyed in the 1190s. So th
 >
 > (Base 15, +1 Touch, +3 Fire, +4 Boundary, +1 Intellego Requisite)
 
-Aristocles the Wanderer is the filius of Tessa. He was trained by her at the covenant of Alexandria, and also outranks Nikola (but is younger than Nestor). Aristocles’ name and fate is unknown at Didyma, and he is in fact no longer in the Theban Tribunal, having spent many years wandering Mythic Europe. He is currently a member of the Transylvania Tribunal living at the oppidum of Tablinum (north of Constantinople on the shore of the Black Sea at the mouth of the Danube; see [Against the Dark, page 58](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md>)).
+Aristocles the Wanderer is the filius of Tessa. He was trained by her at the covenant of Alexandria, and also outranks Nikola (but is younger than Nestor). Aristocles’ name and fate is unknown at Didyma, and he is in fact no longer in the Theban Tribunal, having spent many years wandering Mythic Europe. He is currently a member of the Transylvania Tribunal living at the oppidum of Tablinum (north of Constantinople on the shore of the Black Sea at the mouth of the Danube; see [Against the Dark, page 58](<Ars Magica 5e - Against the Dark - The Transylvanian Tribunal.md#page-58>)).
 
 After Alexander’s death, Aristocles also returns to Didyma, but does not arrive until several years after Nestor. Aristocles is not concerned about the Patriarch title, and if Nikola has retained the title, then Aristocles is content to cede it to her. Aristocles is accompanied by a trio of Tremere (Anica, Octavian, and Petre). The four magi from Transylvania intend to take up residency at Didyma, and willingly accede to any residency requirements made by the Council of Magi. The four Transylvanians appear keen to learn about the Branchidae pagan cult, and whether it has anything to offer the mainstream Order. However, Aristocles has secretly renounced Branchidae pagan-cult practices and believes that the worship of Apollo Didyma should cease. The secret purpose of Aristocles and his Tremere allies is to research and eventually slay the faerie Apollo Didyma. Aristocles and his allies intend to declare Wizard War on the rest of the Didyma magi when he is ready to slay Apollo Didyma. This, he believes, will protect him from any legal claim that he has deprived the covenant magi of magical power or similar; such a legal claim might otherwise arise because the slaying of the covenant’s patron effectively destroys the covenant’s legal standing in the Theban Tribunal. Of course, a Wizard War declaration will not protect Aristocles from the political consequences of slaying Apollo.
 
@@ -8483,7 +8483,7 @@ Encumbrance: 4 (4)
 
 Appearance: Bran is a tall man, long-limbed and standing a head taller than most of the grogs he leads.
 
-\*\* His arms and armor have been handed down from prior generations and have been altered to fit him. If using the rules for damaged goods from City & Guild, the armor has just one Damage Level left. He wants new equipment for himself and his men. Use the prices listed in [City & Guild, page 144](<Ars Magica 5e - City & Guild.md>) to help decide how the magi treat his requests.
+\*\* His arms and armor have been handed down from prior generations and have been altered to fit him. If using the rules for damaged goods from City & Guild, the armor has just one Damage Level left. He wants new equipment for himself and his men. Use the prices listed in [City & Guild, page 144](<Ars Magica 5e - City & Guild.md#page-144>) to help decide how the magi treat his requests.
 
 ##### Faeborchless, or the Dancing Shield Feat
 
@@ -8596,7 +8596,7 @@ Although a capable scribe, the 39-year old Maghnus is slovenly by nature and thi
 
 Piaras is a morose man and has little desire for company. However, the vellum he produces is of the highest quality and other covenants have sometimes called upon his services.
 
-Piaras has written four instructional manuals for use in the preparation of certain types of vellum; one each for the skins of cows, sheep, goats, and a further text for the treatment of the skins of magical beasts. As per [City & Guild, page 73](<Ars Magica 5e - City & Guild.md>), each of these adds +3 to the Craft Totals of other makers of parchment (Piaras cannot benefit from his own writing). Written in the vernacular, this collection costs 12 Build Points.
+Piaras has written four instructional manuals for use in the preparation of certain types of vellum; one each for the skins of cows, sheep, goats, and a further text for the treatment of the skins of magical beasts. As per [City & Guild, page 73](<Ars Magica 5e - City & Guild.md#page-73>), each of these adds +3 to the Craft Totals of other makers of parchment (Piaras cannot benefit from his own writing). Written in the vernacular, this collection costs 12 Build Points.
 
 Aged 56, though appearing 50, he enjoys a –4 aging bonus granted by his Longevity Ritual. He has a Dexterity of +3 and a Craft: Parchment (uterine vellum) of 9. As a specialist, he costs 9 Build Points, and these are added to 45 Build Points for his workshop, which he has enhanced with both a +2 Innovation Score and +3 Raw Materials. The library contains a Laboratory Text for his Longevity Ritual.
 
@@ -9155,7 +9155,7 @@ Vis: 8 pawns Rego, +2 if in the Otherworld
 
 Appearance: A tall and handsome man apparently in his early thirties, attractive were it not for his bright blue skin and red eyes. His blond hair is lustrous, and his oil-black armor fascinates in the torchlight.
 
-His Might is increased by 10 when he is within his place of power; the labyrinth beneath Longmist. This is also where he maintains his workshop, which provides a +2 bonus to totals to create new arms and armor due to the exotic supplies and magical fires within its forge. This allows him to make Superior weapons and armor, with the exception of swords which are Excellent, as described in [City & Guild, page 69](<Ars Magica 5e - City & Guild.md>).
+His Might is increased by 10 when he is within his place of power; the labyrinth beneath Longmist. This is also where he maintains his workshop, which provides a +2 bonus to totals to create new arms and armor due to the exotic supplies and magical fires within its forge. This allows him to make Superior weapons and armor, with the exception of swords which are Excellent, as described in [City & Guild, page 69](<Ars Magica 5e - City & Guild.md#page-69>).
 
 While the quality of weapons and armor made by Ruadan is determined by the appropriate Pretense, his Blood of Goibhniu power allows him forge unusual substances. These could include moonlight, song, loss, anger, or the power of a storm. He may do this by expending 1 point from his Might Score, plus up to a further 9 points from his Might Score to enchant up to 45 levels of effect. This must be a single effect, and all the usual modifiers apply. Points spent in this way can only be regained by consuming faerie vis associated with the form of Vim, or by taking back the weapon and smelting it down.
 
@@ -9310,9 +9310,9 @@ Combat:
 - Fist: Init 0, Attack +1, Defense 0, Damage +1
 - Bludgeon: Init 0, Attack +3, Defense 0, Damage +3
 
-Soak: +25 (bonus applied to Damage Checks, as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md>))
+Soak: +25 (bonus applied to Damage Checks, as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md#page-77>))
 
-Damage Levels: 4 (as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md>))
+Damage Levels: 4 (as per [City & Guild, page 77](<Ars Magica 5e - City & Guild.md#page-77>))
 
 Abilities: Craft: Blacksmith 5
 

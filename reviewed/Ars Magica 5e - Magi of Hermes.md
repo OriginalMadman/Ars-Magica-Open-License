@@ -1540,7 +1540,7 @@ Powers:
 By withdrawing completely into his shell, Zeno becomes invulnerable to all types of non-magical damage and attacks. He could be thrown off a 60-foot cliff, tossed into a huge bonfire, or hacked at with axes; he would emerge unscathed.
 
 *Grant Virtue (Unaging)*, 5 points, Init –5, Vim:<br>
-Zeno can grant a single person the virtue Unaging for as long as he deems appropriate. Cancelling this effect takes one round of concentration and can be done without Zeno being able to sense the recipient and also without his consent. See [*Guardians of the Forests*, page 32](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md>).
+Zeno can grant a single person the virtue Unaging for as long as he deems appropriate. Cancelling this effect takes one round of concentration and can be done without Zeno being able to sense the recipient and also without his consent. See [*Guardians of the Forests*, page 32](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#page-32>).
 
 Familiar Powers: *Mental Communication:* Zeno and Aurulentus are in constant mental contact, and can exchange words, images, and emotions. *(CrMe 15: Base 4, +1 Touch, +10 levels unlimited uses/day)*
 
@@ -4404,7 +4404,7 @@ This effect is triggered when the wearer of the gauntlet strikes a being with hi
 
 ## Talisman: Troll’s Wife
 
-Hugh has enchanted a long-hafted bearded axe as his talisman. He calls this Troll’s Wife, in deference to a Northern tradition to name an axe after a fearsome monster. Only the haft has been enchanted, allowing the blade to be unimpeded by Magic Resistance. The weapon is beautifully made: the head is made of steel with an iron edge, and inlaid silver depicts mythological scenes of heroes slaying dragons and giants. The haft is made of holly wood, perfectly sized to Hugh’s height and reach, and bound in bands of brass. It is carved with horses, eagles, and wolves. Near the axe head are six inlaid discs, three of amber and three of bloodstone. This weapon was made personally for Hugh at great expense, and is of excellent quality (see [*City & Guild*, pages 69–70](<Ars Magica 5e - City & Guild.md>)), granting a +3 to Attack and Defense rolls when using it. The weapon otherwise has the statistics of a pole axe.
+Hugh has enchanted a long-hafted bearded axe as his talisman. He calls this Troll’s Wife, in deference to a Northern tradition to name an axe after a fearsome monster. Only the haft has been enchanted, allowing the blade to be unimpeded by Magic Resistance. The weapon is beautifully made: the head is made of steel with an iron edge, and inlaid silver depicts mythological scenes of heroes slaying dragons and giants. The haft is made of holly wood, perfectly sized to Hugh’s height and reach, and bound in bands of brass. It is carved with horses, eagles, and wolves. Near the axe head are six inlaid discs, three of amber and three of bloodstone. This weapon was made personally for Hugh at great expense, and is of excellent quality (see [*City & Guild*, pages 69–70](<Ars Magica 5e - City & Guild.md#page-69>)), granting a +3 to Attack and Defense rolls when using it. The weapon otherwise has the statistics of a pole axe.
 
 Troll’s Wife was opened with 12 pawns of vis (the highest cost component is the tiny semi-precious gems near the axe-head), and currently has no room left for further effects as Hugh has not chosen to increase its space just yet.
 
@@ -4910,7 +4910,7 @@ ReAn 5<br>
 R: Touch, D: Mom, T: Ind<br>
 This spell crafts a single woolen garment from either raw fleeces or from spun wool. This spell is suitable for producing a cotte, cyclas, ganache, bliaut, cappa, or chausses (see the Clothing of the Thirteenth Century insert). A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 12 if raw fleece is employed, or 9 if the base material is spun wool. The clothes produced are of standard quality; increase the Ease Factor for particularly fine or complex craft. If the Finesse roll fails, the caster is left with a useless mess of wool. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items, later). She does not have a spell that directly creates mundane clothing of wool due to the difficulty (it would be a similar spell to *Sturdy Mantle of the Traveler*, earlier). Instead, it is much easier to simply create fleeces (see *Shearing the Unseen Flock*, later) and then craft them into clothing with this spell.
 
-This spell employs the Level 3 Rego Animal guideline on [page 50 of *Covenants*](<Ars Magica 5e - Covenants.md>): “treat and process items made of animal products.”
+This spell employs the Level 3 Rego Animal guideline on [page 50 of *Covenants*](<Ars Magica 5e - Covenants.md#page-50>): “treat and process items made of animal products.”
 
 (Base 2, +1 Touch, +1 complexity)
 
@@ -5618,7 +5618,7 @@ ReVi Gen<br>
 R: Touch, D: Sun, T: Individual<br>
 This spell wards an object from being touched or manipulated by faeries or faerie magic. Faeries with Might greater than the spell’s level are not restrained by this spell, nor are faeries that resist the spell’s Penetration.
 
-Lambert’s version of this spell was developed from laboratory notes made by a Merinita magus with the virtue of Spell Potency ([*The Mysteries Revised Edition* page 31](<Ars Magica 5e - The Mysteries (Revised).md>) or *Houses of Hermes: Mystery Cults* [page 6](#page-6)) concerning faeries. Lambert is unable to cast this spell unless he wraps an iron chain around the protected item at the time of the casting. Due to the influence of the iron chain, this spell is cast with a Potency Bonus of +7.
+Lambert’s version of this spell was developed from laboratory notes made by a Merinita magus with the virtue of Spell Potency ([*The Mysteries Revised Edition* page 31](<Ars Magica 5e - The Mysteries (Revised).md#page-31>) or *Houses of Hermes: Mystery Cults* [page 6](#page-6)) concerning faeries. Lambert is unable to cast this spell unless he wraps an iron chain around the protected item at the time of the casting. Due to the influence of the iron chain, this spell is cast with a Potency Bonus of +7.
 
 Lambert finds that faeries rarely confront him about his use of this spell when he casts it on goods that he brings into their lands, but they become exceedingly displeased by the spell when it is used upon any item that is native to their home.
 
@@ -6979,7 +6979,7 @@ Marcus has designed the following enchanted items.
 
 ### The Labyrinth of the Open Mind
 
-Marcus has enchanted the floor to his laboratory to assist in his magical investigations. It is made from two types of wood, one pale and the other stained dark. The complex pattern produced at Marcus’ exacting instructions forms a labyrinth, and Marcus’ sanctum has been arranged so that items of furniture and pieces of laboratory equipment are located in mystically significant locations. Each “path” of the interlaced design is enchanted with a different effect, all of which are designed to provide magical enhancements to his laboratory activities (see [*Covenants*, page 121](<Ars Magica 5e - Covenants.md>) for details of Magic Items for Laboratories).
+Marcus has enchanted the floor to his laboratory to assist in his magical investigations. It is made from two types of wood, one pale and the other stained dark. The complex pattern produced at Marcus’ exacting instructions forms a labyrinth, and Marcus’ sanctum has been arranged so that items of furniture and pieces of laboratory equipment are located in mystically significant locations. Each “path” of the interlaced design is enchanted with a different effect, all of which are designed to provide magical enhancements to his laboratory activities (see [*Covenants*, page 121](<Ars Magica 5e - Covenants.md#page-121>) for details of Magic Items for Laboratories).
 
 The floor was prepared with 10 pawns of Vim vis (a huge item made of wood). It has been enchanted with three effects that occupy 9 pawns’ worth of space.
 
@@ -8139,7 +8139,7 @@ This is an Average task for a mundane spinner, so the caster must make a Percept
 
 Failing the roll results in a badly spun fleece, probably with flecks of dirt still clinging to the thread. A botched roll ruins the fleece outright, though this may not be immediately apparent.
 
-See [*Covenants*, page 49](<Ars Magica 5e - Covenants.md>) for more on Rego Craft Magic.
+See [*Covenants*, page 49](<Ars Magica 5e - Covenants.md#page-49>) for more on Rego Craft Magic.
 
 (Base 3, +1 Touch, +2 Group)
 
@@ -8159,7 +8159,7 @@ The caster makes a Perception + Finesse (precision) + stress die and compares th
 
 It is a harder task to create patterned cloth. A simple repeating pattern adds +3 to the Ease Factor, while an image or words woven into the cloth adds +6.
 
-See [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md>) for more on item quality. A Herbam casting requisite is required for work involving cotton or linen.
+See [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md#page-67>) for more on item quality. A Herbam casting requisite is required for work involving cotton or linen.
 
 (Base 3, +1 Touch, +2 Group)
 
@@ -8273,7 +8273,7 @@ Petalichus knows the effect The Gift has on mundanes, and recognizes that the fe
 ##### A Day’s Grace
 ReVi 30<br>
 R: Touch, D: Hours, T: Individual<br>
-Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see [*The Mysteries Revised Edition*, page 49](<Ars Magica 5e - The Mysteries (Revised).md>)).
+Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see [*The Mysteries Revised Edition*, page 49](<Ars Magica 5e - The Mysteries (Revised).md#page-49>)).
 
 The suppressed spell can have a level up to 25 and may be Spontaneous, Ceremonial or Formulaic. Ritual spells are too complex to be suppressed by this spell although should a version of this spell be designed as a Ritual that should be possible.
 
@@ -8285,7 +8285,7 @@ Sight-Ranged spells must be targeted during the initial casting. Once the spell 
 
 ### Sample Rotes
 
-Petalichus has invented the following effects as Rotes, the simple magical effects available to students of Hermetic Numerology. See [*The Mysteries Revised Edition*, page 92](<Ars Magica 5e - The Mysteries (Revised).md>) for details on casting.
+Petalichus has invented the following effects as Rotes, the simple magical effects available to students of Hermetic Numerology. See [*The Mysteries Revised Edition*, page 92](<Ars Magica 5e - The Mysteries (Revised).md#page-92>) for details on casting.
 
 ##### Sense the Weight of Divine Power
 InVi 3<br>
@@ -8299,7 +8299,7 @@ Petalichus has three other rotes that each perform the same effect for one of th
 ##### Scribe the Perfect Circle
 Re(Cr)Te 4<br>
 R: Touch, D: Mom, T: Ind<br>
-As the spell described in [*The Mysteries Revised Edition*, page 96](<Ars Magica 5e - The Mysteries (Revised).md>).
+As the spell described in [*The Mysteries Revised Edition*, page 96](<Ars Magica 5e - The Mysteries (Revised).md#page-96>).
 
 ##### The Unseen Arm
 ReTe 5<br>
@@ -10112,7 +10112,7 @@ The Glamour enchantment (see [page 101 in *Houses of Hermes: Mystery Cults*](<Ar
 
 ## Talisman: The Eternally Changing Lyre
 
-A lyre made from a cinnamon tree, with a magnet and mercury inside a glass stone on the front. 16 pawns were used to open it, 7 for instilling effects. The original lyre was a great work from one of the finest instrument makers in France. It gives the user a +3 on all Music rolls (see [*City & Guild*, page 69](<Ars Magica 5e - City & Guild.md>)).
+A lyre made from a cinnamon tree, with a magnet and mercury inside a glass stone on the front. 16 pawns were used to open it, 7 for instilling effects. The original lyre was a great work from one of the finest instrument makers in France. It gives the user a +3 on all Music rolls (see [*City & Guild*, page 69](<Ars Magica 5e - City & Guild.md#page-69>)).
 
 #### Attunements
 +4 Imaginem<br>
@@ -11325,7 +11325,7 @@ As the caster walks, this spell shifts the earth underfoot allowing him to trave
 
 This spell has little effect on soft or muddy paths, as the earth must still be able to bear the target’s weight. The spell is potent enough to move stones and cobbles in the road.
 
-A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. [*City & Guild*, page 85](<Ars Magica 5e - City & Guild.md>), provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
+A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. [*City & Guild*, page 85](<Ars Magica 5e - City & Guild.md#page-85>), provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
 
 (Base 2, +1 Touch, +1 Conc, +1 Part, +1 stone)
 

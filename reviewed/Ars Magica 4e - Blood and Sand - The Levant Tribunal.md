@@ -1398,7 +1398,7 @@ The basic premise behind the magic practiced by the *sahirs* is that of summonin
 
 ### Generating *Sahir* Characters
 
-A *sahir* should be played as an alternative to a magus character in sagas. Whether the character is a member of the Order of Hermes or not is a matter of personal choice. However, a *sahir* who is not a member is likely to experience problems if they spend much time in Hermetic circles. A *sahir* who is a member of the Order must either take the +2 Virtue Outsider Trained in the Order (WGRE, [page 61](#page-61)), or fulfill the requirements described in [*Hedge Magic*, page 33](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>). Most *sahirs* are Muslims, but some Christian and Jewish magi also practice the art.
+A *sahir* should be played as an alternative to a magus character in sagas. Whether the character is a member of the Order of Hermes or not is a matter of personal choice. However, a *sahir* who is not a member is likely to experience problems if they spend much time in Hermetic circles. A *sahir* who is a member of the Order must either take the +2 Virtue Outsider Trained in the Order (WGRE, [page 61](#page-61)), or fulfill the requirements described in [*Hedge Magic*, page 33](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-33>). Most *sahirs* are Muslims, but some Christian and Jewish magi also practice the art.
 
 #### Characteristics
 
@@ -1482,7 +1482,7 @@ The character has 50 points to spend on Familiarities with specific entities. Th
 
 *Sahirs* may summon and control the following beings:
 
-1. All spirits, including spirits of the Near and Far lands (*The Hidden Paths: Shamans*, [pages 98-119](#page-98)/*The Dragon and the Bear*, pages 170-5), daemons ([*Mysteries*, pages 146-54](<Ars Magica 5e - The Mysteries (Revised).md>)) and airy spirits ([*Hedge Magic*, pages 72-80](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>))
+1. All spirits, including spirits of the Near and Far lands (*The Hidden Paths: Shamans*, [pages 98-119](#page-98)/*The Dragon and the Bear*, pages 170-5), daemons ([*Mysteries*, pages 146-54](<Ars Magica 5e - The Mysteries (Revised).md>)) and airy spirits ([*Hedge Magic*, pages 72-80](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-72>))
 2. Ghosts whose bodies have not been given a Christian or Muslim burial, and Jewish ghosts who have been buried, but have been dead for less than a year (see *Kabbalah*, [pages 123-4](#page-123))
 3. *Jinn*
 
@@ -1524,7 +1524,7 @@ The summoning ritual gives *sahirs* the ability to communicate with the entities
 
 One particular bargain which may be made with some entities is for a slowing down of or temporary halt to the aging process. If such a bargain is struck, the *sahir* will receive a span of time during which he or she will not age, and no aging rolls are made. Such bargains are invariably expensive, and should the *sahir* ever renege on an agreement, he or she will immediately age a number of years equal to those for which no aging has taken place, making aging rolls if necessary. In general, an entity may grant the *sahir* a maximum of Might – 20 years free of aging. As time passes, more powerful entities will be required. If, for example, an entity of Might 30 gives the *sahir* ten years free of aging, once this time is up, the *sahir* will have to contact another entity of Might greater than 30, who will only be able to grant the difference between its maximum award and the years already awarded. Thus if the *sahir* in this example contacted an entity with a Might of 40, it would only be able to award another ten years.
 
-This ability to bargain with entities is identical to that possessed by Spirit Masters ([*Hedge Magic*, pages 47-8](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)). However, it is the ability to compel entities which makes *sahirs* feared by spirits and *jinn*.
+This ability to bargain with entities is identical to that possessed by Spirit Masters ([*Hedge Magic*, pages 47-8](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-47>)). However, it is the ability to compel entities which makes *sahirs* feared by spirits and *jinn*.
 
 **Compulsion:** If the *sahir* chooses to compel the entity summoned, a contest of wills immediately takes place. The *sahir* rolls:
 
@@ -1665,7 +1665,7 @@ The *raqis* (m. sing. *raqi*, f. sing. *raqiyya*) are the natural magicians of t
 
 #### Generating Raqi Characters
 
-Although a Mystic Companion, a *raqi* character should occupy a player’s magus slot at character creation. *Raqis* may follow any faith. *Raqis* are generated in the same way as other natural magicians ([*Hedge Magic*, page 40](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), with the following modifications:
+Although a Mystic Companion, a *raqi* character should occupy a player’s magus slot at character creation. *Raqis* may follow any faith. *Raqis* are generated in the same way as other natural magicians ([*Hedge Magic*, page 40](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-40>)), with the following modifications:
 
 ##### Starting Abilities
 
@@ -1681,7 +1681,7 @@ When spending their remaining experience points, they have access to the same Ab
 
 #### Differences between Natural Magic and Raqi Magic
 
-*Raqis* may do everything natural magicians may do ([*Hedge Magic*, pages 41-4](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)). In addition, they may also cast *niranjs* they know, in a similar way to Hermetic Formulaic spell-casting.
+*Raqis* may do everything natural magicians may do ([*Hedge Magic*, pages 41-4](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-41>)). In addition, they may also cast *niranjs* they know, in a similar way to Hermetic Formulaic spell-casting.
 
 ##### Casting Niranjs
 
@@ -1737,7 +1737,7 @@ The *zahids* (m. sing. *zahid*, f. sing. *zahida*) are Muslim ascetics. They see
 
 #### Generating Zahid Characters
 
-*Zahids* are Mystic Companions, generated in the same way as other ascetics ([*Hedge Magic*, pages 50-1](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>). However, they have slightly different starting Abilities, listed below:
+*Zahids* are Mystic Companions, generated in the same way as other ascetics ([*Hedge Magic*, pages 50-1](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-50>). However, they have slightly different starting Abilities, listed below:
 
 Speak Arabic 3 (if Own Language is Arabic, then choose Persian or Turkish), Theology: Islam 4, Concentration 4, Scribe Arabic 3, Sense Holiness & Unholiness 3, Folk Ken 2
 
@@ -1745,7 +1745,7 @@ Speak Arabic 3 (if Own Language is Arabic, then choose Persian or Turkish), Theo
 
 #### Differences between Ascetic Magic and Zahid “Magic”
 
-*Zahids* would not regard their practices as being magic, but rather as effects stemming from their achievement of closer proximity to God. Nevertheless, the effects they achieve are extremely similar to those achieved by other ascetics. As far as game system is concerned, *zahids* may achieve Transcendences and Mystic Understanding in the same way as other ascetics ([*Hedge Magic*, pages 51-4](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)). However, due to the different focus of their practices, their rolls and totals are modified as follows:
+*Zahids* would not regard their practices as being magic, but rather as effects stemming from their achievement of closer proximity to God. Nevertheless, the effects they achieve are extremely similar to those achieved by other ascetics. As far as game system is concerned, *zahids* may achieve Transcendences and Mystic Understanding in the same way as other ascetics ([*Hedge Magic*, pages 51-4](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-51>)). However, due to the different focus of their practices, their rolls and totals are modified as follows:
 
 <!-- p. 78 --><a id="page-78"></a>
 

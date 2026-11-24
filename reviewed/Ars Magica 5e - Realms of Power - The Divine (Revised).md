@@ -6930,7 +6930,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 > **Description:** A book of theurgistic magic that purports to list the names of angels, demons, and other spirits. This is an unusual work in that it eschews the expected ritual purity for witchcraft-like practices.
 >
-> **Special Rule:** Studying the *Sword of Moses* for a season can be treated as a source of insight for researching and integrating the extinct magical form of Canaanite Necromancy ([*Ancient Magic*, page 30](<Ars Magica 5e - Magic - Ancient Magic.md#ii-canaanite-necromancy>)).
+> **Special Rule:** Studying the *Sword of Moses* for a season can be treated as a source of insight for researching and integrating the extinct magical form of Canaanite Necromancy ([*Ancient Magic*, page 30](<Ars Magica 5e - Magic - Ancient Magic.md#chapter-two-canaanite-necromancy>)).
 
 ### Culture
 

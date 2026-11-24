@@ -1619,7 +1619,7 @@ To maintain the effect, each year the galdraman must drink another quantity of v
 
 ### Galdor Initiation
 
-Galdramen can also learn further magical powers by spending time in meditation, exposed to the elements and speaking with the wild spirits of Iceland. Galdramen can initiate the following Virtues: Ars Notoria (see [*The Mysteries*, page 132](<Ars Magica 5e - The Mysteries (Revised).md>)), Curse, Enchanting Music, Galdor Songs, Gift, Healer, Hamfarir, Potency, Svonhverfing.
+Galdramen can also learn further magical powers by spending time in meditation, exposed to the elements and speaking with the wild spirits of Iceland. Galdramen can initiate the following Virtues: Ars Notoria (see [*The Mysteries*, page 132](<Ars Magica 5e - The Mysteries (Revised).md#page-132>)), Curse, Enchanting Music, Galdor Songs, Gift, Healer, Hamfarir, Potency, Svonhverfing.
 
 As a type of theurgist, galdramen can gain Ars Notoria at +3, with Galdor Wisdom replacing Hermetic Theurgy in the formula.
 
@@ -1655,7 +1655,7 @@ Traditional galdramen gain Twilight points like Hermetic magi. They gain points 
 
 ### Schooled Galdramen
 
-These magicians are trained at the cathedral school of Holar or Skalholt. They follow the same rules as Natural Magicians (See [*Hedge Magic*, page 40](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), but use their skills to conjure magical spirits, which then generate the desired effect. In game terms there is no substantive difference, except that they use the normal magical interaction table and possess the Gift.
+These magicians are trained at the cathedral school of Holar or Skalholt. They follow the same rules as Natural Magicians (See [*Hedge Magic*, page 40](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-40>)), but use their skills to conjure magical spirits, which then generate the desired effect. In game terms there is no substantive difference, except that they use the normal magical interaction table and possess the Gift.
 
 When Saemundur Sigfusson returned to Iceland after his education in France, he used his new learning to substitute Judeo-Christian and neo-classical synthemata (sacred phrases) for the heathen idolatry of tradition galdor magic. Synthemata include animals, plants, stones, images, aromatics, talismans, and written letters. The schooled galdramen weave these ingredients with divine names into highly complex rituals.
 
@@ -4210,7 +4210,7 @@ The gatestone connecting Glyder Fawr to Lundy Island is out of position and cann
 
 **Ealasaid’s Lab:** Totally submerged. The equipment in this room is unsalvageable. It does however contain several clay and basalt tablets inscribed with cuneiform or hieroglyphics. Using these artifacts Ealasaid was able to identify the names and nature of the spirits serving the gateways.
 
-**Sea Dome Temple:** This 30-pace diameter circular chamber is open to the sea. A set of steps leads up to an altar. Originally a thick granite dome, enchanted into transparency, covered this chamber. Now this dome lies on the floor of the chamber, covered with four feet of sand, silt and sea life. If restored the temple would provide a +5 bonus to magical summoning rituals. The location is greatly favored by spirits of the sea and secretive spirits like Lucifugus (see [*Hedge Magic*, page 77](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)). The altar incorporates a fountain fed by an underground fresh water spring; which generates twelve pawns of Intéllego vis on the winter Solstice each year.
+**Sea Dome Temple:** This 30-pace diameter circular chamber is open to the sea. A set of steps leads up to an altar. Originally a thick granite dome, enchanted into transparency, covered this chamber. Now this dome lies on the floor of the chamber, covered with four feet of sand, silt and sea life. If restored the temple would provide a +5 bonus to magical summoning rituals. The location is greatly favored by spirits of the sea and secretive spirits like Lucifugus (see [*Hedge Magic*, page 77](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-77>)). The altar incorporates a fountain fed by an underground fresh water spring; which generates twelve pawns of Intéllego vis on the winter Solstice each year.
 
 **Exit Tunnel:** This is the original tunnel used to reach the area. It is eight miles long and leads to a cliffside cave.
 

@@ -644,7 +644,7 @@ Since most people do not have access to medical attention, a disease with an Eas
 
 Note that a type of disease can have any Ease Factor and Wound type, as they come in varying strengths.
 
-More detailed rules for diseases are provided in [*Art and Academe*, pages 45–51](<../Ars Magica 5e - Art & Academe.md>).
+More detailed rules for diseases are provided in [*Art and Academe*, pages 45–51](<../Ars Magica 5e - Art & Academe.md#page-45>).
 
 #### Disease Table
 
@@ -657,7 +657,7 @@ More detailed rules for diseases are provided in [*Art and Academe*, pages 45–
 
 #### Poisons
 
-Poisons come in many forms, derived from plants, animals, and minerals. The Ease Factor for the initial Stamina check is at least 3, as nothing weaker counts as a poison, and can range as high as 15. Poisons can inflict fatal wounds from the beginning. Poisons are treated as injuries for recovery purposes and the details of Recovery rolls. More information on poisons can also be found in [*Art and Academe*, particularly pages 64–65](<../Ars Magica 5e - Art & Academe.md>).
+Poisons come in many forms, derived from plants, animals, and minerals. The Ease Factor for the initial Stamina check is at least 3, as nothing weaker counts as a poison, and can range as high as 15. Poisons can inflict fatal wounds from the beginning. Poisons are treated as injuries for recovery purposes and the details of Recovery rolls. More information on poisons can also be found in [*Art and Academe*, particularly pages 64–65](<../Ars Magica 5e - Art & Academe.md#page-64>).
 
 #### Poison Table
 

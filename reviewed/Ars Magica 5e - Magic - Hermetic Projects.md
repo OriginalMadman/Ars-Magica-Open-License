@@ -1172,7 +1172,7 @@ Some new Shape and Material Bonuses are listed later (the troupe should feel fre
 
 ### Laboratory Customizations
 
-Features can be added to a laboratory which add a bonus to certain types of Lab Totals, and elements of the laboratory’s structure or location can also be auspicious for some sorts of work. Many of the options presented in [*Covenants* (pages 112–121](<Ars Magica 5e - Covenants.md>)) could help with the Burning City effects. Some new Laboratory Virtues and Flaws include the following.
+Features can be added to a laboratory which add a bonus to certain types of Lab Totals, and elements of the laboratory’s structure or location can also be auspicious for some sorts of work. Many of the options presented in [*Covenants* (pages 112–121](<Ars Magica 5e - Covenants.md#page-112>)) could help with the Burning City effects. Some new Laboratory Virtues and Flaws include the following.
 
 #### Features
 
@@ -1302,7 +1302,7 @@ Supporting the mason is an army of carpenters, joiners, blacksmiths, stone-cutte
 
 Construction projects of a certain size employ many masons. One of these is considered the master mason and is usually the architect of the project; his Ability scores should be used throughout. Every trade represented in the construction, from blacksmiths to carpenters, stone cutters to glaziers, is led by a master craftsman who is involved in the decision-making at the highest level.
 
-The construction of a building is only part of the project. Whether for the glory of the sponsor or for God, castles and cathedrals are augmented by the works of master artists. Columns and ceiling vaulting are designed, stained glass installed, frescoes worked onto the walls, great tapestries created, and gold and silver ornaments and fixtures specially commissioned. More information on artists can be found in [*Art & Academe*, page 114](<Ars Magica 5e - Art & Academe.md>).
+The construction of a building is only part of the project. Whether for the glory of the sponsor or for God, castles and cathedrals are augmented by the works of master artists. Columns and ceiling vaulting are designed, stained glass installed, frescoes worked onto the walls, great tapestries created, and gold and silver ornaments and fixtures specially commissioned. More information on artists can be found in [*Art & Academe*, page 114](<Ars Magica 5e - Art & Academe.md#page-114>).
 
 <!-- p. 32 --><a id="page-32"></a>
 
@@ -1498,7 +1498,7 @@ As the tower approaches the size of a town, it needs to be supplied just as a to
 
 #### Rate of Progress
 
-While clearly slower than using magical rituals to create new levels of the tower, mundane craftsmen can be engaged to build the tower. This chapter assumes that a sufficient workforce can be retained and enough materials obtained to keep the building work going in perpetuity. If using the rules on [page 68 of *City & Guild*](<Ars Magica 5e - City & Guild.md>), a mason with a Craft: Mason score of 5 can build one complete level, 20 feet tall, of the Great Tower each season. This means that four new levels can be completed every year. To maintain such a sustained effort, the mason needs sufficient assistants to ensure he is not forced to spend every season on the project. Given the scale of tower, this is a generous speed and is far quicker than most mundane building work. Individual troupes should feel free to reduce or increase the rate of progress to suit their own play style. For comparison, the Tower of London took around 20 years to complete, and the cathedral at Chartres, started in 1194, will not be completed until 1260.
+While clearly slower than using magical rituals to create new levels of the tower, mundane craftsmen can be engaged to build the tower. This chapter assumes that a sufficient workforce can be retained and enough materials obtained to keep the building work going in perpetuity. If using the rules on [page 68 of *City & Guild*](<Ars Magica 5e - City & Guild.md#page-68>), a mason with a Craft: Mason score of 5 can build one complete level, 20 feet tall, of the Great Tower each season. This means that four new levels can be completed every year. To maintain such a sustained effort, the mason needs sufficient assistants to ensure he is not forced to spend every season on the project. Given the scale of tower, this is a generous speed and is far quicker than most mundane building work. Individual troupes should feel free to reduce or increase the rate of progress to suit their own play style. For comparison, the Tower of London took around 20 years to complete, and the cathedral at Chartres, started in 1194, will not be completed until 1260.
 
 <!-- p. 37 --><a id="page-37"></a>
 
@@ -1614,7 +1614,7 @@ Magi gain the most benefit from working within Magical auras and will likely see
 
 > ### Hermetic Architecture
 >
-> As discussed in Chapter 4, The Hermetic Shipyard, the Hermetic Architecture Virtue can be applied to enchant things too large to fit inside even a hugely modified laboratory ([*The Mysteries Revised Edition*, page 97](<Ars Magica 5e - The Mysteries (Revised).md>)). The tower at the heart of this project is such a thing. While the cost of enchanting the tower as a whole may not in itself be prohibitive (the cost of opening a castle of size +10 made of hard stone (x4) is 40 pawns of vis), it is not viable to build a laboratory so large that it contains the growing tower. The options are to enchant specific devices that can be used or embedded within the tower, or to use Hermetic Architecture to craft mystically-tied devices that bind their magic to the tower.
+> As discussed in Chapter 4, The Hermetic Shipyard, the Hermetic Architecture Virtue can be applied to enchant things too large to fit inside even a hugely modified laboratory ([*The Mysteries Revised Edition*, page 97](<Ars Magica 5e - The Mysteries (Revised).md#page-97>)). The tower at the heart of this project is such a thing. While the cost of enchanting the tower as a whole may not in itself be prohibitive (the cost of opening a castle of size +10 made of hard stone (x4) is 40 pawns of vis), it is not viable to build a laboratory so large that it contains the growing tower. The options are to enchant specific devices that can be used or embedded within the tower, or to use Hermetic Architecture to craft mystically-tied devices that bind their magic to the tower.
 >
 > This chapter does not explore the effects that Hermetic Architecture might produce, but troupes are encouraged to use that Virtue if they want to enchant the tower as a single device.
 
@@ -2357,7 +2357,7 @@ Ship builders generally treat the hull as one entity and any upper works, such a
 >
 > Of the standard Virtues open to Hermetic magi, affinities and puissance with both Magic Theory and Finesse give extra weight to the shipwright’s ability to prepare ships for enchantment and to work Creo rituals and Rego craft magic. And a Major Magical Focus with ships will be a major benefit when enchanting.
 >
-> The Mysteries, either Cult or House, provide useful additional Virtues. Spell Binding ([*The Mysteries Revised Edition*, page 27](<Ars Magica 5e - The Mysteries (Revised).md>)), allows the magus to bind both a spell and a spirit into a container or vessel, the spirit extending and maintaining the spell indefinitely. Philosophic Alchemy ([*The Mysteries Revised Edition*, page 41](<Ars Magica 5e - The Mysteries (Revised).md#alchemy>)) allows the magus to extract vis directly into items and reduce the number of pawns needed to fully prepare the device for enchantment. And of course, magi of House Verditius use their Craft Abilities to reduce the pawns they must use to prepare devices for enchantment, which allows them to enchant potentially very large devices.
+> The Mysteries, either Cult or House, provide useful additional Virtues. Spell Binding ([*The Mysteries Revised Edition*, page 27](<Ars Magica 5e - The Mysteries (Revised).md#page-27>)), allows the magus to bind both a spell and a spirit into a container or vessel, the spirit extending and maintaining the spell indefinitely. Philosophic Alchemy ([*The Mysteries Revised Edition*, page 41](<Ars Magica 5e - The Mysteries (Revised).md#alchemy>)) allows the magus to extract vis directly into items and reduce the number of pawns needed to fully prepare the device for enchantment. And of course, magi of House Verditius use their Craft Abilities to reduce the pawns they must use to prepare devices for enchantment, which allows them to enchant potentially very large devices.
 >
 > Note that magi of House Verditius gain a bonus from their *Craft* Abilities, not *Profession*. A Verditius shipwright will need *both* Craft: Carpenter and Profession: Shipwright. The first represents his hands-on crafting of the enchanted vessels, allowing him to work his magic into the timbers, and the second represents the managing of the workforce necessary to build ships under his guidance.
 
@@ -2532,7 +2532,7 @@ A host of enchanted tools and features are needed to ensure the safety of the wo
 >
 > The steps described as follows provide enough information for the magus to follow the project and build an Hermetic shipyard.
 
-Note: [*Covenants*, page 109](<Ars Magica 5e - Covenants.md>), states that a Hermetic laboratory must occupy a single chamber. But in this case, the shipyard encompasses one or more central work sheds and a number of outbuildings. This is represented by the Exposed free structure flaw.
+Note: [*Covenants*, page 109](<Ars Magica 5e - Covenants.md#page-109>), states that a Hermetic laboratory must occupy a single chamber. But in this case, the shipyard encompasses one or more central work sheds and a number of outbuildings. This is represented by the Exposed free structure flaw.
 
 #### Establish the Basic Laboratory
 
@@ -2678,7 +2678,7 @@ The laboratory suffers for its specialization, with penalties to Safety, Health,
 
 ## The Hermetic Shipwright
 
-There are three options for constructing the ship prior to enchantment. The first and most straight-forward way of constructing a ship is to rely on mundane skill and labor. A skilled shipwright, leading a team of around 10 craftsmen and laborers, can finish a ship in two seasons. This is based on a shipwright with a score of 5 in the Profession: Shipwright ability. This decreases to a single season when the shipwright gains a score of 10 in the ability. See [*City & Guild*, page 68](<Ars Magica 5e - City & Guild.md>), for further detail.
+There are three options for constructing the ship prior to enchantment. The first and most straight-forward way of constructing a ship is to rely on mundane skill and labor. A skilled shipwright, leading a team of around 10 craftsmen and laborers, can finish a ship in two seasons. This is based on a shipwright with a score of 5 in the Profession: Shipwright ability. This decreases to a single season when the shipwright gains a score of 10 in the ability. See [*City & Guild*, page 68](<Ars Magica 5e - City & Guild.md#page-68>), for further detail.
 
 The second option is to use Rego craft magic ([*Covenants*, page 49](<Ars Magica 5e - Covenants.md#rego-craft-magic>)) to process and assemble the parts of the ship. This approach requires a high Finesse ability, but can reduce the time taken to build a ship. Liberal use of craft magic, to process smaller components, can double the efficiency of the shipwright, effectively halving the time it takes to build a ship.
 
@@ -2688,7 +2688,7 @@ The third option is to use Creo rituals to conjure the ship. This is clearly the
 
 ### Mundane Craftsmen
 
-As per the insert in [*City & Guild*, page 70](<Ars Magica 5e - City & Guild.md>), we can expect most enchanted ships to be of Superior or Excellent quality, though this depends on the shipwright’s skill. Superior vessels add a bonus of +1 to specific activities, such as navigation or ship-handling rolls. Excellent quality ships may have a higher bonus, which may be applied to the same areas as well as providing the same bonus to laboratory totals for enchanting that device.
+As per the insert in [*City & Guild*, page 70](<Ars Magica 5e - City & Guild.md#page-70>), we can expect most enchanted ships to be of Superior or Excellent quality, though this depends on the shipwright’s skill. Superior vessels add a bonus of +1 to specific activities, such as navigation or ship-handling rolls. Excellent quality ships may have a higher bonus, which may be applied to the same areas as well as providing the same bonus to laboratory totals for enchanting that device.
 
 If the Hermetic Shipwright is leading the construction of the ship, its quality is based upon his Profession: Shipwright score plus any bonus from the workshop as enhanced by the mundane shipwright (see the nearby insert).
 
@@ -2731,7 +2731,7 @@ ReHe(Te) 30<br>
 R: Touch, D: Momentary, T: Group<br>
 The magus selects a pile of wood and formed iron fixtures, and the spell cuts, carves, and joins the wood into the hull of a target ship, repairing splits and holes under the magus’ direction. The worst damage is repaired first so that the vessel is always left seaworthy and the repairs are practically seamless.
 
-A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on [*Covenants*, page 49](<Ars Magica 5e - Covenants.md>), is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel).
+A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on [*Covenants*, page 49](<Ars Magica 5e - Covenants.md#page-49>), is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel).
 
 The magus must have appropriate materials to hand in order to make repairs.
 
@@ -2759,7 +2759,7 @@ One advantage of Rego craft magic is that Finesse can be taught to anyone, Gifte
 
 When touched to pile of wood, this wand cleans, cuts, and shapes the wood into the strakes that make up a ship’s hull. The wand is limited to creating strakes and cannot be used to work other parts of the ship.
 
-Use of this wand throughout the building of a ship adds +1 to the shipwrights Profession: Shipwright ability for the purposes of deciding how long the ship takes to complete ([*City & Guild*, page 68](<Ars Magica 5e - City & Guild.md>)).
+Use of this wand throughout the building of a ship adds +1 to the shipwrights Profession: Shipwright ability for the purposes of deciding how long the ship takes to complete ([*City & Guild*, page 68](<Ars Magica 5e - City & Guild.md#page-68>)).
 
 (Base 5, +1 Touch, +2 Group; +10 unlimited use)
 
@@ -2792,7 +2792,7 @@ If designed in the Hermetic Shipyard described earlier, the +10 bonus for ships 
 
 > ### Support for Mysteries
 >
-> There are magical mysteries used across the Order that make the preparation for enchantment of large devices easier. The Verditius Magic virtue allows the magus to reduce the pawns of vis required to open the ship for enchantment by his Craft: Carpenter score ([**ArM5**, page 97](<Ars Magica 5e - Core Rules.md#verditius-verditius-magic>)). The Verditius inner mystery of Elder Runes allows the shipwright to use a number of pawns of vis equal to his Magic Theory score multiplied by his Philosophiae score (*Houses of Hermes: Mystery Cults,* [page 127](#page-127)). The Mystery of Celestial Magic reduces the number of pawns that must be spent to open the device ([*The Mysteries Revised Edition*, page 48](<Ars Magica 5e - The Mysteries (Revised).md>)). Philosophic Alchemy allows the magus to extract vis from an aura directly into a device. This can be used to part-prepare the device for enchantment. The example on [page 41 of *The Mysteries Revised Edition*](<Ars Magica 5e - The Mysteries (Revised).md>) shows how this can be used to help the magus open devices ordinarily beyond his capabilities. Shipwrights intent on enchanting larger vessels should consider these options.
+> There are magical mysteries used across the Order that make the preparation for enchantment of large devices easier. The Verditius Magic virtue allows the magus to reduce the pawns of vis required to open the ship for enchantment by his Craft: Carpenter score ([**ArM5**, page 97](<Ars Magica 5e - Core Rules.md#verditius-verditius-magic>)). The Verditius inner mystery of Elder Runes allows the shipwright to use a number of pawns of vis equal to his Magic Theory score multiplied by his Philosophiae score (*Houses of Hermes: Mystery Cults,* [page 127](#page-127)). The Mystery of Celestial Magic reduces the number of pawns that must be spent to open the device ([*The Mysteries Revised Edition*, page 48](<Ars Magica 5e - The Mysteries (Revised).md#page-48>)). Philosophic Alchemy allows the magus to extract vis from an aura directly into a device. This can be used to part-prepare the device for enchantment. The example on [page 41 of *The Mysteries Revised Edition*](<Ars Magica 5e - The Mysteries (Revised).md#page-41>) shows how this can be used to help the magus open devices ordinarily beyond his capabilities. Shipwrights intent on enchanting larger vessels should consider these options.
 
 ##### Reparation of the Wounded Vessel
 CrHe(Te) 45<br>
@@ -2828,7 +2828,7 @@ Shipwrights consider the various parts of the ship as being separate entities. T
 
 > ### A Comment on Hermetic Architecture
 >
-> The Hermetic Architecture Virtue presents a method of enchanting very large objects through the use of mystically attuned proxy devices ([*The Mysteries Revised Edition*, page 97](<Ars Magica 5e - The Mysteries (Revised).md>)). These devices are prepared and enchanted separately and then joined through a ritual with the ultimate target of the enchantment.
+> The Hermetic Architecture Virtue presents a method of enchanting very large objects through the use of mystically attuned proxy devices ([*The Mysteries Revised Edition*, page 97](<Ars Magica 5e - The Mysteries (Revised).md#page-97>)). These devices are prepared and enchanted separately and then joined through a ritual with the ultimate target of the enchantment.
 >
 > This approach has a number of benefits. The proxy devices are small enough that they can be enchanted within a standard Hermetic laboratory under carefully controlled conditions. The devices can be applied to structures of any size. Finally, the Mystery permits Boundary effects to be enchanted into the devices, something ordinary Hermetic understanding does not support.
 >
@@ -3223,7 +3223,7 @@ If enchanted in the Hermetic Shipyard, the usual bonuses apply (+10 ships, +1 Re
 >
 > Goetic sorcerers, described in *Realms of Power: The Infernal,* [page 114](#page-114), have access to the Art of Binding, which could be used to bind a spirit to a ship. In binding the spirit, any power it uses with a Personal range directly affects the vessel it is bound to. If a magus could find a spirit with the power to enter or leave the Magic Realm at will, and foster a sorcerer powerful enough to bind it, the enchanted ship could travel to and from the void at the behest of its captain.
 >
-> Note that the Goetic Binding Art is different from the practice of Spell Binding, as described in [*The Mysteries Revised Edition*, page 27](<Ars Magica 5e - The Mysteries (Revised).md>), widely known across the Order. Spell Binding involves trapping a spirit in a container so that it may power another spell also bound to that container. It cannot force the spirit to express its own powers, nor can the spirit’s powers affect the container.
+> Note that the Goetic Binding Art is different from the practice of Spell Binding, as described in [*The Mysteries Revised Edition*, page 27](<Ars Magica 5e - The Mysteries (Revised).md#page-27>), widely known across the Order. Spell Binding involves trapping a spirit in a container so that it may power another spell also bound to that container. It cannot force the spirit to express its own powers, nor can the spirit’s powers affect the container.
 >
 > #### Story Seed: The Sorcerer’s Apprentice
 >
@@ -3342,9 +3342,9 @@ Beyond the Order of Hermes, there are others who know how to harness and direct 
 
 Shipwrights are generally drawn from the learned class, and are able to apply their knowledge of the natural world through experimental philosophy ([*Art & Academe*, page 67](<Ars Magica 5e - Art & Academe.md#natural-philosophy>)). But their arts are more inclined to assist individuals, rather than affect the vessel itself. They could be useful to shipwrights, as the charms they make provide bonuses to ability use, but the impact on the ship is likely to be minimal.
 
-Learned magicians ([*Hedge Magic Revised Edition*, page 79](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#v-learned-magicians>)) with the Mythic Alchemy virtue are able to prepare the raw materials used by craftsmen, so making the creation of superior goods easier. Being drawn from the educated community, such a magician may use his mundane and magical learning to forge a career as a shipwright. The vessels built by such a shipwright would be of the highest quality.
+Learned magicians ([*Hedge Magic Revised Edition*, page 79](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#chapter-five-learned-magicians>)) with the Mythic Alchemy virtue are able to prepare the raw materials used by craftsmen, so making the creation of superior goods easier. Being drawn from the educated community, such a magician may use his mundane and magical learning to forge a career as a shipwright. The vessels built by such a shipwright would be of the highest quality.
 
-The Vitki ([*Hedge Magic Revised Edition*, page 120](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)) are potent runesmiths with the ability to bind magical effects into objects by inscribing runic scripts into them. Viking longships were almost always decorated with runes, and the use of seafaring rune scripts is a common magical focus. The Vitki and related runesmiths can empower vessels without the need for seasons spent in a laboratory as the permanent inscription of runic effects (to calm storms around the ship or to speed the ship along its journey, for instance) can be complete in days (see [*Ancient Magic*, page 133](<Ars Magica 5e - Magic - Ancient Magic.md>)).
+The Vitki ([*Hedge Magic Revised Edition*, page 120](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-120>)) are potent runesmiths with the ability to bind magical effects into objects by inscribing runic scripts into them. Viking longships were almost always decorated with runes, and the use of seafaring rune scripts is a common magical focus. The Vitki and related runesmiths can empower vessels without the need for seasons spent in a laboratory as the permanent inscription of runic effects (to calm storms around the ship or to speed the ship along its journey, for instance) can be complete in days (see [*Ancient Magic*, page 133](<Ars Magica 5e - Magic - Ancient Magic.md#page-133>)).
 
 <!-- p. 76 --><a id="page-76"></a>
 
@@ -4219,7 +4219,7 @@ The invested device (the rock crystal) is a tiny semi-precious gem and so requir
 InIm 24<br>
 0 Pen, constant effect<br>
 R: Personal, D: Sun, T: Hearing<br>
-This effect gives the device the sense to listen to the barely-perceptible sounds of the celestial bodies in motion (see [*Art and Academe*, page 16](<Ars Magica 5e - Art & Academe.md>)).
+This effect gives the device the sense to listen to the barely-perceptible sounds of the celestial bodies in motion (see [*Art and Academe*, page 16](<Ars Magica 5e - Art & Academe.md#page-16>)).
 
 (Base 3, +2 Sun, +3 Hearing; +4 constant effect)
 
@@ -4379,7 +4379,7 @@ A magus who knows the Minor Hermetic Virtue: Spell Binding could summon other sp
 
 > ### The Fleshy Vessel
 >
-> Hermetic magi know that ghosts can be bound to places, things, events, and passions, each somehow providing a supernatural tether connected to the spirit. The common magic of spell binding ([*The Mysteries Revised Edition*, page 27](<Ars Magica 5e - The Mysteries (Revised).md>)), requires that the magus use an “inanimate physical” container as a vessel to imprison the ghost, but this is an anchor for a second spell as well as the spirit, whose bound essence empowers the spell indefinitely. The Rego Mentem spell *Imprison a Ghost in a Vessel* is more relaxed concerning the actual container housing the bound ghost. The container does not have to be a hollow vessel: a book, rock, or corpse all count as containers.
+> Hermetic magi know that ghosts can be bound to places, things, events, and passions, each somehow providing a supernatural tether connected to the spirit. The common magic of spell binding ([*The Mysteries Revised Edition*, page 27](<Ars Magica 5e - The Mysteries (Revised).md#page-27>)), requires that the magus use an “inanimate physical” container as a vessel to imprison the ghost, but this is an anchor for a second spell as well as the spirit, whose bound essence empowers the spell indefinitely. The Rego Mentem spell *Imprison a Ghost in a Vessel* is more relaxed concerning the actual container housing the bound ghost. The container does not have to be a hollow vessel: a book, rock, or corpse all count as containers.
 >
 > Like spell binding, however, if this container is broken, the spirit is released. A magus creating a living corpse therefore selects a specific part within the corpse to house the ghost. If he chooses the entire corpse, any scratch, wound, or puncture counts as breaking the vessel. A clever magus binds the ghost to the corpse’s liver, stomach, heart, or skull. This ensures that the corpse can sustain considerable damage without releasing the ghost, as long as the specified container remains whole.
 >
@@ -5031,7 +5031,7 @@ The primary advantage of becoming a living corpse is eternal life. The living co
 
 Physical afflictions are a thing of the past. A living corpse is not as hindered by damage and disease as living things. Physical wounds still provide a penalty for physical activities, but the living corpse cannot be Incapacitated. He literally needs to be hacked to bits to be destroyed, but even dismemberment can be remedied. A disease still inflicts a Disease Penalty (see [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md#disease>)), but this only reduces physical rolls that the damaged corpse must make. Die rolls that the ghost half of the living corpse character makes are not affected, examples being Lore, Folk Ken, and other mental or social Ability rolls. A living corpse can ignore the rules for Activities While Wounded ([**ArM5**, page 178](<Ars Magica 5e - Core Rules.md#page-178>) / [Definitive Edition, page 403](<Ars Magica - Definitive Edition (Core Rules).md#encumbrance>)).
 
-If your troupe is using the Wealth and Poverty rules from [*Covenants* (pages 56–70](<Ars Magica 5e - Covenants.md>)), a living corpse costs 0 points of inhabitants. Although still living in his sanctum and laboratory, a living corpse cannot undertake Hermetic lab work. His lab needs to be financially maintained if he is keeping up the façade of a living magus, though, using materials and supplies and making the covenant pay for them. This cost isn’t mandatory, but if the magus stops buying candles and parchment, the covenant’s staff and magi may become suspicious.
+If your troupe is using the Wealth and Poverty rules from [*Covenants* (pages 56–70](<Ars Magica 5e - Covenants.md#page-56>)), a living corpse costs 0 points of inhabitants. Although still living in his sanctum and laboratory, a living corpse cannot undertake Hermetic lab work. His lab needs to be financially maintained if he is keeping up the façade of a living magus, though, using materials and supplies and making the covenant pay for them. This cost isn’t mandatory, but if the magus stops buying candles and parchment, the covenant’s staff and magi may become suspicious.
 
 ### Disadvantages
 
@@ -5718,7 +5718,7 @@ A magical alternative is to create foodstuffs using appropriate Creo spells. Nut
 
 ## Healing
 
-Just like humans, magical creatures are susceptible to ill health, the most common cases being either trauma (injury) or disease. Both are treated the same way for creatures as they are for humans ([*Art & Academe*, pages 56–61](<Ars Magica 5e - Art & Academe.md>)), and both can be remedied by Hermetic magic. The main distinction is that the only necessary Ability for treating both trauma and disease is Animal Handling. Medicine and Chirurgy are ineffectual when used on animals and are solely used for curing human beings.
+Just like humans, magical creatures are susceptible to ill health, the most common cases being either trauma (injury) or disease. Both are treated the same way for creatures as they are for humans ([*Art & Academe*, pages 56–61](<Ars Magica 5e - Art & Academe.md#page-56>)), and both can be remedied by Hermetic magic. The main distinction is that the only necessary Ability for treating both trauma and disease is Animal Handling. Medicine and Chirurgy are ineffectual when used on animals and are solely used for curing human beings.
 
 Another difference from human patients is that animals can be returned from the dead with Hermetic magic. The animal must have died due to trauma, disease, deprivation, or starvation. Those that are slain must be put back together first. Unfortunately for the menagerie owner, only mundane animals can be automatically raised from the dead.
 
@@ -5758,7 +5758,7 @@ While not fatal, this disease spreads quickly among the herd, primarily cows, sh
 Serious Choleric Disease, Severity 13<br>
 **Stable:** 9, **Improve:** 18, **Interval:** Week
 
-Rabies is detailed in [*Art & Academe*, page 49](<Ars Magica 5e - Art & Academe.md>), and only the statistical information is repeated. This animal disease can also affect humans.
+Rabies is detailed in [*Art & Academe*, page 49](<Ars Magica 5e - Art & Academe.md#page-49>), and only the statistical information is repeated. This animal disease can also affect humans.
 
 #### Spavin
 
@@ -5823,7 +5823,7 @@ The biology of animal breeding is somewhat understood, and is similar to the way
 
 Animals that aren’t considered “prime stock” are allowed to breed however it is convenient. Generally a cow herder doesn’t care how or when the cattle mates, as long as it is not inconvenient to his overall enterprise. He keeps them together in a herd and lets nature take its course. Breeders use selective breeding and crossbreeding in animals with more valuable characteristics. A maga interested in magical animal breeding would use available breeding practices in the animals that interest her. It is perfectly understandable for a maga to use selective breeding in her magical hares, even though no one else would ever think of paying that much attention to the mating of such lowly animals.
 
-Some animals don’t breed but reproduce through simpler generation, as explained in [*Art & Academe*, page 30](<Ars Magica 5e - Art & Academe.md>). Such animals are called worms, from the Latin *vermes*, and include such creatures as mice, frogs, eels, spiders, centipedes, and beetles. Most insects are worms, as are small to medium-sized fish and some smaller rodents. If the beast is a pest, to humans, beasts, or agriculture, it is likely a worm. Magical species of worms can exist, as do versions of such beasts from the other realms. A maga could encounter an Infernal spider, a Faerie ant, or a Magic fly.
+Some animals don’t breed but reproduce through simpler generation, as explained in [*Art & Academe*, page 30](<Ars Magica 5e - Art & Academe.md#page-30>). Such animals are called worms, from the Latin *vermes*, and include such creatures as mice, frogs, eels, spiders, centipedes, and beetles. Most insects are worms, as are small to medium-sized fish and some smaller rodents. If the beast is a pest, to humans, beasts, or agriculture, it is likely a worm. Magical species of worms can exist, as do versions of such beasts from the other realms. A maga could encounter an Infernal spider, a Faerie ant, or a Magic fly.
 
 <!-- p. 132 --><a id="page-132"></a>
 
@@ -5881,7 +5881,7 @@ Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32
 
 ### Birthing and Weaning
 
-In **Ars Magica Fifth Edition**, birthing a beast follows the same rules as birthing a child, as detailed in [*Art & Academe* (page 62](<Ars Magica 5e - Art & Academe.md>)). Essentially, treat the female as if she had a Medium Wound and make Recovery Rolls at regular intervals. For a Size 0 and smaller beast, make the roll every two hours. For larger beasts, double the interval for every Size category earlier 0. If she recovers, she delivers. A character skilled in Animal Handling can add her score to the recovery roll. This only applies to live births: hoofed beasts and clawed beasts. Animals that hatch survive on a Stamina + Survival + stress die vs. 9. As in live births, a trained handler can add his Animal Handling score to hatching young.
+In **Ars Magica Fifth Edition**, birthing a beast follows the same rules as birthing a child, as detailed in [*Art & Academe* (page 62](<Ars Magica 5e - Art & Academe.md#page-62>)). Essentially, treat the female as if she had a Medium Wound and make Recovery Rolls at regular intervals. For a Size 0 and smaller beast, make the roll every two hours. For larger beasts, double the interval for every Size category earlier 0. If she recovers, she delivers. A character skilled in Animal Handling can add her score to the recovery roll. This only applies to live births: hoofed beasts and clawed beasts. Animals that hatch survive on a Stamina + Survival + stress die vs. 9. As in live births, a trained handler can add his Animal Handling score to hatching young.
 
 The type of beast determines what a maga should do with the newborn offspring. For fish, the maga should remove the offspring from the birthing pool immediately, for nothing is as appetizing to a hungry fish as its own young. For birds, the offspring should stay with the parents, who feed it and zealously defend it if it is approached. Magical insects generally disregard their young, who are born with the skills and instincts to survive. For hoofed and clawed beasts, the young should stay with the mother for at least a year, but the male should be separated from the young.
 
@@ -5993,7 +5993,7 @@ Perhaps the most valuable Virtue for a companion or grog-level animal handler is
 >
 > The *Kitab al-Hayawan* (The Book of Animals) is an Arabic translation of three of Aristotle’s works: *Historia Animalium*, *De Partibus Animalium*, and *De Generatione Animalium*. Like the Latin translation mentioned earlier, each of the three parts can be read as a tractatus of Quality 10. In 1220, copies of this text are only available in the Levant and parts of Spain.
 >
-> A magus may find this collection more useful to his staff than himself, and may require grooms and animal handlers to read certain books. To read a book for retained knowledge — allowing it to act as a Source Quality for advancement — a character must be able to read (Artes Liberales 1) and be fluent in the language in which it was written (Latin 4). In the overall scheme of things, it would make sense for a magus or scribe to translate these texts into the staff’s vernacular language, removing the obstacle of knowing Latin. Rules for translating texts can be found in [*Art & Academe* (page 87](<Ars Magica 5e - Art & Academe.md>)).
+> A magus may find this collection more useful to his staff than himself, and may require grooms and animal handlers to read certain books. To read a book for retained knowledge — allowing it to act as a Source Quality for advancement — a character must be able to read (Artes Liberales 1) and be fluent in the language in which it was written (Latin 4). In the overall scheme of things, it would make sense for a magus or scribe to translate these texts into the staff’s vernacular language, removing the obstacle of knowing Latin. Rules for translating texts can be found in [*Art & Academe* (page 87](<Ars Magica 5e - Art & Academe.md#page-87>)).
 >
 > Bestiaries are extremely popular, and any good library will have a lion’s share of them. Unlike the previous texts, bestiaries do not instruct in the care and management of beasts, but rather describe their fantastic nature, magical sympathies, and theological correspondences. At the storyguide’s discretion, a good bestiary could serve as a tractatus on Magic Lore, since every beast described is a Beast of Virtue rather than a mundane specimen.
 >

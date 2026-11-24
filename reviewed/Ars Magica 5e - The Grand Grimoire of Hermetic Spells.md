@@ -1184,7 +1184,7 @@ This is an Average task for a mundane spinner, so the caster must make a Percept
 
 Failing the roll results in a badly spun fleece, probably with flecks of dirt still clinging to the thread. A botched roll ruins the fleece outright, though this may not be immediately apparent.
 
-See [*Covenants*, page 49](<Ars Magica 5e - Covenants.md>) for more on Rego Craft Magic.
+See [*Covenants*, page 49](<Ars Magica 5e - Covenants.md#page-49>) for more on Rego Craft Magic.
 
 (Base 3, +1 Touch, +2 Group)<br>
 Source: *Magi of Hermes*, 100
@@ -1205,7 +1205,7 @@ The caster makes a Perception + Finesse (precision) + stress die and compares th
 
 It is a harder task to create patterned cloth. A simple repeating pattern adds +3 to the Ease Factor, while an image or words woven into the cloth adds +6.
 
-See [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md>) for more on item quality. A Herbam casting requisite is required for work involving cotton or linen.
+See [*City & Guild*, page 67](<Ars Magica 5e - City & Guild.md#page-67>) for more on item quality. A Herbam casting requisite is required for work involving cotton or linen.
 
 (Base 3, +1 Touch, +2 Group)<br>
 Source: *Magi of Hermes*, 100
@@ -3844,7 +3844,7 @@ Source: *Magi of Hermes*, 85
 MuCo(Au) 30<br>
 R: Per, D: Mom, T: Ind<br>
 Req: Auram<br>
-Transforms the caster into a thunderbolt (equivalent to an insubstantial object). In this form he can move literally at the speed of lightning to any location he can see. There must be an unobstructed path between the caster and his destination. Upon arrival the caster transforms back into his normal shape with a mighty crack of thunder. Anyone within 2 paces of his destination must make a Size stress roll against an Ease Factor of 6 to remain standing. The caster can choose the location of another person as his destination, in which case he inflicts +30 damage to that individual and arrives standing next to her. If he strikes a building he arrives on the roof, and the building must make a stress check ([*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md>)) or take six damage levels; wooden buildings catch fire even if they survive.
+Transforms the caster into a thunderbolt (equivalent to an insubstantial object). In this form he can move literally at the speed of lightning to any location he can see. There must be an unobstructed path between the caster and his destination. Upon arrival the caster transforms back into his normal shape with a mighty crack of thunder. Anyone within 2 paces of his destination must make a Size stress roll against an Ease Factor of 6 to remain standing. The caster can choose the location of another person as his destination, in which case he inflicts +30 damage to that individual and arrives standing next to her. If he strikes a building he arrives on the roof, and the building must make a stress check ([*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md#page-77>)) or take six damage levels; wooden buildings catch fire even if they survive.
 
 The Duration of this spell cannot be extended beyond Momentary, since bolts of lightning exist only for a moment; furthermore it can only be used outside. Note also that, no matter what your ruling on casting requisites for Rego spells, Muto spells definitely require them.
 
@@ -4953,7 +4953,7 @@ ReCo 45<br>
 R: Arc, D: Ring, T: Ind, Ritual<br>
 One way of determining the rightful heir to an inheritance is to defer to someone or something that already knows the answer. The magic realm is replete with spirits representing every aspect of God's creation including, conceivably, spirits of a given bloodline.
 
-Magical spirits of blood can be summoned through the form of Corpus using a base 15 effect as explained in [*The Mysteries Revised Edition*, page 28](<Ars Magica 5e - The Mysteries (Revised).md>). This is something that all magi can do and is not reliant on any Mystery initiations.
+Magical spirits of blood can be summoned through the form of Corpus using a base 15 effect as explained in [*The Mysteries Revised Edition*, page 28](<Ars Magica 5e - The Mysteries (Revised).md#page-28>). This is something that all magi can do and is not reliant on any Mystery initiations.
 
 The caster often prepares a warding circle and then summons the target spirit into that circle. The Arcane Connection used must intimately relate to the target bloodline; a crown for a royal line, a sword passed from father to son, earth from a family estate, and so on. Once summoned, the spirit can be questioned or commanded as normal and if it is powerful enough it should have knowledge of the true heir to the line.
 
@@ -5893,7 +5893,7 @@ ReHe 10<br>
 R: Touch, D: Mom, T: Ind<br>
 This is a spell for carving a statue from a single block of wood. The piece of wood can be no larger than one cubic pace. This spell requires a Perception + Finesse roll. If this is botched the statue is ruined. If the roll exceeds the Ease Factor of 6, then the statue is serviceable, if not particularly pretty, and can be animated with the *Carved Assassin* spell. If the roll is not successful, then a statue is created, but it is too fragile or too blockish to use effectively with the *Carved Assassin* spell.
 
-(Base 5 (see [*Covenants*, page 50](<Ars Magica 5e - Covenants.md>)), +1 Touch)<br>
+(Base 5 (see [*Covenants*, page 50](<Ars Magica 5e - Covenants.md#page-50>)), +1 Touch)<br>
 Source: *Tales of Mythic Europe*, 55
 
 #### LEVEL 15
@@ -5963,7 +5963,7 @@ ReHe 15<br>
 R: Touch, D: Mom, T: Group<br>
 This spell uses Rego craft magic to transform up to 10 bushels of grain into flour. The caster must make an Intelligence + Finesse roll against an Ease Factor of 6 to obtain usable flour, but this is of the poorest quality with pieces of husk still within the bran-heavy flour. An Ease Factor of 12 generates fine white flour instead. An advantage of this spell is that no grit from the millstones end up in the flour regardless of its quality. In Mythic Europe, the right to mill flour is usually protected by law ([*Lords of Men*, page 77](<Ars Magica 5e - Lords of Men.md#mills>)), and using this spell could get the magus into a lot of trouble; however, it will save them the cost of employing a miller.
 
-The guideline used was published in [*Covenants* (page 51](<Ars Magica 5e - Covenants.md>)), and permits items made of plant products to be treated.
+The guideline used was published in [*Covenants* (page 51](<Ars Magica 5e - Covenants.md#page-51>)), and permits items made of plant products to be treated.
 
 (Base 4, +1 Touch, +2 Group)<br>
 Source: *Transforming Mythic Europe*, 120
@@ -6038,7 +6038,7 @@ ReHe 20<br>
 R: Touch, D: Mom, T: Group<br>
 This spell uses Rego craft magic to create a batch of 12 dozen loaves of bread in an instant from sufficient raw ingredients of flour, water, and yeast. The spell can even use raw grain rather than flour; if used at its maximum capacity it requires 10 bushels of either. Making basic bread is a Simple (Ease Factor 3) task for a baker, so the magus must make an Intelligence + Finesse roll against an Ease Factor of 6 to succeed; otherwise the result is an inedible mess of spoiled dough. If this roll achieves an Ease Factor of 9 the bread is particularly good; an Ease Factor of 12 produces pandemayne, the finest white table bread.
 
-The guideline used was published in [*Covenants* (page 51](<Ars Magica 5e - Covenants.md>)), and permits items made of plant products to be treated and processed. A similar spell – *The Elfin Brewer* – can create 12 dozen pints of ale from grain, water, yeast, and gruit (herbs used for flavor).
+The guideline used was published in [*Covenants* (page 51](<Ars Magica 5e - Covenants.md#page-51>)), and permits items made of plant products to be treated and processed. A similar spell – *The Elfin Brewer* – can create 12 dozen pints of ale from grain, water, yeast, and gruit (herbs used for flavor).
 
 (Base 5, +1 Touch, +2 Group)<br>
 Source: *Transforming Mythic Europe*, 121
@@ -6160,7 +6160,7 @@ R: Touch, D: Mom, T: Group<br>
 Req: Terram<br>
 The magus selects a pile of wood and formed iron fixtures, and the spell cuts, carves, and joins the wood into the hull of a target ship, repairing splits and holes under the magus' direction. The worst damage is repaired first so that the vessel is always left seaworthy and the repairs are practically seamless.
 
-A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on [*Covenants*, page 49](<Ars Magica 5e - Covenants.md>), is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel). The magus must have appropriate materials to hand in order to make repairs.
+A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on [*Covenants*, page 49](<Ars Magica 5e - Covenants.md#page-49>), is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel). The magus must have appropriate materials to hand in order to make repairs.
 
 (Base 5, +1 Touch, +2 Group, +1 size, +1 flexibility)<br>
 Source: *Hermetic Projects*, 64
@@ -8894,7 +8894,7 @@ Source: *Art & Academe*, 33
 ##### Borrow the Eyes of Another
 InMe 30<br>
 R: Arc, D: Conc, T: Ind<br>
-The caster can see through the eyes of anyone to whom he has an Arcane Connection ([*Art & Academe*, page 33](<Ars Magica 5e - Art & Academe.md>)). Similarly, the spell *Borrow the Ears of Another* lets the caster hear through the ears of anyone to whom he has an Arcane Connection.
+The caster can see through the eyes of anyone to whom he has an Arcane Connection ([*Art & Academe*, page 33](<Ars Magica 5e - Art & Academe.md#page-33>)). Similarly, the spell *Borrow the Ears of Another* lets the caster hear through the ears of anyone to whom he has an Arcane Connection.
 
 (Base 5, +4 Arcane Connection, +1 Concentration)<br>
 Source: *Tales of Power*, 12
@@ -11249,7 +11249,7 @@ Source: *The Mysteries*, 96
 Re(Cr)Te 4<br>
 R: Touch, D: Mom, T: Ind<br>
 Req: Creo<br>
-As the spell described in [*The Mysteries Revised Edition*, page 96](<Ars Magica 5e - The Mysteries (Revised).md>).
+As the spell described in [*The Mysteries Revised Edition*, page 96](<Ars Magica 5e - The Mysteries (Revised).md#page-96>).
 
 (Base 2, +1 stone, +1 Touch)<br>
 Source: *Magi of Hermes*, 102
@@ -11365,7 +11365,7 @@ As the caster walks, this spell shifts the earth underfoot allowing him to trave
 
 This spell has little effect on soft or muddy paths, as the earth must still be able to bear the target's weight. The spell is potent enough to move stones and cobbles in the road.
 
-A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. [*City & Guild*, page 85](<Ars Magica 5e - City & Guild.md>), provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
+A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. [*City & Guild*, page 85](<Ars Magica 5e - City & Guild.md#page-85>), provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
 
 (Base 2, +1 Touch, +1 Concentration, +1 Part, +1 stone)<br>
 Source: *Magi of Hermes*, 141
@@ -11713,7 +11713,7 @@ ReTe 30<br>
 R: Touch, D: Conc, T: Str<br>
 This spell lifts a stone bridge, including its foundations, clear of the river and places it in some spot that the magus can see.
 
-A Perception + Finesse Stress roll is required against a base Ease Factor of 9. Larger bridges, up to the maximum size manageable with this variant, increase the Ease Factor by +3. Failing the roll means one check for damage as per [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md>), for each point by which the casting roll failed.
+A Perception + Finesse Stress roll is required against a base Ease Factor of 9. Larger bridges, up to the maximum size manageable with this variant, increase the Ease Factor by +3. Failing the roll means one check for damage as per [*City & Guild*, page 77](<Ars Magica 5e - City & Guild.md#page-77>), for each point by which the casting roll failed.
 
 Use of this spell allows the magus to withdraw major bridges from the enemy, controlling their ability to cross rivers in numbers.
 
@@ -12326,7 +12326,7 @@ Source: *Hedge Magic*, 6
 ##### Numbness of The Gift
 InVi 20<br>
 R: Per, D: Conc, T: Touch<br>
-When the caster places his hand on another character who has The Gift, his hand feels numb. This spell was initially invented to detect Gifted hedge wizards, and was first described in [*Hedge Magic*, page 6](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>).
+When the caster places his hand on another character who has The Gift, his hand feels numb. This spell was initially invented to detect Gifted hedge wizards, and was first described in [*Hedge Magic*, page 6](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-6>).
 
 Source: *Apprentices*, 33
 
@@ -13369,7 +13369,7 @@ ReVi Gen<br>
 R: Touch, D: Sun, T: Ind<br>
 This spell wards an object from being touched or manipulated by faeries or faerie magic. Faeries with Might greater than the spell's level are not restrained by this spell, nor are faeries that resist the spell's Penetration.
 
-Lambert's version of this spell was developed from laboratory notes made by a Merinita magus with the virtue of Spell Potency ([*The Mysteries Revised Edition* page 31](<Ars Magica 5e - The Mysteries (Revised).md>) or [*Houses of Hermes: Mystery Cults* page 6](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#merinita-mysteries>)) concerning faeries. Lambert is unable to cast this spell unless he wraps an iron chain around the protected item at the time of the casting. Due to the influence of the iron chain, this spell is cast with a Potency Bonus of +7. Lambert finds that faeries rarely confront him about his use of this spell when he casts it on goods that he brings into their lands, but they become exceedingly displeased by the spell when it is used upon any item that is native to their home.
+Lambert's version of this spell was developed from laboratory notes made by a Merinita magus with the virtue of Spell Potency ([*The Mysteries Revised Edition* page 31](<Ars Magica 5e - The Mysteries (Revised).md#page-31>) or [*Houses of Hermes: Mystery Cults* page 6](<Ars Magica 5e - Houses of Hermes - Mystery Cults.md#merinita-mysteries>)) concerning faeries. Lambert is unable to cast this spell unless he wraps an iron chain around the protected item at the time of the casting. Due to the influence of the iron chain, this spell is cast with a Potency Bonus of +7. Lambert finds that faeries rarely confront him about his use of this spell when he casts it on goods that he brings into their lands, but they become exceedingly displeased by the spell when it is used upon any item that is native to their home.
 
 (Base Effect, no modifier Ring to Sun)<br>
 Source: *Magi of Hermes*, 68
@@ -13435,7 +13435,7 @@ Source: *The Mysteries*, 40
 ##### A Day's Grace
 ReVi 30<br>
 R: Touch, D: Hours, T: Ind<br>
-Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see [*The Mysteries Revised Edition*, page 49](<Ars Magica 5e - The Mysteries (Revised).md>)).
+Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see [*The Mysteries Revised Edition*, page 49](<Ars Magica 5e - The Mysteries (Revised).md#page-49>)).
 
 The suppressed spell can have a level up to 25 and may be Spontaneous, Ceremonial or Formulaic. Ritual spells are too complex to be suppressed by this spell although should a version of this spell be designed as a Ritual that should be possible.
 

@@ -194,7 +194,7 @@ Mythic Africa has two dominant themes: wonder and hunger. To the natives, elemen
 >
 > Some might be surprised to see that this book refers to a land called Africa, but covers only a fraction of the continent that currently bears that name. However, in the thirteenth century this was Africa, not North Africa. It was generally accepted that Africa had a southern shore on the Great Ocean somewhere north of the equator, but this had never been witnessed because the proximity of the sun to the equator formed a torrid zone that is hostile to all life. The black-skinned inhabitants of the continent are mostly Ethiopians who live on the fringes of the torrid zone. The historical empires and kingdoms of sub-Saharan Africa are relegated to legend, since in Mythic Africa they exist within or beyond the torrid zone. However, the border of the torrid zone is ill-defined and need not be at a constant latitude throughout its extent. At the option of the storyguide there may be regions beyond the Great Desert that can support human life, or else these lands could lie within regiones.
 >
-> [*Art & Academe* page 28](<Ars Magica 5e - Art & Academe.md>) has a more complete discussion of the shape of the world in **Ars Magica Fifth Edition**, but pertinent material has been extracted here.
+> [*Art & Academe* page 28](<Ars Magica 5e - Art & Academe.md#page-28>) has a more complete discussion of the shape of the world in **Ars Magica Fifth Edition**, but pertinent material has been extracted here.
 
 <!-- p. 7 --><a id="page-7"></a>
 
@@ -3518,7 +3518,7 @@ Tin Hinan has access to some Intellego magics, but she also utilizes the network
 
 ## Tattoo Magicians
 
-Most *imhergi* are drawn from a variety of learned magicians similar to Cunning Folk ([*Hedge Magic Revised Edition*, page 101](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#v-learned-magicians>)). Among Berber women are the *ngagef* (singular *neggafa*), cosmeticians who specialize in this type of sun magic despite being women.
+Most *imhergi* are drawn from a variety of learned magicians similar to Cunning Folk ([*Hedge Magic Revised Edition*, page 101](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#chapter-five-learned-magicians>)). Among Berber women are the *ngagef* (singular *neggafa*), cosmeticians who specialize in this type of sun magic despite being women.
 
 Rather than verbal charms, imhergi and ngagef draw temporary tattoos called *tawzayt*, or else mark similar symbols into the ground or chalked onto buildings. An amherg character should take the Slow Caster Hermetic Flaw to represent this requirement. Instead of chartae and amulets, an amherg creates a permanent tattoo (called an *ahadjam*) or inscription which is activated once it is uncovered. Once exposed it continues to work until all charges have gone or the duration expires, at which point it fades. An amherg uses Craft: Tattoo rather than Artes Liberales in his Lab Totals, and can benefit from Design & Inscription Bonuses (see Insert) when creating chartae and amulets.
 
@@ -3576,7 +3576,7 @@ The settuten are opposed to practitioners of sun magic, particularly the *asehha
 
 A settut may be Gifted or unGifted. If Gifted, the character usually takes the place of a player’s magus character, whereas unGifted members are companion characters. Berber settuten are a Hedge Tradition that has Dissolution, Disjunction, Dismissal, Dissidence, and Magic Sensitivity as its Favored Abilities. Tuareg settuten have Dissolution, Dislocation, Dismissal, Dismay, and Magic Sensitivity as their Favored Abilities instead. Gifted Settuten do not have to subtract their total score in their Favored Abilities from the source quality to learn other Favored Abilities ([*Hedge Magic Revised Edition*, page 9](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#favored-abilities>)).
 
-Initiation into the settuten tradition usually occurs sometime between seven and twelve, before the girl reaches puberty. The training provided by the settuten typically takes ten years, during which time the character receives 200 experience points. If the apprentice is Gifted, then part of her apprenticeship is the Opening of The Gift, which gives her all five of the tradition’s Favored Abilities at a score of zero without needing to take the corresponding Virtues. Opening The Gift uses the Divination Ability (which is not part of the usual Abilities of the settuten, see later), and this usually takes place at a convocation (see later). A settut character can spend the experience points from her apprenticeship on any of these Supernatural Abilities, as well as on General and Arcane Abilities. UnGifted members of the settuten must purchase the tradition’s Supernatural Abilities as a Virtues, and consequently they do not have a full complement of the tradition’s powers. They can be Initiated into other Supernatural Abilities of the settuten after play has begun ([*Hedge Magic Revised Edition*, page 13](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), but not all local convocations have access to Initiation Scripts for all the tradition’s Abilities.
+Initiation into the settuten tradition usually occurs sometime between seven and twelve, before the girl reaches puberty. The training provided by the settuten typically takes ten years, during which time the character receives 200 experience points. If the apprentice is Gifted, then part of her apprenticeship is the Opening of The Gift, which gives her all five of the tradition’s Favored Abilities at a score of zero without needing to take the corresponding Virtues. Opening The Gift uses the Divination Ability (which is not part of the usual Abilities of the settuten, see later), and this usually takes place at a convocation (see later). A settut character can spend the experience points from her apprenticeship on any of these Supernatural Abilities, as well as on General and Arcane Abilities. UnGifted members of the settuten must purchase the tradition’s Supernatural Abilities as a Virtues, and consequently they do not have a full complement of the tradition’s powers. They can be Initiated into other Supernatural Abilities of the settuten after play has begun ([*Hedge Magic Revised Edition*, page 13](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-13>)), but not all local convocations have access to Initiation Scripts for all the tradition’s Abilities.
 
 Infrequently, a settut shows a natural talent for prophecy, which is represented by the Divination Major Virtue. Such a character is called a *tineqiqqit* (‘seeress’), and is usually marked for greatness; a character is only eligible to become a leader of settuten if she has this Virtue. Characters taking this Virtue can apply apprenticeship experience points to increasing this Ability.
 
@@ -3873,7 +3873,7 @@ This is a variant of the Virtue found in Chapter Seven of *The Mysteries Revised
 
 > ### Ceremonial Bonuses for Divination
 >
-> Only those divination methods commonly used by settuten are listed here; see [*The Mysteries Revised Edition* page 61](<Ars Magica 5e - The Mysteries (Revised).md>) for more options.
+> Only those divination methods commonly used by settuten are listed here; see [*The Mysteries Revised Edition* page 61](<Ars Magica 5e - The Mysteries (Revised).md#page-61>) for more options.
 >
 > | Divination method | Description | Ceremonial Bonus |
 > | --- | --- | --- |
@@ -4327,7 +4327,7 @@ You may take this Virtue twice, but no more. Taking the Virtue a second time add
 *Minor, Supernatural*<br>
 The character can innately tell the quality of a manufactured item. If the item is somehow flawed he is instantly aware of that by merely touching it. He also has a chance to tell if an item is magical. For supernatural items made by a craftsman, make a Perception + Awareness + stress die roll against an Ease Factor of 9. If successful, the character knows the power of the item. For Hermetic enchanted items, or those made by other sorcerers, make a Perception + Awareness + stress die roll against a 12. If successful, the character knows the item is enchanted, but has no idea how, or what its powers might be. Botching either roll results in false information. This Virtue does not offer any information about the actions or commands necessary to trigger an item’s powers.
 
-This Virtue is identical to the Eye of Hephaestus Virtue presented in [*City & Guild*, page 71](<Ars Magica 5e - City & Guild.md>).
+This Virtue is identical to the Eye of Hephaestus Virtue presented in [*City & Guild*, page 71](<Ars Magica 5e - City & Guild.md#page-71>).
 
 #### Merin ag Gwafa, the Inenden Saddle-Maker
 
@@ -4351,7 +4351,7 @@ Faith: 1 (1, from relic carried)
 
 Virtues and Flaws: Inenden; Arcane Lore, Gossip, Herbalism\*, Minor Relic, Mythic Saddle-Maker, Puissant Craft: Woodcarver, Rapid Convalescence; Outsider, Poor; Fear (*Kel Asuf*), Vow (constantly wear *litham* veil).
 
-\* acts as Medicine, see [*Art & Academe* page 55-56](<Ars Magica 5e - Art & Academe.md>) for further details.
+\* acts as Medicine, see [*Art & Academe* page 55-56](<Ars Magica 5e - Art & Academe.md#page-55>) for further details.
 
 Additional Flaws\*\*: Disfigured (indigo skin), Short Attention Span
 
@@ -4604,7 +4604,7 @@ Powers:
 
 OR
 
-*Crafter’s Healing:* as the Major Supernatural Virtue of the same name (see [City & Guild, page 71](<Ars Magica 5e - City & Guild.md>)).
+*Crafter’s Healing:* as the Major Supernatural Virtue of the same name (see [City & Guild, page 71](<Ars Magica 5e - City & Guild.md#page-71>)).
 
 *Looked at Thrice:* as Trembling Fear of the Predator’s Gaze
 
@@ -4634,7 +4634,7 @@ The Faerie Blood template reflects a character descended from a Faerie *bouda* o
 
 ### Folk Witch Bouda
 
-Some human *bouda* of Morocco claim to belong to a legendary clan or tribe — their magic is believed to be passed down by their parents. Unlike the Folk Witches detailed in [*Hedge Magic Revised Edition*, pages 33–54](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>), these magicians are usually male (although their Gender Shift ability causes confusion) and have a more limited set of Favored Abilities aligned to the Faerie realm rather than the Magic realm. This is offset by enhanced control over their hyena form and gender, mind control powers, and either blacksmithing or woodcarving magic (typically Muto Terram or Muto Herbam effects). Some *bouda* have additional powers such as Animal Healing, Summon Animals, or additional smithing powers. Most human *bouda* are Gifted, but unGifted characters descended from *bouda* or Faerie-touched individuals can be initiated into the tradition using Initiations, following the rules presented in the Introduction of *Hedge Magic Revised Edition*. The Ordeal Flaws inflicted by these variant Folk With Initiations generally relate to the unsavory qualities of the hyena and their poor reputation or physical deformity: Feral Scent, Disfigured, Hunchback, Tainted by Evil, or Repellent.
+Some human *bouda* of Morocco claim to belong to a legendary clan or tribe — their magic is believed to be passed down by their parents. Unlike the Folk Witches detailed in [*Hedge Magic Revised Edition*, pages 33–54](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-33>), these magicians are usually male (although their Gender Shift ability causes confusion) and have a more limited set of Favored Abilities aligned to the Faerie realm rather than the Magic realm. This is offset by enhanced control over their hyena form and gender, mind control powers, and either blacksmithing or woodcarving magic (typically Muto Terram or Muto Herbam effects). Some *bouda* have additional powers such as Animal Healing, Summon Animals, or additional smithing powers. Most human *bouda* are Gifted, but unGifted characters descended from *bouda* or Faerie-touched individuals can be initiated into the tradition using Initiations, following the rules presented in the Introduction of *Hedge Magic Revised Edition*. The Ordeal Flaws inflicted by these variant Folk With Initiations generally relate to the unsavory qualities of the hyena and their poor reputation or physical deformity: Feral Scent, Disfigured, Hunchback, Tainted by Evil, or Repellent.
 
 <!-- p. 119 --><a id="page-119"></a>
 
@@ -5873,7 +5873,7 @@ Even larger scorpions can be found deep in the deserts – comparatively giganti
 
 #### Optional Rules: Swarms
 
-Rules for swarms of small creatures such as black beetles (Size –15) or normal sized scorpions (Size –9 or –10) were first presented in [*Legends of Hermes*, page 44](<Ars Magica 5e - Legends of Hermes.md>) and may be particularly useful for wizards or *jinn* capable of controlling large numbers of tiny creatures through the use of the *Command Animals* or *Summon Animals* Virtues, an innate Magical power, or equivalent Hermetic magic. An evil *jinni* that takes the form of a swarm of smaller creatures such as beetles, scorpions or rats would be thematically appropriate.
+Rules for swarms of small creatures such as black beetles (Size –15) or normal sized scorpions (Size –9 or –10) were first presented in [*Legends of Hermes*, page 44](<Ars Magica 5e - Legends of Hermes.md#page-44>) and may be particularly useful for wizards or *jinn* capable of controlling large numbers of tiny creatures through the use of the *Command Animals* or *Summon Animals* Virtues, an innate Magical power, or equivalent Hermetic magic. An evil *jinni* that takes the form of a swarm of smaller creatures such as beetles, scorpions or rats would be thematically appropriate.
 
 The venom of normal-sized scorpions is painful, but individual stings are rarely fatal for healthy people. In Africa, where scorpions are common, the allergy that causes their sting to be fatal may be taken as a Minor Flaw. An attacking swarm of scorpions does +10 damage automatically each round, but this can be Soaked normally.
 

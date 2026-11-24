@@ -844,7 +844,7 @@ The sahir is capable of casting a unique type of spell called a Name of Power, w
 
 *For example, Jasmin knows the Name of Power: Ishtar at Level 20, granting her +4 to healing effects. She utters this formula in the round before a Solomonic Physic formula designed to speed recovery, and receives a +4 bonus to her Casting Total. Jasmin also knows a Level 15 Name of Power: Ninhursag that gives +3 to earth-related effects, and a Level 15 Name of Power: Nergal that gives +3 to destruction-related effects. She wants to summon an earthquake spirit, so takes two rounds to utter both; however, since her Finesse is 5, she receives only +5 to her roll to summon the spirit, rather than +6.*
 
-Botching a Name of Power roll, or a spell affected by a Name of Power, usually attracts the negative attention of the Named being. This Virtue is similar to (and possibly the ancestor of) the Invocation Magic Virtue ([*The Mysteries Revised Edition*, page 78](<Ars Magica 5e - The Mysteries (Revised).md>)).
+Botching a Name of Power roll, or a spell affected by a Name of Power, usually attracts the negative attention of the Named being. This Virtue is similar to (and possibly the ancestor of) the Invocation Magic Virtue ([*The Mysteries Revised Edition*, page 78](<Ars Magica 5e - The Mysteries (Revised).md#page-78>)).
 
 The yatus (see Persia, Chapter 8) introduced this Virtue into the Suhhar Sulayman, and they usually call upon the names of the ancient Mesopotamian gods (see Mythic Mesopotamia, Chapter 7).
 
@@ -938,7 +938,7 @@ Designing sahirs is slightly different from making magi, as the majority of sahi
 >
 > #### (Theurgical) Summoning, or (Elemental) Summoning
 >
-> Some of this magical tradition’s followers summon spirits associated with the elemental forms (Aquam, Auram, Ignem, or Terram). The spirit can come from any realm, and is typically held within a container until released. The power is most commonly Magic, though other realms are possible. It is relatively common in Persia and Asia Minor. ([*Hedge Magic Revised Edition*, pages 23-24](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>))
+> Some of this magical tradition’s followers summon spirits associated with the elemental forms (Aquam, Auram, Ignem, or Terram). The spirit can come from any realm, and is typically held within a container until released. The power is most commonly Magic, though other realms are possible. It is relatively common in Persia and Asia Minor. ([*Hedge Magic Revised Edition*, pages 23-24](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-23>))
 >
 > #### (Exotic) Sihr, or (Jinni) Summoning
 >
@@ -952,7 +952,7 @@ Gifted sahirs should occupy the same status as magi. With the troupe’s approva
 
 #### Virtues and Flaws
 
-Every sahir accepted into the Suhhar Sulayman takes the Free Sahir Social Status Virtue. Unless he takes the Dark Secret Flaw, he should have the Sihr Virtue or another Virtue or Virtues that allow him to summon spirits. For example, a Kurdish group of sorcerers called the Mulhidun in northern Persia (see *Realms of Power: The Infernal*, [pages 136-137](#page-136)) have (Spirit) Summoning, and many of them have joined the Suhhar. There are also two societies of elemental wizards found throughout the region, called the Brethren of Purity and the Students of Avicenna (see [*Hedge Magic Revised Edition*, pages 28–32](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)), and a few of them might have a special elementalist summoning art (Theurgical Summoning) and one or more Elementalist Abilities (e.g., Elementalist Fire) that can be used in conjunction to summon an elemental spirit.
+Every sahir accepted into the Suhhar Sulayman takes the Free Sahir Social Status Virtue. Unless he takes the Dark Secret Flaw, he should have the Sihr Virtue or another Virtue or Virtues that allow him to summon spirits. For example, a Kurdish group of sorcerers called the Mulhidun in northern Persia (see *Realms of Power: The Infernal*, [pages 136-137](#page-136)) have (Spirit) Summoning, and many of them have joined the Suhhar. There are also two societies of elemental wizards found throughout the region, called the Brethren of Purity and the Students of Avicenna (see [*Hedge Magic Revised Edition*, pages 28–32](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-28>)), and a few of them might have a special elementalist summoning art (Theurgical Summoning) and one or more Elementalist Abilities (e.g., Elementalist Fire) that can be used in conjunction to summon an elemental spirit.
 
 A sahir with The Gift and a summoning Virtue or Virtues may begin play after having been initiated into the tradition by another Gifted sahir, with all five of his Solomonic arts opened at 0. He also receives a Minor Virtue at no cost to represent his teacher’s influence: usually Puissant (Ability) in the Solomonic art associated with the master’s family.
 
@@ -1839,7 +1839,7 @@ Some ritual spell effects give the sahir the ability to sense danger, similar to
 
 <!-- p. 51 --><a id="page-51"></a>
 
-Answers provided by Solomonic Astrology are not absolute, especially when they involve the future, though they do provide indicators that sahirs can interpret to receive clear answers to specific questions. For more guidance on the sorts of results that astrological calculations tend to provide, see [*Art & Academe*, page 74](<Ars Magica 5e - Art & Academe.md>).
+Answers provided by Solomonic Astrology are not absolute, especially when they involve the future, though they do provide indicators that sahirs can interpret to receive clear answers to specific questions. For more guidance on the sorts of results that astrological calculations tend to provide, see [*Art & Academe*, page 74](<Ars Magica 5e - Art & Academe.md#page-74>).
 
 When used with Artes Liberales to disguise or augment his casting, the sahir must make up an astrological chart for the target. This requires knowledge of the date and place of its birth, and an Intelligence + Artes Liberales roll against an Ease Factor of 9.
 
@@ -2334,12 +2334,12 @@ This effect closes a passage that has been opened with Solomonic Travel or a sim
 > **Level 15:** Open a passage into the Twilight Void (see *Realms of Power: Magic*, [pages 23–26](#page-23)). (Ritual)<br>
 > Open a window through an Arcane Connection. (Ritual)<br>
 > Open a window through which ghosts and other insubstantial beings can be seen. (Ritual)<br>
-> Open a window into a sleeping person’s dreams (see [*The Mysteries Revised Edition*, pages 102–111](<Ars Magica 5e - The Mysteries (Revised).md>)). (Ritual)
+> Open a window into a sleeping person’s dreams (see [*The Mysteries Revised Edition*, pages 102–111](<Ars Magica 5e - The Mysteries (Revised).md#page-102>)). (Ritual)
 >
 > **Level 20:** Open a window to or from the physical world through a Magic Realm vestige or boundary (see *Realms of Power: Magic*, [pages 21-23](#page-21)). (Ritual)
 >
 > **Level 25:** Open a passage that transforms the sahir and his companions into spirits for the duration. (Ritual)<br>
-> Open a passage into a sleeping person’s dreams (see [*The Mysteries Revised Edition*, pages 102–111](<Ars Magica 5e - The Mysteries (Revised).md>)). (Ritual)<br>
+> Open a passage into a sleeping person’s dreams (see [*The Mysteries Revised Edition*, pages 102–111](<Ars Magica 5e - The Mysteries (Revised).md#page-102>)). (Ritual)<br>
 > Open a passage through an Arcane Connection. (Ritual)
 >
 > **Level 30:** Open a direct passage to or from the Magic Realm through a vestige or boundary, bypassing the Twilight Void (see *Realms of Power: Magic*, [pages 21–23](#page-21)). (Ritual)<br>
@@ -3901,7 +3901,7 @@ Mobeds experience the Divine Ascent in place of generic Warping or Twilight, wit
 
 #### Mazdean Hedge Magic
 
-The mobeds are known for their strong alchemical lore; the *Videvdat,* for example, focuses on alchemy and medicine. Mobeds may take the Mythic Alchemy and Mythic Herbalism Virtues (see [*Hedge Magic Revised Edition*, pages 81–82](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>)) without the need for any further background explanation, and these Virtues are often associated with the Divine Realm, rather than Magic. However, it is not unusual for a mobed to have supernatural powers derived from both realms.
+The mobeds are known for their strong alchemical lore; the *Videvdat,* for example, focuses on alchemy and medicine. Mobeds may take the Mythic Alchemy and Mythic Herbalism Virtues (see [*Hedge Magic Revised Edition*, pages 81–82](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-81>)) without the need for any further background explanation, and these Virtues are often associated with the Divine Realm, rather than Magic. However, it is not unusual for a mobed to have supernatural powers derived from both realms.
 
 ### Holy Powers
 
@@ -4215,7 +4215,7 @@ So long as the mobed maintain the maxims of Zoroaster and Ohrmazd, remains in a 
 
 ### Mobed Initiations
 
-The following Initiations are mainly used by Gifted mobeds, and Initiate the version of the Virtue associated with the Magic realm. Similar Initiations exist for mobeds with True Faith, to Initiate the Divine versions of the Virtues. Mobeds can initiate unGifted practitioners into their mysteries. The rules for this are laid out in [*Hedge Magic Revised Edition*, page 13](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>).
+The following Initiations are mainly used by Gifted mobeds, and Initiate the version of the Virtue associated with the Magic realm. Similar Initiations exist for mobeds with True Faith, to Initiate the Divine versions of the Virtues. Mobeds can initiate unGifted practitioners into their mysteries. The rules for this are laid out in [*Hedge Magic Revised Edition*, page 13](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-13>).
 
 #### Mobed Initiation Scripts
 
@@ -4403,7 +4403,7 @@ Regardless of whether he is human or jinn, Muslim or pagan, a member of a Bedoui
 
 A disproportionately large number of Bedouin possess supernatural ability when compared to the town dwellers in the settled parts of Arabia. It has been noted that Bedouin sahirs are more often Gifted than their fellows in other areas of the Mythic Middle East. Such sahirs typically specialize in either Solomonic Storytelling or Solomonic Travel, although some Bedouin sahirs disdain the more specific techniques and concentrate on summoning and bargaining with jinn exclusively. These sahirs are usually accompanied by their favorite falcon or saluqi, which is actually a Faerie jinn servant bound by a khadim bond (see Chapter 3: The Order of Suleiman for further details on sahirs).
 
-All tribes include at least one sahir, often supported by female hedge magicians known as *hakima* (“wise women”) or *kahina* (“soothsayers”) that resemble Folk Witches aligned to the Faerie Realm, or male *shai’ir*, poets resembling the ancient artists of pre-Islamic times. The unGifted hedge witches typically lack the Cursing and Flight powers and have the Animal Healing and Entrancement Virtues instead. Details of Folk Witches can be found in [*Hedge Magic*, pages 33–53](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>), although some of the ideas for Faerie Doctors presented in *Realms of Power: Faerie*, [pages 117–118](#page-117), may be equally appropriate. Details on Arabian poets are given in the sidebar on Arab Poetry later.
+All tribes include at least one sahir, often supported by female hedge magicians known as *hakima* (“wise women”) or *kahina* (“soothsayers”) that resemble Folk Witches aligned to the Faerie Realm, or male *shai’ir*, poets resembling the ancient artists of pre-Islamic times. The unGifted hedge witches typically lack the Cursing and Flight powers and have the Animal Healing and Entrancement Virtues instead. Details of Folk Witches can be found in [*Hedge Magic*, pages 33–53](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-33>), although some of the ideas for Faerie Doctors presented in *Realms of Power: Faerie*, [pages 117–118](#page-117), may be equally appropriate. Details on Arabian poets are given in the sidebar on Arab Poetry later.
 
 #### Brothers of the Tribe
 
@@ -4816,7 +4816,7 @@ Myrrh, in contrast, is a reddish-brown resin, with the best quality specimens be
 
 > ### Flying Serpent (Iaculus)
 >
-> The flying serpents known to Pliny as syrenii are found in great numbers in southern Arabia and on the island of Soqotra to the far south of Yemen (see [*Rival Magic*, page 110](<Ars Magica 5e - Magic - Rival Magic.md>)). The Arabian snakes are typically white in coloration with bat-like wings, and an individual syrenus may sport a pair of short legs. These snakes perch in the incense trees of Hadramawt and are known for their darting attack, leaping out of trees onto passing prey. Flocks of syrenii attempt to migrate into Egypt each year, only to be destroyed by their natural enemies, the ibises.
+> The flying serpents known to Pliny as syrenii are found in great numbers in southern Arabia and on the island of Soqotra to the far south of Yemen (see [*Rival Magic*, page 110](<Ars Magica 5e - Magic - Rival Magic.md#page-110>)). The Arabian snakes are typically white in coloration with bat-like wings, and an individual syrenus may sport a pair of short legs. These snakes perch in the incense trees of Hadramawt and are known for their darting attack, leaping out of trees onto passing prey. Flocks of syrenii attempt to migrate into Egypt each year, only to be destroyed by their natural enemies, the ibises.
 >
 > Hermetic magi refer to these snakes as iaculii, but most mundanes call them “javelin-snakes” or “darters” due to their unusually rapid and lethal method of attack. As the ibis is linked to Thoth and therefore Hermes, most Hermetic magi consider an iaculus an ill-omened creature, but at least one Quaesitor uses them as aids to his investigations. Exceptional syrenii are believed to have additional powers allowing them to ignore wards and other protection magic in order to deliver their venom, but these claims have yet to be investigated by Hermetic magi. Their exact relationship to the magical Olibanum Serpents of Soqotra is unclear but the Arabian serpents are much less sociable than their kin and appear resistant to being tamed short of magical means. It is not known whether the syrenii originated on Soqotra or the more aggressive variety represents a more primitive species that was then imported from the mainland.
 >
@@ -5249,7 +5249,7 @@ The entrances to Golden Baghdad may take any form, from a simple mundane doorway
 >
 > #### The Ruined Palace
 >
-> The imperial palace at Ctesiphon is remarkable for the vaulted arch over the remains of what used to be the Persian emperor’s throne room, which is over 110 feet tall at its highest point. This is of great interest to practitioners of the Mystery of Hermetic Architecture ([*The Mysteries*, pages 97–101](<Ars Magica 5e - The Mysteries (Revised).md>)). If a character seeks membership in such a cult, he might be asked to investigate the site as part of his Initiation. Otherwise, the characters might be asked to accompany a cult member to Ctesiphon on some pretext. Investigating the site presents its own challenges though, as the people are likely to be suspicious of foreign strangers poking around in the ruins of the palace.
+> The imperial palace at Ctesiphon is remarkable for the vaulted arch over the remains of what used to be the Persian emperor’s throne room, which is over 110 feet tall at its highest point. This is of great interest to practitioners of the Mystery of Hermetic Architecture ([*The Mysteries*, pages 97–101](<Ars Magica 5e - The Mysteries (Revised).md#page-97>)). If a character seeks membership in such a cult, he might be asked to investigate the site as part of his Initiation. Otherwise, the characters might be asked to accompany a cult member to Ctesiphon on some pretext. Investigating the site presents its own challenges though, as the people are likely to be suspicious of foreign strangers poking around in the ruins of the palace.
 >
 > #### The Enemies of Dayr al-’Aqul
 >
@@ -5283,7 +5283,7 @@ A mile to the east lies the monastery of Dayr Qunna, which is a large building w
 
 *— The Bible,* Daniel 5: 22–23 and 30
 
-The city of Babylon, in southern Iraq, has been the site of many dramatic events of history. It witnessed the chaining of Harut and Marut, the angels who taught magic to humans and now hang bound beneath the ruined city; the building of the Tower of Babel; the exile of the Jews; the construction of the Hanging Gardens by Nebuchadnezzar; and the subsequent destruction of the city and Belshazzar’s kingdom by the Persians. As such, it is a site of great potential interest to explorers. More details on Babylon and its mysteries may be found in [*Ancient Magic*, pages 12–15](<Ars Magica 5e - Magic - Ancient Magic.md>).
+The city of Babylon, in southern Iraq, has been the site of many dramatic events of history. It witnessed the chaining of Harut and Marut, the angels who taught magic to humans and now hang bound beneath the ruined city; the building of the Tower of Babel; the exile of the Jews; the construction of the Hanging Gardens by Nebuchadnezzar; and the subsequent destruction of the city and Belshazzar’s kingdom by the Persians. As such, it is a site of great potential interest to explorers. More details on Babylon and its mysteries may be found in [*Ancient Magic*, pages 12–15](<Ars Magica 5e - Magic - Ancient Magic.md#page-12>).
 
 > ### The Epic of Gilgamesh
 >
@@ -5525,7 +5525,7 @@ All of the remaining sahirs from Nasibin now travel in roving caravans across th
 >
 > *— The Bible,* Genesis 8: 4
 >
-> According to the Bible, Noah’s ark came to rest upon Mount Ararat in Armenia, something that accords with Christian and Jewish belief, but contradicts Islamic belief. In fact, both groups are right in a sense: the remains of the ark are in a regio that may be reached from either mountain. On Mount Judi it is possible to enter the resting place of the ark from the mosque; characters have merely to walk *through* the mihrab, even though it appears to be made of solid marble, in order to be transported there. For more on Mount Ararat and the resting place of Noah’s ark see [*Ancient Magic*, pages 70–73](<Ars Magica 5e - Magic - Ancient Magic.md>).
+> According to the Bible, Noah’s ark came to rest upon Mount Ararat in Armenia, something that accords with Christian and Jewish belief, but contradicts Islamic belief. In fact, both groups are right in a sense: the remains of the ark are in a regio that may be reached from either mountain. On Mount Judi it is possible to enter the resting place of the ark from the mosque; characters have merely to walk *through* the mihrab, even though it appears to be made of solid marble, in order to be transported there. For more on Mount Ararat and the resting place of Noah’s ark see [*Ancient Magic*, pages 70–73](<Ars Magica 5e - Magic - Ancient Magic.md#page-70>).
 
 ### Mount Judi
 
@@ -6549,7 +6549,7 @@ If the characters need a particularly exotic ingredient or item, then Merv is a 
 
 > ### Rishtah
 >
-> A disease that is particularly common in Khurasan thanks to the malign influence of Mars is *rishtah*, known as *dracunculus* (“little dragon”) in Latin. Worms form in the flesh of the limbs of the victim, and their hot venom causes severe inflammation and paralysis of the infected limb. Most often the legs are affected (causing the Lame Flaw until cured), but rishtah occasionally afflicts the arms or eyes (simulated with the Missing Hand or Missing Eye Flaws, respectively). Rishtah is difficult to contract, but also difficult to eliminate without medical assistance. It is a Serious Choleric disease of Severity 12; with a Stable Ease Factor of 4 and a Recovery Ease Factor of 18. The interval time is one month (for more details of diseases, see [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md>)).
+> A disease that is particularly common in Khurasan thanks to the malign influence of Mars is *rishtah*, known as *dracunculus* (“little dragon”) in Latin. Worms form in the flesh of the limbs of the victim, and their hot venom causes severe inflammation and paralysis of the infected limb. Most often the legs are affected (causing the Lame Flaw until cured), but rishtah occasionally afflicts the arms or eyes (simulated with the Missing Hand or Missing Eye Flaws, respectively). Rishtah is difficult to contract, but also difficult to eliminate without medical assistance. It is a Serious Choleric disease of Severity 12; with a Stable Ease Factor of 4 and a Recovery Ease Factor of 18. The interval time is one month (for more details of diseases, see [*Art & Academe*, page 45](<Ars Magica 5e - Art & Academe.md#page-45>)).
 >
 > A cure used by the Ghuzz is to bury the afflicted limb in hot sand from dawn until dusk. The worm then migrates from the limb and into the sand. The problem with this cure is that sometimes the rishtah survives in the sand and can grow to be five feet long (and some report even bigger ones). The Ghuzz call such a worm the *olghoi khorkhoi*, and report that it has been known to attack travelers and livestock with its fiery venom.
 
@@ -6910,7 +6910,7 @@ This landmark marks the site of an ancient battle between the forces of Alexande
 >
 > #### Altars of Alexander
 >
-> Of further interest to Hermetic Seekers, an altar of Alexander is hidden within one of the temples at the outskirts of the city. As detailed in [*Ancient Magic*, page 125](<Ars Magica 5e - Magic - Ancient Magic.md>), the altars of Alexander have powerful mystical connections to each other, and link to over 70 different sites. A magus, casting a spell using the Arcane Connection Range while touching such an altar, is considered to have an Arcane Connection with a +4 Penetration multiplier to the other shrines, cities, or temples so connected. This site may either provide an entry point into the Mythic Middle East for Seekers investigating other sites or a potential lifeline back to Europe for Hermetic colonists deep within enemy territory.
+> Of further interest to Hermetic Seekers, an altar of Alexander is hidden within one of the temples at the outskirts of the city. As detailed in [*Ancient Magic*, page 125](<Ars Magica 5e - Magic - Ancient Magic.md#page-125>), the altars of Alexander have powerful mystical connections to each other, and link to over 70 different sites. A magus, casting a spell using the Arcane Connection Range while touching such an altar, is considered to have an Arcane Connection with a +4 Penetration multiplier to the other shrines, cities, or temples so connected. This site may either provide an entry point into the Mythic Middle East for Seekers investigating other sites or a potential lifeline back to Europe for Hermetic colonists deep within enemy territory.
 >
 > #### A Covenant on the Rock?
 >
@@ -7384,7 +7384,7 @@ Steppe ponies are bred from the wild horses of the Steppe by the various nomad t
 
 ## Mundane Mongols
 
-The following statistics represent an example of mundane versions of the Mongol forces invading Transoxiana and Eastern Persia, as seen through the eyes of their victims. These statistics first appeared in one form in [*Ancient Magic*, pages 15–18](<Ars Magica 5e - Magic - Ancient Magic.md#chapter-one>). Differing characteristics and Ability specializations may be used, depending on their role in your saga. Alternate ideas on the nomad horde and the effect of aligning it to the various Supernatural Realms follow later.
+The following statistics represent an example of mundane versions of the Mongol forces invading Transoxiana and Eastern Persia, as seen through the eyes of their victims. These statistics first appeared in one form in [*Ancient Magic*, pages 15–18](<Ars Magica 5e - Magic - Ancient Magic.md#page-15>). Differing characteristics and Ability specializations may be used, depending on their role in your saga. Alternate ideas on the nomad horde and the effect of aligning it to the various Supernatural Realms follow later.
 
 #### Mongol Trooper
 
@@ -7478,7 +7478,7 @@ A few of the Mongols in the army are tribal shamans of Great Tengri, the Mongol 
 
 All shamans have a personal familiar spirit, similar to the qareen noted in Chapter 4: The Jinn. This is usually an ancestor spirit associated with their homeland that follows them and aids them. For examples of these sorts of beings and the powers they have at their command, see *The Mysteries: Revised Edition* or *Realms of Power: Magic* or use the jinn as a guide to creating various elemental spirits.
 
-Note that these hedge wizards differ somewhat from the original shamans presented in [*Ancient Magic*, page 18](<Ars Magica 5e - Magic - Ancient Magic.md>).
+Note that these hedge wizards differ somewhat from the original shamans presented in [*Ancient Magic*, page 18](<Ars Magica 5e - Magic - Ancient Magic.md#page-18>).
 
 ## Great Tengri
 
@@ -7512,7 +7512,7 @@ At its settled fringes, where the Great Steppe has begun to fray under the advan
 >
 > The Ordeal inflicts an effect similar to a premature gain in enough Aging Points (in any Characteristic) to achieve the next level in Decrepitude, automatically forcing a Crisis (see [**ArM5**, pages 169–170](<Ars Magica 5e - Core Rules.md#aging-points>)), and the gain of enough Warping Points to raise his Warping score by 2.
 >
-> In return, the character gains the equivalent of the Nightwalker Virtue, and the ability to enter *ekstasis* and generate a spirit body referred to as a *phantasticum* in return for the Pagan Flaw — the great spirit, while tolerant, demands its messengers respect its divinity (see [*Hedge Magic Revised Edition*, pages 103–119](<Ars Magica 5e - Magic - Hedge Magic (Revised).md>), for examples of Nightwalker traditions capable of spirit traveling).
+> In return, the character gains the equivalent of the Nightwalker Virtue, and the ability to enter *ekstasis* and generate a spirit body referred to as a *phantasticum* in return for the Pagan Flaw — the great spirit, while tolerant, demands its messengers respect its divinity (see [*Hedge Magic Revised Edition*, pages 103–119](<Ars Magica 5e - Magic - Hedge Magic (Revised).md#page-103>), for examples of Nightwalker traditions capable of spirit traveling).
 >
 > #### The Founder’s Final Work
 >
@@ -7520,7 +7520,7 @@ At its settled fringes, where the Great Steppe has begun to fray under the advan
 
 ### Mythic Mongols
 
-The exact nature of Genghis Khan and his Mongol hordes is best left to individual troupes to determine, based on the needs of their saga and the resources available. The simplest approach is to treat the Mongols as mundane barbarians under a brilliantly talented mundane general and let history unfold as usual. Details for mundane Mongol troops are given earlier. Further details of the nomad horde’s activities in the Mythic Middle East in the immediate canonical future are given in Chapter 2 of [*Ancient Magic*, pages 15–18](<Ars Magica 5e - Magic - Ancient Magic.md>). The bibliography in the Appendix provides further reading and resources available on the web that may aid sagas with a strong Mongol story element.
+The exact nature of Genghis Khan and his Mongol hordes is best left to individual troupes to determine, based on the needs of their saga and the resources available. The simplest approach is to treat the Mongols as mundane barbarians under a brilliantly talented mundane general and let history unfold as usual. Details for mundane Mongol troops are given earlier. Further details of the nomad horde’s activities in the Mythic Middle East in the immediate canonical future are given in Chapter 2 of [*Ancient Magic*, pages 15–18](<Ars Magica 5e - Magic - Ancient Magic.md#page-15>). The bibliography in the Appendix provides further reading and resources available on the web that may aid sagas with a strong Mongol story element.
 
 <!-- p. 184 --><a id="page-184"></a>
 
